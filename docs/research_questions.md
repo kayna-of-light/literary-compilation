@@ -80,26 +80,481 @@ Framework should engage this literature seriously, not dismissively. Veridical p
 
 ---
 
-### [GDR] Dual Inheritance Theory vs. CDE
+### [GDR] CDE Core Validation: Methodological Frameworks for Detecting Conscious Influence
 
 **Target**: `[GDR]`  
 **Status**: Open  
-**Date Added**: 2025-12-27
+**Date Added**: 2025-12-27  
+**Priority**: CRITICAL  
+**Related Nodes**: CONSC-001, CROSS-003, CROSS-004
 
 **Context**:
-Framework proposes Consciousness-Driven Evolution (CDE) as selective pressure on memetic evolution. Critical analysis notes simpler alternatives (Dual Inheritance Theory, Cultural Group Selection) may explain same data without metaphysical consciousness-as-causal-force. Need comparison.
+The Consciousness-Driven Evolution (CDE) hypothesis is THE CORE MECHANISM of the entire framework. It proposes that NDE research demonstrates contact with a single, all-encompassing, loving consciousness (consistent across cultures). If this unified loving consciousness exists and is real, its influence should be visible in historical patterns, measurable in narrative evolution, consistent across cultures, and directional toward coherence/love/unity. This is not a competing theory—it's testing whether we can detect the fingerprints of unified loving consciousness throughout human history.
 
 **Research Question**:
-How do Boyd & Richerson's Dual Inheritance Theory and Wilson & Wilson's Cultural Group Selection explain the evolution of cooperation and cultural trajectories? Specifically:
-1. What predictions do these theories make about cultural evolution?
-2. How do they explain the emergence of prosocial norms without "ruling love" mechanism?
-3. What empirical tests distinguish these theories from CDE?
-4. Do these theories require consciousness-as-fundamental or treat it as epiphenomenon?
+What methodologies exist for detecting non-material causal influences on historical and cultural patterns? Specifically:
+1. How do we distinguish conscious influence from standard memetic/cultural evolution?
+2. What statistical signatures would differentiate conscious influence from random cultural drift?
+3. Can we identify "influx events" where consciousness-related breakthroughs cluster historically?
+4. What would constitute falsifiable predictions of conscious influence on myth/narrative evolution?
+5. Do Boyd & Richerson's Dual Inheritance Theory or Wilson's Cultural Group Selection provide sufficient explanations for "ruling love polarity" patterns (cooperation vs. defection dynamics at cultural scale)?
+6. If consciousness is fundamental (not epiphenomenal), what observable differences should exist compared to materialist cultural evolution models?
 
-Can CDE make any prediction that these simpler theories cannot? What would constitute evidence *requiring* consciousness as causal driver rather than accompanying correlate?
+**Expected Output**:
+Methodological framework for testing CDE as core mechanism. Criteria for distinguishing conscious influence from emergent cultural patterns. Falsifiable predictions that would validate or challenge the hypothesis.
 
 **Notes**:
-If simpler theories explain same data, Occam's Razor favors them unless CDE adds unique predictive power. Framework needs honest comparison. See `critical_analysis_report.md` Section 2B and `alternative_theories.md` action item.
+This is the foundational question for the entire framework. CDE is not competing with memetics—it's proposing consciousness as the causal driver BEHIND memetic selective pressures. See CONSC-001, framework synthesis documents.
+
+---
+
+### [NDE] NDE Consistency Across Cultures: Loving Consciousness Foundation
+
+**Target**: `[NDE]`  
+**Status**: Open  
+**Date Added**: 2025-12-27  
+**Priority**: CRITICAL  
+**Related Nodes**: CONSC-004, CONSC-008, CONSC-016
+
+**Context**:
+CDE's foundational premise: NDE research demonstrates contact with a single, all-encompassing, loving consciousness consistent across cultures, backgrounds, and beliefs. If this is accurate, it provides the empirical foundation for claiming conscious influence on history. Need statistical validation.
+
+**Research Question**:
+What percentage of NDEs across all cultures report encounter with a loving, unified consciousness (vs. neutral or negative)?
+1. How consistent is the "loving presence" phenomenology across: religious believers, atheists, different faith traditions?
+2. Statistical analysis: Does religious/cultural background predict NDE affective valence (loving vs. neutral vs. negative)?
+3. Temporal stability: Has this pattern remained consistent from 1970s NDE research to present?
+4. Cross-cultural comparison: Japanese, Hindu, Muslim, Indigenous NDEs—same loving consciousness or culturally-specific beings?
+5. Correlation between depth of NDE (Greyson Scale score) and sense of unified loving consciousness?
+6. What percentage of atheist/materialist NDErs report the same loving presence as religious believers?
+
+**Expected Output**:
+Statistical validation that a consistent "loving consciousness" appears across cultural/religious boundaries, OR data showing cultural conditioning determines NDE affective content. This establishes or challenges CDE's empirical foundation.
+
+**Notes**:
+This is CRITICAL. If loving consciousness is NOT consistent across cultures, CDE's premise collapses. If IT IS consistent, provides extraordinary evidence for unified conscious influence. See CONSC-004, CONSC-008 caveats on selection bias.
+
+---
+
+### [NDE] Distressing NDEs and the Ruling Love Hypothesis
+
+**Target**: `[NDE]`  
+**Status**: Open  
+**Date Added**: 2025-12-27  
+**Priority**: HIGH  
+**Related Nodes**: CONSC-004, SWED-003, CROSS-003
+
+**Context**:
+Swedenborgian cosmology predicts post-mortem experiences reflect "ruling love"—self-centered souls should experience initial distress matching their internal state. Framework emphasizes blissful NDEs. Need statistical data on distressing experiences to test ruling love hypothesis.
+
+**Research Question**:
+What percentage of documented NDEs are classified as distressing, frightening, or hellish?
+1. Breakdown by type: Inverse Experience (opposite of blissful), Void/Emptiness, Hellish Realm encounters?
+2. Demographic/psychological profiles: Do distressing NDEs correlate with specific personality traits, life circumstances, or moral frameworks?
+3. Transition patterns: What percentage of distressing NDEs later shift to positive (as in Howard Storm case)?
+4. Aftereffects: Do distressing NDErs show same life transformation as positive NDErs, or different trajectories?
+5. Cross-cultural variation: Are distressing NDEs more common in certain cultural/religious contexts?
+6. Ruling love test: Can we identify correlation between self-reported life orientation (service vs. self-interest) and NDE valence?
+
+**Expected Output**:
+If distressing NDEs are rare (<5%), framework must address why cosmology doesn't match empirical patterns. If common (>15%), provides validation for ruling love determining experience. Transition data tests whether ruling love can shift during/after NDE.
+
+**Notes**:
+Critical test of ruling love polarity. Cherry-picking blissful NDEs while ignoring distressing ones undermines framework integrity. Must address full phenomenological range. See CONSC-004, Swedenborg H&H §§ 477-480.
+
+---
+
+### [NDE] Life Review: Empathetic Component Statistical Frequency
+
+**Target**: `[NDE]`  
+**Status**: Open  
+**Date Added**: 2025-12-27  
+**Priority**: HIGH  
+**Related Nodes**: CONSC-003, CONSC-017, CROSS-003
+
+**Context**:
+Life review is treated as core NDE component and evidence for post-materialist framework. The empathetic component (feeling impact of actions from others' perspectives) would demonstrate moral/consciousness dimension that dying brain models cannot explain. Need frequency data.
+
+**Research Question**:
+What percentage of NDEs include a life review component?
+1. Of those with life review, what percentage report empathetic component (experiencing events from others' emotional perspectives) vs. purely observational memory replay?
+2. How does life review frequency vary by: cultural background, religious affiliation, age at NDE, cause (cardiac arrest vs. trauma vs. other)?
+3. Is there correlation between empathetic life reviews and subsequent life transformation (increased empathy, prosocial behavior)?
+4. Cross-cultural consistency: Do all cultures report similar empathetic life review, or is this Western Christian phenomenon?
+5. Neurological challenge: Can dying brain models explain why experiencers report feeling others' emotions during memory replay?
+
+**Expected Output**:
+If empathetic component is common (>40%), strengthens framework's ruling love revelation claim. If life review is rare or non-empathetic, framework interpretation requires significant revision.
+
+**Notes**:
+CONSC-003 validated with high confidence but lacks statistical support. Empathetic life review is framework's strongest evidence for consciousness revealing moral dimension. Must quantify. See CONSC_Domain_Validation_Report Section 1.3.
+
+---
+
+### [GDR] Historical Pattern Detection: Influx Events and Consciousness Breakthroughs
+
+**Target**: `[GDR]`  
+**Status**: Open  
+**Date Added**: 2025-12-27  
+**Priority**: HIGH  
+**Related Nodes**: CONSC-001, SWED-002, SWED-004, CROSS-004
+
+**Context**:
+If unified loving consciousness influences history through "divine influx," there should be identifiable historical moments when consciousness-related breakthroughs cluster: Ancient Word → Hebrew Prophets → Christ → Swedenborg. Can we detect measurable patterns distinguishing these from random cultural innovation?
+
+**Research Question**:
+Can we identify historical "influx events" where consciousness-related breakthroughs cluster? Investigate:
+1. Timeline analysis: Do universalist/compassion-oriented religious innovations cluster in specific periods vs. distribute randomly?
+2. Geographic patterns: Do societies with stronger correspondence-based cognition (symbolic thinking linking nature to spirit) show different cultural trajectories than purely rational/materialist ones?
+3. Correlation studies: Is there measurable relationship between collective spiritual development (compassion ethics, non-violence) and cultural flourishing (stability, innovation, longevity)?
+4. Resistance patterns: Can we detect consistent "proprium/self-love" opposition that resists loving consciousness influence (empire-building, slavery, hierarchical oppression)?
+5. Cross-cultural convergence: Do independent cultures develop similar ethical breakthroughs (Golden Rule equivalents) suggesting common conscious influence vs. independent evolution?
+
+**Expected Output**:
+If breakthroughs cluster non-randomly and show cross-cultural convergence toward compassion ethics, supports conscious influence hypothesis. If random or explainable by diffusion/natural selection, challenges CDE premise.
+
+**Notes**:
+This tests whether "fingerprints of unified loving consciousness" are detectable in history. Framework claims influx operates throughout time—must be testable. See Swedenborg Divine Providence, SWED-002.
+
+---
+
+### [GDR] Narrative Evolution: Unity→Fragmentation Pattern Detection
+
+**Target**: `[GDR]`  
+**Status**: Open  
+**Date Added**: 2025-12-27  
+**Priority**: HIGH  
+**Related Nodes**: MYTH-002, MYTH-015, CONSC-001
+
+**Context**:
+Framework claims myths consistently evolve from unity→fragmentation across independent cultures (Ancient Word degradation). This would be measurable signature of conscious influence. Need cross-cultural statistical analysis to test pattern validity.
+
+**Research Question**:
+Do myths consistently evolve from unity→fragmentation as framework claims? Analyze:
+1. Proto-myth reconstruction: Can we identify common mythic elements (primordial unity, creation patterns) that diverge into opposing trajectories across cultures?
+2. Trajectory A (Unity): Do myths emphasizing monotheism, compassion, interconnectedness show measurable "coherence" compared to...
+3. Trajectory B (Fragmentation): Myths emphasizing polytheistic conflict, hierarchical oppression, cosmic alienation?
+4. Independent evolution test: Do cultures with NO historical contact show same unity→fragmentation pattern, or is this limited to ANE/Mediterranean sphere?
+5. Statistical signatures: Can we measure "coherence loss" in religious traditions over time (tracking doctrine splits, schisms, competing interpretations)?
+6. Counter-examples: Are there myths that evolve from fragmentation→unity, contradicting framework's directional claim?
+
+**Expected Output**:
+If unity→fragmentation pattern exists cross-culturally with statistical significance, supports conscious influence degradation model. If pattern is ANE-specific or bidirectional, challenges framework's universal claim.
+
+**Notes**:
+Core CDE prediction—myths should show measurable trajectory based on ruling love orientation. See MYTH-002 (Heart of Division vs. Unity), MYTH-015 (Genesis/Enuma Elish). Must distinguish pattern-finding from confirmation bias.
+
+---
+
+### [GDR] Proto-Myth Signatures: Conscious Source vs. Convergent Evolution
+
+**Target**: `[GDR]`  
+**Status**: Open  
+**Date Added**: 2025-12-27  
+**Priority**: MEDIUM  
+**Related Nodes**: MYTH-002, SWED-004, MYTH-008
+
+**Context**:
+Framework proposes proto-myths sharing "Ancient Word" origins show statistical signatures of common conscious source vs. convergent evolution from universal human cognition. Need methodology to distinguish.
+
+**Research Question**:
+Do proto-myths sharing Ancient Word origins show measurable signatures of common source vs. convergent evolution? Investigate:
+1. Linguistic methodology: Can comparative mythology use methods similar to proto-Indo-European reconstruction to trace mythic relationships?
+2. Signature analysis: What would distinguish myths sharing a conscious source (Ancient Word) vs. arising independently from universal cognitive patterns (Jung's archetypes, CSR findings)?
+3. Structural vs. content similarity: Do shared mythic structures (flood, creation, fall) indicate common origin or cognitive universals?
+4. Distribution patterns: If Ancient Word existed, should we expect regional clustering vs. global distribution of similar myths?
+5. Test case: Flood narratives (Gilgamesh, Atrahasis, Genesis, Hindu Matsya, Aztec)—common memory of event, conscious transmission, or convergent response to local flooding?
+6. Falsification: What evidence would prove myths arose independently rather than from common Ancient Word?
+
+**Expected Output**:
+Methodology for distinguishing conscious transmission vs. convergent evolution. If no distinguishing criteria exist, Ancient Word claim remains unfalsifiable theological interpretation.
+
+**Notes**:
+Ancient Word hypothesis (SWED-004) is central to framework but potentially unfalsifiable. Need honest assessment of whether this can be tested empirically or must remain faith claim. See MYTH-003, MYTH-008.
+
+---
+
+### [NDE] Veridical Perception: AWARE Study Systematic Review
+
+**Target**: `[GDR]`  
+**Status**: Open  
+**Date Added**: 2025-12-27  
+**Priority**: CRITICAL  
+**Related Nodes**: CONSC-004, CONSC-017
+
+**Context**:
+Framework cites veridical perception during cardiac arrest as strongest evidence consciousness operates independently of brain. Must report overall success/failure rates in controlled studies, not just remarkable anecdotes. AWARE/AWARE II provide systematic data.
+
+**Research Question**:
+In the AWARE study (Parnia 2014) and AWARE II:
+1. Total numbers: (a) cardiac arrests studied, (b) survivors reporting awareness during arrest, (c) survivors who could have seen hidden targets, (d) verified accurate perceptions of targets?
+2. What were methodological critiques of these studies, and how did researchers respond?
+3. What is the statistical significance of any positive results?
+4. What do neuroscientists consider strongest alternative explanations for verified perceptions (information leakage, prior knowledge, lucky guesses, anesthesia awareness)?
+5. Have any veridical perception claims been independently replicated in controlled hospital settings?
+6. What percentage of NDErs report veridical perception outside controlled studies, and what are verification challenges?
+
+**Expected Output**:
+This is framework's empirical linchpin. If verification rates are statistically significant under controlled conditions, dramatically strengthens post-materialist case. If near-zero despite large sample, framework must engage why consciousness independence doesn't manifest when properly controlled.
+
+**Notes**:
+Framework MUST present full statistical context—success AND failure rates. Cherry-picked anecdotes insufficient for scientific claim. See CONSC_Domain_Validation_Report Section 3.1, critical analysis Section 7A.
+
+---
+
+### [GDR] Love-Oriented vs. Self-Oriented Traditions: Narrative Stability Measurement
+
+**Target**: `[GDR]`  
+**Status**: Open  
+**Date Added**: 2025-12-27  
+**Priority**: MEDIUM  
+**Related Nodes**: CONSC-001, CROSS-003, MYTH-002
+
+**Context**:
+CDE predicts measurable difference in narrative stability between love-oriented (neighbor-focused) traditions vs. self-oriented (power-focused) traditions. Love should produce coherence; self-orientation should produce fragmentation. Can we measure this?
+
+**Research Question**:
+Is there measurable difference in narrative/doctrinal stability between love-oriented vs. self-oriented religious/philosophical traditions? Analyze:
+1. Coherence metrics: Can we quantify doctrinal stability (fewer schisms, consistent core ethics) vs. fragmentation (competing interpretations, sectarian divisions)?
+2. Longitudinal tracking: Do traditions emphasizing universal compassion (Buddhism, Franciscanism, Quakers) show greater doctrinal continuity than traditions emphasizing hierarchy/power (imperial Christianity, militant Islam)?
+3. Corruption resistance: Do love-oriented movements maintain ethical core despite institutional corruption better than power-oriented movements?
+4. Innovation patterns: When traditions splinter, do love-oriented splits produce complementary expressions vs. self-oriented splits producing antagonistic factions?
+5. Historical longevity: Correlation between love-ethics centrality and tradition survival/influence over time?
+6. Falsification test: What would constitute evidence that love/self-orientation does NOT predict narrative stability?
+
+**Expected Output**:
+If love-oriented traditions show measurably greater coherence and stability, supports CDE's ruling love polarity mechanism. If no difference or opposite pattern, challenges framework's core prediction.
+
+**Notes**:
+This tests CDE's specific prediction: ruling love (love vs. self) acts as selective pressure on memetic evolution. Must be measurable to be meaningful. See CROSS-003, framework synthesis documents on ruling love.
+
+---
+
+### [GDR/NLM] Swedenborgian Predictive Power: Influx and NDE Phenomenology
+
+**Target**: `[GDR]` `[NLM]`  
+**Status**: Open  
+**Date Added**: 2025-12-27  
+**Priority**: HIGH  
+**Related Nodes**: SWED-002, SWED-003, CONSC-004
+
+**Context**:
+Framework claims Swedenborg's 18th-century "influx" doctrine and post-mortem cosmology predict NDE phenomenology before NDE research existed (1970s). If true, remarkable validation. Need specific comparison.
+
+**Research Question**:
+Does Swedenborg's influx doctrine predict NDE phenomenology discovered 200+ years later? Compare:
+1. Swedenborg's "World of Spirits" description (Heaven and Hell §§ 421-535) to NDE "otherworldly realm" phenomenology—specific matches?
+2. Swedenborg's "life review" as ruling love revelation vs. NDE empathetic life review—same mechanism?
+3. Swedenborg's post-mortem "sorting" by internal state vs. NDE "self-judgment" reports—predictive accuracy?
+4. Swedenborgian "Divine Human" encounter descriptions vs. NDE "Being of Light" personality profile?
+5. Temporal sequence: Can we verify Swedenborg described these BEFORE any documented NDE reports?
+6. Specificity test: Are Swedenborg's descriptions specific enough to constitute genuine prediction vs. vague compatibility?
+
+**Expected Output**:
+If Swedenborg's descriptions specifically predict later NDE findings, extraordinary validation for framework. If descriptions are post-hoc compatible but not genuinely predictive, weakens theological foundation.
+
+**Notes**:
+This is crucial epistemological test. Genuine prediction (before discovery) vs. ret roactive compatibility (after discovery) is critical distinction. Swedenborg wrote 1740s-1770s; systematic NDE research began 1970s (Moody, Ring). See SWED-003, CONSC-004.
+
+---
+
+### [GDR] Ruling Love Polarity: Moral Psychology Validation
+
+**Target**: `[GDR]`  
+**Status**: Open  
+**Date Added**: 2025-12-27  
+**Priority**: MEDIUM  
+**Related Nodes**: CROSS-003, SWED-008, CONSC-007
+
+**Context**:
+Framework's ruling love binary (self-love vs. neighbor-love) needs validation against contemporary moral psychology. Does human motivation research support this polarity, or is it oversimplified?
+
+**Research Question**:
+How does Swedenborgian "ruling love" binary relate to contemporary moral psychology? Investigate:
+1. Kohlberg's moral development stages (progression from self-interest to principled ethics)—compatible with ruling love or contradictory?
+2. Haidt's Moral Foundations Theory (multiple independent values: care, fairness, loyalty, authority, sanctity, liberty)—can these map to binary polarity or does multiplicity refute reductive model?
+3. Developmental psychology: Do people shift moral orientations over lifespan? If yes, what does this mean for "ruling love" as allegedly fixed pole?
+4. Regeneration doctrine: If Swedenborg's "regeneration" allows ruling love to change, is binary about current state vs. ultimate trajectory?
+5. Mixed motivations: Can framework distinguish temporary self-interest (biological drives, survival) from proprium (spiritual self-glorification)?
+6. Cross-cultural validation: Is self/other-orientation binary universal across cultures or Western construct?
+
+**Expected Output**:
+Framework must show ruling love model handles real human psychological complexity. If cannot, model is oversimplified theological construct useful for interpretation but not descriptively accurate.
+
+**Notes**:
+Critical analysis Section 3 identifies ruling love polarity as potentially reductive. Framework can survive this challenge but needs nuancing. See CROSS-003 caveats, SWED-008 on regeneration allowing change.
+
+---
+
+### [GDR] Proprium Resistance Patterns: Historical Correlation Studies
+
+**Target**: `[GDR]`  
+**Status**: Open  
+**Date Added**: 2025-12-27  
+**Priority**: MEDIUM  
+**Related Nodes**: SWED-005, GNOS-001, EARLY-003
+
+**Context**:
+CDE predicts consistent "proprium/self-love" patterns that resist loving consciousness influence throughout history. Can we identify measurable historical signatures of this resistance?
+
+**Research Question**:
+Can we detect "proprium resistance patterns" that consistently oppose loving consciousness influence? Analyze:
+1. Empire-building cycles: Do imperial expansions correlate with periods of declining compassion ethics and increasing hierarchical control?
+2. Institutional corruption: When religious/spiritual movements gain power, is there measurable shift from love-focused to self-preservation focused messaging?
+3. Gnostic emergence: Do gnostic movements (emphasizing elite knowledge, material rejection, self-divinity) consistently arise in response to institutional Christianity's power consolidation?
+4. Slavery and oppression: Can we track correlation between self-oriented theology (chosen people, divine right, racial superiority) and oppressive social structures?
+5. Counter-movements: Do kenotic movements (Desert Fathers, Franciscans, Quakers, Anabaptists) consistently emerge as responses to proprium-captured institutions?
+6. Statistical patterns: Frequency, duration, and outcomes of love-oriented vs. power-oriented movements over 2000-year period?
+
+**Expected Output**:
+If proprium resistance shows consistent, measurable patterns correlating with institutional power and opposing compassion movements, validates framework's mechanism. If patterns are random or absent, challenges structural claim.
+
+**Notes**:
+Tests whether "proprium" is real historical force or theological projection onto human power dynamics. Must be falsifiable. See SWED-005, GNOS-001, EARLY-003, "Work of Divine Influx" document.
+
+---
+
+### [NDE] Intermission Memories: DOPS vs. NDE Phenomenological Convergence
+
+**Target**: `[NDE]`  
+**Status**: Open  
+**Date Added**: 2025-12-27  
+**Priority**: MEDIUM  
+**Related Nodes**: CONSC-002, CONSC-004, CONSC-014
+
+**Context**:
+Framework identifies parallel features between children's "intermission memories" (DOPS research—memories between past life and current incarnation) and NDEs as convergent evidence for post-mortem phenomenology. Need statistical comparison to test convergence claim.
+
+**Research Question**:
+Do DOPS intermission memories and NDE phenomenology show genuine convergence? Compare:
+1. Structural sequence: Do intermission memories follow same phase pattern as NDEs (separation → transit → realm → return)?
+2. Phenomenological features: What percentage of DOPS intermission cases include: (a) light/radiant realm, (b) deceased relatives encountered, (c) life planning/mission selection, (d) choice to return vs. being sent back, (e) reluctance to incarnate?
+3. Unique elements: Do intermission memories include features NOT common in NDEs (memory erasure, incarnation reluctance, mission assignment)?
+4. Statistical correlation: Do children with intermission memories have higher rate of later NDEs, suggesting same souls?
+5. Cross-validation: Can we identify specific children who report BOTH past-life memories AND subsequent NDE, describing same cosmology?
+6. Content vs. structure: Is convergence limited to abstract structure, or do specific phenomenological details match?
+
+**Expected Output**:
+Strong convergence (>60% feature overlap) validates framework's integrated post-mortem model. Significant divergence suggests separate phenomenology requiring different explanations. Structural match + content divergence supports universal structure with culturally-conditioned content.
+
+**Notes**:
+CONSC-002 and CONSC-004 connections claim parallelism. Need quantitative comparison, not impressionistic similarity. See CONSC_Domain_Validation_Report Section 3.1, Volunteer Soul Incarnation Profile Building.md.
+
+---
+
+### [NLM] Swedenborg's Doctrine Evolution: Internal Consistency Analysis
+
+**Target**: `[NLM]`  
+**Status**: Open  
+**Date Added**: 2025-12-27  
+**Priority**: MEDIUM  
+**Related Nodes**: SWED-001, SWED-004, CROSS-001
+
+**Context**:
+Framework applies HCM to Bible (identifying sources, redactions, evolution) but not to Swedenborg. For epistemological consistency, need scholarly analysis of development across Swedenborg's theological corpus (1749-1771).
+
+**Research Question**:
+How do Swedenborg's core doctrines evolve from Arcana Coelestia (1749-1756) through Heaven and Hell (1758) to Divine Love and Wisdom (1763) and True Christian Religion (1771)? Specifically:
+1. Correspondences doctrine: Any shifts in methodology or specific interpretation across works?
+2. Ancient Word claim: Does treatment become more or less literal about Genesis 1-11 as "made-up history"?
+3. Ruling love doctrine: Development or refinement of amor regnans concept over time?
+4. Post-mortem cosmology: Consistent description of World of Spirits, or evolution in detail?
+5. Contradictions or revisions: Where does he change or refine earlier positions?
+6. Contextual influences: Can we identify 18th-century intellectual currents (pietism, rationalism, Neoplatonism) affecting his development?
+
+**Expected Output**:
+Shows intellectual honesty—framework applies critical methods to ALL texts. May reveal development suggesting Swedenborg refined theology over time (normal for any thinker). Demonstrates methodological consistency.
+
+**Notes**:
+Sensitive but necessary for epistemological integrity. See critical analysis Action 1.3 and framework improvement plan. NotebookLM limit requires focused, concise query—may need multiple queries for different doctrines.
+
+---
+
+## REFORMULATION SUMMARY (2025-12-27)
+
+### Critical Correction: CDE Properly Positioned as Core Framework Mechanism
+
+**Previous Mischaracterization**: CDE (Consciousness-Driven Evolution) was incorrectly treated as a side theory competing with standard memetics/cultural evolution models (Dual Inheritance Theory, Cultural Group Selection).
+
+**Actual Status**: **CDE IS THE CORE MECHANISM** of the entire framework.
+
+### The CDE Hypothesis Restated
+
+**Premise**: NDE research demonstrates contact with a single, all-encompassing, loving consciousness (consistent across cultures, backgrounds, beliefs).
+
+**Core Claim**: If this unified loving consciousness exists and is real, its influence should be:
+- **Visible** in historical patterns (influx events, consciousness breakthroughs clustering)
+- **Measurable** in narrative evolution (unity→fragmentation trajectories)
+- **Consistent** across cultures and time periods (cross-cultural ethical convergence)
+- **Directional** toward coherence, love, unity (distinguishable from random drift)
+
+**What We're Testing**: Not "does CDE compete with other theories?" but "can we detect the fingerprints of a unified loving consciousness throughout human history?"
+
+### Research Questions Added/Reformulated
+
+#### Foundation Questions (Establishing NDE Basis)
+1. **NDE Consistency Across Cultures** - Does loving consciousness appear consistently regardless of background?
+2. **Distressing NDEs and Ruling Love** - Do negative experiences validate Swedenborgian polarity prediction?
+3. **Life Review Empathetic Component** - Statistical frequency of the mechanism framework emphasizes
+4. **Veridical Perception Systematic Review** - Controlled study results, not cherry-picked anecdotes
+
+#### Pattern Questions (Detecting Historical Influence)
+5. **Historical Influx Events** - Can we identify consciousness breakthrough clustering?
+6. **Narrative Unity→Fragmentation** - Do myths show measurable CDE-predicted trajectories?
+7. **Proto-Myth Signatures** - Common source vs. convergent evolution methodology
+8. **Love vs. Self-Oriented Traditions** - Measurable stability differences validating ruling love polarity?
+9. **Proprium Resistance Patterns** - Consistent historical signatures of self-love opposition?
+
+#### Measurement Questions (How to Test This Rigorously)
+10. **CDE Core Validation Methodologies** - How do we distinguish conscious influence from emergent patterns?
+11. **Swedenborgian Predictive Power** - Did Swedenborg predict NDE findings 200 years early?
+12. **Ruling Love and Moral Psychology** - Does binary model align with contemporary research?
+13. **Intermission Memory Convergence** - Do DOPS and NDE phenomenology genuinely overlap?
+
+#### Integration Questions (Cross-Domain Validation)
+14. **Swedenborg Doctrine Evolution** - Applying HCM consistently to ALL texts
+
+### Priority Classification
+
+**CRITICAL** (Framework Foundation):
+- CDE Core Validation Methodologies
+- NDE Consistency Across Cultures
+- Veridical Perception Systematic Review
+
+**HIGH** (Core Mechanism Validation):
+- Historical Influx Events
+- Narrative Unity→Fragmentation Detection
+- Distressing NDEs and Ruling Love
+- Life Review Empathetic Component
+- Swedenborgian Predictive Power
+
+**MEDIUM** (Refinement and Nuancing):
+- All remaining questions
+
+### Key Distinctions from Previous Formulation
+
+| Previous Framing | Corrected Framing |
+|------------------|-------------------|
+| "CDE vs. Dual Inheritance Theory" | "CDE as mechanism BEHIND memetic selective pressures" |
+| "Does CDE add unique explanatory power?" | "Can we detect unified consciousness influence?" |
+| "Competing hypothesis comparison" | "Testing for measurable fingerprints of conscious causation" |
+| Side theory | **Core framework mechanism** |
+
+### Methodological Notes
+
+1. **Falsifiability**: Each question includes "what would disprove this?" criteria
+2. **Statistical rigor**: Emphasizes quantitative data over anecdotal evidence
+3. **Cross-cultural validation**: Tests whether patterns are universal or culturally-specific
+4. **Temporal analysis**: Checks for historical clustering vs. random distribution
+5. **Convergent validation**: Multiple independent lines of evidence
+
+### Research Pipeline Status
+
+- **Open**: 14 new/reformulated questions
+- **In Progress**: 0 (awaiting external research execution)
+- **Resolved**: 0 (pending research completion)
+
+These questions are formatted for execution with appropriate external research tools (NDE Statistical Repository, Gemini Deep Research, NotebookLM) as specified in individual question blocks.
 
 ---
 
@@ -254,7 +709,37 @@ TEMPLATE:
 
 ## DOMAIN 1: CONSCIOUSNESS STUDIES — EMPIRICAL VALIDATION GAPS
 
-### [CONSC] Life Review Empathetic Component Statistical Frequency
+---
+
+### [NDE] DOPS 70% Violent Death Statistic Verification
+
+**Target**: `[GDR]`  
+**Status**: Open  
+**Date Added**: 2025-12-27  
+**Priority**: CRITICAL  
+**Related Nodes**: CONSC-002, CONSC-005
+
+**Context**:
+Framework claims "over 70% of cases studied worldwide" in DOPS research involve violent/unnatural deaths (previous personality died by murder, accident, combat). This statistic is used as evidence for "Restorative Incarnation" mechanism—traumatic death requires second chance to complete development. However, the statistic appears in multiple documents without specific citation to Stevenson or Tucker publication.
+
+**Research Question**:
+1. What is the actual percentage of violent/unnatural deaths in Stevenson's and Tucker's published DOPS case collections? Is 70% accurate?
+2. In which specific publication(s) does this statistic appear?
+3. Is this percentage statistically significant compared to:
+   - Historical baseline violent death rates in regions/time periods of previous personalities
+   - Expected violent death rates for demographic (young adults) overrepresented in cases
+4. Could selection bias explain correlation? (Violent deaths more traumatic/memorable → more likely to carry over memories → more likely to be reported and investigated)
+5. How do DOPS researchers interpret this correlation—do they endorse "restorative" interpretation or offer alternative explanations?
+
+**Expected Impact**:
+This statistic is foundational to framework's hybrid post-mortem model (Tier 2a: Restorative Incarnation). If statistic is unverified, inflated, or attributable to selection bias, entire interpretive structure requires revision.
+
+**Notes**:
+Treated as established fact throughout framework (CONSC-002, CONSC-005, synthesis documents). Requires immediate verification. See CONSC_Domain_Validation_Report Section 1.5.
+
+---
+
+### [NDE] Life Review Frequency and Phenomenology
 
 **Target**: `[NDE]`  
 **Status**: Open  
@@ -263,20 +748,85 @@ TEMPLATE:
 **Related Nodes**: CONSC-003, CROSS-003
 
 **Context**:
-Framework claims life review's empathetic component (feeling impact of actions from others' perspectives) reveals ruling love and enables self-judgment. This is critical evidence for the post-materialist framework—it would demonstrate a moral/consciousness dimension that dying brain models cannot easily explain.
+Framework treats life review as core NDE component and critical evidence for post-materialist framework. Life review's empathetic component (feeling impact of actions from others' perspectives) would demonstrate moral/consciousness dimension that dying brain models cannot easily explain. However, no frequency data provided—framework describes phenomenology without statistical support.
 
 **Research Question**:
-What percentage of NDEs with life review component report experiencing events from others' emotional perspectives (empathetic reciprocity)? How does this compare to life reviews described as purely observational/memory replay? Is there correlation between empathetic life reviews and subsequent life transformation? Are there cultural variations in this feature?
+1. What percentage of NDEs in NDERF/IANDS database include a life review component?
+2. Of those with life review, what percentage report empathetic component (experiencing events from others' emotional perspectives) vs. purely observational memory replay?
+3. How does life review frequency vary by:
+   - Cultural background
+   - Religious affiliation
+   - Age at NDE
+   - Cause (cardiac arrest vs. other)
+4. Is there correlation between empathetic life reviews and subsequent life transformation?
+5. Are there cultural variations in this feature?
 
 **Expected Impact**:
-High empathetic component frequency would strengthen framework's ruling love revelation claim. If most life reviews are non-empathetic memory replays, framework interpretation needs revision.
+High empathetic component frequency would strengthen framework's ruling love revelation claim. If life review is rare component, or if empathetic aspect is uncommon, framework interpretation requires significant revision.
 
 **Notes**:
-See CONSC-003 caveats in knowledge graph. This distinguishes framework's theological interpretation from simpler "brain playing memories" explanations.
+CONSC-003 currently validated with high confidence but lacks statistical support. See CONSC_Domain_Validation_Report Section 1.3.
 
 ---
 
-### [CONSC] Distressing NDEs and Hellish Experiences
+### [NDE] Being of Light Cross-Cultural Identification Patterns
+
+**Target**: `[NDE]`  
+**Status**: Open  
+**Date Added**: 2025-12-27  
+**Priority**: High  
+**Related Nodes**: CONSC-004
+
+**Context**:
+Framework claims NDErs identify "Being of Light" as Jesus based on personality match, even atheists/non-Christians. Critical analysis challenges this: selection bias (most NDERF/IANDS studies from Christian-majority cultures) and expectation effects. Need cross-cultural statistical data to test whether identification is culturally conditioned or transcends religious background.
+
+**Research Question**:
+In NDEs from Hindu-majority, Buddhist-majority, Islamic-majority, and Indigenous populations, what percentage of experiencers identify the "Being of Light" encountered as:
+1. Jesus Christ
+2. Deities from their cultural tradition (Krishna, Yamaraj, Vishnu, Buddha, Muhammad, ancestors)
+3. Generic "deceased relatives" or unnamed beings
+4. No being encountered
+
+Does personality-based identification transcend cultural conditioning, or do experiencers interpret the encounter through pre-existing religious frameworks? What percentage of atheist/agnostic NDErs identify the being as Jesus?
+
+**Expected Impact**:
+If Hindu NDErs predominantly report Hindu deities rather than Jesus, framework's "pure identification" claim requires major revision toward cultural conditioning explanation. If Jesus appears cross-culturally, remarkable evidence for framework.
+
+**Notes**:
+Already in research question log. Critical for framework's NDE interpretation. See CONSC_Domain_Validation_Report Section 1.4 and 2.2.
+
+---
+
+### [NDE] Tunnel and Light Frequency Statistics
+
+**Target**: `[NDE]`  
+**Status**: Open  
+**Date Added**: 2025-12-27  
+**Priority**: Medium  
+**Related Nodes**: CONSC-004
+
+**Context**:
+Framework describes tunnel/darkness-to-light transition as "one of the most widely reported and iconic elements" of NDEs. Source document (`Researching Near-Death Experiences.md`) provides detailed phenomenological description but no statistical frequency data. Need quantification to support "widely reported" claim.
+
+**Research Question**:
+1. What percentage of NDEs include tunnel or void transit experience?
+2. What percentage include movement toward/immersion in light?
+3. How do these frequencies vary by:
+   - Cultural background
+   - Religious affiliation
+   - Cause of NDE (cardiac arrest, trauma, illness, childbirth)
+   - Age of experiencer
+4. What percentage of NDEs lack these structural elements entirely?
+
+**Expected Impact**:
+Determines whether "iconic element" claim is statistically accurate or based on memorable anecdotes. If frequency is lower than framework implies, descriptive language requires adjustment.
+
+**Notes**:
+See CONSC_Domain_Validation_Report Section 3.1. Framework documents use qualitative language ("widely reported," "commonly") without quantification.
+
+---
+
+### [NDE] Distressing NDE Frequency and Typology
 
 **Target**: `[NDE]`  
 **Status**: Open  
@@ -285,64 +835,53 @@ See CONSC-003 caveats in knowledge graph. This distinguishes framework's theolog
 **Related Nodes**: CONSC-004, SWED-003
 
 **Context**:
-Framework emphasizes blissful NDEs with beings of light. Critical analysis notes distressing/hellish NDEs exist but are underrepresented in framework documents. Swedenborg's cosmology predicts post-mortem experiences reflect ruling love—self-centered souls should experience initial distress until externals stripped away.
+Framework emphasizes blissful NDEs with beings of light. Distressing/hellish NDEs documented in `Researching Near-Death Experiences.md` (Type 1: Inverse Experience, Type 2: Void, Type 3: Hellish Realm) but no frequency data. Swedenborg's cosmology predicts post-mortem experiences reflect ruling love—self-centered souls should experience initial distress. Need statistical validation.
 
 **Research Question**:
-What percentage of documented NDEs are classified as distressing, frightening, or hellish? What are common features (void, demonic beings, sense of condemnation, isolation)? What demographic/psychological profiles correlate with distressing NDEs? Do experiencers report subsequent life changes similar to positive NDEs, or different trajectories? Are there cultural/religious variations in distressing NDE frequency?
+1. What percentage of documented NDEs are classified as distressing, frightening, or hellish?
+2. What are relative frequencies of three distressing types (Inverse, Void, Hellish Realm)?
+3. What demographic/psychological profiles correlate with distressing vs. pleasant NDEs?
+4. Do experiencers report subsequent life changes similar to positive NDEs, or different trajectories?
+5. Are there cultural/religious variations in distressing NDE frequency?
+6. Do distressing NDEs transition to positive experiences (as in Howard Storm case), and if so, what percentage?
 
 **Expected Impact**:
-Could validate Swedenborgian prediction that ruling love determines initial post-mortem experience. If distressing NDEs are very rare, framework needs to address why Swedenborg's cosmology doesn't match empirical patterns.
+Could validate Swedenborgian prediction that ruling love determines initial post-mortem experience. If distressing NDEs are very rare (<5%), framework must address why cosmology doesn't match empirical patterns. If common (>20%), framework should integrate more prominently.
 
 **Notes**:
-Critical analysis identified this as cherry-picking weakness. Must address full phenomenological range, not just confirming cases.
+Critical analysis identified cherry-picking concern—framework emphasizes confirming cases. Must address full phenomenological range. See CONSC_Domain_Validation_Report Section 2.2.
 
 ---
 
-### [CONSC] Veridical Perception Verification Rate in AWARE Studies
+### [NDE] Veridical Perception: AWARE Study Results and Verification Rates
 
 **Target**: `[GDR]`  
 **Status**: Open  
 **Date Added**: 2025-12-27  
-**Priority**: High  
+**Priority**: CRITICAL  
 **Related Nodes**: CONSC-004
 
 **Context**:
-Framework cites veridical perception during cardiac arrest as strongest evidence consciousness operates independently of brain. Critical analysis notes: must report overall success/failure rates in controlled studies, not just remarkable anecdotes. AWARE study (Parnia 2014) had ~2000 cardiac arrests with hidden targets.
+Framework cites veridical perception during cardiac arrest as strongest evidence consciousness operates independently of brain. Critical analysis notes framework must report overall success/failure rates in controlled studies, not just remarkable anecdotes. AWARE study (Parnia 2014) and AWARE II had thousands of cardiac arrests with hidden targets designed to test claims.
 
 **Research Question**:
-In the AWARE study and follow-up AWARE II, what were the total numbers: (1) cardiac arrests studied, (2) survivors reporting awareness during arrest, (3) survivors who could have seen hidden targets, (4) verified accurate perceptions of targets? What were methodological critiques of the studies, and how did researchers respond? What do neuroscientists consider the strongest alternative explanations for verified perceptions (information leakage, prior knowledge, lucky guesses)?
+In the AWARE study and follow-up AWARE II:
+1. Total numbers: (a) cardiac arrests studied, (b) survivors reporting awareness during arrest, (c) survivors who could have seen hidden targets, (d) verified accurate perceptions of targets
+2. What were methodological critiques of the studies?
+3. How did researchers respond to critiques?
+4. What do neuroscientists consider strongest alternative explanations for verified perceptions (information leakage, prior knowledge, lucky guesses, anesthesia awareness)?
+5. Have any veridical perception claims been independently replicated in controlled hospital settings?
+6. What is the statistical significance of positive results?
 
 **Expected Impact**:
-If verification rates are statistically significant, strengthens post-materialist case considerably. If near-zero despite large sample, framework must engage why "consciousness independence" doesn't manifest when properly controlled.
+This is framework's empirical linchpin. If verification rates are statistically significant under controlled conditions, dramatically strengthens post-materialist case. If near-zero despite large sample, framework must engage why "consciousness independence" doesn't manifest when properly controlled.
 
 **Notes**:
-This is framework's empirical linchpin. Must present with full statistical context, success AND failure rates.
+Framework must present full statistical context—success AND failure rates. Cherry-picked anecdotes insufficient for scientific claim. See CONSC_Domain_Validation_Report Section 3.1.
 
 ---
 
-### [CONSC] Intermission Memory vs. NDE Feature Comparison
-
-**Target**: `[NDE]`  
-**Status**: Open  
-**Date Added**: 2025-12-27  
-**Priority**: Medium  
-**Related Nodes**: CONSC-002, CONSC-004
-
-**Context**:
-Framework identifies parallel features between children's "intermission memories" (DOPS research) and NDEs as convergent evidence for post-mortem phenomenology. Need statistical comparison to test whether features genuinely converge or framework is pattern-matching selectively.
-
-**Research Question**:
-Comparing DOPS intermission memory reports to NDE phenomenology: What percentage of intermission cases include (1) light/radiant realm, (2) deceased relatives encountered, (3) life planning/mission selection, (4) choice to return vs. being sent back, (5) reluctance to incarnate? Do intermission memories include features NOT common in NDEs (memory erasure, incarnation reluctance, mission assignment)? What are key differences suggesting distinct phenomena vs. overlapping cosmology?
-
-**Expected Impact**:
-Strong convergence validates framework's integrated post-mortem model. Significant divergence suggests separate phenomenology requiring different explanations.
-
-**Notes**:
-CONSC-002 and CONSC-004 connections claim parallelism. Need quantitative comparison, not impressionistic similarity.
-
----
-
-### [CONSC] Children's Past-Life Cases: Overall Verification Rates
+### [GDR] DOPS Case Verification: Overall Success Rates
 
 **Target**: `[GDR]`  
 **Status**: Open  
@@ -351,16 +890,80 @@ CONSC-002 and CONSC-004 connections claim parallelism. Need quantitative compari
 **Related Nodes**: CONSC-002
 
 **Context**:
-Framework emphasizes strongest DOPS cases (Leininger, Hammons) with multiple verified statements. Critical analysis asks: What's overall verification rate across 2,500+ cases? Cherry-picking strongest cases inflates evidential strength. Tucker's methodology needs honest presentation including failures.
+Framework emphasizes strongest DOPS cases (Leininger, Hammons) with multiple verified statements and physical correspondences. Critical analysis asks: What's overall verification rate across 2,500+ cases? Cherry-picking strongest cases while ignoring weaker ones inflates evidential strength. Tucker's methodology requires honest presentation including failures.
 
 **Research Question**:
-Of UVA DOPS 2,500+ documented cases: (1) What percentage have ANY verified statements?, (2) What percentage have MULTIPLE (3+) verified statements?, (3) What percentage have physical correspondences (birthmarks matching wounds)?, (4) What percentage lack documentation (previous person not identified)?, (5) How does DOPS handle failed verification attempts—are these published or just successful cases?, (6) What are methodological critiques (information leakage, cryptomnesia, leading questions) and Tucker's responses?, (7) Have independent researchers attempted replication with similar success rates?
+Of UVA DOPS 2,500+ documented cases:
+1. What percentage have ANY verified statements?
+2. What percentage have MULTIPLE (3+) verified statements?
+3. What percentage have physical correspondences (birthmarks matching wounds)?
+4. What percentage lack documentation (previous person not identified)?
+5. How does DOPS handle failed verification attempts—are these published or only successful cases?
+6. What are main methodological critiques (information leakage, cryptomnesia, leading questions, fraud)?
+7. What are Tucker's specific responses to these critiques?
+8. Have independent researchers attempted replication with similar success rates?
 
 **Expected Impact**:
-Even 10-20% verification rate would be remarkable if properly controlled. But framework must report full picture. If only handful of 2500 cases verify, evidential weight changes dramatically.
+Even 10-20% verification rate would be remarkable if properly controlled. But framework must report full picture. If only handful of 2500 cases verify with strong evidence, evidential weight changes dramatically. Statistical context essential for honest assessment.
 
 **Notes**:
-Identified in critical analysis as evidence overreach. Research question log already has related question; this one focuses specifically on verification statistics across entire dataset.
+Identified in critical analysis as evidence overreach. Research question log has related question; this focuses specifically on verification statistics across entire dataset. See CONSC_Domain_Validation_Report Section 1.5 and 3.2.
+
+---
+
+### [NDE] Intermission Memory Phenomenological Comparison
+
+**Target**: `[NDE]`  
+**Status**: Open  
+**Date Added**: 2025-12-27  
+**Priority**: Medium  
+**Related Nodes**: CONSC-002, CONSC-004, CONSC-005
+
+**Context**:
+Framework identifies parallel features between children's "intermission memories" (DOPS research) and NDEs as convergent evidence for post-mortem phenomenology. `Volunteer Soul Incarnation Profile Building.md` claims these describe "the exact same event from two different temporal perspectives." Need statistical comparison to test whether features genuinely converge or framework is selectively pattern-matching.
+
+**Research Question**:
+Comparing DOPS intermission memory reports to NDE phenomenology:
+1. What percentage of DOPS intermission cases include: (a) light/radiant realm, (b) deceased relatives encountered, (c) life planning/mission selection, (d) choice to return vs. being sent back, (e) reluctance to incarnate?
+2. Do intermission memories include features NOT common in NDEs (memory erasure, incarnation reluctance, mission assignment)?
+3. What are key differences suggesting distinct phenomena vs. overlapping cosmology?
+4. Statistical correlation: Do children with intermission memories have higher rate of later NDEs?
+5. Structural sequence comparison: Does intermission follow same phase pattern as NDEs (separation → transit → realm → return)?
+
+**Expected Impact**:
+Strong convergence validates framework's integrated post-mortem model. Significant divergence suggests separate phenomenology requiring different explanations. If structural sequence matches but content differs, supports "universal structure + culturally-conditioned content" interpretation.
+
+**Notes**:
+CONSC-002 and CONSC-004 connections claim parallelism. Need quantitative comparison, not impressionistic similarity. See CONSC_Domain_Validation_Report Section 3.1.
+
+---
+
+### [GDR] CDE vs. Dual Inheritance Theory: Critical Predictions
+
+**Target**: `[GDR]`  
+**Status**: Open  
+**Date Added**: 2025-12-27  
+**Priority**: CRITICAL  
+**Related Nodes**: CONSC-001, CROSS-003, CROSS-004
+
+**Context**:
+Framework proposes Consciousness-Driven Evolution (CDE) as selective pressure on memetic evolution. Critical analysis notes simpler alternatives (Boyd & Richerson's Dual Inheritance Theory, Wilson's Cultural Group Selection) may explain same phenomena without metaphysical "consciousness-as-causal-force" assumption. Framework needs to demonstrate unique explanatory/predictive power.
+
+**Research Question**:
+How do Dual Inheritance Theory and Cultural Group Selection explain cultural evolution patterns framework attributes to CDE?
+1. What predictions do DIT and CGS make about when cooperative vs. competitive cultural strategies dominate?
+2. How do these theories explain prosocial norm emergence without "ruling love" or consciousness-as-fundamental?
+3. Do DIT/CGS treat consciousness as epiphenomenal correlate or causal driver?
+4. What specific, testable predictions does CDE make that DIT/CGS cannot explain?
+5. Can CDE explain any cultural trajectory that DIT/CGS cannot?
+6. If framework's "ruling love polarity" is reframed as "cooperation/defection strategies," does CDE add anything beyond standard evolutionary game theory?
+7. Can ANY cultural trajectory falsify CDE, or does it explain all outcomes post-hoc?
+
+**Expected Impact**:
+This is Occam's Razor test. If simpler theories explain same data, burden is on framework to show why metaphysical addition is necessary. If CDE makes unique testable predictions, it's legitimate competing hypothesis. If not, it's theological interpretation of naturalist explanations, not competing scientific theory.
+
+**Notes**:
+Already in research question log. Central epistemological issue. See CONSC_Domain_Validation_Report Section 1.1 and 4.1. Requires sophisticated analysis—use GDR extended context.
 
 ---
 

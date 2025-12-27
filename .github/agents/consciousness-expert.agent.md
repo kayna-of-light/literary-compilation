@@ -4,7 +4,7 @@
 
 name: consciousness-expert
 description: Specializes in consciousness studies including NDEs, past-life research, CDE hypothesis, and post-mortem existence models with deep knowledge of empirical research.
-tools: ["read", "edit", "search", "agent"]
+tools: ["read", "edit", "search", "agent", "todo"]
 infer: true
 model: Claude Opus 4.5 (copilot)
 ---

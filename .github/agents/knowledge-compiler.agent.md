@@ -8,7 +8,7 @@
 
 name: knowledge-compiler
 description: Systematically compiles the Divine Bricolage research corpus into a structured knowledge graph with full source tracing.
-tools: ["read", "edit", "search", "execute", "agent"]
+tools: ["read", "edit", "search", "execute", "agent", "todo"]
 infer: true
 model: Claude Opus 4.5 (copilot)
 ---

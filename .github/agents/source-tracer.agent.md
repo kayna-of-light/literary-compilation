@@ -4,7 +4,7 @@
 
 name: source-tracer
 description: Traces citations to original sources, verifies Gemini references, resolves untraced claims, and ensures scholarly integrity of the knowledge graph.
-tools: ["read", "edit", "search", "web", "agent"]
+tools: ["read", "edit", "search", "web", "agent", "todo"]
 infer: true
 model: Claude Opus 4.5 (copilot)
 ---

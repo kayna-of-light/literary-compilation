@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-27 10:25*
+*Last exported: 2025-12-27 10:30*
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 102 |
-| Total Connections | 341 |
+| Total Nodes | 103 |
+| Total Connections | 347 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 91
+- **validated**: 92
 - **preliminary**: 6
 - **contested**: 5
 
@@ -24,7 +24,7 @@
 
 - **Cross-Domain** (CROSS): 4
 - **Consciousness Studies** (CONSC): 19
-- **Swedenborgian Theology** (SWED): 26
+- **Swedenborgian Theology** (SWED): 27
 - **Biblical Scholarship** (BIBL): 12
 - **Early Christian History** (EARLY): 17
 - **The Gnostic Impulse** (GNOS): 8
@@ -961,6 +961,30 @@
 
 ---
 
+#### [SWED-027] Swedenborgian Critique of Pauline Authority
+
+**Status**: validated | **Confidence**: high
+
+> Swedenborg's Spiritual Diary provides a systematic pneumatological critique of the Pauline Epistles, asserting they categorically differ from the Word (Gospels/Prophets). The core claims: (1) Paul's epistles lack the "internal sense" (infinite spiritual correspondences in every letter) that constitutes sacred Scripture; (2) Paul's inspiration was "self-derived" (from proprium) rather than Divine dictation—he explicitly admits "I speak, not the Lord" (1 Cor 7:12); (3) The epistles were "permitted" as a protective buffer so that those incapable of bearing the intense internal sense wouldn't profane it; (4) Paul's spiritual state was characterized by "worldly ambition" and desire to be the "greatest introducer" into heaven. The elevation of Pauline doctrine over Gospel imperatives constitutes the spiritual cause of the church's "consummation" (end)—Faith Alone doctrine separating faith from charity.
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/The Pauline Corpus and the Consummation of the Age.md
+2. [P] Swedenborg, Spiritual Diary Vol. IV, §§ 4561m, 4631m, 4671, 4824, 5103
+3. [P] 1 Corinthians 7:12, 25
+4. [P] James 2:20
+5. [P] Matthew 23:11-12
+
+**Connections**:
+- → `EARLY-003` (supports): Jesus-Paul divergence validated from spiritual-world perspective
+- → `SWED-005` (develops): Proprium mechanics explain Paul's self-derived inspiration
+- → `SWED-026` (develops): Faith Alone consummation leads to Fourth Church necessity
+- → `GNOS-007` (parallels): Paul's gnosis method parallels gnostic self-validation
+- → `EARLY-017` (complements): Historical critique + pneumatological critique converge
+- → `BIBL-012` (develops): Pseudepigraphy shows 'domestication' of already-problematic Paul
+
+---
+
 ### Biblical Scholarship
 *HCM, Gospel formation, textual criticism*
 
@@ -1260,6 +1284,7 @@
 - → `EARLY-001` (contrasts): Jamesian vs Pauline tension
 - → `GNOS-001` (parallels): Paul exhibits proto-gnostic traits
 - → `SWED-005` (instantiates): Proprium mechanics in methodology
+- → `SWED-027` (develops): Pneumatological validation of divergence thesis
 
 ---
 

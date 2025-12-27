@@ -212,7 +212,7 @@ When editing or extending the framework:
 ### Immediate Goals
 1. **Inventory** — Complete catalog of all sources with thematic tags
 2. **Cross-Reference** — Map connections between sources
-3. **Identify Gaps** — Note areas needing additional development
+3. **Identify Gaps** — Log questions in `docs/research_questions.md` for external research
 4. **Resolve Conflicts** — Document evolved or contradictory positions
 
 ### Framework Development
@@ -242,11 +242,88 @@ literary-compilation/
 │   ├── 04_Early_Christian_History/# James, Paul, Magi
 │   ├── 05_Gnostic_Analysis/       # Gnostic impulse, proprium
 │   └── 06_Mythological_Studies/   # Bricolage, proto-myths
-├── docs/                          # Research documentation
+├── docs/
+│   └── research_questions.md      # Open questions & gap tracking
 ├── output/                        # Generated documents
 ├── scripts/                       # Processing utilities
 └── README.md                      # Project overview
 ```
+
+---
+
+## External Research Tools
+
+This project leverages multiple external systems for conducting additional research, validating hypotheses, and filling gaps in the framework.
+
+### Available Research Systems
+
+#### 1. NDE Statistical Repository
+An agent-driven statistical repository containing comprehensive data from documented near-death experiences across major research datasets.
+
+| Capability | Description |
+|------------|-------------|
+| **Statistical Queries** | Frequency analysis, correlation studies, demographic breakdowns |
+| **Phenomenological Search** | Search by experience elements (light, beings, life review, etc.) |
+| **Cross-Cultural Analysis** | Compare NDE features across religious/cultural backgrounds |
+| **Longitudinal Data** | Track aftereffects and life changes post-NDE |
+
+**Best For**: Empirical validation of consciousness claims, statistical patterns in afterlife data, testing hypotheses about NDE phenomenology.
+
+#### 2. NotebookLM
+Extensive notebooks containing curated scholarly resources organized by thematic domain.
+
+| Capability | Description |
+|------------|-------------|
+| **Source Querying** | Query primary theological and scholarly texts |
+| **Citation Retrieval** | Find specific passages and references |
+| **Concept Clarification** | Explain technical terminology from sources |
+| **Cross-Reference** | Connect ideas across different scholarly works |
+
+**Best For**: Deep dives into specific scholarly sources, Swedenborgian textual analysis, biblical scholarship questions, theological clarification.
+
+**Note**: NotebookLM has a **limited input context** (~500 characters for queries). Questions should be concise and focused.
+
+#### 3. Gemini Deep Research
+Advanced research tool with access to web resources, Google Drive (including this repository's data), and selected NotebookLM notebooks.
+
+| Capability | Description |
+|------------|-------------|
+| **Web Analysis** | Search and synthesize information from academic and scholarly web sources |
+| **Drive Integration** | Access and analyze documents in the connected Google Drive |
+| **Notebook Access** | Query selected NotebookLM notebooks for deeper analysis |
+| **Extended Synthesis** | Generate comprehensive research reports on complex topics |
+
+**Best For**: Complex multi-source research questions, gap analysis, hypothesis testing requiring web sources, extended synthesis tasks.
+
+**Note**: Gemini Deep Research accepts **extended context**. Provide detailed background and specific research parameters.
+
+### Research Question Workflow
+
+When gaps or questions arise during framework development:
+
+1. **Identify the Gap** — Note what information is missing or needs validation
+2. **Select the Tool** — Choose the appropriate research system based on query type
+3. **Document in `docs/research_questions.md`** — Log the question with proper formatting
+4. **Execute Research** — Copy the question block to the selected tool
+5. **Integrate Findings** — Update relevant framework documents with results
+6. **Mark Resolved** — Update the question status in the tracking document
+
+### Research Questions Document
+
+The file `docs/research_questions.md` serves as a centralized tracker for:
+
+- Open research questions awaiting investigation
+- Hypotheses requiring external validation
+- Gaps identified during framework synthesis
+- Questions in progress with preliminary findings
+
+**Format**: Each question includes:
+- **Target System Tag**: `[NLM]`, `[GDR]`, or `[NDE]`
+- **Context Block**: Background appropriate to the target system's input constraints
+- **Research Question**: Clear, specific question or hypothesis
+- **Status**: Open / In Progress / Resolved
+
+Questions are separated by `---` horizontal rules for easy copying.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-27 10:30*
+*Last exported: 2025-12-27 10:32*
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 103 |
-| Total Connections | 347 |
+| Total Nodes | 104 |
+| Total Connections | 352 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 92
+- **validated**: 93
 - **preliminary**: 6
 - **contested**: 5
 
@@ -25,7 +25,7 @@
 - **Cross-Domain** (CROSS): 4
 - **Consciousness Studies** (CONSC): 19
 - **Swedenborgian Theology** (SWED): 27
-- **Biblical Scholarship** (BIBL): 12
+- **Biblical Scholarship** (BIBL): 13
 - **Early Christian History** (EARLY): 17
 - **The Gnostic Impulse** (GNOS): 8
 - **Mythological Studies** (MYTH): 16
@@ -1225,6 +1225,28 @@
 - → `EARLY-003` (develops): Paul's theology required 'domestication' for proto-orthodox synthesis
 - → `BIBL-001` (instantiates): HCM identifies pseudepigraphy through source/form criticism
 - → `BIBL-007` (parallels): Gospel formation parallels—both involve editorial layers on original tradition
+
+---
+
+#### [BIBL-013] 4.2 Kiloyear Climate Catastrophe and Bronze Age Collapse
+
+**Status**: validated | **Confidence**: high
+
+> The 4.2 kiloyear aridification event (c. 2200 BCE), one of the most severe climatic episodes of the Holocene, caused widespread civilizational collapse across the Near East. Lasting 200-300 years, this mega-drought (30-50% rainfall reduction) triggered the simultaneous collapse of the Akkadian Empire in Mesopotamia and the Old Kingdom in Egypt. In the Southern Levant, it ended the Early Bronze Age III urban culture; cities were abandoned en masse (not conquered), and society reverted to de-urbanized pastoral-nomadic patterns (Intermediate Bronze Age). This provides the scientific background for understanding cultural memory of "world-ending" catastrophes preserved in flood narratives.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/Scientific Analysis of Biblical Periods.md
+2. [S] Weiss, H. et al. (1993). The Genesis and Collapse of Third Millennium North Mesopotamian Civilization. Science 261:995-1004.
+3. [S] Cline, Eric. 1177 BC: The Year Civilization Collapsed (2014)
+4. [E] DAAHL (Digital Archaeological Atlas of the Holy Land)
+
+**Connections**:
+- → `MYTH-008` (supports): Provides historical substrate for flood narrative mythogenesis
+- → `MYTH-009` (supports): Second collapse (LBA) enables Exodus narrative substrate
+- → `BIBL-001` (instantiates): Archaeological method illuminating biblical backgrounds
+- → `SWED-004` (parallels): Ancient Word concept implies pre-catastrophe cultural memories
+- → `CROSS-002` (instantiates): Divine Bricolage working through genuine historical substrate
 
 ---
 

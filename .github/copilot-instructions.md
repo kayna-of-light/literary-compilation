@@ -207,6 +207,103 @@ When editing or extending the framework:
 
 ---
 
+## Knowledge Graph Management
+
+The file `docs/knowledge_graph.yaml` maintains a structured knowledge base of interconnected concepts. The markdown file `docs/knowledge_graph.md` is auto-generated for GitHub viewing. Agents must actively maintain this graph during framework development.
+
+### Architecture
+
+| File | Purpose | Edit? |
+|------|---------|-------|
+| `docs/knowledge_graph.yaml` | Primary data store | ✅ Yes |
+| `docs/knowledge_graph.md` | Auto-generated view | ❌ No |
+| `scripts/graph_utils.py` | Query/validate/export | ✅ Extend |
+
+**Utility Commands**:
+```bash
+python scripts/graph_utils.py stats          # Show statistics
+python scripts/graph_utils.py validate       # Check integrity
+python scripts/graph_utils.py list           # List all nodes
+python scripts/graph_utils.py list -d CONSC  # List by domain
+python scripts/graph_utils.py untraced       # Show untraced claims
+python scripts/graph_utils.py export-md      # Regenerate markdown
+```
+
+### Domain ID Prefixes
+
+| ID | Domain |
+|----|--------|
+| `CONSC` | Consciousness Studies |
+| `SWED` | Swedenborgian Theology |
+| `BIBL` | Biblical Scholarship |
+| `EARLY` | Early Christian History |
+| `GNOS` | The Gnostic Impulse |
+| `MYTH` | Mythological Studies |
+| `CROSS` | Cross-Domain |
+
+### When to Update the Graph
+
+- **Add nodes** when encountering significant claims, concepts, or arguments
+- **Update connections** when discovering relationships between concepts
+- **Revise status** when evidence strengthens or challenges a node
+- **Add sources** when tracing claims to deeper origins
+
+### Node Addition Protocol
+
+1. **Check for existing nodes** — Search the graph before creating duplicates
+2. **Assign domain and ID** — Use format `DOMAIN-###` (e.g., `CORR-001`, `NDE-003`)
+3. **Write clear definition** — One or two sentences capturing the core claim
+4. **Document source chain** — Trace to original sources (see below)
+5. **Establish connections** — Link to related nodes bidirectionally
+6. **Set status** — Preliminary, Validated, or Contested
+
+### Source Tracing Protocol (CRITICAL)
+
+**Always trace citations to their original source.** This is essential for scholarly integrity.
+
+```
+[Claim in Framework Document]
+  ← citing [Scholarly Work]
+    ← based on [Primary Source / Original Data]
+```
+
+**Source Tracing Rules**:
+
+1. **Pursue the original** — If a document cites Swedenborg, cite Swedenborg directly with book/section
+2. **Verify Gemini references** — When Gemini Deep Research cites internal documents, verify whether the actual claim originates from an external web resource or scholarly source. Internal documents are valid as synthesis sources but should not obscure the original evidence.
+3. **Distinguish source types**:
+   - `[P]` Primary — Original texts (Swedenborg, Scripture, ancient sources)
+   - `[S]` Secondary — Scholarly analysis (papers, monographs)
+   - `[T]` Tertiary — Framework synthesis (our data/ documents)
+   - `[E]` Empirical — Research data (NDE studies, DOPS cases)
+   - `[W]` Web — Verified web resources
+4. **Flag untraced claims** — Mark with `[TRACE NEEDED]` when original source is unknown
+5. **Preserve the chain** — Document the full path, not just endpoints
+
+**Example Source Chain**:
+```
+1. [T] `data/02_Swedenborgian_Theology/The Science of Correspondences.md`
+2. [S] Woofenden, "Swedenborg's Philosophy of Causality" (2003)
+3. [P] Swedenborg, Divine Love and Wisdom §§ 83-85
+```
+
+### Connection Maintenance
+
+When adding or updating nodes:
+- Add forward connections (`→`) from the current node
+- Add backward connections (`←`) to related nodes
+- Use standard relationship types: `supports`, `contradicts`, `develops`, `requires`, `parallels`, `instantiates`
+
+### Graph Integrity Checks
+
+Periodically verify:
+- [ ] All nodes have at least one source in their chain
+- [ ] Bidirectional connections are consistent
+- [ ] `[TRACE NEEDED]` flags are being resolved
+- [ ] Statistics in the graph header are current
+
+---
+
 ## Project Tasks
 
 ### Immediate Goals
@@ -217,9 +314,10 @@ When editing or extending the framework:
 
 ### Framework Development
 1. **Master Outline** — Hierarchical structure of the complete framework
-2. **Key Definitions** — Glossary of framework terminology
-3. **Argument Chains** — Logical flow from premises to conclusions
-4. **Evidence Catalog** — Organized by type (empirical, textual, theological)
+2. **Knowledge Graph** — Populate `docs/knowledge_graph.md` with validated nodes
+3. **Key Definitions** — Glossary of framework terminology
+4. **Argument Chains** — Logical flow from premises to conclusions
+5. **Evidence Catalog** — Organized by type (empirical, textual, theological)
 
 ### Output Goals
 1. **Framework Document** — Single coherent synthesis
@@ -243,9 +341,12 @@ literary-compilation/
 │   ├── 05_Gnostic_Analysis/       # Gnostic impulse, proprium
 │   └── 06_Mythological_Studies/   # Bricolage, proto-myths
 ├── docs/
+│   ├── knowledge_graph.yaml       # Primary graph data (YAML)
+│   ├── knowledge_graph.md         # Auto-generated view (do not edit)
 │   └── research_questions.md      # Open questions & gap tracking
 ├── output/                        # Generated documents
-├── scripts/                       # Processing utilities
+├── scripts/
+│   └── graph_utils.py             # Graph query/validate/export utilities
 └── README.md                      # Project overview
 ```
 

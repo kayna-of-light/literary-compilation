@@ -7,10 +7,7 @@
 # Local testing: https://gh.io/customagents/cli
 
 name: knowledge-compiler
-description: >
-  Systematically compiles the Divine Bricolage research corpus into a structured 
-  knowledge graph. Reads source documents, extracts concepts and claims, traces 
-  sources to originals, establishes connections, and maintains graph integrity.
+description: Systematically compiles the Divine Bricolage research corpus into a structured knowledge graph with full source tracing.
 ---
 
 # Knowledge Graph Compiler Agent

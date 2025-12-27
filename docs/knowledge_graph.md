@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-27 10:17*
+*Last exported: 2025-12-27 10:23*
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 100 |
-| Total Connections | 331 |
+| Total Nodes | 101 |
+| Total Connections | 336 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 90
+- **validated**: 91
 - **preliminary**: 6
 - **contested**: 4
 
@@ -25,7 +25,7 @@
 - **Cross-Domain** (CROSS): 4
 - **Consciousness Studies** (CONSC): 19
 - **Swedenborgian Theology** (SWED): 26
-- **Biblical Scholarship** (BIBL): 11
+- **Biblical Scholarship** (BIBL): 12
 - **Early Christian History** (EARLY): 16
 - **The Gnostic Impulse** (GNOS): 8
 - **Mythological Studies** (MYTH): 16
@@ -1178,6 +1178,29 @@
 - → `BIBL-001` (develops): Refinement of Historical-Critical Method criteria
 - → `SWED-025` (parallels): Glorification = divine through dynamic process, not static state
 - → `CROSS-001` (instantiates): Two-tiered reading: HCM identifies 'weakness' facts; framework reveals them as strength
+
+---
+
+#### [BIBL-012] Pastoral Epistles Pseudepigraphy
+
+**Status**: validated | **Confidence**: high
+
+> The overwhelming scholarly consensus that 1 Timothy, 2 Timothy, and Titus were NOT written by Paul but composed pseudepigraphically (c. 80-120 CE) by a later author invoking Pauline authority. These letters present a "domesticated Paul" who loves the Law, appoints bishops, insists on marriage/childbearing, and guards "sound doctrine" against "falsely called gnosis" (1 Tim 6:20)—contradicting the radical, Law-abrogating, charismatic Paul of the undisputed letters (Romans, Galatians, etc.).
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/Pastoral Epistles Authorship Debate.md
+2. [S] Harrison, P.N. The Problem of the Pastoral Epistles. Oxford, 1921.
+3. [S] Baur, F.C. Die sogennanten Pastoralbriefe des Apostels Paulus. 1835.
+4. [S] Ehrman, Bart. Forged: Writing in the Name of God. HarperOne, 2011.
+5. [P] 1 Timothy 6:20
+
+**Connections**:
+- → `EARLY-015` (supports): Bauer Thesis: orthodoxy as later construct requiring pseudepigraphy
+- → `GNOS-001` (contradicts): Pastorals written to counter Gnostic appropriation of Paul
+- → `EARLY-003` (develops): Paul's theology required 'domestication' for proto-orthodox synthesis
+- → `BIBL-001` (instantiates): HCM identifies pseudepigraphy through source/form criticism
+- → `BIBL-007` (parallels): Gospel formation parallels—both involve editorial layers on original tradition
 
 ---
 

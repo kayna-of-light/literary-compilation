@@ -4718,6 +4718,155 @@ nodes:
     updated: 2024-12-28
     trace_status: complete
 
+  MYTH-013:
+    title: "Exodus as Mythic Bricolage (Three-Memory Model)"
+    domain: MYTH
+    status: validated
+    confidence: high
+    
+    definition: >
+      The Exodus narrative is a masterpiece of mythic bricolage—a "redacted memory" forged
+      by Iron Age scribes from three authentic but chronologically and causally disconnected
+      historical fragments: (1) Memory of Cataclysm: The plagues correspond to the Thera
+      volcanic eruption (c. 1600 BCE), validated by geomythology and physical evidence
+      (Thera pumice at Tell el-Dab'a in Goshen); (2) Memory of Deliverance: The parting
+      of the Sea of Reeds corresponds to the oceanographic phenomenon of wind setdown in
+      the Nile Delta, validated by Carl Drews' computer modeling; (3) Memory of Liberation:
+      The freedom theme reflects the Late Bronze Age Collapse (c. 1200 BCE) when Egyptian
+      withdrawal from Canaan liberated Shasu and 'Apiru groups. Scribal bricoleurs "rotated"
+      these memories into a linear cause-and-effect narrative serving as Israel's charter myth.
+    
+    caveats:
+      - "Temporal gap (1600-1200-650 BCE) requires oral tradition durability"
+      - "Model is itself 'modern scientific bricolage' - an interpretation, not solution"
+      - "Theological framing is preservative mechanism, not corruption"
+    
+    source_chain:
+      - type: T
+        ref: "data/06_Mythological_Studies/Forging a Nation in Memory.md"
+        note: "Full socio-anthropological synthesis"
+      - type: S
+        ref: "Maurice Halbwachs, collective memory theory"
+        note: "Social construction of memory"
+      - type: S
+        ref: "Claude Lévi-Strauss, bricolage concept"
+        note: "Assemblage from existing fragments"
+      - type: S
+        ref: "Carl Drews, wind setdown modeling"
+        note: "Hydrodynamic validation of sea crossing"
+      - type: E
+        ref: "Thera pumice at Tell el-Dab'a"
+        note: "Physical evidence of Theran ashfall in Egypt"
+      - type: P
+        ref: "Merneptah Stele (c. 1207 BCE)"
+        note: "First extra-biblical mention of 'Israel'"
+    
+    evidence:
+      - "Geomythology: Klamath preserve accurate 7,700-year-old Crater Lake memory"
+      - "Australian songlines preserve 7,000-year-old coastal geography"
+      - "Plagues match Thera effects: blood-red water, darkness, lapilli ('hail of fire')"
+      - "Wind setdown: 63 mph wind for 12 hours exposes land bridge for 4 hours"
+      - "'Walls of water' detail matches dual-displacement model at Lake of Tanis"
+      - "Merneptah Stele confirms 'Israel' existed in Canaan c. 1207 BCE"
+      - "Narrative telescoping: freedom 'from empire in Canaan' → escape 'from Egypt's land'"
+      - "Counter-history: inverts Egyptian propaganda of pharaoh smiting Asiatic nomads"
+    
+    connections:
+      - target: MYTH-001
+        type: instantiates
+        note: "Classic case of mythic bricolage mechanism"
+      - target: MYTH-002
+        type: develops
+        note: "Memory fragments create national origin narrative"
+      - target: SWED-004
+        type: supports
+        note: "Myth structure preserves correspondential meaning"
+      - target: CROSS-001
+        type: instantiates
+        note: "First tier = historical fragments; second tier = spiritual meaning"
+    
+    notes: >
+      "The mythic and theological 'shell' is the vehicle that protects the historical
+      'kernel'—giving it cultural significance necessary for transmission across centuries.
+      The Exodus functions simultaneously as disaster story, miracle story, and political
+      story. Key insight: 'Did it happen?' is less productive than 'How and why was this
+      story constructed?' The model resolves the paradox of no direct evidence for mass
+      exodus versus uncanny alignment with known phenomena."
+    
+    created: 2024-12-28
+    updated: 2024-12-28
+    trace_status: complete
+
+  MYTH-014:
+    title: "The Enochian 364-Day Solar Calendar"
+    domain: MYTH
+    status: validated
+    confidence: high
+    
+    definition: >
+      The Astronomical Book (1 Enoch 72-82), likely the oldest stratum of the Enochic
+      corpus (late 4th-3rd century BCE), presents a divinely revealed 364-day solar
+      calendar as the sole legitimate basis for determining sacred times. Revealed by
+      angel Uriel to Enoch, the calendar features: 4 seasons of exactly 91 days each
+      (30+30+31 pattern), perfect divisibility by 7 (52 weeks), ensuring dates always
+      fall on the same weekday. Cosmos is geocentric with sun/moon traversing 6 celestial
+      "gates" east and west. Though empirically inaccurate (drifts ~1.24 days/year),
+      the calendar's "truth" was ideological—reflecting divine order and mathematical
+      symmetry over observational accuracy. Adopted by Qumran community as identity marker.
+    
+    caveats:
+      - "364-day year produces seasonal drift without intercalation"
+      - "Enoch offers no correction mechanism; later Qumran texts attempt reconciliation"
+      - "Calendar served theological/political function, not scientific accuracy"
+    
+    source_chain:
+      - type: T
+        ref: "data/06_Mythological_Studies/Enoch's Celestial Mechanics Analysis.md"
+        note: "Full astronomical analysis"
+      - type: P
+        ref: "1 Enoch 72-82 (Astronomical Book / Book of Heavenly Luminaries)"
+        note: "Primary text, Ethiopic version"
+      - type: P
+        ref: "4Q208-211 (Qumran Aramaic fragments)"
+        note: "Original Aramaic, confirms early date"
+      - type: S
+        ref: "MUL.APIN compendium (Babylonian)"
+        note: "Source of schematic elements"
+    
+    evidence:
+      - "4 x 91 = 364 days; 364 = 52 x 7 weeks—perfect alignment with Sabbath"
+      - "Daylight varies linearly 6:12 to 12:6 parts (2:1 solstice ratio)"
+      - "Stars organized hierarchically under 4 named leaders (Melkiel, Helemmemelek, Meleyal, Narel)"
+      - "Conspicuous absence of zodiac and planets—rejection of Babylonian astrology"
+      - "Qumran community used this calendar, distinguishing from Temple establishment"
+      - "1 Enoch 80: human sin causes cosmic disorder—celestial order linked to righteousness"
+      - "Enoch's 365-year lifespan (Gen 5:23) vs. 364-day calendar—revealed, non-obvious truth"
+    
+    connections:
+      - target: MYTH-001
+        type: instantiates
+        note: "Calendar as theological bricolage from Babylonian elements"
+      - target: SWED-004
+        type: parallels
+        note: "Numbers encode divine order (7 = holy)"
+      - target: SWED-020
+        type: supports
+        note: "7-based structure confirms spiritual numerology"
+      - target: MYTH-012
+        type: develops
+        note: "364 = 7 × 52; extends Tier 1 prime significance"
+    
+    notes: >
+      "The Astronomical Book is 'revealed science'—celestial mechanics serve theological
+      argument. Controlling the calendar meant controlling religious authority. The tension
+      between idealized 364-day order and ~365.25-day reality may symbolize contrast between
+      heavenly perfection and earthly corruption. Key insight: stars as angelic beings
+      governing time; cosmos infused with divine agency, not mere mechanism."
+    
+    created: 2024-12-28
+    updated: 2024-12-28
+    trace_status: complete
+
 # =============================================================================
 # CONNECTIONS INDEX
 # Redundant but useful for quick traversal - auto-generated by scripts
@@ -5081,6 +5230,18 @@ connections:
   - [SWED-024, develops, SWED-008]
   - [SWED-024, parallels, SWED-006]
   - [SWED-024, supports, BIBL-010]
+
+  # NEW: MYTH-013 (Exodus Bricolage) connections
+  - [MYTH-013, instantiates, MYTH-001]
+  - [MYTH-013, develops, MYTH-002]
+  - [MYTH-013, supports, SWED-004]
+  - [MYTH-013, instantiates, CROSS-001]
+  
+  # NEW: MYTH-014 (Enochian Calendar) connections
+  - [MYTH-014, instantiates, MYTH-001]
+  - [MYTH-014, parallels, SWED-004]
+  - [MYTH-014, supports, SWED-020]
+  - [MYTH-014, develops, MYTH-012]
 
 # =============================================================================
 # UNTRACED CLAIMS

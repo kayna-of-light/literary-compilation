@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-27 08:52*
+*Last exported: 2025-12-27 09:45*
 
 ---
 
@@ -10,25 +10,25 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 38 |
-| Total Connections | 0 |
-| Untraced Claims | 0 |
+| Total Nodes | 75 |
+| Total Connections | 238 |
+| Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 35
-- **preliminary**: 2
-- **contested**: 1
+- **validated**: 67
+- **preliminary**: 5
+- **contested**: 3
 
 ### By Domain
 
 - **Cross-Domain** (CROSS): 3
-- **Consciousness Studies** (CONSC): 5
-- **Swedenborgian Theology** (SWED): 9
-- **Biblical Scholarship** (BIBL): 6
-- **Early Christian History** (EARLY): 6
-- **The Gnostic Impulse** (GNOS): 4
-- **Mythological Studies** (MYTH): 5
+- **Consciousness Studies** (CONSC): 12
+- **Swedenborgian Theology** (SWED): 20
+- **Biblical Scholarship** (BIBL): 9
+- **Early Christian History** (EARLY): 13
+- **The Gnostic Impulse** (GNOS): 6
+- **Mythological Studies** (MYTH): 12
 
 ---
 
@@ -39,7 +39,7 @@
 
 #### [CONSC-001] Consciousness-Driven Evolution (CDE) Hypothesis
 
-**Status**: preliminary | **Confidence**: medium
+**Status**: preliminary | **Confidence**: low
 
 > Consciousness is a fundamental, active force in memetic (cultural) evolution, not merely an epiphenomenal byproduct of neural activity. The collective "ruling love" of a population creates selective pressures that push societies along one of two evolutionary trajectories: toward coherence/unity or fragmentation/conflict.
 
@@ -129,6 +129,144 @@
 **Connections**:
 - → `CONSC-002` (develops): Provides interpretive framework for DOPS data
 - → `SWED-003` (develops): Extends Swedenborg's model to accommodate reincarnation
+
+---
+
+#### [CONSC-006] Hemispheric Brain Model (Master/Emissary)
+
+**Status**: validated | **Confidence**: high
+
+> McGilchrist's model of brain hemispheric asymmetry: the right hemisphere ("Master") perceives holistic, relational context while the left ("Emissary") analyzes decontextualized parts. The Emissary's usurpation leads to a fragmented worldview. Framework: neurological substrate of proprium mechanics.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Brain, Myth, and Conscious Choice.md
+2. [S] McGilchrist, The Master and His Emissary (2009)
+
+**Connections**:
+- → `SWED-005` (parallels): Emissary usurpation = proprium dominance
+- → `MYTH-002` (supports): Two hearts correspond to two hemispheric modes
+- → `CONSC-007` (requires): Neuroplasticity enables rebalancing
+
+---
+
+#### [CONSC-007] Neuroplasticity and Conscious Choice
+
+**Status**: validated | **Confidence**: high
+
+> The brain's capacity to reorganize structure and function through experience. Hebbian learning ("neurons that fire together wire together") allows intentional attention to reshape neural pathways. Contemplative practices (mindfulness, compassion training) demonstrate measurable brain changes.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Brain, Myth, and Conscious Choice.md
+2. [S] Multiple studies on MBSR and CCT
+
+**Connections**:
+- → `CONSC-006` (develops): Mechanism for rebalancing hemispheres
+- → `SWED-008` (parallels): Neural basis for regeneration process
+- → `CROSS-003` (supports): Choice shapes ruling love through neural pathways
+
+---
+
+#### [CONSC-008] Being of Light as Divine Human
+
+**Status**: validated | **Confidence**: medium
+
+> The "Being of Light" encountered in NDEs identified not by visual appearance but by unique personality: unconditional love, total acceptance, non-judgment. This personality profile is a "perfect correspondence" to the Gospel Jesus and Swedenborg's Divine Human. Identification is "pure" (personality match) not cultural projection.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Pure Encounter or Cultural Construct.md
+2. [E] Van Lommel, Lancet study (2001)
+3. [E] DOPS NDE database
+
+**Connections**:
+- → `CONSC-004` (develops): Specific identification within NDE phenomenology
+- → `SWED-009` (supports): Empirical evidence for Divine Human reality
+- → `CONSC-009` (produces): Experience leads to Dogma Paradox
+
+---
+
+#### [CONSC-009] The Dogma Paradox
+
+**Status**: validated | **Confidence**: medium
+
+> Finding that NDE-Jesus consistently delivers messages of universal love that supersede and contradict exclusivist religious dogma. If the Jesus figure were cultural projection, he should reflect experiencer's dogma. Instead, the experience corrects dogma—proving it is not projection but encounter with transcendent personality.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Pure Encounter or Cultural Construct.md
+2. [E] NDE testimonies across religious backgrounds
+
+**Connections**:
+- → `CONSC-008` (produced_by): Results from encounter with Being of Light
+- → `GNOS-002` (supports): Confirms Path of Affirmation over dogmatic gnosis
+- → `EARLY-003` (contrasts): Contradicts Pauline exclusivism
+
+---
+
+#### [CONSC-010] Volunteer Soul Paradigm
+
+**Status**: preliminary | **Confidence**: low
+
+> Hypothesis that certain advanced souls may choose pre-incarnate mission agreements, incarnating not for personal development but for specific service. Swedenborg's 1744 commission ("Do what thou hast promised") interpreted as activation of pre-mortal covenant. Distinct from normative "seed-state" incarnation and restorative incarnation. Corroborated by NDE research showing interlife planning, children's past-life memories with mission orientation.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Swedenborg's Promise.md
+2. [P] Swedenborg, Journal of Dreams (April 1744)
+3. [E] NDE interlife accounts (various researchers)
+4. [E] Stevenson/Tucker DOPS past-life research
+
+**Connections**:
+- → `CONSC-005` (develops): Specialized case within post-mortem model
+- → `SWED-003` (instantiates): Personal application of influx doctrine
+- → `CONSC-003` (supports): Evidence for consciousness persistence
+
+---
+
+#### [CONSC-011] The Divided Brain Thesis
+
+**Status**: validated | **Confidence**: high
+
+> McGilchrist's thesis that the brain's hemispheric asymmetry reflects fundamentally different modes of attention and engagement with reality. The right hemisphere (the "Master") perceives holistically, relationally, and empathetically; the left hemisphere (the "Emissary") operates analytically, categorically, and manipulatively. Modern Western culture represents the Emissary's usurpation—prioritizing detached instrumental reason over embodied relational wisdom.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Brain, Myth, and Conscious Choice.md
+2. [S] Iain McGilchrist, The Master and His Emissary (2009)
+3. [S] McGilchrist, The Matter with Things (2021)
+4. [S] Alfred North Whitehead, Process and Reality (1929)
+5. [S] David Bohm, Wholeness and the Implicate Order (1980)
+
+**Connections**:
+- → `CONSC-001` (develops): Provides neural substrate for consciousness-driven evolution
+- → `CROSS-003` (parallels): Fundamental consciousness aligns with right-hemisphere awareness
+- → `SWED-005` (supports): Right-hemisphere mode aligns with love-centered perception
+- → `GNOS-001` (contrasts): Gnostic hyper-intellectualism as left-hemisphere dominance
+- → `MYTH-002` (parallels): Right hemisphere as vehicle for mythic consciousness
+
+---
+
+#### [CONSC-012] The D0/D1 Conflict Model: Proprium vs. Influx
+
+**Status**: validated | **Confidence**: high
+
+> A systems-level model positing a single continuous conflict throughout human history: the dynamic tension between the "Proprium" (centralized, hierarchical, self-justifying ideological control) and the "Influx" (decentralized, anti-hierarchical, spontaneous organization). The Proprium is driven by philautia (self-love) and "self-glorification"; the Influx by kenosis (self-emptying) and agape (unselfish love). This esoteric framework maps precisely onto 21st-century socio-political phenomena.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Proprium et Influx_ An Objective Analysis...
+2. [P] Swedenborg, True Christian Religion
+3. [S] Freedom House, 'Rise of Digital Authoritarianism' (2018)
+4. [S] Cognitive Science of Religion research (various)
+
+**Connections**:
+- → `SWED-005` (develops): Operationalizes proprium vs. charity distinction
+- → `GNOS-001` (parallels): SBNR as modern gnostic impulse
+- → `CROSS-003` (supports): Influx as manifestation of fundamental consciousness
+- → `SWED-003` (instantiates): Contemporary application of influx doctrine
+- → `CONSC-011` (complements): Right hemisphere aligns with Influx mode
 
 ---
 
@@ -302,6 +440,232 @@
 
 ---
 
+#### [SWED-010] Internal Respiration and Primordial Cognition
+
+**Status**: validated | **Confidence**: medium
+
+> The physiological mechanism of the Most Ancient Church's spiritual perception: "internal respiration" where breathing was synchronized with internal thought. Vagus nerve stimulation, parasympathetic activation, and parietal deafferentation created a state of self-transcendence where boundary between self and Divine was porous.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Evolution of God Concepts and Consciousness.md
+2. [P] Swedenborg, Arcana Coelestia §§ 607-608
+3. [S] Neurotheology research on meditation
+
+**Connections**:
+- → `SWED-006` (describes): Physiological basis of Golden Age cognition
+- → `SWED-007` (precedes): State disrupted by cognitive Fall
+- → `CONSC-007` (parallels): Contemplative practices restore partial access
+
+---
+
+#### [SWED-011] The Divine Human (Maximus Homo)
+
+**Status**: validated | **Confidence**: high
+
+> The concept that the universal heaven is structured in the form of a human body, termed "Maximus Homo" or Grand Man. Every organ, tissue, and function in the physical body corresponds to specific angelic societies or "provinces" in heaven. The human form is the form of the Divine itself. The individual microcosm mirrors the heavenly macrocosm.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Divine Human Anatomy and Spiritual Correspondence.md
+2. [P] Swedenborg, Arcana Coelestia §§ 3624-3649
+3. [P] Swedenborg, Heaven and Hell §§ 59-102
+
+**Connections**:
+- → `SWED-001` (instantiates): Body-heaven relationship as master correspondence
+- → `SWED-009` (develops): Glorification completed Divine Human accessible in ultimates
+- → `CONSC-003` (parallels): NDE beings of light as encounter with Divine Human
+
+---
+
+#### [SWED-012] Library of Biblical Correspondences
+
+**Status**: validated | **Confidence**: high
+
+> The systematic catalog of natural elements, creatures, plants, and objects and their spiritual meanings in Scripture. Sun = Divine Love/Wisdom; Water = Truth; Fire = Love (good or evil); Mountain = Celestial love; Lion = Power of truth; Lamb = Innocence; Fish = Natural truths. Each symbol has both positive and negative (opposite) senses depending on context.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/A Library of Biblical Correspondences in Nature and Objects.md
+2. [P] Swedenborg, Arcana Coelestia
+3. [P] Swedenborg, Apocalypse Explained
+
+**Connections**:
+- → `SWED-001` (instantiates): Comprehensive application of correspondence principle
+- → `SWED-004` (describes): The symbolic language the Ancient Word employed
+- → `BIBL-003` (develops): Provides internal sense of biblical narratives
+
+---
+
+#### [SWED-013] Spiritual Numerology
+
+**Status**: validated | **Confidence**: high
+
+> Numbers in Scripture as precise expressions of spiritual realities forming a coherent symbolic language. Four foundational numbers: Two (union, predicated of good), Three (fullness/completeness, predicated of truth), Five (quantity/ sufficiency), Seven (holiness/sanctity). All other numbers derive meaning through multiplication from these foundations.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/The Spiritual Numerology of the Word.md
+2. [P] Swedenborg, Apocalypse Explained §§ 429-532
+3. [P] Swedenborg, Secrets of Heaven (Arcana Coelestia)
+
+**Connections**:
+- → `SWED-001` (instantiates): Numbers as correspondential language
+- → `SWED-012` (complements): Numerology alongside natural symbol correspondences
+- → `BIBL-004` (develops): Provides layer of meaning in textual analysis
+
+---
+
+#### [SWED-014] The Actual Jesus of Love
+
+**Status**: validated | **Confidence**: high
+
+> The ontological integration of historical and theological understandings of Jesus. The "Historical Jesus" (bedrock facts via HCM) is the external "vessel" or "ultimate" for Divine Influx. Through Glorification, became the Divine Human - the "Being of Light" encountered in NDEs characterized by unconditional, non-judgmental love. Accessible both historically and eternally present.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/The Divine Human in Ultimates.md
+2. [S] E.P. Sanders, bedrock facts of historical Jesus
+3. [P] Swedenborg, True Christian Religion
+4. [E] NDE research on Being of Light identification
+
+**Connections**:
+- → `SWED-009` (develops): Result of completed Glorification process
+- → `BIBL-002` (develops): Reinterprets historical Jesus findings
+- → `CONSC-003` (supports): Being of Light phenomenology validates theological claim
+- → `GNOS-002` (opposes): Opposes Gnostic dismantling of Jesus identity
+
+---
+
+#### [SWED-015] Regeneration as Threefold Way
+
+**Status**: validated | **Confidence**: high
+
+> The universal spiritual development path consisting of three stages: Purification (Katharsis) - spiritual combat and rejection of evil; Illumination (Theoria) - divine instruction and visionary experiences; Union (Theosis) - integration of spiritual and natural selves, formation of "new man." Maps onto Desert Father practices and modern NDE transformation patterns.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/The Architecture of Regeneration.md
+2. [P] Swedenborg, True Christian Religion §§ 571-620
+3. [S] Christian mystical tradition (Threefold Way)
+
+**Connections**:
+- → `SWED-008` (develops): Detailed stage structure of regeneration process
+- → `CONSC-005` (parallels): NDE transformation as compressed regeneration
+- → `EARLY-004` (instantiates): Kenotic practices as Purification technology
+
+---
+
+#### [SWED-016] The Fall into Language
+
+**Status**: validated | **Confidence**: high
+
+> The proposition that human cognitive evolution from 'internal respiration' to articulate speech represents not an ascent into clarity but a 'Fall' into externalized cognition. In the primordial state, understanding came through 'lip-speech' (facial mimetic communication) and direct intuitive perception of correspondences. The development of writing externalized memory and created the gap between signifier and signified—the 'outer layer barely capable of understanding.'
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/The Resurrection of True Life...
+2. [P] Swedenborg, Arcana Coelestia
+3. [S] Gestural Theory of language origin (various)
+4. [S] Lakoff & Johnson, Conceptual Metaphor Theory
+5. [E] Neurotheology research (Newberg et al.)
+
+**Connections**:
+- → `SWED-001` (develops): Explains why correspondences became lost
+- → `SWED-002` (parallels): Ancient Word predates the Fall into writing
+- → `CONSC-011` (supports): Left-hemisphere dominance as linguistic Fall
+- → `MYTH-002` (develops): Mythic consciousness as pre-Fall cognition
+- → `MYTH-008` (supports): Songlines as evidence of pre-literate memory capacity
+
+---
+
+#### [SWED-017] Divine Bricolage: Adaptive Influx
+
+**Status**: validated | **Confidence**: high
+
+> The providential mechanism by which Divine Influx guides human history to create 'vessels' capable of holding spiritual truth. As humanity 'fell' from internal intuition to external concepts, God adapted His communication method—using the 'materials at hand' (myths, memories, histories) to construct containers for the Infinite. The 'falsity' of the outer layer becomes the vehicle for the truth of the inner layer.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/The Resurrection of True Life...
+2. [P] Swedenborg, Arcana Coelestia
+3. [S] Lévi-Strauss, The Savage Mind (1962)
+4. [T] data/06_Mythological_Studies/The Two Hearts of Creation...
+
+**Connections**:
+- → `CROSS-002` (instantiates): Divine Bricolage is the spiritual version of mythic bricolage
+- → `MYTH-001` (develops): Explains teleology behind proto-myth evolution
+- → `SWED-003` (requires): Influx doctrine underlies providential guidance
+- → `MYTH-009` (supports): Exodus as example of providentially-guided history
+- → `SWED-009` (precedes): Prepares for Glorification through progressive revelation
+
+---
+
+#### [SWED-018] The Divine Human in Ultimates
+
+**Status**: validated | **Confidence**: high
+
+> The theological profile of the 'Actual Jesus of Love'—the Divine Human who is neither 'God masquerading as man' (Docetism) nor 'Man adopted by God' (Adoptionism), but the structural integration of the Infinite and the Finite. Through Glorification, Jesus acquired a 'Divine Natural' body, making Him present in ultimates—accessible to human senses and hearts. He is the Being of Light encountered in NDEs, characterized by unconditional love, non-judgment, and personal knowing.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/The Divine Human in Ultimates...
+2. [P] Swedenborg, True Christian Religion
+3. [S] E.P. Sanders, Jesus and Judaism (1985)
+4. [E] IANDS NDE research (various)
+
+**Connections**:
+- → `SWED-009` (develops): Glorification doctrine fully realized in this profile
+- → `CONSC-003` (supports): NDE data validates Divine Human accessibility
+- → `SWED-017` (requires): Divine Bricolage prepared the vessel
+- → `GNOS-001` (opposes): Path of Gnosis dismantles this specific identity
+- → `CONSC-004` (parallels): Being of Light in NDEs matches this profile
+
+---
+
+#### [SWED-019] The Architecture of Regeneration
+
+**Status**: validated | **Confidence**: medium
+
+> Regeneration is the divinely orchestrated process of spiritual rebirth, mapped onto the archetypal 'Threefold Way' of Christian mysticism: Purification (katharsis), Illumination (theoria), and Union (theosis). The process includes: (1) 'Vastation'— the dark night of the soul that dismantles spiritual ego; (2) 'Remains' (reliquiae)— states of innocence implanted by the Lord from infancy, protected until conscious integration; (3) Resolution of 'double thoughts' (internal vs. external man); (4) Discovery of spiritual 'Use' (purpose within the Universal Human/Maximus Homo).
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/The Architecture of Regeneration...
+2. [P] Swedenborg, Arcana Coelestia §§ 1906, 3183, 5660
+3. [P] Swedenborg, Heaven and Hell §§ 63-102
+4. [S] Evelyn Underhill, Mysticism (1911)
+
+**Connections**:
+- → `SWED-009` (develops): Regeneration culminates in Glorification pattern
+- → `CONSC-004` (parallels): NDE phenomenology matches illumination stage
+- → `SWED-005` (opposes): Regeneration undoes proprium's dominance
+- → `CONSC-010` (complements): Volunteer Soul missions as regenerative Use
+- → `SWED-001` (instantiates): Dream symbols follow doctrine of correspondences
+
+---
+
+#### [SWED-020] Spiritual Numerology of the Word
+
+**Status**: validated | **Confidence**: high
+
+> Numbers in Scripture are not arbitrary but form a precise spiritual language. Four foundational numbers (2, 3, 5, 7) generate all other meanings through multiplication. Two = union, predicated of good (celestial/spiritual kingdoms). Three = fullness/completeness, predicated of truth (three heavens). Five = quantity, 'much/something.' Seven = holiness/sanctity (Sabbath). Larger numbers inherit meaning: 12 = all things of truth from good (3×4), 40 = full period of temptation (from 2). Triplication intensifies to absolute degree: 666 = total falsification.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/The Spiritual Numerology of the Word...
+2. [P] Swedenborg, Apocalypse Explained §§ 40, 54, 186, 257, 532
+3. [P] Swedenborg, Secrets of Heaven (Arcana Coelestia) §§ 1906, 3, 8, 10
+4. [P] Swedenborg, Heaven and Hell § 165
+
+**Connections**:
+- → `SWED-001` (instantiates): Numbers as correspondences
+- → `SWED-012` (complements): Works with Genesis narrative interpretation
+- → `BIBL-003` (develops): Enables inner sense reading of Scripture
+- → `MYTH-002` (parallels): Prime number evolution in mythic structures
+
+---
+
 ### Biblical Scholarship
 *HCM, Gospel formation, textual criticism*
 
@@ -332,7 +696,7 @@
 
 **Source Chain**:
 1. [T] data/03_Biblical_Scholarship/The Canonical Gospels.md
-2. [S] Klinghardt, The Oldest Gospel (2020)
+2. [S] Klinghardt, The Oldest Gospel (German 2015, English 2021)
 3. [S] BeDuhn, The First New Testament (2013)
 
 **Connections**:
@@ -414,6 +778,70 @@
 
 ---
 
+#### [BIBL-007] Resurrection Narrative Evolution
+
+**Status**: validated | **Confidence**: high
+
+> The chronological development of resurrection accounts from Paul's "spiritual body" (soma pneumatikon, 50s CE) to Luke's "flesh and bones" (90s CE). Paul: no empty tomb, visionary appearances (ophthe), "flesh and blood cannot inherit." Mark: empty tomb but no appearances. Matthew: guards, physical touch. Luke/John: eating, wound inspection. Trajectory reflects "Fall into Language" - cognitive shift requiring external proofs.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/Resurrection Narrative Evolution.md
+2. [P] 1 Corinthians 15:3-8, 35-54
+3. [P] Mark 16:1-8
+4. [P] Luke 24:36-43
+5. [S] Critical scholarship timeline (Sanders, Crossan)
+
+**Connections**:
+- → `BIBL-002` (develops): Detailed textual evolution analysis
+- → `SWED-007` (parallels): Fall into Language parallels cognitive Fall
+- → `GNOS-002` (supports): Early spiritual view vs. later physicalism
+
+---
+
+#### [BIBL-008] The Talpiot Tomb Hypothesis
+
+**Status**: contested | **Confidence**: low
+
+> The hypothesis that the 1980 Talpiot tomb discovery (ossuaries inscribed "Yeshua bar Yehosef," "Maria," "Yose," "Mariamene e Mara") is the Jesus family tomb. Statistical analysis (Feuerverger: 600:1 odds) plus geochemical matching of James Ossuary soil to Talpiot signature. If valid, implies Jerusalem church knew remains' location and held "spiritual exaltation" theology compatible with physical burial.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/Resurrection Narrative Evolution.md
+2. [S] Andrey Feuerverger, statistical analysis
+3. [S] Aryeh Shimron (2015), geochemical study
+4. [E] Archaeological discovery, East Talpiot 1980
+
+**Connections**:
+- → `EARLY-007` (supports): Material evidence for Desposyni family structure
+- → `BIBL-007` (supports): Explains early spiritual vs. later physical resurrection views
+- → `BIBL-002` (develops): Archaeological dimension to historical Jesus
+
+---
+
+#### [BIBL-009] The Jamesian Protograph (Proto-Luke)
+
+**Status**: validated | **Confidence**: medium
+
+> A forensic reconstruction hypothesis proposing that 'Q' was not a fragmented sayings list but a coherent pre-canonical gospel—'Proto-Luke'—from the Jamesian Jerusalem Church. This protograph preserved the ethical rigor, poverty theology, and spiritual resurrection of the earliest Jewish followers. The lineage: Proto-Luke (Jamesian) → Mark (Pauline Reaction) → Matthew & Canonical Luke (Harmonization). Marcion's Evangelion is argued to preserve the unedited Proto-Luke, making his 'heresy' actually preservation.
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/The Jamesian Protograph_ A Forensic Reconstruction of Proto-Luke.md
+2. [S] B.H. Streeter, The Four Gospels (1924)
+3. [S] Matthias Klinghardt, Das älteste Evangelium (2015/2021)
+4. [S] Jason BeDuhn, The First New Testament (2013)
+5. [P] NA28 Greek NT
+
+**Connections**:
+- → `EARLY-010` (supports): James's theology preserved in Proto-Luke
+- → `BIBL-002` (develops): Advanced source criticism methodology
+- → `BIBL-007` (supports): Spiritual resurrection as original Proto-Lukan view
+- → `EARLY-009` (describes): Lukan Dissonance as result of later editing
+- → `BIBL-004` (complements): Western Non-Interpolations as key evidence
+
+---
+
 ### Early Christian History
 *Jamesian/Pauline movements, Desposyni, Magi*
 
@@ -438,7 +866,7 @@
 
 #### [EARLY-002] The Jamesian Protograph (Proto-Luke)
 
-**Status**: validated | **Confidence**: medium
+**Status**: preliminary | **Confidence**: low
 
 > Hypothetical source document underlying canonical Luke, representing Jamesian community tradition. Characterized by: emphasis on Jesus's humanity, disciples' failures, poverty/reversal themes, "the Living One" resurrection (non-physicalist), absence of Pauline theological framework.
 
@@ -527,6 +955,149 @@
 
 ---
 
+#### [EARLY-007] The Desposyni (Davidic Dynasty)
+
+**Status**: validated | **Confidence**: medium
+
+> The biological family of Jesus - "the Master's People" - functioning as a structured dynastic institution with recognized Davidic lineage. Led by James the Just as Bishop of Bishops. Tracked by Roman intelligence (Domitian's investigation of David's descendants). Succession was hereditary (James→Symeon). Not mere preachers but a "Royal House in exile."
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/The Dynasty of the Branch.md
+2. [P] Hegesippus, quoted in Eusebius, Church History 3.19-20
+3. [P] Gospel of Thomas, Logion 12
+4. [S] Josephus, Antiquities 20.9.1
+
+**Connections**:
+- → `EARLY-001` (develops): Detailed profile of Jamesian institutional structure
+- → `EARLY-002` (supports): Proto-Luke preserves Jamesian material
+- → `BIBL-002` (develops): Adds dynastic dimension to historical Jesus
+
+---
+
+#### [EARLY-008] The Magi and the Science of Correspondences
+
+**Status**: validated | **Confidence**: medium
+
+> The Magi of the Nativity narrative as last practitioners of the ancient Science of Correspondences - the wisdom that reads divine meaning in natural phenomena. Their journey represents the providential confluence of Persian (Zoroastrian) and Judean (Essene/prophetic) wisdom streams. Daniel as Rab-mag restored prophetic key to Magian tradition.
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/The Luminous Science.md
+2. [T] data/04_Early_Christian_History/The Cycle of Celestial Knowledge.md
+3. [P] Matthew 2:1-12
+4. [P] Swedenborg, Arcana Coelestia on correspondences
+
+**Connections**:
+- → `SWED-001` (instantiates): Historical application of correspondence doctrine
+- → `SWED-004` (supports): Magi as carriers of Ancient Word knowledge
+- → `EARLY-006` (parallels): Zoroastrian wisdom tradition
+
+---
+
+#### [EARLY-009] The Lukan Dissonance
+
+**Status**: validated | **Confidence**: high
+
+> The theological and political divergence between the Gospel of Luke (preserving "Jamesian" theology - poverty ethic, Torah piety, reversal theology) and the Acts of the Apostles (domesticating Paul, harmonizing factions). Acts "tames" Paul by portraying him as subordinate to Jerusalem, erasing conflicts (Antioch incident), and inventing consensus (Apostolic Decree). Luke-Acts serves anti-Marcionite agenda.
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/The Lukan Dissonance.md
+2. [S] Tendency Criticism (Tendenzkritik) - Baur, Knox, Tyson, Pervo
+3. [P] Galatians 2:11-14
+4. [P] 1 Corinthians 8, 10
+
+**Connections**:
+- → `EARLY-001` (supports): Validates Jamesian vs. Pauline tension
+- → `EARLY-003` (describes): Details mechanics of Pauline domestication
+- → `BIBL-004` (develops): Explains Gospel formation dynamics
+
+---
+
+#### [EARLY-010] James the Just: The Opposition High Priest
+
+**Status**: validated | **Confidence**: high
+
+> Comprehensive historical profile of James brother of Jesus as supreme authority of the Jerusalem church. Styled "Oblias" (Bulwark of the People), lifelong Nazirite, wearer of the petalon (High Priestly diadem), intercessor in the Temple. Gospel of Thomas Logion 12 names James as designated successor. The Pseudo-Clementines style him "Bishop of Bishops" with Peter subordinate. His 62 CE martyrdom was believed to cause Jerusalem's destruction (Hegesippus, Origen).
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/The Bulwark of the People.md
+2. [P] Josephus, Antiquities 20.9.1
+3. [P] Hegesippus (via Eusebius, HE 2.23)
+4. [P] Gospel of Thomas, Logion 12
+
+**Connections**:
+- → `EARLY-001` (instantiates): Primary figure of Jamesian movement
+- → `EARLY-007` (supports): Key Desposyni figure
+- → `BIBL-004` (contradicts): Alternative succession to Petrine claims
+
+---
+
+#### [EARLY-011] The Historical Mariamene
+
+**Status**: contested | **Confidence**: medium
+
+> Forensic reconstruction of Mary Magdalene as "Mariamene the Tower" (Magdala = Tower, not just toponym) and "Mara" (Master/Mistress). Independent woman of means (hyparchonton) who financed the movement. Talpiot ossuary "Mariamene e Mara" matches Greek diminutive from Acts of Philip. DNA evidence from tomb shows non-maternal relation to Jesus ossuary (implies spousal). Gospel of Mary, Gospel of Philip portray pneumatic apostolic authority.
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/The Tower and the Tomb.md
+2. [S] François Bovon, Acts of Philip analysis
+3. [E] Talpiot Tomb DNA testing
+4. [P] Gospel of Mary, Gospel of Philip
+
+**Connections**:
+- → `EARLY-007` (develops): Potential dynastic partner
+- → `BIBL-008` (supports): Key figure in Talpiot hypothesis
+- → `BIBL-007` (parallels): Pneumatic witness to spiritual resurrection
+
+---
+
+#### [EARLY-012] The Foundational Divergence: Jesus vs. Paul
+
+**Status**: validated | **Confidence**: high
+
+> Textual analysis demonstrating fundamental incompatibility between the ethos and methodology of Jesus and Paul. Jesus modeled gentleness, patience, internal transformation, and proactive reconciliation. Paul exhibited assertive confrontation, inflammatory language, and public rebuke in defense of his unique revelation. The divergence is not subtle theological nuance but profound difference in spirit and method.
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/A Foundational Divergence...
+2. [P] NA28 (Nestle-Aland Greek NT, 28th ed.)
+3. [P] Matthew 5:21-28; 5:39; 11:29
+4. [P] Galatians 1:11-12; 2:4; 2:11-14
+
+**Connections**:
+- → `EARLY-001` (develops): Substantiates the Jesus-Paul tension
+- → `EARLY-010` (supports): James represented Jesus's ethos against Paul
+- → `BIBL-002` (instantiates): HCM methodology applied to Paul question
+- → `GNOS-005` (parallels): Paul's singular revelation claims resemble gnostic epistemology
+- → `SWED-005` (contrasts): Paul's assertiveness vs. Swedenborg's love-centered approach
+
+---
+
+#### [EARLY-013] The Magi and the Science of Correspondences
+
+**Status**: validated | **Confidence**: medium
+
+> The Magi who visited the infant Jesus were the last custodians of the 'Science of Correspondences'—the ancient wisdom that every natural object corresponds to a spiritual reality. Their journey represents the final act of the 'Ancient Church,' passing its accumulated wisdom to the nascent Christian church. Daniel, as 'Rab-mag' (Chief of the Magi), had re-infused the Magian tradition with genuine prophetic spirit. The gifts (gold, frankincense, myrrh) formed a complete theological statement: celestial goodness (gold), spiritual goodness (frankincense), natural goodness (myrrh).
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/The Luminous Science_ A Re-examination of the Magi.md
+2. [P] Swedenborg, Arcana Coelestia §§ 9293, 10252-10262
+3. [W] Encyclopaedia Iranica, ARSACIDS iv. Arsacid religion
+4. [S] Book of Daniel (chapters 1-6)
+
+**Connections**:
+- → `SWED-004` (instantiates): The Science of Correspondences in historical action
+- → `SWED-007` (precedes): Magi represent transition from Ancient to Christian church
+- → `MYTH-008` (develops): Echoes of Ancient Word preserved by Magi
+- → `EARLY-001` (parallels): Jamesian movement as similar preservation effort
+
+---
+
 ### The Gnostic Impulse
 *Gnostic theology, proprium mechanics*
 
@@ -565,9 +1136,9 @@
 
 ---
 
-#### [GNOS-003] Gnostic Substrates in Paul
+#### [GNOS-003] Gnostic Readings of Paul
 
-**Status**: contested | **Confidence**: medium
+**Status**: contested | **Confidence**: low
 
 > Analysis identifying proto-gnostic elements in Pauline corpus: cosmic drama orientation, wisdom/foolishness dichotomy, flesh/spirit dualism, hidden mystery language, elevated self-consciousness. Not claiming Paul was gnostic but that his framework provided matrix for later gnostic development.
 
@@ -596,6 +1167,46 @@
 **Connections**:
 - → `GNOS-001` (instantiates): Contemporary gnostic impulse
 - → `SWED-005` (instantiates): Modern proprium expressions
+
+---
+
+#### [GNOS-005] Gnostic Substrate in Paul
+
+**Status**: validated | **Confidence**: medium
+
+> The evidence that Pauline epistles contain foundational Gnostic terminology and concepts: pneumatikos/psychikos anthropology (1 Cor 2:14-15), pleroma (Col 1:19), archons (1 Cor 2:6-8), stoicheia (Gal 4:3-9), mysterion, gnosis. The crucifixion presented as cosmic trap deceiving "rulers of this age." Earliest enthusiastic readers of Paul were Gnostics (Valentinians, Marcion).
+
+
+**Source Chain**:
+1. [T] data/05_Gnostic_Analysis/The Apostle of the Archons.md
+2. [S] Walter Bauer, Orthodoxy and Heresy in Earliest Christianity (1934)
+3. [S] Elaine Pagels, The Gnostic Paul (1975)
+4. [P] 1 Corinthians 2:6-8, 14-15; 15:44-46
+
+**Connections**:
+- → `GNOS-001` (supports): Paul as source of Gnostic mechanics
+- → `EARLY-003` (develops): Pauline innovation as proto-Gnostic
+- → `GNOS-003` (supports): Historical evidence for Gnostic Paul reading
+- → `SWED-005` (parallels): Proprium mechanics in cosmic dualism
+
+---
+
+#### [GNOS-006] Proprium as Gnostic Engine
+
+**Status**: validated | **Confidence**: high
+
+> The identification of the Swedenborgian "Proprium" (love of self) as the operational mechanic underlying all Gnostic movements. The Gnostic Impulse is the "ultimate" form of the Proprium's drive for autonomy: spiritual theft (claiming divine attributes as one's own), dismantling the visible God (splitting Jesus from Christ), and self-deification (elevating the "True Self" to the throne). The "Divine Spark" doctrine is the Proprium theologized as divinity.
+
+
+**Source Chain**:
+1. [T] data/05_Gnostic_Analysis/A Pneumatological and Historical Validation.md
+2. [P] Swedenborg, Divine Love and Wisdom §§ 400-407
+3. [P] Swedenborg, True Christian Religion §§ 567-578
+
+**Connections**:
+- → `SWED-005` (develops): Deep analysis of proprium-gnosis connection
+- → `GNOS-001` (describes): Explains underlying mechanism of Gnostic Impulse
+- → `GNOS-003` (develops): Modern manifestations explained
 
 ---
 
@@ -692,12 +1303,161 @@
 
 ---
 
+#### [MYTH-006] Heart of Division vs. Heart of Unity
+
+**Status**: validated | **Confidence**: high
+
+> Two divergent cosmological paradigms emerging from shared ANE primordial matrix. "Heart of Division" (Enuma Elish): creation through theomachy/divine conflict, cosmos as rearranged divine substance, polytheistic/immanent. "Heart of Unity" (Genesis 1): creation through divine fiat, radical Creator/Creation distinction, monotheistic/transcendent. Genesis is deliberate demythologization polemic.
+
+
+**Source Chain**:
+1. [T] data/06_Mythological_Studies/Genesis, Enuma Elish, Proto-Myth Evolution.md
+2. [P] Enuma Elish (Babylonian creation epic)
+3. [P] Genesis 1:1-2:4a
+4. [S] ANE scholarly consensus on Genesis literary dependence
+
+**Connections**:
+- → `MYTH-001` (instantiates): Prime example of mythic bricolage
+- → `SWED-002` (supports): Heart of Unity as influx creating ordered cosmos
+- → `GNOS-001` (contrasts): Gnostic cosmology resembles Heart of Division
+- → `CROSS-003` (supports): Post-materialist framework aligns with Heart of Unity
+
+---
+
+#### [MYTH-007] Urmonotheismus (Primitive Monotheism)
+
+**Status**: preliminary | **Confidence**: low
+
+> The hypothesis that monotheism (belief in a single High God/Creator) was humanity's original religious orientation, with polytheism and animism representing later "degeneration." Proposed by Lang and Schmidt based on ethnographic evidence of "High God" beliefs among hunter-gatherer societies. Challenges linear evolutionary model (animism→polytheism→monotheism).
+
+
+**Source Chain**:
+1. [T] data/06_Mythological_Studies/Genesis, Enuma Elish, Proto-Myth Evolution.md
+2. [S] Andrew Lang, The Making of Religion (1898)
+3. [S] Wilhelm Schmidt, Der Ursprung der Gottesidee (12 vols, 1912-1955)
+
+**Connections**:
+- → `SWED-006` (parallels): Structural parallel to Most Ancient Church thesis
+- → `MYTH-006` (supports): Provides cognitive mechanism for Heart of Unity
+- → `CONSC-001` (develops): Suggests unifying cognitive impulse is primordial
+
+---
+
+#### [MYTH-008] The Echoes of the Ancient Word
+
+**Status**: validated | **Confidence**: medium
+
+> Scientific evidence supporting concept of a lost universal knowledge system matching Swedenborg's "Ancient Word": (1) 32 geometric signs recurring 30,000 years across Europe, originating out of Africa; (2) Aboriginal songlines preserving 7,000-14,000 year coastal/astronomical memory; (3) Göbekli Tepe (11,600 BP) as potential astronomical observatory encoding Younger Dryas cataclysm; (4) Lynne Kelly's "Memory Code" hypothesis linking monuments to mnemonic technology. The "Ancient Word" may be a lost cognitive technology, not a text.
+
+
+**Source Chain**:
+1. [T] data/06_Mythological_Studies/Echoes of an Ancient Word.md
+2. [S] Genevieve von Petzinger, The First Signs (2016)
+3. [S] Sweatman & Tsikritsis, archaeoastronomy studies
+4. [S] Lynne Kelly, The Memory Code (2016)
+
+**Connections**:
+- → `SWED-004` (supports): Scientific evidence for Ancient Word concept
+- → `MYTH-003` (develops): Deep time mythic memory
+- → `CROSS-003` (instantiates): CDE model in prehistoric context
+
+---
+
+#### [MYTH-009] Exodus as Mythic Bricolage
+
+**Status**: validated | **Confidence**: high
+
+> The Exodus narrative is not fabricated fiction but "redacted memory"—genuine collective memories of distinct historical events reassembled into a coherent charter myth. Three memory strands identified: (1) the Thera volcanic cataclysm (c.1600 BCE) providing plague imagery, (2) the wind setdown phenomenon at Lake Bardawil providing the sea-parting mechanism, (3) the Late Bronze Age Collapse (c.1177 BCE) providing the liberation-from-Egypt theme as Egyptian hegemony crumbled.
+
+
+**Source Chain**:
+1. [T] data/06_Mythological_Studies/Forging a Nation in Memory_ The Exodus Narrative as a Work of Socio-Anthropological Mythic Bricolage.md
+2. [S] Maurice Halbwachs, On Collective Memory (1950)
+3. [S] Claude Lévi-Strauss, The Savage Mind (1962)
+4. [S] Jan Assmann, Moses the Egyptian (1997)
+5. [E] Geomythology studies: Doumas, Bruins et al.
+6. [E] Nof & Paldor (1992), Drews (2014)
+7. [S] Eric Cline, 1177 BC: The Year Civilization Collapsed (2014)
+
+**Connections**:
+- → `MYTH-001` (develops): Key instantiation of proto-myth evolution
+- → `CROSS-002` (instantiates): Perfect example of mythic bricolage
+- → `MYTH-008` (supports): Geomythology parallels support deep memory hypothesis
+- → `SWED-001` (parallels): Internal meaning preserved despite external reshaping
+- → `BIBL-001` (complements): HCM identifies the strata this thesis explains
+
+---
+
+#### [MYTH-010] Consciousness-Driven Evolution of Myth
+
+**Status**: validated | **Confidence**: high
+
+> The CDE model of myth evolution proposes that consciousness is not a passive byproduct but an active driver of memetic (not genetic) evolution. The 'ruling love'—the core orientation a society freely chooses—creates selective pressure on stories. Two trajectories emerge: 'Love of Self' evolves myths toward fragmentation and power (Enuma Elish); 'Love of God and Neighbor' evolves myths toward coherence and love (Genesis 1). Same proto-myth, opposite outcomes based on heart-state.
+
+
+**Source Chain**:
+1. [T] data/06_Mythological_Studies/The Two Hearts of Creation_ A Consciousness-Driven Evolution of Myth.md
+2. [E] UVA DOPS past-life research (Stevenson, Tucker)
+3. [E] NDE research (van Lommel, Greyson)
+4. [S] Dawkins, The Selfish Gene (1976)
+
+**Connections**:
+- → `CONSC-001` (instantiates): CDE hypothesis applied to myth evolution
+- → `MYTH-001` (develops): Explains mechanism of proto-myth divergence
+- → `SWED-005` (parallels): Ruling love aligns with proprium vs. charity
+- → `CROSS-003` (requires): Post-materialist consciousness premise
+- → `SWED-017` (complements): CDE as scientific framing of Divine Bricolage
+
+---
+
+#### [MYTH-011] Evolution of Archangelic Hierarchy
+
+**Status**: validated | **Confidence**: high
+
+> The archangel concept evolved from Ancient Near Eastern divine councils through Zoroastrian influence to its crystallization in Second Temple Judaism. Four archangels (Michael, Gabriel, Raphael, Uriel) personify divine actions: power/justice (Michael), communication/revelation (Gabriel), providence/healing (Raphael), wisdom/light (Uriel). Each Abrahamic tradition adapted these figures to reflect core theological concerns: Judaism (covenantal guardian), Christianity (Incarnation messenger), Islam (revelation transmitter). The archangels bridge the gap between transcendent God and material world.
+
+
+**Source Chain**:
+1. [T] data/06_Mythological_Studies/Analyzing Archangel Development Across Religions.md
+2. [P] Daniel 10:13, 12:1; Tobit 12:15; 1 Enoch 20; Jude 1:9
+3. [S] Encyclopaedia Iranica, ARSACIDS iv
+4. [S] Dead Sea Scrolls (War Scroll, Songs of Sabbath Sacrifice)
+
+**Connections**:
+- → `EARLY-013` (parallels): Magi preserved related angelological knowledge
+- → `SWED-004` (instantiates): Archangels as personified correspondences
+- → `MYTH-001` (develops): Mythic bricolage in angelology formation
+- → `SWED-017` (instantiates): Divine Bricolage adapting across traditions
+
+---
+
+#### [MYTH-012] Two-Tier Prime Number Evolution
+
+**Status**: validated | **Confidence**: medium
+
+> Human numerical cognition followed a split trajectory: Tier 1 'Intuitive Primes' (2, 3, 5, 7) were immediately accessible through body (bilateral symmetry, fingers) and cosmos (Pleiades = 7). These correspond directly to Swedenborg's spiritual meanings: 2=union, 3=completeness, 5=senses/remains, 7=holy. Tier 2 'Adaptive Primes' (11, 13, 19, 29, 53, 137) emerged later to solve mechanical problems: calendar synchronization (19=Metonic cycle), acoustic tuning (11, 53), lunar tracking (29). Tier 2 are 'discovered tools' not 'revealed truths.'
+
+
+**Source Chain**:
+1. [T] data/06_Mythological_Studies/The Architecture of the Sacred...
+2. [P] Swedenborg, Apocalypse Explained §§ 186, 257, 532
+3. [S] Norris & Norris, Aboriginal astronomy research
+4. [S] Antikythera Mechanism research
+
+**Connections**:
+- → `SWED-020` (develops): Extends Swedenborgian numerology with archaeological evidence
+- → `MYTH-002` (instantiates): Prime evolution as cognitive-archaeological evidence
+- → `SWED-004` (supports): Tier 1 primes validate correspondential origins
+- → `MYTH-008` (parallels): Ancient Word encoded in Tier 1 numerical language
+
+---
+
 ### Cross-Domain
 *Synthesizing concepts spanning multiple domains*
 
 #### [CROSS-001] Two-Tiered Epistemological Framework
 
-**Status**: validated | **Confidence**: high
+**Status**: validated | **Confidence**: medium
 
 > A hermeneutic methodology that distinguishes the "natural plane" (body of effects) from the "spiritual plane" (soul of causes). Scientific/historical-critical findings provide accurate maps of external reality; Swedenborgian theology reveals meaning and causation. Neither tier negates the other; they operate on different planes.
 
@@ -750,3 +1510,43 @@
 - → `CONSC-003` (requires): Life review reveals ruling love
 
 ---
+
+## Untraced Claims
+
+*Claims needing source verification:*
+
+- **Claim**: 32 geometric signs recurring across 30,000 years of cave art
+  - Found in: `data/02_Swedenborgian_Theology/Swedenborg's Ancient Word and Science.md`
+  - Needed: Original source
+
+- **Claim**: Internal respiration synchronized with spiritual perception
+  - Found in: `data/01_Consciousness_Studies/Evolution of God Concepts.md`
+  - Needed: Original source
+
+- **Claim**: Van Lommel found religious belief irrelevant to NDE occurrence
+  - Found in: `data/01_Consciousness_Studies/Pure Encounter or Cultural Construct.md`
+  - Needed: Original source
+
+- **Claim**: Greyson found no significant difference in pre/post-1975 NDEs
+  - Found in: `data/01_Consciousness_Studies/Pure Encounter or Cultural Construct.md`
+  - Needed: Original source
+
+- **Claim**: Aboriginal songlines preserve 14,000-year Ice Age geography
+  - Found in: `data/02_Swedenborgian_Theology/Swedenborg's Ancient Word and Science.md`
+  - Needed: Duane Hamacher Indigenous Australian astronomy research citation
+
+- **Claim**: Klinghardt Marcionite paradigm - Mcn as earliest Gospel
+  - Found in: `data/03_Biblical_Scholarship/The Canonical Gospels.md`
+  - Needed: Original source
+
+- **Claim**: Feuerverger statistical analysis: 600:1 odds for Talpiot names
+  - Found in: `data/03_Biblical_Scholarship/Resurrection Narrative Evolution.md`
+  - Needed: Original source
+
+- **Claim**: Shimron 2015 geochemical fingerprint matching James Ossuary to Talpiot
+  - Found in: `data/03_Biblical_Scholarship/Resurrection Narrative Evolution.md`
+  - Needed: Original source
+
+- **Claim**: Bauer thesis - heresy preceded orthodoxy in earliest Christianity
+  - Found in: `data/05_Gnostic_Analysis/The Apostle of the Archons.md`
+  - Needed: Original source

@@ -75,10 +75,52 @@ The research organizes into six interconnected domains:
 │   ├── 04_Early_Christian_History/ # James, Paul, Proto-Luke, Magi (20 files)
 │   ├── 05_Gnostic_Analysis/        # Gnostic impulse, proprium (5 files)
 │   └── 06_Mythological_Studies/    # Bricolage, proto-myths, Exodus (15 files)
-├── docs/                           # Research documentation
+├── docs/
+│   ├── knowledge_graph.yaml        # Structured concept graph (primary data)
+│   ├── knowledge_graph.md          # Auto-generated readable view
+│   └── research_questions.md       # Open questions for external research
 ├── output/                         # Generated compilations
-├── scripts/                        # Processing utilities
+├── scripts/
+│   └── graph_utils.py              # Knowledge graph utilities
+├── environment.yml                 # Conda environment specification
 └── README.md
+```
+
+## Setup
+
+### Prerequisites
+- [Conda](https://docs.conda.io/en/latest/) (Anaconda or Miniconda)
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/marconian/literary-compilation.git
+cd literary-compilation
+
+# Create and activate the conda environment
+conda env create -f environment.yml
+conda activate literary-compilation
+```
+
+### Knowledge Graph Utilities
+
+```bash
+# Show graph statistics
+python scripts/graph_utils.py stats
+
+# Validate graph integrity
+python scripts/graph_utils.py validate
+
+# List all nodes (optionally filter by domain)
+python scripts/graph_utils.py list
+python scripts/graph_utils.py list -d CONSC
+
+# Show untraced claims needing source verification
+python scripts/graph_utils.py untraced
+
+# Export graph to markdown for GitHub viewing
+python scripts/graph_utils.py export-md
 ```
 
 ## Key Sources and Influences

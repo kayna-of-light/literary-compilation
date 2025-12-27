@@ -6835,6 +6835,149 @@ nodes:
     updated: 2025-01-14
     trace_status: complete
 
+  SWED-029:
+    title: "Correspondential Anthropology (Male/Female, Good/Truth)"
+    domain: SWED
+    status: validated
+    confidence: high
+    
+    definition: >
+      The foundational Swedenborgian doctrine that Male corresponds to Truth/Intellect
+      and Female corresponds to Good/Will. This is not symbolic convention but rooted in
+      creation's structure: males are formed to be creatures of intellect (understanding),
+      females creatures of will (love/affection). This distinction permeates every aspect
+      of the individual down to bodily form and persists after death. The divine archetype:
+      Father = Divine Good (infinite Love), Son = Divine Truth (infinite Wisdom). These
+      unite in the "Divine Marriage" - Good generates Truth as warmth generates light.
+      Swedenborg's Trinity: one God with three aspects (Soul/Love, Body/Wisdom, Activity/
+      Operation) within the one Divine Human, the Lord Jesus Christ.
+    
+    male_female_correspondence:
+      male: |
+        Corresponds to TRUTH and INTELLECT (the understanding)
+        Innate affection for knowing, understanding, becoming wise
+        External form: sterner face, rougher voice, stronger body
+        Masculine proprium: "love of his own intelligence" (intellectual pride)
+      female: |
+        Corresponds to GOOD and WILL (love, affection)
+        Innate love, particularly love for uniting with male's intellect
+        External form: generally more beautiful form
+        Feminine proprium: "love of her own natural affections"
+      pervasive_nature: |
+        Masculinity/femininity permeates every part, even thoughts and affections.
+        Distinction endures after death in spiritual world.
+    
+    divine_archetype:
+      father_as_good: |
+        Father = Divine Good, infinite Divine Love
+        The very essence of God, the originating source
+        Corresponds to 'soul' of God
+      son_as_truth: |
+        Son = Divine Truth, infinite Divine Wisdom
+        Truth conceived and born from Good (as light from warmth)
+        Corresponds to 'body' or form of God
+      divine_marriage: |
+        Father and Son not separate but eternally united
+        Father in Son, Son in Father (John 10:38, 14:10-11)
+        Divine Good and Divine Truth inseparable
+    
+    swedenborgian_trinity:
+      rejection_of_tripersonalism: |
+        Explicitly rejects "one God in three distinct persons"
+        God is absolutely one in both essence AND person
+        Trinity = three essential aspects within ONE Divine Being
+      structure:
+        soul: "Father - Divine Essence, infinite Love/Good"
+        body: "Son - Divine Human, Divine Wisdom/Truth (manifestation)"
+        activity: "Holy Spirit - Proceeding Operation, life/power flowing from unified Love and Wisdom"
+      human_image: |
+        This Divine Trinity mirrored in human constitution:
+        Soul (will/love), Body (understanding/wisdom's form), Mind (thoughts/actions)
+    
+    conjugial_love:
+      definition: |
+        Unique spiritual form of love between married partners
+        "Conjunction of two into one mind" - husband = understanding, wife = will
+        Originates from Divine Good and Divine Truth flowing from Lord
+      proprium_transformation: |
+        Both propriums (intellectual pride, natural affection) must be overcome
+        Wife helps draw husband from male proprium through her love
+        Husband's wisdom transforms into conjugial love directed to wife
+        Wife's affections elevated by genuine truth (mediated through husband)
+      internal_marriage: |
+        Ultimate goal: "one mind" through conjunction of understanding and will
+        Internal marriage of truth and good within individual = foundation
+        External conjugial love reflects internal psychological integration
+    
+    functional_primacy_of_good:
+      key_insight: |
+        "Truth cannot possibly enter into marriage with good; but good does so with truth"
+        Good (will, love, affection) possesses essential life, initiating desire, conjoining power
+        Truth (intellect) provides form, structure, understanding—but Good is source of life
+      implications: |
+        Female correspondence has functional primacy in spiritual conjunction
+        Wife plays active role in transformation
+        Love is prior to wisdom in the divine order
+    
+    caveats:
+      - "Gender symbolism reflects 18th-century categories"
+      - "Principles apply internally regardless of biological sex"
+      - "Conjugial love doctrine describes ideal state, not automatic reality"
+      - "Trinity doctrine conflicts with orthodox Trinitarianism"
+    
+    source_chain:
+      - type: T
+        ref: "data/02_Swedenborgian_Theology/Swedenborg's Symbolic Human Roles.md"
+        note: "Comprehensive symbolic analysis"
+      - type: P
+        ref: "Swedenborg, Arcana Coelestia §§ 725, 3386, 4434, 4843"
+        note: "Male/female, brother/sister, daughter correspondences"
+      - type: P
+        ref: "Swedenborg, Conjugial Love §§ 33, 61-90"
+        note: "Primary conjugial love doctrine"
+      - type: P
+        ref: "Swedenborg, True Christian Religion §§ 16-27, 163-188"
+        note: "Trinity doctrine and Divine Human"
+    
+    evidence:
+      - "Male = Truth/Intellect; Female = Good/Will - consistent throughout corpus"
+      - "Father = Divine Good; Son = Divine Truth - from John's Gospel interpretation"
+      - "Trinity as three aspects of one Person, not three Persons"
+      - "Conjugial love = psychological integration of understanding and will"
+      - "Good has functional primacy: Truth derives life from Good"
+    
+    connections:
+      - target: SWED-001
+        type: instantiates
+        note: "Male/female as fundamental correspondence category"
+      - target: SWED-021
+        type: develops
+        note: "Maximus Homo includes male/female differentiation"
+      - target: SWED-005
+        type: describes
+        note: "Proprium manifests differently in male/female forms"
+      - target: SWED-008
+        type: develops
+        note: "Regeneration integrates masculine/feminine within psyche"
+      - target: SWED-025
+        type: supports
+        note: "Divine Human = union of Divine Good and Divine Truth"
+    
+    notes: >
+      "The male/female correspondence is more than symbolism—it's Swedenborg's theory
+      of psychological structure. Every person has both will (good/love) and understanding
+      (truth/wisdom), and regeneration requires their integration. The 'internal marriage'
+      precedes external conjugial union. The functional primacy of Good over Truth
+      explains why love is the 'ruling love'—truth without love is dead information,
+      but love always seeks its truth-form. The Divine Marriage (Father/Son united)
+      is the archetype; human marriage is the earthly correspondence. The Trinity
+      doctrine is distinctly Swedenborgian: one Person with three essential aspects,
+      solving what Swedenborg saw as the 'tripersonalism' problem of orthodox theology."
+    
+    created: 2025-01-14
+    updated: 2025-01-14
+    trace_status: complete
+
 # =============================================================================
 # CONNECTIONS INDEX
 # Redundant but useful for quick traversal - auto-generated by scripts
@@ -7314,6 +7457,13 @@ connections:
   - [SWED-028, instantiates, CROSS-001]
   - [SWED-028, complements, BIBL-001]
   - [SWED-028, supports, SWED-004]
+
+  # NEW: SWED-029 (Correspondential Anthropology) connections
+  - [SWED-029, instantiates, SWED-001]
+  - [SWED-029, develops, SWED-021]
+  - [SWED-029, describes, SWED-005]
+  - [SWED-029, develops, SWED-008]
+  - [SWED-029, supports, SWED-025]
 
 # =============================================================================
 # UNTRACED CLAIMS

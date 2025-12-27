@@ -4,7 +4,7 @@
 
 name: framework-architect
 description: Synthesizes compiled knowledge into coherent framework documents, identifies structural gaps, proposes organizational hierarchies, and builds the master outline.
-tools: ["read", "edit", "search", "execute", "agent"]
+tools: ["read", "edit", "search", "execute", "agent", "todo"]
 infer: true
 model: Claude Opus 4.5 (copilot)
 ---

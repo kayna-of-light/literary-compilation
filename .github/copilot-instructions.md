@@ -92,55 +92,89 @@ The central argument: secular scientific findings are accurate but incomplete de
 
 ---
 
-## Source Classification
+## Source Classification (Folder Structure)
 
-### Primary Framework Documents
-These documents represent the synthesized framework:
+### `00_Framework/` — Primary Synthesis Documents (7 files)
+Master documents that synthesize the overall framework:
 - `A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md`
 - `The Divine Bricolage_ A Spiritual History of the Word from Influx to Incarnation.md`
-- `The Threefold Path of the Soul_ A Synthesized Cosmology of Life, Death, and Purpose.md`
+- `The Threefold Path of the Soul_ A Synthesized Cosmology...` (2 versions)
+- `The Work of Divine Influx_ A 2000-Year History...`
+- `The Heart of the Matter_ A New Church Founded on Love.md`
+- `Enhancing Spiritual History Framework.md`
 
-### Consciousness Studies
-- `Consciousness as a Selective Pressure_ A Scientific and Philosophical Analysis...`
-- `Analyzing Afterlife Journey Data.md`
+### `01_Consciousness_Studies/` — NDEs, Past-Life, CDE (11 files)
+Empirical consciousness research and post-mortem cosmology:
+- `Consciousness as a Selective Pressure...` — The CDE hypothesis
+- `Analyzing Afterlife Journey Data.md` / `Group NDE Report Analysis.md`
 - `Researching Near-Death Experiences.md`
-- `Group NDE Report Analysis.md`
-- `Pure Encounter or Cultural Construct_ An Analysis of...NDEs.md`
-- `A Synthesized Model of Post-Mortem Existence...`
+- `Pure Encounter or Cultural Construct...` — Jesus identification in NDEs
+- `A Synthesized Model of Post-Mortem Existence...` / `A Hybrid Model...`
 - `Volunteer Soul Incarnation Profile Building.md`
+- `Brain, Myth, and Conscious Choice.md`
+- `Evolution of God Concepts and Consciousness.md`
+- `Proprium et Influx...` — 21st-century conflict analysis
 
-### Biblical Scholarship
-- `The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md`
-- `Re-evaluating Gospel Embarrassment.md`
-- `Resurrection Narrative Evolution in New Testament.md`
-- `New Testament Book Timeline Research.md`
-- `Pastoral Epistles Authorship Debate.md`
-
-### Early Christian History
-- `The Bulwark of the People_ An Exhaustive Historical and Theological Profile of James...`
-- `A Foundational Divergence_ An Argument for the Incompatibility of the Ethos of Jesus and Paul.md`
-- `The Apostle of the Archons_ A Forensic Validation of the Gnostic Substrate in the Pauline Corpus.md`
-- `Early Christianity_ Orthodoxy vs. Heresy.md`
-- `The Jamesian Protograph_ A Forensic Reconstruction...`
-
-### Swedenborgian Analysis
+### `02_Swedenborgian_Theology/` — Correspondences, Influx (19 files)
+Doctrine of correspondences, Ancient Word, regeneration:
 - `Swedenborg's Ancient Word and Science.md`
 - `A Library of Biblical Correspondences...`
 - `Swedenborg's Natural World Correspondences.md`
 - `The Spiritual Numerology of the Word...`
 - `Divine Human Anatomy and Spiritual Correspondence.md`
+- `A Validation Analysis of Claims Concerning the Most Ancient Church.md`
+- `Communication among the most ancient people...`
+- `The Architecture of Regeneration...`
+- `The Divine Human in Ultimates...`
+- `The Science of Correspondences...` / `Magi's Principle of Correspondences.md`
 
-### Gnostic Analysis
-- `The Architecture of Hidden Divinity_ A Comprehensive Profile of the Gnostic Impulse...`
+### `03_Biblical_Scholarship/` — HCM, Gospels, Textual Analysis (12 files)
+Historical-critical method, Gospel formation, NT analysis:
+- `The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md`
+- `Re-evaluating Gospel Embarrassment.md`
+- `Resurrection Narrative Evolution in New Testament.md`
+- `New Testament Book Timeline Research.md`
+- `Pastoral Epistles Authorship Debate.md`
+- `A Theological Profile of the Jesus of the Gospels.md`
+- `Categorization of New Testament Books...` (CSV)
+- `Roman Context of New Testament Galilee.md`
+
+### `04_Early_Christian_History/` — James, Paul, Proto-Luke (20 files)
+Jamesian vs. Pauline movements, Desposyni, Magi studies:
+- `The Bulwark of the People...` — James the Just profile
+- `A Foundational Divergence...` — Jesus vs. Paul incompatibility
+- `The Jamesian Protograph...` (2 versions) — Proto-Luke reconstruction
+- `The Lukan Dissonance...` — Luke vs. Acts analysis
+- `The Pauline Corpus and the Consummation of the Age.md`
+- `The Dynasty of the Branch...` — Davidic lineage reconstruction
+- `The Tower and the Tomb...` — Mariamene analysis
+- `Forensic and Geochemical Investigation of the James Ossuary...`
+- `Paul's Damascus Vision_ Scholarly Critique.md`
+- `Persian Roots of Early Christianity.md` / `Zoroastrianism's Influence...`
+- `The Cycle of Celestial Knowledge...` / `The Luminous Science...` — Magi studies
+
+### `05_Gnostic_Analysis/` — Gnostic Impulse, Proprium (5 files)
+Architecture of gnosis, self-glorification mechanism:
+- `The Architecture of Hidden Divinity...` — Comprehensive gnostic profile
 - `A Pneumatological and Historical Validation of the Gnostic Impulse...`
 - `Paul_ Gnostic Seed or Influence_.md`
+- `The Apostle of the Archons...` — Gnostic substrate in Paul
+- `Cracking the Code...`
 
-### Mythological Studies
-- `A Critical History of Foundational Narratives - From Mesopotamian Myths...`
-- `Exodus Narrative_ Mythic Bricolage Study.md`
+### `06_Mythological_Studies/` — Bricolage, Proto-Myths (15 files)
+Myth formation, ANE parallels, Exodus narrative analysis:
+- `A Critical History of Foundational Narratives...`
+- `Exodus Narrative_ Mythic Bricolage Study.md` / `Memory Fragments...`
+- `Forging a Nation in Memory...` — Exodus socio-anthropological synthesis
 - `Genesis Creation Myth's ANE Context.md`
 - `Genesis, Enuma Elish, Proto-Myth Evolution.md`
-- `The Two Hearts of Creation_ A Consciousness-Driven Evolution of Myth.md`
+- `The Two Hearts of Creation...` (2 versions) — CDE of myth
+- `Echoes of an Ancient Word...`
+- `Revelation and Bricolage...` — Swedenborgian vs. anthropological models
+- `The Architecture of the Sacred...` — Prime number evolution
+- `Enoch's Bulls, History's Echoes._.md` / `Enoch's Celestial Mechanics...`
+- `Zoroastrianism and Enoch's Bulls.md`
+- `Analyzing Archangel Development Across Religions.md`
 
 ---
 
@@ -200,10 +234,15 @@ When editing or extending the framework:
 literary-compilation/
 ├── .github/
 │   └── copilot-instructions.md    # This file
-├── data/                          # Primary research sources (~90 files)
-│   └── [markdown files]
+├── data/
+│   ├── 00_Framework/              # Primary synthesis documents
+│   ├── 01_Consciousness_Studies/  # NDEs, past-life, CDE
+│   ├── 02_Swedenborgian_Theology/ # Correspondences, influx
+│   ├── 03_Biblical_Scholarship/   # HCM, Gospels, textual analysis
+│   ├── 04_Early_Christian_History/# James, Paul, Magi
+│   ├── 05_Gnostic_Analysis/       # Gnostic impulse, proprium
+│   └── 06_Mythological_Studies/   # Bricolage, proto-myths
 ├── docs/                          # Research documentation
-│   └── [to be created]
 ├── output/                        # Generated documents
 ├── scripts/                       # Processing utilities
 └── README.md                      # Project overview

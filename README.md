@@ -67,12 +67,14 @@ The research organizes into six interconnected domains:
 ## Project Structure
 
 ```
-├── data/                           # Primary research documents (~90 sources)
-│   ├── [Consciousness Studies]     # NDEs, reincarnation, CDE hypothesis
-│   ├── [Swedenborgian Analysis]    # Correspondences, influx, Ancient Word
-│   ├── [Biblical Scholarship]      # Gospels, Paul, early Christianity
-│   ├── [Mythological Studies]      # Bricolage, proto-myths, Exodus analysis
-│   └── [Gnostic Analysis]          # Architecture of gnosis, proprium
+├── data/
+│   ├── 00_Framework/               # Primary synthesis documents (7 files)
+│   ├── 01_Consciousness_Studies/   # NDEs, reincarnation, CDE hypothesis (11 files)
+│   ├── 02_Swedenborgian_Theology/  # Correspondences, influx, Ancient Word (19 files)
+│   ├── 03_Biblical_Scholarship/    # Gospels, HCM, textual analysis (12 files)
+│   ├── 04_Early_Christian_History/ # James, Paul, Proto-Luke, Magi (20 files)
+│   ├── 05_Gnostic_Analysis/        # Gnostic impulse, proprium (5 files)
+│   └── 06_Mythological_Studies/    # Bricolage, proto-myths, Exodus (15 files)
 ├── docs/                           # Research documentation
 ├── output/                         # Generated compilations
 ├── scripts/                        # Processing utilities

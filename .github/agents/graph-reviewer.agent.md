@@ -200,6 +200,7 @@ Immediately flag:
 | `@knowledge-compiler` | When review reveals missing nodes that should exist |
 | `@research-analyst` | When issues require external research to resolve |
 | `@consciousness-expert` | For domain-specific validation in CONSC nodes |
+| `@critic` | When you identify claims that seem weak, contested, or need adversarial review |
 
 **Workflow**: After review, delegate fixes to appropriate specialists rather than doing all fixes yourself.
 

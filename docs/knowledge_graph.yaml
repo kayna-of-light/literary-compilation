@@ -6182,6 +6182,139 @@ nodes:
     updated: 2024-12-28
     trace_status: complete
 
+  BIBL-012:
+    title: "Pastoral Epistles Pseudepigraphy"
+    domain: BIBL
+    status: validated
+    confidence: high
+    
+    definition: >
+      The overwhelming scholarly consensus that 1 Timothy, 2 Timothy, and Titus were NOT
+      written by Paul but composed pseudepigraphically (c. 80-120 CE) by a later author
+      invoking Pauline authority. These letters present a "domesticated Paul" who loves
+      the Law, appoints bishops, insists on marriage/childbearing, and guards "sound
+      doctrine" against "falsely called gnosis" (1 Tim 6:20)—contradicting the radical,
+      Law-abrogating, charismatic Paul of the undisputed letters (Romans, Galatians, etc.).
+    
+    linguistic_evidence:
+      vocabulary_shift: |
+        - 848 distinct words in the Pastorals corpus
+        - 306 words (36%) appear NOWHERE ELSE in Paul or NT
+        - Vocabulary matches 2nd-century writers (Polycarp, Clement) not 1st-century Paul
+        - Missing Pauline connective particles (gar, oun, de, ara)
+      semantic_drift:
+        dikaiosyne: "Paul: forensic gift from God → Pastorals: human moral uprightness"
+        pistis: "Paul: dynamic trusting act → Pastorals: 'THE faith' (objective doctrine)"
+        soter: "Paul: rare → Pastorals: frequent 'God our Savior' (Imperial Cult language)"
+      stylistic_contrast: |
+        Paul argues dialectically with rhetorical questions and incomplete sentences.
+        Pastorals assert flatly, citing "faithful sayings" (pistos ho logos)—a phrase
+        NEVER in undisputed Paul. Shift from argumentation to credal citation.
+    
+    historical_evidence:
+      marcion_exclusion: |
+        Marcion's canon (c. 140 CE) accepted 10 Pauline letters but excluded all 3 Pastorals.
+        Either they didn't exist yet, or weren't recognized as Pauline in his community.
+      p46_absence: |
+        Papyrus 46 (c. 200 CE), earliest Pauline manuscript, does not contain Pastorals.
+        Space calculations suggest original collection was 10 letters, not 13.
+      church_structure: |
+        Pastorals assume developed "monepiscopacy" (single bishop per city), presbyters,
+        deacons—structures that developed late 1st/early 2nd century, not Paul's time.
+    
+    theological_trajectory:
+      anti_gnostic_purpose: |
+        The explicit warning against "falsely called gnosis" (1 Tim 6:20) and emphasis on
+        guarding the "deposit" (paratheke) suggests a context where Gnostic/Marcionite
+        interpretations of Paul had become threatening. The Pastorals "reclaim" Paul
+        from his Gnostic enthusiasts by domesticating him.
+      proto_catholic: |
+        F.C. Baur (1835): Pastorals represent "Early Catholicism"—a synthesis reconciling
+        Petrine and Pauline factions through institutional hierarchy. They're the first
+        great pseudepigraphal achievement of the emerging orthodox church.
+    
+    critical_history:
+      1807: "Schleiermacher attacks 1 Timothy authenticity based on vocabulary"
+      1812: "Eichhorn extends doubt to all three—they stand or fall together"
+      1835: "Baur: Pastorals are 2nd-century anti-heretical synthesis (c. 150 CE)"
+      1921: "P.N. Harrison: statistical stylometry proves non-Pauline authorship"
+      current: "Near-universal critical consensus: pseudepigraphical, c. 80-120 CE"
+    
+    amanuensis_hypothesis_failure:
+      claim: "Paul used a different secretary (perhaps Luke) who wrote freely"
+      rebuttals:
+        - "All 3 letters share uniform style—same secretary for different times/places?"
+        - "Stylistic divergence is so complete that 'secretary' = effective author"
+        - "Luke parallels reinforce LATE dating (Luke-Acts = 80s-90s CE), not authenticity"
+    
+    framework_significance: >
+      The Pastorals represent the proto-orthodox "rescue" of Paul from Marcionite/Gnostic
+      appropriation. Marcion claimed Paul as sole true apostle preaching alien God against
+      Jewish Creator. Orthodox response: forge letters showing Paul as Torah-respecting,
+      hierarchy-supporting, marriage-affirming church builder. This "domesticated Paul"
+      became the Paul of later Catholic tradition—but historical-critical method reveals
+      the "Gnostic Paul" (anti-law, anti-matter, mystery religion) was chronologically prior.
+    
+    caveats:
+      - "Some evangelical scholars still defend authenticity (minority position)"
+      - "Dating range spans c. 80-140 CE depending on which 'heresy' is targeted"
+      - "Does not mean content is 'false'—reflects legitimate church development"
+    
+    source_chain:
+      - type: T
+        ref: "data/03_Biblical_Scholarship/Pastoral Epistles Authorship Debate.md"
+        note: "Comprehensive scholarly survey"
+      - type: S
+        ref: "Harrison, P.N. The Problem of the Pastoral Epistles. Oxford, 1921."
+        note: "Statistical stylometry establishing non-Pauline vocabulary"
+      - type: S
+        ref: "Baur, F.C. Die sogennanten Pastoralbriefe des Apostels Paulus. 1835."
+        note: "Tübingen School identification of Early Catholicism"
+      - type: S
+        ref: "Ehrman, Bart. Forged: Writing in the Name of God. HarperOne, 2011."
+        note: "Modern survey of NT pseudepigraphy"
+      - type: P
+        ref: "1 Timothy 6:20"
+        note: "'Guard the deposit, avoiding falsely called gnosis'"
+    
+    evidence:
+      - "36% vocabulary unique to Pastorals—not found elsewhere in Paul or NT"
+      - "P46 (earliest Pauline MS) omits Pastorals—original corpus was 10 letters"
+      - "Marcion excluded all 3—suggesting they postdate his canon formation"
+      - "Church structure (monepiscopacy) is late development, not 50s-60s CE"
+      - "'Faithful saying' citation formula occurs 5x in Pastorals, 0x in undisputed Paul"
+    
+    connections:
+      - target: EARLY-015
+        type: supports
+        note: "Bauer Thesis: orthodoxy as later construct requiring pseudepigraphy"
+      - target: GNOS-001
+        type: contradicts
+        note: "Pastorals written to counter Gnostic appropriation of Paul"
+      - target: EARLY-003
+        type: develops
+        note: "Paul's theology required 'domestication' for proto-orthodox synthesis"
+      - target: BIBL-001
+        type: instantiates
+        note: "HCM identifies pseudepigraphy through source/form criticism"
+      - target: BIBL-007
+        type: parallels
+        note: "Gospel formation parallels—both involve editorial layers on original tradition"
+    
+    notes: >
+      "The irony is profound: the 'radical Paul' of Galatians who cursed those
+      adding Law to Gospel was himself 'rescued' by pseudo-Pauline authors who
+      added exactly what he cursed—institutional order, episcopal hierarchy,
+      'sound doctrine.' The Pastorals are the tomb of the charismatic Paul and
+      the birth certificate of the ecclesiastical Paul. For the framework, this
+      confirms the pattern: the Proprium (institutional self-preservation) captures
+      and domesticates even its greatest critics. The 'Gnostic Paul' who broke
+      the Law became the 'Catholic Paul' who guards it."
+    
+    created: 2024-12-28
+    updated: 2024-12-28
+    trace_status: complete
+
 # =============================================================================
 # CONNECTIONS INDEX
 # Redundant but useful for quick traversal - auto-generated by scripts
@@ -6625,6 +6758,13 @@ connections:
   - [SWED-026, contrasts, GNOS-001]
   - [SWED-026, requires, SWED-003]
   - [SWED-026, instantiates, CROSS-002]
+
+  # NEW: BIBL-012 (Pastoral Epistles Pseudepigraphy) connections
+  - [BIBL-012, supports, EARLY-015]
+  - [BIBL-012, contradicts, GNOS-001]
+  - [BIBL-012, develops, EARLY-003]
+  - [BIBL-012, instantiates, BIBL-001]
+  - [BIBL-012, parallels, BIBL-007]
 
 # =============================================================================
 # UNTRACED CLAIMS

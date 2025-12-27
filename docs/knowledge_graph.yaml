@@ -4867,6 +4867,159 @@ nodes:
     updated: 2024-12-28
     trace_status: complete
 
+  MYTH-015:
+    title: "The Two Hearts of Creation (Unity vs. Division)"
+    domain: MYTH
+    status: validated
+    confidence: high
+    
+    definition: >
+      A comparative analysis of Genesis 1 and the Enuma Elish reveals two fundamentally
+      different cosmological principles emerging from a shared ANE primordial matrix:
+      The "Heart of Division" (Enuma Elish) posits creation through divine conflict
+      (theomachy), where the cosmos is the dismembered corpse of Tiamat and humans are
+      slaves made from the rebel god Kingu's blood. The "Heart of Unity" (Genesis 1)
+      presents creation through effortless divine fiat, a radical Creator/creation
+      distinction (no theogony), cosmos as intrinsically "good," and humans as the image
+      of God with stewardship mandate. Genesis performs deliberate demythologization—
+      using cognate term 'tehom' (cf. Tiamat) but stripping it of personality and
+      divine status. This philosophical revolution is the prerequisite for both
+      coherent theology and systematic science.
+    
+    caveats:
+      - "Genesis uses but subverts ANE mythic vocabulary"
+      - "Neither account is 'historically prior'—both represent crystallized traditions"
+      - "The two-hearts model is interpretive framework, not historical reconstruction"
+    
+    source_chain:
+      - type: T
+        ref: "data/06_Mythological_Studies/Genesis, Enuma Elish, Proto-Myth Evolution.md"
+        note: "Full comparative analysis"
+      - type: P
+        ref: "Genesis 1:1-2:4a"
+        note: "Priestly creation account"
+      - type: P
+        ref: "Enuma Elish (Babylonian creation epic)"
+        note: "Marduk-Tiamat conflict"
+      - type: S
+        ref: "Lévi-Strauss, mythic bricolage theory"
+        note: "Enuma Elish as political bricolage"
+    
+    evidence:
+      - "Shared structural sequence: primordial waters → firmament → luminaries → humanity → rest"
+      - "'Tehom' (deep) cognate with 'Tiamat' but depersonalized—no rival deity"
+      - "Enuma Elish: creation from Tiamat's corpse; humans from rebel blood"
+      - "Genesis: creation by speech; humans as divine image (imago Dei)"
+      - "Luminaries in Genesis are 'lights,' not deities—deliberate demythologization"
+      - "Tannin (sea monsters) in Gen 1:21 are blessed creatures, not chaos opponents"
+      - "Hebrew El tradition (Ugaritic 'Creator of Creatures') crystallized into radical monotheism"
+    
+    connections:
+      - target: MYTH-001
+        type: instantiates
+        note: "Both narratives are mythic bricolage from older materials"
+      - target: SWED-004
+        type: supports
+        note: "Unity principle prerequisite for correspondence system"
+      - target: CROSS-001
+        type: parallels
+        note: "Two-hearts model parallels two-tiered hermeneutic"
+      - target: GNOS-001
+        type: describes
+        note: "Gnostic impulse follows 'heart of division' trajectory"
+    
+    notes: >
+      "CSR (Cognitive Science of Religion) better explains polytheism than monotheism.
+      HADD (Hypersensitive Agency Detection Device) generates multiple agents—the heart
+      of division. Monotheism requires active cognitive override of HADD defaults.
+      Lang/Schmidt 'Urmonotheismus' hypothesis: High God beliefs widespread in 'primitive'
+      societies may represent primordial intuition, not late development. Two competing
+      cognitive impulses: unifying (monotheism) vs. fragmenting (polytheism)."
+    
+    created: 2024-12-28
+    updated: 2024-12-28
+    trace_status: complete
+
+  MYTH-016:
+    title: "The White Bull Cycle (Zoroastrian-Enochic Parallel)"
+    domain: MYTH
+    status: validated
+    confidence: high
+    
+    definition: >
+      The Animal Apocalypse (1 Enoch 85-90) and Zoroastrian bovine mythology share a
+      striking structural homology: both place a "White Bull" at both the beginning
+      and end of cosmic history. Zoroastrianism: Gavaevodata (primordial white bull,
+      moon-bright) is killed by Ahriman—from his body springs all biological life;
+      eschatological bull Hadhayans is sacrificed at Frashokereti (renovation) to
+      produce the elixir of immortality. Enoch: Adam appears as a white bull; history
+      degrades (bulls → sheep); Messiah appears as an eschatological white bull who
+      restores all creatures to their bovine state. The link is likely genetic (Persian
+      period influence) but involves theological subversion: Enoch's messiah-bull
+      LIVES (no sacrifice), demonstrating Jewish rejection of Persian sacrificial
+      mechanism in favor of transformational presence.
+    
+    caveats:
+      - "Bundahishn text is 9th c. CE, though preserves older traditions"
+      - "Direction of influence debated (maximalist vs. minimalist positions)"
+      - "Enochic transformation model differs fundamentally from Zoroastrian sacrifice"
+    
+    source_chain:
+      - type: T
+        ref: "data/06_Mythological_Studies/Zoroastrianism and Enoch's Bulls.md"
+        note: "Full comparative analysis"
+      - type: P
+        ref: "1 Enoch 85-90 (Animal Apocalypse)"
+        note: "Enochic text, c. 164-160 BCE"
+      - type: P
+        ref: "Bundahishn"
+        note: "Zoroastrian creation text"
+      - type: P
+        ref: "Yasna 29 (Geush Urvan lament)"
+        note: "Soul of the Cow"
+      - type: S
+        ref: "Mary Boyce, Anders Hultgård (maximalist position)"
+        note: "Iranian influence on Jewish apocalypticism"
+      - type: S
+        ref: "Patrick Tiller, George Nickelsburg (minimalist position)"
+        note: "Internal biblical exegesis"
+    
+    evidence:
+      - "Protological archetype: White Bull at creation (Gavaevodata / Adam)"
+      - "Both bulls described as 'white' (moon-connected / righteousness)"
+      - "Historical interlude: struggle between beneficent cattle and predators/wild beasts"
+      - "Eschatological archetype: White Bull at end (Hadhayans / Messiah)"
+      - "Key divergence: Zoroastrian bull is SACRIFICED; Enochic bull LIVES"
+      - "Persian loanwords in late biblical texts: pardes, raz, dat, ganzak"
+      - "Book of Giants (Qumran) explicitly mentions Iranian figures"
+      - "Enochic universalism: Gentile 'beasts' transformed to bulls; Zoroastrian: Xrafstars annihilated"
+    
+    connections:
+      - target: MYTH-001
+        type: instantiates
+        note: "Cultural meme adapted through mythic bricolage"
+      - target: MYTH-014
+        type: parallels
+        note: "Both show Enochic adaptation of foreign traditions"
+      - target: EARLY-011
+        type: supports
+        note: "Persian/Zoroastrian influence on Jewish eschatology"
+      - target: MYTH-015
+        type: contrasts
+        note: "Bull cycle comparison parallels unity/division analysis"
+    
+    notes: >
+      "The Enochic author performed three operations on the Persian archetype: (1)
+      APPROPRIATED the symbol as signifier of primordial power; (2) DEMOCRATIZED it—
+      all restored humanity becomes white bulls, not just one beast; (3) SANITIZED it—
+      removed sacrificial mechanism and Haoma plant. The 'Anti-Hadhayans': Jewish
+      Messiah conquers by being, not by dying. Aligns with Qumranic rejection of
+      corrupted Temple sacrifice. Mithraic tauroctony (bull-slaying) also rejected."
+    
+    created: 2024-12-28
+    updated: 2024-12-28
+    trace_status: complete
+
 # =============================================================================
 # CONNECTIONS INDEX
 # Redundant but useful for quick traversal - auto-generated by scripts
@@ -5242,6 +5395,18 @@ connections:
   - [MYTH-014, parallels, SWED-004]
   - [MYTH-014, supports, SWED-020]
   - [MYTH-014, develops, MYTH-012]
+
+  # NEW: MYTH-015 (Two Hearts of Creation) connections
+  - [MYTH-015, instantiates, MYTH-001]
+  - [MYTH-015, supports, SWED-004]
+  - [MYTH-015, parallels, CROSS-001]
+  - [MYTH-015, describes, GNOS-001]
+  
+  # NEW: MYTH-016 (White Bull Cycle) connections
+  - [MYTH-016, instantiates, MYTH-001]
+  - [MYTH-016, parallels, MYTH-014]
+  - [MYTH-016, supports, EARLY-011]
+  - [MYTH-016, contrasts, MYTH-015]
 
 # =============================================================================
 # UNTRACED CLAIMS

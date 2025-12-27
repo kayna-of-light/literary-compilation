@@ -6704,6 +6704,137 @@ nodes:
     updated: 2025-01-14
     trace_status: complete
 
+  SWED-028:
+    title: "Swedenborg's Methodological Imperative (Science of the Spiritual)"
+    domain: SWED
+    status: validated
+    confidence: high
+    
+    definition: >
+      Swedenborg's acceptance of biblical historicity (Genesis 12 onward) was not uncritical
+      faith but a methodological requirement for his "science of the spiritual world." His
+      entire career—from scientific polymath to theological revelator—was a unified project
+      to map the "anatomy of creation" in both physical and spiritual dimensions. When
+      empirical study of the natural world reached its limits (he could map the brain but
+      not dissect the soul), he turned to Scripture as divine "data set" for spiritual
+      analysis. To question historicity would invalidate his experimental foundation, like
+      an anatomist rejecting the reality of the body being dissected.
+    
+    scientific_background:
+      neuroscience: |
+        Correctly identified the cerebral cortex's role in cognition, not mere protection.
+        Deduced brain motion synchronizes with respiration (verified 20th century).
+        Attempted to locate the "seat of the soul" through anatomical investigation.
+      cosmology: |
+        First presentation of the nebular hypothesis (Principia, 1734), preceding Kant.
+        Systematic mechanical thinking about universe origins.
+      engineering: |
+        Practical designs for submarine, flying machine, machine gun.
+        Overland transport of warships demonstrated applied genius.
+      unified_goal: |
+        All scientific work aimed at discovering the soul's nature and the
+        "definite connection" between finite/material and infinite/spiritual worlds.
+    
+    methodological_structure:
+      vertical_vs_horizontal: |
+        Swedenborg: VERTICAL analysis—how each natural/historical event connects
+        to spiritual world above it.
+        Modern scholarship: HORIZONTAL analysis—how final text connects to prior
+        historical events and oral traditions behind it.
+        Not competing methods but different questions of the same text.
+      data_requirement: |
+        For his system to be a SCIENCE, it required objective, stable, empirical foundation.
+        The literal sense of historical Word provided this foundation—the "specimen"
+        for systematic analysis. Like anatomist needs real body, not hypothetical drawing.
+      internal_distinction: |
+        Genesis 1-11: "Made-up history" (Ancient Word fragments)—pure allegory
+        Genesis 12 onward: "Real history"—divinely orchestrated correspondences
+        This demonstrates critical capacity for non-literal reading where appropriate.
+    
+    historical_context:
+      biblical_criticism: |
+        Historical-critical method only emerging in German universities mid-18th century.
+        For most of Swedenborg's life, accepting historicity was intellectual norm.
+        No archaeological evidence yet existed to contradict narratives.
+      absence_of_corroboration: |
+        Modern archaeology is 19th-20th century development.
+        Geological, volcanological data for "Mythic Bricolage" unavailable.
+        Swedenborg couldn't engage evidence that wouldn't exist for 150 years.
+      pre_darwinian: |
+        Divine intervention (miracles) not seen as violation of natural law
+        in pre-scientific naturalism worldview.
+    
+    framework_resolution:
+      apparent_paradox: |
+        "The critical scientist accepting literal Exodus" is anachronism—judging
+        18th-century mind by 21st-century evidentiary standards.
+        Within his framework, historical text WAS essential starting point
+        for his unique form of critical (correspondential) analysis.
+      two_tiered_integration: |
+        Modern framework uses BOTH approaches: HCM provides "body" (accurate natural
+        account), Swedenborgian method provides "soul" (spiritual interpretation).
+        Neither invalidates the other—they operate on different planes.
+    
+    caveats:
+      - "Swedenborg's pre-critical context does not validate his historicity claims"
+      - "Modern evidence clearly supports composite/bricolage models"
+      - "Framework accepts HCM findings while applying correspondential reading"
+      - "His internal criticism (Gen 1-11 vs. 12+) shows sophisticated hermeneutic"
+    
+    source_chain:
+      - type: T
+        ref: "data/02_Swedenborgian_Theology/Swedenborg's Historical Interpretation of Exodus.md"
+        note: "Full paradox resolution analysis"
+      - type: P
+        ref: "Swedenborg, Arcana Coelestia (Secrets of Heaven)"
+        note: "Primary correspondential exegesis"
+      - type: P
+        ref: "Swedenborg, Principia (1734)"
+        note: "Nebular hypothesis, scientific methodology"
+      - type: S
+        ref: "Emerson, Ralph Waldo. Representative Men (1850)"
+        note: "'Colossal soul' and 'system thinker' characterization"
+    
+    evidence:
+      - "Scientific career (1710-1744) aimed at 'seat of soul' discovery"
+      - "Nebular hypothesis preceded Kant's formulation"
+      - "Brain function insights verified 150+ years later"
+      - "Clear distinction between allegorical (Gen 1-11) and historical (Gen 12+) texts"
+      - "18th-century lacked archaeological/geological counter-evidence"
+      - "Arcana Coelestia treats literal sense as 'lamp' guiding spiritual interpretation"
+    
+    connections:
+      - target: SWED-001
+        type: develops
+        note: "Correspondences as scientific method for spiritual investigation"
+      - target: SWED-022
+        type: develops
+        note: "Divine Commission transitioned methodology from natural to spiritual science"
+      - target: CROSS-001
+        type: instantiates
+        note: "Two-tiered hermeneutic resolves apparent paradox"
+      - target: BIBL-001
+        type: complements
+        note: "HCM and correspondential method as complementary tiers"
+      - target: SWED-004
+        type: supports
+        note: "Ancient Word distinction shows critical capacity"
+    
+    notes: >
+      "Key insight: The 'paradox' dissolves when we recognize Swedenborg's lifelong project.
+      He was not abandoning reason for faith but extending scientific method into a new
+      domain requiring different data. Just as a physicist accepts the reality of the
+      particles observed in experiments, Swedenborg accepted Scripture as the 'observable
+      data' of the spiritual world. His method was rigorous within its axioms: systematic,
+      exhaustive, 'lab report' style analysis. The framework honors this by employing
+      BOTH tiers—the historical-critical tier establishes 'what happened' (composite
+      memory, bricolage), the correspondential tier establishes 'what it means' (spiritual
+      regeneration process). Neither tier negates the other."
+    
+    created: 2025-01-14
+    updated: 2025-01-14
+    trace_status: complete
+
 # =============================================================================
 # CONNECTIONS INDEX
 # Redundant but useful for quick traversal - auto-generated by scripts
@@ -7176,6 +7307,13 @@ connections:
   - [BIBL-013, instantiates, BIBL-001]
   - [BIBL-013, parallels, SWED-004]
   - [BIBL-013, instantiates, CROSS-002]
+
+  # NEW: SWED-028 (Methodological Imperative) connections
+  - [SWED-028, develops, SWED-001]
+  - [SWED-028, develops, SWED-022]
+  - [SWED-028, instantiates, CROSS-001]
+  - [SWED-028, complements, BIBL-001]
+  - [SWED-028, supports, SWED-004]
 
 # =============================================================================
 # UNTRACED CLAIMS

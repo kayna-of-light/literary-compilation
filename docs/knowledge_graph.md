@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-27 10:39*
+*Last exported: 2025-12-27 10:41*
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 105 |
-| Total Connections | 357 |
+| Total Nodes | 106 |
+| Total Connections | 362 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 94
+- **validated**: 95
 - **preliminary**: 6
 - **contested**: 5
 
@@ -24,7 +24,7 @@
 
 - **Cross-Domain** (CROSS): 4
 - **Consciousness Studies** (CONSC): 19
-- **Swedenborgian Theology** (SWED): 28
+- **Swedenborgian Theology** (SWED): 29
 - **Biblical Scholarship** (BIBL): 13
 - **Early Christian History** (EARLY): 17
 - **The Gnostic Impulse** (GNOS): 8
@@ -1004,6 +1004,28 @@
 - → `CROSS-001` (instantiates): Two-tiered hermeneutic resolves apparent paradox
 - → `BIBL-001` (complements): HCM and correspondential method as complementary tiers
 - → `SWED-004` (supports): Ancient Word distinction shows critical capacity
+
+---
+
+#### [SWED-029] Correspondential Anthropology (Male/Female, Good/Truth)
+
+**Status**: validated | **Confidence**: high
+
+> The foundational Swedenborgian doctrine that Male corresponds to Truth/Intellect and Female corresponds to Good/Will. This is not symbolic convention but rooted in creation's structure: males are formed to be creatures of intellect (understanding), females creatures of will (love/affection). This distinction permeates every aspect of the individual down to bodily form and persists after death. The divine archetype: Father = Divine Good (infinite Love), Son = Divine Truth (infinite Wisdom). These unite in the "Divine Marriage" - Good generates Truth as warmth generates light. Swedenborg's Trinity: one God with three aspects (Soul/Love, Body/Wisdom, Activity/ Operation) within the one Divine Human, the Lord Jesus Christ.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Swedenborg's Symbolic Human Roles.md
+2. [P] Swedenborg, Arcana Coelestia §§ 725, 3386, 4434, 4843
+3. [P] Swedenborg, Conjugial Love §§ 33, 61-90
+4. [P] Swedenborg, True Christian Religion §§ 16-27, 163-188
+
+**Connections**:
+- → `SWED-001` (instantiates): Male/female as fundamental correspondence category
+- → `SWED-021` (develops): Maximus Homo includes male/female differentiation
+- → `SWED-005` (describes): Proprium manifests differently in male/female forms
+- → `SWED-008` (develops): Regeneration integrates masculine/feminine within psyche
+- → `SWED-025` (supports): Divine Human = union of Divine Good and Divine Truth
 
 ---
 

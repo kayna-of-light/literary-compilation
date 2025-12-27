@@ -5662,6 +5662,273 @@ nodes:
     updated: 2024-12-28
     trace_status: complete
 
+  CONSC-017:
+    title: "NDE Multi-Axial Phenomenological Framework"
+    domain: CONSC
+    status: validated
+    confidence: high
+    
+    definition: >
+      A comprehensive methodological framework for classifying and analyzing near-death
+      experiences across four independent dimensions. Developed using phenomenological
+      bracketing (epoché) to describe NDE components without metaphysical commitment.
+      The framework treats NDEs as modular phenomena where each axis varies independently,
+      avoiding the reductionism of single-spectrum classifications.
+    
+    axes:
+      structural_components:
+        description: "Axis I: Core phenomenological sequence"
+        elements:
+          - "Separation (awareness of death/dying)"
+          - "Out-of-Body Experience (external observation of physical scene)"
+          - "Transitional Space (tunnel, void, passage)"
+          - "Unearthly Environment (realm of hyper-reality)"
+          - "Life Review (empathetic perspective shift)"
+          - "Boundary/Point of No Return"
+          - "Return (often involuntary)"
+      affective_valence:
+        description: "Axis II: Emotional quality spectrum"
+        scale: "Ecstatic → Deeply Peaceful → Neutral → Anxious/Fearful → Terrifying"
+        note: "Not correlated with moral status; devout may have distressing, irreligious may have ecstatic"
+      interactive_dimension:
+        description: "Axis III: Encounter depth levels"
+        levels:
+          - "Level 0: No encounter"
+          - "Level 1: Presence sensed (unspecified)"
+          - "Level 2: Being(s) encountered (deceased relatives, light beings)"
+          - "Level 3: Supreme Being/Source encountered"
+      gnostic_content:
+        description: "Axis IV: Knowledge acquisition levels"
+        levels:
+          - "Level 0: No special knowledge"
+          - "Level 1: Personal knowledge (life mission, family information)"
+          - "Level 2: Universal knowledge (cosmic laws, love-centrality)"
+          - "Level 3: Absolute knowledge ('knowing everything' episodes, usually forgotten)"
+    
+    methodological_principles:
+      - "Phenomenological bracketing (epoché): suspend metaphysical judgment"
+      - "First-person descriptions as primary data"
+      - "Structural analysis independent of ontological claims"
+      - "Modular framework: each axis independently variable"
+    
+    key_findings:
+      life_review: >
+        Functions as "phenomenological engine of ethics"—experiencers relive events
+        from the perspective of those they affected, generating irreversible empathetic
+        transformation. Not punishment but education through direct felt experience.
+      hyper_reality: >
+        NDE environments consistently described as "more real than real"—challenges
+        assumption that vivid = hallucinatory. Suggests access to realm with greater,
+        not diminished, phenomenal intensity.
+      return_mechanism: >
+        Often involuntary and associated with mission/purpose ("sent back"). Suggests
+        agency external to experiencer controlling transition.
+    
+    caveats:
+      - "Framework is descriptive, not explanatory—makes no ontological claims"
+      - "Cultural content may vary while structural features remain invariant"
+      - "Selection bias: reported NDEs may not represent full population"
+    
+    source_chain:
+      - type: T
+        ref: "data/01_Consciousness_Studies/Researching Near-Death Experiences.md"
+        note: "Full framework development"
+      - type: E
+        ref: "NDERF Database (5,300+ accounts)"
+        note: "Primary data source"
+      - type: E
+        ref: "IANDS Archives"
+        note: "Secondary data source"
+      - type: S
+        ref: "Ring, Kenneth. Life at Death (1980)"
+        note: "Early systematic classification"
+      - type: S
+        ref: "Greyson, Bruce. NDE Scale and Studies"
+        note: "Standardized measurement instrument"
+    
+    evidence:
+      - "Structural invariance across cultures despite content variation"
+      - "Core sequence (separation → OBE → transition → realm) consistent worldwide"
+      - "Blind-from-birth experiencers report visual perception during OBE"
+      - "Veridical perception cases: accurate observation of physical events during cardiac arrest"
+      - "Consistent aftereffects: reduced death fear, increased empathy, diminished materialism"
+      - "Cross-cultural consistency of 'being of light' encounters"
+    
+    connections:
+      - target: CONSC-001
+        type: supports
+        note: "Provides empirical data structure for consciousness survival hypothesis"
+      - target: CONSC-003
+        type: develops
+        note: "Systematizes post-mortem experience phenomenology"
+      - target: CONSC-016
+        type: complements
+        note: "Axis III (encounters) relates to Being identification analysis"
+      - target: SWED-003
+        type: parallels
+        note: "Life review parallels influx-based moral education"
+      - target: SWED-008
+        type: parallels
+        note: "NDE transformation parallels regeneration process"
+      - target: CONSC-007
+        type: supports
+        note: "Empirical taxonomy for testing hybrid post-mortem model"
+    
+    notes: >
+      "Key methodological insight: The framework enables comparison WITHOUT metaphysical
+      commitment. Materialist can use it (brain-state classification), dualist can use
+      it (afterlife topology), Swedenborgian can use it (spirit world phenomenology).
+      The 'hyper-reality' finding is particularly significant—if NDEs were mere
+      hallucinations, we would expect diminished, not enhanced, phenomenal intensity.
+      The life review as 'empathetic perspective shift' aligns directly with Swedenborgian
+      doctrine that the spiritual world operates on affection, not mere intellect."
+    
+    created: 2024-12-28
+    updated: 2024-12-28
+    trace_status: complete
+
+  CONSC-018:
+    title: "Hemispheric Integration Model (Master and Emissary)"
+    domain: CONSC
+    status: validated
+    confidence: high
+    
+    definition: >
+      A neuro-philosophical framework derived from Iain McGilchrist's work positing
+      that the brain's hemispheric division creates two fundamentally different modes
+      of attending to reality. The right hemisphere ("Master") perceives the world
+      holistically, relationally, and contextually—experiencing flow, presence, and
+      embodied connection. The left hemisphere ("Emissary") is a powerful but subordinate
+      tool that creates abstract, manipulable representations by decontextualizing and
+      fragmenting experience. The relationship between these hemispheres—whether cooperative
+      or usurped—determines both individual well-being and cultural trajectories.
+    
+    hemispheric_characteristics:
+      right_hemisphere_master:
+        mode: "Broad, open, vigilant attention"
+        function: "Understanding, connection, meaning"
+        reality: "Presence—a web of dynamic relationships"
+        values: "Empathy, justice, tolerance of ambiguity"
+        self_awareness: "Aware of own limitations and need for integration"
+      left_hemisphere_emissary:
+        mode: "Narrow, focused, target-oriented attention"
+        function: "Manipulation, control, utility"
+        reality: "Re-presentation—a map of static, discrete parts"
+        values: "Power, certainty, efficiency"
+        self_awareness: "Blind to what it doesn't know; confabulates to maintain its model"
+    
+    pathological_patterns:
+      emissary_usurpation:
+        neural: "Altered reward circuits; reduced PFC control; hyper-reactive amygdala"
+        psychological: "Greed, fear, anxiety, ego-centrism, dissatisfaction, meaning crisis"
+        cultural: "Materialism, standardized education, social media echo chambers, polarization"
+        archetypal_myth: "Enuma Elish (creation through conflict, dismemberment, slavery)"
+        philosophy: "Reductionist materialism—the map mistaken for territory"
+      master_guided_integration:
+        neural: "Integrated social brain; regulated prefrontal cortex; balanced amygdala"
+        psychological: "Empathy, compassion, love, altruism, contentment, meaning"
+        cultural: "Holistic education, community engagement, contemplative practices"
+        archetypal_myth: "Genesis 1 (creation through serene ordering, unified will, 'good')"
+        philosophy: "Process philosophy, holism, participatory cosmos"
+    
+    neuroplasticity_principle: >
+      The balance between hemispheres is not fixed but actively shaped by attention
+      and intention through neuroplasticity. "Neurons that fire together wire together"
+      (Hebbian learning). Contemplative practices (MBSR, CCT) are "gymnasiums of the
+      mind"—systematic training programs for strengthening integration pathways.
+      The most fundamental choice is WHERE to place attention; this is the neurological
+      basis of free will—the capacity to consciously sculpt one's own neural architecture.
+    
+    metaphysical_convergence:
+      whitehead: "Process philosophy—reality as interconnected events, not static substances"
+      bohm: "Implicate/Explicate Order—the visible world unfolds from deeper wholeness"
+      wheeler: "Participatory Universe—consciousness as co-creator, not detached observer"
+      synthesis: >
+        "The Master's perception may be more veridical—a more accurate reflection
+        of fundamental reality as described by frontier physics."
+    
+    framework_integration: >
+      This model provides NEUROLOGICAL GROUNDING for the framework's two-tiered
+      epistemology. The left hemisphere's mode = "Body" of Effects (scientific/historical-
+      critical analysis). The right hemisphere's mode = "Soul" of Causes (holistic
+      meaning, correspondential perception). The integrated brain = the two-tiered
+      method itself—neither tier negated, both held in proper relationship.
+    
+    caveats:
+      - "Hemispheric lateralization is relative, not absolute—both sides do most things"
+      - "McGilchrist's model is contested in some neuroscience circles"
+      - "Cultural critiques may overstate hemispheric causation vs. correlation"
+    
+    source_chain:
+      - type: T
+        ref: "data/01_Consciousness_Studies/Brain, Myth, and Conscious Choice.md"
+        note: "Full synthesis document"
+      - type: S
+        ref: "McGilchrist, Iain. The Master and His Emissary (2009)"
+        note: "Primary theoretical source"
+      - type: S
+        ref: "McGilchrist, Iain. The Matter With Things (2021)"
+        note: "Expanded philosophical treatment"
+      - type: S
+        ref: "Whitehead, Alfred North. Process and Reality (1929)"
+        note: "Process philosophy foundation"
+      - type: S
+        ref: "Bohm, David. Wholeness and the Implicate Order (1980)"
+        note: "Implicate order theory"
+      - type: S
+        ref: "Wheeler, John Archibald. 'Participatory Universe' concept"
+        note: "Observer-participation in quantum reality"
+    
+    evidence:
+      - "Split-brain studies reveal distinct hemispheric 'personalities' and worldviews"
+      - "Corpus callosum is primarily inhibitory, not just integrative"
+      - "Trait greed correlates with left-hemisphere cognitive style (short-term, non-contextual)"
+      - "MBSR increases PFC activity, reduces amygdala reactivity"
+      - "Compassion training shifts brain from distress networks to reward/affiliation networks"
+      - "Materialism correlates with lower well-being (violates autonomy, competence, relatedness)"
+      - "Genesis 1 systematically demythologizes ANE conflict cosmologies"
+    
+    connections:
+      - target: CROSS-001
+        type: supports
+        note: "Provides neurological basis for two-tiered hermeneutic"
+      - target: SWED-005
+        type: parallels
+        note: "Proprium (self-love) = Emissary usurpation at spiritual level"
+      - target: SWED-003
+        type: parallels
+        note: "Influx operates through right-hemisphere openness to context/meaning"
+      - target: GNOS-001
+        type: contrasts
+        note: "Gnostic impulse as spiritual Emissary usurpation (intellect over love)"
+      - target: MYTH-001
+        type: instantiates
+        note: "Enuma Elish/Genesis contrast as archetypal hemispheric divergence"
+      - target: CONSC-002
+        type: develops
+        note: "Neuroplasticity as mechanism for CDE hypothesis"
+      - target: SWED-008
+        type: parallels
+        note: "Regeneration as progressive hemispheric integration at spiritual level"
+      - target: CONSC-017
+        type: complements
+        note: "NDE framework operates within Master's holistic perception"
+    
+    notes: >
+      "Central insight: The framework's core tension (love of self vs. love of neighbor)
+      is NEUROLOGICALLY INSTANTIATED in hemispheric competition. The 'ruling love' =
+      which hemisphere guides the integration. The proprium's resistance = Emissary's
+      confabulation and self-validation. Regeneration = training the brain for Master-
+      guided integration. The corpus callosum's small posterior fibers maintaining
+      integration despite damage suggests 'quality of connection' matters more than
+      quantity—resonates with Swedenborgian emphasis on affection (quality) over
+      intellect (quantity). Wheeler's 'participatory universe' aligns with Swedenborg's
+      assertion that reality is SUSTAINED by continuous influx, not pre-existing independently."
+    
+    created: 2024-12-28
+    updated: 2024-12-28
+    trace_status: complete
+
 # =============================================================================
 # CONNECTIONS INDEX
 # Redundant but useful for quick traversal - auto-generated by scripts

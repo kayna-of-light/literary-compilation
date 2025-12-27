@@ -5346,6 +5346,160 @@ nodes:
     updated: 2024-12-28
     trace_status: complete
 
+  SWED-025:
+    title: "The Divine Human in Ultimates (Glorification Theology)"
+    domain: SWED
+    status: validated
+    confidence: high
+    
+    definition: >
+      A theological-phenomenological model synthesizing HCM scholarship, Swedenborgian
+      theology, and NDE research to profile the "Actual Jesus of Love." The "Historical
+      Jesus" (E.P. Sanders' "bedrock facts") is not opposed to the "Christ of Faith"
+      but serves as the necessary external "vessel" (ultimate) for Divine Influx. Jesus's
+      life was a process of "Glorification"—the progressive union of finite human nature
+      (from Mary) with infinite Divine nature (from Jehovah)—achieved through systematic
+      conquest of the proprium in temptation. Two alternating states: Exinanition (emptying,
+      human consciousness, separation from Father) and Glorification (union, Divine
+      consciousness, "I and the Father are one"). The result is a new ontological category:
+      the "Divine Human" with a "Divine Natural" body—neither pure spirit nor finite flesh
+      but the bridge between Infinite and Finite.
+    
+    caveats:
+      - "HCM 'bedrock facts' interpreted through Swedenborgian lens, not neutral history"
+      - "Two-states model not verifiable, relies on phenomenological reading of texts"
+      - "Glorification process is theological interpretation, not historical reconstruction"
+    
+    source_chain:
+      - type: T
+        ref: "data/02_Swedenborgian_Theology/The Divine Human in Ultimates.md"
+        note: "Comprehensive synthesis"
+      - type: S
+        ref: "E.P. Sanders, Jesus and Judaism (1985); The Historical Figure of Jesus (1993)"
+        note: "Historical Jesus 'bedrock facts'"
+      - type: P
+        ref: "Swedenborg, True Christian Religion; Doctrine of the Lord"
+        note: "Glorification theology"
+      - type: P
+        ref: "Gospel accounts (Luke 24:42; John 20:15)"
+        note: "Resurrection phenomenology"
+    
+    evidence:
+      - "Sanders' bedrock facts: baptism, Galilean ministry, Temple action, crucifixion"
+      - "'Criterion of Temptation': embarrassing facts mark genuine spiritual combat"
+      - "Resurrection meals (broiled fish, honeycomb) = glorification of natural world"
+      - "'Gardener' (John 20:15): prophetic recognition of soul-cultivator role"
+      - "Stone rolled away: removal of natural-mind blockages, not physical exit"
+      - "Eating fish = incorporating natural truths; honeycomb = sanctifying natural delights"
+    
+    connections:
+      - target: BIBL-001
+        type: develops
+        note: "Reframes HCM findings as spiritual preparation"
+      - target: SWED-008
+        type: complements
+        note: "Glorification as Christ's regeneration process"
+      - target: CONSC-003
+        type: supports
+        note: "NDE 'Being of Light' validates Glorified Human"
+      - target: CROSS-002
+        type: instantiates
+        note: "Final expression of Divine Bricolage"
+      - target: SWED-005
+        type: opposes
+        note: "Glorification = systematic conquest of proprium"
+    
+    notes: >
+      "Key insight: the 'Jesus of Love' is not a soft emotion but a 'conquering force'—
+      the result of lifetime spiritual combat where 'Love for the Human Race' defeated
+      'Love of Self.' The Divine Human acts as 'mirror' in Life Review (non-judgmental);
+      soul's own Ruling Love determines gravitation to Heaven or Hell. He is the
+      'Divine Bricoleur' who uses the 'debris' of human history and individual lives
+      to forge salvation. He doesn't demand a perfect vessel—He demands a willing one."
+    
+    created: 2024-12-28
+    updated: 2024-12-28
+    trace_status: complete
+
+  CONSC-016:
+    title: "The Personality Match Thesis (NDE Jesus Identification)"
+    domain: CONSC
+    status: validated
+    confidence: high
+    
+    definition: >
+      A phenomenological model resolving the "pure identification vs. cultural construct"
+      debate in NDE research. The identification of Jesus in NDEs is neither cultural
+      projection nor mere iconography, but a "pure identification based on a direct
+      personality match." The "Being of Light" possesses a unique, consistent personality:
+      unconditional love, total awareness with total acceptance, non-judgmental ("judgment
+      had always been human; God only teaches"). This personality is a perfect correspondence
+      to the "Divine Human" of the Gospels. Crucially, the "Dogma Paradox" proves the
+      experience is not cultural projection: the NDE-Jesus consistently delivers a message
+      of universal love that supersedes and contradicts the exclusivist dogma of the
+      experiencer's background.
+    
+    caveats:
+      - "Selection bias in reported cases (unusual encounters more likely published)"
+      - "Cross-cultural variation (Japanese NDEs lack personified Being of Light)"
+      - "Ineffability may allow post-hoc interpretation"
+    
+    source_chain:
+      - type: T
+        ref: "data/01_Consciousness_Studies/Pure Encounter or Cultural Construct.md"
+        note: "Comprehensive analysis"
+      - type: T
+        ref: "data/02_Swedenborgian_Theology/The Divine Human in Ultimates.md"
+        note: "Theological integration"
+      - type: E
+        ref: "Van Lommel, Lancet study (2001)"
+        note: "Prospective NDE study; religious belief 'irrelevant' to occurrence"
+      - type: E
+        ref: "Greyson, pre-1975/post-1975 comparison study"
+        note: "Cultural priming hypothesis rebutted"
+      - type: E
+        ref: "Greyson & Ohkado, Japanese/Western NDE comparison"
+        note: "Cross-cultural variation data"
+    
+    evidence:
+      - "Atheist encounters (Heidi Barr, Gina Bonomo): 'innate knowing' bypassing lifelong indoctrination"
+      - "Muslim encounter (Bibi): expected Imam Ali, received 'I am he who is'"
+      - "Hindu encounters (Avind, Santosh): Jesus as 'fulfillment' of seeking, not replacement"
+      - "Van Lommel: religious belief 'irrelevant' to NDE occurrence"
+      - "Greyson: no significant difference pre/post-Moody (1975) NDE model"
+      - "Dogma Paradox: NDE message contradicts exclusivist hell/judgment dogma"
+      - "Kellehear: 'ineffability' is opposite of cultural expectation—unfamiliar experience"
+    
+    connections:
+      - target: CONSC-003
+        type: develops
+        note: "Extends NDE evidence with identification analysis"
+      - target: SWED-025
+        type: supports
+        note: "Personality match validates Divine Human profile"
+      - target: GNOS-001
+        type: contradicts
+        note: "NDE Jesus contradicts gnostic self-divinity"
+      - target: SWED-005
+        type: opposes
+        note: "NDE Being is non-judgmental; proprium judges"
+      - target: CONSC-009
+        type: contrasts
+        note: "Personality match vs. cultural construction of Christ figure"
+    
+    notes: >
+      "The 'Dogma Paradox' is the key finding: if Jesus were cultural projection, He would
+      reflect the experiencer's dogma. Instead, NDE-Jesus consistently corrects dogma—
+      delivering universal love against exclusivist backgrounds. Howard Pittman case:
+      'hellish' NDE was judgment on 'faith alone' dogma (proprium), not contradiction
+      of Love-path. The 98% 'hell' vision = correspondial view of proprium-dominated
+      humanity, not literal count. Cross-cultural variation (Japanese lack of personified
+      Light) may indicate selective revelation, not absence of objective Being."
+    
+    created: 2024-12-28
+    updated: 2024-12-28
+    trace_status: complete
+
 # =============================================================================
 # CONNECTIONS INDEX
 # Redundant but useful for quick traversal - auto-generated by scripts
@@ -5761,6 +5915,20 @@ connections:
   - [CONSC-015, describes, SWED-005]
   - [CONSC-015, supports, MYTH-015]
   - [CONSC-015, develops, SWED-020]
+
+  # NEW: SWED-025 (Divine Human in Ultimates) connections
+  - [SWED-025, develops, BIBL-001]
+  - [SWED-025, complements, SWED-008]
+  - [SWED-025, supports, CONSC-003]
+  - [SWED-025, instantiates, CROSS-002]
+  - [SWED-025, opposes, SWED-005]
+
+  # NEW: CONSC-016 (Personality Match Thesis) connections
+  - [CONSC-016, develops, CONSC-003]
+  - [CONSC-016, supports, SWED-025]
+  - [CONSC-016, contradicts, GNOS-001]
+  - [CONSC-016, opposes, SWED-005]
+  - [CONSC-016, contrasts, CONSC-009]
 
 # =============================================================================
 # UNTRACED CLAIMS

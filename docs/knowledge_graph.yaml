@@ -6,7 +6,7 @@
 #   - Use scripts/graph_utils.py for queries and visualization
 #   - All source chains should trace to original sources where possible
 #
-# Last Updated: 2024-12-27
+# Last Updated: 2025-01-14
 
 metadata:
   title: "The Divine Bricolage Knowledge Graph"
@@ -1304,6 +1304,9 @@ nodes:
       - target: SWED-005
         type: instantiates
         note: "Proprium mechanics in methodology"
+      - target: SWED-027
+        type: develops
+        note: "Pneumatological validation of divergence thesis"
     
     notes: >
       Not demonization of Paul but recognition of structural tension.
@@ -5819,6 +5822,111 @@ nodes:
     updated: 2024-12-28
     trace_status: complete
 
+  SWED-027:
+    title: "Swedenborgian Critique of Pauline Authority"
+    domain: SWED
+    status: validated
+    confidence: high
+    
+    definition: >
+      Swedenborg's Spiritual Diary provides a systematic pneumatological critique of the
+      Pauline Epistles, asserting they categorically differ from the Word (Gospels/Prophets).
+      The core claims: (1) Paul's epistles lack the "internal sense" (infinite spiritual
+      correspondences in every letter) that constitutes sacred Scripture; (2) Paul's
+      inspiration was "self-derived" (from proprium) rather than Divine dictation—he
+      explicitly admits "I speak, not the Lord" (1 Cor 7:12); (3) The epistles were
+      "permitted" as a protective buffer so that those incapable of bearing the intense
+      internal sense wouldn't profane it; (4) Paul's spiritual state was characterized
+      by "worldly ambition" and desire to be the "greatest introducer" into heaven. The
+      elevation of Pauline doctrine over Gospel imperatives constitutes the spiritual
+      cause of the church's "consummation" (end)—Faith Alone doctrine separating faith
+      from charity.
+    
+    key_distinctions:
+      word_vs_writings:
+        word: "Divine dictation; internal sense accessible to angels; form of heaven"
+        writings: "Human intelligence, however illuminated; doctrinal exposition only"
+      faith_alone_critique:
+        pauline_formulation: "Forensic imputation of Christ's merit without works"
+        swedenborgian_position: "Faith without charity is dead; faith = form of will's love"
+        apocalyptic_symbol: "Dragon = those who 'torture' Scripture to confirm faith alone"
+      usurpation_thesis:
+        spiritual_datum: "Paul sought to 'steal the keys' from Peter (S_D 4631m)"
+        historical_shift: "Petrine authority (confession) → Pauline authority (doctrine)"
+        result: "Church built on doctrine rather than life"
+    
+    spiritual_outcomes:
+      luther: "Hell of contentions, 'under the soles of the feet' = sensual-natural state"
+      moravians: "Antinomian endpoint: practical denial of Lord's ethical teaching"
+      dragon_spirits: "'Persuade the simple' through externalized Scripture reading"
+      preserved_good: "Simple faithful who held Gospels over complex justification dogma"
+    
+    caveats:
+      - "Spiritual Diary records experiences, not dogmatic formulations"
+      - "Traditional Christians accept Pauline epistles as inspired Scripture"
+      - "Some entries describe Paul's post-Last Judgment improvement"
+      - "Framework uses this for heuristic value, not dogmatic assertion"
+    
+    source_chain:
+      - type: T
+        ref: "data/04_Early_Christian_History/The Pauline Corpus and the Consummation of the Age.md"
+        note: "Comprehensive theological forensic analysis"
+      - type: P
+        ref: "Swedenborg, Spiritual Diary Vol. IV, §§ 4561m, 4631m, 4671, 4824, 5103"
+        note: "Direct pneumatological observations"
+      - type: P
+        ref: "1 Corinthians 7:12, 25"
+        note: "Paul's self-identified non-divine speech"
+      - type: P
+        ref: "James 2:20"
+        note: "Faith without works is dead"
+      - type: P
+        ref: "Matthew 23:11-12"
+        note: "Lord's teaching on humility vs. Paul's ambition"
+    
+    evidence:
+      - "S_D 4824: 'Epistles of Paul have not an internal sense' - known in spiritual world"
+      - "S_D 4824: Paul 'not permitted to take one parable... took all things from himself'"
+      - "S_D 4561m: Paul 'thought respecting the other life only in a worldly manner'"
+      - "S_D 4631m: Paul has 'utter aversion to Peter' - sought to usurp keys"
+      - "S_D 5103: Luther as 'quarreller' exciting 'tumults' in spiritual world"
+      - "S_D 4791: Moravians 'explain away all places where good works are treated of'"
+    
+    connections:
+      - target: EARLY-003
+        type: supports
+        note: "Jesus-Paul divergence validated from spiritual-world perspective"
+      - target: SWED-005
+        type: develops
+        note: "Proprium mechanics explain Paul's self-derived inspiration"
+      - target: SWED-026
+        type: develops
+        note: "Faith Alone consummation leads to Fourth Church necessity"
+      - target: GNOS-007
+        type: parallels
+        note: "Paul's gnosis method parallels gnostic self-validation"
+      - target: EARLY-017
+        type: complements
+        note: "Historical critique + pneumatological critique converge"
+      - target: BIBL-012
+        type: develops
+        note: "Pseudepigraphy shows 'domestication' of already-problematic Paul"
+    
+    notes: >
+      "The 'permissive function' concept is crucial: Paul's writings serve as 'court of
+      the Gentiles'—outer doctrine for those incapable of bearing internal sense. This
+      is protection, not approval. The tripartite critique (authority, soteriology,
+      ecclesiology) explains the church's trajectory: apostolic opinion substituted for
+      Divine dictation; faith separated from charity creating the 'Dragon'; keys of truth
+      usurped by doctrinal ambition. 'Africans' and 'simple good' are contrasted with
+      European/Protestant theological sophistication—receptivity inverse to doctrinal
+      elaboration. Framework note: This is Swedenborg's most controversial material;
+      presented as datum, not mandate."
+    
+    created: 2025-01-14
+    updated: 2025-01-14
+    trace_status: complete
+
   CONSC-017:
     title: "NDE Multi-Axial Phenomenological Framework"
     domain: CONSC
@@ -6929,6 +7037,14 @@ connections:
   - [EARLY-017, parallels, EARLY-009]
   - [EARLY-017, instantiates, BIBL-001]
   - [EARLY-017, supports, EARLY-005]
+
+  # NEW: SWED-027 (Swedenborgian Critique of Pauline Authority) connections
+  - [SWED-027, supports, EARLY-003]
+  - [SWED-027, develops, SWED-005]
+  - [SWED-027, develops, SWED-026]
+  - [SWED-027, parallels, GNOS-007]
+  - [SWED-027, complements, EARLY-017]
+  - [SWED-027, develops, BIBL-012]
 
 # =============================================================================
 # UNTRACED CLAIMS

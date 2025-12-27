@@ -6,7 +6,7 @@
 #   - Use scripts/graph_utils.py for queries and visualization
 #   - All source chains should trace to original sources where possible
 #
-# Last Updated: 2025-01-14
+# Last Updated: 2025-12-27
 
 metadata:
   title: "The Divine Bricolage Knowledge Graph"
@@ -115,6 +115,9 @@ nodes:
       - target: BIBL-001
         type: develops
         note: "Reframes HCM as preparatory work for spiritual interpretation"
+      - target: CONSC-018
+        type: parallels
+        note: "Hemispheric integration provides neurological model for two-tiered method"
     
     notes: >
       Central methodological principle of entire framework. The "Principle of Analogy"
@@ -509,7 +512,10 @@ nodes:
         note: "Ancient Word was written entirely in correspondences"
       - target: MYTH-001
         type: develops
-        note: "Spiritual understanding of mythic bricolage"
+        note: "Spiritual understanding of mythic bricolage; correspondences explain fragment selection"
+      - target: BIBL-001
+        type: complements
+        note: "Correspondences complete HCM's 'body' preparation"
     
     notes: >
       The "hermeneutic key" for entire framework. Transforms HCM findings from
@@ -601,6 +607,12 @@ nodes:
       - target: CROSS-003
         type: develops
         note: "Ruling love determines post-mortem trajectory"
+      - target: CONSC-017
+        type: parallels
+        note: "NDE life review parallels influx-based moral education"
+      - target: CONSC-018
+        type: parallels
+        note: "Influx operates through right-hemisphere openness"
     
     notes: >
       Key convergence point with NDE research. Heaven and hell as internal states
@@ -697,6 +709,9 @@ nodes:
       - target: EARLY-003
         type: instantiates
         note: "Pauline methodology exhibits proprium traits"
+      - target: CONSC-018
+        type: parallels
+        note: "Proprium parallels Emissary usurpation at spiritual level"
     
     notes: >
       Critical diagnostic concept. "The heart of evil perceives itself as good."
@@ -838,6 +853,15 @@ nodes:
       - target: EARLY-004
         type: instantiates
         note: "Kenotic movements as regeneration practice"
+      - target: GNOS-002
+        type: opposes
+        note: "Regeneration represents affirmation path vs gnosis path"
+      - target: CONSC-017
+        type: parallels
+        note: "NDE transformation parallels regeneration process"
+      - target: MYTH-002
+        type: parallels
+        note: "Heart of Unity corresponds to regeneration trajectory"
     
     notes: >
       The universal spiritual process. Egypt = natural mind in bondage;
@@ -882,6 +906,9 @@ nodes:
       - target: GNOS-002
         type: contradicts
         note: "Opposes Gnostic splitting of Jesus/Christ"
+      - target: BIBL-004
+        type: develops
+        note: "Glorified body explains resurrection evolution"
     
     notes: >
       The "Incarnation is the Lord's final adaptation." Influx became the vessel.
@@ -977,6 +1004,12 @@ nodes:
       - target: BIBL-005
         type: develops
         note: "Gospel genre understanding"
+      - target: BIBL-004
+        type: instantiates
+        note: "Synoptic comparison reveals resurrection evolution"
+      - target: SWED-009
+        type: develops
+        note: "Historical Jesus findings reframed spiritually"
     
     notes: >
       Framework adopts Klinghardt paradigm cautiously. Mcn priority explains
@@ -1040,44 +1073,68 @@ nodes:
     confidence: high
     
     definition: >
-      The observable evolution of resurrection accounts from early kerygmatic
-      proclamation (Paul) through Mark's empty tomb, to increasingly physicalist
-      narratives in Matthew/Luke/John. Framework: physical details as later
-      apologetic additions; earliest tradition = "Living One" with unspecified body.
+      The chronological development of resurrection accounts from Paul's "spiritual body"
+      (soma pneumatikon, 50s CE) to Luke's "flesh and bones" (90s CE). Paul: no empty tomb,
+      visionary appearances (ophthe), "flesh and blood cannot inherit." Mark: empty tomb but
+      no appearances. Matthew: guards, physical touch. Luke/John: eating, wound inspection.
+      Trajectory reflects "Fall into Language" - cognitive shift requiring external proofs.
+      Framework: physical details as later apologetic additions; earliest tradition = "Living
+      One" with unspecified body type.
     
     source_chain:
       - type: T
         ref: "data/03_Biblical_Scholarship/Resurrection Narrative Evolution in New Testament.md"
-        note: "Detailed evolution analysis"
+        note: "Comprehensive critical analysis"
       - type: P
-        ref: "1 Corinthians 15:3-8"
-        note: "Earliest kerygma"
+        ref: "1 Corinthians 15:3-8, 35-54"
+        note: "Earliest resurrection testimony"
+      - type: P
+        ref: "Mark 16:1-8"
+        note: "Earliest narrative (no appearances)"
+      - type: P
+        ref: "Luke 24:36-43"
+        note: "Anti-Docetic flesh and bones"
       - type: S
         ref: "Westcott-Hort, Western Non-Interpolations"
-        note: "Identifies later additions"
+        note: "Identifies later additions in Alexandrian MSS"
+      - type: S
+        ref: "Critical scholarship timeline (Sanders, Crossan)"
+        note: "Dating consensus"
     
     evidence:
-      - "Mark ends at 16:8 - no appearances"
+      - "Paul's 'Great Silence': no empty tomb, no women, no Joseph of Arimathea"
+      - "Soma pneumatikon vs. soma psychikon distinction (1 Cor 15:44)"
+      - "Mark ends at 16:8 - women flee, tell no one"
+      - "Luke 24:39 'flesh and bones' contradicts 1 Cor 15:50 'flesh and blood cannot inherit'"
+      - "John 20: Thomas wound inspection as anti-Docetic polemic"
       - "Luke 24:40 (wounds) absent from Western tradition"
       - "Increasing apologetic detail correlates with later dates"
     
     connections:
       - target: BIBL-002
         type: instantiates
-        note: "Synoptic comparison reveals evolution"
+        note: "Synoptic comparison reveals evolution; detailed textual evolution analysis"
       - target: EARLY-001
         type: supports
         note: "Jamesian 'Living One' vs Pauline physicalism"
       - target: SWED-009
         type: develops
         note: "Glorified body as Divine Human"
+      - target: SWED-007
+        type: parallels
+        note: "Fall into Language parallels cognitive Fall"
+      - target: GNOS-002
+        type: supports
+        note: "Early spiritual view vs. later physicalism"
     
     notes: >
       Western Non-Interpolations suggest Alexandrian tradition added physicalist
-      details. Original witness = transformed, not resuscitated.
+      details. Original witness = transformed, not resuscitated. "The movement from 
+      Paul to Luke is not discovery of facts but concession to 'fallen' cognitive 
+      state requiring material proof. 'Ophthe' = visionary seeing."
     
     created: 2024-12-27
-    updated: 2024-12-27
+    updated: 2025-12-27
     trace_status: complete
 
   BIBL-005:
@@ -1217,23 +1274,34 @@ nodes:
   EARLY-002:
     title: "The Jamesian Protograph (Proto-Luke)"
     domain: EARLY
-    status: preliminary
-    confidence: low
+    status: validated
+    confidence: medium
     
     definition: >
-      Hypothetical source document underlying canonical Luke, representing
-      Jamesian community tradition. Characterized by: emphasis on Jesus's
-      humanity, disciples' failures, poverty/reversal themes, "the Living One"
-      resurrection (non-physicalist), absence of Pauline theological framework.
+      A forensic reconstruction hypothesis proposing that 'Q' was not a fragmented sayings
+      list but a coherent pre-canonical gospel—'Proto-Luke'—from the Jamesian Jerusalem
+      Church. This protograph preserved the ethical rigor, poverty theology, and spiritual
+      resurrection of the earliest Jewish followers. The lineage: Proto-Luke (Jamesian) →
+      Mark (Pauline Reaction) → Matthew & Canonical Luke (Harmonization). Marcion's Evangelion
+      is argued to preserve the unedited Proto-Luke, making his 'heresy' actually preservation.
+      Characterized by: emphasis on Jesus's humanity, disciples' failures, poverty/reversal 
+      themes, "the Living One" resurrection (non-physicalist), absence of Pauline theological 
+      framework.
     
     caveats:
+      - "Marcion Priority is a minority scholarly position"
       - "Hypothesis stacked on hypothesis—Marcion-priority premise itself contested"
       - "Proto-Luke hypothesis (Streeter 1924) was never widely accepted"
       - "'Jamesian' attribution is inference from thematic resonance, not direct evidence"
       - "Methodology risks circularity: passages supporting thesis retained, contradictions labeled interpolations"
       - "Western Non-Interpolations are themselves contested textual judgments"
+      - "Reconstruction involves many conjectural decisions"
+      - "Theological filter may bias textual choices"
     
     source_chain:
+      - type: T
+        ref: "data/04_Early_Christian_History/The Jamesian Protograph_ A Forensic Reconstruction of Proto-Luke.md"
+        note: "Full reconstruction with Greek text"
       - type: T
         ref: "data/04_Early_Christian_History/The Jamesian Protograph.md"
         note: "Detailed reconstruction"
@@ -1241,10 +1309,30 @@ nodes:
         ref: "data/04_Early_Christian_History/The Lukan Dissonance.md"
         note: "Luke vs Acts tension analysis"
       - type: S
+        ref: "B.H. Streeter, The Four Gospels (1924)"
+        note: "Proto-Luke hypothesis foundation"
+      - type: S
+        ref: "Matthias Klinghardt, Das älteste Evangelium (2015/2021)"
+        note: "Marcion Priority argument"
+      - type: S
+        ref: "Jason BeDuhn, The First New Testament (2013)"
+        note: "Marcion text reconstruction"
+      - type: S
         ref: "Klinghardt hypothesis (adapted)"
         note: "Mcn/Proto-Luke relationship"
+      - type: P
+        ref: "NA28 Greek NT"
+        note: "Primary textual basis"
     
     evidence:
+      - "Streeter: Q+L forms continuous narrative when Mark excised from Luke"
+      - "Editorial fatigue analysis: Canonical Luke shows fatigue when diverging from Marcion"
+      - "Luke 1-2 (birth narratives) absent in Marcion, linguistically distinct ('Septuagintal' style)"
+      - "Incipit: Luke 3:1 + 4:31 (descent to Capernaum) without birth/baptism"
+      - "Nazareth pericope: relocated after Capernaum resolves anachronism (Luke 4:23)"
+      - "Woes to Rich (Luke 6:24-26) = Ebionite theology, parallels Epistle of James"
+      - "Western Non-Interpolations: Luke 22:19b-20, 24:12, 24:51b absent in Codex Bezae"
+      - "Luke 24:39 ('flesh and bones') argued as orthodox anti-Marcionite insertion"
       - "Lukan tension: Jesus-focused Gospel vs Paul-focused Acts"
       - "Distinctive Lukan material (L) shows Jamesian themes"
       - "Western Non-Interpolations show earlier, simpler tradition"
@@ -1253,19 +1341,28 @@ nodes:
       - target: EARLY-001
         type: produced_by
         note: "Document of Jamesian community"
+      - target: EARLY-010
+        type: supports
+        note: "James's theology preserved in Proto-Luke"
       - target: BIBL-002
         type: develops
-        note: "Proto-Luke within Synoptic Problem"
+        note: "Proto-Luke within Synoptic Problem; advanced source criticism methodology"
       - target: BIBL-004
         type: supports
-        note: "Original 'Living One' resurrection"
+        note: "Original 'Living One' resurrection; spiritual resurrection as original Proto-Lukan view"
+      - target: EARLY-009
+        type: describes
+        note: "Lukan Dissonance as result of later editing"
     
     notes: >
       Speculative but methodologically grounded. The "gospel behind the Gospel"
-      preserving suppressed tradition.
+      preserving suppressed tradition. Key textual decisions: Excise Luke 1-2 (birth 
+      narratives), Lord's Prayer with 'Holy Spirit' petition (ms. 162, 700), Short Text 
+      eucharist (no atonement), remove 'flesh and bones' proof (24:39). The reconstructed 
+      Passion shows 'Abomination of Desolation' (not 'armies'), enabling pre-70 dating.
     
     created: 2024-12-27
-    updated: 2024-12-27
+    updated: 2025-12-27
     trace_status: partial
 
   EARLY-003:
@@ -1488,6 +1585,12 @@ nodes:
       - target: EARLY-003
         type: parallels
         note: "Proto-gnostic elements in Paul"
+      - target: MYTH-002
+        type: parallels
+        note: "Heart of Division trajectory parallels gnostic cosmic alienation"
+      - target: CONSC-018
+        type: contrasts
+        note: "Gnostic impulse represents spiritual Emissary usurpation"
     
     notes: >
       Not a historical movement but a perennial spiritual tendency.
@@ -1513,11 +1616,28 @@ nodes:
       - type: T
         ref: "data/05_Gnostic_Analysis/The Architecture of Hidden Divinity.md"
         note: "Path dichotomy analysis"
+      - type: S
+        ref: "Williams, Michael A. Rethinking 'Gnosticism': An Argument for Dismantling a Dubious Category (1996)"
+        note: "Academic analysis of gnostic trajectories"
+      - type: S
+        ref: "Layton, Bentley. The Gnostic Scriptures (1987)"
+        note: "Primary gnostic texts showing self-elevation vs kenotic trajectories"
+      - type: P
+        ref: "Swedenborg, Arcana Coelestia §§ 141-161"
+        note: "Love of self vs love of neighbor as fundamental polarity"
+      - type: P
+        ref: "Swedenborg, Divine Love and Wisdom §§ 395-396"
+        note: "Self-love leading to hell, love of God and neighbor to heaven"
+      - type: P
+        ref: "Swedenborg, Heaven and Hell §§ 477-480"
+        note: "Ruling love determines eternal trajectory"
     
     evidence:
       - "Structural incompatibility: creation good vs creation defect"
       - "Opposite self-orientations: emptying vs inflation"
       - "Different 'salvation' mechanisms: love vs knowledge"
+      - "Gnostic texts emphasize divine spark within; Swedenborgian regeneration emphasizes divine influx from without"
+      - "Affirmation path: Philippians 2:5-8 (kenosis); Gnosis path: Genesis 3:5 ('you will be like God')"
     
     connections:
       - target: GNOS-001
@@ -1529,13 +1649,16 @@ nodes:
       - target: SWED-009
         type: opposes
         note: "Glorification impossible in gnosis framework"
+      - target: CROSS-003
+        type: contradicts
+        note: "Gnosis path contradicts ruling love of neighbor orientation"
     
     notes: >
       Critical diagnostic tool. Many seekers unknowingly on gnosis path
       while using affirmation language.
     
     created: 2024-12-27
-    updated: 2024-12-27
+    updated: 2025-12-27
     trace_status: complete
 
   GNOS-003:
@@ -2534,13 +2657,25 @@ nodes:
     confidence: medium
     
     definition: >
-      The Magi of the Nativity narrative as last practitioners of the ancient
-      Science of Correspondences - the wisdom that reads divine meaning in
-      natural phenomena. Their journey represents the providential confluence
-      of Persian (Zoroastrian) and Judean (Essene/prophetic) wisdom streams.
-      Daniel as Rab-mag restored prophetic key to Magian tradition.
+      The Magi who visited the infant Jesus were the last custodians of the 'Science of
+      Correspondences'—the ancient wisdom that every natural object corresponds to a
+      spiritual reality. Their journey represents the final act of the 'Ancient Church,'
+      passing its accumulated wisdom to the nascent Christian church. Daniel, as 'Rab-mag'
+      (Chief of the Magi), had re-infused the Magian tradition with genuine prophetic spirit.
+      The gifts (gold, frankincense, myrrh) formed a complete theological statement:
+      celestial goodness (gold), spiritual goodness (frankincense), natural goodness (myrrh).
+      Their journey represents the providential confluence of Persian (Zoroastrian) and 
+      Judean (Essene/prophetic) wisdom streams.
+    
+    caveats:
+      - "Historical reconstruction relies on sparse sources"
+      - "Correspondential interpretations of gifts from Swedenborg"
+      - "Essene-Magi parallel is suggestive, not proven"
     
     source_chain:
+      - type: T
+        ref: "data/04_Early_Christian_History/The Luminous Science_ A Re-examination of the Magi.md"
+        note: "Full analysis; Swedenborgian reframing"
       - type: T
         ref: "data/04_Early_Christian_History/The Luminous Science.md"
         note: "Swedenborgian reframing"
@@ -2551,11 +2686,21 @@ nodes:
         ref: "Matthew 2:1-12"
         note: "Nativity narrative"
       - type: P
-        ref: "Swedenborg, Arcana Coelestia on correspondences"
-        note: "Gift symbolism"
+        ref: "Swedenborg, Arcana Coelestia §§ 9293, 10252-10262"
+        note: "Correspondences of gold, frankincense, myrrh; on correspondences"
+      - type: W
+        ref: "Encyclopaedia Iranica, ARSACIDS iv. Arsacid religion"
+        note: "Parthian religious revival context"
+      - type: S
+        ref: "Book of Daniel (chapters 1-6)"
+        note: "Daniel as Rab-mag"
     
     evidence:
+      - "Greek 'mageia' semantic shift: holy art → sorcery (mirrors loss of inner meaning)"
+      - "Arsacid 'Iranian Revival' preserved remnants of ancient wisdom"
+      - "Essenes paralleled Magi: Sons of Light/Darkness dualism, eschatological focus"
       - "Triple conjunction Jupiter-Saturn in Pisces, 7 BCE (astronomical data)"
+      - "Star = knowledge leading to Lord; Jupiter = King; Saturn = Jewish people; Pisces = House of Hebrews"
       - "Daniel appointed Rab-mag by Nebuchadnezzar"
       - "Gifts as correspondences: Gold=celestial good, Frankincense=spiritual good, Myrrh=natural good"
       - "Magi and Essenes share dualistic worldview (Sons of Light/Darkness)"
@@ -2565,20 +2710,34 @@ nodes:
         type: instantiates
         note: "Historical application of correspondence doctrine"
       - target: SWED-004
-        type: supports
-        note: "Magi as carriers of Ancient Word knowledge"
+        type: instantiates
+        note: "Magi as carriers of Ancient Word knowledge; The Science of Correspondences in historical action"
       - target: EARLY-006
         type: parallels
         note: "Zoroastrian wisdom tradition"
+      - target: SWED-007
+        type: precedes
+        note: "Magi represent transition from Ancient to Christian church"
+      - target: MYTH-008
+        type: develops
+        note: "Echoes of Ancient Word preserved by Magi"
+      - target: EARLY-001
+        type: parallels
+        note: "Jamesian movement as similar preservation effort"
     
     notes: >
       "The Magi's journey was the final act of the 'Ancient Church,' passing
       accumulated wisdom to the new Christian dispensation. Their gifts were
-      a complete theological acknowledgment in the universal language of heaven."
+      a complete theological acknowledgment in the universal language of heaven.
+      The Magi's journey 'from the east' corresponds to movement from a state of 
+      knowing about the Lord to being present with Him. Their worship using the 
+      language of correspondences was the 'ultimate validation' of their sacred 
+      science—they could read the signs correctly and acknowledge the Divine Human 
+      at every level."
     
     created: 2024-12-27
-    updated: 2024-12-27
-    trace_status: complete
+    updated: 2025-12-27
+    trace_status: partial
 
   EARLY-009:
     title: "The Lukan Dissonance"
@@ -2637,62 +2796,6 @@ nodes:
   # ADDITIONAL BIBLICAL SCHOLARSHIP (BIBL)
   # ===========================================================================
 
-  BIBL-007:
-    title: "Resurrection Narrative Evolution"
-    domain: BIBL
-    status: validated
-    confidence: high
-    
-    definition: >
-      The chronological development of resurrection accounts from Paul's "spiritual body"
-      (soma pneumatikon, 50s CE) to Luke's "flesh and bones" (90s CE). Paul: no empty tomb,
-      visionary appearances (ophthe), "flesh and blood cannot inherit." Mark: empty tomb but
-      no appearances. Matthew: guards, physical touch. Luke/John: eating, wound inspection.
-      Trajectory reflects "Fall into Language" - cognitive shift requiring external proofs.
-    
-    source_chain:
-      - type: T
-        ref: "data/03_Biblical_Scholarship/Resurrection Narrative Evolution.md"
-        note: "Comprehensive critical analysis"
-      - type: P
-        ref: "1 Corinthians 15:3-8, 35-54"
-        note: "Earliest resurrection testimony"
-      - type: P
-        ref: "Mark 16:1-8"
-        note: "Earliest narrative (no appearances)"
-      - type: P
-        ref: "Luke 24:36-43"
-        note: "Anti-Docetic flesh and bones"
-      - type: S
-        ref: "Critical scholarship timeline (Sanders, Crossan)"
-        note: "Dating consensus"
-    
-    evidence:
-      - "Paul's 'Great Silence': no empty tomb, no women, no Joseph of Arimathea"
-      - "Soma pneumatikon vs. soma psychikon distinction (1 Cor 15:44)"
-      - "Mark ends at 16:8 - women flee, tell no one"
-      - "Luke 24:39 'flesh and bones' contradicts 1 Cor 15:50"
-      - "John 20: Thomas wound inspection as anti-Docetic polemic"
-    
-    connections:
-      - target: BIBL-002
-        type: develops
-        note: "Detailed textual evolution analysis"
-      - target: SWED-007
-        type: parallels
-        note: "Fall into Language parallels cognitive Fall"
-      - target: GNOS-002
-        type: supports
-        note: "Early spiritual view vs. later physicalism"
-    
-    notes: >
-      "The movement from Paul to Luke is not discovery of facts but concession to
-      'fallen' cognitive state requiring material proof. 'Ophthe' = visionary seeing."
-    
-    created: 2024-12-27
-    updated: 2024-12-27
-    trace_status: complete
-
   BIBL-008:
     title: "The Talpiot Tomb Hypothesis"
     domain: BIBL
@@ -2736,7 +2839,7 @@ nodes:
       - target: EARLY-007
         type: supports
         note: "Material evidence for Desposyni family structure"
-      - target: BIBL-007
+      - target: BIBL-004
         type: supports
         note: "Explains early spiritual vs. later physical resurrection views"
       - target: BIBL-002
@@ -2973,7 +3076,7 @@ nodes:
       - target: BIBL-008
         type: supports
         note: "Key figure in Talpiot hypothesis"
-      - target: BIBL-007
+      - target: BIBL-004
         type: parallels
         note: "Pneumatic witness to spiritual resurrection"
     
@@ -3655,145 +3758,6 @@ nodes:
     updated: 2024-12-27
     trace_status: complete
 
-  BIBL-009:
-    title: "The Jamesian Protograph (Proto-Luke)"
-    domain: BIBL
-    status: validated
-    confidence: medium
-    
-    definition: >
-      A forensic reconstruction hypothesis proposing that 'Q' was not a fragmented sayings
-      list but a coherent pre-canonical gospel—'Proto-Luke'—from the Jamesian Jerusalem
-      Church. This protograph preserved the ethical rigor, poverty theology, and spiritual
-      resurrection of the earliest Jewish followers. The lineage: Proto-Luke (Jamesian) →
-      Mark (Pauline Reaction) → Matthew & Canonical Luke (Harmonization). Marcion's Evangelion
-      is argued to preserve the unedited Proto-Luke, making his 'heresy' actually preservation.
-    
-    caveats:
-      - "Marcion Priority is a minority scholarly position"
-      - "Reconstruction involves many conjectural decisions"
-      - "Western Non-Interpolations theory contested"
-      - "Theological filter may bias textual choices"
-    
-    source_chain:
-      - type: T
-        ref: "data/04_Early_Christian_History/The Jamesian Protograph_ A Forensic Reconstruction of Proto-Luke.md"
-        note: "Full reconstruction with Greek text"
-      - type: S
-        ref: "B.H. Streeter, The Four Gospels (1924)"
-        note: "Proto-Luke hypothesis foundation"
-      - type: S
-        ref: "Matthias Klinghardt, Das älteste Evangelium (2015/2021)"
-        note: "Marcion Priority argument"
-      - type: S
-        ref: "Jason BeDuhn, The First New Testament (2013)"
-        note: "Marcion text reconstruction"
-      - type: P
-        ref: "NA28 Greek NT"
-        note: "Primary textual basis"
-    
-    evidence:
-      - "Streeter: Q+L forms continuous narrative when Mark excised from Luke"
-      - "Editorial fatigue analysis: Canonical Luke shows fatigue when diverging from Marcion"
-      - "Luke 1-2 (birth narratives) absent in Marcion, linguistically distinct ('Septuagintal' style)"
-      - "Incipit: Luke 3:1 + 4:31 (descent to Capernaum) without birth/baptism"
-      - "Nazareth pericope: relocated after Capernaum resolves anachronism (Luke 4:23)"
-      - "Woes to Rich (Luke 6:24-26) = Ebionite theology, parallels Epistle of James"
-      - "Western Non-Interpolations: Luke 22:19b-20, 24:12, 24:51b absent in Codex Bezae"
-      - "Luke 24:39 ('flesh and bones') argued as orthodox anti-Marcionite insertion"
-    
-    connections:
-      - target: EARLY-010
-        type: supports
-        note: "James's theology preserved in Proto-Luke"
-      - target: BIBL-002
-        type: develops
-        note: "Advanced source criticism methodology"
-      - target: BIBL-007
-        type: supports
-        note: "Spiritual resurrection as original Proto-Lukan view"
-      - target: EARLY-009
-        type: describes
-        note: "Lukan Dissonance as result of later editing"
-      - target: BIBL-004
-        type: complements
-        note: "Western Non-Interpolations as key evidence"
-    
-    notes: >
-      "Key textual decisions: Excise Luke 1-2 (birth narratives), Lord's Prayer with
-      'Holy Spirit' petition (ms. 162, 700), Short Text eucharist (no atonement),
-      remove 'flesh and bones' proof (24:39). The reconstructed Passion shows
-      'Abomination of Desolation' (not 'armies'), enabling pre-70 dating."
-    
-    created: 2024-12-27
-    updated: 2024-12-27
-    trace_status: partial
-
-  EARLY-013:
-    title: "The Magi and the Science of Correspondences"
-    domain: EARLY
-    status: validated
-    confidence: medium
-    
-    definition: >
-      The Magi who visited the infant Jesus were the last custodians of the 'Science of
-      Correspondences'—the ancient wisdom that every natural object corresponds to a
-      spiritual reality. Their journey represents the final act of the 'Ancient Church,'
-      passing its accumulated wisdom to the nascent Christian church. Daniel, as 'Rab-mag'
-      (Chief of the Magi), had re-infused the Magian tradition with genuine prophetic spirit.
-      The gifts (gold, frankincense, myrrh) formed a complete theological statement:
-      celestial goodness (gold), spiritual goodness (frankincense), natural goodness (myrrh).
-    
-    caveats:
-      - "Historical reconstruction relies on sparse sources"
-      - "Correspondential interpretations of gifts from Swedenborg"
-      - "Essene-Magi parallel is suggestive, not proven"
-    
-    source_chain:
-      - type: T
-        ref: "data/04_Early_Christian_History/The Luminous Science_ A Re-examination of the Magi.md"
-        note: "Full analysis"
-      - type: P
-        ref: "Swedenborg, Arcana Coelestia §§ 9293, 10252-10262"
-        note: "Correspondences of gold, frankincense, myrrh"
-      - type: W
-        ref: "Encyclopaedia Iranica, ARSACIDS iv. Arsacid religion"
-        note: "Parthian religious revival context"
-      - type: S
-        ref: "Book of Daniel (chapters 1-6)"
-        note: "Daniel as Rab-mag"
-    
-    evidence:
-      - "Greek 'mageia' semantic shift: holy art → sorcery (mirrors loss of inner meaning)"
-      - "Arsacid 'Iranian Revival' preserved remnants of ancient wisdom"
-      - "Essenes paralleled Magi: Sons of Light/Darkness dualism, eschatological focus"
-      - "Triple conjunction Jupiter-Saturn in Pisces (7 BCE) as celestial correspondence"
-      - "Star = knowledge leading to Lord; Jupiter = King; Saturn = Jewish people; Pisces = House of Hebrews"
-    
-    connections:
-      - target: SWED-004
-        type: instantiates
-        note: "The Science of Correspondences in historical action"
-      - target: SWED-007
-        type: precedes
-        note: "Magi represent transition from Ancient to Christian church"
-      - target: MYTH-008
-        type: develops
-        note: "Echoes of Ancient Word preserved by Magi"
-      - target: EARLY-001
-        type: parallels
-        note: "Jamesian movement as similar preservation effort"
-    
-    notes: >
-      "The Magi's journey 'from the east' corresponds to movement from a state of knowing
-      about the Lord to being present with Him. Their worship using the language of
-      correspondences was the 'ultimate validation' of their sacred science—they could
-      read the signs correctly and acknowledge the Divine Human at every level."
-    
-    created: 2024-12-27
-    updated: 2024-12-27
-    trace_status: partial
-
   SWED-019:
     title: "The Architecture of Regeneration"
     domain: SWED
@@ -3970,7 +3934,7 @@ nodes:
       - "Islamic shift: Jibrīl supreme (Qur'an transmitter); Mīkā'īl = sustenance; Isrāfīl = resurrection"
     
     connections:
-      - target: EARLY-013
+      - target: EARLY-008
         type: parallels
         note: "Magi preserved related angelological knowledge"
       - target: SWED-004
@@ -4401,7 +4365,7 @@ nodes:
       - target: GNOS-002
         type: produces
         note: "Paul's 'faith only' enables self-glorification mechanism"
-      - target: BIBL-007
+      - target: BIBL-004
         type: contradicts
         note: "Severs Cosmic Christ from historical Jesus"
       - target: SWED-005
@@ -6562,7 +6526,7 @@ nodes:
       - target: BIBL-001
         type: instantiates
         note: "HCM identifies pseudepigraphy through source/form criticism"
-      - target: BIBL-007
+      - target: BIBL-004
         type: parallels
         note: "Gospel formation parallels—both involve editorial layers on original tradition"
     

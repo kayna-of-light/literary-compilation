@@ -4125,6 +4125,372 @@ nodes:
     updated: 2024-12-27
     trace_status: complete
 
+  SWED-022:
+    title: "Swedenborg's Divine Commission (The Delft Theophany)"
+    domain: SWED
+    status: validated
+    confidence: high
+    
+    definition: >
+      The pivotal event in Easter 1744 when Swedenborg received his divine commission
+      during a Christophany in Delft. Following months of intense spiritual crisis
+      ("vastation"), he received the command "Nå så giör" (Well, then do), interpreted
+      as "Do what thou hast promised." This marked his transition from scientific
+      investigator to commissioned revelator. The commission was not a new directive
+      but the divine sanctification of his life's quest to bridge mind and matter.
+      His scientific career (1710-1744) was revealed as providential preparation.
+    
+    caveats:
+      - "Based solely on Swedenborg's Journal of Dreams"
+      - "Theophanic interpretation relies on Swedenborg's own framework"
+      - "No external verification of the experience itself"
+    
+    source_chain:
+      - type: T
+        ref: "data/02_Swedenborgian_Theology/Swedenborg's Divine Mission Activation.md"
+        note: "Full analysis of the commission"
+      - type: P
+        ref: "Swedenborg, Journal of Dreams, April 6-7, 1744"
+        note: "Primary autobiographical account"
+      - type: S
+        ref: "Acton, 'Swedenborg's Preparation'"
+        note: "Scholarly analysis of preparation period"
+    
+    evidence:
+      - "Preceded by months of 'vastation' - struggle against self-love and pride"
+      - "Experienced 'double thoughts' - conscious battle between internal and external man"
+      - "Multi-sensory event: auditory (booming winds), somatic (tremor), visual (Christ's face)"
+      - "Physical prostration signified complete surrender of will"
+      - "Words of prayer were 'put into his mouth' - first instance of receptive vessel"
+      - "Command linked internal ('Love me truly') with external ('Do what thou hast promised')"
+      - "Later forbidden to read systematic theology - revelation not scholarship"
+    
+    connections:
+      - target: SWED-008
+        type: requires
+        note: "Commission initiated Swedenborg's own regeneration"
+      - target: SWED-002
+        type: instantiates
+        note: "Experience was direct divine influx"
+      - target: SWED-005
+        type: opposes
+        note: "Crisis required subjugation of proprium"
+      - target: SWED-019
+        type: produces
+        note: "Commission led to doctrines of regeneration"
+    
+    notes: >
+      "Parallels classical prophetic call narratives: Isaiah (unworthiness), Ezekiel
+      (internalization), Paul (sudden arrest). Unique in that it CONTINUES rather
+      than repudiates prior life - scientific preparation was itself providential.
+      Establishes Swedenborg as 'rational revelator' for the Age of Reason."
+    
+    created: 2024-12-28
+    updated: 2024-12-28
+    trace_status: complete
+
+  EARLY-014:
+    title: "The Three Rivers of Melchizedek Tradition"
+    domain: EARLY
+    status: validated
+    confidence: high
+    
+    definition: >
+      The figure of Melchizedek generated three distinct interpretive traditions:
+      (1) Historical-Critical: A Jebusite priest-king of Salem, devotee of El Elyon
+      and the deity Zedek, whose royal priesthood was co-opted by the Davidic monarchy;
+      (2) Sectarian/Eschatological: Elevated to celestial warrior-priest and Elohim
+      (divine being) in Dead Sea Scrolls (11Q13), executing final judgment;
+      (3) Rabbinic Counter-Narrative: Identified as Shem son of Noah, providing
+      genealogy and explaining why priesthood was transferred to Levi.
+      The silence of Genesis about his origins created interpretive space each
+      tradition filled with its own anxieties about priesthood and divine access.
+    
+    caveats:
+      - "Melchizedek traditions remain highly diverse and contested"
+      - "11Q13 is fragmentary; reconstruction is partial"
+      - "Shem identification solves chronological issues but is exegetically motivated"
+    
+    source_chain:
+      - type: T
+        ref: "data/04_Early_Christian_History/Melchizedek's Origins_ Biblical to Gnostic.md"
+        note: "Comprehensive analysis"
+      - type: P
+        ref: "Genesis 14:18-20; Psalm 110:4"
+        note: "Primary biblical texts"
+      - type: P
+        ref: "11Q13 (11QMelchizedek), Dead Sea Scrolls"
+        note: "Qumran Melchizedek as Elohim"
+      - type: P
+        ref: "Babylonian Talmud, Nedarim 32b"
+        note: "Shem=Melchizedek identification"
+      - type: P
+        ref: "Hebrews 5-7"
+        note: "Christian transformation"
+      - type: S
+        ref: "Philo of Byblos, Phoenician History"
+        note: "Sydyk (Zedek) as deity"
+    
+    evidence:
+      - "Name 'Malki-Zedek' = 'My King is [the deity] Zedek' (theophoric)"
+      - "Salem (Shalem) = Canaanite dusk god; Ur-Shalim = 'Foundation of Shalem'"
+      - "El Elyon title attested in Sefire Treaty Inscriptions and Neo-Punic texts"
+      - "Adoni-Zedek (Joshua 10:1) shows 'Zedek' element in Jerusalemite dynasty"
+      - "11Q13 applies Psalm 82:1 'Elohim' to Melchizedek - divine status"
+      - "11Q13 substitutes Melchizedek for Yahweh in Isaiah quotations"
+      - "2 Enoch gives miraculous birth narrative (post-mortem birth, badge of priesthood)"
+      - "Hebrews 7:3 - 'without father, without mother, without genealogy'"
+      - "Rabbinic polemic: Melchizedek blessed Abraham BEFORE blessing God - lost priesthood"
+    
+    connections:
+      - target: EARLY-003
+        type: parallels
+        note: "Both exemplify Second Temple priestly idealization"
+      - target: SWED-004
+        type: parallels
+        note: "Melchizedek as bearer of pre-Sinaitic revelation"
+      - target: SWED-018
+        type: supports
+        note: "Prefigures the Divine Human in ultimates"
+      - target: GNOS-001
+        type: develops
+        note: "Gnostic Melchizedek as Paralemptor (Light Receiver)"
+    
+    notes: >
+      "Melchizedek as 'Rorschach test' of biblical hermeneutics. His lack of backstory
+      created vacuum each community filled. Three crucial functions: (1) legitimizes
+      Davidic royal priesthood bypassing Levitical descent; (2) provides eschatological
+      warrior-judge in sectarian Judaism; (3) establishes Christ's eternal priesthood
+      superseding Mosaic law. Theophoric 'Zedek' element links to solar justice cult."
+    
+    created: 2024-12-28
+    updated: 2024-12-28
+    trace_status: complete
+
+  SWED-023:
+    title: "The Resurrection of True Life (Fall into Language)"
+    domain: SWED
+    status: validated
+    confidence: medium
+    
+    definition: >
+      A phenomenological framework positing that human history represents a progressive
+      "Fall" from internal, intuitive cognition into externalized language and concepts.
+      The "Golden Age" featured internal respiration (vagus-mediated), lip-speech
+      (pre-verbal mimetic communication), and representative perception (natural objects
+      as immediate spiritual percepts). The "Fall" was displacement to articulate
+      speech, writing, and abstract concepts—an "outer layer barely capable of understanding."
+      Despite this Fall, Divine Bricolage providentially guided conceptual evolution
+      (from Babylon's violent myths to Israel's purified narratives) toward the
+      Incarnation, where the Word became Flesh and internal-external were reunited.
+    
+    caveats:
+      - "Synthesizes Swedenborgian theology with modern cognitive science"
+      - "Some paleoanthropological claims are speculative"
+      - "Framework privileges Swedenborgian interpretation as explanatory"
+    
+    source_chain:
+      - type: T
+        ref: "data/02_Swedenborgian_Theology/The Resurrection of True Life.md"
+        note: "Full phenomenological analysis"
+      - type: P
+        ref: "Swedenborg, Arcana Coelestia, Primordial Church sections"
+        note: "Internal respiration and Most Ancient Church"
+      - type: S
+        ref: "McGilchrist, The Master and His Emissary"
+        note: "Hemispheric lateralization"
+      - type: S
+        ref: "Lakoff & Johnson, Conceptual Metaphor Theory (CMT)"
+        note: "Embodied cognition"
+    
+    evidence:
+      - "Internal respiration = vagus nerve stimulation = parasympathetic state"
+      - "Lip-speech aligns with Gestural Theory of language origins"
+      - "Representative Language = Conceptual Metaphor Theory's embodied cognition"
+      - "Fall into writing = displacement from landscape memory (songlines) to text"
+      - "Concept introduces gap between signifier and signified - 'lie' becomes possible"
+      - "Genesis 1-11 as 'made-up history' - pure allegories as truth vessels"
+      - "Patriarchs/Exodus as guided history aligning outer facts with inner truth"
+      - "Incarnation = Influx became Vessel; internal-external reunited"
+      - "Glorification = purification of maternal human (outer layer)"
+    
+    connections:
+      - target: SWED-016
+        type: develops
+        note: "Expands Fall into Language thesis"
+      - target: SWED-007
+        type: develops
+        note: "Cognitive shift framework expanded"
+      - target: SWED-017
+        type: instantiates
+        note: "Divine Bricolage as mechanism"
+      - target: MYTH-001
+        type: supports
+        note: "Mythic bricolage as providential guidance"
+    
+    notes: >
+      "Two paths post-Incarnation: Path of Gnosis (intellect, self-glorification,
+      splitting Jesus/Christ) vs. Path of Affirmation (love, heart-connection).
+      NDE data validates Path of Affirmation: experiencers identify Being of Light
+      through 'personality match' not theological concept. The 'outer layer' judges;
+      the 'inner reality' loves."
+    
+    created: 2024-12-28
+    updated: 2024-12-28
+    trace_status: partial
+
+  GNOS-007:
+    title: "Paul as the Essential Gnostic Seed"
+    domain: GNOS
+    status: contested
+    confidence: medium
+    
+    definition: >
+      The thesis that the Apostle Paul, not later Gnostic teachers, articulated the
+      structural logic underlying Gnostic systems. Paul established: (1) Epistemological
+      autonomy - direct revelation invalidating historical tradition (Gal 1:11-12);
+      (2) Cosmic dualism - Torah demoted to angelic/archontic origin (Gal 3:19),
+      "god of this world" as blinder of minds (2 Cor 4:4); (3) Anti-somatic soteriology -
+      "flesh and blood cannot inherit" (1 Cor 15:50), faith as pneumatic escape mechanism;
+      (4) Christological separation - the Cosmic Christ distinct from historical Jesus.
+      The conflict with the Jamesian church was not about dietary laws but represented
+      the primordial schism between materialist messianism and anti-cosmic gnosis.
+    
+    caveats:
+      - "Strongly contested by mainstream biblical scholarship"
+      - "Relies on selective reading of Pauline corpus"
+      - "Later Gnostics may have read Paul through their own lens"
+      - "Ignores Paul's Jewish apocalypticism and eschatology"
+    
+    source_chain:
+      - type: T
+        ref: "data/05_Gnostic_Analysis/Paul_ Gnostic Seed or Influence_.md"
+        note: "Full structural analysis"
+      - type: S
+        ref: "Pagels, Elaine. The Gnostic Paul (1975)"
+        note: "Valentinian exegesis of Paul"
+      - type: S
+        ref: "Schmithals, Walter. Paul and the Gnostics"
+        note: "Paul's pneumatic vocation as Gnostic"
+      - type: P
+        ref: "Galatians 1:11-16; 3:19; 1 Cor 2:6-16; 2 Cor 4:4; 5:16"
+        note: "Key Pauline passages"
+    
+    evidence:
+      - "Gal 1:11-12: Gospel 'not from man' but through 'revelation of Jesus Christ'"
+      - "Gal 1:16: 'did not consult flesh and blood' - invalidates Jerusalem authority"
+      - "1 Cor 2:6-7: 'hidden wisdom' among the 'mature' (teleioi)"
+      - "1 Cor 2:14-15: psychikos/pneumatikos division parallels Valentinian anthropology"
+      - "Gal 3:19: Torah 'ordained by angels through an intermediary'"
+      - "2 Cor 4:4: 'god of this world' - functional Demiurge"
+      - "1 Cor 2:8: 'rulers of this age' crucified Christ - Archontic ignorance"
+      - "1 Cor 15:50: 'flesh and blood cannot inherit the kingdom'"
+      - "2 Cor 5:16: 'even if we knew Christ according to the flesh, we know him thus no longer'"
+      - "Pseudo-Clementines depict Paul as 'the Enemy' conflated with Simon Magus"
+    
+    connections:
+      - target: GNOS-001
+        type: supports
+        note: "Provides structural foundation for Gnostic cosmology"
+      - target: EARLY-002
+        type: contradicts
+        note: "Fundamental conflict with Jamesian materialist messianism"
+      - target: GNOS-002
+        type: produces
+        note: "Paul's 'faith only' enables self-glorification mechanism"
+      - target: BIBL-007
+        type: contradicts
+        note: "Severs Cosmic Christ from historical Jesus"
+      - target: SWED-005
+        type: instantiates
+        note: "Pneumatic elitism as proprium's spiritual expression"
+    
+    notes: >
+      "Marcion fully developed Pauline ditheism: 'god of this world' = Creator/Judge;
+      'Father of Christ' = Alien God of Love. Valentinians systematized Paul's
+      psychikos/pneumatikos anthropology into hylic/psychic/pneumatic hierarchy.
+      James 2:24 ('justified by works, not faith alone') is direct anti-Pauline polemic.
+      Whether Paul was 'objectively' Gnostic is less important than his texts providing
+      'the scriptural warrant' for later Gnostic systems."
+    
+    created: 2024-12-28
+    updated: 2024-12-28
+    trace_status: partial
+
+  BIBL-010:
+    title: "The Two Paths: Affirmation vs. Gnosis"
+    domain: BIBL
+    status: validated
+    confidence: medium
+    
+    definition: >
+      Two mutually exclusive soteriological trajectories: (1) The Path of Affirmation
+      (Path of Love) - characterized by experiential encounter with the "Being of Light"
+      spontaneously identified as the Divine Human Jesus Christ; defined by reception
+      of truth FROM the Lord, unconditional love, non-judgment; (2) The Path of Gnosis
+      (Path of Dismantling) - characterized by cognitive approaches that dismantle the
+      Divine Human correspondence through "splitting the identity" (separating human
+      Jesus from impersonal Christ principle) or "changing the name" (Sananda, Jmmanuel).
+      These paths "like clay and iron, do not mingle." NDE data provides empirical
+      validation for the Path of Affirmation through cross-cultural "pure identification"
+      based on "personality match."
+    
+    caveats:
+      - "Binary classification may oversimplify diverse spiritual traditions"
+      - "NDE interpretation is contested"
+      - "Relies on Swedenborgian framing for analysis"
+    
+    source_chain:
+      - type: T
+        ref: "data/03_Biblical_Scholarship/A Comparative Analysis of Non-Religious Christologies.md"
+        note: "Full comparative analysis"
+      - type: T
+        ref: "data/01_Consciousness_Studies/Pure Encounter or Cultural Construct.md"
+        note: "NDE identification data"
+      - type: P
+        ref: "Swedenborg, Divine Love and Wisdom"
+        note: "Lord as Sun in Heaven"
+      - type: E
+        ref: "NDE testimony archives (IANDS, NDERF)"
+        note: "Cross-cultural Being of Light encounters"
+    
+    evidence:
+      - "NDE data: 'Being of Light' consistently described as 'unconditional love'"
+      - "Non-Christian experiencers (atheists, Muslims, Hindus) identify Being as Jesus"
+      - "Identification based on 'innate knowing' / 'personality match' not dogma"
+      - "Gnosticism: Christ aeon 'withdrew' from Jesus at crucifixion (Valentinian)"
+      - "Theosophy: Jesus as 'philosopher' separate from indwelling 'Christos'"
+      - "Urantia Book: Jesus = Michael of Nebadon, one of 700,000+ Creator Sons"
+      - "Ascended Masters: Jesus renamed 'Sananda' with hierarchical placement"
+      - "ACIM: 'Christ' = shared identity of entire Sonship, not personal Jesus"
+      - "Law of One: Jesus = 4th-density 'Wanderer' / teacher, not Lord in ultimates"
+    
+    connections:
+      - target: GNOS-001
+        type: describes
+        note: "Path of Gnosis instantiates Gnostic architecture"
+      - target: SWED-018
+        type: supports
+        note: "Path of Affirmation validates Divine Human in ultimates"
+      - target: CONSC-004
+        type: supports
+        note: "NDE data provides empirical evidence"
+      - target: SWED-014
+        type: supports
+        note: "Affirms the Actual Jesus of Love"
+    
+    notes: >
+      "Path of Gnosis is 'cosmologically incoherent' and 'very inconsistent' - Theosophy,
+      Urantia, Ascended Masters present 'conflicting hierarchies.' Its ONLY coherent
+      feature is consistent STRATEGY of dismantling Divine Human correspondence.
+      Dogma Paradox: NDE Jesus contradicts exclusivist 'faith alone' dogma - experience
+      CORRECTS dogma rather than projecting it. The 'outer layer' (humanity) judges;
+      the 'inner reality' (God) loves."
+    
+    created: 2024-12-28
+    updated: 2024-12-28
+    trace_status: partial
+
 # =============================================================================
 # CONNECTIONS INDEX
 # Redundant but useful for quick traversal - auto-generated by scripts
@@ -4439,6 +4805,37 @@ connections:
   - [SWED-021, requires, SWED-019]
   - [SWED-021, parallels, CONSC-011]
   - [SWED-021, develops, SWED-003]
+  
+  # NEW: SWED-022 (Divine Commission) connections
+  - [SWED-022, requires, SWED-008]
+  - [SWED-022, instantiates, SWED-002]
+  - [SWED-022, opposes, SWED-005]
+  - [SWED-022, produces, SWED-019]
+  
+  # NEW: EARLY-014 (Melchizedek Traditions) connections
+  - [EARLY-014, parallels, EARLY-003]
+  - [EARLY-014, parallels, SWED-004]
+  - [EARLY-014, supports, SWED-018]
+  - [EARLY-014, develops, GNOS-001]
+  
+  # NEW: SWED-023 (Resurrection of True Life) connections
+  - [SWED-023, develops, SWED-016]
+  - [SWED-023, develops, SWED-007]
+  - [SWED-023, instantiates, SWED-017]
+  - [SWED-023, supports, MYTH-001]
+  
+  # NEW: GNOS-007 (Paul as Gnostic Seed) connections
+  - [GNOS-007, supports, GNOS-001]
+  - [GNOS-007, contradicts, EARLY-002]
+  - [GNOS-007, produces, GNOS-002]
+  - [GNOS-007, contradicts, BIBL-007]
+  - [GNOS-007, instantiates, SWED-005]
+  
+  # NEW: BIBL-010 (Two Paths) connections
+  - [BIBL-010, describes, GNOS-001]
+  - [BIBL-010, supports, SWED-018]
+  - [BIBL-010, supports, CONSC-004]
+  - [BIBL-010, supports, SWED-014]
 
 # =============================================================================
 # UNTRACED CLAIMS

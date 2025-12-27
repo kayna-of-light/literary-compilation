@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-27 09:59*
+*Last exported: 2025-12-27 12:57*
 
 ---
 
@@ -10,14 +10,14 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 113 |
+| Total Nodes | 110 |
 | Total Connections | 399 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 102
-- **preliminary**: 6
+- **validated**: 100
+- **preliminary**: 5
 - **contested**: 5
 
 ### By Domain
@@ -25,8 +25,8 @@
 - **Cross-Domain** (CROSS): 5
 - **Consciousness Studies** (CONSC): 20
 - **Swedenborgian Theology** (SWED): 33
-- **Biblical Scholarship** (BIBL): 13
-- **Early Christian History** (EARLY): 17
+- **Biblical Scholarship** (BIBL): 11
+- **Early Christian History** (EARLY): 16
 - **The Gnostic Impulse** (GNOS): 9
 - **Mythological Studies** (MYTH): 16
 
@@ -477,7 +477,8 @@
 **Connections**:
 - → `CROSS-001` (supports): Enables vertical interpretation in two-tiered framework
 - → `SWED-004` (requires): Ancient Word was written entirely in correspondences
-- → `MYTH-001` (develops): Spiritual understanding of mythic bricolage
+- → `MYTH-001` (develops): Spiritual understanding of mythic bricolage; correspondences explain fragment selection
+- → `BIBL-001` (complements): Correspondences complete HCM's 'body' preparation
 
 ---
 
@@ -515,6 +516,8 @@
 - → `CONSC-004` (parallels): NDE phenomenology matches World of Spirits
 - → `CONSC-003` (parallels): Life review unveils ruling love
 - → `CROSS-003` (develops): Ruling love determines post-mortem trajectory
+- → `CONSC-017` (parallels): NDE life review parallels influx-based moral education
+- → `CONSC-018` (parallels): Influx operates through right-hemisphere openness
 
 ---
 
@@ -553,6 +556,7 @@
 - → `SWED-002` (opposes): Proprium blocks divine influx
 - → `GNOS-001` (supports): Gnostic impulse is intellectual proprium
 - → `EARLY-003` (instantiates): Pauline methodology exhibits proprium traits
+- → `CONSC-018` (parallels): Proprium parallels Emissary usurpation at spiritual level
 
 ---
 
@@ -608,6 +612,9 @@
 - → `SWED-007` (reverses): Regeneration restores what Fall disrupted
 - → `BIBL-003` (parallels): Exodus as correspondence of regeneration
 - → `EARLY-004` (instantiates): Kenotic movements as regeneration practice
+- → `GNOS-002` (opposes): Regeneration represents affirmation path vs gnosis path
+- → `CONSC-017` (parallels): NDE transformation parallels regeneration process
+- → `MYTH-002` (parallels): Heart of Unity corresponds to regeneration trajectory
 
 ---
 
@@ -626,6 +633,7 @@
 **Connections**:
 - → `BIBL-002` (develops): Reframes historical Jesus findings spiritually
 - → `GNOS-002` (contradicts): Opposes Gnostic splitting of Jesus/Christ
+- → `BIBL-004` (develops): Glorified body explains resurrection evolution
 
 ---
 
@@ -1183,6 +1191,8 @@
 - → `BIBL-001` (instantiates): Source criticism application
 - → `EARLY-002` (supports): Proto-Luke as Jamesian protograph
 - → `BIBL-005` (develops): Gospel genre understanding
+- → `BIBL-004` (instantiates): Synoptic comparison reveals resurrection evolution
+- → `SWED-009` (develops): Historical Jesus findings reframed spiritually
 
 ---
 
@@ -1209,18 +1219,23 @@
 
 **Status**: validated | **Confidence**: high
 
-> The observable evolution of resurrection accounts from early kerygmatic proclamation (Paul) through Mark's empty tomb, to increasingly physicalist narratives in Matthew/Luke/John. Framework: physical details as later apologetic additions; earliest tradition = "Living One" with unspecified body.
+> The chronological development of resurrection accounts from Paul's "spiritual body" (soma pneumatikon, 50s CE) to Luke's "flesh and bones" (90s CE). Paul: no empty tomb, visionary appearances (ophthe), "flesh and blood cannot inherit." Mark: empty tomb but no appearances. Matthew: guards, physical touch. Luke/John: eating, wound inspection. Trajectory reflects "Fall into Language" - cognitive shift requiring external proofs. Framework: physical details as later apologetic additions; earliest tradition = "Living One" with unspecified body type.
 
 
 **Source Chain**:
 1. [T] data/03_Biblical_Scholarship/Resurrection Narrative Evolution in New Testament.md
-2. [P] 1 Corinthians 15:3-8
-3. [S] Westcott-Hort, Western Non-Interpolations
+2. [P] 1 Corinthians 15:3-8, 35-54
+3. [P] Mark 16:1-8
+4. [P] Luke 24:36-43
+5. [S] Westcott-Hort, Western Non-Interpolations
+6. [S] Critical scholarship timeline (Sanders, Crossan)
 
 **Connections**:
-- → `BIBL-002` (instantiates): Synoptic comparison reveals evolution
+- → `BIBL-002` (instantiates): Synoptic comparison reveals evolution; detailed textual evolution analysis
 - → `EARLY-001` (supports): Jamesian 'Living One' vs Pauline physicalism
 - → `SWED-009` (develops): Glorified body as Divine Human
+- → `SWED-007` (parallels): Fall into Language parallels cognitive Fall
+- → `GNOS-002` (supports): Early spiritual view vs. later physicalism
 
 ---
 
@@ -1258,27 +1273,6 @@
 
 ---
 
-#### [BIBL-007] Resurrection Narrative Evolution
-
-**Status**: validated | **Confidence**: high
-
-> The chronological development of resurrection accounts from Paul's "spiritual body" (soma pneumatikon, 50s CE) to Luke's "flesh and bones" (90s CE). Paul: no empty tomb, visionary appearances (ophthe), "flesh and blood cannot inherit." Mark: empty tomb but no appearances. Matthew: guards, physical touch. Luke/John: eating, wound inspection. Trajectory reflects "Fall into Language" - cognitive shift requiring external proofs.
-
-
-**Source Chain**:
-1. [T] data/03_Biblical_Scholarship/Resurrection Narrative Evolution.md
-2. [P] 1 Corinthians 15:3-8, 35-54
-3. [P] Mark 16:1-8
-4. [P] Luke 24:36-43
-5. [S] Critical scholarship timeline (Sanders, Crossan)
-
-**Connections**:
-- → `BIBL-002` (develops): Detailed textual evolution analysis
-- → `SWED-007` (parallels): Fall into Language parallels cognitive Fall
-- → `GNOS-002` (supports): Early spiritual view vs. later physicalism
-
----
-
 #### [BIBL-008] The Talpiot Tomb Hypothesis
 
 **Status**: contested | **Confidence**: low
@@ -1294,31 +1288,8 @@
 
 **Connections**:
 - → `EARLY-007` (supports): Material evidence for Desposyni family structure
-- → `BIBL-007` (supports): Explains early spiritual vs. later physical resurrection views
+- → `BIBL-004` (supports): Explains early spiritual vs. later physical resurrection views
 - → `BIBL-002` (develops): Archaeological dimension to historical Jesus
-
----
-
-#### [BIBL-009] The Jamesian Protograph (Proto-Luke)
-
-**Status**: validated | **Confidence**: medium
-
-> A forensic reconstruction hypothesis proposing that 'Q' was not a fragmented sayings list but a coherent pre-canonical gospel—'Proto-Luke'—from the Jamesian Jerusalem Church. This protograph preserved the ethical rigor, poverty theology, and spiritual resurrection of the earliest Jewish followers. The lineage: Proto-Luke (Jamesian) → Mark (Pauline Reaction) → Matthew & Canonical Luke (Harmonization). Marcion's Evangelion is argued to preserve the unedited Proto-Luke, making his 'heresy' actually preservation.
-
-
-**Source Chain**:
-1. [T] data/04_Early_Christian_History/The Jamesian Protograph_ A Forensic Reconstruction of Proto-Luke.md
-2. [S] B.H. Streeter, The Four Gospels (1924)
-3. [S] Matthias Klinghardt, Das älteste Evangelium (2015/2021)
-4. [S] Jason BeDuhn, The First New Testament (2013)
-5. [P] NA28 Greek NT
-
-**Connections**:
-- → `EARLY-010` (supports): James's theology preserved in Proto-Luke
-- → `BIBL-002` (develops): Advanced source criticism methodology
-- → `BIBL-007` (supports): Spiritual resurrection as original Proto-Lukan view
-- → `EARLY-009` (describes): Lukan Dissonance as result of later editing
-- → `BIBL-004` (complements): Western Non-Interpolations as key evidence
 
 ---
 
@@ -1385,7 +1356,7 @@
 - → `GNOS-001` (contradicts): Pastorals written to counter Gnostic appropriation of Paul
 - → `EARLY-003` (develops): Paul's theology required 'domestication' for proto-orthodox synthesis
 - → `BIBL-001` (instantiates): HCM identifies pseudepigraphy through source/form criticism
-- → `BIBL-007` (parallels): Gospel formation parallels—both involve editorial layers on original tradition
+- → `BIBL-004` (parallels): Gospel formation parallels—both involve editorial layers on original tradition
 
 ---
 
@@ -1435,20 +1406,27 @@
 
 #### [EARLY-002] The Jamesian Protograph (Proto-Luke)
 
-**Status**: preliminary | **Confidence**: low
+**Status**: validated | **Confidence**: medium
 
-> Hypothetical source document underlying canonical Luke, representing Jamesian community tradition. Characterized by: emphasis on Jesus's humanity, disciples' failures, poverty/reversal themes, "the Living One" resurrection (non-physicalist), absence of Pauline theological framework.
+> A forensic reconstruction hypothesis proposing that 'Q' was not a fragmented sayings list but a coherent pre-canonical gospel—'Proto-Luke'—from the Jamesian Jerusalem Church. This protograph preserved the ethical rigor, poverty theology, and spiritual resurrection of the earliest Jewish followers. The lineage: Proto-Luke (Jamesian) → Mark (Pauline Reaction) → Matthew & Canonical Luke (Harmonization). Marcion's Evangelion is argued to preserve the unedited Proto-Luke, making his 'heresy' actually preservation. Characterized by: emphasis on Jesus's humanity, disciples' failures, poverty/reversal  themes, "the Living One" resurrection (non-physicalist), absence of Pauline theological  framework.
 
 
 **Source Chain**:
-1. [T] data/04_Early_Christian_History/The Jamesian Protograph.md
-2. [T] data/04_Early_Christian_History/The Lukan Dissonance.md
-3. [S] Klinghardt hypothesis (adapted)
+1. [T] data/04_Early_Christian_History/The Jamesian Protograph_ A Forensic Reconstruction of Proto-Luke.md
+2. [T] data/04_Early_Christian_History/The Jamesian Protograph.md
+3. [T] data/04_Early_Christian_History/The Lukan Dissonance.md
+4. [S] B.H. Streeter, The Four Gospels (1924)
+5. [S] Matthias Klinghardt, Das älteste Evangelium (2015/2021)
+6. [S] Jason BeDuhn, The First New Testament (2013)
+7. [S] Klinghardt hypothesis (adapted)
+8. [P] NA28 Greek NT
 
 **Connections**:
 - → `EARLY-001` (produced_by): Document of Jamesian community
-- → `BIBL-002` (develops): Proto-Luke within Synoptic Problem
-- → `BIBL-004` (supports): Original 'Living One' resurrection
+- → `EARLY-010` (supports): James's theology preserved in Proto-Luke
+- → `BIBL-002` (develops): Proto-Luke within Synoptic Problem; advanced source criticism methodology
+- → `BIBL-004` (supports): Original 'Living One' resurrection; spiritual resurrection as original Proto-Lukan view
+- → `EARLY-009` (describes): Lukan Dissonance as result of later editing
 
 ---
 
@@ -1549,19 +1527,25 @@
 
 **Status**: validated | **Confidence**: medium
 
-> The Magi of the Nativity narrative as last practitioners of the ancient Science of Correspondences - the wisdom that reads divine meaning in natural phenomena. Their journey represents the providential confluence of Persian (Zoroastrian) and Judean (Essene/prophetic) wisdom streams. Daniel as Rab-mag restored prophetic key to Magian tradition.
+> The Magi who visited the infant Jesus were the last custodians of the 'Science of Correspondences'—the ancient wisdom that every natural object corresponds to a spiritual reality. Their journey represents the final act of the 'Ancient Church,' passing its accumulated wisdom to the nascent Christian church. Daniel, as 'Rab-mag' (Chief of the Magi), had re-infused the Magian tradition with genuine prophetic spirit. The gifts (gold, frankincense, myrrh) formed a complete theological statement: celestial goodness (gold), spiritual goodness (frankincense), natural goodness (myrrh). Their journey represents the providential confluence of Persian (Zoroastrian) and  Judean (Essene/prophetic) wisdom streams.
 
 
 **Source Chain**:
-1. [T] data/04_Early_Christian_History/The Luminous Science.md
-2. [T] data/04_Early_Christian_History/The Cycle of Celestial Knowledge.md
-3. [P] Matthew 2:1-12
-4. [P] Swedenborg, Arcana Coelestia on correspondences
+1. [T] data/04_Early_Christian_History/The Luminous Science_ A Re-examination of the Magi.md
+2. [T] data/04_Early_Christian_History/The Luminous Science.md
+3. [T] data/04_Early_Christian_History/The Cycle of Celestial Knowledge.md
+4. [P] Matthew 2:1-12
+5. [P] Swedenborg, Arcana Coelestia §§ 9293, 10252-10262
+6. [W] Encyclopaedia Iranica, ARSACIDS iv. Arsacid religion
+7. [S] Book of Daniel (chapters 1-6)
 
 **Connections**:
 - → `SWED-001` (instantiates): Historical application of correspondence doctrine
-- → `SWED-004` (supports): Magi as carriers of Ancient Word knowledge
+- → `SWED-004` (instantiates): Magi as carriers of Ancient Word knowledge; The Science of Correspondences in historical action
 - → `EARLY-006` (parallels): Zoroastrian wisdom tradition
+- → `SWED-007` (precedes): Magi represent transition from Ancient to Christian church
+- → `MYTH-008` (develops): Echoes of Ancient Word preserved by Magi
+- → `EARLY-001` (parallels): Jamesian movement as similar preservation effort
 
 ---
 
@@ -1621,7 +1605,7 @@
 **Connections**:
 - → `EARLY-007` (develops): Potential dynastic partner
 - → `BIBL-008` (supports): Key figure in Talpiot hypothesis
-- → `BIBL-007` (parallels): Pneumatic witness to spiritual resurrection
+- → `BIBL-004` (parallels): Pneumatic witness to spiritual resurrection
 
 ---
 
@@ -1644,27 +1628,6 @@
 - → `BIBL-002` (instantiates): HCM methodology applied to Paul question
 - → `GNOS-005` (parallels): Paul's singular revelation claims resemble gnostic epistemology
 - → `SWED-005` (contrasts): Paul's assertiveness vs. Swedenborg's love-centered approach
-
----
-
-#### [EARLY-013] The Magi and the Science of Correspondences
-
-**Status**: validated | **Confidence**: medium
-
-> The Magi who visited the infant Jesus were the last custodians of the 'Science of Correspondences'—the ancient wisdom that every natural object corresponds to a spiritual reality. Their journey represents the final act of the 'Ancient Church,' passing its accumulated wisdom to the nascent Christian church. Daniel, as 'Rab-mag' (Chief of the Magi), had re-infused the Magian tradition with genuine prophetic spirit. The gifts (gold, frankincense, myrrh) formed a complete theological statement: celestial goodness (gold), spiritual goodness (frankincense), natural goodness (myrrh).
-
-
-**Source Chain**:
-1. [T] data/04_Early_Christian_History/The Luminous Science_ A Re-examination of the Magi.md
-2. [P] Swedenborg, Arcana Coelestia §§ 9293, 10252-10262
-3. [W] Encyclopaedia Iranica, ARSACIDS iv. Arsacid religion
-4. [S] Book of Daniel (chapters 1-6)
-
-**Connections**:
-- → `SWED-004` (instantiates): The Science of Correspondences in historical action
-- → `SWED-007` (precedes): Magi represent transition from Ancient to Christian church
-- → `MYTH-008` (develops): Echoes of Ancient Word preserved by Magi
-- → `EARLY-001` (parallels): Jamesian movement as similar preservation effort
 
 ---
 
@@ -1775,6 +1738,8 @@
 - → `SWED-005` (instantiates): Gnostic impulse = intellectual proprium
 - → `GNOS-002` (develops): Leads to Path of Affirmation rejection
 - → `EARLY-003` (parallels): Proto-gnostic elements in Paul
+- → `MYTH-002` (parallels): Heart of Division trajectory parallels gnostic cosmic alienation
+- → `CONSC-018` (contrasts): Gnostic impulse represents spiritual Emissary usurpation
 
 ---
 
@@ -1787,11 +1752,17 @@
 
 **Source Chain**:
 1. [T] data/05_Gnostic_Analysis/The Architecture of Hidden Divinity.md
+2. [S] Williams, Michael A. Rethinking 'Gnosticism': An Argument for Dismantling a Dubious Category (1996)
+3. [S] Layton, Bentley. The Gnostic Scriptures (1987)
+4. [P] Swedenborg, Arcana Coelestia §§ 141-161
+5. [P] Swedenborg, Divine Love and Wisdom §§ 395-396
+6. [P] Swedenborg, Heaven and Hell §§ 477-480
 
 **Connections**:
 - → `GNOS-001` (develops): Gnosis path = gnostic impulse trajectory
 - → `SWED-008` (opposes): Regeneration = affirmation path
 - → `SWED-009` (opposes): Glorification impossible in gnosis framework
+- → `CROSS-003` (contradicts): Gnosis path contradicts ruling love of neighbor orientation
 
 ---
 
@@ -1886,7 +1857,7 @@
 - → `GNOS-001` (supports): Provides structural foundation for Gnostic cosmology
 - → `EARLY-002` (contradicts): Fundamental conflict with Jamesian materialist messianism
 - → `GNOS-002` (produces): Paul's 'faith only' enables self-glorification mechanism
-- → `BIBL-007` (contradicts): Severs Cosmic Christ from historical Jesus
+- → `BIBL-004` (contradicts): Severs Cosmic Christ from historical Jesus
 - → `SWED-005` (instantiates): Pneumatic elitism as proprium's spiritual expression
 
 ---
@@ -2153,7 +2124,7 @@
 4. [S] Dead Sea Scrolls (War Scroll, Songs of Sabbath Sacrifice)
 
 **Connections**:
-- → `EARLY-013` (parallels): Magi preserved related angelological knowledge
+- → `EARLY-008` (parallels): Magi preserved related angelological knowledge
 - → `SWED-004` (instantiates): Archangels as personified correspondences
 - → `MYTH-001` (develops): Mythic bricolage in angelology formation
 - → `SWED-017` (instantiates): Divine Bricolage adapting across traditions
@@ -2287,6 +2258,7 @@
 **Connections**:
 - → `SWED-001` (requires): Depends on Doctrine of Correspondences for vertical interpretation
 - → `BIBL-001` (develops): Reframes HCM as preparatory work for spiritual interpretation
+- → `CONSC-018` (parallels): Hemispheric integration provides neurological model for two-tiered method
 
 ---
 
@@ -2394,13 +2366,17 @@
   - Found in: `data/01_Consciousness_Studies/Pure Encounter or Cultural Construct.md`
   - Needed: Original source
 
-- **Claim**: Aboriginal songlines preserve 14,000-year Ice Age geography
-  - Found in: `data/02_Swedenborgian_Theology/Swedenborg's Ancient Word and Science.md`
-  - Needed: Duane Hamacher Indigenous Australian astronomy research citation
-
 - **Claim**: Klinghardt Marcionite paradigm - Mcn as earliest Gospel
   - Found in: `data/03_Biblical_Scholarship/The Canonical Gospels.md`
   - Needed: Original source
+
+- **Claim**: Bauer thesis - heresy preceded orthodoxy in earliest Christianity
+  - Found in: `data/05_Gnostic_Analysis/The Apostle of the Archons.md`
+  - Needed: Original source
+
+- **Claim**: Aboriginal songlines preserve 14,000-year Ice Age geography
+  - Found in: `data/02_Swedenborgian_Theology/Swedenborg's Ancient Word and Science.md`
+  - Needed: Full citation for Hamacher's research on Palawa astronomical traditions
 
 - **Claim**: Feuerverger statistical analysis: 600:1 odds for Talpiot names
   - Found in: `data/03_Biblical_Scholarship/Resurrection Narrative Evolution.md`
@@ -2408,8 +2384,4 @@
 
 - **Claim**: Shimron 2015 geochemical fingerprint matching James Ossuary to Talpiot
   - Found in: `data/03_Biblical_Scholarship/Resurrection Narrative Evolution.md`
-  - Needed: Original source
-
-- **Claim**: Bauer thesis - heresy preceded orthodoxy in earliest Christianity
-  - Found in: `data/05_Gnostic_Analysis/The Apostle of the Archons.md`
   - Needed: Original source

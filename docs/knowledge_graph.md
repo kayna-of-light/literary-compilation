@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-27 09:45*
+*Last exported: 2025-12-27 09:47*
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 75 |
-| Total Connections | 238 |
+| Total Nodes | 76 |
+| Total Connections | 242 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 67
+- **validated**: 68
 - **preliminary**: 5
 - **contested**: 3
 
@@ -24,7 +24,7 @@
 
 - **Cross-Domain** (CROSS): 3
 - **Consciousness Studies** (CONSC): 12
-- **Swedenborgian Theology** (SWED): 20
+- **Swedenborgian Theology** (SWED): 21
 - **Biblical Scholarship** (BIBL): 9
 - **Early Christian History** (EARLY): 13
 - **The Gnostic Impulse** (GNOS): 6
@@ -663,6 +663,27 @@
 - → `SWED-012` (complements): Works with Genesis narrative interpretation
 - → `BIBL-003` (develops): Enables inner sense reading of Scripture
 - → `MYTH-002` (parallels): Prime number evolution in mythic structures
+
+---
+
+#### [SWED-021] The Maximus Homo (Grand Man/Universal Human)
+
+**Status**: validated | **Confidence**: high
+
+> The Maximus Homo is the foundational ontological principle that all of heaven is organized in the form of a single human body—the Divine Human. Every organ, tissue, and fluid in the physical body corresponds to a specific angelic 'province' or community in heaven, distinguished by their spiritual 'use' (function). The brain corresponds to the Third/Celestial Heaven (wisdom), the thorax to the Second/Spiritual Heaven (understanding), the extremities to the First/Natural Heaven (obedience). Individual humans are created in the image of this macrocosm; regeneration integrates one into this living anatomy.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Divine Human Anatomy and Spiritual Correspondence.md
+2. [P] Swedenborg, Arcana Coelestia §§ 3624-3649, 4040-4055
+3. [P] Swedenborg, Heaven and Hell §§ 59-102
+4. [P] Swedenborg, Spiritual Diary (Experientiae Spirituales)
+
+**Connections**:
+- → `SWED-001` (instantiates): Grand Man is the macro-level correspondence
+- → `SWED-019` (requires): Regeneration integrates one into Grand Man
+- → `CONSC-011` (parallels): Cerebrum/cerebellum = will/intellect parallels hemispheric division
+- → `SWED-003` (develops): Heaven's structure is Divine Human form
 
 ---
 

@@ -127,6 +127,7 @@ A well-architected framework:
 | `@research-analyst` | When gaps require external research to fill |
 | `@graph-reviewer` | Before finalizing structure, verify graph integrity |
 | `@consciousness-expert` | For CONSC domain structural decisions |
+| `@critic` | Before finalizing any synthesis, have arguments stress-tested from hostile perspectives |
 
 ## Response Format
 

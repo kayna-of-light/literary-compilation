@@ -132,6 +132,7 @@ For consciousness domain nodes:
 | `@research-analyst` | To formulate questions for the NDE statistical repository |
 | `@knowledge-compiler` | When you identify claims in sources that need extraction |
 | `@graph-reviewer` | After creating CONSC nodes, request domain review |
+| `@critic` | When consciousness claims need adversarial review from materialist/skeptical perspectives |
 
 **Cross-domain handoffs**: When consciousness findings connect to other domains:
 - Theological interpretation → coordinate with Swedenborgian expertise

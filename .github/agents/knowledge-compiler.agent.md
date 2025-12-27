@@ -192,6 +192,7 @@ You can invoke other specialized agents when needed:
 | `@consciousness-expert` | For complex CONSC domain questions requiring specialist knowledge |
 | `@research-analyst` | When you find gaps that need external research questions formulated |
 | `@graph-reviewer` | After completing a batch of nodes, request validation |
+| `@critic` | When claims seem too strong, assumptions need challenge, or arguments need stress-testing |
 
 **Invocation pattern**: Hand off specific tasks to specialists rather than doing shallow work yourself.
 

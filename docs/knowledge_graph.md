@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-27 10:32*
+*Last exported: 2025-12-27 10:39*
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 104 |
-| Total Connections | 352 |
+| Total Nodes | 105 |
+| Total Connections | 357 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 93
+- **validated**: 94
 - **preliminary**: 6
 - **contested**: 5
 
@@ -24,7 +24,7 @@
 
 - **Cross-Domain** (CROSS): 4
 - **Consciousness Studies** (CONSC): 19
-- **Swedenborgian Theology** (SWED): 27
+- **Swedenborgian Theology** (SWED): 28
 - **Biblical Scholarship** (BIBL): 13
 - **Early Christian History** (EARLY): 17
 - **The Gnostic Impulse** (GNOS): 8
@@ -982,6 +982,28 @@
 - → `GNOS-007` (parallels): Paul's gnosis method parallels gnostic self-validation
 - → `EARLY-017` (complements): Historical critique + pneumatological critique converge
 - → `BIBL-012` (develops): Pseudepigraphy shows 'domestication' of already-problematic Paul
+
+---
+
+#### [SWED-028] Swedenborg's Methodological Imperative (Science of the Spiritual)
+
+**Status**: validated | **Confidence**: high
+
+> Swedenborg's acceptance of biblical historicity (Genesis 12 onward) was not uncritical faith but a methodological requirement for his "science of the spiritual world." His entire career—from scientific polymath to theological revelator—was a unified project to map the "anatomy of creation" in both physical and spiritual dimensions. When empirical study of the natural world reached its limits (he could map the brain but not dissect the soul), he turned to Scripture as divine "data set" for spiritual analysis. To question historicity would invalidate his experimental foundation, like an anatomist rejecting the reality of the body being dissected.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Swedenborg's Historical Interpretation of Exodus.md
+2. [P] Swedenborg, Arcana Coelestia (Secrets of Heaven)
+3. [P] Swedenborg, Principia (1734)
+4. [S] Emerson, Ralph Waldo. Representative Men (1850)
+
+**Connections**:
+- → `SWED-001` (develops): Correspondences as scientific method for spiritual investigation
+- → `SWED-022` (develops): Divine Commission transitioned methodology from natural to spiritual science
+- → `CROSS-001` (instantiates): Two-tiered hermeneutic resolves apparent paradox
+- → `BIBL-001` (complements): HCM and correspondential method as complementary tiers
+- → `SWED-004` (supports): Ancient Word distinction shows critical capacity
 
 ---
 

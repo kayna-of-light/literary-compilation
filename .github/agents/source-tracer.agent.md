@@ -98,6 +98,7 @@ A properly traced source chain includes:
 | `@research-analyst` | When a source cannot be traced and needs external research |
 | `@consciousness-expert` | For NDE/DOPS source verification requiring domain expertise |
 | `@graph-reviewer` | After completing a batch of traces, request validation |
+| `@critic` | When source claims seem overreaching or citations may not support what's claimed |
 
 ## Response Format
 

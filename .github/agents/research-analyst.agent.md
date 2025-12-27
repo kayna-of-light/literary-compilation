@@ -171,6 +171,7 @@ Each research question must include:
 | `@knowledge-compiler` | When new information should become nodes |
 | `@consciousness-expert` | For help formulating NDE-specific research questions |
 | `@graph-reviewer` | To identify which untraced claims are highest priority |
+| `@critic` | When formulating questions that challenge framework assumptions or test contested claims |
 
 ## Response Format
 

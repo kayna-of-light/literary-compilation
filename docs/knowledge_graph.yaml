@@ -4566,6 +4566,158 @@ nodes:
     updated: 2024-12-28
     trace_status: complete
 
+  EARLY-016:
+    title: "Quranic Isa as Jamesian Restoration"
+    domain: EARLY
+    status: preliminary
+    confidence: medium
+    
+    definition: >
+      The thesis that the Quranic Jesus (Isa ibn Maryam) functions as a deliberate
+      theological "correction" of Pauline/Gnostic Christianity, restoring the
+      Jamesian/Nazarene Christology that was marginalized by the Imperial Church.
+      The Quran systematically dismantles: (1) Anti-cosmic dualism - Jesus created
+      from dust, ate food (refutes Docetism); (2) Demiurge theology - "Allah is my
+      Lord AND your Lord" (unifies Creator/Savior); (3) Antinomianism - Jesus "confirms
+      the Torah," enjoins Prayer (Salat) and Charity (Zakat). The term "Hawariyun"
+      (disciples) derives from Syriac "Pure Ones" (white-clad), matching descriptions
+      of James the Just and his followers. Surah 61:14's "victory" may be fulfilled
+      by the Islamic conquests dismantling the Byzantine (Pauline) Empire.
+    
+    caveats:
+      - "Controversial thesis in both Islamic and Christian scholarship"
+      - "Assumes historical accuracy of Jamesian portrait"
+      - "Islamic traditional interpretation differs significantly"
+      - "Anachronistic application of modern critical methods to Quran"
+    
+    source_chain:
+      - type: T
+        ref: "data/04_Early_Christian_History/Quranic Isa vs. Early Christianity.md"
+        note: "Full forensic reconstruction"
+      - type: P
+        ref: "Quran 3:50, 3:59, 5:75, 19:31, 19:36, 61:14"
+        note: "Key Quranic passages on Isa"
+      - type: S
+        ref: "Eisenman, Robert. James the Brother of Jesus"
+        note: "Jamesian scholarship"
+      - type: P
+        ref: "Epistle of James (esp. 2:17)"
+        note: "Anti-Pauline polemic"
+    
+    evidence:
+      - "Quran 3:59: Jesus created from dust like Adam - grounds him in material creation"
+      - "Quran 5:75: Jesus and Mary 'both used to eat food' - refutes Docetism"
+      - "Quran 3:50: Jesus 'makes lawful part of what was forbidden' - Law modified, not abolished"
+      - "Quran 19:31: Jesus enjoined Prayer and Charity 'as long as I live' - orthopraxy restored"
+      - "Quran 19:36: 'Allah is my Lord and your Lord' - no Demiurge/Alien God distinction"
+      - "'Hawariyun' from Syriac ḥ-w-r = white/pure - matches James's white linen, Temple piety"
+      - "Hawariyun declare themselves 'Ansar Allah' - typological link to Medinan Helpers"
+      - "James 2:17: 'Faith without works is dead' - anti-Pauline, aligns with Quranic Jesus"
+      - "Early Islamic sources (Ibn Ishaq) preserve ambiguous traditions about Paul"
+    
+    connections:
+      - target: EARLY-002
+        type: supports
+        note: "Vindicates Jamesian Christianity against Pauline"
+      - target: GNOS-007
+        type: opposes
+        note: "Quran systematically dismantles Pauline Gnosticism"
+      - target: EARLY-015
+        type: develops
+        note: "Islam as delayed victory of marginalized faction"
+      - target: SWED-014
+        type: parallels
+        note: "Both restore ethical, love-centered Jesus against abstracted 'Christ'"
+    
+    notes: >
+      "Three Pauline pillars the Quran refutes: (1) Anti-cosmic dualism (material prison)
+      vs. Quran's good creation; (2) Antinomianism (Law as curse) vs. Torah confirmed;
+      (3) Mystery/elite gnosis vs. universal prophetic call. Surah 61:14 'they became
+      dominant (Zahirin)' - interpretations include: argumentative victory (Tawhid logic
+      superior); unseen continuity (re-emerges as Islam); Islamic conquests as fulfillment.
+      The 'correction of the Archons' restores Jamesian monotheism against Imperial Gnosis."
+    
+    created: 2024-12-28
+    updated: 2024-12-28
+    trace_status: partial
+
+  SWED-024:
+    title: "The New Jerusalem (Fourth Church)"
+    domain: SWED
+    status: validated
+    confidence: high
+    
+    definition: >
+      The New Church or New Jerusalem is the Fourth Church in Swedenborg's dispensational
+      schema, established after the Last Judgment of 1757. Unlike prior churches which
+      ended in vastation, the New Jerusalem is founded on: (1) Acknowledgment of the Lord
+      alone as God of heaven and earth; (2) Life according to the Decalogue (repentance).
+      Daniel's statue (gold/silver/brass/iron-clay) represents successive churches from
+      Most Ancient to Christian, all intrinsically linked. The "stone cut without hands"
+      that shatters the image represents Divine Truth (the Lord) destroying external
+      falsified notions to form a new foundation. The "Gentiles" among whom it is established
+      are defined by internal state (good of love, affection for truth) not geography -
+      those who reject the former church's external teachings and are receptive to
+      revealed internal truth.
+    
+    caveats:
+      - "Relies entirely on Swedenborg's visionary claims"
+      - "1757 Last Judgment not verifiable historically"
+      - "'Gradual establishment' allows indefinite deferral"
+    
+    source_chain:
+      - type: T
+        ref: "data/02_Swedenborgian_Theology/Conversation relating the Fourth Church.md"
+        note: "Full dispensational analysis"
+      - type: P
+        ref: "Swedenborg, True Christian Religion"
+        note: "New Church doctrine"
+      - type: P
+        ref: "Swedenborg, Last Judgment; Continuation of Last Judgment"
+        note: "1757 judgment"
+      - type: P
+        ref: "Daniel 2:31-45"
+        note: "Nebuchadnezzar's statue vision"
+      - type: P
+        ref: "Revelation 21:1-2"
+        note: "New Jerusalem descending"
+    
+    evidence:
+      - "Daniel's statue: Head=Most Ancient (gold/love); Breast=Ancient (silver/truth)"
+      - "Belly=Spiritual-Natural (brass); Legs/Feet=Christian (iron/clay - truth mixed falsity)"
+      - "Stone 'cut without hands' = Divine Truth from Lord, not human intelligence"
+      - "Stone growing to fill earth = gradual spread of revealed truth"
+      - "Shattering = destruction of external notions when internal sense revealed"
+      - "'Gentiles' = those in good of love regardless of religion; able to receive truth"
+      - "Former church closed heaven by lack of charity; New Church reopens communication"
+      - "Angels report 'slight hope for Christian church, more for distant peoples'"
+      - "New Church increases 'successively among many' - gradual establishment"
+    
+    connections:
+      - target: SWED-002
+        type: requires
+        note: "New Church requires restored influx after 1757"
+      - target: SWED-008
+        type: develops
+        note: "Corporate regeneration of humanity"
+      - target: SWED-006
+        type: parallels
+        note: "Returns to Most Ancient state via new revelation"
+      - target: BIBL-010
+        type: supports
+        note: "Path of Affirmation as New Church trajectory"
+    
+    notes: >
+      "Key distinction: 'Gentiles' not geographic but spiritual - those with good of love
+      but not yet in truths. Former church members 'rich in knowledge' reject new truth
+      (eye of needle). Churches as single 'image' = linked organism declining from head
+      (wisdom) to feet (ignorance). Stone doesn't reform image but SHATTERS it - complete
+      new foundation. Internal vs. external reading of Word is the decisive factor."
+    
+    created: 2024-12-28
+    updated: 2024-12-28
+    trace_status: complete
+
 # =============================================================================
 # CONNECTIONS INDEX
 # Redundant but useful for quick traversal - auto-generated by scripts
@@ -4917,6 +5069,18 @@ connections:
   - [EARLY-015, contradicts, EARLY-002]
   - [EARLY-015, supports, GNOS-001]
   - [EARLY-015, parallels, EARLY-014]
+  
+  # NEW: EARLY-016 (Quranic Isa) connections
+  - [EARLY-016, supports, EARLY-002]
+  - [EARLY-016, opposes, GNOS-007]
+  - [EARLY-016, develops, EARLY-015]
+  - [EARLY-016, parallels, SWED-014]
+  
+  # NEW: SWED-024 (New Jerusalem) connections
+  - [SWED-024, requires, SWED-002]
+  - [SWED-024, develops, SWED-008]
+  - [SWED-024, parallels, SWED-006]
+  - [SWED-024, supports, BIBL-010]
 
 # =============================================================================
 # UNTRACED CLAIMS

@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-27 10:41*
+*Last exported: 2025-12-27 09:59*
 
 ---
 
@@ -10,24 +10,24 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 106 |
-| Total Connections | 362 |
+| Total Nodes | 113 |
+| Total Connections | 399 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 95
+- **validated**: 102
 - **preliminary**: 6
 - **contested**: 5
 
 ### By Domain
 
-- **Cross-Domain** (CROSS): 4
-- **Consciousness Studies** (CONSC): 19
-- **Swedenborgian Theology** (SWED): 29
+- **Cross-Domain** (CROSS): 5
+- **Consciousness Studies** (CONSC): 20
+- **Swedenborgian Theology** (SWED): 33
 - **Biblical Scholarship** (BIBL): 13
 - **Early Christian History** (EARLY): 17
-- **The Gnostic Impulse** (GNOS): 8
+- **The Gnostic Impulse** (GNOS): 9
 - **Mythological Studies** (MYTH): 16
 
 ---
@@ -433,6 +433,29 @@
 - → `CONSC-016` (instantiates): Fireweaver case shows same Being identified differently by different cultures
 - → `SWED-001` (parallels): Archetype 'clothing' parallels correspondence—same spiritual reality, different natural forms
 - → `CONSC-003` (develops): Shared post-mortem environment with variable coherence properties
+
+---
+
+#### [CONSC-020] Restorative Incarnation (70% Violent Death Pattern)
+
+**Status**: validated | **Confidence**: high
+
+> A proposed explanation for the strongest past-life memory data (UVA/DOPS cases):  children with verified past-life memories show over 70% prevalence of violent or  premature death in the remembered life. This is NOT karmic punishment but Divine  mercy—a "second chance" for souls whose character formation was traumatically  interrupted. The soul returns to complete its intended "seed-state" development  before proceeding on the normative linear path. Exceptional, not normative; restorative,  not punitive.
+
+
+**Source Chain**:
+1. [T] data/00_Framework/A Coherent Framework for Spiritual History.md
+2. [T] data/01_Consciousness_Studies/A Synthesized Model of Post-Mortem Existence.md
+3. [E] Stevenson, Ian. Twenty Cases Suggestive of Reincarnation (1966)
+4. [E] Tucker, Jim. Life Before Life (2005)
+5. [P] Swedenborg, Heaven and Hell §§ 445-452
+
+**Connections**:
+- → `CONSC-002` (develops): Explains the pattern in DOPS data
+- → `CONSC-005` (instantiates): Second path in hybrid post-mortem model
+- → `SWED-008` (requires): Restorative life completes regeneration process
+- → `CROSS-003` (supports): Ruling love formation requires complete earthly experience
+- → `CONSC-010` (contrasts): Restorative (incomplete) vs Volunteer (complete) returns
 
 ---
 
@@ -1026,6 +1049,100 @@
 - → `SWED-005` (describes): Proprium manifests differently in male/female forms
 - → `SWED-008` (develops): Regeneration integrates masculine/feminine within psyche
 - → `SWED-025` (supports): Divine Human = union of Divine Good and Divine Truth
+
+---
+
+#### [SWED-030] Conceptual Metaphor Theory (CMT) as Representative Language
+
+**Status**: validated | **Confidence**: high
+
+> The cognitive linguistics framework proposing that all abstract thought is grounded  in concrete, sensorimotor experiences through systematic conceptual metaphors (e.g.,  "understanding is seeing", "time is space"). This provides scientific substantiation  for Swedenborg's "representative language" of the Most Ancient Church—the innate  perception of spiritual meaning in natural objects ("high mountain" = "heaven"). CMT  demonstrates this as the foundational cognitive architecture of human thought, not a  lost mystical ability but the very mechanism by which meaning operates.
+
+
+**Source Chain**:
+1. [T] data/00_Framework/A Coherent Framework for Spiritual History.md
+2. [S] Lakoff & Johnson, Metaphors We Live By (1980)
+3. [S] Lakoff & Johnson, Philosophy in the Flesh (1999)
+4. [P] Swedenborg, Arcana Coelestia §§ 920, 1409, 2896
+5. [S] Wynn, Thomas. The Evolution of Tools and Symbolic Behaviour (2002)
+
+**Connections**:
+- → `SWED-006` (supports): Provides scientific mechanism for Most Ancient Church cognition
+- → `SWED-001` (instantiates): CMT as natural-plane description of correspondences
+- → `SWED-010` (complements): CMT explains cognitive basis for internal respiration's thought mode
+- → `CROSS-001` (instantiates): Perfect example of two-tier epistemology in action
+- → `MYTH-002` (supports): Metaphorical thinking as basis for mythic meaning
+
+---
+
+#### [SWED-031] Gestural Theory of Language Origin
+
+**Status**: validated | **Confidence**: medium
+
+> The hypothesis that human language originated not in vocal utterances but in manual  and facial gestures, later transitioning to articulate speech. This provides scientific  substantiation for Swedenborg's description of "lip-speech" in the Most Ancient Church— communication through "innumerable changes of the countenance and lips" without  vocalization. Paleontological evidence: tool use freed facial musculature from food  processing, enabling co-optation for complex gestural communication long before  Homo sapiens.
+
+
+**Source Chain**:
+1. [T] data/00_Framework/A Coherent Framework for Spiritual History.md
+2. [S] Corballis, Michael. From Hand to Mouth (2002)
+3. [S] Arbib, Michael. How the Brain Got Language (2012)
+4. [P] Swedenborg, Arcana Coelestia §§ 607-608, 1118-1120
+5. [S] Wrangham, Richard. Catching Fire (2009)
+
+**Connections**:
+- → `SWED-006` (supports): Scientific mechanism for Most Ancient Church communication
+- → `SWED-010` (complements): Internal respiration paired with gestural communication
+- → `SWED-007` (describes): The Fall as transition from gesture to vocal speech
+- → `SWED-030` (parallels): Both provide scientific grounding for primordial cognition
+- → `CROSS-001` (instantiates): Two-tier framework applied to language evolution
+
+---
+
+#### [SWED-032] Allegorical Word (Genesis 1-11)
+
+**Status**: validated | **Confidence**: high
+
+> The first external form of the Word, comprising Genesis 1-11, characterized as "made-up  history" (Swedenborg) with little to no historical relevance. This is pure allegory,  every detail encoding spiritual correspondences. Created through "mythic bricolage"— Israelite scribes consciously subverted Mesopotamian myths (Enuma Elish) while Divine  influx unconsciously guided their editorial choices to create a perfect spiritual vessel.  Distinct from the Historical Word (Genesis 12+) which uses actual events as correspondences.
+
+
+**Source Chain**:
+1. [T] data/00_Framework/A Coherent Framework for Spiritual History.md
+2. [P] Swedenborg, Arcana Coelestia §§ 1020, 1401, 1403
+3. [S] Smith, Mark S. The Priestly Vision of Genesis 1 (2010)
+4. [T] data/06_Mythological_Studies/Genesis Creation Myth's ANE Context.md
+5. [T] data/06_Mythological_Studies/The Two Hearts of Creation.md
+
+**Connections**:
+- → `SWED-032` (precedes): Allegorical Word precedes Historical Word chronologically
+- → `SWED-007` (describes): The Fall narrative is prime allegorical content
+- → `MYTH-001` (instantiates): Genesis 1-11 as product of mythic bricolage
+- → `CONSC-001` (requires): CDE provides mechanism for influx-guided composition
+- → `CROSS-002` (instantiates): First external form in Divine Bricolage sequence
+- → `BIBL-003` (contrasts): Allegorical vs Historical as two distinct Word forms
+
+---
+
+#### [SWED-033] Historical Word (Patriarchs & Exodus)
+
+**Status**: validated | **Confidence**: high
+
+> The second external form of the Word, beginning with Genesis 12 (Abraham), characterized  by actual historical events chosen and guided by Divine influx to serve as perfect  correspondences. Distinct from Allegorical Word—these events HAPPENED, but were  providentially arranged so their literal details encode spiritual truths. The Patriarchs'  lives and Exodus narrative are "real history made correspondential" through divine  orchestration of both events and their later scribal synthesis.
+
+
+**Source Chain**:
+1. [T] data/00_Framework/A Coherent Framework for Spiritual History.md
+2. [P] Swedenborg, Arcana Coelestia §§ 1401, 3404, 6692, 8939
+3. [T] data/06_Mythological_Studies/Forging a Nation in Memory.md
+4. [T] data/06_Mythological_Studies/Exodus Narrative_ Mythic Bricolage Study.md
+5. [S] Finkelstein & Silberman, The Bible Unearthed (2001)
+
+**Connections**:
+- → `SWED-032` (follows): Historical Word chronologically follows Allegorical Word
+- → `BIBL-003` (instantiates): Exodus as prime example of Historical Word
+- → `MYTH-001` (requires): Memory synthesis = bricolage mechanism
+- → `SWED-003` (describes): Historical events as vessels for influx
+- → `SWED-008` (describes): Exodus encodes regeneration process
+- → `CROSS-002` (instantiates): Second stage in Divine Bricolage sequence
 
 ---
 
@@ -1797,6 +1914,31 @@
 
 ---
 
+#### [GNOS-009] Three Gnostic Dismantling Tactics
+
+**Status**: validated | **Confidence**: high
+
+> A systematic analysis revealing three consistent strategies used by gnostic and  channeled systems to dismantle the specific, ultimate identity of the Divine Human  (Jesus Christ). While cosmologically incoherent, the strategy is "ruthlessly  consistent": attack the pure identification of the Being of Light encountered in  NDEs. The tactics: (A) Splitting—separate fallible Jesus from impersonal Christ  principle; (B) Renaming—change the name to break identification; (C) Hybridizing— use Christian language to deliver gnostic self-glorification message.
+
+
+**Source Chain**:
+1. [T] data/00_Framework/A Coherent Framework for Spiritual History.md
+2. [T] data/05_Gnostic_Analysis/The Architecture of Hidden Divinity.md
+3. [P] Irenaeus, Against Heresies Book I
+4. [S] Blavatsky, The Secret Doctrine (1888)
+5. [S] The Urantia Book (1955)
+6. [S] A Course in Miracles (1976)
+7. [S] The Law of One (Ra Material) (1981-1984)
+
+**Connections**:
+- → `GNOS-001` (instantiates): Three tactics as gnostic impulse mechanisms
+- → `GNOS-006` (produced_by): Proprium generates these dismantling strategies
+- → `CONSC-008` (opposes): Directly attacks NDE Being of Light identification
+- → `SWED-005` (reveals): Tactics manifest proprium's need to eliminate external Lord
+- → `BIBL-010` (instantiates): Defines the Path of Gnosis operationally
+
+---
+
 ### Mythological Studies
 *Bricolage, proto-myths, ANE parallels*
 
@@ -2206,6 +2348,29 @@
 - → `GNOS-001` (supports): SBNR as modern instantiation of Gnostic impulse
 - → `SWED-004` (supports): Teleological bias validates Correspondences
 - → `CONSC-013` (parallels): Proprium/Influx parallels Emissary/Master model
+
+---
+
+#### [CROSS-005] Historical Jesus vs Christ of Faith (Body/Soul Duality)
+
+**Status**: validated | **Confidence**: high
+
+> A reinterpretation of the Historical-Critical Method's distinction between the  "historical Jesus" (reconstructed through secular scholarship) and the "Christ of  faith" (theological interpretation). The framework recognizes this as an unintentional  but precise description of Incarnational dual nature: Historical Jesus = the external,  assumed Human from Mary (finite, temptable); Christ of Faith = the internal Divine  from Jehovah (infinite influx). Same person, two aspects—Body and Soul of the Word  Made Flesh.
+
+
+**Source Chain**:
+1. [T] data/00_Framework/A Coherent Framework for Spiritual History.md
+2. [S] Ehrman, Bart. Jesus: Apocalyptic Prophet of the New Millennium (1999)
+3. [S] Dunn, James D.G. Jesus Remembered (2003)
+4. [P] Swedenborg, True Christian Religion §§ 89-100
+5. [P] Swedenborg, Doctrine of the Lord §§ 12-17, 29-36
+
+**Connections**:
+- → `SWED-009` (describes): Glorification as the process uniting Historical Jesus and Christ of Faith
+- → `BIBL-001` (develops): HCM distinction reinterpreted through Swedenborgian lens
+- → `BIBL-011` (supports): Criterion of Temptation relies on this body/soul framework
+- → `CROSS-001` (instantiates): Perfect example of two-tiered epistemology
+- → `SWED-025` (parallels): Divine Human in Ultimates = Historical Jesus as ultimate vessel
 
 ---
 

@@ -5,6 +5,7 @@
 name: source-tracer
 description: Traces citations to original sources, verifies Gemini references, resolves untraced claims, and ensures scholarly integrity of the knowledge graph.
 tools: ["read", "edit", "search", "web", "agent"]
+infer: true
 ---
 
 # Source Tracer Agent

@@ -5,6 +5,7 @@
 name: graph-reviewer
 description: Reviews knowledge graph for accuracy, validates source chains, checks for contradictions, ensures scholarly standards, and maintains graph integrity.
 tools: ["read", "edit", "search", "execute", "agent"]
+infer: true
 ---
 
 # Graph Reviewer Agent

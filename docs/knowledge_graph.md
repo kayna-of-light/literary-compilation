@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-27 09:54*
+*Last exported: 2025-12-27 10:17*
 
 ---
 
@@ -10,25 +10,25 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 84 |
-| Total Connections | 275 |
+| Total Nodes | 100 |
+| Total Connections | 331 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 74
+- **validated**: 90
 - **preliminary**: 6
 - **contested**: 4
 
 ### By Domain
 
-- **Cross-Domain** (CROSS): 3
-- **Consciousness Studies** (CONSC): 12
-- **Swedenborgian Theology** (SWED): 24
-- **Biblical Scholarship** (BIBL): 10
+- **Cross-Domain** (CROSS): 4
+- **Consciousness Studies** (CONSC): 19
+- **Swedenborgian Theology** (SWED): 26
+- **Biblical Scholarship** (BIBL): 11
 - **Early Christian History** (EARLY): 16
-- **The Gnostic Impulse** (GNOS): 7
-- **Mythological Studies** (MYTH): 12
+- **The Gnostic Impulse** (GNOS): 8
+- **Mythological Studies** (MYTH): 16
 
 ---
 
@@ -267,6 +267,172 @@
 - → `CROSS-003` (supports): Influx as manifestation of fundamental consciousness
 - → `SWED-003` (instantiates): Contemporary application of influx doctrine
 - → `CONSC-011` (complements): Right hemisphere aligns with Influx mode
+
+---
+
+#### [CONSC-013] The Master and Emissary (Hemispheric Integration Model)
+
+**Status**: validated | **Confidence**: high
+
+> Iain McGilchrist's neuro-philosophical model posits that the brain's two hemispheres attend to reality in fundamentally different ways, creating two distinct ontologies. The Right Hemisphere ("Master") perceives the world holistically: broad attention, context-dependent, relational, embodied, empathic, and aware of its limitations. The Left Hemisphere ("Emissary") operates analytically: narrow focus, decontextualized, utilitarian, abstract, and prone to mistaking its map for the territory (confabulation). When the Emissary usurps the Master's role, the result is greed, fear, ego-centrism, materialism, and the "meaning crisis." Neuroplasticity allows intentional attention (contemplative practices) to restore integration. The model aligns with process philosophy (Whitehead), implicate order (Bohm), and participatory universe (Wheeler).
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Brain, Myth, and Conscious Choice.md
+2. [S] Iain McGilchrist, The Master and His Emissary (2009); The Matter with Things (2021)
+3. [S] Whitehead, Process and Reality
+4. [S] David Bohm, Wholeness and the Implicate Order
+5. [S] John Archibald Wheeler, 'It from Bit'
+
+**Connections**:
+- → `MYTH-015` (supports): Emissary = Heart of Division (Enuma Elish); Master = Heart of Unity (Genesis)
+- → `SWED-005` (parallels): Emissary usurpation parallels proprium's self-assertion
+- → `GNOS-001` (describes): Gnostic impulse as Emissary's spiritual pathology
+- → `SWED-008` (supports): Regeneration as hemispheric reintegration
+- → `CROSS-003` (develops): Consciousness as fundamental—participatory universe
+
+---
+
+#### [CONSC-014] The Volunteer Soul Incarnation (Three-Path Cosmology)
+
+**Status**: validated | **Confidence**: high
+
+> A synthesized model distinguishing three purposeful incarnational pathways: (1) The Normative Linear Progression—the default path where a single earthly life serves as a "seed-state" for eternal spiritual development; (2) The Restorative Incarnation—an exceptional path of divine mercy for souls whose development was traumatically interrupted (supported by DOPS data: 70%+ violent death correlation, birthmark correspondences); (3) The Volunteer Soul Incarnation—a pre-incarnate covenant where an advanced consciousness freely chooses physical life for collective service, carrying a "predetermined mission" to introduce higher knowledge or spiritual influence. The profile is grounded in two complementary data streams: "Choice" data (child intermission memories of choosing parents) and "Commission" data (NDE revelations of life purpose).
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Volunteer Soul Incarnation Profile Building.md
+2. [E] DOPS (Stevenson, Tucker), violent death correlation data
+3. [S] PMC research on Spontaneous Spiritual Awakenings
+4. [S] Psychology research on 'sense of mission'
+5. [T] data/01_Consciousness_Studies/A Synthesized Model of Post-Mortem Existence.md
+
+**Connections**:
+- → `CONSC-004` (develops): Extends post-mortem framework with incarnational typology
+- → `CONSC-003` (supports): NDE commissioning data supports consciousness survival
+- → `SWED-008` (parallels): Mission activation resembles regeneration's call narrative
+- → `EARLY-007` (instantiates): Swedenborg's Delft Christophany as volunteer activation
+- → `SWED-003` (develops): Mission as specialized influx operation
+
+---
+
+#### [CONSC-015] The Cognitive Fall Hypothesis (From Internal Perception to External Concept)
+
+**Status**: validated | **Confidence**: high
+
+> A synthesis of Swedenborgian theology, paleoanthropology, and cognitive science proposing that the biblical "Fall" represents a multi-millennial cognitive transition from internal, intuitive perception to external, conceptual understanding. The primordial state ("Golden Age") featured: (1) Internal respiration linked to vagus nerve stimulation enabling direct spiritual perception; (2) "Lip-speech" (facial mimetic communication) providing immediate empathic connection; (3) "Representative Language" (perceiving spiritual meaning in natural objects). The Fall into articulate speech and writing displaced understanding to an "outer layer barely capable of understanding"— creating a gap between signifier and signified where the "lie" becomes possible. This cognitive architecture explains why concepts are inherently "false" (limited, displaced from living reality).
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Evolution of God Concepts and Consciousness.md
+2. [P] Swedenborg, Arcana Coelestia
+3. [S] Gestural Theory of Language Origins
+4. [S] Conceptual Metaphor Theory (Lakoff, Johnson)
+5. [S] Neurotheology research (Newberg et al.)
+6. [S] CSR teleological bias research
+
+**Connections**:
+- → `SWED-004` (develops): Correspondences as primordial cognitive architecture
+- → `CONSC-013` (parallels): Fall = Left Hemisphere (Emissary) usurping Right (Master)
+- → `SWED-005` (describes): Proprium arises from external/conceptual mode
+- → `MYTH-015` (supports): Heart of Division emerges from Fallen cognitive architecture
+- → `SWED-020` (develops): Ancient Word as memory system from pre-Fall state
+
+---
+
+#### [CONSC-016] The Personality Match Thesis (NDE Jesus Identification)
+
+**Status**: validated | **Confidence**: high
+
+> A phenomenological model resolving the "pure identification vs. cultural construct" debate in NDE research. The identification of Jesus in NDEs is neither cultural projection nor mere iconography, but a "pure identification based on a direct personality match." The "Being of Light" possesses a unique, consistent personality: unconditional love, total awareness with total acceptance, non-judgmental ("judgment had always been human; God only teaches"). This personality is a perfect correspondence to the "Divine Human" of the Gospels. Crucially, the "Dogma Paradox" proves the experience is not cultural projection: the NDE-Jesus consistently delivers a message of universal love that supersedes and contradicts the exclusivist dogma of the experiencer's background.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Pure Encounter or Cultural Construct.md
+2. [T] data/02_Swedenborgian_Theology/The Divine Human in Ultimates.md
+3. [E] Van Lommel, Lancet study (2001)
+4. [E] Greyson, pre-1975/post-1975 comparison study
+5. [E] Greyson & Ohkado, Japanese/Western NDE comparison
+
+**Connections**:
+- → `CONSC-003` (develops): Extends NDE evidence with identification analysis
+- → `SWED-025` (supports): Personality match validates Divine Human profile
+- → `GNOS-001` (contradicts): NDE Jesus contradicts gnostic self-divinity
+- → `SWED-005` (opposes): NDE Being is non-judgmental; proprium judges
+- → `CONSC-009` (contrasts): Personality match vs. cultural construction of Christ figure
+
+---
+
+#### [CONSC-017] NDE Multi-Axial Phenomenological Framework
+
+**Status**: validated | **Confidence**: high
+
+> A comprehensive methodological framework for classifying and analyzing near-death experiences across four independent dimensions. Developed using phenomenological bracketing (epoché) to describe NDE components without metaphysical commitment. The framework treats NDEs as modular phenomena where each axis varies independently, avoiding the reductionism of single-spectrum classifications.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Researching Near-Death Experiences.md
+2. [E] NDERF Database (5,300+ accounts)
+3. [E] IANDS Archives
+4. [S] Ring, Kenneth. Life at Death (1980)
+5. [S] Greyson, Bruce. NDE Scale and Studies
+
+**Connections**:
+- → `CONSC-001` (supports): Provides empirical data structure for consciousness survival hypothesis
+- → `CONSC-003` (develops): Systematizes post-mortem experience phenomenology
+- → `CONSC-016` (complements): Axis III (encounters) relates to Being identification analysis
+- → `SWED-003` (parallels): Life review parallels influx-based moral education
+- → `SWED-008` (parallels): NDE transformation parallels regeneration process
+- → `CONSC-007` (supports): Empirical taxonomy for testing hybrid post-mortem model
+
+---
+
+#### [CONSC-018] Hemispheric Integration Model (Master and Emissary)
+
+**Status**: validated | **Confidence**: high
+
+> A neuro-philosophical framework derived from Iain McGilchrist's work positing that the brain's hemispheric division creates two fundamentally different modes of attending to reality. The right hemisphere ("Master") perceives the world holistically, relationally, and contextually—experiencing flow, presence, and embodied connection. The left hemisphere ("Emissary") is a powerful but subordinate tool that creates abstract, manipulable representations by decontextualizing and fragmenting experience. The relationship between these hemispheres—whether cooperative or usurped—determines both individual well-being and cultural trajectories.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Brain, Myth, and Conscious Choice.md
+2. [S] McGilchrist, Iain. The Master and His Emissary (2009)
+3. [S] McGilchrist, Iain. The Matter With Things (2021)
+4. [S] Whitehead, Alfred North. Process and Reality (1929)
+5. [S] Bohm, David. Wholeness and the Implicate Order (1980)
+6. [S] Wheeler, John Archibald. 'Participatory Universe' concept
+
+**Connections**:
+- → `CROSS-001` (supports): Provides neurological basis for two-tiered hermeneutic
+- → `SWED-005` (parallels): Proprium (self-love) = Emissary usurpation at spiritual level
+- → `SWED-003` (parallels): Influx operates through right-hemisphere openness to context/meaning
+- → `GNOS-001` (contrasts): Gnostic impulse as spiritual Emissary usurpation (intellect over love)
+- → `MYTH-001` (instantiates): Enuma Elish/Genesis contrast as archetypal hemispheric divergence
+- → `CONSC-002` (develops): Neuroplasticity as mechanism for CDE hypothesis
+- → `SWED-008` (parallels): Regeneration as progressive hemispheric integration at spiritual level
+- → `CONSC-017` (complements): NDE framework operates within Master's holistic perception
+
+---
+
+#### [CONSC-019] Group NDE Phenomenology and Inter-Subjective Coherence
+
+**Status**: validated | **Confidence**: high
+
+> Group Near-Death Experiences (GNDEs) occur when multiple individuals undergoing simultaneous life-threatening trauma report sharing a single, interactive, non-physical experience. Distinguished from Shared-Death Experiences (SDEs) where only one participant is dying. GNDEs present unique evidential challenges to solipsistic (brain-based) NDE models, which predict private, non-interactive hallucinations. Analysis reveals a spectrum of inter-subjective coherence—from "interpretive reality" (shared stimuli, divergent identifications) to "consensual reality" (high-fidelity shared perception of concrete details).
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Group NDE Report Analysis.md
+2. [E] Eulitt, May & Hoyer, Stephen. Fireweaver: The Story of a Life, a Near-Death, and Beyond
+3. [E] Nothing Better Than Death: Insights from Sixty-Two Profound Near-Death Experiences
+4. [W] NEAR-DEATH.com: A Group of Firefighters Near-Death Experience
+
+**Connections**:
+- → `CONSC-017` (develops): Adds Axis V (Inter-Subjective Coherence) to Multi-Axial Framework
+- → `CONSC-001` (supports): Strongest evidence against purely brain-based NDE explanations
+- → `CONSC-016` (instantiates): Fireweaver case shows same Being identified differently by different cultures
+- → `SWED-001` (parallels): Archetype 'clothing' parallels correspondence—same spiritual reality, different natural forms
+- → `CONSC-003` (develops): Shared post-mortem environment with variable coherence properties
 
 ---
 
@@ -750,6 +916,51 @@
 
 ---
 
+#### [SWED-025] The Divine Human in Ultimates (Glorification Theology)
+
+**Status**: validated | **Confidence**: high
+
+> A theological-phenomenological model synthesizing HCM scholarship, Swedenborgian theology, and NDE research to profile the "Actual Jesus of Love." The "Historical Jesus" (E.P. Sanders' "bedrock facts") is not opposed to the "Christ of Faith" but serves as the necessary external "vessel" (ultimate) for Divine Influx. Jesus's life was a process of "Glorification"—the progressive union of finite human nature (from Mary) with infinite Divine nature (from Jehovah)—achieved through systematic conquest of the proprium in temptation. Two alternating states: Exinanition (emptying, human consciousness, separation from Father) and Glorification (union, Divine consciousness, "I and the Father are one"). The result is a new ontological category: the "Divine Human" with a "Divine Natural" body—neither pure spirit nor finite flesh but the bridge between Infinite and Finite.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/The Divine Human in Ultimates.md
+2. [S] E.P. Sanders, Jesus and Judaism (1985); The Historical Figure of Jesus (1993)
+3. [P] Swedenborg, True Christian Religion; Doctrine of the Lord
+4. [P] Gospel accounts (Luke 24:42; John 20:15)
+
+**Connections**:
+- → `BIBL-001` (develops): Reframes HCM findings as spiritual preparation
+- → `SWED-008` (complements): Glorification as Christ's regeneration process
+- → `CONSC-003` (supports): NDE 'Being of Light' validates Glorified Human
+- → `CROSS-002` (instantiates): Final expression of Divine Bricolage
+- → `SWED-005` (opposes): Glorification = systematic conquest of proprium
+
+---
+
+#### [SWED-026] The Fourth Church (New Jerusalem Dispensation)
+
+**Status**: validated | **Confidence**: high
+
+> The prophesied "New Church" arising after the spiritual consummation of the prior Christian age. The Last Judgment (executed in the spiritual world in 1757, per Swedenborg) shattered the "falsity from self-intelligence" (faith alone doctrine) that had suffocated the Third Church. Daniel's statue vision provides the archetypal narrative: Gold (Most Ancient Church, celestial love) → Silver (Ancient Church, charity) → Brass (Third Succeeding, obedience) → Iron/Clay (Christian Church, external truth mixed with self-intelligence). The "stone cut without hands" represents pure Divine Truth shattering human-constructed religious systems, becoming a "great rock filling the earth." Two essentials define the New Church: (1) acknowledging the Lord alone as God of heaven and earth; (2) life according to the Decalogue (turning from evil, doing good). This is the "Church of Charity and Life"—direct antidote to "faith alone."
+
+
+**Source Chain**:
+1. [T] data/00_Framework/The Heart of the Matter_ A New Church Founded on Love.md
+2. [P] Swedenborg, Apocalypse Revealed; True Christian Religion
+3. [P] Daniel 2:31-45
+4. [P] Revelation 21:1-2
+5. [P] John 19:26-27
+
+**Connections**:
+- → `SWED-008` (develops): New Church as goal of regeneration process
+- → `SWED-005` (opposes): Faith alone as proprium's theological form
+- → `GNOS-001` (contrasts): External church without internal vs. internal church
+- → `SWED-003` (requires): New Church requires reopened influx channels
+- → `CROSS-002` (instantiates): New Church as culmination of Divine Bricolage
+
+---
+
 ### Biblical Scholarship
 *HCM, Gospel formation, textual criticism*
 
@@ -944,6 +1155,29 @@
 - → `SWED-018` (supports): Path of Affirmation validates Divine Human in ultimates
 - → `CONSC-004` (supports): NDE data provides empirical evidence
 - → `SWED-014` (supports): Affirms the Actual Jesus of Love
+
+---
+
+#### [BIBL-011] The Criterion of Temptation (Methodological Refinement)
+
+**Status**: validated | **Confidence**: high
+
+> A proposed replacement for the standard "Criterion of Embarrassment" used in Historical Jesus studies. The Criterion of Embarrassment assumes that narratives showing Jesus in weakness, subordination, or ignorance are historically authentic because the early church would not have invented them. This new criterion argues that this assumption is flawed because it presupposes a PAULINE theological baseline (High Christology, static perfection) as the default for earliest Christianity. When the JAMESIAN baseline is restored (Orthopraxy, dynamic perfection through struggle), these "embarrassing" moments become not accidental survivals but INTENTIONAL theological assertions—evidence that Jesus CONQUERED temptation, not that he was immune to it.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/Re-evaluating Gospel Embarrassment.md
+2. [S] Bauer, Walter. Orthodoxy and Heresy in Earliest Christianity (1934/1971)
+3. [P] James 1:12
+4. [P] Hebrews 4:15
+5. [T] data/05_Gnostic_Analysis/The Apostle of the Archons.md
+
+**Connections**:
+- → `EARLY-005` (develops): Operationalizes Jamesian theology for textual criticism
+- → `GNOS-001` (contrasts): Pauline 'embarrassment' anxiety = Gnostic discomfort with matter
+- → `BIBL-001` (develops): Refinement of Historical-Critical Method criteria
+- → `SWED-025` (parallels): Glorification = divine through dynamic process, not static state
+- → `CROSS-001` (instantiates): Two-tiered reading: HCM identifies 'weakness' facts; framework reveals them as strength
 
 ---
 
@@ -1402,6 +1636,29 @@
 
 ---
 
+#### [GNOS-008] The Gnostic Dismantling Strategy (Non-Religious Christologies)
+
+**Status**: validated | **Confidence**: high
+
+> A systematic analysis of how the "Path of Gnosis" consistently dismantles the "Divine Human" correspondence through two primary tactics: (1) Splitting the Identity—separating the human "Jesus" from an impersonal "Christ" principle (Valentinian Gnosticism, Theosophy, Urantia Book, ACIM, Law of One); (2) Changing the Name—replacing "Jesus Christ" with alternative identifications ("Sananda," "Jmmanuel," "Michael of Nebadon"). This framework is cosmologically incoherent ("a thousand conflicting ways") but unified in its strategic goal: preventing "pure identification" of the Lord in ultimates. The "Path of Affirmation" (NDE data) stands as the empirical counter-evidence: experiencers consistently identify the Being of Light as Jesus through "personality match," not cultural projection.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/A Comparative Analysis of Non-Religious Christologies.md
+2. [S] Valentinian Gnostic texts (Gospel of Philip, etc.)
+3. [S] Blavatsky, The Secret Doctrine; Leadbeater/Besant
+4. [S] A Course in Miracles; Law of One (Ra Material)
+5. [E] NDE research (DOPS, IANDS)
+
+**Connections**:
+- → `GNOS-001` (develops): Modern manifestations of core gnostic impulse
+- → `CONSC-016` (contradicts): Personality match thesis refutes dismantling
+- → `SWED-025` (opposes): Dismantling targets Divine Human correspondence
+- → `GNOS-002` (instantiates): Self-glorification via 'establishing ourselves as prime suspects'
+- → `CONSC-009` (supports): Hybrid spiritualities as sophisticated gnosis
+
+---
+
 ### Mythological Studies
 *Bricolage, proto-myths, ANE parallels*
 
@@ -1644,6 +1901,94 @@
 
 ---
 
+#### [MYTH-013] Exodus as Mythic Bricolage (Three-Memory Model)
+
+**Status**: validated | **Confidence**: high
+
+> The Exodus narrative is a masterpiece of mythic bricolage—a "redacted memory" forged by Iron Age scribes from three authentic but chronologically and causally disconnected historical fragments: (1) Memory of Cataclysm: The plagues correspond to the Thera volcanic eruption (c. 1600 BCE), validated by geomythology and physical evidence (Thera pumice at Tell el-Dab'a in Goshen); (2) Memory of Deliverance: The parting of the Sea of Reeds corresponds to the oceanographic phenomenon of wind setdown in the Nile Delta, validated by Carl Drews' computer modeling; (3) Memory of Liberation: The freedom theme reflects the Late Bronze Age Collapse (c. 1200 BCE) when Egyptian withdrawal from Canaan liberated Shasu and 'Apiru groups. Scribal bricoleurs "rotated" these memories into a linear cause-and-effect narrative serving as Israel's charter myth.
+
+
+**Source Chain**:
+1. [T] data/06_Mythological_Studies/Forging a Nation in Memory.md
+2. [S] Maurice Halbwachs, collective memory theory
+3. [S] Claude Lévi-Strauss, bricolage concept
+4. [S] Carl Drews, wind setdown modeling
+5. [E] Thera pumice at Tell el-Dab'a
+6. [P] Merneptah Stele (c. 1207 BCE)
+
+**Connections**:
+- → `MYTH-001` (instantiates): Classic case of mythic bricolage mechanism
+- → `MYTH-002` (develops): Memory fragments create national origin narrative
+- → `SWED-004` (supports): Myth structure preserves correspondential meaning
+- → `CROSS-001` (instantiates): First tier = historical fragments; second tier = spiritual meaning
+
+---
+
+#### [MYTH-014] The Enochian 364-Day Solar Calendar
+
+**Status**: validated | **Confidence**: high
+
+> The Astronomical Book (1 Enoch 72-82), likely the oldest stratum of the Enochic corpus (late 4th-3rd century BCE), presents a divinely revealed 364-day solar calendar as the sole legitimate basis for determining sacred times. Revealed by angel Uriel to Enoch, the calendar features: 4 seasons of exactly 91 days each (30+30+31 pattern), perfect divisibility by 7 (52 weeks), ensuring dates always fall on the same weekday. Cosmos is geocentric with sun/moon traversing 6 celestial "gates" east and west. Though empirically inaccurate (drifts ~1.24 days/year), the calendar's "truth" was ideological—reflecting divine order and mathematical symmetry over observational accuracy. Adopted by Qumran community as identity marker.
+
+
+**Source Chain**:
+1. [T] data/06_Mythological_Studies/Enoch's Celestial Mechanics Analysis.md
+2. [P] 1 Enoch 72-82 (Astronomical Book / Book of Heavenly Luminaries)
+3. [P] 4Q208-211 (Qumran Aramaic fragments)
+4. [S] MUL.APIN compendium (Babylonian)
+
+**Connections**:
+- → `MYTH-001` (instantiates): Calendar as theological bricolage from Babylonian elements
+- → `SWED-004` (parallels): Numbers encode divine order (7 = holy)
+- → `SWED-020` (supports): 7-based structure confirms spiritual numerology
+- → `MYTH-012` (develops): 364 = 7 × 52; extends Tier 1 prime significance
+
+---
+
+#### [MYTH-015] The Two Hearts of Creation (Unity vs. Division)
+
+**Status**: validated | **Confidence**: high
+
+> A comparative analysis of Genesis 1 and the Enuma Elish reveals two fundamentally different cosmological principles emerging from a shared ANE primordial matrix: The "Heart of Division" (Enuma Elish) posits creation through divine conflict (theomachy), where the cosmos is the dismembered corpse of Tiamat and humans are slaves made from the rebel god Kingu's blood. The "Heart of Unity" (Genesis 1) presents creation through effortless divine fiat, a radical Creator/creation distinction (no theogony), cosmos as intrinsically "good," and humans as the image of God with stewardship mandate. Genesis performs deliberate demythologization— using cognate term 'tehom' (cf. Tiamat) but stripping it of personality and divine status. This philosophical revolution is the prerequisite for both coherent theology and systematic science.
+
+
+**Source Chain**:
+1. [T] data/06_Mythological_Studies/Genesis, Enuma Elish, Proto-Myth Evolution.md
+2. [P] Genesis 1:1-2:4a
+3. [P] Enuma Elish (Babylonian creation epic)
+4. [S] Lévi-Strauss, mythic bricolage theory
+
+**Connections**:
+- → `MYTH-001` (instantiates): Both narratives are mythic bricolage from older materials
+- → `SWED-004` (supports): Unity principle prerequisite for correspondence system
+- → `CROSS-001` (parallels): Two-hearts model parallels two-tiered hermeneutic
+- → `GNOS-001` (describes): Gnostic impulse follows 'heart of division' trajectory
+
+---
+
+#### [MYTH-016] The White Bull Cycle (Zoroastrian-Enochic Parallel)
+
+**Status**: validated | **Confidence**: high
+
+> The Animal Apocalypse (1 Enoch 85-90) and Zoroastrian bovine mythology share a striking structural homology: both place a "White Bull" at both the beginning and end of cosmic history. Zoroastrianism: Gavaevodata (primordial white bull, moon-bright) is killed by Ahriman—from his body springs all biological life; eschatological bull Hadhayans is sacrificed at Frashokereti (renovation) to produce the elixir of immortality. Enoch: Adam appears as a white bull; history degrades (bulls → sheep); Messiah appears as an eschatological white bull who restores all creatures to their bovine state. The link is likely genetic (Persian period influence) but involves theological subversion: Enoch's messiah-bull LIVES (no sacrifice), demonstrating Jewish rejection of Persian sacrificial mechanism in favor of transformational presence.
+
+
+**Source Chain**:
+1. [T] data/06_Mythological_Studies/Zoroastrianism and Enoch's Bulls.md
+2. [P] 1 Enoch 85-90 (Animal Apocalypse)
+3. [P] Bundahishn
+4. [P] Yasna 29 (Geush Urvan lament)
+5. [S] Mary Boyce, Anders Hultgård (maximalist position)
+6. [S] Patrick Tiller, George Nickelsburg (minimalist position)
+
+**Connections**:
+- → `MYTH-001` (instantiates): Cultural meme adapted through mythic bricolage
+- → `MYTH-014` (parallels): Both show Enochic adaptation of foreign traditions
+- → `EARLY-011` (supports): Persian/Zoroastrian influence on Jewish eschatology
+- → `MYTH-015` (contrasts): Bull cycle comparison parallels unity/division analysis
+
+---
+
 ### Cross-Domain
 *Synthesizing concepts spanning multiple domains*
 
@@ -1700,6 +2045,29 @@
 - → `CONSC-001` (supports): Provides selective pressure mechanism for CDE
 - → `GNOS-002` (contradicts): Contrasts with proprium's self-glorification
 - → `CONSC-003` (requires): Life review reveals ruling love
+
+---
+
+#### [CROSS-004] 21st-Century Empirical Validation of Proprium/Influx Framework
+
+**Status**: validated | **Confidence**: high
+
+> A systematic empirical test of the Swedenborgian Proprium/Influx conflict model against 21st-century socio-political, technological, psychological, and neuroscientific data. The "Proprium" model (centralized, self-justifying ideological control) precisely describes: (1) Digital authoritarianism and surveillance states; (2) "Woke vs. Anti-woke" corporate conflict (two Propria in mutual opposition); (3) The SBNR phenomenon as "Intellectual Proprium" (Gnosis/self-glorification). The "Influx" model (decentralized, anti-hierarchical, internal) describes: (1) Arab Spring, Occupy, DAOs; (2) Innate prosociality (Altruism Born of Suffering). The "Doctrine of Correspondences" validated by CSR's "teleological bias." The "Internal Path" validated by neuroplasticity research. The framework provides a meta-level explanatory model for the 21st-century shift from economic to identity-based politics.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Proprium et Influx... 21st-Century Data.md
+2. [E] Freedom House reports on digital authoritarianism
+3. [E] Pew Research on SBNR demographics
+4. [S] CSR research on teleological bias
+5. [E] Neuroimaging studies on meditation
+
+**Connections**:
+- → `SWED-005` (supports): Empirical validation of proprium dynamics
+- → `SWED-002` (supports): Empirical validation of influx dynamics
+- → `GNOS-001` (supports): SBNR as modern instantiation of Gnostic impulse
+- → `SWED-004` (supports): Teleological bias validates Correspondences
+- → `CONSC-013` (parallels): Proprium/Influx parallels Emissary/Master model
 
 ---
 

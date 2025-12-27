@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-27 12:57*
+*Last exported: 2025-12-27 13:35*
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 110 |
-| Total Connections | 399 |
+| Total Nodes | 122 |
+| Total Connections | 444 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 100
+- **validated**: 112
 - **preliminary**: 5
 - **contested**: 5
 
@@ -25,9 +25,9 @@
 - **Cross-Domain** (CROSS): 5
 - **Consciousness Studies** (CONSC): 20
 - **Swedenborgian Theology** (SWED): 33
-- **Biblical Scholarship** (BIBL): 11
+- **Biblical Scholarship** (BIBL): 20
 - **Early Christian History** (EARLY): 16
-- **The Gnostic Impulse** (GNOS): 9
+- **The Gnostic Impulse** (GNOS): 12
 - **Mythological Studies** (MYTH): 16
 
 ---
@@ -479,6 +479,19 @@
 - → `SWED-004` (requires): Ancient Word was written entirely in correspondences
 - → `MYTH-001` (develops): Spiritual understanding of mythic bricolage; correspondences explain fragment selection
 - → `BIBL-001` (complements): Correspondences complete HCM's 'body' preparation
+- → `CONSC-019` (parallels): NDE symbolic elements parallel correspondence relationships
+- → `EARLY-008` (instantiated_by): Zoroastrian dualism instantiates degraded correspondences
+- → `MYTH-009` (parallels): Exodus narrative elements show correspondence patterns
+- → `SWED-011` (instantiated_by): Numbers as correspondences instantiate doctrine
+- → `SWED-012` (instantiated_by): Body parts as correspondences instantiate doctrine
+- → `SWED-013` (instantiated_by): Natural world correspondences instantiate doctrine
+- → `SWED-016` (developed_from): Universal consciousness develops correspondence capacity
+- → `SWED-019` (instantiated_by): Celestial perception instantiates correspondence awareness
+- → `SWED-020` (instantiated_by): Spiritual perception instantiates correspondence awareness
+- → `SWED-021` (instantiated_by): Natural perception shows limited correspondence awareness
+- → `SWED-028` (developed_from): Most Ancient Church possessed correspondence knowledge
+- → `SWED-029` (instantiated_by): Animal sacrifice instantiates corrupted correspondences
+- → `SWED-030` (instantiated_by): Internal Word instantiates pure correspondences
 
 ---
 
@@ -498,6 +511,13 @@
 - → `CROSS-002` (supports): Influx is the spiritual cause behind mythic bricolage
 - → `SWED-005` (opposes): Influx works against proprium's self-glorification
 - → `EARLY-004` (supports): Explains kenotic movements as influx responses
+- → `CROSS-004` (supported_by): CDE hypothesis supported by influx mechanism
+- → `GNOS-010` (opposes): Proprium mechanics oppose divine influx
+- → `GNOS-011` (opposes): Corrupted influx opposes true influx
+- → `MYTH-006` (supported_by): Myth evolution patterns support influx guidance
+- → `SWED-016` (parallels): Universal consciousness parallels influx reception
+- → `SWED-022` (instantiated_by): Heaven as state instantiates influx reception
+- → `SWED-024` (required_by): Free will requires influx equilibrium
 
 ---
 
@@ -518,6 +538,7 @@
 - → `CROSS-003` (develops): Ruling love determines post-mortem trajectory
 - → `CONSC-017` (parallels): NDE life review parallels influx-based moral education
 - → `CONSC-018` (parallels): Influx operates through right-hemisphere openness
+- → `CONSC-005` (developed_from): Post-mortem cosmology developed from World of Spirits doctrine
 
 ---
 
@@ -557,6 +578,29 @@
 - → `GNOS-001` (supports): Gnostic impulse is intellectual proprium
 - → `EARLY-003` (instantiates): Pauline methodology exhibits proprium traits
 - → `CONSC-018` (parallels): Proprium parallels Emissary usurpation at spiritual level
+- → `EARLY-004` (opposes): Kenotic movements oppose proprium
+- → `GNOS-004` (instantiated_by): Divine Spark doctrine instantiates intellectual proprium
+- → `CONSC-006` (parallels): Group NDE sorting parallels proprium manifestation
+- → `GNOS-005` (parallels): Dismantling tactics parallel proprium methodology
+- → `GNOS-006` (developed_from): Modern gnosticism develops from proprium
+- → `CONSC-011` (supported_by): Post-mortem sorting supports proprium doctrine
+- → `CONSC-012` (developed_from): Return cases develop from proprium analysis
+- → `EARLY-012` (contrasts): Davidic lineage contrasts with proprium usurpation
+- → `MYTH-010` (parallels): Proto-myth divergence parallels proprium split
+- → `SWED-019` (opposes): Celestial perception opposes proprium
+- → `SWED-022` (opposes): Heaven as state opposes proprium
+- → `GNOS-007` (instantiated_by): Pauline discontinuity instantiates proprium pattern
+- → `CONSC-013` (parallels): Hybrid model parallels proprium complexity
+- → `CROSS-004` (supported_by): CDE supports proprium as selective pressure
+- → `CONSC-015` (describes): Brain evolution describes proprium emergence
+- → `SWED-025` (opposes): Divine Human opposes proprium
+- → `CONSC-016` (opposes): Pure encounter opposes proprium projection
+- → `SWED-026` (opposes): Word preservation opposes proprium corruption
+- → `SWED-027` (developed_from): Animal sacrifice develops from proprium
+- → `SWED-029` (describes): Sacrificial corruption describes proprium
+- → `GNOS-009` (reveals): Apostle analysis reveals proprium in Paul
+- → `GNOS-010` (instantiated_by): Proprium mechanics instantiate self-love doctrine
+- → `GNOS-012` (reveals): Modern channeling reveals contemporary proprium
 
 ---
 
@@ -1382,6 +1426,177 @@
 
 ---
 
+#### [BIBL-014] Troeltsch's Three Principles of Historical-Critical Method
+
+**Status**: validated | **Confidence**: high
+
+> The foundational philosophical principles that structure the Historical-Critical Method, formulated by Ernst Troeltsch: (1) Principle of Criticism (Methodological Doubt) - all historical knowledge is probabilistic, never absolute; (2) Principle of Analogy - past events must be analogous to present observable phenomena; (3) Principle of Correlation - all historical events exist in a web of natural cause and effect, excluding supernatural intrusions. These principles create methodological naturalism as procedural boundary.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+2. [S] Troeltsch, Ernst. 'Über historische und dogmatische Methode in der Theologie' (1898)
+3. [W] Multiple HCM textbooks cite Troeltsch as philosophical foundation
+
+**Connections**:
+- → `BIBL-001` (describes): Troeltsch provides philosophical foundation for HCM
+- → `CROSS-001` (requires): Two-tiered framework necessary because HCM cannot access spiritual plane
+- → `BIBL-015` (produces): Analogy principle produces vaticinium ex eventu dating
+
+---
+
+#### [BIBL-015] Vaticinium ex Eventu (Prophecy After the Event)
+
+**Status**: validated | **Confidence**: high
+
+> The Historical-Critical Method's interpretive principle that detailed prophecies of future events must have been written AFTER those events occurred. Applied critically to Mark 13 (Little Apocalypse), which describes Jerusalem Temple destruction in 70 CE. HCM assumes this level of detail requires eyewitness knowledge, dating Mark to c. 66-75 CE. This single interpretive decision forms the bedrock of the entire Synoptic chronology.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+2. [S] Standard HCM consensus - see Ehrman, Meier, Sanders
+
+**Connections**:
+- → `BIBL-014` (produced_by): Vaticinium ex eventu follows from Principle of Analogy
+- → `BIBL-001` (instantiates): Core HCM dating methodology
+- → `BIBL-016` (supports): Markan Priority depends on Mark dating
+
+---
+
+#### [BIBL-016] Markan Priority (Two-Source Hypothesis Pillar)
+
+**Status**: validated | **Confidence**: high
+
+> The scholarly consensus that Mark was the first Gospel written (c. 66-75 CE) and served as a primary source for both Matthew and Luke. Evidence: (1) Mark is shortest—easier to explain additions than systematic omissions; (2) Matthew/Luke follow Mark's narrative order; (3) Mark's Greek is cruder, smoothed by Matthew/Luke; (4) Mark contains 'harder readings' (embarrassing details) softened by later Gospels. Over 90% of Mark appears in Matthew; over 50% in Luke.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+2. [S] Scholarly consensus - multiple sources cited in document
+
+**Connections**:
+- → `BIBL-002` (instantiates): Markan Priority is solution to Synoptic Problem
+- → `BIBL-015` (requires): Depends on vaticinium ex eventu dating of Mark
+- → `BIBL-017` (supports): Markan Priority requires Q to explain Matthew/Luke agreements
+- → `BIBL-001` (instantiates): Source criticism application
+
+---
+
+#### [BIBL-017] Q Source Hypothesis (Quelle - Sayings Source)
+
+**Status**: validated | **Confidence**: medium
+
+> A hypothetical written Greek document (c. 50-70 CE) containing approximately 230 verses of Jesus's sayings shared by Matthew and Luke but absent from Mark. Proposed to explain the 'Double Tradition'—verbatim agreements between Matthew/Luke in non-Markan material (Beatitudes, Lord's Prayer, etc.). Q is inferred from extensive word-for-word Greek agreements suggesting literary copying, not oral tradition. Debate: If Q lacked passion narrative, it could indicate earliest Christianity focused on Jesus as wisdom teacher, not crucified Savior.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+2. [S] Scholarly consensus - Q as second pillar of 2SH
+
+**Connections**:
+- → `BIBL-016` (produced_by): Q hypothesis explains Double Tradition given Markan Priority
+- → `BIBL-002` (instantiates): Q is second pillar of Two-Source Hypothesis solution
+- → `BIBL-018` (opposes): Farrer Hypothesis eliminates need for Q
+- → `BIBL-001` (instantiates): Source criticism producing hypothetical document
+
+---
+
+#### [BIBL-018] Farrer Hypothesis (Mark → Matthew → Luke, No Q)
+
+**Status**: validated | **Confidence**: medium
+
+> An alternative solution to the Synoptic Problem that accepts Markan Priority but eliminates the hypothetical Q source. Proposes: Mark wrote first, Matthew used Mark, Luke then used BOTH Mark and Matthew. Main strength: simplicity (no unattested sources) and elegant explanation for 'minor agreements' (Luke agrees with Matthew against Mark because he's reading Matthew's edited version). Main weakness: Why would Luke dismantle Matthew's carefully structured Sermon on the Mount and scatter it?
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+2. [S] Farrer, Austin. 'On Dispensing with Q' in Studies in the Gospels (1955)
+3. [S] Goodacre, Mark. The Case Against Q (2002)
+
+**Connections**:
+- → `BIBL-017` (opposes): Farrer eliminates need for Q
+- → `BIBL-016` (requires): Accepts Markan Priority
+- → `BIBL-019` (supports): Farrer Hypothesis provides solution to minor agreements problem
+- → `BIBL-002` (instantiates): Alternative Synoptic Problem solution
+
+---
+
+#### [BIBL-019] Minor Agreements Problem (Two-Source Hypothesis Weakness)
+
+**Status**: validated | **Confidence**: high
+
+> A persistent challenge to the Two-Source Hypothesis: instances where Matthew and Luke agree in wording AGAINST Mark in Triple Tradition material (passages all three share). If Matthew and Luke independently edited Mark without knowledge of each other, these agreements should not occur. Two-Source Hypothesis explains these as: (1) coincidental edits, (2) overlaps between Mark and Q, or (3) later scribal harmonization. Critics find these explanations strained; Farrer Hypothesis solves the problem elegantly (Luke read Matthew).
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+2. [S] Standard Synoptic Problem literature - multiple sources
+
+**Connections**:
+- → `BIBL-002` (contradicts): Minor Agreements challenge Two-Source Hypothesis
+- → `BIBL-017` (contradicts): Problematic for Q hypothesis assumption of independence
+- → `BIBL-018` (supports): Farrer Hypothesis provides solution to minor agreements
+
+---
+
+#### [BIBL-020] Criteria of Authenticity (Historical Jesus Research)
+
+**Status**: validated | **Confidence**: high
+
+> Rules of thumb developed by Historical-Critical scholars to identify sayings/events more likely to be historical than later church creations. Key criteria: (1) Multiple Attestation— appears in multiple independent sources (Mark, Q, Paul, John); (2) Embarrassment—awkward for early church, unlikely invention (Jesus's baptism, family's disbelief); (3) Dissimilarity (Double Dissimilarity)—unlike both Judaism and early Christianity, isolates Jesus's unique voice. Recent criticism: Dissimilarity criterion produces distorted Jesus disconnected from Jewish context and disciples. Modern scholars prefer 'historical plausibility' within 1st-century Judaism.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+2. [S] Meier, John P. A Marginal Jew (1991-2016)
+3. [S] Sanders, E.P. Jesus and Judaism (1985)
+
+**Connections**:
+- → `BIBL-001` (instantiates): Criteria are HCM tools for historical reconstruction
+- → `BIBL-011` (develops): Criterion of Embarrassment reframed spiritually
+- → `BIBL-021` (supports): Criteria establish bedrock historical facts
+
+---
+
+#### [BIBL-021] Historical Jesus Bedrock Facts (Sanders/Meier Consensus)
+
+**Status**: validated | **Confidence**: high
+
+> Near-universal scholarly consensus on core biographical framework for Jesus's life, regardless of scholars' religious beliefs. Six bedrock facts: (1) Jesus was a historical Galilean Jew in early 1st century; (2) Ministry initiated by baptism by John the Baptist; (3) Itinerant preacher/teacher who gathered disciples; (4) Central proclamation: 'kingdom of God'; (5) Caused disturbance in Jerusalem Temple; (6) Executed by crucifixion under Pontius Pilate. These pass multiple criteria (especially embarrassment and multiple attestation) and are accepted by secular, Jewish, and Christian historians alike.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+2. [S] Sanders, E.P. Jesus and Judaism (1985)
+3. [S] Meier, John P. A Marginal Jew Vol. 1 (1991)
+4. [S] Ehrman, Bart. Jesus: Apocalyptic Prophet (1999)
+
+**Connections**:
+- → `BIBL-020` (produced_by): Bedrock facts established via criteria of authenticity
+- → `BIBL-001` (instantiates): HCM consensus findings
+- → `SWED-009` (supports): Bedrock facts are historical footprints of Glorification
+- → `CROSS-005` (instantiates): Historical Jesus as 'body' of Incarnation
+
+---
+
+#### [BIBL-022] Gospel Anonymity and 2nd-Century Attribution
+
+**Status**: validated | **Confidence**: high
+
+> Scholarly consensus that all four canonical Gospels were originally written and circulated anonymously. Traditional names ('According to Matthew,' 'According to Mark,' etc.) were NOT part of original texts but were added by 2nd-century scribes/editors to assign apostolic authority. This was a strategic response to theological conflict and proliferation of other 'gospels' (especially Gnostic texts). Anonymity created authority vacuum; church assigned texts to apostles (Matthew, John) or apostolic associates (Mark/Peter, Luke/Paul) to distinguish preferred texts and ground them in apostolic tradition.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+2. [S] Scholarly consensus - see Ehrman, Burridge, others
+
+**Connections**:
+- → `BIBL-001` (instantiates): Source/redaction criticism conclusion
+- → `BIBL-005` (supports): Anonymous bioi are consistent with Greco-Roman genre
+- → `BIBL-002` (supports): Anonymity supports literary dependency theories
+
+---
+
 ### Early Christian History
 *Jamesian/Pauline movements, Desposyni, Magi*
 
@@ -1740,6 +1955,31 @@
 - → `EARLY-003` (parallels): Proto-gnostic elements in Paul
 - → `MYTH-002` (parallels): Heart of Division trajectory parallels gnostic cosmic alienation
 - → `CONSC-018` (contrasts): Gnostic impulse represents spiritual Emissary usurpation
+- → `GNOS-003` (supported_by): Cosmology of Captivity supports gnostic framework
+- → `GNOS-004` (instantiated_by): Divine Spark doctrine instantiates gnostic anthropology
+- → `MYTH-006` (contrasts): Affirmation trajectory contrasts with gnostic rejection
+- → `GNOS-005` (supported_by): Dismantling tactics support gnostic methodology
+- → `GNOS-006` (describes): Modern gnostic manifestations describe continuing impulse
+- → `CONSC-011` (contrasts): Post-mortem sorting contrasts with gnostic escape model
+- → `CONSC-012` (parallels): Return cases parallel gnostic soul-mission narratives
+- → `SWED-018` (opposes): Regeneration opposes gnostic self-elevation
+- → `EARLY-014` (developed_from): Paul's Damascus vision develops proto-gnostic elements
+- → `GNOS-007` (supported_by): Pauline discontinuity supports gnostic trajectory
+- → `BIBL-010` (describes): Gospel genre analysis describes gnostic departure
+- → `EARLY-015` (supported_by): Zoroastrian dualism supports gnostic cosmology
+- → `EARLY-017` (supported_by): Persian roots support gnostic development
+- → `MYTH-015` (describes): ANE cosmology describes gnostic sources
+- → `CONSC-013` (describes): Hybrid model describes gnostic tension
+- → `CROSS-004` (supported_by): CDE framework supports gnostic trajectory analysis
+- → `CONSC-016` (contradicts): Empirical NDE data contradicts gnostic escape cosmology
+- → `GNOS-008` (developed_from): Pauline authorship debates develop gnostic analysis
+- → `SWED-026` (contrasts): Word preservation contrasts with gnostic secret knowledge
+- → `BIBL-011` (contrasts): Criterion of Temptation contrasts with gnostic rejection
+- → `BIBL-012` (contradicts): Jesus profile contradicts gnostic christology
+- → `GNOS-009` (instantiated_by): Apostle of Archons instantiates Pauline gnostic substrate
+- → `GNOS-010` (describes): Proprium mechanics describe gnostic psychological foundation
+- → `GNOS-011` (describes): Corrupted influx describes gnostic spiritual mechanism
+- → `GNOS-012` (instantiated_by): Modern channeling instantiates contemporary gnostic impulse
 
 ---
 
@@ -1907,6 +2147,71 @@
 - → `CONSC-008` (opposes): Directly attacks NDE Being of Light identification
 - → `SWED-005` (reveals): Tactics manifest proprium's need to eliminate external Lord
 - → `BIBL-010` (instantiates): Defines the Path of Gnosis operationally
+
+---
+
+#### [GNOS-010] Spiritual Theft Mechanic (Appropriation of Divine Attributes)
+
+**Status**: validated | **Confidence**: high
+
+> The fundamental operation of the Proprium: appropriating divine attributes (life, wisdom, power) and claiming them as intrinsic properties of the self rather than gifts received via influx. Swedenborg describes evil spirits who "insist stubbornly that they do live from themselves," refusing to acknowledge continuous influx from the Lord. The Proprium collapses the "As-of-Self" paradox (living AS IF life were one's own while acknowledging it is NOT) into an absolute claim: "As-if" becomes "Is." The Gnostic "Divine Spark" doctrine legitimizes this theft by defining the soul as consubstantial with the Divine, possessing life rather than receiving it.
+
+
+**Source Chain**:
+1. [T] data/05_Gnostic_Analysis/A Pneumatological and Historical Validation of the Gnostic Impulse.md
+2. [P] Swedenborg, Heaven and Hell § 9
+3. [P] Swedenborg, Divine Providence § 308
+4. [P] Swedenborg, Arcana Coelestia § 154
+
+**Connections**:
+- → `SWED-005` (instantiates): Spiritual Theft is core Proprium operation
+- → `GNOS-001` (describes): Explains what Gnostic Impulse IS doing operationally
+- → `SWED-002` (opposes): Theft denies influx; claims source rather than reception
+- → `GNOS-011` (produces): Theft enables Gnosis vs. Influx epistemology
+
+---
+
+#### [GNOS-011] Gnosis vs. Influx (Incompatible Epistemologies)
+
+**Status**: validated | **Confidence**: high
+
+> Two fundamentally incompatible modes of knowing and relating to Divine reality. INFLUX: Man is a VESSEL receiving life/truth from external Source (the Lord); requires continuous acknowledgment of dependence. GNOSIS: Man IS life or possesses divine fragment; salvation through self-realization rather than reception. These are "clay and iron" (Daniel 2)—they cannot mix. One cannot simultaneously believe "I am a created vessel dependent on the Lord" and "I am the uncreated Divine Spark." Proprium gravitates toward Gnosis (validates autonomy); rejects Influx (requires submission).
+
+
+**Source Chain**:
+1. [T] data/05_Gnostic_Analysis/A Pneumatological and Historical Validation of the Gnostic Impulse.md
+2. [P] Swedenborg, Heaven and Hell § 9
+3. [P] Swedenborg, Divine Love and Wisdom §§ 4-6
+4. [S] Gospel of Thomas, Saying 3
+
+**Connections**:
+- → `GNOS-010` (produced_by): Spiritual Theft enables Gnosis epistemology
+- → `SWED-002` (opposes): Gnosis rejects Influx as foundational reality
+- → `GNOS-001` (describes): Gnostic Impulse as Gnosis-based epistemology
+- → `CROSS-003` (requires): Ruling Love determines which epistemology soul gravitates toward
+- → `GNOS-012` (produces): Gnosis epistemology enables Self-Spirituality
+
+---
+
+#### [GNOS-012] Self-Spirituality and Spiritual Narcissism (SBNR as Modern Gnosis)
+
+**Status**: validated | **Confidence**: high
+
+> The modern manifestation of the Gnostic Impulse in the 'Spiritual But Not Religious' (SBNR) movement, characterized by a 'subjective turn' away from external authority (institutions, scriptures) toward inner experience. Core tenet: the 'True Self' is divine. Sociologists (Heelas, Woodhead) term this 'Self-Spirituality'—experiencing the 'Self' itself IS experiencing 'inner spirituality.' Individuals trust their own intuitions as final arbiter of truth, rejecting 'mediated' religion. Critics identify this as 'spiritual narcissism'— sacralizing the self creates a closed loop where ego is god of its own narrative, removing external standards of judgment.
+
+
+**Source Chain**:
+1. [T] data/05_Gnostic_Analysis/A Pneumatological and Historical Validation of the Gnostic Impulse.md
+2. [S] Heelas, Paul & Woodhead, Linda. The Spiritual Revolution (2005)
+3. [S] Carrette, Jeremy & King, Richard. Selling Spirituality (2005)
+4. [T] data/05_Gnostic_Analysis/The Architecture of Hidden Divinity.md
+
+**Connections**:
+- → `GNOS-011` (produced_by): Self-Spirituality follows from Gnosis epistemology
+- → `GNOS-001` (instantiates): SBNR as modern iteration of Gnostic Impulse
+- → `GNOS-004` (instantiates): SBNR is modern Gnostic manifestation
+- → `SWED-005` (reveals): SBNR reveals Proprium relabeled as 'Higher Self'
+- → `GNOS-010` (instantiates): SBNR enacts Spiritual Theft (divinity as possession)
 
 ---
 
@@ -2259,6 +2564,15 @@
 - → `SWED-001` (requires): Depends on Doctrine of Correspondences for vertical interpretation
 - → `BIBL-001` (develops): Reframes HCM as preparatory work for spiritual interpretation
 - → `CONSC-018` (parallels): Hemispheric integration provides neurological model for two-tiered method
+- → `BIBL-011` (instantiated_by): Western Non-Interpolations instantiate two-tiered textual analysis
+- → `BIBL-014` (required_by): Troeltsch's principles require epistemological framework
+- → `CROSS-002` (instantiated_by): Divine Bricolage is example of two-tiered interpretation in action
+- → `CROSS-005` (instantiated_by): Unity vs Division instantiates the framework's core polarity
+- → `MYTH-013` (instantiated_by): Enuma Elish instantiates natural-plane reading
+- → `MYTH-015` (parallels): ANE cosmology correspondence parallels two-tiered method
+- → `SWED-028` (instantiated_by): Doctrine of the Most Ancient Church instantiates framework
+- → `SWED-030` (instantiated_by): Internal/External Word distinction instantiates two-tiered hermeneutic
+- → `SWED-031` (instantiated_by): Historical Church Ages instantiate framework's historical trajectory
 
 ---
 
@@ -2278,6 +2592,14 @@
 - → `MYTH-001` (develops): Spiritual interpretation of mythic bricolage mechanism
 - → `SWED-002` (requires): Requires divine influx as guiding force
 - → `CROSS-001` (instantiates): Example of two-tiered interpretation in action
+- → `BIBL-003` (instantiated_by): Gospel formation through community memory instantiates bricolage
+- → `BIBL-013` (instantiated_by): Luke's editorial process instantiates bricolage
+- → `MYTH-009` (instantiated_by): Exodus narrative assembly instantiates bricolage
+- → `SWED-017` (instantiated_by): Pre-verbal communication instantiates pre-fragmentary wholeness
+- → `SWED-025` (instantiated_by): Ancient Word transmission instantiates providential bricolage
+- → `SWED-026` (instantiated_by): Preservation mechanisms instantiate providential bricolage
+- → `SWED-032` (instantiated_by): Correspondence pedagogy instantiates bricolage process
+- → `SWED-033` (instantiated_by): Loss and recovery pattern instantiates bricolage necessity
 
 ---
 
@@ -2297,6 +2619,17 @@
 - → `CONSC-001` (supports): Provides selective pressure mechanism for CDE
 - → `GNOS-002` (contradicts): Contrasts with proprium's self-glorification
 - → `CONSC-003` (requires): Life review reveals ruling love
+- → `CONSC-007` (supported_by): Volunteer soul hypothesis provides mechanism for ruling love formation
+- → `CONSC-011` (parallels): Post-mortem sorting parallels ruling love determination
+- → `CONSC-012` (supported_by): Return cases support ruling love as driver of incarnation choice
+- → `CONSC-013` (developed_from): Hybrid afterlife model develops from ruling love doctrine
+- → `CONSC-020` (supported_by): Cultural construct research supports ruling love framework
+- → `GNOS-011` (required_by): Proprium mechanism requires ruling love as foundational polarity
+- → `MYTH-002` (instantiated_by): Creation myth trajectories instantiate ruling love polarity
+- → `MYTH-006` (supported_by): Myth evolution patterns support ruling love selective pressure
+- → `MYTH-008` (instantiated_by): Echoes of Ancient Word instantiate unified ruling love
+- → `MYTH-010` (required_by): Proto-myth divergence requires ruling love as driver
+- → `SWED-003` (developed_from): Ruling love doctrine develops from divine love theology
 
 ---
 
@@ -2343,6 +2676,7 @@
 - → `BIBL-011` (supports): Criterion of Temptation relies on this body/soul framework
 - → `CROSS-001` (instantiates): Perfect example of two-tiered epistemology
 - → `SWED-025` (parallels): Divine Human in Ultimates = Historical Jesus as ultimate vessel
+- → `BIBL-021` (instantiated_by): Resurrection narratives instantiate Christ of Faith development
 
 ---
 

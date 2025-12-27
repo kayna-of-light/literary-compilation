@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-27 09:52*
+*Last exported: 2025-12-27 09:54*
 
 ---
 
@@ -10,23 +10,23 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 82 |
-| Total Connections | 267 |
+| Total Nodes | 84 |
+| Total Connections | 275 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 73
-- **preliminary**: 5
+- **validated**: 74
+- **preliminary**: 6
 - **contested**: 4
 
 ### By Domain
 
 - **Cross-Domain** (CROSS): 3
 - **Consciousness Studies** (CONSC): 12
-- **Swedenborgian Theology** (SWED): 23
+- **Swedenborgian Theology** (SWED): 24
 - **Biblical Scholarship** (BIBL): 10
-- **Early Christian History** (EARLY): 15
+- **Early Christian History** (EARLY): 16
 - **The Gnostic Impulse** (GNOS): 7
 - **Mythological Studies** (MYTH): 12
 
@@ -728,6 +728,28 @@
 
 ---
 
+#### [SWED-024] The New Jerusalem (Fourth Church)
+
+**Status**: validated | **Confidence**: high
+
+> The New Church or New Jerusalem is the Fourth Church in Swedenborg's dispensational schema, established after the Last Judgment of 1757. Unlike prior churches which ended in vastation, the New Jerusalem is founded on: (1) Acknowledgment of the Lord alone as God of heaven and earth; (2) Life according to the Decalogue (repentance). Daniel's statue (gold/silver/brass/iron-clay) represents successive churches from Most Ancient to Christian, all intrinsically linked. The "stone cut without hands" that shatters the image represents Divine Truth (the Lord) destroying external falsified notions to form a new foundation. The "Gentiles" among whom it is established are defined by internal state (good of love, affection for truth) not geography - those who reject the former church's external teachings and are receptive to revealed internal truth.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Conversation relating the Fourth Church.md
+2. [P] Swedenborg, True Christian Religion
+3. [P] Swedenborg, Last Judgment; Continuation of Last Judgment
+4. [P] Daniel 2:31-45
+5. [P] Revelation 21:1-2
+
+**Connections**:
+- → `SWED-002` (requires): New Church requires restored influx after 1757
+- → `SWED-008` (develops): Corporate regeneration of humanity
+- → `SWED-006` (parallels): Returns to Most Ancient state via new revelation
+- → `BIBL-010` (supports): Path of Affirmation as New Church trajectory
+
+---
+
 ### Biblical Scholarship
 *HCM, Gospel formation, textual criticism*
 
@@ -1222,6 +1244,27 @@
 - → `EARLY-002` (contradicts): Challenges Jamesian priority; suggests multiple early trajectories
 - → `GNOS-001` (supports): Gnosticism was native flora, not deviation
 - → `EARLY-014` (parallels): Similar pattern of later orthodoxy claiming ancient legitimacy
+
+---
+
+#### [EARLY-016] Quranic Isa as Jamesian Restoration
+
+**Status**: preliminary | **Confidence**: medium
+
+> The thesis that the Quranic Jesus (Isa ibn Maryam) functions as a deliberate theological "correction" of Pauline/Gnostic Christianity, restoring the Jamesian/Nazarene Christology that was marginalized by the Imperial Church. The Quran systematically dismantles: (1) Anti-cosmic dualism - Jesus created from dust, ate food (refutes Docetism); (2) Demiurge theology - "Allah is my Lord AND your Lord" (unifies Creator/Savior); (3) Antinomianism - Jesus "confirms the Torah," enjoins Prayer (Salat) and Charity (Zakat). The term "Hawariyun" (disciples) derives from Syriac "Pure Ones" (white-clad), matching descriptions of James the Just and his followers. Surah 61:14's "victory" may be fulfilled by the Islamic conquests dismantling the Byzantine (Pauline) Empire.
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/Quranic Isa vs. Early Christianity.md
+2. [P] Quran 3:50, 3:59, 5:75, 19:31, 19:36, 61:14
+3. [S] Eisenman, Robert. James the Brother of Jesus
+4. [P] Epistle of James (esp. 2:17)
+
+**Connections**:
+- → `EARLY-002` (supports): Vindicates Jamesian Christianity against Pauline
+- → `GNOS-007` (opposes): Quran systematically dismantles Pauline Gnosticism
+- → `EARLY-015` (develops): Islam as delayed victory of marginalized faction
+- → `SWED-014` (parallels): Both restore ethical, love-centered Jesus against abstracted 'Christ'
 
 ---
 

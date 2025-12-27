@@ -4641,6 +4641,163 @@ nodes:
     updated: 2024-12-28
     trace_status: partial
 
+  EARLY-017:
+    title: "Damascus Divergence Hypothesis"
+    domain: EARLY
+    status: contested
+    confidence: medium
+    
+    definition: >
+      A critical scholarly analysis arguing that Paul's Damascus vision, the sole
+      legitimating warrant for his apostolate, is NOT historically reliable but a
+      sophisticated rhetorical/literary construct. Three converging lines of evidence:
+      (1) The tripartite accounts in Acts contain irreconcilable contradictions
+      (companions hearing vs. not hearing; standing vs. all falling; Ananias mediation
+      vs. direct commission); (2) Paul's own phrase "en emoi" (in me, Gal 1:15-16)
+      describes an INTERNAL subjective revelation, not external objective appearance,
+      aligning with Gnostic epistemology of self-validating gnosis; (3) Acts 26:14's
+      "kick against the goads" is a direct quotation from Euripides' Bacchae (line 795),
+      suggesting Luke used Greek drama as literary template—the Pentheus/Dionysus
+      theomachos archetype applied to Saul/Jesus.
+    
+    textual_contradictions:
+      auditory: |
+        Acts 9:7: Companions "heard the voice" but saw no one
+        Acts 22:9: Companions "did not hear the voice" but saw light
+        Result: Direct factual contradiction, not resolvable by grammar
+      postural: |
+        Acts 9:7: Companions "stood speechless" (eistēkeisan eneoi)
+        Acts 26:14: "We had ALL fallen to the ground" (pantōn katapesontōn)
+        Result: Shift heightens drama for Agrippa audience
+      mediational: |
+        Acts 9, 22: Paul told to go to Damascus, receive commission from Ananias
+        Acts 26: Ananias completely excised; Jesus gives full commission directly
+        Result: Acts 26 closer to Galatians 1:12 ("not from man")—Ananias is Lukan invention
+    
+    bacchae_parallels:
+      verbal: |
+        Acts 26:14: "It is hard for you to kick against the goads"
+        Bacchae line 795: "Do not kick against the goads, a mortal against a god"
+        Problem: Greek proverb from pagan play placed in mouth of Semitic Jesus
+        speaking "in the Hebrew language"—historical implausibility
+      structural:
+        - "Theomachos archetype: persecutor (Pentheus/Saul) fights unrecognized deity"
+        - "Imprisonment: Dionysus and Paul/Silas both imprisoned"
+        - "Earthquake: Opens prison in both Bacchae (585) and Acts 16:26"
+        - "Epiphany: Divine light/voice commanding cessation of persecution"
+      conclusion: |
+        Acts author crafted foundational myth using Euripidean template,
+        casting Paul as "reformed Pentheus"—historical fiction for legitimation
+    
+    epistemological_critique:
+      en_emoi_significance: |
+        Paul: "to reveal his Son IN ME (en emoi)" - radically interior event
+        Traditional gloss: "to me" - external appearance
+        Critical reading: Internal revelation aligns with Gnostic epistemology
+        where truth accessed through pneumatic self, not external witness
+      bypass_function: |
+        Interior revelation renders authority unassailable by external critique
+        Negates need for verification by Jerusalem apostles who knew earthly Jesus
+        Self-validating gnosis replaces historical transmission
+    
+    arabia_lacuna:
+      galatians_claim: |
+        Paul: "did not go up to Jerusalem... went away into Arabia, returned to Damascus"
+        (Gal 1:17) - up to 3 years before seeing Peter
+      acts_narrative: |
+        Arabia completely absent; Paul preaches immediately in Damascus synagogues
+        then moves to Jerusalem shortly (Acts 9:20-26)
+      significance: |
+        Acts compresses timeline to create false continuity with Jerusalem
+        Paul's independence becomes subordination in Lukan redaction
+    
+    aretas_problem:
+      pauline_claim: "ethnarch under King Aretas guarded the city (2 Cor 11:32)"
+      acts_claim: "Jews plotting at gates (Acts 9:23-25) - blame shifted"
+      historical_issue: |
+        No numismatic or epigraphic evidence Aretas IV controlled Damascus
+        Damascus was Roman provincial capital—"ethnarch guarding city" implausible
+        Leads to "symbolic Damascus" hypothesis
+    
+    symbolic_damascus_hypothesis:
+      evidence: |
+        Damascus Document (CD) from Qumran: "New Covenant in the Land of Damascus"
+        Scholars (Eisenman): "Damascus" = sectarian code for Qumran/wilderness
+        Based on Amos 5:27 exegesis: exile "beyond Damascus" = retreat to wilderness
+      implication: |
+        Paul's "return to Damascus" (Gal 1:17) may = return to sectarian base
+        Resolves High Priest jurisdiction problem: no authority in Syria,
+        but jurisdiction over Jews in Judean wilderness (symbolic Damascus)
+    
+    caveats:
+      - "Radical hypothesis rejected by mainstream scholarship"
+      - "Literary parallels ≠ proof of fabrication"
+      - "Paul's account in Galatians may also be rhetorically shaped"
+      - "Qumran-Damascus identification speculative"
+    
+    source_chain:
+      - type: T
+        ref: "data/04_Early_Christian_History/Paul's Damascus Vision_ Scholarly Critique.md"
+        note: "Full forensic assessment"
+      - type: S
+        ref: "Eisenman, Robert. James the Brother of Jesus (1997)"
+        note: "Qumran-Damascus hypothesis, 'Spouter of Lies'"
+      - type: S
+        ref: "MacDonald, Dennis R. Does the New Testament Imitate Homer?"
+        note: "Literary dependence methodology"
+      - type: P
+        ref: "Euripides, The Bacchae, line 795"
+        note: "Goads proverb original source"
+      - type: P
+        ref: "Galatians 1:15-17"
+        note: "Paul's autobiographical account"
+      - type: P
+        ref: "Damascus Document (CD 4Q266-273)"
+        note: "Qumran 'Land of Damascus' references"
+    
+    evidence:
+      - "Acts 9:7 vs 22:9: Contradictory auditory claims (heard/did not hear)"
+      - "Acts 9:7 vs 26:14: Contradictory postural claims (standing/all fell)"
+      - "Acts 26:14 quotes Euripides Bacchae 795 verbatim"
+      - "Ananias present in Acts 9, 22 but absent from Acts 26"
+      - "Paul: 'en emoi' = internal revelation; Acts externalizes to blinding light"
+      - "Arabia period (Gal 1:17) completely absent from Acts"
+      - "No evidence Aretas IV controlled Damascus (Roman provincial capital)"
+      - "P46 (earliest MS) omits Pastorals suggesting 10-letter original corpus"
+    
+    connections:
+      - target: EARLY-003
+        type: develops
+        note: "Deepens critique of Paul's claimed authority"
+      - target: GNOS-001
+        type: supports
+        note: "Paul's epistemology aligns with Gnostic self-validation"
+      - target: EARLY-009
+        type: parallels
+        note: "Luke's editorial agenda in Acts parallels Gospel editing"
+      - target: BIBL-001
+        type: instantiates
+        note: "Source/form/redaction criticism applied to Acts"
+      - target: EARLY-005
+        type: supports
+        note: "Damascus analysis supports Jamesian priority"
+    
+    notes: >
+      "The 'Damascus Divergence' reveals Paul's authority claim as a 'hostile takeover'
+      of a movement he never joined through normal channels. His epistemology of
+      'autonomy' (direct revelation bypassing witnesses) mirrors Gnostic patterns
+      where truth comes from within, not from historical transmission. The Bacchae
+      parallels suggest Luke created a Hellenistic foundational myth rather than
+      recording history. Most provocatively: if 'Damascus' = Qumran code, Paul may
+      be the 'Spouter of Lies' denounced in Dead Sea Scrolls for leading community
+      astray. The framework reading: Paul's 'Cosmic Christ' displaced the historical
+      Jesus movement, and Acts later 'domesticated' even this radical Paul for
+      institutional orthodoxy—two layers of displacement from original Jamesian reality."
+    
+    created: 2024-12-28
+    updated: 2024-12-28
+    trace_status: complete
+
   SWED-024:
     title: "The New Jerusalem (Fourth Church)"
     domain: SWED
@@ -6765,6 +6922,13 @@ connections:
   - [BIBL-012, develops, EARLY-003]
   - [BIBL-012, instantiates, BIBL-001]
   - [BIBL-012, parallels, BIBL-007]
+
+  # NEW: EARLY-017 (Damascus Divergence Hypothesis) connections
+  - [EARLY-017, develops, EARLY-003]
+  - [EARLY-017, supports, GNOS-001]
+  - [EARLY-017, parallels, EARLY-009]
+  - [EARLY-017, instantiates, BIBL-001]
+  - [EARLY-017, supports, EARLY-005]
 
 # =============================================================================
 # UNTRACED CLAIMS

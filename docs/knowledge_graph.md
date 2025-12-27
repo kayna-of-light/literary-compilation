@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-27 10:23*
+*Last exported: 2025-12-27 10:25*
 
 ---
 
@@ -10,15 +10,15 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 101 |
-| Total Connections | 336 |
+| Total Nodes | 102 |
+| Total Connections | 341 |
 | Untraced Claims | 9 |
 
 ### By Status
 
 - **validated**: 91
 - **preliminary**: 6
-- **contested**: 4
+- **contested**: 5
 
 ### By Domain
 
@@ -26,7 +26,7 @@
 - **Consciousness Studies** (CONSC): 19
 - **Swedenborgian Theology** (SWED): 26
 - **Biblical Scholarship** (BIBL): 12
-- **Early Christian History** (EARLY): 16
+- **Early Christian History** (EARLY): 17
 - **The Gnostic Impulse** (GNOS): 8
 - **Mythological Studies** (MYTH): 16
 
@@ -1522,6 +1522,30 @@
 - → `GNOS-007` (opposes): Quran systematically dismantles Pauline Gnosticism
 - → `EARLY-015` (develops): Islam as delayed victory of marginalized faction
 - → `SWED-014` (parallels): Both restore ethical, love-centered Jesus against abstracted 'Christ'
+
+---
+
+#### [EARLY-017] Damascus Divergence Hypothesis
+
+**Status**: contested | **Confidence**: medium
+
+> A critical scholarly analysis arguing that Paul's Damascus vision, the sole legitimating warrant for his apostolate, is NOT historically reliable but a sophisticated rhetorical/literary construct. Three converging lines of evidence: (1) The tripartite accounts in Acts contain irreconcilable contradictions (companions hearing vs. not hearing; standing vs. all falling; Ananias mediation vs. direct commission); (2) Paul's own phrase "en emoi" (in me, Gal 1:15-16) describes an INTERNAL subjective revelation, not external objective appearance, aligning with Gnostic epistemology of self-validating gnosis; (3) Acts 26:14's "kick against the goads" is a direct quotation from Euripides' Bacchae (line 795), suggesting Luke used Greek drama as literary template—the Pentheus/Dionysus theomachos archetype applied to Saul/Jesus.
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/Paul's Damascus Vision_ Scholarly Critique.md
+2. [S] Eisenman, Robert. James the Brother of Jesus (1997)
+3. [S] MacDonald, Dennis R. Does the New Testament Imitate Homer?
+4. [P] Euripides, The Bacchae, line 795
+5. [P] Galatians 1:15-17
+6. [P] Damascus Document (CD 4Q266-273)
+
+**Connections**:
+- → `EARLY-003` (develops): Deepens critique of Paul's claimed authority
+- → `GNOS-001` (supports): Paul's epistemology aligns with Gnostic self-validation
+- → `EARLY-009` (parallels): Luke's editorial agenda in Acts parallels Gospel editing
+- → `BIBL-001` (instantiates): Source/form/redaction criticism applied to Acts
+- → `EARLY-005` (supports): Damascus analysis supports Jamesian priority
 
 ---
 

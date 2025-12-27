@@ -6054,6 +6054,134 @@ nodes:
     updated: 2024-12-28
     trace_status: complete
 
+  BIBL-011:
+    title: "The Criterion of Temptation (Methodological Refinement)"
+    domain: BIBL
+    status: validated
+    confidence: high
+    
+    definition: >
+      A proposed replacement for the standard "Criterion of Embarrassment" used in
+      Historical Jesus studies. The Criterion of Embarrassment assumes that narratives
+      showing Jesus in weakness, subordination, or ignorance are historically authentic
+      because the early church would not have invented them. This new criterion argues
+      that this assumption is flawed because it presupposes a PAULINE theological baseline
+      (High Christology, static perfection) as the default for earliest Christianity.
+      When the JAMESIAN baseline is restored (Orthopraxy, dynamic perfection through
+      struggle), these "embarrassing" moments become not accidental survivals but
+      INTENTIONAL theological assertions—evidence that Jesus CONQUERED temptation,
+      not that he was immune to it.
+    
+    methodological_critique:
+      standard_logic: |
+        Premise A: Early Church viewed Jesus as Divine, Infallible Son
+        Premise B: Divine beings don't exhibit weakness or subordination
+        Observation: Gospels show Jesus weak/subordinate
+        Conclusion: These are historical facts preserved against theological grain
+      
+      flaw: >
+        Premise A is true for LATER orthodox church dominated by Pauline theology,
+        but FALSE for EARLIEST writers and Jamesian communities. The "embarrassment"
+        is anachronistic—projection of Nicean anxieties onto 1st-century Jewish texts.
+    
+    theological_baselines:
+      pauline_gnosis:
+        perfection: "Static—immunity to struggle, change, limitation"
+        matter: "Prison/corruption—flesh (sarx) associated with Sin, Death"
+        soteriology: "Escape from cosmic prison via disembodied spiritual Christ"
+        embarrassment_source: "Any narrative showing Jesus as 'truly fleshy'"
+      jamesian_orthopraxy:
+        perfection: "Dynamic (teleiosis)—completion through struggle"
+        matter: "Creation to be sanctified, not escaped"
+        soteriology: "Kingdom brought DOWN to earth through physical engagement"
+        strength_source: "Conquest of temptation proves real victory; immunity = meaningless"
+    
+    case_applications:
+      baptism:
+        pauline_problem: "Why would Sinless One need baptism of repentance?"
+        jamesian_reading: |
+          (1) Cosmic Mikvah—Jesus enters water to PURIFY IT, not be purified
+          (2) Solidarity in Law—submission is leadership, not weakness
+          (3) Anointing of Warrior—equipping for battle, not adoption
+      
+      garden_agony:
+        pauline_problem: "Divine being shouldn't fear death or pray for escape"
+        jamesian_reading: |
+          Fear is prerequisite for courage. Without capacity to fall, standing is
+          meaningless. "Blessed is the man who endures temptation" (James 1:12)
+      
+      ignorance_sayings:
+        pauline_problem: "Divine being can't not know (Mark 13:32)"
+        jamesian_reading: |
+          Human knowledge growing through experience validates Incarnational
+          Realism. Kenotic self-limitation is pedagogical choice, not deficiency.
+    
+    hermeneutical_principle: >
+      Reframe: "Embarrassing" moments are authentic not because they were ACCIDENTALLY
+      preserved against theological grain, but because they were INTENTIONALLY preserved
+      AS theological jewels by a community that defined messiahship as the DYNAMIC
+      CONQUEST of struggle, not STATIC IMMUNITY to it.
+    
+    caveats:
+      - "Presupposes Bauer Thesis (early Christian diversity) over monolithic orthodoxy"
+      - "Requires accepting Jamesian community as preservers of initial tradition"
+      - "Does not eliminate Criterion of Embarrassment but reframes its baseline"
+    
+    source_chain:
+      - type: T
+        ref: "data/03_Biblical_Scholarship/Re-evaluating Gospel Embarrassment.md"
+        note: "Full methodological development"
+      - type: S
+        ref: "Bauer, Walter. Orthodoxy and Heresy in Earliest Christianity (1934/1971)"
+        note: "Foundation for early Christian diversity thesis"
+      - type: P
+        ref: "James 1:12"
+        note: "Jamesian definition of blessing through endured temptation"
+      - type: P
+        ref: "Hebrews 4:15"
+        note: "Tempted in all points, yet without sin"
+      - type: T
+        ref: "data/05_Gnostic_Analysis/The Apostle of the Archons.md"
+        note: "Gnostic substrate in Pauline theology"
+    
+    evidence:
+      - "Gospel of Hebrews (Jamesian): 'My mother the Holy Spirit took me by the hair' = active spiritual combat"
+      - "Q Source (pre-Pauline): Temptation narrative as qualifying test for messiahship"
+      - "Letter of James entirely lacks Pauline 'embarrassment' anxiety about Jesus's humanity"
+      - "Ebionite Christology valued Jesus as 'Righteous One' through obedience, not ontology"
+      - "Quranic Isa: Servant prophet model preserves Jamesian emphases"
+    
+    connections:
+      - target: EARLY-005
+        type: develops
+        note: "Operationalizes Jamesian theology for textual criticism"
+      - target: GNOS-001
+        type: contrasts
+        note: "Pauline 'embarrassment' anxiety = Gnostic discomfort with matter"
+      - target: BIBL-001
+        type: develops
+        note: "Refinement of Historical-Critical Method criteria"
+      - target: SWED-025
+        type: parallels
+        note: "Glorification = divine through dynamic process, not static state"
+      - target: CROSS-001
+        type: instantiates
+        note: "Two-tiered reading: HCM identifies 'weakness' facts; framework reveals them as strength"
+    
+    notes: >
+      "The 'Scandal of the Flesh' (1 Cor 1:23) is only scandalous to Pauline Gnosis.
+      For Jamesian orthopraxy, it is the whole point. A Christ who cannot suffer,
+      cannot save. A Christ who cannot be tempted, has conquered nothing. The
+      criterion shift is not merely academic—it reveals a fundamentally different
+      picture of messiahship: the 'Suffering Servant' model (Isaiah 53) where
+      victory comes THROUGH apparent defeat, perfection THROUGH process. This aligns
+      with the Swedenborgian doctrine of Glorification where Jesus's Divine-Human
+      union was achieved through progressive combat, not static endowment."
+    
+    created: 2024-12-28
+    updated: 2024-12-28
+    trace_status: complete
+
 # =============================================================================
 # CONNECTIONS INDEX
 # Redundant but useful for quick traversal - auto-generated by scripts

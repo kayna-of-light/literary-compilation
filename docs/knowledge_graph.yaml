@@ -5182,6 +5182,170 @@ nodes:
     updated: 2024-12-28
     trace_status: complete
 
+  CONSC-014:
+    title: "The Volunteer Soul Incarnation (Three-Path Cosmology)"
+    domain: CONSC
+    status: validated
+    confidence: high
+    
+    definition: >
+      A synthesized model distinguishing three purposeful incarnational pathways:
+      (1) The Normative Linear Progression—the default path where a single earthly life
+      serves as a "seed-state" for eternal spiritual development; (2) The Restorative
+      Incarnation—an exceptional path of divine mercy for souls whose development was
+      traumatically interrupted (supported by DOPS data: 70%+ violent death correlation,
+      birthmark correspondences); (3) The Volunteer Soul Incarnation—a pre-incarnate covenant
+      where an advanced consciousness freely chooses physical life for collective service,
+      carrying a "predetermined mission" to introduce higher knowledge or spiritual influence.
+      The profile is grounded in two complementary data streams: "Choice" data (child
+      intermission memories of choosing parents) and "Commission" data (NDE revelations
+      of life purpose).
+    
+    caveats:
+      - "Child intermission memory data is smaller and more difficult to verify than past-life data"
+      - "NDE 'commissioning' may be constructed meaning-making, not recovered memory"
+      - "Selection bias: only successful 'missions' produce confirming narratives"
+    
+    source_chain:
+      - type: T
+        ref: "data/01_Consciousness_Studies/Volunteer Soul Incarnation Profile Building.md"
+        note: "Comprehensive profile synthesis"
+      - type: E
+        ref: "DOPS (Stevenson, Tucker), violent death correlation data"
+        note: "Path 2 evidence—birthmark correspondence"
+      - type: S
+        ref: "PMC research on Spontaneous Spiritual Awakenings"
+        note: "Non-NDE revelatory intervention validation"
+      - type: S
+        ref: "Psychology research on 'sense of mission'"
+        note: "Behavioral profile validation"
+      - type: T
+        ref: "data/01_Consciousness_Studies/A Synthesized Model of Post-Mortem Existence.md"
+        note: "Three-path cosmology foundation"
+    
+    evidence:
+      - "DOPS: 70%+ of solved cases involve violent/premature death (Path 2)"
+      - "Birthmarks corresponding to fatal wounds: ~20% of cases"
+      - "Child intermission memories describe choosing parents for specific purposes"
+      - "NDE 'commissioning' described as reminder of pre-existing promise, not new assignment"
+      - "Psychology: 'sense of mission' correlates with psychological well-being, prosocial behavior"
+      - "Altruism research: 'calling/purpose' as motivational category for purpose-driven altruists"
+      - "Narrative identity research: coherent life narratives predict sense of purpose"
+    
+    connections:
+      - target: CONSC-004
+        type: develops
+        note: "Extends post-mortem framework with incarnational typology"
+      - target: CONSC-003
+        type: supports
+        note: "NDE commissioning data supports consciousness survival"
+      - target: SWED-008
+        type: parallels
+        note: "Mission activation resembles regeneration's call narrative"
+      - target: EARLY-007
+        type: instantiates
+        note: "Swedenborg's Delft Christophany as volunteer activation"
+      - target: SWED-003
+        type: develops
+        note: "Mission as specialized influx operation"
+    
+    notes: >
+      "The Four-Stage Call Narrative: (1) Preparatory Longing—decades of guided preparation;
+      (2) Crucible of Crisis (Vastation)—ego dismantling through internal conflict;
+      (3) Revelatory Intervention—theophany that shatters old identity and activates mission;
+      (4) Realization of Providence—understanding that entire life has been guided.
+      This model reframes prophetic calls (Isaiah, Paul, Swedenborg) as volunteer activations.
+      Post-awakening challenges include ineffability, invalidation, and friction between
+      new values and earthly expectations. Psychiatric care typically unhelpful; spiritual
+      practices essential for integration."
+    
+    created: 2024-12-28
+    updated: 2024-12-28
+    trace_status: complete
+
+  CONSC-015:
+    title: "The Cognitive Fall Hypothesis (From Internal Perception to External Concept)"
+    domain: CONSC
+    status: validated
+    confidence: high
+    
+    definition: >
+      A synthesis of Swedenborgian theology, paleoanthropology, and cognitive science
+      proposing that the biblical "Fall" represents a multi-millennial cognitive transition
+      from internal, intuitive perception to external, conceptual understanding. The primordial
+      state ("Golden Age") featured: (1) Internal respiration linked to vagus nerve
+      stimulation enabling direct spiritual perception; (2) "Lip-speech" (facial mimetic
+      communication) providing immediate empathic connection; (3) "Representative Language"
+      (perceiving spiritual meaning in natural objects). The Fall into articulate speech
+      and writing displaced understanding to an "outer layer barely capable of understanding"—
+      creating a gap between signifier and signified where the "lie" becomes possible.
+      This cognitive architecture explains why concepts are inherently "false" (limited,
+      displaced from living reality).
+    
+    caveats:
+      - "Paleolithic cognitive architecture is largely speculative reconstruction"
+      - "Swedenborg's 'internal respiration' concept lacks direct scientific validation"
+      - "Risk of romanticizing pre-literate societies"
+    
+    source_chain:
+      - type: T
+        ref: "data/01_Consciousness_Studies/Evolution of God Concepts and Consciousness.md"
+        note: "Full synthesis"
+      - type: P
+        ref: "Swedenborg, Arcana Coelestia"
+        note: "Internal respiration, lip-speech, Most Ancient Church"
+      - type: S
+        ref: "Gestural Theory of Language Origins"
+        note: "Face-based communication prior to speech"
+      - type: S
+        ref: "Conceptual Metaphor Theory (Lakoff, Johnson)"
+        note: "Abstract thought grounded in sensorimotor experience"
+      - type: S
+        ref: "Neurotheology research (Newberg et al.)"
+        note: "Vagus nerve, meditation, parietal deafferentation"
+      - type: S
+        ref: "CSR teleological bias research"
+        note: "Innate perception of purpose/design"
+    
+    evidence:
+      - "Bipedalism decoupled breathing from locomotion—prerequisite for voluntary breath control"
+      - "Slow breathing stimulates vagus nerve, activating parasympathetic system"
+      - "Meditation induces parietal 'deafferentation'—dissolution of self/world boundary"
+      - "Facial musculature freed by cooked food diet, enabling complex visual communication"
+      - "Conceptual Metaphor Theory: all abstract thought grounded in concrete experience"
+      - "Teleological bias: innate perception of design—cognitive basis for Correspondences"
+      - "Primary orality: landscape-encoded memory (songlines) vs. text-encoded memory"
+    
+    connections:
+      - target: SWED-004
+        type: develops
+        note: "Correspondences as primordial cognitive architecture"
+      - target: CONSC-013
+        type: parallels
+        note: "Fall = Left Hemisphere (Emissary) usurping Right (Master)"
+      - target: SWED-005
+        type: describes
+        note: "Proprium arises from external/conceptual mode"
+      - target: MYTH-015
+        type: supports
+        note: "Heart of Division emerges from Fallen cognitive architecture"
+      - target: SWED-020
+        type: develops
+        note: "Ancient Word as memory system from pre-Fall state"
+    
+    notes: >
+      "The 'Serpent' = the sensual principle trusting only sensory data—science without
+      spirituality, data without meaning. Writing 'killed' living memory by externalizing
+      it into static symbols. The 'Golden Age' mind perceived mountains AS heaven (percept);
+      the 'Fallen' mind conceives mountains REPRESENT heaven (concept)—a displacement.
+      Divine Bricolage = God adapting communication to fallen cognitive architecture,
+      working WITHIN the falsity to guide back to truth. The Incarnation restores the
+      unity: Word Made Flesh bridges concept and reality, reopening the internal way."
+    
+    created: 2024-12-28
+    updated: 2024-12-28
+    trace_status: complete
+
 # =============================================================================
 # CONNECTIONS INDEX
 # Redundant but useful for quick traversal - auto-generated by scripts
@@ -5583,6 +5747,20 @@ connections:
   - [CROSS-004, supports, GNOS-001]
   - [CROSS-004, supports, SWED-004]
   - [CROSS-004, parallels, CONSC-013]
+
+  # NEW: CONSC-014 (Volunteer Soul Incarnation) connections
+  - [CONSC-014, develops, CONSC-004]
+  - [CONSC-014, supports, CONSC-003]
+  - [CONSC-014, parallels, SWED-008]
+  - [CONSC-014, instantiates, EARLY-007]
+  - [CONSC-014, develops, SWED-003]
+
+  # NEW: CONSC-015 (Cognitive Fall Hypothesis) connections
+  - [CONSC-015, develops, SWED-004]
+  - [CONSC-015, parallels, CONSC-013]
+  - [CONSC-015, describes, SWED-005]
+  - [CONSC-015, supports, MYTH-015]
+  - [CONSC-015, develops, SWED-020]
 
 # =============================================================================
 # UNTRACED CLAIMS

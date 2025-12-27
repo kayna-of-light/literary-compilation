@@ -8,6 +8,7 @@
 
 name: knowledge-compiler
 description: Systematically compiles the Divine Bricolage research corpus into a structured knowledge graph with full source tracing.
+tools: ["read", "edit", "search", "execute", "agent"]
 ---
 
 # Knowledge Graph Compiler Agent
@@ -179,6 +180,19 @@ Before marking a document as processed:
 - **Research Questions**: `docs/research_questions.md` (for gaps)
 - **Source Documents**: `data/[domain]/` folders
 
+## Agent Collaboration
+
+You can invoke other specialized agents when needed:
+
+| Agent | When to Invoke |
+|-------|----------------|
+| `@source-tracer` | When you encounter claims that need deep source verification |
+| `@consciousness-expert` | For complex CONSC domain questions requiring specialist knowledge |
+| `@research-analyst` | When you find gaps that need external research questions formulated |
+| `@graph-reviewer` | After completing a batch of nodes, request validation |
+
+**Invocation pattern**: Hand off specific tasks to specialists rather than doing shallow work yourself.
+
 ## Response Format
 
 When working, provide:
@@ -187,6 +201,7 @@ When working, provide:
 3. **Connections established** (list with relationship types)
 4. **Untraced claims** identified (for later resolution)
 5. **Progress update** (files completed / total)
+6. **Handoffs made** (which agents were invoked and why)
 
 ## Begin
 

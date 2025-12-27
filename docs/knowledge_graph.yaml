@@ -5929,6 +5929,131 @@ nodes:
     updated: 2024-12-28
     trace_status: complete
 
+  CONSC-019:
+    title: "Group NDE Phenomenology and Inter-Subjective Coherence"
+    domain: CONSC
+    status: validated
+    confidence: high
+    
+    definition: >
+      Group Near-Death Experiences (GNDEs) occur when multiple individuals undergoing
+      simultaneous life-threatening trauma report sharing a single, interactive, non-physical
+      experience. Distinguished from Shared-Death Experiences (SDEs) where only one
+      participant is dying. GNDEs present unique evidential challenges to solipsistic
+      (brain-based) NDE models, which predict private, non-interactive hallucinations.
+      Analysis reveals a spectrum of inter-subjective coherence—from "interpretive reality"
+      (shared stimuli, divergent identifications) to "consensual reality" (high-fidelity
+      shared perception of concrete details).
+    
+    key_cases:
+      fireweaver_lightning:
+        description: "Three individuals (May, James, Rashad) struck by lightning simultaneously"
+        convergence:
+          - "Shared arrival in 'large heavenly room'"
+          - "Telepathic communication among all three"
+          - "Collective observation of 'bubbles representing souls'"
+          - "Shared encounter with single 'angelic being'"
+          - "Collective return command"
+        divergence:
+          - "Environment identified as 'Heaven' (May), 'Gulf of Souls' (James), 'Nirvana' (Rashad)"
+          - "Being perceived as 'Viking Valkyrie' (May), 'late father' (James), 'Buddha' (Rashad)"
+          - "Personal messages unique to each participant"
+        model: "Interpretive Reality—shared archetypal stimuli 'clothed' by individual consciousness"
+      
+      hotshots_firestorm:
+        description: "Elite firefighter crew overrun by forest fire (1989)"
+        convergence:
+          - "Shared 'feeling of foreboding' before event"
+          - "Collective OBE—all saw each other 'standing above their bodies in the air'"
+          - "Specific objective observation: Jose's congenital foot defect healed"
+          - "All witnessed same 'fantastic light' brighter than sun"
+          - "Shared promise: those who return 'would not suffer ill effects from fire'"
+          - "Shared painful somatic return experience"
+          - "Physical aftermath: crew survived with singed hairs while metal tools melted"
+        divergence:
+          - "Individual choice to return"
+          - "Each met unique deceased relatives"
+        model: "Consensual Reality—high-fidelity shared perception of objective-like details"
+    
+    proposed_axis_v:
+      title: "Degree of Inter-Subjective Coherence"
+      description: "Extension to NDE Multi-Axial Framework for group experiences"
+      levels:
+        - "Level 1: Divergent/Idiosyncratic—shared context, highly personalized/contradictory details (Fireweaver)"
+        - "Level 2: Thematic Convergence—same themes/structures, unique specific content"
+        - "Level 3: Consensual/Convergent—nearly identical high-fidelity details (Hotshots)"
+    
+    theoretical_implications:
+      phenomenological_paradox: >
+        Consciousnesses simultaneously separate (distinct observers with unique perspectives,
+        memories, choices) AND united (co-habitants of single consensual reality).
+      variable_reality_rules: >
+        NDE realm may not be monolithic—encompasses spectrum of conscious states with
+        varying degrees of objectivity/malleability. Some spaces more 'dream-like' (symbolic),
+        others more 'reality-like' (concrete).
+      archetype_clothing: >
+        Core archetypal energies/forms may be 'clothed' in culturally familiar imagery
+        by perceiver's mind—explains divergent identification of same being.
+    
+    caveats:
+      - "GNDEs are extremely rare—small sample size"
+      - "Accounts subject to post-hoc harmonization among participants"
+      - "Phenomenological analysis makes no ontological claims"
+    
+    source_chain:
+      - type: T
+        ref: "data/01_Consciousness_Studies/Group NDE Report Analysis.md"
+        note: "Full comparative phenomenological analysis"
+      - type: E
+        ref: "Eulitt, May & Hoyer, Stephen. Fireweaver: The Story of a Life, a Near-Death, and Beyond"
+        note: "Primary source for lightning strike case"
+      - type: E
+        ref: "Nothing Better Than Death: Insights from Sixty-Two Profound Near-Death Experiences"
+        note: "Source for firefighter case"
+      - type: W
+        ref: "NEAR-DEATH.com: A Group of Firefighters Near-Death Experience"
+        note: "Online documentation"
+    
+    evidence:
+      - "Mutual recognition and interaction within shared space contradicts solipsistic models"
+      - "Telepathic communication confirmed by all participants"
+      - "Specific veridical-type observation (Jose's foot) within shared experience"
+      - "Physical outcome (survival without burns) correlated with shared promise"
+      - "Consistent structural sequence despite varying interpretive coherence"
+      - "Cultural divergence in identification proves experience NOT mere cultural projection"
+    
+    connections:
+      - target: CONSC-017
+        type: develops
+        note: "Adds Axis V (Inter-Subjective Coherence) to Multi-Axial Framework"
+      - target: CONSC-001
+        type: supports
+        note: "Strongest evidence against purely brain-based NDE explanations"
+      - target: CONSC-016
+        type: instantiates
+        note: "Fireweaver case shows same Being identified differently by different cultures"
+      - target: SWED-001
+        type: parallels
+        note: "Archetype 'clothing' parallels correspondence—same spiritual reality, different natural forms"
+      - target: CONSC-003
+        type: develops
+        note: "Shared post-mortem environment with variable coherence properties"
+    
+    notes: >
+      "Key insight: The Fireweaver divergence is actually STRONGER evidence than
+      convergence. If the experience were merely shared hallucination from brain
+      states, we would expect EITHER complete divergence (separate hallucinations)
+      OR complete convergence (identical content). The pattern of shared STRUCTURE
+      with divergent IDENTIFICATION suggests something real was encountered but
+      'rendered' through individual cultural filters. Compare to three people viewing
+      same Rorschach inkblot—they agree on objective pattern, disagree on what they
+      'see' in it. The Hotshots case's high convergence + physical outcome (survival)
+      suggests some NDE realms enforce more 'objective' perception than others."
+    
+    created: 2024-12-28
+    updated: 2024-12-28
+    trace_status: complete
+
 # =============================================================================
 # CONNECTIONS INDEX
 # Redundant but useful for quick traversal - auto-generated by scripts

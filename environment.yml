@@ -1,0 +1,12 @@
+name: literary-compilation
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pyyaml>=6.0
+  - pip
+  # Future dependencies can be added here as the project grows
+  # - networkx        # For advanced graph analysis
+  # - matplotlib      # For graph visualization
+  # - pandas          # For data analysis

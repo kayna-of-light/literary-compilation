@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-27 09:51*
+*Last exported: 2025-12-27 09:52*
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 81 |
-| Total Connections | 263 |
+| Total Nodes | 82 |
+| Total Connections | 267 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 72
+- **validated**: 73
 - **preliminary**: 5
 - **contested**: 4
 
@@ -26,7 +26,7 @@
 - **Consciousness Studies** (CONSC): 12
 - **Swedenborgian Theology** (SWED): 23
 - **Biblical Scholarship** (BIBL): 10
-- **Early Christian History** (EARLY): 14
+- **Early Christian History** (EARLY): 15
 - **The Gnostic Impulse** (GNOS): 7
 - **Mythological Studies** (MYTH): 12
 
@@ -1201,6 +1201,27 @@
 - → `SWED-004` (parallels): Melchizedek as bearer of pre-Sinaitic revelation
 - → `SWED-018` (supports): Prefigures the Divine Human in ultimates
 - → `GNOS-001` (develops): Gnostic Melchizedek as Paralemptor (Light Receiver)
+
+---
+
+#### [EARLY-015] The Bauer Thesis: Orthodoxy as Imperial Construct
+
+**Status**: validated | **Confidence**: high
+
+> Walter Bauer's thesis that in many early Christian regions (Egypt, Edessa, Asia Minor), what was later labeled "heresy" (Gnosticism, Marcionism) was actually the original and dominant form of Christianity, while "Orthodoxy" was a later importation backed by Rome. The Roman church achieved dominance through: (1) Financial imperialism - "charity" creating client-patron networks; (2) Weaponized excommunication (Victor I vs. Quartodecimans); (3) Installation of aligned bishops (Palut in Edessa via Serapion/Rome chain); (4) Historical revisionism (Doctrine of Addai). In Edessa, "Orthodox" Christians were pejoratively called "Palutians" by the Marcionite majority, proving Orthodoxy was the sectarian newcomer. The triumph was not theological but institutional - Rome offered governable "Pistis" (faith/obedience) vs. ungovernable "Gnosis" (knowledge/experience).
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/Early Christianity_ Orthodoxy vs. Heresy.md
+2. [S] Bauer, Walter. Orthodoxy and Heresy in Earliest Christianity (1934/1971)
+3. [S] Ehrman, Bart. Lost Christianities
+4. [P] Chronicle of Edessa; Doctrine of Addai
+
+**Connections**:
+- → `GNOS-007` (supports): Paul originally claimed by Gnostics; 'rescued' by Pastorals
+- → `EARLY-002` (contradicts): Challenges Jamesian priority; suggests multiple early trajectories
+- → `GNOS-001` (supports): Gnosticism was native flora, not deviation
+- → `EARLY-014` (parallels): Similar pattern of later orthodoxy claiming ancient legitimacy
 
 ---
 

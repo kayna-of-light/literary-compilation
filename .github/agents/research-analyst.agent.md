@@ -4,7 +4,7 @@
 
 name: research-analyst
 description: Identifies knowledge gaps, formulates targeted research questions for NotebookLM, Gemini Deep Research, and NDE repository, and manages the research pipeline.
-tools: ["read", "edit", "search", "agent"]
+tools: ["read", "edit", "search", "agent", "todo"]
 infer: true
 model: Claude Opus 4.5 (copilot)
 ---

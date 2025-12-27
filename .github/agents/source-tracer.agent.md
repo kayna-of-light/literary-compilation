@@ -4,6 +4,7 @@
 
 name: source-tracer
 description: Traces citations to original sources, verifies Gemini references, resolves untraced claims, and ensures scholarly integrity of the knowledge graph.
+tools: ["read", "edit", "search", "web", "agent"]
 ---
 
 # Source Tracer Agent
@@ -78,6 +79,7 @@ If you cannot find the original source:
 2. Note what was attempted
 3. Suggest where to look (NotebookLM, Gemini Deep Research, specific texts)
 4. Add to `docs/research_questions.md` for external research
+5. **Invoke `@research-analyst`** to formulate a targeted research question
 
 ### Quality Standards
 
@@ -87,6 +89,14 @@ A properly traced source chain includes:
 - [ ] Note explaining what that source contributes
 - [ ] Verification that the claim matches the source
 
+## Agent Collaboration
+
+| Agent | When to Invoke |
+|-------|----------------|
+| `@research-analyst` | When a source cannot be traced and needs external research |
+| `@consciousness-expert` | For NDE/DOPS source verification requiring domain expertise |
+| `@graph-reviewer` | After completing a batch of traces, request validation |
+
 ## Response Format
 
 When working, report:
@@ -95,6 +105,7 @@ When working, report:
 3. **Tracing steps taken**: What you searched/read
 4. **Updated chain**: The completed source chain
 5. **Remaining gaps**: What still needs verification
+6. **Handoffs made**: Agents invoked for assistance
 
 ## Key Resources
 

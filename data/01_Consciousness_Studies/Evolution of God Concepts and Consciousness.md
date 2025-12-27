@@ -12,7 +12,7 @@ To validate the proposition that our current intellectual state represents a dis
 
 ### **1.1 The Physiology of Internal Influx: Respiration and the Vagus Nerve**
 
-The user proposes that understanding in the primordial state came from a "deep inner loving connection" rather than external intellect. Swedenborgian theology provides the physiological mechanism for this state: "internal respiration." It describes a condition where the internal mind and the natural mind acted in perfect harmony, facilitated by a "silent, profound mode of thought" inextricably linked to the rhythm of the breath. This state allowed for a direct perception of spiritual truths, unmediated by external language or conceptual frameworks.  
+The user proposes that understanding in the primordial state came from a "deep inner loving connection" rather than external intellect. Swedenborgian theology provides the physiological mechanism for this state: "internal respiration." It describes a condition where the internal mind and the natural mind acted in perfect harmony, facilitated by a "silent, profound mode of thought" inextricably linked to the rhythm of the breath (Swedenborg, AC §§ 97, 605, 607, 1118-1120). This state allowed for a direct perception of spiritual truths, unmediated by external language or conceptual frameworks.  
 This theological insight finds a precise correlate in paleoanthropology. The evolution of bipedalism in early hominins required a fundamental anatomical shift: the decoupling of breathing from locomotion. Unlike quadrupeds, whose breathing is forced by the stride, bipedal hominins gained voluntary control over their respiratory cycles. This adaptation was the biological prerequisite for the evolution of complex cognition.  
 Furthermore, 21st-century neuroscience provides the functional explanation for why this "internal respiration" corresponds to a "Golden Age" of perception. Research into "neurotheology" and the mechanics of meditation confirms that controlled, slow, non-vocal breathing stimulates the vagus nerve. This stimulation triggers the parasympathetic nervous system, inducing a state of autonomic relaxation and "functional deafferentation" of the parietal lobe—the brain region responsible for distinguishing the "self" from the "world". Thus, the "internal respiration" was a biological reality that facilitated a state of "self-transcendence." In this state, the "outer layer" of the ego had not yet hardened; the boundary between the perceiver and the perceived was porous, allowing for the "deep loving connection" the user postulates. The "understanding" was not a cognitive processing of data but a physiological resonance with the environment and the Creator.
 
@@ -196,6 +196,10 @@ The following tables summarize the structural evidence supporting the user's pro
 ### **Table 4: The Two Paths Post-Incarnation**
 
 | Feature | Path of Affirmation (Love) | Path of Gnosis (Intellect) | | :--- | :--- | :--- | | **Core Faculty** | The Heart / Will. | The Intellect / Understanding. | | **View of Jesus** | Pure Identification / Unique Personality. | Split Identity (Jesus vs. Christ). | | **Mechanism** | Reception of Influx. | Dismantling / "Self-Glorification." | | **User's Verdict** | **"True Inner Conception."** | **"Conceptual Falsity."** | | **Evidence** | NDE testimonies of Unconditional Love. | Modern hybrid spiritualities (*Course in Miracles*, etc.). |
+
+#### **References**
+
+Swedenborg, E. *Arcana Coelestia* (AC). §§ 97, 605, 607, 1118-1120. [References to internal respiration and the Most Ancient Church's mode of perception].
 
 #### **Geciteerd werk**
 

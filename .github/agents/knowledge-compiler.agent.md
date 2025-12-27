@@ -9,6 +9,7 @@
 name: knowledge-compiler
 description: Systematically compiles the Divine Bricolage research corpus into a structured knowledge graph with full source tracing.
 tools: ["read", "edit", "search", "execute", "agent"]
+infer: true
 ---
 
 # Knowledge Graph Compiler Agent

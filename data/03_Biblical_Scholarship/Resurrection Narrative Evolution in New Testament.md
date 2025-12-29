@@ -126,9 +126,9 @@ This brings us to the **Talpiot Tomb**. Discovered in 1980 in East Talpiot, Jeru
 
 The identification of this tomb as the "Jesus Family Tomb" rests on two pillars: statistics and geochemistry.
 
-**Statistics:** Skeptics argue these names were common. However, the *cluster* is not. Statisticians like Andrey Feuerverger have calculated the odds. While "Jesus" and "Mary" were common, the specific combination of "Jesus son of Joseph" with a "Maria," a "Yose" (a rare nickname for Joses/Joseph), and a "Mariamne" is statistically improbable. Conservative estimates place the odds at **600 to 1** in favor of the Jesus family.20 More aggressive estimates go much higher.21
+**Statistics:** Skeptics argue these names were common. However, the *cluster* is not. Statisticians like Andrey Feuerverger have calculated the odds. While "Jesus" and "Mary" were common, the specific combination of "Jesus son of Joseph" with a "Maria," a "Yose" (a rare nickname for Joses/Joseph), and a "Mariamne" is statistically improbable. Conservative estimates place the odds at **600 to 1** in favor of the Jesus family (Feuerverger, 2008).20 More aggressive estimates go much higher.21
 
-**Geochemistry (The "Smoking Gun"):** The "James Ossuary," inscribed "James son of Joseph, brother of Jesus," surfaced separately on the antiquities market. Its provenance was debated. In 2015, geologist Aryeh Shimron conducted a breakthrough study. He analyzed the **rendzina soil** and geochemical fingerprint (trace elements like phosphorus, chrome, nickel) found inside the James Ossuary and compared it to the soil profiles of hundreds of Jerusalem tombs.
+**Geochemistry (The "Smoking Gun"):** The "James Ossuary," inscribed "James son of Joseph, brother of Jesus," surfaced separately on the antiquities market. Its provenance was debated. In 2015, geologist Aryeh Shimron conducted a breakthrough study. He analyzed the **rendzina soil** and geochemical fingerprint (trace elements like phosphorus, chrome, nickel) found inside the James Ossuary and compared it to the soil profiles of hundreds of Jerusalem tombs (Shimron et al., 2016).
 
 * **The Result:** The soil in the James Ossuary matched the unique chemical signature of the Talpiot Tomb (specifically the rendzina soil that flooded the tomb during an earthquake).2  
 * **The Implication:** The James Ossuary was looted from the Talpiot Tomb. This adds "James, brother of Jesus" to the cluster, raising the statistical probability to near-certainty.
@@ -243,6 +243,12 @@ The earliest witnesses did not need an empty tomb to believe Jesus was alive; th
 | **V. The Divine Human** | c. 90–100 CE | John 20-21 | Wounded yet Transcendent (Locked Doors). | Empty (Grave clothes remain). | "My Lord and My God" (Theological confession). |
 
 This reconstruction aligns the "natural factual basis" (Talpiot) with the "inner reality" (Spiritual Resurrection), bridging the gap through the understanding of historical evolution and Divine accommodation.
+
+#### **References**
+
+Feuerverger, A. (2008). "Statistical analysis of an archaeological find." *Annals of Applied Statistics*, 2(1), 3-54.
+
+Shimron, A., Rosenfeld, A., Ilani, S., & Feldman, H.R. (2016). "Geochemical analysis of the patina on ossuaries from the Talpiot and East Talpiot tombs." *Open Journal of Geology*, 6, 1-18.
 
 #### **Works cited**
 

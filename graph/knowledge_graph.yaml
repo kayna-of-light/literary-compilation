@@ -9562,6 +9562,128 @@ nodes:
     updated: 2025-12-29
     trace_status: complete
 
+  CONSC-043:
+    title: "Dying Brain Hypothesis: Systematic Critical Evaluation"
+    domain: CONSC
+    status: validated
+    confidence: high
+    
+    definition: >
+      A comprehensive critique demonstrating that physiological mechanisms proposed to
+      explain NDEs as brain-generated artifacts are insufficient to account for the
+      full phenomenological and evidential record. While mechanisms like cerebral anoxia,
+      REM intrusion, and endogenous DMT may explain SOME features, they fail on four
+      critical fronts: (1) veridical perception during documented flat EEG/BAEPs,
+      (2) timing mismatch with gamma surge data, (3) phenomenological divergence from
+      ketamine/DMT experiences, (4) anomalies like terminal lucidity and shared-death
+      experiences. The critique does not "prove" consciousness survival but demonstrates
+      the reductionist framework has explanatory gaps that cannot be waved away.
+    
+    mechanisms_evaluated:
+      cerebral_anoxia:
+        explains: "Context (why NDEs occur during cardiac arrest)"
+        fails: "Hyper-lucidity (inverse relationship to anoxic confusion)"
+      rems_hypothesis:
+        explains: "Some narrative/visual features"
+        fails: "NDE coherence vs. REM fragmentation; temporal lobe surgery cases"
+      endogenous_dmt:
+        explains: "Potential mystical/visionary features"
+        fails: "Phenomenological divergence; no temporal lobe DMT receptor density"
+      gamma_surge:
+        explains: "Brief post-arrest cortical activity spike"
+        fails: "Timing (2-30 sec surge vs. 10-30 min NDE narratives)"
+      temporal_lobe:
+        explains: "Fragmentary autoscopic experiences"
+        fails: "Coherent NDE sequence; life review complexity"
+    
+    key_veridical_cases:
+      pam_reynolds: >
+        Surgical details during hypothermic cardiac arrest with confirmed flat EEG
+        AND flat brainstem auditory evoked potentials (BAEPs). Both cortical AND
+        subcortical brain function absent.
+      dentures_man: >
+        Identified specific drawer location of dentures from overhead visual
+        perspective during clinical death. Published in Lancet (van Lommel 2001).
+      al_sullivan: >
+        Described surgeon's idiosyncratic "elbow flapping" motion during bypass.
+        Purely visual signature—no auditory cue available during procedure.
+      maria_shoe: >
+        Described tennis shoe on third-floor window ledge from room where she was
+        coded. Later verified by Kimberly Clark Sharp.
+    
+    aware_study_findings:
+      protocol: "153 hospitals, visual targets placed above patient sightlines"
+      result: "0 verified hits (2,060 patients, 140 cardiac arrests)"
+      interpretation: >
+        Cited by skeptics as refutation. However: only 2.5% of survivors reported
+        OBEs, and only 9 patients described OBEs with specific visual content—none
+        in rooms with targets. The study suffers from severe survivorship bias and
+        proves neither hypothesis.
+    
+    anomalies_beyond_dbh:
+      terminal_lucidity: >
+        Patients with dementia/Alzheimer's (demonstrated neuronal loss on autopsy)
+        recover full lucidity hours before death. If memory requires intact neurons,
+        this is inexplicable.
+      shared_death_experiences: >
+        Non-dying individuals report NDE phenomena (life review, tunnel, light)
+        while attending a loved one's death. Shared phenomenology without shared
+        pathology.
+    
+    scholarly_acknowledgment: >
+      Even skeptical researchers (Parnia, Borjigin) acknowledge current neuroscience
+      cannot fully account for veridical perception during demonstrated cortical
+      inactivity. The Hard Problem of Consciousness remains open.
+    
+    source_chain:
+      - type: T
+        ref: "data/01_Consciousness_Studies/Evaluating Dying Brain Hypothesis Critically.md"
+        note: "Comprehensive 358-line critique with 63 scholarly citations"
+      - type: E
+        ref: "Parnia et al. 'AWARE Study' (Resuscitation 2014)"
+        note: "Largest prospective NDE study"
+      - type: E
+        ref: "van Lommel et al. 'Near-death experience in survivors of cardiac arrest' (Lancet 2001)"
+        note: "Dutch prospective study with Dentures Man case"
+      - type: E
+        ref: "Sabom, Michael. 'Light and Death' (1998)"
+        note: "Pam Reynolds case documentation"
+      - type: S
+        ref: "Borjigin et al. 'Surge of neurophysiological coherence' (PNAS 2013)"
+        note: "Gamma surge research"
+    
+    evidence:
+      - "Veridical perception during flat EEG + flat BAEPs (Pam Reynolds)"
+      - "88%+ correct details in verified OBE reports (Holden meta-analysis)"
+      - "Timing mismatch: 2-30 sec gamma vs. 10-30 min narratives"
+      - "Phenomenological divergence: NDEs coherent vs. ketamine fragmented"
+      - "Terminal lucidity in patients with confirmed neuronal loss"
+      - "Shared-death experiences without shared pathology"
+    
+    connections:
+      - target: CONSC-017
+        type: develops
+        note: "Provides detailed mechanism-by-mechanism critique referenced in C-017"
+      - target: CONSC-001
+        type: supports
+        note: "Demonstrates explanatory gaps in materialist alternatives"
+      - target: CONSC-004
+        type: validates
+        note: "Strengthens phenomenological evidence by addressing objections"
+      - target: CONSC-002
+        type: parallels
+        note: "Both represent empirical anomalies defying materialist reduction"
+    
+    notes: >
+      This node represents the defensive argument: DBH mechanisms are NECESSARY but
+      INSUFFICIENT. The framework does not claim to "prove" survival—it demonstrates
+      that materialist dismissal is premature given current evidence quality. The
+      veridical cases are the irreducible anomaly.
+    
+    created: 2025-06-24
+    updated: 2025-06-24
+    trace_status: complete
+
   MYTH-018:
     title: "Collective Memory Theory (Halbwachs)"
     domain: MYTH

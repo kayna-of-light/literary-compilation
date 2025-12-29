@@ -410,22 +410,28 @@ When gaps or questions arise during framework development:
 3. **Document in `docs/research_questions.md`** — Log the question with proper formatting
 4. **Execute Research** — Copy the question block to the selected tool
 5. **Integrate Findings** — Update relevant framework documents with results
-6. **Mark Resolved** — Update the question status in the tracking document
+6. **Archive to Resolved** — Move the completed question to `docs/resolved_research_questions.md`
 
-### Research Questions Document
+### Research Questions Documents
 
-The file `docs/research_questions.md` serves as a centralized tracker for:
+Research questions are tracked in a two-file system for easy navigation:
 
-- Open research questions awaiting investigation
-- Hypotheses requiring external validation
-- Gaps identified during framework synthesis
-- Questions in progress with preliminary findings
+| Document | Purpose |
+|----------|---------|
+| `docs/research_questions.md` | **OPEN** questions requiring investigation |
+| `docs/resolved_research_questions.md` | **RESOLVED** questions with findings archived |
 
-**Format**: Each question includes:
+**When resolving a question:**
+1. Move the entire question block to `resolved_research_questions.md`
+2. Update Status to `✅ RESOLVED`
+3. Add the resolution date and findings summary
+4. Update the statistics table at the bottom of the resolved document
+
+**Question Format** (both files):
 - **Target System Tag**: `[NLM]`, `[GDR]`, or `[NDE]`
 - **Context Block**: Background appropriate to the target system's input constraints
 - **Research Question**: Clear, specific question or hypothesis
-- **Status**: Open / In Progress / Resolved
+- **Status**: Open / In Progress / ✅ RESOLVED
 
 Questions are separated by `---` horizontal rules for easy copying.
 

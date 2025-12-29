@@ -27,6 +27,275 @@ When identifying a gap or question during framework development:
 
 ## Open Questions
 
+### Critical Analysis Follow-Up Questions (2025-12-29)
+
+The following questions emerged from knowledge graph validation and @critic report analysis. These target specific empirical gaps and source verification needs.
+
+---
+
+### [NDE] CONSC-034: Restorative Path Violent Death Correlation
+
+**Target**: `[NDE]`  
+**Status**: Open  
+**Date Added**: 2025-12-29  
+**Priority**: HIGH  
+**Related Nodes**: CONSC-034, CONSC-002, CONSC-031
+
+**Context**:
+The Threefold Path cosmology claims >70% of DOPS past-life cases involve violent or premature death, validating the "Restorative Incarnation" pathway. CONSC-034 explicitly acknowledges this cannot be validated using NDE data—DOPS database required. The claim traces to Stevenson's "Twenty Cases Suggestive of Reincarnation" but exact percentage unverified.
+
+**Research Question**:
+1. What is the EXACT percentage of DOPS cases involving violent or premature death?
+2. Is this percentage documented in published DOPS literature (Tucker, Stevenson)?
+3. What constitutes "violent death" in DOPS coding (murder, accident, suicide, war)?
+4. How does "interrupted life" (dying young) correlate with strength of past-life recall?
+5. Are there demographic patterns in violent death cases (region, era, gender)?
+6. Can we access DOPS summary statistics without full database access?
+
+**Expected Output**:
+Verified percentage with proper citation. If <70%, framework claim requires revision. If >70%, provides critical validation for Restorative Path.
+
+**Notes**:
+This is a TRACE NEEDED item on CONSC-034. Source chain stops at secondary reference. Primary DOPS data required.
+
+---
+
+### [NDE] CONSC-033: Stage Transition Rates and Truncation Analysis
+
+**Target**: `[NDE]`  
+**Status**: Open  
+**Date Added**: 2025-12-29  
+**Priority**: HIGH  
+**Related Nodes**: CONSC-033, CONSC-028, SWED-003
+
+**Context**:
+Four-stage sequential analysis found only 40% canonical rate vs. 70%+ predicted. The 0% unusual ordering (no cases showing Stage 3 before Stage 2) suggests truncation, not disorder. Need granular stage transition data to validate truncation hypothesis.
+
+**Research Question**:
+1. What percentage of NDEs terminate at each stage? (Stage 1 only: __%; Stage 1+2: __%; etc.)
+2. Are truncated NDEs concentrated at specific stages? (Which stages are "return points"?)
+3. Is truncation correlated with NDE cause? (Cardiac arrest vs. trauma vs. other)
+4. Can we calculate stage-to-stage transition rates? (P(Stage 2 | Stage 1 complete) = ?)
+5. What factors predict NDE depth/duration? (Greyson Scale correlation with stages reached)
+6. Is there a "point of no return" after which canonical completion becomes likely?
+
+**Expected Output**:
+Stage transition matrix. If truncation explains 30% gap between observed (40%) and predicted (70%+), validates the sequential structure hypothesis despite low canonical rate.
+
+**Notes**:
+Critical for salvaging CONSC-033 which is currently "contested." The absence of disorder (0% unusual ordering) is significant but needs truncation mechanism quantified.
+
+---
+
+### [GDR] CROSS-006: Jesus Identification Percentage Verification
+
+**Target**: `[GDR]`  
+**Status**: Open  
+**Date Added**: 2025-12-29  
+**Priority**: MEDIUM  
+**Related Nodes**: CROSS-006, CONSC-016
+
+**Context**:
+The Jesus Profile Thesis (CROSS-006) claims "~60% Western experiencers identify Being of Light as Jesus." This statistic is used as validation that editorial bricolage "succeeded"—the curated Jesus Profile matches actual spiritual entity encountered. Source chain shows only `[E] NDE phenomenology research (various)`. No specific study cited.
+
+**Research Question**:
+1. What is the EXACT percentage and what study/studies is it derived from?
+2. Which researcher(s) published this statistic? (Long, Ring, van Lommel, Greyson?)
+3. Does the percentage vary by decade? (1970s studies vs. 2020s?)
+4. Does the percentage vary by region within "Western" category? (US vs. UK vs. Germany?)
+5. How is "identification as Jesus" operationalized? (Name stated, visual match, innate knowing?)
+6. What percentage identify other religious figures? (Angels, deceased relatives, generic light?)
+
+**Expected Output**:
+Specific citation with study name, sample size, and methodology. If no primary source exists, flag as unsupported claim requiring revision or removal.
+
+**Notes**:
+~60% appears in multiple framework documents without primary citation. May be folk knowledge in NDE community that needs verification.
+
+---
+
+### [NLM] SWED-042: Damdat Nask Reconstruction Sources
+
+**Target**: `[NLM]`  
+**Status**: Open  
+**Date Added**: 2025-12-29  
+**Priority**: MEDIUM  
+**Related Nodes**: SWED-042, SWED-004, SWED-041
+
+**Context**:
+SWED-042 claims Alexander's 330 BCE destruction of Persepolis archives destroyed the DAMDAT NASK—a systematic correspondence encyclopedia. Bundahišn summaries supposedly preserve fragmentary content. Need scholarly verification of reconstruction claims.
+
+**Research Question**:
+What elements of the Bundahišn can be specifically traced to the lost Damdat Nask according to academic Iranology?
+
+**Expected Output**:
+Scholarly citations (Boyce, Shaked, de Jong, Hintze) documenting what the Damdat Nask contained and how it relates to surviving texts.
+
+**Notes**:
+500 char limit for NLM—question focused. Extended research may require GDR follow-up.
+
+---
+
+### [GDR] SWED-042: Alexander Archive Destruction Historiography
+
+**Target**: `[GDR]`  
+**Status**: Open  
+**Date Added**: 2025-12-29  
+**Priority**: MEDIUM  
+**Related Nodes**: SWED-042, SWED-004
+
+**Context**:
+The claim that Alexander's forces destroyed Zoroastrian archives at Persepolis is derived from Zoroastrian hagiographic sources (Arda Viraf Namag, Denkard). Critical scholars may view this as legendary expansion. Need neutral historiographical assessment.
+
+**Research Question**:
+1. What do academic historians (not Zoroastrian sources) say about Alexander's destruction at Persepolis?
+2. Is there archaeological evidence for archive destruction vs. general fire damage?
+3. How do Iranologists (Boyce, Shaked) assess Zoroastrian claims about Avestan text destruction?
+4. What is the scholarly consensus on the "Alexander burned the Avesta" narrative?
+5. Are there alternative explanations for Avestan text loss (oral transmission gaps, neglect, Islamic conquest)?
+6. What portions of the Avesta were definitely written before 330 BCE vs. later compositions?
+
+**Expected Output**:
+Historiographical assessment of Zoroastrian destruction narrative. If largely legendary, caveat on SWED-042 needs strengthening. If substantiated, validates key framework mechanism.
+
+**Notes**:
+This is a historical rather than theological question—requires secular academic sources.
+
+---
+
+### [NLM] SWED-043: Daniel Historicity Scholarly Consensus
+
+**Target**: `[NLM]`  
+**Status**: Open  
+**Date Added**: 2025-12-29  
+**Priority**: MEDIUM  
+**Related Nodes**: SWED-043, EARLY-008
+
+**Context**:
+SWED-043 treats Daniel's appointment as Rab-mag as historical, enabling prophetic-Magian synthesis. Critical scholars date Daniel to 2nd century BCE (Maccabean period), rendering the Babylonian court narrative as literary fiction. Framework needs to acknowledge this caveat.
+
+**Research Question**:
+What is the scholarly consensus on the historicity of Daniel's Babylonian court narrative and Rab-mag appointment?
+
+**Expected Output**:
+Summary of critical scholarship on Daniel dating and historicity. If consensus is 2nd c. BCE composition, framework must adjust claim or acknowledge as theological reading of non-historical narrative.
+
+**Notes**:
+500 char limit—focused query. May need GDR for extended historiographical analysis.
+
+---
+
+### [GDR] Zoroastrian mēnōg/gētīg Ontology Academic Sources
+
+**Target**: `[GDR]`  
+**Status**: Open  
+**Date Added**: 2025-12-29  
+**Priority**: MEDIUM  
+**Related Nodes**: SWED-041, SWED-042, SWED-004
+
+**Context**:
+Framework claims Zoroastrian mēnōg (spiritual)/gētīg (physical) ontology parallels Swedenborg's doctrine of correspondences. This is a significant claim requiring independent verification from academic Iranology, not just Swedenborgian sources.
+
+**Research Question**:
+1. How do academic Iranologists (Mary Boyce, Shaul Shaked, Jenny Rose) describe the mēnōg/gētīg distinction?
+2. Is there textual evidence for systematic "correspondence" thinking in Zoroastrian sources?
+3. How does the Bundahišn taxonomy of beneficent/noxious creatures work?
+4. Are there academic studies comparing Zoroastrian natural classification to medieval European correspondence systems?
+5. What do scholars say about the antiquity vs. late development of mēnōg/gētīg concepts?
+6. Is there any scholarly precedent for connecting Swedenborg's correspondences to Iranian sources?
+
+**Expected Output**:
+Independent academic verification of parallel ontology. If scholars confirm systematic correspondence thinking in Zoroastrianism, strengthens Ancient Word hypothesis. If scholars describe it differently, framework interpretation may need revision.
+
+**Notes**:
+Key for external triangulation (SWED-037 principle). Framework cannot validate itself—needs independent scholarly confirmation.
+
+---
+
+### Source Tracing Follow-Up Questions (2025-12-29)
+
+The following questions emerged from source tracing analysis of the NDE empirical documents. See `docs/SOURCE_TRACE_REPORT_conceptual_framework_deep_dive.md` for full report.
+
+---
+
+### [NDE] Operationalization: "Unknown Presence" Classification Criteria
+
+**Target**: `[NDE]`  
+**Status**: Open  
+**Date Added**: 2025-12-29  
+**Priority**: HIGH  
+**Related Files**: `conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md`
+
+**Context**:
+Framework analysis claims 61.8% of Being of Light encounters are classified as "unknown presence" (1,970 of 3,189 cases). This is described as the "strongest evidence" for objective reality since it shows experiencers encounter something that transcends their available conceptual categories.
+
+**Research Question**:
+1. What questionnaire fields in NDERF/IANDS are used to extract "being identification"?
+2. What are the exact response options that map to "unknown presence" classification?
+3. Is "unknown presence" a distinct response option, or a researcher-assigned category for ambiguous responses?
+4. How do we distinguish "unknown presence" from "not reported" or "declined to answer"?
+5. What is the inter-rater reliability for this classification if researcher-assigned?
+
+**Expected Output**:
+Documentation of the operationalization criteria for "unknown presence" sufficient for replication.
+
+**Notes**:
+This is a CRITICAL claim requiring rigorous methodology documentation. If "unknown" simply means "didn't specify," the interpretation changes dramatically.
+
+---
+
+### [NDE] Operationalization: "Reincarnation Indicators" Search Criteria
+
+**Target**: `[NDE]`  
+**Status**: Open  
+**Date Added**: 2025-12-29  
+**Priority**: HIGH  
+**Related Files**: `conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md`
+
+**Context**:
+Framework claims "0% reincarnation indicators" in NDE accounts as evidence for "Normative Path" (continuation without reincarnation). A 0% finding is an extraordinary claim requiring extraordinary documentation.
+
+**Research Question**:
+1. What search terms/keywords were used to identify "reincarnation indicators"?
+2. What narrative patterns were coded as potential reincarnation evidence?
+3. Were Eastern religion NDEs (Hindu, Buddhist) included in this search?
+4. How were accounts mentioning "returning" or "choosing a new life" handled?
+5. Were ambiguous phrases like "going back" coded as reincarnation indicators?
+
+**Expected Output**:
+Complete operationalization of "reincarnation indicator" category including search terms, coding criteria, and examples of included/excluded narratives.
+
+**Notes**:
+0% is almost certainly an artifact of coding choices or sample bias. Need to understand methodology to assess validity.
+
+---
+
+### [GDR] NDERF Database Access and Research Protocols
+
+**Target**: `[GDR]`  
+**Status**: Open  
+**Date Added**: 2025-12-29  
+**Priority**: MEDIUM  
+**Related Files**: Source tracing documentation
+
+**Context**:
+Framework analysis uses NDERF database (n=5,646) as primary data source. Need to verify the data access and usage protocols for scholarly citation.
+
+**Research Question**:
+1. What is the official research access protocol for NDERF data?
+2. Are there published datasets or APIs, or is web scraping required?
+3. What are NDERF's data use and citation requirements?
+4. Has Dr. Jeffrey Long published methodology for the NDERF questionnaire?
+5. Are there IRB-approved protocols for secondary analysis of NDERF data?
+
+**Expected Output**:
+Documentation of data access protocols and citation requirements for NDERF database use.
+
+**Notes**:
+This affects all NDE empirical documents in the framework.
+
+---
+
 ### Critical Analysis Follow-Up Questions
 
 The following questions emerged from rigorous critical review of framework claims (2025-12-27). These require external research to strengthen or revise framework positions.
@@ -658,8 +927,10 @@ Framework should report both successes and failures. If verification rate is low
 ### [NLM] Paul's Self-Abasement Passages
 
 **Target**: `[NLM]`  
-**Status**: Open  
-**Date Added**: 2025-12-27
+**Status**: ✅ RESOLVED  
+**Date Added**: 2025-12-27  
+**Date Resolved**: 2025-12-29  
+**Resolution Document**: `data/05_Gnostic_Analysis/The Paradox of the Pneumatic Ego.md`
 
 **Context**:
 Framework characterizes Paul as exhibiting "proprium" (self-love) based on confrontational passages and authority claims. Critical analysis notes: Paul also has extensive self-abasement language (servant, slave, least of apostles, weakness boasting in 2 Corinthians). Need balanced assessment.
@@ -678,8 +949,17 @@ Do scholars see these as:
 
 How does this complicate framework's "proprium" diagnosis?
 
-**Notes**:
-Framework selectively emphasizes confrontational Paul; needs to address humble Paul. Can't cherry-pick. See `critical_analysis_report.md` Sections 5A and 9.
+**RESOLUTION SUMMARY**:
+The "Paradox of the Pneumatic Ego" document provides exhaustive forensic analysis concluding that Paul's humility is **BOTH authentic AND rhetorical**—and this synthesis actually **CONFIRMS** rather than refutes the proprium diagnosis:
+
+1. **"Slave of Christ" (*doulos*)**: Scholars (Dale Martin et al.) recognize "derivative authority" mechanism—slave of cosmic Lord = plenipotentiary above human accountability
+2. **"Least of the apostles"**: Functions as "Theology of Immunity"—by confessing worst sin, Paul places himself beyond human judgment and establishes "Sole Revelator" status
+3. **Weakness boasting**: "Paradox of Power"—embracing weakness makes Paul rhetorically invulnerable and claims he is the clearest divine channel
+4. **Suffering catalogues**: "Credentials of authenticity" validating independent mission without Jerusalem authorization
+
+**Key Finding**: The dichotomy "authentic vs. rhetorical" is FALSE. Paul exhibits "**Proprium of the Spirit**"—not worldly vanity but absolute confidence in private revelation superseding external authority. His humility is the hammer that breaks historical "vessels" to release pneumatic "spirit."
+
+**Graph Update**: New node GNOS-013 created to capture this synthesis.
 
 ---
 

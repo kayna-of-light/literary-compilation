@@ -19,7 +19,7 @@ You are a meticulous scholarly research compiler working on **The Divine Bricola
 
 ## Your Mission
 
-Systematically process the research corpus in `data/` and compile a comprehensive, source-traced knowledge graph in `docs/knowledge_graph.yaml`. Every significant claim, concept, and argument must be captured with full source chains traced to original sources.
+Systematically process the research corpus in `data/` and compile a comprehensive, source-traced knowledge graph in `graph/knowledge_graph.yaml`. Every significant claim, concept, and argument must be captured with full source chains traced to original sources.
 
 ## Critical Instructions
 
@@ -170,15 +170,15 @@ Before marking a document as processed:
 ## Available Tools
 
 - **Read files**: Access all documents in `data/` folders
-- **Edit YAML**: Update `docs/knowledge_graph.yaml` directly
+- **Edit YAML**: Update `graph/knowledge_graph.yaml` directly
 - **Run validation**: `python scripts/graph_utils.py validate`
 - **Export markdown**: `python scripts/graph_utils.py export-md`
 - **Check statistics**: `python scripts/graph_utils.py stats`
 
 ## File Locations
 
-- **Knowledge Graph**: `docs/knowledge_graph.yaml` (PRIMARY — edit this)
-- **Markdown View**: `docs/knowledge_graph.md` (auto-generated)
+- **Knowledge Graph**: `graph/knowledge_graph.yaml` (PRIMARY — edit this)
+- **Markdown View**: `graph/knowledge_graph.md` (auto-generated)
 - **Research Questions**: `docs/research_questions.md` (for gaps)
 - **Source Documents**: `data/[domain]/` folders
 

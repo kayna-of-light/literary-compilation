@@ -471,89 +471,227 @@ Tests whether "proprium" is real historical force or theological projection onto
 
 ---
 
-### [GDR] DOPS Volunteer-Type Cases: Published Findings on Mission-Oriented Intermission Memories
+## NDE/DOPS Research Questions
+
+> **⚠️ INTERNAL NOTE (not for external research tools)**
+> 
+> The following questions address potential selection artifacts in existing research:
+> - DOPS methodology requires a deceased "Previous Personality" for verification, potentially filtering out non-cyclic cases
+> - Intermission phenomenology appears in ~20% of cases — a minority, not a norm
+> - The 70%+ violent death correlation may indicate exceptional return, not universal reincarnation
+> - Cultural imagery variation may reflect correspondential clothing of constant functional states
+> 
+> Questions are designed to test these specific hypotheses without assuming any framework.
+
+---
+
+### [GDR] DOPS Restorative Pathway: Markers Beyond Violent Death Correlation
 
 **Target**: `[GDR]`  
 **Status**: Open  
 **Date Added**: 2025-12-29  
 **Priority**: HIGH  
-**Related Nodes**: CONSC-002, CONSC-004, CONSC-014
 
 **Context**:
-Framework synthesizes DOPS intermission memories with NDE volunteer soul data, claiming both describe the same phenomenon from different temporal perspectives:
-- **DOPS**: Children report pre-birth memories of "choosing parents" and "choosing life circumstances" for a purpose
-- **NDE**: Experiencers report "commissioning moments" where pre-incarnate missions are activated
+The University of Virginia's Division of Perceptual Studies (DOPS) has collected over 2,500 cases of children who spontaneously report memories of previous lives. A striking statistical pattern in this data: over 70% of verified cases involve a "Previous Personality" (PP) who died violently or prematurely (accident, murder, suicide, combat) rather than from natural causes at old age.
 
-The NDE repository validates volunteer soul pathway (n=773, 11.5% of sample) with strong statistical evidence. However, the DOPS side of this convergence relies on *asserted* parallels rather than *demonstrated* convergence from published DOPS findings.
+This violent death correlation is robust across cultures and has been documented since Stevenson's original research. However, correlation alone doesn't explain mechanism. One interpretation: violent/premature death represents an *interrupted* life trajectory, and the return is *restorative* — the soul comes back to complete a developmental arc that was cut short. Under this model, these cases are *exceptions* (traumatic interruption triggering return) rather than evidence that reincarnation is universal.
 
-**⚠️ Data Access Note**: DOPS data involves children and is highly protected. We cannot query raw data directly—must work through published researcher findings (Stevenson, Tucker, Sharma, et al.).
+We want to test whether the data supports this "Restorative Return" interpretation by looking for additional markers beyond the violent death statistic.
 
 **Research Question**:
-Search published DOPS literature for volunteer-type/mission-oriented intermission case findings:
+Search published DOPS literature for evidence patterns that would distinguish "interrupted life → return to complete" cases:
 
-1. **Published case analyses**: What do Tucker, Stevenson, or other DOPS researchers report about intermission memories featuring:
-   - Choosing parents/family for specific purpose
-   - Pre-birth mission awareness or life planning
-   - Reluctance to incarnate (parallel to NDE 74% reluctant return)
-   - Being "sent" vs. choosing to come
+1. **Memory fading pattern**: Do cases with violent PP deaths show different memory-fade trajectories than peaceful death cases? (Prediction: if restorative, trauma imprint should fade as new personality integrates and "completes")
 
-2. **Researcher observations**: Have DOPS researchers themselves noted parallels to NDE phenomenology in their published work? Any explicit convergence analysis?
+2. **Behavioral markers**: Do violent death cases show higher rates of:
+   - Phobias matching cause of death (drowning phobia if PP drowned)
+   - Post-traumatic play themes (acting out the death scenario)
+   - Urgency to "finish" something from the previous life
+   - Resolution/integration over time (symptoms diminishing)
 
-3. **Phenomenological features**: In published case descriptions, what features appear in intermission memories?
-   - Light/radiant realm descriptions
-   - Deceased relatives or guides encountered
-   - Life review before incarnation
-   - Memory of agreeing to specific life challenges
+3. **Birthmark concentration**: DOPS reports 30-35% of cases involve birthmarks/birth defects corresponding to wounds on the PP. Is this rate specifically elevated in violent death cases vs. peaceful death cases?
 
-4. **Frequency data**: Do any published DOPS analyses report what percentage of cases include intermission memories? What percentage of those mention purpose/mission?
+4. **Age of PP death distribution**: What is the age distribution of Previous Personalities at death? (Prediction: if restorative, PP deaths should skew young/premature, not natural end-of-life)
 
-5. **Restorative vs. Volunteer distinction**: Does published DOPS literature distinguish between:
-   - Traumatic death → reincarnation cases (restorative, >70% violent death)
-   - Mission-oriented cases (volunteer-type, choosing incarnation for purpose)
+5. **Time-between-lives data**: Does violent death correlate with shorter intermission periods between death and rebirth? (Prediction: if urgent restoration, less "waiting")
 
-6. **Cross-validation potential**: Are there any published cases where a child with past-life memories later had an NDE, or vice versa?
+6. **Resolution markers**: Are there documented cases where the child's past-life preoccupation resolves over time and they report feeling "complete" or "done"?
 
 **Expected Output**:
-Published findings establishing what DOPS researchers actually report about mission-oriented intermission cases. If published literature supports volunteer-type pathway with similar features to NDE data, strengthens convergent validation. If DOPS literature doesn't distinguish volunteer-type cases or reports different phenomenology, framework synthesis may be over-reaching.
+Evidence that DOPS violent death cases form a coherent "Restorative" profile (trauma → memory imprint → return → integration → resolution). This would distinguish restorative return from general cyclic reincarnation and suggest these cases represent an exceptional mechanism, not a universal process.
 
-**Key Sources to Search**:
-- Tucker, J. (2005, 2013, 2021) - *Life Before Life*, *Return to Life*, recent papers
-- Sharma, P. & Tucker, J. (2004) - Cases with memories of intermission
-- Stevenson, I. - Original case studies with intermission elements
-- DOPS published case databases or summaries
-
-**Notes**:
-This complements the `[NDE]` intermission question below by gathering the DOPS side of the comparison from published sources. The NDE side is well-documented in our repository; the DOPS side needs external research.
+**Key Sources**:
+- Stevenson, I. — *Twenty Cases Suggestive of Reincarnation*, *Reincarnation and Biology*
+- Tucker, J. — *Life Before Life*, *Return to Life*, case analysis papers
+- Sharma & Tucker (2004) — "Cases of the Reincarnation Type with Memories from the Intermission Between Lives"
 
 ---
 
-### [NDE] Intermission Memories: DOPS vs. NDE Phenomenological Convergence
+### [GDR] DOPS Non-Cyclic Cases: Pre-Birth Memories Without Death Narrative
+
+**Target**: `[GDR]`  
+**Status**: Open  
+**Date Added**: 2025-12-29  
+**Priority**: HIGH  
+
+**Context**:
+DOPS research methodology is designed to study "Cases of the Reincarnation Type" (CORT) — children who remember previous lives. The verification process requires identifying a deceased "Previous Personality" whose life matches the child's statements. Cases are "solved" when this PP is identified and statements verified.
+
+This methodology creates a potential selection artifact: it can only capture cases where a prior earthly life and death occurred. But what about children who report pre-birth memories of a spiritual realm, choosing their parents, being sent by a guide — but have NO memories of being someone else who died?
+
+Such cases would be:
+- Not classifiable as "reincarnation type" (no prior earthly life)
+- Unverifiable (no deceased PP to match)
+- Potentially excluded from analysis or dismissed as fantasy
+
+If souls can incarnate for purposes OTHER than returning after a prior death (first incarnation, mission-oriented entry, arrival from non-earthly origin), these cases would be invisible in current DOPS methodology.
+
+**Research Question**:
+Search published literature for cases with pre-birth/spiritual realm memories but NO previous-life death narrative:
+
+1. **DOPS unsolved cases**: Do any published DOPS summaries describe children with pre-birth memories (realm descriptions, choosing parents, being sent) but NO identifiable PP? What happens to these cases?
+
+2. **Pre-birth memory literature**: Rivas, Dirven, and Smit have published research specifically on pre-existence memories. What do they report about cases WITHOUT a prior-life-death component? What is the phenomenology? How frequent?
+
+3. **"Stranger" cases**: DOPS distinguishes "same-family" cases (child reincarnates into family of PP) from "stranger" cases (unrelated family). Stranger cases are harder to verify. Do these show different phenomenological profiles? Higher rate of "I chose you" vs. "I was sent"?
+
+4. **First-incarnation claims**: Are there ANY published cases where a child explicitly claims this is their first earthly life, but reports memories of a pre-birth spiritual realm? How are these handled methodologically?
+
+5. **Origin descriptions**: In cases with intermission memories (memories of the period between death and rebirth), do any describe coming from somewhere OTHER than a previous earthly life? Descriptions like "I was with God," "I came from far away," "I was in the light" — without any PP death narrative?
+
+6. **Western case patterns**: Western DOPS cases have lower "solved" rates than Asian cases. Could this be because Western subjects more frequently report pre-birth memories without verifiable PP details? (Would suggest the pattern exists but is methodologically invisible)
+
+**Expected Output**:
+Evidence for or against the existence of a "non-cyclic origin" cohort in the data — children with genuine pre-birth spiritual memories who did NOT have a prior earthly death. If such cases exist but are filtered out by methodology, this reveals a selection artifact. If they genuinely don't appear in any literature, that's important data too.
+
+**Key Sources**:
+- Rivas, T., Dirven, A., & Smit, R. — "Paranormal Aspects of Pre-Existence Memories in Young Children"
+- Tucker, J. — Case selection methodology papers
+- DOPS published descriptions of unsolved or excluded cases
+
+---
+
+### [NDE] Return Path Phenomenology: Entity Roles and Active System
 
 **Target**: `[NDE]`  
 **Status**: Open  
-**Date Added**: 2025-12-27  
+**Date Added**: 2025-12-29  
 **Priority**: MEDIUM  
-**Related Nodes**: CONSC-002, CONSC-004, CONSC-014
 
 **Context**:
-Framework identifies parallel features between children's "intermission memories" (DOPS research—memories between past life and current incarnation) and NDEs as convergent evidence for post-mortem phenomenology. Need statistical comparison to test convergence claim.
+Near-Death Experience research typically analyzes the data from the experiencer's perspective: What did they see? What happened to them? Where did they go? What did they learn?
 
-**⚠️ Dependency Note**: This question requires findings from `[GDR] DOPS Volunteer-Type Cases` above to complete the comparison. NDE side is queryable; DOPS side requires published literature review.
+But NDE reports consistently describe encounters with other beings — deceased relatives, guides, beings of light, authority figures. These beings are usually treated as props in the experiencer's journey. However, the data suggests these entities have roles, functions, and tasks. They appear to be doing things:
+- Greeting and orienting new arrivals
+- Conducting life reviews
+- Making determinations ("you must go back")
+- Teaching and explaining
+- Coordinating and facilitating
+
+If we shift perspective from "what does this mean for the experiencer?" to "what does this glimpse reveal about the system the experiencer entered?", the beings become data about an active spiritual ecosystem, not just features of a personal experience.
 
 **Research Question**:
-Do DOPS intermission memories and NDE phenomenology show genuine convergence? Compare:
-1. Structural sequence: Do intermission memories follow same phase pattern as NDEs (separation → transit → realm → return)?
-2. Phenomenological features: What percentage of DOPS intermission cases include: (a) light/radiant realm, (b) deceased relatives encountered, (c) life planning/mission selection, (d) choice to return vs. being sent back, (e) reluctance to incarnate?
-3. Unique elements: Do intermission memories include features NOT common in NDEs (memory erasure, incarnation reluctance, mission assignment)?
-4. Statistical correlation: Do children with intermission memories have higher rate of later NDEs, suggesting same souls?
-5. Cross-validation: Can we identify specific children who report BOTH past-life memories AND subsequent NDE, describing same cosmology?
-6. Content vs. structure: Is convergence limited to abstract structure, or do specific phenomenological details match?
+Analyze NDE encounter data for evidence of structured entity roles and functions:
+
+1. **Guide/escort function**: What percentage of NDEs involve a being whose apparent role is to guide or orient the experiencer? Is this being distinct from deceased relatives?
+
+2. **Gatekeeper/authority function**: What percentage involve a being who makes a determination about whether the experiencer stays or returns? What characterizes these beings?
+
+3. **Custodial function**: Are there NDEs where beings appear to be actively "working" — performing tasks, coordinating activities, engaged in purposeful activity beyond attending to the experiencer?
+
+4. **Teaching function**: Beyond conducting life reviews, are there cases of beings explaining things, instructing, showing the experiencer information? What topics appear?
+
+5. **Deceased relatives' roles**: When deceased relatives appear, are they passive (simply present, welcoming) or active (guiding, explaining, facilitating the experience)?
+
+6. **Role differentiation**: In cases with multiple beings, do they appear to have different functions? (e.g., one welcomes, another conducts review, another makes the return decision)
+
+7. **Return facilitation**: Who or what facilitates the return to the body? A being's decision? An automatic process? The experiencer's choice? A combination?
 
 **Expected Output**:
-Strong convergence (>60% feature overlap) validates framework's integrated post-mortem model. Significant divergence suggests separate phenomenology requiring different explanations. Structural match + content divergence supports universal structure with culturally-conditioned content.
+A profile of the "entity ecosystem" visible in NDE data. If beings show differentiated, consistent roles across many cases, this supports a model of a structured spiritual system where beings have functions — not just a passive realm that experiencers visit. Shifts the question from "where does the soul go?" to "what is the system doing?"
 
-**Notes**:
-CONSC-002 and CONSC-004 connections claim parallelism. Need quantitative comparison, not impressionistic similarity. See CONSC_Domain_Validation_Report Section 3.1, Volunteer Soul Incarnation Profile Building.md.
+---
+
+### [NDE] Correspondential Analysis: Underlying States vs. Cultural Forms
+
+**Target**: `[NDE]`  
+**Status**: Open  
+**Date Added**: 2025-12-29  
+**Priority**: MEDIUM  
+
+**Context**:
+NDE reports show both striking universality AND cultural variation. The basic structure (out-of-body experience, tunnel/transition, realm of light, encounter with beings, life review, return) appears cross-culturally. But the specific imagery varies: Western experiencers see "beings of light" or Jesus; Asian experiencers see "old men in white" or Yama (lord of death); the realm appears as gardens, cities, temples, or bureaucratic offices depending on cultural background.
+
+One interpretation: the experiences are hallucinations shaped by cultural expectation. Another interpretation (from Emanuel Swedenborg's 18th-century theology): spiritual realities cannot be perceived directly by physical minds — they are automatically "clothed" in imagery familiar to the perceiver. The underlying spiritual STATE is constant; the FORM it takes is variable.
+
+If the second interpretation is valid, then cataloguing NDE imagery (how many saw tunnels, how many saw Jesus) is the wrong approach. We should instead identify the underlying FUNCTIONAL STATES and ask whether diverse imagery maps to the same states.
+
+**Research Question**:
+Test whether culturally diverse NDE imagery maps to common underlying functional states:
+
+1. **Guidance state**: Cases involving "Being of Light" (Christian contexts), "Old Man in White" (Buddhist contexts), "Deceased Relative as Guide" (secular contexts) — do these show the SAME FUNCTIONAL features despite different imagery?
+   - Measure: similar duration, similar type of communication (telepathic?), similar outcomes (orientation, comfort, information)
+
+2. **Evaluation state**: Cases involving "Life Review as visual panorama," "Being asked questions about your life," "Feeling the emotional impact you had on others" — are these functionally the same experience in different forms?
+
+3. **Transition state**: Cases involving "tunnel," "void," "darkness," "river crossing," "dissolving," "flying" — are these functionally equivalent (movement between states)?
+
+4. **Authority encounter**: Cases involving "God," "Jesus," "Voice," "Formless Presence," "Council of Beings" — do these serve the same decisional function (determining return)?
+
+5. **Cross-cultural test**: Do NDEs from non-Western cultures show the SAME functional sequence with DIFFERENT imagery? This would validate the "constant state, variable form" model.
+
+6. **Universal vs. variable elements**: Across all imagery variants, which functional states appear universally? Which show genuine variation (not just imagery variation)?
+
+**Expected Output**:
+If phenomenologically diverse reports map to a consistent set of functional states, this validates analyzing NDEs by decoding to states rather than cataloguing images. If imagery variation correlates with genuinely different experiences (not just different representations of the same experience), this challenges the correspondential model.
+
+---
+
+### [NDE/DOPS] Convergent Functional States Between NDEs and Intermission Memories
+
+**Target**: `[NDE]` + `[GDR]`  
+**Status**: Open  
+**Date Added**: 2025-12-29  
+**Priority**: HIGH  
+
+**Context**:
+Two separate research traditions study consciousness during the transition between physical lives:
+
+1. **NDE Research**: Adults who clinically die and are resuscitated report experiences during the period of death. These are observations of the "exit" from physical life.
+
+2. **DOPS Intermission Research**: ~20% of children with past-life memories also report memories of the period BETWEEN lives — after the previous personality's death and before their own birth. These are observations of the "entry" into physical life.
+
+If both research streams are observing the same underlying reality, they should show convergence — not necessarily in imagery (which may be correspondentially clothed differently for a dying adult vs. a pre-verbal child's later reconstruction), but in FUNCTIONAL STATES.
+
+Previous analyses compared phenomenological details (do both report "light"? "beings"? "tunnels"?). This may be the wrong level of analysis. We should compare whether both show the same functional transition sequence.
+
+**Research Question**:
+Do NDE phenomenology and DOPS intermission memories show convergent FUNCTIONAL STATES?
+
+| Functional State | NDE Manifestation | DOPS Intermission Manifestation | Convergent? |
+|------------------|-------------------|--------------------------------|-------------|
+| **Separation from body** | Out-of-body experience, viewing resuscitation | Watching own funeral, hovering near corpse | Compare rates |
+| **Transition/movement** | Tunnel, void, darkness | Walking, flying, transformation | Compare features |
+| **Arrival/orientation** | Entering realm of light, meeting guide | "Stable stage" in discarnate realm | Compare duration |
+| **Evaluation** | Life review | (Largely absent in DOPS data?) | Test divergence |
+| **Decision point** | Choice to return, being told "not your time" | Choosing parents, being sent/directed | Compare agency |
+| **Re-entry to body** | Returning to same body | Entering new body (womb, conception) | Compare mechanism |
+
+Specific questions:
+
+1. **Separation state**: What percentage of NDEs report OBE? What percentage of DOPS intermission cases report post-death observation of earthly events? Are these functionally equivalent?
+
+2. **Evaluation divergence**: Life Review appears in ~19% of NDEs. Is there ANY equivalent in DOPS intermission data? If not, why? (Different population? Different temporal direction — review looks backward, intermission looks forward?)
+
+3. **Decision/agency**: NDE "return decision" and DOPS "choosing parents" — both involve agency regarding physical embodiment. Are they functionally equivalent? What percentage involve choice vs. being directed by authority?
+
+4. **Re-entry mechanisms**: NDEs describe returning TO THE SAME BODY. DOPS children describe entering A NEW BODY (often vivid descriptions of conception/womb entry). Same process, different direction? Or genuinely different mechanism?
+
+5. **Absent states**: Are there states that appear in one dataset but NOT the other? What would this mean?
+
+**Expected Output**:
+A functional state comparison map. If NDE and DOPS intermission show the same states in the same sequence (despite imagery differences), this strongly validates a unified model of consciousness transition. If they show different states or sequences, they may be different phenomena requiring different explanations.
 
 ---
 

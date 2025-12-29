@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-29 08:23*
+*Last exported: 2025-12-29 10:24*
 
 ---
 
@@ -10,25 +10,25 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 157 |
+| Total Nodes | 162 |
 | Total Connections | 444 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 146
+- **validated**: 151
 - **preliminary**: 6
 - **contested**: 5
 
 ### By Domain
 
 - **Cross-Domain** (CROSS): 7
-- **Consciousness Studies** (CONSC): 41
-- **Swedenborgian Theology** (SWED): 43
+- **Consciousness Studies** (CONSC): 42
+- **Swedenborgian Theology** (SWED): 42
 - **Biblical Scholarship** (BIBL): 20
 - **Early Christian History** (EARLY): 16
-- **The Gnostic Impulse** (GNOS): 13
-- **Mythological Studies** (MYTH): 17
+- **The Gnostic Impulse** (GNOS): 16
+- **Mythological Studies** (MYTH): 19
 
 ---
 
@@ -347,7 +347,7 @@
 - → `CONSC-013` (parallels): Fall = Left Hemisphere (Emissary) usurping Right (Master)
 - → `SWED-005` (describes): Proprium arises from external/conceptual mode
 - → `MYTH-015` (supports): Heart of Division emerges from Fallen cognitive architecture
-- → `SWED-020` (develops): Ancient Word as memory system from pre-Fall state
+- → `SWED-013` (develops): Ancient Word encoded in numerological correspondences
 
 ---
 
@@ -733,8 +733,8 @@
 
 **Connections**:
 - → `CONSC-002` (validates): DOPS data confirms violent death correlation
-- → `CONSC-031` (completes): Third pathway now empirically supported
-- → `CONSC-005` (strengthens): Hybrid Model Restorative component validated
+- → `CONSC-031` (supports): Third pathway now empirically supported
+- → `CONSC-005` (validates): Hybrid Model Restorative component validated
 - → `CONSC-033` (parallels): Both pathways now have empirical support
 
 ---
@@ -866,6 +866,26 @@
 
 ---
 
+#### [CONSC-042] Restorative Incarnation Mechanism
+
+**Status**: validated | **Confidence**: medium
+
+> The proposed mechanism by which souls with traumatically interrupted earthly lives return for a second developmental period. Distinguished from karmic reincarnation (where return is universal and punitive), this is EXCEPTIONAL and RESTORATIVE. The 70%+ violent/premature death correlation suggests divine providence offers souls whose character formation was cut short the opportunity to complete their "seed-state" development. The soul retains imprints (birthmarks, phobias, memories) from the interrupted life because the developmental arc remains incomplete.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Consciousness as a Selective Pressure.md
+2. [E] Stevenson, Ian. Twenty Cases Suggestive of Reincarnation (1966)
+3. [E] Tucker, Jim. Return to Life (2013)
+
+**Connections**:
+- → `CONSC-020` (explains): Provides mechanism for the 70% pattern
+- → `CONSC-002` (develops): Explains the DOPS anomaly
+- → `SWED-008` (requires): Restorative return enables regeneration to complete
+- → `CROSS-003` (supports): Ruling love requires complete earthly formation
+
+---
+
 ### Swedenborgian Theology
 *Correspondences, influx, regeneration, the Ancient Word*
 
@@ -894,7 +914,7 @@
 - → `SWED-013` (instantiated_by): Natural world correspondences instantiate doctrine
 - → `SWED-016` (developed_from): Universal consciousness develops correspondence capacity
 - → `SWED-019` (instantiated_by): Celestial perception instantiates correspondence awareness
-- → `SWED-020` (instantiated_by): Spiritual perception instantiates correspondence awareness
+- → `SWED-013` (instantiated_by): Spiritual numerology instantiates correspondential language
 - → `SWED-021` (instantiated_by): Natural perception shows limited correspondence awareness
 - → `SWED-028` (developed_from): Most Ancient Church possessed correspondence knowledge
 - → `SWED-029` (instantiated_by): Animal sacrifice instantiates corrupted correspondences
@@ -1290,27 +1310,6 @@
 - → `SWED-005` (opposes): Regeneration undoes proprium's dominance
 - → `CONSC-010` (complements): Volunteer Soul missions as regenerative Use
 - → `SWED-001` (instantiates): Dream symbols follow doctrine of correspondences
-
----
-
-#### [SWED-020] Spiritual Numerology of the Word
-
-**Status**: validated | **Confidence**: high
-
-> Numbers in Scripture are not arbitrary but form a precise spiritual language. Four foundational numbers (2, 3, 5, 7) generate all other meanings through multiplication. Two = union, predicated of good (celestial/spiritual kingdoms). Three = fullness/completeness, predicated of truth (three heavens). Five = quantity, 'much/something.' Seven = holiness/sanctity (Sabbath). Larger numbers inherit meaning: 12 = all things of truth from good (3×4), 40 = full period of temptation (from 2). Triplication intensifies to absolute degree: 666 = total falsification.
-
-
-**Source Chain**:
-1. [T] data/02_Swedenborgian_Theology/The Spiritual Numerology of the Word...
-2. [P] Swedenborg, Apocalypse Explained §§ 40, 54, 186, 257, 532
-3. [P] Swedenborg, Secrets of Heaven (Arcana Coelestia) §§ 1906, 3, 8, 10
-4. [P] Swedenborg, Heaven and Hell § 165
-
-**Connections**:
-- → `SWED-001` (instantiates): Numbers as correspondences
-- → `SWED-012` (complements): Works with Genesis narrative interpretation
-- → `BIBL-003` (develops): Enables inner sense reading of Scripture
-- → `MYTH-002` (parallels): Prime number evolution in mythic structures
 
 ---
 
@@ -1759,7 +1758,7 @@
 **Connections**:
 - → `SWED-039` (contained_by): Discovered through 1 Enoch validation study
 - → `MYTH-014` (develops): Spiritual interpretation of historical calendar data
-- → `SWED-020` (instantiates): 7 as 'holy' confirmed in calendar structure
+- → `SWED-013` (instantiates): 7 as 'holy' confirmed in calendar structure
 - → `SWED-006` (describes): Calendar encodes Most Ancient Church cognitive state
 - → `SWED-001` (instantiates): Astronomical elements as correspondence vessels
 - → `CROSS-001` (instantiates): Tier 1 = failed astronomy; Tier 2 = perfect theology
@@ -2869,6 +2868,63 @@
 
 ---
 
+#### [GNOS-014] The Demiurge and Archon System
+
+**Status**: validated | **Confidence**: high
+
+> Core cosmological apparatus of classic Gnostic systems. The Demiurge (Craftsman/Creator) is a secondary, ignorant deity who fashioned the material cosmos, often identified with Yahweh of the Hebrew Bible. The Archons (Rulers) are cosmic gatekeepers who maintain humanity's imprisonment in matter and forgetfulness. In modern gnostic manifestations, the Demiurge becomes "the Matrix," "the System," or "social conditioning," while Archons become "limiting beliefs," "false authorities," or "institutions." The pattern: an evil or ignorant creator traps divine sparks in material prisons; liberation comes through gnosis that bypasses the cosmic jailers.
+
+
+**Source Chain**:
+1. [T] data/05_Gnostic_Analysis/The Architecture of Hidden Divinity.md
+2. [P] Apocryphon of John (Nag Hammadi)
+3. [P] On the Origin of the World (Nag Hammadi)
+
+**Connections**:
+- → `GNOS-001` (contained_by): Cosmological apparatus within Gnostic Impulse
+- → `GNOS-006` (supports): Proprium projects blame onto external 'jailers'
+- → `SWED-002` (contradicts): Divine Influx comes through created order, not despite it
+
+---
+
+#### [GNOS-015] Christological Dismantling Tactics
+
+**Status**: validated | **Confidence**: high
+
+> Three systematic strategies by which the Gnostic Impulse neutralizes the Divine Human (visible, personal God) as obstacle to self-deification: (1) SPLITTING - separating "Christ" (cosmic principle) from "Jesus" (flawed human vessel); (2) RENAMING -  replacing "Jesus/Lord" with depersonalized terms ("the Light," "Source," "Energy," "Universe"); (3) COSMOLOGICAL DEMOTION - reducing Jesus from unique Incarnation to "one among many" (Avatar, Ascended Master, Teacher). All three tactics eliminate the scandal of particularity that demands kenotic response.
+
+
+**Source Chain**:
+1. [T] data/05_Gnostic_Analysis/The Architecture of Hidden Divinity.md
+2. [T] data/03_Biblical_Scholarship/A Comparative Analysis of Non-Religious Christologies.md
+
+**Connections**:
+- → `GNOS-001` (developed_by): Tactics deployed by Gnostic Impulse against Divine Human
+- → `SWED-018` (opposes): Attacks the 'Divine Human in Ultimates' thesis
+- → `CONSC-008` (addresses): Being of Light identification as battlefield
+- → `CROSS-005` (opposes): Splits Body/Soul duality to discard the body
+
+---
+
+#### [GNOS-016] Gnostic Three-Class Anthropology (Hylics, Psychics, Pneumatics)
+
+**Status**: validated | **Confidence**: high
+
+> Classic Gnostic systems divided humanity into three fixed classes based on spiritual capacity: HYLICS (material beings - incapable of salvation, consumed by flesh), PSYCHICS (soul beings - capable of faith/works salvation but not gnosis), PNEUMATICS (spirit beings - possess divine spark, capable of full gnosis). This anthropology generates spiritual elitism: only Pneumatics truly understand; Psychics need external religion; Hylics are hopeless. Modern manifestation: "awakened" vs "sheeple," "spiritually evolved" vs "low vibration," conspiracy theorists vs "NPCs."
+
+
+**Source Chain**:
+1. [T] data/05_Gnostic_Analysis/The Architecture of Hidden Divinity.md
+2. [P] Excerpts of Theodotus (Clement of Alexandria)
+3. [S] Pagels, Elaine. The Gnostic Gospels (1979)
+
+**Connections**:
+- → `GNOS-001` (contained_by): Anthropological component of Gnostic Impulse
+- → `GNOS-006` (supports): Proprium loves to be among the elite Pneumatics
+- → `CROSS-007` (contradicts): Universal theosis capacity vs. fixed spiritual classes
+
+---
+
 ### Mythological Studies
 *Bricolage, proto-myths, ANE parallels*
 
@@ -3104,7 +3160,7 @@
 4. [S] Antikythera Mechanism research
 
 **Connections**:
-- → `SWED-020` (develops): Extends Swedenborgian numerology with archaeological evidence
+- → `SWED-013` (develops): Extends Swedenborgian numerology with archaeological evidence
 - → `MYTH-002` (instantiates): Prime evolution as cognitive-archaeological evidence
 - → `SWED-004` (supports): Tier 1 primes validate correspondential origins
 - → `MYTH-008` (parallels): Ancient Word encoded in Tier 1 numerical language
@@ -3150,7 +3206,7 @@
 **Connections**:
 - → `MYTH-001` (instantiates): Calendar as theological bricolage from Babylonian elements
 - → `SWED-004` (parallels): Numbers encode divine order (7 = holy)
-- → `SWED-020` (supports): 7-based structure confirms spiritual numerology
+- → `SWED-013` (supports): 7-based structure confirms spiritual numerology
 - → `MYTH-012` (develops): 364 = 7 × 52; extends Tier 1 prime significance
 
 ---
@@ -3219,6 +3275,44 @@
 - → `SWED-004` (supports): Sequence survives redaction = Ancient Word preservation
 - → `MYTH-015` (parallels): Circular restoration vs linear progress matches Unity heart
 - → `CROSS-002` (instantiates): Redaction preserves divine pattern = Divine Bricolage
+
+---
+
+#### [MYTH-018] Collective Memory Theory (Halbwachs)
+
+**Status**: validated | **Confidence**: high
+
+> Maurice Halbwachs' theory that memory is fundamentally social: individuals remember within "social frameworks" (cadres sociaux) provided by group identity, and present identity shapes reconstruction of the past. Applied to the Exodus narrative: scattered memory fragments (Thera eruption, wind setdown, Bronze Age Collapse) were assembled into a unified narrative BECAUSE they served the present identity needs of emerging Israel. The community's current self-understanding as "liberated slaves" gravitationally attracted disparate memories into the Slavery→Liberation→Covenant arc.
+
+
+**Source Chain**:
+1. [T] data/06_Mythological_Studies/Exodus Narrative_ Mythic Bricolage Study.md
+2. [S] Halbwachs, Maurice. On Collective Memory. Trans. Lewis Coser. U Chicago Press, 1992.
+3. [S] Halbwachs, Maurice. Les cadres sociaux de la mémoire. Paris: Alcan, 1925.
+
+**Connections**:
+- → `MYTH-001` (supports): Explains HOW bricolage assembles fragments
+- → `MYTH-009` (supports): Explains Exodus narrative formation process
+- → `CROSS-002` (complements): Natural mechanism for Divine Bricolage
+
+---
+
+#### [MYTH-019] Narrative Gravitation
+
+**Status**: validated | **Confidence**: medium
+
+> A proposed mechanism within collective memory theory: identity-defining narratives exert "gravitational pull" on disparate memory fragments, drawing them into orbital coherence around the central identity claim. For the Exodus narrative, the core claim "YHWH liberated us from slavery" attracted memories of natural disasters (Thera), sea partings (wind setdown), and societal collapse (Bronze Age) into a unified story. Fragments that didn't fit the gravitational field were either discarded or reinterpreted until they fit.
+
+
+**Source Chain**:
+1. [T] data/06_Mythological_Studies/Exodus Narrative_ Mythic Bricolage Study.md
+2. [T] data/06_Mythological_Studies/Forging a Nation in Memory.md
+3. [S] Halbwachs, Maurice. On Collective Memory
+
+**Connections**:
+- → `MYTH-018` (develops): Specific mechanism within collective memory theory
+- → `MYTH-001` (complements): Explains selective assembly in bricolage
+- → `MYTH-009` (explains): Explains Exodus narrative construction
 
 ---
 

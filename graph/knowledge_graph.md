@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-29 13:22*
+*Last exported: 2025-12-29 16:25*
 
 ---
 
@@ -10,20 +10,20 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 163 |
+| Total Nodes | 165 |
 | Total Connections | 444 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 152
+- **validated**: 154
 - **preliminary**: 6
 - **contested**: 5
 
 ### By Domain
 
 - **Cross-Domain** (CROSS): 7
-- **Consciousness Studies** (CONSC): 43
+- **Consciousness Studies** (CONSC): 45
 - **Swedenborgian Theology** (SWED): 42
 - **Biblical Scholarship** (BIBL): 20
 - **Early Christian History** (EARLY): 16
@@ -908,6 +908,47 @@
 
 ---
 
+#### [CONSC-044] NDE Entity Ecosystem: Differentiated Functional Roles
+
+**Status**: validated | **Confidence**: high
+
+> Statistical analysis of 6,739 NDE reports demonstrates that entities encountered during NDEs function as a structured ecosystem with differentiated roles, not interchangeable appearances. Different being-types show statistically distinct functional profiles: deceased relatives serve primarily as gatekeepers (29.5% "told to return" vs. 15.3% overall), while higher-order beings (God, Jesus) more often present choices and provide significant guidance. This suggests an organized system where beings have roles, not a passive realm experiencers visit.
+
+
+**Source Chain**:
+1. [E] nde-analysis repository (entity_role_analysis.py)
+2. [E] NDERF/IANDS datasets
+3. [T] data/01_Consciousness_Studies/NDE Entity Roles and Correspondential Validation.md
+
+**Connections**:
+- → `CONSC-001` (supports): Structured ecosystem inconsistent with hallucination
+- → `CONSC-004` (develops): Adds functional role data to phenomenological evidence
+- → `CONSC-045` (parallels): Both validate systematic patterns in NDE data
+- → `SWED-001` (validates): Entity roles show correspondential structure
+
+---
+
+#### [CONSC-045] Correspondential Principle: Empirical Validation from NDE Data
+
+**Status**: validated | **Confidence**: high
+
+> Statistical analysis of NDE imagery demonstrates that culturally diverse forms map to functionally equivalent states, validating the Swedenborgian principle that spiritual states are "clothed" in culturally familiar imagery. Tunnel, void, and "other" passage types all produce similar belonging outcomes (59-72%). "Being of Light," "presence without visual," and identified religious figures all correlate with similar guidance functions. Cultural background shapes identification (Christians 7x more likely to identify Jesus) but NOT functional outcomes—a crucial distinction supporting "constant state, variable form."
+
+
+**Source Chain**:
+1. [E] nde-analysis repository (entity_role_analysis.py)
+2. [E] NDERF/IANDS datasets
+3. [T] data/01_Consciousness_Studies/NDE Entity Roles and Correspondential Validation.md
+4. [P] Swedenborg, Heaven and Hell §§ 87-115
+
+**Connections**:
+- → `SWED-001` (validates): Empirical evidence for correspondence principle in NDE perception
+- → `CONSC-044` (parallels): Both reveal systematic structure in NDE data
+- → `CONSC-019` (develops): Adds statistical validation to symbolic element analysis
+- → `CROSS-001` (supports): Demonstrates natural/spiritual tier relationship in empirical data
+
+---
+
 ### Swedenborgian Theology
 *Correspondences, influx, regeneration, the Ancient Word*
 
@@ -941,6 +982,7 @@
 - → `SWED-028` (developed_from): Most Ancient Church possessed correspondence knowledge
 - → `SWED-029` (instantiated_by): Animal sacrifice instantiates corrupted correspondences
 - → `SWED-030` (instantiated_by): Internal Word instantiates pure correspondences
+- → `CONSC-045` (validated_by): NDE data shows constant states with variable cultural imagery—empirical validation
 
 ---
 

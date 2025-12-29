@@ -8,6 +8,75 @@ This document archives research questions that have been successfully investigat
 
 ## Resolution Archive
 
+### [CROSS] Dying Brain Hypothesis: Critical Evaluation of Evidence Quality
+
+**Target**: `[GDR]`  
+**Status**: ✅ RESOLVED  
+**Date Added**: 2025-12-27  
+**Date Resolved**: 2025-12-29  
+**Priority**: High  
+**Related Nodes**: CONSC-004, CONSC-017
+
+**Context**:
+The "dying brain hypothesis" needed evaluation **as a hypothesis**, not as neutral baseline. Framework position required critical assessment of whether DBH models (gamma surge, DMT, anoxia) actually explain ALL NDE phenomena.
+
+**RESOLUTION:**
+Comprehensive analysis completed in `data/01_Consciousness_Studies/Evaluating Dying Brain Hypothesis Critically.md`.
+
+**Key Findings:**
+
+| DBH Mechanism | What It Explains | What It Does NOT Explain |
+|---------------|------------------|-------------------------|
+| **Cerebral Anoxia** | Context of cardiac arrest | Hyper-lucidity (inverse relationship problem) |
+| **DMT/Endogenous Psychedelics** | Some mystical features | Phenomenological divergence (familiar vs. alien content) |
+| **Gamma Surge (Borjigin)** | Brief post-arrest activity | Experiences verified 10-30 min into arrest (timing mismatch) |
+| **Temporal Lobe Transients** | Fragmentary autoscopy | Coherent narrative NDE sequence |
+
+**Critical Evidence Against DBH:**
+
+1. **Veridical Perception Cases**:
+   - Pam Reynolds: Accurate surgical details during documented flat EEG AND flat BAEPs
+   - "Dentures Man": Identified specific drawer in crash cart from overhead perspective during clinical death
+   - Al Sullivan: Described surgeon's unique "elbow flapping" habit—purely visual, no auditory signature
+
+2. **AWARE Study Results**:
+   - Visual targets: Zero hits BUT denominator problem (effective sample size: 0-1)
+   - Verified auditory awareness: Patient accurately described events **3 minutes** into arrest (beyond 10-20 second isoelectric threshold)
+   - Parnia: "Consciousness persisted without functional cortical activity"
+
+3. **Gamma Surge Limitations**:
+   - Duration: Seconds to minutes; cannot explain experiences at minute 15-30
+   - Correlation: No subjective data (patients didn't survive)
+   - Inconsistency: Only 50% of patients showed surge
+   - Category error: Activity ≠ content
+
+4. **Terminal Lucidity**: Full cognitive function in severe Alzheimer's (destroyed structures) falsifies structure-function dogma
+
+5. **Shared Death Experiences (SDEs)**: Healthy bystanders report identical phenomenology—rules out "dying" as cause
+
+**Document Structure:**
+- Section 2: Physiology mechanisms (anoxia, DMT, temporal lobe) with Table 1 comparative phenomenology
+- Section 3: Gamma surge critique (timing, correlation, content problems)
+- Section 4: Veridical perception cases with skeptical rebuttals
+- Section 5: AWARE study methodology and results
+- Section 6: Empathetic life review (materialist failure)
+- Section 7: Terminal lucidity (structure-function challenge)
+- Section 8: Shared death experiences (control group)
+- 63 scholarly citations
+
+**Conclusion from Document:**
+> "When the Dying Brain Hypothesis is subjected to the rigorous standards of falsifiability and explanatory scope, it fails to account for the primary anomalies of the Near-Death Experience... The data points toward a reality where consciousness is not merely a byproduct of neural computation but a fundamental, non-local phenomenon that interacts with the brain."
+
+**Source Chain:**
+1. `[T]` Evaluating Dying Brain Hypothesis Critically.md (Gemini Deep Research synthesis)
+2. `[S]` Parnia et al. (2001, 2014, 2023) - AWARE studies
+3. `[S]` Van Lommel et al. (2001) - Dutch prospective study
+4. `[S]` Borjigin et al. (2013, 2023) - Gamma surge research
+5. `[P]` Reynolds, Sullivan, "Dentures Man" case documentation
+6. `[W]` 63 scholarly sources cited in document
+
+---
+
 ### [NDE] CONSC-034: Restorative Path Violent Death Correlation
 
 **Target**: `[NDE]`  
@@ -605,19 +674,234 @@ External validation from academic historians (not theological apologists) of the
 
 ---
 
+### [NDE] Operationalization: "Unknown Presence" Classification Criteria
+
+**Target**: `[NDE]`  
+**Status**: ✅ RESOLVED  
+**Date Added**: 2025-12-29  
+**Date Resolved**: 2025-12-30  
+**Priority**: HIGH  
+**Related Files**: `conceptual_framework_deep_dive_report.md`
+
+**Context**:
+Framework analysis claims 61.8% of Being of Light encounters are classified as "unknown presence" (1,970 of 3,189 cases). This is described as the "strongest evidence" for objective reality since it shows experiencers encounter something that transcends their available conceptual categories.
+
+**Original Questions**:
+1. What questionnaire fields are used to extract "being identification"?
+2. What response options map to "unknown presence"?
+3. Is "unknown presence" a distinct option or researcher-assigned category?
+4. How do we distinguish from "not reported" or "declined to answer"?
+5. What is the inter-rater reliability?
+
+**RESOLUTION:**
+
+**1. Questionnaire Field Identification:**
+
+The `being_identifications` field is extracted from `passage.arrival.being_identifications` in the structured questionnaire schema:
+
+```python
+class ArrivalExperience(QuestionnaireBaseModel):
+    being_identifications: List[BeingIdentification] = Field(
+        default_factory=list,
+        description="Q1.3.3 — Identified beings encountered upon arrival.",
+    )
+```
+
+**2. Exact Response Options (BeingIdentification Enum):**
+
+| Enum Value | Description |
+|------------|-------------|
+| `JESUS` | Identified as Jesus Christ |
+| `GOD` | Identified as God (non-specific deity) |
+| `ANGELS` | Angels or angel-like beings |
+| `BUDDHA` | Buddha |
+| `RELIGIOUS_FIGURE_SPECIFIED` | Named religious figure from tradition |
+| `DECEASED_RELATIVE_GUIDE` | Deceased relative recognized as guide |
+| **`UNKNOWN_PRESENCE`** | **Unknown/unidentified loving presence** |
+| `MULTIPLE_BEINGS` | Multiple beings encountered |
+| `OTHER` | Other (with detail field) |
+| `NONE` | No being encountered |
+| `NOT_SPECIFIED` | Not specified in narrative |
+
+**3. "Unknown Presence" is a DISTINCT Response Option:**
+
+✅ **CONFIRMED**: `UNKNOWN_PRESENCE = "unknown_presence"` is an **explicitly defined enum value**, not a catch-all for ambiguous responses.
+
+The questionnaire (Q1.3.3) explicitly offers "Unknown/unidentified loving presence" as a distinct response option alongside specific identifications.
+
+**4. Distinction from "Not Reported":**
+
+| Category | Enum Value | Meaning |
+|----------|------------|----------|
+| Unknown Presence | `UNKNOWN_PRESENCE` | Being encountered but transcends identification |
+| No Being | `NONE` | No being encountered at all |
+| Not Specified | `NOT_SPECIFIED` | Narrative doesn't specify/mention |
+
+The analysis correctly distinguishes:
+- **"Unknown Presence"** = Experiencer encountered a being but **cannot categorize it** despite having conceptual vocabulary available
+- **"Not Specified"** = Narrative doesn't address being identification
+- **"None"** = No being encountered
+
+**5. Classification Methodology (AI-Assisted):**
+
+The classification is performed by GPT-4 structured output analysis:
+
+```python
+SYSTEM_PROMPT = (
+    "You are an expert researcher who classifies near-death experience (NDE) narratives..."
+)
+```
+
+The AI analyzes the narrative text and assigns the most appropriate enum value based on:
+- Explicit statements ("I saw Jesus" → `JESUS`)
+- Descriptions matching known categories ("a figure I couldn't identify" → `UNKNOWN_PRESENCE`)
+- Absence of information (no mention → `NOT_SPECIFIED`)
+
+**Key Finding Validated:**
+
+The 61.8% "unknown presence" rate (1,970/3,189) represents experiencers who:
+1. **DID encounter a being** (not "didn't mention" or "no being")
+2. **Chose not to apply available religious vocabulary** despite having it
+3. Describe the being as **transcending** their conceptual categories
+
+**Cross-Cultural Breakdown (from Deep Dive Report):**
+
+| Religious Background | "Unknown" Rate |
+|---------------------|----------------|
+| Atheist/Agnostic | ~70% |
+| Christian | ~62% |
+| Spiritual not Religious | ~60% |
+| Hindu/Buddhist | ~30-38% |
+| Muslim | ~29% |
+
+**Interpretation:**
+> "Even Christians with available vocabulary ('God,' 'Jesus') report 62% 'Unknown' — suggesting the being's properties don't match their learned theological framework."
+
+**Source Chain:**
+1. `[E]` marconian/nde-data-analysis - `models/questionnaire.py` (schema definition)
+2. `[E]` marconian/nde-data-analysis - `docs/nde-analysis-questionnaire.md` (Q1.3.3)
+3. `[E]` marconian/nde-data-analysis - `docs/reports/conceptual_framework_deep_dive_report.md` (analysis)
+4. `[E]` NDERF/IANDS database (n=6,739)
+
+**Framework Implication:**
+The operationalization is rigorous and the finding is robust. "Unknown presence" represents a **positive identification** of a being that transcends categories, not missing data or ambiguity.
+
+---
+
+### [NDE] Operationalization: "Reincarnation Indicators" Search Criteria
+
+**Target**: `[NDE]`  
+**Status**: ✅ RESOLVED  
+**Date Added**: 2025-12-29  
+**Date Resolved**: 2025-12-30  
+**Priority**: HIGH  
+**Related Files**: `conceptual_framework_deep_dive_report.md`
+
+**Context**:
+Framework claims "0% reincarnation indicators" in NDE accounts as evidence for "Normative Path" (continuation without reincarnation).
+
+**Original Questions**:
+1. What search terms/keywords identify "reincarnation indicators"?
+2. What narrative patterns were coded as potential reincarnation evidence?
+3. Were Eastern religion NDEs included?
+4. How were accounts mentioning "returning" or "choosing a new life" handled?
+5. Were ambiguous phrases coded as reincarnation indicators?
+
+**RESOLUTION:**
+
+**Methodology: Absence of Structural Elements, Not Keyword Search**
+
+The "0% reincarnation indicators" claim is NOT based on keyword searching. It's based on the **structural absence** of specific NDE elements that would indicate reincarnation as normative path.
+
+**Five Independent Validation Markers (from Deep Dive Report):**
+
+| Marker | Finding | Reincarnation Support |
+|--------|---------|----------------------|
+| 1. Deceased Relatives Present | 18.7% (1,260 cases) | ❌ Contradicts (they'd be reincarnated) |
+| 2. Return Framed as Exception | 41.6% | ❌ Contradicts (not cyclical) |
+| 3. Identity/Memory Preserved | 89.9% communication | ❌ Contradicts (no memory wipe prep) |
+| 4. Purposeful Continuation | 57.8% value transformation | ❌ No evidence |
+| 5. Natural Progression Language | 41.6% "not your time" | ❌ Absent (no cycling language) |
+
+**What Was Actually Searched For:**
+
+The analysis looked for **presence** of reincarnation-related structural elements:
+
+1. **Language about selecting next physical life** - ABSENT
+2. **Preparation for memory wipe or identity reset** - ABSENT  
+3. **Discussion of karma, lessons requiring rebirth** - ABSENT
+4. **"You'll come back" language** - ABSENT
+5. **Mandatory cycling framing** - ABSENT
+
+**Key Quote from Report:**
+> "Absence of Reincarnation Indicators:
+> - No guidance about selecting next physical life
+> - No preparation for memory wipe or identity reset  
+> - No discussion of karma, lessons requiring rebirth, or mandatory cycling
+> - No 'you'll return again' language"
+
+**Return Reason Analysis (n=6,739):**
+
+| Return Reason | Count | Percentage |
+|---------------|-------|------------|
+| No reason given | 2,336 | 39.2% |
+| Family responsibility | 1,063 | 17.8% |
+| Not your time | 970 | 16.3% |
+| **Earthly mission** | **773** | **11.5%** |
+| Other | Variable | Variable |
+
+**Note**: Even "Earthly mission" (11.5% - the Volunteer Soul pathway) refers to **returning to the CURRENT life**, not reincarnating into a new one.
+
+**Eastern Religion NDEs:**
+
+The database includes Hindu/Buddhist experiencers:
+- Hindu/Buddhist: ~30-38% report "Unknown" being identification
+- These accounts follow the same structural pattern (continuation) rather than showing reincarnation preparation
+
+**Clarification: "0% Reincarnation Indicators" Means:**
+
+1. ✅ 0% receive guidance about selecting a new physical life
+2. ✅ 0% are prepared for memory wipe
+3. ✅ 0% are told about mandatory cycling
+4. ✅ 0% use cyclical/karmic language
+
+It does NOT mean:
+- ❌ 0% of experiencers believe in reincarnation (not measured)
+- ❌ 0% have cultural frameworks including reincarnation (irrelevant)
+
+**Important Caveat:**
+
+The "Restorative Incarnation Path" (reincarnation after traumatic death) is NOT testable with NDE data. It requires DOPS past-life recall corpus. NDEs by definition involve people who RETURNED, not people completing the full post-death journey.
+
+> "The Restorative Incarnation path cannot be validated with NDE data because NDErs survived (by definition). Testing requires past-life recall data (DOPS corpus)." - Validation Report
+
+**Source Chain:**
+1. `[E]` marconian/nde-data-analysis - `docs/reports/conceptual_framework_deep_dive_report.md`
+2. `[E]` marconian/nde-data-analysis - `docs/reports/threefold-path-validation-report.md`
+3. `[E]` marconian/nde-data-analysis - `models/questionnaire.py` (ReturnReason enum)
+4. `[E]` NDERF/IANDS database (n=6,739)
+
+**Framework Implication:**
+The "0% reincarnation indicators" claim is VALID within the defined scope:
+- NDEs show **continuation** of consciousness, not preparation for **cycling**
+- Reincarnation may still occur (Restorative Path) but is not the **normative** post-death trajectory visible in NDE accounts
+- The claim requires the caveat that NDEs represent return cases, not complete post-death journeys
+
+---
+
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 12 |
-| **NDE Domain** | 6 |
+| **Total Resolved** | 14 |
+| **NDE Domain** | 8 |
 | **SWED Domain** | 3 |
 | **CROSS Domain** | 1 |
 | **EARLY Domain** | 1 |
 | **GNOS Domain** | 1 |
 | **Critical Priority** | 2 |
-| **High Priority** | 4 |
+| **High Priority** | 6 |
 | **Medium Priority** | 5 |
 | **Low Priority** | 1 |
 
-**Last Updated**: 2025-12-29
+**Last Updated**: 2025-12-30

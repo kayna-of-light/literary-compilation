@@ -3533,8 +3533,8 @@ nodes:
       The Magi who visited the infant Jesus were the last custodians of the 'Science of
       Correspondences'—the ancient wisdom that every natural object corresponds to a
       spiritual reality. Their journey represents the final act of the 'Ancient Church,'
-      passing its accumulated wisdom to the nascent Christian church. Daniel, as 'Rab-mag'
-      (Chief of the Magi), had re-infused the Magian tradition with genuine prophetic spirit.
+      passing its accumulated wisdom to the nascent Christian church. Daniel, as 'Rab-hartummin'
+      (Chief of the Magicians), had re-infused the Chaldean tradition with prophetic spirit.
       The gifts (gold, frankincense, myrrh) formed a complete theological statement:
       celestial goodness (gold), spiritual goodness (frankincense), natural goodness (myrrh).
       Their journey represents the providential confluence of Persian (Zoroastrian) and 
@@ -3566,7 +3566,7 @@ nodes:
         note: "Parthian religious revival context"
       - type: S
         ref: "Book of Daniel (chapters 1-6)"
-        note: "Daniel as Rab-mag"
+        note: "Daniel as Rab-hartummin (Chief of Magicians) - NOT Rab-mag"
     
     evidence:
       - "Greek 'mageia' semantic shift: holy art → sorcery (mirrors loss of inner meaning)"
@@ -3574,7 +3574,7 @@ nodes:
       - "Essenes paralleled Magi: Sons of Light/Darkness dualism, eschatological focus"
       - "Triple conjunction Jupiter-Saturn in Pisces, 7 BCE (astronomical data)"
       - "Star = knowledge leading to Lord; Jupiter = King; Saturn = Jewish people; Pisces = House of Hebrews"
-      - "Daniel appointed Rab-mag by Nebuchadnezzar"
+      - "Daniel appointed Rab-hartummin over Chaldean wise men (Dan 4:9) - Rab-mag title belongs to Nergal-sharezer (Jer 39:3)"
       - "Gifts as correspondences: Gold=celestial good, Frankincense=spiritual good, Myrrh=natural good"
       - "Magi and Essenes share dualistic worldview (Sons of Light/Darkness)"
     
@@ -12556,26 +12556,51 @@ extended_nodes:
     
     definition: >
       The historical rupture of 330 BCE when Alexander the Great's forces destroyed 
-      the Persepolis royal archives, including the legendary DAMDAT NASK ("Nask of the 
-      Creation of Creatures")—a Zoroastrian encyclopedia cataloging natural 
-      correspondences for animals, plants, elements, and the cosmos. Written on 
-      12,000 prepared cow-hides with gold ink, it contained systematic taxonomy 
-      mapping spiritual entities (Yazatas, Amesha Spentas) to physical creations. 
-      This destruction constitutes a concrete historical mechanism for the "loss" 
-      of systematic correspondence knowledge that Swedenborg claimed was preserved 
-      only fragmentarily in "Great Tartary."
+      the Persepolis royal archives. CRITICAL DISTINCTION: Scholarly consensus holds
+      the AVESTA was an ORAL corpus during the Achaemenid period—Alexander did not 
+      burn a written "Zoroastrian Bible." The "12,000 ox-hides with gold ink" is 
+      ZOROASTRIAN HAGIOGRAPHY (Arda Viraf Namag, Denkard) serving ideological purposes.
+      WHAT WAS DESTROYED: Archaeological evidence confirms parchment/leather 
+      administrative documents were incinerated (bullae impressions prove this). The 
+      "Damdat Nask" content survived via ORAL TRANSMISSION through the Zand tradition, 
+      eventually recorded in the Bundahišn (9th c. CE). Mary Boyce's argument: the 
+      "burning" metaphorically refers to slaughter of Magi who were "living books."
     
-    damdat_nask_contents:
-      description: >
-        The Denkard (9th century) describes the Damdat Nask as covering: origins of 
-        sky, water, earth, plants, animals, mankind; spiritual existence and heaven; 
-        good and evil; "everything which Ahura Mazda produced in water, fire, and 
-        vegetation."
-      classification: "Hadha-manthric (scientific) nask—not merely liturgical"
-      survival: >
-        Substance preserved in Bundahišn summaries; original systematic detail lost. 
-        Liturgical texts (Gathas, prayers) survived in oral memory; scientific nasks 
-        largely destroyed or dispersed.
+    scholarly_verification:
+      classical_sources: >
+        NONE of the Greek/Roman historians (Arrian, Diodorus, Plutarch, Curtius) 
+        mention religious archives or a library at Persepolis. They detail treasury 
+        loot (thousands of talents) but no books. Destruction framed as political/
+        dynastic, not religious.
+      archaeological_evidence: >
+        1) Persepolis Fortification Archive (PFA): 30,000+ clay tablets SURVIVED 
+        because fire baked them. 2) Bullae (clay sealings) prove thousands of 
+        parchment scrolls EXISTED and were destroyed. 3) No evidence these contained 
+        religious texts—likely administrative/diplomatic records in Aramaic.
+      orality_consensus: >
+        Kellens, Hoffmann, Skjærvø: Avesta was oral until Sasanian era (4th-6th c. CE).
+        Avestan script was invented by Sasanians to record oral tradition. Old Persian 
+        Cuneiform and Aramaic script cannot capture Avestan phonology.
+      hagiographic_function: >
+        De Jong, Kotwal, Kreyenbroek: "Burned Book" narrative legitimized Sasanian 
+        codification project and explained gaps in tradition. Alexander demonized 
+        as "Guzastag" (Accursed), agent of Ahriman.
+    
+    damdat_nask_reconstruction:
+      denkard_8_5: >
+        Provides detailed summary of Damdat Nask contents: 32 sections (kardag) 
+        covering spiritual creation (Mēnōg), material creation (Gētīg), taxonomy of 
+        animals (five-fold classification), embryology, cosmogony, eschatology.
+      zadspram_citations: >
+        Zādspram explicitly cites "the Dāmdād Nask" twice (3.43, 3.57) regarding 
+        botanical origins from Sole-Created Ox—proves direct textual connection.
+      bundahisn_concordance: >
+        Chapter-by-chapter structural alignment between Denkard summary and Greater 
+        Bundahišn validates that Bundahišn IS the surviving Zand of Damdat Nask.
+      microcosm_macrocosm: >
+        Chapter 28: Systematic correspondence map (head=sky, veins=rivers, bones=
+        mountains, breath=wind). This "encyclopedic" element validates "systematic 
+        correspondence" claim.
     
     taxonomy_system:
       beneficent_animals: >
@@ -12600,7 +12625,7 @@ extended_nodes:
         Causal mechanics of correspondence lost; rituals survived as "shells" without 
         "kernel." Parthian/Sassanian Magi reconstructed from fragments.
       daniel_context: >
-        Exilic Jews (Daniel as Rab-mag) engaged with this already-fragmentary 
+        Exilic Jews (Daniel as Rab-hartummin) engaged with this already-fragmentary 
         tradition, synthesizing prophetic revelation with Magian cosmological science.
     
     swedenborg_connection:
@@ -12611,30 +12636,52 @@ extended_nodes:
         Western (Persepolis) archives lost.
     
     caveats:
-      - "Damdat Nask itself is lost; description based on Denkard summaries"
-      - "Alexander destruction narrative may be hagiographic exaggeration"
-      - "Extent of actual systematic taxonomy unknown"
-      - "Dating of original Avestan texts contested"
+      - "CRITICAL: Avesta was ORAL in Achaemenid period—no written 'Zoroastrian Bible' existed"
+      - "'12,000 ox-hides with gold ink' is hagiographic legend, not historical fact"
+      - "Damdat Nask content survived via oral Zand tradition → Bundahišn"
+      - "Classical sources (Arrian, Diodorus, Plutarch) SILENT on religious archives"
+      - "Archaeological bullae prove parchment destruction—content unknown (likely administrative)"
+      - "The 'real' loss was slaughter of Magi who were 'living books' (Boyce hypothesis)"
+      - "Sasanian codification project (4th-6th c. CE) created written Avesta"
     
     source_chain:
       - type: T
-        ref: "data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md"
-        note: "Primary source: The Resonant Cosmos"
+        ref: "data/02_Swedenborgian_Theology/Alexander, Persepolis, and Avestan Texts.md"
+        note: "Critical historiographical analysis (2025-12-29)"
+      - type: T
+        ref: "data/02_Swedenborgian_Theology/Bundahišn's Damdat Nask Reconstruction.md"
+        note: "Philological reconstruction analysis (2025-12-29)"
       - type: P
-        ref: "Denkard, Book 8"
-        note: "Summaries of lost Nask contents"
+        ref: "Denkard, Book 8, Chapter 5"
+        note: "Summary of Damdat Nask contents—32 kardag (sections)"
       - type: P
-        ref: "Bundahišn"
-        note: "Surviving cosmological content derived from Damdat Nask"
+        ref: "Greater Bundahišn"
+        note: "Surviving Zand of Damdat Nask; Chapter 28 = Microcosm-Macrocosm"
+      - type: P
+        ref: "Wizīdagīhā ī Zādspram, 3.43, 3.57"
+        note: "Explicit citations of 'the Dāmdād Nask'"
       - type: P
         ref: "Arda Viraf Namag"
-        note: "Account of Alexander's destruction"
+        note: "Hagiographic account of Alexander's destruction"
+      - type: S
+        ref: "MacKenzie, D.N., Encyclopaedia Iranica, 'DĀMDĀD NASK'"
+        note: "Standard scholarly reference"
+      - type: S
+        ref: "Boyce, Mary, 'A History of Zoroastrianism'"
+        note: "Magi as 'living books' argument"
+      - type: W
+        ref: "Encyclopaedia Iranica: 'AVESTA', 'PERSEPOLIS ADMINISTRATIVE ARCHIVES'"
+        note: "Archaeological and philological verification"
     
     evidence:
-      - "Denkard classifies Damdat Nask as 'scientific' (hadha-manthric)"
-      - "Bundahišn preserves beneficent/noxious animal taxonomy"
-      - "Vendidad devotes chapters to dog care—sacred science, not folk superstition"
-      - "Swedenborg's 'Great Tartary' = Eastern Iranian/Central Asian regions"
+      - "Arrian, Diodorus, Plutarch: NO mention of religious archives at Persepolis"
+      - "PFA (Persepolis Fortification Archive): 30,000+ clay tablets survived—administrative only"
+      - "Bullae impressions prove parchment documents existed and were destroyed"
+      - "Denkard 8.5: Detailed structural summary of Damdat Nask (32 kardag)"
+      - "Zādspram 3.43, 3.57: Explicit citation 'as it is said in the Dāmdād Nask'"
+      - "Greater Bundahišn structure aligns chapter-for-chapter with Denkard summary"
+      - "Bundahišn Ch. 28: Microcosm-Macrocosm correspondence map (head=sky, veins=rivers)"
+      - "Kellens, Hoffmann, Skjærvø: Avesta was oral until Sasanian codification"
     
     connections:
       - target: SWED-004
@@ -12662,22 +12709,22 @@ extended_nodes:
     trace_status: complete
 
   SWED-043:
-    title: "Daniel as Rab-mag (Prophetic-Sapiential Synthesis)"
+    title: "Daniel as Rab-hartummin (Prophetic-Sapiential Synthesis)"
     domain: SWED
     status: validated
-    confidence: high
+    confidence: medium  # downgraded due to compositional dating questions
     
     definition: >
-      The historical-theological significance of Daniel's appointment as RAB-MAG 
-      (Chief of the Magi/Wise Men) under Nebuchadnezzar (Dan 2:48, 5:11). Daniel 
-      received training in "the learning and tongue of the Chaldeans" (Dan 1:4)—
-      the entire corpus of Mesopotamian science including celestial omens (Enuma 
-      Anu Enlil), terrestrial omens (Summa Alu), anomalous birth omens (Summa Izbu), 
-      and dream interpretation. As Rab-mag, Daniel bridges the PROPHETIC tradition 
-      (direct revelation from YHWH) and the SAPIENTIAL tradition (interpreting 
-      signs of nature/history). He perfects rather than rejects the Chaldean science, 
-      showing the true "Revealer of Mysteries" is the God of Heaven while using 
-      Magian language (dreams, statues, beasts) to communicate that revelation.
+      The historical-theological significance of Daniel's position as RAB-HARTUMMIN 
+      (Chief of the Magicians/Scribes) and RAB-SIGNĪN (Chief Prefect) over the wise 
+      men of Babylon (Dan 2:48, 5:11). NOTE: Daniel is NEVER called "Rab-mag" in 
+      the biblical text—that title belongs exclusively to Nergal-sharezer in Jeremiah 
+      39:3. Daniel received training in "the learning and tongue of the Chaldeans" 
+      (Dan 1:4). Critical scholarship dates the book's final redaction to 167-164 BCE 
+      (Maccabean period), with Court Tales (Dan 1-6) preserving older Persian-era 
+      traditions. Daniel functions as a literary "synthesis figure" bridging 
+      PROPHETIC revelation and SAPIENTIAL tradition, demonstrating the God of Heaven 
+      as the true "Revealer of Mysteries" through correspondential imagery.
     
     synthesis_function:
       prophetic_stream: "Direct revelation from YHWH (what will happen)"
@@ -12715,8 +12762,11 @@ extended_nodes:
       method: "Physical vision → spiritual meaning via correspondence"
     
     caveats:
-      - "Book of Daniel's historical accuracy debated (many scholars date to 2nd c. BCE)"
-      - "Rab-mag title interpretation contested"
+      - "CRITICAL: Daniel is NEVER called 'Rab-mag' in the Bible\u2014that title belongs to Nergal-sharezer (Jer 39:3)"
+      - "Daniel's actual titles: Rab-sign\u012bn (Chief Prefect, Dan 2:48), Rab-hartummin (Chief of Magicians, Dan 4:9)"
+      - "Final redaction dated 167-164 BCE (Maccabean); Court Tales are older (4th-3rd c. BCE)"
+      - "'Darius the Mede' has no external historical attestation\u2014likely literary construct"
+      - "Persian loanwords (raz, d\u0101t, etc.) confirm author's deep Persian acculturation"
       - "Magi narrative in Matthew considered legendary by critical scholars"
       - "Direct transmission to Nativity Magi = inference, not documented"
     
@@ -12736,10 +12786,13 @@ extended_nodes:
     
     evidence:
       - "Daniel explicitly trained in 'learning and tongue of Chaldeans' (Dan 1:4)"
-      - "Appointed Rab-mag = Chief of Wise Men (Dan 2:48)"
+      - "Appointed Rab-sign\u012bn (Chief Prefect) over wise men (Dan 2:48)\u2014NOT Rab-mag"
+      - "Called Rab-hartummin (Chief of Magicians) in Dan 4:9 (MT 4:6)"
+      - "Rab-mag title belongs ONLY to Nergal-sharezer (Jer 39:3, 39:13)"
       - "Daniel's visions use correspondential imagery (statue, tree, beasts)"
-      - "Magi at Nativity sought 'King of Jews' from star = correspondence reading"
-      - "Numbers 24:17 + Daniel 9 = combined prophecy transmission"
+      - "Persian loanwords: raz (mystery), d\u0101t (law), ahashdarpan\u012bm (satraps)"
+      - "Belshazzar as regent historically confirmed (Nabonidus Chronicle)"
+      - "Four-kingdoms schema parallels Persian Bahman Yasht\u2014shared or borrowed motif"
     
     connections:
       - target: EARLY-008

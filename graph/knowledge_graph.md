@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-29 16:39*
+*Last exported: 2025-12-29 16:45*
 
 ---
 
@@ -10,20 +10,20 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 165 |
+| Total Nodes | 166 |
 | Total Connections | 444 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 154
+- **validated**: 155
 - **preliminary**: 6
 - **contested**: 5
 
 ### By Domain
 
 - **Cross-Domain** (CROSS): 7
-- **Consciousness Studies** (CONSC): 45
+- **Consciousness Studies** (CONSC): 46
 - **Swedenborgian Theology** (SWED): 42
 - **Biblical Scholarship** (BIBL): 20
 - **Early Christian History** (EARLY): 16
@@ -954,6 +954,30 @@
 - → `CONSC-019` (develops): Adds statistical validation to symbolic element analysis
 - → `CROSS-001` (supports): Demonstrates natural/spiritual tier relationship in empirical data
 - → `CONSC-001` (supports): Constant states, variable forms = consciousness structures reality (CDE mechanism)
+
+---
+
+#### [CONSC-046] Restorative Return: DOPS Statistical Validation (Gemini Deep Research Audit)
+
+**Status**: validated | **Confidence**: high
+
+> Comprehensive statistical audit of DOPS published literature validating the "Restorative  Return" model through six independent markers. The analysis demonstrates that DOPS  cases form a coherent profile of trauma-driven exceptional return rather than evidence  for universal reincarnation. The Restorative Return is a specific, reparative mechanism  triggered by a "life interrupted"—trauma of premature/violent exit leaves the seed-state  incomplete, creating psychic momentum that propels consciousness back.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/DOPS Restorative Return Model Analysis.md
+2. [E] Stevenson & Cook, 'Two Correlates of Violent Death in Cases of the Reincarnation Type'
+3. [E] Matlock, J., congenital anomalies in <9 month intermission cases (PubMed 36096967)
+4. [E] Tucker, J., 'Case of James Leininger' (ResearchGate)
+5. [P] UVA DOPS database (n=2,500+)
+
+**Connections**:
+- → `CONSC-034` (validates): Comprehensive statistical support for Restorative Incarnation model
+- → `CONSC-005` (validates): Restorative Path within Threefold Path cosmology
+- → `CONSC-002` (supports): DOPS data interpretation as exceptional, not universal
+- → `SWED-008` (parallels): Restorative return enables regeneration to complete
+- → `CROSS-003` (supports): Seed-state completion allows ruling love to stabilize
+- → `CONSC-001` (supports): System shows purpose (restoration) not chaos—consciousness-driven
 
 ---
 

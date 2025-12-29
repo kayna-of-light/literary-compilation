@@ -478,53 +478,10 @@ Tests whether "proprium" is real historical force or theological projection onto
 > The following questions address potential selection artifacts in existing research:
 > - DOPS methodology requires a deceased "Previous Personality" for verification, potentially filtering out non-cyclic cases
 > - Intermission phenomenology appears in ~20% of cases — a minority, not a norm
-> - The 70%+ violent death correlation may indicate exceptional return, not universal reincarnation
-> - Cultural imagery variation may reflect correspondential clothing of constant functional states
+> - The 70%+ violent death correlation indicates exceptional return, not universal reincarnation (VALIDATED—see CONSC-046)
+> - Cultural imagery variation may reflect correspondential clothing of constant functional states (VALIDATED—see CONSC-045)
 > 
 > Questions are designed to test these specific hypotheses without assuming any framework.
-
----
-
-### [GDR] DOPS Restorative Pathway: Markers Beyond Violent Death Correlation
-
-**Target**: `[GDR]`  
-**Status**: Open  
-**Date Added**: 2025-12-29  
-**Priority**: HIGH  
-
-**Context**:
-The University of Virginia's Division of Perceptual Studies (DOPS) has collected over 2,500 cases of children who spontaneously report memories of previous lives. A striking statistical pattern in this data: over 70% of verified cases involve a "Previous Personality" (PP) who died violently or prematurely (accident, murder, suicide, combat) rather than from natural causes at old age.
-
-This violent death correlation is robust across cultures and has been documented since Stevenson's original research. However, correlation alone doesn't explain mechanism. One interpretation: violent/premature death represents an *interrupted* life trajectory, and the return is *restorative* — the soul comes back to complete a developmental arc that was cut short. Under this model, these cases are *exceptions* (traumatic interruption triggering return) rather than evidence that reincarnation is universal.
-
-We want to test whether the data supports this "Restorative Return" interpretation by looking for additional markers beyond the violent death statistic.
-
-**Research Question**:
-Search published DOPS literature for evidence patterns that would distinguish "interrupted life → return to complete" cases:
-
-1. **Memory fading pattern**: Do cases with violent PP deaths show different memory-fade trajectories than peaceful death cases? (Prediction: if restorative, trauma imprint should fade as new personality integrates and "completes")
-
-2. **Behavioral markers**: Do violent death cases show higher rates of:
-   - Phobias matching cause of death (drowning phobia if PP drowned)
-   - Post-traumatic play themes (acting out the death scenario)
-   - Urgency to "finish" something from the previous life
-   - Resolution/integration over time (symptoms diminishing)
-
-3. **Birthmark concentration**: DOPS reports 30-35% of cases involve birthmarks/birth defects corresponding to wounds on the PP. Is this rate specifically elevated in violent death cases vs. peaceful death cases?
-
-4. **Age of PP death distribution**: What is the age distribution of Previous Personalities at death? (Prediction: if restorative, PP deaths should skew young/premature, not natural end-of-life)
-
-5. **Time-between-lives data**: Does violent death correlate with shorter intermission periods between death and rebirth? (Prediction: if urgent restoration, less "waiting")
-
-6. **Resolution markers**: Are there documented cases where the child's past-life preoccupation resolves over time and they report feeling "complete" or "done"?
-
-**Expected Output**:
-Evidence that DOPS violent death cases form a coherent "Restorative" profile (trauma → memory imprint → return → integration → resolution). This would distinguish restorative return from general cyclic reincarnation and suggest these cases represent an exceptional mechanism, not a universal process.
-
-**Key Sources**:
-- Stevenson, I. — *Twenty Cases Suggestive of Reincarnation*, *Reincarnation and Biology*
-- Tucker, J. — *Life Before Life*, *Return to Life*, case analysis papers
-- Sharma & Tucker (2004) — "Cases of the Reincarnation Type with Memories from the Intermission Between Lives"
 
 ---
 

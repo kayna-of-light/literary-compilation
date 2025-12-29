@@ -8,6 +8,76 @@ This document archives research questions that have been successfully investigat
 
 ## Resolution Archive
 
+### [GDR] DOPS Restorative Pathway: Markers Beyond Violent Death Correlation
+
+**Target**: `[GDR]`  
+**Status**: ✅ RESOLVED  
+**Date Added**: 2025-12-29  
+**Date Resolved**: 2025-12-29  
+**Priority**: HIGH  
+**Related Nodes**: CONSC-034, CONSC-046, CONSC-005
+
+**Context**:
+The University of Virginia's Division of Perceptual Studies (DOPS) has collected over 2,500 cases of children who spontaneously report memories of previous lives. Over 70% of verified cases involve a "Previous Personality" (PP) who died violently or prematurely. We wanted to test whether the data supports a "Restorative Return" interpretation by looking for additional markers beyond the violent death statistic.
+
+**RESOLUTION:**
+Comprehensive statistical audit completed in `data/01_Consciousness_Studies/DOPS Restorative Return Model Analysis.md` (Gemini Deep Research).
+
+**Six Independent Markers Validated:**
+
+| Marker | Finding | Implication |
+|--------|---------|-------------|
+| **Violent Death Prevalence** | >70% (vs. <30% natural) | Massive deviation from mortality norms—trauma is trigger |
+| **Somatic Correlates** | 35% birthmarks; 88% medical verification | Physical trauma transfers to new form |
+| **Temporal Urgency** | Shorter intermissions for violent death (p<.01) | "Rush" to return; unfinished business |
+| **Age Distribution** | PP avg age ~28; 25% <15 years | Selects for "life interrupted," not natural death |
+| **Behavioral Markers** | 35% phobias matching death mode; PTSD profile | Unresolved trauma manifests as symptoms |
+| **Resolution** | Symptoms remit after verification/contact | Memory serves functional purpose → closure |
+
+**Key Statistical Details:**
+
+1. **Birthmark Specificity**: 
+   - 88% correspondence when autopsy records available (43/49 cases)
+   - 14 "double birthmark" cases mapping bullet entry/exit trajectory
+   - <9 month intermission cohort: 89% birthmarks, 75% violent deaths
+
+2. **Temporal Urgency**:
+   - Suicide cases: Median 3 months intermission only (vs. 15-16 months general)
+   - Age of first speaking: Earlier for violent deaths (p<.01)
+   - Cross-cultural: Pattern holds across 8 cultures
+
+3. **Resolution Mechanism**:
+   - Memory fade window: Ages 5-7 (developmental "handoff")
+   - James Leininger: Nightmare cessation after verification and USS Natoma Bay crew reunion
+   - Unsolved cases show HIGHER distress (no closure available)
+
+**Theoretical Framework Validated:**
+```
+TRIGGER: Violent/premature death interrupts seed-state development
+IMPRINT: Physical trauma etches into psychobiological architecture
+URGENCY: Incomplete seed-state creates momentum for rapid return
+SYMPTOM: PTSD-like manifestations indicate unresolved trauma
+CURE: Verification + natural memory fade = successful integration
+```
+
+**Conclusion from Document:**
+> "The data does not describe a random or universal system of reincarnation, but a specific, anomaly-driven mechanism designed to address the catastrophic interruption of a life... The system of consciousness appears to possess a self-correcting mechanism, ensuring that a life violently curtailed is not a life lost, but a life deferred."
+
+**Knowledge Graph Impact:**
+- Created CONSC-046: "Restorative Return: DOPS Statistical Validation"
+- Validates CONSC-034: "Restorative Incarnation (70% Violent Death Pattern)"
+- Supports CONSC-005: "Threefold Path Post-Mortem Framework"
+
+**Source Chain:**
+1. `[T]` DOPS Restorative Return Model Analysis.md (Gemini Deep Research synthesis)
+2. `[E]` Stevenson & Cook, "Two Correlates of Violent Death in Cases of the Reincarnation Type" (UVA DOPS)
+3. `[E]` Matlock, J., "<9 month intermission cases" (PubMed 36096967)
+4. `[E]` Tucker, J., "Case of James Leininger" (ResearchGate)
+5. `[P]` UVA DOPS database (n=2,500+)
+6. `[W]` 28 scholarly citations in source document
+
+---
+
 ### [CROSS] Dying Brain Hypothesis: Critical Evaluation of Evidence Quality
 
 **Target**: `[GDR]`  

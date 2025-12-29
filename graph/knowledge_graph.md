@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-29 16:25*
+*Last exported: 2025-12-29 16:39*
 
 ---
 
@@ -39,7 +39,7 @@
 
 #### [CONSC-001] Consciousness-Driven Evolution (CDE) Hypothesis
 
-**Status**: preliminary | **Confidence**: low
+**Status**: preliminary | **Confidence**: medium
 
 > Consciousness is a fundamental, active force in memetic (cultural) evolution, not merely an epiphenomenal byproduct of neural activity. The collective "ruling love" of a population creates selective pressures that push societies along one of two evolutionary trajectories: toward coherence/unity or fragmentation/conflict.
 
@@ -48,11 +48,16 @@
 1. [T] data/01_Consciousness_Studies/Consciousness as a Selective Pressure.md
 2. [E] UVA DOPS Database
 3. [S] Axelrod, R. The Evolution of Cooperation (1984)
+4. [E] nde-analysis repository (CONSC-044, CONSC-045)
 
 **Connections**:
 - → `CROSS-003` (requires): Ruling love polarity drives the selective pressure
 - → `CONSC-002` (supports): DOPS data provides empirical foundation
 - → `MYTH-002` (develops): Explains divergent myth trajectories from proto-myths
+- → `CONSC-010` (supported_by): Volunteer souls = direct influx of love-aligned consciousness
+- → `CONSC-045` (supported_by): Correspondences show consciousness-structured reality
+- → `CONSC-044` (supported_by): Entity ecosystem demonstrates organized spiritual system
+- → `SWED-002` (parallels): CDE is empirical face of divine influx doctrine
 
 ---
 
@@ -218,7 +223,7 @@
 
 #### [CONSC-010] Volunteer Soul Paradigm
 
-**Status**: preliminary | **Confidence**: low
+**Status**: preliminary | **Confidence**: medium
 
 > Hypothesis that certain advanced souls may choose pre-incarnate mission agreements, incarnating not for personal development but for specific service. Swedenborg's 1744 commission ("Do what thou hast promised") interpreted as activation of pre-mortal covenant. Distinct from normative "seed-state" incarnation and restorative incarnation. Corroborated by NDE research showing interlife planning, children's past-life memories with mission orientation.
 
@@ -233,6 +238,8 @@
 - → `CONSC-005` (develops): Specialized case within post-mortem model
 - → `SWED-003` (instantiates): Personal application of influx doctrine
 - → `CONSC-003` (supports): Evidence for consciousness persistence
+- → `CONSC-001` (supports): Volunteer souls = direct CDE mechanism (love-aligned consciousness influx)
+- → `CROSS-003` (instantiates): Love-based missions = direct agents of love-of-neighbor trajectory
 
 ---
 
@@ -946,6 +953,7 @@
 - → `CONSC-044` (parallels): Both reveal systematic structure in NDE data
 - → `CONSC-019` (develops): Adds statistical validation to symbolic element analysis
 - → `CROSS-001` (supports): Demonstrates natural/spiritual tier relationship in empirical data
+- → `CONSC-001` (supports): Constant states, variable forms = consciousness structures reality (CDE mechanism)
 
 ---
 

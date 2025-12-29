@@ -455,15 +455,65 @@ Life review is treated as core NDE component and evidence for post-materialist f
 
 ---
 
+### [GDR] CROSS-006: Jesus Identification Percentage Verification
+
+**Target**: `[GDR]`  
+**Status**: ✅ RESOLVED  
+**Date Added**: 2025-12-29  
+**Date Resolved**: 2025-12-29  
+**Priority**: MEDIUM  
+**Related Nodes**: CROSS-006, CONSC-016
+
+**Context**:
+The Jesus Profile Thesis (CROSS-006) claims "~60% Western experiencers identify Being of Light as Jesus." This statistic is used as validation that editorial bricolage "succeeded"—the curated Jesus Profile matches actual spiritual entity encountered. Source chain shows only `[E] NDE phenomenology research (various)`. No specific study cited.
+
+**RESOLUTION:**
+The ~60% claim is **INCORRECT**. Actual data from NDE Statistical Repository (n=3,189 Being of Light encounters):
+
+| Identification | Count | Percentage |
+|----------------|-------|------------|
+| **Unknown Presence** | **1,970** | **61.8%** |
+| God | 732 | 23.0% |
+| **Jesus** | **358** | **11.2%** |
+| Religious Figure | 129 | 4.0% |
+
+**Key Correction:**
+- ❌ Framework claim: "~60% identify Being of Light as Jesus"
+- ✅ Actual finding: **11.2%** explicitly identify as Jesus
+- ✅ The 61.8% figure is for **Unknown Presence** (cannot categorize the Being)
+
+**Reinterpretation:**
+The data actually provides **STRONGER** evidence for objective reality than the original claim:
+1. **61.8% transcend categories** — experiencers encounter something beyond their conceptual frameworks
+2. **Cultural vocabulary, not cultural entity** — Christians say "Jesus," Muslims say "Allah," Atheists say "Unknown," but ALL describe the SAME Being with consistent properties
+3. **Atheists most likely to report "Unknown"** (70.3%) — no pre-existing vocabulary, yet encounter same entity
+
+**Framework Implication:**
+CROSS-006 requires revision:
+- The "Jesus Profile Thesis" validation is NOT that 60% identify as Jesus
+- The validation is that the Being's **personality profile** (unconditional love, non-judgment, recognition) matches the "curated Jesus" regardless of what label experiencers apply
+- The 11.2% who DO identify as Jesus are predominantly Christians using available vocabulary
+
+**Knowledge Graph Action Required:**
+- Update CROSS-006 `nde_verification` section to correct statistics
+- Revise claim from "~60% identify as Jesus" to "consistent personality profile across all labels"
+
+**Source Chain:**
+1. `[E]` nde-analysis/docs/reports/conceptual_framework_deep_dive_report.md (December 2025)
+2. `[E]` NDERF database (n=6,739 total; n=3,189 Being of Light encounters)
+
+---
+
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 9 |
+| **Total Resolved** | 10 |
 | **NDE Domain** | 6 |
 | **SWED Domain** | 3 |
+| **CROSS Domain** | 1 |
 | **Critical Priority** | 2 |
 | **High Priority** | 4 |
-| **Medium Priority** | 3 |
+| **Medium Priority** | 4 |
 
 **Last Updated**: 2025-12-29

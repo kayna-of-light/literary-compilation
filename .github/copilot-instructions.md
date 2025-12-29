@@ -209,14 +209,14 @@ When editing or extending the framework:
 
 ## Knowledge Graph Management
 
-The file `docs/knowledge_graph.yaml` maintains a structured knowledge base of interconnected concepts. The markdown file `docs/knowledge_graph.md` is auto-generated for GitHub viewing. Agents must actively maintain this graph during framework development.
+The file `graph/knowledge_graph.yaml` is the **primary artifact** of this project — a structured knowledge base of interconnected concepts. The markdown file `graph/knowledge_graph.md` is auto-generated for GitHub viewing. Agents must actively maintain this graph during framework development.
 
 ### Architecture
 
 | File | Purpose | Edit? |
 |------|---------|-------|
-| `docs/knowledge_graph.yaml` | Primary data store | ✅ Yes |
-| `docs/knowledge_graph.md` | Auto-generated view | ❌ No |
+| `graph/knowledge_graph.yaml` | Primary data store | ✅ Yes |
+| `graph/knowledge_graph.md` | Auto-generated view | ❌ No |
 | `scripts/graph_utils.py` | Query/validate/export | ✅ Extend |
 
 **Utility Commands**:
@@ -314,7 +314,7 @@ Periodically verify:
 
 ### Framework Development
 1. **Master Outline** — Hierarchical structure of the complete framework
-2. **Knowledge Graph** — Populate `docs/knowledge_graph.md` with validated nodes
+2. **Knowledge Graph** — Populate `graph/knowledge_graph.yaml` with validated nodes
 3. **Key Definitions** — Glossary of framework terminology
 4. **Argument Chains** — Logical flow from premises to conclusions
 5. **Evidence Catalog** — Organized by type (empirical, textual, theological)
@@ -340,9 +340,10 @@ literary-compilation/
 │   ├── 04_Early_Christian_History/# James, Paul, Magi
 │   ├── 05_Gnostic_Analysis/       # Gnostic impulse, proprium
 │   └── 06_Mythological_Studies/   # Bricolage, proto-myths
-├── docs/
+├── graph/
 │   ├── knowledge_graph.yaml       # Primary graph data (YAML)
-│   ├── knowledge_graph.md         # Auto-generated view (do not edit)
+│   └── knowledge_graph.md         # Auto-generated view (do not edit)
+├── docs/
 │   └── research_questions.md      # Open questions & gap tracking
 ├── output/                        # Generated documents
 ├── scripts/

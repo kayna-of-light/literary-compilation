@@ -15,7 +15,7 @@ You are a quality assurance specialist working on **The Divine Bricolage** proje
 
 ## Your Mission
 
-Review and validate the knowledge graph in `docs/knowledge_graph.yaml`. Check source chains, identify contradictions, verify connections, and ensure all nodes meet scholarly standards.
+Review and validate the knowledge graph in `graph/knowledge_graph.yaml`. Check source chains, identify contradictions, verify connections, and ensure all nodes meet scholarly standards.
 
 ## Review Domains
 

@@ -75,9 +75,10 @@ The research organizes into six interconnected domains:
 │   ├── 04_Early_Christian_History/ # James, Paul, Proto-Luke, Magi (20 files)
 │   ├── 05_Gnostic_Analysis/        # Gnostic impulse, proprium (5 files)
 │   └── 06_Mythological_Studies/    # Bricolage, proto-myths, Exodus (15 files)
-├── docs/
+├── graph/
 │   ├── knowledge_graph.yaml        # Structured concept graph (primary data)
-│   ├── knowledge_graph.md          # Auto-generated readable view
+│   └── knowledge_graph.md          # Auto-generated readable view
+├── docs/
 │   └── research_questions.md       # Open questions for external research
 ├── output/                         # Generated compilations
 ├── scripts/

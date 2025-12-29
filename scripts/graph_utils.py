@@ -39,9 +39,17 @@ def save_graph(graph: dict) -> None:
         yaml.dump(graph, f, default_flow_style=False, allow_unicode=True, sort_keys=False)
 
 
+def get_all_nodes(graph: dict) -> dict:
+    """Get all nodes from both 'nodes' and 'extended_nodes' sections."""
+    nodes = graph.get('nodes', {}) or {}
+    extended = graph.get('extended_nodes', {}) or {}
+    # Merge, with extended_nodes taking precedence if duplicates
+    return {**nodes, **extended}
+
+
 def get_stats(graph: dict) -> dict:
     """Calculate graph statistics."""
-    nodes = graph.get('nodes', {}) or {}
+    nodes = get_all_nodes(graph)
     connections = graph.get('connections', []) or []
     untraced = graph.get('untraced', []) or []
     
@@ -68,7 +76,7 @@ def get_stats(graph: dict) -> dict:
 def validate_graph(graph: dict) -> list:
     """Validate graph integrity, return list of issues."""
     issues = []
-    nodes = graph.get('nodes', {}) or {}
+    nodes = get_all_nodes(graph)
     metadata = graph.get('metadata', {})
     
     valid_domains = {d['id'] for d in metadata.get('domains', [])}
@@ -113,7 +121,7 @@ def validate_graph(graph: dict) -> list:
 
 def list_nodes(graph: dict, domain: str = None) -> list:
     """List all nodes, optionally filtered by domain."""
-    nodes = graph.get('nodes', {}) or {}
+    nodes = get_all_nodes(graph)
     result = []
     
     for node_id, node in nodes.items():
@@ -131,7 +139,7 @@ def list_nodes(graph: dict, domain: str = None) -> list:
 
 def export_to_markdown(graph: dict) -> str:
     """Export the graph to a readable markdown format."""
-    nodes = graph.get('nodes', {}) or {}
+    nodes = get_all_nodes(graph)
     metadata = graph.get('metadata', {})
     stats = get_stats(graph)
     untraced = graph.get('untraced', []) or []

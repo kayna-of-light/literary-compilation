@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-27 13:35*
+*Last exported: 2025-12-29 07:50*
 
 ---
 
@@ -10,25 +10,26 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 122 |
+| Total Nodes | 157 |
 | Total Connections | 444 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 112
-- **preliminary**: 5
-- **contested**: 5
+- **validated**: 144
+- **preliminary**: 6
+- **contested**: 6
+- **unverified**: 1
 
 ### By Domain
 
-- **Cross-Domain** (CROSS): 5
-- **Consciousness Studies** (CONSC): 20
-- **Swedenborgian Theology** (SWED): 33
+- **Cross-Domain** (CROSS): 7
+- **Consciousness Studies** (CONSC): 41
+- **Swedenborgian Theology** (SWED): 43
 - **Biblical Scholarship** (BIBL): 20
 - **Early Christian History** (EARLY): 16
-- **The Gnostic Impulse** (GNOS): 12
-- **Mythological Studies** (MYTH): 16
+- **The Gnostic Impulse** (GNOS): 13
+- **Mythological Studies** (MYTH): 17
 
 ---
 
@@ -68,11 +69,20 @@
 2. [E] Stevenson, Ian. Twenty Cases Suggestive of Reincarnation (1966)
 3. [E] Tucker, Jim. Return to Life (2013)
 4. [E] Stevenson, Ian. Reincarnation and Biology (1997)
+5. [T] data/01_Consciousness_Studies/DOPS Case Verification and Critiques.md
+6. [E] Stevenson & Samararatne. 'Three New Cases with Written Records Made Before Verification'
+7. [E] Tucker. 'A Scale to Measure Strength of Children's Claims' (2000)
+8. [S] Sudduth. 'The James Leininger Case Re-Examined' (JSE 2022)
+9. [E] Tucker. 'Response to Sudduth' (JSE 2022)
 
 **Connections**:
 - → `CONSC-001` (supports): Provides empirical evidence for consciousness persistence
 - → `CONSC-004` (parallels): Intermission memories parallel NDE reports
 - → `CONSC-005` (supports): High violent death rate supports Restorative Incarnation path
+- → `CONSC-020` (supports): 70%+ violent death data from DOPS corpus
+- → `CONSC-034` (required_by): Restorative path validation requires DOPS data
+- → `CONSC-040` (develops): Type A/B distinction validates methodology
+- → `CONSC-041` (develops): Birthmark data provides biological signal
 
 ---
 
@@ -456,6 +466,397 @@
 - → `SWED-008` (requires): Restorative life completes regeneration process
 - → `CROSS-003` (supports): Ruling love formation requires complete earthly experience
 - → `CONSC-010` (contrasts): Restorative (incomplete) vs Volunteer (complete) returns
+
+---
+
+#### [CONSC-021] Conceptual Framework Theory (CFT) - Empirical Validation
+
+**Status**: validated | **Confidence**: high
+
+> Theory that Being of Light encounters represent objective phenomenological reality that experiencers describe using available cultural vocabulary. Validated through statistical analysis of 6,739 NDEs (NDERF: 5,646 + IANDS: 1,093). Core finding: 61.8% of Being of Light encounters are identified as "unknown presence" - transcending ALL cultural categories - providing the strongest evidence for objective reality. Cultural vocabulary provides labels (God, Jesus, Allah), but the fundamental entity is consistent across all backgrounds with fixed properties (singular, loving, conscious, corrective, authoritative).
+
+
+**Source Chain**:
+1. [E] data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
+2. [E] data/01_Consciousness_Studies/conceptual-framework-theory-validation-analysis_iands_and_nand_2025.md
+3. [E] NDERF Database (5,646 cases)
+4. [E] IANDS Database (1,093 cases)
+
+**Connections**:
+- → `CONSC-004` (develops): Provides comprehensive statistical validation of NDE phenomenology
+- → `CONSC-008` (supports): Strengthens Being of Light as objective entity claim
+- → `CROSS-003` (supports): Belief correction pattern validates ruling love transformation mechanism
+- → `SWED-002` (supports): Unconditional love pattern aligns with divine influx characteristics
+
+---
+
+#### [CONSC-022] Unknown Presence Phenomenon (61.8%)
+
+**Status**: validated | **Confidence**: high
+
+> The finding that 61.8% of Being of Light encounters (1,970 of 3,189 cases) are identified as "unknown presence" rather than cultural labels (God: 23.0%, Jesus: 11.2%, Religious Figure: 4.0%). This transcendence of ALL cultural categories is the strongest evidence for objective reality - experiencers cannot project what they cannot conceive. Even Christians with available vocabulary ("God," "Jesus") choose "unknown" when the being's properties (loving, non-judgmental, accepting) contradict their taught theological framework (fear-based, punitive).
+
+
+**Source Chain**:
+1. [E] data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
+
+**Connections**:
+- → `CONSC-021` (supports): Key evidence for Conceptual Framework Theory
+- → `CONSC-004` (develops): Quantifies transcendent nature of Being of Light encounter
+- → `CONSC-008` (supports): Being transcends cultural/religious categories
+- → `CONSC-024` (supports): Drives theological framework mismatch hypothesis
+
+---
+
+#### [CONSC-023] Life Review: No External Condemnation (84.8%)
+
+**Status**: validated | **Confidence**: high
+
+> Statistical finding that 84.8% of life reviews (n=1,253) involve NO external condemnation. Distribution: No judgment at all (57.0%), Self-judgment only (26.3%), Guide/Light judgment (9.3%), Harsh/punishing (1.6%). The Love-to-Shame ratio is 3.4:1. This pattern persists even among Christians taught to expect divine judgment (86.8% no external condemnation). Experience systematically CORRECTS theological expectations rather than confirming them.
+
+
+**Source Chain**:
+1. [E] data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
+
+**Connections**:
+- → `CONSC-003` (develops): Quantifies self-judgment nature of life review
+- → `CONSC-008` (supports): Validates unconditional love characteristic of Being
+- → `CROSS-003` (supports): Life review reveals ruling love through self-reflection, not external verdict
+- → `SWED-003` (supports): Aligns with Swedenborg's non-punitive World of Spirits unveiling
+- → `CONSC-021` (supports): Core evidence for CFT unconditional love component
+
+---
+
+#### [CONSC-024] Theological Framework Mismatch Hypothesis
+
+**Status**: preliminary | **Confidence**: medium
+
+> Hypothesis that "unknown presence" classification reflects CHARACTERISTIC MISMATCH rather than pure inability to categorize. Christians taught fear-based theology (judgment, hell, conditional salvation) encounter a being with properties matching GOSPEL Jesus (unconditional love, acceptance) but not their TAUGHT version. When properties contradict framework, experiencers honestly classify as "unknown" rather than force-fit incorrect label. Evidence: "Unknown" identifiers show 75.4% belief change vs. 64.9% for "Jesus" identifiers, indicating greater cognitive dissonance. Core experiential properties are identical (communication 91.5% vs 90.5%, telepathy 47.5% vs 50.4%) regardless of identification.
+
+
+**Source Chain**:
+1. [E] data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
+
+**Connections**:
+- → `CONSC-022` (explains): Explains why vocabulary availability ≠ vocabulary usage
+- → `CONSC-021` (supports): Supports CFT cultural vocabulary component
+- → `EARLY-001` (parallels): Parallels Jamesian vs Pauline theological divergence
+- → `CROSS-003` (supports): Experiencers detect which traditions accurately capture Being's properties
+
+---
+
+#### [CONSC-025] Cross-Religious Fear Loss Consistency (60-63%)
+
+**Status**: validated | **Confidence**: high
+
+> Statistical finding that complete fear of death loss occurs at virtually identical rates across ALL religious backgrounds: Christians 62.2%, Atheists 62.3%, Spiritual- not-Religious 62.5%, Muslims 62.9%, Jews 60.0%. Coefficient of variation only 1.8%. This cross-religious consistency (n=6,739) is powerful evidence that NDE experiences CORRECT rather than CONFIRM prior beliefs - external reality overrides diverse expectations. If pure projection, rates should vary by theology.
+
+
+**Source Chain**:
+1. [E] data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
+
+**Connections**:
+- → `CONSC-021` (supports): Key evidence for belief correction component of CFT
+- → `CONSC-004` (develops): Quantifies transformative aftereffects across traditions
+- → `CROSS-003` (supports): Uniform transformation suggests external force acting on diverse expectations
+
+---
+
+#### [CONSC-026] Being of Light: Personal Conscious Entity Evidence
+
+**Status**: validated | **Confidence**: high
+
+> Statistical demonstration that Being of Light exhibits five markers of personal conscious entity, not impersonal force: (1) Intentional communication: 79.4% active two-way dialogue; (2) Purposeful guidance: 59.6% receive specific teaching; (3) Emotional expression: conveys love, understanding, acceptance; (4) Individual recognition: knows experiencer's life story in detail; (5) Responsive interaction: answers questions, responds to thoughts. Communication mode: telepathic 51.4%, normal speech 18.7%, mixed 9.3%.
+
+
+**Source Chain**:
+1. [E] data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
+
+**Connections**:
+- → `CONSC-008` (develops): Quantifies personal nature of Being of Light
+- → `CONSC-004` (supports): Communication pattern supports conscious entity hypothesis
+- → `SWED-002` (supports): Intentional teaching aligns with divine influx characteristics
+- → `CONSC-021` (supports): Core evidence for CFT personal entity component
+
+---
+
+#### [CONSC-027] Being of Light: Unique Authoritative Position
+
+**Status**: validated | **Confidence**: high
+
+> Statistical evidence that Being of Light occupies a DISTINCT, central role compared to other beings (deceased relatives, angels, helpers). Significant guidance rate: Light Being 59.6% vs Other beings only 49.3% (10.3 percentage point difference). 71.6% encounter Light Being ALONE; 28.4% with other beings present (Light Being still described as ONE central presence). Other beings are helpers/guides; Light Being is primary transformative agent.
+
+
+**Source Chain**:
+1. [E] data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
+
+**Connections**:
+- → `CONSC-008` (supports): Confirms unique status of Being of Light vs other spiritual entities
+- → `CONSC-004` (develops): Distinguishes Light Being from general 'beings encountered' data
+- → `CONSC-021` (supports): Core evidence for CFT unique position component
+
+---
+
+#### [CONSC-028] Normative Path Hypothesis: Continuation Evidence
+
+**Status**: validated | **Confidence**: high
+
+> Five independent markers from NDE data converge to support CONTINUATION as normative post-death path, NOT reincarnation: (1) Deceased relatives present 18.7% (not reincarnated); (2) Return framed as exception 41.6% ("not your time," mission); (3) Identity/memory preservation 89.9%; (4) Purposeful continuation 57.8%; (5) ZERO reincarnation indicators (no cycling language, memory wipe prep, past-life selection). Physical death leads to consciousness continuation with intact identity; return to body is the exception requiring justification.
+
+
+**Source Chain**:
+1. [E] data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
+2. [E] data/01_Consciousness_Studies/threefold-path-validation-report-analysis_iands_and_nand_2025.md
+
+**Connections**:
+- → `CONSC-011` (supports): Validates continuation over cycling in post-mortem sorting
+- → `CONSC-013` (develops): Refines Hybrid Afterlife Model - reincarnation is exception not norm
+- → `CONSC-005` (supports): Supports Hybrid Post-Mortem Model framework
+- → `SWED-003` (supports): Aligns with Swedenborgian linear progression doctrine
+- → `CONSC-002` (contrasts): DOPS data represents exceptional path, not normative
+- → `CONSC-033` (supported_by): Sequential analysis validates 4-stage structure
+
+---
+
+#### [CONSC-029] Pure Projection Model: Substantially Weakened
+
+**Status**: validated | **Confidence**: high
+
+> Statistical falsification of the hypothesis that NDE Being of Light encounters are pure mental projections of cultural expectations. Six failed predictions: (1) Can't explain 61.8% "unknown presence" (can't project what you can't conceive); (2) Can't explain belief CORRECTION (62% cross-religious consistency); (3) Can't explain ABSENT concepts (hell/damnation culturally available, only 1.6%); (4) Can't explain cross-cultural CONSISTENCY (same properties across religions); (5) Can't explain atheist spiritual transformation (20%); (6) ML accuracy 68.2% (if pure projection, should be 90%+).
+
+
+**Source Chain**:
+1. [E] data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
+
+**Connections**:
+- → `CONSC-021` (supports): Negative evidence strengthening CFT
+- → `CONSC-022` (supported_by): Unknown presence rate is strongest falsification
+- → `CONSC-025` (supported_by): Cross-religious consistency falsifies projection
+- → `CONSC-004` (supports): NDE phenomenology reflects external reality
+
+---
+
+#### [CONSC-030] Empathetic Life Review Component (25.7%)
+
+**Status**: validated | **Confidence**: medium
+
+> Statistical finding that 25.7% of life reviews explicitly involve experiencing others' perspectives - feeling the impact of one's actions from the viewpoint of those affected. Distribution: No empathetic component 67.4%, Explicit empathy 19.2%, Implied empathy 6.5%. This "empathetic reliving" is the mechanism by which the life review makes the soul's "ruling love" manifest - revealing true moral character through felt consequences rather than abstract judgment.
+
+
+**Source Chain**:
+1. [E] data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
+2. [E] data/01_Consciousness_Studies/threefold-path-validation-report-analysis_iands_and_nand_2025.md
+
+**Connections**:
+- → `CONSC-003` (develops): Quantifies empathetic mechanism in life review
+- → `CONSC-008` (supports): Empathy facilitated by Being of Light presence
+- → `CROSS-003` (supports): Empathetic review reveals ruling love orientation
+- → `CONSC-023` (complements): Complements no-condemnation finding with self-revelation mechanism
+
+---
+
+#### [CONSC-031] Threefold Path: Pathway Distribution (88.5% Normative / 11.5% Volunteer)
+
+**Status**: validated | **Confidence**: high
+
+> Statistical validation of the "Both/And" cosmological thesis from 6,739 NDE cases. The vast majority (88.5%, N=5,966) follow the Normative Linear Path (continuation with intact consciousness), while a distinct minority (11.5%, N=773) follow the Volunteer Soul Path (mission-based returns). This distribution confirms that linear progression is the normative post-mortem experience, while cyclical/return patterns represent purposeful exceptions rather than universal law.
+
+
+**Source Chain**:
+1. [E] data/01_Consciousness_Studies/threefold-path-validation-report-analysis_iands_and_nand_2025.md
+2. [E] data/01_Consciousness_Studies/threefold-path-validation-design-analysis_iands_and_nand_2025.md
+3. [T] data/00_Framework/The Threefold Path of the Soul
+
+**Connections**:
+- → `CONSC-028` (supports): Provides exact distribution for continuation hypothesis
+- → `CONSC-005` (develops): Extends Hybrid Post-Mortem Model with pathway percentages
+- → `SWED-003` (supports): Quantifies Swedenborgian linear progression dominance
+- → `CONSC-032` (requires): Volunteer Path defined by commissioning moment
+- → `CONSC-034` (requires): Third pathway awaits DOPS validation
+
+---
+
+#### [CONSC-032] Volunteer Soul Path: Commissioning Moment Phenomenon
+
+**Status**: validated | **Confidence**: medium
+
+> The distinct NDE pattern (11.5%, N=773) where experiencers are "sent back" to fulfill a specific earthly mission. Key features: 52.6% were involuntarily returned ("told to return"), 36.5% had life reviews (vs. 18.6% normative), 61.7% lost fear of death (vs. 41.1% normative). The "commissioning moment" represents the activation of a pre-incarnate covenant - experiencers return against their preference to fulfill a purpose they may have agreed to before birth.
+
+
+**Source Chain**:
+1. [E] data/01_Consciousness_Studies/threefold-path-validation-report-analysis_iands_and_nand_2025.md
+2. [E] data/01_Consciousness_Studies/volunteer-soul-profile-report-analysis_iands_and_nand_2025.md
+3. [T] data/00_Framework/The Threefold Path of the Soul
+
+**Connections**:
+- → `CONSC-031` (required_by): Defines the minority pathway
+- → `CONSC-002` (supports): Voluntary return aligns with DOPS 'voluntary souls' concept
+- → `CONSC-013` (parallels): Consistent with reincarnation-as-exception framework
+- → `CONSC-028` (contrasts): Not continuation - purposeful return to embodiment
+- → `CONSC-035` (supported_by): ML validation confirms commissioning as discriminator
+
+---
+
+#### [CONSC-033] Normative Path: Four-Stage Sequential Analysis (40% Canonical)
+
+**Status**: contested | **Confidence**: medium
+
+> Statistical analysis of whether NDE phenomenology follows the proposed four-stage sequence: (1) Passage (OBE, tunnel, peace) → (2) Arrival (Being of Light, reunions, belonging) → (3) Self-Revelation (life review) → (4) Integration (transformation). Finding: 40% (N=2,698) follow the canonical sequence in order. While less than predicted (70%+), this validates the sequential structure exists. Variation explained by truncated NDEs (return before later stages) and phenomenological overlap.
+
+
+**Source Chain**:
+1. [E] data/01_Consciousness_Studies/threefold-path-validation-report-analysis_iands_and_nand_2025.md
+
+**Connections**:
+- → `CONSC-028` (supports): Validates sequential structure of normative path
+- → `SWED-003` (develops): Provides empirical percentages for World of Spirits stages
+- → `CONSC-021` (parallels): Consistent phenomenology across sample
+
+---
+
+#### [CONSC-034] Restorative Incarnation Path: NDE Data Limitation (Requires DOPS)
+
+**Status**: unverified | **Confidence**: low
+
+> Explicit acknowledgment that the third pathway in the Threefold Path cosmology - Restorative Incarnation (trauma-driven reincarnation following violent/premature death) - cannot be validated using NDE data. NDErs by definition survived; they cannot report on the correlation between violent death and subsequent rebirth. The >70% violent death rate in DOPS past-life cases (Stevenson, Tucker) must be validated using that distinct data corpus. This is a methodological boundary, not a refutation.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/threefold-path-validation-design-analysis_iands_and_nand_2025.md
+2. [T] data/00_Framework/The Threefold Path of the Soul
+3. [S] Stevenson, Ian - 'Twenty Cases Suggestive of Reincarnation'
+
+**Connections**:
+- → `CONSC-002` (requires): DOPS past-life recall data needed for validation
+- → `CONSC-031` (complements): Third pathway awaits separate validation
+- → `CONSC-005` (develops): Hybrid Model has untested component
+
+---
+
+#### [CONSC-035] Volunteer Soul Path: Machine Learning Predictive Validation (74.5% Accuracy)
+
+**Status**: validated | **Confidence**: high
+
+> Machine learning analysis demonstrates that volunteer soul pathway can be predicted from NDE phenomenology alone with 74.5% accuracy. Demographics contribute minimally. Top predictive features by importance: significant_guidance (0.437), return_reason (0.241), return_choice (0.173), communication_mode (0.136). The dominance of "significant guidance from beings" (43.7% feature importance) suggests the commissioning moment is the operational discriminator between pathways.
+
+
+**Source Chain**:
+1. [E] data/01_Consciousness_Studies/volunteer-soul-profile-report-analysis_iands_and_nand_2025.md
+
+**Connections**:
+- → `CONSC-032` (supports): Validates commissioning moment as discriminating feature
+- → `CONSC-031` (supports): Confirms pathways are phenomenologically distinct
+- → `CONSC-036` (required_by): Demographics non-predictive validated by ML
+
+---
+
+#### [CONSC-036] Volunteer Soul Path: Demographic Non-Prediction (Mission Transcends Identity)
+
+**Status**: validated | **Confidence**: high
+
+> Statistical analysis establishes that volunteer soul pathway is NOT predicted by demographics. Volunteer souls occur across all ages (0-77 years), both genders (V=0.058, negligible), all religions (Christian, atheist, SBNR equally represented), and all life circumstances. Mission calling transcends earthly identity markers. This finding validates the framework's claim that soul purpose operates independently of physical-plane categorizations.
+
+
+**Source Chain**:
+1. [E] data/01_Consciousness_Studies/volunteer-soul-profile-report-analysis_iands_and_nand_2025.md
+
+**Connections**:
+- → `CONSC-035` (supports): ML confirms demographics non-predictive
+- → `CONSC-032` (develops): Explains universality of covenant pattern
+- → `SWED-003` (supports): Soul purpose independent of natural-plane identity
+
+---
+
+#### [CONSC-037] Volunteer Soul Path: Enhanced Transformation Outcomes (d = 0.59)
+
+**Status**: validated | **Confidence**: high
+
+> Volunteer souls exhibit statistically significant higher transformation rates across all dimensions. Composite transformation score: 4.49/10 vs 2.90/10 (Cohen's d = 0.59, medium effect, p < 0.000001). Key differentials: no fear of death (+23.2%), major value shifts (+30.4%), increased spirituality (+24.4%), enhanced psychic abilities (+10.9%). The 20-25% intensity increase across ALL markers suggests volunteer NDEs function as "intensive commissioning ceremonies" providing deeper preparation for mission work.
+
+
+**Source Chain**:
+1. [E] data/01_Consciousness_Studies/volunteer-soul-profile-report-analysis_iands_and_nand_2025.md
+
+**Connections**:
+- → `CONSC-032` (develops): Quantifies commissioning preparation intensity
+- → `CONSC-035` (supports): Transformation patterns contribute to ML prediction
+- → `CONSC-028` (contrasts): Volunteer transformation exceeds normative continuation
+- → `CONSC-039` (parallels): Transformation aligns with mission type
+
+---
+
+#### [CONSC-038] Telepathic Communication: Key Volunteer Soul Discriminator (V = 0.261)
+
+**Status**: validated | **Confidence**: medium
+
+> Telepathic/mind-to-mind communication mode is a significant predictor of volunteer soul pathway. Volunteer rate: 58.6% telepathic vs 37.3% normative (+21.3%), χ² = 458.57, p < 0.0001, Cramér's V = 0.261 (small-medium effect). Communication mode is the 4th most important ML feature (0.136). This suggests volunteers receive qualitatively different communication from beings - direct mind-to-mind transmission rather than verbal or impressionistic communication - consistent with commissioning requiring unambiguous understanding of mission parameters.
+
+
+**Source Chain**:
+1. [E] data/01_Consciousness_Studies/volunteer-soul-profile-report-analysis_iands_and_nand_2025.md
+
+**Connections**:
+- → `CONSC-032` (supports): Telepathy enables commissioning clarity
+- → `CONSC-035` (supports): 4th ranked ML predictor feature
+- → `CONSC-039` (required_by): Mission clarity requires clear communication
+- → `CONSC-026` (develops): Being of Light communication modality
+
+---
+
+#### [CONSC-039] Volunteer Soul Mission Typology: Ten Archetypal Categories
+
+**Status**: validated | **Confidence**: medium
+
+> Content analysis of 83 detailed mission descriptions reveals 10 primary mission categories: (1) Writing/Creative Expression (30.1%), (2) Work/Profession Integration (26.5%), (3) Teaching/Sharing Knowledge (18.1%), (4) Helping/Healing (15.7%), (5) Children/Family Focus (13.3%), (6) Change World/Society (12.0%), (7) Learning/ Growing (12.0%), (8) Love/Compassion Spreading (8.4%), (9) Specific Person Focus (3.6%), (10) Spiritual Awakening Facilitation (2.4%). 89.3% lack explicit mission details in NDE accounts - mission awareness ≠ mission clarity.
+
+
+**Source Chain**:
+1. [E] data/01_Consciousness_Studies/volunteer-soul-profile-report-analysis_iands_and_nand_2025.md
+
+**Connections**:
+- → `CONSC-032` (develops): Details what covenant contains
+- → `CONSC-037` (parallels): Transformation aligns with mission type
+- → `CONSC-038` (required_by): Mission communication via telepathy
+- → `SWED-006` (supports): Mission types align with uses/service doctrine
+
+---
+
+#### [CONSC-040] Type A/B Methodological Distinction (DOPS Gold Standard)
+
+**Status**: validated | **Confidence**: high
+
+> Critical methodological categorization in DOPS research: Type A cases are recorded AFTER the two families (subject's and previous personality's) meet—retrospective, vulnerable to contamination. Type B cases have written records made BEFORE verification—prospective, eliminating post-hoc distortion. Only 33 of ~2,500 cases (1.3%) meet Type B criteria. Crucially, Type A and Type B show equivalent accuracy rates (78.4% vs 76.7%), suggesting retrospective method does NOT inflate results.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/DOPS Case Verification and Critiques.md
+2. [E] Stevenson & Samararatne, 'Three New Cases... With Written Records Made Before Verification'
+3. [E] Stevenson, 'Does the Socio-Psychological Hypothesis Explain Cases?'
+
+**Connections**:
+- → `CONSC-002` (develops): Validates DOPS methodology against social construction critique
+- → `CONSC-020` (supports): Methodological rigor extends to violent death pattern claims
+- → `CONSC-041` (complements): Combined with birthmarks creates robust defense
+
+---
+
+#### [CONSC-041] Birthmark/Birth Defect Correspondence (88% Verification Rate)
+
+**Status**: validated | **Confidence**: high
+
+> Physical correlates in 30-35% of DOPS cases: children born with birthmarks or birth defects corresponding to wounds (usually fatal) on the identified previous personality. When medical documentation (autopsy reports) was available, 88% (43/49 cases) showed verified correspondence. Includes 14 documented "double birthmark" cases matching entry/exit bullet wounds. These somatic correlates constitute the "hard biological signal" that cannot be explained by information leakage, cryptomnesia, or parental coaching.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/DOPS Case Verification and Critiques.md
+2. [E] Stevenson, 'Birthmarks and Birth Defects Corresponding to Wounds on Deceased Persons'
+3. [E] Stevenson, 'Reincarnation and Biology' (1997)
+
+**Connections**:
+- → `CONSC-002` (develops): Moves evidence from subjective memory to objective biology
+- → `CONSC-020` (supports): Physical correlates concentrated in violent death cases
+- → `CONSC-001` (supports): Somatic correspondence implies consciousness-body interaction
+- → `CONSC-040` (complements): Combined with Type A/B equivalence creates robust defense
 
 ---
 
@@ -1195,6 +1596,229 @@
 - → `SWED-003` (describes): Historical events as vessels for influx
 - → `SWED-008` (describes): Exodus encodes regeneration process
 - → `CROSS-002` (instantiates): Second stage in Divine Bricolage sequence
+
+---
+
+#### [SWED-034] Swedenborg's 18th-Century Scientific Conditioning
+
+**Status**: validated | **Confidence**: high
+
+> A critical caveat acknowledging that Swedenborg's theological framework was  fundamentally shaped—and partially limited—by Enlightenment-era scientific paradigms.  His pre-theological career sought the "seat of the soul" through empirical anatomy;  when this failed, he sublimated the structural rigidity of his scientific training  into theology. Key limitations: (1) Matter viewed as "dead container" requiring  spiritual influx to animate; (2) Grand Man (Maximus Homo) projecting 18th-century  physiology onto heaven; (3) Physical body as impediment to be "put off" rather  than medium of revelation.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Divine Bricolage vs. Swedenborg's Jesus.md
+2. [P] Swedenborg, Divine Love and Wisdom §§ 89-90, 157
+3. [P] Swedenborg, Journal of Dreams (1743-1744)
+4. [S] Britannica: Emanuel Swedenborg/His Theology
+
+**Connections**:
+- → `SWED-001` (contextualizes): Correspondences doctrine shaped by mechanical worldview
+- → `SWED-009` (contextualizes): Glorification as 'putting off' reflects matter-as-dead assumption
+- → `MYTH-001` (develops): Divine Bricolage corrects overly static correspondence model
+- → `CROSS-006` (requires): Jesus Profile thesis addresses physical limitation
+
+---
+
+#### [SWED-035] Correspondential Validation Methodology (Word vs Writings Filter)
+
+**Status**: validated | **Confidence**: high
+
+> A rigorous three-criteria empirical test that transforms the Doctrine of  Correspondences from axiomatic claim into falsifiable hermeneutic filter. Tests  whether a text exhibits the structural properties of "The Word" (immediate  inspiration, infinite internal sense) versus "The Writings" (mediate inspiration,  author's meaning). The methodology distinguishes MYTHOS mode (correspondential  images as container/content) from LOGOS mode (naked abstract doctrine).
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Testing Swedenborg's Correspondences Empirically.md
+2. [T] data/02_Swedenborgian_Theology/Validating Swedenborg's Correspondences.md
+3. [P] Swedenborg, True Christian Religion § 194-195
+4. [P] Swedenborg, Arcana Coelestia § 9942
+
+**Connections**:
+- → `SWED-001` (instantiates): Operationalizes Doctrine of Correspondences as testable method
+- → `SWED-027` (develops): Provides structural basis for Pauline exclusion
+- → `CROSS-001` (supports): Two-tiered hermeneutic requires distinguishing Word from Writings
+- → `EARLY-003` (contrasts): Pauline movement writings = logos mode, not mythos
+- → `BIBL-003` (complements): Lukan Dissonance methodology applies to Gospel as Word
+- → `SWED-036` (developed_by): Operationalized into falsifiable stress tests
+- → `SWED-037` (complemented_by): SWED-037 provides external triangulation solving circularity problem
+
+---
+
+#### [SWED-036] Correspondential Stress Testing Protocol
+
+**Status**: validated | **Confidence**: high
+
+> A falsification methodology employing four distinct stress tests to empirically  validate Swedenborg's Word/Writings distinction: (1) HISTORICAL DOUBLET TEST -  comparing parallel narratives (Samuel/Kings vs Chronicles) for correspondential  coherence vs "doctrinal correction"; (2) EPISTOLARY MODE TEST - comparing symbol  function (organic correspondence vs literary metaphor) across Gospel/Epistle  parallels; (3) STRUCTURAL ISOMORPHISM TEST - evaluating whether symbolic details  maintain proportional coherence with the Divine Human (Grand Man) template;  (4) EXCLUSION CASE TEST - applying correspondential keys to texts Swedenborg  excluded (Proverbs, Esther) to verify predicted hermeneutic failure.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Testing Swedenborg's Correspondences Thoroughly.md
+2. [P] Swedenborg, Arcana Coelestia §§ 9942, 10325
+3. [W] societies.newchurch.org/wordstudy/bible-stories/elisha-and-the-bears/
+4. [S] swedenborgstudy.com/books/W.L.Worcester_Language-Parable/32-Numbers.html
+
+**Connections**:
+- → `SWED-035` (operationalizes): Transforms three validation criteria into falsifiable stress tests
+- → `SWED-001` (applies): Empirical application of correspondence doctrine
+- → `BIBL-002` (intersects): Historical doublet test engages textual criticism of parallel passages
+- → `SWED-027` (supports): Epistolary mode test explains Pauline exclusion
+- → `SWED-006` (develops): Grand Man template provides structural isomorphism baseline
+
+---
+
+#### [SWED-037] External Triangulation Validation (Circularity Problem Solution)
+
+**Status**: validated | **Confidence**: high
+
+> An independent methodological framework for validating Swedenborgian correspondences  WITHOUT presupposing Swedenborg's charismatic authority. Addresses the epistemological  crisis of circularity by triangulating correspondence claims against five external  validation streams: (1) Source Criticism (Documentary Hypothesis), (2) Comparative  Semiotics (Philo, Kabbalah), (3) ANE Archaeology, (4) Depth Psychology (Corbin, Jung),  and (5) Predictive Testing. Establishes that validation = "hermeneutic coherence" and  "structural isomorphism" rather than positivist empirical proof.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Validating Swedenborg's Correspondences.md
+2. [S] Corbin, Henry. 'Mundus Imaginalis or the Imaginary and the Imaginal'
+3. [S] Parpola, Simo. 'The Assyrian Sacred Tree'
+4. [S] Fershtman, Shoshana. 'The Mystical Exodus in Jungian Perspective'
+5. [P] Philo of Alexandria, 'De Migratione Abrahami'
+
+**Connections**:
+- → `SWED-035` (complements): SWED-035 = internal validation; SWED-037 = external triangulation
+- → `SWED-036` (complements): SWED-036 stress-tests internal structure; SWED-037 validates externally
+- → `SWED-001` (validates): External triangulation provides non-circular validation of Correspondences
+- → `CROSS-001` (supports): Documentary Hypothesis = Tier 1; Correspondential = Tier 2
+- → `CONSC-001` (intersects): Mundus Imaginalis connects to consciousness studies paradigm
+- → `MYTH-001` (intersects): Perennial tradition convergence parallels mythic bricolage
+
+---
+
+#### [SWED-038] Representation Doctrine (Prophet as Word)
+
+**Status**: validated | **Confidence**: high
+
+> A foundational Swedenborgian hermeneutic principle stating that in the language of  correspondences, prophets and representatives become TRANSPARENT to the spiritual  reality they embody. The "person" is obliterated and only the "function" remains.  When Ezekiel is addressed as "Son of Man" (90+ times), he IS the Doctrine of Truth  identifying Israel's sins—not a proto-Messiah. This resolves the apparent scandal  of 1 Enoch 71:14 ("You are that Son of Man"): Enoch represents the Collected Doctrine  of the Most Ancient Church, and in the visionary state, the Doctrine IS the Divine  Truth it contains. The law of Representation distinguishes INCARNATION (becoming  the thing fully) from REPRESENTATION (being the visible form of an invisible reality).
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/The Semiotic Architecture of the Ancient Word.md
+2. [P] Swedenborg, Nine Questions (Son of Man = Word/Divine Truth)
+3. [P] Swedenborg, Arcana Coelestia
+4. [S] Brill, 'Righteous One, Messiah, Chosen One, and Son of Man in 1 Enoch 37-71'
+
+**Connections**:
+- → `SWED-001` (instantiates): Representation is a specific application of correspondence doctrine
+- → `SWED-035` (develops): Representation explains how 'weird' passages maintain internal sense
+- → `SWED-039` (required_by): 1 Enoch validation depends on representation doctrine
+- → `SWED-025` (parallels): Glorification parallels—Lord's Human became Divine, Doctrine IS Truth
+- → `SWED-004` (supports): Ancient Word transmitted through representative figures
+
+---
+
+#### [SWED-039] 1 Enoch as Ancient Word Fragment (Validation Case)
+
+**Status**: validated | **Confidence**: high
+
+> A comprehensive validation case demonstrating that 1 Enoch, specifically the Book of  Parables (37-71), Astronomical Book (72-82), and Animal Apocalypse (85-90), survives  rigorous Swedenborgian stress tests and functions semiotically as a "Representative  Text"—a fragment of the Ancient Word preserved through textual transmission. Three  major tests passed: (1) UNIFORMITY TEST: Son of Man controversy resolved via  Representation doctrine; (2) ASTRONOMICAL TEST: 364-day calendar decoded as Sabbatical  Theology (State over Time); (3) COMPILATION TEST: Animal Apocalypse preserves church  cycle despite redaction. 1 Enoch is a "Broken Tablet" whose jagged edges fit precisely  into gaps of Swedenborgian spiritual history—a "Testament of the Celestial Church."
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/The Semiotic Architecture of the Ancient Word.md
+2. [P] Swedenborg, Arcana Coelestia
+3. [P] 1 Enoch (Ethiopic text)
+4. [W] swedenborg.com/enoch-the-first-librarians/
+
+**Connections**:
+- → `SWED-004` (validates): Empirical test of Ancient Word hypothesis
+- → `SWED-035` (instantiates): Application of Word vs Writings methodology
+- → `SWED-036` (instantiates): Application of stress testing protocol
+- → `SWED-038` (requires): Uniformity test depends on Representation doctrine
+- → `SWED-040` (contains): Astronomical test produces Sabbatical Calendar Theology
+- → `MYTH-017` (contains): Compilation test produces Dispensational Animal Sequence
+- → `MYTH-014` (develops): Extends historical calendar documentation with spiritual interpretation
+
+---
+
+#### [SWED-040] Sabbatical Calendar Theology (State over Time)
+
+**Status**: validated | **Confidence**: high
+
+> The correspondential decoding of 1 Enoch's 364-day solar calendar as "Theology by  Geometry"—a symbolic system where astronomical measurements encode spiritual states  rather than physical accuracy. Core insight: 364 = 52 × 7 (perfect Sabbath  divisibility), subordinating natural time to spiritual holiness. The calendar  describes the Celestial Church's cognitive state where STATE (quality/holiness)  takes priority over TIME (quantity/motion). The deliberate "drift" from the physical  sun (~1.25 days/year) is not failed science but semiotic refusal to acknowledge a  state outside the Sabbath.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/The Semiotic Architecture of the Ancient Word.md
+2. [P] 1 Enoch 72-82 (Astronomical Book)
+3. [P] Swedenborg, Divine Love and Wisdom
+4. [P] Swedenborg, Arcana Coelestia
+5. [W] spiritualwisdom.org.uk/about/symbols/number-symbols/
+
+**Connections**:
+- → `SWED-039` (contained_by): Discovered through 1 Enoch validation study
+- → `MYTH-014` (develops): Spiritual interpretation of historical calendar data
+- → `SWED-020` (instantiates): 7 as 'holy' confirmed in calendar structure
+- → `SWED-006` (describes): Calendar encodes Most Ancient Church cognitive state
+- → `SWED-001` (instantiates): Astronomical elements as correspondence vessels
+- → `CROSS-001` (instantiates): Tier 1 = failed astronomy; Tier 2 = perfect theology
+
+---
+
+#### [SWED-041] Mēnōg/Gētīg Ontology (Zoroastrian Correspondence Framework)
+
+**Status**: validated | **Confidence**: high
+
+> The foundational Zoroastrian ontology positing reality exists in two continuous  states: MĒNŌG (spiritual, invisible, archetypal—realm of seeds, roots, causes)  and GĒTĪG (material, visible, embodied—realm of fruit, manifestation, effects).  Unlike Platonic/Gnostic dualism where matter is corruption or prison, gētīg is  the PERFECTION and FRUITION of mēnōg—Ahura Mazda materialized spiritual creation  as a "fortress" against evil, not a fall. This creates binding reciprocal  correspondence: every physical object ontologically links to its spiritual  counterpart. The physical world is a readable text, not an illusion to escape.  Pre-dates Swedenborg's Natural/Spiritual plane distinction by millennia.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+2. [P] Bundahišn (9th century CE Pahlavi text)
+3. [S] Cambridge History of Iran: Old Eastern Iranian World View
+
+**Connections**:
+- → `SWED-001` (parallels): Pre-Swedenborgian correspondence ontology with identical structure
+- → `EARLY-008` (supports): Provides theoretical substrate for Magian science of correspondences
+- → `SWED-037` (instantiates): External triangulation via Zoroastrian tradition
+- → `GNOS-001` (contrasts): Directly opposes Gnostic material=prison cosmology
+
+---
+
+#### [SWED-042] Alexander's Catastrophe (Damdat Nask Destruction)
+
+**Status**: validated | **Confidence**: medium
+
+> The historical rupture of 330 BCE when Alexander the Great's forces destroyed  the Persepolis royal archives, including the legendary DAMDAT NASK ("Nask of the  Creation of Creatures")—a Zoroastrian encyclopedia cataloging natural  correspondences for animals, plants, elements, and the cosmos. Written on  12,000 prepared cow-hides with gold ink, it contained systematic taxonomy  mapping spiritual entities (Yazatas, Amesha Spentas) to physical creations.  This destruction constitutes a concrete historical mechanism for the "loss"  of systematic correspondence knowledge that Swedenborg claimed was preserved  only fragmentarily in "Great Tartary."
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+2. [P] Denkard, Book 8
+3. [P] Bundahišn
+4. [P] Arda Viraf Namag
+
+**Connections**:
+- → `SWED-004` (explains): Historical mechanism for Ancient Word fragmentation
+- → `SWED-041` (contained): The lost encyclopedia systematizing mēnōg/gētīg correspondences
+- → `EARLY-008` (supports): Context for Magi as fragmentary tradition custodians
+- → `SWED-037` (develops): Specific historical data for external triangulation
+
+---
+
+#### [SWED-043] Daniel as Rab-mag (Prophetic-Sapiential Synthesis)
+
+**Status**: validated | **Confidence**: high
+
+> The historical-theological significance of Daniel's appointment as RAB-MAG  (Chief of the Magi/Wise Men) under Nebuchadnezzar (Dan 2:48, 5:11). Daniel  received training in "the learning and tongue of the Chaldeans" (Dan 1:4)— the entire corpus of Mesopotamian science including celestial omens (Enuma  Anu Enlil), terrestrial omens (Summa Alu), anomalous birth omens (Summa Izbu),  and dream interpretation. As Rab-mag, Daniel bridges the PROPHETIC tradition  (direct revelation from YHWH) and the SAPIENTIAL tradition (interpreting  signs of nature/history). He perfects rather than rejects the Chaldean science,  showing the true "Revealer of Mysteries" is the God of Heaven while using  Magian language (dreams, statues, beasts) to communicate that revelation.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+2. [T] data/04_Early_Christian_History/The Science of Correspondences...Magi.md
+3. [P] Daniel 1:4, 2:48, 5:11
+4. [P] Matthew 2:1-12
+
+**Connections**:
+- → `EARLY-008` (develops): Specific mechanism of prophetic-Magian synthesis
+- → `SWED-042` (contextualizes): Daniel engaged with already-fragmentary post-Alexander tradition
+- → `SWED-004` (supports): Daniel as conduit preserving Ancient Word elements in Hebrew tradition
+- → `BIBL-002` (intersects): Daniel's apocalyptic genre shares Magian cosmological structure
 
 ---
 
@@ -2215,6 +2839,30 @@
 
 ---
 
+#### [GNOS-013] The Proprium of the Spirit (Pneumatic Ego Paradox)
+
+**Status**: validated | **Confidence**: high
+
+> A refined diagnosis of Pauline proprium showing that Paul's extensive humility  language (*doulos Christou*, "least of apostles," weakness boasting, suffering  catalogues) is BOTH authentic AND rhetorical—and this synthesis CONFIRMS rather  than refutes the proprium diagnosis. Paul exhibits "Proprium of the Spirit": not  worldly vanity but absolute confidence in private revelation superseding all  external authority. His humility is not simple arrogance but a complex theological  defense mechanism where the performative negation of the self establishes  unassailable pneumatic authority.
+
+
+**Source Chain**:
+1. [T] data/05_Gnostic_Analysis/The Paradox of the Pneumatic Ego.md
+2. [T] data/05_Gnostic_Analysis/The Apostle of the Archons.md
+3. [T] data/04_Early_Christian_History/The Pauline Corpus and the Consummation of the Age.md
+4. [S] Dale Martin, Slavery as Salvation (1990)
+5. [W] BibleHub Commentaries (Romans 1:1, 1 Cor 15:9, 2 Cor 12:9)
+
+**Connections**:
+- → `GNOS-001` (develops): Refines Gnostic Impulse diagnosis for Pauline specifics
+- → `GNOS-004` (instantiates): Paul as key historical manifestation of Gnostic pattern
+- → `SWED-005` (develops): Proprium manifest as 'Proprium of the Spirit' not worldly ego
+- → `EARLY-002` (supports): Provides mechanism for Paul vs. James divergence
+- → `EARLY-003` (develops): Shows HOW Paul bypassed Jerusalem authority
+- → `CROSS-002` (contrasts): Paul's vertical-only humility vs. Divine Bricolage's horizontal acceptance
+
+---
+
 ### Mythological Studies
 *Bricolage, proto-myths, ANE parallels*
 
@@ -2545,6 +3193,29 @@
 
 ---
 
+#### [MYTH-017] Dispensational Animal Sequence (Bull→Sheep→Bull)
+
+**Status**: validated | **Confidence**: high
+
+> The Animal Apocalypse (1 Enoch 85-90) encodes Swedenborg's dispensational history of  the churches through animal symbols: WHITE BULL (Adam-Isaac) = Celestial Church  (Natural Good/Innocence/Instinct); SHEEP (Jacob onward) = Spiritual Church  (Charity/Conscience/Obedience); WILD BEASTS (Gentiles) = Natural-Sensual  (ruled by passions); ESCHATOLOGICAL WHITE BULL (Messiah) = New Church / Restoration  of Celestial. The sequence Bull→Sheep→Bull describes a CIRCULAR rather than LINEAR  history—providence aims to recover the Celestial-Natural innocence of the Most  Ancient Church, not merely progress beyond it. This structural isomorphism survives  textual redaction, suggesting derivation from genuine perceptive tradition.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/The Semiotic Architecture of the Ancient Word.md
+2. [P] 1 Enoch 85-90 (Animal Apocalypse)
+3. [S] Tiller, 'A Commentary on the Animal Apocalypse of 1 Enoch'
+4. [P] Swedenborg, Arcana Coelestia
+
+**Connections**:
+- → `SWED-039` (contained_by): Discovered through 1 Enoch validation study
+- → `SWED-006` (parallels): White Bull era = Most Ancient Church (Golden Age)
+- → `SWED-024` (parallels): Eschatological White Bull = New Jerusalem restoration
+- → `SWED-004` (supports): Sequence survives redaction = Ancient Word preservation
+- → `MYTH-015` (parallels): Circular restoration vs linear progress matches Unity heart
+- → `CROSS-002` (instantiates): Redaction preserves divine pattern = Divine Bricolage
+
+---
+
 ### Cross-Domain
 *Synthesizing concepts spanning multiple domains*
 
@@ -2677,6 +3348,50 @@
 - → `CROSS-001` (instantiates): Perfect example of two-tiered epistemology
 - → `SWED-025` (parallels): Divine Human in Ultimates = Historical Jesus as ultimate vessel
 - → `BIBL-021` (instantiated_by): Resurrection narratives instantiate Christ of Faith development
+
+---
+
+#### [CROSS-006] The Jesus Profile Thesis
+
+**Status**: validated | **Confidence**: medium
+
+> A third interpretive layer beyond Historical Jesus and Christ of Faith: the "Jesus  Profile" as the curated product of Divine Bricolage. The "Jesus we know today"—the  figure of absolute Love—is neither raw historical data nor pure theological  abstraction, but the intentional result of Providence guiding the editorial evolution  of the Jesus tradition. Historical Jesus = raw material (apocalyptic prophet);  Theological Jesus = curated profile (Universal Lover). Both are "real"—Bricolage  explains the divergence without denying either.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Divine Bricolage vs. Swedenborg's Jesus.md
+2. [T] data/00_Framework/A Coherent Framework for Spiritual History.md
+3. [T] data/03_Biblical_Scholarship/The Lukan Dissonance.md
+4. [E] NDE phenomenology research (various)
+
+**Connections**:
+- → `CROSS-005` (develops): Adds third layer to Historical/Faith duality
+- → `MYTH-001` (instantiates): Jesus Profile = Bricolage applied to Christology
+- → `BIBL-003` (supports): Lukan Dissonance provides editorial evidence
+- → `CONSC-016` (validated_by): NDE Being of Light identification validates profile
+- → `SWED-034` (addresses): Corrects overly static physical view
+
+---
+
+#### [CROSS-007] Universal Theosis Capacity (Degree vs. Kind)
+
+**Status**: validated | **Confidence**: medium
+
+> A critical theological argument that the difference between Jesus and the prophets  (and all humans) is one of DEGREE rather than absolute KIND. Swedenborg distinguished  Jesus by the nature of his soul (paternal = Jehovah directly; prophets = mediated  through angels). The Divine Bricolage framework argues this distinction is functional/ teleological, not metaphysical: Jesus is the "Fullness of the Godhead bodily" who  "opened the pathway" for Divine expression in all humans. The prophets were "sons  of God" by adoption/bricolage; Jesus was "Son of God" by nature/incarnation—but His  work enables the same capacity for Theosis in all.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Divine Bricolage vs. Swedenborg's Jesus.md
+2. [P] Swedenborg, True Christian Religion § 109
+3. [P] Romans 8:29, Colossians 2:9, 2 Peter 1:4
+4. [T] data/01_Consciousness_Studies/The Divine Human in Ultimates.md
+
+**Connections**:
+- → `SWED-002` (develops): Extends influx doctrine to universal capacity
+- → `SWED-009` (develops): Glorification enables Theosis for all
+- → `SWED-034` (addresses): Corrects overly rigid metaphysical distinction
+- → `CROSS-006` (supports): Jesus Profile enables universal access
+- → `CONSC-016` (validated_by): NDE Being of Light accessible to all
 
 ---
 

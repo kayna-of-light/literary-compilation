@@ -504,16 +504,120 @@ CROSS-006 requires revision:
 
 ---
 
+### [EARLY] Paul's Humility vs. Authority: Balanced Scholarly Assessment
+
+**Target**: `[NLM]`  
+**Status**: ✅ RESOLVED  
+**Date Added**: 2025-12-27  
+**Date Resolved**: 2025-12-29  
+**Priority**: Medium  
+**Related Nodes**: EARLY-003, SWED-005, GNOS-003
+
+**Original Context**:
+Framework analyzes Paul's authority claims, confrontations with Jerusalem leadership, and self-glorification alongside passages of apparent humility ("slave of Christ," "least of apostles"). The question is how to interpret these seemingly contradictory self-presentations.
+
+**RESOLUTION:**
+Comprehensively addressed by internal research document: `data/05_Gnostic_Analysis/The Paradox of the Pneumatic Ego.md`
+
+**Key Findings:**
+
+The document demonstrates that the "authentic vs. rhetorical" dichotomy is a **false dichotomy**. Paul's humility is **BOTH authentic AND rhetorical**, and this synthesis **CONFIRMS rather than refutes** the proprium diagnosis.
+
+**Central Thesis — "Proprium of the Spirit":**
+Paul exhibits a unique form of egoism called the "Proprium of the Spirit" — not worldly vanity but absolute confidence in private revelation superseding all external authority. His humility is not simple arrogance but a complex theological defense mechanism where the performative negation of the self establishes unassailable pneumatic authority.
+
+**Passage-by-Passage Analysis:**
+
+| Passage | Function | Proprium Verdict |
+|---------|----------|------------------|
+| **"Slave of Christ" (δοῦλος)** | Derivative Authority mechanism — "diplomatic immunity" from Jerusalem | **CONFIRMS**: Vertical humility enables horizontal dominion |
+| **"Least of Apostles" (1 Cor 15:9)** | Theology of Immunity — destroys "Old Image" to establish "Sole Revelator" | **CONFIRMS**: "In God We Trust" mechanism |
+| **Weakness Boasting (2 Cor 11-12)** | Paradox of Power — invulnerability through claimed vulnerability | **CONFIRMS**: Gnostic dualism elevating pneumatic ego |
+| **Suffering Catalogues** | Legitimation Strategy — scars as credentials | **CONFIRMS**: Validates independent mission without Jerusalem |
+
+**Scholarly Consensus Integrated:**
+- Dale Martin's "Managerial Slave" thesis confirms derivative authority mechanism
+- Rhetorical analysis scholars (Kennedy, Malherbe) confirm strategic function
+- The "Fool's Speech" is recognized as brilliant rhetorical trap
+
+**Key Quote from Document:**
+> "By stripping himself of all *human* attributes (rank, merit, law), Paul leaves only the *divine* attribute (Spirit/Revelation). Since this Spirit operates *within* him, his 'self-emptying' results in his 'self-deification' as the exclusive mouthpiece of the Risen Lord."
+
+**Framework Implication:**
+The research question's concern about "cherry-picking" confrontational passages while "downplaying" humility is resolved: there is no tension to reconcile. The humility passages **are** part of the proprium structure—they enable rather than contradict the authority claims.
+
+**Knowledge Graph:**
+GNOS-007 ("Proprium of the Spirit") already captures this synthesis.
+
+**Source Chain:**
+1. `[T]` The Paradox of the Pneumatic Ego.md (framework synthesis, 2025)
+2. `[S]` Dale Martin — Managerial Slave thesis
+3. `[S]` George Kennedy, Abraham Malherbe — Rhetorical criticism
+4. `[P]` Swedenborg, Spiritual Diary — proprium framework
+5. `[W]` BibleHub commentaries (Romans 1:1, 1 Cor 15:9, 2 Cor 12:9)
+
+---
+
+### [GNOS] Paul as Proto-Gnostic: External Scholarly Assessment
+
+**Target**: `[GDR]`  
+**Status**: ✅ RESOLVED (Substantially Addressed by Internal Sources)  
+**Date Added**: 2025-12-27  
+**Date Resolved**: 2025-12-29  
+**Priority**: Low (External triangulation only)  
+**Related Nodes**: GNOS-003, GNOS-005, EARLY-003
+
+**Original Question:**
+What's the relationship between Paul's theology and later Gnostic systems? Is he a "proto-Gnostic" or is this framework overreach?
+
+**RESOLUTION:**
+Comprehensively addressed by multiple internal documents:
+- `Paul_ Gnostic Seed or Influence_.md` - Comprehensive structural analysis
+- `The Apostle of the Archons.md` - Forensic validation with textual evidence
+- `Early Christianity_ Orthodoxy vs. Heresy.md` - Bauer thesis on gnostic origins
+- NT Categorization CSV - Systematic classification
+
+**Key Evidence:**
+
+| Finding | Source | Significance |
+|---------|--------|--------------|
+| *soma pneumatikon* (spiritual body), NOT physical resurrection | 1 Cor 15:44-50 | Explicit textual evidence against orthodox reading |
+| "Flesh and blood cannot inherit the kingdom" | 1 Cor 15:50 | Contradicts bodily resurrection doctrine |
+| Earliest Paul readers were Gnostics | Historical record | Valentinians, Marcion built on Paul |
+| Pastoral Epistles pseudo-Pauline | Scholarly consensus | Written to "rescue" Paul from gnostic interpreters |
+| Archon cosmology | 2 Cor 4:4 ("god of this world") | Structural gnostic parallel |
+| pneumatikos/psychikos anthropology | 1 Cor 2:14-15 | Gnostic-style hierarchy of souls |
+
+**BIAS CORRECTION:**
+The original question assumed orthodox reading of Paul as neutral baseline. The claim that "1 Cor 15 teaches bodily resurrection" is **demonstrably false per the text itself**. "Mainstream" scholarship may reflect theological bias, not historical consensus.
+
+**Remaining Gap:**
+External validation from academic historians (not theological apologists) of the Bauer thesis and Elaine Pagels' *The Gnostic Paul*. Low priority—internal documentation is comprehensive.
+
+**Source Chain:**
+1. `[T]` Paul_ Gnostic Seed or Influence_.md
+2. `[T]` The Apostle of the Archons.md
+3. `[T]` Early Christianity_ Orthodoxy vs. Heresy.md
+4. `[T]` Categorization of NT Books CSV
+5. `[P]` 1 Corinthians 15:44-50 (primary text)
+6. `[S]` Elaine Pagels, *The Gnostic Paul* (academic reference)
+7. `[S]` Walter Bauer, *Orthodoxy and Heresy* (academic reference)
+
+---
+
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 10 |
+| **Total Resolved** | 12 |
 | **NDE Domain** | 6 |
 | **SWED Domain** | 3 |
 | **CROSS Domain** | 1 |
+| **EARLY Domain** | 1 |
+| **GNOS Domain** | 1 |
 | **Critical Priority** | 2 |
 | **High Priority** | 4 |
-| **Medium Priority** | 4 |
+| **Medium Priority** | 5 |
+| **Low Priority** | 1 |
 
 **Last Updated**: 2025-12-29

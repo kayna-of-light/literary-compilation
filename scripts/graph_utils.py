@@ -23,8 +23,8 @@ from datetime import datetime
 # Paths
 SCRIPT_DIR = Path(__file__).parent
 REPO_ROOT = SCRIPT_DIR.parent
-GRAPH_PATH = REPO_ROOT / "docs" / "knowledge_graph.yaml"
-MARKDOWN_PATH = REPO_ROOT / "docs" / "knowledge_graph.md"
+GRAPH_PATH = REPO_ROOT / "graph" / "knowledge_graph.yaml"
+MARKDOWN_PATH = REPO_ROOT / "graph" / "knowledge_graph.md"
 
 
 def load_graph() -> dict:

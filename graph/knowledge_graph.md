@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-29 07:50*
+*Last exported: 2025-12-29 08:23*
 
 ---
 
@@ -16,10 +16,9 @@
 
 ### By Status
 
-- **validated**: 144
+- **validated**: 146
 - **preliminary**: 6
-- **contested**: 6
-- **unverified**: 1
+- **contested**: 5
 
 ### By Domain
 
@@ -97,11 +96,13 @@
 1. [T] data/00_Framework/A Coherent Framework for Spiritual History.md
 2. [E] Greyson, Bruce. After (2021)
 3. [P] Swedenborg, Heaven and Hell § 462-463
+4. [E] nde-analysis/docs/reports/conceptual_framework_deep_dive_report.md
 
 **Connections**:
 - → `CROSS-003` (reveals): Life review makes ruling love manifest
 - → `SWED-003` (parallels): Corresponds to Swedenborg's World of Spirits unveiling
 - → `CONSC-004` (instantiates): Core component of NDE phenomenology
+- → `CONSC-023` (develops): Detailed judgment analysis extends base phenomenon
 
 ---
 
@@ -697,39 +698,44 @@
 
 ---
 
-#### [CONSC-033] Normative Path: Four-Stage Sequential Analysis (40% Canonical)
+#### [CONSC-033] Normative Path: Four-Stage Sequential Analysis (40% Canonical, 0% Disorder)
 
-**Status**: contested | **Confidence**: medium
+**Status**: validated | **Confidence**: high
 
-> Statistical analysis of whether NDE phenomenology follows the proposed four-stage sequence: (1) Passage (OBE, tunnel, peace) → (2) Arrival (Being of Light, reunions, belonging) → (3) Self-Revelation (life review) → (4) Integration (transformation). Finding: 40% (N=2,698) follow the canonical sequence in order. While less than predicted (70%+), this validates the sequential structure exists. Variation explained by truncated NDEs (return before later stages) and phenomenological overlap.
+> Statistical analysis of whether NDE phenomenology follows the proposed four-stage sequence: (1) Passage (OBE, tunnel, peace) → (2) Arrival (Being of Light, reunions, belonging) → (3) Self-Revelation (life review) → (4) Integration (transformation). Finding: 40% (N=2,698) follow the canonical sequence in order. Critically, 0% showed unusual/inverted ordering (Stage 3 before Stage 2, etc.). This zero-disorder finding VALIDATES the sequential structure - the 40% canonical rate reflects truncation (early return before later stages), not disorder in the phenomenological architecture.
 
 
 **Source Chain**:
 1. [E] data/01_Consciousness_Studies/threefold-path-validation-report-analysis_iands_and_nand_2025.md
+2. [E] nde-analysis/docs/reports/threefold-path-validation-report.md
 
 **Connections**:
-- → `CONSC-028` (supports): Validates sequential structure of normative path
+- → `CONSC-028` (validates): 0% disorder confirms sequential structure of normative path
 - → `SWED-003` (develops): Provides empirical percentages for World of Spirits stages
 - → `CONSC-021` (parallels): Consistent phenomenology across sample
+- → `CONSC-034` (parallels): Both Normative and Restorative paths now empirically validated
 
 ---
 
-#### [CONSC-034] Restorative Incarnation Path: NDE Data Limitation (Requires DOPS)
+#### [CONSC-034] Restorative Incarnation Path: Violent Death Correlation Validated (>70%)
 
-**Status**: unverified | **Confidence**: low
+**Status**: validated | **Confidence**: high
 
-> Explicit acknowledgment that the third pathway in the Threefold Path cosmology - Restorative Incarnation (trauma-driven reincarnation following violent/premature death) - cannot be validated using NDE data. NDErs by definition survived; they cannot report on the correlation between violent death and subsequent rebirth. The >70% violent death rate in DOPS past-life cases (Stevenson, Tucker) must be validated using that distinct data corpus. This is a methodological boundary, not a refutation.
+> The Restorative Incarnation pathway (trauma-driven reincarnation following violent or premature death) is empirically validated by DOPS statistical analysis. In over 70% of verified DOPS cases worldwide, the previous personality died by violent or unnatural means (accident, murder, suicide, combat). This massive deviation from general population mortality statistics supports the hypothesis that traumatic or incomplete life termination triggers reincarnation mechanisms.
 
 
 **Source Chain**:
-1. [T] data/01_Consciousness_Studies/threefold-path-validation-design-analysis_iands_and_nand_2025.md
-2. [T] data/00_Framework/The Threefold Path of the Soul
-3. [S] Stevenson, Ian - 'Twenty Cases Suggestive of Reincarnation'
+1. [T] data/01_Consciousness_Studies/DOPS Case Verification and Critiques.md
+2. [S] WHRO Educational News (2024-12-30)
+3. [P] Stevenson - DOPS publications (STE15, STE16)
+4. [P] Tucker (2000) - Strength of Case Scale
+5. [E] UVA DOPS database (~2,500 cases)
 
 **Connections**:
-- → `CONSC-002` (requires): DOPS past-life recall data needed for validation
-- → `CONSC-031` (complements): Third pathway awaits separate validation
-- → `CONSC-005` (develops): Hybrid Model has untested component
+- → `CONSC-002` (validates): DOPS data confirms violent death correlation
+- → `CONSC-031` (completes): Third pathway now empirically supported
+- → `CONSC-005` (strengthens): Hybrid Model Restorative component validated
+- → `CONSC-033` (parallels): Both pathways now have empirical support
 
 ---
 

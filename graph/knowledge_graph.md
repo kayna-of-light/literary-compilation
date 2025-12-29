@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-29 10:24*
+*Last exported: 2025-12-29 11:24*
 
 ---
 
@@ -1789,14 +1789,19 @@
 
 **Status**: validated | **Confidence**: medium
 
-> The historical rupture of 330 BCE when Alexander the Great's forces destroyed  the Persepolis royal archives, including the legendary DAMDAT NASK ("Nask of the  Creation of Creatures")—a Zoroastrian encyclopedia cataloging natural  correspondences for animals, plants, elements, and the cosmos. Written on  12,000 prepared cow-hides with gold ink, it contained systematic taxonomy  mapping spiritual entities (Yazatas, Amesha Spentas) to physical creations.  This destruction constitutes a concrete historical mechanism for the "loss"  of systematic correspondence knowledge that Swedenborg claimed was preserved  only fragmentarily in "Great Tartary."
+> The historical rupture of 330 BCE when Alexander the Great's forces destroyed  the Persepolis royal archives. CRITICAL DISTINCTION: Scholarly consensus holds the AVESTA was an ORAL corpus during the Achaemenid period—Alexander did not  burn a written "Zoroastrian Bible." The "12,000 ox-hides with gold ink" is  ZOROASTRIAN HAGIOGRAPHY (Arda Viraf Namag, Denkard) serving ideological purposes. WHAT WAS DESTROYED: Archaeological evidence confirms parchment/leather  administrative documents were incinerated (bullae impressions prove this). The  "Damdat Nask" content survived via ORAL TRANSMISSION through the Zand tradition,  eventually recorded in the Bundahišn (9th c. CE). Mary Boyce's argument: the  "burning" metaphorically refers to slaughter of Magi who were "living books."
 
 
 **Source Chain**:
-1. [T] data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
-2. [P] Denkard, Book 8
-3. [P] Bundahišn
-4. [P] Arda Viraf Namag
+1. [T] data/02_Swedenborgian_Theology/Alexander, Persepolis, and Avestan Texts.md
+2. [T] data/02_Swedenborgian_Theology/Bundahišn's Damdat Nask Reconstruction.md
+3. [P] Denkard, Book 8, Chapter 5
+4. [P] Greater Bundahišn
+5. [P] Wizīdagīhā ī Zādspram, 3.43, 3.57
+6. [P] Arda Viraf Namag
+7. [S] MacKenzie, D.N., Encyclopaedia Iranica, 'DĀMDĀD NASK'
+8. [S] Boyce, Mary, 'A History of Zoroastrianism'
+9. [W] Encyclopaedia Iranica: 'AVESTA', 'PERSEPOLIS ADMINISTRATIVE ARCHIVES'
 
 **Connections**:
 - → `SWED-004` (explains): Historical mechanism for Ancient Word fragmentation
@@ -1806,11 +1811,11 @@
 
 ---
 
-#### [SWED-043] Daniel as Rab-mag (Prophetic-Sapiential Synthesis)
+#### [SWED-043] Daniel as Rab-hartummin (Prophetic-Sapiential Synthesis)
 
-**Status**: validated | **Confidence**: high
+**Status**: validated | **Confidence**: medium
 
-> The historical-theological significance of Daniel's appointment as RAB-MAG  (Chief of the Magi/Wise Men) under Nebuchadnezzar (Dan 2:48, 5:11). Daniel  received training in "the learning and tongue of the Chaldeans" (Dan 1:4)— the entire corpus of Mesopotamian science including celestial omens (Enuma  Anu Enlil), terrestrial omens (Summa Alu), anomalous birth omens (Summa Izbu),  and dream interpretation. As Rab-mag, Daniel bridges the PROPHETIC tradition  (direct revelation from YHWH) and the SAPIENTIAL tradition (interpreting  signs of nature/history). He perfects rather than rejects the Chaldean science,  showing the true "Revealer of Mysteries" is the God of Heaven while using  Magian language (dreams, statues, beasts) to communicate that revelation.
+> The historical-theological significance of Daniel's position as RAB-HARTUMMIN  (Chief of the Magicians/Scribes) and RAB-SIGNĪN (Chief Prefect) over the wise  men of Babylon (Dan 2:48, 5:11). NOTE: Daniel is NEVER called "Rab-mag" in  the biblical text—that title belongs exclusively to Nergal-sharezer in Jeremiah  39:3. Daniel received training in "the learning and tongue of the Chaldeans"  (Dan 1:4). Critical scholarship dates the book's final redaction to 167-164 BCE  (Maccabean period), with Court Tales (Dan 1-6) preserving older Persian-era  traditions. Daniel functions as a literary "synthesis figure" bridging  PROPHETIC revelation and SAPIENTIAL tradition, demonstrating the God of Heaven  as the true "Revealer of Mysteries" through correspondential imagery.
 
 
 **Source Chain**:
@@ -2371,7 +2376,7 @@
 
 **Status**: validated | **Confidence**: medium
 
-> The Magi who visited the infant Jesus were the last custodians of the 'Science of Correspondences'—the ancient wisdom that every natural object corresponds to a spiritual reality. Their journey represents the final act of the 'Ancient Church,' passing its accumulated wisdom to the nascent Christian church. Daniel, as 'Rab-mag' (Chief of the Magi), had re-infused the Magian tradition with genuine prophetic spirit. The gifts (gold, frankincense, myrrh) formed a complete theological statement: celestial goodness (gold), spiritual goodness (frankincense), natural goodness (myrrh). Their journey represents the providential confluence of Persian (Zoroastrian) and  Judean (Essene/prophetic) wisdom streams.
+> The Magi who visited the infant Jesus were the last custodians of the 'Science of Correspondences'—the ancient wisdom that every natural object corresponds to a spiritual reality. Their journey represents the final act of the 'Ancient Church,' passing its accumulated wisdom to the nascent Christian church. Daniel, as 'Rab-hartummin' (Chief of the Magicians), had re-infused the Chaldean tradition with prophetic spirit. The gifts (gold, frankincense, myrrh) formed a complete theological statement: celestial goodness (gold), spiritual goodness (frankincense), natural goodness (myrrh). Their journey represents the providential confluence of Persian (Zoroastrian) and  Judean (Essene/prophetic) wisdom streams.
 
 
 **Source Chain**:

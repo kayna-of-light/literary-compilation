@@ -164,71 +164,115 @@ Specific citation with study name, sample size, and methodology. If no primary s
 ### [NLM] SWED-042: Damdat Nask Reconstruction Sources
 
 **Target**: `[NLM]`  
-**Status**: Open  
+**Status**: ✅ RESOLVED  
 **Date Added**: 2025-12-29  
+**Date Resolved**: 2025-12-29
 **Priority**: MEDIUM  
 **Related Nodes**: SWED-042, SWED-004, SWED-041
+**Resolution Document**: `data/unclassified/Bundahišn's Damdat Nask Reconstruction.md`
 
-**Context**:
-SWED-042 claims Alexander's 330 BCE destruction of Persepolis archives destroyed the DAMDAT NASK—a systematic correspondence encyclopedia. Bundahišn summaries supposedly preserve fragmentary content. Need scholarly verification of reconstruction claims.
+**RESOLUTION:**
 
-**Research Question**:
-What elements of the Bundahišn can be specifically traced to the lost Damdat Nask according to academic Iranology?
+**Key Validated Findings:**
 
-**Expected Output**:
-Scholarly citations (Boyce, Shaked, de Jong, Hintze) documenting what the Damdat Nask contained and how it relates to surviving texts.
+| Element | Source | Verification |
+|---------|--------|--------------|
+| Dāmdād Nask was 4th Nask of Hada Mānsrīg division | Dēnkard 8.5 | MacKenzie, EIr |
+| 32 kardag (sections) covering cosmogony, taxonomy, eschatology | Dēnkard 8.5 | West, Widengren |
+| Zādspram explicitly cites "the Dāmdād Nask" (3.43, 3.57) | Wizīdagīhā ī Zādspram | MacKenzie |
+| Bundahišn structure aligns chapter-for-chapter with Dēnkard summary | Structural analysis | Henning, Götze |
+| Chapter 28: Microcosm-Macrocosm correspondence map | Greater Bundahišn | Lincoln, Herrenschmidt |
 
-**Notes**:
-500 char limit for NLM—question focused. Extended research may require GDR follow-up.
+**Critical Scholarly Assessment:**
+- The Bundahišn is "essentially an epitome" (MacKenzie) / "a major source" of the Zand of the Dāmdād Nask
+- The "systematic correspondence" claim is VALIDATED by Chapter 28's anatomical-cosmic mapping
+- However: "Persepolis archives" destruction is HAGIOGRAPHIC LEGEND, not verified history
+- Damdat Nask content survived via ORAL Zand tradition, not burned books
+
+**Knowledge Graph Update:** SWED-042 updated with nuanced scholarly caveats distinguishing hagiographic claims from validated reconstruction evidence.
 
 ---
 
 ### [GDR] SWED-042: Alexander Archive Destruction Historiography
 
 **Target**: `[GDR]`  
-**Status**: Open  
+**Status**: ✅ RESOLVED  
 **Date Added**: 2025-12-29  
+**Date Resolved**: 2025-12-29
 **Priority**: MEDIUM  
 **Related Nodes**: SWED-042, SWED-004
+**Resolution Document**: `data/unclassified/Alexander, Persepolis, and Avestan Texts.md`
 
-**Context**:
-The claim that Alexander's forces destroyed Zoroastrian archives at Persepolis is derived from Zoroastrian hagiographic sources (Arda Viraf Namag, Denkard). Critical scholars may view this as legendary expansion. Need neutral historiographical assessment.
+**RESOLUTION:**
 
-**Research Question**:
-1. What do academic historians (not Zoroastrian sources) say about Alexander's destruction at Persepolis?
-2. Is there archaeological evidence for archive destruction vs. general fire damage?
-3. How do Iranologists (Boyce, Shaked) assess Zoroastrian claims about Avestan text destruction?
-4. What is the scholarly consensus on the "Alexander burned the Avesta" narrative?
-5. Are there alternative explanations for Avestan text loss (oral transmission gaps, neglect, Islamic conquest)?
-6. What portions of the Avesta were definitely written before 330 BCE vs. later compositions?
+**Key Findings from Historiographical Analysis:**
 
-**Expected Output**:
-Historiographical assessment of Zoroastrian destruction narrative. If largely legendary, caveat on SWED-042 needs strengthening. If substantiated, validates key framework mechanism.
+| Question | Answer |
+|----------|--------|
+| Did Alexander burn Persepolis? | **YES** - Undisputed historical fact (330 BCE) |
+| Do classical sources mention religious archives? | **NO** - Arrian, Diodorus, Plutarch, Curtius are SILENT on religious texts |
+| Was there archaeological evidence of document destruction? | **YES** - Bullae (clay sealings) prove parchment documents existed and were destroyed |
+| Was there a written Avesta to destroy? | **NO** - Scholarly consensus: Avesta was ORAL in Achaemenid period |
+| Is "12,000 ox-hides" historical? | **NO** - Zoroastrian HAGIOGRAPHY serving Sasanian ideological purposes |
 
-**Notes**:
-This is a historical rather than theological question—requires secular academic sources.
+**The Scholarly Consensus (Kellens, Hoffmann, Skjærvø, de Jong):**
+1. The Avesta was an **oral corpus** until Sasanian codification (4th-6th c. CE)
+2. Alexander destroyed **administrative archives** (Aramaic parchment), not religious texts
+3. The "Burned Book" narrative was constructed by Sasanians to:
+   - Explain gaps in their tradition
+   - Legitimize creating a written canon
+   - Compete with "Peoples of the Book" (Christianity, Manichaeism)
+4. Mary Boyce's "living books" argument: The real loss was the **slaughter of Magi** who carried oral tradition
+
+**Framework Implication:**
+SWED-042 must be updated to clearly distinguish:
+- **Validated**: Alexander destroyed Persepolis (fact) + administrative archives burned (archaeological)
+- **Hagiographic**: "12,000 ox-hides with gold ink" = legendary expansion
+- **Actual mechanism of loss**: Oral transmission disruption + later Islamic conquest
+
+**Knowledge Graph Update:** SWED-042 definition and caveats substantially revised.
 
 ---
 
 ### [NLM] SWED-043: Daniel Historicity Scholarly Consensus
 
 **Target**: `[NLM]`  
-**Status**: Open  
+**Status**: ✅ RESOLVED  
 **Date Added**: 2025-12-29  
+**Date Resolved**: 2025-12-29
 **Priority**: MEDIUM  
 **Related Nodes**: SWED-043, EARLY-008
+**Resolution Document**: `data/unclassified/Daniel_ Historicity and Cultural Synthesis.md`
 
-**Context**:
-SWED-043 treats Daniel's appointment as Rab-mag as historical, enabling prophetic-Magian synthesis. Critical scholars date Daniel to 2nd century BCE (Maccabean period), rendering the Babylonian court narrative as literary fiction. Framework needs to acknowledge this caveat.
+**RESOLUTION:**
 
-**Research Question**:
-What is the scholarly consensus on the historicity of Daniel's Babylonian court narrative and Rab-mag appointment?
+**CRITICAL ERROR CORRECTED:**
+Daniel is **NEVER** called "Rab-mag" in the biblical text! That title belongs exclusively to **Nergal-sharezer** in Jeremiah 39:3, 39:13.
 
-**Expected Output**:
-Summary of critical scholarship on Daniel dating and historicity. If consensus is 2nd c. BCE composition, framework must adjust claim or acknowledge as theological reading of non-historical narrative.
+**Daniel's Actual Biblical Titles:**
+| Title | Reference | Meaning |
+|-------|-----------|---------|
+| Rab-signīn | Dan 2:48 | Chief Prefect |
+| Rab-hartummin | Dan 4:9 (MT 4:6) | Chief of Magicians/Scribes |
 
-**Notes**:
-500 char limit—focused query. May need GDR for extended historiographical analysis.
+**Scholarly Consensus on Historicity:**
+- **Final redaction**: 167-164 BCE (Maccabean period) - near-universal consensus
+- **Court Tales (Dan 1-6)**: Older traditions, likely 4th-3rd c. BCE
+- **Belshazzar**: CONFIRMED historical (Nabonidus Chronicle) - validates genuine tradition
+- **"Darius the Mede"**: NO external attestation - likely literary construct
+- **Persian loanwords**: ~20 terms confirm deep Persian acculturation
+
+**Validated Historical Details:**
+- Belshazzar as regent (historically accurate)
+- "Third ruler" offer (Dan 5:16) - reflects actual Neo-Babylonian hierarchy
+- Persian administrative terminology
+- Fire punishment (Babylonian) vs. lion punishment (Persian) distinction
+
+**Knowledge Graph Update:**
+- SWED-043 title changed from "Rab-mag" to "Rab-hartummin"
+- Confidence downgraded from "high" to "medium"
+- Definition rewritten to reflect compositional dating
+- EARLY-008 references corrected
 
 ---
 

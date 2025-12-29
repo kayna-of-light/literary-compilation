@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-29 11:24*
+*Last exported: 2025-12-29 13:22*
 
 ---
 
@@ -10,20 +10,20 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 162 |
+| Total Nodes | 163 |
 | Total Connections | 444 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 151
+- **validated**: 152
 - **preliminary**: 6
 - **contested**: 5
 
 ### By Domain
 
 - **Cross-Domain** (CROSS): 7
-- **Consciousness Studies** (CONSC): 42
+- **Consciousness Studies** (CONSC): 43
 - **Swedenborgian Theology** (SWED): 42
 - **Biblical Scholarship** (BIBL): 20
 - **Early Christian History** (EARLY): 16
@@ -883,6 +883,28 @@
 - → `CONSC-002` (develops): Explains the DOPS anomaly
 - → `SWED-008` (requires): Restorative return enables regeneration to complete
 - → `CROSS-003` (supports): Ruling love requires complete earthly formation
+
+---
+
+#### [CONSC-043] Dying Brain Hypothesis: Systematic Critical Evaluation
+
+**Status**: validated | **Confidence**: high
+
+> A comprehensive critique demonstrating that physiological mechanisms proposed to explain NDEs as brain-generated artifacts are insufficient to account for the full phenomenological and evidential record. While mechanisms like cerebral anoxia, REM intrusion, and endogenous DMT may explain SOME features, they fail on four critical fronts: (1) veridical perception during documented flat EEG/BAEPs, (2) timing mismatch with gamma surge data, (3) phenomenological divergence from ketamine/DMT experiences, (4) anomalies like terminal lucidity and shared-death experiences. The critique does not "prove" consciousness survival but demonstrates the reductionist framework has explanatory gaps that cannot be waved away.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Evaluating Dying Brain Hypothesis Critically.md
+2. [E] Parnia et al. 'AWARE Study' (Resuscitation 2014)
+3. [E] van Lommel et al. 'Near-death experience in survivors of cardiac arrest' (Lancet 2001)
+4. [E] Sabom, Michael. 'Light and Death' (1998)
+5. [S] Borjigin et al. 'Surge of neurophysiological coherence' (PNAS 2013)
+
+**Connections**:
+- → `CONSC-017` (develops): Provides detailed mechanism-by-mechanism critique referenced in C-017
+- → `CONSC-001` (supports): Demonstrates explanatory gaps in materialist alternatives
+- → `CONSC-004` (validates): Strengthens phenomenological evidence by addressing objections
+- → `CONSC-002` (parallels): Both represent empirical anomalies defying materialist reduction
 
 ---
 

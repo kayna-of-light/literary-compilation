@@ -176,53 +176,15 @@ The following questions emerged from source tracing analysis of the NDE empirica
 
 ### [NDE] Operationalization: "Unknown Presence" Classification Criteria
 
-**Target**: `[NDE]`  
-**Status**: Open  
-**Date Added**: 2025-12-29  
-**Priority**: HIGH  
-**Related Files**: `conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md`
-
-**Context**:
-Framework analysis claims 61.8% of Being of Light encounters are classified as "unknown presence" (1,970 of 3,189 cases). This is described as the "strongest evidence" for objective reality since it shows experiencers encounter something that transcends their available conceptual categories.
-
-**Research Question**:
-1. What questionnaire fields in NDERF/IANDS are used to extract "being identification"?
-2. What are the exact response options that map to "unknown presence" classification?
-3. Is "unknown presence" a distinct response option, or a researcher-assigned category for ambiguous responses?
-4. How do we distinguish "unknown presence" from "not reported" or "declined to answer"?
-5. What is the inter-rater reliability for this classification if researcher-assigned?
-
-**Expected Output**:
-Documentation of the operationalization criteria for "unknown presence" sufficient for replication.
-
-**Notes**:
-This is a CRITICAL claim requiring rigorous methodology documentation. If "unknown" simply means "didn't specify," the interpretation changes dramatically.
+> **✅ RESOLVED** — See [resolved_research_questions.md](resolved_research_questions.md) for findings.  
+> **Summary**: `UNKNOWN_PRESENCE` is a distinct enum value in the questionnaire schema (not ambiguous/missing data). AI-assisted classification distinguishes it from `NOT_SPECIFIED` (no mention) and `NONE` (no being). The 61.8% rate represents experiencers who encountered a being but couldn't categorize it despite available vocabulary.
 
 ---
 
 ### [NDE] Operationalization: "Reincarnation Indicators" Search Criteria
 
-**Target**: `[NDE]`  
-**Status**: Open  
-**Date Added**: 2025-12-29  
-**Priority**: HIGH  
-**Related Files**: `conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md`
-
-**Context**:
-Framework claims "0% reincarnation indicators" in NDE accounts as evidence for "Normative Path" (continuation without reincarnation). A 0% finding is an extraordinary claim requiring extraordinary documentation.
-
-**Research Question**:
-1. What search terms/keywords were used to identify "reincarnation indicators"?
-2. What narrative patterns were coded as potential reincarnation evidence?
-3. Were Eastern religion NDEs (Hindu, Buddhist) included in this search?
-4. How were accounts mentioning "returning" or "choosing a new life" handled?
-5. Were ambiguous phrases like "going back" coded as reincarnation indicators?
-
-**Expected Output**:
-Complete operationalization of "reincarnation indicator" category including search terms, coding criteria, and examples of included/excluded narratives.
-
-**Notes**:
-0% is almost certainly an artifact of coding choices or sample bias. Need to understand methodology to assess validity.
+> **✅ RESOLVED** — See [resolved_research_questions.md](resolved_research_questions.md) for findings.  
+> **Summary**: "0% reincarnation indicators" is based on structural absence of specific elements (next-life selection, memory wipe prep, karmic cycling language), not keyword search. The claim is valid within scope: NDEs show continuation, not cycling preparation. Caveat: NDEs are return cases, so cannot test complete post-death journey or Restorative Path.
 
 ---
 
@@ -509,6 +471,62 @@ Tests whether "proprium" is real historical force or theological projection onto
 
 ---
 
+### [GDR] DOPS Volunteer-Type Cases: Published Findings on Mission-Oriented Intermission Memories
+
+**Target**: `[GDR]`  
+**Status**: Open  
+**Date Added**: 2025-12-29  
+**Priority**: HIGH  
+**Related Nodes**: CONSC-002, CONSC-004, CONSC-014
+
+**Context**:
+Framework synthesizes DOPS intermission memories with NDE volunteer soul data, claiming both describe the same phenomenon from different temporal perspectives:
+- **DOPS**: Children report pre-birth memories of "choosing parents" and "choosing life circumstances" for a purpose
+- **NDE**: Experiencers report "commissioning moments" where pre-incarnate missions are activated
+
+The NDE repository validates volunteer soul pathway (n=773, 11.5% of sample) with strong statistical evidence. However, the DOPS side of this convergence relies on *asserted* parallels rather than *demonstrated* convergence from published DOPS findings.
+
+**⚠️ Data Access Note**: DOPS data involves children and is highly protected. We cannot query raw data directly—must work through published researcher findings (Stevenson, Tucker, Sharma, et al.).
+
+**Research Question**:
+Search published DOPS literature for volunteer-type/mission-oriented intermission case findings:
+
+1. **Published case analyses**: What do Tucker, Stevenson, or other DOPS researchers report about intermission memories featuring:
+   - Choosing parents/family for specific purpose
+   - Pre-birth mission awareness or life planning
+   - Reluctance to incarnate (parallel to NDE 74% reluctant return)
+   - Being "sent" vs. choosing to come
+
+2. **Researcher observations**: Have DOPS researchers themselves noted parallels to NDE phenomenology in their published work? Any explicit convergence analysis?
+
+3. **Phenomenological features**: In published case descriptions, what features appear in intermission memories?
+   - Light/radiant realm descriptions
+   - Deceased relatives or guides encountered
+   - Life review before incarnation
+   - Memory of agreeing to specific life challenges
+
+4. **Frequency data**: Do any published DOPS analyses report what percentage of cases include intermission memories? What percentage of those mention purpose/mission?
+
+5. **Restorative vs. Volunteer distinction**: Does published DOPS literature distinguish between:
+   - Traumatic death → reincarnation cases (restorative, >70% violent death)
+   - Mission-oriented cases (volunteer-type, choosing incarnation for purpose)
+
+6. **Cross-validation potential**: Are there any published cases where a child with past-life memories later had an NDE, or vice versa?
+
+**Expected Output**:
+Published findings establishing what DOPS researchers actually report about mission-oriented intermission cases. If published literature supports volunteer-type pathway with similar features to NDE data, strengthens convergent validation. If DOPS literature doesn't distinguish volunteer-type cases or reports different phenomenology, framework synthesis may be over-reaching.
+
+**Key Sources to Search**:
+- Tucker, J. (2005, 2013, 2021) - *Life Before Life*, *Return to Life*, recent papers
+- Sharma, P. & Tucker, J. (2004) - Cases with memories of intermission
+- Stevenson, I. - Original case studies with intermission elements
+- DOPS published case databases or summaries
+
+**Notes**:
+This complements the `[NDE]` intermission question below by gathering the DOPS side of the comparison from published sources. The NDE side is well-documented in our repository; the DOPS side needs external research.
+
+---
+
 ### [NDE] Intermission Memories: DOPS vs. NDE Phenomenological Convergence
 
 **Target**: `[NDE]`  
@@ -519,6 +537,8 @@ Tests whether "proprium" is real historical force or theological projection onto
 
 **Context**:
 Framework identifies parallel features between children's "intermission memories" (DOPS research—memories between past life and current incarnation) and NDEs as convergent evidence for post-mortem phenomenology. Need statistical comparison to test convergence claim.
+
+**⚠️ Dependency Note**: This question requires findings from `[GDR] DOPS Volunteer-Type Cases` above to complete the comparison. NDE side is queryable; DOPS side requires published literature review.
 
 **Research Question**:
 Do DOPS intermission memories and NDE phenomenology show genuine convergence? Compare:
@@ -1181,70 +1201,8 @@ MYTH-002, MYTH-005 (Enuma Elish), MYTH-006 (Genesis) develop this extensively. R
 
 ### [CROSS] Dying Brain Hypothesis: Critical Evaluation of Evidence Quality
 
-**Target**: `[GDR]`  
-**Status**: Open  
-**Date Added**: 2025-12-27  
-**Date Revised**: 2025-12-30  
-**Priority**: High  
-**Related Nodes**: CONSC-004, CONSC-017
-
-**⚠️ CRITICAL BIAS WARNING**:
-
-The "dying brain hypothesis" is NOT a neutral scientific baseline—it is itself a **metaphysical position** that presupposes:
-1. Consciousness is produced by brain activity (assumption, not proven)
-2. No non-physical component exists (assumption, not proven)
-3. Materialist explanations should be preferred a priori (philosophical bias)
-
-Opponents of NDE research frequently cite dying brain studies to **dismiss** veridical perception findings, cross-cultural convergence, and consciousness-during-cardiac-arrest evidence **without actually addressing** this data. The research agent must NOT fall into this pattern.
-
-**Framework Position**:
-
-Our NDE and DOPS dataset analysis has documented:
-- Veridical perception during verified flat EEG (no brain activity to produce experiences)
-- Cross-cultural phenomenological convergence inconsistent with cultural construction
-- Verified past-life memories with physical correspondences (birthmarks)
-- Empathetic life review component that no dying brain model explains
-
-These findings are **not addressed** by simply citing gamma wave studies or DMT hypotheses. The question is not whether dying brains produce unusual activity—the question is whether that activity explains ALL NDE phenomena, including those occurring during verified cessation of measurable brain function.
-
-**Research Question**:
-
-Evaluate the dying brain hypothesis **as a hypothesis**, not as neutral baseline:
-
-1. **Scope of Explanation**: Do dying brain models (Borjigin gamma surge, DMT release, anoxia effects) actually address:
-   - Veridical perception during cardiac arrest with flat EEG?
-   - The empathetic component of life review (experiencing others' emotions)?
-   - Cross-cultural convergence in phenomenology?
-   - Information acquisition demonstrably unavailable to the experiencer?
-
-2. **Evidence Quality**: What is the actual evidence base?
-   - Borjigin (2013): Rat study—has this been replicated in humans during NDEs?
-   - DMT hypothesis: Is there ANY direct evidence of DMT release at death in humans?
-   - Temporal lobe models: Do temporal lobe seizures actually produce NDE-like phenomenology, or just some overlapping features?
-
-3. **Explanatory Gaps**: What NDE phenomena do dying brain models explicitly NOT explain, and do proponents acknowledge these gaps?
-
-4. **Methodological Critique**: Are dying brain studies themselves methodologically sound?
-   - Do they study actual NDErs or just simulate aspects of the experience?
-   - Do they address the timing problem (experiences during flat EEG)?
-   - Do they engage with veridical perception evidence or simply assume it away?
-
-5. **Scholarly Acknowledgment**: Have any neuroscientists acknowledged that dying brain models are incomplete or that NDE data poses genuine challenges to materialist assumptions?
-
-**Expected Output**:
-
-A balanced assessment that:
-- ✅ Accurately represents what dying brain models DO explain
-- ✅ Honestly identifies what they do NOT explain
-- ✅ Evaluates the evidence quality of materialist hypotheses (not assumed valid)
-- ✅ Acknowledges our documented findings that challenge these models
-- ✅ Does NOT treat materialist assumptions as neutral default
-
-**Notes**:
-
-This question tests whether the research agent can avoid the common bias of treating physicalist explanations as "scientific" and non-physicalist explanations as requiring special justification. BOTH positions make metaphysical assumptions. The evidence should determine which better fits the data.
-
-See Anti-Bias Instructions at document header. Our internal NDE analysis documents significant challenges to dying brain explanations that external "mainstream" sources often ignore or dismiss without engagement.
+> **✅ RESOLVED** — See [resolved_research_questions.md](resolved_research_questions.md) for findings.  
+> **Summary**: Comprehensive analysis in `data/01_Consciousness_Studies/Evaluating Dying Brain Hypothesis Critically.md`. DBH mechanisms (anoxia, DMT, gamma surge, temporal lobe) fail to explain: veridical perception during flat EEG, hyper-lucidity (inverse relationship), empathetic life review, terminal lucidity, and shared death experiences. AWARE study shows awareness 3+ minutes into arrest. Key veridical cases (Reynolds, Sullivan, Dentures Man) addressed with skeptical rebuttals. 63 scholarly sources.
 
 ---
 

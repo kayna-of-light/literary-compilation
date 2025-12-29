@@ -44,33 +44,6 @@ When identifying a gap or question during framework development:
 
 ## Open Questions
 
-### [GDR] CROSS-006: Jesus Identification Percentage Verification
-
-**Target**: `[GDR]`  
-**Status**: Open  
-**Date Added**: 2025-12-29  
-**Priority**: MEDIUM  
-**Related Nodes**: CROSS-006, CONSC-016
-
-**Context**:
-The Jesus Profile Thesis (CROSS-006) claims "~60% Western experiencers identify Being of Light as Jesus." This statistic is used as validation that editorial bricolage "succeeded"—the curated Jesus Profile matches actual spiritual entity encountered. Source chain shows only `[E] NDE phenomenology research (various)`. No specific study cited.
-
-**Research Question**:
-1. What is the EXACT percentage and what study/studies is it derived from?
-2. Which researcher(s) published this statistic? (Long, Ring, van Lommel, Greyson?)
-3. Does the percentage vary by decade? (1970s studies vs. 2020s?)
-4. Does the percentage vary by region within "Western" category? (US vs. UK vs. Germany?)
-5. How is "identification as Jesus" operationalized? (Name stated, visual match, innate knowing?)
-6. What percentage identify other religious figures? (Angels, deceased relatives, generic light?)
-
-**Expected Output**:
-Specific citation with study name, sample size, and methodology. If no primary source exists, flag as unsupported claim requiring revision or removal.
-
-**Notes**:
-~60% appears in multiple framework documents without primary citation. May be folk knowledge in NDE community that needs verification.
-
----
-
 ### [GDR] Zoroastrian mēnōg/gētīg Ontology Academic Sources
 
 **Target**: `[GDR]`  

@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-29 16:45*
+*Last exported: 2025-12-29 17:31*
 
 ---
 
@@ -10,20 +10,20 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 166 |
+| Total Nodes | 170 |
 | Total Connections | 444 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 155
-- **preliminary**: 6
+- **validated**: 157
+- **preliminary**: 8
 - **contested**: 5
 
 ### By Domain
 
 - **Cross-Domain** (CROSS): 7
-- **Consciousness Studies** (CONSC): 46
+- **Consciousness Studies** (CONSC): 50
 - **Swedenborgian Theology** (SWED): 42
 - **Biblical Scholarship** (BIBL): 20
 - **Early Christian History** (EARLY): 16
@@ -978,6 +978,90 @@
 - → `SWED-008` (parallels): Restorative return enables regeneration to complete
 - → `CROSS-003` (supports): Seed-state completion allows ruling love to stabilize
 - → `CONSC-001` (supports): System shows purpose (restoration) not chaos—consciousness-driven
+
+---
+
+#### [CONSC-047] SOCS Selection Bias: The Trauma Filter Hypothesis
+
+**Status**: validated | **Confidence**: unknown
+
+> The Strength of Case Scale (SOCS), developed by DOPS to evaluate past-life memory claims, contains systematic selection biases that preferentially select for trauma-driven  Restorative Incarnation cases while filtering out non-traumatic origins including  potential first incarnations (Volunteer Souls). Key bias: SOCS awards zero points for  first incarnation claims ("S0" baseline), making such cases unrankable regardless of  verification quality.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Reincarnation Methodology Selection Artifact.md
+2. [E] Tucker, J., 'Life Before Life' (2005), SOCS methodology
+3. [S] Stevenson, I., 'Twenty Cases Suggestive of Reincarnation' (1966)
+
+**Connections**:
+- → `CONSC-046` (explains): Explains why Restorative cases dominate DOPS database
+- → `CONSC-034` (contextualizes): 70% violent death partially reflects methodology, not only ontology
+- → `CONSC-010` (contrasts): Volunteer Soul Paradigm cannot be validated through SOCS
+- → `CONSC-040` (develops): Type A/B distinction does not capture first incarnation category
+- → `CONSC-002` (contextualizes): DOPS database is sample-biased toward trauma cases
+
+---
+
+#### [CONSC-048] Ohkado Reverse Cases: Intermission Memories Without Past-Life Recall
+
+**Status**: validated | **Confidence**: unknown
+
+> Japanese researcher Ohkado Masayuki documented "Reverse Cases"—children who report  vivid intermission memories (pre-birth realm, choosing parents, observing from above)  but have NO past-life memories. This reverses the standard CORT paradigm which assumes  past-life → intermission → new life. Reverse Cases suggest some souls enter incarnation  without a traumatic prior death, potentially representing first incarnations or non-cyclic  origins.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Reincarnation Methodology Selection Artifact.md
+2. [E] Ohkado, M., Japanese intermission memory research
+3. [S] Carman & Carman, 'Cosmic Cradle: Spiritual Dimensions of Life Before Birth' (2013)
+
+**Connections**:
+- → `CONSC-010` (supports): Empirical support for Volunteer Soul non-cyclic origin
+- → `CONSC-014` (validates): Three-Path Cosmology predicts this pattern
+- → `CONSC-047` (develops): Evidence that SOCS misses this case type
+- → `CONSC-002` (complements): Expands DOPS data beyond trauma-only cases
+- → `CONSC-032` (parallels): Commissioning Moment without prior death
+
+---
+
+#### [CONSC-049] Veridical Pre-Existence (VPE): Perinatal Verification Protocol
+
+**Status**: preliminary | **Confidence**: unknown
+
+> Rivas, Dirven, and Smit documented cases where children report verifiable information  about events surrounding their conception, gestation, or birth—information the child  could not have learned through normal means. VPE provides an alternative verification  pathway to past-life verification: instead of verifying a previous personality's death,  verify the soul's perspective during prenatal period. Critical for validating first  incarnation claims.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Reincarnation Methodology Selection Artifact.md
+2. [E] Rivas, Dirven & Smit, 'Paranormal Aspects of Pre-Existence Memories'
+3. [S] Carman & Carman, 'Cosmic Cradle' (2013)
+
+**Connections**:
+- → `CONSC-048` (complements): VPE can verify Reverse Cases through perinatal pathway
+- → `CONSC-047` (addresses): Provides verification method for SOCS-excluded cases
+- → `CONSC-010` (validates): Can verify Volunteer Soul claims through prenatal evidence
+- → `CONSC-040` (develops): Expands Type A/B with prenatal verification category
+
+---
+
+#### [CONSC-050] COPET Proposal: Cases of Pre-Existence Type Methodology
+
+**Status**: preliminary | **Confidence**: unknown
+
+> A proposed complementary methodology to CORT (Cases of Reincarnation Type) specifically  designed to capture non-cyclic soul origins. COPET would use trauma-negative screening,  perinatal verification (VPE), and mission-orientation assessment to identify cases  representing first incarnations or Volunteer Souls rather than trauma-driven returns.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Reincarnation Methodology Selection Artifact.md
+2. [E] Ohkado, M., Reverse Cases research
+3. [E] Rivas, Dirven & Smit, VPE research
+
+**Connections**:
+- → `CONSC-047` (addresses): Directly designed to overcome SOCS selection bias
+- → `CONSC-048` (operationalizes): Provides systematic methodology for Reverse Case study
+- → `CONSC-049` (applies): Uses VPE as primary verification method
+- → `CONSC-010` (validates): Methodology specifically designed to detect Volunteer Souls
+- → `CONSC-031` (supports): Could provide independent verification of 11.5% Volunteer estimate
+- → `CONSC-002` (complements): Parallel methodology to expand DOPS research scope
 
 ---
 

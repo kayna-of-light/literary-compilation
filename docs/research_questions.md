@@ -481,7 +481,108 @@ Tests whether "proprium" is real historical force or theological projection onto
 > - The 70%+ violent death correlation indicates exceptional return, not universal reincarnation (VALIDATED—see CONSC-046)
 > - Cultural imagery variation may reflect correspondential clothing of constant functional states (VALIDATED—see CONSC-045)
 > 
+> **NEW (2025-01-03)**: The "Reincarnation Methodology Selection Artifact" document has been processed, adding:
+> - **CONSC-047**: SOCS Selection Bias (Trauma Filter Hypothesis) — explains WHY 70% violent death in DOPS
+> - **CONSC-048**: Ohkado Reverse Cases — empirical evidence for non-cyclic origin (pre-birth WITHOUT past-life)
+> - **CONSC-049**: Veridical Pre-Existence (VPE) — perinatal verification method for first incarnation claims
+> - **CONSC-050**: COPET Proposal — Cases of Pre-Existence Type methodology to complement CORT
+> 
+> See: `data/01_Consciousness_Studies/Reincarnation Methodology Selection Artifact.md`
+> 
 > Questions are designed to test these specific hypotheses without assuming any framework.
+
+---
+
+### [NDE+GDR] Discriminant Analysis: Using Restorative Markers to Identify Non-Cyclic Origin Cases
+
+**Target**: `[NDE]` + `[GDR]`  
+**Status**: Open  
+**Date Added**: 2025-01-06  
+**Updated**: 2025-01-03 (New supporting evidence from CONSC-047/048/049/050)  
+**Priority**: HIGHEST  
+**Depends On**: CONSC-046 (Restorative Return validation), CONSC-010 (Volunteer Soul), CONSC-045 (Correspondential Validation), **NEW: CONSC-047 (Trauma Filter), CONSC-048 (Ohkado Reverse Cases), CONSC-049 (VPE), CONSC-050 (COPET Proposal)**
+
+**New Evidence (2025-01-03)**:
+- **Ohkado Reverse Cases (CONSC-048)**: Japanese researcher documented children with intermission memories but NO past-life recall — direct empirical support for non-cyclic entry hypothesis
+- **SOCS Trauma Filter (CONSC-047)**: DOPS SOCS awards 0 points for first incarnation claims — structural methodological exclusion
+- **Veridical Pre-Existence (CONSC-049)**: Rivas/Dirven/Smit documented perinatal verification as alternative to PP verification
+- **Key Cases**: Vincent B. (guided tour of future life), Karim ("blue ray" arrival with parent choice)
+
+**Context**:
+The DOPS Restorative Return analysis (CONSC-046) has now VALIDATED six independent markers that characterize the trauma-driven reincarnation pathway:
+
+| Marker | Validated Finding |
+|--------|------------------|
+| **Violent death** | >70% prevalence (massive deviation from baseline) |
+| **Birthmarks** | 35% prevalence, 88% medical verification |
+| **Temporal urgency** | Shorter intermissions (p<.01), suicide ~3 months |
+| **Age distribution** | PP avg age ~28; 25% <15 (inverted mortality curve) |
+| **Behavioral** | 35% phobias matching death mode |
+| **Resolution** | Symptoms remit after verification |
+
+These markers describe a **specific, anomaly-driven mechanism** — NOT a universal system of reincarnation. The question: can we use these validated markers INVERSELY to identify cases that represent a DIFFERENT pathway?
+
+**Theoretical Framework**:
+The Threefold Path model (CONSC-010) predicts three distinct post-mortem pathways:
+1. **Normative Linear** — Spiritual progression without earthly return (majority)
+2. **Restorative Return** — Trauma-driven return for healing/completion (minority)
+3. **Volunteer/Non-Cyclic** — First incarnation or mission-oriented entry (rare)
+
+If pathway 3 is real and distinguishable, cases should show:
+- ABSENCE of Restorative trauma markers (no violent death, no birthmarks, no phobias)
+- PRESENCE of different positive markers (mission language, choosing, purpose statements)
+
+**Discriminant Filter Design**:
+
+| Restorative Profile (Exclude) | Non-Cyclic Profile (Include) |
+|------------------------------|------------------------------|
+| Prior-life death narrative | NO death narrative; spiritual realm origin |
+| Birthmarks from wounds | NO birthmarks |
+| Phobias matching death mode | NO trauma phobias |
+| Short intermission (urgency) | "Choosing" language / deliberate selection |
+| PTSD-like symptoms | Mission-orientation; purpose statements |
+| "Unfinished business" theme | "I came to help" / "I chose you" themes |
+
+**Research Questions**:
+
+**1. NDE Repository Query**:
+Cross-tabulate in the NDE statistical repository:
+- Pre-existence memories/themes × violent death circumstance (should be NEGATIVELY correlated if pathways are distinct)
+- "Sent back with mission" × trauma indicators
+- "Choosing to come" vs "forced back" language patterns
+
+**2. DOPS Literature Analysis**:
+Search published DOPS/pre-existence literature for cases that:
+- Have NONE of the six Restorative markers
+- Report spiritual realm origin, choosing parents, mission statements
+- Describe first incarnation explicitly ("I was always in the light" vs "I was someone else")
+
+**3. Phenomenological Contrast**:
+If cases are identified in both groups:
+- What additional phenomenological features distinguish them?
+- Do "non-cyclic" cases show different emotional tone (curiosity vs. distress)?
+- Do they show different claim patterns (purpose vs. identity)?
+
+**4. Statistical Validation**:
+If enough cases exist:
+- Chi-square analysis: Are Restorative markers negatively correlated with mission/volition markers?
+- Cluster analysis: Do cases naturally cluster into distinct phenomenological groups?
+
+**Falsification Criteria**:
+- **Supports hypothesis**: Statistically significant negative correlation between trauma markers and mission/volition markers
+- **Refutes hypothesis**: No correlation pattern; markers appear randomly distributed
+- **Inconclusive**: Too few non-Restorative cases to analyze (suggests selection artifact)
+
+**Expected Value**:
+If non-cyclic origin cases are REAL and DISTINGUISHABLE:
+- The validated Restorative markers function as a negative filter
+- Filtered cases show coherent positive markers of non-cyclic origin
+- This validates the Threefold Path model and refines incarnation cosmology
+
+If this shows NOTHING:
+- Either non-cyclic cases are extremely rare / methodologically invisible
+- Or the phenomenology is indistinguishable (pathways differ only in origin, not in markers)
+- Or the Volunteer Soul paradigm is theoretically valid but empirically undetectable
 
 ---
 

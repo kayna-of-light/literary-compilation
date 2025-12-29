@@ -2547,11 +2547,13 @@ nodes:
       but that his framework provided matrix for later gnostic development.
     
     caveats:
-      - "Minority scholarly position—mainstream NT scholarship situates Paul within Jewish apocalypticism"
+      - "Mainstream NT scholarship situates Paul within Jewish apocalypticism, but this is contested"
       - "Terms like pleroma, gnosis, mysterion have pre-gnostic Hellenistic Jewish meanings"
-      - "Reception by gnostics ≠ intention of author"
-      - "Paul's bodily resurrection (1 Cor 15) and creation affirmation (Rom 8) contradict gnostic cosmology"
-      - "1 Tim 6:20 ('falsely called gnosis') shows early anti-gnostic reading of Pauline tradition"
+      - "Reception by gnostics ≠ intention of author (but earliest readers were gnostics)"
+      - "1 Tim 6:20 ('falsely called gnosis') is from Pastoral Epistles—widely considered pseudo-Pauline and specifically written to 'rescue' Paul from gnostic interpreters"
+      # NOTE: Previous caveat claimed '1 Cor 15 bodily resurrection contradicts gnostic cosmology'
+      # This was INCORRECT: 1 Cor 15:44-50 explicitly argues for soma pneumatikon (spiritual body)
+      # and states 'flesh and blood cannot inherit the kingdom of God' - supporting gnostic reading
     
     source_chain:
       - type: T

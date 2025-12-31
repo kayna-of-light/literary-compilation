@@ -13805,3 +13805,236 @@ extended_nodes:
     created: 2025-01-03
     updated: 2025-01-03
     trace_status: preliminary
+
+  # ---------------------------------------------------------------------------
+  # CONSC-051: Return Reason Discriminant (Statistical Finding)
+  # ---------------------------------------------------------------------------
+  
+  CONSC-051:
+    title: "Return Reason Discriminant: WHY vs HOW"
+    domain: CONSC
+    status: validated
+    definition: >
+      Empirical finding that the REASON for return to physical life (earthly_mission vs 
+      family_responsibility vs not_your_time) is the primary discriminant for soul path 
+      classification, while the MECHANISM of return (told to return vs chose to return) 
+      carries minimal discriminating power. Cases with 'earthly_mission' return reason 
+      show 94.6% mission commission rate versus 5.8-29.5% for all other categories.
+    
+    statistical_validation:
+      chi_square: 2845.61
+      p_value: "<10^-300"
+      sample_size: 6753
+      
+      return_reason_distribution:
+        earthly_mission: "443 (6.6%) - 94.6% mission rate"
+        not_your_time: "1125 (16.7%) - 26.8% mission rate"
+        family_responsibility: "967 (14.3%) - 22.9% mission rate"
+        no_reason_given: "1180 (17.5%) - 5.8% mission rate"
+        other: "539 (8.0%) - 29.5% mission rate"
+        not_mentioned: "2499 (37.0%) - 8.0% mission rate"
+    
+    source_chain:
+      - type: E
+        ref: "NDE Analysis Repository - volunteer_discriminant_analysis.ipynb"
+        note: "Primary statistical analysis"
+      - type: T
+        ref: "data/01_Consciousness_Studies/Empirical Validation of the Threefold Path Model.md"
+        note: "Full thesis document"
+    
+    connections:
+      - target: CONSC-014
+        type: validates
+        note: "Provides empirical validation for Threefold Path Model"
+      - target: CONSC-010
+        type: supports
+        note: "Earthly mission return strongly correlates with Volunteer profile"
+      - target: CONSC-052
+        type: complements
+        note: "Works with indicator hierarchy for classification"
+    
+    notes: >
+      This finding resolves a persistent confusion in NDE literature where researchers 
+      treated 'told to return' and 'chose to return' as meaningful discriminants. The 
+      data show these mechanisms are essentially noise; what matters is WHY the soul 
+      returns. A soul 'told to return' for an earthly mission is functionally equivalent 
+      to one who 'chose to return' for the same purpose.
+    
+    created: 2025-12-31
+    updated: 2025-12-31
+    trace_status: validated
+
+  # ---------------------------------------------------------------------------
+  # CONSC-052: Pre-Birth Indicator Hierarchy (Statistical Finding)
+  # ---------------------------------------------------------------------------
+  
+  CONSC-052:
+    title: "Pre-Birth Indicator Hierarchy: Predictive Power Ranking"
+    domain: CONSC
+    status: validated
+    definition: >
+      Empirical ranking of pre-birth indicators by their discriminating power for 
+      Volunteer Soul identification. Cases with explicit volunteer language show 
+      dramatically elevated rates across all pre-birth indicators, with incarnation_choice 
+      showing the highest ratio (74.9x) compared to non-volunteer cases.
+    
+    indicator_hierarchy:
+      - indicator: "volunteer_language"
+        ratio: "Direct indicator (baseline)"
+        presence_rate: "0.52% of population"
+        
+      - indicator: "incarnation_choice"
+        ratio: "74.9x"
+        volunteer_rate: "45.7%"
+        non_volunteer_rate: "0.6%"
+        
+      - indicator: "pre_birth_realm_description"
+        ratio: "28.1x"
+        volunteer_rate: "34.3%"
+        non_volunteer_rate: "1.2%"
+        
+      - indicator: "premortal_existence_info"
+        ratio: "11.0x"
+        volunteer_rate: "68.6%"
+        non_volunteer_rate: "6.2%"
+        
+      - indicator: "home_identification"
+        ratio: "3.1x"
+        volunteer_rate: "42.9%"
+        non_volunteer_rate: "13.8%"
+        
+      - indicator: "identity_pre_body"
+        ratio: "2.8x"
+        volunteer_rate: "71.4%"
+        non_volunteer_rate: "25.6%"
+    
+    source_chain:
+      - type: E
+        ref: "NDE Analysis Repository - volunteer_discriminant_analysis.ipynb"
+        note: "Primary statistical analysis"
+      - type: T
+        ref: "data/01_Consciousness_Studies/Empirical Validation of the Threefold Path Model.md"
+        note: "Full thesis document"
+    
+    connections:
+      - target: CONSC-010
+        type: validates
+        note: "Provides empirical markers for Volunteer identification"
+      - target: CONSC-048
+        type: supports
+        note: "Shows which indicators best identify Ohkado pattern"
+      - target: CONSC-051
+        type: complements
+        note: "Works with return reason for classification"
+      - target: CONSC-050
+        type: informs
+        note: "Should guide COPET screening criteria"
+    
+    notes: >
+      The dramatic ratios (especially 74.9x for incarnation_choice) demonstrate that 
+      pre-birth indicators cluster strongly in the Volunteer population. This hierarchy 
+      can guide both research methodology (COPET screening) and individual NDE interpretation.
+      Note that identity_pre_body has the lowest ratio but highest absolute rate (71.4%), 
+      suggesting it's common in Volunteers but also present in non-Volunteers.
+    
+    created: 2025-12-31
+    updated: 2025-12-31
+    trace_status: validated
+
+  # ---------------------------------------------------------------------------
+  # CONSC-053: Population Distribution Estimate (Statistical Finding)
+  # ---------------------------------------------------------------------------
+  
+  CONSC-053:
+    title: "Soul Path Population Distribution: Empirical Estimates"
+    domain: CONSC
+    status: validated
+    definition: >
+      Empirical population estimates for soul path classification based on analysis of 
+      6,753 NDE accounts. The data suggest approximately 6% Volunteer (mission-oriented), 
+      28% Ohkado (pre-birth awareness without trauma), 3% Restorative (cyclic return with 
+      trauma markers), 1% Hybrid, and 62% Indeterminate.
+    
+    population_estimates:
+      volunteer:
+        count: 421
+        percentage: "6.23%"
+        definition: "Mission-oriented, minimal cyclic trauma markers"
+        key_marker: "earthly_mission return + high mission commission"
+        
+      ohkado:
+        count: 1901
+        percentage: "28.15%"
+        definition: "Pre-birth awareness without trauma markers"
+        key_marker: "1+ pre-birth indicators, no death/past-life memory"
+        
+      restorative:
+        count: 197
+        percentage: "2.92%"
+        definition: "Cyclic return with past-life/death memory"
+        key_marker: "past_life_memory explicit/implied"
+        
+      hybrid:
+        count: 52
+        percentage: "0.77%"
+        definition: "Both volunteer and trauma markers present"
+        key_marker: "Mission + past-life indicators combined"
+        
+      indeterminate:
+        count: 4182
+        percentage: "61.93%"
+        definition: "Insufficient markers for classification"
+        
+    tiered_ohkado:
+      one_indicator: "1,569 (23.2%)"
+      two_indicators: "413 (6.1%)"
+      three_indicators: "97 (1.4%)"
+      four_indicators: "43 (0.6%)"
+      five_indicators: "9 (0.13%)"
+      
+    source_chain:
+      - type: E
+        ref: "NDE Analysis Repository - 6,753 NDE accounts"
+        note: "NDERF (5,660) + IANDS (1,093)"
+      - type: E
+        ref: "volunteer_discriminant_analysis.ipynb"
+        note: "Classification analysis"
+      - type: E
+        ref: "ohkado_pattern_analysis.ipynb"
+        note: "Tiered Ohkado analysis"
+      - type: T
+        ref: "data/01_Consciousness_Studies/Empirical Validation of the Threefold Path Model.md"
+        note: "Full thesis document"
+    
+    connections:
+      - target: CONSC-014
+        type: validates
+        note: "Provides empirical percentages for Threefold Path"
+      - target: CONSC-010
+        type: supports
+        note: "6% Volunteer estimate consistent with rare but real population"
+      - target: CONSC-048
+        type: validates
+        note: "28% Ohkado rate shows large non-cyclic population"
+      - target: CONSC-031
+        type: refines
+        note: "Updates earlier 11.5% Volunteer estimate to 6% with stricter criteria"
+      - target: CONSC-047
+        type: contextualizes
+        note: "3% Restorative in NDEs vs dominance in DOPS shows selection bias"
+    
+    notes: >
+      The 62% Indeterminate rate reflects conservative classification criteria requiring 
+      explicit markers. Many of these cases may belong to one of the four classified 
+      paths but lack sufficient narrative detail. The 28% Ohkado rate is particularly 
+      significant - over a quarter of NDErs show pre-birth awareness without trauma markers, 
+      suggesting a large population potentially on first incarnation or post-Restorative cycle.
+      
+      Comparison to earlier estimates: The previous 11.5% Volunteer estimate (CONSC-031) 
+      used broader criteria; the current 6% uses stricter mission-plus-return requirements.
+      The difference may represent a spectrum from "strong Volunteer" (6%) to "Volunteer-adjacent" 
+      (additional 5-6% included under Ohkado with mission indicators).
+    
+    created: 2025-12-31
+    updated: 2025-12-31
+    trace_status: validated

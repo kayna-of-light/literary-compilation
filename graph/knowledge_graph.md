@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-29 17:31*
+*Last exported: 2025-12-31 07:14*
 
 ---
 
@@ -10,20 +10,20 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 170 |
+| Total Nodes | 173 |
 | Total Connections | 444 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 157
+- **validated**: 160
 - **preliminary**: 8
 - **contested**: 5
 
 ### By Domain
 
 - **Cross-Domain** (CROSS): 7
-- **Consciousness Studies** (CONSC): 50
+- **Consciousness Studies** (CONSC): 53
 - **Swedenborgian Theology** (SWED): 42
 - **Biblical Scholarship** (BIBL): 20
 - **Early Christian History** (EARLY): 16
@@ -1062,6 +1062,65 @@
 - → `CONSC-010` (validates): Methodology specifically designed to detect Volunteer Souls
 - → `CONSC-031` (supports): Could provide independent verification of 11.5% Volunteer estimate
 - → `CONSC-002` (complements): Parallel methodology to expand DOPS research scope
+
+---
+
+#### [CONSC-051] Return Reason Discriminant: WHY vs HOW
+
+**Status**: validated | **Confidence**: unknown
+
+> Empirical finding that the REASON for return to physical life (earthly_mission vs  family_responsibility vs not_your_time) is the primary discriminant for soul path  classification, while the MECHANISM of return (told to return vs chose to return)  carries minimal discriminating power. Cases with 'earthly_mission' return reason  show 94.6% mission commission rate versus 5.8-29.5% for all other categories.
+
+
+**Source Chain**:
+1. [E] NDE Analysis Repository - volunteer_discriminant_analysis.ipynb
+2. [T] data/01_Consciousness_Studies/Empirical Validation of the Threefold Path Model.md
+
+**Connections**:
+- → `CONSC-014` (validates): Provides empirical validation for Threefold Path Model
+- → `CONSC-010` (supports): Earthly mission return strongly correlates with Volunteer profile
+- → `CONSC-052` (complements): Works with indicator hierarchy for classification
+
+---
+
+#### [CONSC-052] Pre-Birth Indicator Hierarchy: Predictive Power Ranking
+
+**Status**: validated | **Confidence**: unknown
+
+> Empirical ranking of pre-birth indicators by their discriminating power for  Volunteer Soul identification. Cases with explicit volunteer language show  dramatically elevated rates across all pre-birth indicators, with incarnation_choice  showing the highest ratio (74.9x) compared to non-volunteer cases.
+
+
+**Source Chain**:
+1. [E] NDE Analysis Repository - volunteer_discriminant_analysis.ipynb
+2. [T] data/01_Consciousness_Studies/Empirical Validation of the Threefold Path Model.md
+
+**Connections**:
+- → `CONSC-010` (validates): Provides empirical markers for Volunteer identification
+- → `CONSC-048` (supports): Shows which indicators best identify Ohkado pattern
+- → `CONSC-051` (complements): Works with return reason for classification
+- → `CONSC-050` (informs): Should guide COPET screening criteria
+
+---
+
+#### [CONSC-053] Soul Path Population Distribution: Empirical Estimates
+
+**Status**: validated | **Confidence**: unknown
+
+> Empirical population estimates for soul path classification based on analysis of  6,753 NDE accounts. The data suggest approximately 6% Volunteer (mission-oriented),  28% Ohkado (pre-birth awareness without trauma), 3% Restorative (cyclic return with  trauma markers), 1% Hybrid, and 62% Indeterminate.
+
+
+**Source Chain**:
+1. [E] NDE Analysis Repository - 6,753 NDE accounts
+2. [E] volunteer_discriminant_analysis.ipynb
+3. [E] ohkado_pattern_analysis.ipynb
+4. [T] data/01_Consciousness_Studies/Empirical Validation of the Threefold Path Model.md
+
+**Connections**:
+- → `CONSC-014` (validates): Provides empirical percentages for Threefold Path
+- → `CONSC-010` (supports): 6% Volunteer estimate consistent with rare but real population
+- → `CONSC-048` (validates): 28% Ohkado rate shows large non-cyclic population
+- → `CONSC-031` (refines): Updates earlier 11.5% Volunteer estimate to 6% with stricter criteria
+- → `CONSC-047` (contextualizes): 3% Restorative in NDEs vs dominance in DOPS shows selection bias
 
 ---
 

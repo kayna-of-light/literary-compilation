@@ -4,6 +4,38 @@
 
 This repository contains an extensive body of interconnected research synthesizing consciousness studies, Swedenborgian theology, biblical scholarship, and mythological analysis into a **unified post-materialist framework**. The goal is to compile these sources into a coherent, stable framework document.
 
+---
+
+## Methodological Stance
+
+This project operates from a specific epistemological position that agents must understand and maintain:
+
+### Swedenborg as Hypothesis, Not Revelation
+
+Swedenborg's theological writings are treated as **hypothesis to be tested**, not dogma to be defended. He proposed a systematic framework (correspondences, influx, regeneration) in 1758—before modern empirical tools existed. Now we have NDE databases, past-life memory research, statistical analysis tools, and historical-critical scholarship. We apply his hypothesis to this data and observe what happens.
+
+### Following Data, Not Ideology
+
+Both mainstream scientific materialism and traditional religious orthodoxy filter data to confirm pre-existing beliefs:
+
+- **Mainstream consciousness science** begins with the axiom that consciousness is produced by the brain. When NDEs show hyper-lucidity during flatline EEG or veridical perception during cardiac arrest, the data is dismissed—not because it's methodologically weak, but because it violates prior commitments.
+- **Religious orthodoxy** wants to see *their* miracles and ignores data that doesn't fit traditional narratives.
+
+**This project does neither.** We analyze empirical findings without filtering for "acceptable" conclusions. We don't seek mainstream approval. We don't defend orthodoxy. We follow the data.
+
+### The Core Observation
+
+When we apply Swedenborg's correspondential hypothesis to messy empirical data, **the noise vanishes**. Patterns emerge:
+- NDE imagery varies culturally, but functional outcomes converge (constant states, variable forms)
+- Past-life memory cases cluster around violent death (70%+)—the Restorative Incarnation hypothesis organizes this
+- Return reasons discriminate mission from non-mission with 94.6% accuracy
+
+Things don't fall into place by accident. When a hypothesis from 1758 organizes 21st-century data better than materialist models, that's a signal worth following.
+
+We don't have to understand *why* it works. We don't have to *like* the implications. We observe that patterns emerge that weren't visible before. That's how inquiry is supposed to work.
+
+---
+
 ### Core Thesis
 
 The framework employs a **two-tiered epistemology**:

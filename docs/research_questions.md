@@ -1757,7 +1757,7 @@ Critical analysis Section 3 and critical issues #11. Moderate priority—framewo
 | **NLM Domain** | 1 |
 | **GDR/NLM Combined** | 1 |
 
-**Last Updated**: 2025-12-30
+**Last Updated**: 2026-01-01
 
 ---
 

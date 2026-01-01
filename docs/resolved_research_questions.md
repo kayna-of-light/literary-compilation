@@ -1068,19 +1068,97 @@ The data shows:
 
 ---
 
+### [GDR] Spontaneous Healing/Remission: Spiritual Transformation as Causal Precursor
+
+**Target**: `[GDR]`  
+**Status**: ✅ RESOLVED  
+**Date Added**: 2026-01-01  
+**Date Resolved**: 2026-01-01  
+**Priority**: HIGH  
+**Related Nodes**: CONSC-054, SWED-003, CONSC-034
+
+**Context**:
+The correspondential framework posits that the natural plane is the *effect* of the spiritual plane — body is soul expressed in ultimates, not a container the soul inhabits. This question tested whether physical ailments correspond to spiritual states, and whether healing the spiritual cause resolves the physical effect.
+
+**CRITICAL ONTOLOGICAL FRAMING:**
+This research explicitly rejected Cartesian dualism. The question was NOT "can mind influence body?" (assumes two separate things). Under correspondential ontology, body and soul are one reality at different degrees — when spiritual state changes, physical expression must follow because they are the SAME EVENT at different levels.
+
+**RESOLUTION:**
+Comprehensive analysis completed in `data/01_Consciousness_Studies/Spiritual Transformation and Healing - Correspondential Analysis.md` (Gemini Deep Research).
+
+**Key Findings:**
+
+| Finding | Evidence | Implication |
+|---------|----------|-------------|
+| **Causal Sequence Confirmed** | 7/9 Radical Remission factors are psycho-spiritual; shift precedes biological turnaround | Spiritual transformation is primary |
+| **Disease-Spirit Specificity** | Cancer↔proprium, autoimmune↔self-attack, heart↔closed will | Correspondences are systematic, not random |
+| **Placebo Transcendence** | Magnitude exceeds placebo (tissue regeneration, tumor disappearance in days) | Stronger force than expectancy alone |
+| **Bidirectional Validation** | With DOPS birthmarks: trauma→mark + resolution→healing | Complete correspondence evidence |
+
+**Evidence Sources Synthesized:**
+
+1. **Radical Remission (Turner)**: >1,500 cancer recoveries. 7/9 key factors psycho-spiritual (release emotions, intuition, social support, spiritual connection, purpose). Temporal sequence: spiritual shift precedes biological turnaround.
+
+2. **NDE Healing Cases**:
+   - *Anita Moorjani*: Stage IV lymphoma, organ failure → 70% tumor reduction in 4 days after NDE love-immersion. "Cancer cannot exist in my body" once spiritual identity shifted.
+   - *Eben Alexander*: E. coli meningitis, neocortex shutdown → complete recovery after "Core" encounter. Impossible per medical models.
+
+3. **Lourdes Medical Bureau**: Verified "inexplicable" cures (Gargam: paralysis → walked during Eucharist; De Rudder: 3cm bone gap → instantaneous regrowth). Defy biological timelines.
+
+**Disease Correspondences Validated:**
+
+| Disease | Spiritual State | Biological Manifestation | Healing Path |
+|---------|----------------|-------------------------|--------------|
+| **Cancer** | Proprium (ego separation from Divine) | Cell ignores organism, unicellular survival mode | Forgiveness, reconnection |
+| **Autoimmune** | Self-attack, guilt, inner war | Loss of self/non-self distinction | Self-acceptance |
+| **Heart Disease** | Hardened heart, closed will | Blockages, ischemia | Opening to love |
+
+**Counter-Cases Addressed:**
+
+| Counter-Case | Response |
+|--------------|----------|
+| **Holy but sick (Ram Dass, etc.)** | Death ≠ healing failure. Distinction: *Healing* (spiritual wholeness) vs. *Curing* (physical function). Can be Healed but not Cured. Disease may be "fierce grace" for deeper work. |
+| **Atheist healing** | Charity/Love is primary, not Faith/Doctrine. Atheist living in forgiveness is spiritually "open" even if intellectually denying Source. Healing via Will (Heart), not Understanding (Head). |
+| **Infant/comatose healing** | "Sphere of intercession" — collective spiritual will provides external vessel for influx until patient's system can receive directly. |
+
+**Bidirectional Validation with DOPS:**
+- **DOPS birthmarks**: Spiritual trauma → physical mark (negative direction)
+- **Healing data**: Spiritual resolution → physical healing (positive direction)
+- **Together**: Complete bidirectional evidence for body = soul in ultimates
+
+**Knowledge Graph Impact:**
+- Created CONSC-054: "Spontaneous Remission: Spiritual Transformation Precedes Physical Healing"
+- Validates SWED-003: Correspondence doctrine empirically confirmed
+- Complements CONSC-034: Bidirectional evidence complete
+
+**Conclusion:**
+> "The hypothesis is **Supported**. Spiritual transformation is a causal precursor to spontaneous remission, provided 'spiritual' is defined not as religious adherence, but as a fundamental reorganization of the individual's ruling love and relationship to the Whole. The body acts as the faithful 'ultimate,' manifesting the reality of the soul in real-time."
+
+**Source Chain:**
+1. `[T]` data/01_Consciousness_Studies/Spiritual Transformation and Healing - Correspondential Analysis.md
+2. `[S]` Turner, K., "Radical Remission: Surviving Cancer Against All Odds"
+3. `[E]` Moorjani, A., "Dying to Be Me" (2012)
+4. `[E]` Alexander, E., "Proof of Heaven" (2012)
+5. `[W]` Lourdes Medical Bureau archives
+6. `[S]` Schilder et al., "Psychological Changes Preceding Spontaneous Remission"
+7. `[P]` Swedenborg, correspondences doctrine
+
+---
+
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 16 |
+| **Total Resolved** | 17 |
 | **NDE Domain** | 10 |
 | **SWED Domain** | 3 |
 | **CROSS Domain** | 1 |
 | **EARLY Domain** | 1 |
 | **GNOS Domain** | 1 |
+| **GDR Domain** | 1 |
 | **Critical Priority** | 2 |
-| **High Priority** | 6 |
+| **High Priority** | 7 |
 | **Medium Priority** | 7 |
 | **Low Priority** | 1 |
 
-**Last Updated**: 2025-12-31
+**Last Updated**: 2026-01-01

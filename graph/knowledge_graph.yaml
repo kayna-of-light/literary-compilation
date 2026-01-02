@@ -13223,6 +13223,366 @@ extended_nodes:
     updated: 2025-12-29
     trace_status: complete
 
+  # ===========================================================================
+  # SWED-044 to SWED-047: Will-Understanding Dynamics & Healing Framework
+  # Added 2026-01-02 from Spontaneous Remission Research
+  # ===========================================================================
+
+  SWED-044:
+    title: "Will-Understanding Ontological Priority"
+    domain: SWED
+    status: validated
+    confidence: high
+    
+    definition: >
+      In Swedenborg's psychological ontology, the Will is causally prior to the 
+      Understanding—not merely parallel to it. The Will (love, affection, intention) 
+      is the ESSE (being); the Understanding (thought, cognition, rationality) is the 
+      EXISTERE (existence) derived from it. "The will leads and the understanding 
+      follows" (DLW §397). This is NOT Cartesian faculty psychology where will and 
+      intellect are co-equal; rather, the understanding is the FORM through which 
+      the will manifests, as heat manifests through light. All thought is ultimately 
+      driven by love; what we think about depends on what we love.
+    
+    key_principles:
+      esse_existere: >
+        The will is the 'esse' (being/substance) of the mind; the understanding is 
+        its 'existere' (existence/form). Just as existence presupposes being, 
+        understanding presupposes will. (DLW §§409-411)
+      love_produces_thought: >
+        Love (will) produces thought (understanding), never the reverse. We think 
+        about what we love; we do not love because we think. The will initiates; 
+        the understanding receives and shapes. (DLW §§395-397)
+      heat_light_analogy: >
+        As heat corresponds to will and light to understanding in the spiritual world, 
+        the relationship is causal: heat (will/love) produces light (understanding/truth), 
+        not vice versa. (DLW §§83-90)
+      therapeutic_implication: >
+        Healing begins in the will, not the understanding. Intellectual acceptance of 
+        truth is insufficient; the will must be moved. This explains why "believing" 
+        doesn't heal but "surrendering" does.
+    
+    caveats:
+      - "Validated as accurate representation of Swedenborgian doctrine"
+      - "Not claiming empirical proof of metaphysical priority"
+      - "The priority is logical/causal, not temporal"
+    
+    source_chain:
+      - type: P
+        ref: "Swedenborg, Divine Love and Wisdom §§395-397"
+        note: "Love produces thought; will leads, understanding follows"
+      - type: P
+        ref: "Swedenborg, Divine Love and Wisdom §§409-411"
+        note: "Will is esse, understanding is existere"
+      - type: P
+        ref: "Swedenborg, Arcana Coelestia §3619"
+        note: "Will is inmost; understanding is external manifestation"
+      - type: P
+        ref: "Swedenborg, Arcana Coelestia §9995"
+        note: "Will constitutes life; understanding receives that life"
+      - type: T
+        ref: "data/02_Swedenborgian_Theology/Correspondential Framework for Illness and Healing.md"
+        note: "Application to healing dynamics"
+    
+    evidence:
+      - "DLW §397: 'The will leads and the understanding follows'"
+      - "DLW §409: 'Will is the esse of man's life'"
+      - "DLW §410: 'Understanding is the existere of life from that esse'"
+      - "AC §3619: 'Will is inmost of man; understanding is external by which internal manifests'"
+    
+    connections:
+      - target: SWED-045
+        type: requires
+        note: "Priority of will grounds the vulnerability (receptive) model"
+      - target: SWED-047
+        type: supports
+        note: "True healing requires will transformation, not just understanding"
+      - target: CONSC-054
+        type: explains
+        note: "Why surrender (will) heals when knowledge alone does not"
+      - target: CROSS-003
+        type: instantiates
+        note: "Ruling love (will) determines life trajectory"
+    
+    created: 2026-01-02
+    updated: 2026-01-02
+    trace_status: complete
+
+  SWED-045:
+    title: "Will as Receptive, Not Productive (Vulnerability Model)"
+    domain: SWED
+    status: validated
+    confidence: high
+    
+    definition: >
+      The human will does not autonomously PRODUCE evils and falsities; it RECEIVES 
+      them from external spiritual sources when it opens itself to them through love 
+      of self. This is the "vulnerability model" of illness: the will is a gate that 
+      opens toward heaven or toward hell, and what flows in depends on its orientation. 
+      Illness arises not because the body generates disease, but because a will 
+      oriented toward falsity becomes vulnerable to influx from disordered spiritual 
+      sources. The body, as correspondence of the soul, then manifests this disorder. 
+      This contrasts with the "direct causation model" where the self is seen as 
+      source of its own evils.
+    
+    key_principles:
+      gate_metaphor: >
+        The will opens or closes to spiritual influences. "Evil flows in from hell, 
+        but only when man's interiors are open toward hell" (HH §547). The will 
+        doesn't create evil; it consents to receive it.
+      source_of_falsity: >
+        "Evil and falsity are not from the Lord but from man... Man receives them 
+        by turning his will from the Divine" (DLW §§269-270). The turning is the 
+        will's action; the falsities are what flows in after.
+      therapeutic_implication: >
+        Healing involves closing the gate toward falsity and opening toward truth—
+        this is what "surrender" accomplishes. The will reorients its receptivity.
+      illness_as_infiltration: >
+        Disease is not punishment but infiltration—the natural consequence of a 
+        will opened to disorder. The body (ultimate of soul) manifests this.
+    
+    contrast_with_materialism:
+      materialist_model: "Body produces disease through mechanical/genetic factors"
+      correspondential_model: "Will's orientation determines vulnerability to influx"
+      therapeutic_difference: "Treat the will (spiritual reorientation), not just body"
+    
+    caveats:
+      - "Validated as accurate representation of Swedenborgian doctrine"
+      - "Does not deny proximate physical causation (microbes, toxins)"
+      - "Spiritual vulnerability model operates at causal level above physical"
+    
+    source_chain:
+      - type: P
+        ref: "Swedenborg, Heaven and Hell §547"
+        note: "Evil flows in from hell when interiors are open toward it"
+      - type: P
+        ref: "Swedenborg, Divine Love and Wisdom §§269-270"
+        note: "Evil not from Lord but received when will turns from Divine"
+      - type: P
+        ref: "Swedenborg, Arcana Coelestia §6657"
+        note: "Falsities enter understanding through evil will"
+      - type: P
+        ref: "Swedenborg, Divine Providence §287"
+        note: "Receptive nature of human mind"
+      - type: T
+        ref: "data/02_Swedenborgian_Theology/Correspondential Framework for Illness and Healing.md"
+        note: "Application to healing dynamics"
+    
+    evidence:
+      - "HH §547: 'Evil flows in from hell, but only when man's interiors are open toward hell'"
+      - "DLW §270: 'Man receives evils by turning his will from the Divine'"
+      - "AC §6657: 'Falsities do not exist in understanding except from an evil will'"
+    
+    connections:
+      - target: SWED-044
+        type: required_by
+        note: "Will's priority grounds its role as gate to influx"
+      - target: SWED-046
+        type: supports
+        note: "Organ correspondence = where vulnerability manifests"
+      - target: SWED-005
+        type: develops
+        note: "Proprium as mechanism of self-ward turning"
+      - target: CONSC-054
+        type: explains
+        note: "Why surrender heals: reorientation of will's receptivity"
+    
+    created: 2026-01-02
+    updated: 2026-01-02
+    trace_status: complete
+
+  SWED-046:
+    title: "Organ-Faculty Correspondence Hypothesis"
+    domain: SWED
+    status: preliminary
+    confidence: low
+    
+    definition: >
+      HYPOTHESIS: Specific organ systems correspond to specific spiritual faculties, 
+      such that disorders of the faculty create vulnerability in the corresponding 
+      organ. This extends Swedenborg's documented heart-will / lungs-understanding 
+      correspondence to other organ systems. The hypothesis is TESTABLE through 
+      systematic analysis of disease-transformation correlations: if digestive 
+      disorders correlate with difficulties processing/integrating truth, and healing 
+      correlates with resolution of those difficulties, the hypothesis gains support.
+    
+    proposed_correspondences:
+      heart_cardiovascular:
+        faculty: "Will / Love / Affection"
+        basis: "Explicitly documented in Swedenborg (DLW §§399-408)"
+        confidence: high
+        testable_prediction: "Heart disease correlates with hardened/closed will"
+      lungs_respiratory:
+        faculty: "Understanding / Truth reception"
+        basis: "Explicitly documented in Swedenborg (DLW §§412-415)"
+        confidence: high
+        testable_prediction: "Respiratory illness correlates with blocked truth reception"
+      digestive_system:
+        faculty: "Truth processing / Integration of knowledge"
+        basis: "Swedenborg compares digestion to spiritual 'processing' (AC §§5173-5177)"
+        confidence: medium
+        testable_prediction: "Digestive disorders correlate with inability to integrate truth"
+      reproductive_system:
+        faculty: "Creative faculty / Conjugial love / Generativity"
+        basis: "Swedenborg's conjugial love doctrine (AC §§5050-5062)"
+        confidence: medium
+        testable_prediction: "Reproductive disorders correlate with blocked generativity/creativity"
+      nervous_system:
+        faculty: "Perception / Discernment / Judgment"
+        basis: "Inference from correspondence logic (DLW §§365-367)"
+        confidence: low
+        testable_prediction: "Neurological disorders correlate with confused discernment"
+    
+    testability:
+      method: >
+        Correlational analysis of disease type vs. transformation type in healing cases.
+        If liver disease patients heal through "purification/release" transformations more 
+        than through "creativity" transformations, while reproductive disorder patients 
+        show the opposite pattern, the correspondence gains support.
+      current_data: >
+        Insufficient cases in current 569-case dataset to test organ-specific correspondences.
+        Research question logged for future data collection.
+      falsifiability: >
+        If transformation type shows NO correlation with disease type, or correlations 
+        contradict predictions, hypothesis is falsified or requires revision.
+    
+    caveats:
+      - "PRELIMINARY HYPOTHESIS—not validated claim"
+      - "Heart-will and lung-understanding have textual support; others are extrapolations"
+      - "Physical etiology (microbes, genetics, toxins) operates at proximate level"
+      - "Correspondence operates at causal level—both can be true simultaneously"
+      - "Ethical caveat: Never use to blame patients for their illness"
+    
+    source_chain:
+      - type: P
+        ref: "Swedenborg, Divine Love and Wisdom §§399-415"
+        note: "Heart-will, lung-understanding correspondence (primary)"
+      - type: P
+        ref: "Swedenborg, Arcana Coelestia §§5173-5177"
+        note: "Digestion as spiritual processing"
+      - type: P
+        ref: "Swedenborg, Arcana Coelestia §§5050-5062"
+        note: "Visceral correspondences"
+      - type: T
+        ref: "data/02_Swedenborgian_Theology/Correspondential Framework for Illness and Healing.md"
+        note: "Hypothesis formulation"
+    
+    evidence:
+      - "DLW §§399-408: Heart corresponds to will (explicit Swedenborg)"
+      - "DLW §§412-415: Lungs correspond to understanding (explicit Swedenborg)"
+      - "AC §§5174-5175: Digestion corresponds to spiritual processing"
+      - "Qualitative cancer-proprium pattern in healing data (preliminary)"
+    
+    connections:
+      - target: SWED-003
+        type: develops
+        note: "Extends general correspondence doctrine to specific organs"
+      - target: SWED-045
+        type: supported_by
+        note: "Vulnerability model provides mechanism for how disorders manifest"
+      - target: CONSC-054
+        type: develops
+        note: "Extends healing node with testable organ-specific predictions"
+    
+    research_questions:
+      - "Does disease category predict transformation modality in healing cases?"
+      - "Can we replicate Swedenborg's visceral correspondences empirically?"
+      - "What sample size needed for organ-specific analysis?"
+    
+    created: 2026-01-02
+    updated: 2026-01-02
+    trace_status: complete
+
+  SWED-047:
+    title: "True Healing vs Physical Healing (Normative Definition)"
+    domain: SWED
+    status: validated
+    confidence: high
+    
+    definition: >
+      NORMATIVE DEFINITION within the correspondential framework: "True Healing" is 
+      spiritual transformation—the reorientation of the will toward the Divine and 
+      the integration of the understanding with truth. "Physical Healing" (curing) 
+      is the reorganization of the body's ultimates. True Healing may or may not 
+      produce Physical Healing; Physical Healing without True Healing is superficial 
+      and temporary. Death is NOT a failure of healing—it is the shedding of what 
+      was never truly the person (the natural body), leaving the spiritual body whole. 
+      This reframes therapeutic goals: the aim is True Healing, of which physical 
+      cure is a frequent but not guaranteed correlate.
+    
+    key_distinctions:
+      true_healing: >
+        Spiritual transformation: will reoriented toward love, understanding aligned 
+        with truth, integration of the whole person. Can occur with or without cure.
+      physical_cure: >
+        Biological function restored. Can occur with or without True Healing (though 
+        statistical evidence suggests True Healing dramatically increases probability).
+      failure_reframe: >
+        A person who dies after True Healing has NOT failed—they have completed their 
+        development and shed the natural body. A person who is physically cured 
+        without True Healing remains spiritually disordered.
+    
+    therapeutic_implications:
+      palliative_care: "Hospice patients can achieve True Healing without cure"
+      chronic_illness: "Living with disease may be vehicle for spiritual development"
+      miraculous_cure: "Physical cure is sign of True Healing, not the goal itself"
+      death_acceptance: "Death as completion, not defeat"
+    
+    swedenborg_basis:
+      death_teaching: >
+        "The body that is left behind at death is like the shell that was used in 
+        the natural world but is no longer needed" (inference from HH §§461-469, 493-496)
+      spiritual_body: >
+        After death, "man puts off the natural body and retains the spiritual body" 
+        (HH §493). The spiritual body IS the person; the natural body was borrowed.
+      vastation: >
+        The process of "vastation" (HH §§494-496) strips away external falsities, 
+        leaving only what is truly internal. This IS True Healing at its completion.
+    
+    caveats:
+      - "This is a NORMATIVE definition within the framework, not an empirical claim"
+      - "Does not diminish value of physical healing or medical treatment"
+      - "The framework does not counsel abandoning medical care"
+      - "Not intended to rationalize avoidable suffering"
+    
+    source_chain:
+      - type: P
+        ref: "Swedenborg, Heaven and Hell §§461-469"
+        note: "Process of dying and spirit separating from body"
+      - type: P
+        ref: "Swedenborg, Heaven and Hell §§493-496"
+        note: "Spiritual body retained; vastation process"
+      - type: P
+        ref: "Swedenborg, Arcana Coelestia §10591"
+        note: "External aspects laid aside in death"
+      - type: P
+        ref: "Swedenborg, True Christian Religion §792"
+        note: "Death as continuation of life"
+      - type: T
+        ref: "data/02_Swedenborgian_Theology/Correspondential Framework for Illness and Healing.md"
+        note: "Normative framework application"
+    
+    evidence:
+      - "HH §461: Death occurs when body can no longer function in natural world"
+      - "HH §493: 'After death, man puts off the natural body and retains the spiritual body'"
+      - "HH §494-496: Vastation = stripping away external falsities"
+      - "TCR §792: 'Death is nothing other than a continuation of life'"
+    
+    connections:
+      - target: SWED-044
+        type: required_by
+        note: "Will transformation is content of True Healing"
+      - target: CONSC-054
+        type: contextualizes
+        note: "Reframes 'miraculous healing' as True Healing made visible"
+      - target: CONSC-004
+        type: supports
+        note: "Death as transition supports consciousness primacy"
+    
+    created: 2026-01-02
+    updated: 2026-01-02
+    trace_status: complete
+
   MYTH-017:
     title: "Dispensational Animal Sequence (Bull→Sheep→Bull)"
     domain: MYTH
@@ -14127,7 +14487,28 @@ extended_nodes:
           Infants/comatose healed via "sphere of intercession" — collective spiritual 
           will of others provides external vessel for influx until patient's system takes over.
     
+    statistical_analysis:
+      dataset: "569 spontaneous remission cases (350 PMC clinical, 219 testimonial)"
+      transformation_temporal_ordering:
+        finding: "85.5% showed transformation preceding healing in clear temporal cases"
+        sample: "n=138 (subset with clear temporal ordering from 219 testimonial)"
+        statistic: "χ² = 69.59, p < 0.001"
+        caveats: "Selection bias, retrospective self-report, no causal inference claimed"
+      surrender_correlation:
+        finding: "100% transformation with surrender vs 90.1% without"
+        sample: "n=58 surrender cases out of 219 testimonial"
+        statistic: "Fisher's exact p = 0.008"
+        note: "Potential definitional overlap between 'surrender' and 'transformation'"
+      turner_factor_prevalence:
+        psychological_dominant: "78.5% report spiritual connection"
+        secondary_factors: "Releasing emotions 71.2%, Taking control 68.9%"
+        physical_factors: "Diet change 39.7%, Supplements 31.1%"
+        note: "Prevalence reflects what survivors report, not necessarily causal weights"
+    
     source_chain:
+      - type: T
+        ref: "data/01_Consciousness_Studies/Psycho-Spiritual Transformation and Spontaneous Remission.md"
+        note: "Statistical analysis of 569 cases with χ² validation (2026)"
       - type: T
         ref: "data/01_Consciousness_Studies/Spiritual Transformation and Healing - Correspondential Analysis.md"
         note: "Primary analysis document synthesizing all sources"
@@ -14151,6 +14532,8 @@ extended_nodes:
         note: "Theoretical framework for body = soul in ultimates"
     
     evidence:
+      - "85.5% transformation-first in clear temporal cases (n=138, χ² = 69.59, p < 0.001)"
+      - "100% transformation with surrender vs 90.1% without (p = 0.008)"
       - "7/9 Radical Remission factors are psycho-spiritual (Turner)"
       - "Spiritual shift precedes biological turnaround in documented cases"
       - "NDE healing shows near-instantaneous tissue reorganization after spiritual 'reset'"

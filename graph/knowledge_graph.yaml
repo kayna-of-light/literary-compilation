@@ -1058,13 +1058,18 @@ nodes:
       - target: GNOS-012
         type: reveals
         note: "Modern channeling reveals contemporary proprium"
+      - target: CROSS-008
+        type: developed_by
+        note: "Hemispheric disconnection CORRESPONDS TO proprium (natural expression of spiritual reality)"
     
     notes: >
       Critical diagnostic concept. "The heart of evil perceives itself as good."
-      All evil in constant conflict with itself.
+      All evil in constant conflict with itself. Key insight (CROSS-008): hemispheric 
+      disconnection is not the proprium but its CORRESPONDENT—the natural plane 
+      expression of the will's turning from Divine. Physical expresses spiritual.
     
     created: 2024-12-27
-    updated: 2024-12-27
+    updated: 2026-01-02
     trace_status: complete
 
   SWED-006:
@@ -7015,20 +7020,25 @@ nodes:
       - target: CONSC-017
         type: complements
         note: "NDE framework operates within Master's holistic perception"
+      - target: CROSS-008
+        type: developed_by
+        note: "Hemispheric model mapped to Swedenborg's will/understanding"
     
     notes: >
       "Central insight: The framework's core tension (love of self vs. love of neighbor)
-      is NEUROLOGICALLY INSTANTIATED in hemispheric competition. The 'ruling love' =
+      is NEUROLOGICALLY EXPRESSED in hemispheric competition. The 'ruling love' =
       which hemisphere guides the integration. The proprium's resistance = Emissary's
-      confabulation and self-validation. Regeneration = training the brain for Master-
-      guided integration. The corpus callosum's small posterior fibers maintaining
-      integration despite damage suggests 'quality of connection' matters more than
-      quantity—resonates with Swedenborgian emphasis on affection (quality) over
-      intellect (quantity). Wheeler's 'participatory universe' aligns with Swedenborg's
-      assertion that reality is SUSTAINED by continuous influx, not pre-existing independently."
+      confabulation and self-validation (natural correspondent of spiritual state).
+      Regeneration = training the brain for Master-guided integration. The corpus 
+      callosum's small posterior fibers maintaining integration despite damage suggests 
+      'quality of connection' matters more than quantity—resonates with Swedenborgian 
+      emphasis on affection (quality) over intellect (quantity). Wheeler's 'participatory 
+      universe' aligns with Swedenborg's assertion that reality is SUSTAINED by continuous 
+      influx, not pre-existing independently. CROSS-008 refines: hemispheric disconnection 
+      CORRESPONDS TO the proprium—natural expression of spiritual reality, not identity."
     
     created: 2024-12-28
-    updated: 2024-12-28
+    updated: 2026-01-02
     trace_status: complete
 
   CONSC-019:
@@ -10528,6 +10538,188 @@ nodes:
     
     created: 2025-12-29
     updated: 2025-12-29
+    trace_status: complete
+
+  # ===========================================================================
+  # CROSS-008: Hemispheric-Faculty Correspondence
+  # Added 2026-01-02 from McGilchrist-Swedenborg integration analysis
+  # ===========================================================================
+
+  CROSS-008:
+    title: "Hemispheric-Faculty Correspondence (Will/Understanding = Master/Emissary)"
+    domain: CROSS
+    status: validated
+    confidence: high
+    
+    definition: >
+      Swedenborg's will-understanding faculty psychology finds its natural correspondent 
+      in McGilchrist's hemispheric model: the RIGHT HEMISPHERE corresponds to the WILL 
+      (love, affection, relational perception), and the LEFT HEMISPHERE corresponds to 
+      the UNDERSTANDING (thought, analysis, representational cognition). Per the doctrine 
+      of correspondences, the physical brain does not CAUSE spiritual states—it EXPRESSES 
+      them. The hemispheres are the natural plane manifestation ("body of effects") of 
+      spiritual faculties ("soul of causes"). Neither hemisphere is inherently pathological; 
+      both are necessary. Hemispheric disconnection—the Emissary's usurpation—is the 
+      CORRESPONDENT of the proprium: it is how the proprium (the will's turning from 
+      Divine toward self) manifests in ultimates (the physical brain).
+    
+    correspondential_framework:
+      principle: >
+        Physical and spiritual are not two disconnected realms. All physical things 
+        are expressions of spiritual realities. The brain does not produce consciousness; 
+        it corresponds to it. Hemispheric states do not cause spiritual states; they 
+        manifest them in the natural plane.
+      application: >
+        Right hemisphere function CORRESPONDS TO the will's mode of perceiving through 
+        love. Left hemisphere function CORRESPONDS TO the understanding's mode of 
+        perceiving through light/analysis. Hemispheric disconnection CORRESPONDS TO 
+        the proprium—the spiritual state where understanding divorces from will.
+      caution: >
+        To say hemispheric disconnection IS the proprium would be materialism. To say 
+        they are unrelated would be dualism. The correspondential view: the physical 
+        EXPRESSES the spiritual; they are one reality perceived at different levels.
+    
+    structural_correspondence:
+      right_hemisphere_will:
+        swedenborg: "The receptacle of the affections or the will (SD)"
+        mcgilchrist: "The Master—holistic, relational, embodied, empathic"
+        function: "Perceives through love; does not reason about truth but lives it"
+        inhabitants: "Angels who are in the good of love"
+      left_hemisphere_understanding:
+        swedenborg: "The intellectual principle; truths of faith (SD)"
+        mcgilchrist: "The Emissary—analytical, representational, decontextualizing"
+        function: "Perceives through light; communicates truth clearly"
+        inhabitants: "Spirits characterized by their light"
+      proper_integration:
+        swedenborg: "Will leads and understanding follows (DLW §397)"
+        mcgilchrist: "Master guides, Emissary serves"
+        result: "Living truth—understanding animated by love"
+    
+    proprium_correspondence:
+      spiritual_reality: >
+        The proprium is a SPIRITUAL state: the will's turning from Divine toward self, 
+        claiming autonomous authority apart from influx. It is the "love of self" that 
+        perceives itself as good and seeks to suffocate all else.
+      natural_correspondent: >
+        Hemispheric disconnection—the Emissary's usurpation of the Master's role—is 
+        the NATURAL PLANE EXPRESSION of the proprium. When we observe the left hemisphere 
+        claiming autonomy, confabulating, mistaking its map for the territory, we are 
+        seeing the proprium's correspondent in ultimates.
+      not_identity: >
+        The proprium is NOT hemispheric disconnection (that would be materialism). 
+        Hemispheric disconnection is not separate from the proprium (that would be dualism). 
+        They are one reality: spiritual cause, natural effect. The brain EXPRESSES 
+        what the soul IS.
+      corpus_callosum: >
+        McGilchrist notes the corpus callosum is primarily INHIBITORY—allowing 
+        specialization. Dysfunction in integration CORRESPONDS TO the proprium's 
+        severing of understanding from will at the spiritual level.
+      fatuous_light: >
+        Swedenborg's term for intellect without love. The Understanding HAS light, 
+        but divorced from Will's warmth (love), it becomes cold, sterile, self-referential. 
+        This spiritual state MANIFESTS neurologically as left-hemisphere dominance 
+        operating on representations divorced from lived context.
+    
+    neurological_validation:
+      swedenborg_1758: >
+        "The right hemisphere is the receptacle of the affections or the will... 
+        angels who are in the good of love. They do not reason about faith; they 
+        perceive it through love." (Spiritual Diary)
+      mcgilchrist_2009: >
+        "The right hemisphere perceives the world holistically, relationally, 
+        contextually—experiencing flow, presence, and embodied connection."
+      convergence: >
+        A metaphysical claim from 1758 independently validated by neuroimaging 
+        and hemispheric lateralization research 250 years later.
+    
+    therapeutic_implications:
+      healing_pathway: >
+        Healing (regeneration) requires reconnection—restoring the proper relationship 
+        where Will leads and Understanding follows. This is not suppression of intellect 
+        but its reintegration with affection.
+      contemplative_practice: >
+        MBSR and CCT work precisely by strengthening integration pathways (corpus callosum 
+        function) and shifting from left-hemisphere dominance to balanced cooperation.
+      surrender_mechanism: >
+        "Surrender" in spontaneous remission cases = the Understanding relinquishing 
+        autonomous claims and reopening to Will's guidance. The Emissary remembers 
+        it is servant, not master.
+    
+    caveats:
+      - "Hemispheric lateralization is relative, not absolute"
+      - "Swedenborg's anatomical knowledge was 18th century"
+      - "McGilchrist's model contested by some neuroscientists"
+      - "Correspondence is structural/functional, not literal identification"
+    
+    source_chain:
+      - type: P
+        ref: "Swedenborg, Spiritual Diary (Experientiae Spirituales)"
+        note: "Right hemisphere = will/affections; Left = intellectual principle"
+      - type: T
+        ref: "data/02_Swedenborgian_Theology/Divine Human Anatomy and Spiritual Correspondence.md"
+        note: "Detailed hemispheric-faculty mapping"
+      - type: P
+        ref: "Swedenborg, Divine Love and Wisdom §397"
+        note: "Will leads, understanding follows"
+      - type: S
+        ref: "McGilchrist, The Master and His Emissary (2009)"
+        note: "Hemispheric asymmetry model"
+      - type: T
+        ref: "data/01_Consciousness_Studies/Brain, Myth, and Conscious Choice.md"
+        note: "Full McGilchrist synthesis"
+    
+    evidence:
+      - "SD: Right hemisphere = 'receptacle of affections or will'"
+      - "SD: Left hemisphere = 'intellectual principle... truths of faith'"
+      - "SD: 'Angels of right brain perceive through love, not reasoning'"
+      - "McGilchrist: Right = holistic, embodied, relational; Left = analytical, abstract"
+      - "DLW §397: 'Will leads and understanding follows'"
+      - "Corpus callosum primarily inhibitory—'bridge that divides'"
+    
+    connections:
+      - target: SWED-044
+        type: instantiates
+        note: "Will-Understanding priority neurologically grounded"
+      - target: SWED-045
+        type: supports
+        note: "Will as receptive—right hemisphere receives through love"
+      - target: SWED-005
+        type: develops
+        note: "Proprium = disconnection, not a hemisphere"
+      - target: CONSC-006
+        type: develops
+        note: "Integrates McGilchrist model with Swedenborgian psychology"
+      - target: CONSC-011
+        type: develops
+        note: "Divided Brain thesis mapped to faculty psychology"
+      - target: CONSC-013
+        type: develops
+        note: "Master/Emissary = Will/Understanding"
+      - target: CONSC-018
+        type: develops
+        note: "Hemispheric Integration Model validated by Swedenborg"
+      - target: CONSC-007
+        type: supports
+        note: "Neuroplasticity enables reconnection (regeneration)"
+      - target: CONSC-054
+        type: explains
+        note: "Surrender = Understanding yielding to Will"
+    
+    notes: >
+      This node exemplifies the correspondential method itself. Swedenborg's 18th-century 
+      faculty psychology—will as primary, understanding as derivative—finds its natural 
+      correspondent in 21st-century hemispheric lateralization research. The key insight: 
+      hemispheric disconnection is not the proprium but its CORRESPONDENT—the natural 
+      plane expression of a spiritual reality. The proprium (spiritual) manifests AS 
+      hemispheric usurpation (natural). They are not two things but one reality perceived 
+      at different levels. This preserves both: (1) the causal priority of the spiritual, 
+      and (2) the legitimacy of neuroscience as describing correspondents in ultimates. 
+      Neither materialism (brain causes spirit) nor dualism (brain and spirit unrelated). 
+      Healing/regeneration at spiritual level EXPRESSES AS hemispheric reintegration 
+      at natural level—same process, different planes of description.
+    
+    created: 2026-01-02
+    updated: 2026-01-02
     trace_status: complete
 
 # =============================================================================
@@ -14287,7 +14479,7 @@ extended_nodes:
         type: complements
         note: "Works with return reason for classification"
       - target: CONSC-050
-        type: informs
+        type: supports
         note: "Should guide COPET screening criteria"
     
     notes: >
@@ -14377,7 +14569,7 @@ extended_nodes:
         type: validates
         note: "28% Ohkado rate shows large non-cyclic population"
       - target: CONSC-031
-        type: refines
+        type: develops
         note: "Updates earlier 11.5% Volunteer estimate to 6% with stricter criteria"
       - target: CONSC-047
         type: contextualizes

@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-02 09:40*
+*Last exported: 2026-01-02 10:31*
 
 ---
 
@@ -10,19 +10,19 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 178 |
+| Total Nodes | 179 |
 | Total Connections | 444 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 164
+- **validated**: 165
 - **preliminary**: 9
 - **contested**: 5
 
 ### By Domain
 
-- **Cross-Domain** (CROSS): 7
+- **Cross-Domain** (CROSS): 8
 - **Consciousness Studies** (CONSC): 54
 - **Swedenborgian Theology** (SWED): 46
 - **Biblical Scholarship** (BIBL): 20
@@ -429,6 +429,7 @@
 - → `CONSC-002` (develops): Neuroplasticity as mechanism for CDE hypothesis
 - → `SWED-008` (parallels): Regeneration as progressive hemispheric integration at spiritual level
 - → `CONSC-017` (complements): NDE framework operates within Master's holistic perception
+- → `CROSS-008` (developed_by): Hemispheric model mapped to Swedenborg's will/understanding
 
 ---
 
@@ -1098,7 +1099,7 @@
 - → `CONSC-010` (validates): Provides empirical markers for Volunteer identification
 - → `CONSC-048` (supports): Shows which indicators best identify Ohkado pattern
 - → `CONSC-051` (complements): Works with return reason for classification
-- → `CONSC-050` (informs): Should guide COPET screening criteria
+- → `CONSC-050` (supports): Should guide COPET screening criteria
 
 ---
 
@@ -1119,7 +1120,7 @@
 - → `CONSC-014` (validates): Provides empirical percentages for Threefold Path
 - → `CONSC-010` (supports): 6% Volunteer estimate consistent with rare but real population
 - → `CONSC-048` (validates): 28% Ohkado rate shows large non-cyclic population
-- → `CONSC-031` (refines): Updates earlier 11.5% Volunteer estimate to 6% with stricter criteria
+- → `CONSC-031` (develops): Updates earlier 11.5% Volunteer estimate to 6% with stricter criteria
 - → `CONSC-047` (contextualizes): 3% Restorative in NDEs vs dominance in DOPS shows selection bias
 
 ---
@@ -1293,6 +1294,7 @@
 - → `GNOS-009` (reveals): Apostle analysis reveals proprium in Paul
 - → `GNOS-010` (instantiated_by): Proprium mechanics instantiate self-love doctrine
 - → `GNOS-012` (reveals): Modern channeling reveals contemporary proprium
+- → `CROSS-008` (developed_by): Hemispheric disconnection CORRESPONDS TO proprium (natural expression of spiritual reality)
 
 ---
 
@@ -3847,6 +3849,33 @@
 - → `SWED-034` (addresses): Corrects overly rigid metaphysical distinction
 - → `CROSS-006` (supports): Jesus Profile enables universal access
 - → `CONSC-016` (validated_by): NDE Being of Light accessible to all
+
+---
+
+#### [CROSS-008] Hemispheric-Faculty Correspondence (Will/Understanding = Master/Emissary)
+
+**Status**: validated | **Confidence**: high
+
+> Swedenborg's will-understanding faculty psychology finds its natural correspondent  in McGilchrist's hemispheric model: the RIGHT HEMISPHERE corresponds to the WILL  (love, affection, relational perception), and the LEFT HEMISPHERE corresponds to  the UNDERSTANDING (thought, analysis, representational cognition). Per the doctrine  of correspondences, the physical brain does not CAUSE spiritual states—it EXPRESSES  them. The hemispheres are the natural plane manifestation ("body of effects") of  spiritual faculties ("soul of causes"). Neither hemisphere is inherently pathological;  both are necessary. Hemispheric disconnection—the Emissary's usurpation—is the  CORRESPONDENT of the proprium: it is how the proprium (the will's turning from  Divine toward self) manifests in ultimates (the physical brain).
+
+
+**Source Chain**:
+1. [P] Swedenborg, Spiritual Diary (Experientiae Spirituales)
+2. [T] data/02_Swedenborgian_Theology/Divine Human Anatomy and Spiritual Correspondence.md
+3. [P] Swedenborg, Divine Love and Wisdom §397
+4. [S] McGilchrist, The Master and His Emissary (2009)
+5. [T] data/01_Consciousness_Studies/Brain, Myth, and Conscious Choice.md
+
+**Connections**:
+- → `SWED-044` (instantiates): Will-Understanding priority neurologically grounded
+- → `SWED-045` (supports): Will as receptive—right hemisphere receives through love
+- → `SWED-005` (develops): Proprium = disconnection, not a hemisphere
+- → `CONSC-006` (develops): Integrates McGilchrist model with Swedenborgian psychology
+- → `CONSC-011` (develops): Divided Brain thesis mapped to faculty psychology
+- → `CONSC-013` (develops): Master/Emissary = Will/Understanding
+- → `CONSC-018` (develops): Hemispheric Integration Model validated by Swedenborg
+- → `CONSC-007` (supports): Neuroplasticity enables reconnection (regeneration)
+- → `CONSC-054` (explains): Surrender = Understanding yielding to Will
 
 ---
 

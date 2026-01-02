@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2025-12-31 07:14*
+*Last exported: 2026-01-02 09:40*
 
 ---
 
@@ -10,21 +10,21 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 173 |
+| Total Nodes | 178 |
 | Total Connections | 444 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 160
-- **preliminary**: 8
+- **validated**: 164
+- **preliminary**: 9
 - **contested**: 5
 
 ### By Domain
 
 - **Cross-Domain** (CROSS): 7
-- **Consciousness Studies** (CONSC): 53
-- **Swedenborgian Theology** (SWED): 42
+- **Consciousness Studies** (CONSC): 54
+- **Swedenborgian Theology** (SWED): 46
 - **Biblical Scholarship** (BIBL): 20
 - **Early Christian History** (EARLY): 16
 - **The Gnostic Impulse** (GNOS): 16
@@ -1124,6 +1124,32 @@
 
 ---
 
+#### [CONSC-054] Spontaneous Remission: Spiritual Transformation Precedes Physical Healing
+
+**Status**: validated | **Confidence**: unknown
+
+> Systematic analysis of spontaneous remission and miraculous healing data confirms  that profound spiritual/existential transformation is a statistically significant  precursor to physical healing. Under the correspondential ontology (body = soul in  ultimates), this is not mysterious "mind-body interaction" but the same event  manifested at different degrees: when the spiritual cause changes, the physical  effect must reorganize to match. This establishes bidirectional evidence for  spiritual-physical correspondence alongside the DOPS birthmark data.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Psycho-Spiritual Transformation and Spontaneous Remission.md
+2. [T] data/01_Consciousness_Studies/Spiritual Transformation and Healing - Correspondential Analysis.md
+3. [S] Turner, K., 'Radical Remission: Surviving Cancer Against All Odds'
+4. [E] Moorjani, A., 'Dying to Be Me' (2012)
+5. [E] Alexander, E., 'Proof of Heaven' (2012)
+6. [W] Lourdes Medical Bureau archives
+7. [S] Schilder et al., 'Psychological Changes Preceding Spontaneous Remission'
+8. [P] Swedenborg, correspondences doctrine (various works)
+
+**Connections**:
+- → `SWED-003` (validates): Empirically confirms correspondence doctrine — body as soul in ultimates
+- → `CONSC-034` (complements): Birthmarks show trauma→body; healing shows resolution→body. Bidirectional.
+- → `CONSC-004` (supports): NDE healing cases provide additional evidence for consciousness independence
+- → `SWED-005` (explains): Cancer as proprium pathology — spiritual self-separation manifests as cellular rebellion
+- → `CROSS-003` (supports): Healing via Love (Will) not just Faith (Understanding) confirms ruling love priority
+
+---
+
 ### Swedenborgian Theology
 *Correspondences, influx, regeneration, the Ancient Word*
 
@@ -2068,6 +2094,91 @@
 - → `SWED-042` (contextualizes): Daniel engaged with already-fragmentary post-Alexander tradition
 - → `SWED-004` (supports): Daniel as conduit preserving Ancient Word elements in Hebrew tradition
 - → `BIBL-002` (intersects): Daniel's apocalyptic genre shares Magian cosmological structure
+
+---
+
+#### [SWED-044] Will-Understanding Ontological Priority
+
+**Status**: validated | **Confidence**: high
+
+> In Swedenborg's psychological ontology, the Will is causally prior to the  Understanding—not merely parallel to it. The Will (love, affection, intention)  is the ESSE (being); the Understanding (thought, cognition, rationality) is the  EXISTERE (existence) derived from it. "The will leads and the understanding  follows" (DLW §397). This is NOT Cartesian faculty psychology where will and  intellect are co-equal; rather, the understanding is the FORM through which  the will manifests, as heat manifests through light. All thought is ultimately  driven by love; what we think about depends on what we love.
+
+
+**Source Chain**:
+1. [P] Swedenborg, Divine Love and Wisdom §§395-397
+2. [P] Swedenborg, Divine Love and Wisdom §§409-411
+3. [P] Swedenborg, Arcana Coelestia §3619
+4. [P] Swedenborg, Arcana Coelestia §9995
+5. [T] data/02_Swedenborgian_Theology/Correspondential Framework for Illness and Healing.md
+
+**Connections**:
+- → `SWED-045` (requires): Priority of will grounds the vulnerability (receptive) model
+- → `SWED-047` (supports): True healing requires will transformation, not just understanding
+- → `CONSC-054` (explains): Why surrender (will) heals when knowledge alone does not
+- → `CROSS-003` (instantiates): Ruling love (will) determines life trajectory
+
+---
+
+#### [SWED-045] Will as Receptive, Not Productive (Vulnerability Model)
+
+**Status**: validated | **Confidence**: high
+
+> The human will does not autonomously PRODUCE evils and falsities; it RECEIVES  them from external spiritual sources when it opens itself to them through love  of self. This is the "vulnerability model" of illness: the will is a gate that  opens toward heaven or toward hell, and what flows in depends on its orientation.  Illness arises not because the body generates disease, but because a will  oriented toward falsity becomes vulnerable to influx from disordered spiritual  sources. The body, as correspondence of the soul, then manifests this disorder.  This contrasts with the "direct causation model" where the self is seen as  source of its own evils.
+
+
+**Source Chain**:
+1. [P] Swedenborg, Heaven and Hell §547
+2. [P] Swedenborg, Divine Love and Wisdom §§269-270
+3. [P] Swedenborg, Arcana Coelestia §6657
+4. [P] Swedenborg, Divine Providence §287
+5. [T] data/02_Swedenborgian_Theology/Correspondential Framework for Illness and Healing.md
+
+**Connections**:
+- → `SWED-044` (required_by): Will's priority grounds its role as gate to influx
+- → `SWED-046` (supports): Organ correspondence = where vulnerability manifests
+- → `SWED-005` (develops): Proprium as mechanism of self-ward turning
+- → `CONSC-054` (explains): Why surrender heals: reorientation of will's receptivity
+
+---
+
+#### [SWED-046] Organ-Faculty Correspondence Hypothesis
+
+**Status**: preliminary | **Confidence**: low
+
+> HYPOTHESIS: Specific organ systems correspond to specific spiritual faculties,  such that disorders of the faculty create vulnerability in the corresponding  organ. This extends Swedenborg's documented heart-will / lungs-understanding  correspondence to other organ systems. The hypothesis is TESTABLE through  systematic analysis of disease-transformation correlations: if digestive  disorders correlate with difficulties processing/integrating truth, and healing  correlates with resolution of those difficulties, the hypothesis gains support.
+
+
+**Source Chain**:
+1. [P] Swedenborg, Divine Love and Wisdom §§399-415
+2. [P] Swedenborg, Arcana Coelestia §§5173-5177
+3. [P] Swedenborg, Arcana Coelestia §§5050-5062
+4. [T] data/02_Swedenborgian_Theology/Correspondential Framework for Illness and Healing.md
+
+**Connections**:
+- → `SWED-003` (develops): Extends general correspondence doctrine to specific organs
+- → `SWED-045` (supported_by): Vulnerability model provides mechanism for how disorders manifest
+- → `CONSC-054` (develops): Extends healing node with testable organ-specific predictions
+
+---
+
+#### [SWED-047] True Healing vs Physical Healing (Normative Definition)
+
+**Status**: validated | **Confidence**: high
+
+> NORMATIVE DEFINITION within the correspondential framework: "True Healing" is  spiritual transformation—the reorientation of the will toward the Divine and  the integration of the understanding with truth. "Physical Healing" (curing)  is the reorganization of the body's ultimates. True Healing may or may not  produce Physical Healing; Physical Healing without True Healing is superficial  and temporary. Death is NOT a failure of healing—it is the shedding of what  was never truly the person (the natural body), leaving the spiritual body whole.  This reframes therapeutic goals: the aim is True Healing, of which physical  cure is a frequent but not guaranteed correlate.
+
+
+**Source Chain**:
+1. [P] Swedenborg, Heaven and Hell §§461-469
+2. [P] Swedenborg, Heaven and Hell §§493-496
+3. [P] Swedenborg, Arcana Coelestia §10591
+4. [P] Swedenborg, True Christian Religion §792
+5. [T] data/02_Swedenborgian_Theology/Correspondential Framework for Illness and Healing.md
+
+**Connections**:
+- → `SWED-044` (required_by): Will transformation is content of True Healing
+- → `CONSC-054` (contextualizes): Reframes 'miraculous healing' as True Healing made visible
+- → `CONSC-004` (supports): Death as transition supports consciousness primacy
 
 ---
 

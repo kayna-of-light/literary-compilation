@@ -85,6 +85,13 @@ metadata:
     contested: "Evidence conflicts exist"
     unverified: "Needs verification"
 
+  node_types:
+    foundational: "Philosophical orientation or premise - tested through fruits, not directly falsifiable"
+    concept: "Framework concept with defined characteristics - tested by internal consistency and application"
+    hypothesis: "Testable claim derived from framework - has empirical or historical predictions"
+    evidence: "Empirical finding or historical data - supports or challenges other nodes"
+    synthesis: "Integration of multiple nodes - shows how pieces fit together"
+
 # =============================================================================
 # NODES
 # =============================================================================

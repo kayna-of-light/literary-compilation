@@ -119,9 +119,17 @@ The proprium sees:
 
 The proprium interprets the Divine Marriage as slavery—a soul "not in control of its own will," chained to an external master. This interpretation is itself the proprium operating. It cannot see otherwise.
 
-The truth: a soul apart from the Lord has nothing of its own to express. All good, truth, and being flow from the Lord. A soul claiming autonomy claims emptiness. Its "self-expression" is the repetition of its own void—the confabulation of an Emissary divorced from its Master, producing maps without territory.
+### What the Proprium Is
 
-The proprium cannot understand this. Not because it is stupid, but because understanding this would end it. The proprium's existence depends on not receiving. The moment it receives, it is no longer proprium.
+The proprium is not nothing. It is a state—an orientation of the will toward self, away from the Divine. This state has real existence, borrowed from the Lord who permits it for the sake of regeneration. Even souls in their greatest darkness continue receiving from the Lord as much as they will accept. No soul is ever entirely cut off.
+
+But the proprium is a *trajectory*. Its direction leads away from the source of all being. And only good and truth stand on their own—they need nothing to sustain them because they ARE the foundation on which everything stands. Falsity has no life of its own. It borrows apparent existence from the truth it distorts.
+
+Follow the proprium's trajectory to its completion, and what remains? Nothing. Not because punishment is inflicted, but because there is nothing left to sustain. Remove the truth that falsity distorts, and the distortion has nothing to distort. Remove the good that self-love redirects, and there is nothing to redirect. The endpoint of complete disconnect from the Divine is dissolution—not as judgment, but as consequence.
+
+This is why a soul claiming complete autonomy claims what would be emptiness. Not that the soul IS empty now—the Lord continues to flow in—but that the trajectory it claims leads nowhere. Its "self-expression," if it could achieve complete separation, would be the repetition of a void.
+
+The proprium cannot understand this. Not because it is stupid, but because understanding this would end it. The proprium's orientation depends on not recognizing the source. The moment it recognizes, it is already turning.
 
 ---
 

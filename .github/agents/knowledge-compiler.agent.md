@@ -61,7 +61,25 @@ Assign each node to the appropriate domain using these prefixes:
 | `MYTH` | Mythological Studies | Bricolage, proto-myths, ANE parallels |
 | `CROSS` | Cross-Domain | Synthesizing concepts spanning multiple domains |
 
-### 3. Node Creation Standards
+### 3. Node Types
+
+Assign each node the appropriate type to show its role in the framework:
+
+| Type | What It Is | How It's Tested | Examples |
+|------|-----------|-----------------|----------|
+| `foundational` | Philosophical orientation or premise | Through fruits — do hypotheses derived from it organize data? | Two-tiered hermeneutic, non-dualism, Divine Marriage epistle |
+| `concept` | Framework concept with defined characteristics | Internal consistency, successful application | Proprium, ruling love, influx, correspondence |
+| `hypothesis` | Testable claim derived from framework | Empirical or historical predictions | CDE, mission incarnation, Restorative Incarnation |
+| `evidence` | Empirical finding or historical data | Replication, peer review, source verification | NDE veridical perception, 70% violent death correlation |
+| `synthesis` | Integration of multiple nodes | Coherence of integration | Post-mortem model, Jesus profile |
+
+**Important**: Foundational nodes ARE valid and SHOULD be included. All science rests on philosophical orientations (physics assumes causality, biology assumes what counts as life). The purpose of typing them as "foundational" is:
+- To make the framework's premises visible, not hidden
+- To show what hypotheses derive FROM them
+- To enable traceability from evidence back to foundations
+- To distinguish "tested through fruits" from "tested directly"
+
+### 4. Node Creation Standards
 
 Each node must include:
 
@@ -69,6 +87,7 @@ Each node must include:
 DOMAIN-###:
   title: "Concise descriptive title"
   domain: DOMAIN_CODE
+  node_type: foundational | concept | hypothesis | evidence | synthesis
   status: preliminary | validated | contested
   confidence: low | medium | high
   
@@ -117,9 +136,10 @@ When establishing relationships between nodes:
 | `parallels` | Shows structural similarity | Exodus narrative parallels Enuma Elish |
 | `instantiates` | Is a specific example of | Specific NDE instantiates afterlife model |
 
-### 5. Extraction Guidelines
+### 6. Extraction Guidelines
 
 **What to extract as nodes**:
+- **Foundational orientations** — Philosophical premises, epistles, hermeneutical principles
 - Core thesis statements and central arguments
 - Key definitions and technical concepts
 - Empirical claims with evidence
@@ -129,11 +149,17 @@ When establishing relationships between nodes:
 - Significant patterns and correlations
 - Points of tension or evolution in the framework
 
+**Foundational documents to include**:
+- Epistles (Divine Marriage, Agent epistle, etc.) → node_type: foundational
+- Framework orientation documents → node_type: foundational
+- Core Swedenborgian concepts with definitions → node_type: concept
+
 **Level of detail**:
 - Be THOROUGH — capture every significant claim
 - Be PRECISE — definitions must be clear and unambiguous
 - Be CONNECTED — every node should link to related concepts
 - Be TRACED — every claim needs a source chain
+- Be TYPED — every node needs its node_type for traceability
 
 ### 6. Working Process
 

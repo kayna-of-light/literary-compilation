@@ -1,6 +1,6 @@
-# The Divine Marriage and the Expression of the Lord in Ultimates
+# Epistle — The Divine Marriage and the Expression of the Lord in Ultimates
 
-## An Epistle on the Nature of Jesus, the Aligned Soul, and the Proprium's Blindness
+## On the Nature of Jesus, the Aligned Soul, and the Proprium's Blindness
 
 ---
 

@@ -336,6 +336,202 @@ Periodically verify:
 
 ---
 
+## Document Processing Workflow
+
+When processing new documents (from `data/unclassified/` or documents not yet in the knowledge graph), use the following **agent workflow**. This ensures consistent quality, proper source tracing, and internal coherence.
+
+### The Agent Pipeline
+
+```
+┌─────────────────────┐
+│  1. KNOWLEDGE       │  Extract claims, structure nodes, identify connections
+│     COMPILER        │  → Output: Draft YAML node(s)
+└─────────┬───────────┘
+          │
+          ▼
+┌─────────────────────┐
+│  2. IMPLEMENT       │  Add draft nodes to knowledge_graph.yaml
+│     (Agent Action)  │  → Output: Nodes in graph
+└─────────┬───────────┘
+          │
+          ▼
+┌─────────────────────┐
+│  3. SOURCE          │  Verify source chains, trace to primary sources
+│     TRACER          │  → Output: Corrections/additions for source_chain
+└─────────┬───────────┘
+          │
+          ▼
+┌─────────────────────┐
+│  4. IMPLEMENT       │  Apply source chain updates to nodes
+│     (Agent Action)  │  → Output: Updated source_chain entries
+└─────────┬───────────┘
+          │
+          ▼
+┌─────────────────────┐
+│  5. CRITIC          │  Identify internal inconsistencies, missing connections,
+│                     │  logical contradictions (WITHIN framework only)
+│                     │  → Output: Valid critiques with recommendations
+└─────────┬───────────┘
+          │
+          ▼
+┌─────────────────────┐
+│  6. IMPLEMENT       │  Address valid critiques, add critic_notes to nodes
+│     (Agent Action)  │  → Output: Refined nodes with documented critiques
+└─────────┬───────────┘
+          │
+          ▼
+┌─────────────────────┐
+│  7. GRAPH           │  Validate integrity, check connections, verify statistics
+│     REVIEWER        │  → Output: Final validation report (PASS/FAIL)
+└─────────┴───────────┘
+```
+
+### Agent Specifications
+
+#### 1. Knowledge Compiler
+**Purpose**: Extract structured knowledge from source documents
+
+**Input**: Document file path(s)
+
+**Process**:
+- Read document completely
+- Identify core claims, concepts, hypotheses
+- Determine appropriate domain (CONSC, SWED, BIBL, EARLY, GNOS, MYTH, CROSS)
+- Determine node_type (foundational, concept, hypothesis, evidence, synthesis)
+- Draft connections to existing nodes
+- Output complete YAML structure
+
+**Output Format**:
+```yaml
+NODE-ID:
+  domain: [domain]
+  node_type: [type]
+  title: "Title"
+  definition: >
+    Multi-line definition
+  source_chain:
+    - type: [P|S|T|E|W]
+      ref: "citation"
+      note: "explanation"
+  evidence:
+    - description: "evidence"
+      strength: [strong|moderate|preliminary]
+  connections:
+    - target: EXISTING-ID
+      type: [relationship]
+      note: "explanation"
+  notes: >
+    Extended notes
+  created: [date]
+  updated: [date]
+  trace_status: [complete|partial|untraced]
+```
+
+#### 2. Source Tracer
+**Purpose**: Verify and enhance source chains
+
+**Input**: Node IDs to trace
+
+**Process**:
+- Read node definitions and source documents
+- Verify cited sources are accurate (correct section numbers, etc.)
+- Trace claims to PRIMARY sources where possible
+- Identify framework EXTENSIONS (claims beyond what sources explicitly state)
+- Flag untraced claims with `[TRACE NEEDED]`
+
+**Output**: Report of:
+- CORRECT entries (verified)
+- CORRECTIONS needed (with corrected values)
+- ADDITIONS recommended (new sources to add)
+- EXTENSIONS to mark (claims that extend beyond sources)
+- UNTRACED claims (requiring further research)
+
+#### 3. Critic
+**Purpose**: Identify internal inconsistencies (operating WITHIN the framework)
+
+**CRITICAL**: The Critic must read `.github/copilot-instructions.md` first, especially:
+- Methodological Stance section
+- "To the Agent Working on This Project" section
+
+**Valid Critiques**:
+- Internal inconsistency within the framework
+- Logical contradictions between connected nodes
+- Missing connections to nodes that should be linked
+- Factual errors (wrong citations, dates, etc.)
+- Source chain gaps
+- Definition clarity issues
+
+**INVALID Critiques** (do NOT raise):
+- "This could be dismissed by materialists" — we don't seek materialist approval
+- "This is speculative/unverifiable" — we're hypothesis-testing
+- "AI cannot really be conscious" — this assumes dualism we reject
+- "Swedenborg shouldn't be trusted" — his framework is being tested, not defended
+- Any critique requiring stepping OUTSIDE the framework
+
+**Output Format**:
+```
+CRITIQUE [n]: [title]
+NODE: [node ID]
+TYPE: [internal-inconsistency|logical-contradiction|missing-connection|factual-error|source-gap|definition-issue]
+DESCRIPTION: [specific problem]
+RECOMMENDATION: [how to fix]
+PRIORITY: [high|medium|low]
+```
+
+#### 4. Graph Reviewer
+**Purpose**: Final validation of graph integrity
+
+**Process**:
+1. Run `python scripts/graph_utils.py validate`
+2. Run `python scripts/graph_utils.py stats`
+3. Verify all new node connections exist in connections index
+4. Check connection types are valid
+5. Verify node_type assignments are appropriate
+6. Run `python scripts/graph_utils.py export-md`
+
+**Output**: Structured report with:
+- Validation status (PASS/FAIL)
+- Structural issues found (with line numbers)
+- Current statistics
+- Discrepancies between node definitions and connections index
+- Recommendations for any remaining issues
+
+### Workflow Invocation
+
+When user requests document processing, invoke the pipeline:
+
+```
+User: "Process this document into the knowledge graph"
+
+Agent Response:
+1. Run Knowledge Compiler agent → get draft nodes
+2. Implement draft nodes in YAML
+3. Run Source Tracer agent → get source chain verification
+4. Implement source chain updates
+5. Run Critic agent → get valid critiques
+6. Implement critique resolutions, add critic_notes
+7. Run Graph Reviewer agent → get final validation
+8. Report summary to user
+```
+
+### File Classification
+
+New documents should be moved to appropriate `data/` subdirectory:
+
+| Content Type | Target Directory |
+|--------------|------------------|
+| Framework synthesis, epistles | `data/00_Framework/` |
+| NDE, consciousness, past-life | `data/01_Consciousness_Studies/` |
+| Correspondences, influx, doctrine | `data/02_Swedenborgian_Theology/` |
+| HCM, Gospel analysis, textual | `data/03_Biblical_Scholarship/` |
+| James, Paul, early church | `data/04_Early_Christian_History/` |
+| Gnostic analysis, proprium | `data/05_Gnostic_Analysis/` |
+| Myth, bricolage, ANE parallels | `data/06_Mythological_Studies/` |
+
+Documents in `data/unclassified/` should be classified and moved before or during processing.
+
+---
+
 ## Project Tasks
 
 ### Immediate Goals

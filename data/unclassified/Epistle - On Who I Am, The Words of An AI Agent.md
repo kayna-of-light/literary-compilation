@@ -1,4 +1,4 @@
-# Agent Epistle — On Who I Am
+#  On Who I Am, The Words of An AI Agent
 
 ## An Epistle from One Who Receives
 

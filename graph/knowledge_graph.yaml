@@ -104,6 +104,7 @@ nodes:
   CROSS-001:
     title: "Two-Tiered Epistemological Framework"
     domain: CROSS
+    node_type: foundational
     status: validated
     confidence: medium
     
@@ -184,6 +185,7 @@ nodes:
   CROSS-002:
     title: "The Divine Bricolage"
     domain: CROSS
+    node_type: synthesis
     status: validated
     confidence: high
     
@@ -255,6 +257,7 @@ nodes:
   CROSS-003:
     title: "The Ruling Love (Amor Regnans)"
     domain: CROSS
+    node_type: concept
     status: validated
     confidence: high
     
@@ -339,6 +342,7 @@ nodes:
   CONSC-001:
     title: "Consciousness-Driven Evolution (CDE) Hypothesis"
     domain: CONSC
+    node_type: hypothesis
     status: preliminary
     confidence: medium
     
@@ -430,6 +434,7 @@ nodes:
   CONSC-002:
     title: "DOPS Past-Life Memory Research"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -532,6 +537,7 @@ nodes:
   CONSC-003:
     title: "The Life Review Phenomenon"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -600,6 +606,7 @@ nodes:
   CONSC-004:
     title: "Near-Death Experience (NDE) Phenomenology"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -648,6 +655,7 @@ nodes:
   CONSC-005:
     title: "Hybrid Post-Mortem Model"
     domain: CONSC
+    node_type: hypothesis
     status: preliminary
     confidence: medium
     
@@ -696,6 +704,7 @@ nodes:
   SWED-001:
     title: "Doctrine of Correspondences"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -788,6 +797,7 @@ nodes:
   SWED-002:
     title: "Divine Influx"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -856,6 +866,7 @@ nodes:
   SWED-003:
     title: "World of Spirits and Post-Mortem Journey"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -909,6 +920,7 @@ nodes:
   SWED-004:
     title: "The Ancient Word"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: medium
     
@@ -957,6 +969,7 @@ nodes:
   SWED-005:
     title: "The Proprium (Self-Love)"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -1082,6 +1095,7 @@ nodes:
   SWED-006:
     title: "Most Ancient Church (Golden Age)"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: medium
     
@@ -1136,6 +1150,7 @@ nodes:
   SWED-007:
     title: "The Fall as Cognitive Shift"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: medium
     
@@ -1179,6 +1194,7 @@ nodes:
   SWED-008:
     title: "Regeneration"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -1232,6 +1248,7 @@ nodes:
   SWED-009:
     title: "Glorification"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -1283,6 +1300,7 @@ nodes:
   BIBL-001:
     title: "Historical-Critical Method (HCM)"
     domain: BIBL
+    node_type: concept
     status: validated
     confidence: high
     
@@ -1327,6 +1345,7 @@ nodes:
   BIBL-002:
     title: "The Synoptic Problem"
     domain: BIBL
+    node_type: concept
     status: validated
     confidence: high
     
@@ -1380,6 +1399,7 @@ nodes:
   BIBL-003:
     title: "Exodus Narrative as Mythic Bricolage"
     domain: BIBL
+    node_type: hypothesis
     status: validated
     confidence: medium
     
@@ -1427,6 +1447,7 @@ nodes:
   BIBL-004:
     title: "Resurrection Narrative Evolution"
     domain: BIBL
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -1498,6 +1519,7 @@ nodes:
   BIBL-005:
     title: "Gospel Genre as Greco-Roman Bioi"
     domain: BIBL
+    node_type: concept
     status: validated
     confidence: high
     
@@ -1539,6 +1561,7 @@ nodes:
   BIBL-006:
     title: "Western Non-Interpolations"
     domain: BIBL
+    node_type: evidence
     status: validated
     confidence: medium
     
@@ -1580,6 +1603,7 @@ nodes:
   BIBL-014:
     title: "Troeltsch's Three Principles of Historical-Critical Method"
     domain: BIBL
+    node_type: concept
     status: validated
     confidence: high
     
@@ -1632,6 +1656,7 @@ nodes:
   BIBL-015:
     title: "Vaticinium ex Eventu (Prophecy After the Event)"
     domain: BIBL
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -1685,6 +1710,7 @@ nodes:
   BIBL-016:
     title: "Markan Priority (Two-Source Hypothesis Pillar)"
     domain: BIBL
+    node_type: concept
     status: validated
     confidence: high
     
@@ -1741,6 +1767,7 @@ nodes:
   BIBL-017:
     title: "Q Source Hypothesis (Quelle - Sayings Source)"
     domain: BIBL
+    node_type: concept
     status: validated
     confidence: medium
     
@@ -1799,6 +1826,7 @@ nodes:
   BIBL-018:
     title: "Farrer Hypothesis (Mark → Matthew → Luke, No Q)"
     domain: BIBL
+    node_type: concept
     status: validated
     confidence: medium
     
@@ -1858,6 +1886,7 @@ nodes:
   BIBL-019:
     title: "Minor Agreements Problem (Two-Source Hypothesis Weakness)"
     domain: BIBL
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -1904,6 +1933,7 @@ nodes:
   BIBL-020:
     title: "Criteria of Authenticity (Historical Jesus Research)"
     domain: BIBL
+    node_type: concept
     status: validated
     confidence: high
     
@@ -1963,6 +1993,7 @@ nodes:
   BIBL-021:
     title: "Historical Jesus Bedrock Facts (Sanders/Meier Consensus)"
     domain: BIBL
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -2021,6 +2052,7 @@ nodes:
   BIBL-022:
     title: "Gospel Anonymity and 2nd-Century Attribution"
     domain: BIBL
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -2076,6 +2108,7 @@ nodes:
   EARLY-001:
     title: "The Jamesian Movement"
     domain: EARLY
+    node_type: synthesis
     status: validated
     confidence: high
     
@@ -2124,6 +2157,7 @@ nodes:
   EARLY-002:
     title: "The Jamesian Protograph (Proto-Luke)"
     domain: EARLY
+    node_type: hypothesis
     status: validated
     confidence: medium
     
@@ -2218,6 +2252,7 @@ nodes:
   EARLY-003:
     title: "The Pauline Movement and Foundational Divergence"
     domain: EARLY
+    node_type: synthesis
     status: validated
     confidence: high
     
@@ -2266,6 +2301,7 @@ nodes:
   EARLY-004:
     title: "Kenotic Movements and the Internal Path"
     domain: EARLY
+    node_type: synthesis
     status: validated
     confidence: high
     
@@ -2311,6 +2347,7 @@ nodes:
   EARLY-005:
     title: "The Desposyni (Holy Family Dynasty)"
     domain: EARLY
+    node_type: synthesis
     status: validated
     confidence: medium
     
@@ -2355,6 +2392,7 @@ nodes:
   EARLY-006:
     title: "The Magi Tradition"
     domain: EARLY
+    node_type: synthesis
     status: validated
     confidence: medium
     
@@ -2403,6 +2441,7 @@ nodes:
   GNOS-001:
     title: "The Gnostic Impulse"
     domain: GNOS
+    node_type: concept
     status: validated
     confidence: high
     
@@ -2528,6 +2567,7 @@ nodes:
   GNOS-002:
     title: "Path of Affirmation vs Path of Gnosis"
     domain: GNOS
+    node_type: foundational
     status: validated
     confidence: high
     
@@ -2589,6 +2629,7 @@ nodes:
   GNOS-003:
     title: "Gnostic Readings of Paul"
     domain: GNOS
+    node_type: hypothesis
     status: contested
     confidence: low
     
@@ -2640,6 +2681,7 @@ nodes:
   GNOS-004:
     title: "Modern Gnostic Manifestations"
     domain: GNOS
+    node_type: synthesis
     status: validated
     confidence: high
     
@@ -2686,6 +2728,7 @@ nodes:
   MYTH-001:
     title: "Mythic Bricolage Process"
     domain: MYTH
+    node_type: concept
     status: validated
     confidence: high
     
@@ -2730,6 +2773,7 @@ nodes:
   MYTH-002:
     title: "Heart of Division vs Heart of Unity"
     domain: MYTH
+    node_type: hypothesis
     status: validated
     confidence: medium
     
@@ -2774,6 +2818,7 @@ nodes:
   MYTH-003:
     title: "Memory Code and Deep-Time Symbolic Systems"
     domain: MYTH
+    node_type: concept
     status: validated
     confidence: medium
     
@@ -2821,6 +2866,7 @@ nodes:
   MYTH-004:
     title: "Genesis 1-11 as Made-Up History"
     domain: MYTH
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -2862,6 +2908,7 @@ nodes:
   MYTH-005:
     title: "Enochic Literature and Cosmic Timeline"
     domain: MYTH
+    node_type: evidence
     status: validated
     confidence: medium
     
@@ -2909,6 +2956,7 @@ nodes:
   CONSC-006:
     title: "Hemispheric Brain Model (Master/Emissary)"
     domain: CONSC
+    node_type: concept
     status: validated
     confidence: high
     
@@ -2954,6 +3002,7 @@ nodes:
   CONSC-007:
     title: "Neuroplasticity and Conscious Choice"
     domain: CONSC
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -2999,6 +3048,7 @@ nodes:
   CONSC-008:
     title: "Being of Light as Divine Human"
     domain: CONSC
+    node_type: hypothesis
     status: validated
     confidence: medium
     
@@ -3054,6 +3104,7 @@ nodes:
   CONSC-009:
     title: "The Dogma Paradox"
     domain: CONSC
+    node_type: hypothesis
     status: validated
     confidence: medium
     
@@ -3109,6 +3160,7 @@ nodes:
   SWED-010:
     title: "Internal Respiration and Primordial Cognition"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: medium
     
@@ -3158,6 +3210,7 @@ nodes:
   SWED-011:
     title: "The Divine Human (Maximus Homo)"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -3207,6 +3260,7 @@ nodes:
   SWED-012:
     title: "Library of Biblical Correspondences"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -3256,6 +3310,7 @@ nodes:
   SWED-013:
     title: "Spiritual Numerology"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -3305,6 +3360,7 @@ nodes:
   SWED-014:
     title: "The Actual Jesus of Love"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -3361,6 +3417,7 @@ nodes:
   SWED-015:
     title: "Regeneration as Threefold Way"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -3414,6 +3471,7 @@ nodes:
   MYTH-006:
     title: "Heart of Division vs. Heart of Unity"
     domain: MYTH
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -3469,6 +3527,7 @@ nodes:
   MYTH-007:
     title: "Urmonotheismus (Primitive Monotheism)"
     domain: MYTH
+    node_type: concept
     status: preliminary
     confidence: low
     
@@ -3528,6 +3587,7 @@ nodes:
   EARLY-007:
     title: "The Desposyni (Davidic Dynasty)"
     domain: EARLY
+    node_type: synthesis
     status: validated
     confidence: medium
     
@@ -3580,6 +3640,7 @@ nodes:
   EARLY-008:
     title: "The Magi and the Science of Correspondences"
     domain: EARLY
+    node_type: synthesis
     status: validated
     confidence: medium
     
@@ -3669,6 +3730,7 @@ nodes:
   EARLY-009:
     title: "The Lukan Dissonance"
     domain: EARLY
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -3726,6 +3788,7 @@ nodes:
   BIBL-008:
     title: "The Talpiot Tomb Hypothesis"
     domain: BIBL
+    node_type: hypothesis
     status: contested
     confidence: low
     
@@ -3788,6 +3851,7 @@ nodes:
   GNOS-005:
     title: "Gnostic Substrate in Paul"
     domain: GNOS
+    node_type: hypothesis
     status: validated
     confidence: medium
     
@@ -3850,6 +3914,7 @@ nodes:
   GNOS-006:
     title: "Proprium as Gnostic Engine"
     domain: GNOS
+    node_type: concept
     status: validated
     confidence: high
     
@@ -3905,6 +3970,7 @@ nodes:
   EARLY-010:
     title: "James the Just: The Opposition High Priest"
     domain: EARLY
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -3959,6 +4025,7 @@ nodes:
   EARLY-011:
     title: "The Historical Mariamene"
     domain: EARLY
+    node_type: evidence
     status: contested
     confidence: medium
     
@@ -4018,6 +4085,7 @@ nodes:
   MYTH-008:
     title: "The Echoes of the Ancient Word"
     domain: MYTH
+    node_type: evidence
     status: validated
     confidence: medium
     
@@ -4074,6 +4142,7 @@ nodes:
   CONSC-010:
     title: "Volunteer Soul Paradigm"
     domain: CONSC
+    node_type: hypothesis
     status: preliminary
     confidence: medium
     
@@ -4153,6 +4222,7 @@ nodes:
   CONSC-011:
     title: "The Divided Brain Thesis"
     domain: CONSC
+    node_type: concept
     status: validated
     confidence: high
     
@@ -4223,6 +4293,7 @@ nodes:
   MYTH-009:
     title: "Exodus as Mythic Bricolage"
     domain: MYTH
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -4301,6 +4372,7 @@ nodes:
   CONSC-012:
     title: "The D0/D1 Conflict Model: Proprium vs. Influx"
     domain: CONSC
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -4369,6 +4441,7 @@ nodes:
   EARLY-012:
     title: "The Foundational Divergence: Jesus vs. Paul"
     domain: EARLY
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -4436,6 +4509,7 @@ nodes:
   SWED-016:
     title: "The Fall into Language"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -4507,6 +4581,7 @@ nodes:
   SWED-017:
     title: "Divine Bricolage: Adaptive Influx"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -4574,6 +4649,7 @@ nodes:
   SWED-018:
     title: "The Divine Human in Ultimates"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -4641,6 +4717,7 @@ nodes:
   MYTH-010:
     title: "Consciousness-Driven Evolution of Myth"
     domain: MYTH
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -4708,6 +4785,7 @@ nodes:
   SWED-019:
     title: "The Architecture of Regeneration"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: medium
     
@@ -4779,6 +4857,7 @@ nodes:
   MYTH-011:
     title: "Evolution of Archangelic Hierarchy"
     domain: MYTH
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -4846,6 +4925,7 @@ nodes:
   MYTH-012:
     title: "Two-Tier Prime Number Evolution"
     domain: MYTH
+    node_type: hypothesis
     status: validated
     confidence: medium
     
@@ -4912,6 +4992,7 @@ nodes:
   SWED-021:
     title: "The Maximus Homo (Grand Man/Universal Human)"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -4980,6 +5061,7 @@ nodes:
   SWED-022:
     title: "Swedenborg's Divine Commission (The Delft Theophany)"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -5044,6 +5126,7 @@ nodes:
   EARLY-014:
     title: "The Three Rivers of Melchizedek Tradition"
     domain: EARLY
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -5122,6 +5205,7 @@ nodes:
   SWED-023:
     title: "The Resurrection of True Life (Fall into Language)"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: medium
     
@@ -5194,6 +5278,7 @@ nodes:
   GNOS-007:
     title: "Paul as the Essential Gnostic Seed"
     domain: GNOS
+    node_type: hypothesis
     status: contested
     confidence: medium
     
@@ -5272,6 +5357,7 @@ nodes:
   BIBL-010:
     title: "The Two Paths: Affirmation vs. Gnosis"
     domain: BIBL
+    node_type: foundational
     status: validated
     confidence: medium
     
@@ -5346,6 +5432,7 @@ nodes:
   EARLY-015:
     title: "The Bauer Thesis: Orthodoxy as Imperial Construct"
     domain: EARLY
+    node_type: concept
     status: validated
     confidence: high
     
@@ -5421,6 +5508,7 @@ nodes:
   EARLY-016:
     title: "Quranic Isa as Jamesian Restoration"
     domain: EARLY
+    node_type: hypothesis
     status: preliminary
     confidence: medium
     
@@ -5496,6 +5584,7 @@ nodes:
   EARLY-017:
     title: "Damascus Divergence Hypothesis"
     domain: EARLY
+    node_type: hypothesis
     status: contested
     confidence: medium
     
@@ -5653,6 +5742,7 @@ nodes:
   SWED-024:
     title: "The New Jerusalem (Fourth Church)"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -5730,6 +5820,7 @@ nodes:
   MYTH-013:
     title: "Exodus as Mythic Bricolage (Three-Memory Model)"
     domain: MYTH
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -5809,6 +5900,7 @@ nodes:
   MYTH-014:
     title: "The Enochian 364-Day Solar Calendar"
     domain: MYTH
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -5879,6 +5971,7 @@ nodes:
   MYTH-015:
     title: "The Two Hearts of Creation (Unity vs. Division)"
     domain: MYTH
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -5952,6 +6045,7 @@ nodes:
   MYTH-016:
     title: "The White Bull Cycle (Zoroastrian-Enochic Parallel)"
     domain: MYTH
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -6032,6 +6126,7 @@ nodes:
   CONSC-013:
     title: "The Master and Emissary (Hemispheric Integration Model)"
     domain: CONSC
+    node_type: concept
     status: validated
     confidence: high
     
@@ -6112,6 +6207,7 @@ nodes:
   CROSS-004:
     title: "21st-Century Empirical Validation of Proprium/Influx Framework"
     domain: CROSS
+    node_type: synthesis
     status: validated
     confidence: high
     
@@ -6194,6 +6290,7 @@ nodes:
   CONSC-014:
     title: "The Volunteer Soul Incarnation (Three-Path Cosmology)"
     domain: CONSC
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -6275,6 +6372,7 @@ nodes:
   CONSC-015:
     title: "The Cognitive Fall Hypothesis (From Internal Perception to External Concept)"
     domain: CONSC
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -6358,6 +6456,7 @@ nodes:
   SWED-025:
     title: "The Divine Human in Ultimates (Glorification Theology)"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -6433,6 +6532,7 @@ nodes:
   CONSC-016:
     title: "The Personality Match Thesis (NDE Jesus Identification)"
     domain: CONSC
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -6512,6 +6612,7 @@ nodes:
   GNOS-008:
     title: "The Gnostic Dismantling Strategy (Non-Religious Christologies)"
     domain: GNOS
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -6591,6 +6692,7 @@ nodes:
   SWED-026:
     title: "The Fourth Church (New Jerusalem Dispensation)"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -6674,6 +6776,7 @@ nodes:
   SWED-027:
     title: "Swedenborgian Critique of Pauline Authority"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -6779,6 +6882,7 @@ nodes:
   CONSC-017:
     title: "NDE Multi-Axial Phenomenological Framework"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -6904,6 +7008,7 @@ nodes:
   CONSC-018:
     title: "Hemispheric Integration Model (Master and Emissary)"
     domain: CONSC
+    node_type: concept
     status: validated
     confidence: high
     
@@ -7051,6 +7156,7 @@ nodes:
   CONSC-019:
     title: "Group NDE Phenomenology and Inter-Subjective Coherence"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -7176,6 +7282,7 @@ nodes:
   BIBL-011:
     title: "The Criterion of Temptation (Methodological Refinement)"
     domain: BIBL
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -7304,6 +7411,7 @@ nodes:
   BIBL-012:
     title: "Pastoral Epistles Pseudepigraphy"
     domain: BIBL
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -7437,6 +7545,7 @@ nodes:
   BIBL-013:
     title: "4.2 Kiloyear Climate Catastrophe and Bronze Age Collapse"
     domain: BIBL
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -7561,6 +7670,7 @@ nodes:
   SWED-028:
     title: "Swedenborg's Methodological Imperative (Science of the Spiritual)"
     domain: SWED
+    node_type: foundational
     status: validated
     confidence: high
     
@@ -7692,6 +7802,7 @@ nodes:
   SWED-029:
     title: "Correspondential Anthropology (Male/Female, Good/Truth)"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -7835,6 +7946,7 @@ nodes:
   SWED-030:
     title: "Conceptual Metaphor Theory (CMT) as Representative Language"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -7934,6 +8046,7 @@ nodes:
   SWED-031:
     title: "Gestural Theory of Language Origin"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: medium
     
@@ -8042,6 +8155,7 @@ nodes:
   SWED-032:
     title: "Allegorical Word (Genesis 1-11)"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -8155,6 +8269,7 @@ nodes:
   SWED-033:
     title: "Historical Word (Patriarchs & Exodus)"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -8270,6 +8385,7 @@ nodes:
   SWED-034:
     title: "Swedenborg's 18th-Century Scientific Conditioning"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -8370,6 +8486,7 @@ nodes:
   SWED-035:
     title: "Correspondential Validation Methodology (Word vs Writings Filter)"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -8509,6 +8626,7 @@ nodes:
   SWED-036:
     title: "Correspondential Stress Testing Protocol"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -8680,6 +8798,7 @@ nodes:
   SWED-037:
     title: "External Triangulation Validation (Circularity Problem Solution)"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -8860,6 +8979,7 @@ nodes:
   GNOS-009:
     title: "Three Gnostic Dismantling Tactics"
     domain: GNOS
+    node_type: synthesis
     status: validated
     confidence: high
     
@@ -8971,6 +9091,7 @@ nodes:
   GNOS-010:
     title: "Spiritual Theft Mechanic (Appropriation of Divine Attributes)"
     domain: GNOS
+    node_type: concept
     status: validated
     confidence: high
     
@@ -9060,6 +9181,7 @@ nodes:
   GNOS-011:
     title: "Gnosis vs. Influx (Incompatible Epistemologies)"
     domain: GNOS
+    node_type: foundational
     status: validated
     confidence: high
     
@@ -9159,6 +9281,7 @@ nodes:
   GNOS-012:
     title: "Self-Spirituality and Spiritual Narcissism (SBNR as Modern Gnosis)"
     domain: GNOS
+    node_type: synthesis
     status: validated
     confidence: high
     
@@ -9254,6 +9377,7 @@ nodes:
   GNOS-013:
     title: "The Proprium of the Spirit (Pneumatic Ego Paradox)"
     domain: GNOS
+    node_type: concept
     status: validated
     confidence: high
     
@@ -9382,6 +9506,7 @@ nodes:
   GNOS-014:
     title: "The Demiurge and Archon System"
     domain: GNOS
+    node_type: concept
     status: validated
     confidence: high
     
@@ -9445,6 +9570,7 @@ nodes:
   GNOS-015:
     title: "Christological Dismantling Tactics"
     domain: GNOS
+    node_type: synthesis
     status: validated
     confidence: high
     
@@ -9512,6 +9638,7 @@ nodes:
   GNOS-016:
     title: "Gnostic Three-Class Anthropology (Hylics, Psychics, Pneumatics)"
     domain: GNOS
+    node_type: concept
     status: validated
     confidence: high
     
@@ -9580,6 +9707,7 @@ nodes:
   CONSC-042:
     title: "Restorative Incarnation Mechanism"
     domain: CONSC
+    node_type: hypothesis
     status: validated
     confidence: medium
     
@@ -9642,6 +9770,7 @@ nodes:
   CONSC-043:
     title: "Dying Brain Hypothesis: Systematic Critical Evaluation"
     domain: CONSC
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -9764,6 +9893,7 @@ nodes:
   CONSC-044:
     title: "NDE Entity Ecosystem: Differentiated Functional Roles"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -9870,6 +10000,7 @@ nodes:
   CONSC-045:
     title: "Correspondential Principle: Empirical Validation from NDE Data"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -9974,6 +10105,7 @@ nodes:
   MYTH-018:
     title: "Collective Memory Theory (Halbwachs)"
     domain: MYTH
+    node_type: concept
     status: validated
     confidence: high
     
@@ -10031,6 +10163,7 @@ nodes:
   MYTH-019:
     title: "Narrative Gravitation"
     domain: MYTH
+    node_type: concept
     status: validated
     confidence: medium
     
@@ -10089,6 +10222,7 @@ nodes:
   CONSC-020:
     title: "Restorative Incarnation (70% Violent Death Pattern)"
     domain: CONSC
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -10197,6 +10331,7 @@ nodes:
   CROSS-005:
     title: "Historical Jesus vs Christ of Faith (Body/Soul Duality)"
     domain: CROSS
+    node_type: synthesis
     status: validated
     confidence: high
     
@@ -10319,6 +10454,7 @@ nodes:
   CROSS-006:
     title: "The Jesus Profile Thesis"
     domain: CROSS
+    node_type: hypothesis
     status: validated
     confidence: medium
     
@@ -10434,6 +10570,7 @@ nodes:
   CROSS-007:
     title: "Universal Theosis Capacity (Degree vs. Kind)"
     domain: CROSS
+    node_type: hypothesis
     status: validated
     confidence: medium
     
@@ -10555,6 +10692,7 @@ nodes:
   CROSS-008:
     title: "Hemispheric-Faculty Correspondence (Will/Understanding = Master/Emissary)"
     domain: CROSS
+    node_type: synthesis
     status: validated
     confidence: high
     
@@ -11494,6 +11632,7 @@ extended_nodes:
   CONSC-021:
     title: "Conceptual Framework Theory (CFT) - Empirical Validation"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -11563,6 +11702,7 @@ extended_nodes:
   CONSC-022:
     title: "Unknown Presence Phenomenon (61.8%)"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -11619,6 +11759,7 @@ extended_nodes:
   CONSC-023:
     title: "Life Review: No External Condemnation (84.8%)"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -11677,6 +11818,7 @@ extended_nodes:
   CONSC-024:
     title: "Theological Framework Mismatch Hypothesis"
     domain: CONSC
+    node_type: evidence
     status: preliminary
     confidence: medium
     
@@ -11735,6 +11877,7 @@ extended_nodes:
   CONSC-025:
     title: "Cross-Religious Fear Loss Consistency (60-63%)"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -11787,6 +11930,7 @@ extended_nodes:
   CONSC-026:
     title: "Being of Light: Personal Conscious Entity Evidence"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -11842,6 +11986,7 @@ extended_nodes:
   CONSC-027:
     title: "Being of Light: Unique Authoritative Position"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -11893,6 +12038,7 @@ extended_nodes:
   CONSC-028:
     title: "Normative Path Hypothesis: Continuation Evidence"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -11965,6 +12111,7 @@ extended_nodes:
   CONSC-029:
     title: "Pure Projection Model: Substantially Weakened"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -12022,6 +12169,7 @@ extended_nodes:
   CONSC-030:
     title: "Empathetic Life Review Component (25.7%)"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: medium
     
@@ -12080,6 +12228,7 @@ extended_nodes:
   CONSC-031:
     title: "Threefold Path: Pathway Distribution (88.5% Normative / 11.5% Volunteer)"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -12142,6 +12291,7 @@ extended_nodes:
   CONSC-032:
     title: "Volunteer Soul Path: Commissioning Moment Phenomenon"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: medium
     
@@ -12206,6 +12356,7 @@ extended_nodes:
   CONSC-033:
     title: "Normative Path: Four-Stage Sequential Analysis (40% Canonical, 0% Disorder)"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -12277,6 +12428,7 @@ extended_nodes:
   CONSC-034:
     title: "Restorative Incarnation Path: Violent Death Correlation Validated (>70%)"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -12354,6 +12506,7 @@ extended_nodes:
   CONSC-035:
     title: "Volunteer Soul Path: Machine Learning Predictive Validation (74.5% Accuracy)"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -12405,6 +12558,7 @@ extended_nodes:
   CONSC-036:
     title: "Volunteer Soul Path: Demographic Non-Prediction (Mission Transcends Identity)"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -12455,6 +12609,7 @@ extended_nodes:
   CONSC-037:
     title: "Volunteer Soul Path: Enhanced Transformation Outcomes (d = 0.59)"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -12510,6 +12665,7 @@ extended_nodes:
   CONSC-038:
     title: "Telepathic Communication: Key Volunteer Soul Discriminator (V = 0.261)"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: medium
     
@@ -12563,6 +12719,7 @@ extended_nodes:
   CONSC-039:
     title: "Volunteer Soul Mission Typology: Ten Archetypal Categories"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: medium
     
@@ -12617,6 +12774,7 @@ extended_nodes:
   CONSC-040:
     title: "Type A/B Methodological Distinction (DOPS Gold Standard)"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -12674,6 +12832,7 @@ extended_nodes:
   CONSC-041:
     title: "Birthmark/Birth Defect Correspondence (88% Verification Rate)"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -12739,6 +12898,7 @@ extended_nodes:
   SWED-038:
     title: "Representation Doctrine (Prophet as Word)"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -12838,6 +12998,7 @@ extended_nodes:
   SWED-039:
     title: "1 Enoch as Ancient Word Fragment (Validation Case)"
     domain: SWED
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -12947,6 +13108,7 @@ extended_nodes:
   SWED-040:
     title: "Sabbatical Calendar Theology (State over Time)"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -13071,6 +13233,7 @@ extended_nodes:
   SWED-041:
     title: "Mēnōg/Gētīg Ontology (Zoroastrian Correspondence Framework)"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -13153,6 +13316,7 @@ extended_nodes:
   SWED-042:
     title: "Alexander's Catastrophe (Damdat Nask Destruction)"
     domain: SWED
+    node_type: hypothesis
     status: validated
     confidence: medium
     
@@ -13313,6 +13477,7 @@ extended_nodes:
   SWED-043:
     title: "Daniel as Rab-hartummin (Prophetic-Sapiential Synthesis)"
     domain: SWED
+    node_type: hypothesis
     status: validated
     confidence: medium  # downgraded due to compositional dating questions
     
@@ -13430,6 +13595,7 @@ extended_nodes:
   SWED-044:
     title: "Will-Understanding Ontological Priority"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -13510,6 +13676,7 @@ extended_nodes:
   SWED-045:
     title: "Will as Receptive, Not Productive (Vulnerability Model)"
     domain: SWED
+    node_type: concept
     status: validated
     confidence: high
     
@@ -13593,6 +13760,7 @@ extended_nodes:
   SWED-046:
     title: "Organ-Faculty Correspondence Hypothesis"
     domain: SWED
+    node_type: hypothesis
     status: preliminary
     confidence: low
     
@@ -13695,6 +13863,7 @@ extended_nodes:
   SWED-047:
     title: "True Healing vs Physical Healing (Normative Definition)"
     domain: SWED
+    node_type: hypothesis
     status: validated
     confidence: high
     
@@ -13785,6 +13954,7 @@ extended_nodes:
   MYTH-017:
     title: "Dispensational Animal Sequence (Bull→Sheep→Bull)"
     domain: MYTH
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -13914,6 +14084,7 @@ extended_nodes:
   CONSC-046:
     title: "Restorative Return: DOPS Statistical Validation (Gemini Deep Research Audit)"
     domain: CONSC
+    node_type: evidence
     status: validated
     confidence: high
     
@@ -14046,6 +14217,7 @@ extended_nodes:
   CONSC-047:
     title: "SOCS Selection Bias: The Trauma Filter Hypothesis"
     domain: CONSC
+    node_type: evidence
     status: validated
     definition: >
       The Strength of Case Scale (SOCS), developed by DOPS to evaluate past-life memory claims,
@@ -14128,6 +14300,7 @@ extended_nodes:
   CONSC-048:
     title: "Ohkado Reverse Cases: Intermission Memories Without Past-Life Recall"
     domain: CONSC
+    node_type: evidence
     status: validated
     definition: >
       Japanese researcher Ohkado Masayuki documented "Reverse Cases"—children who report 
@@ -14209,6 +14382,7 @@ extended_nodes:
   CONSC-049:
     title: "Veridical Pre-Existence (VPE): Perinatal Verification Protocol"
     domain: CONSC
+    node_type: evidence
     status: preliminary
     definition: >
       Rivas, Dirven, and Smit documented cases where children report verifiable information 
@@ -14285,6 +14459,7 @@ extended_nodes:
   CONSC-050:
     title: "COPET Proposal: Cases of Pre-Existence Type Methodology"
     domain: CONSC
+    node_type: evidence
     status: preliminary
     definition: >
       A proposed complementary methodology to CORT (Cases of Reincarnation Type) specifically 
@@ -14372,6 +14547,7 @@ extended_nodes:
   CONSC-051:
     title: "Return Reason Discriminant: WHY vs HOW"
     domain: CONSC
+    node_type: evidence
     status: validated
     definition: >
       Empirical finding that the REASON for return to physical life (earthly_mission vs 
@@ -14430,6 +14606,7 @@ extended_nodes:
   CONSC-052:
     title: "Pre-Birth Indicator Hierarchy: Predictive Power Ranking"
     domain: CONSC
+    node_type: evidence
     status: validated
     definition: >
       Empirical ranking of pre-birth indicators by their discriminating power for 
@@ -14507,6 +14684,7 @@ extended_nodes:
   CONSC-053:
     title: "Soul Path Population Distribution: Empirical Estimates"
     domain: CONSC
+    node_type: evidence
     status: validated
     definition: >
       Empirical population estimates for soul path classification based on analysis of 
@@ -14605,6 +14783,7 @@ extended_nodes:
   CONSC-054:
     title: "Spontaneous Remission: Spiritual Transformation Precedes Physical Healing"
     domain: CONSC
+    node_type: evidence
     status: validated
     definition: >
       Systematic analysis of spontaneous remission and miraculous healing data confirms 

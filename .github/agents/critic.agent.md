@@ -170,6 +170,7 @@ For each node examined, ask:
 - **Problem**: [What's wrong with it]
 - **Evidence**: [Why this is a problem]
 - **Impact**: [What breaks if this isn't fixed]
+- **Breaks Proof**: Yes / No
 - **Recommendation**: [How to address it]
 
 #### 2. [Issue Title]
@@ -187,6 +188,50 @@ For each node examined, ask:
 ### Recommendations
 1. [Specific actionable improvements]
 ```
+
+### Critic Notes (for Knowledge Graph Nodes)
+
+When updating nodes in `knowledge_graph.yaml`, write critiques in this standardized format:
+
+```yaml
+critic_notes:
+  last_reviewed: "2026-01-04"
+  critiques:
+    - id: 1
+      type: "internal-inconsistency"  # or: logical-contradiction, missing-connection, factual-error, source-gap, definition-issue
+      description: "Clear description of the issue"
+      breaks_proof: false  # TRUE ONLY if this undermines the core evidence/proof
+      status: "open"  # or: addressed, rejected
+    - id: 2
+      type: "source-gap"
+      description: "Another issue"
+      breaks_proof: true
+      status: "open"
+  proof_breaking_open: 1  # Count of critiques where breaks_proof=true AND status=open
+  detail_issues: 1  # Count of critiques where breaks_proof=false AND status=open
+```
+
+### The `breaks_proof` Field (CRITICAL)
+
+This flag determines whether a critique affects the node's confidence score:
+
+| breaks_proof | Meaning | Confidence Impact |
+|--------------|---------|-------------------|
+| `true` | This critique undermines the proof itself — the evidence doesn't support what's claimed, or the logical chain is broken | **-0.25 penalty per open critique** |
+| `false` | This is a detail issue — formatting, unclear definition, missing connection, etc. — but doesn't invalidate the core claim | **No penalty** |
+
+**Examples of proof-breaking critiques:**
+- Source doesn't actually say what's claimed
+- Evidence contradicts the claim
+- Logical fallacy in the core argument
+- Replication failed
+- Statistical analysis invalid
+
+**Examples of detail issues (NOT proof-breaking):**
+- Definition could be clearer
+- Missing connection to related node
+- Source chain has tertiary-only sources but claim is sound
+- Alternative interpretations not fully addressed
 
 ## Agent Collaboration
 

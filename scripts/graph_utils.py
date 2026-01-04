@@ -5,12 +5,26 @@ Knowledge Graph Utilities for The Divine Bricolage
 Provides functions for querying, validating, and visualizing the knowledge graph.
 
 Usage:
-    python graph_utils.py stats          # Show graph statistics
-    python graph_utils.py validate       # Check graph integrity
-    python graph_utils.py list [domain]  # List nodes (optionally by domain)
-    python graph_utils.py connections    # Show connection network
-    python graph_utils.py untraced       # List claims needing source tracing
-    python graph_utils.py export-md      # Export to markdown for GitHub viewing
+    python graph_utils.py stats              # Show graph statistics
+    python graph_utils.py validate           # Check graph integrity (errors + warnings)
+    python graph_utils.py validate -v        # Verbose validation with info messages
+    python graph_utils.py audit              # Full audit report with recommendations
+    python graph_utils.py audit -o report.md # Write audit to file
+    python graph_utils.py list [domain]      # List nodes (optionally by domain)
+    python graph_utils.py connections        # Show connection network
+    python graph_utils.py untraced           # List claims needing source tracing
+    python graph_utils.py export-md          # Export to markdown for GitHub viewing
+    python graph_utils.py confidence         # Show all confidence scores
+    python graph_utils.py score NODE_ID      # Calculate score for specific node
+    python graph_utils.py low-confidence     # Find nodes with low confidence
+    python graph_utils.py needs-extraction   # List evidence nodes without confidence_factors
+
+Options:
+    -j, --json       Output as JSON
+    -v, --verbose    Include informational messages
+    -o, --output     Write output to file
+    -d, --domain     Filter by domain ID
+    -t, --threshold  Confidence threshold (default: 0.50)
 """
 
 import yaml
@@ -25,6 +39,291 @@ SCRIPT_DIR = Path(__file__).parent
 REPO_ROOT = SCRIPT_DIR.parent
 GRAPH_PATH = REPO_ROOT / "graph" / "knowledge_graph.yaml"
 MARKDOWN_PATH = REPO_ROOT / "graph" / "knowledge_graph.md"
+
+
+# =============================================================================
+# CONFIDENCE SCORING SYSTEM
+# =============================================================================
+# Evidence nodes have intrinsic confidence from empirical factors.
+# All other nodes derive confidence from their evidence base.
+# Scores are calculated from enum values written by the Confidence Extractor agent.
+
+# Enum-to-score mappings for intrinsic confidence factors
+METHODOLOGY_SCORES = {
+    "randomized_controlled": 1.0,
+    "prospective": 0.85,
+    "retrospective": 0.70,
+    "observational": 0.65,
+    "textual_critical": 0.60,
+    "case_study": 0.50,
+    "theoretical": 0.30,
+    "na": 0.50,  # Neutral default
+}
+
+SAMPLE_SIZE_SCORES = {
+    "population": 1.0,
+    "large_1000+": 0.95,
+    "medium_100-999": 0.75,
+    "small_10-99": 0.50,
+    "minimal_<10": 0.25,
+    "na": 0.50,
+}
+
+REPLICATION_SCORES = {
+    "independent_replicated": 1.0,
+    "internal_replicated": 0.75,
+    "single_study": 0.50,
+    "unreplicated": 0.25,
+    "na": 0.50,
+}
+
+PEER_REVIEW_SCORES = {
+    "peer_reviewed_journal": 1.0,
+    "peer_reviewed_book": 0.90,
+    "dissertation": 0.75,
+    "preprint": 0.50,
+    "unpublished": 0.30,
+    "primary_text": 0.80,  # Primary texts have inherent authority
+    "na": 0.50,
+}
+
+SOURCE_CHAIN_QUALITY_SCORES = {
+    "primary_verified": 1.0,
+    "primary_unverified": 0.80,
+    "mixed": 0.70,
+    "secondary": 0.60,
+    "tertiary": 0.40,
+    "web": 0.50,
+}
+
+# Weights for combining intrinsic factors
+INTRINSIC_WEIGHTS = {
+    "methodology": 0.30,
+    "sample_size": 0.20,
+    "replication": 0.25,
+    "peer_review": 0.15,
+    "source_chain_quality": 0.10,
+}
+
+# Node type caps (foundational claims can't be "high" without extensive evidence)
+NODE_TYPE_CAPS = {
+    "foundational": 0.70,
+    "concept": 0.85,
+    "hypothesis": 0.90,
+    "evidence": 1.00,
+    "synthesis": 0.85,
+}
+
+# Penalty for open proof-breaking critiques
+PROOF_BREAKING_PENALTY = 0.25
+
+
+def calculate_intrinsic_confidence(factors: dict) -> float:
+    """
+    Calculate intrinsic confidence score from enum factors.
+    Used for evidence nodes.
+    """
+    if not factors:
+        return 0.0
+    
+    score = 0.0
+    total_weight = 0.0
+    
+    for factor, weight in INTRINSIC_WEIGHTS.items():
+        value = factors.get(factor)
+        if value:
+            score_map = {
+                "methodology": METHODOLOGY_SCORES,
+                "sample_size": SAMPLE_SIZE_SCORES,
+                "replication": REPLICATION_SCORES,
+                "peer_review": PEER_REVIEW_SCORES,
+                "source_chain_quality": SOURCE_CHAIN_QUALITY_SCORES,
+            }
+            factor_score = score_map[factor].get(value, 0.5)
+            score += factor_score * weight
+            total_weight += weight
+    
+    if total_weight > 0:
+        return score / total_weight * total_weight  # Weighted average
+    return 0.0
+
+
+def calculate_derived_confidence(node_id: str, nodes: dict, visited: set = None) -> float:
+    """
+    Calculate derived confidence from evidence base.
+    Used for non-evidence nodes.
+    Recursively aggregates confidence from connected evidence nodes.
+    """
+    if visited is None:
+        visited = set()
+    
+    if node_id in visited:
+        return 0.0  # Prevent cycles
+    visited.add(node_id)
+    
+    node = nodes.get(node_id, {})
+    node_type = node.get('node_type', 'concept')
+    
+    # Evidence nodes use intrinsic confidence
+    if node_type == 'evidence':
+        factors = node.get('confidence_factors', {})
+        return calculate_intrinsic_confidence(factors)
+    
+    # Non-evidence nodes derive from connections
+    connections = node.get('connections', [])
+    if not connections:
+        return 0.30  # Orphan non-evidence node gets low confidence
+    
+    # Find supporting evidence
+    evidence_scores = []
+    support_connections = ['supported_by', 'validated_by', 'instantiated_by']
+    
+    for conn in connections:
+        target_id = conn.get('target')
+        conn_type = conn.get('type')
+        
+        if target_id and target_id in nodes:
+            target_node = nodes[target_id]
+            target_type = target_node.get('node_type', 'concept')
+            
+            # Direct evidence support
+            if target_type == 'evidence' and conn_type in support_connections:
+                target_score = calculate_derived_confidence(target_id, nodes, visited.copy())
+                evidence_scores.append(target_score)
+            # Indirect support (synthesis, concepts with evidence)
+            elif conn_type in support_connections:
+                target_score = calculate_derived_confidence(target_id, nodes, visited.copy())
+                evidence_scores.append(target_score * 0.8)  # Slight discount for indirection
+    
+    if evidence_scores:
+        # Use average with slight boost for multiple independent streams
+        base_score = sum(evidence_scores) / len(evidence_scores)
+        stream_bonus = min(0.1, len(evidence_scores) * 0.02)  # Up to 0.1 bonus for multiple streams
+        return min(1.0, base_score + stream_bonus)
+    
+    return 0.30  # No evidence connections
+
+
+def get_node_cycles(node_id: str, nodes: dict) -> list:
+    """
+    Check if a specific node is involved in any circular proof chains.
+    Returns list of cycles the node participates in (empty if none).
+    """
+    all_cycles = detect_proof_cycles(nodes)
+    node_cycles = []
+    for cycle in all_cycles:
+        if node_id in cycle:
+            node_cycles.append(cycle)
+    return node_cycles
+
+
+def calculate_node_confidence(node_id: str, nodes: dict) -> dict:
+    """
+    Calculate full confidence assessment for a node.
+    Returns dict with score, label, and breakdown.
+    
+    IMPORTANT: If node is part of a circular proof chain, returns
+    score=0 and label='circular' as cycles are epistemologically invalid.
+    """
+    node = nodes.get(node_id, {})
+    node_type = node.get('node_type', 'concept')
+    
+    # Check for circular proof chains FIRST
+    cycles = get_node_cycles(node_id, nodes)
+    if cycles:
+        return {
+            "node_id": node_id,
+            "node_type": node_type,
+            "base_score": 0.0,
+            "cap_applied": None,
+            "capped_score": 0.0,
+            "proof_breaking_penalty": None,
+            "final_score": 0.0,
+            "label": "circular",
+            "score_source": "blocked",
+            "circular_chains": [' -> '.join(c) for c in cycles],
+            "error": "Node is part of circular proof chain - confidence cannot be calculated",
+        }
+    
+    # Base score calculation
+    if node_type == 'evidence':
+        factors = node.get('confidence_factors', {})
+        base_score = calculate_intrinsic_confidence(factors)
+        score_source = "intrinsic"
+    else:
+        base_score = calculate_derived_confidence(node_id, nodes)
+        score_source = "derived"
+    
+    # Apply node type cap
+    cap = NODE_TYPE_CAPS.get(node_type, 0.85)
+    capped_score = min(base_score, cap)
+    
+    # Apply proof-breaking penalty
+    critic_notes = node.get('critic_notes', {})
+    proof_breaking_count = critic_notes.get('proof_breaking_open', 0)
+    penalty = proof_breaking_count * PROOF_BREAKING_PENALTY
+    final_score = max(0.0, capped_score - penalty)
+    
+    # Determine label
+    # Note: 'circular' label is handled above in cycle check
+    if proof_breaking_count > 0:
+        label = "contested"
+    elif final_score >= 0.75:
+        label = "high"
+    elif final_score >= 0.50:
+        label = "medium"
+    elif final_score >= 0.25:
+        label = "low"
+    else:
+        label = "preliminary"
+    
+    return {
+        "node_id": node_id,
+        "node_type": node_type,
+        "base_score": round(base_score, 3),
+        "cap_applied": cap if base_score > cap else None,
+        "capped_score": round(capped_score, 3),
+        "proof_breaking_penalty": round(penalty, 3) if penalty > 0 else None,
+        "final_score": round(final_score, 3),
+        "label": label,
+        "score_source": score_source,
+    }
+
+
+def get_all_confidence_scores(graph: dict) -> list:
+    """Get confidence scores for all nodes."""
+    nodes = get_all_nodes(graph)
+    results = []
+    
+    for node_id in nodes:
+        result = calculate_node_confidence(node_id, nodes)
+        result['title'] = nodes[node_id].get('title', 'Untitled')
+        results.append(result)
+    
+    return sorted(results, key=lambda x: x['final_score'], reverse=True)
+
+
+def get_low_confidence_nodes(graph: dict, threshold: float = 0.50) -> list:
+    """Find nodes below confidence threshold."""
+    scores = get_all_confidence_scores(graph)
+    return [s for s in scores if s['final_score'] < threshold]
+
+
+def get_needs_extraction(graph: dict) -> list:
+    """Find evidence nodes without confidence_factors."""
+    nodes = get_all_nodes(graph)
+    needs = []
+    
+    for node_id, node in nodes.items():
+        if node.get('node_type') == 'evidence':
+            if not node.get('confidence_factors'):
+                needs.append({
+                    'id': node_id,
+                    'title': node.get('title', 'Untitled'),
+                    'domain': node.get('domain'),
+                })
+    
+    return sorted(needs, key=lambda x: x['id'])
 
 
 def load_graph() -> dict:
@@ -73,50 +372,295 @@ def get_stats(graph: dict) -> dict:
     }
 
 
-def validate_graph(graph: dict) -> list:
-    """Validate graph integrity, return list of issues."""
-    issues = []
+def detect_proof_cycles(nodes: dict) -> list:
+    """
+    Detect circular proof chains in the knowledge graph.
+    
+    Circular proofs are epistemologically invalid - A cannot prove B if B proves A.
+    This function finds all cycles in proof-related connections.
+    
+    Args:
+        nodes: Dictionary of node_id -> node data
+        
+    Returns:
+        List of cycles, where each cycle is a list of node IDs forming the cycle
+    """
+    # Relationships that constitute "proof" or evidence support
+    # These are the connections where confidence flows
+    proof_relations = ['supports', 'validates', 'instantiates', 'requires']
+    
+    # Build directed graph of proof relationships
+    graph = {node_id: [] for node_id in nodes}
+    
+    for node_id, node in nodes.items():
+        for conn in node.get('connections', []):
+            target = conn.get('target')
+            rel_type = conn.get('type', '')
+            # These relations mean: this node contributes to target's proof
+            if rel_type in proof_relations and target in nodes:
+                graph[node_id].append((target, rel_type))
+    
+    # DFS-based cycle detection using coloring
+    WHITE, GRAY, BLACK = 0, 1, 2
+    color = {n: WHITE for n in graph}
+    cycles = []
+    
+    def dfs(node, path):
+        color[node] = GRAY
+        for neighbor, rel in graph[node]:
+            if color[neighbor] == GRAY:
+                # Found cycle - extract it
+                try:
+                    cycle_start = path.index(neighbor)
+                    cycle = path[cycle_start:] + [neighbor]
+                    cycles.append(cycle)
+                except ValueError:
+                    pass  # Shouldn't happen, but be safe
+            elif color[neighbor] == WHITE:
+                dfs(neighbor, path + [neighbor])
+        color[node] = BLACK
+    
+    for node in graph:
+        if color[node] == WHITE:
+            dfs(node, [node])
+    
+    return cycles
+
+
+def validate_graph(graph: dict, verbose: bool = False) -> dict:
+    """
+    Comprehensive graph validation. Returns structured report with all issues.
+    
+    Args:
+        graph: The loaded knowledge graph
+        verbose: If True, include informational messages not just errors
+    
+    Returns:
+        dict with 'issues' list, 'warnings' list, 'summary' dict
+    """
+    issues = []      # Errors that must be fixed
+    warnings = []    # Issues that should be addressed
+    info = []        # Informational notes
+    
     nodes = get_all_nodes(graph)
     metadata = graph.get('metadata', {})
     
+    # Get valid values from metadata
     valid_domains = {d['id'] for d in metadata.get('domains', [])}
     valid_statuses = set(metadata.get('statuses', {}).keys())
     valid_relationships = set(metadata.get('relationship_types', {}).keys())
+    valid_node_types = set(metadata.get('node_types', {}).keys())
+    
+    # Get valid enum values for confidence factors
+    confidence_enums = metadata.get('confidence_factor_enums', {})
+    valid_methodology = set(confidence_enums.get('methodology', {}).keys())
+    valid_sample_size = set(confidence_enums.get('sample_size', {}).keys())
+    valid_replication = set(confidence_enums.get('replication', {}).keys())
+    valid_peer_review = set(confidence_enums.get('peer_review', {}).keys())
+    valid_source_quality = set(confidence_enums.get('source_chain_quality', {}).keys())
+    
+    # Track statistics
+    stats = {
+        'total_nodes': len(nodes),
+        'evidence_nodes': 0,
+        'evidence_with_factors': 0,
+        'evidence_missing_factors': 0,
+        'nodes_with_critiques': 0,
+        'nodes_never_reviewed': 0,
+        'proof_breaking_open': 0,
+        'orphan_nodes': 0,
+        'missing_source_chain': 0,
+        'missing_node_type': 0,
+        'invalid_connections': 0,
+        'circular_proof_chains': 0,
+    }
+    
+    # Required fields for all nodes
+    required_fields = ['title', 'domain', 'node_type', 'status', 'definition', 'source_chain']
     
     for node_id, node in nodes.items():
-        # Check domain
-        if node.get('domain') not in valid_domains:
-            issues.append(f"{node_id}: Invalid domain '{node.get('domain')}'")
+        node_issues = []
+        node_warnings = []
         
-        # Check status
-        if node.get('status') not in valid_statuses:
-            issues.append(f"{node_id}: Invalid status '{node.get('status')}'")
+        # === STRUCTURAL VALIDATION ===
         
-        # Check source chain exists
-        if not node.get('source_chain'):
-            issues.append(f"{node_id}: Missing source chain")
+        # Check required fields
+        for field in required_fields:
+            if not node.get(field):
+                if field == 'source_chain':
+                    stats['missing_source_chain'] += 1
+                    node_issues.append(f"Missing required field: {field}")
+                elif field == 'node_type':
+                    stats['missing_node_type'] += 1
+                    node_issues.append(f"Missing required field: {field}")
+                else:
+                    node_issues.append(f"Missing required field: {field}")
         
-        # Check connections reference valid nodes
+        # Check domain validity
+        domain = node.get('domain')
+        if domain and domain not in valid_domains:
+            node_issues.append(f"Invalid domain: '{domain}'")
+        
+        # Check status validity
+        status = node.get('status')
+        if status and status not in valid_statuses:
+            node_issues.append(f"Invalid status: '{status}'")
+        
+        # Check node_type validity
+        node_type = node.get('node_type')
+        if node_type and node_type not in valid_node_types:
+            node_issues.append(f"Invalid node_type: '{node_type}'")
+        
+        # Check connections
         for conn in node.get('connections', []):
             target = conn.get('target')
+            conn_type = conn.get('type')
+            
             if target and target not in nodes:
-                issues.append(f"{node_id}: Connection to non-existent node '{target}'")
-            if conn.get('type') not in valid_relationships:
-                issues.append(f"{node_id}: Invalid relationship type '{conn.get('type')}'")
+                stats['invalid_connections'] += 1
+                node_issues.append(f"Connection to non-existent node: '{target}'")
+            
+            if conn_type and conn_type not in valid_relationships:
+                node_issues.append(f"Invalid relationship type: '{conn_type}'")
+            
+            if not conn.get('note'):
+                node_warnings.append(f"Connection to '{target}' missing note/explanation")
+        
+        # === EVIDENCE NODE VALIDATION ===
+        
+        if node_type == 'evidence':
+            stats['evidence_nodes'] += 1
+            
+            factors = node.get('confidence_factors', {})
+            if not factors:
+                stats['evidence_missing_factors'] += 1
+                node_warnings.append("Evidence node missing confidence_factors (run @confidence-extractor)")
+            else:
+                stats['evidence_with_factors'] += 1
+                
+                # Validate each factor enum value
+                factor_checks = [
+                    ('methodology', valid_methodology, factors.get('methodology')),
+                    ('sample_size', valid_sample_size, factors.get('sample_size')),
+                    ('replication', valid_replication, factors.get('replication')),
+                    ('peer_review', valid_peer_review, factors.get('peer_review')),
+                    ('source_chain_quality', valid_source_quality, factors.get('source_chain_quality')),
+                ]
+                
+                for factor_name, valid_values, actual_value in factor_checks:
+                    if not actual_value:
+                        node_warnings.append(f"confidence_factors.{factor_name} is missing")
+                    elif valid_values and actual_value not in valid_values:
+                        node_issues.append(f"Invalid confidence_factors.{factor_name}: '{actual_value}'")
+        
+        # === CRITIC NOTES VALIDATION ===
+        
+        critic_notes = node.get('critic_notes', {})
+        if critic_notes:
+            stats['nodes_with_critiques'] += 1
+            
+            # Check for required fields in critic_notes
+            if not critic_notes.get('last_reviewed'):
+                node_warnings.append("critic_notes missing 'last_reviewed' date")
+            
+            critiques = critic_notes.get('critiques', [])
+            proof_breaking_count = 0
+            detail_count = 0
+            
+            for i, critique in enumerate(critiques):
+                if 'breaks_proof' not in critique:
+                    node_warnings.append(f"Critique #{i+1} missing 'breaks_proof' flag")
+                elif critique.get('breaks_proof') and critique.get('status') == 'open':
+                    proof_breaking_count += 1
+                elif not critique.get('breaks_proof') and critique.get('status') == 'open':
+                    detail_count += 1
+                
+                if not critique.get('type'):
+                    node_warnings.append(f"Critique #{i+1} missing 'type'")
+                if not critique.get('description'):
+                    node_warnings.append(f"Critique #{i+1} missing 'description'")
+            
+            # Check counts match
+            recorded_pb = critic_notes.get('proof_breaking_open', 0)
+            recorded_detail = critic_notes.get('detail_issues', 0)
+            
+            if recorded_pb != proof_breaking_count:
+                node_warnings.append(f"proof_breaking_open count mismatch: recorded {recorded_pb}, actual {proof_breaking_count}")
+            if recorded_detail != detail_count:
+                node_warnings.append(f"detail_issues count mismatch: recorded {recorded_detail}, actual {detail_count}")
+            
+            stats['proof_breaking_open'] += proof_breaking_count
+        else:
+            stats['nodes_never_reviewed'] += 1
+            if verbose:
+                info.append(f"{node_id}: Never reviewed by critic")
+        
+        # === SOURCE CHAIN VALIDATION ===
+        
+        source_chain = node.get('source_chain', [])
+        if source_chain:
+            valid_source_types = {'P', 'S', 'T', 'E', 'W'}
+            for i, source in enumerate(source_chain):
+                src_type = source.get('type')
+                if src_type not in valid_source_types:
+                    node_warnings.append(f"Source #{i+1} has invalid type: '{src_type}'")
+                if not source.get('ref'):
+                    node_warnings.append(f"Source #{i+1} missing 'ref'")
+        
+        # Check trace_status
+        trace_status = node.get('trace_status')
+        if trace_status == 'untraced':
+            node_warnings.append("trace_status is 'untraced' - needs source verification")
+        elif trace_status == 'partial':
+            if verbose:
+                info.append(f"{node_id}: Source chain partially traced")
+        
+        # Collect issues for this node
+        if node_issues:
+            for issue in node_issues:
+                issues.append(f"{node_id}: {issue}")
+        if node_warnings:
+            for warning in node_warnings:
+                warnings.append(f"{node_id}: {warning}")
     
-    # Check for orphan nodes (no connections)
+    # === GRAPH-WIDE CHECKS ===
+    
+    # Check for orphan nodes
     connected_nodes = set()
     for node_id, node in nodes.items():
         for conn in node.get('connections', []):
             connected_nodes.add(node_id)
-            connected_nodes.add(conn.get('target'))
+            target = conn.get('target')
+            if target:
+                connected_nodes.add(target)
     
     orphans = set(nodes.keys()) - connected_nodes
     if orphans and len(nodes) > 1:
+        stats['orphan_nodes'] = len(orphans)
         for orphan in orphans:
-            issues.append(f"{orphan}: Orphan node (no connections)")
+            warnings.append(f"{orphan}: Orphan node (no connections)")
     
-    return issues
+    # Check for circular proof chains
+    cycles = detect_proof_cycles(nodes)
+    stats['circular_proof_chains'] = len(cycles)
+    if cycles:
+        for cycle in cycles:
+            cycle_str = ' -> '.join(cycle)
+            issues.append(f"CIRCULAR PROOF: {cycle_str}")
+    
+    return {
+        'issues': issues,
+        'warnings': warnings,
+        'info': info if verbose else [],
+        'summary': stats,
+        'passed': len(issues) == 0,
+    }
+
+
+def validate_graph_legacy(graph: dict) -> list:
+    """Legacy validation function for backward compatibility."""
+    result = validate_graph(graph)
+    return result['issues'] + result['warnings']
 
 
 def list_nodes(graph: dict, domain: str = None) -> list:
@@ -247,76 +791,340 @@ def export_to_markdown(graph: dict) -> str:
 
 def main():
     parser = argparse.ArgumentParser(description="Knowledge Graph Utilities")
-    parser.add_argument('command', choices=['stats', 'validate', 'list', 'connections', 'untraced', 'export-md'])
+    parser.add_argument('command', choices=[
+        'stats', 'validate', 'audit', 'list', 'connections', 'untraced', 'export-md',
+        'confidence', 'score', 'low-confidence', 'needs-extraction'
+    ])
     parser.add_argument('--domain', '-d', help="Filter by domain ID")
     parser.add_argument('--json', '-j', action='store_true', help="Output as JSON")
+    parser.add_argument('--threshold', '-t', type=float, default=0.50, 
+                        help="Confidence threshold for low-confidence command")
+    parser.add_argument('--verbose', '-v', action='store_true', help="Include informational messages")
+    parser.add_argument('--output', '-o', help="Write output to file instead of console")
+    parser.add_argument('node_id', nargs='?', help="Node ID for score command")
     
     args = parser.parse_args()
     
     graph = load_graph()
     
+    # Helper for output (handles unicode on Windows)
+    def output(text):
+        if args.output:
+            with open(args.output, 'a', encoding='utf-8') as f:
+                f.write(text + '\n')
+        else:
+            # Handle unicode characters that Windows console can't display
+            try:
+                print(text)
+            except UnicodeEncodeError:
+                print(text.encode('ascii', 'replace').decode('ascii'))
+    
+    if args.output:
+        # Clear output file
+        with open(args.output, 'w', encoding='utf-8') as f:
+            f.write(f"# Graph Utils Report - {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
+    
     if args.command == 'stats':
         stats = get_stats(graph)
         if args.json:
-            print(json.dumps(stats, indent=2))
+            output(json.dumps(stats, indent=2))
         else:
-            print("\n=== Knowledge Graph Statistics ===\n")
-            print(f"Total Nodes:       {stats['total_nodes']}")
-            print(f"Total Connections: {stats['total_connections']}")
-            print(f"Untraced Claims:   {stats['untraced_claims']}")
-            print("\nBy Status:")
+            output("\n=== Knowledge Graph Statistics ===\n")
+            output(f"Total Nodes:       {stats['total_nodes']}")
+            output(f"Total Connections: {stats['total_connections']}")
+            output(f"Untraced Claims:   {stats['untraced_claims']}")
+            output("\nBy Status:")
             for status, count in stats['by_status'].items():
-                print(f"  {status}: {count}")
-            print("\nBy Domain:")
+                output(f"  {status}: {count}")
+            output("\nBy Domain:")
             for domain, count in stats['by_domain'].items():
-                print(f"  {domain}: {count}")
+                output(f"  {domain}: {count}")
     
     elif args.command == 'validate':
-        issues = validate_graph(graph)
-        if issues:
-            print(f"\n=== Found {len(issues)} issues ===\n")
-            for issue in issues:
-                print(f"  ⚠ {issue}")
+        result = validate_graph(graph, verbose=args.verbose)
+        if args.json:
+            output(json.dumps(result, indent=2))
         else:
-            print("\n✓ Graph validation passed - no issues found\n")
+            if result['passed']:
+                output("\n[PASS] Graph validation passed - no critical issues\n")
+            else:
+                output(f"\n[FAIL] Found {len(result['issues'])} critical issues\n")
+            
+            if result['issues']:
+                output("=== ERRORS (must fix) ===\n")
+                for issue in result['issues']:
+                    output(f"  [!] {issue}")
+            
+            if result['warnings']:
+                output(f"\n=== WARNINGS ({len(result['warnings'])}) ===\n")
+                for warning in result['warnings']:
+                    output(f"  [?] {warning}")
+            
+            # Print summary
+            s = result['summary']
+            output("\n=== Summary ===")
+            output(f"  Total nodes:              {s['total_nodes']}")
+            output(f"  Evidence nodes:           {s['evidence_nodes']}")
+            output(f"    - With factors:         {s['evidence_with_factors']}")
+            output(f"    - Missing factors:      {s['evidence_missing_factors']}")
+            output(f"  Nodes with critiques:     {s['nodes_with_critiques']}")
+            output(f"  Nodes never reviewed:     {s['nodes_never_reviewed']}")
+            output(f"  Open proof-breaking:      {s['proof_breaking_open']}")
+            output(f"  Orphan nodes:             {s['orphan_nodes']}")
+    
+    elif args.command == 'audit':
+        # Full audit report - comprehensive analysis
+        result = validate_graph(graph, verbose=True)
+        nodes = get_all_nodes(graph)
+        
+        output("\n" + "=" * 60)
+        output("  KNOWLEDGE GRAPH AUDIT REPORT")
+        output(f"  Generated: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+        output("=" * 60)
+        
+        # Overall status
+        s = result['summary']
+        output(f"\n{'[PASS]' if result['passed'] else '[FAIL]'} Overall Status\n")
+        
+        # Statistics section
+        output("=" * 40)
+        output("  1. STATISTICS")
+        output("=" * 40)
+        output(f"  Total Nodes:              {s['total_nodes']}")
+        output(f"  Evidence Nodes:           {s['evidence_nodes']}")
+        output(f"  Orphan Nodes:             {s['orphan_nodes']}")
+        
+        # Evidence node status
+        output("\n--- Evidence Node Status ---")
+        output(f"  With confidence_factors:  {s['evidence_with_factors']}")
+        output(f"  Missing factors:          {s['evidence_missing_factors']}")
+        if s['evidence_nodes'] > 0:
+            pct = (s['evidence_with_factors'] / s['evidence_nodes']) * 100
+            output(f"  Completion:               {pct:.1f}%")
+        
+        # Critic status
+        output("\n--- Critic Review Status ---")
+        output(f"  Nodes with critiques:     {s['nodes_with_critiques']}")
+        output(f"  Nodes never reviewed:     {s['nodes_never_reviewed']}")
+        output(f"  Open proof-breaking:      {s['proof_breaking_open']}")
+        if s['total_nodes'] > 0:
+            pct = (s['nodes_with_critiques'] / s['total_nodes']) * 100
+            output(f"  Review coverage:          {pct:.1f}%")
+        
+        # Circular proof chains (critical integrity issue)
+        if s.get('circular_proof_chains', 0) > 0:
+            output("\n--- CIRCULAR PROOF CHAINS ---")
+            output(f"  [CRITICAL] {s['circular_proof_chains']} circular proof chains detected!")
+            output("  Circular proofs are epistemologically invalid - must be resolved.")
+        
+        # Critical errors
+        if result['issues']:
+            output("\n" + "=" * 40)
+            output("  2. CRITICAL ERRORS")
+            output("=" * 40)
+            for issue in result['issues']:
+                output(f"  [!] {issue}")
+        
+        # Warnings by category
+        if result['warnings']:
+            output("\n" + "=" * 40)
+            output("  3. WARNINGS BY CATEGORY")
+            output("=" * 40)
+            
+            # Categorize warnings
+            missing_factors = []
+            missing_critiques = []
+            connection_issues = []
+            source_issues = []
+            other = []
+            
+            for w in result['warnings']:
+                if 'confidence_factors' in w:
+                    missing_factors.append(w)
+                elif 'critic' in w.lower() or 'critique' in w.lower() or 'proof_breaking' in w or 'detail_issues' in w:
+                    missing_critiques.append(w)
+                elif 'Connection' in w or 'connection' in w:
+                    connection_issues.append(w)
+                elif 'source' in w.lower() or 'trace' in w.lower():
+                    source_issues.append(w)
+                else:
+                    other.append(w)
+            
+            if missing_factors:
+                output(f"\n--- Missing Confidence Factors ({len(missing_factors)}) ---")
+                for w in missing_factors[:10]:  # Show first 10
+                    output(f"  {w}")
+                if len(missing_factors) > 10:
+                    output(f"  ... and {len(missing_factors) - 10} more")
+            
+            if missing_critiques:
+                output(f"\n--- Critic Issues ({len(missing_critiques)}) ---")
+                for w in missing_critiques[:10]:
+                    output(f"  {w}")
+                if len(missing_critiques) > 10:
+                    output(f"  ... and {len(missing_critiques) - 10} more")
+            
+            if connection_issues:
+                output(f"\n--- Connection Issues ({len(connection_issues)}) ---")
+                for w in connection_issues[:10]:
+                    output(f"  {w}")
+                if len(connection_issues) > 10:
+                    output(f"  ... and {len(connection_issues) - 10} more")
+            
+            if source_issues:
+                output(f"\n--- Source Chain Issues ({len(source_issues)}) ---")
+                for w in source_issues[:10]:
+                    output(f"  {w}")
+                if len(source_issues) > 10:
+                    output(f"  ... and {len(source_issues) - 10} more")
+            
+            if other:
+                output(f"\n--- Other Issues ({len(other)}) ---")
+                for w in other[:10]:
+                    output(f"  {w}")
+                if len(other) > 10:
+                    output(f"  ... and {len(other) - 10} more")
+        
+        # Action items
+        output("\n" + "=" * 40)
+        output("  4. RECOMMENDED ACTIONS")
+        output("=" * 40)
+        
+        actions = []
+        if s.get('circular_proof_chains', 0) > 0:
+            actions.append(f"[CRITICAL] Break {s['circular_proof_chains']} circular proof chains (see errors above)")
+        if s['evidence_missing_factors'] > 0:
+            actions.append(f"Run @confidence-extractor on {s['evidence_missing_factors']} evidence nodes")
+        if s['nodes_never_reviewed'] > 0:
+            actions.append(f"Run @critic on {s['nodes_never_reviewed']} unreviewed nodes")
+        if s['proof_breaking_open'] > 0:
+            actions.append(f"Address {s['proof_breaking_open']} open proof-breaking critiques")
+        if s['orphan_nodes'] > 0:
+            actions.append(f"Connect {s['orphan_nodes']} orphan nodes to the graph")
+        if s['missing_source_chain'] > 0:
+            actions.append(f"Add source chains to {s['missing_source_chain']} nodes")
+        
+        if actions:
+            for i, action in enumerate(actions, 1):
+                output(f"  {i}. {action}")
+        else:
+            output("  No critical actions needed.")
+        
+        output("\n" + "=" * 60)
+        output("  END OF AUDIT REPORT")
+        output("=" * 60 + "\n")
     
     elif args.command == 'list':
-        nodes = list_nodes(graph, args.domain)
+        nodes_list = list_nodes(graph, args.domain)
         if args.json:
-            print(json.dumps(nodes, indent=2))
+            output(json.dumps(nodes_list, indent=2))
         else:
-            print(f"\n=== Nodes ({len(nodes)}) ===\n")
-            for node in nodes:
-                print(f"  [{node['id']}] {node['title']} ({node['status']}, {node['connections']} connections)")
+            output(f"\n=== Nodes ({len(nodes_list)}) ===\n")
+            for node in nodes_list:
+                output(f"  [{node['id']}] {node['title']} ({node['status']}, {node['connections']} connections)")
     
     elif args.command == 'untraced':
         untraced = graph.get('untraced', []) or []
         if args.json:
-            print(json.dumps(untraced, indent=2))
+            output(json.dumps(untraced, indent=2))
         else:
-            print(f"\n=== Untraced Claims ({len(untraced)}) ===\n")
+            output(f"\n=== Untraced Claims ({len(untraced)}) ===\n")
             for claim in untraced:
-                print(f"  • {claim.get('claim', 'Unknown')}")
-                print(f"    Found in: {claim.get('found_in', 'Unknown')}")
-                print(f"    Needed: {claim.get('needed', 'Original source')}")
-                print()
+                output(f"  * {claim.get('claim', 'Unknown')}")
+                output(f"    Found in: {claim.get('found_in', 'Unknown')}")
+                output(f"    Needed: {claim.get('needed', 'Original source')}")
+                output("")
     
     elif args.command == 'export-md':
         markdown = export_to_markdown(graph)
         with open(MARKDOWN_PATH, 'w', encoding='utf-8') as f:
             f.write(markdown)
-        print(f"✓ Exported to {MARKDOWN_PATH}")
+        output(f"Exported to {MARKDOWN_PATH}")
     
     elif args.command == 'connections':
-        nodes = graph.get('nodes', {}) or {}
-        print("\n=== Connection Network ===\n")
+        nodes = get_all_nodes(graph)
+        output("\n=== Connection Network ===\n")
         for node_id, node in nodes.items():
             conns = node.get('connections', [])
             if conns:
-                print(f"[{node_id}] {node.get('title', 'Untitled')}")
+                output(f"[{node_id}] {node.get('title', 'Untitled')}")
                 for conn in conns:
-                    print(f"  → {conn.get('type')} → [{conn.get('target')}]")
-                print()
+                    output(f"  -> {conn.get('type')} -> [{conn.get('target')}]")
+                output("")
+    
+    elif args.command == 'confidence':
+        scores = get_all_confidence_scores(graph)
+        if args.json:
+            output(json.dumps(scores, indent=2))
+        else:
+            output("\n=== Confidence Scores (highest first) ===\n")
+            circular_count = sum(1 for s in scores if s['label'] == 'circular')
+            if circular_count > 0:
+                output(f"  [!] {circular_count} nodes blocked due to circular proof chains\n")
+            for s in scores:
+                icon = {"high": "[H]", "medium": "[M]", "low": "[L]", "preliminary": "[P]", "contested": "[!]", "circular": "[X]"}.get(s['label'], "[?]")
+                title = s['title'][:50] if s['title'] else 'Untitled'
+                output(f"  {icon} [{s['node_id']}] {s['final_score']:.2f} ({s['label']}) - {title}")
+    
+    elif args.command == 'score':
+        if not args.node_id:
+            output("Error: node_id required for score command")
+            return
+        nodes = get_all_nodes(graph)
+        if args.node_id not in nodes:
+            output(f"Error: Node '{args.node_id}' not found")
+            return
+        result = calculate_node_confidence(args.node_id, nodes)
+        result['title'] = nodes[args.node_id].get('title', 'Untitled')
+        if args.json:
+            output(json.dumps(result, indent=2))
+        else:
+            output(f"\n=== Confidence Score: {args.node_id} ===\n")
+            output(f"  Title:         {result['title']}")
+            output(f"  Node Type:     {result['node_type']}")
+            output(f"  Score Source:  {result['score_source']}")
+            
+            # Handle circular proof chain error
+            if result['label'] == 'circular':
+                output(f"\n  [!] BLOCKED: Node is part of circular proof chain")
+                output(f"  Error:         {result.get('error', 'Circular dependency')}")
+                if result.get('circular_chains'):
+                    output(f"  Cycles:")
+                    for chain in result['circular_chains']:
+                        output(f"                 {chain}")
+                output(f"\n  Confidence cannot be calculated until cycle is broken.")
+            else:
+                output(f"  Base Score:    {result['base_score']:.3f}")
+                if result['cap_applied']:
+                    output(f"  Cap Applied:   {result['cap_applied']:.2f} (due to node_type)")
+                if result['proof_breaking_penalty']:
+                    output(f"  Penalty:       -{result['proof_breaking_penalty']:.3f} (proof-breaking critiques)")
+                output(f"  Final Score:   {result['final_score']:.3f}")
+                output(f"  Label:         {result['label']}")
+    
+    elif args.command == 'low-confidence':
+        low = get_low_confidence_nodes(graph, args.threshold)
+        if args.json:
+            output(json.dumps(low, indent=2))
+        else:
+            output(f"\n=== Low Confidence Nodes (below {args.threshold}) ===\n")
+            if not low:
+                output("  No nodes below threshold.")
+            for s in low:
+                icon = {"high": "[H]", "medium": "[M]", "low": "[L]", "preliminary": "[P]", "contested": "[!]"}.get(s['label'], "[?]")
+                title = s['title'][:50] if s['title'] else 'Untitled'
+                output(f"  {icon} [{s['node_id']}] {s['final_score']:.2f} ({s['label']}) - {title}")
+    
+    elif args.command == 'needs-extraction':
+        needs = get_needs_extraction(graph)
+        if args.json:
+            output(json.dumps(needs, indent=2))
+        else:
+            output(f"\n=== Evidence Nodes Needing Confidence Extraction ({len(needs)}) ===\n")
+            if not needs:
+                output("  All evidence nodes have confidence_factors.")
+            for n in needs:
+                output(f"  [{n['id']}] {n['title']} ({n['domain']})")
 
 
 if __name__ == '__main__':

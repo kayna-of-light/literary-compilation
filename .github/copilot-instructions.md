@@ -487,19 +487,21 @@ PRIORITY: [high|medium|low]
 ```
 
 #### 4. Confidence Extractor
-**Purpose**: Extract empirical quality factors for evidence nodes
+**Purpose**: Analyze sources and report empirical quality factors for evidence nodes
 
 **Input**: Node IDs with `node_type: evidence`
 
+**Tools**: `read`, `search`, `web` (read-only — cannot edit files)
+
 **Process**:
 - Read node definition and source chain
-- Explore sources using web tools as needed
-- Determine enum values for each confidence factor
-- Write `confidence_factors` directly to the node in YAML
+- Open and read actual source documents
+- Search web to verify publication details, sample sizes, replication
+- Report findings with recommended confidence_factors
 
 **When to Run**: Only for nodes with `node_type: evidence`. Skip for other node types.
 
-**Output**: `confidence_factors` property added to the node:
+**Output**: Structured report with recommended factors (does NOT edit the graph):
 ```yaml
 confidence_factors:
   methodology: [enum]
@@ -541,11 +543,13 @@ Agent Response:
 2. Implement draft nodes in YAML
 3. Run Source Tracer agent → get source chain verification
 4. Implement source chain updates
-5. For EVIDENCE nodes: Run Confidence Extractor → write confidence_factors
-6. Run Critic agent → get valid critiques with breaks_proof flags
-7. Implement critique resolutions, add critic_notes to nodes
-8. Run Graph Reviewer agent → get final validation
-9. Report summary to user
+5. For EVIDENCE nodes: Run Confidence Extractor → get factor recommendations
+6. Apply recommended confidence_factors to nodes
+7. Run Critic agent → get valid critiques with breaks_proof flags
+8. Implement critique resolutions, add critic_notes to nodes
+9. Run Graph Reviewer agent → get final validation
+10. Run `python scripts/graph_utils.py persist-scores` → calculate and write scores
+11. Report summary to user
 ```
 
 ### File Classification
@@ -568,31 +572,54 @@ Documents in `data/unclassified/` should be classified and moved before or durin
 
 ## Confidence Scoring System
 
-The knowledge graph uses a **propagating confidence system** where evidence nodes have intrinsic confidence (from empirical factors) and all other nodes derive confidence from their evidence base.
+The knowledge graph uses a **dual-track confidence system** where evidence nodes are classified based on where the proof comes from.
+
+### Dual-Track Classification
+
+**External Track** — Proof comes from cited peer-reviewed research:
+- Published academic studies (Stevenson, Tucker, van Lommel, Sanders, Meier)
+- Peer-reviewed journals and academic books
+- Primary historical texts (Josephus, Tacitus)
+- Even if OUR synthesis connects to framework, the proof source determines track
+
+**Internal Track** — WE produced the statistical analysis:
+- Our NDERF/IANDS statistical analyses
+- Framework syntheses that ARE the evidence (not just connecting external evidence)
 
 ### Architecture
 
 ```
-Evidence Nodes (intrinsic)          Non-Evidence Nodes (derived)
+External Track                      Internal Track
 ┌─────────────────────────┐        ┌─────────────────────────┐
-│ confidence_factors:     │        │ confidence calculated   │
-│   methodology: enum     │ ───────│ from connected evidence │
-│   sample_size: enum     │        │ nodes via graph_utils.py│
-│   replication: enum     │        │                         │
-│   peer_review: enum     │        │ Foundational: capped 0.70
-│   source_chain_quality: │        │ Concepts: capped 0.85   │
-└─────────────────────────┘        │ Hypotheses: capped 0.90 │
-                                   │ Synthesis: capped 0.85  │
-                                   └─────────────────────────┘
+│ confidence_factors:     │        │ confidence_factors:     │
+│   source_type: external │        │   source_type: internal │
+│   methodology: enum     │        │   methodology: enum     │
+│   sample_size: enum     │        │   sample_size: enum     │
+│   replication: enum     │        │   replication: enum     │
+│   peer_review: enum     │        │   methodological_       │
+│   source_chain_quality: │        │     transparency: enum  │
+└─────────────────────────┘        │   source_data_quality:  │
+                                   │   critic_reviewed: enum │
+Non-Evidence Nodes                 └─────────────────────────┘
+┌─────────────────────────┐
+│ confidence derived from │
+│ connected evidence nodes│
+│                         │
+│ Foundational: cap 0.70  │
+│ Concepts: cap 0.85      │
+│ Hypotheses: cap 0.90    │
+│ Synthesis: cap 0.85     │
+└─────────────────────────┘
 ```
 
 ### How It Works
 
-1. **Evidence nodes** have `confidence_factors` (enum values) written by the Confidence Extractor agent
-2. **graph_utils.py** converts enums to scores using defined mappings
-3. **Non-evidence nodes** derive scores from their supporting evidence (via `supported_by`, `validated_by`, etc.)
-4. **Proof-breaking critiques** apply a -0.25 penalty per open critique
-5. **Node type caps** limit how high non-evidence nodes can score
+1. **Evidence nodes** have `confidence_factors` (enum values) extracted by the Confidence Extractor agent
+2. **User/assistant applies** the reported factors to the node
+3. **`persist-scores` command** calculates scores and writes `confidence` property to each node
+4. **Non-evidence nodes** derive scores from their supporting evidence
+5. **Proof-breaking critiques** apply a -0.25 penalty per open critique
+6. **Node type caps** limit how high non-evidence nodes can score
 
 ### Utility Commands
 
@@ -601,27 +628,44 @@ python scripts/graph_utils.py confidence         # Show all confidence scores
 python scripts/graph_utils.py score NODE_ID      # Calculate score for specific node
 python scripts/graph_utils.py low-confidence     # Find nodes with low confidence
 python scripts/graph_utils.py needs-extraction   # List evidence nodes without confidence_factors
+python scripts/graph_utils.py persist-scores     # Calculate and write confidence scores to all nodes
 ```
 
 ### Agent Workflow for Evidence Nodes
 
 1. **Identify** nodes needing extraction: `python scripts/graph_utils.py needs-extraction`
 2. **Invoke** `@confidence-extractor` with the node ID
-3. **Agent explores** the source chain (using web tools as needed)
-4. **Agent writes** `confidence_factors` directly to the node in YAML
-5. **Score is calculated** automatically by graph_utils.py when queried
+3. **Agent reads** source documents and explores via web search
+4. **Agent reports** findings with recommended `confidence_factors` (does NOT edit)
+5. **User/assistant applies** the reported factors to the node in YAML
+6. **Persist scores**: `python scripts/graph_utils.py persist-scores`
+
+The agent has read-only access (`tools: ["read", "search", "web"]`). It analyzes and reports; edits are applied separately.
 
 ### Confidence Factor Enums
 
-For evidence nodes, the Confidence Extractor determines:
-
+#### External Track Factors
 | Factor | Values |
 |--------|--------|
+| `source_type` | `external` |
 | `methodology` | randomized_controlled, prospective, retrospective, observational, textual_critical, case_study, theoretical, na |
 | `sample_size` | population, large_1000+, medium_100-999, small_10-99, minimal_<10, na |
 | `replication` | independent_replicated, internal_replicated, single_study, unreplicated, na |
 | `peer_review` | peer_reviewed_journal, peer_reviewed_book, dissertation, preprint, unpublished, primary_text, na |
 | `source_chain_quality` | primary_verified, primary_unverified, mixed, secondary, tertiary, web |
+
+#### Internal Track Factors
+| Factor | Values |
+|--------|--------|
+| `source_type` | `internal` |
+| `methodology` | (same as external) |
+| `sample_size` | (same as external) |
+| `replication` | (same as external) |
+| `methodological_transparency` | full, high, moderate, low, minimal, na |
+| `source_data_quality` | peer_reviewed_database, institutional_database, curated_corpus, mixed_sources, web_scraped, na |
+| `critic_reviewed` | reviewed_no_issues, reviewed_minor_issues, reviewed_major_issues, reviewed_unresolved, not_reviewed |
+
+**Note**: `critic_reviewed` serves as the "peer review" mechanism for internal analyses. The Critic agent validates our methodology.
 
 ### Confidence Labels
 

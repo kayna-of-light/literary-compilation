@@ -250,13 +250,14 @@ def calculate_derived_confidence(node_id: str, nodes: dict, visited: set = None)
     
     # Non-evidence nodes derive from connections
     connections = node.get('connections', [])
-    if not connections:
-        return 0.30  # Orphan non-evidence node gets low confidence
     
-    # Find supporting evidence
+    # Find supporting evidence (both directions)
     evidence_scores = []
-    support_connections = ['supported_by', 'validated_by', 'instantiated_by']
+    # NOTE: instantiated_by is STRUCTURAL (examples/applications), not EVIDENTIAL
+    # Only supported_by and validated_by represent epistemic support
+    support_connections = ['supported_by', 'validated_by']
     
+    # Forward: connections FROM this node TO evidence
     for conn in connections:
         target_id = conn.get('target')
         conn_type = conn.get('type')
@@ -269,15 +270,39 @@ def calculate_derived_confidence(node_id: str, nodes: dict, visited: set = None)
             if target_type == 'evidence' and conn_type in support_connections:
                 target_score = calculate_derived_confidence(target_id, nodes, visited.copy())
                 evidence_scores.append(target_score)
-            # Indirect support (synthesis, concepts with evidence)
+            # Indirect support - only count if intermediary has actual evidence (not default 0.30)
             elif conn_type in support_connections:
                 target_score = calculate_derived_confidence(target_id, nodes, visited.copy())
-                evidence_scores.append(target_score * 0.8)  # Slight discount for indirection
+                if target_score > 0.30:  # Skip default/orphan scores
+                    evidence_scores.append(target_score * 0.8)  # Discount for indirection
+    
+    # Backward: connections FROM evidence nodes TO this node (inverse lookup)
+    # This catches cases like "CONSC-045 -> validates -> SWED-001"
+    inverse_support = ['supports', 'validates']  # inverse of supported_by, validated_by
+    for other_id, other_node in nodes.items():
+        if other_id == node_id or other_id in visited:
+            continue
+        other_type = other_node.get('node_type', 'concept')
+        if other_type != 'evidence':
+            continue
+        for conn in other_node.get('connections', []):
+            if conn.get('target') == node_id and conn.get('type') in inverse_support:
+                other_score = calculate_derived_confidence(other_id, nodes, visited.copy())
+                if other_score not in evidence_scores:  # Avoid double-counting
+                    evidence_scores.append(other_score)
     
     if evidence_scores:
-        # Use average with slight boost for multiple independent streams
-        base_score = sum(evidence_scores) / len(evidence_scores)
-        stream_bonus = min(0.1, len(evidence_scores) * 0.02)  # Up to 0.1 bonus for multiple streams
+        # PRINCIPLE: Strong evidence establishes the claim; weak evidence doesn't dilute
+        # Use max score as base - the strongest evidence determines confidence
+        base_score = max(evidence_scores)
+        
+        # Stream bonus: Multiple INDEPENDENT STRONG streams provide corroboration
+        # Only count streams above 0.60 threshold for bonus
+        strong_streams = [s for s in evidence_scores if s >= 0.60]
+        if len(strong_streams) > 1:
+            stream_bonus = min(0.1, (len(strong_streams) - 1) * 0.03)  # Up to 0.1 for 4+ strong streams
+        else:
+            stream_bonus = 0.0
         return min(1.0, base_score + stream_bonus)
     
     return 0.30  # No evidence connections

@@ -340,56 +340,86 @@ Periodically verify:
 
 When processing new documents (from `data/unclassified/` or documents not yet in the knowledge graph), use the following **agent workflow**. This ensures consistent quality, proper source tracing, and internal coherence.
 
+### CRITICAL: Agent vs. Main Assistant Responsibilities
+
+**Agents are READ-ONLY. They analyze and report. They do NOT edit files.**
+
+The main assistant (GitHub Copilot / Claude) is responsible for:
+1. **Invoking agents** via `@agent-name` or subagent calls
+2. **Receiving agent output** (reports, recommendations, findings)
+3. **Implementing changes** to `knowledge_graph.yaml` based on agent output
+4. **Running utility commands** (`persist-scores`, `validate`, `export-md`)
+
+**After EVERY agent response, the main assistant must:**
+- Apply the agent's recommendations to the graph
+- Update the relevant node(s) in `knowledge_graph.yaml`
+- Run `python scripts/graph_utils.py persist-scores` if confidence_factors were added
+- Validate the graph integrity
+
+**Do NOT:**
+- Leave agent recommendations unimplemented
+- Expect agents to edit files themselves
+- Skip the implementation step between agent invocations
+
 ### The Agent Pipeline
 
 ```
 ┌─────────────────────┐
 │  1. KNOWLEDGE       │  Extract claims, structure nodes, identify connections
 │     COMPILER        │  → Output: Draft YAML node(s)
+│     (@agent)        │
 └─────────┬───────────┘
           │
           ▼
 ┌─────────────────────┐
 │  2. IMPLEMENT       │  Add draft nodes to knowledge_graph.yaml
-│     (Agent Action)  │  → Output: Nodes in graph
+│  (Main Assistant)   │  → Output: Nodes in graph
 └─────────┬───────────┘
           │
           ▼
 ┌─────────────────────┐
 │  3. SOURCE          │  Verify source chains, trace to primary sources
 │     TRACER          │  → Output: Corrections/additions for source_chain
+│     (@agent)        │
 └─────────┬───────────┘
           │
           ▼
 ┌─────────────────────┐
 │  4. IMPLEMENT       │  Apply source chain updates to nodes
-│     (Agent Action)  │  → Output: Updated source_chain entries
+│  (Main Assistant)   │  → Output: Updated source_chain entries
 └─────────┬───────────┘
           │
           ▼
 ┌─────────────────────┐
 │  5. CONFIDENCE      │  For EVIDENCE nodes only: explore source chain,
 │     EXTRACTOR       │  determine empirical quality factors
-│                     │  → Output: confidence_factors written to node
+│     (@agent)        │  → Output: Recommended confidence_factors
 └─────────┬───────────┘
           │
           ▼
 ┌─────────────────────┐
-│  6. CRITIC          │  Identify internal inconsistencies, missing connections,
-│                     │  logical contradictions (WITHIN framework only)
+│  6. IMPLEMENT       │  Apply confidence_factors to nodes in YAML
+│  (Main Assistant)   │  → Run: persist-scores
+└─────────┬───────────┘
+          │
+          ▼
+┌─────────────────────┐
+│  7. CRITIC          │  Identify internal inconsistencies, missing connections,
+│     (@agent)        │  logical contradictions (WITHIN framework only)
 │                     │  → Output: Valid critiques with breaks_proof flag
 └─────────┬───────────┘
           │
           ▼
 ┌─────────────────────┐
-│  7. IMPLEMENT       │  Address valid critiques, add critic_notes to nodes
-│     (Agent Action)  │  → Output: Refined nodes with documented critiques
+│  8. IMPLEMENT       │  Address valid critiques, add critic_notes to nodes
+│  (Main Assistant)   │  → Output: Refined nodes with documented critiques
 └─────────┬───────────┘
           │
           ▼
 ┌─────────────────────┐
-│  8. GRAPH           │  Validate integrity, check connections, verify statistics
+│  9. GRAPH           │  Validate integrity, check connections, verify statistics
 │     REVIEWER        │  → Output: Final validation report (PASS/FAIL)
+│     (@agent)        │
 └─────────┴───────────┘
 ```
 

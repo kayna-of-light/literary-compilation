@@ -216,7 +216,8 @@ def calculate_intrinsic_confidence(factors: dict) -> float:
     
     for factor, weight in weights.items():
         value = factors.get(factor)
-        if value and factor in score_maps:
+        # Skip factors that are 'na' - they should not contribute to score
+        if value and value != 'na' and factor in score_maps:
             factor_score = score_maps[factor].get(value, 0.5)
             score += factor_score * weight
             total_weight += weight

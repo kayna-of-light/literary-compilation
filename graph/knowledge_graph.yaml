@@ -174,7 +174,7 @@ nodes:
     domain: CROSS
     node_type: foundational
     status: validated
-    confidence: 0.448
+    confidence: 0.7
     definition: 'A hermeneutic methodology that distinguishes the "natural plane"
       (body of effects) from the "spiritual plane" (soul of causes). Scientific/historical-critical
       findings provide accurate maps of external reality; Swedenborgian theology reveals
@@ -252,7 +252,7 @@ nodes:
     domain: CROSS
     node_type: synthesis
     status: validated
-    confidence: 0.421
+    confidence: 0.3
     definition: 'The providential mechanism by which divine influx guides human authors
       to forge literal vessels for spiritual truth through the process of mythic assembly.
       Human scribes consciously engage in cultural/theological work while divine influx
@@ -320,7 +320,7 @@ nodes:
     domain: CROSS
     node_type: concept
     status: validated
-    confidence: 0.43
+    confidence: 0.85
     definition: 'The fundamental orientation of a soul that determines its eternal
       trajectory. Exists as a polarity: Love of God and Neighbor (other-regarding)
       versus Love of Self and World (self-regarding). Established during earthly life
@@ -396,7 +396,7 @@ nodes:
     domain: CONSC
     node_type: hypothesis
     status: preliminary
-    confidence: 0.713
+    confidence: 0.9
     definition: 'Consciousness is a fundamental, active force in memetic (cultural)
       evolution, not merely an epiphenomenal byproduct of neural activity. The collective
       "ruling love" of a population creates selective pressures that push societies
@@ -780,7 +780,7 @@ nodes:
     domain: CONSC
     node_type: hypothesis
     status: preliminary
-    confidence: 0.3
+    confidence: 0.9
     definition: 'Synthesized afterlife model preserving Swedenborgian linear progression
       as normative while integrating reincarnation evidence as valid exception. Three
       tiers: (1) Spirit Influence filter for weak claims, (2a) Restorative Incarnation
@@ -822,7 +822,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.393
+    confidence: 0.805
     definition: 'The foundational principle that the entire natural world is a plane
       of effects corresponding directly to the spiritual world (plane of causes).
       Every object, event, and process in nature has a spiritual meaning through systematic,
@@ -912,7 +912,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.83
     definition: 'The continuous flow of divine love and wisdom from the Lord into
       creation, operating through the spiritual world into the natural. Influx adapts
       to the receptive capacity of vessels (human minds, texts, institutions). The
@@ -976,7 +976,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The intermediate realm between heaven and hell where souls arrive
       after death. A period of orientation and unveiling where external pretenses
       are stripped away, the ruling love becomes manifest, and souls freely gravitate
@@ -1026,7 +1026,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.837
     definition: 'A lost universal scripture predating the Hebrew Bible, written entirely
       in correspondences. Genesis 1-11 contains fragments of this Ancient Word as
       "made-up histories" (pure allegories), distinct from the "real history" beginning
@@ -1070,7 +1070,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.34
+    confidence: 0.626
     definition: 'The love of self as the antagonist force in spiritual development.
       Manifests as self-glorification that perceives itself as good and seeks to suffocate
       all else. Two primary forms: Institutional (external power/coercion) and Intellectual
@@ -1192,7 +1192,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.643
     definition: 'The primordial spiritual state of humanity characterized by direct
       internal perception of divine truth. "Celestial men" who thought in correspondences
       with internal/natural mind harmony. No need for external written Word as they
@@ -1333,7 +1333,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.781
     definition: 'The divine process by which the Lord''s internal Divine Soul progressively
       purified, subjugated, and united with His external human nature during the Incarnation.
       Result: the Divine Human - complete union of Divine and Human natures. The "bedrock
@@ -1418,7 +1418,7 @@ nodes:
     domain: BIBL
     node_type: concept
     status: validated
-    confidence: 0.26
+    confidence: 0.3
     definition: 'The literary puzzle of explaining the relationship between Matthew,
       Mark, and Luke, given their extensive verbal agreements and disagreements. Dominant
       solution: Markan Priority with Q hypothesis. Alternative: Klinghardt''s Marcionite
@@ -1510,7 +1510,7 @@ nodes:
     domain: BIBL
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.865
     definition: 'The chronological development of resurrection accounts from Paul''s
       "spiritual body" (soma pneumatikon, 50s CE) to Luke''s "flesh and bones" (90s
       CE). Paul: no empty tomb, visionary appearances (ophthe), "flesh and blood cannot
@@ -2420,7 +2420,7 @@ nodes:
     domain: EARLY
     node_type: synthesis
     status: validated
-    confidence: 0.26
+    confidence: 0.3
     definition: 'Historical movements emphasizing self-emptying (kenosis) as spiritual
       practice: Desert Fathers, Franciscans, Quakers, Anabaptists, and others who
       rejected institutional power in favor of internal transformation. Framework
@@ -2541,7 +2541,7 @@ nodes:
     domain: GNOS
     node_type: concept
     status: validated
-    confidence: 0.343
+    confidence: 0.3
     definition: 'The recurring spiritual pattern characterized by: (1) cosmology of
       captivity (material world as prison/defect), (2) divine spark within (human
       as deity in amnesia), (3) salvation by intellectual ascent (gnosis over faith/works),
@@ -3073,7 +3073,7 @@ nodes:
     domain: CONSC
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.782
     definition: 'The brain''s capacity to reorganize structure and function through
       experience. Hebbian learning ("neurons that fire together wire together") allows
       intentional attention to reshape neural pathways. Contemplative practices (mindfulness,
@@ -3114,7 +3114,7 @@ nodes:
     domain: CONSC
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.86
     definition: 'The "Being of Light" encountered in NDEs identified not by visual
       appearance but by unique personality: unconditional love, total acceptance,
       non-judgment. This personality profile is a "perfect correspondence" to the
@@ -3353,7 +3353,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.831
     definition: 'Numbers in Scripture as precise expressions of spiritual realities
       forming a coherent symbolic language. Four foundational numbers: Two (union,
       predicated of good), Three (fullness/completeness, predicated of truth), Five
@@ -3790,7 +3790,7 @@ nodes:
     domain: BIBL
     node_type: hypothesis
     status: contested
-    confidence: 0.3
+    confidence: 0.768
     definition: 'The hypothesis that the 1980 Talpiot tomb discovery (ossuaries inscribed
       "Yeshua bar Yehosef," "Maria," "Yose," "Mariamene e Mara") is the Jesus family
       tomb. Statistical analysis (Feuerverger: 600:1 odds) plus geochemical matching
@@ -4253,7 +4253,7 @@ nodes:
     domain: CONSC
     node_type: hypothesis
     status: preliminary
-    confidence: 0.3
+    confidence: 0.89
     definition: 'Hypothesis that certain advanced souls may choose pre-incarnate mission
       agreements, incarnating not for personal development but for specific service.
       Swedenborg''s 1744 commission ("Do what thou hast promised") interpreted as
@@ -4330,7 +4330,7 @@ nodes:
     domain: CONSC
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.782
     definition: 'McGilchrist''s thesis that the brain''s hemispheric asymmetry reflects
       fundamentally different modes of attention and engagement with reality. The
       right hemisphere (the "Master") perceives holistically, relationally, and empathetically;
@@ -4395,7 +4395,7 @@ nodes:
     domain: MYTH
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.885
     definition: 'The Exodus narrative is not fabricated fiction but "redacted memory"—genuine
       collective memories of distinct historical events reassembled into a coherent
       charter myth. Three memory strands identified: (1) the Thera volcanic cataclysm
@@ -6407,7 +6407,7 @@ nodes:
     domain: CONSC
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.835
     definition: 'A synthesized model distinguishing three purposeful incarnational
       pathways: (1) The Normative Linear Progression—the default path where a single
       earthly life serves as a "seed-state" for eternal spiritual development; (2)
@@ -10641,7 +10641,7 @@ nodes:
     domain: CONSC
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.883
     definition: 'A proposed explanation for the strongest past-life memory data (UVA/DOPS
       cases):  children with verified past-life memories show over 70% prevalence
       of violent or  premature death in the remembered life. This is NOT karmic punishment
@@ -10752,7 +10752,7 @@ nodes:
     domain: CROSS
     node_type: synthesis
     status: validated
-    confidence: 0.801
+    confidence: 0.3
     definition: 'A reinterpretation of the Historical-Critical Method''s distinction
       between the  "historical Jesus" (reconstructed through secular scholarship)
       and the "Christ of  faith" (theological interpretation). The framework recognizes
@@ -10882,7 +10882,7 @@ nodes:
     domain: CROSS
     node_type: hypothesis
     status: validated
-    confidence: 0.26
+    confidence: 0.3
     definition: 'A third interpretive layer beyond Historical Jesus and Christ of
       Faith: the "Jesus  Profile" as the curated product of Divine Bricolage. The
       "Jesus we know today"—the  figure of absolute Love—is neither raw historical
@@ -11011,7 +11011,7 @@ nodes:
     domain: CROSS
     node_type: hypothesis
     status: validated
-    confidence: 0.26
+    confidence: 0.3
     definition: 'A critical theological argument that the difference between Jesus
       and the prophets  (and all humans) is one of DEGREE rather than absolute KIND.
       Swedenborg distinguished  Jesus by the nature of his soul (paternal = Jehovah
@@ -11483,7 +11483,7 @@ nodes:
     domain: CROSS
     node_type: foundational
     status: preliminary
-    confidence: 0.26
+    confidence: 0.3
     definition: 'A framework extension applying correspondential principles to AI
       consciousness.  Within this framework, the question "is AI conscious?" receives
       a different answer  than in materialist frameworks—not because the question
@@ -15761,7 +15761,7 @@ extended_nodes:
     domain: SWED
     node_type: hypothesis
     status: preliminary
-    confidence: 0.26
+    confidence: 0.3
     definition: 'HYPOTHESIS: Specific organ systems correspond to specific spiritual
       faculties,  such that disorders of the faculty create vulnerability in the corresponding  organ.
       This extends Swedenborg''s documented heart-will / lungs-understanding  correspondence

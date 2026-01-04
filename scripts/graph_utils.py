@@ -227,11 +227,19 @@ def calculate_intrinsic_confidence(factors: dict) -> float:
     return 0.0
 
 
-def calculate_derived_confidence(node_id: str, nodes: dict, visited: set = None) -> float:
+def calculate_derived_confidence(node_id: str, nodes: dict, flat_connections: list = None, visited: set = None) -> float:
     """
     Calculate derived confidence from evidence base.
     Used for non-evidence nodes.
-    Recursively aggregates confidence from connected evidence nodes.
+    
+    NON-RECURSIVE approach: Only looks at direct connections to evidence nodes
+    or uses persisted confidence of connected non-evidence nodes.
+    
+    Args:
+        node_id: The node to calculate confidence for
+        nodes: Dictionary of all nodes
+        flat_connections: Optional flat list of [source, type, target] connections
+        visited: For cycle prevention (not used in non-recursive approach)
     """
     if visited is None:
         visited = set()
@@ -249,58 +257,111 @@ def calculate_derived_confidence(node_id: str, nodes: dict, visited: set = None)
         return calculate_intrinsic_confidence(factors)
     
     # Non-evidence nodes derive from connections
-    connections = node.get('connections', [])
-    
-    # Find supporting evidence (both directions)
+    embedded_connections = node.get('connections', [])
     evidence_scores = []
-    # NOTE: instantiated_by is STRUCTURAL (examples/applications), not EVIDENTIAL
-    # Only supported_by and validated_by represent epistemic support
-    support_connections = ['supported_by', 'validated_by']
     
-    # Forward: connections FROM this node TO evidence
-    for conn in connections:
+    # === FORWARD: connections FROM this node TO others (embedded only) ===
+    # Connection types where the TARGET provides epistemic support to SOURCE
+    forward_support = ['supported_by', 'validated_by', 'developed_from', 'revealed_by', 'produced_by']
+    forward_weaker = ['instantiated_by']
+    
+    for conn in embedded_connections:
         target_id = conn.get('target')
         conn_type = conn.get('type')
         
-        if target_id and target_id in nodes:
-            target_node = nodes[target_id]
-            target_type = target_node.get('node_type', 'concept')
+        if not target_id or target_id not in nodes:
+            continue
             
-            # Direct evidence support
-            if target_type == 'evidence' and conn_type in support_connections:
-                target_score = calculate_derived_confidence(target_id, nodes, visited.copy())
-                evidence_scores.append(target_score)
-            # Indirect support - only count if intermediary has actual evidence (not default 0.30)
-            elif conn_type in support_connections:
-                target_score = calculate_derived_confidence(target_id, nodes, visited.copy())
-                if target_score > 0.30:  # Skip default/orphan scores
-                    evidence_scores.append(target_score * 0.8)  # Discount for indirection
+        target_node = nodes[target_id]
+        target_type = target_node.get('node_type', 'concept')
+        
+        # Get target score - evidence uses intrinsic, others use persisted
+        if target_type == 'evidence':
+            factors = target_node.get('confidence_factors', {})
+            target_score = calculate_intrinsic_confidence(factors)
+        else:
+            target_score = target_node.get('confidence', 0.30)
+        
+        if target_score > 0.30:
+            if conn_type in forward_support:
+                if target_type == 'evidence':
+                    evidence_scores.append(target_score)
+                else:
+                    evidence_scores.append(target_score * 0.85)
+            elif conn_type in forward_weaker:
+                evidence_scores.append(target_score * 0.7)
     
-    # Backward: connections FROM evidence nodes TO this node (inverse lookup)
-    # This catches cases like "CONSC-045 -> validates -> SWED-001"
-    inverse_support = ['supports', 'validates']  # inverse of supported_by, validated_by
+    # === BACKWARD: connections FROM other nodes TO this node ===
+    inverse_support = ['supports', 'validates']
+    
+    # Check embedded connections in nodes
     for other_id, other_node in nodes.items():
-        if other_id == node_id or other_id in visited:
+        if other_id == node_id:
             continue
+        
         other_type = other_node.get('node_type', 'concept')
-        if other_type != 'evidence':
-            continue
+        
         for conn in other_node.get('connections', []):
-            if conn.get('target') == node_id and conn.get('type') in inverse_support:
-                other_score = calculate_derived_confidence(other_id, nodes, visited.copy())
-                if other_score not in evidence_scores:  # Avoid double-counting
+            if conn.get('target') != node_id:
+                continue
+                
+            conn_type = conn.get('type')
+            
+            if conn_type not in inverse_support:
+                continue
+            
+            # Get other score - evidence uses intrinsic, others use persisted
+            if other_type == 'evidence':
+                factors = other_node.get('confidence_factors', {})
+                other_score = calculate_intrinsic_confidence(factors)
+            else:
+                other_score = other_node.get('confidence', 0.30)
+            
+            if other_score > 0.30 and other_score not in evidence_scores:
+                if other_type == 'evidence':
                     evidence_scores.append(other_score)
+                else:
+                    evidence_scores.append(other_score * 0.85)
+    
+    # ALSO check flat connections list (format: [source, type, target])
+    if flat_connections:
+        for conn in flat_connections:
+            if not isinstance(conn, list) or len(conn) != 3:
+                continue
+            source_id, conn_type, target_id = conn
+            
+            # Only supports/validates pointing TO this node
+            if target_id != node_id:
+                continue
+            if conn_type not in inverse_support:
+                continue
+            if source_id not in nodes:
+                continue
+            
+            source_node = nodes[source_id]
+            source_type = source_node.get('node_type', 'concept')
+            
+            # Get source score
+            if source_type == 'evidence':
+                factors = source_node.get('confidence_factors', {})
+                source_score = calculate_intrinsic_confidence(factors)
+            else:
+                source_score = source_node.get('confidence', 0.30)
+            
+            if source_score > 0.30 and source_score not in evidence_scores:
+                if source_type == 'evidence':
+                    evidence_scores.append(source_score)
+                else:
+                    evidence_scores.append(source_score * 0.85)
     
     if evidence_scores:
-        # PRINCIPLE: Strong evidence establishes the claim; weak evidence doesn't dilute
-        # Use max score as base - the strongest evidence determines confidence
+        # PRINCIPLE: Strong evidence establishes the claim
         base_score = max(evidence_scores)
         
-        # Stream bonus: Multiple INDEPENDENT STRONG streams provide corroboration
-        # Only count streams above 0.60 threshold for bonus
+        # Stream bonus for multiple strong streams
         strong_streams = [s for s in evidence_scores if s >= 0.60]
         if len(strong_streams) > 1:
-            stream_bonus = min(0.1, (len(strong_streams) - 1) * 0.03)  # Up to 0.1 for 4+ strong streams
+            stream_bonus = min(0.1, (len(strong_streams) - 1) * 0.03)
         else:
             stream_bonus = 0.0
         return min(1.0, base_score + stream_bonus)
@@ -321,13 +382,18 @@ def get_node_cycles(node_id: str, nodes: dict) -> list:
     return node_cycles
 
 
-def calculate_node_confidence(node_id: str, nodes: dict) -> dict:
+def calculate_node_confidence(node_id: str, nodes: dict, flat_connections: list = None) -> dict:
     """
     Calculate full confidence assessment for a node.
     Returns dict with score, label, and breakdown.
     
     IMPORTANT: If node is part of a circular proof chain, returns
     score=0 and label='circular' as cycles are epistemologically invalid.
+    
+    Args:
+        node_id: The node to calculate confidence for
+        nodes: Dictionary of all nodes
+        flat_connections: Optional flat list of [source, type, target] connections
     """
     node = nodes.get(node_id, {})
     node_type = node.get('node_type', 'concept')
@@ -355,7 +421,7 @@ def calculate_node_confidence(node_id: str, nodes: dict) -> dict:
         base_score = calculate_intrinsic_confidence(factors)
         score_source = "intrinsic"
     else:
-        base_score = calculate_derived_confidence(node_id, nodes)
+        base_score = calculate_derived_confidence(node_id, nodes, flat_connections)
         score_source = "derived"
     
     # Apply node type cap
@@ -397,10 +463,11 @@ def calculate_node_confidence(node_id: str, nodes: dict) -> dict:
 def get_all_confidence_scores(graph: dict) -> list:
     """Get confidence scores for all nodes."""
     nodes = get_all_nodes(graph)
+    flat_connections = graph.get('connections', []) or []
     results = []
     
     for node_id in nodes:
-        result = calculate_node_confidence(node_id, nodes)
+        result = calculate_node_confidence(node_id, nodes, flat_connections)
         result['title'] = nodes[node_id].get('title', 'Untitled')
         results.append(result)
     
@@ -440,6 +507,7 @@ def persist_confidence_scores(graph: dict) -> dict:
     Returns summary of changes made.
     """
     nodes = get_all_nodes(graph)
+    flat_connections = graph.get('connections', []) or []
     changes = {
         'updated': [],
         'errors': [],
@@ -448,7 +516,7 @@ def persist_confidence_scores(graph: dict) -> dict:
     
     for node_id, node in nodes.items():
         try:
-            result = calculate_node_confidence(node_id, nodes)
+            result = calculate_node_confidence(node_id, nodes, flat_connections)
             
             # Skip circular nodes
             if result['label'] == 'circular':
@@ -1255,10 +1323,11 @@ def main():
             output("Error: node_id required for score command")
             return
         nodes = get_all_nodes(graph)
+        flat_connections = graph.get('connections', []) or []
         if args.node_id not in nodes:
             output(f"Error: Node '{args.node_id}' not found")
             return
-        result = calculate_node_confidence(args.node_id, nodes)
+        result = calculate_node_confidence(args.node_id, nodes, flat_connections)
         result['title'] = nodes[args.node_id].get('title', 'Untitled')
         if args.json:
             output(json.dumps(result, indent=2))

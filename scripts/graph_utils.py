@@ -18,6 +18,7 @@ Usage:
     python graph_utils.py score NODE_ID      # Calculate score for specific node
     python graph_utils.py low-confidence     # Find nodes with low confidence
     python graph_utils.py needs-extraction   # List evidence nodes without confidence_factors
+    python graph_utils.py persist-scores     # Calculate and write confidence scores to graph
 
 Options:
     -j, --json       Output as JSON
@@ -49,6 +50,8 @@ MARKDOWN_PATH = REPO_ROOT / "graph" / "knowledge_graph.md"
 # Scores are calculated from enum values written by the Confidence Extractor agent.
 
 # Enum-to-score mappings for intrinsic confidence factors
+
+# ===== SHARED FACTORS (both tracks) =====
 METHODOLOGY_SCORES = {
     "randomized_controlled": 1.0,
     "prospective": 0.85,
@@ -77,6 +80,8 @@ REPLICATION_SCORES = {
     "na": 0.50,
 }
 
+# ===== EXTERNAL TRACK FACTORS =====
+# For cited peer-reviewed studies: traditional scientific validation
 PEER_REVIEW_SCORES = {
     "peer_reviewed_journal": 1.0,
     "peer_reviewed_book": 0.90,
@@ -84,9 +89,38 @@ PEER_REVIEW_SCORES = {
     "preprint": 0.50,
     "unpublished": 0.30,
     "primary_text": 0.80,  # Primary texts have inherent authority
-    "na": 0.50,
+    "na": 0.50,  # Use na for internal track
 }
 
+# ===== INTERNAL TRACK FACTORS =====
+# For our analyses: transparency + critic review as validation
+METHODOLOGICAL_TRANSPARENCY_SCORES = {
+    "full": 1.0,       # Complete methodology documented, all steps traceable
+    "high": 0.85,      # Methodology documented with minor gaps
+    "moderate": 0.65,  # Key methods documented but some steps unclear
+    "low": 0.40,       # Limited documentation
+    "minimal": 0.20,   # Methods not documented
+    "na": 0.50,        # Use na for external track
+}
+
+SOURCE_DATA_QUALITY_SCORES = {
+    "peer_reviewed_database": 1.0,    # NDERF, IANDS, DOPS
+    "institutional_database": 0.85,   # Institutional but non-peer-reviewed
+    "curated_corpus": 0.75,           # Carefully curated textual corpus
+    "mixed_sources": 0.65,            # Multiple source types
+    "web_scraped": 0.45,              # Web-scraped data
+    "na": 0.50,                       # Use na for external track
+}
+
+CRITIC_REVIEWED_SCORES = {
+    "reviewed_no_issues": 1.0,        # Critic reviewed, no proof-breaking issues
+    "reviewed_minor_issues": 0.80,    # Minor issues noted
+    "reviewed_major_issues": 0.60,    # Major issues addressed
+    "reviewed_unresolved": 0.30,      # Unresolved proof-breaking issues
+    "not_reviewed": 0.50,             # Not yet reviewed
+}
+
+# ===== SOURCE CHAIN (both tracks) =====
 SOURCE_CHAIN_QUALITY_SCORES = {
     "primary_verified": 1.0,
     "primary_unverified": 0.80,
@@ -96,14 +130,29 @@ SOURCE_CHAIN_QUALITY_SCORES = {
     "web": 0.50,
 }
 
-# Weights for combining intrinsic factors
-INTRINSIC_WEIGHTS = {
+# ===== WEIGHTS FOR COMBINING FACTORS =====
+# External track: peer_review matters, transparency factors ignored
+EXTERNAL_WEIGHTS = {
     "methodology": 0.30,
     "sample_size": 0.20,
     "replication": 0.25,
     "peer_review": 0.15,
     "source_chain_quality": 0.10,
 }
+
+# Internal track: transparency matters, peer_review ignored
+# Critic review is primary validation mechanism
+INTERNAL_WEIGHTS = {
+    "methodology": 0.25,
+    "sample_size": 0.20,
+    "replication": 0.15,
+    "methodological_transparency": 0.20,  # Can others trace our work?
+    "source_data_quality": 0.10,          # Quality of underlying data
+    "critic_reviewed": 0.10,              # Our peer review mechanism
+}
+
+# Legacy support - maps to external by default
+INTRINSIC_WEIGHTS = EXTERNAL_WEIGHTS
 
 # Node type caps (foundational claims can't be "high" without extensive evidence)
 NODE_TYPE_CAPS = {
@@ -117,34 +166,63 @@ NODE_TYPE_CAPS = {
 # Penalty for open proof-breaking critiques
 PROOF_BREAKING_PENALTY = 0.25
 
-
 def calculate_intrinsic_confidence(factors: dict) -> float:
     """
     Calculate intrinsic confidence score from enum factors.
     Used for evidence nodes.
+    
+    DUAL-TRACK SYSTEM:
+    - External sources (source_type: external): Uses peer_review factor
+    - Internal sources (source_type: internal): Uses transparency factors + critic_reviewed
+    
+    If source_type not specified, infers from factors present.
     """
     if not factors:
         return 0.0
     
+    # Determine which track to use
+    source_type = factors.get('source_type', None)
+    
+    if source_type is None:
+        # Infer from factors present
+        has_internal_factors = any(f in factors for f in 
+            ['methodological_transparency', 'source_data_quality', 'critic_reviewed'])
+        source_type = 'internal' if has_internal_factors else 'external'
+    
+    # Select appropriate weights
+    weights = INTERNAL_WEIGHTS if source_type == 'internal' else EXTERNAL_WEIGHTS
+    
+    # Build score maps based on track
+    if source_type == 'internal':
+        score_maps = {
+            "methodology": METHODOLOGY_SCORES,
+            "sample_size": SAMPLE_SIZE_SCORES,
+            "replication": REPLICATION_SCORES,
+            "methodological_transparency": METHODOLOGICAL_TRANSPARENCY_SCORES,
+            "source_data_quality": SOURCE_DATA_QUALITY_SCORES,
+            "critic_reviewed": CRITIC_REVIEWED_SCORES,
+        }
+    else:
+        score_maps = {
+            "methodology": METHODOLOGY_SCORES,
+            "sample_size": SAMPLE_SIZE_SCORES,
+            "replication": REPLICATION_SCORES,
+            "peer_review": PEER_REVIEW_SCORES,
+            "source_chain_quality": SOURCE_CHAIN_QUALITY_SCORES,
+        }
+    
     score = 0.0
     total_weight = 0.0
     
-    for factor, weight in INTRINSIC_WEIGHTS.items():
+    for factor, weight in weights.items():
         value = factors.get(factor)
-        if value:
-            score_map = {
-                "methodology": METHODOLOGY_SCORES,
-                "sample_size": SAMPLE_SIZE_SCORES,
-                "replication": REPLICATION_SCORES,
-                "peer_review": PEER_REVIEW_SCORES,
-                "source_chain_quality": SOURCE_CHAIN_QUALITY_SCORES,
-            }
-            factor_score = score_map[factor].get(value, 0.5)
+        if value and factor in score_maps:
+            factor_score = score_maps[factor].get(value, 0.5)
             score += factor_score * weight
             total_weight += weight
     
     if total_weight > 0:
-        return score / total_weight * total_weight  # Weighted average
+        return score / total_weight  # Weighted average
     return 0.0
 
 
@@ -324,6 +402,66 @@ def get_needs_extraction(graph: dict) -> list:
                 })
     
     return sorted(needs, key=lambda x: x['id'])
+
+
+def persist_confidence_scores(graph: dict) -> dict:
+    """
+    Calculate confidence scores and persist them to the graph.
+    
+    Writes a 'confidence' property (float score) to each node that has
+    confidence_factors (evidence nodes) or can derive confidence (other nodes).
+    
+    Returns summary of changes made.
+    """
+    nodes = get_all_nodes(graph)
+    changes = {
+        'updated': [],
+        'errors': [],
+        'skipped': [],
+    }
+    
+    for node_id, node in nodes.items():
+        try:
+            result = calculate_node_confidence(node_id, nodes)
+            
+            # Skip circular nodes
+            if result['label'] == 'circular':
+                changes['errors'].append({
+                    'node_id': node_id,
+                    'error': 'Circular proof chain'
+                })
+                continue
+            
+            final_score = result['final_score']
+            old_confidence = node.get('confidence')
+            
+            # Update the node in the graph
+            # Need to find which section it's in
+            if node_id in (graph.get('nodes', {}) or {}):
+                graph['nodes'][node_id]['confidence'] = final_score
+            elif node_id in (graph.get('extended_nodes', {}) or {}):
+                graph['extended_nodes'][node_id]['confidence'] = final_score
+            else:
+                changes['errors'].append({
+                    'node_id': node_id,
+                    'error': 'Could not find node in graph sections'
+                })
+                continue
+            
+            changes['updated'].append({
+                'node_id': node_id,
+                'old': old_confidence,
+                'new': final_score,
+                'label': result['label'],
+            })
+            
+        except Exception as e:
+            changes['errors'].append({
+                'node_id': node_id,
+                'error': str(e)
+            })
+    
+    return changes
 
 
 def load_graph() -> dict:
@@ -538,14 +676,34 @@ def validate_graph(graph: dict, verbose: bool = False) -> dict:
             else:
                 stats['evidence_with_factors'] += 1
                 
-                # Validate each factor enum value
-                factor_checks = [
-                    ('methodology', valid_methodology, factors.get('methodology')),
-                    ('sample_size', valid_sample_size, factors.get('sample_size')),
-                    ('replication', valid_replication, factors.get('replication')),
-                    ('peer_review', valid_peer_review, factors.get('peer_review')),
-                    ('source_chain_quality', valid_source_quality, factors.get('source_chain_quality')),
-                ]
+                # Determine which track this node is on
+                source_type = factors.get('source_type', 'external')  # Default to external for legacy
+                
+                if source_type == 'internal':
+                    # INTERNAL TRACK: transparency + critic_reviewed
+                    valid_transparency = ['full', 'high', 'moderate', 'low', 'minimal', 'na']
+                    valid_data_quality = ['peer_reviewed_database', 'institutional_database', 
+                                          'curated_corpus', 'mixed_sources', 'web_scraped', 'na']
+                    valid_critic = ['reviewed_no_issues', 'reviewed_minor_issues', 
+                                   'reviewed_major_issues', 'reviewed_unresolved', 'not_reviewed']
+                    
+                    factor_checks = [
+                        ('methodology', valid_methodology, factors.get('methodology')),
+                        ('sample_size', valid_sample_size, factors.get('sample_size')),
+                        ('replication', valid_replication, factors.get('replication')),
+                        ('methodological_transparency', valid_transparency, factors.get('methodological_transparency')),
+                        ('source_data_quality', valid_data_quality, factors.get('source_data_quality')),
+                        ('critic_reviewed', valid_critic, factors.get('critic_reviewed')),
+                    ]
+                else:
+                    # EXTERNAL TRACK: peer_review + source_chain_quality
+                    factor_checks = [
+                        ('methodology', valid_methodology, factors.get('methodology')),
+                        ('sample_size', valid_sample_size, factors.get('sample_size')),
+                        ('replication', valid_replication, factors.get('replication')),
+                        ('peer_review', valid_peer_review, factors.get('peer_review')),
+                        ('source_chain_quality', valid_source_quality, factors.get('source_chain_quality')),
+                    ]
                 
                 for factor_name, valid_values, actual_value in factor_checks:
                     if not actual_value:
@@ -793,7 +951,7 @@ def main():
     parser = argparse.ArgumentParser(description="Knowledge Graph Utilities")
     parser.add_argument('command', choices=[
         'stats', 'validate', 'audit', 'list', 'connections', 'untraced', 'export-md',
-        'confidence', 'score', 'low-confidence', 'needs-extraction'
+        'confidence', 'score', 'low-confidence', 'needs-extraction', 'persist-scores'
     ])
     parser.add_argument('--domain', '-d', help="Filter by domain ID")
     parser.add_argument('--json', '-j', action='store_true', help="Output as JSON")
@@ -1125,6 +1283,37 @@ def main():
                 output("  All evidence nodes have confidence_factors.")
             for n in needs:
                 output(f"  [{n['id']}] {n['title']} ({n['domain']})")
+    
+    elif args.command == 'persist-scores':
+        output("\n=== Persisting Confidence Scores ===\n")
+        changes = persist_confidence_scores(graph)
+        
+        if args.json:
+            output(json.dumps(changes, indent=2))
+        else:
+            output(f"Updated: {len(changes['updated'])} nodes")
+            output(f"Errors:  {len(changes['errors'])} nodes")
+            
+            if changes['errors']:
+                output("\nErrors:")
+                for err in changes['errors']:
+                    output(f"  [{err['node_id']}] {err['error']}")
+            
+            if args.verbose and changes['updated']:
+                output("\nUpdated nodes:")
+                for u in changes['updated']:
+                    old_val = u['old']
+                    if old_val is None:
+                        old_str = "None"
+                    elif isinstance(old_val, (int, float)):
+                        old_str = f"{old_val:.2f}"
+                    else:
+                        old_str = str(old_val)  # Handle string confidence labels like "high"
+                    output(f"  [{u['node_id']}] {old_str} -> {u['new']:.2f} ({u['label']})")
+        
+        # Save the graph
+        save_graph(graph)
+        output(f"\nSaved to {GRAPH_PATH}")
 
 
 if __name__ == '__main__':

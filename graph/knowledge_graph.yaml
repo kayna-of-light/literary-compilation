@@ -396,7 +396,7 @@ nodes:
     domain: CONSC
     node_type: hypothesis
     status: preliminary
-    confidence: 0.676
+    confidence: 0.688
     definition: 'Consciousness is a fundamental, active force in memetic (cultural)
       evolution, not merely an epiphenomenal byproduct of neural activity. The collective
       "ruling love" of a population creates selective pressures that push societies
@@ -486,7 +486,7 @@ nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.775
+    confidence: 0.823
     definition: 'Systematic scientific investigation by University of Virginia''s
       Division of Perceptual Studies into children who spontaneously recall verifiable
       past-life memories. Over 2,500 cases documented with consistent evidentiary
@@ -584,11 +584,29 @@ nodes:
     trace_status: complete
     confidence_factors:
       source_type: external
-      methodology: retrospective
+      methodology: observational
       sample_size: large_1000+
-      replication: single_study
+      replication: internal_replicated
       peer_review: peer_reviewed_journal
       source_chain_quality: primary_verified
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      - Sample: 2,500+ cases in DOPS database; ~3,000 collected by Stevenson over
+      40 years
+
+      - Methodology: Field interviews with verification attempts (observational)
+
+      - Replication: Multiple DOPS researchers (Stevenson, Tucker, Pasricha, Mills,
+      Haraldsson)
+
+      - Core work published in JAMA, Am J Psychiatry, Br J Psychiatry, J Nervous Mental
+      Disease
+
+      - Later work primarily in Journal of Scientific Exploration (peer-reviewed specialty)
+
+      - [TRACE NEEDED]: Sudduth article exact JSE issue/year needs verification
+
+      '
   CONSC-003:
     title: The Life Review Phenomenon
     domain: CONSC
@@ -1563,14 +1581,22 @@ nodes:
     source_chain:
     - type: S
       ref: Westcott-Hort, The New Testament in the Original Greek (1881)
-      note: Original identification
+      note: Original identification of Western Non-Interpolations
+    - type: S
+      ref: Ehrman, Bart. The Orthodox Corruption of Scripture (Oxford UP, 1996), pp.
+        223-227
+      note: Modern defense; proposes anti-docetic motivation for Alexandrian additions
+    - type: S
+      ref: Metzger, Bruce. A Textual Commentary on the Greek New Testament (UBS, 1994),
+        pp. 164-166
+      note: Standard reference discussing these passages
     - type: T
       ref: data/03_Biblical_Scholarship/Resurrection Narrative Evolution.md
       note: Framework analysis
     evidence:
     - Luke 24:12, 36b, 40, 51b-52 absent from D and other Western witnesses
-    - Pattern shows Alexandrian physicalism additions
-    - Supports earlier non-physicalist tradition
+    - Pattern shows Alexandrian physicalism additions (Ehrman's interpretation)
+    - Western text shorter; interpretation of why is contested
     connections:
     - target: BIBL-004
       type: supports
@@ -1578,8 +1604,17 @@ nodes:
     - target: BIBL-001
       type: instantiates
       note: Textual criticism application
-    notes: 'Controversial among text critics but significant for framework. Suggests
-      earliest Luke lacked physicalist resurrection proof.
+    notes: 'CONTESTED CONSENSUS: NA28 committee rejected Hort''s hypothesis in 1968;
+
+      passages now included in main text but bracketed. Ehrman (1996) defends
+
+      the non-interpolation view, proposing anti-docetic motivation. The textual
+
+      evidence (shorter Western readings) is well-established; the interpretation
+
+      (supporting earlier non-physicalist tradition) represents Ehrman''s position,
+
+      not universal consensus.
 
       '
     created: 2024-12-27
@@ -12733,7 +12768,7 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.79
+    confidence: 0.8
     definition: 'Theory that Being of Light encounters represent objective phenomenological
       reality that experiencers describe using available cultural vocabulary. Validated
       through statistical analysis of 6,739 NDEs (NDERF: 5,646 + IANDS: 1,093). Core
@@ -12796,12 +12831,28 @@ extended_nodes:
     trace_status: complete
     confidence_factors:
       source_type: internal
-      methodology: retrospective
+      methodology: observational
       sample_size: large_1000+
-      replication: single_study
+      replication: internal_replicated
       methodological_transparency: full
-      source_data_quality: peer_reviewed_database
+      source_data_quality: institutional_database
       critic_reviewed: not_reviewed
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      - Sample: 6,739 NDEs (NDERF 5,646 + IANDS 1,093) - verified in source documents
+
+      - Methodology: Observational/descriptive statistics on self-reported data
+
+      - NDERF/IANDS are institutional databases (not peer-reviewed like PubMed)
+
+      - Two analysis runs (Dec 10, Dec 13) = internal replication
+
+      - Full code, data pipeline, statistical methods available in nde-analysis repo
+
+      - AI extraction layer (GPT-4) adds interpretation - no inter-rater reliability
+      test yet
+
+      '
   CONSC-022:
     title: Unknown Presence Phenomenon (61.8%)
     domain: CONSC

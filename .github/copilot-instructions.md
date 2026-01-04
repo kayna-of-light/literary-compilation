@@ -469,6 +469,16 @@ NODE-ID:
 
 **Input**: Node IDs to trace
 
+**Tools**: `read`, `search`, `web` (read-only — cannot edit files)
+
+**CRITICAL - PDF Handling**:
+- **DO NOT** attempt to download or fetch PDF files directly
+- **DO NOT** use `fetch_webpage` on URLs ending in `.pdf`
+- When a source is PDF-only, note it as `[PDF - manual verification needed]`
+- For academic papers, use the abstract/landing page (HTML) to verify publication details
+- Search for HTML summaries, press releases, or secondary sources that cite the PDF
+- If the claim depends entirely on PDF content that cannot be verified via HTML sources, mark as `[TRACE NEEDED - PDF source]`
+
 **Process**:
 - Read node definitions and source documents
 - Verify cited sources are accurate (correct section numbers, etc.)
@@ -482,6 +492,7 @@ NODE-ID:
 - ADDITIONS recommended (new sources to add)
 - EXTENSIONS to mark (claims that extend beyond sources)
 - UNTRACED claims (requiring further research)
+- PDF SOURCES noted (requiring manual verification)
 
 #### 3. Critic
 **Purpose**: Identify internal inconsistencies (operating WITHIN the framework)
@@ -545,6 +556,17 @@ PRIORITY: [high|medium|low]
 **Input**: Node IDs with `node_type: evidence`
 
 **Tools**: `read`, `search`, `web` (read-only — cannot edit files)
+
+**CRITICAL - PDF Handling**:
+- **DO NOT** attempt to download or fetch PDF files directly
+- **DO NOT** use `fetch_webpage` on URLs ending in `.pdf`
+- When a source is PDF-only, use alternative verification strategies:
+  - Search for the paper title + author to find HTML abstracts or landing pages
+  - Look for press releases, news coverage, or blog posts summarizing the research
+  - Check Google Scholar for citation information and abstracts
+  - Use PubMed/PMC HTML abstracts when available
+- Note PDF sources as `[PDF - verified via abstract/secondary]` or `[PDF - unverified]`
+- If critical statistics (sample size, methodology) are ONLY in the PDF, note: `[PDF verification needed for: X]`
 
 **Process**:
 - Read node definition and source chain

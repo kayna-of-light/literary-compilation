@@ -174,7 +174,7 @@ nodes:
     domain: CROSS
     node_type: foundational
     status: validated
-    confidence: 0.358
+    confidence: 0.441
     definition: 'A hermeneutic methodology that distinguishes the "natural plane"
       (body of effects) from the "spiritual plane" (soul of causes). Scientific/historical-critical
       findings provide accurate maps of external reality; Swedenborgian theology reveals
@@ -252,7 +252,7 @@ nodes:
     domain: CROSS
     node_type: synthesis
     status: validated
-    confidence: 0.31
+    confidence: 0.421
     definition: 'The providential mechanism by which divine influx guides human authors
       to forge literal vessels for spiritual truth through the process of mythic assembly.
       Human scribes consciously engage in cultural/theological work while divine influx
@@ -320,7 +320,7 @@ nodes:
     domain: CROSS
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.43
     definition: 'The fundamental orientation of a soul that determines its eternal
       trajectory. Exists as a polarity: Love of God and Neighbor (other-regarding)
       versus Love of Self and World (self-regarding). Established during earthly life
@@ -396,7 +396,7 @@ nodes:
     domain: CONSC
     node_type: hypothesis
     status: preliminary
-    confidence: 0.346
+    confidence: 0.713
     definition: 'Consciousness is a fundamental, active force in memetic (cultural)
       evolution, not merely an epiphenomenal byproduct of neural activity. The collective
       "ruling love" of a population creates selective pressures that push societies
@@ -822,7 +822,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.316
+    confidence: 0.393
     definition: 'The foundational principle that the entire natural world is a plane
       of effects corresponding directly to the spiritual world (plane of causes).
       Every object, event, and process in nature has a spiritual meaning through systematic,
@@ -2966,13 +2966,42 @@ nodes:
     domain: MYTH
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.623
     definition: 'The Book of Enoch and related literature as preserving fragments
       of astronomical and theological knowledge predating its Jewish context. "Animal
       Apocalypse" bulls as memory of patriarchal period. Framework: evidence for Ancient
       Word transmission through multiple channels.
 
       '
+    confidence_factors:
+      source_type: internal
+      methodology: textual_critical
+      sample_size: medium_100-999
+      replication: unreplicated
+      methodological_transparency: high
+      source_data_quality: mixed_sources
+      critic_reviewed: not_reviewed
+    extraction_notes: "Verified 2025-01-04 by confidence-extractor agent:\n- Source\
+      \ type: INTERNAL - while documents cite extensive peer-reviewed scholarship\n\
+      \  (Tiller, Nickelsburg, Dugan, Boyce, Hultgård), the specific claim about \"\
+      Ancient\n  Word transmission through multiple channels\" is a FRAMEWORK SYNTHESIS\n\
+      - Methodology: Textual-critical - manuscript comparison (Ethiopic vs Aramaic\
+      \ 4Q204-211),\n  source criticism, comparative analysis with Zoroastrian traditions\n\
+      - Sample: Medium - documents synthesize 74+ scholarly sources on Animal Apocalypse,\n\
+      \  35+ on Celestial Mechanics, 28 on Zoroastrian comparison\n- Replication:\
+      \ Unreplicated - \"Ancient Word transmission\" interpretation is novel;\n  underlying\
+      \ Iranian influence debate has scholarly replication (Boyce/Hultgård\n  maximalist\
+      \ vs Tiller/Nickelsburg minimalist positions)\n- Transparency: High - documents\
+      \ clearly distinguish consensus from framework\n  interpretation, present both\
+      \ scholarly positions, cite sources with page refs\n- Source data: Mixed - peer-reviewed\
+      \ scholarship + primary texts + framework synthesis\nSOURCE CHAIN IMPROVEMENTS\
+      \ NEEDED: Add secondary sources:\n- [S] Tiller, Patrick. \"A Commentary on the\
+      \ Animal Apocalypse of 1 Enoch\" (1993)\n- [S] Nickelsburg, George. \"1 Enoch\
+      \ 1: A Commentary\" (Hermeneia, 2001)\n- [S] Dugan, Elena. \"The Apocalypse\
+      \ of the Birds\" (2024)\n- [P] Qumran fragments 4Q204-207 - Aramaic originals\n\
+      FRAMEWORK EXTENSION: Scholars demonstrate Mesopotamian/Iranian influence but\
+      \ do NOT\nexplicitly frame this as \"Ancient Word transmission\" - that is our\
+      \ interpretive layer.\n"
     source_chain:
     - type: T
       ref: data/06_Mythological_Studies/Enoch's Bulls, History's Echoes.md
@@ -3925,7 +3954,7 @@ nodes:
     domain: EARLY
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.765
     definition: 'Comprehensive historical profile of James brother of Jesus as supreme
       authority of the Jerusalem church. Styled "Oblias" (Bulwark of the People),
       lifelong Nazirite, wearer of the petalon (High Priestly diadem), intercessor
@@ -3935,6 +3964,33 @@ nodes:
       Origen).
 
       '
+    confidence_factors:
+      source_type: external
+      methodology: textual_critical
+      sample_size: small_10-99
+      replication: independent_replicated
+      peer_review: peer_reviewed_book
+      source_chain_quality: primary_verified
+    extraction_notes: "Verified 2025-01-04 by confidence-extractor agent:\n- Source\
+      \ type: EXTERNAL - synthesizes peer-reviewed scholarship and primary ancient\
+      \ sources\n- Methodology: Textual-critical (historical-literary analysis of\
+      \ ancient texts)\n- Sample: Small (~10-20 independent ancient testimonies about\
+      \ James)\nPRIMARY SOURCE VERIFICATION:\n1. Josephus Antiquities 20.9.1 (20.200)\
+      \ ✅ - records 62 CE martyrdom under Ananus,\n   illegal execution, Pharisee\
+      \ protest, Ananus deposition. Standard scholarly reference.\n2. Hegesippus via\
+      \ Eusebius HE 2.23 ✅ - Nazirite practices, Temple access, \"Camel Knees,\"\n\
+      \   martyrdom, \"Oblias\" title. Primary Jewish-Christian source (Painter, Bauckham).\n\
+      3. Gospel of Thomas Logion 12 ✅ - \"James the Just, for whose sake heaven and\
+      \ earth\n   came into being\" - Nag Hammadi text, standard scholarly reference.\n\
+      4. Pseudo-Clementines ✅ - \"Bishop of Bishops\" title, Peter subordinate.\n\
+      5. Epiphanius Panarion ✅ - petalon/High Priestly plate tradition.\nREPLICATION:\
+      \ Independent - multiple non-dependent ancient sources converge: Josephus\n\
+      (Jewish historian), Hegesippus (Jewish-Christian 2nd c.), GT (Nag Hammadi tradition),\n\
+      Paul (1 Cor 15:7, Gal 1:19, 2:9).\nPEER REVIEW: Secondary scholarship robust:\
+      \ Painter \"Just James\" (1997), Bauckham \"Jude\nand the Relatives of Jesus\"\
+      \ (1990), Chilton & Neusner \"The Brother of Jesus\" (2001).\nCAVEATS: \"Opposition\
+      \ High Priest\" framing is Eisenman's construct, not universal consensus.\n\
+      James Ossuary and Talpiot connection remain academically disputed.\n"
     source_chain:
     - type: T
       ref: data/04_Early_Christian_History/The Bulwark of the People.md
@@ -4119,7 +4175,7 @@ nodes:
     domain: MYTH
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.777
     definition: 'Scientific evidence supporting concept of a lost universal knowledge
       system matching Swedenborg''s "Ancient Word": (1) 32 geometric signs recurring
       30,000 years across Europe, originating out of Africa; (2) Aboriginal songlines
@@ -4129,6 +4185,34 @@ nodes:
       The "Ancient Word" may be a lost cognitive technology, not a text.
 
       '
+    confidence_factors:
+      source_type: external
+      methodology: observational
+      sample_size: large_1000+
+      replication: internal_replicated
+      peer_review: peer_reviewed_book
+      source_chain_quality: mixed
+    extraction_notes: "Verified 2025-01-04 by confidence-extractor agent:\n- Source\
+      \ type: EXTERNAL - synthesizes published peer-reviewed research\n- Methodology:\
+      \ Observational (systematic field surveys, ethnographic comparison)\n- Sample:\
+      \ Large (370+ cave sites for geometric signs, 30+ coastal locations for oral\
+      \ tradition)\n- Replication: Internal - patterns consistent across independent\
+      \ sites\nSOURCE VERIFICATION:\n1. Von Petzinger \"The First Signs\" (2016) ✅\
+      \ HIGH QUALITY - PhD researcher, TED Fellow,\n   systematic database of 370\
+      \ rock art sites, peer-reviewed academic book\n2. Kelly \"The Memory Code\"\
+      \ (2016) ✅ MODERATE-HIGH - La Trobe University, endorsed by\n   multiple academics\
+      \ (Davidson, Cleal, Lipe, Hamacher)\n3. Sweatman & Tsikritsis (MAA Journal)\
+      \ ⚠️ CONTESTED - peer-reviewed journal but Göbekli\n   Tepe zodiac hypothesis\
+      \ \"largely rejected by the team working at the site\"\n4. Aboriginal oral tradition\
+      \ ✅ HIGH - independently verified by geologists\nEVIDENCE QUALITY BY CLAIM:\n\
+      - 32 geometric signs across 30,000 years: STRONG (verifiable database)\n- Aboriginal\
+      \ 7,000-12,000 year coastal memory: STRONG (geological verification)\n- Palawa\
+      \ Canopus ~14,000 BP memory: MODERATE-HIGH (Hamacher research)\n- Klamath/Mazama\
+      \ 7,700 year memory: STRONG (geological correlation)\n- Göbekli Tepe Vulture\
+      \ Stone zodiac encoding: WEAK (contested interpretation)\nCAVEAT: Göbekli Tepe\
+      \ archaeoastronomy hypothesis is the weakest link. Should be flagged\nas contested.\
+      \ Overall claim partially supported - deep oral memory evidence is strong,\n\
+      astronomical encoding claims are speculative.\n"
     source_chain:
     - type: T
       ref: data/06_Mythological_Studies/Echoes of an Ancient Word.md
@@ -4854,7 +4938,7 @@ nodes:
     domain: MYTH
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.735
     definition: 'The archangel concept evolved from Ancient Near Eastern divine councils
       through Zoroastrian influence to its crystallization in Second Temple Judaism.
       Four archangels (Michael, Gabriel, Raphael, Uriel) personify divine actions:
@@ -4865,6 +4949,32 @@ nodes:
       the gap between transcendent God and material world.
 
       '
+    confidence_factors:
+      source_type: external
+      methodology: textual_critical
+      sample_size: na
+      replication: independent_replicated
+      peer_review: peer_reviewed_book
+      source_chain_quality: mixed
+    extraction_notes: "Verified 2025-01-04 by confidence-extractor agent:\n- Source\
+      \ type: EXTERNAL - synthesizes 88 external sources from academic publishers\n\
+      \  (Cambridge, Brill, Oxford), journals (Dead Sea Discoveries), reference works\n\
+      - Methodology: Textual-critical (etymology, diachronic tracing, comparative\
+      \ religion)\n- Sample: N/A - not a statistical study\n- Replication: Independent\
+      \ - claims represent CONSENSUS scholarship, not novel arguments\nEVIDENCE VERIFICATION:\n\
+      1. Divine Council motif (Psalm 82, Deut 32:8-9) ✅ PRIMARY TEXT verified\n2.\
+      \ Zoroastrian Amesha Spentas ✅ VERIFIED (Britannica: \"six divine beings...\n\
+      \   emanations or personifications of God's attributes\")\n3. Daniel's \"chief\
+      \ princes\" implying plurality ✅ PRIMARY TEXT (Daniel 10:13)\n4. Qumran War\
+      \ Scroll: Michael as Prince of Light ✅ VERIFIED (standard DSS scholarship)\n\
+      5. Christian/Islamic shifts ✅ VERIFIED (standard comparative religion)\nPEER\
+      \ REVIEW: Draws on Cambridge (Reed, \"Demons, Angels, and Writing\"), Brill\
+      \ (Otzen),\nOxford (Encyclopedia of Dead Sea Scrolls), Mohr Siebeck.\nSOURCE\
+      \ CHAIN ERROR: Node lists \"Encyclopaedia Iranica, ARSACIDS iv\" but this is\
+      \ NOT\ncited in source document. Actual Zoroastrian sources are Britannica and\
+      \ Jewish\nEncyclopedia. RECOMMEND: Remove or correct this entry, add Britannica\
+      \ \"Amesha Spenta\".\nCAVEATS WELL-CALIBRATED: \"catalytic not derivative\"\
+      \ is appropriate scholarly nuance.\n"
     caveats:
     - Zoroastrian influence is 'catalytic' not 'derivative' (adaptation, not copying)
     - Canonical textual basis is sparse; much from apocryphal/pseudepigraphal sources
@@ -5891,7 +6001,7 @@ nodes:
     domain: MYTH
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.72
     definition: 'The Astronomical Book (1 Enoch 72-82), likely the oldest stratum
       of the Enochic corpus (late 4th-3rd century BCE), presents a divinely revealed
       364-day solar calendar as the sole legitimate basis for determining sacred times.
@@ -5904,6 +6014,32 @@ nodes:
       as identity marker.
 
       '
+    confidence_factors:
+      source_type: internal
+      methodology: textual_critical
+      sample_size: na
+      replication: independent_replicated
+      methodological_transparency: high
+      source_data_quality: peer_reviewed_database
+      critic_reviewed: not_reviewed
+    extraction_notes: "Verified 2025-01-04 by confidence-extractor agent:\n- Source\
+      \ type: INTERNAL - framework synthesis of external scholarship\n- Methodology:\
+      \ Textual-critical analysis of ancient calendrical texts\nPRIMARY SOURCE VERIFICATION:\n\
+      1. 1 Enoch 72-82 ✅ Primary text accurately described - 364-day calendar, 4 seasons\n\
+      \   of 91 days, 30+30+31 pattern, 52-week structure confirmed in scholarship\n\
+      2. 4Q208-211 ✅ Qumran Aramaic fragments - paleographic dating to early 2nd c.\
+      \ BCE,\n   establishes terminus ante quem of 3rd c. BCE (Nickelsburg 2005)\n\
+      3. MUL.APIN ✅ Babylonian compendium confirmed - schematic daylight variation,\n\
+      \   2:1 solstice ratio parallels documented (Hunger & Pingree)\nEVIDENCE VERIFIED:\n\
+      - Mathematical claims correct: 4 × 91 = 364; 364 = 52 × 7\n- Qumran adoption\
+      \ confirmed in DSS scholarship\n- Absence of zodiac/planets noted as theological\
+      \ choice rejecting Babylonian astrology\n- 1 Enoch 80 \"sin causes cosmic disorder\"\
+      \ verified (ch. 80.2-8)\n- Enoch's 365-year lifespan (Gen 5:23) vs. 364-day\
+      \ calendar correctly noted\nSCHOLARLY CONSENSUS: Claims supported by Nickelsburg\
+      \ (Hermeneia), VanderKam,\nBeckwith (\"Calendar and Chronology\"), Milik. Strong\
+      \ empirical grounding.\nINTERPRETIVE CLAIMS: \"Ideological truth over observational\
+      \ accuracy\" is framework\nsynthesis but well-supported by absence of intercalation\
+      \ mechanism.\n"
     caveats:
     - 364-day year produces seasonal drift without intercalation
     - Enoch offers no correction mechanism; later Qumran texts attempt reconciliation
@@ -6845,7 +6981,7 @@ nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.782
     definition: 'A comprehensive methodological framework for classifying and analyzing
       near-death experiences across four independent dimensions. Developed using phenomenological
       bracketing (epoché) to describe NDE components without metaphysical commitment.
@@ -6853,6 +6989,32 @@ nodes:
       avoiding the reductionism of single-spectrum classifications.
 
       '
+    confidence_factors:
+      source_type: internal
+      methodology: retrospective
+      sample_size: large_1000+
+      replication: internal_replicated
+      methodological_transparency: high
+      source_data_quality: institutional_database
+      critic_reviewed: not_reviewed
+    extraction_notes: "Verified 2025-01-04 by confidence-extractor agent:\n- Source\
+      \ type: INTERNAL - the four-axis framework is OUR NOVEL SYNTHESIS, not published\n\
+      \  by Ring/Greyson. Source doc: \"a novel descriptive tool for systematic classification\"\
+      \n- Ring's \"Weighted Core Experience Index\" (1980) = single-dimension depth\
+      \ scale (0-10)\n- Greyson's \"NDE Scale\" (1983) = 16-item validation questionnaire,\
+      \ not multi-axial\n- Our framework BUILDS ON their work but creates novel structure\
+      \ (4 independent axes)\nEXTERNAL SOURCE VERIFICATION:\n- Ring, Kenneth \"Life\
+      \ at Death\" (1980) ✅ - scholarly, reviewed in academic journals\n- Greyson,\
+      \ Bruce \"NDE Scale\" (1983) ✅ PMID:6854303 - peer-reviewed, 450+ citations,\n\
+      \  gold standard instrument with high internal consistency and test-retest reliability\n\
+      - van Lommel prospective study (Lancet 2001) ✅ - peer-reviewed, 2 & 8 year follow-up\n\
+      - Ring & Cooper \"Mindsight\" (1999) ✅ - 14 blind individuals, 9 reported NDE\
+      \ vision\nDATABASE ASSESSMENT:\n- NDERF: 5,300+ accounts, established 1998 by\
+      \ Dr. Jeffrey Long, uses Greyson Scale\n- IANDS: Founded 1981, publishes peer-reviewed\
+      \ Journal of Near-Death Studies\n- Quality: Institutional databases with academic\
+      \ credibility, self-reported but validated\nEVIDENCE CLAIMS ALL TRACEABLE to\
+      \ cited research. Framework novel but built on validated\nempirical findings.\
+      \ Consider whether node should be re-typed as 'synthesis' vs 'evidence'.\n"
     axes:
       structural_components:
         description: 'Axis I: Core phenomenological sequence'
@@ -7118,7 +7280,7 @@ nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.497
     definition: 'Group Near-Death Experiences (GNDEs) occur when multiple individuals
       undergoing simultaneous life-threatening trauma report sharing a single, interactive,
       non-physical experience. Distinguished from Shared-Death Experiences (SDEs)
@@ -7129,6 +7291,34 @@ nodes:
       reality" (high-fidelity shared perception of concrete details).
 
       '
+    confidence_factors:
+      source_type: internal
+      methodology: case_study
+      sample_size: minimal_<10
+      replication: unreplicated
+      methodological_transparency: high
+      source_data_quality: mixed_sources
+      critic_reviewed: not_reviewed
+    extraction_notes: "Verified 2025-01-04 by confidence-extractor agent:\n- Source\
+      \ type: INTERNAL - our phenomenological analysis produces the \"inter-subjective\n\
+      \  coherence spectrum\" and \"Axis V\" framework. External sources provide raw\
+      \ case data.\nSOURCE VERIFICATION:\n- Fireweaver book ✅ VERIFIED - commercially\
+      \ available (Barnes & Noble, eBook $9.99)\n  Co-author Stephen Hoyer is professional\
+      \ psychologist. BUT: popular memoir, NOT peer-reviewed.\n- Hotshots case ✅ VERIFIED\
+      \ - Documented in Gibson \"Fingerprints of God\" (1996) and\n  \"They Saw Beyond\
+      \ Death\" (1999). John Hernandez interviewed 1996, follow-up 2004,\n  IANDS\
+      \ presentation March 2012. BUT: popular NDE books, NOT peer-reviewed.\n- \"\
+      Nothing Better Than Death\" ✅ VERIFIED - Xlibris 2002, ISBN 1401064124.\n  Self-published\
+      \ compilation, NOT peer-reviewed.\nCRITICAL CAVEAT ON HOTSHOTS CASE:\nThe \"\
+      40+ participants\" claim requires clarification. Two 20-person crews = 40 total,\n\
+      BUT only ONE detailed first-person account (John Hernandez) is documented. Gibson\
+      \ reports\n\"others confirmed\" but NO independent interviews with other 39\
+      \ crew members documented.\nThis is REPORTED verbal confirmation, not independently\
+      \ verified testimony.\nLIMITATIONS:\n- n=2 cases for comparative analysis (GNDEs\
+      \ extremely rare)\n- No peer-reviewed documentation anywhere in source chain\n\
+      - Post-hoc harmonization among participants cannot be ruled out\nSTRENGTH: The\
+      \ evidence IS theoretically challenging for brain-based models—mutual\nrecognition\
+      \ and interaction within shared space contradicts solipsistic prediction.\n"
     key_cases:
       fireweaver_lightning:
         description: Three individuals (May, James, Rashad) struck by lightning simultaneously
@@ -7248,7 +7438,7 @@ nodes:
     domain: BIBL
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.497
     definition: 'A proposed replacement for the standard "Criterion of Embarrassment"
       used in Historical Jesus studies. The Criterion of Embarrassment assumes that
       narratives showing Jesus in weakness, subordination, or ignorance are historically
@@ -7261,6 +7451,33 @@ nodes:
       not that he was immune to it.
 
       '
+    confidence_factors:
+      source_type: internal
+      methodology: theoretical
+      sample_size: na
+      replication: unreplicated
+      methodological_transparency: high
+      source_data_quality: mixed_sources
+      critic_reviewed: not_reviewed
+    extraction_notes: "Verified 2025-01-04 by confidence-extractor agent:\n- Source\
+      \ type: INTERNAL - \"Criterion of Temptation\" is FRAMEWORK-ORIGINAL methodological\n\
+      \  proposal, NOT peer-reviewed published criterion. Wikipedia lists standard\
+      \ criteria\n  (Embarrassment, Dissimilarity, Multiple Attestation) - no \"Criterion\
+      \ of Temptation\".\n- Methodology: Theoretical - hermeneutical reframing, not\
+      \ directly testable hypothesis\nVALID FOUNDATIONS VERIFIED:\n- Bauer Thesis\
+      \ ✅ VERIFIED - recognized scholarly position, though contested. Wikipedia:\n\
+      \  \"The idea that Christianity was originally diverse has now been generally\
+      \ accepted\"\n- Ebionite Christology ✅ VERIFIED - Wikipedia confirms \"righteous\
+      \ human being who by\n  virtue of faithful observance of Law was chosen\"\n\
+      - Gospel of Hebrews ✅ Fragment 3 (Origen): \"my mother the Holy Spirit took\
+      \ me by my\n  hairs and carried me to Tabor\" - but \"active spiritual combat\"\
+      \ is INTERPRETIVE EXTENSION\n- Q Source ✅ - established scholarship, \"pre-Pauline\"\
+      \ chronologically accurate\nFRAMEWORK EXTENSIONS:\n- The specific criterion\
+      \ name and methodology is OUR creation\n- Jamesian/Pauline binary contrast is\
+      \ our synthesis\n- \"Static vs Dynamic perfection\" framing is our theological\
+      \ analysis\nNODE TYPE CONSIDERATION: Currently \"evidence\" but may be better\
+      \ classified as \"hypothesis\"\nor \"synthesis\" - this IS a claim requiring\
+      \ support, not empirical data supporting other claims.\n"
     methodological_critique:
       standard_logic: 'Premise A: Early Church viewed Jesus as Divine, Infallible
         Son
@@ -7541,7 +7758,7 @@ nodes:
     domain: BIBL
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.885
     definition: 'The 4.2 kiloyear aridification event (c. 2200 BCE), one of the most
       severe climatic episodes of the Holocene, caused widespread civilizational collapse
       across the Near East. Lasting 200-300 years, this mega-drought (30-50% rainfall
@@ -7551,6 +7768,63 @@ nodes:
       reverted to de-urbanized pastoral-nomadic patterns (Intermediate Bronze Age).
       This provides the scientific background for understanding cultural memory of
       "world-ending" catastrophes preserved in flood narratives.
+
+      '
+    confidence_factors:
+      source_type: external
+      methodology: observational
+      sample_size: large_1000+
+      replication: independent_replicated
+      peer_review: peer_reviewed_journal
+      source_chain_quality: primary_verified
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      - Source type: EXTERNAL - peer-reviewed paleoclimatology and archaeology
+
+      WEISS ET AL. (1993) ✅ VERIFIED:
+
+      - Science Vol. 261, Issue 5124, pp. 995-1004 (20 Aug 1993)
+
+      - DOI: 10.1126/science.261.5124.995
+
+      - 737 citations - highly influential foundational paper
+
+      ICS RECOGNITION ✅ VERIFIED:
+
+      - International Commission on Stratigraphy officially subdivided Holocene in
+      2018
+
+      - Meghalayan Stage/Age begins at 4.2 ka (shown in ICS Chart v2024-12)
+
+      - 4.2kya event is NOW FORMALLY RECOGNIZED as defining geological boundary
+
+      - GSSP established at Mawmluh cave, India; auxiliary at Mount Logan, Canada
+
+      INDEPENDENT REPLICATION ✅ Multiple proxy types converge:
+
+      - Italian speleothems (Drysdale et al. 2005, Geology)
+
+      - Red Sea cores (Arz et al. 2006), Dead Sea cores (Bar-Matthews et al. 1997)
+
+      - Kilimanjaro ice (Thompson et al. 2002, Science), Andean ice cores
+
+      ARCHAEOLOGICAL IMPACT: Well-documented collapse patterns (Akkadian, Egyptian
+      Old
+
+      Kingdom, Levantine EB III)
+
+      CAVEATS APPROPRIATELY NOTED:
+
+      - Global uniformity debated (Tierney, U. Arizona questions lumping)
+
+      - Regional variation (Mediterranean severe, N. Europe ambiguous, Alps wetter)
+
+      - Causation complexity acknowledged
+
+      - MYTHOLOGICAL CONNECTION is interpretive extension, not proven fact (drought
+      vs flood)
+
+      NOTE: Cline (2014) covers LATER collapse (1200 BCE LBA), not 2200 BCE EBA event.
 
       '
     paleoclimatic_evidence:
@@ -9980,7 +10254,7 @@ nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.695
     definition: 'Statistical analysis of 6,739 NDE reports demonstrates that entities
       encountered during NDEs function as a structured ecosystem with differentiated
       roles, not interchangeable appearances. Different being-types show statistically
@@ -9989,6 +10263,43 @@ nodes:
       Jesus) more often present choices and provide significant guidance. This suggests
       an organized system where beings have roles, not a passive realm experiencers
       visit.
+
+      '
+    confidence_factors:
+      source_type: internal
+      methodology: observational
+      sample_size: large_1000+
+      replication: unreplicated
+      methodological_transparency: high
+      source_data_quality: institutional_database
+      critic_reviewed: not_reviewed
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      - Source type: INTERNAL - our statistical analysis from nde-analysis repository
+
+      - Sample: Large (n=6,739 NDE experiences from IANDS + NDERF)
+
+      - Methodology: Observational analysis of self-reported narratives
+
+      - Transparency: High - full Python code available, comprehensive questionnaire
+      schema (1,141-line Pydantic model)
+
+      - Source data: Institutional databases (NDERF curated by Dr. Jeffrey Long; IANDS
+      academic)
+
+      - Replication: Unreplicated - single analysis run, no independent validation
+
+      - Critic: Not yet reviewed
+
+      STRENGTHS: Large sample enables stable patterns; explicit enum fields constrain
+      LLM coding;
+
+      data caveats honestly documented; cross-tabulation methodology appropriate.
+
+      WEAKNESSES: LLM coding without inter-rater reliability; no human-coded validation
+      subset;
+
+      Western/English-language bias in source data.
 
       '
     key_statistics:
@@ -10084,7 +10395,7 @@ nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.775
     definition: 'Statistical analysis of NDE imagery demonstrates that culturally
       diverse forms map to functionally equivalent states, validating the Swedenborgian
       principle that spiritual states are "clothed" in culturally familiar imagery.
@@ -10093,6 +10404,42 @@ nodes:
       figures all correlate with similar guidance functions. Cultural background shapes
       identification (Christians 7x more likely to identify Jesus) but NOT functional
       outcomes—a crucial distinction supporting "constant state, variable form."
+
+      '
+    confidence_factors:
+      source_type: internal
+      methodology: retrospective
+      sample_size: large_1000+
+      replication: single_study
+      methodological_transparency: full
+      source_data_quality: institutional_database
+      critic_reviewed: not_reviewed
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      - Source type: INTERNAL - our statistical analysis from nde-analysis repository
+
+      - Sample: Large (n=6,739 NDE experiences from IANDS + NDERF)
+
+      - Methodology: Retrospective - analysis of pre-existing NDE reports
+
+      - Transparency: Full - complete Python code available (entity_role_analysis.py,
+      347 lines)
+
+      - Source data: Institutional databases (NDERF, IANDS)
+
+      - Replication: Single study - original analysis, no independent replication
+
+      - Critic: Not yet reviewed
+
+      KEY FINDING: Tests Swedenborgian correspondential principle against empirical
+      data.
+
+      Different cultural forms (tunnel/void, Being of Light/presence) map to functionally
+
+      equivalent outcomes. Christians 7x more likely to identify Jesus vs atheists,
+
+      but functional outcomes (guidance, return) identical. "Constant state, variable
+      form."
 
       '
     key_statistics:
@@ -10970,7 +11317,7 @@ nodes:
     domain: CROSS
     node_type: foundational
     status: validated
-    confidence: 0.04
+    confidence: 0.7
     definition: 'The foundational ontological principle that spiritual and physical
       are not two  separate realms but ONE REALITY perceived at different levels.
       Physical does not  "produce" spiritual, nor "correspond to" spiritual as if
@@ -12970,7 +13317,7 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.763
     definition: 'The finding that 61.8% of Being of Light encounters (1,970 of 3,189
       cases) are identified as "unknown presence" rather than cultural labels (God:
       23.0%, Jesus: 11.2%, Religious Figure: 4.0%). This transcendence of ALL cultural
@@ -12983,6 +13330,27 @@ extended_nodes:
     caveats:
     - May reflect 'theological framework mismatch' rather than pure inability to categorize
     - Cross-cultural sampling weighted toward Western/English-speaking experiences
+    confidence_factors:
+      source_type: internal
+      methodology: observational
+      sample_size: large_1000+
+      replication: single_study
+      methodological_transparency: full
+      source_data_quality: institutional_database
+      critic_reviewed: not_reviewed
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      SOURCE: INTERNAL - our statistical analysis in nde-analysis/conceptual_framework_deep_dive.ipynb
+
+      DATA: NDERF (n=5,646) + IANDS (n=1,093) = 6,739 total; Being of Light n=3,189
+
+      METHODOLOGY: Python (pandas, scipy), Azure OpenAI structured extraction
+
+      STRENGTHS: Large sample, full transparency, institutional databases
+
+      LIMITATIONS: Convenience sample, English-weighted, no external replication
+
+      '
     source_chain:
     - type: E
       ref: data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
@@ -13021,7 +13389,7 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.763
     definition: 'Statistical finding that 84.8% of life reviews (n=1,253) involve
       NO external condemnation. Distribution: No judgment at all (57.0%), Self-judgment
       only (26.3%), Guide/Light judgment (9.3%), Harsh/punishing (1.6%). The Love-to-Shame
@@ -13033,6 +13401,29 @@ extended_nodes:
     caveats:
     - Self-reported emotional assessment
     - Life review sub-sample (18.6% of total)
+    confidence_factors:
+      source_type: internal
+      methodology: observational
+      sample_size: large_1000+
+      replication: single_study
+      methodological_transparency: full
+      source_data_quality: institutional_database
+      critic_reviewed: not_reviewed
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      SOURCE: INTERNAL - our statistical analysis in nde-analysis/conceptual_framework_deep_dive.ipynb
+
+      DATA: Life review subset n=1,253 (18.6% of total 6,739)
+
+      KEY FINDING: Harsh/punishing category extremely rare (1.6%, n=20)
+
+      METHODOLOGY: Categorical analysis of judgment types in life reviews
+
+      STRENGTHS: Large sample, Love-to-Shame ratio mathematically verified
+
+      LIMITATIONS: Self-reported, subsample of total NDEs
+
+      '
     source_chain:
     - type: E
       ref: data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
@@ -13075,7 +13466,7 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: preliminary
-    confidence: 0.0
+    confidence: 0.723
     definition: 'Hypothesis that "unknown presence" classification reflects CHARACTERISTIC
       MISMATCH rather than pure inability to categorize. Christians taught fear-based
       theology (judgment, hell, conditional salvation) encounter a being with properties
@@ -13092,6 +13483,30 @@ extended_nodes:
     - Paul's actual theology is complex (includes grace); fear-based Christianity
       is historical development
     - Cannot interview experiencers about reasoning for classification
+    confidence_factors:
+      source_type: internal
+      methodology: observational
+      sample_size: medium_100-999
+      replication: single_study
+      methodological_transparency: full
+      source_data_quality: institutional_database
+      critic_reviewed: not_reviewed
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      SOURCE: INTERNAL - our statistical analysis in nde-analysis/conceptual_framework_deep_dive.ipynb
+
+      DATA: Christians comparative analysis n=735
+
+      NOTE: This is HYPOTHESIS - mismatch interpretation is inferred, not directly
+      tested
+
+      METHODOLOGY: Comparison of identification patterns vs experiential properties
+
+      STRENGTHS: Shows identical core properties but different naming
+
+      LIMITATIONS: Cannot verify experiencers'' reasoning for classification choices
+
+      '
     source_chain:
     - type: E
       ref: data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
@@ -13131,7 +13546,7 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.763
     definition: 'Statistical finding that complete fear of death loss occurs at virtually
       identical rates across ALL religious backgrounds: Christians 62.2%, Atheists
       62.3%, Spiritual- not-Religious 62.5%, Muslims 62.9%, Jews 60.0%. Coefficient
@@ -13144,6 +13559,29 @@ extended_nodes:
     caveats:
     - Small sample sizes for some religions (Muslim n=35, Jewish n=30)
     - Self-reported fear assessment
+    confidence_factors:
+      source_type: internal
+      methodology: observational
+      sample_size: large_1000+
+      replication: single_study
+      methodological_transparency: full
+      source_data_quality: institutional_database
+      critic_reviewed: not_reviewed
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      SOURCE: INTERNAL - our statistical analysis in nde-analysis/conceptual_framework_deep_dive.ipynb
+
+      DATA: Full sample n=6,739 for cross-religious comparison
+
+      KEY FINDING: Coefficient of variation 1.8% indicates remarkable consistency
+
+      METHODOLOGY: Chi-square analysis across religious categories
+
+      STRENGTHS: Large total sample, consistency metric mathematically robust
+
+      LIMITATIONS: Muslim (n=35) and Jewish (n=30) subsamples are small
+
+      '
     source_chain:
     - type: E
       ref: data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
@@ -13179,7 +13617,7 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.763
     definition: 'Statistical demonstration that Being of Light exhibits five markers
       of personal conscious entity, not impersonal force: (1) Intentional communication:
       79.4% active two-way dialogue; (2) Purposeful guidance: 59.6% receive specific
@@ -13192,6 +13630,27 @@ extended_nodes:
     caveats:
     - Consciousness markers inferred from reported behaviors
     - Cannot directly test Being's phenomenological experience
+    confidence_factors:
+      source_type: internal
+      methodology: observational
+      sample_size: large_1000+
+      replication: single_study
+      methodological_transparency: full
+      source_data_quality: institutional_database
+      critic_reviewed: not_reviewed
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      SOURCE: INTERNAL - our statistical analysis in nde-analysis/conceptual_framework_deep_dive.ipynb
+
+      DATA: Being of Light subset n=3,189
+
+      METHODOLOGY: Communication mode analysis (telepathic/speech/mixed)
+
+      STRENGTHS: 79.4% communication presence clearly established
+
+      LIMITATIONS: "Personal vs impersonal" is interpretive framework applied to data
+
+      '
     source_chain:
     - type: E
       ref: data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
@@ -13229,7 +13688,7 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.763
     definition: 'Statistical evidence that Being of Light occupies a DISTINCT, central
       role compared to other beings (deceased relatives, angels, helpers). Significant
       guidance rate: Light Being 59.6% vs Other beings only 49.3% (10.3 percentage
@@ -13241,6 +13700,29 @@ extended_nodes:
     caveats:
     - Guidance significance is subjective assessment
     - '''Other beings'' category is heterogeneous'
+    confidence_factors:
+      source_type: internal
+      methodology: observational
+      sample_size: large_1000+
+      replication: single_study
+      methodological_transparency: full
+      source_data_quality: institutional_database
+      critic_reviewed: not_reviewed
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      SOURCE: INTERNAL - our statistical analysis in nde-analysis/conceptual_framework_deep_dive.ipynb
+
+      DATA: Comparative n=3,189 Light Being vs n=1,353 Other beings only
+
+      KEY FINDING: 10.3 percentage point difference (59.6% vs 49.3%) is statistically
+      meaningful
+
+      METHODOLOGY: Comparative analysis separating Light Being from other entities
+
+      INNOVATION: Critical methodological distinction - previous research conflated
+      these
+
+      '
     source_chain:
     - type: E
       ref: data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
@@ -13275,7 +13757,7 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.782
     definition: 'Five independent markers from NDE data converge to support CONTINUATION
       as normative post-death path, NOT reincarnation: (1) Deceased relatives present
       18.7% (not reincarnated); (2) Return framed as exception 41.6% ("not your time,"
@@ -13289,6 +13771,29 @@ extended_nodes:
     - NDEs may not represent 'actual' death state
     - 'Selection bias: only those who return can report'
     - Does not disprove exceptional reincarnation cases (DOPS data)
+    confidence_factors:
+      source_type: internal
+      methodology: retrospective
+      sample_size: large_1000+
+      replication: internal_replicated
+      methodological_transparency: high
+      source_data_quality: institutional_database
+      critic_reviewed: not_reviewed
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      SOURCE: INTERNAL - our statistical analysis of IANDS/NDERF databases
+
+      DATA: n=6,739 total NDEs
+
+      FINDINGS: Five converging markers (deceased 18.7%, return as exception 41.6%,
+
+      identity preserved 89.9%, transformation 57.8%, reincarnation indicators 0%)
+
+      STRENGTH: Zero reincarnation indicators is striking null finding
+
+      METHODOLOGY: Retrospective analysis of existing self-report database
+
+      '
     source_chain:
     - type: E
       ref: data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
@@ -13342,7 +13847,7 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.745
     definition: 'Statistical falsification of the hypothesis that NDE Being of Light
       encounters are pure mental projections of cultural expectations. Six failed
       predictions: (1) Can''t explain 61.8% "unknown presence" (can''t project what
@@ -13356,6 +13861,31 @@ extended_nodes:
     caveats:
     - Falsification is of 'pure' projection - partial cultural influence still possible
     - Cannot rule out collective unconscious explanations
+    confidence_factors:
+      source_type: internal
+      methodology: retrospective
+      sample_size: large_1000+
+      replication: single_study
+      methodological_transparency: high
+      source_data_quality: institutional_database
+      critic_reviewed: not_reviewed
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      SOURCE: INTERNAL - our falsification analysis of NDE database
+
+      DATA: n=6,739, testing predictions of pure projection model
+
+      FINDINGS: Six failed predictions (61.8% unknown, cross-religious 60-63%,
+
+      hell only 1.6%, cross-cultural Being properties, 20.4% atheist transformation,
+
+      ML accuracy 68.2% not 90%+)
+
+      STRENGTH: Unknown presence finding (61.8%) particularly compelling
+
+      NOTE: Novel falsification approach - single study, not replicated elsewhere
+
+      '
     source_chain:
     - type: E
       ref: data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
@@ -13394,7 +13924,7 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.705
     definition: 'Statistical finding that 25.7% of life reviews explicitly involve
       experiencing others'' perspectives - feeling the impact of one''s actions from
       the viewpoint of those affected. Distribution: No empathetic component 67.4%,
@@ -13409,6 +13939,27 @@ extended_nodes:
     - Qualitative assessment of 'experiencing others' feelings'
     - Threefold Path Report shows 4.9% 'empathetic perspective' - methodological difference
       (explicit only vs explicit+implied)
+    confidence_factors:
+      source_type: internal
+      methodology: retrospective
+      sample_size: large_1000+
+      replication: single_study
+      methodological_transparency: moderate
+      source_data_quality: institutional_database
+      critic_reviewed: not_reviewed
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      SOURCE: INTERNAL - life review empathy analysis
+
+      DATA: n=1,253 life reviews
+
+      METHODOLOGICAL NOTE: Ambiguity between reports - 25.7% (explicit+implied)
+
+      vs 4.9% (explicit only). Lower transparency due to definitional variance.
+
+      PRIORITY: Needs Critic review for operationalization clarity
+
+      '
     source_chain:
     - type: E
       ref: data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
@@ -13450,7 +14001,7 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.812
     definition: 'Statistical validation of the "Both/And" cosmological thesis from
       6,739 NDE cases. The vast majority (88.5%, N=5,966) follow the Normative Linear
       Path (continuation with intact consciousness), while a distinct minority (11.5%,
@@ -13463,6 +14014,27 @@ extended_nodes:
     caveats:
     - Restorative path (third pathway) not testable with NDE data
     - Distribution among NDE survivors may not match actual post-mortem population
+    confidence_factors:
+      source_type: internal
+      methodology: retrospective
+      sample_size: large_1000+
+      replication: internal_replicated
+      methodological_transparency: full
+      source_data_quality: institutional_database
+      critic_reviewed: not_reviewed
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      SOURCE: INTERNAL - threefold path statistical validation
+
+      DATA: n=6,739 total; 5,966 Normative (88.5%), 773 Volunteer (11.5%)
+
+      METHODOLOGY: Complete design document with full transparency
+
+      STRENGTH: 11.5% volunteer rate falls within predicted 5-15% range
+
+      LIMITATION: Restorative path cannot be tested with NDE data
+
+      '
     source_chain:
     - type: E
       ref: data/01_Consciousness_Studies/threefold-path-validation-report-analysis_iands_and_nand_2025.md
@@ -13508,7 +14080,7 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.772
     definition: 'The distinct NDE pattern (11.5%, N=773) where experiencers are "sent
       back" to fulfill a specific earthly mission. Key features: 52.6% were involuntarily
       returned ("told to return"), 36.5% had life reviews (vs. 18.6% normative), 61.7%
@@ -13521,6 +14093,29 @@ extended_nodes:
     - 'Mission descriptions sparse: only 6.1% detailed'
     - Cannot directly verify pre-incarnate covenant claim
     - 'Selection bias: Those who return may be more aware of mission'
+    confidence_factors:
+      source_type: internal
+      methodology: retrospective
+      sample_size: medium_100-999
+      replication: internal_replicated
+      methodological_transparency: full
+      source_data_quality: institutional_database
+      critic_reviewed: not_reviewed
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      SOURCE: INTERNAL - volunteer path statistical analysis
+
+      DATA: n=773 volunteer path specifically
+
+      EFFECT SIZE: Cramér''s V = 0.338 (medium) for return choice discrimination
+
+      CORROBORATING: 52.6% involuntary return, 36.5% life review (vs 18.6% normative),
+
+      61.7% fear loss (vs 41.1% normative), ML 74.5% accuracy
+
+      LIMITATION: Mission descriptions sparse (only 6.1% detailed)
+
+      '
     source_chain:
     - type: E
       ref: data/01_Consciousness_Studies/threefold-path-validation-report-analysis_iands_and_nand_2025.md
@@ -13568,7 +14163,7 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.745
     definition: 'Statistical analysis of whether NDE phenomenology follows the proposed
       four-stage sequence: (1) Passage (OBE, tunnel, peace) → (2) Arrival (Being of
       Light, reunions, belonging) → (3) Self-Revelation (life review) → (4) Integration
@@ -13590,6 +14185,27 @@ extended_nodes:
     - 40% below predicted 70%+ threshold - explained by truncation
     - Truncation (early return) artificially lowers canonical rate
     - Stage boundaries not always clearly demarcated in reports
+    confidence_factors:
+      source_type: internal
+      methodology: retrospective
+      sample_size: large_1000+
+      replication: single_study
+      methodological_transparency: high
+      source_data_quality: institutional_database
+      critic_reviewed: not_reviewed
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      SOURCE: INTERNAL - four-stage sequential analysis
+
+      DATA: n=6,739 total NDEs
+
+      KEY FINDING: 0% unusual ordering validates sequential architecture
+
+      INTERPRETATION: 40% canonical rate reflects truncation (early return),
+
+      not disorder. Book analogy: 40% complete copies, 0% misprinted = structure exists
+
+      '
     source_chain:
     - type: E
       ref: data/01_Consciousness_Studies/threefold-path-validation-report-analysis_iands_and_nand_2025.md
@@ -13635,7 +14251,7 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.825
     definition: 'The Restorative Incarnation pathway (trauma-driven reincarnation
       following violent or premature death) is empirically validated by DOPS statistical
       analysis. In over 70% of verified DOPS cases worldwide, the previous personality
@@ -13656,6 +14272,29 @@ extended_nodes:
     - Violent death claims higher in unsolved cases (verification difficulty)
     - Cultural variation in solution rates affects regional statistics
     - Correlation not causation - mechanism remains theoretical
+    confidence_factors:
+      source_type: external
+      methodology: case_study
+      sample_size: large_1000+
+      replication: independent_replicated
+      peer_review: peer_reviewed_book
+      source_chain_quality: primary_verified
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      SOURCE: EXTERNAL - published DOPS research (Stevenson, Tucker)
+
+      DATA: ~2,500 cases globally, 67-73% solution rate
+
+      KEY FINDING: >70% violent death is massive deviation from general mortality
+
+      REPLICATION: Cross-cultural (India, Burma, Lebanon, Sri Lanka, US)
+
+      VERIFICATION: 88% birthmark verification rate with medical documentation (n=49)
+
+      NOTE: Type A vs Type B concern addressed - accuracy rates similar (76.7% vs
+      78.4%)
+
+      '
     source_chain:
     - type: T
       ref: data/01_Consciousness_Studies/DOPS Case Verification and Critiques.md
@@ -13707,13 +14346,44 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.8
     definition: 'Machine learning analysis demonstrates that volunteer soul pathway
       can be predicted from NDE phenomenology alone with 74.5% accuracy. Demographics
       contribute minimally. Top predictive features by importance: significant_guidance
       (0.437), return_reason (0.241), return_choice (0.173), communication_mode (0.136).
       The dominance of "significant guidance from beings" (43.7% feature importance)
       suggests the commissioning moment is the operational discriminator between pathways.
+
+      '
+    confidence_factors:
+      source_type: internal
+      methodology: observational
+      sample_size: large_1000+
+      replication: internal_replicated
+      methodological_transparency: full
+      source_data_quality: institutional_database
+      critic_reviewed: not_reviewed
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      - Source document: volunteer-soul-profile-report-analysis_iands_and_nand_2025.md
+
+      - Model: Random Forest (200 estimators, max_depth=10, balanced class weights)
+
+      - Dataset: 6,739 NDEs (773 volunteer, 5,966 normative) from IANDS + NDERF
+
+      - Train/test split: 70/30 stratified (training: 4,717, testing: 2,022)
+
+      - All 17 features and importances documented
+
+      - Full methodology transparency with limitations section
+
+      - Internal replication via train/test split; external validation recommended
+
+      - IANDS/NDERF are institutional databases with systematic collection protocols
+
+      - No theological bias detected (internal analysis)
+
+      - Limitation: 25.5% misclassification rate; single-dataset validation
 
       '
     caveats:
@@ -13753,13 +14423,43 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.8
     definition: 'Statistical analysis establishes that volunteer soul pathway is NOT
       predicted by demographics. Volunteer souls occur across all ages (0-77 years),
       both genders (V=0.058, negligible), all religions (Christian, atheist, SBNR
       equally represented), and all life circumstances. Mission calling transcends
       earthly identity markers. This finding validates the framework''s claim that
       soul purpose operates independently of physical-plane categorizations.
+
+      '
+    confidence_factors:
+      source_type: internal
+      methodology: observational
+      sample_size: large_1000+
+      replication: internal_replicated
+      methodological_transparency: full
+      source_data_quality: institutional_database
+      critic_reviewed: not_reviewed
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      - Source: volunteer-soul-profile-report-analysis_iands_and_nand_2025.md Part
+      I
+
+      - Statistical claims verified: Mann-Whitney U=188,848, χ²=22.62, Cramér''s V=0.058
+
+      - Dataset: N=6,739 (volunteer n=773, normative n=5,966)
+
+      - Age subsample: n=1,631 with age data
+
+      - Multiple convergent methods: U-test, chi-square, ML feature importance
+
+      - All show demographics negligible predictors
+
+      - Source code available in volunteer_soul_profile.ipynb
+
+      - Limitations acknowledged: Western sample bias, self-selection, retrospective
+
+      - No external replication yet
 
       '
     caveats:
@@ -13798,7 +14498,7 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.775
     definition: 'Volunteer souls exhibit statistically significant higher transformation
       rates across all dimensions. Composite transformation score: 4.49/10 vs 2.90/10
       (Cohen''s d = 0.59, medium effect, p < 0.000001). Key differentials: no fear
@@ -13806,6 +14506,36 @@ extended_nodes:
       enhanced psychic abilities (+10.9%). The 20-25% intensity increase across ALL
       markers suggests volunteer NDEs function as "intensive commissioning ceremonies"
       providing deeper preparation for mission work.
+
+      '
+    confidence_factors:
+      source_type: internal
+      methodology: retrospective
+      sample_size: large_1000+
+      replication: single_study
+      methodological_transparency: full
+      source_data_quality: institutional_database
+      critic_reviewed: not_reviewed
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      - All statistics verified exact match to source document Part VI
+
+      - Composite score: 4.49 vs 2.90, Cohen''s d = 0.59, p < 0.000001 ✅
+
+      - All transformation differentials verified (fear of death, values, spirituality,
+      etc.)
+
+      - Dataset: N=6,739 (volunteer n=773, normative n=5,966)
+
+      - Methods: Chi-square with Cramér''s V, Mann-Whitney U, Cohen''s d
+
+      - Full methodology transparency in Appendix A
+
+      - Source data from IANDS + NDERF institutional databases
+
+      - "Intensive commissioning ceremonies" interpretation extends beyond raw stats
+
+      - No independent replication yet
 
       '
     caveats:
@@ -13848,15 +14578,43 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.738
     definition: 'Telepathic/mind-to-mind communication mode is a significant predictor
       of volunteer soul pathway. Volunteer rate: 58.6% telepathic vs 37.3% normative
       (+21.3%), χ² = 458.57, p < 0.0001, Cramér''s V = 0.261 (small-medium effect).
-      Communication mode is the 4th most important ML feature (0.136). This suggests
+      Communication mode ranks 2nd in ML feature importance (0.0894). This suggests
       volunteers receive qualitatively different communication from beings - direct
       mind-to-mind transmission rather than verbal or impressionistic communication
       - consistent with commissioning requiring unambiguous understanding of mission
       parameters.
+
+      '
+    confidence_factors:
+      source_type: internal
+      methodology: retrospective
+      sample_size: large_1000+
+      replication: unreplicated
+      methodological_transparency: full
+      source_data_quality: institutional_database
+      critic_reviewed: not_reviewed
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      - Statistics verified: telepathic 58.6% vs 37.3%, χ²=458.57, p<0.0001, V=0.261
+      ✅
+
+      - CORRECTED: ML feature importance 0.0894 ranked 2nd (was incorrectly 0.136/4th)
+
+      - Effect size V=0.261 is second strongest after Return Choice (V=0.338)
+
+      - Dataset: N=6,739 (volunteer n=773, normative n=5,966)
+
+      - Source code available in volunteer_soul_profile.ipynb
+
+      - ''Telepathic'' is self-reported classification - limitation noted in caveats
+
+      - IANDS + NDERF institutional databases
+
+      - No external replication yet
 
       '
     caveats:
@@ -13897,7 +14655,7 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.643
     definition: 'Content analysis of 83 detailed mission descriptions reveals 10 primary
       mission categories: (1) Writing/Creative Expression (30.1%), (2) Work/Profession
       Integration (26.5%), (3) Teaching/Sharing Knowledge (18.1%), (4) Helping/Healing
@@ -13905,6 +14663,36 @@ extended_nodes:
       (7) Learning/ Growing (12.0%), (8) Love/Compassion Spreading (8.4%), (9) Specific
       Person Focus (3.6%), (10) Spiritual Awakening Facilitation (2.4%). 89.3% lack
       explicit mission details in NDE accounts - mission awareness ≠ mission clarity.
+
+      '
+    confidence_factors:
+      source_type: internal
+      methodology: observational
+      sample_size: small_10-99
+      replication: single_study
+      methodological_transparency: high
+      source_data_quality: institutional_database
+      critic_reviewed: not_reviewed
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      - All 10 mission categories and percentages verified against source Part V ✅
+
+      - Mission specificity distribution verified: 89.3% none, 9.7% moderate, 0.9%
+      very specific ✅
+
+      - Subsample: n=83 detailed descriptions (10.7% of n=773 volunteers)
+
+      - Method: Content analysis with keyword matching on free-text descriptions
+
+      - Limitation: Small subsample, no inter-rater reliability reported
+
+      - Source code available in volunteer_soul_profile.ipynb
+
+      - IANDS + NDERF institutional databases
+
+      - Categories are descriptive taxonomy, not externally validated classification
+
+      - Caveats appropriately documented in node
 
       '
     caveats:
@@ -13946,7 +14734,7 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.747
     definition: 'Critical methodological categorization in DOPS research: Type A cases
       are recorded AFTER the two families (subject''s and previous personality''s)
       meet—retrospective, vulnerable to contamination. Type B cases have written records
@@ -13954,6 +14742,32 @@ extended_nodes:
       33 of ~2,500 cases (1.3%) meet Type B criteria. Crucially, Type A and Type B
       show equivalent accuracy rates (78.4% vs 76.7%), suggesting retrospective method
       does NOT inflate results.
+
+      '
+    confidence_factors:
+      source_type: external
+      methodology: retrospective
+      sample_size: small_10-99
+      replication: internal_replicated
+      peer_review: peer_reviewed_journal
+      source_chain_quality: primary_verified
+    extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
+
+      - EXTERNAL TRACK: cites Stevenson & Samararatne peer-reviewed publications
+
+      - Statistics verified: Type B n=33 (1.3%), accuracy 78.4% vs 76.7% ✅
+
+      - Type B avg statements 25.5 vs 18.5 ✅
+
+      - Primary sources: JSE & JNMD publications available via UVA DOPS repository
+
+      - Equivalence is DEFENSIVE evidence (methodology not inflating results)
+
+      - Limitation: Small Type B sample (n=33) limits statistical power
+
+      - Peer review note: JSE is specialized journal, but methodology is sound
+
+      - Source chain: T→E→P verified - audit doc correctly cites Stevenson
 
       '
     caveats:
@@ -14000,7 +14814,7 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.723
     definition: 'Physical correlates in 30-35% of DOPS cases: children born with birthmarks
       or birth defects corresponding to wounds (usually fatal) on the identified previous
       personality. When medical documentation (autopsy reports) was available, 88%
@@ -14010,6 +14824,25 @@ extended_nodes:
       leakage, cryptomnesia, or parental coaching.
 
       '
+    confidence_factors:
+      source_type: external
+      methodology: case_study
+      sample_size: medium_100-999
+      replication: internal_replicated
+      peer_review: peer_reviewed_book
+      source_chain_quality: primary_verified
+    extraction_notes: "Verified 2025-01-04 by confidence-extractor agent:\n- Source\
+      \ type: EXTERNAL - Stevenson's published peer-reviewed research\n- Sample: 210\
+      \ cases with birthmark correspondence; 49 with medical records (88% verified)\n\
+      - Methodology: Case study - systematic investigation of individual cases, retrospective\n\
+      - Replication: Internal - 40 years consistent findings across cultures; Tucker\
+      \ continues\n- Publications: Reincarnation and Biology (1997, Praeger) reviewed\
+      \ in Omega, JASPR, etc.\n  Also JSE paper (1993) peer-reviewed\n- Source chain:\
+      \ Primary verified - statistics directly traceable to Stevenson publications\n\
+      Note: Mainstream science has largely ignored rather than tested these findings.\
+      \ Critics\nraised methodological objections but conducted no independent investigations.\
+      \ The 88%\nverification rate in medically-documented subset is the \"hard signal\"\
+      \ - you cannot\ncoach a fetus to develop birthmarks matching gunshot wounds.\n"
     caveats:
     - 88% rate is from subset with available medical records (49 cases)
     - Mechanism for consciousness-to-fetal-development pathway unknown

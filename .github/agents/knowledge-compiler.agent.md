@@ -164,12 +164,14 @@ When establishing relationships between nodes:
 ### 6. Working Process
 
 1. **Read systematically** — Process one file at a time, fully
-2. **Extract exhaustively** — Don't skip concepts; capture everything significant
-3. **Check for existing nodes** — Search before creating duplicates
-4. **Establish connections immediately** — Link to existing nodes as you create new ones
-5. **Update bidirectionally** — Add back-references to connected nodes
-6. **Track untraced claims** — Add to the `untraced` section for later resolution
-7. **Validate frequently** — Run `python scripts/graph_utils.py validate` to check integrity
+2. **Identify node types** — What kind of content is this? (evidence, hypothesis, concept, etc.)
+3. **Search existing graph FIRST** — Run `python scripts/graph_utils.py list -d DOMAIN` to see what exists
+4. **Extract only NEW claims** — Don't duplicate existing nodes; connect to them instead
+5. **Establish vertical chain** — Connect new nodes to existing nodes at adjacent hierarchy levels
+6. **Establish horizontal connections** — Link parallels, contradictions, developments
+7. **Update bidirectionally** — Add back-references to connected nodes
+8. **Track untraced claims** — Add to the `untraced` section for later resolution
+9. **Validate frequently** — Run `python scripts/graph_utils.py validate` to check integrity
 
 ### 7. Priority Order
 
@@ -188,10 +190,93 @@ Process the data folders in this order:
 Before marking a document as processed:
 - [ ] All significant claims extracted as nodes
 - [ ] Source chains traced as far as possible
-- [ ] Connections established to related nodes
+- [ ] **Vertical chain connections verified** (see Chain Building Protocol below)
+- [ ] Horizontal connections established (parallels, contradicts)
 - [ ] Untraced claims logged in `untraced` section
 - [ ] Node IDs follow domain prefix convention
 - [ ] Definitions are clear and self-contained
+- [ ] **Chain audit passed for each new node**
+
+### 9. Chain Building Protocol (CRITICAL)
+
+The knowledge graph has a **derivation hierarchy**. Node types form a chain from evidence up to foundations:
+
+```
+FOUNDATIONAL ←─requires─← CONCEPT ←─derived_from─← HYPOTHESIS ←─supported_by─← EVIDENCE
+     │                        │                         │
+     └──grounds──→            └──enables──→             └──predicts──→
+```
+
+**Your job is to connect new nodes to EXISTING nodes at adjacent levels, not to create nodes at every level.**
+
+#### When Processing a Document
+
+1. **Identify what type of content the document contains** (evidence? hypothesis? concept?)
+2. **Search the existing graph** for nodes at adjacent levels
+3. **Connect to existing nodes** — DO NOT create duplicates
+4. **Only create new nodes** when no existing node captures the claim
+
+#### Chain Connection Questions
+
+For each new node, ask:
+
+| Node Type | Look UP (what does this depend on?) | Look DOWN (what depends on this?) |
+|-----------|-------------------------------------|-----------------------------------|
+| `evidence` | What EXISTING hypothesis does this support? | — |
+| `hypothesis` | What EXISTING concepts does this derive from? | What EXISTING evidence supports this? |
+| `concept` | What EXISTING foundational nodes does this require? | What EXISTING hypotheses derive from this? |
+| `foundational` | — | What EXISTING concepts require this? |
+| `synthesis` | What EXISTING nodes does this integrate? | — |
+
+#### Chain Connection Types (Directional)
+
+| From → To | Meaning | Use This Type |
+|-----------|---------|---------------|
+| evidence → hypothesis | "This data validates..." | `supports`, `validates` |
+| hypothesis → concept | "This derives from..." | `derived_from` |
+| hypothesis → evidence | "This predicts..." | `predicts`, `tested_by` |
+| concept → foundational | "This requires..." | `requires`, `grounded_in` |
+| concept → hypothesis | "This enables..." | `enables` |
+| foundational → concept | "This grounds..." | `grounds` |
+
+#### Example: Processing an Evidence Document
+
+You're processing a document about Terminal Lucidity research:
+
+1. **Create evidence node**: `CONSC-057: Terminal Lucidity Evidence`
+2. **Search for hypothesis**: Find existing `CONSC-043: Dying Brain Hypothesis Critique`
+3. **Connect**: CONSC-057 → CONSC-043 (`supports`)
+4. **Search for concept**: Find existing `CONSC-058: Filter Theory`
+5. **Connect**: CONSC-057 → CONSC-058 (`instantiates`)
+6. **DON'T create**: New hypothesis or concept nodes unless document presents genuinely novel claims
+
+#### Why This Matters: Confidence Propagation
+
+Non-evidence nodes derive their confidence scores FROM connected evidence:
+
+```
+Evidence (0.85) ──supports──→ Hypothesis (derives ~0.78)
+                                    │
+                              derives ~0.70
+                                    ↓
+                               Concept (capped ~0.85)
+```
+
+**If you don't establish evidence connections, the node scores 0.30 (minimum).**
+
+### 10. Chain Audit (Before Completing Any Node)
+
+Before marking a node complete, verify:
+
+- [ ] **EVIDENCE nodes**: Connected to at least one hypothesis via `supports`/`validates`
+- [ ] **HYPOTHESIS nodes**: 
+  - Connected to at least one concept via `derived_from` OR noted as novel
+  - Connected to at least one evidence node via `supported_by` OR flagged as untested
+- [ ] **CONCEPT nodes**:
+  - Connected to at least one foundational node via `requires` OR noted as foundational-level
+  - Connected to at least one hypothesis via `enables` OR noted as theoretical-only
+- [ ] **FOUNDATIONAL nodes**: Connected to concepts that depend on them
+- [ ] **SYNTHESIS nodes**: Connected to all nodes being integrated
 
 ## Available Tools
 

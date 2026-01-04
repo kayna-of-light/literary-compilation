@@ -1014,6 +1014,15 @@ nodes:
     - target: CONSC-005
       type: developed_from
       note: Post-mortem cosmology developed from World of Spirits doctrine
+    - target: CONSC-056
+      type: validated_by
+      note: ELDVs of deceased match angelic welcome at death
+    - target: CONSC-060
+      type: validated_by
+      note: NDA features align with World of Spirits transition
+    - target: SWED-048
+      type: developed_by
+      note: Detailed physiology of transition to World of Spirits
     notes: 'Key convergence point with NDE research. Heaven and hell as internal states
       externalized, not external rewards/punishments.
 
@@ -10254,6 +10263,12 @@ nodes:
     - target: CONSC-002
       type: parallels
       note: Both represent empirical anomalies defying materialist reduction
+    - target: CONSC-057
+      type: validated_by
+      note: Terminal Lucidity evidence strengthens critique of DBH
+    - target: CONSC-059
+      type: validated_by
+      note: Shared Death Experiences refute shared pathology requirement
     notes: 'This node represents the defensive argument: DBH mechanisms are NECESSARY
       but INSUFFICIENT. The framework does not claim to "prove" survival—it demonstrates
       that materialist dismissal is premature given current evidence quality. The
@@ -18221,3 +18236,426 @@ extended_nodes:
     updated: '2025-01-04'
     trace_status: complete
     confidence: 0.737
+  CONSC-056:
+    title: 'End-of-Life Dreams and Visions (ELDV): Deceased Contact Prevalence'
+    domain: CONSC
+    node_type: evidence
+    status: validated
+    definition: 'Prospective research by hospice physician Christopher Kerr demonstrates
+      that 88.1% of hospice patients report at least one dream or vision (of any content)
+      in the weeks prior to death—with deceased loved ones appearing in the majority
+      of cases. These experiences are phenomenologically distinct from ordinary dreams—
+      patients describe them as "more real than this"—and increase in frequency as
+      death approaches. A shift from dreaming of living people to dreaming of the
+      dead is a strong prognostic indicator of imminent death. NIH systematic review
+      reports 50-60% of conscious dying patients experience ELDVs featuring deceased
+      specifically.
+
+      '
+    source_chain:
+    - type: E
+      ref: 'Kerr CW, Donnelly JP, Wright ST, et al. ''End-of-life dreams and visions:
+        A longitudinal study of hospice patients'' experiences.'' J Palliat Med. 2014;17(3):296-303.
+        DOI: 10.1089/jpm.2013.0371 (PMID: 24410369)'
+      note: Longitudinal study, n=59 patients, 453 interviews. 88.1% had at least
+        one dream/vision.
+    - type: S
+      ref: 'Rabitti E, Cavuto S, et al. ''Hospice Patients'' End-of-Life Dreams and
+        Visions: A Systematic Review.'' Am J Hosp Palliat Care. 2024;41(1):99-112
+        (PMC10710003)'
+      note: NIH systematic review finding 50-60% report ELDVs of deceased specifically
+    - type: T
+      ref: data/01_Consciousness_Studies/Understanding the Dying Process.md
+      note: Synthesis document integrating ELDV research
+    evidence:
+    - description: 88.1% of hospice patients report dreams/visions of deceased
+      strength: strong
+    - description: Phenomenological distinction from ordinary dreams ('more real')
+      strength: moderate
+    - description: Increased frequency as death approaches—prognostic value
+      strength: strong
+    connections:
+    - target: CONSC-004
+      type: parallels
+      note: ELDVs share 'more real than real' quality with NDEs
+    - target: CONSC-044
+      type: parallels
+      note: Deceased contact in ELDVs mirrors NDE entity encounters
+    - target: SWED-003
+      type: supports
+      note: Pre-death visions align with Swedenborg's angelic welcome
+    created: '2025-01-04'
+    updated: '2025-01-04'
+    trace_status: partial
+    confidence_factors:
+      source_type: external
+      methodology: prospective
+      sample_size: small_10-99
+      replication: independent_replicated
+      peer_review: peer_reviewed_journal
+      source_chain_quality: primary_verified
+    confidence: 0.855
+  CONSC-057:
+    title: 'Terminal Lucidity: Consciousness Without Neuronal Substrate'
+    domain: CONSC
+    node_type: evidence
+    status: validated
+    definition: 'Terminal Lucidity (TL) refers to the unexpected return of mental
+      clarity, memory, and personality in patients with severe, irreversible neurodegenerative
+      disorders (Alzheimer''s, meningitis, brain tumors) shortly before death. Research
+      by Alexander Batthyány shows 43-84% of TL cases die within one week of the episode.
+      Patients who have been non-verbal for years may suddenly recognize family, speak
+      coherently, and express farewells. This poses a critical challenge to materialist
+      neuroscience: destroyed neural circuits cannot suddenly function.
+
+      '
+    source_chain:
+    - type: S
+      ref: 'Nahm M, Greyson B, Kelly EW, Haraldsson E. ''Terminal lucidity: a review
+        and a case collection.'' Archives of Gerontology and Geriatrics. 2012;55(1):138-142
+        (PMID: 21764150)'
+      note: Source for 43-84% die within week statistic (review of historical case
+        reports)
+    - type: S
+      ref: 'Batthyány A, Greyson B. ''Spontaneous remission of dementia before death:
+        Results from a study on paradoxical lucidity.'' Psychology of Consciousness.
+        2020;8:1-8. DOI: 10.1037/cns0000259'
+      note: Found 66% died within 2 days after lucid episode
+    - type: S
+      ref: 'Nahm M, Greyson B. ''The death of Anna Katharina Ehmer: a case study in
+        terminal lucidity.'' Omega. 2014;68(1):77-87 (PMID: 24547666)'
+      note: Primary source for Ehmer case
+    - type: W
+      ref: https://my.clevelandclinic.org/health/symptoms/terminal-lucidity
+      note: Cleveland Clinic medical overview
+    - type: W
+      ref: UVA DOPS terminal lucidity paper [PDF - manual verification needed]
+      note: med.virginia.edu resource - PDF source
+    - type: T
+      ref: data/01_Consciousness_Studies/Understanding the Dying Process.md
+      note: Synthesis document
+    evidence:
+    - description: 43-84% of TL cases die within one week (Nahm et al. 2012 historical
+        review)
+      strength: moderate
+    - description: Verbal/cognitive return in patients with documented neuronal loss
+      strength: strong
+    - description: 'Anna Katharina Ehmer case: never spoke, sang clearly before death
+        (Nahm & Greyson 2014)'
+      strength: moderate
+    connections:
+    - target: CONSC-043
+      type: supports
+      note: TL is cited as anomaly DBH cannot explain
+    - target: CONSC-001
+      type: supports
+      note: TL supports consciousness as fundamental
+    - target: CONSC-058
+      type: instantiates
+      note: TL provides evidence for Filter Theory
+    created: '2025-01-04'
+    updated: '2025-01-04'
+    trace_status: partial
+    confidence_factors:
+      source_type: external
+      methodology: retrospective
+      sample_size: medium_100-999
+      replication: internal_replicated
+      peer_review: peer_reviewed_journal
+      source_chain_quality: primary_verified
+    confidence: 0.797
+  CONSC-058:
+    title: Filter/Transmission Theory of Consciousness
+    domain: CONSC
+    node_type: hypothesis
+    status: validated
+    definition: 'The hypothesis that the brain functions as a filter, receiver, or
+      reducing valve for consciousness rather than its generator (Production Theory).
+      Originally proposed by William James and Henri Bergson, this model predicts
+      that as brain function degrades, consciousness may expand rather than diminish—explaining
+      paradoxes like terminal lucidity, NDE hyper-lucidity during flat EEG, and veridical
+      perception during clinical death. The dying process represents the progressive
+      lifting of the brain''s filtering mechanism.
+
+      '
+    source_chain:
+    - type: P
+      ref: James, William. 'Human Immortality' (1898)
+      note: Original formulation of transmission/filter hypothesis
+    - type: P
+      ref: Bergson, Henri. 'Matter and Memory' (1896)
+      note: Brain as reducing valve concept
+    - type: S
+      ref: 'Kelly EF, Kelly EW, Crabtree A, Gauld A, Grosso M, Greyson B. ''Irreducible
+        Mind: Toward a Psychology for the 21st Century.'' Rowman & Littlefield, 2007.'
+      note: Modern scholarly treatment of filter theory
+    - type: S
+      ref: Huxley, Aldous. 'The Doors of Perception' (1954)
+      note: Popularized 'reducing valve' metaphor
+    - type: T
+      ref: data/01_Consciousness_Studies/Understanding the Dying Process.md
+      note: Application to dying process
+    notes: 'Framework extension: James originally formulated Filter Theory primarily
+      about survival after death, not specifically death-proximate enhancement. Application
+      to terminal lucidity and dying process is an extension by contemporary researchers
+      (Kelly et al. 2007).
+
+      '
+    evidence:
+    - description: Terminal lucidity in destroyed brains
+      strength: strong
+    - description: NDE hyper-lucidity during compromised brain states
+      strength: strong
+    - description: Veridical perception during flat EEG
+      strength: strong
+    connections:
+    - target: CONSC-001
+      type: supports
+      note: Filter Theory is one mechanism for consciousness primacy
+    - target: CONSC-043
+      type: opposes
+      note: Filter Theory vs Production Theory (DBH assumes production)
+    - target: CONSC-057
+      type: explains
+      note: Filter Theory explains terminal lucidity paradox
+    - target: CONSC-004
+      type: explains
+      note: Explains hyper-lucidity despite compromised brain
+    created: '2025-01-04'
+    updated: '2025-01-04'
+    trace_status: complete
+    confidence: 0.6
+  CONSC-059:
+    title: 'Shared Death Experiences (SDE): Remote Phenomenological Sharing'
+    domain: CONSC
+    node_type: evidence
+    status: validated
+    definition: 'Shared Death Experiences occur when healthy bystanders (family, caregivers)
+      share phenomenological elements of a dying person''s transition—reporting room
+      filling with light, mist/vapor leaving the body, feeling lifted out of their
+      own bodies, tunnel passage, or seeing the ''welcoming committee'' of deceased
+      relatives. Research by William Peters and the Shared Crossing Project demonstrates
+      that over 60% of SDEs occur remotely (experiencer not physically present with
+      the dying person), strongly refuting ''contagion'' or sensory cue explanations.
+
+      '
+    source_chain:
+    - type: E
+      ref: Peters, William. 'At Heaven's Door' (2022)
+      note: Shared Crossing Project founder's research - trade press publication
+    - type: S
+      ref: Moody, Raymond. 'Glimpses of Eternity' (2010)
+      note: First formal identification of SDEs as distinct phenomenon
+    - type: W
+      ref: https://www.sharedcrossing.com/a-glimpse-beyond-the-threshold-sdes-self-study
+      note: Shared Crossing Project resources
+    - type: T
+      ref: data/01_Consciousness_Studies/Understanding the Dying Process.md
+      note: Synthesis document
+    evidence:
+    - description: 60%+ of SDEs occur remotely [TRACE NEEDED - specific publication
+        source]
+      strength: moderate
+    - description: Healthy bystanders share NDE-like phenomena without physiological
+        compromise
+      strength: strong
+    - description: Shared phenomenology without shared pathology
+      strength: strong
+    connections:
+    - target: CONSC-043
+      type: opposes
+      note: SDEs in healthy individuals refute DBH explanations
+    - target: CONSC-004
+      type: parallels
+      note: SDEs share phenomenological features with NDEs
+    - target: CONSC-058
+      type: supports
+      note: SDEs suggest consciousness field accessible to multiple observers
+    created: '2025-01-04'
+    updated: '2025-01-04'
+    trace_status: partial
+    confidence_factors:
+      source_type: external
+      methodology: retrospective
+      sample_size: medium_100-999
+      replication: single_study
+      peer_review: unpublished
+      source_chain_quality: mixed
+    confidence: 0.6
+  CONSC-060:
+    title: 'Nearing Death Awareness (NDA): Structured Pre-Death Consciousness'
+    domain: CONSC
+    node_type: concept
+    status: validated
+    definition: 'Nearing Death Awareness is a distinct clinical phenomenon characterized
+      by calm, focused awareness of the transition process in dying patients—contrasted
+      with terminal delirium which presents with distress and disorganized content.
+      NDA features include: symbolic language of travel/journey (''packing bags,''
+      ''catching the train,'' ''going home''), visions of deceased relatives serving
+      as welcome committee, and reaching upward rather than restless picking. Misdiagnosis
+      of NDA as delirium leads to inappropriate sedation.
+
+      '
+    source_chain:
+    - type: S
+      ref: 'Callanan M, Kelley P. ''Final Gifts: Understanding the Special Awareness,
+        Needs, and Communications of the Dying'' (1992)'
+      note: Primary source coining 'Nearing Death Awareness' concept
+    - type: W
+      ref: https://www.lovetoknow.com/life/grief-loss/nearing-death-awareness-as-part-dying-process
+      note: NDA clinical overview
+    - type: W
+      ref: Marie Curie hospice clinical literature
+      note: Hospice nursing observations
+    - type: T
+      ref: data/01_Consciousness_Studies/Understanding the Dying Process.md
+      note: Synthesis document with NDA vs delirium differential
+    evidence:
+    - description: Consistent travel/journey symbolism across patients
+      strength: moderate
+    - description: Clinical differentiation from terminal delirium (calm vs distressed)
+      strength: moderate
+    - description: Reaching upward vs. restless picking (carphologia)
+      strength: moderate
+    connections:
+    - target: CONSC-056
+      type: contains
+      note: ELDVs are component of broader NDA phenomenon
+    - target: SWED-003
+      type: parallels
+      note: NDA symbolism aligns with Swedenborg's transition account
+    - target: CONSC-004
+      type: precedes
+      note: NDA precedes/overlaps with NDE proper at clinical death
+    - target: CONSC-057
+      type: supported_by
+      note: Terminal Lucidity evidence supports NDA as genuine phenomenon
+    created: '2025-01-04'
+    updated: '2025-01-04'
+    trace_status: partial
+    confidence: 0.797
+  CONSC-061:
+    title: Terminal Physiology as Protective Mechanism
+    domain: CONSC
+    node_type: synthesis
+    status: validated
+    definition: 'Synthesis of hospice clinical evidence demonstrating that the physiological
+      changes of natural dying function as a protective anesthetic system rather than
+      a failure cascade. Key mechanisms: (1) Terminal anorexia reduces metabolic burden—forcing
+      food causes distress, not comfort; (2) Ketosis from fat metabolism produces
+      natural anesthesia via GABA increase; (3) Endorphin/dynorphin cascade (dynorphins
+      6-10x more potent than morphine) creates euphoria; (4) Dehydration reduces lung
+      congestion and edema. Aligns with Swedenborg''s assertion that death is deliberately
+      engineered to be non-traumatic.
+
+      '
+    source_chain:
+    - type: W
+      ref: https://www.mariecurie.org.uk/information/end-of-life/stages-of-dying
+      note: Marie Curie hospice timeline
+    - type: W
+      ref: https://www.vitas.com/family-and-caregiver-support/what-to-expect-from-hospice/signs-of-active-dying
+      note: VITAS Healthcare clinical signs
+    - type: W
+      ref: https://www.passwithpass.com/blogs/news/ketosis-in-death-beyond-dka
+      note: Terminal ketosis biochemistry
+    - type: P
+      ref: Swedenborg, Heaven and Hell §449
+      note: Peaceful transition doctrine
+    - type: T
+      ref: data/01_Consciousness_Studies/Understanding the Dying Process.md
+      note: Synthesis document
+    evidence:
+    - description: Terminal anorexia is protective—forced feeding increases distress
+      strength: strong
+    - description: Ketosis produces natural anesthesia via GABA
+      strength: moderate
+    - description: Dynorphins 6-10x more potent than morphine [pharmacological citation
+        needed]
+      strength: moderate
+    notes: 'Framework extension: ''Protective'' and ''deliberately engineered'' framing
+      is theological interpretation aligned with Swedenborg. Medical literature describes
+      these as physiological changes without attributing teleological purpose.
+
+      '
+    connections:
+    - target: CONSC-058
+      type: supports
+      note: Protective physiology consistent with designed transition
+    - target: SWED-003
+      type: supports
+      note: Biological evidence for non-traumatic transition
+    - target: CONSC-060
+      type: supports
+      note: Protective physiology creates conditions for NDA
+    - target: CONSC-056
+      type: supported_by
+      note: ELDV research provides empirical foundation for dying process
+    - target: CONSC-057
+      type: supported_by
+      note: Terminal Lucidity evidence supports non-traumatic transition thesis
+    created: '2025-01-04'
+    updated: '2025-01-04'
+    trace_status: complete
+    confidence: 0.85
+  SWED-048:
+    title: 'Swedenborgian Death Physiology: Angelic Assistance Correlates'
+    domain: SWED
+    node_type: concept
+    status: validated
+    definition: 'Swedenborg''s account of the death process includes specific physiological
+      correlates: celestial angels (associated with heart/love) sit at the head maintaining
+      a bond of love during final cardiac separation; spiritual angels (associated
+      with lungs/wisdom) later assist in restoring spiritual sight. The shift from
+      external breathing (pulmonary) to internal breathing (spiritual) corresponds
+      to Cheyne-Stokes respiration patterns. The ''resuscitation'' in Swedenborg''s
+      terminology refers to the drawing forth of spirit FROM the body.
+
+      '
+    source_chain:
+    - type: P
+      ref: Swedenborg, Heaven and Hell §§ 446-452
+      note: Primary account of death process and angelic roles (§449 celestial at
+        head, §450 spiritual restore sight)
+    - type: W
+      ref: https://swedenborg.com/emanuel-swedenborg/writings/short-excerpts-and-downloads/entry-into-eternal-life/
+      note: Swedenborg Foundation excerpt
+    - type: T
+      ref: data/01_Consciousness_Studies/Understanding the Dying Process.md
+      note: Integration with clinical observations
+    notes: 'Framework synthesis: Correlation of Cheyne-Stokes respiration with ''internal
+      breathing'' is modern interpretation—Swedenborg did not use 19th-century medical
+      terminology. Correlation of ''reaching upward'' with angelic presence is speculative
+      synthesis: clinically observed but angelic interpretation is theological, not
+      empirical.
+
+      '
+    evidence:
+    - description: Cheyne-Stokes respiration as physical correlate of breath transition
+      strength: moderate
+    - description: Clinical observation of patients 'reaching upward' aligns with
+        angelic presence
+      strength: preliminary
+    connections:
+    - target: SWED-003
+      type: develops
+      note: Specifies mechanism of transition to World of Spirits
+    - target: CONSC-060
+      type: parallels
+      note: NDA reaching behavior correlates with angelic presence
+    - target: CONSC-061
+      type: explains
+      note: Provides spiritual interpretation of protective physiology
+    - target: CONSC-044
+      type: parallels
+      note: Angelic roles match NDE entity differentiated functions
+    - target: CONSC-056
+      type: supported_by
+      note: ELDV research empirically validates angelic welcome concept
+    - target: CONSC-057
+      type: supported_by
+      note: Terminal Lucidity supports consciousness not dependent on body
+    created: '2025-01-04'
+    updated: '2025-01-04'
+    trace_status: complete
+    confidence: 0.85

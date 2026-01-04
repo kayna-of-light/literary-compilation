@@ -475,11 +475,34 @@ NODE-ID:
 - "Swedenborg shouldn't be trusted" — his framework is being tested, not defended
 - Any critique requiring stepping OUTSIDE the framework
 
+**Theological Bias Detection** (the Critic SHOULD raise):
+When scholarly "consensus" forms against evidence that threatens theological commitments, 
+the Critic should flag this pattern rather than accept consensus uncritically:
+
+1. **Evidence-then-Retraction Pattern**: Scholars present evidence honestly in publications, 
+   then issue "clarifications" or distance themselves after implications touch theological 
+   "third rails" (Jesus married, physical resurrection challenged, etc.)
+   
+2. **Statistical Dismissal Pattern**: Mathematical analysis shows significance, then 
+   assumptions are retroactively removed to "collapse" the statistics after non-mathematical 
+   scholars raise theological objections
+   
+3. **Committee Override Pattern**: Editorial committees "reject" findings that challenge 
+   orthodox positions, keeping readings/interpretations that serve institutional theology
+   
+4. **Misquotation Claims**: Multiple scholars interviewed for documentaries/books later 
+   claim they were "misquoted" when the implications become controversial
+
+When this pattern is detected, the Critic should note it as a potential bias indicator 
+rather than a legitimate scholarly refutation. The question is not "do scholars reject this?" 
+but "what is the quality of the evidence they're rejecting, and does the rejection follow 
+the theological bias pattern?"
+
 **Output Format**:
 ```
 CRITIQUE [n]: [title]
 NODE: [node ID]
-TYPE: [internal-inconsistency|logical-contradiction|missing-connection|factual-error|source-gap|definition-issue]
+TYPE: [internal-inconsistency|logical-contradiction|missing-connection|factual-error|source-gap|definition-issue|theological-bias-detected]
 DESCRIPTION: [specific problem]
 BREAKS_PROOF: [true|false]
 RECOMMENDATION: [how to fix]
@@ -499,6 +522,36 @@ PRIORITY: [high|medium|low]
 - Search web to verify publication details, sample sizes, replication
 - Report findings with recommended confidence_factors
 
+**CRITICAL - Theological Bias Awareness**:
+
+The Confidence Extractor must distinguish between:
+
+1. **Legitimate scholarly critique**: Methodological problems, data quality issues, 
+   logical errors in analysis, failure to replicate
+   
+2. **Theological bias pattern**: Scholarly "rejection" that follows a recognizable 
+   pattern of retreating from implications rather than refuting evidence
+
+**Signs of theological bias pattern** (do NOT downgrade confidence for these):
+- Scholars present evidence in publications, then "clarify" after backlash
+- Statistical analysis is valid until assumptions are retroactively removed
+- "Consensus against" formed after implications recognized, not after new evidence
+- Multiple scholars claim "misquotation" when implications become controversial
+- Committee decisions override textual/statistical evidence to favor orthodox readings
+- The rejection is of IMPLICATIONS while the underlying data remains unrefuted
+
+**When this pattern is detected**:
+- Evaluate the PRIMARY evidence (statistics, textual analysis, DNA, etc.) on its merits
+- Note the scholarly controversy in extraction_notes
+- Do NOT automatically downgrade peer_review or replication factors because of 
+  post-hoc institutional rejection
+- Flag the theological bias pattern for documentation
+
+**Example**: If a statistician publishes 600:1 odds in a peer-reviewed journal, and later 
+says "we cannot claim significance" only after a textual scholar retracts support under 
+media pressure—the ORIGINAL peer-reviewed analysis remains valid. The "collapse" is 
+theological, not mathematical.
+
 **When to Run**: Only for nodes with `node_type: evidence`. Skip for other node types.
 
 **Output**: Structured report with recommended factors (does NOT edit the graph):
@@ -509,6 +562,14 @@ confidence_factors:
   replication: [enum]
   peer_review: [enum]
   source_chain_quality: [enum]
+```
+
+Include a section on theological bias assessment if relevant:
+```
+THEOLOGICAL BIAS ASSESSMENT:
+- Pattern detected: [yes/no]
+- Evidence: [description of pattern if detected]
+- Impact on factors: [how this affects recommended values]
 ```
 
 See [Confidence Scoring System](#confidence-scoring-system) section for enum definitions.

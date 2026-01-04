@@ -91,6 +91,16 @@ A properly traced source chain includes:
 - [ ] Note explaining what that source contributes
 - [ ] Verification that the claim matches the source
 
+## CRITICAL: NO PDF FETCHING
+
+**NEVER fetch URLs ending in .pdf** - PDF downloads crash the session.
+
+When you encounter a PDF reference:
+1. Search for the paper title + "abstract" or "html"
+2. Use publisher landing pages (PubMed, journal sites)
+3. Extract information from abstracts and summaries
+4. Note in extraction_notes: "PDF not fetched; used [alternative source]"
+
 ## Agent Collaboration
 
 | Agent | When to Invoke |

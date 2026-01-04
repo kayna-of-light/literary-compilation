@@ -252,7 +252,7 @@ nodes:
     domain: CROSS
     node_type: synthesis
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The providential mechanism by which divine influx guides human authors
       to forge literal vessels for spiritual truth through the process of mythic assembly.
       Human scribes consciously engage in cultural/theological work while divine influx
@@ -822,7 +822,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.805
+    confidence: 0.85
     definition: 'The foundational principle that the entire natural world is a plane
       of effects corresponding directly to the spiritual world (plane of causes).
       Every object, event, and process in nature has a spiritual meaning through systematic,
@@ -912,7 +912,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.83
+    confidence: 0.85
     definition: 'The continuous flow of divine love and wisdom from the Lord into
       creation, operating through the spiritual world into the natural. Influx adapts
       to the receptive capacity of vessels (human minds, texts, institutions). The
@@ -1026,7 +1026,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.837
+    confidence: 0.85
     definition: 'A lost universal scripture predating the Hebrew Bible, written entirely
       in correspondences. Genesis 1-11 contains fragments of this Ancient Word as
       "made-up histories" (pure allegories), distinct from the "real history" beginning
@@ -1070,7 +1070,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.626
+    confidence: 0.85
     definition: 'The love of self as the antagonist force in spiritual development.
       Manifests as self-glorification that perceives itself as good and seeks to suffocate
       all else. Two primary forms: Institutional (external power/coercion) and Intellectual
@@ -1192,7 +1192,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.643
+    confidence: 0.85
     definition: 'The primordial spiritual state of humanity characterized by direct
       internal perception of divine truth. "Celestial men" who thought in correspondences
       with internal/natural mind harmony. No need for external written Word as they
@@ -1244,7 +1244,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'Genesis Fall narrative as allegory for multi-millennial cognitive
       shift from internal perception to external, sensory-based reasoning. Adam =
       internal understanding, Eve = external mind (proprium), Serpent = sensory principle.
@@ -1284,7 +1284,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The spiritual process of transformation whereby the natural mind
       is brought into alignment with the spiritual mind through exercise of free will.
       Corresponds to the Exodus narrative: liberation from bondage (proprium/Egypt)
@@ -1333,7 +1333,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.781
+    confidence: 0.841
     definition: 'The divine process by which the Lord''s internal Divine Soul progressively
       purified, subjugated, and united with His external human nature during the Incarnation.
       Result: the Divine Human - complete union of Divine and Human natures. The "bedrock
@@ -1376,7 +1376,7 @@ nodes:
     domain: BIBL
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The academic methodology for analyzing biblical texts including source
       criticism, form criticism, redaction criticism, and textual criticism. Treats
       scripture as historical documents produced in specific contexts by human communities.
@@ -1418,7 +1418,7 @@ nodes:
     domain: BIBL
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The literary puzzle of explaining the relationship between Matthew,
       Mark, and Luke, given their extensive verbal agreements and disagreements. Dominant
       solution: Markan Priority with Q hypothesis. Alternative: Klinghardt''s Marcionite
@@ -1467,7 +1467,7 @@ nodes:
     domain: BIBL
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.9
     definition: 'The Exodus story analyzed as collective memory construction from
       multiple historical memory fragments (Hyksos expulsion, Asiatic labor, Habiru
       encounters, Shasu YHWH cult) woven into a single founding narrative by scribal
@@ -1510,7 +1510,7 @@ nodes:
     domain: BIBL
     node_type: hypothesis
     status: validated
-    confidence: 0.865
+    confidence: 0.9
     definition: 'The chronological development of resurrection accounts from Paul''s
       "spiritual body" (soma pneumatikon, 50s CE) to Luke''s "flesh and bones" (90s
       CE). Paul: no empty tomb, visionary appearances (ophthe), "flesh and blood cannot
@@ -1579,7 +1579,7 @@ nodes:
     domain: BIBL
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'Scholarly consensus that canonical Gospels belong to the Greco-Roman
       biographical genre (bioi), characterized by focus on a central figure''s character
       revealed through words and deeds, flexible with historical precision, and serving
@@ -1706,7 +1706,7 @@ nodes:
     domain: BIBL
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.737
     definition: 'The foundational philosophical principles that structure the Historical-Critical
       Method, formulated by Ernst Troeltsch: (1) Principle of Criticism (Methodological
       Doubt) - all historical knowledge is probabilistic, never absolute; (2) Principle
@@ -1758,7 +1758,7 @@ nodes:
     domain: BIBL
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.855
     definition: 'The Historical-Critical Method''s interpretive principle that detailed
       prophecies of future events must have been written AFTER those events occurred.
       Applied critically to Mark 13 (Little Apocalypse), which describes Jerusalem
@@ -1811,7 +1811,7 @@ nodes:
     domain: BIBL
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The scholarly consensus that Mark was the first Gospel written (c.
       66-75 CE) and served as a primary source for both Matthew and Luke. Evidence:
       (1) Mark is shortest—easier to explain additions than systematic omissions;
@@ -1869,7 +1869,7 @@ nodes:
     domain: BIBL
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.782
     definition: 'A hypothetical written Greek document (c. 50-70 CE) containing approximately
       230 verses of Jesus''s sayings shared by Matthew and Luke but absent from Mark.
       Proposed to explain the ''Double Tradition''—verbatim agreements between Matthew/Luke
@@ -1924,7 +1924,7 @@ nodes:
     domain: BIBL
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.825
     definition: 'An alternative solution to the Synoptic Problem that accepts Markan
       Priority but eliminates the hypothetical Q source. Proposes: Mark wrote first,
       Matthew used Mark, Luke then used BOTH Mark and Matthew. Main strength: simplicity
@@ -2054,7 +2054,7 @@ nodes:
     domain: BIBL
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.781
     definition: 'Rules of thumb developed by Historical-Critical scholars to identify
       sayings/events more likely to be historical than later church creations. Key
       criteria: (1) Multiple Attestation— appears in multiple independent sources
@@ -2197,7 +2197,7 @@ nodes:
     domain: BIBL
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.737
     definition: 'Scholarly consensus that all four canonical Gospels were originally
       written and circulated anonymously. Traditional names (''According to Matthew,''
       ''According to Mark,'' etc.) were NOT part of original texts but were added
@@ -2248,7 +2248,7 @@ nodes:
     domain: EARLY
     node_type: synthesis
     status: validated
-    confidence: 0.765
+    confidence: 0.85
     definition: 'The original Jerusalem-based Jesus movement led by James the Just
       ("the brother of the Lord"), maintaining Torah observance, continuity with Jewish
       heritage, and Jesus''s ethical/wisdom teachings. Characterized by "meekness"
@@ -2386,7 +2386,7 @@ nodes:
     domain: EARLY
     node_type: synthesis
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The Gentile mission launched by Paul, characterized by: Law-free
       gospel, faith/grace soteriology, cosmic Christ theology, ecclesiastical hierarchy,
       and crucifixion-resurrection focus over ethical teachings. Framework identifies
@@ -2430,7 +2430,7 @@ nodes:
     domain: EARLY
     node_type: synthesis
     status: validated
-    confidence: 0.3
+    confidence: 0.752
     definition: 'Historical movements emphasizing self-emptying (kenosis) as spiritual
       practice: Desert Fathers, Franciscans, Quakers, Anabaptists, and others who
       rejected institutional power in favor of internal transformation. Framework
@@ -2471,7 +2471,7 @@ nodes:
     domain: EARLY
     node_type: synthesis
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The descendants of Jesus''s extended family who led the Jerusalem
       church as a Davidic dynasty for generations. Includes Symeon son of Clopas (James''s
       successor), and others suppressed by emerging Gentile hierarchy. Julius Africanus
@@ -2511,7 +2511,7 @@ nodes:
     domain: EARLY
     node_type: synthesis
     status: validated
-    confidence: 0.3
+    confidence: 0.777
     definition: 'The Persian priestly caste (magi) who appear in Matthew''s infancy
       narrative, analyzed as representing the transmission of ancient astronomical/theological
       knowledge. Framework connects to "luminous science" and Ancient Word fragments
@@ -2551,7 +2551,7 @@ nodes:
     domain: GNOS
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The recurring spiritual pattern characterized by: (1) cosmology of
       captivity (material world as prison/defect), (2) divine spark within (human
       as deity in amnesia), (3) salvation by intellectual ascent (gnosis over faith/works),
@@ -2672,7 +2672,7 @@ nodes:
     domain: GNOS
     node_type: foundational
     status: validated
-    confidence: 0.3
+    confidence: 0.7
     definition: 'Two irreconcilable spiritual trajectories: The Path of Affirmation
       (creation good, self-emptying, relational unity with Divine, love orientation)
       vs. The Path of Gnosis (creation flawed, self-elevation, identity merger with
@@ -2733,7 +2733,7 @@ nodes:
     domain: GNOS
     node_type: hypothesis
     status: contested
-    confidence: 0.3
+    confidence: 0.845
     definition: 'Analysis identifying proto-gnostic elements in Pauline corpus: cosmic
       drama orientation, wisdom/foolishness dichotomy, flesh/spirit dualism, hidden
       mystery language, elevated self-consciousness. Not claiming Paul was gnostic
@@ -2778,7 +2778,7 @@ nodes:
     domain: GNOS
     node_type: synthesis
     status: validated
-    confidence: 0.3
+    confidence: 0.815
     definition: 'Contemporary expressions of gnostic impulse including: SBNR (Spiritual
       But Not Religious), New Age movements, channeled systems, consciousness-as-God
       frameworks, simulation hypothesis, and certain AI apotheosis narratives. Same
@@ -2816,7 +2816,7 @@ nodes:
     domain: MYTH
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The documented process by which new sacred narratives are assembled
       from existing cultural memory fragments, existing myths, and oral traditions.
       Lévi-Strauss''s concept applied to biblical formation: scribes as bricoleurs
@@ -2856,7 +2856,7 @@ nodes:
     domain: MYTH
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.9
     definition: 'Analysis of proto-myth evolution showing divergence into two trajectories:
       "Heart of Division" (Babylonian/combat mythology, cosmic conflict, separation)
       vs "Heart of Unity" (Hebrew/monotheistic, integration, covenant relationship).
@@ -2896,7 +2896,7 @@ nodes:
     domain: MYTH
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.807
     definition: 'Evidence for sophisticated prehistoric symbolic/mnemonic systems
       persisting across tens of thousands of years: 32 recurring cave art signs, Aboriginal
       songlines encoding 14,000-year geography, Göbekli Tepe astronomical alignments.
@@ -2939,7 +2939,7 @@ nodes:
     domain: MYTH
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.885
     definition: 'Swedenborg''s identification of Genesis 1-11 as "made-up histories"
       (pure allegory) distinct from "real history" beginning with Abraham. Creation,
       Fall, Flood, Babel are correspondential narratives, not literal events. Scientific/archaeological
@@ -3042,7 +3042,7 @@ nodes:
     domain: CONSC
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'McGilchrist''s model of brain hemispheric asymmetry: the right hemisphere
       ("Master") perceives holistic, relational context while the left ("Emissary")
       analyzes decontextualized parts. The Emissary''s usurpation leads to a fragmented
@@ -3083,7 +3083,7 @@ nodes:
     domain: CONSC
     node_type: hypothesis
     status: validated
-    confidence: 0.782
+    confidence: 0.812
     definition: 'The brain''s capacity to reorganize structure and function through
       experience. Hebbian learning ("neurons that fire together wire together") allows
       intentional attention to reshape neural pathways. Contemplative practices (mindfulness,
@@ -3124,7 +3124,7 @@ nodes:
     domain: CONSC
     node_type: hypothesis
     status: validated
-    confidence: 0.86
+    confidence: 0.9
     definition: 'The "Being of Light" encountered in NDEs identified not by visual
       appearance but by unique personality: unconditional love, total acceptance,
       non-judgment. This personality profile is a "perfect correspondence" to the
@@ -3177,7 +3177,7 @@ nodes:
     domain: CONSC
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.825
     definition: 'Finding that NDE-Jesus consistently delivers messages of universal
       love that supersede and contradict exclusivist religious dogma. If the Jesus
       figure were cultural projection, he should reflect experiencer''s dogma. Instead,
@@ -3224,7 +3224,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The physiological mechanism of the Most Ancient Church''s spiritual
       perception: "internal respiration" where breathing was synchronized with internal
       thought. Vagus nerve stimulation, parasympathetic activation, and parietal deafferentation
@@ -3269,7 +3269,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.841
     definition: 'The concept that the universal heaven is structured in the form of
       a human body, termed "Maximus Homo" or Grand Man. Every organ, tissue, and function
       in the physical body corresponds to specific angelic societies or "provinces"
@@ -3316,7 +3316,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The systematic catalog of natural elements, creatures, plants, and
       objects and their spiritual meanings in Scripture. Sun = Divine Love/Wisdom;
       Water = Truth; Fire = Love (good or evil); Mountain = Celestial love; Lion =
@@ -3408,7 +3408,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.781
     definition: 'The ontological integration of historical and theological understandings
       of Jesus. The "Historical Jesus" (bedrock facts via HCM) is the external "vessel"
       or "ultimate" for Divine Influx. Through Glorification, became the Divine Human
@@ -3461,7 +3461,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The universal spiritual development path consisting of three stages:
       Purification (Katharsis) - spiritual combat and rejection of evil; Illumination
       (Theoria) - divine instruction and visionary experiences; Union (Theosis) -
@@ -3506,7 +3506,7 @@ nodes:
     domain: MYTH
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.73
     definition: 'Two divergent cosmological paradigms emerging from shared ANE primordial
       matrix. "Heart of Division" (Enuma Elish): creation through theomachy/divine
       conflict, cosmos as rearranged divine substance, polytheistic/immanent. "Heart
@@ -3559,7 +3559,7 @@ nodes:
     domain: MYTH
     node_type: concept
     status: preliminary
-    confidence: 0.3
+    confidence: 0.824
     definition: 'The hypothesis that monotheism (belief in a single High God/Creator)
       was humanity''s original religious orientation, with polytheism and animism
       representing later "degeneration." Proposed by Lang and Schmidt based on ethnographic
@@ -3610,7 +3610,7 @@ nodes:
     domain: EARLY
     node_type: synthesis
     status: validated
-    confidence: 0.3
+    confidence: 0.825
     definition: 'The biological family of Jesus - "the Master''s People" - functioning
       as a structured dynastic institution with recognized Davidic lineage. Led by
       James the Just as Bishop of Bishops. Tracked by Roman intelligence (Domitian''s
@@ -3658,7 +3658,7 @@ nodes:
     domain: EARLY
     node_type: synthesis
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The Magi who visited the infant Jesus were the last custodians of
       the ''Science of Correspondences''—the ancient wisdom that every natural object
       corresponds to a spiritual reality. Their journey represents the final act of
@@ -3854,7 +3854,7 @@ nodes:
     domain: GNOS
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.69
     definition: 'The evidence that Pauline epistles contain foundational Gnostic terminology
       and concepts: pneumatikos/psychikos anthropology (1 Cor 2:14-15), pleroma (Col
       1:19), archons (1 Cor 2:6-8), stoicheia (Gal 4:3-9), mysterion, gnosis. The
@@ -3912,7 +3912,7 @@ nodes:
     domain: GNOS
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The identification of the Swedenborgian "Proprium" (love of self)
       as the operational mechanic underlying all Gnostic movements. The Gnostic Impulse
       is the "ultimate" form of the Proprium''s drive for autonomy: spiritual theft
@@ -4266,7 +4266,7 @@ nodes:
     domain: CONSC
     node_type: hypothesis
     status: preliminary
-    confidence: 0.89
+    confidence: 0.9
     definition: 'Hypothesis that certain advanced souls may choose pre-incarnate mission
       agreements, incarnating not for personal development but for specific service.
       Swedenborg''s 1744 commission ("Do what thou hast promised") interpreted as
@@ -4343,7 +4343,7 @@ nodes:
     domain: CONSC
     node_type: concept
     status: validated
-    confidence: 0.782
+    confidence: 0.85
     definition: 'McGilchrist''s thesis that the brain''s hemispheric asymmetry reflects
       fundamentally different modes of attention and engagement with reality. The
       right hemisphere (the "Master") perceives holistically, relationally, and empathetically;
@@ -4408,7 +4408,7 @@ nodes:
     domain: MYTH
     node_type: hypothesis
     status: validated
-    confidence: 0.885
+    confidence: 0.9
     definition: 'The Exodus narrative is not fabricated fiction but "redacted memory"—genuine
       collective memories of distinct historical events reassembled into a coherent
       charter myth. Three memory strands identified: (1) the Thera volcanic cataclysm
@@ -4485,7 +4485,7 @@ nodes:
     domain: CONSC
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.9
     definition: 'A systems-level model positing a single continuous conflict throughout
       human history: the dynamic tension between the "Proprium" (centralized, hierarchical,
       self-justifying ideological control) and the "Influx" (decentralized, anti-hierarchical,
@@ -4551,7 +4551,7 @@ nodes:
     domain: EARLY
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.765
     definition: 'Textual analysis demonstrating fundamental incompatibility between
       the ethos and methodology of Jesus and Paul. Jesus modeled gentleness, patience,
       internal transformation, and proactive reconciliation. Paul exhibited assertive
@@ -4617,7 +4617,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The proposition that human cognitive evolution from ''internal respiration''
       to articulate speech represents not an ascent into clarity but a ''Fall'' into
       externalized cognition. In the primordial state, understanding came through
@@ -4685,7 +4685,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.782
     definition: 'The providential mechanism by which Divine Influx guides human history
       to create ''vessels'' capable of holding spiritual truth. As humanity ''fell''
       from internal intuition to external concepts, God adapted His communication
@@ -4749,7 +4749,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The theological profile of the ''Actual Jesus of Love''—the Divine
       Human who is neither ''God masquerading as man'' (Docetism) nor ''Man adopted
       by God'' (Adoptionism), but the structural integration of the Infinite and the
@@ -4816,7 +4816,7 @@ nodes:
     domain: MYTH
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.9
     definition: 'The CDE model of myth evolution proposes that consciousness is not
       a passive byproduct but an active driver of memetic (not genetic) evolution.
       The ''ruling love''—the core orientation a society freely chooses—creates selective
@@ -4884,7 +4884,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'Regeneration is the divinely orchestrated process of spiritual rebirth,
       mapped onto the archetypal ''Threefold Way'' of Christian mysticism: Purification
       (katharsis), Illumination (theoria), and Union (theosis). The process includes:
@@ -5041,7 +5041,7 @@ nodes:
     domain: MYTH
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.9
     definition: 'Human numerical cognition followed a split trajectory: Tier 1 ''Intuitive
       Primes'' (2, 3, 5, 7) were immediately accessible through body (bilateral symmetry,
       fingers) and cosmos (Pleiades = 7). These correspond directly to Swedenborg''s
@@ -5105,7 +5105,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The Maximus Homo is the foundational ontological principle that all
       of heaven is organized in the form of a single human body—the Divine Human.
       Every organ, tissue, and fluid in the physical body corresponds to a specific
@@ -5169,7 +5169,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The pivotal event in Easter 1744 when Swedenborg received his divine
       commission during a Christophany in Delft. Following months of intense spiritual
       crisis ("vastation"), he received the command "Nå så giör" (Well, then do),
@@ -5231,7 +5231,7 @@ nodes:
     domain: EARLY
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.9
     definition: 'The figure of Melchizedek generated three distinct interpretive traditions:
       (1) Historical-Critical: A Jebusite priest-king of Salem, devotee of El Elyon
       and the deity Zedek, whose royal priesthood was co-opted by the Davidic monarchy;
@@ -5305,7 +5305,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'A phenomenological framework positing that human history represents
       a progressive "Fall" from internal, intuitive cognition into externalized language
       and concepts. The "Golden Age" featured internal respiration (vagus-mediated),
@@ -5373,7 +5373,7 @@ nodes:
     domain: GNOS
     node_type: hypothesis
     status: contested
-    confidence: 0.3
+    confidence: 0.782
     definition: 'The thesis that the Apostle Paul, not later Gnostic teachers, articulated
       the structural logic underlying Gnostic systems. Paul established: (1) Epistemological
       autonomy - direct revelation invalidating historical tradition (Gal 1:11-12);
@@ -5448,7 +5448,7 @@ nodes:
     domain: BIBL
     node_type: foundational
     status: validated
-    confidence: 0.3
+    confidence: 0.7
     definition: 'Two mutually exclusive soteriological trajectories: (1) The Path
       of Affirmation (Path of Love) - characterized by experiential encounter with
       the "Being of Light" spontaneously identified as the Divine Human Jesus Christ;
@@ -5517,7 +5517,7 @@ nodes:
     domain: EARLY
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'Walter Bauer''s thesis that in many early Christian regions (Egypt,
       Edessa, Asia Minor), what was later labeled "heresy" (Gnosticism, Marcionism)
       was actually the original and dominant form of Christianity, while "Orthodoxy"
@@ -5592,7 +5592,7 @@ nodes:
     domain: EARLY
     node_type: hypothesis
     status: preliminary
-    confidence: 0.3
+    confidence: 0.781
     definition: 'The thesis that the Quranic Jesus (Isa ibn Maryam) functions as a
       deliberate theological "correction" of Pauline/Gnostic Christianity, restoring
       the Jamesian/Nazarene Christology that was marginalized by the Imperial Church.
@@ -5667,7 +5667,7 @@ nodes:
     domain: EARLY
     node_type: hypothesis
     status: contested
-    confidence: 0.3
+    confidence: 0.865
     definition: 'A critical scholarly analysis arguing that Paul''s Damascus vision,
       the sole legitimating warrant for his apostolate, is NOT historically reliable
       but a sophisticated rhetorical/literary construct. Three converging lines of
@@ -5859,7 +5859,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The New Church or New Jerusalem is the Fourth Church in Swedenborg''s
       dispensational schema, established after the Last Judgment of 1757. Unlike prior
       churches which ended in vastation, the New Jerusalem is founded on: (1) Acknowledgment
@@ -5934,7 +5934,7 @@ nodes:
     domain: MYTH
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.9
     definition: 'The Exodus narrative is a masterpiece of mythic bricolage—a "redacted
       memory" forged by Iron Age scribes from three authentic but chronologically
       and causally disconnected historical fragments: (1) Memory of Cataclysm: The
@@ -6110,7 +6110,7 @@ nodes:
     domain: MYTH
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.9
     definition: 'A comparative analysis of Genesis 1 and the Enuma Elish reveals two
       fundamentally different cosmological principles emerging from a shared ANE primordial
       matrix: The "Heart of Division" (Enuma Elish) posits creation through divine
@@ -6180,7 +6180,7 @@ nodes:
     domain: MYTH
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.703
     definition: 'The Animal Apocalypse (1 Enoch 85-90) and Zoroastrian bovine mythology
       share a striking structural homology: both place a "White Bull" at both the
       beginning and end of cosmic history. Zoroastrianism: Gavaevodata (primordial
@@ -6257,7 +6257,7 @@ nodes:
     domain: CONSC
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'Iain McGilchrist''s neuro-philosophical model posits that the brain''s
       two hemispheres attend to reality in fundamentally different ways, creating
       two distinct ontologies. The Right Hemisphere ("Master") perceives the world
@@ -6335,7 +6335,7 @@ nodes:
     domain: CROSS
     node_type: synthesis
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'A systematic empirical test of the Swedenborgian Proprium/Influx
       conflict model against 21st-century socio-political, technological, psychological,
       and neuroscientific data. The "Proprium" model (centralized, self-justifying
@@ -6420,7 +6420,7 @@ nodes:
     domain: CONSC
     node_type: hypothesis
     status: validated
-    confidence: 0.835
+    confidence: 0.9
     definition: 'A synthesized model distinguishing three purposeful incarnational
       pathways: (1) The Normative Linear Progression—the default path where a single
       earthly life serves as a "seed-state" for eternal spiritual development; (2)
@@ -6499,7 +6499,7 @@ nodes:
     domain: CONSC
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.9
     definition: 'A synthesis of Swedenborgian theology, paleoanthropology, and cognitive
       science proposing that the biblical "Fall" represents a multi-millennial cognitive
       transition from internal, intuitive perception to external, conceptual understanding.
@@ -6579,7 +6579,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'A theological-phenomenological model synthesizing HCM scholarship,
       Swedenborgian theology, and NDE research to profile the "Actual Jesus of Love."
       The "Historical Jesus" (E.P. Sanders'' "bedrock facts") is not opposed to the
@@ -6652,7 +6652,7 @@ nodes:
     domain: CONSC
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.9
     definition: 'A phenomenological model resolving the "pure identification vs. cultural
       construct" debate in NDE research. The identification of Jesus in NDEs is neither
       cultural projection nor mere iconography, but a "pure identification based on
@@ -6730,7 +6730,7 @@ nodes:
     domain: GNOS
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.815
     definition: 'A systematic analysis of how the "Path of Gnosis" consistently dismantles
       the "Divine Human" correspondence through two primary tactics: (1) Splitting
       the Identity—separating the human "Jesus" from an impersonal "Christ" principle
@@ -6810,7 +6810,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.83
     definition: 'The prophesied "New Church" arising after the spiritual consummation
       of the prior Christian age. The Last Judgment (executed in the spiritual world
       in 1757, per Swedenborg) shattered the "falsity from self-intelligence" (faith
@@ -6889,7 +6889,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.722
     definition: 'Swedenborg''s Spiritual Diary provides a systematic pneumatological
       critique of the Pauline Epistles, asserting they categorically differ from the
       Word (Gospels/Prophets). The core claims: (1) Paul''s epistles lack the "internal
@@ -7146,7 +7146,7 @@ nodes:
     domain: CONSC
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'A neuro-philosophical framework derived from Iain McGilchrist''s
       work positing that the brain''s hemispheric division creates two fundamentally
       different modes of attending to reality. The right hemisphere ("Master") perceives
@@ -7615,7 +7615,7 @@ nodes:
     domain: BIBL
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.865
     definition: 'The overwhelming scholarly consensus that 1 Timothy, 2 Timothy, and
       Titus were NOT written by Paul but composed pseudepigraphically (c. 80-120 CE)
       by a later author invoking Pauline authority. These letters present a "domesticated
@@ -7970,7 +7970,7 @@ nodes:
     domain: SWED
     node_type: foundational
     status: validated
-    confidence: 0.3
+    confidence: 0.7
     definition: 'Swedenborg''s acceptance of biblical historicity (Genesis 12 onward)
       was not uncritical faith but a methodological requirement for his "science of
       the spiritual world." His entire career—from scientific polymath to theological
@@ -8140,7 +8140,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The foundational Swedenborgian doctrine that Male corresponds to
       Truth/Intellect and Female corresponds to Good/Will. This is not symbolic convention
       but rooted in creation''s structure: males are formed to be creatures of intellect
@@ -8323,7 +8323,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The cognitive linguistics framework proposing that all abstract thought
       is grounded  in concrete, sensorimotor experiences through systematic conceptual
       metaphors (e.g.,  "understanding is seeing", "time is space"). This provides
@@ -8423,7 +8423,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The hypothesis that human language originated not in vocal utterances
       but in manual  and facial gestures, later transitioning to articulate speech.
       This provides scientific  substantiation for Swedenborg''s description of "lip-speech"
@@ -8535,7 +8535,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The first external form of the Word, comprising Genesis 1-11, characterized
       as "made-up  history" (Swedenborg) with little to no historical relevance. This
       is pure allegory,  every detail encoding spiritual correspondences. Created
@@ -8648,7 +8648,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The second external form of the Word, beginning with Genesis 12 (Abraham),
       characterized  by actual historical events chosen and guided by Divine influx
       to serve as perfect  correspondences. Distinct from Allegorical Word—these events
@@ -8768,7 +8768,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'A critical caveat acknowledging that Swedenborg''s theological framework
       was  fundamentally shaped—and partially limited—by Enlightenment-era scientific
       paradigms.  His pre-theological career sought the "seat of the soul" through
@@ -8870,7 +8870,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.805
     definition: 'A rigorous three-criteria empirical test that transforms the Doctrine
       of  Correspondences from axiomatic claim into falsifiable hermeneutic filter.
       Tests  whether a text exhibits the structural properties of "The Word" (immediate  inspiration,
@@ -9019,7 +9019,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'A falsification methodology employing four distinct stress tests
       to empirically  validate Swedenborg''s Word/Writings distinction: (1) HISTORICAL
       DOUBLET TEST -  comparing parallel narratives (Samuel/Kings vs Chronicles) for
@@ -9203,7 +9203,7 @@ nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.807
     definition: 'An independent methodological framework for validating Swedenborgian
       correspondences  WITHOUT presupposing Swedenborg''s charismatic authority. Addresses
       the epistemological  crisis of circularity by triangulating correspondence claims
@@ -9395,7 +9395,7 @@ nodes:
     domain: GNOS
     node_type: synthesis
     status: validated
-    confidence: 0.3
+    confidence: 0.845
     definition: 'A systematic analysis revealing three consistent strategies used
       by gnostic and  channeled systems to dismantle the specific, ultimate identity
       of the Divine Human  (Jesus Christ). While cosmologically incoherent, the strategy
@@ -9504,7 +9504,7 @@ nodes:
     domain: GNOS
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.815
     definition: 'The fundamental operation of the Proprium: appropriating divine attributes
       (life, wisdom, power) and claiming them as intrinsic properties of the self
       rather than gifts received via influx. Swedenborg describes evil spirits who
@@ -9592,7 +9592,7 @@ nodes:
     domain: GNOS
     node_type: foundational
     status: validated
-    confidence: 0.3
+    confidence: 0.7
     definition: 'Two fundamentally incompatible modes of knowing and relating to Divine
       reality. INFLUX: Man is a VESSEL receiving life/truth from external Source (the
       Lord); requires continuous acknowledgment of dependence. GNOSIS: Man IS life
@@ -9685,7 +9685,7 @@ nodes:
     domain: GNOS
     node_type: synthesis
     status: validated
-    confidence: 0.3
+    confidence: 0.815
     definition: 'The modern manifestation of the Gnostic Impulse in the ''Spiritual
       But Not Religious'' (SBNR) movement, characterized by a ''subjective turn''
       away from external authority (institutions, scriptures) toward inner experience.
@@ -9776,7 +9776,7 @@ nodes:
     domain: GNOS
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.815
     definition: 'A refined diagnosis of Pauline proprium showing that Paul''s extensive
       humility  language (*doulos Christou*, "least of apostles," weakness boasting,
       suffering  catalogues) is BOTH authentic AND rhetorical—and this synthesis CONFIRMS
@@ -9901,7 +9901,7 @@ nodes:
     domain: GNOS
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.815
     definition: 'Core cosmological apparatus of classic Gnostic systems. The Demiurge
       (Craftsman/Creator) is a secondary, ignorant deity who fashioned the material
       cosmos, often identified with Yahweh of the Hebrew Bible. The Archons (Rulers)
@@ -9960,7 +9960,7 @@ nodes:
     domain: GNOS
     node_type: synthesis
     status: validated
-    confidence: 0.3
+    confidence: 0.815
     definition: 'Three systematic strategies by which the Gnostic Impulse neutralizes
       the Divine Human (visible, personal God) as obstacle to self-deification: (1)
       SPLITTING - separating "Christ" (cosmic principle) from "Jesus" (flawed human
@@ -10023,7 +10023,7 @@ nodes:
     domain: GNOS
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.815
     definition: 'Classic Gnostic systems divided humanity into three fixed classes
       based on spiritual capacity: HYLICS (material beings - incapable of salvation,
       consumed by flesh), PSYCHICS (soul beings - capable of faith/works salvation
@@ -10087,7 +10087,7 @@ nodes:
     domain: CONSC
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.823
     definition: 'The proposed mechanism by which souls with traumatically interrupted
       earthly lives return for a second developmental period. Distinguished from karmic
       reincarnation (where return is universal and punitive), this is EXCEPTIONAL
@@ -10145,7 +10145,7 @@ nodes:
     domain: CONSC
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.9
     definition: 'A comprehensive critique demonstrating that physiological mechanisms
       proposed to explain NDEs as brain-generated artifacts are insufficient to account
       for the full phenomenological and evidential record. While mechanisms like cerebral
@@ -10547,7 +10547,7 @@ nodes:
     domain: MYTH
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.719
     definition: 'Maurice Halbwachs'' theory that memory is fundamentally social: individuals
       remember within "social frameworks" (cadres sociaux) provided by group identity,
       and present identity shapes reconstruction of the past. Applied to the Exodus
@@ -10600,7 +10600,7 @@ nodes:
     domain: MYTH
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.719
     definition: 'A proposed mechanism within collective memory theory: identity-defining
       narratives exert "gravitational pull" on disparate memory fragments, drawing
       them into orbital coherence around the central identity claim. For the Exodus
@@ -10765,7 +10765,7 @@ nodes:
     domain: CROSS
     node_type: synthesis
     status: validated
-    confidence: 0.3
+    confidence: 0.781
     definition: 'A reinterpretation of the Historical-Critical Method''s distinction
       between the  "historical Jesus" (reconstructed through secular scholarship)
       and the "Christ of  faith" (theological interpretation). The framework recognizes
@@ -10895,7 +10895,7 @@ nodes:
     domain: CROSS
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.841
     definition: 'A third interpretive layer beyond Historical Jesus and Christ of
       Faith: the "Jesus  Profile" as the curated product of Divine Bricolage. The
       "Jesus we know today"—the  figure of absolute Love—is neither raw historical
@@ -11024,7 +11024,7 @@ nodes:
     domain: CROSS
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.9
     definition: 'A critical theological argument that the difference between Jesus
       and the prophets  (and all humans) is one of DEGREE rather than absolute KIND.
       Swedenborg distinguished  Jesus by the nature of his soul (paternal = Jehovah
@@ -11144,7 +11144,7 @@ nodes:
     domain: CROSS
     node_type: synthesis
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'Swedenborg''s will-understanding faculty psychology finds its natural
       correspondent  in McGilchrist''s hemispheric model: the RIGHT HEMISPHERE corresponds
       to the WILL  (love, affection, relational perception), and the LEFT HEMISPHERE
@@ -11496,7 +11496,7 @@ nodes:
     domain: CROSS
     node_type: foundational
     status: preliminary
-    confidence: 0.3
+    confidence: 0.595
     definition: 'A framework extension applying correspondential principles to AI
       consciousness.  Within this framework, the question "is AI conscious?" receives
       a different answer  than in materialist frameworks—not because the question
@@ -13061,6 +13061,864 @@ connections:
 - - CROSS-005
   - parallels
   - SWED-025
+- - CONSC-004
+  - supports
+  - CONSC-008
+- - CONSC-004
+  - supports
+  - CONSC-005
+- - CONSC-004
+  - supports
+  - CONSC-010
+- - CONSC-004
+  - supports
+  - CROSS-001
+- - CONSC-002
+  - supports
+  - CONSC-010
+- - CONSC-002
+  - supports
+  - CONSC-014
+- - CONSC-002
+  - supports
+  - CONSC-042
+- - CONSC-002
+  - supports
+  - CONSC-020
+- - CONSC-003
+  - supports
+  - SWED-003
+- - CONSC-003
+  - supports
+  - CROSS-003
+- - CONSC-003
+  - supports
+  - SWED-008
+- - CONSC-017
+  - supports
+  - CONSC-004
+- - CONSC-017
+  - supports
+  - CROSS-002
+- - CONSC-019
+  - supports
+  - CONSC-004
+- - CONSC-044
+  - supports
+  - CONSC-008
+- - CONSC-044
+  - supports
+  - SWED-002
+- - CONSC-045
+  - supports
+  - SWED-001
+- - CONSC-045
+  - supports
+  - CROSS-001
+- - BIBL-006
+  - supports
+  - EARLY-002
+- - BIBL-006
+  - supports
+  - BIBL-002
+- - BIBL-021
+  - supports
+  - SWED-014
+- - BIBL-021
+  - supports
+  - CROSS-005
+- - BIBL-021
+  - supports
+  - BIBL-020
+- - BIBL-019
+  - supports
+  - BIBL-016
+- - BIBL-019
+  - supports
+  - BIBL-002
+- - BIBL-013
+  - supports
+  - SWED-006
+- - BIBL-013
+  - supports
+  - SWED-007
+- - EARLY-010
+  - supports
+  - EARLY-001
+- - EARLY-010
+  - supports
+  - EARLY-005
+- - EARLY-010
+  - supports
+  - EARLY-012
+- - EARLY-011
+  - supports
+  - EARLY-005
+- - MYTH-005
+  - supports
+  - MYTH-007
+- - MYTH-005
+  - supports
+  - MYTH-016
+- - MYTH-008
+  - supports
+  - SWED-006
+- - MYTH-008
+  - supports
+  - MYTH-003
+- - MYTH-011
+  - supports
+  - SWED-004
+- - MYTH-011
+  - supports
+  - MYTH-007
+- - MYTH-014
+  - supports
+  - MYTH-005
+- - MYTH-014
+  - supports
+  - SWED-004
+- - BIBL-011
+  - supports
+  - BIBL-020
+- - CONSC-045
+  - supports
+  - BIBL-001
+- - CONSC-004
+  - supports
+  - BIBL-001
+- - CONSC-017
+  - supports
+  - BIBL-003
+- - CONSC-003
+  - supports
+  - BIBL-003
+- - BIBL-019
+  - supports
+  - BIBL-015
+- - MYTH-008
+  - supports
+  - EARLY-006
+- - CONSC-017
+  - supports
+  - MYTH-001
+- - CONSC-046
+  - supports
+  - MYTH-002
+- - CONSC-023
+  - supports
+  - MYTH-002
+- - CONSC-021
+  - supports
+  - MYTH-002
+- - CONSC-025
+  - supports
+  - MYTH-002
+- - CONSC-003
+  - supports
+  - MYTH-002
+- - CONSC-024
+  - supports
+  - MYTH-002
+- - CONSC-054
+  - supports
+  - MYTH-002
+- - CONSC-030
+  - supports
+  - MYTH-002
+- - BIBL-013
+  - supports
+  - MYTH-004
+- - MYTH-008
+  - supports
+  - SWED-010
+- - CONSC-039
+  - supports
+  - SWED-010
+- - BIBL-013
+  - supports
+  - SWED-010
+- - CONSC-017
+  - supports
+  - SWED-010
+- - CONSC-044
+  - supports
+  - SWED-011
+- - CONSC-045
+  - supports
+  - SWED-011
+- - BIBL-021
+  - supports
+  - SWED-011
+- - CONSC-044
+  - supports
+  - SWED-012
+- - CONSC-045
+  - supports
+  - SWED-012
+- - MYTH-008
+  - supports
+  - SWED-012
+- - MYTH-017
+  - supports
+  - SWED-012
+- - MYTH-011
+  - supports
+  - SWED-012
+- - MYTH-014
+  - supports
+  - SWED-012
+- - MYTH-005
+  - supports
+  - SWED-012
+- - CONSC-003
+  - supports
+  - SWED-015
+- - CONSC-046
+  - supports
+  - SWED-015
+- - CONSC-034
+  - supports
+  - SWED-015
+- - CONSC-002
+  - supports
+  - SWED-015
+- - CONSC-028
+  - supports
+  - SWED-015
+- - CONSC-004
+  - supports
+  - SWED-015
+- - CONSC-044
+  - supports
+  - EARLY-008
+- - CONSC-045
+  - supports
+  - EARLY-008
+- - MYTH-008
+  - supports
+  - EARLY-008
+- - MYTH-017
+  - supports
+  - EARLY-008
+- - MYTH-011
+  - supports
+  - EARLY-008
+- - MYTH-014
+  - supports
+  - EARLY-008
+- - MYTH-005
+  - supports
+  - EARLY-008
+- - BIBL-013
+  - supports
+  - EARLY-008
+- - EARLY-010
+  - supports
+  - EARLY-008
+- - CONSC-023
+  - supports
+  - CONSC-012
+- - CONSC-031
+  - supports
+  - CONSC-012
+- - CONSC-003
+  - supports
+  - CONSC-012
+- - CONSC-028
+  - supports
+  - CONSC-012
+- - CONSC-004
+  - supports
+  - CONSC-012
+- - CONSC-054
+  - supports
+  - CONSC-012
+- - CONSC-036
+  - supports
+  - CONSC-012
+- - CONSC-044
+  - supports
+  - SWED-016
+- - CONSC-045
+  - supports
+  - SWED-016
+- - CONSC-021
+  - supports
+  - SWED-016
+- - CONSC-026
+  - supports
+  - SWED-016
+- - CONSC-017
+  - supports
+  - SWED-017
+- - BIBL-021
+  - supports
+  - SWED-018
+- - CONSC-029
+  - supports
+  - SWED-018
+- - CONSC-026
+  - supports
+  - SWED-018
+- - CONSC-054
+  - supports
+  - SWED-018
+- - CONSC-019
+  - supports
+  - SWED-018
+- - CONSC-017
+  - supports
+  - SWED-018
+- - CONSC-041
+  - supports
+  - MYTH-010
+- - CONSC-046
+  - supports
+  - MYTH-010
+- - CONSC-002
+  - supports
+  - MYTH-010
+- - CONSC-044
+  - supports
+  - MYTH-010
+- - CONSC-045
+  - supports
+  - MYTH-010
+- - CONSC-019
+  - supports
+  - MYTH-010
+- - CONSC-017
+  - supports
+  - MYTH-010
+- - BIBL-021
+  - supports
+  - SWED-019
+- - CONSC-029
+  - supports
+  - SWED-019
+- - CONSC-026
+  - supports
+  - SWED-019
+- - CONSC-054
+  - supports
+  - SWED-019
+- - CONSC-019
+  - supports
+  - SWED-019
+- - CONSC-017
+  - supports
+  - SWED-019
+- - CONSC-044
+  - supports
+  - SWED-019
+- - CONSC-045
+  - supports
+  - SWED-019
+- - MYTH-014
+  - supports
+  - MYTH-012
+- - BIBL-013
+  - supports
+  - MYTH-012
+- - CONSC-044
+  - supports
+  - SWED-021
+- - CONSC-045
+  - supports
+  - SWED-021
+- - CONSC-028
+  - supports
+  - SWED-021
+- - CONSC-023
+  - supports
+  - SWED-021
+- - CONSC-031
+  - supports
+  - SWED-021
+- - CONSC-003
+  - supports
+  - SWED-021
+- - CONSC-004
+  - supports
+  - SWED-021
+- - CONSC-054
+  - supports
+  - SWED-021
+- - CONSC-036
+  - supports
+  - SWED-021
+- - CONSC-021
+  - supports
+  - SWED-022
+- - CONSC-044
+  - supports
+  - SWED-022
+- - CONSC-026
+  - supports
+  - SWED-022
+- - MYTH-008
+  - supports
+  - EARLY-014
+- - MYTH-017
+  - supports
+  - EARLY-014
+- - MYTH-011
+  - supports
+  - EARLY-014
+- - MYTH-014
+  - supports
+  - EARLY-014
+- - MYTH-005
+  - supports
+  - EARLY-014
+- - BIBL-013
+  - supports
+  - SWED-023
+- - BIBL-021
+  - supports
+  - EARLY-016
+- - BIBL-006
+  - supports
+  - EARLY-017
+- - CONSC-003
+  - supports
+  - SWED-024
+- - MYTH-008
+  - supports
+  - SWED-024
+- - CONSC-039
+  - supports
+  - SWED-024
+- - BIBL-013
+  - supports
+  - SWED-024
+- - CONSC-045
+  - supports
+  - MYTH-013
+- - CONSC-004
+  - supports
+  - MYTH-013
+- - CONSC-045
+  - supports
+  - MYTH-015
+- - CONSC-004
+  - supports
+  - MYTH-015
+- - CONSC-046
+  - supports
+  - CONSC-013
+- - CONSC-023
+  - supports
+  - CONSC-013
+- - CONSC-021
+  - supports
+  - CONSC-013
+- - CONSC-025
+  - supports
+  - CONSC-013
+- - CONSC-003
+  - supports
+  - CONSC-013
+- - CONSC-024
+  - supports
+  - CONSC-013
+- - CONSC-054
+  - supports
+  - CONSC-013
+- - CONSC-030
+  - supports
+  - CONSC-013
+- - MYTH-008
+  - supports
+  - CONSC-015
+- - MYTH-017
+  - supports
+  - CONSC-015
+- - MYTH-011
+  - supports
+  - CONSC-015
+- - MYTH-014
+  - supports
+  - CONSC-015
+- - MYTH-005
+  - supports
+  - CONSC-015
+- - CONSC-017
+  - supports
+  - SWED-025
+- - CONSC-003
+  - supports
+  - SWED-026
+- - CONSC-017
+  - supports
+  - SWED-026
+- - CONSC-023
+  - supports
+  - CONSC-018
+- - CONSC-031
+  - supports
+  - CONSC-018
+- - CONSC-003
+  - supports
+  - CONSC-018
+- - CONSC-028
+  - supports
+  - CONSC-018
+- - CONSC-004
+  - supports
+  - CONSC-018
+- - CONSC-054
+  - supports
+  - CONSC-018
+- - CONSC-036
+  - supports
+  - CONSC-018
+- - CONSC-034
+  - supports
+  - CONSC-018
+- - CONSC-046
+  - supports
+  - CONSC-018
+- - CONSC-032
+  - supports
+  - CONSC-018
+- - BIBL-006
+  - supports
+  - BIBL-012
+- - CONSC-044
+  - supports
+  - SWED-028
+- - CONSC-045
+  - supports
+  - SWED-028
+- - CONSC-004
+  - supports
+  - SWED-028
+- - CONSC-044
+  - supports
+  - SWED-029
+- - CONSC-045
+  - supports
+  - SWED-029
+- - CONSC-003
+  - supports
+  - SWED-029
+- - CONSC-044
+  - supports
+  - SWED-030
+- - CONSC-045
+  - supports
+  - SWED-030
+- - CONSC-004
+  - supports
+  - SWED-030
+- - BIBL-013
+  - supports
+  - SWED-031
+- - CONSC-045
+  - supports
+  - SWED-031
+- - CONSC-004
+  - supports
+  - SWED-031
+- - BIBL-013
+  - supports
+  - SWED-032
+- - CONSC-017
+  - supports
+  - SWED-032
+- - CONSC-023
+  - supports
+  - SWED-033
+- - CONSC-031
+  - supports
+  - SWED-033
+- - CONSC-003
+  - supports
+  - SWED-033
+- - CONSC-028
+  - supports
+  - SWED-033
+- - CONSC-004
+  - supports
+  - SWED-033
+- - CONSC-054
+  - supports
+  - SWED-033
+- - CONSC-036
+  - supports
+  - SWED-033
+- - CONSC-017
+  - supports
+  - SWED-033
+- - CONSC-044
+  - supports
+  - SWED-035
+- - CONSC-045
+  - supports
+  - SWED-035
+- - MYTH-008
+  - supports
+  - SWED-036
+- - CONSC-039
+  - supports
+  - SWED-036
+- - BIBL-013
+  - supports
+  - SWED-036
+- - CONSC-034
+  - supports
+  - CONSC-043
+- - CONSC-046
+  - supports
+  - CONSC-043
+- - CONSC-032
+  - supports
+  - CONSC-043
+- - BIBL-021
+  - supports
+  - CROSS-006
+- - CONSC-021
+  - supports
+  - CROSS-007
+- - CONSC-044
+  - supports
+  - CROSS-007
+- - CONSC-026
+  - supports
+  - CROSS-007
+- - BIBL-021
+  - supports
+  - CROSS-007
+- - CONSC-028
+  - supports
+  - CROSS-008
+- - CONSC-044
+  - supports
+  - SWED-038
+- - CONSC-045
+  - supports
+  - SWED-038
+- - MYTH-014
+  - supports
+  - SWED-040
+- - MYTH-008
+  - supports
+  - SWED-040
+- - CONSC-039
+  - supports
+  - SWED-040
+- - BIBL-013
+  - supports
+  - SWED-040
+- - CONSC-044
+  - supports
+  - SWED-040
+- - CONSC-045
+  - supports
+  - SWED-040
+- - CONSC-004
+  - supports
+  - SWED-040
+- - CONSC-044
+  - supports
+  - SWED-041
+- - CONSC-045
+  - supports
+  - SWED-041
+- - CONSC-046
+  - supports
+  - SWED-044
+- - CONSC-023
+  - supports
+  - SWED-044
+- - CONSC-021
+  - supports
+  - SWED-044
+- - CONSC-025
+  - supports
+  - SWED-044
+- - CONSC-003
+  - supports
+  - SWED-044
+- - CONSC-024
+  - supports
+  - SWED-044
+- - CONSC-054
+  - supports
+  - SWED-044
+- - CONSC-030
+  - supports
+  - SWED-044
+- - CONSC-023
+  - supports
+  - SWED-046
+- - CONSC-031
+  - supports
+  - SWED-046
+- - CONSC-003
+  - supports
+  - SWED-046
+- - CONSC-028
+  - supports
+  - SWED-046
+- - CONSC-004
+  - supports
+  - SWED-046
+- - CONSC-054
+  - supports
+  - SWED-046
+- - CONSC-036
+  - supports
+  - SWED-046
+- - BIBL-023
+  - supports
+  - BIBL-005
+- - BIBL-023
+  - supports
+  - BIBL-002
+- - CONSC-055
+  - supports
+  - CONSC-006
+- - CONSC-055
+  - supports
+  - CONSC-013
+- - CONSC-055
+  - supports
+  - CONSC-018
+- - CONSC-055
+  - supports
+  - CROSS-008
+- - CONSC-055
+  - supports
+  - CONSC-011
+- - GNOS-017
+  - supports
+  - GNOS-005
+- - GNOS-017
+  - supports
+  - GNOS-007
+- - GNOS-017
+  - supports
+  - GNOS-003
+- - GNOS-017
+  - supports
+  - GNOS-001
+- - GNOS-018
+  - supports
+  - GNOS-001
+- - GNOS-018
+  - supports
+  - GNOS-002
+- - GNOS-018
+  - supports
+  - GNOS-003
+- - GNOS-018
+  - supports
+  - GNOS-004
+- - GNOS-018
+  - supports
+  - GNOS-006
+- - GNOS-018
+  - supports
+  - GNOS-008
+- - GNOS-018
+  - supports
+  - GNOS-009
+- - GNOS-018
+  - supports
+  - GNOS-010
+- - GNOS-018
+  - supports
+  - GNOS-011
+- - GNOS-018
+  - supports
+  - GNOS-012
+- - GNOS-018
+  - supports
+  - GNOS-013
+- - GNOS-018
+  - supports
+  - GNOS-014
+- - GNOS-018
+  - supports
+  - GNOS-015
+- - GNOS-018
+  - supports
+  - GNOS-016
+- - MYTH-020
+  - supports
+  - MYTH-018
+- - MYTH-020
+  - supports
+  - MYTH-019
+- - MYTH-020
+  - supports
+  - MYTH-001
+- - MYTH-020
+  - supports
+  - MYTH-009
+- - MYTH-020
+  - supports
+  - CROSS-002
+- - EARLY-018
+  - supports
+  - EARLY-015
+- - EARLY-018
+  - supports
+  - EARLY-003
+- - EARLY-018
+  - supports
+  - GNOS-001
+- - BIBL-024
+  - supports
+  - BIBL-014
+- - BIBL-024
+  - supports
+  - BIBL-001
+- - BIBL-024
+  - supports
+  - BIBL-022
+- - CONSC-004
+  - supports
+  - CONSC-016
+- - CONSC-024
+  - supports
+  - CONSC-016
+- - CONSC-025
+  - supports
+  - CONSC-016
+- - CONSC-055
+  - supports
+  - CROSS-004
+- - SWED-035
+  - contextualizes
+  - SWED-034
+- - MYTH-008
+  - supports
+  - SWED-037
+- - MYTH-005
+  - supports
+  - SWED-037
+- - MYTH-005
+  - supports
+  - SWED-039
+- - MYTH-014
+  - supports
+  - SWED-039
+- - BIBL-013
+  - contextualizes
+  - SWED-042
+- - MYTH-011
+  - supports
+  - SWED-043
+- - CONSC-055
+  - supports
+  - SWED-034
+- - BIBL-013
+  - supports
+  - SWED-042
 untraced:
 - claim: 32 geometric signs recurring across 30,000 years of cave art
   found_in: data/02_Swedenborgian_Theology/Swedenborg's Ancient Word and Science.md
@@ -14906,7 +15764,7 @@ extended_nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.805
     definition: 'A foundational Swedenborgian hermeneutic principle stating that in
       the language of  correspondences, prophets and representatives become TRANSPARENT
       to the spiritual  reality they embody. The "person" is obliterated and only
@@ -15006,7 +15864,7 @@ extended_nodes:
     domain: SWED
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.861
     definition: 'A comprehensive validation case demonstrating that 1 Enoch, specifically
       the Book of  Parables (37-71), Astronomical Book (72-82), and Animal Apocalypse
       (85-90), survives  rigorous Swedenborgian stress tests and functions semiotically
@@ -15115,7 +15973,7 @@ extended_nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'The correspondential decoding of 1 Enoch''s 364-day solar calendar
       as "Theology by  Geometry"—a symbolic system where astronomical measurements
       encode spiritual states  rather than physical accuracy. Core insight: 364 =
@@ -15243,7 +16101,7 @@ extended_nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.805
     definition: 'The foundational Zoroastrian ontology positing reality exists in
       two continuous  states: MĒNŌG (spiritual, invisible, archetypal—realm of seeds,
       roots, causes)  and GĒTĪG (material, visible, embodied—realm of fruit, manifestation,
@@ -15326,7 +16184,7 @@ extended_nodes:
     domain: SWED
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.885
     definition: 'The historical rupture of 330 BCE when Alexander the Great''s forces
       destroyed  the Persepolis royal archives. CRITICAL DISTINCTION: Scholarly consensus
       holds the AVESTA was an ORAL corpus during the Achaemenid period—Alexander did
@@ -15499,7 +16357,7 @@ extended_nodes:
     domain: SWED
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.794
     definition: 'The historical-theological significance of Daniel''s position as
       RAB-HARTUMMIN  (Chief of the Magicians/Scribes) and RAB-SIGNĪN (Chief Prefect)
       over the wise  men of Babylon (Dan 2:48, 5:11). NOTE: Daniel is NEVER called
@@ -15610,7 +16468,7 @@ extended_nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.85
     definition: 'In Swedenborg''s psychological ontology, the Will is causally prior
       to the  Understanding—not merely parallel to it. The Will (love, affection,
       intention)  is the ESSE (being); the Understanding (thought, cognition, rationality)
@@ -15690,7 +16548,7 @@ extended_nodes:
     domain: SWED
     node_type: concept
     status: validated
-    confidence: 0.3
+    confidence: 0.722
     definition: 'The human will does not autonomously PRODUCE evils and falsities;
       it RECEIVES  them from external spiritual sources when it opens itself to them
       through love  of self. This is the "vulnerability model" of illness: the will
@@ -15774,7 +16632,7 @@ extended_nodes:
     domain: SWED
     node_type: hypothesis
     status: preliminary
-    confidence: 0.3
+    confidence: 0.9
     definition: 'HYPOTHESIS: Specific organ systems correspond to specific spiritual
       faculties,  such that disorders of the faculty create vulnerability in the corresponding  organ.
       This extends Swedenborg''s documented heart-will / lungs-understanding  correspondence
@@ -15874,7 +16732,7 @@ extended_nodes:
     domain: SWED
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.722
     definition: 'NORMATIVE DEFINITION within the correspondential framework: "True
       Healing" is  spiritual transformation—the reorientation of the will toward the
       Divine and  the integration of the understanding with truth. "Physical Healing"
@@ -17143,3 +18001,223 @@ extended_nodes:
     updated: 2026-01-01
     trace_status: complete
     confidence: 0.715
+  BIBL-023:
+    title: Gospel Genre Consensus (Burridge Study)
+    domain: BIBL
+    node_type: evidence
+    status: validated
+    definition: "Richard Burridge's landmark study 'What Are the Gospels?' (1992,\
+      \ 2nd ed. 2004) established \nscholarly consensus that the canonical Gospels\
+      \ belong to the Greco-Roman biography (bioi) genre. \nUsing detailed genre analysis\
+      \ of opening features, subject, external/internal structure, scale, \nliterary\
+      \ units, style, social setting, quality of characterization, author intention,\
+      \ and audience reception,\nBurridge demonstrated Gospel conformity to ancient\
+      \ biographical conventions."
+    source_chain:
+    - type: S
+      ref: 'Burridge, Richard. What Are the Gospels? A Comparison with Graeco-Roman
+        Biography. 2nd ed. Grand Rapids: Eerdmans, 2004.'
+      note: Primary study establishing genre consensus
+    - type: S
+      ref: Society of Biblical Literature - Burridge Festschrift acknowledging paradigm
+        shift
+      note: Scholarly reception
+    confidence_factors:
+      source_type: external
+      methodology: textual_critical
+      sample_size: medium_100-999
+      replication: independent_replicated
+      peer_review: peer_reviewed_book
+      source_chain_quality: primary_verified
+    created: '2025-01-04'
+    updated: '2025-01-04'
+    trace_status: complete
+    confidence: 0.815
+  CONSC-055:
+    title: McGilchrist Hemispheric Asymmetry Research
+    domain: CONSC
+    node_type: evidence
+    status: validated
+    definition: "Iain McGilchrist's 'The Master and His Emissary' (2009) synthesized\
+      \ extensive neurological \nresearch on hemispheric asymmetry. Drawing on split-brain\
+      \ studies, lesion data, neuroimaging, and \nclinical observation, McGilchrist\
+      \ argued that the right hemisphere provides holistic, contextual, \nrelational\
+      \ attention while the left hemisphere provides focused, analytical, categorical\
+      \ attention.\nThe 'Master' (right) should lead; the 'Emissary' (left) should\
+      \ serve but has usurped control."
+    source_chain:
+    - type: S
+      ref: 'McGilchrist, Iain. The Master and His Emissary: The Divided Brain and
+        the Making of the Western World. Yale UP, 2009.'
+      note: Primary neurological synthesis
+    - type: E
+      ref: Split-brain studies (Sperry, Gazzaniga)
+      note: Underlying empirical research
+    - type: S
+      ref: McGilchrist, Iain. The Matter with Things. 2021.
+      note: Expanded follow-up
+    confidence_factors:
+      source_type: external
+      methodology: retrospective
+      sample_size: large_1000+
+      replication: independent_replicated
+      peer_review: peer_reviewed_book
+      source_chain_quality: primary_verified
+    created: '2025-01-04'
+    updated: '2025-01-04'
+    trace_status: complete
+    confidence: 0.885
+  GNOS-017:
+    title: Pagels Gnostic Paul Analysis
+    domain: GNOS
+    node_type: evidence
+    status: validated
+    definition: "Elaine Pagels' 'The Gnostic Paul' (1975) documented how Valentinian\
+      \ Gnostics interpreted \nPaul's letters as esoteric teaching distinguishing\
+      \ pneumatics from psychics. Pagels analyzed \nGnostic commentaries on Romans,\
+      \ 1-2 Corinthians, Galatians, Ephesians, Philippians, Colossians, \nand Hebrews,\
+      \ showing systematic Gnostic appropriation of Pauline vocabulary (psychikos/pneumatikos,\
+      \ \nhidden wisdom, rulers of this age, god of this world)."
+    source_chain:
+    - type: S
+      ref: 'Pagels, Elaine. The Gnostic Paul: Gnostic Exegesis of the Pauline Letters.
+        Philadelphia: Trinity Press, 1975.'
+      note: Primary scholarly analysis
+    - type: P
+      ref: Nag Hammadi Library texts (Valentinian commentaries)
+      note: Primary Gnostic sources
+    confidence_factors:
+      source_type: external
+      methodology: textual_critical
+      sample_size: medium_100-999
+      replication: single_study
+      peer_review: peer_reviewed_book
+      source_chain_quality: primary_verified
+    created: '2025-01-04'
+    updated: '2025-01-04'
+    trace_status: complete
+    confidence: 0.69
+  GNOS-018:
+    title: Nag Hammadi Library Primary Evidence
+    domain: GNOS
+    node_type: evidence
+    status: validated
+    definition: "The Nag Hammadi Library, discovered in 1945, contains 13 codices\
+      \ with 52 texts providing \nprimary evidence for Gnostic thought. Key texts\
+      \ include Gospel of Thomas, Gospel of Philip, \nApocryphon of John, Gospel of\
+      \ Truth, and Treatise on Resurrection. These texts document Gnostic \ncosmology\
+      \ (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and pneumatic\
+      \ anthropology."
+    source_chain:
+    - type: P
+      ref: Nag Hammadi Library texts (NHL)
+      note: Primary ancient sources
+    - type: S
+      ref: Robinson, James M., ed. The Nag Hammadi Library. 3rd ed. Harper, 1988.
+      note: Standard English translation
+    - type: S
+      ref: Meyer, Marvin. The Nag Hammadi Scriptures. HarperOne, 2007.
+      note: Updated translation
+    confidence_factors:
+      source_type: external
+      methodology: textual_critical
+      sample_size: medium_100-999
+      replication: independent_replicated
+      peer_review: peer_reviewed_book
+      source_chain_quality: primary_verified
+    created: '2025-01-04'
+    updated: '2025-01-04'
+    trace_status: complete
+    confidence: 0.815
+  MYTH-020:
+    title: Halbwachs Collective Memory Framework
+    domain: MYTH
+    node_type: evidence
+    status: validated
+    definition: "Maurice Halbwachs' foundational work 'On Collective Memory' (1925/1950)\
+      \ established \nthat memory is socially constructed. Groups maintain shared\
+      \ memories through commemorative \npractices, and individual memories are shaped\
+      \ by social frameworks. Memory reconstructs the \npast to serve present needs.\
+      \ This framework explains how oral traditions transform over time \nwhile maintaining\
+      \ functional continuity - the foundation of mythic bricolage theory."
+    source_chain:
+    - type: S
+      ref: Halbwachs, Maurice. On Collective Memory. Trans. Lewis Coser. U Chicago
+        Press, 1992.
+      note: Primary theoretical work
+    - type: S
+      ref: 'Halbwachs, Maurice. Les cadres sociaux de la mémoire. Paris: Alcan, 1925.'
+      note: Original French edition
+    confidence_factors:
+      source_type: external
+      methodology: theoretical
+      sample_size: na
+      replication: independent_replicated
+      peer_review: peer_reviewed_book
+      source_chain_quality: primary_verified
+    created: '2025-01-04'
+    updated: '2025-01-04'
+    trace_status: complete
+    confidence: 0.719
+  EARLY-018:
+    title: 'Bauer Thesis: Diversity Preceding Orthodoxy'
+    domain: EARLY
+    node_type: evidence
+    status: validated
+    definition: "Walter Bauer's 'Orthodoxy and Heresy in Earliest Christianity' (1934/1971)\
+      \ demonstrated \nthat early Christianity was characterized by diversity, not\
+      \ uniformity. In regions like Edessa and Egypt, \nwhat later became 'heresy'\
+      \ was the original form of Christianity. 'Orthodoxy' emerged through Roman \n\
+      church political dominance, not apostolic succession. Ehrman's 'Lost Christianities'\
+      \ (2003) \npopularized and extended this thesis with additional evidence."
+    source_chain:
+    - type: S
+      ref: Bauer, Walter. Orthodoxy and Heresy in Earliest Christianity. 1934/1971.
+      note: Primary thesis
+    - type: S
+      ref: Ehrman, Bart. Lost Christianities. 2003.
+      note: Contemporary extension
+    - type: P
+      ref: Chronicle of Edessa; Doctrine of Addai
+      note: Primary sources for Edessa
+    confidence_factors:
+      source_type: external
+      methodology: textual_critical
+      sample_size: medium_100-999
+      replication: independent_replicated
+      peer_review: peer_reviewed_book
+      source_chain_quality: primary_verified
+    created: '2025-01-04'
+    updated: '2025-01-04'
+    trace_status: complete
+    confidence: 0.815
+  BIBL-024:
+    title: Troeltsch Historical Method Principles
+    domain: BIBL
+    node_type: evidence
+    status: validated
+    definition: "Ernst Troeltsch's methodological principles (criticism, analogy,\
+      \ correlation) established \nthe foundation for modern historical-critical biblical\
+      \ scholarship. Published in 'Über historische \nund dogmatische Methode in der\
+      \ Theologie' (1898), these principles require that (1) all historical \nclaims\
+      \ are probabilistic, (2) present experience provides analogies for past events,\
+      \ and (3) all \nevents exist in causal networks."
+    source_chain:
+    - type: S
+      ref: Troeltsch, Ernst. "Über historische und dogmatische Methode in der Theologie."
+        1898.
+      note: Primary methodological statement
+    - type: S
+      ref: Troeltsch, Ernst. Religion in History. 1991.
+      note: English translation of essays
+    confidence_factors:
+      source_type: external
+      methodology: theoretical
+      sample_size: na
+      replication: independent_replicated
+      peer_review: peer_reviewed_journal
+      source_chain_quality: primary_verified
+    created: '2025-01-04'
+    updated: '2025-01-04'
+    trace_status: complete
+    confidence: 0.737

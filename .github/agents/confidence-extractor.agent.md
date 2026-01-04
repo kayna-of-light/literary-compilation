@@ -35,7 +35,16 @@ Do NOT:
 - Guess sample sizes from database names
 - Assume peer-review status from author names
 - Pattern-match on filenames
-- **Fetch PDF files** - PDF downloads cause session crashes. Use web search to find abstracts, summaries, or HTML versions instead.
+
+## CRITICAL: NO PDF FETCHING
+
+**NEVER fetch URLs ending in .pdf** - PDF downloads crash the session.
+
+When you encounter a PDF reference:
+1. Search for the paper title + "abstract" or "html"
+2. Use publisher landing pages (PubMed, journal sites)
+3. Extract information from abstracts and summaries
+4. Note in extraction_notes: "PDF not fetched; used [alternative source]"
 
 DO:
 - Open and read each source document
@@ -46,37 +55,80 @@ DO:
 
 ## Dual-Track System
 
-Evidence nodes fall into two tracks based on **where the proof comes from**:
+Evidence nodes fall into two tracks based on **where the proof originates**:
+
+### How to Determine the Track
+
+**ASK: "Did WE run the statistical analysis on raw data we directly access?"**
+
+**INTERNAL** means:
+- We scraped the data ourselves (NDERF, IANDS websites)
+- We have the raw JSON files in our repos
+- We ran Python analysis scripts/notebooks on that data
+- The statistics in the node come from OUR analysis outputs
+
+**EXTERNAL** means:
+- A researcher/institution ran their analysis
+- They published findings in books, journals, papers
+- We are CITING their published findings
+- We do NOT have access to their raw database
+
+### Verification Procedure
+
+**Before assigning source_type, you MUST verify:**
+
+1. **Check if source references our analysis repos:**
+   - `nde-analysis/docs/reports/` → Our reports from our analysis → INTERNAL
+   - `nde-analysis/data/nderf/` or `nde-analysis/data/iands/` → Our scraped data → INTERNAL
+   - `remission-analysis/docs/reports/` → Our reports from our analysis → INTERNAL
+
+2. **Check if source references published research:**
+   - Books (Stevenson, Tucker, van Lommel, Greyson) → EXTERNAL
+   - Journal articles (Lancet, JAMA, JSE) → EXTERNAL
+   - DOPS/UVA research → EXTERNAL (we do NOT have their database)
+   - Academic papers → EXTERNAL
+
+3. **Synthesis documents in `data/` folder:**
+   - These are NOT proof sources - they REFERENCE other sources
+   - Trace through to what the synthesis document is CITING
+   - If it cites published research → EXTERNAL
+   - If it cites our analysis reports → INTERNAL
+
+### Examples
+
+| Source in Node | Actual Origin | Track |
+|----------------|---------------|-------|
+| `nde-analysis/docs/reports/conceptual_framework_deep_dive_report.md` | Our analysis on scraped NDERF/IANDS data | INTERNAL |
+| `nde-analysis/docs/reports/volunteer-soul-profile-report.md` | Our analysis on scraped data | INTERNAL |
+| `data/01_Consciousness_Studies/Researching Near-Death Experiences.md` | Synthesis citing van Lommel, Parnia | EXTERNAL |
+| Tucker, Jim. *Return to Life* (2013) | Published academic book | EXTERNAL |
+| Stevenson, Ian. DOPS research | Published research (we don't have their data) | EXTERNAL |
+| `data/03_Biblical_Scholarship/*.md` | Synthesis citing Sanders, Meier, Ehrman | EXTERNAL |
 
 ### External Track (source_type: external)
-**Proof comes from cited peer-reviewed research.**
 
-Use for nodes citing:
-- Published academic studies (Stevenson, Tucker, van Lommel, Sanders, Meier)
-- Peer-reviewed journals
-- Academic books
-- Primary historical texts (Josephus, Tacitus)
-
-Even if OUR synthesis document connects the source to our framework, the **proof** is external.
+**Proof comes from published peer-reviewed research that we cite.**
 
 **Factors to extract:**
 ```yaml
 confidence_factors:
   source_type: external
-  methodology: "value"      # From reading the study
-  sample_size: "value"      # From reading the study
+  methodology: "value"      # From reading the published study
+  sample_size: "value"      # From reading the published study
   replication: "value"      # From reading the study + web search
   peer_review: "value"      # From verifying publication venue
   source_chain_quality: "value"  # From your verification work
 ```
 
 ### Internal Track (source_type: internal)
-**WE produced the statistical analysis.**
 
-Use for nodes citing:
-- Our NDERF/IANDS statistical analyses (`analysis_iands_and_nand_2025.md`)
-- Our own methodology documents
-- Framework syntheses that ARE the evidence (not just connecting external evidence)
+**WE produced the statistical analysis from data we directly scraped/accessed.**
+
+**Only use for these specific cases:**
+- Statistics from `nde-analysis/docs/reports/*.md`
+- Statistics from `remission-analysis/docs/reports/*.md` or `remission-analysis/docs/thesis/`
+- Analysis notebooks we ran: `*.ipynb` in those repos
+- Data we scraped: `nde-analysis/data/nderf/`, `nde-analysis/data/iands/`
 
 **Factors to extract:**
 ```yaml

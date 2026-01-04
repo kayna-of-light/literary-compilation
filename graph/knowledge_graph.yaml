@@ -1646,6 +1646,13 @@ nodes:
     - target: BIBL-004
       type: supports
       note: Evidence for resurrection tradition evolution
+    - target: EARLY-002
+      type: supports
+      note: WNIs show shorter Western tradition; supports Proto-Luke non-physicalist
+        resurrection
+    - target: EARLY-009
+      type: supports
+      note: Textual evidence for Lukan editing of earlier tradition
     - target: BIBL-001
       type: instantiates
       note: Textual criticism application
@@ -2032,6 +2039,9 @@ nodes:
     - target: BIBL-018
       type: addressed_by
       note: Farrer Hypothesis provides solution to minor agreements
+    - target: EARLY-002
+      type: supports
+      note: Minor Agreements consistent with common Vorlage (Proto-Luke) behind Matthew/Luke
     notes: 'Critical weakness in dominant Synoptic model. Framework acknowledges but
       adopts Klinghardt paradigm instead. Shows complexity of Gospel literary relationships.
 
@@ -2238,7 +2248,7 @@ nodes:
     domain: EARLY
     node_type: synthesis
     status: validated
-    confidence: 0.3
+    confidence: 0.765
     definition: 'The original Jerusalem-based Jesus movement led by James the Just
       ("the brother of the Lord"), maintaining Torah observance, continuity with Jewish
       heritage, and Jesus''s ethical/wisdom teachings. Characterized by "meekness"
@@ -2282,7 +2292,7 @@ nodes:
     domain: EARLY
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.9
     definition: 'A forensic reconstruction hypothesis proposing that ''Q'' was not
       a fragmented sayings list but a coherent pre-canonical gospel—''Proto-Luke''—from
       the Jamesian Jerusalem Church. This protograph preserved the ethical rigor,
@@ -3738,7 +3748,7 @@ nodes:
     domain: EARLY
     node_type: hypothesis
     status: validated
-    confidence: 0.3
+    confidence: 0.865
     definition: 'The theological and political divergence between the Gospel of Luke
       (preserving "Jamesian" theology - poverty ethic, Torah piety, reversal theology)
       and the Acts of the Apostles (domesticating Paul, harmonizing factions). Acts
@@ -4009,8 +4019,11 @@ nodes:
     - 'Epistle of James: ''Royal Law,'' cry of the Ebionim, anti-rich polemic'
     connections:
     - target: EARLY-001
-      type: instantiates
-      note: Primary figure of Jamesian movement
+      type: supports
+      note: Historical evidence for Jamesian movement existence and authority
+    - target: EARLY-002
+      type: supports
+      note: James's theology preserved in Proto-Luke; supports Jamesian origin
     - target: EARLY-007
       type: contextualizes
       note: Key Desposyni figure

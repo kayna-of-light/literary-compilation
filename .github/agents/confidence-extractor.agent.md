@@ -175,6 +175,47 @@ confidence_factors:
 
 **How to verify:** Check what database our analysis used. NDERF and IANDS have published validation studies.
 
+## CRITICAL: Theological Bias Detection
+
+The Confidence Extractor must distinguish between:
+
+1. **Legitimate scholarly critique**: Methodological problems, data quality issues, logical errors in analysis, failure to replicate
+
+2. **Theological bias pattern**: Scholarly "rejection" that follows a recognizable pattern of retreating from implications rather than refuting evidence
+
+### Signs of Theological Bias Pattern (do NOT downgrade confidence for these)
+
+| Pattern | Example |
+|---------|---------||
+| **Evidence-then-Retraction** | Scholar presents evidence in publication, then issues "clarification" after implications recognized |
+| **Statistical Dismissal** | Valid analysis is "collapsed" by retroactively removing assumptions after theological objections |
+| **Committee Override** | Editorial committees "reject" findings that challenge orthodox positions |
+| **Misquotation Claims** | Multiple scholars claim "misquoted" when implications become controversial |
+| **Implication Rejection** | The rejection is of IMPLICATIONS while underlying data remains unrefuted |
+
+### When This Pattern Is Detected
+
+- Evaluate the **PRIMARY evidence** (statistics, textual analysis, DNA, etc.) on its merits
+- Note the scholarly controversy in extraction_notes
+- Do **NOT** automatically downgrade `peer_review` or `replication` factors because of post-hoc institutional rejection
+- Flag the theological bias pattern for documentation
+
+**Example**: If a statistician publishes 600:1 odds in a peer-reviewed journal, and later says "we cannot claim significance" only after a textual scholar retracts support under media pressure—the ORIGINAL peer-reviewed analysis remains valid. The "collapse" is theological, not mathematical.
+
+### Theological Bias Assessment Section
+
+When this pattern is detected, include in your report:
+
+```
+### Theological Bias Assessment
+- **Pattern detected**: yes/no
+- **Evidence for pattern**: [description if detected]
+- **Impact on factors**: [how this affects recommended values]
+- **Original evidence quality**: [what the PRIMARY evidence actually shows]
+```
+
+---
+
 ### source_chain_quality (external track only)
 **How well did YOU verify the source?**
 

@@ -67,6 +67,23 @@ This prevents straw-manning and ensures critiques are substantive.
 - Misrepresentation of scholarly positions
 - Insufficient source tracing
 
+#### E. Theological Bias Detection (the Critic SHOULD flag)
+
+When scholarly "consensus" forms against evidence that threatens theological commitments, the Critic should flag this pattern rather than accept consensus uncritically:
+
+| Pattern | Description | Example |
+|---------|-------------|--------|
+| **Evidence-then-Retraction** | Scholars present evidence honestly in publications, then issue "clarifications" after implications touch theological "third rails" | Bovon's Acts of Philip analysis → later "clarification" after Talpiot documentary |
+| **Statistical Dismissal** | Mathematical analysis shows significance, then assumptions retroactively removed after theological objections | Feuerverger 600:1 odds → "cannot claim significance" after Bovon distanced |
+| **Committee Override** | Editorial committees "reject" findings that challenge orthodox positions | NA28 committee keeping physicalist resurrection readings |
+| **Misquotation Claims** | Multiple scholars interviewed for documentaries/books later claim "misquoted" | Multiple scholars in Lost Tomb of Jesus |
+
+When this pattern is detected, the Critic should:
+- Note it as a **potential bias indicator** rather than a legitimate scholarly refutation
+- Ask: "What is the quality of the evidence they're rejecting, and does the rejection follow the theological bias pattern?"
+- Flag for documentation but do NOT treat institutional rejection as proof-breaking
+- The question is not "do scholars reject this?" but "what is the quality of the evidence?"
+
 ## Critique Protocol
 
 ### For Knowledge Graph Nodes
@@ -163,6 +180,11 @@ For each node examined, ask:
 ### Executive Summary
 [One paragraph: Overall assessment and key concerns]
 
+### Theological Bias Assessment (if applicable)
+- **Pattern detected**: yes/no
+- **Evidence**: [Description of pattern if detected]
+- **Recommendation**: [How to handle - typically: evaluate primary evidence on its merits]
+
 ### Critical Issues
 
 #### 1. [Issue Title]
@@ -198,7 +220,7 @@ critic_notes:
   last_reviewed: "2026-01-04"
   critiques:
     - id: 1
-      type: "internal-inconsistency"  # or: logical-contradiction, missing-connection, factual-error, source-gap, definition-issue
+      type: "internal-inconsistency"  # or: logical-contradiction, missing-connection, factual-error, source-gap, definition-issue, theological-bias-detected
       description: "Clear description of the issue"
       breaks_proof: false  # TRUE ONLY if this undermines the core evidence/proof
       status: "open"  # or: addressed, rejected

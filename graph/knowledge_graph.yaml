@@ -16360,6 +16360,25 @@ extended_nodes:
       representing first incarnations or non-cyclic  origins.
 
       '
+    confidence_factors:
+      source_type: external
+      methodology: observational
+      sample_size: medium_100-999
+      replication: internal_replicated
+      peer_review: peer_reviewed_journal
+      source_chain_quality: mixed
+    extraction_notes: 'EXTERNAL track verified - Ohkado Masayuki is a published researcher
+      at Chubu University (Japan) and Visiting Professor at UVA DOPS since 2013. Key
+      paper: "Children''s Birth, Womb, Prelife, and Past-Life Memories: Results of
+      an Internet-Based Survey" (JPPPH 2015, 30(1):3-16). Survey/observational methodology.
+      Convergent findings from Rivas et al. (Netherlands), Carman & Carman (USA),
+      and DOPS intermission memory data. Multiple peer-reviewed publications in JSE,
+      JPPPH. SOURCE CHAIN QUALITY rated "mixed" because: (1) exact paper using "Reverse
+      Cases" terminology not directly confirmed, (2) node''s cosmological interpretation
+      ("first incarnations, non-cyclic origins") EXTENDS beyond Ohkado''s documented
+      claims - this is FRAMEWORK EXTENSION. Extracted 2025-01-04.
+
+      '
     detailed_analysis:
       phenomenon:
         definition: Intermission memories WITHOUT preceding past-life memories
@@ -16421,7 +16440,7 @@ extended_nodes:
     created: 2025-01-03
     updated: 2025-01-03
     trace_status: preliminary
-    confidence: 0.0
+    confidence: 0.752
   CONSC-049:
     title: 'Veridical Pre-Existence (VPE): Perinatal Verification Protocol'
     domain: CONSC
@@ -16433,6 +16452,24 @@ extended_nodes:
       verification  pathway to past-life verification: instead of verifying a previous
       personality''s death,  verify the soul''s perspective during prenatal period.
       Critical for validating first  incarnation claims.
+
+      '
+    confidence_factors:
+      source_type: external
+      methodology: case_study
+      sample_size: small_10-99
+      replication: internal_replicated
+      peer_review: peer_reviewed_journal
+      source_chain_quality: mixed
+    extraction_notes: 'EXTERNAL track verified - Rivas, Carman, Carman & Dirven (2015)
+      published in Journal of Near-Death Studies 34(2):84-107 (peer-reviewed). Note:
+      source chain incorrectly cites "Rivas, Dirven & Smit" but actual paper excludes
+      Smit and includes both Carmans. Case study methodology with at least 3 detailed
+      cases (Vincent B., Jennifer, Karim). Convergent findings across Rivas (Netherlands),
+      Ohkado (Japan), and DOPS (UVA) - internal_replicated within survival research
+      community. Carman & Carman (2013) is trade press, not peer-reviewed. VPE represents
+      genuine methodological innovation shifting verification to living parent witnesses.
+      Extracted 2025-01-04.
 
       '
     detailed_analysis:
@@ -16490,7 +16527,7 @@ extended_nodes:
     created: 2025-01-03
     updated: 2025-01-03
     trace_status: preliminary
-    confidence: 0.0
+    confidence: 0.657
   CONSC-050:
     title: 'COPET Proposal: Cases of Pre-Existence Type Methodology'
     domain: CONSC

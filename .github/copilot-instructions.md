@@ -368,20 +368,27 @@ When processing new documents (from `data/unclassified/` or documents not yet in
           │
           ▼
 ┌─────────────────────┐
-│  5. CRITIC          │  Identify internal inconsistencies, missing connections,
-│                     │  logical contradictions (WITHIN framework only)
-│                     │  → Output: Valid critiques with recommendations
+│  5. CONFIDENCE      │  For EVIDENCE nodes only: explore source chain,
+│     EXTRACTOR       │  determine empirical quality factors
+│                     │  → Output: confidence_factors written to node
 └─────────┬───────────┘
           │
           ▼
 ┌─────────────────────┐
-│  6. IMPLEMENT       │  Address valid critiques, add critic_notes to nodes
+│  6. CRITIC          │  Identify internal inconsistencies, missing connections,
+│                     │  logical contradictions (WITHIN framework only)
+│                     │  → Output: Valid critiques with breaks_proof flag
+└─────────┬───────────┘
+          │
+          ▼
+┌─────────────────────┐
+│  7. IMPLEMENT       │  Address valid critiques, add critic_notes to nodes
 │     (Agent Action)  │  → Output: Refined nodes with documented critiques
 └─────────┬───────────┘
           │
           ▼
 ┌─────────────────────┐
-│  7. GRAPH           │  Validate integrity, check connections, verify statistics
+│  8. GRAPH           │  Validate integrity, check connections, verify statistics
 │     REVIEWER        │  → Output: Final validation report (PASS/FAIL)
 └─────────┴───────────┘
 ```
@@ -474,11 +481,37 @@ CRITIQUE [n]: [title]
 NODE: [node ID]
 TYPE: [internal-inconsistency|logical-contradiction|missing-connection|factual-error|source-gap|definition-issue]
 DESCRIPTION: [specific problem]
+BREAKS_PROOF: [true|false]
 RECOMMENDATION: [how to fix]
 PRIORITY: [high|medium|low]
 ```
 
-#### 4. Graph Reviewer
+#### 4. Confidence Extractor
+**Purpose**: Extract empirical quality factors for evidence nodes
+
+**Input**: Node IDs with `node_type: evidence`
+
+**Process**:
+- Read node definition and source chain
+- Explore sources using web tools as needed
+- Determine enum values for each confidence factor
+- Write `confidence_factors` directly to the node in YAML
+
+**When to Run**: Only for nodes with `node_type: evidence`. Skip for other node types.
+
+**Output**: `confidence_factors` property added to the node:
+```yaml
+confidence_factors:
+  methodology: [enum]
+  sample_size: [enum]
+  replication: [enum]
+  peer_review: [enum]
+  source_chain_quality: [enum]
+```
+
+See [Confidence Scoring System](#confidence-scoring-system) section for enum definitions.
+
+#### 5. Graph Reviewer
 **Purpose**: Final validation of graph integrity
 
 **Process**:
@@ -508,10 +541,11 @@ Agent Response:
 2. Implement draft nodes in YAML
 3. Run Source Tracer agent → get source chain verification
 4. Implement source chain updates
-5. Run Critic agent → get valid critiques
-6. Implement critique resolutions, add critic_notes
-7. Run Graph Reviewer agent → get final validation
-8. Report summary to user
+5. For EVIDENCE nodes: Run Confidence Extractor → write confidence_factors
+6. Run Critic agent → get valid critiques with breaks_proof flags
+7. Implement critique resolutions, add critic_notes to nodes
+8. Run Graph Reviewer agent → get final validation
+9. Report summary to user
 ```
 
 ### File Classification
@@ -529,6 +563,99 @@ New documents should be moved to appropriate `data/` subdirectory:
 | Myth, bricolage, ANE parallels | `data/06_Mythological_Studies/` |
 
 Documents in `data/unclassified/` should be classified and moved before or during processing.
+
+---
+
+## Confidence Scoring System
+
+The knowledge graph uses a **propagating confidence system** where evidence nodes have intrinsic confidence (from empirical factors) and all other nodes derive confidence from their evidence base.
+
+### Architecture
+
+```
+Evidence Nodes (intrinsic)          Non-Evidence Nodes (derived)
+┌─────────────────────────┐        ┌─────────────────────────┐
+│ confidence_factors:     │        │ confidence calculated   │
+│   methodology: enum     │ ───────│ from connected evidence │
+│   sample_size: enum     │        │ nodes via graph_utils.py│
+│   replication: enum     │        │                         │
+│   peer_review: enum     │        │ Foundational: capped 0.70
+│   source_chain_quality: │        │ Concepts: capped 0.85   │
+└─────────────────────────┘        │ Hypotheses: capped 0.90 │
+                                   │ Synthesis: capped 0.85  │
+                                   └─────────────────────────┘
+```
+
+### How It Works
+
+1. **Evidence nodes** have `confidence_factors` (enum values) written by the Confidence Extractor agent
+2. **graph_utils.py** converts enums to scores using defined mappings
+3. **Non-evidence nodes** derive scores from their supporting evidence (via `supported_by`, `validated_by`, etc.)
+4. **Proof-breaking critiques** apply a -0.25 penalty per open critique
+5. **Node type caps** limit how high non-evidence nodes can score
+
+### Utility Commands
+
+```bash
+python scripts/graph_utils.py confidence         # Show all confidence scores
+python scripts/graph_utils.py score NODE_ID      # Calculate score for specific node
+python scripts/graph_utils.py low-confidence     # Find nodes with low confidence
+python scripts/graph_utils.py needs-extraction   # List evidence nodes without confidence_factors
+```
+
+### Agent Workflow for Evidence Nodes
+
+1. **Identify** nodes needing extraction: `python scripts/graph_utils.py needs-extraction`
+2. **Invoke** `@confidence-extractor` with the node ID
+3. **Agent explores** the source chain (using web tools as needed)
+4. **Agent writes** `confidence_factors` directly to the node in YAML
+5. **Score is calculated** automatically by graph_utils.py when queried
+
+### Confidence Factor Enums
+
+For evidence nodes, the Confidence Extractor determines:
+
+| Factor | Values |
+|--------|--------|
+| `methodology` | randomized_controlled, prospective, retrospective, observational, textual_critical, case_study, theoretical, na |
+| `sample_size` | population, large_1000+, medium_100-999, small_10-99, minimal_<10, na |
+| `replication` | independent_replicated, internal_replicated, single_study, unreplicated, na |
+| `peer_review` | peer_reviewed_journal, peer_reviewed_book, dissertation, preprint, unpublished, primary_text, na |
+| `source_chain_quality` | primary_verified, primary_unverified, mixed, secondary, tertiary, web |
+
+### Confidence Labels
+
+| Label | Meaning |
+|-------|---------|
+| 🟢 **high** | Final score ≥ 0.75 |
+| 🟡 **medium** | Final score 0.50 - 0.74 |
+| 🟠 **low** | Final score 0.25 - 0.49 |
+| ⚪ **preliminary** | Final score < 0.25 |
+| 🔴 **contested** | Has open proof-breaking critiques (overrides score) |
+
+### Critic Notes and Proof-Breaking
+
+When the Critic reviews nodes, critiques are recorded with a `breaks_proof` flag:
+
+```yaml
+critic_notes:
+  last_reviewed: "2026-01-04"
+  critiques:
+    - id: 1
+      type: "internal-inconsistency"
+      description: "Clear description"
+      breaks_proof: false  # Detail issue - no penalty
+      status: "open"
+    - id: 2
+      type: "source-gap"
+      description: "Source doesn't support claim"
+      breaks_proof: true   # Proof-breaking - applies -0.25 penalty
+      status: "open"
+  proof_breaking_open: 1
+  detail_issues: 1
+```
+
+Only `breaks_proof: true` critiques affect confidence. Detail issues are noted but don't penalize.
 
 ---
 

@@ -92,6 +92,83 @@ metadata:
     evidence: "Empirical finding or historical data - supports or challenges other nodes"
     synthesis: "Integration of multiple nodes - shows how pieces fit together"
 
+  # =========================================================================
+  # CONFIDENCE FACTORS (for evidence nodes)
+  # =========================================================================
+  # Evidence nodes store these enum values. Scores are calculated by graph_utils.py.
+  # Non-evidence nodes derive confidence from their evidence base automatically.
+  
+  confidence_factor_enums:
+    methodology:
+      randomized_controlled: "RCT or equivalent experimental control (1.0)"
+      prospective: "Prospective study design (0.85)"
+      retrospective: "Retrospective analysis of existing data (0.70)"
+      observational: "Systematic observation without experimental control (0.65)"
+      textual_critical: "Historical-critical textual analysis (0.60)"
+      case_study: "Individual cases without systematic protocol (0.50)"
+      theoretical: "Theoretical derivation without direct empirical test (0.30)"
+      na: "Not applicable (0.50)"
+    
+    sample_size:
+      population: "Population-level data or corpus analysis (1.0)"
+      large_1000+: "1,000+ subjects/cases/instances (0.95)"
+      medium_100-999: "100-999 subjects/cases/instances (0.75)"
+      small_10-99: "10-99 subjects/cases/instances (0.50)"
+      minimal_<10: "Fewer than 10 subjects/cases/instances (0.25)"
+      na: "Not applicable (0.50)"
+    
+    replication:
+      independent_replicated: "Independently replicated by different researchers (1.0)"
+      internal_replicated: "Replicated within same research program (0.75)"
+      single_study: "Single study, no replication attempted (0.50)"
+      unreplicated: "Replication attempted but failed or contested (0.25)"
+      na: "Not applicable (0.50)"
+    
+    peer_review:
+      peer_reviewed_journal: "Published in peer-reviewed academic journal (1.0)"
+      peer_reviewed_book: "Academic press with peer review (0.90)"
+      dissertation: "Doctoral dissertation, committee reviewed (0.75)"
+      preprint: "Posted preprint, not yet peer reviewed (0.50)"
+      unpublished: "Unpublished research (0.30)"
+      primary_text: "Original historical text, not research (0.80)"
+      na: "Not applicable (0.50)"
+    
+    source_chain_quality:
+      primary_verified: "Traced to primary source AND verified (1.0)"
+      primary_unverified: "Traced to primary source but not independently verified (0.80)"
+      mixed: "Multiple tiers in source chain (0.70)"
+      secondary: "Relies on secondary scholarly sources (0.60)"
+      tertiary: "Relies on framework synthesis documents (0.40)"
+      web: "Primary evidence from web sources (0.50)"
+
+  # =========================================================================
+  # CRITIC NOTES SCHEMA
+  # =========================================================================
+  # Standardized format for critic assessments. Only proof_breaking critiques
+  # affect confidence scores.
+  
+  critic_notes_schema:
+    last_reviewed: "ISO date of last critic review"
+    critiques:
+      - id: "Sequential critique number"
+        type: "Critique type (internal-inconsistency, logical-contradiction, missing-connection, factual-error, source-gap, definition-issue)"
+        description: "Clear description of the issue"
+        breaks_proof: "true if this undermines the proof/evidence, false for detail issues"
+        status: "open | addressed | rejected"
+        resolution: "How it was addressed (if applicable)"
+    proof_breaking_open: "Count of open critiques where breaks_proof=true (affects confidence)"
+    detail_issues: "Count of open critiques where breaks_proof=false (no penalty)"
+
+  # =========================================================================
+  # CONFIDENCE LABELS
+  # =========================================================================
+  confidence_labels:
+    high: "Final score >= 0.75"
+    medium: "Final score 0.50 - 0.74"
+    low: "Final score 0.25 - 0.49"
+    preliminary: "Final score < 0.25"
+    contested: "Has open proof-breaking critiques (overrides score-based label)"
+
 # =============================================================================
 # NODES
 # =============================================================================

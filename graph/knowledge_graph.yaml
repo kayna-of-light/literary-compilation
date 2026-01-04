@@ -16083,7 +16083,7 @@ extended_nodes:
     domain: CONSC
     node_type: evidence
     status: validated
-    confidence: 0.0
+    confidence: 0.86
     definition: 'Comprehensive statistical audit of DOPS published literature validating
       the "Restorative  Return" model through six independent markers. The analysis
       demonstrates that DOPS  cases form a coherent profile of trauma-driven exceptional
@@ -16091,6 +16091,51 @@ extended_nodes:
       is a specific, reparative mechanism  triggered by a "life interrupted"—trauma
       of premature/violent exit leaves the seed-state  incomplete, creating psychic
       momentum that propels consciousness back.
+
+      '
+    confidence_factors:
+      source_type: external
+      methodology: retrospective
+      sample_size: large_1000+
+      replication: independent_replicated
+      peer_review: peer_reviewed_journal
+      source_chain_quality: secondary
+    extraction_notes: 'Corrected 2025-01-04 - Source type is EXTERNAL, not internal.
+
+
+      The node represents DOPS published research findings. Our "Gemini Deep Research
+      Audit"
+
+      synthesizes external evidence but does not CREATE the evidence. The proof comes
+      from:
+
+      - Stevenson, I. & Cook, E.W. (1995) JSE - peer-reviewed journal
+
+      - Matlock, J.G. (PubMed 36096967) - peer-reviewed
+
+      - Tucker, J. Explore journal 2016 (PMID 27079216) - peer-reviewed
+
+
+      We do NOT have direct access to DOPS database. We cite their PUBLISHED research.
+
+
+      Key factors:
+
+      - Source type: EXTERNAL - published DOPS research, not our own database analysis
+
+      - Methodology: Retrospective case-control analysis in original studies
+
+      - Sample: Large (2,500+ cases across DOPS literature)
+
+      - Replication: Independent - multiple DOPS researchers, 8+ cultures
+
+      - Peer review: Published in JSE, Explore, and other peer-reviewed venues
+
+      - Source chain: Secondary - we synthesize their publications
+
+
+      "Restorative Return" terminology is our framework''s interpretation of their
+      data.
 
       '
     six_markers_validated:
@@ -16273,9 +16318,35 @@ extended_nodes:
 
       '
     created: 2025-01-03
-    updated: 2025-01-03
+    updated: 2025-01-04
     trace_status: complete
-    confidence: 0.0
+    confidence_factors:
+      source_type: external
+      methodology: retrospective
+      sample_size: large_1000+
+      replication: internal_replicated
+      peer_review: peer_reviewed_journal
+      source_chain_quality: mixed
+    extraction_notes: "Verified 2025-01-04 by confidence-extractor agent:\n\nCLASSIFICATION:\
+      \ External track. We cite DOPS publications and analyze their \nmethodology.\
+      \ We do not have access to their raw database.\n\nMETHODOLOGY: DOPS uses retrospective\
+      \ case collection with forensic verification.\nOur critique document performs\
+      \ textual-critical analysis of their methodology.\n\nSAMPLE SIZE: The 2,500+\
+      \ case DOPS database spans 60 years of research. \nThe 70% violent death statistic\
+      \ derives from this large sample.\n\nREPLICATION: DOPS findings replicated across\
+      \ researchers (Stevenson → Tucker) \nand geographic regions (India, Sri Lanka,\
+      \ Lebanon, USA, Japan). Rated \n\"internal_replicated\" - primarily within DOPS\
+      \ tradition.\n\nPEER REVIEW: Primary sources published in peer-reviewed venues\
+      \ including \nJournal of Scientific Exploration (specialty peer-reviewed journal).\n\
+      \nSOURCE CHAIN: Rated \"mixed\" because:\n- PRIMARY sources (DOPS papers) are\
+      \ properly cited and verifiable\n- However, the node's CENTRAL CLAIM (SOCS is\
+      \ a \"trauma filter\") is our \n  FRAMEWORK EXTENSION beyond what sources explicitly\
+      \ argue\n- DOPS documents the 70% figure but doesn't argue it's methodological\
+      \ artifact\n- \"Trauma Filter\" interpretation is ours, not DOPS's conclusion\n\
+      \nNOTE: This node conflates evidence (DOPS statistics) with hypothesis (our\
+      \ \ninterpretation). The confidence reflects underlying DOPS research quality,\
+      \ but \nthe central claims extend beyond what that research establishes.\n"
+    confidence: 0.807
   CONSC-048:
     title: 'Ohkado Reverse Cases: Intermission Memories Without Past-Life Recall'
     domain: CONSC

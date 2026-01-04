@@ -35,6 +35,7 @@ Do NOT:
 - Guess sample sizes from database names
 - Assume peer-review status from author names
 - Pattern-match on filenames
+- **Fetch PDF files** - PDF downloads cause session crashes. Use web search to find abstracts, summaries, or HTML versions instead.
 
 DO:
 - Open and read each source document

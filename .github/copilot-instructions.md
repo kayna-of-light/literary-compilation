@@ -874,7 +874,7 @@ This project leverages multiple external systems for conducting additional resea
 #### 1. NDE Statistical Repository
 An agent-driven statistical repository containing comprehensive data from documented near-death experiences across major research datasets.
 
-**Repository**: https://github.com/marconian/nde-data-analysis
+**Repository**: https://github.com/marconian/structured-data-analysis (projects/nde/)
 
 | Capability | Description |
 |------------|-------------|

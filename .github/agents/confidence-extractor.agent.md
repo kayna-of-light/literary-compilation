@@ -78,9 +78,9 @@ Evidence nodes fall into two tracks based on **where the proof originates**:
 **Before assigning source_type, you MUST verify:**
 
 1. **Check if source references our analysis repos:**
-   - `nde-analysis/docs/reports/` → Our reports from our analysis → INTERNAL
-   - `nde-analysis/data/nderf/` or `nde-analysis/data/iands/` → Our scraped data → INTERNAL
-   - `remission-analysis/docs/reports/` → Our reports from our analysis → INTERNAL
+   - `https://github.com/marconian/structured-data-analysis` (projects/nde/reports/) → Our reports from our analysis → INTERNAL
+   - `https://github.com/marconian/structured-data-analysis` (data/nderf/ or data/iands/) → Our scraped data → INTERNAL
+   - `https://github.com/marconian/structured-data-analysis` (projects/remission/reports/) → Our reports from our analysis → INTERNAL
 
 2. **Check if source references published research:**
    - Books (Stevenson, Tucker, van Lommel, Greyson) → EXTERNAL
@@ -98,8 +98,8 @@ Evidence nodes fall into two tracks based on **where the proof originates**:
 
 | Source in Node | Actual Origin | Track |
 |----------------|---------------|-------|
-| `nde-analysis/docs/reports/conceptual_framework_deep_dive_report.md` | Our analysis on scraped NDERF/IANDS data | INTERNAL |
-| `nde-analysis/docs/reports/volunteer-soul-profile-report.md` | Our analysis on scraped data | INTERNAL |
+| `structured-data-analysis/projects/nde/reports/conceptual_framework_deep_dive_report.md` | Our analysis on scraped NDERF/IANDS data | INTERNAL |
+| `structured-data-analysis/projects/nde/reports/volunteer-soul-profile-report.md` | Our analysis on scraped data | INTERNAL |
 | `data/01_Consciousness_Studies/Researching Near-Death Experiences.md` | Synthesis citing van Lommel, Parnia | EXTERNAL |
 | Tucker, Jim. *Return to Life* (2013) | Published academic book | EXTERNAL |
 | Stevenson, Ian. DOPS research | Published research (we don't have their data) | EXTERNAL |
@@ -125,10 +125,10 @@ confidence_factors:
 **WE produced the statistical analysis from data we directly scraped/accessed.**
 
 **Only use for these specific cases:**
-- Statistics from `nde-analysis/docs/reports/*.md`
-- Statistics from `remission-analysis/docs/reports/*.md` or `remission-analysis/docs/thesis/`
+- Statistics from `structured-data-analysis/projects/nde/reports/*.md`
+- Statistics from `structured-data-analysis/projects/remission/reports/*.md`
 - Analysis notebooks we ran: `*.ipynb` in those repos
-- Data we scraped: `nde-analysis/data/nderf/`, `nde-analysis/data/iands/`
+- Data we scraped: `structured-data-analysis/data/nderf/`, `structured-data-analysis/data/iands/`
 
 **Factors to extract:**
 ```yaml

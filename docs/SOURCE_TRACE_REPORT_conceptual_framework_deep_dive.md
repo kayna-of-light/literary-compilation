@@ -16,7 +16,7 @@ The statistical claims are **internally consistent** with original computational
 1. Direct URLs/citations to the primary databases
 2. Data access dates and extraction methodology details
 3. IRB/ethics review status
-4. Relationship to the `nde-data-analysis` repository mentioned in project instructions
+4. Relationship to the `structured-data-analysis` repository mentioned in project instructions
 
 ---
 
@@ -189,8 +189,8 @@ The statistical claims are **internally consistent** with original computational
    - No URLs, access dates, or formal citations provided
    - **Fix:** Add formal citation block in methodology section
 
-2. **Undefined Relationship to `nde-data-analysis` Repository**
-   - Project instructions reference: `https://github.com/marconian/nde-data-analysis`
+2. **Undefined Relationship to `structured-data-analysis` Repository**
+   - Project instructions reference: `https://github.com/marconian/structured-data-analysis`
    - This repository appears to be the actual analysis infrastructure
    - Repository URL returns 404 (may be private or moved)
    - **Fix:** Clarify if this analysis was performed using that repository; document relationship
@@ -229,7 +229,7 @@ The statistical claims are **internally consistent** with original computational
    ```
 
 2. **Link to Analysis Repository:**
-   - If `nde-data-analysis` is the analysis codebase, cite it explicitly
+   - If `structured-data-analysis` is the analysis codebase, cite it explicitly
    - Provide data extraction scripts for reproducibility
 
 3. **Add Operationalization Appendix:**

@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-04 14:17*
+*Last exported: 2026-01-05 13:25*
 
 ---
 
@@ -48,7 +48,7 @@
 1. [T] data/01_Consciousness_Studies/Consciousness as a Selective Pressure.md
 2. [E] UVA DOPS Database
 3. [S] Axelrod, R. The Evolution of Cooperation (1984)
-4. [E] nde-analysis repository (CONSC-044, CONSC-045)
+4. [E] https://github.com/marconian/structured-data-analysis (projects/nde) (CONSC-044, CONSC-045)
 
 **Connections**:
 - → `CROSS-003` (requires): Ruling love polarity drives the selective pressure
@@ -101,7 +101,7 @@
 1. [T] data/00_Framework/A Coherent Framework for Spiritual History.md
 2. [E] Greyson, Bruce. After (2021)
 3. [P] Swedenborg, Heaven and Hell § 462-463
-4. [E] nde-analysis/docs/reports/conceptual_framework_deep_dive_report.md
+4. [E] https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/reports/conceptual_framework_deep_dive_report.md
 
 **Connections**:
 - → `CROSS-003` (reveals): Life review makes ruling love manifest
@@ -715,7 +715,7 @@
 
 **Source Chain**:
 1. [E] data/01_Consciousness_Studies/threefold-path-validation-report-analysis_iands_and_nand_2025.md
-2. [E] nde-analysis/docs/reports/threefold-path-validation-report.md
+2. [E] https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/reports/threefold-path-validation-report.md
 
 **Connections**:
 - → `CONSC-028` (validates): 0% disorder confirms sequential structure of normative path
@@ -926,7 +926,7 @@
 
 
 **Source Chain**:
-1. [E] nde-analysis repository (entity_role_analysis.py)
+1. [E] https://github.com/marconian/structured-data-analysis (projects/nde) (entity_role_analysis.py)
 2. [E] NDERF/IANDS datasets
 3. [T] data/01_Consciousness_Studies/NDE Entity Roles and Correspondential Validation.md
 
@@ -946,7 +946,7 @@
 
 
 **Source Chain**:
-1. [E] nde-analysis repository (entity_role_analysis.py)
+1. [E] https://github.com/marconian/structured-data-analysis (projects/nde) (entity_role_analysis.py)
 2. [E] NDERF/IANDS datasets
 3. [T] data/01_Consciousness_Studies/NDE Entity Roles and Correspondential Validation.md
 4. [P] Swedenborg, Heaven and Hell §§ 87-115

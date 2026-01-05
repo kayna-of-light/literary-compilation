@@ -117,7 +117,7 @@ Gemini Deep Research → Source Document (unverified claim) → Knowledge Graph 
 
 **Research Question**:
 1. Systematically audit all NDE percentage claims appearing in `data/01_Consciousness_Studies/` documents
-2. Cross-reference each quantitative claim against the actual nde-data-analysis repository data
+2. Cross-reference each quantitative claim against the actual structured-data-analysis repository data
 3. Flag any claims that cannot be traced to actual statistical analysis
 4. For each flagged claim: identify the original source cited, verify whether that source contains the claimed statistic, and correct or remove erroneous claims
 5. Create an audited statistics reference table that can be used as authoritative data source
@@ -131,7 +131,7 @@ Gemini Deep Research → Source Document (unverified claim) → Knowledge Graph 
 - `conceptual-framework-theory-validation-analysis_iands_and_nand_2025.md`
 
 **Expected Output**:
-1. Verified statistics reference table with proper citations to nde-data-analysis queries
+1. Verified statistics reference table with proper citations to structured-data-analysis queries
 2. List of corrected or flagged claims
 3. Updated knowledge graph nodes as needed
 4. Protocol for future statistical claim verification

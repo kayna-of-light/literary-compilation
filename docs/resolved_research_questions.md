@@ -216,7 +216,7 @@ Four-stage sequential analysis found only 40% canonical rate vs. 70%+ predicted.
 5. What factors predict NDE depth/duration? (Greyson Scale correlation with stages reached)
 6. Is there a "point of no return" after which canonical completion becomes likely?
 
-**RESOLUTION** (from `nde-analysis/docs/reports/threefold-path-validation-report.md`):
+**RESOLUTION** (from `structured-data-analysis/projects/nde/reports/threefold-path-validation-report.md`):
 
 **Key Findings:**
 - **40.0% (2,698 cases)** follow canonical 4-stage sequence
@@ -244,7 +244,7 @@ Four-stage sequential analysis found only 40% canonical rate vs. 70%+ predicted.
 - Absence of disorder (0% unusual ordering) CONFIRMS sequential structure
 - CONSC-033 can be upgraded from "contested" to "validated with truncation caveat"
 
-**Source**: `nde-analysis/docs/reports/threefold-path-validation-report.md` (December 13, 2025)
+**Source**: `structured-data-analysis/projects/nde/reports/threefold-path-validation-report.md` (December 13, 2025)
 
 ---
 
@@ -391,7 +391,7 @@ In NDEs from Hindu-majority, Buddhist-majority, and Islamic-majority populations
 
 Does personality-based identification transcend cultural conditioning, or do experiencers interpret the encounter through pre-existing religious frameworks?
 
-**RESOLUTION** (from `nde-analysis/docs/reports/conceptual_framework_deep_dive_report.md`):
+**RESOLUTION** (from `structured-data-analysis/projects/nde/reports/conceptual_framework_deep_dive_report.md`):
 
 **Being of Light Identification (n=3,189 Light Being encounters):**
 | Identification | Count | Percentage |
@@ -429,7 +429,7 @@ Does personality-based identification transcend cultural conditioning, or do exp
 - The 61.8% "Unknown Presence" rate STRENGTHENS the objective reality model
 - Cultural naming ≠ cultural projection; the entity transcends conceptual categories
 
-**Source**: `nde-analysis/docs/reports/conceptual_framework_deep_dive_report.md` (December 13, 2025)
+**Source**: `structured-data-analysis/projects/nde/reports/conceptual_framework_deep_dive_report.md` (December 13, 2025)
 
 ---
 
@@ -445,7 +445,7 @@ Does personality-based identification transcend cultural conditioning, or do exp
 **Context**:
 CDE's foundational premise: NDE research demonstrates contact with a single, all-encompassing, loving consciousness consistent across cultures, backgrounds, and beliefs. If this is accurate, it provides the empirical foundation for claiming conscious influence on history. Need statistical validation.
 
-**RESOLUTION** (from `nde-analysis/docs/reports/conceptual_framework_deep_dive_report.md`):
+**RESOLUTION** (from `structured-data-analysis/projects/nde/reports/conceptual_framework_deep_dive_report.md`):
 
 **Key Finding: CONSISTENT LOVING CONSCIOUSNESS VALIDATED**
 
@@ -492,7 +492,7 @@ CDE's foundational premise: NDE research demonstrates contact with a single, all
 
 **Conclusion:** CDE's foundational premise is **VALIDATED** - a consistent loving consciousness appears across all cultural/religious boundaries with statistically negligible variation.
 
-**Source**: `nde-analysis/docs/reports/conceptual_framework_deep_dive_report.md` (December 13, 2025)
+**Source**: `structured-data-analysis/projects/nde/reports/conceptual_framework_deep_dive_report.md` (December 13, 2025)
 
 ---
 
@@ -508,7 +508,7 @@ CDE's foundational premise: NDE research demonstrates contact with a single, all
 **Context**:
 Swedenborgian cosmology predicts post-mortem experiences reflect "ruling love"—self-centered souls should experience initial distress matching their internal state. Framework emphasizes blissful NDEs. Need statistical data on distressing experiences to test ruling love hypothesis.
 
-**RESOLUTION** (from `nde-analysis/docs/reports/conceptual_framework_deep_dive_report.md`):
+**RESOLUTION** (from `structured-data-analysis/projects/nde/reports/conceptual_framework_deep_dive_report.md`):
 
 **Key Findings - Life Review Judgment Data (n=1,253 with life reviews):**
 | Judgment Source | Count | Percentage |
@@ -547,7 +547,7 @@ Swedenborgian cosmology predicts post-mortem experiences reflect "ruling love"�
 - The data suggests life reviews are predominantly non-judgmental
 - Framework implications: Ruling love may manifest differently than expected—the Being of Light appears to demonstrate unconditional acceptance rather than reflecting back self-orientation
 
-**Source**: `nde-analysis/docs/reports/conceptual_framework_deep_dive_report.md` (December 13, 2025)
+**Source**: `structured-data-analysis/projects/nde/reports/conceptual_framework_deep_dive_report.md` (December 13, 2025)
 
 ---
 
@@ -563,7 +563,7 @@ Swedenborgian cosmology predicts post-mortem experiences reflect "ruling love"�
 **Context**:
 Life review is treated as core NDE component and evidence for post-materialist framework. The empathetic component (feeling impact of actions from others' perspectives) would demonstrate moral/consciousness dimension that dying brain models cannot explain. Need frequency data.
 
-**RESOLUTION** (from `nde-analysis/docs/reports/conceptual_framework_deep_dive_report.md` and `threefold-path-validation-report.md`):
+**RESOLUTION** (from `structured-data-analysis/projects/nde/reports/conceptual_framework_deep_dive_report.md` and `threefold-path-validation-report.md`):
 
 **Life Review Frequency (n=6,739):**
 - **Life Review Occurrence: 18.6%** (1,253 cases: 546 extensive, 707 brief)
@@ -590,7 +590,7 @@ Life review is treated as core NDE component and evidence for post-materialist f
 - Empathetic component exists but is minority experience (25.7%)
 - The non-judgmental nature of life review (84.8% no condemnation) is better documented than empathetic perspective-taking
 
-**Source**: `nde-analysis/docs/reports/conceptual_framework_deep_dive_report.md` and `threefold-path-validation-report.md` (December 13, 2025)
+**Source**: `structured-data-analysis/projects/nde/reports/conceptual_framework_deep_dive_report.md` and `threefold-path-validation-report.md` (December 13, 2025)
 
 ---
 
@@ -638,7 +638,7 @@ CROSS-006 requires revision:
 - Revise claim from "~60% identify as Jesus" to "consistent personality profile across all labels"
 
 **Source Chain:**
-1. `[E]` nde-analysis/docs/reports/conceptual_framework_deep_dive_report.md (December 2025)
+1. `[E]` structured-data-analysis/projects/nde/reports/conceptual_framework_deep_dive_report.md (December 2025)
 2. `[E]` NDERF database (n=6,739 total; n=3,189 Being of Light encounters)
 
 ---
@@ -814,7 +814,7 @@ The analysis correctly distinguishes:
 
 **5. Classification Methodology (AI-Assisted):**
 
-The classification is performed by GPT-4 structured output analysis:
+The classification is performed by GPT-5.1 structured output analysis:
 
 ```python
 SYSTEM_PROMPT = (
@@ -848,9 +848,9 @@ The 61.8% "unknown presence" rate (1,970/3,189) represents experiencers who:
 > "Even Christians with available vocabulary ('God,' 'Jesus') report 62% 'Unknown' — suggesting the being's properties don't match their learned theological framework."
 
 **Source Chain:**
-1. `[E]` marconian/nde-data-analysis - `models/questionnaire.py` (schema definition)
-2. `[E]` marconian/nde-data-analysis - `docs/nde-analysis-questionnaire.md` (Q1.3.3)
-3. `[E]` marconian/nde-data-analysis - `docs/reports/conceptual_framework_deep_dive_report.md` (analysis)
+1. `[E]` marconian/structured-data-analysis - `models/questionnaire.py` (schema definition)
+2. `[E]` marconian/structured-data-analysis - `docs/nde-analysis-questionnaire.md` (Q1.3.3)
+3. `[E]` marconian/structured-data-analysis - `docs/reports/conceptual_framework_deep_dive_report.md` (analysis)
 4. `[E]` NDERF/IANDS database (n=6,739)
 
 **Framework Implication:**
@@ -946,9 +946,9 @@ The "Restorative Incarnation Path" (reincarnation after traumatic death) is NOT 
 > "The Restorative Incarnation path cannot be validated with NDE data because NDErs survived (by definition). Testing requires past-life recall data (DOPS corpus)." - Validation Report
 
 **Source Chain:**
-1. `[E]` marconian/nde-data-analysis - `docs/reports/conceptual_framework_deep_dive_report.md`
-2. `[E]` marconian/nde-data-analysis - `docs/reports/threefold-path-validation-report.md`
-3. `[E]` marconian/nde-data-analysis - `models/questionnaire.py` (ReturnReason enum)
+1. `[E]` marconian/structured-data-analysis - `docs/reports/conceptual_framework_deep_dive_report.md`
+2. `[E]` marconian/structured-data-analysis - `docs/reports/threefold-path-validation-report.md`
+3. `[E]` marconian/structured-data-analysis - `models/questionnaire.py` (ReturnReason enum)
 4. `[E]` NDERF/IANDS database (n=6,739)
 
 **Framework Implication:**
@@ -972,7 +972,7 @@ The "0% reincarnation indicators" claim is VALID within the defined scope:
 NDE reports consistently describe encounters with other beings — deceased relatives, guides, beings of light, authority figures. If we shift perspective from "what does this mean for the experiencer?" to "what does this glimpse reveal about the system the experiencer entered?", the beings become data about an active spiritual ecosystem.
 
 **RESOLUTION:**
-Comprehensive statistical analysis completed using the `nde-analysis` repository (n=6,739 experiences). Full report at `data/01_Consciousness_Studies/NDE Entity Roles and Correspondential Validation.md`.
+Comprehensive statistical analysis completed using the `structured-data-analysis/projects/nde` repository (n=6,739 experiences). Full report at `data/01_Consciousness_Studies/NDE Entity Roles and Correspondential Validation.md`.
 
 **Key Findings:**
 
@@ -1000,7 +1000,7 @@ Comprehensive statistical analysis completed using the `nde-analysis` repository
 > "Deceased relatives are the most active *gatekeepers* (telling experiencers to return), while God/angels more often *present a choice*. This suggests role differentiation: relatives send you back; higher beings give agency."
 
 **Source Chain:**
-1. `[E]` nde-analysis repository - entity_role_analysis.py (n=6,739)
+1. `[E]` structured-data-analysis repository (projects/nde) - entity_role_analysis.py (n=6,739)
 2. `[T]` data/01_Consciousness_Studies/NDE Entity Roles and Correspondential Validation.md (synthesis report)
 3. `[E]` NDERF/IANDS datasets
 
@@ -1061,7 +1061,7 @@ The data shows:
 4. ✅ Cataloging imagery alone misses underlying structure
 
 **Source Chain:**
-1. `[E]` nde-analysis repository - entity_role_analysis.py (n=6,739)
+1. `[E]` structured-data-analysis repository (projects/nde) - entity_role_analysis.py (n=6,739)
 2. `[T]` data/01_Consciousness_Studies/NDE Entity Roles and Correspondential Validation.md (synthesis report)
 3. `[E]` NDERF/IANDS datasets
 4. `[P]` Swedenborg - correspondences doctrine (theoretical framework)

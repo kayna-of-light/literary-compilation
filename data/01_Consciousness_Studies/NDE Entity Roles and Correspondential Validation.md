@@ -2,7 +2,7 @@
 
 **Analysis Date**: December 2025  
 **Dataset**: 6,739 analyzed NDE experiences (IANDS + NDERF)  
-**Repository**: `marconian/nde-analysis`  
+**Repository**: https://github.com/marconian/structured-data-analysis ([projects/nde](https://github.com/marconian/structured-data-analysis/tree/main/projects/nde))  
 **Knowledge Graph Nodes**: CONSC-044, CONSC-045
 
 ---
@@ -248,7 +248,7 @@ This dataset cannot address whether DOPS methodology filters non-cyclic cases be
 
 | Type | Reference | Note |
 |------|-----------|------|
-| `[E]` | `marconian/nde-analysis` repository | Statistical analysis script: `entity_role_analysis.py` |
+| `[E]` | [marconian/structured-data-analysis](https://github.com/marconian/structured-data-analysis) (projects/nde) | Statistical analysis script: `entity_role_analysis.py` |
 | `[E]` | NDERF database | ~5,000 NDE narratives |
 | `[E]` | IANDS database | ~1,700 NDE narratives |
 | `[P]` | Swedenborg, *Heaven and Hell* §§ 87-115 | Correspondence doctrine foundation |
@@ -257,6 +257,6 @@ This dataset cannot address whether DOPS methodology filters non-cyclic cases be
 
 ## Raw Data Location
 
-- **Full analysis output**: `nde-analysis/output/entity_role_analysis_results.txt`
-- **Analysis script**: `nde-analysis/entity_role_analysis.py`
-- **Structured NDE data**: `nde-analysis/output/analysis/` (6,739 JSON files)
+- **Full analysis output**: [`projects/nde/output/entity_role_analysis_results.txt`](https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/output/entity_role_analysis_results.txt)
+- **Analysis script**: [`projects/nde/scripts/entity_role_analysis.py`](https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/scripts/entity_role_analysis.py)
+- **Structured NDE data**: [`projects/nde/structured/`](https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/structured) (6,739 JSON files)

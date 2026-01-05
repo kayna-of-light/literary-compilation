@@ -74,7 +74,7 @@ Cases were collected from four sources representing different evidence types:
 
 ### 2.2 Coding Scheme
 
-Each case was coded by AI analysis (GPT-4 via Azure OpenAI) using a structured Pydantic schema (`models/questionnaire.py`). The schema includes:
+Each case was coded by AI analysis (GPT-5.1 via Azure OpenAI) using a structured Pydantic schema (`models/questionnaire.py`). The schema includes:
 
 - **Demographics**: Age, sex, religious background
 - **Diagnosis**: Disease category, cancer type (if applicable), organ system, terminal status
@@ -298,10 +298,11 @@ The data support further investigation of the temporal relationship between psyc
 
 ### Analysis Repository
 
-- GitHub: `remission-analysis` repository
-- Primary notebook: `remission_statistical_analysis.ipynb`
-- Statistics verification: `extract_thesis_stats.py`
-- Data schema: `models/questionnaire.py`
+- GitHub: https://github.com/marconian/structured-data-analysis
+- Project: [`projects/remission/`](https://github.com/marconian/structured-data-analysis/tree/main/projects/remission)
+- Primary notebook: [`remission_statistical_analysis.ipynb`](https://github.com/marconian/structured-data-analysis/tree/main/projects/remission/notebooks/remission_statistical_analysis.ipynb)
+- Statistics verification: [`extract_thesis_stats.py`](https://github.com/marconian/structured-data-analysis/tree/main/projects/remission/scripts/extract_thesis_stats.py)
+- Data schema: [`models/questionnaire.py`](https://github.com/marconian/structured-data-analysis/tree/main/projects/remission/models/questionnaire.py)
 
 ---
 

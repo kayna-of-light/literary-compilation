@@ -440,7 +440,7 @@ nodes:
       ref: Axelrod, R. The Evolution of Cooperation (1984)
       note: Game-theoretic framework for cooperation evolution
     - type: E
-      ref: nde-analysis repository (CONSC-044, CONSC-045)
+      ref: https://github.com/marconian/structured-data-analysis (projects/nde) (CONSC-044, CONSC-045)
       note: Statistical validation of entity roles and correspondences
     evidence:
     - Cross-cultural consistency in NDE phenomenology suggests non-local consciousness
@@ -630,7 +630,7 @@ nodes:
       source_chain_quality: mixed
     extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
 
-      - Source type: INTERNAL - our own statistical analysis from nde-analysis repo
+      - Source type: INTERNAL - our own statistical analysis from https://github.com/marconian/structured-data-analysis (projects/nde)
 
       - Sample: Large (N=6,739 total NDEs; N=1,253 life reviews specifically)
 
@@ -668,7 +668,7 @@ nodes:
       ref: Swedenborg, Heaven and Hell § 462-463
       note: Book of Life opened after death
     - type: E
-      ref: nde-analysis/docs/reports/conceptual_framework_deep_dive_report.md
+      ref: https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/reports/conceptual_framework_deep_dive_report.md
       note: Statistical analysis N=6,739; life review N=1,253
     evidence:
     - 'Life review occurrence: 18.6% of total NDE sample'
@@ -10304,7 +10304,7 @@ nodes:
       critic_reviewed: not_reviewed
     extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
 
-      - Source type: INTERNAL - our statistical analysis from nde-analysis repository
+      - Source type: INTERNAL - our statistical analysis from structured-data-analysis repository (projects/nde)
 
       - Sample: Large (n=6,739 NDE experiences from IANDS + NDERF)
 
@@ -10384,7 +10384,7 @@ nodes:
         '
     source_chain:
     - type: E
-      ref: nde-analysis repository (entity_role_analysis.py)
+      ref: https://github.com/marconian/structured-data-analysis (projects/nde) (entity_role_analysis.py)
       note: Statistical analysis of 6,739 structured NDE records
     - type: E
       ref: NDERF/IANDS datasets
@@ -10445,7 +10445,7 @@ nodes:
       critic_reviewed: not_reviewed
     extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
 
-      - Source type: INTERNAL - our statistical analysis from nde-analysis repository
+      - Source type: INTERNAL - our statistical analysis from structured-data-analysis repository (projects/nde)
 
       - Sample: Large (n=6,739 NDE experiences from IANDS + NDERF)
 
@@ -10514,7 +10514,7 @@ nodes:
         '
     source_chain:
     - type: E
-      ref: nde-analysis repository (entity_role_analysis.py)
+      ref: https://github.com/marconian/structured-data-analysis (projects/nde) (entity_role_analysis.py)
       note: Statistical analysis of 6,739 structured NDE records
     - type: E
       ref: NDERF/IANDS datasets
@@ -14193,7 +14193,7 @@ extended_nodes:
 
       - Two analysis runs (Dec 10, Dec 13) = internal replication
 
-      - Full code, data pipeline, statistical methods available in nde-analysis repo
+      - Full code, data pipeline, statistical methods available at https://github.com/marconian/structured-data-analysis (projects/nde)
 
       - AI extraction layer (GPT-4) adds interpretation - no inter-rater reliability
       test yet
@@ -14227,7 +14227,7 @@ extended_nodes:
       critic_reviewed: not_reviewed
     extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
 
-      SOURCE: INTERNAL - our statistical analysis in nde-analysis/conceptual_framework_deep_dive.ipynb
+      SOURCE: INTERNAL - our statistical analysis in https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/notebooks/conceptual_framework_deep_dive.ipynb
 
       DATA: NDERF (n=5,646) + IANDS (n=1,093) = 6,739 total; Being of Light n=3,189
 
@@ -14298,7 +14298,7 @@ extended_nodes:
       critic_reviewed: not_reviewed
     extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
 
-      SOURCE: INTERNAL - our statistical analysis in nde-analysis/conceptual_framework_deep_dive.ipynb
+      SOURCE: INTERNAL - our statistical analysis in https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/notebooks/conceptual_framework_deep_dive.ipynb
 
       DATA: Life review subset n=1,253 (18.6% of total 6,739)
 
@@ -14380,7 +14380,7 @@ extended_nodes:
       critic_reviewed: not_reviewed
     extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
 
-      SOURCE: INTERNAL - our statistical analysis in nde-analysis/conceptual_framework_deep_dive.ipynb
+      SOURCE: INTERNAL - our statistical analysis in https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/notebooks/conceptual_framework_deep_dive.ipynb
 
       DATA: Christians comparative analysis n=735
 
@@ -14456,7 +14456,7 @@ extended_nodes:
       critic_reviewed: not_reviewed
     extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
 
-      SOURCE: INTERNAL - our statistical analysis in nde-analysis/conceptual_framework_deep_dive.ipynb
+      SOURCE: INTERNAL - our statistical analysis in https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/notebooks/conceptual_framework_deep_dive.ipynb
 
       DATA: Full sample n=6,739 for cross-religious comparison
 
@@ -14527,7 +14527,7 @@ extended_nodes:
       critic_reviewed: not_reviewed
     extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
 
-      SOURCE: INTERNAL - our statistical analysis in nde-analysis/conceptual_framework_deep_dive.ipynb
+      SOURCE: INTERNAL - our statistical analysis in https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/notebooks/conceptual_framework_deep_dive.ipynb
 
       DATA: Being of Light subset n=3,189
 
@@ -14597,7 +14597,7 @@ extended_nodes:
       critic_reviewed: not_reviewed
     extraction_notes: 'Verified 2025-01-04 by confidence-extractor agent:
 
-      SOURCE: INTERNAL - our statistical analysis in nde-analysis/conceptual_framework_deep_dive.ipynb
+      SOURCE: INTERNAL - our statistical analysis in https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/notebooks/conceptual_framework_deep_dive.ipynb
 
       DATA: Comparative n=3,189 Light Being vs n=1,353 Other beings only
 
@@ -15098,7 +15098,7 @@ extended_nodes:
       ref: data/01_Consciousness_Studies/threefold-path-validation-report-analysis_iands_and_nand_2025.md
       note: Four-stage sequential analysis, N=6,739
     - type: E
-      ref: nde-analysis/docs/reports/threefold-path-validation-report.md
+      ref: https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/reports/threefold-path-validation-report.md
       note: Detailed breakdown of stage transitions and truncation patterns
     evidence:
     - 'Follows canonical sequence: 2,698 cases (40.0%)'
@@ -17827,7 +17827,7 @@ extended_nodes:
       source_data_quality: mixed_sources
       critic_reviewed: not_reviewed
     extraction_notes: 'INTERNAL TRACK verified: Key statistics (85.5% transformation
-      preceding, χ² = 69.59, p < 0.001) originate from our remission-analysis/ repo.
+      preceding, χ² = 69.59, p < 0.001) originate from https://github.com/marconian/structured-data-analysis (projects/remission) repo.
       Dataset: 569 cases (350 PMC clinical, 149 RRP testimonials, 70 NDE archives).
       Primary test n=138 clear temporal ordering cases. Full methodology documented:
       Pydantic schema, Python scripts, raw JSON data all available. External sources

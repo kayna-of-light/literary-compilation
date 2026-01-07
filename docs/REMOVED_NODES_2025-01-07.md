@@ -1,16 +1,26 @@
 # Knowledge Graph Node Removal Documentation
 
 **Date:** January 7, 2025  
-**Status:** ✅ COMPLETED  
+**Status:** ⚠️ REVISED  
 **Reason:** Source reports identified as incomplete/incorrect. New research papers will provide corrected findings.  
-**Action:** Complete removal of all nodes derived from the following reports:
+**Action:** Removal of nodes derived from invalidated reports, with one RESTORATION.
 
 ## Summary of Changes
 
-- **Nodes Removed:** 19 (CONSC-021 through CONSC-039)
-- **Connections Removed:** 8 (references to deleted nodes from remaining nodes)
-- **Lines Removed from knowledge_graph.yaml:** ~1,498 lines
-- **Graph Validation:** ✅ PASSED (no critical issues)
+- **Nodes Removed:** 18 (CONSC-021-030 were REPLACED, not removed; CONSC-031-033, 035-039 were removed)
+- **CONSC-034 RESTORED:** This node was based on valid DOPS external sources, NOT invalidated reports
+- **CONSC-021-030 REPLACED:** These node IDs were reused for new content from valid documents
+- **Connections Removed:** References to deleted nodes cleaned from remaining nodes
+- **Graph Validation:** ✅ PASSED after restoration
+
+## CORRECTION NOTICE (2025-01-07)
+
+CONSC-034 was **incorrectly grouped** with invalidated report nodes but its actual sources are:
+- `data/01_Consciousness_Studies/DOPS Case Verification and Critiques.md` (VALID)
+- Stevenson/Tucker DOPS publications (VALID)
+- UVA DOPS database (VALID)
+
+The node has been **RESTORED** to the knowledge graph with updated connections.
 
 ## Source Reports Invalidated
 
@@ -166,15 +176,16 @@
 ### CONSC-034: Restorative Incarnation Path: Violent Death Correlation Validated (>70%)
 - **Domain:** CONSC
 - **Node Type:** evidence
-- **Status:** validated (confidence: 0.825)
+- **Status:** ✅ **RESTORED** - Valid DOPS external sources
 - **Definition:** DOPS statistical analysis validates >70% violent death correlation.
 - **Key Claims:**
   - Violent death rate: >70%
   - Birthmark prevalence: 30-35%
   - Birthmark verification: 88%
   - Global solution rate: 67-73%
-- **Connections TO:** CONSC-002, CONSC-031, CONSC-005, CONSC-033
-- **Connected FROM:** CONSC-002, CONSC-031, CONSC-033, CONSC-046, CONSC-047
+- **Source Chain:** DOPS Case Verification document, Stevenson/Tucker publications, UVA DOPS database
+- **Connections TO:** CONSC-002, CONSC-030, CONSC-005, CONSC-020
+- **RESTORATION NOTE:** This node was incorrectly removed because it shared ID range with invalidated report nodes. However, its actual sources are valid external DOPS research, not the invalidated internal analyses.
 
 ### CONSC-035: Volunteer Soul Path: Machine Learning Predictive Validation (74.5% Accuracy)
 - **Domain:** CONSC
@@ -280,6 +291,10 @@ When the new research papers are processed:
 
 ## Preservation Note
 
-The node IDs CONSC-021 through CONSC-039 should be reserved and reused when the corrected findings are integrated. This maintains traceability between the original (incorrect) nodes and their corrected replacements.
+The node IDs CONSC-031-033, 035-039 should be reserved and reused when the corrected findings are integrated. This maintains traceability between the original (incorrect) nodes and their corrected replacements.
 
-**Total Nodes Removed:** 19
+Note: CONSC-021-030 were REPLACED (not simply removed) with new content from valid documents during the same session.
+
+**Total Nodes Removed:** 8 (CONSC-031-033, 035-039)  
+**Total Nodes REPLACED:** 10 (CONSC-021-030 with new content)  
+**Total Nodes RESTORED:** 1 (CONSC-034)

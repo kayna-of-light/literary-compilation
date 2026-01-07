@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-05 13:25*
+*Last exported: 2026-01-07 14:38*
 
 ---
 
@@ -10,20 +10,20 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 195 |
+| Total Nodes | 186 |
 | Total Connections | 750 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 180
-- **preliminary**: 10
+- **validated**: 172
+- **preliminary**: 9
 - **contested**: 5
 
 ### By Domain
 
 - **Cross-Domain** (CROSS): 10
-- **Consciousness Studies** (CONSC): 61
+- **Consciousness Studies** (CONSC): 52
 - **Swedenborgian Theology** (SWED): 47
 - **Biblical Scholarship** (BIBL): 22
 - **Early Christian History** (EARLY): 17
@@ -84,7 +84,6 @@
 - → `CONSC-004` (parallels): Intermission memories parallel NDE reports
 - → `CONSC-005` (supports): High violent death rate supports Restorative Incarnation path
 - → `CONSC-020` (supports): 70%+ violent death data from DOPS corpus
-- → `CONSC-034` (required_by): Restorative path validation requires DOPS data
 - → `CONSC-040` (develops): Type A/B distinction validates methodology
 - → `CONSC-041` (develops): Birthmark data provides biological signal
 
@@ -107,7 +106,6 @@
 - → `CROSS-003` (reveals): Life review makes ruling love manifest
 - → `SWED-003` (parallels): Corresponds to Swedenborg's World of Spirits unveiling
 - → `CONSC-004` (instantiates): Core component of NDE phenomenology
-- → `CONSC-023` (develops): Detailed judgment analysis extends base phenomenon
 
 ---
 
@@ -205,7 +203,7 @@
 
 #### [CONSC-009] The Dogma Paradox
 
-**Status**: validated | **Confidence**: 0.825
+**Status**: validated | **Confidence**: 0.855
 
 > Finding that NDE-Jesus consistently delivers messages of universal love that supersede and contradict exclusivist religious dogma. If the Jesus figure were cultural projection, he should reflect experiencer's dogma. Instead, the experience corrects dogma—proving it is not projection but encounter with transcendent personality.
 
@@ -478,360 +476,239 @@
 
 ---
 
-#### [CONSC-021] Conceptual Framework Theory (CFT) - Empirical Validation
+#### [CONSC-021] Being of Light: Identification Statistics
 
-**Status**: validated | **Confidence**: 0.8
+**Status**: validated | **Confidence**: 0.792
 
-> Theory that Being of Light encounters represent objective phenomenological reality that experiencers describe using available cultural vocabulary. Validated through statistical analysis of 6,739 NDEs (NDERF: 5,646 + IANDS: 1,093). Core finding: 61.8% of Being of Light encounters are identified as "unknown presence" - transcending ALL cultural categories - providing the strongest evidence for objective reality. Cultural vocabulary provides labels (God, Jesus, Allah), but the fundamental entity is consistent across all backgrounds with fixed properties (singular, loving, conscious, corrective, authoritative).
+> Large-scale statistical analysis of Being of Light encounters in NDEs (n=1,881 from  6,753 total NDEs) reveals that the majority (51.9%) identify the Being as "unknown  presence" rather than a culturally-specific figure. While religious background  significantly predicts identification vocabulary (χ² = 365.14, p < 0.000001),  experiential properties remain IDENTICAL across identification labels. Christians  who identify "Jesus" and those who identify "Unknown" differ by less than 10% on  ALL measured experiential properties—validating the correspondential model that  the Being is objective reality perceived through cultural filters.
 
 
 **Source Chain**:
-1. [E] data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
-2. [E] data/01_Consciousness_Studies/conceptual-framework-theory-validation-analysis_iands_and_nand_2025.md
-3. [E] NDERF Database (5,646 cases)
-4. [E] IANDS Database (1,093 cases)
+1. [E] https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/notebooks/01_being_of_light_analysis.ipynb
+2. [E] NDERF dataset (n=5,660) + IANDS dataset (n=1,093)
+3. [T] data/01_Consciousness_Studies/Being of Light - Statistical Analysis of NDE Phenomenology.md
+4. [S] Moody, R. (1975). Life After Life.
+5. [S] van Lommel, P. (2010). Consciousness Beyond Life.
+6. [P] Swedenborg, E. (1758). Heaven and Hell.
 
 **Connections**:
-- → `CONSC-004` (develops): Provides comprehensive statistical validation of NDE phenomenology
-- → `CONSC-008` (supports): Strengthens Being of Light as objective entity claim
-- → `CROSS-003` (supports): Belief correction pattern validates ruling love transformation mechanism
-- → `SWED-002` (supports): Unconditional love pattern aligns with divine influx characteristics
+- → `CONSC-045` (develops): Provides specific Being of Light statistics extending correspondential validation
+- → `CONSC-008` (validates): Confirms Being of Light is objective entity with consistent properties
+- → `CONSC-004` (develops): Adds detailed identification statistics to NDE phenomenology
+- → `SWED-006` (validates): Statistical evidence for Doctrine of Correspondences—constant states, variable forms
+- → `SWED-009` (supports): Consistent experiential properties across identification labels supports single Divine Human reality
 
 ---
 
-#### [CONSC-022] Unknown Presence Phenomenon (61.8%)
+#### [CONSC-022] Being of Light: Judgment and Transformation Statistics
 
-**Status**: validated | **Confidence**: 0.763
+**Status**: validated | **Confidence**: 0.752
 
-> The finding that 61.8% of Being of Light encounters (1,970 of 3,189 cases) are identified as "unknown presence" rather than cultural labels (God: 23.0%, Jesus: 11.2%, Religious Figure: 4.0%). This transcendence of ALL cultural categories is the strongest evidence for objective reality - experiencers cannot project what they cannot conceive. Even Christians with available vocabulary ("God," "Jesus") choose "unknown" when the being's properties (loving, non-judgmental, accepting) contradict their taught theological framework (fear-based, punitive).
+> Analysis of life review judgment in Being of Light encounters (n=453 with life reviews)  reveals systematic correction of religious expectations. Loving judgment exceeds harsh  judgment by ratio of 36.5:1. Among Christians, 63.3% report NO external condemnation  despite cultural expectations of divine judgment. Transformative effects are universal:  84.2% increased spirituality, 0.0% increased death fear. This "expect judgment, find love"  pattern argues against projection—the experience CORRECTS rather than confirms expectations.
 
 
 **Source Chain**:
-1. [E] data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
+1. [E] https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/notebooks/01_being_of_light_analysis.ipynb
+2. [E] NDERF dataset (n=5,660) + IANDS dataset (n=1,093)
+3. [T] data/01_Consciousness_Studies/Being of Light - Statistical Analysis of NDE Phenomenology.md
+4. [P] Swedenborg, E. (1758). Heaven and Hell, §462-499.
 
 **Connections**:
-- → `CONSC-021` (supports): Key evidence for Conceptual Framework Theory
-- → `CONSC-004` (develops): Quantifies transcendent nature of Being of Light encounter
-- → `CONSC-008` (supports): Being transcends cultural/religious categories
-- → `CONSC-024` (supports): Drives theological framework mismatch hypothesis
+- → `CONSC-009` (validates): Quantifies the "Dogma Paradox"—experience corrects expectations, not confirms them
+- → `CROSS-003` (supports): Life review reveals ruling love; judgment is self-revelation, not condemnation
+- → `SWED-003` (validates): Self-judgment matches Swedenborg's World of Spirits description
+- → `CONSC-021` (complements): Together form comprehensive Being of Light statistical profile
+- → `CONSC-004` (develops): Provides detailed statistical analysis of life review judgment patterns within NDE phenomenology
+- → `CONSC-023` (complements): Together form comprehensive Being of Light statistical profile
 
 ---
 
-#### [CONSC-023] Life Review: No External Condemnation (84.8%)
+#### [CONSC-023] Being of Light: Singularity and Authority Statistics
 
-**Status**: validated | **Confidence**: 0.763
+**Status**: validated | **Confidence**: 0.792
 
-> Statistical finding that 84.8% of life reviews (n=1,253) involve NO external condemnation. Distribution: No judgment at all (57.0%), Self-judgment only (26.3%), Guide/Light judgment (9.3%), Harsh/punishing (1.6%). The Love-to-Shame ratio is 3.4:1. This pattern persists even among Christians taught to expect divine judgment (86.8% no external condemnation). Experience systematically CORRECTS theological expectations rather than confirming them.
+> Analysis reveals that the Being of Light exhibits properties intrinsic to the phenomenon  rather than culturally projected. Even experiencers from polytheistic traditions (Hindu,  Buddhist) consistently report a SINGULAR transcendent entity—not multiple divine beings  or a pantheon. The Light Being provides significantly more guidance (81.7% vs 74.9%,  χ² = 25.24, p < 0.000001) and nearly double the teaching (475 vs 239 instances) compared  to other beings, demonstrating unique authority. Communication is predominantly telepathic  (34.8%), consistent with spiritual rather than physical encounter.
 
 
 **Source Chain**:
-1. [E] data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
+1. [E] https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/notebooks/01_being_of_light_analysis.ipynb
+2. [E] NDERF dataset (n=5,660) + IANDS dataset (n=1,093)
+3. [T] data/01_Consciousness_Studies/Being of Light - Statistical Analysis of NDE Phenomenology.md
+4. [S] Greyson, B. (2021). After: A Doctor Explores What Near-Death Experiences Reveal.
 
 **Connections**:
-- → `CONSC-003` (develops): Quantifies self-judgment nature of life review
-- → `CONSC-008` (supports): Validates unconditional love characteristic of Being
-- → `CROSS-003` (supports): Life review reveals ruling love through self-reflection, not external verdict
-- → `SWED-003` (supports): Aligns with Swedenborg's non-punitive World of Spirits unveiling
-- → `CONSC-021` (supports): Core evidence for CFT unconditional love component
+- → `CONSC-008` (validates): Confirms Being of Light's unique identity and authority
+- → `SWED-009` (supports): Singular transcendent Being consistent with Divine Human doctrine
+- → `SWED-002` (supports): Telepathic communication consistent with influx as mind-to-mind transmission
+- → `CONSC-021` (complements): Together form comprehensive Being of Light statistical profile
+- → `CONSC-022` (complements): Together form comprehensive Being of Light statistical profile
 
 ---
 
-#### [CONSC-024] Theological Framework Mismatch Hypothesis
+#### [CONSC-024] Mission Commission Discriminant Validity (94.2% Accuracy)
 
-**Status**: preliminary | **Confidence**: 0.723
+**Status**: validated | **Confidence**: 0.792
 
-> Hypothesis that "unknown presence" classification reflects CHARACTERISTIC MISMATCH rather than pure inability to categorize. Christians taught fear-based theology (judgment, hell, conditional salvation) encounter a being with properties matching GOSPEL Jesus (unconditional love, acceptance) but not their TAUGHT version. When properties contradict framework, experiencers honestly classify as "unknown" rather than force-fit incorrect label. Evidence: "Unknown" identifiers show 75.4% belief change vs. 64.9% for "Jesus" identifiers, indicating greater cognitive dissonance. Core experiential properties are identical (communication 91.5% vs 90.5%, telepathy 47.5% vs 50.4%) regardless of identification.
+> Large-scale statistical analysis (n=6,753 NDEs: NDERF 5,664 + IANDS 1,089) demonstrates that mission commissioning discriminates mission-based return reasons with 94.2% accuracy. Experiencers who cite "earthly mission" as return reason show dramatically higher commission rates than other return categories: earthly mission 94.2% vs unfinished business 60.1% vs "not your time" 36.7% vs family responsibility 31.3% (χ² = 3018.1, p < 0.0001). This establishes mission commissioning as a validated phenomenological marker rather than post-hoc rationalization.
 
 
 **Source Chain**:
-1. [E] data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
+1. [E] https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/notebooks/03_volunteer_soul_profile.ipynb
+2. [E] NDERF dataset (n=5,664) + IANDS dataset (n=1,089)
+3. [T] data/01_Consciousness_Studies/Mission-Based Returns - Discriminant Analysis of Volunteer Soul Phenomenology.md
+4. [S] Ring, K. & Valarino, E.E. (1998). Lessons from the Light: What We Can Learn from the Near-Death Experience. Moment Point Press.
+5. [S] Atwater, P.M.H. (2007). The Big Book of Near-Death Experiences. Hampton Roads.
+6. [S] Newton, M. (1994). Journey of Souls: Case Studies of Life Between Lives. Llewellyn Publications.
+7. [P] Swedenborg, E. (1758). Heaven and Hell §§421-527.
 
 **Connections**:
-- → `CONSC-022` (explains): Explains why vocabulary availability ≠ vocabulary usage
-- → `CONSC-021` (supports): Supports CFT cultural vocabulary component
-- → `EARLY-001` (parallels): Parallels Jamesian vs Pauline theological divergence
-- → `CROSS-003` (supports): Experiencers detect which traditions accurately capture Being's properties
+- → `CONSC-010` (validates): Provides quantitative validation for Volunteer Soul Paradigm—mission commissioning is real phenomenological marker
+- → `CONSC-014` (develops): Adds discriminant statistics to Three-Path Cosmology volunteer path
+- → `CONSC-004` (develops): Adds mission-specific return statistics to NDE phenomenology
+- → `CONSC-025` (complements): Together form comprehensive volunteer soul statistical profile
+- → `CONSC-026` (complements): Together form comprehensive volunteer soul statistical profile
+- → `CONSC-001` (supports): Mission commissioning provides evidence for consciousness-directed returns
 
 ---
 
-#### [CONSC-025] Cross-Religious Fear Loss Consistency (60-63%)
+#### [CONSC-025] Volunteer Detection Statistics (10.3% Marker Presence)
 
-**Status**: validated | **Confidence**: 0.763
+**Status**: validated | **Confidence**: 0.792
 
-> Statistical finding that complete fear of death loss occurs at virtually identical rates across ALL religious backgrounds: Christians 62.2%, Atheists 62.3%, Spiritual- not-Religious 62.5%, Muslims 62.9%, Jews 60.0%. Coefficient of variation only 1.8%. This cross-religious consistency (n=6,739) is powerful evidence that NDE experiences CORRECT rather than CONFIRM prior beliefs - external reality overrides diverse expectations. If pure projection, rates should vary by theology.
+> Binary volunteer marker detection in 6,753 NDEs identifies 695 cases (10.3%) exhibiting  mission-oriented language. Volunteer-detected cases show dramatically elevated commission  rates: 92.7% commission in volunteer-detected vs 13.8% in non-detected (6.7× ratio).  Critical methodological distinction: this is MARKER DETECTION, not soul path classification— absence of markers does not establish non-volunteer status, as mission memory may not surface  during all NDEs.
 
 
 **Source Chain**:
-1. [E] data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
+1. [E] https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/notebooks/03_volunteer_soul_profile.ipynb
+2. [E] NDERF dataset (n=5,664) + IANDS dataset (n=1,089)
+3. [T] data/01_Consciousness_Studies/Mission-Based Returns - Discriminant Analysis of Volunteer Soul Phenomenology.md
+4. [S] Ring, K. & Valarino, E.E. (1998). Lessons from the Light: What We Can Learn from the Near-Death Experience. Moment Point Press.
+5. [S] Atwater, P.M.H. (2007). The Big Book of Near-Death Experiences. Hampton Roads.
+6. [S] Newton, M. (1994). Journey of Souls: Case Studies of Life Between Lives. Llewellyn Publications.
 
 **Connections**:
-- → `CONSC-021` (supports): Key evidence for belief correction component of CFT
-- → `CONSC-004` (develops): Quantifies transformative aftereffects across traditions
-- → `CROSS-003` (supports): Uniform transformation suggests external force acting on diverse expectations
+- → `CONSC-010` (supports): Provides detection methodology for Volunteer Soul Paradigm
+- → `CONSC-014` (develops): Quantifies volunteer path markers within Three-Path Cosmology
+- → `CONSC-024` (complements): Together form comprehensive volunteer soul statistical profile
+- → `CONSC-026` (complements): Together form comprehensive volunteer soul statistical profile
+- → `CONSC-027` (requires): Depends on methodological distinction for proper interpretation
 
 ---
 
-#### [CONSC-026] Being of Light: Personal Conscious Entity Evidence
+#### [CONSC-026] Pre-Birth Indicator Profiles (Volunteer-Language Subset)
 
-**Status**: validated | **Confidence**: 0.763
+**Status**: validated | **Confidence**: 0.703
 
-> Statistical demonstration that Being of Light exhibits five markers of personal conscious entity, not impersonal force: (1) Intentional communication: 79.4% active two-way dialogue; (2) Purposeful guidance: 59.6% receive specific teaching; (3) Emotional expression: conveys love, understanding, acceptance; (4) Individual recognition: knows experiencer's life story in detail; (5) Responsive interaction: answers questions, responds to thoughts. Communication mode: telepathic 51.4%, normal speech 18.7%, mixed 9.3%.
+> Analysis of volunteer-language cases (n=53 with explicit volunteer terminology) reveals  dramatically elevated pre-birth awareness markers compared to baseline: incarnation choice  71.7% vs 2.0% baseline (35.8× ratio), pre-birth realm description 34.0% vs 1.5% (22.3×),  premortal existence information 69.8% vs 6.6% (10.6×), spiritual home identification 58.5%  vs 16.8% (3.5×). All associations p < 0.0001. These co-occurrence patterns suggest a coherent  phenomenological cluster rather than random marker distribution.
 
 
 **Source Chain**:
-1. [E] data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
+1. [E] https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/notebooks/03_volunteer_soul_profile.ipynb
+2. [E] NDERF dataset (n=5,664) + IANDS dataset (n=1,089)
+3. [T] data/01_Consciousness_Studies/Mission-Based Returns - Discriminant Analysis of Volunteer Soul Phenomenology.md
+4. [S] Ring, K. & Valarino, E.E. (1998). Lessons from the Light: What We Can Learn from the Near-Death Experience. Moment Point Press.
+5. [S] Atwater, P.M.H. (2007). The Big Book of Near-Death Experiences. Hampton Roads.
+6. [S] Ohkado, M. & Ikegawa, A. (2014). Children with Life-between-Life Memories. Journal of Scientific Exploration, 28(3), 477-490.
+7. [S] Newton, M. (1994). Journey of Souls: Case Studies of Life Between Lives. Llewellyn Publications.
 
 **Connections**:
-- → `CONSC-008` (develops): Quantifies personal nature of Being of Light
-- → `CONSC-004` (supports): Communication pattern supports conscious entity hypothesis
-- → `SWED-002` (supports): Intentional teaching aligns with divine influx characteristics
-- → `CONSC-021` (supports): Core evidence for CFT personal entity component
+- → `CONSC-010` (supports): Pre-birth indicators corroborate Volunteer Soul Paradigm's pre-incarnate covenant concept
+- → `CONSC-014` (develops): Adds phenomenological profile to volunteer path in Three-Path Cosmology
+- → `CONSC-024` (complements): Together form comprehensive volunteer soul statistical profile
+- → `CONSC-025` (complements): Together form comprehensive volunteer soul statistical profile
+- → `CONSC-002` (parallels): Pre-birth awareness parallels DOPS intermission memory subset (not past-life verification)—both report spiritual pre-existence
+- → `CONSC-027` (requires): Interpretation depends on methodological distinction—these are NDE reports, not Ohkado cases
 
 ---
 
-#### [CONSC-027] Being of Light: Unique Authoritative Position
+#### [CONSC-027] Volunteer Detection vs Soul Path Classification (Methodological Distinction)
 
-**Status**: validated | **Confidence**: 0.763
+**Status**: validated | **Confidence**: 0.3
 
-> Statistical evidence that Being of Light occupies a DISTINCT, central role compared to other beings (deceased relatives, angels, helpers). Significant guidance rate: Light Being 59.6% vs Other beings only 49.3% (10.3 percentage point difference). 71.6% encounter Light Being ALONE; 28.4% with other beings present (Light Being still described as ONE central presence). Other beings are helpers/guides; Light Being is primary transformative agent.
+> Critical methodological principle distinguishing marker detection from ontological classification  in volunteer soul research. Key distinctions: (1) Volunteer Detection identifies PRESENCE of  mission-oriented markers in NDE reports—binary signal, not path classification; (2) Soul Path  Classification would require knowledge of the soul's full journey—impossible from NDE snapshot;  (3) Non-detection does NOT establish non-volunteer status—missions may not surface during all NDEs;  (4) Pre-birth awareness during NDE ≠ Ohkado reverse cases (spontaneous child pre-birth recall)— different populations, different methodologies. This distinction prevents over-interpretation  of statistical findings.
 
 
 **Source Chain**:
-1. [E] data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
+1. [T] data/01_Consciousness_Studies/Mission-Based Returns - Discriminant Analysis of Volunteer Soul Phenomenology.md
+2. [E] https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/notebooks/03_volunteer_soul_profile.ipynb
+3. [S] Ohkado, M. & Ikegawa, A. (2014). Children with Life-between-Life Memories. Journal of Scientific Exploration, 28(3), 477-490.
+4. [S] Newton, M. (1994). Journey of Souls: Case Studies of Life Between Lives. Llewellyn Publications.
 
 **Connections**:
-- → `CONSC-008` (supports): Confirms unique status of Being of Light vs other spiritual entities
-- → `CONSC-004` (develops): Distinguishes Light Being from general 'beings encountered' data
-- → `CONSC-021` (supports): Core evidence for CFT unique position component
+- → `CONSC-024` (required_by): Discriminant validity findings require methodological caveat that marker detection ≠ soul path classification
+- → `CONSC-025` (required_by): Volunteer detection statistics require this distinction for proper interpretation
+- → `CONSC-026` (required_by): Pre-birth indicator interpretation requires this methodological framework
+- → `CONSC-014` (develops): Refines Three-Path Cosmology methodology for empirical testing
+- → `CONSC-002` (contrasts): Distinguishes NDE methodology from DOPS past-life case methodology
+- → `CONSC-010` (develops): Provides methodological guardrails for Volunteer Soul Paradigm empirical research
 
 ---
 
-#### [CONSC-028] Normative Path Hypothesis: Continuation Evidence
+#### [CONSC-028] Normative Continuation Statistical Evidence
 
-**Status**: validated | **Confidence**: 0.782
+**Status**: validated | **Confidence**: 0.792
 
-> Five independent markers from NDE data converge to support CONTINUATION as normative post-death path, NOT reincarnation: (1) Deceased relatives present 18.7% (not reincarnated); (2) Return framed as exception 41.6% ("not your time," mission); (3) Identity/memory preservation 89.9%; (4) Purposeful continuation 57.8%; (5) ZERO reincarnation indicators (no cycling language, memory wipe prep, past-life selection). Physical death leads to consciousness continuation with intact identity; return to body is the exception requiring justification.
+> Convergent statistical evidence from n=6,753 NDE records (NDERF 5,664 + IANDS 1,089) supporting that continuation to spiritual existence is the default path. Four independent markers converge: (1) 49.4% experiencer reluctance to return (n=1,759/3,563), (2) 17.9% encountered recognizable deceased relatives (n=1,206) who hadn't reincarnated away, (3) reincarnation indicators rare (past-life memory 4.4%, intermission 1.0%, pre-incarnation covenant 1.3%), (4) identity preservation 64.8% (n=4,377) vs disruption 2.0%. Cross-tabulation of return agency × willingness yields χ² = 4824.78 (p < 0.0001), confirming strong relationship between external return mechanism and experiencer reluctance.
 
 
 **Source Chain**:
-1. [E] data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
-2. [E] data/01_Consciousness_Studies/threefold-path-validation-report-analysis_iands_and_nand_2025.md
+1. [E] data/01_Consciousness_Studies/Sequential Structure in NDE - Validating the Threefold Path Model.md
+2. [E] NDERF database (n=5,664)
+3. [E] IANDS database (n=1,089)
+4. [S] Moody, R.A. (1975). Life After Life. Mockingbird Books.
+5. [S] Ring, K. (1980). Life at Death: A Scientific Investigation of the Near-Death Experience. Coward, McCann & Geoghegan.
+6. [S] Greyson, B. (2003). Incidence and correlates of near-death experiences in a cardiac care unit. General Hospital Psychiatry, 25(4), 269-276.
+7. [P] Swedenborg, E. (1758). Heaven and Hell §§421-527.
 
 **Connections**:
-- → `CONSC-011` (supports): Validates continuation over cycling in post-mortem sorting
-- → `CONSC-013` (develops): Refines Hybrid Afterlife Model - reincarnation is exception not norm
-- → `CONSC-005` (supports): Supports Hybrid Post-Mortem Model framework
-- → `SWED-003` (supports): Aligns with Swedenborgian linear progression doctrine
-- → `CONSC-002` (contrasts): DOPS data represents exceptional path, not normative
-- → `CONSC-033` (supported_by): Sequential analysis validates 4-stage structure
+- → `CONSC-006` (supports): Statistical validation of World of Spirits phenomenology
+- → `CONSC-002` (supports): Low reincarnation indicators support restorative incarnation as exceptional
+- → `CONSC-003` (supports): Low covenant indicators support volunteer incarnation as rare
+- → `CONSC-004` (develops): Extends NDE phenomenology with return pattern statistics
 
 ---
 
-#### [CONSC-029] Pure Projection Model: Substantially Weakened
+#### [CONSC-029] Life Review Restorative Character
 
-**Status**: validated | **Confidence**: 0.745
+**Status**: validated | **Confidence**: 0.752
 
-> Statistical falsification of the hypothesis that NDE Being of Light encounters are pure mental projections of cultural expectations. Six failed predictions: (1) Can't explain 61.8% "unknown presence" (can't project what you can't conceive); (2) Can't explain belief CORRECTION (62% cross-religious consistency); (3) Can't explain ABSENT concepts (hell/damnation culturally available, only 1.6%); (4) Can't explain cross-cultural CONSISTENCY (same properties across religions); (5) Can't explain atheist spiritual transformation (20%); (6) ML accuracy 68.2% (if pure projection, should be 90%+).
+> Statistical evidence that NDE life reviews function as restorative mirrors rather than judicial tribunals. Analysis of n=6,753 NDEs yields a 15.9:1 love-to-harsh ratio (223 loving characterizations vs 14 harsh judgments). This supports the Swedenborgian interpretation that life review reveals one's state through felt correspondence rather than external condemnation - the experiencer feels the effects of their actions on others, facilitating self-knowledge and growth rather than punishment.
 
 
 **Source Chain**:
-1. [E] data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
+1. [E] data/01_Consciousness_Studies/Sequential Structure in NDE - Validating the Threefold Path Model.md
+2. [E] NDERF + IANDS databases (n=6,753 combined)
+3. [P] Swedenborg, Heaven and Hell §§462-499
+4. [S] Ring, K. (1980). Life at Death: A Scientific Investigation of the Near-Death Experience. Coward, McCann & Geoghegan.
+5. [S] Greyson, B. (2003). Incidence and correlates of near-death experiences. General Hospital Psychiatry, 25(4), 269-276.
 
 **Connections**:
-- → `CONSC-021` (supports): Negative evidence strengthening CFT
-- → `CONSC-022` (supported_by): Unknown presence rate is strongest falsification
-- → `CONSC-025` (supported_by): Cross-religious consistency falsifies projection
-- → `CONSC-004` (supports): NDE phenomenology reflects external reality
+- → `CONSC-006` (supports): Life review character consistent with World of Spirits function
+- → `SWED-003` (supports): Life review character consistent with World of Spirits self-revelation rather than external judgment
+- → `CONSC-028` (supports): Contributes to convergent evidence for restorative rather than punitive cosmology
+- → `CONSC-022` (complements): Together provide comprehensive Being of Light judgment statistics
 
 ---
 
-#### [CONSC-030] Empathetic Life Review Component (25.7%)
+#### [CONSC-030] Threefold Path Model
 
-**Status**: validated | **Confidence**: 0.705
+**Status**: validated | **Confidence**: 0.3
 
-> Statistical finding that 25.7% of life reviews explicitly involve experiencing others' perspectives - feeling the impact of one's actions from the viewpoint of those affected. Distribution: No empathetic component 67.4%, Explicit empathy 19.2%, Implied empathy 6.5%. This "empathetic reliving" is the mechanism by which the life review makes the soul's "ruling love" manifest - revealing true moral character through felt consequences rather than abstract judgment.
-
-
-**Source Chain**:
-1. [E] data/01_Consciousness_Studies/conceptual_framework_deep_dive_report-analysis_iands_and_nand_2025.md
-2. [E] data/01_Consciousness_Studies/threefold-path-validation-report-analysis_iands_and_nand_2025.md
-
-**Connections**:
-- → `CONSC-003` (develops): Quantifies empathetic mechanism in life review
-- → `CONSC-008` (supports): Empathy facilitated by Being of Light presence
-- → `CROSS-003` (supports): Empathetic review reveals ruling love orientation
-- → `CONSC-023` (complements): Complements no-condemnation finding with self-revelation mechanism
-
----
-
-#### [CONSC-031] Threefold Path: Pathway Distribution (88.5% Normative / 11.5% Volunteer)
-
-**Status**: validated | **Confidence**: 0.812
-
-> Statistical validation of the "Both/And" cosmological thesis from 6,739 NDE cases. The vast majority (88.5%, N=5,966) follow the Normative Linear Path (continuation with intact consciousness), while a distinct minority (11.5%, N=773) follow the Volunteer Soul Path (mission-based returns). This distribution confirms that linear progression is the normative post-mortem experience, while cyclical/return patterns represent purposeful exceptions rather than universal law.
+> Organizing framework proposing three distinct post-mortem trajectories with dramatically different population frequencies: (1) Normative Linear Continuation (majority ~95%) - souls proceed through World of Spirits to heaven/hell based on ruling love, (2) Restorative Incarnation (~4%) - souls return for trauma healing following violent/premature death, (3) Volunteer Incarnation (~1%) - souls return with mission commission for specific spiritual work. The model synthesizes Swedenborgian post-mortem doctrine with empirical NDE phenomenology, treating reincarnation not as universal law but as exceptional provision.
 
 
 **Source Chain**:
-1. [E] data/01_Consciousness_Studies/threefold-path-validation-report-analysis_iands_and_nand_2025.md
-2. [E] data/01_Consciousness_Studies/threefold-path-validation-design-analysis_iands_and_nand_2025.md
-3. [T] data/00_Framework/The Threefold Path of the Soul
+1. [T] data/01_Consciousness_Studies/Sequential Structure in NDE - Validating the Threefold Path Model.md
+2. [T] data/01_Consciousness_Studies/A Synthesized Model of Post-Mortem Existence.md
+3. [P] Swedenborg, Heaven and Hell §§ 421-431, 461-520
 
 **Connections**:
-- → `CONSC-028` (supports): Provides exact distribution for continuation hypothesis
-- → `CONSC-005` (develops): Extends Hybrid Post-Mortem Model with pathway percentages
-- → `SWED-003` (supports): Quantifies Swedenborgian linear progression dominance
-- → `CONSC-032` (requires): Volunteer Path defined by commissioning moment
-- → `CONSC-034` (contains): Third pathway awaits DOPS validation
-
----
-
-#### [CONSC-032] Volunteer Soul Path: Commissioning Moment Phenomenon
-
-**Status**: validated | **Confidence**: 0.772
-
-> The distinct NDE pattern (11.5%, N=773) where experiencers are "sent back" to fulfill a specific earthly mission. Key features: 52.6% were involuntarily returned ("told to return"), 36.5% had life reviews (vs. 18.6% normative), 61.7% lost fear of death (vs. 41.1% normative). The "commissioning moment" represents the activation of a pre-incarnate covenant - experiencers return against their preference to fulfill a purpose they may have agreed to before birth.
-
-
-**Source Chain**:
-1. [E] data/01_Consciousness_Studies/threefold-path-validation-report-analysis_iands_and_nand_2025.md
-2. [E] data/01_Consciousness_Studies/volunteer-soul-profile-report-analysis_iands_and_nand_2025.md
-3. [T] data/00_Framework/The Threefold Path of the Soul
-
-**Connections**:
-- → `CONSC-031` (required_by): Defines the minority pathway
-- → `CONSC-002` (supports): Voluntary return aligns with DOPS 'voluntary souls' concept
-- → `CONSC-013` (parallels): Consistent with reincarnation-as-exception framework
-- → `CONSC-028` (contrasts): Not continuation - purposeful return to embodiment
-- → `CONSC-035` (supported_by): ML validation confirms commissioning as discriminator
-
----
-
-#### [CONSC-033] Normative Path: Four-Stage Sequential Analysis (40% Canonical, 0% Disorder)
-
-**Status**: validated | **Confidence**: 0.745
-
-> Statistical analysis of whether NDE phenomenology follows the proposed four-stage sequence: (1) Passage (OBE, tunnel, peace) → (2) Arrival (Being of Light, reunions, belonging) → (3) Self-Revelation (life review) → (4) Integration (transformation). Finding: 40% (N=2,698) follow the canonical sequence in order. Critically, 0% showed unusual/inverted ordering (Stage 3 before Stage 2, etc.). This zero-disorder finding VALIDATES the sequential structure - the 40% canonical rate reflects truncation (early return before later stages), not disorder in the phenomenological architecture.
-
-
-**Source Chain**:
-1. [E] data/01_Consciousness_Studies/threefold-path-validation-report-analysis_iands_and_nand_2025.md
-2. [E] https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/reports/threefold-path-validation-report.md
-
-**Connections**:
-- → `CONSC-028` (validates): 0% disorder confirms sequential structure of normative path
-- → `SWED-003` (develops): Provides empirical percentages for World of Spirits stages
-- → `CONSC-021` (parallels): Consistent phenomenology across sample
-- → `CONSC-034` (parallels): Both Normative and Restorative paths now empirically validated
-
----
-
-#### [CONSC-034] Restorative Incarnation Path: Violent Death Correlation Validated (>70%)
-
-**Status**: validated | **Confidence**: 0.825
-
-> The Restorative Incarnation pathway (trauma-driven reincarnation following violent or premature death) is empirically validated by DOPS statistical analysis. In over 70% of verified DOPS cases worldwide, the previous personality died by violent or unnatural means (accident, murder, suicide, combat). This massive deviation from general population mortality statistics supports the hypothesis that traumatic or incomplete life termination triggers reincarnation mechanisms.
-
-
-**Source Chain**:
-1. [T] data/01_Consciousness_Studies/DOPS Case Verification and Critiques.md
-2. [S] WHRO Educational News (2024-12-30)
-3. [P] Stevenson - DOPS publications (STE15, STE16)
-4. [P] Tucker (2000) - Strength of Case Scale
-5. [E] UVA DOPS database (~2,500 cases)
-
-**Connections**:
-- → `CONSC-002` (validates): DOPS data confirms violent death correlation
-- → `CONSC-031` (supports): Third pathway now empirically supported
-- → `CONSC-005` (validates): Hybrid Model Restorative component validated
-- → `CONSC-033` (parallels): Both pathways now have empirical support
-
----
-
-#### [CONSC-035] Volunteer Soul Path: Machine Learning Predictive Validation (74.5% Accuracy)
-
-**Status**: validated | **Confidence**: 0.8
-
-> Machine learning analysis demonstrates that volunteer soul pathway can be predicted from NDE phenomenology alone with 74.5% accuracy. Demographics contribute minimally. Top predictive features by importance: significant_guidance (0.437), return_reason (0.241), return_choice (0.173), communication_mode (0.136). The dominance of "significant guidance from beings" (43.7% feature importance) suggests the commissioning moment is the operational discriminator between pathways.
-
-
-**Source Chain**:
-1. [E] data/01_Consciousness_Studies/volunteer-soul-profile-report-analysis_iands_and_nand_2025.md
-
-**Connections**:
-- → `CONSC-032` (supports): Validates commissioning moment as discriminating feature
-- → `CONSC-031` (supports): Confirms pathways are phenomenologically distinct
-- → `CONSC-036` (required_by): Demographics non-predictive validated by ML
-
----
-
-#### [CONSC-036] Volunteer Soul Path: Demographic Non-Prediction (Mission Transcends Identity)
-
-**Status**: validated | **Confidence**: 0.8
-
-> Statistical analysis establishes that volunteer soul pathway is NOT predicted by demographics. Volunteer souls occur across all ages (0-77 years), both genders (V=0.058, negligible), all religions (Christian, atheist, SBNR equally represented), and all life circumstances. Mission calling transcends earthly identity markers. This finding validates the framework's claim that soul purpose operates independently of physical-plane categorizations.
-
-
-**Source Chain**:
-1. [E] data/01_Consciousness_Studies/volunteer-soul-profile-report-analysis_iands_and_nand_2025.md
-
-**Connections**:
-- → `CONSC-035` (supports): ML confirms demographics non-predictive
-- → `CONSC-032` (develops): Explains universality of covenant pattern
-- → `SWED-003` (supports): Soul purpose independent of natural-plane identity
-
----
-
-#### [CONSC-037] Volunteer Soul Path: Enhanced Transformation Outcomes (d = 0.59)
-
-**Status**: validated | **Confidence**: 0.775
-
-> Volunteer souls exhibit statistically significant higher transformation rates across all dimensions. Composite transformation score: 4.49/10 vs 2.90/10 (Cohen's d = 0.59, medium effect, p < 0.000001). Key differentials: no fear of death (+23.2%), major value shifts (+30.4%), increased spirituality (+24.4%), enhanced psychic abilities (+10.9%). The 20-25% intensity increase across ALL markers suggests volunteer NDEs function as "intensive commissioning ceremonies" providing deeper preparation for mission work.
-
-
-**Source Chain**:
-1. [E] data/01_Consciousness_Studies/volunteer-soul-profile-report-analysis_iands_and_nand_2025.md
-
-**Connections**:
-- → `CONSC-032` (develops): Quantifies commissioning preparation intensity
-- → `CONSC-035` (supports): Transformation patterns contribute to ML prediction
-- → `CONSC-028` (contrasts): Volunteer transformation exceeds normative continuation
-- → `CONSC-039` (parallels): Transformation aligns with mission type
-
----
-
-#### [CONSC-038] Telepathic Communication: Key Volunteer Soul Discriminator (V = 0.261)
-
-**Status**: validated | **Confidence**: 0.738
-
-> Telepathic/mind-to-mind communication mode is a significant predictor of volunteer soul pathway. Volunteer rate: 58.6% telepathic vs 37.3% normative (+21.3%), χ² = 458.57, p < 0.0001, Cramér's V = 0.261 (small-medium effect). Communication mode ranks 2nd in ML feature importance (0.0894). This suggests volunteers receive qualitatively different communication from beings - direct mind-to-mind transmission rather than verbal or impressionistic communication - consistent with commissioning requiring unambiguous understanding of mission parameters.
-
-
-**Source Chain**:
-1. [E] data/01_Consciousness_Studies/volunteer-soul-profile-report-analysis_iands_and_nand_2025.md
-
-**Connections**:
-- → `CONSC-032` (supports): Telepathy enables commissioning clarity
-- → `CONSC-035` (supports): 4th ranked ML predictor feature
-- → `CONSC-039` (required_by): Mission clarity requires clear communication
-- → `CONSC-026` (develops): Being of Light communication modality
-
----
-
-#### [CONSC-039] Volunteer Soul Mission Typology: Ten Archetypal Categories
-
-**Status**: validated | **Confidence**: 0.643
-
-> Content analysis of 83 detailed mission descriptions reveals 10 primary mission categories: (1) Writing/Creative Expression (30.1%), (2) Work/Profession Integration (26.5%), (3) Teaching/Sharing Knowledge (18.1%), (4) Helping/Healing (15.7%), (5) Children/Family Focus (13.3%), (6) Change World/Society (12.0%), (7) Learning/ Growing (12.0%), (8) Love/Compassion Spreading (8.4%), (9) Specific Person Focus (3.6%), (10) Spiritual Awakening Facilitation (2.4%). 89.3% lack explicit mission details in NDE accounts - mission awareness ≠ mission clarity.
-
-
-**Source Chain**:
-1. [E] data/01_Consciousness_Studies/volunteer-soul-profile-report-analysis_iands_and_nand_2025.md
-
-**Connections**:
-- → `CONSC-032` (develops): Details what covenant contains
-- → `CONSC-037` (parallels): Transformation aligns with mission type
-- → `CONSC-038` (required_by): Mission communication via telepathy
-- → `SWED-006` (supports): Mission types align with uses/service doctrine
+- → `CONSC-002` (requires): Incorporates Restorative Incarnation as Path 2
+- → `CONSC-003` (requires): Incorporates Volunteer Incarnation as Path 3
+- → `CONSC-024` (requires): 94.2% mission commission rate validates Path 3 (Volunteer Incarnation) identification
+- → `CONSC-028` (requires): Statistical foundation for normative continuation claim
+- → `CONSC-006` (develops): Extends World of Spirits mapping into comprehensive path model
+- → `SWED-004` (instantiates): Empirical instantiation of ruling love determination
 
 ---
 
@@ -975,7 +852,6 @@
 5. [P] UVA DOPS database (n=2,500+)
 
 **Connections**:
-- → `CONSC-034` (validates): Comprehensive statistical support for Restorative Incarnation model
 - → `CONSC-005` (validates): Restorative Path within Threefold Path cosmology
 - → `CONSC-002` (supports): DOPS data interpretation as exceptional, not universal
 - → `SWED-008` (parallels): Restorative return enables regeneration to complete
@@ -998,7 +874,6 @@
 
 **Connections**:
 - → `CONSC-046` (explains): Explains why Restorative cases dominate DOPS database
-- → `CONSC-034` (contextualizes): 70% violent death partially reflects methodology, not only ontology
 - → `CONSC-010` (contrasts): Volunteer Soul Paradigm cannot be validated through SOCS
 - → `CONSC-040` (develops): Type A/B distinction does not capture first incarnation category
 - → `CONSC-002` (contextualizes): DOPS database is sample-biased toward trauma cases
@@ -1022,7 +897,6 @@
 - → `CONSC-014` (validates): Three-Path Cosmology predicts this pattern
 - → `CONSC-047` (develops): Evidence that SOCS misses this case type
 - → `CONSC-002` (complements): Expands DOPS data beyond trauma-only cases
-- → `CONSC-032` (parallels): Commissioning Moment without prior death
 
 ---
 
@@ -1063,7 +937,6 @@
 - → `CONSC-048` (operationalizes): Provides systematic methodology for Reverse Case study
 - → `CONSC-049` (applies): Uses VPE as primary verification method
 - → `CONSC-010` (validates): Methodology specifically designed to detect Volunteer Souls
-- → `CONSC-031` (supports): Could provide independent verification of 11.5% Volunteer estimate
 - → `CONSC-002` (complements): Parallel methodology to expand DOPS research scope
 
 ---
@@ -1122,7 +995,6 @@
 - → `CONSC-014` (validates): Provides empirical percentages for Threefold Path
 - → `CONSC-010` (supports): 6% Volunteer estimate consistent with rare but real population
 - → `CONSC-048` (validates): 28% Ohkado rate shows large non-cyclic population
-- → `CONSC-031` (develops): Updates earlier 11.5% Volunteer estimate to 6% with stricter criteria
 - → `CONSC-047` (contextualizes): 3% Restorative in NDEs vs dominance in DOPS shows selection bias
 
 ---
@@ -1146,7 +1018,6 @@
 
 **Connections**:
 - → `SWED-003` (validates): Empirically confirms correspondence doctrine — body as soul in ultimates
-- → `CONSC-034` (complements): Birthmarks show trauma→body; healing shows resolution→body. Bidirectional.
 - → `CONSC-004` (supports): NDE healing cases provide additional evidence for consciousness independence
 - → `SWED-005` (explains): Cancer as proprium pathology — spiritual self-separation manifests as cellular rebellion
 - → `CROSS-003` (supports): Healing via Love (Will) not just Faith (Understanding) confirms ruling love priority
@@ -1213,7 +1084,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-058] Filter/Transmission Theory of Consciousness
 
-**Status**: validated | **Confidence**: 0.6
+**Status**: validated | **Confidence**: 0.752
 
 > The hypothesis that the brain functions as a filter, receiver, or reducing valve for consciousness rather than its generator (Production Theory). Originally proposed by William James and Henri Bergson, this model predicts that as brain function degrades, consciousness may expand rather than diminish—explaining paradoxes like terminal lucidity, NDE hyper-lucidity during flat EEG, and veridical perception during clinical death. The dying process represents the progressive lifting of the brain's filtering mechanism.
 
@@ -1255,7 +1126,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-060] Nearing Death Awareness (NDA): Structured Pre-Death Consciousness
 
-**Status**: validated | **Confidence**: 0.797
+**Status**: validated | **Confidence**: 0.828
 
 > Nearing Death Awareness is a distinct clinical phenomenon characterized by calm, focused awareness of the transition process in dying patients—contrasted with terminal delirium which presents with distress and disorganized content. NDA features include: symbolic language of travel/journey ('packing bags,' 'catching the train,' 'going home'), visions of deceased relatives serving as welcome committee, and reaching upward rather than restless picking. Misdiagnosis of NDA as delirium leads to inappropriate sedation.
 
@@ -1507,7 +1378,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-009] Glorification
 
-**Status**: validated | **Confidence**: 0.841
+**Status**: validated | **Confidence**: 0.85
 
 > The divine process by which the Lord's internal Divine Soul progressively purified, subjugated, and united with His external human nature during the Incarnation. Result: the Divine Human - complete union of Divine and Human natures. The "bedrock facts" of Jesus's life are its historical footprints.
 
@@ -4106,7 +3977,7 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 
 #### [CROSS-007] Universal Theosis Capacity (Degree vs. Kind)
 
-**Status**: validated | **Confidence**: 0.9
+**Status**: validated | **Confidence**: 0.892
 
 > A critical theological argument that the difference between Jesus and the prophets  (and all humans) is one of DEGREE rather than absolute KIND. Swedenborg distinguished  Jesus by the nature of his soul (paternal = Jehovah directly; prophets = mediated  through angels). The Divine Bricolage framework argues this distinction is functional/ teleological, not metaphysical: Jesus is the "Fullness of the Godhead bodily" who  "opened the pathway" for Divine expression in all humans. The prophets were "sons  of God" by adoption/bricolage; Jesus was "Son of God" by nature/incarnation—but His  work enables the same capacity for Theosis in all.
 

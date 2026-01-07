@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-07 14:38*
+*Last exported: 2026-01-07 19:15*
 
 ---
 
@@ -10,20 +10,20 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 186 |
-| Total Connections | 750 |
+| Total Nodes | 202 |
+| Total Connections | 741 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 172
+- **validated**: 188
 - **preliminary**: 9
 - **contested**: 5
 
 ### By Domain
 
 - **Cross-Domain** (CROSS): 10
-- **Consciousness Studies** (CONSC): 52
+- **Consciousness Studies** (CONSC): 68
 - **Swedenborgian Theology** (SWED): 47
 - **Biblical Scholarship** (BIBL): 22
 - **Early Christian History** (EARLY): 17
@@ -91,7 +91,7 @@
 
 #### [CONSC-003] The Life Review Phenomenon
 
-**Status**: validated | **Confidence**: 0.8
+**Status**: validated | **Confidence**: 0.83
 
 > A panoramic, empathetic reliving of one's entire life reported in NDEs and intermission memories. Functions as divinely-engineered technology for self-judgment, making the soul's "ruling love" manifest. The experiencer feels events from others' perspectives, revealing their true moral character.
 
@@ -100,12 +100,13 @@
 1. [T] data/00_Framework/A Coherent Framework for Spiritual History.md
 2. [E] Greyson, Bruce. After (2021)
 3. [P] Swedenborg, Heaven and Hell § 462-463
-4. [E] https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/reports/conceptual_framework_deep_dive_report.md
+4. [E] data/01_Consciousness_Studies/Sequential Structure in NDE - Validating the Threefold Path Model.md
 
 **Connections**:
 - → `CROSS-003` (reveals): Life review makes ruling love manifest
 - → `SWED-003` (parallels): Corresponds to Swedenborg's World of Spirits unveiling
 - → `CONSC-004` (instantiates): Core component of NDE phenomenology
+- → `CONSC-029` (complements): CONSC-029 provides detailed analysis of restorative character
 
 ---
 
@@ -455,7 +456,7 @@
 
 #### [CONSC-020] Restorative Incarnation (70% Violent Death Pattern)
 
-**Status**: validated | **Confidence**: 0.883
+**Status**: validated | **Confidence**: 0.9
 
 > A proposed explanation for the strongest past-life memory data (UVA/DOPS cases):  children with verified past-life memories show over 70% prevalence of violent or  premature death in the remembered life. This is NOT karmic punishment but Divine  mercy—a "second chance" for souls whose character formation was traumatically  interrupted. The soul returns to complete its intended "seed-state" development  before proceeding on the normative linear path. Exceptional, not normative; restorative,  not punitive.
 
@@ -623,7 +624,7 @@
 
 #### [CONSC-027] Volunteer Detection vs Soul Path Classification (Methodological Distinction)
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.85
 
 > Critical methodological principle distinguishing marker detection from ontological classification  in volunteer soul research. Key distinctions: (1) Volunteer Detection identifies PRESENCE of  mission-oriented markers in NDE reports—binary signal, not path classification; (2) Soul Path  Classification would require knowledge of the soul's full journey—impossible from NDE snapshot;  (3) Non-detection does NOT establish non-volunteer status—missions may not surface during all NDEs;  (4) Pre-birth awareness during NDE ≠ Ohkado reverse cases (spontaneous child pre-birth recall)— different populations, different methodologies. This distinction prevents over-interpretation  of statistical findings.
 
@@ -635,9 +636,9 @@
 4. [S] Newton, M. (1994). Journey of Souls: Case Studies of Life Between Lives. Llewellyn Publications.
 
 **Connections**:
-- → `CONSC-024` (required_by): Discriminant validity findings require methodological caveat that marker detection ≠ soul path classification
-- → `CONSC-025` (required_by): Volunteer detection statistics require this distinction for proper interpretation
-- → `CONSC-026` (required_by): Pre-birth indicator interpretation requires this methodological framework
+- → `CONSC-024` (supported_by): Discriminant validity findings empirically demonstrate that marker detection ≠ soul path classification - supporting this methodological distinction
+- → `CONSC-025` (supported_by): Volunteer detection statistics demonstrate the distinction between marker presence (10.3%) and path prevalence (unknown)
+- → `CONSC-026` (supported_by): Pre-birth indicator analysis demonstrates need for methodological distinction between NDE markers and ontological claims
 - → `CONSC-014` (develops): Refines Three-Path Cosmology methodology for empirical testing
 - → `CONSC-002` (contrasts): Distinguishes NDE methodology from DOPS past-life case methodology
 - → `CONSC-010` (develops): Provides methodological guardrails for Volunteer Soul Paradigm empirical research
@@ -665,6 +666,7 @@
 - → `CONSC-002` (supports): Low reincarnation indicators support restorative incarnation as exceptional
 - → `CONSC-003` (supports): Low covenant indicators support volunteer incarnation as rare
 - → `CONSC-004` (develops): Extends NDE phenomenology with return pattern statistics
+- → `SWED-003` (validates): Statistical evidence supports continuation to spiritual existence as normative path
 
 ---
 
@@ -672,7 +674,7 @@
 
 **Status**: validated | **Confidence**: 0.752
 
-> Statistical evidence that NDE life reviews function as restorative mirrors rather than judicial tribunals. Analysis of n=6,753 NDEs yields a 15.9:1 love-to-harsh ratio (223 loving characterizations vs 14 harsh judgments). This supports the Swedenborgian interpretation that life review reveals one's state through felt correspondence rather than external condemnation - the experiencer feels the effects of their actions on others, facilitating self-knowledge and growth rather than punishment.
+> Statistical evidence that NDE life reviews function as restorative mirrors rather than judicial tribunals. Analysis of n=6,753 NDEs identified 237 life reviews with characterization data, yielding a 15.9:1 love-to-harsh ratio (223 loving characterizations vs 14 harsh judgments). This supports the Swedenborgian interpretation that life review reveals one's state through felt correspondence rather than external condemnation - the experiencer feels the effects of their actions on others, facilitating self-knowledge and growth rather than punishment.
 
 
 **Source Chain**:
@@ -687,12 +689,13 @@
 - → `SWED-003` (supports): Life review character consistent with World of Spirits self-revelation rather than external judgment
 - → `CONSC-028` (supports): Contributes to convergent evidence for restorative rather than punitive cosmology
 - → `CONSC-022` (complements): Together provide comprehensive Being of Light judgment statistics
+- → `CONSC-003` (develops): Provides restorative character analysis complementing general life review phenomenology
 
 ---
 
 #### [CONSC-030] Threefold Path Model
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.825
 
 > Organizing framework proposing three distinct post-mortem trajectories with dramatically different population frequencies: (1) Normative Linear Continuation (majority ~95%) - souls proceed through World of Spirits to heaven/hell based on ruling love, (2) Restorative Incarnation (~4%) - souls return for trauma healing following violent/premature death, (3) Volunteer Incarnation (~1%) - souls return with mission commission for specific spiritual work. The model synthesizes Swedenborgian post-mortem doctrine with empirical NDE phenomenology, treating reincarnation not as universal law but as exceptional provision.
 
@@ -709,6 +712,28 @@
 - → `CONSC-028` (requires): Statistical foundation for normative continuation claim
 - → `CONSC-006` (develops): Extends World of Spirits mapping into comprehensive path model
 - → `SWED-004` (instantiates): Empirical instantiation of ruling love determination
+
+---
+
+#### [CONSC-034] Restorative Incarnation Path: Violent Death Correlation Validated (>70%)
+
+**Status**: validated | **Confidence**: 0.825
+
+> The Restorative Incarnation pathway (trauma-driven reincarnation following violent or premature death) is empirically validated by DOPS statistical analysis. In over 70% of verified DOPS cases worldwide, the previous personality died by violent or unnatural means (accident, murder, suicide, combat). This massive deviation from general population mortality statistics supports the hypothesis that traumatic or incomplete life termination triggers reincarnation mechanisms.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/DOPS Case Verification and Critiques.md
+2. [S] WHRO Educational News (2024-12-30)
+3. [P] Stevenson - DOPS publications (STE15, STE16)
+4. [P] Tucker (2000) - Strength of Case Scale
+5. [E] UVA DOPS database (~2,500 cases)
+
+**Connections**:
+- → `CONSC-002` (validates): DOPS data confirms violent death correlation
+- → `CONSC-030` (supports): Empirical validation for Restorative path in Threefold Model
+- → `CONSC-005` (validates): Hybrid Model Restorative component validated
+- → `CONSC-020` (validates): Provides statistical validation for Restorative Incarnation hypothesis
 
 ---
 
@@ -1039,6 +1064,15 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [E] Split-brain studies (Sperry, Gazzaniga)
 3. [S] McGilchrist, Iain. The Matter with Things. 2021.
 
+**Connections**:
+- → `CONSC-006` (supports): Hemispheric model informs understanding of spiritual perception
+- → `CONSC-013` (supports): Right hemisphere's holistic attention relates to spiritual awareness
+- → `CONSC-018` (supports): Master/Emissary dynamic parallels proprium/influx relationship
+- → `CROSS-008` (supports): Neurological basis for hemispheric-faculty correspondence
+- → `CONSC-011` (supports): Hemispheric asymmetry research informs consciousness studies
+- → `CROSS-004` (supports): Neurological evidence for consciousness framework
+- → `SWED-034` (supports): Provides empirical grounding for will/understanding correspondence
+
 ---
 
 #### [CONSC-056] End-of-Life Dreams and Visions (ELDV): Deceased Contact Prevalence
@@ -1165,6 +1199,300 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `CONSC-060` (supports): Protective physiology creates conditions for NDA
 - → `CONSC-056` (supported_by): ELDV research provides empirical foundation for dying process
 - → `CONSC-057` (supported_by): Terminal Lucidity evidence supports non-traumatic transition thesis
+
+---
+
+#### [CONSC-062] Purposive Economy Principle: Light Engagement Calibrated to Need
+
+**Status**: validated | **Confidence**: 0.823
+
+> The Purposive Economy hypothesis posits that Being of Light encounters are not randomly distributed but are calibrated to experiencer need. Those returning with explicit missions (volunteer souls) require more intensive ontological affirmation than those on normative paths. Statistical analysis (n=6,753 NDERF corpus) finds mission returners have 4.38× higher odds of Being of Light encounter than non-mission returners (OR=4.38, p<10⁻⁴⁶). This supports a model where spiritual resources (Light encounters) flow according to purposive logic rather than arbitrary distribution.
+
+
+**Source Chain**:
+1. [E] NDERF corpus statistical analysis (n=6,753)
+2. [T] data/01_Consciousness_Studies/The East-West NDE Dichotomy - Challenging Cultural Paradigms Through Empirical Analysis.md
+
+**Connections**:
+- → `CONSC-021` (develops): Extends Being of Light statistics to mission-specific analysis
+- → `CONSC-024` (supported_by): Mission commission discriminant validity supports mission classification
+- → `CONSC-010` (supports): Supports variable intensity of afterlife encounters based on need
+
+---
+
+#### [CONSC-063] Western NDE Profile Falsification: Being of Light at 11.8%, Not 70-80%
+
+**Status**: validated | **Confidence**: 0.825
+
+> Empirical falsification of the claimed "Western NDE profile" which literature asserts features a personified Being of Light in 70-80% of cases. Analysis of 6,753 Western NDEs (NDERF n=5,660 + IANDS n=1,093) reveals Being of Light appears in only 11.8% of cases - a six-fold discrepancy from the claimed rate. Brilliant impersonal light (40.9%) dominates, yielding a ratio of 3.8:1  impersonal to personified. Nature settings (17.0%) exceed urban "Cities of Light" (11.4%). Deceased relatives (17.9%) are encountered more often than religious figures (9.9%). The claimed "Western profile" is contradicted at every key point. This suggests the standard East-West dichotomy reflects scholarly construction rather than phenomenological reality - both profiles may be artifacts of selection bias and paradigmatic assumptions.
+
+
+**Source Chain**:
+1. [E] NDERF + IANDS corpus statistical analysis (n=6,753)
+2. [T] data/01_Consciousness_Studies/The East-West NDE Dichotomy - Challenging Cultural Paradigms Through Empirical Analysis.md
+
+**Connections**:
+- → `CONSC-021` (develops): Being of Light statistics from same dataset show different analysis angle
+- → `CONSC-008` (supports): Supports cultural construction of NDE interpretation layers
+- → `CONSC-004` (supports): Supports constant states/variable forms model
+
+---
+
+#### [CONSC-064] NDE Boundary: Correspondence of Return Decision, Not Fixed Location
+
+**Status**: validated | **Confidence**: 0.825
+
+> Statistical analysis of NDE boundary imagery (n=6,753) reveals systematic correspondence between boundary type and return decision modality. Physical barriers (walls, fences, doors) cluster with external decision returns (others decided return); thresholds (rivers, paths, light boundaries) cluster with internal choice returns. Chi-square analysis shows highly significant association (χ²=3,724.7, p<10⁻⁸⁰⁰). This supports the Swedenborgian correspondence principle: physical objects express spiritual realities. The "boundary" is not a fixed cosmic location but a representation of the decision-point between continuation and return, with imagery calibrated to the nature of that decision.
+
+
+**Source Chain**:
+1. [E] NDERF corpus statistical analysis (n=6,753)
+2. [T] data/01_Consciousness_Studies/The East-West NDE Dichotomy - Challenging Cultural Paradigms Through Empirical Analysis.md
+3. [P] Swedenborg, Heaven and Hell §§ 429-430
+
+**Connections**:
+- → `SWED-001` (instantiates): Empirical evidence for correspondence principle in consciousness data
+- → `CONSC-004` (supports): Boundary imagery shows constant states/variable forms pattern
+- → `CONSC-028` (parallels): Both address return decision mechanisms in NDE phenomenology
+
+---
+
+#### [CONSC-065] Spectrum of Personification: Light as Functional Interface (Levels 0-5)
+
+**Status**: validated | **Confidence**: 0.738
+
+> A six-level taxonomy of Being of Light encounters calibrated to functional purpose rather than cultural origin. Level 0 (Void/Blackness): Pure consciousness, ego dissolution, rest/reboot function. Level 1 (Atmospheric Light): Ambient brilliance, warmth, sanctuary/transition—the dominant mode globally (40.9% Western, majority Japanese). Level 2 (Disembodied Voice): Auditory command without visual form; "low-bandwidth commission." Level 3 (Ancestral Guide): Deceased relatives providing reassurance/escort or boundary enforcement. Level 4 (Abstract Entity): "Orb of Light," "Machine of Light," "Universal Mind"—systemic knowledge transfer, common with scientist experiencers. Level 5 (Personified Being): Humanoid form, face-to-face dialogue, reserved for high-stakes commissioning (life review, mission assignment). The Light chooses its level of engagement based on functional need, not cultural expectation.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/The Ontology of the Interface_ A Comprehensive Validation of the Purposive Economy Hypothesis Through Cross-Cultural NDE Phenomenology.md
+2. [E] NDERF corpus analysis (n=6,753)
+3. [E] Ohkado & Greyson, "A Comparative Analysis of Japanese and Western NDEs" (JNDS)
+4. [E] Bush & Greyson (2018), "Distressing Near-Death Experiences," Missouri Medicine 111(6):486-491. PMC6173534
+5. [W] https://near-death.com/mellen-thomas-benedict/
+
+**Connections**:
+- → `CONSC-062` (develops): Elaborates the mechanism behind Purposive Economy
+- → `CONSC-063` (supports): Explains why 40.9% impersonal vs 11.8% personified in West
+- → `CONSC-045` (parallels): Both show constant states (function) with variable forms (imagery)
+- → `SWED-001` (instantiates): Spectrum demonstrates correspondential principle in action
+- → `CONSC-008` (develops): Level 5 personification is the Divine Human adapting to mission needs
+- → `SWED-002` (parallels): Spectrum parallels Divine Influx adapting to recipient capacity
+
+---
+
+#### [CONSC-066] Japanese NDE Mission Cases: Cross-Cultural Validation of Purposive Economy
+
+**Status**: validated | **Confidence**: 0.482
+
+> Three Japanese NDE cases that contradict the "impersonal Eastern NDE" stereotype by exhibiting Western-style personification, dialogue, and mission commissioning. (1) Suzuki (Catholic sister/professor): Light described as "life itself, with its own personality," received explicit directive "Study and Love"; (2) Fumihiko Iida (management professor): Engaged in extended Q&A dialogue with Light about "Meaning of Life," received three-pillar mission (learn, love, fulfill mission), returned to write "The Dawn of Meaning" sparking spiritual movement in Japan; (3) Tsuruhiko Kiuchi (comet hunter): Interacted with "Universal Consciousness" or "Machine of Light" containing cosmic memories, received scientific insights about comets and universe. All three show personification/dialogue because all three had MISSIONS—validating Purposive Economy across cultures.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/The Ontology of the Interface_ A Comprehensive Validation of the Purposive Economy Hypothesis Through Cross-Cultural NDE Phenomenology.md
+2. [E] Ohkado & Greyson, "A Comparative Analysis of Japanese and Western NDEs" (JNDS)
+3. [W] https://seikoshirai.com/2017/07/24/the-meaning-of-success/
+4. [W] https://www.reddit.com/r/nonmurdermysteries/comments/lz0081/
+5. [W] https://www.scribd.com/document/21070494/Creating-the-value-of-life-Dr-Fumihiko-Iida
+
+**Connections**:
+- → `CONSC-062` (validates): Japanese cases validate Purposive Economy across cultures
+- → `CONSC-065` (instantiates): Each case maps to appropriate personification level for mission type
+- → `CONSC-063` (develops): Shows East-West dichotomy is sample artifact, not cultural constant
+- → `CONSC-008` (validates): Cross-cultural mission cases validate Divine Human as universal Being, not cultural construct
+
+---
+
+#### [CONSC-067] Adaptive Agency: Light Exhibits Meta-Cognitive Awareness
+
+**Status**: validated | **Confidence**: 0.3
+
+> Evidence that the Being of Light is not a passive projection or culturally-constructed hallucination but an Intelligent Agent with meta-cognitive awareness of its own interface nature. Key evidence: (1) Mellen-Thomas Benedict case: When asked why it was shifting forms (Jesus to Buddha to Krishna), the Light EXPLAINED: "Your beliefs shape the kind of feedback you are getting"—a passive projection cannot explain itself. (2) Ian McCormack case: Light actively intervened by initiating dialogue ("Ian, do you wish to return?") and offering transformative guidance ("If you wish to return you must see in a new light")—demonstrating agenda independent of experiencer's psychology. This supports the Light as a "chooser of form" rather than a form projected by the experiencer.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/The Ontology of the Interface_ A Comprehensive Validation of the Purposive Economy Hypothesis Through Cross-Cultural NDE Phenomenology.md
+2. [W] https://near-death.com/mellen-thomas-benedict/
+3. [W] https://near-death.com/ian-mccormack/
+4. [W] https://www.cluonline.com/my-near-death-experience-that-began-with-a-dream-part-2/
+5. [S] Bailey & Yates, "The Near-Death Experience A Reader" (Routledge, 1996)
+
+**Connections**:
+- → `CONSC-065` (develops): Agency explains WHY Light chooses different personification levels
+- → `CONSC-008` (validates): Meta-cognitive agency validates Divine Human as conscious being, not projection
+- → `SWED-009` (supports): Light's self-aware adaptation reflects Glorified Divine Human in ultimates
+- → `CONSC-043` (contradicts): Meta-cognitive awareness contradicts dying brain hypothesis
+- → `SWED-002` (parallels): Adaptive agency parallels Divine Influx adapting to recipient capacity
+
+---
+
+#### [CONSC-068] East-West NDE Dichotomy: Dual Construction Thesis
+
+**Status**: validated | **Confidence**: 0.738
+
+> The thesis that the "East-West NDE Dichotomy" is not a phenomenological reality but a dual scholarly construction—both the "Western" profile (personified Being, tunnels, life reviews) and the "Eastern" profile (impersonal light, nature imagery, no judgment) are artifacts of selection bias, paradigmatic assumptions, and insufficient sample sizes. Evidence: (1) Western data falsifies Western profile: impersonal light (40.9%) dominates over Being of Light (11.8%); nature settings (17.0%) exceed urban settings (11.4%). (2) Eastern data falsifies Eastern profile: mission cases (Iida, Suzuki, Kiuchi) show personification, dialogue, and life review content indistinguishable from Western patterns. (3) Sample correction: Early Japanese research (Tachibana n=22) was too small to capture rare mission cases; internet era exposes full phenomenological range. The dichotomy has been "weaponized by materialist reductionism" to argue NDEs are cultural hallucinations; this analysis removes that weapon.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/The Ontology of the Interface_ A Comprehensive Validation of the Purposive Economy Hypothesis Through Cross-Cultural NDE Phenomenology.md
+2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
+3. [E] NDERF + IANDS corpus (n=6,753)
+4. [E] Tachibana, Japanese NDE research (n=22)
+5. [E] Ohkado & Greyson, Japanese NDE comparative analysis (JNDS)
+6. [E] Bush & Greyson (2018), Missouri Medicine 111(6):486-491. PMC6173534
+
+**Connections**:
+- → `CONSC-063` (develops): Extends Western profile falsification to dual construction thesis
+- → `CONSC-066` (supported_by): Japanese mission cases prove Eastern profile is also construct
+- → `CONSC-045` (validates): Dual construction thesis validates constant states/variable forms
+- → `CONSC-043` (supports): Removes materialist argument that cultural variation proves hallucination
+- → `CONSC-008` (supports): Universal Light operating identically across cultures supports Divine Human objectivity
+
+---
+
+#### [CONSC-069] Life Review Predicts Being of Light Encounter: Statistical Correlation
+
+**Status**: validated | **Confidence**: 0.738
+
+> Statistical evidence that Life Review occurrence predicts Being of Light encounter with 1.83x odds (p<10^-30) in Western NDEs. Life Review rate with personified Being: 32.0%; with Impersonal Light: 19.1%. This correlation demonstrates functional dependency - the pedagogical nature of Life Review requires a teacher figure, thus the Light personifies when teaching is needed. Validates the Purposive Economy hypothesis at the level of individual phenomenological features.
+
+
+**Source Chain**:
+1. [E] NDERF + IANDS corpus statistical analysis (n=6,753)
+2. [T] data/01_Consciousness_Studies/The Ontology of the Interface_ A Comprehensive Validation of the Purposive Economy Hypothesis Through Cross-Cultural NDE Phenomenology.md
+3. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
+
+**Connections**:
+- → `CONSC-062` (validates): Provides statistical evidence for Purposive Economy mechanism
+- → `CONSC-064` (parallels): Similar functional correlation to Mission Signature
+- → `CONSC-065` (supports): Teaching function explains Level 5 personification
+
+---
+
+#### [CONSC-070] Unknown Presence: 51.9% Reject Cultural Identification
+
+**Status**: validated | **Confidence**: 0.738
+
+> Critical empirical finding that 51.9% of Western experiencers who encountered a Being of Light identified it as "Unknown Presence," explicitly rejecting cultural labels like God, Jesus, Allah, etc. This is the single strongest evidence against the "cultural projection" hypothesis - if NDEs were hallucinations shaped by religious conditioning, experiencers should overwhelmingly identify the Being according to their faith tradition. Instead, the majority report an entity that transcends and resists cultural categorization.
+
+
+**Source Chain**:
+1. [E] NDERF + IANDS corpus statistical analysis (n=6,753)
+2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
+
+**Connections**:
+- → `CONSC-008` (supports): Being resists cultural projection, supports objective Divine Human encounter
+- → `CONSC-043` (contradicts): Undermines dying brain/cultural hallucination hypothesis
+- → `CONSC-068` (supports): Experience corrects rather than confirms cultural expectations
+
+---
+
+#### [CONSC-071] Christian Subset: 44.2% Unknown Presence Rate
+
+**Status**: validated | **Confidence**: 0.738
+
+> Among self-identified Christians who encountered a Being of Light in Western NDEs, 44.2% identified it as "Unknown Presence" rather than Jesus. This subset analysis is devastating to the cultural expectation hypothesis - Christians have the most explicit preparation to see Jesus, yet nearly half cannot map the Being to their expected deity. Combined with the general 51.9% Unknown rate, this shows cultural conditioning fails to determine identification even within the most Jesus-prepared demographic.
+
+
+**Source Chain**:
+1. [E] NDERF + IANDS corpus subset analysis (n=6,753)
+2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
+
+**Connections**:
+- → `CONSC-070` (supports): Subset analysis confirms general Unknown Presence pattern
+- → `CONSC-008` (develops): Being of Light transcends even Christian identification expectations
+- → `CONSC-043` (contradicts): Christians should overwhelmingly see Jesus if cultural conditioning drives NDEs
+
+---
+
+#### [CONSC-072] Polytheist Singularity Pattern: One Being, Not Pantheon
+
+**Status**: validated | **Confidence**: 0.698
+
+> Hindus and Buddhists in Western NDE datasets consistently reported encountering a singular Being of Light, despite cultural preparation for a pantheon of deities. This is the inverse of the Christian pattern - where Christians see fewer Jesus identifications than expected, polytheists see fewer deities than expected. Combined, these patterns demonstrate the experience "corrects" expectations bidirectionally: monotheists don't always see their one God; polytheists don't see their many gods. The Being appears as ONE regardless of cultural framework.
+
+
+**Source Chain**:
+1. [E] NDERF + IANDS corpus subset analysis (n=6,753)
+2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
+
+**Connections**:
+- → `CONSC-070` (supports): Another pattern of experience resisting cultural projection
+- → `CONSC-071` (parallels): Inverse pattern to Christian Unknown rate - both show bidirectional correction
+- → `CONSC-008` (supports): Being manifests as singular Divine Human across all cultures
+- → `SWED-009` (supports): Supports Swedenborgian claim of ONE Divine Human, not pantheon
+
+---
+
+#### [CONSC-073] Life Review Prevalence: 17.5% Observed Rate in Western NDEs
+
+**Status**: validated | **Confidence**: 0.738
+
+> Empirical finding that Life Review occurs in 17.5% of Western NDE cases (n=6,753), significantly lower than the 25-30% rate claimed in early literature. This corrects the Western stereotype and has critical implications for the East-West dichotomy: Japanese research claimed life review was virtually absent (0%) in Eastern NDEs, making it a defining cultural difference. However, the lower Western observed rate (17.5% vs 30% claimed) suggests the Japanese "absence" may simply reflect small sample sizes failing to capture a relatively rare phenomenon that occurs at similar baseline rates globally.
+
+
+**Source Chain**:
+1. [E] NDERF + IANDS corpus analysis (n=6,753)
+2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
+
+**Connections**:
+- → `CONSC-063` (supports): Another Western stereotype falsified by empirical data
+- → `CONSC-068` (supports): Western profile myth contributes to false East-West dichotomy
+- → `CONSC-069` (develops): 17.5% baseline prevalence context for Life Review correlation analysis
+
+---
+
+#### [CONSC-074] Nature vs Urban Settings: 1.5:1 Ratio Favors Nature
+
+**Status**: validated | **Confidence**: 0.738
+
+> Statistical finding that Western NDErs encounter nature settings (gardens, forests, rivers) at 17.0% (n=1,151) compared to urban settings (cities, buildings) at 11.4% (n=772), yielding a nature-to-urban ratio of 1.5:1 (χ²=74.7, p<0.0001). This directly contradicts the "Western Cities of Light" stereotype and aligns Western experience with the Japanese nature-landscape profile. The chi-square significance proves this is not random variation but a consistent pattern - Westerners prefer natural afterlife environments just as Japanese do.
+
+
+**Source Chain**:
+1. [E] NDERF + IANDS corpus analysis (n=6,753)
+2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
+
+**Connections**:
+- → `CONSC-063` (validates): Statistical verification of nature>urban claim in CONSC-063
+- → `CONSC-068` (supports): Western nature preference aligns with Japanese profile, undermining dichotomy
+- → `CONSC-045` (instantiates): Variable forms (gardens vs cities) over constant states (peace, beauty)
+
+---
+
+#### [CONSC-075] Deceased Relatives vs Religious Figures: 1.8:1 Familial Preference
+
+**Status**: validated | **Confidence**: 0.738
+
+> Empirical finding that Western NDErs encounter deceased relatives at 17.9% (n=1,206) compared to religious figures at 9.9% (n=670), yielding a 1.8:1 ratio favoring familial over theological encounters. This demonstrates the social core of the NDE is familial, not religious, across cultures. The pattern directly contradicts the Western stereotype of "meeting Jesus/angels" and aligns with Japanese ancestral reunion emphasis. Relatives serve functional roles (reassurance, boundary enforcement, escort) more commonly than religious icons.
+
+
+**Source Chain**:
+1. [E] NDERF + IANDS corpus analysis (n=6,753)
+2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
+
+**Connections**:
+- → `CONSC-063` (validates): Statistical verification of relatives>religious claim
+- → `CONSC-068` (supports): Western familial emphasis matches Japanese pattern
+- → `CONSC-065` (instantiates): Deceased relatives as Level 3 in Spectrum of Personification
+
+---
+
+#### [CONSC-076] Tachibana Sample Limitation: n=22 Japanese NDE Dataset
+
+**Status**: validated | **Confidence**: 0.512
+
+> Methodological evidence that the influential Ohkado & Greyson (2014) comparative study establishing the Japanese NDE profile relied on only n=22 interviews conducted by journalist Takashi Tachibana. This sample size is orders of magnitude smaller than Western repositories (NDERF n=5,660, IANDS n=1,093) and introduces severe risk of selection bias and Type II error (false negatives). The Japanese "impersonal/nature-only" profile was constructed from this fragile foundation, making the East-West dichotomy a potential artifact of sample size inequality rather than genuine cultural difference.
+
+
+**Source Chain**:
+1. [E] Ohkado & Greyson (2014), "A Comparative Analysis of Japanese and Western NDEs" (JNDS)
+2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
+
+**Connections**:
+- → `CONSC-068` (supports): Sample size inequality explains apparent East-West differences
+- → `CONSC-066` (validates): Mission cases (Iida, Kiuchi) were missing from small samples
+- → `CONSC-063` (supports): Demonstrates methodological weakness in dichotomy construction
 
 ---
 
@@ -1708,7 +2036,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-026] The Fourth Church (New Jerusalem Dispensation)
 
-**Status**: validated | **Confidence**: 0.83
+**Status**: validated | **Confidence**: 0.85
 
 > The prophesied "New Church" arising after the spiritual consummation of the prior Christian age. The Last Judgment (executed in the spiritual world in 1757, per Swedenborg) shattered the "falsity from self-intelligence" (faith alone doctrine) that had suffocated the Third Church. Daniel's statue vision provides the archetypal narrative: Gold (Most Ancient Church, celestial love) → Silver (Ancient Church, charity) → Brass (Third Succeeding, obedience) → Iron/Clay (Christian Church, external truth mixed with self-intelligence). The "stone cut without hands" represents pure Divine Truth shattering human-constructed religious systems, becoming a "great rock filling the earth." Two essentials define the New Church: (1) acknowledging the Lord alone as God of heaven and earth; (2) life according to the Decalogue (turning from evil, doing good). This is the "Church of Charity and Life"—direct antidote to "faith alone."
 
@@ -2644,6 +2972,10 @@ Burridge demonstrated Gospel conformity to ancient biographical conventions.
 1. [S] Burridge, Richard. What Are the Gospels? A Comparison with Graeco-Roman Biography. 2nd ed. Grand Rapids: Eerdmans, 2004.
 2. [S] Society of Biblical Literature - Burridge Festschrift acknowledging paradigm shift
 
+**Connections**:
+- → `BIBL-005` (supports): Genre consensus informs Gospel interpretation methodology
+- → `BIBL-002` (supports): Establishes literary context for Synoptic studies
+
 ---
 
 #### [BIBL-024] Troeltsch Historical Method Principles
@@ -2659,6 +2991,11 @@ events exist in causal networks.
 **Source Chain**:
 1. [S] Troeltsch, Ernst. "Über historische und dogmatische Methode in der Theologie." 1898.
 2. [S] Troeltsch, Ernst. Religion in History. 1991.
+
+**Connections**:
+- → `BIBL-014` (supports): Foundational methodology for HCM
+- → `BIBL-001` (supports): Methodological principles underlying biblical scholarship
+- → `BIBL-022` (supports): Troeltsch principles inform textual analysis methodology
 
 ---
 
@@ -3015,6 +3352,11 @@ popularized and extended this thesis with additional evidence.
 1. [S] Bauer, Walter. Orthodoxy and Heresy in Earliest Christianity. 1934/1971.
 2. [S] Ehrman, Bart. Lost Christianities. 2003.
 3. [P] Chronicle of Edessa; Doctrine of Addai
+
+**Connections**:
+- → `EARLY-015` (supports): Evidence for early Christian diversity
+- → `EARLY-003` (supports): Contextualizes Jamesian vs Pauline divergence
+- → `GNOS-001` (supports): Bauer thesis relevant to understanding Gnostic Christianity
 
 ---
 
@@ -3393,6 +3735,12 @@ hidden wisdom, rulers of this age, god of this world).
 1. [S] Pagels, Elaine. The Gnostic Paul: Gnostic Exegesis of the Pauline Letters. Philadelphia: Trinity Press, 1975.
 2. [P] Nag Hammadi Library texts (Valentinian commentaries)
 
+**Connections**:
+- → `GNOS-005` (supports): Documents Gnostic interpretation of Paul
+- → `GNOS-007` (supports): Evidence for Gnostic appropriation of Pauline vocabulary
+- → `GNOS-003` (supports): Supports understanding of pneumatikos/psychikos distinction
+- → `GNOS-001` (supports): Primary evidence for Gnostic exegetical tradition
+
 ---
 
 #### [GNOS-018] Nag Hammadi Library Primary Evidence
@@ -3408,6 +3756,22 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 1. [P] Nag Hammadi Library texts (NHL)
 2. [S] Robinson, James M., ed. The Nag Hammadi Library. 3rd ed. Harper, 1988.
 3. [S] Meyer, Marvin. The Nag Hammadi Scriptures. HarperOne, 2007.
+
+**Connections**:
+- → `GNOS-001` (supports): Primary textual evidence for Gnostic Impulse
+- → `GNOS-002` (supports): Sources for Gnostic cosmology analysis
+- → `GNOS-003` (supports): Evidence for Gnostic soteriology
+- → `GNOS-004` (supports): Primary sources for divine spark doctrine
+- → `GNOS-006` (supports): Evidence for Gnostic Demiurge concept
+- → `GNOS-008` (supports): Sources for pneumatic anthropology
+- → `GNOS-009` (supports): Primary evidence for Gnostic salvation concepts
+- → `GNOS-010` (supports): Documents pleroma cosmology
+- → `GNOS-011` (supports): Evidence for Sophia mythology
+- → `GNOS-012` (supports): Sources for Gnostic resurrection doctrine
+- → `GNOS-013` (supports): Primary texts for Gospel of Thomas analysis
+- → `GNOS-014` (supports): Evidence for Gospel of Philip teachings
+- → `GNOS-015` (supports): Sources for Apocryphon of John
+- → `GNOS-016` (supports): Evidence for Treatise on Resurrection
 
 ---
 
@@ -3815,6 +4179,13 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 **Source Chain**:
 1. [S] Halbwachs, Maurice. On Collective Memory. Trans. Lewis Coser. U Chicago Press, 1992.
 2. [S] Halbwachs, Maurice. Les cadres sociaux de la mémoire. Paris: Alcan, 1925.
+
+**Connections**:
+- → `MYTH-018` (supports): Theoretical foundation for understanding oral tradition transformation
+- → `MYTH-019` (supports): Framework for analyzing social memory construction
+- → `MYTH-001` (supports): Foundational theory for mythic bricolage
+- → `MYTH-009` (supports): Explains memory reconstruction in mythological contexts
+- → `CROSS-002` (supports): Cross-domain application of collective memory theory
 
 ---
 

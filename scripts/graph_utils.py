@@ -481,36 +481,41 @@ CONNECTION_INVERSES = {
 }
 
 # Chain completeness rules - what connections should a node have?
-CHAIN_REQUIREMENTS = {
-    # Evidence nodes should validate hypotheses or support concepts
+# Chain requirements: Check connections to proper NODE TYPE LEVELS
+# The chain is: Foundational → Concept → Hypothesis → Evidence
+# Each node type should connect to adjacent levels
+CHAIN_LEVEL_REQUIREMENTS = {
     'evidence': {
-        'should_have_outbound': ['supports', 'validates'],
-        'warning': "Evidence node has no outbound epistemic connections (supports/validates) - not contributing to chain",
+        # Evidence should connect UP to hypothesis
+        'must_connect_to': ['hypothesis'],
+        'direction': 'upward',
+        'warning': "Evidence not connected to any hypothesis - floating evidence",
     },
-    # Hypothesis nodes should be validated by evidence AND support concepts
     'hypothesis': {
-        'should_have_inbound': ['supported_by', 'validated_by'],
-        'should_have_outbound': ['supports', 'developed_by', 'instantiates'],
-        'inbound_warning': "Hypothesis has no evidence support (supported_by/validated_by) - ungrounded claim",
-        'outbound_warning': "Hypothesis doesn't support any concept/foundational - not contributing to chain",
+        # Hypothesis should connect UP to concept AND DOWN to evidence
+        'must_connect_to': ['concept'],
+        'direction': 'upward',
+        'warning': "Hypothesis not connected to any concept - not grounded in conceptual framework",
+        'should_receive_from': ['evidence'],
+        'receive_warning': "Hypothesis has no evidence support - ungrounded claim",
     },
-    # Concept nodes should develop from foundational and be supported by evidence
     'concept': {
-        'should_have_inbound': ['supported_by', 'validated_by', 'develops'],
-        'should_have_outbound': ['develops', 'required_by', 'developed_by'],
-        'inbound_warning': "Concept has no epistemic support - not grounded in evidence",
-        'outbound_warning': "Concept doesn't develop into hypotheses - not operationalized",
+        # Concept should connect UP to foundational AND DOWN to hypothesis
+        'must_connect_to': ['foundational'],
+        'direction': 'upward', 
+        'warning': "Concept not connected to any foundational node - floating concept",
+        'should_receive_from': ['hypothesis'],
+        'receive_warning': "Concept has no hypothesis developing from it - not operationalized",
     },
-    # Foundational nodes are axioms - tested by fruits, not direct evidence
-    # They should develop into concepts
     'foundational': {
-        'should_have_outbound': ['develops', 'produces', 'requires'],
-        'outbound_warning': "Foundational premise doesn't develop into any concepts - isolated axiom",
+        # Foundational should connect DOWN to concept
+        'should_receive_from': ['concept'],
+        'receive_warning': "Foundational has no concepts developing from it - isolated axiom",
     },
-    # Synthesis nodes should integrate multiple sources
     'synthesis': {
-        'should_have_inbound': ['supported_by', 'validated_by', 'develops', 'contains'],
-        'inbound_warning': "Synthesis has no source connections - empty integration",
+        # Synthesis should receive FROM concepts (integration)
+        'should_receive_from': ['concept'],
+        'receive_warning': "Synthesis has no concept inputs - empty integration",
     },
 }
 
@@ -1180,68 +1185,92 @@ def check_missing_inverse_connections(nodes: dict) -> list:
 
 def check_chain_completeness(nodes: dict) -> list:
     """
-    Check that nodes have the required connections for complete chains.
+    Check that nodes connect to the proper NODE TYPE LEVELS in the chain.
     
-    The development flow (foundational→concept→hypothesis→evidence) and
-    epistemic flow (evidence→hypothesis→concept→foundational) should form
-    complete bidirectional chains.
+    Chain: Foundational → Concept → Hypothesis → Evidence
+    
+    Each node type must connect to adjacent levels:
+    - Evidence → must connect to hypothesis (upward)
+    - Hypothesis → must connect to concept (upward), should have evidence (downward)
+    - Concept → must connect to foundational (upward), should have hypothesis (downward)
+    - Foundational → should have concept (downward)
+    - Synthesis → should have concept inputs
     
     Returns:
         List of chain completeness warnings
     """
     warnings = []
     
+    # Build reverse index: for each node, which nodes connect TO it
+    inbound_connections = {nid: [] for nid in nodes}
+    for source_id, source_node in nodes.items():
+        for conn in source_node.get('connections', []):
+            target_id = conn.get('target')
+            if target_id in inbound_connections:
+                inbound_connections[target_id].append({
+                    'from': source_id,
+                    'from_type': source_node.get('node_type'),
+                    'conn_type': conn.get('type'),
+                })
+    
     for node_id, node in nodes.items():
         node_type = node.get('node_type', 'concept')
         
-        if node_type not in CHAIN_REQUIREMENTS:
+        if node_type not in CHAIN_LEVEL_REQUIREMENTS:
             continue
         
-        requirements = CHAIN_REQUIREMENTS[node_type]
+        requirements = CHAIN_LEVEL_REQUIREMENTS[node_type]
         connections = node.get('connections', [])
         
-        # Check outbound requirements (connections FROM this node)
-        if 'should_have_outbound' in requirements:
-            outbound_types = {c.get('type') for c in connections}
-            has_required = any(t in outbound_types for t in requirements['should_have_outbound'])
+        # Check OUTBOUND: must connect to certain node types (upward flow)
+        if 'must_connect_to' in requirements:
+            required_targets = requirements['must_connect_to']
+            
+            # Get node types of all targets
+            connected_to_types = set()
+            for conn in connections:
+                target_id = conn.get('target')
+                if target_id in nodes:
+                    connected_to_types.add(nodes[target_id].get('node_type'))
+            
+            has_required = any(t in connected_to_types for t in required_targets)
             
             if not has_required:
                 warnings.append({
-                    'type': 'missing_outbound',
+                    'type': 'missing_upward_chain',
                     'node': node_id,
                     'node_type': node_type,
-                    'warning': requirements.get('outbound_warning', 'Missing outbound connections'),
-                    'expected': requirements['should_have_outbound'],
-                    'fix': f"Add connection from {node_id} using one of: {', '.join(requirements['should_have_outbound'])}",
+                    'warning': requirements.get('warning', f'Not connected to required levels: {required_targets}'),
+                    'expected_levels': required_targets,
+                    'fix': f"Add connection from {node_id} to a {'/'.join(required_targets)} node",
                 })
         
-        # Check inbound requirements (connections TO this node from others)
-        if 'should_have_inbound' in requirements:
-            # Find all connections pointing to this node
-            inbound_types = set()
-            for other_id, other_node in nodes.items():
-                if other_id == node_id:
-                    continue
-                for conn in other_node.get('connections', []):
-                    if conn.get('target') == node_id:
-                        inbound_types.add(conn.get('type'))
+        # Check INBOUND: should receive connections from certain node types (downward flow)
+        if 'should_receive_from' in requirements:
+            required_sources = requirements['should_receive_from']
             
-            # Also check this node's own *_by connections (supported_by, validated_by, etc.)
+            # Get node types of all sources connecting to this node
+            receives_from_types = {inc['from_type'] for inc in inbound_connections[node_id]}
+            
+            # Also check this node's own outbound *_by connections (they indicate inbound semantically)
             for conn in connections:
-                if conn.get('type') in ['supported_by', 'validated_by', 'developed_by', 
-                                        'developed_from', 'instantiated_by', 'revealed_by']:
-                    inbound_types.add(conn.get('type').replace('_by', 's').replace('_from', 's'))
+                conn_type = conn.get('type', '')
+                target_id = conn.get('target')
+                if target_id in nodes and conn_type.endswith('_by'):
+                    # developed_by, supported_by, etc. means "I am developed BY target"
+                    # So target is effectively sending to us
+                    receives_from_types.add(nodes[target_id].get('node_type'))
             
-            has_required = any(t in inbound_types for t in requirements['should_have_inbound'])
+            has_required = any(t in receives_from_types for t in required_sources)
             
             if not has_required:
                 warnings.append({
-                    'type': 'missing_inbound',
+                    'type': 'missing_downward_chain',
                     'node': node_id,
                     'node_type': node_type,
-                    'warning': requirements.get('inbound_warning', 'Missing inbound connections'),
-                    'expected': requirements['should_have_inbound'],
-                    'fix': f"Add evidence/support connections TO {node_id}, or add supported_by/validated_by FROM {node_id}",
+                    'warning': requirements.get('receive_warning', f'No connections from required levels: {required_sources}'),
+                    'expected_sources': required_sources,
+                    'fix': f"Add connection from a {'/'.join(required_sources)} node to {node_id}",
                 })
     
     return warnings

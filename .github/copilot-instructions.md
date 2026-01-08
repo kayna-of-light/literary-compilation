@@ -259,7 +259,33 @@ python scripts/graph_utils.py list           # List all nodes
 python scripts/graph_utils.py list -d CONSC  # List by domain
 python scripts/graph_utils.py untraced       # Show untraced claims
 python scripts/graph_utils.py export-md      # Regenerate markdown
+python scripts/graph_utils.py warnings --type TYPE  # Show specific warnings
 ```
+
+### Connection Validation System
+
+The graph enforces a **strict epistemic chain** with no shortcuts:
+
+```
+Evidence → Hypothesis → Concept → Foundational
+                              ↘→ Synthesis (peer to foundational)
+```
+
+**Chain Rules (NO EXCEPTIONS)**:
+- Development flows DOWN level-by-level: foundational → concept → hypothesis → evidence
+- Epistemic support flows UP level-by-level: evidence → hypothesis → concept → foundational
+- Synthesis integrates FROM concepts (peer to foundational, not above it)
+- Skipping levels is NEVER allowed—prevents confidence inflation
+
+**Warning Types** (use `warnings --type TYPE` to filter):
+| Type | Description |
+|------|-------------|
+| `invalid_connection` | Connection type not allowed between these node_types |
+| `missing_inverse` | One-way connection without reverse |
+| `chain_incomplete` | Node missing connections to complete chain |
+| `epistemic_spread` | Evidence/hypothesis supporting >3 targets |
+| `insufficient_evidence` | Hypothesis with <2 evidence supporters |
+| `insufficient_integration` | Synthesis with <2 concept inputs |
 
 ### Domain ID Prefixes
 

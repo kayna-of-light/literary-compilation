@@ -659,6 +659,52 @@ def detect_proof_cycles(nodes: dict) -> list:
     return cycles
 
 
+def check_bidirectional_connections(nodes: dict) -> list:
+    """
+    Check for missing bidirectional connections.
+    
+    When node A connects to node B, there should generally be a reverse
+    connection from B back to A (though the relationship type may differ).
+    
+    Args:
+        nodes: Dictionary of node_id -> node data
+        
+    Returns:
+        List of tuples (source, target, rel_type) where reverse is missing
+    """
+    missing_reverse = []
+    
+    # Build set of all connections (source, target)
+    all_connections = set()
+    for node_id, node in nodes.items():
+        for conn in node.get('connections', []):
+            target = conn.get('target')
+            if target and target in nodes:
+                all_connections.add((node_id, target))
+    
+    # Check for missing reverse connections
+    for source, target in all_connections:
+        # Check if there's a connection back from target to source
+        target_node = nodes[target]
+        reverse_exists = any(
+            conn.get('target') == source 
+            for conn in target_node.get('connections', [])
+        )
+        
+        if not reverse_exists:
+            # Get the relationship type for the forward connection
+            source_node = nodes[source]
+            rel_type = None
+            for conn in source_node.get('connections', []):
+                if conn.get('target') == target:
+                    rel_type = conn.get('type')
+                    break
+            
+            missing_reverse.append((source, target, rel_type))
+    
+    return missing_reverse
+
+
 def validate_graph(graph: dict, verbose: bool = False) -> dict:
     """
     Comprehensive graph validation. Returns structured report with all issues.
@@ -705,6 +751,7 @@ def validate_graph(graph: dict, verbose: bool = False) -> dict:
         'missing_node_type': 0,
         'invalid_connections': 0,
         'circular_proof_chains': 0,
+        'missing_bidirectional': 0,
     }
     
     # Required fields for all nodes
@@ -899,6 +946,13 @@ def validate_graph(graph: dict, verbose: bool = False) -> dict:
         for cycle in cycles:
             cycle_str = ' -> '.join(cycle)
             issues.append(f"CIRCULAR PROOF: {cycle_str}")
+    
+    # Check for missing bidirectional connections
+    missing_reverse = check_bidirectional_connections(nodes)
+    stats['missing_bidirectional'] = len(missing_reverse)
+    if missing_reverse:
+        for source, target, rel_type in missing_reverse:
+            warnings.append(f"MISSING REVERSE: {source} -> {target} ({rel_type}) has no reverse connection")
     
     return {
         'issues': issues,

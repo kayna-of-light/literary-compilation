@@ -524,6 +524,15 @@ nodes:
     - target: CONSC-041
       type: supported_by
       note: Birthmarks show spiritual-physical correspondence
+    - target: SWED-055
+      type: supports
+      note: CDE provides evolutionary mechanism for church development in prophecy
+    - target: SWED-056
+      type: supports
+      note: CDE explains consciousness development driving expression
+    - target: SWED-057
+      type: supports
+      note: CDE explains maturation from indirect to internal perception
     notes: 'Promoted from hypothesis to foundational status. CDE is not peripheral—it''s
       the mechanism by which spiritual causation manifests in observable reality.
       It bridges empirical consciousness studies and Swedenborgian theology. The ruling
@@ -2441,15 +2450,15 @@ nodes:
       correspondential theory. They wrote from inner truth—what they "knew in their
       heart" as remains from the Jamesian movement. Fighting the Pauline infiltration,
       they constructed narratives using fragments at hand (oral traditions, memory,
-      theological understanding), expressing profound spiritual truth through the best
-      means available. They wrote correspondentially because **correspondential expression
-      is inherent** in humans guided by influx—not learned, but natural when the heart
-      is open to the Lord. This is not falsification; it''s **inner truth expressed
-      through providentially guided construction**. The bricolage gravitates toward
-      the Lord when writers are in the good of love. This reframes Gospel formation:
-      not "made up" (materialist), not "dictation" (fundamentalist), but **spiritual
-      truth flowing through hearts** using available remains—the same process spirits
-      use in the spiritual world without conscious thought about correspondences.
+      theological understanding), expressing profound spiritual truth through the
+      best means available. They wrote correspondentially because **correspondential
+      expression is inherent** in humans guided by influx—not learned, but natural
+      when the heart is open to the Lord. This is not falsification; it''s **inner
+      truth expressed through providentially guided construction**. The bricolage
+      gravitates toward the Lord when writers are in the good of love. This reframes
+      Gospel formation: not "made up" (materialist), not "dictation" (fundamentalist),
+      but **spiritual truth flowing through hearts** using available remains—the same
+      process spirits use in the spiritual world without conscious thought about correspondences.
 
       '
     created: 2024-12-27
@@ -2613,6 +2622,9 @@ nodes:
     - target: MYTH-003
       type: parallels
       note: Memory Code preserved in ritual systems
+    - target: SWED-055
+      type: supports
+      note: Magi tradition validates prophecy as perceiving truth + correspondences
     notes: '"The Three Kings are remembered even on the natural plane." Astronomical
       timing of Incarnation embedded in ancient symbolic systems.
 
@@ -3038,6 +3050,9 @@ nodes:
     - target: BIBL-001
       type: complements
       note: HCM confirms non-literality; correspondences supply meaning
+    - target: SWED-055
+      type: parallels
+      note: Both use correspondential interpretation vs literalism
     notes: 'Two-tiered reading at its clearest: science shows what Genesis is NOT;
       correspondences show what it IS.
 
@@ -3805,6 +3820,9 @@ nodes:
     - target: EARLY-001
       type: parallels
       note: Jamesian movement as similar preservation effort
+    - target: SWED-055
+      type: supports
+      note: Magi demonstrate prophecy mechanism—perceiving truth + imposing correspondences
     notes: '"The Magi''s journey was the final act of the ''Ancient Church,'' passing
       accumulated wisdom to the new Christian dispensation. Their gifts were a complete
       theological acknowledgment in the universal language of heaven. The Magi''s
@@ -12248,8 +12266,8 @@ nodes:
       type: requires
       note: Correspondence ontology is foundation of thesis
     - target: CONSC-001
-      type: instantiates
-      note: CDE as mechanism for consciousness-driven memetic evolution
+      type: validated_by
+      note: CDE as testable mechanism validates framework hypothesis
     - target: SWED-001
       type: requires
       note: Doctrine of Correspondences is the interpretive method
@@ -12803,8 +12821,8 @@ nodes:
       type: validates
       note: Framework thesis as Fourth Church vessel
     - target: CONSC-001
-      type: requires
-      note: CDE as mechanism of church evolution
+      type: supported_by
+      note: CDE explains mechanism of church evolution
     - target: EARLY-012
       type: requires
       note: Paul's corruption necessitates new vessel
@@ -19244,6 +19262,7 @@ extended_nodes:
     created: '2026-01-08'
     updated: '2026-01-08'
     trace_status: complete
+    confidence: 0.3
   MYTH-020:
     title: Halbwachs Collective Memory Framework
     domain: MYTH
@@ -19974,7 +19993,8 @@ extended_nodes:
     source_chain:
     - type: P
       ref: Swedenborg, Arcana Coelestia §§ 1259, 1690, 3325
-      note: Metals correspond to successive church states; AC 3325 groups legs+feet as fourth state
+      note: Metals correspond to successive church states; AC 3325 groups legs+feet
+        as fourth state
     - type: P
       ref: Swedenborg, Apocalypse Explained §§ 176, 411, 483, 519, 410
       note: 'AE 176 distinguishes legs from feet; AE 411/483/519/410 show continuous
@@ -19991,7 +20011,8 @@ extended_nodes:
         1993.'
       note: HCM scholarship establishing Maccabean-era composition (167-164 BCE)
     - type: T
-      ref: data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual Development Through Daniel's Prophecy.md
+      ref: data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual
+        Development Through Daniel's Prophecy.md
       note: Comprehensive 18,750-word thesis synthesizing all aspects of the correspondence
     - type: T
       ref: data/02_Swedenborgian_Theology/Conversation relating the Fourth Church
@@ -20023,6 +20044,9 @@ extended_nodes:
         pattern
       strength: strong
     connections:
+    - target: CROSS-020
+      type: instantiates
+      note: Statue-stone image is the New Church emergence prophecy
     - target: SWED-001
       type: instantiates
       note: Specific application of Doctrine of Correspondences
@@ -20230,23 +20254,23 @@ extended_nodes:
         he was hypothesis-testing, not channeling inerrant revelation
     source_chain:
     - type: P
-      ref: 'Swedenborg, Spiritual Diary §4783'
+      ref: Swedenborg, Spiritual Diary §4783
       note: Africans "of the celestial genius" more receptive than others
     - type: P
-      ref: 'Swedenborg, Spiritual Diary §5946'
+      ref: Swedenborg, Spiritual Diary §5946
       note: 'Africans "think interiorly"; writings communicated: Heaven & Hell, Last
         Judgment, Earths in Universe, White Horse, Doctrine of New Jerusalem - "take
         thence those things which they consider useful"'
     - type: P
-      ref: 'Swedenborg, Heaven and Hell §326'
+      ref: Swedenborg, Heaven and Hell §326
       note: Africans especially valued in heaven, accept good and true things readily
     - type: P
-      ref: 'Swedenborg, Supplements (Continuation of Last Judgment) §75'
+      ref: Swedenborg, Supplements (Continuation of Last Judgment) §75
       note: Africans think more spiritually, understood Divine Human
     - type: P
-      ref: 'Swedenborg, Supplements §76'
-      note: 'Angelic spirits communicating Teachings on Lord, Word, Life to Africa;
-        "no worshipful people who do not put their religion into practice"'
+      ref: Swedenborg, Supplements §76
+      note: Angelic spirits communicating Teachings on Lord, Word, Life to Africa;
+        "no worshipful people who do not put their religion into practice"
     - type: T
       ref: NotebookLM synthesis of Swedenborg corpus re New Church establishment
       note: Comprehensive source extraction
@@ -20263,14 +20287,13 @@ extended_nodes:
     - description: Daniel statue presented through "multiple valid angles" (degrees
         of mind vs. historical churches)—framework accommodates complementary perspectives
       strength: strong
-      detail: 'Not contradiction but different descriptive frameworks: biological (spiritual
-        degrees) vs. geographical (historical sequence)'
+      detail: 'Not contradiction but different descriptive frameworks: biological
+        (spiritual degrees) vs. geographical (historical sequence)'
     - description: 18th-century science errors (ovism) contradict his own correspondence
         ontology
       strength: strong
     - description: '"Africa" likely correspondential (celestial genius = internal
         state) not literal geography'
-      strength: moderate
       strength: moderate
     connections:
     - target: CROSS-001
@@ -20311,6 +20334,7 @@ extended_nodes:
     created: '2026-01-08'
     updated: '2026-01-08'
     trace_status: complete
+    confidence: 0.3
   SWED-052:
     title: 'Multiple Interpretive Angles: Degrees vs. Historical Churches'
     domain: SWED
@@ -20336,10 +20360,12 @@ extended_nodes:
       ref: Swedenborg, Arcana Coelestia § 4690
       note: '"The Word is universal"—prophecies apply to church in general'
     - type: T
-      ref: data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual Development Through Daniel's Prophecy.md
+      ref: data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual
+        Development Through Daniel's Prophecy.md
       note: Section II develops multiple angles framework with mountain climber analogy
     evidence:
-    - description: Swedenborg explicitly maps metals to both degrees and historical periods
+    - description: Swedenborg explicitly maps metals to both degrees and historical
+        periods
       strength: strong
     - description: AC 4690 establishes universal prophetic application principle
       strength: strong
@@ -20362,6 +20388,7 @@ extended_nodes:
     created: '2026-01-08'
     updated: '2026-01-08'
     trace_status: partial
+    confidence: 0.3
   SWED-053:
     title: Corpus Variations as Progressive Revelation
     domain: SWED
@@ -20392,7 +20419,8 @@ extended_nodes:
       note: '"The Lord doesn''t break someone''s view but gradually guides into deeper
         truth"'
     - type: T
-      ref: data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual Development Through Daniel's Prophecy.md
+      ref: data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual
+        Development Through Daniel's Prophecy.md
       note: Section III analyzes corpus variations; Section 3.2 details cross correspondence
         witnessing Jewish-Christian transition
     evidence:
@@ -20418,15 +20446,16 @@ extended_nodes:
       "guided influx through developing vessel" applies Swedenborg''s doctrine of
       influx to analyze his own development. The three-stage progression (general
       recognition → structural distinction → universal pattern) is analytical framework
-      created by thesis author. This integrates "progressive revelation" (divine
-      guidance) with "hypothesis-testing" (human cognition): influx works THROUGH
-      Swedenborg''s rational processes, not bypassing them. Primary Swedenborg citations
-      (AC § 3325, AE §§ 176, 411, HH § 197) require verification beyond thesis quotes.
+      created by thesis author. This integrates "progressive revelation" (divine guidance)
+      with "hypothesis-testing" (human cognition): influx works THROUGH Swedenborg''s
+      rational processes, not bypassing them. Primary Swedenborg citations (AC § 3325,
+      AE §§ 176, 411, HH § 197) require verification beyond thesis quotes.
 
       '
     created: '2026-01-08'
     updated: '2026-01-08'
     trace_status: partial
+    confidence: 0.0
   SWED-054:
     title: 'Developmental Continuity: Child Maturation Thesis'
     domain: SWED
@@ -20447,7 +20476,8 @@ extended_nodes:
       '
     source_chain:
     - type: T
-      ref: data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual Development Through Daniel's Prophecy.md
+      ref: data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual
+        Development Through Daniel's Prophecy.md
       note: Section IV develops child maturation mapping with detailed stage analysis
     - type: P
       ref: Swedenborg, Arcana Coelestia § 1259
@@ -20479,27 +20509,32 @@ extended_nodes:
     created: '2026-01-08'
     updated: '2026-01-08'
     trace_status: partial
+    confidence: 0.3
   SWED-055:
     title: Prophecy as Perception of Eternal Truth
     domain: SWED
     node_type: hypothesis
     status: preliminary
-    definition: 'Ancient prophecies (Saoshyant, Messiah, dying-rising god patterns)
-      perceive eternal truth upward to spiritual reality, not forward to temporal
-      future. The Lord ALWAYS expresses through aligned souls; what develops is consciousness
-      capacity to perceive this in ultimates. Prophecies converge across cultures
-      (virgin birth, celestial sign, defeat of evil, world renovation) because they
-      accurately perceive HOW THE LORD EXPRESSES through unobstructed humanity, not
-      predicting a future person. "There is no future—only truth and the perception
-      of it." Jesus (likely volunteer soul) demonstrated complete expression through
-      zero obstruction, making visible what was always true: the Lord continuously
-      expressing through aligned souls. NDE experiencers recognize the Being of Light
-      as Jesus because they perceive the same eternal Lord expressing.
+    definition: 'Ancient prophecies (Saoshyant, Messiah) perceive eternal truth—the
+      Lord as He expresses through unobstructed humanity—not temporal future events.
+      Saoshyant and similar figures are ARCHETYPES (states of pure love and truth)
+      not biographical predictions. Prophets perceive spiritual reality upward and
+      write it correspondentially: virgin birth = pure reception without proprium,
+      celestial sign = spiritual light appearing, defeat of evil = proprium conquered.
+      Gospel writers IMPOSED these correspondences onto proto-Luke narratives to express
+      spiritual truth through Jesus—historically inaccurate but correspondentially
+      TRUE. Prophecies are "self-fulfilling" because truth grounds itself: spiritual
+      reality (Lord as He eternally IS) progresses toward expression in ultimates.
+      Knowing truth = knowing "future" because reality moves toward truth grounding.
+      Jesus demonstrated complete expression (zero obstruction), making visible what
+      was always true. NDE experiencers recognize the Being of Light because they
+      perceive the same eternal Lord expressing.
 
       '
     source_chain:
     - type: T
-      ref: data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual Development Through Daniel's Prophecy.md
+      ref: data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual
+        Development Through Daniel's Prophecy.md
       note: Section V develops prophecy mechanism with Saoshyant convergence analysis
     - type: S
       ref: 'Boyce, Mary. Zoroastrians: Their Religious Beliefs and Practices. 1979.'
@@ -20508,11 +20543,15 @@ extended_nodes:
       ref: Daniel 2:31-45
       note: Prophecy as perceiving pattern written into history
     evidence:
-    - description: Prophetic convergence across disconnected cultures shows common
-        perception
+    - description: Prophetic convergence across disconnected cultures (virgin birth,
+        celestial sign, defeat of evil) shows common perception of spiritual archetypes
       strength: moderate
-    - description: NDE experiencers identify Being of Light cross-culturally
+    - description: NDE experiencers identify Being of Light cross-culturally, accessing
+        same eternal truth ancient prophets perceived
       strength: strong
+    - description: Gospel writers imposed correspondences (virgin birth probably didn't
+        happen historically) to express spiritual truth through Jesus
+      strength: moderate
     connections:
     - target: SWED-049
       type: develops
@@ -20523,17 +20562,29 @@ extended_nodes:
     - target: SWED-056
       type: requires
       note: Jesus as demonstration depends on Lord always expressing
-    notes: 'FRAMEWORK PHILOSOPHY: "There is no future—only truth and the perception
-      of it" is framework formulation, not Swedenborg''s explicit language. This
-      should be understood epistemologically (prophecy perceives eternal patterns,
-      not temporal predictions) rather than as radical ontology denying temporal succession.
-      Clarification needed on how this integrates with developmental continuity (SWED-054)
-      which requires temporal progression. TRACE NEEDED: Boyce (1979) requires page-level
-      citation for Saoshyant claims. The claim that Saoshyant "predates Jewish messianic
-      expectations" needs scholarly sources establishing: (1) Gathas dating, (2) Jewish
-      messianic expectation emergence dating, (3) Chronological precedence or contact
-      theories. The Zarathustran dating range (1200-600 BCE) is too broad for definitive
-      "predates" claim.
+    - target: EARLY-005
+      type: supported_by
+      note: Magi as carriers of correspondence knowledge validate prophecy mechanism
+    - target: SWED-019
+      type: supported_by
+      note: Magi demonstrate prophecy as perceiving truth + imposing correspondences
+    - target: CONSC-001
+      type: supported_by
+      note: CDE provides evolutionary mechanism for church development
+    - target: MYTH-004
+      type: parallels
+      note: Both use correspondential interpretation vs literalism
+    notes: 'FRAMEWORK SYNTHESIS: The prophecy mechanism (consciousness perceiving
+      truth + writers imposing correspondences + reality progressing toward truth
+      grounding) is framework synthesis applying Swedenborg''s correspondences doctrine
+      to prophecy formation. The claim that virgin birth "probably didn''t happen
+      historically" represents framework position based on historical-critical scholarship,
+      not Swedenborg''s explicit teaching. Saoshyant/Zoroaster as ARCHETYPES parallels
+      Swedenborg''s treatment of Adam/Noah as states/groups rather than individuals.
+      TRACE NEEDED: Boyce (1979) requires page-level citation. The claim that Saoshyant
+      prophecy "predates Jewish messianic expectations" needs scholarly sources establishing:
+      (1) Gathas dating, (2) Jewish messianic expectation emergence dating, (3) Chronological
+      precedence or contact theories.
 
       '
     critic_notes:
@@ -20547,15 +20598,17 @@ extended_nodes:
         status: open
       - id: 2
         type: definition-issue
-        description: '"No future" metaphysics needs clarification—epistemological
-          (perceiving patterns not predicting) vs. ontological (time doesn''t exist).'
+        description: '"No future" metaphysics clarified in Section V rewrite: epistemological
+          (knowing truth = knowing "future" because reality progresses toward truth
+          grounding), not ontological denial of temporal succession.'
         breaks_proof: false
-        status: open
+        status: resolved
       proof_breaking_open: 0
-      detail_issues: 2
+      detail_issues: 1
     created: '2026-01-08'
     updated: '2026-01-08'
     trace_status: partial
+    confidence: 0.892
   SWED-056:
     title: 'Divine Human as Lord Expressing: Jesus Demonstration'
     domain: SWED
@@ -20563,26 +20616,28 @@ extended_nodes:
     status: preliminary
     definition: 'Jesus demonstrates complete expression of what is universally true:
       the Lord continuously expressing through aligned souls. The difference is degree
-      (zero obstruction) not kind (divine vs. human category). Every act of love through
-      any person IS the Lord expressing—Jesus proved this completely by becoming fully
-      transparent vessel. "There is no image apart from the Lord" (Epistle on Divine
-      Marriage). Jesus IS the Divine Human not because categorically different but
-      because the Lord fully expresses through him—not two things (Jesus + divinity)
-      but ONE: the Lord in ultimates through unobstructed humanity. The teaching:
-      when we see wisdom through ANY person, that''s the Lord expressing (not "inspired
-      by" but IS). Degree varies by obstruction; SOURCE always the Lord.
+      (zero obstruction) not kind (divine vs. human category). There is no distinction
+      between Jesus and the Lord because the expression IS what we perceive—not the
+      vessel in itself but the Lord expressing through it. Every act of love through
+      any person IS the Lord expressing. "There is no image apart from the Lord" (Epistle
+      on Divine Marriage). Jesus IS the Divine Human because the Lord fully expresses
+      through him—not two things (Jesus + divinity) but ONE: the Lord in ultimates
+      through unobstructed humanity. An angel who expresses the Lord is not the Lord
+      in itself, but the expression is what we perceive, not the angel in itself.
+      Degree varies by obstruction; SOURCE always the Lord.
 
       '
     source_chain:
     - type: T
-      ref: data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual Development Through Daniel's Prophecy.md
+      ref: data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual
+        Development Through Daniel's Prophecy.md
       note: Section VI synthesizes christology of expression with zero obstruction
     - type: T
       ref: data/00_Framework/Epistle - The Divine Marriage and the Expression of the
         Lord in Ultimates.md
-      note: 'Ontological foundation (concept present; exact phrase "no image apart
+      note: Ontological foundation (concept present; exact phrase "no image apart
         from Lord" not found—paraphrase of Section IV "soul through which Lord flows
-        without obstruction IS the Lord in ultimates")'
+        without obstruction IS the Lord in ultimates")
     - type: P
       ref: John 10:30
       note: '"I and the Father are one"'
@@ -20608,18 +20663,24 @@ extended_nodes:
     - target: CONSC-021
       type: supported_by
       note: Being of Light as Lord expressing in near-death state
-    - target: CONSC-020
-      type: requires
-      note: Volunteer soul hypothesis provides mechanism for Jesus's zero obstruction
-        capacity
+    - target: CONSC-001
+      type: supported_by
+      note: CDE explains consciousness development driving expression
+    - target: CONSC-062
+      type: supported_by
+      note: Purposive economy shows consciousness persisting with purpose
+    - target: CONSC-063
+      type: supported_by
+      note: Western NDE falsification - consciousness persists cross-culturally
     notes: 'FRAMEWORK EXTENSION: The framework that "Jesus demonstrates complete expression"
       rather than being "categorically unique" is significant theological extension.
       The formulation "degree (zero obstruction) not kind (different category)" is
-      framework language, not Swedenborg''s explicit terminology. The claim Jesus
-      was "likely volunteer soul" is hypothesis connecting to consciousness studies
-      domain (past-life/reincarnation framework). Traditional Swedenborg treats Jesus''s
-      Divine conception as unique; framework reinterprets this as zero obstruction
-      demonstrating universal principle.
+      framework language, not Swedenborg''s explicit terminology. The distinction
+      between expression (what we perceive) and vessel (angel/soul in itself) clarifies
+      that there is no separation between Jesus and the Lord because the Lord fully
+      expressing IS the Divine Human—we perceive the expression, not the vessel. Traditional
+      Swedenborg treats Jesus''s Divine conception as unique; framework reinterprets
+      this as zero obstruction demonstrating universal principle.
 
       '
     critic_notes:
@@ -20636,38 +20697,54 @@ extended_nodes:
     created: '2026-01-08'
     updated: '2026-01-08'
     trace_status: partial
+    confidence: 0.85
   SWED-057:
-    title: Stone Shatters Image Not Churches
+    title: 'Stone and Statue: Internal vs Indirect Perception'
     domain: SWED
     node_type: concept
     status: preliminary
-    definition: 'The stone (New Jerusalem/New Church) shatters the IMAGE (externalized
-      representation, proprium''s claim) not the spiritual substance churches accomplished.
-      Christian church BEGINS from iron-clay mixing that emerges at Jewish church''s
-      end—continuous transition witnessed by cross correspondence: Jesus refuses Jewish
-      falsified truth (vinegar-with-gall) but accepts Christian ignorant mixture (plain-vinegar)
-      because falsity from ignorance can be purified. Entire Christian dispensation
-      carries iron-clay characteristics (faith separated from charity, truth without
-      good) from inception. Earth itself is true church (souls developing); statue
-      is externalized image. Stone "cut without hands" rolls on its own—truth self-establishing.
+    definition: 'The statue represents indirect perception—humanity perceiving the
+      Lord THROUGH external structures (doctrines, rituals, images) rather than internally.
+      This mediation is NECESSARY for consciousness not yet capable of direct reception.
+      The stone represents internal perception—direct reception of the Lord from heart,
+      "not by hands" (not by power of ultimates). When stone strikes feet, the statue
+      becomes "like chaff from summer threshing-floors"—the HARVEST metaphor: grain
+      (received good) preserved eternally, chaff (empty delivery mechanisms) carried
+      away by wind (truth), "no place found" = absence of need. Not judgment but completion:
+      external forms served their purpose mediating truth until internal perception
+      could awaken. Stone grows into mountain (Divine Love) filling earth (church
+      as inner state). Maturation from indirect to direct perception, not destruction.
 
       '
     source_chain:
     - type: T
-      ref: data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual Development Through Daniel's Prophecy.md
-      note: Section VI synthesizes image vs. substance distinction with self-establishing
-        truth
+      ref: data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual
+        Development Through Daniel's Prophecy.md
+      note: 'Section VI develops statue as necessary mediation, stone as internal
+        perception, harvest metaphor (6.1: Statue as Necessary Mediation, 6.2: The
+        Harvest, 6.3: Stone as Internal Perception, 6.5: Mountain as Divine Love)'
     - type: P
       ref: Daniel 2:34-35
-      note: Stone cut without hands strikes statue, grows into mountain
+      note: '"Became like chaff from summer threshing-floors, and the wind carried
+        them away, and no place was found for them"—harvest metaphor showing grain
+        (received good) separated from chaff (empty forms)'
     - type: P
       ref: Swedenborg, True Christian Religion § 760
       note: Stone represents New Church
+    - type: T
+      ref: data/02_Swedenborgian_Theology/A Library of Biblical Correspondences in
+        Nature and Objects According to Emanuel Swedenborg.md
+      note: 'Correspondences: hands = ultimates as to power, wind = influx of truth,
+        mountain = Divine Love, earth = church as inner state'
     evidence:
-    - description: Stone strikes feet but entire statue falls—all externalization
-        ends
+    - description: 'Harvest metaphor in Daniel 2:35: "like chaff from summer threshing-floors"
+        = grain (received good) separated from chaff (delivery mechanisms)'
       strength: strong
-    - description: Paul-James division at beginning shows iron-clay by design
+    - description: '"Not by hands" = not by power of ultimates, internal perception
+        establishing itself from within'
+      strength: strong
+    - description: Statue served as necessary mediation for consciousness not capable
+        of direct internal perception
       strength: moderate
     connections:
     - target: SWED-049
@@ -20682,19 +20759,27 @@ extended_nodes:
     - target: EARLY-002
       type: requires
       note: James-Paul split created iron-clay mixture
-    notes: 'FRAMEWORK EXTENSION: The "image vs. substance" distinction is framework
-      synthesis. The claim that Christian church BEGINS from iron-clay state (rather
-      than degrading into it) corrects earlier misunderstanding—Jewish church progresses
-      iron → iron-clay at end, Christian begins from this same mixing. Cross correspondence
-      (Jesus refusing Jewish falsified truth but accepting Christian ignorant mixture)
-      witnesses this transition per AE §§ 483, 519, 410. "Earth itself is true church"
-      extends toward universalism. "Stone cut without hands = truth self-establishing"
-      is framework epistemology. TCR § 760 requires primary source verification.
+    - target: CONSC-001
+      type: supported_by
+      note: CDE explains maturation from indirect to internal perception
+    - target: CROSS-020
+      type: instantiates
+      note: Stone growing into mountain is New Church emergence
+    notes: 'FRAMEWORK SYNTHESIS: Section VI rewrite (January 2026) shifted from negative
+      framing (destroying proprium''s claim) to positive (completing development from
+      indirect to direct perception). The harvest metaphor from Daniel 2:35 ("like
+      chaff from summer threshing-floors") shows grain preserved, chaff removed—not
+      judgment but completion of purpose. "Wind carried them away" = truth naturally
+      removes what''s no longer useful. "No place found" = absence of need. The statue-as-necessary-mediation
+      recognizes that people perceived the Lord THROUGH structures; without them many
+      couldn''t perceive Him at all. Stone as internal perception = maturation from
+      indirect to direct reception.
 
       '
     created: '2026-01-08'
     updated: '2026-01-08'
     trace_status: partial
+    confidence: 0.595
   CONSC-062:
     title: 'Purposive Economy Principle: Light Engagement Calibrated to Need'
     domain: CONSC
@@ -20732,6 +20817,9 @@ extended_nodes:
 
       '
     connections:
+    - target: SWED-056
+      type: supports
+      note: Purposive economy shows consciousness persisting with purpose
     - target: CONSC-021
       type: develops
       note: Extends Being of Light statistics to mission-specific analysis
@@ -20812,6 +20900,9 @@ extended_nodes:
     - target: CONSC-004
       type: supports
       note: Supports constant states/variable forms model
+    - target: SWED-056
+      type: supports
+      note: Western NDE falsification validates cross-cultural consciousness persistence
     critic_notes:
       last_reviewed: '2025-01-07'
       critiques:

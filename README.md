@@ -100,9 +100,11 @@ The research organizes into six interconnected domains:
 │   ├── 05_Gnostic_Analysis/        # Gnostic impulse, proprium (5 files)
 │   └── 06_Mythological_Studies/    # Bricolage, proto-myths, Exodus (15 files)
 ├── graph/
-│   ├── knowledge_graph.yaml        # Structured concept graph (primary data)
+│   ├── knowledge_graph.yaml        # Structured concept graph (214 nodes, 741 connections)
 │   └── knowledge_graph.md          # Auto-generated readable view
 ├── docs/
+│   ├── GRAPH_STRUCTURE_ANALYSIS_2026-01-08.md  # Comprehensive graph analysis
+│   ├── NEXT_STEPS.md               # Current priorities and pending work
 │   └── research_questions.md       # Open questions for external research
 ├── output/                         # Generated compilations
 ├── scripts/
@@ -110,6 +112,27 @@ The research organizes into six interconnected domains:
 ├── environment.yml                 # Conda environment specification
 └── README.md
 ```
+
+## Knowledge Graph
+
+**Status (January 8, 2026):** 214 nodes, 741 connections, **80% complete**
+
+The project maintains a structured knowledge graph capturing concepts, evidence, and relationships across all domains. Recent updates:
+
+- ✅ **Foundational layer strengthened:** 9 foundational nodes establishing ontology, epistemology, validation criteria
+- ✅ **Synthesis layer added:** 22 CROSS-domain nodes connecting evidence to theological interpretation
+- ✅ **Core questions answered:** Framework thesis, empirical validation, falsification criteria, Jesus/Paul problems resolved
+
+**Key Utilities:**
+```bash
+python scripts/graph_utils.py stats              # Show statistics
+python scripts/graph_utils.py validate           # Check integrity
+python scripts/graph_utils.py confidence         # Show confidence scores
+python scripts/graph_utils.py list -d CROSS      # List nodes by domain
+python scripts/graph_utils.py export-md          # Regenerate markdown view
+```
+
+See [docs/NEXT_STEPS.md](docs/NEXT_STEPS.md) for pending priorities.
 
 ## Setup
 

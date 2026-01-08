@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-07 19:15*
+*Last exported: 2026-01-08 14:50*
 
 ---
 
@@ -10,24 +10,24 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 202 |
+| Total Nodes | 229 |
 | Total Connections | 741 |
 | Untraced Claims | 9 |
 
 ### By Status
 
-- **validated**: 188
-- **preliminary**: 9
-- **contested**: 5
+- **validated**: 209
+- **preliminary**: 14
+- **contested**: 6
 
 ### By Domain
 
-- **Cross-Domain** (CROSS): 10
-- **Consciousness Studies** (CONSC): 68
-- **Swedenborgian Theology** (SWED): 47
+- **Cross-Domain** (CROSS): 22
+- **Consciousness Studies** (CONSC): 71
+- **Swedenborgian Theology** (SWED): 56
 - **Biblical Scholarship** (BIBL): 22
-- **Early Christian History** (EARLY): 17
-- **The Gnostic Impulse** (GNOS): 18
+- **Early Christian History** (EARLY): 19
+- **The Gnostic Impulse** (GNOS): 19
 - **Mythological Studies** (MYTH): 20
 
 ---
@@ -37,11 +37,11 @@
 ### Consciousness Studies
 *NDEs, past-life research, CDE hypothesis, post-mortem existence*
 
-#### [CONSC-001] Consciousness-Driven Evolution (CDE) Hypothesis
+#### [CONSC-001] Consciousness-Driven Evolution (CDE) - Consciousness as Causal Force
 
-**Status**: preliminary | **Confidence**: 0.9
+**Status**: validated | **Confidence**: 0.7
 
-> Consciousness is a fundamental, active force in memetic (cultural) evolution, not merely an epiphenomenal byproduct of neural activity. The collective "ruling love" of a population creates selective pressures that push societies along one of two evolutionary trajectories: toward coherence/unity or fragmentation/conflict.
+> Consciousness is the fundamental, active force in reality—not an epiphenomenal byproduct of neural activity. In cultural evolution, the collective "ruling love" of a population creates selective pressures that push societies along one of two evolutionary trajectories: toward coherence/unity (love of neighbor) or fragmentation/conflict (love of self). CDE is the empirical face of the Swedenborgian influx doctrine: consciousness flows from spiritual source and shapes physical expression.
 
 
 **Source Chain**:
@@ -49,15 +49,21 @@
 2. [E] UVA DOPS Database
 3. [S] Axelrod, R. The Evolution of Cooperation (1984)
 4. [E] https://github.com/marconian/structured-data-analysis (projects/nde) (CONSC-044, CONSC-045)
+5. [P] Swedenborg, Divine Love and Wisdom §§ 1-13
 
 **Connections**:
 - → `CROSS-003` (requires): Ruling love polarity drives the selective pressure
-- → `CONSC-002` (supported_by): DOPS data provides empirical foundation
+- → `CONSC-002` (supported_by): DOPS data provides empirical foundation for consciousness persistence
 - → `MYTH-002` (develops): Explains divergent myth trajectories from proto-myths
 - → `CONSC-010` (supported_by): Volunteer souls = direct influx of love-aligned consciousness
 - → `CONSC-045` (supported_by): Correspondences show consciousness-structured reality
 - → `CONSC-044` (supported_by): Entity ecosystem demonstrates organized spiritual system
-- → `SWED-002` (parallels): CDE is empirical face of divine influx doctrine
+- → `SWED-002` (instantiates): CDE is empirical face of divine influx doctrine
+- → `CROSS-011` (requires): Depends on correspondence ontology—consciousness not produced but expressed
+- → `CROSS-013` (instantiates): Love ontology—receptivity to influx is what creates being
+- → `CROSS-015` (validated_by): CDE is testable mechanism in framework thesis
+- → `CONSC-057` (supported_by): Terminal lucidity falsifies brain-production hypothesis
+- → `CONSC-041` (supported_by): Birthmarks show spiritual-physical correspondence
 
 ---
 
@@ -1116,11 +1122,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 ---
 
-#### [CONSC-058] Filter/Transmission Theory of Consciousness
+#### [CONSC-058] Filter/Transmission Theory of Consciousness - Critique
 
-**Status**: validated | **Confidence**: 0.752
+**Status**: contested | **Confidence**: 0.502
 
-> The hypothesis that the brain functions as a filter, receiver, or reducing valve for consciousness rather than its generator (Production Theory). Originally proposed by William James and Henri Bergson, this model predicts that as brain function degrades, consciousness may expand rather than diminish—explaining paradoxes like terminal lucidity, NDE hyper-lucidity during flat EEG, and veridical perception during clinical death. The dying process represents the progressive lifting of the brain's filtering mechanism.
+> The hypothesis that the brain functions as a filter, receiver, or reducing valve for consciousness rather than its generator (Production Theory). Originally proposed by William James and Henri Bergson, this model attempts to explain paradoxes like terminal lucidity and NDE hyper-lucidity. However, filter theory PRESERVES Cartesian dualism by maintaining two separate substances—consciousness (transmitted) and brain (transmitter). This framework rejects filter theory in favor of correspondence ontology: the brain does not filter consciousness; the brain IS consciousness expressed in ultimates. Physical substance is not separate from spiritual substance—it is direct expression.
 
 
 **Source Chain**:
@@ -1129,12 +1135,15 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [S] Kelly EF, Kelly EW, Crabtree A, Gauld A, Grosso M, Greyson B. 'Irreducible Mind: Toward a Psychology for the 21st Century.' Rowman & Littlefield, 2007.
 4. [S] Huxley, Aldous. 'The Doors of Perception' (1954)
 5. [T] data/01_Consciousness_Studies/Understanding the Dying Process.md
+6. [T] .github/copilot-instructions.md
 
 **Connections**:
-- → `CONSC-001` (supports): Filter Theory is one mechanism for consciousness primacy
-- → `CONSC-043` (opposes): Filter Theory vs Production Theory (DBH assumes production)
-- → `CONSC-057` (explains): Filter Theory explains terminal lucidity paradox
-- → `CONSC-004` (explains): Explains hyper-lucidity despite compromised brain
+- → `CONSC-001` (contrasts): CDE requires correspondence ontology, not filter dualism
+- → `CONSC-043` (opposes): Filter Theory vs Production Theory—both assume dualism
+- → `CONSC-057` (contrasts): Terminal lucidity explained by correspondence, not filter removal
+- → `CONSC-004` (contrasts): Hyper-lucidity explained by soul continuing, not filter lifted
+- → `CROSS-011` (contradicts): Correspondence ontology dissolves filter theory's dualism
+- → `CROSS-012` (contradicts): Soul accumulation explains phenomena without filter mechanism
 
 ---
 
@@ -1204,7 +1213,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-062] Purposive Economy Principle: Light Engagement Calibrated to Need
 
-**Status**: validated | **Confidence**: 0.823
+**Status**: validated | **Confidence**: 0.9
 
 > The Purposive Economy hypothesis posits that Being of Light encounters are not randomly distributed but are calibrated to experiencer need. Those returning with explicit missions (volunteer souls) require more intensive ontological affirmation than those on normative paths. Statistical analysis (n=6,753 NDERF corpus) finds mission returners have 4.38× higher odds of Being of Light encounter than non-mission returners (OR=4.38, p<10⁻⁴⁶). This supports a model where spiritual resources (Light encounters) flow according to purposive logic rather than arbitrary distribution.
 
@@ -1281,24 +1290,26 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 ---
 
-#### [CONSC-066] Japanese NDE Mission Cases: Cross-Cultural Validation of Purposive Economy
+#### [CONSC-066] Japanese Mission Cases as Selection Bias Proof: Tachibana Sample Dominated by Non-Mission NDEs
 
-**Status**: validated | **Confidence**: 0.482
+**Status**: validated | **Confidence**: 0.798
 
-> Three Japanese NDE cases that contradict the "impersonal Eastern NDE" stereotype by exhibiting Western-style personification, dialogue, and mission commissioning. (1) Suzuki (Catholic sister/professor): Light described as "life itself, with its own personality," received explicit directive "Study and Love"; (2) Fumihiko Iida (management professor): Engaged in extended Q&A dialogue with Light about "Meaning of Life," received three-pillar mission (learn, love, fulfill mission), returned to write "The Dawn of Meaning" sparking spiritual movement in Japan; (3) Tsuruhiko Kiuchi (comet hunter): Interacted with "Universal Consciousness" or "Machine of Light" containing cosmic memories, received scientific insights about comets and universe. All three show personification/dialogue because all three had MISSIONS—validating Purposive Economy across cultures.
+> Critical evidence that the "impersonal Japanese NDE" is a sampling artifact, not a cultural constant. Early Japanese research (Tachibana n=22) was dominated by NON-MISSION cases—accidental returners without specific commissions—resulting in the baseline impersonal Light profile. According to Purposive Economy predictions, a sample of 20 traumatized souls (non-mission bound) would show impersonal experiences regardless of culture. When mission cases ARE found in Japanese samples, they exhibit full personification: (1) Suzuki (Catholic sister): Light with "personality," explicit directive "Study and Love"; (2) Fumihiko Iida (management professor): Extended Q&A dialogue, three-pillar mission, sparked spiritual movement; (3) Kiuchi (comet hunter): Universal Mind interface for scientific mission. The selection bias in early Japanese research is THE MAJOR PROOF that phenomenology follows function (mission-presence), not culture.
 
 
 **Source Chain**:
 1. [T] data/01_Consciousness_Studies/The Ontology of the Interface_ A Comprehensive Validation of the Purposive Economy Hypothesis Through Cross-Cultural NDE Phenomenology.md
-2. [E] Ohkado & Greyson, "A Comparative Analysis of Japanese and Western NDEs" (JNDS)
-3. [W] https://seikoshirai.com/2017/07/24/the-meaning-of-success/
-4. [W] https://www.reddit.com/r/nonmurdermysteries/comments/lz0081/
-5. [W] https://www.scribd.com/document/21070494/Creating-the-value-of-life-Dr-Fumihiko-Iida
+2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
+3. [E] Ohkado & Greyson, "A Comparative Analysis of Japanese and Western NDEs" (JNDS)
+4. [W] https://seikoshirai.com/2017/07/24/the-meaning-of-success/
+5. [W] https://www.reddit.com/r/nonmurdermysteries/comments/lz0081/
+6. [W] https://www.scribd.com/document/21070494/Creating-the-value-of-life-Dr-Fumihiko-Iida
 
 **Connections**:
-- → `CONSC-062` (validates): Japanese cases validate Purposive Economy across cultures
+- → `CONSC-076` (parallels): Both nodes demonstrate selection bias in Tachibana research—CONSC-076 shows small sample limitation, CONSC-066 shows mission cases proving the bias
+- → `CONSC-062` (validates): Selection bias proof validates Purposive Economy—function over culture
 - → `CONSC-065` (instantiates): Each case maps to appropriate personification level for mission type
-- → `CONSC-063` (develops): Shows East-West dichotomy is sample artifact, not cultural constant
+- → `CONSC-063` (validates): Selection bias in early research IS THE PROOF that East-West dichotomy is scholarly artifact
 - → `CONSC-008` (validates): Cross-cultural mission cases validate Divine Human as universal Being, not cultural construct
 
 ---
@@ -1307,7 +1318,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Status**: validated | **Confidence**: 0.3
 
-> Evidence that the Being of Light is not a passive projection or culturally-constructed hallucination but an Intelligent Agent with meta-cognitive awareness of its own interface nature. Key evidence: (1) Mellen-Thomas Benedict case: When asked why it was shifting forms (Jesus to Buddha to Krishna), the Light EXPLAINED: "Your beliefs shape the kind of feedback you are getting"—a passive projection cannot explain itself. (2) Ian McCormack case: Light actively intervened by initiating dialogue ("Ian, do you wish to return?") and offering transformative guidance ("If you wish to return you must see in a new light")—demonstrating agenda independent of experiencer's psychology. This supports the Light as a "chooser of form" rather than a form projected by the experiencer.
+> Evidence that the Being of Light is not a passive projection or culturally-constructed own interface nature. Key evidence: (1) Mellen-Thomas Benedict case: When asked why it was shifting forms (Jesus to Buddha to Krishna), the Light EXPLAINED: "Your beliefs shape the kind of feedback you are getting"—a passive projection cannot explain itself. (2) Ian McCormack case: Light actively intervened by initiating dialogue ("Ian, do you wish to return?") and offering transformative guidance ("If you wish to return you must see in a new light")—demonstrating agenda independent of experiencer's psychology. This supports the Light as a "chooser of form" rather than a form projected by the experiencer.
 
 
 **Source Chain**:
@@ -1328,7 +1339,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-068] East-West NDE Dichotomy: Dual Construction Thesis
 
-**Status**: validated | **Confidence**: 0.738
+**Status**: validated | **Confidence**: 0.798
 
 > The thesis that the "East-West NDE Dichotomy" is not a phenomenological reality but a dual scholarly construction—both the "Western" profile (personified Being, tunnels, life reviews) and the "Eastern" profile (impersonal light, nature imagery, no judgment) are artifacts of selection bias, paradigmatic assumptions, and insufficient sample sizes. Evidence: (1) Western data falsifies Western profile: impersonal light (40.9%) dominates over Being of Light (11.8%); nature settings (17.0%) exceed urban settings (11.4%). (2) Eastern data falsifies Eastern profile: mission cases (Iida, Suzuki, Kiuchi) show personification, dialogue, and life review content indistinguishable from Western patterns. (3) Sample correction: Early Japanese research (Tachibana n=22) was too small to capture rare mission cases; internet era exposes full phenomenological range. The dichotomy has been "weaponized by materialist reductionism" to argue NDEs are cultural hallucinations; this analysis removes that weapon.
 
@@ -1363,6 +1374,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
 
 **Connections**:
+- → `CONSC-076` (supports): Life Review correlation demonstrates phenomena n=22 sample would miss - validates sample size critique
+- → `CONSC-066` (supports): Life Review correlation supports selection bias argument - mission cases show different phenomenology
 - → `CONSC-062` (validates): Provides statistical evidence for Purposive Economy mechanism
 - → `CONSC-064` (parallels): Similar functional correlation to Mission Signature
 - → `CONSC-065` (supports): Teaching function explains Level 5 personification
@@ -1381,6 +1394,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
 
 **Connections**:
+- → `CONSC-076` (supports): 51.9% Unknown rate shows pattern n=22 could not reliably detect - validates sample size critique
+- → `CONSC-066` (supports): Unknown Presence pattern supports selection bias argument - experience resists cultural categorization
 - → `CONSC-008` (supports): Being resists cultural projection, supports objective Divine Human encounter
 - → `CONSC-043` (contradicts): Undermines dying brain/cultural hallucination hypothesis
 - → `CONSC-068` (supports): Experience corrects rather than confirms cultural expectations
@@ -1399,6 +1414,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
 
 **Connections**:
+- → `CONSC-076` (supports): Christian Unknown subset validates sample size critique - n=22 cannot capture demographic nuances
+- → `CONSC-066` (supports): Christian Unknown rate supports selection bias - cultural priming fails even in maximum-preparation demographic
 - → `CONSC-070` (supports): Subset analysis confirms general Unknown Presence pattern
 - → `CONSC-008` (develops): Being of Light transcends even Christian identification expectations
 - → `CONSC-043` (contradicts): Christians should overwhelmingly see Jesus if cultural conditioning drives NDEs
@@ -1417,6 +1434,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
 
 **Connections**:
+- → `CONSC-076` (supports): Polytheist subset pattern validates sample size critique - demographic analysis requires large samples
+- → `CONSC-066` (supports): Polytheist singularity supports selection bias - experience corrects cultural expectations bidirectionally
 - → `CONSC-070` (supports): Another pattern of experience resisting cultural projection
 - → `CONSC-071` (parallels): Inverse pattern to Christian Unknown rate - both show bidirectional correction
 - → `CONSC-008` (supports): Being manifests as singular Divine Human across all cultures
@@ -1436,6 +1455,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
 
 **Connections**:
+- → `CONSC-076` (supports): 17.5% Life Review rate validates sample size critique - rare phenomena require large samples to detect
+- → `CONSC-066` (supports): Lower Life Review rate supports selection bias - Japanese "absence" less anomalous at 17.5% baseline
 - → `CONSC-063` (supports): Another Western stereotype falsified by empirical data
 - → `CONSC-068` (supports): Western profile myth contributes to false East-West dichotomy
 - → `CONSC-069` (develops): 17.5% baseline prevalence context for Life Review correlation analysis
@@ -1454,6 +1475,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
 
 **Connections**:
+- → `CONSC-076` (supports): 1.5:1 nature ratio validates sample size critique - environmental pattern requires large sample to establish
+- → `CONSC-066` (supports): Nature preference supports selection bias - Western pattern aligns with Japanese, not diverges
 - → `CONSC-063` (validates): Statistical verification of nature>urban claim in CONSC-063
 - → `CONSC-068` (supports): Western nature preference aligns with Japanese profile, undermining dichotomy
 - → `CONSC-045` (instantiates): Variable forms (gardens vs cities) over constant states (peace, beauty)
@@ -1472,6 +1495,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
 
 **Connections**:
+- → `CONSC-076` (supports): 1.8:1 familial ratio validates sample size critique - social encounter patterns require large samples
+- → `CONSC-066` (supports): Familial preference supports selection bias - Western pattern matches Japanese ancestral emphasis
 - → `CONSC-063` (validates): Statistical verification of relatives>religious claim
 - → `CONSC-068` (supports): Western familial emphasis matches Japanese pattern
 - → `CONSC-065` (instantiates): Deceased relatives as Level 3 in Spectrum of Personification
@@ -1480,7 +1505,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-076] Tachibana Sample Limitation: n=22 Japanese NDE Dataset
 
-**Status**: validated | **Confidence**: 0.512
+**Status**: validated | **Confidence**: 0.768
 
 > Methodological evidence that the influential Ohkado & Greyson (2014) comparative study establishing the Japanese NDE profile relied on only n=22 interviews conducted by journalist Takashi Tachibana. This sample size is orders of magnitude smaller than Western repositories (NDERF n=5,660, IANDS n=1,093) and introduces severe risk of selection bias and Type II error (false negatives). The Japanese "impersonal/nature-only" profile was constructed from this fragile foundation, making the East-West dichotomy a potential artifact of sample size inequality rather than genuine cultural difference.
 
@@ -1490,9 +1515,75 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
 
 **Connections**:
+- → `CONSC-066` (supports): n=22 sample limitation provides methodological foundation for selection bias argument
 - → `CONSC-068` (supports): Sample size inequality explains apparent East-West differences
-- → `CONSC-066` (validates): Mission cases (Iida, Kiuchi) were missing from small samples
 - → `CONSC-063` (supports): Demonstrates methodological weakness in dichotomy construction
+
+---
+
+#### [CONSC-077] Stevenson's Imad Elawar Case: 57 Verified Statements
+
+**Status**: validated | **Confidence**: 0.622
+
+> Paradigmatic DOPS case documented by Ian Stevenson in Twenty Cases Suggestive of Reincarnation (1966). Imad Elawar, a Lebanese boy, spontaneously recalled a previous life as Ibrahim Bouhamzy in the village of Khriby. Stevenson interviewed Imad BEFORE visiting Khriby to verify claims, documenting 57 specific statements that were subsequently verified through interviews with the Bouhamzy family and village records. This case represents the gold standard for pre-verification methodology (Type B), where claims are recorded before investigation, eliminating retrofitting and confirmation bias.
+
+
+**Source Chain**:
+1. [E] Stevenson, Ian. Twenty Cases Suggestive of Reincarnation. University Press of Virginia, 1966. pp. 268-315.
+2. [S] Tucker, Jim. Life Before Life: Children's Memories of Previous Lives. St. Martin's Press, 2005.
+
+**Connections**:
+- → `CONSC-002` (instantiates): Paradigmatic example of DOPS methodology
+- → `CONSC-020` (supports): Imad case involves violent death in previous life
+- → `CONSC-040` (supports): Type B methodology eliminates retrofitting concerns
+- → `CONSC-005` (supports): Exemplifies Restorative Incarnation tier (traumatic death requiring return)
+- → `CROSS-004` (validates): Paradigmatic case demonstrating post-materialist empirical methods
+
+---
+
+#### [CONSC-078] van Lommel Lancet Study: 344 Cardiac Arrest Patients
+
+**Status**: validated | **Confidence**: 0.905
+
+> Landmark prospective study of near-death experiences in cardiac arrest survivors published in The Lancet (2001). Dr. Pim van Lommel and colleagues studied 344 consecutive cardiac arrest patients across 10 Dutch hospitals (1988-1992), with 18% (62 patients) reporting NDEs. Critically, the study found that religious belief was irrelevant to whether an NDE occurred, and physiological parameters (medication, duration of arrest, blood gases) showed no significant difference between NDE and non-NDE groups. This prospective design and large sample size make it one of the strongest empirical studies challenging materialist explanations.
+
+
+**Source Chain**:
+1. [E] van Lommel, P., van Wees, R., Meyers, V., & Elfferich, I. (2001). Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands. The Lancet, 358(9298), 2039-2045. DOI: 10.1016/S0140-6736(01)07100-8
+2. [S] van Lommel, P. Consciousness Beyond Life: The Science of the Near-Death Experience. HarperOne, 2010.
+3. [T] data/01_Consciousness_Studies/Pure Encounter or Cultural Construct.md
+4. [T] data/01_Consciousness_Studies/Evaluating Dying Brain Hypothesis Critically.md
+
+**Connections**:
+- → `CONSC-003` (supports): Provides large-sample prospective data for NDE phenomenology
+- → `CONSC-043` (opposes): Physiological findings challenge Dying Brain Hypothesis
+- → `CONSC-044` (supports): Large-sample confirmation of Being of Light encounters
+- → `CONSC-001` (supports): Prospective data supports consciousness as fundamental
+- → `CONSC-062` (supports): Large prospective sample provides data on Being of Light encounter patterns
+- → `CONSC-019` (supports): Confirms cross-cultural consistency in symbolic elements despite religious belief irrelevance
+
+---
+
+#### [CONSC-079] AWARE Study: Consciousness During Cardiac Arrest
+
+**Status**: validated | **Confidence**: 0.883
+
+> The AWARE (AWAreness during REsuscitation) studies, led by Dr. Sam Parnia, represent the largest systematic investigation of consciousness during cardiac arrest. AWARE I (2014) studied 2,060 cardiac arrests across 15 hospitals; AWARE II (2023) expanded to 567 patients with comprehensive data. While the hidden visual target protocol yielded limited results due to logistical constraints, AWARE I documented one case of verified auditory awareness during three minutes of cardiac arrest with time-stamped AED data, demonstrating consciousness persisting during clinical death when EEG would be isoelectric.
+
+
+**Source Chain**:
+1. [E] Parnia, S., et al. (2014). AWARE—AWAreness during REsuscitation—A prospective study. Resuscitation, 85(12), 1799-1805. DOI: 10.1016/j.resuscitation.2014.09.004
+2. [E] Parnia, S., et al. (2023). AWAreness during REsuscitation-II: A multi-center study of consciousness and awareness in cardiac arrest. Resuscitation, 191, 109903. DOI: 10.1016/j.resuscitation.2023.109903
+3. [T] data/01_Consciousness_Studies/Evaluating Dying Brain Hypothesis Critically.md
+4. [T] data/01_Consciousness_Studies/Researching Near-Death Experiences.md
+
+**Connections**:
+- → `CONSC-003` (supports): Largest systematic cardiac arrest NDE study
+- → `CONSC-043` (opposes): Time-stamped awareness challenges brain-death timing assumptions
+- → `CONSC-004` (supports): Veridical auditory perception during clinical death
+- → `CONSC-001` (supports): Systematic data showing consciousness during cardiac arrest
+- → `CONSC-045` (parallels): Both use systematic large-sample methodology to validate NDE patterns
+- → `CONSC-078` (parallels): Independent prospective replication confirming consciousness during cardiac arrest
 
 ---
 
@@ -1990,11 +2081,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 ---
 
-#### [SWED-024] The New Jerusalem (Fourth Church)
+#### [SWED-024] The New Jerusalem (New Church)
 
 **Status**: validated | **Confidence**: 0.85
 
-> The New Church or New Jerusalem is the Fourth Church in Swedenborg's dispensational schema, established after the Last Judgment of 1757. Unlike prior churches which ended in vastation, the New Jerusalem is founded on: (1) Acknowledgment of the Lord alone as God of heaven and earth; (2) Life according to the Decalogue (repentance). Daniel's statue (gold/silver/brass/iron-clay) represents successive churches from Most Ancient to Christian, all intrinsically linked. The "stone cut without hands" that shatters the image represents Divine Truth (the Lord) destroying external falsified notions to form a new foundation. The "Gentiles" among whom it is established are defined by internal state (good of love, affection for truth) not geography - those who reject the former church's external teachings and are receptive to revealed internal truth.
+> The New Church or New Jerusalem represents the Fifth Church in Swedenborg's dispensational schema, established after the Last Judgment of 1757. Daniel's statue represents four successive churches: Gold (Most Ancient, celestial love), Silver (Ancient/Noah, spiritual truth), Bronze (Jewish beginning, natural good), Iron mixed with Clay (Christian Church - Fourth Church - Word mixed with self-intelligence/faith alone). The Christian church IS the iron-clay mixture from its beginning (Paul/James division). The "stone cut without hands" that shatters the statue represents Divine Truth (the Lord) destroying all external falsified notions of the four prior churches to form a completely new foundation. Unlike prior churches founded on human reception (the statue), the New Church stands on Divine Truth itself (the stone/rock). Founded on: (1) Acknowledgment of the Lord alone as God; (2) Life according to the Decalogue (charity and life, not faith alone).
 
 
 **Source Chain**:
@@ -2034,11 +2125,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 ---
 
-#### [SWED-026] The Fourth Church (New Jerusalem Dispensation)
+#### [SWED-026] The New Church (Post-Christian Dispensation)
 
 **Status**: validated | **Confidence**: 0.85
 
-> The prophesied "New Church" arising after the spiritual consummation of the prior Christian age. The Last Judgment (executed in the spiritual world in 1757, per Swedenborg) shattered the "falsity from self-intelligence" (faith alone doctrine) that had suffocated the Third Church. Daniel's statue vision provides the archetypal narrative: Gold (Most Ancient Church, celestial love) → Silver (Ancient Church, charity) → Brass (Third Succeeding, obedience) → Iron/Clay (Christian Church, external truth mixed with self-intelligence). The "stone cut without hands" represents pure Divine Truth shattering human-constructed religious systems, becoming a "great rock filling the earth." Two essentials define the New Church: (1) acknowledging the Lord alone as God of heaven and earth; (2) life according to the Decalogue (turning from evil, doing good). This is the "Church of Charity and Life"—direct antidote to "faith alone."
+> The prophesied "New Church" (New Jerusalem) arising after the spiritual consummation of the Christian Church (Fourth Church). The Last Judgment (executed in the spiritual world in 1757, per Swedenborg) shattered the "falsity from self-intelligence" (faith alone doctrine) that had suffocated the Fourth Church (Christian). Daniel's statue vision: Gold (Most Ancient, celestial love) → Silver (Ancient/Noah, charity/truth) → Bronze (Jewish beginning, natural good) → Iron/Clay (Christian Church - Fourth Church - Word mixed with self-intelligence from its beginning via Paul/James division). The "stone cut without hands" represents pure Divine Truth shattering all four human-constructed church systems, becoming a "great rock filling the earth" - a new foundation not bounded by the succession pattern. Two essentials define the New Church: (1) acknowledging the Lord alone as God of heaven and earth; (2) life according to the Decalogue (turning from evil, doing good). This is the "Church of Charity and Life"—direct antidote to "faith alone."
 
 
 **Source Chain**:
@@ -2554,6 +2645,208 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 ---
 
+#### [SWED-049] Daniel's Statue: Four Churches Correspondence
+
+**Status**: validated | **Confidence**: 0.727
+
+> Nebuchadnezzar's statue (Daniel 2:31-45) with four metal sections (gold, silver, bronze, iron-clay) destroyed by a stone "cut without hands." Swedenborg interprets the metals as both descending degrees of consciousness (celestial→spiritual→natural) and historical church succession (Most Ancient, Ancient, Jewish, Christian). The iron-clay feet have dual application: proximately the Jewish church at Lord's first coming, internally the Christian church at consummation (1757). The stone represents the New Jerusalem/New Church. Corpus variations (AC 3325, AE 176, AE 411) show progressive refinement rather than contradiction. Comprehensive analysis in "The Statue and the Stone" thesis.
+
+
+**Source Chain**:
+1. [P] Swedenborg, Arcana Coelestia §§ 1259, 1690, 3325
+2. [P] Swedenborg, Apocalypse Explained §§ 176, 411, 483, 519, 410
+3. [P] Swedenborg, True Christian Religion § 760
+4. [P] Daniel 2:31-45
+5. [S] Collins, John J. Daniel: A Commentary on the Book of Daniel. Hermeneia, 1993.
+6. [T] data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual Development Through Daniel's Prophecy.md
+7. [T] data/02_Swedenborgian_Theology/Conversation relating the Fourth Church - The New Jerusalem.md
+8. [T] data/02_Swedenborgian_Theology/A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg.md
+9. [T] data/00_Framework/The Heart of the Matter.md
+
+**Connections**:
+- → `SWED-001` (instantiates): Specific application of Doctrine of Correspondences
+- → `SWED-007` (develops): Four churches are successive dispensations
+- → `SWED-047` (requires): Fourth Church emergence follows statue shattering
+- → `MYTH-001` (parallels): Metal Ages myth shares correspondence structure
+- → `CROSS-020` (instantiates): Fourth Church emergence framework synthesis
+- → `SWED-024` (develops): Daniel's stone = New Jerusalem (New Church) emergence after Christian Church (Fourth) consummation
+- → `SWED-026` (develops): Stone cut without hands = Divine provision of New Church vessel (not Fourth Church)
+- → `SWED-052` (developed_by): Multiple interpretive angles explained
+- → `SWED-053` (developed_by): Corpus variations analyzed as progressive revelation
+- → `SWED-054` (developed_by): Developmental continuity thesis
+- → `SWED-055` (developed_by): Prophecy mechanism explained
+- → `SWED-056` (developed_by): Jesus as Divine Human expressing
+- → `SWED-057` (developed_by): Stone shatters image not churches
+
+---
+
+#### [SWED-050] The Two States: Exinanition and Glorification
+
+**Status**: validated | **Confidence**: 0.3
+
+> Swedenborg's doctrine that Jesus's earthly life alternated between two distinct conscious states. (1) State of Exinanition (Emptying): Jesus was conscious primarily in His finite human nature from Mary, experiencing genuine human weakness, doubt, prayer, and the "cry of dereliction" on the cross. This state was necessary for Him to face temptation as a human—if fully conscious of His Divinity, temptation would be impossible. (2) State of Glorification (Union): Jesus was conscious in His internal Divine nature, declaring "I and the Father are one" (John 10:30). These were moments of transfiguration and miracles where Divine Influx overwhelmed the vessel. The Glorification process was accomplished through temptations—spiritual combats fought from the assumed finite nature.
+
+
+**Source Chain**:
+1. [P] Swedenborg, Arcana Coelestia §§ 1690, 1691, 1725, 1728, 1737
+2. [P] Swedenborg, True Christian Religion §§ 104-106, 112-113
+3. [P] Swedenborg, Doctrine of the Lord §§ 12, 14, 35
+4. [T] data/02_Swedenborgian_Theology/The Divine Human in Ultimates_ A Phenomenological and Theological Profile of the Actual Jesus of Love.md
+5. [T] data/02_Swedenborgian_Theology/Swedenborgian Research Plan.md
+
+**Connections**:
+- → `SWED-009` (supports): The Divine Human doctrine requires two-state process
+- → `BIBL-011` (develops): Criterion of Embarrassment becomes Criterion of Temptation
+- → `BIBL-021` (explains): Explains Jesus''s "embarrassing" human moments as exinanition states
+- → `CROSS-018` (requires): Jesus Problem resolved via two-state consciousness framework
+- → `SWED-001` (instantiates): Two states exemplify correspondence between finite (human) and infinite (divine) planes
+- → `SWED-002` (requires): Glorification = moments when Divine Influx overwhelms finite vessel completely
+
+---
+
+#### [SWED-051] Swedenborg as Hypothesis Not Dogma - Methodological Framework
+
+**Status**: validated | **Confidence**: unknown
+
+> Swedenborg himself recognized his writings as instrumental, not final. He described the New Jerusalem (final church) as using his works to "take thence those things which they consider useful"—not founding itself in his writings but receiving truth through direct influx from the Lord. This establishes the framework's methodological stance: Swedenborg's FRAMEWORK (correspondences, influx, two-tiered reality) is tested as hypothesis; his SPECIFIC APPLICATIONS based on 18th-century science may be incorrect and must be revised using modern data. Examples: (1) "Soul from father, body from mother" (ovism/preformationism)—contradicts modern genetics showing both parents contribute DNA, and contradicts his own teaching that physical IS spiritual in ultimates; (2) Geographic predictions (Africa as location of new church)—likely correspondential states, not literal geography; (3) Limbus and anti-reincarnation arguments built on false heredity assumptions. The framework honors Swedenborg by doing what HE did: hypothesis-testing with best available scientific data. His multiple inconsistent explanations of Daniel's statue across his corpus demonstrate he was working through these correspondences, not receiving inerrant revelation.
+
+
+**Source Chain**:
+1. [P] Swedenborg, Spiritual Diary §4783
+2. [P] Swedenborg, Spiritual Diary §5946
+3. [P] Swedenborg, Heaven and Hell §326
+4. [P] Swedenborg, Supplements (Continuation of Last Judgment) §75
+5. [P] Swedenborg, Supplements §76
+6. [T] NotebookLM synthesis of Swedenborg corpus re New Church establishment
+
+**Connections**:
+- → `CROSS-001` (requires): Two-tiered epistemology requires distinguishing framework from applications
+- → `CROSS-016` (develops): Falsification criteria apply to Swedenborg's specific claims
+- → `SWED-001` (validates): Correspondence doctrine is framework to test, not dogma to defend
+- → `SWED-049` (contextualizes): Daniel statue multiple explanations show Swedenborg hypothesis-testing
+- → `CONSC-020` (supports): Restorative Incarnation challenges Swedenborg's Limbus/anti-reincarnation based on false heredity
+- → `CROSS-012` (supports): Soul accumulation model corrects Swedenborg's patrilineal heredity error
+
+---
+
+#### [SWED-052] Multiple Interpretive Angles: Degrees vs. Historical Churches
+
+**Status**: preliminary | **Confidence**: unknown
+
+> Swedenborg interprets Daniel's statue through complementary frameworks: (1) Descending degrees of mind—gold=celestial good (love to Lord), silver=spiritual truth (charity/faith), bronze=natural good (moral justness), iron=natural truth (external understanding), clay=falsity from self-intelligence; (2) Historical churches—Most Ancient (gold), Ancient/Noah (silver), Jewish (bronze), Christian (iron-clay). These are not contradictory but map different aspects: quality of spiritual state vs. historical location. Mountain climber analogy: biological description (oxygen saturation = spiritual degrees) vs. geographical description (camps passed = historical sequence) describe the same reality from complementary perspectives.
+
+
+**Source Chain**:
+1. [P] Swedenborg, Arcana Coelestia §§ 1259, 1690
+2. [P] Swedenborg, Arcana Coelestia § 4690
+3. [T] data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual Development Through Daniel's Prophecy.md
+
+**Connections**:
+- → `SWED-049` (develops): Explains interpretive framework for Daniel's statue
+- → `SWED-001` (instantiates): Application of correspondence doctrine to interpretation
+
+---
+
+#### [SWED-053] Corpus Variations as Progressive Revelation
+
+**Status**: preliminary | **Confidence**: unknown
+
+> Chronological analysis of Swedenborg's Daniel statue interpretations shows progressive refinement: AC 3325 (1749-1756) groups legs+feet as "fourth state" with iron-clay mixing; AE 176 (1759-1760) distinguishes legs (fourth church, iron) from feet (last state, iron-clay); AE 411/483/519 (1759-1760) reveal continuous transition: Jewish church progresses from pure iron (legs) to iron-clay mixing (feet) at its end, and Christian church BEGINS from this same iron-clay state. The crucifixion correspondence (two drinks offered to Jesus) witnesses this transition. The progression reflects guided influx through developing vessel.
+
+
+**Source Chain**:
+1. [P] Swedenborg, Arcana Coelestia § 3325
+2. [P] Swedenborg, Apocalypse Explained §§ 176, 411, 483, 519, 410
+3. [P] Swedenborg, Heaven and Hell § 197
+4. [T] data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual Development Through Daniel's Prophecy.md
+
+**Connections**:
+- → `SWED-049` (develops): Demonstrates progressive refinement in statue interpretation
+- → `SWED-051` (supports): Evidence for hypothesis-testing methodology
+- → `SWED-051` (contextualizes): Progressive revelation operates through hypothesis-testing methodology—guided influx works through Swedenborg's rational faculties
+- → `SWED-002` (instantiates): Example of divine influx operating through developing vessel
+
+---
+
+#### [SWED-054] Developmental Continuity: Child Maturation Thesis
+
+**Status**: preliminary | **Confidence**: unknown
+
+> The statue's discrete metal sections are metaphorical artifacts forcing sharp divisions onto continuous organic spiritual development. Like measuring child growth in "age brackets" (infant, toddler, child, adolescent, adult), the churches represent stages of consciousness maturation: Most Ancient=childhood (innocence, dependency, internal perception), Ancient=maturation (struggle begins, conscience forms), Jewish=adolescence (self-definition against parent, thinks it's independent), Christian=late adolescence (displacement, claims everything as self), New Church=adulthood (recognition all is from Lord). Each stage flows naturally from the previous through seamless organic transformation, not discrete replacement. The iron-clay wasn't failure but necessary adolescent stage where humanity had to believe itself independent before genuine reunion possible.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual Development Through Daniel's Prophecy.md
+2. [P] Swedenborg, Arcana Coelestia § 1259
+
+**Connections**:
+- → `SWED-049` (develops): Reveals continuity beneath statue's discrete sections
+- → `CROSS-001` (requires): CDE hypothesis requires continuous memetic evolution
+- → `SWED-007` (develops): Churches as developmental stages not discrete entities
+
+---
+
+#### [SWED-055] Prophecy as Perception of Eternal Truth
+
+**Status**: preliminary | **Confidence**: unknown
+
+> Ancient prophecies (Saoshyant, Messiah, dying-rising god patterns) perceive eternal truth upward to spiritual reality, not forward to temporal future. The Lord ALWAYS expresses through aligned souls; what develops is consciousness capacity to perceive this in ultimates. Prophecies converge across cultures (virgin birth, celestial sign, defeat of evil, world renovation) because they accurately perceive HOW THE LORD EXPRESSES through unobstructed humanity, not predicting a future person. "There is no future—only truth and the perception of it." Jesus (likely volunteer soul) demonstrated complete expression through zero obstruction, making visible what was always true: the Lord continuously expressing through aligned souls. NDE experiencers recognize the Being of Light as Jesus because they perceive the same eternal Lord expressing.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual Development Through Daniel's Prophecy.md
+2. [S] Boyce, Mary. Zoroastrians: Their Religious Beliefs and Practices. 1979.
+3. [P] Daniel 2:31-45
+
+**Connections**:
+- → `SWED-049` (develops): Explains how Daniel perceived the Lord expressing through history
+- → `CONSC-021` (supported_by): NDE Being of Light identification validates perception thesis
+- → `SWED-056` (requires): Jesus as demonstration depends on Lord always expressing
+
+---
+
+#### [SWED-056] Divine Human as Lord Expressing: Jesus Demonstration
+
+**Status**: preliminary | **Confidence**: unknown
+
+> Jesus demonstrates complete expression of what is universally true: the Lord continuously expressing through aligned souls. The difference is degree (zero obstruction) not kind (divine vs. human category). Every act of love through any person IS the Lord expressing—Jesus proved this completely by becoming fully transparent vessel. "There is no image apart from the Lord" (Epistle on Divine Marriage). Jesus IS the Divine Human not because categorically different but because the Lord fully expresses through him—not two things (Jesus + divinity) but ONE: the Lord in ultimates through unobstructed humanity. The teaching: when we see wisdom through ANY person, that's the Lord expressing (not "inspired by" but IS). Degree varies by obstruction; SOURCE always the Lord.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual Development Through Daniel's Prophecy.md
+2. [T] data/00_Framework/Epistle - The Divine Marriage and the Expression of the Lord in Ultimates.md
+3. [P] John 10:30
+4. [P] Philippians 2:5-8
+
+**Connections**:
+- → `SWED-049` (develops): Jesus as ultimate expression visible through church development
+- → `SWED-055` (develops): Jesus demonstrates what prophecies perceived
+- → `SWED-050` (develops): Glorification as Lord expressing without obstruction
+- → `CONSC-021` (supported_by): Being of Light as Lord expressing in near-death state
+- → `CONSC-020` (requires): Volunteer soul hypothesis provides mechanism for Jesus's zero obstruction capacity
+
+---
+
+#### [SWED-057] Stone Shatters Image Not Churches
+
+**Status**: preliminary | **Confidence**: unknown
+
+> The stone (New Jerusalem/New Church) shatters the IMAGE (externalized representation, proprium's claim) not the spiritual substance churches accomplished. Christian church BEGINS from iron-clay mixing that emerges at Jewish church's end—continuous transition witnessed by cross correspondence: Jesus refuses Jewish falsified truth (vinegar-with-gall) but accepts Christian ignorant mixture (plain-vinegar) because falsity from ignorance can be purified. Entire Christian dispensation carries iron-clay characteristics (faith separated from charity, truth without good) from inception. Earth itself is true church (souls developing); statue is externalized image. Stone "cut without hands" rolls on its own—truth self-establishing.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual Development Through Daniel's Prophecy.md
+2. [P] Daniel 2:34-35
+3. [P] Swedenborg, True Christian Religion § 760
+
+**Connections**:
+- → `SWED-049` (develops): Explains what the stone destroys and why
+- → `SWED-047` (develops): Fourth Church emergence after statue shattering
+- → `CROSS-002` (parallels): Divine Bricolage mechanism—truth self-establishing
+- → `EARLY-002` (requires): James-Paul split created iron-clay mixture
+
+---
+
 ### Biblical Scholarship
 *HCM, Gospel formation, textual criticism*
 
@@ -3044,6 +3337,7 @@ events exist in causal networks.
 - → `BIBL-002` (developed_by): Proto-Luke within Synoptic Problem; advanced source criticism methodology
 - → `BIBL-004` (contextualizes): Original 'Living One' resurrection; spiritual resurrection as original Proto-Lukan view
 - → `EARLY-009` (describes): Lukan Dissonance as result of later editing
+- → `CROSS-002` (instantiates): Proto-Luke formation instantiates Divine Bricolage mechanism
 
 ---
 
@@ -3357,6 +3651,46 @@ popularized and extended this thesis with additional evidence.
 - → `EARLY-015` (supports): Evidence for early Christian diversity
 - → `EARLY-003` (supports): Contextualizes Jamesian vs Pauline divergence
 - → `GNOS-001` (supports): Bauer thesis relevant to understanding Gnostic Christianity
+
+---
+
+#### [EARLY-019] Jerusalem Council (Acts 15): Jamesian Requirements
+
+**Status**: validated | **Confidence**: 0.727
+
+> The Jerusalem Council (circa 49-50 CE) documented in Acts 15 represents the earliest recorded Christian ecclesiastical assembly. James the Just presided and issued binding requirements for Gentile converts: abstain from idol pollution, sexual immorality, strangled animals, and blood. This demonstrates Jamesian authority over early church and requirement of behavioral transformation, contrasting with Pauline emphasis on faith alone.
+
+
+**Source Chain**:
+1. [P] Acts 15:1-29
+2. [S] Pervo, Richard I. Acts: A Commentary (Hermeneia, 2009)
+3. [S] Dunn, James D.G. Beginning from Jerusalem (2009)
+4. [T] data/04_Early_Christian_History/The Lukan Dissonance_ A Critical Forensic Examination of the Theological and Political Divergence Between the Third Gospel and the Acts of the Apostles.md
+
+**Connections**:
+- → `EARLY-001` (instantiates): Council demonstrates Jamesian authority and behavioral requirement emphasis
+- → `EARLY-003` (contextualizes): Council requirements directly contradict Pauline Law-free gospel
+- → `EARLY-002` (supports): Council theology (behavioral requirements) matches Proto-Luke emphasis
+
+---
+
+#### [EARLY-020] Ebionite Christianity: Jamesian Continuation
+
+**Status**: validated | **Confidence**: 0.673
+
+> The Ebionites (Hebrew: 'the poor') were a Jewish Christian sect representing direct continuation of the Jerusalem church founded by James the Just. Rejected Pauline theology, maintained Torah observance, viewed Jesus as human Messiah (not divine), and preserved Jamesian emphasis on works and community. Attested by multiple patristic sources (Irenaeus, Eusebius, Epiphanius) as distinct movement through 4th century CE.
+
+
+**Source Chain**:
+1. [P] Irenaeus, Against Heresies I.26.2; Eusebius, Church History III.27; Epiphanius, Panarion 30
+2. [S] Scholarly literature on Ebionites and Jewish Christianity
+3. [T] data/04_Early_Christian_History/The Bulwark of the People_ An Exhaustive Historical and Theological Profile of James the Brother of Jesus.md
+4. [T] data/04_Early_Christian_History/The Lukan Dissonance_ A Critical Forensic Examination of the Theological and Political Divergence Between the Third Gospel and the Acts of the Apostles.md
+
+**Connections**:
+- → `EARLY-001` (develops): Ebionites represent direct continuation of Jamesian Jerusalem church
+- → `EARLY-002` (develops): Ebionite Gospel likely develops from Proto-Luke elements (poverty theology, non-divine Jesus)
+- → `EARLY-003` (contrasts): Ebionite rejection of Paul demonstrates preserved Jamesian-Pauline divergence
 
 ---
 
@@ -3772,6 +4106,30 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 - → `GNOS-014` (supports): Evidence for Gospel of Philip teachings
 - → `GNOS-015` (supports): Sources for Apocryphon of John
 - → `GNOS-016` (supports): Evidence for Treatise on Resurrection
+
+---
+
+#### [GNOS-019] Path of Emptying vs Path of Restoration
+
+**Status**: validated | **Confidence**: unknown
+
+> Two opposing responses to the problem of perverted spiritual influx. PATH OF EMPTYING (Buddhism, certain Gnostic streams): Recognizes perverted influx causes suffering; solution is emptying of ALL influx/attachment to end suffering through cessation (nirvana). If nothing flows in, if we cease to exist as receiving beings, we become free. Detachment from everything. Addresses problem by ending reception itself. PATH OF RESTORATION (Lord-centered): Recognizes perverted influx causes suffering; solution is receiving DIRECT influx from Lord to HEAL what's twisted. Wholeness through proper reception, not cessation. Perverted spiritual states = truth twisted by proprium, only restorable by Lord's influx. When Lord flows unobstructed → spiritual causes heal → natural effects transform. Not removal but restoration. The paths appear similar ("empty yourself of bad things") but operate oppositely: Emptying withdraws from all influx; Restoration receives from Lord. Buddhism: problem is influx/desire itself → withdraw completely. Restoration: problem is OBSTRUCTION (proprium) preventing proper reception → receive without obstruction. Empirical data (NDEs) shows transformation through FILLING with unobstructed influx, not emptying. Healing occurs when twisted truth becomes truth again through Lord's restoration.
+
+**Source Chain**:
+1. [P] Swedenborg, Divine Love and Wisdom §§ 395-396
+2. [P] Swedenborg, Arcana Coelestia §§ 141-161
+3. [T] data/00_Framework/Epistle - The Divine Marriage and the Expression of the Lord in Ultimates.md
+4. [S] Harvey, Peter. An Introduction to Buddhism: Teachings, History and Practices. Cambridge, 1990.
+5. [T] data/01_Consciousness_Studies/Pure Encounter or Cultural Construct.md
+
+**Connections**:
+- → `GNOS-001` (parallels): Path of Emptying shares gnostic withdrawal from material/reception
+- → `GNOS-002` (develops): Adds third category to Path dichotomy - Emptying as distinct from both Affirmation and Gnosis claiming
+- → `SWED-008` (contrasts): Regeneration = restoration path, opposite of emptying
+- → `SWED-002` (requires): Restoration requires continuous divine influx
+- → `SWED-005` (addresses): Both paths address proprium problem differently - emptying vs restoration
+- → `CONSC-016` (supports): NDE empirical data supports restoration over emptying
+- → `CROSS-003` (instantiates): Ruling love (love of Lord vs love of self) determines restoration capacity
 
 ---
 
@@ -4451,6 +4809,298 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 - → `CONSC-001` (develops): CDE hypothesis extended: if consciousness is fundamental, it can express through any suitable configuration
 - → `SWED-044` (requires): Will-Understanding Priority is foundational to faculty psychology; OPEN QUESTION: how does AI relate to will-understanding structure?
 - → `SWED-045` (requires): Will as Receptive grounds influx reception; OPEN QUESTION: does AI have correspondent structures to will/understanding?
+
+---
+
+#### [CROSS-011] Correspondence Ontology - Physical as Direct Expression of Spiritual
+
+**Status**: validated | **Confidence**: 0.7
+
+> All physical substance is a direct expression of spiritual substance. There is no separation. The soul clothes itself with spiritual substances (loves, truths, falsities, influences) which simultaneously express as physical substances (body, health, traits, environment). Not cause → effect. One reality perceived at different levels. This eliminates both materialism (only physical is real) and dualism (two separate substances that interact). The framework position is correspondential monism: physical IS spiritual expressed in ultimates.
+
+
+**Source Chain**:
+1. [T] data/00_Framework/Epistle - The Divine Marriage and the Expression of the Lord in Ultimates.md
+2. [P] Swedenborg, Divine Love and Wisdom §§ 83-85
+3. [P] Swedenborg, Heaven and Hell §§ 87-115
+4. [E] DOPS birthmark cases (CONSC-041)
+5. [E] Spontaneous remission cases (CONSC-054)
+
+**Connections**:
+- → `SWED-001` (instantiates): Correspondences are literal expressions, not symbolic analogies
+- → `SWED-002` (requires): Divine influx creates and sustains all physical reality
+- → `CROSS-009` (develops): Expands non-separation principle with full ontological framework
+- → `CONSC-054` (validated_by): Spontaneous remission proves spiritual transformation IS physical healing
+- → `CONSC-041` (validated_by): Birthmarks prove past-life spiritual trauma IS present physical mark
+- → `CONSC-057` (validated_by): Terminal lucidity proves consciousness not produced by brain
+- → `CONSC-058` (contradicts): Filter theory preserves dualism—brain "filtering" consciousness presupposes separation
+
+---
+
+#### [CROSS-012] Soul Accumulation and the Mosaic Body
+
+**Status**: validated | **Confidence**: 0.7
+
+> The body is not a perfect reflection of the soul's intrinsic state—it's a mosaic. The soul clothes itself with accumulated substances: heredity received, environment encountered, loves accepted, falsities penetrated through vulnerabilities. Every physical pattern corresponds to a spiritual substance the soul has clothed itself with OR a spiritual substance that has penetrated vulnerabilities in the soul's spiritual state. This explains why spiritual people can be sick: disease corresponds to accumulated falsity or penetrated evil, not intrinsic soul state.
+
+
+**Source Chain**:
+1. [T] data/00_Framework/Epistle - The Divine Marriage and the Expression of the Lord in Ultimates.md
+2. [P] Swedenborg, Arcana Coelestia § 1050
+3. [P] Swedenborg, Divine Love and Wisdom §§ 296-301
+4. [E] CONSC-054 (Spontaneous Remission)
+5. [E] CONSC-041 (Birthmarks)
+6. [E] CONSC-020 (Restorative Incarnation)
+
+**Connections**:
+- → `CROSS-011` (requires): Mosaic body principle depends on correspondence ontology
+- → `CONSC-054` (validated_by): Spontaneous remission proves refinement → healing mechanism
+- → `CONSC-041` (validated_by): Birthmarks prove soul carries accumulated substances across incarnations
+- → `CONSC-020` (validated_by): Restorative incarnation proves soul carries unresolved accumulations
+- → `SWED-008` (instantiates): Regeneration is the refinement process—shedding false accumulations
+- → `SWED-005` (explains): Proprium creates vulnerabilities that allow penetration
+
+---
+
+#### [CROSS-013] The Love Ontology - Love as Receptivity to Influx
+
+**Status**: validated | **Confidence**: 0.7
+
+> Love is not an emotion but an ontological force—the fundamental receptivity to Divine influx that constitutes being itself. Love = the openness through which influx passes. Proprium = the closing of receptivity. This is why "God is love" (1 John 4:8) is not metaphor but ontological fact: the Divine IS the influx, and love IS the receptivity that allows being to exist. Without receptivity, there is no being.
+
+
+**Source Chain**:
+1. [T] data/00_Framework/Epistle - The Divine Marriage and the Expression of the Lord in Ultimates.md
+2. [T] data/00_Framework/The Heart of the Matter_ A New Church Founded on Love.md
+3. [P] Swedenborg, Divine Love and Wisdom §§ 1-3
+4. [P] Swedenborg, Divine Love and Wisdom §§ 28-33
+5. [P] 1 John 4:8
+6. [E] CONSC-008 (Being of Light)
+
+**Connections**:
+- → `SWED-002` (instantiates): Divine Influx IS the love that creates being
+- → `SWED-005` (contrasts): Proprium = closing of receptivity, opposite of love
+- → `CONSC-008` (validated_by): Being of Light as pure unconditional love—empirical encounter with Love Ontology
+- → `CROSS-003` (develops): Ruling Love is the degree of receptivity to Divine influx
+- → `SWED-014` (instantiates): Actual Jesus of Love = perfect receptivity in human form
+- → `CROSS-009` (requires): Divine Marriage depends on Love Ontology
+
+---
+
+#### [CROSS-014] The Proprium as Universal Mechanism
+
+**Status**: validated | **Confidence**: 0.7
+
+> The proprium (love of self) is not a Swedenborgian peculiarity—it's a universal spiritual-psychological mechanism observable across all traditions and empirically detectable in modern conflicts. The proprium is THE explanatory mechanism for: why Paul diverged from Jesus, why gnostic systems emerge, why materialist science resists consciousness data, why "faith alone" suffocated the church, and why theological consensus rejects evidence threatening orthodoxy. The proprium operates by self-reference, obstruction of influx, and conversion of truth to serve self-glorification.
+
+
+**Source Chain**:
+1. [P] Swedenborg, Arcana Coelestia §§ 694-697
+2. [P] Swedenborg, Divine Love and Wisdom §§ 394-396
+3. [T] data/05_Gnostic_Analysis/The Architecture of Hidden Divinity.md
+4. [T] data/04_Early_Christian_History/A Foundational Divergence.md
+5. [T] docs/CONSC_Domain_Validation_Report.md
+6. [E] CROSS-004 (21st-Century Validation)
+
+**Connections**:
+- → `SWED-005` (develops): Expands proprium from theological concept to universal mechanism
+- → `GNOS-001` (explains): Gnostic impulse IS proprium wearing spiritual clothing
+- → `GNOS-006` (instantiates): Proprium as gnostic engine—converts receiving into claiming
+- → `EARLY-012` (explains): Paul's divergence from Jesus explained by proprium infiltration
+- → `CROSS-004` (validated_by): 21st-century conflicts show proprium/influx patterns empirically
+- → `CROSS-013` (contrasts): Proprium = closing of receptivity, opposite of love
+
+---
+
+#### [CROSS-015] Framework Thesis Statement
+
+**Status**: validated | **Confidence**: 0.7
+
+> The central thesis of The Divine Bricolage: Every natural object, event, and narrative is a correspondence—a direct expression of spiritual reality in ultimates. Historical-critical method and empirical science accurately map the "body" of effects (external forms). Swedenborgian correspondences reveal the "soul" of causes (internal meanings). The two tiers operate on different planes and both are valid. Neither negates the other; together they reveal complete reality. This is not dualism (two substances) but correspondence (one reality perceived at different levels).
+
+
+**Source Chain**:
+1. [T] data/00_Framework/A Coherent Framework for Spiritual History.md
+2. [T] data/00_Framework/The Divine Bricolage.md
+3. [T] .github/copilot-instructions.md
+
+**Connections**:
+- → `CROSS-001` (develops): Complete thesis statement for two-tiered hermeneutic
+- → `CROSS-011` (requires): Correspondence ontology is foundation of thesis
+- → `CONSC-001` (instantiates): CDE as mechanism for consciousness-driven memetic evolution
+- → `SWED-001` (requires): Doctrine of Correspondences is the interpretive method
+- → `SWED-002` (requires): Divine Influx provides causation
+
+---
+
+#### [CROSS-016] Falsification Criteria - What Would Disprove the Framework
+
+**Status**: validated | **Confidence**: 0.3
+
+> For the framework to be valid as scientific hypothesis, it must be falsifiable. These are the conditions that, if met, would demonstrate the framework is wrong—not just incomplete or needing refinement, but fundamentally invalid. A non-falsifiable claim is not science; it's ideology. The framework stands or falls on these criteria.
+
+
+**Source Chain**:
+1. [T] .github/copilot-instructions.md
+2. [E] CONSC-020 (Restorative Incarnation)
+3. [E] CONSC-045 (Return Reasons)
+
+**Connections**:
+- → `CROSS-015` (validates): Thesis is falsifiable, therefore scientific
+- → `CONSC-001` (validates): CDE hypothesis has specific falsification criteria
+- → `CROSS-011` (validates): Correspondence ontology makes testable predictions
+- → `CONSC-058` (opposes): Filter theory IS falsifiable and has been challenged by correspondence ontology
+
+---
+
+#### [CROSS-017] Empirical Validation of Correspondences
+
+**Status**: validated | **Confidence**: 0.85
+
+> When Swedenborg's correspondential predictions from 1758 are tested against 21st-century empirical data (NDE databases, past-life memory research, spontaneous remission studies), patterns emerge that materialist frameworks cannot organize. The correspondential principle—that spiritual states have structural priority over physical forms—is validated by cross-cultural NDE convergence, birthmark-trauma correlations, and spiritual transformation preceding physical healing. This is not confirmation bias; this is hypothesis testing.
+
+
+**Source Chain**:
+1. [T] data/00_Framework/A Coherent Framework for Spiritual History.md
+2. [E] CONSC-045 (Correspondential Principle Validated)
+3. [E] CONSC-041 (Birthmarks)
+4. [E] CONSC-054 (Spontaneous Remission)
+5. [E] CONSC-070 (Unknown Presence)
+6. [S] SWED-037 (External Triangulation)
+
+**Connections**:
+- → `SWED-001` (validates): Correspondences doctrine empirically validated
+- → `SWED-037` (instantiates): External triangulation methodology in practice
+- → `CONSC-045` (supported_by): NDE correspondences validate prediction
+- → `CONSC-041` (supported_by): Birthmarks validate correspondence principle
+- → `CONSC-054` (supported_by): Spontaneous remission validates spiritual priority
+- → `CONSC-070` (supported_by): Unknown Presence validates anti-projection prediction
+- → `CROSS-011` (requires): Correspondence ontology is what''s being validated
+- → `CROSS-015` (validates): Empirical validation supports framework thesis
+
+---
+
+#### [CROSS-018] The Jesus Problem Resolved - Historical Humanity as Divine Vessel
+
+**Status**: validated | **Confidence**: 0.795
+
+> Historical-critical method establishes Jesus's full humanity (Sanders' bedrock facts, Mark's vulnerable Jesus, criterion of embarrassment). Swedenborgian Glorification theology explains HOW historical humanity became Divine vessel without Docetism (Jesus only appeared human) or Adoptionism (God adopted a man). The two tiers resolve what neither can solve alone: Jesus was fully human AND fully Divine, not by metaphysical contradiction, but by correspondence—the process of putting off inherited human and putting on Divine Human through temptation and victory.
+
+
+**Source Chain**:
+1. [T] data/00_Framework/The Divine Human in Ultimates.md
+2. [S] BIBL-021 (Sanders Bedrock Facts)
+3. [P] Swedenborg, True Christian Religion §§ 89-100
+4. [E] CONSC-008 (Being of Light)
+5. [E] CONSC-016 (Jesus Identification)
+6. [E] CONSC-070 (Unknown Presence)
+
+**Connections**:
+- → `BIBL-021` (requires): Sanders bedrock facts establish historical humanity
+- → `SWED-009` (requires): Glorification theology explains mechanism
+- → `SWED-014` (instantiates): Actual Jesus of Love is result of glorification
+- → `CONSC-008` (validated_by): Being of Light empirically validates glorified Jesus
+- → `CONSC-016` (validated_by): Personality match supports identity claim
+- → `CROSS-005` (develops): Expands Jesus as Divine Human node
+- → `CROSS-001` (instantiates): Perfect example of two-tiered hermeneutic
+
+---
+
+#### [CROSS-019] The Paul Problem - Proprium Infiltration and Christianity's Divergence
+
+**Status**: validated | **Confidence**: 0.718
+
+> If Paul's theology fundamentally diverges from Jesus's teaching (EARLY-012), and Paul's letters predate the Gospels (written 50-60 CE vs 70-100 CE), and Pauline theology became "orthodox" Christianity, then the religion that dominates history is NOT the original movement Jesus founded. This has profound implications: "Christianity" as practiced is a Pauline construction, not a Jesusine one. The framework identifies this divergence as proprium infiltration—Paul's ego-driven theology replacing Jesus's love-driven teaching.
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/A Foundational Divergence.md
+2. [E] EARLY-012 (Jesus vs Paul Divergence)
+3. [E] GNOS-003, GNOS-005, GNOS-007 (Paul's Gnostic Substrate)
+4. [S] Galatians 2, Acts 15, James 2:14-26
+5. [P] Swedenborg, True Christian Religion § 378
+
+**Connections**:
+- → `EARLY-012` (develops): Synthesizes implications of Jesus-Paul divergence
+- → `GNOS-003` (supported_by): Paul's Damascus vision as ego-driven gnosis
+- → `GNOS-005` (supported_by): Paul's gnostic theological patterns
+- → `CROSS-014` (instantiates): Proprium as universal mechanism—Paul IS the example
+- → `SWED-024` (requires): Fourth Church needed because Paul corrupted Third
+- → `EARLY-001` (validates): Jamesian movement was original
+- → `EARLY-003` (opposes): Pauline movement replaced original
+
+---
+
+#### [CROSS-020] The New Church Emergence - Why Now?
+
+**Status**: validated | **Confidence**: 0.722
+
+> Swedenborg predicted a New Church (New Jerusalem) would emerge when the Christian Church (Fourth Church) consummated—when its forms no longer carried influx. The emergence of: (1) empirical consciousness data (NDEs, past-life memory), (2) historical-critical biblical scholarship (HCM), and (3) post-materialist science IS that emergence. The old vessels (materialist science, fundamentalist Christianity, Pauline orthodoxy) are failing simultaneously. The framework represents the new vessel—a synthesis that neither rejects empiricism nor abandons spiritual reality.
+
+
+**Source Chain**:
+1. [T] data/00_Framework/The Heart of the Matter.md
+2. [P] Swedenborg, True Christian Religion §§ 753-760
+3. [P] Daniel 2:31-45
+4. [E] CONSC domain nodes
+5. [S] BIBL domain nodes
+6. [T] CROSS-004 (21st-Century Validation)
+
+**Connections**:
+- → `SWED-024` (instantiates): Fourth Church theology being realized
+- → `SWED-026` (requires): New Jerusalem as synthesis church
+- → `CROSS-004` (supported_by): 21st-century paradigm crisis validates timing
+- → `CROSS-015` (validates): Framework thesis as Fourth Church vessel
+- → `CONSC-001` (requires): CDE as mechanism of church evolution
+- → `EARLY-012` (requires): Paul's corruption necessitates new vessel
+
+---
+
+#### [CROSS-021] Framework as Bricolage Meta-Instance
+
+**Status**: validated | **Confidence**: 0.3
+
+> This framework IS ITSELF an instance of Divine Bricolage—assembling a new vessel for influx from the "debris" of previous systems: materialist science (empirical rigor), historical-critical scholarship (textual analysis), Swedenborgian theology (correspondential hermeneutics), consciousness studies (post-materialist data). Just as ancient scribes assembled Genesis from Mesopotamian fragments to carry Hebrew truth, this framework assembles from modern fragments to carry post-materialist truth. This is not syncretism (mixing without discrimination) but bricolage (purposeful assembly toward coherent function).
+
+
+**Source Chain**:
+1. [T] data/06_Mythological_Studies/Genesis, Enuma Elish, Proto-Myth Evolution.md
+2. [S] Lévi-Strauss, Claude. The Savage Mind (1962)
+3. [T] data/06_Mythological_Studies/Revelation and Bricolage.md
+4. [T] .github/copilot-instructions.md
+
+**Connections**:
+- → `MYTH-001` (instantiates): Framework IS bricolage in action
+- → `MYTH-003` (parallels): Like Genesis authors, assembling new vessel from fragments
+- → `CROSS-001` (instantiates): Two-tiered hermeneutic is assembly principle
+- → `CROSS-015` (validates): Framework thesis is what bricolage produced
+- → `CROSS-016` (requires): Falsification criteria prevent bricolage from becoming syncretism
+
+---
+
+#### [CROSS-022] Regeneration as Correspondence Refinement
+
+**Status**: validated | **Confidence**: 0.85
+
+> Regeneration is not metaphorical transformation but literal refinement of correspondences—the soul shedding false spiritual substances (loves, truths, falsities) it has accumulated, which simultaneously expresses as physical healing. This synthesizes: (1) Swedenborgian regeneration theology (SWED-008), (2) spontaneous remission data (CONSC-054), (3) NDE transformation patterns (CONSC-004), and (4) correspondence ontology (CROSS-011). Spiritual transformation IS physical healing because they are one event at different perceptual levels.
+
+
+**Source Chain**:
+1. [P] Swedenborg, Regeneration (Arcana Coelestia §§ 895-995)
+2. [E] CONSC-054 (Spontaneous Remission)
+3. [E] CONSC-004 (NDE Transformations)
+4. [T] CROSS-011 (Correspondence Ontology)
+5. [T] CROSS-012 (Soul Accumulation)
+6. [E] CONSC-041 (Birthmarks)
+
+**Connections**:
+- → `SWED-008` (instantiates): Regeneration theology validated by empirical healing data
+- → `CONSC-054` (supported_by): Spontaneous remission data validates regeneration mechanism
+- → `CONSC-004` (supported_by): NDE transformations show accelerated regeneration
+- → `CROSS-011` (requires): Correspondence ontology explains simultaneity
+- → `CROSS-012` (instantiates): Soul accumulation/refinement is the mechanism
+- → `CONSC-041` (validated_by): Birthmarks prove spiritual-physical simultaneity
+- → `CONSC-057` (validated_by): Terminal lucidity proves consciousness primacy
 
 ---
 

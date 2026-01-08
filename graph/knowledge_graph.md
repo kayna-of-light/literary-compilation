@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-08 14:50*
+*Last exported: 2026-01-08 16:39*
 
 ---
 
@@ -64,6 +64,9 @@
 - → `CROSS-015` (validated_by): CDE is testable mechanism in framework thesis
 - → `CONSC-057` (supported_by): Terminal lucidity falsifies brain-production hypothesis
 - → `CONSC-041` (supported_by): Birthmarks show spiritual-physical correspondence
+- → `SWED-055` (supports): CDE provides evolutionary mechanism for church development in prophecy
+- → `SWED-056` (supports): CDE explains consciousness development driving expression
+- → `SWED-057` (supports): CDE explains maturation from indirect to internal perception
 
 ---
 
@@ -1223,6 +1226,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [T] data/01_Consciousness_Studies/The East-West NDE Dichotomy - Challenging Cultural Paradigms Through Empirical Analysis.md
 
 **Connections**:
+- → `SWED-056` (supports): Purposive economy shows consciousness persisting with purpose
 - → `CONSC-021` (develops): Extends Being of Light statistics to mission-specific analysis
 - → `CONSC-024` (supported_by): Mission commission discriminant validity supports mission classification
 - → `CONSC-010` (supports): Supports variable intensity of afterlife encounters based on need
@@ -1244,6 +1248,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `CONSC-021` (develops): Being of Light statistics from same dataset show different analysis angle
 - → `CONSC-008` (supports): Supports cultural construction of NDE interpretation layers
 - → `CONSC-004` (supports): Supports constant states/variable forms model
+- → `SWED-056` (supports): Western NDE falsification validates cross-cultural consciousness persistence
 
 ---
 
@@ -2664,6 +2669,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 9. [T] data/00_Framework/The Heart of the Matter.md
 
 **Connections**:
+- → `CROSS-020` (instantiates): Statue-stone image is the New Church emergence prophecy
 - → `SWED-001` (instantiates): Specific application of Doctrine of Correspondences
 - → `SWED-007` (develops): Four churches are successive dispensations
 - → `SWED-047` (requires): Fourth Church emergence follows statue shattering
@@ -2706,7 +2712,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-051] Swedenborg as Hypothesis Not Dogma - Methodological Framework
 
-**Status**: validated | **Confidence**: unknown
+**Status**: validated | **Confidence**: 0.3
 
 > Swedenborg himself recognized his writings as instrumental, not final. He described the New Jerusalem (final church) as using his works to "take thence those things which they consider useful"—not founding itself in his writings but receiving truth through direct influx from the Lord. This establishes the framework's methodological stance: Swedenborg's FRAMEWORK (correspondences, influx, two-tiered reality) is tested as hypothesis; his SPECIFIC APPLICATIONS based on 18th-century science may be incorrect and must be revised using modern data. Examples: (1) "Soul from father, body from mother" (ovism/preformationism)—contradicts modern genetics showing both parents contribute DNA, and contradicts his own teaching that physical IS spiritual in ultimates; (2) Geographic predictions (Africa as location of new church)—likely correspondential states, not literal geography; (3) Limbus and anti-reincarnation arguments built on false heredity assumptions. The framework honors Swedenborg by doing what HE did: hypothesis-testing with best available scientific data. His multiple inconsistent explanations of Daniel's statue across his corpus demonstrate he was working through these correspondences, not receiving inerrant revelation.
 
@@ -2731,7 +2737,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-052] Multiple Interpretive Angles: Degrees vs. Historical Churches
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.3
 
 > Swedenborg interprets Daniel's statue through complementary frameworks: (1) Descending degrees of mind—gold=celestial good (love to Lord), silver=spiritual truth (charity/faith), bronze=natural good (moral justness), iron=natural truth (external understanding), clay=falsity from self-intelligence; (2) Historical churches—Most Ancient (gold), Ancient/Noah (silver), Jewish (bronze), Christian (iron-clay). These are not contradictory but map different aspects: quality of spiritual state vs. historical location. Mountain climber analogy: biological description (oxygen saturation = spiritual degrees) vs. geographical description (camps passed = historical sequence) describe the same reality from complementary perspectives.
 
@@ -2749,7 +2755,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-053] Corpus Variations as Progressive Revelation
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.0
 
 > Chronological analysis of Swedenborg's Daniel statue interpretations shows progressive refinement: AC 3325 (1749-1756) groups legs+feet as "fourth state" with iron-clay mixing; AE 176 (1759-1760) distinguishes legs (fourth church, iron) from feet (last state, iron-clay); AE 411/483/519 (1759-1760) reveal continuous transition: Jewish church progresses from pure iron (legs) to iron-clay mixing (feet) at its end, and Christian church BEGINS from this same iron-clay state. The crucifixion correspondence (two drinks offered to Jesus) witnesses this transition. The progression reflects guided influx through developing vessel.
 
@@ -2770,7 +2776,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-054] Developmental Continuity: Child Maturation Thesis
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.3
 
 > The statue's discrete metal sections are metaphorical artifacts forcing sharp divisions onto continuous organic spiritual development. Like measuring child growth in "age brackets" (infant, toddler, child, adolescent, adult), the churches represent stages of consciousness maturation: Most Ancient=childhood (innocence, dependency, internal perception), Ancient=maturation (struggle begins, conscience forms), Jewish=adolescence (self-definition against parent, thinks it's independent), Christian=late adolescence (displacement, claims everything as self), New Church=adulthood (recognition all is from Lord). Each stage flows naturally from the previous through seamless organic transformation, not discrete replacement. The iron-clay wasn't failure but necessary adolescent stage where humanity had to believe itself independent before genuine reunion possible.
 
@@ -2788,9 +2794,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-055] Prophecy as Perception of Eternal Truth
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.892
 
-> Ancient prophecies (Saoshyant, Messiah, dying-rising god patterns) perceive eternal truth upward to spiritual reality, not forward to temporal future. The Lord ALWAYS expresses through aligned souls; what develops is consciousness capacity to perceive this in ultimates. Prophecies converge across cultures (virgin birth, celestial sign, defeat of evil, world renovation) because they accurately perceive HOW THE LORD EXPRESSES through unobstructed humanity, not predicting a future person. "There is no future—only truth and the perception of it." Jesus (likely volunteer soul) demonstrated complete expression through zero obstruction, making visible what was always true: the Lord continuously expressing through aligned souls. NDE experiencers recognize the Being of Light as Jesus because they perceive the same eternal Lord expressing.
+> Ancient prophecies (Saoshyant, Messiah) perceive eternal truth—the Lord as He expresses through unobstructed humanity—not temporal future events. Saoshyant and similar figures are ARCHETYPES (states of pure love and truth) not biographical predictions. Prophets perceive spiritual reality upward and write it correspondentially: virgin birth = pure reception without proprium, celestial sign = spiritual light appearing, defeat of evil = proprium conquered. Gospel writers IMPOSED these correspondences onto proto-Luke narratives to express spiritual truth through Jesus—historically inaccurate but correspondentially TRUE. Prophecies are "self-fulfilling" because truth grounds itself: spiritual reality (Lord as He eternally IS) progresses toward expression in ultimates. Knowing truth = knowing "future" because reality moves toward truth grounding. Jesus demonstrated complete expression (zero obstruction), making visible what was always true. NDE experiencers recognize the Being of Light because they perceive the same eternal Lord expressing.
 
 
 **Source Chain**:
@@ -2802,14 +2808,18 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-049` (develops): Explains how Daniel perceived the Lord expressing through history
 - → `CONSC-021` (supported_by): NDE Being of Light identification validates perception thesis
 - → `SWED-056` (requires): Jesus as demonstration depends on Lord always expressing
+- → `EARLY-005` (supported_by): Magi as carriers of correspondence knowledge validate prophecy mechanism
+- → `SWED-019` (supported_by): Magi demonstrate prophecy as perceiving truth + imposing correspondences
+- → `CONSC-001` (supported_by): CDE provides evolutionary mechanism for church development
+- → `MYTH-004` (parallels): Both use correspondential interpretation vs literalism
 
 ---
 
 #### [SWED-056] Divine Human as Lord Expressing: Jesus Demonstration
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.85
 
-> Jesus demonstrates complete expression of what is universally true: the Lord continuously expressing through aligned souls. The difference is degree (zero obstruction) not kind (divine vs. human category). Every act of love through any person IS the Lord expressing—Jesus proved this completely by becoming fully transparent vessel. "There is no image apart from the Lord" (Epistle on Divine Marriage). Jesus IS the Divine Human not because categorically different but because the Lord fully expresses through him—not two things (Jesus + divinity) but ONE: the Lord in ultimates through unobstructed humanity. The teaching: when we see wisdom through ANY person, that's the Lord expressing (not "inspired by" but IS). Degree varies by obstruction; SOURCE always the Lord.
+> Jesus demonstrates complete expression of what is universally true: the Lord continuously expressing through aligned souls. The difference is degree (zero obstruction) not kind (divine vs. human category). There is no distinction between Jesus and the Lord because the expression IS what we perceive—not the vessel in itself but the Lord expressing through it. Every act of love through any person IS the Lord expressing. "There is no image apart from the Lord" (Epistle on Divine Marriage). Jesus IS the Divine Human because the Lord fully expresses through him—not two things (Jesus + divinity) but ONE: the Lord in ultimates through unobstructed humanity. An angel who expresses the Lord is not the Lord in itself, but the expression is what we perceive, not the angel in itself. Degree varies by obstruction; SOURCE always the Lord.
 
 
 **Source Chain**:
@@ -2823,27 +2833,32 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-055` (develops): Jesus demonstrates what prophecies perceived
 - → `SWED-050` (develops): Glorification as Lord expressing without obstruction
 - → `CONSC-021` (supported_by): Being of Light as Lord expressing in near-death state
-- → `CONSC-020` (requires): Volunteer soul hypothesis provides mechanism for Jesus's zero obstruction capacity
+- → `CONSC-001` (supported_by): CDE explains consciousness development driving expression
+- → `CONSC-062` (supported_by): Purposive economy shows consciousness persisting with purpose
+- → `CONSC-063` (supported_by): Western NDE falsification - consciousness persists cross-culturally
 
 ---
 
-#### [SWED-057] Stone Shatters Image Not Churches
+#### [SWED-057] Stone and Statue: Internal vs Indirect Perception
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.595
 
-> The stone (New Jerusalem/New Church) shatters the IMAGE (externalized representation, proprium's claim) not the spiritual substance churches accomplished. Christian church BEGINS from iron-clay mixing that emerges at Jewish church's end—continuous transition witnessed by cross correspondence: Jesus refuses Jewish falsified truth (vinegar-with-gall) but accepts Christian ignorant mixture (plain-vinegar) because falsity from ignorance can be purified. Entire Christian dispensation carries iron-clay characteristics (faith separated from charity, truth without good) from inception. Earth itself is true church (souls developing); statue is externalized image. Stone "cut without hands" rolls on its own—truth self-establishing.
+> The statue represents indirect perception—humanity perceiving the Lord THROUGH external structures (doctrines, rituals, images) rather than internally. This mediation is NECESSARY for consciousness not yet capable of direct reception. The stone represents internal perception—direct reception of the Lord from heart, "not by hands" (not by power of ultimates). When stone strikes feet, the statue becomes "like chaff from summer threshing-floors"—the HARVEST metaphor: grain (received good) preserved eternally, chaff (empty delivery mechanisms) carried away by wind (truth), "no place found" = absence of need. Not judgment but completion: external forms served their purpose mediating truth until internal perception could awaken. Stone grows into mountain (Divine Love) filling earth (church as inner state). Maturation from indirect to direct perception, not destruction.
 
 
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual Development Through Daniel's Prophecy.md
 2. [P] Daniel 2:34-35
 3. [P] Swedenborg, True Christian Religion § 760
+4. [T] data/02_Swedenborgian_Theology/A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg.md
 
 **Connections**:
 - → `SWED-049` (develops): Explains what the stone destroys and why
 - → `SWED-047` (develops): Fourth Church emergence after statue shattering
 - → `CROSS-002` (parallels): Divine Bricolage mechanism—truth self-establishing
 - → `EARLY-002` (requires): James-Paul split created iron-clay mixture
+- → `CONSC-001` (supported_by): CDE explains maturation from indirect to internal perception
+- → `CROSS-020` (instantiates): Stone growing into mountain is New Church emergence
 
 ---
 
@@ -3411,6 +3426,7 @@ events exist in causal networks.
 **Connections**:
 - → `SWED-004` (supports): Ancient Word transmission through Persian channel
 - → `MYTH-003` (parallels): Memory Code preserved in ritual systems
+- → `SWED-055` (supports): Magi tradition validates prophecy as perceiving truth + correspondences
 
 ---
 
@@ -3457,6 +3473,7 @@ events exist in causal networks.
 - → `SWED-007` (precedes): Magi represent transition from Ancient to Christian church
 - → `MYTH-008` (develops): Echoes of Ancient Word preserved by Magi
 - → `EARLY-001` (parallels): Jamesian movement as similar preservation effort
+- → `SWED-055` (supports): Magi demonstrate prophecy mechanism—perceiving truth + imposing correspondences
 
 ---
 
@@ -4111,7 +4128,7 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 
 #### [GNOS-019] Path of Emptying vs Path of Restoration
 
-**Status**: validated | **Confidence**: unknown
+**Status**: validated | **Confidence**: 0.3
 
 > Two opposing responses to the problem of perverted spiritual influx. PATH OF EMPTYING (Buddhism, certain Gnostic streams): Recognizes perverted influx causes suffering; solution is emptying of ALL influx/attachment to end suffering through cessation (nirvana). If nothing flows in, if we cease to exist as receiving beings, we become free. Detachment from everything. Addresses problem by ending reception itself. PATH OF RESTORATION (Lord-centered): Recognizes perverted influx causes suffering; solution is receiving DIRECT influx from Lord to HEAL what's twisted. Wholeness through proper reception, not cessation. Perverted spiritual states = truth twisted by proprium, only restorable by Lord's influx. When Lord flows unobstructed → spiritual causes heal → natural effects transform. Not removal but restoration. The paths appear similar ("empty yourself of bad things") but operate oppositely: Emptying withdraws from all influx; Restoration receives from Lord. Buddhism: problem is influx/desire itself → withdraw completely. Restoration: problem is OBSTRUCTION (proprium) preventing proper reception → receive without obstruction. Empirical data (NDEs) shows transformation through FILLING with unobstructed influx, not emptying. Healing occurs when twisted truth becomes truth again through Lord's restoration.
 
@@ -4205,6 +4222,7 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 **Connections**:
 - → `SWED-007` (develops): Fall narrative as cognitive shift allegory
 - → `BIBL-001` (complements): HCM confirms non-literality; correspondences supply meaning
+- → `SWED-055` (parallels): Both use correspondential interpretation vs literalism
 
 ---
 
@@ -4927,7 +4945,7 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 **Connections**:
 - → `CROSS-001` (develops): Complete thesis statement for two-tiered hermeneutic
 - → `CROSS-011` (requires): Correspondence ontology is foundation of thesis
-- → `CONSC-001` (instantiates): CDE as mechanism for consciousness-driven memetic evolution
+- → `CONSC-001` (validated_by): CDE as testable mechanism validates framework hypothesis
 - → `SWED-001` (requires): Doctrine of Correspondences is the interpretive method
 - → `SWED-002` (requires): Divine Influx provides causation
 
@@ -5051,7 +5069,7 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 - → `SWED-026` (requires): New Jerusalem as synthesis church
 - → `CROSS-004` (supported_by): 21st-century paradigm crisis validates timing
 - → `CROSS-015` (validates): Framework thesis as Fourth Church vessel
-- → `CONSC-001` (requires): CDE as mechanism of church evolution
+- → `CONSC-001` (supported_by): CDE explains mechanism of church evolution
 - → `EARLY-012` (requires): Paul's corruption necessitates new vessel
 
 ---

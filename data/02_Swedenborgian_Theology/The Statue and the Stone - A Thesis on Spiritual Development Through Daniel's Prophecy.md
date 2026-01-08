@@ -693,5 +693,5 @@ This thesis operates within the two-tiered hermeneutic framework established by 
 ---
 
 *Completed January 8, 2026*  
-*Word Count: 18,750*  
+*Word Count: 7,197*  
 *For inclusion in Literary Compilation output/theses*

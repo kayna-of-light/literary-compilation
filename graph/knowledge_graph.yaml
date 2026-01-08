@@ -19238,11 +19238,19 @@ extended_nodes:
       type: addresses
       note: Both paths address proprium problem differently - emptying vs restoration
     - target: CONSC-016
-      type: supports
-      note: NDE empirical data supports restoration over emptying
+      type: contextualizes
+      note: Emptying/restoration distinction contextualizes NDE Jesus identification
+        hypothesis
     - target: CROSS-003
       type: instantiates
       note: Ruling love (love of Lord vs love of self) determines restoration capacity
+    - target: CONSC-022
+      type: supported_by
+      note: Judgment statistics validate restoration (loving judgment 36.5:1 over
+        harsh)
+    - target: CONSC-004
+      type: supported_by
+      note: NDE transformation data validates restoration through receiving love
     notes: 'CRITICAL DISTINCTION: "Empty yourself of bad things" sounds identical
       but means opposite things. Buddhism: empty of EVERYTHING (all influx/desire/attachment)
       → cessation of being as receiver. Restoration: receive from LORD → twisted reception
@@ -19262,7 +19270,7 @@ extended_nodes:
     created: '2026-01-08'
     updated: '2026-01-08'
     trace_status: complete
-    confidence: 0.3
+    confidence: 0.7
   MYTH-020:
     title: Halbwachs Collective Memory Framework
     domain: MYTH
@@ -20158,23 +20166,24 @@ extended_nodes:
       strength: moderate
     connections:
     - target: SWED-009
-      type: supports
+      type: contextualizes
       note: The Divine Human doctrine requires two-state process
     - target: BIBL-011
-      type: develops
-      note: Criterion of Embarrassment becomes Criterion of Temptation
+      type: validated_by
+      note: Criterion of Temptation analysis validates two-state framework for Gospel
+        interpretation
     - target: BIBL-021
       type: explains
       note: Explains Jesus''s "embarrassing" human moments as exinanition states
     - target: CROSS-018
-      type: requires
+      type: required_by
       note: Jesus Problem resolved via two-state consciousness framework
     - target: SWED-001
       type: instantiates
       note: Two states exemplify correspondence between finite (human) and infinite
         (divine) planes
     - target: SWED-002
-      type: requires
+      type: required_by
       note: Glorification = moments when Divine Influx overwhelms finite vessel completely
     notes: 'This doctrine is essential for resolving the "Jesus Problem" in HCM—the
       apparent contradictions between Jesus''s human limitations and divine claims.
@@ -20189,14 +20198,7 @@ extended_nodes:
     created: '2026-01-08'
     updated: '2026-01-08'
     trace_status: complete
-    confidence_factors:
-      source_type: external
-      methodology: textual_critical
-      sample_size: na
-      replication: na
-      peer_review: primary_text
-      source_chain_quality: primary_verified
-    confidence: 0.3
+    confidence: 0.497
   SWED-051:
     title: Swedenborg as Hypothesis Not Dogma - Methodological Framework
     domain: SWED
@@ -20334,7 +20336,7 @@ extended_nodes:
     created: '2026-01-08'
     updated: '2026-01-08'
     trace_status: complete
-    confidence: 0.3
+    confidence: 0.7
   SWED-052:
     title: 'Multiple Interpretive Angles: Degrees vs. Historical Churches'
     domain: SWED
@@ -20455,7 +20457,35 @@ extended_nodes:
     created: '2026-01-08'
     updated: '2026-01-08'
     trace_status: partial
-    confidence: 0.0
+    confidence_factors:
+      source_type: internal
+      methodology: textual_critical
+      sample_size: na
+      replication: na
+      methodological_transparency: full
+      source_data_quality: curated_corpus
+      critic_reviewed: not_reviewed
+    extraction_notes: 'CORRECTED 2026-01-08: Changed sample_size and replication to
+      na—these factors don''t apply to textual analysis. INTERNAL track. The analysis
+      examines 6 primary Swedenborg passages (AC 3325, AE 83, 176, 410, 411, 483,
+      519) comparing his treatment of Daniel''s statue chronologically (1749-1756
+      vs 1759-1760). The PROOF is in reading the primary texts and observing progressive
+      refinement patterns. The "progressive revelation" interpretation is framework
+      synthesis applied to verifiable textual progression. METHODOLOGY: textual_critical—systematic
+      chronological comparison with direct quotations. SAMPLE_SIZE: na (not applicable
+      to textual analysis). TRANSPARENCY: full—complete citations, direct quotes,
+      clear distinction between Swedenborg''s words and framework interpretation.
+      SOURCE_DATA_QUALITY: peer_reviewed_book (standard Swedenborg Foundation scholarly
+      editions). REPLICATION: na (textual analysis doesn''t require replication).
+      STRENGTHS: Chronological rigor, cross-validation via crucifixion correspondence,
+      internally consistent with Swedenborg''s gradual influx doctrine. LIMITATIONS:
+      Interpretive leap (variations as guided influx vs changing mind), no external
+      validation, analysis of single correspondence, translation-dependent. Would
+      benefit from independent Swedenborg scholar verification and broader corpus
+      analysis showing similar refinement patterns across other correspondences.
+
+      '
+    confidence: 0.731
   SWED-054:
     title: 'Developmental Continuity: Child Maturation Thesis'
     domain: SWED
@@ -21354,6 +21384,15 @@ extended_nodes:
     - target: SWED-002
       type: parallels
       note: Adaptive agency parallels Divine Influx adapting to recipient capacity
+    - target: CONSC-021
+      type: supported_by
+      note: Being of Light identification statistics validate Light as objective reality
+    - target: CONSC-022
+      type: supported_by
+      note: Judgment/transformation stats validate Light's pedagogical agency
+    - target: CONSC-023
+      type: supported_by
+      note: Singularity/authority stats validate Light's autonomous agency
     notes: 'The "meta-cognitive awareness" phenomenon is particularly devastating
       to materialist explanations. A hallucination generated by a dying brain cannot
       step outside itself to explain why it appears a certain way. The Light''s ability
@@ -21370,7 +21409,7 @@ extended_nodes:
     created: '2025-01-07'
     updated: '2025-01-07'
     trace_status: complete
-    confidence: 0.3
+    confidence: 0.853
   CONSC-068:
     title: 'East-West NDE Dichotomy: Dual Construction Thesis'
     domain: CONSC

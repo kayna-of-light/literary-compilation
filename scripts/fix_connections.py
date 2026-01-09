@@ -160,6 +160,8 @@ CONVERSION_RULES = {
     # ===== EVIDENCE → HYPOTHESIS =====
     ('evidence', 'hypothesis', 'develops'): 'supports',  # Evidence supports hypothesis, not develops
     ('evidence', 'hypothesis', 'developed_by'): 'supports',  # Wrong direction
+    ('evidence', 'hypothesis', 'explained_by'): 'supports',  # Wrong direction - evidence supports, doesn't get explained
+    ('evidence', 'hypothesis', 'contextualized_by'): 'supports',  # Wrong direction
     
     # ===== EVIDENCE → CONCEPT =====
     ('evidence', 'concept', 'developed_by'): 'parallels',  # Chain skip
@@ -167,9 +169,14 @@ CONVERSION_RULES = {
     ('evidence', 'concept', 'requires'): 'parallels',  # Can't require across chain skip
     ('evidence', 'concept', 'produced_by'): 'parallels',  # Chain skip
     ('evidence', 'concept', 'reveals'): 'parallels',  # Chain skip
+    ('evidence', 'concept', 'explained_by'): 'parallels',  # Chain skip - evidence doesn't get explained by concept
     
     # ===== EVIDENCE → SYNTHESIS =====
     ('evidence', 'synthesis', 'develops'): 'parallels',  # Chain skip
+    ('evidence', 'synthesis', 'explained_by'): 'parallels',  # Chain skip
+    
+    # ===== EVIDENCE → FOUNDATIONAL =====
+    ('evidence', 'foundational', 'contextualized_by'): 'parallels',  # Chain skip
     
     # ===== EVIDENCE → HYPOTHESIS =====
     ('evidence', 'hypothesis', 'requires'): 'supports',  # Evidence supports
@@ -194,25 +201,35 @@ CONVERSION_RULES = {
     ('hypothesis', 'concept', 'produced_by'): 'developed_by',
     ('hypothesis', 'concept', 'contained'): 'developed_by',
     ('hypothesis', 'concept', 'contains'): 'developed_by',
+    ('hypothesis', 'concept', 'contextualized_by'): 'developed_by',  # Hypothesis is developed by concept
+    ('hypothesis', 'concept', 'explained_by'): 'developed_by',  # Same
     
     # ===== HYPOTHESIS → HYPOTHESIS =====
     ('hypothesis', 'hypothesis', 'instantiates'): 'develops',  # Use develops for peers
     ('hypothesis', 'hypothesis', 'produced_by'): 'developed_by',
     ('hypothesis', 'hypothesis', 'produces'): 'develops',
+    ('hypothesis', 'hypothesis', 'contextualized_by'): 'parallels',  # Peer level
+    ('hypothesis', 'hypothesis', 'explained_by'): 'develops',
     
     # ===== HYPOTHESIS → FOUNDATIONAL =====
     ('hypothesis', 'foundational', 'contradicts'): 'contrasts',  # Use contrasts
     ('hypothesis', 'foundational', 'requires'): 'developed_by',  # Chain skip
     ('hypothesis', 'foundational', 'produces'): 'developed_by',
     ('hypothesis', 'foundational', 'supported_by'): 'developed_by',
+    ('hypothesis', 'foundational', 'contextualized_by'): 'developed_by',  # Wrong direction
+    ('hypothesis', 'foundational', 'explained_by'): 'developed_by',  # Wrong direction
     
     # ===== HYPOTHESIS → EVIDENCE =====
     ('hypothesis', 'evidence', 'validates'): 'explains',  # Wrong direction
     ('hypothesis', 'evidence', 'contains'): 'explains',
+    ('hypothesis', 'evidence', 'opposes'): 'contrasts',  # Use contrasts for cross-level opposition
+    ('hypothesis', 'evidence', 'contradicts'): 'contrasts',  # Hypothesis contrasts evidence, doesn't contradict
     
     # ===== HYPOTHESIS → SYNTHESIS =====
     ('hypothesis', 'synthesis', 'supported_by'): 'parallels',  # Chain skip
     ('hypothesis', 'synthesis', 'produced_by'): 'parallels',
+    ('hypothesis', 'synthesis', 'developed_by'): 'parallels',  # Chain skip
+    ('hypothesis', 'synthesis', 'contextualized_by'): 'parallels',  # Chain skip
     
     # ===== SYNTHESIS → CONCEPT =====
     ('synthesis', 'concept', 'opposes'): 'contrasts',
@@ -221,6 +238,7 @@ CONVERSION_RULES = {
     ('synthesis', 'concept', 'precedes'): 'integrated_from',  # Wrong direction
     ('synthesis', 'concept', 'validates'): 'integrated_from',  # Wrong direction
     ('synthesis', 'concept', 'reveals'): 'integrated_from',
+    ('synthesis', 'concept', 'explained_by'): 'integrated_from',  # Synthesis integrates from concept
     
     # ===== SYNTHESIS → EVIDENCE =====
     ('synthesis', 'evidence', 'instantiated_by'): 'parallels',
@@ -244,6 +262,9 @@ CONVERSION_RULES = {
     ('synthesis', 'synthesis', 'instantiates'): 'complements',
     ('synthesis', 'synthesis', 'validates'): 'complements',
     
+    # ===== SYNTHESIS → EVIDENCE =====
+    ('synthesis', 'evidence', 'contextualized_by'): 'parallels',  # Chain skip
+    
     # ===== FOUNDATIONAL → FOUNDATIONAL =====
     ('foundational', 'foundational', 'validated_by'): 'parallels',
     ('foundational', 'foundational', 'supports'): 'parallels',
@@ -253,12 +274,17 @@ CONVERSION_RULES = {
     ('foundational', 'hypothesis', 'supported_by'): 'contextualizes',
     ('foundational', 'hypothesis', 'opposes'): 'contrasts',
     ('foundational', 'hypothesis', 'contradicts'): 'contrasts',
+    ('foundational', 'hypothesis', 'develops'): 'contextualizes',  # Foundational contextualizes, doesn't develop hypothesis directly
     
     # ===== FOUNDATIONAL → CONCEPT =====
     ('foundational', 'concept', 'validates'): 'develops',
     ('foundational', 'concept', 'produced_by'): 'develops',
     ('foundational', 'concept', 'contradicts'): 'contrasts',
     ('foundational', 'concept', 'complements'): 'develops',
+    ('foundational', 'concept', 'developed_by'): 'develops',  # Wrong direction - foundational develops concept
+    
+    # ===== FOUNDATIONAL → EVIDENCE =====
+    ('foundational', 'evidence', 'contextualized_by'): 'parallels',  # Chain skip
     
     # ===== FOUNDATIONAL → SYNTHESIS =====
     ('foundational', 'synthesis', 'validated_by'): 'parallels',
@@ -281,11 +307,17 @@ CONVERSION_RULES = {
     ('concept', 'foundational', 'supported_by'): 'developed_by',
     ('concept', 'foundational', 'developed_from'): 'developed_by',
     ('concept', 'foundational', 'produces'): 'developed_by',
+    ('concept', 'foundational', 'explained_by'): 'developed_by',  # Concept is developed by foundational
     
     # ===== CONCEPT → HYPOTHESIS =====
     ('concept', 'hypothesis', 'instantiated_by'): 'develops',
     ('concept', 'hypothesis', 'opposes'): 'contrasts',
     ('concept', 'hypothesis', 'revealed_by'): 'develops',
+    ('concept', 'hypothesis', 'explained_by'): 'develops',  # Concept develops hypothesis
+    
+    # ===== CONCEPT → CONCEPT =====
+    ('concept', 'concept', 'contextualized_by'): 'parallels',  # Peer level
+    ('concept', 'concept', 'explained_by'): 'develops',  # One concept develops another
     
     # ===== CONCEPT → SYNTHESIS =====
     ('concept', 'synthesis', 'developed_by'): 'integrates_into',

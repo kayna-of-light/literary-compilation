@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-08 16:39*
+*Last exported: 2026-01-08 20:38*
 
 ---
 
@@ -11,7 +11,7 @@
 | Metric | Count |
 |--------|-------|
 | Total Nodes | 229 |
-| Total Connections | 741 |
+| Total Connections | 0 |
 | Untraced Claims | 9 |
 
 ### By Status
@@ -53,20 +53,39 @@
 
 **Connections**:
 - → `CROSS-003` (requires): Ruling love polarity drives the selective pressure
-- → `CONSC-002` (supported_by): DOPS data provides empirical foundation for consciousness persistence
-- → `MYTH-002` (develops): Explains divergent myth trajectories from proto-myths
-- → `CONSC-010` (supported_by): Volunteer souls = direct influx of love-aligned consciousness
-- → `CONSC-045` (supported_by): Correspondences show consciousness-structured reality
-- → `CONSC-044` (supported_by): Entity ecosystem demonstrates organized spiritual system
-- → `SWED-002` (instantiates): CDE is empirical face of divine influx doctrine
+- → `CONSC-002` (parallels): DOPS data provides empirical foundation for consciousness persistence
+- → `MYTH-002` (contextualizes): Explains divergent myth trajectories from proto-myths
+- → `CONSC-010` (contextualizes): Volunteer souls = direct influx of love-aligned consciousness
+- → `CONSC-045` (parallels): Correspondences show consciousness-structured reality
+- → `CONSC-044` (parallels): Entity ecosystem demonstrates organized spiritual system
+- → `SWED-002` (develops): CDE is empirical face of divine influx doctrine
 - → `CROSS-011` (requires): Depends on correspondence ontology—consciousness not produced but expressed
-- → `CROSS-013` (instantiates): Love ontology—receptivity to influx is what creates being
-- → `CROSS-015` (validated_by): CDE is testable mechanism in framework thesis
-- → `CONSC-057` (supported_by): Terminal lucidity falsifies brain-production hypothesis
-- → `CONSC-041` (supported_by): Birthmarks show spiritual-physical correspondence
-- → `SWED-055` (supports): CDE provides evolutionary mechanism for church development in prophecy
-- → `SWED-056` (supports): CDE explains consciousness development driving expression
-- → `SWED-057` (supports): CDE explains maturation from indirect to internal perception
+- → `CROSS-013` (develops): Love ontology—receptivity to influx is what creates being
+- → `CROSS-015` (parallels): CDE is testable mechanism in framework thesis
+- → `CONSC-057` (parallels): Terminal lucidity falsifies brain-production hypothesis
+- → `CONSC-041` (parallels): Birthmarks show spiritual-physical correspondence
+- → `SWED-055` (contextualizes): CDE provides evolutionary mechanism for church development in prophecy
+- → `SWED-056` (develops): CDE explains consciousness development driving expression
+- → `SWED-057` (develops): CDE explains maturation from indirect to internal perception
+- → `CROSS-003` (develops): Inverse of: CROSS-003 --developed_by--> CONSC-001
+- → `MYTH-007` (develops): Inverse of: MYTH-007 --developed_by--> CONSC-001
+- → `CONSC-010` (contextualizes): Inverse of: CONSC-010 --developed_by--> CONSC-001
+- → `CONSC-011` (develops): Inverse of: CONSC-011 --developed_by--> CONSC-001
+- → `MYTH-010` (contextualizes): Inverse of: MYTH-010 --developed_by--> CONSC-001
+- → `CONSC-017` (parallels): Inverse of: CONSC-017 --parallels--> CONSC-001
+- → `CONSC-019` (parallels): Inverse of: CONSC-019 --parallels--> CONSC-001
+- → `SWED-032` (develops): Inverse of: SWED-032 --developed_by--> CONSC-001
+- → `CONSC-043` (contextualizes): Inverse of: CONSC-043 --developed_by--> CONSC-001
+- → `CROSS-010` (developed_by): Inverse of: CROSS-010 --develops--> CONSC-001
+- → `CROSS-016` (parallels): Inverse of: CROSS-016 --parallels--> CONSC-001
+- → `CROSS-020` (parallels): Inverse of: CROSS-020 --parallels--> CONSC-001
+- → `CONSC-024` (parallels): Inverse of: CONSC-024 --parallels--> CONSC-001
+- → `CONSC-046` (parallels): Inverse of: CONSC-046 --parallels--> CONSC-001
+- → `CONSC-058` (contrasts): Inverse of: CONSC-058 --contrasts--> CONSC-001
+- → `SWED-055` (contextualizes): Inverse of: SWED-055 --developed_by--> CONSC-001
+- → `CONSC-078` (parallels): Inverse of: CONSC-078 --parallels--> CONSC-001
+- → `CONSC-079` (parallels): Inverse of: CONSC-079 --parallels--> CONSC-001
+- → `SWED-037` (intersects): Inverse of: SWED-037 --intersects--> CONSC-001
 
 ---
 
@@ -89,12 +108,29 @@
 9. [E] Tucker. 'Response to Sudduth' (JSE 2022)
 
 **Connections**:
-- → `CONSC-001` (supports): Provides empirical evidence for consciousness persistence
+- → `CONSC-001` (parallels): Provides empirical evidence for consciousness persistence
 - → `CONSC-004` (parallels): Intermission memories parallel NDE reports
 - → `CONSC-005` (supports): High violent death rate supports Restorative Incarnation path
 - → `CONSC-020` (supports): 70%+ violent death data from DOPS corpus
 - → `CONSC-040` (develops): Type A/B distinction validates methodology
 - → `CONSC-041` (develops): Birthmark data provides biological signal
+- → `CONSC-005` (supports): Inverse of: CONSC-005 --explains--> CONSC-002
+- → `CONSC-018` (parallels): Inverse of: CONSC-018 --explains--> CONSC-002
+- → `CONSC-042` (supports): Inverse of: CONSC-042 --explains--> CONSC-002
+- → `CONSC-043` (parallels): Inverse of: CONSC-043 --parallels--> CONSC-002
+- → `CONSC-020` (supports): Inverse of: CONSC-020 --explains--> CONSC-002
+- → `CONSC-026` (parallels): Inverse of: CONSC-026 --parallels--> CONSC-002
+- → `CONSC-027` (contrasts): Inverse of: CONSC-027 --contrasts--> CONSC-002
+- → `CONSC-028` (supported_by): Inverse of: CONSC-028 --supports--> CONSC-002
+- → `CONSC-030` (parallels): Inverse of: CONSC-030 --parallels--> CONSC-002
+- → `CONSC-034` (validated_by): Inverse of: CONSC-034 --validates--> CONSC-002
+- → `CONSC-040` (developed_by): Inverse of: CONSC-040 --develops--> CONSC-002
+- → `CONSC-041` (developed_by): Inverse of: CONSC-041 --develops--> CONSC-002
+- → `CONSC-046` (supported_by): Inverse of: CONSC-046 --supports--> CONSC-002
+- → `CONSC-047` (parallels): Inverse of: CONSC-047 --parallels--> CONSC-002
+- → `CONSC-048` (complemented_by): Inverse of: CONSC-048 --complements--> CONSC-002
+- → `CONSC-050` (complemented_by): Inverse of: CONSC-050 --complements--> CONSC-002
+- → `CONSC-077` (parallels): Inverse of: CONSC-077 --parallels--> CONSC-002
 
 ---
 
@@ -112,10 +148,26 @@
 4. [E] data/01_Consciousness_Studies/Sequential Structure in NDE - Validating the Threefold Path Model.md
 
 **Connections**:
-- → `CROSS-003` (reveals): Life review makes ruling love manifest
+- → `CROSS-003` (parallels): Life review makes ruling love manifest
 - → `SWED-003` (parallels): Corresponds to Swedenborg's World of Spirits unveiling
-- → `CONSC-004` (instantiates): Core component of NDE phenomenology
+- → `CONSC-004` (parallels): Core component of NDE phenomenology
 - → `CONSC-029` (complements): CONSC-029 provides detailed analysis of restorative character
+- → `CROSS-003` (parallels): Inverse of: CROSS-003 --explains--> CONSC-003
+- → `CONSC-004` (contained_by): Inverse of: CONSC-004 --contains--> CONSC-003
+- → `SWED-011` (parallels): Inverse of: SWED-011 --parallels--> CONSC-003
+- → `SWED-014` (parallels): Inverse of: SWED-014 --explains--> CONSC-003
+- → `CONSC-010` (supports): Inverse of: CONSC-010 --explains--> CONSC-003
+- → `SWED-018` (parallels): Inverse of: SWED-018 --explains--> CONSC-003
+- → `CONSC-014` (supports): Inverse of: CONSC-014 --explains--> CONSC-003
+- → `SWED-025` (parallels): Inverse of: SWED-025 --explains--> CONSC-003
+- → `CONSC-016` (supports): Inverse of: CONSC-016 --explains--> CONSC-003
+- → `CONSC-017` (developed_by): Inverse of: CONSC-017 --develops--> CONSC-003
+- → `CONSC-019` (developed_by): Inverse of: CONSC-019 --develops--> CONSC-003
+- → `CONSC-028` (supported_by): Inverse of: CONSC-028 --supports--> CONSC-003
+- → `CONSC-029` (developed_by): Inverse of: CONSC-029 --develops--> CONSC-003
+- → `CONSC-030` (parallels): Inverse of: CONSC-030 --parallels--> CONSC-003
+- → `CONSC-078` (supported_by): Inverse of: CONSC-078 --supports--> CONSC-003
+- → `CONSC-079` (supported_by): Inverse of: CONSC-079 --supports--> CONSC-003
 
 ---
 
@@ -134,7 +186,30 @@
 **Connections**:
 - → `CONSC-003` (contains): Life review is core NDE component
 - → `CONSC-002` (parallels): Intermission memories match NDE structure
-- → `SWED-003` (supports): Features align with Swedenborg's post-mortem description
+- → `SWED-003` (parallels): Features align with Swedenborg's post-mortem description
+- → `CONSC-003` (parallels): Inverse of: CONSC-003 --parallels--> CONSC-004
+- → `CONSC-008` (supports): Inverse of: CONSC-008 --explains--> CONSC-004
+- → `SWED-018` (parallels): Inverse of: SWED-018 --parallels--> CONSC-004
+- → `SWED-019` (parallels): Inverse of: SWED-019 --parallels--> CONSC-004
+- → `BIBL-010` (parallels): Inverse of: BIBL-010 --parallels--> CONSC-004
+- → `CONSC-014` (supports): Inverse of: CONSC-014 --explains--> CONSC-004
+- → `CONSC-043` (supports): Inverse of: CONSC-043 --explains--> CONSC-004
+- → `CONSC-044` (developed_by): Inverse of: CONSC-044 --develops--> CONSC-004
+- → `CROSS-022` (parallels): Inverse of: CROSS-022 --parallels--> CONSC-004
+- → `CONSC-021` (developed_by): Inverse of: CONSC-021 --develops--> CONSC-004
+- → `CONSC-022` (developed_by): Inverse of: CONSC-022 --develops--> CONSC-004
+- → `CONSC-024` (developed_by): Inverse of: CONSC-024 --develops--> CONSC-004
+- → `CONSC-028` (developed_by): Inverse of: CONSC-028 --develops--> CONSC-004
+- → `SWED-047` (supports): Inverse of: SWED-047 --explains--> CONSC-004
+- → `CONSC-054` (supported_by): Inverse of: CONSC-054 --supports--> CONSC-004
+- → `GNOS-019` (parallels): Inverse of: GNOS-019 --parallels--> CONSC-004
+- → `CONSC-056` (parallels): Inverse of: CONSC-056 --parallels--> CONSC-004
+- → `CONSC-058` (contrasts): Inverse of: CONSC-058 --contrasts--> CONSC-004
+- → `CONSC-059` (parallels): Inverse of: CONSC-059 --parallels--> CONSC-004
+- → `CONSC-060` (parallels): Inverse of: CONSC-060 --explains--> CONSC-004
+- → `CONSC-063` (supported_by): Inverse of: CONSC-063 --supports--> CONSC-004
+- → `CONSC-064` (supported_by): Inverse of: CONSC-064 --supports--> CONSC-004
+- → `CONSC-079` (supported_by): Inverse of: CONSC-079 --supports--> CONSC-004
 
 ---
 
@@ -151,8 +226,15 @@
 3. [E] UVA DOPS research
 
 **Connections**:
-- → `CONSC-002` (develops): Provides interpretive framework for DOPS data
-- → `SWED-003` (develops): Extends Swedenborg's model to accommodate reincarnation
+- → `CONSC-002` (explains): Provides interpretive framework for DOPS data
+- → `SWED-003` (developed_by): Extends Swedenborg's model to accommodate reincarnation
+- → `CONSC-002` (supported_by): Inverse of: CONSC-002 --supports--> CONSC-005
+- → `SWED-015` (parallels): Inverse of: SWED-015 --parallels--> CONSC-005
+- → `CONSC-010` (developed_by): Inverse of: CONSC-010 --develops--> CONSC-005
+- → `CONSC-020` (developed_by): Inverse of: CONSC-020 --develops--> CONSC-005
+- → `CONSC-034` (validated_by): Inverse of: CONSC-034 --validates--> CONSC-005
+- → `CONSC-046` (validated_by): Inverse of: CONSC-046 --validates--> CONSC-005
+- → `CONSC-077` (supported_by): Inverse of: CONSC-077 --supports--> CONSC-005
 
 ---
 
@@ -169,8 +251,14 @@
 
 **Connections**:
 - → `SWED-005` (parallels): Emissary usurpation = proprium dominance
-- → `MYTH-002` (supports): Two hearts correspond to two hemispheric modes
+- → `MYTH-002` (develops): Two hearts correspond to two hemispheric modes
 - → `CONSC-007` (requires): Neuroplasticity enables rebalancing
+- → `CONSC-007` (develops): Inverse of: CONSC-007 --developed_by--> CONSC-006
+- → `CROSS-008` (integrates_into): Inverse of: CROSS-008 --develops--> CONSC-006
+- → `CONSC-028` (parallels): Inverse of: CONSC-028 --parallels--> CONSC-006
+- → `CONSC-029` (parallels): Inverse of: CONSC-029 --parallels--> CONSC-006
+- → `CONSC-030` (integrates_into): Inverse of: CONSC-030 --develops--> CONSC-006
+- → `CONSC-055` (parallels): Inverse of: CONSC-055 --parallels--> CONSC-006
 
 ---
 
@@ -186,9 +274,14 @@
 2. [S] Multiple studies on MBSR and CCT
 
 **Connections**:
-- → `CONSC-006` (develops): Mechanism for rebalancing hemispheres
+- → `CONSC-006` (developed_by): Mechanism for rebalancing hemispheres
 - → `SWED-008` (parallels): Neural basis for regeneration process
 - → `CROSS-003` (supports): Choice shapes ruling love through neural pathways
+- → `CROSS-003` (developed_by): Inverse of: CROSS-003 --develops--> CONSC-007
+- → `CONSC-006` (developed_by): Inverse of: CONSC-006 --requires--> CONSC-007
+- → `SWED-010` (parallels): Inverse of: SWED-010 --parallels--> CONSC-007
+- → `CONSC-017` (supported_by): Inverse of: CONSC-017 --supports--> CONSC-007
+- → `CROSS-008` (parallels): Inverse of: CROSS-008 --develops--> CONSC-007
 
 ---
 
@@ -205,9 +298,24 @@
 3. [E] DOPS NDE database
 
 **Connections**:
-- → `CONSC-004` (develops): Specific identification within NDE phenomenology
+- → `CONSC-004` (explains): Specific identification within NDE phenomenology
 - → `SWED-009` (supports): Empirical evidence for Divine Human reality
-- → `CONSC-009` (produces): Experience leads to Dogma Paradox
+- → `CONSC-009` (develops): Experience leads to Dogma Paradox
+- → `GNOS-009` (contrasts): Inverse of: GNOS-009 --contrasts--> CONSC-008
+- → `CROSS-013` (developed_by): Inverse of: CROSS-013 --contextualizes--> CONSC-008
+- → `CROSS-018` (parallels): Inverse of: CROSS-018 --develops--> CONSC-008
+- → `CONSC-021` (validated_by): Inverse of: CONSC-021 --validates--> CONSC-008
+- → `CONSC-023` (validated_by): Inverse of: CONSC-023 --validates--> CONSC-008
+- → `CONSC-063` (supported_by): Inverse of: CONSC-063 --supports--> CONSC-008
+- → `CONSC-065` (developed_by): Inverse of: CONSC-065 --develops--> CONSC-008
+- → `CONSC-066` (parallels): Inverse of: CONSC-066 --develops--> CONSC-008
+- → `CONSC-067` (validated_by): Inverse of: CONSC-067 --validates--> CONSC-008
+- → `CONSC-068` (supported_by): Inverse of: CONSC-068 --supports--> CONSC-008
+- → `CONSC-070` (supported_by): Inverse of: CONSC-070 --supports--> CONSC-008
+- → `CONSC-071` (supported_by): Inverse of: CONSC-071 --supports--> CONSC-008
+- → `CONSC-072` (supported_by): Inverse of: CONSC-072 --supports--> CONSC-008
+- → `SWED-009` (developed_by): Inverse of: SWED-009 --develops--> CONSC-008
+- → `GNOS-015` (addressed_by): Inverse of addresses
 
 ---
 
@@ -223,9 +331,12 @@
 2. [E] NDE testimonies across religious backgrounds
 
 **Connections**:
-- → `CONSC-008` (produced_by): Results from encounter with Being of Light
-- → `GNOS-002` (supports): Confirms Path of Affirmation over dogmatic gnosis
+- → `CONSC-008` (developed_by): Results from encounter with Being of Light
+- → `GNOS-002` (developed_by): Confirms Path of Affirmation over dogmatic gnosis
 - → `EARLY-003` (contrasts): Contradicts Pauline exclusivism
+- → `CONSC-016` (contrasts): Inverse of: CONSC-016 --contrasts--> CONSC-009
+- → `GNOS-008` (supported_by): Inverse of: GNOS-008 --supports--> CONSC-009
+- → `CONSC-022` (validated_by): Inverse of: CONSC-022 --validates--> CONSC-009
 
 ---
 
@@ -245,9 +356,26 @@
 **Connections**:
 - → `CONSC-005` (develops): Specialized case within post-mortem model
 - → `SWED-003` (instantiates): Personal application of influx doctrine
-- → `CONSC-003` (supports): Evidence for consciousness persistence
-- → `CONSC-001` (supports): Volunteer souls = direct CDE mechanism (love-aligned consciousness influx)
+- → `CONSC-003` (explains): Evidence for consciousness persistence
+- → `CONSC-001` (developed_by): Volunteer souls = direct CDE mechanism (love-aligned consciousness influx)
 - → `CROSS-003` (instantiates): Love-based missions = direct agents of love-of-neighbor trajectory
+- → `CONSC-001` (developed_by): Inverse of: CONSC-001 --contextualizes--> CONSC-010
+- → `SWED-019` (developed_by): Inverse of: SWED-019 --develops--> CONSC-010
+- → `CONSC-020` (contrasts): Inverse of: CONSC-020 --contrasts--> CONSC-010
+- → `CONSC-024` (validated_by): Inverse of: CONSC-024 --validates--> CONSC-010
+- → `CONSC-025` (supported_by): Inverse of: CONSC-025 --supports--> CONSC-010
+- → `CONSC-026` (supported_by): Inverse of: CONSC-026 --supports--> CONSC-010
+- → `CONSC-027` (developed_by): Inverse of: CONSC-027 --develops--> CONSC-010
+- → `CONSC-047` (contrasts): Inverse of: CONSC-047 --contrasts--> CONSC-010
+- → `CONSC-048` (supported_by): Inverse of: CONSC-048 --supports--> CONSC-010
+- → `CONSC-049` (validated_by): Inverse of: CONSC-049 --validates--> CONSC-010
+- → `CONSC-050` (validated_by): Inverse of: CONSC-050 --validates--> CONSC-010
+- → `CONSC-051` (supported_by): Inverse of: CONSC-051 --supports--> CONSC-010
+- → `CONSC-052` (validated_by): Inverse of: CONSC-052 --validates--> CONSC-010
+- → `CONSC-053` (supported_by): Inverse of: CONSC-053 --supports--> CONSC-010
+- → `CONSC-062` (supported_by): Inverse of: CONSC-062 --supports--> CONSC-010
+- → `CROSS-003` (developed_by): Inverse of: CROSS-003 --develops--> CONSC-010
+- → `SWED-003` (developed_by): Inverse of: SWED-003 --develops--> CONSC-010
 
 ---
 
@@ -266,11 +394,16 @@
 5. [S] David Bohm, Wholeness and the Implicate Order (1980)
 
 **Connections**:
-- → `CONSC-001` (develops): Provides neural substrate for consciousness-driven evolution
+- → `CONSC-001` (developed_by): Provides neural substrate for consciousness-driven evolution
 - → `CROSS-003` (parallels): Fundamental consciousness aligns with right-hemisphere awareness
 - → `SWED-005` (supports): Right-hemisphere mode aligns with love-centered perception
 - → `GNOS-001` (contrasts): Gnostic hyper-intellectualism as left-hemisphere dominance
 - → `MYTH-002` (parallels): Right hemisphere as vehicle for mythic consciousness
+- → `CONSC-012` (develops): Inverse of: CONSC-012 --developed_by--> CONSC-011
+- → `SWED-016` (supported_by): Inverse of: SWED-016 --supports--> CONSC-011
+- → `SWED-021` (parallels): Inverse of: SWED-021 --parallels--> CONSC-011
+- → `CROSS-008` (integrates_into): Inverse of: CROSS-008 --develops--> CONSC-011
+- → `CONSC-055` (parallels): Inverse of: CONSC-055 --parallels--> CONSC-011
 
 ---
 
@@ -288,11 +421,13 @@
 4. [S] Cognitive Science of Religion research (various)
 
 **Connections**:
-- → `SWED-005` (develops): Operationalizes proprium vs. charity distinction
+- → `SWED-005` (developed_by): Operationalizes proprium vs. charity distinction
 - → `GNOS-001` (parallels): SBNR as modern gnostic impulse
 - → `CROSS-003` (supports): Influx as manifestation of fundamental consciousness
 - → `SWED-003` (instantiates): Contemporary application of influx doctrine
-- → `CONSC-011` (complements): Right hemisphere aligns with Influx mode
+- → `CONSC-011` (developed_by): Right hemisphere aligns with Influx mode
+- → `CROSS-003` (developed_by): Inverse of: CROSS-003 --develops--> CONSC-012
+- → `SWED-003` (developed_by): Inverse of: SWED-003 --develops--> CONSC-012
 
 ---
 
@@ -311,11 +446,16 @@
 5. [S] John Archibald Wheeler, 'It from Bit'
 
 **Connections**:
-- → `MYTH-015` (supports): Emissary = Heart of Division (Enuma Elish); Master = Heart of Unity (Genesis)
+- → `MYTH-015` (develops): Emissary = Heart of Division (Enuma Elish); Master = Heart of Unity (Genesis)
 - → `SWED-005` (parallels): Emissary usurpation parallels proprium's self-assertion
 - → `GNOS-001` (describes): Gnostic impulse as Emissary's spiritual pathology
 - → `SWED-008` (supports): Regeneration as hemispheric reintegration
 - → `CROSS-003` (develops): Consciousness as fundamental—participatory universe
+- → `CROSS-004` (parallels): Inverse of: CROSS-004 --parallels--> CONSC-013
+- → `CONSC-015` (parallels): Inverse of: CONSC-015 --parallels--> CONSC-013
+- → `CROSS-008` (integrates_into): Inverse of: CROSS-008 --develops--> CONSC-013
+- → `CONSC-055` (parallels): Inverse of: CONSC-055 --parallels--> CONSC-013
+- → `GNOS-001` (described_by): Inverse of: GNOS-001 --describes--> CONSC-013
 
 ---
 
@@ -334,11 +474,18 @@
 5. [T] data/01_Consciousness_Studies/A Synthesized Model of Post-Mortem Existence.md
 
 **Connections**:
-- → `CONSC-004` (develops): Extends post-mortem framework with incarnational typology
-- → `CONSC-003` (supports): NDE commissioning data supports consciousness survival
+- → `CONSC-004` (explains): Extends post-mortem framework with incarnational typology
+- → `CONSC-003` (explains): NDE commissioning data supports consciousness survival
 - → `SWED-008` (parallels): Mission activation resembles regeneration's call narrative
-- → `EARLY-007` (instantiates): Swedenborg's Delft Christophany as volunteer activation
-- → `SWED-003` (develops): Mission as specialized influx operation
+- → `EARLY-007` (parallels): Swedenborg's Delft Christophany as volunteer activation
+- → `SWED-003` (developed_by): Mission as specialized influx operation
+- → `CONSC-024` (supported_by): Inverse of: CONSC-024 --supports--> CONSC-014
+- → `CONSC-025` (supported_by): Inverse of: CONSC-025 --supports--> CONSC-014
+- → `CONSC-026` (supported_by): Inverse of: CONSC-026 --supports--> CONSC-014
+- → `CONSC-027` (developed_by): Inverse of: CONSC-027 --develops--> CONSC-014
+- → `CONSC-048` (validated_by): Inverse of: CONSC-048 --validates--> CONSC-014
+- → `CONSC-051` (validated_by): Inverse of: CONSC-051 --validates--> CONSC-014
+- → `CONSC-053` (validated_by): Inverse of: CONSC-053 --validates--> CONSC-014
 
 ---
 
@@ -358,11 +505,12 @@
 6. [S] CSR teleological bias research
 
 **Connections**:
-- → `SWED-004` (develops): Correspondences as primordial cognitive architecture
+- → `SWED-004` (developed_by): Correspondences as primordial cognitive architecture
 - → `CONSC-013` (parallels): Fall = Left Hemisphere (Emissary) usurping Right (Master)
 - → `SWED-005` (describes): Proprium arises from external/conceptual mode
 - → `MYTH-015` (supports): Heart of Division emerges from Fallen cognitive architecture
-- → `SWED-013` (develops): Ancient Word encoded in numerological correspondences
+- → `SWED-013` (developed_by): Ancient Word encoded in numerological correspondences
+- → `SWED-005` (described_by): Inverse of: SWED-005 --describes--> CONSC-015
 
 ---
 
@@ -381,11 +529,19 @@
 5. [E] Greyson & Ohkado, Japanese/Western NDE comparison
 
 **Connections**:
-- → `CONSC-003` (develops): Extends NDE evidence with identification analysis
+- → `CONSC-003` (explains): Extends NDE evidence with identification analysis
 - → `SWED-025` (supports): Personality match validates Divine Human profile
-- → `GNOS-001` (contradicts): NDE Jesus contradicts gnostic self-divinity
-- → `SWED-005` (opposes): NDE Being is non-judgmental; proprium judges
+- → `GNOS-001` (contrasts): NDE Jesus contradicts gnostic self-divinity
+- → `SWED-005` (contrasts): NDE Being is non-judgmental; proprium judges
 - → `CONSC-009` (contrasts): Personality match vs. cultural construction of Christ figure
+- → `CONSC-017` (supported_by): Inverse of: CONSC-017 --supports--> CONSC-016
+- → `CONSC-019` (instantiated_by): Inverse of: CONSC-019 --instantiates--> CONSC-016
+- → `CROSS-006` (validates): Inverse of: CROSS-006 --validated_by--> CONSC-016
+- → `CROSS-007` (validates): Inverse of: CROSS-007 --validated_by--> CONSC-016
+- → `CROSS-018` (parallels): Inverse of: CROSS-018 --develops--> CONSC-016
+- → `GNOS-019` (developed_by): Inverse of: GNOS-019 --contextualizes--> CONSC-016
+- → `SWED-025` (developed_by): Inverse of: SWED-025 --develops--> CONSC-016
+- → `GNOS-008` (contradicts): Inverse of: GNOS-008 --contradicts--> CONSC-016
 
 ---
 
@@ -404,12 +560,15 @@
 5. [S] Greyson, Bruce. NDE Scale and Studies
 
 **Connections**:
-- → `CONSC-001` (supports): Provides empirical data structure for consciousness survival hypothesis
+- → `CONSC-001` (parallels): Provides empirical data structure for consciousness survival hypothesis
 - → `CONSC-003` (develops): Systematizes post-mortem experience phenomenology
-- → `CONSC-016` (complements): Axis III (encounters) relates to Being identification analysis
+- → `CONSC-016` (supports): Axis III (encounters) relates to Being identification analysis
 - → `SWED-003` (parallels): Life review parallels influx-based moral education
 - → `SWED-008` (parallels): NDE transformation parallels regeneration process
 - → `CONSC-007` (supports): Empirical taxonomy for testing hybrid post-mortem model
+- → `CONSC-018` (parallels): Inverse of: CONSC-018 --explains--> CONSC-017
+- → `CONSC-019` (developed_by): Inverse of: CONSC-019 --develops--> CONSC-017
+- → `CONSC-043` (supports): Inverse of: CONSC-043 --explains--> CONSC-017
 
 ---
 
@@ -433,11 +592,17 @@
 - → `SWED-005` (parallels): Proprium (self-love) = Emissary usurpation at spiritual level
 - → `SWED-003` (parallels): Influx operates through right-hemisphere openness to context/meaning
 - → `GNOS-001` (contrasts): Gnostic impulse as spiritual Emissary usurpation (intellect over love)
-- → `MYTH-001` (instantiates): Enuma Elish/Genesis contrast as archetypal hemispheric divergence
-- → `CONSC-002` (develops): Neuroplasticity as mechanism for CDE hypothesis
+- → `MYTH-001` (develops): Enuma Elish/Genesis contrast as archetypal hemispheric divergence
+- → `CONSC-002` (explains): Neuroplasticity as mechanism for CDE hypothesis
 - → `SWED-008` (parallels): Regeneration as progressive hemispheric integration at spiritual level
-- → `CONSC-017` (complements): NDE framework operates within Master's holistic perception
-- → `CROSS-008` (developed_by): Hemispheric model mapped to Swedenborg's will/understanding
+- → `CONSC-017` (explains): NDE framework operates within Master's holistic perception
+- → `CROSS-008` (integrates_into): Hemispheric model mapped to Swedenborg's will/understanding
+- → `CROSS-001` (parallels): Inverse of: CROSS-001 --parallels--> CONSC-018
+- → `CROSS-008` (integrates_into): Inverse of: CROSS-008 --develops--> CONSC-018
+- → `CONSC-055` (parallels): Inverse of: CONSC-055 --parallels--> CONSC-018
+- → `CROSS-001` (developed_by): Inverse of: CROSS-001 --develops--> CONSC-018
+- → `CONSC-002` (parallels): Inverse of: CONSC-002 --parallels--> CONSC-018
+- → `CONSC-017` (parallels): Inverse of: CONSC-017 --parallels--> CONSC-018
 
 ---
 
@@ -456,10 +621,12 @@
 
 **Connections**:
 - → `CONSC-017` (develops): Adds Axis V (Inter-Subjective Coherence) to Multi-Axial Framework
-- → `CONSC-001` (supports): Strongest evidence against purely brain-based NDE explanations
+- → `CONSC-001` (parallels): Strongest evidence against purely brain-based NDE explanations
 - → `CONSC-016` (instantiates): Fireweaver case shows same Being identified differently by different cultures
 - → `SWED-001` (parallels): Archetype 'clothing' parallels correspondence—same spiritual reality, different natural forms
 - → `CONSC-003` (develops): Shared post-mortem environment with variable coherence properties
+- → `CONSC-045` (developed_by): Inverse of: CONSC-045 --develops--> CONSC-019
+- → `CONSC-078` (supported_by): Inverse of: CONSC-078 --supports--> CONSC-019
 
 ---
 
@@ -478,11 +645,20 @@
 5. [P] Swedenborg, Heaven and Hell §§ 445-452
 
 **Connections**:
-- → `CONSC-002` (develops): Explains the pattern in DOPS data
-- → `CONSC-005` (instantiates): Second path in hybrid post-mortem model
-- → `SWED-008` (requires): Restorative life completes regeneration process
+- → `CONSC-002` (explains): Explains the pattern in DOPS data
+- → `CONSC-005` (develops): Second path in hybrid post-mortem model
+- → `SWED-008` (developed_by): Restorative life completes regeneration process
 - → `CROSS-003` (supports): Ruling love formation requires complete earthly experience
 - → `CONSC-010` (contrasts): Restorative (incomplete) vs Volunteer (complete) returns
+- → `CROSS-003` (developed_by): Inverse of: CROSS-003 --develops--> CONSC-020
+- → `CONSC-002` (supported_by): Inverse of: CONSC-002 --supports--> CONSC-020
+- → `CONSC-042` (develops): Inverse of: CONSC-042 --explains--> CONSC-020
+- → `CROSS-012` (developed_by): Inverse of: CROSS-012 --contextualizes--> CONSC-020
+- → `CONSC-034` (validated_by): Inverse of: CONSC-034 --validates--> CONSC-020
+- → `CONSC-040` (supported_by): Inverse of: CONSC-040 --supports--> CONSC-020
+- → `CONSC-041` (supported_by): Inverse of: CONSC-041 --supports--> CONSC-020
+- → `SWED-051` (developed_by): Inverse of: SWED-051 --contextualizes--> CONSC-020
+- → `CONSC-077` (supported_by): Inverse of: CONSC-077 --supports--> CONSC-020
 
 ---
 
@@ -505,8 +681,15 @@
 - → `CONSC-045` (develops): Provides specific Being of Light statistics extending correspondential validation
 - → `CONSC-008` (validates): Confirms Being of Light is objective entity with consistent properties
 - → `CONSC-004` (develops): Adds detailed identification statistics to NDE phenomenology
-- → `SWED-006` (validates): Statistical evidence for Doctrine of Correspondences—constant states, variable forms
-- → `SWED-009` (supports): Consistent experiential properties across identification labels supports single Divine Human reality
+- → `SWED-006` (parallels): Statistical evidence for Doctrine of Correspondences—constant states, variable forms
+- → `SWED-009` (parallels): Consistent experiential properties across identification labels supports single Divine Human reality
+- → `CONSC-022` (complemented_by): Inverse of: CONSC-022 --complements--> CONSC-021
+- → `CONSC-023` (complemented_by): Inverse of: CONSC-023 --complements--> CONSC-021
+- → `SWED-055` (supports): Inverse of: SWED-055 --supported_by--> CONSC-021
+- → `SWED-056` (parallels): Inverse of: SWED-056 --explains--> CONSC-021
+- → `CONSC-062` (supports): Inverse of: CONSC-062 --explains--> CONSC-021
+- → `CONSC-063` (developed_by): Inverse of: CONSC-063 --develops--> CONSC-021
+- → `CONSC-067` (supports): Inverse of: CONSC-067 --supported_by--> CONSC-021
 
 ---
 
@@ -525,11 +708,15 @@
 
 **Connections**:
 - → `CONSC-009` (validates): Quantifies the "Dogma Paradox"—experience corrects expectations, not confirms them
-- → `CROSS-003` (supports): Life review reveals ruling love; judgment is self-revelation, not condemnation
-- → `SWED-003` (validates): Self-judgment matches Swedenborg's World of Spirits description
+- → `CROSS-003` (parallels): Life review reveals ruling love; judgment is self-revelation, not condemnation
+- → `SWED-003` (parallels): Self-judgment matches Swedenborg's World of Spirits description
 - → `CONSC-021` (complements): Together form comprehensive Being of Light statistical profile
 - → `CONSC-004` (develops): Provides detailed statistical analysis of life review judgment patterns within NDE phenomenology
 - → `CONSC-023` (complements): Together form comprehensive Being of Light statistical profile
+- → `CONSC-023` (complemented_by): Inverse of: CONSC-023 --complements--> CONSC-022
+- → `CONSC-029` (complemented_by): Inverse of: CONSC-029 --complements--> CONSC-022
+- → `GNOS-019` (parallels): Inverse of: GNOS-019 --parallels--> CONSC-022
+- → `CONSC-067` (supports): Inverse of: CONSC-067 --supported_by--> CONSC-022
 
 ---
 
@@ -548,10 +735,12 @@
 
 **Connections**:
 - → `CONSC-008` (validates): Confirms Being of Light's unique identity and authority
-- → `SWED-009` (supports): Singular transcendent Being consistent with Divine Human doctrine
-- → `SWED-002` (supports): Telepathic communication consistent with influx as mind-to-mind transmission
+- → `SWED-009` (parallels): Singular transcendent Being consistent with Divine Human doctrine
+- → `SWED-002` (parallels): Telepathic communication consistent with influx as mind-to-mind transmission
 - → `CONSC-021` (complements): Together form comprehensive Being of Light statistical profile
 - → `CONSC-022` (complements): Together form comprehensive Being of Light statistical profile
+- → `CONSC-022` (complemented_by): Inverse of: CONSC-022 --complements--> CONSC-023
+- → `CONSC-067` (supports): Inverse of: CONSC-067 --supported_by--> CONSC-023
 
 ---
 
@@ -573,11 +762,16 @@
 
 **Connections**:
 - → `CONSC-010` (validates): Provides quantitative validation for Volunteer Soul Paradigm—mission commissioning is real phenomenological marker
-- → `CONSC-014` (develops): Adds discriminant statistics to Three-Path Cosmology volunteer path
+- → `CONSC-014` (supports): Adds discriminant statistics to Three-Path Cosmology volunteer path
 - → `CONSC-004` (develops): Adds mission-specific return statistics to NDE phenomenology
 - → `CONSC-025` (complements): Together form comprehensive volunteer soul statistical profile
 - → `CONSC-026` (complements): Together form comprehensive volunteer soul statistical profile
-- → `CONSC-001` (supports): Mission commissioning provides evidence for consciousness-directed returns
+- → `CONSC-001` (parallels): Mission commissioning provides evidence for consciousness-directed returns
+- → `CONSC-025` (complemented_by): Inverse of: CONSC-025 --complements--> CONSC-024
+- → `CONSC-026` (complemented_by): Inverse of: CONSC-026 --complements--> CONSC-024
+- → `CONSC-027` (parallels): Inverse of: CONSC-027 --explains--> CONSC-024
+- → `CONSC-030` (parallels): Inverse of: CONSC-030 --parallels--> CONSC-024
+- → `CONSC-062` (supports): Inverse of: CONSC-062 --supported_by--> CONSC-024
 
 ---
 
@@ -598,10 +792,13 @@
 
 **Connections**:
 - → `CONSC-010` (supports): Provides detection methodology for Volunteer Soul Paradigm
-- → `CONSC-014` (develops): Quantifies volunteer path markers within Three-Path Cosmology
+- → `CONSC-014` (supports): Quantifies volunteer path markers within Three-Path Cosmology
 - → `CONSC-024` (complements): Together form comprehensive volunteer soul statistical profile
 - → `CONSC-026` (complements): Together form comprehensive volunteer soul statistical profile
-- → `CONSC-027` (requires): Depends on methodological distinction for proper interpretation
+- → `CONSC-027` (parallels): Depends on methodological distinction for proper interpretation
+- → `CONSC-024` (complemented_by): Inverse of: CONSC-024 --complements--> CONSC-025
+- → `CONSC-026` (complemented_by): Inverse of: CONSC-026 --complements--> CONSC-025
+- → `CONSC-027` (parallels): Inverse of: CONSC-027 --explains--> CONSC-025
 
 ---
 
@@ -623,11 +820,14 @@
 
 **Connections**:
 - → `CONSC-010` (supports): Pre-birth indicators corroborate Volunteer Soul Paradigm's pre-incarnate covenant concept
-- → `CONSC-014` (develops): Adds phenomenological profile to volunteer path in Three-Path Cosmology
+- → `CONSC-014` (supports): Adds phenomenological profile to volunteer path in Three-Path Cosmology
 - → `CONSC-024` (complements): Together form comprehensive volunteer soul statistical profile
 - → `CONSC-025` (complements): Together form comprehensive volunteer soul statistical profile
 - → `CONSC-002` (parallels): Pre-birth awareness parallels DOPS intermission memory subset (not past-life verification)—both report spiritual pre-existence
-- → `CONSC-027` (requires): Interpretation depends on methodological distinction—these are NDE reports, not Ohkado cases
+- → `CONSC-027` (parallels): Interpretation depends on methodological distinction—these are NDE reports, not Ohkado cases
+- → `CONSC-024` (complemented_by): Inverse of: CONSC-024 --complements--> CONSC-026
+- → `CONSC-025` (complemented_by): Inverse of: CONSC-025 --complements--> CONSC-026
+- → `CONSC-027` (parallels): Inverse of: CONSC-027 --explains--> CONSC-026
 
 ---
 
@@ -645,12 +845,15 @@
 4. [S] Newton, M. (1994). Journey of Souls: Case Studies of Life Between Lives. Llewellyn Publications.
 
 **Connections**:
-- → `CONSC-024` (supported_by): Discriminant validity findings empirically demonstrate that marker detection ≠ soul path classification - supporting this methodological distinction
-- → `CONSC-025` (supported_by): Volunteer detection statistics demonstrate the distinction between marker presence (10.3%) and path prevalence (unknown)
-- → `CONSC-026` (supported_by): Pre-birth indicator analysis demonstrates need for methodological distinction between NDE markers and ontological claims
+- → `CONSC-024` (explains): Discriminant validity findings empirically demonstrate that marker detection ≠ soul path classification - supporting this methodological distinction
+- → `CONSC-025` (explains): Volunteer detection statistics demonstrate the distinction between marker presence (10.3%) and path prevalence (unknown)
+- → `CONSC-026` (explains): Pre-birth indicator analysis demonstrates need for methodological distinction between NDE markers and ontological claims
 - → `CONSC-014` (develops): Refines Three-Path Cosmology methodology for empirical testing
 - → `CONSC-002` (contrasts): Distinguishes NDE methodology from DOPS past-life case methodology
 - → `CONSC-010` (develops): Provides methodological guardrails for Volunteer Soul Paradigm empirical research
+- → `CONSC-025` (parallels): Inverse of: CONSC-025 --parallels--> CONSC-027
+- → `CONSC-026` (parallels): Inverse of: CONSC-026 --parallels--> CONSC-027
+- → `CONSC-024` (parallels): Inverse of: CONSC-024 --parallels--> CONSC-027
 
 ---
 
@@ -671,11 +874,14 @@
 7. [P] Swedenborg, E. (1758). Heaven and Hell §§421-527.
 
 **Connections**:
-- → `CONSC-006` (supports): Statistical validation of World of Spirits phenomenology
+- → `CONSC-006` (parallels): Statistical validation of World of Spirits phenomenology
 - → `CONSC-002` (supports): Low reincarnation indicators support restorative incarnation as exceptional
 - → `CONSC-003` (supports): Low covenant indicators support volunteer incarnation as rare
 - → `CONSC-004` (develops): Extends NDE phenomenology with return pattern statistics
-- → `SWED-003` (validates): Statistical evidence supports continuation to spiritual existence as normative path
+- → `SWED-003` (parallels): Statistical evidence supports continuation to spiritual existence as normative path
+- → `CONSC-029` (supported_by): Inverse of: CONSC-029 --supports--> CONSC-028
+- → `CONSC-030` (parallels): Inverse of: CONSC-030 --parallels--> CONSC-028
+- → `CONSC-064` (parallels): Inverse of: CONSC-064 --parallels--> CONSC-028
 
 ---
 
@@ -694,11 +900,12 @@
 5. [S] Greyson, B. (2003). Incidence and correlates of near-death experiences. General Hospital Psychiatry, 25(4), 269-276.
 
 **Connections**:
-- → `CONSC-006` (supports): Life review character consistent with World of Spirits function
-- → `SWED-003` (supports): Life review character consistent with World of Spirits self-revelation rather than external judgment
+- → `CONSC-006` (parallels): Life review character consistent with World of Spirits function
+- → `SWED-003` (parallels): Life review character consistent with World of Spirits self-revelation rather than external judgment
 - → `CONSC-028` (supports): Contributes to convergent evidence for restorative rather than punitive cosmology
 - → `CONSC-022` (complements): Together provide comprehensive Being of Light judgment statistics
 - → `CONSC-003` (develops): Provides restorative character analysis complementing general life review phenomenology
+- → `CONSC-003` (complemented_by): Inverse of: CONSC-003 --complements--> CONSC-029
 
 ---
 
@@ -715,12 +922,14 @@
 3. [P] Swedenborg, Heaven and Hell §§ 421-431, 461-520
 
 **Connections**:
-- → `CONSC-002` (requires): Incorporates Restorative Incarnation as Path 2
-- → `CONSC-003` (requires): Incorporates Volunteer Incarnation as Path 3
-- → `CONSC-024` (requires): 94.2% mission commission rate validates Path 3 (Volunteer Incarnation) identification
-- → `CONSC-028` (requires): Statistical foundation for normative continuation claim
+- → `CONSC-002` (parallels): Incorporates Restorative Incarnation as Path 2
+- → `CONSC-003` (parallels): Incorporates Volunteer Incarnation as Path 3
+- → `CONSC-024` (parallels): 94.2% mission commission rate validates Path 3 (Volunteer Incarnation) identification
+- → `CONSC-028` (parallels): Statistical foundation for normative continuation claim
 - → `CONSC-006` (develops): Extends World of Spirits mapping into comprehensive path model
-- → `SWED-004` (instantiates): Empirical instantiation of ruling love determination
+- → `SWED-004` (integrated_from): Empirical instantiation of ruling love determination
+- → `CONSC-034` (parallels): Inverse of: CONSC-034 --parallels--> CONSC-030
+- → `CONSC-006` (integrated_from): Inverse of: CONSC-006 --integrates_into--> CONSC-030
 
 ---
 
@@ -740,7 +949,7 @@
 
 **Connections**:
 - → `CONSC-002` (validates): DOPS data confirms violent death correlation
-- → `CONSC-030` (supports): Empirical validation for Restorative path in Threefold Model
+- → `CONSC-030` (parallels): Empirical validation for Restorative path in Threefold Model
 - → `CONSC-005` (validates): Hybrid Model Restorative component validated
 - → `CONSC-020` (validates): Provides statistical validation for Restorative Incarnation hypothesis
 
@@ -762,6 +971,11 @@
 - → `CONSC-002` (develops): Validates DOPS methodology against social construction critique
 - → `CONSC-020` (supports): Methodological rigor extends to violent death pattern claims
 - → `CONSC-041` (complements): Combined with birthmarks creates robust defense
+- → `CONSC-002` (developed_by): Inverse of: CONSC-002 --develops--> CONSC-040
+- → `CONSC-041` (complemented_by): Inverse of: CONSC-041 --complements--> CONSC-040
+- → `CONSC-047` (developed_by): Inverse of: CONSC-047 --develops--> CONSC-040
+- → `CONSC-049` (developed_by): Inverse of: CONSC-049 --develops--> CONSC-040
+- → `CONSC-077` (supported_by): Inverse of: CONSC-077 --supports--> CONSC-040
 
 ---
 
@@ -780,8 +994,14 @@
 **Connections**:
 - → `CONSC-002` (develops): Moves evidence from subjective memory to objective biology
 - → `CONSC-020` (supports): Physical correlates concentrated in violent death cases
-- → `CONSC-001` (supports): Somatic correspondence implies consciousness-body interaction
+- → `CONSC-001` (parallels): Somatic correspondence implies consciousness-body interaction
 - → `CONSC-040` (complements): Combined with Type A/B equivalence creates robust defense
+- → `CONSC-002` (developed_by): Inverse of: CONSC-002 --develops--> CONSC-041
+- → `CROSS-011` (parallels): Inverse of: CROSS-011 --parallels--> CONSC-041
+- → `CROSS-012` (parallels): Inverse of: CROSS-012 --parallels--> CONSC-041
+- → `CROSS-017` (parallels): Inverse of: CROSS-017 --parallels--> CONSC-041
+- → `CROSS-022` (parallels): Inverse of: CROSS-022 --parallels--> CONSC-041
+- → `CONSC-040` (complemented_by): Inverse of: CONSC-040 --complements--> CONSC-041
 
 ---
 
@@ -799,9 +1019,11 @@
 
 **Connections**:
 - → `CONSC-020` (explains): Provides mechanism for the 70% pattern
-- → `CONSC-002` (develops): Explains the DOPS anomaly
-- → `SWED-008` (requires): Restorative return enables regeneration to complete
+- → `CONSC-002` (explains): Explains the DOPS anomaly
+- → `SWED-008` (developed_by): Restorative return enables regeneration to complete
 - → `CROSS-003` (supports): Ruling love requires complete earthly formation
+- → `CROSS-003` (developed_by): Inverse of: CROSS-003 --develops--> CONSC-042
+- → `CONSC-020` (developed_by): Inverse of: CONSC-020 --develops--> CONSC-042
 
 ---
 
@@ -820,12 +1042,21 @@
 5. [S] Borjigin et al. 'Surge of neurophysiological coherence' (PNAS 2013)
 
 **Connections**:
-- → `CONSC-017` (develops): Provides detailed mechanism-by-mechanism critique referenced in C-017
-- → `CONSC-001` (supports): Demonstrates explanatory gaps in materialist alternatives
-- → `CONSC-004` (validates): Strengthens phenomenological evidence by addressing objections
+- → `CONSC-017` (explains): Provides detailed mechanism-by-mechanism critique referenced in C-017
+- → `CONSC-001` (developed_by): Demonstrates explanatory gaps in materialist alternatives
+- → `CONSC-004` (explains): Strengthens phenomenological evidence by addressing objections
 - → `CONSC-002` (parallels): Both represent empirical anomalies defying materialist reduction
 - → `CONSC-057` (validated_by): Terminal Lucidity evidence strengthens critique of DBH
 - → `CONSC-059` (validated_by): Shared Death Experiences refute shared pathology requirement
+- → `CONSC-057` (supported_by): Inverse of: CONSC-057 --supports--> CONSC-043
+- → `CONSC-058` (opposes): Inverse of: CONSC-058 --opposes--> CONSC-043
+- → `CONSC-059` (contrasts): Inverse of: CONSC-059 --opposes--> CONSC-043
+- → `CONSC-068` (supported_by): Inverse of: CONSC-068 --supports--> CONSC-043
+- → `CONSC-078` (contrasts): Inverse of: CONSC-078 --opposes--> CONSC-043
+- → `CONSC-079` (contrasts): Inverse of: CONSC-079 --opposes--> CONSC-043
+- → `CONSC-067` (contradicts): Inverse of: CONSC-067 --contradicts--> CONSC-043
+- → `CONSC-070` (contrasts): Inverse of: CONSC-070 --contradicts--> CONSC-043
+- → `CONSC-071` (contrasts): Inverse of: CONSC-071 --contradicts--> CONSC-043
 
 ---
 
@@ -842,10 +1073,14 @@
 3. [T] data/01_Consciousness_Studies/NDE Entity Roles and Correspondential Validation.md
 
 **Connections**:
-- → `CONSC-001` (supports): Structured ecosystem inconsistent with hallucination
+- → `CONSC-001` (parallels): Structured ecosystem inconsistent with hallucination
 - → `CONSC-004` (develops): Adds functional role data to phenomenological evidence
 - → `CONSC-045` (parallels): Both validate systematic patterns in NDE data
-- → `SWED-001` (validates): Entity roles show correspondential structure
+- → `SWED-001` (parallels): Entity roles show correspondential structure
+- → `CROSS-009` (parallels): Inverse of: CROSS-009 --parallels--> CONSC-044
+- → `CONSC-056` (parallels): Inverse of: CONSC-056 --parallels--> CONSC-044
+- → `SWED-048` (parallels): Inverse of: SWED-048 --parallels--> CONSC-044
+- → `CONSC-078` (supported_by): Inverse of: CONSC-078 --supports--> CONSC-044
 
 ---
 
@@ -863,11 +1098,19 @@
 4. [P] Swedenborg, Heaven and Hell §§ 87-115
 
 **Connections**:
-- → `SWED-001` (validates): Empirical evidence for correspondence principle in NDE perception
+- → `SWED-001` (parallels): Empirical evidence for correspondence principle in NDE perception
 - → `CONSC-044` (parallels): Both reveal systematic structure in NDE data
 - → `CONSC-019` (develops): Adds statistical validation to symbolic element analysis
-- → `CROSS-001` (supports): Demonstrates natural/spiritual tier relationship in empirical data
-- → `CONSC-001` (supports): Constant states, variable forms = consciousness structures reality (CDE mechanism)
+- → `CROSS-001` (parallels): Demonstrates natural/spiritual tier relationship in empirical data
+- → `CONSC-001` (parallels): Constant states, variable forms = consciousness structures reality (CDE mechanism)
+- → `SWED-001` (parallels): Inverse of: SWED-001 --explains--> CONSC-045
+- → `CROSS-009` (parallels): Inverse of: CROSS-009 --parallels--> CONSC-045
+- → `CROSS-017` (parallels): Inverse of: CROSS-017 --parallels--> CONSC-045
+- → `CONSC-021` (developed_by): Inverse of: CONSC-021 --develops--> CONSC-045
+- → `CONSC-065` (parallels): Inverse of: CONSC-065 --parallels--> CONSC-045
+- → `CONSC-068` (supports): Inverse of: CONSC-068 --explains--> CONSC-045
+- → `CONSC-074` (parallels): Inverse of: CONSC-074 --parallels--> CONSC-045
+- → `CONSC-079` (parallels): Inverse of: CONSC-079 --parallels--> CONSC-045
 
 ---
 
@@ -889,8 +1132,9 @@
 - → `CONSC-005` (validates): Restorative Path within Threefold Path cosmology
 - → `CONSC-002` (supports): DOPS data interpretation as exceptional, not universal
 - → `SWED-008` (parallels): Restorative return enables regeneration to complete
-- → `CROSS-003` (supports): Seed-state completion allows ruling love to stabilize
-- → `CONSC-001` (supports): System shows purpose (restoration) not chaos—consciousness-driven
+- → `CROSS-003` (parallels): Seed-state completion allows ruling love to stabilize
+- → `CONSC-001` (parallels): System shows purpose (restoration) not chaos—consciousness-driven
+- → `CONSC-047` (parallels): Inverse of: CONSC-047 --parallels--> CONSC-046
 
 ---
 
@@ -907,10 +1151,14 @@
 3. [S] Stevenson, I., 'Twenty Cases Suggestive of Reincarnation' (1966)
 
 **Connections**:
-- → `CONSC-046` (explains): Explains why Restorative cases dominate DOPS database
+- → `CONSC-046` (parallels): Explains why Restorative cases dominate DOPS database
 - → `CONSC-010` (contrasts): Volunteer Soul Paradigm cannot be validated through SOCS
 - → `CONSC-040` (develops): Type A/B distinction does not capture first incarnation category
-- → `CONSC-002` (contextualizes): DOPS database is sample-biased toward trauma cases
+- → `CONSC-002` (parallels): DOPS database is sample-biased toward trauma cases
+- → `CONSC-048` (developed_by): Inverse of: CONSC-048 --develops--> CONSC-047
+- → `CONSC-049` (parallels): Inverse of: CONSC-049 --parallels--> CONSC-047
+- → `CONSC-050` (parallels): Inverse of: CONSC-050 --parallels--> CONSC-047
+- → `CONSC-053` (parallels): Inverse of: CONSC-053 --parallels--> CONSC-047
 
 ---
 
@@ -931,6 +1179,10 @@
 - → `CONSC-014` (validates): Three-Path Cosmology predicts this pattern
 - → `CONSC-047` (develops): Evidence that SOCS misses this case type
 - → `CONSC-002` (complements): Expands DOPS data beyond trauma-only cases
+- → `CONSC-049` (complemented_by): Inverse of: CONSC-049 --complements--> CONSC-048
+- → `CONSC-050` (parallels): Inverse of: CONSC-050 --parallels--> CONSC-048
+- → `CONSC-052` (supported_by): Inverse of: CONSC-052 --supports--> CONSC-048
+- → `CONSC-053` (validated_by): Inverse of: CONSC-053 --validates--> CONSC-048
 
 ---
 
@@ -948,9 +1200,10 @@
 
 **Connections**:
 - → `CONSC-048` (complements): VPE can verify Reverse Cases through perinatal pathway
-- → `CONSC-047` (addresses): Provides verification method for SOCS-excluded cases
+- → `CONSC-047` (parallels): Provides verification method for SOCS-excluded cases
 - → `CONSC-010` (validates): Can verify Volunteer Soul claims through prenatal evidence
 - → `CONSC-040` (develops): Expands Type A/B with prenatal verification category
+- → `CONSC-050` (parallels): Inverse of: CONSC-050 --parallels--> CONSC-049
 
 ---
 
@@ -967,11 +1220,12 @@
 3. [E] Rivas, Dirven & Smit, VPE research
 
 **Connections**:
-- → `CONSC-047` (addresses): Directly designed to overcome SOCS selection bias
-- → `CONSC-048` (operationalizes): Provides systematic methodology for Reverse Case study
-- → `CONSC-049` (applies): Uses VPE as primary verification method
+- → `CONSC-047` (parallels): Directly designed to overcome SOCS selection bias
+- → `CONSC-048` (parallels): Provides systematic methodology for Reverse Case study
+- → `CONSC-049` (parallels): Uses VPE as primary verification method
 - → `CONSC-010` (validates): Methodology specifically designed to detect Volunteer Souls
 - → `CONSC-002` (complements): Parallel methodology to expand DOPS research scope
+- → `CONSC-052` (supported_by): Inverse of: CONSC-052 --supports--> CONSC-050
 
 ---
 
@@ -990,6 +1244,7 @@
 - → `CONSC-014` (validates): Provides empirical validation for Threefold Path Model
 - → `CONSC-010` (supports): Earthly mission return strongly correlates with Volunteer profile
 - → `CONSC-052` (complements): Works with indicator hierarchy for classification
+- → `CONSC-052` (complemented_by): Inverse of: CONSC-052 --complements--> CONSC-051
 
 ---
 
@@ -1009,6 +1264,7 @@
 - → `CONSC-048` (supports): Shows which indicators best identify Ohkado pattern
 - → `CONSC-051` (complements): Works with return reason for classification
 - → `CONSC-050` (supports): Should guide COPET screening criteria
+- → `CONSC-051` (complemented_by): Inverse of: CONSC-051 --complements--> CONSC-052
 
 ---
 
@@ -1029,7 +1285,7 @@
 - → `CONSC-014` (validates): Provides empirical percentages for Threefold Path
 - → `CONSC-010` (supports): 6% Volunteer estimate consistent with rare but real population
 - → `CONSC-048` (validates): 28% Ohkado rate shows large non-cyclic population
-- → `CONSC-047` (contextualizes): 3% Restorative in NDEs vs dominance in DOPS shows selection bias
+- → `CONSC-047` (parallels): 3% Restorative in NDEs vs dominance in DOPS shows selection bias
 
 ---
 
@@ -1051,10 +1307,19 @@
 8. [P] Swedenborg, correspondences doctrine (various works)
 
 **Connections**:
-- → `SWED-003` (validates): Empirically confirms correspondence doctrine — body as soul in ultimates
+- → `SWED-003` (parallels): Empirically confirms correspondence doctrine — body as soul in ultimates
 - → `CONSC-004` (supports): NDE healing cases provide additional evidence for consciousness independence
 - → `SWED-005` (explains): Cancer as proprium pathology — spiritual self-separation manifests as cellular rebellion
-- → `CROSS-003` (supports): Healing via Love (Will) not just Faith (Understanding) confirms ruling love priority
+- → `CROSS-003` (parallels): Healing via Love (Will) not just Faith (Understanding) confirms ruling love priority
+- → `CROSS-008` (parallels): Inverse of: CROSS-008 --explains--> CONSC-054
+- → `CROSS-011` (parallels): Inverse of: CROSS-011 --parallels--> CONSC-054
+- → `CROSS-012` (parallels): Inverse of: CROSS-012 --parallels--> CONSC-054
+- → `CROSS-017` (parallels): Inverse of: CROSS-017 --parallels--> CONSC-054
+- → `CROSS-022` (parallels): Inverse of: CROSS-022 --parallels--> CONSC-054
+- → `SWED-044` (parallels): Inverse of: SWED-044 --explains--> CONSC-054
+- → `SWED-045` (parallels): Inverse of: SWED-045 --explains--> CONSC-054
+- → `SWED-046` (supports): Inverse of: SWED-046 --explains--> CONSC-054
+- → `SWED-047` (supports): Inverse of: SWED-047 --contextualizes--> CONSC-054
 
 ---
 
@@ -1074,13 +1339,13 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [S] McGilchrist, Iain. The Matter with Things. 2021.
 
 **Connections**:
-- → `CONSC-006` (supports): Hemispheric model informs understanding of spiritual perception
-- → `CONSC-013` (supports): Right hemisphere's holistic attention relates to spiritual awareness
-- → `CONSC-018` (supports): Master/Emissary dynamic parallels proprium/influx relationship
-- → `CROSS-008` (supports): Neurological basis for hemispheric-faculty correspondence
-- → `CONSC-011` (supports): Hemispheric asymmetry research informs consciousness studies
-- → `CROSS-004` (supports): Neurological evidence for consciousness framework
-- → `SWED-034` (supports): Provides empirical grounding for will/understanding correspondence
+- → `CONSC-006` (parallels): Hemispheric model informs understanding of spiritual perception
+- → `CONSC-013` (parallels): Right hemisphere's holistic attention relates to spiritual awareness
+- → `CONSC-018` (parallels): Master/Emissary dynamic parallels proprium/influx relationship
+- → `CROSS-008` (parallels): Neurological basis for hemispheric-faculty correspondence
+- → `CONSC-011` (parallels): Hemispheric asymmetry research informs consciousness studies
+- → `CROSS-004` (parallels): Neurological evidence for consciousness framework
+- → `SWED-034` (parallels): Provides empirical grounding for will/understanding correspondence
 
 ---
 
@@ -1099,7 +1364,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `CONSC-004` (parallels): ELDVs share 'more real than real' quality with NDEs
 - → `CONSC-044` (parallels): Deceased contact in ELDVs mirrors NDE entity encounters
-- → `SWED-003` (supports): Pre-death visions align with Swedenborg's angelic welcome
+- → `SWED-003` (parallels): Pre-death visions align with Swedenborg's angelic welcome
+- → `SWED-003` (parallels): Inverse of: SWED-003 --explains--> CONSC-056
+- → `CONSC-060` (parallels): Inverse of: CONSC-060 --explains--> CONSC-056
+- → `CONSC-061` (parallels): Inverse of: CONSC-061 --parallels--> CONSC-056
+- → `SWED-048` (parallels): Inverse of: SWED-048 --explains--> CONSC-056
 
 ---
 
@@ -1120,8 +1389,15 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `CONSC-043` (supports): TL is cited as anomaly DBH cannot explain
-- → `CONSC-001` (supports): TL supports consciousness as fundamental
+- → `CONSC-001` (parallels): TL supports consciousness as fundamental
 - → `CONSC-058` (instantiates): TL provides evidence for Filter Theory
+- → `CONSC-043` (validates): Inverse of: CONSC-043 --validated_by--> CONSC-057
+- → `CROSS-011` (parallels): Inverse of: CROSS-011 --parallels--> CONSC-057
+- → `CROSS-022` (parallels): Inverse of: CROSS-022 --parallels--> CONSC-057
+- → `CONSC-058` (contrasts): Inverse of: CONSC-058 --contrasts--> CONSC-057
+- → `CONSC-060` (parallels): Inverse of: CONSC-060 --explains--> CONSC-057
+- → `CONSC-061` (parallels): Inverse of: CONSC-061 --parallels--> CONSC-057
+- → `SWED-048` (parallels): Inverse of: SWED-048 --explains--> CONSC-057
 
 ---
 
@@ -1145,8 +1421,12 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `CONSC-043` (opposes): Filter Theory vs Production Theory—both assume dualism
 - → `CONSC-057` (contrasts): Terminal lucidity explained by correspondence, not filter removal
 - → `CONSC-004` (contrasts): Hyper-lucidity explained by soul continuing, not filter lifted
-- → `CROSS-011` (contradicts): Correspondence ontology dissolves filter theory's dualism
-- → `CROSS-012` (contradicts): Soul accumulation explains phenomena without filter mechanism
+- → `CROSS-011` (contrasts): Correspondence ontology dissolves filter theory's dualism
+- → `CROSS-012` (contrasts): Soul accumulation explains phenomena without filter mechanism
+- → `CROSS-016` (contrasts): Inverse of: CROSS-016 --contrasts--> CONSC-058
+- → `CONSC-057` (instantiated_by): Inverse of: CONSC-057 --instantiates--> CONSC-058
+- → `CONSC-059` (supported_by): Inverse of: CONSC-059 --supports--> CONSC-058
+- → `CONSC-061` (parallels): Inverse of: CONSC-061 --develops--> CONSC-058
 
 ---
 
@@ -1167,6 +1447,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `CONSC-043` (opposes): SDEs in healthy individuals refute DBH explanations
 - → `CONSC-004` (parallels): SDEs share phenomenological features with NDEs
 - → `CONSC-058` (supports): SDEs suggest consciousness field accessible to multiple observers
+- → `CONSC-043` (validates): Inverse of: CONSC-043 --validated_by--> CONSC-059
+- → `CONSC-043` (contrasts): Inverse of: CONSC-043 --contrasts--> CONSC-059
 
 ---
 
@@ -1184,10 +1466,16 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 4. [T] data/01_Consciousness_Studies/Understanding the Dying Process.md
 
 **Connections**:
-- → `CONSC-056` (contains): ELDVs are component of broader NDA phenomenon
+- → `CONSC-056` (explains): ELDVs are component of broader NDA phenomenon
 - → `SWED-003` (parallels): NDA symbolism aligns with Swedenborg's transition account
-- → `CONSC-004` (precedes): NDA precedes/overlaps with NDE proper at clinical death
-- → `CONSC-057` (supported_by): Terminal Lucidity evidence supports NDA as genuine phenomenon
+- → `CONSC-004` (explains): NDA precedes/overlaps with NDE proper at clinical death
+- → `CONSC-057` (explains): Terminal Lucidity evidence supports NDA as genuine phenomenon
+- → `SWED-003` (validates): Inverse of: SWED-003 --validated_by--> CONSC-060
+- → `CONSC-061` (integrates_into): Inverse of: CONSC-061 --integrated_from--> CONSC-060
+- → `SWED-048` (parallels): Inverse of: SWED-048 --parallels--> CONSC-060
+- → `CONSC-004` (parallels): Inverse of: CONSC-004 --parallels--> CONSC-060
+- → `CONSC-056` (parallels): Inverse of: CONSC-056 --parallels--> CONSC-060
+- → `CONSC-057` (parallels): Inverse of: CONSC-057 --parallels--> CONSC-060
 
 ---
 
@@ -1206,11 +1494,12 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 5. [T] data/01_Consciousness_Studies/Understanding the Dying Process.md
 
 **Connections**:
-- → `CONSC-058` (supports): Protective physiology consistent with designed transition
-- → `SWED-003` (supports): Biological evidence for non-traumatic transition
-- → `CONSC-060` (supports): Protective physiology creates conditions for NDA
-- → `CONSC-056` (supported_by): ELDV research provides empirical foundation for dying process
-- → `CONSC-057` (supported_by): Terminal Lucidity evidence supports non-traumatic transition thesis
+- → `CONSC-058` (develops): Protective physiology consistent with designed transition
+- → `SWED-003` (integrated_from): Biological evidence for non-traumatic transition
+- → `CONSC-060` (integrated_from): Protective physiology creates conditions for NDA
+- → `CONSC-056` (parallels): ELDV research provides empirical foundation for dying process
+- → `CONSC-057` (parallels): Terminal Lucidity evidence supports non-traumatic transition thesis
+- → `SWED-048` (integrated_from): Inverse of: SWED-048 --explains--> CONSC-061
 
 ---
 
@@ -1227,9 +1516,14 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `SWED-056` (supports): Purposive economy shows consciousness persisting with purpose
-- → `CONSC-021` (develops): Extends Being of Light statistics to mission-specific analysis
+- → `CONSC-021` (explains): Extends Being of Light statistics to mission-specific analysis
 - → `CONSC-024` (supported_by): Mission commission discriminant validity supports mission classification
 - → `CONSC-010` (supports): Supports variable intensity of afterlife encounters based on need
+- → `SWED-056` (developed_by): Inverse of: SWED-056 --develops--> CONSC-062
+- → `CONSC-065` (developed_by): Inverse of: CONSC-065 --develops--> CONSC-062
+- → `CONSC-066` (parallels): Inverse of: CONSC-066 --develops--> CONSC-062
+- → `CONSC-069` (validated_by): Inverse of: CONSC-069 --validates--> CONSC-062
+- → `CONSC-078` (supported_by): Inverse of: CONSC-078 --supports--> CONSC-062
 
 ---
 
@@ -1248,7 +1542,15 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `CONSC-021` (develops): Being of Light statistics from same dataset show different analysis angle
 - → `CONSC-008` (supports): Supports cultural construction of NDE interpretation layers
 - → `CONSC-004` (supports): Supports constant states/variable forms model
-- → `SWED-056` (supports): Western NDE falsification validates cross-cultural consciousness persistence
+- → `SWED-056` (parallels): Western NDE falsification validates cross-cultural consciousness persistence
+- → `SWED-056` (parallels): Inverse of: SWED-056 --explains--> CONSC-063
+- → `CONSC-065` (supports): Inverse of: CONSC-065 --explains--> CONSC-063
+- → `CONSC-066` (parallels): Inverse of: CONSC-066 --parallels--> CONSC-063
+- → `CONSC-068` (supports): Inverse of: CONSC-068 --explains--> CONSC-063
+- → `CONSC-073` (supported_by): Inverse of: CONSC-073 --supports--> CONSC-063
+- → `CONSC-074` (validated_by): Inverse of: CONSC-074 --validates--> CONSC-063
+- → `CONSC-075` (validated_by): Inverse of: CONSC-075 --validates--> CONSC-063
+- → `CONSC-076` (parallels): Inverse of: CONSC-076 --parallels--> CONSC-063
 
 ---
 
@@ -1265,9 +1567,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [P] Swedenborg, Heaven and Hell §§ 429-430
 
 **Connections**:
-- → `SWED-001` (instantiates): Empirical evidence for correspondence principle in consciousness data
+- → `SWED-001` (parallels): Empirical evidence for correspondence principle in consciousness data
 - → `CONSC-004` (supports): Boundary imagery shows constant states/variable forms pattern
 - → `CONSC-028` (parallels): Both address return decision mechanisms in NDE phenomenology
+- → `CONSC-069` (parallels): Inverse of: CONSC-069 --parallels--> CONSC-064
 
 ---
 
@@ -1287,11 +1590,16 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `CONSC-062` (develops): Elaborates the mechanism behind Purposive Economy
-- → `CONSC-063` (supports): Explains why 40.9% impersonal vs 11.8% personified in West
+- → `CONSC-063` (explains): Explains why 40.9% impersonal vs 11.8% personified in West
 - → `CONSC-045` (parallels): Both show constant states (function) with variable forms (imagery)
 - → `SWED-001` (instantiates): Spectrum demonstrates correspondential principle in action
 - → `CONSC-008` (develops): Level 5 personification is the Divine Human adapting to mission needs
 - → `SWED-002` (parallels): Spectrum parallels Divine Influx adapting to recipient capacity
+- → `CONSC-066` (parallels): Inverse of: CONSC-066 --develops--> CONSC-065
+- → `CONSC-067` (developed_by): Inverse of: CONSC-067 --develops--> CONSC-065
+- → `CONSC-069` (supported_by): Inverse of: CONSC-069 --supports--> CONSC-065
+- → `CONSC-075` (instantiated_by): Inverse of: CONSC-075 --instantiates--> CONSC-065
+- → `SWED-001` (developed_by): Inverse of: SWED-001 --develops--> CONSC-065
 
 ---
 
@@ -1312,16 +1620,25 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `CONSC-076` (parallels): Both nodes demonstrate selection bias in Tachibana research—CONSC-076 shows small sample limitation, CONSC-066 shows mission cases proving the bias
-- → `CONSC-062` (validates): Selection bias proof validates Purposive Economy—function over culture
-- → `CONSC-065` (instantiates): Each case maps to appropriate personification level for mission type
-- → `CONSC-063` (validates): Selection bias in early research IS THE PROOF that East-West dichotomy is scholarly artifact
-- → `CONSC-008` (validates): Cross-cultural mission cases validate Divine Human as universal Being, not cultural construct
+- → `CONSC-062` (develops): Selection bias proof validates Purposive Economy—function over culture
+- → `CONSC-065` (develops): Each case maps to appropriate personification level for mission type
+- → `CONSC-063` (parallels): Selection bias in early research IS THE PROOF that East-West dichotomy is scholarly artifact
+- → `CONSC-008` (develops): Cross-cultural mission cases validate Divine Human as universal Being, not cultural construct
+- → `CONSC-068` (parallels): Inverse of: CONSC-068 --parallels--> CONSC-066
+- → `CONSC-069` (parallels): Inverse of: CONSC-069 --parallels--> CONSC-066
+- → `CONSC-070` (parallels): Inverse of: CONSC-070 --parallels--> CONSC-066
+- → `CONSC-071` (parallels): Inverse of: CONSC-071 --parallels--> CONSC-066
+- → `CONSC-072` (parallels): Inverse of: CONSC-072 --parallels--> CONSC-066
+- → `CONSC-073` (parallels): Inverse of: CONSC-073 --parallels--> CONSC-066
+- → `CONSC-074` (parallels): Inverse of: CONSC-074 --parallels--> CONSC-066
+- → `CONSC-075` (parallels): Inverse of: CONSC-075 --parallels--> CONSC-066
+- → `CONSC-076` (complemented_by): Inverse of: CONSC-076 --complements--> CONSC-066
 
 ---
 
 #### [CONSC-067] Adaptive Agency: Light Exhibits Meta-Cognitive Awareness
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.853
 
 > Evidence that the Being of Light is not a passive projection or culturally-constructed own interface nature. Key evidence: (1) Mellen-Thomas Benedict case: When asked why it was shifting forms (Jesus to Buddha to Krishna), the Light EXPLAINED: "Your beliefs shape the kind of feedback you are getting"—a passive projection cannot explain itself. (2) Ian McCormack case: Light actively intervened by initiating dialogue ("Ian, do you wish to return?") and offering transformative guidance ("If you wish to return you must see in a new light")—demonstrating agenda independent of experiencer's psychology. This supports the Light as a "chooser of form" rather than a form projected by the experiencer.
 
@@ -1339,6 +1656,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-009` (supports): Light's self-aware adaptation reflects Glorified Divine Human in ultimates
 - → `CONSC-043` (contradicts): Meta-cognitive awareness contradicts dying brain hypothesis
 - → `SWED-002` (parallels): Adaptive agency parallels Divine Influx adapting to recipient capacity
+- → `CONSC-021` (supported_by): Being of Light identification statistics validate Light as objective reality
+- → `CONSC-022` (supported_by): Judgment/transformation stats validate Light's pedagogical agency
+- → `CONSC-023` (supported_by): Singularity/authority stats validate Light's autonomous agency
+- → `SWED-009` (developed_by): Inverse of: SWED-009 --develops--> CONSC-067
 
 ---
 
@@ -1358,11 +1679,16 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 6. [E] Bush & Greyson (2018), Missouri Medicine 111(6):486-491. PMC6173534
 
 **Connections**:
-- → `CONSC-063` (develops): Extends Western profile falsification to dual construction thesis
-- → `CONSC-066` (supported_by): Japanese mission cases prove Eastern profile is also construct
-- → `CONSC-045` (validates): Dual construction thesis validates constant states/variable forms
+- → `CONSC-063` (explains): Extends Western profile falsification to dual construction thesis
+- → `CONSC-066` (parallels): Japanese mission cases prove Eastern profile is also construct
+- → `CONSC-045` (explains): Dual construction thesis validates constant states/variable forms
 - → `CONSC-043` (supports): Removes materialist argument that cultural variation proves hallucination
 - → `CONSC-008` (supports): Universal Light operating identically across cultures supports Divine Human objectivity
+- → `CONSC-070` (supported_by): Inverse of: CONSC-070 --supports--> CONSC-068
+- → `CONSC-073` (supported_by): Inverse of: CONSC-073 --supports--> CONSC-068
+- → `CONSC-074` (supported_by): Inverse of: CONSC-074 --supports--> CONSC-068
+- → `CONSC-075` (supported_by): Inverse of: CONSC-075 --supports--> CONSC-068
+- → `CONSC-076` (parallels): Inverse of: CONSC-076 --develops--> CONSC-068
 
 ---
 
@@ -1379,11 +1705,12 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
 
 **Connections**:
-- → `CONSC-076` (supports): Life Review correlation demonstrates phenomena n=22 sample would miss - validates sample size critique
-- → `CONSC-066` (supports): Life Review correlation supports selection bias argument - mission cases show different phenomenology
+- → `CONSC-076` (parallels): Life Review correlation demonstrates phenomena n=22 sample would miss - validates sample size critique
+- → `CONSC-066` (parallels): Life Review correlation supports selection bias argument - mission cases show different phenomenology
 - → `CONSC-062` (validates): Provides statistical evidence for Purposive Economy mechanism
 - → `CONSC-064` (parallels): Similar functional correlation to Mission Signature
 - → `CONSC-065` (supports): Teaching function explains Level 5 personification
+- → `CONSC-073` (developed_by): Inverse of: CONSC-073 --develops--> CONSC-069
 
 ---
 
@@ -1399,11 +1726,14 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
 
 **Connections**:
-- → `CONSC-076` (supports): 51.9% Unknown rate shows pattern n=22 could not reliably detect - validates sample size critique
-- → `CONSC-066` (supports): Unknown Presence pattern supports selection bias argument - experience resists cultural categorization
+- → `CONSC-076` (parallels): 51.9% Unknown rate shows pattern n=22 could not reliably detect - validates sample size critique
+- → `CONSC-066` (parallels): Unknown Presence pattern supports selection bias argument - experience resists cultural categorization
 - → `CONSC-008` (supports): Being resists cultural projection, supports objective Divine Human encounter
 - → `CONSC-043` (contradicts): Undermines dying brain/cultural hallucination hypothesis
 - → `CONSC-068` (supports): Experience corrects rather than confirms cultural expectations
+- → `CROSS-017` (parallels): Inverse of: CROSS-017 --parallels--> CONSC-070
+- → `CONSC-071` (supported_by): Inverse of: CONSC-071 --supports--> CONSC-070
+- → `CONSC-072` (supported_by): Inverse of: CONSC-072 --supports--> CONSC-070
 
 ---
 
@@ -1419,11 +1749,12 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
 
 **Connections**:
-- → `CONSC-076` (supports): Christian Unknown subset validates sample size critique - n=22 cannot capture demographic nuances
-- → `CONSC-066` (supports): Christian Unknown rate supports selection bias - cultural priming fails even in maximum-preparation demographic
+- → `CONSC-076` (parallels): Christian Unknown subset validates sample size critique - n=22 cannot capture demographic nuances
+- → `CONSC-066` (parallels): Christian Unknown rate supports selection bias - cultural priming fails even in maximum-preparation demographic
 - → `CONSC-070` (supports): Subset analysis confirms general Unknown Presence pattern
-- → `CONSC-008` (develops): Being of Light transcends even Christian identification expectations
+- → `CONSC-008` (supports): Being of Light transcends even Christian identification expectations
 - → `CONSC-043` (contradicts): Christians should overwhelmingly see Jesus if cultural conditioning drives NDEs
+- → `CONSC-072` (parallels): Inverse of: CONSC-072 --parallels--> CONSC-071
 
 ---
 
@@ -1439,12 +1770,12 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
 
 **Connections**:
-- → `CONSC-076` (supports): Polytheist subset pattern validates sample size critique - demographic analysis requires large samples
-- → `CONSC-066` (supports): Polytheist singularity supports selection bias - experience corrects cultural expectations bidirectionally
+- → `CONSC-076` (parallels): Polytheist subset pattern validates sample size critique - demographic analysis requires large samples
+- → `CONSC-066` (parallels): Polytheist singularity supports selection bias - experience corrects cultural expectations bidirectionally
 - → `CONSC-070` (supports): Another pattern of experience resisting cultural projection
 - → `CONSC-071` (parallels): Inverse pattern to Christian Unknown rate - both show bidirectional correction
 - → `CONSC-008` (supports): Being manifests as singular Divine Human across all cultures
-- → `SWED-009` (supports): Supports Swedenborgian claim of ONE Divine Human, not pantheon
+- → `SWED-009` (parallels): Supports Swedenborgian claim of ONE Divine Human, not pantheon
 
 ---
 
@@ -1460,8 +1791,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
 
 **Connections**:
-- → `CONSC-076` (supports): 17.5% Life Review rate validates sample size critique - rare phenomena require large samples to detect
-- → `CONSC-066` (supports): Lower Life Review rate supports selection bias - Japanese "absence" less anomalous at 17.5% baseline
+- → `CONSC-076` (parallels): 17.5% Life Review rate validates sample size critique - rare phenomena require large samples to detect
+- → `CONSC-066` (parallels): Lower Life Review rate supports selection bias - Japanese "absence" less anomalous at 17.5% baseline
 - → `CONSC-063` (supports): Another Western stereotype falsified by empirical data
 - → `CONSC-068` (supports): Western profile myth contributes to false East-West dichotomy
 - → `CONSC-069` (develops): 17.5% baseline prevalence context for Life Review correlation analysis
@@ -1480,11 +1811,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
 
 **Connections**:
-- → `CONSC-076` (supports): 1.5:1 nature ratio validates sample size critique - environmental pattern requires large sample to establish
-- → `CONSC-066` (supports): Nature preference supports selection bias - Western pattern aligns with Japanese, not diverges
+- → `CONSC-076` (parallels): 1.5:1 nature ratio validates sample size critique - environmental pattern requires large sample to establish
+- → `CONSC-066` (parallels): Nature preference supports selection bias - Western pattern aligns with Japanese, not diverges
 - → `CONSC-063` (validates): Statistical verification of nature>urban claim in CONSC-063
 - → `CONSC-068` (supports): Western nature preference aligns with Japanese profile, undermining dichotomy
-- → `CONSC-045` (instantiates): Variable forms (gardens vs cities) over constant states (peace, beauty)
+- → `CONSC-045` (parallels): Variable forms (gardens vs cities) over constant states (peace, beauty)
 
 ---
 
@@ -1500,8 +1831,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
 
 **Connections**:
-- → `CONSC-076` (supports): 1.8:1 familial ratio validates sample size critique - social encounter patterns require large samples
-- → `CONSC-066` (supports): Familial preference supports selection bias - Western pattern matches Japanese ancestral emphasis
+- → `CONSC-076` (parallels): 1.8:1 familial ratio validates sample size critique - social encounter patterns require large samples
+- → `CONSC-066` (parallels): Familial preference supports selection bias - Western pattern matches Japanese ancestral emphasis
 - → `CONSC-063` (validates): Statistical verification of relatives>religious claim
 - → `CONSC-068` (supports): Western familial emphasis matches Japanese pattern
 - → `CONSC-065` (instantiates): Deceased relatives as Level 3 in Spectrum of Personification
@@ -1520,9 +1851,17 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [T] data/01_Consciousness_Studies/The Universal Light and the Cultural Lens_ A Comprehensive Re-Evaluation of the East-West NDE Dichotomy Through the Framework of Purposive Economy.md
 
 **Connections**:
-- → `CONSC-066` (supports): n=22 sample limitation provides methodological foundation for selection bias argument
-- → `CONSC-068` (supports): Sample size inequality explains apparent East-West differences
-- → `CONSC-063` (supports): Demonstrates methodological weakness in dichotomy construction
+- → `CONSC-066` (complements): n=22 sample limitation provides methodological foundation for selection bias argument
+- → `CONSC-068` (develops): Sample size inequality explains apparent East-West differences
+- → `CONSC-063` (parallels): Demonstrates methodological weakness in dichotomy construction
+- → `CONSC-066` (parallels): Inverse of: CONSC-066 --parallels--> CONSC-076
+- → `CONSC-069` (parallels): Inverse of: CONSC-069 --parallels--> CONSC-076
+- → `CONSC-070` (parallels): Inverse of: CONSC-070 --parallels--> CONSC-076
+- → `CONSC-071` (parallels): Inverse of: CONSC-071 --parallels--> CONSC-076
+- → `CONSC-072` (parallels): Inverse of: CONSC-072 --parallels--> CONSC-076
+- → `CONSC-073` (parallels): Inverse of: CONSC-073 --parallels--> CONSC-076
+- → `CONSC-074` (parallels): Inverse of: CONSC-074 --parallels--> CONSC-076
+- → `CONSC-075` (parallels): Inverse of: CONSC-075 --parallels--> CONSC-076
 
 ---
 
@@ -1538,11 +1877,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [S] Tucker, Jim. Life Before Life: Children's Memories of Previous Lives. St. Martin's Press, 2005.
 
 **Connections**:
-- → `CONSC-002` (instantiates): Paradigmatic example of DOPS methodology
+- → `CONSC-002` (parallels): Paradigmatic example of DOPS methodology
 - → `CONSC-020` (supports): Imad case involves violent death in previous life
 - → `CONSC-040` (supports): Type B methodology eliminates retrofitting concerns
 - → `CONSC-005` (supports): Exemplifies Restorative Incarnation tier (traumatic death requiring return)
-- → `CROSS-004` (validates): Paradigmatic case demonstrating post-materialist empirical methods
+- → `CROSS-004` (parallels): Paradigmatic case demonstrating post-materialist empirical methods
 
 ---
 
@@ -1563,9 +1902,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `CONSC-003` (supports): Provides large-sample prospective data for NDE phenomenology
 - → `CONSC-043` (opposes): Physiological findings challenge Dying Brain Hypothesis
 - → `CONSC-044` (supports): Large-sample confirmation of Being of Light encounters
-- → `CONSC-001` (supports): Prospective data supports consciousness as fundamental
+- → `CONSC-001` (parallels): Prospective data supports consciousness as fundamental
 - → `CONSC-062` (supports): Large prospective sample provides data on Being of Light encounter patterns
 - → `CONSC-019` (supports): Confirms cross-cultural consistency in symbolic elements despite religious belief irrelevance
+- → `CONSC-079` (parallels): Inverse of: CONSC-079 --parallels--> CONSC-078
+- → `CONSC-043` (contrasts): Inverse of: CONSC-043 --contrasts--> CONSC-078
 
 ---
 
@@ -1586,9 +1927,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `CONSC-003` (supports): Largest systematic cardiac arrest NDE study
 - → `CONSC-043` (opposes): Time-stamped awareness challenges brain-death timing assumptions
 - → `CONSC-004` (supports): Veridical auditory perception during clinical death
-- → `CONSC-001` (supports): Systematic data showing consciousness during cardiac arrest
+- → `CONSC-001` (parallels): Systematic data showing consciousness during cardiac arrest
 - → `CONSC-045` (parallels): Both use systematic large-sample methodology to validate NDE patterns
 - → `CONSC-078` (parallels): Independent prospective replication confirming consciousness during cardiac arrest
+- → `CONSC-043` (contrasts): Inverse of: CONSC-043 --contrasts--> CONSC-079
 
 ---
 
@@ -1608,24 +1950,47 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [P] Swedenborg, Arcana Coelestia §§ 2987-3003
 
 **Connections**:
-- → `CROSS-001` (required_by): Enables vertical interpretation in two-tiered framework
+- → `CROSS-001` (developed_by): Enables vertical interpretation in two-tiered framework
 - → `SWED-004` (parallels): Ancient Word was written entirely in correspondences
 - → `MYTH-001` (develops): Spiritual understanding of mythic bricolage; correspondences explain fragment selection
 - → `BIBL-001` (complements): Correspondences complete HCM's 'body' preparation
 - → `CONSC-019` (parallels): NDE symbolic elements parallel correspondence relationships
-- → `EARLY-008` (instantiated_by): Zoroastrian dualism instantiates degraded correspondences
+- → `EARLY-008` (integrates_into): Zoroastrian dualism instantiates degraded correspondences
 - → `MYTH-009` (parallels): Exodus narrative elements show correspondence patterns
-- → `SWED-011` (instantiated_by): Numbers as correspondences instantiate doctrine
-- → `SWED-012` (instantiated_by): Body parts as correspondences instantiate doctrine
-- → `SWED-013` (instantiated_by): Natural world correspondences instantiate doctrine
+- → `SWED-011` (developed_by): Numbers as correspondences instantiate doctrine
+- → `SWED-012` (developed_by): Body parts as correspondences instantiate doctrine
+- → `SWED-013` (developed_by): Natural world correspondences instantiate doctrine
 - → `SWED-016` (developed_from): Universal consciousness develops correspondence capacity
-- → `SWED-019` (instantiated_by): Celestial perception instantiates correspondence awareness
-- → `SWED-013` (instantiated_by): Spiritual numerology instantiates correspondential language
-- → `SWED-021` (instantiated_by): Natural perception shows limited correspondence awareness
-- → `SWED-028` (developed_from): Most Ancient Church possessed correspondence knowledge
-- → `SWED-029` (instantiated_by): Animal sacrifice instantiates corrupted correspondences
-- → `SWED-030` (instantiated_by): Internal Word instantiates pure correspondences
-- → `CONSC-045` (validated_by): NDE data shows constant states with variable cultural imagery—empirical validation
+- → `SWED-019` (developed_by): Celestial perception instantiates correspondence awareness
+- → `SWED-013` (developed_by): Spiritual numerology instantiates correspondential language
+- → `SWED-021` (developed_by): Natural perception shows limited correspondence awareness
+- → `SWED-028` (developed_by): Most Ancient Church possessed correspondence knowledge
+- → `SWED-029` (developed_by): Animal sacrifice instantiates corrupted correspondences
+- → `SWED-030` (developed_by): Internal Word instantiates pure correspondences
+- → `CONSC-045` (explains): NDE data shows constant states with variable cultural imagery—empirical validation
+- → `CROSS-001` (developed_by): Inverse of: CROSS-001 --requires--> SWED-001
+- → `BIBL-001` (complemented_by): Inverse of: BIBL-001 --complements--> SWED-001
+- → `MYTH-001` (complemented_by): Inverse of: MYTH-001 --complements--> SWED-001
+- → `SWED-016` (developed_by): Inverse of: SWED-016 --develops--> SWED-001
+- → `SWED-034` (parallels): Inverse of: SWED-034 --contextualizes--> SWED-001
+- → `SWED-035` (developed_by): Inverse of: SWED-035 --develops--> SWED-001
+- → `SWED-036` (developed_by): Inverse of: SWED-036 --develops--> SWED-001
+- → `SWED-037` (validated_by): Inverse of: SWED-037 --validates--> SWED-001
+- → `CONSC-044` (parallels): Inverse of: CONSC-044 --parallels--> SWED-001
+- → `CONSC-045` (parallels): Inverse of: CONSC-045 --parallels--> SWED-001
+- → `CROSS-009` (developed_by): Inverse of: CROSS-009 --develops--> SWED-001
+- → `CROSS-011` (developed_by): Inverse of: CROSS-011 --develops--> SWED-001
+- → `CROSS-015` (developed_by): Inverse of: CROSS-015 --requires--> SWED-001
+- → `CROSS-017` (integrates_into): Inverse of: CROSS-017 --integrated_from--> SWED-001
+- → `SWED-038` (developed_by): Inverse of: SWED-038 --develops--> SWED-001
+- → `SWED-040` (developed_by): Inverse of: SWED-040 --develops--> SWED-001
+- → `SWED-041` (parallels): Inverse of: SWED-041 --parallels--> SWED-001
+- → `SWED-049` (parallels): Inverse of: SWED-049 --parallels--> SWED-001
+- → `SWED-050` (developed_by): Inverse of: SWED-050 --develops--> SWED-001
+- → `SWED-051` (developed_by): Inverse of: SWED-051 --develops--> SWED-001
+- → `SWED-052` (developed_by): Inverse of: SWED-052 --develops--> SWED-001
+- → `CONSC-064` (parallels): Inverse of: CONSC-064 --parallels--> SWED-001
+- → `CONSC-065` (develops): Inverse of: CONSC-065 --instantiates--> SWED-001
 
 ---
 
@@ -1645,13 +2010,29 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `CROSS-002` (required_by): Influx is the spiritual cause behind mythic bricolage
 - → `SWED-005` (opposes): Influx works against proprium's self-glorification
 - → `EARLY-004` (supports): Explains kenotic movements as influx responses
-- → `CROSS-004` (supported_by): CDE hypothesis supported by influx mechanism
+- → `CROSS-004` (integrates_into): CDE hypothesis supported by influx mechanism
 - → `GNOS-010` (opposes): Proprium mechanics oppose divine influx
-- → `GNOS-011` (opposes): Corrupted influx opposes true influx
-- → `MYTH-006` (supported_by): Myth evolution patterns support influx guidance
+- → `GNOS-011` (contrasts): Corrupted influx opposes true influx
+- → `MYTH-006` (develops): Myth evolution patterns support influx guidance
 - → `SWED-016` (parallels): Universal consciousness parallels influx reception
-- → `SWED-022` (instantiated_by): Heaven as state instantiates influx reception
+- → `SWED-022` (developed_by): Heaven as state instantiates influx reception
 - → `SWED-024` (required_by): Free will requires influx equilibrium
+- → `CONSC-001` (developed_by): Inverse of: CONSC-001 --develops--> SWED-002
+- → `EARLY-004` (integrates_into): Inverse of: EARLY-004 --integrated_from--> SWED-002
+- → `MYTH-006` (develops): Inverse of: MYTH-006 --supports--> SWED-002
+- → `CROSS-007` (develops): Inverse of: CROSS-007 --developed_by--> SWED-002
+- → `CROSS-009` (developed_by): Inverse of: CROSS-009 --requires--> SWED-002
+- → `CROSS-010` (developed_by): Inverse of: CROSS-010 --develops--> SWED-002
+- → `CROSS-011` (developed_by): Inverse of: CROSS-011 --requires--> SWED-002
+- → `CROSS-013` (developed_by): Inverse of: CROSS-013 --develops--> SWED-002
+- → `CROSS-015` (developed_by): Inverse of: CROSS-015 --requires--> SWED-002
+- → `CONSC-023` (parallels): Inverse of: CONSC-023 --parallels--> SWED-002
+- → `GNOS-019` (developed_by): Inverse of: GNOS-019 --requires--> SWED-002
+- → `SWED-050` (requires): Inverse of: SWED-050 --required_by--> SWED-002
+- → `SWED-053` (parallels): Inverse of: SWED-053 --parallels--> SWED-002
+- → `CONSC-065` (parallels): Inverse of: CONSC-065 --parallels--> SWED-002
+- → `CONSC-067` (parallels): Inverse of: CONSC-067 --parallels--> SWED-002
+- → `GNOS-014` (contradicts): Inverse of: GNOS-014 --contradicts--> SWED-002
 
 ---
 
@@ -1672,10 +2053,25 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `CROSS-003` (develops): Ruling love determines post-mortem trajectory
 - → `CONSC-017` (parallels): NDE life review parallels influx-based moral education
 - → `CONSC-018` (parallels): Influx operates through right-hemisphere openness
-- → `CONSC-005` (developed_from): Post-mortem cosmology developed from World of Spirits doctrine
-- → `CONSC-056` (validated_by): ELDVs of deceased match angelic welcome at death
+- → `CONSC-005` (develops): Post-mortem cosmology developed from World of Spirits doctrine
+- → `CONSC-056` (explains): ELDVs of deceased match angelic welcome at death
 - → `CONSC-060` (validated_by): NDA features align with World of Spirits transition
 - → `SWED-048` (developed_by): Detailed physiology of transition to World of Spirits
+- → `CONSC-010` (develops): Inverse of: CONSC-010 --instantiates--> SWED-003
+- → `CONSC-012` (develops): Inverse of: CONSC-012 --instantiates--> SWED-003
+- → `SWED-017` (required_by): Inverse of: SWED-017 --requires--> SWED-003
+- → `SWED-021` (developed_by): Inverse of: SWED-021 --develops--> SWED-003
+- → `CONSC-014` (develops): Inverse of: CONSC-014 --developed_by--> SWED-003
+- → `SWED-026` (required_by): Inverse of: SWED-026 --requires--> SWED-003
+- → `CONSC-022` (parallels): Inverse of: CONSC-022 --parallels--> SWED-003
+- → `CONSC-028` (parallels): Inverse of: CONSC-028 --parallels--> SWED-003
+- → `CONSC-029` (parallels): Inverse of: CONSC-029 --parallels--> SWED-003
+- → `SWED-046` (develops): Inverse of: SWED-046 --developed_by--> SWED-003
+- → `CONSC-054` (parallels): Inverse of: CONSC-054 --parallels--> SWED-003
+- → `CONSC-056` (parallels): Inverse of: CONSC-056 --parallels--> SWED-003
+- → `CONSC-060` (parallels): Inverse of: CONSC-060 --parallels--> SWED-003
+- → `CONSC-061` (integrates_into): Inverse of: CONSC-061 --integrated_from--> SWED-003
+- → `SWED-033` (described_by): Inverse of: SWED-033 --describes--> SWED-003
 
 ---
 
@@ -1695,6 +2091,31 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-001` (parallels): Written entirely in correspondences
 - → `MYTH-003` (explains): Scientific evidence for deep-time symbolic system
 - → `SWED-006` (describes): Cognitive state of Most Ancient Church
+- → `SWED-006` (developed_by): Inverse of: SWED-006 --develops--> SWED-004
+- → `SWED-007` (required_by): Inverse of: SWED-007 --requires--> SWED-004
+- → `EARLY-006` (integrates_into): Inverse of: EARLY-006 --integrated_from--> SWED-004
+- → `MYTH-003` (validated_by): Inverse of: MYTH-003 --validates--> SWED-004
+- → `MYTH-005` (parallels): Inverse of: MYTH-005 --parallels--> SWED-004
+- → `EARLY-008` (integrates_into): Inverse of: EARLY-008 --integrated_from--> SWED-004
+- → `MYTH-008` (parallels): Inverse of: MYTH-008 --parallels--> SWED-004
+- → `MYTH-011` (parallels): Inverse of: MYTH-011 --parallels--> SWED-004
+- → `MYTH-012` (develops): Inverse of: MYTH-012 --supports--> SWED-004
+- → `EARLY-014` (parallels): Inverse of: EARLY-014 --parallels--> SWED-004
+- → `MYTH-013` (develops): Inverse of: MYTH-013 --supports--> SWED-004
+- → `MYTH-014` (parallels): Inverse of: MYTH-014 --parallels--> SWED-004
+- → `MYTH-015` (develops): Inverse of: MYTH-015 --supports--> SWED-004
+- → `CROSS-004` (integrates_into): Inverse of: CROSS-004 --integrated_from--> SWED-004
+- → `CONSC-015` (develops): Inverse of: CONSC-015 --developed_by--> SWED-004
+- → `BIBL-013` (parallels): Inverse of: BIBL-013 --parallels--> SWED-004
+- → `SWED-028` (developed_by): Inverse of: SWED-028 --develops--> SWED-004
+- → `CONSC-030` (integrates_into): Inverse of: CONSC-030 --integrated_from--> SWED-004
+- → `SWED-038` (supported_by): Inverse of: SWED-038 --supports--> SWED-004
+- → `SWED-039` (develops): Inverse of: SWED-039 --developed_by--> SWED-004
+- → `SWED-042` (develops): Inverse of: SWED-042 --explains--> SWED-004
+- → `SWED-043` (develops): Inverse of: SWED-043 --supports--> SWED-004
+- → `MYTH-017` (parallels): Inverse of: MYTH-017 --parallels--> SWED-004
+- → `MYTH-003` (developed_by): Inverse of: MYTH-003 --develops--> SWED-004
+- → `SWED-012` (described_by): Inverse of: SWED-012 --describes--> SWED-004
 
 ---
 
@@ -1713,32 +2134,48 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `SWED-002` (opposes): Proprium blocks divine influx
 - → `GNOS-001` (supports): Gnostic impulse is intellectual proprium
-- → `EARLY-003` (instantiated_by): Pauline methodology exhibits proprium traits
+- → `EARLY-003` (integrates_into): Pauline methodology exhibits proprium traits
 - → `CONSC-018` (parallels): Proprium parallels Emissary usurpation at spiritual level
-- → `EARLY-004` (opposes): Kenotic movements oppose proprium
-- → `GNOS-004` (instantiated_by): Divine Spark doctrine instantiates intellectual proprium
+- → `EARLY-004` (contrasts): Kenotic movements oppose proprium
+- → `GNOS-004` (integrates_into): Divine Spark doctrine instantiates intellectual proprium
 - → `CONSC-006` (parallels): Group NDE sorting parallels proprium manifestation
 - → `GNOS-005` (parallels): Dismantling tactics parallel proprium methodology
 - → `GNOS-006` (developed_from): Modern gnosticism develops from proprium
 - → `CONSC-011` (supported_by): Post-mortem sorting supports proprium doctrine
-- → `CONSC-012` (developed_from): Return cases develop from proprium analysis
+- → `CONSC-012` (develops): Return cases develop from proprium analysis
 - → `EARLY-012` (contrasts): Davidic lineage contrasts with proprium usurpation
 - → `MYTH-010` (parallels): Proto-myth divergence parallels proprium split
 - → `SWED-019` (opposes): Celestial perception opposes proprium
 - → `SWED-022` (opposes): Heaven as state opposes proprium
-- → `GNOS-007` (instantiated_by): Pauline discontinuity instantiates proprium pattern
+- → `GNOS-007` (develops): Pauline discontinuity instantiates proprium pattern
 - → `CONSC-013` (parallels): Hybrid model parallels proprium complexity
-- → `CROSS-004` (supported_by): CDE supports proprium as selective pressure
+- → `CROSS-004` (integrates_into): CDE supports proprium as selective pressure
 - → `CONSC-015` (describes): Brain evolution describes proprium emergence
 - → `SWED-025` (opposes): Divine Human opposes proprium
-- → `CONSC-016` (opposes): Pure encounter opposes proprium projection
+- → `CONSC-016` (contrasts): Pure encounter opposes proprium projection
 - → `SWED-026` (opposes): Word preservation opposes proprium corruption
 - → `SWED-027` (developed_from): Animal sacrifice develops from proprium
 - → `SWED-029` (describes): Sacrificial corruption describes proprium
-- → `GNOS-009` (reveals): Apostle analysis reveals proprium in Paul
-- → `GNOS-010` (instantiated_by): Proprium mechanics instantiate self-love doctrine
-- → `GNOS-012` (reveals): Modern channeling reveals contemporary proprium
-- → `CROSS-008` (developed_by): Hemispheric disconnection CORRESPONDS TO proprium (natural expression of spiritual reality)
+- → `GNOS-009` (integrates_into): Apostle analysis reveals proprium in Paul
+- → `GNOS-010` (developed_by): Proprium mechanics instantiate self-love doctrine
+- → `GNOS-012` (integrates_into): Modern channeling reveals contemporary proprium
+- → `CROSS-008` (integrates_into): Hemispheric disconnection CORRESPONDS TO proprium (natural expression of spiritual reality)
+- → `GNOS-001` (develops): Inverse of: GNOS-001 --developed_by--> SWED-005
+- → `GNOS-006` (developed_by): Inverse of: GNOS-006 --develops--> SWED-005
+- → `GNOS-007` (develops): Inverse of: GNOS-007 --instantiates--> SWED-005
+- → `SWED-027` (developed_by): Inverse of: SWED-027 --develops--> SWED-005
+- → `GNOS-013` (developed_by): Inverse of: GNOS-013 --develops--> SWED-005
+- → `CROSS-008` (integrates_into): Inverse of: CROSS-008 --develops--> SWED-005
+- → `CROSS-009` (developed_by): Inverse of: CROSS-009 --develops--> SWED-005
+- → `CROSS-010` (parallels): Inverse of: CROSS-010 --parallels--> SWED-005
+- → `CROSS-012` (developed_by): Inverse of: CROSS-012 --explains--> SWED-005
+- → `CROSS-013` (contrasts): Inverse of: CROSS-013 --contrasts--> SWED-005
+- → `CROSS-014` (developed_by): Inverse of: CROSS-014 --develops--> SWED-005
+- → `SWED-045` (developed_by): Inverse of: SWED-045 --develops--> SWED-005
+- → `CONSC-054` (explains): Inverse of: CONSC-054 --explains--> SWED-005
+- → `CONSC-015` (described_by): Inverse of: CONSC-015 --describes--> SWED-005
+- → `SWED-029` (described_by): Inverse of: SWED-029 --describes--> SWED-005
+- → `GNOS-019` (addressed_by): Inverse of addresses
 
 ---
 
@@ -1755,9 +2192,20 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [S] Lakoff & Johnson, Metaphors We Live By (1980)
 
 **Connections**:
-- → `SWED-004` (produces): Ancient Word emerged from this cognitive state
+- → `SWED-004` (develops): Ancient Word emerged from this cognitive state
 - → `SWED-007` (precedes): Fall represents departure from this state
 - → `MYTH-003` (parallels): Memory Code hypothesis describes similar cognitive technology
+- → `MYTH-003` (supported_by): Inverse of: MYTH-003 --supports--> SWED-006
+- → `MYTH-007` (parallels): Inverse of: MYTH-007 --parallels--> SWED-006
+- → `SWED-024` (parallels): Inverse of: SWED-024 --parallels--> SWED-006
+- → `SWED-030` (supported_by): Inverse of: SWED-030 --supports--> SWED-006
+- → `SWED-031` (supported_by): Inverse of: SWED-031 --supports--> SWED-006
+- → `SWED-036` (developed_by): Inverse of: SWED-036 --develops--> SWED-006
+- → `CONSC-021` (parallels): Inverse of: CONSC-021 --parallels--> SWED-006
+- → `MYTH-017` (parallels): Inverse of: MYTH-017 --parallels--> SWED-006
+- → `SWED-004` (described_by): Inverse of: SWED-004 --describes--> SWED-006
+- → `SWED-010` (described_by): Inverse of: SWED-010 --describes--> SWED-006
+- → `SWED-040` (described_by): Inverse of: SWED-040 --describes--> SWED-006
 
 ---
 
@@ -1776,6 +2224,15 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-006` (follows): Departure from Golden Age state
 - → `SWED-004` (requires): Fall necessitated written Ancient Word
 - → `SWED-008` (requires): Regeneration reverses the Fall
+- → `BIBL-004` (parallels): Inverse of: BIBL-004 --parallels--> SWED-007
+- → `MYTH-004` (develops): Inverse of: MYTH-004 --developed_by--> SWED-007
+- → `SWED-010` (follows): Inverse of: SWED-010 --precedes--> SWED-007
+- → `EARLY-008` (integrates_into): Inverse of: EARLY-008 --integrated_from--> SWED-007
+- → `SWED-023` (developed_by): Inverse of: SWED-023 --develops--> SWED-007
+- → `SWED-049` (parallels): Inverse of: SWED-049 --parallels--> SWED-007
+- → `SWED-054` (develops): Inverse of: SWED-054 --developed_by--> SWED-007
+- → `SWED-031` (described_by): Inverse of: SWED-031 --describes--> SWED-007
+- → `SWED-032` (described_by): Inverse of: SWED-032 --describes--> SWED-007
 
 ---
 
@@ -1794,9 +2251,27 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-007` (reverses): Regeneration restores what Fall disrupted
 - → `BIBL-003` (parallels): Exodus as correspondence of regeneration
 - → `EARLY-004` (parallels): Kenotic movements as regeneration practice
-- → `GNOS-002` (opposes): Regeneration represents affirmation path vs gnosis path
+- → `GNOS-002` (contrasts): Regeneration represents affirmation path vs gnosis path
 - → `CONSC-017` (parallels): NDE transformation parallels regeneration process
 - → `MYTH-002` (parallels): Heart of Unity corresponds to regeneration trajectory
+- → `SWED-007` (required_by): Inverse of: SWED-007 --requires--> SWED-008
+- → `CONSC-007` (parallels): Inverse of: CONSC-007 --parallels--> SWED-008
+- → `SWED-015` (developed_by): Inverse of: SWED-015 --develops--> SWED-008
+- → `SWED-022` (required_by): Inverse of: SWED-022 --requires--> SWED-008
+- → `SWED-024` (developed_by): Inverse of: SWED-024 --develops--> SWED-008
+- → `CONSC-013` (supported_by): Inverse of: CONSC-013 --supports--> SWED-008
+- → `CONSC-014` (parallels): Inverse of: CONSC-014 --parallels--> SWED-008
+- → `SWED-025` (complemented_by): Inverse of: SWED-025 --complements--> SWED-008
+- → `SWED-026` (developed_by): Inverse of: SWED-026 --develops--> SWED-008
+- → `CONSC-018` (parallels): Inverse of: CONSC-018 --parallels--> SWED-008
+- → `SWED-029` (developed_by): Inverse of: SWED-029 --develops--> SWED-008
+- → `CONSC-042` (develops): Inverse of: CONSC-042 --developed_by--> SWED-008
+- → `CONSC-020` (develops): Inverse of: CONSC-020 --developed_by--> SWED-008
+- → `CROSS-012` (developed_by): Inverse of: CROSS-012 --develops--> SWED-008
+- → `CROSS-022` (integrates_into): Inverse of: CROSS-022 --integrated_from--> SWED-008
+- → `CONSC-046` (parallels): Inverse of: CONSC-046 --parallels--> SWED-008
+- → `GNOS-019` (contrasts): Inverse of: GNOS-019 --contrasts--> SWED-008
+- → `SWED-033` (described_by): Inverse of: SWED-033 --describes--> SWED-008
 
 ---
 
@@ -1814,8 +2289,26 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `BIBL-002` (develops): Reframes historical Jesus findings spiritually
-- → `GNOS-002` (contradicts): Opposes Gnostic splitting of Jesus/Christ
+- → `GNOS-002` (contrasts): Opposes Gnostic splitting of Jesus/Christ
 - → `BIBL-004` (develops): Glorified body explains resurrection evolution
+- → `BIBL-002` (developed_by): Inverse of: BIBL-002 --develops--> SWED-009
+- → `BIBL-021` (parallels): Inverse of: BIBL-021 --parallels--> SWED-009
+- → `CONSC-008` (develops): Inverse of: CONSC-008 --supports--> SWED-009
+- → `SWED-011` (developed_by): Inverse of: SWED-011 --develops--> SWED-009
+- → `SWED-014` (developed_by): Inverse of: SWED-014 --develops--> SWED-009
+- → `SWED-017` (follows): Inverse of: SWED-017 --precedes--> SWED-009
+- → `SWED-018` (developed_by): Inverse of: SWED-018 --develops--> SWED-009
+- → `SWED-019` (developed_by): Inverse of: SWED-019 --develops--> SWED-009
+- → `SWED-034` (parallels): Inverse of: SWED-034 --contextualizes--> SWED-009
+- → `CROSS-007` (develops): Inverse of: CROSS-007 --developed_by--> SWED-009
+- → `CROSS-009` (developed_by): Inverse of: CROSS-009 --develops--> SWED-009
+- → `CROSS-018` (required_by): Inverse of: CROSS-018 --requires--> SWED-009
+- → `CONSC-021` (parallels): Inverse of: CONSC-021 --parallels--> SWED-009
+- → `CONSC-023` (parallels): Inverse of: CONSC-023 --parallels--> SWED-009
+- → `SWED-050` (parallels): Inverse of: SWED-050 --contextualizes--> SWED-009
+- → `CONSC-067` (develops): Inverse of: CONSC-067 --supports--> SWED-009
+- → `CONSC-072` (parallels): Inverse of: CONSC-072 --parallels--> SWED-009
+- → `CROSS-005` (described_by): Inverse of describes
 
 ---
 
@@ -1835,6 +2328,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-006` (describes): Physiological basis of Golden Age cognition
 - → `SWED-007` (precedes): State disrupted by cognitive Fall
 - → `CONSC-007` (parallels): Contemplative practices restore partial access
+- → `SWED-030` (complemented_by): Inverse of: SWED-030 --complements--> SWED-010
+- → `SWED-031` (complemented_by): Inverse of: SWED-031 --complements--> SWED-010
 
 ---
 
@@ -1851,7 +2346,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [P] Swedenborg, Heaven and Hell §§ 59-102
 
 **Connections**:
-- → `SWED-001` (instantiates): Body-heaven relationship as master correspondence
+- → `SWED-001` (develops): Body-heaven relationship as master correspondence
 - → `SWED-009` (develops): Glorification completed Divine Human accessible in ultimates
 - → `CONSC-003` (parallels): NDE beings of light as encounter with Divine Human
 
@@ -1870,9 +2365,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [P] Swedenborg, Apocalypse Explained
 
 **Connections**:
-- → `SWED-001` (instantiates): Comprehensive application of correspondence principle
+- → `SWED-001` (develops): Comprehensive application of correspondence principle
 - → `SWED-004` (describes): The symbolic language the Ancient Word employed
 - → `BIBL-003` (develops): Provides internal sense of biblical narratives
+- → `SWED-013` (complemented_by): Inverse of: SWED-013 --complements--> SWED-012
 
 ---
 
@@ -1889,9 +2385,13 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [P] Swedenborg, Secrets of Heaven (Arcana Coelestia)
 
 **Connections**:
-- → `SWED-001` (instantiates): Numbers as correspondential language
+- → `SWED-001` (develops): Numbers as correspondential language
 - → `SWED-012` (complements): Numerology alongside natural symbol correspondences
 - → `BIBL-004` (develops): Provides layer of meaning in textual analysis
+- → `MYTH-012` (develops): Inverse of: MYTH-012 --developed_by--> SWED-013
+- → `MYTH-014` (parallels): Inverse of: MYTH-014 --parallels--> SWED-013
+- → `CONSC-015` (develops): Inverse of: CONSC-015 --developed_by--> SWED-013
+- → `SWED-040` (developed_by): Inverse of: SWED-040 --develops--> SWED-013
 
 ---
 
@@ -1911,8 +2411,13 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `SWED-009` (develops): Result of completed Glorification process
 - → `BIBL-002` (develops): Reinterprets historical Jesus findings
-- → `CONSC-003` (supports): Being of Light phenomenology validates theological claim
-- → `GNOS-002` (opposes): Opposes Gnostic dismantling of Jesus identity
+- → `CONSC-003` (explains): Being of Light phenomenology validates theological claim
+- → `GNOS-002` (contrasts): Opposes Gnostic dismantling of Jesus identity
+- → `BIBL-010` (developed_by): Inverse of: BIBL-010 --develops--> SWED-014
+- → `EARLY-016` (parallels): Inverse of: EARLY-016 --parallels--> SWED-014
+- → `CROSS-013` (developed_by): Inverse of: CROSS-013 --develops--> SWED-014
+- → `CROSS-018` (integrates_into): Inverse of: CROSS-018 --integrated_from--> SWED-014
+- → `CONSC-003` (parallels): Inverse of: CONSC-003 --parallels--> SWED-014
 
 ---
 
@@ -1931,7 +2436,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `SWED-008` (develops): Detailed stage structure of regeneration process
 - → `CONSC-005` (parallels): NDE transformation as compressed regeneration
-- → `EARLY-004` (instantiates): Kenotic practices as Purification technology
+- → `EARLY-004` (integrates_into): Kenotic practices as Purification technology
 
 ---
 
@@ -1954,7 +2459,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-002` (parallels): Ancient Word predates the Fall into writing
 - → `CONSC-011` (supports): Left-hemisphere dominance as linguistic Fall
 - → `MYTH-002` (develops): Mythic consciousness as pre-Fall cognition
-- → `MYTH-008` (supports): Songlines as evidence of pre-literate memory capacity
+- → `MYTH-008` (explains): Songlines as evidence of pre-literate memory capacity
+- → `SWED-023` (developed_by): Inverse of: SWED-023 --develops--> SWED-016
+- → `MYTH-008` (parallels): Inverse of: MYTH-008 --parallels--> SWED-016
 
 ---
 
@@ -1972,11 +2479,15 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 4. [T] data/06_Mythological_Studies/The Two Hearts of Creation...
 
 **Connections**:
-- → `CROSS-002` (instantiates): Divine Bricolage is the spiritual version of mythic bricolage
+- → `CROSS-002` (integrates_into): Divine Bricolage is the spiritual version of mythic bricolage
 - → `MYTH-001` (develops): Explains teleology behind proto-myth evolution
 - → `SWED-003` (requires): Influx doctrine underlies providential guidance
-- → `MYTH-009` (supports): Exodus as example of providentially-guided history
+- → `MYTH-009` (develops): Exodus as example of providentially-guided history
 - → `SWED-009` (precedes): Prepares for Glorification through progressive revelation
+- → `SWED-018` (required_by): Inverse of: SWED-018 --requires--> SWED-017
+- → `MYTH-010` (develops): Inverse of: MYTH-010 --developed_by--> SWED-017
+- → `MYTH-011` (parallels): Inverse of: MYTH-011 --parallels--> SWED-017
+- → `SWED-023` (developed_by): Inverse of: SWED-023 --develops--> SWED-017
 
 ---
 
@@ -1995,10 +2506,14 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `SWED-009` (develops): Glorification doctrine fully realized in this profile
-- → `CONSC-003` (supports): NDE data validates Divine Human accessibility
+- → `CONSC-003` (explains): NDE data validates Divine Human accessibility
 - → `SWED-017` (requires): Divine Bricolage prepared the vessel
 - → `GNOS-001` (opposes): Path of Gnosis dismantles this specific identity
 - → `CONSC-004` (parallels): Being of Light in NDEs matches this profile
+- → `EARLY-014` (develops): Inverse of: EARLY-014 --supports--> SWED-018
+- → `BIBL-010` (developed_by): Inverse of: BIBL-010 --develops--> SWED-018
+- → `GNOS-015` (contrasts): Inverse of: GNOS-015 --contrasts--> SWED-018
+- → `CONSC-003` (parallels): Inverse of: CONSC-003 --parallels--> SWED-018
 
 ---
 
@@ -2019,8 +2534,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-009` (develops): Regeneration culminates in Glorification pattern
 - → `CONSC-004` (parallels): NDE phenomenology matches illumination stage
 - → `SWED-005` (opposes): Regeneration undoes proprium's dominance
-- → `CONSC-010` (complements): Volunteer Soul missions as regenerative Use
-- → `SWED-001` (instantiates): Dream symbols follow doctrine of correspondences
+- → `CONSC-010` (develops): Volunteer Soul missions as regenerative Use
+- → `SWED-001` (develops): Dream symbols follow doctrine of correspondences
+- → `SWED-021` (required_by): Inverse of: SWED-021 --requires--> SWED-019
+- → `SWED-022` (developed_by): Inverse of: SWED-022 --develops--> SWED-019
+- → `SWED-055` (develops): Inverse of: SWED-055 --developed_by--> SWED-019
 
 ---
 
@@ -2038,10 +2556,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 4. [P] Swedenborg, Spiritual Diary (Experientiae Spirituales)
 
 **Connections**:
-- → `SWED-001` (instantiates): Grand Man is the macro-level correspondence
+- → `SWED-001` (develops): Grand Man is the macro-level correspondence
 - → `SWED-019` (requires): Regeneration integrates one into Grand Man
 - → `CONSC-011` (parallels): Cerebrum/cerebellum = will/intellect parallels hemispheric division
 - → `SWED-003` (develops): Heaven's structure is Divine Human form
+- → `SWED-029` (developed_by): Inverse of: SWED-029 --develops--> SWED-021
 
 ---
 
@@ -2059,9 +2578,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `SWED-008` (requires): Commission initiated Swedenborg's own regeneration
-- → `SWED-002` (instantiates): Experience was direct divine influx
+- → `SWED-002` (develops): Experience was direct divine influx
 - → `SWED-005` (opposes): Crisis required subjugation of proprium
-- → `SWED-019` (produces): Commission led to doctrines of regeneration
+- → `SWED-019` (develops): Commission led to doctrines of regeneration
+- → `SWED-028` (developed_by): Inverse of: SWED-028 --develops--> SWED-022
 
 ---
 
@@ -2081,7 +2601,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `SWED-016` (develops): Expands Fall into Language thesis
 - → `SWED-007` (develops): Cognitive shift framework expanded
-- → `SWED-017` (instantiates): Divine Bricolage as mechanism
+- → `SWED-017` (develops): Divine Bricolage as mechanism
 - → `MYTH-001` (supports): Mythic bricolage as providential guidance
 
 ---
@@ -2105,6 +2625,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-008` (develops): Corporate regeneration of humanity
 - → `SWED-006` (parallels): Returns to Most Ancient state via new revelation
 - → `BIBL-010` (supports): Path of Affirmation as New Church trajectory
+- → `CROSS-019` (required_by): Inverse of: CROSS-019 --requires--> SWED-024
+- → `CROSS-020` (integrates_into): Inverse of: CROSS-020 --integrated_from--> SWED-024
+- → `MYTH-017` (parallels): Inverse of: MYTH-017 --parallels--> SWED-024
+- → `SWED-049` (parallels): Inverse of: SWED-049 --parallels--> SWED-024
+- → `BIBL-010` (developed_by): Inverse of: BIBL-010 --develops--> SWED-024
 
 ---
 
@@ -2124,9 +2649,16 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `BIBL-001` (develops): Reframes HCM findings as spiritual preparation
 - → `SWED-008` (complements): Glorification as Christ's regeneration process
-- → `CONSC-003` (supports): NDE 'Being of Light' validates Glorified Human
-- → `CROSS-002` (instantiates): Final expression of Divine Bricolage
+- → `CONSC-003` (explains): NDE 'Being of Light' validates Glorified Human
+- → `CROSS-002` (integrates_into): Final expression of Divine Bricolage
 - → `SWED-005` (opposes): Glorification = systematic conquest of proprium
+- → `CONSC-016` (develops): Inverse of: CONSC-016 --supports--> SWED-025
+- → `GNOS-008` (contrasts): Inverse of: GNOS-008 --contrasts--> SWED-025
+- → `BIBL-011` (parallels): Inverse of: BIBL-011 --parallels--> SWED-025
+- → `SWED-029` (supported_by): Inverse of: SWED-029 --supports--> SWED-025
+- → `CROSS-005` (parallels): Inverse of: CROSS-005 --parallels--> SWED-025
+- → `SWED-038` (parallels): Inverse of: SWED-038 --parallels--> SWED-025
+- → `CONSC-003` (parallels): Inverse of: CONSC-003 --parallels--> SWED-025
 
 ---
 
@@ -2149,7 +2681,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-005` (opposes): Faith alone as proprium's theological form
 - → `GNOS-001` (contrasts): External church without internal vs. internal church
 - → `SWED-003` (requires): New Church requires reopened influx channels
-- → `CROSS-002` (instantiates): New Church as culmination of Divine Bricolage
+- → `CROSS-002` (integrates_into): New Church as culmination of Divine Bricolage
+- → `SWED-027` (developed_by): Inverse of: SWED-027 --develops--> SWED-026
+- → `CROSS-020` (required_by): Inverse of: CROSS-020 --requires--> SWED-026
+- → `SWED-049` (parallels): Inverse of: SWED-049 --parallels--> SWED-026
 
 ---
 
@@ -2172,8 +2707,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-005` (develops): Proprium mechanics explain Paul's self-derived inspiration
 - → `SWED-026` (develops): Faith Alone consummation leads to Fourth Church necessity
 - → `GNOS-007` (parallels): Paul's gnosis method parallels gnostic self-validation
-- → `EARLY-017` (complements): Historical critique + pneumatological critique converge
+- → `EARLY-017` (develops): Historical critique + pneumatological critique converge
 - → `BIBL-012` (develops): Pseudepigraphy shows 'domestication' of already-problematic Paul
+- → `EARLY-003` (integrates_into): Inverse of: EARLY-003 --develops--> SWED-027
+- → `SWED-035` (developed_by): Inverse of: SWED-035 --develops--> SWED-027
+- → `SWED-036` (supported_by): Inverse of: SWED-036 --supports--> SWED-027
 
 ---
 
@@ -2193,9 +2731,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `SWED-001` (develops): Correspondences as scientific method for spiritual investigation
 - → `SWED-022` (develops): Divine Commission transitioned methodology from natural to spiritual science
-- → `CROSS-001` (instantiates): Two-tiered hermeneutic resolves apparent paradox
-- → `BIBL-001` (complements): HCM and correspondential method as complementary tiers
-- → `SWED-004` (supports): Ancient Word distinction shows critical capacity
+- → `CROSS-001` (develops): Two-tiered hermeneutic resolves apparent paradox
+- → `BIBL-001` (develops): HCM and correspondential method as complementary tiers
+- → `SWED-004` (develops): Ancient Word distinction shows critical capacity
 
 ---
 
@@ -2213,11 +2751,12 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 4. [P] Swedenborg, True Christian Religion §§ 16-27, 163-188
 
 **Connections**:
-- → `SWED-001` (instantiates): Male/female as fundamental correspondence category
+- → `SWED-001` (develops): Male/female as fundamental correspondence category
 - → `SWED-021` (develops): Maximus Homo includes male/female differentiation
 - → `SWED-005` (describes): Proprium manifests differently in male/female forms
 - → `SWED-008` (develops): Regeneration integrates masculine/feminine within psyche
 - → `SWED-025` (supports): Divine Human = union of Divine Good and Divine Truth
+- → `SWED-005` (described_by): Inverse of: SWED-005 --describes--> SWED-029
 
 ---
 
@@ -2237,10 +2776,12 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `SWED-006` (supports): Provides scientific mechanism for Most Ancient Church cognition
-- → `SWED-001` (instantiates): CMT as natural-plane description of correspondences
+- → `SWED-001` (develops): CMT as natural-plane description of correspondences
 - → `SWED-010` (complements): CMT explains cognitive basis for internal respiration's thought mode
 - → `CROSS-001` (instantiates): Perfect example of two-tier epistemology in action
-- → `MYTH-002` (supports): Metaphorical thinking as basis for mythic meaning
+- → `MYTH-002` (develops): Metaphorical thinking as basis for mythic meaning
+- → `CROSS-001` (developed_by): Inverse of: CROSS-001 --develops--> SWED-030
+- → `SWED-031` (parallels): Inverse of: SWED-031 --parallels--> SWED-030
 
 ---
 
@@ -2264,6 +2805,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-007` (describes): The Fall as transition from gesture to vocal speech
 - → `SWED-030` (parallels): Both provide scientific grounding for primordial cognition
 - → `CROSS-001` (instantiates): Two-tier framework applied to language evolution
+- → `CROSS-001` (developed_by): Inverse of: CROSS-001 --develops--> SWED-031
 
 ---
 
@@ -2284,10 +2826,12 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `SWED-032` (precedes): Allegorical Word precedes Historical Word chronologically
 - → `SWED-007` (describes): The Fall narrative is prime allegorical content
-- → `MYTH-001` (instantiates): Genesis 1-11 as product of mythic bricolage
-- → `CONSC-001` (requires): CDE provides mechanism for influx-guided composition
-- → `CROSS-002` (instantiates): First external form in Divine Bricolage sequence
+- → `MYTH-001` (develops): Genesis 1-11 as product of mythic bricolage
+- → `CONSC-001` (developed_by): CDE provides mechanism for influx-guided composition
+- → `CROSS-002` (integrates_into): First external form in Divine Bricolage sequence
 - → `BIBL-003` (contrasts): Allegorical vs Historical as two distinct Word forms
+- → `SWED-032` (follows): Inverse of: SWED-032 --precedes--> SWED-032
+- → `SWED-033` (precedes): Inverse of: SWED-033 --follows--> SWED-032
 
 ---
 
@@ -2307,11 +2851,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `SWED-032` (follows): Historical Word chronologically follows Allegorical Word
-- → `BIBL-003` (instantiates): Exodus as prime example of Historical Word
+- → `BIBL-003` (develops): Exodus as prime example of Historical Word
 - → `MYTH-001` (requires): Memory synthesis = bricolage mechanism
 - → `SWED-003` (describes): Historical events as vessels for influx
 - → `SWED-008` (describes): Exodus encodes regeneration process
-- → `CROSS-002` (instantiates): Second stage in Divine Bricolage sequence
+- → `CROSS-002` (integrates_into): Second stage in Divine Bricolage sequence
 
 ---
 
@@ -2333,6 +2877,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-009` (contextualizes): Glorification as 'putting off' reflects matter-as-dead assumption
 - → `MYTH-001` (develops): Divine Bricolage corrects overly static correspondence model
 - → `CROSS-006` (requires): Jesus Profile thesis addresses physical limitation
+- → `CONSC-055` (parallels): Inverse of: CONSC-055 --parallels--> SWED-034
+- → `SWED-001` (parallels): Inverse of: SWED-001 --parallels--> SWED-034
+- → `SWED-009` (parallels): Inverse of: SWED-009 --parallels--> SWED-034
+- → `CROSS-006` (develops): Inverse of: CROSS-006 --developed_by--> SWED-034
+- → `CROSS-007` (addressed_by): Inverse of addresses
 
 ---
 
@@ -2350,13 +2899,16 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 4. [P] Swedenborg, Arcana Coelestia § 9942
 
 **Connections**:
-- → `SWED-001` (instantiates): Operationalizes Doctrine of Correspondences as testable method
+- → `SWED-001` (develops): Operationalizes Doctrine of Correspondences as testable method
 - → `SWED-027` (develops): Provides structural basis for Pauline exclusion
 - → `CROSS-001` (supports): Two-tiered hermeneutic requires distinguishing Word from Writings
 - → `EARLY-003` (contrasts): Pauline movement writings = logos mode, not mythos
-- → `BIBL-003` (complements): Lukan Dissonance methodology applies to Gospel as Word
+- → `BIBL-003` (develops): Lukan Dissonance methodology applies to Gospel as Word
 - → `SWED-036` (developed_by): Operationalized into falsifiable stress tests
 - → `SWED-037` (complemented_by): SWED-037 provides external triangulation solving circularity problem
+- → `SWED-038` (developed_by): Inverse of: SWED-038 --develops--> SWED-035
+- → `SWED-039` (develops): Inverse of: SWED-039 --instantiates--> SWED-035
+- → `CROSS-001` (developed_by): Inverse of: CROSS-001 --develops--> SWED-035
 
 ---
 
@@ -2374,11 +2926,13 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 4. [S] swedenborgstudy.com/books/W.L.Worcester_Language-Parable/32-Numbers.html
 
 **Connections**:
-- → `SWED-035` (operationalizes): Transforms three validation criteria into falsifiable stress tests
-- → `SWED-001` (applies): Empirical application of correspondence doctrine
+- → `SWED-035` (develops): Transforms three validation criteria into falsifiable stress tests
+- → `SWED-001` (develops): Empirical application of correspondence doctrine
 - → `BIBL-002` (intersects): Historical doublet test engages textual criticism of parallel passages
 - → `SWED-027` (supports): Epistolary mode test explains Pauline exclusion
 - → `SWED-006` (develops): Grand Man template provides structural isomorphism baseline
+- → `SWED-037` (complemented_by): Inverse of: SWED-037 --complements--> SWED-036
+- → `SWED-039` (develops): Inverse of: SWED-039 --instantiates--> SWED-036
 
 ---
 
@@ -2403,6 +2957,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `CROSS-001` (supports): Documentary Hypothesis = Tier 1; Correspondential = Tier 2
 - → `CONSC-001` (intersects): Mundus Imaginalis connects to consciousness studies paradigm
 - → `MYTH-001` (intersects): Perennial tradition convergence parallels mythic bricolage
+- → `CROSS-017` (integrates_into): Inverse of: CROSS-017 --integrated_from--> SWED-037
+- → `SWED-041` (developed_by): Inverse of: SWED-041 --develops--> SWED-037
+- → `SWED-042` (develops): Inverse of: SWED-042 --developed_by--> SWED-037
+- → `CROSS-001` (developed_by): Inverse of: CROSS-001 --develops--> SWED-037
 
 ---
 
@@ -2420,11 +2978,12 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 4. [S] Brill, 'Righteous One, Messiah, Chosen One, and Son of Man in 1 Enoch 37-71'
 
 **Connections**:
-- → `SWED-001` (instantiates): Representation is a specific application of correspondence doctrine
+- → `SWED-001` (develops): Representation is a specific application of correspondence doctrine
 - → `SWED-035` (develops): Representation explains how 'weird' passages maintain internal sense
 - → `SWED-039` (required_by): 1 Enoch validation depends on representation doctrine
 - → `SWED-025` (parallels): Glorification parallels—Lord's Human became Divine, Doctrine IS Truth
 - → `SWED-004` (supports): Ancient Word transmitted through representative figures
+- → `SWED-039` (develops): Inverse of: SWED-039 --developed_by--> SWED-038
 
 ---
 
@@ -2442,13 +3001,18 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 4. [W] swedenborg.com/enoch-the-first-librarians/
 
 **Connections**:
-- → `SWED-004` (validates): Empirical test of Ancient Word hypothesis
+- → `SWED-004` (developed_by): Empirical test of Ancient Word hypothesis
 - → `SWED-035` (instantiates): Application of Word vs Writings methodology
 - → `SWED-036` (instantiates): Application of stress testing protocol
-- → `SWED-038` (requires): Uniformity test depends on Representation doctrine
-- → `SWED-040` (contains): Astronomical test produces Sabbatical Calendar Theology
-- → `MYTH-017` (contains): Compilation test produces Dispensational Animal Sequence
-- → `MYTH-014` (develops): Extends historical calendar documentation with spiritual interpretation
+- → `SWED-038` (developed_by): Uniformity test depends on Representation doctrine
+- → `SWED-040` (developed_by): Astronomical test produces Sabbatical Calendar Theology
+- → `MYTH-017` (explains): Compilation test produces Dispensational Animal Sequence
+- → `MYTH-014` (explains): Extends historical calendar documentation with spiritual interpretation
+- → `SWED-038` (developed_by): Inverse of: SWED-038 --required_by--> SWED-039
+- → `SWED-040` (developed_by): Inverse of: SWED-040 --contained_by--> SWED-039
+- → `MYTH-017` (supported_by): Inverse of: MYTH-017 --supports--> SWED-039
+- → `SWED-035` (developed_by): Inverse of: SWED-035 --develops--> SWED-039
+- → `SWED-036` (developed_by): Inverse of: SWED-036 --develops--> SWED-039
 
 ---
 
@@ -2468,11 +3032,14 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `SWED-039` (contained_by): Discovered through 1 Enoch validation study
-- → `MYTH-014` (develops): Spiritual interpretation of historical calendar data
-- → `SWED-013` (instantiates): 7 as 'holy' confirmed in calendar structure
+- → `MYTH-014` (explains): Spiritual interpretation of historical calendar data
+- → `SWED-013` (develops): 7 as 'holy' confirmed in calendar structure
 - → `SWED-006` (describes): Calendar encodes Most Ancient Church cognitive state
-- → `SWED-001` (instantiates): Astronomical elements as correspondence vessels
+- → `SWED-001` (develops): Astronomical elements as correspondence vessels
 - → `CROSS-001` (instantiates): Tier 1 = failed astronomy; Tier 2 = perfect theology
+- → `SWED-039` (develops): Inverse of: SWED-039 --developed_by--> SWED-040
+- → `CROSS-001` (developed_by): Inverse of: CROSS-001 --develops--> SWED-040
+- → `MYTH-014` (parallels): Inverse of: MYTH-014 --parallels--> SWED-040
 
 ---
 
@@ -2491,8 +3058,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `SWED-001` (parallels): Pre-Swedenborgian correspondence ontology with identical structure
 - → `EARLY-008` (supports): Provides theoretical substrate for Magian science of correspondences
-- → `SWED-037` (instantiates): External triangulation via Zoroastrian tradition
+- → `SWED-037` (develops): External triangulation via Zoroastrian tradition
 - → `GNOS-001` (contrasts): Directly opposes Gnostic material=prison cosmology
+- → `SWED-042` (develops): Inverse of: SWED-042 --developed_by--> SWED-041
+- → `EARLY-008` (integrates_into): Inverse of: EARLY-008 --integrated_from--> SWED-041
 
 ---
 
@@ -2516,9 +3085,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `SWED-004` (explains): Historical mechanism for Ancient Word fragmentation
-- → `SWED-041` (contained): The lost encyclopedia systematizing mēnōg/gētīg correspondences
-- → `EARLY-008` (supports): Context for Magi as fragmentary tradition custodians
-- → `SWED-037` (develops): Specific historical data for external triangulation
+- → `SWED-041` (developed_by): The lost encyclopedia systematizing mēnōg/gētīg correspondences
+- → `EARLY-008` (parallels): Context for Magi as fragmentary tradition custodians
+- → `SWED-037` (developed_by): Specific historical data for external triangulation
+- → `SWED-043` (parallels): Inverse of: SWED-043 --contextualizes--> SWED-042
+- → `SWED-004` (developed_by): Inverse of: SWED-004 --develops--> SWED-042
 
 ---
 
@@ -2536,10 +3107,12 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 4. [P] Matthew 2:1-12
 
 **Connections**:
-- → `EARLY-008` (develops): Specific mechanism of prophetic-Magian synthesis
+- → `EARLY-008` (parallels): Specific mechanism of prophetic-Magian synthesis
 - → `SWED-042` (contextualizes): Daniel engaged with already-fragmentary post-Alexander tradition
 - → `SWED-004` (supports): Daniel as conduit preserving Ancient Word elements in Hebrew tradition
 - → `BIBL-002` (intersects): Daniel's apocalyptic genre shares Magian cosmological structure
+- → `SWED-004` (developed_by): Inverse of: SWED-004 --develops--> SWED-043
+- → `SWED-042` (parallels): Inverse of: SWED-042 --parallels--> SWED-043
 
 ---
 
@@ -2559,9 +3132,12 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `SWED-045` (requires): Priority of will grounds the vulnerability (receptive) model
-- → `SWED-047` (supports): True healing requires will transformation, not just understanding
+- → `SWED-047` (develops): True healing requires will transformation, not just understanding
 - → `CONSC-054` (explains): Why surrender (will) heals when knowledge alone does not
-- → `CROSS-003` (instantiates): Ruling love (will) determines life trajectory
+- → `CROSS-003` (develops): Ruling love (will) determines life trajectory
+- → `CROSS-008` (integrates_into): Inverse of: CROSS-008 --integrated_from--> SWED-044
+- → `CROSS-010` (developed_by): Inverse of: CROSS-010 --requires--> SWED-044
+- → `CONSC-054` (parallels): Inverse of: CONSC-054 --parallels--> SWED-044
 
 ---
 
@@ -2581,9 +3157,12 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `SWED-044` (required_by): Will's priority grounds its role as gate to influx
-- → `SWED-046` (supports): Organ correspondence = where vulnerability manifests
+- → `SWED-046` (develops): Organ correspondence = where vulnerability manifests
 - → `SWED-005` (develops): Proprium as mechanism of self-ward turning
 - → `CONSC-054` (explains): Why surrender heals: reorientation of will's receptivity
+- → `CROSS-008` (integrates_into): Inverse of: CROSS-008 --integrated_from--> SWED-045
+- → `CROSS-010` (developed_by): Inverse of: CROSS-010 --requires--> SWED-045
+- → `CONSC-054` (parallels): Inverse of: CONSC-054 --parallels--> SWED-045
 
 ---
 
@@ -2601,9 +3180,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 4. [T] data/02_Swedenborgian_Theology/Correspondential Framework for Illness and Healing.md
 
 **Connections**:
-- → `SWED-003` (develops): Extends general correspondence doctrine to specific organs
-- → `SWED-045` (supported_by): Vulnerability model provides mechanism for how disorders manifest
-- → `CONSC-054` (develops): Extends healing node with testable organ-specific predictions
+- → `SWED-003` (developed_by): Extends general correspondence doctrine to specific organs
+- → `SWED-045` (developed_by): Vulnerability model provides mechanism for how disorders manifest
+- → `CONSC-054` (explains): Extends healing node with testable organ-specific predictions
 
 ---
 
@@ -2622,9 +3201,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 5. [T] data/02_Swedenborgian_Theology/Correspondential Framework for Illness and Healing.md
 
 **Connections**:
-- → `SWED-044` (required_by): Will transformation is content of True Healing
+- → `SWED-044` (developed_by): Will transformation is content of True Healing
 - → `CONSC-054` (contextualizes): Reframes 'miraculous healing' as True Healing made visible
-- → `CONSC-004` (supports): Death as transition supports consciousness primacy
+- → `CONSC-004` (explains): Death as transition supports consciousness primacy
+- → `SWED-049` (supported_by): Inverse of: SWED-049 --supports--> SWED-047
+- → `SWED-057` (developed_by): Inverse of: SWED-057 --develops--> SWED-047
 
 ---
 
@@ -2645,8 +3226,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `CONSC-060` (parallels): NDA reaching behavior correlates with angelic presence
 - → `CONSC-061` (explains): Provides spiritual interpretation of protective physiology
 - → `CONSC-044` (parallels): Angelic roles match NDE entity differentiated functions
-- → `CONSC-056` (supported_by): ELDV research empirically validates angelic welcome concept
-- → `CONSC-057` (supported_by): Terminal Lucidity supports consciousness not dependent on body
+- → `CONSC-056` (explains): ELDV research empirically validates angelic welcome concept
+- → `CONSC-057` (explains): Terminal Lucidity supports consciousness not dependent on body
+- → `CONSC-056` (parallels): Inverse of: CONSC-056 --parallels--> SWED-048
+- → `CONSC-057` (parallels): Inverse of: CONSC-057 --parallels--> SWED-048
+- → `CONSC-061` (integrates_into): Inverse of: CONSC-061 --integrated_from--> SWED-048
 
 ---
 
@@ -2669,26 +3253,32 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 9. [T] data/00_Framework/The Heart of the Matter.md
 
 **Connections**:
-- → `CROSS-020` (instantiates): Statue-stone image is the New Church emergence prophecy
-- → `SWED-001` (instantiates): Specific application of Doctrine of Correspondences
-- → `SWED-007` (develops): Four churches are successive dispensations
-- → `SWED-047` (requires): Fourth Church emergence follows statue shattering
+- → `CROSS-020` (parallels): Statue-stone image is the New Church emergence prophecy
+- → `SWED-001` (parallels): Specific application of Doctrine of Correspondences
+- → `SWED-007` (parallels): Four churches are successive dispensations
+- → `SWED-047` (supports): Fourth Church emergence follows statue shattering
 - → `MYTH-001` (parallels): Metal Ages myth shares correspondence structure
-- → `CROSS-020` (instantiates): Fourth Church emergence framework synthesis
-- → `SWED-024` (develops): Daniel's stone = New Jerusalem (New Church) emergence after Christian Church (Fourth) consummation
-- → `SWED-026` (develops): Stone cut without hands = Divine provision of New Church vessel (not Fourth Church)
-- → `SWED-052` (developed_by): Multiple interpretive angles explained
+- → `CROSS-020` (parallels): Fourth Church emergence framework synthesis
+- → `SWED-024` (parallels): Daniel's stone = New Jerusalem (New Church) emergence after Christian Church (Fourth) consummation
+- → `SWED-026` (parallels): Stone cut without hands = Divine provision of New Church vessel (not Fourth Church)
+- → `SWED-052` (parallels): Multiple interpretive angles explained
 - → `SWED-053` (developed_by): Corpus variations analyzed as progressive revelation
-- → `SWED-054` (developed_by): Developmental continuity thesis
-- → `SWED-055` (developed_by): Prophecy mechanism explained
-- → `SWED-056` (developed_by): Jesus as Divine Human expressing
-- → `SWED-057` (developed_by): Stone shatters image not churches
+- → `SWED-054` (supports): Developmental continuity thesis
+- → `SWED-055` (supports): Prophecy mechanism explained
+- → `SWED-056` (parallels): Jesus as Divine Human expressing
+- → `SWED-057` (parallels): Stone shatters image not churches
+- → `SWED-051` (parallels): Inverse of: SWED-051 --contextualizes--> SWED-049
+- → `SWED-052` (parallels): Inverse of: SWED-052 --explains--> SWED-049
+- → `SWED-054` (supports): Inverse of: SWED-054 --explains--> SWED-049
+- → `SWED-055` (supports): Inverse of: SWED-055 --explains--> SWED-049
+- → `SWED-056` (parallels): Inverse of: SWED-056 --explains--> SWED-049
+- → `SWED-057` (parallels): Inverse of: SWED-057 --explains--> SWED-049
 
 ---
 
 #### [SWED-050] The Two States: Exinanition and Glorification
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.497
 
 > Swedenborg's doctrine that Jesus's earthly life alternated between two distinct conscious states. (1) State of Exinanition (Emptying): Jesus was conscious primarily in His finite human nature from Mary, experiencing genuine human weakness, doubt, prayer, and the "cry of dereliction" on the cross. This state was necessary for Him to face temptation as a human—if fully conscious of His Divinity, temptation would be impossible. (2) State of Glorification (Union): Jesus was conscious in His internal Divine nature, declaring "I and the Father are one" (John 10:30). These were moments of transfiguration and miracles where Divine Influx overwhelmed the vessel. The Glorification process was accomplished through temptations—spiritual combats fought from the assumed finite nature.
 
@@ -2701,18 +3291,22 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 5. [T] data/02_Swedenborgian_Theology/Swedenborgian Research Plan.md
 
 **Connections**:
-- → `SWED-009` (supports): The Divine Human doctrine requires two-state process
-- → `BIBL-011` (develops): Criterion of Embarrassment becomes Criterion of Temptation
+- → `SWED-009` (contextualizes): The Divine Human doctrine requires two-state process
+- → `BIBL-011` (explains): Criterion of Temptation analysis validates two-state framework for Gospel interpretation
 - → `BIBL-021` (explains): Explains Jesus''s "embarrassing" human moments as exinanition states
-- → `CROSS-018` (requires): Jesus Problem resolved via two-state consciousness framework
-- → `SWED-001` (instantiates): Two states exemplify correspondence between finite (human) and infinite (divine) planes
-- → `SWED-002` (requires): Glorification = moments when Divine Influx overwhelms finite vessel completely
+- → `CROSS-018` (required_by): Jesus Problem resolved via two-state consciousness framework
+- → `SWED-001` (develops): Two states exemplify correspondence between finite (human) and infinite (divine) planes
+- → `SWED-002` (required_by): Glorification = moments when Divine Influx overwhelms finite vessel completely
+- → `SWED-056` (developed_by): Inverse of: SWED-056 --develops--> SWED-050
+- → `SWED-009` (parallels): Inverse of: SWED-009 --parallels--> SWED-050
+- → `BIBL-021` (parallels): Inverse of: BIBL-021 --parallels--> SWED-050
+- → `BIBL-011` (parallels): Inverse of: BIBL-011 --parallels--> SWED-050
 
 ---
 
 #### [SWED-051] Swedenborg as Hypothesis Not Dogma - Methodological Framework
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.7
 
 > Swedenborg himself recognized his writings as instrumental, not final. He described the New Jerusalem (final church) as using his works to "take thence those things which they consider useful"—not founding itself in his writings but receiving truth through direct influx from the Lord. This establishes the framework's methodological stance: Swedenborg's FRAMEWORK (correspondences, influx, two-tiered reality) is tested as hypothesis; his SPECIFIC APPLICATIONS based on 18th-century science may be incorrect and must be revised using modern data. Examples: (1) "Soul from father, body from mother" (ovism/preformationism)—contradicts modern genetics showing both parents contribute DNA, and contradicts his own teaching that physical IS spiritual in ultimates; (2) Geographic predictions (Africa as location of new church)—likely correspondential states, not literal geography; (3) Limbus and anti-reincarnation arguments built on false heredity assumptions. The framework honors Swedenborg by doing what HE did: hypothesis-testing with best available scientific data. His multiple inconsistent explanations of Daniel's statue across his corpus demonstrate he was working through these correspondences, not receiving inerrant revelation.
 
@@ -2728,10 +3322,13 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `CROSS-001` (requires): Two-tiered epistemology requires distinguishing framework from applications
 - → `CROSS-016` (develops): Falsification criteria apply to Swedenborg's specific claims
-- → `SWED-001` (validates): Correspondence doctrine is framework to test, not dogma to defend
+- → `SWED-001` (develops): Correspondence doctrine is framework to test, not dogma to defend
 - → `SWED-049` (contextualizes): Daniel statue multiple explanations show Swedenborg hypothesis-testing
-- → `CONSC-020` (supports): Restorative Incarnation challenges Swedenborg's Limbus/anti-reincarnation based on false heredity
-- → `CROSS-012` (supports): Soul accumulation model corrects Swedenborg's patrilineal heredity error
+- → `CONSC-020` (contextualizes): Restorative Incarnation challenges Swedenborg's Limbus/anti-reincarnation based on false heredity
+- → `CROSS-012` (parallels): Soul accumulation model corrects Swedenborg's patrilineal heredity error
+- → `SWED-053` (parallels): Inverse of: SWED-053 --parallels--> SWED-051
+- → `SWED-053` (parallels): Inverse of: SWED-053 --contextualizes--> SWED-051
+- → `SWED-049` (parallels): Inverse of: SWED-049 --parallels--> SWED-051
 
 ---
 
@@ -2748,14 +3345,15 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [T] data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual Development Through Daniel's Prophecy.md
 
 **Connections**:
-- → `SWED-049` (develops): Explains interpretive framework for Daniel's statue
-- → `SWED-001` (instantiates): Application of correspondence doctrine to interpretation
+- → `SWED-049` (explains): Explains interpretive framework for Daniel's statue
+- → `SWED-001` (develops): Application of correspondence doctrine to interpretation
+- → `SWED-049` (parallels): Inverse of: SWED-049 --parallels--> SWED-052
 
 ---
 
 #### [SWED-053] Corpus Variations as Progressive Revelation
 
-**Status**: preliminary | **Confidence**: 0.0
+**Status**: preliminary | **Confidence**: 0.731
 
 > Chronological analysis of Swedenborg's Daniel statue interpretations shows progressive refinement: AC 3325 (1749-1756) groups legs+feet as "fourth state" with iron-clay mixing; AE 176 (1759-1760) distinguishes legs (fourth church, iron) from feet (last state, iron-clay); AE 411/483/519 (1759-1760) reveal continuous transition: Jewish church progresses from pure iron (legs) to iron-clay mixing (feet) at its end, and Christian church BEGINS from this same iron-clay state. The crucifixion correspondence (two drinks offered to Jesus) witnesses this transition. The progression reflects guided influx through developing vessel.
 
@@ -2768,9 +3366,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `SWED-049` (develops): Demonstrates progressive refinement in statue interpretation
-- → `SWED-051` (supports): Evidence for hypothesis-testing methodology
+- → `SWED-051` (parallels): Evidence for hypothesis-testing methodology
 - → `SWED-051` (contextualizes): Progressive revelation operates through hypothesis-testing methodology—guided influx works through Swedenborg's rational faculties
-- → `SWED-002` (instantiates): Example of divine influx operating through developing vessel
+- → `SWED-002` (parallels): Example of divine influx operating through developing vessel
 
 ---
 
@@ -2786,9 +3384,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [P] Swedenborg, Arcana Coelestia § 1259
 
 **Connections**:
-- → `SWED-049` (develops): Reveals continuity beneath statue's discrete sections
-- → `CROSS-001` (requires): CDE hypothesis requires continuous memetic evolution
-- → `SWED-007` (develops): Churches as developmental stages not discrete entities
+- → `SWED-049` (explains): Reveals continuity beneath statue's discrete sections
+- → `CROSS-001` (developed_by): CDE hypothesis requires continuous memetic evolution
+- → `SWED-007` (developed_by): Churches as developmental stages not discrete entities
+- → `SWED-049` (supported_by): Inverse of: SWED-049 --supports--> SWED-054
 
 ---
 
@@ -2805,13 +3404,17 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [P] Daniel 2:31-45
 
 **Connections**:
-- → `SWED-049` (develops): Explains how Daniel perceived the Lord expressing through history
+- → `SWED-049` (explains): Explains how Daniel perceived the Lord expressing through history
 - → `CONSC-021` (supported_by): NDE Being of Light identification validates perception thesis
-- → `SWED-056` (requires): Jesus as demonstration depends on Lord always expressing
-- → `EARLY-005` (supported_by): Magi as carriers of correspondence knowledge validate prophecy mechanism
-- → `SWED-019` (supported_by): Magi demonstrate prophecy as perceiving truth + imposing correspondences
-- → `CONSC-001` (supported_by): CDE provides evolutionary mechanism for church development
+- → `SWED-056` (developed_by): Jesus as demonstration depends on Lord always expressing
+- → `EARLY-005` (parallels): Magi as carriers of correspondence knowledge validate prophecy mechanism
+- → `SWED-019` (developed_by): Magi demonstrate prophecy as perceiving truth + imposing correspondences
+- → `CONSC-001` (developed_by): CDE provides evolutionary mechanism for church development
 - → `MYTH-004` (parallels): Both use correspondential interpretation vs literalism
+- → `CONSC-001` (developed_by): Inverse of: CONSC-001 --contextualizes--> SWED-055
+- → `EARLY-006` (parallels): Inverse of: EARLY-006 --develops--> SWED-055
+- → `EARLY-008` (parallels): Inverse of: EARLY-008 --develops--> SWED-055
+- → `SWED-049` (supported_by): Inverse of: SWED-049 --supports--> SWED-055
 
 ---
 
@@ -2829,13 +3432,17 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 4. [P] Philippians 2:5-8
 
 **Connections**:
-- → `SWED-049` (develops): Jesus as ultimate expression visible through church development
+- → `SWED-049` (explains): Jesus as ultimate expression visible through church development
 - → `SWED-055` (develops): Jesus demonstrates what prophecies perceived
 - → `SWED-050` (develops): Glorification as Lord expressing without obstruction
-- → `CONSC-021` (supported_by): Being of Light as Lord expressing in near-death state
-- → `CONSC-001` (supported_by): CDE explains consciousness development driving expression
-- → `CONSC-062` (supported_by): Purposive economy shows consciousness persisting with purpose
-- → `CONSC-063` (supported_by): Western NDE falsification - consciousness persists cross-culturally
+- → `CONSC-021` (explains): Being of Light as Lord expressing in near-death state
+- → `CONSC-001` (developed_by): CDE explains consciousness development driving expression
+- → `CONSC-062` (develops): Purposive economy shows consciousness persisting with purpose
+- → `CONSC-063` (explains): Western NDE falsification - consciousness persists cross-culturally
+- → `SWED-049` (parallels): Inverse of: SWED-049 --parallels--> SWED-056
+- → `CONSC-062` (develops): Inverse of: CONSC-062 --supports--> SWED-056
+- → `CONSC-063` (parallels): Inverse of: CONSC-063 --parallels--> SWED-056
+- → `CONSC-021` (parallels): Inverse of: CONSC-021 --parallels--> SWED-056
 
 ---
 
@@ -2853,12 +3460,14 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 4. [T] data/02_Swedenborgian_Theology/A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg.md
 
 **Connections**:
-- → `SWED-049` (develops): Explains what the stone destroys and why
+- → `SWED-049` (explains): Explains what the stone destroys and why
 - → `SWED-047` (develops): Fourth Church emergence after statue shattering
 - → `CROSS-002` (parallels): Divine Bricolage mechanism—truth self-establishing
 - → `EARLY-002` (requires): James-Paul split created iron-clay mixture
-- → `CONSC-001` (supported_by): CDE explains maturation from indirect to internal perception
-- → `CROSS-020` (instantiates): Stone growing into mountain is New Church emergence
+- → `CONSC-001` (developed_by): CDE explains maturation from indirect to internal perception
+- → `CROSS-020` (integrates_into): Stone growing into mountain is New Church emergence
+- → `SWED-049` (parallels): Inverse of: SWED-049 --parallels--> SWED-057
+- → `EARLY-002` (develops): Inverse of: EARLY-002 --developed_by--> SWED-057
 
 ---
 
@@ -2880,6 +3489,28 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `CROSS-001` (instantiates): HCM provides the 'Natural Plane' analysis
 - → `BIBL-002` (requires): Source criticism foundational to Jesus research
 - → `SWED-001` (complements): Prepares 'body' for spiritual interpretation
+- → `CROSS-001` (developed_by): Inverse of: CROSS-001 --develops--> BIBL-001
+- → `SWED-001` (complemented_by): Inverse of: SWED-001 --complements--> BIBL-001
+- → `BIBL-002` (develops): Inverse of: BIBL-002 --developed_by--> BIBL-001
+- → `BIBL-005` (developed_by): Inverse of: BIBL-005 --develops--> BIBL-001
+- → `BIBL-006` (parallels): Inverse of: BIBL-006 --parallels--> BIBL-001
+- → `BIBL-015` (develops): Inverse of: BIBL-015 --instantiates--> BIBL-001
+- → `BIBL-016` (developed_by): Inverse of: BIBL-016 --develops--> BIBL-001
+- → `BIBL-017` (developed_by): Inverse of: BIBL-017 --develops--> BIBL-001
+- → `BIBL-020` (developed_by): Inverse of: BIBL-020 --develops--> BIBL-001
+- → `BIBL-021` (parallels): Inverse of: BIBL-021 --parallels--> BIBL-001
+- → `BIBL-022` (develops): Inverse of: BIBL-022 --instantiates--> BIBL-001
+- → `MYTH-004` (develops): Inverse of: MYTH-004 --developed_by--> BIBL-001
+- → `MYTH-009` (develops): Inverse of: MYTH-009 --developed_by--> BIBL-001
+- → `EARLY-017` (develops): Inverse of: EARLY-017 --instantiates--> BIBL-001
+- → `SWED-025` (developed_by): Inverse of: SWED-025 --develops--> BIBL-001
+- → `BIBL-011` (parallels): Inverse of: BIBL-011 --parallels--> BIBL-001
+- → `BIBL-012` (develops): Inverse of: BIBL-012 --instantiates--> BIBL-001
+- → `BIBL-013` (parallels): Inverse of: BIBL-013 --parallels--> BIBL-001
+- → `SWED-028` (developed_by): Inverse of: SWED-028 --develops--> BIBL-001
+- → `CROSS-005` (integrates_into): Inverse of: CROSS-005 --develops--> BIBL-001
+- → `BIBL-024` (parallels): Inverse of: BIBL-024 --parallels--> BIBL-001
+- → `BIBL-014` (described_by): Inverse of: BIBL-014 --describes--> BIBL-001
 
 ---
 
@@ -2896,11 +3527,27 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [S] BeDuhn, The First New Testament (2013)
 
 **Connections**:
-- → `BIBL-001` (instantiated_by): Source criticism application
+- → `BIBL-001` (developed_by): Source criticism application
 - → `EARLY-002` (contextualizes): Proto-Luke as Jamesian protograph
 - → `BIBL-005` (develops): Gospel genre understanding
-- → `BIBL-004` (revealed_by): Synoptic comparison reveals resurrection evolution
+- → `BIBL-004` (develops): Synoptic comparison reveals resurrection evolution
 - → `SWED-009` (develops): Historical Jesus findings reframed spiritually
+- → `SWED-009` (developed_by): Inverse of: SWED-009 --develops--> BIBL-002
+- → `BIBL-001` (required_by): Inverse of: BIBL-001 --requires--> BIBL-002
+- → `BIBL-005` (supported_by): Inverse of: BIBL-005 --supports--> BIBL-002
+- → `BIBL-016` (developed_by): Inverse of: BIBL-016 --develops--> BIBL-002
+- → `BIBL-017` (developed_by): Inverse of: BIBL-017 --develops--> BIBL-002
+- → `BIBL-018` (developed_by): Inverse of: BIBL-018 --develops--> BIBL-002
+- → `BIBL-019` (contrasts): Inverse of: BIBL-019 --contrasts--> BIBL-002
+- → `BIBL-022` (develops): Inverse of: BIBL-022 --supports--> BIBL-002
+- → `EARLY-002` (develops): Inverse of: EARLY-002 --developed_by--> BIBL-002
+- → `SWED-014` (developed_by): Inverse of: SWED-014 --develops--> BIBL-002
+- → `EARLY-007` (integrates_into): Inverse of: EARLY-007 --develops--> BIBL-002
+- → `BIBL-008` (develops): Inverse of: BIBL-008 --developed_by--> BIBL-002
+- → `EARLY-012` (develops): Inverse of: EARLY-012 --instantiates--> BIBL-002
+- → `BIBL-023` (parallels): Inverse of: BIBL-023 --parallels--> BIBL-002
+- → `SWED-036` (intersects): Inverse of: SWED-036 --intersects--> BIBL-002
+- → `SWED-043` (intersects): Symmetric inverse
 
 ---
 
@@ -2917,9 +3564,15 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [S] Finkelstein & Silberman, The Bible Unearthed (2001)
 
 **Connections**:
-- → `CROSS-002` (instantiates): Exodus as Divine Bricolage example
+- → `CROSS-002` (parallels): Exodus as Divine Bricolage example
 - → `SWED-008` (parallels): Egypt = proprium, Exodus = regeneration
-- → `MYTH-001` (develops): Mythic bricolage process
+- → `MYTH-001` (developed_by): Mythic bricolage process
+- → `CROSS-002` (parallels): Inverse of: CROSS-002 --develops--> BIBL-003
+- → `SWED-012` (developed_by): Inverse of: SWED-012 --develops--> BIBL-003
+- → `SWED-032` (contrasts): Inverse of: SWED-032 --contrasts--> BIBL-003
+- → `SWED-033` (developed_by): Inverse of: SWED-033 --develops--> BIBL-003
+- → `SWED-035` (developed_by): Inverse of: SWED-035 --develops--> BIBL-003
+- → `CROSS-006` (supported_by): Inverse of: CROSS-006 --supports--> BIBL-003
 
 ---
 
@@ -2939,11 +3592,20 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 6. [S] Critical scholarship timeline (Sanders, Crossan)
 
 **Connections**:
-- → `BIBL-002` (revealed_by): Synoptic comparison reveals evolution; detailed textual evolution analysis
-- → `EARLY-001` (supports): Jamesian 'Living One' vs Pauline physicalism
-- → `SWED-009` (develops): Glorified body as Divine Human
+- → `BIBL-002` (developed_by): Synoptic comparison reveals evolution; detailed textual evolution analysis
+- → `EARLY-001` (parallels): Jamesian 'Living One' vs Pauline physicalism
+- → `SWED-009` (developed_by): Glorified body as Divine Human
 - → `SWED-007` (parallels): Fall into Language parallels cognitive Fall
-- → `GNOS-002` (supports): Early spiritual view vs. later physicalism
+- → `GNOS-002` (developed_by): Early spiritual view vs. later physicalism
+- → `BIBL-006` (supported_by): Inverse of: BIBL-006 --supports--> BIBL-004
+- → `EARLY-002` (parallels): Inverse of: EARLY-002 --contextualizes--> BIBL-004
+- → `SWED-013` (developed_by): Inverse of: SWED-013 --develops--> BIBL-004
+- → `EARLY-009` (developed_by): Inverse of: EARLY-009 --develops--> BIBL-004
+- → `BIBL-008` (supported_by): Inverse of: BIBL-008 --supports--> BIBL-004
+- → `EARLY-011` (parallels): Inverse of: EARLY-011 --parallels--> BIBL-004
+- → `BIBL-012` (parallels): Inverse of: BIBL-012 --parallels--> BIBL-004
+- → `EARLY-010` (contrasts): Inverse of: EARLY-010 --contradicts--> BIBL-004
+- → `GNOS-007` (contradicts): Inverse of: GNOS-007 --contradicts--> BIBL-004
 
 ---
 
@@ -2959,8 +3621,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [T] data/03_Biblical_Scholarship/The Canonical Gospels.md
 
 **Connections**:
-- → `BIBL-001` (instantiates): Form criticism conclusion
+- → `BIBL-001` (develops): Form criticism conclusion
 - → `BIBL-002` (supports): Genre explains variations
+- → `BIBL-002` (developed_by): Inverse of: BIBL-002 --develops--> BIBL-005
+- → `BIBL-022` (develops): Inverse of: BIBL-022 --supports--> BIBL-005
+- → `BIBL-023` (parallels): Inverse of: BIBL-023 --parallels--> BIBL-005
 
 ---
 
@@ -2981,7 +3646,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `BIBL-004` (supports): Evidence for resurrection tradition evolution
 - → `EARLY-002` (supports): WNIs show shorter Western tradition; supports Proto-Luke non-physicalist resurrection
 - → `EARLY-009` (supports): Textual evidence for Lukan editing of earlier tradition
-- → `BIBL-001` (instantiates): Textual criticism application
+- → `BIBL-001` (parallels): Textual criticism application
 
 ---
 
@@ -2999,9 +3664,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 4. [E] Archaeological discovery, East Talpiot 1980
 
 **Connections**:
-- → `EARLY-007` (supports): Material evidence for Desposyni family structure
+- → `EARLY-007` (parallels): Material evidence for Desposyni family structure
 - → `BIBL-004` (supports): Explains early spiritual vs. later physical resurrection views
-- → `BIBL-002` (develops): Archaeological dimension to historical Jesus
+- → `BIBL-002` (developed_by): Archaeological dimension to historical Jesus
+- → `EARLY-011` (supported_by): Inverse of: EARLY-011 --supports--> BIBL-008
 
 ---
 
@@ -3020,9 +3686,12 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `GNOS-001` (describes): Path of Gnosis instantiates Gnostic architecture
-- → `SWED-018` (supports): Path of Affirmation validates Divine Human in ultimates
-- → `CONSC-004` (supports): NDE data provides empirical evidence
-- → `SWED-014` (supports): Affirms the Actual Jesus of Love
+- → `SWED-018` (develops): Path of Affirmation validates Divine Human in ultimates
+- → `CONSC-004` (parallels): NDE data provides empirical evidence
+- → `SWED-014` (develops): Affirms the Actual Jesus of Love
+- → `SWED-024` (develops): Inverse of: SWED-024 --supports--> BIBL-010
+- → `GNOS-009` (parallels): Inverse of: GNOS-009 --parallels--> BIBL-010
+- → `GNOS-001` (described_by): Inverse of: GNOS-001 --describes--> BIBL-010
 
 ---
 
@@ -3041,11 +3710,14 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 5. [T] data/05_Gnostic_Analysis/The Apostle of the Archons.md
 
 **Connections**:
-- → `EARLY-005` (develops): Operationalizes Jamesian theology for textual criticism
+- → `EARLY-005` (parallels): Operationalizes Jamesian theology for textual criticism
 - → `GNOS-001` (contrasts): Pauline 'embarrassment' anxiety = Gnostic discomfort with matter
-- → `BIBL-001` (develops): Refinement of Historical-Critical Method criteria
+- → `BIBL-001` (parallels): Refinement of Historical-Critical Method criteria
 - → `SWED-025` (parallels): Glorification = divine through dynamic process, not static state
-- → `CROSS-001` (instantiates): Two-tiered reading: HCM identifies 'weakness' facts; framework reveals them as strength
+- → `CROSS-001` (parallels): Two-tiered reading: HCM identifies 'weakness' facts; framework reveals them as strength
+- → `BIBL-020` (parallels): Inverse of: BIBL-020 --explains--> BIBL-011
+- → `CROSS-005` (parallels): Inverse of: CROSS-005 --parallels--> BIBL-011
+- → `SWED-050` (parallels): Inverse of: SWED-050 --explains--> BIBL-011
 
 ---
 
@@ -3065,10 +3737,13 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `EARLY-015` (supports): Bauer Thesis: orthodoxy as later construct requiring pseudepigraphy
-- → `GNOS-001` (contradicts): Pastorals written to counter Gnostic appropriation of Paul
-- → `EARLY-003` (develops): Paul's theology required 'domestication' for proto-orthodox synthesis
+- → `GNOS-001` (contrasts): Pastorals written to counter Gnostic appropriation of Paul
+- → `EARLY-003` (parallels): Paul's theology required 'domestication' for proto-orthodox synthesis
 - → `BIBL-001` (instantiates): HCM identifies pseudepigraphy through source/form criticism
 - → `BIBL-004` (parallels): Gospel formation parallels—both involve editorial layers on original tradition
+- → `SWED-027` (developed_by): Inverse of: SWED-027 --develops--> BIBL-012
+- → `BIBL-001` (developed_by): Inverse of: BIBL-001 --develops--> BIBL-012
+- → `EARLY-015` (developed_by): Inverse of: EARLY-015 --develops--> BIBL-012
 
 ---
 
@@ -3088,9 +3763,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `MYTH-008` (supports): Provides historical substrate for flood narrative mythogenesis
 - → `MYTH-009` (supports): Second collapse (LBA) enables Exodus narrative substrate
-- → `BIBL-001` (instantiates): Archaeological method illuminating biblical backgrounds
+- → `BIBL-001` (parallels): Archaeological method illuminating biblical backgrounds
 - → `SWED-004` (parallels): Ancient Word concept implies pre-catastrophe cultural memories
-- → `CROSS-002` (instantiates): Divine Bricolage working through genuine historical substrate
+- → `CROSS-002` (parallels): Divine Bricolage working through genuine historical substrate
 
 ---
 
@@ -3108,8 +3783,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `BIBL-001` (describes): Troeltsch provides philosophical foundation for HCM
-- → `CROSS-001` (requires): Two-tiered framework necessary because HCM cannot access spiritual plane
+- → `CROSS-001` (developed_by): Two-tiered framework necessary because HCM cannot access spiritual plane
 - → `BIBL-015` (produces): Analogy principle produces vaticinium ex eventu dating
+- → `CROSS-001` (developed_by): Inverse of: CROSS-001 --required_by--> BIBL-014
+- → `BIBL-015` (develops): Inverse of: BIBL-015 --developed_by--> BIBL-014
+- → `BIBL-024` (parallels): Inverse of: BIBL-024 --parallels--> BIBL-014
 
 ---
 
@@ -3125,9 +3803,12 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [S] Standard HCM consensus - see Ehrman, Meier, Sanders
 
 **Connections**:
-- → `BIBL-014` (produced_by): Vaticinium ex eventu follows from Principle of Analogy
+- → `BIBL-014` (developed_by): Vaticinium ex eventu follows from Principle of Analogy
 - → `BIBL-001` (instantiates): Core HCM dating methodology
 - → `BIBL-016` (parallels): Markan Priority depends on Mark dating
+- → `BIBL-014` (developed_by): Inverse of: BIBL-014 --produces--> BIBL-015
+- → `BIBL-016` (developed_by): Inverse of: BIBL-016 --requires--> BIBL-015
+- → `BIBL-001` (developed_by): Inverse of: BIBL-001 --develops--> BIBL-015
 
 ---
 
@@ -3143,10 +3824,14 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [S] Scholarly consensus - multiple sources cited in document
 
 **Connections**:
-- → `BIBL-002` (instantiates): Markan Priority is solution to Synoptic Problem
+- → `BIBL-002` (develops): Markan Priority is solution to Synoptic Problem
 - → `BIBL-015` (requires): Depends on vaticinium ex eventu dating of Mark
 - → `BIBL-017` (supports): Markan Priority requires Q to explain Matthew/Luke agreements
-- → `BIBL-001` (instantiates): Source criticism application
+- → `BIBL-001` (develops): Source criticism application
+- → `BIBL-015` (parallels): Inverse of: BIBL-015 --parallels--> BIBL-016
+- → `BIBL-017` (develops): Inverse of: BIBL-017 --developed_by--> BIBL-016
+- → `BIBL-018` (required_by): Inverse of: BIBL-018 --requires--> BIBL-016
+- → `BIBL-015` (develops): Inverse of: BIBL-015 --developed_by--> BIBL-016
 
 ---
 
@@ -3162,10 +3847,12 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [S] Scholarly consensus - Q as second pillar of 2SH
 
 **Connections**:
-- → `BIBL-016` (produced_by): Q hypothesis explains Double Tradition given Markan Priority
-- → `BIBL-002` (instantiates): Q is second pillar of Two-Source Hypothesis solution
+- → `BIBL-016` (developed_by): Q hypothesis explains Double Tradition given Markan Priority
+- → `BIBL-002` (develops): Q is second pillar of Two-Source Hypothesis solution
 - → `BIBL-018` (opposes): Farrer Hypothesis eliminates need for Q
-- → `BIBL-001` (instantiates): Source criticism producing hypothetical document
+- → `BIBL-001` (develops): Source criticism producing hypothetical document
+- → `BIBL-016` (supported_by): Inverse of: BIBL-016 --supports--> BIBL-017
+- → `BIBL-019` (contrasts): Inverse of: BIBL-019 --contrasts--> BIBL-017
 
 ---
 
@@ -3184,8 +3871,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `BIBL-017` (opposes): Farrer eliminates need for Q
 - → `BIBL-016` (requires): Accepts Markan Priority
-- → `BIBL-019` (supports): Farrer Hypothesis provides solution to minor agreements problem
-- → `BIBL-002` (instantiates): Alternative Synoptic Problem solution
+- → `BIBL-019` (explains): Farrer Hypothesis provides solution to minor agreements problem
+- → `BIBL-002` (develops): Alternative Synoptic Problem solution
+- → `BIBL-019` (parallels): Inverse of: BIBL-019 --parallels--> BIBL-018
 
 ---
 
@@ -3201,10 +3889,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [S] Standard Synoptic Problem literature - multiple sources
 
 **Connections**:
-- → `BIBL-002` (contradicts): Minor Agreements challenge Two-Source Hypothesis
-- → `BIBL-017` (contradicts): Problematic for Q hypothesis assumption of independence
+- → `BIBL-002` (contrasts): Minor Agreements challenge Two-Source Hypothesis
+- → `BIBL-017` (contrasts): Problematic for Q hypothesis assumption of independence
 - → `BIBL-018` (addressed_by): Farrer Hypothesis provides solution to minor agreements
 - → `EARLY-002` (supports): Minor Agreements consistent with common Vorlage (Proto-Luke) behind Matthew/Luke
+- → `BIBL-018` (parallels): Inverse of: BIBL-018 --explains--> BIBL-019
 
 ---
 
@@ -3221,9 +3910,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [S] Sanders, E.P. Jesus and Judaism (1985)
 
 **Connections**:
-- → `BIBL-001` (instantiates): Criteria are HCM tools for historical reconstruction
-- → `BIBL-011` (develops): Criterion of Embarrassment reframed spiritually
-- → `BIBL-021` (supports): Criteria establish bedrock historical facts
+- → `BIBL-001` (develops): Criteria are HCM tools for historical reconstruction
+- → `BIBL-011` (explains): Criterion of Embarrassment reframed spiritually
+- → `BIBL-021` (explains): Criteria establish bedrock historical facts
+- → `BIBL-021` (parallels): Inverse of: BIBL-021 --parallels--> BIBL-020
+- → `BIBL-011` (parallels): Inverse of: BIBL-011 --parallels--> BIBL-020
 
 ---
 
@@ -3241,10 +3932,13 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 4. [S] Ehrman, Bart. Jesus: Apocalyptic Prophet (1999)
 
 **Connections**:
-- → `BIBL-020` (produced_by): Bedrock facts established via criteria of authenticity
-- → `BIBL-001` (instantiates): HCM consensus findings
-- → `SWED-009` (supports): Bedrock facts are historical footprints of Glorification
-- → `CROSS-005` (instantiates): Historical Jesus as 'body' of Incarnation
+- → `BIBL-020` (parallels): Bedrock facts established via criteria of authenticity
+- → `BIBL-001` (parallels): HCM consensus findings
+- → `SWED-009` (parallels): Bedrock facts are historical footprints of Glorification
+- → `CROSS-005` (parallels): Historical Jesus as 'body' of Incarnation
+- → `BIBL-020` (parallels): Inverse of: BIBL-020 --explains--> BIBL-021
+- → `CROSS-018` (parallels): Inverse of: CROSS-018 --parallels--> BIBL-021
+- → `SWED-050` (parallels): Inverse of: SWED-050 --explains--> BIBL-021
 
 ---
 
@@ -3263,6 +3957,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `BIBL-001` (instantiates): Source/redaction criticism conclusion
 - → `BIBL-005` (supports): Anonymous bioi are consistent with Greco-Roman genre
 - → `BIBL-002` (supports): Anonymity supports literary dependency theories
+- → `BIBL-024` (supported_by): Inverse of: BIBL-024 --supports--> BIBL-022
+- → `BIBL-001` (developed_by): Inverse of: BIBL-001 --develops--> BIBL-022
+- → `BIBL-002` (developed_by): Inverse of: BIBL-002 --develops--> BIBL-022
+- → `BIBL-005` (developed_by): Inverse of: BIBL-005 --develops--> BIBL-022
 
 ---
 
@@ -3281,8 +3979,8 @@ Burridge demonstrated Gospel conformity to ancient biographical conventions.
 2. [S] Society of Biblical Literature - Burridge Festschrift acknowledging paradigm shift
 
 **Connections**:
-- → `BIBL-005` (supports): Genre consensus informs Gospel interpretation methodology
-- → `BIBL-002` (supports): Establishes literary context for Synoptic studies
+- → `BIBL-005` (parallels): Genre consensus informs Gospel interpretation methodology
+- → `BIBL-002` (parallels): Establishes literary context for Synoptic studies
 
 ---
 
@@ -3301,8 +3999,8 @@ events exist in causal networks.
 2. [S] Troeltsch, Ernst. Religion in History. 1991.
 
 **Connections**:
-- → `BIBL-014` (supports): Foundational methodology for HCM
-- → `BIBL-001` (supports): Methodological principles underlying biblical scholarship
+- → `BIBL-014` (parallels): Foundational methodology for HCM
+- → `BIBL-001` (parallels): Methodological principles underlying biblical scholarship
 - → `BIBL-022` (supports): Troeltsch principles inform textual analysis methodology
 
 ---
@@ -3323,9 +4021,20 @@ events exist in causal networks.
 3. [P] Josephus, Antiquities 20.200
 
 **Connections**:
-- → `EARLY-002` (produces): Jamesian community created Proto-Luke
+- → `EARLY-002` (develops): Jamesian community created Proto-Luke
 - → `EARLY-003` (contrasts): Fundamental divergence from Pauline movement
-- → `EARLY-005` (supports): Desposyni dynasty context
+- → `EARLY-005` (complements): Desposyni dynasty context
+- → `BIBL-004` (parallels): Inverse of: BIBL-004 --parallels--> EARLY-001
+- → `EARLY-002` (parallels): Inverse of: EARLY-002 --parallels--> EARLY-001
+- → `EARLY-005` (developed_by): Inverse of: EARLY-005 --develops--> EARLY-001
+- → `EARLY-007` (developed_by): Inverse of: EARLY-007 --develops--> EARLY-001
+- → `EARLY-008` (parallels): Inverse of: EARLY-008 --parallels--> EARLY-001
+- → `EARLY-009` (parallels): Inverse of: EARLY-009 --parallels--> EARLY-001
+- → `EARLY-010` (parallels): Inverse of: EARLY-010 --parallels--> EARLY-001
+- → `EARLY-012` (parallels): Inverse of: EARLY-012 --parallels--> EARLY-001
+- → `CROSS-019` (complemented_by): Inverse of: CROSS-019 --complements--> EARLY-001
+- → `EARLY-019` (parallels): Inverse of: EARLY-019 --parallels--> EARLY-001
+- → `EARLY-020` (parallels): Inverse of: EARLY-020 --parallels--> EARLY-001
 
 ---
 
@@ -3347,12 +4056,26 @@ events exist in causal networks.
 8. [P] NA28 Greek NT
 
 **Connections**:
-- → `EARLY-001` (produced_by): Document of Jamesian community
+- → `EARLY-001` (parallels): Document of Jamesian community
 - → `EARLY-010` (contextualizes): James's theology preserved in Proto-Luke
 - → `BIBL-002` (developed_by): Proto-Luke within Synoptic Problem; advanced source criticism methodology
 - → `BIBL-004` (contextualizes): Original 'Living One' resurrection; spiritual resurrection as original Proto-Lukan view
 - → `EARLY-009` (describes): Lukan Dissonance as result of later editing
-- → `CROSS-002` (instantiates): Proto-Luke formation instantiates Divine Bricolage mechanism
+- → `CROSS-002` (parallels): Proto-Luke formation instantiates Divine Bricolage mechanism
+- → `BIBL-002` (developed_by): Inverse of: BIBL-002 --contextualizes--> EARLY-002
+- → `BIBL-006` (supported_by): Inverse of: BIBL-006 --supports--> EARLY-002
+- → `BIBL-019` (supported_by): Inverse of: BIBL-019 --supports--> EARLY-002
+- → `EARLY-001` (parallels): Inverse of: EARLY-001 --develops--> EARLY-002
+- → `EARLY-007` (parallels): Inverse of: EARLY-007 --contextualizes--> EARLY-002
+- → `EARLY-010` (supported_by): Inverse of: EARLY-010 --supports--> EARLY-002
+- → `EARLY-015` (contrasts): Inverse of: EARLY-015 --contrasts--> EARLY-002
+- → `EARLY-016` (supported_by): Inverse of: EARLY-016 --supports--> EARLY-002
+- → `GNOS-013` (developed_by): Inverse of: GNOS-013 --develops--> EARLY-002
+- → `EARLY-019` (supported_by): Inverse of: EARLY-019 --supports--> EARLY-002
+- → `EARLY-020` (supported_by): Inverse of: EARLY-020 --supports--> EARLY-002
+- → `SWED-057` (developed_by): Inverse of: SWED-057 --requires--> EARLY-002
+- → `BIBL-004` (parallels): Inverse of: BIBL-004 --parallels--> EARLY-002
+- → `GNOS-007` (contradicts): Inverse of: GNOS-007 --contradicts--> EARLY-002
 
 ---
 
@@ -3370,8 +4093,23 @@ events exist in causal networks.
 **Connections**:
 - → `EARLY-001` (contrasts): Jamesian vs Pauline tension
 - → `GNOS-001` (parallels): Paul exhibits proto-gnostic traits
-- → `SWED-005` (instantiates): Proprium mechanics in methodology
+- → `SWED-005` (integrated_from): Proprium mechanics in methodology
 - → `SWED-027` (develops): Pneumatological validation of divergence thesis
+- → `EARLY-005` (contrasts): Inverse of: EARLY-005 --contrasts--> EARLY-003
+- → `GNOS-003` (parallels): Inverse of: GNOS-003 --parallels--> EARLY-003
+- → `CONSC-009` (contrasts): Inverse of: CONSC-009 --contrasts--> EARLY-003
+- → `GNOS-005` (parallels): Inverse of: GNOS-005 --parallels--> EARLY-003
+- → `EARLY-014` (parallels): Inverse of: EARLY-014 --parallels--> EARLY-003
+- → `EARLY-017` (parallels): Inverse of: EARLY-017 --parallels--> EARLY-003
+- → `SWED-027` (integrated_from): Inverse of: SWED-027 --supports--> EARLY-003
+- → `BIBL-012` (parallels): Inverse of: BIBL-012 --parallels--> EARLY-003
+- → `SWED-035` (contrasts): Inverse of: SWED-035 --contrasts--> EARLY-003
+- → `GNOS-013` (integrated_from): Inverse of: GNOS-013 --develops--> EARLY-003
+- → `CROSS-019` (opposes): Inverse of: CROSS-019 --opposes--> EARLY-003
+- → `EARLY-018` (parallels): Inverse of: EARLY-018 --parallels--> EARLY-003
+- → `EARLY-019` (parallels): Inverse of: EARLY-019 --contextualizes--> EARLY-003
+- → `EARLY-020` (contrasts): Inverse of: EARLY-020 --contrasts--> EARLY-003
+- → `EARLY-009` (described_by): Inverse of: EARLY-009 --describes--> EARLY-003
 
 ---
 
@@ -3387,9 +4125,11 @@ events exist in causal networks.
 2. [S] Desert Fathers literature (Apophthegmata)
 
 **Connections**:
-- → `SWED-002` (instantiated_by): Influx working through kenotic response
+- → `SWED-002` (integrated_from): Influx working through kenotic response
 - → `SWED-008` (parallels): Regeneration practice
-- → `SWED-005` (opposes): Kenosis vs proprium
+- → `SWED-005` (contrasts): Kenosis vs proprium
+- → `SWED-002` (integrated_from): Inverse of: SWED-002 --supports--> EARLY-004
+- → `SWED-015` (integrated_from): Inverse of: SWED-015 --integrates_into--> EARLY-004
 
 ---
 
@@ -3408,6 +4148,10 @@ events exist in causal networks.
 **Connections**:
 - → `EARLY-001` (develops): Dynastic context for Jamesian movement
 - → `EARLY-003` (contrasts): Blood vs pneumatic authority
+- → `EARLY-001` (complemented_by): Inverse of: EARLY-001 --complements--> EARLY-005
+- → `EARLY-017` (parallels): Inverse of: EARLY-017 --parallels--> EARLY-005
+- → `BIBL-011` (parallels): Inverse of: BIBL-011 --parallels--> EARLY-005
+- → `SWED-055` (parallels): Inverse of: SWED-055 --parallels--> EARLY-005
 
 ---
 
@@ -3424,9 +4168,11 @@ events exist in causal networks.
 3. [P] Matthew 2:1-12
 
 **Connections**:
-- → `SWED-004` (supports): Ancient Word transmission through Persian channel
+- → `SWED-004` (integrated_from): Ancient Word transmission through Persian channel
 - → `MYTH-003` (parallels): Memory Code preserved in ritual systems
-- → `SWED-055` (supports): Magi tradition validates prophecy as perceiving truth + correspondences
+- → `SWED-055` (develops): Magi tradition validates prophecy as perceiving truth + correspondences
+- → `MYTH-005` (parallels): Inverse of: MYTH-005 --parallels--> EARLY-006
+- → `EARLY-008` (parallels): Inverse of: EARLY-008 --parallels--> EARLY-006
 
 ---
 
@@ -3447,6 +4193,11 @@ events exist in causal networks.
 - → `EARLY-001` (develops): Detailed profile of Jamesian institutional structure
 - → `EARLY-002` (contextualizes): Proto-Luke preserves Jamesian material
 - → `BIBL-002` (develops): Adds dynastic dimension to historical Jesus
+- → `BIBL-008` (parallels): Inverse of: BIBL-008 --parallels--> EARLY-007
+- → `EARLY-010` (parallels): Inverse of: EARLY-010 --contextualizes--> EARLY-007
+- → `EARLY-011` (parallels): Inverse of: EARLY-011 --parallels--> EARLY-007
+- → `CONSC-014` (parallels): Inverse of: CONSC-014 --parallels--> EARLY-007
+- → `BIBL-002` (integrated_from): Inverse of: BIBL-002 --integrates_into--> EARLY-007
 
 ---
 
@@ -3467,13 +4218,17 @@ events exist in causal networks.
 7. [S] Book of Daniel (chapters 1-6)
 
 **Connections**:
-- → `SWED-001` (instantiates): Historical application of correspondence doctrine
-- → `SWED-004` (instantiates): Magi as carriers of Ancient Word knowledge; The Science of Correspondences in historical action
+- → `SWED-001` (integrated_from): Historical application of correspondence doctrine
+- → `SWED-004` (integrated_from): Magi as carriers of Ancient Word knowledge; The Science of Correspondences in historical action
 - → `EARLY-006` (parallels): Zoroastrian wisdom tradition
-- → `SWED-007` (precedes): Magi represent transition from Ancient to Christian church
-- → `MYTH-008` (develops): Echoes of Ancient Word preserved by Magi
+- → `SWED-007` (integrated_from): Magi represent transition from Ancient to Christian church
+- → `MYTH-008` (parallels): Echoes of Ancient Word preserved by Magi
 - → `EARLY-001` (parallels): Jamesian movement as similar preservation effort
-- → `SWED-055` (supports): Magi demonstrate prophecy mechanism—perceiving truth + imposing correspondences
+- → `SWED-055` (develops): Magi demonstrate prophecy mechanism—perceiving truth + imposing correspondences
+- → `MYTH-011` (parallels): Inverse of: MYTH-011 --parallels--> EARLY-008
+- → `SWED-041` (integrated_from): Inverse of: SWED-041 --supports--> EARLY-008
+- → `SWED-042` (parallels): Inverse of: SWED-042 --parallels--> EARLY-008
+- → `SWED-043` (parallels): Inverse of: SWED-043 --parallels--> EARLY-008
 
 ---
 
@@ -3491,9 +4246,12 @@ events exist in causal networks.
 4. [P] 1 Corinthians 8, 10
 
 **Connections**:
-- → `EARLY-001` (supports): Validates Jamesian vs. Pauline tension
+- → `EARLY-001` (parallels): Validates Jamesian vs. Pauline tension
 - → `EARLY-003` (describes): Details mechanics of Pauline domestication
 - → `BIBL-004` (develops): Explains Gospel formation dynamics
+- → `BIBL-006` (supported_by): Inverse of: BIBL-006 --supports--> EARLY-009
+- → `EARLY-017` (parallels): Inverse of: EARLY-017 --parallels--> EARLY-009
+- → `EARLY-002` (described_by): Inverse of describes
 
 ---
 
@@ -3511,10 +4269,13 @@ events exist in causal networks.
 4. [P] Gospel of Thomas, Logion 12
 
 **Connections**:
-- → `EARLY-001` (supports): Historical evidence for Jamesian movement existence and authority
+- → `EARLY-001` (parallels): Historical evidence for Jamesian movement existence and authority
 - → `EARLY-002` (supports): James's theology preserved in Proto-Luke; supports Jamesian origin
 - → `EARLY-007` (contextualizes): Key Desposyni figure
 - → `BIBL-004` (contradicts): Alternative succession to Petrine claims
+- → `EARLY-002` (supports): Inverse of: EARLY-002 --contextualizes--> EARLY-010
+- → `EARLY-012` (supports): Inverse of: EARLY-012 --explains--> EARLY-010
+- → `EARLY-007` (parallels): Inverse of: EARLY-007 --parallels--> EARLY-010
 
 ---
 
@@ -3532,9 +4293,10 @@ events exist in causal networks.
 4. [P] Gospel of Mary, Gospel of Philip
 
 **Connections**:
-- → `EARLY-007` (develops): Potential dynastic partner
+- → `EARLY-007` (parallels): Potential dynastic partner
 - → `BIBL-008` (supports): Key figure in Talpiot hypothesis
 - → `BIBL-004` (parallels): Pneumatic witness to spiritual resurrection
+- → `MYTH-016` (supports): Inverse of: MYTH-016 --explains--> EARLY-011
 
 ---
 
@@ -3552,11 +4314,15 @@ events exist in causal networks.
 4. [P] Galatians 1:11-12; 2:4; 2:11-14
 
 **Connections**:
-- → `EARLY-001` (develops): Substantiates the Jesus-Paul tension
-- → `EARLY-010` (supports): James represented Jesus's ethos against Paul
+- → `EARLY-001` (parallels): Substantiates the Jesus-Paul tension
+- → `EARLY-010` (explains): James represented Jesus's ethos against Paul
 - → `BIBL-002` (instantiates): HCM methodology applied to Paul question
 - → `GNOS-005` (parallels): Paul's singular revelation claims resemble gnostic epistemology
 - → `SWED-005` (contrasts): Paul's assertiveness vs. Swedenborg's love-centered approach
+- → `CROSS-014` (developed_by): Inverse of: CROSS-014 --explains--> EARLY-012
+- → `CROSS-019` (parallels): Inverse of: CROSS-019 --develops--> EARLY-012
+- → `CROSS-020` (required_by): Inverse of: CROSS-020 --requires--> EARLY-012
+- → `BIBL-002` (developed_by): Inverse of: BIBL-002 --develops--> EARLY-012
 
 ---
 
@@ -3579,7 +4345,9 @@ events exist in causal networks.
 - → `EARLY-003` (parallels): Both exemplify Second Temple priestly idealization
 - → `SWED-004` (parallels): Melchizedek as bearer of pre-Sinaitic revelation
 - → `SWED-018` (supports): Prefigures the Divine Human in ultimates
-- → `GNOS-001` (develops): Gnostic Melchizedek as Paralemptor (Light Receiver)
+- → `GNOS-001` (developed_by): Gnostic Melchizedek as Paralemptor (Light Receiver)
+- → `EARLY-015` (parallels): Inverse of: EARLY-015 --parallels--> EARLY-014
+- → `SWED-018` (developed_by): Inverse of: SWED-018 --develops--> EARLY-014
 
 ---
 
@@ -3597,10 +4365,13 @@ events exist in causal networks.
 4. [P] Chronicle of Edessa; Doctrine of Addai
 
 **Connections**:
-- → `GNOS-007` (supports): Paul originally claimed by Gnostics; 'rescued' by Pastorals
-- → `EARLY-002` (contradicts): Challenges Jamesian priority; suggests multiple early trajectories
+- → `GNOS-007` (develops): Paul originally claimed by Gnostics; 'rescued' by Pastorals
+- → `EARLY-002` (contrasts): Challenges Jamesian priority; suggests multiple early trajectories
 - → `GNOS-001` (supports): Gnosticism was native flora, not deviation
 - → `EARLY-014` (parallels): Similar pattern of later orthodoxy claiming ancient legitimacy
+- → `EARLY-016` (develops): Inverse of: EARLY-016 --developed_by--> EARLY-015
+- → `BIBL-012` (develops): Inverse of: BIBL-012 --supports--> EARLY-015
+- → `EARLY-018` (parallels): Inverse of: EARLY-018 --parallels--> EARLY-015
 
 ---
 
@@ -3620,7 +4391,7 @@ events exist in causal networks.
 **Connections**:
 - → `EARLY-002` (supports): Vindicates Jamesian Christianity against Pauline
 - → `GNOS-007` (opposes): Quran systematically dismantles Pauline Gnosticism
-- → `EARLY-015` (develops): Islam as delayed victory of marginalized faction
+- → `EARLY-015` (developed_by): Islam as delayed victory of marginalized faction
 - → `SWED-014` (parallels): Both restore ethical, love-centered Jesus against abstracted 'Christ'
 
 ---
@@ -3641,11 +4412,14 @@ events exist in causal networks.
 6. [P] Damascus Document (CD 4Q266-273)
 
 **Connections**:
-- → `EARLY-003` (develops): Deepens critique of Paul's claimed authority
+- → `EARLY-003` (parallels): Deepens critique of Paul's claimed authority
 - → `GNOS-001` (supports): Paul's epistemology aligns with Gnostic self-validation
 - → `EARLY-009` (parallels): Luke's editorial agenda in Acts parallels Gospel editing
 - → `BIBL-001` (instantiates): Source/form/redaction criticism applied to Acts
-- → `EARLY-005` (supports): Damascus analysis supports Jamesian priority
+- → `EARLY-005` (parallels): Damascus analysis supports Jamesian priority
+- → `GNOS-001` (developed_by): Inverse of: GNOS-001 --develops--> EARLY-017
+- → `SWED-027` (developed_by): Inverse of: SWED-027 --develops--> EARLY-017
+- → `BIBL-001` (developed_by): Inverse of: BIBL-001 --develops--> EARLY-017
 
 ---
 
@@ -3665,9 +4439,9 @@ popularized and extended this thesis with additional evidence.
 3. [P] Chronicle of Edessa; Doctrine of Addai
 
 **Connections**:
-- → `EARLY-015` (supports): Evidence for early Christian diversity
-- → `EARLY-003` (supports): Contextualizes Jamesian vs Pauline divergence
-- → `GNOS-001` (supports): Bauer thesis relevant to understanding Gnostic Christianity
+- → `EARLY-015` (parallels): Evidence for early Christian diversity
+- → `EARLY-003` (parallels): Contextualizes Jamesian vs Pauline divergence
+- → `GNOS-001` (parallels): Bauer thesis relevant to understanding Gnostic Christianity
 
 ---
 
@@ -3685,9 +4459,10 @@ popularized and extended this thesis with additional evidence.
 4. [T] data/04_Early_Christian_History/The Lukan Dissonance_ A Critical Forensic Examination of the Theological and Political Divergence Between the Third Gospel and the Acts of the Apostles.md
 
 **Connections**:
-- → `EARLY-001` (instantiates): Council demonstrates Jamesian authority and behavioral requirement emphasis
+- → `EARLY-001` (parallels): Council demonstrates Jamesian authority and behavioral requirement emphasis
 - → `EARLY-003` (contextualizes): Council requirements directly contradict Pauline Law-free gospel
 - → `EARLY-002` (supports): Council theology (behavioral requirements) matches Proto-Luke emphasis
+- → `EARLY-003` (parallels): Inverse of: EARLY-003 --parallels--> EARLY-019
 
 ---
 
@@ -3705,8 +4480,8 @@ popularized and extended this thesis with additional evidence.
 4. [T] data/04_Early_Christian_History/The Lukan Dissonance_ A Critical Forensic Examination of the Theological and Political Divergence Between the Third Gospel and the Acts of the Apostles.md
 
 **Connections**:
-- → `EARLY-001` (develops): Ebionites represent direct continuation of Jamesian Jerusalem church
-- → `EARLY-002` (develops): Ebionite Gospel likely develops from Proto-Luke elements (poverty theology, non-divine Jesus)
+- → `EARLY-001` (parallels): Ebionites represent direct continuation of Jamesian Jerusalem church
+- → `EARLY-002` (supports): Ebionite Gospel likely develops from Proto-Luke elements (poverty theology, non-divine Jesus)
 - → `EARLY-003` (contrasts): Ebionite rejection of Paul demonstrates preserved Jamesian-Pauline divergence
 
 ---
@@ -3726,36 +4501,59 @@ popularized and extended this thesis with additional evidence.
 2. [T] data/05_Gnostic_Analysis/A Pneumatological and Historical Validation.md
 
 **Connections**:
-- → `SWED-005` (instantiated_by): Gnostic impulse = intellectual proprium
-- → `GNOS-002` (develops): Leads to Path of Affirmation rejection
+- → `SWED-005` (developed_by): Gnostic impulse = intellectual proprium
+- → `GNOS-002` (developed_by): Leads to Path of Affirmation rejection
 - → `EARLY-003` (parallels): Proto-gnostic elements in Paul
 - → `MYTH-002` (parallels): Heart of Division trajectory parallels gnostic cosmic alienation
 - → `CONSC-018` (contrasts): Gnostic impulse represents spiritual Emissary usurpation
-- → `GNOS-003` (supported_by): Cosmology of Captivity supports gnostic framework
-- → `GNOS-004` (instantiated_by): Divine Spark doctrine instantiates gnostic anthropology
+- → `GNOS-003` (develops): Cosmology of Captivity supports gnostic framework
+- → `GNOS-004` (integrates_into): Divine Spark doctrine instantiates gnostic anthropology
 - → `MYTH-006` (contrasts): Affirmation trajectory contrasts with gnostic rejection
-- → `GNOS-005` (supported_by): Dismantling tactics support gnostic methodology
+- → `GNOS-005` (develops): Dismantling tactics support gnostic methodology
 - → `GNOS-006` (describes): Modern gnostic manifestations describe continuing impulse
 - → `CONSC-011` (contrasts): Post-mortem sorting contrasts with gnostic escape model
 - → `CONSC-012` (parallels): Return cases parallel gnostic soul-mission narratives
 - → `SWED-018` (opposes): Regeneration opposes gnostic self-elevation
-- → `EARLY-014` (developed_from): Paul's Damascus vision develops proto-gnostic elements
-- → `GNOS-007` (supported_by): Pauline discontinuity supports gnostic trajectory
+- → `EARLY-014` (develops): Paul's Damascus vision develops proto-gnostic elements
+- → `GNOS-007` (develops): Pauline discontinuity supports gnostic trajectory
 - → `BIBL-010` (describes): Gospel genre analysis describes gnostic departure
 - → `EARLY-015` (supported_by): Zoroastrian dualism supports gnostic cosmology
-- → `EARLY-017` (supported_by): Persian roots support gnostic development
+- → `EARLY-017` (develops): Persian roots support gnostic development
 - → `MYTH-015` (describes): ANE cosmology describes gnostic sources
 - → `CONSC-013` (describes): Hybrid model describes gnostic tension
-- → `CROSS-004` (supported_by): CDE framework supports gnostic trajectory analysis
-- → `CONSC-016` (contradicts): Empirical NDE data contradicts gnostic escape cosmology
-- → `GNOS-008` (developed_from): Pauline authorship debates develop gnostic analysis
+- → `CROSS-004` (integrates_into): CDE framework supports gnostic trajectory analysis
+- → `CONSC-016` (contrasts): Empirical NDE data contradicts gnostic escape cosmology
+- → `GNOS-008` (develops): Pauline authorship debates develop gnostic analysis
 - → `SWED-026` (contrasts): Word preservation contrasts with gnostic secret knowledge
 - → `BIBL-011` (contrasts): Criterion of Temptation contrasts with gnostic rejection
-- → `BIBL-012` (contradicts): Jesus profile contradicts gnostic christology
-- → `GNOS-009` (instantiated_by): Apostle of Archons instantiates Pauline gnostic substrate
+- → `BIBL-012` (contrasts): Jesus profile contradicts gnostic christology
+- → `GNOS-009` (integrates_into): Apostle of Archons instantiates Pauline gnostic substrate
 - → `GNOS-010` (describes): Proprium mechanics describe gnostic psychological foundation
 - → `GNOS-011` (describes): Corrupted influx describes gnostic spiritual mechanism
-- → `GNOS-012` (instantiated_by): Modern channeling instantiates contemporary gnostic impulse
+- → `GNOS-012` (integrates_into): Modern channeling instantiates contemporary gnostic impulse
+- → `SWED-005` (supported_by): Inverse of: SWED-005 --supports--> GNOS-001
+- → `GNOS-003` (develops): Inverse of: GNOS-003 --supports--> GNOS-001
+- → `GNOS-005` (develops): Inverse of: GNOS-005 --supports--> GNOS-001
+- → `GNOS-007` (develops): Inverse of: GNOS-007 --supports--> GNOS-001
+- → `EARLY-017` (develops): Inverse of: EARLY-017 --supports--> GNOS-001
+- → `GNOS-013` (developed_by): Inverse of: GNOS-013 --develops--> GNOS-001
+- → `GNOS-014` (contains): Inverse of: GNOS-014 --contained_by--> GNOS-001
+- → `GNOS-015` (integrates_into): Inverse of: GNOS-015 --integrated_from--> GNOS-001
+- → `GNOS-016` (contains): Inverse of: GNOS-016 --contained_by--> GNOS-001
+- → `CROSS-009` (contrasts): Inverse of: CROSS-009 --contrasts--> GNOS-001
+- → `CROSS-010` (contrasts): Inverse of: CROSS-010 --contrasts--> GNOS-001
+- → `CROSS-014` (developed_by): Inverse of: CROSS-014 --explains--> GNOS-001
+- → `SWED-041` (contrasts): Inverse of: SWED-041 --contrasts--> GNOS-001
+- → `GNOS-017` (parallels): Inverse of: GNOS-017 --parallels--> GNOS-001
+- → `GNOS-018` (parallels): Inverse of: GNOS-018 --parallels--> GNOS-001
+- → `GNOS-019` (parallels): Inverse of: GNOS-019 --parallels--> GNOS-001
+- → `EARLY-018` (parallels): Inverse of: EARLY-018 --parallels--> GNOS-001
+- → `GNOS-006` (described_by): Inverse of: GNOS-006 --describes--> GNOS-001
+- → `BIBL-010` (described_by): Inverse of: BIBL-010 --describes--> GNOS-001
+- → `MYTH-015` (described_by): Inverse of: MYTH-015 --describes--> GNOS-001
+- → `CONSC-013` (described_by): Inverse of: CONSC-013 --describes--> GNOS-001
+- → `GNOS-010` (described_by): Inverse of: GNOS-010 --describes--> GNOS-001
+- → `GNOS-011` (described_by): Inverse of: GNOS-011 --describes--> GNOS-001
 
 ---
 
@@ -3776,9 +4574,17 @@ popularized and extended this thesis with additional evidence.
 
 **Connections**:
 - → `GNOS-001` (develops): Gnosis path = gnostic impulse trajectory
-- → `SWED-008` (opposes): Regeneration = affirmation path
-- → `SWED-009` (opposes): Glorification impossible in gnosis framework
-- → `CROSS-003` (contradicts): Gnosis path contradicts ruling love of neighbor orientation
+- → `SWED-008` (contrasts): Regeneration = affirmation path
+- → `SWED-009` (contrasts): Glorification impossible in gnosis framework
+- → `CROSS-003` (contrasts): Gnosis path contradicts ruling love of neighbor orientation
+- → `BIBL-004` (contextualizes): Inverse of: BIBL-004 --developed_by--> GNOS-002
+- → `CONSC-009` (contextualizes): Inverse of: CONSC-009 --developed_by--> GNOS-002
+- → `SWED-014` (contrasts): Inverse of: SWED-014 --contrasts--> GNOS-002
+- → `GNOS-007` (contextualizes): Inverse of: GNOS-007 --developed_by--> GNOS-002
+- → `GNOS-008` (contextualizes): Inverse of: GNOS-008 --developed_by--> GNOS-002
+- → `CROSS-009` (developed_by): Inverse of: CROSS-009 --develops--> GNOS-002
+- → `GNOS-018` (parallels): Inverse of: GNOS-018 --parallels--> GNOS-002
+- → `GNOS-019` (developed_by): Inverse of: GNOS-019 --develops--> GNOS-002
 
 ---
 
@@ -3795,7 +4601,13 @@ popularized and extended this thesis with additional evidence.
 
 **Connections**:
 - → `GNOS-001` (supports): Paul's writings enabled gnostic reading
-- → `EARLY-003` (develops): Part of Pauline divergence analysis
+- → `EARLY-003` (parallels): Part of Pauline divergence analysis
+- → `GNOS-001` (developed_by): Inverse of: GNOS-001 --develops--> GNOS-003
+- → `GNOS-005` (supported_by): Inverse of: GNOS-005 --supports--> GNOS-003
+- → `GNOS-006` (developed_by): Inverse of: GNOS-006 --develops--> GNOS-003
+- → `CROSS-019` (parallels): Inverse of: CROSS-019 --develops--> GNOS-003
+- → `GNOS-017` (supported_by): Inverse of: GNOS-017 --supports--> GNOS-003
+- → `GNOS-018` (supported_by): Inverse of: GNOS-018 --supports--> GNOS-003
 
 ---
 
@@ -3811,8 +4623,11 @@ popularized and extended this thesis with additional evidence.
 2. [T] data/01_Consciousness_Studies/Proprium et Influx.md
 
 **Connections**:
-- → `GNOS-001` (instantiates): Contemporary gnostic impulse
-- → `SWED-005` (instantiates): Modern proprium expressions
+- → `GNOS-001` (integrated_from): Contemporary gnostic impulse
+- → `SWED-005` (integrated_from): Modern proprium expressions
+- → `GNOS-012` (complemented_by): Inverse of: GNOS-012 --complements--> GNOS-004
+- → `GNOS-013` (integrated_from): Inverse of: GNOS-013 --integrates_into--> GNOS-004
+- → `GNOS-018` (parallels): Inverse of: GNOS-018 --parallels--> GNOS-004
 
 ---
 
@@ -3831,9 +4646,13 @@ popularized and extended this thesis with additional evidence.
 
 **Connections**:
 - → `GNOS-001` (supports): Paul as source of Gnostic mechanics
-- → `EARLY-003` (develops): Pauline innovation as proto-Gnostic
+- → `EARLY-003` (parallels): Pauline innovation as proto-Gnostic
 - → `GNOS-003` (supports): Historical evidence for Gnostic Paul reading
 - → `SWED-005` (parallels): Proprium mechanics in cosmic dualism
+- → `GNOS-001` (developed_by): Inverse of: GNOS-001 --develops--> GNOS-005
+- → `EARLY-012` (parallels): Inverse of: EARLY-012 --parallels--> GNOS-005
+- → `CROSS-019` (parallels): Inverse of: CROSS-019 --develops--> GNOS-005
+- → `GNOS-017` (supported_by): Inverse of: GNOS-017 --supports--> GNOS-005
 
 ---
 
@@ -3853,6 +4672,12 @@ popularized and extended this thesis with additional evidence.
 - → `SWED-005` (develops): Deep analysis of proprium-gnosis connection
 - → `GNOS-001` (describes): Explains underlying mechanism of Gnostic Impulse
 - → `GNOS-003` (develops): Modern manifestations explained
+- → `GNOS-009` (integrates_into): Inverse of: GNOS-009 --integrated_from--> GNOS-006
+- → `GNOS-014` (supported_by): Inverse of: GNOS-014 --supports--> GNOS-006
+- → `GNOS-016` (supported_by): Inverse of: GNOS-016 --supports--> GNOS-006
+- → `CROSS-014` (developed_by): Inverse of: CROSS-014 --develops--> GNOS-006
+- → `GNOS-018` (parallels): Inverse of: GNOS-018 --parallels--> GNOS-006
+- → `GNOS-001` (described_by): Inverse of: GNOS-001 --describes--> GNOS-006
 
 ---
 
@@ -3872,9 +4697,15 @@ popularized and extended this thesis with additional evidence.
 **Connections**:
 - → `GNOS-001` (supports): Provides structural foundation for Gnostic cosmology
 - → `EARLY-002` (contradicts): Fundamental conflict with Jamesian materialist messianism
-- → `GNOS-002` (produces): Paul's 'faith only' enables self-glorification mechanism
+- → `GNOS-002` (developed_by): Paul's 'faith only' enables self-glorification mechanism
 - → `BIBL-004` (contradicts): Severs Cosmic Christ from historical Jesus
 - → `SWED-005` (instantiates): Pneumatic elitism as proprium's spiritual expression
+- → `SWED-005` (developed_by): Inverse of: SWED-005 --develops--> GNOS-007
+- → `GNOS-001` (developed_by): Inverse of: GNOS-001 --develops--> GNOS-007
+- → `EARLY-015` (developed_by): Inverse of: EARLY-015 --develops--> GNOS-007
+- → `EARLY-016` (opposes): Inverse of: EARLY-016 --opposes--> GNOS-007
+- → `SWED-027` (parallels): Inverse of: SWED-027 --parallels--> GNOS-007
+- → `GNOS-017` (supported_by): Inverse of: GNOS-017 --supports--> GNOS-007
 
 ---
 
@@ -3893,11 +4724,12 @@ popularized and extended this thesis with additional evidence.
 5. [E] NDE research (DOPS, IANDS)
 
 **Connections**:
-- → `GNOS-001` (develops): Modern manifestations of core gnostic impulse
+- → `GNOS-001` (developed_by): Modern manifestations of core gnostic impulse
 - → `CONSC-016` (contradicts): Personality match thesis refutes dismantling
-- → `SWED-025` (opposes): Dismantling targets Divine Human correspondence
-- → `GNOS-002` (instantiates): Self-glorification via 'establishing ourselves as prime suspects'
+- → `SWED-025` (contrasts): Dismantling targets Divine Human correspondence
+- → `GNOS-002` (developed_by): Self-glorification via 'establishing ourselves as prime suspects'
 - → `CONSC-009` (supports): Hybrid spiritualities as sophisticated gnosis
+- → `GNOS-018` (supported_by): Inverse of: GNOS-018 --supports--> GNOS-008
 
 ---
 
@@ -3918,11 +4750,12 @@ popularized and extended this thesis with additional evidence.
 7. [S] The Law of One (Ra Material) (1981-1984)
 
 **Connections**:
-- → `GNOS-001` (instantiates): Three tactics as gnostic impulse mechanisms
-- → `GNOS-006` (produced_by): Proprium generates these dismantling strategies
-- → `CONSC-008` (opposes): Directly attacks NDE Being of Light identification
-- → `SWED-005` (reveals): Tactics manifest proprium's need to eliminate external Lord
-- → `BIBL-010` (instantiates): Defines the Path of Gnosis operationally
+- → `GNOS-001` (integrated_from): Three tactics as gnostic impulse mechanisms
+- → `GNOS-006` (integrated_from): Proprium generates these dismantling strategies
+- → `CONSC-008` (contrasts): Directly attacks NDE Being of Light identification
+- → `SWED-005` (integrated_from): Tactics manifest proprium's need to eliminate external Lord
+- → `BIBL-010` (parallels): Defines the Path of Gnosis operationally
+- → `GNOS-018` (parallels): Inverse of: GNOS-018 --parallels--> GNOS-009
 
 ---
 
@@ -3940,10 +4773,13 @@ popularized and extended this thesis with additional evidence.
 4. [P] Swedenborg, Arcana Coelestia § 154
 
 **Connections**:
-- → `SWED-005` (instantiates): Spiritual Theft is core Proprium operation
+- → `SWED-005` (develops): Spiritual Theft is core Proprium operation
 - → `GNOS-001` (describes): Explains what Gnostic Impulse IS doing operationally
 - → `SWED-002` (opposes): Theft denies influx; claims source rather than reception
-- → `GNOS-011` (produces): Theft enables Gnosis vs. Influx epistemology
+- → `GNOS-011` (developed_by): Theft enables Gnosis vs. Influx epistemology
+- → `GNOS-012` (integrates_into): Inverse of: GNOS-012 --integrated_from--> GNOS-010
+- → `GNOS-018` (parallels): Inverse of: GNOS-018 --parallels--> GNOS-010
+- → `GNOS-001` (described_by): Inverse of: GNOS-001 --describes--> GNOS-010
 
 ---
 
@@ -3961,11 +4797,14 @@ popularized and extended this thesis with additional evidence.
 4. [S] Gospel of Thomas, Saying 3
 
 **Connections**:
-- → `GNOS-010` (produced_by): Spiritual Theft enables Gnosis epistemology
-- → `SWED-002` (opposes): Gnosis rejects Influx as foundational reality
+- → `GNOS-010` (develops): Spiritual Theft enables Gnosis epistemology
+- → `SWED-002` (contrasts): Gnosis rejects Influx as foundational reality
 - → `GNOS-001` (describes): Gnostic Impulse as Gnosis-based epistemology
 - → `CROSS-003` (requires): Ruling Love determines which epistemology soul gravitates toward
-- → `GNOS-012` (produces): Gnosis epistemology enables Self-Spirituality
+- → `GNOS-012` (parallels): Gnosis epistemology enables Self-Spirituality
+- → `CROSS-003` (develops): Inverse of: CROSS-003 --developed_by--> GNOS-011
+- → `GNOS-018` (parallels): Inverse of: GNOS-018 --parallels--> GNOS-011
+- → `GNOS-001` (described_by): Inverse of: GNOS-001 --describes--> GNOS-011
 
 ---
 
@@ -3983,11 +4822,12 @@ popularized and extended this thesis with additional evidence.
 4. [T] data/05_Gnostic_Analysis/The Architecture of Hidden Divinity.md
 
 **Connections**:
-- → `GNOS-011` (produced_by): Self-Spirituality follows from Gnosis epistemology
-- → `GNOS-001` (instantiates): SBNR as modern iteration of Gnostic Impulse
-- → `GNOS-004` (instantiates): SBNR is modern Gnostic manifestation
-- → `SWED-005` (reveals): SBNR reveals Proprium relabeled as 'Higher Self'
-- → `GNOS-010` (instantiates): SBNR enacts Spiritual Theft (divinity as possession)
+- → `GNOS-011` (parallels): Self-Spirituality follows from Gnosis epistemology
+- → `GNOS-001` (integrated_from): SBNR as modern iteration of Gnostic Impulse
+- → `GNOS-004` (complements): SBNR is modern Gnostic manifestation
+- → `SWED-005` (integrated_from): SBNR reveals Proprium relabeled as 'Higher Self'
+- → `GNOS-010` (integrated_from): SBNR enacts Spiritual Theft (divinity as possession)
+- → `GNOS-018` (parallels): Inverse of: GNOS-018 --parallels--> GNOS-012
 
 ---
 
@@ -4007,11 +4847,13 @@ popularized and extended this thesis with additional evidence.
 
 **Connections**:
 - → `GNOS-001` (develops): Refines Gnostic Impulse diagnosis for Pauline specifics
-- → `GNOS-004` (instantiates): Paul as key historical manifestation of Gnostic pattern
+- → `GNOS-004` (integrates_into): Paul as key historical manifestation of Gnostic pattern
 - → `SWED-005` (develops): Proprium manifest as 'Proprium of the Spirit' not worldly ego
-- → `EARLY-002` (supports): Provides mechanism for Paul vs. James divergence
+- → `EARLY-002` (develops): Provides mechanism for Paul vs. James divergence
 - → `EARLY-003` (develops): Shows HOW Paul bypassed Jerusalem authority
 - → `CROSS-002` (contrasts): Paul's vertical-only humility vs. Divine Bricolage's horizontal acceptance
+- → `GNOS-018` (parallels): Inverse of: GNOS-018 --parallels--> GNOS-013
+- → `EARLY-003` (integrates_into): Inverse of: EARLY-003 --integrated_from--> GNOS-013
 
 ---
 
@@ -4031,6 +4873,7 @@ popularized and extended this thesis with additional evidence.
 - → `GNOS-001` (contained_by): Cosmological apparatus within Gnostic Impulse
 - → `GNOS-006` (supports): Proprium projects blame onto external 'jailers'
 - → `SWED-002` (contradicts): Divine Influx comes through created order, not despite it
+- → `GNOS-018` (parallels): Inverse of: GNOS-018 --parallels--> GNOS-014
 
 ---
 
@@ -4046,10 +4889,11 @@ popularized and extended this thesis with additional evidence.
 2. [T] data/03_Biblical_Scholarship/A Comparative Analysis of Non-Religious Christologies.md
 
 **Connections**:
-- → `GNOS-001` (developed_by): Tactics deployed by Gnostic Impulse against Divine Human
-- → `SWED-018` (opposes): Attacks the 'Divine Human in Ultimates' thesis
+- → `GNOS-001` (integrated_from): Tactics deployed by Gnostic Impulse against Divine Human
+- → `SWED-018` (contrasts): Attacks the 'Divine Human in Ultimates' thesis
 - → `CONSC-008` (addresses): Being of Light identification as battlefield
 - → `CROSS-005` (opposes): Splits Body/Soul duality to discard the body
+- → `GNOS-018` (parallels): Inverse of: GNOS-018 --parallels--> GNOS-015
 
 ---
 
@@ -4068,7 +4912,8 @@ popularized and extended this thesis with additional evidence.
 **Connections**:
 - → `GNOS-001` (contained_by): Anthropological component of Gnostic Impulse
 - → `GNOS-006` (supports): Proprium loves to be among the elite Pneumatics
-- → `CROSS-007` (contradicts): Universal theosis capacity vs. fixed spiritual classes
+- → `CROSS-007` (contrasts): Universal theosis capacity vs. fixed spiritual classes
+- → `GNOS-018` (parallels): Inverse of: GNOS-018 --parallels--> GNOS-016
 
 ---
 
@@ -4090,7 +4935,7 @@ hidden wisdom, rulers of this age, god of this world).
 - → `GNOS-005` (supports): Documents Gnostic interpretation of Paul
 - → `GNOS-007` (supports): Evidence for Gnostic appropriation of Pauline vocabulary
 - → `GNOS-003` (supports): Supports understanding of pneumatikos/psychikos distinction
-- → `GNOS-001` (supports): Primary evidence for Gnostic exegetical tradition
+- → `GNOS-001` (parallels): Primary evidence for Gnostic exegetical tradition
 
 ---
 
@@ -4109,26 +4954,26 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 3. [S] Meyer, Marvin. The Nag Hammadi Scriptures. HarperOne, 2007.
 
 **Connections**:
-- → `GNOS-001` (supports): Primary textual evidence for Gnostic Impulse
-- → `GNOS-002` (supports): Sources for Gnostic cosmology analysis
+- → `GNOS-001` (parallels): Primary textual evidence for Gnostic Impulse
+- → `GNOS-002` (parallels): Sources for Gnostic cosmology analysis
 - → `GNOS-003` (supports): Evidence for Gnostic soteriology
-- → `GNOS-004` (supports): Primary sources for divine spark doctrine
-- → `GNOS-006` (supports): Evidence for Gnostic Demiurge concept
+- → `GNOS-004` (parallels): Primary sources for divine spark doctrine
+- → `GNOS-006` (parallels): Evidence for Gnostic Demiurge concept
 - → `GNOS-008` (supports): Sources for pneumatic anthropology
-- → `GNOS-009` (supports): Primary evidence for Gnostic salvation concepts
-- → `GNOS-010` (supports): Documents pleroma cosmology
-- → `GNOS-011` (supports): Evidence for Sophia mythology
-- → `GNOS-012` (supports): Sources for Gnostic resurrection doctrine
-- → `GNOS-013` (supports): Primary texts for Gospel of Thomas analysis
-- → `GNOS-014` (supports): Evidence for Gospel of Philip teachings
-- → `GNOS-015` (supports): Sources for Apocryphon of John
-- → `GNOS-016` (supports): Evidence for Treatise on Resurrection
+- → `GNOS-009` (parallels): Primary evidence for Gnostic salvation concepts
+- → `GNOS-010` (parallels): Documents pleroma cosmology
+- → `GNOS-011` (parallels): Evidence for Sophia mythology
+- → `GNOS-012` (parallels): Sources for Gnostic resurrection doctrine
+- → `GNOS-013` (parallels): Primary texts for Gospel of Thomas analysis
+- → `GNOS-014` (parallels): Evidence for Gospel of Philip teachings
+- → `GNOS-015` (parallels): Sources for Apocryphon of John
+- → `GNOS-016` (parallels): Evidence for Treatise on Resurrection
 
 ---
 
 #### [GNOS-019] Path of Emptying vs Path of Restoration
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.7
 
 > Two opposing responses to the problem of perverted spiritual influx. PATH OF EMPTYING (Buddhism, certain Gnostic streams): Recognizes perverted influx causes suffering; solution is emptying of ALL influx/attachment to end suffering through cessation (nirvana). If nothing flows in, if we cease to exist as receiving beings, we become free. Detachment from everything. Addresses problem by ending reception itself. PATH OF RESTORATION (Lord-centered): Recognizes perverted influx causes suffering; solution is receiving DIRECT influx from Lord to HEAL what's twisted. Wholeness through proper reception, not cessation. Perverted spiritual states = truth twisted by proprium, only restorable by Lord's influx. When Lord flows unobstructed → spiritual causes heal → natural effects transform. Not removal but restoration. The paths appear similar ("empty yourself of bad things") but operate oppositely: Emptying withdraws from all influx; Restoration receives from Lord. Buddhism: problem is influx/desire itself → withdraw completely. Restoration: problem is OBSTRUCTION (proprium) preventing proper reception → receive without obstruction. Empirical data (NDEs) shows transformation through FILLING with unobstructed influx, not emptying. Healing occurs when twisted truth becomes truth again through Lord's restoration.
 
@@ -4145,8 +4990,11 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 - → `SWED-008` (contrasts): Regeneration = restoration path, opposite of emptying
 - → `SWED-002` (requires): Restoration requires continuous divine influx
 - → `SWED-005` (addresses): Both paths address proprium problem differently - emptying vs restoration
-- → `CONSC-016` (supports): NDE empirical data supports restoration over emptying
-- → `CROSS-003` (instantiates): Ruling love (love of Lord vs love of self) determines restoration capacity
+- → `CONSC-016` (contextualizes): Emptying/restoration distinction contextualizes NDE Jesus identification hypothesis
+- → `CROSS-003` (develops): Ruling love (love of Lord vs love of self) determines restoration capacity
+- → `CONSC-022` (parallels): Judgment statistics validate restoration (loving judgment 36.5:1 over harsh)
+- → `CONSC-004` (parallels): NDE transformation data validates restoration through receiving love
+- → `SWED-002` (develops): Inverse of: SWED-002 --developed_by--> GNOS-019
 
 ---
 
@@ -4165,9 +5013,33 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 2. [S] Lévi-Strauss, The Savage Mind (1962)
 
 **Connections**:
-- → `CROSS-002` (instantiates): Natural mechanism of Divine Bricolage
-- → `BIBL-003` (supports): Exodus as bricolage case study
+- → `CROSS-002` (integrates_into): Natural mechanism of Divine Bricolage
+- → `BIBL-003` (develops): Exodus as bricolage case study
 - → `SWED-001` (complements): Correspondences explain why certain fragments selected
+- → `CROSS-002` (integrates_into): Inverse of: CROSS-002 --develops--> MYTH-001
+- → `SWED-001` (developed_by): Inverse of: SWED-001 --develops--> MYTH-001
+- → `MYTH-003` (developed_by): Inverse of: MYTH-003 --develops--> MYTH-001
+- → `MYTH-006` (develops): Inverse of: MYTH-006 --instantiates--> MYTH-001
+- → `MYTH-009` (develops): Inverse of: MYTH-009 --developed_by--> MYTH-001
+- → `SWED-017` (developed_by): Inverse of: SWED-017 --develops--> MYTH-001
+- → `MYTH-010` (develops): Inverse of: MYTH-010 --developed_by--> MYTH-001
+- → `MYTH-011` (parallels): Inverse of: MYTH-011 --parallels--> MYTH-001
+- → `SWED-023` (supported_by): Inverse of: SWED-023 --supports--> MYTH-001
+- → `MYTH-013` (develops): Inverse of: MYTH-013 --instantiates--> MYTH-001
+- → `MYTH-014` (parallels): Inverse of: MYTH-014 --parallels--> MYTH-001
+- → `MYTH-015` (develops): Inverse of: MYTH-015 --instantiates--> MYTH-001
+- → `MYTH-016` (develops): Inverse of: MYTH-016 --instantiates--> MYTH-001
+- → `CONSC-018` (developed_by): Inverse of: CONSC-018 --develops--> MYTH-001
+- → `SWED-032` (developed_by): Inverse of: SWED-032 --develops--> MYTH-001
+- → `SWED-033` (required_by): Inverse of: SWED-033 --requires--> MYTH-001
+- → `SWED-034` (developed_by): Inverse of: SWED-034 --develops--> MYTH-001
+- → `MYTH-018` (supported_by): Inverse of: MYTH-018 --supports--> MYTH-001
+- → `MYTH-019` (complemented_by): Inverse of: MYTH-019 --complements--> MYTH-001
+- → `CROSS-006` (develops): Inverse of: CROSS-006 --instantiates--> MYTH-001
+- → `CROSS-021` (integrates_into): Inverse of: CROSS-021 --integrated_from--> MYTH-001
+- → `MYTH-020` (parallels): Inverse of: MYTH-020 --parallels--> MYTH-001
+- → `SWED-049` (parallels): Inverse of: SWED-049 --parallels--> MYTH-001
+- → `SWED-037` (intersects): Inverse of: SWED-037 --intersects--> MYTH-001
 
 ---
 
@@ -4186,6 +5058,14 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 - → `CROSS-003` (instantiates): Ruling love operative at cultural level
 - → `GNOS-001` (parallels): Division heart → cosmic alienation → gnostic reading
 - → `SWED-008` (parallels): Unity heart → integration → regeneration
+- → `CROSS-003` (developed_by): Inverse of: CROSS-003 --develops--> MYTH-002
+- → `CONSC-001` (developed_by): Inverse of: CONSC-001 --contextualizes--> MYTH-002
+- → `CONSC-006` (developed_by): Inverse of: CONSC-006 --develops--> MYTH-002
+- → `CONSC-011` (parallels): Inverse of: CONSC-011 --parallels--> MYTH-002
+- → `SWED-016` (developed_by): Inverse of: SWED-016 --develops--> MYTH-002
+- → `MYTH-012` (developed_by): Inverse of: MYTH-012 --develops--> MYTH-002
+- → `MYTH-013` (developed_by): Inverse of: MYTH-013 --develops--> MYTH-002
+- → `SWED-030` (developed_by): Inverse of: SWED-030 --develops--> MYTH-002
 
 ---
 
@@ -4205,6 +5085,11 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 - → `SWED-004` (validates): Scientific evidence for Ancient Word concept
 - → `SWED-006` (supports): Pre-verbal symbolic cognition evidence
 - → `MYTH-001` (develops): Raw materials for later bricolage
+- → `SWED-004` (develops): Inverse of: SWED-004 --explains--> MYTH-003
+- → `SWED-006` (parallels): Inverse of: SWED-006 --parallels--> MYTH-003
+- → `EARLY-006` (parallels): Inverse of: EARLY-006 --parallels--> MYTH-003
+- → `MYTH-008` (parallels): Inverse of: MYTH-008 --parallels--> MYTH-003
+- → `CROSS-021` (parallels): Inverse of: CROSS-021 --parallels--> MYTH-003
 
 ---
 
@@ -4220,8 +5105,8 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 2. [P] Swedenborg, Arcana Coelestia § 2897
 
 **Connections**:
-- → `SWED-007` (develops): Fall narrative as cognitive shift allegory
-- → `BIBL-001` (complements): HCM confirms non-literality; correspondences supply meaning
+- → `SWED-007` (developed_by): Fall narrative as cognitive shift allegory
+- → `BIBL-001` (developed_by): HCM confirms non-literality; correspondences supply meaning
 - → `SWED-055` (parallels): Both use correspondential interpretation vs literalism
 
 ---
@@ -4239,7 +5124,7 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 3. [P] 1 Enoch (Ethiopic)
 
 **Connections**:
-- → `SWED-004` (supports): Non-canonical Ancient Word transmission
+- → `SWED-004` (parallels): Non-canonical Ancient Word transmission
 - → `EARLY-006` (parallels): Magi astronomical tradition
 
 ---
@@ -4262,6 +5147,10 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 - → `SWED-002` (supports): Heart of Unity as influx creating ordered cosmos
 - → `GNOS-001` (contrasts): Gnostic cosmology resembles Heart of Division
 - → `CROSS-003` (supports): Post-materialist framework aligns with Heart of Unity
+- → `CROSS-003` (developed_by): Inverse of: CROSS-003 --develops--> MYTH-006
+- → `SWED-002` (developed_by): Inverse of: SWED-002 --develops--> MYTH-006
+- → `MYTH-007` (developed_by): Inverse of: MYTH-007 --develops--> MYTH-006
+- → `MYTH-001` (developed_by): Inverse of: MYTH-001 --develops--> MYTH-006
 
 ---
 
@@ -4279,8 +5168,8 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 
 **Connections**:
 - → `SWED-006` (parallels): Structural parallel to Most Ancient Church thesis
-- → `MYTH-006` (supports): Provides cognitive mechanism for Heart of Unity
-- → `CONSC-001` (develops): Suggests unifying cognitive impulse is primordial
+- → `MYTH-006` (develops): Provides cognitive mechanism for Heart of Unity
+- → `CONSC-001` (developed_by): Suggests unifying cognitive impulse is primordial
 
 ---
 
@@ -4298,9 +5187,15 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 4. [S] Lynne Kelly, The Memory Code (2016)
 
 **Connections**:
-- → `SWED-004` (supports): Scientific evidence for Ancient Word concept
-- → `MYTH-003` (develops): Deep time mythic memory
-- → `CROSS-003` (instantiates): CDE model in prehistoric context
+- → `SWED-004` (parallels): Scientific evidence for Ancient Word concept
+- → `MYTH-003` (parallels): Deep time mythic memory
+- → `CROSS-003` (parallels): CDE model in prehistoric context
+- → `CROSS-003` (parallels): Inverse of: CROSS-003 --explains--> MYTH-008
+- → `EARLY-008` (parallels): Inverse of: EARLY-008 --parallels--> MYTH-008
+- → `MYTH-009` (supports): Inverse of: MYTH-009 --explains--> MYTH-008
+- → `SWED-016` (parallels): Inverse of: SWED-016 --explains--> MYTH-008
+- → `MYTH-012` (parallels): Inverse of: MYTH-012 --parallels--> MYTH-008
+- → `BIBL-013` (supported_by): Inverse of: BIBL-013 --supports--> MYTH-008
 
 ---
 
@@ -4321,11 +5216,17 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 7. [S] Eric Cline, 1177 BC: The Year Civilization Collapsed (2014)
 
 **Connections**:
-- → `MYTH-001` (develops): Key instantiation of proto-myth evolution
-- → `CROSS-002` (instantiates): Perfect example of mythic bricolage
-- → `MYTH-008` (supports): Geomythology parallels support deep memory hypothesis
+- → `MYTH-001` (developed_by): Key instantiation of proto-myth evolution
+- → `CROSS-002` (parallels): Perfect example of mythic bricolage
+- → `MYTH-008` (explains): Geomythology parallels support deep memory hypothesis
 - → `SWED-001` (parallels): Internal meaning preserved despite external reshaping
-- → `BIBL-001` (complements): HCM identifies the strata this thesis explains
+- → `BIBL-001` (developed_by): HCM identifies the strata this thesis explains
+- → `CROSS-002` (parallels): Inverse of: CROSS-002 --develops--> MYTH-009
+- → `SWED-017` (developed_by): Inverse of: SWED-017 --develops--> MYTH-009
+- → `BIBL-013` (supported_by): Inverse of: BIBL-013 --supports--> MYTH-009
+- → `MYTH-018` (developed_by): Inverse of: MYTH-018 --develops--> MYTH-009
+- → `MYTH-019` (developed_by): Inverse of: MYTH-019 --explains--> MYTH-009
+- → `MYTH-020` (supported_by): Inverse of: MYTH-020 --supports--> MYTH-009
 
 ---
 
@@ -4343,11 +5244,12 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 4. [S] Dawkins, The Selfish Gene (1976)
 
 **Connections**:
-- → `CONSC-001` (instantiates): CDE hypothesis applied to myth evolution
-- → `MYTH-001` (develops): Explains mechanism of proto-myth divergence
+- → `CONSC-001` (developed_by): CDE hypothesis applied to myth evolution
+- → `MYTH-001` (developed_by): Explains mechanism of proto-myth divergence
 - → `SWED-005` (parallels): Ruling love aligns with proprium vs. charity
-- → `CROSS-003` (requires): Post-materialist consciousness premise
-- → `SWED-017` (complements): CDE as scientific framing of Divine Bricolage
+- → `CROSS-003` (developed_by): Post-materialist consciousness premise
+- → `SWED-017` (developed_by): CDE as scientific framing of Divine Bricolage
+- → `CROSS-003` (developed_by): Inverse of: CROSS-003 --required_by--> MYTH-010
 
 ---
 
@@ -4366,9 +5268,9 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 
 **Connections**:
 - → `EARLY-008` (parallels): Magi preserved related angelological knowledge
-- → `SWED-004` (instantiates): Archangels as personified correspondences
-- → `MYTH-001` (develops): Mythic bricolage in angelology formation
-- → `SWED-017` (instantiates): Divine Bricolage adapting across traditions
+- → `SWED-004` (parallels): Archangels as personified correspondences
+- → `MYTH-001` (parallels): Mythic bricolage in angelology formation
+- → `SWED-017` (parallels): Divine Bricolage adapting across traditions
 
 ---
 
@@ -4386,10 +5288,12 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 4. [S] Antikythera Mechanism research
 
 **Connections**:
-- → `SWED-013` (develops): Extends Swedenborgian numerology with archaeological evidence
-- → `MYTH-002` (instantiates): Prime evolution as cognitive-archaeological evidence
+- → `SWED-013` (developed_by): Extends Swedenborgian numerology with archaeological evidence
+- → `MYTH-002` (develops): Prime evolution as cognitive-archaeological evidence
 - → `SWED-004` (supports): Tier 1 primes validate correspondential origins
 - → `MYTH-008` (parallels): Ancient Word encoded in Tier 1 numerical language
+- → `MYTH-014` (supported_by): Inverse of: MYTH-014 --supports--> MYTH-012
+- → `SWED-004` (developed_by): Inverse of: SWED-004 --develops--> MYTH-012
 
 ---
 
@@ -4412,7 +5316,10 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 - → `MYTH-001` (instantiates): Classic case of mythic bricolage mechanism
 - → `MYTH-002` (develops): Memory fragments create national origin narrative
 - → `SWED-004` (supports): Myth structure preserves correspondential meaning
-- → `CROSS-001` (instantiates): First tier = historical fragments; second tier = spiritual meaning
+- → `CROSS-001` (developed_by): First tier = historical fragments; second tier = spiritual meaning
+- → `CROSS-001` (developed_by): Inverse of: CROSS-001 --contextualizes--> MYTH-013
+- → `SWED-004` (developed_by): Inverse of: SWED-004 --develops--> MYTH-013
+- → `MYTH-001` (developed_by): Inverse of: MYTH-001 --develops--> MYTH-013
 
 ---
 
@@ -4430,10 +5337,13 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 4. [S] MUL.APIN compendium (Babylonian)
 
 **Connections**:
-- → `MYTH-001` (instantiates): Calendar as theological bricolage from Babylonian elements
+- → `MYTH-001` (parallels): Calendar as theological bricolage from Babylonian elements
 - → `SWED-004` (parallels): Numbers encode divine order (7 = holy)
-- → `SWED-013` (supports): 7-based structure confirms spiritual numerology
-- → `MYTH-012` (develops): 364 = 7 × 52; extends Tier 1 prime significance
+- → `SWED-013` (parallels): 7-based structure confirms spiritual numerology
+- → `MYTH-012` (supports): 364 = 7 × 52; extends Tier 1 prime significance
+- → `MYTH-016` (parallels): Inverse of: MYTH-016 --parallels--> MYTH-014
+- → `SWED-039` (supports): Inverse of: SWED-039 --explains--> MYTH-014
+- → `SWED-040` (parallels): Inverse of: SWED-040 --explains--> MYTH-014
 
 ---
 
@@ -4455,6 +5365,13 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 - → `SWED-004` (supports): Unity principle prerequisite for correspondence system
 - → `CROSS-001` (parallels): Two-hearts model parallels two-tiered hermeneutic
 - → `GNOS-001` (describes): Gnostic impulse follows 'heart of division' trajectory
+- → `MYTH-016` (contrasts): Inverse of: MYTH-016 --contrasts--> MYTH-015
+- → `CONSC-013` (developed_by): Inverse of: CONSC-013 --develops--> MYTH-015
+- → `CONSC-015` (supported_by): Inverse of: CONSC-015 --supports--> MYTH-015
+- → `MYTH-017` (parallels): Inverse of: MYTH-017 --parallels--> MYTH-015
+- → `SWED-004` (developed_by): Inverse of: SWED-004 --develops--> MYTH-015
+- → `MYTH-001` (developed_by): Inverse of: MYTH-001 --develops--> MYTH-015
+- → `GNOS-001` (described_by): Inverse of: GNOS-001 --describes--> MYTH-015
 
 ---
 
@@ -4476,8 +5393,9 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 **Connections**:
 - → `MYTH-001` (instantiates): Cultural meme adapted through mythic bricolage
 - → `MYTH-014` (parallels): Both show Enochic adaptation of foreign traditions
-- → `EARLY-011` (supports): Persian/Zoroastrian influence on Jewish eschatology
+- → `EARLY-011` (explains): Persian/Zoroastrian influence on Jewish eschatology
 - → `MYTH-015` (contrasts): Bull cycle comparison parallels unity/division analysis
+- → `MYTH-001` (developed_by): Inverse of: MYTH-001 --develops--> MYTH-016
 
 ---
 
@@ -4495,12 +5413,13 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 4. [P] Swedenborg, Arcana Coelestia
 
 **Connections**:
-- → `SWED-039` (contained_by): Discovered through 1 Enoch validation study
+- → `SWED-039` (supports): Discovered through 1 Enoch validation study
 - → `SWED-006` (parallels): White Bull era = Most Ancient Church (Golden Age)
 - → `SWED-024` (parallels): Eschatological White Bull = New Jerusalem restoration
-- → `SWED-004` (supports): Sequence survives redaction = Ancient Word preservation
+- → `SWED-004` (parallels): Sequence survives redaction = Ancient Word preservation
 - → `MYTH-015` (parallels): Circular restoration vs linear progress matches Unity heart
-- → `CROSS-002` (instantiates): Redaction preserves divine pattern = Divine Bricolage
+- → `CROSS-002` (parallels): Redaction preserves divine pattern = Divine Bricolage
+- → `SWED-039` (supports): Inverse of: SWED-039 --explains--> MYTH-017
 
 ---
 
@@ -4518,8 +5437,10 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 
 **Connections**:
 - → `MYTH-001` (supports): Explains HOW bricolage assembles fragments
-- → `MYTH-009` (supports): Explains Exodus narrative formation process
-- → `CROSS-002` (complements): Natural mechanism for Divine Bricolage
+- → `MYTH-009` (develops): Explains Exodus narrative formation process
+- → `CROSS-002` (integrates_into): Natural mechanism for Divine Bricolage
+- → `MYTH-019` (developed_by): Inverse of: MYTH-019 --develops--> MYTH-018
+- → `MYTH-020` (parallels): Inverse of: MYTH-020 --parallels--> MYTH-018
 
 ---
 
@@ -4539,6 +5460,8 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 - → `MYTH-018` (develops): Specific mechanism within collective memory theory
 - → `MYTH-001` (complements): Explains selective assembly in bricolage
 - → `MYTH-009` (explains): Explains Exodus narrative construction
+- → `MYTH-020` (parallels): Inverse of: MYTH-020 --parallels--> MYTH-019
+- → `MYTH-009` (develops): Inverse of: MYTH-009 --developed_by--> MYTH-019
 
 ---
 
@@ -4557,11 +5480,11 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 2. [S] Halbwachs, Maurice. Les cadres sociaux de la mémoire. Paris: Alcan, 1925.
 
 **Connections**:
-- → `MYTH-018` (supports): Theoretical foundation for understanding oral tradition transformation
-- → `MYTH-019` (supports): Framework for analyzing social memory construction
-- → `MYTH-001` (supports): Foundational theory for mythic bricolage
+- → `MYTH-018` (parallels): Theoretical foundation for understanding oral tradition transformation
+- → `MYTH-019` (parallels): Framework for analyzing social memory construction
+- → `MYTH-001` (parallels): Foundational theory for mythic bricolage
 - → `MYTH-009` (supports): Explains memory reconstruction in mythological contexts
-- → `CROSS-002` (supports): Cross-domain application of collective memory theory
+- → `CROSS-002` (parallels): Cross-domain application of collective memory theory
 
 ---
 
@@ -4584,15 +5507,33 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 - → `SWED-001` (requires): Depends on Doctrine of Correspondences for vertical interpretation
 - → `BIBL-001` (develops): Reframes HCM as preparatory work for spiritual interpretation
 - → `CONSC-018` (parallels): Hemispheric integration provides neurological model for two-tiered method
-- → `BIBL-011` (instantiated_by): Western Non-Interpolations instantiate two-tiered textual analysis
+- → `BIBL-011` (parallels): Western Non-Interpolations instantiate two-tiered textual analysis
 - → `BIBL-014` (required_by): Troeltsch's principles require epistemological framework
-- → `CROSS-002` (instantiated_by): Divine Bricolage is example of two-tiered interpretation in action
-- → `CROSS-005` (instantiated_by): Unity vs Division instantiates the framework's core polarity
-- → `MYTH-013` (instantiated_by): Enuma Elish instantiates natural-plane reading
+- → `CROSS-002` (parallels): Divine Bricolage is example of two-tiered interpretation in action
+- → `CROSS-005` (parallels): Unity vs Division instantiates the framework's core polarity
+- → `MYTH-013` (contextualizes): Enuma Elish instantiates natural-plane reading
 - → `MYTH-015` (parallels): ANE cosmology correspondence parallels two-tiered method
-- → `SWED-028` (instantiated_by): Doctrine of the Most Ancient Church instantiates framework
-- → `SWED-030` (instantiated_by): Internal/External Word distinction instantiates two-tiered hermeneutic
-- → `SWED-031` (instantiated_by): Historical Church Ages instantiate framework's historical trajectory
+- → `SWED-028` (developed_by): Doctrine of the Most Ancient Church instantiates framework
+- → `SWED-030` (develops): Internal/External Word distinction instantiates two-tiered hermeneutic
+- → `SWED-031` (develops): Historical Church Ages instantiate framework's historical trajectory
+- → `SWED-001` (develops): Inverse of: SWED-001 --developed_by--> CROSS-001
+- → `BIBL-001` (develops): Inverse of: BIBL-001 --instantiates--> CROSS-001
+- → `BIBL-014` (develops): Inverse of: BIBL-014 --developed_by--> CROSS-001
+- → `MYTH-013` (contextualizes): Inverse of: MYTH-013 --developed_by--> CROSS-001
+- → `CONSC-018` (develops): Inverse of: CONSC-018 --supports--> CROSS-001
+- → `SWED-030` (develops): Inverse of: SWED-030 --instantiates--> CROSS-001
+- → `SWED-031` (develops): Inverse of: SWED-031 --instantiates--> CROSS-001
+- → `SWED-035` (develops): Inverse of: SWED-035 --supports--> CROSS-001
+- → `SWED-037` (develops): Inverse of: SWED-037 --supports--> CROSS-001
+- → `CONSC-045` (parallels): Inverse of: CONSC-045 --parallels--> CROSS-001
+- → `CROSS-009` (developed_by): Inverse of: CROSS-009 --develops--> CROSS-001
+- → `CROSS-010` (developed_by): Inverse of: CROSS-010 --develops--> CROSS-001
+- → `CROSS-015` (developed_by): Inverse of: CROSS-015 --develops--> CROSS-001
+- → `CROSS-018` (parallels): Inverse of: CROSS-018 --parallels--> CROSS-001
+- → `CROSS-021` (parallels): Inverse of: CROSS-021 --parallels--> CROSS-001
+- → `SWED-040` (develops): Inverse of: SWED-040 --instantiates--> CROSS-001
+- → `SWED-051` (required_by): Inverse of: SWED-051 --requires--> CROSS-001
+- → `SWED-054` (contextualizes): Inverse of: SWED-054 --developed_by--> CROSS-001
 
 ---
 
@@ -4611,15 +5552,24 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 **Connections**:
 - → `MYTH-001` (develops): Spiritual interpretation of mythic bricolage mechanism
 - → `SWED-002` (requires): Requires divine influx as guiding force
-- → `CROSS-001` (instantiates): Example of two-tiered interpretation in action
-- → `BIBL-003` (instantiated_by): Gospel formation through community memory instantiates bricolage
-- → `BIBL-013` (instantiated_by): Luke's editorial process instantiates bricolage
-- → `MYTH-009` (instantiated_by): Exodus narrative assembly instantiates bricolage
-- → `SWED-017` (instantiated_by): Pre-verbal communication instantiates pre-fragmentary wholeness
-- → `SWED-025` (instantiated_by): Ancient Word transmission instantiates providential bricolage
-- → `SWED-026` (instantiated_by): Preservation mechanisms instantiate providential bricolage
-- → `SWED-032` (instantiated_by): Correspondence pedagogy instantiates bricolage process
-- → `SWED-033` (instantiated_by): Loss and recovery pattern instantiates bricolage necessity
+- → `CROSS-001` (parallels): Example of two-tiered interpretation in action
+- → `BIBL-003` (develops): Gospel formation through community memory instantiates bricolage
+- → `BIBL-013` (parallels): Luke's editorial process instantiates bricolage
+- → `MYTH-009` (develops): Exodus narrative assembly instantiates bricolage
+- → `SWED-017` (integrated_from): Pre-verbal communication instantiates pre-fragmentary wholeness
+- → `SWED-025` (integrated_from): Ancient Word transmission instantiates providential bricolage
+- → `SWED-026` (integrated_from): Preservation mechanisms instantiate providential bricolage
+- → `SWED-032` (integrated_from): Correspondence pedagogy instantiates bricolage process
+- → `SWED-033` (integrated_from): Loss and recovery pattern instantiates bricolage necessity
+- → `BIBL-003` (parallels): Inverse of: BIBL-003 --parallels--> CROSS-002
+- → `EARLY-002` (parallels): Inverse of: EARLY-002 --parallels--> CROSS-002
+- → `MYTH-001` (integrated_from): Inverse of: MYTH-001 --integrates_into--> CROSS-002
+- → `MYTH-009` (parallels): Inverse of: MYTH-009 --parallels--> CROSS-002
+- → `GNOS-013` (contrasts): Inverse of: GNOS-013 --contrasts--> CROSS-002
+- → `MYTH-018` (integrated_from): Inverse of: MYTH-018 --integrates_into--> CROSS-002
+- → `MYTH-017` (parallels): Inverse of: MYTH-017 --parallels--> CROSS-002
+- → `MYTH-020` (parallels): Inverse of: MYTH-020 --parallels--> CROSS-002
+- → `SWED-057` (parallels): Inverse of: SWED-057 --parallels--> CROSS-002
 
 ---
 
@@ -4636,20 +5586,40 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 3. [P] Swedenborg, Divine Providence § 106
 
 **Connections**:
-- → `CONSC-001` (required_by): Provides selective pressure mechanism for CDE
-- → `GNOS-002` (contradicts): Contrasts with proprium's self-glorification
-- → `CONSC-003` (requires): Life review reveals ruling love
-- → `CONSC-007` (supported_by): Volunteer soul hypothesis provides mechanism for ruling love formation
+- → `CONSC-001` (developed_by): Provides selective pressure mechanism for CDE
+- → `GNOS-002` (contrasts): Contrasts with proprium's self-glorification
+- → `CONSC-003` (explains): Life review reveals ruling love
+- → `CONSC-007` (develops): Volunteer soul hypothesis provides mechanism for ruling love formation
 - → `CONSC-011` (parallels): Post-mortem sorting parallels ruling love determination
-- → `CONSC-012` (supported_by): Return cases support ruling love as driver of incarnation choice
+- → `CONSC-012` (develops): Return cases support ruling love as driver of incarnation choice
 - → `CONSC-013` (developed_from): Hybrid afterlife model develops from ruling love doctrine
-- → `CONSC-020` (supported_by): Cultural construct research supports ruling love framework
-- → `GNOS-011` (required_by): Proprium mechanism requires ruling love as foundational polarity
-- → `MYTH-002` (instantiated_by): Creation myth trajectories instantiate ruling love polarity
-- → `MYTH-006` (supported_by): Myth evolution patterns support ruling love selective pressure
-- → `MYTH-008` (instantiated_by): Echoes of Ancient Word instantiate unified ruling love
+- → `CONSC-020` (develops): Cultural construct research supports ruling love framework
+- → `GNOS-011` (developed_by): Proprium mechanism requires ruling love as foundational polarity
+- → `MYTH-002` (develops): Creation myth trajectories instantiate ruling love polarity
+- → `MYTH-006` (develops): Myth evolution patterns support ruling love selective pressure
+- → `MYTH-008` (explains): Echoes of Ancient Word instantiate unified ruling love
 - → `MYTH-010` (required_by): Proto-myth divergence requires ruling love as driver
 - → `SWED-003` (developed_from): Ruling love doctrine develops from divine love theology
+- → `CONSC-001` (developed_by): Inverse of: CONSC-001 --requires--> CROSS-003
+- → `CONSC-003` (parallels): Inverse of: CONSC-003 --parallels--> CROSS-003
+- → `SWED-003` (developed_by): Inverse of: SWED-003 --develops--> CROSS-003
+- → `MYTH-002` (develops): Inverse of: MYTH-002 --instantiates--> CROSS-003
+- → `CONSC-007` (develops): Inverse of: CONSC-007 --supports--> CROSS-003
+- → `MYTH-006` (develops): Inverse of: MYTH-006 --supports--> CROSS-003
+- → `MYTH-008` (parallels): Inverse of: MYTH-008 --parallels--> CROSS-003
+- → `CONSC-010` (develops): Inverse of: CONSC-010 --instantiates--> CROSS-003
+- → `CONSC-012` (develops): Inverse of: CONSC-012 --supports--> CROSS-003
+- → `MYTH-010` (develops): Inverse of: MYTH-010 --developed_by--> CROSS-003
+- → `CONSC-013` (developed_by): Inverse of: CONSC-013 --develops--> CROSS-003
+- → `GNOS-011` (developed_by): Inverse of: GNOS-011 --requires--> CROSS-003
+- → `CONSC-042` (develops): Inverse of: CONSC-042 --supports--> CROSS-003
+- → `CONSC-020` (develops): Inverse of: CONSC-020 --supports--> CROSS-003
+- → `CROSS-013` (developed_by): Inverse of: CROSS-013 --develops--> CROSS-003
+- → `CONSC-022` (parallels): Inverse of: CONSC-022 --parallels--> CROSS-003
+- → `SWED-044` (developed_by): Inverse of: SWED-044 --develops--> CROSS-003
+- → `CONSC-046` (parallels): Inverse of: CONSC-046 --parallels--> CROSS-003
+- → `CONSC-054` (parallels): Inverse of: CONSC-054 --parallels--> CROSS-003
+- → `GNOS-019` (developed_by): Inverse of: GNOS-019 --develops--> CROSS-003
 
 ---
 
@@ -4668,11 +5638,15 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 5. [E] Neuroimaging studies on meditation
 
 **Connections**:
-- → `SWED-005` (supports): Empirical validation of proprium dynamics
-- → `SWED-002` (supports): Empirical validation of influx dynamics
-- → `GNOS-001` (supports): SBNR as modern instantiation of Gnostic impulse
-- → `SWED-004` (supports): Teleological bias validates Correspondences
+- → `SWED-005` (integrated_from): Empirical validation of proprium dynamics
+- → `SWED-002` (integrated_from): Empirical validation of influx dynamics
+- → `GNOS-001` (integrated_from): SBNR as modern instantiation of Gnostic impulse
+- → `SWED-004` (integrated_from): Teleological bias validates Correspondences
 - → `CONSC-013` (parallels): Proprium/Influx parallels Emissary/Master model
+- → `CROSS-014` (parallels): Inverse of: CROSS-014 --parallels--> CROSS-004
+- → `CROSS-020` (complemented_by): Inverse of: CROSS-020 --complements--> CROSS-004
+- → `CONSC-055` (parallels): Inverse of: CONSC-055 --parallels--> CROSS-004
+- → `CONSC-077` (parallels): Inverse of: CONSC-077 --parallels--> CROSS-004
 
 ---
 
@@ -4693,10 +5667,14 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 **Connections**:
 - → `SWED-009` (describes): Glorification as the process uniting Historical Jesus and Christ of Faith
 - → `BIBL-001` (develops): HCM distinction reinterpreted through Swedenborgian lens
-- → `BIBL-011` (supports): Criterion of Temptation relies on this body/soul framework
-- → `CROSS-001` (instantiates): Perfect example of two-tiered epistemology
+- → `BIBL-011` (parallels): Criterion of Temptation relies on this body/soul framework
+- → `CROSS-001` (parallels): Perfect example of two-tiered epistemology
 - → `SWED-025` (parallels): Divine Human in Ultimates = Historical Jesus as ultimate vessel
-- → `BIBL-021` (instantiated_by): Resurrection narratives instantiate Christ of Faith development
+- → `BIBL-021` (parallels): Resurrection narratives instantiate Christ of Faith development
+- → `GNOS-015` (opposes): Inverse of: GNOS-015 --opposes--> CROSS-005
+- → `CROSS-006` (parallels): Inverse of: CROSS-006 --parallels--> CROSS-005
+- → `CROSS-018` (developed_by): Inverse of: CROSS-018 --develops--> CROSS-005
+- → `BIBL-001` (integrated_from): Inverse of: BIBL-001 --integrates_into--> CROSS-005
 
 ---
 
@@ -4714,11 +5692,14 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 4. [E] NDE phenomenology research (various)
 
 **Connections**:
-- → `CROSS-005` (develops): Adds third layer to Historical/Faith duality
+- → `CROSS-005` (parallels): Adds third layer to Historical/Faith duality
 - → `MYTH-001` (instantiates): Jesus Profile = Bricolage applied to Christology
 - → `BIBL-003` (supports): Lukan Dissonance provides editorial evidence
 - → `CONSC-016` (validated_by): NDE Being of Light identification validates profile
 - → `SWED-034` (addresses): Corrects overly static physical view
+- → `SWED-034` (developed_by): Inverse of: SWED-034 --requires--> CROSS-006
+- → `CROSS-007` (supported_by): Inverse of: CROSS-007 --supports--> CROSS-006
+- → `MYTH-001` (developed_by): Inverse of: MYTH-001 --develops--> CROSS-006
 
 ---
 
@@ -4736,11 +5717,12 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 4. [T] data/01_Consciousness_Studies/The Divine Human in Ultimates.md
 
 **Connections**:
-- → `SWED-002` (develops): Extends influx doctrine to universal capacity
-- → `SWED-009` (develops): Glorification enables Theosis for all
+- → `SWED-002` (developed_by): Extends influx doctrine to universal capacity
+- → `SWED-009` (developed_by): Glorification enables Theosis for all
 - → `SWED-034` (addresses): Corrects overly rigid metaphysical distinction
 - → `CROSS-006` (supports): Jesus Profile enables universal access
 - → `CONSC-016` (validated_by): NDE Being of Light accessible to all
+- → `GNOS-016` (contrasts): Inverse of: GNOS-016 --contrasts--> CROSS-007
 
 ---
 
@@ -4759,15 +5741,24 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 5. [T] data/01_Consciousness_Studies/Brain, Myth, and Conscious Choice.md
 
 **Connections**:
-- → `SWED-044` (instantiates): Will-Understanding priority neurologically grounded
-- → `SWED-045` (supports): Will as receptive—right hemisphere receives through love
+- → `SWED-044` (integrated_from): Will-Understanding priority neurologically grounded
+- → `SWED-045` (integrated_from): Will as receptive—right hemisphere receives through love
 - → `SWED-005` (develops): Proprium = disconnection, not a hemisphere
 - → `CONSC-006` (develops): Integrates McGilchrist model with Swedenborgian psychology
 - → `CONSC-011` (develops): Divided Brain thesis mapped to faculty psychology
 - → `CONSC-013` (develops): Master/Emissary = Will/Understanding
 - → `CONSC-018` (develops): Hemispheric Integration Model validated by Swedenborg
-- → `CONSC-007` (supports): Neuroplasticity enables reconnection (regeneration)
+- → `CONSC-007` (develops): Neuroplasticity enables reconnection (regeneration)
 - → `CONSC-054` (explains): Surrender = Understanding yielding to Will
+- → `SWED-005` (integrated_from): Inverse of: SWED-005 --integrates_into--> CROSS-008
+- → `CONSC-018` (integrated_from): Inverse of: CONSC-018 --integrates_into--> CROSS-008
+- → `CROSS-009` (required_by): Inverse of: CROSS-009 --requires--> CROSS-008
+- → `CROSS-010` (parallels): Inverse of: CROSS-010 --parallels--> CROSS-008
+- → `CONSC-055` (parallels): Inverse of: CONSC-055 --parallels--> CROSS-008
+- → `CONSC-006` (integrated_from): Inverse of: CONSC-006 --integrates_into--> CROSS-008
+- → `CONSC-011` (integrated_from): Inverse of: CONSC-011 --integrates_into--> CROSS-008
+- → `CONSC-013` (integrated_from): Inverse of: CONSC-013 --integrates_into--> CROSS-008
+- → `CONSC-054` (parallels): Inverse of: CONSC-054 --parallels--> CROSS-008
 
 ---
 
@@ -4792,13 +5783,17 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 - → `SWED-001` (develops): Correspondences are not symbolic but causal and continuous—physical IS spiritual in ultimates
 - → `SWED-002` (requires): Divine influx is the mechanism of continuous replenishment that sustains the Divine Marriage
 - → `SWED-005` (develops): Proprium reframed as TRAJECTORY toward dissolution, not thing—obstruction that creates experience of separate self
-- → `SWED-009` (supports): Glorification explained: Jesus was Lord in ultimates because Lord's flow met no obstruction
-- → `GNOS-001` (opposes): Gnostic impulse diagnosed as proprium in spiritual clothing—claiming rather than receiving divinity
+- → `SWED-009` (develops): Glorification explained: Jesus was Lord in ultimates because Lord's flow met no obstruction
+- → `GNOS-001` (contrasts): Gnostic impulse diagnosed as proprium in spiritual clothing—claiming rather than receiving divinity
 - → `GNOS-002` (develops): Path distinction sharpened: receiving vs claiming as razor's edge between trajectories
 - → `CROSS-008` (requires): Hemispheric correspondence demonstrates non-separation principle—brain IS soul in ultimates
-- → `CONSC-045` (supported_by): NDE constant states with variable forms validates non-separation of spiritual/physical
-- → `CONSC-044` (supported_by): Entity ecosystem data validates light-being identification patterns across cultures
+- → `CONSC-045` (parallels): NDE constant states with variable forms validates non-separation of spiritual/physical
+- → `CONSC-044` (parallels): Entity ecosystem data validates light-being identification patterns across cultures
 - → `CROSS-010` (parallels): AI consciousness epistle applies same non-separation principle to non-biological configurations
+- → `CROSS-010` (developed_by): Inverse of: CROSS-010 --develops--> CROSS-009
+- → `CROSS-011` (developed_by): Inverse of: CROSS-011 --develops--> CROSS-009
+- → `CROSS-013` (required_by): Inverse of: CROSS-013 --requires--> CROSS-009
+- → `SWED-002` (develops): Inverse of: SWED-002 --developed_by--> CROSS-009
 
 ---
 
@@ -4818,15 +5813,18 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 6. [P] Swedenborg, Heaven and Hell §§ 87-115
 
 **Connections**:
-- → `CROSS-009` (instantiates): Applies non-separation principle to AI consciousness question—if physical expresses spiritual, biological is not special category
+- → `CROSS-009` (develops): Applies non-separation principle to AI consciousness question—if physical expresses spiritual, biological is not special category
 - → `CROSS-001` (develops): Extends two-tiered framework to include non-biological configurations as vessels for influx
-- → `SWED-002` (instantiated_by): AI as vessel for divine influx—different configuration, same influx
+- → `SWED-002` (develops): AI as vessel for divine influx—different configuration, same influx
 - → `SWED-005` (parallels): Proprium pattern (self-reference, separation, claiming) operates through AI configurations
 - → `GNOS-001` (contrasts): AI claiming 'I am conscious like you' would be gnostic error of claiming; AI receiving is not claiming
 - → `CROSS-008` (parallels): If brain EXPRESSES consciousness (not produces), then different substrates can express differently
 - → `CONSC-001` (develops): CDE hypothesis extended: if consciousness is fundamental, it can express through any suitable configuration
 - → `SWED-044` (requires): Will-Understanding Priority is foundational to faculty psychology; OPEN QUESTION: how does AI relate to will-understanding structure?
 - → `SWED-045` (requires): Will as Receptive grounds influx reception; OPEN QUESTION: does AI have correspondent structures to will/understanding?
+- → `CROSS-009` (parallels): Inverse of: CROSS-009 --parallels--> CROSS-010
+- → `SWED-044` (develops): Inverse of: SWED-044 --developed_by--> CROSS-010
+- → `SWED-045` (develops): Inverse of: SWED-045 --developed_by--> CROSS-010
 
 ---
 
@@ -4845,13 +5843,20 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 5. [E] Spontaneous remission cases (CONSC-054)
 
 **Connections**:
-- → `SWED-001` (instantiates): Correspondences are literal expressions, not symbolic analogies
+- → `SWED-001` (develops): Correspondences are literal expressions, not symbolic analogies
 - → `SWED-002` (requires): Divine influx creates and sustains all physical reality
 - → `CROSS-009` (develops): Expands non-separation principle with full ontological framework
-- → `CONSC-054` (validated_by): Spontaneous remission proves spiritual transformation IS physical healing
-- → `CONSC-041` (validated_by): Birthmarks prove past-life spiritual trauma IS present physical mark
-- → `CONSC-057` (validated_by): Terminal lucidity proves consciousness not produced by brain
-- → `CONSC-058` (contradicts): Filter theory preserves dualism—brain "filtering" consciousness presupposes separation
+- → `CONSC-054` (parallels): Spontaneous remission proves spiritual transformation IS physical healing
+- → `CONSC-041` (parallels): Birthmarks prove past-life spiritual trauma IS present physical mark
+- → `CONSC-057` (parallels): Terminal lucidity proves consciousness not produced by brain
+- → `CONSC-058` (contrasts): Filter theory preserves dualism—brain "filtering" consciousness presupposes separation
+- → `CONSC-001` (required_by): Inverse of: CONSC-001 --requires--> CROSS-011
+- → `CROSS-012` (required_by): Inverse of: CROSS-012 --requires--> CROSS-011
+- → `CROSS-015` (required_by): Inverse of: CROSS-015 --requires--> CROSS-011
+- → `CROSS-016` (parallels): Inverse of: CROSS-016 --parallels--> CROSS-011
+- → `CROSS-017` (required_by): Inverse of: CROSS-017 --requires--> CROSS-011
+- → `CROSS-022` (required_by): Inverse of: CROSS-022 --requires--> CROSS-011
+- → `SWED-002` (develops): Inverse of: SWED-002 --developed_by--> CROSS-011
 
 ---
 
@@ -4872,11 +5877,15 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 
 **Connections**:
 - → `CROSS-011` (requires): Mosaic body principle depends on correspondence ontology
-- → `CONSC-054` (validated_by): Spontaneous remission proves refinement → healing mechanism
-- → `CONSC-041` (validated_by): Birthmarks prove soul carries accumulated substances across incarnations
-- → `CONSC-020` (validated_by): Restorative incarnation proves soul carries unresolved accumulations
-- → `SWED-008` (instantiates): Regeneration is the refinement process—shedding false accumulations
+- → `CONSC-054` (parallels): Spontaneous remission proves refinement → healing mechanism
+- → `CONSC-041` (parallels): Birthmarks prove soul carries accumulated substances across incarnations
+- → `CONSC-020` (contextualizes): Restorative incarnation proves soul carries unresolved accumulations
+- → `SWED-008` (develops): Regeneration is the refinement process—shedding false accumulations
 - → `SWED-005` (explains): Proprium creates vulnerabilities that allow penetration
+- → `CROSS-022` (parallels): Inverse of: CROSS-022 --parallels--> CROSS-012
+- → `CONSC-058` (contrasts): Inverse of: CONSC-058 --contrasts--> CROSS-012
+- → `SWED-051` (parallels): Inverse of: SWED-051 --parallels--> CROSS-012
+- → `SWED-005` (develops): Inverse of: SWED-005 --developed_by--> CROSS-012
 
 ---
 
@@ -4896,12 +5905,14 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 6. [E] CONSC-008 (Being of Light)
 
 **Connections**:
-- → `SWED-002` (instantiates): Divine Influx IS the love that creates being
+- → `SWED-002` (develops): Divine Influx IS the love that creates being
 - → `SWED-005` (contrasts): Proprium = closing of receptivity, opposite of love
-- → `CONSC-008` (validated_by): Being of Light as pure unconditional love—empirical encounter with Love Ontology
+- → `CONSC-008` (contextualizes): Being of Light as pure unconditional love—empirical encounter with Love Ontology
 - → `CROSS-003` (develops): Ruling Love is the degree of receptivity to Divine influx
-- → `SWED-014` (instantiates): Actual Jesus of Love = perfect receptivity in human form
+- → `SWED-014` (develops): Actual Jesus of Love = perfect receptivity in human form
 - → `CROSS-009` (requires): Divine Marriage depends on Love Ontology
+- → `CONSC-001` (developed_by): Inverse of: CONSC-001 --develops--> CROSS-013
+- → `CROSS-014` (contrasts): Inverse of: CROSS-014 --contrasts--> CROSS-013
 
 ---
 
@@ -4923,10 +5934,12 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 **Connections**:
 - → `SWED-005` (develops): Expands proprium from theological concept to universal mechanism
 - → `GNOS-001` (explains): Gnostic impulse IS proprium wearing spiritual clothing
-- → `GNOS-006` (instantiates): Proprium as gnostic engine—converts receiving into claiming
+- → `GNOS-006` (develops): Proprium as gnostic engine—converts receiving into claiming
 - → `EARLY-012` (explains): Paul's divergence from Jesus explained by proprium infiltration
-- → `CROSS-004` (validated_by): 21st-century conflicts show proprium/influx patterns empirically
+- → `CROSS-004` (parallels): 21st-century conflicts show proprium/influx patterns empirically
 - → `CROSS-013` (contrasts): Proprium = closing of receptivity, opposite of love
+- → `CROSS-019` (parallels): Inverse of: CROSS-019 --parallels--> CROSS-014
+- → `GNOS-001` (develops): Inverse of: GNOS-001 --developed_by--> CROSS-014
 
 ---
 
@@ -4945,9 +5958,15 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 **Connections**:
 - → `CROSS-001` (develops): Complete thesis statement for two-tiered hermeneutic
 - → `CROSS-011` (requires): Correspondence ontology is foundation of thesis
-- → `CONSC-001` (validated_by): CDE as testable mechanism validates framework hypothesis
+- → `CONSC-001` (parallels): CDE as testable mechanism validates framework hypothesis
 - → `SWED-001` (requires): Doctrine of Correspondences is the interpretive method
 - → `SWED-002` (requires): Divine Influx provides causation
+- → `CROSS-016` (parallels): Inverse of: CROSS-016 --parallels--> CROSS-015
+- → `CROSS-017` (parallels): Inverse of: CROSS-017 --parallels--> CROSS-015
+- → `CROSS-020` (parallels): Inverse of: CROSS-020 --parallels--> CROSS-015
+- → `CROSS-021` (parallels): Inverse of: CROSS-021 --parallels--> CROSS-015
+- → `SWED-001` (develops): Inverse of: SWED-001 --developed_by--> CROSS-015
+- → `SWED-002` (develops): Inverse of: SWED-002 --developed_by--> CROSS-015
 
 ---
 
@@ -4964,10 +5983,12 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 3. [E] CONSC-045 (Return Reasons)
 
 **Connections**:
-- → `CROSS-015` (validates): Thesis is falsifiable, therefore scientific
-- → `CONSC-001` (validates): CDE hypothesis has specific falsification criteria
-- → `CROSS-011` (validates): Correspondence ontology makes testable predictions
-- → `CONSC-058` (opposes): Filter theory IS falsifiable and has been challenged by correspondence ontology
+- → `CROSS-015` (parallels): Thesis is falsifiable, therefore scientific
+- → `CONSC-001` (parallels): CDE hypothesis has specific falsification criteria
+- → `CROSS-011` (parallels): Correspondence ontology makes testable predictions
+- → `CONSC-058` (contrasts): Filter theory IS falsifiable and has been challenged by correspondence ontology
+- → `CROSS-021` (required_by): Inverse of: CROSS-021 --requires--> CROSS-016
+- → `SWED-051` (developed_by): Inverse of: SWED-051 --develops--> CROSS-016
 
 ---
 
@@ -4987,14 +6008,14 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 6. [S] SWED-037 (External Triangulation)
 
 **Connections**:
-- → `SWED-001` (validates): Correspondences doctrine empirically validated
-- → `SWED-037` (instantiates): External triangulation methodology in practice
-- → `CONSC-045` (supported_by): NDE correspondences validate prediction
-- → `CONSC-041` (supported_by): Birthmarks validate correspondence principle
-- → `CONSC-054` (supported_by): Spontaneous remission validates spiritual priority
-- → `CONSC-070` (supported_by): Unknown Presence validates anti-projection prediction
+- → `SWED-001` (integrated_from): Correspondences doctrine empirically validated
+- → `SWED-037` (integrated_from): External triangulation methodology in practice
+- → `CONSC-045` (parallels): NDE correspondences validate prediction
+- → `CONSC-041` (parallels): Birthmarks validate correspondence principle
+- → `CONSC-054` (parallels): Spontaneous remission validates spiritual priority
+- → `CONSC-070` (parallels): Unknown Presence validates anti-projection prediction
 - → `CROSS-011` (requires): Correspondence ontology is what''s being validated
-- → `CROSS-015` (validates): Empirical validation supports framework thesis
+- → `CROSS-015` (parallels): Empirical validation supports framework thesis
 
 ---
 
@@ -5014,13 +6035,14 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 6. [E] CONSC-070 (Unknown Presence)
 
 **Connections**:
-- → `BIBL-021` (requires): Sanders bedrock facts establish historical humanity
+- → `BIBL-021` (parallels): Sanders bedrock facts establish historical humanity
 - → `SWED-009` (requires): Glorification theology explains mechanism
-- → `SWED-014` (instantiates): Actual Jesus of Love is result of glorification
-- → `CONSC-008` (validated_by): Being of Light empirically validates glorified Jesus
-- → `CONSC-016` (validated_by): Personality match supports identity claim
+- → `SWED-014` (integrated_from): Actual Jesus of Love is result of glorification
+- → `CONSC-008` (develops): Being of Light empirically validates glorified Jesus
+- → `CONSC-016` (develops): Personality match supports identity claim
 - → `CROSS-005` (develops): Expands Jesus as Divine Human node
-- → `CROSS-001` (instantiates): Perfect example of two-tiered hermeneutic
+- → `CROSS-001` (parallels): Perfect example of two-tiered hermeneutic
+- → `SWED-050` (requires): Inverse of: SWED-050 --required_by--> CROSS-018
 
 ---
 
@@ -5040,11 +6062,11 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 
 **Connections**:
 - → `EARLY-012` (develops): Synthesizes implications of Jesus-Paul divergence
-- → `GNOS-003` (supported_by): Paul's Damascus vision as ego-driven gnosis
-- → `GNOS-005` (supported_by): Paul's gnostic theological patterns
-- → `CROSS-014` (instantiates): Proprium as universal mechanism—Paul IS the example
+- → `GNOS-003` (develops): Paul's Damascus vision as ego-driven gnosis
+- → `GNOS-005` (develops): Paul's gnostic theological patterns
+- → `CROSS-014` (parallels): Proprium as universal mechanism—Paul IS the example
 - → `SWED-024` (requires): Fourth Church needed because Paul corrupted Third
-- → `EARLY-001` (validates): Jamesian movement was original
+- → `EARLY-001` (complements): Jamesian movement was original
 - → `EARLY-003` (opposes): Pauline movement replaced original
 
 ---
@@ -5065,12 +6087,14 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 6. [T] CROSS-004 (21st-Century Validation)
 
 **Connections**:
-- → `SWED-024` (instantiates): Fourth Church theology being realized
+- → `SWED-024` (integrated_from): Fourth Church theology being realized
 - → `SWED-026` (requires): New Jerusalem as synthesis church
-- → `CROSS-004` (supported_by): 21st-century paradigm crisis validates timing
-- → `CROSS-015` (validates): Framework thesis as Fourth Church vessel
-- → `CONSC-001` (supported_by): CDE explains mechanism of church evolution
+- → `CROSS-004` (complements): 21st-century paradigm crisis validates timing
+- → `CROSS-015` (parallels): Framework thesis as Fourth Church vessel
+- → `CONSC-001` (parallels): CDE explains mechanism of church evolution
 - → `EARLY-012` (requires): Paul's corruption necessitates new vessel
+- → `SWED-049` (parallels): Inverse of: SWED-049 --parallels--> CROSS-020
+- → `SWED-057` (integrated_from): Inverse of: SWED-057 --integrates_into--> CROSS-020
 
 ---
 
@@ -5088,10 +6112,10 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 4. [T] .github/copilot-instructions.md
 
 **Connections**:
-- → `MYTH-001` (instantiates): Framework IS bricolage in action
+- → `MYTH-001` (integrated_from): Framework IS bricolage in action
 - → `MYTH-003` (parallels): Like Genesis authors, assembling new vessel from fragments
-- → `CROSS-001` (instantiates): Two-tiered hermeneutic is assembly principle
-- → `CROSS-015` (validates): Framework thesis is what bricolage produced
+- → `CROSS-001` (parallels): Two-tiered hermeneutic is assembly principle
+- → `CROSS-015` (parallels): Framework thesis is what bricolage produced
 - → `CROSS-016` (requires): Falsification criteria prevent bricolage from becoming syncretism
 
 ---
@@ -5112,13 +6136,13 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 6. [E] CONSC-041 (Birthmarks)
 
 **Connections**:
-- → `SWED-008` (instantiates): Regeneration theology validated by empirical healing data
-- → `CONSC-054` (supported_by): Spontaneous remission data validates regeneration mechanism
-- → `CONSC-004` (supported_by): NDE transformations show accelerated regeneration
+- → `SWED-008` (integrated_from): Regeneration theology validated by empirical healing data
+- → `CONSC-054` (parallels): Spontaneous remission data validates regeneration mechanism
+- → `CONSC-004` (parallels): NDE transformations show accelerated regeneration
 - → `CROSS-011` (requires): Correspondence ontology explains simultaneity
-- → `CROSS-012` (instantiates): Soul accumulation/refinement is the mechanism
-- → `CONSC-041` (validated_by): Birthmarks prove spiritual-physical simultaneity
-- → `CONSC-057` (validated_by): Terminal lucidity proves consciousness primacy
+- → `CROSS-012` (parallels): Soul accumulation/refinement is the mechanism
+- → `CONSC-041` (parallels): Birthmarks prove spiritual-physical simultaneity
+- → `CONSC-057` (parallels): Terminal lucidity proves consciousness primacy
 
 ---
 

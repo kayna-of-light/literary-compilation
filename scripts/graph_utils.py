@@ -38,6 +38,7 @@ Options:
     -t, --threshold  Confidence threshold (default: 0.50)
 """
 
+import sys
 import yaml
 import json
 import argparse
@@ -313,8 +314,8 @@ CONNECTION_TYPE_RULES = {
         # NO 'instantiates' going down
     ),
     ('concept', 'evidence'): (
-        {'contextualizes', 'explains'} | SYMMETRIC_OBSERVATIONAL
-        # NO epistemic - concept gets support from hypothesis, not evidence
+        set()  # NO CONNECTIONS ALLOWED - skip connections violate chain
+        # Evidence connects to hypothesis ONLY, never directly to concept
     ),
     ('concept', 'synthesis'): (
         {'integrates_into', 'develops', 'supports'} |  # Concepts FEED INTO synthesis
@@ -360,9 +361,8 @@ CONNECTION_TYPE_RULES = {
         # This is the key rule: evidence doesn't directly validate foundational
     ),
     ('evidence', 'concept'): (
-        CONTEXTUAL | SYMMETRIC_OBSERVATIONAL
-        # NO 'supports/validates' - evidence must go through hypothesis first
-        # Chain: Evidence → Hypothesis → Concept
+        set()  # NO CONNECTIONS ALLOWED - skip connections violate chain
+        # Evidence connects to hypothesis ONLY, never directly to concept
     ),
     ('evidence', 'hypothesis'): (
         {'supports', 'validates', 'instantiates'} |  # Core epistemic UP (one level)
@@ -1949,12 +1949,192 @@ def export_to_markdown(graph: dict) -> str:
     return "\n".join(lines)
 
 
+def add_connection(graph, source_id, target_id, conn_type, note=None, dry_run=False):
+    """
+    Add a connection with validation and automatic inverse creation.
+    
+    Returns:
+        dict with 'success', 'messages', 'changes' keys
+    """
+    result = {'success': False, 'messages': [], 'changes': []}
+    
+    # Get all nodes for lookup
+    all_nodes = {**graph.get('nodes', {}), **graph.get('extended_nodes', {})}
+    
+    # Validate source exists
+    if source_id not in all_nodes:
+        result['messages'].append(f"ERROR: Source node '{source_id}' not found")
+        return result
+    
+    # Validate target exists
+    if target_id not in all_nodes:
+        result['messages'].append(f"ERROR: Target node '{target_id}' not found")
+        return result
+    
+    source_node = all_nodes[source_id]
+    target_node = all_nodes[target_id]
+    source_type = source_node.get('node_type', 'unknown')
+    target_type = target_node.get('node_type', 'unknown')
+    
+    # Validate connection type is allowed
+    type_key = (source_type, target_type)
+    allowed_types = CONNECTION_TYPE_RULES.get(type_key, set())
+    
+    if conn_type not in allowed_types:
+        result['messages'].append(
+            f"ERROR: Connection type '{conn_type}' not allowed from {source_type} to {target_type}"
+        )
+        result['messages'].append(f"  Allowed types: {', '.join(sorted(allowed_types)) if allowed_types else 'none'}")
+        return result
+    
+    # Check if connection already exists
+    source_conns = source_node.get('connections', [])
+    for conn in source_conns:
+        if conn.get('target') == target_id and conn.get('type') == conn_type:
+            result['messages'].append(f"WARNING: Connection already exists: {source_id} --{conn_type}--> {target_id}")
+            result['success'] = True
+            return result
+    
+    # Determine inverse connection type
+    inverse_type = CONNECTION_INVERSES.get(conn_type)
+    if not inverse_type:
+        result['messages'].append(f"WARNING: No inverse defined for '{conn_type}', adding one-way connection only")
+    
+    # Prepare the forward connection
+    forward_conn = {'target': target_id, 'type': conn_type}
+    if note:
+        forward_conn['note'] = note
+    
+    # Prepare the inverse connection (if applicable)
+    inverse_conn = None
+    if inverse_type:
+        # Check if inverse already exists
+        target_conns = target_node.get('connections', [])
+        inverse_exists = any(
+            c.get('target') == source_id and c.get('type') == inverse_type 
+            for c in target_conns
+        )
+        if not inverse_exists:
+            inverse_conn = {'target': source_id, 'type': inverse_type}
+            if note:
+                inverse_conn['note'] = note
+    
+    # Report what will be done
+    result['changes'].append(f"ADD: {source_id} --{conn_type}--> {target_id}")
+    if inverse_conn:
+        result['changes'].append(f"ADD: {target_id} --{inverse_type}--> {source_id} (auto-inverse)")
+    elif inverse_type:
+        result['messages'].append(f"INFO: Inverse connection already exists: {target_id} --{inverse_type}--> {source_id}")
+    
+    if dry_run:
+        result['success'] = True
+        result['messages'].append("DRY RUN: No changes applied")
+        return result
+    
+    # Apply changes
+    # Find which section the source is in and modify
+    for section_name in ['nodes', 'extended_nodes']:
+        section = graph.get(section_name, {})
+        if source_id in section:
+            if 'connections' not in section[source_id]:
+                section[source_id]['connections'] = []
+            section[source_id]['connections'].append(forward_conn)
+            break
+    
+    # Add inverse connection if needed
+    if inverse_conn:
+        for section_name in ['nodes', 'extended_nodes']:
+            section = graph.get(section_name, {})
+            if target_id in section:
+                if 'connections' not in section[target_id]:
+                    section[target_id]['connections'] = []
+                section[target_id]['connections'].append(inverse_conn)
+                break
+    
+    result['success'] = True
+    result['messages'].append("Changes applied successfully")
+    return result
+
+
+def fix_missing_inverses(graph, dry_run=False):
+    """
+    Find and fix all missing inverse connections.
+    
+    Returns:
+        dict with 'fixed', 'skipped', 'messages' keys
+    """
+    result = {'fixed': [], 'skipped': [], 'messages': []}
+    
+    all_nodes = {**graph.get('nodes', {}), **graph.get('extended_nodes', {})}
+    
+    # Build a map of all existing connections for quick lookup
+    existing_conns = set()
+    for node_id, node in all_nodes.items():
+        for conn in node.get('connections', []):
+            target = conn.get('target')
+            ctype = conn.get('type')
+            if target and ctype:
+                existing_conns.add((node_id, target, ctype))
+    
+    # Find missing inverses
+    inverses_to_add = []
+    for node_id, node in all_nodes.items():
+        for conn in node.get('connections', []):
+            target = conn.get('target')
+            ctype = conn.get('type')
+            if not target or not ctype:
+                continue
+            
+            inverse_type = CONNECTION_INVERSES.get(ctype)
+            if not inverse_type:
+                continue
+            
+            # Check if inverse exists
+            if (target, node_id, inverse_type) not in existing_conns:
+                # Check if target exists
+                if target not in all_nodes:
+                    result['skipped'].append(f"{target} --{inverse_type}--> {node_id} (target not found)")
+                    continue
+                
+                inverses_to_add.append({
+                    'source': target,
+                    'target': node_id,
+                    'type': inverse_type,
+                    'original': f"{node_id} --{ctype}--> {target}"
+                })
+    
+    if dry_run:
+        result['messages'].append(f"DRY RUN: Would add {len(inverses_to_add)} inverse connections")
+        for inv in inverses_to_add:
+            result['fixed'].append(f"WOULD ADD: {inv['source']} --{inv['type']}--> {inv['target']} (inverse of {inv['original']})")
+        return result
+    
+    # Apply the fixes
+    for inv in inverses_to_add:
+        source_id = inv['source']
+        # Find the section and add
+        for section_name in ['nodes', 'extended_nodes']:
+            section = graph.get(section_name, {})
+            if source_id in section:
+                if 'connections' not in section[source_id]:
+                    section[source_id]['connections'] = []
+                section[source_id]['connections'].append({
+                    'target': inv['target'],
+                    'type': inv['type']
+                })
+                result['fixed'].append(f"ADDED: {source_id} --{inv['type']}--> {inv['target']} (inverse of {inv['original']})")
+                break
+    
+    result['messages'].append(f"Added {len(result['fixed'])} inverse connections")
+    return result
+
+
 def main():
     parser = argparse.ArgumentParser(description="Knowledge Graph Utilities")
     parser.add_argument('command', choices=[
         'stats', 'validate', 'audit', 'list', 'connections', 'untraced', 'export-md',
         'confidence', 'score', 'low-confidence', 'needs-extraction', 'persist-scores',
-        'chain-check', 'warnings'
+        'chain-check', 'warnings', 'add-connection', 'fix-inverses'
     ])
     parser.add_argument('--domain', '-d', help="Filter by domain ID")
     parser.add_argument('--json', '-j', action='store_true', help="Output as JSON")
@@ -1964,6 +2144,11 @@ def main():
     parser.add_argument('--output', '-o', help="Write output to file instead of console")
     parser.add_argument('--type', help="Warning type filter for warnings command (epistemic_spread, insufficient_evidence, insufficient_integration, invalid_connection, missing_inverse, chain_incomplete)")
     parser.add_argument('--limit', '-n', type=int, default=50, help="Max warnings to show (default: 50)")
+    parser.add_argument('--dry-run', action='store_true', help="Preview changes without applying (for add-connection, fix-inverses)")
+    parser.add_argument('--source', '-s', help="Source node ID (for add-connection)")
+    parser.add_argument('--target', '-T', help="Target node ID (for add-connection)")
+    parser.add_argument('--conn-type', '-c', help="Connection type (for add-connection)")
+    parser.add_argument('--note', help="Optional note for connection (for add-connection)")
     parser.add_argument('node_id', nargs='?', help="Node ID for score command")
     
     args = parser.parse_args()
@@ -2481,6 +2666,57 @@ def main():
         
         if len(filtered) > args.limit:
             output(f"\n  ... {len(filtered) - args.limit} more (use --limit/-n to show more)")
+
+    elif args.command == 'add-connection':
+        # Add a new connection with validation and auto-inverse
+        if not args.source or not args.target or not args.conn_type:
+            output("ERROR: add-connection requires --source, --target, and --conn-type")
+            output("\nUsage: python graph_utils.py add-connection --source NODE_ID --target NODE_ID --conn-type TYPE [--note \"note\"] [--dry-run]")
+            output("\nExample: python graph_utils.py add-connection -s SWED-001 -T CONSC-001 -c supports --dry-run")
+            sys.exit(1)
+        
+        result = add_connection(graph, args.source, args.target, args.conn_type, 
+                               note=args.note, dry_run=args.dry_run)
+        
+        if result['changes']:
+            output("\n=== Changes ===")
+            for change in result['changes']:
+                output(f"  {change}")
+        
+        if result['messages']:
+            output("\n=== Messages ===")
+            for msg in result['messages']:
+                output(f"  {msg}")
+        
+        if result['success'] and not args.dry_run:
+            # Save the graph
+            save_graph(graph)
+            output(f"\nSaved to {GRAPH_PATH}")
+
+    elif args.command == 'fix-inverses':
+        # Fix all missing inverse connections
+        result = fix_missing_inverses(graph, dry_run=args.dry_run)
+        
+        if result['fixed']:
+            output(f"\n=== {'Would Fix' if args.dry_run else 'Fixed'} ({len(result['fixed'])}) ===")
+            for fix in result['fixed'][:20]:
+                output(f"  {fix}")
+            if len(result['fixed']) > 20:
+                output(f"  ... and {len(result['fixed']) - 20} more")
+        
+        if result['skipped']:
+            output(f"\n=== Skipped ({len(result['skipped'])}) ===")
+            for skip in result['skipped'][:10]:
+                output(f"  {skip}")
+            if len(result['skipped']) > 10:
+                output(f"  ... and {len(result['skipped']) - 10} more")
+        
+        for msg in result['messages']:
+            output(f"\n{msg}")
+        
+        if not args.dry_run and result['fixed']:
+            save_graph(graph)
+            output(f"\nSaved to {GRAPH_PATH}")
 
 
 if __name__ == '__main__':

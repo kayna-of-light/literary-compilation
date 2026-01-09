@@ -286,6 +286,46 @@ python scripts/graph_utils.py list -d CONSC  # List by domain
 python scripts/graph_utils.py untraced       # Show untraced claims
 python scripts/graph_utils.py export-md      # Regenerate markdown
 python scripts/graph_utils.py warnings --type TYPE  # Show specific warnings
+
+# Connection management (auto-validates type rules, auto-adds inverse):
+python scripts/graph_utils.py add-connection -s SOURCE -T TARGET -c TYPE [--note "note"] [--dry-run]
+python scripts/graph_utils.py fix-inverses [--dry-run]  # Add all missing inverse connections
+```
+
+### Connection Management Commands
+
+#### `add-connection` — Add a validated connection with auto-inverse
+
+Validates the connection type against `CONNECTION_TYPE_RULES` matrix and automatically adds the inverse connection.
+
+**Usage:**
+```bash
+python scripts/graph_utils.py add-connection -s SWED-001 -T CONSC-001 -c parallels --dry-run
+python scripts/graph_utils.py add-connection --source BIBL-005 --target BIBL-001 --conn-type supports --note "HCM analysis supports"
+```
+
+**Arguments:**
+- `-s/--source`: Source node ID (required)
+- `-T/--target`: Target node ID (required)  
+- `-c/--conn-type`: Connection type (required, validated against rules)
+- `--note`: Optional note for the connection
+- `--dry-run`: Preview changes without applying
+
+**Behavior:**
+1. Validates source and target nodes exist
+2. Validates connection type is allowed for the source→target node_type pair
+3. Creates the forward connection
+4. Automatically creates the inverse connection (e.g., `supports` → `supported_by`)
+5. Reports all changes made
+
+#### `fix-inverses` — Bulk fix all missing inverse connections
+
+Scans all connections and adds missing inverse connections based on `CONNECTION_INVERSES` mapping.
+
+**Usage:**
+```bash
+python scripts/graph_utils.py fix-inverses --dry-run  # Preview what would be fixed
+python scripts/graph_utils.py fix-inverses            # Apply fixes
 ```
 
 ### Connection Validation System
@@ -336,7 +376,7 @@ Evidence → Hypothesis → Concept → Foundational
 
 **⚠️ PREREQUISITE: Read the source document(s) first. Do not create nodes from titles or summaries.**
 
-1. **Read the source document** — Understand the actual claims being made
+1. **Read the full source document** — Understand the actual claims being made
 2. **Check for existing nodes** — Search the graph before creating duplicates
 3. **Identify the proper chain level** — Is this foundational, concept, hypothesis, or evidence?
 4. **Check for missing intermediate nodes** — If evidence, what hypothesis does it support? If hypothesis, what concept?

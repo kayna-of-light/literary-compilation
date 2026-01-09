@@ -5914,6 +5914,9 @@ extended_nodes:
     - note: 'Inverse of: CROSS-010 --requires--> SWED-044'
       target: CROSS-010
       type: developed_by
+    - note: 'Inverse of: CONSC-104 --requires--> SWED-044'
+      target: CONSC-104
+      type: required_by
     created: 2026-01-02
     definition: 'In Swedenborg''s psychological ontology, the Will is causally prior
       to the  Understanding—not merely parallel to it. The Will (love, affection,
@@ -6084,6 +6087,12 @@ extended_nodes:
       type: supported_by
     - target: SWED-003
       type: contextualizes
+    - note: 'Inverse of: CONSC-104 --develops--> SWED-046'
+      target: CONSC-104
+      type: developed_by
+    - target: SWED-021
+      type: supports
+      note: Organ-faculty correspondences operationalize Maximus Homo doctrine
     created: 2026-01-02
     definition: 'HYPOTHESIS: Specific organ systems correspond to specific spiritual
       faculties,  such that disorders of the faculty create vulnerability in the corresponding  organ.
@@ -6188,6 +6197,9 @@ extended_nodes:
       type: supported_by
     - note: 'Inverse of: SWED-057 --develops--> SWED-047'
       target: SWED-057
+      type: developed_by
+    - note: 'Inverse of: CONSC-104 --develops--> SWED-047'
+      target: CONSC-104
       type: developed_by
     created: 2026-01-02
     definition: 'NORMATIVE DEFINITION within the correspondential framework: "True
@@ -6517,7 +6529,7 @@ extended_nodes:
     - note: Two-tiered epistemology requires distinguishing framework from applications
       target: CROSS-001
       type: requires
-    - note: Falsification criteria apply to Swedenborg's specific claims
+    - note: Hypothesis-testing methodology grounds falsification criteria
       target: CROSS-016
       type: develops
     - note: Correspondence doctrine is framework to test, not dogma to defend
@@ -10937,7 +10949,10 @@ nodes:
       note: Paleoanthropology provides evolutionary basis
     - target: SWED-005
       type: described_by
-    created: 2024-12-28
+    - target: SWED-006
+      type: supports
+      note: Cognitive Fall describes transition FROM Most Ancient Church state
+    created: '2024-12-28'
     definition: 'A synthesis of Swedenborgian theology, paleoanthropology, and cognitive
       science proposing that the biblical "Fall" represents a multi-millennial cognitive
       transition from internal, intuitive perception to external, conceptual understanding.
@@ -13877,6 +13892,9 @@ nodes:
       type: required_by
     - target: CONSC-102
       type: parallels
+    - note: 'Inverse of: CONSC-104 --supports--> CROSS-011'
+      target: CONSC-104
+      type: contextualizes
     created: '2026-01-08'
     definition: 'All physical substance is a direct expression of spiritual substance.
       There is no separation. The soul clothes itself with spiritual substances (loves,
@@ -13984,6 +14002,9 @@ nodes:
     - note: 'Inverse of: SWED-051 --parallels--> CROSS-012'
       target: SWED-051
       type: parallels
+    - note: 'Inverse of: CONSC-105 --supports--> CROSS-012'
+      target: CONSC-105
+      type: develops
     created: '2026-01-08'
     definition: 'The body is not a perfect reflection of the soul''s intrinsic state—it''s
       a mosaic. The soul clothes itself with accumulated substances: heredity received,
@@ -14307,6 +14328,9 @@ nodes:
     - note: 'Inverse of: CROSS-021 --parallels--> CROSS-015'
       target: CROSS-021
       type: parallels
+    - note: 'Inverse of: CROSS-038 --supports--> CROSS-015'
+      target: CROSS-038
+      type: develops
     created: '2026-01-08'
     definition: 'The central thesis of The Divine Bricolage: Every natural object,
       event, and narrative is a correspondence—a direct expression of spiritual reality
@@ -14407,6 +14431,9 @@ nodes:
     - note: 'Inverse of: SWED-051 --develops--> CROSS-016'
       target: SWED-051
       type: developed_by
+    - note: 'Inverse of: CROSS-039 --supports--> CROSS-016'
+      target: CROSS-039
+      type: develops
     created: '2026-01-08'
     current_status:
       correspondence: Patterns hold across NDE, past-life, spontaneous remission,
@@ -15229,6 +15256,9 @@ nodes:
     - note: Threefold path maps to Normative Path
       target: CONSC-030
       type: parallels
+    - note: 'Inverse of: CONSC-106 --supports--> CROSS-024'
+      target: CONSC-106
+      type: develops
     created: '2026-01-09'
     definition: The standard linear afterlife progression (Passage -> World of Spirits
       -> Self-Sort based on Ruling Love -> Heaven/Hell).
@@ -20479,6 +20509,9 @@ nodes:
     - note: 'Inverse of: SWED-075 --developed_from--> SWED-006'
       target: SWED-075
       type: develops
+    - note: 'Inverse of: CONSC-015 --supports--> SWED-006'
+      target: CONSC-015
+      type: supported_by
     - note: Audit chain repair
       target: SWED-001
       type: developed_by
@@ -21484,6 +21517,9 @@ nodes:
     - note: Structural connection to foundational parent
       target: SWED-009
       type: developed_by
+    - note: 'Inverse of: SWED-046 --supports--> SWED-021'
+      target: SWED-046
+      type: supported_by
     created: 2024-12-27
     definition: 'The Maximus Homo is the foundational ontological principle that all
       of heaven is organized in the form of a single human body—the Divine Human.
@@ -24600,6 +24636,92 @@ nodes:
     created: '2026-01-09'
     updated: '2026-01-09'
     confidence: 0.831
+  CROSS-038:
+    domain: CROSS
+    node_type: concept
+    title: 'Pattern Organization Principle'
+    definition: >
+      The core empirical observation supporting the framework thesis: when Swedenborg's
+      correspondential hypothesis from 1758 is applied to 21st-century empirical data,
+      patterns emerge that were not visible before. The "noise vanishes." Specifically:
+      (1) NDE imagery varies culturally, but functional outcomes converge—variable forms,
+      constant states; (2) Past-life memory cases cluster around violent death (70%+)—
+      organized by Restorative Incarnation; (3) Return reasons discriminate mission from
+      non-mission with 94.6% accuracy; (4) HCM findings organize naturally under
+      correspondence interpretation. This is not confirmation bias but hypothesis testing:
+      a theory from 1758 either organizes 2026 data better than alternatives, or it doesn't.
+    status: validated
+    connections:
+    - target: CROSS-015
+      type: supports
+      note: Core observation supporting the framework thesis
+    - target: CROSS-017
+      type: requires
+      note: Empirical validation provides the data for pattern observation
+    - target: CONSC-020
+      type: develops
+      note: Restorative incarnation clustering is pattern example
+    source_chain:
+    - type: T
+      ref: data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md
+      note: 'Primary articulation: "patterns emerge that weren''t visible before"'
+    - type: T
+      ref: .github/copilot-instructions.md
+      note: 'Methodological stance: "The noise vanishes. This is inquiry, not ideology."'
+    evidence:
+    - 'NDE convergence: 51.9% Unknown Presence despite Christian context'
+    - 'DOPS clustering: 70%+ violent death in strongest cases'
+    - 'Mission discrimination: 94.6% accuracy in distinguishing soul paths'
+    - 'HCM integration: Markan priority, Q, WNIs organize under correspondence'
+    trace_status: complete
+    created: '2026-01-09'
+    updated: '2026-01-09'
+    confidence: 0.3
+  CROSS-039:
+    domain: CROSS
+    node_type: concept
+    title: 'Testable Framework Predictions'
+    definition: >
+      The operationalized falsification criteria for the Divine Bricolage framework.
+      Five specific testable predictions that, if violated, would disprove the framework:
+      (1) CORRESPONDENCE PREDICTION - natural phenomena must correspond to spiritual realities
+      as predicted; NDE transformations must correlate with ruling love shifts;
+      (2) INFLUX PREDICTION - consciousness must be expressed through physical substrates,
+      not produced by them; terminal lucidity, birthmarks support expression model;
+      (3) REGENERATION PREDICTION - spiritual transformation must involve change in ruling
+      love (self→neighbor); NDErs must show sustained orientation shift;
+      (4) STATISTICAL PREDICTION - patterns (94.6% mission discrimination, 70%+ violent
+      death clustering) must hold under rigorous replication;
+      (5) COHERENCE PREDICTION - Swedenborgian theology must be internally consistent
+      and systematizable. Each prediction is operationalized with specific metrics.
+    status: validated
+    connections:
+    - target: CROSS-016
+      type: supports
+      note: Operationalizes the foundational falsification criteria
+    - target: CROSS-038
+      type: parallels
+      note: Pattern organization is what the predictions test
+    - target: CONSC-001
+      type: supports
+      note: CDE provides specific testable mechanisms for influx prediction
+    source_chain:
+    - type: T
+      ref: .github/copilot-instructions.md
+      note: 'Methodological stance: "following data, not ideology"'
+    - type: T
+      ref: data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md
+      note: Framework predictions articulated throughout
+    evidence:
+    - 'Correspondence: NDE imagery converges functionally despite cultural variation'
+    - 'Influx: Terminal lucidity shows enhanced consciousness during brain failure'
+    - 'Regeneration: NDE transformations show sustained ruling love shifts'
+    - 'Statistical: Patterns hold across replications so far'
+    - 'Coherence: Framework has been systematized in knowledge graph'
+    trace_status: complete
+    created: '2026-01-09'
+    updated: '2026-01-09'
+    confidence: 0.3
   EARLY-024:
     domain: EARLY
     node_type: evidence
@@ -26093,6 +26215,144 @@ nodes:
     created: '2026-01-09'
     updated: '2026-01-09'
     confidence: 0.705
+  CONSC-104:
+    domain: CONSC
+    node_type: concept
+    title: 'Spiritual-Physical Healing Correspondence'
+    definition: >
+      Under correspondence ontology, spiritual transformation IS physical healing—not
+      spiritual causing physical, not spiritual manifesting as physical, but ONE EVENT
+      perceived at different levels. When the spiritual cause changes, the physical
+      effect must reorganize to match. The body, having no independent life, obeys the
+      spiritual substance animating it. "The blind see, the lame walk" in the Gospels
+      describes spiritual states being transformed, which IS physical transformation.
+      This concept operationalizes CROSS-011 (Correspondence Ontology) specifically
+      for healing phenomena, providing the conceptual bridge between the foundational
+      ontology and testable hypotheses about organ-faculty correspondences.
+    status: validated
+    connections:
+    - target: CROSS-011
+      type: supports
+      note: Specific application of correspondence ontology to healing domain
+    - target: SWED-046
+      type: develops
+      note: Concept develops into organ-faculty hypothesis
+    - target: SWED-047
+      type: develops
+      note: Concept develops into true vs physical healing hypothesis
+    - target: SWED-044
+      type: requires
+      note: Will-understanding priority grounds causal direction
+    source_chain:
+    - type: T
+      ref: data/00_Framework/Epistle - The Divine Marriage and the Expression of the Lord in Ultimates.md
+      note: 'Primary source: "spiritual healing expressed itself in ultimates as physical healing"'
+    - type: P
+      ref: Swedenborg, Divine Love and Wisdom §§ 83-85
+      note: Physical as expression of spiritual—foundational correspondence doctrine
+    - type: P
+      ref: Swedenborg, Heaven and Hell §§ 545-550
+      note: Body IS soul in ultimates
+    evidence:
+    - '85.5% transformation-first in clear temporal cases (CONSC-054)'
+    - 'Bidirectional validation: birthmarks (negative) + healing (positive)'
+    - 'Disease-transformation specificity matches correspondential predictions'
+    - 'NDE healing shows near-instantaneous tissue reorganization'
+    trace_status: complete
+    created: '2026-01-09'
+    updated: '2026-01-09'
+    confidence: 0.3
+  CONSC-105:
+    domain: CONSC
+    node_type: concept
+    title: 'Spiritual Accumulation Expression'
+    definition: >
+      The body is not a perfect reflection of the soul's intrinsic state—it is a mosaic
+      of accumulated spiritual substances. The soul clothes itself with three types of
+      accumulation: (1) HEREDITARY - spiritual tendencies received through lineage that
+      express physically; (2) ENVIRONMENTAL - loves and truths accepted from external
+      sources; (3) PENETRATED - falsities and evils that enter through vulnerabilities
+      in the spiritual state. This explains the paradox of spiritual people getting sick:
+      disease often corresponds to accumulated falsity or penetrated evil, not the soul's
+      true spiritual state. Physical patterns correspond to spiritual substances the soul
+      has CLOTHED ITSELF WITH or that have PENETRATED through vulnerabilities.
+    status: validated
+    connections:
+    - target: CROSS-012
+      type: supports
+      note: Operationalizes the soul accumulation foundational principle
+    - target: CONSC-020
+      type: develops
+      note: Restorative incarnation = soul carrying accumulated trauma
+    - target: SWED-045
+      type: requires
+      note: Vulnerability model explains penetration mechanism
+    - target: SWED-008
+      type: parallels
+      note: Regeneration = shedding accumulated falsities
+    source_chain:
+    - type: T
+      ref: data/00_Framework/Epistle - The Divine Marriage and the Expression of the Lord in Ultimates.md
+      note: 'Primary source: "The body is a mosaic" - heredity, environment, loves, falsities'
+    - type: P
+      ref: Swedenborg, Arcana Coelestia § 1050
+      note: Hereditary evil received, not intrinsic to soul
+    - type: P
+      ref: Swedenborg, Divine Love and Wisdom §§ 296-301
+      note: Receptivity and vulnerability in spiritual states
+    evidence:
+    - 'Birthmarks from past-life wounds—soul carries accumulated trauma that expresses physically'
+    - 'Hereditary disease patterns—spiritual tendencies received through lineage'
+    - 'NDE transformations include physical healing—refinement = shedding false accumulations'
+    - 'Spontaneous remission follows spiritual transformation—accumulated, not intrinsic'
+    trace_status: complete
+    created: '2026-01-09'
+    updated: '2026-01-09'
+    confidence: 0.3
+  CONSC-106:
+    domain: CONSC
+    node_type: concept
+    title: 'Afterlife Path Structure'
+    definition: >
+      The operationalized model of the standard post-mortem trajectory: (1) THE PASSAGE -
+      the orderly, peaceful separation from the body and travel toward light, correlating
+      with Swedenborg's angelic reception designed to prevent ontological shock;
+      (2) THE ORIENTATION - arrival in earthly-like settings (World of Spirits), a
+      divine provision for acclimatization before spiritual sorting; (3) THE UNVEILING -
+      the Life Review as divinely engineered psycho-spiritual technology that makes the
+      ruling love (amor regnans) irrefutably manifest to the soul; (4) THE INTEGRATION -
+      the free gravitational sorting into spiritual societies matching internal state.
+      This is the "Normative Path" - the standard trajectory for most souls (~95%).
+    status: validated
+    connections:
+    - target: CROSS-024
+      type: supports
+      note: Operationalizes the Normative Path foundational principle
+    - target: CONSC-005
+      type: develops
+      note: Hybrid model encompasses the normative path structure
+    - target: CROSS-003
+      type: requires
+      note: Ruling Love is what the path reveals and sorts by
+    source_chain:
+    - type: T
+      ref: data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md
+      note: 'Part 3.1: The Normative Path (A Linear Unfolding)'
+    - type: P
+      ref: Swedenborg, Heaven and Hell §§ 421-535
+      note: World of Spirits doctrine and self-sorting process
+    - type: E
+      ref: van Lommel, Pim. Consciousness Beyond Life (2007)
+      note: NDE phenomenology correlating with path stages
+    evidence:
+    - 'NDE tunnel/light reports match Swedenborg passage description'
+    - 'Life review unveils character - self-judgment, not external judgment'
+    - 'Otherworldly settings match World of Spirits orientation phase'
+    - '~95% population estimate for normative continuation'
+    trace_status: complete
+    created: '2026-01-09'
+    updated: '2026-01-09'
+    confidence: 0.3
   SWED-079:
     domain: SWED
     node_type: evidence

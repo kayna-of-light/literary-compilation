@@ -243,6 +243,32 @@ When editing or extending the framework:
 
 The file `graph/knowledge_graph.yaml` is the **primary artifact** of this project — a structured knowledge base of interconnected concepts. The markdown file `graph/knowledge_graph.md` is auto-generated for GitHub viewing. Agents must actively maintain this graph during framework development.
 
+### ⚠️ CRITICAL: Document-First Methodology
+
+**Before making ANY change to the knowledge graph, READ THE SOURCE DOCUMENTS.**
+
+The knowledge graph encodes knowledge FROM source documents. It is NOT an independent artifact to be wired together based on titles and definitions. When gaps, broken chains, or missing connections are identified:
+
+1. **DO NOT** try to "fix" connections based on node titles alone
+2. **DO NOT** create evidence nodes by inventing content
+3. **DO NOT** delete connections without understanding why they existed
+4. **DO** read the source document(s) referenced in the node's `source_chain`
+5. **DO** understand what the document actually claims before modifying
+
+**The Core Mistake to Avoid:**
+When a validator shows "broken chain" or "missing connection," the fix is NOT to mechanically wire nodes together. The fix is to:
+1. Read the source document that created the node
+2. Understand what structure the document implies
+3. Create any missing intermediate nodes (usually hypotheses)
+4. Then make proper connections based on document understanding
+
+**Why This Matters:**
+- Evidence nodes connected directly to concepts = missing hypothesis layer
+- Hypothesis nodes without evidence = evidence not yet extracted from documents
+- Orphaned nodes = the concept they should connect to doesn't exist yet
+
+**See `docs/plans/knowledge_graph_repair_plan.md` for the phased repair methodology.**
+
 ### Architecture
 
 | File | Purpose | Edit? |
@@ -308,12 +334,32 @@ Evidence → Hypothesis → Concept → Foundational
 
 ### Node Addition Protocol
 
-1. **Check for existing nodes** — Search the graph before creating duplicates
-2. **Assign domain and ID** — Use format `DOMAIN-###` (e.g., `CORR-001`, `NDE-003`)
-3. **Write clear definition** — One or two sentences capturing the core claim
-4. **Document source chain** — Trace to original sources (see below)
-5. **Establish connections** — Link to related nodes bidirectionally
-6. **Set status** — Preliminary, Validated, or Contested
+**⚠️ PREREQUISITE: Read the source document(s) first. Do not create nodes from titles or summaries.**
+
+1. **Read the source document** — Understand the actual claims being made
+2. **Check for existing nodes** — Search the graph before creating duplicates
+3. **Identify the proper chain level** — Is this foundational, concept, hypothesis, or evidence?
+4. **Check for missing intermediate nodes** — If evidence, what hypothesis does it support? If hypothesis, what concept?
+5. **Create missing nodes first** — Build the chain from top down before connecting bottom up
+6. **Assign domain and ID** — Use format `DOMAIN-###` (e.g., `CORR-001`, `NDE-003`)
+7. **Write clear definition** — One or two sentences capturing the core claim (from the document)
+8. **Document source chain** — Trace to original sources (see below)
+9. **Establish connections** — Link to related nodes bidirectionally (NO skip connections)
+10. **Set status** — Preliminary, Validated, or Contested
+
+### Gap Repair Protocol
+
+When validator warnings indicate problems (chain_incomplete, missing_inverse, etc.):
+
+1. **Check the node's source_chain** — What document created this node?
+2. **Read that document** — Understand the full context
+3. **Diagnose the actual problem:**
+   - Evidence→Concept connection? **Missing hypothesis node**
+   - Hypothesis without concept connection? **Missing concept node or wrong connection**
+   - Orphaned node? **The parent it should connect to doesn't exist yet**
+4. **Create missing intermediate nodes** — Based on what the document actually says
+5. **Then fix connections** — Only after the proper chain structure exists
+6. **Validate** — Run `python scripts/graph_utils.py validate`
 
 ### Source Tracing Protocol (CRITICAL)
 

@@ -2016,19 +2016,33 @@ def load_payload_source(inline: str = None, path: str = None) -> dict:
     return data
 
 
-def apply_graph_update(new_graph: dict) -> dict:
-    """Validate and save the graph; return validation summary."""
+def apply_graph_update(new_graph: dict, focus_nodes: list | None = None) -> dict:
+    """Validate and save the graph; optionally focus warnings on specific nodes."""
     validation = validate_graph(new_graph, verbose=False)
+
+    # When focus_nodes is provided (e.g., add-node/update-node), only surface warnings
+    # that mention the affected node(s) plus a summary of suppressed items.
+    warnings = validation['warnings']
+    if focus_nodes:
+        focus_set = set(focus_nodes)
+        filtered = [w for w in warnings if any(fn in w for fn in focus_set)]
+        suppressed = len(warnings) - len(filtered)
+        warnings = filtered
+        if suppressed:
+            warnings.append(
+                f"[INFO] {suppressed} warnings for other nodes suppressed; run 'python scripts/graph_utils.py validate' for full report."
+            )
+
     if not validation['passed']:
         return {
             'success': False,
             'errors': validation['issues'],
-            'warnings': validation['warnings'],
+            'warnings': warnings,
         }
     save_graph(new_graph)
     return {
         'success': True,
-        'warnings': validation['warnings'],
+        'warnings': warnings,
         'summary': validation['summary'],
     }
 
@@ -2069,7 +2083,7 @@ def add_node(graph: dict, payload: dict, section: str = 'nodes', node_id: str = 
     new_graph = deepcopy(graph)
     new_graph.setdefault(section, {})[assigned_id] = new_node
 
-    return apply_graph_update(new_graph) | {'node_id': assigned_id}
+    return apply_graph_update(new_graph, focus_nodes=[assigned_id]) | {'node_id': assigned_id}
 
 
 def update_node(graph: dict, node_id: str, payload: dict) -> dict:
@@ -2086,7 +2100,7 @@ def update_node(graph: dict, node_id: str, payload: dict) -> dict:
                 return {'success': False, 'errors': ["Domain change not allowed via update-node (create a new node instead)"]}
             merged['updated'] = datetime.now().strftime('%Y-%m-%d')
             new_graph[section_name][node_id] = merged
-            result = apply_graph_update(new_graph)
+            result = apply_graph_update(new_graph, focus_nodes=[node_id])
             result['node_id'] = node_id
             return result
     return {'success': False, 'errors': [f"Node not found: {node_id}"]}
@@ -2111,7 +2125,7 @@ def delete_node(graph: dict, node_id: str, prune: bool = True) -> dict:
                 conns = node.get('connections', []) or []
                 node['connections'] = [c for c in conns if c.get('target') != node_id]
 
-    return apply_graph_update(new_graph) | {'node_id': node_id}
+    return apply_graph_update(new_graph, focus_nodes=[node_id]) | {'node_id': node_id}
 
 
 def get_node(graph: dict, node_id: str) -> dict:

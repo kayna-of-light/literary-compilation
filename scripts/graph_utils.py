@@ -280,18 +280,19 @@ CONNECTION_TYPE_RULES = {
         # NO 'instantiates' - that's epistemic UP
     ),
     ('foundational', 'hypothesis'): (
-        CONTEXTUAL | SYMMETRIC_OBSERVATIONAL
+        set()  # NO CONNECTIONS ALLOWED - skip connections violate chain
         # NO 'develops/produces' - foundational develops CONCEPT, concept develops hypothesis
         # Development chain: Foundational → Concept → Hypothesis (no skipping)
     ),
     ('foundational', 'evidence'): (
-        SYMMETRIC_OBSERVATIONAL | {'contextualizes'}
+        set()  # NO CONNECTIONS ALLOWED - skip connections violate chain
         # VERY LIMITED - foundational doesn't directly touch evidence
         # NO instantiated_by - evidence doesn't instantiate foundational directly
     ),
     ('foundational', 'synthesis'): (
         STRUCTURAL | CONTEXTUAL | SYMMETRIC_OBSERVATIONAL |
-        {'parallels', 'contrasts'}  # Peer relationship - foundational doesn't develop synthesis
+        {'parallels', 'contrasts'}  # Peer relationship
+        # Peer relationship - foundational doesn't develop synthesis
         # NO 'develops' - synthesis emerges from concepts, not from foundational
     ),
 
@@ -325,8 +326,7 @@ CONNECTION_TYPE_RULES = {
 
     # === HYPOTHESIS → * ===
     ('hypothesis', 'foundational'): (
-        {'developed_by'} |  # Reverse development only
-        CONTEXTUAL | SYMMETRIC_OBSERVATIONAL
+        set()  # NO CONNECTIONS ALLOWED - skip connections violate chain
         # NO 'supports' - hypothesis supports CONCEPT, not foundational
         # NO 'instantiates' - that's epistemic, must go through concept
     ),
@@ -337,7 +337,6 @@ CONNECTION_TYPE_RULES = {
     ),
     ('hypothesis', 'hypothesis'): (
         SYMMETRIC_OBSERVATIONAL | OPPOSITION | STRUCTURAL | COMPLEMENT | CONTEXTUAL |
-        {'develops', 'developed_by', 'developed_from'} |
         {'supports', 'supported_by', 'validates', 'validated_by'} |  # Peer OK
         SEQUENCE
     ),
@@ -348,7 +347,7 @@ CONNECTION_TYPE_RULES = {
         # Hypothesis RECEIVES from evidence, doesn't give to it
     ),
     ('hypothesis', 'synthesis'): (
-        STRUCTURAL | CONTEXTUAL | SYMMETRIC_OBSERVATIONAL
+        set()  # NO CONNECTIONS ALLOWED - skip connections violate chain
         # NO 'supports' - hypothesis must support CONCEPT, which then integrates into synthesis
         # Chain: Evidence → Hypothesis → Concept → Synthesis (no skipping)
     ),
@@ -356,7 +355,7 @@ CONNECTION_TYPE_RULES = {
     # === EVIDENCE → * ===
     # CRITICAL: Evidence PROVIDES support UP, NEVER receives epistemic support
     ('evidence', 'foundational'): (
-        CONTEXTUAL | SYMMETRIC_OBSERVATIONAL
+        set()  # NO CONNECTIONS ALLOWED - skip connections violate chain
         # NO 'supports/validates' - evidence must go through hypothesis→concept first
         # This is the key rule: evidence doesn't directly validate foundational
     ),
@@ -371,13 +370,12 @@ CONNECTION_TYPE_RULES = {
     ),
     ('evidence', 'evidence'): (
         SYMMETRIC_OBSERVATIONAL | OPPOSITION | STRUCTURAL | COMPLEMENT |
-        {'supports', 'supported_by', 'validates', 'validated_by'} |  # Cross-validation OK
-        {'develops', 'developed_by', 'developed_from'} |
+        {'supports', 'supported_by', 'validates', 'validated_by'} | 
         {'reveals', 'revealed_by', 'produces', 'produced_by'} |
         SEQUENCE
     ),
     ('evidence', 'synthesis'): (
-        CONTEXTUAL | SYMMETRIC_OBSERVATIONAL
+        set()  # NO CONNECTIONS ALLOWED - skip connections violate chain
         # Evidence does NOT directly support synthesis - must go through hypothesis→concept chain
         # Synthesis draws from validated concepts, not raw evidence
     ),
@@ -401,7 +399,7 @@ CONNECTION_TYPE_RULES = {
         # NO 'supports' - synthesis doesn't validate research questions
     ),
     ('synthesis', 'evidence'): (
-        CONTEXTUAL | SYMMETRIC_OBSERVATIONAL
+        set()  # NO CONNECTIONS ALLOWED - skip connections violate chain
         # Synthesis doesn't directly interact with evidence
         # It draws from concepts which are supported by evidence via chain
     ),

@@ -295,7 +295,7 @@ nodes:
       type: develops
       note: 'Concept: anticipated judgment met with love; evidence refines into testable
         hypothesis'
-    confidence: 0.3
+    confidence: 0.7
     critic_notes:
       last_reviewed: '2026-01-09'
       critiques: []
@@ -331,7 +331,7 @@ nodes:
     - target: CONSC-107
       type: develops
       note: 'Concept: objective core encounter rendered through cultural labels'
-    confidence: 0.3
+    confidence: 0.7
     critic_notes:
       last_reviewed: '2026-01-09'
       critiques: []
@@ -552,6 +552,10 @@ nodes:
     - target: SWED-001
       type: parallels
       note: Two-tiered epistemology integrates Correspondences as spiritual tier
+    - target: CONSC-018
+      type: develops
+      note: Provides a neurocognitive grounding for the two-tiered method (analytic/fragmenting
+        vs holistic/relational modes).
     confidence: 0.3
   CROSS-024:
     created: '2026-01-09'
@@ -1757,31 +1761,6 @@ nodes:
     updated: '2026-01-10'
     id: CONSC-005
     connections: []
-  CONSC-006:
-    confidence: 0.3
-    created: 2024-12-27
-    definition: 'McGilchrist''s model of brain hemispheric asymmetry: the right hemisphere
-      ("Master") perceives holistic, relational context while the left ("Emissary")
-      analyzes decontextualized parts. The Emissary''s usurpation leads to a fragmented
-      worldview. Framework: neurological substrate of proprium mechanics.
-
-      '
-    domain: CONSC
-    node_type: concept
-    notes: 'Provides neurological grounding for framework''s spiritual psychology.
-      The divided brain as biological substrate of the two paths.
-
-      '
-    source_chain:
-    - note: Framework synthesis
-      ref: data/01_Consciousness_Studies/Brain, Myth, and Conscious Choice.md
-      type: T
-    status: validated
-    title: Hemispheric Brain Model (Master/Emissary)
-    trace_status: complete
-    updated: '2026-01-10'
-    id: CONSC-006
-    connections: []
   CONSC-007:
     confidence: 0.3
     created: 2024-12-27
@@ -1806,7 +1785,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-007
-    connections: []
+    connections:
+    - target: CONSC-018
+      type: developed_by
+      note: Frames neuroplasticity/attention training as the mechanism by which hemispheric
+        integration can be cultivated.
   CONSC-030:
     confidence: 0.3
     created: '2025-01-07'
@@ -1970,7 +1953,7 @@ nodes:
         Divine Bricolage.md
       note: Primary definition
     status: validated
-    confidence: 0.725
+    confidence: 0.765
     id: CONSC-094
     connections:
     - target: SWED-003
@@ -2981,7 +2964,7 @@ nodes:
       type: develops
       note: Most Ancient Church is archetype of perfect Divine Influx reception
   SWED-003:
-    confidence: 0.3
+    confidence: 0.595
     created: 2024-12-27
     definition: 'The intermediate realm between heaven and hell where souls arrive
       after death. A period of orientation and unveiling where external pretenses
@@ -4580,42 +4563,6 @@ nodes:
     updated: '2026-01-10'
     id: CONSC-009
     connections: []
-  CONSC-011:
-    confidence: 0.3
-    created: 2024-12-27
-    definition: 'McGilchrist''s thesis that the brain''s hemispheric asymmetry reflects
-      fundamentally different modes of attention and engagement with reality. The
-      right hemisphere (the "Master") perceives holistically, relationally, and empathetically;
-      the left hemisphere (the "Emissary") operates analytically, categorically, and
-      manipulatively. Modern Western culture represents the Emissary''s usurpation—prioritizing
-      detached instrumental reason over embodied relational wisdom.
-
-      '
-    domain: CONSC
-    node_type: concept
-    notes: '"Enuma Elish as archetype of division (creation through conflict, fragmentation)
-      vs. Genesis 1 as archetype of integration (serene ordering without violence).
-      Whitehead''s prehension, Bohm''s implicate order, Wheeler''s participatory universe
-      all resonate with right-hemisphere epistemology."
-
-
-      Caveats:
-
-      - McGilchrist''s thesis is contested by some neuroscientists
-
-      - Oversimplification risk when applied culturally
-
-      - Hemisphere functions overlap more than dichotomy suggests'
-    source_chain:
-    - note: Framework application of thesis
-      ref: data/01_Consciousness_Studies/Brain, Myth, and Conscious Choice.md
-      type: T
-    status: validated
-    title: The Divided Brain Thesis
-    trace_status: complete
-    updated: '2026-01-10'
-    id: CONSC-011
-    connections: []
   CONSC-012:
     confidence: 0.3
     created: 2024-12-27
@@ -4652,51 +4599,6 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-012
-    connections: []
-  CONSC-013:
-    confidence: 0.3
-    created: 2024-12-28
-    definition: 'Iain McGilchrist''s neuro-philosophical model posits that the brain''s
-      two hemispheres attend to reality in fundamentally different ways, creating
-      two distinct ontologies. The Right Hemisphere ("Master") perceives the world
-      holistically: broad attention, context-dependent, relational, embodied, empathic,
-      and aware of its limitations. The Left Hemisphere ("Emissary") operates analytically:
-      narrow focus, decontextualized, utilitarian, abstract, and prone to mistaking
-      its map for the territory (confabulation). When the Emissary usurps the Master''s
-      role, the result is greed, fear, ego-centrism, materialism, and the "meaning
-      crisis." Neuroplasticity allows intentional attention (contemplative practices)
-      to restore integration. The model aligns with process philosophy (Whitehead),
-      implicate order (Bohm), and participatory universe (Wheeler).
-
-      '
-    domain: CONSC
-    node_type: concept
-    notes: '"The Enuma Elish is the archetypal myth of the Emissary''s worldview:
-      creation through conflict, dismemberment, utility. Genesis 1 is the Master''s
-      archetype: serene order, unity, intrinsic goodness. Contemplative practices
-      are ''gymnasium of the mind''— training attention to restore integration. Key
-      insight: true compassion (CCT) is TRAINED, shifting from empathic distress to
-      positive prosocial motivation. The integrated brain perceives a participatory
-      reality (Wheeler) where consciousness co-creates the cosmos. This is the neuroscience
-      of wisdom."
-
-
-      Caveats:
-
-      - Hemispheric lateralization is relative, not absolute
-
-      - McGilchrist''s framework is interpretive/philosophical, not purely neuroscientific
-
-      - Cultural factors heavily influence hemispheric balance'
-    source_chain:
-    - note: Full synthesis
-      ref: data/01_Consciousness_Studies/Brain, Myth, and Conscious Choice.md
-      type: T
-    status: validated
-    title: The Master and Emissary (Hemispheric Integration Model)
-    trace_status: complete
-    updated: '2026-01-10'
-    id: CONSC-013
     connections: []
   CONSC-014:
     confidence: 0.3
@@ -6795,7 +6697,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-078
-    connections: []
+    connections:
+    - target: CONSC-043
+      type: supports
+      note: Prospective cardiac-arrest NDE study constrains physiological DBH mechanisms;
+        used in DBH critique.
   CONSC-079:
     confidence: 0.883
     confidence_factors:
@@ -6867,7 +6773,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-079
-    connections: []
+    connections:
+    - target: CONSC-043
+      type: supports
+      note: AWARE cardiac-arrest studies provide the strongest hospital-based constraints
+        on DBH explanations; cited in DBH critique.
   CONSC-096:
     domain: CONSC
     node_type: evidence
@@ -12094,7 +12004,15 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-018
-    connections: []
+    connections:
+    - target: CROSS-023
+      type: developed_by
+      note: Provides a neurocognitive grounding for the two-tiered method (analytic/fragmenting
+        vs holistic/relational modes).
+    - target: CONSC-007
+      type: develops
+      note: Frames neuroplasticity/attention training as the mechanism by which hemispheric
+        integration can be cultivated.
   CONSC-019:
     confidence: 0.497
     confidence_factors:
@@ -12211,7 +12129,7 @@ nodes:
     id: CONSC-019
     connections: []
   CONSC-020:
-    confidence: 0.853
+    confidence: 0.9
     created: 2025-12-27
     definition: 'A proposed explanation for the strongest past-life memory data (UVA/DOPS
       cases):  children with verified past-life memories show over 70% prevalence
@@ -12289,6 +12207,10 @@ nodes:
       type: supported_by
       note: DOPS database audit (verification rates, unsolved similarity, methodological
         critiques) supports the empirical substrate used by the hypothesis
+    - target: CONSC-046
+      type: supported_by
+      note: DOPS literature audit (six-marker convergence) supports the >70% violent-death
+        restorative-incarnation pattern.
   CONSC-034:
     confidence: 0.825
     confidence_factors:
@@ -12435,7 +12357,7 @@ nodes:
     id: CONSC-042
     connections: []
   CONSC-043:
-    confidence: 0.3
+    confidence: 0.9
     created: 2025-06-24
     definition: 'A comprehensive critique demonstrating that physiological mechanisms
       proposed to explain NDEs as brain-generated artifacts are insufficient to account
@@ -12496,7 +12418,19 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-043
-    connections: []
+    connections:
+    - target: CONSC-078
+      type: supported_by
+      note: Prospective cardiac-arrest NDE study constrains physiological DBH mechanisms;
+        used in DBH critique.
+    - target: CONSC-079
+      type: supported_by
+      note: AWARE cardiac-arrest studies provide the strongest hospital-based constraints
+        on DBH explanations; cited in DBH critique.
+    - target: CONSC-109
+      type: developed_by
+      note: 'Conceptual framing: NDE anomalies create an explanatory gap that is operationalized
+        as a specific DBH critique hypothesis.'
   CONSC-044:
     confidence: 0.695
     confidence_factors:
@@ -12767,7 +12701,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-046
-    connections: []
+    connections:
+    - target: CONSC-020
+      type: supports
+      note: DOPS literature audit (six-marker convergence) supports the >70% violent-death
+        restorative-incarnation pattern.
   CONSC-047:
     confidence: 0.807
     confidence_factors:
@@ -14292,6 +14230,10 @@ nodes:
     - target: CROSS-009
       type: parallels
       note: Divine Marriage depends on correspondential monism ontology
+    - target: CONSC-109
+      type: develops
+      note: Foundational correspondential monism frames why strict materialism fails;
+        DBH critique motivates this ontology at the NDE-data level.
   CROSS-012:
     confidence: 0.3
     created: '2026-01-08'
@@ -17198,6 +17140,38 @@ nodes:
     created: '2026-01-10'
     updated: '2026-01-10'
     confidence: 0.823
+  CONSC-109:
+    domain: CONSC
+    node_type: concept
+    title: NDE Data Create Explanatory Gaps for Dying-Brain Models
+    definition: 'Across the NDE evidential record, proposed physiological mechanisms
+      (anoxia, REM intrusion, seizures, endogenous DMT, brief post-arrest gamma surges)
+      may account for some features but do not fully account for the strongest anomalies
+      (e.g., veridical perception under documented cortical inactivity, timing/sequence
+      mismatches, terminal lucidity, and shared death experiences). This establishes
+      an explanatory gap in strictly brain-production models and motivates higher-order
+      hypotheses about consciousness not reducible to brain activity.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Evaluating Dying Brain Hypothesis Critically.md
+      note: Framework critique establishing the explanatory-gap framing
+    status: validated
+    trace_status: complete
+    id: CONSC-109
+    connections:
+    - target: CONSC-043
+      type: develops
+      note: 'Conceptual framing: NDE anomalies create an explanatory gap that is operationalized
+        as a specific DBH critique hypothesis.'
+    - target: CROSS-011
+      type: developed_by
+      note: Foundational correspondential monism frames why strict materialism fails;
+        DBH critique motivates this ontology at the NDE-data level.
+    created: '2026-01-10'
+    updated: '2026-01-10'
+    confidence: 0.765
 untraced: []
 extended_nodes:
   BIBL-023:
@@ -18308,194 +18282,6 @@ extended_nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-041
-    connections: []
-  CONSC-046:
-    confidence: 0.86
-    confidence_factors:
-      methodology: retrospective
-      peer_review: peer_reviewed_journal
-      replication: independent_replicated
-      sample_size: large_1000+
-      source_chain_quality: secondary
-      source_type: external
-    created: 2025-12-29
-    definition: 'Comprehensive statistical audit of DOPS published literature validating
-      the "Restorative  Return" model through six independent markers. The analysis
-      demonstrates that DOPS  cases form a coherent profile of trauma-driven exceptional
-      return rather than evidence  for universal reincarnation. The Restorative Return
-      is a specific, reparative mechanism  triggered by a "life interrupted"—trauma
-      of premature/violent exit leaves the seed-state  incomplete, creating psychic
-      momentum that propels consciousness back.
-
-      '
-    domain: CONSC
-    node_type: evidence
-    notes: "This is the definitive statistical audit of the Restorative Return hypothesis.\
-      \ Six  independent markers converge: (1) violent death prevalence, (2) somatic\
-      \ correlation,  (3) temporal urgency, (4) age distribution, (5) behavioral PTSD\
-      \ profile, (6) resolution  markers. The data describes a cosmic pragmatism—a\
-      \ self-correcting mechanism ensuring  lives violently curtailed are not lost\
-      \ but deferred. Key insight: the 'veil of forgetting'  is mercy, allowing restoration\
-      \ without interference from previous trauma. The system  has a purpose: completion,\
-      \ not punishment.\n\nExtraction notes:Corrected 2025-01-04 - Source type is\
-      \ EXTERNAL, not internal.\n\nThe node represents DOPS published research findings.\
-      \ Our \"Gemini Deep Research Audit\"\nsynthesizes external evidence but does\
-      \ not CREATE the evidence. The proof comes from:\n- Stevenson, I. & Cook, E.W.\
-      \ (1995) JSE - peer-reviewed journal\n- Matlock, J.G. (PubMed 36096967) - peer-reviewed\n\
-      - Tucker, J. Explore journal 2016 (PMID 27079216) - peer-reviewed\n\nWe do NOT\
-      \ have direct access to DOPS database. We cite their PUBLISHED research.\n\n\
-      Key factors:\n- Source type: EXTERNAL - published DOPS research, not our own\
-      \ database analysis\n- Methodology: Retrospective case-control analysis in original\
-      \ studies\n- Sample: Large (2,500+ cases across DOPS literature)\n- Replication:\
-      \ Independent - multiple DOPS researchers, 8+ cultures\n- Peer review: Published\
-      \ in JSE, Explore, and other peer-reviewed venues\n- Source chain: Secondary\
-      \ - we synthesize their publications\n\n\"Restorative Return\" terminology is\
-      \ our framework's interpretation of their data.\n\nCaveats:\n- Theological interpretation\
-      \ of empirical pattern\n- 70% violent death is correlation, causation inferred\n\
-      - Alternative explanation: trauma makes memories more vivid/retainable\n- Selection\
-      \ artifact: DOPS methodology may filter non-trauma cases\n\nEvidence:\n- Violent\
-      \ death >70% vs. <30% natural death (massive deviation from mortality norms)\n\
-      - Birthmarks: 35% prevalence, 88% medical verification rate\n- Double birthmarks:\
-      \ 14 cases mapping bullet entry/exit trajectory\n- <9 month intermission: 89%\
-      \ birthmarks, 75% violent deaths—urgency cohort\n- Suicide cases: 3 month median\
-      \ intermission (vs. 15-16 months general)\n- PP age distribution: avg ~28, 25%\
-      \ <15 (inverted mortality curve)\n- Phobias: 35% prevalence, specific to death\
-      \ mode\n- Memory fade: 5-7 years (developmental 'handoff' to new personality)\n\
-      - James Leininger: nightmare cessation after verification/crew reunion\n\nSix\
-      \ Markers Validated:\nage_distribution:\n  average_pp_age: ~28 years at death\n\
-      \  elderly_underrepresented: Massive deviation from J-shaped mortality curve\n\
-      \  interpretation: System selects for 'life interrupted,' not normal death\n\
-      \  youth_bias: 25% died before age 15\nbehavioral_markers:\n  phobia_rate: 35-36%\
-      \ exhibit specific phobias\n  phobia_specificity: \"Phobias match mode of death\
-      \ (drowning\\u2192water phobia)\"\n  post_traumatic_play: 35% violent cases\
-      \ show repetitive, joyless reenactment\n  ptsd_profile: Phenomenology identical\
-      \ to clinical PTSD\nresolution_markers:\n  catharsis_effect: Meeting previous\
-      \ family allows emotional release\n  memory_fading: Universal fade window ages\
-      \ 5-7 (current personality solidifies)\n  phobia_remission: Often resolves after\
-      \ articulating memory or visiting death scene\n  solved_vs_unsolved: Unsolved\
-      \ cases show HIGHER distress (no closure mechanism)\n  verification_therapy:\
-      \ Symptoms subside after validation/contact with PP family\nsomatic_correlates:\n\
-      \  birthmark_prevalence: 30-35% of all cases\n  double_birthmarks: 14 cases\
-      \ with entry/exit wound correspondence\n  intermission_cohort: 89% of <9 month\
-      \ intermission cases have birthmarks; 75% violent\n    death\n  mechanism: \"\
-      Ideoplasty\\u2014traumatic imagery acts as template during fetal formation\"\
-      \n  medical_verification: 88% correspondence when autopsy records available\
-      \ (43/49 cases)\ntemporal_urgency:\n  age_of_speaking: Earlier onset for violent\
-      \ deaths (p<.01)\n  cross_cultural: Pattern holds across 8 cultures\n  intermission_median:\
-      \ ~15-16 months global; shorter for violent cases\n  intermission_violent: Shorter\
-      \ interval for violent deaths (p<.01)\n  suicide_cases: \"Median 3 months only\
-      \ (n=12)\\u2014extreme urgency\"\nviolent_death_prevalence:\n  baseline: 'General\
-      \ population: overwhelming natural deaths in old age'\n  finding: '>70% of verified\
-      \ DOPS cases involve violent/unnatural death'\n  implication: \"Massive selection\
-      \ bias in phenomenon itself\\u2014trauma is the trigger\"\n\nTheoretical Framework:\n\
-      cure: Verification + memory fade = successful integration into new life\nimprint:\
-      \ Physical trauma etches into psychobiological architecture\nsymptom: PTSD-like\
-      \ manifestations indicate unresolved trauma\ntrigger: Violent/premature death\
-      \ interrupts seed-state development\nurgency: Incomplete seed-state creates\
-      \ momentum for rapid return"
-    source_chain:
-    - note: Primary Gemini Deep Research audit
-      ref: data/01_Consciousness_Studies/DOPS Restorative Return Model Analysis.md
-      type: T
-    - note: Statistical significance (p<.01) for intermission/speaking correlations
-      ref: Stevenson & Cook, 'Two Correlates of Violent Death in Cases of the Reincarnation
-        Type'
-      type: E
-    - note: 89% birthmarks in urgent-return cohort
-      ref: Matlock, J., congenital anomalies in <9 month intermission cases (PubMed
-        36096967)
-      type: E
-    - note: Paradigmatic resolution case
-      ref: Tucker, J., 'Case of James Leininger' (ResearchGate)
-      type: E
-    - note: Primary data source
-      ref: UVA DOPS database (n=2,500+)
-      type: P
-    status: validated
-    title: 'Restorative Return: DOPS Statistical Validation (Gemini Deep Research
-      Audit)'
-    trace_status: complete
-    updated: '2026-01-10'
-    id: CONSC-046
-    connections: []
-  CONSC-047:
-    confidence: 0.807
-    confidence_factors:
-      methodology: retrospective
-      peer_review: peer_reviewed_journal
-      replication: internal_replicated
-      sample_size: large_1000+
-      source_chain_quality: mixed
-      source_type: external
-    created: 2025-01-03
-    definition: 'The Strength of Case Scale (SOCS), developed by DOPS to evaluate
-      past-life memory claims, contains systematic selection biases that preferentially
-      select for trauma-driven  Restorative Incarnation cases while filtering out
-      non-traumatic origins including  potential first incarnations (Volunteer Souls).
-      Key bias: SOCS awards zero points for  first incarnation claims ("S0" baseline),
-      making such cases unrankable regardless of  verification quality.
-
-      '
-    domain: CONSC
-    node_type: evidence
-    notes: "Critical methodological insight: the DOPS database is not a random sample\
-      \ of soul origins. SOCS creates a systematic filter that preferentially selects\
-      \ trauma-driven returns. This  doesn't invalidate Restorative Incarnation—the\
-      \ evidence is real—but it means the 70%  violent death figure describes the\
-      \ sample, not necessarily the population. First incarnation  souls (Volunteer\
-      \ Path) are structurally invisible to CORT methodology. The Trauma Filter  hypothesis\
-      \ suggests a parallel methodology (COPET) is needed to detect non-cyclic origins.\n\
-      \nExtraction notes:Verified 2025-01-04 by confidence-extractor agent:\n\nCLASSIFICATION:\
-      \ External track. We cite DOPS publications and analyze their \nmethodology.\
-      \ We do not have access to their raw database.\n\nMETHODOLOGY: DOPS uses retrospective\
-      \ case collection with forensic verification.\nOur critique document performs\
-      \ textual-critical analysis of their methodology.\n\nSAMPLE SIZE: The 2,500+\
-      \ case DOPS database spans 60 years of research. \nThe 70% violent death statistic\
-      \ derives from this large sample.\n\nREPLICATION: DOPS findings replicated across\
-      \ researchers (Stevenson → Tucker) \nand geographic regions (India, Sri Lanka,\
-      \ Lebanon, USA, Japan). Rated \n\"internal_replicated\" - primarily within DOPS\
-      \ tradition.\n\nPEER REVIEW: Primary sources published in peer-reviewed venues\
-      \ including \nJournal of Scientific Exploration (specialty peer-reviewed journal).\n\
-      \nSOURCE CHAIN: Rated \"mixed\" because:\n- PRIMARY sources (DOPS papers) are\
-      \ properly cited and verifiable\n- However, the node's CENTRAL CLAIM (SOCS is\
-      \ a \"trauma filter\") is our \n  FRAMEWORK EXTENSION beyond what sources explicitly\
-      \ argue\n- DOPS documents the 70% figure but doesn't argue it's methodological\
-      \ artifact\n- \"Trauma Filter\" interpretation is ours, not DOPS's conclusion\n\
-      \nNOTE: This node conflates evidence (DOPS statistics) with hypothesis (our\
-      \ \ninterpretation). The confidence reflects underlying DOPS research quality,\
-      \ but \nthe central claims extend beyond what that research establishes.\n\n\
-      Evidence:\n- SOCS awards 0 points for first incarnation claims (structural exclusion)\n\
-      - 70% violent death in DOPS = deviation from mortality baselines\n- Birthmark\
-      \ correlation requires physical trauma as precondition\n- South Asian cultural\
-      \ infrastructure amplifies case reporting\n- Information richness hypothesis:\
-      \ trauma = more verifiable details\n\nDetailed Analysis:\nblind_spots:\n  first_incarnation:\
-      \ S0 baseline excludes by structural definition\n  non_human_origins: Cosmological\
-      \ origin claims fall outside methodology entirely\n  peaceful_deaths: Natural\
-      \ deaths generate fewer verifiable specifics\n  reverse_cases: Intermission-only\
-      \ memories (Ohkado) not captured by CORT design\ncore_mechanism:\n  first_incarnation_problem:\
-      \ No previous personality = 0 points by definition\n  result: 70% violent death\
-      \ in DOPS database is partially selection artifact\n  socs_function: Weighted\
-      \ point system ranking 'strength' of past-life claims\n  trauma_bias: Violent\
-      \ death creates verifiable details (names, places, wounds)\nmethodology_critique:\n\
-      \  birthmark_correlation: Physical markers require violent causation to manifest\n\
-      \  cultural_factors: South Asian cases have higher cultural validation infrastructure\n\
-      \  information_richness: Traumatic deaths generate more specific, verifiable\
-      \ claims\n  researcher_attention: Dramatic cases attract more follow-up investigation"
-    source_chain:
-    - note: Primary critique document developing Trauma Filter thesis
-      ref: data/01_Consciousness_Studies/Reincarnation Methodology Selection Artifact.md
-      type: T
-    - note: Original SOCS scale description and validation
-      ref: Tucker, J., 'Life Before Life' (2005), SOCS methodology
-      type: E
-    - note: Foundational DOPS methodology establishing case selection criteria
-      ref: Stevenson, I., 'Twenty Cases Suggestive of Reincarnation' (1966)
-      type: S
-    status: validated
-    title: 'SOCS Selection Bias: The Trauma Filter Hypothesis'
-    trace_status: complete
-    updated: '2026-01-10'
-    id: CONSC-047
     connections: []
   CONSC-048:
     confidence: 0.752
@@ -20357,147 +20143,6 @@ extended_nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-077
-    connections: []
-  CONSC-078:
-    confidence: 0.905
-    confidence_factors:
-      methodology: prospective
-      peer_review: peer_reviewed_journal
-      replication: independent_replicated
-      sample_size: medium_100-999
-      source_chain_quality: primary_verified
-      source_type: external
-    created: '2026-01-08'
-    definition: 'Landmark prospective study of near-death experiences in cardiac arrest
-      survivors published in The Lancet (2001). Dr. Pim van Lommel and colleagues
-      studied 344 consecutive cardiac arrest patients across 10 Dutch hospitals (1988-1992),
-      with 18% (62 patients) reporting NDEs. Critically, the study found that religious
-      belief was irrelevant to whether an NDE occurred, and physiological parameters
-      (medication, duration of arrest, blood gases) showed no significant difference
-      between NDE and non-NDE groups. This prospective design and large sample size
-      make it one of the strongest empirical studies challenging materialist explanations.
-
-      '
-    domain: CONSC
-    node_type: evidence
-    notes: 'The van Lommel Lancet study is among the most methodologically rigorous
-      NDE research. Its prospective design (patients identified BEFORE cardiac events)
-      eliminates retrospective bias. The finding that religious belief is irrelevant
-      to NDE occurrence directly contradicts the cultural expectancy hypothesis. The
-      absence of physiological correlates (medication, arrest duration, blood chemistry)
-      challenges brain-based explanations. Published in The Lancet, one of the world''s
-      most prestigious medical journals, giving it exceptional credibility.
-
-
-      Evidence:
-
-      - {''description'': ''Prospective design with 344 consecutive cardiac arrest
-      patients'', ''strength'': ''strong''}
-
-      - {''description'': ''18% NDE incidence rate (62/344 patients)'', ''strength'':
-      ''strong''}
-
-      - {''description'': ''Religious belief irrelevant to NDE occurrence'', ''strength'':
-      ''strong''}
-
-      - {''description'': ''No physiological differences between NDE and non-NDE groups'',
-      ''strength'': ''strong''}
-
-      - {''description'': ''2-year and 8-year follow-up showing lasting transformative
-      effects'', ''strength'': ''strong''}'
-    source_chain:
-    - note: Primary publication in high-impact peer-reviewed journal
-      ref: 'van Lommel, P., van Wees, R., Meyers, V., & Elfferich, I. (2001). Near-death
-        experience in survivors of cardiac arrest: a prospective study in the Netherlands.
-        The Lancet, 358(9298), 2039-2045. DOI: 10.1016/S0140-6736(01)07100-8'
-      type: E
-    - note: Full monograph expanding on Lancet findings
-      ref: 'van Lommel, P. Consciousness Beyond Life: The Science of the Near-Death
-        Experience. HarperOne, 2010.'
-      type: S
-    - note: Framework analysis citing van Lommel findings on religious belief
-      ref: data/01_Consciousness_Studies/Pure Encounter or Cultural Construct.md
-      type: T
-    - note: Analysis of physiological parameter findings
-      ref: data/01_Consciousness_Studies/Evaluating Dying Brain Hypothesis Critically.md
-      type: T
-    status: validated
-    title: 'van Lommel Lancet Study: 344 Cardiac Arrest Patients'
-    trace_status: complete
-    updated: '2026-01-10'
-    id: CONSC-078
-    connections: []
-  CONSC-079:
-    confidence: 0.883
-    confidence_factors:
-      methodology: prospective
-      peer_review: peer_reviewed_journal
-      replication: internal_replicated
-      sample_size: large_1000+
-      source_chain_quality: primary_verified
-      source_type: external
-    created: '2026-01-08'
-    definition: 'The AWARE (AWAreness during REsuscitation) studies, led by Dr. Sam
-      Parnia, represent the largest systematic investigation of consciousness during
-      cardiac arrest. AWARE I (2014) studied 2,060 cardiac arrests across 15 hospitals;
-      AWARE II (2023) expanded to 567 patients with comprehensive data. While the
-      hidden visual target protocol yielded limited results due to logistical constraints,
-      AWARE I documented one case of verified auditory awareness during three minutes
-      of cardiac arrest with time-stamped AED data, demonstrating consciousness persisting
-      during clinical death when EEG would be isoelectric.
-
-      '
-    domain: CONSC
-    node_type: evidence
-    notes: 'The AWARE studies represent ambitious attempts to move NDE research from
-      anecdotal reports to systematic experimental design. While the hidden visual
-      target protocol did not produce the "smoking gun" verification hoped for, this
-      was primarily due to sample size issues (only 1-2 arrests occurred in rooms
-      with targets installed, and patients were too ill to interview). The verified
-      auditory awareness case remains significant: AED time-stamps proved the patient
-      was aware of specific automated voice prompts and staff actions at 3 minutes
-      post-arrest, when standard neuroscience predicts isoelectric EEG and no consciousness.
-      The denominator problem (limited opportunities for target viewing) explains
-      null results without negating positive findings.
-
-
-      Evidence:
-
-      - {''description'': ''AWARE I studied 2,060 cardiac arrests across 15 hospitals'',
-      ''strength'': ''strong''}
-
-      - {''description'': ''39% of survivors reported some awareness during arrest'',
-      ''strength'': ''strong''}
-
-      - {''description'': ''One verified case of auditory awareness time-stamped to
-      3 minutes post-arrest'', ''strength'': ''moderate''}
-
-      - {''description'': ''Hidden visual target protocol limited by logistical constraints
-      (sample size issue)'', ''strength'': ''preliminary''}
-
-      - {''description'': ''AWARE II (567 patients) showed EEG gamma surges during
-      CPR in some cases'', ''strength'': ''moderate''}'
-    source_chain:
-    - note: AWARE I primary publication
-      ref: 'Parnia, S., et al. (2014). AWARE—AWAreness during REsuscitation—A prospective
-        study. Resuscitation, 85(12), 1799-1805. DOI: 10.1016/j.resuscitation.2014.09.004'
-      type: E
-    - note: AWARE II follow-up study
-      ref: 'Parnia, S., et al. (2023). AWAreness during REsuscitation-II: A multi-center
-        study of consciousness and awareness in cardiac arrest. Resuscitation, 191,
-        109903. DOI: 10.1016/j.resuscitation.2023.109903'
-      type: E
-    - note: 'Framework analysis of AWARE findings, Section 5: The AWARE Studies'
-      ref: data/01_Consciousness_Studies/Evaluating Dying Brain Hypothesis Critically.md
-      type: T
-    - note: Discussion of AWARE methodology and limitations
-      ref: data/01_Consciousness_Studies/Researching Near-Death Experiences.md
-      type: T
-    status: validated
-    title: 'AWARE Study: Consciousness During Cardiac Arrest'
-    trace_status: complete
-    updated: '2026-01-10'
-    id: CONSC-079
     connections: []
   CONSC-094:
     domain: CONSC

@@ -2963,6 +2963,14 @@ nodes:
     - target: SWED-006
       type: develops
       note: Most Ancient Church is archetype of perfect Divine Influx reception
+    - target: SWED-075
+      type: develops
+      note: Divine Influx underlies the primordial internal-perception mode described
+        as internal respiration.
+    - target: SWED-016
+      type: develops
+      note: Divine Influx adapts communication as cognition externalizes; this frames
+        the Fall-into-language concept.
   SWED-003:
     confidence: 0.595
     created: 2024-12-27
@@ -3156,32 +3164,6 @@ nodes:
     - target: SWED-029
       type: develops
       note: Correspondential Anthropology explains structure that Regeneration transforms
-  SWED-010:
-    confidence: 0.3
-    created: 2024-12-27
-    definition: 'The physiological mechanism of the Most Ancient Church''s spiritual
-      perception: "internal respiration" where breathing was synchronized with internal
-      thought. Vagus nerve stimulation, parasympathetic activation, and parietal deafferentation
-      created a state of self-transcendence where boundary between self and Divine
-      was porous.
-
-      '
-    domain: SWED
-    node_type: concept
-    notes: 'Remarkable convergence of Swedenborgian doctrine with modern neuroscience.
-      The "silence" of the Most Ancient Church was physiologically real.
-
-      '
-    source_chain:
-    - note: Neurotheological synthesis
-      ref: data/01_Consciousness_Studies/Evolution of God Concepts and Consciousness.md
-      type: T
-    status: validated
-    title: Internal Respiration and Primordial Cognition
-    trace_status: partial
-    updated: '2026-01-10'
-    id: SWED-010
-    connections: []
   SWED-011:
     confidence: 0.3
     created: 2024-12-27
@@ -3622,20 +3604,40 @@ nodes:
     domain: SWED
     node_type: concept
     title: Internal Respiration
-    definition: Primordial cognitive state of 'silent, profound thought' and direct
-      influx, linked to paleoanthropological 'decoupling of breathing'.
+    definition: 'Primordial cognitive state described by Swedenborg as "silent, profound
+      thought" and direct spiritual perception linked to breathing ("internal respiration").
+      In the framework synthesis, this is correlated with voluntary breath control
+      enabled by bipedal locomotion (decoupling breathing from stride) and with neurotheology
+      findings that slow, controlled breathing stimulates the vagus nerve, shifts
+      autonomic balance toward parasympathetic activation, and can produce self-transcendence
+      states (e.g., reduced self/world boundary salience).
+
+      '
     source_chain:
     - type: T
       ref: data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the
         Divine Bricolage.md
-      note: Primary definition
+      note: Primary definition (provenance)
     status: validated
     confidence: 0.3
     id: SWED-075
-    connections: []
+    connections:
+    - target: SWED-002
+      type: developed_by
+      note: Divine Influx underlies the primordial internal-perception mode described
+        as internal respiration.
+    - target: CONSC-015
+      type: develops
+      note: Internal respiration (primordial internal perception) is one pillar of
+        the Cognitive Fall hypothesis.
     created: '2026-01-10'
     updated: '2026-01-10'
     trace_status: complete
+    notes: 'Also discussed/extended in data/01_Consciousness_Studies/Evolution of
+      God Concepts and Consciousness.md as a neurotheology + paleoanthropology synthesis
+      (vagus/parasympathetic and breath-control framing).
+
+      '
   SWED-076:
     domain: SWED
     node_type: concept
@@ -4650,7 +4652,7 @@ nodes:
       type: developed_by
       note: Volunteer Soul hypothesis develops from Volunteer Soul concept
   CONSC-015:
-    confidence: 0.3
+    confidence: 0.849
     created: '2024-12-28'
     definition: 'A synthesis of Swedenborgian theology, paleoanthropology, and cognitive
       science proposing that the biblical "Fall" represents a multi-millennial cognitive
@@ -4693,7 +4695,24 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-015
-    connections: []
+    connections:
+    - target: SWED-075
+      type: developed_by
+      note: Internal respiration (primordial internal perception) is one pillar of
+        the Cognitive Fall hypothesis.
+    - target: SWED-016
+      type: developed_by
+      note: The Fall-into-language framing provides the concept-level container for
+        the Cognitive Fall hypothesis.
+    - target: CONSC-098
+      type: supported_by
+      note: Neurotheology findings (vagus/parietal deafferentation during meditation)
+        support plausibility of an internal-respiration-based primordial cognition
+        component.
+    - target: CONSC-099
+      type: supported_by
+      note: Evolutionary respiratory control in bipedal hominins supports the feasibility
+        of voluntary breath control as a substrate for internal-respiration practices.
   CONSC-016:
     confidence: 0.3
     created: 2024-12-28
@@ -6917,7 +6936,12 @@ nodes:
 
       - Consistent findings across Buddhist, Christian, and secular meditators'
     id: CONSC-098
-    connections: []
+    connections:
+    - target: CONSC-015
+      type: supports
+      note: Neurotheology findings (vagus/parietal deafferentation during meditation)
+        support plausibility of an internal-respiration-based primordial cognition
+        component.
     trace_status: untraced
   CONSC-099:
     domain: CONSC
@@ -6964,7 +6988,11 @@ nodes:
 
       - Distinct from obligate quadruped respiratory patterns'
     id: CONSC-099
-    connections: []
+    connections:
+    - target: CONSC-015
+      type: supports
+      note: Evolutionary respiratory control in bipedal hominins supports the feasibility
+        of voluntary breath control as a substrate for internal-respiration practices.
     trace_status: untraced
   CONSC-100:
     domain: CONSC
@@ -9977,7 +10005,7 @@ nodes:
       proof_breaking_open: 0
       detail_issues: 0
   SWED-016:
-    confidence: 0.3
+    confidence: 0.722
     created: 2024-12-27
     definition: 'The proposition that human cognitive evolution from ''internal respiration''
       to articulate speech represents not an ascent into clarity but a ''Fall'' into
@@ -10011,7 +10039,15 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: SWED-016
-    connections: []
+    connections:
+    - target: SWED-002
+      type: developed_by
+      note: Divine Influx adapts communication as cognition externalizes; this frames
+        the Fall-into-language concept.
+    - target: CONSC-015
+      type: develops
+      note: The Fall-into-language framing provides the concept-level container for
+        the Cognitive Fall hypothesis.
   SWED-017:
     confidence: 0.3
     created: 2024-12-27
@@ -14178,7 +14214,7 @@ nodes:
       type: parallels
       note: AI expression framework depends on correspondential monism ontology
   CROSS-011:
-    confidence: 0.3
+    confidence: 0.65
     created: '2026-01-08'
     definition: 'All physical substance is a direct expression of spiritual substance.
       There is no separation. The soul clothes itself with spiritual substances (loves,
@@ -21821,39 +21857,3 @@ extended_nodes:
     updated: '2026-01-10'
     id: SWED-057
     connections: []
-  SWED-075:
-    domain: SWED
-    node_type: concept
-    title: Internal Respiration
-    definition: Primordial cognitive state of 'silent, profound thought' and direct
-      influx, linked to paleoanthropological 'decoupling of breathing'.
-    source_chain:
-    - type: T
-      ref: data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the
-        Divine Bricolage.md
-      note: Primary definition
-    status: validated
-    confidence: 0.3
-    id: SWED-075
-    connections: []
-    created: '2026-01-10'
-    updated: '2026-01-10'
-    trace_status: complete
-  SWED-076:
-    domain: SWED
-    node_type: concept
-    title: Representative Language
-    definition: Innate perception of spiritual meaning in natural objects (Conceptual
-      Metaphor Theory), preceding articulate speech.
-    source_chain:
-    - type: T
-      ref: data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the
-        Divine Bricolage.md
-      note: Primary definition
-    status: validated
-    confidence: 0.3
-    id: SWED-076
-    connections: []
-    created: '2026-01-10'
-    updated: '2026-01-10'
-    trace_status: complete

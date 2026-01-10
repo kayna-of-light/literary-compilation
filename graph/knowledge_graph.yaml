@@ -291,6 +291,10 @@ nodes:
     - target: CONSC-087
       type: parallels
       note: Both address Being of Light transcending cultural expectation
+    - target: CONSC-108
+      type: develops
+      note: 'Concept: anticipated judgment met with love; evidence refines into testable
+        hypothesis'
     confidence: 0.3
     critic_notes:
       last_reviewed: '2026-01-09'
@@ -299,8 +303,12 @@ nodes:
       detail_issues: 0
   CONSC-087:
     created: '2026-01-09'
-    definition: Hypothesis that NDE core elements (Being of Light) are objective realities
-      transcending cultural labels (evidenced by 'Unknown Presence' data).
+    definition: 'Concept that core NDE encounter elements (e.g., Being of Light) correspond
+      to an objective reality that transcends culturally specific identification labels;
+      cultural background shapes naming/vocabulary more than underlying encounter
+      properties.
+
+      '
     domain: CONSC
     node_type: concept
     source_chain:
@@ -309,7 +317,7 @@ nodes:
         and Cosmological Analysis of Post-Mortem Consciousness and Incarnational Dynamics.md
       type: T
     status: preliminary
-    title: Conceptual Framework Theory
+    title: Objective NDE Core Elements Transcend Cultural Labels
     trace_status: partial
     updated: '2026-01-10'
     id: CONSC-087
@@ -320,6 +328,9 @@ nodes:
     - target: CONSC-086
       type: parallels
       note: Both address Being of Light transcending cultural expectation
+    - target: CONSC-107
+      type: develops
+      note: 'Concept: objective core encounter rendered through cultural labels'
     confidence: 0.3
     critic_notes:
       last_reviewed: '2026-01-09'
@@ -1959,7 +1970,7 @@ nodes:
         Divine Bricolage.md
       note: Primary definition
     status: validated
-    confidence: 0.3
+    confidence: 0.725
     id: CONSC-094
     connections:
     - target: SWED-003
@@ -4837,13 +4848,16 @@ nodes:
       source_type: internal
     created: 2025-01-07
     critic_notes:
+      last_reviewed: '2026-01-10'
       critiques:
-      - breaks_proof: false
-        description: Added missing connection to SWED-009
-        id: 1
+      - id: 1
+        type: definition-issue
+        description: Removed stale critic-note reference to a non-existent node ID;
+          replaced with explicit hypothesis chain connections.
+        breaks_proof: false
         status: resolved
-        type: missing-connection
-      last_reviewed: 2025-01-07
+      proof_breaking_open: 0
+      detail_issues: 0
     definition: 'Large-scale statistical analysis of Being of Light encounters in
       NDEs (n=1,881 from  6,753 total NDEs) reveals that the majority (51.9%) identify
       the Being as "unknown  presence" rather than a culturally-specific figure. While
@@ -4922,7 +4936,10 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-021
-    connections: []
+    connections:
+    - target: CONSC-107
+      type: supports
+      note: 'Evidence: identification labels vary with background; properties stable'
   CONSC-022:
     confidence: 0.752
     confidence_factors:
@@ -5024,7 +5041,10 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-022
-    connections: []
+    connections:
+    - target: CONSC-108
+      type: supports
+      note: 'Evidence: life review judgments overwhelmingly loving; aftereffects'
   CONSC-023:
     confidence: 0.792
     confidence_factors:
@@ -5119,7 +5139,14 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-023
-    connections: []
+    connections:
+    - target: CONSC-107
+      type: supports
+      note: 'Evidence: singular transcendent entity across polytheist backgrounds'
+    - target: CONSC-108
+      type: supports
+      note: 'Evidence: authority/guidance/teaching patterns align with benevolent
+        corrective encounter'
   CONSC-024:
     confidence: 0.792
     confidence_factors:
@@ -5691,11 +5718,14 @@ nodes:
     created: 2025-12-29
     definition: 'Critical methodological categorization in DOPS research: Type A cases
       are recorded AFTER the two families (subject''s and previous personality''s)
-      meet—retrospective, vulnerable to contamination. Type B cases have written records
-      made BEFORE verification—prospective, eliminating post-hoc distortion. Only
-      33 of ~2,500 cases (1.3%) meet Type B criteria. Crucially, Type A and Type B
-      show equivalent accuracy rates (78.4% vs 76.7%), suggesting retrospective method
-      does NOT inflate results.
+      meet—retrospective and vulnerable to post-meeting contamination and post-hoc
+      reconstruction. Type B cases have written records made BEFORE verification—prospective
+      with respect to family-meeting contamination (though not, by itself, ruling
+      out all ordinary acquisition routes). Only 33 of ~2,500 cases (1.3%) meet Type
+      B criteria. Type A and Type B show similar accuracy rates (78.4% vs 76.7%) and
+      Type B includes more statements on average (25.5 vs 18.5), suggesting no evidence
+      of substantial retrospective inflation in these measured metrics (noting the
+      small Type B n).
 
       '
     domain: CONSC
@@ -5759,7 +5789,27 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-040
-    connections: []
+    connections:
+    - target: CONSC-020
+      type: supports
+      note: Type A/B equivalence strengthens confidence in DOPS-derived pattern claims
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques:
+      - id: 1
+        type: definition-issue
+        description: Avoid categorical wording ('does NOT inflate'); Type B n is small
+          and selection effects are unknown.
+        breaks_proof: false
+        status: open
+      - id: 2
+        type: definition-issue
+        description: Type B reduces post-meeting contamination but does not eliminate
+          all information-leakage pathways without case-level documentation.
+        breaks_proof: false
+        status: open
+      proof_breaking_open: 0
+      detail_issues: 2
   CONSC-041:
     confidence: 0.723
     confidence_factors:
@@ -5772,11 +5822,11 @@ nodes:
     created: 2025-12-29
     definition: 'Physical correlates in 30-35% of DOPS cases: children born with birthmarks
       or birth defects corresponding to wounds (usually fatal) on the identified previous
-      personality. When medical documentation (autopsy reports) was available, 88%
-      (43/49 cases) showed verified correspondence. Includes 14 documented "double
-      birthmark" cases matching entry/exit bullet wounds. These somatic correlates
-      constitute the "hard biological signal" that cannot be explained by information
-      leakage, cryptomnesia, or parental coaching.
+      personality. When independent medical documentation of the deceased''s wounds
+      (e.g., postmortem reports) was available, 88% (43/49 cases) showed verified
+      correspondence. Includes 14 documented "double birthmark" cases matching entry/exit
+      bullet wounds. These somatic correlates are presented as difficult to explain
+      by information leakage, cryptomnesia, or parental coaching alone.
 
       '
     domain: CONSC
@@ -5821,7 +5871,28 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-041
-    connections: []
+    connections:
+    - target: CONSC-020
+      type: supports
+      note: Birthmark/wound correspondences strengthen empirical basis for trauma-linked
+        recall pattern
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques:
+      - id: 1
+        type: definition-issue
+        description: Soften universal claims ('cannot be explained') to avoid exceeding
+          what the node's sources strictly establish.
+        breaks_proof: false
+        status: open
+      - id: 2
+        type: definition-issue
+        description: Anchor the 88% figure explicitly to the medically documented
+          subset to avoid ambiguity with broader 'checkable' phrasing.
+        breaks_proof: false
+        status: open
+      proof_breaking_open: 0
+      detail_issues: 2
   CONSC-056:
     confidence: 0.855
     confidence_factors:
@@ -7045,14 +7116,14 @@ nodes:
     title: DOPS Statistical Pattern Analysis (70%+ Violent Death)
     definition: 'University of Virginia Division of Perceptual Studies (DOPS) has
       documented consistent statistical patterns across 2,700+ past-life memory cases:
-      (1) 70%+ involve violent or premature death - significantly above base rate
-      (~5% sudden death in general population); (2) 88% of cases with checkable birthmarks
-      show correspondence to documented wounds on claimed previous person; (3) Behavioral
-      carryover: phobias matching cause of death (water phobia in drowning cases);
-      (4) Memory fade typically by age 7-8, suggesting developmental integration;
-      (5) Cases cluster in cultures with reincarnation beliefs BUT verified details
-      are cross-culturally consistent. Pattern supports Restorative Incarnation hypothesis
-      - traumatic interruption triggers return, not universal karmic cycle.'
+      (1) 70%+ involve violent or premature death; (2) 88% of cases with independently
+      documented birthmarks show correspondence to documented wounds on the claimed
+      previous person; (3) Behavioral carryover: phobias matching cause of death (water
+      phobia in drowning cases); (4) Memory fade typically by age 7-8, suggesting
+      developmental integration; (5) Cases cluster in cultures with reincarnation
+      beliefs, but verified details are reported as cross-culturally consistent.
+
+      '
     status: validated
     source_chain:
     - type: E
@@ -7073,12 +7144,12 @@ nodes:
       source_type: external
       methodology: retrospective
       sample_size: large_1000+
-      replication: independent_replicated
+      replication: internal_replicated
       peer_review: peer_reviewed_journal
-      source_chain_quality: primary_verified
+      source_chain_quality: primary_unverified
     created: '2026-01-09'
     updated: '2026-01-10'
-    confidence: 0.9
+    confidence: 0.818
     notes: 'Evidence:
 
       - 70%+ violent/premature death (vs ~5% base rate)
@@ -7091,8 +7162,37 @@ nodes:
 
       - Cross-cultural consistency of verified details'
     id: CONSC-101
-    connections: []
-    trace_status: untraced
+    connections:
+    - target: CONSC-020
+      type: supports
+      note: DOPS pattern summary supports Restorative Incarnation (70% violent-death
+        pattern) hypothesis
+    trace_status: partial
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques:
+      - id: 1
+        type: internal-inconsistency
+        description: 'Reconciled trace_status and confidence factors: previous combination
+          of trace_status: untraced with source_chain_quality: primary_verified and
+          replication: independent_replicated was inconsistent.'
+        breaks_proof: true
+        status: closed
+      - id: 2
+        type: missing-connection
+        description: Removed hypothesis-level interpretation ('supports Restorative
+          Incarnation') from this evidence node; keep interpretive linkage in a hypothesis/concept
+          node via explicit connections.
+        breaks_proof: true
+        status: closed
+      - id: 3
+        type: source-gap
+        description: Removed unsupported base-rate comparison (~5% sudden death) pending
+          an appropriate population mortality-statistics citation.
+        breaks_proof: true
+        status: closed
+      proof_breaking_open: 0
+      detail_issues: 0
   CONSC-102:
     domain: CONSC
     node_type: evidence
@@ -11722,10 +11822,33 @@ nodes:
       type: E
     status: validated
     title: DOPS Past-Life Memory Research
-    trace_status: complete
+    trace_status: partial
     updated: '2026-01-10'
     id: CONSC-002
-    connections: []
+    connections:
+    - target: CONSC-020
+      type: supports
+      note: DOPS database audit (verification rates, unsolved similarity, methodological
+        critiques) supports the empirical substrate used by the hypothesis
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques:
+      - id: 1
+        type: internal-inconsistency
+        description: 'Node is marked trace_status: complete but contains an explicit
+          [TRACE NEEDED] note for Sudduth JSE bibliographic details; reconcile by
+          tracing or marking partial.'
+        breaks_proof: false
+        status: open
+      - id: 2
+        type: source-gap
+        description: Notes assert core publications in venues (e.g., JAMA, Am J Psychiatry,
+          Br J Psychiatry, J Nervous Mental Disease) without specific citations in
+          source_chain; either cite explicitly or soften wording.
+        breaks_proof: false
+        status: open
+      proof_breaking_open: 0
+      detail_issues: 2
   CONSC-003:
     confidence: 0.83
     confidence_factors:
@@ -12088,7 +12211,7 @@ nodes:
     id: CONSC-019
     connections: []
   CONSC-020:
-    confidence: 0.3
+    confidence: 0.853
     created: 2025-12-27
     definition: 'A proposed explanation for the strongest past-life memory data (UVA/DOPS
       cases):  children with verified past-life memories show over 70% prevalence
@@ -12151,6 +12274,21 @@ nodes:
       type: developed_by
       note: Hypothesis of 70% violent death pattern develops from Restorative Incarnation
         concept
+    - target: CONSC-101
+      type: supported_by
+      note: DOPS pattern summary supports Restorative Incarnation (70% violent-death
+        pattern) hypothesis
+    - target: CONSC-041
+      type: supported_by
+      note: Birthmark/wound correspondences strengthen empirical basis for trauma-linked
+        recall pattern
+    - target: CONSC-040
+      type: supported_by
+      note: Type A/B equivalence strengthens confidence in DOPS-derived pattern claims
+    - target: CONSC-002
+      type: supported_by
+      note: DOPS database audit (verification rates, unsolved similarity, methodological
+        critiques) supports the empirical substrate used by the hypothesis
   CONSC-034:
     confidence: 0.825
     confidence_factors:
@@ -16995,6 +17133,71 @@ nodes:
     created: '2026-01-10'
     updated: '2026-01-10'
     confidence: 0.3
+  CONSC-107:
+    domain: CONSC
+    node_type: hypothesis
+    title: Cultural Filter Hypothesis (Being of Light Identification)
+    definition: 'Hypothesis that cultural/religious background influences the identification
+      label applied to the Being of Light, while the experiential properties and functional
+      outcomes remain broadly stable, implying an objective encounter perceived through
+      cultural filters.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Being of Light - Statistical Analysis of
+        NDE Phenomenology.md
+      note: Derived from the Being of Light report (reprocessed)
+    status: preliminary
+    trace_status: partial
+    id: CONSC-107
+    connections:
+    - target: CONSC-021
+      type: supported_by
+      note: 'Evidence: identification labels vary with background; properties stable'
+    - target: CONSC-023
+      type: supported_by
+      note: 'Evidence: singular transcendent entity across polytheist backgrounds'
+    - target: CONSC-087
+      type: developed_by
+      note: 'Concept: objective core encounter rendered through cultural labels'
+    created: '2026-01-10'
+    updated: '2026-01-10'
+    confidence: 0.823
+  CONSC-108:
+    domain: CONSC
+    node_type: hypothesis
+    title: Corrective Love Hypothesis (Life Review Judgment)
+    definition: 'Hypothesis that anticipated punitive judgment in the Life Review
+      is systematically corrected toward benevolence (low condemnation, high love/acceptance),
+      producing reliable aftereffects (e.g., increased spirituality, reduced fear
+      of death), consistent with an encounter that informs rather than merely mirrors
+      expectation.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Being of Light - Statistical Analysis of
+        NDE Phenomenology.md
+      note: Derived from the Being of Light report (reprocessed)
+    status: preliminary
+    trace_status: partial
+    id: CONSC-108
+    connections:
+    - target: CONSC-022
+      type: supported_by
+      note: 'Evidence: life review judgments overwhelmingly loving; aftereffects'
+    - target: CONSC-023
+      type: supported_by
+      note: 'Evidence: authority/guidance/teaching patterns align with benevolent
+        corrective encounter'
+    - target: CONSC-086
+      type: developed_by
+      note: 'Concept: anticipated judgment met with love; evidence refines into testable
+        hypothesis'
+    created: '2026-01-10'
+    updated: '2026-01-10'
+    confidence: 0.823
 untraced: []
 extended_nodes:
   BIBL-023:
@@ -17242,301 +17445,6 @@ extended_nodes:
     created: '2026-01-10'
     updated: '2026-01-10'
     trace_status: complete
-  CONSC-021:
-    confidence: 0.792
-    confidence_factors:
-      critic_reviewed: reviewed_minor_issues
-      methodological_transparency: full
-      methodology: observational
-      replication: single_study
-      sample_size: large_1000+
-      source_data_quality: institutional_database
-      source_type: internal
-    created: 2025-01-07
-    critic_notes:
-      critiques:
-      - breaks_proof: false
-        description: Added missing connection to SWED-009
-        id: 1
-        status: resolved
-        type: missing-connection
-      last_reviewed: 2025-01-07
-    definition: 'Large-scale statistical analysis of Being of Light encounters in
-      NDEs (n=1,881 from  6,753 total NDEs) reveals that the majority (51.9%) identify
-      the Being as "unknown  presence" rather than a culturally-specific figure. While
-      religious background  significantly predicts identification vocabulary (χ² =
-      365.14, p < 0.000001),  experiential properties remain IDENTICAL across identification
-      labels. Christians  who identify "Jesus" and those who identify "Unknown" differ
-      by less than 10% on  ALL measured experiential properties—validating the correspondential
-      model that  the Being is objective reality perceived through cultural filters.
-
-      '
-    domain: CONSC
-    node_type: evidence
-    notes: 'The finding that 51.9% identify the Being as "unknown presence" is striking—
-      this is not failure to identify but ACTIVE ASSERTION that the Being transcends  available
-      categories. Even Christians (44.2% unknown) often cannot fit the  experience
-      into their robust divine-encounter vocabulary. The ML classification  failure
-      is particularly compelling: if identification were cultural projection,  religious
-      background should predict naming, but the model performs BELOW baseline.
-
-
-      Extraction notes:Sample: n=1,881 Light Being encounters from 6,753 total NDEs
-      (NDERF+IANDS). AI extraction via GPT-5.2 adds interpretation layer. Self-reported
-      retrospective data with non-random sampling. Full methodology in public GitHub
-      repository.
-
-
-      Caveats:
-
-      - Sample predominantly Western and English-speaking
-
-      - Reports are retrospective, potentially influenced by subsequent reflection
-
-      - GPT-5.2 extraction may introduce systematic biases
-
-
-      Evidence:
-
-      - Total NDEs analyzed: 6,753 (NDERF: 5,660; IANDS: 1,093)
-
-      - Light Being encounters: 1,881 (27.9% of total NDEs)
-
-      - Being identification: 51.9% unknown presence, 22.5% God, 18.9% Jesus, 6.5%
-      religious figure
-
-      - Religious background predicts vocabulary: χ² = 365.14, p < 0.000001
-
-      - Jesus vs Unknown experiential properties differ by <10% on ALL dimensions
-
-      - Machine learning classification: 37.8% accuracy BELOW 45.9% baseline—religion
-      cannot predict ID
-
-      - Denominations: Catholic 21.7% Jesus ID vs Evangelical 20.8%—virtually identical
-      despite theology'
-    source_chain:
-    - note: Primary statistical analysis of Being of Light encounters
-      ref: https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/notebooks/01_being_of_light_analysis.ipynb
-      type: E
-    - note: Combined corpus of 6,753 structured NDE records
-      ref: NDERF dataset (n=5,660) + IANDS dataset (n=1,093)
-      type: E
-    - note: Full analysis report
-      ref: data/01_Consciousness_Studies/Being of Light - Statistical Analysis of
-        NDE Phenomenology.md
-      type: T
-    - note: Foundational research identifying 'Being of Light' phenomenon
-      ref: Moody, R. (1975). Life After Life.
-      type: S
-    - note: Major NDE study cited in theoretical framework
-      ref: van Lommel, P. (2010). Consciousness Beyond Life.
-      type: S
-    - note: Source of correspondential hypothesis tested (Divine Human doctrine)
-      ref: Swedenborg, E. (1758). Heaven and Hell.
-      type: P
-    status: validated
-    title: 'Being of Light: Identification Statistics'
-    trace_status: complete
-    updated: '2026-01-10'
-    id: CONSC-021
-    connections: []
-  CONSC-022:
-    confidence: 0.752
-    confidence_factors:
-      critic_reviewed: reviewed_minor_issues
-      methodological_transparency: full
-      methodology: observational
-      replication: single_study
-      sample_size: medium_100-999
-      source_data_quality: institutional_database
-      source_type: internal
-    created: 2025-01-07
-    critic_notes:
-      critiques:
-      - breaks_proof: false
-        description: Added missing connections to CONSC-004 and CONSC-023
-        id: 1
-        status: resolved
-        type: missing-connection
-      - breaks_proof: false
-        description: Clarified evidence denominator
-        id: 2
-        status: resolved
-        type: definition-issue
-      last_reviewed: 2025-01-07
-    definition: 'Analysis of life review judgment in Being of Light encounters (n=453
-      with life reviews)  reveals systematic correction of religious expectations.
-      Loving judgment exceeds harsh  judgment by ratio of 36.5:1. Among Christians,
-      63.3% report NO external condemnation  despite cultural expectations of divine
-      judgment. Transformative effects are universal:  84.2% increased spirituality,
-      0.0% increased death fear. This "expect judgment, find love"  pattern argues
-      against projection—the experience CORRECTS rather than confirms expectations.
-
-      '
-    domain: CONSC
-    node_type: evidence
-    notes: 'The 36.5:1 love:harsh ratio is remarkable evidence against projection.
-      Many  religious traditions emphasize divine judgment—if NDEs were projection,
-      experiences  should track expectations. Instead, Christians who "should" expect
-      judgment  overwhelmingly experience love (63.3% no external condemnation). The
-      experience  CORRECTS rather than CONFIRMS prior beliefs. This "expect judgment,
-      find love"  pattern is difficult to explain on a cultural projection model but
-      follows naturally  if the encounter is genuinely informative about an external
-      reality.
-
-
-      Extraction notes:Sample: n=453 life reviews (subset of 1,881 Light Being encounters).
-      Smaller sample than full analysis but statistically meaningful. Same methodology
-      and caveats as CONSC-021.
-
-
-      Caveats:
-
-      - Life review subset (n=453) smaller than full Light Being sample
-
-      - Judgment characterization is subjective experiencer report
-
-      - Transformative effects measured cross-sectionally, not longitudinally
-
-
-      Evidence:
-
-      - Life reviews in Light Being encounters: n=453 (24.1% of 1,881 Light Being
-      encounters)
-
-      - Judgment source: 27.2% no judgment, 26.7% Being of Light, 18.5% guide, 8.6%
-      self alone
-
-      - No external condemnation combined: 54.7%
-
-      - Christians with no external condemnation: 63.3% (HIGHER than average)
-
-      - Judgment intensity ratio: Loving 32.2% vs Harsh 0.9% = 36.5:1
-
-      - Being of Light as judge: 91 loving instances vs 2 harsh instances
-
-      - Self-judgment characterized as loving: 43.6%
-
-      - Increased spirituality: 84.2%
-
-      - Increased death fear: 0.0%
-
-      - Major value shifts: 43.5%'
-    source_chain:
-    - note: Primary statistical analysis
-      ref: https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/notebooks/01_being_of_light_analysis.ipynb
-      type: E
-    - note: Combined corpus
-      ref: NDERF dataset (n=5,660) + IANDS dataset (n=1,093)
-      type: E
-    - note: Full analysis report
-      ref: data/01_Consciousness_Studies/Being of Light - Statistical Analysis of
-        NDE Phenomenology.md
-      type: T
-    - note: World of Spirits life review doctrine against which data is compared
-      ref: Swedenborg, E. (1758). Heaven and Hell, §462-499.
-      type: P
-    status: validated
-    title: 'Being of Light: Judgment and Transformation Statistics'
-    trace_status: complete
-    updated: '2026-01-10'
-    id: CONSC-022
-    connections: []
-  CONSC-023:
-    confidence: 0.792
-    confidence_factors:
-      critic_reviewed: reviewed_minor_issues
-      methodological_transparency: full
-      methodology: observational
-      replication: single_study
-      sample_size: large_1000+
-      source_data_quality: institutional_database
-      source_type: internal
-    created: 2025-01-07
-    critic_notes:
-      critiques:
-      - breaks_proof: false
-        description: Added missing connection to CONSC-022
-        id: 1
-        status: resolved
-        type: missing-connection
-      last_reviewed: 2025-01-07
-    definition: 'Analysis reveals that the Being of Light exhibits properties intrinsic
-      to the phenomenon  rather than culturally projected. Even experiencers from
-      polytheistic traditions (Hindu,  Buddhist) consistently report a SINGULAR transcendent
-      entity—not multiple divine beings  or a pantheon. The Light Being provides significantly
-      more guidance (81.7% vs 74.9%,  χ² = 25.24, p < 0.000001) and nearly double
-      the teaching (475 vs 239 instances) compared  to other beings, demonstrating
-      unique authority. Communication is predominantly telepathic  (34.8%), consistent
-      with spiritual rather than physical encounter.
-
-      '
-    domain: CONSC
-    node_type: evidence
-    notes: 'The "singularity finding" is particularly compelling against the projection
-      hypothesis.  If Being of Light experiences were cultural projection, polytheists
-      should perceive  multiple divine beings consistent with their traditions. Instead,
-      even those from  Hindu and Buddhist backgrounds report encountering ONE singular
-      transcendent entity.  The singularity appears to be a property of the phenomenon
-      itself—consistent with  Swedenborg''s Divine Human (one God in human form) rather
-      than with culture-bound  hallucination. The authority differential (Light Being
-      nearly 2x teaching rate)  suggests hierarchical spiritual structure matching
-      Swedenborgian cosmology.
-
-
-      Extraction notes:Sample: n=1,881 Light Being encounters. Polytheist subgroup
-      relatively small. ML classification on same dataset (not external validation).
-      Same methodology and caveats as CONSC-021.
-
-
-      Caveats:
-
-      - Polytheist sample relatively small compared to Christian
-
-      - Authority comparison correlational, not causal
-
-      - ''Teaching'' and ''guidance'' categories may overlap
-
-
-      Evidence:
-
-      - Polytheist Light Being encounter rate: 27.6% (vs 38.4% monotheist)
-
-      - Polytheists report SINGULAR Being—not multiple deities or pantheon
-
-      - Polytheist unknown presence rate: 25.0%
-
-      - Light Being guidance rate: 81.7% vs Other beings: 74.9%
-
-      - Light Being vs Other beings guidance: χ² = 25.24, p < 0.000001
-
-      - Light Being teaching instances: 475 vs Other beings: 239 (nearly 2x)
-
-      - Communication mode: 34.8% telepathic, 29.0% nonverbal, 22.0% normal speech
-
-      - Light Being presence by religion: Christian 39.7%, Jewish 28.9%, SBNR 27.3%,
-      Atheist 24.0%'
-    source_chain:
-    - note: Primary statistical analysis
-      ref: https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/notebooks/01_being_of_light_analysis.ipynb
-      type: E
-    - note: Combined corpus
-      ref: NDERF dataset (n=5,660) + IANDS dataset (n=1,093)
-      type: E
-    - note: Full analysis report
-      ref: data/01_Consciousness_Studies/Being of Light - Statistical Analysis of
-        NDE Phenomenology.md
-      type: T
-    - note: Contemporary NDE research referenced for phenomenology context
-      ref: 'Greyson, B. (2021). After: A Doctor Explores What Near-Death Experiences
-        Reveal.'
-      type: S
-    status: validated
-    title: 'Being of Light: Singularity and Authority Statistics'
-    trace_status: complete
-    updated: '2026-01-10'
-    id: CONSC-023
-    connections: []
   CONSC-024:
     confidence: 0.792
     confidence_factors:

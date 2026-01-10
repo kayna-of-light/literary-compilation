@@ -20,7 +20,7 @@ The data support a two-tier model: a consistent underlying phenomenon (constant 
 | IANDS Records (n=1,093) | International Association for Near-Death Studies | [iands.org](https://iands.org) |
 | Being of Light Analysis | `01_being_of_light_analysis.ipynb` | [Repository](https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/notebooks/01_being_of_light_analysis.ipynb) |
 | Conceptual Framework Analysis | `04_conceptual_framework_theory.ipynb` | [Repository](https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/notebooks/04_conceptual_framework_theory.ipynb) |
-| Structured Data | `analysis/*.json` | [Repository](https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/analysis/) (6,753 files) |
+| Structured Data | `structured/*.json` | [Repository](https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/structured/) (6,753 files) |
 | Extraction Model | GPT-5.2 via Azure OpenAI | Azure OpenAI Service |
 
 ---

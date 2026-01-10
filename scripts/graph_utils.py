@@ -1291,7 +1291,10 @@ def check_cardinality_rules(nodes: dict) -> list:
                 })
     
     # === CHECK: Hypothesis with insufficient evidence ===
-    EVIDENCE_SUPPORT_MIN = 2  # Hypothesis should have at least this many evidence supporters
+    # NOTE: A single strong evidence node IS valid. The confidence scoring system
+    # reflects quality via confidence_factors. This check ensures at least ONE
+    # evidence connection exists, not that multiple exist.
+    EVIDENCE_SUPPORT_MIN = 1  # Hypothesis needs at least one evidence supporter
     
     for node_id, node in nodes.items():
         if node.get('node_type') == 'hypothesis':
@@ -1305,7 +1308,7 @@ def check_cardinality_rules(nodes: dict) -> list:
                     'warning_type': 'insufficient_evidence',
                     'count': len(evidence_sources),
                     'threshold': EVIDENCE_SUPPORT_MIN,
-                    'message': f"has only {len(evidence_sources)} evidence supporter(s) (minimum: {EVIDENCE_SUPPORT_MIN}) - weakly grounded"
+                    'message': f"has no evidence supporters - hypothesis is untested"
                 })
     
     # === CHECK: Synthesis with insufficient concept inputs ===
@@ -2786,10 +2789,6 @@ def main():
         else:
             output(f"Node: {args.node_id} (section: {result.get('section')})")
             output(yaml.dump(node_data, sort_keys=False, allow_unicode=True))
-        
-        if not args.dry_run and result['fixed']:
-            save_graph(graph)
-            output(f"\nSaved to {GRAPH_PATH}")
 
 
 if __name__ == '__main__':

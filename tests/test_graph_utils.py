@@ -373,6 +373,15 @@ class GraphUtilsCrudTests(TestCase):
         self.assertTrue(result["passed"])
         self.assertTrue(any("INCOMPLETE CHAIN" in w or "reverse" in w for w in result["warnings"]))
 
+    def test_fix_missing_inverses_dry_run(self):
+        graph = build_chain_graph(include_connections=True)
+        conns = graph["nodes"]["CROSS-003"]["connections"]
+        graph["nodes"]["CROSS-003"]["connections"] = [c for c in conns if c.get("type") != "developed_by"]
+        res = gu.fix_missing_inverses(graph, dry_run=True)
+        self.assertTrue(any("WOULD ADD" in msg for msg in res.get("fixed", [])))
+        # No mutation in dry-run
+        self.assertFalse(any(c.get("type") == "developed_by" for c in graph["nodes"]["CROSS-003"].get("connections", [])))
+
     def test_validate_errors_on_invalid_connection_type(self):
         graph = build_chain_graph(include_connections=False)
         graph["nodes"]["CROSS-001"]["connections"] = [
@@ -381,6 +390,13 @@ class GraphUtilsCrudTests(TestCase):
         result = gu.validate_graph(graph)
         self.assertFalse(result["passed"])
         self.assertTrue(any("invalid connection type" in issue.lower() or "not allowed" in issue.lower() for issue in result["issues"]))
+
+    def test_add_connection_dry_run_no_mutation(self):
+        graph = build_chain_graph(include_connections=False)
+        res = gu.add_connection(graph, "CROSS-001", "CROSS-002", "develops", note="Anchors concept", dry_run=True)
+        self.assertTrue(res["success"])
+        self.assertTrue(any("DRY RUN" in msg for msg in res.get("messages", [])))
+        self.assertFalse(graph["nodes"]["CROSS-001"].get("connections"))
 
     def test_validate_warns_missing_confidence_factors(self):
         graph = build_chain_graph(include_connections=True)
@@ -443,6 +459,13 @@ class GraphUtilsCrudTests(TestCase):
     def test_validate_errors_on_unknown_fields(self):
         graph = build_chain_graph(include_connections=False)
         graph["nodes"]["CROSS-002"]["alien"] = "nope"
+        result = gu.validate_graph(graph)
+        self.assertFalse(result["passed"])
+        self.assertTrue(any("Unknown fields" in issue for issue in result["issues"]))
+
+    def test_validate_unknown_field_on_evidence(self):
+        graph = build_chain_graph(include_connections=False)
+        graph["nodes"]["CROSS-004"]["alien"] = "nope"
         result = gu.validate_graph(graph)
         self.assertFalse(result["passed"])
         self.assertTrue(any("Unknown fields" in issue for issue in result["issues"]))

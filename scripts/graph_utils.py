@@ -671,8 +671,16 @@ def get_all_nodes(graph: dict) -> dict:
 def get_stats(graph: dict) -> dict:
     """Calculate graph statistics."""
     nodes = get_all_nodes(graph)
-    connections = graph.get('connections', []) or []
     untraced = graph.get('untraced', []) or []
+
+    # Aggregate connections from node definitions (authoritative store)
+    connection_set = set()
+    for source_id, node in nodes.items():
+        for conn in node.get('connections', []) or []:
+            target = conn.get('target')
+            conn_type = conn.get('type')
+            if target and conn_type:
+                connection_set.add((source_id, target, conn_type))
     
     # Count by status
     status_counts = defaultdict(int)
@@ -686,7 +694,7 @@ def get_stats(graph: dict) -> dict:
     
     return {
         'total_nodes': len(nodes),
-        'total_connections': len(connections),
+        'total_connections': len(connection_set),
         'untraced_claims': len(untraced),
         'by_status': dict(status_counts),
         'by_domain': dict(domain_counts),
@@ -1987,10 +1995,19 @@ def generate_node_id(domain: str, graph: dict) -> str:
     return f"{prefix}{max_num + 1:03d}"
 
 
-def load_payload(path: str) -> dict:
-    """Load a YAML/JSON payload from file."""
-    with open(path, 'r', encoding='utf-8') as f:
-        data = yaml.safe_load(f)
+def load_payload_source(inline: str = None, path: str = None) -> dict:
+    """Load a YAML/JSON payload from inline text, stdin (@-), or file."""
+    if inline:
+        if inline.strip() == '@-':
+            data = yaml.safe_load(sys.stdin.read())
+        else:
+            data = yaml.safe_load(inline)
+    elif path:
+        with open(path, 'r', encoding='utf-8') as f:
+            data = yaml.safe_load(f)
+    else:
+        raise ValueError("No payload provided; use --inline or --input")
+
     if not isinstance(data, dict):
         raise ValueError("Input payload must be a mapping")
     return data
@@ -2125,6 +2142,7 @@ def main():
     parser.add_argument('--conn-type', '-c', help="Connection type (for add-connection)")
     parser.add_argument('--note', help="Optional note for connection (for add-connection)")
     parser.add_argument('--input', help="Path to YAML/JSON payload (for add-node, update-node)")
+    parser.add_argument('--inline', help="Inline YAML/JSON payload for add-node/update-node. Use --inline @- to read from stdin.")
     parser.add_argument('--section', default='nodes', choices=['nodes', 'extended_nodes'], help="Graph section to target for add-node")
     parser.add_argument('--prune', action='store_true', help="Prune connections that reference a deleted node (delete-node)")
     parser.add_argument('--id', help="Optional node ID override when creating a node")
@@ -2694,11 +2712,11 @@ def main():
             output(f"\n{msg}")
 
     elif args.command == 'add-node':
-        if not args.input:
-            output("ERROR: add-node requires --input PATH to a YAML/JSON payload")
+        if not args.inline and not args.input:
+            output("ERROR: add-node requires --inline YAML or --input PATH")
             sys.exit(1)
         try:
-            payload = load_payload(args.input)
+            payload = load_payload_source(inline=args.inline, path=args.input)
         except Exception as e:
             output(f"ERROR: Failed to load payload: {e}")
             sys.exit(1)
@@ -2717,11 +2735,11 @@ def main():
         output("Validation: PASS")
 
     elif args.command == 'update-node':
-        if not args.node_id or not args.input:
-            output("ERROR: update-node requires NODE_ID and --input PATH")
+        if not args.node_id or (not args.inline and not args.input):
+            output("ERROR: update-node requires NODE_ID and --inline YAML or --input PATH")
             sys.exit(1)
         try:
-            payload = load_payload(args.input)
+            payload = load_payload_source(inline=args.inline, path=args.input)
         except Exception as e:
             output(f"ERROR: Failed to load payload: {e}")
             sys.exit(1)

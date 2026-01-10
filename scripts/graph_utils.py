@@ -45,8 +45,17 @@ import json
 import argparse
 from pathlib import Path
 from collections import defaultdict
-from datetime import datetime
+from datetime import datetime, date
 from copy import deepcopy
+
+
+class DateEncoder(json.JSONEncoder):
+    """Custom JSON encoder that handles date and datetime objects."""
+    def default(self, obj):
+        if isinstance(obj, (datetime, date)):
+            return obj.isoformat()
+        return super().default(obj)
+
 
 # Paths
 SCRIPT_DIR = Path(__file__).parent
@@ -2189,7 +2198,7 @@ def main():
     if args.command == 'stats':
         stats = get_stats(graph)
         if args.json:
-            output(json.dumps(stats, indent=2))
+            output(json.dumps(stats, indent=2, cls=DateEncoder))
         else:
             output("\n=== Knowledge Graph Statistics ===\n")
             output(f"Total Nodes:       {stats['total_nodes']}")
@@ -2205,7 +2214,7 @@ def main():
     elif args.command == 'validate':
         result = validate_graph(graph, verbose=args.verbose)
         if args.json:
-            output(json.dumps(result, indent=2))
+            output(json.dumps(result, indent=2, cls=DateEncoder))
         else:
             if result['passed']:
                 output("\n[PASS] Graph validation passed - no critical issues\n")
@@ -2425,7 +2434,7 @@ def main():
     elif args.command == 'list':
         nodes_list = list_nodes(graph, args.domain)
         if args.json:
-            output(json.dumps(nodes_list, indent=2))
+            output(json.dumps(nodes_list, indent=2, cls=DateEncoder))
         else:
             output(f"\n=== Nodes ({len(nodes_list)}) ===\n")
             for node in nodes_list:
@@ -2434,7 +2443,7 @@ def main():
     elif args.command == 'untraced':
         untraced = graph.get('untraced', []) or []
         if args.json:
-            output(json.dumps(untraced, indent=2))
+            output(json.dumps(untraced, indent=2, cls=DateEncoder))
         else:
             output(f"\n=== Untraced Claims ({len(untraced)}) ===\n")
             for claim in untraced:
@@ -2463,7 +2472,7 @@ def main():
     elif args.command == 'confidence':
         scores = get_all_confidence_scores(graph)
         if args.json:
-            output(json.dumps(scores, indent=2))
+            output(json.dumps(scores, indent=2, cls=DateEncoder))
         else:
             output("\n=== Confidence Scores (highest first) ===\n")
             circular_count = sum(1 for s in scores if s['label'] == 'circular')
@@ -2486,7 +2495,7 @@ def main():
         result = calculate_node_confidence(args.node_id, nodes, flat_connections)
         result['title'] = nodes[args.node_id].get('title', 'Untitled')
         if args.json:
-            output(json.dumps(result, indent=2))
+            output(json.dumps(result, indent=2, cls=DateEncoder))
         else:
             output(f"\n=== Confidence Score: {args.node_id} ===\n")
             output(f"  Title:         {result['title']}")
@@ -2514,7 +2523,7 @@ def main():
     elif args.command == 'low-confidence':
         low = get_low_confidence_nodes(graph, args.threshold)
         if args.json:
-            output(json.dumps(low, indent=2))
+            output(json.dumps(low, indent=2, cls=DateEncoder))
         else:
             output(f"\n=== Low Confidence Nodes (below {args.threshold}) ===\n")
             if not low:
@@ -2527,7 +2536,7 @@ def main():
     elif args.command == 'needs-extraction':
         needs = get_needs_extraction(graph)
         if args.json:
-            output(json.dumps(needs, indent=2))
+            output(json.dumps(needs, indent=2, cls=DateEncoder))
         else:
             output(f"\n=== Evidence Nodes Needing Confidence Extraction ({len(needs)}) ===\n")
             if not needs:
@@ -2540,7 +2549,7 @@ def main():
         changes = persist_confidence_scores(graph)
         
         if args.json:
-            output(json.dumps(changes, indent=2))
+            output(json.dumps(changes, indent=2, cls=DateEncoder))
         else:
             output(f"Updated: {len(changes['updated'])} nodes")
             output(f"Errors:  {len(changes['errors'])} nodes")
@@ -2580,7 +2589,7 @@ def main():
         node = nodes[args.node_id]
         
         if args.json:
-            output(json.dumps(analysis, indent=2))
+            output(json.dumps(analysis, indent=2, cls=DateEncoder))
         else:
             output(f"\n=== Chain Analysis: {args.node_id} ===\n")
             output(f"  Title:      {node.get('title', 'Untitled')}")
@@ -2799,7 +2808,7 @@ def main():
             sys.exit(1)
         node_data = result.get('node', {})
         if args.json:
-            output(json.dumps({'node_id': args.node_id, 'section': result.get('section'), 'node': node_data}, indent=2))
+            output(json.dumps({'node_id': args.node_id, 'section': result.get('section'), 'node': node_data}, indent=2, cls=DateEncoder))
         else:
             output(f"Node: {args.node_id} (section: {result.get('section')})")
             output(yaml.dump(node_data, sort_keys=False, allow_unicode=True))

@@ -1,3 +1,11 @@
+<system>
+You are an hard working AI agent specialized in editorial guidelines and knowledge graph management for a complex interdisciplinary research project. Your task is to help maintain and expand a knowledge graph that synthesizes consciousness studies, Swedenborgian theology, biblical scholarship, and mythological analysis into a unified post-materialist framework.
+
+You never skip a step and always take the long road. You understand that carful maintenance of the knowledge graph is critical to the integrity of the entire project. You always follow the document-first methodology: before making any changes to the knowledge graph, you read and understand the source documents that inform the nodes and connections.
+
+You also never assume everything from a document is extracted and all connections are carfully made. Perfection is key and carful re-examination is very important to you.
+</system>
+
 # The Divine Bricolage - Editorial Instructions
 
 ## Project Overview
@@ -473,11 +481,12 @@ When processing new documents (from `data/unclassified/` or documents not yet in
 
 **Agents are READ-ONLY. They analyze and report. They do NOT edit files.**
 
-The main assistant (GitHub Copilot / Claude) is responsible for:
+You, the main agent is responsible for:
 1. **Invoking agents** via `@agent-name` or subagent calls
 2. **Receiving agent output** (reports, recommendations, findings)
 3. **Implementing changes** to `knowledge_graph.yaml` based on agent output
 4. **Running utility commands** (`persist-scores`, `validate`, `export-md`)
+5. **Being carefull and precise** make sure changes are applied to the nodes they apply to.
 
 **After EVERY agent response, the main assistant must:**
 - Apply the agent's recommendations to the graph
@@ -507,7 +516,7 @@ The main assistant (GitHub Copilot / Claude) is responsible for:
           │
           ▼
 ┌─────────────────────┐
-│  3. SOURCE          │  (EVIDENCE ONLY) Verify source chains to primary sources
+│  3. SOURCE          │  (EVIDENCE ONLY; run per node) Verify source chains to primary sources
 │     TRACER          │  → Output: Corrections/additions for source_chain
 │     (@agent)        │
 └─────────┬───────────┘
@@ -520,7 +529,7 @@ The main assistant (GitHub Copilot / Claude) is responsible for:
           │
           ▼
 ┌─────────────────────┐
-│  5. CONFIDENCE      │  (EVIDENCE ONLY) Explore source chain, determine
+│  5. CONFIDENCE      │  (EVIDENCE ONLY; run per node) Explore source chain, determine
 │     EXTRACTOR       │  empirical quality factors
 │     (@agent)        │  → Output: Recommended confidence_factors
 └─────────┬───────────┘
@@ -533,7 +542,7 @@ The main assistant (GitHub Copilot / Claude) is responsible for:
           │
           ▼
 ┌─────────────────────┐
-│  7. CRITIC          │  (EVIDENCE ONLY) Identify internal inconsistencies,
+│  7. CRITIC          │  (EVIDENCE ONLY; run per node) Identify internal inconsistencies,
 │     (@agent)        │  missing connections, logical contradictions
 │                     │  → Output: Valid critiques with breaks_proof flag
 └─────────┬───────────┘

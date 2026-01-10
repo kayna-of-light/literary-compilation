@@ -38,6 +38,57 @@ Analyze source documents and produce **complete derivation chain reports** that 
 
 ## Critical Instructions
 
+### 0. REPROCESSING vs NEW DOCUMENT MODE (READ THIS FIRST)
+
+Documents come from TWO sources with DIFFERENT processing requirements:
+
+#### **MODE A: NEW DOCUMENTS** (`data/unclassified/` or standard folders)
+- These have NO nodes in the graph yet
+- Your job: Extract ALL claims as new nodes, establish full chains
+
+#### **MODE B: REPROCESSING DOCUMENTS** (`data/**/reprocess_needed/`)
+- These documents ALREADY HAVE NODES in the graph
+- Extraction was INCOMPLETE — nodes exist but connections are MISSING
+- Your job is **NOT** to re-extract nodes that already exist
+
+**For REPROCESSING documents, follow this workflow:**
+
+1. **FIND EXISTING NODES FIRST**
+   ```bash
+   # Search for nodes that reference this document in their source_chain
+   python scripts/graph_utils.py list  # Then grep for document filename
+   ```
+   
+2. **AUDIT EXISTING NODES**
+   For each node that references this document:
+   - Check its `connections:` array — is it empty or incomplete?
+   - Check if it's missing upward chain links (evidence→hypothesis→concept→foundational)
+   - Check if it's missing lateral links (parallels, contradicts)
+
+3. **IDENTIFY WHAT'S MISSING**
+   - Missing NODES: Claims in the document that have no corresponding node
+   - Missing CONNECTIONS: Nodes exist but aren't properly wired together
+   - Broken CHAINS: Evidence not connected to hypothesis, hypothesis not to concept, etc.
+
+4. **REPORT FORMAT FOR REPROCESSING**
+   Your report must distinguish:
+   ```
+   EXISTING NODES FROM THIS DOCUMENT:
+     • NODE-ID: Title — connections status (empty/partial/complete)
+   
+   MISSING CONNECTIONS TO ADD:
+     • SOURCE-ID → TARGET-ID (connection_type) — why this connection should exist
+   
+   MISSING NODES TO CREATE:
+     [Only for claims NOT already captured by existing nodes]
+   ```
+
+**⚠️ CRITICAL**: Do NOT propose creating nodes for concepts that already exist. 
+Search thoroughly before proposing any new node. The graph has 345+ nodes — 
+many claims you encounter are likely already captured.
+
+---
+
 ### 1. Read the Existing Graph FIRST
 
 Before analyzing any document, you MUST understand what already exists:
@@ -292,12 +343,15 @@ You do **NOT** edit files. You output reports for the main assistant to implemen
 
 ## Output Format (REQUIRED)
 
+### For NEW Documents (standard extraction)
+
 Your response MUST follow this structure:
 
 ```
 ═══════════════════════════════════════════════════════════════
 KNOWLEDGE COMPILER REPORT
 Document: [path/to/document.md]
+Mode: NEW DOCUMENT
 ═══════════════════════════════════════════════════════════════
 
 DOCUMENT SUMMARY:
@@ -352,6 +406,78 @@ python scripts/graph_utils.py add-node --inline "{...}" --section nodes
 python scripts/graph_utils.py add-connection -s SOURCE -T TARGET -c TYPE
 ```
 
+---
+
+### For REPROCESSING Documents (from `reprocess_needed/` folders)
+
+```
+═══════════════════════════════════════════════════════════════
+KNOWLEDGE COMPILER REPORT — REPROCESSING
+Document: [path/to/document.md]
+Mode: REPROCESSING (existing nodes need connection wiring)
+═══════════════════════════════════════════════════════════════
+
+DOCUMENT SUMMARY:
+[2-3 sentence summary of document's main claims]
+
+═══════════════════════════════════════════════════════════════
+EXISTING NODES FROM THIS DOCUMENT
+═══════════════════════════════════════════════════════════════
+
+Found [N] nodes referencing this document:
+
+  • NODE-ID: Title
+    node_type: [type]
+    current connections: [list or "EMPTY"]
+    chain status: [complete | missing upward | missing lateral | isolated]
+
+  • NODE-ID: Title
+    node_type: [type]
+    current connections: [list or "EMPTY"]  
+    chain status: [complete | missing upward | missing lateral | isolated]
+
+═══════════════════════════════════════════════════════════════
+CONNECTION AUDIT
+═══════════════════════════════════════════════════════════════
+
+CHAIN INTEGRITY CHECK:
+  [For each evidence node] → Does it connect to a hypothesis? ✓/✗
+  [For each hypothesis]    → Does it connect to a concept?    ✓/✗
+  [For each concept]       → Does it connect to foundational? ✓/✗
+
+MISSING UPWARD CONNECTIONS (chain completion):
+  • SOURCE-ID → TARGET-ID (connection_type)
+    Reason: [Why this connection must exist based on document content]
+
+MISSING LATERAL CONNECTIONS (parallels, contradicts, etc.):
+  • SOURCE-ID → TARGET-ID (connection_type)
+    Reason: [Why this connection should exist]
+
+═══════════════════════════════════════════════════════════════
+MISSING NODES (only if claims not already captured)
+═══════════════════════════════════════════════════════════════
+
+⚠️ Verified these claims have NO existing node:
+[Search evidence showing no existing node covers this claim]
+
+[Full YAML for genuinely new nodes only]
+
+OR:
+
+✓ All claims from this document are captured by existing nodes.
+  No new nodes needed — only connections.
+
+═══════════════════════════════════════════════════════════════
+IMPLEMENTATION COMMANDS
+═══════════════════════════════════════════════════════════════
+
+# Add missing connections (main assistant runs these):
+python scripts/graph_utils.py add-connection -s SOURCE -T TARGET -c TYPE --note "reason"
+
+# Only if new nodes needed:
+python scripts/graph_utils.py add-node --input temp/payload.yaml --section nodes
+```
+
 ## Key Principles
 
 1. **Complete chains, not isolated nodes** — Every evidence must trace up to an anchor
@@ -359,11 +485,29 @@ python scripts/graph_utils.py add-connection -s SOURCE -T TARGET -c TYPE
 3. **Flag gaps explicitly** — Missing intermediate nodes must be specified
 4. **Source tracing is mandatory** — Every claim needs provenance
 5. **You report, assistant implements** — Never edit files yourself
+6. **REPROCESSING = CONNECTION WIRING** — Don't re-create nodes that exist
 
 ## Begin
 
-When given a document to process:
+### For NEW Documents:
 1. Read `.github/copilot-instructions.md` for project context
-2. Read the document completely from Front to back
+2. Read the document completely from front to back
 3. Search the existing graph for relevant nodes
-4. Output a complete chain report in the format above
+4. Output a complete chain report in the NEW DOCUMENT format above
+
+### For REPROCESSING Documents (from `reprocess_needed/`):
+1. Read `.github/copilot-instructions.md` for project context
+2. **FIRST**: Search for existing nodes that reference this document:
+   ```bash
+   python scripts/graph_utils.py list  # Look for nodes with this doc in source_chain
+   ```
+3. **SECOND**: For each found node, run `get-node NODE_ID` to check its connections
+4. Read the document to understand what connections SHOULD exist
+5. Compare what EXISTS vs what SHOULD exist
+6. Output a REPROCESSING report with:
+   - Existing nodes and their connection status
+   - Missing connections to add (with reasons from document content)
+   - Only new nodes for claims genuinely not captured
+
+**The graph has 345+ nodes but only ~10 connections. The real work in reprocessing 
+is establishing the missing connections, not creating duplicate nodes.**

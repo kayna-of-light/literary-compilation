@@ -540,8 +540,8 @@ The main assistant (GitHub Copilot / Claude) is responsible for:
           │
           ▼
 ┌─────────────────────┐
-│  8. IMPLEMENT       │  Address valid critiques, add critic_notes to evidence
-│  (Main Assistant)   │  → Output: Refined nodes with documented critiques
+│  8. IMPLEMENT       │  ALWAYS add critic_notes (even if no issues found)
+│  (Main Assistant)   │  → Output: Nodes with critic_notes block recorded
 └─────────┬───────────┘
           │
           ▼
@@ -788,7 +788,7 @@ Agent Response:
 5. For EVIDENCE nodes: Run Confidence Extractor → get factor recommendations
 6. Apply recommended confidence_factors to nodes
 7. Run Critic agent → get valid critiques with breaks_proof flags
-8. Implement critique resolutions, add critic_notes to nodes
+8. ALWAYS add critic_notes to reviewed nodes (records review happened, even if no issues)
 9. Run Graph Reviewer agent → get final validation
 10. Run `python scripts/graph_utils.py persist-scores` → calculate and write scores
 11. Report summary to user
@@ -939,6 +939,15 @@ critic_notes:
       status: "open"
   proof_breaking_open: 1
   detail_issues: 1
+```
+
+**Minimal structure when no issues found** (still required to mark node as reviewed):
+```yaml
+critic_notes:
+  last_reviewed: "2026-01-04"
+  critiques: []
+  proof_breaking_open: 0
+  detail_issues: 0
 ```
 
 Only `breaks_proof: true` critiques affect confidence. Detail issues are noted but don't penalize.

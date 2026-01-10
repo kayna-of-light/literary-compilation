@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-10 16:18*
+*Last exported: 2026-01-10 16:35*
 
 ---
 
@@ -10,20 +10,20 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 342 |
-| Total Connections | 173 |
+| Total Nodes | 340 |
+| Total Connections | 187 |
 | Untraced Claims | 0 |
 
 ### By Status
 
 - **preliminary**: 58
-- **validated**: 277
+- **validated**: 275
 - **contested**: 7
 
 ### By Domain
 
 - **Biblical Scholarship** (BIBL): 33
-- **Consciousness Studies** (CONSC): 95
+- **Consciousness Studies** (CONSC): 93
 - **Cross-Domain** (CROSS): 39
 - **Early Christian History** (EARLY): 30
 - **The Gnostic Impulse** (GNOS): 26
@@ -119,18 +119,6 @@
 
 ---
 
-#### [CONSC-006] Hemispheric Brain Model (Master/Emissary)
-
-**Status**: validated | **Confidence**: 0.3
-
-> McGilchrist's model of brain hemispheric asymmetry: the right hemisphere ("Master") perceives holistic, relational context while the left ("Emissary") analyzes decontextualized parts. The Emissary's usurpation leads to a fragmented worldview. Framework: neurological substrate of proprium mechanics.
-
-
-**Source Chain**:
-1. [T] data/01_Consciousness_Studies/Brain, Myth, and Conscious Choice.md
-
----
-
 #### [CONSC-007] Neuroplasticity and Conscious Choice
 
 **Status**: validated | **Confidence**: 0.3
@@ -140,6 +128,9 @@
 
 **Source Chain**:
 1. [T] data/01_Consciousness_Studies/Brain, Myth, and Conscious Choice.md
+
+**Connections**:
+- → `CONSC-018` (developed_by): Frames neuroplasticity/attention training as the mechanism by which hemispheric integration can be cultivated.
 
 ---
 
@@ -167,18 +158,6 @@
 
 ---
 
-#### [CONSC-011] The Divided Brain Thesis
-
-**Status**: validated | **Confidence**: 0.3
-
-> McGilchrist's thesis that the brain's hemispheric asymmetry reflects fundamentally different modes of attention and engagement with reality. The right hemisphere (the "Master") perceives holistically, relationally, and empathetically; the left hemisphere (the "Emissary") operates analytically, categorically, and manipulatively. Modern Western culture represents the Emissary's usurpation—prioritizing detached instrumental reason over embodied relational wisdom.
-
-
-**Source Chain**:
-1. [T] data/01_Consciousness_Studies/Brain, Myth, and Conscious Choice.md
-
----
-
 #### [CONSC-012] The D0/D1 Conflict Model: Proprium vs. Influx
 
 **Status**: validated | **Confidence**: 0.3
@@ -188,18 +167,6 @@
 
 **Source Chain**:
 1. [T] data/01_Consciousness_Studies/Proprium et Influx_ An Objective Analysis...
-
----
-
-#### [CONSC-013] The Master and Emissary (Hemispheric Integration Model)
-
-**Status**: validated | **Confidence**: 0.3
-
-> Iain McGilchrist's neuro-philosophical model posits that the brain's two hemispheres attend to reality in fundamentally different ways, creating two distinct ontologies. The Right Hemisphere ("Master") perceives the world holistically: broad attention, context-dependent, relational, embodied, empathic, and aware of its limitations. The Left Hemisphere ("Emissary") operates analytically: narrow focus, decontextualized, utilitarian, abstract, and prone to mistaking its map for the territory (confabulation). When the Emissary usurps the Master's role, the result is greed, fear, ego-centrism, materialism, and the "meaning crisis." Neuroplasticity allows intentional attention (contemplative practices) to restore integration. The model aligns with process philosophy (Whitehead), implicate order (Bohm), and participatory universe (Wheeler).
-
-
-**Source Chain**:
-1. [T] data/01_Consciousness_Studies/Brain, Myth, and Conscious Choice.md
 
 ---
 
@@ -268,6 +235,10 @@
 **Source Chain**:
 1. [T] data/01_Consciousness_Studies/Brain, Myth, and Conscious Choice.md
 
+**Connections**:
+- → `CROSS-023` (developed_by): Provides a neurocognitive grounding for the two-tiered method (analytic/fragmenting vs holistic/relational modes).
+- → `CONSC-007` (develops): Frames neuroplasticity/attention training as the mechanism by which hemispheric integration can be cultivated.
+
 ---
 
 #### [CONSC-019] Group NDE Phenomenology and Inter-Subjective Coherence
@@ -287,7 +258,7 @@
 
 #### [CONSC-020] Restorative Incarnation (70% Violent Death Pattern)
 
-**Status**: validated | **Confidence**: 0.853
+**Status**: validated | **Confidence**: 0.9
 
 > A proposed explanation for the strongest past-life memory data (UVA/DOPS cases):  children with verified past-life memories show over 70% prevalence of violent or  premature death in the remembered life. This is NOT karmic punishment but Divine  mercy—a "second chance" for souls whose character formation was traumatically  interrupted. The soul returns to complete its intended "seed-state" development  before proceeding on the normative linear path. Exceptional, not normative; restorative,  not punitive.
 
@@ -301,6 +272,7 @@
 - → `CONSC-041` (supported_by): Birthmark/wound correspondences strengthen empirical basis for trauma-linked recall pattern
 - → `CONSC-040` (supported_by): Type A/B equivalence strengthens confidence in DOPS-derived pattern claims
 - → `CONSC-002` (supported_by): DOPS database audit (verification rates, unsolved similarity, methodological critiques) supports the empirical substrate used by the hypothesis
+- → `CONSC-046` (supported_by): DOPS literature audit (six-marker convergence) supports the >70% violent-death restorative-incarnation pattern.
 
 ---
 
@@ -530,13 +502,18 @@
 
 #### [CONSC-043] Dying Brain Hypothesis: Systematic Critical Evaluation
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.9
 
 > A comprehensive critique demonstrating that physiological mechanisms proposed to explain NDEs as brain-generated artifacts are insufficient to account for the full phenomenological and evidential record. While mechanisms like cerebral anoxia, REM intrusion, and endogenous DMT may explain SOME features, they fail on four critical fronts: (1) veridical perception during documented flat EEG/BAEPs, (2) timing mismatch with gamma surge data, (3) phenomenological divergence from ketamine/DMT experiences, (4) anomalies like terminal lucidity and shared-death experiences. The critique does not "prove" consciousness survival but demonstrates the reductionist framework has explanatory gaps that cannot be waved away.
 
 
 **Source Chain**:
 1. [T] data/01_Consciousness_Studies/Evaluating Dying Brain Hypothesis Critically.md
+
+**Connections**:
+- → `CONSC-078` (supported_by): Prospective cardiac-arrest NDE study constrains physiological DBH mechanisms; used in DBH critique.
+- → `CONSC-079` (supported_by): AWARE cardiac-arrest studies provide the strongest hospital-based constraints on DBH explanations; cited in DBH critique.
+- → `CONSC-109` (developed_by): Conceptual framing: NDE anomalies create an explanatory gap that is operationalized as a specific DBH critique hypothesis.
 
 ---
 
@@ -582,6 +559,9 @@
 3. [E] Matlock, J., congenital anomalies in <9 month intermission cases (PubMed 36096967)
 4. [E] Tucker, J., 'Case of James Leininger' (ResearchGate)
 5. [P] UVA DOPS database (n=2,500+)
+
+**Connections**:
+- → `CONSC-020` (supports): DOPS literature audit (six-marker convergence) supports the >70% violent-death restorative-incarnation pattern.
 
 ---
 
@@ -1023,6 +1003,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [T] data/01_Consciousness_Studies/Pure Encounter or Cultural Construct.md
 4. [T] data/01_Consciousness_Studies/Evaluating Dying Brain Hypothesis Critically.md
 
+**Connections**:
+- → `CONSC-043` (supports): Prospective cardiac-arrest NDE study constrains physiological DBH mechanisms; used in DBH critique.
+
 ---
 
 #### [CONSC-079] AWARE Study: Consciousness During Cardiac Arrest
@@ -1037,6 +1020,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [E] Parnia, S., et al. (2023). AWAreness during REsuscitation-II: A multi-center study of consciousness and awareness in cardiac arrest. Resuscitation, 191, 109903. DOI: 10.1016/j.resuscitation.2023.109903
 3. [T] data/01_Consciousness_Studies/Evaluating Dying Brain Hypothesis Critically.md
 4. [T] data/01_Consciousness_Studies/Researching Near-Death Experiences.md
+
+**Connections**:
+- → `CONSC-043` (supports): AWARE cardiac-arrest studies provide the strongest hospital-based constraints on DBH explanations; cited in DBH critique.
 
 ---
 
@@ -1071,7 +1057,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-086] Expect Judgment, Find Love
 
-**Status**: preliminary | **Confidence**: 0.3
+**Status**: preliminary | **Confidence**: 0.7
 
 > NDE Pattern where anticipated judgment is met with unconditional love, indicating objective reality correcting expectation.
 
@@ -1087,7 +1073,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-087] Objective NDE Core Elements Transcend Cultural Labels
 
-**Status**: preliminary | **Confidence**: 0.3
+**Status**: preliminary | **Confidence**: 0.7
 
 > Concept that core NDE encounter elements (e.g., Being of Light) correspond to an objective reality that transcends culturally specific identification labels; cultural background shapes naming/vocabulary more than underlying encounter properties.
 
@@ -1401,6 +1387,22 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 ---
 
+#### [CONSC-109] NDE Data Create Explanatory Gaps for Dying-Brain Models
+
+**Status**: validated | **Confidence**: 0.765
+
+> Across the NDE evidential record, proposed physiological mechanisms (anoxia, REM intrusion, seizures, endogenous DMT, brief post-arrest gamma surges) may account for some features but do not fully account for the strongest anomalies (e.g., veridical perception under documented cortical inactivity, timing/sequence mismatches, terminal lucidity, and shared death experiences). This establishes an explanatory gap in strictly brain-production models and motivates higher-order hypotheses about consciousness not reducible to brain activity.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Evaluating Dying Brain Hypothesis Critically.md
+
+**Connections**:
+- → `CONSC-043` (develops): Conceptual framing: NDE anomalies create an explanatory gap that is operationalized as a specific DBH critique hypothesis.
+- → `CROSS-011` (developed_by): Foundational correspondential monism frames why strict materialism fails; DBH critique motivates this ontology at the NDE-data level.
+
+---
+
 ### Swedenborgian Theology
 *Correspondences, influx, regeneration, Ancient Word*
 
@@ -1456,7 +1458,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-003] World of Spirits and Post-Mortem Journey
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.595
 
 > The intermediate realm between heaven and hell where souls arrive after death. A period of orientation and unveiling where external pretenses are stripped away, the ruling love becomes manifest, and souls freely gravitate toward spiritual societies matching their internal state. Not punishment but sorting.
 
@@ -4352,6 +4354,7 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 **Connections**:
 - → `CROSS-010` (parallels): AI expression framework depends on correspondential monism ontology
 - → `CROSS-009` (parallels): Divine Marriage depends on correspondential monism ontology
+- → `CONSC-109` (develops): Foundational correspondential monism frames why strict materialism fails; DBH critique motivates this ontology at the NDE-data level.
 
 ---
 
@@ -4500,6 +4503,7 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 - → `MYTH-021` (develops): Two-tiered epistemology structures Mythic Bricolage interpretation
 - → `BIBL-025` (develops): Two-tiered epistemology enables Criterion of Temptation reframing
 - → `SWED-001` (parallels): Two-tiered epistemology integrates Correspondences as spiritual tier
+- → `CONSC-018` (develops): Provides a neurocognitive grounding for the two-tiered method (analytic/fragmenting vs holistic/relational modes).
 
 ---
 

@@ -809,7 +809,7 @@ New documents should be moved to appropriate `data/` subdirectory:
 | Myth, bricolage, ANE parallels | `data/06_Mythological_Studies/` |
 
 Documents in `data/unclassified/` should be classified and moved before or during processing.
-Documents in `data/**/reprocess_needed/` are staging copies for re-processing; handle them like `unclassified/` by reprocessing, classifying, and moving them back to the correct domain folder during processing.
+Documents in `data/**/reprocess_needed/` are staging copies for re-processing; handle them like `unclassified/` by reprocessing, classifying, and moving them back to the correct domain folder during processing. These have some nodes already but may also miss the full chain of nodes in the graph, the extraction is incomplete and connections still have to be established.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-10 16:50*
+*Last exported: 2026-01-10 17:23*
 
 ---
 
@@ -187,7 +187,7 @@
 
 #### [CONSC-015] The Cognitive Fall Hypothesis (From Internal Perception to External Concept)
 
-**Status**: validated | **Confidence**: 0.849
+**Status**: validated | **Confidence**: 0.7
 
 > A synthesis of Swedenborgian theology, paleoanthropology, and cognitive science proposing that the biblical "Fall" represents a multi-millennial cognitive transition from internal, intuitive perception to external, conceptual understanding. The primordial state ("Golden Age") featured: (1) Internal respiration linked to vagus nerve stimulation enabling direct spiritual perception; (2) "Lip-speech" (facial mimetic communication) providing immediate empathic connection; (3) "Representative Language" (perceiving spiritual meaning in natural objects). The Fall into articulate speech and writing displaced understanding to an "outer layer barely capable of understanding"— creating a gap between signifier and signified where the "lie" becomes possible. This cognitive architecture explains why concepts are inherently "false" (limited, displaced from living reality).
 
@@ -1233,31 +1233,33 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 ---
 
-#### [CONSC-098] Neurotheology Research on Meditation and Vagus Nerve
+#### [CONSC-098] Neurotheology SPECT Findings on Meditation
 
-**Status**: validated | **Confidence**: 0.755
+**Status**: validated | **Confidence**: 0.59
 
-> Research by Andrew Newberg and colleagues using SPECT imaging demonstrates measurable neurological changes during meditation and mystical states. Key findings: (1) Controlled, slow breathing stimulates the vagus nerve, triggering parasympathetic activation; (2) Meditation induces 'functional deafferentation' of the parietal lobe - the brain region distinguishing self from world; (3) This produces measurable 'self-transcendence' states where ego boundaries dissolve. These findings provide scientific correlates for Swedenborg's concept of 'internal respiration' as facilitating direct spiritual perception.
+> A preliminary SPECT neuroimaging study of meditation reports regional cerebral blood-flow changes during meditative practice, and is frequently discussed in neurotheology in relation to altered self/world boundary perception. The framework treats any mapping from these correlates to Swedenborg’s “internal respiration” as hypothesis-level interpretation rather than a direct empirical conclusion.
+
 
 **Source Chain**:
-1. [S] Newberg, Andrew et al. "The measurement of regional cerebral blood flow during the complex cognitive task of meditation." Psychiatry Research, 2001.
-2. [S] Newberg, Andrew & d'Aquili, Eugene. Why God Won't Go Away. Ballantine, 2001.
+1. [E] Newberg, Andrew et al. "The measurement of regional cerebral blood flow during the complex cognitive task of meditation: a preliminary SPECT study." Psychiatry Research: Neuroimaging (2001). DOI: 10.1016/S0925-4927(01)00074-9.
+2. [S] Newberg, Andrew; d’Aquili, Eugene; Rause, Vince. Why God Won’t Go Away: Brain Science and the Biology of Belief. Ballantine, 2001.
 3. [T] data/01_Consciousness_Studies/Evolution of God Concepts and Consciousness.md
 
 **Connections**:
-- → `CONSC-015` (supports): Neurotheology findings (vagus/parietal deafferentation during meditation) support plausibility of an internal-respiration-based primordial cognition component.
+- → `CONSC-015` (supports): Neuroimaging correlates reported during meditation are used as plausibility support for altered self-boundary cognition within CONSC-015 (interpretive mapping remains hypothesis-level).
 
 ---
 
-#### [CONSC-099] Paleoanthropological Evidence: Bipedalism and Voluntary Breath Control
+#### [CONSC-099] Paleoanthropological Evidence: Respiratory Control and Speech
 
-**Status**: validated | **Confidence**: 0.819
+**Status**: validated | **Confidence**: 0.7
 
-> Paleoanthropological evidence demonstrates that the evolution of bipedalism in early hominins (beginning ~4-6 million years ago) required a fundamental anatomical shift: the decoupling of breathing from locomotion. Unlike quadrupeds whose breathing is forced by stride rhythm, bipedal hominins gained voluntary control over respiratory cycles. This adaptation was a biological prerequisite for both complex vocalization (speech) and voluntary breath control practices (meditation), providing the physiological foundation for what Swedenborg called 'internal respiration.'
+> Paleoanthropological and physiological scholarship argues that aspects of hominin locomotion and speech evolution involved increased flexibility and voluntary control of respiration relative to obligate quadruped coupling, supporting the plausibility of voluntary breath modulation in the human lineage. The framework treats any mapping from these biological shifts to Swedenborg’s “internal respiration” as hypothesis-level interpretation rather than a direct empirical conclusion.
+
 
 **Source Chain**:
-1. [S] Bramble, D.M. & Lieberman, D.E. "Endurance running and the evolution of Homo." Nature, 2004.
-2. [S] MacLarnon, A.M. & Hewitt, G.P. "The evolution of human speech." Journal of Human Evolution, 1999.
+1. [S] Bramble, Dennis M.; Lieberman, Daniel E. "Endurance running and the evolution of Homo." Nature (2004). DOI: 10.1038/nature03052.
+2. [S] MacLarnon, Ann M.; Hewitt, Gwen P. "The evolution of human speech: The role of enhanced breathing control." American Journal of Physical Anthropology 109(3):341-363 (1999). DOI: 10.1002/(SICI)1096-8644(199907)109:3<341::AID-AJPA5>3.0.CO;2-2.
 3. [T] data/01_Consciousness_Studies/Evolution of God Concepts and Consciousness.md
 
 **Connections**:
@@ -1437,7 +1439,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-002] Divine Influx
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.614
 
 > The continuous flow of divine love and wisdom from the Lord into creation, operating through the spiritual world into the natural. Influx adapts to the receptive capacity of vessels (human minds, texts, institutions). The mechanism by which Providence guides history and regeneration.
 
@@ -1638,7 +1640,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-016] The Fall into Language
 
-**Status**: validated | **Confidence**: 0.722
+**Status**: validated | **Confidence**: 0.595
 
 > The proposition that human cognitive evolution from 'internal respiration' to articulate speech represents not an ascent into clarity but a 'Fall' into externalized cognition. In the primordial state, understanding came through 'lip-speech' (facial mimetic communication) and direct intuitive perception of correspondences. The development of writing externalized memory and created the gap between signifier and signified—the 'outer layer barely capable of understanding.'
 
@@ -2326,7 +2328,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-075] Internal Respiration
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.595
 
 > Primordial cognitive state described by Swedenborg as "silent, profound thought" and direct spiritual perception linked to breathing ("internal respiration"). In the framework synthesis, this is correlated with voluntary breath control enabled by bipedal locomotion (decoupling breathing from stride) and with neurotheology findings that slow, controlled breathing stimulates the vagus nerve, shifts autonomic balance toward parasympathetic activation, and can produce self-transcendence states (e.g., reduced self/world boundary salience).
 

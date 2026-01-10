@@ -290,11 +290,17 @@ python scripts/graph_utils.py list -d CONSC  # List by domain
 python scripts/graph_utils.py untraced       # Show untraced claims
 python scripts/graph_utils.py export-md      # Regenerate markdown
 python scripts/graph_utils.py warnings --type TYPE  # Show specific warnings
+python scripts/graph_utils.py add-node --input payload.yaml [--section nodes|extended_nodes] [--id OVERRIDE]
+python scripts/graph_utils.py update-node NODE_ID --input payload.yaml
+python scripts/graph_utils.py delete-node NODE_ID [--prune]
+python scripts/graph_utils.py get-node NODE_ID [--json]
 
 # Connection management (auto-validates type rules, auto-adds inverse):
 python scripts/graph_utils.py add-connection -s SOURCE -T TARGET -c TYPE [--note "note"] [--dry-run]
 python scripts/graph_utils.py fix-inverses [--dry-run]  # Add all missing inverse connections
 ```
+
+**Graph Update Path**: All node creation, updates, deletions, and fetches must go through `graph_utils.py` commands above—do not edit `graph/knowledge_graph.yaml` directly.
 
 ### Connection Management Commands
 

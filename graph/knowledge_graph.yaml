@@ -142,6 +142,7 @@ nodes:
     created: '2026-02-10'
     updated: '2026-02-10'
     trace_status: complete
+    confidence: 0.506
   CONC-TEST-001:
     title: Test Concept Bridge
     domain: CROSS
@@ -166,6 +167,7 @@ nodes:
     created: '2026-02-10'
     updated: '2026-02-10'
     trace_status: complete
+    confidence: 0.595
   HYP-TEST-001:
     title: Test Hypothesis Thread
     domain: CONSC
@@ -195,6 +197,7 @@ nodes:
     created: '2026-02-10'
     updated: '2026-02-10'
     trace_status: complete
+    confidence: 0.7
   EVID-TEST-001:
     title: Test Evidence Case
     domain: CONSC
@@ -223,6 +226,7 @@ nodes:
     created: '2026-02-10'
     updated: '2026-02-10'
     trace_status: complete
+    confidence: 0.67
   SYN-TEST-001:
     title: Test Synthesis Join
     domain: CROSS
@@ -243,6 +247,7 @@ nodes:
     created: '2026-02-10'
     updated: '2026-02-10'
     trace_status: complete
+    confidence: 0.3
   CONC-TEST-002:
     title: Test Concept Bridge Two
     domain: CROSS
@@ -267,6 +272,7 @@ nodes:
     created: '2026-02-10'
     updated: '2026-02-10'
     trace_status: complete
+    confidence: 0.595
   EVID-TEST-002:
     title: Test Evidence Case Two
     domain: CONSC
@@ -295,6 +301,7 @@ nodes:
     created: '2026-02-10'
     updated: '2026-02-10'
     trace_status: complete
+    confidence: 0.67
   CROSS-001:
     domain: CROSS
     node_type: concept
@@ -317,6 +324,7 @@ nodes:
     id: CROSS-001
     created: '2026-01-10'
     updated: '2026-01-10'
+    confidence: 0.595
   CONSC-001:
     domain: CONSC
     node_type: concept
@@ -347,6 +355,7 @@ nodes:
         concept
     created: '2026-01-10'
     updated: '2026-01-10'
+    confidence: 0.48
   CONSC-002:
     domain: CONSC
     node_type: hypothesis
@@ -374,6 +383,7 @@ nodes:
         hypothesis
     created: '2026-01-10'
     updated: '2026-01-10'
+    confidence: 0.565
   CONSC-003:
     domain: CONSC
     node_type: hypothesis
@@ -404,6 +414,7 @@ nodes:
       note: MBSR/amygdala evidence supports neuroplasticity integration hypothesis
     created: '2026-01-10'
     updated: '2026-01-10'
+    confidence: 0.565
   CONSC-004:
     domain: CONSC
     node_type: concept
@@ -430,6 +441,7 @@ nodes:
       note: Participatory cosmos concept develops neuroplasticity integration hypothesis
     created: '2026-01-10'
     updated: '2026-01-10'
+    confidence: 0.48
   CONSC-005:
     domain: CONSC
     node_type: evidence
@@ -453,6 +465,14 @@ nodes:
         hypothesis
     created: '2026-01-10'
     updated: '2026-01-10'
+    confidence_factors:
+      source_type: external
+      methodology: observational
+      sample_size: small_10-99
+      replication: single_study
+      peer_review: na
+      source_chain_quality: secondary
+    confidence: 0.565
   CONSC-006:
     domain: CONSC
     node_type: evidence
@@ -475,4 +495,179 @@ nodes:
       note: MBSR/amygdala evidence supports neuroplasticity integration hypothesis
     created: '2026-01-10'
     updated: '2026-01-10'
+    confidence_factors:
+      source_type: external
+      methodology: observational
+      sample_size: small_10-99
+      replication: single_study
+      peer_review: na
+      source_chain_quality: secondary
+    confidence: 0.565
+  EARLY-001:
+    domain: EARLY
+    node_type: foundational
+    status: preliminary
+    title: Historical-Critical Assessment of Early Christian Sources
+    definition: The historical-critical method reveals that early Christian sources
+      (Acts, epistles) contain literary constructions, theological agendas, and contradictions
+      that complicate their use as straightforward historical records.
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/Paul's Damascus Vision_ Scholarly Critique.md
+      note: Document minting this foundational premise
+    trace_status: partial
+    id: EARLY-001
+    connections:
+    - target: BIBL-001
+      type: parallels
+      note: Both apply critical methodology to NT texts
+    - target: EARLY-002
+      type: develops
+      note: Foundational develops into concept
+    created: '2026-01-10'
+    updated: '2026-01-10'
+    confidence: 0.3
+  BIBL-001:
+    domain: BIBL
+    node_type: foundational
+    status: preliminary
+    title: Literary Analysis of New Testament Texts
+    definition: New Testament texts exhibit literary dependence, redactional layering,
+      and intertextual borrowing from Greco-Roman and Jewish sources. Genre analysis
+      and source criticism reveal compositional processes distinct from modern historiography.
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/Paul's Damascus Vision_ Scholarly Critique.md
+      note: Document minting this foundational premise
+    trace_status: partial
+    id: BIBL-001
+    connections:
+    - target: EARLY-001
+      type: parallels
+      note: Both apply critical methodology to NT texts
+    created: '2026-01-10'
+    updated: '2026-01-10'
+    confidence: 0.3
+  EARLY-002:
+    domain: EARLY
+    node_type: concept
+    status: preliminary
+    title: Acts Reliability Under Critical Assessment
+    definition: The Acts of the Apostles exhibits internal contradictions across parallel
+      accounts, literary borrowing from Hellenistic sources, and theological agenda
+      that subordinate historical accuracy to ecclesiological purposes.
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/Paul's Damascus Vision_ Scholarly Critique.md
+      note: Document developing this concept
+    connections:
+    - target: EARLY-001
+      type: developed_by
+      note: Concept derived from foundational critical method
+    - target: EARLY-003
+      type: develops
+      note: Concept develops into hypothesis
+    trace_status: partial
+    id: EARLY-002
+    created: '2026-01-10'
+    updated: '2026-01-10'
+    confidence: 0.3
+  EARLY-003:
+    domain: EARLY
+    node_type: hypothesis
+    status: preliminary
+    title: Damascus Conversion Accounts Contain Irreconcilable Contradictions
+    definition: The three Acts accounts of Paul's Damascus vision (Acts 9, 22, 26)
+      contain direct factual contradictions regarding companions' sensory experience,
+      posture, and transmission of commission, indicating literary construction rather
+      than historical memory.
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/Paul's Damascus Vision_ Scholarly Critique.md
+      note: Document proposing this hypothesis
+    connections:
+    - target: EARLY-002
+      type: developed_by
+      note: Hypothesis developed from Acts reliability concept
+    - target: EARLY-004
+      type: supported_by
+      note: Auditory contradiction evidence
+    - target: EARLY-005
+      type: supported_by
+      note: Postural contradiction evidence
+    trace_status: partial
+    id: EARLY-003
+    created: '2026-01-10'
+    updated: '2026-01-10'
+    confidence: 0.843
+  EARLY-004:
+    domain: EARLY
+    node_type: evidence
+    status: preliminary
+    title: Acts 9/22 Auditory Contradiction
+    definition: 'Direct textual contradiction: Acts 9:7 states companions heard the
+      voice while Acts 22:9 states they did not hear the voice. Grammatical harmonization
+      attempts are regarded as theologically driven rather than linguistically supported.'
+    source_chain:
+    - type: P
+      ref: NA28 Greek New Testament, Acts 9:7, Acts 22:9
+      note: Primary textual evidence
+    - type: S
+      ref: Ehrman, The Book of Acts is NOT RELIABLE (Bart Ehrman Blog)
+      note: Critical scholarly analysis
+    - type: T
+      ref: data/04_Early_Christian_History/Paul's Damascus Vision_ Scholarly Critique.md
+      note: Framework synthesis
+    connections:
+    - target: EARLY-003
+      type: supports
+      note: Direct textual evidence for narrative contradiction
+    trace_status: complete
+    id: EARLY-004
+    created: '2026-01-10'
+    updated: '2026-01-10'
+    confidence_factors:
+      source_type: external
+      methodology: textual_critical
+      sample_size: na
+      replication: independent_replicated
+      peer_review: primary_text
+      source_chain_quality: primary_verified
+    confidence: 0.812
+  EARLY-005:
+    domain: EARLY
+    node_type: evidence
+    status: preliminary
+    title: Acts 9/26 Postural Contradiction
+    definition: >
+      Acts 9:7 states companions were standing speechless (εἱστήκεισαν ἐνεοί)
+      while Acts 26:14 explicitly states 'we had ALL fallen to the ground'
+      (πάντων τε καταπεσόντων ἡμῶν) — a direct postural contradiction
+      indicating narrative fluidity rather than eyewitness memory.
+    source_chain:
+    - type: P
+      ref: NA28 Greek New Testament, Acts 9:7, Acts 26:14
+      note: Primary textual evidence
+    - type: S
+      ref: Ehrman, The Book of Acts is NOT RELIABLE (Bart Ehrman Blog)
+      note: Critical scholarly analysis
+    - type: T
+      ref: data/04_Early_Christian_History/Paul's Damascus Vision_ Scholarly Critique.md
+      note: Framework synthesis
+    connections:
+    - target: EARLY-003
+      type: supports
+      note: Direct textual evidence for narrative contradiction
+    trace_status: complete
+    id: EARLY-005
+    created: '2026-01-10'
+    updated: '2026-01-10'
+    confidence_factors:
+      source_type: external
+      methodology: textual_critical
+      sample_size: na
+      replication: independent_replicated
+      peer_review: primary_text
+      source_chain_quality: primary_verified
+    confidence: 0.812
 untraced: []

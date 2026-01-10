@@ -46,6 +46,7 @@ import argparse
 from pathlib import Path
 from collections import defaultdict
 from datetime import datetime
+from copy import deepcopy
 
 # Paths
 SCRIPT_DIR = Path(__file__).parent
@@ -217,7 +218,9 @@ PROOF_BREAKING_PENALTY = 0.25
 
 # Minimal connection type sets (strict chain, no skips)
 EVIDENCE_SUPPORT = {'supports'}              # evidence → hypothesis
+EVIDENCE_SUPPORT_INV = {'supported_by'}      # hypothesis → evidence (inverse)
 EVIDENCE_OPPOSITION = {'contradicts'}        # evidence → hypothesis (refutation)
+EVIDENCE_OPPOSITION_INV = {'contradicted_by'}# hypothesis → evidence (inverse)
 CHAIN_DOWN = {'develops'}                    # foundational → concept → hypothesis
 CHAIN_DOWN_INV = {'developed_by'}            # inverse of develops
 INTEGRATION = {'integrates_into'}            # concept → synthesis
@@ -227,7 +230,8 @@ STRUCTURAL = {'requires', 'required_by'}     # same-level dependency
 
 # All valid relationship types
 ALL_VALID_TYPES = (
-    EVIDENCE_SUPPORT | EVIDENCE_OPPOSITION |
+    EVIDENCE_SUPPORT | EVIDENCE_SUPPORT_INV |
+    EVIDENCE_OPPOSITION | EVIDENCE_OPPOSITION_INV |
     CHAIN_DOWN | CHAIN_DOWN_INV |
     INTEGRATION | INTEGRATION_INV |
     PEER | STRUCTURAL
@@ -284,7 +288,7 @@ CONNECTION_TYPE_RULES = {
     ('hypothesis', 'foundational'):   set(),  # NO SKIP
     ('hypothesis', 'concept'):        CHAIN_DOWN_INV,
     ('hypothesis', 'hypothesis'):     PEER | STRUCTURAL,
-    ('hypothesis', 'evidence'):       set(),  # Hypothesis does not point down to evidence
+    ('hypothesis', 'evidence'):       EVIDENCE_SUPPORT_INV | EVIDENCE_OPPOSITION_INV,
     ('hypothesis', 'synthesis'):      set(),  # NO SKIP
 
     # === EVIDENCE ===
@@ -310,6 +314,10 @@ CONNECTION_INVERSES = {
     'integrated_from': 'integrates_into',
     'requires': 'required_by',
     'required_by': 'requires',
+    'supports': 'supported_by',
+    'supported_by': 'supports',
+    'contradicts': 'contradicted_by',
+    'contradicted_by': 'contradicts',
     # Symmetric connections
     'parallels': 'parallels',
     'contrasts': 'contrasts',
@@ -701,18 +709,38 @@ def detect_proof_cycles(nodes: dict) -> list:
     """
     # Relationships that constitute "proof" or evidence support
     # These are the connections where confidence flows in the minimal scheme
-    proof_relations = ['supports', 'develops', 'developed_by', 'integrates_into', 'integrated_from', 'requires', 'required_by']
-    
-    # Build directed graph of proof relationships
-    graph = {node_id: [] for node_id in nodes}
-    
+    proof_relations = [
+        'supports', 'supported_by', 'contradicts', 'contradicted_by',
+        'develops', 'developed_by', 'integrates_into', 'integrated_from',
+        'requires', 'required_by'
+    ]
+
+    # Collect proof edges and track by pair for inverse detection
+    edges = []
+    edges_by_pair = defaultdict(set)
     for node_id, node in nodes.items():
         for conn in node.get('connections', []):
             target = conn.get('target')
             rel_type = conn.get('type', '')
-            # These relations mean: this node contributes to target's proof
             if rel_type in proof_relations and target in nodes:
-                graph[node_id].append((target, rel_type))
+                edges.append((node_id, target, rel_type))
+                edges_by_pair[(node_id, target)].add(rel_type)
+
+    # Identify mutual inverse pairs (e.g., develops/developed_by) and ignore them for cycle checks
+    to_skip = set()
+    for src, tgt, rel in edges:
+        inv = CONNECTION_INVERSES.get(rel)
+        if inv and rel in proof_relations and inv in proof_relations:
+            if inv in edges_by_pair.get((tgt, src), set()):
+                to_skip.add((src, tgt, rel))
+                to_skip.add((tgt, src, inv))
+
+    # Build directed graph of proof relationships, excluding inverse pairs
+    graph = {node_id: [] for node_id in nodes}
+    for src, tgt, rel in edges:
+        if (src, tgt, rel) in to_skip:
+            continue
+        graph[src].append((tgt, rel))
     
     # DFS-based cycle detection using coloring
     WHITE, GRAY, BLACK = 0, 1, 2
@@ -752,7 +780,7 @@ def check_bidirectional_connections(nodes: dict) -> list:
         nodes: Dictionary of node_id -> node data
         
     Returns:
-        List of tuples (source, target, rel_type) where reverse is missing
+        List of tuples (source, target, rel_type, expected_inverse) where reverse is missing
     """
     missing_reverse = []
     
@@ -766,23 +794,26 @@ def check_bidirectional_connections(nodes: dict) -> list:
     
     # Check for missing reverse connections
     for source, target in all_connections:
-        # Check if there's a connection back from target to source
+        # Get the relationship type for the forward connection
+        source_node = nodes[source]
+        rel_type = None
+        for conn in source_node.get('connections', []):
+            if conn.get('target') == target:
+                rel_type = conn.get('type')
+                break
+
+        expected_inverse = CONNECTION_INVERSES.get(rel_type)
+        if not expected_inverse:
+            continue  # No defined inverse; skip bidirectional check
+
         target_node = nodes[target]
         reverse_exists = any(
-            conn.get('target') == source 
+            conn.get('target') == source and conn.get('type') == expected_inverse
             for conn in target_node.get('connections', [])
         )
         
         if not reverse_exists:
-            # Get the relationship type for the forward connection
-            source_node = nodes[source]
-            rel_type = None
-            for conn in source_node.get('connections', []):
-                if conn.get('target') == target:
-                    rel_type = conn.get('type')
-                    break
-            
-            missing_reverse.append((source, target, rel_type))
+            missing_reverse.append((source, target, rel_type, expected_inverse))
     
     return missing_reverse
 
@@ -1564,8 +1595,10 @@ def validate_graph(graph: dict, verbose: bool = False) -> dict:
     missing_reverse = check_bidirectional_connections(nodes)
     stats['missing_bidirectional'] = len(missing_reverse)
     if missing_reverse:
-        for source, target, rel_type in missing_reverse:
-            warnings.append(f"MISSING REVERSE: {source} -> {target} ({rel_type}) has no reverse connection")
+        for source, target, rel_type, expected_inverse in missing_reverse:
+            warnings.append(
+                f"MISSING REVERSE: {source} -> {target} ({rel_type}) missing {target} -> {source} ({expected_inverse})"
+            )
     
     # === NEW: CONNECTION TYPE VALIDATION ===
     connection_type_issues = check_connection_types(nodes)
@@ -1937,12 +1970,146 @@ def fix_missing_inverses(graph, dry_run=False):
     return result
 
 
+# =============================================================================
+# NODE CRUD HELPERS
+# =============================================================================
+
+def generate_node_id(domain: str, graph: dict) -> str:
+    """Generate the next node ID for a domain using 3-digit zero padding."""
+    nodes = get_all_nodes(graph)
+    prefix = f"{domain}-"
+    max_num = 0
+    for node_id in nodes.keys():
+        if node_id.startswith(prefix):
+            suffix = node_id[len(prefix):]
+            if suffix.isdigit():
+                max_num = max(max_num, int(suffix))
+    return f"{prefix}{max_num + 1:03d}"
+
+
+def load_payload(path: str) -> dict:
+    """Load a YAML/JSON payload from file."""
+    with open(path, 'r', encoding='utf-8') as f:
+        data = yaml.safe_load(f)
+    if not isinstance(data, dict):
+        raise ValueError("Input payload must be a mapping")
+    return data
+
+
+def apply_graph_update(new_graph: dict) -> dict:
+    """Validate and save the graph; return validation summary."""
+    validation = validate_graph(new_graph, verbose=False)
+    if not validation['passed']:
+        return {
+            'success': False,
+            'errors': validation['issues'],
+            'warnings': validation['warnings'],
+        }
+    save_graph(new_graph)
+    return {
+        'success': True,
+        'warnings': validation['warnings'],
+        'summary': validation['summary'],
+    }
+
+
+def add_node(graph: dict, payload: dict, section: str = 'nodes', node_id: str = None) -> dict:
+    """Add a node with automatic ID generation and validation."""
+    metadata = graph.get('metadata', {})
+    valid_domains = {d['id'] for d in metadata.get('domains', [])}
+    valid_statuses = set(metadata.get('statuses', {}).keys())
+    valid_node_types = set(metadata.get('node_types', {}).keys())
+
+    domain = payload.get('domain')
+    node_type = payload.get('node_type')
+    status = payload.get('status')
+
+    if not domain or domain not in valid_domains:
+        return {'success': False, 'errors': [f"Invalid or missing domain: {domain}"]}
+    if not node_type or node_type not in valid_node_types:
+        return {'success': False, 'errors': [f"Invalid or missing node_type: {node_type}"]}
+    if not status or status not in valid_statuses:
+        return {'success': False, 'errors': [f"Invalid or missing status: {status}"]}
+    if not payload.get('title') or not payload.get('definition'):
+        return {'success': False, 'errors': ["Missing required fields: title/definition"]}
+
+    target_section = graph.setdefault(section, {})
+    assigned_id = node_id or payload.get('id') or generate_node_id(domain, graph)
+    if assigned_id in target_section:
+        return {'success': False, 'errors': [f"Node ID already exists in {section}: {assigned_id}"]}
+
+    new_node = deepcopy(payload)
+    new_node['id'] = assigned_id
+    new_node.setdefault('source_chain', [])
+    new_node.setdefault('connections', [])
+    new_node.setdefault('created', datetime.now().strftime('%Y-%m-%d'))
+    new_node['updated'] = datetime.now().strftime('%Y-%m-%d')
+    new_node.setdefault('trace_status', 'untraced' if node_type == 'evidence' else 'complete')
+
+    new_graph = deepcopy(graph)
+    new_graph.setdefault(section, {})[assigned_id] = new_node
+
+    return apply_graph_update(new_graph) | {'node_id': assigned_id}
+
+
+def update_node(graph: dict, node_id: str, payload: dict) -> dict:
+    """Update an existing node with partial payload and revalidate."""
+    for section_name in ['nodes', 'extended_nodes']:
+        if node_id in graph.get(section_name, {}):
+            new_graph = deepcopy(graph)
+            node_ref = new_graph[section_name][node_id]
+            merged = deepcopy(node_ref)
+            merged.update(payload)
+
+            # Prevent domain/node_type drift without explicit consistency
+            if payload.get('domain') and payload.get('domain') != node_ref.get('domain'):
+                return {'success': False, 'errors': ["Domain change not allowed via update-node (create a new node instead)"]}
+            merged['updated'] = datetime.now().strftime('%Y-%m-%d')
+            new_graph[section_name][node_id] = merged
+            result = apply_graph_update(new_graph)
+            result['node_id'] = node_id
+            return result
+    return {'success': False, 'errors': [f"Node not found: {node_id}"]}
+
+
+def delete_node(graph: dict, node_id: str, prune: bool = True) -> dict:
+    """Delete a node and optionally prune all references."""
+    found_section = None
+    for section_name in ['nodes', 'extended_nodes']:
+        if node_id in graph.get(section_name, {}):
+            found_section = section_name
+            break
+    if not found_section:
+        return {'success': False, 'errors': [f"Node not found: {node_id}"]}
+
+    new_graph = deepcopy(graph)
+    del new_graph[found_section][node_id]
+
+    if prune:
+        for section in ['nodes', 'extended_nodes']:
+            for _, node in new_graph.get(section, {}).items():
+                conns = node.get('connections', []) or []
+                node['connections'] = [c for c in conns if c.get('target') != node_id]
+
+    return apply_graph_update(new_graph) | {'node_id': node_id}
+
+
+def get_node(graph: dict, node_id: str) -> dict:
+    """Fetch a node from nodes/extended_nodes."""
+    for section_name in ['nodes', 'extended_nodes']:
+        section = graph.get(section_name, {})
+        if node_id in section:
+            return {'success': True, 'node': section[node_id], 'section': section_name}
+    return {'success': False, 'errors': [f"Node not found: {node_id}"]}
+
+
 def main():
     parser = argparse.ArgumentParser(description="Knowledge Graph Utilities")
     parser.add_argument('command', choices=[
         'stats', 'validate', 'audit', 'list', 'connections', 'untraced', 'export-md',
         'confidence', 'score', 'low-confidence', 'needs-extraction', 'persist-scores',
-        'chain-check', 'warnings', 'add-connection', 'fix-inverses'
+        'chain-check', 'warnings', 'add-connection', 'fix-inverses',
+        'add-node', 'update-node', 'delete-node', 'get-node'
     ])
     parser.add_argument('--domain', '-d', help="Filter by domain ID")
     parser.add_argument('--json', '-j', action='store_true', help="Output as JSON")
@@ -1957,6 +2124,10 @@ def main():
     parser.add_argument('--target', '-T', help="Target node ID (for add-connection)")
     parser.add_argument('--conn-type', '-c', help="Connection type (for add-connection)")
     parser.add_argument('--note', help="Optional note for connection (for add-connection)")
+    parser.add_argument('--input', help="Path to YAML/JSON payload (for add-node, update-node)")
+    parser.add_argument('--section', default='nodes', choices=['nodes', 'extended_nodes'], help="Graph section to target for add-node")
+    parser.add_argument('--prune', action='store_true', help="Prune connections that reference a deleted node (delete-node)")
+    parser.add_argument('--id', help="Optional node ID override when creating a node")
     parser.add_argument('node_id', nargs='?', help="Node ID for score command")
     
     args = parser.parse_args()
@@ -2521,6 +2692,82 @@ def main():
         
         for msg in result['messages']:
             output(f"\n{msg}")
+
+    elif args.command == 'add-node':
+        if not args.input:
+            output("ERROR: add-node requires --input PATH to a YAML/JSON payload")
+            sys.exit(1)
+        try:
+            payload = load_payload(args.input)
+        except Exception as e:
+            output(f"ERROR: Failed to load payload: {e}")
+            sys.exit(1)
+
+        result = add_node(graph, payload, section=args.section, node_id=args.id)
+        if not result.get('success'):
+            for err in result.get('errors', []):
+                output(f"[ERROR] {err}")
+            for warn in result.get('warnings', []):
+                output(f"[WARN] {warn}")
+            sys.exit(1)
+
+        output(f"Added node: {result.get('node_id')} (section: {args.section})")
+        for warn in result.get('warnings', []):
+            output(f"[WARN] {warn}")
+        output("Validation: PASS")
+
+    elif args.command == 'update-node':
+        if not args.node_id or not args.input:
+            output("ERROR: update-node requires NODE_ID and --input PATH")
+            sys.exit(1)
+        try:
+            payload = load_payload(args.input)
+        except Exception as e:
+            output(f"ERROR: Failed to load payload: {e}")
+            sys.exit(1)
+
+        result = update_node(graph, args.node_id, payload)
+        if not result.get('success'):
+            for err in result.get('errors', []):
+                output(f"[ERROR] {err}")
+            for warn in result.get('warnings', []):
+                output(f"[WARN] {warn}")
+            sys.exit(1)
+
+        output(f"Updated node: {result.get('node_id')}")
+        for warn in result.get('warnings', []):
+            output(f"[WARN] {warn}")
+        output("Validation: PASS")
+
+    elif args.command == 'delete-node':
+        if not args.node_id:
+            output("ERROR: delete-node requires NODE_ID")
+            sys.exit(1)
+        result = delete_node(graph, args.node_id, prune=args.prune)
+        if not result.get('success'):
+            for err in result.get('errors', []):
+                output(f"[ERROR] {err}")
+            sys.exit(1)
+        output(f"Deleted node: {result.get('node_id')} (prune connections: {args.prune})")
+        for warn in result.get('warnings', []):
+            output(f"[WARN] {warn}")
+        output("Validation: PASS")
+
+    elif args.command == 'get-node':
+        if not args.node_id:
+            output("ERROR: get-node requires NODE_ID")
+            sys.exit(1)
+        result = get_node(graph, args.node_id)
+        if not result.get('success'):
+            for err in result.get('errors', []):
+                output(f"[ERROR] {err}")
+            sys.exit(1)
+        node_data = result.get('node', {})
+        if args.json:
+            output(json.dumps({'node_id': args.node_id, 'section': result.get('section'), 'node': node_data}, indent=2))
+        else:
+            output(f"Node: {args.node_id} (section: {result.get('section')})")
+            output(yaml.dump(node_data, sort_keys=False, allow_unicode=True))
         
         if not args.dry_run and result['fixed']:
             save_graph(graph)

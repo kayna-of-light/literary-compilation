@@ -20,15 +20,16 @@ Usage:
     python graph_utils.py needs-extraction   # List evidence nodes without confidence_factors
     python graph_utils.py persist-scores     # Calculate and write confidence scores to graph
     python graph_utils.py chain-check NODE_ID # Analyze a node's chain completeness
+    python graph_utils.py warnings           # Show warnings by type (chain, inverse, cardinality)
+    python graph_utils.py add-connection -s SRC -T TGT -c TYPE [--note "..."] [--dry-run]
+    python graph_utils.py fix-inverses       # Add any missing inverse connections (supports dry-run)
 
-Connection Validation:
-    The graph enforces bidirectional chains:
-    - DEVELOPMENT FLOW: foundational → concept → hypothesis → evidence
-    - EPISTEMIC FLOW:   evidence → hypothesis → concept → foundational
-    
-    These are the same chain viewed from different directions. Valid connections
-    are enforced by CONNECTION_TYPE_RULES matrix. Chain completeness is checked
-    to ensure nodes are properly integrated.
+Connection Validation (strict minimal chain):
+    - DEVELOPMENT: foundational → concept → hypothesis (develops/developed_by)
+    - EPISTEMIC: evidence → hypothesis (supports/contradicts)
+    - INTEGRATION: concept → synthesis (integrates_into/integrated_from)
+    - PEER: same-level parallels/contrasts; STRUCTURAL: requires/required_by
+    No skip links are allowed (e.g., evidence→concept, hypothesis→synthesis).
 
 Options:
     -j, --json       Output as JSON
@@ -214,26 +215,22 @@ PROOF_BREAKING_PENALTY = 0.25
 # SYMMETRIC (direction doesn't matter):
 #   - parallels, contrasts, intersects
 
-# Connection types by semantic function
-EPISTEMIC_UPWARD = {'supports', 'validates'}  # Flow confidence UP
-EPISTEMIC_DOWNWARD = {'supported_by', 'validated_by'}  # Receive confidence from below
-DEVELOPMENT_DOWNWARD = {'develops', 'produces', 'operationalizes', 'instantiates'}
-DEVELOPMENT_UPWARD = {'developed_by', 'developed_from', 'instantiated_by', 'produced_by'}
-SYMMETRIC_OBSERVATIONAL = {'parallels', 'contrasts', 'intersects'}  # No direction
-CONTEXTUAL = {'contextualizes', 'explains', 'describes', 'described_by', 'addresses', 'addressed_by'}
-STRUCTURAL = {'contains', 'contained_by', 'requires', 'required_by'}
-OPPOSITION = {'contradicts', 'opposes', 'reverses', 'reversed_by'}
-SEQUENCE = {'precedes', 'follows'}
-COMPLEMENT = {'complements', 'complemented_by'}
-REVELATION = {'reveals', 'revealed_by'}
-INTEGRATION = {'integrates_into', 'integrated_from'}  # Concept → Synthesis flow
+# Minimal connection type sets (strict chain, no skips)
+EVIDENCE_SUPPORT = {'supports'}              # evidence → hypothesis
+EVIDENCE_OPPOSITION = {'contradicts'}        # evidence → hypothesis (refutation)
+CHAIN_DOWN = {'develops'}                    # foundational → concept → hypothesis
+CHAIN_DOWN_INV = {'developed_by'}            # inverse of develops
+INTEGRATION = {'integrates_into'}            # concept → synthesis
+INTEGRATION_INV = {'integrated_from'}        # inverse of integrates_into
+PEER = {'parallels', 'contrasts'}            # same-level observational
+STRUCTURAL = {'requires', 'required_by'}     # same-level dependency
 
 # All valid relationship types
 ALL_VALID_TYPES = (
-    EPISTEMIC_UPWARD | EPISTEMIC_DOWNWARD | 
-    DEVELOPMENT_DOWNWARD | DEVELOPMENT_UPWARD |
-    SYMMETRIC_OBSERVATIONAL | CONTEXTUAL | STRUCTURAL | 
-    OPPOSITION | SEQUENCE | COMPLEMENT | REVELATION | INTEGRATION
+    EVIDENCE_SUPPORT | EVIDENCE_OPPOSITION |
+    CHAIN_DOWN | CHAIN_DOWN_INV |
+    INTEGRATION | INTEGRATION_INV |
+    PEER | STRUCTURAL
 )
 
 # =============================================================================
@@ -269,252 +266,54 @@ ALL_VALID_TYPES = (
 # =============================================================================
 
 CONNECTION_TYPE_RULES = {
-    # === FOUNDATIONAL → * ===
-    ('foundational', 'foundational'): (
-        SYMMETRIC_OBSERVATIONAL | OPPOSITION | STRUCTURAL | COMPLEMENT |
-        {'develops', 'developed_by', 'developed_from'}
-    ),
-    ('foundational', 'concept'): (
-        {'develops', 'produces', 'contains'} |  # Development DOWN
-        STRUCTURAL | CONTEXTUAL | SYMMETRIC_OBSERVATIONAL
-        # NO 'instantiates' - that's epistemic UP
-    ),
-    ('foundational', 'hypothesis'): (
-        set()  # NO CONNECTIONS ALLOWED - skip connections violate chain
-        # NO 'develops/produces' - foundational develops CONCEPT, concept develops hypothesis
-        # Development chain: Foundational → Concept → Hypothesis (no skipping)
-    ),
-    ('foundational', 'evidence'): (
-        set()  # NO CONNECTIONS ALLOWED - skip connections violate chain
-        # VERY LIMITED - foundational doesn't directly touch evidence
-        # NO instantiated_by - evidence doesn't instantiate foundational directly
-    ),
-    ('foundational', 'synthesis'): (
-        STRUCTURAL | CONTEXTUAL | SYMMETRIC_OBSERVATIONAL |
-        {'parallels', 'contrasts'}  # Peer relationship
-        # Peer relationship - foundational doesn't develop synthesis
-        # NO 'develops' - synthesis emerges from concepts, not from foundational
-    ),
+    # === FOUNDATIONAL ===
+    ('foundational', 'foundational'): PEER,
+    ('foundational', 'concept'):      CHAIN_DOWN,
+    ('foundational', 'hypothesis'):   set(),  # NO SKIP
+    ('foundational', 'evidence'):     set(),  # NO SKIP
+    ('foundational', 'synthesis'):    PEER,
 
-    # === CONCEPT → * ===
-    ('concept', 'foundational'): (
-        {'supports', 'instantiates'} |  # Epistemic UP (one level)
-        {'developed_by'} |  # Reverse development
-        CONTEXTUAL | SYMMETRIC_OBSERVATIONAL
-        # NO contradicts/opposes toward foundational - use contrasts
-    ),
-    ('concept', 'concept'): (
-        SYMMETRIC_OBSERVATIONAL | OPPOSITION | STRUCTURAL | COMPLEMENT | CONTEXTUAL |
-        {'develops', 'developed_by', 'developed_from'} |
-        {'supports', 'supported_by', 'validates', 'validated_by'} |  # Peer epistemic OK
-        SEQUENCE
-    ),
-    ('concept', 'hypothesis'): (
-        {'develops', 'produces', 'operationalizes'} |  # Development DOWN
-        STRUCTURAL | CONTEXTUAL | SYMMETRIC_OBSERVATIONAL
-        # NO 'instantiates' going down
-    ),
-    ('concept', 'evidence'): (
-        set()  # NO CONNECTIONS ALLOWED - skip connections violate chain
-        # Evidence connects to hypothesis ONLY, never directly to concept
-    ),
-    ('concept', 'synthesis'): (
-        {'integrates_into', 'develops', 'supports'} |  # Concepts FEED INTO synthesis
-        STRUCTURAL | CONTEXTUAL | SYMMETRIC_OBSERVATIONAL
-        # This is the key relationship: synthesis = integration of concepts
-    ),
+    # === CONCEPT ===
+    ('concept', 'foundational'):      CHAIN_DOWN_INV,
+    ('concept', 'concept'):           PEER | STRUCTURAL,
+    ('concept', 'hypothesis'):        CHAIN_DOWN,
+    ('concept', 'evidence'):          set(),  # NO SKIP
+    ('concept', 'synthesis'):         INTEGRATION,
 
-    # === HYPOTHESIS → * ===
-    ('hypothesis', 'foundational'): (
-        set()  # NO CONNECTIONS ALLOWED - skip connections violate chain
-        # NO 'supports' - hypothesis supports CONCEPT, not foundational
-        # NO 'instantiates' - that's epistemic, must go through concept
-    ),
-    ('hypothesis', 'concept'): (
-        {'supports', 'instantiates'} |  # Epistemic UP (one level)
-        {'developed_by'} |  # Reverse development
-        CONTEXTUAL | SYMMETRIC_OBSERVATIONAL
-    ),
-    ('hypothesis', 'hypothesis'): (
-        SYMMETRIC_OBSERVATIONAL | OPPOSITION | STRUCTURAL | COMPLEMENT | CONTEXTUAL |
-        {'supports', 'supported_by', 'validates', 'validated_by'} |  # Peer OK
-        SEQUENCE
-    ),
-    ('hypothesis', 'evidence'): (
-        {'supported_by', 'validated_by', 'instantiated_by', 'revealed_by'} |  # Receive from evidence
-        {'operationalizes'} |  # Defines what evidence to gather
-        CONTEXTUAL | SYMMETRIC_OBSERVATIONAL
-        # Hypothesis RECEIVES from evidence, doesn't give to it
-    ),
-    ('hypothesis', 'synthesis'): (
-        set()  # NO CONNECTIONS ALLOWED - skip connections violate chain
-        # NO 'supports' - hypothesis must support CONCEPT, which then integrates into synthesis
-        # Chain: Evidence → Hypothesis → Concept → Synthesis (no skipping)
-    ),
+    # === HYPOTHESIS ===
+    ('hypothesis', 'foundational'):   set(),  # NO SKIP
+    ('hypothesis', 'concept'):        CHAIN_DOWN_INV,
+    ('hypothesis', 'hypothesis'):     PEER | STRUCTURAL,
+    ('hypothesis', 'evidence'):       set(),  # Hypothesis does not point down to evidence
+    ('hypothesis', 'synthesis'):      set(),  # NO SKIP
 
-    # === EVIDENCE → * ===
-    # CRITICAL: Evidence PROVIDES support UP, NEVER receives epistemic support
-    ('evidence', 'foundational'): (
-        set()  # NO CONNECTIONS ALLOWED - skip connections violate chain
-        # NO 'supports/validates' - evidence must go through hypothesis→concept first
-        # This is the key rule: evidence doesn't directly validate foundational
-    ),
-    ('evidence', 'concept'): (
-        set()  # NO CONNECTIONS ALLOWED - skip connections violate chain
-        # Evidence connects to hypothesis ONLY, never directly to concept
-    ),
-    ('evidence', 'hypothesis'): (
-        {'supports', 'validates', 'instantiates'} |  # Core epistemic UP (one level)
-        OPPOSITION |  # Can contradict hypothesis
-        CONTEXTUAL | SYMMETRIC_OBSERVATIONAL
-    ),
-    ('evidence', 'evidence'): (
-        SYMMETRIC_OBSERVATIONAL | OPPOSITION | STRUCTURAL | COMPLEMENT |
-        {'supports', 'supported_by', 'validates', 'validated_by'} | 
-        {'reveals', 'revealed_by', 'produces', 'produced_by'} |
-        SEQUENCE
-    ),
-    ('evidence', 'synthesis'): (
-        set()  # NO CONNECTIONS ALLOWED - skip connections violate chain
-        # Evidence does NOT directly support synthesis - must go through hypothesis→concept chain
-        # Synthesis draws from validated concepts, not raw evidence
-    ),
+    # === EVIDENCE ===
+    ('evidence', 'foundational'):     set(),  # NO SKIP
+    ('evidence', 'concept'):          set(),  # NO SKIP
+    ('evidence', 'hypothesis'):       EVIDENCE_SUPPORT | EVIDENCE_OPPOSITION,
+    ('evidence', 'evidence'):         PEER,
+    ('evidence', 'synthesis'):        set(),  # NO SKIP
 
-    # === SYNTHESIS → * ===
-    # Synthesis is PEER to Foundational - integrates concepts from across domains
-    ('synthesis', 'foundational'): (
-        STRUCTURAL | CONTEXTUAL | SYMMETRIC_OBSERVATIONAL |
-        {'parallels', 'contrasts'}  # Peer relationship
-        # NO 'supports' - synthesis cannot prove axioms
-        # NO 'develops' - foundational is axiomatic, not derived from synthesis
-    ),
-    ('synthesis', 'concept'): (
-        {'integrated_from', 'develops', 'contains'} |  # Synthesis DRAWS FROM concepts
-        STRUCTURAL | CONTEXTUAL | SYMMETRIC_OBSERVATIONAL
-        # 'integrated_from' is reverse of concept→synthesis 'integrates_into'
-    ),
-    ('synthesis', 'hypothesis'): (
-        {'develops', 'contains'} |  # Can develop/contain hypotheses
-        STRUCTURAL | CONTEXTUAL | SYMMETRIC_OBSERVATIONAL
-        # NO 'supports' - synthesis doesn't validate research questions
-    ),
-    ('synthesis', 'evidence'): (
-        set()  # NO CONNECTIONS ALLOWED - skip connections violate chain
-        # Synthesis doesn't directly interact with evidence
-        # It draws from concepts which are supported by evidence via chain
-    ),
-    ('synthesis', 'synthesis'): (
-        SYMMETRIC_OBSERVATIONAL | OPPOSITION | STRUCTURAL | COMPLEMENT |
-        {'integrates_into', 'integrated_from'} |  # Higher-order synthesis
-        {'develops', 'developed_by', 'developed_from'} |
-        {'parallels', 'contrasts'}
-    ),
-}
-
-# =============================================================================
-# CRITICAL VALIDATION RULES
-# =============================================================================
-# These are NOT in the matrix - they are checked separately and always error
-
-CRITICAL_VIOLATIONS = {
-    # Evidence receiving epistemic support (except from other evidence)
-    'evidence_receiving_support': {
-        'description': "Evidence nodes should NOT receive epistemic support (supported_by/validated_by) except from other evidence",
-        'check': lambda src_type, tgt_type, conn_type: (
-            tgt_type == 'evidence' and 
-            src_type != 'evidence' and 
-            conn_type in {'supports', 'validates'}
-        ),
-    },
-    # Non-evidence using supported_by toward non-evidence (wrong - should be supports)
-    'inverted_epistemic': {
-        'description': "Epistemic flow should go UP the chain - use 'supports' not 'supported_by' for upward connections",
-        'check': lambda src_type, tgt_type, conn_type: (
-            src_type in {'evidence', 'hypothesis'} and
-            tgt_type in {'foundational', 'concept'} and
-            conn_type in {'supported_by', 'validated_by'}
-        ),
-    },
+    # === SYNTHESIS ===
+    ('synthesis', 'foundational'):    PEER,
+    ('synthesis', 'concept'):         INTEGRATION_INV,
+    ('synthesis', 'hypothesis'):      set(),  # NO SKIP
+    ('synthesis', 'evidence'):        set(),  # NO SKIP
+    ('synthesis', 'synthesis'):       PEER | INTEGRATION | INTEGRATION_INV,
 }
 
 # Semantic inverses - when A→B exists, B→A should use the inverse type
 CONNECTION_INVERSES = {
-    'supports': 'supported_by',
-    'supported_by': 'supports',
-    'validates': 'validated_by',
-    'validated_by': 'validates',
     'develops': 'developed_by',
     'developed_by': 'develops',
-    'developed_from': 'develops',
+    'integrates_into': 'integrated_from',
+    'integrated_from': 'integrates_into',
     'requires': 'required_by',
     'required_by': 'requires',
-    'contains': 'contained_by',
-    'contained_by': 'contains',
-    'precedes': 'follows',
-    'follows': 'precedes',
-    'produces': 'produced_by',
-    'produced_by': 'produces',
-    'instantiates': 'instantiated_by',
-    'instantiated_by': 'instantiates',
-    'reveals': 'revealed_by',
-    'revealed_by': 'reveals',
-    'complements': 'complemented_by',
-    'complemented_by': 'complements',
-    'describes': 'described_by',
-    'described_by': 'describes',
-    'addresses': 'addressed_by',
-    'addressed_by': 'addresses',
-    'reverses': 'reversed_by',
-    'reversed_by': 'reverses',
-    # Symmetric connections (inverse is same)
+    # Symmetric connections
     'parallels': 'parallels',
     'contrasts': 'contrasts',
     'contradicts': 'contradicts',
-    'opposes': 'opposes',
-    'intersects': 'intersects',
-    # Contextualizes is usually one-directional
-    'contextualizes': 'contextualizes',
-    'explains': 'explains',
-    'operationalizes': 'operationalizes',
-}
-
-# Chain completeness rules - what connections should a node have?
-# Chain requirements: Check connections to proper NODE TYPE LEVELS
-# The chain is: Foundational → Concept → Hypothesis → Evidence
-# Each node type should connect to adjacent levels
-CHAIN_LEVEL_REQUIREMENTS = {
-    'evidence': {
-        # Evidence should connect UP to hypothesis
-        'must_connect_to': ['hypothesis'],
-        'direction': 'upward',
-        'warning': "Evidence not connected to any hypothesis - floating evidence",
-    },
-    'hypothesis': {
-        # Hypothesis should connect UP to concept AND DOWN to evidence
-        'must_connect_to': ['concept'],
-        'direction': 'upward',
-        'warning': "Hypothesis not connected to any concept - not grounded in conceptual framework",
-        'should_receive_from': ['evidence'],
-        'receive_warning': "Hypothesis has no evidence support - ungrounded claim",
-    },
-    'concept': {
-        # Concept should connect UP to foundational AND DOWN to hypothesis
-        'must_connect_to': ['foundational'],
-        'direction': 'upward', 
-        'warning': "Concept not connected to any foundational node - floating concept",
-        'should_receive_from': ['hypothesis'],
-        'receive_warning': "Concept has no hypothesis developing from it - not operationalized",
-    },
-    'foundational': {
-        # Foundational should connect DOWN to concept
-        'should_receive_from': ['concept'],
-        'receive_warning': "Foundational has no concepts developing from it - isolated axiom",
-    },
-    'synthesis': {
-        # Synthesis should receive FROM concepts (integration)
-        'should_receive_from': ['concept'],
-        'receive_warning': "Synthesis has no concept inputs - empty integration",
-    },
 }
 
 def calculate_intrinsic_confidence(factors: dict) -> float:
@@ -580,144 +379,76 @@ def calculate_intrinsic_confidence(factors: dict) -> float:
 
 def calculate_derived_confidence(node_id: str, nodes: dict, flat_connections: list = None, visited: set = None) -> float:
     """
-    Calculate derived confidence from evidence base.
-    Used for non-evidence nodes.
-    
-    NON-RECURSIVE approach: Only looks at direct connections to evidence nodes
-    or uses persisted confidence of connected non-evidence nodes.
-    
-    Args:
-        node_id: The node to calculate confidence for
-        nodes: Dictionary of all nodes
-        flat_connections: Optional flat list of [source, type, target] connections
-        visited: For cycle prevention (not used in non-recursive approach)
+    Calculate derived confidence from direct supporting connections.
+    Aligns to the minimal chain: evidence → hypothesis → concept → foundational, concept → synthesis.
+    Only considers adjacent-level, allowed connection types.
     """
     if visited is None:
         visited = set()
-    
     if node_id in visited:
-        return 0.0  # Prevent cycles
+        return 0.0
     visited.add(node_id)
-    
+
     node = nodes.get(node_id, {})
     node_type = node.get('node_type', 'concept')
-    
-    # Evidence nodes use intrinsic confidence
+
     if node_type == 'evidence':
         factors = node.get('confidence_factors', {})
         return calculate_intrinsic_confidence(factors)
-    
-    # Non-evidence nodes derive from connections
-    embedded_connections = node.get('connections', [])
-    evidence_scores = []
-    
-    # === FORWARD: connections FROM this node TO others (embedded only) ===
-    # Connection types where the TARGET provides epistemic support to SOURCE
-    forward_support = ['supported_by', 'validated_by', 'developed_from', 'revealed_by', 'produced_by']
-    forward_weaker = ['instantiated_by']
-    
-    for conn in embedded_connections:
-        target_id = conn.get('target')
-        conn_type = conn.get('type')
-        
-        if not target_id or target_id not in nodes:
-            continue
-            
-        target_node = nodes[target_id]
-        target_type = target_node.get('node_type', 'concept')
-        
-        # Get target score - evidence uses intrinsic, others use persisted
-        if target_type == 'evidence':
-            factors = target_node.get('confidence_factors', {})
-            target_score = calculate_intrinsic_confidence(factors)
-        else:
-            target_score = target_node.get('confidence', 0.30)
-        
-        if target_score > 0.30:
-            if conn_type in forward_support:
-                if target_type == 'evidence':
-                    evidence_scores.append(target_score)
-                else:
-                    evidence_scores.append(target_score * 0.85)
-            elif conn_type in forward_weaker:
-                evidence_scores.append(target_score * 0.7)
-    
-    # === BACKWARD: connections FROM other nodes TO this node ===
-    inverse_support = ['supports', 'validates']
-    
-    # Check embedded connections in nodes
+
+    # Build inbound map once
+    inbound = defaultdict(list)
     for other_id, other_node in nodes.items():
-        if other_id == node_id:
-            continue
-        
-        other_type = other_node.get('node_type', 'concept')
-        
         for conn in other_node.get('connections', []):
-            if conn.get('target') != node_id:
-                continue
-                
-            conn_type = conn.get('type')
-            
-            if conn_type not in inverse_support:
-                continue
-            
-            # Get other score - evidence uses intrinsic, others use persisted
-            if other_type == 'evidence':
-                factors = other_node.get('confidence_factors', {})
-                other_score = calculate_intrinsic_confidence(factors)
-            else:
-                other_score = other_node.get('confidence', 0.30)
-            
-            if other_score > 0.30 and other_score not in evidence_scores:
-                if other_type == 'evidence':
-                    evidence_scores.append(other_score)
-                else:
-                    evidence_scores.append(other_score * 0.85)
-    
-    # ALSO check flat connections list (format: [source, type, target])
-    if flat_connections:
-        for conn in flat_connections:
-            if not isinstance(conn, list) or len(conn) != 3:
-                continue
-            source_id, conn_type, target_id = conn
-            
-            # Only supports/validates pointing TO this node
-            if target_id != node_id:
-                continue
-            if conn_type not in inverse_support:
-                continue
-            if source_id not in nodes:
-                continue
-            
-            source_node = nodes[source_id]
-            source_type = source_node.get('node_type', 'concept')
-            
-            # Get source score
-            if source_type == 'evidence':
-                factors = source_node.get('confidence_factors', {})
-                source_score = calculate_intrinsic_confidence(factors)
-            else:
-                source_score = source_node.get('confidence', 0.30)
-            
-            if source_score > 0.30 and source_score not in evidence_scores:
-                if source_type == 'evidence':
-                    evidence_scores.append(source_score)
-                else:
-                    evidence_scores.append(source_score * 0.85)
-    
-    if evidence_scores:
-        # PRINCIPLE: Strong evidence establishes the claim
-        base_score = max(evidence_scores)
-        
-        # Stream bonus for multiple strong streams
-        strong_streams = [s for s in evidence_scores if s >= 0.60]
-        if len(strong_streams) > 1:
-            stream_bonus = min(0.1, (len(strong_streams) - 1) * 0.03)
+            tgt = conn.get('target')
+            if tgt and tgt in nodes:
+                inbound[tgt].append({
+                    'source': other_id,
+                    'source_type': other_node.get('node_type', 'concept'),
+                    'type': conn.get('type'),
+                })
+
+    # Allowed inbound support by node_type
+    support_matrix = {
+        'hypothesis': {'supports': {'evidence'}},
+        'concept': {'developed_by': {'hypothesis'}},
+        'foundational': {'developed_by': {'concept'}},
+        'synthesis': {'integrated_from': {'concept'}},
+    }
+
+    evidence_scores = []
+    inbound_list = inbound.get(node_id, [])
+    allowed = support_matrix.get(node_type, {})
+
+    for inc in inbound_list:
+        conn_type = inc.get('type')
+        src_type = inc.get('source_type')
+        src_id = inc.get('source')
+
+        if conn_type not in allowed:
+            continue
+        if src_type not in allowed[conn_type]:
+            continue
+        if src_id not in nodes:
+            continue
+
+        src_node = nodes[src_id]
+        if src_type == 'evidence':
+            score = calculate_intrinsic_confidence(src_node.get('confidence_factors', {}))
         else:
-            stream_bonus = 0.0
+            score = src_node.get('confidence', 0.30)
+
+        if score > 0.30:
+            # Slight attenuation for non-evidence sources
+            evidence_scores.append(score if src_type == 'evidence' else score * 0.85)
+
+    if evidence_scores:
+        base_score = max(evidence_scores)
+        strong_streams = [s for s in evidence_scores if s >= 0.60]
+        stream_bonus = min(0.1, max(0, (len(strong_streams) - 1) * 0.03))
         return min(1.0, base_score + stream_bonus)
-    
-    return 0.30  # No evidence connections
+
+    return 0.30
 
 
 def get_node_cycles(node_id: str, nodes: dict) -> list:
@@ -969,8 +700,8 @@ def detect_proof_cycles(nodes: dict) -> list:
         List of cycles, where each cycle is a list of node IDs forming the cycle
     """
     # Relationships that constitute "proof" or evidence support
-    # These are the connections where confidence flows
-    proof_relations = ['supports', 'validates', 'instantiates', 'requires']
+    # These are the connections where confidence flows in the minimal scheme
+    proof_relations = ['supports', 'develops', 'developed_by', 'integrates_into', 'integrated_from', 'requires', 'required_by']
     
     # Build directed graph of proof relationships
     graph = {node_id: [] for node_id in nodes}
@@ -1198,79 +929,139 @@ def check_chain_completeness(nodes: dict) -> list:
         List of chain completeness warnings
     """
     warnings = []
-    
-    # Build reverse index: for each node, which nodes connect TO it
-    inbound_connections = {nid: [] for nid in nodes}
-    for source_id, source_node in nodes.items():
-        for conn in source_node.get('connections', []):
-            target_id = conn.get('target')
-            if target_id in inbound_connections:
-                inbound_connections[target_id].append({
-                    'from': source_id,
-                    'from_type': source_node.get('node_type'),
-                    'conn_type': conn.get('type'),
+
+    # Build reverse index for quick inbound lookup
+    inbound = {nid: [] for nid in nodes}
+    for src_id, src_node in nodes.items():
+        for conn in src_node.get('connections', []):
+            tgt = conn.get('target')
+            if tgt in inbound:
+                inbound[tgt].append({
+                    'from': src_id,
+                    'from_type': src_node.get('node_type'),
+                    'type': conn.get('type'),
                 })
-    
+
     for node_id, node in nodes.items():
-        node_type = node.get('node_type', 'concept')
-        
-        if node_type not in CHAIN_LEVEL_REQUIREMENTS:
-            continue
-        
-        requirements = CHAIN_LEVEL_REQUIREMENTS[node_type]
-        connections = node.get('connections', [])
-        
-        # Check OUTBOUND: must connect to certain node types (upward flow)
-        if 'must_connect_to' in requirements:
-            required_targets = requirements['must_connect_to']
-            
-            # Get node types of all targets
-            connected_to_types = set()
-            for conn in connections:
-                target_id = conn.get('target')
-                if target_id in nodes:
-                    connected_to_types.add(nodes[target_id].get('node_type'))
-            
-            has_required = any(t in connected_to_types for t in required_targets)
-            
-            if not has_required:
+        ntype = node.get('node_type', 'concept')
+        conns = node.get('connections', [])
+        inbound_list = inbound.get(node_id, [])
+
+        if ntype == 'evidence':
+            has_hyp = any(
+                c.get('target') in nodes and nodes[c['target']].get('node_type') == 'hypothesis' and c.get('type') in {'supports', 'contradicts'}
+                for c in conns
+            )
+            if not has_hyp:
                 warnings.append({
                     'type': 'missing_upward_chain',
                     'node': node_id,
-                    'node_type': node_type,
-                    'warning': requirements.get('warning', f'Not connected to required levels: {required_targets}'),
-                    'expected_levels': required_targets,
-                    'fix': f"Add connection from {node_id} to a {'/'.join(required_targets)} node",
+                    'node_type': ntype,
+                    'warning': 'Evidence not connected to any hypothesis',
+                    'fix': f"Add supports/contradicts from {node_id} to a hypothesis",
                 })
-        
-        # Check INBOUND: should receive connections from certain node types (downward flow)
-        if 'should_receive_from' in requirements:
-            required_sources = requirements['should_receive_from']
-            
-            # Get node types of all sources connecting to this node
-            receives_from_types = {inc['from_type'] for inc in inbound_connections[node_id]}
-            
-            # Also check this node's own outbound *_by connections (they indicate inbound semantically)
-            for conn in connections:
-                conn_type = conn.get('type', '')
-                target_id = conn.get('target')
-                if target_id in nodes and conn_type.endswith('_by'):
-                    # developed_by, supported_by, etc. means "I am developed BY target"
-                    # So target is effectively sending to us
-                    receives_from_types.add(nodes[target_id].get('node_type'))
-            
-            has_required = any(t in receives_from_types for t in required_sources)
-            
-            if not has_required:
+            continue
+
+        if ntype == 'hypothesis':
+            has_concept_link = any(
+                c.get('type') == 'developed_by' and c.get('target') in nodes and nodes[c['target']].get('node_type') == 'concept'
+                for c in conns
+            ) or any(
+                inc.get('from_type') == 'concept' and inc.get('type') == 'develops'
+                for inc in inbound_list
+            )
+
+            has_evidence = any(inc.get('from_type') == 'evidence' and inc.get('type') == 'supports' for inc in inbound_list)
+
+            if not has_concept_link:
+                warnings.append({
+                    'type': 'missing_upward_chain',
+                    'node': node_id,
+                    'node_type': ntype,
+                    'warning': 'Hypothesis not connected to any concept (developed_by/develops)',
+                    'fix': f"Link {node_id} to a concept via developed_by (or add concept develops {node_id})",
+                })
+            if not has_evidence:
                 warnings.append({
                     'type': 'missing_downward_chain',
                     'node': node_id,
-                    'node_type': node_type,
-                    'warning': requirements.get('receive_warning', f'No connections from required levels: {required_sources}'),
-                    'expected_sources': required_sources,
-                    'fix': f"Add connection from a {'/'.join(required_sources)} node to {node_id}",
+                    'node_type': ntype,
+                    'warning': 'Hypothesis has no supporting evidence',
+                    'fix': f"Add evidence supports {node_id}",
                 })
-    
+            continue
+
+        if ntype == 'concept':
+            has_foundational = any(
+                inc.get('from_type') == 'foundational' and inc.get('type') == 'develops'
+                for inc in inbound_list
+            ) or any(
+                c.get('type') == 'developed_by' and c.get('target') in nodes and nodes[c['target']].get('node_type') == 'foundational'
+                for c in conns
+            )
+
+            has_hypothesis = any(
+                c.get('type') == 'develops' and c.get('target') in nodes and nodes[c['target']].get('node_type') == 'hypothesis'
+                for c in conns
+            ) or any(
+                inc.get('from_type') == 'hypothesis' and inc.get('type') == 'developed_by'
+                for inc in inbound_list
+            )
+
+            if not has_foundational:
+                warnings.append({
+                    'type': 'missing_upward_chain',
+                    'node': node_id,
+                    'node_type': ntype,
+                    'warning': 'Concept not connected to any foundational node',
+                    'fix': f"Connect to a foundational via develops/developed_by",
+                })
+            if not has_hypothesis:
+                warnings.append({
+                    'type': 'missing_downward_chain',
+                    'node': node_id,
+                    'node_type': ntype,
+                    'warning': 'Concept has no hypotheses developing from it',
+                    'fix': f"Add develops from {node_id} to a hypothesis",
+                })
+            continue
+
+        if ntype == 'foundational':
+            has_concept = any(
+                c.get('type') == 'develops' and c.get('target') in nodes and nodes[c['target']].get('node_type') == 'concept'
+                for c in conns
+            ) or any(
+                inc.get('from_type') == 'concept' and inc.get('type') == 'developed_by'
+                for inc in inbound_list
+            )
+            if not has_concept:
+                warnings.append({
+                    'type': 'missing_downward_chain',
+                    'node': node_id,
+                    'node_type': ntype,
+                    'warning': 'Foundational has no concepts developing from it',
+                    'fix': f"Add develops from {node_id} to a concept",
+                })
+            continue
+
+        if ntype == 'synthesis':
+            has_concept = any(
+                inc.get('from_type') == 'concept' and inc.get('type') == 'integrates_into'
+                for inc in inbound_list
+            ) or any(
+                c.get('type') == 'integrated_from' and c.get('target') in nodes and nodes[c['target']].get('node_type') == 'concept'
+                for c in conns
+            )
+            if not has_concept:
+                warnings.append({
+                    'type': 'missing_downward_chain',
+                    'node': node_id,
+                    'node_type': ntype,
+                    'warning': 'Synthesis has no concept inputs',
+                    'fix': f"Add concept integrates_into {node_id} (or {node_id} integrated_from concept)",
+                })
+            continue
+
     return warnings
 
 
@@ -1289,7 +1080,7 @@ def get_node_chain_analysis(node_id: str, nodes: dict) -> dict:
     # Build upward chain (toward foundational/concepts)
     upward_chain = []
     upward_visited = {node_id}
-    upward_types = ['supports', 'validates', 'developed_by', 'required_by', 'instantiates']
+    upward_types = ['developed_by', 'integrated_from', 'required_by']
     
     def trace_upward(nid, depth=0):
         if depth > 10:  # Prevent infinite loops
@@ -1313,8 +1104,7 @@ def get_node_chain_analysis(node_id: str, nodes: dict) -> dict:
     # Build downward chain (toward evidence)
     downward_chain = []
     downward_visited = {node_id}
-    downward_types = ['develops', 'produces', 'instantiates', 'operationalizes', 
-                      'supported_by', 'validated_by']
+    downward_types = ['develops', 'integrates_into', 'requires', 'supports', 'contradicts']
     
     def trace_downward(nid, depth=0):
         if depth > 10:
@@ -1387,7 +1177,7 @@ def check_cardinality_rules(nodes: dict) -> list:
     warnings = []
     
     # Track outbound epistemic connections per node
-    epistemic_types = {'supports', 'validates'}
+    epistemic_types = {'supports'}
     integration_types = {'integrates_into'}
     
     # Count outbound epistemic targets per node
@@ -1439,7 +1229,7 @@ def check_cardinality_rules(nodes: dict) -> list:
                     'source_type': node_type
                 })
     
-    # === CHECK: Evidence/Hypothesis supporting too many targets ===
+    # === CHECK: Evidence supporting too many targets ===
     # Thresholds
     EPISTEMIC_OUTBOUND_WARN = 3  # If evidence/hypothesis supports more than this, warn
     
@@ -1447,12 +1237,10 @@ def check_cardinality_rules(nodes: dict) -> list:
         node = nodes[node_id]
         node_type = node.get('node_type')
         
-        # Only check evidence and hypothesis for "spreading too thin"
-        if node_type in ('evidence', 'hypothesis'):
+        # Only check evidence for "spreading too thin"
+        if node_type == 'evidence':
             if len(targets) > EPISTEMIC_OUTBOUND_WARN:
-                # Check if targets span multiple domains
                 target_domains = set(nodes[t['target']].get('domain') for t in targets)
-                
                 warnings.append({
                     'node': node_id,
                     'node_type': node_type,
@@ -1460,7 +1248,7 @@ def check_cardinality_rules(nodes: dict) -> list:
                     'count': len(targets),
                     'threshold': EPISTEMIC_OUTBOUND_WARN,
                     'domains': len(target_domains),
-                    'message': f"supports {len(targets)} targets (threshold: {EPISTEMIC_OUTBOUND_WARN}) across {len(target_domains)} domain(s) - consider if this should be split"
+                    'message': f"supports {len(targets)} targets (threshold: {EPISTEMIC_OUTBOUND_WARN}) across {len(target_domains)} domain(s) - consider splitting the evidence scope"
                 })
     
     # === CHECK: Hypothesis with insufficient evidence ===
@@ -1483,18 +1271,11 @@ def check_cardinality_rules(nodes: dict) -> list:
     
     # === CHECK: Synthesis with insufficient concept inputs ===
     SYNTHESIS_INPUT_MIN = 2  # Synthesis should integrate at least this many concepts
-    
+
     for node_id, node in nodes.items():
         if node.get('node_type') == 'synthesis':
-            # Count both integrates_into and supports from concepts
             sources = inbound_integration.get(node_id, [])
-            
-            # Also count concept→synthesis supports
-            epistemic_sources = inbound_epistemic.get(node_id, [])
-            concept_supporters = [s for s in epistemic_sources if s['source_type'] == 'concept']
-            
-            total_concept_inputs = len(sources) + len(concept_supporters)
-            
+            total_concept_inputs = len(sources)
             if total_concept_inputs < SYNTHESIS_INPUT_MIN:
                 warnings.append({
                     'node': node_id,
@@ -1559,12 +1340,29 @@ def validate_graph(graph: dict, verbose: bool = False) -> dict:
     
     # Required fields for all nodes
     required_fields = ['title', 'domain', 'node_type', 'status', 'definition', 'source_chain']
+
+    # Allowed fields per node type (to constrain agent divergence)
+    common_allowed = {
+        'title', 'domain', 'node_type', 'status', 'definition', 'source_chain', 'connections',
+        'trace_status', 'critic_notes', 'notes', 'created', 'updated', 'id', 'confidence'
+    }
+    evidence_allowed = common_allowed | {'confidence_factors'}
     
     for node_id, node in nodes.items():
         node_issues = []
         node_warnings = []
         
         # === STRUCTURAL VALIDATION ===
+
+        # Enforce allowed fields per node_type to limit divergence
+        node_keys = set(node.keys())
+        node_type = node.get('node_type')
+        if node_type == 'evidence':
+            unknown_fields = node_keys - evidence_allowed
+        else:
+            unknown_fields = node_keys - common_allowed
+        if unknown_fields:
+            node_issues.append(f"Unknown fields present: {sorted(unknown_fields)}")
         
         # Check required fields
         for field in required_fields:
@@ -1589,7 +1387,6 @@ def validate_graph(graph: dict, verbose: bool = False) -> dict:
             node_issues.append(f"Invalid status: '{status}'")
         
         # Check node_type validity
-        node_type = node.get('node_type')
         if node_type and node_type not in valid_node_types:
             node_issues.append(f"Invalid node_type: '{node_type}'")
         
@@ -1702,12 +1499,25 @@ def validate_graph(graph: dict, verbose: bool = False) -> dict:
         source_chain = node.get('source_chain', [])
         if source_chain:
             valid_source_types = {'P', 'S', 'T', 'E', 'W'}
-            for i, source in enumerate(source_chain):
-                src_type = source.get('type')
-                if src_type not in valid_source_types:
-                    node_warnings.append(f"Source #{i+1} has invalid type: '{src_type}'")
-                if not source.get('ref'):
-                    node_warnings.append(f"Source #{i+1} missing 'ref'")
+
+            # Enforce provenance rule: non-evidence must have exactly one [T] entry
+            if node_type != 'evidence':
+                if len(source_chain) != 1:
+                    node_issues.append("Non-evidence nodes must have exactly one [T] provenance entry")
+                else:
+                    src = source_chain[0]
+                    if src.get('type') != 'T':
+                        node_issues.append("Non-evidence provenance must be type 'T'")
+                    if not src.get('ref'):
+                        node_warnings.append("Provenance entry missing 'ref'")
+            else:
+                # Evidence nodes require full chain entries of valid types
+                for i, source in enumerate(source_chain):
+                    src_type = source.get('type')
+                    if src_type not in valid_source_types:
+                        node_warnings.append(f"Source #{i+1} has invalid type: '{src_type}'")
+                    if not source.get('ref'):
+                        node_warnings.append(f"Source #{i+1} missing 'ref'")
         
         # Check trace_status
         trace_status = node.get('trace_status')
@@ -2604,13 +2414,13 @@ def main():
                 output("  [OK] Chain is complete")
             else:
                 if analysis['node_type'] in ['concept', 'hypothesis'] and not analysis['has_evidence_path']:
-                    output("  [!] Add supported_by/validated_by connection to evidence")
+                    output("  [!] Add evidence supports the hypothesis, and hypotheses must develop from the concept")
                 if analysis['node_type'] in ['concept', 'hypothesis'] and not analysis['has_foundational_path']:
-                    output("  [!] Add supports/developed_by connection toward foundational")
+                    output("  [!] Link concept to foundational via develops/developed_by")
                 if analysis['node_type'] == 'evidence' and not analysis['upward_chain']:
-                    output("  [!] Add supports/validates connection to hypothesis or concept")
+                    output("  [!] Add supports/contradicts from evidence to a hypothesis")
                 if analysis['node_type'] == 'foundational' and not analysis['downward_chain']:
-                    output("  [!] Add develops/produces connection to concept or hypothesis")
+                    output("  [!] Add develops from foundational to concept")
 
     elif args.command == 'warnings':
         # Show specific warning types from validation

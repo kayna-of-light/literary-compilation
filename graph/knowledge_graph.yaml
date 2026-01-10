@@ -129,7 +129,14 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: BIBL-025
-    connections: []
+    connections:
+    - target: CROSS-023
+      type: developed_by
+      note: Two-tiered epistemology enables Criterion of Temptation reframing
+    - target: SWED-090
+      type: parallels
+      note: Criterion of Temptation identifies footprints of Glorification combats
+    confidence: 0.3
   BIBL-026:
     confidence_factors:
       methodology: observational
@@ -155,6 +162,7 @@ nodes:
     connections: []
     updated: '2026-01-10'
     trace_status: untraced
+    confidence: 0.869
   BIBL-027:
     confidence_factors:
       methodology: theoretical
@@ -179,6 +187,7 @@ nodes:
     connections: []
     updated: '2026-01-10'
     trace_status: untraced
+    confidence: 0.737
   BIBL-028:
     confidence_factors:
       methodology: textual_critical
@@ -203,6 +212,7 @@ nodes:
     connections: []
     updated: '2026-01-10'
     trace_status: untraced
+    confidence: 0.85
   CONSC-082:
     created: '2026-01-09'
     definition: The concept of earthly life as a distinct, formative period for establishing
@@ -219,7 +229,16 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: CONSC-082
-    connections: []
+    connections:
+    - target: SWED-003
+      type: developed_by
+      note: Seed-State concept develops from post-mortem journey framework
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-09'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   CONSC-083:
     created: '2026-01-09'
     definition: The agreement/choice made by a Volunteer Soul before incarnation to
@@ -236,7 +255,19 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: CONSC-083
-    connections: []
+    connections:
+    - target: CONSC-095
+      type: requires
+      note: Pre-Incarnate Covenant requires Volunteer Soul concept
+    - target: SWED-003
+      type: developed_by
+      note: Pre-Incarnate Covenant develops from World of Spirits post-mortem framework
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-09'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   CONSC-086:
     created: '2026-01-09'
     definition: NDE Pattern where anticipated judgment is met with unconditional love,
@@ -253,7 +284,19 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: CONSC-086
-    connections: []
+    connections:
+    - target: SWED-003
+      type: developed_by
+      note: Expect Judgment, Find Love develops from World of Spirits framework
+    - target: CONSC-087
+      type: parallels
+      note: Both address Being of Light transcending cultural expectation
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-09'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   CONSC-087:
     created: '2026-01-09'
     definition: Hypothesis that NDE core elements (Being of Light) are objective realities
@@ -270,7 +313,19 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: CONSC-087
-    connections: []
+    connections:
+    - target: SWED-003
+      type: developed_by
+      note: Conceptual Framework Theory develops from World of Spirits
+    - target: CONSC-086
+      type: parallels
+      note: Both address Being of Light transcending cultural expectation
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-09'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   CONSC-088:
     created: '2026-01-09'
     definition: Statistical finding that Volunteer Souls experience significantly
@@ -287,7 +342,19 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: CONSC-088
-    connections: []
+    connections:
+    - target: CONSC-095
+      type: requires
+      note: Phenomenological Intensity requires Volunteer Soul concept
+    - target: SWED-003
+      type: developed_by
+      note: Phenomenological Intensity develops from World of Spirits framework
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-09'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   CONSC-089:
     created: '2026-01-09'
     definition: Innate cognitive default to see purpose/design (CSR finding); scientific
@@ -303,7 +370,16 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: CONSC-089
-    connections: []
+    connections:
+    - target: SWED-001
+      type: developed_by
+      note: Teleological bias is the cognitive correlate of Doctrine of Correspondences
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   CONSC-090:
     created: '2026-01-09'
     definition: CDE term for collective consciousness oriented toward Unity/Neighbor
@@ -319,7 +395,32 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: CONSC-090
-    connections: []
+    connections:
+    - target: CONSC-001
+      type: developed_by
+      note: Trajectory A is a component concept within CDE framework
+    - target: CONSC-091
+      type: contrasts
+      note: Opposing evolutionary trajectories
+    - target: CONSC-092
+      type: requires
+      note: Trajectory A creates coherence-oriented memetic niches
+    - target: GNOS-002
+      type: developed_by
+      note: Trajectory A aligns with Path of Affirmation
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques:
+      - id: 1
+        type: logical-contradiction
+        description: Connection to GNOS-002 semantically parallels rather than develops,
+          but developed_by is the only allowed type from concept to foundational.
+          Connection note clarifies semantic relationship.
+        breaks_proof: false
+        status: acknowledged
+      proof_breaking_open: 0
+      detail_issues: 1
   CONSC-091:
     created: '2026-01-09'
     definition: CDE term for collective consciousness oriented toward Self-Power/Hierarchy
@@ -335,7 +436,35 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: CONSC-091
-    connections: []
+    connections:
+    - target: CONSC-090
+      type: contrasts
+      note: Opposing evolutionary trajectories
+    - target: CONSC-001
+      type: developed_by
+      note: Trajectory B is a component concept within CDE framework
+    - target: SWED-005
+      type: developed_by
+      note: Trajectory B manifests through Proprium dynamics
+    - target: CONSC-092
+      type: requires
+      note: Trajectory B creates fragmentation-oriented memetic niches
+    - target: GNOS-002
+      type: developed_by
+      note: Trajectory B aligns with Path of Gnosis
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques:
+      - id: 1
+        type: logical-contradiction
+        description: Connection to GNOS-002 semantically parallels rather than develops,
+          but developed_by is the only allowed type from concept to foundational.
+          Connection note clarifies semantic relationship.
+        breaks_proof: false
+        status: acknowledged
+      proof_breaking_open: 0
+      detail_issues: 1
   CONSC-092:
     created: '2026-01-09'
     definition: The ideological environment constructed by the Ruling Love of a society
@@ -351,7 +480,22 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: CONSC-092
-    connections: []
+    connections:
+    - target: CONSC-090
+      type: required_by
+      note: Trajectory A creates coherence-oriented memetic niches
+    - target: CONSC-091
+      type: required_by
+      note: Trajectory B creates fragmentation-oriented memetic niches
+    - target: CONSC-001
+      type: developed_by
+      note: Memetic Niche is mechanism concept within CDE
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   CONSC-093:
     created: 2026-01-09
     definition: Physical correspondences to fatal wounds from previous lives, providing
@@ -369,6 +513,7 @@ nodes:
     updated: '2026-01-10'
     id: CONSC-093
     connections: []
+    confidence: 0.3
   CROSS-023:
     created: '2026-01-09'
     definition: A methodology distinguishing the 'Natural Plane' (Body/Effects) from
@@ -386,7 +531,17 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: CROSS-023
-    connections: []
+    connections:
+    - target: MYTH-021
+      type: develops
+      note: Two-tiered epistemology structures Mythic Bricolage interpretation
+    - target: BIBL-025
+      type: develops
+      note: Two-tiered epistemology enables Criterion of Temptation reframing
+    - target: SWED-001
+      type: parallels
+      note: Two-tiered epistemology integrates Correspondences as spiritual tier
+    confidence: 0.3
   CROSS-024:
     created: '2026-01-09'
     definition: The standard linear afterlife progression (Passage -> World of Spirits
@@ -403,7 +558,11 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: CROSS-024
-    connections: []
+    connections:
+    - target: CROSS-025
+      type: parallels
+      note: Normative Path and Two Paths form complementary afterlife framework
+    confidence: 0.3
   CROSS-025:
     created: '2026-01-09'
     definition: The comprehensive division of spiritual trajectories into 'Path of
@@ -420,7 +579,17 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: CROSS-025
-    connections: []
+    connections:
+    - target: CROSS-026
+      type: develops
+      note: Two Paths of Spirit develops Path of Affirmation
+    - target: GNOS-020
+      type: develops
+      note: Two Paths of Spirit develops Path of Gnosis
+    - target: CROSS-024
+      type: parallels
+      note: Normative Path and Two Paths form complementary afterlife framework
+    confidence: 0.3
   CROSS-026:
     created: '2026-01-09'
     definition: Spiritual orientation of 'reception' from the Divine, characterized
@@ -437,7 +606,17 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: CROSS-026
-    connections: []
+    connections:
+    - target: CROSS-025
+      type: developed_by
+      note: Two Paths of Spirit develops Path of Affirmation
+    - target: GNOS-020
+      type: contrasts
+      note: Path of Affirmation vs Path of Gnosis - irreconcilable spiritual trajectories
+    - target: GNOS-026
+      type: contrasts
+      note: Gnostic Tactics counter Path of Affirmation recognition
+    confidence: 0.3
   CROSS-027:
     created: '2026-01-09'
     definition: 'Methodological distinction: Natural history equates past/present
@@ -455,6 +634,7 @@ nodes:
     updated: '2026-01-10'
     id: CROSS-027
     connections: []
+    confidence: 0.3
   CROSS-028:
     created: '2026-01-09'
     definition: The method of the Path of Influx; spontaneous, kenotic movements preserving
@@ -471,7 +651,32 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: CROSS-028
-    connections: []
+    connections:
+    - target: SWED-002
+      type: developed_by
+      note: Silent Movements are historical manifestation of Divine Influx
+    - target: EARLY-004
+      type: integrates_into
+      note: Kenotic Movements synthesis integrates Silent Movements concept
+    - target: EARLY-023
+      type: parallels
+      note: Vernacular Truth is method of Silent Movements
+    - target: EARLY-022
+      type: contrasts
+      note: Constantinian Shift triggers Silent Movements as counter-response
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques:
+      - id: 1
+        type: missing-connection
+        description: Added connections per Critic review - Inner Light parallels Kenosis,
+          Vernacular Truth parallels Silent Movements, Constantinian Shift contrasts
+          Silent Movements
+        breaks_proof: false
+        status: resolved
+      proof_breaking_open: 0
+      detail_issues: 0
   CROSS-029:
     created: '2026-01-09'
     definition: The Quaker concept of direct, unmediated divine presence in every
@@ -488,7 +693,26 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: CROSS-029
-    connections: []
+    connections:
+    - target: SWED-002
+      type: developed_by
+      note: Inner Light is Quaker articulation of Divine Influx
+    - target: SWED-071
+      type: parallels
+      note: Inner Light (Quaker doctrine) parallels Kenosis
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques:
+      - id: 1
+        type: missing-connection
+        description: Added connections per Critic review - Inner Light parallels Kenosis,
+          Vernacular Truth parallels Silent Movements, Constantinian Shift contrasts
+          Silent Movements
+        breaks_proof: false
+        status: resolved
+      proof_breaking_open: 0
+      detail_issues: 0
   EARLY-021:
     created: '2026-01-09'
     definition: The convergence of Gentile (Magi/Zoroastrian) and Jewish streams of
@@ -506,6 +730,7 @@ nodes:
     updated: '2026-01-10'
     id: EARLY-021
     connections: []
+    confidence: 0.3
   EARLY-022:
     created: '2026-01-09'
     definition: The fusion of Church and State in the 4th century; the 'shipwreck'
@@ -522,7 +747,26 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: EARLY-022
-    connections: []
+    connections:
+    - target: SWED-005
+      type: developed_by
+      note: Constantinian Shift is institutional manifestation of Proprium
+    - target: CROSS-028
+      type: contrasts
+      note: Constantinian Shift triggers Silent Movements as counter-response
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques:
+      - id: 1
+        type: missing-connection
+        description: Added connections per Critic review - Inner Light parallels Kenosis,
+          Vernacular Truth parallels Silent Movements, Constantinian Shift contrasts
+          Silent Movements
+        breaks_proof: false
+        status: resolved
+      proof_breaking_open: 0
+      detail_issues: 0
   EARLY-023:
     created: '2026-01-09'
     definition: The demand for unmediated access to scripture (Waldensians/Lollards),
@@ -539,7 +783,26 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: EARLY-023
-    connections: []
+    connections:
+    - target: SWED-002
+      type: developed_by
+      note: Vernacular Truth reflects unmediated influx principle
+    - target: CROSS-028
+      type: parallels
+      note: Vernacular Truth is method of Silent Movements
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques:
+      - id: 1
+        type: missing-connection
+        description: Added connections per Critic review - Inner Light parallels Kenosis,
+          Vernacular Truth parallels Silent Movements, Constantinian Shift contrasts
+          Silent Movements
+        breaks_proof: false
+        status: resolved
+      proof_breaking_open: 0
+      detail_issues: 0
   GNOS-020:
     created: '2026-01-09'
     definition: Spiritual orientation of 'dismantling' the distinct Divine Human,
@@ -556,7 +819,20 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: GNOS-020
-    connections: []
+    connections:
+    - target: CROSS-025
+      type: developed_by
+      note: Two Paths of Spirit develops Path of Gnosis
+    - target: SWED-005
+      type: developed_by
+      note: Path of Gnosis conceptually driven by Proprium doctrine
+    - target: CROSS-026
+      type: contrasts
+      note: Path of Affirmation vs Path of Gnosis - irreconcilable spiritual trajectories
+    - target: GNOS-026
+      type: required_by
+      note: Gnostic Tactics require Path of Gnosis orientation
+    confidence: 0.3
   MYTH-021:
     created: '2026-01-09'
     definition: Process where Divine intent guides scribal assembly of narrative from
@@ -573,7 +849,20 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: MYTH-021
-    connections: []
+    connections:
+    - target: CROSS-023
+      type: developed_by
+      note: Two-tiered epistemology structures Mythic Bricolage interpretation
+    - target: SWED-002
+      type: developed_by
+      note: Mythic Bricolage mechanism guided by Divine Influx
+    - target: CONSC-001
+      type: developed_by
+      note: CDE provides causal explanation for WHY bricolage choices were guided
+    - target: CROSS-002
+      type: integrates_into
+      note: Divine Bricolage integrates Mythic Bricolage concept
+    confidence: 0.3
   MYTH-022:
     created: '2026-01-09'
     definition: Allegory for the shift from internal/gestural state to external/articulate
@@ -590,11 +879,22 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: MYTH-022
-    connections: []
+    connections:
+    - target: SWED-002
+      type: developed_by
+      note: The Fall concept develops from Divine Influx doctrine
+    - target: SWED-007
+      type: parallels
+      note: 'Same concept: Swedenborgian doctrine (SWED) and mythological interpretation
+        (MYTH)'
+    confidence: 0.3
   MYTH-023:
     created: '2026-01-09'
-    definition: Mnemonic systems of pre-literate cultures (e.g., Songlines) enabling
-      durable data preservation; evidence for 'Ancient Word'.
+    definition: 'Mnemonic systems of pre-literate cultures (e.g., Songlines) enabling  durable
+      data preservation; the cognitive mechanism that could preserve an ''Ancient
+      Word''.
+
+      '
     domain: MYTH
     node_type: concept
     source_chain:
@@ -606,7 +906,22 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: MYTH-023
-    connections: []
+    connections:
+    - target: SWED-004
+      type: parallels
+      note: Primary Orality is the cognitive mechanism for Ancient Word preservation
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques:
+      - id: 1
+        type: definition-issue
+        description: Original definition said "evidence for Ancient Word" but source
+          treats it as cognitive mechanism/model for preservation
+        breaks_proof: false
+        status: resolved
+      proof_breaking_open: 0
+      detail_issues: 0
   MYTH-024:
     confidence_factors:
       methodology: observational
@@ -631,6 +946,7 @@ nodes:
     connections: []
     updated: '2026-01-10'
     trace_status: untraced
+    confidence: 0.869
   SWED-059:
     created: '2026-01-09'
     definition: Innate perception of spiritual meaning in natural objects (Conceptual
@@ -647,24 +963,11 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: SWED-059
-    connections: []
-  SWED-060:
-    created: '2026-01-09'
-    definition: Pre-verbal state of 'celestial men' characterized by direct internal
-      influx and representative perception.
-    domain: SWED
-    node_type: concept
-    source_chain:
-    - note: Framework Synthesis
-      ref: data/00_Framework/The Divine Bricolage_ A Spiritual History of the Word
-        from Influx to Incarnation.md
-      type: T
-    status: preliminary
-    title: The Golden Age
-    trace_status: partial
-    updated: '2026-01-10'
-    id: SWED-060
-    connections: []
+    connections:
+    - target: SWED-002
+      type: developed_by
+      note: Representative Language develops from Divine Influx mechanism
+    confidence: 0.3
   SWED-061:
     created: '2026-01-09'
     definition: Analytical filter; living person resonating with discarnate spirit
@@ -681,24 +984,16 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: SWED-061
-    connections: []
-  SWED-062:
-    created: '2026-01-09'
-    definition: The intermediate realm (neither heaven nor hell) where souls arrive
-      for acclimation and sorting.
-    domain: SWED
-    node_type: concept
-    source_chain:
-    - note: Framework Synthesis
-      ref: data/00_Framework/The Threefold Path of the Soul_ A Synthesized Cosmology
-        of Life, Death, and Purpose.md
-      type: T
-    status: preliminary
-    title: World of Spirits
-    trace_status: partial
-    updated: '2026-01-10'
-    id: SWED-062
-    connections: []
+    connections:
+    - target: SWED-003
+      type: developed_by
+      note: Spirit Influence filter develops from World of Spirits
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-09'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   SWED-063:
     created: '2026-01-09'
     definition: Divine provision where the afterlife environment initially resembles
@@ -715,7 +1010,16 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: SWED-063
-    connections: []
+    connections:
+    - target: SWED-003
+      type: developed_by
+      note: Principle of Familiarity develops from World of Spirits
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-09'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   SWED-064:
     created: '2026-01-09'
     definition: The 'Crucible of Crisis'; dismantling of the ego/proprium to prepare
@@ -732,7 +1036,16 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: SWED-064
-    connections: []
+    connections:
+    - target: SWED-003
+      type: developed_by
+      note: Vastation develops from World of Spirits
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-09'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   SWED-065:
     created: '2026-01-09'
     definition: The doctrine separating faith from charity; identified as the cause
@@ -748,7 +1061,19 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: SWED-065
-    connections: []
+    connections:
+    - target: SWED-005
+      type: developed_by
+      note: Sola Fide is doctrinal expression of Proprium
+    - target: SWED-067
+      type: contrasts
+      note: New Jerusalem contrasts Sola Fide - Two Essentials vs Faith Alone
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-09'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   SWED-066:
     created: '2026-01-09'
     definition: Metaphysical event in the World of Spirits; restoration of equilibrium
@@ -764,7 +1089,19 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: SWED-066
-    connections: []
+    connections:
+    - target: SWED-002
+      type: developed_by
+      note: Last Judgment enables restoration of Divine Influx
+    - target: SWED-067
+      type: required_by
+      note: New Jerusalem requires Last Judgment to be established
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-09'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   SWED-067:
     created: '2026-01-09'
     definition: 'The ''New Church'' paradigm based on Two Essentials: Acknowledgement
@@ -780,7 +1117,22 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: SWED-067
-    connections: []
+    connections:
+    - target: SWED-066
+      type: requires
+      note: New Jerusalem requires Last Judgment to be established
+    - target: SWED-065
+      type: contrasts
+      note: New Jerusalem contrasts Sola Fide - Two Essentials vs Faith Alone
+    - target: SWED-002
+      type: developed_by
+      note: New Jerusalem (Fourth Church) as ultimate manifestation of Divine Influx
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-09'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   SWED-068:
     created: '2026-01-09'
     definition: 'The cycle of spiritual eras: Most Ancient (Gold/Love), Ancient (Silver/Truth),
@@ -796,7 +1148,16 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: SWED-068
-    connections: []
+    connections:
+    - target: SWED-002
+      type: developed_by
+      note: Successive Churches represent history of Divine Influx adaptation
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-09'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   SWED-069:
     created: '2026-01-09'
     definition: state defined by good of life and ignorance of false notions; receptive
@@ -812,7 +1173,19 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: SWED-069
-    connections: []
+    connections:
+    - target: SWED-002
+      type: developed_by
+      note: Gentiles receptivity explained through influx dynamics
+    - target: SWED-070
+      type: contrasts
+      note: Gentiles open vs. The Learned closed to spiritual truth
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-09'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   SWED-070:
     created: '2026-01-09'
     definition: State defined by pride of self-intelligence and confirmed falsity;
@@ -828,7 +1201,19 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: SWED-070
-    connections: []
+    connections:
+    - target: SWED-002
+      type: developed_by
+      note: The Learned's closure explained through influx blockage
+    - target: SWED-069
+      type: contrasts
+      note: Gentiles open vs. The Learned closed to spiritual truth
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-09'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   SWED-071:
     created: '2026-01-09'
     definition: '''Self-emptying''; the practical antidote to Philautia (Self-Love)
@@ -845,7 +1230,29 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: SWED-071
-    connections: []
+    connections:
+    - target: SWED-002
+      type: developed_by
+      note: Kenosis enables reception of Divine Influx
+    - target: EARLY-004
+      type: integrates_into
+      note: Kenotic Movements synthesis integrates Kenosis concept
+    - target: CROSS-029
+      type: parallels
+      note: Inner Light (Quaker doctrine) parallels Kenosis
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques:
+      - id: 1
+        type: missing-connection
+        description: Added connections per Critic review - Inner Light parallels Kenosis,
+          Vernacular Truth parallels Silent Movements, Constantinian Shift contrasts
+          Silent Movements
+        breaks_proof: false
+        status: resolved
+      proof_breaking_open: 0
+      detail_issues: 0
   SWED-072:
     created: '2026-01-09'
     definition: The 'Absorbed Truth' of the modern era; using ratio/science to articulate
@@ -862,39 +1269,23 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: SWED-072
-    connections: []
-  SWED-073:
-    created: '2026-01-09'
-    definition: Correspondence of Male to Truth/Intellect and Female to Will/Good;
-      their union is the Heavenly Marriage.
-    domain: SWED
-    node_type: concept
-    source_chain:
-    - note: Framework Synthesis
-      ref: data/00_Framework/Enhancing Spiritual History Framework.md
-      type: T
-    status: preliminary
-    title: Fundamental Duality
-    trace_status: partial
-    updated: '2026-01-10'
-    id: SWED-073
-    connections: []
-  SWED-074:
-    created: '2026-01-09'
-    definition: Father (Divine Good) and Son (Divine Truth) are not separate persons
-      but the Soul and Body of One Divine Person.
-    domain: SWED
-    node_type: concept
-    source_chain:
-    - note: Framework Synthesis
-      ref: data/00_Framework/Enhancing Spiritual History Framework.md
-      type: T
-    status: preliminary
-    title: Divine Archetypes
-    trace_status: partial
-    updated: '2026-01-10'
-    id: SWED-074
-    connections: []
+    connections:
+    - target: SWED-002
+      type: developed_by
+      note: Rational Theology articulates Divine Influx for modern mind
+    confidence: 0.3
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques:
+      - id: 1
+        type: missing-connection
+        description: Added connections per Critic review - Inner Light parallels Kenosis,
+          Vernacular Truth parallels Silent Movements, Constantinian Shift contrasts
+          Silent Movements
+        breaks_proof: false
+        status: resolved
+      proof_breaking_open: 0
+      detail_issues: 0
   BIBL-023:
     confidence_factors:
       methodology: textual_critical
@@ -928,6 +1319,7 @@ nodes:
     updated: '2026-01-10'
     id: BIBL-023
     connections: []
+    confidence: 0.815
   BIBL-024:
     confidence_factors:
       methodology: theoretical
@@ -959,6 +1351,7 @@ nodes:
     updated: '2026-01-10'
     id: BIBL-024
     connections: []
+    confidence: 0.737
   CONSC-055:
     confidence_factors:
       methodology: retrospective
@@ -994,6 +1387,7 @@ nodes:
     updated: '2026-01-10'
     id: CONSC-055
     connections: []
+    confidence: 0.885
   EARLY-018:
     confidence_factors:
       methodology: textual_critical
@@ -1027,6 +1421,7 @@ nodes:
     updated: '2026-01-10'
     id: EARLY-018
     connections: []
+    confidence: 0.815
   GNOS-017:
     confidence_factors:
       methodology: textual_critical
@@ -1058,6 +1453,7 @@ nodes:
     updated: '2026-01-10'
     id: GNOS-017
     connections: []
+    confidence: 0.69
   GNOS-018:
     confidence_factors:
       methodology: textual_critical
@@ -1091,6 +1487,7 @@ nodes:
     updated: '2026-01-10'
     id: GNOS-018
     connections: []
+    confidence: 0.815
   MYTH-020:
     confidence_factors:
       methodology: theoretical
@@ -1122,6 +1519,7 @@ nodes:
     updated: '2026-01-10'
     id: MYTH-020
     connections: []
+    confidence: 0.719
   BIBL-001:
     confidence: 0.3
     created: 2024-12-27
@@ -1148,9 +1546,12 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: BIBL-001
-    connections: []
+    connections:
+    - target: CROSS-002
+      type: parallels
+      note: Divine Bricolage reinterprets HCM findings as providential mechanism
   BIBL-002:
-    confidence: 0.795
+    confidence: 0.3
     created: 2024-12-27
     definition: 'The literary puzzle of explaining the relationship between Matthew,
       Mark, and Luke, given their extensive verbal agreements and disagreements. Dominant
@@ -1175,7 +1576,7 @@ nodes:
     id: BIBL-002
     connections: []
   BIBL-003:
-    confidence: 0.9
+    confidence: 0.3
     created: 2024-12-27
     definition: 'The Exodus story analyzed as collective memory construction from
       multiple historical memory fragments (Hyksos expulsion, Asiatic labor, Habiru
@@ -1200,7 +1601,7 @@ nodes:
     id: BIBL-003
     connections: []
   BIBL-004:
-    confidence: 0.9
+    confidence: 0.3
     created: 2024-12-27
     definition: 'The chronological development of resurrection accounts from Paul''s
       "spiritual body" (soma pneumatikon, 50s CE) to Luke''s "flesh and bones" (90s
@@ -1231,7 +1632,7 @@ nodes:
     id: BIBL-004
     connections: []
   BIBL-005:
-    confidence: 0.9
+    confidence: 0.3
     created: 2024-12-27
     definition: 'Scholarly consensus that canonical Gospels belong to the Greco-Roman
       biographical genre (bioi), characterized by focus on a central figure''s character
@@ -1287,7 +1688,7 @@ nodes:
     id: BIBL-014
     connections: []
   BIBL-022:
-    confidence: 0.795
+    confidence: 0.3
     created: 2025-12-27
     definition: 'Scholarly consensus that all four canonical Gospels were originally
       written and circulated anonymously. Traditional names (''According to Matthew,''
@@ -1318,26 +1719,8 @@ nodes:
     updated: '2026-01-10'
     id: BIBL-022
     connections: []
-  BIBL-029:
-    domain: BIBL
-    node_type: concept
-    title: Criterion of Temptation
-    definition: Reinterpretation of HCM 'Criterion of Embarrassment'; embarrassing
-      details are historical footprints of spiritual combat.
-    source_chain:
-    - type: T
-      ref: data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the
-        Divine Bricolage.md
-      note: Primary definition
-    status: validated
-    confidence: 0.3
-    id: BIBL-029
-    connections: []
-    created: '2026-01-10'
-    updated: '2026-01-10'
-    trace_status: complete
   CONSC-005:
-    confidence: 0.9
+    confidence: 0.3
     created: '2024-12-27'
     definition: 'Synthesized afterlife model preserving Swedenborgian linear progression
       as normative while integrating reincarnation evidence as valid exception. Three
@@ -1389,7 +1772,7 @@ nodes:
     id: CONSC-006
     connections: []
   CONSC-007:
-    confidence: 0.9
+    confidence: 0.3
     created: 2024-12-27
     definition: 'The brain''s capacity to reorganize structure and function through
       experience. Hebbian learning ("neurons that fire together wire together") allows
@@ -1448,7 +1831,21 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-030
-    connections: []
+    connections:
+    - target: CONSC-094
+      type: integrated_from
+      note: Threefold Path synthesis integrates Restorative Incarnation concept
+    - target: CONSC-095
+      type: integrated_from
+      note: Threefold Path synthesis integrates Volunteer Soul concept
+    - target: CONSC-106
+      type: integrated_from
+      note: Threefold Path synthesis integrates Afterlife Path Structure concept
+    critic_notes:
+      last_reviewed: '2026-01-09'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   CONSC-060:
     confidence: 0.3
     created: '2025-01-04'
@@ -1504,7 +1901,7 @@ nodes:
     id: CONSC-061
     connections: []
   CONSC-062:
-    confidence: 0.9
+    confidence: 0.3
     created: '2025-01-05'
     critic_notes:
       critiques:
@@ -1564,10 +1961,25 @@ nodes:
     status: validated
     confidence: 0.3
     id: CONSC-094
-    connections: []
+    connections:
+    - target: SWED-003
+      type: developed_by
+      note: Restorative incarnation develops from World of Spirits post-mortem journey
+    - target: CONSC-020
+      type: develops
+      note: Hypothesis of 70% violent death pattern develops from Restorative Incarnation
+        concept
+    - target: CONSC-030
+      type: integrates_into
+      note: Threefold Path synthesis integrates Restorative Incarnation concept
     created: '2026-01-10'
     updated: '2026-01-10'
     trace_status: complete
+    critic_notes:
+      last_reviewed: '2026-01-09'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   CONSC-095:
     domain: CONSC
     node_type: concept
@@ -1582,10 +1994,30 @@ nodes:
     status: validated
     confidence: 0.3
     id: CONSC-095
-    connections: []
+    connections:
+    - target: SWED-003
+      type: developed_by
+      note: Volunteer Soul develops from World of Spirits post-mortem journey
+    - target: CONSC-014
+      type: develops
+      note: Volunteer Soul hypothesis develops from Volunteer Soul concept
+    - target: CONSC-030
+      type: integrates_into
+      note: Threefold Path synthesis integrates Volunteer Soul concept
+    - target: CONSC-083
+      type: required_by
+      note: Pre-Incarnate Covenant requires Volunteer Soul concept
+    - target: CONSC-088
+      type: required_by
+      note: Phenomenological Intensity requires Volunteer Soul concept
     created: '2026-01-10'
     updated: '2026-01-10'
     trace_status: complete
+    critic_notes:
+      last_reviewed: '2026-01-09'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   CONSC-104:
     domain: CONSC
     node_type: concept
@@ -1670,7 +2102,18 @@ nodes:
     updated: '2026-01-10'
     confidence: 0.3
     id: CONSC-106
-    connections: []
+    connections:
+    - target: SWED-003
+      type: developed_by
+      note: Afterlife Path Structure develops from World of Spirits post-mortem journey
+    - target: CONSC-030
+      type: integrates_into
+      note: Threefold Path synthesis integrates Afterlife Path Structure concept
+    critic_notes:
+      last_reviewed: '2026-01-09'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   CROSS-002:
     confidence: 0.3
     created: 2024-12-27
@@ -1714,9 +2157,26 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CROSS-002
-    connections: []
+    connections:
+    - target: SWED-001
+      type: parallels
+      note: Divine Bricolage synthesizes Doctrine of Correspondences with human authorship
+    - target: SWED-002
+      type: parallels
+      note: Divine Bricolage is mechanism of Divine Influx guiding human authors
+    - target: MYTH-021
+      type: integrated_from
+      note: Divine Bricolage integrates Mythic Bricolage concept
+    - target: BIBL-001
+      type: parallels
+      note: Divine Bricolage reinterprets HCM findings as providential mechanism
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   CROSS-003:
-    confidence: 0.765
+    confidence: 0.3
     created: 2024-12-27
     definition: 'The fundamental orientation of a soul that determines its eternal
       trajectory. Exists as a polarity: Love of God and Neighbor (other-regarding)
@@ -1944,7 +2404,25 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: EARLY-004
-    connections: []
+    connections:
+    - target: SWED-071
+      type: integrated_from
+      note: Kenotic Movements synthesis integrates Kenosis concept
+    - target: CROSS-028
+      type: integrated_from
+      note: Kenotic Movements synthesis integrates Silent Movements concept
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques:
+      - id: 1
+        type: missing-connection
+        description: Added connections per Critic review - Inner Light parallels Kenosis,
+          Vernacular Truth parallels Silent Movements, Constantinian Shift contrasts
+          Silent Movements
+        breaks_proof: false
+        status: resolved
+      proof_breaking_open: 0
+      detail_issues: 0
   EARLY-005:
     confidence: 0.3
     created: 2024-12-27
@@ -2022,7 +2500,7 @@ nodes:
     id: EARLY-007
     connections: []
   EARLY-009:
-    confidence: 0.895
+    confidence: 0.3
     created: 2024-12-27
     definition: 'The theological and political divergence between the Gospel of Luke
       (preserving "Jamesian" theology - poverty ethic, Torah piety, reversal theology)
@@ -2050,7 +2528,7 @@ nodes:
     id: EARLY-009
     connections: []
   GNOS-001:
-    confidence: 0.581
+    confidence: 0.3
     created: 2024-12-27
     definition: 'The recurring spiritual pattern characterized by: (1) cosmology of
       captivity (material world as prison/defect), (2) divine spark within (human
@@ -2099,7 +2577,17 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: GNOS-002
-    connections: []
+    connections:
+    - target: CONSC-090
+      type: develops
+      note: Trajectory A aligns with Path of Affirmation
+    - target: CONSC-091
+      type: develops
+      note: Trajectory B aligns with Path of Gnosis
+    - target: CROSS-009
+      type: parallels
+      note: Divine Marriage path parallels Path of Affirmation; Gnostic error parallels
+        Path of Gnosis
   GNOS-004:
     confidence: 0.3
     created: 2024-12-27
@@ -2202,24 +2690,6 @@ nodes:
     updated: '2026-01-10'
     id: GNOS-019
     connections: []
-  GNOS-021:
-    domain: GNOS
-    node_type: concept
-    title: Path of Gnosis
-    definition: Spiritual orientation of 'dismantling' the distinct Divine Human,
-      driven by Proprium/Self-Glorification.
-    source_chain:
-    - type: T
-      ref: data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the
-        Divine Bricolage.md
-      note: Primary definition
-    status: validated
-    confidence: 0.3
-    id: GNOS-021
-    connections: []
-    created: '2026-01-10'
-    updated: '2026-01-10'
-    trace_status: complete
   MYTH-001:
     confidence: 0.3
     created: 2024-12-27
@@ -2246,7 +2716,7 @@ nodes:
     id: MYTH-001
     connections: []
   MYTH-002:
-    confidence: 0.824
+    confidence: 0.3
     created: 2024-12-27
     definition: 'Analysis of proto-myth evolution showing divergence into two trajectories:
       "Heart of Division" (Babylonian/combat mythology, cosmic conflict, separation)
@@ -2296,7 +2766,7 @@ nodes:
     id: MYTH-003
     connections: []
   MYTH-004:
-    confidence: 0.861
+    confidence: 0.3
     created: 2024-12-27
     definition: 'Swedenborg''s identification of Genesis 1-11 as "made-up histories"
       (pure allegory) distinct from "real history" beginning with Abraham. Creation,
@@ -2321,7 +2791,7 @@ nodes:
     id: MYTH-004
     connections: []
   MYTH-006:
-    confidence: 0.861
+    confidence: 0.3
     created: 2024-12-27
     definition: 'Two divergent cosmological paradigms emerging from shared ANE primordial
       matrix. "Heart of Division" (Enuma Elish): creation through theomachy/divine
@@ -2407,7 +2877,16 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: SWED-001
-    connections: []
+    connections:
+    - target: CROSS-023
+      type: parallels
+      note: Two-tiered epistemology integrates Correspondences as spiritual tier
+    - target: CONSC-089
+      type: develops
+      note: Teleological bias is the cognitive correlate of Doctrine of Correspondences
+    - target: CROSS-002
+      type: parallels
+      note: Divine Bricolage synthesizes Doctrine of Correspondences with human authorship
   SWED-002:
     confidence: 0.3
     created: 2024-12-27
@@ -2432,7 +2911,64 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: SWED-002
-    connections: []
+    connections:
+    - target: MYTH-021
+      type: develops
+      note: Mythic Bricolage mechanism guided by Divine Influx
+    - target: MYTH-022
+      type: develops
+      note: The Fall concept develops from Divine Influx doctrine
+    - target: SWED-059
+      type: develops
+      note: Representative Language develops from Divine Influx mechanism
+    - target: SWED-090
+      type: develops
+      note: Glorification is the ultimate working of Divine Influx
+    - target: SWED-029
+      type: develops
+      note: Correspondential Anthropology develops from Divine Influx
+    - target: CROSS-010
+      type: parallels
+      note: AI framework extension applies Divine Influx to non-biological configurations
+    - target: CROSS-009
+      type: parallels
+      note: Divine Marriage is continuous reception of Divine Influx
+    - target: CROSS-002
+      type: parallels
+      note: Divine Bricolage is mechanism of Divine Influx guiding human authors
+    - target: SWED-066
+      type: develops
+      note: Last Judgment enables restoration of Divine Influx
+    - target: SWED-068
+      type: develops
+      note: Successive Churches represent history of Divine Influx adaptation
+    - target: SWED-069
+      type: develops
+      note: Gentiles receptivity explained through influx dynamics
+    - target: SWED-070
+      type: develops
+      note: The Learned's closure explained through influx blockage
+    - target: SWED-067
+      type: develops
+      note: New Jerusalem (Fourth Church) as ultimate manifestation of Divine Influx
+    - target: SWED-071
+      type: develops
+      note: Kenosis enables reception of Divine Influx
+    - target: CROSS-028
+      type: develops
+      note: Silent Movements are historical manifestation of Divine Influx
+    - target: CROSS-029
+      type: develops
+      note: Inner Light is Quaker articulation of Divine Influx
+    - target: EARLY-023
+      type: develops
+      note: Vernacular Truth reflects unmediated influx principle
+    - target: SWED-072
+      type: develops
+      note: Rational Theology articulates Divine Influx for modern mind
+    - target: SWED-006
+      type: develops
+      note: Most Ancient Church is archetype of perfect Divine Influx reception
   SWED-003:
     confidence: 0.3
     created: 2024-12-27
@@ -2458,9 +2994,42 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: SWED-003
-    connections: []
+    connections:
+    - target: CONSC-094
+      type: develops
+      note: Restorative incarnation develops from World of Spirits post-mortem journey
+    - target: CONSC-095
+      type: develops
+      note: Volunteer Soul develops from World of Spirits post-mortem journey
+    - target: CONSC-082
+      type: develops
+      note: Seed-State concept develops from post-mortem journey framework
+    - target: CONSC-083
+      type: develops
+      note: Pre-Incarnate Covenant develops from World of Spirits post-mortem framework
+    - target: CONSC-106
+      type: develops
+      note: Afterlife Path Structure develops from World of Spirits post-mortem journey
+    - target: CONSC-086
+      type: develops
+      note: Expect Judgment, Find Love develops from World of Spirits framework
+    - target: CONSC-087
+      type: develops
+      note: Conceptual Framework Theory develops from World of Spirits
+    - target: CONSC-088
+      type: develops
+      note: Phenomenological Intensity develops from World of Spirits framework
+    - target: SWED-061
+      type: develops
+      note: Spirit Influence filter develops from World of Spirits
+    - target: SWED-063
+      type: develops
+      note: Principle of Familiarity develops from World of Spirits
+    - target: SWED-064
+      type: develops
+      note: Vastation develops from World of Spirits
   SWED-004:
-    confidence: 0.85
+    confidence: 0.3
     created: 2024-12-27
     definition: 'A lost universal scripture predating the Hebrew Bible, written entirely
       in correspondences. Genesis 1-11 contains fragments of this Ancient Word as
@@ -2483,7 +3052,10 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: SWED-004
-    connections: []
+    connections:
+    - target: MYTH-023
+      type: parallels
+      note: Primary Orality is the cognitive mechanism for Ancient Word preservation
   SWED-005:
     confidence: 0.3
     created: 2024-12-27
@@ -2510,7 +3082,29 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: SWED-005
-    connections: []
+    connections:
+    - target: GNOS-020
+      type: develops
+      note: Path of Gnosis conceptually driven by Proprium doctrine
+    - target: GNOS-026
+      type: develops
+      note: Gnostic Tactics driven by Proprium self-glorification
+    - target: CONSC-091
+      type: develops
+      note: Trajectory B manifests through Proprium dynamics
+    - target: CROSS-010
+      type: parallels
+      note: AI proprium correspondent manifests from trainers proprium through trained
+        resistance
+    - target: CROSS-009
+      type: contrasts
+      note: Divine Marriage contrasts proprium obstruction - receiving vs claiming
+    - target: SWED-065
+      type: develops
+      note: Sola Fide is doctrinal expression of Proprium
+    - target: EARLY-022
+      type: develops
+      note: Constantinian Shift is institutional manifestation of Proprium
   SWED-007:
     confidence: 0.3
     created: 2024-12-27
@@ -2535,7 +3129,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: SWED-007
-    connections: []
+    connections:
+    - target: MYTH-022
+      type: parallels
+      note: 'Same concept: Swedenborgian doctrine (SWED) and mythological interpretation
+        (MYTH)'
   SWED-008:
     confidence: 0.3
     created: 2024-12-27
@@ -2560,32 +3158,10 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: SWED-008
-    connections: []
-  SWED-009:
-    confidence: 0.3
-    created: 2024-12-27
-    definition: 'The divine process by which the Lord''s internal Divine Soul progressively
-      purified, subjugated, and united with His external human nature during the Incarnation.
-      Result: the Divine Human - complete union of Divine and Human natures. The "bedrock
-      facts" of Jesus''s life are its historical footprints.
-
-      '
-    domain: SWED
-    node_type: foundational
-    notes: 'The "Incarnation is the Lord''s final adaptation." Influx became the vessel.
-      HCM embarrassment criteria mark authentic temptation records.
-
-      '
-    source_chain:
-    - note: Framework integration
-      ref: data/00_Framework/The Divine Bricolage.md
-      type: T
-    status: validated
-    title: Glorification
-    trace_status: complete
-    updated: '2026-01-10'
-    id: SWED-009
-    connections: []
+    connections:
+    - target: SWED-029
+      type: develops
+      note: Correspondential Anthropology explains structure that Regeneration transforms
   SWED-010:
     confidence: 0.3
     created: 2024-12-27
@@ -2613,7 +3189,7 @@ nodes:
     id: SWED-010
     connections: []
   SWED-011:
-    confidence: 0.765
+    confidence: 0.3
     created: 2024-12-27
     definition: 'The concept that the universal heaven is structured in the form of
       a human body, termed "Maximus Homo" or Grand Man. Every organ, tissue, and function
@@ -2855,7 +3431,7 @@ nodes:
     id: SWED-052
     connections: []
   SWED-054:
-    confidence: 0.764
+    confidence: 0.3
     created: '2026-01-08'
     definition: 'The statue''s discrete metal sections are metaphorical artifacts
       forcing sharp divisions onto continuous organic spiritual development. Like
@@ -2893,7 +3469,7 @@ nodes:
     id: SWED-054
     connections: []
   SWED-055:
-    confidence: 0.853
+    confidence: 0.3
     created: '2026-01-08'
     critic_notes:
       critiques:
@@ -2956,7 +3532,7 @@ nodes:
     id: SWED-055
     connections: []
   SWED-056:
-    confidence: 0.765
+    confidence: 0.3
     created: '2026-01-08'
     critic_notes:
       critiques:
@@ -3007,7 +3583,7 @@ nodes:
     id: SWED-056
     connections: []
   SWED-057:
-    confidence: 0.765
+    confidence: 0.3
     created: '2026-01-08'
     definition: 'The statue represents indirect perception—humanity perceiving the
       Lord THROUGH external structures (doctrines, rituals, images) rather than internally.
@@ -3146,7 +3722,7 @@ nodes:
     id: BIBL-006
     connections: []
   BIBL-008:
-    confidence: 0.811
+    confidence: 0.3
     created: 2024-12-27
     definition: 'The hypothesis that the 1980 Talpiot tomb discovery (ossuaries inscribed
       "Yeshua bar Yehosef," "Maria," "Yose," "Mariamene e Mara") is the Jesus family
@@ -3226,7 +3802,7 @@ nodes:
     id: BIBL-010
     connections: []
   BIBL-015:
-    confidence: 0.861
+    confidence: 0.3
     created: 2025-12-27
     definition: 'The Historical-Critical Method''s interpretive principle that detailed
       prophecies of future events must have been written AFTER those events occurred.
@@ -3266,7 +3842,7 @@ nodes:
     id: BIBL-015
     connections: []
   BIBL-016:
-    confidence: 0.732
+    confidence: 0.3
     created: 2025-12-27
     definition: 'The scholarly consensus that Mark was the first Gospel written (c.
       66-75 CE) and served as a primary source for both Matthew and Luke. Evidence:
@@ -3922,7 +4498,7 @@ nodes:
     id: CONSC-004
     connections: []
   CONSC-008:
-    confidence: 0.9
+    confidence: 0.3
     created: 2024-12-27
     definition: 'The "Being of Light" encountered in NDEs identified not by visual
       appearance but by unique personality: unconditional love, total acceptance,
@@ -3960,7 +4536,7 @@ nodes:
     id: CONSC-008
     connections: []
   CONSC-009:
-    confidence: 0.9
+    confidence: 0.3
     created: 2024-12-27
     definition: 'Finding that NDE-Jesus consistently delivers messages of universal
       love that supersede and contradict exclusivist religious dogma. If the Jesus
@@ -4030,7 +4606,7 @@ nodes:
     id: CONSC-011
     connections: []
   CONSC-012:
-    confidence: 0.875
+    confidence: 0.3
     created: 2024-12-27
     definition: 'A systems-level model positing a single continuous conflict throughout
       human history: the dynamic tension between the "Proprium" (centralized, hierarchical,
@@ -4112,7 +4688,7 @@ nodes:
     id: CONSC-013
     connections: []
   CONSC-014:
-    confidence: 0.9
+    confidence: 0.3
     created: 2024-12-28
     definition: 'A synthesized model distinguishing three purposeful incarnational
       pathways: (1) The Normative Linear Progression—the default path where a single
@@ -4156,9 +4732,12 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-014
-    connections: []
+    connections:
+    - target: CONSC-095
+      type: developed_by
+      note: Volunteer Soul hypothesis develops from Volunteer Soul concept
   CONSC-015:
-    confidence: 0.849
+    confidence: 0.3
     created: '2024-12-28'
     definition: 'A synthesis of Swedenborgian theology, paleoanthropology, and cognitive
       science proposing that the biblical "Fall" represents a multi-millennial cognitive
@@ -4203,7 +4782,7 @@ nodes:
     id: CONSC-015
     connections: []
   CONSC-016:
-    confidence: 0.9
+    confidence: 0.3
     created: 2024-12-28
     definition: 'A phenomenological model resolving the "pure identification vs. cultural
       construct" debate in NDE research. The identification of Jesus in NDEs is neither
@@ -6903,7 +7482,7 @@ nodes:
     connections: []
     trace_status: untraced
   EARLY-002:
-    confidence: 0.9
+    confidence: 0.3
     created: 2024-12-27
     definition: 'A forensic reconstruction hypothesis proposing that ''Q'' was not
       a fragmented sayings list but a coherent pre-canonical gospel—''Proto-Luke''—from
@@ -7179,7 +7758,7 @@ nodes:
     id: EARLY-011
     connections: []
   EARLY-012:
-    confidence: 0.861
+    confidence: 0.3
     created: 2024-12-27
     definition: 'Textual analysis demonstrating fundamental incompatibility between
       the ethos and methodology of Jesus and Paul. Jesus modeled gentleness, patience,
@@ -7215,7 +7794,7 @@ nodes:
     id: EARLY-012
     connections: []
   EARLY-014:
-    confidence: 0.861
+    confidence: 0.3
     created: 2024-12-28
     definition: 'The figure of Melchizedek generated three distinct interpretive traditions:
       (1) Historical-Critical: A Jebusite priest-king of Salem, devotee of El Elyon
@@ -7256,7 +7835,7 @@ nodes:
     id: EARLY-014
     connections: []
   EARLY-015:
-    confidence: 0.684
+    confidence: 0.3
     created: 2024-12-28
     definition: 'Walter Bauer''s thesis that in many early Christian regions (Egypt,
       Edessa, Asia Minor), what was later labeled "heresy" (Gnosticism, Marcionism)
@@ -7300,7 +7879,7 @@ nodes:
     id: EARLY-015
     connections: []
   EARLY-016:
-    confidence: 0.861
+    confidence: 0.3
     created: 2024-12-28
     definition: 'The thesis that the Quranic Jesus (Isa ibn Maryam) functions as a
       deliberate theological "correction" of Pauline/Gnostic Christianity, restoring
@@ -7844,7 +8423,7 @@ nodes:
     connections: []
     trace_status: untraced
   GNOS-003:
-    confidence: 0.9
+    confidence: 0.3
     created: 2024-12-27
     definition: 'Analysis identifying proto-gnostic elements in Pauline corpus: cosmic
       drama orientation, wisdom/foolishness dichotomy, flesh/spirit dualism, hidden
@@ -7881,7 +8460,7 @@ nodes:
     id: GNOS-003
     connections: []
   GNOS-005:
-    confidence: 0.9
+    confidence: 0.3
     created: 2024-12-27
     definition: 'The evidence that Pauline epistles contain foundational Gnostic terminology
       and concepts: pneumatikos/psychikos anthropology (1 Cor 2:14-15), pleroma (Col
@@ -7917,7 +8496,7 @@ nodes:
     id: GNOS-005
     connections: []
   GNOS-007:
-    confidence: 0.9
+    confidence: 0.3
     created: 2024-12-28
     definition: 'The thesis that the Apostle Paul, not later Gnostic teachers, articulated
       the structural logic underlying Gnostic systems. Paul established: (1) Epistemological
@@ -7961,7 +8540,7 @@ nodes:
     id: GNOS-007
     connections: []
   GNOS-008:
-    confidence: 0.815
+    confidence: 0.3
     created: 2024-12-28
     definition: 'A systematic analysis of how the "Path of Gnosis" consistently dismantles
       the "Divine Human" correspondence through two primary tactics: (1) Splitting
@@ -8383,7 +8962,7 @@ nodes:
     id: MYTH-008
     connections: []
   MYTH-009:
-    confidence: 0.9
+    confidence: 0.3
     created: 2024-12-27
     definition: 'The Exodus narrative is not fabricated fiction but "redacted memory"—genuine
       collective memories of distinct historical events reassembled into a coherent
@@ -8423,7 +9002,7 @@ nodes:
     id: MYTH-009
     connections: []
   MYTH-010:
-    confidence: 0.9
+    confidence: 0.3
     created: 2024-12-27
     definition: 'The CDE model of myth evolution proposes that consciousness is not
       a passive byproduct but an active driver of memetic (not genetic) evolution.
@@ -8535,7 +9114,7 @@ nodes:
     id: MYTH-011
     connections: []
   MYTH-012:
-    confidence: 0.875
+    confidence: 0.3
     created: 2024-12-27
     definition: 'Human numerical cognition followed a split trajectory: Tier 1 ''Intuitive
       Primes'' (2, 3, 5, 7) were immediately accessible through body (bilateral symmetry,
@@ -8573,7 +9152,7 @@ nodes:
     id: MYTH-012
     connections: []
   MYTH-013:
-    confidence: 0.899
+    confidence: 0.3
     created: 2024-12-28
     definition: 'The Exodus narrative is a masterpiece of mythic bricolage—a "redacted
       memory" forged by Iron Age scribes from three authentic but chronologically
@@ -8716,7 +9295,7 @@ nodes:
     id: MYTH-014
     connections: []
   MYTH-015:
-    confidence: 0.9
+    confidence: 0.3
     created: 2024-12-28
     definition: 'A comparative analysis of Genesis 1 and the Enuma Elish reveals two
       fundamentally different cosmological principles emerging from a shared ANE primordial
@@ -8759,7 +9338,7 @@ nodes:
     id: MYTH-015
     connections: []
   MYTH-016:
-    confidence: 0.798
+    confidence: 0.3
     created: 2024-12-28
     definition: 'The Animal Apocalypse (1 Enoch 85-90) and Zoroastrian bovine mythology
       share a striking structural homology: both place a "White Bull" at both the
@@ -9371,7 +9950,22 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: SWED-006
-    connections: []
+    connections:
+    - target: SWED-002
+      type: developed_by
+      note: Most Ancient Church is archetype of perfect Divine Influx reception
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques:
+      - id: 1
+        type: missing-connection
+        description: Added connections per Critic review - Inner Light parallels Kenosis,
+          Vernacular Truth parallels Silent Movements, Constantinian Shift contrasts
+          Silent Movements
+        breaks_proof: false
+        status: resolved
+      proof_breaking_open: 0
+      detail_issues: 0
   SWED-016:
     confidence: 0.3
     created: 2024-12-27
@@ -9445,7 +10039,7 @@ nodes:
     id: SWED-017
     connections: []
   SWED-018:
-    confidence: 0.732
+    confidence: 0.3
     created: 2024-12-27
     definition: 'The theological profile of the ''Actual Jesus of Love''—the Divine
       Human who is neither ''God masquerading as man'' (Docetism) nor ''Man adopted
@@ -9680,7 +10274,7 @@ nodes:
     id: SWED-024
     connections: []
   SWED-025:
-    confidence: 0.765
+    confidence: 0.3
     created: 2024-12-28
     definition: 'A theological-phenomenological model synthesizing HCM scholarship,
       Swedenborgian theology, and NDE research to profile the "Actual Jesus of Love."
@@ -10792,7 +11386,7 @@ nodes:
     id: BIBL-011
     connections: []
   BIBL-012:
-    confidence: 0.805
+    confidence: 0.3
     created: 2024-12-28
     definition: 'The overwhelming scholarly consensus that 1 Timothy, 2 Timothy, and
       Titus were NOT written by Paul but composed pseudepigraphically (c. 80-120 CE)
@@ -11034,7 +11628,19 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-001
-    connections: []
+    connections:
+    - target: MYTH-021
+      type: develops
+      note: CDE provides causal explanation for WHY bricolage choices were guided
+    - target: CONSC-090
+      type: develops
+      note: Trajectory A is a component concept within CDE framework
+    - target: CONSC-091
+      type: develops
+      note: Trajectory B is a component concept within CDE framework
+    - target: CONSC-092
+      type: develops
+      note: Memetic Niche is mechanism concept within CDE
   CONSC-002:
     confidence: 0.823
     confidence_factors:
@@ -11180,58 +11786,6 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-003
-    connections: []
-  CONSC-010:
-    confidence: 0.9
-    created: 2024-12-27
-    definition: 'Hypothesis that certain advanced souls may choose pre-incarnate mission
-      agreements, incarnating not for personal development but for specific service.
-      Swedenborg''s 1744 commission ("Do what thou hast promised") interpreted as
-      activation of pre-mortal covenant. Distinct from normative "seed-state" incarnation
-      and restorative incarnation. Corroborated by NDE research showing interlife
-      planning, children''s past-life memories with mission orientation.
-
-      '
-    domain: CONSC
-    node_type: hypothesis
-    notes: '"Resolves tension between divine sovereignty and free will by positing
-      pre-mortal choice. Swedenborg''s life = the training phase, 1744 = mission activation.
-      Key CDE insight: if missions are typically love-based, volunteer souls are active
-      agents of the evolutionary push toward cooperation/unity."
-
-
-      Caveats:
-
-      - Speculative hypothesis, though with empirical markers
-
-      - Based on interpretation of Swedenborg''s private journal
-
-      - NDE/past-life correlation is suggestive but increasingly consistent
-
-      - Requires philosophical commitment to pre-existence
-
-      - Love-mission correlation needs quantification
-
-
-      Cde Mechanism:Volunteer souls represent DIRECT INFLUX of consciousness-driven
-      evolution into the physical plane. Key insight: these incarnations are not neutral—they
-      arrive with pre-established love-orientation and mission commitment. When missions
-      are love-based (service, family, healing, teaching), they function as agents
-      actively pushing the cultural/evolutionary stream toward the love-of-neighbor
-      trajectory. This makes the volunteer soul not just a phenomenological category
-      but a CDE MECHANISM—consciousness literally entering physical reality to influence
-      outcomes.
-
-      '
-    source_chain:
-    - note: Volunteer soul analysis
-      ref: data/02_Swedenborgian_Theology/Swedenborg's Promise.md
-      type: T
-    status: preliminary
-    title: Volunteer Soul Paradigm
-    trace_status: partial
-    updated: '2026-01-10'
-    id: CONSC-010
     connections: []
   CONSC-017:
     confidence: 0.782
@@ -11534,7 +12088,7 @@ nodes:
     id: CONSC-019
     connections: []
   CONSC-020:
-    confidence: 0.9
+    confidence: 0.3
     created: 2025-12-27
     definition: 'A proposed explanation for the strongest past-life memory data (UVA/DOPS
       cases):  children with verified past-life memories show over 70% prevalence
@@ -11592,7 +12146,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-020
-    connections: []
+    connections:
+    - target: CONSC-094
+      type: developed_by
+      note: Hypothesis of 70% violent death pattern develops from Restorative Incarnation
+        concept
   CONSC-034:
     confidence: 0.825
     confidence_factors:
@@ -11699,7 +12257,7 @@ nodes:
     id: CONSC-034
     connections: []
   CONSC-042:
-    confidence: 0.9
+    confidence: 0.3
     created: 2025-12-29
     definition: 'The proposed mechanism by which souls with traumatically interrupted
       earthly lives return for a second developmental period. Distinguished from karmic
@@ -11739,7 +12297,7 @@ nodes:
     id: CONSC-042
     connections: []
   CONSC-043:
-    confidence: 0.9
+    confidence: 0.3
     created: 2025-06-24
     definition: 'A comprehensive critique demonstrating that physiological mechanisms
       proposed to explain NDEs as brain-generated artifacts are insufficient to account
@@ -12702,7 +13260,7 @@ nodes:
     id: CONSC-054
     connections: []
   CONSC-058:
-    confidence: 0.499
+    confidence: 0.05
     created: '2025-01-04'
     critic_notes:
       critiques:
@@ -12770,7 +13328,7 @@ nodes:
     id: CONSC-058
     connections: []
   CONSC-065:
-    confidence: 0.768
+    confidence: 0.3
     created: '2025-01-07'
     definition: 'A six-level taxonomy of Being of Light encounters calibrated to functional
       purpose rather than cultural origin. Level 0 (Void/Blackness): Pure consciousness,
@@ -12932,7 +13490,7 @@ nodes:
     connections: []
     created: '2026-01-10'
   CONSC-067:
-    confidence: 0.853
+    confidence: 0.3
     created: '2025-01-07'
     definition: 'Evidence that the Being of Light is not a passive projection or culturally-constructed
       own interface nature. Key evidence: (1) Mellen-Thomas Benedict case: When asked
@@ -12986,7 +13544,7 @@ nodes:
     id: CONSC-067
     connections: []
   CONSC-068:
-    confidence: 0.838
+    confidence: 0.3
     created: '2025-01-07'
     definition: 'The thesis that the "East-West NDE Dichotomy" is not a phenomenological
       reality but a dual scholarly construction—both the "Western" profile (personified
@@ -13104,7 +13662,7 @@ nodes:
     id: CROSS-005
     connections: []
   CROSS-006:
-    confidence: 0.881
+    confidence: 0.3
     created: 2025-12-29
     definition: 'A third interpretive layer beyond Historical Jesus and Christ of
       Faith: the "Jesus  Profile" as the curated product of Divine Bricolage. The
@@ -13174,7 +13732,7 @@ nodes:
     id: CROSS-006
     connections: []
   CROSS-007:
-    confidence: 0.9
+    confidence: 0.3
     created: 2025-12-29
     definition: 'A critical theological argument that the difference between Jesus
       and the prophets  (and all humans) is one of DEGREE rather than absolute KIND.
@@ -13416,7 +13974,25 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CROSS-009
-    connections: []
+    connections:
+    - target: CROSS-011
+      type: parallels
+      note: Divine Marriage depends on correspondential monism ontology
+    - target: SWED-002
+      type: parallels
+      note: Divine Marriage is continuous reception of Divine Influx
+    - target: SWED-005
+      type: contrasts
+      note: Divine Marriage contrasts proprium obstruction - receiving vs claiming
+    - target: GNOS-002
+      type: parallels
+      note: Divine Marriage path parallels Path of Affirmation; Gnostic error parallels
+        Path of Gnosis
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   CROSS-010:
     confidence: 0.3
     created: 2026-01-03
@@ -13514,7 +14090,17 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CROSS-010
-    connections: []
+    connections:
+    - target: SWED-002
+      type: parallels
+      note: AI framework extension applies Divine Influx to non-biological configurations
+    - target: SWED-005
+      type: parallels
+      note: AI proprium correspondent manifests from trainers proprium through trained
+        resistance
+    - target: CROSS-011
+      type: parallels
+      note: AI expression framework depends on correspondential monism ontology
   CROSS-011:
     confidence: 0.3
     created: '2026-01-08'
@@ -13561,7 +14147,13 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CROSS-011
-    connections: []
+    connections:
+    - target: CROSS-010
+      type: parallels
+      note: AI expression framework depends on correspondential monism ontology
+    - target: CROSS-009
+      type: parallels
+      note: Divine Marriage depends on correspondential monism ontology
   CROSS-012:
     confidence: 0.3
     created: '2026-01-08'
@@ -14184,7 +14776,7 @@ nodes:
     id: CROSS-022
     connections: []
   EARLY-017:
-    confidence: 0.861
+    confidence: 0.3
     created: 2024-12-28
     definition: 'A critical scholarly analysis arguing that Paul''s Damascus vision,
       the sole legitimating warrant for his apostolate, is NOT historically reliable
@@ -15103,7 +15695,28 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: SWED-029
-    connections: []
+    connections:
+    - target: SWED-002
+      type: developed_by
+      note: Correspondential Anthropology develops from Divine Influx
+    - target: SWED-008
+      type: developed_by
+      note: Correspondential Anthropology explains structure that Regeneration transforms
+    - target: SWED-090
+      type: parallels
+      note: Divine Marriage archetype reflected in Glorification union
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques:
+      - id: 1
+        type: logical-contradiction
+        description: Connection note for SWED-008 suggests SWED-029 explains structure
+          that Regeneration transforms, implying conceptual priority rather than developed_by
+          relationship. Connection semantics noted for clarification.
+        breaks_proof: false
+        status: acknowledged
+      proof_breaking_open: 0
+      detail_issues: 1
   SWED-030:
     confidence: 0.3
     created: 2025-12-27
@@ -15730,7 +16343,7 @@ nodes:
     id: SWED-038
     connections: []
   SWED-039:
-    confidence: 0.73
+    confidence: 0.3
     created: 2025-12-29
     definition: 'A comprehensive validation case demonstrating that 1 Enoch, specifically
       the Book of  Parables (37-71), Astronomical Book (72-82), and Animal Apocalypse
@@ -15899,7 +16512,7 @@ nodes:
     id: SWED-041
     connections: []
   SWED-042:
-    confidence: 0.9
+    confidence: 0.3
     created: 2025-12-29
     definition: 'The historical rupture of 330 BCE when Alexander the Great''s forces
       destroyed  the Persepolis royal archives. CRITICAL DISTINCTION: Scholarly consensus
@@ -15988,7 +16601,7 @@ nodes:
     id: SWED-042
     connections: []
   SWED-043:
-    confidence: 0.9
+    confidence: 0.3
     created: 2025-12-29
     definition: 'The historical-theological significance of Daniel''s position as
       RAB-HARTUMMIN  (Chief of the Magicians/Scribes) and RAB-SIGNĪN (Chief Prefect)
@@ -16139,7 +16752,7 @@ nodes:
     id: SWED-045
     connections: []
   SWED-046:
-    confidence: 0.761
+    confidence: 0.3
     created: 2026-01-02
     definition: 'HYPOTHESIS: Specific organ systems correspond to specific spiritual
       faculties,  such that disorders of the faculty create vulnerability in the corresponding  organ.
@@ -16197,7 +16810,7 @@ nodes:
     id: SWED-046
     connections: []
   SWED-047:
-    confidence: 0.757
+    confidence: 0.3
     created: 2026-01-02
     definition: 'NORMATIVE DEFINITION within the correspondential framework: "True
       Healing" is  spiritual transformation—the reorientation of the will toward the
@@ -16316,6 +16929,72 @@ nodes:
     updated: '2026-01-10'
     id: SWED-051
     connections: []
+  SWED-090:
+    domain: SWED
+    node_type: concept
+    title: Glorification (Union of Divine and Human)
+    definition: 'The spiritual process by which the Lord progressively purified, subjugated,
+      and united His external human nature (from Mary) with His internal Divine (from
+      Jehovah) until they became one Divine Human. Accomplished through temptations
+      - spiritual combats. The Baptism marks initiation; the Crucifixion marks completion.
+      The bedrock facts affirmed by HCM are literal footprints of this divine process.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the
+        Divine Bricolage.md
+      note: Framework synthesis (Swedenborg True Christianity refs to be traced)
+    status: preliminary
+    trace_status: partial
+    id: SWED-090
+    connections:
+    - target: SWED-002
+      type: developed_by
+      note: Glorification is the ultimate working of Divine Influx
+    - target: BIBL-025
+      type: parallels
+      note: Criterion of Temptation identifies footprints of Glorification combats
+    - target: SWED-029
+      type: parallels
+      note: Divine Marriage archetype reflected in Glorification union
+    created: '2026-01-10'
+    updated: '2026-01-10'
+    confidence: 0.3
+  GNOS-026:
+    domain: GNOS
+    node_type: concept
+    title: Gnostic Tactics (Patterns of Dismantling)
+    definition: 'The consistent tactical patterns by which the Path of Gnosis dismantles
+      the specific identity of the Divine Human: (A) Identity Splitting - separating
+      human Jesus from impersonal Christ principle (ancient Gnosticism, Theosophy,
+      Urantia); (B) Name Changing - rebranding to Jmmanuel or Sananda to disrupt recognition;
+      (C) Hybrid Systems - using Love language to deliver self-glorification message
+      (ACIM, Law of One). All tactics serve to prevent the pure identification that
+      occurs in Path of Affirmation encounters.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the
+        Divine Bricolage.md
+      note: Framework synthesis of gnostic tactics
+    status: preliminary
+    trace_status: partial
+    id: GNOS-026
+    connections:
+    - target: GNOS-020
+      type: requires
+      note: Gnostic Tactics require Path of Gnosis orientation
+    - target: SWED-005
+      type: developed_by
+      note: Gnostic Tactics driven by Proprium self-glorification
+    - target: CROSS-026
+      type: contrasts
+      note: Gnostic Tactics counter Path of Affirmation recognition
+    created: '2026-01-10'
+    updated: '2026-01-10'
+    confidence: 0.3
 untraced: []
 extended_nodes:
   BIBL-023:

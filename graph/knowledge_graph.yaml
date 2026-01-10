@@ -2882,7 +2882,7 @@ nodes:
       type: parallels
       note: Divine Bricolage synthesizes Doctrine of Correspondences with human authorship
   SWED-002:
-    confidence: 0.3
+    confidence: 0.614
     created: 2024-12-27
     definition: 'The continuous flow of divine love and wisdom from the Lord into
       creation, operating through the spiritual world into the natural. Influx adapts
@@ -3619,7 +3619,7 @@ nodes:
         Divine Bricolage.md
       note: Primary definition (provenance)
     status: validated
-    confidence: 0.3
+    confidence: 0.595
     id: SWED-075
     connections:
     - target: SWED-002
@@ -4652,7 +4652,7 @@ nodes:
       type: developed_by
       note: Volunteer Soul hypothesis develops from Volunteer Soul concept
   CONSC-015:
-    confidence: 0.849
+    confidence: 0.7
     created: '2024-12-28'
     definition: 'A synthesis of Swedenborgian theology, paleoanthropology, and cognitive
       science proposing that the biblical "Fall" represents a multi-millennial cognitive
@@ -6894,24 +6894,25 @@ nodes:
   CONSC-098:
     domain: CONSC
     node_type: evidence
-    title: Neurotheology Research on Meditation and Vagus Nerve
-    definition: 'Research by Andrew Newberg and colleagues using SPECT imaging demonstrates
-      measurable neurological changes during meditation and mystical states. Key findings:
-      (1) Controlled, slow breathing stimulates the vagus nerve, triggering parasympathetic
-      activation; (2) Meditation induces ''functional deafferentation'' of the parietal
-      lobe - the brain region distinguishing self from world; (3) This produces measurable
-      ''self-transcendence'' states where ego boundaries dissolve. These findings
-      provide scientific correlates for Swedenborg''s concept of ''internal respiration''
-      as facilitating direct spiritual perception.'
+    title: Neurotheology SPECT Findings on Meditation
+    definition: 'A preliminary SPECT neuroimaging study of meditation reports regional
+      cerebral blood-flow changes during meditative practice, and is frequently discussed
+      in neurotheology in relation to altered self/world boundary perception. The
+      framework treats any mapping from these correlates to Swedenborg’s “internal
+      respiration” as hypothesis-level interpretation rather than a direct empirical
+      conclusion.
+
+      '
     status: validated
     source_chain:
+    - type: E
+      ref: 'Newberg, Andrew et al. "The measurement of regional cerebral blood flow
+        during the complex cognitive task of meditation: a preliminary SPECT study."
+        Psychiatry Research: Neuroimaging (2001). DOI: 10.1016/S0925-4927(01)00074-9.'
+      note: Primary neuroimaging study (SPECT)
     - type: S
-      ref: Newberg, Andrew et al. "The measurement of regional cerebral blood flow
-        during the complex cognitive task of meditation." Psychiatry Research, 2001.
-      note: Primary neuroimaging study
-    - type: S
-      ref: Newberg, Andrew & d'Aquili, Eugene. Why God Won't Go Away. Ballantine,
-        2001.
+      ref: 'Newberg, Andrew; d’Aquili, Eugene; Rause, Vince. Why God Won’t Go Away:
+        Brain Science and the Biology of Belief. Ballantine, 2001.'
       note: Neurotheology synthesis
     - type: T
       ref: data/01_Consciousness_Studies/Evolution of God Concepts and Consciousness.md
@@ -6919,81 +6920,104 @@ nodes:
     confidence_factors:
       source_type: external
       methodology: observational
-      sample_size: small_10-99
-      replication: independent_replicated
+      sample_size: minimal_<10
+      replication: single_study
       peer_review: peer_reviewed_journal
-      source_chain_quality: secondary
+      source_chain_quality: mixed
     created: '2026-01-09'
     updated: '2026-01-10'
-    confidence: 0.755
-    notes: 'Evidence:
+    confidence: 0.59
+    notes: 'Evidence: - Preliminary SPECT study reports regional cerebral blood-flow
+      changes during meditation - Commonly interpreted as correlates of altered self-boundary
+      perception in meditative states
 
-      - SPECT imaging shows decreased parietal lobe activity during meditation
-
-      - Vagus nerve stimulation via slow breathing activates parasympathetic system
-
-      - Parietal deafferentation correlates with reported ego dissolution
-
-      - Consistent findings across Buddhist, Christian, and secular meditators'
+      '
     id: CONSC-098
     connections:
     - target: CONSC-015
       type: supports
-      note: Neurotheology findings (vagus/parietal deafferentation during meditation)
-        support plausibility of an internal-respiration-based primordial cognition
-        component.
-    trace_status: untraced
+      note: Neuroimaging correlates reported during meditation are used as plausibility
+        support for altered self-boundary cognition within CONSC-015 (interpretive
+        mapping remains hypothesis-level).
+    trace_status: partial
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques:
+      - id: 1
+        type: source-gap
+        description: Earlier phrasing asserted specific vagus/parasympathetic and
+          parietal ‘deafferentation’ mechanisms beyond the cited SPECT study; definition
+          has been narrowed to the study’s scope and interpretive bridges treated
+          as hypothesis-level.
+        breaks_proof: true
+        status: resolved
+      - id: 2
+        type: definition-issue
+        description: Definition formatting artifact corrected.
+        breaks_proof: false
+        status: resolved
+      proof_breaking_open: 0
+      detail_issues: 0
   CONSC-099:
     domain: CONSC
     node_type: evidence
-    title: 'Paleoanthropological Evidence: Bipedalism and Voluntary Breath Control'
-    definition: 'Paleoanthropological evidence demonstrates that the evolution of
-      bipedalism in early hominins (beginning ~4-6 million years ago) required a fundamental
-      anatomical shift: the decoupling of breathing from locomotion. Unlike quadrupeds
-      whose breathing is forced by stride rhythm, bipedal hominins gained voluntary
-      control over respiratory cycles. This adaptation was a biological prerequisite
-      for both complex vocalization (speech) and voluntary breath control practices
-      (meditation), providing the physiological foundation for what Swedenborg called
-      ''internal respiration.'''
+    title: 'Paleoanthropological Evidence: Respiratory Control and Speech'
+    definition: 'Paleoanthropological and physiological scholarship argues that aspects
+      of hominin locomotion and speech evolution involved increased flexibility and
+      voluntary control of respiration relative to obligate quadruped coupling, supporting
+      the plausibility of voluntary breath modulation in the human lineage. The framework
+      treats any mapping from these biological shifts to Swedenborg’s “internal respiration”
+      as hypothesis-level interpretation rather than a direct empirical conclusion.
+
+      '
     status: validated
     source_chain:
     - type: S
-      ref: Bramble, D.M. & Lieberman, D.E. "Endurance running and the evolution of
-        Homo." Nature, 2004.
-      note: Bipedalism and breathing mechanics
+      ref: 'Bramble, Dennis M.; Lieberman, Daniel E. "Endurance running and the evolution
+        of Homo." Nature (2004). DOI: 10.1038/nature03052.'
+      note: Endurance running hypothesis and associated anatomical implications
     - type: S
-      ref: MacLarnon, A.M. & Hewitt, G.P. "The evolution of human speech." Journal
-        of Human Evolution, 1999.
-      note: Respiratory control evolution
+      ref: 'MacLarnon, Ann M.; Hewitt, Gwen P. "The evolution of human speech: The
+        role of enhanced breathing control." American Journal of Physical Anthropology
+        109(3):341-363 (1999). DOI: 10.1002/(SICI)1096-8644(199907)109:3<341::AID-AJPA5>3.0.CO;2-2.'
+      note: Speech evolution and respiratory control
     - type: T
       ref: data/01_Consciousness_Studies/Evolution of God Concepts and Consciousness.md
       note: Framework synthesis
     confidence_factors:
       source_type: external
-      methodology: observational
+      methodology: theoretical
       sample_size: na
       replication: independent_replicated
       peer_review: peer_reviewed_journal
-      source_chain_quality: secondary
+      source_chain_quality: mixed
     created: '2026-01-09'
     updated: '2026-01-10'
-    confidence: 0.819
-    notes: 'Evidence:
+    confidence: 0.7
+    notes: 'Evidence: - Scholarship links aspects of hominin locomotion/speech evolution
+      with increased respiratory control - Used here only as a plausibility substrate
+      for voluntary breath modulation (not a direct proof of meditative practice)
 
-      - Bipedalism decouples breathing from locomotion unlike quadrupeds
-
-      - Voluntary breath control emerges 4-6 million years ago
-
-      - Prerequisite for both speech and meditative practices
-
-      - Distinct from obligate quadruped respiratory patterns'
+      '
     id: CONSC-099
     connections:
     - target: CONSC-015
       type: supports
       note: Evolutionary respiratory control in bipedal hominins supports the feasibility
         of voluntary breath control as a substrate for internal-respiration practices.
-    trace_status: untraced
+    trace_status: partial
+    critic_notes:
+      last_reviewed: '2026-01-10'
+      critiques:
+      - id: 1
+        type: source-gap
+        description: Earlier phrasing asserted a specific 4–6 mya timeframe and framed
+          meditation as a direct biological prerequisite; definition has been narrowed
+          to the cited scholarship’s scope and interpretive bridges treated as hypothesis-level.
+        breaks_proof: true
+        status: resolved
+      proof_breaking_open: 0
+      detail_issues: 0
   CONSC-100:
     domain: CONSC
     node_type: evidence
@@ -10005,7 +10029,7 @@ nodes:
       proof_breaking_open: 0
       detail_issues: 0
   SWED-016:
-    confidence: 0.722
+    confidence: 0.595
     created: 2024-12-27
     definition: 'The proposition that human cognitive evolution from ''internal respiration''
       to articulate speech represents not an ascent into clarity but a ''Fall'' into

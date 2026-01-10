@@ -255,6 +255,10 @@ The knowledge graph encodes knowledge FROM source documents. It is NOT an indepe
 4. **DO** read the source document(s) referenced in the node's `source_chain`
 5. **DO** understand what the document actually claims before modifying
 
+**Provenance scope:**
+- Evidence nodes carry full source chains to primary/secondary/empirical sources.
+- Non-evidence nodes only need a single `[T]` entry pointing to the internal framework document that minted the node (provenance, not proof).
+
 **The Core Mistake to Avoid:**
 When a validator shows "broken chain" or "missing connection," the fix is NOT to mechanically wire nodes together. The fix is to:
 1. Read the source document that created the node
@@ -490,40 +494,40 @@ The main assistant (GitHub Copilot / Claude) is responsible for:
           │
           ▼
 ┌─────────────────────┐
-│  3. SOURCE          │  Verify source chains, trace to primary sources
+│  3. SOURCE          │  (EVIDENCE ONLY) Verify source chains to primary sources
 │     TRACER          │  → Output: Corrections/additions for source_chain
 │     (@agent)        │
 └─────────┬───────────┘
           │
           ▼
 ┌─────────────────────┐
-│  4. IMPLEMENT       │  Apply source chain updates to nodes
+│  4. IMPLEMENT       │  Apply source chain updates to nodes (evidence)
 │  (Main Assistant)   │  → Output: Updated source_chain entries
 └─────────┬───────────┘
           │
           ▼
 ┌─────────────────────┐
-│  5. CONFIDENCE      │  For EVIDENCE nodes only: explore source chain,
-│     EXTRACTOR       │  determine empirical quality factors
+│  5. CONFIDENCE      │  (EVIDENCE ONLY) Explore source chain, determine
+│     EXTRACTOR       │  empirical quality factors
 │     (@agent)        │  → Output: Recommended confidence_factors
 └─────────┬───────────┘
           │
           ▼
 ┌─────────────────────┐
-│  6. IMPLEMENT       │  Apply confidence_factors to nodes in YAML
+│  6. IMPLEMENT       │  Apply confidence_factors to evidence nodes
 │  (Main Assistant)   │  → Run: persist-scores
 └─────────┬───────────┘
           │
           ▼
 ┌─────────────────────┐
-│  7. CRITIC          │  Identify internal inconsistencies, missing connections,
-│     (@agent)        │  logical contradictions (WITHIN framework only)
+│  7. CRITIC          │  (EVIDENCE ONLY) Identify internal inconsistencies,
+│     (@agent)        │  missing connections, logical contradictions
 │                     │  → Output: Valid critiques with breaks_proof flag
 └─────────┬───────────┘
           │
           ▼
 ┌─────────────────────┐
-│  8. IMPLEMENT       │  Address valid critiques, add critic_notes to nodes
+│  8. IMPLEMENT       │  Address valid critiques, add critic_notes to evidence
 │  (Main Assistant)   │  → Output: Refined nodes with documented critiques
 └─────────┬───────────┘
           │

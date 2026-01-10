@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-10 13:43*
+*Last exported: 2026-01-10 16:18*
 
 ---
 
@@ -10,20 +10,20 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 340 |
-| Total Connections | 155 |
+| Total Nodes | 342 |
+| Total Connections | 173 |
 | Untraced Claims | 0 |
 
 ### By Status
 
-- **preliminary**: 56
+- **preliminary**: 58
 - **validated**: 277
 - **contested**: 7
 
 ### By Domain
 
 - **Biblical Scholarship** (BIBL): 33
-- **Consciousness Studies** (CONSC): 93
+- **Consciousness Studies** (CONSC): 95
 - **Cross-Domain** (CROSS): 39
 - **Early Christian History** (EARLY): 30
 - **The Gnostic Impulse** (GNOS): 26
@@ -72,6 +72,9 @@
 7. [E] Tucker. 'A Scale to Measure Strength of Children's Claims' (2000)
 8. [S] Sudduth. 'The James Leininger Case Re-Examined' (JSE 2022)
 9. [E] Tucker. 'Response to Sudduth' (JSE 2022)
+
+**Connections**:
+- → `CONSC-020` (supports): DOPS database audit (verification rates, unsolved similarity, methodological critiques) supports the empirical substrate used by the hypothesis
 
 ---
 
@@ -284,7 +287,7 @@
 
 #### [CONSC-020] Restorative Incarnation (70% Violent Death Pattern)
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.853
 
 > A proposed explanation for the strongest past-life memory data (UVA/DOPS cases):  children with verified past-life memories show over 70% prevalence of violent or  premature death in the remembered life. This is NOT karmic punishment but Divine  mercy—a "second chance" for souls whose character formation was traumatically  interrupted. The soul returns to complete its intended "seed-state" development  before proceeding on the normative linear path. Exceptional, not normative; restorative,  not punitive.
 
@@ -294,6 +297,10 @@
 
 **Connections**:
 - → `CONSC-094` (developed_by): Hypothesis of 70% violent death pattern develops from Restorative Incarnation concept
+- → `CONSC-101` (supported_by): DOPS pattern summary supports Restorative Incarnation (70% violent-death pattern) hypothesis
+- → `CONSC-041` (supported_by): Birthmark/wound correspondences strengthen empirical basis for trauma-linked recall pattern
+- → `CONSC-040` (supported_by): Type A/B equivalence strengthens confidence in DOPS-derived pattern claims
+- → `CONSC-002` (supported_by): DOPS database audit (verification rates, unsolved similarity, methodological critiques) supports the empirical substrate used by the hypothesis
 
 ---
 
@@ -312,6 +319,9 @@
 5. [S] van Lommel, P. (2010). Consciousness Beyond Life.
 6. [P] Swedenborg, E. (1758). Heaven and Hell.
 
+**Connections**:
+- → `CONSC-107` (supports): Evidence: identification labels vary with background; properties stable
+
 ---
 
 #### [CONSC-022] Being of Light: Judgment and Transformation Statistics
@@ -327,6 +337,9 @@
 3. [T] data/01_Consciousness_Studies/Being of Light - Statistical Analysis of NDE Phenomenology.md
 4. [P] Swedenborg, E. (1758). Heaven and Hell, §462-499.
 
+**Connections**:
+- → `CONSC-108` (supports): Evidence: life review judgments overwhelmingly loving; aftereffects
+
 ---
 
 #### [CONSC-023] Being of Light: Singularity and Authority Statistics
@@ -341,6 +354,10 @@
 2. [E] NDERF dataset (n=5,660) + IANDS dataset (n=1,093)
 3. [T] data/01_Consciousness_Studies/Being of Light - Statistical Analysis of NDE Phenomenology.md
 4. [S] Greyson, B. (2021). After: A Doctor Explores What Near-Death Experiences Reveal.
+
+**Connections**:
+- → `CONSC-107` (supports): Evidence: singular transcendent entity across polytheist backgrounds
+- → `CONSC-108` (supports): Evidence: authority/guidance/teaching patterns align with benevolent corrective encounter
 
 ---
 
@@ -1064,14 +1081,16 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `SWED-003` (developed_by): Expect Judgment, Find Love develops from World of Spirits framework
 - → `CONSC-087` (parallels): Both address Being of Light transcending cultural expectation
+- → `CONSC-108` (develops): Concept: anticipated judgment met with love; evidence refines into testable hypothesis
 
 ---
 
-#### [CONSC-087] Conceptual Framework Theory
+#### [CONSC-087] Objective NDE Core Elements Transcend Cultural Labels
 
 **Status**: preliminary | **Confidence**: 0.3
 
-> Hypothesis that NDE core elements (Being of Light) are objective realities transcending cultural labels (evidenced by 'Unknown Presence' data).
+> Concept that core NDE encounter elements (e.g., Being of Light) correspond to an objective reality that transcends culturally specific identification labels; cultural background shapes naming/vocabulary more than underlying encounter properties.
+
 
 **Source Chain**:
 1. [T] data/00_Framework/The Threefold Path of the Soul_ An Exhaustive Empirical and Cosmological Analysis of Post-Mortem Consciousness and Incarnational Dynamics.md
@@ -1079,6 +1098,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `SWED-003` (developed_by): Conceptual Framework Theory develops from World of Spirits
 - → `CONSC-086` (parallels): Both address Being of Light transcending cultural expectation
+- → `CONSC-107` (develops): Concept: objective core encounter rendered through cultural labels
 
 ---
 
@@ -1263,15 +1283,19 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-101] DOPS Statistical Pattern Analysis (70%+ Violent Death)
 
-**Status**: validated | **Confidence**: 0.9
+**Status**: validated | **Confidence**: 0.818
 
-> University of Virginia Division of Perceptual Studies (DOPS) has documented consistent statistical patterns across 2,700+ past-life memory cases: (1) 70%+ involve violent or premature death - significantly above base rate (~5% sudden death in general population); (2) 88% of cases with checkable birthmarks show correspondence to documented wounds on claimed previous person; (3) Behavioral carryover: phobias matching cause of death (water phobia in drowning cases); (4) Memory fade typically by age 7-8, suggesting developmental integration; (5) Cases cluster in cultures with reincarnation beliefs BUT verified details are cross-culturally consistent. Pattern supports Restorative Incarnation hypothesis - traumatic interruption triggers return, not universal karmic cycle.
+> University of Virginia Division of Perceptual Studies (DOPS) has documented consistent statistical patterns across 2,700+ past-life memory cases: (1) 70%+ involve violent or premature death; (2) 88% of cases with independently documented birthmarks show correspondence to documented wounds on the claimed previous person; (3) Behavioral carryover: phobias matching cause of death (water phobia in drowning cases); (4) Memory fade typically by age 7-8, suggesting developmental integration; (5) Cases cluster in cultures with reincarnation beliefs, but verified details are reported as cross-culturally consistent.
+
 
 **Source Chain**:
 1. [E] Tucker, Jim. Return to Life: Extraordinary Cases of Children Who Remember Past Lives. St. Martin's, 2013.
 2. [E] Stevenson, Ian. Birthmarks and Birth Defects Corresponding to Wounds on Deceased Persons. Journal of Scientific Exploration 7.4 (1993).
 3. [E] Stevenson, Ian. Twenty Cases Suggestive of Reincarnation. UVP, 1966.
 4. [S] DOPS research methodology documentation. UVA Division of Perceptual Studies.
+
+**Connections**:
+- → `CONSC-020` (supports): DOPS pattern summary supports Restorative Incarnation (70% violent-death pattern) hypothesis
 
 ---
 
@@ -1340,6 +1364,40 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `SWED-003` (developed_by): Afterlife Path Structure develops from World of Spirits post-mortem journey
 - → `CONSC-030` (integrates_into): Threefold Path synthesis integrates Afterlife Path Structure concept
+
+---
+
+#### [CONSC-107] Cultural Filter Hypothesis (Being of Light Identification)
+
+**Status**: preliminary | **Confidence**: 0.823
+
+> Hypothesis that cultural/religious background influences the identification label applied to the Being of Light, while the experiential properties and functional outcomes remain broadly stable, implying an objective encounter perceived through cultural filters.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Being of Light - Statistical Analysis of NDE Phenomenology.md
+
+**Connections**:
+- → `CONSC-021` (supported_by): Evidence: identification labels vary with background; properties stable
+- → `CONSC-023` (supported_by): Evidence: singular transcendent entity across polytheist backgrounds
+- → `CONSC-087` (developed_by): Concept: objective core encounter rendered through cultural labels
+
+---
+
+#### [CONSC-108] Corrective Love Hypothesis (Life Review Judgment)
+
+**Status**: preliminary | **Confidence**: 0.823
+
+> Hypothesis that anticipated punitive judgment in the Life Review is systematically corrected toward benevolence (low condemnation, high love/acceptance), producing reliable aftereffects (e.g., increased spirituality, reduced fear of death), consistent with an encounter that informs rather than merely mirrors expectation.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Being of Light - Statistical Analysis of NDE Phenomenology.md
+
+**Connections**:
+- → `CONSC-022` (supported_by): Evidence: life review judgments overwhelmingly loving; aftereffects
+- → `CONSC-023` (supported_by): Evidence: authority/guidance/teaching patterns align with benevolent corrective encounter
+- → `CONSC-086` (developed_by): Concept: anticipated judgment met with love; evidence refines into testable hypothesis
 
 ---
 

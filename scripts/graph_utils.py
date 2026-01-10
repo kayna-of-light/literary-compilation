@@ -2095,9 +2095,13 @@ def add_node(graph: dict, payload: dict, section: str = 'nodes', node_id: str = 
     return apply_graph_update(new_graph, focus_nodes=[assigned_id]) | {'node_id': assigned_id}
 
 
-def update_node(graph: dict, node_id: str, payload: dict) -> dict:
-    """Update an existing node with partial payload and revalidate."""
-    for section_name in ['nodes', 'extended_nodes']:
+def update_node(graph: dict, node_id: str, payload: dict, section: str | None = None) -> dict:
+    """Update an existing node with partial payload and revalidate.
+
+    If section is provided, only that section is searched/updated.
+    """
+    section_order = [section] if section else ['nodes', 'extended_nodes']
+    for section_name in section_order:
         if node_id in graph.get(section_name, {}):
             new_graph = deepcopy(graph)
             node_ref = new_graph[section_name][node_id]
@@ -2115,10 +2119,14 @@ def update_node(graph: dict, node_id: str, payload: dict) -> dict:
     return {'success': False, 'errors': [f"Node not found: {node_id}"]}
 
 
-def delete_node(graph: dict, node_id: str, prune: bool = True) -> dict:
-    """Delete a node and optionally prune all references."""
+def delete_node(graph: dict, node_id: str, prune: bool = True, section: str | None = None) -> dict:
+    """Delete a node and optionally prune all references.
+
+    If section is provided, only that section is searched/deleted.
+    """
+    section_order = [section] if section else ['nodes', 'extended_nodes']
     found_section = None
-    for section_name in ['nodes', 'extended_nodes']:
+    for section_name in section_order:
         if node_id in graph.get(section_name, {}):
             found_section = section_name
             break
@@ -2137,12 +2145,16 @@ def delete_node(graph: dict, node_id: str, prune: bool = True) -> dict:
     return apply_graph_update(new_graph, focus_nodes=[node_id]) | {'node_id': node_id}
 
 
-def get_node(graph: dict, node_id: str) -> dict:
-    """Fetch a node from nodes/extended_nodes."""
-    for section_name in ['nodes', 'extended_nodes']:
-        section = graph.get(section_name, {})
-        if node_id in section:
-            return {'success': True, 'node': section[node_id], 'section': section_name}
+def get_node(graph: dict, node_id: str, section: str | None = None) -> dict:
+    """Fetch a node from nodes/extended_nodes.
+
+    If section is provided, only that section is searched.
+    """
+    section_order = [section] if section else ['nodes', 'extended_nodes']
+    for section_name in section_order:
+        section_map = graph.get(section_name, {})
+        if node_id in section_map:
+            return {'success': True, 'node': section_map[node_id], 'section': section_name}
     return {'success': False, 'errors': [f"Node not found: {node_id}"]}
 
 
@@ -2169,7 +2181,12 @@ def main():
     parser.add_argument('--note', help="Optional note for connection (for add-connection)")
     parser.add_argument('--input', help="Path to YAML/JSON payload (for add-node, update-node)")
     parser.add_argument('--inline', help="Inline YAML/JSON payload for add-node/update-node. Use --inline @- to read from stdin.")
-    parser.add_argument('--section', default='nodes', choices=['nodes', 'extended_nodes'], help="Graph section to target for add-node")
+    parser.add_argument(
+        '--section',
+        default=None,
+        choices=['nodes', 'extended_nodes'],
+        help="Graph section to target (add-node defaults to nodes; for get/update/delete, omit to auto-detect)",
+    )
     parser.add_argument('--prune', action='store_true', help="Prune connections that reference a deleted node (delete-node)")
     parser.add_argument('--id', help="Optional node ID override when creating a node")
     parser.add_argument('node_id', nargs='?', help="Node ID for score command")
@@ -2747,7 +2764,7 @@ def main():
             output(f"ERROR: Failed to load payload: {e}")
             sys.exit(1)
 
-        result = add_node(graph, payload, section=args.section, node_id=args.id)
+        result = add_node(graph, payload, section=(args.section or 'nodes'), node_id=args.id)
         if not result.get('success'):
             for err in result.get('errors', []):
                 output(f"[ERROR] {err}")
@@ -2770,7 +2787,7 @@ def main():
             output(f"ERROR: Failed to load payload: {e}")
             sys.exit(1)
 
-        result = update_node(graph, args.node_id, payload)
+        result = update_node(graph, args.node_id, payload, section=args.section)
         if not result.get('success'):
             for err in result.get('errors', []):
                 output(f"[ERROR] {err}")
@@ -2787,7 +2804,7 @@ def main():
         if not args.node_id:
             output("ERROR: delete-node requires NODE_ID")
             sys.exit(1)
-        result = delete_node(graph, args.node_id, prune=args.prune)
+        result = delete_node(graph, args.node_id, prune=args.prune, section=args.section)
         if not result.get('success'):
             for err in result.get('errors', []):
                 output(f"[ERROR] {err}")
@@ -2801,7 +2818,7 @@ def main():
         if not args.node_id:
             output("ERROR: get-node requires NODE_ID")
             sys.exit(1)
-        result = get_node(graph, args.node_id)
+        result = get_node(graph, args.node_id, section=args.section)
         if not result.get('success'):
             for err in result.get('errors', []):
                 output(f"[ERROR] {err}")

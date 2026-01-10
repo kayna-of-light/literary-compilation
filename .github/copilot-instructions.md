@@ -296,8 +296,11 @@ python scripts/graph_utils.py delete-node NODE_ID [--prune]
 python scripts/graph_utils.py get-node NODE_ID [--json]
 
 # Inline payload shortcut (add/update):
-#   python scripts/graph_utils.py add-node --inline "{domain: CONSC, node_type: concept, status: preliminary, title: Example, definition: ... , source_chain:[{type:T, ref:data/..., note:...}]}" --section nodes
+#   python scripts/graph_utils.py add-node --inline "{domain: CONSC, ...}" --section nodes
 # Or from stdin: cat payload.yaml | python scripts/graph_utils.py add-node --inline @- --section nodes
+
+# ⚠️ NON-ASCII CHARACTERS (Greek, Hebrew, etc.): PowerShell rejects Unicode in --inline.
+# Use a temp file instead: create temp/payload.yaml, then: --input temp/payload.yaml
 
 # Connection management (auto-validates type rules, auto-adds inverse):
 python scripts/graph_utils.py add-connection -s SOURCE -T TARGET -c TYPE [--note "note"] [--dry-run]

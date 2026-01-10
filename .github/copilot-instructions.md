@@ -295,6 +295,10 @@ python scripts/graph_utils.py update-node NODE_ID --input payload.yaml
 python scripts/graph_utils.py delete-node NODE_ID [--prune]
 python scripts/graph_utils.py get-node NODE_ID [--json]
 
+# Inline payload shortcut (add/update):
+#   python scripts/graph_utils.py add-node --inline "{domain: CONSC, node_type: concept, status: preliminary, title: Example, definition: ... , source_chain:[{type:T, ref:data/..., note:...}]}" --section nodes
+# Or from stdin: cat payload.yaml | python scripts/graph_utils.py add-node --inline @- --section nodes
+
 # Connection management (auto-validates type rules, auto-adds inverse):
 python scripts/graph_utils.py add-connection -s SOURCE -T TARGET -c TYPE [--note "note"] [--dry-run]
 python scripts/graph_utils.py fix-inverses [--dry-run]  # Add all missing inverse connections

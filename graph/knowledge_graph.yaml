@@ -32,6 +32,8 @@ metadata:
   relationship_types:
     supports: Evidence epistemically supports a hypothesis one level up
     contradicts: Evidence refutes or challenges a hypothesis one level up
+    supported_by: Hypothesis acknowledges supporting evidence (inverse of supports)
+    contradicted_by: Hypothesis acknowledges refuting evidence (inverse of contradicts)
     develops: Down-chain development (foundational → concept → hypothesis)
     developed_by: Up-chain inverse of develops
     integrates_into: Concept integrates into a synthesis
@@ -141,6 +143,9 @@ nodes:
         ref: docs/TEST_GRAPH.md
         note: Provenance placeholder for concept node
     connections:
+      - target: FND-TEST-001
+        type: developed_by
+        note: Concept is developed by the foundational anchor
       - target: HYP-TEST-001
         type: develops
         note: Concept develops a test hypothesis
@@ -160,7 +165,19 @@ nodes:
       - type: T
         ref: docs/TEST_GRAPH.md
         note: Provenance placeholder for hypothesis node
-    connections: []
+    connections:
+      - target: CONC-TEST-001
+        type: developed_by
+        note: Hypothesis is developed by the first concept
+      - target: CONC-TEST-002
+        type: developed_by
+        note: Hypothesis is developed by the second concept
+      - target: EVID-TEST-001
+        type: supported_by
+        note: Hypothesis is supported by the first evidence case
+      - target: EVID-TEST-002
+        type: supported_by
+        note: Hypothesis is supported by the second evidence case
     created: '2026-02-10'
     updated: '2026-02-10'
     trace_status: complete
@@ -201,12 +218,16 @@ nodes:
       - type: T
         ref: docs/TEST_GRAPH.md
         note: Provenance placeholder for synthesis node
-    connections: []
+    connections:
+      - target: CONC-TEST-001
+        type: integrated_from
+        note: Synthesis receives integration from the first test concept
+      - target: CONC-TEST-002
+        type: integrated_from
+        note: Synthesis receives integration from the second test concept
     created: '2026-02-10'
     updated: '2026-02-10'
     trace_status: complete
-untraced: []
-
   CONC-TEST-002:
     title: Test Concept Bridge Two
     domain: CROSS
@@ -218,6 +239,9 @@ untraced: []
         ref: docs/TEST_GRAPH.md
         note: Provenance placeholder for second concept node
     connections:
+      - target: FND-TEST-001
+        type: developed_by
+        note: Second concept is developed by the foundational anchor
       - target: HYP-TEST-001
         type: develops
         note: Second concept develops the shared test hypothesis
@@ -255,3 +279,4 @@ untraced: []
     created: '2026-02-10'
     updated: '2026-02-10'
     trace_status: complete
+untraced: []

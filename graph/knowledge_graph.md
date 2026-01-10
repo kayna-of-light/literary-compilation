@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-10 16:35*
+*Last exported: 2026-01-10 16:50*
 
 ---
 
@@ -10,14 +10,14 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 340 |
-| Total Connections | 187 |
+| Total Nodes | 339 |
+| Total Connections | 199 |
 | Untraced Claims | 0 |
 
 ### By Status
 
 - **preliminary**: 58
-- **validated**: 275
+- **validated**: 274
 - **contested**: 7
 
 ### By Domain
@@ -28,7 +28,7 @@
 - **Early Christian History** (EARLY): 30
 - **The Gnostic Impulse** (GNOS): 26
 - **Mythological Studies** (MYTH): 36
-- **Swedenborgian Theology** (SWED): 83
+- **Swedenborgian Theology** (SWED): 82
 
 ---
 
@@ -187,13 +187,19 @@
 
 #### [CONSC-015] The Cognitive Fall Hypothesis (From Internal Perception to External Concept)
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.849
 
 > A synthesis of Swedenborgian theology, paleoanthropology, and cognitive science proposing that the biblical "Fall" represents a multi-millennial cognitive transition from internal, intuitive perception to external, conceptual understanding. The primordial state ("Golden Age") featured: (1) Internal respiration linked to vagus nerve stimulation enabling direct spiritual perception; (2) "Lip-speech" (facial mimetic communication) providing immediate empathic connection; (3) "Representative Language" (perceiving spiritual meaning in natural objects). The Fall into articulate speech and writing displaced understanding to an "outer layer barely capable of understanding"— creating a gap between signifier and signified where the "lie" becomes possible. This cognitive architecture explains why concepts are inherently "false" (limited, displaced from living reality).
 
 
 **Source Chain**:
 1. [T] data/01_Consciousness_Studies/Evolution of God Concepts and Consciousness.md
+
+**Connections**:
+- → `SWED-075` (developed_by): Internal respiration (primordial internal perception) is one pillar of the Cognitive Fall hypothesis.
+- → `SWED-016` (developed_by): The Fall-into-language framing provides the concept-level container for the Cognitive Fall hypothesis.
+- → `CONSC-098` (supported_by): Neurotheology findings (vagus/parietal deafferentation during meditation) support plausibility of an internal-respiration-based primordial cognition component.
+- → `CONSC-099` (supported_by): Evolutionary respiratory control in bipedal hominins supports the feasibility of voluntary breath control as a substrate for internal-respiration practices.
 
 ---
 
@@ -1238,6 +1244,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [S] Newberg, Andrew & d'Aquili, Eugene. Why God Won't Go Away. Ballantine, 2001.
 3. [T] data/01_Consciousness_Studies/Evolution of God Concepts and Consciousness.md
 
+**Connections**:
+- → `CONSC-015` (supports): Neurotheology findings (vagus/parietal deafferentation during meditation) support plausibility of an internal-respiration-based primordial cognition component.
+
 ---
 
 #### [CONSC-099] Paleoanthropological Evidence: Bipedalism and Voluntary Breath Control
@@ -1250,6 +1259,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 1. [S] Bramble, D.M. & Lieberman, D.E. "Endurance running and the evolution of Homo." Nature, 2004.
 2. [S] MacLarnon, A.M. & Hewitt, G.P. "The evolution of human speech." Journal of Human Evolution, 1999.
 3. [T] data/01_Consciousness_Studies/Evolution of God Concepts and Consciousness.md
+
+**Connections**:
+- → `CONSC-015` (supports): Evolutionary respiratory control in bipedal hominins supports the feasibility of voluntary breath control as a substrate for internal-respiration practices.
 
 ---
 
@@ -1453,6 +1465,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `EARLY-023` (develops): Vernacular Truth reflects unmediated influx principle
 - → `SWED-072` (develops): Rational Theology articulates Divine Influx for modern mind
 - → `SWED-006` (develops): Most Ancient Church is archetype of perfect Divine Influx reception
+- → `SWED-075` (develops): Divine Influx underlies the primordial internal-perception mode described as internal respiration.
+- → `SWED-016` (develops): Divine Influx adapts communication as cognition externalizes; this frames the Fall-into-language concept.
 
 ---
 
@@ -1562,18 +1576,6 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 ---
 
-#### [SWED-010] Internal Respiration and Primordial Cognition
-
-**Status**: validated | **Confidence**: 0.3
-
-> The physiological mechanism of the Most Ancient Church's spiritual perception: "internal respiration" where breathing was synchronized with internal thought. Vagus nerve stimulation, parasympathetic activation, and parietal deafferentation created a state of self-transcendence where boundary between self and Divine was porous.
-
-
-**Source Chain**:
-1. [T] data/01_Consciousness_Studies/Evolution of God Concepts and Consciousness.md
-
----
-
 #### [SWED-011] The Divine Human (Maximus Homo)
 
 **Status**: validated | **Confidence**: 0.3
@@ -1636,13 +1638,17 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-016] The Fall into Language
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.722
 
 > The proposition that human cognitive evolution from 'internal respiration' to articulate speech represents not an ascent into clarity but a 'Fall' into externalized cognition. In the primordial state, understanding came through 'lip-speech' (facial mimetic communication) and direct intuitive perception of correspondences. The development of writing externalized memory and created the gap between signifier and signified—the 'outer layer barely capable of understanding.'
 
 
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/The Resurrection of True Life...
+
+**Connections**:
+- → `SWED-002` (developed_by): Divine Influx adapts communication as cognition externalizes; this frames the Fall-into-language concept.
+- → `CONSC-015` (develops): The Fall-into-language framing provides the concept-level container for the Cognitive Fall hypothesis.
 
 ---
 
@@ -2322,10 +2328,15 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Status**: validated | **Confidence**: 0.3
 
-> Primordial cognitive state of 'silent, profound thought' and direct influx, linked to paleoanthropological 'decoupling of breathing'.
+> Primordial cognitive state described by Swedenborg as "silent, profound thought" and direct spiritual perception linked to breathing ("internal respiration"). In the framework synthesis, this is correlated with voluntary breath control enabled by bipedal locomotion (decoupling breathing from stride) and with neurotheology findings that slow, controlled breathing stimulates the vagus nerve, shifts autonomic balance toward parasympathetic activation, and can produce self-transcendence states (e.g., reduced self/world boundary salience).
+
 
 **Source Chain**:
 1. [T] data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md
+
+**Connections**:
+- → `SWED-002` (developed_by): Divine Influx underlies the primordial internal-perception mode described as internal respiration.
+- → `CONSC-015` (develops): Internal respiration (primordial internal perception) is one pillar of the Cognitive Fall hypothesis.
 
 ---
 
@@ -4343,7 +4354,7 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 
 #### [CROSS-011] Correspondence Ontology - Physical as Direct Expression of Spiritual
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.65
 
 > All physical substance is a direct expression of spiritual substance. There is no separation. The soul clothes itself with spiritual substances (loves, truths, falsities, influences) which simultaneously express as physical substances (body, health, traits, environment). Not cause → effect. One reality perceived at different levels. This eliminates both materialism (only physical is real) and dualism (two separate substances that interact). The framework position is correspondential monism: physical IS spiritual expressed in ultimates.
 

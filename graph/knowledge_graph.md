@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 10:27*
+*Last exported: 2026-01-11 10:37*
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 368 |
-| Total Connections | 470 |
+| Total Nodes | 370 |
+| Total Connections | 484 |
 | Untraced Claims | 0 |
 
 ### By Status
 
-- **preliminary**: 82
+- **preliminary**: 84
 - **validated**: 279
 - **contested**: 7
 
@@ -25,7 +25,7 @@
 - **Biblical Scholarship** (BIBL): 42
 - **Consciousness Studies** (CONSC): 106
 - **Cross-Domain** (CROSS): 39
-- **Early Christian History** (EARLY): 30
+- **Early Christian History** (EARLY): 32
 - **The Gnostic Impulse** (GNOS): 26
 - **Mythological Studies** (MYTH): 37
 - **Swedenborgian Theology** (SWED): 88
@@ -3887,6 +3887,11 @@ events exist in causal networks.
 **Source Chain**:
 1. [T] data/04_Early_Christian_History/Melchizedek's Origins_ Biblical to Gnostic.md
 
+**Connections**:
+- → `EARLY-033` (developed_by): This hypothesis synthesizes the divergent tradition-strata under the broader Melchizedek legitimacy concept.
+- → `EARLY-024` (supported_by): 11Q13 demonstrates the sectarian/eskatological elevation of Melchizedek described in this hypothesis.
+- → `EARLY-025` (supported_by): Philological evidence for Zedek as a deity supports the historical-critical stratum in this hypothesis.
+
 ---
 
 #### [EARLY-015] The Bauer Thesis: Orthodoxy as Imperial Construct
@@ -3898,6 +3903,11 @@ events exist in causal networks.
 
 **Source Chain**:
 1. [T] data/04_Early_Christian_History/Early Christianity_ Orthodoxy vs. Heresy.md
+
+**Connections**:
+- → `EARLY-032` (develops): This hypothesis operationalizes the Bauer-thesis concept by specifying displacement mechanisms.
+- → `GNOS-001` (parallels): Both examine early gnostic/Marcionite forms and the gnosis-vs-obedience tension; EARLY-015 adds the institutional displacement frame.
+- → `EARLY-022` (parallels): Frames orthodoxy formation as an institutional/imperial consolidation process that anticipates the later Constantinian church-state fusion.
 
 ---
 
@@ -3939,6 +3949,9 @@ popularized and extended this thesis with additional evidence.
 1. [S] Bauer, Walter. Orthodoxy and Heresy in Earliest Christianity. 1934/1971.
 2. [S] Ehrman, Bart. Lost Christianities. 2003.
 3. [P] Chronicle of Edessa; Doctrine of Addai
+
+**Connections**:
+- → `EARLY-032` (supports): Bauer/Ehrman thesis evidence supports the displacement hypothesis.
 
 ---
 
@@ -3995,6 +4008,7 @@ popularized and extended this thesis with additional evidence.
 **Connections**:
 - → `SWED-005` (developed_by): Constantinian Shift is institutional manifestation of Proprium
 - → `CROSS-028` (contrasts): Constantinian Shift triggers Silent Movements as counter-response
+- → `EARLY-015` (parallels): Frames orthodoxy formation as an institutional/imperial consolidation process that anticipates the later Constantinian church-state fusion.
 
 ---
 
@@ -4024,6 +4038,9 @@ popularized and extended this thesis with additional evidence.
 2. [S] Kobelski, Paul J. Melchizedek and Melchiresa. CBQMS 10. Washington, 1981.
 3. [T] data/04_Early_Christian_History/Melchizedek's Origins_ Biblical to Gnostic.md
 
+**Connections**:
+- → `EARLY-014` (supports): 11Q13 demonstrates the sectarian/eskatological elevation of Melchizedek described in this hypothesis.
+
 ---
 
 #### [EARLY-025] Theophoric Zedek Element: West Semitic Deity Evidence
@@ -4037,6 +4054,9 @@ popularized and extended this thesis with additional evidence.
 2. [P] Joshua 10:1 (MT)
 3. [P] Sefire Treaty Inscriptions (8th c. BCE)
 4. [S] Day, John. Yahweh and the Gods and Goddesses of Canaan. Sheffield, 2000.
+
+**Connections**:
+- → `EARLY-014` (supports): Philological evidence for Zedek as a deity supports the historical-critical stratum in this hypothesis.
 
 ---
 
@@ -4124,6 +4144,37 @@ popularized and extended this thesis with additional evidence.
 
 ---
 
+#### [EARLY-032] Roman Displacement of Early Heterodoxies
+
+**Status**: preliminary | **Confidence**: unknown
+
+> The hypothesis that the Roman-aligned "Great Church" displaced locally dominant early Christian heterodoxies (e.g., Marcionite, Basilidian/Valentinian, Bardaisanite, Montanist) in regions such as Egypt, Edessa, and Asia Minor via institutional mechanisms (patronage, excommunication, installation of aligned bishops, and historiographic revision), later reinforced by imperial enforcement.
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/Early Christianity_ Orthodoxy vs. Heresy.md
+
+**Connections**:
+- → `EARLY-018` (supported_by): Bauer/Ehrman thesis evidence supports the displacement hypothesis.
+- → `EARLY-015` (developed_by): This hypothesis operationalizes the Bauer-thesis concept by specifying displacement mechanisms.
+
+---
+
+#### [EARLY-033] Melchizedek as a Priestly Legitimacy Anchor
+
+**Status**: preliminary | **Confidence**: unknown
+
+> Melchizedek functions as a cross-tradition anchor for debates about priesthood, authority, and eschatological mediation: a minimal Genesis cameo is expanded into divergent models (Bronze Age Canaanite priest-king, Second Temple heavenly judge, rabbinic genealogical containment, and Christian typological/ontological superiority to Levitical descent).
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/Melchizedek's Origins_ Biblical to Gnostic.md
+
+**Connections**:
+- → `EARLY-014` (develops): This hypothesis synthesizes the divergent tradition-strata under the broader Melchizedek legitimacy concept.
+
+---
+
 ### The Gnostic Impulse
 *Gnostic cosmology, proprium mechanics*
 
@@ -4140,6 +4191,7 @@ popularized and extended this thesis with additional evidence.
 **Connections**:
 - → `GNOS-013` (parallels): GNOS-013 is a Pauline case-study of the broader gnostic impulse (self-authorizing private revelation).
 - → `GNOS-007` (develops): Frames Paul as a concrete instantiation of the gnostic impulse’s epistemic/cosmological/anthropological mechanics
+- → `EARLY-015` (parallels): Both examine early gnostic/Marcionite forms and the gnosis-vs-obedience tension; EARLY-015 adds the institutional displacement frame.
 
 ---
 

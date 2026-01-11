@@ -1181,6 +1181,9 @@ nodes:
     - target: SWED-024
       type: contrasts
       note: New Church defined by charity/life; explicitly rejects 'faith alone'.
+    - target: SWED-027
+      type: parallels
+      note: Connects Pauline authority elevation to Sola Fide as consummation mechanism.
     confidence: 0.3
     critic_notes:
       last_reviewed: '2026-01-09'
@@ -1213,6 +1216,10 @@ nodes:
       type: required_by
       note: New Church is established after (and enabled by) the Last Judgment of
         1757.
+    - target: SWED-027
+      type: parallels
+      note: Interprets 1757 Last Judgment as pneumatological validation of faith-alone
+        critique.
     confidence: 0.3
     critic_notes:
       last_reviewed: '2026-01-09'
@@ -2662,6 +2669,10 @@ nodes:
       type: integrated_from
       note: This concept contributes an Islam/Quranic counter-profile that sharpens
         the project’s Pauline-divergence synthesis.
+    - target: SWED-027
+      type: integrated_from
+      note: Provides Swedenborgian/pneumatological input to the broader Pauline-movement
+        divergence synthesis.
   EARLY-004:
     confidence: 0.3
     created: 2024-12-27
@@ -2791,7 +2802,7 @@ nodes:
     id: EARLY-007
     connections: []
   EARLY-009:
-    confidence: 0.3
+    confidence: 0.831
     created: 2024-12-27
     definition: 'The theological and political divergence between the Gospel of Luke
       (preserving "Jamesian" theology - poverty ethic, Torah piety, reversal theology)
@@ -4239,7 +4250,11 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: SWED-056
-    connections: []
+    connections:
+    - target: EARLY-038
+      type: parallels
+      note: Both analyze mediated perception/authority structures vs direct Lord-centered
+        reception.
   SWED-057:
     confidence: 0.3
     created: '2026-01-08'
@@ -8485,7 +8500,7 @@ nodes:
         texts support the ‘degree vs kind’ theosis-capacity hypothesis.
     trace_status: untraced
   EARLY-002:
-    confidence: 0.3
+    confidence: 0.865
     created: 2024-12-27
     definition: 'A forensic reconstruction hypothesis proposing that ''Q'' was not
       a fragmented sayings list but a coherent pre-canonical gospel—''Proto-Luke''—from
@@ -16102,7 +16117,15 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CROSS-014
-    connections: []
+    connections:
+    - target: EARLY-038
+      type: develops
+      note: Institutional mediation/vicarism is treated as a proprium/dominion mechanism
+        expressed in christological form.
+    - target: SWED-027
+      type: develops
+      note: Pauline authority critique is treated as a proprium/dominion mechanism
+        in theological form.
   CROSS-015:
     confidence: 0.3
     created: '2026-01-08'
@@ -17020,6 +17043,10 @@ nodes:
       type: parallels
       note: GNOS-013 refines how proprium functions as a gnostic mechanic in Pauline
         rhetoric.
+    - target: SWED-027
+      type: parallels
+      note: Both diagnose Pauline authority/rhetoric as proprium-structured (pneumatic
+        ego).
   GNOS-014:
     confidence: 0.3
     created: 2025-12-29
@@ -17361,12 +17388,65 @@ nodes:
       ref: data/04_Early_Christian_History/The Pauline Corpus and the Consummation
         of the Age.md
       type: T
-    status: validated
+    status: preliminary
     title: Swedenborgian Critique of Pauline Authority
-    trace_status: complete
-    updated: '2026-01-10'
+    trace_status: partial
+    updated: '2026-01-11'
     id: SWED-027
-    connections: []
+    connections:
+    - target: SWED-065
+      type: parallels
+      note: Connects Pauline authority elevation to Sola Fide as consummation mechanism.
+    - target: SWED-066
+      type: parallels
+      note: Interprets 1757 Last Judgment as pneumatological validation of faith-alone
+        critique.
+    - target: EARLY-034
+      type: parallels
+      note: Both treat Paul’s authority as grounded in private revelation (different
+        methods).
+    - target: GNOS-013
+      type: parallels
+      note: Both diagnose Pauline authority/rhetoric as proprium-structured (pneumatic
+        ego).
+    - target: SWED-035
+      type: parallels
+      note: Applies/aligns with the Word-vs-Writings/internal-sense criterion to Pauline
+        epistles.
+    - target: EARLY-003
+      type: integrates_into
+      note: Provides Swedenborgian/pneumatological input to the broader Pauline-movement
+        divergence synthesis.
+    - target: CROSS-014
+      type: developed_by
+      note: Pauline authority critique is treated as a proprium/dominion mechanism
+        in theological form.
+    critic_notes:
+      last_reviewed: '2026-01-11'
+      critiques:
+      - id: 1
+        type: internal-inconsistency
+        description: Node was marked validated/complete-trace while only carrying
+          tertiary provenance; status/trace downgraded to match recorded provenance
+          until primary anchoring exists.
+        breaks_proof: true
+        status: acknowledged
+      - id: 2
+        type: definition-issue
+        description: Node bundles multiple distinct sub-claims (internal-sense criterion,
+          permissive-buffer function, proprium-derived inspiration, Petrine→Pauline
+          ‘keys’ displacement, faith-alone etiology, etc.), making evidence→hypothesis
+          chaining difficult.
+        breaks_proof: false
+        status: open
+      - id: 3
+        type: missing-connection
+        description: As an umbrella concept, SWED-027 likely needs specific hypothesis
+          nodes developing from it for its major sub-claims.
+        breaks_proof: false
+        status: open
+      proof_breaking_open: 0
+      detail_issues: 2
   SWED-028:
     confidence: 0.3
     created: 2025-01-14
@@ -17545,6 +17625,10 @@ nodes:
     - target: SWED-090
       type: parallels
       note: Divine Marriage archetype reflected in Glorification union
+    - target: EARLY-038
+      type: parallels
+      note: Both critique mediated/tripersonal structures in favor of one-person Divine
+        Human theology.
     critic_notes:
       last_reviewed: '2026-01-10'
       critiques:
@@ -17960,6 +18044,10 @@ nodes:
       type: parallels
       note: Internal coherence/stress-tests (SWED-035) complement external triangulation
         (SWED-037)
+    - target: SWED-027
+      type: parallels
+      note: Applies/aligns with the Word-vs-Writings/internal-sense criterion to Pauline
+        epistles.
     created: '2026-01-10'
     updated: '2026-01-10'
     trace_status: complete
@@ -20966,6 +21054,10 @@ nodes:
       type: integrates_into
       note: Private-revelation authority pattern is one input to the broader synthesis
         of Pauline movement divergence.
+    - target: SWED-027
+      type: parallels
+      note: Both treat Paul’s authority as grounded in private revelation (different
+        methods).
     created: '2026-01-11'
     updated: '2026-01-11'
     confidence: 0.732
@@ -21034,7 +21126,7 @@ nodes:
       note: EARLY-009 applies the Jamesian ethos concept (EARLY-036) to Luke-Acts
     created: '2026-01-11'
     updated: '2026-01-11'
-    confidence: 0.765
+    confidence: 0.795
   EARLY-037:
     domain: EARLY
     node_type: hypothesis
@@ -21572,4 +21664,240 @@ nodes:
       peer_review: peer_reviewed_book
       source_chain_quality: primary_unverified
     confidence: 0.555
+  EARLY-038:
+    domain: EARLY
+    node_type: concept
+    title: Christological Mediation Architecture (Divine/Human Split Enables Vicarism)
+    definition: 'A conceptual frame in which distinguishing the Lord’s Divine from
+      His Human enables mediated authority structures (e.g., a clerical “vicar” claiming
+      jurisdiction over the Human while the Divine is positioned as transcendent),
+      producing doctrinal distance from direct Lord-centered monotheism (“Divine Human”).
+
+      '
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/The Pauline Corpus and the Consummation
+        of the Age.md
+      note: 'Document frames Divine/Human splitting as enabling mediated authority;
+        [TRACE NEEDED: map to Swedenborg’s cited entries in primary text].'
+    notes: 'Pattern-level concept; the document’s “dark chamber / papal throne” claim
+      is a specific instantiation (EARLY-039). Encodes the Swedenborgian/pneumatological
+      interpretation rather than a historical-critical reconstruction.
+
+      '
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: EARLY-038
+    connections:
+    - target: EARLY-039
+      type: develops
+      note: Conceptual pattern instantiated as a specific conciliar-motive hypothesis
+        (dark chamber).
+    - target: EARLY-040
+      type: develops
+      note: Conceptual pattern supplied with proposed Pauline textual seed mechanism.
+    - target: SWED-029
+      type: parallels
+      note: Both critique mediated/tripersonal structures in favor of one-person Divine
+        Human theology.
+    - target: SWED-056
+      type: parallels
+      note: Both analyze mediated perception/authority structures vs direct Lord-centered
+        reception.
+    - target: CROSS-014
+      type: developed_by
+      note: Institutional mediation/vicarism is treated as a proprium/dominion mechanism
+        expressed in christological form.
+    critic_notes:
+      last_reviewed: '2026-01-11'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
+    confidence: 0.3
+  EARLY-039:
+    domain: EARLY
+    node_type: hypothesis
+    title: Conciliar 'Dark Chamber' Motive (Swedenborg Claim of Political Christology)
+    definition: 'The hypothesis (reported from Swedenborg''s Spiritual Diary) that
+      a conciliar decision-making scene ("dark chamber") strategically distinguished
+      the Lord''s Divine and Human to preserve ecclesial/papal authority; if the Lord
+      were acknowledged as one with the Father, mediated authority structures could
+      not subsist.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/The Pauline Corpus and the Consummation
+        of the Age.md
+      note: 'Document summarizes Swedenborg’s claim; [TRACE NEEDED: verify exact wording
+        and context].'
+    notes: 'Not an HCM reconstruction; a pneumatological/intention-level claim about
+      motive. Treat as hypothesis pending direct verification in the primary Spiritual
+      Diary text.
+
+      '
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: EARLY-039
+    connections:
+    - target: EARLY-038
+      type: developed_by
+      note: Conceptual pattern instantiated as a specific conciliar-motive hypothesis
+        (dark chamber).
+    - target: EARLY-041
+      type: supported_by
+      note: Evidence layer (pending SD verification) for the conciliar-motive hypothesis.
+    critic_notes:
+      last_reviewed: '2026-01-11'
+      critiques:
+      - id: 1
+        type: source-gap
+        description: Hypothesis depends on Swedenborg SD entry cited as 4551; primary-text
+          anchoring is not yet verified. Evidence node EARLY-041 added, but SD locator/text
+          still needs manual verification.
+        breaks_proof: true
+        status: open
+      - id: 2
+        type: definition-issue
+        description: Previous title fixed the episode as 'Nicene' without primary
+          confirmation. Title/definition generalized to 'Conciliar'.
+        breaks_proof: false
+        status: acknowledged
+      proof_breaking_open: 1
+      detail_issues: 0
+    confidence: 0.441
+  EARLY-040:
+    domain: EARLY
+    node_type: hypothesis
+    title: Pauline Mediator/Subjection Language as Seedbed for Subordinationism
+    definition: 'The hypothesis that Pauline (and deutero-Pauline) formulations emphasizing
+      Christ as “mediator” and the Son’s “subjection” supplied durable textual scaffolding
+      for later subordinationist and mediation-centered Christologies, treated here
+      as in tension with “Divine Human” monotheism.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/The Pauline Corpus and the Consummation
+        of the Age.md
+      note: Document cites 1 Tim 2:5 and 1 Cor 15:28 as seedbed texts.
+    notes: 'Genealogical claim (textual seed → later doctrinal development). Treat
+      as preliminary until corroborated by patristic/scholarly development evidence.
+
+      '
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: EARLY-040
+    connections:
+    - target: EARLY-038
+      type: developed_by
+      note: Conceptual pattern supplied with proposed Pauline textual seed mechanism.
+    - target: EARLY-042
+      type: supported_by
+      note: Textual passages provide direct evidence for the phrasing the hypothesis
+        treats as seedbed.
+    critic_notes:
+      last_reviewed: '2026-01-11'
+      critiques:
+      - id: 1
+        type: missing-connection
+        description: Hypothesis lacked supporting evidence. Evidence node EARLY-042
+          (textual passages) added to support; patristic-development evidence still
+          pending.
+        breaks_proof: false
+        status: acknowledged
+      proof_breaking_open: 0
+      detail_issues: 0
+    confidence: 0.691
+  EARLY-041:
+    domain: EARLY
+    node_type: evidence
+    title: 'Swedenborg Spiritual Diary 4551: Conciliar ''Dark Chamber'' Motive Claim'
+    definition: 'As summarized in the processed report, Swedenborg reports (in Spiritual
+      Diary Vol. IV, entry cited as 4551) a conciliar scene ("dark chamber") in which
+      leaders distinguish the Lord''s Divine from His Human for institutional/papal
+      power reasons.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/The Pauline Corpus and the Consummation
+        of the Age.md
+      note: Extracts and summarizes the claim; primary-text verification pending.
+    - type: P
+      ref: Emanuel Swedenborg — Spiritual Diary (Spiritual Experiences), Vol. IV,
+        entry 4551. [PDF - manual verification needed]
+      note: Primary source referenced by the report; exact wording/location not yet
+        verified.
+    notes: 'Evidence: - {''description'': ''Reports a council "dark chamber" motive
+      for distinguishing the Lord\''s Divine and Human to preserve ecclesial authority'',
+      ''strength'': ''preliminary''}
+
+      '
+    confidence_factors:
+      source_type: external
+      methodology: textual_critical
+      sample_size: na
+      replication: na
+      peer_review: primary_text
+      source_chain_quality: primary_unverified
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: EARLY-041
+    connections:
+    - target: EARLY-039
+      type: supports
+      note: Evidence layer (pending SD verification) for the conciliar-motive hypothesis.
+    confidence: 0.691
+  EARLY-042:
+    domain: EARLY
+    node_type: evidence
+    title: 'New Testament: ''Mediator'' and ''Subjection'' Passages'
+    definition: 'The passages 1 Timothy 2:5 (Christ as mediator) and 1 Corinthians
+      15:28 (the Son subjected) supply textual phrasing that can be (and historically
+      has been) read in mediation/subordination directions.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/The Pauline Corpus and the Consummation
+        of the Age.md
+      note: Identifies these passages as the textual seedbed for later mediation/subordination
+        readings.
+    - type: P
+      ref: 'New Testament: 1 Timothy 2:5; 1 Corinthians 15:28. [TRACE NEEDED: specify
+        critical edition, e.g., NA28]'
+      note: Primary texts; edition/variant handling not yet pinned.
+    notes: 'Evidence: - {''description'': ''1 Tim 2:5 describes Christ Jesus as "mediator"
+      between God and humans'', ''strength'': ''moderate''} - {''description'': ''1
+      Cor 15:28 describes the Son being "subjected" so God may be all in all'', ''strength'':
+      ''moderate''}
+
+      '
+    confidence_factors:
+      source_type: external
+      methodology: textual_critical
+      sample_size: na
+      replication: na
+      peer_review: primary_text
+      source_chain_quality: primary_unverified
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: EARLY-042
+    connections:
+    - target: EARLY-040
+      type: supports
+      note: Textual passages provide direct evidence for the phrasing the hypothesis
+        treats as seedbed.
+    confidence: 0.691
 untraced: []

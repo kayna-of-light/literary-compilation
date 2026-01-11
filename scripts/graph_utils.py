@@ -628,17 +628,11 @@ def persist_confidence_scores(graph: dict) -> dict:
             final_score = result['final_score']
             old_confidence = node.get('confidence')
             
-            # Update the node in the graph
-            # Need to find which section it's in
+            # Update the node in the graph (single authoritative section)
             if node_id in (graph.get('nodes', {}) or {}):
                 graph['nodes'][node_id]['confidence'] = final_score
-            elif node_id in (graph.get('extended_nodes', {}) or {}):
-                graph['extended_nodes'][node_id]['confidence'] = final_score
             else:
-                changes['errors'].append({
-                    'node_id': node_id,
-                    'error': 'Could not find node in graph sections'
-                })
+                changes['errors'].append({'node_id': node_id, 'error': 'Could not find node in nodes'})
                 continue
             
             changes['updated'].append({
@@ -663,6 +657,250 @@ def load_graph() -> dict:
         return yaml.safe_load(f)
 
 
+def _parse_date(value: str | None) -> datetime | None:
+    if not value or not isinstance(value, str):
+        return None
+    for fmt in ('%Y-%m-%d', '%Y-%m-%d %H:%M', '%Y-%m-%d %H:%M:%S'):
+        try:
+            return datetime.strptime(value, fmt)
+        except ValueError:
+            continue
+    return None
+
+
+def _unique_list_of_dicts(items: list[dict]) -> list[dict]:
+    """Deduplicate list-of-dicts by stable JSON serialization."""
+    seen: set[str] = set()
+    out: list[dict] = []
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        key = json.dumps(item, sort_keys=True, ensure_ascii=False)
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(item)
+    return out
+
+
+def _merge_nodes_preserving_data(a: dict, b: dict) -> dict:
+    """Merge two node dicts with no data loss.
+
+    Strategy:
+    - Prefer the more recently-updated node as the primary value for scalar fields.
+    - Union list fields like source_chain/connections/evidence.
+    - If scalar conflicts remain, preserve the losing variant under legacy_variants.
+    """
+    a_updated = _parse_date(a.get('updated'))
+    b_updated = _parse_date(b.get('updated'))
+    if b_updated and (not a_updated or b_updated > a_updated):
+        primary, secondary = b, a
+        secondary_origin = 'nodes'
+        primary_origin = 'extended_nodes'
+    else:
+        primary, secondary = a, b
+        secondary_origin = 'extended_nodes'
+        primary_origin = 'nodes'
+
+    merged = deepcopy(primary)
+
+    # Union list fields (schema-supported only)
+    for list_key in ('source_chain', 'connections'):
+        merged[list_key] = _unique_list_of_dicts((merged.get(list_key, []) or []) + (secondary.get(list_key, []) or []))
+
+    # Merge critic_notes (keep most recent last_reviewed, union critiques)
+    if isinstance(secondary.get('critic_notes'), dict):
+        merged_cn = deepcopy(merged.get('critic_notes') or {})
+        sec_cn = secondary.get('critic_notes') or {}
+
+        # last_reviewed
+        merged_lr = _parse_date(merged_cn.get('last_reviewed'))
+        sec_lr = _parse_date(sec_cn.get('last_reviewed'))
+        if sec_lr and (not merged_lr or sec_lr > merged_lr):
+            merged_cn['last_reviewed'] = sec_cn.get('last_reviewed')
+
+        # critiques
+        merged_cn['critiques'] = _unique_list_of_dicts(
+            (merged_cn.get('critiques', []) or []) + (sec_cn.get('critiques', []) or [])
+        )
+
+        # counts: recompute
+        proof_breaking_open = 0
+        detail_issues = 0
+        for critique in merged_cn.get('critiques', []) or []:
+            if not isinstance(critique, dict):
+                continue
+            if critique.get('status') == 'open':
+                if critique.get('breaks_proof') is True:
+                    proof_breaking_open += 1
+                else:
+                    detail_issues += 1
+        merged_cn['proof_breaking_open'] = proof_breaking_open
+        merged_cn['detail_issues'] = detail_issues
+        merged['critic_notes'] = merged_cn
+
+    # Preserve any conflicting scalar fields under legacy_variants
+    conflict_keys = ['domain', 'node_type', 'title', 'definition', 'notes', 'status', 'trace_status']
+    conflicts: dict[str, dict] = {}
+    for key in conflict_keys:
+        if key in primary and key in secondary and primary.get(key) != secondary.get(key):
+            conflicts[key] = {
+                primary_origin: primary.get(key),
+                secondary_origin: secondary.get(key),
+            }
+
+    if conflicts:
+        existing_notes = merged.get('notes')
+        if not isinstance(existing_notes, str):
+            existing_notes = '' if existing_notes is None else str(existing_notes)
+
+        conflict_summary_lines = [
+            "\n[MIGRATION NOTE] 2026-01-11: merged legacy extended_nodes variant; conflicting scalar fields preserved below.",
+        ]
+        for k, v in conflicts.items():
+            conflict_summary_lines.append(f"- {k}: nodes vs extended_nodes differed")
+
+        # Preserve full conflicting values in plain text (no new schema fields)
+        conflict_summary_lines.append("\n[MIGRATION DETAILS] Conflicting values:")
+        for k, v in conflicts.items():
+            conflict_summary_lines.append(f"\nFIELD: {k}\n--- nodes ---\n{v.get('nodes')}\n--- extended_nodes ---\n{v.get('extended_nodes')}")
+
+        merged['notes'] = (existing_notes.rstrip() + "\n" + "\n".join(conflict_summary_lines)).strip() + "\n"
+
+    # Copy over any keys not present in primary (but avoid schema-unknown keys)
+    disallowed_keys = {'legacy_variants', 'evidence'}
+    for k, v in secondary.items():
+        if k in disallowed_keys:
+            continue
+        if k not in merged:
+            merged[k] = deepcopy(v)
+
+    return merged
+
+
+def migrate_extended_nodes(graph: dict, dry_run: bool = False) -> dict:
+    """Migrate `extended_nodes` into `nodes` and remove the section.
+
+    Returns a summary dict. If dry_run is False, also writes changes back to disk.
+    """
+    extended = graph.get('extended_nodes') or {}
+    nodes = graph.get('nodes') or {}
+    if not extended:
+        return {
+            'success': True,
+            'message': 'No extended_nodes section found (nothing to migrate).',
+            'migrated': 0,
+            'merged': 0,
+            'skipped': 0,
+        }
+
+    migrated = 0
+    merged = 0
+    skipped = 0
+
+    new_graph = deepcopy(graph)
+    new_graph.setdefault('nodes', {})
+
+    for node_id, ext_node in extended.items():
+        if not isinstance(ext_node, dict):
+            skipped += 1
+            continue
+        if node_id not in new_graph['nodes']:
+            new_graph['nodes'][node_id] = deepcopy(ext_node)
+            migrated += 1
+        else:
+            new_graph['nodes'][node_id] = _merge_nodes_preserving_data(new_graph['nodes'][node_id], ext_node)
+            merged += 1
+
+    # Remove extended_nodes entirely
+    if 'extended_nodes' in new_graph:
+        del new_graph['extended_nodes']
+
+    if not dry_run:
+        save_graph(new_graph)
+
+    return {
+        'success': True,
+        'message': 'Migrated extended_nodes into nodes and removed extended_nodes.',
+        'migrated': migrated,
+        'merged': merged,
+        'skipped': skipped,
+    }
+
+
+def cleanup_invalid_fields(graph: dict, dry_run: bool = False) -> dict:
+    """Remove known schema-invalid fields while preserving their content in notes."""
+    nodes = graph.get('nodes') or {}
+    if not nodes:
+        return {'success': True, 'message': 'No nodes found.', 'touched': 0}
+
+    new_graph = deepcopy(graph)
+    touched = 0
+    removed_evidence = 0
+    removed_legacy = 0
+
+    for node_id, node in (new_graph.get('nodes') or {}).items():
+        if not isinstance(node, dict):
+            continue
+        changed = False
+
+        if 'evidence' in node:
+            evidence_val = node.get('evidence')
+            # Preserve evidence payload in notes if it has content
+            if isinstance(evidence_val, list) and evidence_val:
+                existing_notes = node.get('notes')
+                if not isinstance(existing_notes, str):
+                    existing_notes = '' if existing_notes is None else str(existing_notes)
+                lines = [
+                    "\n[MIGRATION NOTE] 2026-01-11: removed schema-invalid field 'evidence'; preserved content below.",
+                    "[MIGRATION EVIDENCE]",
+                ]
+                for item in evidence_val:
+                    if isinstance(item, dict):
+                        desc = item.get('description')
+                        strength = item.get('strength')
+                        if desc is not None:
+                            lines.append(f"- ({strength}) {desc}" if strength else f"- {desc}")
+                        else:
+                            lines.append(f"- {json.dumps(item, ensure_ascii=False)}")
+                    else:
+                        lines.append(f"- {str(item)}")
+                node['notes'] = (existing_notes.rstrip() + "\n" + "\n".join(lines)).strip() + "\n"
+
+            del node['evidence']
+            changed = True
+            removed_evidence += 1
+
+        if 'legacy_variants' in node:
+            legacy_val = node.get('legacy_variants')
+            existing_notes = node.get('notes')
+            if not isinstance(existing_notes, str):
+                existing_notes = '' if existing_notes is None else str(existing_notes)
+            lines = [
+                "\n[MIGRATION NOTE] 2026-01-11: removed schema-invalid field 'legacy_variants'; preserved content below.",
+                "[MIGRATION LEGACY_VARIANTS]",
+                json.dumps(legacy_val, indent=2, ensure_ascii=False, cls=DateEncoder),
+            ]
+            node['notes'] = (existing_notes.rstrip() + "\n" + "\n".join(lines)).strip() + "\n"
+            del node['legacy_variants']
+            changed = True
+            removed_legacy += 1
+
+        if changed:
+            touched += 1
+
+    if not dry_run:
+        save_graph(new_graph)
+
+    return {
+        'success': True,
+        'message': 'Removed schema-invalid fields and preserved their content in notes.',
+        'touched': touched,
+        'removed_evidence_fields': removed_evidence,
+        'removed_legacy_variants_fields': removed_legacy,
+    }
+
+
 def save_graph(graph: dict) -> None:
     """Save the knowledge graph to YAML."""
     with open(GRAPH_PATH, 'w', encoding='utf-8') as f:
@@ -670,11 +908,8 @@ def save_graph(graph: dict) -> None:
 
 
 def get_all_nodes(graph: dict) -> dict:
-    """Get all nodes from both 'nodes' and 'extended_nodes' sections."""
-    nodes = graph.get('nodes', {}) or {}
-    extended = graph.get('extended_nodes', {}) or {}
-    # Merge, with extended_nodes taking precedence if duplicates
-    return {**nodes, **extended}
+    """Get all nodes (single authoritative section: 'nodes')."""
+    return graph.get('nodes', {}) or {}
 
 
 def get_stats(graph: dict) -> dict:
@@ -2100,23 +2335,23 @@ def update_node(graph: dict, node_id: str, payload: dict, section: str | None = 
 
     If section is provided, only that section is searched/updated.
     """
-    section_order = [section] if section else ['nodes', 'extended_nodes']
-    for section_name in section_order:
-        if node_id in graph.get(section_name, {}):
-            new_graph = deepcopy(graph)
-            node_ref = new_graph[section_name][node_id]
-            merged = deepcopy(node_ref)
-            merged.update(payload)
+    if section and section != 'nodes':
+        return {'success': False, 'errors': ["Only section 'nodes' is supported (extended_nodes has been removed)"]}
+    if node_id not in graph.get('nodes', {}):
+        return {'success': False, 'errors': [f"Node not found: {node_id}"]}
+    new_graph = deepcopy(graph)
+    node_ref = new_graph['nodes'][node_id]
+    merged = deepcopy(node_ref)
+    merged.update(payload)
 
-            # Prevent domain/node_type drift without explicit consistency
-            if payload.get('domain') and payload.get('domain') != node_ref.get('domain'):
-                return {'success': False, 'errors': ["Domain change not allowed via update-node (create a new node instead)"]}
-            merged['updated'] = datetime.now().strftime('%Y-%m-%d')
-            new_graph[section_name][node_id] = merged
-            result = apply_graph_update(new_graph, focus_nodes=[node_id])
-            result['node_id'] = node_id
-            return result
-    return {'success': False, 'errors': [f"Node not found: {node_id}"]}
+    # Prevent domain/node_type drift without explicit consistency
+    if payload.get('domain') and payload.get('domain') != node_ref.get('domain'):
+        return {'success': False, 'errors': ["Domain change not allowed via update-node (create a new node instead)"]}
+    merged['updated'] = datetime.now().strftime('%Y-%m-%d')
+    new_graph['nodes'][node_id] = merged
+    result = apply_graph_update(new_graph, focus_nodes=[node_id])
+    result['node_id'] = node_id
+    return result
 
 
 def delete_node(graph: dict, node_id: str, prune: bool = True, section: str | None = None) -> dict:
@@ -2124,37 +2359,29 @@ def delete_node(graph: dict, node_id: str, prune: bool = True, section: str | No
 
     If section is provided, only that section is searched/deleted.
     """
-    section_order = [section] if section else ['nodes', 'extended_nodes']
-    found_section = None
-    for section_name in section_order:
-        if node_id in graph.get(section_name, {}):
-            found_section = section_name
-            break
-    if not found_section:
+    if section and section != 'nodes':
+        return {'success': False, 'errors': ["Only section 'nodes' is supported (extended_nodes has been removed)"]}
+    if node_id not in graph.get('nodes', {}):
         return {'success': False, 'errors': [f"Node not found: {node_id}"]}
 
     new_graph = deepcopy(graph)
-    del new_graph[found_section][node_id]
+    del new_graph['nodes'][node_id]
 
     if prune:
-        for section in ['nodes', 'extended_nodes']:
-            for _, node in new_graph.get(section, {}).items():
-                conns = node.get('connections', []) or []
-                node['connections'] = [c for c in conns if c.get('target') != node_id]
+        for _, node in new_graph.get('nodes', {}).items():
+            conns = node.get('connections', []) or []
+            node['connections'] = [c for c in conns if c.get('target') != node_id]
 
     return apply_graph_update(new_graph, focus_nodes=[node_id]) | {'node_id': node_id}
 
 
 def get_node(graph: dict, node_id: str, section: str | None = None) -> dict:
-    """Fetch a node from nodes/extended_nodes.
-
-    If section is provided, only that section is searched.
-    """
-    section_order = [section] if section else ['nodes', 'extended_nodes']
-    for section_name in section_order:
-        section_map = graph.get(section_name, {})
-        if node_id in section_map:
-            return {'success': True, 'node': section_map[node_id], 'section': section_name}
+    """Fetch a node from the single authoritative section: nodes."""
+    if section and section != 'nodes':
+        return {'success': False, 'errors': ["Only section 'nodes' is supported (extended_nodes has been removed)"]}
+    section_map = graph.get('nodes', {})
+    if node_id in section_map:
+        return {'success': True, 'node': section_map[node_id], 'section': 'nodes'}
     return {'success': False, 'errors': [f"Node not found: {node_id}"]}
 
 
@@ -2164,6 +2391,8 @@ def main():
         'stats', 'validate', 'audit', 'list', 'connections', 'untraced', 'export-md',
         'confidence', 'score', 'low-confidence', 'needs-extraction', 'persist-scores',
         'chain-check', 'warnings', 'add-connection', 'fix-inverses',
+        'migrate-extended-nodes',
+        'cleanup-invalid-fields',
         'add-node', 'update-node', 'delete-node', 'get-node'
     ])
     parser.add_argument('--domain', '-d', help="Filter by domain ID")
@@ -2181,12 +2410,7 @@ def main():
     parser.add_argument('--note', help="Optional note for connection (for add-connection)")
     parser.add_argument('--input', help="Path to YAML/JSON payload (for add-node, update-node)")
     parser.add_argument('--inline', help="Inline YAML/JSON payload for add-node/update-node. Use --inline @- to read from stdin.")
-    parser.add_argument(
-        '--section',
-        default=None,
-        choices=['nodes', 'extended_nodes'],
-        help="Graph section to target (add-node defaults to nodes; for get/update/delete, omit to auto-detect)",
-    )
+    parser.add_argument('--section', default=None, choices=['nodes'], help="Graph section to target (nodes only)")
     parser.add_argument('--prune', action='store_true', help="Prune connections that reference a deleted node (delete-node)")
     parser.add_argument('--id', help="Optional node ID override when creating a node")
     parser.add_argument('node_id', nargs='?', help="Node ID for score command")
@@ -2194,6 +2418,11 @@ def main():
     args = parser.parse_args()
     
     graph = load_graph()
+
+    if args.command != 'migrate-extended-nodes' and 'extended_nodes' in (graph or {}):
+        print("ERROR: extended_nodes section detected. It is no longer supported.")
+        print("Run: python scripts/graph_utils.py migrate-extended-nodes")
+        sys.exit(2)
     
     # Helper for output (handles unicode on Windows)
     def output(text):
@@ -2227,6 +2456,32 @@ def main():
             output("\nBy Domain:")
             for domain, count in stats['by_domain'].items():
                 output(f"  {domain}: {count}")
+
+    elif args.command == 'migrate-extended-nodes':
+        result = migrate_extended_nodes(graph, dry_run=args.dry_run)
+        if args.json:
+            output(json.dumps(result, indent=2, cls=DateEncoder))
+        else:
+            output("\n=== Extended Nodes Migration ===\n")
+            output(result.get('message', ''))
+            output(f"Migrated (new IDs): {result.get('migrated', 0)}")
+            output(f"Merged (existing IDs): {result.get('merged', 0)}")
+            output(f"Skipped (non-dict): {result.get('skipped', 0)}")
+            if args.dry_run:
+                output("DRY RUN: No changes written")
+
+    elif args.command == 'cleanup-invalid-fields':
+        result = cleanup_invalid_fields(graph, dry_run=args.dry_run)
+        if args.json:
+            output(json.dumps(result, indent=2, cls=DateEncoder))
+        else:
+            output("\n=== Cleanup Invalid Fields ===\n")
+            output(result.get('message', ''))
+            output(f"Touched nodes: {result.get('touched', 0)}")
+            output(f"Removed evidence fields: {result.get('removed_evidence_fields', 0)}")
+            output(f"Removed legacy_variants fields: {result.get('removed_legacy_variants_fields', 0)}")
+            if args.dry_run:
+                output("DRY RUN: No changes written")
     
     elif args.command == 'validate':
         result = validate_graph(graph, verbose=args.verbose)

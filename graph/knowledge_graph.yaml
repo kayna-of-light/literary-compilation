@@ -1049,12 +1049,16 @@ nodes:
     status: preliminary
     title: Vastation
     trace_status: partial
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     id: SWED-064
     connections:
     - target: SWED-003
       type: developed_by
       note: Vastation develops from World of Spirits
+    - target: CONSC-114
+      type: parallels
+      note: Frames post-awakening integration struggles as the outward continuation
+        of the crucible/vastation dynamic
     confidence: 0.3
     critic_notes:
       last_reviewed: '2026-01-09'
@@ -4656,7 +4660,7 @@ nodes:
     status: validated
     title: The Volunteer Soul Incarnation (Three-Path Cosmology)
     trace_status: complete
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     id: CONSC-014
     connections:
     - target: CONSC-095
@@ -4680,6 +4684,16 @@ nodes:
       type: developed_by
       note: Methodological distinction (detection vs classification) develops and
         constrains Volunteer Soul Incarnation hypothesis interpretation.
+    - target: CONSC-113
+      type: developed_by
+      note: Stage-3 activation generalized beyond NDE contexts (SSA/NDE-like activation)
+    - target: CONSC-114
+      type: developed_by
+      note: Post-call integration dynamics articulated as part of a fuller volunteer-soul
+        profile
+    - target: CONSC-115
+      type: developed_by
+      note: Proposed Stage-1 preparatory correlates (readiness trait signature)
   CONSC-015:
     confidence: 0.7
     created: '2024-12-28'
@@ -11782,7 +11796,7 @@ nodes:
     status: validated
     title: Consciousness-Driven Evolution (CDE) - Consciousness as Causal Force
     trace_status: complete
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     id: CONSC-001
     connections:
     - target: MYTH-021
@@ -11799,6 +11813,17 @@ nodes:
       note: Memetic Niche is mechanism concept within CDE
     - target: CONSC-111
       type: develops
+      note: Modular phenomenology model developed within CDE framing
+    - target: CONSC-113
+      type: develops
+      note: 'Extends volunteer-soul model: commissioning/activation beyond near-death
+        contexts'
+    - target: CONSC-114
+      type: develops
+      note: 'Extends volunteer-soul model: post-call integration dynamics and friction'
+    - target: CONSC-115
+      type: develops
+      note: 'Extends volunteer-soul model: proposed preparatory trait/readiness correlates'
   CONSC-002:
     confidence: 0.823
     confidence_factors:
@@ -17398,6 +17423,96 @@ nodes:
     updated: '2026-01-11'
     trace_status: complete
     confidence: 0.782
+  CONSC-113:
+    domain: CONSC
+    node_type: concept
+    title: Revelatory Intervention Beyond NDEs (SSA/NDE-like Activation)
+    definition: 'The Stage-3 “Revelatory Intervention” or commissioning event in the
+      volunteer-call narrative is argued to occur outside near-death contexts (e.g.,
+      spontaneous spiritual awakenings and NDE-like experiences), implying the activation
+      is not dependent on near-death physiology.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Volunteer Soul Incarnation Profile Building.md
+      note: SSA and NDE-like channels for Stage-3 activation
+    status: preliminary
+    trace_status: complete
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: CONSC-113
+    connections:
+    - target: CONSC-001
+      type: developed_by
+      note: Grounded in CDE foundational framing (CONSC-001)
+    - target: CONSC-014
+      type: develops
+      note: Extends volunteer-soul hypothesis by generalizing Stage-3 activation beyond
+        NDE contexts
+    confidence: 0.3
+  CONSC-114:
+    domain: CONSC
+    node_type: concept
+    title: Post-Call Integration Friction (Called-Soul vs. World)
+    definition: 'After the activation event, experiencers report durable transformation
+      of purpose and values alongside predictable integration challenges (ineffability,
+      invalidation/alienation, life disruption, and new sensitivities). The document
+      frames this struggle as an externalized continuation of the “crucible/vastation”
+      dynamic, with integration reportedly aided more by meaning-making and spiritual
+      practices than by standard psychiatric framing.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Volunteer Soul Incarnation Profile Building.md
+      note: Post-awakening aftereffects and integration dynamics
+    status: preliminary
+    trace_status: complete
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: CONSC-114
+    connections:
+    - target: CONSC-001
+      type: developed_by
+      note: Grounded in CDE foundational framing (CONSC-001)
+    - target: CONSC-014
+      type: develops
+      note: Extends volunteer-soul hypothesis by articulating post-call integration
+        dynamics
+    - target: SWED-064
+      type: parallels
+      note: Post-awakening integration friction parallels Swedenborgian vastation/crucible
+        framing
+    confidence: 0.3
+  CONSC-115:
+    domain: CONSC
+    node_type: concept
+    title: Preparatory Longing Trait Signature (Openness/Spirituality/Symbolic Cognition)
+    definition: 'The document proposes that individuals who undergo the commissioning/activation
+      event tend to show a readiness profile (e.g., spirituality orientation, openness
+      to experience, vivid symbolic cognition), interpreted as empirical correlates
+      of the Stage-1 “Longing for Truth” preparation.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Volunteer Soul Incarnation Profile Building.md
+      note: Psychological correlates proposed for Stage-1 preparation
+    status: preliminary
+    trace_status: complete
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: CONSC-115
+    connections:
+    - target: CONSC-001
+      type: developed_by
+      note: Grounded in CDE foundational framing (CONSC-001)
+    - target: CONSC-014
+      type: develops
+      note: Articulates proposed Stage-1 preparatory correlates within the volunteer-soul
+        hypothesis
+    confidence: 0.3
 untraced: []
 extended_nodes:
   BIBL-023:

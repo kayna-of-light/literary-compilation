@@ -1948,7 +1948,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-062
-    connections: []
+    connections:
+    - target: CONSC-111
+      type: developed_by
+    - target: CONSC-066
+      type: supported_by
   CONSC-094:
     domain: CONSC
     node_type: concept
@@ -2990,6 +2994,14 @@ nodes:
       type: develops
       note: Divine Influx adapts communication as cognition externalizes; this frames
         the Fall-into-language concept.
+    - target: SWED-044
+      type: develops
+      note: Illness/healing framework derives will-understanding priority from influx
+        ontology
+    - target: SWED-045
+      type: develops
+      note: Illness/healing framework derives vulnerability (receptive will) from
+        influx dynamics
   SWED-003:
     confidence: 0.595
     created: 2024-12-27
@@ -6186,7 +6198,9 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-063
-    connections: []
+    connections:
+    - target: CONSC-068
+      type: supports
   CONSC-064:
     confidence: 0.825
     confidence_factors:
@@ -6274,7 +6288,9 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-064
-    connections: []
+    connections:
+    - target: CONSC-122
+      type: supports
   CONSC-069:
     confidence: 0.738
     confidence_factors:
@@ -13673,7 +13689,9 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-065
-    connections: []
+    connections:
+    - target: CONSC-111
+      type: developed_by
   CONSC-066:
     confidence: 0.565
     definition: 'Mission-bound souls return with personified Being encounters regardless
@@ -13780,7 +13798,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-066
-    connections: []
+    connections:
+    - target: CONSC-062
+      type: supports
+    - target: CONSC-068
+      type: supports
     created: '2026-01-10'
   CONSC-067:
     confidence: 0.3
@@ -13835,7 +13857,9 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-067
-    connections: []
+    connections:
+    - target: CONSC-111
+      type: developed_by
   CONSC-068:
     confidence: 0.3
     created: '2025-01-07'
@@ -13889,7 +13913,13 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-068
-    connections: []
+    connections:
+    - target: CONSC-111
+      type: developed_by
+    - target: CONSC-063
+      type: supported_by
+    - target: CONSC-066
+      type: supported_by
   CROSS-005:
     confidence: 0.3
     created: 2025-12-27
@@ -17005,7 +17035,15 @@ nodes:
       \ This explains why\n  \"believing\"  doesn''t heal but \"surrendering\" does.\n\
       \n  '"
     id: SWED-044
-    connections: []
+    connections:
+    - target: SWED-002
+      type: developed_by
+      note: Illness/healing framework derives will-understanding priority from influx
+        ontology
+    - target: SWED-047
+      type: develops
+      note: Normative definition of True vs Physical Healing follows will/understanding
+        causal priority
   SWED-045:
     confidence: 0.3
     created: 2026-01-02
@@ -17051,7 +17089,15 @@ nodes:
       u2014 this is what \\\"surrender\\\" accomplishes. The will reorients\\\n  \\\
       \ its receptivity.\\n\""
     id: SWED-045
-    connections: []
+    connections:
+    - target: SWED-002
+      type: developed_by
+      note: Illness/healing framework derives vulnerability (receptive will) from
+        influx dynamics
+    - target: SWED-046
+      type: develops
+      note: Organ-faculty correspondence hypothesis extends the vulnerability model
+        to specific organ systems
   SWED-046:
     confidence: 0.3
     created: 2026-01-02
@@ -17109,7 +17155,11 @@ nodes:
       creativity\" transformations, while reproductive disorder patients  show\n \
       \ the opposite pattern, the correspondence gains support.\n\n  '"
     id: SWED-046
-    connections: []
+    connections:
+    - target: SWED-045
+      type: developed_by
+      note: Organ-faculty correspondence hypothesis extends the vulnerability model
+        to specific organ systems
   SWED-047:
     confidence: 0.3
     created: 2026-01-02
@@ -17160,7 +17210,11 @@ nodes:
       \ Physical cure is sign of True Healing, not the goal itself\npalliative_care:\
       \ Hospice patients can achieve True Healing without cure"
     id: SWED-047
-    connections: []
+    connections:
+    - target: SWED-044
+      type: developed_by
+      note: Normative definition of True vs Physical Healing follows will/understanding
+        causal priority
   SWED-051:
     confidence: 0.3
     created: '2026-01-08'
@@ -17462,6 +17516,16 @@ nodes:
     - target: CONSC-117
       type: develops
       note: 'Modular/toolkit model: diverse imagery forms map onto stable functions/outcomes'
+    - target: CONSC-062
+      type: develops
+    - target: CONSC-065
+      type: develops
+    - target: CONSC-067
+      type: develops
+    - target: CONSC-068
+      type: develops
+    - target: CONSC-122
+      type: develops
     created: '2026-01-11'
     updated: '2026-01-11'
     trace_status: complete
@@ -17786,6 +17850,38 @@ nodes:
       note: COPET proposal formalizes a complementary research design explicitly aimed
         at capturing the under-detected cohort.
     confidence: 0.807
+  CONSC-122:
+    domain: CONSC
+    node_type: hypothesis
+    title: Boundary Correspondence Hypothesis (Return Decision Expressed as Boundary
+      Imagery)
+    definition: 'NDE boundary imagery is not a fixed “point of no return” in afterlife
+      geography but a correspondence of the return decision itself. When the return
+      is initiated externally (“they sent me back”), experiencers more often report
+      externalized boundary forms (physical barriers, enforced limits). When the return
+      is self-chosen, experiencers more often report internalized boundary forms (thresholds,
+      crossings, felt decision points). This hypothesis operationalizes the correspondence
+      principle for boundary phenomena and predicts stable mapping between boundary
+      type and return agency across large NDE corpora.
+
+      '
+    status: validated
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/The East-West NDE Dichotomy - Challenging
+        Cultural Paradigms Through Empirical Analysis.md
+      note: Boundary section + chi-square association between boundary type and return
+        agency; frames boundary as correspondence of decision.
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    trace_status: complete
+    id: CONSC-122
+    connections:
+    - target: CONSC-111
+      type: developed_by
+    - target: CONSC-064
+      type: supported_by
+    confidence: 0.3
 untraced: []
 extended_nodes:
   BIBL-023:

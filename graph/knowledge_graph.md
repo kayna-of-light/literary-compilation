@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 07:53*
+*Last exported: 2026-01-11 08:06*
 
 ---
 
@@ -10,20 +10,20 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 351 |
-| Total Connections | 257 |
+| Total Nodes | 352 |
+| Total Connections | 266 |
 | Untraced Claims | 0 |
 
 ### By Status
 
 - **preliminary**: 70
-- **validated**: 274
+- **validated**: 275
 - **contested**: 7
 
 ### By Domain
 
 - **Biblical Scholarship** (BIBL): 33
-- **Consciousness Studies** (CONSC): 105
+- **Consciousness Studies** (CONSC): 106
 - **Cross-Domain** (CROSS): 39
 - **Early Christian History** (EARLY): 30
 - **The Gnostic Impulse** (GNOS): 26
@@ -1485,6 +1485,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `CONSC-001` (developed_by): 
 - → `CONSC-116` (develops): Tool-kit/modular framing: entity encounters show differentiated functional roles
 - → `CONSC-117` (develops): Modular/toolkit model: diverse imagery forms map onto stable functions/outcomes
+- → `CONSC-062` (develops): 
+- → `CONSC-065` (develops): 
+- → `CONSC-067` (develops): 
+- → `CONSC-068` (develops): 
+- → `CONSC-122` (develops): 
 
 ---
 
@@ -1620,7 +1625,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-120] Methodological Selection Effects in Reincarnation Research
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.686
 
 > The idea that dominant verification-centered approaches in reincarnation research (especially CORT/SOCS) systematically shape what kinds of cases are discovered, investigated, and counted. In particular, methodologies optimized for identifying a verifiable Previous Personality preferentially surface trauma-linked "return" cases (Restorative Incarnation) and tend to under-detect non-cyclic or "arrival" cases (pre-existence, intermission-only, mission/volunteer profiles) that lack a traceable prior death record.
 
@@ -1636,7 +1641,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-121] CORT Trauma Filter Hypothesis (Non-Cyclic Cohort Under-Detection)
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.807
 
 > The CORT paradigm (and SOCS-style strength metrics) functions as a trauma-weighted filter: cases with violent/premature death and verifiable prior-personality details are more likely to be detected, investigated, and scored as "strong". As a result, reincarnation research datasets may overrepresent trauma-linked Restorative Incarnation returns and underrepresent (or exclude) non-cyclic/pre-existence profiles (e.g., intermission-only "reverse cases" and mission/volunteer-type entries) that lack a traceable Previous Personality.
 
@@ -1650,6 +1655,22 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `CONSC-048` (supported_by): Ohkado 'reverse cases' show intermission/pre-birth memories can occur without past-life recall, consistent with under-detected non-cyclic cohorts.
 - → `CONSC-049` (supported_by): VPE/perinatal verification provides a verification pathway for pre-existence-type cases outside PP tracing.
 - → `CONSC-050` (supported_by): COPET proposal formalizes a complementary research design explicitly aimed at capturing the under-detected cohort.
+
+---
+
+#### [CONSC-122] Boundary Correspondence Hypothesis (Return Decision Expressed as Boundary Imagery)
+
+**Status**: validated | **Confidence**: 0.3
+
+> NDE boundary imagery is not a fixed “point of no return” in afterlife geography but a correspondence of the return decision itself. When the return is initiated externally (“they sent me back”), experiencers more often report externalized boundary forms (physical barriers, enforced limits). When the return is self-chosen, experiencers more often report internalized boundary forms (thresholds, crossings, felt decision points). This hypothesis operationalizes the correspondence principle for boundary phenomena and predicts stable mapping between boundary type and return agency across large NDE corpora.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/The East-West NDE Dichotomy - Challenging Cultural Paradigms Through Empirical Analysis.md
+
+**Connections**:
+- → `CONSC-111` (developed_by): 
+- → `CONSC-064` (supported_by): 
 
 ---
 
@@ -1705,6 +1726,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-006` (develops): Most Ancient Church is archetype of perfect Divine Influx reception
 - → `SWED-075` (develops): Divine Influx underlies the primordial internal-perception mode described as internal respiration.
 - → `SWED-016` (develops): Divine Influx adapts communication as cognition externalizes; this frames the Fall-into-language concept.
+- → `SWED-044` (develops): Illness/healing framework derives will-understanding priority from influx ontology
+- → `SWED-045` (develops): Illness/healing framework derives vulnerability (receptive will) from influx dynamics
 
 ---
 

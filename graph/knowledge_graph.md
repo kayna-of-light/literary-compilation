@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 06:42*
+*Last exported: 2026-01-11 06:46*
 
 ---
 
@@ -11,7 +11,7 @@
 | Metric | Count |
 |--------|-------|
 | Total Nodes | 342 |
-| Total Connections | 212 |
+| Total Connections | 214 |
 | Untraced Claims | 0 |
 
 ### By Status
@@ -263,6 +263,9 @@
 2. [E] Eulitt, May & Hoyer, Stephen. Fireweaver: The Story of a Life, a Near-Death, and Beyond
 3. [E] Nothing Better Than Death: Insights from Sixty-Two Profound Near-Death Experiences
 4. [W] NEAR-DEATH.com: A Group of Firefighters Near-Death Experience
+
+**Connections**:
+- → `CONSC-043` (supports): GNDEs describe inter-subjective shared experience that conflicts with purely private brain-hallucination predictions; included as DBH-critique anomaly.
 
 ---
 
@@ -527,6 +530,7 @@
 - → `CONSC-059` (supported_by): SDE reports are treated as anomalies that DBH mechanisms struggle to explain
 - → `CONSC-057` (supported_by): Terminal lucidity provides an anomaly used in the DBH critique
 - → `CONSC-056` (supported_by): Structured end-of-life dreams/visions are cited as part of the broader inadequacy of purely dying-brain models
+- → `CONSC-019` (supported_by): GNDEs describe inter-subjective shared experience that conflicts with purely private brain-hallucination predictions; included as DBH-critique anomaly.
 
 ---
 
@@ -1444,7 +1448,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-111] Modular NDE Phenomenology (Toolkit Model)
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.665
 
 > Near-death experiences can be modeled as modular combinations of recurring phenomenological components (e.g., separation phenomena, OBE, transitional spaces such as tunnel/void, encounters with beings, life review, boundary, return), with significant variation arising from which modules appear, in what order, and with what emotional tone.
 
@@ -1460,7 +1464,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-112] Four-Axis Phenomenological Taxonomy for NDE Classification
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.782
 
 > A multi-axial, phenomenology-first taxonomy (Axis I structural components; Axis II affective valence; Axis III interactive dimension; Axis IV gnostic content) can be applied to NDE narratives to produce a descriptive "fingerprint" of each account, enabling systematic comparison without requiring metaphysical commitment.
 

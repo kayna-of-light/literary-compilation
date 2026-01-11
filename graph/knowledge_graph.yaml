@@ -2472,79 +2472,6 @@ nodes:
     updated: '2026-01-10'
     id: CROSS-003
     connections: []
-  CROSS-030:
-    domain: CROSS
-    node_type: foundational
-    title: Two-Tiered Epistemology
-    definition: A methodology distinguishing the 'Natural Plane' (Body/Effects) from
-      the 'Spiritual Plane' (Soul/Causes). Natural plane uses scientific/HCM methods;
-      Spiritual plane uses Swedenborgian correspondences.
-    source_chain:
-    - type: T
-      ref: data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the
-        Divine Bricolage.md
-      note: Primary definition
-    status: validated
-    confidence: 0.3
-    id: CROSS-030
-    connections: []
-    created: '2026-01-10'
-    updated: '2026-01-10'
-    trace_status: complete
-  CROSS-031:
-    domain: CROSS
-    node_type: foundational
-    title: The Normative Path
-    definition: The standard linear afterlife progression (Passage -> World of Spirits
-      -> Self-Sort based on Ruling Love -> Heaven/Hell).
-    source_chain:
-    - type: T
-      ref: data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the
-        Divine Bricolage.md
-      note: Primary definition
-    status: validated
-    confidence: 0.3
-    id: CROSS-031
-    connections: []
-    created: '2026-01-10'
-    updated: '2026-01-10'
-    trace_status: complete
-  CROSS-032:
-    domain: CROSS
-    node_type: foundational
-    title: Two Paths of the Spirit
-    definition: The comprehensive division of spiritual trajectories into 'Path of
-      Affirmation' (Reception/Love) and 'Path of Gnosis' (Dismantling/Self-Love).
-    source_chain:
-    - type: T
-      ref: data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the
-        Divine Bricolage.md
-      note: Primary definition
-    status: validated
-    confidence: 0.3
-    id: CROSS-032
-    connections: []
-    created: '2026-01-10'
-    updated: '2026-01-10'
-    trace_status: complete
-  CROSS-033:
-    domain: CROSS
-    node_type: concept
-    title: Path of Affirmation
-    definition: Spiritual orientation of 'reception' from the Divine, characterized
-      by NDE 'Being of Light' traits.
-    source_chain:
-    - type: T
-      ref: data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the
-        Divine Bricolage.md
-      note: Primary definition
-    status: validated
-    confidence: 0.3
-    id: CROSS-033
-    connections: []
-    created: '2026-01-10'
-    updated: '2026-01-10'
-    trace_status: complete
   CROSS-038:
     domain: CROSS
     node_type: concept
@@ -3256,42 +3183,6 @@ nodes:
     updated: '2026-01-10'
     id: MYTH-006
     connections: []
-  MYTH-025:
-    domain: MYTH
-    node_type: concept
-    title: Mythic Bricolage
-    definition: Process where Divine intent guides scribal assembly of narrative from
-      disconnected memory fragments/myths.
-    source_chain:
-    - type: T
-      ref: data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the
-        Divine Bricolage.md
-      note: Primary definition
-    status: validated
-    confidence: 0.3
-    id: MYTH-025
-    connections: []
-    created: '2026-01-10'
-    updated: '2026-01-10'
-    trace_status: complete
-  MYTH-026:
-    domain: MYTH
-    node_type: concept
-    title: The Fall (Cognitive Shift)
-    definition: Allegory for the shift from internal/gestural state to external/articulate
-      speech and self-oriented reasoning.
-    source_chain:
-    - type: T
-      ref: data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the
-        Divine Bricolage.md
-      note: Primary definition
-    status: validated
-    confidence: 0.3
-    id: MYTH-026
-    connections: []
-    created: '2026-01-10'
-    updated: '2026-01-10'
-    trace_status: complete
   SWED-001:
     confidence: 0.666
     created: 2024-12-27
@@ -4379,24 +4270,6 @@ nodes:
       (vagus/parasympathetic and breath-control framing).
 
       '
-  SWED-076:
-    domain: SWED
-    node_type: concept
-    title: Representative Language
-    definition: Innate perception of spiritual meaning in natural objects (Conceptual
-      Metaphor Theory), preceding articulate speech.
-    source_chain:
-    - type: T
-      ref: data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the
-        Divine Bricolage.md
-      note: Primary definition
-    status: validated
-    confidence: 0.3
-    id: SWED-076
-    connections: []
-    created: '2026-01-10'
-    updated: '2026-01-10'
-    trace_status: complete
   BIBL-006:
     confidence: 0.865
     confidence_factors:
@@ -20439,24 +20312,6 @@ nodes:
         Gospel features function as authenticity signals under a Jamesian baseline.
     created: '2026-01-10'
     updated: '2026-01-11'
-    trace_status: complete
-  GNOS-021:
-    domain: GNOS
-    node_type: concept
-    title: Path of Gnosis
-    definition: Spiritual orientation of 'dismantling' the distinct Divine Human,
-      driven by Proprium/Self-Glorification.
-    source_chain:
-    - type: T
-      ref: data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the
-        Divine Bricolage.md
-      note: Primary definition
-    status: validated
-    confidence: 0.3
-    id: GNOS-021
-    connections: []
-    created: '2026-01-10'
-    updated: '2026-01-10'
     trace_status: complete
   SWED-091:
     domain: SWED

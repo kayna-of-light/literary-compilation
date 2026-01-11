@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 10:46*
+*Last exported: 2026-01-11 11:34*
 
 ---
 
@@ -11,7 +11,7 @@
 | Metric | Count |
 |--------|-------|
 | Total Nodes | 374 |
-| Total Connections | 514 |
+| Total Connections | 550 |
 | Untraced Claims | 0 |
 
 ### By Status
@@ -259,6 +259,7 @@
 **Connections**:
 - → `CROSS-023` (developed_by): Provides a neurocognitive grounding for the two-tiered method (analytic/fragmenting vs holistic/relational modes).
 - → `CONSC-007` (develops): Frames neuroplasticity/attention training as the mechanism by which hemispheric integration can be cultivated.
+- → `CROSS-008` (integrates_into): CROSS-008 integrates McGilchrist’s Master/Emissary hemispheric framework (CONSC-018) as the natural-plane correlate.
 
 ---
 
@@ -317,6 +318,8 @@
 
 **Connections**:
 - → `CONSC-107` (supports): Evidence: identification labels vary with background; properties stable
+- → `CROSS-006` (supports): Being-of-Light identification results (label variance + property invariance) provide the statistical substrate used to validate the Jesus Profile hypothesis by personality-match rather than naming.
+- → `CROSS-007` (supports): The ‘unknown presence’ majority and stable properties across labels support the claim that direct divine encounter is not restricted to a single cultural category (used in the universal theosis-capacity argument).
 
 ---
 
@@ -1784,6 +1787,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `CROSS-002` (parallels): Divine Bricolage synthesizes Doctrine of Correspondences with human authorship
 - → `SWED-012` (develops): Catalog of correspondences is an application derived from the foundational doctrine.
 - → `SWED-091` (develops): Discrete degrees are presented as a key structural principle within the correspondences framework.
+- → `SWED-011` (develops): Maximus Homo/Divine Human doctrine applies the Doctrine of Correspondences (heaven as a human form; organs as angelic societies).
+- → `SWED-021` (develops): SWED-021 is another formulation of the Maximus Homo doctrine grounded in the Doctrine of Correspondences (use-based provinces of heaven).
 
 ---
 
@@ -1823,6 +1828,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-045` (develops): Illness/healing framework derives vulnerability (receptive will) from influx dynamics
 - → `SWED-092` (develops): Divine influx is described as the flow of divine love and wisdom; this node specifies the heat/light correspondence and spiritual-sun framing.
 - → `SWED-024` (develops): Doc 5 articulates New Jerusalem/New Church as a principal outcome of restored influx after 1757.
+- → `SWED-017` (develops): Divine Bricolage: Adaptive Influx (SWED-017) specifies how Divine Influx (SWED-002) guides and adapts communication through human vessels and texts.
+- → `SWED-022` (develops): Doc 5: the Delft commission is framed as a providentially prepared instance of Divine Influx guiding a human vessel into new work.
 
 ---
 
@@ -1866,6 +1873,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-012` (parallels): The catalog illustrates the kind of correspondential symbolism Swedenborg attributes to the Ancient Word.
 - → `SWED-042` (develops): SWED-042 is a specific historical-rupture hypothesis developed from the Ancient Word concept (mechanism for archival loss + fragmentation of correspondential knowledge).
 - → `SWED-093` (develops): The document frames correspondential knowledge as ancient and later lost; this hypothesis specifies the claimed idolatry outcome of that loss.
+- → `MYTH-003` (parallels): Doc 4: deep-time mnemonic/symbolic systems are presented as external analogs that align with (and thus parallel) Swedenborg's Ancient Word hypothesis.
 
 ---
 
@@ -1950,6 +1958,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/Divine Human Anatomy and Spiritual Correspondence.md
 
+**Connections**:
+- → `SWED-001` (developed_by): Maximus Homo/Divine Human doctrine applies the Doctrine of Correspondences (heaven as a human form; organs as angelic societies).
+- → `SWED-021` (parallels): SWED-011 and SWED-021 describe the same Grand Man/Divine Human structure at different levels of detail.
+
 ---
 
 #### [SWED-012] Library of Biblical Correspondences
@@ -2032,6 +2044,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/The Resurrection of True Life...
 
+**Connections**:
+- → `CROSS-006` (develops): SWED-017 operationalizes Divine Bricolage as the adaptive action of influx that yields the Jesus Profile hypothesis (CROSS-006) in the Gospel tradition.
+- → `SWED-002` (developed_by): Divine Bricolage: Adaptive Influx (SWED-017) is a specification of the broader Divine Influx principle (SWED-002) under historical/textual conditions.
+
 ---
 
 #### [SWED-018] The Divine Human in Ultimates
@@ -2068,6 +2084,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/Divine Human Anatomy and Spiritual Correspondence.md
 
+**Connections**:
+- → `SWED-001` (developed_by): SWED-021 is another formulation of the Maximus Homo doctrine grounded in the Doctrine of Correspondences (use-based provinces of heaven).
+- → `SWED-011` (parallels): SWED-011 and SWED-021 describe the same Grand Man/Divine Human structure at different levels of detail.
+- → `CROSS-008` (integrates_into): CROSS-008 integrates Swedenborg’s Grand Man anatomy (will/understanding provinces; head/thorax/extremities) as one input.
+
 ---
 
 #### [SWED-022] Swedenborg's Divine Commission (The Delft Theophany)
@@ -2079,6 +2100,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/Swedenborg's Divine Mission Activation.md
+
+**Connections**:
+- → `SWED-002` (developed_by): Doc 5: the Delft commission is framed as a providentially prepared instance of Divine Influx guiding a human vessel into new work.
+- → `SWED-064` (requires): Doc 5: the Delft commission is portrayed as emerging from (and requiring) a preceding period of vastation/crisis.
 
 ---
 
@@ -2358,6 +2383,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
 
+**Connections**:
+- → `SWED-079` (supported_by): Doc 3: Daniel's Rab-mag/Rab-hartummin role transmits messianic prophecy into Magian archives, supporting the Prophetic-Sapiential Synthesis hypothesis.
+
 ---
 
 #### [SWED-044] Will-Understanding Ontological Priority
@@ -2615,6 +2643,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `SWED-003` (developed_by): Vastation develops from World of Spirits
 - → `CONSC-114` (parallels): Frames post-awakening integration struggles as the outward continuation of the crucible/vastation dynamic
+- → `SWED-022` (required_by): Doc 5: the Delft commission is portrayed as emerging from (and requiring) a preceding period of vastation/crisis.
 
 ---
 
@@ -2814,6 +2843,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [P] Numbers 24:17 (Balaam oracle)
 4. [T] data/02_Swedenborgian_Theology/Magi's Principle of Correspondences.md
 
+**Connections**:
+- → `SWED-043` (supports): Doc 3: Daniel's Rab-mag/Rab-hartummin role transmits messianic prophecy into Magian archives, supporting the Prophetic-Sapiential Synthesis hypothesis.
+
 ---
 
 #### [SWED-080] Magian Mēnōg-Gētīg Correspondence Ontology
@@ -2983,6 +3015,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-002` (developed_by): Glorification is the ultimate working of Divine Influx
 - → `BIBL-025` (parallels): Criterion of Temptation identifies footprints of Glorification combats
 - → `SWED-029` (parallels): Divine Marriage archetype reflected in Glorification union
+- → `CROSS-007` (develops): SWED-090’s Glorification mechanism provides the doctrinal basis from which the ‘universal theosis capacity’ hypothesis (CROSS-007) is developed.
 
 ---
 
@@ -4712,6 +4745,9 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/Swedenborg's Ancient Word and Science.md
 
+**Connections**:
+- → `SWED-004` (parallels): Doc 4: deep-time mnemonic/symbolic systems are presented as external analogs that align with (and thus parallel) Swedenborg's Ancient Word hypothesis.
+
 ---
 
 #### [MYTH-004] Genesis 1-11 as Made-Up History
@@ -5309,6 +5345,13 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/Divine Bricolage vs. Swedenborg's Jesus.md
 
+**Connections**:
+- → `SWED-017` (developed_by): CROSS-006 applies SWED-017’s Divine-Bricolage mechanism specifically to Gospel formation, positing a providentially curated ‘Jesus Profile’ as the intended result.
+- → `CROSS-034` (supported_by): Textual stratification in Luke’s resurrection narrative (pneumatic stratum vs later physicalist additions) is used as evidence of editorial layering consistent with a curated Jesus Profile.
+- → `CROSS-036` (supported_by): Historical-critical ‘bedrock’ reconstruction (apocalyptic prophet; crucifixion for sedition) diverges from the theological portrait, evidencing an editorial/theological evolution the hypothesis explains.
+- → `CONSC-021` (supported_by): Being-of-Light identification statistics show naming varies with culture while reported properties remain stable, supporting validation-by-personality rather than label.
+- → `CROSS-035` (supported_by): Personality-profile invariance of the Loving Presence across labels supports the claim that the ‘Theological Jesus’ corresponds to an objectively encountered profile rather than iconographic projection.
+
 ---
 
 #### [CROSS-007] Universal Theosis Capacity (Degree vs. Kind)
@@ -5321,6 +5364,11 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/Divine Bricolage vs. Swedenborg's Jesus.md
 
+**Connections**:
+- → `SWED-090` (developed_by): CROSS-007 extends the Glorification concept (SWED-090) into a ‘degree vs kind’ framing: Jesus as Fullness who opens the pathway for others’ participation.
+- → `CROSS-037` (supported_by): NT theosis texts provide primary-text warrant for the degree/not-kind claim.
+- → `CONSC-021` (supported_by): NDE Being-of-Light statistics are used as phenomenological corroboration that ‘divine encounter’ transcends doctrinal naming and is offered broadly.
+
 ---
 
 #### [CROSS-008] Hemispheric-Faculty Correspondence (Will/Understanding = Master/Emissary)
@@ -5332,6 +5380,10 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/Divine Human Anatomy and Spiritual Correspondence.md
+
+**Connections**:
+- → `SWED-021` (integrated_from): CROSS-008 integrates Swedenborg’s Grand Man anatomy (will/understanding provinces; head/thorax/extremities) as one input.
+- → `CONSC-018` (integrated_from): CROSS-008 integrates McGilchrist’s Master/Emissary hemispheric framework (CONSC-018) as the natural-plane correlate.
 
 ---
 
@@ -5680,18 +5732,26 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 2. [S] Ehrman, Bart D. The Orthodox Corruption of Scripture. Oxford, 1993.
 3. [T] data/02_Swedenborgian_Theology/Divine Bricolage vs. Swedenborg's Jesus.md
 
+**Connections**:
+- → `CROSS-006` (supports): Textual-critical evidence of resurrection-layer editing in Luke supports the Jesus Profile hypothesis as an instance of providential editorial curation.
+
 ---
 
 #### [CROSS-035] NDE Being of Light: Personality Profile Consistency Statistics
 
 **Status**: validated | **Confidence**: 0.775
 
-> Statistical analysis of Near-Death Experience reports (n=3,189 Being of Light encounters from NDERF database) reveals consistent personality characteristics regardless of experiencer's religious background: unconditional love, non-judgment, total acceptance, 'knowing' recognition. Identity attribution varies culturally: 18.9% explicitly identify as Jesus, 22.5% as God, 51.9% as 'Unknown Presence' transcending categories. The 'Unknown Presence' rate is actually stronger evidence for objective reality—the Being exceeds conceptual categories. Consistent personality profile (love, non-judgment) matches the 'Theological Jesus' of Gospel tradition, validating the editorial process that shaped the Jesus profile.
+> Statistical analysis of Being of Light encounters in NDE reports (n=1,881 Light Being encounters from a 6,753-record combined NDERF+IANDS corpus) indicates a consistent personality profile regardless of the experiencer’s religious background: unconditional love, non-judgment, total acceptance, and “knowing” recognition. Identity attribution varies culturally (e.g., “Jesus,” “God,” “Unknown Presence”), but the reported properties remain stable across labels.
+This stability supports the claim that the "Theological Jesus" of the Gospel tradition is a curated profile that corresponds to an objectively encountered Loving Presence, with culture shaping naming rather than the core encounter.
+
 
 **Source Chain**:
-1. [E] NDERF Database. Near-Death Experience Research Foundation. n=3,189 Being of Light encounters analyzed.
+1. [E] NDERF + IANDS structured NDE corpus (n=6,753 total reports; n=1,881 Light Being encounters)
 2. [T] structured-data-analysis/projects/nde/
 3. [T] data/02_Swedenborgian_Theology/Divine Bricolage vs. Swedenborg's Jesus.md
+
+**Connections**:
+- → `CROSS-006` (supports): Cross-cultural invariance of the Loving Presence’s personality profile supports validating the Jesus Profile by phenomenology (personality match) rather than by culturally conditioned naming.
 
 ---
 
@@ -5706,6 +5766,9 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 2. [S] Meier, John P. A Marginal Jew: Rethinking the Historical Jesus. 4 vols. Yale, 1991-2009.
 3. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
 
+**Connections**:
+- → `CROSS-006` (supports): The documented divergence between HCM’s ‘bedrock’ Jesus and the theological portrait supports the claim that an editorial/theological curation process shaped the received Jesus Profile.
+
 ---
 
 #### [CROSS-037] New Testament Theosis Texts: Partakers of Divine Nature
@@ -5719,6 +5782,9 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 2. [P] 2 Peter 1:4 (NA28)
 3. [P] Colossians 2:9 (NA28)
 4. [S] Russell, Norman. The Doctrine of Deification in the Greek Patristic Tradition. Oxford, 2004.
+
+**Connections**:
+- → `CROSS-007` (supports): NT ‘partakers of the divine nature’ / ‘firstborn among many brethren’ texts support the ‘degree vs kind’ theosis-capacity hypothesis.
 
 ---
 

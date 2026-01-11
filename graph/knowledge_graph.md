@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 08:06*
+*Last exported: 2026-01-11 08:13*
 
 ---
 
@@ -11,7 +11,7 @@
 | Metric | Count |
 |--------|-------|
 | Total Nodes | 352 |
-| Total Connections | 266 |
+| Total Connections | 310 |
 | Untraced Claims | 0 |
 
 ### By Status
@@ -177,7 +177,7 @@
 
 #### [CONSC-014] The Volunteer Soul Incarnation (Three-Path Cosmology)
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.853
 
 > A synthesized model distinguishing three purposeful incarnational pathways: (1) The Normative Linear Progression—the default path where a single earthly life serves as a "seed-state" for eternal spiritual development; (2) The Restorative Incarnation—an exceptional path of divine mercy for souls whose development was traumatically interrupted (supported by DOPS data: 70%+ violent death correlation, birthmark correspondences); (3) The Volunteer Soul Incarnation—a pre-incarnate covenant where an advanced consciousness freely chooses physical life for collective service, carrying a "predetermined mission" to introduce higher knowledge or spiritual influence. The profile is grounded in two complementary data streams: "Choice" data (child intermission memories of choosing parents) and "Commission" data (NDE revelations of life purpose).
 
@@ -373,6 +373,9 @@
 6. [S] Newton, M. (1994). Journey of Souls: Case Studies of Life Between Lives. Llewellyn Publications.
 7. [P] Swedenborg, E. (1758). Heaven and Hell §§421-527.
 
+**Connections**:
+- → `CONSC-014` (supports): Commissioning-by-return-reason discrimination (94.2% for 'earthly mission') supports Volunteer Soul Incarnation pathway.
+
 ---
 
 #### [CONSC-025] Volunteer Detection Statistics (10.3% Marker Presence)
@@ -389,6 +392,9 @@
 4. [S] Ring, K. & Valarino, E.E. (1998). Lessons from the Light: What We Can Learn from the Near-Death Experience. Moment Point Press.
 5. [S] Atwater, P.M.H. (2007). The Big Book of Near-Death Experiences. Hampton Roads.
 6. [S] Newton, M. (1994). Journey of Souls: Case Studies of Life Between Lives. Llewellyn Publications.
+
+**Connections**:
+- → `CONSC-014` (supports): Volunteer marker detection (10.3% detected; 92.7% commissioned vs 13.8%) supports mission-oriented volunteer profile within Volunteer Soul Incarnation hypothesis.
 
 ---
 
@@ -408,17 +414,23 @@
 6. [S] Ohkado, M. & Ikegawa, A. (2014). Children with Life-between-Life Memories. Journal of Scientific Exploration, 28(3), 477-490.
 7. [S] Newton, M. (1994). Journey of Souls: Case Studies of Life Between Lives. Llewellyn Publications.
 
+**Connections**:
+- → `CONSC-014` (supports): Volunteer-language subset shows sharply elevated pre-birth indicators, supporting the pre-incarnate covenant/choice dimension of Volunteer Soul Incarnation hypothesis.
+
 ---
 
 #### [CONSC-027] Volunteer Detection vs Soul Path Classification (Methodological Distinction)
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.725
 
 > Critical methodological principle distinguishing marker detection from ontological classification  in volunteer soul research. Key distinctions: (1) Volunteer Detection identifies PRESENCE of  mission-oriented markers in NDE reports—binary signal, not path classification; (2) Soul Path  Classification would require knowledge of the soul's full journey—impossible from NDE snapshot;  (3) Non-detection does NOT establish non-volunteer status—missions may not surface during all NDEs;  (4) Pre-birth awareness during NDE ≠ Ohkado reverse cases (spontaneous child pre-birth recall)— different populations, different methodologies. This distinction prevents over-interpretation  of statistical findings.
 
 
 **Source Chain**:
 1. [T] data/01_Consciousness_Studies/Mission-Based Returns - Discriminant Analysis of Volunteer Soul Phenomenology.md
+
+**Connections**:
+- → `CONSC-014` (develops): Methodological distinction (detection vs classification) develops and constrains Volunteer Soul Incarnation hypothesis interpretation.
 
 ---
 
@@ -430,13 +442,19 @@
 
 
 **Source Chain**:
-1. [E] data/01_Consciousness_Studies/Sequential Structure in NDE - Validating the Threefold Path Model.md
-2. [E] NDERF database (n=5,664)
-3. [E] IANDS database (n=1,089)
-4. [S] Moody, R.A. (1975). Life After Life. Mockingbird Books.
-5. [S] Ring, K. (1980). Life at Death: A Scientific Investigation of the Near-Death Experience. Coward, McCann & Geoghegan.
-6. [S] Greyson, B. (2003). Incidence and correlates of near-death experiences in a cardiac care unit. General Hospital Psychiatry, 25(4), 269-276.
-7. [P] Swedenborg, E. (1758). Heaven and Hell §§421-527.
+1. [T] data/01_Consciousness_Studies/Sequential Structure in NDE - Validating the Threefold Path Model.md
+2. [E] structured-data-analysis/projects/nde/notebooks/02_normative_path_validation.ipynb
+3. [E] NDERF database (n=5,664)
+4. [E] IANDS database (n=1,089)
+5. [S] Moody, R.A. (1975). Life After Life. Mockingbird Books.
+6. [S] Ring, K. (1980). Life at Death: A Scientific Investigation of the Near-Death Experience. Coward, McCann & Geoghegan.
+7. [S] Greyson, B. (2003). Incidence and correlates of near-death experiences in a cardiac care unit. General Hospital Psychiatry, 25(4), 269-276.
+8. [P] Swedenborg, E. (1758). Heaven and Hell §§ 421-527.
+9. [E] data/01_Consciousness_Studies/Sequential Structure in NDE - Validating the Threefold Path Model.md
+10. [P] Swedenborg, E. (1758). Heaven and Hell §§421-527.
+
+**Connections**:
+- → `CONSC-118` (supports): Large-corpus convergence markers (n=6,753) support normative continuation as the default path; rarity of reincarnation indicators implies the complement (~95%).
 
 ---
 
@@ -466,6 +484,11 @@
 **Source Chain**:
 1. [T] data/01_Consciousness_Studies/Sequential Structure in NDE - Validating the Threefold Path Model.md
 
+**Connections**:
+- → `CONSC-094` (integrated_from): Threefold Path synthesis integrates Restorative Incarnation concept
+- → `CONSC-095` (integrated_from): Threefold Path synthesis integrates Volunteer Soul concept
+- → `CONSC-106` (integrated_from): Threefold Path synthesis integrates Afterlife Path Structure concept
+
 ---
 
 #### [CONSC-034] Restorative Incarnation Path: Violent Death Correlation Validated (>70%)
@@ -488,7 +511,7 @@
 
 **Status**: validated | **Confidence**: 0.747
 
-> Critical methodological categorization in DOPS research: Type A cases are recorded AFTER the two families (subject's and previous personality's) meet—retrospective, vulnerable to contamination. Type B cases have written records made BEFORE verification—prospective, eliminating post-hoc distortion. Only 33 of ~2,500 cases (1.3%) meet Type B criteria. Crucially, Type A and Type B show equivalent accuracy rates (78.4% vs 76.7%), suggesting retrospective method does NOT inflate results.
+> Critical methodological categorization in DOPS research: Type A cases are recorded AFTER the two families (subject's and previous personality's) meet—retrospective and vulnerable to post-meeting contamination and post-hoc reconstruction. Type B cases have written records made BEFORE verification—prospective with respect to family-meeting contamination (though not, by itself, ruling out all ordinary acquisition routes). Only 33 of ~2,500 cases (1.3%) meet Type B criteria. Type A and Type B show similar accuracy rates (78.4% vs 76.7%) and Type B includes more statements on average (25.5 vs 18.5), suggesting no evidence of substantial retrospective inflation in these measured metrics (noting the small Type B n).
 
 
 **Source Chain**:
@@ -496,19 +519,25 @@
 2. [E] Stevenson & Samararatne, 'Three New Cases... With Written Records Made Before Verification'
 3. [E] Stevenson, 'Does the Socio-Psychological Hypothesis Explain Cases?'
 
+**Connections**:
+- → `CONSC-020` (supports): Type A/B equivalence strengthens confidence in DOPS-derived pattern claims
+
 ---
 
 #### [CONSC-041] Birthmark/Birth Defect Correspondence (88% Verification Rate)
 
 **Status**: validated | **Confidence**: 0.723
 
-> Physical correlates in 30-35% of DOPS cases: children born with birthmarks or birth defects corresponding to wounds (usually fatal) on the identified previous personality. When medical documentation (autopsy reports) was available, 88% (43/49 cases) showed verified correspondence. Includes 14 documented "double birthmark" cases matching entry/exit bullet wounds. These somatic correlates constitute the "hard biological signal" that cannot be explained by information leakage, cryptomnesia, or parental coaching.
+> Physical correlates in 30-35% of DOPS cases: children born with birthmarks or birth defects corresponding to wounds (usually fatal) on the identified previous personality. When independent medical documentation of the deceased's wounds (e.g., postmortem reports) was available, 88% (43/49 cases) showed verified correspondence. Includes 14 documented "double birthmark" cases matching entry/exit bullet wounds. These somatic correlates are presented as difficult to explain by information leakage, cryptomnesia, or parental coaching alone.
 
 
 **Source Chain**:
 1. [T] data/01_Consciousness_Studies/DOPS Case Verification and Critiques.md
 2. [E] Stevenson, 'Birthmarks and Birth Defects Corresponding to Wounds on Deceased Persons'
 3. [E] Stevenson, 'Reincarnation and Biology' (1997)
+
+**Connections**:
+- → `CONSC-020` (supports): Birthmark/wound correspondences strengthen empirical basis for trauma-linked recall pattern
 
 ---
 
@@ -628,6 +657,9 @@
 2. [E] Ohkado, M., Japanese intermission memory research
 3. [S] Carman & Carman, 'Cosmic Cradle: Spiritual Dimensions of Life Before Birth' (2013)
 
+**Connections**:
+- → `CONSC-121` (supports): Ohkado 'reverse cases' show intermission/pre-birth memories can occur without past-life recall, consistent with under-detected non-cyclic cohorts.
+
 ---
 
 #### [CONSC-049] Veridical Pre-Existence (VPE): Perinatal Verification Protocol
@@ -642,6 +674,9 @@
 2. [E] Rivas, Dirven & Smit, 'Paranormal Aspects of Pre-Existence Memories'
 3. [S] Carman & Carman, 'Cosmic Cradle' (2013)
 
+**Connections**:
+- → `CONSC-121` (supports): VPE/perinatal verification provides a verification pathway for pre-existence-type cases outside PP tracing.
+
 ---
 
 #### [CONSC-050] COPET Proposal: Cases of Pre-Existence Type Methodology
@@ -655,6 +690,9 @@
 1. [T] data/01_Consciousness_Studies/Reincarnation Methodology Selection Artifact.md
 2. [E] Ohkado, M., Reverse Cases research
 3. [E] Rivas, Dirven & Smit, VPE research
+
+**Connections**:
+- → `CONSC-121` (supports): COPET proposal formalizes a complementary research design explicitly aimed at capturing the under-detected cohort.
 
 ---
 
@@ -716,11 +754,14 @@
 7. [S] Schilder et al., 'Psychological Changes Preceding Spontaneous Remission'
 8. [P] Swedenborg, correspondences doctrine (various works)
 
+**Connections**:
+- → `CONSC-119` (supports): 569-case analysis: in clear-order testimonial subset (n=138), 85.5% transformation precedes healing (χ²=69.59; p<0.001), supporting transformation-first timing.
+
 ---
 
 #### [CONSC-055] McGilchrist Hemispheric Asymmetry Research
 
-**Status**: validated | **Confidence**: unknown
+**Status**: validated | **Confidence**: 0.885
 
 > Iain McGilchrist's 'The Master and His Emissary' (2009) synthesized extensive neurological 
 research on hemispheric asymmetry. Drawing on split-brain studies, lesion data, neuroimaging, and 
@@ -747,6 +788,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [S] Rabitti E, Cavuto S, et al. 'Hospice Patients' End-of-Life Dreams and Visions: A Systematic Review.' Am J Hosp Palliat Care. 2024;41(1):99-112 (PMC10710003)
 3. [T] data/01_Consciousness_Studies/Understanding the Dying Process.md
 
+**Connections**:
+- → `CONSC-043` (supports): Structured end-of-life dreams/visions are cited as part of the broader inadequacy of purely dying-brain models
+
 ---
 
 #### [CONSC-057] Terminal Lucidity: Consciousness Without Neuronal Substrate
@@ -764,11 +808,14 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 5. [W] UVA DOPS terminal lucidity paper [PDF - manual verification needed]
 6. [T] data/01_Consciousness_Studies/Understanding the Dying Process.md
 
+**Connections**:
+- → `CONSC-043` (supports): Terminal lucidity provides an anomaly used in the DBH critique
+
 ---
 
 #### [CONSC-058] Filter/Transmission Theory of Consciousness - Critique
 
-**Status**: contested | **Confidence**: 0.499
+**Status**: contested | **Confidence**: 0.05
 
 > The hypothesis that the brain functions as a filter, receiver, or reducing valve for consciousness rather than its generator (Production Theory). Originally proposed by William James and Henri Bergson, this model attempts to explain paradoxes like terminal lucidity and NDE hyper-lucidity. However, filter theory PRESERVES Cartesian dualism by maintaining two separate substances—consciousness (transmitted) and brain (transmitter). This framework rejects filter theory in favor of correspondence ontology: the brain does not filter consciousness; the brain IS consciousness expressed in ultimates. Physical substance is not separate from spiritual substance—it is direct expression.
 
@@ -782,7 +829,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Status**: validated | **Confidence**: 0.6
 
-> Shared Death Experiences occur when healthy bystanders (family, caregivers) share phenomenological elements of a dying person's transition—reporting room filling with light, mist/vapor leaving the body, feeling lifted out of their own bodies, tunnel passage, or seeing the 'welcoming committee' of deceased relatives. Research by William Peters and the Shared Crossing Project demonstrates that over 60% of SDEs occur remotely (experiencer not physically present with the dying person), strongly refuting 'contagion' or sensory cue explanations.
+> Shared Death Experiences occur when healthy bystanders (family members or caregivers) report sharing phenomenological elements of a dying person’s transition—room filling with light, mist/vapor leaving the body, feeling lifted out of their own bodies, tunnel passage, or seeing a “welcoming committee” of deceased relatives. Reports also include remote SDEs (experiencers not physically present with the dying person), which—if substantiated—would strengthen the case that SDEs are not reducible to bedside sensory cues.
 
 
 **Source Chain**:
@@ -790,6 +837,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [S] Moody, Raymond. 'Glimpses of Eternity' (2010)
 3. [W] https://www.sharedcrossing.com/a-glimpse-beyond-the-threshold-sdes-self-study
 4. [T] data/01_Consciousness_Studies/Understanding the Dying Process.md
+
+**Connections**:
+- → `CONSC-043` (supports): SDE reports are treated as anomalies that DBH mechanisms struggle to explain
 
 ---
 
@@ -802,6 +852,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Source Chain**:
 1. [T] data/01_Consciousness_Studies/Understanding the Dying Process.md
+
+**Connections**:
+- → `CONSC-110` (integrates_into): Integrates Nearing Death Awareness (NDA) features into the transition model
 
 ---
 
@@ -819,13 +872,17 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-062] Purposive Economy Principle: Light Engagement Calibrated to Need
 
-**Status**: validated | **Confidence**: 0.9
+**Status**: validated | **Confidence**: 0.565
 
 > The Purposive Economy hypothesis posits that Being of Light encounters are not randomly distributed but are calibrated to experiencer need. Those returning with explicit missions (volunteer souls) require more intensive ontological affirmation than those on normative paths. Statistical analysis (n=6,753 NDERF corpus) finds mission returners have 4.38× higher odds of Being of Light encounter than non-mission returners (OR=4.38, p<10⁻⁴⁶). This supports a model where spiritual resources (Light encounters) flow according to purposive logic rather than arbitrary distribution.
 
 
 **Source Chain**:
 1. [T] data/01_Consciousness_Studies/The East-West NDE Dichotomy - Challenging Cultural Paradigms Through Empirical Analysis.md
+
+**Connections**:
+- → `CONSC-111` (developed_by): 
+- → `CONSC-066` (supported_by): 
 
 ---
 
@@ -839,6 +896,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [E] NDERF + IANDS corpus statistical analysis (n=6,753)
 2. [T] data/01_Consciousness_Studies/The East-West NDE Dichotomy - Challenging Cultural Paradigms Through Empirical Analysis.md
+
+**Connections**:
+- → `CONSC-068` (supports): 
 
 ---
 
@@ -854,17 +914,23 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [T] data/01_Consciousness_Studies/The East-West NDE Dichotomy - Challenging Cultural Paradigms Through Empirical Analysis.md
 3. [P] Swedenborg, Heaven and Hell §§ 429-430
 
+**Connections**:
+- → `CONSC-122` (supports): 
+
 ---
 
 #### [CONSC-065] Spectrum of Personification: Light as Functional Interface (Levels 0-5)
 
-**Status**: validated | **Confidence**: 0.768
+**Status**: validated | **Confidence**: 0.3
 
 > A six-level taxonomy of Being of Light encounters calibrated to functional purpose rather than cultural origin. Level 0 (Void/Blackness): Pure consciousness, ego dissolution, rest/reboot function. Level 1 (Atmospheric Light): Ambient brilliance, warmth, sanctuary/transition—the dominant mode globally (40.9% Western, majority Japanese). Level 2 (Disembodied Voice): Auditory command without visual form; "low-bandwidth commission." Level 3 (Ancestral Guide): Deceased relatives providing reassurance/escort or boundary enforcement. Level 4 (Abstract Entity): "Orb of Light," "Machine of Light," "Universal Mind"—systemic knowledge transfer, common with scientist experiencers. Level 5 (Personified Being): Humanoid form, face-to-face dialogue, reserved for high-stakes commissioning (life review, mission assignment). The Light chooses its level of engagement based on functional need, not cultural expectation.
 
 
 **Source Chain**:
 1. [T] data/01_Consciousness_Studies/The Ontology of the Interface_ A Comprehensive Validation of the Purposive Economy Hypothesis Through Cross-Cultural NDE Phenomenology.md
+
+**Connections**:
+- → `CONSC-111` (developed_by): 
 
 ---
 
@@ -883,11 +949,15 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 5. [W] https://www.reddit.com/r/nonmurdermysteries/comments/lz0081/
 6. [W] https://www.scribd.com/document/21070494/Creating-the-value-of-life-Dr-Fumihiko-Iida
 
+**Connections**:
+- → `CONSC-062` (supports): 
+- → `CONSC-068` (supports): 
+
 ---
 
 #### [CONSC-067] Adaptive Agency: Light Exhibits Meta-Cognitive Awareness
 
-**Status**: validated | **Confidence**: 0.853
+**Status**: validated | **Confidence**: 0.3
 
 > Evidence that the Being of Light is not a passive projection or culturally-constructed own interface nature. Key evidence: (1) Mellen-Thomas Benedict case: When asked why it was shifting forms (Jesus to Buddha to Krishna), the Light EXPLAINED: "Your beliefs shape the kind of feedback you are getting"—a passive projection cannot explain itself. (2) Ian McCormack case: Light actively intervened by initiating dialogue ("Ian, do you wish to return?") and offering transformative guidance ("If you wish to return you must see in a new light")—demonstrating agenda independent of experiencer's psychology. This supports the Light as a "chooser of form" rather than a form projected by the experiencer.
 
@@ -895,17 +965,25 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [T] data/01_Consciousness_Studies/The Ontology of the Interface_ A Comprehensive Validation of the Purposive Economy Hypothesis Through Cross-Cultural NDE Phenomenology.md
 
+**Connections**:
+- → `CONSC-111` (developed_by): 
+
 ---
 
 #### [CONSC-068] East-West NDE Dichotomy: Dual Construction Thesis
 
-**Status**: validated | **Confidence**: 0.838
+**Status**: validated | **Confidence**: 0.825
 
 > The thesis that the "East-West NDE Dichotomy" is not a phenomenological reality but a dual scholarly construction—both the "Western" profile (personified Being, tunnels, life reviews) and the "Eastern" profile (impersonal light, nature imagery, no judgment) are artifacts of selection bias, paradigmatic assumptions, and insufficient sample sizes. Evidence: (1) Western data falsifies Western profile: impersonal light (40.9%) dominates over Being of Light (11.8%); nature settings (17.0%) exceed urban settings (11.4%). (2) Eastern data falsifies Eastern profile: mission cases (Iida, Suzuki, Kiuchi) show personification, dialogue, and life review content indistinguishable from Western patterns. (3) Sample correction: Early Japanese research (Tachibana n=22) was too small to capture rare mission cases; internet era exposes full phenomenological range. The dichotomy has been "weaponized by materialist reductionism" to argue NDEs are cultural hallucinations; this analysis removes that weapon.
 
 
 **Source Chain**:
 1. [T] data/01_Consciousness_Studies/The Ontology of the Interface_ A Comprehensive Validation of the Purposive Economy Hypothesis Through Cross-Cultural NDE Phenomenology.md
+
+**Connections**:
+- → `CONSC-111` (developed_by): 
+- → `CONSC-063` (supported_by): 
+- → `CONSC-066` (supported_by): 
 
 ---
 
@@ -1218,12 +1296,17 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-094] Restorative Incarnation
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.765
 
 > Reincarnation type for souls whose lives were traumatically interrupted (violent/early death), allowing completion of seed-state.
 
 **Source Chain**:
 1. [T] data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md
+
+**Connections**:
+- → `SWED-003` (developed_by): Restorative incarnation develops from World of Spirits post-mortem journey
+- → `CONSC-020` (develops): Hypothesis of 70% violent death pattern develops from Restorative Incarnation concept
+- → `CONSC-030` (integrates_into): Threefold Path synthesis integrates Restorative Incarnation concept
 
 ---
 
@@ -1235,6 +1318,13 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Source Chain**:
 1. [T] data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md
+
+**Connections**:
+- → `SWED-003` (developed_by): Volunteer Soul develops from World of Spirits post-mortem journey
+- → `CONSC-014` (develops): Volunteer Soul hypothesis develops from Volunteer Soul concept
+- → `CONSC-030` (integrates_into): Threefold Path synthesis integrates Volunteer Soul concept
+- → `CONSC-083` (required_by): Pre-Incarnate Covenant requires Volunteer Soul concept
+- → `CONSC-088` (required_by): Phenomenological Intensity requires Volunteer Soul concept
 
 ---
 
@@ -1472,7 +1562,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-111] Modular NDE Phenomenology (Toolkit Model)
 
-**Status**: preliminary | **Confidence**: 0.695
+**Status**: preliminary | **Confidence**: 0.761
 
 > Near-death experiences can be modeled as modular combinations of recurring phenomenological components (e.g., separation phenomena, OBE, transitional spaces such as tunnel/void, encounters with beings, life review, boundary, return), with significant variation arising from which modules appear, in what order, and with what emotional tone.
 
@@ -1511,7 +1601,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-113] Revelatory Intervention Beyond NDEs (SSA/NDE-like Activation)
 
-**Status**: preliminary | **Confidence**: 0.3
+**Status**: preliminary | **Confidence**: 0.725
 
 > The Stage-3 “Revelatory Intervention” or commissioning event in the volunteer-call narrative is argued to occur outside near-death contexts (e.g., spontaneous spiritual awakenings and NDE-like experiences), implying the activation is not dependent on near-death physiology.
 
@@ -1527,7 +1617,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-114] Post-Call Integration Friction (Called-Soul vs. World)
 
-**Status**: preliminary | **Confidence**: 0.3
+**Status**: preliminary | **Confidence**: 0.725
 
 > After the activation event, experiencers report durable transformation of purpose and values alongside predictable integration challenges (ineffability, invalidation/alienation, life disruption, and new sensitivities). The document frames this struggle as an externalized continuation of the “crucible/vastation” dynamic, with integration reportedly aided more by meaning-making and spiritual practices than by standard psychiatric framing.
 
@@ -1544,7 +1634,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-115] Preparatory Longing Trait Signature (Openness/Spirituality/Symbolic Cognition)
 
-**Status**: preliminary | **Confidence**: 0.3
+**Status**: preliminary | **Confidence**: 0.725
 
 > The document proposes that individuals who undergo the commissioning/activation event tend to show a readiness profile (e.g., spirituality orientation, openness to experience, vivid symbolic cognition), interpreted as empirical correlates of the Stage-1 “Longing for Truth” preparation.
 
@@ -1593,7 +1683,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-118] Normative Continuation Hypothesis (Default Continuation Path)
 
-**Status**: preliminary | **Confidence**: 0.3
+**Status**: preliminary | **Confidence**: 0.792
 
 > Continuation to post-mortem spiritual existence is the default trajectory for most souls. Reincarnation-type returns are exceptional and identifiable via explicit indicators (e.g., past-life memory, intermission memory, pre-incarnate covenant language). In large NDE corpora, the rarity of such indicators implies a high-frequency normative continuation path.
 
@@ -1609,7 +1699,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-119] Transformation-First Healing Hypothesis (Spontaneous Remission Timing)
 
-**Status**: preliminary | **Confidence**: 0.3
+**Status**: preliminary | **Confidence**: 0.715
 
 > In spontaneous remission cases where both psycho-spiritual transformation and physical healing occur, transformation events tend to precede the onset of remission more often than would be expected by chance. This temporal asymmetry supports the correspondential prediction that changes in will/meaning-state are prior to changes in bodily ultimates (without, by itself, proving causation).
 
@@ -1641,7 +1731,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-121] CORT Trauma Filter Hypothesis (Non-Cyclic Cohort Under-Detection)
 
-**Status**: preliminary | **Confidence**: 0.807
+**Status**: preliminary | **Confidence**: 0.897
 
 > The CORT paradigm (and SOCS-style strength metrics) functions as a trauma-weighted filter: cases with violent/premature death and verifiable prior-personality details are more likely to be detected, investigated, and scored as "strong". As a result, reincarnation research datasets may overrepresent trauma-linked Restorative Incarnation returns and underrepresent (or exclude) non-cyclic/pre-existence profiles (e.g., intermission-only "reverse cases" and mission/volunteer-type entries) that lack a traceable Previous Personality.
 
@@ -1660,7 +1750,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-122] Boundary Correspondence Hypothesis (Return Decision Expressed as Boundary Imagery)
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.825
 
 > NDE boundary imagery is not a fixed “point of no return” in afterlife geography but a correspondence of the return decision itself. When the return is initiated externally (“they sent me back”), experiencers more often report externalized boundary forms (physical barriers, enforced limits). When the return is self-chosen, experiencers more often report internalized boundary forms (thresholds, crossings, felt decision points). This hypothesis operationalizes the correspondence principle for boundary phenomena and predicts stable mapping between boundary type and return agency across large NDE corpora.
 
@@ -1733,7 +1823,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-003] World of Spirits and Post-Mortem Journey
 
-**Status**: validated | **Confidence**: 0.595
+**Status**: validated | **Confidence**: 0.65
 
 > The intermediate realm between heaven and hell where souls arrive after death. A period of orientation and unveiling where external pretenses are stripped away, the ruling love becomes manifest, and souls freely gravitate toward spiritual societies matching their internal state. Not punishment but sorting.
 
@@ -2175,7 +2265,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-039] 1 Enoch as Ancient Word Fragment (Validation Case)
 
-**Status**: validated | **Confidence**: 0.73
+**Status**: validated | **Confidence**: 0.3
 
 > A comprehensive validation case demonstrating that 1 Enoch, specifically the Book of  Parables (37-71), Astronomical Book (72-82), and Animal Apocalypse (85-90), survives  rigorous Swedenborgian stress tests and functions semiotically as a "Representative  Text"—a fragment of the Ancient Word preserved through textual transmission. Three  major tests passed: (1) UNIFORMITY TEST: Son of Man controversy resolved via  Representation doctrine; (2) ASTRONOMICAL TEST: 364-day calendar decoded as Sabbatical  Theology (State over Time); (3) COMPILATION TEST: Animal Apocalypse preserves church  cycle despite redaction. 1 Enoch is a "Broken Tablet" whose jagged edges fit precisely  into gaps of Swedenborgian spiritual history—a "Testament of the Celestial Church."
 
@@ -2211,7 +2301,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-042] Alexander's Catastrophe (Damdat Nask Destruction)
 
-**Status**: validated | **Confidence**: 0.9
+**Status**: validated | **Confidence**: 0.3
 
 > The historical rupture of 330 BCE when Alexander the Great's forces destroyed  the Persepolis royal archives. CRITICAL DISTINCTION: Scholarly consensus holds the AVESTA was an ORAL corpus during the Achaemenid period—Alexander did not  burn a written "Zoroastrian Bible." The "12,000 ox-hides with gold ink" is  ZOROASTRIAN HAGIOGRAPHY (Arda Viraf Namag, Denkard) serving ideological purposes. WHAT WAS DESTROYED: Archaeological evidence confirms parchment/leather  administrative documents were incinerated (bullae impressions prove this). The  "Damdat Nask" content survived via ORAL TRANSMISSION through the Zand tradition,  eventually recorded in the Bundahišn (9th c. CE). Mary Boyce's argument: the  "burning" metaphorically refers to slaughter of Magi who were "living books."
 
@@ -2223,7 +2313,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-043] Daniel as Rab-hartummin (Prophetic-Sapiential Synthesis)
 
-**Status**: validated | **Confidence**: 0.9
+**Status**: validated | **Confidence**: 0.3
 
 > The historical-theological significance of Daniel's position as RAB-HARTUMMIN  (Chief of the Magicians/Scribes) and RAB-SIGNĪN (Chief Prefect) over the wise  men of Babylon (Dan 2:48, 5:11). NOTE: Daniel is NEVER called "Rab-mag" in  the biblical text—that title belongs exclusively to Nergal-sharezer in Jeremiah  39:3. Daniel received training in "the learning and tongue of the Chaldeans"  (Dan 1:4). Critical scholarship dates the book's final redaction to 167-164 BCE  (Maccabean period), with Court Tales (Dan 1-6) preserving older Persian-era  traditions. Daniel functions as a literary "synthesis figure" bridging  PROPHETIC revelation and SAPIENTIAL tradition, demonstrating the God of Heaven  as the true "Revealer of Mysteries" through correspondential imagery.
 
@@ -2243,6 +2333,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/Correspondential Framework for Illness and Healing.md
 
+**Connections**:
+- → `SWED-002` (developed_by): Illness/healing framework derives will-understanding priority from influx ontology
+- → `SWED-047` (develops): Normative definition of True vs Physical Healing follows will/understanding causal priority
+
 ---
 
 #### [SWED-045] Will as Receptive, Not Productive (Vulnerability Model)
@@ -2255,11 +2349,15 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/Correspondential Framework for Illness and Healing.md
 
+**Connections**:
+- → `SWED-002` (developed_by): Illness/healing framework derives vulnerability (receptive will) from influx dynamics
+- → `SWED-046` (develops): Organ-faculty correspondence hypothesis extends the vulnerability model to specific organ systems
+
 ---
 
 #### [SWED-046] Organ-Faculty Correspondence Hypothesis
 
-**Status**: preliminary | **Confidence**: 0.761
+**Status**: preliminary | **Confidence**: 0.3
 
 > HYPOTHESIS: Specific organ systems correspond to specific spiritual faculties,  such that disorders of the faculty create vulnerability in the corresponding  organ. This extends Swedenborg's documented heart-will / lungs-understanding  correspondence to other organ systems. The hypothesis is TESTABLE through  systematic analysis of disease-transformation correlations: if digestive  disorders correlate with difficulties processing/integrating truth, and healing  correlates with resolution of those difficulties, the hypothesis gains support.
 
@@ -2267,17 +2365,23 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/Correspondential Framework for Illness and Healing.md
 
+**Connections**:
+- → `SWED-045` (developed_by): Organ-faculty correspondence hypothesis extends the vulnerability model to specific organ systems
+
 ---
 
 #### [SWED-047] True Healing vs Physical Healing (Normative Definition)
 
-**Status**: validated | **Confidence**: 0.757
+**Status**: validated | **Confidence**: 0.3
 
 > NORMATIVE DEFINITION within the correspondential framework: "True Healing" is  spiritual transformation—the reorientation of the will toward the Divine and  the integration of the understanding with truth. "Physical Healing" (curing)  is the reorganization of the body's ultimates. True Healing may or may not  produce Physical Healing; Physical Healing without True Healing is superficial  and temporary. Death is NOT a failure of healing—it is the shedding of what  was never truly the person (the natural body), leaving the spiritual body whole.  This reframes therapeutic goals: the aim is True Healing, of which physical  cure is a frequent but not guaranteed correlate.
 
 
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/Correspondential Framework for Illness and Healing.md
+
+**Connections**:
+- → `SWED-044` (developed_by): Normative definition of True vs Physical Healing follows will/understanding causal priority
 
 ---
 
@@ -2290,6 +2394,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Source Chain**:
 1. [T] data/01_Consciousness_Studies/Understanding the Dying Process.md
+
+**Connections**:
+- → `CONSC-110` (integrates_into): Integrates Swedenborgian death-physiology correspondences into the transition model
 
 ---
 
@@ -2366,7 +2473,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-054] Developmental Continuity: Child Maturation Thesis
 
-**Status**: preliminary | **Confidence**: 0.764
+**Status**: preliminary | **Confidence**: 0.3
 
 > The statue's discrete metal sections are metaphorical artifacts forcing sharp divisions onto continuous organic spiritual development. Like measuring child growth in "age brackets" (infant, toddler, child, adolescent, adult), the churches represent stages of consciousness maturation: Most Ancient=childhood (innocence, dependency, internal perception), Ancient=maturation (struggle begins, conscience forms), Jewish=adolescence (self-definition against parent, thinks it's independent), Christian=late adolescence (displacement, claims everything as self), New Church=adulthood (recognition all is from Lord). Each stage flows naturally from the previous through seamless organic transformation, not discrete replacement. The iron-clay wasn't failure but necessary adolescent stage where humanity had to believe itself independent before genuine reunion possible.
 
@@ -2378,7 +2485,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-055] Prophecy as Perception of Eternal Truth
 
-**Status**: preliminary | **Confidence**: 0.853
+**Status**: preliminary | **Confidence**: 0.3
 
 > Ancient prophecies (Saoshyant, Messiah) perceive eternal truth—the Lord as He expresses through unobstructed humanity—not temporal future events. Saoshyant and similar figures are ARCHETYPES (states of pure love and truth) not biographical predictions. Prophets perceive spiritual reality upward and write it correspondentially: virgin birth = pure reception without proprium, celestial sign = spiritual light appearing, defeat of evil = proprium conquered. Gospel writers IMPOSED these correspondences onto proto-Luke narratives to express spiritual truth through Jesus—historically inaccurate but correspondentially TRUE. Prophecies are "self-fulfilling" because truth grounds itself: spiritual reality (Lord as He eternally IS) progresses toward expression in ultimates. Knowing truth = knowing "future" because reality moves toward truth grounding. Jesus demonstrated complete expression (zero obstruction), making visible what was always true. NDE experiencers recognize the Being of Light because they perceive the same eternal Lord expressing.
 
@@ -2390,7 +2497,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-056] Divine Human as Lord Expressing: Jesus Demonstration
 
-**Status**: preliminary | **Confidence**: 0.765
+**Status**: preliminary | **Confidence**: 0.3
 
 > Jesus demonstrates complete expression of what is universally true: the Lord continuously expressing through aligned souls. The difference is degree (zero obstruction) not kind (divine vs. human category). There is no distinction between Jesus and the Lord because the expression IS what we perceive—not the vessel in itself but the Lord expressing through it. Every act of love through any person IS the Lord expressing. "There is no image apart from the Lord" (Epistle on Divine Marriage). Jesus IS the Divine Human because the Lord fully expresses through him—not two things (Jesus + divinity) but ONE: the Lord in ultimates through unobstructed humanity. An angel who expresses the Lord is not the Lord in itself, but the expression is what we perceive, not the angel in itself. Degree varies by obstruction; SOURCE always the Lord.
 
@@ -2402,7 +2509,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-057] Stone and Statue: Internal vs Indirect Perception
 
-**Status**: preliminary | **Confidence**: 0.765
+**Status**: preliminary | **Confidence**: 0.3
 
 > The statue represents indirect perception—humanity perceiving the Lord THROUGH external structures (doctrines, rituals, images) rather than internally. This mediation is NECESSARY for consciousness not yet capable of direct reception. The stone represents internal perception—direct reception of the Lord from heart, "not by hands" (not by power of ultimates). When stone strikes feet, the statue becomes "like chaff from summer threshing-floors"—the HARVEST metaphor: grain (received good) preserved eternally, chaff (empty delivery mechanisms) carried away by wind (truth), "no place found" = absence of need. Not judgment but completion: external forms served their purpose mediating truth until internal perception could awaken. Stone grows into mountain (Divine Love) filling earth (church as inner state). Maturation from indirect to direct perception, not destruction.
 
@@ -3083,7 +3190,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [BIBL-023] Gospel Genre Consensus (Burridge Study)
 
-**Status**: validated | **Confidence**: unknown
+**Status**: validated | **Confidence**: 0.815
 
 > Richard Burridge's landmark study 'What Are the Gospels?' (1992, 2nd ed. 2004) established 
 scholarly consensus that the canonical Gospels belong to the Greco-Roman biography (bioi) genre. 
@@ -3099,7 +3206,7 @@ Burridge demonstrated Gospel conformity to ancient biographical conventions.
 
 #### [BIBL-024] Troeltsch Historical Method Principles
 
-**Status**: validated | **Confidence**: unknown
+**Status**: validated | **Confidence**: 0.737
 
 > Ernst Troeltsch's methodological principles (criticism, analogy, correlation) established 
 the foundation for modern historical-critical biblical scholarship. Published in 'Über historische 
@@ -3458,7 +3565,7 @@ events exist in causal networks.
 
 #### [EARLY-018] Bauer Thesis: Diversity Preceding Orthodoxy
 
-**Status**: validated | **Confidence**: unknown
+**Status**: validated | **Confidence**: 0.815
 
 > Walter Bauer's 'Orthodoxy and Heresy in Earliest Christianity' (1934/1971) demonstrated 
 that early Christianity was characterized by diversity, not uniformity. In regions like Edessa and Egypt, 
@@ -3854,7 +3961,7 @@ popularized and extended this thesis with additional evidence.
 
 #### [GNOS-017] Pagels Gnostic Paul Analysis
 
-**Status**: validated | **Confidence**: unknown
+**Status**: validated | **Confidence**: 0.69
 
 > Elaine Pagels' 'The Gnostic Paul' (1975) documented how Valentinian Gnostics interpreted 
 Paul's letters as esoteric teaching distinguishing pneumatics from psychics. Pagels analyzed 
@@ -3870,7 +3977,7 @@ hidden wisdom, rulers of this age, god of this world).
 
 #### [GNOS-018] Nag Hammadi Library Primary Evidence
 
-**Status**: validated | **Confidence**: unknown
+**Status**: validated | **Confidence**: 0.815
 
 > The Nag Hammadi Library, discovered in 1945, contains 13 codices with 52 texts providing 
 primary evidence for Gnostic thought. Key texts include Gospel of Thomas, Gospel of Philip, 
@@ -4243,7 +4350,7 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 
 #### [MYTH-020] Halbwachs Collective Memory Framework
 
-**Status**: validated | **Confidence**: unknown
+**Status**: validated | **Confidence**: 0.719
 
 > Maurice Halbwachs' foundational work 'On Collective Memory' (1925/1950) established 
 that memory is socially constructed. Groups maintain shared memories through commemorative 

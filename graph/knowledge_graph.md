@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 07:17*
+*Last exported: 2026-01-11 07:28*
 
 ---
 
@@ -10,20 +10,20 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 347 |
-| Total Connections | 242 |
+| Total Nodes | 348 |
+| Total Connections | 245 |
 | Untraced Claims | 0 |
 
 ### By Status
 
-- **preliminary**: 66
+- **preliminary**: 67
 - **validated**: 274
 - **contested**: 7
 
 ### By Domain
 
 - **Biblical Scholarship** (BIBL): 33
-- **Consciousness Studies** (CONSC): 101
+- **Consciousness Studies** (CONSC): 102
 - **Cross-Domain** (CROSS): 39
 - **Early Christian History** (EARLY): 30
 - **The Gnostic Impulse** (GNOS): 26
@@ -1392,6 +1392,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-003` (developed_by): Afterlife Path Structure develops from World of Spirits post-mortem journey
 - → `CONSC-030` (integrates_into): Threefold Path synthesis integrates Afterlife Path Structure concept
 - → `CONSC-110` (integrates_into): Integrates post-mortem path structure with pre-death transition sequence
+- → `CONSC-118` (develops): Operationalizes the 'normative path' claim (default continuation) from Afterlife Path Structure.
 
 ---
 
@@ -1464,7 +1465,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-111] Modular NDE Phenomenology (Toolkit Model)
 
-**Status**: preliminary | **Confidence**: 0.665
+**Status**: preliminary | **Confidence**: 0.695
 
 > Near-death experiences can be modeled as modular combinations of recurring phenomenological components (e.g., separation phenomena, OBE, transitional spaces such as tunnel/void, encounters with beings, life review, boundary, return), with significant variation arising from which modules appear, in what order, and with what emotional tone.
 
@@ -1575,6 +1576,22 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `CONSC-111` (developed_by): Modular/toolkit model: diverse imagery forms map onto stable functions/outcomes
 - → `SWED-035` (developed_by): Methodological framing: operationalizes correspondential validation as a falsifiable mapping from form to function
 - → `CONSC-045` (supported_by): Cross-cultural and cross-form convergence supports constant-state/variable-form mapping
+
+---
+
+#### [CONSC-118] Normative Continuation Hypothesis (Default Continuation Path)
+
+**Status**: preliminary | **Confidence**: 0.3
+
+> Continuation to post-mortem spiritual existence is the default trajectory for most souls. Reincarnation-type returns are exceptional and identifiable via explicit indicators (e.g., past-life memory, intermission memory, pre-incarnate covenant language). In large NDE corpora, the rarity of such indicators implies a high-frequency normative continuation path.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Sequential Structure in NDE - Validating the Threefold Path Model.md
+
+**Connections**:
+- → `CONSC-106` (developed_by): Operationalizes the 'normative path' claim (default continuation) from Afterlife Path Structure.
+- → `CONSC-028` (supported_by): Large-corpus convergence markers (n=6,753) support normative continuation as the default path; rarity of reincarnation indicators implies the complement (~95%).
 
 ---
 
@@ -2026,7 +2043,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-035] Correspondential Validation Methodology (Word vs Writings Filter)
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.659
 
 > A rigorous three-criteria empirical test that transforms the Doctrine of  Correspondences from axiomatic claim into falsifiable hermeneutic filter. Tests  whether a text exhibits the structural properties of "The Word" (immediate  inspiration, infinite internal sense) versus "The Writings" (mediate inspiration,  author's meaning). The methodology distinguishes MYTHOS mode (correspondential  images as container/content) from LOGOS mode (naked abstract doctrine).
 

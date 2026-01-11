@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 14:30*
+*Last exported: 2026-01-11 14:56*
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 374 |
-| Total Connections | 562 |
+| Total Nodes | 376 |
+| Total Connections | 582 |
 | Untraced Claims | 0 |
 
 ### By Status
 
-- **preliminary**: 88
+- **preliminary**: 90
 - **validated**: 279
 - **contested**: 7
 
@@ -27,7 +27,7 @@
 - **Cross-Domain** (CROSS): 39
 - **Early Christian History** (EARLY): 36
 - **The Gnostic Impulse** (GNOS): 26
-- **Mythological Studies** (MYTH): 37
+- **Mythological Studies** (MYTH): 39
 - **Swedenborgian Theology** (SWED): 88
 
 ---
@@ -39,7 +39,7 @@
 
 #### [CONSC-001] Consciousness-Driven Evolution (CDE) - Consciousness as Causal Force
 
-**Status**: validated | **Confidence**: 0.591
+**Status**: validated | **Confidence**: 0.7
 
 > Consciousness is the fundamental, active force in reality—not an epiphenomenal byproduct of neural activity. In cultural evolution, the collective "ruling love" of a population creates selective pressures that push societies along one of two evolutionary trajectories: toward coherence/unity (love of neighbor) or fragmentation/conflict (love of self). CDE is the empirical face of the Swedenborgian influx doctrine: consciousness flows from spiritual source and shapes physical expression.
 
@@ -1315,7 +1315,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-095] Volunteer Soul
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.725
 
 > Reincarnation type where an advanced soul chooses to return for specific service mission.
 
@@ -1454,7 +1454,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-104] Spiritual-Physical Healing Correspondence
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.608
 
 > Under correspondence ontology, spiritual transformation IS physical healing—not spiritual causing physical, not spiritual manifesting as physical, but ONE EVENT perceived at different levels. When the spiritual cause changes, the physical effect must reorganize to match. The body, having no independent life, obeys the spiritual substance animating it. "The blind see, the lame walk" in the Gospels describes spiritual states being transformed, which IS physical transformation. This concept operationalizes CROSS-011 (Correspondence Ontology) specifically for healing phenomena, providing the conceptual bridge between the foundational ontology and testable hypotheses about organ-faculty correspondences.
 
@@ -1481,7 +1481,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-106] Afterlife Path Structure
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.673
 
 > The operationalized model of the standard post-mortem trajectory: (1) THE PASSAGE - the orderly, peaceful separation from the body and travel toward light, correlating with Swedenborg's angelic reception designed to prevent ontological shock; (2) THE ORIENTATION - arrival in earthly-like settings (World of Spirits), a divine provision for acclimatization before spiritual sorting; (3) THE UNVEILING - the Life Review as divinely engineered psycho-spiritual technology that makes the ruling love (amor regnans) irrefutably manifest to the soul; (4) THE INTEGRATION - the free gravitational sorting into spiritual societies matching internal state. This is the "Normative Path" - the standard trajectory for most souls (~95%).
 
@@ -1566,7 +1566,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-111] Modular NDE Phenomenology (Toolkit Model)
 
-**Status**: preliminary | **Confidence**: 0.761
+**Status**: preliminary | **Confidence**: 0.791
 
 > Near-death experiences can be modeled as modular combinations of recurring phenomenological components (e.g., separation phenomena, OBE, transitional spaces such as tunnel/void, encounters with beings, life review, boundary, return), with significant variation arising from which modules appear, in what order, and with what emotional tone.
 
@@ -1719,7 +1719,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-120] Methodological Selection Effects in Reincarnation Research
 
-**Status**: preliminary | **Confidence**: 0.686
+**Status**: preliminary | **Confidence**: 0.762
 
 > The idea that dominant verification-centered approaches in reincarnation research (especially CORT/SOCS) systematically shape what kinds of cases are discovered, investigated, and counted. In particular, methodologies optimized for identifying a verifiable Previous Personality preferentially surface trauma-linked "return" cases (Restorative Incarnation) and tend to under-detect non-cyclic or "arrival" cases (pre-existence, intermission-only, mission/volunteer profiles) that lack a traceable prior death record.
 
@@ -1838,7 +1838,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-003] World of Spirits and Post-Mortem Journey
 
-**Status**: validated | **Confidence**: 0.65
+**Status**: validated | **Confidence**: 0.68
 
 > The intermediate realm between heaven and hell where souls arrive after death. A period of orientation and unveiling where external pretenses are stripped away, the ruling love becomes manifest, and souls freely gravitate toward spiritual societies matching their internal state. Not punishment but sorting.
 
@@ -2241,7 +2241,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-032] Allegorical Word (Genesis 1-11)
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.732
 
 > The first external form of the Word, comprising Genesis 1-11, characterized as "made-up  history" (Swedenborg) with little to no historical relevance. This is pure allegory,  every detail encoding spiritual correspondences. Created through "mythic bricolage"— Israelite scribes consciously subverted Mesopotamian myths (Enuma Elish) while Divine  influx unconsciously guided their editorial choices to create a perfect spiritual vessel.  Distinct from the Historical Word (Genesis 12+) which uses actual events as correspondences.
 
@@ -2252,6 +2252,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `SWED-033` (contrasts): Doc: Genesis 1–11 as 'made-up' allegorical Word is distinguished from Genesis 12+ / Exodus as historical Word
 - → `SWED-001` (developed_by): Doc: Allegorical Word (Genesis 1–11) is meaningful only through correspondences (spiritual sense within literal vessel)
+- → `MYTH-004` (develops): This hypothesis operationalizes the Allegorical Word (Genesis 1–11) concept
 
 ---
 
@@ -2374,7 +2375,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-042] Alexander's Catastrophe (Damdat Nask Destruction)
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.9
 
 > The historical rupture of 330 BCE when Alexander the Great's forces destroyed  the Persepolis royal archives. CRITICAL DISTINCTION: Scholarly consensus holds the AVESTA was an ORAL corpus during the Achaemenid period—Alexander did not  burn a written "Zoroastrian Bible." The "12,000 ox-hides with gold ink" is  ZOROASTRIAN HAGIOGRAPHY (Arda Viraf Namag, Denkard) serving ideological purposes. WHAT WAS DESTROYED: Archaeological evidence confirms parchment/leather  administrative documents were incinerated (bullae impressions prove this). The  "Damdat Nask" content survived via ORAL TRANSMISSION through the Zand tradition,  eventually recorded in the Bundahišn (9th c. CE). Mary Boyce's argument: the  "burning" metaphorically refers to slaughter of Magi who were "living books."
 
@@ -2392,7 +2393,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-043] Daniel as Rab-hartummin (Prophetic-Sapiential Synthesis)
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.831
 
 > The historical-theological significance of Daniel's position as RAB-HARTUMMIN  (Chief of the Magicians/Scribes) and RAB-SIGNĪN (Chief Prefect) over the wise  men of Babylon (Dan 2:48, 5:11). NOTE: Daniel is NEVER called "Rab-mag" in  the biblical text—that title belongs exclusively to Nergal-sharezer in Jeremiah  39:3. Daniel received training in "the learning and tongue of the Chaldeans"  (Dan 1:4). Critical scholarship dates the book's final redaction to 167-164 BCE  (Maccabean period), with Court Tales (Dan 1-6) preserving older Persian-era  traditions. Daniel functions as a literary "synthesis figure" bridging  PROPHETIC revelation and SAPIENTIAL tradition, demonstrating the God of Heaven  as the true "Revealer of Mysteries" through correspondential imagery.
 
@@ -3020,7 +3021,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-090] Glorification (Union of Divine and Human)
 
-**Status**: preliminary | **Confidence**: 0.3
+**Status**: preliminary | **Confidence**: 0.732
 
 > The spiritual process by which the Lord progressively purified, subjugated, and united His external human nature (from Mary) with His internal Divine (from Jehovah) until they became one Divine Human. Accomplished through temptations - spiritual combats. The Baptism marks initiation; the Crucifixion marks completion. The bedrock facts affirmed by HCM are literal footprints of this divine process.
 
@@ -3038,7 +3039,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-091] Discrete Degrees (Celestial, Spiritual, Natural)
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.3
 
 > Reality is structured in discrete levels (celestial, spiritual, natural) where each lower plane is an effect sustained by the higher plane as its cause. The human mind mirrors this structure with internal (spiritual) and external (natural) aspects, and Scripture speaks in natural images that correspond to truths on these higher degrees.
 
@@ -3054,7 +3055,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-092] Divine Love and Wisdom as Spiritual Heat and Light
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.3
 
 > Divine Love corresponds to spiritual heat and Divine Wisdom corresponds to spiritual light. The spiritual sun (the Lord's presence to angels) is described as the first emanation of this Love and Wisdom; the natural sun corresponds to that spiritual sun.
 
@@ -3069,7 +3070,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-093] Loss of Correspondences Leads to Idolatry
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.3
 
 > As knowledge of correspondences declines, representative images and rituals are no longer understood as signifying spiritual realities; over time, the representations themselves are treated as objects of worship, producing idolatry.
 
@@ -3084,7 +3085,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-094] Most Ancient Church as Deep-Time Hominin Trajectory
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.7
 
 > The Swedenborgian 'Most Ancient Church' (Golden Age) can be read as an allegorical description of early hominin cognition and communication over deep time rather than a short, datable historical period. In this reading: (1) 'internal respiration' aligns with foundational shifts in breath control and contemplative physiology; (2) 'lip-speech' aligns with pre-vocal gestural/facial communication; and (3) 'representative language' aligns with embodied metaphor as a basis for abstract thought. The 'Fall' is treated as the process of cognitive externalization that drives articulate speech and later external symbolic systems.
 
@@ -3100,7 +3101,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-095] Dāmdād Nask (Sasanian Encyclopedic Nask)
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.3
 
 > A major Sasanian-era Nask (volume) of the Zoroastrian canon associated with cosmogony and 'the data of creation' (mēnōg/gētīg creation, taxonomy of beings, anthropology, and eschatology). In later Middle Persian tradition it is treated as a systematic, scientific and cosmological reference work rather than a purely liturgical text.
 
@@ -3115,7 +3116,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-096] Bundahišn Preserves the Zand of the Dāmdād Nask
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.831
 
 > The Greater Bundahišn is best understood as an epitome of the Middle Persian Zand (commentary/translation) tradition of the lost Dāmdād Nask, preserving its structural sequence and key 'encyclopedic' contents (cosmogony, taxonomy, microcosm-macrocosm mapping, embryology, and eschatological cycle) even when the Avestan originals are no longer extant.
 
@@ -3185,7 +3186,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [BIBL-004] Resurrection Narrative Evolution
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.865
 
 > The chronological development of resurrection accounts from Paul's "spiritual body" (soma pneumatikon, 50s CE) to Luke's "flesh and bones" (90s CE). Paul: no empty tomb, visionary appearances (ophthe), "flesh and blood cannot inherit." Mark: empty tomb but no appearances. Matthew: guards, physical touch. Luke/John: eating, wound inspection. Trajectory reflects "Fall into Language" - cognitive shift requiring external proofs. Framework: physical details as later apologetic additions; earliest tradition = "Living One" with unspecified body type.
 
@@ -3201,7 +3202,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [BIBL-005] Gospel Genre as Greco-Roman Bioi
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.815
 
 > Scholarly consensus that canonical Gospels belong to the Greco-Roman biographical genre (bioi), characterized by focus on a central figure's character revealed through words and deeds, flexible with historical precision, and serving didactic/commemorative purposes.
 
@@ -3235,7 +3236,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [BIBL-008] The Talpiot Tomb Hypothesis
 
-**Status**: contested | **Confidence**: 0.3
+**Status**: contested | **Confidence**: 0.65
 
 > The hypothesis that the 1980 Talpiot tomb discovery (ossuaries inscribed "Yeshua bar Yehosef," "Maria," "Yose," "Mariamene e Mara") is the Jesus family tomb. Statistical analysis (Feuerverger: 600:1 odds) plus geochemical matching of James Ossuary soil to Talpiot signature. If valid, implies Jerusalem church knew remains' location and held "spiritual exaltation" theology compatible with physical burial.
 
@@ -3283,7 +3284,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [BIBL-012] Pastoral Epistles Pseudepigraphy
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.775
 
 > The overwhelming scholarly consensus that 1 Timothy, 2 Timothy, and Titus were NOT written by Paul but composed pseudepigraphically (c. 80-120 CE) by a later author invoking Pauline authority. These letters present a "domesticated Paul" who loves the Law, appoints bishops, insists on marriage/childbearing, and guards "sound doctrine" against "falsely called gnosis" (1 Tim 6:20)—contradicting the radical, Law-abrogating, charismatic Paul of the undisputed letters (Romans, Galatians, etc.).
 
@@ -3425,7 +3426,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [BIBL-022] Gospel Anonymity and 2nd-Century Attribution
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.765
 
 > Scholarly consensus that all four canonical Gospels were originally written and circulated anonymously. Traditional names ('According to Matthew,' 'According to Mark,' etc.) were NOT part of original texts but were added by 2nd-century scribes/editors to assign apostolic authority. This was a strategic response to theological conflict and proliferation of other 'gospels' (especially Gnostic texts). Anonymity created authority vacuum; church assigned texts to apostles (Matthew, John) or apostolic associates (Mark/Peter, Luke/Paul) to distinguish preferred texts and ground them in apostolic tradition.
 
@@ -3496,7 +3497,11 @@ events exist in causal networks.
 > Geological and archaeological evidence linking the 1600 BCE Thera (Santorini) eruption to the Exodus Plagues. Includes pumice at Tell el-Dab'a (Goshen) and Ultra-Plinian fallout explaining darkness/ecological collapse.
 
 **Source Chain**:
-1. [S] Exodus Narrative_ Mythic Bricolage Study.md
+1. [T] data/06_Mythological_Studies/Exodus Narrative_ Mythic Bricolage Study.md
+2. [S] [TRACE NEEDED] Volcanology/archaeology sources for Thera (Santorini) eruption dating and Tell el-Dab'a pumice finds
+
+**Connections**:
+- → `MYTH-013` (supports): Thera eruption template supports the 'Memory of Cataclysm' component in the three-memory model.
 
 ---
 
@@ -3507,7 +3512,11 @@ events exist in causal networks.
 > Oceanographic modeling (Carl Drews) and historical observations (Tulloch, 1882) of wind setdown events in the Nile Delta (Lake Tanis) exposing land bridges with dual water displacement ('walls').
 
 **Source Chain**:
-1. [S] Exodus Narrative_ Mythic Bricolage Study.md
+1. [T] data/06_Mythological_Studies/Exodus Narrative_ Mythic Bricolage Study.md
+2. [S] [TRACE NEEDED] Carl Drews wind setdown modeling paper and Major-General Alexander Tulloch (1882) observation
+
+**Connections**:
+- → `MYTH-013` (supports): Wind setdown modeling supports the 'Memory of Deliverance' component in the three-memory model.
 
 ---
 
@@ -3518,7 +3527,12 @@ events exist in causal networks.
 > Historical correlation of 'Israel' emergence (Merneptah Stele, 1207 BCE) with the LBAC (1200-1150 BCE) and Egyptian imperial withdrawal from Canaan, grounding the 'liberation' theme in political history.
 
 **Source Chain**:
-1. [S] Exodus Narrative_ Mythic Bricolage Study.md
+1. [T] data/06_Mythological_Studies/Exodus Narrative_ Mythic Bricolage Study.md
+2. [P] Merneptah Stele (c. 1207 BCE)
+3. [S] [TRACE NEEDED] Secondary scholarship on Late Bronze Age Collapse chronology and Egyptian imperial withdrawal
+
+**Connections**:
+- → `MYTH-013` (supports): LBAC + Merneptah attestation supports the 'Memory of Liberation' component in the three-memory model.
 
 ---
 
@@ -3626,7 +3640,7 @@ events exist in causal networks.
 
 #### [BIBL-036] Gospel Genre (Ancient Biography / Bioi Classification)
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.693
 
 > The classification question of what literary genre the canonical Gospels belong to within Greco-Roman literary culture, and what expectations of historical precision and authorial shaping follow from that genre identification.
 
@@ -3642,7 +3656,7 @@ events exist in causal networks.
 
 #### [BIBL-037] Gospel Authorship, Anonymity, and Attribution (Historical-Critical)
 
-**Status**: validated | **Confidence**: unknown
+**Status**: validated | **Confidence**: 0.65
 
 > The historical-critical question of who wrote the canonical Gospels and how their texts came to be associated with specific author names. This includes (a) the anonymity of the earliest Gospel circulation, (b) later title/attribution practices in manuscript transmission, and (c) the role of 2nd-century church disputes in the stabilization of author ascriptions.
 
@@ -3658,7 +3672,7 @@ events exist in causal networks.
 
 #### [BIBL-038] Genesis 1–11 in Ancient Near Eastern Mythic Context
 
-**Status**: validated | **Confidence**: unknown
+**Status**: validated | **Confidence**: 0.3
 
 > The study of Genesis 1–11 (creation, primordial history, and flood narratives) in relation to earlier and parallel Ancient Near Eastern mythic traditions. This includes comparative analysis (motifs, structure, and theology) and how biblical authors adapted inherited narrative materials.
 
@@ -3674,7 +3688,7 @@ events exist in causal networks.
 
 #### [BIBL-039] Flood Narratives as Cultural Memory of Societal Catastrophe
 
-**Status**: validated | **Confidence**: unknown
+**Status**: validated | **Confidence**: 0.885
 
 > The Genesis flood narrative participates in an older, region-wide ANE flood tradition and may also preserve (in mythologized form) cultural memory of real large-scale catastrophes experienced by urban societies, with the 4.2 kiloyear aridification event and associated Bronze Age collapses functioning as plausible historical substrates for “world-ending” imagery.
 
@@ -3690,7 +3704,7 @@ events exist in causal networks.
 
 #### [BIBL-040] Resurrection Narratives: Textual Development and Polemics
 
-**Status**: validated | **Confidence**: unknown
+**Status**: validated | **Confidence**: 0.735
 
 > The historical-critical study of how resurrection claims and their narrative framing develop across early Christian texts (Pauline letters and the canonical Gospels), including the role of genre, community disputes, and anti-docetic apologetic pressures in shaping increasingly concrete “bodily” depictions.
 
@@ -3707,7 +3721,7 @@ events exist in causal networks.
 
 #### [BIBL-041] Talpiot Cluster Statistical Analysis (Feuerverger 2008)
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.62
 
 > Statistical analysis arguing that the specific onomastic cluster from the 1980 Talpiot tomb find (including inscriptions such as “Yeshua bar Yehosef,” “Maria,” and “Yose”) is unlikely to be random given background name frequencies, and thus provides probabilistic support for identifying the tomb with Jesus’ family.
 
@@ -3723,7 +3737,7 @@ events exist in causal networks.
 
 #### [BIBL-042] Geochemical Link Claim: James Ossuary and Talpiot Tomb (Shimron et al. 2016)
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.62
 
 > Geochemical/patina analysis claiming a match between material (e.g., sediment and trace-element signature) associated with the James Ossuary and the Talpiot tomb environment, used to argue that the James Ossuary originated from the Talpiot tomb assemblage and thereby strengthens the Talpiot identification.
 
@@ -3739,7 +3753,7 @@ events exist in causal networks.
 
 #### [BIBL-043] Criterion of Temptation vs. Embarrassment (Baseline-Shift Hypothesis)
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.497
 
 > The claim that the standard Historical Jesus “Criterion of Embarrassment” is frequently misapplied because it assumes a Pauline/High-Christology baseline for what would have been “embarrassing” to earliest communities. If the earliest tradition is instead grounded in a Jamesian/Jerusalem orthopraxy baseline (where perfection is dynamic completion through struggle), then “embarrassing” Gospel moments (baptism, ignorance, agony, temptation) function as intentional theological assertions and can be treated as authenticity signals under a proposed “Criterion of Temptation/Purification.”
 
@@ -3756,7 +3770,7 @@ events exist in causal networks.
 
 #### [BIBL-044] Pastoral Epistles Authorship and Dating (Historical-Critical)
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.659
 
 > A historical-critical problem-space focused on whether 1 Timothy, 2 Timothy, and Titus were authored by Paul and how their likely date of composition relates to institutional development, anti-heretical polemic, and the formation of the Pauline corpus.
 
@@ -3940,7 +3954,7 @@ events exist in causal networks.
 
 #### [EARLY-014] The Three Rivers of Melchizedek Tradition
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.861
 
 > The figure of Melchizedek generated three distinct interpretive traditions: (1) Historical-Critical: A Jebusite priest-king of Salem, devotee of El Elyon and the deity Zedek, whose royal priesthood was co-opted by the Davidic monarchy; (2) Sectarian/Eschatological: Elevated to celestial warrior-priest and Elohim (divine being) in Dead Sea Scrolls (11Q13), executing final judgment; (3) Rabbinic Counter-Narrative: Identified as Shem son of Noah, providing genealogy and explaining why priesthood was transferred to Levi. The silence of Genesis about his origins created interpretive space each tradition filled with its own anxieties about priesthood and divine access.
 
@@ -3974,7 +3988,7 @@ events exist in causal networks.
 
 #### [EARLY-016] Quranic Isa as Jamesian Restoration
 
-**Status**: preliminary | **Confidence**: 0.3
+**Status**: preliminary | **Confidence**: 0.861
 
 > The thesis that the Quranic Jesus (Isa ibn Maryam) functions as a deliberate theological "correction" of Pauline/Gnostic Christianity, restoring the Jamesian/Nazarene Christology that was marginalized by the Imperial Church. The Quran systematically dismantles: (1) Anti-cosmic dualism - Jesus created from dust, ate food (refutes Docetism); (2) Demiurge theology - "Allah is my Lord AND your Lord" (unifies Creator/Savior); (3) Antinomianism - Jesus "confirms the Torah," enjoins Prayer (Salat) and Charity (Zakat). The term "Hawariyun" (disciples) derives from Syriac "Pure Ones" (white-clad), matching descriptions of James the Just and his followers. Surah 61:14's "victory" may be fulfilled by the Islamic conquests dismantling the Byzantine (Pauline) Empire.
 
@@ -3991,7 +4005,7 @@ events exist in causal networks.
 
 #### [EARLY-017] Damascus Divergence Hypothesis
 
-**Status**: contested | **Confidence**: 0.3
+**Status**: contested | **Confidence**: 0.861
 
 > A critical scholarly analysis arguing that Paul's Damascus vision, the sole legitimating warrant for his apostolate, is NOT historically reliable but a sophisticated rhetorical/literary construct. Three converging lines of evidence: (1) The tripartite accounts in Acts contain irreconcilable contradictions (companions hearing vs. not hearing; standing vs. all falling; Ananias mediation vs. direct commission); (2) Paul's own phrase "en emoi" (in me, Gal 1:15-16) describes an INTERNAL subjective revelation, not external objective appearance, aligning with Gnostic epistemology of self-validating gnosis; (3) Acts 26:14's "kick against the goads" is a direct quotation from Euripides' Bacchae (line 795), suggesting Luke used Greek drama as literary template—the Pentheus/Dionysus theomachos archetype applied to Saul/Jesus.
 
@@ -4234,7 +4248,7 @@ popularized and extended this thesis with additional evidence.
 
 #### [EARLY-032] Roman Displacement of Early Heterodoxies
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.815
 
 > The hypothesis that the Roman-aligned "Great Church" displaced locally dominant early Christian heterodoxies (e.g., Marcionite, Basilidian/Valentinian, Bardaisanite, Montanist) in regions such as Egypt, Edessa, and Asia Minor via institutional mechanisms (patronage, excommunication, installation of aligned bishops, and historiographic revision), later reinforced by imperial enforcement.
 
@@ -4250,7 +4264,7 @@ popularized and extended this thesis with additional evidence.
 
 #### [EARLY-033] Melchizedek as a Priestly Legitimacy Anchor
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.732
 
 > Melchizedek functions as a cross-tradition anchor for debates about priesthood, authority, and eschatological mediation: a minimal Genesis cameo is expanded into divergent models (Bronze Age Canaanite priest-king, Second Temple heavenly judge, rabbinic genealogical containment, and Christian typological/ontological superiority to Levitical descent).
 
@@ -4265,7 +4279,7 @@ popularized and extended this thesis with additional evidence.
 
 #### [EARLY-034] Pauline Authority via Private Revelation
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.732
 
 > A concept describing the Damascus-event authority structure: Paul's apostolic legitimacy is grounded in an unmediated revelatory claim rather than historical apprenticeship under the Jerusalem witnesses. This creates an epistemic tension between transmissible tradition and self-validating revelation, and provides a framework for analyzing Acts/Galatians divergence, literary templating, and "hostile takeover" readings.
 
@@ -4281,7 +4295,7 @@ popularized and extended this thesis with additional evidence.
 
 #### [EARLY-035] Quranic Isa Profile as Late Antique Christological Correction
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.732
 
 > The Quranic portrayal of Isa functions as a late-antique Christological counter-construct that rejects Pauline/imperial-Christian innovations (anti-law soteriology, demiurge-style creator/savior separation, docetic tendencies) and re-centers a prophetic, law-affirming, strictly monotheist Jesus tradition.
 
@@ -4298,7 +4312,7 @@ popularized and extended this thesis with additional evidence.
 
 #### [EARLY-036] Jamesian Jerusalem Authority and Torah-Observant Ethos
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.3
 
 > The Jerusalem-based Jesus movement is best characterized by James-centered leadership, Torah-observant piety, and a community ethos oriented around wisdom ethics and the protection of the poor (Ebionim), standing in tension with later Pauline, law-abrogating and empire-compatible trajectories.
 
@@ -4314,7 +4328,7 @@ popularized and extended this thesis with additional evidence.
 
 #### [EARLY-037] James as Supreme Authority of the Jerusalem Church
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.9
 
 > James the Just functioned as the principal authority of the earliest Jerusalem church, exercising dynastic and practical leadership (including adjudication of Gentile inclusion) and embodying a Torah-observant, Temple-adjacent piety that later Pauline traditions marginalized.
 
@@ -4427,7 +4441,7 @@ popularized and extended this thesis with additional evidence.
 
 #### [GNOS-007] Paul as the Essential Gnostic Seed
 
-**Status**: contested | **Confidence**: 0.3
+**Status**: contested | **Confidence**: 0.9
 
 > The thesis that the Apostle Paul, not later Gnostic teachers, articulated the structural logic underlying Gnostic systems. Paul established: (1) Epistemological autonomy - direct revelation invalidating historical tradition (Gal 1:11-12); (2) Cosmic dualism - Torah demoted to angelic/archontic origin (Gal 3:19), "god of this world" as blinder of minds (2 Cor 4:4); (3) Anti-somatic soteriology - "flesh and blood cannot inherit" (1 Cor 15:50), faith as pneumatic escape mechanism; (4) Christological separation - the Cosmic Christ distinct from historical Jesus. The conflict with the Jamesian church was not about dietary laws but represented the primordial schism between materialist messianism and anti-cosmic gnosis.
 
@@ -4730,12 +4744,13 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 - → `MYTH-015` (develops): Comparative cosmogony analysis is an instance of mythic bricolage and counter-myth formation
 - → `MYTH-002` (develops): Two-hearts divergence is framed as scribal bricolage divergence from shared ANE materials
 - → `MYTH-010` (develops): CDE myth-evolution model is an instance of mythic bricolage framing
+- → `MYTH-013` (develops): Mythic bricolage concept develops the Exodus three-memory synthesis hypothesis.
 
 ---
 
 #### [MYTH-002] Heart of Division vs Heart of Unity
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.755
 
 > Analysis of proto-myth evolution showing divergence into two trajectories: "Heart of Division" (Babylonian/combat mythology, cosmic conflict, separation) vs "Heart of Unity" (Hebrew/monotheistic, integration, covenant relationship). Framework: correspondence with proprium vs influx dynamics.
 
@@ -4769,13 +4784,18 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 
 #### [MYTH-004] Genesis 1-11 as Made-Up History
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.861
 
 > Swedenborg's identification of Genesis 1-11 as "made-up histories" (pure allegory) distinct from "real history" beginning with Abraham. Creation, Fall, Flood, Babel are correspondential narratives, not literal events. Scientific/archaeological evidence confirms non-literality.
 
 
 **Source Chain**:
 1. [T] data/06_Mythological_Studies/Genesis Creation Myth's ANE Context.md
+
+**Connections**:
+- → `MYTH-028` (supported_by): Archaeology/science non-literality evidence supports Swedenborg 'made-up history' hypothesis
+- → `MYTH-027` (supported_by): ANE parallel + demythologization evidence supports non-literal Genesis 1–11 framing
+- → `SWED-032` (developed_by): This hypothesis operationalizes the Allegorical Word (Genesis 1–11) concept
 
 ---
 
@@ -4859,7 +4879,7 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 
 #### [MYTH-010] Consciousness-Driven Evolution of Myth
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.9
 
 > The CDE model of myth evolution proposes that consciousness is not a passive byproduct but an active driver of memetic (not genetic) evolution. The 'ruling love'—the core orientation a society freely chooses—creates selective pressure on stories. Two trajectories emerge: 'Love of Self' evolves myths toward fragmentation and power (Enuma Elish); 'Love of God and Neighbor' evolves myths toward coherence and love (Genesis 1). Same proto-myth, opposite outcomes based on heart-state.
 
@@ -4886,7 +4906,7 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 **Source Chain**:
 1. [T] data/06_Mythological_Studies/Analyzing Archangel Development Across Religions.md
 2. [P] Daniel 10:13, 12:1; Tobit 12:15; 1 Enoch 20; Jude 1:9
-3. [S] Encyclopaedia Iranica, ARSACIDS iv
+3. [W] Britannica, "Amesha spenta" (Encyclopaedia Britannica)
 4. [S] Dead Sea Scrolls (War Scroll, Songs of Sabbath Sacrifice)
 
 **Connections**:
@@ -4908,13 +4928,19 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 
 #### [MYTH-013] Exodus as Mythic Bricolage (Three-Memory Model)
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.9
 
 > The Exodus narrative is a masterpiece of mythic bricolage—a "redacted memory" forged by Iron Age scribes from three authentic but chronologically and causally disconnected historical fragments: (1) Memory of Cataclysm: The plagues correspond to the Thera volcanic eruption (c. 1600 BCE), validated by geomythology and physical evidence (Thera pumice at Tell el-Dab'a in Goshen); (2) Memory of Deliverance: The parting of the Sea of Reeds corresponds to the oceanographic phenomenon of wind setdown in the Nile Delta, validated by Carl Drews' computer modeling; (3) Memory of Liberation: The freedom theme reflects the Late Bronze Age Collapse (c. 1200 BCE) when Egyptian withdrawal from Canaan liberated Shasu and 'Apiru groups. Scribal bricoleurs "rotated" these memories into a linear cause-and-effect narrative serving as Israel's charter myth.
 
 
 **Source Chain**:
 1. [T] data/06_Mythological_Studies/Forging a Nation in Memory.md
+
+**Connections**:
+- → `MYTH-001` (developed_by): Mythic bricolage concept develops the Exodus three-memory synthesis hypothesis.
+- → `BIBL-026` (supported_by): Thera eruption template supports the 'Memory of Cataclysm' component in the three-memory model.
+- → `BIBL-027` (supported_by): Wind setdown modeling supports the 'Memory of Deliverance' component in the three-memory model.
+- → `BIBL-028` (supported_by): LBAC + Merneptah attestation supports the 'Memory of Liberation' component in the three-memory model.
 
 ---
 
@@ -4931,11 +4957,14 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 3. [P] 4Q208-211 (Qumran Aramaic fragments)
 4. [S] MUL.APIN compendium (Babylonian)
 
+**Connections**:
+- → `MYTH-039` (supports): Doc 2 evidence: Enochic 364-day calendar is framed as revealed and adopted as a sectarian identity/authority marker (Qumran).
+
 ---
 
 #### [MYTH-015] The Two Hearts of Creation (Unity vs. Division)
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.891
 
 > A comparative analysis of Genesis 1 and the Enuma Elish reveals two fundamentally different cosmological principles emerging from a shared ANE primordial matrix: The "Heart of Division" (Enuma Elish) posits creation through divine conflict (theomachy), where the cosmos is the dismembered corpse of Tiamat and humans are slaves made from the rebel god Kingu's blood. The "Heart of Unity" (Genesis 1) presents creation through effortless divine fiat, a radical Creator/creation distinction (no theogony), cosmos as intrinsically "good," and humans as the image of God with stewardship mandate. Genesis performs deliberate demythologization— using cognate term 'tehom' (cf. Tiamat) but stripping it of personality and divine status. This philosophical revolution is the prerequisite for both coherent theology and systematic science.
 
@@ -4956,7 +4985,7 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 
 #### [MYTH-016] The White Bull Cycle (Zoroastrian-Enochic Parallel)
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.837
 
 > The Animal Apocalypse (1 Enoch 85-90) and Zoroastrian bovine mythology share a striking structural homology: both place a "White Bull" at both the beginning and end of cosmic history. Zoroastrianism: Gavaevodata (primordial white bull, moon-bright) is killed by Ahriman—from his body springs all biological life; eschatological bull Hadhayans is sacrificed at Frashokereti (renovation) to produce the elixir of immortality. Enoch: Adam appears as a white bull; history degrades (bulls → sheep); Messiah appears as an eschatological white bull who restores all creatures to their bovine state. The link is likely genetic (Persian period influence) but involves theological subversion: Enoch's messiah-bull LIVES (no sacrifice), demonstrating Jewish rejection of Persian sacrificial mechanism in favor of transformational presence.
 
@@ -5122,6 +5151,7 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 
 **Connections**:
 - → `MYTH-015` (supports): Textual parallels and deliberate demythologization support the Two Hearts hypothesis
+- → `MYTH-004` (supports): ANE parallel + demythologization evidence supports non-literal Genesis 1–11 framing
 
 ---
 
@@ -5136,6 +5166,9 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 2. [E] Human genetics - population bottleneck data contradicts Adam/Eve literalism (Li & Durbin, 2011)
 3. [S] Walton, The Lost World of Genesis One (2009), Ch. 1-2
 4. [P] Swedenborg, Arcana Coelestia § 2897
+
+**Connections**:
+- → `MYTH-004` (supports): Archaeology/science non-literality evidence supports Swedenborg 'made-up history' hypothesis
 
 ---
 
@@ -5270,7 +5303,7 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 
 #### [MYTH-037] Archangelic Mediation as Monotheistic Agency Solution
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.891
 
 > In post-exilic and Second Temple Jewish thought, a stratified archangelic hierarchy functions as a theological mechanism for monotheism: divine actions (revelation, protection/warfare, healing/providence, cosmic instruction) are personified as named chief messengers, allowing a transcendent God to act in the material world without compromising divine unity. The hierarchy draws on older “divine council” patterns and was catalyzed by Persian/Zoroastrian models of high-ranking beings, then adapted within Judaism, Christianity, and Islam according to each tradition’s central theological emphases.
 
@@ -5283,6 +5316,38 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 - → `MYTH-036` (supported_by): Persian-Jewish apocalyptic parallels include angelology parallels relevant to archangel crystallization
 - → `MYTH-011` (supported_by): Comparative diachronic analysis supports archangelic mediation hypothesis
 - → `SWED-080` (supported_by): Amesha Spentas heptad provides relevant Persian hierarchy model cited as catalytic precursor
+
+---
+
+#### [MYTH-038] Calendar as Sectarian Boundary Marker
+
+**Status**: preliminary | **Confidence**: 0.3
+
+> In Second Temple Judaism, disputes over calendrical reckoning were not merely technical; they functioned as boundary markers for communal identity and competing claims to religious authority, since controlling the calendar controls the timing of Sabbaths and festivals.
+
+
+**Source Chain**:
+1. [T] data/06_Mythological_Studies/Enoch's Celestial Mechanics Analysis.md
+
+**Connections**:
+- → `CROSS-023` (developed_by): Two-tier method frames calendrical disputes as natural-plane authority phenomena with spiritual-plane interpretive significance.
+- → `MYTH-039` (develops): Calendar boundary-marker concept develops the specific hypothesis about the revealed 364-day system as an authority claim.
+
+---
+
+#### [MYTH-039] 364-Day Enochic Calendar as Authority Claim
+
+**Status**: preliminary | **Confidence**: 0.831
+
+> The Astronomical Book (1 Enoch 72–82) frames a 364-day solar calendar as revealed by Uriel and therefore uniquely authoritative; adoption of this calendar (notably at Qumran) served as a practical identity marker and an implicit challenge to Temple-associated lunisolar reckoning, since calendrical correctness determines the legitimate timing of sacred observance.
+
+
+**Source Chain**:
+1. [T] data/06_Mythological_Studies/Enoch's Celestial Mechanics Analysis.md
+
+**Connections**:
+- → `MYTH-038` (developed_by): Calendar boundary-marker concept develops the specific hypothesis about the revealed 364-day system as an authority claim.
+- → `MYTH-014` (supported_by): Doc 2 evidence: Enochic 364-day calendar is framed as revealed and adopted as a sectarian identity/authority marker (Qumran).
 
 ---
 
@@ -5357,7 +5422,7 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 
 #### [CROSS-006] The Jesus Profile Thesis
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.882
 
 > A third interpretive layer beyond Historical Jesus and Christ of Faith: the "Jesus  Profile" as the curated product of Divine Bricolage. The "Jesus we know today"—the  figure of absolute Love—is neither raw historical data nor pure theological  abstraction, but the intentional result of Providence guiding the editorial evolution  of the Jesus tradition. Historical Jesus = raw material (apocalyptic prophet);  Theological Jesus = curated profile (Universal Lover). Both are "real"—Bricolage  explains the divergence without denying either.
 
@@ -5376,7 +5441,7 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 
 #### [CROSS-007] Universal Theosis Capacity (Degree vs. Kind)
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.861
 
 > A critical theological argument that the difference between Jesus and the prophets  (and all humans) is one of DEGREE rather than absolute KIND. Swedenborg distinguished  Jesus by the nature of his soul (paternal = Jehovah directly; prophets = mediated  through angels). The Divine Bricolage framework argues this distinction is functional/ teleological, not metaphysical: Jesus is the "Fullness of the Godhead bodily" who  "opened the pathway" for Divine expression in all humans. The prophets were "sons  of God" by adoption/bricolage; Jesus was "Son of God" by nature/incarnation—but His  work enables the same capacity for Theosis in all.
 
@@ -5605,6 +5670,7 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 - → `BIBL-025` (develops): Two-tiered epistemology enables Criterion of Temptation reframing
 - → `SWED-001` (parallels): Two-tiered epistemology integrates Correspondences as spiritual tier
 - → `CONSC-018` (develops): Provides a neurocognitive grounding for the two-tiered method (analytic/fragmenting vs holistic/relational modes).
+- → `MYTH-038` (develops): Two-tier method frames calendrical disputes as natural-plane authority phenomena with spiritual-plane interpretive significance.
 
 ---
 

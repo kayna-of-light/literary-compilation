@@ -11840,6 +11840,11 @@ nodes:
     - target: CONSC-115
       type: develops
       note: 'Extends volunteer-soul model: proposed preparatory trait/readiness correlates'
+    - target: CONSC-120
+      type: develops
+      note: Extends consciousness-first framing to methodological questions about
+        what survival phenomena become empirically visible under different research
+        designs.
   CONSC-002:
     confidence: 0.823
     confidence_factors:
@@ -12968,7 +12973,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-047
-    connections: []
+    connections:
+    - target: CONSC-121
+      type: supports
+      note: SOCS/CORT scoring privileges verifiable trauma-linked PP cases, implying
+        a structural selection artifact.
   CONSC-048:
     confidence: 0.752
     confidence_factors:
@@ -13038,7 +13047,11 @@ nodes:
     trace_status: preliminary
     updated: '2026-01-10'
     id: CONSC-048
-    connections: []
+    connections:
+    - target: CONSC-121
+      type: supports
+      note: Ohkado 'reverse cases' show intermission/pre-birth memories can occur
+        without past-life recall, consistent with under-detected non-cyclic cohorts.
   CONSC-049:
     confidence: 0.657
     confidence_factors:
@@ -13104,7 +13117,11 @@ nodes:
     trace_status: preliminary
     updated: '2026-01-10'
     id: CONSC-049
-    connections: []
+    connections:
+    - target: CONSC-121
+      type: supports
+      note: VPE/perinatal verification provides a verification pathway for pre-existence-type
+        cases outside PP tracing.
   CONSC-050:
     confidence: 0.659
     confidence_factors:
@@ -13172,7 +13189,15 @@ nodes:
     trace_status: preliminary
     updated: '2026-01-10'
     id: CONSC-050
-    connections: []
+    connections:
+    - target: CONSC-121
+      type: supports
+      note: COPET proposal formalizes a complementary research design explicitly aimed
+        at capturing the under-detected cohort.
+    - target: CONSC-121
+      type: supports
+      note: COPET proposal formalizes a complementary research design explicitly aimed
+        at capturing the under-detected cohort.
   CONSC-051:
     confidence: 0.765
     confidence_factors:
@@ -17683,6 +17708,84 @@ nodes:
       note: '569-case analysis: in clear-order testimonial subset (n=138), 85.5% transformation
         precedes healing (χ²=69.59; p<0.001), supporting transformation-first timing.'
     confidence: 0.3
+  CONSC-120:
+    domain: CONSC
+    node_type: concept
+    title: Methodological Selection Effects in Reincarnation Research
+    definition: 'The idea that dominant verification-centered approaches in reincarnation
+      research (especially CORT/SOCS) systematically shape what kinds of cases are
+      discovered, investigated, and counted. In particular, methodologies optimized
+      for identifying a verifiable Previous Personality preferentially surface trauma-linked
+      "return" cases (Restorative Incarnation) and tend to under-detect non-cyclic
+      or "arrival" cases (pre-existence, intermission-only, mission/volunteer profiles)
+      that lack a traceable prior death record.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Reincarnation Methodology Selection Artifact.md
+      note: Primary analysis arguing that CORT/SOCS functions as a selection filter.
+    status: preliminary
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    trace_status: complete
+    id: CONSC-120
+    connections:
+    - target: CONSC-001
+      type: developed_by
+      note: Extends consciousness-first framing to methodological questions about
+        what survival phenomena become empirically visible under different research
+        designs.
+    - target: CONSC-121
+      type: develops
+      note: Develops the specific claim that CORT/SOCS acts as a trauma-weighted filter
+        producing under-detection of non-cyclic cohorts.
+    confidence: 0.686
+  CONSC-121:
+    domain: CONSC
+    node_type: hypothesis
+    title: CORT Trauma Filter Hypothesis (Non-Cyclic Cohort Under-Detection)
+    definition: 'The CORT paradigm (and SOCS-style strength metrics) functions as
+      a trauma-weighted filter: cases with violent/premature death and verifiable
+      prior-personality details are more likely to be detected, investigated, and
+      scored as "strong". As a result, reincarnation research datasets may overrepresent
+      trauma-linked Restorative Incarnation returns and underrepresent (or exclude)
+      non-cyclic/pre-existence profiles (e.g., intermission-only "reverse cases" and
+      mission/volunteer-type entries) that lack a traceable Previous Personality.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Reincarnation Methodology Selection Artifact.md
+      note: Formalizes the document's core claim about selection artifacts and the
+        'arrival' cohort.
+    status: preliminary
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    trace_status: complete
+    id: CONSC-121
+    connections:
+    - target: CONSC-120
+      type: developed_by
+      note: Develops the specific claim that CORT/SOCS acts as a trauma-weighted filter
+        producing under-detection of non-cyclic cohorts.
+    - target: CONSC-047
+      type: supported_by
+      note: SOCS/CORT scoring privileges verifiable trauma-linked PP cases, implying
+        a structural selection artifact.
+    - target: CONSC-048
+      type: supported_by
+      note: Ohkado 'reverse cases' show intermission/pre-birth memories can occur
+        without past-life recall, consistent with under-detected non-cyclic cohorts.
+    - target: CONSC-049
+      type: supported_by
+      note: VPE/perinatal verification provides a verification pathway for pre-existence-type
+        cases outside PP tracing.
+    - target: CONSC-050
+      type: supported_by
+      note: COPET proposal formalizes a complementary research design explicitly aimed
+        at capturing the under-detected cohort.
+    confidence: 0.807
 untraced: []
 extended_nodes:
   BIBL-023:

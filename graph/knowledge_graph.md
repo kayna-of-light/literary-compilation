@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 07:45*
+*Last exported: 2026-01-11 07:53*
 
 ---
 
@@ -10,20 +10,20 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 349 |
-| Total Connections | 248 |
+| Total Nodes | 351 |
+| Total Connections | 257 |
 | Untraced Claims | 0 |
 
 ### By Status
 
-- **preliminary**: 68
+- **preliminary**: 70
 - **validated**: 274
 - **contested**: 7
 
 ### By Domain
 
 - **Biblical Scholarship** (BIBL): 33
-- **Consciousness Studies** (CONSC): 103
+- **Consciousness Studies** (CONSC): 105
 - **Cross-Domain** (CROSS): 39
 - **Early Christian History** (EARLY): 30
 - **The Gnostic Impulse** (GNOS): 26
@@ -39,7 +39,7 @@
 
 #### [CONSC-001] Consciousness-Driven Evolution (CDE) - Consciousness as Causal Force
 
-**Status**: validated | **Confidence**: 0.565
+**Status**: validated | **Confidence**: 0.591
 
 > Consciousness is the fundamental, active force in reality—not an epiphenomenal byproduct of neural activity. In cultural evolution, the collective "ruling love" of a population creates selective pressures that push societies along one of two evolutionary trajectories: toward coherence/unity (love of neighbor) or fragmentation/conflict (love of self). CDE is the empirical face of the Swedenborgian influx doctrine: consciousness flows from spiritual source and shapes physical expression.
 
@@ -56,6 +56,7 @@
 - → `CONSC-113` (develops): Extends volunteer-soul model: commissioning/activation beyond near-death contexts
 - → `CONSC-114` (develops): Extends volunteer-soul model: post-call integration dynamics and friction
 - → `CONSC-115` (develops): Extends volunteer-soul model: proposed preparatory trait/readiness correlates
+- → `CONSC-120` (develops): Extends consciousness-first framing to methodological questions about what survival phenomena become empirically visible under different research designs.
 
 ---
 
@@ -609,6 +610,9 @@
 1. [T] data/01_Consciousness_Studies/Reincarnation Methodology Selection Artifact.md
 2. [E] Tucker, J., 'Life Before Life' (2005), SOCS methodology
 3. [S] Stevenson, I., 'Twenty Cases Suggestive of Reincarnation' (1966)
+
+**Connections**:
+- → `CONSC-121` (supports): SOCS/CORT scoring privileges verifiable trauma-linked PP cases, implying a structural selection artifact.
 
 ---
 
@@ -1600,7 +1604,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [CONSC-119] Transformation-First Healing Hypothesis (Spontaneous Remission Timing)
 
-**Status**: preliminary | **Confidence**: unknown
+**Status**: preliminary | **Confidence**: 0.3
 
 > In spontaneous remission cases where both psycho-spiritual transformation and physical healing occur, transformation events tend to precede the onset of remission more often than would be expected by chance. This temporal asymmetry supports the correspondential prediction that changes in will/meaning-state are prior to changes in bodily ultimates (without, by itself, proving causation).
 
@@ -1611,6 +1615,41 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `CONSC-104` (developed_by): Applies healing-correspondence concept to a testable temporal prediction: transformation typically precedes remission.
 - → `CONSC-054` (supported_by): 569-case analysis: in clear-order testimonial subset (n=138), 85.5% transformation precedes healing (χ²=69.59; p<0.001), supporting transformation-first timing.
+
+---
+
+#### [CONSC-120] Methodological Selection Effects in Reincarnation Research
+
+**Status**: preliminary | **Confidence**: unknown
+
+> The idea that dominant verification-centered approaches in reincarnation research (especially CORT/SOCS) systematically shape what kinds of cases are discovered, investigated, and counted. In particular, methodologies optimized for identifying a verifiable Previous Personality preferentially surface trauma-linked "return" cases (Restorative Incarnation) and tend to under-detect non-cyclic or "arrival" cases (pre-existence, intermission-only, mission/volunteer profiles) that lack a traceable prior death record.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Reincarnation Methodology Selection Artifact.md
+
+**Connections**:
+- → `CONSC-001` (developed_by): Extends consciousness-first framing to methodological questions about what survival phenomena become empirically visible under different research designs.
+- → `CONSC-121` (develops): Develops the specific claim that CORT/SOCS acts as a trauma-weighted filter producing under-detection of non-cyclic cohorts.
+
+---
+
+#### [CONSC-121] CORT Trauma Filter Hypothesis (Non-Cyclic Cohort Under-Detection)
+
+**Status**: preliminary | **Confidence**: unknown
+
+> The CORT paradigm (and SOCS-style strength metrics) functions as a trauma-weighted filter: cases with violent/premature death and verifiable prior-personality details are more likely to be detected, investigated, and scored as "strong". As a result, reincarnation research datasets may overrepresent trauma-linked Restorative Incarnation returns and underrepresent (or exclude) non-cyclic/pre-existence profiles (e.g., intermission-only "reverse cases" and mission/volunteer-type entries) that lack a traceable Previous Personality.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Reincarnation Methodology Selection Artifact.md
+
+**Connections**:
+- → `CONSC-120` (developed_by): Develops the specific claim that CORT/SOCS acts as a trauma-weighted filter producing under-detection of non-cyclic cohorts.
+- → `CONSC-047` (supported_by): SOCS/CORT scoring privileges verifiable trauma-linked PP cases, implying a structural selection artifact.
+- → `CONSC-048` (supported_by): Ohkado 'reverse cases' show intermission/pre-birth memories can occur without past-life recall, consistent with under-detected non-cyclic cohorts.
+- → `CONSC-049` (supported_by): VPE/perinatal verification provides a verification pathway for pre-existence-type cases outside PP tracing.
+- → `CONSC-050` (supported_by): COPET proposal formalizes a complementary research design explicitly aimed at capturing the under-detected cohort.
 
 ---
 

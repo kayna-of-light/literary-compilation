@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 14:56*
+*Last exported: 2026-01-11 16:16*
 
 ---
 
@@ -10,25 +10,25 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 376 |
-| Total Connections | 582 |
+| Total Nodes | 388 |
+| Total Connections | 638 |
 | Untraced Claims | 0 |
 
 ### By Status
 
-- **preliminary**: 90
+- **preliminary**: 102
 - **validated**: 279
 - **contested**: 7
 
 ### By Domain
 
-- **Biblical Scholarship** (BIBL): 42
+- **Biblical Scholarship** (BIBL): 50
 - **Consciousness Studies** (CONSC): 106
 - **Cross-Domain** (CROSS): 39
 - **Early Christian History** (EARLY): 36
 - **The Gnostic Impulse** (GNOS): 26
-- **Mythological Studies** (MYTH): 39
-- **Swedenborgian Theology** (SWED): 88
+- **Mythological Studies** (MYTH): 38
+- **Swedenborgian Theology** (SWED): 93
 
 ---
 
@@ -1773,7 +1773,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-001] Doctrine of Correspondences
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.666
 
 > The foundational principle that the entire natural world is a plane of effects corresponding directly to the spiritual world (plane of causes). Every object, event, and process in nature has a spiritual meaning through systematic, law-like relationships. This correspondence is not symbolic but causal and continuous.
 
@@ -1792,12 +1792,15 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-033` (develops): Doc: Historical Word depends on the Doctrine of Correspondences (the literal story is the vessel that carries the spiritual sense)
 - → `SWED-032` (develops): Doc: Allegorical Word (Genesis 1–11) is meaningful only through correspondences (spiritual sense within literal vessel)
 - → `SWED-028` (develops): Doc: Swedenborg’s methodological-imperative argument depends on the Doctrine of Correspondences (literal sense as stable vessel for spiritual sense)
+- → `SWED-097` (develops): Doc frames Exile as historical conduit within correspondences framework.
+- → `SWED-041` (develops): Anchors Zoroastrian menog/getig ontology concept under Doctrine of Correspondences (per Tracing Ancient Correspondence Knowledge).
+- → `SWED-098` (develops): Anchors Zoroastrian beneficent/khrafstra taxonomy concept under Doctrine of Correspondences.
 
 ---
 
 #### [SWED-002] Divine Influx
 
-**Status**: validated | **Confidence**: 0.506
+**Status**: validated | **Confidence**: 0.667
 
 > The continuous flow of divine love and wisdom from the Lord into creation, operating through the spiritual world into the natural. Influx adapts to the receptive capacity of vessels (human minds, texts, institutions). The mechanism by which Providence guides history and regeneration.
 
@@ -1863,7 +1866,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-004] The Ancient Word
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.765
 
 > A lost universal scripture predating the Hebrew Bible, written entirely in correspondences. Genesis 1-11 contains fragments of this Ancient Word as "made-up histories" (pure allegories), distinct from the "real history" beginning with Abraham. Represents the Most Ancient Church's cognitive state.
 
@@ -1877,6 +1880,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-042` (develops): SWED-042 is a specific historical-rupture hypothesis developed from the Ancient Word concept (mechanism for archival loss + fragmentation of correspondential knowledge).
 - → `SWED-093` (develops): The document frames correspondential knowledge as ancient and later lost; this hypothesis specifies the claimed idolatry outcome of that loss.
 - → `MYTH-003` (parallels): Doc 4: deep-time mnemonic/symbolic systems are presented as external analogs that align with (and thus parallel) Swedenborg's Ancient Word hypothesis.
+- → `EARLY-008` (integrates_into): Magi synthesis draws on Ancient Word / lost correspondences framing.
+- → `EARLY-006` (integrates_into): Magi tradition synthesis draws on Ancient Word framing.
 
 ---
 
@@ -1904,7 +1909,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-006] Most Ancient Church (Golden Age)
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.595
 
 > The primordial spiritual state of humanity characterized by direct internal perception of divine truth. "Celestial men" who thought in correspondences with internal/natural mind harmony. No need for external written Word as they perceived spiritual meaning directly in nature. Pre-verbal cognitive state.
 
@@ -2039,7 +2044,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-017] Divine Bricolage: Adaptive Influx
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.75
 
 > The providential mechanism by which Divine Influx guides human history to create 'vessels' capable of holding spiritual truth. As humanity 'fell' from internal intuition to external concepts, God adapted His communication method—using the 'materials at hand' (myths, memories, histories) to construct containers for the Infinite. The 'falsity' of the outer layer becomes the vehicle for the truth of the inner layer.
 
@@ -2371,6 +2376,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
 
+**Connections**:
+- → `EARLY-008` (integrates_into): Magi synthesis presupposes menog/getig-style correspondence ontology.
+- → `EARLY-006` (integrates_into): Magi tradition synthesis presupposes menog/getig correspondence ontology.
+- → `SWED-001` (developed_by): Anchors Zoroastrian menog/getig ontology concept under Doctrine of Correspondences (per Tracing Ancient Correspondence Knowledge).
+
 ---
 
 #### [SWED-042] Alexander's Catastrophe (Damdat Nask Destruction)
@@ -2388,12 +2398,13 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-078` (supported_by): SWED-078 consolidates the classical-source silence + PFA/admin nature + bullae/parchment destruction findings that SWED-042 uses as the historical rupture substrate.
 - → `SWED-085` (supported_by): Bullae and related PFA evidence directly support the claim that parchment/leather archives existed and were destroyed in the Persepolis conflagration (core premise inside SWED-042).
 - → `SWED-096` (parallels): Both treat Bundahišn as preserving Damdat Nask content after canonical rupture.
+- → `SWED-087` (supported_by): Doc mentions scientific corpus translated/accessible to Greeks; supports conquest/dispersion motif.
 
 ---
 
 #### [SWED-043] Daniel as Rab-hartummin (Prophetic-Sapiential Synthesis)
 
-**Status**: validated | **Confidence**: 0.831
+**Status**: validated | **Confidence**: 0.88
 
 > The historical-theological significance of Daniel's position as RAB-HARTUMMIN  (Chief of the Magicians/Scribes) and RAB-SIGNĪN (Chief Prefect) over the wise  men of Babylon (Dan 2:48, 5:11). NOTE: Daniel is NEVER called "Rab-mag" in  the biblical text—that title belongs exclusively to Nergal-sharezer in Jeremiah  39:3. Daniel received training in "the learning and tongue of the Chaldeans"  (Dan 1:4). Critical scholarship dates the book's final redaction to 167-164 BCE  (Maccabean period), with Court Tales (Dan 1-6) preserving older Persian-era  traditions. Daniel functions as a literary "synthesis figure" bridging  PROPHETIC revelation and SAPIENTIAL tradition, demonstrating the God of Heaven  as the true "Revealer of Mysteries" through correspondential imagery.
 
@@ -2403,6 +2414,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `SWED-079` (supported_by): Doc 3: Daniel's Rab-mag/Rab-hartummin role transmits messianic prophecy into Magian archives, supporting the Prophetic-Sapiential Synthesis hypothesis.
+- → `SWED-097` (developed_by): Doc frames Daniel’s exilic role (Rab-hartummin / chief of magicians; Rab-signin / chief prefect) within Exile-as-conduit.
+- → `SWED-089` (supported_by): Doc frames Daniel trained in Chaldean learning; supports integration premise.
 
 ---
 
@@ -2924,6 +2937,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [W] https://www.researchgate.net/publication/375319966_Memory_In_Oral_Traditions
 4. [T] data/unclassified/The Archival Rupture...md
 
+**Connections**:
+- → `SWED-096` (supports): Doc argues encyclopedic taxonomies imply writing; supports Bundahishn-as-written-summary thesis.
+
 ---
 
 #### [SWED-084] Bureaucratic Threshold: Trans-Continental Data Synchronization
@@ -2985,6 +3001,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 5. [W] https://www.philipharland.com/Blog/2022/06/persian-wisdom-eudemos-of-rhodes-on-magians/
 6. [T] data/unclassified/The Archival Rupture...md
 
+**Connections**:
+- → `SWED-042` (supports): Doc mentions scientific corpus translated/accessible to Greeks; supports conquest/dispersion motif.
+
 ---
 
 #### [SWED-088] Bundahishn Structure: Fossil of Encyclopedic Written Source
@@ -3016,6 +3035,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [W] https://oxfordre.com/classics/display/10.1093/acrefore/9780199381135.001.0001/acrefore-9780199381135-e-8852
 4. [W] https://en.wikipedia.org/wiki/Indian_astronomy
 5. [T] data/unclassified/The Archival Rupture...md
+
+**Connections**:
+- → `SWED-043` (supports): Doc frames Daniel trained in Chaldean learning; supports integration premise.
 
 ---
 
@@ -3101,7 +3123,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-095] Dāmdād Nask (Sasanian Encyclopedic Nask)
 
-**Status**: preliminary | **Confidence**: 0.3
+**Status**: preliminary | **Confidence**: 0.732
 
 > A major Sasanian-era Nask (volume) of the Zoroastrian canon associated with cosmogony and 'the data of creation' (mēnōg/gētīg creation, taxonomy of beings, anthropology, and eschatology). In later Middle Persian tradition it is treated as a systematic, scientific and cosmological reference work rather than a purely liturgical text.
 
@@ -3116,7 +3138,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-096] Bundahišn Preserves the Zand of the Dāmdād Nask
 
-**Status**: preliminary | **Confidence**: 0.831
+**Status**: preliminary | **Confidence**: 0.861
 
 > The Greater Bundahišn is best understood as an epitome of the Middle Persian Zand (commentary/translation) tradition of the lost Dāmdād Nask, preserving its structural sequence and key 'encyclopedic' contents (cosmogony, taxonomy, microcosm-macrocosm mapping, embryology, and eschatological cycle) even when the Avestan originals are no longer extant.
 
@@ -3128,6 +3150,92 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-095` (developed_by): 
 - → `SWED-088` (supported_by): Bundahišn structural concordance is presented as evidence for Bundahišn-as-Zand.
 - → `SWED-042` (parallels): Both treat Bundahišn as preserving Damdat Nask content after canonical rupture.
+- → `SWED-083` (supported_by): Doc argues encyclopedic taxonomies imply writing; supports Bundahishn-as-written-summary thesis.
+
+---
+
+#### [SWED-097] Babylonian Exile as Conduit for Correspondences Knowledge
+
+**Status**: preliminary | **Confidence**: 0.748
+
+> The document frames the Babylonian Exile as a key historical conduit by which Jewish elites came into sustained contact with Magian/Chaldean intellectual traditions, enabling the absorption and reframing of correspondential sign-reading and cosmological taxonomies within post-exilic Judaism.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+
+**Connections**:
+- → `SWED-001` (developed_by): Doc frames Exile as historical conduit within correspondences framework.
+- → `SWED-043` (develops): Doc frames Daniel’s exilic role (Rab-hartummin / chief of magicians; Rab-signin / chief prefect) within the Exile-as-conduit mechanism.
+- → `EARLY-008` (integrates_into): Magi synthesis uses exile/Daniel transmission mechanism.
+- → `EARLY-006` (integrates_into): Magi tradition synthesis uses exile-as-conduit concept.
+
+---
+
+#### [SWED-098] Beneficent vs. Noxious (Gospend/Khrafstra) Taxonomy
+
+**Status**: preliminary | **Confidence**: 0.566
+
+> Zoroastrian natural history is described as distinguishing beneficent creations (gospend) from noxious creatures (khrafstra) within a broader classification of animal kinds.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+
+**Connections**:
+- → `BIBL-049` (parallels): Doc claims overlap between clean/unclean and beneficent/khrafstra taxonomies.
+- → `SWED-001` (developed_by): Anchors Zoroastrian beneficent/khrafstra taxonomy concept under Doctrine of Correspondences.
+- → `SWED-099` (develops): Taxonomy concept is refined into a claim about correspondential moral alignment.
+
+---
+
+#### [SWED-099] Zoroastrian Beneficent/Khrafstra Classification as Correspondence Taxonomy
+
+**Status**: preliminary | **Confidence**: 0.666
+
+> The Zoroastrian distinction between beneficent creatures and khrafstra is treated as a practical correspondence taxonomy, mapping animal kinds and behaviors to spiritual order (Asha) versus disorder (Druj).
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+
+**Connections**:
+- → `SWED-098` (developed_by): Taxonomy concept is refined into a claim about correspondential moral alignment.
+- → `SWED-100` (supported_by): Bundahishn ch. 14–17 taxonomy provides textual witness for beneficent vs. khrafstra classification.
+- → `SWED-101` (supported_by): Bundahišn describes noxious creatures diffused by Ahriman; supports the noxious-creature classification aspect of the correspondence taxonomy claim.
+- → `BIBL-050` (parallels): Doc draws a parallel between Levitical purity taxonomy (clean/unclean) and Zoroastrian beneficent/noxious classification as correspondence taxonomies.
+
+---
+
+#### [SWED-100] Bundahišn: Fivefold Animal Taxonomy (Chapter 14)
+
+**Status**: preliminary | **Confidence**: 0.636
+
+> The Bundahišn preserves a fivefold classification of animals (gospend) and an extensive listing of animal kinds, providing a textual witness for the document’s claim that Zoroastrian natural history organizes beings via a structured taxonomy.
+
+
+**Source Chain**:
+1. [W] https://www.avesta.org/pahlavi/bund14.html
+2. [T] data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+
+**Connections**:
+- → `SWED-099` (supports): Bundahishn ch. 14–17 taxonomy provides textual witness for beneficent vs. khrafstra classification.
+
+---
+
+#### [SWED-101] Bundahišn: Noxious Creatures Diffused by Ahriman (Ch. 3)
+
+**Status**: preliminary | **Confidence**: 0.636
+
+> Bundahišn describes Ahriman’s assault on creation as accompanied by the diffusion of biting and venomous noxious creatures (e.g., snake, scorpion, frog, lizard), grounding the document’s claim that certain creatures are associated with destructive spiritual agency in Zoroastrian cosmology.
+
+
+**Source Chain**:
+1. [W] https://history.hanover.edu/courses/excerpts/260bun.html
+2. [T] data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+
+**Connections**:
+- → `SWED-099` (supports): Bundahišn describes noxious creatures diffused by Ahriman; supports the noxious-creature classification aspect of the correspondence taxonomy claim.
 
 ---
 
@@ -3136,7 +3244,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [BIBL-001] Historical-Critical Method (HCM)
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.669
 
 > The academic methodology for analyzing biblical texts including source criticism, form criticism, redaction criticism, and textual criticism. Treats scripture as historical documents produced in specific contexts by human communities. Provides the "body" tier of two-tiered framework.
 
@@ -3154,6 +3262,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `BIBL-038` (develops): Genesis 1–11 ANE context is part of the scientific/archaeological framing of biblical narratives.
 - → `BIBL-040` (develops): resurrection narrative development is treated as an HCM object of analysis.
 - → `BIBL-044` (develops): Pastoral authorship/dating debate is treated as an HCM problem-space.
+- → `BIBL-045` (develops): Adds tabernacle archetype/copy concept treated in this document.
+- → `BIBL-049` (develops): Adds purity taxonomy (Leviticus 11) concept treated in this document.
 
 ---
 
@@ -3395,7 +3505,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [BIBL-020] Criteria of Authenticity (Historical Jesus Research)
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.422
 
 > Rules of thumb developed by Historical-Critical scholars to identify sayings/events more likely to be historical than later church creations. Key criteria: (1) Multiple Attestation— appears in multiple independent sources (Mark, Q, Paul, John); (2) Embarrassment—awkward for early church, unlikely invention (Jesus's baptism, family's disbelief); (3) Dissimilarity (Double Dissimilarity)—unlike both Judaism and early Christianity, isolates Jesus's unique voice. Recent criticism: Dissimilarity criterion produces distorted Jesus disconnected from Jewish context and disciples. Modern scholars prefer 'historical plausibility' within 1st-century Judaism.
 
@@ -3492,13 +3602,16 @@ events exist in causal networks.
 
 #### [BIBL-026] Thera Eruption Plagues Correlation
 
-**Status**: preliminary | **Confidence**: 0.869
+**Status**: preliminary | **Confidence**: 0.831
 
-> Geological and archaeological evidence linking the 1600 BCE Thera (Santorini) eruption to the Exodus Plagues. Includes pumice at Tell el-Dab'a (Goshen) and Ultra-Plinian fallout explaining darkness/ecological collapse.
+> Proposed geological/archaeological correlation between Thera (Santorini) eruption impacts and Exodus plague imagery (e.g., darkness/ashfall motifs), including reported pumice/tephra finds in Nile Delta contexts associated with Avaris/Tell el-Dab'a (site-specific linkage requires continued source tracing).
+
 
 **Source Chain**:
 1. [T] data/06_Mythological_Studies/Exodus Narrative_ Mythic Bricolage Study.md
-2. [S] [TRACE NEEDED] Volcanology/archaeology sources for Thera (Santorini) eruption dating and Tell el-Dab'a pumice finds
+2. [S] Friedrich, Walter L., et al. "Santorini Eruption Radiocarbon Dated to 1627-1600 B.C." Science 312.5773 (2006): 548. DOI: 10.1126/science.1125087
+3. [S] Huber, Heinz; Bichler, Max; Musilek, Andreas. "Identification of Pumice and Volcanic Ash from Archaeological Sites in the Eastern Mediterranean Region." Ägypten und Levante 13 (2004): 83–106. DOI: 10.1553/AEundL13s83
+4. [S] Sterba, Johannes H., et al. "New light on old pumice: the origins of Mediterranean volcanic material from ancient Egypt." Journal of Archaeological Science (2009). DOI: 10.1016/j.jas.2009.03.031
 
 **Connections**:
 - → `MYTH-013` (supports): Thera eruption template supports the 'Memory of Cataclysm' component in the three-memory model.
@@ -3507,13 +3620,15 @@ events exist in causal networks.
 
 #### [BIBL-027] Wind Setdown Hydrodynamics
 
-**Status**: preliminary | **Confidence**: 0.737
+**Status**: preliminary | **Confidence**: 0.7
 
-> Oceanographic modeling (Carl Drews) and historical observations (Tulloch, 1882) of wind setdown events in the Nile Delta (Lake Tanis) exposing land bridges with dual water displacement ('walls').
+> Oceanographic modeling (Drews & Han) and historical observation traditions used in the synthesis to propose a plausible "wind setdown" physical template for a Sea of Reeds crossing in a shallow deltaic/lagoon environment; interpretive mapping to biblical imagery remains secondary.
+
 
 **Source Chain**:
 1. [T] data/06_Mythological_Studies/Exodus Narrative_ Mythic Bricolage Study.md
-2. [S] [TRACE NEEDED] Carl Drews wind setdown modeling paper and Major-General Alexander Tulloch (1882) observation
+2. [S] Drews, Carl; Han, Weiqing. "Dynamics of wind setdown at Suez and the Eastern Nile Delta." PLOS ONE 5.8 (2010): e12481. DOI: 10.1371/journal.pone.0012481
+3. [W] Tulloch, Alexander. "The Miracle of the Exodus." Transactions of the Victoria Institute (1896). Internet Archive scan (contains Lake Menzaleh water blown 'beyond the horizon' anecdote).
 
 **Connections**:
 - → `MYTH-013` (supports): Wind setdown modeling supports the 'Memory of Deliverance' component in the three-memory model.
@@ -3522,14 +3637,16 @@ events exist in causal networks.
 
 #### [BIBL-028] Late Bronze Age Collapse & Merneptah Stele
 
-**Status**: preliminary | **Confidence**: 0.85
+**Status**: preliminary | **Confidence**: 0.812
 
-> Historical correlation of 'Israel' emergence (Merneptah Stele, 1207 BCE) with the LBAC (1200-1150 BCE) and Egyptian imperial withdrawal from Canaan, grounding the 'liberation' theme in political history.
+> Historical anchors often used in Exodus-formation models: the Merneptah Stele’s (c. 1207 BCE) attestation of “Israel” as a people group, alongside standard Late Bronze Age collapse chronology and Egyptian contraction/withdrawal dynamics in Canaan.
+
 
 **Source Chain**:
 1. [T] data/06_Mythological_Studies/Exodus Narrative_ Mythic Bricolage Study.md
 2. [P] Merneptah Stele (c. 1207 BCE)
-3. [S] [TRACE NEEDED] Secondary scholarship on Late Bronze Age Collapse chronology and Egyptian imperial withdrawal
+3. [S] Hasel, Michael G. "Israel in the Merneptah Stela." Bulletin of the American Schools of Oriental Research 296 (1994). DOI: 10.2307/1357179
+4. [S] Cline, Eric H. 1177 B.C.: The Year Civilization Collapsed. Princeton University Press (2014). DOI: 10.1515/9781400849987
 
 **Connections**:
 - → `MYTH-013` (supports): LBAC + Merneptah attestation supports the 'Memory of Liberation' component in the three-memory model.
@@ -3538,7 +3655,7 @@ events exist in causal networks.
 
 #### [BIBL-029] Criterion of Temptation
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.422
 
 > Reinterpretation of HCM 'Criterion of Embarrassment'; embarrassing details are historical footprints of spiritual combat.
 
@@ -3672,7 +3789,7 @@ events exist in causal networks.
 
 #### [BIBL-038] Genesis 1–11 in Ancient Near Eastern Mythic Context
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.752
 
 > The study of Genesis 1–11 (creation, primordial history, and flood narratives) in relation to earlier and parallel Ancient Near Eastern mythic traditions. This includes comparative analysis (motifs, structure, and theology) and how biblical authors adapted inherited narrative materials.
 
@@ -3784,6 +3901,138 @@ events exist in causal networks.
 
 ---
 
+#### [BIBL-045] Heavenly Archetype and Earthly Copy (Tabernacle Typology)
+
+**Status**: preliminary | **Confidence**: 0.643
+
+> The Tabernacle/Temple is interpreted as an earthly pattern corresponding to a heavenly archetype, so that ritual structures function as copies or shadows of spiritual realities rather than as self-contained ends.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+
+**Connections**:
+- → `BIBL-001` (developed_by): Adds tabernacle archetype/copy concept treated in this document.
+- → `BIBL-046` (develops): Doc claims sanctuary+Hebrews encode copy/shadow-to-reality ontology.
+
+---
+
+#### [BIBL-046] Priestly Sanctuary + Hebrews Encode Copy/Shadow-to-Reality Ontology
+
+**Status**: preliminary | **Confidence**: 0.757
+
+> The Priestly Tabernacle pattern and Hebrews’ copy-and-shadow language jointly reflect a correspondence ontology in which material forms are valid but derivative vessels of heavenly realities.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+
+**Connections**:
+- → `BIBL-045` (developed_by): Doc claims sanctuary+Hebrews encode copy/shadow-to-reality ontology.
+- → `BIBL-047` (supported_by): Heb 8:5; 10:1 provide explicit copy/shadow framing.
+- → `BIBL-048` (supported_by): Ex 25:40 supplies the pattern/archetype premise used in tabernacle argument.
+
+---
+
+#### [BIBL-047] Hebrews: Copy and Shadow vs. True Form (Heb 8:5; 10:1)
+
+**Status**: preliminary | **Confidence**: 0.727
+
+> Hebrews states that the earthly sanctuary and the Law are a copy and shadow of what is in heaven and a shadow of good things to come rather than the true form of these realities, explicitly contrasting derivative ritual forms with heavenly substance.
+
+
+**Source Chain**:
+1. [P] Hebrews 8:5; Hebrews 10:1
+2. [T] data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+
+**Connections**:
+- → `BIBL-046` (supports): Heb 8:5; 10:1 provide explicit copy/shadow framing.
+
+---
+
+#### [BIBL-048] Tabernacle Built to a Heavenly Pattern (Exodus 25:40)
+
+**Status**: preliminary | **Confidence**: 0.727
+
+> Exodus frames the Tabernacle as constructed according to a divinely shown pattern, supporting an archetype-to-copy logic later made explicit in Hebrews’ shadow/reality language.
+
+
+**Source Chain**:
+1. [P] Exodus 25:40
+2. [T] data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+
+**Connections**:
+- → `BIBL-046` (supports): Ex 25:40 supplies the pattern/archetype premise used in tabernacle argument.
+
+---
+
+#### [BIBL-049] Clean/Unclean Taxonomy as Ritual Semiotics (Leviticus 11)
+
+**Status**: preliminary | **Confidence**: 0.618
+
+> In this document, Leviticus 11’s clean/unclean classifications are treated as a symbolic taxonomy that encodes order, boundaries, and holiness (a ritual semiotics), rather than being reduced to hygiene alone.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+
+**Connections**:
+- → `BIBL-001` (developed_by): Adds purity taxonomy (Leviticus 11) concept treated in this document.
+- → `BIBL-050` (develops): Doc interprets purity laws as correspondence-based taxonomy of order/disorder.
+- → `SWED-098` (parallels): Doc claims overlap between clean/unclean and beneficent/khrafstra taxonomies.
+
+---
+
+#### [BIBL-050] Purity Laws as Correspondence Taxonomy (Clean/Unclean ↔ Order/Disorder)
+
+**Status**: preliminary | **Confidence**: 0.727
+
+> The document interprets the purity system as mapping animal categories to order/disorder boundary markers, with clean/unclean functioning as a correspondence taxonomy of holiness. It also draws a parallel to Zoroastrian beneficent/noxious classification (tracked separately via explicit parallels connections).
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+
+**Connections**:
+- → `BIBL-049` (developed_by): Doc interprets purity laws as correspondence-based taxonomy of order/disorder.
+- → `BIBL-051` (supported_by): Leviticus 11 provides the textual classification substrate.
+- → `BIBL-052` (supported_by): Douglas provides a secondary theoretical grounding for reading purity rules as boundary-maintenance taxonomy.
+- → `SWED-099` (parallels): Doc draws a parallel between Levitical purity taxonomy (clean/unclean) and Zoroastrian beneficent/noxious classification as correspondence taxonomies.
+
+---
+
+#### [BIBL-051] Leviticus 11: Clean/Unclean Classification Rules
+
+**Status**: preliminary | **Confidence**: 0.727
+
+> Leviticus 11 defines clean vs. unclean categories across land, sea, and air creatures, and includes explicit restrictions on creeping things that creep upon the earth (Lev 11:41–42), providing the textual substrate for ritual taxonomy claims.
+
+
+**Source Chain**:
+1. [P] Leviticus 11
+2. [T] data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+
+**Connections**:
+- → `BIBL-050` (supports): Leviticus 11 provides the textual classification substrate.
+
+---
+
+#### [BIBL-052] Mary Douglas: Holiness as Wholeness and Category Anomaly (Purity and Danger)
+
+**Status**: preliminary | **Confidence**: 0.555
+
+> Mary Douglas argues that purity systems often encode symbolic order through boundary maintenance; in her analysis of Leviticus, “holiness” is associated with wholeness and conformity to class, and animals that breach categorical expectations become markers of impurity.
+
+
+**Source Chain**:
+1. [S] Mary Douglas, Purity and Danger: An Analysis of Concepts of Pollution and Taboo (1966)
+2. [T] data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+
+**Connections**:
+- → `BIBL-050` (supports): Douglas provides a secondary theoretical grounding for reading purity rules as boundary-maintenance taxonomy.
+
+---
+
 ### Early Christian History
 *Jamesian and Pauline movements, Desposyni, Magi studies*
 
@@ -3869,6 +4118,11 @@ events exist in causal networks.
 **Source Chain**:
 1. [T] data/04_Early_Christian_History/The Luminous Science.md
 
+**Connections**:
+- → `SWED-004` (integrated_from): Magi tradition synthesis draws on Ancient Word framing.
+- → `SWED-041` (integrated_from): Magi tradition synthesis presupposes menog/getig correspondence ontology.
+- → `SWED-097` (integrated_from): Magi tradition synthesis uses exile-as-conduit concept.
+
 ---
 
 #### [EARLY-007] The Desposyni (Davidic Dynasty)
@@ -3892,6 +4146,11 @@ events exist in causal networks.
 
 **Source Chain**:
 1. [T] data/04_Early_Christian_History/The Luminous Science_ A Re-examination of the Magi.md
+
+**Connections**:
+- → `SWED-004` (integrated_from): Magi synthesis draws on Ancient Word / lost correspondences framing.
+- → `SWED-041` (integrated_from): Magi synthesis presupposes menog/getig-style correspondence ontology.
+- → `SWED-097` (integrated_from): Magi synthesis uses exile/Daniel transmission mechanism.
 
 ---
 
@@ -3971,7 +4230,7 @@ events exist in causal networks.
 
 #### [EARLY-015] The Bauer Thesis: Orthodoxy as Imperial Construct
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.693
 
 > Walter Bauer's thesis that in many early Christian regions (Egypt, Edessa, Asia Minor), what was later labeled "heresy" (Gnosticism, Marcionism) was actually the original and dominant form of Christianity, while "Orthodoxy" was a later importation backed by Rome. The Roman church achieved dominance through: (1) Financial imperialism - "charity" creating client-patron networks; (2) Weaponized excommunication (Victor I vs. Quartodecimans); (3) Installation of aligned bishops (Palut in Edessa via Serapion/Rome chain); (4) Historical revisionism (Doctrine of Addai). In Edessa, "Orthodox" Christians were pejoratively called "Palutians" by the Marcionite majority, proving Orthodoxy was the sectarian newcomer. The triumph was not theological but institutional - Rome offered governable "Pistis" (faith/obedience) vs. ungovernable "Gnosis" (knowledge/experience).
 
@@ -4312,7 +4571,7 @@ popularized and extended this thesis with additional evidence.
 
 #### [EARLY-036] Jamesian Jerusalem Authority and Torah-Observant Ethos
 
-**Status**: preliminary | **Confidence**: 0.3
+**Status**: preliminary | **Confidence**: 0.765
 
 > The Jerusalem-based Jesus movement is best characterized by James-centered leadership, Torah-observant piety, and a community ethos oriented around wisdom ethics and the protection of the poor (Ebionim), standing in tension with later Pauline, law-abrogating and empire-compatible trajectories.
 
@@ -4350,7 +4609,7 @@ popularized and extended this thesis with additional evidence.
 
 #### [GNOS-001] The Gnostic Impulse
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.765
 
 > The recurring spiritual pattern characterized by: (1) cosmology of captivity (material world as prison/defect), (2) divine spark within (human as deity in amnesia), (3) salvation by intellectual ascent (gnosis over faith/works), (4) self-identification as divine. Framework: the intellectual form of proprium.
 
@@ -4731,7 +4990,7 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 
 #### [MYTH-001] Mythic Bricolage Process
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.85
 
 > The documented process by which new sacred narratives are assembled from existing cultural memory fragments, existing myths, and oral traditions. Lévi-Strauss's concept applied to biblical formation: scribes as bricoleurs constructing coherent narratives from heterogeneous materials.
 
@@ -4830,7 +5089,7 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 
 #### [MYTH-007] Urmonotheismus (Primitive Monotheism)
 
-**Status**: preliminary | **Confidence**: 0.3
+**Status**: preliminary | **Confidence**: 0.787
 
 > The hypothesis that monotheism (belief in a single High God/Creator) was humanity's original religious orientation, with polytheism and animism representing later "degeneration." Proposed by Lang and Schmidt based on ethnographic evidence of "High God" beliefs among hunter-gatherer societies. Challenges linear evolutionary model (animism→polytheism→monotheism).
 
@@ -4930,7 +5189,7 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 
 **Status**: validated | **Confidence**: 0.9
 
-> The Exodus narrative is a masterpiece of mythic bricolage—a "redacted memory" forged by Iron Age scribes from three authentic but chronologically and causally disconnected historical fragments: (1) Memory of Cataclysm: The plagues correspond to the Thera volcanic eruption (c. 1600 BCE), validated by geomythology and physical evidence (Thera pumice at Tell el-Dab'a in Goshen); (2) Memory of Deliverance: The parting of the Sea of Reeds corresponds to the oceanographic phenomenon of wind setdown in the Nile Delta, validated by Carl Drews' computer modeling; (3) Memory of Liberation: The freedom theme reflects the Late Bronze Age Collapse (c. 1200 BCE) when Egyptian withdrawal from Canaan liberated Shasu and 'Apiru groups. Scribal bricoleurs "rotated" these memories into a linear cause-and-effect narrative serving as Israel's charter myth.
+> The Exodus narrative is modeled here as mythic bricolage—a "redacted memory" forged by Iron Age scribes from three authentic but chronologically and causally disconnected historical fragments: (1) Memory of Cataclysm: plague imagery plausibly draws on older catastrophe traditions (often correlated with Thera/Santorini effects); (2) Memory of Deliverance: the Sea of Reeds crossing is plausibly anchored in shallow-water hydrodynamics (wind setdown) reinterpreted theologically; (3) Memory of Liberation: the freedom theme plausibly reflects the Late Bronze Age collapse era and Egyptian contraction from Canaan. Scribal bricoleurs "rotated" these materials into a linear cause-and-effect narrative serving as Israel’s charter myth.
 
 
 **Source Chain**:
@@ -4941,6 +5200,8 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 - → `BIBL-026` (supported_by): Thera eruption template supports the 'Memory of Cataclysm' component in the three-memory model.
 - → `BIBL-027` (supported_by): Wind setdown modeling supports the 'Memory of Deliverance' component in the three-memory model.
 - → `BIBL-028` (supported_by): LBAC + Merneptah attestation supports the 'Memory of Liberation' component in the three-memory model.
+- → `MYTH-031` (supported_by): Geomythological evidence for deep-time oral preservation supports the feasibility of the three-memory model’s long temporal gaps.
+- → `MYTH-032` (supported_by): Thera + wind setdown physical templates support the cataclysm/deliverance components of the three-memory model.
 
 ---
 
@@ -5103,17 +5364,6 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 
 ---
 
-#### [MYTH-024] Deep Time Oral Tradition (Songlines)
-
-**Status**: preliminary | **Confidence**: 0.869
-
-> Anthropological evidence (Australian Aboriginal Songlines, Klamath myths) demonstrating high-fidelity oral preservation of geological events (sea level rise, volcanoes) for 7000+ years, validating the survival of Thera memories.
-
-**Source Chain**:
-1. [S] Exodus Narrative_ Mythic Bricolage Study.md
-
----
-
 #### [MYTH-025] Mythic Bricolage
 
 **Status**: validated | **Confidence**: 0.3
@@ -5208,29 +5458,37 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 
 #### [MYTH-031] Geomythological Evidence for Oral Tradition Durability
 
-**Status**: validated | **Confidence**: 0.845
+**Status**: validated | **Confidence**: 0.805
 
-> Geomythological research demonstrates oral traditions can preserve accurate memory of geological events across millennia with remarkable fidelity: (1) Klamath oral tradition accurately describes the 7,700-year-old formation of Crater Lake from Mount Mazama's collapse; (2) Australian Aboriginal songlines preserve accurate coastal geography from 7,000+ years ago (before post-glacial sea level rise); (3) Pacific Northwest tribes preserve tsunami memories matching 1700 CE Cascadia event with verified Japanese records. This validates the Exodus Bricolage hypothesis: if oral traditions can preserve 7,000-year-old geological events, the 1600-1200-650 BCE temporal gaps in the Three-Memory Model are well within demonstrated preservation capacity of oral cultures.
+> Geomythological research is frequently cited to support the feasibility of long-term oral preservation of salient geological events (e.g., Crater Lake/Mazama traditions; coastal inundation memories; Cascadia 1700 tsunami correlations), suggesting that multi-century gaps in Exodus-formation models are not impossible in principle.
+
 
 **Source Chain**:
-1. [E] Barber, E. & Barber, P. When They Severed Earth from Sky: How the Human Mind Shapes Myth. Princeton, 2004.
-2. [E] Nunn, Patrick. The Edge of Memory: Ancient Stories, Oral Tradition and the Post-Glacial World. Bloomsbury, 2018.
-3. [E] Clark, Ella. Indian Legends of the Pacific Northwest. UC Press, 1953.
-4. [E] Atwater, Brian. The Orphan Tsunami of 1700. USGS, 2005.
+1. [S] Barber, E. & Barber, P. When They Severed Earth from Sky: How the Human Mind Shapes Myth. Princeton, 2004.
+2. [S] Nunn, Patrick. The Edge of Memory: Ancient Stories, Oral Tradition and the Post-Glacial World. Bloomsbury, 2018.
+3. [S] Clark, Ella. Indian Legends of the Pacific Northwest. University of California Press, 1953.
+4. [S] Atwater, Brian. The Orphan Tsunami of 1700. U.S. Geological Survey, 2005.
+
+**Connections**:
+- → `MYTH-013` (supports): Geomythological evidence for deep-time oral preservation supports the feasibility of the three-memory model’s long temporal gaps.
 
 ---
 
 #### [MYTH-032] Thera Volcanic Evidence Correlated with Exodus Plagues
 
-**Status**: validated | **Confidence**: 0.869
+**Status**: validated | **Confidence**: 0.844
 
-> Physical and geological evidence correlates the Thera (Santorini) volcanic eruption (c. 1600 BCE) with multiple Exodus plague accounts: (1) Thera pumice discovered at Tell el-Dab'a (ancient Avaris/Goshen) - physical proof of ashfall in Nile Delta; (2) Volcanic effects match plague sequence: red-colored water (ferric compounds), darkness (ash cloud), 'hail of fire' (lapilli/pumice), fish death (acidification); (3) Carl Drews' computer modeling confirms 'wind setdown' phenomenon - 63 mph wind for 12 hours could expose a land bridge at Lake of Tanis for ~4 hours, matching 'walls of water' description. Evidence establishes historical kernel within mythologically elaborated narrative.
+> A bundled evidence set commonly cited in Exodus-formation discussions: Thera eruption dating, reported Nile Delta pumice/tephra correlations, and wind setdown modeling in shallow deltaic settings. In this framework these are treated as proposed physical templates that may have informed later plague/sea-crossing motifs, pending continued source tracing for site-specific claims.
+
 
 **Source Chain**:
-1. [E] Bietak, Manfred. Avaris excavation reports. Austrian Archaeological Institute.
-2. [E] Drews, Carl. "Dynamics of Wind Setdown at Suez and the Eastern Nile Delta." PLoS ONE, 2010.
-3. [E] Friedrich et al. "Santorini Eruption Radiocarbon Dated to 1627-1600 BC." Science, 2006.
+1. [S] Bietak, Manfred. Avaris excavation reports (Austrian Archaeological Institute).
+2. [S] Drews, Carl; Han, Weiqing. Dynamics of wind setdown at Suez and the Eastern Nile Delta. PLOS ONE 5.8 (2010): e12481. DOI: 10.1371/journal.pone.0012481
+3. [S] Friedrich, Walter L., et al. Santorini Eruption Radiocarbon Dated to 1627-1600 B.C. Science 312.5773 (2006): 548. DOI: 10.1126/science.1125087
 4. [T] data/06_Mythological_Studies/Forging a Nation in Memory.md
+
+**Connections**:
+- → `MYTH-013` (supports): Thera + wind setdown physical templates support the cataclysm/deliverance components of the three-memory model.
 
 ---
 
@@ -5321,7 +5579,7 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 
 #### [MYTH-038] Calendar as Sectarian Boundary Marker
 
-**Status**: preliminary | **Confidence**: 0.3
+**Status**: preliminary | **Confidence**: 0.706
 
 > In Second Temple Judaism, disputes over calendrical reckoning were not merely technical; they functioned as boundary markers for communal identity and competing claims to religious authority, since controlling the calendar controls the timing of Sabbaths and festivals.
 
@@ -5658,7 +5916,7 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 
 #### [CROSS-023] Two-Tiered Epistemology
 
-**Status**: preliminary | **Confidence**: 0.3
+**Status**: preliminary | **Confidence**: 0.6
 
 > A methodology distinguishing the 'Natural Plane' (Body/Effects) from the 'Spiritual Plane' (Soul/Causes). Natural plane uses scientific/HCM methods; Spiritual plane uses Swedenborgian correspondences.
 

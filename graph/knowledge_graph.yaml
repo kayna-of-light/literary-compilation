@@ -12668,7 +12668,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-044
-    connections: []
+    connections:
+    - target: CONSC-116
+      type: supports
+      note: Entity-role cross-tabulation supports differentiated functional roles
+        (ecosystem)
   CONSC-045:
     confidence: 0.775
     confidence_factors:
@@ -12752,7 +12756,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-045
-    connections: []
+    connections:
+    - target: CONSC-117
+      type: supports
+      note: Cross-cultural and cross-form convergence supports constant-state/variable-form
+        mapping
   CONSC-046:
     confidence: 0.86
     confidence_factors:
@@ -16315,7 +16323,11 @@ nodes:
     status: validated
     title: Correspondential Validation Methodology (Word vs Writings Filter)
     id: SWED-035
-    connections: []
+    connections:
+    - target: CONSC-117
+      type: develops
+      note: 'Methodological framing: operationalizes correspondential validation as
+        a falsifiable mapping from form to function'
     created: '2026-01-10'
     updated: '2026-01-10'
     trace_status: complete
@@ -17394,6 +17406,13 @@ nodes:
       type: develops
     - target: CONSC-001
       type: developed_by
+    - target: CONSC-116
+      type: develops
+      note: 'Tool-kit/modular framing: entity encounters show differentiated functional
+        roles'
+    - target: CONSC-117
+      type: develops
+      note: 'Modular/toolkit model: diverse imagery forms map onto stable functions/outcomes'
     created: '2026-01-11'
     updated: '2026-01-11'
     trace_status: complete
@@ -17513,6 +17532,68 @@ nodes:
       note: Articulates proposed Stage-1 preparatory correlates within the volunteer-soul
         hypothesis
     confidence: 0.3
+  CONSC-116:
+    domain: CONSC
+    node_type: hypothesis
+    title: Entity Ecosystem Hypothesis (Differentiated Functional Roles)
+    definition: 'NDE entity encounters reflect a structured ecosystem in which being-types
+      exhibit differentiated functional roles (e.g., relatives functioning more as
+      return gatekeepers; higher-order beings more as guidance-givers presenting agency),
+      rather than interchangeable appearances.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/NDE Entity Roles and Correspondential Validation.md
+      note: Derived hypothesis framing from the entity-role statistical analysis
+    status: preliminary
+    trace_status: complete
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: CONSC-116
+    connections:
+    - target: CONSC-111
+      type: developed_by
+      note: 'Tool-kit/modular framing: entity encounters show differentiated functional
+        roles'
+    - target: CONSC-044
+      type: supported_by
+      note: Entity-role cross-tabulation supports differentiated functional roles
+        (ecosystem)
+    confidence: 0.695
+  CONSC-117:
+    domain: CONSC
+    node_type: hypothesis
+    title: Correspondential Mapping Hypothesis (Constant State, Variable Form)
+    definition: 'Across NDEs, culturally diverse imagery (passage types, light/being
+      forms, religious identifications) maps to functionally equivalent experiential
+      states and outcomes (belonging, guidance, return dynamics), indicating variable
+      form with constant underlying state.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/NDE Entity Roles and Correspondential Validation.md
+      note: Derived hypothesis framing from cross-tabulation and passage/light-form
+        convergence tests
+    status: preliminary
+    trace_status: complete
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: CONSC-117
+    connections:
+    - target: CONSC-111
+      type: developed_by
+      note: 'Modular/toolkit model: diverse imagery forms map onto stable functions/outcomes'
+    - target: SWED-035
+      type: developed_by
+      note: 'Methodological framing: operationalizes correspondential validation as
+        a falsifiable mapping from form to function'
+    - target: CONSC-045
+      type: supported_by
+      note: Cross-cultural and cross-form convergence supports constant-state/variable-form
+        mapping
+    confidence: 0.775
 untraced: []
 extended_nodes:
   BIBL-023:

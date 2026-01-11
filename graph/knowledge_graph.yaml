@@ -11761,6 +11761,8 @@ nodes:
     - target: CONSC-092
       type: develops
       note: Memetic Niche is mechanism concept within CDE
+    - target: CONSC-111
+      type: develops
   CONSC-002:
     confidence: 0.823
     confidence_factors:
@@ -11950,71 +11952,38 @@ nodes:
       '
     domain: CONSC
     node_type: evidence
-    notes: "\"Key methodological insight: The framework enables comparison WITHOUT\
-      \ metaphysical commitment. Materialist can use it (brain-state classification),\
-      \ dualist can use it (afterlife topology), Swedenborgian can use it (spirit\
-      \ world phenomenology). The 'hyper-reality' finding is particularly significant—if\
-      \ NDEs were mere hallucinations, we would expect diminished, not enhanced, phenomenal\
-      \ intensity. The life review as 'empathetic perspective shift' aligns directly\
-      \ with Swedenborgian doctrine that the spiritual world operates on affection,\
-      \ not mere intellect.\"\n\nExtraction notes:Verified 2025-01-04 by confidence-extractor\
-      \ agent:\n- Source type: INTERNAL - the four-axis framework is OUR NOVEL SYNTHESIS,\
-      \ not published\n  by Ring/Greyson. Source doc: \"a novel descriptive tool for\
-      \ systematic classification\"\n- Ring's \"Weighted Core Experience Index\" (1980)\
-      \ = single-dimension depth scale (0-10)\n- Greyson's \"NDE Scale\" (1983) =\
-      \ 16-item validation questionnaire, not multi-axial\n- Our framework BUILDS\
-      \ ON their work but creates novel structure (4 independent axes)\nEXTERNAL SOURCE\
-      \ VERIFICATION:\n- Ring, Kenneth \"Life at Death\" (1980) ✅ - scholarly, reviewed\
-      \ in academic journals\n- Greyson, Bruce \"NDE Scale\" (1983) ✅ PMID:6854303\
-      \ - peer-reviewed, 450+ citations,\n  gold standard instrument with high internal\
-      \ consistency and test-retest reliability\n- van Lommel prospective study (Lancet\
-      \ 2001) ✅ - peer-reviewed, 2 & 8 year follow-up\n- Ring & Cooper \"Mindsight\"\
-      \ (1999) ✅ - 14 blind individuals, 9 reported NDE vision\nDATABASE ASSESSMENT:\n\
-      - NDERF: 5,300+ accounts, established 1998 by Dr. Jeffrey Long, uses Greyson\
-      \ Scale\n- IANDS: Founded 1981, publishes peer-reviewed Journal of Near-Death\
-      \ Studies\n- Quality: Institutional databases with academic credibility, self-reported\
-      \ but validated\nEVIDENCE CLAIMS ALL TRACEABLE to cited research. Framework\
-      \ novel but built on validated\nempirical findings. Consider whether node should\
-      \ be re-typed as 'synthesis' vs 'evidence'.\n\nCaveats:\n- Framework is descriptive,\
-      \ not explanatory—makes no ontological claims\n- Cultural content may vary while\
-      \ structural features remain invariant\n- Selection bias: reported NDEs may\
-      \ not represent full population\n\nEvidence:\n- Structural invariance across\
-      \ cultures despite content variation\n- Core sequence (separation → OBE → transition\
-      \ → realm) consistent worldwide\n- Blind-from-birth experiencers report visual\
-      \ perception during OBE\n- Veridical perception cases: accurate observation\
-      \ of physical events during cardiac arrest\n- Consistent aftereffects: reduced\
-      \ death fear, increased empathy, diminished materialism\n- Cross-cultural consistency\
-      \ of 'being of light' encounters\n\nAxes:\naffective_valence:\n  description:\
-      \ 'Axis II: Emotional quality spectrum'\n  note: Not correlated with moral status;\
-      \ devout may have distressing, irreligious\n    may have ecstatic\n  scale:\
-      \ \"Ecstatic \\u2192 Deeply Peaceful \\u2192 Neutral \\u2192 Anxious/Fearful\
-      \ \\u2192\\\n    \\ Terrifying\"\ngnostic_content:\n  description: 'Axis IV:\
-      \ Knowledge acquisition levels'\n  levels:\n  - 'Level 0: No special knowledge'\n\
-      \  - 'Level 1: Personal knowledge (life mission, family information)'\n  - 'Level\
-      \ 2: Universal knowledge (cosmic laws, love-centrality)'\n  - 'Level 3: Absolute\
-      \ knowledge (''knowing everything'' episodes, usually forgotten)'\ninteractive_dimension:\n\
-      \  description: 'Axis III: Encounter depth levels'\n  levels:\n  - 'Level 0:\
-      \ No encounter'\n  - 'Level 1: Presence sensed (unspecified)'\n  - 'Level 2:\
-      \ Being(s) encountered (deceased relatives, light beings)'\n  - 'Level 3: Supreme\
-      \ Being/Source encountered'\nstructural_components:\n  description: 'Axis I:\
-      \ Core phenomenological sequence'\n  elements:\n  - Separation (awareness of\
-      \ death/dying)\n  - Out-of-Body Experience (external observation of physical\
-      \ scene)\n  - Transitional Space (tunnel, void, passage)\n  - Unearthly Environment\
-      \ (realm of hyper-reality)\n  - Life Review (empathetic perspective shift)\n\
-      \  - Boundary/Point of No Return\n  - Return (often involuntary)\n\nKey Findings:\n\
-      hyper_reality: \"NDE environments consistently described as \\\"more real than\
-      \ real\\\"\\\n  \\u2014challenges assumption that vivid = hallucinatory. Suggests\
-      \ access to realm\\\n  \\ with greater, not diminished, phenomenal intensity.\\\
-      n\"\nlife_review: \"Functions as \\\"phenomenological engine of ethics\\\"\\\
-      u2014experiencers\\\n  \\ relive events from the perspective of those they affected,\
-      \ generating irreversible\\\n  \\ empathetic transformation. Not punishment\
-      \ but education through direct felt experience.\\n\"\nreturn_mechanism: 'Often\
-      \ involuntary and associated with mission/purpose (\"sent back\").\n  Suggests\
-      \ agency external to experiencer controlling transition.\n\n  '\n\nMethodological\
-      \ Principles:\n- Phenomenological bracketing (epoché): suspend metaphysical\
-      \ judgment\n- First-person descriptions as primary data\n- Structural analysis\
-      \ independent of ontological claims\n- Modular framework: each axis independently\
-      \ variable"
+    notes: "Method & scope\n- Uses phenomenological bracketing (epoche) to describe\
+      \ NDE content strictly from first-person narratives.\n- Excludes physiological/psychological\
+      \ theories, religious doctrine, and post-hoc interpretation; remains descriptive.\n\
+      - Primary narrative repositories: NDERF and IANDS; supplemented by academic\
+      \ case studies.\n\nCore synthesis\n- Treats NDEs as modular: accounts can be\
+      \ modeled as combinations/sequences of recurring phenomenological \"modules\"\
+      \ (e.g., OBE, tunnel/void, encounters, life review, boundary, return), with\
+      \ affective tone varying independently.\n\nProposed four-axis classification\
+      \ (multi-axial \"fingerprint\")\n- Axis I: Structural Components\n  - Catalogue\
+      \ presence/absence and temporal order of modules.\n  - Checklist/modules (as\
+      \ described in the source document):\n    1) Separation phenomena (auditory\
+      \ tones, kinesthetic pulling, peace/pain cessation)\n    2) Out-of-body experience\
+      \ (OBE), including autoscopic and/or veridical perception subtypes\n    3) Transitional\
+      \ environment (tunnel, darkness, void, staircase)\n    4) Arrival in unearthly\
+      \ realm (formless light, pastoral, architectural/city-of-light, hellish, etc.)\n\
+      \    5) Panoramic life review (panoramic and/or empathetic)\n    6) Boundary\
+      \ / point of no return (barrier, gate, river, bridge, door)\n    7) Return sequence\
+      \ (told to return / chooses to return / sent back)\n\n- Axis II: Affective Valence\n\
+      \  - Continuum: Ecstatic/Blissful -> Peaceful -> Neutral/Observational -> Anxious/Confused\
+      \ -> Terrifying/Distressing.\n  - Can shift within a single narrative (hybrid\
+      \ structures).\n\n- Axis III: Interactive Dimension\n  - Level 0: No encounters\
+      \ (solitary)\n  - Level 1: Passive observation (sees beings without interaction)\n\
+      \  - Level 2: Simple communication (brief message, e.g., \"go back\" / \"not\
+      \ your time\")\n  - Level 3: Deep dialogic encounter (prolonged reciprocal exchange,\
+      \ typically telepathic)\n\n- Axis IV: Gnostic Content\n  - Level 0: No gnostic\
+      \ content (sensory/emotional only)\n  - Level 1: Personal insight (life review\
+      \ / mission / relational understanding)\n  - Level 2: Universal knowledge (holistic\
+      \ truths about reality, consciousness, love)\n  - Level 3: Specific information\
+      \ (veridical perceptions and/or prophetic specifics)\n\nDistinctions vs prior\
+      \ instruments\n- Ring's and Greyson's tools are valuable but are not multi-axial\
+      \ in this sense; this framework is intended as a descriptive taxonomy that can\
+      \ be used without metaphysical commitment."
     source_chain:
     - note: Full framework development
       ref: data/01_Consciousness_Studies/Researching Near-Death Experiences.md
@@ -12034,9 +12003,11 @@ nodes:
     status: validated
     title: NDE Multi-Axial Phenomenological Framework
     trace_status: complete
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     id: CONSC-017
-    connections: []
+    connections:
+    - target: CONSC-112
+      type: supports
   CONSC-018:
     confidence: 0.3
     created: 2024-12-28
@@ -17331,6 +17302,58 @@ nodes:
     created: '2026-01-11'
     updated: '2026-01-11'
     confidence: 0.3
+  CONSC-111:
+    domain: CONSC
+    node_type: concept
+    status: preliminary
+    title: Modular NDE Phenomenology (Toolkit Model)
+    definition: 'Near-death experiences can be modeled as modular combinations of
+      recurring phenomenological components (e.g., separation phenomena, OBE, transitional
+      spaces such as tunnel/void, encounters with beings, life review, boundary, return),
+      with significant variation arising from which modules appear, in what order,
+      and with what emotional tone.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Researching Near-Death Experiences.md
+      note: 'Part III/IV: argument for modular ''toolkit'' structure from first-person
+        narratives'
+    id: CONSC-111
+    connections:
+    - target: CONSC-112
+      type: develops
+    - target: CONSC-001
+      type: developed_by
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    trace_status: complete
+    confidence: 0.665
+  CONSC-112:
+    domain: CONSC
+    node_type: hypothesis
+    status: preliminary
+    title: Four-Axis Phenomenological Taxonomy for NDE Classification
+    definition: 'A multi-axial, phenomenology-first taxonomy (Axis I structural components;
+      Axis II affective valence; Axis III interactive dimension; Axis IV gnostic content)
+      can be applied to NDE narratives to produce a descriptive "fingerprint" of each
+      account, enabling systematic comparison without requiring metaphysical commitment.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Researching Near-Death Experiences.md
+      note: 'Part IV: proposed four-axis classification tool'
+    id: CONSC-112
+    connections:
+    - target: CONSC-111
+      type: developed_by
+    - target: CONSC-017
+      type: supported_by
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    trace_status: complete
+    confidence: 0.782
 untraced: []
 extended_nodes:
   BIBL-023:

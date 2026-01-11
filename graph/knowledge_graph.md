@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 06:26*
+*Last exported: 2026-01-11 06:42*
 
 ---
 
@@ -10,20 +10,20 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 340 |
-| Total Connections | 206 |
+| Total Nodes | 342 |
+| Total Connections | 212 |
 | Untraced Claims | 0 |
 
 ### By Status
 
-- **preliminary**: 59
+- **preliminary**: 61
 - **validated**: 274
 - **contested**: 7
 
 ### By Domain
 
 - **Biblical Scholarship** (BIBL): 33
-- **Consciousness Studies** (CONSC): 94
+- **Consciousness Studies** (CONSC): 96
 - **Cross-Domain** (CROSS): 39
 - **Early Christian History** (EARLY): 30
 - **The Gnostic Impulse** (GNOS): 26
@@ -52,6 +52,7 @@
 - → `CONSC-090` (develops): Trajectory A is a component concept within CDE framework
 - → `CONSC-091` (develops): Trajectory B is a component concept within CDE framework
 - → `CONSC-092` (develops): Memetic Niche is mechanism concept within CDE
+- → `CONSC-111` (develops): 
 
 ---
 
@@ -228,6 +229,9 @@
 3. [E] IANDS Archives
 4. [S] Ring, Kenneth. Life at Death (1980)
 5. [S] Greyson, Bruce. NDE Scale and Studies
+
+**Connections**:
+- → `CONSC-112` (supports): 
 
 ---
 
@@ -1435,6 +1439,38 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `CONSC-106` (integrated_from): Integrates post-mortem path structure with pre-death transition sequence
 - → `CONSC-060` (integrated_from): Integrates Nearing Death Awareness (NDA) features into the transition model
 - → `SWED-048` (integrated_from): Integrates Swedenborgian death-physiology correspondences into the transition model
+
+---
+
+#### [CONSC-111] Modular NDE Phenomenology (Toolkit Model)
+
+**Status**: preliminary | **Confidence**: unknown
+
+> Near-death experiences can be modeled as modular combinations of recurring phenomenological components (e.g., separation phenomena, OBE, transitional spaces such as tunnel/void, encounters with beings, life review, boundary, return), with significant variation arising from which modules appear, in what order, and with what emotional tone.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Researching Near-Death Experiences.md
+
+**Connections**:
+- → `CONSC-112` (develops): 
+- → `CONSC-001` (developed_by): 
+
+---
+
+#### [CONSC-112] Four-Axis Phenomenological Taxonomy for NDE Classification
+
+**Status**: preliminary | **Confidence**: unknown
+
+> A multi-axial, phenomenology-first taxonomy (Axis I structural components; Axis II affective valence; Axis III interactive dimension; Axis IV gnostic content) can be applied to NDE narratives to produce a descriptive "fingerprint" of each account, enabling systematic comparison without requiring metaphysical commitment.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Researching Near-Death Experiences.md
+
+**Connections**:
+- → `CONSC-111` (developed_by): 
+- → `CONSC-017` (supported_by): 
 
 ---
 

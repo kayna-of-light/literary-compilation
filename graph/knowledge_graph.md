@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 19:10*
+*Last exported: 2026-01-11 19:35*
 
 ---
 
@@ -10,25 +10,25 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 400 |
-| Total Connections | 702 |
+| Total Nodes | 398 |
+| Total Connections | 740 |
 | Untraced Claims | 0 |
 
 ### By Status
 
-- **preliminary**: 115
-- **validated**: 278
+- **preliminary**: 116
+- **validated**: 275
 - **contested**: 7
 
 ### By Domain
 
-- **Biblical Scholarship** (BIBL): 50
-- **Consciousness Studies** (CONSC): 106
-- **Cross-Domain** (CROSS): 39
+- **Biblical Scholarship** (BIBL): 55
+- **Consciousness Studies** (CONSC): 107
+- **Cross-Domain** (CROSS): 35
 - **Early Christian History** (EARLY): 48
-- **The Gnostic Impulse** (GNOS): 26
-- **Mythological Studies** (MYTH): 38
-- **Swedenborgian Theology** (SWED): 93
+- **The Gnostic Impulse** (GNOS): 25
+- **Mythological Studies** (MYTH): 36
+- **Swedenborgian Theology** (SWED): 92
 
 ---
 
@@ -91,10 +91,13 @@
 
 
 **Source Chain**:
-1. [T] data/00_Framework/A Coherent Framework for Spiritual History.md
+1. [T] data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md
 2. [E] Greyson, Bruce. After (2021)
 3. [P] Swedenborg, Heaven and Hell § 462-463
 4. [E] data/01_Consciousness_Studies/Sequential Structure in NDE - Validating the Threefold Path Model.md
+
+**Connections**:
+- → `CONSC-123` (supports): Life Review phenomenology (occurrence + characteristics) supports the Unveiling-stage hypothesis.
 
 ---
 
@@ -474,6 +477,9 @@
 3. [P] Swedenborg, Heaven and Hell §§462-499
 4. [S] Ring, K. (1980). Life at Death: A Scientific Investigation of the Near-Death Experience. Coward, McCann & Geoghegan.
 5. [S] Greyson, B. (2003). Incidence and correlates of near-death experiences. General Hospital Psychiatry, 25(4), 269-276.
+
+**Connections**:
+- → `CONSC-123` (supports): Restorative (non-punitive) characterization of life reviews supports the Unveiling-stage mechanism as pedagogical/restorative.
 
 ---
 
@@ -1494,6 +1500,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `CONSC-030` (integrates_into): Threefold Path synthesis integrates Afterlife Path Structure concept
 - → `CONSC-110` (integrates_into): Integrates post-mortem path structure with pre-death transition sequence
 - → `CONSC-118` (develops): Operationalizes the 'normative path' claim (default continuation) from Afterlife Path Structure.
+- → `CONSC-123` (develops): Unveiling (life review) is modeled as a stage within Afterlife Path Structure.
 
 ---
 
@@ -1765,6 +1772,23 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `CONSC-111` (developed_by): 
 - → `CONSC-064` (supported_by): 
+
+---
+
+#### [CONSC-123] Life Review as Unveiling Mechanism (Ruling Love Revelation)
+
+**Status**: preliminary | **Confidence**: 0.86
+
+> In the normative post-mortem path, the panoramic/empathetic life review functions as an “unveiling” stage that makes the soul’s ruling love manifest by revealing the effects of one’s actions from others’ perspectives. The default character is restorative/pedagogical rather than punitive.
+
+
+**Source Chain**:
+1. [T] data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md
+
+**Connections**:
+- → `CONSC-106` (developed_by): Unveiling (life review) is modeled as a stage within Afterlife Path Structure.
+- → `CONSC-003` (supported_by): Life Review phenomenology (occurrence + characteristics) supports the Unveiling-stage hypothesis.
+- → `CONSC-029` (supported_by): Restorative (non-punitive) characterization of life reviews supports the Unveiling-stage mechanism as pedagogical/restorative.
 
 ---
 
@@ -2845,17 +2869,6 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 ---
 
-#### [SWED-076] Representative Language
-
-**Status**: validated | **Confidence**: 0.3
-
-> Innate perception of spiritual meaning in natural objects (Conceptual Metaphor Theory), preceding articulate speech.
-
-**Source Chain**:
-1. [T] data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md
-
----
-
 #### [SWED-077] 1 Enoch Three-Stress-Test Correspondential Analysis
 
 **Status**: validated | **Confidence**: 0.688
@@ -3271,7 +3284,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [BIBL-001] Historical-Critical Method (HCM)
 
-**Status**: validated | **Confidence**: 0.669
+**Status**: validated | **Confidence**: 0.7
 
 > The academic methodology for analyzing biblical texts including source criticism, form criticism, redaction criticism, and textual criticism. Treats scripture as historical documents produced in specific contexts by human communities. Provides the "body" tier of two-tiered framework.
 
@@ -3291,6 +3304,12 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `BIBL-044` (develops): Pastoral authorship/dating debate is treated as an HCM problem-space.
 - → `BIBL-045` (develops): Adds tabernacle archetype/copy concept treated in this document.
 - → `BIBL-049` (develops): Adds purity taxonomy (Leviticus 11) concept treated in this document.
+- → `BIBL-053` (develops): HCM analysis uses Mark 13 + vaticinium assumption as a key dating anchor.
+- → `BIBL-058` (develops): Historical Jesus reconstruction is a central outcome area of HCM.
+- → `BIBL-055` (develops): Two-Source Hypothesis is a core construct in HCM source criticism.
+- → `BIBL-016` (develops): Markan Priority is a core source-critical construct within HCM.
+- → `BIBL-018` (develops): Farrer is a major source-critical alternative model discussed within HCM.
+- → `BIBL-017` (develops): Q as a hypothetical source is a core source-critical construct within HCM.
 
 ---
 
@@ -3474,13 +3493,18 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [BIBL-015] Vaticinium ex Eventu (Prophecy After the Event)
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.861
 
 > The Historical-Critical Method's interpretive principle that detailed prophecies of future events must have been written AFTER those events occurred. Applied critically to Mark 13 (Little Apocalypse), which describes Jerusalem Temple destruction in 70 CE. HCM assumes this level of detail requires eyewitness knowledge, dating Mark to c. 66-75 CE. This single interpretive decision forms the bedrock of the entire Synoptic chronology.
 
 
 **Source Chain**:
 1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+
+**Connections**:
+- → `BIBL-032` (supported_by): Mark 13's detailed correlation with war/Temple events is treated as the evidence requiring a post-event composition under this assumption.
+- → `BIBL-033` (supported_by): Josephus's war narrative provides the historical referent for the Mark 13 correlations used in this dating argument.
+- → `BIBL-053` (developed_by): Vaticinium ex eventu is the interpretive assumption grounding this Mark 13 dating anchor.
 
 ---
 
@@ -3494,6 +3518,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
 
+**Connections**:
+- → `BIBL-055` (required_by): 2SH requires Markan Priority as its narrative-source pillar.
+- → `BIBL-001` (developed_by): Markan Priority is a core source-critical construct within HCM.
+
 ---
 
 #### [BIBL-017] Q Source Hypothesis (Quelle - Sayings Source)
@@ -3506,17 +3534,25 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
 
+**Connections**:
+- → `BIBL-055` (required_by): 2SH requires the Q postulate to explain Matthew/Luke double tradition material.
+- → `BIBL-001` (developed_by): Q as a hypothetical source is a core source-critical construct within HCM.
+
 ---
 
 #### [BIBL-018] Farrer Hypothesis (Mark → Matthew → Luke, No Q)
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.701
 
 > An alternative solution to the Synoptic Problem that accepts Markan Priority but eliminates the hypothetical Q source. Proposes: Mark wrote first, Matthew used Mark, Luke then used BOTH Mark and Matthew. Main strength: simplicity (no unattested sources) and elegant explanation for 'minor agreements' (Luke agrees with Matthew against Mark because he's reading Matthew's edited version). Main weakness: Why would Luke dismantle Matthew's carefully structured Sermon on the Mount and scatter it?
 
 
 **Source Chain**:
 1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+
+**Connections**:
+- → `BIBL-001` (developed_by): Farrer is a major source-critical alternative model discussed within HCM.
+- → `BIBL-056` (develops): This hypothesis frames minor agreements as evidence for the Farrer solution.
 
 ---
 
@@ -3531,11 +3567,14 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
 2. [S] Standard Synoptic Problem literature - multiple sources
 
+**Connections**:
+- → `BIBL-056` (supports): Minor agreements constitute evidence motivating the Luke-uses-Matthew explanation.
+
 ---
 
 #### [BIBL-020] Criteria of Authenticity (Historical Jesus Research)
 
-**Status**: validated | **Confidence**: 0.422
+**Status**: validated | **Confidence**: 0.664
 
 > Rules of thumb developed by Historical-Critical scholars to identify sayings/events more likely to be historical than later church creations. Key criteria: (1) Multiple Attestation— appears in multiple independent sources (Mark, Q, Paul, John); (2) Embarrassment—awkward for early church, unlikely invention (Jesus's baptism, family's disbelief); (3) Dissimilarity (Double Dissimilarity)—unlike both Judaism and early Christianity, isolates Jesus's unique voice. Recent criticism: Dissimilarity criterion produces distorted Jesus disconnected from Jewish context and disciples. Modern scholars prefer 'historical plausibility' within 1st-century Judaism.
 
@@ -3546,6 +3585,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `BIBL-001` (developed_by): the criteria-of-authenticity toolkit is a standard HCM sub-method used to reconstruct the historical Jesus.
 - → `BIBL-043` (develops): baseline-shift critique reframes how criteria of authenticity are applied (embarrassment → temptation).
+- → `BIBL-057` (develops): Criteria of authenticity are the methodological toolkit used to establish a stable historical frame.
 
 ---
 
@@ -3561,6 +3601,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 2. [S] Sanders, E.P. Jesus and Judaism (1985)
 3. [S] Meier, John P. A Marginal Jew Vol. 1 (1991)
 4. [S] Ehrman, Bart. Jesus: Apocalyptic Prophet (1999)
+
+**Connections**:
+- → `BIBL-057` (supports): Sanders/Meier-style near-consensus bedrock facts support the claim that a stable frame is recoverable.
 
 ---
 
@@ -3740,6 +3783,9 @@ events exist in causal networks.
 3. [S] Marcus, Joel. Mark: A New Translation with Introduction and Commentary. Anchor Yale Bible, 2000.
 4. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
 
+**Connections**:
+- → `BIBL-015` (supports): Mark 13's detailed correlation with war/Temple events is treated as the evidence requiring a post-event composition under this assumption.
+
 ---
 
 #### [BIBL-033] Josephus's Jewish War - Historical Account of 70 CE Temple Destruction
@@ -3752,6 +3798,9 @@ events exist in causal networks.
 1. [P] Josephus, Jewish War (Bellum Judaicum), c. 75 CE
 2. [S] Thackeray, H. St. J. trans. Josephus. Loeb Classical Library, 1927-1928.
 3. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+
+**Connections**:
+- → `BIBL-015` (supports): Josephus's war narrative provides the historical referent for the Mark 13 correlations used in this dating argument.
 
 ---
 
@@ -4060,6 +4109,88 @@ events exist in causal networks.
 
 **Connections**:
 - → `BIBL-050` (supports): Douglas provides a secondary theoretical grounding for reading purity rules as boundary-maintenance taxonomy.
+
+---
+
+#### [BIBL-053] Mark 13 Dating Anchor (Vaticinium ex Eventu)
+
+**Status**: validated | **Confidence**: 0.732
+
+> The historical-critical dating anchor for Mark (and thus the Synoptic chronology) that treats Mark 13's war/Temple-destruction parallels as vaticinium ex eventu. Under this model, detailed correspondence to 66–74 CE events implies composition after (or during) the war, typically dating Mark to c. 66–75 CE.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+
+**Connections**:
+- → `BIBL-001` (developed_by): HCM analysis uses Mark 13 + vaticinium assumption as a key dating anchor.
+- → `BIBL-015` (develops): Vaticinium ex eventu is the interpretive assumption grounding this Mark 13 dating anchor.
+
+---
+
+#### [BIBL-055] Two-Source Hypothesis (2SH)
+
+**Status**: validated | **Confidence**: 0.3
+
+> The dominant scholarly solution to the Synoptic Problem proposing that Matthew and Luke used Mark as a narrative source (Markan Priority) and also independently used a second, hypothetical sayings source (Q) to account for the Double Tradition.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+
+**Connections**:
+- → `BIBL-001` (developed_by): Two-Source Hypothesis is a core construct in HCM source criticism.
+- → `BIBL-016` (requires): 2SH requires Markan Priority as its narrative-source pillar.
+- → `BIBL-017` (requires): 2SH requires the Q postulate to explain Matthew/Luke double tradition material.
+
+---
+
+#### [BIBL-056] Minor Agreements Support Luke's Use of Matthew (Farrer)
+
+**Status**: validated | **Confidence**: 0.825
+
+> The minor agreements pattern (Matthew and Luke agreeing against Mark within Triple Tradition) is best explained if Luke had access to Matthew's edited Markan text (i.e., the Farrer model), rather than Matthew and Luke independently editing Mark.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+
+**Connections**:
+- → `BIBL-019` (supported_by): Minor agreements constitute evidence motivating the Luke-uses-Matthew explanation.
+- → `BIBL-018` (developed_by): This hypothesis frames minor agreements as evidence for the Farrer solution.
+
+---
+
+#### [BIBL-057] Historical Jesus Has Stable Bedrock Frame
+
+**Status**: validated | **Confidence**: 0.781
+
+> Despite uncertainty about many detailed sayings and narrative features, historical-critical methods can establish a stable biographical frame for Jesus (e.g., baptism, ministry, Temple action, crucifixion) with high confidence.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+
+**Connections**:
+- → `BIBL-020` (developed_by): Criteria of authenticity are the methodological toolkit used to establish a stable historical frame.
+- → `BIBL-021` (supported_by): Sanders/Meier-style near-consensus bedrock facts support the claim that a stable frame is recoverable.
+- → `BIBL-058` (developed_by): This hypothesis claims the stable biographical frame is recoverable.
+
+---
+
+#### [BIBL-058] Historical Jesus Bedrock Biographical Frame
+
+**Status**: validated | **Confidence**: 0.664
+
+> A minimal, high-consensus set of biographical claims about Jesus of Nazareth established by historical-critical scholarship, distinct from theological interpretation and from contested reconstructions of Jesus's detailed message.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+
+**Connections**:
+- → `BIBL-001` (developed_by): Historical Jesus reconstruction is a central outcome area of HCM.
+- → `BIBL-057` (develops): This hypothesis claims the stable biographical frame is recoverable.
 
 ---
 
@@ -5150,17 +5281,6 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 
 ---
 
-#### [GNOS-021] Path of Gnosis
-
-**Status**: validated | **Confidence**: 0.3
-
-> Spiritual orientation of 'dismantling' the distinct Divine Human, driven by Proprium/Self-Glorification.
-
-**Source Chain**:
-1. [T] data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md
-
----
-
 #### [GNOS-022] Valentinian and Marcionite Reception: Earliest Paul Commentators
 
 **Status**: validated | **Confidence**: 0.869
@@ -5619,28 +5739,6 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 
 ---
 
-#### [MYTH-025] Mythic Bricolage
-
-**Status**: validated | **Confidence**: 0.3
-
-> Process where Divine intent guides scribal assembly of narrative from disconnected memory fragments/myths.
-
-**Source Chain**:
-1. [T] data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md
-
----
-
-#### [MYTH-026] The Fall (Cognitive Shift)
-
-**Status**: validated | **Confidence**: 0.3
-
-> Allegory for the shift from internal/gestural state to external/articulate speech and self-oriented reasoning.
-
-**Source Chain**:
-1. [T] data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md
-
----
-
 #### [MYTH-027] Enuma Elish / Genesis Comparative Textual Analysis
 
 **Status**: validated | **Confidence**: 0.831
@@ -6063,7 +6161,7 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 
 #### [CROSS-014] The Proprium as Universal Mechanism
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.499
 
 > The proprium (love of self) is not a Swedenborgian peculiarity—it's a universal spiritual-psychological mechanism observable across all traditions and empirically detectable in modern conflicts. The proprium is THE explanatory mechanism for: why Paul diverged from Jesus, why gnostic systems emerge, why materialist science resists consciousness data, why "faith alone" suffocated the church, and why theological consensus rejects evidence threatening orthodoxy. The proprium operates by self-reference, obstruction of influx, and conversion of truth to serve self-glorification.
 
@@ -6277,50 +6375,6 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 **Connections**:
 - → `SWED-002` (developed_by): Inner Light is Quaker articulation of Divine Influx
 - → `SWED-071` (parallels): Inner Light (Quaker doctrine) parallels Kenosis
-
----
-
-#### [CROSS-030] Two-Tiered Epistemology
-
-**Status**: validated | **Confidence**: 0.3
-
-> A methodology distinguishing the 'Natural Plane' (Body/Effects) from the 'Spiritual Plane' (Soul/Causes). Natural plane uses scientific/HCM methods; Spiritual plane uses Swedenborgian correspondences.
-
-**Source Chain**:
-1. [T] data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md
-
----
-
-#### [CROSS-031] The Normative Path
-
-**Status**: validated | **Confidence**: 0.3
-
-> The standard linear afterlife progression (Passage -> World of Spirits -> Self-Sort based on Ruling Love -> Heaven/Hell).
-
-**Source Chain**:
-1. [T] data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md
-
----
-
-#### [CROSS-032] Two Paths of the Spirit
-
-**Status**: validated | **Confidence**: 0.3
-
-> The comprehensive division of spiritual trajectories into 'Path of Affirmation' (Reception/Love) and 'Path of Gnosis' (Dismantling/Self-Love).
-
-**Source Chain**:
-1. [T] data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md
-
----
-
-#### [CROSS-033] Path of Affirmation
-
-**Status**: validated | **Confidence**: 0.3
-
-> Spiritual orientation of 'reception' from the Divine, characterized by NDE 'Being of Light' traits.
-
-**Source Chain**:
-1. [T] data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md
 
 ---
 

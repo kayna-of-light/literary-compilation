@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-10 17:23*
+*Last exported: 2026-01-11 06:26*
 
 ---
 
@@ -10,20 +10,20 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 339 |
-| Total Connections | 199 |
+| Total Nodes | 340 |
+| Total Connections | 206 |
 | Untraced Claims | 0 |
 
 ### By Status
 
-- **preliminary**: 58
+- **preliminary**: 59
 - **validated**: 274
 - **contested**: 7
 
 ### By Domain
 
 - **Biblical Scholarship** (BIBL): 33
-- **Consciousness Studies** (CONSC): 93
+- **Consciousness Studies** (CONSC): 94
 - **Cross-Domain** (CROSS): 39
 - **Early Christian History** (EARLY): 30
 - **The Gnostic Impulse** (GNOS): 26
@@ -520,6 +520,9 @@
 - → `CONSC-078` (supported_by): Prospective cardiac-arrest NDE study constrains physiological DBH mechanisms; used in DBH critique.
 - → `CONSC-079` (supported_by): AWARE cardiac-arrest studies provide the strongest hospital-based constraints on DBH explanations; cited in DBH critique.
 - → `CONSC-109` (developed_by): Conceptual framing: NDE anomalies create an explanatory gap that is operationalized as a specific DBH critique hypothesis.
+- → `CONSC-059` (supported_by): SDE reports are treated as anomalies that DBH mechanisms struggle to explain
+- → `CONSC-057` (supported_by): Terminal lucidity provides an anomaly used in the DBH critique
+- → `CONSC-056` (supported_by): Structured end-of-life dreams/visions are cited as part of the broader inadequacy of purely dying-brain models
 
 ---
 
@@ -1364,6 +1367,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `SWED-003` (developed_by): Afterlife Path Structure develops from World of Spirits post-mortem journey
 - → `CONSC-030` (integrates_into): Threefold Path synthesis integrates Afterlife Path Structure concept
+- → `CONSC-110` (integrates_into): Integrates post-mortem path structure with pre-death transition sequence
 
 ---
 
@@ -1417,6 +1421,23 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 ---
 
+#### [CONSC-110] Ontological Transition: Integrated Dying Process Model
+
+**Status**: preliminary | **Confidence**: 0.3
+
+> An integrative model in which healthy dying unfolds as an orderly sequence where terminal physiology (metabolic downregulation, dehydration/ketosis, altered respiration) correlates with consistent end-of-life phenomenology (NDA/ELDVs, dissociation, OBE/tunnel, life review), interpreted as a progressive decoupling of consciousness from the body.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Understanding the Dying Process.md
+
+**Connections**:
+- → `CONSC-106` (integrated_from): Integrates post-mortem path structure with pre-death transition sequence
+- → `CONSC-060` (integrated_from): Integrates Nearing Death Awareness (NDA) features into the transition model
+- → `SWED-048` (integrated_from): Integrates Swedenborgian death-physiology correspondences into the transition model
+
+---
+
 ### Swedenborgian Theology
 *Correspondences, influx, regeneration, Ancient Word*
 
@@ -1439,7 +1460,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-002] Divine Influx
 
-**Status**: validated | **Confidence**: 0.614
+**Status**: validated | **Confidence**: 0.506
 
 > The continuous flow of divine love and wisdom from the Lord into creation, operating through the spiritual world into the natural. Influx adapts to the receptive capacity of vessels (human minds, texts, institutions). The mechanism by which Providence guides history and regeneration.
 

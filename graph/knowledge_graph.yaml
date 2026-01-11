@@ -1863,7 +1863,11 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: CONSC-060
-    connections: []
+    connections:
+    - target: CONSC-110
+      type: integrates_into
+      note: Integrates Nearing Death Awareness (NDA) features into the transition
+        model
   CONSC-061:
     confidence: 0.3
     created: '2025-01-04'
@@ -2103,6 +2107,9 @@ nodes:
     - target: CONSC-030
       type: integrates_into
       note: Threefold Path synthesis integrates Afterlife Path Structure concept
+    - target: CONSC-110
+      type: integrates_into
+      note: Integrates post-mortem path structure with pre-death transition sequence
     critic_notes:
       last_reviewed: '2026-01-09'
       critiques: []
@@ -2882,7 +2889,7 @@ nodes:
       type: parallels
       note: Divine Bricolage synthesizes Doctrine of Correspondences with human authorship
   SWED-002:
-    confidence: 0.614
+    confidence: 0.506
     created: 2024-12-27
     definition: 'The continuous flow of divine love and wisdom from the Lord into
       creation, operating through the spiritual world into the natural. Influx adapts
@@ -3329,7 +3336,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: SWED-048
-    connections: []
+    connections:
+    - target: CONSC-110
+      type: integrates_into
+      note: Integrates Swedenborgian death-physiology correspondences into the transition
+        model
   SWED-050:
     confidence: 0.3
     created: '2026-01-08'
@@ -5854,8 +5865,8 @@ nodes:
       type: T
     status: validated
     title: 'End-of-Life Dreams and Visions (ELDV): Deceased Contact Prevalence'
-    trace_status: partial
-    updated: '2026-01-10'
+    trace_status: complete
+    updated: '2026-01-11'
     notes: 'Evidence:
 
       - {''description'': ''88.1% of hospice patients report dreams/visions of deceased'',
@@ -5867,7 +5878,16 @@ nodes:
       - {''description'': ''Increased frequency as death approaches—prognostic value'',
       ''strength'': ''strong''}'
     id: CONSC-056
-    connections: []
+    connections:
+    - target: CONSC-043
+      type: supports
+      note: Structured end-of-life dreams/visions are cited as part of the broader
+        inadequacy of purely dying-brain models
+    critic_notes:
+      last_reviewed: '2026-01-11'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   CONSC-057:
     confidence: 0.797
     confidence_factors:
@@ -5917,7 +5937,7 @@ nodes:
     status: validated
     title: 'Terminal Lucidity: Consciousness Without Neuronal Substrate'
     trace_status: partial
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     notes: 'Evidence:
 
       - {''description'': ''43-84% of TL cases die within one week (Nahm et al. 2012
@@ -5929,7 +5949,22 @@ nodes:
       - {''description'': ''Anna Katharina Ehmer case: never spoke, sang clearly before
       death (Nahm & Greyson 2014)'', ''strength'': ''moderate''}'
     id: CONSC-057
-    connections: []
+    connections:
+    - target: CONSC-043
+      type: supports
+      note: Terminal lucidity provides an anomaly used in the DBH critique
+    critic_notes:
+      last_reviewed: '2026-01-11'
+      critiques:
+      - id: 1
+        type: source-gap
+        description: UVA DOPS terminal lucidity resource is currently referenced as
+          a PDF-only web source; verify via an HTML abstract/landing page or mark
+          as [PDF - verified via abstract/secondary] if possible.
+        breaks_proof: false
+        status: open
+      proof_breaking_open: 0
+      detail_issues: 1
   CONSC-059:
     confidence: 0.6
     confidence_factors:
@@ -5940,13 +5975,13 @@ nodes:
       source_chain_quality: mixed
       source_type: external
     created: '2025-01-04'
-    definition: 'Shared Death Experiences occur when healthy bystanders (family, caregivers)
-      share phenomenological elements of a dying person''s transition—reporting room
-      filling with light, mist/vapor leaving the body, feeling lifted out of their
-      own bodies, tunnel passage, or seeing the ''welcoming committee'' of deceased
-      relatives. Research by William Peters and the Shared Crossing Project demonstrates
-      that over 60% of SDEs occur remotely (experiencer not physically present with
-      the dying person), strongly refuting ''contagion'' or sensory cue explanations.
+    definition: 'Shared Death Experiences occur when healthy bystanders (family members
+      or caregivers) report sharing phenomenological elements of a dying person’s
+      transition—room filling with light, mist/vapor leaving the body, feeling lifted
+      out of their own bodies, tunnel passage, or seeing a “welcoming committee” of
+      deceased relatives. Reports also include remote SDEs (experiencers not physically
+      present with the dying person), which—if substantiated—would strengthen the
+      case that SDEs are not reducible to bedside sensory cues.
 
       '
     domain: CONSC
@@ -5967,7 +6002,7 @@ nodes:
     status: validated
     title: 'Shared Death Experiences (SDE): Remote Phenomenological Sharing'
     trace_status: partial
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     notes: 'Evidence:
 
       - {''description'': ''60%+ of SDEs occur remotely [TRACE NEEDED - specific publication
@@ -5979,7 +6014,22 @@ nodes:
       - {''description'': ''Shared phenomenology without shared pathology'', ''strength'':
       ''strong''}'
     id: CONSC-059
-    connections: []
+    connections:
+    - target: CONSC-043
+      type: supports
+      note: SDE reports are treated as anomalies that DBH mechanisms struggle to explain
+    critic_notes:
+      last_reviewed: '2026-01-11'
+      critiques:
+      - id: 1
+        type: source-gap
+        description: Quantified prevalence claims for remote SDEs (e.g., '60%+') require
+          a traceable primary source; the currently cited Shared Crossing course page
+          does not substantiate a percentage.
+        breaks_proof: false
+        status: open
+      proof_breaking_open: 0
+      detail_issues: 1
   CONSC-063:
     confidence: 0.825
     confidence_factors:
@@ -12491,6 +12541,16 @@ nodes:
       type: developed_by
       note: 'Conceptual framing: NDE anomalies create an explanatory gap that is operationalized
         as a specific DBH critique hypothesis.'
+    - target: CONSC-059
+      type: supported_by
+      note: SDE reports are treated as anomalies that DBH mechanisms struggle to explain
+    - target: CONSC-057
+      type: supported_by
+      note: Terminal lucidity provides an anomaly used in the DBH critique
+    - target: CONSC-056
+      type: supported_by
+      note: Structured end-of-life dreams/visions are cited as part of the broader
+        inadequacy of purely dying-brain models
   CONSC-044:
     confidence: 0.695
     confidence_factors:
@@ -17232,6 +17292,45 @@ nodes:
     created: '2026-01-10'
     updated: '2026-01-10'
     confidence: 0.765
+  CONSC-110:
+    domain: CONSC
+    node_type: synthesis
+    title: 'Ontological Transition: Integrated Dying Process Model'
+    status: preliminary
+    definition: 'An integrative model in which healthy dying unfolds as an orderly
+      sequence where terminal physiology (metabolic downregulation, dehydration/ketosis,
+      altered respiration) correlates with consistent end-of-life phenomenology (NDA/ELDVs,
+      dissociation, OBE/tunnel, life review), interpreted as a progressive decoupling
+      of consciousness from the body.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Understanding the Dying Process.md
+      note: Primary synthesis of physiology + ELE/NDE phenomenology into a unified
+        transition model
+    connections:
+    - target: CONSC-106
+      type: integrated_from
+      note: Integrates post-mortem path structure with pre-death transition sequence
+    - target: CONSC-060
+      type: integrated_from
+      note: Integrates Nearing Death Awareness (NDA) features into the transition
+        model
+    - target: SWED-048
+      type: integrated_from
+      note: Integrates Swedenborgian death-physiology correspondences into the transition
+        model
+    notes: 'This node integrates existing concepts/evidence; teleological framing
+      ("safe passage", "engineered") should be treated as interpretive hypothesis
+      layered on top of clinical and phenomenological descriptions.
+
+      '
+    trace_status: complete
+    id: CONSC-110
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    confidence: 0.3
 untraced: []
 extended_nodes:
   BIBL-023:

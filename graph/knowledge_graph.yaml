@@ -4662,6 +4662,24 @@ nodes:
     - target: CONSC-095
       type: developed_by
       note: Volunteer Soul hypothesis develops from Volunteer Soul concept
+    - target: CONSC-024
+      type: supported_by
+      note: Commissioning-by-return-reason discrimination (94.2% for 'earthly mission')
+        supports Volunteer Soul Incarnation pathway.
+    - target: CONSC-025
+      type: supported_by
+      note: Volunteer marker detection (10.3% detected; 92.7% commissioned vs 13.8%)
+        supports mission-oriented volunteer profile within Volunteer Soul Incarnation
+        hypothesis.
+    - target: CONSC-026
+      type: supported_by
+      note: Volunteer-language subset shows sharply elevated pre-birth indicators,
+        supporting the pre-incarnate covenant/choice dimension of Volunteer Soul Incarnation
+        hypothesis.
+    - target: CONSC-027
+      type: developed_by
+      note: Methodological distinction (detection vs classification) develops and
+        constrains Volunteer Soul Incarnation hypothesis interpretation.
   CONSC-015:
     confidence: 0.7
     created: '2024-12-28'
@@ -5180,7 +5198,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-024
-    connections: []
+    connections:
+    - target: CONSC-014
+      type: supports
+      note: Commissioning-by-return-reason discrimination (94.2% for 'earthly mission')
+        supports Volunteer Soul Incarnation pathway.
   CONSC-025:
     confidence: 0.792
     confidence_factors:
@@ -5282,7 +5304,12 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-025
-    connections: []
+    connections:
+    - target: CONSC-014
+      type: supports
+      note: Volunteer marker detection (10.3% detected; 92.7% commissioned vs 13.8%)
+        supports mission-oriented volunteer profile within Volunteer Soul Incarnation
+        hypothesis.
   CONSC-026:
     confidence: 0.703
     confidence_factors:
@@ -5388,7 +5415,12 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-026
-    connections: []
+    connections:
+    - target: CONSC-014
+      type: supports
+      note: Volunteer-language subset shows sharply elevated pre-birth indicators,
+        supporting the pre-incarnate covenant/choice dimension of Volunteer Soul Incarnation
+        hypothesis.
   CONSC-027:
     confidence: 0.3
     created: 2025-01-07
@@ -5441,7 +5473,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-027
-    connections: []
+    connections:
+    - target: CONSC-014
+      type: develops
+      note: Methodological distinction (detection vs classification) develops and
+        constrains Volunteer Soul Incarnation hypothesis interpretation.
   CONSC-028:
     confidence: 0.792
     confidence_factors:

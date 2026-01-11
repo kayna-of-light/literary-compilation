@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 06:46*
+*Last exported: 2026-01-11 06:56*
 
 ---
 
@@ -11,7 +11,7 @@
 | Metric | Count |
 |--------|-------|
 | Total Nodes | 342 |
-| Total Connections | 214 |
+| Total Connections | 218 |
 | Untraced Claims | 0 |
 
 ### By Status
@@ -39,7 +39,7 @@
 
 #### [CONSC-001] Consciousness-Driven Evolution (CDE) - Consciousness as Causal Force
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.565
 
 > Consciousness is the fundamental, active force in reality—not an epiphenomenal byproduct of neural activity. In cultural evolution, the collective "ruling love" of a population creates selective pressures that push societies along one of two evolutionary trajectories: toward coherence/unity (love of neighbor) or fragmentation/conflict (love of self). CDE is the empirical face of the Swedenborgian influx doctrine: consciousness flows from spiritual source and shapes physical expression.
 
@@ -183,6 +183,10 @@
 
 **Connections**:
 - → `CONSC-095` (developed_by): Volunteer Soul hypothesis develops from Volunteer Soul concept
+- → `CONSC-024` (supported_by): Commissioning-by-return-reason discrimination (94.2% for 'earthly mission') supports Volunteer Soul Incarnation pathway.
+- → `CONSC-025` (supported_by): Volunteer marker detection (10.3% detected; 92.7% commissioned vs 13.8%) supports mission-oriented volunteer profile within Volunteer Soul Incarnation hypothesis.
+- → `CONSC-026` (supported_by): Volunteer-language subset shows sharply elevated pre-birth indicators, supporting the pre-incarnate covenant/choice dimension of Volunteer Soul Incarnation hypothesis.
+- → `CONSC-027` (developed_by): Methodological distinction (detection vs classification) develops and constrains Volunteer Soul Incarnation hypothesis interpretation.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 16:30*
+*Last exported: 2026-01-11 19:10*
 
 ---
 
@@ -10,14 +10,14 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 388 |
-| Total Connections | 656 |
+| Total Nodes | 400 |
+| Total Connections | 702 |
 | Untraced Claims | 0 |
 
 ### By Status
 
-- **preliminary**: 102
-- **validated**: 279
+- **preliminary**: 115
+- **validated**: 278
 - **contested**: 7
 
 ### By Domain
@@ -25,7 +25,7 @@
 - **Biblical Scholarship** (BIBL): 50
 - **Consciousness Studies** (CONSC): 106
 - **Cross-Domain** (CROSS): 39
-- **Early Christian History** (EARLY): 36
+- **Early Christian History** (EARLY): 48
 - **The Gnostic Impulse** (GNOS): 26
 - **Mythological Studies** (MYTH): 38
 - **Swedenborgian Theology** (SWED): 93
@@ -1796,6 +1796,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-041` (develops): Anchors Zoroastrian menog/getig ontology concept under Doctrine of Correspondences (per Tracing Ancient Correspondence Knowledge).
 - → `SWED-098` (develops): Anchors Zoroastrian beneficent/khrafstra taxonomy concept under Doctrine of Correspondences.
 - → `SWED-037` (develops): SWED-037 operationalizes external triangulation for validating correspondences
+- → `EARLY-049` (develops): Doctrine of Correspondences grounds the remnant-confluence framing in a correspondential hermeneutic.
 
 ---
 
@@ -2172,13 +2173,22 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [SWED-027] Swedenborgian Critique of Pauline Authority
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: preliminary | **Confidence**: 0.3
 
 > Swedenborg's Spiritual Diary provides a systematic pneumatological critique of the Pauline Epistles, asserting they categorically differ from the Word (Gospels/Prophets). The core claims: (1) Paul's epistles lack the "internal sense" (infinite spiritual correspondences in every letter) that constitutes sacred Scripture; (2) Paul's inspiration was "self-derived" (from proprium) rather than Divine dictation—he explicitly admits "I speak, not the Lord" (1 Cor 7:12); (3) The epistles were "permitted" as a protective buffer so that those incapable of bearing the intense internal sense wouldn't profane it; (4) Paul's spiritual state was characterized by "worldly ambition" and desire to be the "greatest introducer" into heaven. The elevation of Pauline doctrine over Gospel imperatives constitutes the spiritual cause of the church's "consummation" (end)—Faith Alone doctrine separating faith from charity.
 
 
 **Source Chain**:
 1. [T] data/04_Early_Christian_History/The Pauline Corpus and the Consummation of the Age.md
+
+**Connections**:
+- → `SWED-065` (parallels): Connects Pauline authority elevation to Sola Fide as consummation mechanism.
+- → `SWED-066` (parallels): Interprets 1757 Last Judgment as pneumatological validation of faith-alone critique.
+- → `EARLY-034` (parallels): Both treat Paul’s authority as grounded in private revelation (different methods).
+- → `GNOS-013` (parallels): Both diagnose Pauline authority/rhetoric as proprium-structured (pneumatic ego).
+- → `SWED-035` (parallels): Applies/aligns with the Word-vs-Writings/internal-sense criterion to Pauline epistles.
+- → `EARLY-003` (integrates_into): Provides Swedenborgian/pneumatological input to the broader Pauline-movement divergence synthesis.
+- → `CROSS-014` (developed_by): Pauline authority critique is treated as a proprium/dominion mechanism in theological form.
 
 ---
 
@@ -2212,6 +2222,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-002` (developed_by): Correspondential Anthropology develops from Divine Influx
 - → `SWED-008` (developed_by): Correspondential Anthropology explains structure that Regeneration transforms
 - → `SWED-090` (parallels): Divine Marriage archetype reflected in Glorification union
+- → `EARLY-038` (parallels): Both critique mediated/tripersonal structures in favor of one-person Divine Human theology.
 
 ---
 
@@ -2305,6 +2316,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `CONSC-117` (develops): Methodological framing: operationalizes correspondential validation as a falsifiable mapping from form to function
 - → `SWED-037` (parallels): Internal coherence/stress-tests (SWED-035) complement external triangulation (SWED-037)
+- → `SWED-027` (parallels): Applies/aligns with the Word-vs-Writings/internal-sense criterion to Pauline epistles.
 
 ---
 
@@ -2614,6 +2626,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual Development Through Daniel's Prophecy.md
 
+**Connections**:
+- → `EARLY-038` (parallels): Both analyze mediated perception/authority structures vs direct Lord-centered reception.
+
 ---
 
 #### [SWED-057] Stone and Statue: Internal vs Indirect Perception
@@ -2701,6 +2716,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-005` (developed_by): Sola Fide is doctrinal expression of Proprium
 - → `SWED-067` (contrasts): New Jerusalem contrasts Sola Fide - Two Essentials vs Faith Alone
 - → `SWED-024` (contrasts): New Church defined by charity/life; explicitly rejects 'faith alone'.
+- → `SWED-027` (parallels): Connects Pauline authority elevation to Sola Fide as consummation mechanism.
 
 ---
 
@@ -2717,6 +2733,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-002` (developed_by): Last Judgment enables restoration of Divine Influx
 - → `SWED-067` (required_by): New Jerusalem requires Last Judgment to be established
 - → `SWED-024` (required_by): New Church is established after (and enabled by) the Last Judgment of 1757.
+- → `SWED-027` (parallels): Interprets 1757 Last Judgment as pneumatological validation of faith-alone critique.
 
 ---
 
@@ -3279,7 +3296,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 #### [BIBL-002] The Synoptic Problem
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.735
 
 > The literary puzzle of explaining the relationship between Matthew, Mark, and Luke, given their extensive verbal agreements and disagreements. Dominant solution: Markan Priority with Q hypothesis. Alternative: Klinghardt's Marcionite paradigm (Mcn as earliest, Luke dependent on Mcn).
 
@@ -4067,7 +4084,7 @@ events exist in causal networks.
 
 #### [EARLY-002] The Jamesian Protograph (Proto-Luke)
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.865
 
 > A forensic reconstruction hypothesis proposing that 'Q' was not a fragmented sayings list but a coherent pre-canonical gospel—'Proto-Luke'—from the Jamesian Jerusalem Church. This protograph preserved the ethical rigor, poverty theology, and spiritual resurrection of the earliest Jewish followers. The lineage: Proto-Luke (Jamesian) → Mark (Pauline Reaction) → Matthew & Canonical Luke (Harmonization). Marcion's Evangelion is argued to preserve the unedited Proto-Luke, making his 'heresy' actually preservation. Characterized by: emphasis on Jesus's humanity, disciples' failures, poverty/reversal  themes, "the Living One" resurrection (non-physicalist), absence of Pauline theological  framework.
 
@@ -4096,6 +4113,7 @@ events exist in causal networks.
 **Connections**:
 - → `EARLY-034` (integrated_from): Private-revelation authority pattern is one input to the broader synthesis of Pauline movement divergence.
 - → `EARLY-035` (integrated_from): This concept contributes an Islam/Quranic counter-profile that sharpens the project’s Pauline-divergence synthesis.
+- → `SWED-027` (integrated_from): Provides Swedenborgian/pneumatological input to the broader Pauline-movement divergence synthesis.
 
 ---
 
@@ -4135,12 +4153,13 @@ events exist in causal networks.
 
 
 **Source Chain**:
-1. [T] data/04_Early_Christian_History/The Luminous Science.md
+1. [T] data/04_Early_Christian_History/The Luminous Science_ A Re-examination of the Magi.md
 
 **Connections**:
 - → `SWED-004` (integrated_from): Magi tradition synthesis draws on Ancient Word framing.
 - → `SWED-041` (integrated_from): Magi tradition synthesis presupposes menog/getig correspondence ontology.
 - → `SWED-097` (integrated_from): Magi tradition synthesis uses exile-as-conduit concept.
+- → `EARLY-049` (integrated_from): Feeds Magi tradition synthesis with explicit remnant-preservation concept.
 
 ---
 
@@ -4170,12 +4189,13 @@ events exist in causal networks.
 - → `SWED-004` (integrated_from): Magi synthesis draws on Ancient Word / lost correspondences framing.
 - → `SWED-041` (integrated_from): Magi synthesis presupposes menog/getig-style correspondence ontology.
 - → `SWED-097` (integrated_from): Magi synthesis uses exile/Daniel transmission mechanism.
+- → `EARLY-049` (integrated_from): Feeds the Magi synthesis with an explicit concept/hypothesis/evidence chain.
 
 ---
 
 #### [EARLY-009] The Lukan Dissonance
 
-**Status**: validated | **Confidence**: 0.3
+**Status**: validated | **Confidence**: 0.831
 
 > The theological and political divergence between the Gospel of Luke (preserving "Jamesian" theology - poverty ethic, Torah piety, reversal theology) and the Acts of the Apostles (domesticating Paul, harmonizing factions). Acts "tames" Paul by portraying him as subordinate to Jerusalem, erasing conflicts (Antioch incident), and inventing consensus (Apostolic Decree). Luke-Acts serves anti-Marcionite agenda.
 
@@ -4576,6 +4596,7 @@ popularized and extended this thesis with additional evidence.
 **Connections**:
 - → `EARLY-017` (develops): Damascus Divergence is a hypothesis instantiating the broader pattern of Paul grounding authority in private revelation.
 - → `EARLY-003` (integrates_into): Private-revelation authority pattern is one input to the broader synthesis of Pauline movement divergence.
+- → `SWED-027` (parallels): Both treat Paul’s authority as grounded in private revelation (different methods).
 
 ---
 
@@ -4598,7 +4619,7 @@ popularized and extended this thesis with additional evidence.
 
 #### [EARLY-036] Jamesian Jerusalem Authority and Torah-Observant Ethos
 
-**Status**: preliminary | **Confidence**: 0.765
+**Status**: preliminary | **Confidence**: 0.795
 
 > The Jerusalem-based Jesus movement is best characterized by James-centered leadership, Torah-observant piety, and a community ethos oriented around wisdom ethics and the protection of the poor (Ebionim), standing in tension with later Pauline, law-abrogating and empire-compatible trajectories.
 
@@ -4629,6 +4650,211 @@ popularized and extended this thesis with additional evidence.
 - → `EARLY-019` (supported_by): Acts 15’s portrayal of James presiding over the Jerusalem Council supports the primacy hypothesis.
 - → `EARLY-020` (supported_by): Ebionite continuity and anti-Pauline profile supports the claim of a durable Jamesian trajectory centered on James’s authority.
 - → `EARLY-029` (supported_by): James’s faith-and-works polemic against Pauline framing supports the Jamesian authority/ethos reconstructed in this hypothesis.
+
+---
+
+#### [EARLY-038] Christological Mediation Architecture (Divine/Human Split Enables Vicarism)
+
+**Status**: preliminary | **Confidence**: 0.587
+
+> A conceptual frame in which distinguishing the Lord’s Divine from His Human enables mediated authority structures (e.g., a clerical “vicar” claiming jurisdiction over the Human while the Divine is positioned as transcendent), producing doctrinal distance from direct Lord-centered monotheism (“Divine Human”).
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/The Pauline Corpus and the Consummation of the Age.md
+
+**Connections**:
+- → `EARLY-039` (develops): Conceptual pattern instantiated as a specific conciliar-motive hypothesis (dark chamber).
+- → `EARLY-040` (develops): Conceptual pattern supplied with proposed Pauline textual seed mechanism.
+- → `SWED-029` (parallels): Both critique mediated/tripersonal structures in favor of one-person Divine Human theology.
+- → `SWED-056` (parallels): Both analyze mediated perception/authority structures vs direct Lord-centered reception.
+- → `CROSS-014` (developed_by): Institutional mediation/vicarism is treated as a proprium/dominion mechanism expressed in christological form.
+
+---
+
+#### [EARLY-039] Conciliar 'Dark Chamber' Motive (Swedenborg Claim of Political Christology)
+
+**Status**: preliminary | **Confidence**: 0.441
+
+> The hypothesis (reported from Swedenborg's Spiritual Diary) that a conciliar decision-making scene ("dark chamber") strategically distinguished the Lord's Divine and Human to preserve ecclesial/papal authority; if the Lord were acknowledged as one with the Father, mediated authority structures could not subsist.
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/The Pauline Corpus and the Consummation of the Age.md
+
+**Connections**:
+- → `EARLY-038` (developed_by): Conceptual pattern instantiated as a specific conciliar-motive hypothesis (dark chamber).
+- → `EARLY-041` (supported_by): Evidence layer (pending SD verification) for the conciliar-motive hypothesis.
+
+---
+
+#### [EARLY-040] Pauline Mediator/Subjection Language as Seedbed for Subordinationism
+
+**Status**: preliminary | **Confidence**: 0.691
+
+> The hypothesis that Pauline (and deutero-Pauline) formulations emphasizing Christ as “mediator” and the Son’s “subjection” supplied durable textual scaffolding for later subordinationist and mediation-centered Christologies, treated here as in tension with “Divine Human” monotheism.
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/The Pauline Corpus and the Consummation of the Age.md
+
+**Connections**:
+- → `EARLY-038` (developed_by): Conceptual pattern supplied with proposed Pauline textual seed mechanism.
+- → `EARLY-042` (supported_by): Textual passages provide direct evidence for the phrasing the hypothesis treats as seedbed.
+
+---
+
+#### [EARLY-041] Swedenborg Spiritual Diary 4551: Conciliar 'Dark Chamber' Motive Claim
+
+**Status**: preliminary | **Confidence**: 0.691
+
+> As summarized in the processed report, Swedenborg reports (in Spiritual Diary Vol. IV, entry cited as 4551) a conciliar scene ("dark chamber") in which leaders distinguish the Lord's Divine from His Human for institutional/papal power reasons.
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/The Pauline Corpus and the Consummation of the Age.md
+2. [P] Emanuel Swedenborg — Spiritual Diary (Spiritual Experiences), Vol. IV, entry 4551. [PDF - manual verification needed]
+
+**Connections**:
+- → `EARLY-039` (supports): Evidence layer (pending SD verification) for the conciliar-motive hypothesis.
+
+---
+
+#### [EARLY-042] New Testament: 'Mediator' and 'Subjection' Passages
+
+**Status**: preliminary | **Confidence**: 0.691
+
+> The passages 1 Timothy 2:5 (Christ as mediator) and 1 Corinthians 15:28 (the Son subjected) supply textual phrasing that can be (and historically has been) read in mediation/subordination directions.
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/The Pauline Corpus and the Consummation of the Age.md
+2. [P] New Testament: 1 Timothy 2:5; 1 Corinthians 15:28. [TRACE NEEDED: specify critical edition, e.g., NA28]
+
+**Connections**:
+- → `EARLY-040` (supports): Textual passages provide direct evidence for the phrasing the hypothesis treats as seedbed.
+
+---
+
+#### [EARLY-043] Greek 'mageia' semantic shift into 'magic'
+
+**Status**: preliminary | **Confidence**: 0.575
+
+> The document claims that the Greek term "mageia" (originally a neutral descriptor for Magian religious/astral arts) underwent a semantic shift in the Hellenistic/Roman period to mean "magic"/"sorcery" (manipulation of external forces for worldly gain), functioning as a linguistic marker of cultural-religious degradation of the Magi's sacred science.
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/The Luminous Science_ A Re-examination of the Magi.md
+2. [W] https://www.etymonline.com/word/magic
+3. [W] https://en.wikipedia.org/wiki/Magi
+4. [W] https://www.iranicaonline.org/articles/magophonia/
+
+**Connections**:
+- → `EARLY-044` (supports): Semantic shift evidence supports the perversion hypothesis.
+
+---
+
+#### [EARLY-044] Hellenistic perversion of correspondential science into 'magic'
+
+**Status**: preliminary | **Confidence**: 0.575
+
+> The document hypothesizes that the Hellenistic cultural shift toward externalized, rationalist, and power-oriented knowledge corresponded (spiritually) to a loss of inner correspondential perception. As the inner sense was lost, residual external practices were reinterpreted as superstition or instrumental sorcery ("magic"), i.e., correspondential science degraded into manipulation of externals.
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/The Luminous Science_ A Re-examination of the Magi.md
+
+**Connections**:
+- → `EARLY-043` (supported_by): Semantic shift evidence supports the perversion hypothesis.
+- → `EARLY-049` (developed_by): Remnant-confluence concept organizes the Hellenistic perversion hypothesis.
+
+---
+
+#### [EARLY-045] Arsacid/Parthian 'Iranian Revival' preservation of Magian tradition
+
+**Status**: preliminary | **Confidence**: 0.612
+
+> The document claims that under the Parthian (Arsacid) Empire a deliberate Iranian cultural-religious revival promoted Zoroastrian identity (e.g., fire cult emphasis) and supported preservation of Avestan/Zoroastrian tradition, functioning as a historical vehicle for conserving fragments of ancient correspondential knowledge.
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/The Luminous Science_ A Re-examination of the Magi.md
+2. [W] https://www.iranicaonline.org/articles/arsacids-iv/
+3. [W] https://www.iranicaonline.org/articles/kingship-02-parthian-period/
+4. [W] https://www.austriaca.at/0xc1aa5572%200x003bc8f8.pdf
+
+**Connections**:
+- → `EARLY-046` (supports): Arsacid/Parthian revival context supports the providential-preparation hypothesis.
+
+---
+
+#### [EARLY-046] Parthian revival as providential preparation for Incarnation
+
+**Status**: preliminary | **Confidence**: 0.612
+
+> The document hypothesizes that the Parthian/Arsacid Iranian revival functioned providentially to gather and protect remaining spiritual truths (remnants) within the Magian tradition, sustaining eschatological focus and readiness for prophetic fulfillment leading into the Nativity era.
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/The Luminous Science_ A Re-examination of the Magi.md
+
+**Connections**:
+- → `EARLY-045` (supported_by): Arsacid/Parthian revival context supports the providential-preparation hypothesis.
+- → `EARLY-049` (developed_by): Remnant-confluence concept includes the Parthian-preservation hypothesis as one preservation stream.
+
+---
+
+#### [EARLY-047] Essenes as separatist 'Sons of Light' remnant community
+
+**Status**: preliminary | **Confidence**: 0.612
+
+> The document claims that the Essene/Qumran movement functioned as a remnant community within late Second Temple Judaism: separatist from a perceived-corrupt Jerusalem cult, focused on purity and intensified scripture study, and oriented by apocalyptic dualism ("Sons of Light" vs "Sons of Darkness").
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/The Luminous Science_ A Re-examination of the Magi.md
+2. [W] https://www.pbs.org/wgbh/pages/frontline/shows/religion/portrait/essenes.html
+3. [W] https://pages.charlotte.edu/john-reeves/course-materials/rels-4107/the-essene-hypothesis/
+4. [W] https://en.wikipedia.org/wiki/Essenes
+
+**Connections**:
+- → `EARLY-048` (supports): Essene/Qumran remnant profile supports the parallel-remnant hypothesis.
+
+---
+
+#### [EARLY-048] Magi and Essenes as parallel remnant-keepers of inner sense
+
+**Status**: preliminary | **Confidence**: 0.612
+
+> The document hypothesizes that the Magi (in Persian/Zoroastrian channels) and the Essenes (in Judean/Qumran channels) functioned as parallel "remnant" vessels preserving fragments of inner-sense/correspondential interpretation during a period of institutional corruption and spiritual decline, enabling recognition of the Nativity signs when they appeared.
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/The Luminous Science_ A Re-examination of the Magi.md
+
+**Connections**:
+- → `EARLY-047` (supported_by): Essene/Qumran remnant profile supports the parallel-remnant hypothesis.
+- → `EARLY-049` (developed_by): Remnant-confluence concept includes the Magi/Essenes parallel-remnant hypothesis.
+
+---
+
+#### [EARLY-049] Remnant preservation and providential confluence at the Nativity
+
+**Status**: preliminary | **Confidence**: 0.52
+
+> The document frames the Magi narrative as a providential confluence of remnant wisdom-streams (Persian Magian tradition and Judean sectarian/prophetic currents) in which preserved fragments of correspondential interpretation enabled recognition of the Incarnation signs (star, gifts, worship) as the terminal act of the Ancient Church handing off to the nascent Christian dispensation.
+
+
+**Source Chain**:
+1. [T] data/04_Early_Christian_History/The Luminous Science_ A Re-examination of the Magi.md
+
+**Connections**:
+- → `EARLY-044` (develops): Remnant-confluence concept organizes the Hellenistic perversion hypothesis.
+- → `EARLY-046` (develops): Remnant-confluence concept includes the Parthian-preservation hypothesis as one preservation stream.
+- → `EARLY-048` (develops): Remnant-confluence concept includes the Magi/Essenes parallel-remnant hypothesis.
+- → `SWED-001` (developed_by): Doctrine of Correspondences grounds the remnant-confluence framing in a correspondential hermeneutic.
+- → `EARLY-008` (integrates_into): Feeds the Magi synthesis with an explicit concept/hypothesis/evidence chain.
+- → `EARLY-006` (integrates_into): Feeds Magi tradition synthesis with explicit remnant-preservation concept.
 
 ---
 
@@ -4821,6 +5047,7 @@ popularized and extended this thesis with additional evidence.
 - → `SWED-005` (developed_by): GNOS-013 applies the Swedenborgian proprium diagnosis to Pauline humility-as-authority dynamics.
 - → `GNOS-001` (parallels): GNOS-013 is a Pauline case-study of the broader gnostic impulse (self-authorizing private revelation).
 - → `GNOS-006` (parallels): GNOS-013 refines how proprium functions as a gnostic mechanic in Pauline rhetoric.
+- → `SWED-027` (parallels): Both diagnose Pauline authority/rhetoric as proprium-structured (pneumatic ego).
 
 ---
 
@@ -5843,6 +6070,10 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 
 **Source Chain**:
 1. [T] data/05_Gnostic_Analysis/The Architecture of Hidden Divinity.md
+
+**Connections**:
+- → `EARLY-038` (develops): Institutional mediation/vicarism is treated as a proprium/dominion mechanism expressed in christological form.
+- → `SWED-027` (develops): Pauline authority critique is treated as a proprium/dominion mechanism in theological form.
 
 ---
 

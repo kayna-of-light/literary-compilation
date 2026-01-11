@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 10:16*
+*Last exported: 2026-01-11 10:22*
 
 ---
 
@@ -10,19 +10,19 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 366 |
-| Total Connections | 456 |
+| Total Nodes | 368 |
+| Total Connections | 470 |
 | Untraced Claims | 0 |
 
 ### By Status
 
-- **preliminary**: 80
+- **preliminary**: 82
 - **validated**: 279
 - **contested**: 7
 
 ### By Domain
 
-- **Biblical Scholarship** (BIBL): 40
+- **Biblical Scholarship** (BIBL): 42
 - **Consciousness Studies** (CONSC): 106
 - **Cross-Domain** (CROSS): 39
 - **Early Christian History** (EARLY): 30
@@ -3102,6 +3102,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `BIBL-037` (develops): Doc 1: author/attribution issues are a core HCM topic in the canonical Gospels synthesis.
 - → `BIBL-038` (develops): Doc 2: Genesis 1–11 ANE context is part of the scientific/archaeological framing of biblical narratives.
 - → `BIBL-040` (develops): Doc 3: resurrection narrative development is treated as an HCM object of analysis.
+- → `BIBL-044` (develops): Doc 5: Pastoral authorship/dating debate is treated as an HCM problem-space.
 
 ---
 
@@ -3225,6 +3226,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 4. [P] Hebrews 4:15
 5. [T] data/05_Gnostic_Analysis/The Apostle of the Archons.md
 
+**Connections**:
+- → `BIBL-043` (supports): Doc 4 provides the internal argument and case applications supporting the baseline-shift hypothesis.
+
 ---
 
 #### [BIBL-012] Pastoral Epistles Pseudepigraphy
@@ -3236,6 +3240,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Source Chain**:
 1. [T] data/03_Biblical_Scholarship/Pastoral Epistles Authorship Debate.md
+
+**Connections**:
+- → `BIBL-030` (supported_by): Doc 5: stylometric/vocabulary statistics are cited as linguistic support for non-Pauline authorship.
+- → `BIBL-044` (developed_by): Doc 5: the pseudepigraphy/authorship hypothesis is a central claim within the Pastoral-authorship debate.
+- → `BIBL-031` (supported_by): Doc 5: absence from P46 is cited as reception-history/manuscript support for late inclusion of the Pastorals in the Pauline corpus.
 
 ---
 
@@ -3345,6 +3354,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `BIBL-001` (developed_by): Doc 1: the criteria-of-authenticity toolkit is a standard HCM sub-method used to reconstruct the historical Jesus.
+- → `BIBL-043` (develops): Doc 4: baseline-shift critique reframes how criteria of authenticity are applied (embarrassment → temptation).
 
 ---
 
@@ -3471,6 +3481,9 @@ events exist in causal networks.
 **Source Chain**:
 1. [T] data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md
 
+**Connections**:
+- → `BIBL-043` (develops): Doc 4: Criterion of Temptation is operationalized as a hypothesis about which Gospel features function as authenticity signals under a Jamesian baseline.
+
 ---
 
 #### [BIBL-030] Harrison's Statistical Stylometry of Pastoral Epistles
@@ -3482,6 +3495,9 @@ events exist in causal networks.
 **Source Chain**:
 1. [S] Harrison, P.N. The Problem of the Pastoral Epistles. Oxford University Press, 1921.
 2. [T] data/03_Biblical_Scholarship/Pastoral Epistles Authorship Debate.md
+
+**Connections**:
+- → `BIBL-012` (supports): Doc 5: stylometric/vocabulary statistics are cited as linguistic support for non-Pauline authorship.
 
 ---
 
@@ -3495,6 +3511,9 @@ events exist in causal networks.
 1. [P] P46 (Chester Beatty II / Michigan 6238), c. 200 CE
 2. [S] Kenyon, F.G. The Chester Beatty Biblical Papyri. 1933-1958.
 3. [T] data/03_Biblical_Scholarship/Pastoral Epistles Authorship Debate.md
+
+**Connections**:
+- → `BIBL-012` (supports): Doc 5: absence from P46 is cited as reception-history/manuscript support for late inclusion of the Pastorals in the Pauline corpus.
 
 ---
 
@@ -3665,6 +3684,39 @@ events exist in causal networks.
 
 **Connections**:
 - → `BIBL-008` (supports): Shimron et al.’s geochemical linkage claim is cited as material support connecting the James Ossuary to Talpiot.
+
+---
+
+#### [BIBL-043] Criterion of Temptation vs. Embarrassment (Baseline-Shift Hypothesis)
+
+**Status**: preliminary | **Confidence**: unknown
+
+> The claim that the standard Historical Jesus “Criterion of Embarrassment” is frequently misapplied because it assumes a Pauline/High-Christology baseline for what would have been “embarrassing” to earliest communities. If the earliest tradition is instead grounded in a Jamesian/Jerusalem orthopraxy baseline (where perfection is dynamic completion through struggle), then “embarrassing” Gospel moments (baptism, ignorance, agony, temptation) function as intentional theological assertions and can be treated as authenticity signals under a proposed “Criterion of Temptation/Purification.”
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/Re-evaluating Gospel Embarrassment.md
+
+**Connections**:
+- → `BIBL-020` (developed_by): Doc 4: baseline-shift critique reframes how criteria of authenticity are applied (embarrassment → temptation).
+- → `BIBL-011` (supported_by): Doc 4 provides the internal argument and case applications supporting the baseline-shift hypothesis.
+- → `BIBL-029` (developed_by): Doc 4: Criterion of Temptation is operationalized as a hypothesis about which Gospel features function as authenticity signals under a Jamesian baseline.
+
+---
+
+#### [BIBL-044] Pastoral Epistles Authorship and Dating (Historical-Critical)
+
+**Status**: preliminary | **Confidence**: unknown
+
+> A historical-critical problem-space focused on whether 1 Timothy, 2 Timothy, and Titus were authored by Paul and how their likely date of composition relates to institutional development, anti-heretical polemic, and the formation of the Pauline corpus.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/Pastoral Epistles Authorship Debate.md
+
+**Connections**:
+- → `BIBL-001` (developed_by): Doc 5: Pastoral authorship/dating debate is treated as an HCM problem-space.
+- → `BIBL-012` (develops): Doc 5: the pseudepigraphy/authorship hypothesis is a central claim within the Pastoral-authorship debate.
 
 ---
 

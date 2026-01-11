@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 07:28*
+*Last exported: 2026-01-11 07:45*
 
 ---
 
@@ -10,20 +10,20 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 348 |
-| Total Connections | 245 |
+| Total Nodes | 349 |
+| Total Connections | 248 |
 | Untraced Claims | 0 |
 
 ### By Status
 
-- **preliminary**: 67
+- **preliminary**: 68
 - **validated**: 274
 - **contested**: 7
 
 ### By Domain
 
 - **Biblical Scholarship** (BIBL): 33
-- **Consciousness Studies** (CONSC): 102
+- **Consciousness Studies** (CONSC): 103
 - **Cross-Domain** (CROSS): 39
 - **Early Christian History** (EARLY): 30
 - **The Gnostic Impulse** (GNOS): 26
@@ -1364,6 +1364,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [T] data/00_Framework/Epistle - The Divine Marriage and the Expression of the Lord in Ultimates.md
 
+**Connections**:
+- → `CONSC-119` (develops): Applies healing-correspondence concept to a testable temporal prediction: transformation typically precedes remission.
+
 ---
 
 #### [CONSC-105] Spiritual Accumulation Expression
@@ -1592,6 +1595,22 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `CONSC-106` (developed_by): Operationalizes the 'normative path' claim (default continuation) from Afterlife Path Structure.
 - → `CONSC-028` (supported_by): Large-corpus convergence markers (n=6,753) support normative continuation as the default path; rarity of reincarnation indicators implies the complement (~95%).
+
+---
+
+#### [CONSC-119] Transformation-First Healing Hypothesis (Spontaneous Remission Timing)
+
+**Status**: preliminary | **Confidence**: unknown
+
+> In spontaneous remission cases where both psycho-spiritual transformation and physical healing occur, transformation events tend to precede the onset of remission more often than would be expected by chance. This temporal asymmetry supports the correspondential prediction that changes in will/meaning-state are prior to changes in bodily ultimates (without, by itself, proving causation).
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Psycho-Spiritual Transformation and Spontaneous Remission.md
+
+**Connections**:
+- → `CONSC-104` (developed_by): Applies healing-correspondence concept to a testable temporal prediction: transformation typically precedes remission.
+- → `CONSC-054` (supported_by): 569-case analysis: in clear-order testimonial subset (n=138), 85.5% transformation precedes healing (χ²=69.59; p<0.001), supporting transformation-first timing.
 
 ---
 

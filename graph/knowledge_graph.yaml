@@ -3013,6 +3013,10 @@ nodes:
     - target: CROSS-002
       type: parallels
       note: Divine Bricolage synthesizes Doctrine of Correspondences with human authorship
+    - target: SWED-012
+      type: develops
+      note: Catalog of correspondences is an application derived from the foundational
+        doctrine.
   SWED-002:
     confidence: 0.506
     created: 2024-12-27
@@ -3198,6 +3202,15 @@ nodes:
     - target: MYTH-023
       type: parallels
       note: Primary Orality is the cognitive mechanism for Ancient Word preservation
+    - target: SWED-012
+      type: parallels
+      note: The catalog illustrates the kind of correspondential symbolism Swedenborg
+        attributes to the Ancient Word.
+    - target: SWED-042
+      type: develops
+      note: SWED-042 is a specific historical-rupture hypothesis developed from the
+        Ancient Word concept (mechanism for archival loss + fragmentation of correspondential
+        knowledge).
   SWED-005:
     confidence: 0.3
     created: 2024-12-27
@@ -3349,16 +3362,24 @@ nodes:
 
       '
     source_chain:
-    - note: Comprehensive correspondence catalog
+    - type: T
       ref: data/02_Swedenborgian_Theology/A Library of Biblical Correspondences in
-        Nature and Objects.md
-      type: T
+        Nature and Objects According to Emanuel Swedenborg.md
+      note: Comprehensive correspondence catalog
     status: validated
     title: Library of Biblical Correspondences
     trace_status: complete
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     id: SWED-012
-    connections: []
+    connections:
+    - target: SWED-004
+      type: parallels
+      note: The catalog illustrates the kind of correspondential symbolism Swedenborg
+        attributes to the Ancient Word.
+    - target: SWED-001
+      type: developed_by
+      note: Catalog of correspondences is an application derived from the foundational
+        doctrine.
   SWED-013:
     confidence: 0.3
     created: 2024-12-27
@@ -10792,13 +10813,14 @@ nodes:
 
       - ''Gradual establishment'' allows indefinite deferral'
     source_chain:
-    - note: Full dispensational analysis
-      ref: data/02_Swedenborgian_Theology/Conversation relating the Fourth Church.md
-      type: T
+    - type: T
+      ref: data/02_Swedenborgian_Theology/Conversation relating the Fourth Church
+        - The New Jerusalem.md
+      note: Full dispensational analysis
     status: validated
     title: The New Jerusalem (New Church)
     trace_status: complete
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     id: SWED-024
     connections: []
   SWED-025:
@@ -17829,7 +17851,12 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: SWED-042
-    connections: []
+    connections:
+    - target: SWED-004
+      type: developed_by
+      note: SWED-042 is a specific historical-rupture hypothesis developed from the
+        Ancient Word concept (mechanism for archival loss + fragmentation of correspondential
+        knowledge).
   SWED-043:
     confidence: 0.3
     created: 2025-12-29

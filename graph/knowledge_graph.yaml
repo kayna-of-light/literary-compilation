@@ -153,14 +153,23 @@ nodes:
     domain: BIBL
     node_type: evidence
     source_chain:
-    - note: Synthesis of volcanology and textual analysis
-      ref: Exodus Narrative_ Mythic Bricolage Study.md
-      type: S
+    - type: T
+      ref: data/06_Mythological_Studies/Exodus Narrative_ Mythic Bricolage Study.md
+      note: Internal synthesis proposing Thera eruption as a template for plague imagery.
+    - type: S
+      ref: '[TRACE NEEDED] Volcanology/archaeology sources for Thera (Santorini) eruption
+        dating and Tell el-Dab''a pumice finds'
+      note: The document summarizes these findings but does not provide stable scholarly
+        citations.
     status: preliminary
     title: Thera Eruption Plagues Correlation
     id: BIBL-026
-    connections: []
-    updated: '2026-01-10'
+    connections:
+    - target: MYTH-013
+      type: supports
+      note: Thera eruption template supports the 'Memory of Cataclysm' component in
+        the three-memory model.
+    updated: '2026-01-11'
     trace_status: untraced
     confidence: 0.869
   BIBL-027:
@@ -178,14 +187,24 @@ nodes:
     domain: BIBL
     node_type: evidence
     source_chain:
-    - note: Citing Carl Drews / Alexander Tulloch
-      ref: Exodus Narrative_ Mythic Bricolage Study.md
-      type: S
+    - type: T
+      ref: data/06_Mythological_Studies/Exodus Narrative_ Mythic Bricolage Study.md
+      note: Internal synthesis proposing wind setdown as the physical template for
+        the Reed Sea crossing.
+    - type: S
+      ref: '[TRACE NEEDED] Carl Drews wind setdown modeling paper and Major-General
+        Alexander Tulloch (1882) observation'
+      note: The document names these sources but does not supply complete bibliographic
+        details.
     status: preliminary
     title: Wind Setdown Hydrodynamics
     id: BIBL-027
-    connections: []
-    updated: '2026-01-10'
+    connections:
+    - target: MYTH-013
+      type: supports
+      note: Wind setdown modeling supports the 'Memory of Deliverance' component in
+        the three-memory model.
+    updated: '2026-01-11'
     trace_status: untraced
     confidence: 0.737
   BIBL-028:
@@ -203,14 +222,27 @@ nodes:
     domain: BIBL
     node_type: evidence
     source_chain:
-    - note: Historical synthesis
-      ref: Exodus Narrative_ Mythic Bricolage Study.md
-      type: S
+    - type: T
+      ref: data/06_Mythological_Studies/Exodus Narrative_ Mythic Bricolage Study.md
+      note: Internal synthesis tying liberation theme to LBAC and Egyptian withdrawal
+        from Canaan.
+    - type: P
+      ref: Merneptah Stele (c. 1207 BCE)
+      note: Earliest extrabiblical attestation of "Israel" as a people group.
+    - type: S
+      ref: '[TRACE NEEDED] Secondary scholarship on Late Bronze Age Collapse chronology
+        and Egyptian imperial withdrawal'
+      note: The document summarizes standard chronology and interpretation without
+        stable citations.
     status: preliminary
     title: Late Bronze Age Collapse & Merneptah Stele
     id: BIBL-028
-    connections: []
-    updated: '2026-01-10'
+    connections:
+    - target: MYTH-013
+      type: supports
+      note: LBAC + Merneptah attestation supports the 'Memory of Liberation' component
+        in the three-memory model.
+    updated: '2026-01-11'
     trace_status: untraced
     confidence: 0.85
   CONSC-082:
@@ -556,6 +588,10 @@ nodes:
       type: develops
       note: Provides a neurocognitive grounding for the two-tiered method (analytic/fragmenting
         vs holistic/relational modes).
+    - target: MYTH-038
+      type: develops
+      note: Two-tier method frames calendrical disputes as natural-plane authority
+        phenomena with spiritual-plane interpretive significance.
     confidence: 0.3
   CROSS-024:
     created: '2026-01-09'
@@ -1690,7 +1726,7 @@ nodes:
     id: BIBL-003
     connections: []
   BIBL-004:
-    confidence: 0.3
+    confidence: 0.865
     created: 2024-12-27
     definition: 'The chronological development of resurrection accounts from Paul''s
       "spiritual body" (soma pneumatikon, 50s CE) to Luke''s "flesh and bones" (90s
@@ -1729,7 +1765,7 @@ nodes:
       note: the resurrection-evolution hypothesis is a specific claim under the broader
         textual-development concept.
   BIBL-005:
-    confidence: 0.3
+    confidence: 0.815
     created: '2024-12-27'
     definition: 'Scholarly consensus that canonical Gospels belong to the Greco-Roman
       biographical genre (bioi), characterized by focus on a central figure''s character
@@ -1796,7 +1832,7 @@ nodes:
       type: developed_by
       note: Troeltsch's principles are presented as HCM foundations.
   BIBL-022:
-    confidence: 0.3
+    confidence: 0.765
     created: 2025-12-27
     definition: 'Scholarly consensus that all four canonical Gospels were originally
       written and circulated anonymously. Traditional names (''According to Matthew,''
@@ -2158,7 +2194,7 @@ nodes:
         Divine Bricolage.md
       note: Primary definition
     status: validated
-    confidence: 0.3
+    confidence: 0.725
     id: CONSC-095
     connections:
     - target: SWED-003
@@ -2209,7 +2245,7 @@ nodes:
     trace_status: complete
     created: '2026-01-09'
     updated: '2026-01-10'
-    confidence: 0.3
+    confidence: 0.608
     id: CONSC-104
     connections:
     - target: CONSC-119
@@ -2270,7 +2306,7 @@ nodes:
     trace_status: complete
     created: '2026-01-09'
     updated: '2026-01-10'
-    confidence: 0.3
+    confidence: 0.673
     id: CONSC-106
     connections:
     - target: SWED-003
@@ -2986,8 +3022,11 @@ nodes:
     - target: MYTH-010
       type: develops
       note: CDE myth-evolution model is an instance of mythic bricolage framing
+    - target: MYTH-013
+      type: develops
+      note: Mythic bricolage concept develops the Exodus three-memory synthesis hypothesis.
   MYTH-002:
-    confidence: 0.3
+    confidence: 0.755
     created: 2024-12-27
     definition: 'Analysis of proto-myth evolution showing divergence into two trajectories:
       "Heart of Division" (Babylonian/combat mythology, cosmic conflict, separation)
@@ -3061,7 +3100,7 @@ nodes:
       note: 'Doc 4: deep-time mnemonic/symbolic systems are presented as external
         analogs that align with (and thus parallel) Swedenborg''s Ancient Word hypothesis.'
   MYTH-004:
-    confidence: 0.3
+    confidence: 0.861
     created: 2024-12-27
     definition: 'Swedenborg''s identification of Genesis 1-11 as "made-up histories"
       (pure allegory) distinct from "real history" beginning with Abraham. Creation,
@@ -3084,7 +3123,18 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: MYTH-004
-    connections: []
+    connections:
+    - target: MYTH-028
+      type: supported_by
+      note: Archaeology/science non-literality evidence supports Swedenborg 'made-up
+        history' hypothesis
+    - target: MYTH-027
+      type: supported_by
+      note: ANE parallel + demythologization evidence supports non-literal Genesis
+        1–11 framing
+    - target: SWED-032
+      type: developed_by
+      note: This hypothesis operationalizes the Allegorical Word (Genesis 1–11) concept
   MYTH-006:
     confidence: 0.3
     created: 2024-12-27
@@ -3325,7 +3375,7 @@ nodes:
       note: 'Doc 5: the Delft commission is framed as a providentially prepared instance
         of Divine Influx guiding a human vessel into new work.'
   SWED-003:
-    confidence: 0.65
+    confidence: 0.68
     created: 2024-12-27
     definition: 'The intermediate realm between heaven and hell where souls arrive
       after death. A period of orientation and unveiling where external pretenses
@@ -4291,7 +4341,7 @@ nodes:
       note: Western Non-Interpolations are used as textual-critical evidence for later
         physicalizing additions in resurrection narratives.
   BIBL-008:
-    confidence: 0.3
+    confidence: 0.65
     created: 2024-12-27
     definition: 'The hypothesis that the 1980 Talpiot tomb discovery (ossuaries inscribed
       "Yeshua bar Yehosef," "Maria," "Yose," "Mariamene e Mara") is the Jesus family
@@ -8654,7 +8704,7 @@ nodes:
     id: EARLY-012
     connections: []
   EARLY-014:
-    confidence: 0.3
+    confidence: 0.861
     created: 2024-12-28
     definition: 'The figure of Melchizedek generated three distinct interpretive traditions:
       (1) Historical-Critical: A Jebusite priest-king of Salem, devotee of El Elyon
@@ -8763,7 +8813,7 @@ nodes:
       note: Frames orthodoxy formation as an institutional/imperial consolidation
         process that anticipates the later Constantinian church-state fusion.
   EARLY-016:
-    confidence: 0.3
+    confidence: 0.861
     created: 2024-12-28
     definition: 'The thesis that the Quranic Jesus (Isa ibn Maryam) functions as a
       deliberate theological "correction" of Pauline/Gnostic Christianity, restoring
@@ -9440,7 +9490,7 @@ nodes:
       note: Both argue Paul’s letters contain structural/terminological warrant for
         later Gnostic systems
   GNOS-007:
-    confidence: 0.3
+    confidence: 0.9
     created: 2024-12-28
     definition: 'The thesis that the Apostle Paul, not later Gnostic teachers, articulated
       the structural logic underlying Gnostic systems. Paul established: (1) Epistemological
@@ -10003,7 +10053,7 @@ nodes:
         archaeology, the framework develops a composite-memory / mythic-bricolage
         hypothesis for the Exodus narrative’s formation'
   MYTH-010:
-    confidence: 0.3
+    confidence: 0.9
     created: 2024-12-27
     definition: 'The CDE model of myth evolution proposes that consciousness is not
       a passive byproduct but an active driver of memetic (not genetic) evolution.
@@ -10085,52 +10135,48 @@ nodes:
       \ transcendent God act in a finite world? They personify divine action without\
       \ fracturing divine unity. Each tradition's emphasis reflects its core theology:\
       \ covenant (Michael for Israel), incarnation (Gabriel for Christianity), revelation\
-      \ (Jibrīl for Islam).\"\n\nExtraction notes:Verified 2025-01-04 by confidence-extractor\
+      \ (Jibrīl for Islam).\"\n\nExtraction notes: Verified 2025-01-04 by confidence-extractor\
       \ agent:\n- Source type: EXTERNAL - synthesizes 88 external sources from academic\
       \ publishers\n  (Cambridge, Brill, Oxford), journals (Dead Sea Discoveries),\
       \ reference works\n- Methodology: Textual-critical (etymology, diachronic tracing,\
       \ comparative religion)\n- Sample: N/A - not a statistical study\n- Replication:\
       \ Independent - claims represent CONSENSUS scholarship, not novel arguments\n\
-      EVIDENCE VERIFICATION:\n1. Divine Council motif (Psalm 82, Deut 32:8-9) ✅ PRIMARY\
-      \ TEXT verified\n2. Zoroastrian Amesha Spentas ✅ VERIFIED (Britannica: \"six\
-      \ divine beings...\n   emanations or personifications of God's attributes\"\
+      \nEVIDENCE VERIFICATION:\n1. Divine Council motif (Psalm 82, Deut 32:8-9) ✅\
+      \ PRIMARY TEXT verified\n2. Zoroastrian Amesha Spentas ✅ VERIFIED (Britannica:\
+      \ \"six divine beings... emanations or personifications of God's attributes\"\
       )\n3. Daniel's \"chief princes\" implying plurality ✅ PRIMARY TEXT (Daniel 10:13)\n\
       4. Qumran War Scroll: Michael as Prince of Light ✅ VERIFIED (standard DSS scholarship)\n\
-      5. Christian/Islamic shifts ✅ VERIFIED (standard comparative religion)\nPEER\
+      5. Christian/Islamic shifts ✅ VERIFIED (standard comparative religion)\n\nPEER\
       \ REVIEW: Draws on Cambridge (Reed, \"Demons, Angels, and Writing\"), Brill\
-      \ (Otzen),\nOxford (Encyclopedia of Dead Sea Scrolls), Mohr Siebeck.\nSOURCE\
-      \ CHAIN ERROR: Node lists \"Encyclopaedia Iranica, ARSACIDS iv\" but this is\
-      \ NOT\ncited in source document. Actual Zoroastrian sources are Britannica and\
-      \ Jewish\nEncyclopedia. RECOMMEND: Remove or correct this entry, add Britannica\
-      \ \"Amesha Spenta\".\nCAVEATS WELL-CALIBRATED: \"catalytic not derivative\"\
-      \ is appropriate scholarly nuance.\n\nCaveats:\n- Zoroastrian influence is 'catalytic'\
-      \ not 'derivative' (adaptation, not copying)\n- Canonical textual basis is sparse;\
-      \ much from apocryphal/pseudepigraphal sources\n- Islamic counterparts (Mīkā'īl,\
-      \ Jibrīl, Isrāfīl) have shifted functions\n\nEvidence:\n- Divine Council motif\
-      \ (Psalm 82, Deut 32:8-9) predates archangel formalization\n- Zoroastrian Amesha\
-      \ Spentas: 6-7 high beings as personified attributes of Ahura Mazda\n- Daniel's\
-      \ 'chief princes' (sarim) = plurality of archangels; Michael as 'one of'\n-\
-      \ Qumran War Scroll: Michael as 'Prince of Light' commanding Sons of Light\n\
-      - Christian shift: Gabriel elevated via Annunciation (Luke 1); Michael as dragon-slayer\
-      \ (Rev 12)\n- Islamic shift: Jibrīl supreme (Qur'an transmitter); Mīkā'īl =\
-      \ sustenance; Isrāfīl = resurrection"
+      \ (Otzen),\nOxford (Encyclopedia of Dead Sea Scrolls), Mohr Siebeck.\n\nCaveats:\n\
+      - Zoroastrian influence is 'catalytic' not 'derivative' (adaptation, not copying)\n\
+      - Canonical textual basis is sparse; much from apocryphal/pseudepigraphal sources\n\
+      - Islamic counterparts (Mīkā'īl, Jibrīl, Isrāfīl) have shifted functions\n\n\
+      Evidence:\n- Divine Council motif (Psalm 82, Deut 32:8-9) predates archangel\
+      \ formalization\n- Zoroastrian Amesha Spentas: 6-7 high beings as personified\
+      \ attributes of Ahura Mazda\n- Daniel's 'chief princes' (sarim) = plurality\
+      \ of archangels; Michael as 'one of'\n- Qumran War Scroll: Michael as 'Prince\
+      \ of Light' commanding Sons of Light\n- Christian shift: Gabriel elevated via\
+      \ Annunciation (Luke 1); Michael as dragon-slayer (Rev 12)\n- Islamic shift:\
+      \ Jibrīl supreme (Qur'an transmitter); Mīkā'īl = sustenance; Isrāfīl = resurrection\n"
     source_chain:
-    - note: Full comparative analysis
+    - type: T
       ref: data/06_Mythological_Studies/Analyzing Archangel Development Across Religions.md
-      type: T
-    - note: Key scriptural sources
+      note: Full comparative analysis
+    - type: P
       ref: Daniel 10:13, 12:1; Tobit 12:15; 1 Enoch 20; Jude 1:9
-      type: P
-    - note: Zoroastrian Amesha Spentas context
-      ref: Encyclopaedia Iranica, ARSACIDS iv
-      type: S
-    - note: Qumran angelology
+      note: Key scriptural sources
+    - type: W
+      ref: Britannica, "Amesha spenta" (Encyclopaedia Britannica)
+      note: Reference confirmation for Amesha Spentas as high-ranking divine beings/personified
+        attributes
+    - type: S
       ref: Dead Sea Scrolls (War Scroll, Songs of Sabbath Sacrifice)
-      type: S
+      note: Qumran angelology
     status: validated
     title: Evolution of Archangelic Hierarchy
     trace_status: complete
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     id: MYTH-011
     connections:
     - target: MYTH-037
@@ -10175,7 +10221,7 @@ nodes:
     id: MYTH-012
     connections: []
   MYTH-013:
-    confidence: 0.3
+    confidence: 0.9
     created: 2024-12-28
     definition: 'The Exodus narrative is a masterpiece of mythic bricolage—a "redacted
       memory" forged by Iron Age scribes from three authentic but chronologically
@@ -10216,7 +10262,22 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: MYTH-013
-    connections: []
+    connections:
+    - target: MYTH-001
+      type: developed_by
+      note: Mythic bricolage concept develops the Exodus three-memory synthesis hypothesis.
+    - target: BIBL-026
+      type: supported_by
+      note: Thera eruption template supports the 'Memory of Cataclysm' component in
+        the three-memory model.
+    - target: BIBL-027
+      type: supported_by
+      note: Wind setdown modeling supports the 'Memory of Deliverance' component in
+        the three-memory model.
+    - target: BIBL-028
+      type: supported_by
+      note: LBAC + Merneptah attestation supports the 'Memory of Liberation' component
+        in the three-memory model.
   MYTH-014:
     confidence: 0.831
     confidence_factors:
@@ -10316,9 +10377,13 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: MYTH-014
-    connections: []
+    connections:
+    - target: MYTH-039
+      type: supports
+      note: 'Doc 2 evidence: Enochic 364-day calendar is framed as revealed and adopted
+        as a sectarian identity/authority marker (Qumran).'
   MYTH-015:
-    confidence: 0.3
+    confidence: 0.891
     created: 2024-12-28
     definition: 'A comparative analysis of Genesis 1 and the Enuma Elish reveals two
       fundamentally different cosmological principles emerging from a shared ANE primordial
@@ -10389,7 +10454,7 @@ nodes:
       note: MYTH-010 supplies the CDE mechanism; MYTH-015 gives the Genesis/Enuma
         comparative instantiation
   MYTH-016:
-    confidence: 0.3
+    confidence: 0.837
     created: 2024-12-28
     definition: 'The Animal Apocalypse (1 Enoch 85-90) and Zoroastrian bovine mythology
       share a striking structural homology: both place a "White Bull" at both the
@@ -10508,6 +10573,10 @@ nodes:
       type: supports
       note: Textual parallels and deliberate demythologization support the Two Hearts
         hypothesis
+    - target: MYTH-004
+      type: supports
+      note: ANE parallel + demythologization evidence supports non-literal Genesis
+        1–11 framing
     trace_status: untraced
   MYTH-028:
     domain: MYTH
@@ -10560,7 +10629,11 @@ nodes:
 
       - Scientific consensus on non-literality'
     id: MYTH-028
-    connections: []
+    connections:
+    - target: MYTH-004
+      type: supports
+      note: Archaeology/science non-literality evidence supports Swedenborg 'made-up
+        history' hypothesis
     trace_status: untraced
   MYTH-029:
     domain: MYTH
@@ -12584,7 +12657,7 @@ nodes:
       note: Doc 4 provides the internal argument and case applications supporting
         the baseline-shift hypothesis.
   BIBL-012:
-    confidence: 0.3
+    confidence: 0.775
     created: 2024-12-28
     definition: 'The overwhelming scholarly consensus that 1 Timothy, 2 Timothy, and
       Titus were NOT written by Paul but composed pseudepigraphically (c. 80-120 CE)
@@ -12788,7 +12861,7 @@ nodes:
       note: 4.2kya aridification + urban collapse provides the proposed historical
         substrate for ‘world-ending’ catastrophe imagery.
   CONSC-001:
-    confidence: 0.591
+    confidence: 0.7
     created: '2024-12-27'
     definition: 'Consciousness is the fundamental, active force in reality—not an
       epiphenomenal byproduct of neural activity. In cultural evolution, the collective
@@ -15163,7 +15236,7 @@ nodes:
     id: CROSS-005
     connections: []
   CROSS-006:
-    confidence: 0.3
+    confidence: 0.882
     created: 2025-12-29
     definition: 'A third interpretive layer beyond Historical Jesus and Christ of
       Faith: the "Jesus  Profile" as the curated product of Divine Bricolage. The
@@ -15258,7 +15331,7 @@ nodes:
         the claim that the ‘Theological Jesus’ corresponds to an objectively encountered
         profile rather than iconographic projection.
   CROSS-007:
-    confidence: 0.3
+    confidence: 0.861
     created: 2025-12-29
     definition: 'A critical theological argument that the difference between Jesus
       and the prophets  (and all humans) is one of DEGREE rather than absolute KIND.
@@ -16326,7 +16399,7 @@ nodes:
     id: CROSS-022
     connections: []
   EARLY-017:
-    confidence: 0.3
+    confidence: 0.861
     created: 2024-12-28
     definition: 'A critical scholarly analysis arguing that Paul''s Damascus vision,
       the sole legitimating warrant for his apostolate, is NOT historically reliable
@@ -17415,7 +17488,7 @@ nodes:
       note: Doc2 uses 'lip-speech' as a Golden Age trait and aligns it with gestural
         theories of language origin.
   SWED-032:
-    confidence: 0.3
+    confidence: 0.732
     created: 2025-12-27
     definition: 'The first external form of the Word, comprising Genesis 1-11, characterized
       as "made-up  history" (Swedenborg) with little to no historical relevance. This
@@ -17481,6 +17554,9 @@ nodes:
       type: developed_by
       note: 'Doc: Allegorical Word (Genesis 1–11) is meaningful only through correspondences
         (spiritual sense within literal vessel)'
+    - target: MYTH-004
+      type: develops
+      note: This hypothesis operationalizes the Allegorical Word (Genesis 1–11) concept
   SWED-033:
     confidence: 0.3
     created: 2025-12-27
@@ -18400,7 +18476,7 @@ nodes:
     id: SWED-041
     connections: []
   SWED-042:
-    confidence: 0.3
+    confidence: 0.9
     created: 2025-12-29
     definition: 'The historical rupture of 330 BCE when Alexander the Great''s forces
       destroyed  the Persepolis royal archives. CRITICAL DISTINCTION: Scholarly consensus
@@ -18650,7 +18726,7 @@ nodes:
       note: Both treat Bundahišn as preserving Damdat Nask content after canonical
         rupture.
   SWED-043:
-    confidence: 0.3
+    confidence: 0.831
     created: 2025-12-29
     definition: 'The historical-theological significance of Daniel''s position as
       RAB-HARTUMMIN  (Chief of the Magicians/Scribes) and RAB-SIGNĪN (Chief Prefect)
@@ -19440,7 +19516,7 @@ nodes:
         the ‘universal theosis capacity’ hypothesis (CROSS-007) is developed.
     created: '2026-01-10'
     updated: '2026-01-11'
-    confidence: 0.3
+    confidence: 0.732
   GNOS-026:
     domain: GNOS
     node_type: concept
@@ -19654,7 +19730,7 @@ nodes:
     created: '2026-01-11'
     updated: '2026-01-11'
     trace_status: complete
-    confidence: 0.761
+    confidence: 0.791
   CONSC-112:
     domain: CONSC
     node_type: hypothesis
@@ -19929,7 +20005,7 @@ nodes:
       type: develops
       note: Develops the specific claim that CORT/SOCS acts as a trauma-weighted filter
         producing under-detection of non-cyclic cohorts.
-    confidence: 0.686
+    confidence: 0.762
   CONSC-121:
     domain: CONSC
     node_type: hypothesis
@@ -20078,6 +20154,7 @@ nodes:
       type: parallels
       note: The catalog explicitly organizes correspondences across degrees (celestial/spiritual/natural)
         and describes the mind as mirroring that tiered structure.
+    confidence: 0.3
   SWED-092:
     domain: SWED
     node_type: concept
@@ -20104,6 +20181,7 @@ nodes:
       type: developed_by
       note: Divine influx is described as the flow of divine love and wisdom; this
         node specifies the heat/light correspondence and spiritual-sun framing.
+    confidence: 0.3
   SWED-093:
     domain: SWED
     node_type: hypothesis
@@ -20130,6 +20208,7 @@ nodes:
       type: developed_by
       note: The document frames correspondential knowledge as ancient and later lost;
         this hypothesis specifies the claimed idolatry outcome of that loss.
+    confidence: 0.3
   SWED-094:
     domain: SWED
     node_type: hypothesis
@@ -20166,6 +20245,7 @@ nodes:
       note: Respiratory-control scholarship provides plausibility substrate for linking
         'internal respiration' language to voluntary breath modulation in the human
         lineage (interpretive bridge remains hypothesis-level).
+    confidence: 0.7
   SWED-095:
     domain: SWED
     node_type: concept
@@ -20190,6 +20270,7 @@ nodes:
     connections:
     - target: SWED-096
       type: develops
+    confidence: 0.3
   SWED-096:
     domain: SWED
     node_type: hypothesis
@@ -20221,6 +20302,7 @@ nodes:
       type: parallels
       note: Both treat Bundahišn as preserving Damdat Nask content after canonical
         rupture.
+    confidence: 0.831
   MYTH-037:
     domain: MYTH
     node_type: hypothesis
@@ -20265,6 +20347,7 @@ nodes:
         as catalytic precursor
     created: '2026-01-11'
     updated: '2026-01-11'
+    confidence: 0.891
   BIBL-036:
     domain: BIBL
     node_type: concept
@@ -20292,6 +20375,7 @@ nodes:
       type: develops
       note: the bioi consensus is a specific hypothesis within the broader genre-classification
         question.
+    confidence: 0.693
   BIBL-037:
     domain: BIBL
     node_type: concept
@@ -20327,6 +20411,7 @@ nodes:
       type: develops
       note: the anonymity/2nd-century attribution claim is a specific hypothesis within
         the broader authorship/attribution concept.
+    confidence: 0.65
   BIBL-038:
     domain: BIBL
     node_type: concept
@@ -20355,6 +20440,7 @@ nodes:
       type: develops
       note: the cultural-memory reading of flood narratives is a specific hypothesis
         within Genesis 1–11 comparative context.
+    confidence: 0.3
   BIBL-039:
     domain: BIBL
     node_type: hypothesis
@@ -20385,6 +20471,7 @@ nodes:
       type: developed_by
       note: the cultural-memory reading of flood narratives is a specific hypothesis
         within Genesis 1–11 comparative context.
+    confidence: 0.885
   BIBL-040:
     domain: BIBL
     node_type: concept
@@ -20418,6 +20505,7 @@ nodes:
       type: develops
       note: Talpiot is presented as a hypothesis relevant to resurrection interpretation
         and early Jerusalem belief.
+    confidence: 0.735
   BIBL-041:
     domain: BIBL
     node_type: evidence
@@ -20455,6 +20543,7 @@ nodes:
       type: supports
       note: Feuerverger’s probabilistic analysis is cited as statistical support for
         the Talpiot identification.
+    confidence: 0.62
   BIBL-042:
     domain: BIBL
     node_type: evidence
@@ -20493,6 +20582,7 @@ nodes:
       type: supports
       note: Shimron et al.’s geochemical linkage claim is cited as material support
         connecting the James Ossuary to Talpiot.
+    confidence: 0.62
   BIBL-043:
     domain: BIBL
     node_type: hypothesis
@@ -20534,6 +20624,7 @@ nodes:
       type: developed_by
       note: Criterion of Temptation is operationalized as a hypothesis about which
         Gospel features function as authenticity signals under a Jamesian baseline.
+    confidence: 0.497
   BIBL-044:
     domain: BIBL
     node_type: concept
@@ -20561,6 +20652,7 @@ nodes:
       type: develops
       note: the pseudepigraphy/authorship hypothesis is a central claim within the
         Pastoral-authorship debate.
+    confidence: 0.659
   EARLY-032:
     domain: EARLY
     node_type: hypothesis
@@ -20589,6 +20681,7 @@ nodes:
         displacement mechanisms.
     created: '2026-01-11'
     updated: '2026-01-11'
+    confidence: 0.815
   EARLY-033:
     domain: EARLY
     node_type: concept
@@ -20615,6 +20708,7 @@ nodes:
         Melchizedek legitimacy concept.
     created: '2026-01-11'
     updated: '2026-01-11'
+    confidence: 0.732
   EARLY-034:
     domain: EARLY
     node_type: concept
@@ -20645,6 +20739,7 @@ nodes:
         of Pauline movement divergence.
     created: '2026-01-11'
     updated: '2026-01-11'
+    confidence: 0.732
   EARLY-035:
     domain: EARLY
     node_type: concept
@@ -20677,6 +20772,7 @@ nodes:
         aligns with the Jamesian movement synthesis.
     created: '2026-01-11'
     updated: '2026-01-11'
+    confidence: 0.732
   EARLY-036:
     domain: EARLY
     node_type: concept
@@ -20706,6 +20802,7 @@ nodes:
         movement synthesis.
     created: '2026-01-11'
     updated: '2026-01-11'
+    confidence: 0.3
   EARLY-037:
     domain: EARLY
     node_type: hypothesis
@@ -20747,4 +20844,66 @@ nodes:
         authority/ethos reconstructed in this hypothesis.
     created: '2026-01-11'
     updated: '2026-01-11'
+    confidence: 0.9
+  MYTH-038:
+    domain: MYTH
+    node_type: concept
+    title: Calendar as Sectarian Boundary Marker
+    definition: 'In Second Temple Judaism, disputes over calendrical reckoning were
+      not merely technical; they functioned as boundary markers for communal identity
+      and competing claims to religious authority, since controlling the calendar
+      controls the timing of Sabbaths and festivals.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/06_Mythological_Studies/Enoch's Celestial Mechanics Analysis.md
+      note: Frames calendrical correctness as revealed order and an identity marker
+        in sectarian settings.
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: MYTH-038
+    connections:
+    - target: CROSS-023
+      type: developed_by
+      note: Two-tier method frames calendrical disputes as natural-plane authority
+        phenomena with spiritual-plane interpretive significance.
+    - target: MYTH-039
+      type: develops
+      note: Calendar boundary-marker concept develops the specific hypothesis about
+        the revealed 364-day system as an authority claim.
+    confidence: 0.3
+  MYTH-039:
+    domain: MYTH
+    node_type: hypothesis
+    title: 364-Day Enochic Calendar as Authority Claim
+    definition: 'The Astronomical Book (1 Enoch 72–82) frames a 364-day solar calendar
+      as revealed by Uriel and therefore uniquely authoritative; adoption of this
+      calendar (notably at Qumran) served as a practical identity marker and an implicit
+      challenge to Temple-associated lunisolar reckoning, since calendrical correctness
+      determines the legitimate timing of sacred observance.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/06_Mythological_Studies/Enoch's Celestial Mechanics Analysis.md
+      note: Connects revealed 364-day structure to sectarian identity and calendrical
+        polemic.
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: MYTH-039
+    connections:
+    - target: MYTH-038
+      type: developed_by
+      note: Calendar boundary-marker concept develops the specific hypothesis about
+        the revealed 364-day system as an authority claim.
+    - target: MYTH-014
+      type: supported_by
+      note: 'Doc 2 evidence: Enochic 364-day calendar is framed as revealed and adopted
+        as a sectarian identity/authority marker (Qumran).'
+    confidence: 0.831
 untraced: []

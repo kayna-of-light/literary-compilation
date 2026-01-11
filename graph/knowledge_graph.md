@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 09:25*
+*Last exported: 2026-01-11 10:16*
 
 ---
 
@@ -10,24 +10,24 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 358 |
-| Total Connections | 412 |
+| Total Nodes | 366 |
+| Total Connections | 456 |
 | Untraced Claims | 0 |
 
 ### By Status
 
-- **preliminary**: 76
-- **validated**: 275
+- **preliminary**: 80
+- **validated**: 279
 - **contested**: 7
 
 ### By Domain
 
-- **Biblical Scholarship** (BIBL): 33
+- **Biblical Scholarship** (BIBL): 40
 - **Consciousness Studies** (CONSC): 106
 - **Cross-Domain** (CROSS): 39
 - **Early Christian History** (EARLY): 30
 - **The Gnostic Impulse** (GNOS): 26
-- **Mythological Studies** (MYTH): 36
+- **Mythological Studies** (MYTH): 37
 - **Swedenborgian Theology** (SWED): 88
 
 ---
@@ -2829,6 +2829,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 4. [S] Boyce, Mary. A History of Zoroastrianism. Brill, 1975-1991.
 5. [T] data/02_Swedenborgian_Theology/Magi's Principle of Correspondences.md
 
+**Connections**:
+- → `MYTH-037` (supports): Amesha Spentas heptad provides relevant Persian hierarchy model cited as catalytic precursor
+
 ---
 
 #### [SWED-081] Swedenborgian Corpus Evidence: Church-Development Mapping
@@ -3092,6 +3095,13 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `CROSS-002` (parallels): Divine Bricolage reinterprets HCM findings as providential mechanism
+- → `BIBL-002` (develops): Doc 1 (Canonical Gospels synthesis) treats the Synoptic Problem as a core HCM application.
+- → `BIBL-036` (develops): Doc 1: genre classification is a core HCM result for Gospel interpretation.
+- → `BIBL-014` (develops): Doc 1: Troeltsch's principles are presented as HCM foundations.
+- → `BIBL-020` (develops): Doc 1: the criteria-of-authenticity toolkit is a standard HCM sub-method used to reconstruct the historical Jesus.
+- → `BIBL-037` (develops): Doc 1: author/attribution issues are a core HCM topic in the canonical Gospels synthesis.
+- → `BIBL-038` (develops): Doc 2: Genesis 1–11 ANE context is part of the scientific/archaeological framing of biblical narratives.
+- → `BIBL-040` (develops): Doc 3: resurrection narrative development is treated as an HCM object of analysis.
 
 ---
 
@@ -3103,7 +3113,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 
 **Source Chain**:
-1. [T] data/03_Biblical_Scholarship/The Canonical Gospels.md
+1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+
+**Connections**:
+- → `BIBL-001` (developed_by): Doc 1 (Canonical Gospels synthesis) treats the Synoptic Problem as a core HCM application.
 
 ---
 
@@ -3129,6 +3142,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [T] data/03_Biblical_Scholarship/Resurrection Narrative Evolution in New Testament.md
 
+**Connections**:
+- → `BIBL-006` (supported_by): Western Non-Interpolations are used as textual-critical evidence for later physicalizing additions in resurrection narratives.
+- → `BIBL-040` (developed_by): Doc 3: the resurrection-evolution hypothesis is a specific claim under the broader textual-development concept.
+
 ---
 
 #### [BIBL-005] Gospel Genre as Greco-Roman Bioi
@@ -3139,7 +3156,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 
 **Source Chain**:
-1. [T] data/03_Biblical_Scholarship/The Canonical Gospels.md
+1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+
+**Connections**:
+- → `BIBL-023` (supported_by): Burridge-style genre studies support the bioi classification.
+- → `BIBL-036` (developed_by): Doc 1: the bioi consensus is a specific hypothesis within the broader genre-classification question.
 
 ---
 
@@ -3154,7 +3175,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 1. [S] Westcott-Hort, The New Testament in the Original Greek (1881)
 2. [S] Ehrman, Bart. The Orthodox Corruption of Scripture (Oxford UP, 1996), pp. 223-227
 3. [S] Metzger, Bruce. A Textual Commentary on the Greek New Testament (UBS, 1994), pp. 164-166
-4. [T] data/03_Biblical_Scholarship/Resurrection Narrative Evolution.md
+4. [T] data/03_Biblical_Scholarship/Resurrection Narrative Evolution in New Testament.md
+
+**Connections**:
+- → `BIBL-004` (supports): Western Non-Interpolations are used as textual-critical evidence for later physicalizing additions in resurrection narratives.
 
 ---
 
@@ -3166,7 +3190,12 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 
 **Source Chain**:
-1. [T] data/03_Biblical_Scholarship/Resurrection Narrative Evolution.md
+1. [T] data/03_Biblical_Scholarship/Resurrection Narrative Evolution in New Testament.md
+
+**Connections**:
+- → `BIBL-040` (developed_by): Doc 3: Talpiot is presented as a hypothesis relevant to resurrection interpretation and early Jerusalem belief.
+- → `BIBL-041` (supported_by): Feuerverger’s probabilistic analysis is cited as statistical support for the Talpiot identification.
+- → `BIBL-042` (supported_by): Shimron et al.’s geochemical linkage claim is cited as material support connecting the James Ossuary to Talpiot.
 
 ---
 
@@ -3223,6 +3252,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [S] Cline, Eric. 1177 BC: The Year Civilization Collapsed (2014)
 4. [E] DAAHL (Digital Archaeological Atlas of the Holy Land)
 
+**Connections**:
+- → `BIBL-039` (supports): Doc 2: 4.2kya aridification + urban collapse provides the proposed historical substrate for ‘world-ending’ catastrophe imagery.
+
 ---
 
 #### [BIBL-014] Troeltsch's Three Principles of Historical-Critical Method
@@ -3234,6 +3266,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Source Chain**:
 1. [T] data/03_Biblical_scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+
+**Connections**:
+- → `BIBL-001` (developed_by): Doc 1: Troeltsch's principles are presented as HCM foundations.
 
 ---
 
@@ -3308,6 +3343,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
 
+**Connections**:
+- → `BIBL-001` (developed_by): Doc 1: the criteria-of-authenticity toolkit is a standard HCM sub-method used to reconstruct the historical Jesus.
+
 ---
 
 #### [BIBL-021] Historical Jesus Bedrock Facts (Sanders/Meier Consensus)
@@ -3335,6 +3373,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
 
+**Connections**:
+- → `BIBL-035` (supported_by): Manuscript/title history and Papias/Eusebius evidence support the hypothesis that the Gospels circulated anonymously and were later attributed.
+- → `BIBL-037` (developed_by): Doc 1: the anonymity/2nd-century attribution claim is a specific hypothesis within the broader authorship/attribution concept.
+
 ---
 
 #### [BIBL-023] Gospel Genre Consensus (Burridge Study)
@@ -3350,6 +3392,9 @@ Burridge demonstrated Gospel conformity to ancient biographical conventions.
 **Source Chain**:
 1. [S] Burridge, Richard. What Are the Gospels? A Comparison with Graeco-Roman Biography. 2nd ed. Grand Rapids: Eerdmans, 2004.
 2. [S] Society of Biblical Literature - Burridge Festschrift acknowledging paradigm shift
+
+**Connections**:
+- → `BIBL-005` (supports): Burridge-style genre studies support the bioi classification.
 
 ---
 
@@ -3504,6 +3549,122 @@ events exist in causal networks.
 2. [P] Eusebius, HE 3.39 (preserving Papias)
 3. [S] Hengel, Martin. The Four Gospels and the One Gospel of Jesus Christ. SCM, 2000.
 4. [S] Ehrman, Bart. Forged: Writing in the Name of God. HarperOne, 2011.
+
+**Connections**:
+- → `BIBL-022` (supports): Manuscript/title history and Papias/Eusebius evidence support the hypothesis that the Gospels circulated anonymously and were later attributed.
+
+---
+
+#### [BIBL-036] Gospel Genre (Ancient Biography / Bioi Classification)
+
+**Status**: preliminary | **Confidence**: unknown
+
+> The classification question of what literary genre the canonical Gospels belong to within Greco-Roman literary culture, and what expectations of historical precision and authorial shaping follow from that genre identification.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+
+**Connections**:
+- → `BIBL-001` (developed_by): Doc 1: genre classification is a core HCM result for Gospel interpretation.
+- → `BIBL-005` (develops): Doc 1: the bioi consensus is a specific hypothesis within the broader genre-classification question.
+
+---
+
+#### [BIBL-037] Gospel Authorship, Anonymity, and Attribution (Historical-Critical)
+
+**Status**: validated | **Confidence**: unknown
+
+> The historical-critical question of who wrote the canonical Gospels and how their texts came to be associated with specific author names. This includes (a) the anonymity of the earliest Gospel circulation, (b) later title/attribution practices in manuscript transmission, and (c) the role of 2nd-century church disputes in the stabilization of author ascriptions.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
+
+**Connections**:
+- → `BIBL-001` (developed_by): Doc 1: author/attribution issues are a core HCM topic in the canonical Gospels synthesis.
+- → `BIBL-022` (develops): Doc 1: the anonymity/2nd-century attribution claim is a specific hypothesis within the broader authorship/attribution concept.
+
+---
+
+#### [BIBL-038] Genesis 1–11 in Ancient Near Eastern Mythic Context
+
+**Status**: validated | **Confidence**: unknown
+
+> The study of Genesis 1–11 (creation, primordial history, and flood narratives) in relation to earlier and parallel Ancient Near Eastern mythic traditions. This includes comparative analysis (motifs, structure, and theology) and how biblical authors adapted inherited narrative materials.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/Scientific Analysis of Biblical Periods.md
+
+**Connections**:
+- → `BIBL-001` (developed_by): Doc 2: Genesis 1–11 ANE context is part of the scientific/archaeological framing of biblical narratives.
+- → `BIBL-039` (develops): Doc 2: the cultural-memory reading of flood narratives is a specific hypothesis within Genesis 1–11 comparative context.
+
+---
+
+#### [BIBL-039] Flood Narratives as Cultural Memory of Societal Catastrophe
+
+**Status**: validated | **Confidence**: unknown
+
+> The Genesis flood narrative participates in an older, region-wide ANE flood tradition and may also preserve (in mythologized form) cultural memory of real large-scale catastrophes experienced by urban societies, with the 4.2 kiloyear aridification event and associated Bronze Age collapses functioning as plausible historical substrates for “world-ending” imagery.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/Scientific Analysis of Biblical Periods.md
+
+**Connections**:
+- → `BIBL-013` (supported_by): Doc 2: 4.2kya aridification + urban collapse provides the proposed historical substrate for ‘world-ending’ catastrophe imagery.
+- → `BIBL-038` (developed_by): Doc 2: the cultural-memory reading of flood narratives is a specific hypothesis within Genesis 1–11 comparative context.
+
+---
+
+#### [BIBL-040] Resurrection Narratives: Textual Development and Polemics
+
+**Status**: validated | **Confidence**: unknown
+
+> The historical-critical study of how resurrection claims and their narrative framing develop across early Christian texts (Pauline letters and the canonical Gospels), including the role of genre, community disputes, and anti-docetic apologetic pressures in shaping increasingly concrete “bodily” depictions.
+
+
+**Source Chain**:
+1. [T] data/03_Biblical_Scholarship/Resurrection Narrative Evolution in New Testament.md
+
+**Connections**:
+- → `BIBL-001` (developed_by): Doc 3: resurrection narrative development is treated as an HCM object of analysis.
+- → `BIBL-004` (develops): Doc 3: the resurrection-evolution hypothesis is a specific claim under the broader textual-development concept.
+- → `BIBL-008` (develops): Doc 3: Talpiot is presented as a hypothesis relevant to resurrection interpretation and early Jerusalem belief.
+
+---
+
+#### [BIBL-041] Talpiot Cluster Statistical Analysis (Feuerverger 2008)
+
+**Status**: preliminary | **Confidence**: unknown
+
+> Statistical analysis arguing that the specific onomastic cluster from the 1980 Talpiot tomb find (including inscriptions such as “Yeshua bar Yehosef,” “Maria,” and “Yose”) is unlikely to be random given background name frequencies, and thus provides probabilistic support for identifying the tomb with Jesus’ family.
+
+
+**Source Chain**:
+1. [S] Feuerverger, A. (2008). Statistical analysis of an archaeological find. Annals of Applied Statistics, 2(1), 3–54.
+2. [T] data/03_Biblical_Scholarship/Resurrection Narrative Evolution in New Testament.md
+
+**Connections**:
+- → `BIBL-008` (supports): Feuerverger’s probabilistic analysis is cited as statistical support for the Talpiot identification.
+
+---
+
+#### [BIBL-042] Geochemical Link Claim: James Ossuary and Talpiot Tomb (Shimron et al. 2016)
+
+**Status**: preliminary | **Confidence**: unknown
+
+> Geochemical/patina analysis claiming a match between material (e.g., sediment and trace-element signature) associated with the James Ossuary and the Talpiot tomb environment, used to argue that the James Ossuary originated from the Talpiot tomb assemblage and thereby strengthens the Talpiot identification.
+
+
+**Source Chain**:
+1. [S] Shimron, A., Rosenfeld, A., Ilani, S., & Feldman, H. R. (2016). Geochemical analysis of the patina on ossuaries from the Talpiot and East Talpiot tombs. Open Journal of Geology, 6, 1–18.
+2. [T] data/03_Biblical_Scholarship/Resurrection Narrative Evolution in New Testament.md
+
+**Connections**:
+- → `BIBL-008` (supports): Shimron et al.’s geochemical linkage claim is cited as material support connecting the James Ossuary to Talpiot.
 
 ---
 
@@ -4396,6 +4557,7 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 
 **Connections**:
 - → `MYTH-015` (develops): Integrates Lang/Schmidt High-God (Urmonotheismus) strand into the two-hearts model
+- → `MYTH-037` (develops): Monotheism-focused concept motivates need for mediated divine agency via chief messengers
 
 ---
 
@@ -4460,6 +4622,9 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 2. [P] Daniel 10:13, 12:1; Tobit 12:15; 1 Enoch 20; Jude 1:9
 3. [S] Encyclopaedia Iranica, ARSACIDS iv
 4. [S] Dead Sea Scrolls (War Scroll, Songs of Sabbath Sacrifice)
+
+**Connections**:
+- → `MYTH-037` (supports): Comparative diachronic analysis supports archangelic mediation hypothesis
 
 ---
 
@@ -4833,6 +4998,25 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 
 **Connections**:
 - → `MYTH-016` (supports): Comparative linguistic/textual parallels support genetic Persian influence on Enochic motifs
+- → `MYTH-037` (supports): Persian-Jewish apocalyptic parallels include angelology parallels relevant to archangel crystallization
+
+---
+
+#### [MYTH-037] Archangelic Mediation as Monotheistic Agency Solution
+
+**Status**: preliminary | **Confidence**: unknown
+
+> In post-exilic and Second Temple Jewish thought, a stratified archangelic hierarchy functions as a theological mechanism for monotheism: divine actions (revelation, protection/warfare, healing/providence, cosmic instruction) are personified as named chief messengers, allowing a transcendent God to act in the material world without compromising divine unity. The hierarchy draws on older “divine council” patterns and was catalyzed by Persian/Zoroastrian models of high-ranking beings, then adapted within Judaism, Christianity, and Islam according to each tradition’s central theological emphases.
+
+
+**Source Chain**:
+1. [T] data/06_Mythological_Studies/Analyzing Archangel Development Across Religions.md
+
+**Connections**:
+- → `MYTH-007` (developed_by): Monotheism-focused concept motivates need for mediated divine agency via chief messengers
+- → `MYTH-036` (supported_by): Persian-Jewish apocalyptic parallels include angelology parallels relevant to archangel crystallization
+- → `MYTH-011` (supported_by): Comparative diachronic analysis supports archangelic mediation hypothesis
+- → `SWED-080` (supported_by): Amesha Spentas heptad provides relevant Persian hierarchy model cited as catalytic precursor
 
 ---
 

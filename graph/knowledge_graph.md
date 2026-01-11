@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 08:56*
+*Last exported: 2026-01-11 09:25*
 
 ---
 
@@ -11,7 +11,7 @@
 | Metric | Count |
 |--------|-------|
 | Total Nodes | 358 |
-| Total Connections | 348 |
+| Total Connections | 412 |
 | Untraced Claims | 0 |
 
 ### By Status
@@ -1822,6 +1822,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-044` (develops): Illness/healing framework derives will-understanding priority from influx ontology
 - → `SWED-045` (develops): Illness/healing framework derives vulnerability (receptive will) from influx dynamics
 - → `SWED-092` (develops): Divine influx is described as the flow of divine love and wisdom; this node specifies the heat/light correspondence and spiritual-sun framing.
+- → `SWED-024` (develops): Doc 5 articulates New Jerusalem/New Church as a principal outcome of restored influx after 1757.
 
 ---
 
@@ -1886,6 +1887,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `CROSS-009` (contrasts): Divine Marriage contrasts proprium obstruction - receiving vs claiming
 - → `SWED-065` (develops): Sola Fide is doctrinal expression of Proprium
 - → `EARLY-022` (develops): Constantinian Shift is institutional manifestation of Proprium
+- → `GNOS-013` (develops): GNOS-013 applies the Swedenborgian proprium diagnosis to Pauline humility-as-authority dynamics.
 
 ---
 
@@ -2101,6 +2103,12 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/Conversation relating the Fourth Church - The New Jerusalem.md
+
+**Connections**:
+- → `SWED-002` (developed_by): Doc 5 articulates New Jerusalem/New Church as a principal outcome of restored influx after 1757.
+- → `SWED-065` (contrasts): Doc 5: New Church defined by charity/life; explicitly rejects 'faith alone'.
+- → `SWED-066` (requires): Doc 5: New Church is established after (and enabled by) the Last Judgment of 1757.
+- → `SWED-067` (parallels): Same referent (New Jerusalem/New Church); SWED-024 is Doc 5-specific detailed articulation.
 
 ---
 
@@ -2622,6 +2630,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `SWED-005` (developed_by): Sola Fide is doctrinal expression of Proprium
 - → `SWED-067` (contrasts): New Jerusalem contrasts Sola Fide - Two Essentials vs Faith Alone
+- → `SWED-024` (contrasts): Doc 5: New Church defined by charity/life; explicitly rejects 'faith alone'.
 
 ---
 
@@ -2637,6 +2646,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `SWED-002` (developed_by): Last Judgment enables restoration of Divine Influx
 - → `SWED-067` (required_by): New Jerusalem requires Last Judgment to be established
+- → `SWED-024` (required_by): Doc 5: New Church is established after (and enabled by) the Last Judgment of 1757.
 
 ---
 
@@ -2653,6 +2663,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-066` (requires): New Jerusalem requires Last Judgment to be established
 - → `SWED-065` (contrasts): New Jerusalem contrasts Sola Fide - Two Essentials vs Faith Alone
 - → `SWED-002` (developed_by): New Jerusalem (Fourth Church) as ultimate manifestation of Divine Influx
+- → `SWED-024` (parallels): Same referent (New Jerusalem/New Church); SWED-024 is Doc 5-specific detailed articulation.
 
 ---
 
@@ -3867,6 +3878,9 @@ popularized and extended this thesis with additional evidence.
 2. [P] Romans 3:28, 4:1-5 (NA28)
 3. [S] Eisenman, Robert. James the Brother of Jesus. Penguin, 1997. Ch. 17.
 
+**Connections**:
+- → `GNOS-007` (supports): Textual evidence of early Jamesian opposition to Paul’s faith/works framing supports the schism claim
+
 ---
 
 #### [EARLY-030] Luke-Acts Compositional and Theological Tension Evidence
@@ -3910,6 +3924,10 @@ popularized and extended this thesis with additional evidence.
 **Source Chain**:
 1. [T] data/05_Gnostic_Analysis/The Architecture of Hidden Divinity.md
 
+**Connections**:
+- → `GNOS-013` (parallels): GNOS-013 is a Pauline case-study of the broader gnostic impulse (self-authorizing private revelation).
+- → `GNOS-007` (develops): Frames Paul as a concrete instantiation of the gnostic impulse’s epistemic/cosmological/anthropological mechanics
+
 ---
 
 #### [GNOS-002] Path of Affirmation vs Path of Gnosis
@@ -3939,6 +3957,9 @@ popularized and extended this thesis with additional evidence.
 **Source Chain**:
 1. [T] data/05_Gnostic_Analysis/The Apostle of the Archons.md
 
+**Connections**:
+- → `GNOS-007` (parallels): Stronger formulation of the same trajectory: Paul’s corpus provides the matrix for later Gnostic development
+
 ---
 
 #### [GNOS-004] Modern Gnostic Manifestations
@@ -3963,6 +3984,9 @@ popularized and extended this thesis with additional evidence.
 **Source Chain**:
 1. [T] data/05_Gnostic_Analysis/The Apostle of the Archons.md
 
+**Connections**:
+- → `GNOS-007` (parallels): Both argue Paul’s letters contain structural/terminological warrant for later Gnostic systems
+
 ---
 
 #### [GNOS-006] Proprium as Gnostic Engine
@@ -3975,6 +3999,9 @@ popularized and extended this thesis with additional evidence.
 **Source Chain**:
 1. [T] data/05_Gnostic_Analysis/A Pneumatological and Historical Validation.md
 
+**Connections**:
+- → `GNOS-013` (parallels): GNOS-013 refines how proprium functions as a gnostic mechanic in Pauline rhetoric.
+
 ---
 
 #### [GNOS-007] Paul as the Essential Gnostic Seed
@@ -3986,6 +4013,15 @@ popularized and extended this thesis with additional evidence.
 
 **Source Chain**:
 1. [T] data/05_Gnostic_Analysis/Paul_ Gnostic Seed or Influence_.md
+
+**Connections**:
+- → `GNOS-001` (developed_by): Frames Paul as a concrete instantiation of the gnostic impulse’s epistemic/cosmological/anthropological mechanics
+- → `GNOS-005` (parallels): Both argue Paul’s letters contain structural/terminological warrant for later Gnostic systems
+- → `GNOS-003` (parallels): Stronger formulation of the same trajectory: Paul’s corpus provides the matrix for later Gnostic development
+- → `GNOS-023` (supported_by): Textual evidence: archons/rulers-of-this-age + hidden wisdom implies Gnostic-style cosmic conflict
+- → `GNOS-024` (supported_by): Textual evidence: psychikos/pneumatikos and soma psychikon/pneumatikon underpin later Gnostic anthropology
+- → `GNOS-017` (supported_by): Secondary evidence: Pagels documents systematic Valentinian appropriation of Pauline vocabulary
+- → `EARLY-029` (supported_by): Textual evidence of early Jamesian opposition to Paul’s faith/works framing supports the schism claim
 
 ---
 
@@ -4059,6 +4095,11 @@ popularized and extended this thesis with additional evidence.
 **Source Chain**:
 1. [T] data/05_Gnostic_Analysis/The Paradox of the Pneumatic Ego.md
 
+**Connections**:
+- → `SWED-005` (developed_by): GNOS-013 applies the Swedenborgian proprium diagnosis to Pauline humility-as-authority dynamics.
+- → `GNOS-001` (parallels): GNOS-013 is a Pauline case-study of the broader gnostic impulse (self-authorizing private revelation).
+- → `GNOS-006` (parallels): GNOS-013 refines how proprium functions as a gnostic mechanic in Pauline rhetoric.
+
 ---
 
 #### [GNOS-014] The Demiurge and Archon System
@@ -4110,6 +4151,9 @@ hidden wisdom, rulers of this age, god of this world).
 **Source Chain**:
 1. [S] Pagels, Elaine. The Gnostic Paul: Gnostic Exegesis of the Pauline Letters. Philadelphia: Trinity Press, 1975.
 2. [P] Nag Hammadi Library texts (Valentinian commentaries)
+
+**Connections**:
+- → `GNOS-007` (supports): Secondary evidence: Pagels documents systematic Valentinian appropriation of Pauline vocabulary
 
 ---
 
@@ -4194,6 +4238,9 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 3. [S] Pagels, The Gnostic Paul, Ch. 2
 4. [T] data/05_Gnostic_Analysis/The Apostle of the Archons.md
 
+**Connections**:
+- → `GNOS-007` (supports): Textual evidence: archons/rulers-of-this-age + hidden wisdom implies Gnostic-style cosmic conflict
+
 ---
 
 #### [GNOS-024] 1 Corinthians 2:14-15 & 15:44-46: Pneumatic Anthropology Textual Evidence
@@ -4206,6 +4253,9 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 1. [P] 1 Corinthians 2:14-15, 15:44-46 (NA28)
 2. [S] Pagels, Elaine. The Gnostic Paul, Ch. 3.
 3. [S] Schmithals, Walter. Gnosticism in Corinth. Abingdon, 1971.
+
+**Connections**:
+- → `GNOS-007` (supports): Textual evidence: psychikos/pneumatikos and soma psychikon/pneumatikon underpin later Gnostic anthropology
 
 ---
 
@@ -4254,6 +4304,12 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 **Source Chain**:
 1. [T] data/06_Mythological_Studies/A Critical History of Foundational Narratives.md
 
+**Connections**:
+- → `MYTH-016` (develops): Example of mythic bricolage/adaptation: Enochic authors appropriate and subvert Persian bull-cycle motifs
+- → `MYTH-015` (develops): Comparative cosmogony analysis is an instance of mythic bricolage and counter-myth formation
+- → `MYTH-002` (develops): Two-hearts divergence is framed as scribal bricolage divergence from shared ANE materials
+- → `MYTH-010` (develops): CDE myth-evolution model is an instance of mythic bricolage framing
+
 ---
 
 #### [MYTH-002] Heart of Division vs Heart of Unity
@@ -4265,6 +4321,13 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 
 **Source Chain**:
 1. [T] data/06_Mythological_Studies/Genesis, Enuma Elish, Proto-Myth Evolution.md
+
+**Connections**:
+- → `MYTH-001` (developed_by): Two-hearts divergence is framed as scribal bricolage divergence from shared ANE materials
+- → `MYTH-015` (parallels): MYTH-002 states the divergence model; MYTH-015 grounds it in Genesis 1 vs Enuma Elish
+- → `MYTH-033` (supported_by): CSR-backed two-template cognitive framing supports the division/unity divergence hypothesis
+- → `MYTH-030` (supported_by): Shared proto-myth elements diverging into opposite outcomes provides direct support for the Two Hearts divergence
+- → `MYTH-010` (parallels): Both articulate a two-trajectory divergence (unity vs division) rooted in ruling-love/state
 
 ---
 
@@ -4304,6 +4367,9 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 2. [T] data/06_Mythological_Studies/Enoch's Celestial Mechanics.md
 3. [P] 1 Enoch (Ethiopic)
 
+**Connections**:
+- → `MYTH-016` (supports): Enochic Animal Apocalypse bull symbolism provides one side of the comparative parallel
+
 ---
 
 #### [MYTH-006] Heart of Division vs. Heart of Unity
@@ -4328,6 +4394,9 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 **Source Chain**:
 1. [T] data/06_Mythological_Studies/Genesis, Enuma Elish, Proto-Myth Evolution.md
 
+**Connections**:
+- → `MYTH-015` (develops): Integrates Lang/Schmidt High-God (Urmonotheismus) strand into the two-hearts model
+
 ---
 
 #### [MYTH-008] The Echoes of the Ancient Word
@@ -4342,6 +4411,9 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 2. [S] Genevieve von Petzinger, The First Signs (2016)
 3. [S] Sweatman & Tsikritsis, archaeoastronomy studies
 4. [S] Lynne Kelly, The Memory Code (2016)
+
+**Connections**:
+- → `MYTH-016` (supports): Ancient Word 'echoes' evidence supports plausibility of deep-time symbolic transmission channels
 
 ---
 
@@ -4366,6 +4438,13 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 
 **Source Chain**:
 1. [T] data/06_Mythological_Studies/The Two Hearts of Creation_ A Consciousness-Driven Evolution of Myth.md
+
+**Connections**:
+- → `MYTH-001` (developed_by): CDE myth-evolution model is an instance of mythic bricolage framing
+- → `MYTH-015` (parallels): MYTH-010 supplies the CDE mechanism; MYTH-015 gives the Genesis/Enuma comparative instantiation
+- → `MYTH-002` (parallels): Both articulate a two-trajectory divergence (unity vs division) rooted in ruling-love/state
+- → `MYTH-029` (supported_by): DOPS + NDE persistence evidence is used as the empirical grounding for the CDE myth-evolution model
+- → `MYTH-030` (supported_by): Shared proto-myth elements and divergent outcomes support the CDE divergence model
 
 ---
 
@@ -4433,6 +4512,15 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 **Source Chain**:
 1. [T] data/06_Mythological_Studies/Genesis, Enuma Elish, Proto-Myth Evolution.md
 
+**Connections**:
+- → `MYTH-001` (developed_by): Comparative cosmogony analysis is an instance of mythic bricolage and counter-myth formation
+- → `MYTH-007` (developed_by): Integrates Lang/Schmidt High-God (Urmonotheismus) strand into the two-hearts model
+- → `MYTH-002` (parallels): MYTH-002 states the divergence model; MYTH-015 grounds it in Genesis 1 vs Enuma Elish
+- → `MYTH-027` (supported_by): Textual parallels and deliberate demythologization support the Two Hearts hypothesis
+- → `MYTH-034` (supported_by): Demythologization markers (tehom/tanninim/unnamed luminaries) support the Heart of Unity vs Division framing
+- → `MYTH-033` (supported_by): CSR model better fits polytheism; monotheism as override supports the Two Hearts cognitive claim
+- → `MYTH-010` (parallels): MYTH-010 supplies the CDE mechanism; MYTH-015 gives the Genesis/Enuma comparative instantiation
+
 ---
 
 #### [MYTH-016] The White Bull Cycle (Zoroastrian-Enochic Parallel)
@@ -4444,6 +4532,12 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 
 **Source Chain**:
 1. [T] data/06_Mythological_Studies/Zoroastrianism and Enoch's Bulls.md
+
+**Connections**:
+- → `MYTH-001` (developed_by): Example of mythic bricolage/adaptation: Enochic authors appropriate and subvert Persian bull-cycle motifs
+- → `MYTH-008` (supported_by): Ancient Word 'echoes' evidence supports plausibility of deep-time symbolic transmission channels
+- → `MYTH-005` (supported_by): Enochic Animal Apocalypse bull symbolism provides one side of the comparative parallel
+- → `MYTH-036` (supported_by): Comparative linguistic/textual parallels support genetic Persian influence on Enochic motifs
 
 ---
 
@@ -4595,6 +4689,9 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 4. [S] Middleton, J. Richard. The Liberating Image: The Imago Dei in Genesis 1. Brazos, 2005.
 5. [T] data/06_Mythological_Studies/Genesis Creation Myth's ANE Context.md
 
+**Connections**:
+- → `MYTH-015` (supports): Textual parallels and deliberate demythologization support the Two Hearts hypothesis
+
 ---
 
 #### [MYTH-028] Archaeological Evidence Against Genesis 1-11 Literal Historicity
@@ -4621,7 +4718,10 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 1. [E] Tucker, Jim. Before: Children's Memories of Previous Lives. St. Martin's, 2021.
 2. [E] van Lommel, Pim et al. "Near-Death Experience in Survivors of Cardiac Arrest" Lancet 358 (2001).
 3. [E] Stevenson, Ian. Cases of the Reincarnation Type (4 vols). UVP, 1975-1983.
-4. [T] data/06_Mythological_Studies/The Two Hearts of Creation.md
+4. [T] data/06_Mythological_Studies/The Two Hearts of Creation_ A Consciousness-Driven Evolution of Myth.md
+
+**Connections**:
+- → `MYTH-010` (supports): DOPS + NDE persistence evidence is used as the empirical grounding for the CDE myth-evolution model
 
 ---
 
@@ -4635,6 +4735,10 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 1. [S] Lévi-Strauss, Claude. The Savage Mind (1962). Ch. 1.
 2. [S] Walton, John H. Ancient Near Eastern Thought and the Old Testament. Baker, 2006.
 3. [T] data/06_Mythological_Studies/Genesis, Enuma Elish, Proto-Myth Evolution.md
+
+**Connections**:
+- → `MYTH-002` (supports): Shared proto-myth elements diverging into opposite outcomes provides direct support for the Two Hearts divergence
+- → `MYTH-010` (supports): Shared proto-myth elements and divergent outcomes support the CDE divergence model
 
 ---
 
@@ -4678,6 +4782,10 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 3. [S] Schmidt, Wilhelm. The Origin and Growth of Religion. 1931.
 4. [S] Lang, Andrew. The Making of Religion. 1898.
 
+**Connections**:
+- → `MYTH-015` (supports): CSR model better fits polytheism; monotheism as override supports the Two Hearts cognitive claim
+- → `MYTH-002` (supports): CSR-backed two-template cognitive framing supports the division/unity divergence hypothesis
+
 ---
 
 #### [MYTH-034] Literary Evidence of Genesis Demythologization
@@ -4691,6 +4799,9 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 2. [S] Day, John. God's Conflict with the Dragon and the Sea. Cambridge, 1985.
 3. [S] Walton, John H. The Lost World of Genesis One. IVP, 2009.
 4. [P] Genesis 1:1-2:4a (MT)
+
+**Connections**:
+- → `MYTH-015` (supports): Demythologization markers (tehom/tanninim/unnamed luminaries) support the Heart of Unity vs Division framing
 
 ---
 
@@ -4719,6 +4830,9 @@ while maintaining functional continuity - the foundation of mythic bricolage the
 2. [S] Hultgård, Anders. "Persian Apocalypticism" in Encyclopedia of Apocalypticism, Vol. 1. Continuum, 1998.
 3. [P] 4Q203, 4Q530-533 (Book of Giants fragments)
 4. [S] Greenfield & Stone. "The Books of Enoch and the Book of Giants." In The Jerusalem Cathedra 3 (1983).
+
+**Connections**:
+- → `MYTH-016` (supports): Comparative linguistic/textual parallels support genetic Persian influence on Enochic motifs
 
 ---
 

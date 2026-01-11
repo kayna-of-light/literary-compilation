@@ -1659,7 +1659,7 @@ nodes:
     connections: []
     confidence: 0.719
   BIBL-001:
-    confidence: 0.669
+    confidence: 0.7
     created: 2024-12-27
     definition: 'The academic methodology for analyzing biblical texts including source
       criticism, form criticism, redaction criticism, and textual criticism. Treats
@@ -1722,6 +1722,25 @@ nodes:
     - target: BIBL-049
       type: develops
       note: Adds purity taxonomy (Leviticus 11) concept treated in this document.
+    - target: BIBL-053
+      type: develops
+      note: HCM analysis uses Mark 13 + vaticinium assumption as a key dating anchor.
+    - target: BIBL-058
+      type: develops
+      note: Historical Jesus reconstruction is a central outcome area of HCM.
+    - target: BIBL-055
+      type: develops
+      note: Two-Source Hypothesis is a core construct in HCM source criticism.
+    - target: BIBL-016
+      type: develops
+      note: Markan Priority is a core source-critical construct within HCM.
+    - target: BIBL-018
+      type: develops
+      note: Farrer is a major source-critical alternative model discussed within HCM.
+    - target: BIBL-017
+      type: develops
+      note: Q as a hypothetical source is a core source-critical construct within
+        HCM.
   BIBL-002:
     confidence: 0.735
     created: '2024-12-27'
@@ -2381,6 +2400,9 @@ nodes:
       type: develops
       note: Operationalizes the 'normative path' claim (default continuation) from
         Afterlife Path Structure.
+    - target: CONSC-123
+      type: develops
+      note: Unveiling (life review) is modeled as a stage within Afterlife Path Structure.
     critic_notes:
       last_reviewed: '2026-01-09'
       critiques: []
@@ -4432,7 +4454,7 @@ nodes:
     id: BIBL-010
     connections: []
   BIBL-015:
-    confidence: 0.3
+    confidence: 0.861
     created: 2025-12-27
     definition: 'The Historical-Critical Method''s interpretive principle that detailed
       prophecies of future events must have been written AFTER those events occurred.
@@ -4470,7 +4492,19 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: BIBL-015
-    connections: []
+    connections:
+    - target: BIBL-032
+      type: supported_by
+      note: Mark 13's detailed correlation with war/Temple events is treated as the
+        evidence requiring a post-event composition under this assumption.
+    - target: BIBL-033
+      type: supported_by
+      note: Josephus's war narrative provides the historical referent for the Mark
+        13 correlations used in this dating argument.
+    - target: BIBL-053
+      type: developed_by
+      note: Vaticinium ex eventu is the interpretive assumption grounding this Mark
+        13 dating anchor.
   BIBL-016:
     confidence: 0.3
     created: 2025-12-27
@@ -4508,7 +4542,13 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: BIBL-016
-    connections: []
+    connections:
+    - target: BIBL-055
+      type: required_by
+      note: 2SH requires Markan Priority as its narrative-source pillar.
+    - target: BIBL-001
+      type: developed_by
+      note: Markan Priority is a core source-critical construct within HCM.
   BIBL-017:
     confidence: 0.3
     created: 2025-12-27
@@ -4548,9 +4588,17 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: BIBL-017
-    connections: []
+    connections:
+    - target: BIBL-055
+      type: required_by
+      note: 2SH requires the Q postulate to explain Matthew/Luke double tradition
+        material.
+    - target: BIBL-001
+      type: developed_by
+      note: Q as a hypothetical source is a core source-critical construct within
+        HCM.
   BIBL-018:
-    confidence: 0.3
+    confidence: 0.701
     created: 2025-12-27
     definition: 'An alternative solution to the Synoptic Problem that accepts Markan
       Priority but eliminates the hypothetical Q source. Proposes: Mark wrote first,
@@ -4585,7 +4633,13 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: BIBL-018
-    connections: []
+    connections:
+    - target: BIBL-001
+      type: developed_by
+      note: Farrer is a major source-critical alternative model discussed within HCM.
+    - target: BIBL-056
+      type: develops
+      note: This hypothesis frames minor agreements as evidence for the Farrer solution.
   BIBL-019:
     confidence: 0.825
     confidence_factors:
@@ -4651,9 +4705,13 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: BIBL-019
-    connections: []
+    connections:
+    - target: BIBL-056
+      type: supports
+      note: Minor agreements constitute evidence motivating the Luke-uses-Matthew
+        explanation.
   BIBL-020:
-    confidence: 0.422
+    confidence: 0.664
     created: 2025-12-27
     definition: 'Rules of thumb developed by Historical-Critical scholars to identify
       sayings/events more likely to be historical than later church creations. Key
@@ -4701,6 +4759,10 @@ nodes:
       type: develops
       note: baseline-shift critique reframes how criteria of authenticity are applied
         (embarrassment → temptation).
+    - target: BIBL-057
+      type: develops
+      note: Criteria of authenticity are the methodological toolkit used to establish
+        a stable historical frame.
   BIBL-021:
     confidence: 0.781
     confidence_factors:
@@ -4779,7 +4841,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: BIBL-021
-    connections: []
+    connections:
+    - target: BIBL-057
+      type: supports
+      note: Sanders/Meier-style near-consensus bedrock facts support the claim that
+        a stable frame is recoverable.
   BIBL-030:
     domain: BIBL
     node_type: evidence
@@ -4924,7 +4990,11 @@ nodes:
 
       - Correlation forms basis of scholarly consensus dating Mark c. 66-75 CE'
     id: BIBL-032
-    connections: []
+    connections:
+    - target: BIBL-015
+      type: supports
+      note: Mark 13's detailed correlation with war/Temple events is treated as the
+        evidence requiring a post-event composition under this assumption.
     trace_status: untraced
   BIBL-033:
     domain: BIBL
@@ -4969,7 +5039,11 @@ nodes:
 
       - Written c. 75 CE - establishes historical terminus for Mark composition'
     id: BIBL-033
-    connections: []
+    connections:
+    - target: BIBL-015
+      type: supports
+      note: Josephus's war narrative provides the historical referent for the Mark
+        13 correlations used in this dating argument.
     trace_status: untraced
   BIBL-034:
     domain: BIBL
@@ -6377,7 +6451,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-029
-    connections: []
+    connections:
+    - target: CONSC-123
+      type: supports
+      note: Restorative (non-punitive) characterization of life reviews supports the
+        Unveiling-stage mechanism as pedagogical/restorative.
   CONSC-040:
     confidence: 0.747
     confidence_factors:
@@ -13192,7 +13270,8 @@ nodes:
       \ loving vs 14 harsh characterizations)\noccurrence_rate: 17.5% of NDEs (n=6,753)"
     source_chain:
     - note: Framework integration
-      ref: data/00_Framework/A Coherent Framework for Spiritual History.md
+      ref: data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the
+        Divine Bricolage.md
       type: T
     - note: NDE research compilation
       ref: Greyson, Bruce. After (2021)
@@ -13207,9 +13286,13 @@ nodes:
     status: validated
     title: The Life Review Phenomenon
     trace_status: complete
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     id: CONSC-003
-    connections: []
+    connections:
+    - target: CONSC-123
+      type: supports
+      note: Life Review phenomenology (occurrence + characteristics) supports the
+        Unveiling-stage hypothesis.
   CONSC-017:
     confidence: 0.782
     confidence_factors:
@@ -15968,7 +16051,7 @@ nodes:
     id: CROSS-013
     connections: []
   CROSS-014:
-    confidence: 0.3
+    confidence: 0.499
     created: '2026-01-08'
     definition: 'The proprium (love of self) is not a Swedenborgian peculiarity—it''s
       a universal spiritual-psychological mechanism observable across all traditions
@@ -22107,4 +22190,188 @@ nodes:
       proof_breaking_open: 0
       detail_issues: 0
     confidence: 0.52
+  BIBL-053:
+    domain: BIBL
+    node_type: concept
+    title: Mark 13 Dating Anchor (Vaticinium ex Eventu)
+    definition: 'The historical-critical dating anchor for Mark (and thus the Synoptic
+      chronology) that treats Mark 13''s war/Temple-destruction parallels as vaticinium
+      ex eventu. Under this model, detailed correspondence to 66–74 CE events implies
+      composition after (or during) the war, typically dating Mark to c. 66–75 CE.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical
+        Scholarship.md
+      note: Explains Mark 13 + vaticinium assumption as the primary dating anchor.
+    status: validated
+    trace_status: complete
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: BIBL-053
+    connections:
+    - target: BIBL-001
+      type: developed_by
+      note: HCM analysis uses Mark 13 + vaticinium assumption as a key dating anchor.
+    - target: BIBL-015
+      type: develops
+      note: Vaticinium ex eventu is the interpretive assumption grounding this Mark
+        13 dating anchor.
+    confidence: 0.732
+  BIBL-056:
+    domain: BIBL
+    node_type: hypothesis
+    title: Minor Agreements Support Luke's Use of Matthew (Farrer)
+    definition: 'The minor agreements pattern (Matthew and Luke agreeing against Mark
+      within Triple Tradition) is best explained if Luke had access to Matthew''s
+      edited Markan text (i.e., the Farrer model), rather than Matthew and Luke independently
+      editing Mark.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical
+        Scholarship.md
+      note: Highlights minor agreements as a key weakness of 2SH and as naturally
+        explained by Farrer.
+    status: validated
+    trace_status: complete
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: BIBL-056
+    connections:
+    - target: BIBL-019
+      type: supported_by
+      note: Minor agreements constitute evidence motivating the Luke-uses-Matthew
+        explanation.
+    - target: BIBL-018
+      type: developed_by
+      note: This hypothesis frames minor agreements as evidence for the Farrer solution.
+    confidence: 0.825
+  BIBL-055:
+    domain: BIBL
+    node_type: concept
+    title: Two-Source Hypothesis (2SH)
+    definition: 'The dominant scholarly solution to the Synoptic Problem proposing
+      that Matthew and Luke used Mark as a narrative source (Markan Priority) and
+      also independently used a second, hypothetical sayings source (Q) to account
+      for the Double Tradition.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical
+        Scholarship.md
+      note: Defines 2SH and its two pillars (Markan Priority + Q).
+    status: validated
+    trace_status: complete
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: BIBL-055
+    connections:
+    - target: BIBL-001
+      type: developed_by
+      note: Two-Source Hypothesis is a core construct in HCM source criticism.
+    - target: BIBL-016
+      type: requires
+      note: 2SH requires Markan Priority as its narrative-source pillar.
+    - target: BIBL-017
+      type: requires
+      note: 2SH requires the Q postulate to explain Matthew/Luke double tradition
+        material.
+    confidence: 0.3
+  BIBL-057:
+    domain: BIBL
+    node_type: hypothesis
+    title: Historical Jesus Has Stable Bedrock Frame
+    definition: 'Despite uncertainty about many detailed sayings and narrative features,
+      historical-critical methods can establish a stable biographical frame for Jesus
+      (e.g., baptism, ministry, Temple action, crucifixion) with high confidence.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical
+        Scholarship.md
+      note: Contrasts a debated 'portrait' with a widely agreed biographical 'frame'.
+    status: validated
+    trace_status: complete
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: BIBL-057
+    connections:
+    - target: BIBL-020
+      type: developed_by
+      note: Criteria of authenticity are the methodological toolkit used to establish
+        a stable historical frame.
+    - target: BIBL-021
+      type: supported_by
+      note: Sanders/Meier-style near-consensus bedrock facts support the claim that
+        a stable frame is recoverable.
+    - target: BIBL-058
+      type: developed_by
+      note: This hypothesis claims the stable biographical frame is recoverable.
+    confidence: 0.781
+  BIBL-058:
+    domain: BIBL
+    node_type: concept
+    title: Historical Jesus Bedrock Biographical Frame
+    definition: 'A minimal, high-consensus set of biographical claims about Jesus
+      of Nazareth established by historical-critical scholarship, distinct from theological
+      interpretation and from contested reconstructions of Jesus''s detailed message.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical
+        Scholarship.md
+      note: Defines the high-consensus 'frame' vs debated 'portrait' distinction.
+    status: validated
+    trace_status: complete
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: BIBL-058
+    connections:
+    - target: BIBL-001
+      type: developed_by
+      note: Historical Jesus reconstruction is a central outcome area of HCM.
+    - target: BIBL-057
+      type: develops
+      note: This hypothesis claims the stable biographical frame is recoverable.
+    confidence: 0.664
+  CONSC-123:
+    domain: CONSC
+    node_type: hypothesis
+    title: Life Review as Unveiling Mechanism (Ruling Love Revelation)
+    definition: 'In the normative post-mortem path, the panoramic/empathetic life
+      review functions as an “unveiling” stage that makes the soul’s ruling love manifest
+      by revealing the effects of one’s actions from others’ perspectives. The default
+      character is restorative/pedagogical rather than punitive.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the
+        Divine Bricolage.md
+      note: Part 3.1 “The Normative Path (A Linear Unfolding)” frames the Life Review
+        as the Unveiling stage.
+    status: preliminary
+    trace_status: complete
+    id: CONSC-123
+    connections:
+    - target: CONSC-106
+      type: developed_by
+      note: Unveiling (life review) is modeled as a stage within Afterlife Path Structure.
+    - target: CONSC-003
+      type: supported_by
+      note: Life Review phenomenology (occurrence + characteristics) supports the
+        Unveiling-stage hypothesis.
+    - target: CONSC-029
+      type: supported_by
+      note: Restorative (non-punitive) characterization of life reviews supports the
+        Unveiling-stage mechanism as pedagogical/restorative.
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    confidence: 0.86
 untraced: []

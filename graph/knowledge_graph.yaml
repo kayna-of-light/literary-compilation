@@ -1095,6 +1095,10 @@ nodes:
     - target: SWED-067
       type: contrasts
       note: New Jerusalem contrasts Sola Fide - Two Essentials vs Faith Alone
+    - target: SWED-024
+      type: contrasts
+      note: 'Doc 5: New Church defined by charity/life; explicitly rejects ''faith
+        alone''.'
     confidence: 0.3
     critic_notes:
       last_reviewed: '2026-01-09'
@@ -1123,6 +1127,10 @@ nodes:
     - target: SWED-067
       type: required_by
       note: New Jerusalem requires Last Judgment to be established
+    - target: SWED-024
+      type: required_by
+      note: 'Doc 5: New Church is established after (and enabled by) the Last Judgment
+        of 1757.'
     confidence: 0.3
     critic_notes:
       last_reviewed: '2026-01-09'
@@ -1154,6 +1162,10 @@ nodes:
     - target: SWED-002
       type: developed_by
       note: New Jerusalem (Fourth Church) as ultimate manifestation of Divine Influx
+    - target: SWED-024
+      type: parallels
+      note: Same referent (New Jerusalem/New Church); SWED-024 is Doc 5-specific detailed
+        articulation.
     confidence: 0.3
     critic_notes:
       last_reviewed: '2026-01-09'
@@ -1479,7 +1491,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: GNOS-017
-    connections: []
+    connections:
+    - target: GNOS-007
+      type: supports
+      note: 'Secondary evidence: Pagels documents systematic Valentinian appropriation
+        of Pauline vocabulary'
     confidence: 0.69
   GNOS-018:
     confidence_factors:
@@ -2639,7 +2655,15 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: GNOS-001
-    connections: []
+    connections:
+    - target: GNOS-013
+      type: parallels
+      note: GNOS-013 is a Pauline case-study of the broader gnostic impulse (self-authorizing
+        private revelation).
+    - target: GNOS-007
+      type: develops
+      note: Frames Paul as a concrete instantiation of the gnostic impulse’s epistemic/cosmological/anthropological
+        mechanics
   GNOS-002:
     confidence: 0.3
     created: 2024-12-27
@@ -2728,7 +2752,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: GNOS-006
-    connections: []
+    connections:
+    - target: GNOS-013
+      type: parallels
+      note: GNOS-013 refines how proprium functions as a gnostic mechanic in Pauline
+        rhetoric.
   GNOS-019:
     confidence: 0.3
     created: '2026-01-08'
@@ -2848,7 +2876,22 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: MYTH-001
-    connections: []
+    connections:
+    - target: MYTH-016
+      type: develops
+      note: 'Example of mythic bricolage/adaptation: Enochic authors appropriate and
+        subvert Persian bull-cycle motifs'
+    - target: MYTH-015
+      type: develops
+      note: Comparative cosmogony analysis is an instance of mythic bricolage and
+        counter-myth formation
+    - target: MYTH-002
+      type: develops
+      note: Two-hearts divergence is framed as scribal bricolage divergence from shared
+        ANE materials
+    - target: MYTH-010
+      type: develops
+      note: CDE myth-evolution model is an instance of mythic bricolage framing
   MYTH-002:
     confidence: 0.3
     created: 2024-12-27
@@ -2873,7 +2916,27 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: MYTH-002
-    connections: []
+    connections:
+    - target: MYTH-001
+      type: developed_by
+      note: Two-hearts divergence is framed as scribal bricolage divergence from shared
+        ANE materials
+    - target: MYTH-015
+      type: parallels
+      note: MYTH-002 states the divergence model; MYTH-015 grounds it in Genesis 1
+        vs Enuma Elish
+    - target: MYTH-033
+      type: supported_by
+      note: CSR-backed two-template cognitive framing supports the division/unity
+        divergence hypothesis
+    - target: MYTH-030
+      type: supported_by
+      note: Shared proto-myth elements diverging into opposite outcomes provides direct
+        support for the Two Hearts divergence
+    - target: MYTH-010
+      type: parallels
+      note: Both articulate a two-trajectory divergence (unity vs division) rooted
+        in ruling-love/state
   MYTH-003:
     confidence: 0.3
     created: 2024-12-27
@@ -3131,6 +3194,10 @@ nodes:
       type: develops
       note: Divine influx is described as the flow of divine love and wisdom; this
         node specifies the heat/light correspondence and spiritual-sun framing.
+    - target: SWED-024
+      type: develops
+      note: Doc 5 articulates New Jerusalem/New Church as a principal outcome of restored
+        influx after 1757.
   SWED-003:
     confidence: 0.65
     created: 2024-12-27
@@ -3280,6 +3347,10 @@ nodes:
     - target: EARLY-022
       type: develops
       note: Constantinian Shift is institutional manifestation of Proprium
+    - target: GNOS-013
+      type: develops
+      note: GNOS-013 applies the Swedenborgian proprium diagnosis to Pauline humility-as-authority
+        dynamics.
   SWED-007:
     confidence: 0.3
     created: 2024-12-27
@@ -8896,7 +8967,11 @@ nodes:
 
       - Jamesian orthopraxy vs Pauline pistis-centered soteriology'
     id: EARLY-029
-    connections: []
+    connections:
+    - target: GNOS-007
+      type: supports
+      note: Textual evidence of early Jamesian opposition to Paul’s faith/works framing
+        supports the schism claim
     trace_status: untraced
   EARLY-030:
     domain: EARLY
@@ -9040,7 +9115,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: GNOS-003
-    connections: []
+    connections:
+    - target: GNOS-007
+      type: parallels
+      note: 'Stronger formulation of the same trajectory: Paul’s corpus provides the
+        matrix for later Gnostic development'
   GNOS-005:
     confidence: 0.3
     created: 2024-12-27
@@ -9076,7 +9155,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: GNOS-005
-    connections: []
+    connections:
+    - target: GNOS-007
+      type: parallels
+      note: Both argue Paul’s letters contain structural/terminological warrant for
+        later Gnostic systems
   GNOS-007:
     confidence: 0.3
     created: 2024-12-28
@@ -9120,7 +9203,35 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: GNOS-007
-    connections: []
+    connections:
+    - target: GNOS-001
+      type: developed_by
+      note: Frames Paul as a concrete instantiation of the gnostic impulse’s epistemic/cosmological/anthropological
+        mechanics
+    - target: GNOS-005
+      type: parallels
+      note: Both argue Paul’s letters contain structural/terminological warrant for
+        later Gnostic systems
+    - target: GNOS-003
+      type: parallels
+      note: 'Stronger formulation of the same trajectory: Paul’s corpus provides the
+        matrix for later Gnostic development'
+    - target: GNOS-023
+      type: supported_by
+      note: 'Textual evidence: archons/rulers-of-this-age + hidden wisdom implies
+        Gnostic-style cosmic conflict'
+    - target: GNOS-024
+      type: supported_by
+      note: 'Textual evidence: psychikos/pneumatikos and soma psychikon/pneumatikon
+        underpin later Gnostic anthropology'
+    - target: GNOS-017
+      type: supported_by
+      note: 'Secondary evidence: Pagels documents systematic Valentinian appropriation
+        of Pauline vocabulary'
+    - target: EARLY-029
+      type: supported_by
+      note: Textual evidence of early Jamesian opposition to Paul’s faith/works framing
+        supports the schism claim
   GNOS-008:
     confidence: 0.3
     created: 2024-12-28
@@ -9269,7 +9380,11 @@ nodes:
 
       - katargeō used for supernatural powers consistently in Paul'
     id: GNOS-023
-    connections: []
+    connections:
+    - target: GNOS-007
+      type: supports
+      note: 'Textual evidence: archons/rulers-of-this-age + hidden wisdom implies
+        Gnostic-style cosmic conflict'
     trace_status: untraced
   GNOS-024:
     domain: GNOS
@@ -9316,7 +9431,11 @@ nodes:
 
       - Terminology identical to Valentinian technical usage'
     id: GNOS-024
-    connections: []
+    connections:
+    - target: GNOS-007
+      type: supports
+      note: 'Textual evidence: psychikos/pneumatikos and soma psychikon/pneumatikon
+        underpin later Gnostic anthropology'
     trace_status: untraced
   GNOS-025:
     domain: GNOS
@@ -9437,7 +9556,11 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: MYTH-005
-    connections: []
+    connections:
+    - target: MYTH-016
+      type: supports
+      note: Enochic Animal Apocalypse bull symbolism provides one side of the comparative
+        parallel
   MYTH-007:
     confidence: 0.3
     created: 2024-12-27
@@ -9473,7 +9596,11 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: MYTH-007
-    connections: []
+    connections:
+    - target: MYTH-015
+      type: develops
+      note: Integrates Lang/Schmidt High-God (Urmonotheismus) strand into the two-hearts
+        model
   MYTH-008:
     confidence: 0.777
     confidence_factors:
@@ -9542,7 +9669,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: MYTH-008
-    connections: []
+    connections:
+    - target: MYTH-016
+      type: supports
+      note: Ancient Word 'echoes' evidence supports plausibility of deep-time symbolic
+        transmission channels
   MYTH-009:
     confidence: 0.3
     created: 2024-12-27
@@ -9620,7 +9751,26 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: MYTH-010
-    connections: []
+    connections:
+    - target: MYTH-001
+      type: developed_by
+      note: CDE myth-evolution model is an instance of mythic bricolage framing
+    - target: MYTH-015
+      type: parallels
+      note: MYTH-010 supplies the CDE mechanism; MYTH-015 gives the Genesis/Enuma
+        comparative instantiation
+    - target: MYTH-002
+      type: parallels
+      note: Both articulate a two-trajectory divergence (unity vs division) rooted
+        in ruling-love/state
+    - target: MYTH-029
+      type: supported_by
+      note: DOPS + NDE persistence evidence is used as the empirical grounding for
+        the CDE myth-evolution model
+    - target: MYTH-030
+      type: supported_by
+      note: Shared proto-myth elements and divergent outcomes support the CDE divergence
+        model
   MYTH-011:
     confidence: 0.794
     confidence_factors:
@@ -9918,7 +10068,35 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: MYTH-015
-    connections: []
+    connections:
+    - target: MYTH-001
+      type: developed_by
+      note: Comparative cosmogony analysis is an instance of mythic bricolage and
+        counter-myth formation
+    - target: MYTH-007
+      type: developed_by
+      note: Integrates Lang/Schmidt High-God (Urmonotheismus) strand into the two-hearts
+        model
+    - target: MYTH-002
+      type: parallels
+      note: MYTH-002 states the divergence model; MYTH-015 grounds it in Genesis 1
+        vs Enuma Elish
+    - target: MYTH-027
+      type: supported_by
+      note: Textual parallels and deliberate demythologization support the Two Hearts
+        hypothesis
+    - target: MYTH-034
+      type: supported_by
+      note: Demythologization markers (tehom/tanninim/unnamed luminaries) support
+        the Heart of Unity vs Division framing
+    - target: MYTH-033
+      type: supported_by
+      note: CSR model better fits polytheism; monotheism as override supports the
+        Two Hearts cognitive claim
+    - target: MYTH-010
+      type: parallels
+      note: MYTH-010 supplies the CDE mechanism; MYTH-015 gives the Genesis/Enuma
+        comparative instantiation
   MYTH-016:
     confidence: 0.3
     created: 2024-12-28
@@ -9961,7 +10139,23 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: MYTH-016
-    connections: []
+    connections:
+    - target: MYTH-001
+      type: developed_by
+      note: 'Example of mythic bricolage/adaptation: Enochic authors appropriate and
+        subvert Persian bull-cycle motifs'
+    - target: MYTH-008
+      type: supported_by
+      note: Ancient Word 'echoes' evidence supports plausibility of deep-time symbolic
+        transmission channels
+    - target: MYTH-005
+      type: supported_by
+      note: Enochic Animal Apocalypse bull symbolism provides one side of the comparative
+        parallel
+    - target: MYTH-036
+      type: supported_by
+      note: Comparative linguistic/textual parallels support genetic Persian influence
+        on Enochic motifs
   MYTH-027:
     domain: MYTH
     node_type: evidence
@@ -10018,7 +10212,11 @@ nodes:
 
       - Seven-day structure parallels temple inauguration'
     id: MYTH-027
-    connections: []
+    connections:
+    - target: MYTH-015
+      type: supports
+      note: Textual parallels and deliberate demythologization support the Two Hearts
+        hypothesis
     trace_status: untraced
   MYTH-028:
     domain: MYTH
@@ -10101,7 +10299,8 @@ nodes:
       ref: Stevenson, Ian. Cases of the Reincarnation Type (4 vols). UVP, 1975-1983.
       note: Original DOPS research
     - type: T
-      ref: data/06_Mythological_Studies/The Two Hearts of Creation.md
+      ref: data/06_Mythological_Studies/The Two Hearts of Creation_ A Consciousness-Driven
+        Evolution of Myth.md
       note: CDE model framework
     confidence_factors:
       source_type: external
@@ -10111,7 +10310,7 @@ nodes:
       peer_review: peer_reviewed_journal
       source_chain_quality: primary_verified
     created: '2026-01-09'
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     confidence: 0.9
     notes: 'Evidence:
 
@@ -10125,7 +10324,11 @@ nodes:
 
       - Stevenson cases: 30+ years systematic research'
     id: MYTH-029
-    connections: []
+    connections:
+    - target: MYTH-010
+      type: supports
+      note: DOPS + NDE persistence evidence is used as the empirical grounding for
+        the CDE myth-evolution model
     trace_status: untraced
   MYTH-030:
     domain: MYTH
@@ -10174,7 +10377,15 @@ nodes:
 
       - Bricolage mechanism documented'
     id: MYTH-030
-    connections: []
+    connections:
+    - target: MYTH-002
+      type: supports
+      note: Shared proto-myth elements diverging into opposite outcomes provides direct
+        support for the Two Hearts divergence
+    - target: MYTH-010
+      type: supports
+      note: Shared proto-myth elements and divergent outcomes support the CDE divergence
+        model
     trace_status: untraced
   MYTH-031:
     domain: MYTH
@@ -10334,7 +10545,15 @@ nodes:
 
       - Two impulses: fragmenting (division) vs. unifying (unity)'
     id: MYTH-033
-    connections: []
+    connections:
+    - target: MYTH-015
+      type: supports
+      note: CSR model better fits polytheism; monotheism as override supports the
+        Two Hearts cognitive claim
+    - target: MYTH-002
+      type: supports
+      note: CSR-backed two-template cognitive framing supports the division/unity
+        divergence hypothesis
     trace_status: untraced
   MYTH-034:
     domain: MYTH
@@ -10386,7 +10605,11 @@ nodes:
 
       - ''Let us'' = divine council subordinated to Creator'
     id: MYTH-034
-    connections: []
+    connections:
+    - target: MYTH-015
+      type: supports
+      note: Demythologization markers (tehom/tanninim/unnamed luminaries) support
+        the Heart of Unity vs Division framing
     trace_status: untraced
   MYTH-035:
     domain: MYTH
@@ -10494,7 +10717,11 @@ nodes:
 
       - Eschatology: dualist history → renovation/resurrection'
     id: MYTH-036
-    connections: []
+    connections:
+    - target: MYTH-016
+      type: supports
+      note: Comparative linguistic/textual parallels support genetic Persian influence
+        on Enochic motifs
     trace_status: untraced
   SWED-006:
     confidence: 0.3
@@ -10880,7 +11107,23 @@ nodes:
     trace_status: complete
     updated: '2026-01-11'
     id: SWED-024
-    connections: []
+    connections:
+    - target: SWED-002
+      type: developed_by
+      note: Doc 5 articulates New Jerusalem/New Church as a principal outcome of restored
+        influx after 1757.
+    - target: SWED-065
+      type: contrasts
+      note: 'Doc 5: New Church defined by charity/life; explicitly rejects ''faith
+        alone''.'
+    - target: SWED-066
+      type: requires
+      note: 'Doc 5: New Church is established after (and enabled by) the Last Judgment
+        of 1757.'
+    - target: SWED-067
+      type: parallels
+      note: Same referent (New Jerusalem/New Church); SWED-024 is Doc 5-specific detailed
+        articulation.
   SWED-025:
     confidence: 0.3
     created: 2024-12-28
@@ -16095,7 +16338,19 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: GNOS-013
-    connections: []
+    connections:
+    - target: SWED-005
+      type: developed_by
+      note: GNOS-013 applies the Swedenborgian proprium diagnosis to Pauline humility-as-authority
+        dynamics.
+    - target: GNOS-001
+      type: parallels
+      note: GNOS-013 is a Pauline case-study of the broader gnostic impulse (self-authorizing
+        private revelation).
+    - target: GNOS-006
+      type: parallels
+      note: GNOS-013 refines how proprium functions as a gnostic mechanic in Pauline
+        rhetoric.
   GNOS-014:
     confidence: 0.3
     created: 2025-12-29

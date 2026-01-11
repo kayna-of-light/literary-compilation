@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 10:22*
+*Last exported: 2026-01-11 10:27*
 
 ---
 
@@ -2106,9 +2106,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `SWED-002` (developed_by): Doc 5 articulates New Jerusalem/New Church as a principal outcome of restored influx after 1757.
-- → `SWED-065` (contrasts): Doc 5: New Church defined by charity/life; explicitly rejects 'faith alone'.
-- → `SWED-066` (requires): Doc 5: New Church is established after (and enabled by) the Last Judgment of 1757.
-- → `SWED-067` (parallels): Same referent (New Jerusalem/New Church); SWED-024 is Doc 5-specific detailed articulation.
+- → `SWED-065` (contrasts): New Church defined by charity/life; explicitly rejects 'faith alone'.
+- → `SWED-066` (requires): New Church is established after (and enabled by) the Last Judgment of 1757.
+- → `SWED-067` (parallels): Same referent (New Jerusalem/New Church); SWED-024 is document-specific detailed articulation.
 
 ---
 
@@ -2630,7 +2630,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `SWED-005` (developed_by): Sola Fide is doctrinal expression of Proprium
 - → `SWED-067` (contrasts): New Jerusalem contrasts Sola Fide - Two Essentials vs Faith Alone
-- → `SWED-024` (contrasts): Doc 5: New Church defined by charity/life; explicitly rejects 'faith alone'.
+- → `SWED-024` (contrasts): New Church defined by charity/life; explicitly rejects 'faith alone'.
 
 ---
 
@@ -2646,7 +2646,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `SWED-002` (developed_by): Last Judgment enables restoration of Divine Influx
 - → `SWED-067` (required_by): New Jerusalem requires Last Judgment to be established
-- → `SWED-024` (required_by): Doc 5: New Church is established after (and enabled by) the Last Judgment of 1757.
+- → `SWED-024` (required_by): New Church is established after (and enabled by) the Last Judgment of 1757.
 
 ---
 
@@ -2663,7 +2663,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-066` (requires): New Jerusalem requires Last Judgment to be established
 - → `SWED-065` (contrasts): New Jerusalem contrasts Sola Fide - Two Essentials vs Faith Alone
 - → `SWED-002` (developed_by): New Jerusalem (Fourth Church) as ultimate manifestation of Divine Influx
-- → `SWED-024` (parallels): Same referent (New Jerusalem/New Church); SWED-024 is Doc 5-specific detailed articulation.
+- → `SWED-024` (parallels): Same referent (New Jerusalem/New Church); SWED-024 is document-specific detailed articulation.
 
 ---
 
@@ -3095,14 +3095,14 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `CROSS-002` (parallels): Divine Bricolage reinterprets HCM findings as providential mechanism
-- → `BIBL-002` (develops): Doc 1 (Canonical Gospels synthesis) treats the Synoptic Problem as a core HCM application.
-- → `BIBL-036` (develops): Doc 1: genre classification is a core HCM result for Gospel interpretation.
-- → `BIBL-014` (develops): Doc 1: Troeltsch's principles are presented as HCM foundations.
-- → `BIBL-020` (develops): Doc 1: the criteria-of-authenticity toolkit is a standard HCM sub-method used to reconstruct the historical Jesus.
-- → `BIBL-037` (develops): Doc 1: author/attribution issues are a core HCM topic in the canonical Gospels synthesis.
-- → `BIBL-038` (develops): Doc 2: Genesis 1–11 ANE context is part of the scientific/archaeological framing of biblical narratives.
-- → `BIBL-040` (develops): Doc 3: resurrection narrative development is treated as an HCM object of analysis.
-- → `BIBL-044` (develops): Doc 5: Pastoral authorship/dating debate is treated as an HCM problem-space.
+- → `BIBL-002` (develops): Canonical Gospels synthesis treats the Synoptic Problem as a core HCM application.
+- → `BIBL-036` (develops): genre classification is a core HCM result for Gospel interpretation.
+- → `BIBL-014` (develops): Troeltsch's principles are presented as HCM foundations.
+- → `BIBL-020` (develops): the criteria-of-authenticity toolkit is a standard HCM sub-method used to reconstruct the historical Jesus.
+- → `BIBL-037` (develops): author/attribution issues are a core HCM topic in the canonical Gospels synthesis.
+- → `BIBL-038` (develops): Genesis 1–11 ANE context is part of the scientific/archaeological framing of biblical narratives.
+- → `BIBL-040` (develops): resurrection narrative development is treated as an HCM object of analysis.
+- → `BIBL-044` (develops): Pastoral authorship/dating debate is treated as an HCM problem-space.
 
 ---
 
@@ -3117,7 +3117,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
 
 **Connections**:
-- → `BIBL-001` (developed_by): Doc 1 (Canonical Gospels synthesis) treats the Synoptic Problem as a core HCM application.
+- → `BIBL-001` (developed_by): Canonical Gospels synthesis treats the Synoptic Problem as a core HCM application.
 
 ---
 
@@ -3145,7 +3145,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `BIBL-006` (supported_by): Western Non-Interpolations are used as textual-critical evidence for later physicalizing additions in resurrection narratives.
-- → `BIBL-040` (developed_by): Doc 3: the resurrection-evolution hypothesis is a specific claim under the broader textual-development concept.
+- → `BIBL-040` (developed_by): the resurrection-evolution hypothesis is a specific claim under the broader textual-development concept.
 
 ---
 
@@ -3161,7 +3161,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `BIBL-023` (supported_by): Burridge-style genre studies support the bioi classification.
-- → `BIBL-036` (developed_by): Doc 1: the bioi consensus is a specific hypothesis within the broader genre-classification question.
+- → `BIBL-036` (developed_by): the bioi consensus is a specific hypothesis within the broader genre-classification question.
 
 ---
 
@@ -3194,7 +3194,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 1. [T] data/03_Biblical_Scholarship/Resurrection Narrative Evolution in New Testament.md
 
 **Connections**:
-- → `BIBL-040` (developed_by): Doc 3: Talpiot is presented as a hypothesis relevant to resurrection interpretation and early Jerusalem belief.
+- → `BIBL-040` (developed_by): Talpiot is presented as a hypothesis relevant to resurrection interpretation and early Jerusalem belief.
 - → `BIBL-041` (supported_by): Feuerverger’s probabilistic analysis is cited as statistical support for the Talpiot identification.
 - → `BIBL-042` (supported_by): Shimron et al.’s geochemical linkage claim is cited as material support connecting the James Ossuary to Talpiot.
 
@@ -3242,9 +3242,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 1. [T] data/03_Biblical_Scholarship/Pastoral Epistles Authorship Debate.md
 
 **Connections**:
-- → `BIBL-030` (supported_by): Doc 5: stylometric/vocabulary statistics are cited as linguistic support for non-Pauline authorship.
-- → `BIBL-044` (developed_by): Doc 5: the pseudepigraphy/authorship hypothesis is a central claim within the Pastoral-authorship debate.
-- → `BIBL-031` (supported_by): Doc 5: absence from P46 is cited as reception-history/manuscript support for late inclusion of the Pastorals in the Pauline corpus.
+- → `BIBL-030` (supported_by): stylometric/vocabulary statistics are cited as linguistic support for non-Pauline authorship.
+- → `BIBL-044` (developed_by): the pseudepigraphy/authorship hypothesis is a central claim within the Pastoral-authorship debate.
+- → `BIBL-031` (supported_by): absence from P46 is cited as reception-history/manuscript support for late inclusion of the Pastorals in the Pauline corpus.
 
 ---
 
@@ -3262,7 +3262,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 4. [E] DAAHL (Digital Archaeological Atlas of the Holy Land)
 
 **Connections**:
-- → `BIBL-039` (supports): Doc 2: 4.2kya aridification + urban collapse provides the proposed historical substrate for ‘world-ending’ catastrophe imagery.
+- → `BIBL-039` (supports): 4.2kya aridification + urban collapse provides the proposed historical substrate for ‘world-ending’ catastrophe imagery.
 
 ---
 
@@ -3277,7 +3277,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 1. [T] data/03_Biblical_scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
 
 **Connections**:
-- → `BIBL-001` (developed_by): Doc 1: Troeltsch's principles are presented as HCM foundations.
+- → `BIBL-001` (developed_by): Troeltsch's principles are presented as HCM foundations.
 
 ---
 
@@ -3353,8 +3353,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
 
 **Connections**:
-- → `BIBL-001` (developed_by): Doc 1: the criteria-of-authenticity toolkit is a standard HCM sub-method used to reconstruct the historical Jesus.
-- → `BIBL-043` (develops): Doc 4: baseline-shift critique reframes how criteria of authenticity are applied (embarrassment → temptation).
+- → `BIBL-001` (developed_by): the criteria-of-authenticity toolkit is a standard HCM sub-method used to reconstruct the historical Jesus.
+- → `BIBL-043` (develops): baseline-shift critique reframes how criteria of authenticity are applied (embarrassment → temptation).
 
 ---
 
@@ -3385,7 +3385,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `BIBL-035` (supported_by): Manuscript/title history and Papias/Eusebius evidence support the hypothesis that the Gospels circulated anonymously and were later attributed.
-- → `BIBL-037` (developed_by): Doc 1: the anonymity/2nd-century attribution claim is a specific hypothesis within the broader authorship/attribution concept.
+- → `BIBL-037` (developed_by): the anonymity/2nd-century attribution claim is a specific hypothesis within the broader authorship/attribution concept.
 
 ---
 
@@ -3482,7 +3482,7 @@ events exist in causal networks.
 1. [T] data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md
 
 **Connections**:
-- → `BIBL-043` (develops): Doc 4: Criterion of Temptation is operationalized as a hypothesis about which Gospel features function as authenticity signals under a Jamesian baseline.
+- → `BIBL-043` (develops): Criterion of Temptation is operationalized as a hypothesis about which Gospel features function as authenticity signals under a Jamesian baseline.
 
 ---
 
@@ -3497,7 +3497,7 @@ events exist in causal networks.
 2. [T] data/03_Biblical_Scholarship/Pastoral Epistles Authorship Debate.md
 
 **Connections**:
-- → `BIBL-012` (supports): Doc 5: stylometric/vocabulary statistics are cited as linguistic support for non-Pauline authorship.
+- → `BIBL-012` (supports): stylometric/vocabulary statistics are cited as linguistic support for non-Pauline authorship.
 
 ---
 
@@ -3513,7 +3513,7 @@ events exist in causal networks.
 3. [T] data/03_Biblical_Scholarship/Pastoral Epistles Authorship Debate.md
 
 **Connections**:
-- → `BIBL-012` (supports): Doc 5: absence from P46 is cited as reception-history/manuscript support for late inclusion of the Pastorals in the Pauline corpus.
+- → `BIBL-012` (supports): absence from P46 is cited as reception-history/manuscript support for late inclusion of the Pastorals in the Pauline corpus.
 
 ---
 
@@ -3585,8 +3585,8 @@ events exist in causal networks.
 1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
 
 **Connections**:
-- → `BIBL-001` (developed_by): Doc 1: genre classification is a core HCM result for Gospel interpretation.
-- → `BIBL-005` (develops): Doc 1: the bioi consensus is a specific hypothesis within the broader genre-classification question.
+- → `BIBL-001` (developed_by): genre classification is a core HCM result for Gospel interpretation.
+- → `BIBL-005` (develops): the bioi consensus is a specific hypothesis within the broader genre-classification question.
 
 ---
 
@@ -3601,8 +3601,8 @@ events exist in causal networks.
 1. [T] data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md
 
 **Connections**:
-- → `BIBL-001` (developed_by): Doc 1: author/attribution issues are a core HCM topic in the canonical Gospels synthesis.
-- → `BIBL-022` (develops): Doc 1: the anonymity/2nd-century attribution claim is a specific hypothesis within the broader authorship/attribution concept.
+- → `BIBL-001` (developed_by): author/attribution issues are a core HCM topic in the canonical Gospels synthesis.
+- → `BIBL-022` (develops): the anonymity/2nd-century attribution claim is a specific hypothesis within the broader authorship/attribution concept.
 
 ---
 
@@ -3617,8 +3617,8 @@ events exist in causal networks.
 1. [T] data/03_Biblical_Scholarship/Scientific Analysis of Biblical Periods.md
 
 **Connections**:
-- → `BIBL-001` (developed_by): Doc 2: Genesis 1–11 ANE context is part of the scientific/archaeological framing of biblical narratives.
-- → `BIBL-039` (develops): Doc 2: the cultural-memory reading of flood narratives is a specific hypothesis within Genesis 1–11 comparative context.
+- → `BIBL-001` (developed_by): Genesis 1–11 ANE context is part of the scientific/archaeological framing of biblical narratives.
+- → `BIBL-039` (develops): the cultural-memory reading of flood narratives is a specific hypothesis within Genesis 1–11 comparative context.
 
 ---
 
@@ -3633,8 +3633,8 @@ events exist in causal networks.
 1. [T] data/03_Biblical_Scholarship/Scientific Analysis of Biblical Periods.md
 
 **Connections**:
-- → `BIBL-013` (supported_by): Doc 2: 4.2kya aridification + urban collapse provides the proposed historical substrate for ‘world-ending’ catastrophe imagery.
-- → `BIBL-038` (developed_by): Doc 2: the cultural-memory reading of flood narratives is a specific hypothesis within Genesis 1–11 comparative context.
+- → `BIBL-013` (supported_by): 4.2kya aridification + urban collapse provides the proposed historical substrate for ‘world-ending’ catastrophe imagery.
+- → `BIBL-038` (developed_by): the cultural-memory reading of flood narratives is a specific hypothesis within Genesis 1–11 comparative context.
 
 ---
 
@@ -3649,9 +3649,9 @@ events exist in causal networks.
 1. [T] data/03_Biblical_Scholarship/Resurrection Narrative Evolution in New Testament.md
 
 **Connections**:
-- → `BIBL-001` (developed_by): Doc 3: resurrection narrative development is treated as an HCM object of analysis.
-- → `BIBL-004` (develops): Doc 3: the resurrection-evolution hypothesis is a specific claim under the broader textual-development concept.
-- → `BIBL-008` (develops): Doc 3: Talpiot is presented as a hypothesis relevant to resurrection interpretation and early Jerusalem belief.
+- → `BIBL-001` (developed_by): resurrection narrative development is treated as an HCM object of analysis.
+- → `BIBL-004` (develops): the resurrection-evolution hypothesis is a specific claim under the broader textual-development concept.
+- → `BIBL-008` (develops): Talpiot is presented as a hypothesis relevant to resurrection interpretation and early Jerusalem belief.
 
 ---
 
@@ -3698,9 +3698,9 @@ events exist in causal networks.
 1. [T] data/03_Biblical_Scholarship/Re-evaluating Gospel Embarrassment.md
 
 **Connections**:
-- → `BIBL-020` (developed_by): Doc 4: baseline-shift critique reframes how criteria of authenticity are applied (embarrassment → temptation).
+- → `BIBL-020` (developed_by): baseline-shift critique reframes how criteria of authenticity are applied (embarrassment → temptation).
 - → `BIBL-011` (supported_by): Doc 4 provides the internal argument and case applications supporting the baseline-shift hypothesis.
-- → `BIBL-029` (developed_by): Doc 4: Criterion of Temptation is operationalized as a hypothesis about which Gospel features function as authenticity signals under a Jamesian baseline.
+- → `BIBL-029` (developed_by): Criterion of Temptation is operationalized as a hypothesis about which Gospel features function as authenticity signals under a Jamesian baseline.
 
 ---
 
@@ -3715,8 +3715,8 @@ events exist in causal networks.
 1. [T] data/03_Biblical_Scholarship/Pastoral Epistles Authorship Debate.md
 
 **Connections**:
-- → `BIBL-001` (developed_by): Doc 5: Pastoral authorship/dating debate is treated as an HCM problem-space.
-- → `BIBL-012` (develops): Doc 5: the pseudepigraphy/authorship hypothesis is a central claim within the Pastoral-authorship debate.
+- → `BIBL-001` (developed_by): Pastoral authorship/dating debate is treated as an HCM problem-space.
+- → `BIBL-012` (develops): the pseudepigraphy/authorship hypothesis is a central claim within the Pastoral-authorship debate.
 
 ---
 

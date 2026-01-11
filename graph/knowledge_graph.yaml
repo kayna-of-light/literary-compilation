@@ -2114,6 +2114,10 @@ nodes:
     - target: CONSC-110
       type: integrates_into
       note: Integrates post-mortem path structure with pre-death transition sequence
+    - target: CONSC-118
+      type: develops
+      note: Operationalizes the 'normative path' claim (default continuation) from
+        Afterlife Path Structure.
     critic_notes:
       last_reviewed: '2026-01-09'
       critiques: []
@@ -5561,38 +5565,46 @@ nodes:
       - {''description'': ''χ² = 4824.78 for Agency × Willingness (p < 0.0001)'',
       ''strength'': ''strong''}'
     source_chain:
-    - note: Internal statistical analysis of NDERF + IANDS databases
+    - type: T
       ref: data/01_Consciousness_Studies/Sequential Structure in NDE - Validating
         the Threefold Path Model.md
-      type: E
-    - note: Primary data source
+      note: Internal statistical analysis report of NDERF + IANDS corpora (n=6,753).
+    - type: E
+      ref: structured-data-analysis/projects/nde/notebooks/02_normative_path_validation.ipynb
+      note: Reproducible notebook implementing the normative continuation marker statistics.
+    - type: E
       ref: NDERF database (n=5,664)
-      type: E
-    - note: Secondary data source
+      note: Primary data source
+    - type: E
       ref: IANDS database (n=1,089)
-      type: E
-    - note: Original identification of NDE phenomenological core (coined term 'near-death
-        experience')
+      note: Secondary data source
+    - type: S
       ref: Moody, R.A. (1975). Life After Life. Mockingbird Books.
-      type: S
-    - note: Five-stage model and Weighted Core Experience Index
+      note: Original identification of NDE phenomenological core (coined term 'near-death
+        experience')
+    - type: S
       ref: 'Ring, K. (1980). Life at Death: A Scientific Investigation of the Near-Death
         Experience. Coward, McCann & Geoghegan.'
-      type: S
-    - note: Prospective hospital study methodology [PDF - verified via PubMed PMID
-        12850659]
+      note: Five-stage model and Weighted Core Experience Index
+    - type: S
       ref: Greyson, B. (2003). Incidence and correlates of near-death experiences
         in a cardiac care unit. General Hospital Psychiatry, 25(4), 269-276.
-      type: S
-    - note: World of Spirits as transitional realm - theological framework for continuation
-      ref: Swedenborg, E. (1758). Heaven and Hell §§421-527.
-      type: P
+      note: Prospective hospital study methodology [PDF - verified via PubMed PMID
+        12850659]
+    - type: P
+      ref: Swedenborg, E. (1758). Heaven and Hell §§ 421-527.
+      note: World of Spirits as transitional realm - theological framework for continuation
     status: validated
     title: Normative Continuation Statistical Evidence
     trace_status: complete
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     id: CONSC-028
-    connections: []
+    connections:
+    - target: CONSC-118
+      type: supports
+      note: Large-corpus convergence markers (n=6,753) support normative continuation
+        as the default path; rarity of reincarnation indicators implies the complement
+        (~95%).
   CONSC-029:
     confidence: 0.752
     confidence_factors:
@@ -16252,7 +16264,7 @@ nodes:
     id: SWED-034
     connections: []
   SWED-035:
-    confidence: 0.3
+    confidence: 0.659
     definition: 'A rigorous three-criteria empirical test that transforms the Doctrine
       of  Correspondences from axiomatic claim into falsifiable hermeneutic filter.
       Tests  whether a text exhibits the structural properties of "The Word" (immediate  inspiration,
@@ -17416,7 +17428,7 @@ nodes:
     created: '2026-01-11'
     updated: '2026-01-11'
     trace_status: complete
-    confidence: 0.665
+    confidence: 0.695
   CONSC-112:
     domain: CONSC
     node_type: hypothesis
@@ -17594,6 +17606,39 @@ nodes:
       note: Cross-cultural and cross-form convergence supports constant-state/variable-form
         mapping
     confidence: 0.775
+  CONSC-118:
+    domain: CONSC
+    node_type: hypothesis
+    title: Normative Continuation Hypothesis (Default Continuation Path)
+    definition: 'Continuation to post-mortem spiritual existence is the default trajectory
+      for most souls. Reincarnation-type returns are exceptional and identifiable
+      via explicit indicators (e.g., past-life memory, intermission memory, pre-incarnate
+      covenant language). In large NDE corpora, the rarity of such indicators implies
+      a high-frequency normative continuation path.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Sequential Structure in NDE - Validating
+        the Threefold Path Model.md
+      note: Hypothesis derived from the document's statistical argument (complement
+        of reincarnation indicators).
+    status: preliminary
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    trace_status: complete
+    id: CONSC-118
+    connections:
+    - target: CONSC-106
+      type: developed_by
+      note: Operationalizes the 'normative path' claim (default continuation) from
+        Afterlife Path Structure.
+    - target: CONSC-028
+      type: supported_by
+      note: Large-corpus convergence markers (n=6,753) support normative continuation
+        as the default path; rarity of reincarnation indicators implies the complement
+        (~95%).
+    confidence: 0.3
 untraced: []
 extended_nodes:
   BIBL-023:

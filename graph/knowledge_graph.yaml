@@ -2519,15 +2519,24 @@ nodes:
 
       '
     source_chain:
-    - note: Comprehensive James profile
-      ref: data/04_Early_Christian_History/The Bulwark of the People.md
-      type: T
+    - type: T
+      ref: data/04_Early_Christian_History/The Bulwark of the People_ An Exhaustive
+        Historical and Theological Profile of James the Brother of Jesus.md
+      note: Comprehensive James profile
     status: validated
     title: The Jamesian Movement
     trace_status: complete
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     id: EARLY-001
-    connections: []
+    connections:
+    - target: EARLY-035
+      type: integrated_from
+      note: This concept contributes a late-antique continuity/correction frame that
+        aligns with the Jamesian movement synthesis.
+    - target: EARLY-036
+      type: integrated_from
+      note: This concept supplies a structured authority/ethos frame for the Jamesian
+        movement synthesis.
   EARLY-003:
     confidence: 0.3
     created: 2024-12-27
@@ -2552,7 +2561,15 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: EARLY-003
-    connections: []
+    connections:
+    - target: EARLY-034
+      type: integrated_from
+      note: Private-revelation authority pattern is one input to the broader synthesis
+        of Pauline movement divergence.
+    - target: EARLY-035
+      type: integrated_from
+      note: This concept contributes an Islam/Quranic counter-profile that sharpens
+        the project’s Pauline-divergence synthesis.
   EARLY-004:
     confidence: 0.3
     created: 2024-12-27
@@ -8404,24 +8421,29 @@ nodes:
       \ Pharisees protested\n- Epistle of James: 'Royal Law,' cry of the Ebionim,\
       \ anti-rich polemic"
     source_chain:
-    - note: Exhaustive profile document
-      ref: data/04_Early_Christian_History/The Bulwark of the People.md
-      type: T
-    - note: Primary historical source for martyrdom
+    - type: T
+      ref: data/04_Early_Christian_History/The Bulwark of the People_ An Exhaustive
+        Historical and Theological Profile of James the Brother of Jesus.md
+      note: Exhaustive profile document
+    - type: P
       ref: Josephus, Antiquities 20.9.1
-      type: P
-    - note: Nazirite practices, temple access, martyrdom
+      note: Primary historical source for martyrdom
+    - type: P
       ref: Hegesippus (via Eusebius, HE 2.23)
-      type: P
-    - note: Designation as successor
+      note: Nazirite practices, temple access, martyrdom
+    - type: P
       ref: Gospel of Thomas, Logion 12
-      type: P
+      note: Designation as successor
     status: validated
     title: 'James the Just: The Opposition High Priest'
     trace_status: complete
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     id: EARLY-010
-    connections: []
+    connections:
+    - target: EARLY-037
+      type: supports
+      note: Composite historical profile evidence supports the claim of James’s primacy
+        in the Jerusalem church.
   EARLY-011:
     confidence: 0.768
     confidence_factors:
@@ -8708,7 +8730,19 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: EARLY-016
-    connections: []
+    connections:
+    - target: EARLY-035
+      type: developed_by
+      note: This concept frames the hypothesis that Quranic Isa operates as a corrective
+        counter-construct to Pauline/imperial Christian theology.
+    - target: EARLY-028
+      type: supported_by
+      note: Primary Quranic Isa passages provide textual evidence for the corrective-profile
+        hypothesis.
+    - target: EARLY-029
+      type: supported_by
+      note: James’s explicit faith-and-works polemic anchors the Jamesian ethics trajectory
+        invoked in the Quranic Isa restoration thesis.
   EARLY-019:
     confidence: 0.727
     confidence_factors:
@@ -8756,7 +8790,11 @@ nodes:
       - {''description'': ''Behavioral requirements contradictory to Pauline soteriology'',
       ''strength'': ''moderate''}'
     id: EARLY-019
-    connections: []
+    connections:
+    - target: EARLY-037
+      type: supports
+      note: Acts 15’s portrayal of James presiding over the Jerusalem Council supports
+        the primacy hypothesis.
   EARLY-020:
     confidence: 0.673
     confidence_factors:
@@ -8806,7 +8844,11 @@ nodes:
       - {''description'': ''Theological profile matches Jamesian movement'', ''strength'':
       ''moderate''}'
     id: EARLY-020
-    connections: []
+    connections:
+    - target: EARLY-037
+      type: supports
+      note: Ebionite continuity and anti-Pauline profile supports the claim of a durable
+        Jamesian trajectory centered on James’s authority.
   EARLY-024:
     domain: EARLY
     node_type: evidence
@@ -8960,7 +9002,11 @@ nodes:
 
       - Commission source varies (direct vs mediated)'
     id: EARLY-026
-    connections: []
+    connections:
+    - target: EARLY-017
+      type: supports
+      note: Acts vs Galatians contradiction set supports the claim that the Damascus
+        narrative is rhetorically/literarily shaped rather than historical reportage.
     trace_status: untraced
   EARLY-027:
     domain: EARLY
@@ -9010,7 +9056,11 @@ nodes:
 
       - Greek proverb in ''Hebrew language'' context - anachronism'
     id: EARLY-027
-    connections: []
+    connections:
+    - target: EARLY-017
+      type: supports
+      note: The Bacchae quotation/parallels in Acts support the hypothesis that Luke
+        shaped the Damascus account using Hellenistic literary templates.
     trace_status: untraced
   EARLY-028:
     domain: EARLY
@@ -9060,7 +9110,11 @@ nodes:
 
       - Hawariyun from Syriac ''white/pure'' - James connection'
     id: EARLY-028
-    connections: []
+    connections:
+    - target: EARLY-016
+      type: supports
+      note: Primary Quranic Isa passages provide textual evidence for the corrective-profile
+        hypothesis.
     trace_status: untraced
   EARLY-029:
     domain: EARLY
@@ -9113,6 +9167,14 @@ nodes:
       type: supports
       note: Textual evidence of early Jamesian opposition to Paul’s faith/works framing
         supports the schism claim
+    - target: EARLY-016
+      type: supports
+      note: James’s explicit faith-and-works polemic anchors the Jamesian ethics trajectory
+        invoked in the Quranic Isa restoration thesis.
+    - target: EARLY-037
+      type: supports
+      note: James’s faith-and-works polemic against Pauline framing supports the Jamesian
+        authority/ethos reconstructed in this hypothesis.
     trace_status: untraced
   EARLY-030:
     domain: EARLY
@@ -16187,7 +16249,19 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: EARLY-017
-    connections: []
+    connections:
+    - target: EARLY-034
+      type: developed_by
+      note: Damascus Divergence is a hypothesis instantiating the broader pattern
+        of Paul grounding authority in private revelation.
+    - target: EARLY-026
+      type: supported_by
+      note: Acts vs Galatians contradiction set supports the claim that the Damascus
+        narrative is rhetorically/literarily shaped rather than historical reportage.
+    - target: EARLY-027
+      type: supported_by
+      note: The Bacchae quotation/parallels in Acts support the hypothesis that Luke
+        shaped the Damascus account using Hellenistic literary templates.
   GNOS-009:
     confidence: 0.3
     created: 2025-12-27
@@ -20336,6 +20410,138 @@ nodes:
       type: develops
       note: This hypothesis synthesizes the divergent tradition-strata under the broader
         Melchizedek legitimacy concept.
+    created: '2026-01-11'
+    updated: '2026-01-11'
+  EARLY-034:
+    domain: EARLY
+    node_type: concept
+    title: Pauline Authority via Private Revelation
+    definition: 'A concept describing the Damascus-event authority structure: Paul''s
+      apostolic legitimacy is grounded in an unmediated revelatory claim rather than
+      historical apprenticeship under the Jerusalem witnesses. This creates an epistemic
+      tension between transmissible tradition and self-validating revelation, and
+      provides a framework for analyzing Acts/Galatians divergence, literary templating,
+      and "hostile takeover" readings.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/Paul's Damascus Vision_ Scholarly Critique.md
+      note: Forensic analysis of Damascus narratives, chronology, and authority claims
+    status: preliminary
+    trace_status: partial
+    id: EARLY-034
+    connections:
+    - target: EARLY-017
+      type: develops
+      note: Damascus Divergence is a hypothesis instantiating the broader pattern
+        of Paul grounding authority in private revelation.
+    - target: EARLY-003
+      type: integrates_into
+      note: Private-revelation authority pattern is one input to the broader synthesis
+        of Pauline movement divergence.
+    created: '2026-01-11'
+    updated: '2026-01-11'
+  EARLY-035:
+    domain: EARLY
+    node_type: concept
+    title: Quranic Isa Profile as Late Antique Christological Correction
+    definition: 'The Quranic portrayal of Isa functions as a late-antique Christological
+      counter-construct that rejects Pauline/imperial-Christian innovations (anti-law
+      soteriology, demiurge-style creator/savior separation, docetic tendencies) and
+      re-centers a prophetic, law-affirming, strictly monotheist Jesus tradition.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/Quranic Isa vs. Early Christianity.md
+      note: Source document minting this conceptual frame
+    status: preliminary
+    trace_status: partial
+    id: EARLY-035
+    connections:
+    - target: EARLY-016
+      type: develops
+      note: This concept frames the hypothesis that Quranic Isa operates as a corrective
+        counter-construct to Pauline/imperial Christian theology.
+    - target: EARLY-003
+      type: integrates_into
+      note: This concept contributes an Islam/Quranic counter-profile that sharpens
+        the project’s Pauline-divergence synthesis.
+    - target: EARLY-001
+      type: integrates_into
+      note: This concept contributes a late-antique continuity/correction frame that
+        aligns with the Jamesian movement synthesis.
+    created: '2026-01-11'
+    updated: '2026-01-11'
+  EARLY-036:
+    domain: EARLY
+    node_type: concept
+    title: Jamesian Jerusalem Authority and Torah-Observant Ethos
+    definition: 'The Jerusalem-based Jesus movement is best characterized by James-centered
+      leadership, Torah-observant piety, and a community ethos oriented around wisdom
+      ethics and the protection of the poor (Ebionim), standing in tension with later
+      Pauline, law-abrogating and empire-compatible trajectories.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/The Bulwark of the People_ An Exhaustive
+        Historical and Theological Profile of James the Brother of Jesus.md
+      note: Source document minting this concept
+    status: preliminary
+    trace_status: partial
+    id: EARLY-036
+    connections:
+    - target: EARLY-037
+      type: develops
+      note: This concept frames the hypothesis of James’s primacy and the Torah-observant
+        ethos of the Jerusalem movement.
+    - target: EARLY-001
+      type: integrates_into
+      note: This concept supplies a structured authority/ethos frame for the Jamesian
+        movement synthesis.
+    created: '2026-01-11'
+    updated: '2026-01-11'
+  EARLY-037:
+    domain: EARLY
+    node_type: hypothesis
+    title: James as Supreme Authority of the Jerusalem Church
+    definition: 'James the Just functioned as the principal authority of the earliest
+      Jerusalem church, exercising dynastic and practical leadership (including adjudication
+      of Gentile inclusion) and embodying a Torah-observant, Temple-adjacent piety
+      that later Pauline traditions marginalized.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/The Bulwark of the People_ An Exhaustive
+        Historical and Theological Profile of James the Brother of Jesus.md
+      note: Source document synthesizing the James profile
+    status: preliminary
+    trace_status: partial
+    id: EARLY-037
+    connections:
+    - target: EARLY-036
+      type: developed_by
+      note: This concept frames the hypothesis of James’s primacy and the Torah-observant
+        ethos of the Jerusalem movement.
+    - target: EARLY-010
+      type: supported_by
+      note: Composite historical profile evidence supports the claim of James’s primacy
+        in the Jerusalem church.
+    - target: EARLY-019
+      type: supported_by
+      note: Acts 15’s portrayal of James presiding over the Jerusalem Council supports
+        the primacy hypothesis.
+    - target: EARLY-020
+      type: supported_by
+      note: Ebionite continuity and anti-Pauline profile supports the claim of a durable
+        Jamesian trajectory centered on James’s authority.
+    - target: EARLY-029
+      type: supported_by
+      note: James’s faith-and-works polemic against Pauline framing supports the Jamesian
+        authority/ethos reconstructed in this hypothesis.
     created: '2026-01-11'
     updated: '2026-01-11'
 untraced: []

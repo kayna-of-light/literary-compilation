@@ -3198,6 +3198,18 @@ nodes:
       type: develops
       note: SWED-021 is another formulation of the Maximus Homo doctrine grounded
         in the Doctrine of Correspondences (use-based provinces of heaven).
+    - target: SWED-033
+      type: develops
+      note: 'Doc: Historical Word depends on the Doctrine of Correspondences (the
+        literal story is the vessel that carries the spiritual sense)'
+    - target: SWED-032
+      type: develops
+      note: 'Doc: Allegorical Word (Genesis 1–11) is meaningful only through correspondences
+        (spiritual sense within literal vessel)'
+    - target: SWED-028
+      type: develops
+      note: 'Doc: Swedenborg’s methodological-imperative argument depends on the Doctrine
+        of Correspondences (literal sense as stable vessel for spiritual sense)'
   SWED-002:
     confidence: 0.506
     created: 2024-12-27
@@ -9984,7 +9996,12 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: MYTH-009
-    connections: []
+    connections:
+    - target: SWED-033
+      type: developed_by
+      note: 'Doc: to reconcile Swedenborg’s ''historical Word'' claim with modern
+        archaeology, the framework develops a composite-memory / mythic-bricolage
+        hypothesis for the Exodus narrative’s formation'
   MYTH-010:
     confidence: 0.3
     created: 2024-12-27
@@ -17107,7 +17124,7 @@ nodes:
 
       '
     domain: SWED
-    node_type: foundational
+    node_type: concept
     notes: "\"Key insight: The 'paradox' dissolves when we recognize Swedenborg's\
       \ lifelong project. He was not abandoning reason for faith but extending scientific\
       \ method into a new domain requiring different data. Just as a physicist accepts\
@@ -17169,9 +17186,17 @@ nodes:
     status: validated
     title: Swedenborg's Methodological Imperative (Science of the Spiritual)
     trace_status: complete
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     id: SWED-028
-    connections: []
+    connections:
+    - target: SWED-001
+      type: developed_by
+      note: 'Doc: Swedenborg’s methodological-imperative argument depends on the Doctrine
+        of Correspondences (literal sense as stable vessel for spiritual sense)'
+    - target: SWED-033
+      type: requires
+      note: 'Doc: the methodological-imperative claim requires a stable historical
+        Word (Genesis 12+ / Exodus) as the objective ''data set'' for spiritual analysis'
   SWED-029:
     confidence: 0.3
     created: 2025-01-14
@@ -17447,7 +17472,15 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: SWED-032
-    connections: []
+    connections:
+    - target: SWED-033
+      type: contrasts
+      note: 'Doc: Genesis 1–11 as ''made-up'' allegorical Word is distinguished from
+        Genesis 12+ / Exodus as historical Word'
+    - target: SWED-001
+      type: developed_by
+      note: 'Doc: Allegorical Word (Genesis 1–11) is meaningful only through correspondences
+        (spiritual sense within literal vessel)'
   SWED-033:
     confidence: 0.3
     created: 2025-12-27
@@ -17508,7 +17541,24 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: SWED-033
-    connections: []
+    connections:
+    - target: SWED-032
+      type: contrasts
+      note: 'Doc: Genesis 1–11 as ''made-up'' allegorical Word is distinguished from
+        Genesis 12+ / Exodus as historical Word'
+    - target: MYTH-009
+      type: develops
+      note: 'Doc: to reconcile Swedenborg’s ''historical Word'' claim with modern
+        archaeology, the framework develops a composite-memory / mythic-bricolage
+        hypothesis for the Exodus narrative’s formation'
+    - target: SWED-001
+      type: developed_by
+      note: 'Doc: Historical Word depends on the Doctrine of Correspondences (the
+        literal story is the vessel that carries the spiritual sense)'
+    - target: SWED-028
+      type: required_by
+      note: 'Doc: the methodological-imperative claim requires a stable historical
+        Word (Genesis 12+ / Exodus) as the objective ''data set'' for spiritual analysis'
   SWED-034:
     confidence: 0.3
     created: 2025-12-29

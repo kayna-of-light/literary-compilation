@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 08:13*
+*Last exported: 2026-01-11 08:56*
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 352 |
-| Total Connections | 310 |
+| Total Nodes | 358 |
+| Total Connections | 348 |
 | Untraced Claims | 0 |
 
 ### By Status
 
-- **preliminary**: 70
+- **preliminary**: 76
 - **validated**: 275
 - **contested**: 7
 
@@ -28,7 +28,7 @@
 - **Early Christian History** (EARLY): 30
 - **The Gnostic Impulse** (GNOS): 26
 - **Mythological Studies** (MYTH): 36
-- **Swedenborgian Theology** (SWED): 82
+- **Swedenborgian Theology** (SWED): 88
 
 ---
 
@@ -1385,6 +1385,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `CONSC-015` (supports): Evolutionary respiratory control in bipedal hominins supports the feasibility of voluntary breath control as a substrate for internal-respiration practices.
+- → `SWED-094` (supports): Respiratory-control scholarship provides plausibility substrate for linking 'internal respiration' language to voluntary breath modulation in the human lineage (interpretive bridge remains hypothesis-level).
 
 ---
 
@@ -1781,6 +1782,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `CROSS-023` (parallels): Two-tiered epistemology integrates Correspondences as spiritual tier
 - → `CONSC-089` (develops): Teleological bias is the cognitive correlate of Doctrine of Correspondences
 - → `CROSS-002` (parallels): Divine Bricolage synthesizes Doctrine of Correspondences with human authorship
+- → `SWED-012` (develops): Catalog of correspondences is an application derived from the foundational doctrine.
+- → `SWED-091` (develops): Discrete degrees are presented as a key structural principle within the correspondences framework.
 
 ---
 
@@ -1818,6 +1821,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-016` (develops): Divine Influx adapts communication as cognition externalizes; this frames the Fall-into-language concept.
 - → `SWED-044` (develops): Illness/healing framework derives will-understanding priority from influx ontology
 - → `SWED-045` (develops): Illness/healing framework derives vulnerability (receptive will) from influx dynamics
+- → `SWED-092` (develops): Divine influx is described as the flow of divine love and wisdom; this node specifies the heat/light correspondence and spiritual-sun framing.
 
 ---
 
@@ -1858,6 +1862,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `MYTH-023` (parallels): Primary Orality is the cognitive mechanism for Ancient Word preservation
+- → `SWED-012` (parallels): The catalog illustrates the kind of correspondential symbolism Swedenborg attributes to the Ancient Word.
+- → `SWED-042` (develops): SWED-042 is a specific historical-rupture hypothesis developed from the Ancient Word concept (mechanism for archival loss + fragmentation of correspondential knowledge).
+- → `SWED-093` (develops): The document frames correspondential knowledge as ancient and later lost; this hypothesis specifies the claimed idolatry outcome of that loss.
 
 ---
 
@@ -1894,6 +1901,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `SWED-002` (developed_by): Most Ancient Church is archetype of perfect Divine Influx reception
+- → `SWED-094` (develops): Doc2 explicitly frames the Golden Age description as an allegory for deep-time hominin cognitive/communication evolution; this hypothesis formalizes that mapping.
+- → `SWED-075` (parallels): Doc2 describes the Golden Age baseline via 'internal respiration'; SWED-075 captures that internal-respiration construct explicitly.
+- → `SWED-031` (parallels): Doc2 uses 'lip-speech' as a Golden Age trait and aligns it with gestural theories of language origin.
+- → `SWED-059` (parallels): Doc2 treats 'representative language' (perceiving meaning in objects) as a Golden Age attribute.
 
 ---
 
@@ -1947,7 +1958,13 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 
 **Source Chain**:
-1. [T] data/02_Swedenborgian_Theology/A Library of Biblical Correspondences in Nature and Objects.md
+1. [T] data/02_Swedenborgian_Theology/A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg.md
+
+**Connections**:
+- → `SWED-004` (parallels): The catalog illustrates the kind of correspondential symbolism Swedenborg attributes to the Ancient Word.
+- → `SWED-001` (developed_by): Catalog of correspondences is an application derived from the foundational doctrine.
+- → `SWED-052` (parallels): Both use the metal/correspondence hierarchy (gold, silver, bronze, iron) and degree-structure framing; SWED-012 provides the general catalog context.
+- → `SWED-091` (parallels): The catalog explicitly organizes correspondences across degrees (celestial/spiritual/natural) and describes the mind as mirroring that tiered structure.
 
 ---
 
@@ -2083,7 +2100,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 
 **Source Chain**:
-1. [T] data/02_Swedenborgian_Theology/Conversation relating the Fourth Church.md
+1. [T] data/02_Swedenborgian_Theology/Conversation relating the Fourth Church - The New Jerusalem.md
 
 ---
 
@@ -2162,6 +2179,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [T] data/00_Framework/A Coherent Framework for Spiritual History.md
 
+**Connections**:
+- → `SWED-059` (parallels): Doc2 explicitly frames representative perception as a functional description that aligns with Conceptual Metaphor Theory (embodied metaphor grounding).
+
 ---
 
 #### [SWED-031] Gestural Theory of Language Origin
@@ -2173,6 +2193,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Source Chain**:
 1. [T] data/00_Framework/A Coherent Framework for Spiritual History.md
+
+**Connections**:
+- → `SWED-006` (parallels): Doc2 uses 'lip-speech' as a Golden Age trait and aligns it with gestural theories of language origin.
 
 ---
 
@@ -2308,6 +2331,12 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/Alexander, Persepolis, and Avestan Texts.md
+
+**Connections**:
+- → `SWED-004` (developed_by): SWED-042 is a specific historical-rupture hypothesis developed from the Ancient Word concept (mechanism for archival loss + fragmentation of correspondential knowledge).
+- → `SWED-078` (supported_by): SWED-078 consolidates the classical-source silence + PFA/admin nature + bullae/parchment destruction findings that SWED-042 uses as the historical rupture substrate.
+- → `SWED-085` (supported_by): Bullae and related PFA evidence directly support the claim that parchment/leather archives existed and were destroyed in the Persepolis conflagration (core premise inside SWED-042).
+- → `SWED-096` (parallels): Both treat Bundahišn as preserving Damdat Nask content after canonical rupture.
 
 ---
 
@@ -2454,6 +2483,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/The Statue and the Stone - A Thesis on Spiritual Development Through Daniel's Prophecy.md
 
+**Connections**:
+- → `SWED-012` (parallels): Both use the metal/correspondence hierarchy (gold, silver, bronze, iron) and degree-structure framing; SWED-012 provides the general catalog context.
+
 ---
 
 #### [SWED-053] Corpus Variations as Progressive Revelation
@@ -2530,6 +2562,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `SWED-002` (developed_by): Representative Language develops from Divine Influx mechanism
+- → `SWED-006` (parallels): Doc2 treats 'representative language' (perceiving meaning in objects) as a Golden Age attribute.
+- → `SWED-030` (parallels): Doc2 explicitly frames representative perception as a functional description that aligns with Conceptual Metaphor Theory (embodied metaphor grounding).
 
 ---
 
@@ -2709,6 +2743,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `SWED-002` (developed_by): Divine Influx underlies the primordial internal-perception mode described as internal respiration.
 - → `CONSC-015` (develops): Internal respiration (primordial internal perception) is one pillar of the Cognitive Fall hypothesis.
+- → `SWED-006` (parallels): Doc2 describes the Golden Age baseline via 'internal respiration'; SWED-075 captures that internal-respiration construct explicitly.
 
 ---
 
@@ -2750,6 +2785,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 5. [S] Boyce, Mary. A History of Zoroastrianism (3 vols). Brill, 1975-1991.
 6. [T] data/02_Swedenborgian_Theology/Alexander, Persepolis, and Avestan Texts.md
 7. [T] docs/CRITICAL_ANALYSIS_Alexander_Persepolis_Avestan.md
+
+**Connections**:
+- → `SWED-042` (supports): SWED-078 consolidates the classical-source silence + PFA/admin nature + bullae/parchment destruction findings that SWED-042 uses as the historical rupture substrate.
 
 ---
 
@@ -2849,6 +2887,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [W] https://www.iranicaonline.org/articles/persepolis-admin-archive/
 4. [T] data/unclassified/The Archival Rupture...md
 
+**Connections**:
+- → `SWED-042` (supports): Bullae and related PFA evidence directly support the claim that parchment/leather archives existed and were destroyed in the Persepolis conflagration (core premise inside SWED-042).
+
 ---
 
 #### [SWED-086] Imperial Aramaic: Written Medium for Scientific Avesta
@@ -2894,6 +2935,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 3. [W] https://www.iranicaonline.org/articles/mammals-03-in-zoroastrianism/
 4. [T] data/unclassified/The Archival Rupture...md
 
+**Connections**:
+- → `SWED-096` (supports): Bundahišn structural concordance is presented as evidence for Bundahišn-as-Zand.
+
 ---
 
 #### [SWED-089] Babylonian-Magian Astronomical Integration
@@ -2925,6 +2969,100 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-002` (developed_by): Glorification is the ultimate working of Divine Influx
 - → `BIBL-025` (parallels): Criterion of Temptation identifies footprints of Glorification combats
 - → `SWED-029` (parallels): Divine Marriage archetype reflected in Glorification union
+
+---
+
+#### [SWED-091] Discrete Degrees (Celestial, Spiritual, Natural)
+
+**Status**: preliminary | **Confidence**: unknown
+
+> Reality is structured in discrete levels (celestial, spiritual, natural) where each lower plane is an effect sustained by the higher plane as its cause. The human mind mirrors this structure with internal (spiritual) and external (natural) aspects, and Scripture speaks in natural images that correspond to truths on these higher degrees.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg.md
+
+**Connections**:
+- → `SWED-001` (developed_by): Discrete degrees are presented as a key structural principle within the correspondences framework.
+- → `SWED-012` (parallels): The catalog explicitly organizes correspondences across degrees (celestial/spiritual/natural) and describes the mind as mirroring that tiered structure.
+
+---
+
+#### [SWED-092] Divine Love and Wisdom as Spiritual Heat and Light
+
+**Status**: preliminary | **Confidence**: unknown
+
+> Divine Love corresponds to spiritual heat and Divine Wisdom corresponds to spiritual light. The spiritual sun (the Lord's presence to angels) is described as the first emanation of this Love and Wisdom; the natural sun corresponds to that spiritual sun.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg.md
+
+**Connections**:
+- → `SWED-002` (developed_by): Divine influx is described as the flow of divine love and wisdom; this node specifies the heat/light correspondence and spiritual-sun framing.
+
+---
+
+#### [SWED-093] Loss of Correspondences Leads to Idolatry
+
+**Status**: preliminary | **Confidence**: unknown
+
+> As knowledge of correspondences declines, representative images and rituals are no longer understood as signifying spiritual realities; over time, the representations themselves are treated as objects of worship, producing idolatry.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg.md
+
+**Connections**:
+- → `SWED-004` (developed_by): The document frames correspondential knowledge as ancient and later lost; this hypothesis specifies the claimed idolatry outcome of that loss.
+
+---
+
+#### [SWED-094] Most Ancient Church as Deep-Time Hominin Trajectory
+
+**Status**: preliminary | **Confidence**: unknown
+
+> The Swedenborgian 'Most Ancient Church' (Golden Age) can be read as an allegorical description of early hominin cognition and communication over deep time rather than a short, datable historical period. In this reading: (1) 'internal respiration' aligns with foundational shifts in breath control and contemplative physiology; (2) 'lip-speech' aligns with pre-vocal gestural/facial communication; and (3) 'representative language' aligns with embodied metaphor as a basis for abstract thought. The 'Fall' is treated as the process of cognitive externalization that drives articulate speech and later external symbolic systems.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/A Validation Analysis of Claims Concerning the Most Ancient Church.md
+
+**Connections**:
+- → `SWED-006` (developed_by): Doc2 explicitly frames the Golden Age description as an allegory for deep-time hominin cognitive/communication evolution; this hypothesis formalizes that mapping.
+- → `CONSC-099` (supported_by): Respiratory-control scholarship provides plausibility substrate for linking 'internal respiration' language to voluntary breath modulation in the human lineage (interpretive bridge remains hypothesis-level).
+
+---
+
+#### [SWED-095] Dāmdād Nask (Sasanian Encyclopedic Nask)
+
+**Status**: preliminary | **Confidence**: unknown
+
+> A major Sasanian-era Nask (volume) of the Zoroastrian canon associated with cosmogony and 'the data of creation' (mēnōg/gētīg creation, taxonomy of beings, anthropology, and eschatology). In later Middle Persian tradition it is treated as a systematic, scientific and cosmological reference work rather than a purely liturgical text.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Bundahišn's Damdat Nask Reconstruction.md
+
+**Connections**:
+- → `SWED-096` (develops): 
+
+---
+
+#### [SWED-096] Bundahišn Preserves the Zand of the Dāmdād Nask
+
+**Status**: preliminary | **Confidence**: unknown
+
+> The Greater Bundahišn is best understood as an epitome of the Middle Persian Zand (commentary/translation) tradition of the lost Dāmdād Nask, preserving its structural sequence and key 'encyclopedic' contents (cosmogony, taxonomy, microcosm-macrocosm mapping, embryology, and eschatological cycle) even when the Avestan originals are no longer extant.
+
+
+**Source Chain**:
+1. [T] data/02_Swedenborgian_Theology/Bundahišn's Damdat Nask Reconstruction.md
+
+**Connections**:
+- → `SWED-095` (developed_by): 
+- → `SWED-088` (supported_by): Bundahišn structural concordance is presented as evidence for Bundahišn-as-Zand.
+- → `SWED-042` (parallels): Both treat Bundahišn as preserving Damdat Nask content after canonical rupture.
 
 ---
 

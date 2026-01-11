@@ -1071,6 +1071,10 @@ nodes:
       type: parallels
       note: Frames post-awakening integration struggles as the outward continuation
         of the crucible/vastation dynamic
+    - target: SWED-022
+      type: required_by
+      note: 'Doc 5: the Delft commission is portrayed as emerging from (and requiring)
+        a preceding period of vastation/crisis.'
     confidence: 0.3
     critic_notes:
       last_reviewed: '2026-01-09'
@@ -3051,7 +3055,11 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: MYTH-003
-    connections: []
+    connections:
+    - target: SWED-004
+      type: parallels
+      note: 'Doc 4: deep-time mnemonic/symbolic systems are presented as external
+        analogs that align with (and thus parallel) Swedenborg''s Ancient Word hypothesis.'
   MYTH-004:
     confidence: 0.3
     created: 2024-12-27
@@ -3182,6 +3190,14 @@ nodes:
       type: develops
       note: Discrete degrees are presented as a key structural principle within the
         correspondences framework.
+    - target: SWED-011
+      type: develops
+      note: Maximus Homo/Divine Human doctrine applies the Doctrine of Correspondences
+        (heaven as a human form; organs as angelic societies).
+    - target: SWED-021
+      type: develops
+      note: SWED-021 is another formulation of the Maximus Homo doctrine grounded
+        in the Doctrine of Correspondences (use-based provinces of heaven).
   SWED-002:
     confidence: 0.506
     created: 2024-12-27
@@ -3204,7 +3220,7 @@ nodes:
     status: validated
     title: Divine Influx
     trace_status: complete
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     id: SWED-002
     connections:
     - target: MYTH-021
@@ -3288,6 +3304,14 @@ nodes:
       type: develops
       note: Doc 5 articulates New Jerusalem/New Church as a principal outcome of restored
         influx after 1757.
+    - target: SWED-017
+      type: develops
+      note: 'Divine Bricolage: Adaptive Influx (SWED-017) specifies how Divine Influx
+        (SWED-002) guides and adapts communication through human vessels and texts.'
+    - target: SWED-022
+      type: develops
+      note: 'Doc 5: the Delft commission is framed as a providentially prepared instance
+        of Divine Influx guiding a human vessel into new work.'
   SWED-003:
     confidence: 0.65
     created: 2024-12-27
@@ -3388,6 +3412,10 @@ nodes:
       type: develops
       note: The document frames correspondential knowledge as ancient and later lost;
         this hypothesis specifies the claimed idolatry outcome of that loss.
+    - target: MYTH-003
+      type: parallels
+      note: 'Doc 4: deep-time mnemonic/symbolic systems are presented as external
+        analogs that align with (and thus parallel) Swedenborg''s Ancient Word hypothesis.'
   SWED-005:
     confidence: 0.3
     created: 2024-12-27
@@ -3524,7 +3552,15 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: SWED-011
-    connections: []
+    connections:
+    - target: SWED-001
+      type: developed_by
+      note: Maximus Homo/Divine Human doctrine applies the Doctrine of Correspondences
+        (heaven as a human form; organs as angelic societies).
+    - target: SWED-021
+      type: parallels
+      note: SWED-011 and SWED-021 describe the same Grand Man/Divine Human structure
+        at different levels of detail.
   SWED-012:
     confidence: 0.3
     created: 2024-12-27
@@ -5440,12 +5476,22 @@ nodes:
     status: validated
     title: 'Being of Light: Identification Statistics'
     trace_status: complete
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     id: CONSC-021
     connections:
     - target: CONSC-107
       type: supports
       note: 'Evidence: identification labels vary with background; properties stable'
+    - target: CROSS-006
+      type: supports
+      note: Being-of-Light identification results (label variance + property invariance)
+        provide the statistical substrate used to validate the Jesus Profile hypothesis
+        by personality-match rather than naming.
+    - target: CROSS-007
+      type: supports
+      note: The ‘unknown presence’ majority and stable properties across labels support
+        the claim that direct divine encounter is not restricted to a single cultural
+        category (used in the universal theosis-capacity argument).
   CONSC-022:
     confidence: 0.752
     confidence_factors:
@@ -8100,7 +8146,7 @@ nodes:
       peer_review: peer_reviewed_book
       source_chain_quality: secondary
     created: '2026-01-09'
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     confidence: 0.775
     notes: 'Evidence:
 
@@ -8112,33 +8158,40 @@ nodes:
 
       - Textual stratification mirrors theological development trajectory'
     id: CROSS-034
-    connections: []
+    connections:
+    - target: CROSS-006
+      type: supports
+      note: Textual-critical evidence of resurrection-layer editing in Luke supports
+        the Jesus Profile hypothesis as an instance of providential editorial curation.
     trace_status: untraced
   CROSS-035:
     domain: CROSS
     node_type: evidence
     title: 'NDE Being of Light: Personality Profile Consistency Statistics'
-    definition: 'Statistical analysis of Near-Death Experience reports (n=3,189 Being
-      of Light encounters from NDERF database) reveals consistent personality characteristics
-      regardless of experiencer''s religious background: unconditional love, non-judgment,
-      total acceptance, ''knowing'' recognition. Identity attribution varies culturally:
-      18.9% explicitly identify as Jesus, 22.5% as God, 51.9% as ''Unknown Presence''
-      transcending categories. The ''Unknown Presence'' rate is actually stronger
-      evidence for objective reality—the Being exceeds conceptual categories. Consistent
-      personality profile (love, non-judgment) matches the ''Theological Jesus'' of
-      Gospel tradition, validating the editorial process that shaped the Jesus profile.'
+    definition: 'Statistical analysis of Being of Light encounters in NDE reports
+      (n=1,881 Light Being encounters from a 6,753-record combined NDERF+IANDS corpus)
+      indicates a consistent personality profile regardless of the experiencer’s religious
+      background: unconditional love, non-judgment, total acceptance, and “knowing”
+      recognition. Identity attribution varies culturally (e.g., “Jesus,” “God,” “Unknown
+      Presence”), but the reported properties remain stable across labels.
+
+      This stability supports the claim that the "Theological Jesus" of the Gospel
+      tradition is a curated profile that corresponds to an objectively encountered
+      Loving Presence, with culture shaping naming rather than the core encounter.
+
+      '
     status: validated
     source_chain:
     - type: E
-      ref: NDERF Database. Near-Death Experience Research Foundation. n=3,189 Being
-        of Light encounters analyzed.
-      note: Primary database
+      ref: NDERF + IANDS structured NDE corpus (n=6,753 total reports; n=1,881 Light
+        Being encounters)
+      note: Primary dataset for Light Being encounter extraction
     - type: T
       ref: structured-data-analysis/projects/nde/
-      note: Statistical analysis of NDERF data
+      note: Statistical analysis and aggregation code
     - type: T
       ref: data/02_Swedenborgian_Theology/Divine Bricolage vs. Swedenborg's Jesus.md
-      note: Interpretation within bricolage framework
+      note: Interpretation within the Jesus Profile / Divine Bricolage framework
     confidence_factors:
       source_type: internal
       methodology: retrospective
@@ -8148,19 +8201,21 @@ nodes:
       source_data_quality: institutional_database
       critic_reviewed: not_reviewed
     created: '2026-01-09'
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     confidence: 0.775
-    notes: 'Evidence:
+    notes: 'Evidence highlights: - Reported properties of the Being of Light remain
+      consistent across identification labels. - Identification vocabulary varies
+      culturally; the encounter’s personality profile is stable.
 
-      - 51.9% ''Unknown Presence'' - transcends cultural categories
-
-      - 18.9% explicit Jesus identification (Western experiencers)
-
-      - Consistent personality: unconditional love, non-judgment, recognition
-
-      - Personality match across all identification labels validates single Being'
+      This node is intended to capture the personality-profile invariance emphasized
+      in the document’s argument (validation by "personality match," not iconography).'
     id: CROSS-035
-    connections: []
+    connections:
+    - target: CROSS-006
+      type: supports
+      note: Cross-cultural invariance of the Loving Presence’s personality profile
+        supports validating the Jesus Profile by phenomenology (personality match)
+        rather than by culturally conditioned naming.
     trace_status: untraced
   CROSS-036:
     domain: CROSS
@@ -8196,7 +8251,7 @@ nodes:
       peer_review: peer_reviewed_book
       source_chain_quality: secondary
     created: '2026-01-09'
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     confidence: 0.781
     notes: 'Evidence:
 
@@ -8210,7 +8265,12 @@ nodes:
 
       - Gap between historical reconstruction and theological portrait documented'
     id: CROSS-036
-    connections: []
+    connections:
+    - target: CROSS-006
+      type: supports
+      note: The documented divergence between HCM’s ‘bedrock’ Jesus and the theological
+        portrait supports the claim that an editorial/theological curation process
+        shaped the received Jesus Profile.
     trace_status: untraced
   CROSS-037:
     domain: CROSS
@@ -8246,7 +8306,7 @@ nodes:
       peer_review: peer_reviewed_book
       source_chain_quality: primary_verified
     created: '2026-01-09'
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     confidence: 0.831
     notes: 'Evidence:
 
@@ -8258,7 +8318,11 @@ nodes:
 
       - Patristic tradition interprets these as theosis warrant'
     id: CROSS-037
-    connections: []
+    connections:
+    - target: CROSS-007
+      type: supports
+      note: NT ‘partakers of the divine nature’ / ‘firstborn among many brethren’
+        texts support the ‘degree vs kind’ theosis-capacity hypothesis.
     trace_status: untraced
   EARLY-002:
     confidence: 0.3
@@ -11083,9 +11147,17 @@ nodes:
     status: validated
     title: 'Divine Bricolage: Adaptive Influx'
     trace_status: partial
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     id: SWED-017
-    connections: []
+    connections:
+    - target: CROSS-006
+      type: develops
+      note: SWED-017 operationalizes Divine Bricolage as the adaptive action of influx
+        that yields the Jesus Profile hypothesis (CROSS-006) in the Gospel tradition.
+    - target: SWED-002
+      type: developed_by
+      note: 'Divine Bricolage: Adaptive Influx (SWED-017) is a specification of the
+        broader Divine Influx principle (SWED-002) under historical/textual conditions.'
   SWED-018:
     confidence: 0.3
     created: 2024-12-27
@@ -11198,7 +11270,19 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: SWED-021
-    connections: []
+    connections:
+    - target: SWED-001
+      type: developed_by
+      note: SWED-021 is another formulation of the Maximus Homo doctrine grounded
+        in the Doctrine of Correspondences (use-based provinces of heaven).
+    - target: SWED-011
+      type: parallels
+      note: SWED-011 and SWED-021 describe the same Grand Man/Divine Human structure
+        at different levels of detail.
+    - target: CROSS-008
+      type: integrates_into
+      note: CROSS-008 integrates Swedenborg’s Grand Man anatomy (will/understanding
+        provinces; head/thorax/extremities) as one input.
   SWED-022:
     confidence: 0.3
     created: 2024-12-28
@@ -11235,7 +11319,15 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: SWED-022
-    connections: []
+    connections:
+    - target: SWED-002
+      type: developed_by
+      note: 'Doc 5: the Delft commission is framed as a providentially prepared instance
+        of Divine Influx guiding a human vessel into new work.'
+    - target: SWED-064
+      type: requires
+      note: 'Doc 5: the Delft commission is portrayed as emerging from (and requiring)
+        a preceding period of vastation/crisis.'
   SWED-023:
     confidence: 0.3
     created: 2024-12-28
@@ -11790,7 +11882,11 @@ nodes:
 
       - Daniel 9 ''Seventy Weeks'': provides timeline for Messiah'
     id: SWED-079
-    connections: []
+    connections:
+    - target: SWED-043
+      type: supports
+      note: 'Doc 3: Daniel''s Rab-mag/Rab-hartummin role transmits messianic prophecy
+        into Magian archives, supporting the Prophetic-Sapiential Synthesis hypothesis.'
     trace_status: untraced
   SWED-080:
     domain: SWED
@@ -13091,6 +13187,10 @@ nodes:
       type: develops
       note: Frames neuroplasticity/attention training as the mechanism by which hemispheric
         integration can be cultivated.
+    - target: CROSS-008
+      type: integrates_into
+      note: CROSS-008 integrates McGilchrist’s Master/Emissary hemispheric framework
+        (CONSC-018) as the natural-plane correlate.
   CONSC-019:
     confidence: 0.497
     confidence_factors:
@@ -15112,9 +15212,34 @@ nodes:
     status: validated
     title: The Jesus Profile Thesis
     trace_status: complete
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     id: CROSS-006
-    connections: []
+    connections:
+    - target: SWED-017
+      type: developed_by
+      note: CROSS-006 applies SWED-017’s Divine-Bricolage mechanism specifically to
+        Gospel formation, positing a providentially curated ‘Jesus Profile’ as the
+        intended result.
+    - target: CROSS-034
+      type: supported_by
+      note: Textual stratification in Luke’s resurrection narrative (pneumatic stratum
+        vs later physicalist additions) is used as evidence of editorial layering
+        consistent with a curated Jesus Profile.
+    - target: CROSS-036
+      type: supported_by
+      note: Historical-critical ‘bedrock’ reconstruction (apocalyptic prophet; crucifixion
+        for sedition) diverges from the theological portrait, evidencing an editorial/theological
+        evolution the hypothesis explains.
+    - target: CONSC-021
+      type: supported_by
+      note: Being-of-Light identification statistics show naming varies with culture
+        while reported properties remain stable, supporting validation-by-personality
+        rather than label.
+    - target: CROSS-035
+      type: supported_by
+      note: Personality-profile invariance of the Loving Presence across labels supports
+        the claim that the ‘Theological Jesus’ corresponds to an objectively encountered
+        profile rather than iconographic projection.
   CROSS-007:
     confidence: 0.3
     created: 2025-12-29
@@ -15179,9 +15304,21 @@ nodes:
     status: validated
     title: Universal Theosis Capacity (Degree vs. Kind)
     trace_status: complete
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     id: CROSS-007
-    connections: []
+    connections:
+    - target: SWED-090
+      type: developed_by
+      note: 'CROSS-007 extends the Glorification concept (SWED-090) into a ‘degree
+        vs kind’ framing: Jesus as Fullness who opens the pathway for others’ participation.'
+    - target: CROSS-037
+      type: supported_by
+      note: NT theosis texts provide primary-text warrant for the degree/not-kind
+        claim.
+    - target: CONSC-021
+      type: supported_by
+      note: NDE Being-of-Light statistics are used as phenomenological corroboration
+        that ‘divine encounter’ transcends doctrinal naming and is offered broadly.
   CROSS-008:
     confidence: 0.3
     created: 2026-01-02
@@ -15282,7 +15419,15 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CROSS-008
-    connections: []
+    connections:
+    - target: SWED-021
+      type: integrated_from
+      note: CROSS-008 integrates Swedenborg’s Grand Man anatomy (will/understanding
+        provinces; head/thorax/extremities) as one input.
+    - target: CONSC-018
+      type: integrated_from
+      note: CROSS-008 integrates McGilchrist’s Master/Emissary hemispheric framework
+        (CONSC-018) as the natural-plane correlate.
   CROSS-009:
     confidence: 0.3
     created: 2026-01-03
@@ -18603,7 +18748,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: SWED-043
-    connections: []
+    connections:
+    - target: SWED-079
+      type: supported_by
+      note: 'Doc 3: Daniel''s Rab-mag/Rab-hartummin role transmits messianic prophecy
+        into Magian archives, supporting the Prophetic-Sapiential Synthesis hypothesis.'
   SWED-044:
     confidence: 0.3
     created: 2026-01-02
@@ -19235,8 +19384,12 @@ nodes:
     - target: SWED-029
       type: parallels
       note: Divine Marriage archetype reflected in Glorification union
+    - target: CROSS-007
+      type: develops
+      note: SWED-090’s Glorification mechanism provides the doctrinal basis from which
+        the ‘universal theosis capacity’ hypothesis (CROSS-007) is developed.
     created: '2026-01-10'
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     confidence: 0.3
   GNOS-026:
     domain: GNOS

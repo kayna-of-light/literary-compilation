@@ -11694,7 +11694,7 @@ nodes:
     id: BIBL-013
     connections: []
   CONSC-001:
-    confidence: 0.3
+    confidence: 0.565
     created: '2024-12-27'
     definition: 'Consciousness is the fundamental, active force in reality—not an
       epiphenomenal byproduct of neural activity. In cultural evolution, the collective
@@ -12208,7 +12208,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: CONSC-019
-    connections: []
+    connections:
+    - target: CONSC-043
+      type: supports
+      note: GNDEs describe inter-subjective shared experience that conflicts with
+        purely private brain-hallucination predictions; included as DBH-critique anomaly.
   CONSC-020:
     confidence: 0.9
     created: 2025-12-27
@@ -12522,6 +12526,10 @@ nodes:
       type: supported_by
       note: Structured end-of-life dreams/visions are cited as part of the broader
         inadequacy of purely dying-brain models
+    - target: CONSC-019
+      type: supported_by
+      note: GNDEs describe inter-subjective shared experience that conflicts with
+        purely private brain-hallucination predictions; included as DBH-critique anomaly.
   CONSC-044:
     confidence: 0.695
     confidence_factors:

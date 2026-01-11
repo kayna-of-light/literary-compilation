@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 11:34*
+*Last exported: 2026-01-11 12:36*
 
 ---
 
@@ -11,7 +11,7 @@
 | Metric | Count |
 |--------|-------|
 | Total Nodes | 374 |
-| Total Connections | 550 |
+| Total Connections | 562 |
 | Untraced Claims | 0 |
 
 ### By Status
@@ -1789,6 +1789,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-091` (develops): Discrete degrees are presented as a key structural principle within the correspondences framework.
 - → `SWED-011` (develops): Maximus Homo/Divine Human doctrine applies the Doctrine of Correspondences (heaven as a human form; organs as angelic societies).
 - → `SWED-021` (develops): SWED-021 is another formulation of the Maximus Homo doctrine grounded in the Doctrine of Correspondences (use-based provinces of heaven).
+- → `SWED-033` (develops): Doc: Historical Word depends on the Doctrine of Correspondences (the literal story is the vessel that carries the spiritual sense)
+- → `SWED-032` (develops): Doc: Allegorical Word (Genesis 1–11) is meaningful only through correspondences (spiritual sense within literal vessel)
+- → `SWED-028` (develops): Doc: Swedenborg’s methodological-imperative argument depends on the Doctrine of Correspondences (literal sense as stable vessel for spiritual sense)
 
 ---
 
@@ -2183,6 +2186,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/Swedenborg's Historical Interpretation of Exodus.md
 
+**Connections**:
+- → `SWED-001` (developed_by): Doc: Swedenborg’s methodological-imperative argument depends on the Doctrine of Correspondences (literal sense as stable vessel for spiritual sense)
+- → `SWED-033` (requires): Doc: the methodological-imperative claim requires a stable historical Word (Genesis 12+ / Exodus) as the objective 'data set' for spiritual analysis
+
 ---
 
 #### [SWED-029] Correspondential Anthropology (Male/Female, Good/Truth)
@@ -2242,6 +2249,10 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [T] data/00_Framework/A Coherent Framework for Spiritual History.md
 
+**Connections**:
+- → `SWED-033` (contrasts): Doc: Genesis 1–11 as 'made-up' allegorical Word is distinguished from Genesis 12+ / Exodus as historical Word
+- → `SWED-001` (developed_by): Doc: Allegorical Word (Genesis 1–11) is meaningful only through correspondences (spiritual sense within literal vessel)
+
 ---
 
 #### [SWED-033] Historical Word (Patriarchs & Exodus)
@@ -2253,6 +2264,12 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Source Chain**:
 1. [T] data/00_Framework/A Coherent Framework for Spiritual History.md
+
+**Connections**:
+- → `SWED-032` (contrasts): Doc: Genesis 1–11 as 'made-up' allegorical Word is distinguished from Genesis 12+ / Exodus as historical Word
+- → `MYTH-009` (develops): Doc: to reconcile Swedenborg’s 'historical Word' claim with modern archaeology, the framework develops a composite-memory / mythic-bricolage hypothesis for the Exodus narrative’s formation
+- → `SWED-001` (developed_by): Doc: Historical Word depends on the Doctrine of Correspondences (the literal story is the vessel that carries the spiritual sense)
+- → `SWED-028` (required_by): Doc: the methodological-imperative claim requires a stable historical Word (Genesis 12+ / Exodus) as the objective 'data set' for spiritual analysis
 
 ---
 
@@ -4834,6 +4851,9 @@ cosmology (Demiurge, Sophia, pleroma), soteriology (divine spark, gnosis), and p
 
 **Source Chain**:
 1. [T] data/06_Mythological_Studies/Forging a Nation in Memory_ The Exodus Narrative as a Work of Socio-Anthropological Mythic Bricolage.md
+
+**Connections**:
+- → `SWED-033` (developed_by): Doc: to reconcile Swedenborg’s 'historical Word' claim with modern archaeology, the framework develops a composite-memory / mythic-bricolage hypothesis for the Exodus narrative’s formation
 
 ---
 

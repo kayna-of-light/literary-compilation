@@ -1622,6 +1622,9 @@ nodes:
       type: develops
       note: 'Doc 3: resurrection narrative development is treated as an HCM object
         of analysis.'
+    - target: BIBL-044
+      type: develops
+      note: 'Doc 5: Pastoral authorship/dating debate is treated as an HCM problem-space.'
   BIBL-002:
     confidence: 0.3
     created: '2024-12-27'
@@ -4571,6 +4574,10 @@ nodes:
       type: developed_by
       note: 'Doc 1: the criteria-of-authenticity toolkit is a standard HCM sub-method
         used to reconstruct the historical Jesus.'
+    - target: BIBL-043
+      type: develops
+      note: 'Doc 4: baseline-shift critique reframes how criteria of authenticity
+        are applied (embarrassment → temptation).'
   BIBL-021:
     confidence: 0.781
     confidence_factors:
@@ -4690,7 +4697,11 @@ nodes:
 
       - Missing characteristic Pauline particles (gar, oun, de, ara)'
     id: BIBL-030
-    connections: []
+    connections:
+    - target: BIBL-012
+      type: supports
+      note: 'Doc 5: stylometric/vocabulary statistics are cited as linguistic support
+        for non-Pauline authorship.'
     trace_status: untraced
   BIBL-031:
     domain: BIBL
@@ -4732,7 +4743,11 @@ nodes:
 
       - Corroborates Marcion''s 10-letter canon (c. 140 CE)'
     id: BIBL-031
-    connections: []
+    connections:
+    - target: BIBL-012
+      type: supports
+      note: 'Doc 5: absence from P46 is cited as reception-history/manuscript support
+        for late inclusion of the Pastorals in the Pauline corpus.'
     trace_status: untraced
   BIBL-032:
     domain: BIBL
@@ -12348,7 +12363,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: BIBL-011
-    connections: []
+    connections:
+    - target: BIBL-043
+      type: supports
+      note: Doc 4 provides the internal argument and case applications supporting
+        the baseline-shift hypothesis.
   BIBL-012:
     confidence: 0.3
     created: 2024-12-28
@@ -12427,7 +12446,19 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: BIBL-012
-    connections: []
+    connections:
+    - target: BIBL-030
+      type: supported_by
+      note: 'Doc 5: stylometric/vocabulary statistics are cited as linguistic support
+        for non-Pauline authorship.'
+    - target: BIBL-044
+      type: developed_by
+      note: 'Doc 5: the pseudepigraphy/authorship hypothesis is a central claim within
+        the Pastoral-authorship debate.'
+    - target: BIBL-031
+      type: supported_by
+      note: 'Doc 5: absence from P46 is cited as reception-history/manuscript support
+        for late inclusion of the Pastorals in the Pauline corpus.'
   BIBL-013:
     confidence: 0.885
     confidence_factors:
@@ -19673,7 +19704,11 @@ nodes:
     status: validated
     confidence: 0.3
     id: BIBL-029
-    connections: []
+    connections:
+    - target: BIBL-043
+      type: develops
+      note: 'Doc 4: Criterion of Temptation is operationalized as a hypothesis about
+        which Gospel features function as authenticity signals under a Jamesian baseline.'
     created: '2026-01-10'
     updated: '2026-01-10'
     trace_status: complete
@@ -20142,4 +20177,72 @@ nodes:
       type: supports
       note: Shimron et al.’s geochemical linkage claim is cited as material support
         connecting the James Ossuary to Talpiot.
+  BIBL-043:
+    domain: BIBL
+    node_type: hypothesis
+    title: Criterion of Temptation vs. Embarrassment (Baseline-Shift Hypothesis)
+    definition: 'The claim that the standard Historical Jesus “Criterion of Embarrassment”
+      is frequently misapplied because it assumes a Pauline/High-Christology baseline
+      for what would have been “embarrassing” to earliest communities. If the earliest
+      tradition is instead grounded in a Jamesian/Jerusalem orthopraxy baseline (where
+      perfection is dynamic completion through struggle), then “embarrassing” Gospel
+      moments (baptism, ignorance, agony, temptation) function as intentional theological
+      assertions and can be treated as authenticity signals under a proposed “Criterion
+      of Temptation/Purification.”
+
+      '
+    source_chain:
+    - type: T
+      ref: data/03_Biblical_Scholarship/Re-evaluating Gospel Embarrassment.md
+      note: Primary argument and applications
+    status: preliminary
+    trace_status: partial
+    notes: 'This is an internal methodological proposal: it reframes what counts as
+      “embarrassing” by shifting the assumed theological baseline from Pauline/imperial
+      orthodoxy to Jamesian/Jerusalem praxis.
+
+      '
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: BIBL-043
+    connections:
+    - target: BIBL-020
+      type: developed_by
+      note: 'Doc 4: baseline-shift critique reframes how criteria of authenticity
+        are applied (embarrassment → temptation).'
+    - target: BIBL-011
+      type: supported_by
+      note: Doc 4 provides the internal argument and case applications supporting
+        the baseline-shift hypothesis.
+    - target: BIBL-029
+      type: developed_by
+      note: 'Doc 4: Criterion of Temptation is operationalized as a hypothesis about
+        which Gospel features function as authenticity signals under a Jamesian baseline.'
+  BIBL-044:
+    domain: BIBL
+    node_type: concept
+    title: Pastoral Epistles Authorship and Dating (Historical-Critical)
+    definition: 'A historical-critical problem-space focused on whether 1 Timothy,
+      2 Timothy, and Titus were authored by Paul and how their likely date of composition
+      relates to institutional development, anti-heretical polemic, and the formation
+      of the Pauline corpus.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/03_Biblical_Scholarship/Pastoral Epistles Authorship Debate.md
+      note: Primary synthesis for this concept
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: BIBL-044
+    connections:
+    - target: BIBL-001
+      type: developed_by
+      note: 'Doc 5: Pastoral authorship/dating debate is treated as an HCM problem-space.'
+    - target: BIBL-012
+      type: develops
+      note: 'Doc 5: the pseudepigraphy/authorship hypothesis is a central claim within
+        the Pastoral-authorship debate.'
 untraced: []

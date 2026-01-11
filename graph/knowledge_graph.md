@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 16:16*
+*Last exported: 2026-01-11 16:30*
 
 ---
 
@@ -11,7 +11,7 @@
 | Metric | Count |
 |--------|-------|
 | Total Nodes | 388 |
-| Total Connections | 638 |
+| Total Connections | 656 |
 | Untraced Claims | 0 |
 
 ### By Status
@@ -1795,6 +1795,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 - → `SWED-097` (develops): Doc frames Exile as historical conduit within correspondences framework.
 - → `SWED-041` (develops): Anchors Zoroastrian menog/getig ontology concept under Doctrine of Correspondences (per Tracing Ancient Correspondence Knowledge).
 - → `SWED-098` (develops): Anchors Zoroastrian beneficent/khrafstra taxonomy concept under Doctrine of Correspondences.
+- → `SWED-037` (develops): SWED-037 operationalizes external triangulation for validating correspondences
 
 ---
 
@@ -2303,6 +2304,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `CONSC-117` (develops): Methodological framing: operationalizes correspondential validation as a falsifiable mapping from form to function
+- → `SWED-037` (parallels): Internal coherence/stress-tests (SWED-035) complement external triangulation (SWED-037)
 
 ---
 
@@ -2316,6 +2318,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/Testing Swedenborg's Correspondences Thoroughly.md
 
+**Connections**:
+- → `SWED-037` (parallels): Stress-testing protocol (SWED-036) parallels external triangulation approach (SWED-037)
+
 ---
 
 #### [SWED-037] External Triangulation Validation (Circularity Problem Solution)
@@ -2327,6 +2332,11 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/Validating Swedenborg's Correspondences.md
+
+**Connections**:
+- → `SWED-001` (developed_by): SWED-037 operationalizes external triangulation for validating correspondences
+- → `SWED-035` (parallels): Internal coherence/stress-tests (SWED-035) complement external triangulation (SWED-037)
+- → `SWED-036` (parallels): Stress-testing protocol (SWED-036) parallels external triangulation approach (SWED-037)
 
 ---
 
@@ -3279,6 +3289,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `BIBL-001` (developed_by): Canonical Gospels synthesis treats the Synoptic Problem as a core HCM application.
+- → `EARLY-002` (develops): EARLY-002 is a specific alternative hypothesis under the Synoptic Problem
 
 ---
 
@@ -3307,6 +3318,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `BIBL-006` (supported_by): Western Non-Interpolations are used as textual-critical evidence for later physicalizing additions in resurrection narratives.
 - → `BIBL-040` (developed_by): the resurrection-evolution hypothesis is a specific claim under the broader textual-development concept.
+- → `EARLY-002` (parallels): Proto-Luke reconstruction parallels the broader resurrection-evolution trajectory
 
 ---
 
@@ -3341,6 +3353,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `BIBL-004` (supports): Western Non-Interpolations are used as textual-critical evidence for later physicalizing additions in resurrection narratives.
+- → `EARLY-002` (supports): Western Non-Interpolations support EARLY-002's claim of later physicalizing Lukan additions
 
 ---
 
@@ -4062,6 +4075,12 @@ events exist in causal networks.
 **Source Chain**:
 1. [T] data/04_Early_Christian_History/The Jamesian Protograph_ A Forensic Reconstruction of Proto-Luke.md
 
+**Connections**:
+- → `BIBL-002` (developed_by): EARLY-002 is a specific alternative hypothesis under the Synoptic Problem
+- → `BIBL-006` (supported_by): Western Non-Interpolations support EARLY-002's claim of later physicalizing Lukan additions
+- → `BIBL-004` (parallels): Proto-Luke reconstruction parallels the broader resurrection-evolution trajectory
+- → `EARLY-009` (parallels): Both hypotheses treat Luke traditions as preserving Jamesian substrate against later harmonization
+
 ---
 
 #### [EARLY-003] The Pauline Movement and Foundational Divergence
@@ -4162,7 +4181,12 @@ events exist in causal networks.
 
 
 **Source Chain**:
-1. [T] data/04_Early_Christian_History/The Lukan Dissonance.md
+1. [T] data/04_Early_Christian_History/The Lukan Dissonance_ A Critical Forensic Examination of the Theological and Political Divergence Between the Third Gospel and the Acts of the Apostles.md
+
+**Connections**:
+- → `EARLY-036` (developed_by): EARLY-009 applies the Jamesian ethos concept (EARLY-036) to Luke-Acts
+- → `EARLY-030` (supported_by): Textual-critical tensions (Acts vs Paul, suppression of Gal 2 clash, etc.) support the Lukan Dissonance hypothesis
+- → `EARLY-002` (parallels): Both hypotheses treat Luke traditions as preserving Jamesian substrate against later harmonization
 
 ---
 
@@ -4489,6 +4513,9 @@ popularized and extended this thesis with additional evidence.
 3. [P] Galatians 2:11-14 (Antioch confrontation)
 4. [P] 1 Corinthians 8, 10 (idol food discussion without Decree)
 
+**Connections**:
+- → `EARLY-009` (supports): Textual-critical tensions (Acts vs Paul, suppression of Gal 2 clash, etc.) support the Lukan Dissonance hypothesis
+
 ---
 
 #### [EARLY-031] Textual Evidence for Jesus-Paul Ethos Divergence
@@ -4582,6 +4609,7 @@ popularized and extended this thesis with additional evidence.
 **Connections**:
 - → `EARLY-037` (develops): This concept frames the hypothesis of James’s primacy and the Torah-observant ethos of the Jerusalem movement.
 - → `EARLY-001` (integrates_into): This concept supplies a structured authority/ethos frame for the Jamesian movement synthesis.
+- → `EARLY-009` (develops): EARLY-009 applies the Jamesian ethos concept (EARLY-036) to Luke-Acts
 
 ---
 

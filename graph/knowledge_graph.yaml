@@ -1745,6 +1745,9 @@ nodes:
       type: developed_by
       note: Canonical Gospels synthesis treats the Synoptic Problem as a core HCM
         application.
+    - target: EARLY-002
+      type: develops
+      note: EARLY-002 is a specific alternative hypothesis under the Synoptic Problem
   BIBL-003:
     confidence: 0.3
     created: 2024-12-27
@@ -1809,6 +1812,10 @@ nodes:
       type: developed_by
       note: the resurrection-evolution hypothesis is a specific claim under the broader
         textual-development concept.
+    - target: EARLY-002
+      type: parallels
+      note: Proto-Luke reconstruction parallels the broader resurrection-evolution
+        trajectory
   BIBL-005:
     confidence: 0.815
     created: '2024-12-27'
@@ -2803,14 +2810,27 @@ nodes:
       '
     source_chain:
     - note: Comprehensive forensic examination
-      ref: data/04_Early_Christian_History/The Lukan Dissonance.md
+      ref: data/04_Early_Christian_History/The Lukan Dissonance_ A Critical Forensic
+        Examination of the Theological and Political Divergence Between the Third
+        Gospel and the Acts of the Apostles.md
       type: T
     status: validated
     title: The Lukan Dissonance
     trace_status: complete
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     id: EARLY-009
-    connections: []
+    connections:
+    - target: EARLY-036
+      type: developed_by
+      note: EARLY-009 applies the Jamesian ethos concept (EARLY-036) to Luke-Acts
+    - target: EARLY-030
+      type: supported_by
+      note: Textual-critical tensions (Acts vs Paul, suppression of Gal 2 clash, etc.)
+        support the Lukan Dissonance hypothesis
+    - target: EARLY-002
+      type: parallels
+      note: Both hypotheses treat Luke traditions as preserving Jamesian substrate
+        against later harmonization
   GNOS-001:
     confidence: 0.765
     created: 2024-12-27
@@ -3325,6 +3345,9 @@ nodes:
       type: develops
       note: Anchors Zoroastrian beneficent/khrafstra taxonomy concept under Doctrine
         of Correspondences.
+    - target: SWED-037
+      type: develops
+      note: SWED-037 operationalizes external triangulation for validating correspondences
   SWED-002:
     confidence: 0.667
     created: 2024-12-27
@@ -4411,6 +4434,10 @@ nodes:
       type: supports
       note: Western Non-Interpolations are used as textual-critical evidence for later
         physicalizing additions in resurrection narratives.
+    - target: EARLY-002
+      type: supports
+      note: Western Non-Interpolations support EARLY-002's claim of later physicalizing
+        Lukan additions
   BIBL-008:
     confidence: 0.65
     created: 2024-12-27
@@ -8524,7 +8551,22 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: EARLY-002
-    connections: []
+    connections:
+    - target: BIBL-002
+      type: developed_by
+      note: EARLY-002 is a specific alternative hypothesis under the Synoptic Problem
+    - target: BIBL-006
+      type: supported_by
+      note: Western Non-Interpolations support EARLY-002's claim of later physicalizing
+        Lukan additions
+    - target: BIBL-004
+      type: parallels
+      note: Proto-Luke reconstruction parallels the broader resurrection-evolution
+        trajectory
+    - target: EARLY-009
+      type: parallels
+      note: Both hypotheses treat Luke traditions as preserving Jamesian substrate
+        against later harmonization
   EARLY-008:
     confidence: 0.3
     created: 2024-12-27
@@ -9434,7 +9476,11 @@ nodes:
 
       - Genre shift: bioi → apologetic history'
     id: EARLY-030
-    connections: []
+    connections:
+    - target: EARLY-009
+      type: supports
+      note: Textual-critical tensions (Acts vs Paul, suppression of Gal 2 clash, etc.)
+        support the Lukan Dissonance hypothesis
     trace_status: untraced
   EARLY-031:
     domain: EARLY
@@ -17910,6 +17956,10 @@ nodes:
       type: develops
       note: 'Methodological framing: operationalizes correspondential validation as
         a falsifiable mapping from form to function'
+    - target: SWED-037
+      type: parallels
+      note: Internal coherence/stress-tests (SWED-035) complement external triangulation
+        (SWED-037)
     created: '2026-01-10'
     updated: '2026-01-10'
     trace_status: complete
@@ -18021,7 +18071,11 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: SWED-036
-    connections: []
+    connections:
+    - target: SWED-037
+      type: parallels
+      note: Stress-testing protocol (SWED-036) parallels external triangulation approach
+        (SWED-037)
   SWED-037:
     confidence: 0.3
     created: 2025-12-29
@@ -18120,7 +18174,18 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: SWED-037
-    connections: []
+    connections:
+    - target: SWED-001
+      type: developed_by
+      note: SWED-037 operationalizes external triangulation for validating correspondences
+    - target: SWED-035
+      type: parallels
+      note: Internal coherence/stress-tests (SWED-035) complement external triangulation
+        (SWED-037)
+    - target: SWED-036
+      type: parallels
+      note: Stress-testing protocol (SWED-036) parallels external triangulation approach
+        (SWED-037)
   SWED-038:
     confidence: 0.3
     created: 2025-12-29
@@ -20964,6 +21029,9 @@ nodes:
       type: integrates_into
       note: This concept supplies a structured authority/ethos frame for the Jamesian
         movement synthesis.
+    - target: EARLY-009
+      type: develops
+      note: EARLY-009 applies the Jamesian ethos concept (EARLY-036) to Luke-Acts
     created: '2026-01-11'
     updated: '2026-01-11'
     confidence: 0.765

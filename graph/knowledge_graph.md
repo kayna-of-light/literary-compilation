@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 06:56*
+*Last exported: 2026-01-11 07:11*
 
 ---
 
@@ -10,20 +10,20 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 342 |
-| Total Connections | 218 |
+| Total Nodes | 345 |
+| Total Connections | 232 |
 | Untraced Claims | 0 |
 
 ### By Status
 
-- **preliminary**: 61
+- **preliminary**: 64
 - **validated**: 274
 - **contested**: 7
 
 ### By Domain
 
 - **Biblical Scholarship** (BIBL): 33
-- **Consciousness Studies** (CONSC): 96
+- **Consciousness Studies** (CONSC): 99
 - **Cross-Domain** (CROSS): 39
 - **Early Christian History** (EARLY): 30
 - **The Gnostic Impulse** (GNOS): 26
@@ -52,7 +52,10 @@
 - → `CONSC-090` (develops): Trajectory A is a component concept within CDE framework
 - → `CONSC-091` (develops): Trajectory B is a component concept within CDE framework
 - → `CONSC-092` (develops): Memetic Niche is mechanism concept within CDE
-- → `CONSC-111` (develops): 
+- → `CONSC-111` (develops): Modular phenomenology model developed within CDE framing
+- → `CONSC-113` (develops): Extends volunteer-soul model: commissioning/activation beyond near-death contexts
+- → `CONSC-114` (develops): Extends volunteer-soul model: post-call integration dynamics and friction
+- → `CONSC-115` (develops): Extends volunteer-soul model: proposed preparatory trait/readiness correlates
 
 ---
 
@@ -187,6 +190,9 @@
 - → `CONSC-025` (supported_by): Volunteer marker detection (10.3% detected; 92.7% commissioned vs 13.8%) supports mission-oriented volunteer profile within Volunteer Soul Incarnation hypothesis.
 - → `CONSC-026` (supported_by): Volunteer-language subset shows sharply elevated pre-birth indicators, supporting the pre-incarnate covenant/choice dimension of Volunteer Soul Incarnation hypothesis.
 - → `CONSC-027` (developed_by): Methodological distinction (detection vs classification) develops and constrains Volunteer Soul Incarnation hypothesis interpretation.
+- → `CONSC-113` (developed_by): Stage-3 activation generalized beyond NDE contexts (SSA/NDE-like activation)
+- → `CONSC-114` (developed_by): Post-call integration dynamics articulated as part of a fuller volunteer-soul profile
+- → `CONSC-115` (developed_by): Proposed Stage-1 preparatory correlates (readiness trait signature)
 
 ---
 
@@ -1482,6 +1488,55 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 ---
 
+#### [CONSC-113] Revelatory Intervention Beyond NDEs (SSA/NDE-like Activation)
+
+**Status**: preliminary | **Confidence**: 0.3
+
+> The Stage-3 “Revelatory Intervention” or commissioning event in the volunteer-call narrative is argued to occur outside near-death contexts (e.g., spontaneous spiritual awakenings and NDE-like experiences), implying the activation is not dependent on near-death physiology.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Volunteer Soul Incarnation Profile Building.md
+
+**Connections**:
+- → `CONSC-001` (developed_by): Grounded in CDE foundational framing (CONSC-001)
+- → `CONSC-014` (develops): Extends volunteer-soul hypothesis by generalizing Stage-3 activation beyond NDE contexts
+
+---
+
+#### [CONSC-114] Post-Call Integration Friction (Called-Soul vs. World)
+
+**Status**: preliminary | **Confidence**: 0.3
+
+> After the activation event, experiencers report durable transformation of purpose and values alongside predictable integration challenges (ineffability, invalidation/alienation, life disruption, and new sensitivities). The document frames this struggle as an externalized continuation of the “crucible/vastation” dynamic, with integration reportedly aided more by meaning-making and spiritual practices than by standard psychiatric framing.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Volunteer Soul Incarnation Profile Building.md
+
+**Connections**:
+- → `CONSC-001` (developed_by): Grounded in CDE foundational framing (CONSC-001)
+- → `CONSC-014` (develops): Extends volunteer-soul hypothesis by articulating post-call integration dynamics
+- → `SWED-064` (parallels): Post-awakening integration friction parallels Swedenborgian vastation/crucible framing
+
+---
+
+#### [CONSC-115] Preparatory Longing Trait Signature (Openness/Spirituality/Symbolic Cognition)
+
+**Status**: preliminary | **Confidence**: 0.3
+
+> The document proposes that individuals who undergo the commissioning/activation event tend to show a readiness profile (e.g., spirituality orientation, openness to experience, vivid symbolic cognition), interpreted as empirical correlates of the Stage-1 “Longing for Truth” preparation.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/Volunteer Soul Incarnation Profile Building.md
+
+**Connections**:
+- → `CONSC-001` (developed_by): Grounded in CDE foundational framing (CONSC-001)
+- → `CONSC-014` (develops): Articulates proposed Stage-1 preparatory correlates within the volunteer-soul hypothesis
+
+---
+
 ### Swedenborgian Theology
 *Correspondences, influx, regeneration, Ancient Word*
 
@@ -2268,6 +2323,7 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Connections**:
 - → `SWED-003` (developed_by): Vastation develops from World of Spirits
+- → `CONSC-114` (parallels): Frames post-awakening integration struggles as the outward continuation of the crucible/vastation dynamic
 
 ---
 

@@ -592,7 +592,7 @@ nodes:
       type: develops
       note: Two-tier method frames calendrical disputes as natural-plane authority
         phenomena with spiritual-plane interpretive significance.
-    confidence: 0.3
+    confidence: 0.6
   CROSS-024:
     created: '2026-01-09'
     definition: The standard linear afterlife progression (Passage -> World of Spirits
@@ -1613,7 +1613,7 @@ nodes:
     connections: []
     confidence: 0.719
   BIBL-001:
-    confidence: 0.3
+    confidence: 0.669
     created: 2024-12-27
     definition: 'The academic methodology for analyzing biblical texts including source
       criticism, form criticism, redaction criticism, and textual criticism. Treats
@@ -1670,6 +1670,12 @@ nodes:
     - target: BIBL-044
       type: develops
       note: Pastoral authorship/dating debate is treated as an HCM problem-space.
+    - target: BIBL-045
+      type: develops
+      note: Adds tabernacle archetype/copy concept treated in this document.
+    - target: BIBL-049
+      type: develops
+      note: Adds purity taxonomy (Leviticus 11) concept treated in this document.
   BIBL-002:
     confidence: 0.3
     created: '2024-12-27'
@@ -2702,7 +2708,16 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: EARLY-006
-    connections: []
+    connections:
+    - target: SWED-004
+      type: integrated_from
+      note: Magi tradition synthesis draws on Ancient Word framing.
+    - target: SWED-041
+      type: integrated_from
+      note: Magi tradition synthesis presupposes menog/getig correspondence ontology.
+    - target: SWED-097
+      type: integrated_from
+      note: Magi tradition synthesis uses exile-as-conduit concept.
   EARLY-007:
     confidence: 0.3
     created: 2024-12-27
@@ -2758,7 +2773,7 @@ nodes:
     id: EARLY-009
     connections: []
   GNOS-001:
-    confidence: 0.3
+    confidence: 0.765
     created: 2024-12-27
     definition: 'The recurring spiritual pattern characterized by: (1) cosmology of
       captivity (material world as prison/defect), (2) divine spark within (human
@@ -2983,7 +2998,7 @@ nodes:
     id: GNOS-019
     connections: []
   MYTH-001:
-    confidence: 0.3
+    confidence: 0.85
     created: 2024-12-27
     definition: 'The documented process by which new sacred narratives are assembled
       from existing cultural memory fragments, existing myths, and oral traditions.
@@ -3199,7 +3214,7 @@ nodes:
     updated: '2026-01-10'
     trace_status: complete
   SWED-001:
-    confidence: 0.3
+    confidence: 0.666
     created: 2024-12-27
     definition: 'The foundational principle that the entire natural world is a plane
       of effects corresponding directly to the spiritual world (plane of causes).
@@ -3260,8 +3275,19 @@ nodes:
       type: develops
       note: 'Doc: Swedenborg’s methodological-imperative argument depends on the Doctrine
         of Correspondences (literal sense as stable vessel for spiritual sense)'
+    - target: SWED-097
+      type: develops
+      note: Doc frames Exile as historical conduit within correspondences framework.
+    - target: SWED-041
+      type: develops
+      note: Anchors Zoroastrian menog/getig ontology concept under Doctrine of Correspondences
+        (per Tracing Ancient Correspondence Knowledge).
+    - target: SWED-098
+      type: develops
+      note: Anchors Zoroastrian beneficent/khrafstra taxonomy concept under Doctrine
+        of Correspondences.
   SWED-002:
-    confidence: 0.506
+    confidence: 0.667
     created: 2024-12-27
     definition: 'The continuous flow of divine love and wisdom from the Lord into
       creation, operating through the spiritual world into the natural. Influx adapts
@@ -3434,7 +3460,7 @@ nodes:
       type: develops
       note: Vastation develops from World of Spirits
   SWED-004:
-    confidence: 0.3
+    confidence: 0.765
     created: 2024-12-27
     definition: 'A lost universal scripture predating the Hebrew Bible, written entirely
       in correspondences. Genesis 1-11 contains fragments of this Ancient Word as
@@ -3478,6 +3504,12 @@ nodes:
       type: parallels
       note: 'Doc 4: deep-time mnemonic/symbolic systems are presented as external
         analogs that align with (and thus parallel) Swedenborg''s Ancient Word hypothesis.'
+    - target: EARLY-008
+      type: integrates_into
+      note: Magi synthesis draws on Ancient Word / lost correspondences framing.
+    - target: EARLY-006
+      type: integrates_into
+      note: Magi tradition synthesis draws on Ancient Word framing.
   SWED-005:
     confidence: 0.3
     created: 2024-12-27
@@ -4654,7 +4686,7 @@ nodes:
     id: BIBL-019
     connections: []
   BIBL-020:
-    confidence: 0.3
+    confidence: 0.422
     created: 2025-12-27
     definition: 'Rules of thumb developed by Historical-Critical scholars to identify
       sayings/events more likely to be historical than later church creations. Key
@@ -8497,7 +8529,16 @@ nodes:
     trace_status: partial
     updated: '2026-01-10'
     id: EARLY-008
-    connections: []
+    connections:
+    - target: SWED-004
+      type: integrated_from
+      note: Magi synthesis draws on Ancient Word / lost correspondences framing.
+    - target: SWED-041
+      type: integrated_from
+      note: Magi synthesis presupposes menog/getig-style correspondence ontology.
+    - target: SWED-097
+      type: integrated_from
+      note: Magi synthesis uses exile/Daniel transmission mechanism.
   EARLY-010:
     confidence: 0.765
     confidence_factors:
@@ -8757,7 +8798,7 @@ nodes:
       note: Philological evidence for Zedek as a deity supports the historical-critical
         stratum in this hypothesis.
   EARLY-015:
-    confidence: 0.3
+    confidence: 0.693
     created: 2024-12-28
     definition: 'Walter Bauer''s thesis that in many early Christian regions (Egypt,
       Edessa, Asia Minor), what was later labeled "heresy" (Gnosticism, Marcionism)
@@ -9891,7 +9932,7 @@ nodes:
       note: Enochic Animal Apocalypse bull symbolism provides one side of the comparative
         parallel
   MYTH-007:
-    confidence: 0.3
+    confidence: 0.787
     created: 2024-12-27
     definition: 'The hypothesis that monotheism (belief in a single High God/Creator)
       was humanity''s original religious orientation, with polytheism and animism
@@ -11092,7 +11133,7 @@ nodes:
         to archangel crystallization
     trace_status: untraced
   SWED-006:
-    confidence: 0.3
+    confidence: 0.595
     created: 2024-12-27
     definition: 'The primordial spiritual state of humanity characterized by direct
       internal perception of divine truth. "Celestial men" who thought in correspondences
@@ -11205,7 +11246,7 @@ nodes:
       note: The Fall-into-language framing provides the concept-level container for
         the Cognitive Fall hypothesis.
   SWED-017:
-    confidence: 0.3
+    confidence: 0.75
     created: 2024-12-27
     definition: 'The providential mechanism by which Divine Influx guides human history
       to create ''vessels'' capable of holding spiritual truth. As humanity ''fell''
@@ -12199,7 +12240,11 @@ nodes:
 
       - Bundahishn''s non-narrative structure implies written antecedent'
     id: SWED-083
-    connections: []
+    connections:
+    - target: SWED-096
+      type: supports
+      note: Doc argues encyclopedic taxonomies imply writing; supports Bundahishn-as-written-summary
+        thesis.
     trace_status: untraced
   SWED-084:
     domain: SWED
@@ -12423,7 +12468,11 @@ nodes:
 
       - Greek science flourished post-conquest with new Persian data'
     id: SWED-087
-    connections: []
+    connections:
+    - target: SWED-042
+      type: supports
+      note: Doc mentions scientific corpus translated/accessible to Greeks; supports
+        conquest/dispersion motif.
     trace_status: untraced
   SWED-088:
     domain: SWED
@@ -12536,7 +12585,10 @@ nodes:
 
       - Mathematical parameters require written medium for transmission'
     id: SWED-089
-    connections: []
+    connections:
+    - target: SWED-043
+      type: supports
+      note: Doc frames Daniel trained in Chaldean learning; supports integration premise.
     trace_status: untraced
   BIBL-011:
     confidence: 0.497
@@ -18474,7 +18526,17 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: SWED-041
-    connections: []
+    connections:
+    - target: EARLY-008
+      type: integrates_into
+      note: Magi synthesis presupposes menog/getig-style correspondence ontology.
+    - target: EARLY-006
+      type: integrates_into
+      note: Magi tradition synthesis presupposes menog/getig correspondence ontology.
+    - target: SWED-001
+      type: developed_by
+      note: Anchors Zoroastrian menog/getig ontology concept under Doctrine of Correspondences
+        (per Tracing Ancient Correspondence Knowledge).
   SWED-042:
     confidence: 0.9
     created: 2025-12-29
@@ -18725,8 +18787,12 @@ nodes:
       type: parallels
       note: Both treat Bundahišn as preserving Damdat Nask content after canonical
         rupture.
+    - target: SWED-087
+      type: supported_by
+      note: Doc mentions scientific corpus translated/accessible to Greeks; supports
+        conquest/dispersion motif.
   SWED-043:
-    confidence: 0.831
+    confidence: 0.88
     created: 2025-12-29
     definition: 'The historical-theological significance of Daniel''s position as
       RAB-HARTUMMIN  (Chief of the Magicians/Scribes) and RAB-SIGNĪN (Chief Prefect)
@@ -18872,13 +18938,20 @@ nodes:
     status: validated
     title: Daniel as Rab-hartummin (Prophetic-Sapiential Synthesis)
     trace_status: complete
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     id: SWED-043
     connections:
     - target: SWED-079
       type: supported_by
       note: 'Doc 3: Daniel''s Rab-mag/Rab-hartummin role transmits messianic prophecy
         into Magian archives, supporting the Prophetic-Sapiential Synthesis hypothesis.'
+    - target: SWED-097
+      type: developed_by
+      note: Doc frames Daniel’s exilic role (Rab-hartummin / chief of magicians; Rab-signin
+        / chief prefect) within Exile-as-conduit.
+    - target: SWED-089
+      type: supported_by
+      note: Doc frames Daniel trained in Chaldean learning; supports integration premise.
   SWED-044:
     confidence: 0.3
     created: 2026-01-02
@@ -20095,7 +20168,7 @@ nodes:
         Divine Bricolage.md
       note: Primary definition
     status: validated
-    confidence: 0.3
+    confidence: 0.422
     id: BIBL-029
     connections:
     - target: BIBL-043
@@ -20270,7 +20343,7 @@ nodes:
     connections:
     - target: SWED-096
       type: develops
-    confidence: 0.3
+    confidence: 0.732
   SWED-096:
     domain: SWED
     node_type: hypothesis
@@ -20302,7 +20375,11 @@ nodes:
       type: parallels
       note: Both treat Bundahišn as preserving Damdat Nask content after canonical
         rupture.
-    confidence: 0.831
+    - target: SWED-083
+      type: supported_by
+      note: Doc argues encyclopedic taxonomies imply writing; supports Bundahishn-as-written-summary
+        thesis.
+    confidence: 0.861
   MYTH-037:
     domain: MYTH
     node_type: hypothesis
@@ -20440,7 +20517,7 @@ nodes:
       type: develops
       note: the cultural-memory reading of flood narratives is a specific hypothesis
         within Genesis 1–11 comparative context.
-    confidence: 0.3
+    confidence: 0.752
   BIBL-039:
     domain: BIBL
     node_type: hypothesis
@@ -20802,7 +20879,7 @@ nodes:
         movement synthesis.
     created: '2026-01-11'
     updated: '2026-01-11'
-    confidence: 0.3
+    confidence: 0.765
   EARLY-037:
     domain: EARLY
     node_type: hypothesis
@@ -20874,7 +20951,7 @@ nodes:
       type: develops
       note: Calendar boundary-marker concept develops the specific hypothesis about
         the revealed 364-day system as an authority claim.
-    confidence: 0.3
+    confidence: 0.706
   MYTH-039:
     domain: MYTH
     node_type: hypothesis
@@ -20906,4 +20983,438 @@ nodes:
       note: 'Doc 2 evidence: Enochic 364-day calendar is framed as revealed and adopted
         as a sectarian identity/authority marker (Qumran).'
     confidence: 0.831
+  SWED-097:
+    domain: SWED
+    node_type: concept
+    status: preliminary
+    title: Babylonian Exile as Conduit for Correspondences Knowledge
+    definition: 'The document frames the Babylonian Exile as a key historical conduit
+      by which Jewish elites came into sustained contact with Magian/Chaldean intellectual
+      traditions, enabling the absorption and reframing of correspondential sign-reading
+      and cosmological taxonomies within post-exilic Judaism.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+      note: 'Sections V and conclusion: Exile as transmission pivot (Daniel, P source).'
+    trace_status: complete
+    id: SWED-097
+    connections:
+    - target: SWED-001
+      type: developed_by
+      note: Doc frames Exile as historical conduit within correspondences framework.
+    - target: SWED-043
+      type: develops
+      note: Doc frames Daniel’s exilic role (Rab-hartummin / chief of magicians; Rab-signin
+        / chief prefect) within the Exile-as-conduit mechanism.
+    - target: EARLY-008
+      type: integrates_into
+      note: Magi synthesis uses exile/Daniel transmission mechanism.
+    - target: EARLY-006
+      type: integrates_into
+      note: Magi tradition synthesis uses exile-as-conduit concept.
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    confidence: 0.748
+  SWED-098:
+    domain: SWED
+    node_type: concept
+    status: preliminary
+    title: Beneficent vs. Noxious (Gospend/Khrafstra) Taxonomy
+    definition: 'Zoroastrian natural history is described as distinguishing beneficent
+      creations (gospend) from noxious creatures (khrafstra) within a broader classification
+      of animal kinds.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+      note: 'Section II: Bundahishn/Vendidad taxonomy discussion.'
+    trace_status: complete
+    id: SWED-098
+    connections:
+    - target: BIBL-049
+      type: parallels
+      note: Doc claims overlap between clean/unclean and beneficent/khrafstra taxonomies.
+    - target: SWED-001
+      type: developed_by
+      note: Anchors Zoroastrian beneficent/khrafstra taxonomy concept under Doctrine
+        of Correspondences.
+    - target: SWED-099
+      type: develops
+      note: Taxonomy concept is refined into a claim about correspondential moral
+        alignment.
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    confidence: 0.566
+  BIBL-045:
+    domain: BIBL
+    node_type: concept
+    status: preliminary
+    title: Heavenly Archetype and Earthly Copy (Tabernacle Typology)
+    definition: 'The Tabernacle/Temple is interpreted as an earthly pattern corresponding
+      to a heavenly archetype, so that ritual structures function as copies or shadows
+      of spiritual realities rather than as self-contained ends.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+      note: Section IV (Tabernacle microcosm) and Section VI (Hebrews shadow/reality).
+    trace_status: complete
+    id: BIBL-045
+    connections:
+    - target: BIBL-001
+      type: developed_by
+      note: Adds tabernacle archetype/copy concept treated in this document.
+    - target: BIBL-046
+      type: develops
+      note: Doc claims sanctuary+Hebrews encode copy/shadow-to-reality ontology.
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    confidence: 0.643
+  BIBL-046:
+    domain: BIBL
+    node_type: hypothesis
+    status: preliminary
+    title: Priestly Sanctuary + Hebrews Encode Copy/Shadow-to-Reality Ontology
+    definition: 'The Priestly Tabernacle pattern and Hebrews’ copy-and-shadow language
+      jointly reflect a correspondence ontology in which material forms are valid
+      but derivative vessels of heavenly realities.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+      note: Tabernacle microcosm argument and Hebrews 8:5 / 10:1 framing.
+    trace_status: complete
+    id: BIBL-046
+    connections:
+    - target: BIBL-045
+      type: developed_by
+      note: Doc claims sanctuary+Hebrews encode copy/shadow-to-reality ontology.
+    - target: BIBL-047
+      type: supported_by
+      note: Heb 8:5; 10:1 provide explicit copy/shadow framing.
+    - target: BIBL-048
+      type: supported_by
+      note: Ex 25:40 supplies the pattern/archetype premise used in tabernacle argument.
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    confidence: 0.757
+  BIBL-047:
+    domain: BIBL
+    node_type: evidence
+    status: preliminary
+    title: 'Hebrews: Copy and Shadow vs. True Form (Heb 8:5; 10:1)'
+    definition: 'Hebrews states that the earthly sanctuary and the Law are a copy
+      and shadow of what is in heaven and a shadow of good things to come rather than
+      the true form of these realities, explicitly contrasting derivative ritual forms
+      with heavenly substance.
+
+      '
+    source_chain:
+    - type: P
+      ref: Hebrews 8:5; Hebrews 10:1
+      note: Primary textual basis for shadow/archetype ontology.
+    - type: T
+      ref: data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+      note: 'Section VI: Hebrews as explicit correspondence articulation.'
+    trace_status: complete
+    id: BIBL-047
+    connections:
+    - target: BIBL-046
+      type: supports
+      note: Heb 8:5; 10:1 provide explicit copy/shadow framing.
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    confidence_factors:
+      source_type: external
+      methodology: textual_critical
+      sample_size: na
+      replication: na
+      peer_review: primary_text
+      source_chain_quality: primary_verified
+    confidence: 0.727
+  BIBL-048:
+    domain: BIBL
+    node_type: evidence
+    status: preliminary
+    title: Tabernacle Built to a Heavenly Pattern (Exodus 25:40)
+    definition: 'Exodus frames the Tabernacle as constructed according to a divinely
+      shown pattern, supporting an archetype-to-copy logic later made explicit in
+      Hebrews’ shadow/reality language.
+
+      '
+    source_chain:
+    - type: P
+      ref: Exodus 25:40
+      note: Primary textual basis for tabnit/pattern framing.
+    - type: T
+      ref: data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+      note: 'Section IV: Tabernacle as microcosm built to heavenly pattern.'
+    trace_status: complete
+    id: BIBL-048
+    connections:
+    - target: BIBL-046
+      type: supports
+      note: Ex 25:40 supplies the pattern/archetype premise used in tabernacle argument.
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    confidence_factors:
+      source_type: external
+      methodology: textual_critical
+      sample_size: na
+      replication: na
+      peer_review: primary_text
+      source_chain_quality: primary_verified
+    confidence: 0.727
+  BIBL-049:
+    domain: BIBL
+    node_type: concept
+    status: preliminary
+    title: Clean/Unclean Taxonomy as Ritual Semiotics (Leviticus 11)
+    definition: 'In this document, Leviticus 11’s clean/unclean classifications are
+      treated as a symbolic taxonomy that encodes order, boundaries, and holiness
+      (a ritual semiotics), rather than being reduced to hygiene alone.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+      note: 'Section IV: Leviticus 11 framed as correspondence-based purity taxonomy.'
+    trace_status: complete
+    id: BIBL-049
+    connections:
+    - target: BIBL-001
+      type: developed_by
+      note: Adds purity taxonomy (Leviticus 11) concept treated in this document.
+    - target: BIBL-050
+      type: develops
+      note: Doc interprets purity laws as correspondence-based taxonomy of order/disorder.
+    - target: SWED-098
+      type: parallels
+      note: Doc claims overlap between clean/unclean and beneficent/khrafstra taxonomies.
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    confidence: 0.618
+  BIBL-050:
+    domain: BIBL
+    node_type: hypothesis
+    status: preliminary
+    title: Purity Laws as Correspondence Taxonomy (Clean/Unclean ↔ Order/Disorder)
+    definition: 'The document interprets the purity system as mapping animal categories
+      to order/disorder boundary markers, with clean/unclean functioning as a correspondence
+      taxonomy of holiness. It also draws a parallel to Zoroastrian beneficent/noxious
+      classification (tracked separately via explicit parallels connections).
+
+      '
+    source_chain:
+    - type: T
+      ref: data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+      note: 'Section IV: Douglas + khrafstra comparison; purity as semiotic system.'
+    trace_status: complete
+    id: BIBL-050
+    connections:
+    - target: BIBL-049
+      type: developed_by
+      note: Doc interprets purity laws as correspondence-based taxonomy of order/disorder.
+    - target: BIBL-051
+      type: supported_by
+      note: Leviticus 11 provides the textual classification substrate.
+    - target: BIBL-052
+      type: supported_by
+      note: Douglas provides a secondary theoretical grounding for reading purity
+        rules as boundary-maintenance taxonomy.
+    - target: SWED-099
+      type: parallels
+      note: Doc draws a parallel between Levitical purity taxonomy (clean/unclean)
+        and Zoroastrian beneficent/noxious classification as correspondence taxonomies.
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    confidence: 0.727
+  BIBL-051:
+    domain: BIBL
+    node_type: evidence
+    status: preliminary
+    title: 'Leviticus 11: Clean/Unclean Classification Rules'
+    definition: 'Leviticus 11 defines clean vs. unclean categories across land, sea,
+      and air creatures, and includes explicit restrictions on creeping things that
+      creep upon the earth (Lev 11:41–42), providing the textual substrate for ritual
+      taxonomy claims.
+
+      '
+    source_chain:
+    - type: P
+      ref: Leviticus 11
+      note: 'Key sub-sections: land (11:2–8), water (11:9–12), birds/flying creatures
+        (11:13–23), earth-creeping things (11:41–47).'
+    - type: T
+      ref: data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+      note: 'Section IV: Leviticus 11 as taxonomy of holiness.'
+    trace_status: complete
+    id: BIBL-051
+    connections:
+    - target: BIBL-050
+      type: supports
+      note: Leviticus 11 provides the textual classification substrate.
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    confidence_factors:
+      source_type: external
+      methodology: textual_critical
+      sample_size: na
+      replication: na
+      peer_review: primary_text
+      source_chain_quality: primary_verified
+    confidence: 0.727
+  SWED-099:
+    domain: SWED
+    node_type: hypothesis
+    status: preliminary
+    title: Zoroastrian Beneficent/Khrafstra Classification as Correspondence Taxonomy
+    definition: 'The Zoroastrian distinction between beneficent creatures and khrafstra
+      is treated as a practical correspondence taxonomy, mapping animal kinds and
+      behaviors to spiritual order (Asha) versus disorder (Druj).
+
+      '
+    source_chain:
+    - type: T
+      ref: data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+      note: 'Section II: beneficent vs. khrafstra classification presented as correspondential
+        moral taxonomy.'
+    trace_status: complete
+    id: SWED-099
+    connections:
+    - target: SWED-098
+      type: developed_by
+      note: Taxonomy concept is refined into a claim about correspondential moral
+        alignment.
+    - target: SWED-100
+      type: supported_by
+      note: Bundahishn ch. 14–17 taxonomy provides textual witness for beneficent
+        vs. khrafstra classification.
+    - target: SWED-101
+      type: supported_by
+      note: Bundahišn describes noxious creatures diffused by Ahriman; supports the
+        noxious-creature classification aspect of the correspondence taxonomy claim.
+    - target: BIBL-050
+      type: parallels
+      note: Doc draws a parallel between Levitical purity taxonomy (clean/unclean)
+        and Zoroastrian beneficent/noxious classification as correspondence taxonomies.
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    confidence: 0.666
+  SWED-100:
+    domain: SWED
+    node_type: evidence
+    status: preliminary
+    title: 'Bundahišn: Fivefold Animal Taxonomy (Chapter 14)'
+    definition: 'The Bundahišn preserves a fivefold classification of animals (gospend)
+      and an extensive listing of animal kinds, providing a textual witness for the
+      document’s claim that Zoroastrian natural history organizes beings via a structured
+      taxonomy.
+
+      '
+    source_chain:
+    - type: W
+      ref: https://www.avesta.org/pahlavi/bund14.html
+      note: Bundahišn chapter 14 (E. W. West translation hosted at Avesta.org) contains
+        the animal taxonomy discussed in the document.
+    - type: T
+      ref: data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+      note: Section II cites Bundahišn to describe animal taxonomy; moral noxious-creature
+        claims are treated separately.
+    trace_status: partial
+    id: SWED-100
+    connections:
+    - target: SWED-099
+      type: supports
+      note: Bundahishn ch. 14–17 taxonomy provides textual witness for beneficent
+        vs. khrafstra classification.
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    confidence_factors:
+      source_type: external
+      methodology: textual_critical
+      sample_size: na
+      replication: na
+      peer_review: primary_text
+      source_chain_quality: web
+    confidence: 0.636
+  SWED-101:
+    domain: SWED
+    node_type: evidence
+    status: preliminary
+    title: 'Bundahišn: Noxious Creatures Diffused by Ahriman (Ch. 3)'
+    definition: 'Bundahišn describes Ahriman’s assault on creation as accompanied
+      by the diffusion of biting and venomous noxious creatures (e.g., snake, scorpion,
+      frog, lizard), grounding the document’s claim that certain creatures are associated
+      with destructive spiritual agency in Zoroastrian cosmology.
+
+      '
+    source_chain:
+    - type: W
+      ref: https://history.hanover.edu/courses/excerpts/260bun.html
+      note: Bundahišn excerpt (Chapter 3, esp. 3:15) describes noxious creatures spread
+        by Ahriman.
+    - type: T
+      ref: data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+      note: 'Section II: noxious creatures associated with Ahrimanic counter-creation.'
+    trace_status: partial
+    id: SWED-101
+    connections:
+    - target: SWED-099
+      type: supports
+      note: Bundahišn describes noxious creatures diffused by Ahriman; supports the
+        noxious-creature classification aspect of the correspondence taxonomy claim.
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    confidence_factors:
+      source_type: external
+      methodology: textual_critical
+      sample_size: na
+      replication: na
+      peer_review: primary_text
+      source_chain_quality: web
+    confidence: 0.636
+  BIBL-052:
+    domain: BIBL
+    node_type: evidence
+    status: preliminary
+    title: 'Mary Douglas: Holiness as Wholeness and Category Anomaly (Purity and Danger)'
+    definition: 'Mary Douglas argues that purity systems often encode symbolic order
+      through boundary maintenance; in her analysis of Leviticus, “holiness” is associated
+      with wholeness and conformity to class, and animals that breach categorical
+      expectations become markers of impurity.
+
+      '
+    source_chain:
+    - type: S
+      ref: 'Mary Douglas, Purity and Danger: An Analysis of Concepts of Pollution
+        and Taboo (1966)'
+      note: Structuralist account of purity as boundary maintenance; often applied
+        to Leviticus 11.
+    - type: T
+      ref: data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md
+      note: Section IV references Douglas to interpret Leviticus 11 as classification/boundary
+        system.
+    trace_status: partial
+    id: BIBL-052
+    connections:
+    - target: BIBL-050
+      type: supports
+      note: Douglas provides a secondary theoretical grounding for reading purity
+        rules as boundary-maintenance taxonomy.
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    confidence_factors:
+      source_type: external
+      methodology: theoretical
+      sample_size: na
+      replication: na
+      peer_review: peer_reviewed_book
+      source_chain_quality: primary_unverified
+    confidence: 0.555
 untraced: []

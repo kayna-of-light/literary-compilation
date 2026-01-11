@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 12:36*
+*Last exported: 2026-01-11 12:41*
 
 ---
 

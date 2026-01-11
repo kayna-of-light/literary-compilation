@@ -769,6 +769,10 @@ nodes:
     - target: CROSS-028
       type: contrasts
       note: Constantinian Shift triggers Silent Movements as counter-response
+    - target: EARLY-015
+      type: parallels
+      note: Frames orthodoxy formation as an institutional/imperial consolidation
+        process that anticipates the later Constantinian church-state fusion.
     confidence: 0.3
     critic_notes:
       last_reviewed: '2026-01-10'
@@ -1461,7 +1465,10 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: EARLY-018
-    connections: []
+    connections:
+    - target: EARLY-032
+      type: supports
+      note: Bauer/Ehrman thesis evidence supports the displacement hypothesis.
     confidence: 0.815
   GNOS-017:
     confidence_factors:
@@ -2726,6 +2733,10 @@ nodes:
       type: develops
       note: Frames Paul as a concrete instantiation of the gnostic impulse’s epistemic/cosmological/anthropological
         mechanics
+    - target: EARLY-015
+      type: parallels
+      note: Both examine early gnostic/Marcionite forms and the gnosis-vs-obedience
+        tension; EARLY-015 adds the institutional displacement frame.
   GNOS-002:
     confidence: 0.3
     created: 2024-12-27
@@ -8584,7 +8595,19 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: EARLY-014
-    connections: []
+    connections:
+    - target: EARLY-033
+      type: developed_by
+      note: This hypothesis synthesizes the divergent tradition-strata under the broader
+        Melchizedek legitimacy concept.
+    - target: EARLY-024
+      type: supported_by
+      note: 11Q13 demonstrates the sectarian/eskatological elevation of Melchizedek
+        described in this hypothesis.
+    - target: EARLY-025
+      type: supported_by
+      note: Philological evidence for Zedek as a deity supports the historical-critical
+        stratum in this hypothesis.
   EARLY-015:
     confidence: 0.3
     created: 2024-12-28
@@ -8628,7 +8651,19 @@ nodes:
     trace_status: complete
     updated: '2026-01-10'
     id: EARLY-015
-    connections: []
+    connections:
+    - target: EARLY-032
+      type: develops
+      note: This hypothesis operationalizes the Bauer-thesis concept by specifying
+        displacement mechanisms.
+    - target: GNOS-001
+      type: parallels
+      note: Both examine early gnostic/Marcionite forms and the gnosis-vs-obedience
+        tension; EARLY-015 adds the institutional displacement frame.
+    - target: EARLY-022
+      type: parallels
+      note: Frames orthodoxy formation as an institutional/imperial consolidation
+        process that anticipates the later Constantinian church-state fusion.
   EARLY-016:
     confidence: 0.3
     created: 2024-12-28
@@ -8818,7 +8853,11 @@ nodes:
 
       - Eschatological High Priest of final Jubilee atonement'
     id: EARLY-024
-    connections: []
+    connections:
+    - target: EARLY-014
+      type: supports
+      note: 11Q13 demonstrates the sectarian/eskatological elevation of Melchizedek
+        described in this hypothesis.
     trace_status: untraced
   EARLY-025:
     domain: EARLY
@@ -8869,7 +8908,11 @@ nodes:
 
       - Neo-Punic ''El qone aratz'' (Creator of earth) at Leptis Magna'
     id: EARLY-025
-    connections: []
+    connections:
+    - target: EARLY-014
+      type: supports
+      note: Philological evidence for Zedek as a deity supports the historical-critical
+        stratum in this hypothesis.
     trace_status: untraced
   EARLY-026:
     domain: EARLY
@@ -20241,4 +20284,58 @@ nodes:
       type: develops
       note: the pseudepigraphy/authorship hypothesis is a central claim within the
         Pastoral-authorship debate.
+  EARLY-032:
+    domain: EARLY
+    node_type: hypothesis
+    title: Roman Displacement of Early Heterodoxies
+    definition: 'The hypothesis that the Roman-aligned "Great Church" displaced locally
+      dominant early Christian heterodoxies (e.g., Marcionite, Basilidian/Valentinian,
+      Bardaisanite, Montanist) in regions such as Egypt, Edessa, and Asia Minor via
+      institutional mechanisms (patronage, excommunication, installation of aligned
+      bishops, and historiographic revision), later reinforced by imperial enforcement.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/Early Christianity_ Orthodoxy vs. Heresy.md
+      note: Forensic synthesis of the Bauer thesis and Roman consolidation mechanisms
+    status: preliminary
+    trace_status: partial
+    id: EARLY-032
+    connections:
+    - target: EARLY-018
+      type: supported_by
+      note: Bauer/Ehrman thesis evidence supports the displacement hypothesis.
+    - target: EARLY-015
+      type: developed_by
+      note: This hypothesis operationalizes the Bauer-thesis concept by specifying
+        displacement mechanisms.
+    created: '2026-01-11'
+    updated: '2026-01-11'
+  EARLY-033:
+    domain: EARLY
+    node_type: concept
+    title: Melchizedek as a Priestly Legitimacy Anchor
+    definition: 'Melchizedek functions as a cross-tradition anchor for debates about
+      priesthood, authority, and eschatological mediation: a minimal Genesis cameo
+      is expanded into divergent models (Bronze Age Canaanite priest-king, Second
+      Temple heavenly judge, rabbinic genealogical containment, and Christian typological/ontological
+      superiority to Levitical descent).
+
+      '
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/Melchizedek's Origins_ Biblical to Gnostic.md
+      note: Synthesis of historical-critical, sectarian, rabbinic, and Christian/Gnostic
+        trajectories
+    status: preliminary
+    trace_status: partial
+    id: EARLY-033
+    connections:
+    - target: EARLY-014
+      type: develops
+      note: This hypothesis synthesizes the divergent tradition-strata under the broader
+        Melchizedek legitimacy concept.
+    created: '2026-01-11'
+    updated: '2026-01-11'
 untraced: []

@@ -1723,7 +1723,7 @@ nodes:
       type: develops
       note: Adds purity taxonomy (Leviticus 11) concept treated in this document.
   BIBL-002:
-    confidence: 0.3
+    confidence: 0.735
     created: '2024-12-27'
     definition: 'The literary puzzle of explaining the relationship between Matthew,
       Mark, and Luke, given their extensive verbal agreements and disagreements. Dominant
@@ -2757,13 +2757,14 @@ nodes:
 
       '
     source_chain:
-    - note: Magi tradition analysis
-      ref: data/04_Early_Christian_History/The Luminous Science.md
-      type: T
+    - type: T
+      ref: data/04_Early_Christian_History/The Luminous Science_ A Re-examination
+        of the Magi.md
+      note: Magi tradition analysis (updated reference to processed file name).
     status: validated
     title: The Magi Tradition
     trace_status: partial
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     id: EARLY-006
     connections:
     - target: SWED-004
@@ -2775,6 +2776,14 @@ nodes:
     - target: SWED-097
       type: integrated_from
       note: Magi tradition synthesis uses exile-as-conduit concept.
+    - target: EARLY-049
+      type: integrated_from
+      note: Feeds Magi tradition synthesis with explicit remnant-preservation concept.
+    critic_notes:
+      last_reviewed: '2026-01-11'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   EARLY-007:
     confidence: 0.3
     created: 2024-12-27
@@ -3359,6 +3368,10 @@ nodes:
     - target: SWED-037
       type: develops
       note: SWED-037 operationalizes external triangulation for validating correspondences
+    - target: EARLY-049
+      type: develops
+      note: Doctrine of Correspondences grounds the remnant-confluence framing in
+        a correspondential hermeneutic.
   SWED-002:
     confidence: 0.667
     created: 2024-12-27
@@ -8623,7 +8636,7 @@ nodes:
     status: validated
     title: The Magi and the Science of Correspondences
     trace_status: partial
-    updated: '2026-01-10'
+    updated: '2026-01-11'
     id: EARLY-008
     connections:
     - target: SWED-004
@@ -8635,6 +8648,15 @@ nodes:
     - target: SWED-097
       type: integrated_from
       note: Magi synthesis uses exile/Daniel transmission mechanism.
+    - target: EARLY-049
+      type: integrated_from
+      note: Feeds the Magi synthesis with an explicit concept/hypothesis/evidence
+        chain.
+    critic_notes:
+      last_reviewed: '2026-01-11'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
   EARLY-010:
     confidence: 0.765
     confidence_factors:
@@ -21715,7 +21737,7 @@ nodes:
       critiques: []
       proof_breaking_open: 0
       detail_issues: 0
-    confidence: 0.3
+    confidence: 0.587
   EARLY-039:
     domain: EARLY
     node_type: hypothesis
@@ -21900,4 +21922,334 @@ nodes:
       note: Textual passages provide direct evidence for the phrasing the hypothesis
         treats as seedbed.
     confidence: 0.691
+  EARLY-043:
+    domain: EARLY
+    node_type: evidence
+    title: Greek 'mageia' semantic shift into 'magic'
+    definition: 'The document claims that the Greek term "mageia" (originally a neutral
+      descriptor for Magian religious/astral arts) underwent a semantic shift in the
+      Hellenistic/Roman period to mean "magic"/"sorcery" (manipulation of external
+      forces for worldly gain), functioning as a linguistic marker of cultural-religious
+      degradation of the Magi''s sacred science.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/The Luminous Science_ A Re-examination
+        of the Magi.md
+      note: Claims semantic shift as a marker of cultural and spiritual degradation.
+    - type: W
+      ref: https://www.etymonline.com/word/magic
+      note: Web etymology overview linking 'magic' to Magi/mageia. [TRACE NEEDED -
+        scholarly lexicon]
+    - type: W
+      ref: https://en.wikipedia.org/wiki/Magi
+      note: General overview; useful pointers but not a scholarly primary reference.
+    - type: W
+      ref: https://www.iranicaonline.org/articles/magophonia/
+      note: Iranica entry relevant to Magi/Magian categories. [TRACE NEEDED - confirm
+        relevance to mageia semantic shift]
+    notes: 'Evidence: - {''description'': ''Hellenistic-era linguistic shift: mageia
+      -> pejorative "magic/sorcery"'', ''strength'': ''preliminary''}
+
+      '
+    confidence_factors:
+      source_type: external
+      methodology: textual_critical
+      sample_size: na
+      replication: na
+      peer_review: na
+      source_chain_quality: web
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: EARLY-043
+    connections:
+    - target: EARLY-044
+      type: supports
+      note: Semantic shift evidence supports the perversion hypothesis.
+    critic_notes:
+      last_reviewed: '2026-01-11'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
+    confidence: 0.575
+  EARLY-044:
+    domain: EARLY
+    node_type: hypothesis
+    title: Hellenistic perversion of correspondential science into 'magic'
+    definition: 'The document hypothesizes that the Hellenistic cultural shift toward
+      externalized, rationalist, and power-oriented knowledge corresponded (spiritually)
+      to a loss of inner correspondential perception. As the inner sense was lost,
+      residual external practices were reinterpreted as superstition or instrumental
+      sorcery ("magic"), i.e., correspondential science degraded into manipulation
+      of externals.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/The Luminous Science_ A Re-examination
+        of the Magi.md
+      note: Frames Hellenistic rationalism and the semantic shift (mageia->magic)
+        as spiritual decline.
+    notes: 'Organizes the document''s claim that semantic shift mirrors spiritual
+      loss of the inner sense.
+
+      '
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: EARLY-044
+    connections:
+    - target: EARLY-043
+      type: supported_by
+      note: Semantic shift evidence supports the perversion hypothesis.
+    - target: EARLY-049
+      type: developed_by
+      note: Remnant-confluence concept organizes the Hellenistic perversion hypothesis.
+    critic_notes:
+      last_reviewed: '2026-01-11'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
+    confidence: 0.575
+  EARLY-045:
+    domain: EARLY
+    node_type: evidence
+    title: Arsacid/Parthian 'Iranian Revival' preservation of Magian tradition
+    definition: 'The document claims that under the Parthian (Arsacid) Empire a deliberate
+      Iranian cultural-religious revival promoted Zoroastrian identity (e.g., fire
+      cult emphasis) and supported preservation of Avestan/Zoroastrian tradition,
+      functioning as a historical vehicle for conserving fragments of ancient correspondential
+      knowledge.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/The Luminous Science_ A Re-examination
+        of the Magi.md
+      note: Claims Parthian/Arsacid revival preserved remnants of ancient wisdom and
+        heightened eschatological focus.
+    - type: W
+      ref: https://www.iranicaonline.org/articles/arsacids-iv/
+      note: 'Encyclopaedia Iranica: Arsacid religion overview.'
+    - type: W
+      ref: https://www.iranicaonline.org/articles/kingship-02-parthian-period/
+      note: 'Encyclopaedia Iranica: Parthian period kingship context.'
+    - type: W
+      ref: https://www.austriaca.at/0xc1aa5572%200x003bc8f8.pdf
+      note: PDF cited by the document. [PDF - manual verification needed]
+    notes: 'Evidence: - {''description'': ''Parthian/Arsacid era as Zoroastrian revival
+      and preservation context'', ''strength'': ''preliminary''}
+
+      '
+    confidence_factors:
+      source_type: external
+      methodology: observational
+      sample_size: na
+      replication: na
+      peer_review: na
+      source_chain_quality: web
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: EARLY-045
+    connections:
+    - target: EARLY-046
+      type: supports
+      note: Arsacid/Parthian revival context supports the providential-preparation
+        hypothesis.
+    critic_notes:
+      last_reviewed: '2026-01-11'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
+    confidence: 0.612
+  EARLY-046:
+    domain: EARLY
+    node_type: hypothesis
+    title: Parthian revival as providential preparation for Incarnation
+    definition: 'The document hypothesizes that the Parthian/Arsacid Iranian revival
+      functioned providentially to gather and protect remaining spiritual truths (remnants)
+      within the Magian tradition, sustaining eschatological focus and readiness for
+      prophetic fulfillment leading into the Nativity era.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/The Luminous Science_ A Re-examination
+        of the Magi.md
+      note: Interprets Arsacid religious policy as a providential preservation of
+        remnants.
+    notes: 'Interprets Parthian policy as a spiritual mechanism (remnant-preservation)
+      rather than merely politics.
+
+      '
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: EARLY-046
+    connections:
+    - target: EARLY-045
+      type: supported_by
+      note: Arsacid/Parthian revival context supports the providential-preparation
+        hypothesis.
+    - target: EARLY-049
+      type: developed_by
+      note: Remnant-confluence concept includes the Parthian-preservation hypothesis
+        as one preservation stream.
+    critic_notes:
+      last_reviewed: '2026-01-11'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
+    confidence: 0.612
+  EARLY-047:
+    domain: EARLY
+    node_type: evidence
+    title: Essenes as separatist 'Sons of Light' remnant community
+    definition: 'The document claims that the Essene/Qumran movement functioned as
+      a remnant community within late Second Temple Judaism: separatist from a perceived-corrupt
+      Jerusalem cult, focused on purity and intensified scripture study, and oriented
+      by apocalyptic dualism ("Sons of Light" vs "Sons of Darkness").
+
+      '
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/The Luminous Science_ A Re-examination
+        of the Magi.md
+      note: Summarizes Essene/Qumran community as remnant keepers of internal truth.
+    - type: W
+      ref: https://www.pbs.org/wgbh/pages/frontline/shows/religion/portrait/essenes.html
+      note: PBS overview; accessible summary with pointers.
+    - type: W
+      ref: https://pages.charlotte.edu/john-reeves/course-materials/rels-4107/the-essene-hypothesis/
+      note: UNC Charlotte course page; secondary overview. [TRACE NEEDED - primary
+        scholarship]
+    - type: W
+      ref: https://en.wikipedia.org/wiki/Essenes
+      note: General overview; useful pointers but not a scholarly reference.
+    notes: 'Evidence: - {''description'': ''Essenes/Qumran as purity-focused separatist
+      group with apocalyptic dualism (Sons of Light/Darkness)'', ''strength'': ''preliminary''}
+
+      '
+    confidence_factors:
+      source_type: external
+      methodology: observational
+      sample_size: na
+      replication: na
+      peer_review: na
+      source_chain_quality: web
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: EARLY-047
+    connections:
+    - target: EARLY-048
+      type: supports
+      note: Essene/Qumran remnant profile supports the parallel-remnant hypothesis.
+    critic_notes:
+      last_reviewed: '2026-01-11'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
+    confidence: 0.612
+  EARLY-048:
+    domain: EARLY
+    node_type: hypothesis
+    title: Magi and Essenes as parallel remnant-keepers of inner sense
+    definition: 'The document hypothesizes that the Magi (in Persian/Zoroastrian channels)
+      and the Essenes (in Judean/Qumran channels) functioned as parallel "remnant"
+      vessels preserving fragments of inner-sense/correspondential interpretation
+      during a period of institutional corruption and spiritual decline, enabling
+      recognition of the Nativity signs when they appeared.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/The Luminous Science_ A Re-examination
+        of the Magi.md
+      note: Proposes Magi-Essene parallel as providential remnant mechanism.
+    notes: 'Treat as a suggestive parallel (not demonstrated genealogically) unless
+      supported by additional evidence.
+
+      '
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: EARLY-048
+    connections:
+    - target: EARLY-047
+      type: supported_by
+      note: Essene/Qumran remnant profile supports the parallel-remnant hypothesis.
+    - target: EARLY-049
+      type: developed_by
+      note: Remnant-confluence concept includes the Magi/Essenes parallel-remnant
+        hypothesis.
+    critic_notes:
+      last_reviewed: '2026-01-11'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
+    confidence: 0.612
+  EARLY-049:
+    domain: EARLY
+    node_type: concept
+    title: Remnant preservation and providential confluence at the Nativity
+    definition: 'The document frames the Magi narrative as a providential confluence
+      of remnant wisdom-streams (Persian Magian tradition and Judean sectarian/prophetic
+      currents) in which preserved fragments of correspondential interpretation enabled
+      recognition of the Incarnation signs (star, gifts, worship) as the terminal
+      act of the Ancient Church handing off to the nascent Christian dispensation.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/04_Early_Christian_History/The Luminous Science_ A Re-examination
+        of the Magi.md
+      note: Mints the remnant-confluence framing for the Magi narrative.
+    notes: 'Concept-level integration target for Magi/Essenes remnant hypotheses;
+      designed to feed Magi syntheses.
+
+      '
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-11'
+    updated: '2026-01-11'
+    id: EARLY-049
+    connections:
+    - target: EARLY-044
+      type: develops
+      note: Remnant-confluence concept organizes the Hellenistic perversion hypothesis.
+    - target: EARLY-046
+      type: develops
+      note: Remnant-confluence concept includes the Parthian-preservation hypothesis
+        as one preservation stream.
+    - target: EARLY-048
+      type: develops
+      note: Remnant-confluence concept includes the Magi/Essenes parallel-remnant
+        hypothesis.
+    - target: SWED-001
+      type: developed_by
+      note: Doctrine of Correspondences grounds the remnant-confluence framing in
+        a correspondential hermeneutic.
+    - target: EARLY-008
+      type: integrates_into
+      note: Feeds the Magi synthesis with an explicit concept/hypothesis/evidence
+        chain.
+    - target: EARLY-006
+      type: integrates_into
+      note: Feeds Magi tradition synthesis with explicit remnant-preservation concept.
+    critic_notes:
+      last_reviewed: '2026-01-11'
+      critiques: []
+      proof_breaking_open: 0
+      detail_issues: 0
+    confidence: 0.52
 untraced: []

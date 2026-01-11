@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-11 07:11*
+*Last exported: 2026-01-11 07:17*
 
 ---
 
@@ -10,20 +10,20 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Nodes | 345 |
-| Total Connections | 232 |
+| Total Nodes | 347 |
+| Total Connections | 242 |
 | Untraced Claims | 0 |
 
 ### By Status
 
-- **preliminary**: 64
+- **preliminary**: 66
 - **validated**: 274
 - **contested**: 7
 
 ### By Domain
 
 - **Biblical Scholarship** (BIBL): 33
-- **Consciousness Studies** (CONSC): 99
+- **Consciousness Studies** (CONSC): 101
 - **Cross-Domain** (CROSS): 39
 - **Early Christian History** (EARLY): 30
 - **The Gnostic Impulse** (GNOS): 26
@@ -556,6 +556,9 @@
 2. [E] NDERF/IANDS datasets
 3. [T] data/01_Consciousness_Studies/NDE Entity Roles and Correspondential Validation.md
 
+**Connections**:
+- → `CONSC-116` (supports): Entity-role cross-tabulation supports differentiated functional roles (ecosystem)
+
 ---
 
 #### [CONSC-045] Correspondential Principle: Empirical Validation from NDE Data
@@ -570,6 +573,9 @@
 2. [E] NDERF/IANDS datasets
 3. [T] data/01_Consciousness_Studies/NDE Entity Roles and Correspondential Validation.md
 4. [P] Swedenborg, Heaven and Hell §§ 87-115
+
+**Connections**:
+- → `CONSC-117` (supports): Cross-cultural and cross-form convergence supports constant-state/variable-form mapping
 
 ---
 
@@ -1469,6 +1475,8 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `CONSC-112` (develops): 
 - → `CONSC-001` (developed_by): 
+- → `CONSC-116` (develops): Tool-kit/modular framing: entity encounters show differentiated functional roles
+- → `CONSC-117` (develops): Modular/toolkit model: diverse imagery forms map onto stable functions/outcomes
 
 ---
 
@@ -1534,6 +1542,39 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 **Connections**:
 - → `CONSC-001` (developed_by): Grounded in CDE foundational framing (CONSC-001)
 - → `CONSC-014` (develops): Articulates proposed Stage-1 preparatory correlates within the volunteer-soul hypothesis
+
+---
+
+#### [CONSC-116] Entity Ecosystem Hypothesis (Differentiated Functional Roles)
+
+**Status**: preliminary | **Confidence**: 0.695
+
+> NDE entity encounters reflect a structured ecosystem in which being-types exhibit differentiated functional roles (e.g., relatives functioning more as return gatekeepers; higher-order beings more as guidance-givers presenting agency), rather than interchangeable appearances.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/NDE Entity Roles and Correspondential Validation.md
+
+**Connections**:
+- → `CONSC-111` (developed_by): Tool-kit/modular framing: entity encounters show differentiated functional roles
+- → `CONSC-044` (supported_by): Entity-role cross-tabulation supports differentiated functional roles (ecosystem)
+
+---
+
+#### [CONSC-117] Correspondential Mapping Hypothesis (Constant State, Variable Form)
+
+**Status**: preliminary | **Confidence**: 0.775
+
+> Across NDEs, culturally diverse imagery (passage types, light/being forms, religious identifications) maps to functionally equivalent experiential states and outcomes (belonging, guidance, return dynamics), indicating variable form with constant underlying state.
+
+
+**Source Chain**:
+1. [T] data/01_Consciousness_Studies/NDE Entity Roles and Correspondential Validation.md
+
+**Connections**:
+- → `CONSC-111` (developed_by): Modular/toolkit model: diverse imagery forms map onto stable functions/outcomes
+- → `SWED-035` (developed_by): Methodological framing: operationalizes correspondential validation as a falsifiable mapping from form to function
+- → `CONSC-045` (supported_by): Cross-cultural and cross-form convergence supports constant-state/variable-form mapping
 
 ---
 
@@ -1992,6 +2033,9 @@ The 'Master' (right) should lead; the 'Emissary' (left) should serve but has usu
 
 **Source Chain**:
 1. [T] data/02_Swedenborgian_Theology/Testing Swedenborg's Correspondences Empirically.md
+
+**Connections**:
+- → `CONSC-117` (develops): Methodological framing: operationalizes correspondential validation as a falsifiable mapping from form to function
 
 ---
 

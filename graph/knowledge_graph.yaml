@@ -391,7 +391,11 @@ nodes:
       type: develops
       note: 'Concept: anticipated judgment met with love; evidence refines into testable
         hypothesis'
-    confidence: 0.7
+    - target: CONSC-009
+      type: develops
+      note: Dogma Paradox reframes the 'expect judgment, find love' pattern as correction
+        of pre-existing religious expectations/dogma.
+    confidence: 0.73
     critic_notes:
       last_reviewed: '2026-01-09'
       critiques: []
@@ -427,7 +431,20 @@ nodes:
     - target: CONSC-107
       type: develops
       note: 'Concept: objective core encounter rendered through cultural labels'
-    confidence: 0.7
+    - target: CONSC-008
+      type: develops
+      note: Hypothesis extends the concept that objective NDE core elements transcend
+        culturally specific labels via a personality-match identification.
+    - target: CONSC-016
+      type: develops
+      note: Integrated hypothesis develops from the concept that core NDE encounter
+        properties are stable across cultural labels; adds the Jesus-identification
+        personality-match framing.
+    - target: CONSC-125
+      type: develops
+      note: Objective core elements concept develops into a testable cultural-priming
+        insufficiency hypothesis.
+    confidence: 0.825
     critic_notes:
       last_reviewed: '2026-01-09'
       critiques: []
@@ -2866,6 +2883,14 @@ nodes:
     - target: SWED-064
       type: develops
       note: Vastation develops from World of Spirits
+    - target: CONSC-124
+      type: develops
+      note: Anchor ineffability/expectation tension to post-mortem framework as used
+        in the synthesis.
+    - target: CONSC-131
+      type: develops
+      note: Anchor 'hell as state' integration concept to World of Spirits state-based
+        post-mortem framework.
   SWED-004:
     confidence: 0.765
     created: 2024-12-27
@@ -4463,6 +4488,15 @@ nodes:
     - target: CONSC-108
       type: supports
       note: 'Evidence: life review judgments overwhelmingly loving; aftereffects'
+    - target: CONSC-009
+      type: supports
+      note: Life review judgment data shows experiences commonly correct judgment
+        expectations toward love, aligning with the broader claim that NDE encounter
+        content can contradict prior religious expectation/dogma.
+    - target: CONSC-008
+      type: supports
+      note: Non-judgmental, loving life review statistics support the 'Being of Light'
+        personality profile emphasized in the personality-match identification thesis.
   CONSC-023:
     confidence: 0.792
     confidence_factors:
@@ -4555,7 +4589,7 @@ nodes:
     status: validated
     title: 'Being of Light: Singularity and Authority Statistics'
     trace_status: complete
-    updated: '2026-01-10'
+    updated: '2026-01-12'
     id: CONSC-023
     connections:
     - target: CONSC-107
@@ -4565,6 +4599,11 @@ nodes:
       type: supports
       note: 'Evidence: authority/guidance/teaching patterns align with benevolent
         corrective encounter'
+    - target: CONSC-008
+      type: supports
+      note: Singularity/authority findings (one transcendent entity across polytheist
+        backgrounds) support the thesis of an objective Being of Light consistent
+        with a single Divine Human framing.
   CONSC-024:
     confidence: 0.792
     confidence_factors:
@@ -5835,31 +5874,40 @@ nodes:
       - {''description'': ''2-year and 8-year follow-up showing lasting transformative
       effects'', ''strength'': ''strong''}'
     source_chain:
-    - note: Primary publication in high-impact peer-reviewed journal
+    - type: E
       ref: 'van Lommel, P., van Wees, R., Meyers, V., & Elfferich, I. (2001). Near-death
         experience in survivors of cardiac arrest: a prospective study in the Netherlands.
         The Lancet, 358(9298), 2039-2045. DOI: 10.1016/S0140-6736(01)07100-8'
-      type: E
-    - note: Full monograph expanding on Lancet findings
+      note: Primary publication in high-impact peer-reviewed journal
+    - type: S
       ref: 'van Lommel, P. Consciousness Beyond Life: The Science of the Near-Death
         Experience. HarperOne, 2010.'
-      type: S
-    - note: Framework analysis citing van Lommel findings on religious belief
-      ref: data/01_Consciousness_Studies/Pure Encounter or Cultural Construct.md
-      type: T
-    - note: Analysis of physiological parameter findings
+      note: Full monograph expanding on Lancet findings
+    - type: T
+      ref: data/01_Consciousness_Studies/Pure Encounter or Cultural Construct_ An
+        Analysis of the Identification of Jesus in Near-Death Experiences.md
+      note: Framework analysis citing van Lommel findings on religious belief
+    - type: T
       ref: data/01_Consciousness_Studies/Evaluating Dying Brain Hypothesis Critically.md
-      type: T
+      note: Analysis of physiological parameter findings
     status: validated
     title: 'van Lommel Lancet Study: 344 Cardiac Arrest Patients'
     trace_status: complete
-    updated: '2026-01-10'
+    updated: '2026-01-12'
     id: CONSC-078
     connections:
     - target: CONSC-043
       type: supports
       note: Prospective cardiac-arrest NDE study constrains physiological DBH mechanisms;
         used in DBH critique.
+    - target: CONSC-016
+      type: supports
+      note: Prospective Lancet study finding religious belief irrelevant supports
+        the claim that NDE content/identification is not reducible to prior belief/expectancy.
+    - target: CONSC-008
+      type: supports
+      note: Religious belief irrelevance (van Lommel) supports the non-projection
+        frame used by the Being-of-Light-as-Divine-Human hypothesis.
   CONSC-079:
     confidence: 0.883
     confidence_factors:
@@ -6254,6 +6302,10 @@ nodes:
       note: Cross-cultural invariance of the Loving Presence’s personality profile
         supports validating the Jesus Profile by phenomenology (personality match)
         rather than by culturally conditioned naming.
+    - target: CONSC-016
+      type: supports
+      note: Personality-profile invariance of the Being of Light across labels supports
+        the personality-match identification model summarized in CONSC-016.
     trace_status: untraced
   CROSS-036:
     domain: CROSS
@@ -16986,4 +17038,473 @@ nodes:
     created: '2026-01-11'
     updated: '2026-01-11'
     confidence: 0.86
+  CONSC-008:
+    domain: CONSC
+    node_type: hypothesis
+    title: Being of Light as Divine Human
+    definition: 'The "Being of Light" encountered in NDEs is identified not by visual
+      appearance but by unique personality: unconditional love, total acceptance,
+      non-judgment. This personality profile is a "perfect correspondence" to the
+      Gospel Jesus and Swedenborg''s Divine Human. Identification is "pure" (personality
+      match) not cultural projection.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Pure Encounter or Cultural Construct_ An
+        Analysis of the Identification of Jesus in Near-Death Experiences.md
+      note: Identification analysis
+    status: validated
+    trace_status: complete
+    created: '2024-12-27'
+    updated: '2026-01-12'
+    confidence: 0.9
+    notes: 'The "Unexpected Jesus" testimonies from non-Christians are strongest evidence
+      against cultural expectancy hypothesis.
+
+
+      Caveats:
+
+
+      - Selection bias concern: testimonies primarily from Christian conversion sources
+
+      - Japanese NDEs feature Being of Light WITHOUT personal identification or sense
+      of love
+
+      - The ''personality match'' may be sufficiently generic to fit multiple religious
+      figures
+
+      - Gospel Jesus also delivers judgment (parables, Gehenna)—selective Gospel reading
+      required
+
+      '
+    connections:
+    - target: CONSC-087
+      type: developed_by
+      note: Hypothesis extends the concept that objective NDE core elements transcend
+        culturally specific labels via a personality-match identification.
+    - target: CONSC-078
+      type: supported_by
+      note: Religious belief irrelevance (van Lommel) supports the non-projection
+        frame used by the Being-of-Light-as-Divine-Human hypothesis.
+    - target: CONSC-022
+      type: supported_by
+      note: Non-judgmental, loving life review statistics support the 'Being of Light'
+        personality profile emphasized in the personality-match identification thesis.
+    - target: CONSC-023
+      type: supported_by
+      note: Singularity/authority findings (one transcendent entity across polytheist
+        backgrounds) support the thesis of an objective Being of Light consistent
+        with a single Divine Human framing.
+    id: CONSC-008
+  CONSC-016:
+    domain: CONSC
+    node_type: hypothesis
+    title: The Personality Match Thesis (NDE Jesus Identification)
+    definition: 'A phenomenological model resolving the "pure identification vs. cultural
+      construct" debate in NDE research. The identification of Jesus in NDEs is neither
+      cultural projection nor mere iconography, but a "pure identification based on
+      a direct personality match." The "Being of Light" possesses a unique, consistent
+      personality: unconditional love, total awareness with total acceptance, non-judgmental
+      ("judgment had always been human; God only teaches"). This personality is a
+      perfect correspondence to the "Divine Human" of the Gospels. Crucially, the
+      "Dogma Paradox" suggests the experience is not cultural projection: the NDE-Jesus
+      consistently delivers a message of universal love that supersedes and contradicts
+      the exclusivist dogma of the experiencer''s background.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Pure Encounter or Cultural Construct_ An
+        Analysis of the Identification of Jesus in Near-Death Experiences.md
+      note: Comprehensive analysis
+    status: validated
+    trace_status: complete
+    created: '2024-12-28'
+    updated: '2026-01-12'
+    confidence: 0.9
+    notes: '"The ''Dogma Paradox'' is the key finding: if Jesus were cultural projection,
+      He would reflect the experiencer''s dogma.
+
+      Instead, NDE-Jesus consistently corrects dogma— delivering universal love against
+      exclusivist backgrounds.
+
+      Howard Pittman case: ''hellish'' NDE was judgment on ''faith alone'' dogma (proprium),
+      not contradiction of Love-path.
+
+      The 98% ''hell'' vision = correspondial view of proprium-dominated humanity,
+      not literal count.
+
+      Cross-cultural variation (Japanese lack of personified Light) may indicate selective
+      revelation, not absence of objective Being."
+
+
+      Caveats:
+
+
+      - Selection bias in reported cases (unusual encounters more likely published)
+
+      - Cross-cultural variation (Japanese NDEs lack personified Being of Light)
+
+      - Ineffability may allow post-hoc interpretation
+
+      '
+    connections:
+    - target: CONSC-087
+      type: developed_by
+      note: Integrated hypothesis develops from the concept that core NDE encounter
+        properties are stable across cultural labels; adds the Jesus-identification
+        personality-match framing.
+    - target: CONSC-078
+      type: supported_by
+      note: Prospective Lancet study finding religious belief irrelevant supports
+        the claim that NDE content/identification is not reducible to prior belief/expectancy.
+    - target: CROSS-035
+      type: supported_by
+      note: Personality-profile invariance of the Being of Light across labels supports
+        the personality-match identification model summarized in CONSC-016.
+    id: CONSC-016
+  CONSC-009:
+    domain: CONSC
+    node_type: hypothesis
+    title: The Dogma Paradox
+    definition: 'Finding that NDE-Jesus consistently delivers messages of universal
+      love that supersede and contradict exclusivist religious dogma. If the Jesus
+      figure were cultural projection, he should reflect experiencer''s dogma. Instead,
+      the experience corrects dogma—suggesting it is not projection but encounter
+      with transcendent personality.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Pure Encounter or Cultural Construct_ An
+        Analysis of the Identification of Jesus in Near-Death Experiences.md
+      note: Dogma Paradox analysis
+    status: validated
+    trace_status: complete
+    created: '2024-12-27'
+    updated: '2026-01-12'
+    confidence: 0.752
+    notes: 'Key finding: the raw experience of unconditional love overrides prior
+      dogmatic beliefs. Experience corrects doctrine, not vice versa.
+
+
+      Caveats:
+
+
+      - Argument structure is unfalsifiable: belief-confirmation = projection, belief-contradiction
+      = genuine
+
+      - Hellish NDE reinterpretation (Pittman) overrides experiencer''s own interpretation
+
+      - Selection bias in testimonies not adequately addressed
+
+      '
+    connections:
+    - target: CONSC-086
+      type: developed_by
+      note: Dogma Paradox reframes the 'expect judgment, find love' pattern as correction
+        of pre-existing religious expectations/dogma.
+    - target: CONSC-022
+      type: supported_by
+      note: Life review judgment data shows experiences commonly correct judgment
+        expectations toward love, aligning with the broader claim that NDE encounter
+        content can contradict prior religious expectation/dogma.
+    id: CONSC-009
+  CONSC-124:
+    domain: CONSC
+    node_type: concept
+    title: Ineffability Tension with Social-Expectation Accounts
+    definition: 'Concept that the ineffable, disruptive character of many NDE reports
+      (difficulty describing an unfamiliar event) sits in tension with simple social-expectation
+      models, which predict reporting in familiar, culturally scripted terms.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Pure Encounter or Cultural Construct_ An
+        Analysis of the Identification of Jesus in Near-Death Experiences.md
+      note: Kellehear ineffability argument referenced
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-12'
+    updated: '2026-01-12'
+    confidence: 0.57
+    notes: '[TRACE NEEDED] Identify and cite the specific Kellehear work being summarized.
+
+      '
+    id: CONSC-124
+    connections:
+    - target: SWED-003
+      type: developed_by
+      note: Anchor ineffability/expectation tension to post-mortem framework as used
+        in the synthesis.
+    - target: CONSC-125
+      type: develops
+      note: Ineffability tension motivates hypothesis that cultural priming is insufficient
+        for core NDE features.
+  CONSC-125:
+    domain: CONSC
+    node_type: hypothesis
+    title: Cultural Priming Insufficiency Hypothesis (NDE Core Features)
+    definition: 'Hypothesis that prevailing cultural narratives about NDEs can influence
+      vocabulary and interpretation, but do not substantially determine the presence/absence
+      of core NDE features; therefore cultural priming alone is insufficient to explain
+      NDE phenomenology.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Pure Encounter or Cultural Construct_ An
+        Analysis of the Identification of Jesus in Near-Death Experiences.md
+      note: Rebuttal section against cultural expectancy/priming
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-12'
+    updated: '2026-01-12'
+    confidence: 0.67
+    notes: 'This is narrower than CONSC-087/CONSC-107: it focuses specifically on
+      ''prevailing societal models''
+
+      (post-1975 NDE template) as insufficient to explain the stable feature-set.
+
+      '
+    id: CONSC-125
+    connections:
+    - target: CONSC-124
+      type: developed_by
+      note: Ineffability tension motivates hypothesis that cultural priming is insufficient
+        for core NDE features.
+    - target: CONSC-087
+      type: developed_by
+      note: Objective core elements concept develops into a testable cultural-priming
+        insufficiency hypothesis.
+    - target: CONSC-126
+      type: supported_by
+      note: 'Greyson (2007) as cited: feature stability pre/post cultural NDE model
+        supports insufficiency of cultural priming.'
+    - target: CONSC-129
+      type: supported_by
+      note: Kellehear ineffability argument (placeholder) supports critique of simple
+        expectation/priming accounts.
+  CONSC-126:
+    domain: CONSC
+    node_type: evidence
+    title: 'Athappilly, Greyson & Stevenson (2006): NDE Features Stable Pre/Post 1975
+      Model'
+    definition: 'Near-death experience (NDE) accounts collected before vs. after Moody''s
+      1975 popularization of a Western NDE "model" differed significantly only in
+      increased reports of tunnel phenomena; the remaining 14 characteristic features
+      showed no significant difference. This is used as evidence against strong cultural-priming
+      / socially-scripted reporting explanations for core NDE phenomenology.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Pure Encounter or Cultural Construct_ An
+        Analysis of the Identification of Jesus in Near-Death Experiences.md
+      note: Cites Greyson-related pre/post-1975 comparison as rebuttal to cultural
+        priming
+    - type: E
+      ref: 'Athappilly, Geena K.; Greyson, Bruce; Stevenson, Ian (2006). Do Prevailing
+        Societal Models Influence Reports of Near-Death Experiences? A Comparison
+        of Accounts Reported Before and After 1975. The Journal of Nervous and Mental
+        Disease, 194(3), 218–222. DOI: 10.1097/01.nmd.0000202513.65079.1e'
+      note: Abstract-accessible primary peer-reviewed source; compares 24 pre-1975
+        vs 24 post-1975 matched accounts
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-12'
+    updated: '2026-01-12'
+    confidence_factors:
+      source_type: external
+      methodology: observational
+      sample_size: small_10-99
+      replication: single_study
+      peer_review: peer_reviewed_journal
+      source_chain_quality: primary_verified
+    confidence: 0.67
+    notes: 'Verified bibliographic metadata and abstract-level result (only tunnel
+      differs; remaining 14 features do not). Full-text verification could further
+      specify which 15 Moody features were operationalized and the exact test statistics.
+
+      '
+    id: CONSC-126
+    connections:
+    - target: CONSC-125
+      type: supports
+      note: 'Greyson (2007) as cited: feature stability pre/post cultural NDE model
+        supports insufficiency of cultural priming.'
+  CONSC-127:
+    domain: CONSC
+    node_type: evidence
+    title: 'Pittman NDE: Hellish Vision and ''98%'' Claim (As Reported)'
+    definition: 'Reported case in which Pastor Howard Pittman describes a distressing/"hellish"
+      NDE including a claim that a very large majority of people are headed toward
+      hell (often summarized as "98%") and that his works were judged negatively ("abomination").
+      The framework treats this as a data-point requiring interpretive integration
+      with broader NDE patterns.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Pure Encounter or Cultural Construct_ An
+        Analysis of the Identification of Jesus in Near-Death Experiences.md
+      note: Pittman used as example of hellish NDE needing re-contextualization; includes
+        the 'abomination' line and the '98%' paraphrase.
+    - type: W
+      ref: https://near-death.com/howard-pittman/
+      note: Web profile/excerpts explicitly attributed to Pittman's Placebo; includes
+        '50 out of 2000' (~97.5%) framing and 'abomination' language.
+    - type: P
+      ref: 'Pittman, Howard O. (2015). Placebo: What is the Church''s Dope? [As cited
+        by near-death.com; Amazon ASIN B00TA07IWO]'
+      note: Primary-text attribution for the quoted/excerpted material; full-text
+        verification still needed for exact chapter/quote locations.
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-12'
+    updated: '2026-01-12'
+    confidence_factors:
+      source_type: external
+      methodology: case_study
+      sample_size: minimal_<10
+      replication: unreplicated
+      peer_review: primary_text
+      source_chain_quality: primary_unverified
+    confidence: 0.463
+    notes: 'The popularized "98%" phrasing is treated as a paraphrase/rounding of
+      the ''50 out of 2000'' (~97.5%) figure reported in secondary excerpts, not as
+      a literal population statistic.
+
+      [TRACE NEEDED] Verify Pittman''s original publication details (publisher/edition)
+      and the exact locations of the cited passages (e.g., chapter/section).
+
+      '
+    id: CONSC-127
+    connections:
+    - target: CONSC-130
+      type: supports
+      note: Pittman hellish NDE case (as reported) is treated as a motivating data-point
+        for the state-based re-contextualization hypothesis.
+  CONSC-129:
+    domain: CONSC
+    node_type: evidence
+    title: 'Kellehear: Ineffability Opposes Simple Expectation Models (Claim)'
+    definition: 'Claim (as summarized in the framework document) that the ineffable,
+      disruptive character of NDE reports is in tension with social-expectation accounts,
+      which would predict more familiar, culturally scripted reporting.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Pure Encounter or Cultural Construct_ An
+        Analysis of the Identification of Jesus in Near-Death Experiences.md
+      note: Contains the quoted/paraphrased formulation linking NDE ineffability to
+        a critique of social-expectation models; used here as the immediate textual
+        provenance within the framework.
+    - type: S
+      ref: 'Kellehear, Allan (1990). ''The near-death experience as status passage.''
+        Social Science & Medicine 31(8): 933–939. DOI: 10.1016/0277-9536(90)90033-O'
+      note: Bibliographic record verified (PMID/DOI). The framework’s exact quoted
+        wording has not yet been located/confirmed in accessible full text; treat
+        as an attributed paraphrase until verified in the article body (ideally with
+        page/section).
+    - type: W
+      ref: https://pubmed.ncbi.nlm.nih.gov/2259966/
+      note: PubMed record for the article (PMID 2259966) used to verify metadata;
+        abstract does not include the framework’s quoted phrase.
+    - type: W
+      ref: https://www.sciencedirect.com/science/article/pii/027795369090033O
+      note: ScienceDirect landing/abstract page for the DOI record (metadata verification).
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-12'
+    updated: '2026-01-12'
+    confidence_factors:
+      source_type: external
+      methodology: theoretical
+      sample_size: na
+      replication: na
+      peer_review: peer_reviewed_journal
+      source_chain_quality: primary_unverified
+    confidence: 0.582
+    notes: 'Tightening pass: anchored the claim to a concrete Kellehear (1990) reference
+      and verified the DOI/PMID metadata.
+
+      Remaining work (to reach trace_status: complete): obtain access to the article
+      body text and confirm whether the specific phrasing (“very opposite of the theoretical
+      problem of social expectations”) appears verbatim; if it does, add the exact
+      page number(s)/section. If it does not, revise the framework wording as a paraphrase
+      and (optionally) quote the closest matching passage.
+
+      '
+    id: CONSC-129
+    connections:
+    - target: CONSC-125
+      type: supports
+      note: Kellehear ineffability argument supports critique of simple expectation/priming
+        accounts.
+  CONSC-130:
+    domain: CONSC
+    node_type: hypothesis
+    title: Hellish NDE Re-contextualization Hypothesis (State-Based)
+    definition: 'Hypothesis that at least some ''hellish'' NDE narratives are correspondential
+      perceptions of internal states (e.g., proprium-dominated orientation, dogmatic
+      distortion) rather than literal population statistics or punitive decrees.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Pure Encounter or Cultural Construct_ An
+        Analysis of the Identification of Jesus in Near-Death Experiences.md
+      note: Section re-contextualizing Howard Pittman and '98%'
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-12'
+    updated: '2026-01-12'
+    confidence: 0.463
+    notes: 'Keep preliminary pending systematic coverage of distressing NDE cases.
+
+      '
+    id: CONSC-130
+    connections:
+    - target: CONSC-131
+      type: developed_by
+      note: Hell-as-state concept motivates state-based re-contextualization hypothesis
+        for distressing NDEs.
+    - target: CONSC-127
+      type: supported_by
+      note: Pittman hellish NDE case (as reported) is treated as a motivating data-point
+        for the state-based re-contextualization hypothesis.
+  CONSC-131:
+    domain: CONSC
+    node_type: concept
+    title: Hell as State (NDE Integration)
+    definition: 'Concept that ''hell'' in post-mortem experience is best understood
+      as an internal spiritual state that becomes externally perceptible, rather than
+      as a punitive sentence; this framing is used to integrate distressing/hellish
+      NDE reports with the broader non-punitive NDE pattern.
+
+      '
+    source_chain:
+    - type: T
+      ref: data/01_Consciousness_Studies/Pure Encounter or Cultural Construct_ An
+        Analysis of the Identification of Jesus in Near-Death Experiences.md
+      note: Section on re-contextualizing hellish NDEs
+    status: preliminary
+    trace_status: partial
+    created: '2026-01-12'
+    updated: '2026-01-12'
+    confidence: 0.394
+    id: CONSC-131
+    connections:
+    - target: SWED-003
+      type: developed_by
+      note: Anchor 'hell as state' integration concept to World of Spirits state-based
+        post-mortem framework.
+    - target: CONSC-130
+      type: develops
+      note: Hell-as-state concept motivates state-based re-contextualization hypothesis
+        for distressing NDEs.
 untraced: []

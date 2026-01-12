@@ -91,6 +91,25 @@ When identifying a gap or question during framework development:
 
 ## Open Questions
 
+---
+
+### [GDR] Verify Kellehear Quote on Social Expectations vs Ineffability
+
+**Target**: `[GDR]`  
+**Status**: Open  
+**Date Added**: 2026-01-12  
+**Priority**: MEDIUM  
+**Related Nodes**: CONSC-129  
+**Related Document**: `data/01_Consciousness_Studies/Pure Encounter or Cultural Construct_ An Analysis of the Identification of Jesus in Near-Death Experiences.md`
+
+**Context**:
+The framework document attributes a specific formulation to Allan Kellehear: that the "ineffable" nature of NDE reports is the "very opposite of the theoretical problem of social expectations." We currently have access only to the abstract/metadata for Kellehear (1990) *Social Science & Medicine* 31(8): 9336?939 (PMID: 2259966; DOI: 10.1016/0277-9536(90)90033-O), and the abstract does not contain the quoted phrase. We must avoid treating this as a verified quotation until the full text is checked.
+
+**Research Question**:
+1. Does the exact phrase (or a near-verbatim equivalent) appear in Kellehear (1990) "The near-death experience as status passage"? If yes, provide the exact quotation and page/section.
+2. If not, identify the closest matching passage in that paper that supports the same argumentative point, with page/section.
+3. If the phrase originates in a different Kellehear publication, identify that work (full citation) and the page/section containing the wording.
+
 ### [NDE] Systematic Verification of NDE Statistical Claims in Framework
 
 **Target**: `[NDE]`  

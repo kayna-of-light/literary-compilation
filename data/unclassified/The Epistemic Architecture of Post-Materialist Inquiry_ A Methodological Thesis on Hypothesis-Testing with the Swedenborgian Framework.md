@@ -326,7 +326,7 @@ This aligns precisely with Swedenborg's description of the spiritual world's jud
 The four preceding findings combine to establish what we term the "purposeful economy" of the Being of Light encounter. This constellation of features—constant experiential properties despite variable naming, functional differentiation among spiritual beings, coherent mission commissioning, and revelatory judgment—cannot be explained by projection theory.
 
 If the Being of Light were a psychological projection, we would expect:
-- Experiential properties to vary with the projector's psychology (they do not—χ² = 365.14)
+- Experiential properties to vary with the projector's psychology (they do not—<10% variation across all labels; ML classifier below baseline)
 - Entities to be interchangeable manifestations of the same complex (they are not—functional differentiation is clear)
 - Mission reports to show retrospective meaning-making patterns (they do not—94.2% discriminant accuracy)
 - Judgment character to reflect the experiencer's religious background (it does not—36.5:1 ratio is universal)
@@ -530,7 +530,7 @@ The same evidentiary structure operates here. The four strains constitute indepe
 - Birthmark-wound correspondence → **Confirmed** (88% accuracy)
 
 **Strain Two (Being of Light)**: Divine encounter exhibits purposeful economy.
-- Constant experiential properties despite variable naming → **Confirmed** (χ² = 365.14)
+- Constant experiential properties despite variable naming → **Confirmed** (<10% variation; ML classifier below baseline)
 - Entity function differentiation → **Confirmed** (χ² = 41.13)
 - Mission discriminant validity → **Confirmed** (94.2% accuracy)
 - Revelatory judgment character → **Confirmed** (36.5:1 ratio)

@@ -2,6 +2,7 @@
 output/*.md
 output/*.txt
 output/*.tex
+temp/
 
 # Keep final PDF
 !output/Proto-Luke_Jamesian_Protograph.pdf

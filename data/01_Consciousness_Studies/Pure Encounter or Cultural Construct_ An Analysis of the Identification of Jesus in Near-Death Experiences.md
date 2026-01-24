@@ -67,8 +67,8 @@ The strongest evidence for this hypothesis comes from cross-cultural NDE researc
 
 While compelling, the expectancy hypothesis is insufficient to explain the full range of data.
 
-* **Van Lommel's Dutch Study:** A large-scale, prospective NDE study published in *The Lancet* provides a powerful rebuttal. It "excluded physiological, psychological, pharmacological and demographic explanations" for NDEs. Most critically, it found that "any kind of religious belief, or indeed its absence in non-religious people or atheists, was irrelevant" to *whether* an NDE occurred. This finding directly contradicts the simple expectancy hypothesis.  
-* **Greyson's Pre-1975 Study:** Researcher Bruce Greyson directly tested the "cultural priming" hypothesis. He compared NDEs reported *before* Raymond Moody's 1975 book popularized the NDE "model" and those reported *after*. He found *no statistically significant difference* in 14 of the 15 features. This challenges the idea that NDEs are "substantially influenced by prevailing cultural models".  
+* **Van Lommel's Dutch Study:** A large-scale, prospective NDE study published in *The Lancet* provides a powerful rebuttal. It "excluded physiological, psychological, pharmacological and demographic explanations" for NDEs. Most critically, it found that "any kind of religious belief, or indeed its absence in non-religious people or atheists, was irrelevant" to *whether* an NDE occurred (van Lommel et al., 2001). This finding directly contradicts the simple expectancy hypothesis.  
+* **Greyson's Pre-1975 Study:** Researcher Bruce Greyson directly tested the "cultural priming" hypothesis. He compared NDEs reported *before* Raymond Moody's 1975 book popularized the NDE "model" and those reported *after*. He found *no statistically significant difference* in 14 of the 15 features (Greyson, 2007). This challenges the idea that NDEs are "substantially influenced by prevailing cultural models".  
 * **Kellehear's "Ineffability" Argument:** Sociologist Allan Kellehear argues that the "ineffable" (indescribable) nature of the NDE is the "very opposite of the theoretical problem of social expectations". Experiencers are not calmly describing a *familiar* cultural projection; they are struggling to find words for a profoundly *unfamiliar* experience that shatters their existing framework.
 
 The expectancy hypothesis, therefore, appears insufficient. The cross-cultural differences (like in Japan ) do not prove that the "Being of Light" *has no* personality; they may simply indicate that the "Divine Human in ultimates" is not revealed in every NDE, even if the "sun in heaven" (the Light) is.
@@ -119,6 +119,12 @@ The analysis of testimonial, cross-cultural, and theological data provides a nua
 2. **The "Identification" Element:** The identification of this "Being of Light" as "Jesus" is *not* a "cultural label." It is a **pure identification based on a direct personality match**. The unique personality of the "Being of Light" (unconditional love, non-judgmental) is a *perfect correspondence* to the "Divine Human" of the Gospels.  
 3. **Final Thesis:** The identification of Jesus in NDEs is a *pure identification of a pure experience*. The experiencer, regardless of background, has a "pure" encounter with the "sun in heaven" (the "Being of Light"). They then experience an "innate knowing" that this specific, unique personality *is* the "Divine Human in ultimates," Jesus Christ.  
 4. **Answering the "Supersedes Dogma" Clause:** The report's final and most significant conclusion is that this experience *absolutely* "supersedes religious dogma." The "Dogma Paradox" is the key finding. The raw *experience* of unconditional love is so powerful that it overrides the experiencer's prior dogmatic beliefs about judgment , hell , and exclusivity. The NDE-Jesus is not a product *of* dogma; it is an experience that *corrects* dogma.
+
+#### **References**
+
+Greyson, B. (2007). "Consistency of near-death experience accounts over two decades: Are reports embellished over time?" *Resuscitation*, 73(3), 407-411.
+
+van Lommel, P., van Wees, R., Meyers, V., & Elfferich, I. (2001). "Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands." *The Lancet*, 358(9298), 2039-2045.
 
 #### **Geciteerd werk**
 

@@ -13,6 +13,30 @@ The framework synthesizes:
 - **Mythological and anthropological analysis** (bricolage, proto-myths)
 - **Early Christian history** (Jamesian vs. Pauline trajectories, Gnostic analysis)
 
+## Methodological Stance
+
+This project operates from a specific epistemological position that distinguishes it from both mainstream scientific materialism and traditional religious apologetics:
+
+### What We Are NOT Doing
+
+- **We are not defending Swedenborg as revelation.** His writings are treated as *hypothesis*, not dogma.
+- **We are not seeking mainstream scientific approval.** Mainstream consciousness science begins with materialist axioms that exclude spiritual phenomena by methodological presupposition—not by evidence evaluation.
+- **We are not defending religious orthodoxy.** Traditional religious views often filter data to confirm pre-existing beliefs rather than following evidence.
+
+### What We ARE Doing
+
+- **Following the data.** We analyze empirical findings (NDEs, past-life memories, textual evidence) without filtering for "acceptable" conclusions.
+- **Testing a hypothesis.** Swedenborg proposed a systematic framework (correspondences, influx, regeneration) in 1758—before the empirical tools existed to test it. Now we have those tools.
+- **Observing what happens when we apply the hypothesis.** When we apply the correspondential lens to messy NDE data, *the noise vanishes*. Patterns emerge. Constant states, variable forms. This is curious and worth investigating.
+
+### The Core Observation
+
+Things don't fall into place by accident. When a hypothesis from 1758 organizes 21st-century empirical data better than materialist models do, that's a signal worth following—regardless of whether mainstream institutions acknowledge it.
+
+We don't have to *understand* why Swedenborg's framework works. We don't have to *like* the implications. We simply observe that when we apply his hypothesis, patterns emerge that weren't visible before. That's how science is supposed to work: a good hypothesis organizes phenomena.
+
+---
+
 ## Core Thesis
 
 The central argument employs a **two-tiered hermeneutic**:
@@ -75,9 +99,12 @@ The research organizes into six interconnected domains:
 │   ├── 04_Early_Christian_History/ # James, Paul, Proto-Luke, Magi (20 files)
 │   ├── 05_Gnostic_Analysis/        # Gnostic impulse, proprium (5 files)
 │   └── 06_Mythological_Studies/    # Bricolage, proto-myths, Exodus (15 files)
+├── graph/
+│   ├── knowledge_graph.yaml        # Structured concept graph (214 nodes, 741 connections)
+│   └── knowledge_graph.md          # Auto-generated readable view
 ├── docs/
-│   ├── knowledge_graph.yaml        # Structured concept graph (primary data)
-│   ├── knowledge_graph.md          # Auto-generated readable view
+│   ├── GRAPH_STRUCTURE_ANALYSIS_2026-01-08.md  # Comprehensive graph analysis
+│   ├── NEXT_STEPS.md               # Current priorities and pending work
 │   └── research_questions.md       # Open questions for external research
 ├── output/                         # Generated compilations
 ├── scripts/
@@ -85,6 +112,27 @@ The research organizes into six interconnected domains:
 ├── environment.yml                 # Conda environment specification
 └── README.md
 ```
+
+## Knowledge Graph
+
+**Status (January 8, 2026):** 214 nodes, 741 connections, **80% complete**
+
+The project maintains a structured knowledge graph capturing concepts, evidence, and relationships across all domains. Recent updates:
+
+- ✅ **Foundational layer strengthened:** 9 foundational nodes establishing ontology, epistemology, validation criteria
+- ✅ **Synthesis layer added:** 22 CROSS-domain nodes connecting evidence to theological interpretation
+- ✅ **Core questions answered:** Framework thesis, empirical validation, falsification criteria, Jesus/Paul problems resolved
+
+**Key Utilities:**
+```bash
+python scripts/graph_utils.py stats              # Show statistics
+python scripts/graph_utils.py validate           # Check integrity
+python scripts/graph_utils.py confidence         # Show confidence scores
+python scripts/graph_utils.py list -d CROSS      # List nodes by domain
+python scripts/graph_utils.py export-md          # Regenerate markdown view
+```
+
+See [docs/NEXT_STEPS.md](docs/NEXT_STEPS.md) for pending priorities.
 
 ## Setup
 

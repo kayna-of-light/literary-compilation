@@ -50,7 +50,7 @@ Streeter’s hypothesis effectively identifies "Q" as the backbone of a narrativ
 
 ### **2.3 The Marcionite Key: The "Oldest Gospel"**
 
-The most significant breakthrough in recent years comes from the work of Matthias Klinghardt, Jason BeDuhn, and Markus Vinzent, who have revived and scientifically fortified the "Marcion Priority" hypothesis.8
+The most significant breakthrough in recent years comes from the work of Matthias Klinghardt, Jason BeDuhn, and Markus Vinzent, who have revived and scientifically fortified the "Marcion Priority" hypothesis (Klinghardt, 2021).8
 
 Church Fathers like Tertullian claimed that Marcion "mutilated" Luke to create his Evangelion. However, computer-aided analysis of "editorial fatigue" suggests the opposite direction of dependence.1
 
@@ -216,6 +216,10 @@ The theory that a **Jamesian Proto-Luke (Q)** was the first direct construct of 
 This model vindicates the "Q" concept by giving it a concrete historical form (Proto-Luke/Evangelion) and a specific social home (The Jamesian/Ebionite Church). It reveals **Mark** not as the primitive foundation, but as a sophisticated, polemical **secondary stream** designed to pivot the movement away from Jerusalem and towards the Pauline Gentile mission. Finally, it exposes the **Canonical Luke** as a later, harmonizing "hostile takeover" of the Jamesian legacy—a text that took the radical, poverty-loving, spiritually resurrected Jesus of James and dressed him in the flesh, bones, and Roman citizenship required to conquer the Empire.
 
 In this light, **Marcion of Sinope** stands not as a mutilator, but as the accidental archivist of the original Jerusalem Gospel—a text he misunderstood theologically but preserved textually, allowing us, centuries later, to hear the voice of the "Poor Ones" beneath the layers of orthodoxy.
+
+#### **References**
+
+Klinghardt, M. (2021). *The Oldest Gospel and the Formation of the Canonical Gospels* (2 vols.). Leuven: Peeters.
 
 #### **Works cited**
 

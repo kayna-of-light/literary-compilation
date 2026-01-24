@@ -72,8 +72,8 @@ A primary objection to the concept of an "Ancient Word" surviving from deep preh
 
 Compelling evidence for the durability of oral tradition comes from Australian Aboriginal cultures. For millennia, they have preserved "songlines"—complex oral traditions that function as living maps, encoding vast amounts of information about navigation, resource availability, law, and cosmology directly into the features of the landscape. This research has yielded two astonishing findings:
 
-* **Geological Memory:** Oral traditions from more than 30 locations around the Australian coast accurately describe coastal geographies and land bridges that were submerged by post-glacial sea-level rise between 7,000 and 12,000 years ago.  
-* **Astronomical Memory:** Palawa traditions from Tasmania preserve an account of the star Canopus being near the southern celestial pole, a position it last held approximately 14,000 years ago.
+* **Geological Memory:** Oral traditions from more than 30 locations around the Australian coast accurately describe coastal geographies and land bridges that were submerged by post-glacial sea-level rise between 7,000 and 12,000 years ago (Hamacher & Norris, 2011).  
+* **Astronomical Memory:** Palawa traditions from Tasmania preserve an account of the star Canopus being near the southern celestial pole, a position it last held approximately 14,000 years ago (Hamacher & Norris, 2011).
 
 The mechanism for this incredible fidelity is that memory is not stored solely in the brain but is distributed and encoded into the landscape itself. The stories, songs, and rituals are inextricably linked to physical places, creating a massive, resilient, and non-written repository of knowledge.
 
@@ -97,7 +97,7 @@ A particularly provocative interpretation comes from the field of archaeoastrono
 
 #### **Paleolithic Cave Art: A Unified Symbolic System**
 
-This evidence for a sophisticated symbolic system in the early Neolithic is complemented by research into the preceding Paleolithic period. Paleoanthropologist Genevieve von Petzinger undertook a massive project to catalogue the non-figurative, geometric signs in European Ice Age caves. Her key finding was astonishing: a mere **32 geometric signs** are used repeatedly across the entire European continent for a period of 30,000 years, from roughly 40,000 to 10,000 years before the present.  
+This evidence for a sophisticated symbolic system in the early Neolithic is complemented by research into the preceding Paleolithic period. Paleoanthropologist Genevieve von Petzinger undertook a massive project to catalogue the non-figurative, geometric signs in European Ice Age caves. Her key finding was astonishing: a mere **32 geometric signs** are used repeatedly across the entire European continent for a period of 30,000 years, from roughly 40,000 to 10,000 years before the present (von Petzinger, 2016).  
 The most profound implication of this discovery is that this symbolic toolkit was not invented in Europe. Von Petzinger's analysis shows that two-thirds of these signs were already in use when *Homo sapiens* first arrived on the continent, suggesting they brought this system with them **out of Africa**. This points directly to the possibility of a universal symbolic inheritance, a graphic language shared by our most distant ancestors.
 
 #### **The Grand Synthesis: A 40,000-Year-Old Zodiac?**
@@ -151,6 +151,12 @@ The "Ancient Word," reinterpreted through this modern lens, ceases to be a lost 
 
 From this perspective, the "loss" of the Ancient Word was not a historical accident but an inevitable consequence of the profound cognitive shifts that defined human history. The agricultural revolution necessitated a transition from encoding knowledge in the natural landscape to encoding it in man-made monuments. The later invention of writing completed this process, externalizing memory, favoring linear and abstract thought, and ultimately severing the direct, embodied link between knowledge, landscape, and ritual performance. In this transition, the holistic, allegorical "Word" was fragmented, giving way to the localized, historicized, and textual narratives of later civilizations.  
 This entire synthesis is, itself, an act of modern intellectual *bricolage*, piecing together ancient myths and modern scientific data to construct a new explanatory narrative. It does not—and cannot—"prove" the existence of Swedenborg's Ancient Word. However, it demonstrates that scientific inquiry, when pursued with a critical and open mind across disciplines, reveals profound echoes of deep memory, deep symbolism, and deep consciousness. These echoes resonate powerfully with the *caliber* of Swedenborg's visionary idea, suggesting that our ancient ancestors may have possessed a system of knowledge—a way of knowing—whose sophistication and endurance we are only just beginning to appreciate.
+
+#### **References**
+
+Hamacher, D.W. & Norris, R.P. (2011). "Bridging the gap through Australian cultural astronomy." In *Archaeoastronomy and Ethnoastronomy: Building Bridges Between Cultures*, eds. C. Ruggles, pp. 282-290. Cambridge: Cambridge University Press.
+
+von Petzinger, G. (2016). *The First Signs: Unlocking the Mysteries of the World's Oldest Symbols*. New York: Atria Books.
 
 #### **Geciteerd werk**
 

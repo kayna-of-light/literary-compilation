@@ -814,7 +814,7 @@ The analysis correctly distinguishes:
 
 **5. Classification Methodology (AI-Assisted):**
 
-The classification is performed by GPT-5.1 structured output analysis:
+The classification is performed by GPT-5.2 structured output analysis:
 
 ```python
 SYSTEM_PROMPT = (

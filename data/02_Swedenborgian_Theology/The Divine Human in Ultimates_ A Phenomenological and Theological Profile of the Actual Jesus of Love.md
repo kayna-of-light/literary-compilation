@@ -1,5 +1,15 @@
 # **The Divine Human in Ultimates: A Phenomenological and Theological Profile of the Actual Jesus of Love**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+>
+> This document reflects **earlier understanding** on:
+> - **#9** [Resurrection Narrative Evolution](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#9-resurrection-narrative-evolution) — This document treats the Gospel resurrection profile as direct phenomenology without consistently flagging the tradition’s progressive materialization (empty tomb → physical proofs).
+>
+> **Summary**: The correspondential meaning of “broiled fish” and similar motifs can be retained, but the motifs themselves should be treated as later anti-Docetic/theological messaging layers rather than the earliest apostolic witness.
+> **Established correction (library)**: Resurrection Narrative Evolution in New Testament
+> ---
+
 ## **1\. Introduction: The Convergence of History, Theology, and Phenomenology**
 
 The intellectual history of the West has been characterized for the last two centuries by a profound and often acrimonious schism regarding the identity of Jesus of Nazareth. This schism, born of the Enlightenment and solidified by the rigorous methodologies of the academy, has cleaved the figure of Jesus into two distinct and seemingly irreconcilable entities. On one side of the epistemological divide stands the "Historical Jesus," a figure painstakingly reconstructed by the secular tools of the Historical-Critical Method (HCM). This Jesus is defined by "bedrock facts," constrained by methodological naturalism, and viewed through the lens of first-century Jewish eschatology.1 On the other side stands the "Christ of Faith," the subject of theological dogma, mystical devotion, and liturgical worship—a figure of infinite scope whose supernatural attributes are axiomatically excluded from the historian's purview.1
@@ -104,6 +114,8 @@ The result of Glorification is the **Divine Human**. This is a new ontological c
 ## **5\. The Phenomenology of Resurrection: Visualizing the Influx**
 
 The Resurrection is the empirical validation of Glorification. The Gospel accounts of the Resurrection are not merely "ghost stories"; they are precise phenomenological descriptions of the Divine Human interacting with the natural world. They demonstrate the nature of the "Actual Jesus" and His relationship to the "natural mind."
+
+> **[CRITICAL ANALYSIS #9]**: Within this corpus, the resurrection tradition is treated as progressively “materialized” across strata (Paul → Mark → later Luke/John), with the explicit physical-proof motifs (Luke 24:39; 24:42-43; John 20:27) functioning as later anti-Docetic apologetic layers. This section’s correspondential readings can still apply as *Divine Bricolage*, but the narrative details should not be assumed to represent the earliest historical memory.
 
 ### **5.1 The Stone Rolled Away: The Opening of the Mind**
 

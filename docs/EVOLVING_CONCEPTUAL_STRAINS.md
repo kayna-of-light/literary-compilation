@@ -25,12 +25,12 @@ This document catalogs conceptual strains where understanding has evolved over t
 - [x] 5. [Most Ancient Church](#5-the-most-ancient-church) — Reframing (Medium) ✓ 6 docs annotated (2026-01-27)
 - [x] 6. [Magi and Daniel](#6-magi-and-daniel-historicity) — Critical Analysis (Medium) ✓ 6 docs annotated (2026-01-27)
 - [x] 7. [Doctrine of Correspondences](#7-doctrine-of-correspondences-validation) — **Retired / merged into #11 and #18** (Low)
-- [ ] 8. [NDE Cultural Variation](#8-nde-cultural-variation) — Validation (Low)
-- [ ] 9. [Resurrection Narratives](#9-resurrection-narrative-evolution) — Critical Analysis (Medium)
+- [x] 8. [NDE Cultural Variation](#8-nde-cultural-variation) — Validation (Low) ✓ 1 doc annotated (2026-01-26)
+- [x] 9. [Resurrection Narratives](#9-resurrection-narrative-evolution) — Critical Analysis (Medium) ✓ 2 docs annotated (2026-01-26)
 - [x] 10. [Location-Ruling Love](#10-location-ruling-love-relationship) — **Retired (MallWorld-specific; not a corpus strain)** (Low)
 - [x] 11. [Correspondence as Ontology](#11-correspondence-as-ontology-not-transmission) — Reframing (High) ✓ 6 docs annotated (2026-01-27)
 - [x] 12. [Observational vs. Interpretive Layers](#12-observational-vs-interpretive-layers-in-swedenborg) — Distinction (High) — META-STRAIN: Organizing principle for #1, #2, #3, #10; docs reference via specific strains
-- [ ] 13. [Bicameral Mind Refutation](#13-bicameral-mind-refutation) — Critical Analysis (Medium)
+- [x] 13. [Bicameral Mind Refutation](#13-bicameral-mind-refutation) — Critical Analysis (Medium) ✓ 1 doc annotated (2026-01-26)
 - [x] 14. [Somatic Influx / Radical Remission](#14-somatic-influx-and-radical-remission) — **Retired (evidence supporting #11; not a corpus strain)** (Low)
 - [x] 15. [The Magi Narrative as Theological Construct](#15-the-magi-narrative-as-theological-construct) — Critical Analysis (High) ✓ 3 docs annotated (2026-01-27)
 - [ ] 16. [Göbekli Tepe as Crisis Management](#16-göbekli-tepe-as-crisis-management-diagram) — Interpretation (Medium)
@@ -297,9 +297,13 @@ Do **not** add or require document annotations solely for “Zoroastrian cross-v
 
 **Evolution Type**: VALIDATION  
 **Priority**: Low
+**Status**: ✅ COMPLETE — 1 document annotated (2026-01-26)
 
 #### Earlier Position
 Cultural variation in NDE reports potentially problematic—might suggest cultural construction rather than universal experience.
+
+**Documents reflecting earlier position** (ANNOTATED 2026-01-26):
+- [x] `data/01_Consciousness_Studies/Pure Encounter or Cultural Construct_ An Analysis of the Identification of Jesus in Near-Death Experiences.md`
 
 #### Validated Position
 Statistical analysis **validates** the "constant state, variable form" principle:
@@ -329,9 +333,14 @@ Statistical analysis **validates** the "constant state, variable form" principle
 
 **Evolution Type**: CRITICAL ANALYSIS  
 **Priority**: Medium
+**Status**: ✅ COMPLETE — 2 documents annotated (2026-01-26)
 
 #### Earlier Position
 Physicalist resurrection appearances (touching wounds, eating fish) treated as original apostolic experience.
+
+**Documents reflecting earlier position** (ANNOTATED 2026-01-26):
+- [x] `data/05_Gnostic_Analysis/The Paradox of the Pneumatic Ego.md`
+- [x] `data/02_Swedenborgian_Theology/The Divine Human in Ultimates_ A Phenomenological and Theological Profile of the Actual Jesus of Love.md`
 
 #### Critically Analyzed Position
 Recognition of **progressive materialization** in the textual tradition:
@@ -484,9 +493,13 @@ Critical distinction between two analytically separable layers:
 
 **Evolution Type**: CRITICAL ANALYSIS  
 **Priority**: Medium
+**Status**: ✅ COMPLETE — 1 document annotated (2026-01-26)
 
 #### Earlier Position
 Julian Jaynes's bicameral mind hypothesis sometimes referenced as parallel framework or uncritically compared to Swedenborg's account.
+
+**Documents reflecting earlier position** (ANNOTATED 2026-01-26):
+- [x] `data/unclassified/The Semiotics of Sanctity_ A Diachronic Analysis of the Doctrine of Correspondences from the Paleolithic Mind to the Priestly Code.md` (§6.3)
 
 #### Critically Analyzed Position
 Jaynes's "automaton hypothesis" is **refuted** by archaeological evidence:

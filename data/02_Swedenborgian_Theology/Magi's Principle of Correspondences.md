@@ -1,8 +1,21 @@
 # **The Magian Cosmos: A Comprehensive Analysis of the Principle of Correspondences in Ancient Iranian Religion and Its Esoteric Legacy**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+> 
+> This document reflects **earlier understanding** on:
+> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — This document foregrounds the Magi as primary carriers/originators of correspondential science; current position treats the *Bene Qedem* (“Children of the East”) as primary carriers, with the Magi as a later institutionalizing/appropriating layer.
+> 
+> **Summary**: Reframe “Magi as originators/carriers” → “Bene Qedem as primary carriers; Magi as later institutionalizers.”
+> **Established correction (library)**: The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
+> ---
+
 ## **1\. Introduction: The Architecture of the Magian Worldview**
 
 The history of human thought is replete with attempts to bridge the chasm between the visible and the invisible, the transient and the eternal. Among the ancient wisdom traditions, few have formulated a more rigorous, systemic, and enduring framework for this endeavor than the Persian Magi. Often caricatured in Western imagination as mere sorcerers or romanticized as star-gazing mystics, the historical Magi—the priestly caste of the Medes and subsequently the sacerdotal elite of the Achaemenid, Parthian, and Sassanian empires—possessed a sophisticated ontology that defined the world through a precise **Principle of Correspondences**.  
+
+> **[CORRECTION #18]**: This framing treats the Magi as primary carriers/originators of correspondential science. Current synthesis distinguishes the *Bene Qedem* (“Children of the East”) as primary carriers of a living “nature wisdom”/correspondential perception, with the Magian priesthood as a later institutional layer that codified and (in places) appropriated that prior wisdom.
+
 This report endeavors to reconstruct that worldview with exhaustive detail. The inquiry—"What do we actually know?"—demands a forensic examination of the surviving corpus of Zoroastrian scripture (the *Avesta*), its Middle Persian exegetical commentaries (the *Zand*), and the later theosophical reconstructions that preserved Magian gnosis within Islamic and Western esoteric traditions.  
 The central thesis of this analysis is that the Magian "Principle of Correspondences" was not merely a poetic device or a mystical metaphor. It was, in its original context, a **sacred science** and a **legal system**. It functioned as the operative logic behind Magian astronomy, determining the reading of celestial omens; it underpinned their rigorous purity laws, dictating the disposal of the dead and the protection of elements; and it provided the framework for their eschatology, culminating in the expectation of the *Saoshyant* (Savior). This worldview posited that the material world (*gētīg*) is a semiotic text, a crystallization of spiritual realities (*mēnōg*), where every physical phenomenon—from the conjunction of planets to the blossoming of a flower—is the "correspondence" or "signature" of a divine hierarchy.  
 To understand the Magi is to step into a "resonant universe" where the boundaries between the astronomical, the biological, and the theological are permeable. This report will trace the genealogy of this idea from its Zarathustrian roots through its synthesis with Babylonian astrology, its preservation in the "Science of the Balance" (*'ilm al-mizan*) of Islamic alchemy, and its eventual codification in the "Science of Correspondences" by Emanuel Swedenborg.

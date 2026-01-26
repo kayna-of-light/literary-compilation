@@ -1,5 +1,15 @@
 # **The Science of Correspondences: A Scholarly Analysis of the Magi from the Era of Daniel to the Nativity**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+> 
+> This document reflects **earlier understanding** on:
+> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — This document attributes a “Science of Correspondences” primarily to the Magian institution; current position treats the *Bene Qedem* (“Children of the East”) as primary carriers of correspondential/nature wisdom, with the Magi as a later institutionalizing/appropriating layer.
+> 
+> **Summary**: Reframe “Magi as primary carriers/originators of correspondential wisdom” → “Bene Qedem as primary carriers; Magi as later institutionalizers/appropriators.”
+> **Established correction (library)**: The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
+> ---
+
 ## **Part I: The Historical and Political Landscape of the Magi**
 
 To comprehend the momentous journey of the Magi to Bethlehem as recorded in the Gospel of Matthew, it is imperative to first divest these figures of centuries of accumulated myth and popular imagination. They were not, as later tradition would sometimes portray them, solitary mystics or itinerant soothsayers. A rigorous historical analysis reveals them to be the inheritors of a formidable institutional legacy, deeply embedded within the political and religious structures of successive Near Eastern empires. Their inquiry in Jerusalem was not an act of private piety but a politically charged event, executed by representatives of a priestly class that held the power to validate, and at times appoint, the very monarchs of their age. This section will trace the historical trajectory of the Magi, from their origins as a Median tribe to their zenith as a constitutional power within the Parthian Empire, establishing the political gravitas that is the essential prerequisite for understanding their mission to Judea.
@@ -38,6 +48,8 @@ Into this volatile environment arrived an official delegation of Parthian king-m
 ## **Part II: The Magian Worldview: A Science of Correspondences**
 
 To analyze the beliefs and motivations of the Magi requires a departure from modern categorical distinctions between science, religion, and magic. For the ancient Persian priesthood, these were not separate domains of inquiry but integrated components of a single, coherent intellectual system. This system can be termed a "Science of Correspondences"—a worldview predicated on the belief that the material cosmos and the spiritual realm are intrinsically linked, and that physical phenomena are signs, or symbols, of divine truths and historical destinies. This section will deconstruct this worldview, examining its Zoroastrian theological foundations, its application in the sacred science of astronomy, and its culmination in the specific eschatological expectation of a world savior, the Saoshyant.
+
+> **[CORRECTION #18]**: This framing treats the Magian institution as the primary carrier of a generalized “Science of Correspondences.” Current synthesis distinguishes the *Bene Qedem* (“Children of the East”) as primary carriers of a living correspondential “nature wisdom,” with the Magian priesthood as a later institutional layer that codified and (in places) appropriated that prior wisdom.
 
 ### **The Cosmic Dualism of Zoroastrianism**
 

@@ -27,7 +27,7 @@ This document catalogs conceptual strains where understanding has evolved over t
 - [x] 7. [Doctrine of Correspondences](#7-doctrine-of-correspondences-validation) — **Retired / merged into #11 and #18** (Low)
 - [ ] 8. [NDE Cultural Variation](#8-nde-cultural-variation) — Validation (Low)
 - [ ] 9. [Resurrection Narratives](#9-resurrection-narrative-evolution) — Critical Analysis (Medium)
-- [ ] 10. [Location-Ruling Love](#10-location-ruling-love-relationship) — Correction (Low)
+- [x] 10. [Location-Ruling Love](#10-location-ruling-love-relationship) — **Retired (MallWorld-specific; not a corpus strain)** (Low)
 - [x] 11. [Correspondence as Ontology](#11-correspondence-as-ontology-not-transmission) — Reframing (High) ✓ 6 docs annotated (2026-01-27)
 - [x] 12. [Observational vs. Interpretive Layers](#12-observational-vs-interpretive-layers-in-swedenborg) — Distinction (High) — META-STRAIN: Organizing principle for #1, #2, #3, #10; docs reference via specific strains
 - [ ] 13. [Bicameral Mind Refutation](#13-bicameral-mind-refutation) — Critical Analysis (Medium)
@@ -364,27 +364,21 @@ Recognition of **progressive materialization** in the textual tradition:
 
 ### 10. Location-Ruling Love Relationship
 
-**Evolution Type**: CORRECTION  
-**Priority**: Low (specific to MallWorld thesis)
+**Evolution Type**: ASSESSED / RETIRED (Scope too narrow)  
+**Priority**: Low (MallWorld-specific)
 
-#### Earlier Position
-Assumed ruling love would **mediate** location effects—i.e., location atmosphere should differ based on ruling love orientation.
+#### Why this is retired
+This is a valid result inside the MallWorld thesis, but it does not represent a recurring *editorial correction pattern across the corpus*.
 
-#### Corrected Position
-Statistical analysis shows location and ruling love are **independent contributors**:
-- Locations have **intrinsic functional correspondences** (Underground = proximity to proprium)
-- Ruling love shapes **how those correspondences are experienced**
-- The data show **main effects without significant interaction**
+Operationally:
+1. It is **already handled by the MallWorld thesis itself** (methods + results + discussion).
+2. It does not drive widespread header/inline annotations across `data/**` the way the other strains do.
 
-**Documents with correction**:
-- [x] `structured-data-analysis/projects/mallworld/reports/Correspondential Structure...md` (Sections 6.8, 8.4, 8.8, 9.1, 9.2)
+#### Where it lives now
+Treat this as a **thesis-level finding**, not a corpus-wide strain.
 
-#### Annotation Template
-```markdown
-> **[CORRECTION: Location-Ruling Love]** This section assumes ruling love mediates location effects.
-> Statistical analysis shows independent contribution: locations have intrinsic correspondences;
-> ruling love shapes experience of those correspondences. See MallWorld thesis Section 8.4.
-```
+**Primary location**:
+- `structured-data-analysis/projects/mallworld/reports/Correspondential Structure...md` (Sections 6.8, 8.4, 8.8, 9.1, 9.2)
 
 ---
 

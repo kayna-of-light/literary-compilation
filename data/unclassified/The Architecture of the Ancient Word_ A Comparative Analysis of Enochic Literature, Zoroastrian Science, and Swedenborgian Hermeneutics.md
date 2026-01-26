@@ -1,5 +1,16 @@
 # **The Architecture of the Ancient Word: A Comparative Analysis of Enochic Literature, Zoroastrian Science, and Swedenborgian Hermeneutics**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-27
+> 
+> This document reflects **earlier understanding** on:
+> - **#11** [Correspondence as Ontology (Not Transmission)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#11-correspondence-as-ontology-not-transmission) — This document frames correspondence as "transmitted" through Enoch→Noah→Magi lineage. Current analysis reframes correspondence as **ontological law**—independently discoverable across cultures with zero contact.
+> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#18-bene-qedem-as-true-carriers-not-magi) — Section II.2-II.3 treat Magi as primary custodians; current position distinguishes the *Bene Qedem* as primary carriers.
+> 
+> **Summary**: Correspondence is perceivable reality, not transmitted wisdom. Evidence: 30,000-year Paleolithic consistency, Göbekli Tepe (pre-Zoroaster by 7,000 years), Aboriginal songlines—all with zero contact.
+> **Established correction (library)**: The Epistemic Architecture of Post-Materialist Inquiry (Part III, §3.3); The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
+> ---
+
 ## **Executive Summary**
 
 The recovery of the Ethiopic Book of Enoch (*1 Enoch*) in 1773 and the subsequent discovery of Aramaic Enochic fragments at Qumran in 1947 precipitated a theological and historiographical crisis. These texts, clearly influential on the New Testament writers, present a cosmology that is neither strictly Mosaic nor Hellenistic, but deeply rooted in the scientific and mythological soil of the Ancient Near East. This report investigates the hypothesis that *1 Enoch* represents a spiritually guided restoration of a primordial "Ancient Word"—a corpus of wisdom preceding the Hebraic canon—rather than a mere literal rediscovery or syncretic invention.
@@ -66,7 +77,7 @@ Swedenborg’s assertion that the Ancient Word is preserved among the "Tartars" 
 The Zoroastrian canon, specifically the lost Sasanian Avesta, was divided into three categories: *Gathic* (liturgical), *Dat* (legal), and *Hadha-manthric* (scientific/scholarly).12 This third category, particularly the **Dāmdād Nask**, serves as the primary artifact of the "Enochic" science.
 
 ### **2.2 The *Dāmdād Nask*: The Encyclopedia of Correspondence**
-
+> **[REFRAMING #11]**: This section treats the *Dāmdād Nask* as the source/repository of correspondential science. Evidence from cognitive archaeology shows correspondence operating 7,000 years before Zoroaster (Göbekli Tepe) and across zero-contact cultures (Aboriginal songlines, Shasu of Yhw). The *Dāmdād Nask* represents the **codification** of correspondence, not its **invention**—like Newton articulating gravity that already existed.
 The *Dāmdād Nask* ("The Nask of the Creation of Creatures") was lost to the West, likely destroyed during Alexander the Great’s conquest of Persepolis (c. 330 BCE).11 However, summaries preserved in the *Bundahishn* and *Denkard* reveal its content, which mirrors the "Science of Correspondences" described by Swedenborg:
 
 * **Taxonomy of Alignment:** The *Dāmdād Nask* classified the natural world not by biological morphology (species/genus) but by spiritual alignment. Creatures were divided into *Gospand* (beneficent/Ahuric) and *Khrafstra* (noxious/Ahrimanic).9 This mirrors the Levitical distinction between "Clean" and "Unclean" animals, which Swedenborg identifies as a derivation from the Ancient Word.7  

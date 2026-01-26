@@ -1,12 +1,13 @@
 > ---
-> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+> **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
 > - **#6** [Magi and Daniel Historicity](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-6-magi-and-daniel-historicity) — Part II refers to "Daniel, the Rab-mag"; the biblical text assigns Daniel the titles *Rab-signīn* (Dan 2:48) and *Rab-hartummin* (Dan 4:9). *Rab-mag* appears only in Jeremiah 39 for Nergal-sharezer.
+> - **#15** [Magi Narrative as Theological Construct](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#15-the-magi-narrative-as-theological-construct) — The document treats the Magi's journey to Bethlehem as spiritually significant history. Critical analysis: Matthew 2 is a theological construct (c. 80-90 CE) using bricolage to fill Proto-Luke's vacuum, counter Marcion, and subvert the Tiridates-Nero spectacle.
 > - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — This document foregrounds the Magi as primary preservers/carriers of correspondential science; current position treats the *Bene Qedem* ("Children of the East") as primary carriers, with the Magi as a later institutional layer.
 > 
-> **Summary**: (1) Correct Daniel's title from *Rab-mag* to *Rab-signīn*/*Rab-hartummin*; (2) reframe "Magi as primary preservers/carriers" → "Bene Qedem as primary carriers; Magi as later institutionalizers."
-> **Established correction (library)**: Daniel_ Historicity and Cultural Synthesis (Section 4.2, Table 1); The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
+> **Summary**: (1) Correct Daniel's title; (2) note Magi narrative is theological construct, not historical chronicle; (3) reframe "Magi as preservers" → "Bene Qedem as primary carriers."
+> **Established correction (library)**: Daniel_ Historicity and Cultural Synthesis (Section 4.2, Table 1); The Celestial Synthesis (Magi Narrative_ Theological Construct Analysis.md); The Bifurcated Gnosis
 > ---
 
 ### **Introduction: From Historical Record to Spiritual Reality**
@@ -54,6 +55,8 @@ The worldview of both the Magi and the Essenes was predicated on the Science of 
 Both groups, therefore, were not merely waiting for a political king but for a spiritual event of cosmic significance, and they were actively scanning both scripture and the natural world for the signs that would correspond to its arrival.
 
 ### **Part III: The Confluence of Correspondences at the Nativity**
+
+> **[CORRECTION #15]**: This Part reads the Matthew 2 “Magi + star” sequence as a historically grounded chronicle of providential correspondences. Current critical synthesis treats Matthew 2 as a late theological construct (c. 80–90 CE) using bricolage for polemical and narrative aims; whatever historical astronomical backdrop may be proposed, the Matthean “star” behavior functions as a literary device rather than a physical astronomical agent.
 
 The events described in the Gospel of Matthew represent the perfect alignment of the spiritual and natural worlds, a moment when the divine plan manifested in a series of undeniable physical correspondences. The Magi, as masters of this science, were uniquely equipped to read these signs and act upon them.
 

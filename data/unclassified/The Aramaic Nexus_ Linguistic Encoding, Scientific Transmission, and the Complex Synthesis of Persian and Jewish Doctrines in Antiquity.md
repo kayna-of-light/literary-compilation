@@ -1,5 +1,16 @@
 # **The Aramaic Nexus: Linguistic Encoding, Scientific Transmission, and the Complex Synthesis of Persian and Jewish Doctrines in Antiquity**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-27
+> 
+> This document reflects **earlier understanding** on:
+> - **#11** [Correspondence as Ontology (Not Transmission)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#11-correspondence-as-ontology-not-transmission) — This document frames the "Science of Correspondences" as knowledge transmitted via Aramaic channels (Magi → Jews). Current analysis reframes correspondence as **ontological law**—independently discoverable like gravity, not requiring transmission.
+> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#18-bene-qedem-as-true-carriers-not-magi) — Where Magi are treated as originators, current position distinguishes the *Bene Qedem* as primary carriers with Magi as later institutional appropriators.
+> 
+> **Summary**: Correspondence is perceivable reality, not transmitted doctrine. 30,000-year consistency in symbolic systems and zero-contact parallelism (Göbekli Tepe, Shasu of Yhw, Aboriginal songlines) demonstrate independent recognition across cultures.
+> **Established correction (library)**: The Epistemic Architecture of Post-Materialist Inquiry (Part III, §3.3); The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
+> ---
+
 ## **1\. Introduction: The Imperial Lattice of Aramaic and the Architecture of Synthesis**
 
 The geopolitical transformation of the Ancient Near East under the Achaemenid Empire (c. 550–330 BCE) constituted more than a mere shift in borders or dynastic power; it represented a fundamental restructuring of the epistemological landscape of antiquity. For the first time in history, a single administrative entity spanned from the Indus River to the Mediterranean Sea, creating a contiguous zone of exchange that necessitated a unified medium of communication. This medium was **Imperial Aramaic** (*Reichsaramäisch*), a language that transcended its humble origins to become the nervous system of an empire.  
@@ -38,6 +49,8 @@ The content of the *Dāmdād Nask*, as reconstructed from the 9th-century Middle
 * **Astronomy and Geography:** The Magi were the premier astronomers of their age. The *Dāmdād Nask* contained precise mathematical data on planetary movements, the stations of the sun, and the calculation of the 360+5 day calendar. It also detailed a "Sacred Geography" of 33 lands, listing their rivers, mountains, and administrative centers.
 
 ### **2.2 The Science of Correspondences**
+
+> **[REFRAMING #11]**: This section frames correspondence as a "paradigm" rooted in Magian documents and transmitted via institutional channels. Evidence from cognitive archaeology and cross-cultural analysis demonstrates that correspondence is **ontological law**—perceivable reality, not transmitted doctrine. The 30,000-year consistency of Paleolithic symbolic systems, Göbekli Tepe animal arrangements (7,000 years before Zoroaster), and Aboriginal songlines show independent recognition across zero-contact cultures. The Magi codified what humans have always perceived; they did not invent it.
 
 The documents were rooted in a specific intellectual paradigm known as the **"Science of Correspondences"**. This was not secular science in the modern sense, but a semiotic system that viewed the physical world (*gētīg*) as a direct, legible manifestation of the spiritual world (*mēnōg*).
 

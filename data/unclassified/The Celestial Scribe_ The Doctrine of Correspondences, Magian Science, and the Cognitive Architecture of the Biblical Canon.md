@@ -1,13 +1,14 @@
 # **The Celestial Scribe: The Doctrine of Correspondences, Magian Science, and the Cognitive Architecture of the Biblical Canon**
 
 > ---
-> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+> **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
+> - **#11** [Correspondence as Ontology (Not Transmission)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#11-correspondence-as-ontology-not-transmission) — This document frames correspondence as "transmitted" via Magian-Jewish synthesis. Current analysis reframes correspondence as **ontological law**—independently discoverable like gravity, not requiring transmission chains. Evidence: 30,000-year Paleolithic consistency, Göbekli Tepe (7,000 years pre-Zoroaster), zero-contact parallelism.
 > - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — This document foregrounds Magian ontology and “Magian synthesis” as the primary deepening/systematizing vector for correspondential science; current position distinguishes the *Bene Qedem* (“Children of the East”) as primary carriers of living “nature wisdom”/correspondential perception, with the Magian priesthood as a later institutional layer that codified and (in places) appropriated that prior wisdom.
 > 
-> **Summary**: Reframe “Magian synthesis as primary carrier/origin vector” → “Bene Qedem as primary carriers; Magi as later institutionalizers/codifiers.”
-> **Established correction (library)**: The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
+> **Summary**: Correspondence is perceivable reality, not transmitted doctrine. Reframe "Magian synthesis as primary carrier/origin vector" → "Bene Qedem as primary carriers; Magi as later institutionalizers/codifiers."
+> **Established correction (library)**: The Epistemic Architecture of Post-Materialist Inquiry (Part III, §3.3); The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
 > ---
 
 ## **1\. Introduction: The Epistemological Fracture and the Scribal Lens**

@@ -1,5 +1,14 @@
 # **The Canonical Gospels: A Synthesis of Historical-Critical Scholarship**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+>
+> This document reflects **scholarly consensus** (HCM methodology):
+> - **#19** [The Aligned Human](../unclassified/The Divine Human in Ultimates_ A Phenomenological and Forensic Re-Evaluation of the Aligned Soul.md) — §4.1 presents the "Historical Jesus" / "Christ of Faith" dichotomy as standard HCM methodology. The framework does NOT accept this as irreconcilable: the synthesis holds that Jesus was a complete human whose ruling love was oriented toward the Divine, and the "Christ of Faith" IS the Divine expression THROUGH the "Historical Jesus."
+>
+> **Summary**: This document accurately reports HCM methodology; the framework's synthesis transcends the dichotomy HCM presupposes.
+> ---
+
 ### **Introduction**
 
 This report provides a comprehensive analysis of the scholarly consensus and ongoing academic discussions concerning the canonical Gospels of Matthew, Mark, Luke, and John. Adhering to a purely scientific and fact-based approach, this document treats the Gospels as ancient literary and historical artifacts. The primary objective is to present the findings of modern biblical scholarship, which applies critical analysis to understand the origins, genre, interrelationships, and historical context of these texts, free from dogmatic presuppositions. The analysis focuses on the methodologies employed by scholars and the conclusions they support, even when these conclusions lead to probabilities and reasonable doubt rather than absolute certainties. The report is structured to guide the reader from the foundational principles of scholarly inquiry to the specific consensus points regarding the texts and the historical figure they portray.
@@ -151,6 +160,8 @@ Despite its dominance, the 2SH has persistent weaknesses that have kept alternat
 After analyzing the Gospels as literary documents, historical inquiry turns to the figure at their center. Modern scholarship employs a distinct methodology to move from the interpreted "Christ of faith" presented in the texts to the "historical Jesus," the figure who can be reconstructed using the tools of critical history.
 
 ### **4.1 The "Historical Jesus" vs. the "Christ of Faith"**
+
+> **[SYNTHESIS #19]**: The dichotomy described below is the standard HCM framing. The framework transcends this: **The Gospels describe THE LORD** — the same Lord who always was, is, and always will be — expressing in ultimates through the historical narrative. By correspondence, the "human Jesus" IS the Lord appearing in the natural degree. The "Christ of Faith" is the Divine expression THROUGH the "Historical Jesus" — they interpenetrate because the Gospels describe the Lord Himself, not "a human who had divine qualities." See: *The Divine Human in Ultimates: ...Aligned Soul*.
 
 A foundational distinction in academic study is between the "historical Jesus" and the "Christ of faith". The "Christ of faith" is the figure of Christian theology and preaching—the divine Son of God, resurrected Lord, and object of worship. The "historical Jesus" is the person whom historians can reconstruct based on an analysis of the available data, evaluated according to the principles of historical investigation. Because the historical method operates on principles of analogy and correlation, it cannot verify supernatural claims like divinity, miracles, or the resurrection; these remain matters of faith, outside the purview of historical demonstration. The academic "Quest for the Historical Jesus," which began in the Enlightenment, has evolved through several phases, moving from initial radical skepticism to a more confident, though still critical, belief that a plausible portrait of the historical figure is achievable.
 

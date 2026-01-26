@@ -36,6 +36,7 @@ This document catalogs conceptual strains where understanding has evolved over t
 - [x] 16. [Göbekli Tepe as Crisis Management](#16-göbekli-tepe-as-crisis-management-diagram) — Interpretation (Medium) ✓ 2 docs annotated (2026-01-26)
 - [x] 17. [Virgin Birth as Translation Artifact](#17-virgin-birth-as-translation-artifact) — Critical Analysis (High) ✓ 1 doc annotated (2026-01-26)
 - [x] 18. [Bene Qedem as True Carriers](#18-bene-qedem-as-true-carriers-not-magi) — Correction (**Critical**)
+- [x] 19. [The Aligned Human (Historical Jesus & Divine Bricolage)](#19-the-aligned-human-historical-jesus-and-the-divine-bricolage) — Synthesis (High) ✅ 4 docs annotated (2026-01-26)
 
 ---
 
@@ -779,6 +780,92 @@ This correction affects multiple strains:
 
 ---
 
+### 19. The Aligned Human (Historical Jesus and the Divine Bricolage)
+
+**Evolution Type**: SYNTHESIS  
+**Priority**: High  
+**Status**: ✅ 4 documents annotated (2026-01-26)
+
+#### The Three Errors This Strain Corrects
+
+**Error 1 — Orthodox/Swedenborgian ("God-in-a-Suit")**:
+Jesus was God directly (biological origin gave him Divine soul). His struggles were divine pantomime, not genuine human experience. "Soul from the Father / body from the mother."
+
+**Error 2 — Gnostic ("Splitting")**:
+Jesus was a vessel for an impersonal "Christ-principle" that could inhabit anyone. The Divine is separable from the human. Jesus = container; Christ = the water inside.
+
+**Error 3 — Secular Dichotomy ("Irreconcilable Categories")**:
+"Historical Jesus" (secular reconstruction) and "Christ of Faith" (dogmatic construct) are mutually exclusive categories. One must choose between them.
+
+**Error 4 — Humanist Reduction ("Just a Human")**:
+In correcting biological determinism, one might conclude Jesus was "just a really holy human." This misses the point entirely. The Gospels do not describe a human named Jesus — **they describe THE LORD**.
+
+#### The Synthesis: The Aligned Human
+
+Jesus was a **complete human soul** whose ruling love was oriented toward the Divine (not toward self). Because there was no obstruction (proprium claiming credit), the Lord flowed through him without resistance.
+
+**Key formulation**: "He was not the Lord *disguised* as a human; he was a human *filled* with the Lord."
+
+**CRITICAL CLARIFICATION — The Gospels Describe the Lord**:
+
+The Gospels are not primarily a biography of a remarkable human. **They describe THE LORD** — the same Lord who always was, is, and always will be — as He expresses in ultimates through the historical narrative. By the doctrine of correspondences, the natural level IS the spiritual/celestial expressing in that plane. The biography of Jesus IS the Lord's biography in the natural.
+
+This is why the Gospel narrative has spiritual and celestial senses — because it describes the Lord Himself, whose nature unfolds through all levels of meaning. The "human Jesus" is not something separate from the Lord that the Lord "filled" — the human ultimate IS the Lord appearing in that degree of existence.
+
+**The synthesis resolves all four errors**:
+
+| Component | Resolution |
+|-----------|------------|
+| **The Being of Light** | IS the Lord — constant reality, universal presence |
+| **Variable Form** | The Lord appears in forms the soul can receive (Jesus, Amida, Light) |
+| **Jesus's Achievement** | Maximal transparency through alignment, not biological origin |
+| **The Bricolage** | Theological profile in Scripture represents the Lord accurately THROUGH cultural materials |
+| **Historical + Faith** | The "Christ of Faith" is the Divine expression THROUGH the "Historical Jesus" — they interpenetrate |
+| **The Gospels** | Describe THE LORD in ultimates, not "a human who had divine qualities" |
+
+**Why this avoids all four errors**:
+- NOT biological determinism → Jesus wasn't God-in-a-suit with divine soul/human body
+- NOT Gnostic splitting → Jesus wasn't just a container for impersonal energy
+- NOT secular dichotomy → the two categories are not mutually exclusive
+- NOT humanist reduction → the Gospels describe the Lord, not "just a holy human"
+
+#### Documents with refined position (PRIMARY SOURCES):
+- [x] `data/unclassified/The Divine Human in Ultimates.md` — **PRIMARY**: Defines "Aligned Human" concept
+- [x] `data/00_Framework/Epistle - The Divine Marriage and the Expression of the Lord in Ultimates.md` — Key formulation: "a soul through which the Lord flows without obstruction IS the Lord in ultimates"
+- [x] `data/unclassified/The Epistemic Architecture...md` §5.2 — Comprehensive treatment
+- [x] `data/02_Swedenborgian_Theology/Divine Bricolage vs. Swedenborg's Jesus.md` — Problem diagnosis
+
+#### Documents needing annotation (present dichotomy without synthesis):
+- [x] `data/02_Swedenborgian_Theology/The Divine Human in Ultimates...Actual Jesus of Love.md` — Presents synthesis but retains residual framing; #19 added to header/inline (2026-01-26)
+- [x] `data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md` — §4.1 presents dichotomy as standard HCM framework; #19 added to header/inline (2026-01-26)
+- [x] `data/03_Biblical_Scholarship/Re-evaluating Gospel Embarrassment.md` — Uses dichotomy as organizing frame; #19 added (2026-01-26) — document ALIGNS with synthesis
+- [x] `data/04_Early_Christian_History/Quranic Isa vs. Early Christianity.md` — Restores "Jesus of History" but needs note that framework synthesis is MORE than restoration; #19 added (2026-01-26)
+
+#### Cross-References to Other Strains
+
+| Strain | Relationship |
+|--------|--------------|
+| #2 (Biological Determinism) | #19 is the **destination**; #2 is one error corrected en route |
+| #9 (Resurrection Evolution) | Tracks how bricolage shaped the physicalist portrait |
+| #15 (Magi as Construct) | Another instance of bricolage shaping the portrait |
+| #17 (Virgin Birth) | Another instance of bricolage shaping the portrait |
+| Gnostic Analysis docs | Profile the OPPOSITE error (#19 avoids both extremes) |
+
+#### Annotation Template
+```markdown
+> **[SYNTHESIS #19]** The framework's synthesis: The Gospels describe THE LORD — the same 
+> Lord who always was, is, and always will be — expressing in ultimates through the 
+> historical narrative. By correspondence, the natural level IS the Lord appearing in that 
+> degree. Jesus was a complete human soul whose ruling love was oriented toward the Divine, 
+> achieving maximal transparency. The "human Jesus" is not separate from the Lord that 
+> "filled" him — the human ultimate IS the Lord in that plane of existence. This avoids 
+> four errors: biological determinism (God-in-suit), Gnostic splitting (container/contents), 
+> secular dichotomy (irreconcilable categories), and humanist reduction (just a holy human).
+> See: The Divine Human in Ultimates (data/unclassified/).
+```
+
+---
+
 ## Document Review Checklist
 
 ### High Priority Documents to Review
@@ -843,6 +930,7 @@ Use blockquote format at the relevant section:
 | 2026-01-26 | Initial creation with 10 identified strains |
 | 2026-01-26 | Added 7 NEW strains (11-17) from review of January 22-26 documents |
 | 2026-01-26 | Added strain #18 (Bene Qedem as True Carriers)—CRITICAL correction from "The Bifurcated Gnosis" |
+| 2026-01-26 | Added strain #19 (The Aligned Human)—SYNTHESIS strain resolving Historical Jesus / Christ of Faith dichotomy |
 
 ### New Documents Reviewed (2026-01-26)
 

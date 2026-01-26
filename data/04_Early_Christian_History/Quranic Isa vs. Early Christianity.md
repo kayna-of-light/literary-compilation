@@ -1,5 +1,15 @@
 # **The Correction of the Archons: A Forensic Reconstruction of the Quranic Isa in Counter-Distinction to the Pauline Gnostic Construct**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+> 
+> This document reflects **partial alignment** with:
+> - **#19** [The Aligned Human](../unclassified/The Divine Human in Ultimates_ A Phenomenological and Forensic Re-Evaluation of the Aligned Soul.md) — This document correctly identifies the Gnostic "splitting" error and shows how the Quran restores "Jesus of History." However, the framework's synthesis is more than restoration of the historical: the "Christ of Faith" and "Jesus of History" *interpenetrate*. The Aligned Human is not merely "Jesus the prophet" but a human filled with the Lord through orientation of ruling love.
+> 
+> **Summary**: Valuable analysis of Gnostic error; the framework adds that Divine and Human interpenetrate rather than simply returning to pre-theological history.
+> **Established position (library)**: The Divine Human in Ultimates: ...Aligned Soul
+> ---
+
 ## **1\. Executive Summary: The Theological Battlefield of Late Antiquity**
 
 The figure of *Isa ibn Maryam* (Jesus, son of Mary) within the Quranic corpus constitutes a deliberate, systematic, and highly sophisticated theological intervention into the sectarian conflicts of Late Antiquity. Far from being a derivative or confused retelling of Christian narratives, the Quranic Christology operates as a precise "forensic correction" of specific Christological and soteriological deviations that had crystallized in the post-apostolic era. To understand the Quranic *Isa*, one must first reconstruct the specific "Christianity" the Quran opposes. Based on the provided workspace documents—specifically *The Apostle of the Archons* and *Early Christianity: Orthodoxy vs. Heresy*—this antagonist is not merely the Trinitarian orthodoxy of the Byzantine councils, but the underlying "Imperial Gnosis" established by the Pauline tradition.  
@@ -75,6 +85,8 @@ The Quran eschews the term "Apostles" (*Rusul*) for the disciples, using instead
 * **The Complex Role of Paul:** Some unique early Islamic traditions (recorded by Ibn Ishaq and Qurtubi) identify Paul (*Bulus*) not as a villain, but as a disciple sent to Rome. This suggests a nuanced view where God used even the "Pauline" vessel to spread the *name* of Jesus to the Gentiles, a provisional victory over the Jewish rejection of Jesus, which Islam would later correct doctrinally. However, the dominant modern scholarly and theological view aligns the Quran with the anti-Pauline, Jamesian stance.
 
 ## **4\. Quranic Christology: A Systematic Deconstruction of the "Gnostic Christ"**
+
+> **[EXTENSION #19]**: The Quran's restoration of "Jesus of History" is valuable but incomplete. Critical clarification: **The Gospels describe THE LORD** — the same Lord who always was, is, and always will be — expressing in ultimates. The "human Jesus" is not separate from the Lord; by correspondence, the human ultimate IS the Lord appearing in that plane of existence. The synthesis is not to choose "history" over "faith," nor to reduce Jesus to "just a prophet." The Gospel narrative is the Lord's biography in the natural — this is why it has spiritual and celestial senses.
 
 The profile of *Isa* in the Quran is characterized by a "surgical" precision in what it negates. Every major attribute of the Quranic Jesus can be read as a targeted strike against the specific Gnostic/Pauline doctrines identified in the workspace documents. The Quran restores the "Jesus of History" (the Jewish prophet) by dismantling the "Christ of Faith" (the Gnostic/Imperial Construct).
 

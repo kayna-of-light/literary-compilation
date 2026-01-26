@@ -4,11 +4,10 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
-> - **#11** [Correspondence as Ontology (Not Transmission)](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#11-correspondence-as-ontology-not-transmission) — This document frames correspondence as Magian knowledge that Plato "rescued" and "transmitted" into Greek philosophy. Current analysis reframes correspondence as **ontological law**—independently discoverable like gravity, not requiring transmission chains. Evidence: 30,000-year Paleolithic consistency, Göbekli Tepe (7,000 years pre-Zoroaster), zero-contact parallelism.
-> - **#18** [Bene Qedem as True Carriers (Not Magi)](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#18-bene-qedem-as-true-carriers-not-magi) — Several passages frame the "Science of Correspondences" as primarily "Magian," rather than distinguishing (a) *Bene Qedem* as the primary carriers and (b) the Magian priesthood as a later institutionalizer/appropriator.
+> - **#11** [Correspondence as Ontology](../unclassified/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on the Swedenborgian Framework as Scientific Hypothesis.md) — This document frames correspondence as Magian knowledge that Plato "rescued" and "transmitted" into Greek philosophy. Current analysis reframes correspondence as **ontological law**—independently discoverable like gravity, not requiring transmission chains. Evidence: 30,000-year Paleolithic consistency, Göbekli Tepe (7,000 years pre-Zoroaster), zero-contact parallelism.
+> - **#18** [Bene Qedem as True Carriers](../unclassified/The Bifurcated Gnosis_ A Genealogical Reconstruction of the Science of Correspondences from the Bene Qedem to the Matthean Synthesis.md) — Several passages frame the "Science of Correspondences" as primarily "Magian," rather than distinguishing (a) *Bene Qedem* as the primary carriers and (b) the Magian priesthood as a later institutionalizer/appropriator.
 > 
 > **Summary**: Correspondence is perceivable reality, not transmitted doctrine. Treat "Magian correspondences" as a *later institutional form* of a broader Eastern correspondence tradition, rather than its origin.
-> **Established correction (library)**: The Epistemic Architecture of Post-Materialist Inquiry (Part III, §3.3); The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
 > ---
 
 ## **I. Introduction: The Epistemological Fracture and the Platonic Project**

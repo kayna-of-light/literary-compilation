@@ -4,10 +4,9 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 >
 > This document reflects **earlier understanding** on:
-> - **#9** [Resurrection Narrative Evolution](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#9-resurrection-narrative-evolution) — This analysis treats Luke’s “broiled fish” scene as straightforward historical grounding for the “Actual Jesus,” without flagging the textual layering and anti-Docetic polemic of the later Gospel strata.
+> - **#9** [Resurrection Narrative Evolution](../03_Biblical_Scholarship/Resurrection Narrative Evolution in New Testament.md) — This analysis treats Luke’s “broiled fish” scene as straightforward historical grounding for the “Actual Jesus,” without flagging the textual layering and anti-Docetic polemic of the later Gospel strata.
 >
 > **Summary**: The physical-proof motifs ("flesh and bones", eating fish, touching wounds) are best read as later materializing layers in the tradition; historical grounding should not rely on those motifs as if they were the earliest witness.
-> **Established correction (library)**: Resurrection Narrative Evolution in New Testament
 > ---
 
 ## **1\. Introduction: The Theological Crisis of the Self**

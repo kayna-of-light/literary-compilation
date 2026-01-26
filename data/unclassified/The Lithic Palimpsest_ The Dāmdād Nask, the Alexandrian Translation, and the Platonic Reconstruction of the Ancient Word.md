@@ -4,10 +4,9 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 > 
 > This document reflects **earlier understanding** on:
-> - **#18** [Bene Qedem as True Carriers (Not Magi)](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#18-bene-qedem-as-true-carriers-not-magi) — Several passages frame the “Science of Correspondences” primarily as “Magian,” without distinguishing *Bene Qedem* as the primary carrier tradition and the Magian priesthood as a later institutionalizer/appropriator.
+> - **#18** [Bene Qedem as True Carriers](../unclassified/The Bifurcated Gnosis_ A Genealogical Reconstruction of the Science of Correspondences from the Bene Qedem to the Matthean Synthesis.md) — Several passages frame the “Science of Correspondences” primarily as “Magian,” without distinguishing *Bene Qedem* as the primary carrier tradition and the Magian priesthood as a later institutionalizer/appropriator.
 > 
 > **Summary**: Where this document treats “Magian correspondences” as the core carrier-stream, update interpretation to a broader Eastern correspondence lineage (Bene Qedem), with Magian codification/appropriation as a later phase.
-> **Established correction (library)**: The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
 > ---
 
 ## **I. Introduction: The Epistemological Fracture and the Recovery of the Ancient Mind**

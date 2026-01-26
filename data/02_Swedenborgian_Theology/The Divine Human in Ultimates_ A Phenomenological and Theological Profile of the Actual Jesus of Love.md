@@ -4,10 +4,9 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 >
 > This document reflects **earlier understanding** on:
-> - **#9** [Resurrection Narrative Evolution](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#9-resurrection-narrative-evolution) — This document treats the Gospel resurrection profile as direct phenomenology without consistently flagging the tradition’s progressive materialization (empty tomb → physical proofs).
+> - **#9** [Resurrection Narrative Evolution](../03_Biblical_Scholarship/Resurrection Narrative Evolution in New Testament.md) — This document treats the Gospel resurrection profile as direct phenomenology without consistently flagging the tradition’s progressive materialization (empty tomb → physical proofs).
 >
 > **Summary**: The correspondential meaning of “broiled fish” and similar motifs can be retained, but the motifs themselves should be treated as later anti-Docetic/theological messaging layers rather than the earliest apostolic witness.
-> **Established correction (library)**: Resurrection Narrative Evolution in New Testament
 > ---
 
 ## **1\. Introduction: The Convergence of History, Theology, and Phenomenology**

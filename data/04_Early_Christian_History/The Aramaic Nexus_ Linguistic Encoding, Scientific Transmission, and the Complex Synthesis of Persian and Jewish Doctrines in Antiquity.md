@@ -4,8 +4,8 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
-> - **#11** [Correspondence as Ontology](../unclassified/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on the Swedenborgian Framework as Scientific Hypothesis.md) — This document frames the "Science of Correspondences" as knowledge transmitted via Aramaic channels (Magi → Jews). Current analysis reframes correspondence as **ontological law**—independently discoverable like gravity, not requiring transmission.
-> - **#18** [Bene Qedem as True Carriers](../unclassified/The Bifurcated Gnosis_ A Genealogical Reconstruction of the Science of Correspondences from the Bene Qedem to the Matthean Synthesis.md) — Where Magi are treated as originators, current position distinguishes the *Bene Qedem* as primary carriers with Magi as later institutional appropriators.
+> - **#11** [Correspondence as Ontology](../02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on Hypothesis-Testing with the Swedenborgian Framework.md) — This document frames the "Science of Correspondences" as knowledge transmitted via Aramaic channels (Magi → Jews). Current analysis reframes correspondence as **ontological law**—independently discoverable like gravity, not requiring transmission.
+> - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word.md) — Where Magi are treated as originators, current position distinguishes the *Bene Qedem* as primary carriers with Magi as later institutional appropriators.
 > 
 > **Summary**: Correspondence is perceivable reality, not transmitted doctrine. 30,000-year consistency in symbolic systems and zero-contact parallelism (Göbekli Tepe, Shasu of Yhw, Aboriginal songlines) demonstrate independent recognition across cultures.
 > ---

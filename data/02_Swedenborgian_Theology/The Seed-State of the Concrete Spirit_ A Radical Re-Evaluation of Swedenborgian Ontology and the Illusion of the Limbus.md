@@ -4,7 +4,7 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
-> - **#3** [Reincarnation Model](../unclassified/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on the Swedenborgian Framework as Scientific Hypothesis.md) — Section 5.3 states reincarnation is "generally rejected" in the Swedenborgian system, without discussing the DOPS exceptions; current position: a **three-tiered hybrid model** where Spirit Influence explains weak claims, Restorative Incarnation explains strong DOPS evidence (70%+ violent death, 88% birthmark correspondence), and Volunteer Soul explains mission-based returns.
+> - **#3** [Reincarnation Model](../02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on Hypothesis-Testing with the Swedenborgian Framework.md) — Section 5.3 states reincarnation is "generally rejected" in the Swedenborgian system, without discussing the DOPS exceptions; current position: a **three-tiered hybrid model** where Spirit Influence explains weak claims, Restorative Incarnation explains strong DOPS evidence (70%+ violent death, 88% birthmark correspondence), and Volunteer Soul explains mission-based returns.
 > 
 > **Summary**: Swedenborg's categorical rejection was internally consistent with his limbus premise; once limbus is artifact, exceptional reincarnation becomes theoretically possible for cases spirit influence cannot explain.
 > ---

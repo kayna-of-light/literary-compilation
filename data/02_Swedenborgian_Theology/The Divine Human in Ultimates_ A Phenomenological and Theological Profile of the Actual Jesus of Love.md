@@ -5,7 +5,7 @@
 >
 > This document reflects **earlier understanding** on:
 > - **#9** [Resurrection Narrative Evolution](../03_Biblical_Scholarship/Resurrection Narrative Evolution in New Testament.md) — This document treats the Gospel resurrection profile as direct phenomenology without consistently flagging the tradition’s progressive materialization (empty tomb → physical proofs).
-> - **#19** [The Aligned Human](../unclassified/The Divine Human in Ultimates_ A Phenomenological and Forensic Re-Evaluation of the Aligned Soul.md) — This document presents the "Historical Jesus" / "Christ of Faith" dichotomy and proposes a synthesis, but retains residual "Divine soul + Human body" framing. The refined position: Jesus was a complete human whose ruling love was oriented toward the Divine, achieving maximal transparency.
+> - **#19** [The Aligned Human](../02_Swedenborgian_Theology/The Divine Human in Ultimates_ A Phenomenological and Forensic Re-Evaluation of the Aligned Soul.md) — This document presents the "Historical Jesus" / "Christ of Faith" dichotomy and proposes a synthesis, but retains residual "Divine soul + Human body" framing. The refined position: Jesus was a complete human whose ruling love was oriented toward the Divine, achieving maximal transparency.
 >
 > **Summary**: The correspondential meanings are retained, but Jesus was not "God-in-a-suit" (biological determinism) — he was a human *filled* with the Lord through alignment of will.
 > ---

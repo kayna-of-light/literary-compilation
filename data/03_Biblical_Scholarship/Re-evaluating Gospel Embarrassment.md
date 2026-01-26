@@ -4,7 +4,7 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 > 
 > This document reflects **current understanding** on:
-> - **#19** [The Aligned Human](../unclassified/The Divine Human in Ultimates_ A Phenomenological and Forensic Re-Evaluation of the Aligned Soul.md) — This document's "Criterion of Temptation" and Jamesian orthopraxy align with the #19 synthesis: perfection through struggle, not static immunity. The "Jamesian Jesus" described here IS the "Aligned Human."
+> - **#19** [The Aligned Human](../02_Swedenborgian_Theology/The Divine Human in Ultimates_ A Phenomenological and Forensic Re-Evaluation of the Aligned Soul.md) — This document's "Criterion of Temptation" and Jamesian orthopraxy align with the #19 synthesis: perfection through struggle, not static immunity. The "Jamesian Jesus" described here IS the "Aligned Human."
 > 
 > **Summary**: This document correctly identifies the Pauline Gnostic error and proposes the Jamesian alternative, which is the framework's own position.
 > **Established position (library)**: The Divine Human in Ultimates: ...Aligned Soul

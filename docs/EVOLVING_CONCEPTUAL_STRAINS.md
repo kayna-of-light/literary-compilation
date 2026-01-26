@@ -33,8 +33,8 @@ This document catalogs conceptual strains where understanding has evolved over t
 - [x] 13. [Bicameral Mind Refutation](#13-bicameral-mind-refutation) — Critical Analysis (Medium) ✓ 1 doc annotated (2026-01-26)
 - [x] 14. [Somatic Influx / Radical Remission](#14-somatic-influx-and-radical-remission) — **Retired (evidence supporting #11; not a corpus strain)** (Low)
 - [x] 15. [The Magi Narrative as Theological Construct](#15-the-magi-narrative-as-theological-construct) — Critical Analysis (High) ✓ 3 docs annotated (2026-01-27)
-- [ ] 16. [Göbekli Tepe as Crisis Management](#16-göbekli-tepe-as-crisis-management-diagram) — Interpretation (Medium)
-- [ ] 17. [Virgin Birth as Translation Artifact](#17-virgin-birth-as-translation-artifact) — Critical Analysis (High) — ASSESSED: Corpus already aware (*almah* noted in tables); overlaps #2
+- [x] 16. [Göbekli Tepe as Crisis Management](#16-göbekli-tepe-as-crisis-management-diagram) — Interpretation (Medium) ✓ 2 docs annotated (2026-01-26)
+- [x] 17. [Virgin Birth as Translation Artifact](#17-virgin-birth-as-translation-artifact) — Critical Analysis (High) ✓ 1 doc annotated (2026-01-26)
 - [x] 18. [Bene Qedem as True Carriers](#18-bene-qedem-as-true-carriers-not-magi) — Correction (**Critical**)
 
 ---
@@ -627,6 +627,10 @@ Pillar 43 (Vulture Stone) read as **theological schematic of the Fall**:
 
 **Implication**: Göbekli Tepe is not "mindless worship" but **salvific technology**—a lithic encyclopedia created as internal perception collapsed.
 
+**Documents annotated for earlier position (2026-01-26)**:
+- [x] `data/02_Swedenborgian_Theology/Swedenborg's Ancient Word and Science.md`
+- [x] `data/06_Mythological_Studies/Echoes of an Ancient Word_ A Scientific and Mythological Inquiry into the Caliber of a Lost Universal Knowledge.md`
+
 **Documents with interpretation**:
 - [x] `data/unclassified/The Architecture of Influx...md` (Section I)
 - [x] `data/unclassified/The Agency of the Ancients...md` (Section V)
@@ -645,6 +649,8 @@ Pillar 43 (Vulture Stone) read as **theological schematic of the Fall**:
 
 **Evolution Type**: CRITICAL ANALYSIS  
 **Priority**: High
+
+**Status**: ✅ COMPLETE — 1 document annotated (2026-01-26)
 
 #### Earlier Position
 Virgin Birth (Isaiah 7:14 → Matthew 1:23) accepted as:
@@ -670,6 +676,9 @@ The "biological miracle" rests on a **translation choice**:
 **Documents with critical analysis**:
 - [x] `data/unclassified/The Biological Error and the Theological Rescue...md` (Section 4)
 - [x] Scholarly consensus on Isaiah 7:14 (*almah* vs *betulah*)
+
+**Documents annotated for earlier position (2026-01-26)**:
+- [x] `data/04_Early_Christian_History/Persian Roots of Early Christianity.md`
 
 #### Annotation Template
 ```markdown

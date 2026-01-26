@@ -1,5 +1,16 @@
 # **The Archival Rupture: Alexander, Aristotle, and the Philosophical Purge of the Magian Encyclopedia**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-27
+> 
+> This document reflects **earlier understanding** on:
+> - **#11** [Correspondence as Ontology (Not Transmission)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#11-correspondence-as-ontology-not-transmission) — This document frames the "Science of Correspondences" as Magian archival knowledge that was transmitted/destroyed. Current analysis reframes correspondence as **ontological law**—independently discoverable like gravity, not dependent on transmission chains.
+> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#18-bene-qedem-as-true-carriers-not-magi) — Where Magi are treated as possessors/originators of correspondential science, current position distinguishes the *Bene Qedem* as primary carriers with Magi as later institutional codifiers.
+> 
+> **Summary**: Correspondence is perceivable reality that cannot be "destroyed" by burning archives. Evidence: 30,000-year Paleolithic consistency, Göbekli Tepe (7,000 years pre-Zoroaster), Aboriginal songlines—all demonstrate independent recognition across zero-contact cultures.
+> **Established correction (library)**: The Epistemic Architecture of Post-Materialist Inquiry (Part III, §3.3); The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
+> ---
+
 ## **I. Introduction: The Epistemological Fracture and the Targeted Archive**
 
 The conflagration that consumed the Achaemenid palace complex at Persepolis in 330 BCE constitutes one of the defining ruptures in the intellectual history of antiquity. Conventional historiography, relying principally on the Greek vulgate tradition of Diodorus Siculus, Plutarch, and Arrian, has traditionally framed this event as a singular moment of military excess—either a calculated act of political vengeance for the Persian destruction of the Athenian Acropolis in 480 BCE or, more scandalously, the impulsive climax of a drunken symposiastic revelry instigated by the courtesan Thaïs. Within this narrative, the burning of the royal archives is treated as collateral damage, a tragic but unintended consequence of the destruction of the seat of Persian power. However, a rigorous forensic analysis of the available Zoroastrian historiography, when triangulated with the philosophical trajectory of the Greek Academy from Plato to Aristotle, suggests a radically different and far more systematic hypothesis. This report investigates the proposition that the destruction of the Persian archives was neither accidental nor purely punitive, but a targeted, philosophically motivated act of "epistemicide" and appropriation—a "hostile takeover" of the ancient Magian scientific corpus known as the *Dāmdād Nask*, guided by the intellectual exigencies of the Aristotelian project.  
@@ -18,6 +29,8 @@ While the liturgical texts (*Manthra*) were preserved orally to maintain the pho
 The contents of the *Dāmdād Nask*, partially reconstructed in the 9th-century *Bundahišn* and the *Selections of Zādspram*, reveal a sophisticated biological and cosmological system. It classified the natural world not merely by morphology or utility, but by spiritual alignment. Animals were not just biological entities but "beneficent" (*gōspand*) or "noxious" (*xrafstra*), categories that denoted their ontological function in the cosmic war between Ahura Mazda (Order/Truth) and Angra Mainyu (Chaos/Lie). This classification extended to botany, where plants were categorized by their capacity to heal or poison, corresponding to their celestial patrons. This was a "Science of Correspondences" where the physical world (*gētīg*) was the visible manifestation of a spiritual cause (*mēnōg*).
 
 ### **B. The Ontology of Mēnōg and Gētīg**
+
+> **[REFRAMING #11]**: This section treats the mēnōg/gētīg ontology as a "threat" that could be destroyed by burning archives. However, correspondence is **ontological law**, not transmittable doctrine. The Göbekli Tepe animal arrangements (9500 BCE) show the same correspondential classification 7,000 years before Zoroaster—with no transmission chain. Alexander could destroy the *texts* but not the *perceivable reality* that generated them.
 
 The core philosophical threat the *Dāmdād Nask* posed to the emerging Aristotelian worldview lay in its rigorous dualist ontology. Magian science posited that the universe originated in a spiritual state (*mēnōg*) before precipitating into a material state (*gētīg*). This was not a vague mysticism but a precise causal mechanics.
 

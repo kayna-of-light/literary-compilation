@@ -1,5 +1,16 @@
 # **The Persian Architecture of a New Faith: Tracing the Historical and Theological Foundations of Christianity from the Achaemenid Empire to Roman Judea**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-27
+> 
+> This document reflects **earlier understanding** on:
+> - **#15** [Magi Narrative as Theological Construct](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#15-the-magi-narrative-as-theological-construct) — Part IV treats the Magi's journey and gifts as historically significant fulfillment. Critical analysis: Matthew 2 is a theological construct (c. 80-90 CE) using bricolage to fill Proto-Luke's vacuum, counter Marcion, and subvert the Tiridates-Nero spectacle. The star behavior is physically impossible—it is a literary star.
+> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — Part IV's framing of the Magi's "Science of Correspondences" treats them as primary carriers; current position treats the *Bene Qedem* ("Children of the East") as primary carriers, with the Magi as a later institutional layer.
+> 
+> **Summary**: The Magi narrative is theological construct, not historical chronicle. Reframe "Magi as carriers of correspondential science" → "Bene Qedem as primary carriers; Magi as later institutionalizers."
+> **Established correction (library)**: The Celestial Synthesis (Magi Narrative_ Theological Construct Analysis.md); The Bifurcated Gnosis
+> ---
+
 ## **Introduction: Beyond a Prelude—The Persian Period as a Formative Matrix**
 
 The emergence of Christianity in the 1st century CE is an event of such historical magnitude that its antecedents are often viewed through a teleological lens, as a simple prelude to a foregone conclusion. Within this framework, the Persian period of Jewish history (c. 539–332 BCE) is frequently relegated to the status of a mere interlude—a time of "restoration" between the trauma of the Babylonian Exile and the turmoil of the Hellenistic and Roman eras. This report will advance a fundamentally different thesis: that the Persian period was not merely a historical backdrop but a formative crucible that profoundly reshaped Jewish theology, scripture, and national identity. This transformation created the essential intellectual, political, and eschatological architecture within which the Jesus movement and early Christianity would later emerge and find its language. To understand Christian origins, one must first understand the world the Persians made.  
@@ -70,6 +81,10 @@ The traditional agrarian and fishing economies were commercialized and integrate
 This environment of deep social stress, dispossession, and resentment was fertile ground for prophetic and millenarian movements that promised a radical, divine intervention to overturn the oppressive social order and inaugurate a new age of justice. The fervent messianic expectation of the 1st century CE was therefore not simply an abstract theological hope. It was a potent cocktail fueled by three distinct historical ingredients. First was the *cosmic framework* of a battle between good and evil and the promise of a coming savior, a legacy of the Persian era. Second was the sharp and painful *political memory* of recent Hasmonean independence, which provided a stark contrast to the current reality of subjugation. Third, and most immediate, was the acute *economic desperation* born of the specific pressures of the Roman system. Christianity emerged not just into a world that was waiting for a Messiah, but into a world whose material conditions made that waiting desperately urgent.
 
 ## **Part IV: The Culmination: The Persian Legacy in the Christian Genesis**
+
+> **[CORRECTION #15]**: This Part treats the Matthew 2 Magi narrative as historically anchored convergence of Persian and Jewish prophetic streams. Current critical synthesis treats Matthew 2 (including the “star” behavior) as a late Matthean theological construct (c. 80–90 CE) assembled via bricolage to fill Proto-Luke’s vacuum, counter Marcion, and subvert the Tiridates–Nero spectacle; the “star” functions as a literary star rather than a physical astronomical agent.
+
+> **[CORRECTION #18]**: This Part’s framing implicitly treats the Magi and their “Science of Correspondences” as primary carriers of the Eastern wisdom-stream. Current synthesis distinguishes the *Bene Qedem* (“Children of the East”) as primary carriers of living correspondential “nature wisdom,” with the Magian priesthood functioning as a later institutional layer that codified and (in places) appropriated that prior lineage.
 
 The historical and theological through-lines originating in the Persian period converge with remarkable force at the very beginning of the Christian story. The narrative of the Magi in the Gospel of Matthew functions as a microcosm of the entire Persian-Jewish synthesis, demonstrating how the two great prophetic streams of the East were understood to meet in the person of Jesus. Furthermore, the central message of the early Jesus movement—the proclamation of the "Kingdom of God"—can be understood as a powerful theological critique of Roman imperial rule, articulated using the cosmic and dualistic language inherited from the Persian worldview.
 

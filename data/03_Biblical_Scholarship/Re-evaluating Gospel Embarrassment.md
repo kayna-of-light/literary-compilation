@@ -1,5 +1,15 @@
 # **The Scandal of the Flesh: Re-Evaluating the Criterion of Embarrassment through the Lens of Jamesian Orthopraxy and the Rejection of Pauline Gnosticism**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+> 
+> This document reflects **current understanding** on:
+> - **#19** [The Aligned Human](../unclassified/The Divine Human in Ultimates_ A Phenomenological and Forensic Re-Evaluation of the Aligned Soul.md) — This document's "Criterion of Temptation" and Jamesian orthopraxy align with the #19 synthesis: perfection through struggle, not static immunity. The "Jamesian Jesus" described here IS the "Aligned Human."
+> 
+> **Summary**: This document correctly identifies the Pauline Gnostic error and proposes the Jamesian alternative, which is the framework's own position.
+> **Established position (library)**: The Divine Human in Ultimates: ...Aligned Soul
+> ---
+
 ## **I. Introduction: The Crisis of Historical Criteria**
 
 The academic quest for the historical Jesus has long been governed by a rigorous set of methodological tools designed to separate the "Jesus of History" from the "Christ of Faith." Central to this enterprise is the *Criterion of Embarrassment*, a heuristic which posits that the early church would not have invented narratives that depicted its founder in a compromising, weak, or subordinate light. Therefore, such "awkward" moments—his baptism by John, his admission of ignorance regarding the End Times, his physical agony—are granted a high probability of historical facticity. The logic is forensic: these events are "true" because they were "embarrassing" to a community intent on deifying its leader.  
@@ -46,6 +56,8 @@ Paul’s theology exhibits a profound suspicion of the material cosmos. He refer
 
 The second pillar of Pauline Gnosis is the rejection of the Jewish Law (Torah). Paul argues that "Christ is the end of the law" (Rom 10:4) and that the Law was a "ministry of death" (2 Cor 3:7). In the research reconstruction, this aligns with the Marcionite/Gnostic view that the Law was the mechanism of the Demiurge (the inferior Creator) designed to enslave humanity. Paul replaces the "obedience" of the Law with the "faith" (*pistis*) of the mystery cult.  
 **The Consequence for "Embarrassment":** This creates a massive conflict with the historical memory of Jesus. If Jesus lived as a Law-observant Jew—keeping the Sabbath, paying the Temple tax, and submitting to the baptism of John—he contradicts Paul’s central thesis. A Jesus who validates the Law is "embarrassing" to a theology that declares the Law obsolete. The Criterion of Embarrassment, therefore, often identifies Jesus’s Jewishness as "historical" simply because it is "anti-Pauline."
+
+> **[SYNTHESIS #19]**: The following discussion identifies the problem correctly. Critical clarification: **The Gospels describe THE LORD** — the same Lord who always was, is, and always will be — expressing in ultimates. The "human Jesus" is not separate from the Lord — by correspondence, the human ultimate IS the Lord appearing in that plane of existence. The Gospel narrative is the Lord's biography in the natural. This avoids both errors: biological determinism (God-in-suit) AND humanist reduction ("just a holy human"). See: *The Divine Human in Ultimates: ...Aligned Soul*.
 
 #### **3.1.3 The "Christ of Faith" vs. The "Jesus of History"**
 

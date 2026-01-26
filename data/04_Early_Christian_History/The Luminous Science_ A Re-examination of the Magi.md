@@ -2,12 +2,11 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
-> - **#6** [Magi and Daniel Historicity](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-6-magi-and-daniel-historicity) — Part II refers to "Daniel, the Rab-mag"; the biblical text assigns Daniel the titles *Rab-signīn* (Dan 2:48) and *Rab-hartummin* (Dan 4:9). *Rab-mag* appears only in Jeremiah 39 for Nergal-sharezer.
-> - **#15** [Magi Narrative as Theological Construct](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#15-the-magi-narrative-as-theological-construct) — The document treats the Magi's journey to Bethlehem as spiritually significant history. Critical analysis: Matthew 2 is a theological construct (c. 80-90 CE) using bricolage to fill Proto-Luke's vacuum, counter Marcion, and subvert the Tiridates-Nero spectacle.
-> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — This document foregrounds the Magi as primary preservers/carriers of correspondential science; current position treats the *Bene Qedem* ("Children of the East") as primary carriers, with the Magi as a later institutional layer.
+> - **#6** [Magi and Daniel Historicity](../03_Biblical_Scholarship/Daniel_ Historicity and Cultural Synthesis.md) — Part II refers to "Daniel, the Rab-mag"; the biblical text assigns Daniel the titles *Rab-signīn* (Dan 2:48) and *Rab-hartummin* (Dan 4:9). *Rab-mag* appears only in Jeremiah 39 for Nergal-sharezer.
+> - **#15** [Magi Narrative as Theological Construct](../unclassified/The Celestial Synthesis and the Forensic Gaze_ A Re-Evaluation of the Magi Narrative as Theological Construct and Geopolitical Reaction.md) — The document treats the Magi's journey to Bethlehem as spiritually significant history. Critical analysis: Matthew 2 is a theological construct (c. 80-90 CE) using bricolage to fill Proto-Luke's vacuum, counter Marcion, and subvert the Tiridates-Nero spectacle.
+> - **#18** [Bene Qedem as True Carriers](../unclassified/The Bifurcated Gnosis_ A Genealogical Reconstruction of the Science of Correspondences from the Bene Qedem to the Matthean Synthesis.md) — This document foregrounds the Magi as primary preservers/carriers of correspondential science; current position treats the *Bene Qedem* ("Children of the East") as primary carriers, with the Magi as a later institutional layer.
 > 
 > **Summary**: (1) Correct Daniel's title; (2) note Magi narrative is theological construct, not historical chronicle; (3) reframe "Magi as preservers" → "Bene Qedem as primary carriers."
-> **Established correction (library)**: Daniel_ Historicity and Cultural Synthesis (Section 4.2, Table 1); The Celestial Synthesis (Magi Narrative_ Theological Construct Analysis.md); The Bifurcated Gnosis
 > ---
 
 ### **Introduction: From Historical Record to Spiritual Reality**

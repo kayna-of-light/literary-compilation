@@ -249,6 +249,70 @@ When editing or extending the framework:
 
 ---
 
+## Editorial Annotations for Evolved Understanding
+
+As understanding evolves across the corpus, earlier documents may contain positions that have been corrected, reframed, or extended in later documents. Rather than rewriting history, we **annotate** documents to guide readers.
+
+### The Evolving Conceptual Strains System
+
+All conceptual evolution is tracked in `docs/EVOLVING_CONCEPTUAL_STRAINS.md`:
+- **18 identified strains** (as of 2026-01-26) with evolution type and priority
+- Each strain includes: earlier position, refined position, key evidence, source documents
+- Strain numbers serve as cross-references in annotations
+
+### Annotation Format
+
+**Header Block** — Added immediately after title in affected documents:
+
+```markdown
+> ---
+> **📋 Editorial Notes** | Last reviewed: YYYY-MM-DD
+> 
+> This document reflects **earlier understanding** on:
+> - **#N** [Strain Name](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#anchor) — Brief impact
+> 
+> **Summary**: One-sentence correction with pointer to current document.
+> ---
+```
+
+**Inline Annotations** — For critical corrections at specific passages:
+
+```markdown
+> **[CORRECTION #N]**: Brief explanation of the correction.
+```
+
+### Annotation Types
+
+| Type | Use When |
+|------|----------|
+| `[EVOLVED]` | General evolution of understanding |
+| `[CORRECTION]` | Specific error identified and corrected |
+| `[REFRAMING]` | Same data, different interpretation |
+| `[EXTENSION]` | Original understanding extended with new evidence |
+| `[CRITICAL ANALYSIS]` | Scholarly analysis applied to earlier claims |
+
+### When to Annotate
+
+**DO annotate when:**
+- Document contains superseded understanding that could mislead readers
+- Document is frequently referenced by other documents or the knowledge graph
+- The evolution is substantive (not minor refinement)
+- The strain is marked **CRITICAL** or **High** priority
+
+**DO NOT annotate when:**
+- Document already reflects current understanding
+- The "earlier" position is presented as hypothesis being tested
+- The document is clearly dated and context is obvious
+
+### Full Manual
+
+See `docs/EDITORIAL_ANNOTATION_MANUAL.md` for complete instructions including:
+- Step-by-step annotation workflow
+- Templates for all annotation types
+- Examples from actual documents
+
+---
+
 ## Knowledge Graph Management
 
 The file `graph/knowledge_graph.yaml` is the **primary artifact** of this project — a structured knowledge base of interconnected concepts. The markdown file `graph/knowledge_graph.md` is auto-generated for GitHub viewing. Agents must actively maintain this graph during framework development.

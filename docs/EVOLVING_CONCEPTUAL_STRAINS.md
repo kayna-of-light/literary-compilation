@@ -175,7 +175,6 @@ The "Golden Age" or "Most Ancient Church" treated as a historical period (e.g., 
 
 **Documents reflecting earlier position** (ANNOTATED 2026-01-27):
 - [x] `data/02_Swedenborgian_Theology/Communication Among the Most Ancient People.md` (title equates Most Ancient Church with 40,000-10,000 BCE)
-- [x] `data/06_Mythological_Studies/Communication among the most ancient people...md` (duplicate)
 - [x] `data/06_Mythological_Studies/The Lithic Scripture_ A Hermeneutic Reconstruction...md` (§2.2: "deep Paleolithic" terminology ambiguous)
 - [x] `data/06_Mythological_Studies/The Semiotics of Sanctity_ A Diachronic Analysis...md` (§7.1 table: 40k-10k BCE with Original Participation)
 - [x] `data/06_Mythological_Studies/The Agency of the Ancients_ A Comprehensive Red Team Audit...md` (§V: places end of Golden Age at 9600 BCE)

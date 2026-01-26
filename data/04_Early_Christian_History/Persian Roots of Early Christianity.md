@@ -1,14 +1,15 @@
 # **The Persian Architecture of a New Faith: Tracing the Historical and Theological Foundations of Christianity from the Achaemenid Empire to Roman Judea**
 
 > ---
-> **📋 Editorial Notes** | Last reviewed: 2026-01-27
+> **📋 Editorial Notes** | Last reviewed: 2026-01-26
 > 
 > This document reflects **earlier understanding** on:
 > - **#15** [Magi Narrative as Theological Construct](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#15-the-magi-narrative-as-theological-construct) — Part IV treats the Magi's journey and gifts as historically significant fulfillment. Critical analysis: Matthew 2 is a theological construct (c. 80-90 CE) using bricolage to fill Proto-Luke's vacuum, counter Marcion, and subvert the Tiridates-Nero spectacle. The star behavior is physically impossible—it is a literary star.
 > - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — Part IV's framing of the Magi's "Science of Correspondences" treats them as primary carriers; current position treats the *Bene Qedem* ("Children of the East") as primary carriers, with the Magi as a later institutional layer.
+> - **#17** Virgin Birth as Translation Artifact — Part II links Isaiah 7:14 to "virgin" support; critical analysis: Hebrew *almah* denotes a young woman, while the "virgin" reading enters through the LXX *parthenos* reception.
 > 
 > **Summary**: The Magi narrative is theological construct, not historical chronicle. Reframe "Magi as carriers of correspondential science" → "Bene Qedem as primary carriers; Magi as later institutionalizers."
-> **Established correction (library)**: The Celestial Synthesis (Magi Narrative_ Theological Construct Analysis.md); The Bifurcated Gnosis
+> **Established correction (library)**: The Biological Error and the Theological Rescue; The Celestial Synthesis; The Bifurcated Gnosis
 > ---
 
 ## **Introduction: Beyond a Prelude—The Persian Period as a Formative Matrix**
@@ -50,6 +51,7 @@ This was not a simple case of religious borrowing. Rather, Jewish thinkers appea
 
 The Zoroastrian cosmic struggle was not an eternal stalemate; it was fundamentally eschatological, pointing toward a final, climactic victory of good over evil. This ultimate renovation of the world, the *Frashokereti*, was to be inaugurated by the coming of a world savior figure known as the *Saoshyant*, a term meaning "one who will bring benefit". Over time, this concept was systematized into a detailed prophetic timeline involving a final, great Saoshyant whose arrival would be marked by specific, observable phenomena. These included a miraculous virgin birth, a conception from the miraculously preserved seed of the prophet Zoroaster himself, and a preceding celestial sign in the heavens heralding his coming.  
 These Zoroastrian prophecies exhibit profound parallels with Jewish messianic expectations, which also developed and diversified significantly during the post-exilic period. While hopes for a Davidic king existed in earlier prophetic traditions, they were elaborated upon in this era to include specific signs and characteristics that echo the Saoshyant tradition. Jewish scriptures spoke of a future redeemer from the line of David whose coming would be heralded by "a star from Jacob" (Numbers 24:17) and whose birth was linked to a prophecy concerning a "young woman" or "virgin" (Isaiah 7:14).  
+> **[CRITICAL ANALYSIS #17]** Isaiah 7:14’s *almah* denotes a young woman, not a technical claim of biological virginity; the “virgin” reading enters through the LXX *parthenos* reception and later interpretive tradition.
 For the Magi, who operated within a worldview that can be described as a "Science of Correspondences," the discovery of such parallels would have been of immense significance. This intellectual system was predicated on the belief that the divine plan was revealed through corresponding signs in the material cosmos, in human history, and in the sacred traditions of peoples. The Jewish prophetic corpus, which was likely introduced into the Magian tradition during the exile through a figure of Daniel's stature, would not have been seen as a rival belief system. Instead, it would have been interpreted as a powerful, independent confirmation of the same universal truth they had discerned from their own scriptures and celestial observations. The alignment of two independent prophetic traditions would have suggested that the one supreme Creator had revealed His single plan through multiple streams of revelation. This convergence would have transformed their interpretation of any future celestial sign from a plausible hypothesis into a near certainty, making a quest to verify its terrestrial fulfillment an absolute imperative.  
 The following table juxtaposes the core attributes of the Zoroastrian Saoshyant and the Jewish Davidic Messiah, illustrating the compelling pattern of correspondences that would have been perceived.
 

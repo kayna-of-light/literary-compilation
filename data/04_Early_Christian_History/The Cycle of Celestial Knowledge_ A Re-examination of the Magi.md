@@ -2,10 +2,11 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 > 
 > This document reflects **earlier understanding** on:
-> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — This document foregrounds the Magi as inheritors of pristine correspondential science; current position treats the *Bene Qedem* (“Children of the East”) as primary carriers, with the Magi as a later institutional layer.
+> - **#6** [Magi and Daniel Historicity](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-6-magi-and-daniel-historicity) — Section 4 titles Daniel as *Rab-mag*; the biblical text assigns Daniel the titles *Rab-signīn* (Dan 2:48) and *Rab-hartummin* (Dan 4:9). *Rab-mag* appears only in Jeremiah 39 for Nergal-sharezer.
+> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — This document foregrounds the Magi as inheritors of pristine correspondential science; current position treats the *Bene Qedem* ("Children of the East") as primary carriers, with the Magi as a later institutional layer.
 > 
-> **Summary**: Reframe “Magi as inheritors of pristine correspondential science” → “Bene Qedem as primary carriers; Magi as later institutionalizers.”
-> **Established correction (library)**: The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
+> **Summary**: (1) Correct Daniel's title from *Rab-mag* to *Rab-signīn*/*Rab-hartummin*; (2) reframe "Magi as inheritors of pristine correspondential science" → "Bene Qedem as primary carriers; Magi as later institutionalizers."
+> **Established correction (library)**: Daniel_ Historicity and Cultural Synthesis (Section 4.2, Table 1); The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
 > ---
 
 ### **Introduction: From Historical Puzzle to Spiritual Paradigm**
@@ -47,6 +48,8 @@ The pre-Zoroastrian religion of the Iranians had devolved into a polytheistic sy
 Zarathushtra was a master of the ancient science who sought to rescue it from idolatry. The Magi, as the established priestly class of Western Iran, became the institutional guardians of this restored wisdom. They adopted his purified theology and integrated it into their ancient ritual framework, becoming the vessel that would preserve this reformed knowledge for centuries.
 
 ### **4\. The Prophetic Restoration: Daniel as the New Rab-mag**
+
+> **[CRITICAL ANALYSIS #6]** The section title and text incorrectly designate Daniel as "Rab-mag." The biblical text assigns Daniel the titles *Rab-signīn* (Chief Prefect, Dan 2:48) and *Rab-hartummin* (Chief of Magicians, Dan 4:9). The title *Rab-mag* appears only in Jeremiah 39:3, 39:13 for Nergal-sharezer, not Daniel. Greek translations rendered these distinct titles generically as *magoi*, causing later conflation.
 
 In this state of spiritual darkness, a divine intervention was necessary to restore the lost knowledge. This restoration came through the prophet Daniel. When Daniel was taken into exile in Babylon, he entered a court dominated by "wise men" who practiced a corrupted form of divination. They were unable to interpret King Nebuchadnezzar's dream because their knowledge was merely external; they had lost the key to its inner meaning.  
 Daniel, however, possessed true perception. He understood that genuine wisdom comes not from manipulating external signs, but from a direct connection to God. By revealing both the dream and its meaning, Daniel demonstrated the power of the restored Science of Correspondences. His subsequent appointment as "Rab-mag," or Chief of the Magi, was therefore not just a political promotion but a spiritual one. It symbolized the reintroduction of divine truth into the heart of a system that had fallen into error.  

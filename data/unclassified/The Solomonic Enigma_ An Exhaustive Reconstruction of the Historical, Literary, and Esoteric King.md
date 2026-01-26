@@ -1,10 +1,23 @@
 # **The Solomonic Enigma: An Exhaustive Reconstruction of the Historical, Literary, and Esoteric King**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+> 
+> This document reflects **earlier understanding** on:
+> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — This document uses “Magian” framing to describe the correspondential/list-science tradition; current position distinguishes the *Bene Qedem* (“Children of the East”) as primary carriers of the living “nature wisdom”/correspondential taxonomy, with Magian priesthood as a later institutional layer.
+> 
+> **Summary**: Reframe “Magian correspondential lineage” → “Bene Qedem as primary carriers; Magi as later institutionalizers/appropriators.”
+> **Established correction (library)**: The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
+> ---
+
 ## **I. Introduction: The Fracture Between Icon and Evidence**
 
 The figure of King Solomon, traditionally venerated in Western and Near Eastern consciousness as the paragon of wisdom, the architect of the First Temple, and the sovereign of a Golden Age empire, undergoes a radical and often violent deconstruction when subjected to the rigorous scrutiny of critical historiography, archaeological forensics, and esoteric phenomenology. The research dossier assembled for this investigation reveals a profound chasm between the "safe theological story"—the Sunday School icon of unalloyed wisdom and wealth—and the "Solomon of the documents." This latter figure is not a unified historical subject but a fractured composite: a modest Iron Age chieftain magnified by the lens of later Hasmonean political ambition; a literary character deployed by post-exilic scribes to critique the very institution of the Davidic monarchy; and, perhaps most startlingly, a spiritual archetype within the esoteric traditions who represents not wisdom, but the perilous state of "intellect separated from love."
 
 This report, authored from the perspective of a historian of religion specializing in the intersection of Levantine archaeology and esoteric traditions, aims to synthesize these disparate vectors of investigation. It will navigate the tension between the "Maximalist" defenders of the biblical empire and the "Minimalist" revisionists who reduce 10th-century Jerusalem to a village. It will explore the "Magian" dimensions of Solomon’s wisdom, positing him as a Hebrew practitioner of the lost *Listenwissenschaft* (science of lists) that governed the ancient Near Eastern cosmology. Finally, it will descend into the "Spiritual Diary" of Emanuel Swedenborg to conduct a forensic audit of Solomon’s state in the afterlife, revealing a theological verdict that challenges the very definition of wisdom itself.
+
+> **[CORRECTION #18]**: “Magian” is used here as the primary carrier label for the correspondential/list-science tradition. Current synthesis distinguishes the *Bene Qedem* (“Children of the East”) as the primary carriers of this “nature wisdom” tradition (with later Magian/Zoroastrian codification as an institutional layer).
+
 
 The "Real Solomon" that emerges from this exhaustive analysis is a figure of tragedy and paradox: a man who named the beasts but lost the kingdom; a builder of temples who, in the esoteric view, failed to build the temple within. This report will map the geography of this enigma, moving from the stratigraphy of Megiddo to the spiritual physiology of the "Grand Man."
 
@@ -90,6 +103,9 @@ The Chronicles account describes the temple porch (ulam) as a massive tower, 120
 ## **IV. The Magian Sage: Solomon and the "Lost Science"**
 
 The research documents introduce a fascinating "third dimension" to Solomon, moving beyond the binary of History vs. Myth. This is the **Magian Solomon**—the master of a lost "Science of Correspondences" that linked the physical taxonomy of the world to the spiritual hierarchy of the heavens.
+
+> **[CORRECTION #18]**: This section title/framings treat “Magian” as the default lineage label for the correspondential “lost science.” Current synthesis treats the *Bene Qedem* (“Children of the East”) as the primary carriers of the underlying correspondential taxonomy, with later Magian priesthood as a codifying/institutional layer.
+
 
 ### **A. Solomon and *Listenwissenschaft***
 

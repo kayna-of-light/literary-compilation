@@ -1,10 +1,22 @@
 # **The Lithic Palimpsest: The *Dāmdād Nask*, the Alexandrian Translation, and the Platonic Reconstruction of the Ancient Word**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+> 
+> This document reflects **earlier understanding** on:
+> - **#18** [Bene Qedem as True Carriers (Not Magi)](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#18-bene-qedem-as-true-carriers-not-magi) — Several passages frame the “Science of Correspondences” primarily as “Magian,” without distinguishing *Bene Qedem* as the primary carrier tradition and the Magian priesthood as a later institutionalizer/appropriator.
+> 
+> **Summary**: Where this document treats “Magian correspondences” as the core carrier-stream, update interpretation to a broader Eastern correspondence lineage (Bene Qedem), with Magian codification/appropriation as a later phase.
+> **Established correction (library)**: The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
+> ---
+
 ## **I. Introduction: The Epistemological Fracture and the Recovery of the Ancient Mind**
 
 The intellectual history of the West is frequently narrated as a linear progression from *mythos* to *logos*, a steady ascent from the "magical" obscurantism of the Orient to the luminous rationalism of the Greek Academy. However, a rigorous forensic analysis of the transition between the Achaemenid and Hellenistic intellectual spheres suggests a more complex and catastrophic trajectory: a profound "Epistemological Fracture" that shattered a unified, correspondential science into the fragmented disciplines we recognize today. This report undertakes an exhaustive investigation into the hypothesis that the description of Atlantis in Plato’s *Timaeus* and *Critias* is not merely a political allegory or a distorted memory of the Minoan collapse, but a deliberate, esoteric adaptation of the *Dāmdād Nask*—the lost encyclopedic volume of the Zoroastrian Avesta.
 
 We argue that this adaptation was made possible by a specific, verifiable historical mechanism: the order given by Alexander the Great to translate the "scientific" portions of the Persepolis archives before their destruction. This "Alexandrian Copying" event served as the conduit through which the sophisticated ontology of the Magian priesthood—specifically the *Science of Correspondences*—entered the Hellenistic bloodstream. Furthermore, we posit that the narrative of Atlantis is structurally isomorphic to the cosmography detailed in the *Dāmdād Nask* (reconstructed via the *Bundahišn*) and operates according to the rigorous semiotic laws articulated by Emanuel Swedenborg.
+
+> **[CORRECTION #18]**: The “Alexandrian Copying” hypothesis can still be used to explain *Magian institutional transmission* of correspondential data, but this project’s current correction distinguishes between (1) *Bene Qedem* (“Children of the East”) as the primary carriers of a lived/nature-based correspondential tradition and (2) the Magian priesthood as a later institutional form that codified/appropriated that wisdom into an imperial scholarly corpus.
 
 Crucially, this report does not utilize Swedenborg’s writings as a theological lens, but as a "detailed scientific theoretical framework" \[User Query\]. Just as modern linguistics uses structuralism to decode language, we employ Swedenborg’s "Doctrine of Correspondences" as a verifiable cognitive framework to decode the ancient mind. As evidenced in the workspace documents, this framework has already undergone "rigorous testing" against historical texts (comparing the "Word" vs. the "Writings"), demonstrating its capacity to unearth valid patterns where other theories see only noise.1 By applying this validated framework to the Atlantis narrative, we reveal it to be a "detailed spiritual description" of the human consciousness, mirroring the "Grand Man" (*Maximus Homo*) structure of the heavens.
 

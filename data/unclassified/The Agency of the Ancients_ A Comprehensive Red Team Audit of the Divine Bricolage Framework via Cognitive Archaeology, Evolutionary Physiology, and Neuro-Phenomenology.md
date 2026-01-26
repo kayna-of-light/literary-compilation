@@ -1,5 +1,15 @@
 # **The Agency of the Ancients: A Comprehensive Red Team Audit of the Divine Bricolage Framework via Cognitive Archaeology, Evolutionary Physiology, and Neuro-Phenomenology**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-27
+> 
+> This document reflects **earlier understanding** on:
+> - **#5** [Most Ancient Church Temporal Framing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#5-most-ancient-church-temporal-framing) — Section V places the end of the "Golden Age" at c. 9600 BCE (Neolithic transition), implying it encompassed the Upper Paleolithic
+> 
+> **Summary**: Later analysis reframes the "Golden Age" (Most Ancient Church) as allegorical narrative for **multi-million-year hominin evolution** (bipedalism → early H. sapiens), not Upper Paleolithic. The archaeological record of 40,000-10,000 BCE actually corresponds to the **Ancient Church** period *after* the Fall.  
+> **Established correction (library)**: `data/02_Swedenborgian_Theology/A Validation Analysis of Claims Concerning the Most Ancient Church.md`
+> ---
+
 ## **I. Executive Summary: The Epistemological Fracture and the Audit Scope**
 
 The history of human consciousness is a contested landscape, a terrain scarred by an epistemological fracture that separates the modern, analytical observer from the archaic, participatory subject. Conventional narratives, grounded in the "Gradualist Paradigm," posit a linear ascent from the instinctual darkness of the Middle Paleolithic to the rational light of the Holocene. In this view, early humans—the painters of Lascaux, the builders of Göbekli Tepe—were cognitively modern but culturally nascent, slowly accumulating the "software" of civilization through trial and error. However, this gradualist view is challenged by two radical counter-narratives that offer diametrically opposed interpretations of the prehistoric mind, forcing a re-evaluation of human agency itself.  
@@ -115,7 +125,11 @@ Further evidence of high-functioning agency comes from the structural analysis o
 This is not to claim that Paleolithic hunters were Swedenborgians, but rather that the "active management" of these prime numbers for mnemonic and ritual stability reveals a shared "cognitive imperative." The use of these specific numbers demonstrates a pragmatic, intuitive grasp of the organizational power of primes—a "bottom-up" functional agency that mirrors the "top-down" abstract agency of later theologians. An automaton does not derive the utility of prime numbers; an agent solving complex storage problems does.
 
 ## **V. Audit of the Neolithic Transition: Göbekli Tepe and the Stone Library**
-
+> **[REFRAMING #5]** The statement below that the "Golden Age" ended at 9600 BCE implies
+> the Golden Age encompassed the Upper Paleolithic (40,000-10,000 BCE). Later analysis clarifies:
+> - **Most Ancient Church (Golden Age)** = multi-million-year hominin evolution (ended with cognitive externalization)
+> - **Upper Paleolithic record (40,000-10,000 BCE)** = already the **Ancient Church** period *after* the Fall
+> - The Neolithic transition (9600 BCE) marks a further stage of externalization, not the first Fall
 The transition to the Neolithic (c. 9600 BCE) marks the definitive end of the "Golden Age" and the rise of the "Ancient Church" (in Swedenborg’s terms) or the era of "Listenwissenschaft" (Science of Lists). This era provides the most damning evidence against the "mindless roboticism" hypothesis.
 
 ### **5.1 The Geometry of Agency at Göbekli Tepe**

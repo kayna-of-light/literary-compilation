@@ -4,10 +4,9 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 > 
 > This document reflects **earlier understanding** on:
-> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — This document uses “Magian” framing to describe the correspondential/list-science tradition; current position distinguishes the *Bene Qedem* (“Children of the East”) as primary carriers of the living “nature wisdom”/correspondential taxonomy, with Magian priesthood as a later institutional layer.
+> - **#18** [Bene Qedem as True Carriers](../unclassified/The Bifurcated Gnosis_ A Genealogical Reconstruction of the Science of Correspondences from the Bene Qedem to the Matthean Synthesis.md) — This document uses “Magian” framing to describe the correspondential/list-science tradition; current position distinguishes the *Bene Qedem* (“Children of the East”) as primary carriers of the living “nature wisdom”/correspondential taxonomy, with Magian priesthood as a later institutional layer.
 > 
 > **Summary**: Reframe “Magian correspondential lineage” → “Bene Qedem as primary carriers; Magi as later institutionalizers/appropriators.”
-> **Established correction (library)**: The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
 > ---
 
 ## **I. Introduction: The Fracture Between Icon and Evidence**

@@ -4,12 +4,11 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 > 
 > This document reflects **earlier understanding** on:
-> - **#15** [Magi Narrative as Theological Construct](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#15-the-magi-narrative-as-theological-construct) — Part IV treats the Magi's journey and gifts as historically significant fulfillment. Critical analysis: Matthew 2 is a theological construct (c. 80-90 CE) using bricolage to fill Proto-Luke's vacuum, counter Marcion, and subvert the Tiridates-Nero spectacle. The star behavior is physically impossible—it is a literary star.
-> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — Part IV's framing of the Magi's "Science of Correspondences" treats them as primary carriers; current position treats the *Bene Qedem* ("Children of the East") as primary carriers, with the Magi as a later institutional layer.
-> - **#17** Virgin Birth as Translation Artifact — Part II links Isaiah 7:14 to "virgin" support; critical analysis: Hebrew *almah* denotes a young woman, while the "virgin" reading enters through the LXX *parthenos* reception.
+> - **#15** [Magi Narrative as Theological Construct](../unclassified/The Celestial Synthesis and the Forensic Gaze_ A Re-Evaluation of the Magi Narrative as Theological Construct and Geopolitical Reaction.md) — Part IV treats the Magi's journey and gifts as historically significant fulfillment. Critical analysis: Matthew 2 is a theological construct (c. 80-90 CE) using bricolage to fill Proto-Luke's vacuum, counter Marcion, and subvert the Tiridates-Nero spectacle. The star behavior is physically impossible—it is a literary star.
+> - **#18** [Bene Qedem as True Carriers](../unclassified/The Bifurcated Gnosis_ A Genealogical Reconstruction of the Science of Correspondences from the Bene Qedem to the Matthean Synthesis.md) — Part IV's framing of the Magi's "Science of Correspondences" treats them as primary carriers; current position treats the *Bene Qedem* ("Children of the East") as primary carriers, with the Magi as a later institutional layer.
+> - **#17** [Virgin Birth as Translation Artifact](../unclassified/The Biological Error and the Theological Rescue_ A Forensic Audit of the 'Swedenborgian Problem' and the Jamesian Correction.md) — Part II links Isaiah 7:14 to "virgin" support; critical analysis: Hebrew *almah* denotes a young woman, while the "virgin" reading enters through the LXX *parthenos* reception.
 > 
 > **Summary**: The Magi narrative is theological construct, not historical chronicle. Reframe "Magi as carriers of correspondential science" → "Bene Qedem as primary carriers; Magi as later institutionalizers."
-> **Established correction (library)**: The Biological Error and the Theological Rescue; The Celestial Synthesis; The Bifurcated Gnosis
 > ---
 
 ## **Introduction: Beyond a Prelude—The Persian Period as a Formative Matrix**

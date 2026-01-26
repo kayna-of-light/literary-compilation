@@ -4,10 +4,9 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
-> - **#5** [Most Ancient Church Temporal Framing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#5-most-ancient-church-temporal-framing) — Section V places the end of the "Golden Age" at c. 9600 BCE (Neolithic transition), implying it encompassed the Upper Paleolithic
+> - **#5** [Most Ancient Church](../02_Swedenborgian_Theology/A Validation Analysis of Claims Concerning the Most Ancient Church.md) — Section V places the end of the "Golden Age" at c. 9600 BCE (Neolithic transition), implying it encompassed the Upper Paleolithic
 > 
 > **Summary**: Later analysis reframes the "Golden Age" (Most Ancient Church) as allegorical narrative for **multi-million-year hominin evolution** (bipedalism → early H. sapiens), not Upper Paleolithic. The archaeological record of 40,000-10,000 BCE actually corresponds to the **Ancient Church** period *after* the Fall.  
-> **Established correction (library)**: `data/02_Swedenborgian_Theology/A Validation Analysis of Claims Concerning the Most Ancient Church.md`
 > ---
 
 ## **I. Executive Summary: The Epistemological Fracture and the Audit Scope**

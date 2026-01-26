@@ -4,10 +4,9 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
-> - **#5** [Most Ancient Church](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#5-the-most-ancient-church) — Section 2.2 places "Most Ancient Church" at "deep Paleolithic" without clarifying this means deep hominin evolution (millions of years). The terminology could be confused with the Upper Paleolithic (40,000-10,000 BCE).
+> - **#5** [Most Ancient Church](../02_Swedenborgian_Theology/A Validation Analysis of Claims Concerning the Most Ancient Church.md) — Section 2.2 places "Most Ancient Church" at "deep Paleolithic" without clarifying this means deep hominin evolution (millions of years). The terminology could be confused with the Upper Paleolithic (40,000-10,000 BCE).
 > 
 > **Summary**: The "Golden Age" is an allegorical narrative for the multi-million-year trajectory of hominin evolution (bipedalism, gestural communication). The Upper Paleolithic (40,000-10,000 BCE) is actually the **Ancient Church** period *after* the Fall.
-> **Established correction (library)**: A Validation Analysis of Claims Concerning the Most Ancient Church
 > ---
 
 ## **1\. Introduction: The Epistemological Fracture and the Recovery of the Ancient Mind**

@@ -4,11 +4,10 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 > 
 > This document reflects **earlier understanding** on:
-> - **#6** [Magi and Daniel Historicity](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-6-magi-and-daniel-historicity) — The "Legacy of Daniel" section incorrectly states Daniel's position was designated by the title *Rab-mag*; the biblical text assigns Daniel the titles *Rab-signīn* (Dan 2:48) and *Rab-hartummin* (Dan 4:9). *Rab-mag* appears only in Jeremiah 39 for Nergal-sharezer.
-> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — This document attributes a "Science of Correspondences" primarily to the Magian institution; current position treats the *Bene Qedem* ("Children of the East") as primary carriers of correspondential/nature wisdom, with the Magi as a later institutionalizing/appropriating layer.
+> - **#6** [Magi and Daniel Historicity](../03_Biblical_Scholarship/Daniel_ Historicity and Cultural Synthesis.md) — The "Legacy of Daniel" section incorrectly states Daniel's position was designated by the title *Rab-mag*; the biblical text assigns Daniel the titles *Rab-signīn* (Dan 2:48) and *Rab-hartummin* (Dan 4:9). *Rab-mag* appears only in Jeremiah 39 for Nergal-sharezer.
+> - **#18** [Bene Qedem as True Carriers](../unclassified/The Bifurcated Gnosis_ A Genealogical Reconstruction of the Science of Correspondences from the Bene Qedem to the Matthean Synthesis.md) — This document attributes a "Science of Correspondences" primarily to the Magian institution; current position treats the *Bene Qedem* ("Children of the East") as primary carriers of correspondential/nature wisdom, with the Magi as a later institutionalizing/appropriating layer.
 > 
 > **Summary**: (1) Correct Daniel's title from *Rab-mag* to *Rab-signīn*/*Rab-hartummin*; (2) reframe "Magi as primary carriers/originators" → "Bene Qedem as primary carriers; Magi as later institutionalizers."
-> **Established correction (library)**: Daniel_ Historicity and Cultural Synthesis (Section 4.2, Table 1); The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
 > ---
 
 ## **Part I: The Historical and Political Landscape of the Magi**

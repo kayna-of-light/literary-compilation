@@ -1,5 +1,15 @@
 # **The Lithic Archive and the Breath of Life: A Diachronic Re-Evaluation of Prehistoric Semiotics, Cognitive Evolution, and the Doctrine of Correspondences**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-27
+> 
+> This document reflects **earlier understanding** on:
+> - **#5** [Most Ancient Church Temporal Framing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#5-most-ancient-church-temporal-framing) — Section III places the "Fall" at c. 9600 BCE (Göbekli Tepe), and refers to "Paleolithic mind (the 'Most Ancient Church')" as if the Upper Paleolithic = Golden Age
+> 
+> **Summary**: Later analysis reframes the "Golden Age" (Most Ancient Church) as allegorical narrative for **multi-million-year hominin evolution**, not the Paleolithic era. The Upper Paleolithic (40,000-10,000 BCE) and Neolithic actually correspond to the **Ancient Church** period *after* the Fall.  
+> **Established correction (library)**: `data/02_Swedenborgian_Theology/A Validation Analysis of Claims Concerning the Most Ancient Church.md`
+> ---
+
 ## **I. Introduction: The Epistemological Crisis in Interpreting Prehistory**
 
 The academic landscape of prehistoric archaeology and religious history is currently characterized by a profound interpretative schism. On one side stands the materialist-functionalist paradigm, which views the explosion of symbolism in the Neolithic—from the "Venus" figurines to the monumental pillars of Göbekli Tepe—as sociopolitical adaptations or evolutionary "spandrels" designed to manage population density and resource scarcity. On the other side exists a persistent, if often marginalized, current of metaphysical inquiry that posits these symbols are not merely social tools but the fossilized remnants of a coherent, objective ontology. The document under review, *The Semiotics of Sanctity*, attempts to bridge this chasm but arguably falters by relying on "far-fetched assumptions" that lack a rigorous hermeneutic framework. It correctly identifies the continuity of symbols but misidentifies their engine.
@@ -54,7 +64,11 @@ This re-evaluation corrects the "far-fetched" nature of the original document’
 ## **III. Göbekli Tepe: The Stone Library and the Semiotics of Crisis**
 
 The original document’s treatment of Göbekli Tepe rightly identifies it as a "Stone Library".15 However, it risks reducing the site’s complex iconography to mere astronomical calendar-keeping or shamanic totemism. To fully address the user’s critique, we must provide a detailed explanation of the iconography—specifically the **Vulture Stone (Pillar 43\)**—demonstrating how it functions as a coherent text of **correspondence** describing spiritual crisis, judgment, and the preservation of knowledge.
-
+> **[REFRAMING #5]** The statement below places the "Fall" at c. 9600 BCE, implying the Most Ancient Church
+> (Golden Age) encompassed the Paleolithic era. Later analysis clarifies:
+> - **Most Ancient Church (Golden Age)** = multi-million-year hominin evolution (ended long before Upper Paleolithic)
+> - **Upper Paleolithic (40,000-10,000 BCE)** = already the **Ancient Church** period *after* the Fall
+> - Göbekli Tepe (9600 BCE) represents a further stage of externalization, not the initial Fall
 Göbekli Tepe (c. 9600 BCE) appears at the exact horizon of the "Fall"—the transition from the mobile, internal consciousness of the Paleolithic to the sedentary, external consciousness of the Neolithic.16 It is an act of *Listenwissenschaft* (the science of lists) in stone 15: an attempt to catalog the spiritual realities that were in danger of being lost.
 
 ### **3.1 The Iconography of Pillar 43: A Text of Judgment**

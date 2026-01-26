@@ -18,6 +18,16 @@ The literary-compilation corpus contains documents generated iteratively over ti
 4. **Minimal invasion** — Annotate only what's necessary; don't clutter
 5. **Reader-first** — Annotations should help readers, not demonstrate our cleverness
 
+### NotebookLM / Semantic Search Requirement
+
+These documents are uploaded into a NotebookLM environment. NotebookLM-style semantic search may miss information that exists only in a top-of-file header block.
+
+For that reason:
+
+- Always include **at least one inline editorial note** in the body of the document.
+- Do not rely on Markdown links being followed; repeat the **critical correction in plain text**.
+- When pointing readers to “current understanding”, reference a document **inside the `data/` library** where that corrected position is established.
+
 ---
 
 ## Annotation Types
@@ -45,10 +55,11 @@ Add immediately after the document title (before any content):
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 > 
 > This document reflects **earlier understanding** on the following strains:
-> - **#18** [Bene Qedem as True Carriers](EVOLVING_CONCEPTUAL_STRAINS.md#18-bene-qedem-as-true-carriers-not-magi) — **CRITICAL**: Attributes correspondence to Magi rather than Bene Qedem
-> - **#6** [Magi and Daniel Historicity](EVOLVING_CONCEPTUAL_STRAINS.md#6-magi-and-daniel-historicity) — Treats Daniel's role uncritically
+> - **#18** Bene Qedem as True Carriers — **CRITICAL**: Attributes correspondence to Magi rather than Bene Qedem
+> - **#6** Magi and Daniel Historicity — Treats Daniel's role uncritically
 > 
-> **Summary**: This document correctly describes Magian *institutionalization* of correspondence but incorrectly implies Magi *originated* the wisdom. The true carriers were the Bene Qedem (nomadic "Children of the East"). See "The Bifurcated Gnosis" for corrected transmission chain.
+> **Summary**: This document correctly describes Magian *institutionalization* of correspondence but incorrectly implies Magi *originated* the wisdom. The true carriers were the Bene Qedem (nomadic “Children of the East”).
+> **Established correction (library)**: The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
 > ---
 
 ## **First Section of Original Document...**
@@ -60,9 +71,10 @@ Add immediately after the document title (before any content):
 |-----------|----------|-------------|
 | `📋 Editorial Notes` | Yes | Visual marker for quick identification |
 | `Last reviewed` | Yes | Date of annotation (YYYY-MM-DD) |
-| Strain list | Yes | Numbered list with links to EVOLVING_CONCEPTUAL_STRAINS.md |
+| Strain list | Yes | Numbered list using `#N` for consistency |
 | Priority markers | If CRITICAL | Bold **CRITICAL** for highest priority strains |
 | Summary | Yes | 1-3 sentences explaining what readers need to know |
+| Established correction (library) | Yes | A `data/` library document name where the corrected position is established (omit folder path and file extension) |
 
 ### 2. Inline Annotations
 
@@ -71,20 +83,19 @@ For specific passages that require correction, add annotation immediately after 
 ```markdown
 The Magi developed the Science of Correspondences based on their astronomical observations...
 
-> **[CORRECTION #18]**: The Magi did NOT develop correspondence—they **appropriated** it 
-> from the Bene Qedem. See "The Bifurcated Gnosis" for corrected transmission chain.
+> **[CORRECTION #18]**: The Magi did NOT develop correspondence—they **appropriated and institutionalized** it from the Bene Qedem (nomadic “Children of the East”).
 ```
 
 ### Inline Annotation Format
 
 ```markdown
-> **[TYPE #N]**: Brief explanation. See "Document Name" for details.
+> **[TYPE #N]**: Brief explanation.
 ```
 
 - **TYPE**: One of EVOLVED, CORRECTION, REFRAMING, EXTENSION, CRITICAL ANALYSIS
 - **#N**: Strain number from EVOLVING_CONCEPTUAL_STRAINS.md
 - **Explanation**: 1-2 sentences maximum
-- **Reference**: Point to the document with corrected position
+- **Reference**: Point to a **`data/` library document name** where the corrected position is established (omit folder path and file extension)
 
 ---
 
@@ -112,6 +123,8 @@ Before annotating:
 | Specific claims are incorrect | Header block + inline annotations |
 | Minor refinements needed | Inline annotations only |
 | Document is mixed (some sections correct) | Header block explaining which sections are affected |
+
+**NotebookLM requirement**: Regardless of the level, include **at least one inline note** so semantic search can surface the correction.
 
 ### Step 4: Write the Header Block
 
@@ -148,9 +161,10 @@ In `EVOLVING_CONCEPTUAL_STRAINS.md`, update the document checklist:
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 > 
 > This document reflects **earlier understanding** on:
-> - **#18** [Bene Qedem as True Carriers](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#18-bene-qedem-as-true-carriers-not-magi) — **CRITICAL**: Attributes correspondence to Magi rather than Bene Qedem
+> - **#18** Bene Qedem as True Carriers — **CRITICAL**: Attributes correspondence to Magi rather than Bene Qedem
 > 
 > **Summary**: This document correctly describes Magian political power and their institutionalization of correspondence wisdom, but **incorrectly implies the Magi originated the Science of Correspondences**. Forensic analysis shows the **Bene Qedem** (nomadic "Children of the East"—Ishmaelites, Midianites) were the true carriers. The Magi appropriated and institutionalized this pre-existing wisdom for imperial power. See "The Bifurcated Gnosis" for the corrected transmission chain.
+> **Established correction (library)**: The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
 > ---
 ```
 
@@ -178,9 +192,10 @@ The historical intersection of the Jewish exile in Babylon with the rise of Medo
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 > 
 > This document reflects **earlier understanding** on:
-> - **#5** [The Most Ancient Church](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#5-the-most-ancient-church) — Treats Golden Age as historical period
+> - **#5** The Most Ancient Church — Treats Golden Age as historical period
 > 
 > **Summary**: This document interprets "Internal Respiration" as a literal breathing technique in a historical period. Later analysis reframes the Golden Age as **allegorical narrative for hominin cognitive evolution**. "Internal Respiration" corresponds to the decoupling of breathing from locomotion (bipedalism). See "A Validation Analysis of Claims Concerning the Most Ancient Church" for the evolutionary mapping.
+> Established correction (library): A Validation Analysis of Claims Concerning the Most Ancient Church
 > ---
 ```
 
@@ -196,15 +211,16 @@ The historical intersection of the Jewish exile in Babylon with the rise of Medo
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 > 
 > This document reflects **earlier understanding** on:
-> - **#14** [Somatic Influx](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#14-somatic-influx-and-radical-remission) — Treats correspondence as primarily symbolic
+> - **#14** Somatic Influx — Treats correspondence as primarily symbolic
 > 
-> **Summary**: This document correctly presents correspondences as symbolic/hermeneutic relationships. Later research **extends** this to bidirectional operation: the body is "the soul in ultimates," meaning spiritual transformation can produce physical reorganization (radical remission). See "The Architecture of Anomaly" for empirical evidence.
+> **Summary**: This document correctly presents correspondences as symbolic/hermeneutic relationships. Later research **extends** this to bidirectional operation: the body is "the soul in ultimates," meaning spiritual transformation can produce physical reorganization (radical remission).
+> Established correction (library): The Architecture of Anomaly...
 > ---
 ```
 
 ---
 
-## Link Format
+## Link Format (Optional)
 
 ### Relative Paths
 
@@ -212,6 +228,8 @@ From `data/` subdirectories, use:
 ```markdown
 [Strain Name](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#anchor)
 ```
+
+Note: When optimizing for NotebookLM search, do not rely on links. Include the plain-text correction document name in the annotation itself (no folder path or file extension).
 
 From other locations, adjust path accordingly:
 ```markdown

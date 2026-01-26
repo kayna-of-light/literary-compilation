@@ -2,10 +2,11 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 > 
 > This document reflects **earlier understanding** on:
-> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — This document foregrounds the Magi as primary preservers/carriers of correspondential science; current position treats the *Bene Qedem* (“Children of the East”) as primary carriers, with the Magi as a later institutional layer.
+> - **#6** [Magi and Daniel Historicity](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-6-magi-and-daniel-historicity) — Part II refers to "Daniel, the Rab-mag"; the biblical text assigns Daniel the titles *Rab-signīn* (Dan 2:48) and *Rab-hartummin* (Dan 4:9). *Rab-mag* appears only in Jeremiah 39 for Nergal-sharezer.
+> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — This document foregrounds the Magi as primary preservers/carriers of correspondential science; current position treats the *Bene Qedem* ("Children of the East") as primary carriers, with the Magi as a later institutional layer.
 > 
-> **Summary**: Reframe “Magi as primary preservers/carriers” → “Bene Qedem as primary carriers; Magi as later institutionalizers.”
-> **Established correction (library)**: The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
+> **Summary**: (1) Correct Daniel's title from *Rab-mag* to *Rab-signīn*/*Rab-hartummin*; (2) reframe "Magi as primary preservers/carriers" → "Bene Qedem as primary carriers; Magi as later institutionalizers."
+> **Established correction (library)**: Daniel_ Historicity and Cultural Synthesis (Section 4.2, Table 1); The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
 > ---
 
 ### **Introduction: From Historical Record to Spiritual Reality**
@@ -36,6 +37,8 @@ In parallel, the Essene community in Judea represented another stream of this pr
 For the Science of Correspondences to be effective, it is not enough to simply possess the symbols; one must have the key to their true interpretation. This key is not a human invention but a matter of divine revelation. The period from Daniel to Christ is marked by a crucial restoration of this inner sense, preparing the Magi and others to correctly interpret the signs of the Lord's coming.
 
 #### **The Prophetic Restoration: Daniel, the Rab-mag**
+
+> **[CRITICAL ANALYSIS #6]** The section title and text incorrectly designate Daniel as *Rab-mag*. The biblical text assigns Daniel the titles *Rab-signīn* (Chief Prefect, Dan 2:48) and *Rab-hartummin* (Chief of Magicians, Dan 4:9). The title *Rab-mag* appears only in Jeremiah 39:3, 39:13 for Nergal-sharezer, not Daniel. Greek translations rendered these distinct titles generically as *magoi*, causing later conflation.
 
 The historical encounter between the Jewish exiles and the Babylonian-Persian court was the chosen vessel for this restoration. The prophet Daniel, by his divine gift of interpretation, demonstrated a wisdom superior to that of the Chaldean and Magian diviners, whose knowledge had become merely external and worldly. His appointment as *Rab-mag*, or "Chief of the Magi," was the spiritual correspondence of divine truth being placed at the head of the ancient, but now faltering, science.  
 Daniel's role was to re-infuse the Magian tradition with the genuine prophetic spirit. His prophecies, which laid out a timeline for the coming of the Messiah, were not merely historical predictions but divine correspondences, linking the succession of earthly kingdoms to the progression of spiritual states in the church. He provided the Magi with a renewed key, a divinely authored text that allowed them to once again read the signs of the times with true understanding. This knowledge, preserved within the institutional memory of the Magi for centuries, formed the basis of their later quest.

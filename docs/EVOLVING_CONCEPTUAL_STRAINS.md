@@ -62,9 +62,9 @@ The limbus is identified as an **18th-century Cartesian artifact**—a theoretic
 3. NDE experiencers don't notice the "transition"—they have to be TOLD they are dead (contradicts two-floor model)
 
 **Documents with refined position**:
-- [x] `data/unclassified/The Epistemic Architecture of Post-Materialist Inquiry...md` (Part V: Framework Refinement)
-- [x] `data/unclassified/The Seed-State of the Concrete Spirit.md`
-- [x] `data/unclassified/The Divine Human in Ultimates.md`
+- [x] `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry...md` (Part V: Framework Refinement)
+- [x] `data/02_Swedenborgian_Theology/The Seed-State of the Concrete Spirit.md`
+- [x] `data/02_Swedenborgian_Theology/The Divine Human in Ultimates.md`
 
 #### Annotation Template
 ```markdown
@@ -110,7 +110,7 @@ This framing reflects **outdated 18th-century embryology**, not spiritual truth.
 **Documents with refined position**:
 - [x] `data/00_Framework/Epistle - The Divine Marriage and the Expression of the Lord in Ultimates.md` (PRIMARY)
 - [x] `data/02_Swedenborgian_Theology/Divine Bricolage vs. Swedenborg's Jesus.md`
-- [x] `data/unclassified/The Divine Human in Ultimates.md`
+- [x] `data/02_Swedenborgian_Theology/The Divine Human in Ultimates.md`
 
 **NOTE**: Earlier correction documents (e.g., "The Epistemic Architecture" §5.2, "Divine Bricolage vs. Swedenborg's Jesus") use "removal of proprium" language which is itself incorrect. The proprium cannot be removed—it is the self. What changes is the **orientation of ruling love**: toward self (obstruction) or toward Divine (no obstruction).
 
@@ -136,7 +136,7 @@ This framing reflects **outdated 18th-century embryology**, not spiritual truth.
 Following Swedenborg strictly: reincarnation categorically denied (Heaven and Hell §256). All past-life memories attributed to "spirit influence" mechanism.
 
 **Documents reflecting earlier position** (ANNOTATED 2026-01-27):
-- [x] `data/unclassified/The Seed-State of the Concrete Spirit...md` — Section 5.3 states reincarnation is "generally rejected" without discussing DOPS exceptions
+- [x] `data/02_Swedenborgian_Theology/The Seed-State of the Concrete Spirit...md` — Section 5.3 states reincarnation is "generally rejected" without discussing DOPS exceptions
 
 #### Evolved Position
 A **three-tiered hybrid model** that honors both Swedenborg's observations AND the empirical evidence:
@@ -155,7 +155,7 @@ A **three-tiered hybrid model** that honors both Swedenborg's observations AND t
 - [x] `data/01_Consciousness_Studies/DOPS Restorative Return Model Analysis.md`
 - [x] `data/00_Framework/The Threefold Path of the Soul...md` (multiple versions)
 - [x] `data/00_Framework/A Coherent Framework for Spiritual History...md`
-- [x] `data/unclassified/The Epistemic Architecture...md` (§5.3)
+- [x] `data/02_Swedenborgian_Theology/The Epistemic Architecture...md` (§5.3)
 
 #### Annotation Template
 ```markdown
@@ -175,11 +175,11 @@ The "Golden Age" or "Most Ancient Church" treated as a historical period (e.g., 
 
 **Documents reflecting earlier position** (ANNOTATED 2026-01-27):
 - [x] `data/02_Swedenborgian_Theology/Communication Among the Most Ancient People.md` (title equates Most Ancient Church with 40,000-10,000 BCE)
-- [x] `data/unclassified/Communication among the most ancient people...md` (duplicate)
-- [x] `data/unclassified/The Lithic Scripture_ A Hermeneutic Reconstruction...md` (§2.2: "deep Paleolithic" terminology ambiguous)
-- [x] `data/unclassified/The Semiotics of Sanctity_ A Diachronic Analysis...md` (§7.1 table: 40k-10k BCE with Original Participation)
-- [x] `data/unclassified/The Agency of the Ancients_ A Comprehensive Red Team Audit...md` (§V: places end of Golden Age at 9600 BCE)
-- [x] `data/unclassified/The Lithic Archive and the Breath of Life...md` (§III: places Fall at 9600 BCE)
+- [x] `data/06_Mythological_Studies/Communication among the most ancient people...md` (duplicate)
+- [x] `data/06_Mythological_Studies/The Lithic Scripture_ A Hermeneutic Reconstruction...md` (§2.2: "deep Paleolithic" terminology ambiguous)
+- [x] `data/06_Mythological_Studies/The Semiotics of Sanctity_ A Diachronic Analysis...md` (§7.1 table: 40k-10k BCE with Original Participation)
+- [x] `data/06_Mythological_Studies/The Agency of the Ancients_ A Comprehensive Red Team Audit...md` (§V: places end of Golden Age at 9600 BCE)
+- [x] `data/06_Mythological_Studies/The Lithic Archive and the Breath of Life...md` (§III: places Fall at 9600 BCE)
 
 #### Reframed Position
 The "Golden Age" is an **allegorical narrative** for the entire multi-million-year trajectory of hominin evolution, not a fixed historical period.
@@ -232,7 +232,7 @@ The "Golden Age" is an **allegorical narrative** for the entire multi-million-ye
 - [x] `data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md` (§I: "Daniel, the Rab-mag")
 - [x] `data/04_Early_Christian_History/The Cycle of Celestial Knowledge_ A Re-examination of the Magi.md` (§4: "Daniel as the New Rab-mag")
 - [x] `data/04_Early_Christian_History/The Luminous Science_ A Re-examination of the Magi.md` (Part II: "Daniel, the Rab-mag")
-- [x] `data/unclassified/The Celestial Synthesis and the Forensic Gaze...md` (§3.3: "Daniel is appointed Rab-mag")
+- [x] `data/04_Early_Christian_History/The Celestial Synthesis and the Forensic Gaze...md` (§3.3: "Daniel is appointed Rab-mag")
 
 #### Critically Analyzed Position
 Recognition that historical claims require critical examination:
@@ -423,18 +423,18 @@ Correspondence reframed as **ontological law**, independently discoverable like 
 **Implication**: The Magi did not invent correspondence; they **appropriated and institutionalized** what the Bene Qedem (nomadic "Children of the East") had preserved through nature observation. The "Science of Correspondences" is not esoteric transmission—it's perception of reality.
 
 **Documents with reframing**:
-- [x] `data/unclassified/The Epistemic Architecture of Post-Materialist Inquiry...md` (Part III, §3.3)
-- [x] `data/unclassified/The Architecture of Influx...md`
-- [x] `data/unclassified/The Agency of the Ancients...md`
-- [x] `data/unclassified/The Bifurcated Gnosis...md` (Bene Qedem as carriers, §3)
+- [x] `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry...md` (Part III, §3.3)
+- [x] `data/06_Mythological_Studies/The Architecture of Influx...md`
+- [x] `data/06_Mythological_Studies/The Agency of the Ancients...md`
+- [x] `data/04_Early_Christian_History/The Bifurcated Gnosis...md` (Bene Qedem as carriers, §3)
 
 **Documents annotated for earlier position (2026-01-27)**:
-- [x] `data/unclassified/The Aramaic Nexus_ Linguistic Encoding, Scientific Transmission...md` — Header + inline at §2.2
-- [x] `data/unclassified/The Architecture of the Ancient Word_ A Comparative Analysis...md` — Header + inline at §2.2
-- [x] `data/unclassified/The Archival Rupture_ Alexander, Aristotle...md` — Header + inline at §II.B
+- [x] `data/04_Early_Christian_History/The Aramaic Nexus_ Linguistic Encoding, Scientific Transmission...md` — Header + inline at §2.2
+- [x] `data/06_Mythological_Studies/The Architecture of the Ancient Word_ A Comparative Analysis...md` — Header + inline at §2.2
+- [x] `data/06_Mythological_Studies/The Archival Rupture_ Alexander, Aristotle...md` — Header + inline at §II.B
 - [x] `data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md` — Header updated (had #6/#18)
-- [x] `data/unclassified/The Arch-Bricoleur of the Academy...md` — Header updated (had #18)
-- [x] `data/unclassified/The Celestial Scribe_ The Doctrine of Correspondences...md` — Header updated (had #18)
+- [x] `data/06_Mythological_Studies/The Arch-Bricoleur of the Academy...md` — Header updated (had #18)
+- [x] `data/04_Early_Christian_History/The Celestial Scribe_ The Doctrine of Correspondences...md` — Header updated (had #18)
 
 #### Annotation Template
 ```markdown
@@ -478,8 +478,8 @@ Critical distinction between two analytically separable layers:
 **Critical insight**: This is NOT wholesale acceptance or rejection—it's treating Swedenborg's framework the way physics treats theories: retaining what organizes data, revising what doesn't.
 
 **Documents with distinction**:
-- [x] `data/unclassified/The Epistemic Architecture of Post-Materialist Inquiry...md` (Part II, §2.4)
-- [x] `data/unclassified/The Biological Error and the Theological Rescue...md`
+- [x] `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry...md` (Part II, §2.4)
+- [x] `data/02_Swedenborgian_Theology/The Biological Error and the Theological Rescue...md`
 
 #### Annotation Template
 ```markdown
@@ -500,7 +500,7 @@ Critical distinction between two analytically separable layers:
 Julian Jaynes's bicameral mind hypothesis sometimes referenced as parallel framework or uncritically compared to Swedenborg's account.
 
 **Documents reflecting earlier position** (ANNOTATED 2026-01-26):
-- [x] `data/unclassified/The Semiotics of Sanctity_ A Diachronic Analysis of the Doctrine of Correspondences from the Paleolithic Mind to the Priestly Code.md` (§6.3)
+- [x] `data/06_Mythological_Studies/The Semiotics of Sanctity_ A Diachronic Analysis of the Doctrine of Correspondences from the Paleolithic Mind to the Priestly Code.md` (§6.3)
 
 #### Critically Analyzed Position
 Jaynes's "automaton hypothesis" is **refuted** by archaeological evidence:
@@ -513,8 +513,8 @@ Jaynes's "automaton hypothesis" is **refuted** by archaeological evidence:
 **Key correction**: Jaynes confused the **mechanism** (bicameral neural pathways exist) with the **source** (he called broken remnants the origin). "Internal Respiration" (Swedenborg) describes the **unbroken** state; bicameral hallucinations are the **wreckage** after the Fall.
 
 **Documents with refutation**:
-- [x] `data/unclassified/The Agency of the Ancients...md` (comprehensive Red Team audit)
-- [x] `data/unclassified/The Architecture of Influx...md`
+- [x] `data/06_Mythological_Studies/The Agency of the Ancients...md` (comprehensive Red Team audit)
+- [x] `data/06_Mythological_Studies/The Architecture of Influx...md`
 
 #### Annotation Template
 ```markdown
@@ -542,7 +542,7 @@ Do **not** add or require corpus-wide editorial annotations solely to reflect �
 - `structured-data-analysis/projects/remission/` (analysis + reporting)
 
 **Related documents (reference only)**:
-- [x] `data/unclassified/The Architecture of Anomaly...md`
+- [x] `data/01_Consciousness_Studies/The Architecture of Anomaly...md`
 - [x] `data/01_Consciousness_Studies/Being of Light - Statistical Analysis...md`
 
 ---
@@ -583,9 +583,9 @@ The Magi in Matthew are the **spiritual descendants of appropriators**, not orig
 **Key insight**: The "actual happening" is the **compositional act** of the evangelist using available cultural materials (bricolage).
 
 **Documents with critical analysis**:
-- [x] `data/unclassified/The Celestial Synthesis and the Forensic Gaze...md`
+- [x] `data/04_Early_Christian_History/The Celestial Synthesis and the Forensic Gaze...md`
 - [x] `data/04_Early_Christian_History/The Jamesian Protograph...md`
-- [x] `data/unclassified/The Bifurcated Gnosis...md` (Magi as appropriators, §4, §7)
+- [x] `data/04_Early_Christian_History/The Bifurcated Gnosis...md` (Magi as appropriators, §4, §7)
 
 **Documents annotated for earlier position (2026-01-27)**:
 - [x] `data/04_Early_Christian_History/The Cycle of Celestial Knowledge_ A Re-examination of the Magi.md` — Header updated (had #6/#18)
@@ -633,9 +633,9 @@ Pillar 43 (Vulture Stone) read as **theological schematic of the Fall**:
 - [x] `data/06_Mythological_Studies/Echoes of an Ancient Word_ A Scientific and Mythological Inquiry into the Caliber of a Lost Universal Knowledge.md`
 
 **Documents with interpretation**:
-- [x] `data/unclassified/The Architecture of Influx...md` (Section I)
-- [x] `data/unclassified/The Agency of the Ancients...md` (Section V)
-- [x] `data/unclassified/The Lithic Scripture...md`
+- [x] `data/06_Mythological_Studies/The Architecture of Influx...md` (Section I)
+- [x] `data/06_Mythological_Studies/The Agency of the Ancients...md` (Section V)
+- [x] `data/06_Mythological_Studies/The Lithic Scripture...md`
 
 #### Annotation Template
 ```markdown
@@ -675,7 +675,7 @@ The "biological miracle" rests on a **translation choice**:
 **Implication**: The Virgin Birth as biological fact is a **Septuagint artifact** adopted by Matthew. Swedenborg's own hermeneutic (internal sense) doesn't require biological virginity.
 
 **Documents with critical analysis**:
-- [x] `data/unclassified/The Biological Error and the Theological Rescue...md` (Section 4)
+- [x] `data/02_Swedenborgian_Theology/The Biological Error and the Theological Rescue...md` (Section 4)
 - [x] Scholarly consensus on Isaiah 7:14 (*almah* vs *betulah*)
 
 **Documents annotated for earlier position (2026-01-26)**:
@@ -754,9 +754,9 @@ The Magi narrative in Matthew 2 represents the **re-integration** of the bifurca
 - The synthesis: "Wild Ass" (Rationality) finally submits to the Divine Human
 
 **Documents with corrected position**:
-- [x] `data/unclassified/The Bifurcated Gnosis...md` (comprehensive treatment)
-- [x] `data/unclassified/The Architecture of Influx...md`
-- [x] `data/unclassified/The Agency of the Ancients...md`
+- [x] `data/04_Early_Christian_History/The Bifurcated Gnosis...md` (comprehensive treatment)
+- [x] `data/06_Mythological_Studies/The Architecture of Influx...md`
+- [x] `data/06_Mythological_Studies/The Agency of the Ancients...md`
 
 #### Annotation Template
 ```markdown
@@ -830,9 +830,9 @@ This is why the Gospel narrative has spiritual and celestial senses — because 
 - NOT humanist reduction → the Gospels describe the Lord, not "just a holy human"
 
 #### Documents with refined position (PRIMARY SOURCES):
-- [x] `data/unclassified/The Divine Human in Ultimates.md` — **PRIMARY**: Defines "Aligned Human" concept
+- [x] `data/02_Swedenborgian_Theology/The Divine Human in Ultimates.md` — **PRIMARY**: Defines "Aligned Human" concept
 - [x] `data/00_Framework/Epistle - The Divine Marriage and the Expression of the Lord in Ultimates.md` — Key formulation: "a soul through which the Lord flows without obstruction IS the Lord in ultimates"
-- [x] `data/unclassified/The Epistemic Architecture...md` §5.2 — Comprehensive treatment
+- [x] `data/02_Swedenborgian_Theology/The Epistemic Architecture...md` §5.2 — Comprehensive treatment
 - [x] `data/02_Swedenborgian_Theology/Divine Bricolage vs. Swedenborg's Jesus.md` — Problem diagnosis
 
 #### Documents needing annotation (present dichotomy without synthesis):
@@ -861,7 +861,7 @@ This is why the Gospel narrative has spiritual and celestial senses — because 
 > "filled" him — the human ultimate IS the Lord in that plane of existence. This avoids 
 > four errors: biological determinism (God-in-suit), Gnostic splitting (container/contents), 
 > secular dichotomy (irreconcilable categories), and humanist reduction (just a holy human).
-> See: The Divine Human in Ultimates (data/unclassified/).
+> See: The Divine Human in Ultimates (data/02_Swedenborgian_Theology/).
 ```
 
 ---
@@ -877,8 +877,8 @@ This is why the Gospel narrative has spiritual and celestial senses — because 
 
 ### Documents Confirmed as Current Understanding
 
-- [x] `data/unclassified/The Epistemic Architecture of Post-Materialist Inquiry...md`
-- [x] `data/unclassified/The Seed-State of the Concrete Spirit.md`
+- [x] `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry...md`
+- [x] `data/02_Swedenborgian_Theology/The Seed-State of the Concrete Spirit.md`
 - [x] `data/00_Framework/The Threefold Path of the Soul...md`
 - [x] `data/02_Swedenborgian_Theology/A Validation Analysis of Claims Concerning the Most Ancient Church.md`
 - [x] `docs/critical_analysis_report.md`

@@ -700,13 +700,6 @@ Throughout earlier documents, the **Magi** are treated as the originators, inven
 - "Daniel learned from the Magi and transmitted correspondence to Jews"
 - Attribution of correspondence wisdom to the Persian imperial priesthood
 
-**Documents with this misattribution**:
-- [ ] `data/02_Swedenborgian_Theology/The Science of Correspondences...from Daniel to Nativity.md`
-- [ ] `data/02_Swedenborgian_Theology/Magi's Principle of Correspondences.md`
-- [ ] `data/04_Early_Christian_History/The Luminous Science...md`
-- [ ] `data/04_Early_Christian_History/The Cycle of Celestial Knowledge...md`
-- [ ] Many documents in `data/02_Swedenborgian_Theology/` and `data/04_Early_Christian_History/`
-
 #### Corrected Position
 The **Bene Qedem** ("Children of the East") were the true carriers of correspondence wisdom. The Magi **appropriated and institutionalized** this wisdom for imperial power:
 

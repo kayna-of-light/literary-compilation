@@ -1,5 +1,15 @@
 # **The Critic Transformed: A Swedenborgian Re-interpretation of the Historical-Critical Method and the Gospels**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-27
+> 
+> This document reflects **earlier understanding** on:
+> - **#2** [Biological Determinism about Jesus](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-2-biological-determinism-about-jesus) — Section 3.1 uses "soul from the Father / body from the mother" framing; current position: Jesus was a human being whose ruling love was oriented toward the Divine, so the Lord flowed through him without obstruction. This is the path of regeneration any human can walk.
+> 
+> **Summary**: The "soul from Father / body from mother" language reflects 18th-century embryology. The proprium (self) is not removed but oriented—Jesus's ruling love was always toward the Divine.
+> **Established correction (library)**: Epistle - The Divine Marriage and the Expression of the Lord in Ultimates
+> ---
+
 **Abstract:** This research plan outlines a thought experiment designed to re-evaluate the consensus findings of the historical-critical method (HCM) as applied to the canonical Gospels. By positing the metaphysical framework of Emanuel Swedenborg as an axiomatic truth, this study proposes a new hermeneutic. It argues that the HCM, with its inherent methodological naturalism, functions as an unwitting science of the *external sense* of the Gospels, meticulously documenting the natural effects of spiritual causes. The plan will demonstrate how key scholarly conclusions—such as the Gospels' genre as *bioi*, the solutions to the Synoptic Problem (Markan Priority, Q), and the criteria for reconstructing the "historical Jesus"—can be re-interpreted through Swedenborgian doctrines of Correspondence, Influx, and the Glorification of the Divine Human. This synthesis transforms the "critic" from an instrument that reveals an "absence of spiritual depth" into a tool that provides the empirical foundation for its discovery, revealing a profound and coherent spiritual reality underlying the biblical text.
 
 ## **Part I: The Doctrine of Correspondence and the Nature of the Critical Method**
@@ -80,7 +90,9 @@ This section forms the crux of the proposed research, directly engaging with the
 ### **3.1 The "Historical Jesus" as the External of the "Divine Human"**
 
 Modern academic study makes a foundational distinction between the "historical Jesus" and the "Christ of faith". The "historical Jesus" is the figure who can be reconstructed using the tools of critical history, which operate within the bounds of methodological naturalism. The "Christ of faith" is the figure of Christian theology—the divine Son of God and object of worship, whose supernatural attributes cannot be verified by historical methods.  
-This scholarly distinction, far from being an error, is re-interpreted as a profound, albeit unintentional, theological insight that aligns perfectly with Swedenborg's doctrine of the Lord. According to Swedenborg, the Lord, Jesus Christ, is the "Divine Human". During His life on earth, He possessed two distinct components: an internal Divine soul, which was Jehovah Himself, and an external human nature, which was assumed from the mother, Mary. The entire purpose of His life was the process of "Glorification"—the progressive subjugation of the infirmities of the maternal human and the uniting of this human nature with His Divine soul, until they became a single, fully Divine Human.  
+This scholarly distinction, far from being an error, is re-interpreted as a profound, albeit unintentional, theological insight that aligns perfectly with Swedenborg's doctrine of the Lord. According to Swedenborg, the Lord, Jesus Christ, is the "Divine Human". During His life on earth, He possessed two distinct components: an internal Divine soul, which was Jehovah Himself, and an external human nature, which was assumed from the mother, Mary. The entire purpose of His life was the process of "Glorification"—the progressive subjugation of the infirmities of the maternal human and the uniting of this human nature with His Divine soul, until they became a single, fully Divine Human.
+
+> **[CORRECTION #2]**: This "soul from the Father / body from the mother" framing reflects 18th-century embryology. Jesus was a human being whose ruling love was oriented toward the Divine—not toward self—so the Lord flowed through him without obstruction. The proprium (self) is not removed; it is the *orientation* that matters. This is the path of regeneration any human can walk.  
 The synthesis is direct and powerful:
 
 * The **"historical Jesus"** is the external, assumed human nature. This was the part of the Lord that was visible to the world, subject to temptation, and which appeared finite and limited. It is this external aspect that is reconstructable by the "natural mind" of the HCM.  

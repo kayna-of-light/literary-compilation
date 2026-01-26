@@ -1,5 +1,15 @@
 # **The Paradox of the Pneumatic Ego: A Forensic Analysis of Pauline Humility, Rhetorical Strategy, and the Theology of Proprium**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+>
+> This document reflects **earlier understanding** on:
+> - **#9** [Resurrection Narrative Evolution](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#9-resurrection-narrative-evolution) — This analysis treats Luke’s “broiled fish” scene as straightforward historical grounding for the “Actual Jesus,” without flagging the textual layering and anti-Docetic polemic of the later Gospel strata.
+>
+> **Summary**: The physical-proof motifs ("flesh and bones", eating fish, touching wounds) are best read as later materializing layers in the tradition; historical grounding should not rely on those motifs as if they were the earliest witness.
+> **Established correction (library)**: Resurrection Narrative Evolution in New Testament
+> ---
+
 ## **1\. Introduction: The Theological Crisis of the Self**
 
 The intellectual and spiritual history of the West has been irrevocably shaped by the figure of Paul of Tarsus. As the architect of Gentile Christianity, his theological imprint is foundational; yet, for centuries, a silent crisis has persisted at the heart of Pauline studies. This crisis concerns the nature of the "Self" in Paul’s theology—specifically, the tension between his radical claims of self-abasement and his equally radical assertions of apostolic authority.
@@ -183,6 +193,8 @@ To fully contextualize the "proprium" diagnosis, we must compare Paul’s strate
 ### **7.2 The "Actual Jesus" vs. The "Cosmic Christ"**
 
 The research suggests that Paul’s humility serves the "Cosmic Christ" (a pneumatic principle) but erases the "Actual Jesus" (the Divine Human who ate broiled fish).3
+
+> **[CRITICAL ANALYSIS #9]**: The “broiled fish” motif (Luke 24:42-43) is widely treated within this corpus as part of a later anti-Docetic materialization layer, not the earliest stratum of resurrection testimony (compare Paul’s *soma pneumatikon* and Mark’s earliest ending). The contrast intended here (history vs private revelation) still stands, but it should not depend on the fish-eating scene as if it were original historical memory.
 
 * **The "Fish" Test:** The "Divine Bricolage" model validates the physical, historical reality of Jesus (who ate fish after resurrection). Paul’s theology, focused on the "spiritual body" (1 Cor 15), tends toward a "Gnostic" rejection of the material.  
 * **Implication:** Paul’s humility is a humility of the *spirit* that masks a rejection of the *body*. This supports the "proprium" diagnosis that Paul is trapped in the "Intellectual Proprium," valuing ideas/revelations over physical/historical reality.

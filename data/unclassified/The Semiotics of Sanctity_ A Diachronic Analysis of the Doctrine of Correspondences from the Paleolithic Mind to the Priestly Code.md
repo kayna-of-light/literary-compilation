@@ -1,13 +1,14 @@
 # **The Semiotics of Sanctity: A Diachronic Analysis of the Doctrine of Correspondences from the Paleolithic Mind to the Priestly Code**
 
 > ---
-> **📋 Editorial Notes** | Last reviewed: 2026-01-27
+> **📋 Editorial Notes** | Last reviewed: 2026-01-26
 > 
 > This document reflects **earlier understanding** on:
 > - **#5** [Most Ancient Church Temporal Framing](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#5-most-ancient-church-temporal-framing) — Table 7.1 equates "Paleolithic (40k-10k BCE)" with "Original Participation / Bicameral Mind," implying this is the Most Ancient Church period
+> - **#13** [Bicameral Mind Refutation](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#13-bicameral-mind-refutation) — §6.3 treats Jaynes’s bicameral mind as a straightforward parallel to Swedenborg’s "internal respiration"
 > 
 > **Summary**: Later analysis reframes the "Golden Age" (Most Ancient Church) as allegorical narrative for **multi-million-year hominin evolution**, not Upper Paleolithic (40,000-10,000 BCE). The Upper Paleolithic actually corresponds to the **Ancient Church** period *after* the Fall.  
-> **Established correction (library)**: `data/02_Swedenborgian_Theology/A Validation Analysis of Claims Concerning the Most Ancient Church.md`
+> **Established correction (library)**: A Validation Analysis of Claims Concerning the Most Ancient Church
 > ---
 
 ## **I. Introduction: The Epistemological Fracture and the Search for Origins**
@@ -137,6 +138,10 @@ These signs represent the first abstraction of correspondence. A "dot" or a "spi
 The philosopher Owen Barfield described the consciousness of early humanity as "Original Participation".38 In this state, the human subject did not stand *apart* from the object (nature) as an observer; they participated *in* the phenomena. For the "original participant," the wind was not just moving air; it was spirit (*pneuma/ruach*). The connection was not metaphorical; it was substantial.
 
 This aligns with Julian Jaynes's hypothesis of the "Bicameral Mind".43 Jaynes argued that early humans lacked modern introspective consciousness. Instead, their right hemisphere produced auditory hallucinations (perceived as the voices of gods/ancestors) which the left hemisphere obeyed. In this state, there was no distinction between "inner" thought and "outer" reality. The world was saturated with volition. A thunderclap *was* a divine voice.
+
+> **[CRITICAL ANALYSIS #13]** This section treats Jaynes’s "bicameral mind" as a straightforward parallel to Swedenborg’s "internal respiration." Later analysis rejects Jaynes’s automaton/hallucination reduction as archaeologically untenable (e.g., Göbekli Tepe planning; volitional mnemonic "Memory Code"). The relevant distinction is *mechanism vs. source*: neural pathways may mediate reception, but they do not explain the origin of the communicated content. See `data/unclassified/The Agency of the Ancients_ A Comprehensive Red Team Audit of the Divine Bricolage Framework via Cognitive Archaeology, Evolutionary Physiology, and Neuro-Phenomenology.md`.
+
+> **[CRITICAL ANALYSIS #13]** This section treats Jaynes’s "bicameral mind" as a straightforward parallel to Swedenborg’s "internal respiration." Later analysis rejects Jaynes’s automaton/hallucination reduction as archaeologically untenable (e.g., Göbekli Tepe planning; volitional mnemonic "Memory Code"). The relevant distinction is *mechanism vs. source*: neural pathways may mediate reception, but they do not explain the origin of the communicated content.
 
 Swedenborg's concept of "internal respiration" in the Most Ancient Church describes exactly this state.45 He claims that these ancients communicated via a subtle, internal perception that connected them directly to the spiritual world. They did not need "doctrine" because they lived in a state of direct correspondence. The "Fall" was the loss of this direct perception (the breakdown of the bicameral mind) and the development of the "proprium" (the modern ego/self). This necessitated the creation of external "doctrine" and "written words" to bridge the gap that had opened between man and nature.
 

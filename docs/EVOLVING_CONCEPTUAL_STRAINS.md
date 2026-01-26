@@ -24,7 +24,7 @@ This document catalogs conceptual strains where understanding has evolved over t
 - [x] 3. [Reincarnation Model](#3-reincarnation-model) — Extension (Medium) ✓ 1 doc annotated (2026-01-27)
 - [x] 5. [Most Ancient Church](#5-the-most-ancient-church) — Reframing (Medium) ✓ 6 docs annotated (2026-01-27)
 - [x] 6. [Magi and Daniel](#6-magi-and-daniel-historicity) — Critical Analysis (Medium) ✓ 6 docs annotated (2026-01-27)
-- [ ] 7. [Doctrine of Correspondences](#7-doctrine-of-correspondences-validation) — Extension (Low)
+- [x] 7. [Doctrine of Correspondences](#7-doctrine-of-correspondences-validation) — **Retired / merged into #11 and #18** (Low)
 - [ ] 8. [NDE Cultural Variation](#8-nde-cultural-variation) — Validation (Low)
 - [ ] 9. [Resurrection Narratives](#9-resurrection-narrative-evolution) — Critical Analysis (Medium)
 - [ ] 10. [Location-Ruling Love](#10-location-ruling-love-relationship) — Correction (Low)
@@ -274,35 +274,22 @@ Recognition that historical claims require critical examination:
 
 ### 7. Doctrine of Correspondences Validation
 
-**Evolution Type**: EXTENSION (Cross-Validation)  
+**Evolution Type**: ASSESSED / RETIRED (Redundant)  
 **Priority**: Low
 
-#### Earlier Position
-The Doctrine of Correspondences presented primarily from Swedenborgian texts as internal framework component.
+#### Why this is retired
+This item was initially tracked as an “extension” because some documents note **external parallels** (e.g., Zoroastrian *mēnōg/gētīg*) that resemble Swedenborg’s spiritual/natural distinction.
 
-#### Extended Position
-Discovery of **external cross-validation** through Zoroastrian tradition:
+However, this does **not** function as a true “evolving conceptual strain” that requires recurring editorial correction:
+1. It risks implying **Zoroastrian ownership** of correspondences (which we do not claim).
+2. We do **not** have the Zoroastrian system as a full operational framework here—only partial evidence of analogous structures.
+3. The project’s methodological center is **testing Swedenborg’s correspondential framework against data**, not building a parallel Zoroastrian framework.
+4. The material this strain was trying to capture is already handled more precisely by:
+    - **#11** (Correspondence as Ontology, not transmission) — correspondence as perceivable law
+    - **#18** (Bene Qedem as true carriers; Magi as appropriators/institutionalizers)
 
-| Swedenborgian | Zoroastrian | Parallel |
-|---------------|-------------|----------|
-| Spiritual/Natural | Mēnōg/Gētīg | Two states of single reality |
-| Correspondences | Amesha Spenta system | Material elements as spiritual bodies |
-| Ancient Word | Damdat Nask | Lost encyclopedia of correspondences |
-| "Great Tartary" | Central Asia | Location where knowledge preserved |
-
-**Significance**: Swedenborg's claim about the Ancient Word's location **aligns with** historical evidence of where Avestan texts survived after Alexander's destruction.
-
-**Documents with cross-validation**:
-- [x] `data/02_Swedenborgian_Theology/Magi's Principle of Correspondences.md`
-- [x] `data/02_Swedenborgian_Theology/The Science of Correspondences...from Daniel to Nativity.md`
-- [x] `data/unclassified/The Aramaic Nexus...md`
-
-#### Annotation Template
-```markdown
-> **[EXTENSION: Cross-Validation]** This section presents correspondences from Swedenborgian sources only.
-> Later research discovered external validation: Zoroastrian mēnōg/gētīg ontology 
-> exactly parallels Swedenborg's framework. See "Magi's Principle of Correspondences."
-```
+#### Operational rule
+Do **not** add or require document annotations solely for “Zoroastrian cross-validation.” If a document overstates Magi/Zoroastrian origination or transmission claims, treat it under **#11** and/or **#18** instead.
 
 ---
 

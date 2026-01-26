@@ -271,7 +271,8 @@ All conceptual evolution is tracked in `docs/EVOLVING_CONCEPTUAL_STRAINS.md`:
 > This document reflects **earlier understanding** on:
 > - **#N** [Strain Name](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#anchor) — Brief impact
 > 
-> **Summary**: One-sentence correction with pointer to current document.
+> **Summary**: One-sentence correction with pointer to current understanding.
+> **Established correction (library)**: Document Name
 > ---
 ```
 
@@ -280,6 +281,14 @@ All conceptual evolution is tracked in `docs/EVOLVING_CONCEPTUAL_STRAINS.md`:
 ```markdown
 > **[CORRECTION #N]**: Brief explanation of the correction.
 ```
+
+### NotebookLM / Semantic Search Requirement
+
+These documents are uploaded into a NotebookLM environment. To ensure semantic search surfaces editorial guidance:
+
+- Do not rely on the header block alone.
+- Always include **at least one inline editorial note** in the document body, even if the header summary is comprehensive.
+- When pointing to “current understanding”, reference a **document inside the `data/` library** where the correction is established (not an external link or a non-library document).
 
 ### Annotation Types
 

@@ -19,8 +19,8 @@ This document catalogs conceptual strains where understanding has evolved over t
 
 ## Strain Index
 
-- [ ] 1. [Limbus Concept](#1-the-limbus-concept) — Correction (High)
-- [ ] 2. [Biological Determinism (Jesus)](#2-biological-determinism-about-jesus) — Correction (High)
+- [x] 1. [Limbus Concept](#1-the-limbus-concept) — Correction (High) ✓ No older-position docs found; correction introduced in newer synthesis
+- [x] 2. [Biological Determinism (Jesus)](#2-biological-determinism-about-jesus) — Correction (High) ✓ 5 docs annotated (2026-01-27)
 - [ ] 3. [Reincarnation Model](#3-reincarnation-model) — Extension (Medium)
 - [ ] 4. [Jesus vs. Paul](#4-jesus-vs-paul-characterization) — Reframing (High)
 - [ ] 5. [Most Ancient Church](#5-the-most-ancient-church) — Reframing (Medium)
@@ -29,14 +29,14 @@ This document catalogs conceptual strains where understanding has evolved over t
 - [ ] 8. [NDE Cultural Variation](#8-nde-cultural-variation) — Validation (Low)
 - [ ] 9. [Resurrection Narratives](#9-resurrection-narrative-evolution) — Critical Analysis (Medium)
 - [ ] 10. [Location-Ruling Love](#10-location-ruling-love-relationship) — Correction (Low)
-- [ ] 11. [Correspondence as Ontology](#11-correspondence-as-ontology-not-transmission) — **NEW** Reframing (High)
-- [ ] 12. [Observational vs. Interpretive Layers](#12-observational-vs-interpretive-layers-in-swedenborg) — **NEW** Distinction (High)
-- [ ] 13. [Bicameral Mind Refutation](#13-bicameral-mind-refutation) — **NEW** Critical Analysis (Medium)
-- [ ] 14. [Somatic Influx / Radical Remission](#14-somatic-influx-and-radical-remission) — **NEW** Extension (Medium)
-- [ ] 15. [The Magi Narrative as Theological Construct](#15-the-magi-narrative-as-theological-construct) — **NEW** Critical Analysis (High)
-- [ ] 16. [Göbekli Tepe as Crisis Management](#16-gobekli-tepe-as-crisis-management-diagram) — **NEW** Interpretation (Medium)
-- [ ] 17. [Virgin Birth as Translation Artifact](#17-virgin-birth-as-translation-artifact) — **NEW** Critical Analysis (High)
-- [x] 18. [Bene Qedem as True Carriers](#18-bene-qedem-as-true-carriers-not-magi) — **NEW** Correction (**Critical**)
+- [ ] 11. [Correspondence as Ontology](#11-correspondence-as-ontology-not-transmission) — Reframing (High)
+- [ ] 12. [Observational vs. Interpretive Layers](#12-observational-vs-interpretive-layers-in-swedenborg) — Distinction (High)
+- [ ] 13. [Bicameral Mind Refutation](#13-bicameral-mind-refutation) — Critical Analysis (Medium)
+- [ ] 14. [Somatic Influx / Radical Remission](#14-somatic-influx-and-radical-remission) — Extension (Medium)
+- [ ] 15. [The Magi Narrative as Theological Construct](#15-the-magi-narrative-as-theological-construct) — Critical Analysis (High)
+- [ ] 16. [Göbekli Tepe as Crisis Management](#16-gobekli-tepe-as-crisis-management-diagram) — Interpretation (Medium)
+- [ ] 17. [Virgin Birth as Translation Artifact](#17-virgin-birth-as-translation-artifact) — Critical Analysis (High)
+- [x] 18. [Bene Qedem as True Carriers](#18-bene-qedem-as-true-carriers-not-magi) — Correction (**Critical**)
 
 ---
 
@@ -84,33 +84,44 @@ The limbus is identified as an **18th-century Cartesian artifact**—a theoretic
 #### Earlier Position
 Jesus had a "soul from the Father" (Divine) and a "body from the mother" (Human), based on the biological theory of Swedenborg's time that the sire provides the soul and the dam provides the body.
 
-**Documents reflecting earlier position**:
-- [ ] To be identified through document review
+**Documents reflecting earlier position** (ANNOTATED 2026-01-27):
+- [x] `data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md` (§1.4)
+- [x] `data/00_Framework/The Divine Bricolage_ A Spiritual History of the Word from Influx to Incarnation.md` (§6.1)
+- [x] `data/01_Consciousness_Studies/Evolution of God Concepts and Consciousness.md` (§4.1)
+- [x] `data/02_Swedenborgian_Theology/Swedenborgian Research Plan_ Spiritual Depth.md` (§3.1)
+- [x] `data/02_Swedenborgian_Theology/The Resurrection of True Life_ A Phenomenological Analysis...md` (§4.1)
 
 #### Refined Position
 This framing reflects **outdated 18th-century embryology**, not spiritual truth. It dehumanizes Jesus into a "God-Man hybrid" and implies his struggles were divine pantomime.
 
 **Key corrections**:
-1. Jesus was a **complete human soul** who achieved perfect alignment with the Divine
-2. The mechanism was **removal of obstruction** (proprium), not biological origin
-3. The "Divine Human" is the Lord's capacity to be personal with every human
+1. Jesus was a **human being whose ruling love was oriented toward the Divine**—not toward self
+2. The proprium (self) is **not removed**; it is the **orientation** that matters—ruling love toward Divine = no obstruction
+3. The Lord flowed through Jesus **without obstruction**—this is the path of regeneration any human can walk
+4. The "Divine Human" is the Lord's capacity to be personal with every human
+5. The Bricolage shaped the theological profile preserved in Scripture; Jesus was the person who walked this path
 
 **Textual evidence for correction**:
 - "I can do nothing by myself" (John 5:19)—impossible if inherent omnipotence
 - "Why do you call me good? No one is good except God alone" (Mark 10:18)—refusing to appropriate divine attributes
 - The vulnerability of Gethsemane: genuine struggle, not performance
+- "A soul through which the Lord flows without obstruction IS the Lord in ultimates" (Epistle - The Divine Marriage)
 
 **Documents with refined position**:
-- [x] `data/unclassified/The Epistemic Architecture of Post-Materialist Inquiry...md` (Part V: §5.2)
+- [x] `data/00_Framework/Epistle - The Divine Marriage and the Expression of the Lord in Ultimates.md` (PRIMARY)
 - [x] `data/02_Swedenborgian_Theology/Divine Bricolage vs. Swedenborg's Jesus.md`
 - [x] `data/unclassified/The Divine Human in Ultimates.md`
 
+**NOTE**: Earlier correction documents (e.g., "The Epistemic Architecture" §5.2, "Divine Bricolage vs. Swedenborg's Jesus") use "removal of proprium" language which is itself incorrect. The proprium cannot be removed—it is the self. What changes is the **orientation of ruling love**: toward self (obstruction) or toward Divine (no obstruction).
+
 #### Annotation Template
 ```markdown
-> **[EVOLVED: Biological Determinism]** This section uses "soul from the Father" language.
-> Later analysis identifies this as 18th-century biological determinism.
-> See "The Epistemic Architecture..." §5.2: Jesus was a complete human soul 
-> who achieved perfect alignment through removal of proprium, not biological origin.
+> **[CORRECTION #2]** This section uses "soul from the Father / body from the mother" language 
+> reflecting 18th-century embryology. Jesus was a human being whose ruling love was oriented 
+> toward the Divine—not toward self—so the Lord flowed through him without obstruction. 
+> The proprium (self) is not removed; it is the *orientation* that matters. 
+> This is the path of regeneration any human can walk.
+> See: Epistle - The Divine Marriage and the Expression of the Lord in Ultimates.
 ```
 
 ---

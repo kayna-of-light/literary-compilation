@@ -1,5 +1,15 @@
 # **The Resurrection of True Life: A Phenomenological Analysis of the Evolution of Divine Images, the Fall into Language, and the Incarnation of Love**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-27
+> 
+> This document reflects **earlier understanding** on:
+> - **#2** [Biological Determinism about Jesus](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-2-biological-determinism-about-jesus) — Section 4.1 uses "soul from the Father / body from the mother" framing; current position: Jesus was a human being whose ruling love was oriented toward the Divine, so the Lord flowed through him without obstruction. This is the path of regeneration any human can walk.
+> 
+> **Summary**: The "assumed human nature from the mother" language reflects 18th-century embryology. The proprium (self) is not removed but oriented—Jesus's ruling love was always toward the Divine.
+> **Established correction (library)**: Epistle - The Divine Marriage and the Expression of the Lord in Ultimates
+> ---
+
 ## **Introduction: The Epistemological Crisis and the Nature of Conceptual Falsity**
 
 The proposition that the evolution of human images of God is purely allegorical and conceptual of nature, while simultaneously being divinely guided toward a specific teleological endpoint, addresses the fundamental fracture at the heart of modern religious and scientific discourse. We stand at a precipice of profound epistemological fragmentation where the "outer layer" of human understanding—speech, writing, and conceptual analysis—appears increasingly incapable of grasping the "deep inner loving connection" that characterizes genuine spiritual experience. The user’s hypothesis suggests a radical restructuring of history: that the intellectual evolution related to the development of articulate speech and writing was not an ascent into clarity, but a "Fall" into a displaced, externalized mode of cognition "barely capable of understanding". Furthermore, it posits that this "outer layer" of conceptual falsity has been providentially guided—through a process of alignment with the "natural factual basis"—to culminate in the narrative of Jesus, which finally validates the inner reality of Love.  
@@ -104,6 +114,8 @@ The user's proposition culminates in the narrative of Jesus, "finally and truly 
 
 The Incarnation represents the end of the "Fall." For millennia, the Divine had to communicate *through* the outer layer (allegories, prophets, texts). In Jesus, the Influx *became* the Vessel.  
 The scholarly distinction between the "historical Jesus" and the "Christ of faith" is a perfect description of this dual nature, confirming the user's view of "inner reality" vs. "outer means":
+
+> **[CORRECTION #2]**: The following framing uses "soul from the Father / body from the mother" language reflecting 18th-century embryology. Jesus was a human being whose ruling love was oriented toward the Divine—not toward self—so the Lord flowed through him without obstruction. The proprium (self) is not removed; it is the *orientation* that matters. This is the path of regeneration any human can walk.
 
 * **The Historical Jesus** (the outer layer) corresponds to the external, assumed human nature from the mother, Mary. This part was finite, visible, and subject to the "falsity" of the human condition (temptation). He had to learn to speak, read, and navigate the "fallen" world of concepts.  
 * **The Christ of Faith** (the inner reality) corresponds to the internal, Divine Soul from Jehovah—the influx itself.

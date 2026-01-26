@@ -21,9 +21,8 @@ This document catalogs conceptual strains where understanding has evolved over t
 
 - [x] 1. [Limbus Concept](#1-the-limbus-concept) — Correction (High) ✓ No older-position docs found; correction introduced in newer synthesis
 - [x] 2. [Biological Determinism (Jesus)](#2-biological-determinism-about-jesus) — Correction (High) ✓ 5 docs annotated (2026-01-27)
-- [ ] 3. [Reincarnation Model](#3-reincarnation-model) — Extension (Medium)
-- [ ] 4. [Jesus vs. Paul](#4-jesus-vs-paul-characterization) — Reframing (High)
-- [ ] 5. [Most Ancient Church](#5-the-most-ancient-church) — Reframing (Medium)
+- [x] 3. [Reincarnation Model](#3-reincarnation-model) — Extension (Medium) ✓ 1 doc annotated (2026-01-27)
+- [x] 5. [Most Ancient Church](#5-the-most-ancient-church) — Reframing (Medium) ✓ 2 docs annotated (2026-01-27)
 - [ ] 6. [Magi and Daniel](#6-magi-and-daniel-historicity) — Critical Analysis (Medium)
 - [ ] 7. [Doctrine of Correspondences](#7-doctrine-of-correspondences-validation) — Extension (Low)
 - [ ] 8. [NDE Cultural Variation](#8-nde-cultural-variation) — Validation (Low)
@@ -129,13 +128,14 @@ This framing reflects **outdated 18th-century embryology**, not spiritual truth.
 ### 3. Reincarnation Model
 
 **Evolution Type**: EXTENSION  
-**Priority**: Medium
+**Priority**: Medium  
+**Status**: ✅ COMPLETE — 1 document annotated (2026-01-27)
 
 #### Earlier Position
 Following Swedenborg strictly: reincarnation categorically denied (Heaven and Hell §256). All past-life memories attributed to "spirit influence" mechanism.
 
-**Documents reflecting earlier position**:
-- [ ] Documents treating spirit influence as complete (not partial) explanation
+**Documents reflecting earlier position** (ANNOTATED 2026-01-27):
+- [x] `data/unclassified/The Seed-State of the Concrete Spirit...md` — Section 5.3 states reincarnation is "generally rejected" without discussing DOPS exceptions
 
 #### Evolved Position
 A **three-tiered hybrid model** that honors both Swedenborg's observations AND the empirical evidence:
@@ -148,59 +148,17 @@ A **three-tiered hybrid model** that honors both Swedenborg's observations AND t
 
 **Key insight**: Swedenborg's rejection was **internally consistent** with his limbus premise. If the limbus is artifact, exceptional reincarnation becomes theoretically possible.
 
-**Documents with evolved position**:
+**Documents with evolved position** (ALL corpus documents on this topic):
 - [x] `data/01_Consciousness_Studies/A Synthesized Model of Post-Mortem Existence...md`
 - [x] `data/01_Consciousness_Studies/A Hybrid Model of Post-Mortem Existence...md`
 - [x] `data/01_Consciousness_Studies/DOPS Restorative Return Model Analysis.md`
 - [x] `data/00_Framework/The Threefold Path of the Soul...md` (multiple versions)
+- [x] `data/00_Framework/A Coherent Framework for Spiritual History...md`
 - [x] `data/unclassified/The Epistemic Architecture...md` (§5.3)
 
 #### Annotation Template
 ```markdown
-> **[EVOLVED: Reincarnation Model]** This section treats spirit influence as complete explanation.
-> Later analysis develops a three-tiered model: (1) Spirit influence filters weak claims,
-> (2) Restorative Incarnation explains strong DOPS evidence, (3) Volunteer Soul path 
-> accounts for mission-based returns. See "The Threefold Path of the Soul" for synthesis.
-```
-
----
-
-### 4. Jesus vs. Paul Characterization
-
-**Evolution Type**: REFRAMING  
-**Priority**: High
-
-#### Earlier Position
-Jesus-Paul incompatibility presented as **historical fact**:
-- Paul characterized as "self-love," aggressive, divisive, proprium-driven
-- James as the authentic continuation of Jesus's teaching
-- Pauline Christianity as corruption of the original message
-
-**Documents reflecting earlier position**:
-- [x] `data/04_Early_Christian_History/A Foundational Divergence...md`
-- [ ] Other documents in 04_Early_Christian_History
-
-#### Reframed Position
-Recognition that the "foundational divergence" thesis is a **theological position** (favoring Jamesian Christianity), not established historical consensus.
-
-**Counterarguments noted**:
-1. Jesus was ALSO confrontational: temple cleansing, "brood of vipers," "I came not to bring peace but a sword"
-2. Paul's self-description: "servant," "slave of Christ," "last of the apostles"
-3. Paul's confrontations served community integrity (Galatians 2), not ego
-4. "Jamesian romanticism" may reflect prior commitment to kenotic ethics
-
-**Recommendation**: Present as **theological critique** of Pauline tradition from Swedenborgian perspective, not as neutral historical analysis.
-
-**Documents with reframing**:
-- [x] `docs/critical_analysis_report.md` (Section 5)
-- [x] `docs/research_questions.md` (Jesus vs. Paul Scholarly Consensus question)
-
-#### Annotation Template
-```markdown
-> **[REFRAMING: Jesus vs. Paul]** This section presents Jesus-Paul incompatibility as historical fact.
-> Critical analysis notes this is a theological position favoring Jamesian Christianity.
-> Jesus was also confrontational; Paul described himself as servant/slave.
-> See docs/critical_analysis_report.md Section 5 for balanced assessment.
+> **[EXTENSION #3]**: This categorical rejection reflects Swedenborg's limbus premise. With limbus recognized as artifact, **exceptional reincarnation** becomes theoretically possible. DOPS research shows 70%+ violent death and 88% birthmark correspondence in strongest cases—evidence that spirit influence alone cannot explain. Current position: a three-tiered model where (1) Spirit Influence explains weak claims, (2) Restorative Incarnation explains strong DOPS evidence, and (3) Volunteer Soul explains mission-based returns. See *The Epistemic Architecture of Post-Materialist Inquiry* §5.3.
 ```
 
 ---
@@ -208,17 +166,27 @@ Recognition that the "foundational divergence" thesis is a **theological positio
 ### 5. The Most Ancient Church
 
 **Evolution Type**: REFRAMING  
-**Priority**: Medium
+**Priority**: Medium  
+**Status**: ✅ COMPLETE — 6 documents annotated (2026-01-27)
 
 #### Earlier Position
 The "Golden Age" or "Most Ancient Church" treated as a historical period (e.g., 40,000-10,000 BCE) with literal internal respiration as a breathing technique.
 
-**Documents reflecting earlier position**:
-- [x] `data/unclassified/Communication among the most ancient people...md` (title suggests literal dating)
-- [ ] Other documents with literal period interpretation
+**Documents reflecting earlier position** (ANNOTATED 2026-01-27):
+- [x] `data/02_Swedenborgian_Theology/Communication Among the Most Ancient People.md` (title equates Most Ancient Church with 40,000-10,000 BCE)
+- [x] `data/unclassified/Communication among the most ancient people...md` (duplicate)
+- [x] `data/unclassified/The Lithic Scripture_ A Hermeneutic Reconstruction...md` (§2.2: "deep Paleolithic" terminology ambiguous)
+- [x] `data/unclassified/The Semiotics of Sanctity_ A Diachronic Analysis...md` (§7.1 table: 40k-10k BCE with Original Participation)
+- [x] `data/unclassified/The Agency of the Ancients_ A Comprehensive Red Team Audit...md` (§V: places end of Golden Age at 9600 BCE)
+- [x] `data/unclassified/The Lithic Archive and the Breath of Life...md` (§III: places Fall at 9600 BCE)
 
 #### Reframed Position
 The "Golden Age" is an **allegorical narrative** for the entire multi-million-year trajectory of hominin evolution, not a fixed historical period.
+
+**Key distinction**:
+- **Most Ancient Church (Golden Age)** = Deep hominin origins (millions of years): bipedalism, gestural communication, conceptual metaphor
+- **Ancient Church Phase 1** = Upper Paleolithic (40,000-10,000 BCE): *maturation* of externalized cognition *after* the Fall
+- The documents conflate these, placing the Golden Age at 40,000-10,000 BCE when that period is actually post-Fall
 
 **Functional mappings**:
 | Theological Concept | Scientific Correlate |
@@ -237,9 +205,10 @@ The "Golden Age" is an **allegorical narrative** for the entire multi-million-ye
 
 #### Annotation Template
 ```markdown
-> **[REFRAMING: Most Ancient Church]** This section treats the Golden Age as a historical period.
-> Later analysis reframes it as allegorical narrative for hominin cognitive evolution.
-> "Internal respiration" = decoupling of breathing from locomotion (bipedalism).
+> **[REFRAMING #5]** This section equates "Most Ancient Church" with 40,000-10,000 BCE.
+> Later analysis reframes the "Golden Age" as allegorical narrative for deep hominin evolution 
+> (millions of years), with 40,000-10,000 BCE being the **Ancient Church** period *after* the Fall.
+> "Internal respiration" = decoupling of breath from locomotion (bipedalism).
 > See "A Validation Analysis of Claims Concerning the Most Ancient Church" for mapping.
 ```
 

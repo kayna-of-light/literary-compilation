@@ -4,10 +4,9 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 > 
 > This document reflects **earlier understanding** on:
-> - **#6** [Magi and Daniel Historicity](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-6-magi-and-daniel-historicity) — Section 3.3 incorrectly states Daniel was appointed *Rab-mag*; the biblical text assigns Daniel the titles *Rab-signīn* (Dan 2:48) and *Rab-hartummin* (Dan 4:9). *Rab-mag* appears only in Jeremiah 39 for Nergal-sharezer.
+> - **#6** [Magi and Daniel Historicity](../03_Biblical_Scholarship/Daniel_ Historicity and Cultural Synthesis.md) — Section 3.3 incorrectly states Daniel was appointed *Rab-mag*; the biblical text assigns Daniel the titles *Rab-signīn* (Dan 2:48) and *Rab-hartummin* (Dan 4:9). *Rab-mag* appears only in Jeremiah 39 for Nergal-sharezer.
 > 
 > **Summary**: Correct Daniel's title from *Rab-mag* to *Rab-signīn*/*Rab-hartummin*.
-> **Established correction (library)**: Daniel_ Historicity and Cultural Synthesis (Section 4.2, Table 1)
 > ---
 
 ## **1\. Introduction: The Crisis of Historicity and the Demand for Reconstruction**

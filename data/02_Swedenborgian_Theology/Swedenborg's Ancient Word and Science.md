@@ -4,10 +4,9 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 > 
 > This document reflects **earlier understanding** on:
-> - **#16** [Göbekli Tepe as Crisis Management Diagram](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#16-g%C3%B6bekli-tepe-as-crisis-management-diagram) — Part III leans on archaeoastronomy (“date stamp/observatory”) framings rather than the crisis-management schematic reading
+> - **#16** [Göbekli Tepe as Crisis Management](../unclassified/The Architecture of Influx_ A Forensic Audit of the Deep Trajectory from Internal Respiration to Lithic Scripture.md) — Part III leans on archaeoastronomy (“date stamp/observatory”) framings rather than the crisis-management schematic reading
 > 
 > **Summary**: Current analysis treats Pillar 43 primarily as a correspondential “crisis management” diagram of the Neolithic transition (Stone Library), not a star-map.
-> **Established correction (library)**: The Architecture of Influx
 > ---
 
 ## **Part I: Defining the Object of Inquiry — Swedenborg's "Ancient Word"**

@@ -4,10 +4,9 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 >
 > This document reflects **earlier understanding** on:
-> - **#8** [NDE Cultural Variation](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#8-nde-cultural-variation) — This report argues against the cultural expectancy hypothesis primarily via qualitative studies and testimonial anomalies; later internal analysis provides large-scale statistical validation of “constant state, variable form.”
+> - **#8** [NDE Cultural Variation](../01_Consciousness_Studies/Being of Light - Statistical Analysis of NDE Phenomenology.md) — This report argues against the cultural expectancy hypothesis primarily via qualitative studies and testimonial anomalies; later internal analysis provides large-scale statistical validation of “constant state, variable form.”
 >
 > **Summary**: Cross-cultural variation in *labels* does not imply subjectivity of the *encounter*; later analysis shows identification vocabulary is culturally mediated while experiential properties remain stable.
-> **Established correction (library)**: The Being of Light: A Statistical Analysis of Near-Death Experience Phenomenology
 > ---
 
 ## **Executive Summary**

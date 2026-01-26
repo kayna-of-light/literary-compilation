@@ -2,10 +2,9 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
-> - **#5** [Most Ancient Church](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#5-the-most-ancient-church) — The title equates "Most Ancient Church" with 40,000-10,000 BCE; current position reframes this as allegorical narrative for the entire multi-million-year trajectory of hominin evolution, with 40,000-10,000 BCE corresponding to the **Ancient Church Phase 1** (after the "Fall"), not the Golden Age itself.
+> - **#5** [Most Ancient Church](../02_Swedenborgian_Theology/A Validation Analysis of Claims Concerning the Most Ancient Church.md) — The title equates "Most Ancient Church" with 40,000-10,000 BCE; current position reframes this as allegorical narrative for the entire multi-million-year trajectory of hominin evolution, with 40,000-10,000 BCE corresponding to the **Ancient Church Phase 1** (after the "Fall"), not the Golden Age itself.
 > 
 > **Summary**: "Internal respiration" functionally aligns with decoupling of breath from locomotion (bipedalism, millions of years ago). The 40,000-10,000 BCE period represents the *maturation* of externalized cognition, not the Golden Age.
-> **Established correction (library)**: A Validation Analysis of Claims Concerning the Most Ancient Church
 > ---
 
 > **[REFRAMING #5]**: The following document equates "Most Ancient Church" with 40,000-10,000 BCE. Later analysis reframes the "Golden Age" as allegorical narrative for deep hominin evolution (millions of years), with 40,000-10,000 BCE being the **Ancient Church** period *after* cognitive externalization (the "Fall"). "Internal respiration" = decoupling of breath from locomotion (bipedalism). See "A Validation Analysis of Claims Concerning the Most Ancient Church" for the functional mapping.

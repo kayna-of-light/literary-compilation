@@ -4,10 +4,9 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
-> - **#5** [Most Ancient Church Temporal Framing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#5-most-ancient-church-temporal-framing) — Section III places the "Fall" at c. 9600 BCE (Göbekli Tepe), and refers to "Paleolithic mind (the 'Most Ancient Church')" as if the Upper Paleolithic = Golden Age
+> - **#5** [Most Ancient Church](../02_Swedenborgian_Theology/A Validation Analysis of Claims Concerning the Most Ancient Church.md) — Section III places the "Fall" at c. 9600 BCE (Göbekli Tepe), and refers to "Paleolithic mind (the 'Most Ancient Church')" as if the Upper Paleolithic = Golden Age
 > 
 > **Summary**: Later analysis reframes the "Golden Age" (Most Ancient Church) as allegorical narrative for **multi-million-year hominin evolution**, not the Paleolithic era. The Upper Paleolithic (40,000-10,000 BCE) and Neolithic actually correspond to the **Ancient Church** period *after* the Fall.  
-> **Established correction (library)**: `data/02_Swedenborgian_Theology/A Validation Analysis of Claims Concerning the Most Ancient Church.md`
 > ---
 
 ## **I. Introduction: The Epistemological Crisis in Interpreting Prehistory**

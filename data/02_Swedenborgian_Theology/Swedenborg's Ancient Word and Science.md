@@ -1,5 +1,15 @@
 # **Echoes of an Ancient Word: A Scientific and Mythological Inquiry into the Caliber of a Lost Universal Knowledge**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+> 
+> This document reflects **earlier understanding** on:
+> - **#16** [Göbekli Tepe as Crisis Management Diagram](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#16-g%C3%B6bekli-tepe-as-crisis-management-diagram) — Part III leans on archaeoastronomy (“date stamp/observatory”) framings rather than the crisis-management schematic reading
+> 
+> **Summary**: Current analysis treats Pillar 43 primarily as a correspondential “crisis management” diagram of the Neolithic transition (Stone Library), not a star-map.
+> **Established correction (library)**: The Architecture of Influx
+> ---
+
 ## **Part I: Defining the Object of Inquiry — Swedenborg's "Ancient Word"**
 
 The intellectual legacy of the 18th-century polymath Emanuel Swedenborg presents a compelling paradox. Celebrated as a pioneering scientist whose empirical investigations in fields from neuroscience to cosmology were centuries ahead of his time, Swedenborg dedicated the latter half of his life to a vast theological project seemingly predicated on an uncritical acceptance of biblical historicity. This report seeks to move beyond this apparent contradiction to frame Swedenborg's concept of a lost "Ancient Word" not as a matter of faith, but as a specific, structured hypothesis about the nature of ancient knowledge and its transmission—a hypothesis whose "caliber" can be explored through the lenses of modern scientific inquiry.
@@ -94,6 +104,8 @@ If a mechanism for long-term transmission exists, the next question concerns the
 
 The discovery of Göbekli Tepe in southeastern Turkey has revolutionized our understanding of the Neolithic period. Dated to c. 9600 BCE, it consists of monumental circular enclosures built around massive, T-shaped limestone pillars, intricately carved with a complex iconography of animals. This was achieved by hunter-gatherers, thousands of years before the invention of pottery, writing, or agriculture. The animal reliefs are not random decorations; they appear to have emblematic significance, with different species (snakes, foxes, boars, birds) dominating the iconography of different enclosures, possibly representing different social groups or totems.  
 A particularly provocative interpretation comes from the field of archaeoastronomy. Researchers Martin Sweatman and Dimitrios Tsikritsis have proposed that the famous "Vulture Stone" (Pillar 43\) is a sophisticated "date stamp." They argue that the animal carvings on the pillar correspond to astronomical constellations and that their arrangement records the date of a cataclysmic event: the cometary impact believed to have initiated the Younger Dryas mini-ice age, around 10,950 BCE. This theory implies that these pre-agricultural people possessed a highly advanced, shared system of astronomical knowledge.
+
+> **[INTERPRETATION #16]** This section treats Pillar 43 primarily as a “date stamp” / zodiac-calendar artifact. Current reading treats Pillar 43 as a crisis-management diagram of the Neolithic transition: Scorpion = sensual persuasion, Headless Man = severed will/understanding, Vulture = intellect preserving Divine Truth; the “Stone Library” externalizes what internal perception could no longer sustain.
 
 #### **Paleolithic Cave Art: A Unified Symbolic System**
 

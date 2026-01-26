@@ -31,9 +31,9 @@ This document catalogs conceptual strains where understanding has evolved over t
 - [x] 11. [Correspondence as Ontology](#11-correspondence-as-ontology-not-transmission) — Reframing (High) ✓ 6 docs annotated (2026-01-27)
 - [x] 12. [Observational vs. Interpretive Layers](#12-observational-vs-interpretive-layers-in-swedenborg) — Distinction (High) — META-STRAIN: Organizing principle for #1, #2, #3, #10; docs reference via specific strains
 - [ ] 13. [Bicameral Mind Refutation](#13-bicameral-mind-refutation) — Critical Analysis (Medium)
-- [ ] 14. [Somatic Influx / Radical Remission](#14-somatic-influx-and-radical-remission) — Extension (Medium)
+- [x] 14. [Somatic Influx / Radical Remission](#14-somatic-influx-and-radical-remission) — **Retired (evidence supporting #11; not a corpus strain)** (Low)
 - [x] 15. [The Magi Narrative as Theological Construct](#15-the-magi-narrative-as-theological-construct) — Critical Analysis (High) ✓ 3 docs annotated (2026-01-27)
-- [ ] 16. [Göbekli Tepe as Crisis Management](#16-gobekli-tepe-as-crisis-management-diagram) — Interpretation (Medium)
+- [ ] 16. [Göbekli Tepe as Crisis Management](#16-göbekli-tepe-as-crisis-management-diagram) — Interpretation (Medium)
 - [ ] 17. [Virgin Birth as Translation Artifact](#17-virgin-birth-as-translation-artifact) — Critical Analysis (High) — ASSESSED: Corpus already aware (*almah* noted in tables); overlaps #2
 - [x] 18. [Bene Qedem as True Carriers](#18-bene-qedem-as-true-carriers-not-magi) — Correction (**Critical**)
 
@@ -513,33 +513,23 @@ Jaynes's "automaton hypothesis" is **refuted** by archaeological evidence:
 
 ### 14. Somatic Influx and Radical Remission
 
-**Evolution Type**: EXTENSION  
-**Priority**: Medium
+**Evolution Type**: ASSESSED / RETIRED (evidence item; not a corpus-wide evolving strain)  
+**Priority**: Low
 
-#### Earlier Position
-"Correspondences" primarily understood as symbolic/hermeneutic relationship between spiritual and natural.
+#### Assessment
+This item is **not** functioning as a true cross-corpus strain (i.e., a correction/reframing that recurs across many documents). It is **project-specific evidence** and a **hypothesis extension** best tracked under the broader ontological strain:
 
-#### Extended Position
-Correspondence operates **bidirectionally**—the body is "the soul in ultimates":
+- **#11 Correspondence as Ontology** (primary home for the conceptual move from “symbolic” to “ontological/causal” correspondence)
 
-**Key evidence from Radical Remission**:
-- Placebo achieves <1% complete response in advanced solid tumors
-- Radical remission occurs at rates exceeding this baseline
-- 7 of 9 Turner factors are **psycho-spiritual**, not physical
-- DOPS birthmarks prove spiritual state can "print" onto physical form (88% accuracy)
+#### Operational rule
+Do **not** add or require corpus-wide editorial annotations solely to reflect “somatic influx / radical remission.” If a document discusses bodily correspondence or healing as correspondence, treat it as an *instance/evidence* of the broader #11 reframing rather than a standalone strain.
 
-**Implication**: If spiritual trauma prints damage (birthmarks), spiritual resolution can erase physical manifestation (remission). The body **faithfully outputs** the spiritual template.
+**Primary home for this material**:
+- `structured-data-analysis/projects/remission/` (analysis + reporting)
 
-**Documents with extension**:
-- [x] `data/unclassified/The Architecture of Anomaly...md` (comprehensive investigation)
-- [x] `data/01_Consciousness_Studies/Being of Light - Statistical Analysis...md` (NDE-healing links)
-
-#### Annotation Template
-```markdown
-> **[EXTENSION: Somatic Influx]** This section treats correspondence as primarily symbolic.
-> Radical remission evidence demonstrates bidirectional operation: the body is "the soul
-> in ultimates"—spiritual transformation → physical reorganization. See "Architecture of Anomaly."
-```
+**Related documents (reference only)**:
+- [x] `data/unclassified/The Architecture of Anomaly...md`
+- [x] `data/01_Consciousness_Studies/Being of Light - Statistical Analysis...md`
 
 ---
 

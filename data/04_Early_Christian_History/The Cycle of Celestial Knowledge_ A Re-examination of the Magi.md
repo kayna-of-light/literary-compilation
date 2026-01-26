@@ -1,12 +1,13 @@
 > ---
-> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+> **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
 > - **#6** [Magi and Daniel Historicity](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-6-magi-and-daniel-historicity) — Section 4 titles Daniel as *Rab-mag*; the biblical text assigns Daniel the titles *Rab-signīn* (Dan 2:48) and *Rab-hartummin* (Dan 4:9). *Rab-mag* appears only in Jeremiah 39 for Nergal-sharezer.
+> - **#15** [Magi Narrative as Theological Construct](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#15-the-magi-narrative-as-theological-construct) — The document's framing of the Magi's journey to Bethlehem treats it as spiritually significant history. Critical analysis: Matthew 2 is a theological construct (c. 80-90 CE) using bricolage to fill Proto-Luke's vacuum, counter Marcion, and subvert the Tiridates-Nero spectacle.
 > - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — This document foregrounds the Magi as inheritors of pristine correspondential science; current position treats the *Bene Qedem* ("Children of the East") as primary carriers, with the Magi as a later institutional layer.
 > 
-> **Summary**: (1) Correct Daniel's title from *Rab-mag* to *Rab-signīn*/*Rab-hartummin*; (2) reframe "Magi as inheritors of pristine correspondential science" → "Bene Qedem as primary carriers; Magi as later institutionalizers."
-> **Established correction (library)**: Daniel_ Historicity and Cultural Synthesis (Section 4.2, Table 1); The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
+> **Summary**: (1) Correct Daniel's title; (2) note Magi narrative is theological construct, not historical chronicle; (3) reframe "Magi as inheritors" → "Bene Qedem as primary carriers."
+> **Established correction (library)**: Daniel_ Historicity and Cultural Synthesis (Section 4.2, Table 1); The Celestial Synthesis (Magi Narrative_ Theological Construct Analysis.md); The Bifurcated Gnosis
 > ---
 
 ### **Introduction: From Historical Puzzle to Spiritual Paradigm**
@@ -56,6 +57,8 @@ Daniel, however, possessed true perception. He understood that genuine wisdom co
 Daniel's leadership over the Magi would have created a new spiritual lineage. For generations, his prophecies and his understanding of the one true God would have been preserved and passed down within this influential order. He was, in essence, replanting the seeds of the ancient wisdom, preparing a remnant of the Magi who could once again read the signs of the heavens with true spiritual understanding.
 
 ### **5\. The Culmination of Wisdom: The Journey to Bethlehem**
+
+> **[CORRECTION #15]**: This section treats the Matthew 2 Bethlehem journey as spiritually significant history flowing from Daniel’s restoration. Current critical synthesis treats Matthew 2 as a late Matthean theological construct (c. 80–90 CE) built via bricolage to fill Proto-Luke’s vacuum, counter Marcion, and subvert the Tiridates–Nero spectacle; the “star” functions literarily rather than as a physically behaving astronomical agent.
 
 The journey of the Magi in the Gospel of Matthew represents the culmination of this restored knowledge. These were not mere astrologers, but "wise men from the east"—a phrase that, in the language of correspondences, signifies those who possess knowledge of the good that comes from faith and love. They were the spiritual descendants of the school of thought reformed by Daniel.  
 Their ability to see and follow the star was a direct result of this restored wisdom. In the science of correspondences, a star does not compel, but rather signifies and guides. It represents knowledge of goodness and truth that leads to the Divine. The Magi understood the star's inner meaning and followed it, moving symbolically from the "east" (a state of goodness and knowledge) toward the "west" (a state of direct presence with God).  

@@ -1,5 +1,15 @@
 # **The Seed-State of the Concrete Spirit: A Radical Re-Evaluation of Swedenborgian Ontology and the Illusion of the Limbus**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-27
+> 
+> This document reflects **earlier understanding** on:
+> - **#3** [Reincarnation Model](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-3-reincarnation-model) — Section 5.3 states reincarnation is "generally rejected" in the Swedenborgian system, without discussing the DOPS exceptions; current position: a **three-tiered hybrid model** where Spirit Influence explains weak claims, Restorative Incarnation explains strong DOPS evidence (70%+ violent death, 88% birthmark correspondence), and Volunteer Soul explains mission-based returns.
+> 
+> **Summary**: Swedenborg's categorical rejection was internally consistent with his limbus premise; once limbus is artifact, exceptional reincarnation becomes theoretically possible for cases spirit influence cannot explain.
+> **Established correction (library)**: The Epistemic Architecture of Post-Materialist Inquiry — §5.3 Spirit Influence and Reincarnation
+> ---
+
 ## **1\. Introduction: The Epistemological Fracture and the Correction of the Container**
 
 The inquiry presented posits a fundamental, potentially paradigm-shifting challenge to the established ontological structures of Western metaphysics and, more specifically, to the traditional hermeneutics of Swedenborgian theology. It asserts that the concept of the "Limbus"—the theoretical border of natural substance allegedly retained by the human spirit after death to provide containment—is not an eternal spiritual reality but a conceptual artifact. Furthermore, the user advances the radical proposition that the distinction between the "Physical" and the "Spiritual-Natural" is an illusion of perception, a "distinction of our own creation" rather than an ontological chasm in the territory of being. In this view, humanity does not inhabit a separate material universe that "contains" the spirit like a bucket holding water; rather, humanity currently occupies the "ultimates of the spiritual-natural," functioning within a "seed-state" of identity formation sustained entirely by correspondence.
@@ -117,6 +127,8 @@ In this framework, **Time** replaces the **Material Limbus** as the fixing agent
 * **Linear Accumulation:** Every choice, every love, and every rejection made during the linear progression of earthly life is recorded in the "Interior Memory" or "Book of Life".22 This memory is not just a file storage; it is the *substance* of the spirit.  
 * **Narrative Structure:** This accumulation forms a unique "spiritual geometry." We are not contained by a skin; we are contained by our **story**. The "limit" of a spirit is the limit of their ruling love and the history that formed it.  
 * **The Irrevocability of the Seed:** This explains why "reincarnation" (in the sense of returning to the seed-state) is generally rejected in the Swedenborgian system.25 Once the seed has sprouted (death), it cannot return to the ground. The "shape" of the tree is determined by the conditions of the seed. The "Fixed Edge" allows the fluid spirit to "set" or "crystallize" into a permanent form.
+
+> **[EXTENSION #3]**: This categorical rejection reflects Swedenborg's limbus premise. With limbus recognized as artifact, **exceptional reincarnation** becomes theoretically possible. DOPS research shows 70%+ violent death and 88% birthmark correspondence in strongest cases—evidence that spirit influence alone cannot explain. Current position: a three-tiered model where (1) Spirit Influence explains weak claims, (2) Restorative Incarnation explains strong DOPS evidence, and (3) Volunteer Soul explains mission-based returns. See *The Epistemic Architecture of Post-Materialist Inquiry* §5.3.
 
 ## **6\. The Physics of Correspondence: Re-Defining "Matter"**
 

@@ -1,13 +1,14 @@
 # **The Divine Bricolage: A Spiritual History of the Word from Influx to Incarnation**
 
 > ---
-> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+> **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
-> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — This document frames “Magi” as inheritors of a primary eastern stream of truth; current position treats the *Bene Qedem* (“Children of the East”) as primary carriers of correspondential/nature wisdom, with the Magian priesthood as a later institutionalizing/appropriating layer.
+> - **#2** [Biological Determinism about Jesus](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-2-biological-determinism-about-jesus) — Section 6.1 uses "soul from the Father / body from the mother" framing; current position: Jesus was a human being whose ruling love was oriented toward the Divine, so the Lord flowed through him without obstruction. This is the path of regeneration any human can walk.
+> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — This document frames "Magi" as inheritors of a primary eastern stream of truth; current position treats the *Bene Qedem* ("Children of the East") as primary carriers of correspondential/nature wisdom, with the Magian priesthood as a later institutionalizing/appropriating layer.
 > 
-> **Summary**: Reframe “Magi as primary carriers/originators of correspondential wisdom” → “Bene Qedem as primary carriers; Magi as later institutionalizers/appropriators.”
-> **Established correction (library)**: The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
+> **Summary**: #2: The proprium (self) is not removed but oriented—Jesus's ruling love was always toward the Divine. #18: Reframe Magi → Bene Qedem as primary carriers.
+> **Established correction (library)**: Epistle - The Divine Marriage and the Expression of the Lord in Ultimates; The Bifurcated Gnosis
 > ---
 
 ## **Part I: The Light and the Vessel: A New Edict for History**
@@ -132,6 +133,8 @@ This is the narrative's culmination, the "coming of the Christ." The single thre
 ### **6.1 The Historical Jesus as the Final Ultimate**
 
 The scholarly distinction between the "historical Jesus" and the "Christ of faith" is, in fact, the most profound and unintentional theological insight of the historical-critical method. It aligns perfectly with the central truth of the Incarnation.
+
+> **[CORRECTION #2]**: The following framing uses "soul from the Father / body from the mother" language reflecting 18th-century embryology. Jesus was a human being whose ruling love was oriented toward the Divine—not toward self—so the Lord flowed through him without obstruction. The proprium (self) is not removed; it is the *orientation* that matters. This is the path of regeneration any human can walk.
 
 * **The "Historical Jesus":** This is the external, assumed human nature from the mother, Mary. This was the part "visible to the world," finite, limited, and "subject to temptation". This is the *vessel*, the final and perfect "ultimate."  
 * **The "Christ of Faith":** This is the internal, Divine soul, which was **Jehovah Himself**. This is the *influx*.

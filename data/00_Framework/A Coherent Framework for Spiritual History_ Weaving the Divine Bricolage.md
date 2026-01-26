@@ -1,5 +1,15 @@
 # **A Coherent Framework for Spiritual History: Weaving the Divine Bricolage**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-27
+> 
+> This document reflects **earlier understanding** on:
+> - **#2** [Biological Determinism about Jesus](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-2-biological-determinism-about-jesus) — Section 1.4 uses "soul from the Father / body from the mother" framing; current position: Jesus was a human being whose ruling love was oriented toward the Divine, so the Lord flowed through him without obstruction. This is the path of regeneration any human can walk.
+> 
+> **Summary**: The "assumed human nature from the mother" language reflects 18th-century embryology. The proprium (self) is not removed but oriented—Jesus's ruling love was always toward the Divine.
+> **Established correction (library)**: Epistle - The Divine Marriage and the Expression of the Lord in Ultimates
+> ---
+
 ## **Introduction: A Unified Plan for a Dispersed Archive**
 
 This report synthesizes a collection of disparate research documents from the Consciousness, Swedenborg, and Bible data clusters into a single, coherent framework. This framework reveals a continuous spiritual history of humanity, guided by the adaptive influx of the Divine. By examining the vast and seemingly contradictory archive of human history—from ancient myths and sacred texts to modern scientific findings and geopolitical conflicts—a single, unbroken thread of providential guidance can be discerned. This is the story of how the Divine has continuously adapted its communication to the evolving cognitive and spiritual state of humanity, ensuring that the light of truth has never been extinguished.  
@@ -59,6 +69,8 @@ The *proof* that this vessel was divinely forged is that its literal, historical
 The Incarnation represents the culmination of this entire adaptive historical process. The divine influx, which began as internal perception, then adapted to allegorical story, then to historical correspondence, now took its final, perfect, and ultimate form.  
 The influx no longer needed to be contained *in* a vessel because the Influx *became* the vessel.  
 The scholarly distinction between the "historical Jesus" and the "Christ of faith" is a perfect, though unintentional, description of the Incarnation's dual nature.
+
+> **[CORRECTION #2]**: The following framing uses "soul from the Father / body from the mother" language reflecting 18th-century embryology. Jesus was a human being whose ruling love was oriented toward the Divine—not toward self—so the Lord flowed through him without obstruction. The proprium (self) is not removed; it is the *orientation* that matters. This is the path of regeneration any human can walk. The Bricolage shaped the theological profile preserved in Scripture; the historical Jesus was the person who actually walked this path.
 
 * The **"historical Jesus"** corresponds to the external, assumed human nature from the mother, Mary—the finite, visible part subject to temptation.  
 * The **"Christ of faith"** corresponds to the internal, Divine Soul from Jehovah—the influx itself.

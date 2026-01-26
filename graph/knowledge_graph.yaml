@@ -9309,7 +9309,7 @@ nodes:
       ref: https://www.researchgate.net/publication/375319966_Memory_In_Oral_Traditions
       note: ResearchGate cognitive analysis
     - type: T
-      ref: data/unclassified/The Archival Rupture...md
+      ref: data/06_Mythological_Studies/The Archival Rupture...md
       note: Framework synthesis document
     confidence_factors:
       source_type: external
@@ -9368,7 +9368,7 @@ nodes:
       ref: https://www.iranicaonline.org/articles/persepolis-admin-archive/
       note: Encyclopaedia Iranica - PFA
     - type: T
-      ref: data/unclassified/The Archival Rupture...md
+      ref: data/06_Mythological_Studies/The Archival Rupture...md
       note: Framework synthesis
     confidence_factors:
       source_type: external
@@ -9433,7 +9433,7 @@ nodes:
       ref: https://www.philipharland.com/Blog/2022/06/persian-wisdom-eudemos-of-rhodes-on-magians/
       note: Eudemus on Magians analysis
     - type: T
-      ref: data/unclassified/The Archival Rupture...md
+      ref: data/06_Mythological_Studies/The Archival Rupture...md
       note: Framework synthesis
     confidence_factors:
       source_type: external
@@ -9490,7 +9490,7 @@ nodes:
       ref: https://www.iranicaonline.org/articles/mammals-03-in-zoroastrianism/
       note: Encyclopaedia Iranica - Zoroastrian animal classification
     - type: T
-      ref: data/unclassified/The Archival Rupture...md
+      ref: data/06_Mythological_Studies/The Archival Rupture...md
       note: Framework synthesis
     confidence_factors:
       source_type: external
@@ -9550,7 +9550,7 @@ nodes:
       ref: https://en.wikipedia.org/wiki/Indian_astronomy
       note: Indian astronomy - Babylonian parameters
     - type: T
-      ref: data/unclassified/The Archival Rupture...md
+      ref: data/06_Mythological_Studies/The Archival Rupture...md
       note: Framework synthesis
     confidence_factors:
       source_type: external

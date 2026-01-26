@@ -5,7 +5,7 @@
 > 
 > This document reflects **earlier understanding** on:
 > - **#6** [Magi and Daniel Historicity](../03_Biblical_Scholarship/Daniel_ Historicity and Cultural Synthesis.md) — The "Legacy of Daniel" section incorrectly states Daniel's position was designated by the title *Rab-mag*; the biblical text assigns Daniel the titles *Rab-signīn* (Dan 2:48) and *Rab-hartummin* (Dan 4:9). *Rab-mag* appears only in Jeremiah 39 for Nergal-sharezer.
-> - **#18** [Bene Qedem as True Carriers](../unclassified/The Bifurcated Gnosis_ A Genealogical Reconstruction of the Science of Correspondences from the Bene Qedem to the Matthean Synthesis.md) — This document attributes a "Science of Correspondences" primarily to the Magian institution; current position treats the *Bene Qedem* ("Children of the East") as primary carriers of correspondential/nature wisdom, with the Magi as a later institutionalizing/appropriating layer.
+> - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word.md) — This document attributes a "Science of Correspondences" primarily to the Magian institution; current position treats the *Bene Qedem* ("Children of the East") as primary carriers of correspondential/nature wisdom, with the Magi as a later institutionalizing/appropriating layer.
 > 
 > **Summary**: (1) Correct Daniel's title from *Rab-mag* to *Rab-signīn*/*Rab-hartummin*; (2) reframe "Magi as primary carriers/originators" → "Bene Qedem as primary carriers; Magi as later institutionalizers."
 > ---

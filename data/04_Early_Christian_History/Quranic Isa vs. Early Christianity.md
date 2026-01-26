@@ -4,7 +4,7 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 > 
 > This document reflects **partial alignment** with:
-> - **#19** [The Aligned Human](../unclassified/The Divine Human in Ultimates_ A Phenomenological and Forensic Re-Evaluation of the Aligned Soul.md) — This document correctly identifies the Gnostic "splitting" error and shows how the Quran restores "Jesus of History." However, the framework's synthesis is more than restoration of the historical: the "Christ of Faith" and "Jesus of History" *interpenetrate*. The Aligned Human is not merely "Jesus the prophet" but a human filled with the Lord through orientation of ruling love.
+> - **#19** [The Aligned Human](../02_Swedenborgian_Theology/The Divine Human in Ultimates_ A Phenomenological and Forensic Re-Evaluation of the Aligned Soul.md) — This document correctly identifies the Gnostic "splitting" error and shows how the Quran restores "Jesus of History." However, the framework's synthesis is more than restoration of the historical: the "Christ of Faith" and "Jesus of History" *interpenetrate*. The Aligned Human is not merely "Jesus the prophet" but a human filled with the Lord through orientation of ruling love.
 > 
 > **Summary**: Valuable analysis of Gnostic error; the framework adds that Divine and Human interpenetrate rather than simply returning to pre-theological history.
 > **Established position (library)**: The Divine Human in Ultimates: ...Aligned Soul

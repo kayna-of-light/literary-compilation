@@ -1,5 +1,15 @@
 # **Pure Encounter or Cultural Construct? An Analysis of the Identification of Jesus in Near-Death Experiences**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+>
+> This document reflects **earlier understanding** on:
+> - **#8** [NDE Cultural Variation](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#8-nde-cultural-variation) — This report argues against the cultural expectancy hypothesis primarily via qualitative studies and testimonial anomalies; later internal analysis provides large-scale statistical validation of “constant state, variable form.”
+>
+> **Summary**: Cross-cultural variation in *labels* does not imply subjectivity of the *encounter*; later analysis shows identification vocabulary is culturally mediated while experiential properties remain stable.
+> **Established correction (library)**: The Being of Light: A Statistical Analysis of Near-Death Experience Phenomenology
+> ---
+
 ## **Executive Summary**
 
 This report provides a comprehensive analysis of a central, complex question in perceptual and near-death studies: Is the identification of the figure of Jesus during a near-death experience (NDE) a "pure identification" of a transcendent, objective reality, or is it primarily a "dogmatic, cultural identification" primed by the experiencer's background?  
@@ -62,6 +72,8 @@ The strongest evidence for this hypothesis comes from cross-cultural NDE researc
 * **Japanese NDEs:** A key comparative analysis by Greyson and Ohkado identified "main differences" between Japanese and Western NDEs. While Japanese experiencers do report an "ineffably euphoric" bright light, they do *not* interpret it as a personal "being of light". This results in a "concomitant lack of interaction with it" and an absence of the specific Western "sense of being loved" *by* the light.  
 * **Thai NDEs:** Research on Thai NDEs shows different content, often featuring "Yamatoots" (messengers of death from Hinduism).  
 * **Other Variations:** Studies note that Twelver Shīʿīsm experiencers have reported seeing Shiite imams.
+
+> **[VALIDATION #8]**: This cross-cultural variation is best treated as *variable form*, not evidence that the encounter is culturally constructed. Large-scale structured analysis finds religious background predicts identification vocabulary (χ² = 365.14, p < 0.000001), yet the core phenomenology remains stable: experiencers naming “Jesus” and those naming “Unknown Presence” report virtually identical encounter characteristics (all differences <10%).
 
 ### **B. Rebuttal to the Expectancy Hypothesis**
 

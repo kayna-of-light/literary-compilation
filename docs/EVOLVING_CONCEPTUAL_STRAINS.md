@@ -217,18 +217,33 @@ The "Golden Age" is an **allegorical narrative** for the entire multi-million-ye
 ### 6. Magi and Daniel Historicity
 
 **Evolution Type**: CRITICAL ANALYSIS  
-**Priority**: Medium
+**Priority**: Medium  
+**Status**: ✅ COMPLETE — 6 documents annotated (2026-01-27)
 
 #### Earlier Position
 - Magi narrative treated as straightforward historical event
-- Daniel as literal Rab-mag (Chief Magus) transmitting prophecy
+- Daniel claimed to hold title "Rab-mag" (Chief Magus) transmitting prophecy to later Magi
 - Historical claims accepted without critical examination
 
-**Documents reflecting earlier position**:
-- [ ] To be identified through document review
+**Documents reflecting earlier position** (ANNOTATED 2026-01-27):
+- [x] `data/02_Swedenborgian_Theology/Magi's Principle of Correspondences.md` (§5.1: "Daniel as Rab-mag")
+- [x] `data/02_Swedenborgian_Theology/The Science of Correspondences_ A Scholarly Analysis of the Magi from the Era of Daniel to the Nativity.md` (§Legacy of Daniel: "position designated by the title Rab-mag")
+- [x] `data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md` (§I: "Daniel, the Rab-mag")
+- [x] `data/04_Early_Christian_History/The Cycle of Celestial Knowledge_ A Re-examination of the Magi.md` (§4: "Daniel as the New Rab-mag")
+- [x] `data/04_Early_Christian_History/The Luminous Science_ A Re-examination of the Magi.md` (Part II: "Daniel, the Rab-mag")
+- [x] `data/unclassified/The Celestial Synthesis and the Forensic Gaze...md` (§3.3: "Daniel is appointed Rab-mag")
 
 #### Critically Analyzed Position
 Recognition that historical claims require critical examination:
+
+**Daniel's Actual Titles** (per the biblical text):
+| Reference | Title | Meaning |
+|-----------|-------|---------|
+| Dan 2:48 | *Rab-signīn* | Chief Prefect over all wise men of Babylon |
+| Dan 4:9 | *Rab-hartummin* | Chief of the Magicians/Scribes |
+| Dan 5:11 | Chief over *hartummin, ashaphin, Kasdim, gazzerin* | Chief of magicians, enchanters, Chaldeans, diviners |
+
+**Critical correction**: The title *Rab-mag* appears **only in Jeremiah 39:3, 39:13** for **Nergal-sharezer** (later King Neriglissar), NOT for Daniel. Popular apologetics conflate these distinct titles because Greek translations rendered all such terms generically as *magoi*.
 
 **Magi Narrative**:
 - Recognized as **theological construct** in Matthew
@@ -236,9 +251,10 @@ Recognition that historical claims require critical examination:
 - Historical core possible but embedded in literary construction
 
 **Daniel Historicity**:
-- Compositional history: court tales + apocalyptic visions (different periods)
-- "Rab-mag" terminology: Akkadian *rab-mugi* (administrative title) vs. Persian *magu* (priest)
-- The transmission of Zoroastrian ideas is **confirmed** through cultural synthesis
+- Compositional history: court tales (4th-3rd c. BCE) + apocalyptic visions (167-164 BCE)
+- *Hartummin* (sacred scribes) distinct from Persian *Magi* (*magu*)
+- Functional overlap exists—Daniel is "retroactively positioned as archetype of Arch-Magus"
+- The transmission of Zoroastrian ideas is **confirmed** through cultural synthesis, but no evidence of formal "School of Daniel" within Magian priesthood
 
 **Documents with critical analysis**:
 - [x] `docs/CRITICAL_ANALYSIS_Daniel_Historicity.md`
@@ -247,10 +263,11 @@ Recognition that historical claims require critical examination:
 
 #### Annotation Template
 ```markdown
-> **[CRITICAL ANALYSIS: Historicity]** This section accepts historical claims without critical examination.
-> Later analysis applies historical-critical method: the Magi narrative functions as 
-> theological construct; Daniel's historicity requires nuanced assessment.
-> See docs/CRITICAL_ANALYSIS_Daniel_Historicity.md for detailed analysis.
+> **[CRITICAL ANALYSIS #6]** This section claims Daniel held the title "Rab-mag."
+> The biblical text assigns Daniel the titles *Rab-signīn* (Chief Prefect, Dan 2:48) and 
+> *Rab-hartummin* (Chief of Magicians, Dan 4:9). The title *Rab-mag* appears only in 
+> Jeremiah 39 for Nergal-sharezer, not Daniel. Greek translations rendered all such 
+> terms as *magoi*, causing later conflation.
 ```
 
 ---

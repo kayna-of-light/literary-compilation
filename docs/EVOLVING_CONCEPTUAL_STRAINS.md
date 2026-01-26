@@ -28,13 +28,13 @@ This document catalogs conceptual strains where understanding has evolved over t
 - [ ] 8. [NDE Cultural Variation](#8-nde-cultural-variation) — Validation (Low)
 - [ ] 9. [Resurrection Narratives](#9-resurrection-narrative-evolution) — Critical Analysis (Medium)
 - [ ] 10. [Location-Ruling Love](#10-location-ruling-love-relationship) — Correction (Low)
-- [ ] 11. [Correspondence as Ontology](#11-correspondence-as-ontology-not-transmission) — Reframing (High)
-- [ ] 12. [Observational vs. Interpretive Layers](#12-observational-vs-interpretive-layers-in-swedenborg) — Distinction (High)
+- [x] 11. [Correspondence as Ontology](#11-correspondence-as-ontology-not-transmission) — Reframing (High) ✓ 6 docs annotated (2026-01-27)
+- [x] 12. [Observational vs. Interpretive Layers](#12-observational-vs-interpretive-layers-in-swedenborg) — Distinction (High) — META-STRAIN: Organizing principle for #1, #2, #3, #10; docs reference via specific strains
 - [ ] 13. [Bicameral Mind Refutation](#13-bicameral-mind-refutation) — Critical Analysis (Medium)
 - [ ] 14. [Somatic Influx / Radical Remission](#14-somatic-influx-and-radical-remission) — Extension (Medium)
-- [ ] 15. [The Magi Narrative as Theological Construct](#15-the-magi-narrative-as-theological-construct) — Critical Analysis (High)
+- [x] 15. [The Magi Narrative as Theological Construct](#15-the-magi-narrative-as-theological-construct) — Critical Analysis (High) ✓ 3 docs annotated (2026-01-27)
 - [ ] 16. [Göbekli Tepe as Crisis Management](#16-gobekli-tepe-as-crisis-management-diagram) — Interpretation (Medium)
-- [ ] 17. [Virgin Birth as Translation Artifact](#17-virgin-birth-as-translation-artifact) — Critical Analysis (High)
+- [ ] 17. [Virgin Birth as Translation Artifact](#17-virgin-birth-as-translation-artifact) — Critical Analysis (High) — ASSESSED: Corpus already aware (*almah* noted in tables); overlaps #2
 - [x] 18. [Bene Qedem as True Carriers](#18-bene-qedem-as-true-carriers-not-magi) — Correction (**Critical**)
 
 ---
@@ -437,6 +437,14 @@ Correspondence reframed as **ontological law**, independently discoverable like 
 - [x] `data/unclassified/The Agency of the Ancients...md`
 - [x] `data/unclassified/The Bifurcated Gnosis...md` (Bene Qedem as carriers, §3)
 
+**Documents annotated for earlier position (2026-01-27)**:
+- [x] `data/unclassified/The Aramaic Nexus_ Linguistic Encoding, Scientific Transmission...md` — Header + inline at §2.2
+- [x] `data/unclassified/The Architecture of the Ancient Word_ A Comparative Analysis...md` — Header + inline at §2.2
+- [x] `data/unclassified/The Archival Rupture_ Alexander, Aristotle...md` — Header + inline at §II.B
+- [x] `data/02_Swedenborgian_Theology/Tracing Ancient Correspondence Knowledge.md` — Header updated (had #6/#18)
+- [x] `data/unclassified/The Arch-Bricoleur of the Academy...md` — Header updated (had #18)
+- [x] `data/unclassified/The Celestial Scribe_ The Doctrine of Correspondences...md` — Header updated (had #18)
+
 #### Annotation Template
 ```markdown
 > **[REFRAMING: Correspondence Ontology]** This section treats correspondence as transmitted knowledge.
@@ -593,6 +601,11 @@ The Magi in Matthew are the **spiritual descendants of appropriators**, not orig
 - [x] `data/unclassified/The Celestial Synthesis and the Forensic Gaze...md`
 - [x] `data/04_Early_Christian_History/The Jamesian Protograph...md`
 - [x] `data/unclassified/The Bifurcated Gnosis...md` (Magi as appropriators, §4, §7)
+
+**Documents annotated for earlier position (2026-01-27)**:
+- [x] `data/04_Early_Christian_History/The Cycle of Celestial Knowledge_ A Re-examination of the Magi.md` — Header updated (had #6/#18)
+- [x] `data/04_Early_Christian_History/The Luminous Science_ A Re-examination of the Magi.md` — Header updated (had #6/#18)
+- [x] `data/04_Early_Christian_History/Persian Roots of Early Christianity.md` — NEW header + #15 + #18
 
 #### Annotation Template
 ```markdown

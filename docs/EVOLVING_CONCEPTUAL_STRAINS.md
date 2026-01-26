@@ -22,8 +22,8 @@ This document catalogs conceptual strains where understanding has evolved over t
 - [x] 1. [Limbus Concept](#1-the-limbus-concept) — Correction (High) ✓ No older-position docs found; correction introduced in newer synthesis
 - [x] 2. [Biological Determinism (Jesus)](#2-biological-determinism-about-jesus) — Correction (High) ✓ 5 docs annotated (2026-01-27)
 - [x] 3. [Reincarnation Model](#3-reincarnation-model) — Extension (Medium) ✓ 1 doc annotated (2026-01-27)
-- [x] 5. [Most Ancient Church](#5-the-most-ancient-church) — Reframing (Medium) ✓ 2 docs annotated (2026-01-27)
-- [ ] 6. [Magi and Daniel](#6-magi-and-daniel-historicity) — Critical Analysis (Medium)
+- [x] 5. [Most Ancient Church](#5-the-most-ancient-church) — Reframing (Medium) ✓ 6 docs annotated (2026-01-27)
+- [x] 6. [Magi and Daniel](#6-magi-and-daniel-historicity) — Critical Analysis (Medium) ✓ 6 docs annotated (2026-01-27)
 - [ ] 7. [Doctrine of Correspondences](#7-doctrine-of-correspondences-validation) — Extension (Low)
 - [ ] 8. [NDE Cultural Variation](#8-nde-cultural-variation) — Validation (Low)
 - [ ] 9. [Resurrection Narratives](#9-resurrection-narrative-evolution) — Critical Analysis (Medium)

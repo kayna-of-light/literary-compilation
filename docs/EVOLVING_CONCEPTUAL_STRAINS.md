@@ -19,26 +19,24 @@ This document catalogs conceptual strains where understanding has evolved over t
 
 ## Strain Index
 
-| # | Strain | Evolution Type | Priority |
-|---|--------|----------------|----------|
-| 1 | [Limbus Concept](#1-the-limbus-concept) | Correction | High |
-| 2 | [Biological Determinism (Jesus)](#2-biological-determinism-about-jesus) | Correction | High |
-| 3 | [Reincarnation Model](#3-reincarnation-model) | Extension | Medium |
-| 4 | [Jesus vs. Paul](#4-jesus-vs-paul-characterization) | Reframing | High |
-| 5 | [Most Ancient Church](#5-the-most-ancient-church) | Reframing | Medium |
-| 6 | [Magi and Daniel](#6-magi-and-daniel-historicity) | Critical Analysis | Medium |
-| 7 | [Doctrine of Correspondences](#7-doctrine-of-correspondences-validation) | Extension | Low |
-| 8 | [NDE Cultural Variation](#8-nde-cultural-variation) | Validation | Low |
-| 9 | [Resurrection Narratives](#9-resurrection-narrative-evolution) | Critical Analysis | Medium |
-| 10 | [Location-Ruling Love](#10-location-ruling-love-relationship) | Correction | Low |
-| 11 | [Correspondence as Ontology](#11-correspondence-as-ontology-not-transmission) | **NEW** Reframing | High |
-| 12 | [Observational vs. Interpretive Layers](#12-observational-vs-interpretive-layers-in-swedenborg) | **NEW** Distinction | High |
-| 13 | [Bicameral Mind Refutation](#13-bicameral-mind-refutation) | **NEW** Critical Analysis | Medium |
-| 14 | [Somatic Influx / Radical Remission](#14-somatic-influx-and-radical-remission) | **NEW** Extension | Medium |
-| 15 | [The Magi Narrative as Theological Construct](#15-the-magi-narrative-as-theological-construct) | **NEW** Critical Analysis | High |
-| 16 | [Göbekli Tepe as Crisis Management](#16-göbekli-tepe-as-crisis-management-diagram) | **NEW** Interpretation | Medium |
-| 17 | [Virgin Birth as Translation Artifact](#17-virgin-birth-as-translation-artifact) | **NEW** Critical Analysis | High |
-| 18 | [Bene Qedem as True Carriers](#18-bene-qedem-as-true-carriers-not-magi) | **NEW** Correction | **Critical** |
+- [ ] 1. [Limbus Concept](#1-the-limbus-concept) — Correction (High)
+- [ ] 2. [Biological Determinism (Jesus)](#2-biological-determinism-about-jesus) — Correction (High)
+- [ ] 3. [Reincarnation Model](#3-reincarnation-model) — Extension (Medium)
+- [ ] 4. [Jesus vs. Paul](#4-jesus-vs-paul-characterization) — Reframing (High)
+- [ ] 5. [Most Ancient Church](#5-the-most-ancient-church) — Reframing (Medium)
+- [ ] 6. [Magi and Daniel](#6-magi-and-daniel-historicity) — Critical Analysis (Medium)
+- [ ] 7. [Doctrine of Correspondences](#7-doctrine-of-correspondences-validation) — Extension (Low)
+- [ ] 8. [NDE Cultural Variation](#8-nde-cultural-variation) — Validation (Low)
+- [ ] 9. [Resurrection Narratives](#9-resurrection-narrative-evolution) — Critical Analysis (Medium)
+- [ ] 10. [Location-Ruling Love](#10-location-ruling-love-relationship) — Correction (Low)
+- [ ] 11. [Correspondence as Ontology](#11-correspondence-as-ontology-not-transmission) — **NEW** Reframing (High)
+- [ ] 12. [Observational vs. Interpretive Layers](#12-observational-vs-interpretive-layers-in-swedenborg) — **NEW** Distinction (High)
+- [ ] 13. [Bicameral Mind Refutation](#13-bicameral-mind-refutation) — **NEW** Critical Analysis (Medium)
+- [ ] 14. [Somatic Influx / Radical Remission](#14-somatic-influx-and-radical-remission) — **NEW** Extension (Medium)
+- [ ] 15. [The Magi Narrative as Theological Construct](#15-the-magi-narrative-as-theological-construct) — **NEW** Critical Analysis (High)
+- [ ] 16. [Göbekli Tepe as Crisis Management](#16-gobekli-tepe-as-crisis-management-diagram) — **NEW** Interpretation (Medium)
+- [ ] 17. [Virgin Birth as Translation Artifact](#17-virgin-birth-as-translation-artifact) — **NEW** Critical Analysis (High)
+- [x] 18. [Bene Qedem as True Carriers](#18-bene-qedem-as-true-carriers-not-magi) — **NEW** Correction (**Critical**)
 
 ---
 

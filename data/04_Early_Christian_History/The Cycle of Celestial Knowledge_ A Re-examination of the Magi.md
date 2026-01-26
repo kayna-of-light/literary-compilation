@@ -1,3 +1,13 @@
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+> 
+> This document reflects **earlier understanding** on:
+> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — This document foregrounds the Magi as inheritors of pristine correspondential science; current position treats the *Bene Qedem* (“Children of the East”) as primary carriers, with the Magi as a later institutional layer.
+> 
+> **Summary**: Reframe “Magi as inheritors of pristine correspondential science” → “Bene Qedem as primary carriers; Magi as later institutionalizers.”
+> **Established correction (library)**: The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
+> ---
+
 ### **Introduction: From Historical Puzzle to Spiritual Paradigm**
 
 The history of the Magi presents a series of scholarly puzzles: Were they a Median tribe or a Persian priestly caste? Were they astronomers or sorcerers? How did a lineage of Persian priests come to seek a newborn king in Judea? While historical analysis provides a chronology of their evolution, it struggles to unify these disparate identities into a coherent whole. A more profound understanding emerges when their story is viewed not merely as a political or social evolution, but as a spiritual drama centered on the loss and restoration of an ancient, sacred knowledge: the Science of Correspondences.  
@@ -6,6 +16,9 @@ This framework posits that the earliest peoples possessed a direct, intuitive un
 ### **1\. The Ancient Wisdom: The Magi as Inheritors of a Luminous Science**
 
 According to the doctrine of correspondences, the earliest ages of humanity were marked by a direct perception of the divine order. This "Ancient Church," as theologian Emanuel Swedenborg termed it, did not need complex doctrines because its people understood the universe as a direct reflection of God's love and wisdom. Everything in nature was a symbol that revealed a heavenly truth. The sun corresponded to divine love, its light to divine wisdom, and the stars to specific truths and knowledges from heaven. The Magi, in their earliest form, can be understood as the inheritors of this pristine science.  
+
+> **[CORRECTION #18]**: This paragraph assigns “pristine correspondential science” primarily to the Magi. Current synthesis distinguishes the *Bene Qedem* (“Children of the East”) as the primary carriers of living correspondential perception (“nature wisdom”), with the Magian priesthood as a later institutionalization/codification (and at times appropriation) of that prior lineage.
+
 Their original function, as described by classical historians, was not "magic" in the modern sense, but the interpretation of the natural world—dreams, omens, and celestial movements—to understand the divine will. This was the Science of Correspondences in practice. They were the guardians of a cosmic knowledge that saw the universe as a living text filled with meaning. Their role as priests and royal counselors stemmed from this ability to read the spiritual causes behind natural effects, providing guidance based on a holistic understanding of reality. They were not merely a tribe of Medes, but a living remnant of a more ancient and enlightened state of humanity, possessing a wisdom that connected the seen and the unseen worlds.
 
 ### **2\. The Fall into Darkness: The Perversion of Knowledge into "Magic"**

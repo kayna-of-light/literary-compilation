@@ -1,5 +1,15 @@
 # **The Semiotics of Sanctity: A Diachronic Analysis of the Doctrine of Correspondences from the Paleolithic Mind to the Priestly Code**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-27
+> 
+> This document reflects **earlier understanding** on:
+> - **#5** [Most Ancient Church Temporal Framing](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#5-most-ancient-church-temporal-framing) — Table 7.1 equates "Paleolithic (40k-10k BCE)" with "Original Participation / Bicameral Mind," implying this is the Most Ancient Church period
+> 
+> **Summary**: Later analysis reframes the "Golden Age" (Most Ancient Church) as allegorical narrative for **multi-million-year hominin evolution**, not Upper Paleolithic (40,000-10,000 BCE). The Upper Paleolithic actually corresponds to the **Ancient Church** period *after* the Fall.  
+> **Established correction (library)**: `data/02_Swedenborgian_Theology/A Validation Analysis of Claims Concerning the Most Ancient Church.md`
+> ---
+
 ## **I. Introduction: The Epistemological Fracture and the Search for Origins**
 
 The history of religious thought is frequently narrated as a linear progression from primitive animism to sophisticated monotheism, a steady ascent from the "magical" to the "moral." Standard historiographies often treat the dietary laws, ritual purities, and symbolic worldviews of the Hebrew Bible as late priestly inventions, imposed during the Babylonian Exile (c. 6th century BCE) to preserve Jewish identity in the face of assimilation. However, a rigorous examination of the archaeological, textual, and cognitive record reveals a more complex reality: the persistence of a specific, coherent ontology that governed the ancient worldview from its earliest emergence in the Late Bronze Age through its crystallization in the Exilic period, and potentially stretching back into the deep time of human consciousness.
@@ -135,6 +145,12 @@ Swedenborg's concept of "internal respiration" in the Most Ancient Church descri
 The inquiry into the "Doctrine of Correspondences" reveals that it is not a quaint theological invention of the Priestly scribes, nor merely a mystical reverie of Swedenborg. It is the fundamental operating system of the pre-modern human mind, evolving through distinct cognitive epochs.
 
 ### **7.1 Table of Correspondence Evolution**
+
+> **[REFRAMING #5]** The table below equates "Paleolithic (40k-10k BCE)" with "Original Participation / Bicameral Mind."
+> This conflates the Most Ancient Church with the Upper Paleolithic. Later analysis clarifies:
+> - **Most Ancient Church (Golden Age)** = multi-million-year hominin evolution (bipedalism → early H. sapiens)
+> - **Upper Paleolithic (40,000-10,000 BCE)** = actually the **Ancient Church** period *after* the Fall
+> - "Internal respiration" functionally maps to decoupling of breath from locomotion (bipedalism)
 
 | Era | Cultural Stage | Cognitive Mode (Barfield/Jaynes) | Form of "The Word" | Correspondence Mechanism |
 | :---- | :---- | :---- | :---- | :---- |

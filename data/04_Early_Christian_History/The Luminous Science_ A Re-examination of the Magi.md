@@ -1,7 +1,20 @@
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+> 
+> This document reflects **earlier understanding** on:
+> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — This document foregrounds the Magi as primary preservers/carriers of correspondential science; current position treats the *Bene Qedem* (“Children of the East”) as primary carriers, with the Magi as a later institutional layer.
+> 
+> **Summary**: Reframe “Magi as primary preservers/carriers” → “Bene Qedem as primary carriers; Magi as later institutionalizers.”
+> **Established correction (library)**: The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
+> ---
+
 ### **Introduction: From Historical Record to Spiritual Reality**
 
 The historical journey of the Magi from the courts of Persia to a humble dwelling in Bethlehem is a narrative rich with scholarly detail yet fraught with interpretive challenges. A purely historical lens reveals a powerful priestly and political class, the custodians of an ancient religion, acting on complex astronomical and prophetic data. However, this perspective alone cannot fully account for the spiritual gravity of their quest. A deeper, more unified understanding emerges when their story is viewed through the framework of the Science of Correspondences—an ancient wisdom which holds that every natural phenomenon is the physical expression of a spiritual reality.  
 As articulated in the theological works of Emanuel Swedenborg, this science was the birthright of the most ancient peoples, who could perceive the divine meaning in the created world as easily as reading a text. The history of the Magi, and parallel groups like the Essenes, can thus be understood as the story of this sacred knowledge: its decline into obscurity, its partial preservation in esoteric traditions, and its providential restoration at a pivotal moment in human history. This analysis will re-examine the scholarly data from the time of Daniel to the Nativity, framing the historical events not as mere occurrences, but as the physical correspondences of a profound spiritual drama: the decline of one church, and the dawning of a new one.
+
+> **[CORRECTION #18]**: This framing treats the Magi as the primary preservers and agents of restoration for “this sacred knowledge.” Current synthesis distinguishes the *Bene Qedem* (“Children of the East”) as primary carriers of correspondential “nature wisdom,” with the Magian priesthood functioning later as an institutional layer that codified and carried forward (and in places appropriated) that earlier lineage.
+
 
 ### **Part I: The State of the Ancient Wisdom**
 

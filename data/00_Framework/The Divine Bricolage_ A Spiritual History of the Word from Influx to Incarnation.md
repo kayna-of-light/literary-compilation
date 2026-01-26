@@ -1,5 +1,15 @@
 # **The Divine Bricolage: A Spiritual History of the Word from Influx to Incarnation**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+> 
+> This document reflects **earlier understanding** on:
+> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — This document frames “Magi” as inheritors of a primary eastern stream of truth; current position treats the *Bene Qedem* (“Children of the East”) as primary carriers of correspondential/nature wisdom, with the Magian priesthood as a later institutionalizing/appropriating layer.
+> 
+> **Summary**: Reframe “Magi as primary carriers/originators of correspondential wisdom” → “Bene Qedem as primary carriers; Magi as later institutionalizers/appropriators.”
+> **Established correction (library)**: The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
+> ---
+
 ## **Part I: The Light and the Vessel: A New Edict for History**
 
 This report provides a coherent spiritual history of humanity as requested, tracing a single, continuous thread: the adaptive spiritual influx of the Lord as the primary, guiding cause of all historical and textual developments. This analysis is not intended to dispute the findings of natural history or modern biblical criticism; rather, it seeks to re-interpert them, positioning them as the providential and necessary external effects, or "ultimates," that serve as the vessels for this divine influx. The narrative that follows demonstrates not the naturalistic evolution of humanity, but the progression of humanity's developing understanding of the Lord, as the Lord Himself has guided it in the light of truth.
@@ -112,6 +122,7 @@ The influx, no longer fully contained in the *past* historical narrative (Exodus
 
 The narrative of the Magi (Matthew 2\) represents the profound culmination of this apocalyptic, mediated influx, revealing that the Lord's truth was *always* universal.  
 This reveals a staggering truth: the Lord's influx was *never* confined to Israel. The Magi, identified as Zoroastrian priests from the rival Parthian Empire , were the inheritors of a *parallel stream of truth*. The Zoroastrian prophecy of the *Saoshyant*—a world savior born of a virgin and heralded by a star—was a separate, providentially-guided revelation.  
+> **[CORRECTION #18]**: This passage treats the “Magi” as inheritors of a primary eastern stream of truth parallel to Israel. Current synthesis distinguishes the *Bene Qedem* (“Children of the East”) as the primary carriers of a pre-institutional “nature wisdom”/correspondential perception, with the Magian priesthood representing a later institutional layer that codified and (in places) appropriated that prior wisdom.
 The "star" itself was the *Gentiles' "angelus interpres"*. It was a real celestial sign, a "celestial synthesis" that served as their divine guide. The Magi's quest, therefore, was the literal, historical event orchestrated by the Lord to *re-unite* the divided streams of His influx. It is the moment He reveals that His Providence was always universal, guiding both Jewish prophecy ("a star shall come out of Jacob") and Gentile "science" (Zoroastrian astronomy) toward the *exact same* "ultimate." The Magi's worship is the historical "first-fruits" of this grand unveiling, the convergence of all human understanding at the feet of the incarnate Lord.
 
 ## **Part VI: The Word Made Flesh: The Divine Human as the Final, Perfect Ultimate**

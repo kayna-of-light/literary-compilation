@@ -1,5 +1,15 @@
 # **The Celestial Synthesis: An Analysis of the Magi Narrative as a Theological Construct in the Gospel of Matthew**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+> 
+> This document reflects **earlier understanding** on:
+> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — This document uses “Science of Correspondences” language as a Magian framework; current position treats the *Bene Qedem* (“Children of the East”) as primary carriers of correspondential/nature wisdom, with the Magian priesthood as a later institutionalizing/appropriating layer.
+> 
+> **Summary**: Reframe “Magi as primary carriers/originators of correspondential wisdom” → “Bene Qedem as primary carriers; Magi as later institutionalizers/appropriators.”
+> **Established correction (library)**: The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
+> ---
+
 ## **Introduction**
 
 The narrative of the Magi in the second chapter of the Gospel of Matthew stands as one of the most iconic and enigmatic episodes in the New Testament. For centuries, the story of wise men from the East following a star to worship the infant Jesus has been understood primarily through the lens of devotional piety or debated through the binary of historical fact versus pious fiction. This report, however, proposes a more nuanced analytical framework, moving beyond the question of simple historicity to investigate the narrative as a masterful and deliberate theological construct. The central thesis of this analysis is that the author of Matthew, acting as a sophisticated theological *bricoleur*, intentionally crafted the Magi episode by synthesizing resonant motifs from two of the most powerful intellectual currents of his era: the cosmic eschatology of Zoroastrianism and the messianic apocalypticism of Second Temple Judaism.  
@@ -25,6 +35,8 @@ This literary method, which some scholars have termed a "diachronic, narratival 
 ## **Part II: The Eastern Tradition: The Magi and the Prophecy of the Saoshyant**
 
 To decode the Magi narrative, it is imperative to move beyond the accumulated layers of later Christian legend and reconstruct the historical and religious world from which these figures emerged. The "wise men from the East" were not solitary mystics or generic kings, but representatives of a formidable and ancient institution deeply embedded in the political and religious structures of the Persian and Parthian empires. Their worldview, shaped by the cosmic dualism of Zoroastrianism, provided them with a specific eschatological framework—a "Science of Correspondences"—that culminated in the expectation of a world savior. Understanding this context transforms their journey from a simple pilgrimage into a politically charged, prophetic investigation.
+
+> **[CORRECTION #18]**: This framing uses “Science of Correspondences” as a Magian (institutional) framework for the Eastern tradition. Current synthesis distinguishes the *Bene Qedem* (“Children of the East”) as primary carriers of correspondential/nature wisdom, with the Magian priesthood as a later institutional layer that codified and (in places) appropriated that prior wisdom.
 
 ### **From Median Priests to Parthian King-Makers**
 

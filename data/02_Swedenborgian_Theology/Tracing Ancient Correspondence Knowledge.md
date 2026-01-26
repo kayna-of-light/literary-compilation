@@ -1,5 +1,15 @@
 # **The Resonant Cosmos: A Historical Reconstruction of the Science of Correspondences from the Magian Archives to the New Jerusalem**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+> 
+> This document reflects **earlier understanding** on:
+> - **#18** [Bene Qedem as True Carriers (Not Magi)](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-18-bene-qedem-as-true-carriers-not-magi) — This document frames the recovery of correspondential wisdom as tracing from “Magian archives”; current position treats the *Bene Qedem* (“Children of the East”) as primary carriers of correspondential/nature wisdom, with the Magian priesthood as a later institutionalizing/appropriating layer.
+> 
+> **Summary**: Reframe “Magian archives as primary carriers/origin” → “Bene Qedem as primary carriers; Magi as later institutionalizers/appropriators.”
+> **Established correction (library)**: The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word
+> ---
+
 ## **I. Introduction: The Epistemological Fracture and the Search for the Ancient Word**
 
 The intellectual history of the human species is marked by a profound epistemological fracture, a tectonic shift in the way reality is perceived, categorized, and understood. Modernity, characterized by the Cartesian bifurcation of mind and matter, views the natural world as a closed system of material causes and effects—a mechanism to be dissected, measured, and utilized. However, the further one journeys back into the textual and archaeological record of the Ancient Near East, the more this materialist paradigm dissolves. In its place, one encounters a worldview where the physical and the spiritual are not distinct realms separated by an unbridgeable gulf, but rather continuous modalities of a single reality. In this ancient episteme, the visible world is a text, a semiotic field where every bird, star, stone, and tree functions as a letter in a divine alphabet, articulating the nature of invisible spiritual causes.
@@ -9,6 +19,8 @@ This worldview, which the 18th-century scientist and mystic Emanuel Swedenborg s
 The historical trajectory of this "knowledge of correspondences" is not a linear progression from primitive animism to modern science, but rather a narrative of loss, preservation, and attempted recovery. Historical records, both internal to the Zoroastrian tradition and external in Greek, Jewish, and Christian sources, allude to a catastrophic rupture in the transmission of this wisdom. This rupture is frequently associated with the conquest of Alexander the Great and the subsequent burning of the royal archives at Persepolis, an event that Zoroastrian historiography laments as the destruction of the "scientific" Nasks of the Avesta. These lost texts, particularly the *Damdat Nask*, reportedly contained an encyclopedic knowledge of medicine, astronomy, agriculture, and botany—not as secular disciplines, but as sacred sciences rooted in the correspondence between the *mēnōg* (spiritual) and *gētīg* (material) worlds.
 
 This research report endeavors to trace the surviving currents of this lost tradition. It argues that the "Science of Correspondences" was the shared intellectual heritage of the ancient Iranian and Semitic worlds, a "wisdom tradition" that profoundly shaped the literary strata of the Hebrew Bible and the theology of the New Testament. By triangulating the extant summaries of the lost Magian texts, the nature-wisdom of the Solomonic era (preserved in the Yahwist source), the ritual taxonomies of the Priestly source, and the "shadow vs. reality" ontology of the Epistle to the Hebrews, we can reconstruct the contours of this submerged science. Furthermore, this analysis posits that the Babylonian Exile served as the critical historical conduit for this transmission, personified in the figure of Daniel, the *Rab-mag*, who bridged the gap between the prophetic revelation of Yahweh and the cosmological science of the Magi.
+
+> **[CORRECTION #18]**: This framing treats “lost Magian texts / Magian archives” as the primary inheritance-stream of correspondential wisdom. Current synthesis distinguishes the *Bene Qedem* (“Children of the East”) as primary carriers of a pre-institutional correspondential “nature wisdom,” with the Magian priesthood functioning as a later institutional layer that codified and (in places) appropriated that prior wisdom.
 
 ## **II. The Magian Substrate: The Lost Science of the Damdat Nask**
 

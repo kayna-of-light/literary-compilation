@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-12 10:24*
+*Last exported: 2026-01-26 17:23*
 
 ---
 
@@ -2481,7 +2481,7 @@
 1. [S] Rubin, David C. Memory in Oral Traditions. Oxford University Press, 1995.
 2. [W] https://oraltradition.org/early-zoroastrianism-and-orality/
 3. [W] https://www.researchgate.net/publication/375319966_Memory_In_Oral_Traditions
-4. [T] data/unclassified/The Archival Rupture...md
+4. [T] data/06_Mythological_Studies/The Archival Rupture...md
 
 **Connections**:
 - → `SWED-096` (supports): Doc argues encyclopedic taxonomies imply writing; supports Bundahishn-as-written-summary thesis.
@@ -2498,7 +2498,7 @@
 1. [E] Persepolis Fortification Archive, Oriental Institute excavations (Herzfeld 1933ff)
 2. [S] Jones & Stolper. "How Many Tablets?" 2008.
 3. [W] https://www.iranicaonline.org/articles/persepolis-admin-archive/
-4. [T] data/unclassified/The Archival Rupture...md
+4. [T] data/06_Mythological_Studies/The Archival Rupture...md
 
 **Connections**:
 - → `SWED-042` (supports): Bullae and related PFA evidence directly support the claim that parchment/leather archives existed and were destroyed in the Persepolis conflagration (core premise inside SWED-042).
@@ -2517,7 +2517,7 @@
 3. [P] Eudemus of Rhodes, History of Theology (fragments)
 4. [W] https://www.iranicaonline.org/articles/hermippus-of-smyrna/
 5. [W] https://www.philipharland.com/Blog/2022/06/persian-wisdom-eudemos-of-rhodes-on-magians/
-6. [T] data/unclassified/The Archival Rupture...md
+6. [T] data/06_Mythological_Studies/The Archival Rupture...md
 
 **Connections**:
 - → `SWED-042` (supports): Doc mentions scientific corpus translated/accessible to Greeks; supports conquest/dispersion motif.
@@ -2534,7 +2534,7 @@
 1. [P] Greater Bundahishn (9th c. CE Pahlavi text)
 2. [P] Denkard 8.5
 3. [W] https://www.iranicaonline.org/articles/mammals-03-in-zoroastrianism/
-4. [T] data/unclassified/The Archival Rupture...md
+4. [T] data/06_Mythological_Studies/The Archival Rupture...md
 
 **Connections**:
 - → `SWED-096` (supports): Bundahišn structural concordance is presented as evidence for Bundahišn-as-Zand.
@@ -2552,7 +2552,7 @@
 2. [P] Daniel 1:4 - skilled in wisdom of Chaldeans
 3. [W] https://oxfordre.com/classics/display/10.1093/acrefore/9780199381135.001.0001/acrefore-9780199381135-e-8852
 4. [W] https://en.wikipedia.org/wiki/Indian_astronomy
-5. [T] data/unclassified/The Archival Rupture...md
+5. [T] data/06_Mythological_Studies/The Archival Rupture...md
 
 **Connections**:
 - → `SWED-043` (supports): Doc frames Daniel trained in Chaldean learning; supports integration premise.

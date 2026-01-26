@@ -5,7 +5,7 @@
 > 
 > This document reflects **earlier understanding** on:
 > - **#6** [Magi and Daniel Historicity](../03_Biblical_Scholarship/Daniel_ Historicity and Cultural Synthesis.md) — Section 5.1 incorrectly titles Daniel as *Rab-mag*; the biblical text assigns Daniel the titles *Rab-signīn* (Chief Prefect, Dan 2:48) and *Rab-hartummin* (Chief of Magicians, Dan 4:9). The title *Rab-mag* appears only in Jeremiah 39 for Nergal-sharezer, not Daniel.
-> - **#18** [Bene Qedem as True Carriers](../unclassified/The Bifurcated Gnosis_ A Genealogical Reconstruction of the Science of Correspondences from the Bene Qedem to the Matthean Synthesis.md) — This document foregrounds the Magi as primary carriers/originators of correspondential science; current position treats the *Bene Qedem* ("Children of the East") as primary carriers, with the Magi as a later institutionalizing/appropriating layer.
+> - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word.md) — This document foregrounds the Magi as primary carriers/originators of correspondential science; current position treats the *Bene Qedem* ("Children of the East") as primary carriers, with the Magi as a later institutionalizing/appropriating layer.
 > 
 > **Summary**: (1) Section 5.1 conflates Daniel's titles with *Rab-mag*; (2) reframe "Magi as originators/carriers" → "Bene Qedem as primary carriers; Magi as later institutionalizers."
 > ---

@@ -4,8 +4,8 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
-> - **#11** [Correspondence as Ontology](../unclassified/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on the Swedenborgian Framework as Scientific Hypothesis.md) — This document frames correspondence as "transmitted" through Enoch→Noah→Magi lineage. Current analysis reframes correspondence as **ontological law**—independently discoverable across cultures with zero contact.
-> - **#18** [Bene Qedem as True Carriers](../unclassified/The Bifurcated Gnosis_ A Genealogical Reconstruction of the Science of Correspondences from the Bene Qedem to the Matthean Synthesis.md) — Section II.2-II.3 treat Magi as primary custodians; current position distinguishes the *Bene Qedem* as primary carriers.
+> - **#11** [Correspondence as Ontology](../02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on Hypothesis-Testing with the Swedenborgian Framework.md) — This document frames correspondence as "transmitted" through Enoch→Noah→Magi lineage. Current analysis reframes correspondence as **ontological law**—independently discoverable across cultures with zero contact.
+> - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word.md) — Section II.2-II.3 treat Magi as primary custodians; current position distinguishes the *Bene Qedem* as primary carriers.
 > 
 > **Summary**: Correspondence is perceivable reality, not transmitted wisdom. Evidence: 30,000-year Paleolithic consistency, Göbekli Tepe (pre-Zoroaster by 7,000 years), Aboriginal songlines—all with zero contact.
 > ---

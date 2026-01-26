@@ -5,7 +5,7 @@
 > 
 > This document reflects **earlier understanding** on:
 > - **#2** [Biological Determinism about Jesus](../00_Framework/Epistle - The Divine Marriage and the Expression of the Lord in Ultimates.md) — Section 6.1 uses "soul from the Father / body from the mother" framing; current position: Jesus was a human being whose ruling love was oriented toward the Divine, so the Lord flowed through him without obstruction. This is the path of regeneration any human can walk.
-> - **#18** [Bene Qedem as True Carriers](../unclassified/The Bifurcated Gnosis_ A Genealogical Reconstruction of the Science of Correspondences from the Bene Qedem to the Matthean Synthesis.md) — This document frames "Magi" as inheritors of a primary eastern stream of truth; current position treats the *Bene Qedem* ("Children of the East") as primary carriers of correspondential/nature wisdom, with the Magian priesthood as a later institutionalizing/appropriating layer.
+> - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word.md) — This document frames "Magi" as inheritors of a primary eastern stream of truth; current position treats the *Bene Qedem* ("Children of the East") as primary carriers of correspondential/nature wisdom, with the Magian priesthood as a later institutionalizing/appropriating layer.
 > 
 > **Summary**: #2: The proprium (self) is not removed but oriented—Jesus's ruling love was always toward the Divine. #18: Reframe Magi → Bene Qedem as primary carriers.
 > ---

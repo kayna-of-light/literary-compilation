@@ -4,10 +4,9 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
-> - **#2** [Biological Determinism about Jesus](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-2-biological-determinism-about-jesus) — Section 1.4 uses "soul from the Father / body from the mother" framing; current position: Jesus was a human being whose ruling love was oriented toward the Divine, so the Lord flowed through him without obstruction. This is the path of regeneration any human can walk.
+> - **#2** [Biological Determinism about Jesus](../00_Framework/Epistle - The Divine Marriage and the Expression of the Lord in Ultimates.md) — Section 1.4 uses "soul from the Father / body from the mother" framing; current position: Jesus was a human being whose ruling love was oriented toward the Divine, so the Lord flowed through him without obstruction. This is the path of regeneration any human can walk.
 > 
 > **Summary**: The "assumed human nature from the mother" language reflects 18th-century embryology. The proprium (self) is not removed but oriented—Jesus's ruling love was always toward the Divine.
-> **Established correction (library)**: Epistle - The Divine Marriage and the Expression of the Lord in Ultimates
 > ---
 
 ## **Introduction: A Unified Plan for a Dispersed Archive**

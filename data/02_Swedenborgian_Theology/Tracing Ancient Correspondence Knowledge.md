@@ -178,7 +178,9 @@ While the order in Genesis 1 varies slightly (Light, Sky, Dry Land/Plants, Lumin
 
 The historical pivot point for the transmission of this "knowledge of correspondences" is the Babylonian Exile (586–539 BCE). Here, the Jewish intelligentsia, stripped of their Temple and land, came into direct, sustained contact with the Mesopotamian and Iranian intellectual traditions. The figure of Daniel stands as the colossus bridging these two worlds.
 
-### **Daniel as Rab-mag: The Master of Correspondences**
+### **Daniel as Rab-hartummin: The Master of Correspondences**
+
+> **[CRITICAL ANALYSIS #6]** NOTE: The original section title used *Rab-mag*, which is incorrect. The biblical text assigns Daniel the titles *Rab-signīn* (Chief Prefect, Dan 2:48) and *Rab-hartummin* (Chief of Magicians, Dan 4:9). The title *Rab-mag* appears only in Jeremiah 39:3, 39:13 for Nergal-sharezer. Greek translations rendered all such terms generically as *magoi*, causing later conflation.
 
 The Book of Daniel is explicit about the education of the Jewish exiles. Daniel and his companions were trained in the "learning and tongue of the Chaldeans" (Dan 1:4).36 This "Chaldean learning" was not merely literature; it was the entire corpus of Mesopotamian science, which included:
 
@@ -187,9 +189,11 @@ The Book of Daniel is explicit about the education of the Jewish exiles. Daniel 
 * **The Summa Izbu:** Omens from anomalous births.  
 * **Dream Interpretation:** The science of reading the "night vision."
 
-Daniel's aptitude in these sciences leads King Nebuchadnezzar to appoint him *Rab-mag* (Chief of the Magi/Wise Men) (Dan 2:48; 5:11).1 This title is of immense historical significance. It places a Jewish prophet at the head of the official Persian priestly-scientific caste.
+Daniel's aptitude in these sciences leads King Nebuchadnezzar to appoint him *Rab-signīn* (Chief Prefect) over all the wise men of Babylon (Dan 2:48; 5:11).1 This title is of immense historical significance. It places a Jewish prophet at the head of the official Babylonian scholarly caste.
 
-As *Rab-mag*, Daniel would have had access to the royal archives, including the *Damdat Nask* and the libraries of Babylon. He represents the synthesis of the *prophetic* tradition (direct revelation from YHWH) and the *sapiential* tradition (interpreting the signs of nature/history). The "wisdom" of Daniel is the ability to read "correspondences"—to see a statue and understand the succession of empires (Dan 2), or to see a tree and understand the judgment of a king (Dan 4). He does not reject the Chaldean science; he perfects it. He shows that the true "Revealer of Mysteries" is the God of Heaven, but he uses the language of the Magi (dreams, statues, beasts) to communicate that revelation.
+> **[CRITICAL ANALYSIS #6]** NOTE: The original text incorrectly used *Rab-mag*. Daniel was appointed *Rab-signīn* (Chief Prefect), not *Rab-mag* (which refers to Nergal-sharezer in Jeremiah 39).
+
+As *Rab-signīn*, Daniel would have had access to the royal archives, including the *Damdat Nask* and the libraries of Babylon. He represents the synthesis of the *prophetic* tradition (direct revelation from YHWH) and the *sapiential* tradition (interpreting the signs of nature/history). The "wisdom" of Daniel is the ability to read "correspondences"—to see a statue and understand the succession of empires (Dan 2), or to see a tree and understand the judgment of a king (Dan 4). He does not reject the Chaldean science; he perfects it. He shows that the true "Revealer of Mysteries" is the God of Heaven, but he uses the language of the wise men (dreams, statues, beasts) to communicate that revelation.
 
 ### **The Survival of the "Star" Prophecy**
 

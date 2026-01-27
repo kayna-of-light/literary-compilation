@@ -93,11 +93,13 @@ Crucially, the synthesis was not a simple "cut and paste." It involved a radical
 
 If Enoch represents the "scientific" adoption of astronomy, the **Book of Daniel** represents the "political" and "mantic" synthesis of Persian wisdom. It serves as the primary literary artifact documenting the cultural osmosis within the Achaemenid court.
 
-### **4.1 Daniel as *Rab-mag* and the Scribal Interface**
+### **4.1 Daniel as *Rab-hartummin* and the Scribal Interface**
+
+> **[CRITICAL ANALYSIS #6]** NOTE: The original section title used *Rab-mag*, which is incorrect. The biblical text assigns Daniel the titles *Rab-signīn* (Chief Prefect, Dan 2:48) and *Rab-hartummin* (Chief of Magicians, Dan 4:9). The title *Rab-mag* appears only in Jeremiah 39:3, 39:13 for Nergal-sharezer. Greek translations rendered all such terms generically as *magoi*, causing later conflation.
 
 The biblical narrative places Daniel at the heart of the Babylonian and Persian administration. He is described as a master of the "learning and tongue of the Chaldeans" (Dan 1:4).
 
-* **The Office of *Rab-signīn*:** Daniel is appointed *Rab-signīn* (Chief Prefect) over the wise men of Babylon. This title is functionally equivalent to the Babylonian/Persian \*\* *Rab-mag* \*\* (Chief Magus). As the head of this class, Daniel would have had administrative oversight of the royal archives, including the *Damdat Nask* and the omen texts.  
+* **The Office of *Rab-signīn*:** Daniel is appointed *Rab-signīn* (Chief Prefect) over the wise men of Babylon. This title is functionally equivalent to the Babylonian/Persian *Rab-mag* (Chief Magus) held by other officials. As the head of this class, Daniel would have had administrative oversight of the royal archives, including the *Damdat Nask* and the omen texts.  
 * **Competitive Cooperation:** The stories in Daniel 1–6 depict a relationship of "competitive cooperation." Daniel does not reject the education of the Magi; he excels in it ("ten times better"). He accepts the validity of their methods—dream interpretation, reading signs—but claims a superior source for the "key" to these mysteries: the God of Heaven. This suggests that the Jewish elite did not view Persian science as inherently evil, but as a tool that required the correct (monotheistic) calibration.
 
 ### **4.2 Linguistic Hybridity and Loanwords**

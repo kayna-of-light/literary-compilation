@@ -17,6 +17,49 @@ This document catalogs conceptual strains where understanding has evolved over t
 
 ---
 
+## ⚠️ Inline Annotation Review Task List
+
+**Issue Discovered (2026-01-27)**: NotebookLM extracts document fragments and doesn't carry context across sections. Annotations in headers or at one location don't help when the same error appears later in body text.
+
+**Requirement**: Every occurrence of a problematic claim must have an inline correction **immediately adjacent** to it. Header annotations alone are insufficient.
+
+### Review Status
+
+- [x] #2 Biological Determinism (5 docs) — ✅ Done (2026-01-27): Corrections placed at each occurrence
+- [x] #6 Magi and Daniel (6 docs) — ✅ Done (2026-01-27): Text corrected + inline notes at each occurrence
+- [ ] #3 Reincarnation Model (1 doc) — Needs adjacent review
+- [ ] #5 Most Ancient Church (6 docs) — Needs adjacent review
+- [ ] #8 NDE Cultural Variation (1 doc) — Needs adjacent review
+- [ ] #9 Resurrection Narratives (2 docs) — Needs adjacent review
+- [ ] #11 Correspondence as Ontology (6 docs) — Needs adjacent review
+- [ ] #13 Bicameral Mind (1 doc) — Needs adjacent review
+- [ ] #15 Magi Narrative (3 docs) — Needs adjacent review
+- [ ] #16 Göbekli Tepe (2 docs) — Needs adjacent review
+- [ ] #17 Virgin Birth (1 doc) — Needs adjacent review
+- [ ] #18 Bene Qedem (? docs) — **CRITICAL**: No count listed; needs full audit
+- [ ] #19 Aligned Human (4 docs) — Needs adjacent review
+
+### Review Protocol
+
+For each strain marked "Needs review":
+
+1. **Read annotated documents** — Find the header annotation
+2. **Search document body** — Locate ALL occurrences of the problematic claim
+3. **Check adjacency** — Is there an inline note immediately before/after each occurrence?
+4. **If missing** — Add inline correction using the strain's annotation template
+5. **If text is wrong** — Consider correcting the text itself (as done for "Rab-mag" → "Rab-signīn")
+6. **Mark complete** — Update table above
+
+### Priority Order
+
+1. **#18 Bene Qedem** — CRITICAL; affects many documents; may need full audit
+2. **#11 Correspondence as Ontology** — High priority; 6 docs
+3. **#15 Magi Narrative** — High priority; overlaps with #18
+4. **#5 Most Ancient Church** — Medium; 6 docs
+5. Remaining strains by doc count
+
+---
+
 ## Strain Index
 
 - [x] 1. [Limbus Concept](#1-the-limbus-concept) — Correction (High) ✓ No older-position docs found; correction introduced in newer synthesis

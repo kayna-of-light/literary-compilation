@@ -87,6 +87,8 @@ The *Dāmdād Nask* ("The Nask of the Creation of Creatures") was lost to the We
 
 The transition from the "Ancient Church" to idolatry is described by Swedenborg as the perversion of correspondences. As the internal perception faded, men began to worship the *representatives* rather than the *represented*.9
 
+> **[CORRECTION #18]**: This section frames the Magi as originally possessing "the science of reading the heavens" from the Ancient Church. Current synthesis distinguishes the *Bene Qedem* ("Children of the East"—Ishmaelites, Midianites, Edomites, Ketureans) as the primary carriers of living correspondential "nature wisdom," with the Magian priesthood functioning as a later institutional layer that appropriated and codified (and ultimately perverted) that prior lineage. The "Magian Appropriation" is the institutional capture of the Bene Qedem's wisdom.
+
 * **The Magian Shift:** The Magi, originally the "Wise Men" (*Maga*) of the Ancient Church, possessed the science of reading the heavens. However, as self-love (*proprium*) grew, they utilized this knowledge for power. "Magic" (*mageia*) became the manipulation of spiritual laws for earthly gain.13  
 * **Astrological Determinism:** The Babylonian/Persian compendiums like *Enuma Anu Enlil* (EAE) codified this perversion. In EAE, the stars were not merely signs; they were causal agents of fate. The movement of a planet *caused* the death of a king. This stripped the Divine of its agency, transferring power to the external mechanism of the cosmos.12
 

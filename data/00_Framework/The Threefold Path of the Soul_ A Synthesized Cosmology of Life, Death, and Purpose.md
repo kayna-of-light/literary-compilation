@@ -133,4 +133,4 @@ This synthesized model successfully resolves the long-standing conflict between 
 
 #### **Geciteerd werk**
 
-1\. The Threefold Path of the Soul: A Synthesized Model of Life, Death, and Purpose, 2\. A Research Plan- The Consciousness-Driven Evolution (CDE) Hypothesis, 3\. The Volunteer Soul's Covenant: A Psycho-Theological Analysis of Divine Call Narratives,
+1\. The Threefold Path of the Soul: A Synthesized Model of Life, Death, and Purpose, 2\. Consciousness as a Selective Pressure: A Scientific and Philosophical Analysis of the Consciousness-Driven Evolution Hypothesis, 3\. The Volunteer Soul's Covenant: A Psycho-Theological Analysis of Divine Call Narratives,

@@ -45,6 +45,8 @@ Plato writes in the wake of a second fracture—the collapse of this Silver Age 
 
 ## **III. The Transmission Vector: The Magian Substrate of the Academy**
 
+> **[REFRAMING #11]**: This section frames correspondence as knowledge "imported" and "transmitted" via historical channels. Cognitive archaeology now demonstrates that correspondence is **ontological law**—independently perceivable across zero-contact cultures (Göbekli Tepe 9600 BCE, Aboriginal songlines, 30,000-year Paleolithic consistency). Plato and the Magi did not *transmit* correspondence; they **articulated** what humans perceive when attuned to reality. The "transmission" framing explains institutional lineages, not the existence of correspondential perception.
+
 The standard narrative of Greek "autochthonous genius" often obscures the profound debt early Greek thought owed to the Iranian sphere. The "Science of Correspondences" did not appear in Athens by spontaneous generation; it was imported via specific, verifiable historical channels.
 
 ### **A. The "Alexandrian Copying" and the Strip-Mining of Persepolis**

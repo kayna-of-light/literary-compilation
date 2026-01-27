@@ -457,6 +457,136 @@ def build_pdfs(
     return built
 
 
+def stream_build_and_upload(
+    *,
+    data_root: Path,
+    output_root: Path,
+    css_path: Path,
+    template_path: Path,
+    drive_root_id: str,
+    auth_mode: str,
+    service_account_json: Optional[Path],
+    oauth_client_json: Optional[Path],
+    oauth_token_json: Optional[Path],
+    limit: Optional[int],
+    force: bool,
+    dry_run: bool,
+    delete_remote_extras: bool,
+    only: Optional[list[Path]] = None,
+) -> tuple[int, int]:
+    """Build and upload each file immediately instead of batch processing.
+    
+    Returns (built_count, uploaded_count).
+    """
+    css_text = css_path.read_text(encoding="utf-8")
+    template_text = template_path.read_text(encoding="utf-8")
+
+    css_sha = _sha256_file(css_path)
+    template_sha = _sha256_file(template_path)
+
+    index_path = CACHE_DIR / "pdf_build_index.json"
+    index = _load_build_index(index_path)
+
+    # Initialize Drive service once
+    if auth_mode == "service-account":
+        if service_account_json is None:
+            raise SystemExit("--service-account-json is required for --auth service-account")
+        service = _drive_service_from_service_account(service_account_json)
+    elif auth_mode == "oauth":
+        if oauth_client_json is None:
+            raise SystemExit("--oauth-client-json is required for --auth oauth")
+        token_path = oauth_token_json or (SECRETS_DIR / "google_drive_token.json")
+        service = _drive_service_from_user_oauth(oauth_client_json, token_path)
+    else:
+        raise SystemExit(f"Unknown auth mode: {auth_mode}")
+
+    folder_cache: dict[str, str] = {"": drive_root_id}
+    desired_pdf_paths: set[str] = set()
+
+    md_files = list(only) if only else list(iter_markdown_files(data_root))
+    if limit is not None:
+        md_files = md_files[:limit]
+
+    built_count = 0
+    uploaded_count = 0
+    total = len(md_files)
+
+    for i, md_path in enumerate(md_files, 1):
+        rel = md_path.relative_to(data_root).as_posix()
+        pdf_path = md_to_pdf_path(md_path, data_root, output_root)
+        pdf_rel = pdf_path.relative_to(output_root)
+        desired_pdf_paths.add(pdf_rel.as_posix())
+
+        md_sha = _sha256_file(md_path)
+        rec = index.get(rel)
+        up_to_date = (
+            rec is not None
+            and rec.md_sha256 == md_sha
+            and rec.css_sha256 == css_sha
+            and rec.template_sha256 == template_sha
+            and pdf_path.exists()
+        )
+
+        file_name = md_path.stem + ".pdf"
+        status_prefix = f"[{i}/{total}] {rel}"
+
+        # Build PDF if needed
+        if up_to_date and not force:
+            print(f"{status_prefix} - cached")
+        else:
+            print(f"{status_prefix} - building...", end=" ", flush=True)
+            html = render_markdown_to_html(md_path, css_text=css_text, template_text=template_text)
+            asyncio.run(html_to_pdf(html, pdf_path))
+            index[rel] = BuildRecord(md_sha256=md_sha, css_sha256=css_sha, template_sha256=template_sha)
+            _save_build_index(index_path, index)  # Save after each build
+            built_count += 1
+            print("done", end=" ", flush=True)
+
+        # Upload to Drive
+        parts = list(pdf_rel.parts)
+        file_name = parts.pop(-1)
+
+        # Ensure folder chain
+        rel_folder = ""
+        parent_id = drive_root_id
+        for part in parts:
+            rel_folder = f"{rel_folder}/{part}" if rel_folder else part
+            if rel_folder in folder_cache:
+                parent_id = folder_cache[rel_folder]
+                continue
+            try:
+                parent_id = _drive_ensure_folder(service, parent_id, part, dry_run=dry_run)
+            except Exception as e:
+                friendly = _describe_http_error(e)
+                if friendly:
+                    raise SystemExit(friendly) from e
+                raise
+            folder_cache[rel_folder] = parent_id
+
+        if not (up_to_date and not force):
+            print("uploading...", end=" ", flush=True)
+        _drive_upload_pdf(
+            service,
+            parent_id=parent_id,
+            local_pdf=pdf_path,
+            remote_name=file_name,
+            dry_run=dry_run,
+        )
+        uploaded_count += 1
+        if not (up_to_date and not force):
+            print("✓")
+
+    if delete_remote_extras:
+        _delete_remote_extras(
+            service,
+            drive_root_id=drive_root_id,
+            desired_pdf_paths=desired_pdf_paths,
+            dry_run=dry_run,
+        )
+
+    return built_count, uploaded_count
+
+
 def _drive_service_from_service_account(service_account_json: Path):
     from google.oauth2.service_account import Credentials
     from googleapiclient.discovery import build
@@ -854,31 +984,25 @@ def main() -> None:
         only_files = _resolve_only_paths(data_root, args.only)
         only_rel_paths = [p.relative_to(data_root).as_posix() for p in only_files]
 
-    built = build_pdfs(
+    # Stream mode: build and upload each file immediately instead of batch
+    built, uploaded = stream_build_and_upload(
         data_root=data_root,
         output_root=output_root,
         css_path=css_path,
         template_path=template_path,
-        limit=args.limit,
-        force=args.force,
-        only=only_files,
-    )
-
-    uploaded = sync_pdfs_to_drive(
         drive_root_id=drive_root_id,
         auth_mode=args.auth,
         service_account_json=service_account_json,
         oauth_client_json=oauth_client_json,
         oauth_token_json=oauth_token_json,
-        local_pdf_root=output_root,
-        data_root=data_root,
+        limit=args.limit,
+        force=args.force,
         dry_run=args.dry_run,
         delete_remote_extras=args.delete_remote_extras,
-        limit=args.limit,
-        only_rel_paths=only_rel_paths,
+        only=only_files,
     )
 
-    print(f"PDFs built: {len(built)}")
+    print(f"PDFs built: {built}")
     print(f"PDFs synced: {uploaded}{' (dry-run)' if args.dry_run else ''}")
 
 

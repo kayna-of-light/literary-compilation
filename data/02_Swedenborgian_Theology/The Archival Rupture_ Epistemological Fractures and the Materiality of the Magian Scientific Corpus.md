@@ -96,7 +96,10 @@ The hypothesis of a written Scientific Avesta is further bolstered by the deep i
 Babylonian astronomy relied entirely on the written medium. The *Astronomical Diaries* are cuneiform tablets recording daily planetary movements, weather, and commodity prices for centuries.
 
 * **Technical Necessity:** The discovery of the 18-year Saros cycle for eclipse prediction requires a database of observations spanning generations. It is cognitively impossible to detect such long-term cycles without external storage.  
-* **Magian Access:** The Magi, serving as court advisors alongside Chaldeans, would have utilized these written datasets. The Prophet Daniel, described as *Rab-mag* (Chief of Magi), is explicitly depicted as being skilled in the "wisdom of the Chaldeans" (Dan 1:4), implying literacy in this scientific corpus.  
+* **Magian Access:** The Magi, serving as court advisors alongside Chaldeans, would have utilized these written datasets. The Prophet Daniel is explicitly depicted as being skilled in the "wisdom of the Chaldeans" (Dan 1:4), implying literacy in this scientific corpus.
+
+> **[CRITICAL ANALYSIS #6]** NOTE: The biblical text assigns Daniel the titles *Rab-signīn* (Chief Prefect, Dan 2:48) and *Rab-hartummin* (Chief of Magicians, Dan 4:9)—NOT *Rab-mag*. The title *Rab-mag* appears only in Jeremiah 39:3, 39:13 for Nergal-sharezer. Greek translations rendered all such terms generically as *magoi*, causing later conflation.
+
 * **Mathematical Borrowing:** Iranian astronomy adopted complex Babylonian parameters (e.g., zigzag functions). The transmission of these mathematical tools to India (where they appear in the *Vedanga Jyotisha* and later *Siddhantas*) and to the Greeks suggests that the intermediaries—the Persian Magi—possessed the written tables necessary to convey them.
 
 ## **VI. The Hellenistic Transmission: Traces of the Lost Library**

@@ -88,4 +88,4 @@ In contrast, the "bigger primes" (Tier 2\) represent a divergent trajectory. The
 
 #### **Geciteerd werk**
 
-1\. [Swedenborg's Numerology and Ancient Structures](../02_Swedenborgian_Theology/Swedenborg's%20Numerology%20and%20Ancient%20Structures.md) 2\. Megalithic Site Analysis And Prime Numbers, https://drive.google.com/open?id=1u\_JNUtnOoHbCc7StyPkkHTzUi7pBhLxGyr4bRDcWpM4
+1\. [Swedenborg's Numerology and Ancient Structures](../02_Swedenborgian_Theology/Swedenborg's%20Numerology%20and%20Ancient%20Structures.md) 2\. Megalithic Site Analysis And Prime Numbers, [Megalithic Site Analysis And Prime Numbers](The%20Architecture%20of%20the%20Sacred_%20A%20Cognitive-Archaeological%20Analysis%20of%20Prime%20Number%20Evolution%20and%20Spiritual%20Correspondence.md)

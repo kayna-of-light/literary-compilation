@@ -38,11 +38,11 @@ This document catalogs conceptual strains where understanding has evolved over t
 - [x] #9 Resurrection Narratives (2 docs) — ✅ Done
 - [x] #11 Correspondence as Ontology (6 docs) — ✅ Done
 - [x] #13 Bicameral Mind (1 doc) — ✅ Done
-- [ ] #15 Magi Narrative (3 docs) — Needs adjacent review
-- [ ] #16 Göbekli Tepe (2 docs) — Needs adjacent review
-- [ ] #17 Virgin Birth (1 doc) — Needs adjacent review
-- [ ] #18 Bene Qedem (? docs) — **CRITICAL**: No count listed; needs full audit
-- [ ] #19 Aligned Human (4 docs) — Needs adjacent review
+- [x] #15 Magi Narrative (3 docs) — ✅ Done
+- [x] #16 Göbekli Tepe (2 docs) — ✅ Done
+- [x] #17 Virgin Birth (1 doc) — ✅ Done
+- [x] #18 Bene Qedem (15 docs) — ✅ Done: All 15 docs verified; 3 new inline notes added
+- [x] #19 Aligned Human (4 docs) — ✅ Done: All 4 docs verified with inline notes
 
 ### Fixes Applied (2026-01-27)
 
@@ -53,6 +53,12 @@ This document catalogs conceptual strains where understanding has evolved over t
 3. **#18 `Magi's Principle of Correspondences.md`**: Added `[CORRECTION #18]` inline note at start of §2 (mēnōg/gētīg section) explaining correspondence is ontological law, not Magian invention
 
 4. **#18 `Persian Roots of Early Christianity.md`**: Added `[CORRECTION #18]` inline note after L95 "Magi's quest was driven by their 'Science of Correspondences'"
+
+5. **#18 `The Aramaic Nexus...md`**: Added `[CORRECTION #18]` inline note after "Magian Skill Set" paragraph explaining Bene Qedem as primary carriers
+
+6. **#18 `The Architecture of the Ancient Word...md`**: Added `[CORRECTION #18]` inline note at §2.3 "The Perversion" explaining Magian Appropriation of Bene Qedem wisdom
+
+7. **#18 `The Archival Rupture...md`**: Added `[CORRECTION #18]` inline note at §II "Magian Episteme" explaining Bene Qedem vs Magian distinction
 
 ### Review Protocol
 

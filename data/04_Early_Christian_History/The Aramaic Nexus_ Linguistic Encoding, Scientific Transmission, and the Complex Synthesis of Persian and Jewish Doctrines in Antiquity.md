@@ -56,6 +56,8 @@ The documents were rooted in a specific intellectual paradigm known as the **"Sc
 * **The Semiotics of Nature:** For the Magi, a star was not just a ball of gas; it was a "letter" in a divine sentence. The rise of a constellation was a grammatical event that altered the meaning of history. This "science" required a rigorous observational methodology combined with a prophetic hermeneutic.  
 * *The Magian Skill Set:* The Magi were trained to read these "signatures" in nature. This allowed them to translate theological concepts across cultures. If a Jewish prophet spoke of a "Messiah" and a Persian Magus spoke of a "Saoshyant," the Science of Correspondences allowed the Magi to view these as the same spiritual reality expressed in different cultural dialects. This intellectual flexibility, facilitated by the shared Aramaic language, was the engine of the "deep synthesis".
 
+> **[CORRECTION #18]**: This framing treats the Magi as primary possessors/transmitters of the "Science of Correspondences." Current synthesis distinguishes the *Bene Qedem* ("Children of the East"—Ishmaelites, Midianites, Edomites) as primary carriers of a living correspondential "nature wisdom," with the Magian priesthood functioning as a later institutional layer that codified and (in places) appropriated that prior lineage.
+
 ### **2.3 Aramaic as the "Neutral Container"**
 
 The use of Aramaic was the critical technological enabler of this synthesis.

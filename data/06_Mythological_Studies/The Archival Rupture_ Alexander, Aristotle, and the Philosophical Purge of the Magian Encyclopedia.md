@@ -19,6 +19,8 @@ The investigation that follows traces the intellectual lineage of this destructi
 
 ## **II. The Magian Episteme: The Structure of the Target**
 
+> **[CORRECTION #18]**: This section frames the "Magian intellectual tradition" as the primary epistemic system of correspondence. Current synthesis distinguishes the *Bene Qedem* ("Children of the East"—Ishmaelites, Midianites, Edomites, Ketureans) as the primary carriers of living correspondential "nature wisdom," with the Magian priesthood functioning as a later institutional layer that codified and (in places) appropriated that prior wisdom into imperial science. The Magi preserved *texts*; the Bene Qedem preserved *perception*.
+
 To understand why the *Dāmdād Nask* was a target for both translation and destruction, one must first comprehend the unique epistemological framework it represented. The Magian intellectual tradition was not a monolithic superstition but a highly structured system of knowledge management that categorized reality through the lens of "Universal Correspondence." This system posited a universe that was morally legible, where the physical characteristics of an object were direct signatures of its spiritual allegiance and function.
 
 ### **A. The Dāmdād Nask and the Hadha-manthric Corpus**

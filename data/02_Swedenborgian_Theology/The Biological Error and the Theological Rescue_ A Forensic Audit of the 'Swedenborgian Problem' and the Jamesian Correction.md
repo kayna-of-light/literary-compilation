@@ -245,7 +245,7 @@ This report serves as the final validation of the "Part 3" Stress Test. The "Swe
 
 #### **Works cited**
 
-1. Swedenborg, Jesus, and Divine Bricolage, [https://drive.google.com/open?id=1SVH2lnoujjHr077K6Surjnktt5T-VD9jEkCTAC8Xhg8](https://drive.google.com/open?id=1SVH2lnoujjHr077K6Surjnktt5T-VD9jEkCTAC8Xhg8)  
+1. The Divine Bricolage: A Spiritual History of the Word from Influx to Incarnation, [**The Divine Bricolage: A Spiritual History of the Word from Influx to Incarnation**](../00_Framework/The%20Divine%20Bricolage_%20A%20Spiritual%20History%20of%20the%20Word%20from%20Influx%20to%20Incarnation.md)  
 2. Divine Bricolage vs. Swedenborg's Jesus, [Divine Bricolage vs. Swedenborg's Jesus](Divine%20Bricolage%20vs.%20Swedenborg's%20Jesus.md)  
 3. Swedenborg's Historical Interpretation of Exodus, [Swedenborg's Historical Interpretation of Exodus](Swedenborg's%20Historical%20Interpretation%20of%20Exodus.md)  
 4. Where Does Our Soul Come From? When Does It Become Eternal? : r/Swedenborgianism \- Reddit, accessed on January 25, 2026, [https://www.reddit.com/r/Swedenborgianism/comments/1lmxjnt/where\_does\_our\_soul\_come\_from\_when\_does\_it\_become/](https://www.reddit.com/r/Swedenborgianism/comments/1lmxjnt/where_does_our_soul_come_from_when_does_it_become/)  

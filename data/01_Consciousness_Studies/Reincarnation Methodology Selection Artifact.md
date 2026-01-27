@@ -222,7 +222,7 @@ The existence of "Reverse Cases" (intermission memories without past lives) docu
 
 #### **Works cited**
 
-1. DOPS Case Verification and Critiques, [https://drive.google.com/open?id=1Mv9R3XxSnPvC4dWUbu2ei922tw2PLrYL0OChYViEEbY](https://drive.google.com/open?id=1Mv9R3XxSnPvC4dWUbu2ei922tw2PLrYL0OChYViEEbY)  
+1. DOPS Case Verification and Critiques, [DOPS Case Verification and Critiques](DOPS%20Case%20Verification%20and%20Critiques.md)  
 2. Division of Perceptual Studies \- University of Virginia School of Medicine, accessed on December 29, 2025, [https://med.virginia.edu/perceptual-studies/](https://med.virginia.edu/perceptual-studies/)  
 3. A Review and Analysis of “Unsolved” Cases of the Reincarnation Type \- University of Virginia School of Medicine, accessed on December 29, 2025, [https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2016/12/STE16.pdf](https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2016/12/STE16.pdf)  
 4. A Review and Analysis of “Unsolved” Cases of the Reincarnation Type: I. Introduction and Illustrative Case Reports, accessed on December 29, 2025, [https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2016/12/STE15.pdf](https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2016/12/STE15.pdf)  
@@ -241,6 +241,6 @@ The existence of "Reverse Cases" (intermission memories without past lives) docu
 17. Old Souls | The Sun Magazine, accessed on December 29, 2025, [https://www.thesunmagazine.org/articles/588-old-souls](https://www.thesunmagazine.org/articles/588-old-souls)  
 18. Participate as a Research Subject \- Division of Perceptual Studies, accessed on December 29, 2025, [https://med.virginia.edu/perceptual-studies/participate/participate-in-research/](https://med.virginia.edu/perceptual-studies/participate/participate-in-research/)  
 19. Paranormal Aspects of Pre-Existence Memories in Young Children \- Page 84 \- UNT Digital Library, accessed on December 29, 2025, [https://digital.library.unt.edu/ark:/67531/metadc948119/m1/1/](https://digital.library.unt.edu/ark:/67531/metadc948119/m1/1/)  
-20. Swedenborg's Ancient Word and Science, [https://drive.google.com/open?id=1gFoOT7BvlDDgKtZ-4bAON13WLEp5E2IttZzdcpTZIlE](https://drive.google.com/open?id=1gFoOT7BvlDDgKtZ-4bAON13WLEp5E2IttZzdcpTZIlE)  
+20. Swedenborg's Ancient Word and Science, [Swedenborg's Ancient Word and Science](../02_Swedenborgian_Theology/Swedenborg's%20Ancient%20Word%20and%20Science.md)  
 21. How long do you think between reincarnation cycles? \- Reddit, accessed on December 29, 2025, [https://www.reddit.com/r/Reincarnation/comments/1mt5ho6/how\_long\_do\_you\_think\_between\_reincarnation\_cycles/](https://www.reddit.com/r/Reincarnation/comments/1mt5ho6/how_long_do_you_think_between_reincarnation_cycles/)  
 22. THE LIFE BEYOND: Through the eyes of Children who claim to remember previous lives., accessed on December 29, 2025, [https://www.researchgate.net/publication/279716859\_THE\_LIFE\_BEYOND\_Through\_the\_eyes\_of\_Children\_who\_claim\_to\_remember\_previous\_lives](https://www.researchgate.net/publication/279716859_THE_LIFE_BEYOND_Through_the_eyes_of_Children_who_claim_to_remember_previous_lives)

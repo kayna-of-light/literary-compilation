@@ -200,8 +200,7 @@ This synthesis was **"Deep"** because it permanently embedded the "Science of Co
 #### **Works cited**
 
 1. A Compendium of Swedenborg's Theological Writings, by Samuel Warren (Revised): THE FIRST OR MOST ANCIENT CHURCH, accessed on January 9, 2026, [https://swedenborgdigitallibrary.org/comp/comp328to415.htm](https://swedenborgdigitallibrary.org/comp/comp328to415.htm)  
-2. The Work of Divine Influx: A 2000-Year History of the Internal Path and its Conflict with the External Proprium, [https://drive.google.com/open?id=1Eq-V0pcMy3y609jhbT49-6xVr0IZ1tN4ofdygQiRhRc](https://drive.google.com/open?id=1Eq-V0pcMy3y609jhbT49-6xVr0IZ1tN4ofdygQiRhRc)  
-3. The Semiotic Architecture of the Ancient Word: An Empirical Validation of 1 Enoch Through Swedenborgian Correspondences, [https://drive.google.com/open?id=1h\_9yGgkqba3ayysvS-AuLm7b9IKwf-\_MC-mpDHkPj3M](https://drive.google.com/open?id=1h_9yGgkqba3ayysvS-AuLm7b9IKwf-_MC-mpDHkPj3M)  
+2. The Semiotic Architecture of the Ancient Word: An Empirical Validation of 1 Enoch Through Swedenborgian Correspondences, [https://drive.google.com/open?id=1h\_9yGgkqba3ayysvS-AuLm7b9IKwf-\_MC-mpDHkPj3M](https://drive.google.com/open?id=1h_9yGgkqba3ayysvS-AuLm7b9IKwf-_MC-mpDHkPj3M)  
 4. Enoch—the First Librarians \- Swedenborg Foundation, accessed on January 9, 2026, [https://swedenborg.com/enoch-the-first-librarians/](https://swedenborg.com/enoch-the-first-librarians/)  
 5. Ancient Church – Word Study \- New Church Society Sites, accessed on January 9, 2026, [https://societies.newchurch.org/wordstudy/spiritual-glossary/ancient-church/](https://societies.newchurch.org/wordstudy/spiritual-glossary/ancient-church/)  
 6. From Eden to Noah \- Swedenborg Study, accessed on January 9, 2026, [http://www.swedenborgstudy.com/books/J.Worcester\_Genesis-Exodus/noah.html](http://www.swedenborgstudy.com/books/J.Worcester_Genesis-Exodus/noah.html)  

@@ -243,6 +243,21 @@ img {
   break-before: page;
 }
 
+/* Internal library references (converted from .md links) */
+.internal-ref {
+  background: #f4f4f4;
+  padding: 0.15em 0.4em;
+  border-radius: 3px;
+  font-size: 10.5pt;
+  white-space: nowrap;
+}
+
+.internal-ref em {
+  color: var(--muted);
+  font-style: italic;
+  margin-right: 0.2em;
+}
+
 /* Optional metadata blocks */
 .meta {
   color: var(--muted);

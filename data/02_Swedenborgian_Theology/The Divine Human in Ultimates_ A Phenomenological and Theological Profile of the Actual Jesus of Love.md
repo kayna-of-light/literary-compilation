@@ -302,5 +302,4 @@ He is the "Divine Inflow into humanity." He is the proof that the universe is no
 22. What Near-Death Experiences Tell Us About the Nature of God \- Medium, accessed on December 8, 2025, [https://medium.com/backyard-theology/what-near-death-experiences-tell-us-about-the-nature-of-god-67d792995abf](https://medium.com/backyard-theology/what-near-death-experiences-tell-us-about-the-nature-of-god-67d792995abf)  
 23. God's characteristics as reported by near-death experiencers \- Article (Preprint v1) by Patrizio Tressoldi et al. | Qeios, accessed on December 8, 2025, [https://www.qeios.com/read/2TI1T7](https://www.qeios.com/read/2TI1T7)  
 24. experiences\_part-010.pdf, [https://drive.google.com/open?id=1Lr\_oyKbfASvpbN05iwaDq4FKPgKMNN3O](https://drive.google.com/open?id=1Lr_oyKbfASvpbN05iwaDq4FKPgKMNN3O)  
-25. experiences\_part-028.pdf, [https://drive.google.com/open?id=1AO2KbUJtXaYgo85GGJCYoSnfxun3Di59](https://drive.google.com/open?id=1AO2KbUJtXaYgo85GGJCYoSnfxun3Di59)  
-26. The Work of Divine Influx: A 2000-Year History of ..., [https://drive.google.com/open?id=1Eq-V0pcMy3y609jhbT49-6xVr0IZ1tN4ofdygQiRhRc](https://drive.google.com/open?id=1Eq-V0pcMy3y609jhbT49-6xVr0IZ1tN4ofdygQiRhRc)
+25. experiences\_part-028.pdf, [https://drive.google.com/open?id=1AO2KbUJtXaYgo85GGJCYoSnfxun3Di59](https://drive.google.com/open?id=1AO2KbUJtXaYgo85GGJCYoSnfxun3Di59)

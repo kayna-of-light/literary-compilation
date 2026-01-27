@@ -232,11 +232,23 @@ def rewrite_markdown(
 
         target_abs = data_root / target_rel
         href = _href_escape(compute_rel_href(md_path, target_abs))
+
+        # If the link text is itself a Drive URL, replace it with the document title.
+        link_text = m.group("txt")
+        if "drive.google.com" in link_text.lower():
+            # Use the target doc's title (from local index).
+            doc = by_title.get(_norm(drive_name.replace(".md", "").replace(".pdf", "")))
+            if doc and len(doc) == 1:
+                link_text = doc[0].title
+            else:
+                # Fallback to stem from filename
+                link_text = Path(target_rel).stem
+
         changes.append(
             {
                 "kind": "md_link",
                 "from": rel_self,
-                "text": m.group("txt"),
+                "text": link_text,
                 "old": url,
                 "new": href,
                 "drive_id": file_id,
@@ -245,7 +257,7 @@ def rewrite_markdown(
             }
         )
         stats["rewritten"] += 1
-        return f"[{m.group('txt')}]({href})"
+        return f"[{link_text}]({href})"
 
     text2 = link_re.sub(repl_link, text)
 

@@ -6,6 +6,13 @@ dependencies:
   - python=3.11
   - pyyaml>=6.0
   - pip
+  - pip:
+      - google-api-python-client>=2.110
+      - google-auth>=2.23
+      - google-auth-oauthlib>=1.2
+      - jinja2>=3.1
+      - markdown>=3.5
+      - playwright>=1.41
   # Future dependencies can be added here as the project grows
   # - networkx        # For advanced graph analysis
   # - matplotlib      # For graph visualization

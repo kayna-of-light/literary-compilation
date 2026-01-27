@@ -4,7 +4,7 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 >
 > This document reflects **earlier understanding** on:
-> - **#9** [Resurrection Narrative Evolution](../03_Biblical_Scholarship/Resurrection%20Narrative%20Evolution%20in%20New%20Testament.md) — This document treats the Gospel resurrection profile as direct phenomenology without consistently flagging the tradition’s progressive materialization (empty tomb → physical proofs).
+> - **#9** [Resurrection Narrative Evolution](../03_Biblical_Scholarship/The%20Anatomy%20of%20Ascension_%20A%20Critical-Historical%20and%20Phenomenological%20Reconstruction%20of%20the%20Resurrection%20Narrative%20from%20Pauline%20Pneumatology%20to%20the.md) — This document treats the Gospel resurrection profile as direct phenomenology without consistently flagging the tradition’s progressive materialization (empty tomb → physical proofs).
 > - **#19** [The Aligned Human](../02_Swedenborgian_Theology/The%20Divine%20Human%20in%20Ultimates_%20A%20Phenomenological%20and%20Forensic%20Re-Evaluation%20of%20the%20Aligned%20Soul.md) — This document presents the "Historical Jesus" / "Christ of Faith" dichotomy and proposes a synthesis, but retains residual "Divine soul + Human body" framing. The refined position: Jesus was a complete human whose ruling love was oriented toward the Divine, achieving maximal transparency.
 >
 > **Summary**: The correspondential meanings are retained, but Jesus was not "God-in-a-suit" (biological determinism) — he was a human *filled* with the Lord through alignment of will.
@@ -278,7 +278,7 @@ He is the "Divine Inflow into humanity." He is the proof that the universe is no
 
 #### **Works cited**
 
-1. Swedenborgian Research Plan: Spiritual Depth, [Swedenborgian Research Plan_ Spiritual Depth](Swedenborgian%20Research%20Plan_%20Spiritual%20Depth.md)  
+1. Swedenborgian Research Plan: Spiritual Depth, [Swedenborgian Research Plan_ Spiritual Depth](The%20Critic%20Transformed_%20A%20Swedenborgian%20Re-interpretation%20of%20the%20Historical-Critical%20Method%20and%20the%20Gospels.md)  
 2. Quest for the Historical Jesus: E.P. Sanders \- Theological Ramblings, accessed on December 8, 2025, [https://ordinand.wordpress.com/2008/03/31/quest-for-the-historical-jesus-ep-sanders/](https://ordinand.wordpress.com/2008/03/31/quest-for-the-historical-jesus-ep-sanders/)  
 3. The Divine Bricolage: A Spiritual History of the W..., [**The Divine Bricolage: A Spiritual History of the Word from Influx to Incarnation**](../00_Framework/The%20Divine%20Bricolage_%20A%20Spiritual%20History%20of%20the%20Word%20from%20Influx%20to%20Incarnation.md)  
 4. A Coherent Framework for Spiritual History: Weavin..., [A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage](../00_Framework/A%20Coherent%20Framework%20for%20Spiritual%20History_%20Weaving%20the%20Divine%20Bricolage.md)  
@@ -298,7 +298,7 @@ He is the "Divine Inflow into humanity." He is the proof that the universe is no
 18. What is the significance of what Jesus ate after his resurrection?, accessed on December 8, 2025, [https://christianity.stackexchange.com/questions/42185/what-is-the-significance-of-what-jesus-ate-after-his-resurrection](https://christianity.stackexchange.com/questions/42185/what-is-the-significance-of-what-jesus-ate-after-his-resurrection)  
 19. Apocalypse Explained (Whitehead): AE 513 \- E Swedenborg.com, accessed on December 8, 2025, [http://www.e-swedenborg.com/writings/static/d11722/513.htm](http://www.e-swedenborg.com/writings/static/d11722/513.htm)  
 20. Enhancing Spiritual History Framework, [Enhancing Spiritual History Framework](../00_Framework/Enhancing%20Spiritual%20History%20Framework.md)  
-21. Empirical Validation of the Threefold Path Model: A Statistical Analysis of NDE Soul Origin Markers, [**Empirical Validation of the Threefold Path Model**](../01_Consciousness_Studies/Empirical%20Validation%20of%20the%20Threefold%20Path%20Model%20-%20A%20Statistical%20Analysis%20of%20NDE%20Soul%20Origin%20Markers.md)  
+21. Empirical Validation of the Threefold Path Model: A Statistical Analysis of NDE Soul Origin Markers, [**Empirical Validation of the Threefold Path Model**](../01_Consciousness_Studies/Empirical%20Validation%20of%20the%20Threefold%20Path%20Model_%20A%20Statistical%20Analysis%20of%20NDE%20Soul%20Origin%20Markers.md)  
 22. What Near-Death Experiences Tell Us About the Nature of God \- Medium, accessed on December 8, 2025, [https://medium.com/backyard-theology/what-near-death-experiences-tell-us-about-the-nature-of-god-67d792995abf](https://medium.com/backyard-theology/what-near-death-experiences-tell-us-about-the-nature-of-god-67d792995abf)  
 23. God's characteristics as reported by near-death experiencers \- Article (Preprint v1) by Patrizio Tressoldi et al. | Qeios, accessed on December 8, 2025, [https://www.qeios.com/read/2TI1T7](https://www.qeios.com/read/2TI1T7)  
 24. experiences\_part-010.pdf, [https://drive.google.com/open?id=1Lr\_oyKbfASvpbN05iwaDq4FKPgKMNN3O](https://drive.google.com/open?id=1Lr_oyKbfASvpbN05iwaDq4FKPgKMNN3O)  

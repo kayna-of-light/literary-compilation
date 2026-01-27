@@ -4,7 +4,7 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 >
 > This document reflects **earlier understanding** on:
-> - **#9** [Resurrection Narrative Evolution](../03_Biblical_Scholarship/Resurrection%20Narrative%20Evolution%20in%20New%20Testament.md) — This analysis treats Luke’s “broiled fish” scene as straightforward historical grounding for the “Actual Jesus,” without flagging the textual layering and anti-Docetic polemic of the later Gospel strata.
+> - **#9** [Resurrection Narrative Evolution](../03_Biblical_Scholarship/The%20Anatomy%20of%20Ascension_%20A%20Critical-Historical%20and%20Phenomenological%20Reconstruction%20of%20the%20Resurrection%20Narrative%20from%20Pauline%20Pneumatology%20to%20the.md) — This analysis treats Luke’s “broiled fish” scene as straightforward historical grounding for the “Actual Jesus,” without flagging the textual layering and anti-Docetic polemic of the later Gospel strata.
 >
 > **Summary**: The physical-proof motifs ("flesh and bones", eating fish, touching wounds) are best read as later materializing layers in the tradition; historical grounding should not rely on those motifs as if they were the earliest witness.
 > ---
@@ -249,8 +249,8 @@ The study reveals that the "Proprium" diagnosis is a potent heuristic for decons
 
 #### **Works cited**
 
-1. The Pauline Corpus and the Consummation of the Age, [The Pauline Corpus and the Consummation of the Age](../04_Early_Christian_History/The%20Pauline%20Corpus%20and%20the%20Consummation%20of%20the%20Age.md)  
-2. The Apostle of the Archons: A Forensic Validation of the Gnostic Substrate in the Pauline Corpus, [The Apostle of the Archons_ A Forensic Validation of the Gnostic Substrate in the Pauline Corpus](The%20Apostle%20of%20the%20Archons_%20A%20Forensic%20Validation%20of%20the%20Gnostic%20Substrate%20in%20the%20Pauline%20Corpus.md)  
+1. The Pauline Corpus and the Consummation of the Age, [The Pauline Corpus and the Consummation of the Age](../04_Early_Christian_History/Theological%20Forensic%20Analysis_%20Theological%20Forensic%20Analysis_%20The%20Pauline%20Corpus%20and%20the%20Consummation%20of%20the%20Age.md)  
+2. The Apostle of the Archons: A Forensic Validation of the Gnostic Substrate in the Pauline Corpus, [The Apostle of the Archons_ A Forensic Validation of the Gnostic Substrate in the Pauline Corpus](The%20Apostle%20of%20the%20Archons_%20A%20Forensic%20Validation%20of%20the%20Gnostic%20Substrate%20in%20the%20Pauline%20Corpus%20and%20the%20Imperial%20Co-optation%20of%20the%20Pneuma.md)  
 3. Revelation and Bricolage: A Comparative Analysis of Swedenborgian and Anthropological Models of the Exodus Narrative, [Revelation and Bricolage](../06_Mythological_Studies/Revelation%20and%20Bricolage_%20A%20Comparative%20Analysis%20of%20Swedenborgian%20and%20Anthropological%20Models%20of%20the%20Exodus%20Narrative.md)  
 4. Romans 1:1 Commentaries: Paul, a bond-servant of Christ Jesus ..., accessed on December 27, 2025, [https://biblehub.com/commentaries/romans/1-1.htm](https://biblehub.com/commentaries/romans/1-1.htm)  
 5. 1 Corinthians 15:9 Commentaries: For I am the least of the apostles ..., accessed on December 27, 2025, [https://biblehub.com/commentaries/1\_corinthians/15-9.htm](https://biblehub.com/commentaries/1_corinthians/15-9.htm)  

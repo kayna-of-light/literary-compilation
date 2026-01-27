@@ -89,6 +89,8 @@ def build_local_index(data_root: Path) -> tuple[dict[str, list[LocalDoc]], dict[
 
 
 def _extract_drive_id(url: str) -> Optional[str]:
+    # First, remove markdown escapes (\_)
+    url = url.replace("\\_", "_")
     # https://drive.google.com/open?id=<ID>
     m = re.search(r"[?&]id=([a-zA-Z0-9_-]{10,})", url)
     if m:
@@ -261,9 +263,11 @@ def rewrite_markdown(
 
     text2 = link_re.sub(repl_link, text)
 
-    # 2) Rewrite GDR-style references lines: "1. Title, https://drive.google.com/open?id=..."
+    # 2) Rewrite GDR-style references lines: "1\. Title, https://drive.google.com/open?id=..."
+    # Note: Title may contain commas, so we use non-greedy match up to ", https://drive"
+    # Title must not cross item boundaries (contains " N\." pattern)
     ref_line_re = re.compile(
-        r"^(?P<prefix>\s*\d+(?:\\\.)?)\s*(?P<title>[^\n,]+?),\s*(?P<url>https?://drive\.google\.com/[^\s]+)\s*$",
+        r"^(?P<prefix>\s*\d+\\\.)\s*(?P<title>(?:(?!\s\d+\\.).)*?),\s*(?P<url>https://drive\.google\.com/[^\s]+)\s*$",
         flags=re.MULTILINE,
     )
 
@@ -312,9 +316,11 @@ def rewrite_markdown(
 
     # 3) Rewrite inline GDR-style references where multiple items are on one line.
     # Example:
-    #   "1. Some Title, https://drive.google.com/open?id=... 2. Other Title, https://drive..."
+    #   "1\. Some Title, https://drive... 2\. Other Title, https://drive..."
+    # Title may contain commas but must not cross item boundaries (contain " N\." pattern)
+    # Using negative lookahead to stop before next numbered item
     inline_ref_re = re.compile(
-        r"(?P<prefix>(?:^|\s)\d+(?:\\\.)?)\s*(?P<title>[^\n,]+?),\s*(?P<url>https?://drive\.google\.com/[^\s)]+)",
+        r"(?P<prefix>(?:^|\s)\d+\\\.)\s*(?P<title>(?:(?!\s\d+\\.).)*?),\s*(?P<url>https://drive\.google\.com/[^\s)]+)",
         flags=re.MULTILINE,
     )
 

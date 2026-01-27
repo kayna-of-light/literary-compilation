@@ -246,8 +246,8 @@ This report serves as the final validation of the "Part 3" Stress Test. The "Swe
 #### **Works cited**
 
 1. Swedenborg, Jesus, and Divine Bricolage, [https://drive.google.com/open?id=1SVH2lnoujjHr077K6Surjnktt5T-VD9jEkCTAC8Xhg8](https://drive.google.com/open?id=1SVH2lnoujjHr077K6Surjnktt5T-VD9jEkCTAC8Xhg8)  
-2. Divine Bricolage vs. Swedenborg's Jesus, [https://drive.google.com/open?id=11jz7rpwe-wQlxsWggzQyDINBVpuS2RQWf2evqttyZ0Y](https://drive.google.com/open?id=11jz7rpwe-wQlxsWggzQyDINBVpuS2RQWf2evqttyZ0Y)  
-3. Swedenborg's Historical Interpretation of Exodus, [https://drive.google.com/open?id=18Wsakls\_tqhUZzynH\_CgvucEdTXuPDPmprNXLpl8gKc](https://drive.google.com/open?id=18Wsakls_tqhUZzynH_CgvucEdTXuPDPmprNXLpl8gKc)  
+2. Divine Bricolage vs. Swedenborg's Jesus, [Divine Bricolage vs. Swedenborg's Jesus](Divine%20Bricolage%20vs.%20Swedenborg's%20Jesus.md)  
+3. Swedenborg's Historical Interpretation of Exodus, [Swedenborg's Historical Interpretation of Exodus](Swedenborg's%20Historical%20Interpretation%20of%20Exodus.md)  
 4. Where Does Our Soul Come From? When Does It Become Eternal? : r/Swedenborgianism \- Reddit, accessed on January 25, 2026, [https://www.reddit.com/r/Swedenborgianism/comments/1lmxjnt/where\_does\_our\_soul\_come\_from\_when\_does\_it\_become/](https://www.reddit.com/r/Swedenborgianism/comments/1lmxjnt/where_does_our_soul_come_from_when_does_it_become/)  
 5. On Generation (Acton translation) 80 \- Author: Emanuel Swedenborg, accessed on January 25, 2026, [https://newchristianbiblestudy.org/exposition/translation/on-generation/contents/800?translation=on-generation\&fromSection=40§ion=80](https://newchristianbiblestudy.org/exposition/translation/on-generation/contents/800?translation=on-generation&fromSection=40&section=80)  
 6. On Generation (Acton translation) 70 \- Author: Emanuel Swedenborg, accessed on January 25, 2026, [https://newchristianbiblestudy.org/exposition/translation/on-generation/contents/700?translation=on-generation\&fromSection=74§ion=70](https://newchristianbiblestudy.org/exposition/translation/on-generation/contents/700?translation=on-generation&fromSection=74&section=70)  
@@ -269,4 +269,4 @@ This report serves as the final validation of the "Part 3" Stress Test. The "Swe
 22. swedenborg\_apocalypse\_revealed\_02.pdf, [https://drive.google.com/open?id=1XaJ39PZ6IbMXagAgy-8s7rMVMPFHPeDJ](https://drive.google.com/open?id=1XaJ39PZ6IbMXagAgy-8s7rMVMPFHPeDJ)  
 23. Spiritual Meaning of Virgin, accessed on January 25, 2026, [http://www.biblemeanings.info/Words/Family/Virgin.htm](http://www.biblemeanings.info/Words/Family/Virgin.htm)  
 24. Apocalypse Revealed (Rogers translation) 620 \- Author: Emanuel Swedenborg \- New Christian Bible Study, accessed on January 25, 2026, [https://newchristianbiblestudy.org/exposition/translation/apocalypse-revealed-rogers/contents/6200](https://newchristianbiblestudy.org/exposition/translation/apocalypse-revealed-rogers/contents/6200)  
-25. Swedenborg's Ancient Word and Science, [https://drive.google.com/open?id=1gFoOT7BvlDDgKtZ-4bAON13WLEp5E2IttZzdcpTZIlE](https://drive.google.com/open?id=1gFoOT7BvlDDgKtZ-4bAON13WLEp5E2IttZzdcpTZIlE)
+25. Swedenborg's Ancient Word and Science, [Swedenborg's Ancient Word and Science](Swedenborg's%20Ancient%20Word%20and%20Science.md)

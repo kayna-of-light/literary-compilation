@@ -169,8 +169,8 @@ Therefore, the hypothesis stands: The dietary habits of 1200 BCE were the early,
 
 #### **Works cited**
 
-1. accessed on January 1, 1970, [https://drive.google.com/open?id=1MGu3OD1oYKiGRezPPI\_TNfg0f6oChjzQfW4eHIHXJbA](https://drive.google.com/open?id=1MGu3OD1oYKiGRezPPI_TNfg0f6oChjzQfW4eHIHXJbA)  
-2. Tracing Ancient Correspondence Knowledge, [https://drive.google.com/open?id=19KJixt2pVWNrPWrg-sBpk1JZdFllHNS8GW2akG9Mako](https://drive.google.com/open?id=19KJixt2pVWNrPWrg-sBpk1JZdFllHNS8GW2akG9Mako)  
+1. accessed on January 1, 1970, [**The Celestial Scribe: The Doctrine of Correspondences, Magian Science, and the Cognitive Architecture of the Biblical Canon**](../04_Early_Christian_History/The%20Celestial%20Scribe_%20The%20Doctrine%20of%20Correspondences,%20Magian%20Science,%20and%20the%20Cognitive%20Architecture%20of%20the%20Biblical%20Canon.md)  
+2. Tracing Ancient Correspondence Knowledge, [Tracing Ancient Correspondence Knowledge](../02_Swedenborgian_Theology/Tracing%20Ancient%20Correspondence%20Knowledge.md)  
 3. The Zoroastrian Concept of Xraf stra, accessed on January 11, 2026, [https://toyo-bunko.repo.nii.ac.jp/record/3290/files/memoirs43\_01.pdf](https://toyo-bunko.repo.nii.ac.jp/record/3290/files/memoirs43_01.pdf)  
 4. Zoroastrian Attitudes toward Animals, accessed on January 11, 2026, [https://www.animalsandsociety.org/wp-content/uploads/2016/04/foltz.pdf](https://www.animalsandsociety.org/wp-content/uploads/2016/04/foltz.pdf)  
 5. ANIMALS IN MESOPOTAMIAN LITERATURE Mesopotamian literature consists of formal written expression in the Sumerian and Akkadian la \- Brill, accessed on January 11, 2026, [https://brill.com/display/book/edcoll/9789047400912/B9789047400912-s010.pdf](https://brill.com/display/book/edcoll/9789047400912/B9789047400912-s010.pdf)  

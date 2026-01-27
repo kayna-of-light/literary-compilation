@@ -4,8 +4,8 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
-> - **#11** [Correspondence as Ontology](../02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on Hypothesis-Testing with the Swedenborgian Framework.md) — This document frames correspondence as "transmitted" through Enoch→Noah→Magi lineage. Current analysis reframes correspondence as **ontological law**—independently discoverable across cultures with zero contact.
-> - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word.md) — Section II.2-II.3 treat Magi as primary custodians; current position distinguishes the *Bene Qedem* as primary carriers.
+> - **#11** [Correspondence as Ontology](../02_Swedenborgian_Theology/The%20Epistemic%20Architecture%20of%20Post-Materialist%20Inquiry_%20A%20Methodological%20Thesis%20on%20Hypothesis-Testing%20with%20the%20Swedenborgian%20Framework.md) — This document frames correspondence as "transmitted" through Enoch→Noah→Magi lineage. Current analysis reframes correspondence as **ontological law**—independently discoverable across cultures with zero contact.
+> - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The%20Bifurcated%20Gnosis_%20The%20Bene%20Qedem,%20the%20Magian%20Institution,%20and%20the%20Isaac-Ishmael%20Dialectic%20in%20the%20Transmission%20of%20the%20Ancient%20Word.md) — Section II.2-II.3 treat Magi as primary custodians; current position distinguishes the *Bene Qedem* as primary carriers.
 > 
 > **Summary**: Correspondence is perceivable reality, not transmitted wisdom. Evidence: 30,000-year Paleolithic consistency, Göbekli Tepe (pre-Zoroaster by 7,000 years), Aboriginal songlines—all with zero contact.
 > ---
@@ -200,19 +200,19 @@ This synthesis was **"Deep"** because it permanently embedded the "Science of Co
 #### **Works cited**
 
 1. A Compendium of Swedenborg's Theological Writings, by Samuel Warren (Revised): THE FIRST OR MOST ANCIENT CHURCH, accessed on January 9, 2026, [https://swedenborgdigitallibrary.org/comp/comp328to415.htm](https://swedenborgdigitallibrary.org/comp/comp328to415.htm)  
-2. The Semiotic Architecture of the Ancient Word: An Empirical Validation of 1 Enoch Through Swedenborgian Correspondences, [https://drive.google.com/open?id=1h\_9yGgkqba3ayysvS-AuLm7b9IKwf-\_MC-mpDHkPj3M](https://drive.google.com/open?id=1h_9yGgkqba3ayysvS-AuLm7b9IKwf-_MC-mpDHkPj3M)  
+2. The Semiotic Architecture of the Ancient Word: An Empirical Validation of 1 Enoch Through Swedenborgian Correspondences, [**The Semiotic Architecture of the Ancient Word: An Empirical Validation of 1 Enoch Through Swedenborgian Correspondences**](../02_Swedenborgian_Theology/The%20Semiotic%20Architecture%20of%20the%20Ancient%20Word_%20An%20Empirical%20Validation%20of%201%20Enoch%20Through%20Swedenborgian%20Correspondences.md)  
 4. Enoch—the First Librarians \- Swedenborg Foundation, accessed on January 9, 2026, [https://swedenborg.com/enoch-the-first-librarians/](https://swedenborg.com/enoch-the-first-librarians/)  
 5. Ancient Church – Word Study \- New Church Society Sites, accessed on January 9, 2026, [https://societies.newchurch.org/wordstudy/spiritual-glossary/ancient-church/](https://societies.newchurch.org/wordstudy/spiritual-glossary/ancient-church/)  
 6. From Eden to Noah \- Swedenborg Study, accessed on January 9, 2026, [http://www.swedenborgstudy.com/books/J.Worcester\_Genesis-Exodus/noah.html](http://www.swedenborgstudy.com/books/J.Worcester_Genesis-Exodus/noah.html)  
-7. Validating Swedenborg's Correspondences, [https://drive.google.com/open?id=1\_\_\_tYQE3O-tD3\_FQnb0b8hzPlsjnPDqZmNm6bIQ2obc](https://drive.google.com/open?id=1___tYQE3O-tD3_FQnb0b8hzPlsjnPDqZmNm6bIQ2obc)  
+7. Validating Swedenborg's Correspondences, [Validating Swedenborg's Correspondences](../02_Swedenborgian_Theology/Validating%20Swedenborg's%20Correspondences.md)  
 8. WSH Swedenborg a Modern Buddha.pdf \- Alfred University, accessed on January 9, 2026, [https://people.alfred.edu/\~hickey/Publications\_files/WSH%20Swedenborg%20a%20Modern%20Buddha.pdf](https://people.alfred.edu/~hickey/Publications_files/WSH%20Swedenborg%20a%20Modern%20Buddha.pdf)  
 9. Swedenborg, Israel, and Ancient Churches, [https://drive.google.com/open?id=1vHnhja3P95xm-lwEdrfPV51BeNkBZYm-\_TYcDNkaR6k](https://drive.google.com/open?id=1vHnhja3P95xm-lwEdrfPV51BeNkBZYm-_TYcDNkaR6k)  
 10. Swedenborg: A Modern Buddha? \- Institute of Buddhist Studies, accessed on January 9, 2026, [http://www.shin-ibs.edu/documents/pwj3-10/09Hickey.pdf](http://www.shin-ibs.edu/documents/pwj3-10/09Hickey.pdf)  
-11. Tracing Ancient Correspondence Knowledge, [https://drive.google.com/open?id=19KJixt2pVWNrPWrg-sBpk1JZdFllHNS8GW2akG9Mako](https://drive.google.com/open?id=19KJixt2pVWNrPWrg-sBpk1JZdFllHNS8GW2akG9Mako)  
+11. Tracing Ancient Correspondence Knowledge, [Tracing Ancient Correspondence Knowledge](../02_Swedenborgian_Theology/Tracing%20Ancient%20Correspondence%20Knowledge.md)  
 12. Aramaic's Role in Persian-Jewish Synthesis  
-13. The Cycle of Celestial Knowledge: A Re-examination of the Magi, [https://drive.google.com/open?id=1q0wHTa7PPT38bWpWzqo\_vFHcQLJEgXOrMiLIEaJQQPQ](https://drive.google.com/open?id=1q0wHTa7PPT38bWpWzqo_vFHcQLJEgXOrMiLIEaJQQPQ)  
+13. The Cycle of Celestial Knowledge: A Re-examination of the Magi, [The Cycle of Celestial Knowledge_ A Re-examination of the Magi](../04_Early_Christian_History/The%20Cycle%20of%20Celestial%20Knowledge_%20A%20Re-examination%20of%20the%20Magi.md)  
 14. The Ancient Word \- Science of Correspondences, accessed on January 9, 2026, [http://www.scienceofcorrespondences.com/ch32.htm](http://www.scienceofcorrespondences.com/ch32.htm)  
 15. Four Doctrines | Swedenborg Foundation, accessed on January 9, 2026, [https://swedenborg.com/wp-content/uploads/2013/03/swedenborg\_foundation\_four\_doctrines.pdf](https://swedenborg.com/wp-content/uploads/2013/03/swedenborg_foundation_four_doctrines.pdf)  
 16. Iranian Details in the Book of Heavenly Luminaries (1 Enoch 72–82), accessed on January 9, 2026, [https://www.journals.uchicago.edu/doi/10.1086/671461](https://www.journals.uchicago.edu/doi/10.1086/671461)  
 17. The Story of the Watchers as a Counter Narrative: Enochic Responses to the Authority of Mesopotamian Sages \- MDPI, accessed on January 9, 2026, [https://www.mdpi.com/2077-1444/15/9/1024](https://www.mdpi.com/2077-1444/15/9/1024)  
-18. A Coherent Framework for Spiritual History: Weaving the Divine Bricolage, [https://drive.google.com/open?id=1kfxOoCvg29irKCL7-YppsHpU1HsUWgDiaCJTaH3ODn8](https://drive.google.com/open?id=1kfxOoCvg29irKCL7-YppsHpU1HsUWgDiaCJTaH3ODn8)
+18. A Coherent Framework for Spiritual History: Weaving the Divine Bricolage, [A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage](../00_Framework/A%20Coherent%20Framework%20for%20Spiritual%20History_%20Weaving%20the%20Divine%20Bricolage.md)

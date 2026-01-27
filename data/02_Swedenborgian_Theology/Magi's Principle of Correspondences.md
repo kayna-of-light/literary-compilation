@@ -22,6 +22,8 @@ To understand the Magi is to step into a "resonant universe" where the boundarie
 
 ## **2\. The Ontological Foundation: *Mēnōg* and *Gētīg***
 
+> **[CORRECTION #18]**: This section documents the Zoroastrian *mēnōg/gētīg* ontology. While this represents an important codification, correspondence itself is **ontological law**—perceivable reality, not Magian invention. Göbekli Tepe (9500 BCE) shows the same correspondential classification 7,000 years before Zoroaster, with no transmission chain. The Magi institutionalized what the *Bene Qedem* had preserved through direct nature observation.
+
 The intelligibility of the Magian universe rests upon a fundamental dualism. This is not, however, the dualism of "spirit versus matter" familiar to Platonism or Gnosticism, where the material is often denigrated as an illusion or a prison. Rather, it is a dualism of *state* or *mode of being*. The principle of correspondences arises from the dynamic relationship between these two states: *mēnōg* and *gētīg*.
 
 ### **2.1 The Twofold Nature of Reality**

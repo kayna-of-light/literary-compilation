@@ -34,6 +34,8 @@ The "Science of Correspondences" is the operational logic connecting these two s
 
 ### **2.2 The *Damdat Nask*: The Lost Encyclopedia of Correspondence**
 
+> **[REFRAMING #11]**: This section treats correspondence as "codified" wisdom transmitted via scribal traditions. Evidence from cognitive archaeology shows correspondence operating as **ontological law**—independently perceivable across zero-contact cultures (Göbekli Tepe 9600 BCE, Aboriginal songlines, 30,000-year Paleolithic consistency). The *Damdat Nask* represents **codification** of what humans perceive when attuned to reality, not **invention** of correspondence. Institutional texts explain how wisdom was preserved and transmitted, not how it originated.
+
 Historical evidence points to the existence of a vast, written corpus that codified this science. The *Damdat Nask*, a lost book of the Avesta, is described in later commentaries (like the *Bundahishn*) as containing an encyclopedic taxonomy of the cosmos. It reportedly classified all of creation—minerals, plants, animals, and stars—based on their spiritual correspondence.
 
 * **Taxonomy of Nature:** Animals were not classified by biological family but by spiritual alignment. "Beneficent" animals (e.g., dogs, roosters, hedgehogs) were physical crystallizations of virtues like vigilance and fidelity. "Noxious" creatures (*khrafstra*, e.g., snakes, frogs, scorpions) were materializations of the "Lie" (*Druj*) and chaotic thought.  

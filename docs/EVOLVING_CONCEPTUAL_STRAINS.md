@@ -25,11 +25,16 @@ This document catalogs conceptual strains where understanding has evolved over t
 
 ### Review Status
 
+**Legend**:
+- ✅ = Verified: inline corrections adjacent to ALL body text occurrences
+- ⚠️ = Suspicious: needs per-occurrence audit
+- ❌ = Needs work: body text has uncorrected occurrences after header note
+
 - [x] #2 Biological Determinism (5 docs) — ✅ Done (2026-01-27): Corrections placed at each occurrence
 - [x] #6 Magi and Daniel (6 docs) — ✅ Done (2026-01-27): Text corrected + inline notes at each occurrence
-- [ ] #3 Reincarnation Model (1 doc) — Needs adjacent review
-- [ ] #5 Most Ancient Church (6 docs) — Needs adjacent review
-- [ ] #8 NDE Cultural Variation (1 doc) — Needs adjacent review
+- [x] #3 Reincarnation Model (1 doc) — ✅ Done: Single claim at §5.3 L128 has [EXTENSION #3] at L132
+- [x] #5 Most Ancient Church (6 docs) — ✅ Done: All 6 docs verified; 3 new inline notes added to Lithic Archive
+- [x] #8 NDE Cultural Variation (1 doc) — ✅ Done
 - [ ] #9 Resurrection Narratives (2 docs) — Needs adjacent review
 - [ ] #11 Correspondence as Ontology (6 docs) — Needs adjacent review
 - [ ] #13 Bicameral Mind (1 doc) — Needs adjacent review
@@ -38,6 +43,16 @@ This document catalogs conceptual strains where understanding has evolved over t
 - [ ] #17 Virgin Birth (1 doc) — Needs adjacent review
 - [ ] #18 Bene Qedem (? docs) — **CRITICAL**: No count listed; needs full audit
 - [ ] #19 Aligned Human (4 docs) — Needs adjacent review
+
+### Fixes Applied (2026-01-27)
+
+1. **#5 `Communication Among the Most Ancient People.md`**: Added `[REFRAMING #5]` inline note after opening paragraph (L12) explaining "40,000-10,000 BCE" is Ancient Church (post-Fall), not Golden Age
+
+2. **#15 `The Luminous Science...md`**: Added `[CRITICAL ANALYSIS #15]` inline note before conclusion section explaining the Magi narrative as theological construct
+
+3. **#18 `Magi's Principle of Correspondences.md`**: Added `[CORRECTION #18]` inline note at start of §2 (mēnōg/gētīg section) explaining correspondence is ontological law, not Magian invention
+
+4. **#18 `Persian Roots of Early Christianity.md`**: Added `[CORRECTION #18]` inline note after L95 "Magi's quest was driven by their 'Science of Correspondences'"
 
 ### Review Protocol
 
@@ -48,15 +63,7 @@ For each strain marked "Needs review":
 3. **Check adjacency** — Is there an inline note immediately before/after each occurrence?
 4. **If missing** — Add inline correction using the strain's annotation template
 5. **If text is wrong** — Consider correcting the text itself (as done for "Rab-mag" → "Rab-signīn")
-6. **Mark complete** — Update table above
-
-### Priority Order
-
-1. **#18 Bene Qedem** — CRITICAL; affects many documents; may need full audit
-2. **#11 Correspondence as Ontology** — High priority; 6 docs
-3. **#15 Magi Narrative** — High priority; overlaps with #18
-4. **#5 Most Ancient Church** — Medium; 6 docs
-5. Remaining strains by doc count
+6. **Mark complete** — Update checklist above
 
 ---
 

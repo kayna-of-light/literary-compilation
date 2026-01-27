@@ -9,7 +9,10 @@
 
 > **[REFRAMING #5]**: The following document equates "Most Ancient Church" with 40,000-10,000 BCE. Later analysis reframes the "Golden Age" as allegorical narrative for deep hominin evolution (millions of years), with 40,000-10,000 BCE being the **Ancient Church** period *after* cognitive externalization (the "Fall"). "Internal respiration" = decoupling of breath from locomotion (bipedalism). See "A Validation Analysis of Claims Concerning the Most Ancient Church" for the functional mapping.
 
-Communication among the most ancient people (40000 \- 10000 BCE) was fundamentally different from communication today, centering on internal perception, a unique mode of respiration, and the use of representatives in speech.  
+Communication among the most ancient people (40000 \- 10000 BCE) was fundamentally different from communication today, centering on internal perception, a unique mode of respiration, and the use of representatives in speech.
+
+> **[REFRAMING #5]**: The date range "40,000-10,000 BCE" corresponds to the **Ancient Church** period (post-Fall), not the "Most Ancient Church" / Golden Age. The Golden Age is allegorical for deep hominin evolution (millions of years). "Internal respiration" = decoupling breath from locomotion (bipedalism). See "A Validation Analysis of Claims Concerning the Most Ancient Church."
+
 The key aspects of their communication, based on the sources, include:  
 Internal and Perceptive Communication  
 The most ancient church, being "celestial men," possessed a distinctive mode of internal experience called perception.  

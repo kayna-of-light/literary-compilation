@@ -29,6 +29,8 @@ While Cauvin’s recognition of the *primacy* of the symbol is correct, his inte
 
 In the Swedenborgian hermeneutic, the "Woman" does not signify biological femaleness or a matriarchal political order. Ontologically, the Woman corresponds to the **Affection of Truth**.8 This is a technical term describing the volitional state of the "Church" (the collective spiritual community) when it is in a state of longing for conjunction with the Divine.
 
+> **[REFRAMING #5]** The equation below of "Paleolithic mind" with "Most Ancient Church" is imprecise. Later analysis clarifies: the Most Ancient Church (Golden Age) is allegorical for **multi-million-year hominin evolution**, not Upper Paleolithic. The Paleolithic record (40,000-10,000 BCE) actually corresponds to the **Ancient Church** period *after* the Fall.
+
 The spiritual history of humanity, as reconstructed through this lens, suggests that the Paleolithic mind (the "Most Ancient Church") possessed an innate perception of truth. As this perception faded (the "Fall"), humanity was left with a void—a hunger. The "Woman" figurines that explode into the archaeological record during the PPNA and PPNB periods (e.g., at Mureybet, Çatalhöyük) are not fertility idols in the agrarian sense; they are **Theological Markers**. They represent the externalization of the human will’s desire to be impregnated by Divine Truth.
 
 Swedenborg writes that "the virgin... signifies the church as to the affection of truth".8 This affection is the necessary vessel for any spiritual birth. Just as the Virgin Mary represents the specific state of the Jewish Church that allowed for the Incarnation of the Word (Divine Truth) into human history, the Neolithic "Goddess" represents the collective state of early post-glacial humanity: a state of **active receptivity**.
@@ -53,6 +55,8 @@ The Science of Correspondences teaches that "all things in the universe have rel
 
 * **The Woman (Good/Affection):** The internal desire to receive.  
 * **The Bull (Truth/Power):** The external vessel that holds and protects.
+
+> **[REFRAMING #5]** "Golden Age (Paleolithic)" conflates deep-time allegory with archaeological period. The Golden Age = multi-million-year hominin evolution; Upper Paleolithic = Ancient Church (post-Fall).
 
 In the "Golden Age" (Paleolithic), this marriage was internal and intuitive. As humanity "fell" into external consciousness, they lost the ability to sustain this marriage internally. They had to **enact** it externally to survive spiritually.
 
@@ -159,6 +163,8 @@ The "Fall" was the loss of this automatic synchronization. The "Flood" was the s
 ## **V. Conclusion: The Unified Narrative**
 
 The "Semiotics of Sanctity," when corrected through this critical analysis, reveals a coherent spiritual history of humanity that satisfies both theological depth and scientific rigor.
+
+> **[REFRAMING #5]** The numbered list below equates "Golden Age" with "Paleolithic." The Golden Age is allegorical for deep hominin evolution (millions of years), not Upper Paleolithic (40,000-10,000 BCE), which is actually the Ancient Church period.
 
 1. **The Golden Age (Paleolithic):** Humanity possesses a "free thorax" enabled by bipedalism, allowing for "internal respiration" (deep physiological coherence) and direct spiritual perception. Truth is perceived, not taught.  
 2. **The Fall (Neolithic Crisis):** The "internal" connection is severed (suffocation of the will). The "Head" separates from the "Body" (Pillar 43). The spiritual influx is threatened by the "Scorpion" of sensual persuasion.  

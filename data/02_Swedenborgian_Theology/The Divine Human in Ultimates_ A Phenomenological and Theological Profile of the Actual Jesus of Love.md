@@ -4,8 +4,8 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 >
 > This document reflects **earlier understanding** on:
-> - **#9** [Resurrection Narrative Evolution](../03_Biblical_Scholarship/Resurrection Narrative Evolution in New Testament.md) — This document treats the Gospel resurrection profile as direct phenomenology without consistently flagging the tradition’s progressive materialization (empty tomb → physical proofs).
-> - **#19** [The Aligned Human](../02_Swedenborgian_Theology/The Divine Human in Ultimates_ A Phenomenological and Forensic Re-Evaluation of the Aligned Soul.md) — This document presents the "Historical Jesus" / "Christ of Faith" dichotomy and proposes a synthesis, but retains residual "Divine soul + Human body" framing. The refined position: Jesus was a complete human whose ruling love was oriented toward the Divine, achieving maximal transparency.
+> - **#9** [Resurrection Narrative Evolution](../03_Biblical_Scholarship/Resurrection%20Narrative%20Evolution%20in%20New%20Testament.md) — This document treats the Gospel resurrection profile as direct phenomenology without consistently flagging the tradition’s progressive materialization (empty tomb → physical proofs).
+> - **#19** [The Aligned Human](../02_Swedenborgian_Theology/The%20Divine%20Human%20in%20Ultimates_%20A%20Phenomenological%20and%20Forensic%20Re-Evaluation%20of%20the%20Aligned%20Soul.md) — This document presents the "Historical Jesus" / "Christ of Faith" dichotomy and proposes a synthesis, but retains residual "Divine soul + Human body" framing. The refined position: Jesus was a complete human whose ruling love was oriented toward the Divine, achieving maximal transparency.
 >
 > **Summary**: The correspondential meanings are retained, but Jesus was not "God-in-a-suit" (biological determinism) — he was a human *filled* with the Lord through alignment of will.
 > ---
@@ -278,11 +278,11 @@ He is the "Divine Inflow into humanity." He is the proof that the universe is no
 
 #### **Works cited**
 
-1. Swedenborgian Research Plan: Spiritual Depth, [https://drive.google.com/open?id=1b922aM7\_4MPdrNt0eCRzdbw6j6tXgMCCcF-B7xrptcE](https://drive.google.com/open?id=1b922aM7_4MPdrNt0eCRzdbw6j6tXgMCCcF-B7xrptcE)  
+1. Swedenborgian Research Plan: Spiritual Depth, [Swedenborgian Research Plan_ Spiritual Depth](Swedenborgian%20Research%20Plan_%20Spiritual%20Depth.md)  
 2. Quest for the Historical Jesus: E.P. Sanders \- Theological Ramblings, accessed on December 8, 2025, [https://ordinand.wordpress.com/2008/03/31/quest-for-the-historical-jesus-ep-sanders/](https://ordinand.wordpress.com/2008/03/31/quest-for-the-historical-jesus-ep-sanders/)  
-3. The Divine Bricolage: A Spiritual History of the W..., [https://drive.google.com/open?id=19MPs9kXXzjft-S1LPNrGMoUVAYuaIh7pZ8P8OJNDNAg](https://drive.google.com/open?id=19MPs9kXXzjft-S1LPNrGMoUVAYuaIh7pZ8P8OJNDNAg)  
-4. A Coherent Framework for Spiritual History: Weavin..., [https://drive.google.com/open?id=1kfxOoCvg29irKCL7-YppsHpU1HsUWgDiaCJTaH3ODn8](https://drive.google.com/open?id=1kfxOoCvg29irKCL7-YppsHpU1HsUWgDiaCJTaH3ODn8)  
-5. Revelation and Bricolage: A Comparative Analysis o..., [https://drive.google.com/open?id=1ZmqC4y-qnfbPBAEZse7fEXOo-3ravPNfMNYVkZC0nNs](https://drive.google.com/open?id=1ZmqC4y-qnfbPBAEZse7fEXOo-3ravPNfMNYVkZC0nNs)  
+3. The Divine Bricolage: A Spiritual History of the W..., [**The Divine Bricolage: A Spiritual History of the Word from Influx to Incarnation**](../00_Framework/The%20Divine%20Bricolage_%20A%20Spiritual%20History%20of%20the%20Word%20from%20Influx%20to%20Incarnation.md)  
+4. A Coherent Framework for Spiritual History: Weavin..., [A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage](../00_Framework/A%20Coherent%20Framework%20for%20Spiritual%20History_%20Weaving%20the%20Divine%20Bricolage.md)  
+5. Revelation and Bricolage: A Comparative Analysis o..., [**Revelation and Bricolage: A Comparative Analysis of Swedenborgian and Anthropological Models of the Exodus Narrative**](../06_Mythological_Studies/Revelation%20and%20Bricolage_%20A%20Comparative%20Analysis%20of%20Swedenborgian%20and%20Anthropological%20Models%20of%20the%20Exodus%20Narrative.md)  
 6. E.P. Sanders: Jesus the Apocalyptic Prophet \- Early Christian Writings, accessed on December 8, 2025, [http://www.earlychristianwritings.com/jesus/epsanders.html](http://www.earlychristianwritings.com/jesus/epsanders.html)  
 7. E. P. Sanders and the Historical Jesus \- ANCIENT JEW REVIEW, accessed on December 8, 2025, [https://www.ancientjewreview.com/read/2024/3/13/e-p-sanders-and-the-historical-jesus](https://www.ancientjewreview.com/read/2024/3/13/e-p-sanders-and-the-historical-jesus)  
 8. A Concise Overview of Swedenborg's Theology, accessed on December 8, 2025, [https://swedenborgdigitallibrary.org/kirv/kirv10.htm](https://swedenborgdigitallibrary.org/kirv/kirv10.htm)  
@@ -297,7 +297,7 @@ He is the "Divine Inflow into humanity." He is the proof that the universe is no
 17. Mary Magdalene and Christ the Gardener \- Kelly Latimore Icons, accessed on December 8, 2025, [https://kellylatimoreicons.com/blogs/news/mary-magdalene-and-christ-the-gardener](https://kellylatimoreicons.com/blogs/news/mary-magdalene-and-christ-the-gardener)  
 18. What is the significance of what Jesus ate after his resurrection?, accessed on December 8, 2025, [https://christianity.stackexchange.com/questions/42185/what-is-the-significance-of-what-jesus-ate-after-his-resurrection](https://christianity.stackexchange.com/questions/42185/what-is-the-significance-of-what-jesus-ate-after-his-resurrection)  
 19. Apocalypse Explained (Whitehead): AE 513 \- E Swedenborg.com, accessed on December 8, 2025, [http://www.e-swedenborg.com/writings/static/d11722/513.htm](http://www.e-swedenborg.com/writings/static/d11722/513.htm)  
-20. Enhancing Spiritual History Framework, [https://drive.google.com/open?id=14M6WSs4PDPt7W3M4vgBbQYQimxICrYewM8PXM9sgIQ4](https://drive.google.com/open?id=14M6WSs4PDPt7W3M4vgBbQYQimxICrYewM8PXM9sgIQ4)  
+20. Enhancing Spiritual History Framework, [Enhancing Spiritual History Framework](../00_Framework/Enhancing%20Spiritual%20History%20Framework.md)  
 21. Analyzing NDEs Against Soul Path Document, [https://drive.google.com/open?id=1lZRR2VKCYcam48Ai-wiax1OZjvuQouH9aBoDAeDPqAA](https://drive.google.com/open?id=1lZRR2VKCYcam48Ai-wiax1OZjvuQouH9aBoDAeDPqAA)  
 22. What Near-Death Experiences Tell Us About the Nature of God \- Medium, accessed on December 8, 2025, [https://medium.com/backyard-theology/what-near-death-experiences-tell-us-about-the-nature-of-god-67d792995abf](https://medium.com/backyard-theology/what-near-death-experiences-tell-us-about-the-nature-of-god-67d792995abf)  
 23. God's characteristics as reported by near-death experiencers \- Article (Preprint v1) by Patrizio Tressoldi et al. | Qeios, accessed on December 8, 2025, [https://www.qeios.com/read/2TI1T7](https://www.qeios.com/read/2TI1T7)  

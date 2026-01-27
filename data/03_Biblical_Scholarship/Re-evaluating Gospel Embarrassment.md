@@ -4,7 +4,7 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 > 
 > This document reflects **current understanding** on:
-> - **#19** [The Aligned Human](../02_Swedenborgian_Theology/The Divine Human in Ultimates_ A Phenomenological and Forensic Re-Evaluation of the Aligned Soul.md) — This document's "Criterion of Temptation" and Jamesian orthopraxy align with the #19 synthesis: perfection through struggle, not static immunity. The "Jamesian Jesus" described here IS the "Aligned Human."
+> - **#19** [The Aligned Human](../02_Swedenborgian_Theology/The%20Divine%20Human%20in%20Ultimates_%20A%20Phenomenological%20and%20Forensic%20Re-Evaluation%20of%20the%20Aligned%20Soul.md) — This document's "Criterion of Temptation" and Jamesian orthopraxy align with the #19 synthesis: perfection through struggle, not static immunity. The "Jamesian Jesus" described here IS the "Aligned Human."
 > 
 > **Summary**: This document correctly identifies the Pauline Gnostic error and proposes the Jamesian alternative, which is the framework's own position.
 > **Established position (library)**: The Divine Human in Ultimates: ...Aligned Soul
@@ -212,4 +212,4 @@ This is not the "weakness" of a failed god, but the "strength" of the Refiner’
 
 #### **Geciteerd werk**
 
-1\. The Canonical Gospels: A Synthesis of Historical-Critical Scholarship, https://drive.google.com/open?id=1GqGXSdaM\_vwYpNtV1KdzYgzrGkUvnWUbPXhDxd61iNw 2\. The Apostle of the Archons: A Forensic Validation of the Gnostic Substrate in the Pauline Corpus, https://drive.google.com/open?id=1XHx8w8GpshSjPAHLh\_58aRTkQqFIKt8U1NcdKP0E1ig 3\. Quranic Isa vs. Early Christianity, https://drive.google.com/open?id=1Q6pYcpvwbm92PXNMetheDPTM5iKWa7VbGXNMmOiELX8
+1\. The Canonical Gospels: A Synthesis of Historical-Critical Scholarship, https://drive.google.com/open?id=1GqGXSdaM\_vwYpNtV1KdzYgzrGkUvnWUbPXhDxd61iNw 2\. The Apostle of the Archons: A Forensic Validation of the Gnostic Substrate in the Pauline Corpus, https://drive.google.com/open?id=1XHx8w8GpshSjPAHLh\_58aRTkQqFIKt8U1NcdKP0E1ig 3\. [Quranic Isa vs. Early Christianity](../04_Early_Christian_History/Quranic%20Isa%20vs.%20Early%20Christianity.md)

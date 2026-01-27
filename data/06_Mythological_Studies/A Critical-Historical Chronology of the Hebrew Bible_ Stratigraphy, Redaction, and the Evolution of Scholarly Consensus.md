@@ -264,7 +264,7 @@ The critical consensus reveals the Hebrew Bible as a library overwhelmingly prod
 
 #### **Works cited**
 
-1. A Critical History of Foundational Narratives \- From Mesopotamian Myths to the Modern Age, [https://drive.google.com/open?id=1G7BPBVoQJu1bow6ZC2PNjCUs2HIlbA4xTuPKPL3kRxk](https://drive.google.com/open?id=1G7BPBVoQJu1bow6ZC2PNjCUs2HIlbA4xTuPKPL3kRxk)  
+1. A Critical History of Foundational Narratives \- From Mesopotamian Myths to the Modern Age, [**A Critical History of Foundational Narratives: From Mesopotamian Myths to the Modern Age**](A%20Critical%20History%20of%20Foundational%20Narratives%20-%20From%20Mesopotamian%20Myths%20to%20the%20Modern%20Age.md)  
 2. accessed on January 11, 2026, [https://bibleinterp.arizona.edu/articles/yount357913\#:\~:text=According%20to%20general%20scholarly%20consensus,back%20to%20the%20preexilic%20period.](https://bibleinterp.arizona.edu/articles/yount357913#:~:text=According%20to%20general%20scholarly%20consensus,back%20to%20the%20preexilic%20period.)  
 3. Documentary hypothesis \- Wikipedia, accessed on January 11, 2026, [https://en.wikipedia.org/wiki/Documentary\_hypothesis](https://en.wikipedia.org/wiki/Documentary_hypothesis)  
 4. Documentary Hypothesis, accessed on January 11, 2026, [https://www.sas.upenn.edu/\~jtreat/rs/002/Judaism/jepd.html](https://www.sas.upenn.edu/~jtreat/rs/002/Judaism/jepd.html)  

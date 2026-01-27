@@ -213,4 +213,4 @@ Data and analysis derived from the NDE Research Project Structured Data Analysis
 14. Do Prevailing Societal Models Influence Reports of Near-Death Experiences?, accessed on January 7, 2026, [https://www.researchgate.net/publication/7244993\_Do\_Prevailing\_Societal\_Models\_Influence\_Reports\_of\_Near-Death\_Experiences](https://www.researchgate.net/publication/7244993_Do_Prevailing_Societal_Models_Influence_Reports_of_Near-Death_Experiences)  
 15. Japanese Perception of Brain Death and Implications for New Medical Technologies: Quantitative and Qualitative Social Media Analysis, accessed on January 7, 2026, [https://formative.jmir.org/2024/1/e54025](https://formative.jmir.org/2024/1/e54025)  
 16. Being of Light \- Statistical Analysis of NDE Phenomenology.pdf  
-17. Evaluating Dying Brain Hypothesis Critically, [https://drive.google.com/open?id=17nDIlVBJR2TXfEw5eAZM5BdBDyBVM8gNPHNVoAUuVU8](https://drive.google.com/open?id=17nDIlVBJR2TXfEw5eAZM5BdBDyBVM8gNPHNVoAUuVU8)
+17. Evaluating Dying Brain Hypothesis Critically, [Evaluating Dying Brain Hypothesis Critically](Evaluating%20Dying%20Brain%20Hypothesis%20Critically.md)

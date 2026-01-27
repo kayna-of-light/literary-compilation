@@ -322,4 +322,4 @@ Table 1: Summary of Key Anatomical Correspondences in the Grand Man
 
 1. Divine Human Anatomy and Spiritual Meaning, [https://drive.google.com/open?id=1j9wSXqXZzMrAViJ6fTTdglWvzAfH6QN2elSuLWjjujs](https://drive.google.com/open?id=1j9wSXqXZzMrAViJ6fTTdglWvzAfH6QN2elSuLWjjujs)  
 2. swedenborg\_heaven\_and\_hell.pdf, [https://drive.google.com/open?id=1QgSAhyHE151\_rAMFZnSwIBZj4pkqVv9a](https://drive.google.com/open?id=1QgSAhyHE151_rAMFZnSwIBZj4pkqVv9a)  
-3. A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg, [https://drive.google.com/open?id=13gme6s6IAaQM1IlFWzYx8XvdU6KXtK4vvfHB0dCInQU](https://drive.google.com/open?id=13gme6s6IAaQM1IlFWzYx8XvdU6KXtK4vvfHB0dCInQU)
+3. A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg, [**A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg**](A%20Library%20of%20Biblical%20Correspondences%20in%20Nature%20and%20Objects%20According%20to%20Emanuel%20Swedenborg.md)

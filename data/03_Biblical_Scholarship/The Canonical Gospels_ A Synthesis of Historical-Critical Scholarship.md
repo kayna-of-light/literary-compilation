@@ -4,7 +4,7 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 >
 > This document reflects **scholarly consensus** (HCM methodology):
-> - **#19** [The Aligned Human](../02_Swedenborgian_Theology/The Divine Human in Ultimates_ A Phenomenological and Forensic Re-Evaluation of the Aligned Soul.md) — §4.1 presents the "Historical Jesus" / "Christ of Faith" dichotomy as standard HCM methodology. The framework does NOT accept this as irreconcilable: the synthesis holds that Jesus was a complete human whose ruling love was oriented toward the Divine, and the "Christ of Faith" IS the Divine expression THROUGH the "Historical Jesus."
+> - **#19** [The Aligned Human](../02_Swedenborgian_Theology/The%20Divine%20Human%20in%20Ultimates_%20A%20Phenomenological%20and%20Forensic%20Re-Evaluation%20of%20the%20Aligned%20Soul.md) — §4.1 presents the "Historical Jesus" / "Christ of Faith" dichotomy as standard HCM methodology. The framework does NOT accept this as irreconcilable: the synthesis holds that Jesus was a complete human whose ruling love was oriented toward the Divine, and the "Christ of Faith" IS the Divine expression THROUGH the "Historical Jesus."
 >
 > **Summary**: This document accurately reports HCM methodology; the framework's synthesis transcends the dichotomy HCM presupposes.
 > ---

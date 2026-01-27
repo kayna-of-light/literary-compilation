@@ -125,11 +125,11 @@ The "Being of Light" is the Lord. He meets us where we are, wearing the face we 
 
 #### **Works cited**
 
-1. The Jamesian Protograph: A Forensic Reconstruction of Proto-Luke, [https://drive.google.com/open?id=12BE\_1wBPG\_jzCJqVas2FAKzsLaDCu9jm8qNYzGFwkW4](https://drive.google.com/open?id=12BE_1wBPG_jzCJqVas2FAKzsLaDCu9jm8qNYzGFwkW4)  
+1. The Jamesian Protograph: A Forensic Reconstruction of Proto-Luke, [**The Jamesian Protograph: A Forensic Reconstruction of Proto-Luke**](../04_Early_Christian_History/The%20Jamesian%20Protograph_%20A%20Forensic%20Reconstruction%20of%20Proto-Luke.md)  
 2. Proto-Luke and Lukan Priority | LukanPriority.com, accessed on January 16, 2026, [https://lukanpriority.com/proto-luke/](https://lukanpriority.com/proto-luke/)  
 3. Jesus Was a Victim of Empire. Acknowledging This Should Transform Christianity. | Truthout, accessed on January 16, 2026, [https://truthout.org/articles/jesus-was-a-victim-of-empire-acknowledging-this-should-transform-christianity/](https://truthout.org/articles/jesus-was-a-victim-of-empire-acknowledging-this-should-transform-christianity/)  
-4. The Divine Human in Ultimates: A Phenomenological and Theological Profile of the Actual Jesus of Love, [https://drive.google.com/open?id=1d1yRts3BtcO3WEmHQZBr-1EpjquvhzPfwkFPipH6Wdo](https://drive.google.com/open?id=1d1yRts3BtcO3WEmHQZBr-1EpjquvhzPfwkFPipH6Wdo)  
+4. The Divine Human in Ultimates: A Phenomenological and Theological Profile of the Actual Jesus of Love, [**The Divine Human in Ultimates: A Phenomenological and Theological Profile of the Actual Jesus of Love**](The%20Divine%20Human%20in%20Ultimates_%20A%20Phenomenological%20and%20Theological%20Profile%20of%20the%20Actual%20Jesus%20of%20Love.md)  
 5. Swedenborg, Jesus, and Divine Bricolage, [https://drive.google.com/open?id=1SVH2lnoujjHr077K6Surjnktt5T-VD9jEkCTAC8Xhg8](https://drive.google.com/open?id=1SVH2lnoujjHr077K6Surjnktt5T-VD9jEkCTAC8Xhg8)  
-6. Epistle — The Divine Marriage and the Expression of the Lord in Ultimates, [https://drive.google.com/open?id=1Xzm4qTl0cOzbn15eBvtagKc933imOnpOcGi\_jVZrAds](https://drive.google.com/open?id=1Xzm4qTl0cOzbn15eBvtagKc933imOnpOcGi_jVZrAds)  
+6. Epistle — The Divine Marriage and the Expression of the Lord in Ultimates, [Epistle — The Divine Marriage and the Expression of the Lord in Ultimates](../00_Framework/Epistle%20-%20The%20Divine%20Marriage%20and%20the%20Expression%20of%20the%20Lord%20in%20Ultimates.md)  
 7. The Angel at Gethsemane | Keepapitchinin, the Mormon History blog, accessed on January 16, 2026, [https://keepapitchinin.org/2019/06/17/the-angel-at-gethsemane/](https://keepapitchinin.org/2019/06/17/the-angel-at-gethsemane/)  
 8. Luke 22:43–44 \- Wikipedia, accessed on January 16, 2026, [https://en.wikipedia.org/wiki/Luke\_22:43%E2%80%9344](https://en.wikipedia.org/wiki/Luke_22:43%E2%80%9344)

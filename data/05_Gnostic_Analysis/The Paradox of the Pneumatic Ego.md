@@ -4,7 +4,7 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 >
 > This document reflects **earlier understanding** on:
-> - **#9** [Resurrection Narrative Evolution](../03_Biblical_Scholarship/Resurrection Narrative Evolution in New Testament.md) — This analysis treats Luke’s “broiled fish” scene as straightforward historical grounding for the “Actual Jesus,” without flagging the textual layering and anti-Docetic polemic of the later Gospel strata.
+> - **#9** [Resurrection Narrative Evolution](../03_Biblical_Scholarship/Resurrection%20Narrative%20Evolution%20in%20New%20Testament.md) — This analysis treats Luke’s “broiled fish” scene as straightforward historical grounding for the “Actual Jesus,” without flagging the textual layering and anti-Docetic polemic of the later Gospel strata.
 >
 > **Summary**: The physical-proof motifs ("flesh and bones", eating fish, touching wounds) are best read as later materializing layers in the tradition; historical grounding should not rely on those motifs as if they were the earliest witness.
 > ---
@@ -249,10 +249,10 @@ The study reveals that the "Proprium" diagnosis is a potent heuristic for decons
 
 #### **Works cited**
 
-1. The Pauline Corpus and the Consummation of the Age, [https://drive.google.com/open?id=132i3GDIMwyJ8VCQpb3\_hpEbLXbqbXbcqZ\_yJ0V5uDXU](https://drive.google.com/open?id=132i3GDIMwyJ8VCQpb3_hpEbLXbqbXbcqZ_yJ0V5uDXU)  
-2. The Apostle of the Archons: A Forensic Validation of the Gnostic Substrate in the Pauline Corpus, [https://drive.google.com/open?id=1XHx8w8GpshSjPAHLh\_58aRTkQqFIKt8U1NcdKP0E1ig](https://drive.google.com/open?id=1XHx8w8GpshSjPAHLh_58aRTkQqFIKt8U1NcdKP0E1ig)  
+1. The Pauline Corpus and the Consummation of the Age, [The Pauline Corpus and the Consummation of the Age](../04_Early_Christian_History/The%20Pauline%20Corpus%20and%20the%20Consummation%20of%20the%20Age.md)  
+2. The Apostle of the Archons: A Forensic Validation of the Gnostic Substrate in the Pauline Corpus, [The Apostle of the Archons_ A Forensic Validation of the Gnostic Substrate in the Pauline Corpus](The%20Apostle%20of%20the%20Archons_%20A%20Forensic%20Validation%20of%20the%20Gnostic%20Substrate%20in%20the%20Pauline%20Corpus.md)  
 3. Divine Bricolage and Stable Revelation, [https://drive.google.com/open?id=1\_BtYNOQMBU22AW1B1iB3l1ShNhmPPiXoZ0DK0aBy-YU](https://drive.google.com/open?id=1_BtYNOQMBU22AW1B1iB3l1ShNhmPPiXoZ0DK0aBy-YU)  
 4. Romans 1:1 Commentaries: Paul, a bond-servant of Christ Jesus ..., accessed on December 27, 2025, [https://biblehub.com/commentaries/romans/1-1.htm](https://biblehub.com/commentaries/romans/1-1.htm)  
 5. 1 Corinthians 15:9 Commentaries: For I am the least of the apostles ..., accessed on December 27, 2025, [https://biblehub.com/commentaries/1\_corinthians/15-9.htm](https://biblehub.com/commentaries/1_corinthians/15-9.htm)  
-6. Paul's Damascus Vision: Scholarly Critique, [https://drive.google.com/open?id=1gieTImFa-R4JbMS2uOXcHY7FjA0NPED1an3GBPxMT4g](https://drive.google.com/open?id=1gieTImFa-R4JbMS2uOXcHY7FjA0NPED1an3GBPxMT4g)  
+6. Paul's Damascus Vision: Scholarly Critique, [Paul's Damascus Vision_ Scholarly Critique](../04_Early_Christian_History/Paul's%20Damascus%20Vision_%20Scholarly%20Critique.md)  
 7. 2 Corinthians 12:9 Commentaries: And He has said to me, "My ..., accessed on December 27, 2025, [https://biblehub.com/commentaries/2\_corinthians/12-9.htm](https://biblehub.com/commentaries/2_corinthians/12-9.htm)

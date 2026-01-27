@@ -181,7 +181,7 @@ Source:.6
 
 #### **Works cited**
 
-1. Swedenborg's Biography: Struggles and Bias, [https://drive.google.com/open?id=1BMQRmFywdqRBiLRE6aSYj7FvGYErNavFmgURGfCOupk](https://drive.google.com/open?id=1BMQRmFywdqRBiLRE6aSYj7FvGYErNavFmgURGfCOupk)  
+1. Swedenborg's Biography: Struggles and Bias, [Swedenborg's Biography: Struggles and Bias](Swedenborg's%20Biography_%20Struggles%20and%20Bias.md)  
 2. A Coherent Framework for Spiritual History: Weaving the Divine Bricolage, [A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage](../00_Framework/A%20Coherent%20Framework%20for%20Spiritual%20History_%20Weaving%20the%20Divine%20Bricolage.md)  
 3. The Resurrection of True Life: A Phenomenological Analysis of the Evolution of Divine Images, the Fall into Language, and the Incarnation of Love, [The Resurrection of True Life_ A Phenomenological Analysis of the Evolution of Divine Images, the Fall into Language, and the Incarnation of Love](The%20Resurrection%20of%20True%20Life_%20A%20Phenomenological%20Analysis%20of%20the%20Evolution%20of%20Divine%20Images,%20the%20Fall%20into%20Language,%20and%20the%20Incarnation%20of%20Love.md)  
 4. THE GOSPEL (PROTO-LUKE): CHAPTER 22 (Greek; includes tomb), [https://drive.google.com/open?id=1up-3CTe6jNjZ7vPLoBGX2WBOenWvJz0S6Irb0ysf-r4](https://drive.google.com/open?id=1up-3CTe6jNjZ7vPLoBGX2WBOenWvJz0S6Irb0ysf-r4)  

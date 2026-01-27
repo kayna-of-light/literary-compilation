@@ -4,7 +4,7 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 > 
 > This document reflects **earlier understanding** on:
-> - **#16** [Göbekli Tepe as Crisis Management](../06_Mythological_Studies/The Architecture of Influx_ A Forensic Audit of the 'Divine Bricolage' Theory and the Deep Trajectory of Correspondential Science.md) — Part III leans on archaeoastronomy (“date stamp/observatory”) framings rather than the crisis-management schematic reading
+> - **#16** [Göbekli Tepe as Crisis Management](../06_Mythological_Studies/The%20Architecture%20of%20Influx_%20A%20Forensic%20Audit%20of%20the%20'Divine%20Bricolage'%20Theory%20and%20the%20Deep%20Trajectory%20of%20Correspondential%20Science.md) — Part III leans on archaeoastronomy (“date stamp/observatory”) framings rather than the crisis-management schematic reading
 > 
 > **Summary**: Current analysis treats Pillar 43 primarily as a correspondential “crisis management” diagram of the Neolithic transition (Stone Library), not a star-map.
 > ---

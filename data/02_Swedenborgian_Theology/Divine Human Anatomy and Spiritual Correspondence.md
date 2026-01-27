@@ -320,6 +320,9 @@ Table 1: Summary of Key Anatomical Correspondences in the Grand Man
 
 #### **Works cited**
 
-1. Divine Human Anatomy and Spiritual Meaning, [https://drive.google.com/open?id=1j9wSXqXZzMrAViJ6fTTdglWvzAfH6QN2elSuLWjjujs](https://drive.google.com/open?id=1j9wSXqXZzMrAViJ6fTTdglWvzAfH6QN2elSuLWjjujs)  
-2. swedenborg\_heaven\_and\_hell.pdf, [https://drive.google.com/open?id=1QgSAhyHE151\_rAMFZnSwIBZj4pkqVv9a](https://drive.google.com/open?id=1QgSAhyHE151_rAMFZnSwIBZj4pkqVv9a)  
-3. A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg, [**A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg**](A%20Library%20of%20Biblical%20Correspondences%20in%20Nature%20and%20Objects%20According%20to%20Emanuel%20Swedenborg.md)
+1. Emanuel Swedenborg, *The Spiritual Diary* (Experientiae Spirituales), Vols. II & IV. [Internet Archive Full Text](https://archive.org/stream/in.ernet.dli.2015.62247/2015.62247.The-Spiritual-Diary-Of-Emanuel-Swedenborg_djvu.txt)  
+2. Emanuel Swedenborg, *Heaven and Hell* (De Coelo et Inferno), 1758.  
+3. *Correspondences of the Bible: Human Body*, Swedenborg Foundation, ISBN 9780877856580. [dokumen.pub](https://dokumen.pub/correspondences-of-the-bible-human-body-the-human-body-9780877856580-9780877851141.html)  
+4. Samuel M. Warren, *A Compendium of the Theological Writings of Emanuel Swedenborg*. [Swedenborg Foundation](https://swedenborg.com/wp-content/uploads/2015/03/SF_Compendium_Warren.pdf)  
+5. Hugo Lj. Odhner, *The Grand Man*. [New Christian Bible Study](https://newchristianbiblestudy.org/bundles/ncbsw/on-deck/english/books/Grand%20Man%20-%20Odhner.html)  
+6. A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg, [**A Library of Biblical Correspondences**](A%20Library%20of%20Biblical%20Correspondences%20in%20Nature%20and%20Objects%20According%20to%20Emanuel%20Swedenborg.md)

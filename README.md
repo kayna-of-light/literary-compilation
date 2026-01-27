@@ -100,7 +100,7 @@ The research organizes into six interconnected domains:
 │   ├── 05_Gnostic_Analysis/        # Gnostic impulse, proprium (5 files)
 │   └── 06_Mythological_Studies/    # Bricolage, proto-myths, Exodus (15 files)
 ├── graph/
-│   ├── knowledge_graph.yaml        # Structured concept graph (214 nodes, 741 connections)
+│   ├── knowledge_graph.yaml        # Knowledge graph data (currently cleared for rebuild)
 │   └── knowledge_graph.md          # Auto-generated readable view
 ├── docs/
 │   ├── GRAPH_STRUCTURE_ANALYSIS_2026-01-08.md  # Comprehensive graph analysis
@@ -115,7 +115,7 @@ The research organizes into six interconnected domains:
 
 ## Knowledge Graph
 
-**Status (January 8, 2026):** 214 nodes, 741 connections, **80% complete**
+**Status (January 27, 2026):** The graph has been intentionally cleared and will be rebuilt.
 
 The project maintains a structured knowledge graph capturing concepts, evidence, and relationships across all domains. Recent updates:
 
@@ -133,6 +133,78 @@ python scripts/graph_utils.py export-md          # Regenerate markdown view
 ```
 
 See [docs/NEXT_STEPS.md](docs/NEXT_STEPS.md) for pending priorities.
+
+## Library PDF Mirror (Google Drive)
+
+This repo includes a utility to render `data/**/*.md` into styled PDFs and mirror the folder structure into a dedicated Google Drive folder:
+
+```bash
+python scripts/mirror_library_to_drive.py --help
+```
+
+Notes:
+- Requires Playwright (Chromium) for high-fidelity HTML/CSS → PDF rendering.
+- Requires Google Drive API credentials.
+
+After installing dependencies, install the Playwright browser runtime once:
+
+```bash
+python -m playwright install chromium
+```
+
+### Login with your Google account (OAuth)
+
+1. Create an OAuth client in Google Cloud Console:
+	- Enable the **Google Drive API**
+	- Create **OAuth client ID** → **Desktop app**
+2. Download the client JSON and place it at:
+	- `secrets/google_drive_oauth_client.json`
+3. Run a small dry-run sync (it will open a browser the first time and cache a token):
+
+```bash
+python scripts/mirror_library_to_drive.py \
+  --auth oauth \
+  --drive-root-id "<FOLDER_ID>" \
+  --limit 3 \
+  --dry-run
+```
+
+The OAuth token is cached at `secrets/google_drive_token.json` (gitignored).
+
+### Optional: store your Drive folder ID locally
+
+To avoid pasting the Drive folder ID every time, you can create a local (gitignored) file:
+
+- `secrets/google_drive.env`
+
+Example:
+
+```env
+GOOGLE_DRIVE_ROOT_ID=1h8efznigy0zn3Y2xG1XTLn06xmtwnXx2
+```
+
+Then you can omit `--drive-root-id` when running the script.
+
+### Service account (alternative)
+
+Use `--auth service-account --service-account-json secrets/service_account.json` and share the Drive folder to the service account email.
+
+### Normalize Deep Research Drive links to internal library links
+
+Some Deep Research–generated documents cite other library documents using Google Drive URLs.
+To make these references stable and repo-native, you can rewrite those Drive links into internal relative links under `data/`.
+
+```bash
+# Dry-run (recommended first)
+python scripts/normalize_internal_links.py --auth oauth --limit 10 --report-json output/link_rewrite_report.json
+
+# Apply to the whole library
+python scripts/normalize_internal_links.py --auth oauth --apply --report-json output/link_rewrite_report.json
+```
+
+Notes:
+- This uses the Drive API to resolve Drive file IDs to names, then matches those names (and link text) to local `data/**/*.md` files.
+- Links are only rewritten when the match is unambiguous; unresolved/ambiguous links are left untouched.
 
 ## Setup
 

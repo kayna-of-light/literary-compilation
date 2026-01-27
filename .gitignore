@@ -2,6 +2,7 @@
 output/*.md
 output/*.txt
 output/*.tex
+output/library_pdf_mirror/
 temp/
 
 # Keep final PDF
@@ -12,6 +13,10 @@ __pycache__/
 *.pyc
 *.pyo
 .conda/
+
+# Local caches / credentials (never commit)
+.cache/
+secrets/
 
 # Logs
 logs/

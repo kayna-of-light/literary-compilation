@@ -122,7 +122,7 @@ Consider the "Normative" or "Volunteer" soul. If a soul incarnates *without* the
 
 ## **5\. The Volunteer Soul and the "Mission" Narrative**
 
-The exclusion of non-cyclic cases obscures a potentially vital aspect of the survival phenomenon: the "Volunteer Soul." The document "Analyzing NDEs Against Soul Path Document" 9 provides a theoretical framework that integrates these "invisible" cases, proposing a "Threefold Path" of the soul that helps categorize the data DOPS might be missing.
+The exclusion of non-cyclic cases obscures a potentially vital aspect of the survival phenomenon: the "Volunteer Soul." The statistical analysis in "Empirical Validation of the Threefold Path Model" 9 provides empirical validation (N=6,753) for a framework that integrates these "invisible" cases, proposing a "Threefold Path" of the soul that helps categorize the data DOPS might be missing.
 
 ### **5.1 The Threefold Taxonomy**
 
@@ -230,7 +230,7 @@ The existence of "Reverse Cases" (intermission memories without past lives) docu
 6. Children who claim previous life memories: A Case Report and Literature Review, accessed on December 29, 2025, [https://www.researchgate.net/publication/384225889\_Children\_who\_claim\_previous\_life\_memories\_A\_Case\_Report\_and\_Literature\_Review](https://www.researchgate.net/publication/384225889_Children_who_claim_previous_life_memories_A_Case_Report_and_Literature_Review)  
 7. Cases of the Reincarnation Type with Memories from the Intermission Between Lives | Request PDF \- ResearchGate, accessed on December 29, 2025, [https://www.researchgate.net/publication/241322354\_Cases\_of\_the\_Reincarnation\_Type\_with\_Memories\_from\_the\_Intermission\_Between\_Lives](https://www.researchgate.net/publication/241322354_Cases_of_the_Reincarnation_Type_with_Memories_from_the_Intermission_Between_Lives)  
 8. Paranormal Aspects of Pre- Existence Memories in Young Children \- UNT Digital Library, accessed on December 29, 2025, [https://digital.library.unt.edu/ark:/67531/metadc948119/m2/1/high\_res\_d/34-2%205.%20Rivas%20cx%202018.pdf](https://digital.library.unt.edu/ark:/67531/metadc948119/m2/1/high_res_d/34-2%205.%20Rivas%20cx%202018.pdf)  
-9. Analyzing NDEs Against Soul Path Document, [https://drive.google.com/open?id=1lZRR2VKCYcam48Ai-wiax1OZjvuQouH9aBoDAeDPqAA](https://drive.google.com/open?id=1lZRR2VKCYcam48Ai-wiax1OZjvuQouH9aBoDAeDPqAA)  
+9. Empirical Validation of the Threefold Path Model: A Statistical Analysis of NDE Soul Origin Markers, [**Empirical Validation of the Threefold Path Model**](Empirical%20Validation%20of%20the%20Threefold%20Path%20Model%20-%20A%20Statistical%20Analysis%20of%20NDE%20Soul%20Origin%20Markers.md)  
 10. Children with Life-between-Life Memories \- researchmap, accessed on December 29, 2025, [https://researchmap.jp/ohkadomasayuki/published\_papers/4488672/attachment\_file.pdf](https://researchmap.jp/ohkadomasayuki/published_papers/4488672/attachment_file.pdf)  
 11. A Same-Family Case of the Reincarnation Type in Japan, accessed on December 29, 2025, [https://ohkado.net/articles/Ohkado\_2016\_same\_family\_case\_Kazuya\_ed.pdf](https://ohkado.net/articles/Ohkado_2016_same_family_case_Kazuya_ed.pdf)  
 12. Cosmic Cradle, Revised Edition: Spiritual Dimensions of Life before Birth \- Google Books, accessed on December 29, 2025, [https://books.google.com/books/about/Cosmic\_Cradle\_Revised\_Edition.html?id=diWQEAAAQBAJ](https://books.google.com/books/about/Cosmic_Cradle_Revised_Edition.html?id=diWQEAAAQBAJ)  

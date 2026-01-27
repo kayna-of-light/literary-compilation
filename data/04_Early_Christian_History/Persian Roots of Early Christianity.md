@@ -92,7 +92,11 @@ The historical and theological through-lines originating in the Persian period c
 ### **The Magi's Quest: A Convergence of Prophetic Traditions**
 
 The "wise men from the East" described in Matthew's Gospel were not, as later tradition would portray them, simply pious astrologers or kings. A rigorous historical analysis reveals them as the inheritors of a formidable institutional legacy. The term *magoi* identifies them as members of the Persian priestly class, an elite group that, by the 1st century CE, held a formal constitutional role as "king-makers" within the Parthian Empire, Rome's great geopolitical rival. Their arrival in Jerusalem was therefore not an act of private piety but a politically charged event. Their inquiry, "Where is he who has been born King of the Jews?", posed by an official delegation from a rival superpower, would have been perceived by the paranoid Roman client-king Herod as a grave threat to his security and authority.  
-The Magi's quest was driven by their "Science of Correspondences," a worldview that sought to read the divine plan by interpreting the signs written in the heavens. The "star" that guided them was almost certainly not a single stellar object but a complex and exceptionally rare astronomical event. Modern astronomical calculations have identified a triple conjunction of the planets Jupiter and Saturn in the constellation of Pisces that occurred in 7 BCE. For the Magi, this event was a celestial proclamation of the highest order, a complete sentence written in the heavens.
+The Magi's quest was driven by their "Science of Correspondences," a worldview that sought to read the divine plan by interpreting the signs written in the heavens.
+
+> **[CORRECTION #18]**: This framing treats the Magi as primary practitioners of "Science of Correspondences." Current synthesis distinguishes the *Bene Qedem* ("Children of the East") as primary carriers of living correspondential perception, with the Magian priesthood as a later institutional layer.
+
+The "star" that guided them was almost certainly not a single stellar object but a complex and exceptionally rare astronomical event. Modern astronomical calculations have identified a triple conjunction of the planets Jupiter and Saturn in the constellation of Pisces that occurred in 7 BCE. For the Magi, this event was a celestial proclamation of the highest order, a complete sentence written in the heavens.
 
 | The Celestial Sign: An Astrological Lexicon (7 BCE) |  |  |
 | :---- | :---- | :---- |

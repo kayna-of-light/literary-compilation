@@ -196,10 +196,10 @@ To make these references stable and repo-native, you can rewrite those Drive lin
 
 ```bash
 # Dry-run (recommended first)
-python scripts/normalize_internal_links.py --auth oauth --limit 10 --report-json output/link_rewrite_report.json
+python scripts/normalize_internal_links.py --auth oauth --limit 10 --report-json temp/link_rewrite_report.json
 
 # Apply to the whole library
-python scripts/normalize_internal_links.py --auth oauth --apply --report-json output/link_rewrite_report.json
+python scripts/normalize_internal_links.py --auth oauth --apply --report-json temp/link_rewrite_report.json
 ```
 
 Notes:

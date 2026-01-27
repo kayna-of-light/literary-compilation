@@ -302,7 +302,7 @@ The directive for future inquiry is clear. We must abandon the horizontal confli
 
 1. A Coherent Framework for Spiritual History: Weavin...  
 2. Swedenborg's Symbolic Human Roles, [Swedenborg's Symbolic Human Roles](../02_Swedenborgian_Theology/Swedenborg's%20Symbolic%20Human%20Roles.md)  
-3. The Forging of a Narrative- A Theological Timeline from Human Origins to the Biblical World, [https://drive.google.com/open?id=1VFl9qlzvNu3jZQvwmYRFhJI8GF1aux-2dBlkZipN\_Oc](https://drive.google.com/open?id=1VFl9qlzvNu3jZQvwmYRFhJI8GF1aux-2dBlkZipN_Oc)  
+3. [A Critical History of Foundational Narratives - From Mesopotamian Myths to the Modern Age](../06_Mythological_Studies/A%20Critical%20History%20of%20Foundational%20Narratives%20-%20From%20Mesopotamian%20Myths%20to%20the%20Modern%20Age.md)  
 4. Proprium et Influx: An Objective Analysis of a Hyp..., [**Proprium et Influx: An Objective Analysis of a Hypothetical Conflict Model against 21st-Century Socio-Political and Scientific Data**](../01_Consciousness_Studies/Proprium%20et%20Influx_%20An%20Objective%20Analysis%20of%20a%20Hypothetical%20Conflict%20Model%20against%2021st-Century%20Socio-Political%20and%20Scientific%20Data.md)  
 5. Swedenborg's Ancient Word and Science, [Swedenborg's Ancient Word and Science](../02_Swedenborgian_Theology/Swedenborg's%20Ancient%20Word%20and%20Science.md)  
 6. Revelation and Bricolage: A Comparative Analysis o..., [**Revelation and Bricolage: A Comparative Analysis of Swedenborgian and Anthropological Models of the Exodus Narrative**](../06_Mythological_Studies/Revelation%20and%20Bricolage_%20A%20Comparative%20Analysis%20of%20Swedenborgian%20and%20Anthropological%20Models%20of%20the%20Exodus%20Narrative.md)  

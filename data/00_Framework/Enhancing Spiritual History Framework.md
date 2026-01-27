@@ -275,7 +275,7 @@ The directive for future inquiry is clear. We must abandon the horizontal confli
 
 1. A Coherent Framework for Spiritual History: Weavin...  
 2. Swedenborg's Symbolic Human Roles, [Swedenborg's Symbolic Human Roles](../02_Swedenborgian_Theology/Swedenborg's%20Symbolic%20Human%20Roles.md)  
-3. [A Critical History of Foundational Narratives - From Mesopotamian Myths to the Modern Age](../06_Mythological_Studies/A%20Critical%20History%20of%20Foundational%20Narratives%20-%20From%20Mesopotamian%20Myths%20to%20the%20Modern%20Age.md)  
+3. [A Critical History of Foundational Narratives - From Mesopotamian Myths to the Modern Age](../06_Mythological_Studies/A%20Critical%20History%20of%20Foundational%20Narratives_%20From%20Mesopotamian%20Myths%20to%20the%20Modern%20Age.md)  
 4. Proprium et Influx: An Objective Analysis of a Hyp..., [**Proprium et Influx: An Objective Analysis of a Hypothetical Conflict Model against 21st-Century Socio-Political and Scientific Data**](../01_Consciousness_Studies/Proprium%20et%20Influx_%20An%20Objective%20Analysis%20of%20a%20Hypothetical%20Conflict%20Model%20against%2021st-Century%20Socio-Political%20and%20Scientific%20Data.md)  
 5. Swedenborg's Ancient Word and Science, [Swedenborg's Ancient Word and Science](../02_Swedenborgian_Theology/Swedenborg's%20Ancient%20Word%20and%20Science.md)  
 6. Revelation and Bricolage: A Comparative Analysis o..., [**Revelation and Bricolage: A Comparative Analysis of Swedenborgian and Anthropological Models of the Exodus Narrative**](../06_Mythological_Studies/Revelation%20and%20Bricolage_%20A%20Comparative%20Analysis%20of%20Swedenborgian%20and%20Anthropological%20Models%20of%20the%20Exodus%20Narrative.md)  
@@ -285,4 +285,4 @@ The directive for future inquiry is clear. We must abandon the horizontal confli
 10. Consciousness as a Selective Pressure: A Scientific and Philosophical Analysis of the Consciousness-Driven Evolution Hypothesis, [**Consciousness as a Selective Pressure: A Scientific and Philosophical Analysis of the Consciousness-Driven Evolution Hypothesis**](../01_Consciousness_Studies/Consciousness%20as%20a%20Selective%20Pressure_%20A%20Scientific%20and%20Philosophical%20Analysis%20of%20the%20Consciousness-Driven%20Evolution%20Hypothesis.md)  
 12. A Comparative Analysis of Non-Religious Christolog..., [**A Comparative Analysis of Non-Religious Christologies: The Battle for the 'Lord in Ultimates'**](../03_Biblical_Scholarship/A%20Comparative%20Analysis%20of%20Non-Religious%20Christologies_%20The%20Battle%20for%20the%20'Lord%20in%20Ultimates'.md)  
 13. [Removed: private material.]
-14. Researching Near-Death Experiences, [Researching Near-Death Experiences](../01_Consciousness_Studies/Researching%20Near-Death%20Experiences.md)
+14. Researching Near-Death Experiences, [Researching Near-Death Experiences](../01_Consciousness_Studies/A%20Phenomenological%20Framework%20of%20the%20Near-Death%20Experience_%20A%20Synthesis%20of%20First-Person%20Accounts.md)

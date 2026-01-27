@@ -234,7 +234,7 @@ From the codices of Nag Hammadi to the channelings of the Ascended Masters and t
 
 #### **Works cited**
 
-1. A Critical History of Foundational Narratives \- From Mesopotamian Myths to the Modern Age, [**A Critical History of Foundational Narratives: From Mesopotamian Myths to the Modern Age**](../06_Mythological_Studies/A%20Critical%20History%20of%20Foundational%20Narratives%20-%20From%20Mesopotamian%20Myths%20to%20the%20Modern%20Age.md)  
+1. A Critical History of Foundational Narratives \- From Mesopotamian Myths to the Modern Age, [**A Critical History of Foundational Narratives: From Mesopotamian Myths to the Modern Age**](../06_Mythological_Studies/A%20Critical%20History%20of%20Foundational%20Narratives_%20From%20Mesopotamian%20Myths%20to%20the%20Modern%20Age.md)  
 2. A Comparative Analysis of Non-Religious Christolog..., [**A Comparative Analysis of Non-Religious Christologies: The Battle for the 'Lord in Ultimates'**](../03_Biblical_Scholarship/A%20Comparative%20Analysis%20of%20Non-Religious%20Christologies_%20The%20Battle%20for%20the%20'Lord%20in%20Ultimates'.md)  
 3. Proprium et Influx: An Objective Analysis of a Hyp..., [**Proprium et Influx: An Objective Analysis of a Hypothetical Conflict Model against 21st-Century Socio-Political and Scientific Data**](../01_Consciousness_Studies/Proprium%20et%20Influx_%20An%20Objective%20Analysis%20of%20a%20Hypothetical%20Conflict%20Model%20against%2021st-Century%20Socio-Political%20and%20Scientific%20Data.md)  
 4. Enhancing Spiritual History Framework, [Enhancing Spiritual History Framework](../00_Framework/Enhancing%20Spiritual%20History%20Framework.md)  

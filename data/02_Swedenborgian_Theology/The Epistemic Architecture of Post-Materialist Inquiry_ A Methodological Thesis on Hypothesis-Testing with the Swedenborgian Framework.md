@@ -181,8 +181,10 @@ The **interpretive overlay** comprises those elements that appear to reflect Swe
 
 - The Limbus—a proposed membrane of natural substances retained after death
 - Spirit influence as complete explanation for past-life memories—a valid observation extended beyond its evidential warrant
-- Biological Christology—the theory that Jesus possessed a divine soul from the Father based on 18th-century embryological theory
+- Biological Christology—the theory that Jesus possessed a divine soul from the Father based on 18th-century embryological theory (**REFUTED in §5.2 below**)
 - Cartesian dualism—the categorical separation of physical and spiritual as distinct substances
+
+> **[CORRECTION #2]** NOTE: The "Biological Christology" listed above reflects 18th-century embryology, NOT spiritual truth. See Section 5.2 for full correction: Jesus was a human being whose ruling love was oriented toward the Divine—not toward self—so the Lord flowed through him without obstruction. The "soul from the Father / body from the mother" framing is factually wrong and theologically misleading.
 
 The distinction between these layers is not arbitrary but emerges from empirical testing. Those elements classified as "observational" consistently generate accurate predictions when tested against consciousness data; those classified as "interpretive" tend to conflict with evidence or require ad hoc modifications.
 

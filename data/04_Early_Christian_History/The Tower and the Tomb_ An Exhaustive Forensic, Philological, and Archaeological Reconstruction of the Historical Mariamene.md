@@ -180,14 +180,14 @@ The historical Mariamene was not a repentant whore, nor merely a passive witness
 
 #### **Works cited**
 
-1. Forensic and Geochemical Investigation of the James Ossuary and the Talpiot Tomb, [Forensic and Geochemical Investigation of the James Ossuary and the Talpiot Tomb](Forensic%20and%20Geochemical%20Investigation%20of%20the%20James%20Ossuary%20and%20the%20Talpiot%20Tomb.md)  
+1. Forensic and Geochemical Investigation of the James Ossuary and the Talpiot Tomb, [Forensic and Geochemical Investigation of the James Ossuary and the Talpiot Tomb](Forensic%20and%20Geochemical%20Investigation%20of%20the%20James%20Ossuary%20and%20the%20Talpiot%20Tomb_%20An%20Integrated%20Analysis%20of%20Provenance%2C%20Epigraphy%2C%20and%20Statistical.md)  
 2. There's Something About Mary . . . Magdalene (Part 2\) \- James Tabor Blog, accessed on December 26, 2025, [https://jamestabor.com/theres-something-about-mary-magdalene-part-2/](https://jamestabor.com/theres-something-about-mary-magdalene-part-2/)  
 3. Is Mary Magdalene a Tower that we have sidelined? \- Psephizo, accessed on December 26, 2025, [https://www.psephizo.com/biblical-studies/is-mary-magdalene-a-tower-that-we-have-sidelined/](https://www.psephizo.com/biblical-studies/is-mary-magdalene-a-tower-that-we-have-sidelined/)  
 4. Mary Magdalene Rises Again – Julie Henkener – Integrating Toward a Wholly Life, accessed on December 26, 2025, [https://juliehenkener.com/2022/10/22/mary-magdalene-rises-again/](https://juliehenkener.com/2022/10/22/mary-magdalene-rises-again/)  
 5. Who was Mary the Magdalene? \- Marg Mowczko, accessed on December 26, 2025, [https://margmowczko.com/mary-the-magdalene/](https://margmowczko.com/mary-the-magdalene/)  
 6. Unravelling the myth of Mary Magdalene \- Broadview Magazine, accessed on December 26, 2025, [https://broadview.org/mary-magdalene-easter-story/](https://broadview.org/mary-magdalene-easter-story/)  
 7. The Dynasty of the Branch: An Exhaustive Bio-Archaeological and Historical Reconstruction of the Davidic Lineage in First-Century Judea, [**The Dynasty of the Branch: An Exhaustive Bio-Archaeological and Historical Reconstruction of the Davidic Lineage in First-Century Judea**](The%20Dynasty%20of%20the%20Branch_%20An%20Exhaustive%20Bio-Archaeological%20and%20Historical%20Reconstruction%20of%20the%20Davidic%20Lineage%20in%20First-Century%20Judea.md)  
-8. Resurrection Narrative Evolution in New Testament, [Resurrection Narrative Evolution in New Testament](../03_Biblical_Scholarship/Resurrection%20Narrative%20Evolution%20in%20New%20Testament.md)  
+8. Resurrection Narrative Evolution in New Testament, [Resurrection Narrative Evolution in New Testament](../03_Biblical_Scholarship/The%20Anatomy%20of%20Ascension_%20A%20Critical-Historical%20and%20Phenomenological%20Reconstruction%20of%20the%20Resurrection%20Narrative%20from%20Pauline%20Pneumatology%20to%20the.md)  
 9. The Bible  
 10. Those Who Minister Out of Their Abundance \- Rick Renner Ministries, accessed on December 26, 2025, [https://renner.org/article/those-who-minister-out-of-their-abundance/](https://renner.org/article/those-who-minister-out-of-their-abundance/)  
 11. Pope Benedict XVI's Encyclical Letter Spe Salvi on Christian Hope, accessed on December 26, 2025, [https://www.centreforoptimism.com/blog/spesalvi](https://www.centreforoptimism.com/blog/spesalvi)  

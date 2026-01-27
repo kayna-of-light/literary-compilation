@@ -251,7 +251,7 @@ The study reveals that the "Proprium" diagnosis is a potent heuristic for decons
 
 1. The Pauline Corpus and the Consummation of the Age, [The Pauline Corpus and the Consummation of the Age](../04_Early_Christian_History/The%20Pauline%20Corpus%20and%20the%20Consummation%20of%20the%20Age.md)  
 2. The Apostle of the Archons: A Forensic Validation of the Gnostic Substrate in the Pauline Corpus, [The Apostle of the Archons_ A Forensic Validation of the Gnostic Substrate in the Pauline Corpus](The%20Apostle%20of%20the%20Archons_%20A%20Forensic%20Validation%20of%20the%20Gnostic%20Substrate%20in%20the%20Pauline%20Corpus.md)  
-3. Divine Bricolage and Stable Revelation, [https://drive.google.com/open?id=1\_BtYNOQMBU22AW1B1iB3l1ShNhmPPiXoZ0DK0aBy-YU](https://drive.google.com/open?id=1_BtYNOQMBU22AW1B1iB3l1ShNhmPPiXoZ0DK0aBy-YU)  
+3. Revelation and Bricolage: A Comparative Analysis of Swedenborgian and Anthropological Models of the Exodus Narrative, [Revelation and Bricolage](../06_Mythological_Studies/Revelation%20and%20Bricolage_%20A%20Comparative%20Analysis%20of%20Swedenborgian%20and%20Anthropological%20Models%20of%20the%20Exodus%20Narrative.md)  
 4. Romans 1:1 Commentaries: Paul, a bond-servant of Christ Jesus ..., accessed on December 27, 2025, [https://biblehub.com/commentaries/romans/1-1.htm](https://biblehub.com/commentaries/romans/1-1.htm)  
 5. 1 Corinthians 15:9 Commentaries: For I am the least of the apostles ..., accessed on December 27, 2025, [https://biblehub.com/commentaries/1\_corinthians/15-9.htm](https://biblehub.com/commentaries/1_corinthians/15-9.htm)  
 6. Paul's Damascus Vision: Scholarly Critique, [Paul's Damascus Vision_ Scholarly Critique](../04_Early_Christian_History/Paul's%20Damascus%20Vision_%20Scholarly%20Critique.md)  

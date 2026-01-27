@@ -14,6 +14,7 @@ What this script does
 Notes
 - By default this is a dry-run. Use `--apply` to write changes.
 - This script does NOT modify the PDF mirroring behavior; it only normalizes Markdown.
+    (If you want a report file, prefer writing it under `temp/` which is gitignored.)
 
 Auth
 - OAuth (recommended): uses cached token in `secrets/google_drive_token.json`

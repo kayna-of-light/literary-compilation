@@ -114,7 +114,7 @@ While the specific *language* of these experiences is Swedenborgian, the *struct
 
 ### **4.1 The Archetypal "Call": Common Denominators of Experience**
 
-A comparative analysis of the author's journey with the "common denominators" of transcendent experiences (found in NDE and "Star Seed" research) reveals a shared, underlying structure :
+A comparative analysis of the author's journey with the "common denominators" of transcendent experiences (found in NDE and "Star Seed" research — Steiger's term for what this framework calls "Volunteer Soul") reveals a shared, underlying structure :
 
 1. **A Memory of Origin:** The "jungle/mountain" *remains* , which felt like "real memories" , directly parallel the "profound sense of connection to... a non-material realm... perceived as one's true 'home'".  
 2. **An Encounter with a Guide:** The "Angel White as Snow" and the guide at the train station parallel the "direct interaction with a benevolent, luminous, and non-physical intelligence" or "Being of Light".  
@@ -141,4 +141,4 @@ The "forward perspective" is that the "new life" now begins. The journey documen
 
 #### **Geciteerd werk**
 
-1\. A Chronicle of Spiritual Awakenings: An Account of Psychic Dreams and Visions, 2\. Analyzing Spiritual Journey and Purpose, 3\. Volunteer Soul Incarnation Profile Building, 4\. Swedenborgian Spiritual Journey Analysis, 5\. Swedenborg's Divine Mission Activation, 6\. The Threefold Path of the Soul: A Synthesized Model of Life, Death, and Purpose, 7\. A Phenomenological Comparison of the 'Star Seed' P...,
+1\. A Chronicle of Spiritual Awakenings: An Account of Psychic Dreams and Visions, 2\. Analyzing Spiritual Journey and Purpose, 3\. Volunteer Soul Incarnation Profile Building, 4\. Swedenborgian Spiritual Journey Analysis, 5\. Swedenborg's Divine Mission Activation, 6\. The Threefold Path of the Soul: A Synthesized Model of Life, Death, and Purpose, 7\. [Childhood Activation Experiences and Mission-Based NDEs: A Phenomenological Comparison](../01_Consciousness_Studies/Childhood%20Activation%20Experiences%20and%20Mission-Based%20NDEs_%20A%20Phenomenological%20Comparison.md),

@@ -212,4 +212,4 @@ This is not the "weakness" of a failed god, but the "strength" of the Refiner’
 
 #### **Geciteerd werk**
 
-1\. The Canonical Gospels: A Synthesis of Historical-Critical Scholarship, https://drive.google.com/open?id=1GqGXSdaM\_vwYpNtV1KdzYgzrGkUvnWUbPXhDxd61iNw 2\. The Apostle of the Archons: A Forensic Validation of the Gnostic Substrate in the Pauline Corpus, https://drive.google.com/open?id=1XHx8w8GpshSjPAHLh\_58aRTkQqFIKt8U1NcdKP0E1ig 3\. [Quranic Isa vs. Early Christianity](../04_Early_Christian_History/Quranic%20Isa%20vs.%20Early%20Christianity.md)
+1\. [The Canonical Gospels: A Synthesis of Historical-Critical Scholarship](The%20Canonical%20Gospels_%20A%20Synthesis%20of%20Historical-Critical%20Scholarship.md) 2\. [The Apostle of the Archons: A Forensic Validation of the Gnostic Substrate in the Pauline Corpus](../05_Gnostic_Analysis/The%20Apostle%20of%20the%20Archons_%20A%20Forensic%20Validation%20of%20the%20Gnostic%20Substrate%20in%20the%20Pauline%20Corpus.md) 3\. [Quranic Isa vs. Early Christianity](../04_Early_Christian_History/Quranic%20Isa%20vs.%20Early%20Christianity.md)

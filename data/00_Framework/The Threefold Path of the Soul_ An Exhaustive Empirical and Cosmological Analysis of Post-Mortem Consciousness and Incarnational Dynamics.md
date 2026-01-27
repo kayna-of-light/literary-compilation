@@ -233,4 +233,4 @@ This framework moves beyond the simplistic binary of "reincarnation vs. heaven" 
 
 #### **Geciteerd werk**
 
-1\. Empirical Validation of the Threefold Path Model: A Statistical Analysis of NDE Soul Origin Markers, [**Empirical Validation of the Threefold Path Model**](../01_Consciousness_Studies/Empirical%20Validation%20of%20the%20Threefold%20Path%20Model%20-%20A%20Statistical%20Analysis%20of%20NDE%20Soul%20Origin%20Markers.md) 2\. The Threefold Path of the Soul: A Synthesized Cosmology of Life, Death, and Purpose, https://drive.google.com/open?id=1qqzoZrWdXdBqEWdJYEgrlhHJy3E6mGsz4GLfBD9qWgI
+1\. Empirical Validation of the Threefold Path Model: A Statistical Analysis of NDE Soul Origin Markers, [**Empirical Validation of the Threefold Path Model**](../01_Consciousness_Studies/Empirical%20Validation%20of%20the%20Threefold%20Path%20Model%20-%20A%20Statistical%20Analysis%20of%20NDE%20Soul%20Origin%20Markers.md) 2\. [The Threefold Path of the Soul: A Synthesized Cosmology of Life, Death, and Purpose](The%20Threefold%20Path%20of%20the%20Soul_%20A%20Synthesized%20Cosmology%20of%20Life,%20Death,%20and%20Purpose.md)

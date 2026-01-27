@@ -229,7 +229,7 @@ Plato’s work is thus the "Greek Bundahišn"—a translation of the Ancient Wor
 #### **Works cited**
 
 1. The Lithic Palimpsest: The Dāmdād Nask, the Alexandrian Translation, and the Platonic Reconstruction of the Ancient Word, [**The Lithic Palimpsest: The *Dāmdād Nask*, the Alexandrian Translation, and the Platonic Reconstruction of the Ancient Word**](The%20Lithic%20Palimpsest_%20The%20Dāmdād%20Nask,%20the%20Alexandrian%20Translation,%20and%20the%20Platonic%20Reconstruction%20of%20the%20Ancient%20Word.md)  
-2. Tracing Ancient Correspondence Knowledge, [Tracing Ancient Correspondence Knowledge](../02_Swedenborgian_Theology/Tracing%20Ancient%20Correspondence%20Knowledge.md)  
+2. Tracing Ancient Correspondence Knowledge, [Tracing Ancient Correspondence Knowledge](../02_Swedenborgian_Theology/The%20Resonant%20Cosmos_%20A%20Historical%20Reconstruction%20of%20the%20Science%20of%20Correspondences%20from%20the%20Magian%20Archives%20to%20the%20New%20Jerusalem.md)  
 3. Bricolage: A Novel Archaeological Perspective on Complex Materialities \- OpenEdition Journals, accessed on January 13, 2026, [https://journals.openedition.org/pm/1980?lang=en](https://journals.openedition.org/pm/1980?lang=en)  
 4. Correspondentia \- Correspondences, accessed on January 13, 2026, [http://correspondencesjournal.com/wp-content/uploads/2017/12/16402\_20537158\_lawrence.pdf](http://correspondencesjournal.com/wp-content/uploads/2017/12/16402_20537158_lawrence.pdf)  
 5. Validating Swedenborg's Correspondences, [Validating Swedenborg's Correspondences](../02_Swedenborgian_Theology/Validating%20Swedenborg's%20Correspondences.md)  

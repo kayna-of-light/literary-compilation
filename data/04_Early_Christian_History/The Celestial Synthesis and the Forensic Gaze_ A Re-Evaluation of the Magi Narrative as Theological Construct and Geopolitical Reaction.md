@@ -94,7 +94,9 @@ However, the text of Matthew describes a star that behaves in physically impossi
 
 > **[CRITICAL ANALYSIS #6]** This section incorrectly states Daniel was appointed *Rab-mag*. The biblical text assigns Daniel the titles *Rab-signīn* (Chief Prefect, Dan 2:48) and *Rab-hartummin* (Chief of Magicians, Dan 4:9). The title *Rab-mag* appears only in Jeremiah 39:3, 39:13 for Nergal-sharezer, not Daniel. Greek translations rendered these distinct titles generically as *magoi*, causing later conflation.
 
-To make the Magi's interest in a Jewish king plausible within the narrative, the author employs the figure of Daniel. In the court tales (Daniel 1-6), Daniel is appointed **Rab-mag** (Chief of the Magi).
+To make the Magi's interest in a Jewish king plausible within the narrative, the author employs the figure of Daniel. In the court tales (Daniel 1-6), Daniel is appointed *Rab-signīn* (Chief Prefect) over the wise men.
+
+> **[CRITICAL ANALYSIS #6]** NOTE: The original text used *Rab-mag*. Daniel was appointed *Rab-signīn* (Dan 2:48), not *Rab-mag* (which refers to Nergal-sharezer in Jeremiah 39).
 
 * **The Literary Lineage:** This creates a specific lineage. The Magi are not random pagan sorcerers stumbling upon Jesus; they are the spiritual descendants of Daniel. The narrative implies they possess the prophecies of Daniel (specifically the "Seventy Weeks" and the "Son of Man").  
 * **The Apologetic Clamp:** This connects the "wisdom of the East" directly to the Hebrew prophets. It ensures that the Gentile revelation (the Star) remains subordinate to, or at least harmonious with, the Jewish revelation (Daniel/Micah). The Magi represent the "Science of Correspondences" submitting to the "Word of God".
@@ -169,7 +171,7 @@ The user asks to "kill this struggle" and show "what is most likely to have occu
    * He inverts the object: They worship Jesus, not Nero.  
    * He employs the **Science of Correspondences** (Jupiter/Saturn 7 BCE memories or astronomical tables) to provide the "Star" mechanism.  
    * He integrates the **Balaam** and **Moses** traditions to anchor the story in Torah.  
-   * He uses the **Danielic** bridge (Rab-mag) to authorize the Magi's presence.
+   * He uses the **Danielic** bridge (Daniel's *Rab-signīn* role as Chief Prefect over the wise men) to authorize the Magi's presence.
 
 ### **6.2 Conclusion: The Narrative as Theological Reality**
 

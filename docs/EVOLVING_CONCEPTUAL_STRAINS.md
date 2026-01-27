@@ -35,9 +35,9 @@ This document catalogs conceptual strains where understanding has evolved over t
 - [x] #3 Reincarnation Model (1 doc) — ✅ Done: Single claim at §5.3 L128 has [EXTENSION #3] at L132
 - [x] #5 Most Ancient Church (6 docs) — ✅ Done: All 6 docs verified; 3 new inline notes added to Lithic Archive
 - [x] #8 NDE Cultural Variation (1 doc) — ✅ Done
-- [ ] #9 Resurrection Narratives (2 docs) — Needs adjacent review
-- [ ] #11 Correspondence as Ontology (6 docs) — Needs adjacent review
-- [ ] #13 Bicameral Mind (1 doc) — Needs adjacent review
+- [x] #9 Resurrection Narratives (2 docs) — ✅ Done
+- [x] #11 Correspondence as Ontology (6 docs) — ✅ Done
+- [x] #13 Bicameral Mind (1 doc) — ✅ Done
 - [ ] #15 Magi Narrative (3 docs) — Needs adjacent review
 - [ ] #16 Göbekli Tepe (2 docs) — Needs adjacent review
 - [ ] #17 Virgin Birth (1 doc) — Needs adjacent review

@@ -401,9 +401,43 @@ def _resolve_only_paths(data_root: Path, only: list[str]) -> list[Path]:
     return resolved
 
 
+# Windows MAX_PATH is 260 characters; we leave margin for safety
+MAX_PATH_LENGTH = 255
+
+
+def _truncate_filename_for_path(full_path: Path) -> Path:
+    """Truncate filename if full path exceeds MAX_PATH_LENGTH.
+    
+    Keeps the directory structure intact and only truncates the filename stem,
+    preserving the extension. Adds a hash suffix to maintain uniqueness.
+    """
+    path_str = str(full_path)
+    if len(path_str) <= MAX_PATH_LENGTH:
+        return full_path
+    
+    # Calculate how much we need to trim
+    excess = len(path_str) - MAX_PATH_LENGTH
+    stem = full_path.stem
+    suffix = full_path.suffix
+    parent = full_path.parent
+    
+    # We'll add a short hash (8 chars) + underscore to maintain uniqueness
+    import hashlib
+    hash_suffix = "_" + hashlib.md5(stem.encode()).hexdigest()[:8]
+    
+    # New stem length: original stem minus excess minus hash suffix length
+    new_stem_len = len(stem) - excess - len(hash_suffix)
+    if new_stem_len < 20:
+        new_stem_len = 20  # Keep at least 20 chars for readability
+    
+    new_stem = stem[:new_stem_len] + hash_suffix
+    return parent / (new_stem + suffix)
+
+
 def md_to_pdf_path(md_path: Path, data_root: Path, output_root: Path) -> Path:
     rel = md_path.relative_to(data_root)
-    return (output_root / rel).with_suffix(".pdf")
+    pdf_path = (output_root / rel).with_suffix(".pdf")
+    return _truncate_filename_for_path(pdf_path)
 
 
 def build_pdfs(
@@ -447,6 +481,7 @@ def build_pdfs(
         if up_to_date and not force:
             continue
 
+        _safe_mkdir(pdf_path.parent)  # Ensure output directory exists
         html = render_markdown_to_html(md_path, css_text=css_text, template_text=template_text)
         asyncio.run(html_to_pdf(html, pdf_path))
 
@@ -535,6 +570,7 @@ def stream_build_and_upload(
             print(f"{status_prefix} - cached")
         else:
             print(f"{status_prefix} - building...", end=" ", flush=True)
+            _safe_mkdir(pdf_path.parent)  # Ensure output directory exists
             html = render_markdown_to_html(md_path, css_text=css_text, template_text=template_text)
             asyncio.run(html_to_pdf(html, pdf_path))
             index[rel] = BuildRecord(md_sha256=md_sha, css_sha256=css_sha, template_sha256=template_sha)

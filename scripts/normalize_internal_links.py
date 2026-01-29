@@ -110,7 +110,7 @@ def _drive_service_from_service_account(service_account_json: Path):
     from google.oauth2.service_account import Credentials
     from googleapiclient.discovery import build
 
-    scopes = ["https://www.googleapis.com/auth/drive.readonly"]
+    scopes = ["https://www.googleapis.com/auth/drive"]
     creds = Credentials.from_service_account_file(str(service_account_json), scopes=scopes)
     return build("drive", "v3", credentials=creds, cache_discovery=False)
 
@@ -121,7 +121,7 @@ def _drive_service_from_user_oauth(oauth_client_json: Path, token_json: Path):
     from googleapiclient.discovery import build
     from google_auth_oauthlib.flow import InstalledAppFlow
 
-    scopes = ["https://www.googleapis.com/auth/drive.readonly"]
+    scopes = ["https://www.googleapis.com/auth/drive"]
 
     creds: Any = None
     if token_json.exists():

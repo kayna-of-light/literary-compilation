@@ -1,4 +1,4 @@
-# The Theological Correction: A Comprehensive Analysis of Disney's *Snow White* (2025) as Restoration of the Vertical
+# The Mirror and the Star: A Comparative Pneumatology of Disney's *Wish* and *Snow White* (2025)
 
 ## I. Introduction: The Schism of Spiritual Physics in the Centennial Era
 

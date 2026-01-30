@@ -180,6 +180,33 @@ def resolve_target_rel(
     if docs and len(docs) == 1:
         return docs[0].rel
 
+    # Fallback: prefix matching for Drive files with random suffixes (e.g., _abc78239)
+    # Strip trailing random suffix pattern (underscore + alphanumeric)
+    key_stripped = re.sub(r"_[a-z0-9]{6,10}$", "", key)
+    if key_stripped != key:
+        docs = by_title.get(key_stripped)
+        if docs and len(docs) == 1:
+            return docs[0].rel
+        docs = by_stem.get(key_stripped)
+        if docs and len(docs) == 1:
+            return docs[0].rel
+
+    # Fallback: find unique prefix match (Drive filename is prefix of local title)
+    # This handles cases where local file has more info (e.g., "Johnny Appleseed")
+    prefix_matches: list[LocalDoc] = []
+    min_prefix_len = 30  # Require at least 30 chars to avoid false matches
+    if len(key) >= min_prefix_len:
+        for title_key, docs in by_title.items():
+            if title_key.startswith(key[:min_prefix_len]) and len(docs) == 1:
+                prefix_matches.extend(docs)
+        # Also check if local title is prefix of Drive key (local shorter than Drive)
+        for title_key, docs in by_title.items():
+            if key.startswith(title_key[:min_prefix_len]) and len(docs) == 1:
+                if docs[0] not in prefix_matches:
+                    prefix_matches.append(docs[0])
+    if len(prefix_matches) == 1:
+        return prefix_matches[0].rel
+
     # If ambiguous, refuse to guess.
     return None
 

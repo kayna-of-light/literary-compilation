@@ -218,6 +218,21 @@ Myth formation, ANE parallels, Exodus narrative analysis:
 - `Zoroastrianism and Enoch's Bulls.md`
 - `Analyzing Archangel Development Across Religions.md`
 
+### `07_Disney_Pneumatology/` — Cultural Transmission, Animation Theology (12 files)
+Transmission of Swedenborgian correspondences through Walt Disney Studio:
+- `The Animating Spirit...` — Exhaustive analysis of correspondences in Disney films
+- `The Apple and the Angel...` — Johnny Appleseed's Swedenborgian theology
+- `The Carriers of the Invisible...` — Personnel history of Swedenborgian thought at Disney
+- `The Diffracted Light...` — From Universal Correspondence to Cultural Metaphor
+- `The Invisible Influx...` — Structural persistence of Swedenborgian thought
+- `The Inverted Influx...` — Profanation in Disney's *Wish*
+- `The Mirror and the Star...` — Comparative pneumatology of *Wish* vs *Snow White* (2025)
+- `The Vertical Mirror...` — Swedenborgian adherence in *Snow White* (2025)
+- `The True Wish...` — Theological exegesis of "Waiting on a Wish"
+- `Walt Disney's Swedenborgian Connections`
+- `Snow White's Apple Orchard Symbolism.md`
+- `Snow White's Theological Correction.md`
+
 ---
 
 ## Editorial Guidelines
@@ -891,6 +906,7 @@ New documents should be moved to appropriate `data/` subdirectory:
 | James, Paul, early church | `data/04_Early_Christian_History/` |
 | Gnostic analysis, proprium | `data/05_Gnostic_Analysis/` |
 | Myth, bricolage, ANE parallels | `data/06_Mythological_Studies/` |
+| Disney, animation theology, cultural transmission | `data/07_Disney_Pneumatology/` |
 
 Documents in `data/unclassified/` should be classified and moved before or during processing.
 Documents in `data/**/reprocess_needed/` are staging copies for re-processing; handle them like `unclassified/` by reprocessing, classifying, and moving them back to the correct domain folder during processing. These have some nodes already but may also miss the full chain of nodes in the graph, the extraction is incomplete and connections still have to be established.
@@ -1074,7 +1090,8 @@ literary-compilation/
 │   ├── 03_Biblical_Scholarship/   # HCM, Gospels, textual analysis
 │   ├── 04_Early_Christian_History/# James, Paul, Magi
 │   ├── 05_Gnostic_Analysis/       # Gnostic impulse, proprium
-│   └── 06_Mythological_Studies/   # Bricolage, proto-myths
+│   ├── 06_Mythological_Studies/   # Bricolage, proto-myths
+│   └── 07_Disney_Pneumatology/    # Animation theology, cultural transmission
 ├── graph/
 │   ├── knowledge_graph.yaml       # Primary graph data (YAML)
 │   └── knowledge_graph.md         # Auto-generated view (do not edit)

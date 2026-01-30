@@ -24,6 +24,10 @@ metadata:
   - id: CROSS
     name: Cross-Domain
     description: Integrations spanning multiple domains
+  - id: DISP
+    name: Disney Pneumatology
+    description: Transmission of Swedenborgian correspondences through Walt Disney
+      Studio; animation as spiritual physics; cultural vastation and restoration
   node_types:
     foundational: Axiomatic domain anchors tested by coherence and fruits
     concept: Stable framework constructs derived from foundational premises

@@ -218,8 +218,8 @@ Myth formation, ANE parallels, Exodus narrative analysis:
 - `Zoroastrianism and Enoch's Bulls.md`
 - `Analyzing Archangel Development Across Religions.md`
 
-### `07_Disney_Pneumatology/` — Cultural Transmission, Animation Theology (12 files)
-Transmission of Swedenborgian correspondences through Walt Disney Studio:
+### `07_Cultural_Pneumatology/` — Cultural Transmission of Correspondential Thought (12+ files)
+Transmission of Swedenborgian correspondences through literature and popular culture, including Walt Disney Studio, Hans Christian Andersen, and the Brothers Grimm:
 - `The Animating Spirit...` — Exhaustive analysis of correspondences in Disney films
 - `The Apple and the Angel...` — Johnny Appleseed's Swedenborgian theology
 - `The Carriers of the Invisible...` — Personnel history of Swedenborgian thought at Disney
@@ -906,7 +906,7 @@ New documents should be moved to appropriate `data/` subdirectory:
 | James, Paul, early church | `data/04_Early_Christian_History/` |
 | Gnostic analysis, proprium | `data/05_Gnostic_Analysis/` |
 | Myth, bricolage, ANE parallels | `data/06_Mythological_Studies/` |
-| Disney, animation theology, cultural transmission | `data/07_Disney_Pneumatology/` |
+| Cultural transmission, Disney, Andersen, Grimm | `data/07_Cultural_Pneumatology/` |
 
 Documents in `data/unclassified/` should be classified and moved before or during processing.
 Documents in `data/**/reprocess_needed/` are staging copies for re-processing; handle them like `unclassified/` by reprocessing, classifying, and moving them back to the correct domain folder during processing. These have some nodes already but may also miss the full chain of nodes in the graph, the extraction is incomplete and connections still have to be established.
@@ -1091,7 +1091,7 @@ literary-compilation/
 │   ├── 04_Early_Christian_History/# James, Paul, Magi
 │   ├── 05_Gnostic_Analysis/       # Gnostic impulse, proprium
 │   ├── 06_Mythological_Studies/   # Bricolage, proto-myths
-│   └── 07_Disney_Pneumatology/    # Animation theology, cultural transmission
+│   └── 07_Cultural_Pneumatology/  # Disney, Andersen, Grimm, cultural transmission
 ├── graph/
 │   ├── knowledge_graph.yaml       # Primary graph data (YAML)
 │   └── knowledge_graph.md         # Auto-generated view (do not edit)

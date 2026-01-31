@@ -2,7 +2,7 @@
 
 > **Auto-generated from `knowledge_graph.yaml`** — Edit the YAML file, not this document.
 
-*Last exported: 2026-01-27 10:18*
+*Last exported: 2026-01-31 08:30*
 
 ---
 
@@ -50,5 +50,10 @@
 
 ### Cross-Domain
 *Integrations spanning multiple domains*
+
+*No nodes in this domain yet.*
+
+### Cultural Pneumatology
+*Transmission of Swedenborgian correspondences through literature and popular culture; Disney, Andersen, Grimm; animation as spiritual physics; cultural vastation and restoration*
 
 *No nodes in this domain yet.*

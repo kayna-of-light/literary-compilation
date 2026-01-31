@@ -207,7 +207,29 @@ In *The Bell*, two paths lead to the great Bell (God): the path of the King (tra
 
 In *Ole the Tower Keeper*, the protagonist looks down on the world from a church tower, observing the "degrees" of humanity. He describes "glasses" of different toasts, which contain various spirits—from health to the devil.34 This categorization of human states into distinct vessels or "degrees" reflects the Swedenborgian habit of classifying spirits and states of mind. Ole serves as the detached, Swedenborgian seer, analyzing the spiritual content of the chaotic city below.
 
-## **VIII. Conclusion: The Fairy Tale as Theological Vessel**
+## **VIII. Coda: The Afterlife of Andersen's Cosmology in Popular Culture**
+
+A common critique holds that popular adaptations of Andersen's tales—particularly those by Walt Disney Studios—strip away the theological substance. This critique requires significant qualification.
+
+Disney's *The Little Mermaid* (1989) preserves the spiritual mechanics even while translating them for a different audience:
+
+- **Ariel's grotto** of human artifacts functions as **remains**—spiritual goods stored in the interior that maintain connection to higher states
+- Her **recognition of the storm** and rescue of the prince enacts **spiritual resurrection**
+- **Triton's rejection** of the surface world depicts the **natural mind rejecting the spiritual**
+- **Ariel's bargain with Ursula** represents reliance on **self-intelligence**—attempting to achieve spiritual states through one's own power
+- Her **loss of voice** corresponds to the loss of the **power of truth**, which cannot be self-generated
+- The **silent period** with the prince constitutes **vastation**—the regenerating soul feeling mute, no longer perceiving the Lord
+- The **confrontation with Ursula** dramatizes the rejection of the **proprium**
+- **Triton's final granting of legs** (not Ursula's magic) represents proper **conjunction**—the natural degree granting what the spiritual wills, through the ruling principle properly ordered
+- The **conjugial love ending** is not simplification but the proper terminus: Will and Understanding united
+
+What genuinely constitutes a departure from Andersen's framework is not simplification but **inversion**. Certain later productions (notably *Wish*, 2023) do not merely translate the mechanics for modern audiences but systematically reverse the vertical causality into a Gnostic counter-theology: the authority figure becomes a demiurge, wishes are inherently good and stolen by oppressors, and the protagonist's power is self-sourced rather than received through influx. This is not adaptation but profanation—the active inversion of the spiritual framework rather than its translation into accessible form.
+
+Recognizing which adaptations preserve Andersen's cartography—even in translated form—from those that invert it entirely is essential for understanding the ongoing cultural transmission of correspondential thought.
+
+---
+
+## **IX. Conclusion: The Fairy Tale as Theological Vessel**
 
 Hans Christian Andersen was not merely a spinner of yarns for the nursery; he was a vernacular theologian of the Romantic age. His works constitute a coherent engagement with the metaphysical problems of his time, structured by the architectonics of Emanuel Swedenborg.
 
@@ -218,7 +240,9 @@ The analysis demonstrates that:
 3. **Discrete Degrees Define the Narrative Arc:** The movement in Andersen’s tales is vertical—from the mud/sea (Natural) to the air/earth (Spiritual) to the sun/stars (Celestial). This ascent requires a transformation of nature, not just a change of location.  
 4. **The Proprium is the Antagonist:** Whether it is the Shadow, the Snow Queen’s mirror, or Inger’s shoes, the villain in Andersen’s cosmology is always the Selfhood separated from the Divine.
 
-By integrating the "Scientific Theology" of Swedenborg with the folk tradition, Andersen created a new mythology for the modern age—one where the struggle for immortality is fought not with swords, but with the quiet, persistent labor of the heart. The "Disneyfication" of his work, which strips away the soul-seeking and the pain of vastation, lobotomizes the stories, removing the very spiritual skeleton that allows them to stand. Restoring the Swedenborgian context reveals Andersen’s true stature: a cartographer of the invisible, guiding the reader through the perilous geography of the human soul.
+By integrating the "Scientific Theology" of Swedenborg with the folk tradition, Andersen created a new mythology for the modern age—one where the struggle for immortality is fought not with swords, but with the quiet, persistent labor of the heart.
+
+Restoring the Swedenborgian context reveals Andersen's true stature: a cartographer of the invisible, guiding the reader through the perilous geography of the human soul.
 
 ### **Table 2: Comparative Analysis of Swedenborgian Concepts in Andersen’s Tales**
 

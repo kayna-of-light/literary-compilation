@@ -47,7 +47,7 @@ The most fundamental characteristic of the natural world in Swedenborgian physic
 * **Genuine Life:** Life, in the proper sense, corresponds to **Love** and **Wisdom** flowing from the Divine.  
 * **Apparent Life:** The natural mind appears alive because it is animated by "lusts" (evil loves) or "scientifics" (facts), but without the connection to Divine Love, this activity is merely the "galvanization of a corpse."
 
-The "Natural Unregenerate Mind" is the mind that has confirmed itself in this state of death. It rejects the Influx of the Spiritual Sun and lives solely by the light of the "dead" Natural Sun (self-love and nature-worship). It is a "vessel" that refuses to be filled, remaining a **"dark valley"** or a **"dry wilderness"**.2 This state is further elucidated in the documents of Stichting Sarfath, which describe the unregenerate mind as one that lacks spiritual "knowledge" (Hosea 4:6), resulting in a "flat" existence where individuals are "without life of their own" because they are submerged in the group identity or material concerns.
+The "Natural Unregenerate Mind" is the mind that has confirmed itself in this state of death. It rejects the Influx of the Spiritual Sun and lives solely by the light of the "dead" Natural Sun (self-love and nature-worship). It is a "vessel" that refuses to be filled, remaining a **"dark valley"** or a **"dry wilderness"**.2 This is the mind that lacks spiritual "knowledge" (Hosea 4:6), resulting in a "flat" existence where the individual is "without life of their own" because they are submerged in group identity or material concerns.
 
 ### **3.2 The Cartography of Flatness: Valleys and Plains**
 
@@ -116,14 +116,6 @@ The desk is defined by its **Flatness**. It provides a horizontal plane for the 
 The very existence of the "Writing Desk" is a testament to the **Unregenerate State**. According to 3, early humanity (Paleolithic/Shasu) possessed **"Internal Respiration"** and direct **Perception**. They had no need for books or desks because "the world itself was their book".3 They lived in direct correspondence. The "Fall" was the loss of this direct perception (the breakdown of the Bicameral Mind). This necessitated the invention of **Writing** and **Doctrine**—external, "dead" codes to preserve the fading wisdom.3
 
 The Writing Desk is the **prosthetic** of the fallen mind. It is the tool we use because we can no longer *hear* the voice of God in the wind. It is the symbol of the **mediated**, **externalized**, and **flat** mode of cognition that defines the "Ancient Church" (Silver Age) and the subsequent "Jewish Church".3 Thus, the Writing Desk is **like** the Raven because it is the **inanimate embodiment** of the **flat, dead, externalized mind**.
-
-### **5.4 The "Sarfath" Distinction: The Desk as Confusion**
-
-The corporate profile of Stichting Sarfath provides a modern, applied example of this correspondence. The document explicitly uses the riddle to explain the confusion between different entities sharing the name "Sarfath" (a biblical town). It states that while they share a name, they are as distinct as a raven and a writing desk.
-
-* **The Raven (Entity 1):** Represents the "living" mission or the active, perhaps "darker" or more complex reality of operations in the Arab world.  
-* **The Writing Desk (Entity 2):** Represents the "flat," bureaucratic, or static entity.  
-  The document uses the "natural unregenerate mind" as the target of its educational mission, aiming to fill the "void" of knowledge. This reinforces the correspondence: the unregenerate mind is a state of confusion (Raven/Desk indistinction) and emptiness (lack of knowledge) that requires the "Word" (Regeneration) to fix.
 
 ## ---
 

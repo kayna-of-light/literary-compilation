@@ -39,13 +39,13 @@ While Graham’s direct membership in the Swedenborgian church is not documented
 | **Squash and Stretch** | **Organic Correspondence** | Matter is malleable to the spirit; the body distorts to reflect the intensity of the emotion. |
 | **Pathetic Fallacy (Rain when sad)** | **Doctrine of Correspondences** | The natural environment is a mirror of the spiritual state of the inhabitants. |
 
-## **III. The Smoking Gun: Hal Adelquist and the Johnny Appleseed Incident**
+## **III. The Adelquist Correspondence: The Johnny Appleseed Incident**
 
 If Graham provided the implicit structure, the production of *The Legend of Johnny Appleseed* (1948) provided the explicit confirmation. This film serves as the "Rosetta Stone" for decoding the studio’s theological commitments. The theory of "unconscious influence" collapses when confronted with the production history of this film, where the studio encountered a historical figure who was an explicit, proselytizing Swedenborgian missionary.
 
 ### **3.1 The Gatekeeper: Hal Adelquist's Tragic Trajectory**
 
-**Hal Adelquist** (1914–1981) was a pivotal figure in the Disney hierarchy during the Golden and Silver Ages. Born in Utah to a family of Swedish immigrants (a demographic often correlated with Lutheran or Swedenborgian heritage), Adelquist joined Disney in 1932 immediately after graduating from Los Angeles High School.6 He rose rapidly, serving as an assistant director on *Snow White and the Seven Dwarfs* (1937) and eventually becoming the Story Department Manager and Personnel Manager.6
+**Hal Adelquist** (1914–1981) was a pivotal figure in the Disney hierarchy during the Golden and Silver Ages. Born in Utah to a family of Swedish immigrants, Adelquist joined Disney in 1932 immediately after graduating from Los Angeles High School.6 He rose rapidly, serving as an assistant director on *Snow White and the Seven Dwarfs* (1937) and eventually becoming the Story Department Manager and Personnel Manager.6 (Note: His Swedish immigrant background is suggestive given Swedenborg's Swedish origin and the sect's historical strength in Swedish-American communities, but this demographic correlation is not evidence of personal Swedenborgian affiliation.)
 
 Adelquist was the liaison between Walt Disney and the "Nine Old Men," a role that required him to translate Walt's intuitive, often inarticulate vision into actionable artistic mandates.6 However, his career ended in tragedy. Following his work as production supervisor on *The Mickey Mouse Club*, he resigned in 1956 due to exhaustion and "shot nerves." His life spiraled into alcoholism and homelessness; he was discovered panhandling in New York City in 1977 before dying in obscurity in Long Beach.9
 
@@ -53,7 +53,7 @@ Despite his tragic end, Adelquist’s tenure as Story Department Manager (roughl
 
 ### **3.2 The Florence Murdoch Correspondence**
 
-The definitive evidence of "conscious gatekeeping" is the archival correspondence between Adelquist and **Florence Murdoch**. Murdoch was not merely a fan; she was the librarian of the Cincinnati Church of the New Jerusalem and a fierce guardian of the memory of John Chapman (Johnny Appleseed), who was a historical Swedenborgian missionary.8
+The strongest evidence for "conscious gatekeeping" is the archival correspondence between Adelquist and **Florence Murdoch**. Murdoch was not merely a fan; she was the librarian of the Cincinnati Church of the New Jerusalem and a fierce guardian of the memory of John Chapman (Johnny Appleseed), who was a historical Swedenborgian missionary.8
 
 In 1948, prior to the release of *Melody Time*, Murdoch wrote to the studio protesting the depiction of Johnny’s "Guardian Angel" in promotional materials. She specifically objected to the angel wearing a coonskin cap, feeling it degraded the spiritual dignity of Chapman’s guide.
 
@@ -61,7 +61,7 @@ Adelquist’s reply is a critical admission:
 
 "We trust that after you have viewed the picture you will agree that we have treated the angel with sincere respect... \[we\] researched the real life character extensively." 1
 
-This statement is the pivot point. It is impossible to "extensively research" John Chapman without encountering his defining characteristic: his zeal for the New Church. Chapman did not merely plant trees; he distributed Swedenborg’s *Heaven and Hell* and *True Christian Religion* across the frontier, tearing volumes into chapters to function as a lending library.12 Adelquist’s defense proves that the studio *knew* Chapman was a Swedenborgian missionary. The erasure of the specific sectarian label in the final film was therefore not an act of ignorance, but a calculated strategy of encoding.
+This statement is the pivot point. It is impossible to "extensively research" John Chapman without encountering his defining characteristic: his zeal for the New Church. Chapman did not merely plant trees; he distributed Swedenborg's *Heaven and Hell* and *True Christian Religion* across the frontier, tearing volumes into chapters to function as a lending library.12 Adelquist's defense demonstrates that the studio *knew* Chapman was a Swedenborgian missionary. The erasure of the specific sectarian label in the final film was therefore likely not an act of ignorance, but a strategy of encoding—though whether this was conscious theological strategy or merely commercial prudence remains an open question.
 
 ### **3.3 The "Blessings Three" as Theological Code**
 
@@ -79,7 +79,7 @@ Swedenborg explicitly taught that "Charity and Faith make one in Good Works." By
 
 The intellectual bridge for this transmission was **Carl Carmer** (1893–1976), credited as "Folklore Consultant" on *Melody Time*.15 Carmer was not a children’s author; he was a serious historian of New York’s "Burned-Over District," the hotbed of 19th-century American esoteric religious movements, including Mormonism, Spiritualism, and Swedenborgianism.15
 
-Carmer’s bibliography, including *Dark Trees to the Wind* and *Listen for a Lonesome Drum*, demonstrates a deep, granular knowledge of these sects.15 His presence at the studio confirms that Disney was "actively seeking" esoteric expertise. Carmer would have been the one to explain to the story team that Chapman communicated with "spirits" of the deceased rather than biblical seraphim, leading to the film’s depiction of the angel as a "Pioneer Spirit" (a deceased human), which aligns perfectly with Swedenborgian pneumatology.12
+Carmer's bibliography, including *Dark Trees to the Wind* and *Listen for a Lonesome Drum*, demonstrates a deep, granular knowledge of these sects.15 His presence at the studio suggests that Disney was seeking esoteric expertise. Carmer may have been the one to explain to the story team that Chapman communicated with "spirits" of the deceased rather than biblical seraphim, which could explain the film's depiction of the angel as a "Pioneer Spirit" (a deceased human)—a depiction that aligns with Swedenborgian pneumatology.12
 
 ## **IV. The Palos Verdes Nexus: The Glass Church of the Animators**
 
@@ -118,7 +118,7 @@ The research indicates that the Palos Verdes and South Bay area was a residentia
 | :---- | :---- | :---- | :---- |
 | **Mary Blair** | Art Supervisor/Stylist | Resident 23 | Confirmed Swedenborgian (1974) 22 |
 | **Retta Scott** | Animator (*Bambi*) | N/A | Married Benjamin Worcester (Swedenborgian "Royalty") 25 |
-| **Marc Davis** | Animator ("Nine Old Men") | Resident; Land Conservancy 28 | Wedding at Wayfarers Chapel (implied by community ties/location popularity) |
+| **Marc Davis** | Animator ("Nine Old Men") | Resident; Land Conservancy 28 | Wayfarers Chapel wedding not documented; connection inferred from community residence |
 | **Lee Blair** | Artist (*Fantasia*, *Saludos Amigos*) | Resident; Painted "Mary by the Sea" 24 | Husband of Mary Blair |
 | **Ray Wallace** | Naval Architect (*Disneyland*) | Resident 29 | Designed *Sailing Ship Columbia* |
 | **Frank Thomas** | Animator ("Nine Old Men") | Resident (La Cañada/PV area) | House added to National Register; Lloyd Wright connection 30 |
@@ -186,14 +186,14 @@ The confusion over the "Seven Bandits" vs. the "Seven Dwarfs" 53 reflects the st
 
 ## **VII. Conclusion: The Invisible Church**
 
-The evidence assembled supports the conclusion that the Walt Disney Studio has functioned, for much of its history, as a vehicle for the secularized propagation of Swedenborgian thought. This was not a conspiracy, but a cultural phenomenon driven by "conscious gatekeepers" who understood that the "Disney Magic" relied on specific metaphysical laws.
+The evidence assembled supports the hypothesis that the Walt Disney Studio has functioned, for much of its history, as a vehicle for Swedenborgian thought—whether through conscious transmission or cultural absorption. The pattern is consistent across multiple data points, though the mechanism of original transmission (1935-1937) remains undocumented.
 
-* **The Foundation:** Don Graham and Walt Disney codified the Doctrine of Influx ("The Mind is the Pilot") as the industrial physics of animation.  
-* **The Confirmation:** Hal Adelquist and Carl Carmer encoded the Swedenborgian Trinity in *Johnny Appleseed*.  
-* **The Sanctuary:** The Palos Verdes Nexus, centered on the **Wayfarers Chapel**, provided a spiritual and aesthetic home for key artists like Mary Blair and Retta Scott.  
-* **The Future:** The 2025 *Snow White* represents a painful, expensive attempt to "re-consecrate" the studio after a period of theological drift (*Wish*).
+* **The Foundation:** Don Graham and Walt Disney codified principles compatible with the Doctrine of Influx ("The Mind is the Pilot") as the industrial physics of animation—though whether they knew the theological parallel is unknown.  
+* **The Confirmation (1948):** Hal Adelquist and Carl Carmer demonstrably engaged with Swedenborgian content in *Johnny Appleseed*, showing the studio knew Chapman's religious identity.  
+* **The Sanctuary (post-1949):** The Palos Verdes Nexus, centered on the **Wayfarers Chapel**, provided a documented spiritual and aesthetic home for key artists like Mary Blair and Retta Scott.  
+* **The Future:** The 2025 *Snow White* appears to represent a course correction after a period of deviation (*Wish*)—whether this is conscious theological return or intuitive aesthetic return is unclear.
 
-The "Gatekeepers" were Hal Adelquist, Mary Blair, Retta Scott, Don Graham, and Walt Stanchfield. They built a "Glass Church" out of celluloid and pixels. The current executives—Greenbaum, Platt, and Iger—are not theologians, but they are custodians of a machine that only works when it follows the specific laws of its original design. They have realized that when you break the Mirror, the Magic dies. The dismantling of the physical Wayfarers Chapel in 2024 due to landslides 21 serves as a poignant, correspondential symbol for the studio's own precarious position: a spiritual foundation threatening to slide into the sea, requiring desperate measures to preserve the structure.
+The "Gatekeepers" identified with varying degrees of certainty include Hal Adelquist (documented), Mary Blair (documented), Retta Scott (documented genealogical connection), Carl Carmer (documented expertise), and Walt Stanchfield (documented pedagogy). The question of who performed the *original* encoding in 1935-1937—before these figures achieved their positions of influence—remains open. They built a "Glass Church" out of celluloid and pixels, but someone laid the foundation before them. The current executives—Greenbaum, Platt, and Iger—are not theologians, but they are custodians of a machine that only works when it follows the specific laws of its original design. They have realized that when you break the Mirror, the Magic dies. The dismantling of the physical Wayfarers Chapel in 2024 due to landslides 21 serves as a poignant, correspondential symbol for the studio's own precarious position: a spiritual foundation threatening to slide into the sea, requiring desperate measures to preserve the structure.
 
 #### **Works cited**
 

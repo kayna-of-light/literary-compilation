@@ -4,10 +4,10 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
-> - **#11** [Correspondence as Ontology](../02_Swedenborgian_Theology/The%20Epistemic%20Architecture%20of%20Post-Materialist%20Inquiry_%20A%20Methodological%20Thesis%20on%20Hypothesis-Testing%20with%20the%20Swedenborgian%20Framework.md) — This document frames the "Science of Correspondences" as Magian archival knowledge that was transmitted/destroyed. Current analysis reframes correspondence as **ontological law**—independently discoverable like gravity, not dependent on transmission chains.
-> - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The%20Bifurcated%20Gnosis_%20The%20Bene%20Qedem,%20the%20Magian%20Institution,%20and%20the%20Isaac-Ishmael%20Dialectic%20in%20the%20Transmission%20of%20the%20Ancient%20Word.md) — Where Magi are treated as possessors/originators of correspondential science, current position distinguishes the *Bene Qedem* as primary carriers with Magi as later institutional codifiers.
+> - **#11** [Correspondence as Ontology (Not Invented, But Transmitted)](../02_Swedenborgian_Theology/The%20Epistemic%20Architecture%20of%20Post-Materialist%20Inquiry_%20A%20Methodological%20Thesis%20on%20Hypothesis-Testing%20with%20the%20Swedenborgian%20Framework.md) — This document frames the "Science of Correspondences" as Magian archival knowledge that was transmitted/destroyed, which is **largely correct**. Correspondence is ontological law (the Magi did not invent it), but transmission still occurred. The archives contained institutional codification of pre-existing knowledge.
+> - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The%20Bifurcated%20Gnosis_%20The%20Bene%20Qedem,%20the%20Magian%20Institution,%20and%20the%20Isaac-Ishmael%20Dialectic%20in%20the%20Transmission%20of%20the%20Ancient%20Word.md) — Where Magi are treated as possessors/originators, current position distinguishes the *Bene Qedem* as primary carriers with Magi as later institutional codifiers.
 > 
-> **Summary**: Correspondence is perceivable reality that cannot be "destroyed" by burning archives. Evidence: 30,000-year Paleolithic consistency, Göbekli Tepe (7,000 years pre-Zoroaster), Aboriginal songlines—all demonstrate independent recognition across zero-contact cultures.
+> **Summary**: The correction concerns WHO originated (Bene Qedem / deep antiquity) vs WHO institutionalized (Magi). The archival destruction WAS epistemologically significant—it destroyed institutional codifications, even if correspondence itself cannot be "destroyed."
 > ---
 
 ## **I. Introduction: The Epistemological Fracture and the Targeted Archive**
@@ -31,7 +31,7 @@ The contents of the *Dāmdād Nask*, partially reconstructed in the 9th-century 
 
 ### **B. The Ontology of Mēnōg and Gētīg**
 
-> **[REFRAMING #11]**: This section treats the mēnōg/gētīg ontology as a "threat" that could be destroyed by burning archives. However, correspondence is **ontological law**, not transmittable doctrine. The Göbekli Tepe animal arrangements (9500 BCE) show the same correspondential classification 7,000 years before Zoroaster—with no transmission chain. Alexander could destroy the *texts* but not the *perceivable reality* that generated them.
+> **[REFRAMING #11]**: Correspondence is ontological law (Alexander could not destroy the *reality*), but the **codified body of knowledge** was indeed transmittable and destroyable. In the Adamic/Golden Age, correspondence was intuitively perceived; as this capacity declined, explicit codification became necessary. Alexander's destruction of the archives WAS epistemologically significant—it destroyed institutional codifications that preserved what language and intuition no longer carried naturally. The 30,000-year consistency shows fidelity of transmission, not independent re-discovery.
 
 The core philosophical threat the *Dāmdād Nask* posed to the emerging Aristotelian worldview lay in its rigorous dualist ontology. Magian science posited that the universe originated in a spiritual state (*mēnōg*) before precipitating into a material state (*gētīg*). This was not a vague mysticism but a precise causal mechanics.
 

@@ -4,10 +4,10 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
-> - **#11** [Correspondence as Ontology](../02_Swedenborgian_Theology/The%20Epistemic%20Architecture%20of%20Post-Materialist%20Inquiry_%20A%20Methodological%20Thesis%20on%20Hypothesis-Testing%20with%20the%20Swedenborgian%20Framework.md) — This document frames correspondence as "transmitted" through Enoch→Noah→Magi lineage. Current analysis reframes correspondence as **ontological law**—independently discoverable across cultures with zero contact.
-> - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The%20Bifurcated%20Gnosis_%20The%20Bene%20Qedem,%20the%20Magian%20Institution,%20and%20the%20Isaac-Ishmael%20Dialectic%20in%20the%20Transmission%20of%20the%20Ancient%20Word.md) — Section II.2-II.3 treat Magi as primary custodians; current position distinguishes the *Bene Qedem* as primary carriers.
+> - **#11** [Correspondence as Ontology (Not Invented, But Transmitted)](../02_Swedenborgian_Theology/The%20Epistemic%20Architecture%20of%20Post-Materialist%20Inquiry_%20A%20Methodological%20Thesis%20on%20Hypothesis-Testing%20with%20the%20Swedenborgian%20Framework.md) — This document frames correspondence as "transmitted" through Enoch→Noah→Magi lineage, which is **correct**. Correspondence is ontological law (the Magi did not invent it), but transmission still occurred. The 30,000-year Paleolithic consistency demonstrates fidelity in transmission chains, not independent discovery.
+> - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The%20Bifurcated%20Gnosis_%20The%20Bene%20Qedem,%20the%20Magian%20Institution,%20and%20the%20Isaac-Ishmael%20Dialectic%20in%20the%20Transmission%20of%20the%20Ancient%20Word.md) — Section II.2-II.3 treat Magi as primary custodians; current position distinguishes the *Bene Qedem* as primary carriers, with Magi as later gatekeepers/institutionalizers.
 > 
-> **Summary**: Correspondence is perceivable reality, not transmitted wisdom. Evidence: 30,000-year Paleolithic consistency, Göbekli Tepe (pre-Zoroaster by 7,000 years), Aboriginal songlines—all with zero contact.
+> **Summary**: The correction concerns WHO originated (Bene Qedem / deep antiquity, not Magi) vs WHO institutionalized (Magi). Transmission is real; the question is lineage structure.
 > ---
 
 ## **Executive Summary**
@@ -76,7 +76,7 @@ Swedenborg’s assertion that the Ancient Word is preserved among the "Tartars" 
 The Zoroastrian canon, specifically the lost Sasanian Avesta, was divided into three categories: *Gathic* (liturgical), *Dat* (legal), and *Hadha-manthric* (scientific/scholarly).12 This third category, particularly the **Dāmdād Nask**, serves as the primary artifact of the "Enochic" science.
 
 ### **2.2 The *Dāmdād Nask*: The Encyclopedia of Correspondence**
-> **[REFRAMING #11]**: This section treats the *Dāmdād Nask* as the source/repository of correspondential science. Evidence from cognitive archaeology shows correspondence operating 7,000 years before Zoroaster (Göbekli Tepe) and across zero-contact cultures (Aboriginal songlines, Shasu of Yhw). The *Dāmdād Nask* represents the **codification** of correspondence, not its **invention**—like Newton articulating gravity that already existed.
+> **[REFRAMING #11]**: This section's treatment of the *Dāmdād Nask* as repository of correspondential science is **correct**—it represents **codification**, not **invention**. Correspondence is ontological law, but transmission still occurred. In the Adamic/Golden Age, it was intuitively perceived; as ruling love shifted and language drifted, explicit codification became necessary. The 30,000-year consistency (Göbekli Tepe, Paleolithic symbols) shows fidelity of transmission chains extending back to when intuitive perception was operative.
 The *Dāmdād Nask* ("The Nask of the Creation of Creatures") was lost to the West, likely destroyed during Alexander the Great’s conquest of Persepolis (c. 330 BCE).11 However, summaries preserved in the *Bundahishn* and *Denkard* reveal its content, which mirrors the "Science of Correspondences" described by Swedenborg:
 
 * **Taxonomy of Alignment:** The *Dāmdād Nask* classified the natural world not by biological morphology (species/genus) but by spiritual alignment. Creatures were divided into *Gospand* (beneficent/Ahuric) and *Khrafstra* (noxious/Ahrimanic).9 This mirrors the Levitical distinction between "Clean" and "Unclean" animals, which Swedenborg identifies as a derivation from the Ancient Word.7  

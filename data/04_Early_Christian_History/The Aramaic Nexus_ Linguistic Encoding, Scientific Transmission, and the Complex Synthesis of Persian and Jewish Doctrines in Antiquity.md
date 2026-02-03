@@ -4,10 +4,10 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
-> - **#11** [Correspondence as Ontology](../02_Swedenborgian_Theology/The%20Epistemic%20Architecture%20of%20Post-Materialist%20Inquiry_%20A%20Methodological%20Thesis%20on%20Hypothesis-Testing%20with%20the%20Swedenborgian%20Framework.md) — This document frames the "Science of Correspondences" as knowledge transmitted via Aramaic channels (Magi → Jews). Current analysis reframes correspondence as **ontological law**—independently discoverable like gravity, not requiring transmission.
-> - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The%20Bifurcated%20Gnosis_%20The%20Bene%20Qedem,%20the%20Magian%20Institution,%20and%20the%20Isaac-Ishmael%20Dialectic%20in%20the%20Transmission%20of%20the%20Ancient%20Word.md) — Where Magi are treated as originators, current position distinguishes the *Bene Qedem* as primary carriers with Magi as later institutional appropriators.
+> - **#11** [Correspondence as Ontology (Not Invented, But Transmitted)](../02_Swedenborgian_Theology/The%20Epistemic%20Architecture%20of%20Post-Materialist%20Inquiry_%20A%20Methodological%20Thesis%20on%20Hypothesis-Testing%20with%20the%20Swedenborgian%20Framework.md) — This document frames the "Science of Correspondences" as knowledge transmitted via Aramaic channels (Magi → Jews), which is **correct**. Correspondence is ontological law (the Magi did not invent it), but transmission still occurred through these channels.
+> - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The%20Bifurcated%20Gnosis_%20The%20Bene%20Qedem,%20the%20Magian%20Institution,%20and%20the%20Isaac-Ishmael%20Dialectic%20in%20the%20Transmission%20of%20the%20Ancient%20Word.md) — Where Magi are treated as originators, current position distinguishes the *Bene Qedem* as primary carriers with Magi as later institutional codifiers.
 > 
-> **Summary**: Correspondence is perceivable reality, not transmitted doctrine. 30,000-year consistency in symbolic systems and zero-contact parallelism (Göbekli Tepe, Shasu of Yhw, Aboriginal songlines) demonstrate independent recognition across cultures.
+> **Summary**: The correction concerns WHO originated (Bene Qedem / deep antiquity) vs WHO institutionalized (Magi). The Aramaic transmission is real; the question is lineage structure.
 > ---
 
 ## **1\. Introduction: The Imperial Lattice of Aramaic and the Architecture of Synthesis**
@@ -49,7 +49,7 @@ The content of the *Dāmdād Nask*, as reconstructed from the 9th-century Middle
 
 ### **2.2 The Science of Correspondences**
 
-> **[REFRAMING #11]**: This section frames correspondence as a "paradigm" rooted in Magian documents and transmitted via institutional channels. Evidence from cognitive archaeology and cross-cultural analysis demonstrates that correspondence is **ontological law**—perceivable reality, not transmitted doctrine. The 30,000-year consistency of Paleolithic symbolic systems, Göbekli Tepe animal arrangements (7,000 years before Zoroaster), and Aboriginal songlines show independent recognition across zero-contact cultures. The Magi codified what humans have always perceived; they did not invent it.
+> **[REFRAMING #11]**: This section's framing of correspondence as transmitted via institutional channels is **correct**. Correspondence is ontological law (the Magi did not invent it), but transmission still occurred. In the Adamic/Golden Age, correspondence was intuitively perceived—language and culture carried it naturally. As ruling love shifted and language drifted, intuitive access declined, necessitating explicit codification. The 30,000-year consistency demonstrates **fidelity of transmission chains** extending back to when intuitive perception was operative—not independent discovery. The Magi codified what humans have always perceived; they did not invent it.
 
 The documents were rooted in a specific intellectual paradigm known as the **"Science of Correspondences"**. This was not secular science in the modern sense, but a semiotic system that viewed the physical world (*gētīg*) as a direct, legible manifestation of the spiritual world (*mēnōg*).
 

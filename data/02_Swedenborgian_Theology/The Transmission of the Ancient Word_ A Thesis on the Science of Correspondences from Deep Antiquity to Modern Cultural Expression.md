@@ -132,12 +132,6 @@ The evidence reveals a transmission chain with identifiable stages:
 
 This is not a story of invention, nor of universal perception. It is a story of ontological reality meeting the vicissitudes of human access—a law that exists whether or not humans can read it, but that requires specific conditions to be read.
 
----
-
-^[1] See [The Resonant Cosmos](The%20Resonant%20Cosmos_%20A%20Historical%20Reconstruction%20of%20the%20Science%20of%20Correspondences%20from%20the%20Magian%20Archives%20to%20the%20New%20Jerusalem.md) for the standard transmission model and its limitations.
-
-^[2] See [The Epistemic Architecture of Post-Materialist Inquiry](The%20Epistemic%20Architecture%20of%20Post-Materialist%20Inquiry_%20A%20Methodological%20Thesis%20on%20Hypothesis-Testing%20with%20the%20Swedenborgian%20Framework.md), Section 3.3, for the corrected framing of correspondence as ontology + transmission.
-
 ## II. Theoretical Framework: Ontology and Access
 
 ### A. Correspondence as Ontological Law
@@ -203,16 +197,6 @@ None of these is equivalent to observing apples fall. The "gravity analogy" conf
 
 This is why Swedenborg, despite being a scientific genius capable of independent discovery in anatomy, metallurgy, and cosmology, did not simply "perceive" correspondence. He was **taught**—over decades, through interaction with angels and spirits. He had a teaching substrate. Even for Swedenborg, access required transmission.
 
----
-
-^[3] Swedenborg, *Heaven and Hell* §89.
-
-^[4] See [The Lithic Scripture](../06_Mythological_Studies/The%20Lithic%20Scripture_%20A%20Hermeneutic%20Reconstruction%20of%20the%20Ancient%20Word%20through%20the%20Doctrine%20of%20Correspondences%20and%20Paleolithic%20Iconography.md), Section 2.1, "The Ontology of Correspondence."
-
-^[5] See [The Magian Cosmos](The%20Magian%20Cosmos_%20A%20Comprehensive%20Analysis%20of%20the%20Principle%20of%20Correspondences%20in%20Ancient%20Iranian%20Religion%20and%20Its%20Esoteric%20Legacy.md), Section 7.1, on the *mēnōg/gētīg* parallel.
-
-^[6] Swedenborg, *Arcana Coelestia* §125; see [The Arch-Bricoleur of the Academy](../06_Mythological_Studies/The%20Arch-Bricoleur%20of%20the%20Academy_%20Plato,%20the%20Science%20of%20Correspondences,%20and%20the%20Reconstruction%20of%20the%20Ancient%20Word.md), Section II.B, "Perception vs. Doctrine."
-
 ## III. The Evidence of Deep Antiquity: Fidelity of Transmission
 
 The critical evidence for the transmission thesis comes from deep antiquity—the period before any institutional priesthood, before writing, before the civilizations we typically associate with "ancient wisdom." If the "independent discovery" model were correct, we would expect to see inconsistent symbolic systems across isolated populations. Instead, we find remarkable consistency extending back 30,000 years.
@@ -258,14 +242,6 @@ The pattern across these deep antiquity cases is consistent:
 In each case, the evidence shows **consistency that transmission explains and independent discovery cannot**. The symbols are too specific, too systematic, and too stable across time and space to have been independently invented by isolated groups perceiving an "obvious" ontological law.
 
 The evidence points to a single conclusion: correspondential perception was once widespread, and the transmission from that era was remarkably faithful. The 30,000-year consistency is evidence of transmission fidelity—the "telephone game" that didn't garble the message.
-
----
-
-^[7] Von Petzinger, *The First Signs: Unlocking the Mysteries of the World's Oldest Symbols* (2016); see [The Epistemic Architecture](The%20Epistemic%20Architecture%20of%20Post-Materialist%20Inquiry_%20A%20Methodological%20Thesis%20on%20Hypothesis-Testing%20with%20the%20Swedenborgian%20Framework.md), Section 3.3.1.
-
-^[8] See [The Lithic Scripture](../06_Mythological_Studies/The%20Lithic%20Scripture_%20A%20Hermeneutic%20Reconstruction%20of%20the%20Ancient%20Word%20through%20the%20Doctrine%20of%20Correspondences%20and%20Paleolithic%20Iconography.md), Section 7, on Göbekli Tepe Pillar 18.
-
-^[9] See [The Epistemic Architecture](The%20Epistemic%20Architecture%20of%20Post-Materialist%20Inquiry_%20A%20Methodological%20Thesis%20on%20Hypothesis-Testing%20with%20the%20Swedenborgian%20Framework.md), Section 3.3.2, on Australian songlines and oral tradition durability.
 
 ## IV. The Carriers: Bene Qedem and the Magian Institution
 
@@ -318,18 +294,6 @@ The error of the "Magian invention" model was to conflate institutionalizers wit
 The error of the "independent discovery" model was to imagine that anyone could access correspondence without a teaching substrate—ignoring the entire carrier and institutionalizer chain that made articulate knowledge possible.
 
 The evidence supports a more complex picture: **ontological reality** (correspondence exists), **original intuition** (deep antiquity perceived it directly), **carried tradition** (*Bene Qedem* preserved it), **institutional codification** (Magi systematized it), **catastrophic loss** (Persepolis), **fragmentary preservation** (post-330 BCE traditions), **restoration** (Swedenborg).
-
----
-
-^[10] See [The Bifurcated Gnosis](../04_Early_Christian_History/The%20Bifurcated%20Gnosis_%20The%20Bene%20Qedem,%20the%20Magian%20Institution,%20and%20the%20Isaac-Ishmael%20Dialectic%20in%20the%20Transmission%20of%20the%20Ancient%20Word.md) for the full analysis of *Bene Qedem* identity.
-
-^[11] See [The Arch-Bricoleur of the Academy](../06_Mythological_Studies/The%20Arch-Bricoleur%20of%20the%20Academy_%20Plato,%20the%20Science%20of%20Correspondences,%20and%20the%20Reconstruction%20of%20the%20Ancient%20Word.md), Section II.B, on Swedenborg's periodization.
-
-^[12] See [The Magian Cosmos](The%20Magian%20Cosmos_%20A%20Comprehensive%20Analysis%20of%20the%20Principle%20of%20Correspondences%20in%20Ancient%20Iranian%20Religion%20and%20Its%20Esoteric%20Legacy.md) for the Zoroastrian framework.
-
-^[13] See [The Arch-Bricoleur of the Academy](../06_Mythological_Studies/The%20Arch-Bricoleur%20of%20the%20Academy_%20Plato,%20the%20Science%20of%20Correspondences,%20and%20the%20Reconstruction%20of%20the%20Ancient%20Word.md), Section III.A, on the Dēnkard testimony.
-
-^[14] See [The Archival Rupture](../06_Mythological_Studies/The%20Archival%20Rupture_%20Alexander,%20Persepolis,%20and%20the%20Catastrophic%20Fragmentation%20of%20the%20Science%20of%20Correspondences.md) for the destruction and selective preservation narrative.
 
 ## V. Plato: Complete Systematic Access
 
@@ -422,24 +386,6 @@ Plato's myths are not collages of borrowed pieces. They are **original construct
 
 This is the quality marker that distinguishes Plato from post-Persepolis figures. The Neoplatonists, the Hermeticists, the Alchemists—they preserve, they comment, they recombine. They do not construct with Plato's precision because they do not possess Plato's access.
 
----
-
-^[15] See [The Arch-Bricoleur of the Academy](../06_Mythological_Studies/The%20Arch-Bricoleur%20of%20the%20Academy_%20Plato,%20the%20Science%20of%20Correspondences,%20and%20the%20Reconstruction%20of%20the%20Ancient%20Word.md), Section IV.B, for the full chariot analysis.
-
-^[16] Swedenborg, *Apocalypse Explained* §355; *The White Horse*.
-
-^[17] See [The Arch-Bricoleur of the Academy](../06_Mythological_Studies/The%20Arch-Bricoleur%20of%20the%20Academy_%20Plato,%20the%20Science%20of%20Correspondences,%20and%20the%20Reconstruction%20of%20the%20Ancient%20Word.md), Section V.C, on the Cave allegory.
-
-^[18] Swedenborg, *Divine Love and Wisdom* §§83-85.
-
-^[19] See [The Arch-Bricoleur of the Academy](../06_Mythological_Studies/The%20Arch-Bricoleur%20of%20the%20Academy_%20Plato,%20the%20Science%20of%20Correspondences,%20and%20the%20Reconstruction%20of%20the%20Ancient%20Word.md), Section VI, on the Myth of Er.
-
-^[20] Colotes of Lampsacus, cited in [The Arch-Bricoleur of the Academy](../06_Mythological_Studies/The%20Arch-Bricoleur%20of%20the%20Academy_%20Plato,%20the%20Science%20of%20Correspondences,%20and%20the%20Reconstruction%20of%20the%20Ancient%20Word.md), Section III.C.
-
-^[21] See [The Arch-Bricoleur of the Academy](../06_Mythological_Studies/The%20Arch-Bricoleur%20of%20the%20Academy_%20Plato,%20the%20Science%20of%20Correspondences,%20and%20the%20Reconstruction%20of%20the%20Ancient%20Word.md), Section V.D, on the Ring of Gyges.
-
-^[22] See [The Arch-Bricoleur of the Academy](../06_Mythological_Studies/The%20Arch-Bricoleur%20of%20the%20Academy_%20Plato,%20the%20Science%20of%20Correspondences,%20and%20the%20Reconstruction%20of%20the%20Ancient%20Word.md), Section III, on transmission vectors.
-
 ## VI. The Catastrophe: Persepolis and the Shattering
 
 The destruction of Persepolis in 330 BCE marks the critical break point in the transmission chain. Before this date, complete systematic access was possible—Plato demonstrates it. After this date, traditions work with fragments. Understanding this catastrophe is essential to understanding why the "independent discovery" model fails: if correspondence were simply observable, the loss of archives would not matter.
@@ -495,12 +441,6 @@ The destruction was not total. Several survival channels preserved partial knowl
 **Qumran and Related Communities**: Jewish esoteric communities preserved Iranian influences (the "Two Spirits" doctrine), but as theological content rather than correspondential method.
 
 These survival channels explain the continued existence of correspondential *data* in the post-Persepolis world. They do not explain the continued existence of the correspondential *system*—because that was not preserved intact anywhere.
-
----
-
-^[23] See Diodorus Siculus 17.72; Plutarch, *Alexander* 38. The *Dēnkard* preserves the Persian counter-narrative.
-
-^[24] *Dēnkard* Book 4; see [The Archival Rupture](../06_Mythological_Studies/The%20Archival%20Rupture_%20Alexander,%20Persepolis,%20and%20the%20Catastrophic%20Fragmentation%20of%20the%20Science%20of%20Correspondences.md) and [The Arch-Bricoleur of the Academy](../06_Mythological_Studies/The%20Arch-Bricoleur%20of%20the%20Academy_%20Plato,%20the%20Science%20of%20Correspondences,%20and%20the%20Reconstruction%20of%20the%20Ancient%20Word.md), Section III.A.
 
 ## VII. The Fragmentation: Post-Persepolis to Swedenborg
 
@@ -578,18 +518,6 @@ Plotinus comments on the Cave allegory; he does not create a new myth of equival
 Only two figures in the historical record demonstrate the ability to construct with systematic precision: Plato (pre-catastrophe) and Swedenborg (post-restoration). The seventeen-century gap between them is populated by traditions that **preserve**, **comment**, **recombine**, but do not **construct**.
 
 This inability is the fingerprint of fragmentation. You cannot build with complete blueprints if you only possess scattered pages.
-
----
-
-^[25] See Plotinus, *Enneads* V.1; Proclus, *Elements of Theology*. For the Swedenborgian parallel, see [The Golden Chain of Prisca Theologia](../06_Mythological_Studies/The%20Golden%20Chain%20of%20Prisca%20Theologia_%20An%20Exhaustive%20Analysis%20of%20the%20Hermetic%20Framework%20from%20the%20Magian%20Substrate%20to%20Swedenborgian%20Correspondence.md).
-
-^[26] *Emerald Tablet* (Tabula Smaragdina); see [The Golden Chain of Prisca Theologia](../06_Mythological_Studies/The%20Golden%20Chain%20of%20Prisca%20Theologia_%20An%20Exhaustive%20Analysis%20of%20the%20Hermetic%20Framework%20from%20the%20Magian%20Substrate%20to%20Swedenborgian%20Correspondence.md), Section 4.
-
-^[27] See [The Magian Cosmos](The%20Magian%20Cosmos_%20A%20Comprehensive%20Analysis%20of%20the%20Principle%20of%20Correspondences%20in%20Ancient%20Iranian%20Religion%20and%20Its%20Esoteric%20Legacy.md), Section 6, on Islamic alchemy and correspondence.
-
-^[28] For Kabbalistic-Swedenborgian comparison, see [The Cognitive Archaeology of Revelation](The%20Cognitive%20Archaeology%20of%20Revelation_%20A%20Scientific%20and%20Hermeneutic%20Reclassification%20of%20Emanuel%20Swedenborg's%20The%20Word.md).
-
-^[29] See [The Architecture of Hidden Divinity](../05_Gnostic_Analysis/The%20Architecture%20of%20Hidden%20Divinity_%20A%20Comprehensive%20Structural%20and%20Historical%20Profile%20of%20the%20Gnostic%20Impulse.md) for the full analysis of Gnostic deviation.
 
 ## VIII. Swedenborg: Restoration via New Channel
 
@@ -670,20 +598,6 @@ The transmission thesis does not require explaining why Swedenborg was chosen—
 4. **Distance from institutional religion** — He was not embedded in an ecclesiastical structure that would have filtered or suppressed his revelations
 
 The restoration came when it could be preserved and transmitted through modern means—print, rationalism, independence from corrupting institutions.
-
----
-
-^[30] Swedenborg, *Journal of Dreams* (1743-1744); *Spiritual Diary* (1747-1765); autobiographical passages in *True Christian Religion* §851-858.
-
-^[31] Swedenborg, *Arcana Coelestia* (1749-1756), 12 volumes.
-
-^[32] Swedenborg, *Heaven and Hell* (1758), particularly §§141-153 on spatial correspondence.
-
-^[33] Swedenborg, *Divine Love and Wisdom* (1763), §§173-281 on discrete degrees.
-
-^[34] For the pattern of prophetic re-establishment, see [The Cognitive Archaeology of Revelation](The%20Cognitive%20Archaeology%20of%20Revelation_%20A%20Scientific%20and%20Hermeneutic%20Reclassification%20of%20Emanuel%20Swedenborg's%20The%20Word.md).
-
-^[35] See [The Magian Cosmos](The%20Magian%20Cosmos_%20A%20Comprehensive%20Analysis%20of%20the%20Principle%20of%20Correspondences%20in%20Ancient%20Iranian%20Religion%20and%20Its%20Esoteric%20Legacy.md), Section 3, on *mēnōg/gētīg*.
 
 ## IX. Cultural Pneumatology: The System Functioning Again
 
@@ -785,16 +699,6 @@ The cultural transmission of correspondential content raises a theoretical quest
 The answer lies in the nature of correspondence itself. If correspondence is **ontological**—if natural objects really do correspond to spiritual realities—then correspondential structures will resonate whether or not the creator or audience knows why. A child watching *Snow White* experiences the correspondential logic at some level because the correspondences are **real**, not arbitrary.
 
 This is the ultimate vindication of the transmission thesis. The system doesn't require conscious knowledge to function. It requires only that someone with access creates the structure. The structure then works on anyone who receives it, because it maps onto reality.
-
----
-
-^[36] See [The Mirror of the Invisible: Swedenborgian Natural Philosophy and the Romantic Folklore of the Brothers Grimm](../07_Cultural_Pneumatology/The%20Mirror%20of%20the%20Invisible_%20Swedenborgian%20Natural%20Philosophy%20and%20the%20Romantic%20Folklore%20of%20the%20Brothers%20Grimm.md).
-
-^[37] See [The Celestial Botany of the Fairy Tale: A Pneumatological Exegesis of Swedenborgian Architectonics in the Narrative Cosmos of Hans Christian Andersen](../07_Cultural_Pneumatology/The%20Celestial%20Botany%20of%20the%20Fairy%20Tale_%20A%20Pneumatological%20Exegesis%20of%20Swedenborgian%20Architectonics%20in%20the%20Narrative%20Cosmos%20of%20Hans%20Christian%20Andersen.md).
-
-^[38] See [The Looking-Glass of Theology: A Systematic Reconstruction of Swedenborgian Correspondence in the Narrative Architecture of Lewis Carroll](../07_Cultural_Pneumatology/The%20Looking-Glass%20of%20Theology_%20A%20Systematic%20Reconstruction%20of%20Swedenborgian%20Correspondence%20in%20the%20Narrative%20Architecture%20of%20Lewis%20Carroll.md).
-
-^[39] See [The Animating Spirit: An Exhaustive Analysis of Swedenborgian Correspondences in the Cinematic Universe of Walt Disney](../07_Cultural_Pneumatology/The%20Animating%20Spirit_%20An%20Exhaustive%20Analysis%20of%20Swedenborgian%20Correspondences%20in%20the%20Cinematic%20Universe%20of%20Walt%20Disney.md) and related documents in the Cultural Pneumatology folder.
 
 ## X. The Quality Gradient: A Synthesis
 

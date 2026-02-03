@@ -4,10 +4,10 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
-> - **#11** [Correspondence as Ontology](../02_Swedenborgian_Theology/The%20Epistemic%20Architecture%20of%20Post-Materialist%20Inquiry_%20A%20Methodological%20Thesis%20on%20Hypothesis-Testing%20with%20the%20Swedenborgian%20Framework.md) — This document frames correspondence as "transmitted" via Magian-Jewish synthesis. Current analysis reframes correspondence as **ontological law**—independently discoverable like gravity, not requiring transmission chains. Evidence: 30,000-year Paleolithic consistency, Göbekli Tepe (7,000 years pre-Zoroaster), zero-contact parallelism.
-> - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The%20Bifurcated%20Gnosis_%20The%20Bene%20Qedem,%20the%20Magian%20Institution,%20and%20the%20Isaac-Ishmael%20Dialectic%20in%20the%20Transmission%20of%20the%20Ancient%20Word.md) — This document foregrounds Magian ontology and “Magian synthesis” as the primary deepening/systematizing vector for correspondential science; current position distinguishes the *Bene Qedem* (“Children of the East”) as primary carriers of living “nature wisdom”/correspondential perception, with the Magian priesthood as a later institutional layer that codified and (in places) appropriated that prior wisdom.
+> - **#11** [Correspondence as Ontology (Not Invented, But Transmitted)](../02_Swedenborgian_Theology/The%20Epistemic%20Architecture%20of%20Post-Materialist%20Inquiry_%20A%20Methodological%20Thesis%20on%20Hypothesis-Testing%20with%20the%20Swedenborgian%20Framework.md) — This document frames correspondence as "transmitted" via Magian-Jewish synthesis, which is **correct**. Correspondence is ontological law (the Magi did not invent it), but transmission still occurred through these channels.
+> - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The%20Bifurcated%20Gnosis_%20The%20Bene%20Qedem,%20the%20Magian%20Institution,%20and%20the%20Isaac-Ishmael%20Dialectic%20in%20the%20Transmission%20of%20the%20Ancient%20Word.md) — This document foregrounds Magian ontology as the primary systematizing vector; current position distinguishes the *Bene Qedem* as primary carriers, with the Magian priesthood as later institutionalizers who codified (and in places appropriated) that prior wisdom.
 > 
-> **Summary**: Correspondence is perceivable reality, not transmitted doctrine. Reframe "Magian synthesis as primary carrier/origin vector" → "Bene Qedem as primary carriers; Magi as later institutionalizers/codifiers."
+> **Summary**: The correction concerns WHO originated (Bene Qedem / deep antiquity) vs WHO institutionalized (Magi). "Magian synthesis" is real; the question is lineage structure.
 > ---
 
 ## **1\. Introduction: The Epistemological Fracture and the Scribal Lens**
@@ -34,7 +34,7 @@ The "Science of Correspondences" is the operational logic connecting these two s
 
 ### **2.2 The *Damdat Nask*: The Lost Encyclopedia of Correspondence**
 
-> **[REFRAMING #11]**: This section treats correspondence as "codified" wisdom transmitted via scribal traditions. Evidence from cognitive archaeology shows correspondence operating as **ontological law**—independently perceivable across zero-contact cultures (Göbekli Tepe 9600 BCE, Aboriginal songlines, 30,000-year Paleolithic consistency). The *Damdat Nask* represents **codification** of what humans perceive when attuned to reality, not **invention** of correspondence. Institutional texts explain how wisdom was preserved and transmitted, not how it originated.
+> **[REFRAMING #11]**: This section's framing of correspondence as "codified" wisdom transmitted via scribal traditions is **correct**. Correspondence is ontological law (the Magi did not invent it), but transmission still occurred. In the Adamic/Golden Age, it was intuitively perceived—language and culture carried it naturally. As ruling love shifted, intuitive access declined, requiring explicit codification. The *Damdat Nask* represents **codification** of prior wisdom, not **invention**. The 30,000-year consistency shows fidelity of transmission chains, not independent discovery.
 
 Historical evidence points to the existence of a vast, written corpus that codified this science. The *Damdat Nask*, a lost book of the Avesta, is described in later commentaries (like the *Bundahishn*) as containing an encyclopedic taxonomy of the cosmos. It reportedly classified all of creation—minerals, plants, animals, and stars—based on their spiritual correspondence.
 

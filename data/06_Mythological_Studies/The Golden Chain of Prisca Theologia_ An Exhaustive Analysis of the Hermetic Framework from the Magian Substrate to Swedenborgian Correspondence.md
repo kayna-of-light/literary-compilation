@@ -143,9 +143,13 @@ The evidence is striking. In the *Codex Leicester*, Leonardo records corresponde
 
 **Emanuel Swedenborg** (1688–1772) represents the culmination of this lineage in the Enlightenment. A scientist turned visionary, his trajectory mirrors Leonardo's—moving from the study of the physical (metallurgy, anatomy) to the spiritual. However, Swedenborg's access to the *Prisca Theologia* operated through a distinctive mechanism that must be understood precisely.
 
-Swedenborg did not receive a finished system through passive revelation. Rather, he was *permitted* to explore the spiritual realm empirically—conducting what can only be called **hypothesis testing on spiritual data**. His *Spiritual Diary* reveals this clearly: he tests conjectures, revises interpretations, learns through observation. The spiritual experiences provided raw phenomenological data; but his ability to *interpret* this data depended entirely on his grounding in Scripture.
+Swedenborg did not receive a finished system through passive revelation. Rather, he was *permitted* to explore the spiritual realm empirically—conducting what can only be called **hypothesis testing on spiritual data**. His *Spiritual Diary* reveals this clearly: he tests conjectures, revises interpretations, learns through observation.
 
-The Bible functioned as his decoder ring. Written entirely in the "language of correspondences," Scripture provided the interpretive framework that made spiritual experiences intelligible. Without the already-revealed correspondences of the Word, Swedenborg's visions would have remained uninterpretable noise. The *learning* happened in the **grounding to the natural**—the methodical work of tracing how spiritual realities flow into their natural ultimates. He was an empiricist of the spiritual world, but his science required an already-received framework to function.
+The process was one of **pattern recognition**. In his spiritual experiences, Swedenborg began to notice specific patterns—recurring structures, relationships, correspondences between states and forms. Then he noticed the **same patterns** in the natural world and in Scripture. The light went on: these were not separate domains but reflections of each other.
+
+Once this recognition occurred, a snowball effect took hold. When you are on the right track, confirmations multiply: each new observation reveals another instance of the same patterning. Scripture became an inexhaustible mine—not because it was a "decoder ring" that made his experiences interpretable, but because it was a **massive corpus where the same patterns were densely encoded**. The systematic framework built itself through accumulating observations, each confirmation accelerating recognition.
+
+The *learning* happened in the **grounding to the natural**—the methodical work of recognizing how patterns in spiritual states correspond to patterns in natural forms. He was an empiricist of the spiritual world, and his rigorous observation of correspondences in action allowed the system to emerge from the data itself.
 
 ### **4.1 The Doctrine of Correspondences**
 

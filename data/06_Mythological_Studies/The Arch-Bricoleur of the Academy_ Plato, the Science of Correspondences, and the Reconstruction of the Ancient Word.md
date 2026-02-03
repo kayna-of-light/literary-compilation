@@ -1,13 +1,13 @@
 # **The Arch-Bricoleur of the Academy: Plato, the Science of Correspondences, and the Reconstruction of the Ancient Word**
 
 > ---
-> **📋 Editorial Notes** | Last reviewed: 2026-01-27
+> **📋 Editorial Notes** | Last reviewed: 2026-02-03
 > 
 > This document reflects **earlier understanding** on:
-> - **#11** [Correspondence as Ontology](../02_Swedenborgian_Theology/The%20Epistemic%20Architecture%20of%20Post-Materialist%20Inquiry_%20A%20Methodological%20Thesis%20on%20Hypothesis-Testing%20with%20the%20Swedenborgian%20Framework.md) — This document frames correspondence as Magian knowledge that Plato "rescued" and "transmitted" into Greek philosophy. Current analysis reframes correspondence as **ontological law**—independently discoverable like gravity, not requiring transmission chains. Evidence: 30,000-year Paleolithic consistency, Göbekli Tepe (7,000 years pre-Zoroaster), zero-contact parallelism.
+> - **#11** [Correspondence as Ontology](../02_Swedenborgian_Theology/The%20Epistemic%20Architecture%20of%20Post-Materialist%20Inquiry_%20A%20Methodological%20Thesis%20on%20Hypothesis-Testing%20with%20the%20Swedenborgian%20Framework.md) — This document frames correspondence as Magian knowledge that Plato "rescued" and "transmitted" into Greek philosophy. Current analysis clarifies: correspondence is **ontological law** (the Magi did not invent it), but **transmission still occurred**. The correction concerns WHO originated (Bene Qedem / deep antiquity) vs WHO institutionalized (Magi). Plato's transmission is valid; the Magi were not the ultimate originators.
 > - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The%20Bifurcated%20Gnosis_%20The%20Bene%20Qedem,%20the%20Magian%20Institution,%20and%20the%20Isaac-Ishmael%20Dialectic%20in%20the%20Transmission%20of%20the%20Ancient%20Word.md) — Several passages frame the "Science of Correspondences" as primarily "Magian," rather than distinguishing (a) *Bene Qedem* as the primary carriers and (b) the Magian priesthood as a later institutionalizer/appropriator.
 > 
-> **Summary**: Correspondence is perceivable reality, not transmitted doctrine. Treat "Magian correspondences" as a *later institutional form* of a broader Eastern correspondence tradition, rather than its origin.
+> **Summary**: Correspondence is ontological law (not Magian invention), but transmission chains are real. The document's treatment of Plato as transmitter remains valid; the correction is that the Magi themselves inherited (not invented) correspondential knowledge.
 > ---
 
 ## **I. Introduction: The Epistemological Fracture and the Platonic Project**
@@ -45,7 +45,7 @@ Plato writes in the wake of a second fracture—the collapse of this Silver Age 
 
 ## **III. The Transmission Vector: The Magian Substrate of the Academy**
 
-> **[REFRAMING #11]**: This section frames correspondence as knowledge "imported" and "transmitted" via historical channels. Cognitive archaeology now demonstrates that correspondence is **ontological law**—independently perceivable across zero-contact cultures (Göbekli Tepe 9600 BCE, Aboriginal songlines, 30,000-year Paleolithic consistency). Plato and the Magi did not *transmit* correspondence; they **articulated** what humans perceive when attuned to reality. The "transmission" framing explains institutional lineages, not the existence of correspondential perception.
+> **[REFRAMING #11]**: This section correctly describes transmission via historical channels, but frames the Magi as the ultimate *source* of correspondences. Correspondence is **ontological law**—the Magi did not invent it. However, **transmission still occurred**: the 30,000-year consistency of Paleolithic symbols and cross-cultural parallels demonstrate fidelity in transmission chains, not independent discovery. The correction concerns WHO originated (Bene Qedem / deep antiquity) vs WHO institutionalized (Magi). Plato received transmitted wisdom; the Magi themselves had inherited (not invented) it from earlier carriers.
 
 The standard narrative of Greek "autochthonous genius" often obscures the profound debt early Greek thought owed to the Iranian sphere. The "Science of Correspondences" did not appear in Athens by spontaneous generation; it was imported via specific, verifiable historical channels.
 

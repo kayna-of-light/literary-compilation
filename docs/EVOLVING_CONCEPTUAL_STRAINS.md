@@ -84,7 +84,7 @@ For each strain marked "Needs review":
 - [x] 8. [NDE Cultural Variation](#8-nde-cultural-variation) — Validation (Low) ✓ 1 doc annotated (2026-01-26)
 - [x] 9. [Resurrection Narratives](#9-resurrection-narrative-evolution) — Critical Analysis (Medium) ✓ 2 docs annotated (2026-01-26)
 - [x] 10. [Location-Ruling Love](#10-location-ruling-love-relationship) — **Retired (MallWorld-specific; not a corpus strain)** (Low)
-- [x] 11. [Correspondence as Ontology](#11-correspondence-as-ontology-not-transmission) — Reframing (High) ✓ 6 docs annotated (2026-01-27)
+- [x] 11. [Correspondence as Ontology](#11-correspondence-as-ontology-not-invented-but-transmitted) — Reframing (High) ✓ 6 docs annotated (2026-01-27)
 - [x] 12. [Observational vs. Interpretive Layers](#12-observational-vs-interpretive-layers-in-swedenborg) — Distinction (High) — META-STRAIN: Organizing principle for #1, #2, #3, #10; docs reference via specific strains
 - [x] 13. [Bicameral Mind Refutation](#13-bicameral-mind-refutation) — Critical Analysis (Medium) ✓ 1 doc annotated (2026-01-26)
 - [x] 14. [Somatic Influx / Radical Remission](#14-somatic-influx-and-radical-remission) — **Retired (evidence supporting #11; not a corpus strain)** (Low)
@@ -341,7 +341,7 @@ However, this does **not** function as a true “evolving conceptual strain” t
 2. We do **not** have the Zoroastrian system as a full operational framework here—only partial evidence of analogous structures.
 3. The project’s methodological center is **testing Swedenborg’s correspondential framework against data**, not building a parallel Zoroastrian framework.
 4. The material this strain was trying to capture is already handled more precisely by:
-    - **#11** (Correspondence as Ontology, not transmission) — correspondence as perceivable law
+    - **#11** (Correspondence as Ontology, not invented but transmitted) — correspondence as ontological law; Magi didn't invent it
     - **#18** (Bene Qedem as true carriers; Magi as appropriators/institutionalizers)
 
 #### Operational rule
@@ -453,29 +453,40 @@ Treat this as a **thesis-level finding**, not a corpus-wide strain.
 
 ---
 
-### 11. Correspondence as Ontology (Not Transmission)
+### 11. Correspondence as Ontology (Not Invented, But Transmitted)
 
 **Evolution Type**: REFRAMING  
 **Priority**: High
 
 #### Earlier Position
-Correspondence treated as **transmitted ancient wisdom**:
+Correspondence treated as **Magian invention or discovery**:
 - Zoroaster/Magi invented or discovered correspondence
+- Magi are the originating source
 - Transmitted to Jews during Babylonian Exile  
 - Preserved in Central Asia ("Great Tartary")
 - Swedenborg recovered it in the 18th century
 
 #### Reframed Position
-Correspondence reframed as **ontological law**, independently discoverable like gravity:
+Correspondence reframed as **ontological law**—a law of nature that the Magi did not invent, but which was nevertheless **transmitted through historical chains**:
 
-**Key Evidence**:
-- 30,000-year consistency of Paleolithic symbolic systems (32 geometric signs across European caves)
-- **Zero-contact parallelism**: Göbekli Tepe (9600 BCE), Australian Songlines, Shasu of Yhw—no transmission chain connects them
-- Innate **teleological bias** in cognition: children naturally perceive purpose in nature without training
-- Animals classified by spiritual quality (not morphology) across disconnected cultures
-- **Bene Qedem "Listenwissenschaft"**: The "science of lists" (taxonomic wisdom) preserved by nomadic tribes—Job, the greatest of the Bene Qedem, relied entirely on creation-revelation
+**The Key Distinction**:
+- Correspondence is **ontological law** (like gravity—it exists whether or not anyone articulates it)
+- But ontological law still requires **articulation and transmission** (like Newton articulating gravity, then transmitting it through education)
+- The 30,000-year consistency of Paleolithic symbols and cross-cultural parallels demonstrate the **fidelity of transmission**, not independent discovery
+- The "Ancient Word" Swedenborg describes is precisely this: a transmitted corpus, not spontaneous parallel perception
 
-**Implication**: The Magi did not invent correspondence; they **appropriated and institutionalized** what the Bene Qedem (nomadic "Children of the East") had preserved through nature observation. The "Science of Correspondences" is not esoteric transmission—it's perception of reality.
+**The Origination Question**:
+- The Magi did not **invent** correspondence; they **inherited and institutionalized** it
+- The **Bene Qedem** ("Children of the East") were the primary carriers of lived correspondential knowledge
+- The Magian priesthood appropriated and formalized this into an imperial scholarly system
+- The Magi are "final gatekeepers," not originators
+
+**Evidence for Transmission (not independent discovery)**:
+- 30,000-year consistency of Paleolithic symbolic systems = **fidelity in transmission**, not parallel invention
+- Göbekli Tepe (9600 BCE), Australian Songlines = evidence of **deep antiquity** of the tradition, not zero-contact parallelism
+- Job as "greatest of the Bene Qedem" reading correspondences in nature = the tradition predates Zoroaster
+
+**Implication**: The "Science of Correspondences" is ontological reality (not Magian invention), but it was nevertheless transmitted through historical chains. The correction is about **who originated** (Bene Qedem, or deeper antiquity) vs **who institutionalized** (Magi), not about whether transmission occurred.
 
 **Documents with reframing**:
 - [x] `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry...md` (Part III, §3.3)
@@ -493,9 +504,10 @@ Correspondence reframed as **ontological law**, independently discoverable like 
 
 #### Annotation Template
 ```markdown
-> **[REFRAMING: Correspondence Ontology]** This section treats correspondence as transmitted knowledge.
-> Later analysis reframes it as ontological law: independently discoverable across cultures
-> with zero contact (30,000-year evidence). See "Epistemic Architecture" Part III §3.3.
+> **[REFRAMING #11: Correspondence Ontology]** This section frames correspondence as Magian invention or discovery.
+> Correspondence is ontological law (the Magi did not invent it), but transmission still occurred.
+> The correction concerns WHO originated (Bene Qedem / deep antiquity) vs WHO institutionalized (Magi).
+> See "Epistemic Architecture" Part III §3.3 and "Bifurcated Gnosis" §3.
 ```
 
 ---
@@ -830,7 +842,7 @@ This correction affects multiple strains:
 |--------|--------|
 | #6 (Magi and Daniel Historicity) | Daniel's "Rab-mag" role must be recontextualized—transmission, not origination |
 | #7 (Correspondences Validation) | Zoroastrian parallels remain valid but represent *parallel preservation*, not *source* |
-| #11 (Correspondence as Ontology) | Strongly supports—Bene Qedem "read the Book of Nature daily" = independent discovery |
+| #11 (Correspondence as Ontology) | Strongly supports—Bene Qedem preserved transmitted wisdom; Magi institutionalized it |
 | #15 (Magi Narrative) | Updated—Magi as descendants of appropriators, not originators |
 
 ---

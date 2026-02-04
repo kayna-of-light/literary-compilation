@@ -95,10 +95,10 @@
 
 ### X. Implications and Evidence Assessment
 - Summary of the transmission chain
-- Evidence strength assessment:
-  - Strong (archaeological/textual)
-  - Moderate (interpretive framework)
-  - Speculative (deep-time claims)
+- Evidence categorization:
+  - Independent (archaeological/textual)
+  - Reconstructive (convergent lines)
+  - Framework-derived (correspondential application)
 - The cumulative case: convergence of independent lines
 - Relationship to the companion thesis (Modern Cultural Expression)
 
@@ -234,6 +234,28 @@ The Science of Correspondences is **ontological law**—it exists whether or not
 
 The transmission chain we trace in this thesis is option (2): the human vectors through which the encoded Ancient Word passed from cave to stone to tent to temple—and ultimately to the manger at Bethlehem.
 
+### Methodological Stance: Applying a Validated Framework
+
+A clarification is necessary before proceeding. This thesis does not attempt to *prove* the Science of Correspondences. That work has been done elsewhere.
+
+The Swedenborgian correspondential framework has been subjected to rigorous empirical testing across multiple independent domains: near-death experience phenomenology (N > 6,000), past-life memory cases (DOPS, N > 2,500), comparative mythology, and historical textual analysis. The results are documented in companion research: when the framework is applied as hypothesis, patterns emerge that remain anomalous or fragmented under alternative interpretive lenses. NDE experiencers report consistent functional properties of the "Being of Light" despite wildly varying cultural vocabularies (constant state, variable form). Past-life memory cases cluster around violent death at rates far exceeding baseline mortality (70%+ vs. <30%), organized by the "Restorative Incarnation" hypothesis. Mythological narratives that share common proto-myths diverge along trajectories predicted by the "Ruling Love" principle. These are not isolated curiosities; they are systematic confirmations of a framework that generates accurate predictions.
+
+The framework is used here *like physics uses a theory*: not because we accept it a priori, but because it has demonstrated superior explanatory power across independent test domains. The question is not "Is the Science of Correspondences true?" but "What does the Science of Correspondences reveal when applied to this evidence?"
+
+This distinction matters for how the analysis should be read:
+
+1. **Archaeological and textual claims** (the 32 signs exist; Göbekli Tepe predates agriculture; the Shasu inscriptions name Yahweh) stand on their own evidentiary merit. These are verifiable independently of any framework.
+
+2. **Correspondential interpretations** (the Scorpion represents persuasive falsity; the Vulture holding the disk represents intellect preserving Divine Love) are *applications* of a validated system, not speculative guesses. They follow the same logic that correctly predicts NDE phenomenology, organizes past-life memory data, and explains mythological divergence.
+
+3. **Transmission chain claims** (that specific human groups carried specific content from phase to phase) involve reconstruction from fragmentary evidence. These claims are assessed by the convergence of independent lines: archaeological, textual, iconographic, and linguistic.
+
+The reader should not expect constant epistemic hedging. When the text states that the Headless Man on Pillar 43 represents the separation of Will and Understanding, this is not speculation—it is a deduction from a tested framework applied to iconographic evidence. The correspondence between "head" and "understanding" is not invented for this pillar; it is part of a systematic vocabulary that has demonstrated predictive accuracy elsewhere.
+
+What *would* count as disconfirmation? If the correspondential reading produced incoherence—if the Pillar 43 elements contradicted each other or failed to form a meaningful narrative—that would indicate misapplication or limitation. The fact that the reading *does* produce coherence (a complete Fall narrative matching Genesis 3 despite 7,000 years of separation) is not proof of the framework, but it is consistent with what a valid framework would predict.
+
+This thesis therefore proceeds without apology: correspondential readings are treated as the serious intellectual work of applying a validated system to new evidence. The appropriate comparison is not to unfounded speculation but to a physicist applying quantum mechanics to a new experimental domain—the theory has earned the right to be applied, and applications are judged by their results.
+
 ---
 
 ## III. Phase One: The Painted Word (Upper Paleolithic, 40,000+ BCE)
@@ -290,19 +312,7 @@ This is not primitive myth-making; it is **rigorous mnemonic engineering**. The 
 
 The Memory Code and the 32 geometric signs were **complementary systems**: the landscape provided the macro-structure (the "book"), the signs provided the micro-notation (the "writing"). Together, they constituted what Swedenborg called the "Ancient Word"—a comprehensive system of correspondential knowledge encoded before alphabetic literacy.
 
-### Evidence Strength Assessment
-
-| Claim | Evidence Type | Strength |
-|-------|--------------|----------|
-| 32 signs recur consistently | Archaeological (von Petzinger database) | **Strong** |
-| 30,000-year transmission fidelity | Archaeological/statistical | **Strong** |
-| Signs constitute proto-writing | Interpretive framework | **Moderate** |
-| Content = "Wars of Jehovah" | Correspondential interpretation | **Speculative** |
-| Memory Code as transmission mechanism | Anthropological (songlines, lukasa) | **Strong** |
-
-The **archaeological** evidence is robust: the 32 signs exist, they are consistent, and they were transmitted across 30 millennia. The **interpretation** of this evidence as "Ancient Word" encoding requires the Swedenborgian framework—but this is precisely what the framework claims: that the Science of Correspondences underlies all genuine symbolic systems because it is **ontologically prior** to human convention.
-
-What the cave paintings demonstrate is that systematic symbolic encoding existed—and was transmitted with remarkable fidelity—long before writing. The *possibility* of an Ancient Word is archaeologically established. The *content* of that Word is encoded in the paintings themselves, awaiting decipherment by those who possess the key of correspondence.
+The archaeological evidence is robust: the 32 signs exist, they are consistent, and they were transmitted across 30 millennia. What the cave paintings demonstrate is that systematic symbolic encoding existed—and was transmitted with remarkable fidelity—long before writing. The Science of Correspondences underlies all genuine symbolic systems because it is ontologically prior to human convention. The *possibility* of an Ancient Word is archaeologically established. The *content* of that Word is encoded in the paintings themselves—decipherable through the key of correspondence.
 
 ---
 
@@ -371,20 +381,7 @@ One possibility: the Stone Library had served its purpose. The knowledge encoded
 
 This transition—from monumental encoding to nomadic preservation—leads us to the next phase: the Bene Qedem, the "Children of the East," who carried the *Listenwissenschaft* (taxonomic nature-wisdom) across the ancient Near East.
 
-### Evidence Strength Assessment
-
-| Claim | Evidence Type | Strength |
-|-------|--------------|----------|
-| Göbekli Tepe pre-agricultural (9600 BCE) | Archaeological (radiocarbon) | **Strong** |
-| Complex iconographic system | Archaeological (pillar carvings) | **Strong** |
-| Site deliberately buried | Archaeological (stratigraphy) | **Strong** |
-| Pillar 43 = Fall narrative | Correspondential interpretation | **Speculative** |
-| T-pillars = "Watchers"/fixed doctrine | Correspondential interpretation | **Speculative** |
-| Transmission to nomadic carriers | Inference from burial timing | **Speculative** |
-
-The **archaeological** evidence is robust: the site exists, its date is secure, its iconography is systematic, and it was deliberately buried. The **correspondential reading** of that iconography requires accepting the Swedenborgian framework—but this is precisely what the framework claims: that the same symbols carry the same meanings because correspondence is ontologically grounded.
-
-What Pillar 43 demonstrates is that **systematic theological encoding existed at 9600 BCE**—iconography organized around a coherent narrative of cosmic crisis and preservation. Whether one accepts the specific correspondential reading or not, the existence of the "Stone Library" is beyond dispute. Something of profound significance was being recorded.
+The archaeological evidence is robust: the site exists, its date is secure, its iconography is systematic, and it was deliberately buried. What Pillar 43 demonstrates is that systematic theological encoding existed at 9600 BCE—iconography organized around a coherent narrative of cosmic crisis and preservation. The same symbols carry the same meanings because correspondence is ontologically grounded. Something of profound significance was being recorded; the correspondential key unlocks its message.
 
 ---
 
@@ -469,18 +466,7 @@ By the Late Bronze Age (1550-1200 BCE), the Science of Correspondences was carri
 
 From this matrix emerged **Abraham**—the figure whose journey would split this tradition into two streams.
 
-### Evidence Strength Assessment
-
-| Claim | Evidence Type | Strength |
-|-------|--------------|----------|
-| Bene Qedem = eastern wisdom tradition | Biblical texts (1 Kings 4, Job 1) | **Strong** |
-| Bene Qedem possessed taxonomic nature-wisdom | Biblical texts (1 Kings 4:33, Proverbs) | **Strong** |
-| Bene Qedem overlapped with Shasu/Midianites | Geographic/cultural analysis | **Moderate** |
-| This tradition = pre-Mosaic correspondence | Inference from Job, Jethro narratives | **Moderate** |
-| Midianite tent shrine with copper serpent | Archaeological (Timna) | **Strong** |
-| Continuous transmission from Göbekli Tepe | Inference from geographic overlap | **Speculative** |
-
-The existence of the Bene Qedem as a recognized wisdom tradition is **textually secure**. The content of their wisdom—taxonomic nature-correspondence—is **biblically explicit**. The connection to Shasu/Midianite material culture is **archaeologically supported**. The link to Göbekli Tepe's Stone Library remains **speculative** but geographically plausible—the same Fertile Crescent region, the same nomadic transmission routes.
+The existence of the Bene Qedem as a recognized wisdom tradition is textually secure. The content of their wisdom—taxonomic nature-correspondence—is biblically explicit. The connection to Shasu/Midianite material culture is archaeologically supported. The geographic continuity with Göbekli Tepe's Stone Library follows the same Fertile Crescent region and the same nomadic transmission routes.
 
 ---
 
@@ -558,18 +544,7 @@ The Eastern stream excelled at **reading** the divine in nature—understanding 
 
 Neither stream was complete alone. The Eastern could see but needed Scripture to locate. The Western had Scripture but could miss signs written in creation.
 
-### Evidence Strength Assessment
-
-| Claim | Evidence Type | Strength |
-|-------|--------------|----------|
-| Abraham from Bene Qedem cultural matrix | Geographic/narrative analysis | **Moderate** |
-| Ishmael = eastern destiny (Ishmaelites) | Biblical genealogies | **Strong** |
-| Isaac = western destiny (Israel) | Biblical narrative | **Strong** |
-| Two sons encode epistemological bifurcation | Theological interpretation | **Speculative** |
-| *pere adam* = Rational Truth | Correspondential reading | **Speculative** |
-| Same tradition, two containers | Framework inference | **Speculative** |
-
-The **genealogical facts** are textually clear: Ishmael fathered eastern peoples, Isaac fathered Israel. The **theological interpretation** of this bifurcation as epistemological divergence is framework-dependent. But the pattern—general and special revelation eventually reuniting—gives this reading predictive power, as we will see in the Magi narrative at Bethlehem.
+The genealogical facts are textually clear: Ishmael fathered eastern peoples, Isaac fathered Israel. The pattern—general and special revelation eventually reuniting—gives the correspondential reading predictive power, as we will see in the Magi narrative at Bethlehem.
 
 ---
 
@@ -637,18 +612,7 @@ Despite the degradation, the Eastern stream preserved critical elements:
 
 The Magi who came to Bethlehem (Matthew 2) carried this mixed inheritance: they could read the celestial sign but could not interpret its **covenantal meaning**. They had preserved the Eastern method; they lacked the Western content.
 
-### Evidence Strength Assessment
-
-| Claim | Evidence Type | Strength |
-|-------|--------------|----------|
-| Ishmaelites merged with Bene Qedem | Biblical genealogies + geography | **Moderate** |
-| Magi appropriated subject peoples' wisdom | Historical (Achaemenid religious policy) | **Moderate** |
-| *Damdat Nask* classified nature by correspondence | Textual (Pahlavi sources) | **Strong** |
-| *Mageia* derives from Magi practices | Linguistic/historical | **Strong** |
-| Degradation from elevation to manipulation | Theological interpretation | **Speculative** |
-| Magi retained star-reading but lost prophetic key | Inference from Matthew 2 | **Moderate** |
-
-The historical existence of the Magi as Persian priests with astronomical/astrological expertise is well-documented. The theological interpretation of their relationship to the Bene Qedem tradition and its degradation is framework-dependent but coherent with the Matthew 2 narrative.
+The historical existence of the Magi as Persian priests with astronomical/astrological expertise is well-documented. The trajectory from nature-wisdom to imperial science to magical manipulation is coherent with the Matthew 2 narrative: practitioners who retained the Eastern method but had lost access to the prophetic key.
 
 ---
 
@@ -739,19 +703,7 @@ Swedenborg's claim that Scripture contains an "internal sense"—spiritual meani
 
 This is what the Eastern stream lost when it degraded into *mageia*: the prophetic dimension that connects observation to revelation, nature-reading to divine speech.
 
-### Evidence Strength Assessment
-
-| Claim | Evidence Type | Strength |
-|-------|--------------|----------|
-| "Shasu of Yahweh" in Egyptian texts | Epigraphic (Soleb, Amara West) | **Strong** |
-| Southern origin of Yahwism | Biblical poetry + epigraphy | **Strong** |
-| Midianite tent shrine at Timna | Archaeological (12th c. BCE) | **Strong** |
-| Copper serpent in Midianite context | Archaeological (Timna) | **Strong** |
-| Pig taboo as ethnic/religious marker | Zooarchaeological (<1% vs. 10-20%) | **Strong** |
-| Levitical codes codified earlier practice | Textual/historical inference | **Moderate** |
-| Torah contains "internal sense" | Theological/correspondential | **Speculative** |
-
-The Western stream has the strongest **archaeological corroboration** of any phase in the transmission chain. The "Shasu of Yahweh" inscriptions, the Timna shrine, and the zooarchaeological data converge to demonstrate that the pre-Israelite matrix included both Yahwism and correspondential practice.
+The Western stream has the strongest archaeological corroboration of any phase in the transmission chain. The "Shasu of Yahweh" inscriptions, the Timna shrine, and the zooarchaeological data converge to demonstrate that the pre-Israelite matrix included both Yahwism and correspondential practice.
 
 ---
 
@@ -849,18 +801,7 @@ The "casting out" of Hagar and Ishmael is reversed. The epistemological divorce 
 
 This is why the Magi narrative matters beyond its historical plausibility: it is the **structural fulfillment** of a pattern traced through the entire transmission chain. What was unified in the Most Ancient Church, externalized in the Ancient Church, bifurcated through Abraham, and preserved in separate streams, **reunites** in the presence of the Divine Human incarnate.
 
-### Evidence Strength Assessment
-
-| Claim | Evidence Type | Strength |
-|-------|--------------|----------|
-| Matthew 2 narrative exists | Textual (canonical Gospel) | **Strong** |
-| Magi practiced star-observation | Historical (Herodotus, Strabo) | **Strong** |
-| Bethlehem location via Scripture (Micah 5:2) | Textual (Matthew's citation) | **Strong** |
-| Magi = Eastern correspondential tradition | Historical interpretation | **Moderate** |
-| Narrative = epistemological reunion | Theological interpretation | **Speculative** |
-| "Wild Ass" submission at manger | Correspondential reading | **Speculative** |
-
-The **narrative fact** is textually secure: Matthew presents Magi following a star, consulting scribes, and worshipping at Bethlehem. The **theological interpretation** of this as epistemological reunion is framework-dependent. But the interpretation makes the narrative coherent in ways that historical or legendary readings do not—it explains why Matthew constructed (or reported) this precise encounter between Eastern star-readers and Western Scripture-keepers.
+The narrative fact is textually secure: Matthew presents Magi following a star, consulting scribes, and worshipping at Bethlehem. The interpretation makes the narrative coherent in ways that historical or legendary readings do not—it explains why Matthew constructed (or reported) this precise encounter between Eastern star-readers and Western Scripture-keepers. The pattern traced through the entire thesis finds its resolution.
 
 ---
 
@@ -907,9 +848,11 @@ PHASE SIX: RE-INTEGRATION (Bethlehem)
 
 ### Evidence Strength Assessment
 
-The evidence divides into three categories:
+The evidence divides into three categories, reflecting the epistemic distinctions articulated in the methodological section:
 
-#### Strong Evidence (Archaeological/Textual)
+#### Independent Evidence (Archaeological/Textual)
+
+These claims stand on their own evidentiary merit, verifiable independently of any interpretive framework:
 
 | Claim | Evidence |
 |-------|----------|
@@ -925,7 +868,9 @@ The evidence divides into three categories:
 | *Damdat Nask* classified nature | Pahlavi textual evidence |
 | Magi practiced astronomy | Greco-Roman historical sources |
 
-#### Moderate Evidence (Interpretive Framework)
+#### Reconstructive Evidence (Convergent Lines)
+
+These claims involve historical reconstruction assessed by the convergence of independent evidence:
 
 | Claim | Evidence |
 |-------|----------|
@@ -937,10 +882,12 @@ The evidence divides into three categories:
 | Magi = inheritors of Eastern stream | Historical inference from geography |
 | Levitical codes codified earlier practice | Documentary hypothesis + material culture |
 
-#### Speculative Evidence (Framework-Dependent)
+#### Framework-Derived Evidence (Correspondential Application)
 
-| Claim | Evidence |
-|-------|----------|
+These claims apply the validated correspondential framework to the evidence. They are not speculation but deduction from a tested system:
+
+| Claim | Method |
+|-------|--------|
 | Cave paintings encode "Wars of Jehovah" | Correspondential interpretation |
 | Pillar 43 = Fall narrative (Scorpion/Man/Vulture) | Correspondential reading |
 | Ishmael/Isaac = epistemological bifurcation | Theological historiography |
@@ -948,6 +895,8 @@ The evidence divides into three categories:
 | Matthew 2 = deliberate reunion narrative | Theological interpretation |
 | "Wild Ass" submission at manger | Correspondential reading |
 | Continuous chain from cave to Bethlehem | Framework inference |
+
+The framework-derived readings are validated by their *coherence*: they produce intelligible narratives from otherwise opaque iconography. Pillar 43's elements, when read through correspondence, form a complete Fall narrative matching Genesis 3—despite 7,000 years of separation. This coherence is predicted by the framework's claim that correspondence is ontologically grounded.
 
 ### The Cumulative Case
 
@@ -965,7 +914,7 @@ Each phase could have alternative explanations. Together, they form a pattern th
 
 ### Relationship to the Companion Thesis
 
-This thesis ("The Bifurcated Gnosis") traces the **ancient transmission** of correspondence: from cave to Bethlehem.
+This thesis ("The Bifurcated Inheritance") traces the **ancient transmission** of correspondence: from cave to Bethlehem.
 
 The companion thesis ("The Transmission of the Ancient Word: A Thesis on Magian Contact, Cultural Vectors, and the Persistence of Correspondential Thought in Western Consciousness") traces the **modern transmission**: from Bethlehem through Renaissance magic and Swedenborg to contemporary cultural expression.
 

@@ -69,7 +69,7 @@
   - Teaching exclusively in correspondences (parables)
   - **The parallel transmission line: Babylonian Exile to Essenes**
     - Transmission to Jewish streams occurred 200+ years BEFORE Persepolis (586-332 BCE)
-    - Daniel as Rab-hartummin (Chief of Magicians); Persian-period cultural osmosis
+    - The Book of Daniel: ~20 Persian loanwords, Magian terminology, proof of deep cultural osmosis
     - The Essenes were not last Magi—they were a separate branch
     - When Persepolis fell (330 BCE), the Essene lineage was already self-sustaining
   - The transmission vector: Essene preservation of Enochic literature
@@ -576,7 +576,7 @@ In 586 BCE, the Babylonian Empire destroyed Jerusalem and deported the Jewish el
 
 The critical insight: **the transmission to Jewish streams occurred 200+ years BEFORE Persepolis was destroyed.**
 
-During the Persian period (539-332 BCE), Jewish leaders like Ezra and Nehemiah served as high-ranking officials in the Persian court. The prophet Daniel was trained in "the learning and tongue of the Chaldeans" (Dan 1:4) and appointed *Rab-hartummin* (Chief of Magicians) and *Rab-signīn* (Chief Prefect) over the wise men of Babylon (Dan 2:48, 4:9).^[H8] This proximity facilitated cultural osmosis—not casual contact but deep integration at the administrative and priestly levels.
+During the Persian period (539-332 BCE), Jewish leaders like Ezra and Nehemiah served as high-ranking officials in the Persian court. The Book of Daniel—whether its protagonist is historical personage or literary synthesis—provides the most thorough evidence of this integration. The text is saturated with approximately 20 Persian loanwords (*partemim*, *dāt*, *raz*, *ahashdarpanim*), even when describing the Babylonian court. Its protagonist is depicted as trained in "the learning and tongue of the Chaldeans" (Dan 1:4) and appointed *Rab-hartummin* (Chief of Magicians) and *Rab-signīn* (Chief Prefect) over the wise men of Babylon (Dan 2:48, 4:9).^[H8] The very existence of this text—regardless of its protagonist's historicity—demonstrates that Jewish scribes were deeply embedded in the Persian administrative and linguistic sphere. This was not casual contact but deep integration at the administrative and priestly levels.
 
 The concepts that entered Judaism during this period include:
 - **The Two Spirits doctrine** — appearing in the Qumran *Rule of the Community* virtually identical to Gathic "Twin Spirits"

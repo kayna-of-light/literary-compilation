@@ -187,6 +187,65 @@ Key for external triangulation (SWED-037 principle). Framework cannot validate i
 
 ---
 
+### [GDR] The Neolithic Transmission: From Göbekli Tepe to Early Dynastic Sumer
+
+**Target**: `[GDR]`  
+**Status**: Open  
+**Date Added**: 2026-02-05  
+**Priority**: HIGH  
+**Related Nodes**: MYTH-*, SWED-*  
+**Related Documents**: 
+- `data/06_Mythological_Studies/The Lithic Palimpsest_ Göbekli Tepe and the Correspondential Decoding of the Earliest Theological Archive.md`
+- `data/06_Mythological_Studies/The Ebla Archives_ Taxonomic Science and Lexicographical Traditions in Third Millennium BCE Syria.md`
+
+**Context**:
+Our synthesis posits continuity in correspondential/taxonomic thinking from Göbekli Tepe (c. 9600 BCE) through the Bronze Age *Listenwissenschaft* tradition documented at Ebla (c. 2400 BCE). This spans approximately 7,000 years. We have now documented both endpoints:
+
+- **Early endpoint**: The "Lithic Palimpsest" analyzes Göbekli Tepe's animal iconography (bulls, serpents, scorpions, vultures, boars) as a correspondential symbolic system — animals categorized by spiritual function, not morphology
+- **Late endpoint**: The Ebla Archives document sophisticated taxonomic science (*Listenwissenschaft*) with specific Eblaite → Hebrew cognates and continuous lexicographical tradition through the Gilgamesh Epic
+
+**The Gap**: The Neolithic period (c. 8000-4000 BCE) represents ~4,000 years of transmission we have not systematically documented. Key sites include:
+
+- **Çatalhöyük** (c. 7500-5700 BCE, Anatolia) — Dense settlement with bull shrines, hunting scenes, elaborate burials
+- **'Ain Ghazal** (c. 7200-5000 BCE, Jordan) — Monumental plaster statues with inlaid eyes
+- **Tell Halaf / Halaf Culture** (c. 6100-5100 BCE, Northern Mesopotamia/Syria) — Distinctive painted pottery with animal motifs
+- **Ubaid Period** (c. 6500-3800 BCE, Southern Mesopotamia) — Precursor to Sumerian civilization
+- **Uruk Period** (c. 4000-3100 BCE) — First writing (proto-cuneiform), first cities
+
+**Research Questions**:
+
+1. **Iconographic Continuity**: Do the animal motifs at Neolithic sites (Çatalhöyük bulls, Halaf pottery) show continuity with Göbekli Tepe iconography? Are the same animals (bull, serpent, vulture, scorpion, boar) consistently prominent, or do the symbolic priorities shift?
+
+2. **Categorization Evidence**: Is there archaeological evidence for taxonomic thinking in pre-literate Neolithic contexts? How do scholars interpret the organization of animal imagery at sites like Çatalhöyük?
+
+3. **The Agricultural Transition**: How did the shift from hunting-gathering to agriculture affect symbolic systems? Did the same animals retain significance, or did domesticated animals (sheep, goat, cattle) replace wild fauna in the symbolic register?
+
+4. **Regional Variation vs. Continuity**: Did different Neolithic cultures (Anatolian, Levantine, Mesopotamian) develop distinct symbolic traditions, or is there evidence of a shared symbolic vocabulary across the Fertile Crescent?
+
+5. **Proto-Cuneiform Origins**: What do scholars say about the conceptual categories that underlie early Sumerian writing? Were the lexical categories (animals, plants, professions) inherited from earlier non-literate traditions, or were they innovations of the literate period?
+
+6. **The Halaf-Ubaid Transition**: The Halaf culture (Northern Syria/Mesopotamia) is geographically positioned between Göbekli Tepe and later Ebla. What do scholars know about Halaf symbolic systems, and is there evidence of continuity southward to Ubaid/Sumer?
+
+7. **Ritual Continuity**: Is there evidence that the same animals held consistent ritual/symbolic functions across the Neolithic period? For example, does the bull maintain its prominence from Göbekli Tepe through Çatalhöyük to Sumerian iconography?
+
+**Methodological Requirements**:
+- Prioritize peer-reviewed archaeological publications and Near Eastern archaeology journals
+- Cite site reports and iconographic studies (Hodder for Çatalhöyük, Schmidt for Göbekli Tepe)
+- Distinguish between securely attested iconographic evidence and interpretive speculation
+- Note regional and temporal variations — the Neolithic is not monolithic
+- Be explicit about what evidence exists vs. what remains unknown
+
+**Expected Output**:
+A comprehensive synthesis tracing animal iconography and taxonomic/categorical thinking from the Pre-Pottery Neolithic (Göbekli Tepe) through the emergence of Sumerian *Listenwissenschaft*. The output should identify:
+- Points of documented continuity (same animals, same functions)
+- Points of transformation (new categories, shifted priorities)
+- Gaps in the archaeological record where continuity cannot be established
+
+**Notes**:
+This research addresses the central "missing middle" in our transmission hypothesis. If we can document symbolic/taxonomic continuity across the Neolithic, the Göbekli Tepe → Ebla → Hebrew chain becomes much stronger. If the evidence shows discontinuity or transformation, we need to revise how we frame the transmission. Either outcome advances the framework.
+
+---
+
 ### [GDR] The Ebla Archives: Taxonomic Science and Lexicographical Traditions in Third Millennium BCE Syria
 
 **Target**: `[GDR]`  

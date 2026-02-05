@@ -187,6 +187,49 @@ Key for external triangulation (SWED-037 principle). Framework cannot validate i
 
 ---
 
+### [GDR] The Ebla Archives: Taxonomic Science and Lexicographical Traditions in Third Millennium BCE Syria
+
+**Target**: `[GDR]`  
+**Status**: Open  
+**Date Added**: 2026-02-05  
+**Priority**: HIGH  
+**Related Nodes**: MYTH-*, SWED-*  
+**Related Document**: `data/06_Mythological_Studies/The Umm el-Marra Discovery_ Archaeological Confirmation of Bene Qedem Literacy in the Bronze Age.md`
+
+**Context**:
+Recent archaeological discoveries at Tell Umm el-Marra (c. 2400 BCE) have identified what may be the earliest alphabetic writing, located just 35 miles east of the ancient city of Ebla (Tell Mardikh). The Ebla archives, comprising approximately 20,000 cuneiform tablets dated to c. 2400-2300 BCE, represent one of the largest documentary finds from the Early Bronze Age. These archives are roughly contemporary with the Umm el-Marra inscriptions and geographically proximate—suggesting shared intellectual culture.
+
+The Hebrew Bible explicitly compares Solomon's wisdom to "the wisdom of all the children of the East (*Bene Qedem*) and all the wisdom of Egypt" (1 Kings 4:30), characterizing this wisdom as taxonomic: the ability to "speak of trees... beasts... birds... creeping things... and fish" (1 Kings 4:33). This fourfold biological classification parallels both the taxonomic structures of Leviticus 11 and the Mesopotamian intellectual tradition known as *Listenwissenschaft* ("science of lists").
+
+**Research Questions**:
+
+1. **Content and Structure of Eblaite Lexical Lists**: What specific taxonomic categories appear in the Ebla lexical corpus? Are there documented lists of animals, plants, birds, fish, and minerals? How do these categories compare to later biblical taxonomies (Leviticus 11, 1 Kings 4:33)?
+
+2. **The Eblaite Language and West Semitic Connections**: What is the current scholarly consensus on the linguistic classification of Eblaite? What cognates or semantic parallels exist between Eblaite terminology and biblical Hebrew, particularly in taxonomic vocabulary?
+
+3. **Intellectual Culture and Scribal Training**: What do the Ebla archives reveal about scribal education and the transmission of knowledge in third millennium BCE Syria? Is there evidence of a standardized "curriculum" involving lexical lists?
+
+4. **Trade Networks and Geographic Reach**: What do the Ebla commercial archives document regarding trade routes and geographic connections? Specifically, is there evidence of commercial or cultural contact with the regions later associated with the *Bene Qedem* (Transjordan, Arabian Peninsula, southern Levant)?
+
+5. **Relationship to Umm el-Marra**: Given the geographic proximity (35 miles) and chronological overlap (both c. 2400 BCE), what scholarly literature addresses the relationship between Ebla's cuneiform bureaucratic culture and the surrounding pastoral/nomadic populations? Is there evidence of a parallel linear script tradition at Ebla or acknowledgment of non-cuneiform writing systems?
+
+6. **The *Listenwissenschaft* Paradigm**: How do scholars characterize the intellectual purpose of Mesopotamian and Syrian lexical lists? Is there evidence that these lists served theological or cosmological functions beyond administrative utility—i.e., that naming and classifying was understood as discerning essential properties rather than mere cataloguing?
+
+**Methodological Requirements**:
+- Prioritize peer-reviewed archaeological publications and Assyriology journals
+- Cite primary excavation reports (Matthiae, Pettinato, Archi) where possible
+- Distinguish between securely attested findings and scholarly speculation
+- Note any significant controversies or disputed interpretations in Eblaite studies
+- Provide specific examples of lexical list content where available
+
+**Expected Output**:
+A comprehensive scholarly synthesis addressing the above questions, with particular attention to evidence that either supports or challenges the hypothesis that a sophisticated taxonomic intellectual tradition ("nature wisdom") existed in Bronze Age Syria that predates and potentially influenced later Israelite wisdom literature.
+
+**Notes**:
+This research fills a significant gap. Our synthesis attributes *Listenwissenschaft* to the *Bene Qedem* but lacks detailed engagement with the primary archaeological evidence from Ebla. The Umm el-Marra discovery creates urgency—we now have alphabetic writing in the same region and period, making the Ebla archives directly relevant to understanding what intellectual culture existed in the *Bene Qedem* territory.
+
+---
+
 ### Source Tracing Follow-Up Questions (2025-12-29)
 
 The following questions emerged from source tracing analysis of the NDE empirical documents. See `docs/SOURCE_TRACE_REPORT_conceptual_framework_deep_dive.md` for full report.

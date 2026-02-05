@@ -190,11 +190,12 @@ Key for external triangulation (SWED-037 principle). Framework cannot validate i
 ### [GDR] The Ebla Archives: Taxonomic Science and Lexicographical Traditions in Third Millennium BCE Syria
 
 **Target**: `[GDR]`  
-**Status**: Open  
+**Status**: ✅ RESOLVED  
 **Date Added**: 2026-02-05  
+**Date Resolved**: 2026-02-05  
 **Priority**: HIGH  
 **Related Nodes**: MYTH-*, SWED-*  
-**Related Document**: `data/06_Mythological_Studies/The Umm el-Marra Discovery_ Archaeological Confirmation of Bene Qedem Literacy in the Bronze Age.md`
+**Output Document**: `data/06_Mythological_Studies/The Ebla Archives_ Taxonomic Science and Lexicographical Traditions in Third Millennium BCE Syria.md`
 
 **Context**:
 Recent archaeological discoveries at Tell Umm el-Marra (c. 2400 BCE) have identified what may be the earliest alphabetic writing, located just 35 miles east of the ancient city of Ebla (Tell Mardikh). The Ebla archives, comprising approximately 20,000 cuneiform tablets dated to c. 2400-2300 BCE, represent one of the largest documentary finds from the Early Bronze Age. These archives are roughly contemporary with the Umm el-Marra inscriptions and geographically proximate—suggesting shared intellectual culture.
@@ -227,6 +228,20 @@ A comprehensive scholarly synthesis addressing the above questions, with particu
 
 **Notes**:
 This research fills a significant gap. Our synthesis attributes *Listenwissenschaft* to the *Bene Qedem* but lacks detailed engagement with the primary archaeological evidence from Ebla. The Umm el-Marra discovery creates urgency—we now have alphabetic writing in the same region and period, making the Ebla archives directly relevant to understanding what intellectual culture existed in the *Bene Qedem* territory.
+
+**Resolution Summary**:
+GDR produced a comprehensive 259-line document covering all six research questions:
+1. **Lexical Lists**: Documented bird lists (*sa-su-ga-lum* = Hebrew *ssgr*), fish lists, botanical lists (*arzatum* = Hebrew *'erez*), and the "lion of the ground" kenning for snake
+2. **Eblaite Language**: East Semitic with strong West Semitic cognates; first-person pronoun */ˀanā/* aligns with Hebrew *'ani*
+3. **Scribal Training**: Evidence of "Ebla Sign List" curriculum; tablets stored upright with *incipit* visible
+4. **Trade Networks**: Tuba (Umm el-Marra) identified as Ebla vassal; lapis lazuli/metal trade routes documented
+5. **Umm el-Marra Relationship**: "Silanu" cylinders analyzed as portable tagging system; alphabet possibly developed for mobile commerce
+6. **Listenwissenschaft**: Bilingual dictionaries (Eblaite-Sumerian) as first comparative linguistics; naming understood as discerning cosmic order
+
+**Key Findings**:
+- Table 1 provides specific Sumerian → Eblaite → Hebrew cognate chains with biblical parallels
+- 4.2kya climate event explains collapse and shift to pastoral carriers
+- 62 external academic citations (ORACC, Brill, Cambridge, Rutgers)
 
 ---
 

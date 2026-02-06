@@ -190,10 +190,12 @@ Key for external triangulation (SWED-037 principle). Framework cannot validate i
 ### [GDR] The Neolithic Transmission: From Göbekli Tepe to Early Dynastic Sumer
 
 **Target**: `[GDR]`  
-**Status**: Open  
+**Status**: ✅ RESOLVED  
 **Date Added**: 2026-02-05  
+**Date Resolved**: 2026-02-06  
 **Priority**: HIGH  
 **Related Nodes**: MYTH-*, SWED-*  
+**Output Document**: `data/06_Mythological_Studies/The Neolithic Transmission_ Iconographic and Taxonomic Continuity from Göbekli Tepe to Early Dynastic Sumer.md`
 **Related Documents**: 
 - `data/06_Mythological_Studies/The Lithic Palimpsest_ Göbekli Tepe and the Correspondential Decoding of the Earliest Theological Archive.md`
 - `data/06_Mythological_Studies/The Ebla Archives_ Taxonomic Science and Lexicographical Traditions in Third Millennium BCE Syria.md`
@@ -243,6 +245,19 @@ A comprehensive synthesis tracing animal iconography and taxonomic/categorical t
 
 **Notes**:
 This research addresses the central "missing middle" in our transmission hypothesis. If we can document symbolic/taxonomic continuity across the Neolithic, the Göbekli Tepe → Ebla → Hebrew chain becomes much stronger. If the evidence shows discontinuity or transformation, we need to revise how we frame the transmission. Either outcome advances the framework.
+
+**Resolution Summary (2026-02-06)**:
+GDR produced two documents addressing this research question. Both contained valuable archaeological data but applied correspondential interpretations uncritically (assuming all symbol-users had "good hearts") and referenced the bicameral mind hypothesis (which the framework has refuted). The documents were synthesized into a single clean empirical report that:
+
+- Documents the transmission pathway: Göbekli Tepe → Çatalhöyük → 'Ain Ghazal → Halaf/Samarra → Ubaid → Uruk → Ebla
+- Confirms iconographic continuity: vulture+headless man motif appears at both Göbekli Tepe AND Çatalhöyük (2,000 years apart)
+- Tracks bull transformation: wild relief → bucrania → geometric sign → mythological deity (Gugalanna)
+- Documents pig exclusion emerging at Domuztepe (Halaf period): pigs in domestic refuse but excluded from ritual feasts
+- Shows mathematical taxonomy in Halaf pottery: petal counts in geometric progressions (4, 8, 16, 32, 64)
+- Traces token-to-writing evolution via Schmandt-Besserat's research
+- Identifies nomadic vectors as transmission mechanism across 4.2kya collapse
+
+Key finding: The "Neolithic Gap" was not cognitive silence but active media transformation—knowledge migrating from stone → plaster → ceramics → seals → cuneiform while maintaining recognizable iconographic forms.
 
 ---
 

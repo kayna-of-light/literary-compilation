@@ -209,13 +209,18 @@ What the framework does offer is diagnosis: the capacity to read what the outer 
 
 The Golden Age perception that Swedenborg describes was not analytical. It did not proceed by comparing objects to lists of correspondences. It was immediate, intuitive, direct—the spiritual reality seen through the natural form as seamlessly as meaning is heard through spoken words.
 
-This mode of perception did not vanish absolutely. It degraded, became intermittent, went underground. But it continues to operate in people who have not fully suppressed it.
+This mode of perception has not vanished. Everyone still perceives correspondentially. The difference is not between those who perceive and those who don't, but between what different ruling loves do with what is perceived.
 
-Consider: when a person walks into a glass-and-steel building and feels something is cold, unwelcoming, inhuman—they are perceiving correspondentially. They are not consulting a concordance. They are feeling the coldness that corresponds to the materials. Their perception is accurate even if they lack the framework to articulate why.
+Consider: when a person walks into a glass-and-steel building, they perceive its coldness. This perception is universal. But what happens next depends on ruling love:
 
-Or consider the person who feels unease at the bacon meme culture, who senses something off about the celebration of indulgence-as-identity, who cannot quite explain why "pig out" feels like it names something true. That perception is correspondential. The connection between pig and self-indulgence is not learned from Swedenborg; it is perceived directly, then confirmed by the framework.
+- The person whose ruling love is oriented toward control, efficiency, and separation perceives the coldness and evaluates it as *excellent*—clean, impressive, powerful, professional.
+- The person whose ruling love is oriented toward warmth, connection, and life perceives the same coldness and evaluates it as *repulsive*—inhuman, dead, alienating.
 
-The science of correspondences does not create this perception. It authorizes it. It says: what you are seeing is real. Your intuition that dead materials express dead states, that the celebration of the pig expresses the celebration of self-love—this is not projection. This is recognition.
+Both are perceiving the correspondence. The glass IS cold. The perception is accurate in both cases. What differs is whether coldness attracts or repels—and that is determined by ruling love.
+
+The same applies to bacon culture. Everyone perceives the correspondence between pig and self-indulgence. The language makes it explicit: "pig out," "guilty pleasure," "I'm such a pig." The person who celebrates bacon is perceiving the same correspondence as the person who feels uneasy about the celebration. One ruling love finds self-indulgence attractive; another finds it troubling. Both are perceiving accurately.
+
+The science of correspondences does not create perception—everyone already perceives. What the framework provides is articulation: the capacity to name what is being perceived and understand why different ruling loves respond to the same correspondence differently.
 
 ### 3.4 Modern People Still Operate Correspondentially
 

@@ -150,9 +150,7 @@ The geographic data in Genesis 2 and Job anchors these texts in a world that had
 
 Genesis 2:10-14 describes four rivers: Pishon, Gihon, Hiddekel (Tigris), and Euphrates.
 
-**The Pishon and Havilah:** The Pishon, which flows around "Havilah," has been identified via satellite imagery with a fossil river system (sometimes called the "Kuwait River") that flowed from the Hijaz mountains across the Arabian peninsula to the Persian Gulf. This river system dried up c. 2500–2000 BCE.
-
-> **[Note: This claim requires proper scholarly citation. The underlying satellite archaeology is attributed to Farouk El-Baz's work, but a peer-reviewed source should be located for final documentation.]**
+**The Pishon and Havilah:** The Pishon, which flows around "Havilah," has been identified via satellite imagery with a fossil river system that flowed from the Hijaz mountains across the Arabian peninsula to the Persian Gulf. Geologist Farouk El-Baz of Boston University, using satellite photography, traced a dry channel from Kuwait up the Wadi al-Batin and Wadi al-Rummah system, originating near Medina—a distance of some 850 kilometers. James A. Sauer, former curator of the Harvard Semitic Museum, connected this discovery to the biblical Pishon, noting that the river system dried up c. 3500–2000 BCE due to climate change.
 
 A text composed in the 6th century BCE would be unlikely to recall a river system that had been extinct for 1,500 years. The preservation of this geographic memory suggests a much earlier origin for the tradition.
 
@@ -262,3 +260,7 @@ This analysis suggests that the Book of Job and Genesis 1-2 serve as "linguistic
 14. Dahood, Mitchell. "Ebla, Ugarit, and the Bible." In *The Archives of Ebla: An Empire Inscribed in Clay*, edited by Giovanni Pettinato. Garden City: Doubleday, 1981.
 
 15. Wiseman, P.J. *Ancient Records and the Structure of Genesis: A Case for Literary Unity*. Nashville: Thomas Nelson, 1985.
+
+16. El-Baz, Farouk. "A River in the Desert." *Discover*, July 1993.
+
+17. Sauer, James A. "The River Runs Dry: Creation Story Preserves Historical Memory." *Biblical Archaeology Review* 22, no. 4 (July/August 1996): 52-54, 57, 64.

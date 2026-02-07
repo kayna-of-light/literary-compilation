@@ -110,6 +110,102 @@ The framework document attributes a specific formulation to Allan Kellehear: tha
 2. If not, identify the closest matching passage in that paper that supports the same argumentative point, with page/section.
 3. If the phrase originates in a different Kellehear publication, identify that work (full citation) and the page/section containing the wording.
 
+### [GDR] Systematic Re-Dating of the Hebrew Bible: Evidence-Based Chronology vs. Consensus Dating
+
+**Target**: `[GDR]`  
+**Status**: Open  
+**Date Added**: 2026-02-07  
+**Priority**: CRITICAL  
+**Related Documents**: 
+- `data/03_Biblical_Scholarship/The Ancient Word_ Philological Evidence for the Uruk-Ebla Origins of Genesis 1-11 and the Book of Job.md`
+- `data/03_Biblical_Scholarship/Job vs. Proverbs_ The Theological Contest over Retribution Wisdom in the 3rd Millennium.md`
+- `data/03_Biblical_Scholarship/The Paradigm That Cannot See_ Linguistic Dating and the Suppression of Third-Millennium Origins.md`
+
+**Context**:
+
+The standard consensus dating of Hebrew Bible texts relies heavily on linguistic dating methods—classifying features as "Early Biblical Hebrew" (EBH) or "Late Biblical Hebrew" (LBH) and assigning dates accordingly. This method has been comprehensively falsified by Young, Rezetko, and Ehrensvärd (2008) in *Linguistic Dating of Biblical Texts*, who demonstrated that:
+
+1. "Late" features appear in pre-exilic inscriptions (Lachish letters, Siloam tunnel)
+2. "Early" features appear in post-exilic texts (Chronicles, Qumran)
+3. Feature distribution correlates with **register** (formal/colloquial), not **chronology**
+4. The EBH/LBH distinction is an artifact, not a dating tool
+
+Additionally, philological evidence (Eblaite cognates, extinct vocabulary, archaic morphology) demonstrates that texts like Genesis 1-11 and Job preserve **third-millennium material** that predates Hebrew itself—material that could not have been "invented" by Persian-period scribes.
+
+Despite this, consensus dating continues to place most biblical texts in the Persian period or later, using the falsified linguistic method. This creates a systematic distortion across biblical scholarship.
+
+**Research Question**:
+
+Produce a comprehensive re-evaluation of the dating of the entire Hebrew Bible/Tanakh, organized by book/section, applying:
+
+1. **The YRE critique**: Reject EBH/LBH classification as a dating method
+2. **Philological evidence**: Incorporate Eblaite cognates, Ugaritic parallels, archaic morphology
+3. **Archaeological constraints**: What terminus ante quem/post quem does actual archaeology provide?
+4. **Geographic/historical knowledge**: What knowledge does the text preserve that was unavailable at certain periods? (e.g., Kuwait River = pre-2000 BCE)
+5. **Genre and transmission analysis**: Distinguish between (a) date of core material, (b) date of compilation, (c) date of final redaction
+
+**Deliverables**:
+
+For EACH book/section of the Tanakh, provide:
+
+| Category | Required Information |
+|----------|---------------------|
+| **Book/Section** | Name and traditional attribution |
+| **Consensus Date** | Standard scholarly dating with rationale |
+| **Method Critique** | How much of that dating relies on falsified linguistic method? |
+| **Philological Evidence** | Archaic features, cognates, extinct vocabulary |
+| **Archaeological Constraints** | Actual hard dates from inscriptions, references, etc. |
+| **Proposed Core Date** | When does the *material* originate (vs. compilation)? |
+| **Proposed Compilation Date** | When was it assembled into current form? |
+| **Confidence Level** | Strong/Moderate/Speculative with reasoning |
+
+**Specific Questions by Section**:
+
+**Torah/Pentateuch**:
+- Genesis 1-11: What is the earliest date compatible with *Listenwissenschaft* structure, Eblaite vocabulary, Kuwait River knowledge?
+- Genesis 12-50: Patriarchal narratives—what archaeological/philological evidence constrains dating?
+- Exodus-Deuteronomy: Distinguish Sinai traditions, wilderness traditions, legal codes. Which elements show pre-monarchic features?
+
+**Former Prophets (Joshua-Kings)**:
+- What is the actual evidence for the "Deuteronomistic History" hypothesis?
+- Do these texts preserve pre-monarchic oral traditions? What linguistic fossils indicate age?
+
+**Latter Prophets**:
+- Isaiah: Three-Isaiah hypothesis—what is the actual philological evidence?
+- Jeremiah, Ezekiel: Persian-period dating relies on what method?
+- Minor Prophets: Individual dating assessments
+
+**Writings**:
+- **Job**: Critical case study. Eblaite cognates (*mw*, *min'lam*), archaic morphology. What date does the evidence support?
+- **Psalms**: Can individual psalms be dated? What shows antiquity vs. late composition?
+- **Proverbs**: Relationship to Instructions of Shuruppak, Egyptian wisdom literature. What is the actual transmission history?
+- **Ecclesiastes**: Often dated late (Aramaisms). Does YRE critique change this?
+- **Daniel**: Maccabean dating—based on what evidence? Is the Aramaic actually late, or formal register?
+- **Chronicles, Ezra-Nehemiah**: Generally agreed late—what is the actual evidence?
+
+**Key Methodological Principles**:
+
+1. **Do NOT accept consensus dating as baseline**. Treat it as one hypothesis among others.
+2. **Distinguish evidence types**: Linguistic, archaeological, historical reference, genre analysis
+3. **Apply YRE critique consistently**: If a dating relies on EBH/LBH classification, flag it
+4. **Look for anachronisms in BOTH directions**: Not just "too early" but "too late" (knowledge that shouldn't exist if text is as late as claimed)
+5. **Separate layers**: Core traditions vs. compilation vs. final editing
+
+**Expected Output**:
+
+A comprehensive reference document titled: **"Evidence-Based Chronology of the Hebrew Bible: A Post-YRE Re-Evaluation"**
+
+This document should be usable as:
+1. A reference for framework research
+2. A challenge to consensus dating in biblical scholarship
+3. A map of where evidence is strong vs. where it is speculative
+
+**Notes**:
+
+This research question emerges from the discovery that the user's intuition about proto-myth origins was correct but was never validated because the sources consulted operated within the consensus paradigm. The goal is to produce a systematic alternative chronology based on actual evidence rather than a falsified method.
+
+---
+
 ### [NDE] Systematic Verification of NDE Statistical Claims in Framework
 
 **Target**: `[NDE]`  

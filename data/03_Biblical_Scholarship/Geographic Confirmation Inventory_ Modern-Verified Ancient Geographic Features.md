@@ -227,11 +227,26 @@ The following table synthesizes the confirmed features, their biblical source, t
 
 ## ---
 
-**8\. Conclusion**
+**8\. Conclusion: What the Data Show and Do Not Show**
 
-The integration of satellite archaeology, geology, and epigraphic data demonstrates that the geographic substructure of the Genesis and Exodus narratives is not a fictional invention of the 1st millennium BCE. Instead, it rests upon a bedrock of verifiable physical realities that existed in the Bronze Age but were often extinct or radically altered by the Iron Age.
+The integration of satellite archaeology, geology, and epigraphic data documents that the geographic substructure of the Genesis and Exodus narratives corresponds to verifiable physical realities that existed in the Bronze Age but were often extinct or radically altered by the Iron Age.
 
-The **Pishon River** stands as the premier example: a feature physically erased from the surface by climate change 4,000 years ago, yet preserved in the text with accurate economic metadata (gold, bdellium). Similarly, the **coastline of Ur**, the **slave prices of the Patriarchal narratives**, and the **toponyms of the Eblaite Atlas** constrain the origins of these traditions to the 3rd and 2nd millennia BCE. While the theological interpretation of these texts remains a matter of faith, the geographic scaffold upon which they are built is increasingly visible to the "eye in the sky" of modern remote sensing. The data suggests that the biblical writers functioned not merely as creators of myth, but as curators of an exceptionally ancient geographic memory.
+**What the data demonstrate:**
+- The **Pishon River** (Kuwait River system) was physically erased from the surface by climate change circa 2000 BCE, yet Genesis preserves accurate economic metadata (gold, bdellium) correlating to the Mahd adh Dhahab gold deposits at its headwaters
+- The **coastline of Ur** in the Bronze Age placed the city on the sea; by the Iron Age it was far inland
+- **Slave prices** in the Patriarchal narratives match MBA economic conditions (Kitchen's inflation curve)
+- **Toponyms** in the Eblaite Atlas (3rd millennium BCE) correlate with Genesis place names
+
+**What the data constrain:**
+- A wholly late composition would need to explain accurate description of geographic features that had ceased to exist 1,500+ years before the supposed date of writing
+- The text's geographic knowledge is consistent with Bronze Age origins
+
+**What the data do not determine:**
+- The mechanism by which this geographic information was preserved
+- The intentions of whoever composed or compiled these texts
+- Whether the narratives describe historical events in any modern sense
+
+The geographic scaffold of Genesis rests on verifiable physical realities of the 3rd and 2nd millennia BCE. The data speak to age; they do not speak to intention.
 
 #### **Works cited**
 

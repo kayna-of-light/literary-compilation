@@ -407,6 +407,83 @@ python scripts/graph_utils.py fix-inverses [--dry-run]  # Add all missing invers
 
 **Graph Update Path**: All node creation, updates, deletions, and fetches must go through `graph_utils.py` commands above—do not edit `graph/knowledge_graph.yaml` directly.
 
+### Google Drive Sync (PDF Library Mirror)
+
+To sync documents to Google Drive as styled PDFs, use `scripts/mirror_library_to_drive.py`:
+
+```bash
+# Sync a single file (preferred for quick updates):
+python scripts/mirror_library_to_drive.py --only "03_Biblical_Scholarship/The Stratigraphy of the Hebrew Bible_ A Philological and Archaeological Re-evaluation.md"
+
+# Sync multiple specific files:
+python scripts/mirror_library_to_drive.py --only "path/to/file1.md" --only "path/to/file2.md"
+
+# Sync entire library (slower, use sparingly):
+python scripts/mirror_library_to_drive.py
+
+# Force rebuild even if file hasn't changed:
+python scripts/mirror_library_to_drive.py --only "path/to/file.md" --force
+
+# Dry run (preview without uploading):
+python scripts/mirror_library_to_drive.py --only "path/to/file.md" --dry-run
+```
+
+**Notes:**
+- Paths are relative to `data/` directory
+- Uses OAuth authentication (token cached in `secrets/google_drive_token.json`)
+- PDFs are styled and uploaded to the configured Drive folder
+- Use `--only` flag for individual file updates to avoid full library rebuild
+
+### Normalize Internal Links
+
+To convert Google Drive links (from Deep Research output) to internal repo links, use `scripts/normalize_internal_links.py`:
+
+```bash
+# Dry-run (default) - shows what would change:
+python scripts/normalize_internal_links.py
+
+# Process specific file(s):
+python scripts/normalize_internal_links.py --only "03_Biblical_Scholarship/Some Document.md"
+
+# Actually apply changes:
+python scripts/normalize_internal_links.py --apply
+
+# Generate JSON report of all changes:
+python scripts/normalize_internal_links.py --apply --report-json temp/link_changes.json
+```
+
+**What it does:**
+- Finds Google Drive URLs in markdown files
+- Resolves Drive file IDs to filenames via API
+- Matches filenames to local library documents
+- Rewrites links as relative internal paths
+- Also URL-escapes spaces in existing internal links
+
+### Rename Files to Match Titles
+
+To rename markdown files to match their H1 document titles, use `scripts/rename_to_titles.py`:
+
+```bash
+# Dry-run (default) - shows what would be renamed:
+python scripts/rename_to_titles.py
+
+# Analyze title lengths (to tune truncation):
+python scripts/rename_to_titles.py --analyze
+
+# Actually rename files:
+python scripts/rename_to_titles.py --apply
+
+# Use custom max filename length:
+python scripts/rename_to_titles.py --apply --max-length 120
+```
+
+**What it does:**
+- Extracts H1 title from each markdown file
+- Sanitizes title for filesystem (removes `:?*<>|"`, replaces `/\` with `-`)
+- Truncates at word boundary if >150 chars (configurable)
+- Updates all internal references to renamed files
+- Detects and warns about filename collisions
+
 ### Connection Management Commands
 
 #### `add-connection` — Add a validated connection with auto-inverse

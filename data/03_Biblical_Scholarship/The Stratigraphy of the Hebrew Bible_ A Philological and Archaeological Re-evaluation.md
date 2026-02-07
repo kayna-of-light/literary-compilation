@@ -436,80 +436,85 @@ Confidence reflects **cumulative convergence of documented findings**, not the s
 
 ---
 
-## **VI. Discussion: Limitations and Counter-Arguments**
+## **VI. Discussion: Documented Findings and Convergence Patterns**
 
-This re-evaluation challenges the "Persian Period Consensus" but is not without its own limitations. Scholarly integrity requires engaging the strongest objections.
+The evidence presented in this re-evaluation consists of **documented findings**—lexical fossils, structural parallels, archaeological data, and morphological features. These findings are realities that any dating framework must account for. This section addresses findings that create tensions within the stratified model, presenting them not as "counter-arguments" but as documented realities that constrain interpretation.
 
-### **A. The Bricolage Problem: When "Core Stratum" ≠ "Historical Event"**
+### **A. The Bricolage Problem: Tradition Dating vs. Event Historicity**
 
-This study argues for ancient "core strata" in many biblical texts. But a critical distinction must be maintained: **textual antiquity does not equal historical event**. The presence of MBA customs in the patriarchal narratives, or archaic morphology in the Song of the Sea, proves that *traditions* are ancient—not that Abraham existed or the exodus occurred.
+A critical distinction must be maintained: **textual antiquity does not equal historical event**. The documented findings establish the antiquity of *traditions*—not the occurrence of depicted events.
 
-For several major narrative complexes, the archaeological evidence for the depicted events is **absent or contradictory**:
+**Documented Findings:**
 
-| Narrative | Archaic Textual Features | Archaeological Evidence for Event |
+| Narrative | Archaic Textual Features (Documented) | Archaeological Evidence for Event |
 |-----------|-------------------------|----------------------------------|
-| Patriarchs (Gen 12-50) | MBA slave prices, Nuzi customs, Amorite names | **None** — no inscriptions, no identifiable sites |
-| Exodus | Song of Sea (12th c.), Covenant Code (2nd mill.) | **None** — Egyptian silence; Merneptah shows Israel already in Canaan |
-| Conquest (Joshua) | LBA city lists | **Contradictory** — most "conquered" cities not destroyed in proposed period |
+| Patriarchs (Gen 12-50) | MBA slave prices (documented in ANE archives), Nuzi customs (documented), Amorite name patterns (documented) | **None found** — no inscriptions, no identifiable sites despite extensive survey |
+| Exodus | Song of Sea archaic morphology (documented), Covenant Code ANE parallels (documented) | **None found** — Egyptian archives silent; Merneptah Stele shows Israel already in Canaan |
+| Conquest (Joshua) | LBA city lists (documented) | **Contradictory** — destruction layers do not align with proposed period; most "conquered" cities show no destruction or wrong-period destruction |
 
-The most coherent model is **mythic bricolage**: Iron Age scribes constructed unified charter myths from disparate, authentic memory traditions. The traditions are ancient; the narrative synthesis is later; the depicted events may never have occurred as described.
+**What These Findings Establish:**
 
-This is not a weakness of the biblical text—it is a recognition of how ancient national literature was created. The Exodus is not less powerful for being a composite; it is more remarkable as a feat of theological and literary construction.
+The archaic features prove that traditions existed in the second millennium BCE. The archaeological silence/contradiction proves that the depicted events cannot be confirmed as described. Both findings are real. The most parsimonious synthesis: **mythic bricolage**—Iron Age scribes constructed unified charter myths from disparate, authentic memory traditions. The traditions are ancient; the narrative synthesis is later; the depicted events may be literary constructions rather than historical chronicles.
 
-### **B. The Centralization Problem**
+### **B. The Centralization Tension: A Documented Fact**
 
-If the Priestly source (P) contains archaic material, why does it reflect a centralized, Jerusalem-focused cult that only became official under Josiah (621 BCE)? The "single sanctuary" ideology (Deut 12; Lev 17) seems to presuppose the late monarchic or post-exilic context. Possible responses:
-- P may have been updated to reflect centralization while retaining archaic cultic vocabulary
-- The "single sanctuary" emphasis may be redactional overlay on earlier pluralistic practice
+**Documented Finding:** The Priestly source (P) contains both:
+- Archaic cultic vocabulary (documented by YRE and Milgrom)
+- Centralization theology that presupposes Josiah's reform (621 BCE) or later
 
-This remains an unresolved tension.
+This is a documented tension, not a "counter-argument." Any complete model must explain how archaic vocabulary coexists with late theological program. Possibilities include transmission with redactional overlay, or the vocabulary being less period-specific than claimed. The tension remains unresolved—a finding that constrains models.
 
-### **C. The Absence of External Attestation**
+### **C. External Attestation Gap: A Documented Fact**
 
-If Genesis 1-11 dates to the Uruk-Ebla horizon, why is there no mention of this material in any ANE text until the first millennium? The patriarchal narratives are not attested in any contemporary second-millennium source. Possible responses:
-- Absence of evidence is not evidence of absence; much of the ANE record is lost
-- The texts may have circulated in restricted scribal circles
+**Documented Finding:** No ANE text prior to the first millennium attests to Genesis 1-11 material or the patriarchal figures, despite extensive archival recovery from Ebla, Mari, and other sites.
 
-However, this is a genuine weakness in the early-dating argument.
+This is not an argument—it is a documented absence. Either the texts circulated in unrecovered archives, or the material took shape later than the linguistic parallels suggest. The gap is real; explanations compete to account for it.
 
-### **D. The "Archaizing" Counter-Argument**
+### **D. The Archaizing Challenge: A Logical Possibility with Documented Constraints**
 
-Minimalist scholars argue that late scribes could deliberately archaize—using archaic vocabulary and forms to create the impression of antiquity. This is possible for some features but faces difficulties:
-- How would a Persian-period scribe retrieve *extinct* vocabulary (e.g., *qesitah*, possibly *mw*) that had vanished from the linguistic record?
-- Deliberate archaizing tends to be inconsistent; the archaic features in Job and Genesis show grammatical coherence
+**Documented Finding:** Some archaic vocabulary in the Hebrew Bible appears to be extinct—unattested in any LBH text that might serve as a source for deliberate archaizing (e.g., *qesitah* appears only in Job and Genesis; *mw* if authentic is unattested elsewhere).
 
-The archaizing hypothesis cannot be entirely ruled out but faces explanatory challenges.
+**Logical Challenge:** Deliberate archaizing requires access to archaic models. The extinction of certain vocabulary constrains the archaizing hypothesis: a Persian-period scribe cannot deliberately use vocabulary that had vanished from the linguistic record unless they had access to very ancient texts—which confirms textual antiquity even if the scribe is late.
 
-### **E. The Persistence of Treaty Forms**
+**Counter-Evidence:** Deliberate archaizing is documented in some ANE contexts. The hypothesis cannot be entirely excluded, but it must explain the coherence and consistency of archaic features across disparate texts.
 
-Kitchen's argument that Deuteronomy's structure matches Hittite (not Neo-Assyrian) treaties has been challenged. Some scholars argue:
-- Treaty forms are not as chronologically specific as Kitchen claims
-- The "historical prologue" may have persisted into the first millennium
+### **E. Treaty Structure Persistence: A Contested Diagnostic**
 
-This weakens (but does not eliminate) the structural argument for early Deuteronomy.
+**Documented Finding:** Kitchen identified structural parallels between Deuteronomy and Hittite treaties (1400-1200 BCE) rather than Neo-Assyrian treaties (8th-7th c. BCE). However, scholars have documented that some structural elements (historical prologue, blessing/curse sequence) appear in first-millennium treaties as well.
+
+**What This Means:** The treaty-structure argument is weaker than philological or archaeological evidence because the diagnostic specificity is contested. The structures may be period-specific, or they may persist across periods. This finding does not eliminate the early-dating case but reduces its weight in the cumulative argument.
 
 ---
 
 ## **VII. Research Questions for Future Investigation**
 
-The following questions remain unresolved and require further research:
+The following questions focus on **documenting findings** rather than tracking scholarly debates. The goal is to compile cumulative evidence that any framework must account for.
 
-### **Philological**
-1. **Eblaite cognate verification:** Which proposed Eblaite-Hebrew cognates have achieved consensus, and which remain speculative? A systematic review of post-1990 Eblaite scholarship is needed.
-2. **The *mw* question:** Is the reading of *mw* in Job 9:30 as "water" (rather than poetic particle) defensible? What is the current consensus?
-3. **Northern vs. Late features:** Can Israelian Hebrew features be reliably distinguished from Late Biblical Hebrew features? What are the diagnostic criteria?
+### **Lexical and Philological Inventory**
 
-### **Archaeological**
-4. **Pishon identification:** What is the current geological consensus on the Kuwait River/Pishon identification? Are there peer-reviewed publications post-Sauer (1996)?
-5. **MBA patriarchal setting:** Has the Thompson/Van Seters critique been adequately answered? What is the state of the debate as of 2025?
+1. **Lexical Fossil Catalog:** What archaic vocabulary in the Hebrew Bible has no Late Biblical Hebrew parallels? A complete inventory of "linguistic fossils" (e.g., *qesitah*, *mw*, Eblaite cognates) would establish a baseline that any dating framework must explain.
 
-### **Literary**
-6. **Daniel stratification:** Can linguistic analysis distinguish layers within Daniel, or is the Imperial Aramaic consistent throughout? Does Daniel 7-12 show different linguistic features from Daniel 1-6?
-7. **P centralization:** Is there a model that accounts for both archaic P vocabulary and late centralization ideology?
+2. **Morphological Anomaly Inventory:** What grammatical features (verbal forms, pronouns, syntax) in specific texts cannot be explained as Late Biblical Hebrew or "archaizing"? A systematic catalog would separate genuine antiquity markers from contested cases.
 
-### **Methodological**
-8. **YRE reception:** How has the YRE critique been received by mainstream Hebrew linguistics? Has it shifted the consensus, or is it a minority position?
-9. **Oral vs. textual transmission:** Can we distinguish material preserved through oral tradition from material preserved textually? What are the diagnostic markers?
+3. **Geographic Knowledge Catalog:** What geographic, geological, and hydrological information in the texts has been confirmed by modern discovery? (e.g., Kuwait River/Pishon, trade routes, site identifications). These confirmations are findings, not interpretations.
+
+### **Documentary and Structural Parallels**
+
+4. **MBA Legal/Social Parallel Inventory:** Complete catalog of documented parallels between patriarchal narratives and MBA legal/social customs (slave prices, adoption, inheritance, bride-price). Which parallels are period-specific vs. pan-ANE?
+
+5. **Treaty Structure Documentation:** Complete structural comparison of Deuteronomy against Hittite and Neo-Assyrian treaty forms. Which elements are period-diagnostic? Document the structures, not the debate.
+
+6. **Administrative Terminology Catalog:** What administrative, cultic, or technical vocabulary in P/Leviticus has documented MBA/LBA parallels vs. Persian-period parallels?
+
+### **Cross-Domain Convergence**
+
+7. **Independent Convergence Mapping:** Where do philological findings, archaeological discoveries, and textual-critical analysis independently converge on the same conclusions? Document the convergences as cumulative evidence.
+
+8. **Negative Evidence Inventory:** For narrative complexes (Patriarchs, Exodus, Conquest), what specific archaeological evidence *should* exist if the events occurred as described? Document what has been sought and not found.
+
+### **Retreat Pattern Documentation**
+
+9. **Framework Revision History:** When findings have forced revision of scholarly frameworks (e.g., Ebla discoveries, Kitchen's treaty work, YRE linguistic critique), what was the finding and what framework element was revised? This documents the precedent that findings drive framework change, not vice versa.
 
 ---
 

@@ -247,12 +247,14 @@ This is not merely an academic dispute about dates. The stakes are:
 
 ### 6.1 The Nature of Biblical Transmission
 
-If Genesis and Job preserve third-millennium material, the biblical text is not a late literary creation but a **curated archive**—a compilation of ancient documents transmitted across millennia.
+If Genesis and Job preserve third-millennium material, the biblical text contains archaic strata—linguistic and structural features from earlier periods embedded within later compilations.
 
-This changes everything about how we read these texts:
-- The "contradictions" become seams between originally separate sources
-- The "mythology" becomes historical memory of real conditions (like the Kuwait River)
-- The "theology" becomes inherited tradition, not Persian-period innovation
+This changes what the evidence can tell us:
+- The "contradictions" may mark seams between originally separate sources
+- The "mythology" may preserve historical memory of real conditions (like the Kuwait River)
+- The "theology" may reflect inherited tradition, not Persian-period innovation
+
+Note: This concerns what the *text* preserves. It does not speak to why or how it was preserved.
 
 ### 6.2 The Validity of Swedenborg's Framework
 

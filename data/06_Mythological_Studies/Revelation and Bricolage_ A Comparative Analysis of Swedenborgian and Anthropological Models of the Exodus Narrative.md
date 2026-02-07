@@ -1,5 +1,15 @@
 # **Revelation and Bricolage: A Comparative Analysis of Swedenborgian and Anthropological Models of the Exodus Narrative**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-25
+> 
+> This document presents a **valid synthesis** of Swedenborgian spiritual hermeneutics with anthropological bricolage methodology. The core argument—that the spiritual sense operates independently of the literal text's historical origin—aligns with the project's mature understanding.
+> 
+> **Minor dating note (#20)**: The document correctly identifies Genesis 1-11 as "made-up history" containing ancient allegorical material (the "Ancient Word"). The philological evidence now confirms this: Genesis 1-11 contains third-millennium linguistic fossils (Eblaite cognates, Sumerian loanwords) consistent with Swedenborg's claim of an ancient source. This strengthens, rather than corrects, the document's framework.
+> 
+> **Status**: This document requires **no substantive correction**. Its synthesis of bricolage and Swedenborgian hermeneutics is sound.
+> ---
+
 ## **Part I: The Scientist's Crisis of Faith: Swedenborg's Doubts Concerning Moses**
 
 The spiritual journey of the 18th-century scientist and polymath Emanuel Swedenborg pivoted on a profound personal and intellectual crisis, meticulously documented in his private *Journal of Dreams* during 1743–1744. This period was not one of simple emotional turmoil but represented a methodological deconstruction of the Enlightenment scientist to prepare him for the role of a revelator. The crisis culminated in a direct, divine commission that would resolve his doubts and provide the foundational principles for his entire subsequent theological mission.

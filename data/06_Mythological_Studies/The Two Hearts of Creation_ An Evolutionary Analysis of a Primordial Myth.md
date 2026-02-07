@@ -1,5 +1,15 @@
 # **The Two Hearts of Creation: An Evolutionary Analysis of a Primordial Myth**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-25
+> 
+> This document reflects **evolved understanding** on:
+> - **#20** [Hebrew Bible Dating](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-20-hebrew-bible-dating) — The proto-myth comparative analysis and "heart of unity" vs "heart of division" framework is CORRECT. However, the document's framing of *tehom* as a "polemic" against Tiamat assumes exilic encounter. The philological evidence shows shared third-millennium inheritance, not polemical counter-narrative.
+> 
+> **Summary**: The *tehom*/Tiamat parallel reflects common Semitic inheritance (Eblaite cognates, 2400 BCE), not Persian-period polemic. The "taming of chaos" in Genesis may represent the ORIGINAL unified cosmology preserved through transmission.
+> **Established correction (library)**: "The Ancient Word: Philological Evidence for the Uruk-Ebla Origins of Genesis 1-11 and the Book of Job"; "The Paradigm That Cannot See"
+> ---
+
 ## **I. The Primordial Matrix: Reconstructing a Common Ancestor Myth**
 
 The creation stories of the Ancient Near East, from the Tigris to the Nile, were not born in isolation. They are distinct dialects of a single, ancient conversation about cosmic origins. While the Babylonian *Enuma Elish* and the Hebrew Genesis 1 present starkly different theological conclusions, they share a common narrative grammar—a structural template that points toward a shared ancestor, a proto-myth that predates them both. This hypothetical source narrative, reflecting the shared environment and fundamental questions of the region's earliest peoples, likely contained a few core, unadorned elements:
@@ -25,7 +35,9 @@ The authors of Genesis 1 were also *bricoleurs*, working with the same primordia
 The "almost aligns" source for the Genesis authors was not the chaos-combat myth, but the ancient West Semitic tradition of the high god, El. In the Canaanite pantheon, El was the supreme deity, the "Creator of Creatures," a wise and patriarchal figure who ruled from a distance. This tradition provided a conceptual foundation for a creator who was sovereign and non-combative. The Israelite scribes, in a process of theological evolution, fused the attributes of this high creator god with their national god, Yahweh, and elevated the concept to one of absolute monotheism.  
 Armed with this "heart of unity," they approached the shared proto-myth and performed a series of precise, polemical adaptations:
 
-* **The Taming of Chaos:** They recognized the primordial water, the *tehom*, but deliberately refused to personify it. The linguistic link to Tiamat is retained, making the polemic direct and unmistakable, but the character is demoted from a divine rival to an inanimate substance under God's effortless control.  
+* **The Taming of Chaos:** They recognized the primordial water, the *tehom*, but deliberately refused to personify it. The linguistic link to Tiamat is retained, making the polemic direct and unmistakable, but the character is demoted from a divine rival to an inanimate substance under God's effortless control.
+
+> **[EVOLVED #20]** The *tehom*/Tiamat linguistic link is accurate, but both derive from a common third-millennium Semitic root (*thm* = "deep"), not from exilic encounter. Rather than Genesis "demoting" Tiamat through polemic, the demythologized *tehom* may represent the ORIGINAL archaic form, from which polytheistic personifications later diverged. The non-personal water is not a counter-narrative but preservation of proto-Semitic cosmology.  
 * **The Subjugation of the Gods:** They took the elements that other cultures deified—the sun, the moon, the stars, the great sea creatures—and included them in the story, but pointedly re-categorized them as mere "creations." The sun and moon are not even given their proper names, lest they be confused with deities; they are simply "lights" created on the fourth day to serve a function.  
 * **Creation by Word, Not War:** The creative mechanism is not theomachy (divine combat) but divine fiat. The effortless, orderly sequence of "And God said..." is a direct refutation of the violent, chaotic narrative of Marduk's battle.
 

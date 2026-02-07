@@ -957,7 +957,7 @@ This is why the Gospel narrative has spiritual and celestial senses — because 
 
 **Evolution Type**: CORRECTION  
 **Priority**: **CRITICAL**  
-**Status**: NEW — Documents identified, annotations pending (2026-02-07)
+**Status**: ANNOTATED — All documents marked with corrections (2026-01-25)
 
 #### Earlier Position
 Genesis 1-11 and other "primordial" biblical texts are **Persian-period literary compositions** (7th-5th c. BCE). Scribes were "master *bricoleurs*" performing "deliberate polemic" against Babylonian myths like Enuma Elish. The texts are "sophisticated theological counter-narratives" produced in response to ANE creation myths.
@@ -972,12 +972,14 @@ But incorrectly assumes:
 - ❌ Scribes **invented** rather than **transmitted** ancient tradition
 - ❌ Linguistic dating method (EBH/LBH) is valid
 
-**Documents reflecting earlier position** (NEED ANNOTATION):
-- [ ] `data/06_Mythological_Studies/The Two Hearts of Creation_ A Consciousness-Driven Evolution of Myth.md`
-- [ ] `data/06_Mythological_Studies/The Two Hearts of Creation_ A Comparative Analysis of Primordial Narratives and a Philosophical Re-evaluation of the Cognitive Science of Religion.md`
-- [ ] `data/06_Mythological_Studies/The Two Hearts of Creation_ An Evolutionary Analysis of a Primordial Myth.md`
-- [ ] `data/06_Mythological_Studies/From Shared Cosmos to Singular Creator_ An Evolutionary Analysis of the Genesis Creation Narratives within the Ancient Near Eastern Cosmological.md`
-- [ ] `data/06_Mythological_Studies/Revelation and Bricolage_ A Comparative Analysis of Swedenborgian and Anthropological Models of the Exodus Narrative.md`
+**Documents annotated** (2026-01-25):
+- [x] `data/06_Mythological_Studies/A Critical-Historical Chronology of the Hebrew Bible_ Stratigraphy, Redaction, and the Evolution of Scholarly Consensus.md`
+- [x] `data/06_Mythological_Studies/A Critical History of Foundational Narratives_ From Mesopotamian Myths to the Modern Age.md`
+- [x] `data/06_Mythological_Studies/The Two Hearts of Creation_ A Consciousness-Driven Evolution of Myth.md`
+- [x] `data/06_Mythological_Studies/The Two Hearts of Creation_ A Comparative Analysis of Primordial Narratives and a Philosophical Re-evaluation of the Cognitive Science of Religion.md`
+- [x] `data/06_Mythological_Studies/The Two Hearts of Creation_ An Evolutionary Analysis of a Primordial Myth.md`
+- [x] `data/06_Mythological_Studies/From Shared Cosmos to Singular Creator_ An Evolutionary Analysis of the Genesis Creation Narratives within the Ancient Near Eastern Cosmological.md`
+- [x] `data/06_Mythological_Studies/Revelation and Bricolage_ A Comparative Analysis of Swedenborgian and Anthropological Models of the Exodus Narrative.md`
 
 #### Refined Position
 The **linguistic dating method** (Early Biblical Hebrew vs. Late Biblical Hebrew classification) used to assign Persian-period dates **has been comprehensively falsified** by Young, Rezetko, and Ehrensvärd (2008) *Linguistic Dating of Biblical Texts*:

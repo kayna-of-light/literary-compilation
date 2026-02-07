@@ -1189,20 +1189,227 @@ Comprehensive analysis completed in `data/01_Consciousness_Studies/Spiritual Tra
 
 ---
 
+### [GDR] Lexical Fossil Inventory: Complete Catalog of Documented Archaic Hebrew Vocabulary
+
+**Target**: `[GDR]`  
+**Status**: ✅ RESOLVED  
+**Date Added**: 2026-02-07  
+**Date Resolved**: 2026-02-07  
+**Priority**: HIGH  
+**Output Document**: `data/03_Biblical_Scholarship/Lexical Fossil Inventory_ A Stratigraphic Analysis of Archaic Hebrew Vocabulary.md`
+
+**Original Question**:
+Compile a comprehensive inventory of archaic Hebrew vocabulary that preserves 3rd/2nd millennium forms — vocabulary that was extinct before the Persian period and thus could not have been invented by late scribes.
+
+**RESOLUTION:**
+Comprehensive research produced 279-line document cataloging lexical fossils across three strata.
+
+**Key Findings:**
+
+| Stratum | Period | Key Terms Inventoried |
+|---------|--------|----------------------|
+| **Uruk-Ebla Horizon** | c. 3200–2400 BCE | *'ed* (irrigation), *tehom* (depersonified Deep), *raqia* (hammered dome), *nahar* (cosmic river), *mabbul* (extinction vocabulary) |
+| **Amarna-Ugarit Horizon** | c. 1400–1200 BCE | Ugaritic poetic vocabulary in Psalms, divine council terminology, archaic verbal forms |
+| **MBA Administrative** | c. 2000–1550 BCE | *qesitah* (currency), technical cultic vocabulary, legal formulae |
+
+**Critical Finding — Extinction Constraint:**
+The term *mabbul* (Genesis flood) is **extinct** — it appears ONLY in the flood narrative (Gen 6-9) and Psalm 29:10 in all of Biblical Hebrew. A Persian-period scribe could not "archaize" with extinct vocabulary because the vocabulary was no longer known.
+
+**Framework Implication:**
+Lexical fossils provide a "hard constraint" on tradition dating. Unlike structural parallels (which could be coincidental) or themes (which could be borrowed), vocabulary extinction creates a terminus ad quem: the tradition must predate the vocabulary's disappearance from the linguistic record.
+
+---
+
+### [GDR] Administrative Structure Parallels: Comprehensive MBA Documentary Parallels
+
+**Target**: `[GDR]`  
+**Status**: ✅ RESOLVED  
+**Date Added**: 2026-02-07  
+**Date Resolved**: 2026-02-07  
+**Priority**: HIGH  
+**Output Document**: `data/03_Biblical_Scholarship/Administrative Structure Parallels_ A Comprehensive Analysis of Middle Bronze Age Documentary Evidence in the Hebrew Bible.md`
+
+**Original Question**:
+Catalog structural parallels between Genesis/Pentateuch and MBA administrative documents — colophon practice, treaty forms, legal formulae, archival conventions.
+
+**RESOLUTION:**
+Comprehensive 296-line document analyzing five structural domains with detailed parallels.
+
+**Key Findings:**
+
+| Domain | Finding |
+|--------|---------|
+| **Colophon Practice** | *Toledot* formula ("These are the generations of...") functions as Mesopotamian colophon (subscript), not heading. Eleven "tablets" identified in Genesis. |
+| **Treaty Structure** | Deuteronomy matches Hittite treaty form (1400-1200 BCE): Preamble → Historical Prologue → Stipulations → Witnesses → Curses/Blessings. Neo-Assyrian treaties lack historical prologue. |
+| **Legal Formulae** | Covenant Code casuistic law ("If a man...") matches Laws of Eshnunna and Hammurabi structure verbatim. |
+| **Listenwissenschaft** | Genesis 1 taxonomic structure (light/dark → waters → land → luminaries → creatures) matches Ebla lexical list organization. |
+| **Archival Practice** | Genesis compilation shows evidence of source document stitching consistent with MBA scribal practice. |
+
+**Critical Finding — Wiseman Hypothesis Validated:**
+P.J. Wiseman's identification of *toledot* as colophon (1936) is strengthened by Ebla discovery. The formula names the **owner/source** of preceding material, not the subject of following material. This explains why Genesis 37:2 ("generations of Jacob") introduces the Joseph story where Jacob is passive.
+
+**Framework Implication:**
+The structural fossils are even more diagnostic than lexical fossils because they reflect unconscious scribal practice. A late forger might research archaic vocabulary; they would not spontaneously reproduce MBA tablet conventions.
+
+---
+
+### [GDR] Geographic Confirmation Inventory: Modern-Verified Ancient Geographic Features
+
+**Target**: `[GDR]`  
+**Status**: ✅ RESOLVED  
+**Date Added**: 2026-02-07  
+**Date Resolved**: 2026-02-07  
+**Priority**: HIGH  
+**Output Document**: `data/03_Biblical_Scholarship/Geographic Confirmation Inventory_ Modern-Verified Ancient Geographic Features.md`
+
+**Original Question**:
+Inventory geographic features described in Genesis that have been confirmed by modern satellite archaeology, geology, or toponymy — features invisible to Persian-period scribes.
+
+**RESOLUTION:**
+Comprehensive 306-line document documenting geographic "fossil knowledge."
+
+**Key Findings:**
+
+| Feature | Biblical Text | Modern Confirmation | Dating Constraint |
+|---------|---------------|---------------------|-------------------|
+| **Pishon River** | Gen 2:11-12 | Shuttle radar (1994) revealed 850km paleo-river under Saudi desert | Dried c. 2000 BCE; invisible by Iron Age |
+| **Havilah Gold** | Gen 2:12 | Mahd adh Dhahab mine at Pishon headwaters; isotopic signature matches | Confirms geographic precision |
+| **Edenic Hydrology** | Gen 2:10-14 | Four-river system matches Holocene Wet Phase (9000-3500 BCE) | Knowledge predates desiccation |
+| **Trade Routes** | Gen 37 (Midianites) | Incense route geography matches MBA caravan patterns | Route-specific details |
+| **Eblaite Toponyms** | Gen 10, 14 | Multiple place names appear in Ebla archives | 3rd millennium attestation |
+
+**Critical Finding — Kuwait River:**
+The Pishon identification (El-Baz, 1994; Sauer, 1996) provides the strongest geographic constraint. The text describes a **flowing river** that was a **dry, sand-buried wadi** for 2000+ years before the Iron Age. This is "fossil knowledge" — geographic information preserved from a time when the feature existed.
+
+**Framework Implication:**
+Geographic fossils are independent of textual transmission debates. The text's accuracy about features invisible to later scribes requires explanation. Either the tradition preserved genuine Bronze Age knowledge, or the match is coincidence. Cumulative geographic matches make coincidence implausible.
+
+---
+
+### [GDR] Legal/Economic Detail Accuracy: Period-Confirmed Details in Biblical Texts
+
+**Target**: `[GDR]`  
+**Status**: ✅ RESOLVED  
+**Date Added**: 2026-02-07  
+**Date Resolved**: 2026-02-07  
+**Priority**: HIGH  
+**Output Document**: `data/03_Biblical_Scholarship/Stratigraphy of the Archaic_ A Philological and Archaeological Re-evaluation of Legal and Economic Realia in the Hebrew Bible.md`
+
+**Original Question**:
+Document period-specific legal customs, economic values, and contract formulae in Genesis/Pentateuch that match MBA documentation and diverge from later periods.
+
+**RESOLUTION:**
+Comprehensive 344-line document analyzing legal and economic stratigraphy.
+
+**Key Findings:**
+
+| Category | Biblical Detail | MBA Documentation | Later Period Values |
+|----------|-----------------|-------------------|---------------------|
+| **Slave Prices** | Joseph sold for 20 shekels (Gen 37:28) | Laws of Eshnunna, Hammurabi: 20 shekels | 8th c.: 50-60; Persian: 90-120 |
+| **Adoption** | Abraham-Eliezer relationship | Nuzi adoption tablets: exact parallel | Different legal forms |
+| **Birthright Sale** | Esau-Jacob (Gen 25:29-34) | Nuzi: birthright transfer documented | Not attested later |
+| **Sister-Wife** | Abraham/Sarah (Gen 12, 20) | Nuzi: *kallutu* wife-sister institution | Not attested later |
+| **Bride Price** | Jacob's 7-year labor | MBA labor contracts: comparable terms | Different valuation |
+
+**Critical Finding — Kitchen's Price Curve:**
+Kenneth Kitchen documented slave price inflation across 2000 years of ANE records. Joseph's 20-shekel price is **precisely** MBA. A Persian-period author inventing the story would have used contemporary values (~100 shekels) or guessed. The retention of period-accurate pricing requires transmission of genuine MBA tradition.
+
+**Framework Implication:**
+Economic data is "unconscious evidence" — scribes preserve prices from source documents without recognizing their significance. This makes price data highly diagnostic for tradition dating.
+
+---
+
+### [GDR] Cross-Domain Convergence: Independent Research Programs with Converging Conclusions
+
+**Target**: `[GDR]`  
+**Status**: ✅ RESOLVED  
+**Date Added**: 2026-02-07  
+**Date Resolved**: 2026-02-07  
+**Priority**: CRITICAL  
+**Output Document**: `data/03_Biblical_Scholarship/Cross-Domain Convergence_ Independent Research Programs with Converging Conclusions.md`
+
+**Original Question**:
+Assess whether multiple research programs (Eblaite philology, Nuzi legal studies, Hittite treaty analysis, satellite archaeology) truly converge independently on MBA dating, or whether the convergence is an artifact of shared assumptions.
+
+**RESOLUTION:**
+Comprehensive 274-line document analyzing the sociology of knowledge and methodological independence.
+
+**Key Findings:**
+
+| Research Program | Key Scholars | Independence Assessment |
+|------------------|--------------|------------------------|
+| **Eblaite Philology** | Pettinato, Archi | Independent of biblical concerns; archivists focused on Sumerian/Akkadian |
+| **Nuzi Legal Studies** | Speiser, Gordon | Connected to Albright school; some correlated assumptions |
+| **Hittite Treaties** | Mendenhall, Kitchen | Methodologically independent; Hittitology separate discipline |
+| **Satellite Archaeology** | El-Baz, Sauer | Completely independent; geologists unaware of biblical implications |
+| **YRE Linguistic Critique** | Young, Rezetko, Ehrensvärd | Independent; critique comes from *within* historical linguistics |
+
+**Critical Finding — Genuine Independence Exists:**
+The Albrightian school (Speiser/Gordon/Mendenhall/Kitchen) share assumptions — this is a valid critique. However:
+1. **Ebla** was discovered by Italians pursuing Sumerian archaeology, not biblical validation
+2. **Satellite data** came from geologists with no biblical agenda
+3. **YRE critique** originated from linguists challenging the EBH/LBH consensus, not defending early dating
+
+The convergence is not purely internal to one school. When **independent** research programs (geology, Italian archaeology, British/Australian linguistics) converge with Albrightian findings, the cumulative weight increases.
+
+**Framework Implication:**
+The convergence argument is stronger than critics allow, but weaker than maximalists claim. The key is distinguishing:
+- **Internal convergence** (Albright school citing itself) — low evidential value
+- **External convergence** (independent disciplines reaching same conclusions) — high evidential value
+
+---
+
+### [GDR] Retreat Pattern Documentation: Where Findings Threaten Frameworks
+
+**Target**: `[GDR]`  
+**Status**: ✅ RESOLVED  
+**Date Added**: 2026-02-07  
+**Date Resolved**: 2026-02-07  
+**Priority**: HIGH  
+**Output Document**: `data/03_Biblical_Scholarship/The Retreat Pattern_ A Meta-Methodological Analysis of Framework Maintenance in Biblical Scholarship.md`
+
+**Original Question**:
+Document cases where findings were initially accepted, then became "controversial" after framework implications were recognized — distinguishing **refutation** (counter-evidence) from **dismissal** (framework threat).
+
+**RESOLUTION:**
+Comprehensive 341-line document analyzing the sociology of knowledge in biblical scholarship.
+
+**Key Case Studies:**
+
+| Case | Initial Finding | Framework Response | Refutation or Dismissal? |
+|------|-----------------|-------------------|-------------------------|
+| **Ebla** | Pettinato: Patriarchal names, YHWH theophoric, Cities of the Plain | Matthiae/Archi: Revised readings, removed biblical connections | **Mixed**: Some readings genuinely revised; some "revisions" occurred after media attention to implications |
+| **Nuzi Parallels** | Speiser/Gordon: MBA customs match Genesis | Thompson/Van Seters: "Parallels not specific to MBA" | **Dismissal**: No counter-evidence for customs; argument is that parallels are "too common" |
+| **Kitchen's Prices** | Slave prices match MBA exactly | Critics: "Kitchen is maximalist" | **Dismissal**: No one has refuted the price curve; only labeled the scholar |
+| **YRE Critique** | EBH/LBH distinction lacks statistical rigor | Mainstream: "Controversial minority position" | **Partial Dismissal**: Some methodological debate, but core data (scribal variation patterns) not refuted |
+
+**Critical Finding — The Five-Stage Pattern:**
+1. **Discovery**: Scholar documents finding implying early date
+2. **Implication**: Finding challenges Persian-period consensus
+3. **Framework Defense**: Critics attack the *connection*, not the *finding*
+4. **Controversialization**: Finding becomes "disputed" despite data integrity
+5. **Status Quo Maintenance**: Framework survives by isolating anomaly
+
+**Framework Implication:**
+This is a **meta-methodological** finding. It documents how scholarly process can function to preserve frameworks against cumulative evidence. The solution is not to trust or distrust any school, but to ask for each finding: **Was the data refuted, or only the implications dismissed?**
+
+---
+
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 17 |
+| **Total Resolved** | 23 |
 | **NDE Domain** | 10 |
+| **BIBL Domain** | 6 |
 | **SWED Domain** | 3 |
 | **CROSS Domain** | 1 |
 | **EARLY Domain** | 1 |
 | **GNOS Domain** | 1 |
 | **GDR Domain** | 1 |
-| **Critical Priority** | 2 |
-| **High Priority** | 7 |
+| **Critical Priority** | 3 |
+| **High Priority** | 12 |
 | **Medium Priority** | 7 |
 | **Low Priority** | 1 |
 
-**Last Updated**: 2026-01-01
+**Last Updated**: 2026-02-07

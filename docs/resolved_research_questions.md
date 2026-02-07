@@ -8,6 +8,50 @@ This document archives research questions that have been successfully investigat
 
 ## Resolution Archive
 
+### [GDR] Job vs. Proverbs: The Theological Contest over Retribution Wisdom in the 3rd Millennium
+
+**Target**: `[GDR]`  
+**Status**: ✅ RESOLVED  
+**Date Added**: 2026-02-06  
+**Date Resolved**: 2026-02-07  
+**Priority**: HIGH  
+**Related Nodes**: BIBL-*, SWED-*  
+**Output Document**: `data/03_Biblical_Scholarship/Job vs. Proverbs_ The Theological Contest over Retribution Wisdom in the 3rd Millennium.md`
+
+**Original Question**:
+Investigate whether Job and Proverbs represent two competing 3rd-millennium wisdom traditions—the Correspondential (Job) and the Mashal (Proverbs)—and whether Job functions as an "anti-Proverbs" polemic.
+
+**RESOLUTION:**
+Comprehensive research confirms the two-traditions hypothesis with strong scholarly support.
+
+**Key Findings:**
+
+| Question | Finding |
+|----------|---------|
+| **Genre Coexistence** | Confirmed: Both didactic instructions (Mashal) and suffering/lament wisdom (Joban) coexisted in Ebla/Fara archives as early as 2600 BCE |
+| **Instructions of Shuruppak** | Oldest wisdom text (c. 2600 BCE) matches Proverbs structure exactly: father-to-son framing, retribution theology, pragmatic advice |
+| **Job's Radical Break** | Unlike Mesopotamian parallels ("Man and His God," *Ludlul Bel Nemeqi*), Job maintains innocence—does NOT admit secret sin |
+| **Friends = Proverbs** | Eliphaz, Bildad, Zophar articulate Proverbs-style retribution theology; Job calls their maxims "proverbs of ashes" (Job 13:12) |
+| **Divine Speeches** | God's *Listenwissenschaft* in Job 38-41 uses the list form to SUBVERT control—celebrates wild, useless animals and chaos monsters |
+| **Swedenborg's Distinction** | Validated: Job is "Ancient Church" book with correspondences; Proverbs is "Writings" (mediate, didactic, no continuous internal sense) |
+
+**Direct Parallels Confirmed:**
+
+| Shuruppak (c. 2600 BCE) | Proverbs |
+|-------------------------|----------|
+| Father to son (Ziusudra) | Father to "my son" (Prov 1-9) |
+| "Do not vouch for someone" | "He who is surety for a stranger will suffer" (Prov 11:15) |
+| "Do not pick a quarrel" | "Do not contend with a man for no reason" (Prov 3:30) |
+| Sexual ethics warnings | Warnings against "Strange Woman" (Prov 5-7) |
+
+**Theological Resolution:**
+The Divine Speech subsumes both traditions—validates Job's honesty ("Job has spoken of me what is right," 42:7) while maintaining created order. Proverbs provides the NORM; Job provides the EXCEPTION that preserves divine mystery against the idolatry of a manageable moral universe.
+
+**Framework Implication:**
+Swedenborg's exclusion of Proverbs from "the Word" reflects accurate genre categorization, not arbitrary selectivity. Two wisdom traditions from the 3rd millennium—one correspondential (Job/Genesis), one practical (Proverbs/Shuruppak)—both ancient, but fundamentally different in kind.
+
+---
+
 ### [GDR] DOPS Restorative Pathway: Markers Beyond Violent Death Correlation
 
 **Target**: `[GDR]`  

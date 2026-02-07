@@ -1,4 +1,4 @@
-# **The Chronology of the Archaic: A Philological and Archaeological Re-evaluation of the Hebrew Bible**
+# **The Stratigraphy of the Hebrew Bible: A Philological and Archaeological Re-evaluation**
 
 ## **I. Introduction: The Crisis of Chronology and the Question of Stratification**
 
@@ -151,18 +151,42 @@ In this model, Iron Age scribes (D and P) acted as *bricoleurs*—craftsmen who 
 
 * **Proposed Tradition Origins:** Multiple strands—Liberation theme c. 1200 BCE; Plague tradition possibly older (Thera memory); Sea crossing from recurring natural phenomenon
 * **Proposed Literary Synthesis:** c. 7th–5th Century BCE (D and P scribes weaving traditions into unified narrative)
-* **Proposed Core Date:** c. 1200 BCE (Treaty Form).  
-* **Compilation Date:** 621 BCE (Josianic Redaction).
 
-## ---
-
-**III. The Prophets: Deconstructing the Late Redaction**
+### **D. Deuteronomy: The Treaty of the Second Millennium**
 
 The consensus model views the Prophetic books as rolling corpora, with original "kernels" overlaid by massive Deuteronomistic (exilic) and priestly (post-exilic) redactions. The YRE critique challenges the linguistic basis for identifying these "layers," suggesting that many variations attributed to time are actually variations of individual style or regional dialect.
 
 ### **A. The Former Prophets (Joshua–Kings)**
 
-#### **1\. Joshua and Judges: The Pre-Monarchic Reality**
+#### **1\. Joshua: The Conquest as Bricolage**
+
+The book of Joshua presents a unified military conquest of Canaan under a single leader. However, **archaeological evidence directly contradicts this model**:
+
+* **Jericho:** The site shows no occupation during the proposed conquest period (Late Bronze Age). The famous walls fell centuries earlier (MBA) or later (Iron Age), depending on which destruction layer is examined.
+* **Ai:** The name means "ruin"—the site was already abandoned for a millennium before the supposed conquest.
+* **Hazor:** Shows destruction c. 1230 BCE, but by whom is debated; the destruction layer lacks Israelite material culture.
+
+The archaeological consensus favors a **gradual settlement model**: proto-Israelites emerged primarily from indigenous Canaanite populations in the highlands, not from external conquest. The Merneptah Stele (c. 1207 BCE) confirms "Israel" existed as a people in Canaan—but as settlers, not conquerors.
+
+**The Bricolage Model for Joshua:**
+
+Like the Exodus, Joshua appears to be a **composite charter myth** assembled from multiple traditions:
+
+| Tradition Strand | Possible Origin | Narrative Function |
+|------------------|-----------------|--------------------|
+| **Conquest memories** | Localized tribal conflicts (12th-11th c.) | Provides military glory |
+| **Etiological legends** | "Why is Jericho a ruin?" stories | Explains landscape features |
+| **Border lists** | Administrative documents (monarchy period) | Defines tribal territories |
+| **Covenant renewal** | Shechem traditions (Josh 24) | Provides theological framework |
+
+The genius of the Joshua narrative lies in its transformation of a messy, gradual, largely peaceful settlement into a unified **theological conquest**—Yahweh giving the land to his people as promised. The traditions may contain authentic LBA city lists and geographic knowledge, but the depicted campaign is literary construction.
+
+* **Proposed Tradition Origins:** 12th–10th c. BCE (tribal memories, etiological legends, border lists)
+* **Proposed Literary Synthesis:** 7th c. BCE (Deuteronomistic historian)
+* **Confidence (Tradition Antiquity):** Medium
+* **Confidence (Historical Event):** Very Low — archaeological evidence contradicts unified conquest
+
+#### **2\. Judges: The Pre-Monarchic Reality**
 
 The Deuteronomistic History (DH) hypothesis posits a 7th-century composition for these books. However, embedded texts defy this dating.
 
@@ -313,16 +337,28 @@ These books form the control group for LBH. They exhibit the accumulation of fea
 
 *Note: "Core Stratum" refers to the oldest recoverable layer; "Compilation" to the main editorial work; texts show continuous evolution between these dates.*
 
+### **Confidence Rating Legend**
+
+The "Confidence" column rates confidence in the **antiquity of traditions**, not the historicity of depicted events. These are independent assessments:
+
+| Rating | Meaning |
+|--------|--------|
+| **High** | Multiple independent lines of evidence (linguistic, structural, archaeological) converge; counter-arguments are weak |
+| **Medium** | Evidence is suggestive but contested; some counter-arguments have merit |
+| **Low** | Evidence is speculative or heavily debated; requires further verification |
+
+**Important:** For narrative texts (Patriarchs, Exodus, Conquest), high confidence in tradition antiquity does NOT imply the depicted events occurred. See Discussion Section A ("The Bricolage Problem") for the distinction between tradition-dating and event-historicity.
+
 | Section | Book | Standard Consensus | Proposed Core Stratum | Proposed Compilation | Confidence | Key Evidence |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| **Torah** | **Genesis 1–11** | 5th c. BCE (P) | c. 2500 BCE | 550–450 BCE | Medium | Eblaite *'ed*; *Listenwissenschaft*; Pishon (caveat: contested) |
-|  | **Genesis 12–50** | 6th c. BCE | c. 1800 BCE (traditions) | 550–450 BCE | Medium | Slave prices; MBA names (caveat: no archaeological evidence for patriarchs as individuals; traditions may be composite) |
-|  | **Exodus** | 5th c. BCE | Multiple: 1600–1200 BCE (composite traditions) | 7th–5th c. BCE | Medium | Song of Sea archaic; Covenant Code parallels (caveat: **no archaeological evidence for exodus event**; composite narrative model) |
-|  | **Leviticus** | 5th c. BCE | c. 1300 BCE | 550–450 BCE | Medium | Technical register (YRE); but centralization argument |
+| **Torah** | **Genesis 1–11** | 5th c. BCE (P) | c. 2500 BCE | 550–450 BCE | High | Eblaite *'ed*; *Listenwissenschaft*; Pishon fossil knowledge; *tehom* cognate |
+|  | **Genesis 12–50** | 6th c. BCE | c. 1800 BCE (traditions) | 550–450 BCE | High | Slave prices; Nuzi customs; Amorite names (caveat: traditions ancient, **patriarchs not attested as individuals**) |
+|  | **Exodus** | 5th c. BCE | Multiple: 1600–1200 BCE (composite traditions) | 7th–5th c. BCE | High | Song of Sea archaic (12th c.); Covenant Code (2nd mill.) (caveat: **no archaeological evidence for exodus event**; composite narrative) |
+|  | **Leviticus** | 5th c. BCE | c. 1300 BCE | 550–450 BCE | Medium | Technical register (YRE); archaic cultic vocabulary; but centralization tension |
 |  | **Numbers** | 5th c. BCE | c. 1300 BCE | 550–450 BCE | Medium | Technical register; archaic poetry (Balaam oracles) |
-|  | **Deuteronomy** | 621 BCE | c. 1200 BCE | 621 BCE | Medium | Hittite treaty structure (caveat: form may persist) |
-| **Former Prophets** | **Joshua** | 6th c. BCE | c. 1200 BCE (traditions) | 550 BCE | Low | LBA city lists (caveat: **conquest model not supported by archaeology**; settlement was gradual, not military) |
-|  | **Judges** | 6th c. BCE | c. 1100 BCE | 550 BCE | High | Song of Deborah archaic dialect |
+|  | **Deuteronomy** | 621 BCE | c. 1200 BCE | 621 BCE | Medium | Hittite treaty structure (caveat: form persistence debated) |
+| **Former Prophets** | **Joshua** | 6th c. BCE | c. 1200 BCE (traditions) | 7th c. BCE | Medium / Very Low | LBA city lists; etiological legends (caveat: **conquest model contradicted by archaeology**) |
+|  | **Judges** | 6th c. BCE | c. 1100 BCE | 550 BCE | High | Song of Deborah archaic dialect; pre-monarchic political reality |
 |  | **Samuel** | 6th c. BCE | c. 900–700 BCE | 550 BCE | High | *Mamlakah* vs. *Malkut*; absence of Persian loans |
 |  | **Kings** | 6th c. BCE | c. 850–586 BCE | 550 BCE | High | Pre-exilic annalistic sources; *Mamlakah* |
 | **Latter Prophets** | **Isaiah 1–39** | 8th c. BCE | 740–680 BCE | 550 BCE | High | Historical setting; archaic forms |
@@ -337,8 +373,8 @@ These books form the control group for LBH. They exhibit the accumulation of fea
 |  | **Haggai/Zechariah** | 5th c. BCE | 520–518 BCE | 500 BCE | High | Precise dating; Second Temple context |
 |  | **Malachi** | 5th c. BCE | 460–430 BCE | 450 BCE | High | Post-exilic institutional concerns |
 | **Writings** | **Psalms** | 2nd c. BCE | 1000–500 BCE | 200 BCE | Medium | Ugaritic parallels (Dahood); stratified collection |
-|  | **Job** | 5th c. BCE | c. 2200 BCE (?) | 600–400 BCE | Low | Eblaite cognates (caveat: some debated); *qesitah* |
-|  | **Proverbs** | 5th c. BCE | c. 1000 BCE | 700 BCE | Medium | *Shuruppak* parallels; Hezekiah colophon |
+|  | **Job** | 5th c. BCE | c. 2200 BCE (?) | 600–400 BCE | Medium | Eblaite cognates (*qesitah* established; *mw* debated); *Listenwissenschaft* subversion; but speculative |
+|  | **Proverbs** | 5th c. BCE | c. 1000 BCE | 700 BCE | High | *Shuruppak* structural parallels; Hezekiah colophon |
 |  | **Ruth** | 5th c. BCE | c. 1100 BCE | 500 BCE | Medium | Archaic morphology; *Go'el* custom |
 |  | **Song of Songs** | 3rd c. BCE | c. 900 BCE | 400 BCE | Medium | Phoenician linguistic elements (Dahood) |
 |  | **Ecclesiastes** | 3rd c. BCE | Unknown | 300–250 BCE | Low | Unique language; Wisdom register debate |

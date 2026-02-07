@@ -240,13 +240,26 @@ The following table synthesizes the data extracted from the Stratigraphy documen
 
 ## ---
 
-**7\. Implications: The Curator Hypothesis**
+**7\. Implications: What the Lexical Data Show and Do Not Show**
 
-The comprehensive inventory of lexical fossils presented above supports a "Curator Hypothesis" of biblical composition. Rather than the biblical text being a wholesale invention of the Persian period (as suggested by the "Minimalist" school), the density of unintelligible or archaic vocabulary in the Torah and Job suggests that later scribes were **curators** of a received tradition.
+The comprehensive inventory of lexical fossils presented above establishes the following:
 
-These scribes, operating in the Iron Age II or Persian period, faithfully copied texts containing words like *qesitah* or *'ed* even when they no longer understood their precise technical meanings (as evidenced by the confusion in the Septuagint and Targums). This act of preservation—fossilization—allows modern philology to excavate the "Uruk-Ebla Horizon" beneath the surface of the Masoretic Text.
+**What the data demonstrate:**
+- The Hebrew Bible preserves vocabulary (*'ed*, *qesitah*, *mabbul*, etc.) that matches Bronze Age cognates in Eblaite, Akkadian, and Ugaritic
+- These terms were no longer understood by later translators (Septuagint, Targums confuse or paraphrase them)
+- The words function as "fossils"—preserved forms whose original meaning was lost to later scribes
+- The density of such fossils is concentrated in Genesis 1–11, Job, and archaic poetry (Song of the Sea, Song of Deborah)
 
-The "Ancient Word" was not merely a theological concept for the Israelites; it was a linguistic reality. The fossils of the Deluge, the Patriarchs, and the Wisdom traditions of the East were embedded in the very lexicon of the text, serving as enduring witnesses to the long cultural memory of the Semitic peoples.
+**What the data constrain:**
+- A wholly late composition (Persian period) would need to explain how scribes accurately deployed technical Bronze Age terminology they did not understand
+- The fossilization pattern is consistent with textual transmission from earlier written sources
+
+**What the data do not determine:**
+- The mechanism of transmission (oral tradition, written tablets, scribal copying)
+- The motivations of later scribes
+- Whether the underlying traditions are "historical" in any modern sense
+
+The lexical evidence speaks only to age and transmission. The fossils mark a "Uruk-Ebla Horizon" beneath the surface of the Masoretic Text—a stratum of vocabulary that predates the composition frameworks typically assigned to the Persian or late Iron Age.
 
 ### ---
 

@@ -340,9 +340,22 @@ The philological evidence assembled here independently validates this hypothesis
 
 4. **Geographic Memory:** References to extinct rivers, vanished cities, and Early Bronze Age trade routes preserve knowledge that would have been lost by the 1st millennium.
 
-### 9.3 Conclusion
+### 9.3 Conclusion: What the Data Show and Do Not Show
 
-The Book of Job and Genesis 1–11 serve as "linguistic arks," carrying the specialized terminology and worldview of the Uruk and Ebla periods across the chronological chasm into the canon of the Hebrew Bible. They are not late retrojections but the preserved voice of the Semitic ancestors—fragments of an "Ancient Word" echoing the dawn of literacy in the ancient Near East.
+**What the data demonstrate:**
+- The Book of Job and Genesis 1–11 contain vocabulary, structural features, and geographic knowledge that match the Uruk and Ebla periods (c. 2500–2000 BCE)
+- These features include extinct lexical forms (*'ed*, *mw*, *qesitah*), Bronze Age literary structures (*Listenwissenschaft*), and geographic details that ceased to exist by the Iron Age (the Pishon/Kuwait River)
+
+**What the data constrain:**
+- A wholly late composition (Persian period) must explain how authors accurately deployed technical Bronze Age terminology they did not understand
+- The convergence of independent evidence types (lexical, structural, geographic, administrative) reduces the probability of coincidence
+
+**What the data do not determine:**
+- The mechanism of transmission (oral tradition, written tablets, scribal copying)
+- The motivations of whoever composed or compiled these texts
+- Whether any depicted events occurred historically
+
+The evidence speaks to age; it does not speak to intention.
 
 ---
 

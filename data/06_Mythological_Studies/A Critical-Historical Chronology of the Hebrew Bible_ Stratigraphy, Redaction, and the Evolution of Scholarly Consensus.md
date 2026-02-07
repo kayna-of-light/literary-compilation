@@ -1,5 +1,15 @@
 # **A Critical-Historical Chronology of the Hebrew Bible: Stratigraphy, Redaction, and the Evolution of Scholarly Consensus**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-02-07
+> 
+> This document reflects **earlier understanding** on:
+> - **#20** [Hebrew Bible Dating: Proto-Myth Origins vs. Persian-Period Composition](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#20-hebrew-bible-dating-proto-myth-origins-vs-persian-period-composition) — The linguistic dating method (EBH/LBH) used throughout this document to assign Persian-period dates has been **falsified** by Young, Rezetko, and Ehrensvärd (2008). Philological evidence (Eblaite cognates, extinct vocabulary) proves third-millennium material in Genesis 1-11 and Job. Final redaction in Persian period ≠ composition in Persian period.
+> 
+> **Summary**: This document accurately surveys the critical consensus on biblical dating but does not account for the methodological collapse of linguistic dating or the philological evidence for third-millennium origins. The scribes were curators of ancient tradition, not Persian-period inventors.
+> **Established correction (library)**: `data/03_Biblical_Scholarship/The Ancient Word_ Philological Evidence for the Uruk-Ebla Origins of Genesis 1-11 and the Book of Job.md`; `data/03_Biblical_Scholarship/The Paradigm That Cannot See_ Linguistic Dating and the Suppression of Third-Millennium Origins.md`
+> ---
+
 ## **I. Introduction: The Science of Biblical Chronology and the Critical Method**
 
 The establishment of a scientific chronology for the books of the Tanakh (Hebrew Bible) constitutes one of the most rigorous and contested endeavors in the humanities. Unlike modern literary works produced by identifiable authors at fixed points in time, biblical texts are composite documents—literary sediments accumulated over centuries of oral transmission, scribal transcription, and theological redaction. To reconstruct their history requires the rigorous application of the historical-critical method, a discipline that suspends traditional attributions of authorship (e.g., Moses as the author of the Torah, David of the Psalms, Solomon of Proverbs) to examine the text as a human artifact shaped by specific socio-political and religious contexts.1
@@ -61,13 +71,17 @@ To illustrate the critical consensus on dating, it is necessary to examine speci
 
 Critical scholarship universally recognizes two distinct creation accounts. Genesis 1:1–2:4a is assigned to **P (Exilic/Post-Exilic)**. Its structure is cosmic, orderly, and transcends national boundaries, reflecting the universal monotheism developed during the Exile. Genesis 2:4b–3:24 is assigned to **J (Monarchic/Exilic)**. Its earthy, garden-focused narrative deals with human limitations and the etiology of labor and pain, reflecting the agrarian concerns of the pre-exilic period.4
 
+> **[CORRECTION #20]** The assignment of Genesis 1:1–2:4a to an Exilic/Post-Exilic "P source" is based on the linguistic dating method that has been **falsified** by Young, Rezetko, and Ehrensvärd (2008). Philological evidence shows Genesis 1 contains third-millennium *Listenwissenschaft* structure and vocabulary (e.g., *ʾed* in Gen 2:6 = Sumerian *a.dé*). The core material predates Hebrew itself; only final redaction is Persian-period. See: "The Ancient Word: Philological Evidence for the Uruk-Ebla Origins of Genesis 1-11 and the Book of Job."
+
 #### **2\. The Flood Narrative (Genesis 6–9)**
 
 The Flood story is the textbook example of source splicing. Scholars identify two complete, woven strands.
 
 * **J Version:** features seven pairs of clean animals (Gen 7:2) to allow for sacrifice immediately after the flood (Gen 8:20), and lasts 40 days.  
-* **P Version:** features two of every animal (Gen 6:19) because sacrifice is not permitted until the Tabernacle is built in Exodus, and lasts 150 days (Gen 7:24), reflecting a specific calendrical concern.  
+* **P Version:** features two of every animals (Gen 6:19) because sacrifice is not permitted until the Tabernacle is built in Exodus, and lasts 150 days (Gen 7:24), reflecting a specific calendrical concern.  
 * **Synthesis:** The redactor (R) combined these during the **Persian period**, preserving both traditions despite the contradictions, creating a unified Torah that legitimized different segments of the returning community.4
+
+> **[CORRECTION #20]** The claim that the Flood narrative was synthesized "during the Persian period" overstates the evidence. The Flood narrative contains third-millennium elements (Sumerian flood tradition, Atrahasis parallels) that were inherited, not invented. Final editorial harmonization may be late, but the core narrative material predates the Iron Age. The linguistic dating method underlying these claims has been **falsified**.
 
 #### **3\. The Golden Calf (Exodus 32\)**
 
@@ -82,6 +96,8 @@ This account combines **J/E (early)** and **P (late)** layers.
 
 * **J/E Account:** The spies are sent from Kadesh; they report the land is good but the cities are fortified; Caleb alone dissents.  
 * **P Account:** The spies explore the *entire* land from Zin to Hamath (Num 13:21); they report the land "devours its inhabitants" (an exilic motif of desolation); Joshua is added alongside Caleb to represent the northern tribes. The P layer is dated to the **Exile**, explaining the failure of the first generation as a theological paradigm for the exilic generation's hope of return.19
+
+> **[CORRECTION #20]** The assignment of this "P layer" to the Exile is based on thematic interpretation ("exilic motif") rather than linguistic evidence. The linguistic dating method used to support such claims has been **falsified**. The "land that devours its inhabitants" may reflect genuine Bronze Age memory of demographic collapse, not exilic theology.
 
 ### **E. The Poetic Fragments: Ancient Kernels**
 
@@ -261,6 +277,8 @@ The critical consensus reveals the Hebrew Bible as a library overwhelmingly prod
 | **Ecclesiastes** | c. 250 BCE | Late linguistic features; Hellenistic context. |
 | **Daniel** | c. 164 BCE | Maccabean apocalypse utilizing older court tales. |
 | **Chronicles** | c. 350–300 BCE | Distinct from Ezra-Nehemiah; Second Temple historiography. |
+
+> **[CORRECTION #20]** This summary table presents the standard critical consensus but conflates **final redaction dates** with **composition dates**. The "Critical Date (Final Form)" column is accurate for editorial completion. However, the implication that the Pentateuch was *composed* in the 5th century or Job in the 5th-3rd century is **contradicted by philological evidence**. Job preserves Ugaritic vocabulary extinct by 1200 BCE; Genesis contains Eblaite cognates from 2400 BCE. The core material is far older than these "final form" dates suggest. The linguistic dating method (EBH/LBH) underlying these dates has been **falsified** (Young, Rezetko, Ehrensvärd 2008). See: "The Ancient Word" and "The Paradigm That Cannot See."
 
 #### **Works cited**
 

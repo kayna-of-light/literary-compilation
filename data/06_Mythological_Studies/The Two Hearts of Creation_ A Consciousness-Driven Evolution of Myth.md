@@ -1,5 +1,15 @@
 # **The Two Hearts of Creation: A Consciousness-Driven Evolution of Myth**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-01-25
+> 
+> This document reflects the **mature project understanding** of Consciousness-Driven Evolution (CDE) as the mechanism of myth formation. The "heart of unity" vs "heart of division" framework is CORRECT and central to the project.
+> 
+> **Minor correction on dating (#20)**: The document correctly identifies a common "proto-myth" ancestor but does not specify when divergence occurred. The philological evidence now shows that Genesis preserves third-millennium material (Eblaite cognates, Sumerian loanwords), suggesting the divergence is VERY ancient—not Persian-period.
+> 
+> **Status**: This document requires **no substantive correction**; its CDE framework is sound. The proto-myth hypothesis aligns with the new philological evidence.
+> ---
+
 ## **I. A New Paradigm: Consciousness as the Engine of Memetic Evolution**
 
 The vast chasm between the Babylonian *Enuma Elish*, a story of cosmic warfare and divine slavery, and the serene, orderly account of Genesis 1, a story of a single benevolent Creator, presents a profound puzzle in cultural evolution. Such a gap seems too wide to be bridged by simple adaptation or polemic. A more compelling model suggests that humans, as natural *bricoleurs*, adapt stories that "almost align" with the truths they hold in their hearts, rather than performing a complete overhaul of something they deem heretical. This implies that these two narratives are not merely rivals, but the end-points of two long, divergent evolutionary paths that began from a common ancestor—a proto-myth—and were guided at every step by the fundamental state of consciousness of the cultures that told them.  

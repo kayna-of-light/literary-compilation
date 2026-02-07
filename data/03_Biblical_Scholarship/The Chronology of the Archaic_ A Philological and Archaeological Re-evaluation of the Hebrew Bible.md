@@ -290,17 +290,35 @@ These books form the control group for LBH. They exhibit the accumulation of fea
 |  | **Genesis 12–50** | 6th c. BCE | c. 1800 BCE | 550–450 BCE | Medium | Slave prices; MBA names (caveat: Thompson/Van Seters critique) |
 |  | **Exodus** | 5th c. BCE | c. 1400–1200 BCE | 7th c. BCE | High | Song of Sea archaic morphology; Covenant Code parallels |
 |  | **Leviticus** | 5th c. BCE | c. 1300 BCE | 550–450 BCE | Medium | Technical register (YRE); but centralization argument |
+|  | **Numbers** | 5th c. BCE | c. 1300 BCE | 550–450 BCE | Medium | Technical register; archaic poetry (Balaam oracles) |
 |  | **Deuteronomy** | 621 BCE | c. 1200 BCE | 621 BCE | Medium | Hittite treaty structure (caveat: form may persist) |
-| **Prophets** | **Joshua** | 6th c. BCE | c. 1200 BCE | 550 BCE | Medium | Late Bronze Age city lists |
+| **Former Prophets** | **Joshua** | 6th c. BCE | c. 1200 BCE | 550 BCE | Medium | Late Bronze Age city lists |
 |  | **Judges** | 6th c. BCE | c. 1100 BCE | 550 BCE | High | Song of Deborah archaic dialect |
-|  | **Samuel/Kings** | 6th c. BCE | c. 900–600 BCE | 550 BCE | High | *Mamlakah* vs. *Malkut*; absence of Persian loans |
-|  | **Isaiah** | 8th/6th/5th c. | c. 740–680 BCE | 550 BCE | Medium | Linguistic unity of 40–66 (Rezetko) |
-|  | **Hosea/Amos** | 5th c. BCE | 8th c. BCE | 7th c. BCE | High | Northern dialect features |
-| **Writings** | **Job** | 5th c. BCE | c. 2200 BCE (?) | 600–400 BCE | Low | Eblaite cognates (caveat: some debated); *qesitah* |
-|  | **Psalms** | 2nd c. BCE | 1000–500 BCE | 200 BCE | Medium | Ugaritic parallels (Dahood) |
-|  | **Proverbs** | 5th c. BCE | c. 1000 BCE | 700 BCE | Medium | *Shuruppak* parallels |
-|  | **Daniel** | 164 BCE | c. 530 BCE (1-6) | 165 BCE (7-12) | Medium | Imperial Aramaic; but prophecy-accuracy cutoff |
-|  | **Chronicles/Ezra** | 4th c. BCE | 400 BCE | 400 BCE | High | Genuine LBH; Persian context |
+|  | **Samuel** | 6th c. BCE | c. 900–700 BCE | 550 BCE | High | *Mamlakah* vs. *Malkut*; absence of Persian loans |
+|  | **Kings** | 6th c. BCE | c. 850–586 BCE | 550 BCE | High | Pre-exilic annalistic sources; *Mamlakah* |
+| **Latter Prophets** | **Isaiah 1–39** | 8th c. BCE | 740–680 BCE | 550 BCE | High | Historical setting; archaic forms |
+|  | **Isaiah 40–66** | 6th–5th c. BCE | 550–500 BCE | 500 BCE | Medium | Linguistic unity argument (Rezetko); but exile context |
+|  | **Jeremiah** | 6th c. BCE | 627–580 BCE | 550 BCE | High | Historical setting; Baruch colophon |
+|  | **Ezekiel** | 6th c. BCE | 593–570 BCE | 550 BCE | High | Precise dating formulae; Babylonian context |
+|  | **Hosea** | 5th c. BCE | 750–720 BCE | 7th c. BCE | High | Northern dialect features; historical setting |
+|  | **Amos** | 5th c. BCE | 760–750 BCE | 7th c. BCE | High | Northern dialect; earthquake reference |
+|  | **Micah** | 5th c. BCE | 735–700 BCE | 7th c. BCE | Medium | Historical setting; mixed linguistic features |
+|  | **Habakkuk** | 5th c. BCE | 605–598 BCE | 550 BCE | Medium | Archaic theophany (ch. 3); Chaldean reference |
+|  | **Zephaniah** | 5th c. BCE | 640–609 BCE | 7th c. BCE | Medium | Pre-reform Josiah setting |
+|  | **Haggai/Zechariah** | 5th c. BCE | 520–518 BCE | 500 BCE | High | Precise dating; Second Temple context |
+|  | **Malachi** | 5th c. BCE | 460–430 BCE | 450 BCE | High | Post-exilic institutional concerns |
+| **Writings** | **Psalms** | 2nd c. BCE | 1000–500 BCE | 200 BCE | Medium | Ugaritic parallels (Dahood); stratified collection |
+|  | **Job** | 5th c. BCE | c. 2200 BCE (?) | 600–400 BCE | Low | Eblaite cognates (caveat: some debated); *qesitah* |
+|  | **Proverbs** | 5th c. BCE | c. 1000 BCE | 700 BCE | Medium | *Shuruppak* parallels; Hezekiah colophon |
+|  | **Ruth** | 5th c. BCE | c. 1100 BCE | 500 BCE | Medium | Archaic morphology; *Go'el* custom |
+|  | **Song of Songs** | 3rd c. BCE | c. 900 BCE | 400 BCE | Medium | Phoenician linguistic elements (Dahood) |
+|  | **Ecclesiastes** | 3rd c. BCE | Unknown | 300–250 BCE | Low | Unique language; Wisdom register debate |
+|  | **Lamentations** | 6th c. BCE | 586 BCE | 550 BCE | High | Eyewitness destruction; archaic qinah meter |
+|  | **Esther** | 4th c. BCE | 480–465 BCE | 400 BCE | High | Authentic Persian court details; LBH features |
+|  | **Daniel 1–6** | 164 BCE | c. 530 BCE | 300 BCE | Medium | Imperial Aramaic; court tale genre |
+|  | **Daniel 7–12** | 164 BCE | 165 BCE | 165 BCE | High | Prophecy-accuracy cutoff at Antiochus IV |
+|  | **Ezra-Nehemiah** | 4th c. BCE | 458–430 BCE | 400 BCE | High | Genuine LBH; Persian administrative context |
+|  | **Chronicles** | 4th c. BCE | 400 BCE | 350 BCE | High | Genuine LBH; depends on Samuel-Kings |
 
 ---
 
@@ -383,8 +401,6 @@ The dates proposed in this document should be understood as **core stratum dates
 
 #### **Works Cited**
 
-### Primary References (Footnotes)
-
 [^wellhausen]: Wellhausen, Julius. *Prolegomena to the History of Israel*. Trans. J. Sutherland Black and Allan Menzies. Edinburgh: Adam & Charles Black, 1885. [German original: *Prolegomena zur Geschichte Israels*, 1878.]
 
 [^ebla-pettinato]: Pettinato, Giovanni. *The Archives of Ebla: An Empire Inscribed in Clay*. Garden City, NY: Doubleday, 1981. See also: Pettinato, "The Royal Archives of Tell Mardikh-Ebla," *Biblical Archaeologist* 39 (1976): 44-52.
@@ -417,8 +433,6 @@ The dates proposed in this document should be understood as **core stratum dates
 
 [^shuruppak]: Alster, Bendt. *The Instructions of Suruppak: A Sumerian Proverb Collection*. Mesopotamia 2. Copenhagen: Akademisk Forlag, 1974. The 2600 BCE wisdom text with Flood story tradition.
 
-### Additional References
-
 Dahood, Mitchell. *Psalms*. 3 vols. Anchor Bible 16-17A. Garden City, NY: Doubleday, 1966-1970. Ugaritic/Canaanite cognate analysis of Psalms vocabulary.
 
 Kitchen, K. A. *Ancient Orient and Old Testament*. London: Tyndale Press, 1966. Foundational work on ANE treaty parallels.
@@ -433,12 +447,10 @@ Weinfeld, Moshe. *Deuteronomy and the Deuteronomic School*. Oxford: Clarendon Pr
 
 Wright, David P. *Inventing God's Law: How the Covenant Code of the Bible Used and Revised the Laws of Hammurabi*. Oxford: Oxford University Press, 2009.
 
-### Framework Documents (Internal)
+[A Critical-Historical Chronology of the Hebrew Bible: Stratigraphy, Redaction, and the Evolution of Scholarly Consensus](../unclassified/A%20Critical-Historical%20Chronology%20of%20the%20Hebrew%20Bible_%20Stratigraphy,%20Redaction,%20and%20the%20Evolution%20of%20Scholarly%20Consensus.md). Internal synthesis document.
 
-"A Critical-Historical Chronology of the Hebrew Bible: Stratigraphy, Redaction, and the Evolution of Scholarly Consensus." Internal synthesis document.
+[The Paradigm That Cannot See: Linguistic Dating and the Suppression of Third-Millennium Origins](../unclassified/The%20Paradigm%20That%20Cannot%20See_%20Linguistic%20Dating%20and%20the%20Suppression%20of%20Third-Millennium%20Origins.md). Internal synthesis document.
 
-"The Paradigm That Cannot See: Linguistic Dating and the Suppression of Third-Millennium Origins." Internal synthesis document.
+[The Ancient Word: Philological Evidence for the Uruk-Ebla Origins of Genesis 1-11 and the Book of Job](../unclassified/The%20Ancient%20Word_%20Philological%20Evidence%20for%20the%20Uruk-Ebla%20Origins%20of%20Genesis%201-11%20and%20the%20Book%20of%20Job.md). Internal synthesis document.
 
-"The Ancient Word: Philological Evidence for the Uruk-Ebla Origins of Genesis 1-11 and the Book of Job." Internal synthesis document.
-
-"Job vs. Proverbs: The Theological Contest over Retribution Wisdom in the 3rd Millennium." Internal synthesis document.
+[Job vs. Proverbs: The Theological Contest over Retribution Wisdom in the 3rd Millennium](../unclassified/Job%20vs.%20Proverbs_%20The%20Theological%20Contest%20over%20Retribution%20Wisdom%20in%20the%203rd%20Millennium.md). Internal synthesis document.

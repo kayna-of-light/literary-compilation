@@ -218,7 +218,7 @@ This supports the "Stratified Evolution" model proposed in the user's document: 
 
 #### **Works cited**
 
-1. The Stratigraphy of the Hebrew Bible\_ A Philological and Archaeological Re-evaluation.pdf, [https://drive.google.com/open?id=19rBDMD2q3qdkRkcOWvE6srp6\_P2n0ze8](https://drive.google.com/open?id=19rBDMD2q3qdkRkcOWvE6srp6_P2n0ze8)  
+1. The Stratigraphy of the Hebrew Bible\_ A Philological and Archaeological Re-evaluation.pdf, [**The Stratigraphy of the Hebrew Bible: A Philological and Archaeological Re-evaluation**](The%20Stratigraphy%20of%20the%20Hebrew%20Bible_%20A%20Philological%20and%20Archaeological%20Re-evaluation.md)  
 2. The Empirical Development of a Curriculum on the Issues Concerning the History of Ancient Israel \- SciSpace, accessed on February 7, 2026, [https://scispace.com/pdf/the-empirical-development-of-a-curriculum-on-the-issues-1ze43tg5.pdf](https://scispace.com/pdf/the-empirical-development-of-a-curriculum-on-the-issues-1ze43tg5.pdf)  
 3. The Restoration of Biblical Narrative as History: William Foxwell Albright and the School of Julius Wellhausen \- Academia.edu, accessed on February 7, 2026, [https://www.academia.edu/37928510/The\_Restoration\_of\_Biblical\_Narrative\_as\_History\_William\_Foxwell\_Albright\_and\_the\_School\_of\_Julius\_Wellhausen](https://www.academia.edu/37928510/The_Restoration_of_Biblical_Narrative_as_History_William_Foxwell_Albright_and_the_School_of_Julius_Wellhausen)  
 4. Outdated Apologetics: Theologetics.org and the Ebla Tablets \- The Amateur Exegete, accessed on February 7, 2026, [https://amateurexegete.com/2023/08/03/outdated-apologetics-theologetics-org-and-the-ebla-tablets/](https://amateurexegete.com/2023/08/03/outdated-apologetics-theologetics-org-and-the-ebla-tablets/)  

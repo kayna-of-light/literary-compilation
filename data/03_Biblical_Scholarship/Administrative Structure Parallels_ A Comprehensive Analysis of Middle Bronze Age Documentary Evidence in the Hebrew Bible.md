@@ -273,12 +273,12 @@ The Genesis narratives bear structural features that date to the world from Ebla
 
 #### **Works cited**
 
-1. The Stratigraphy of the Hebrew Bible\_ A Philological and Archaeological Re-evaluation.pdf, [https://drive.google.com/open?id=19rBDMD2q3qdkRkcOWvE6srp6\_P2n0ze8](https://drive.google.com/open?id=19rBDMD2q3qdkRkcOWvE6srp6_P2n0ze8)  
+1. The Stratigraphy of the Hebrew Bible\_ A Philological and Archaeological Re-evaluation.pdf, [**The Stratigraphy of the Hebrew Bible: A Philological and Archaeological Re-evaluation**](The%20Stratigraphy%20of%20the%20Hebrew%20Bible_%20A%20Philological%20and%20Archaeological%20Re-evaluation.md)  
 2. The Chronology of the Archaic\_ A Philological and Archaeological Re-evaluation of the Hebrew Bible.pdf, [https://drive.google.com/open?id=1ap83AiPHBx\_siYVZyVp43lEoMXQvWKmD](https://drive.google.com/open?id=1ap83AiPHBx_siYVZyVp43lEoMXQvWKmD)  
 3. Litanic Verse I \- Peter Lang Verlag, accessed on February 7, 2026, [https://www.peterlang.com/document/1049388](https://www.peterlang.com/document/1049388)  
 4. Genesis creation narrative \- Wikipedia, accessed on February 7, 2026, [https://en.wikipedia.org/wiki/Genesis\_creation\_narrative](https://en.wikipedia.org/wiki/Genesis_creation_narrative)  
 5. ANNOTATED BIBLIOGRAPHY ON GENESIS Aaseng, Rolf E. (1971) "MALE AND FEMALE CREATED HE THEM. Christianity Today15(4):165– \- McDaniel, accessed on February 7, 2026, [https://tmcdaniel.palmerseminary.edu/Genesis%20Bibliography.pdf](https://tmcdaniel.palmerseminary.edu/Genesis%20Bibliography.pdf)  
-6. The Ancient Word\_ Philological Evidence for the Uruk-Ebla Origins of Genesis 1-11 and the Book of Job.pdf, [https://drive.google.com/open?id=141rvE91ylTeEB7UmvEg\_JSKEsbrAvr-Y](https://drive.google.com/open?id=141rvE91ylTeEB7UmvEg_JSKEsbrAvr-Y)  
+6. The Ancient Word\_ Philological Evidence for the Uruk-Ebla Origins of Genesis 1-11 and the Book of Job.pdf, [The Ancient Word: Philological Evidence for the Uruk-Ebla Origins of Genesis 1-11 and the Book of Job](The%20Ancient%20Word_%20Philological%20Evidence%20for%20the%20Uruk-Ebla%20Origins%20of%20Genesis%201-11%20and%20the%20Book%20of%20Job.md)  
 7. The Tablet Theory of Genesis Authorship \- Associates for Biblical Research, accessed on February 7, 2026, [https://biblearchaeology.org/research/contemporary-issues/3072-the-tablet-theory-of-genesis-authorship](https://biblearchaeology.org/research/contemporary-issues/3072-the-tablet-theory-of-genesis-authorship)  
 8. Cities, Human Rule and Genealogies in Genesis 1–11, accessed on February 7, 2026, [https://utoronto.scholaris.ca/bitstreams/510ac113-7593-492c-8d48-6edfecfd1790/download](https://utoronto.scholaris.ca/bitstreams/510ac113-7593-492c-8d48-6edfecfd1790/download)  
 9. Wiseman hypothesis \- Wikipedia, accessed on February 7, 2026, [https://en.wikipedia.org/wiki/Wiseman\_hypothesis](https://en.wikipedia.org/wiki/Wiseman_hypothesis)  

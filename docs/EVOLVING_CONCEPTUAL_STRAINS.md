@@ -93,6 +93,7 @@ For each strain marked "Needs review":
 - [x] 17. [Virgin Birth as Translation Artifact](#17-virgin-birth-as-translation-artifact) — Critical Analysis (High) ✓ 1 doc annotated (2026-01-26)
 - [x] 18. [Bene Qedem as True Carriers](#18-bene-qedem-as-true-carriers-not-magi) — Correction (**Critical**)
 - [x] 19. [The Aligned Human (Historical Jesus & Divine Bricolage)](#19-the-aligned-human-historical-jesus-and-the-divine-bricolage) — Synthesis (High) ✅ 4 docs annotated (2026-01-26)
+- [ ] 20. [Hebrew Bible Dating: Proto-Myth Origins vs. Persian-Period Composition](#20-hebrew-bible-dating-proto-myth-origins-vs-persian-period-composition) — Correction (**Critical**) — NEW (2026-02-07)
 
 ---
 
@@ -952,6 +953,105 @@ This is why the Gospel narrative has spiritual and celestial senses — because 
 
 ---
 
+### 20. Hebrew Bible Dating: Proto-Myth Origins vs. Persian-Period Composition
+
+**Evolution Type**: CORRECTION  
+**Priority**: **CRITICAL**  
+**Status**: NEW — Documents identified, annotations pending (2026-02-07)
+
+#### Earlier Position
+Genesis 1-11 and other "primordial" biblical texts are **Persian-period literary compositions** (7th-5th c. BCE). Scribes were "master *bricoleurs*" performing "deliberate polemic" against Babylonian myths like Enuma Elish. The texts are "sophisticated theological counter-narratives" produced in response to ANE creation myths.
+
+This framing correctly identifies:
+- ✅ The proto-myth hypothesis (common ancestor to Genesis and Enuma Elish)
+- ✅ The "Heart of Unity" vs. "Heart of Division" divergence
+- ✅ The Consciousness-Driven Evolution of myth
+
+But incorrectly assumes:
+- ❌ Persian-period **dating** for core Genesis material
+- ❌ Scribes **invented** rather than **transmitted** ancient tradition
+- ❌ Linguistic dating method (EBH/LBH) is valid
+
+**Documents reflecting earlier position** (NEED ANNOTATION):
+- [ ] `data/06_Mythological_Studies/The Two Hearts of Creation_ A Consciousness-Driven Evolution of Myth.md`
+- [ ] `data/06_Mythological_Studies/The Two Hearts of Creation_ A Comparative Analysis of Primordial Narratives and a Philosophical Re-evaluation of the Cognitive Science of Religion.md`
+- [ ] `data/06_Mythological_Studies/The Two Hearts of Creation_ An Evolutionary Analysis of a Primordial Myth.md`
+- [ ] `data/06_Mythological_Studies/From Shared Cosmos to Singular Creator_ An Evolutionary Analysis of the Genesis Creation Narratives within the Ancient Near Eastern Cosmological.md`
+- [ ] `data/06_Mythological_Studies/Revelation and Bricolage_ A Comparative Analysis of Swedenborgian and Anthropological Models of the Exodus Narrative.md`
+
+#### Refined Position
+The **linguistic dating method** (Early Biblical Hebrew vs. Late Biblical Hebrew classification) used to assign Persian-period dates **has been comprehensively falsified** by Young, Rezetko, and Ehrensvärd (2008) *Linguistic Dating of Biblical Texts*:
+
+1. "Late" features appear in **pre-exilic inscriptions** (Lachish letters, Siloam tunnel)
+2. "Early" features appear in **post-exilic texts** (Chronicles, Qumran)
+3. Feature distribution correlates with **register** (formal/colloquial), not **chronology**
+4. The EBH/LBH distinction is a methodological artifact, not a dating tool
+
+Additionally, **philological evidence proves third-millennium material** in Genesis and Job:
+
+| Evidence | Significance |
+|----------|--------------|
+| **מו (*mw*)** in Job 9:30 | Eblaite cognate; extinct by 2000 BCE; cannot be Persian invention |
+| **מנלם (*min'lam*)** in Job 15:29 | Eblaite economic term; hapax in Hebrew |
+| **אד (*ʾed*)** in Gen 2:6 | Sumerian *a.dé* (irrigation channel); Mesopotamian scribal vocabulary |
+| **Kuwait River (Pishon)** | Geographic knowledge of river that dried up c. 2000 BCE |
+| ***Listenwissenschaft* structure** | Genesis 1 and Job 38-41 use 3rd-millennium Mesopotamian taxonomic genre |
+
+**Key corrections**:
+1. Genesis 1-11 and Job **preserve third-millennium linguistic fossils** that predate Hebrew itself
+2. The scribes were **curators of ancient tradition**, not Persian-period inventors
+3. Both Genesis and Enuma Elish are **late compilations of earlier proto-myth material**
+4. The "mythic bricolage" happened but worked with **inherited traditions**, not new composition
+5. Final redaction in Persian period ≠ composition in Persian period
+
+**The real transmission model**:
+```
+Proto-Myth (3rd millennium BCE+)
+      ├── Heart of Division path → Sumerian myths → Enuma Elish (12th c. BCE compilation)
+      └── Heart of Unity path → West Semitic/El traditions → Genesis (final form 5th c. BCE)
+```
+
+The core material is third-millennium; the compilation is late; the linguistic dating method that denied this is broken.
+
+**Documents with refined position**:
+- [x] `data/03_Biblical_Scholarship/The Ancient Word_ Philological Evidence for the Uruk-Ebla Origins of Genesis 1-11 and the Book of Job.md` (PRIMARY)
+- [x] `data/03_Biblical_Scholarship/Job vs. Proverbs_ The Theological Contest over Retribution Wisdom in the 3rd Millennium.md`
+- [x] `data/03_Biblical_Scholarship/The Paradigm That Cannot See_ Linguistic Dating and the Suppression of Third-Millennium Origins.md` (META-ANALYSIS)
+
+**Key Sources**:
+- Young, Rezetko, and Ehrensvärd (2008) *Linguistic Dating of Biblical Texts* (demolishes EBH/LBH method)
+- Ebla archives (2500 BCE) — vocabulary cognates
+- El-Baz & Sauer (1993) — Kuwait River identification
+- Wiseman Hypothesis — *toledot* colophons as cuneiform archival practice
+
+#### Annotation Template
+
+For documents using "Persian-period composition" framing:
+
+```markdown
+> **[CORRECTION #20]** This section frames Genesis as a Persian-period literary composition.
+> While final redaction occurred late, the **core material preserves third-millennium 
+> linguistic fossils** (Eblaite cognates, extinct vocabulary) that predate Hebrew itself.
+> The linguistic dating method (EBH/LBH) used to assign late dates has been **falsified**
+> by Young, Rezetko, and Ehrensvärd (2008). The scribes were curators of ancient tradition,
+> not Persian-period inventors.
+> See: "The Ancient Word: Philological Evidence for the Uruk-Ebla Origins of Genesis 1-11 
+> and the Book of Job" and "The Paradigm That Cannot See" for the corrected understanding.
+```
+
+For documents that correctly identify proto-myth evolution but assume late composition:
+
+```markdown
+> **[EVOLVED #20]** This analysis correctly identifies the proto-myth hypothesis and 
+> Heart of Unity/Division divergence, but assumes Persian-period composition. Philological 
+> evidence (Eblaite cognates, Kuwait River, *Listenwissenschaft* structure) proves 
+> third-millennium material in Genesis 1-11. The "mythic bricolage" worked with inherited 
+> ancient traditions, not new invention. Final compilation ≠ original composition.
+> See: "The Ancient Word" (philological case) and "The Paradigm That Cannot See" (method critique).
+```
+
+---
+
 ## Editorial Annotation Guidelines
 
 ### When to Annotate
@@ -998,6 +1098,7 @@ Use blockquote format at the relevant section:
 | 2026-01-26 | Added 7 NEW strains (11-17) from review of January 22-26 documents |
 | 2026-01-26 | Added strain #18 (Bene Qedem as True Carriers)—CRITICAL correction from "The Bifurcated Gnosis" |
 | 2026-01-26 | Added strain #19 (The Aligned Human)—SYNTHESIS strain resolving Historical Jesus / Christ of Faith dichotomy |
+| 2026-02-07 | Added strain #20 (Hebrew Bible Dating: Proto-Myth Origins vs. Persian-Period Composition)—CRITICAL correction. YRE 2008 falsifies linguistic dating method; philological evidence proves 3rd-millennium material in Genesis/Job |
 
 ### New Documents Reviewed (2026-01-26)
 

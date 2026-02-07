@@ -303,7 +303,7 @@ This analysis suggests that the field currently operates under a paradigm where 
 
 #### **Works cited**
 
-1. The Stratigraphy of the Hebrew Bible\_ A Philological and Archaeological Re-evaluation.pdf, [https://drive.google.com/open?id=19rBDMD2q3qdkRkcOWvE6srp6\_P2n0ze8](https://drive.google.com/open?id=19rBDMD2q3qdkRkcOWvE6srp6_P2n0ze8)  
+1. The Stratigraphy of the Hebrew Bible\_ A Philological and Archaeological Re-evaluation.pdf, [**The Stratigraphy of the Hebrew Bible: A Philological and Archaeological Re-evaluation**](The%20Stratigraphy%20of%20the%20Hebrew%20Bible_%20A%20Philological%20and%20Archaeological%20Re-evaluation.md)  
 2. From the Editor's Notebook: More on the Ebla Tablets | Plymouth Brethren Writings, accessed on February 7, 2026, [https://plymouthbrethren.org/article/9735](https://plymouthbrethren.org/article/9735)  
 3. Ebla–biblical controversy \- Wikipedia, accessed on February 7, 2026, [https://en.wikipedia.org/wiki/Ebla%E2%80%93biblical\_controversy](https://en.wikipedia.org/wiki/Ebla%E2%80%93biblical_controversy)  
 4. What's (actually) the deal with the Ebla tablets? : r/AcademicBiblical \- Reddit, accessed on February 7, 2026, [https://www.reddit.com/r/AcademicBiblical/comments/2k1zwo/whats\_actually\_the\_deal\_with\_the\_ebla\_tablets/](https://www.reddit.com/r/AcademicBiblical/comments/2k1zwo/whats_actually_the_deal_with_the_ebla_tablets/)  

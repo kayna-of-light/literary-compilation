@@ -2,7 +2,7 @@
 
 ## **Abstract**
 
-This research report presents an exhaustive stratigraphic analysis of the Hebrew Bible, specifically the Pentateuch, through the lens of Middle Bronze Age (MBA) administrative, legal, and literary conventions. By correlating biblical structures with the archival practices of Ebla, Mari, and Nuzi, and the diplomatic protocols of the Hittite Empire, this study identifies a systemic preservation of second-millennium BCE "structural fossils" within the Masoretic Text. The findings suggest that the core narratives of Genesis and the legal frameworks of Deuteronomy were not oral traditions solidified in the late Iron Age, but rather curated consolidations of ancient cuneiform documents that retained their original administrative metadata—including colophons, catch-lines, and technical price indices. This report addresses five primary research domains: colophon and tablet practices, legal formulae, narrative structures, administrative vocabulary, and archival methodologies, providing a comprehensive catalog of scholarly documented parallels.
+This research report presents a stratigraphic analysis of the Hebrew Bible, specifically the Pentateuch, through the lens of Middle Bronze Age (MBA) administrative, legal, and literary conventions. By correlating biblical structures with the archival practices of Ebla, Mari, and Nuzi, and the diplomatic protocols of the Hittite Empire, this study identifies a systemic preservation of second-millennium BCE "structural fossils" within the Masoretic Text. The findings document that the core narratives of Genesis and the legal frameworks of Deuteronomy contain administrative features—including colophon-like structures, catch-lines, and technical price indices—that match MBA conventions. This report addresses five primary research domains: colophon and tablet practices, legal formulae, narrative structures, administrative vocabulary, and archival methodologies, providing a comprehensive catalog of scholarly documented parallels.
 
 ## ---
 
@@ -242,16 +242,30 @@ The Mari archives provide the closest parallels to biblical prophecy, yet with d
 
 ## ---
 
-**VIII. Conclusion**
+**VIII. Conclusion: What the Data Show and Do Not Show**
 
-The stratigraphic analysis of the Hebrew Bible through the lens of Middle Bronze Age documents reveals a text that is deeply embedded in the administrative, legal, and literary culture of the second millennium BCE. The parallels are not merely thematic but structural:
+The stratigraphic analysis of the Hebrew Bible through the lens of Middle Bronze Age documents reveals structural features that correlate with second-millennium BCE administrative, legal, and literary conventions:
 
-1. **Colophons:** The *toledot* formula preserves the physical formatting of cuneiform tablets (Wiseman Hypothesis).  
-2. **Legal Fossils:** Slave prices and family laws (Nuzi/Mari) reflect specific MBA economic and social realities that became obsolete in later periods.  
-3. **Literary DNA:** The *Listenwissenschaft* of Genesis 1 and the Treaty structure of Deuteronomy anchor these texts to Uruk and Hittite intellectual traditions.  
+1. **Colophons:** The *toledot* formula parallels the physical formatting of cuneiform tablets (Wiseman Hypothesis).  
+2. **Legal Fossils:** Slave prices and family laws match MBA economic and social realities documented at Nuzi and Mari.  
+3. **Literary DNA:** The *Listenwissenschaft* of Genesis 1 and the Treaty structure of Deuteronomy correspond to Uruk and Hittite intellectual traditions.  
 4. **Lexical Archaisms:** Terms like *'ed*, *qesitah*, and Amorite names serve as linguistic fingerprints of the MBA.
 
-The evidence suggests that the "Ancient Word" of Genesis was not a late oral invention coalesced in the Persian period, but a curated compilation of written documents. These documents—whether originally clay tablets or early scrolls—retained the administrative signatures (colophons, catch-lines, technical vocabulary) of their MBA origin. The biblical redactors acted as faithful archivists, preserving the "structural fossils" that now allow modern scholarship to date the strata of the text with mathematical and philological precision. The Genesis narratives are, in effect, an archive within a book, bearing the indelible stamp of the world from Ebla to Nuzi.
+**What the data demonstrate:**
+- The Pentateuch contains administrative structures, legal formulations, and economic values that match the MBA horizon
+- These features became obsolete in later periods—a Persian-period author would need to deliberately archaize to reproduce them
+- The correlation is structural, not merely thematic
+
+**What the data constrain:**
+- A wholly late composition cannot easily account for the density of MBA administrative "fossils"
+- The text's structure is consistent with compilation from earlier written sources
+
+**What the data do not determine:**
+- The mechanism of transmission
+- The motivations or intentions of the compilers
+- Whether the narratives describe historical events in any modern sense
+
+The Genesis narratives bear structural features that date to the world from Ebla to Nuzi. The evidence speaks to age and transmission; it does not speak to intention.
 
 ### **Citations**
 

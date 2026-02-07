@@ -20,6 +20,51 @@ Thus, a book like Genesis may contain *linguistic fossils* from the Uruk-Ebla ho
 
 The question is not "When was Genesis written?" but "What strata does Genesis preserve, and how can we identify them?"
 
+### **Methodological Principle: Findings vs. Frameworks**
+
+A critical epistemological distinction must be maintained throughout this study:
+
+- **Findings** = Documented realities (linguistic features, archaeological data, structural parallels)
+- **Frameworks** = Interpretive structures that organize findings into hypotheses
+
+**Contesting a framework does not contest the findings.** When a scholar argues that the Eblaite cognate *'ed* doesn't prove third-millennium composition, they are not disputing that the cognate exists—they are disputing what it implies. The finding remains a finding. Reality doesn't change because an interpretation is challenged.
+
+This distinction matters because scholarship often conflates the two:
+1. Finding A is documented
+2. Finding A is linked to Framework X
+3. Framework X is challenged
+4. Finding A is now treated as "contested"
+
+This is an error. Findings cumulate; frameworks compete to explain them.
+
+### **The Cumulative Evidence Principle**
+
+Any single finding—an Eblaite cognate, an archaic morphological feature, a geographic fossil—could be challenged in isolation. Alternative explanations exist: archaizing, coincidence, misreading. Skeptics can always propose "maybe the scribe deliberately used archaic vocabulary."
+
+But findings are not isolated. They converge from **multiple independent disciplines**:
+
+| Evidence Type | Discipline | Example |
+|---------------|------------|---------|
+| Lexical fossils | Comparative Semitic philology | *'ed*, *tehom*, *mabbul*, *qesitah* |
+| Structural parallels | Literary analysis | *Listenwissenschaft* in Genesis 1 |
+| Geographic knowledge | Geology / satellite imaging | Pishon/Kuwait River (extinct c. 2000 BCE) |
+| Legal/economic parallels | ANE law codes | Slave prices, Nuzi customs, treaty forms |
+| Morphological features | Historical linguistics | Archaic verb forms in Song of the Sea |
+| Administrative structures | Archival science | *Toledot* colophon patterns |
+
+The probability calculus changes with convergence. A Persian-period scribe could *perhaps*:
+- Archaize vocabulary (retrieve extinct terms from... where?)
+- Recreate *Listenwissenschaft* cognitive structure (having encountered it... where?)
+- Know about a river extinct for 1,500 years (having learned this... how?)
+- Preserve MBA legal customs at historically accurate values (by coincidence?)
+- Match Hittite treaty forms unavailable in 5th-century Judea (having access to... what?)
+
+Each "perhaps" compounds improbability. When **multiple independent lines of evidence converge** on the same conclusion—that certain biblical texts preserve genuine Bronze Age material—the cumulative weight becomes the argument.
+
+This is not special pleading. This is how all historical inference works. A single clue might be coincidence; a pattern of clues across independent domains is signal.
+
+**The question becomes**: Which framework best accounts for ALL the documented findings? Not: "Can we explain away each finding individually?"
+
 ### **Critical Distinction: Textual Antiquity vs. Historical Event**
 
 A crucial methodological distinction must be maintained throughout this study:
@@ -339,15 +384,19 @@ These books form the control group for LBH. They exhibit the accumulation of fea
 
 ### **Confidence Rating Legend**
 
-The "Confidence" column rates confidence in the **antiquity of traditions**, not the historicity of depicted events. These are independent assessments:
+The "Confidence" column rates confidence in the **antiquity of traditions**, not the historicity of depicted events. These are independent assessments.
+
+Confidence reflects **cumulative convergence of documented findings**, not the strength of any single argument:
 
 | Rating | Meaning |
 |--------|--------|
-| **High** | Multiple independent lines of evidence (linguistic, structural, archaeological) converge; counter-arguments are weak |
-| **Medium** | Evidence is suggestive but contested; some counter-arguments have merit |
-| **Low** | Evidence is speculative or heavily debated; requires further verification |
+| **High** | Multiple independent findings (linguistic, structural, archaeological, legal) converge; alternative frameworks must explain ALL findings, not just some |
+| **Medium** | Several findings support antiquity, but some are contested or alternative explanations have merit |
+| **Low** | Evidence is sparse, speculative, or heavily dependent on single findings that could have alternative explanations |
 
 **Important:** For narrative texts (Patriarchs, Exodus, Conquest), high confidence in tradition antiquity does NOT imply the depicted events occurred. See Discussion Section A ("The Bricolage Problem") for the distinction between tradition-dating and event-historicity.
+
+**Also Important:** Confidence ratings assess the *cumulative weight* of findings, not individual arguments. When multiple independent lines of evidence converge (philological + structural + geographic + legal), the probability of coincidence diminishes. A "High" rating means the cumulative case is strong—not that every individual finding is uncontested.
 
 | Section | Book | Standard Consensus | Proposed Core Stratum | Proposed Compilation | Confidence | Key Evidence |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -488,6 +537,8 @@ However, a second paradigm must also be avoided: the assumption that ancient tex
 For Genesis 1-11, Job, and the Wisdom literature, the first question is primary (no historical events are claimed). For the Patriarchs, Exodus, and Conquest, *both* questions matter—and honest scholarship requires acknowledging that the second question often yields "no evidence" or "evidence against."
 
 The dates proposed in this document should be understood as **tradition dates**, not event dates. The question is not "when did these events occur?" but "when did the traditions embodied in this text originate, and how were they assembled?" Those are different questions, and honest scholarship requires distinguishing them.
+
+Finally, a methodological note: the evidence presented in this document consists of **documented findings**—lexical fossils, structural parallels, geographic knowledge, legal customs, morphological features. These findings are realities. They do not disappear when interpretive frameworks change. Future scholarship may propose better frameworks to organize these findings—but it cannot contest the findings themselves by contesting the framework. The question is never "is this finding valid because someone contested the hypothesis it was linked to?" The question is always "which framework best accounts for ALL the documented findings?" When multiple independent findings converge, the cumulative weight of evidence becomes the argument—and that cumulative weight remains, regardless of how any particular scholar chooses to frame it.
 
 #### **Works Cited**
 

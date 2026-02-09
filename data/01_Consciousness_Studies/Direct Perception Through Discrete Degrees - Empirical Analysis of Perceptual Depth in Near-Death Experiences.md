@@ -20,7 +20,7 @@
 |------|--------|--------|
 | NDERF accounts (n=6,135) | Near-Death Experience Research Foundation | [nderf.org](https://nderf.org) |
 | IANDS accounts (n=618) | International Association for Near-Death Studies | [iands.org](https://iands.org) |
-| Analysis code | `05_cognitive_mode_profile.ipynb` | [Repository](https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/notebooks) |
+| Analysis code | `06_cognitive_mode_profile.ipynb` | [Repository](https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/notebooks) |
 | Structured data | `projects/nde/structured/*.json` | [Repository](https://github.com/marconian/structured-data-analysis) (6,753 files) |
 | Extraction model | GPT-5.2 via Azure OpenAI | Structured output with Pydantic schema |
 
@@ -426,6 +426,6 @@ van Lommel, P. (2010). *Consciousness Beyond Life: The Science of the Near-Death
 
 All analysis code and structured data are available at:
 - **Repository**: [structured-data-analysis](https://github.com/marconian/structured-data-analysis)
-- **Analysis notebook**: `projects/nde/notebooks/05_cognitive_mode_profile.ipynb`
+- **Analysis notebook**: `projects/nde/notebooks/06_cognitive_mode_profile.ipynb`
 - **Structured data**: `projects/nde/structured/nderf/*.json` (6,135 files), `projects/nde/structured/iands/*.json` (618 files)
 - **Extraction schema**: `projects/nde/models/questionnaire.py`

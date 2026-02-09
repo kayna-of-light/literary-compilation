@@ -536,7 +536,13 @@ def stream_build_and_upload(
         raise SystemExit(f"Unknown auth mode: {auth_mode}")
 
     folder_cache: dict[str, str] = {"": drive_root_id}
+
+    # Always compute the full desired set from the entire library so that
+    # --delete-remote-extras never removes files just because --only was used.
     desired_pdf_paths: set[str] = set()
+    for _md in iter_markdown_files(data_root):
+        _pdf = md_to_pdf_path(_md, data_root, output_root)
+        desired_pdf_paths.add(_pdf.relative_to(output_root).as_posix())
 
     md_files = list(only) if only else list(iter_markdown_files(data_root))
     if limit is not None:
@@ -550,7 +556,6 @@ def stream_build_and_upload(
         rel = md_path.relative_to(data_root).as_posix()
         pdf_path = md_to_pdf_path(md_path, data_root, output_root)
         pdf_rel = pdf_path.relative_to(output_root)
-        desired_pdf_paths.add(pdf_rel.as_posix())
 
         md_sha = _sha256_file(md_path)
         rec = index.get(rel)
@@ -798,11 +803,14 @@ def sync_pdfs_to_drive(
 
     folder_cache: dict[str, str] = {"": drive_root_id}
 
+    # Always compute the full desired set from the entire local PDF root so that
+    # --delete-remote-extras never removes files just because --only was used.
     desired_pdf_paths: set[str] = set()
+    for _pdf in sorted(local_pdf_root.rglob("*.pdf")):
+        desired_pdf_paths.add(_pdf.relative_to(local_pdf_root).as_posix())
 
     for pdf_path in pdf_files:
         rel = pdf_path.relative_to(local_pdf_root)
-        desired_pdf_paths.add(rel.as_posix())
         parts = list(rel.parts)
         file_name = parts.pop(-1)
 

@@ -8,7 +8,7 @@
 
 **Background**: Genevieve von Petzinger's survey of 367 European Upper Paleolithic cave sites documented 32 distinct geometric signs that remained stable across 30,000 years and at least four cultural periods. Two-thirds of these signs were already present when anatomically modern humans arrived in Europe, indicating African origin. This stability — spanning millennia without institutional transmission, writing, or centralized authority — constitutes a genuine archaeological paradox that existing models (entoptic phosphenes, proto-writing, mnemonic devices) fail to resolve individually.
 
-**Thesis**: This paper synthesizes six companion studies that propose and test a fourth model: the 32 signs are graphic expressions of perceived ontological structure — what the Swedenborgian tradition calls *correspondences*. Their stability reflects not cultural transmission but the stability of the reality they depict. Three directional predictions derived from this hypothesis were tested against archaeological data: positional consistency within caves, cross-cultural isomorphism across isolated populations, and climatic correlation with protective sign frequency. All three were supported. Cross-domain convergence with NDE phenomenology (N = 6,753) and MallWorld dream analysis (N = 2,678) demonstrates that the same structural regularities appear in modern empirical data from independent sources.
+**Thesis**: This paper synthesizes six companion studies that propose and test a fourth model: the 32 signs are graphic expressions of perceived ontological structure — what the Swedenborgian tradition calls *correspondences*. Their stability reflects not cultural transmission but the stability of the reality they depict. Three directional predictions derived from this hypothesis were tested against archaeological data: positional consistency within caves, cross-cultural isomorphism across isolated populations, and climatic correlation with protective sign frequency. All three were supported. The same structural regularities that characterize the sign system — bounded inventories, constant state with variable form, vertical gradients, entity autonomy — appear independently across multiple empirical domains outside archaeology, strengthening the inference that the patterns reflect perceived structure rather than cultural convention.
 
 **Conclusions**: The correspondential model provides a unified explanation for features that require three separate models under competing frameworks. The pattern-level predictions are empirically confirmed. The meaning-level interpretations remain speculative but internally consistent. The data are best explained by a model in which Paleolithic artists depicted consistent structure in reality, not culturally contingent symbols.
 
@@ -252,33 +252,19 @@ These cases demonstrate that non-literate cultures can maintain accurate records
 
 ## VII. Cross-Domain Convergence
 
-The correspondential model would be interesting but weak if it explained only Paleolithic art. Its significance lies in the fact that the same structural regularities appear in three independent empirical domains.
+The correspondential model would be interesting but limited if it explained only Paleolithic art. Its significance lies in the fact that the same five structural regularities — bounded systems, constant state with variable form, vertical gradients, entity autonomy, and perception-not-codification — appear independently across multiple empirical domains that have no transmission relationship with each other or with the Paleolithic record.
 
-### Near-Death Experience Phenomenology (N = 6,753)
+| Structural Pattern | Paleolithic Signs | NDE (N = 6,753) | MallWorld (N = 2,678) | DOPS / Remission | ANE Mythology | Neolithic Iconography | Cultural Pneumatology |
+|:-------------------|:-----------------|:----|:----------|:-----------------|:--------------|:---------------------|:----------------|
+| **Bounded system** | 32 signs, 30,000 years | — | — | — | Common proto-myth | 4 categories, 7,000 years | — |
+| **Constant state, variable form** | Same signs across cultures | Constant properties, variable labels (χ² = 365.14) | — | Equivalent mark types (78.4% vs 76.7%) | Same substrate, opposing expressions | Same motifs, changing cultures | Same animal functions across films/tales |
+| **Vertical gradient** | Intellectual signs above, foundational below | Perceptual depth (KMO = 0.817) | ρ = 0.524 | — | — | — | Landscape tracks spiritual state |
+| **Entity autonomy** | — | Role specialization (χ² = 41.13) | 0% guide hostility everywhere | — | — | Vulture/Scorpion persist 7,000 years | Horse = Intellect across 10+ films |
+| **Perception, not codification** | Signs depict perceived reality | Experience overrides expectation | Structure independent of affect | Body prints perceived reality (88%) | — | — | Transmission network documented; logic holds regardless |
 
-Analysis of 6,753 structured NDE accounts (NDERF and IANDS databases) confirms the key predictions of the correspondential framework:
+NDE phenomenology produces culture-invariant experiential properties despite culture-dependent labels — constant state, variable form, confirmed with N = 6,753. MallWorld dream analysis produces vertical atmospheric gradients (ρ = 0.524), entity autonomy (0% guide hostility everywhere), and structural independence from dreamer affect — 38 of 47 statistical tests confirmed, all surviving four robustness checks, structurally indistinguishable from NDE data (Fisher Z = 1.42, p = 0.16). DOPS past-life memory research shows that 88% of children's birthmarks correspond to fatal wound locations on the previous personality — the body printing perceived reality. Spontaneous remission data show psycho-spiritual transformation preceding physical healing in 85.5% of cases. ANE mythogenesis shows a common proto-myth diverging into opposing expressions (Enuma Elish vs. Genesis 1) based on the ruling love of the culture. Neolithic iconographic analysis documents four categories persisting as a bounded inventory from Göbekli Tepe through Sumer across 7,000 years. And cultural pneumatology reveals that all three major correspondential storytelling traditions — Disney, the Brothers Grimm, and Andersen — operated within documented Swedenborgian transmission networks, making their precise correspondential structure a case of conscious encoding rather than unconscious reproduction.
 
-- **Constant state, variable form**: Religious background predicts identification labels (χ² = 365.14, p < 0.000001) but experiential properties are constant across labels — all differences below 10%. An ML classifier using religious background to predict identification performs below baseline (37.8% vs. 45.9%)
-- **Entity functional differentiation**: Beings show consistent role specialization — higher-order beings provide guidance (70–73%), deceased relatives provide comfort and gatekeeping (29.5% "told to return"). Partial ρ = 0.823 for entity behavioral independence from environment
-- **Perceptual depth gradient**: A coherent construct (KMO = 0.817) with culture-invariant distribution (ANOVA F = 0.331, p = 0.92 across 7 religious backgrounds)
-- **Expectations corrected, not confirmed**: 63.3% of Christians report no external condemnation — the experience overrides prior belief
-
-### MallWorld Dream Phenomenology (N = 2,678 dreams)
-
-Analysis of 2,678 crowd-sourced dream reports from r/TheMallWorld — dreamers reporting shared, persistent, non-waking environments — produces the same structural patterns:
-
-- **Vertical atmospheric gradient**: Underground locations show threatening atmosphere (mean 2.27), elevated show welcoming (mean 2.77). Spearman ρ = 0.524, p < 0.0001
-- **Entity autonomy**: Entity demeanor is independent of environmental atmosphere (partial ρ = 0.823). Guides show 0% hostility across all environments; threats show 92–94% hostility regardless of setting
-- **Animals as affections**: Animal demeanor is completely independent of environmental atmosphere (χ² ≈ 0, p = 1.0) but strongly determined by dreamer identity (ICC = 0.630, 89.5% between-dreamer variance)
-- **Structural, not reactive**: Dreamer affect has zero predictive power for future atmosphere after controlling for current atmosphere (partial ρ = 0.007, p = 0.71)
-
-These patterns were derived from 47 statistical tests, of which 38 confirmed (81%) and 9 produced null results (19%). All significant findings survive four independent robustness tests: time-split stability, author-holdout, drop-prolific-authors, and within-author permutation.
-
-### The Convergence
-
-The structural correlations between MallWorld and NDE data are statistically indistinguishable (Fisher Z = 1.42, p = 0.16) despite dramatically opposite baseline distributions (MallWorld 64% negative, NDE 48% positive). The same correspondential relationships hold in both spaces: vertical position maps to atmosphere, entities behave autonomously, and the perceiver's orientation — not their momentary affect — determines what they encounter.
-
-The Paleolithic sign data show the same pattern at archaeological resolution: positional grammar (intellectual signs above, foundational below), bounded inventory (32 signs, not arbitrary proliferation), and climatic response (protective signs spike during crisis, then dissolve when crisis passes). Three independent domains. Three different data types. One structural pattern.
+The inferential bridge is structural: in the non-transmission cases (Paleolithic signs, NDEs, MallWorld dreams, DOPS birthmarks), no mechanism connects the domains — the consistency of the output reflects the consistency of what is being perceived. In the transmission cases (Disney, Grimm, Andersen), the correspondential logic was consciously encoded — but the transmission chain explains *how* the logic reached the storytellers, not *why it works*. The full analyses for each domain are referenced in the Source Documents section.
 
 ---
 
@@ -290,7 +276,7 @@ The Paleolithic sign data show the same pattern at archaeological resolution: po
 2. The signs exhibit positional grammar within cave compositions, with intellectual signs in upper/active positions and foundational signs in lower/containing positions
 3. A universal core (~50–60%) appears independently across populations separated by oceans and tens of thousands of years
 4. Protective and ordering signs spike dramatically during the Magdalenian climatic crisis (tectiforms: 58.8%; crosshatches: 81.5%)
-5. The same structural patterns — vertical gradients, entity autonomy, perceiver-determined atmosphere, constant state with variable form — appear in modern NDE and dream data at high statistical significance
+5. The same structural patterns — vertical gradients, entity autonomy, perceiver-determined atmosphere, constant state with variable form — appear across six additional empirical domains outside archaeology (see Section VII convergence table)
 
 ### What is interpretive but internally consistent
 
@@ -301,7 +287,7 @@ The Paleolithic sign data show the same pattern at archaeological resolution: po
 
 8. The Tier 3 regional signs (tectiforms, aviforms) are not universally distributed, but the relevant test is not universal distribution — it is contextual coherence. The question is whether each sign fits the context where it appears, and whether it is absent only where the context does not demand it. The tectiform's concentration in the Dordogne refugium during Heinrich Event 1 passes this test. Further case-by-case analysis of regional sign deployment against local archaeological context would strengthen or weaken this finding
 9. The entoptic model provides an alternative explanation for the Tier 1 universal signs. The correspondential model's advantage is that it also explains Tier 2 convergent signs, the bounded inventory, the climatic response, and the contextual specificity of regional deployment — but the two models are not mutually exclusive. Phosphene perception and correspondential perception could both contribute to the sign repertoire
-10. The inferential bridge between modern empirical data (NDE, MallWorld) and Paleolithic cognition cannot be directly verified. The argument is structural: the same perceptual capacity that produces culture-invariant NDE patterns today produced consistent signs 30,000 years ago. This is plausible but not provable from the archaeological record alone
+10. The inferential bridge between modern empirical data and Paleolithic cognition cannot be directly verified. The argument is structural: the same perceptual capacity that produces culture-invariant NDE patterns, prints birthmarks corresponding to past-life wounds, drives mythic convergence, and generates consistent correspondential logic in popular storytelling also produced consistent signs 30,000 years ago. The convergence across seven independent domains strengthens this inference, but it remains structural — well-evidenced but not provable from the archaeological record alone
 
 ---
 
@@ -311,7 +297,7 @@ The 32 geometric signs of the Upper Paleolithic are not arbitrary cultural marks
 
 The correspondential model provides a unified explanation: the signs depict perceived structure in reality. Their stability reflects the stability of what they depict. Their boundedness reflects the finite architecture of the reality being mapped. Their cross-cultural convergence reflects independent perception of the same underlying structure. Their climatic response reflects the deployment of specific correspondential functions (containment, ordering) during periods of crisis. And their eventual dissolution reflects the fading of the perceptual capacity that produced them.
 
-This explanation generates the predictions the data confirm. It unifies features that require three separate models under competing frameworks. And it converges with independent empirical findings from NDE phenomenology and collective dream analysis, where the same structural regularities — vertical gradients, entity autonomy, constant states with variable forms — appear at high statistical significance across thousands of cases.
+This explanation generates the predictions the data confirm. It unifies features that require three separate models under competing frameworks. And the same structural regularities appear across six additional empirical domains — from NDE phenomenology to past-life memory research to myth formation — strengthening the inference that the patterns reflect the architecture of reality rather than the conventions of culture.
 
 The individual sign mappings remain interpretive. The system-level predictions are confirmed. The cross-domain convergence is real. What the Paleolithic artists were doing when they placed an aviform above a wounded man, or a tectiform below a rock crevice, or a scalariform on a cave wall in Sulawesi — the same form independently produced by an artist in Amazonia 25,000 years later — is best explained by a model in which they were depicting what they perceived, and what they perceived was consistent because it was real.
 
@@ -332,6 +318,13 @@ Cross-domain empirical references:
 
 - NDE phenomenology: 6,753 structured accounts from NDERF and IANDS databases, analyzed in the structured-data-analysis project (projects/nde/)
 - MallWorld dream analysis: 2,678 crowd-sourced dream reports, 47 statistical tests, analyzed in the structured-data-analysis project (projects/mallworld/)
+- DOPS past-life memory research: 2,500+ verified cases from the Division of Perceptual Studies, University of Virginia
+- Spontaneous remission analysis: 569 cases analyzed in the structured-data-analysis project (projects/remission/)
+- ANE mythogenesis: Proto-myth divergence analysis in the literary-compilation project (data/06_Mythological_Studies/)
+- Neolithic iconographic transmission: Göbekli Tepe → Sumer diachronic analysis in the literary-compilation project (data/06_Mythological_Studies/)
+- Cultural pneumatology: Disney, Grimm, and Andersen correspondential analyses in the literary-compilation project (data/07_Cultural_Pneumatology/)
+- Stevenson, Ian. *Where Reincarnation and Biology Intersect*. Praeger, 1997
+- Turner, Kelly A. *Radical Remission: Surviving Cancer Against All Odds*. HarperOne, 2014
 - Von Petzinger, Genevieve. *The First Signs: Unlocking the Mysteries of the World's Oldest Symbols* (2016)
 - Clottes, Jean, and David Lewis-Williams. *The Shamans of Prehistory: Trance and Magic in the Painted Caves* (1998)
 - Lewis-Williams, J. David, and Thomas A. Dowson. "The Signs of All Times: Entoptic Phenomena in Upper Paleolithic Art." *Current Anthropology* 29, no. 2 (1988): 201–245

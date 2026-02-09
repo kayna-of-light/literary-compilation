@@ -237,17 +237,17 @@ If the correspondential hypothesis is correct:
 6. Von Petzinger, Genevieve (2009). *Making the Abstract Concrete: The Place of Geometric Signs in French Upper Paleolithic Parietal Art*. MA thesis, University of Victoria. [PDF](https://dspace.library.uvic.ca/bitstream/handle/1828/1402/G_von_Petzinger_MA_thesis.pdf)
 7. "The function of graphic signs in prehistoric societies: The case of Cantabrian quadrilateral signs" — Sauvet et al. ResearchGate. [Link](https://www.researchgate.net/publication/314165166_The_function_of_graphic_signs_in_prehistoric_societies_The_case_of_Cantabrian_quadrilateral_signs)
 8. New Christian Bible Study: "The Holy City, the New Jerusalem — The Importance of Justice." [Link](https://newchristianbiblestudy.org/hr/bible/story/the-holy-city-the-new-jerusalem/peshitta/the-importance-of-justice)
-9. "Cupule Signs in French Caves" — ArtsLookUp.com. [Link](https://www.artslookup.com/prehistoric/cupule-signs-in-french-caves.html)
-10. "Prehistoric Abstract Signs: Types, Characteristics, Location, Dating" — Visual Arts Cork. [Link](http://www.visual-arts-cork.com/prehistoric/abstract-signs.htm)
+9. von Petzinger, G. (2016). *The First Signs: Unlocking the Mysteries of the World's Oldest Symbols*. New York: Atria Books. On cupule signs, their global distribution, and their status as one of the oldest geometric marks.
+10. von Petzinger, G. (2016). *The First Signs*. New York: Atria Books. Sign frequency data across 367 European Upper Paleolithic sites.
 11. "Ice Age cave paintings decoded by amateur researcher" — PBS NOVA. [Link](https://www.pbs.org/wgbh/nova/article/cave-painting-calendar-earliest-writing/)
-12. "Claviform Sign: Prehistoric P-Shaped Symbol" — ArtsLookUp.com. [Link](https://www.artslookup.com/prehistoric/claviform-sign.html)
+12. von Petzinger, G. (2016). *The First Signs*. New York: Atria Books. On claviform morphology, Magdalenian concentration (16% of French sites), and regional clustering.
 13. Swedenborg Foundation. *Chrysalis Reader: Eternal Wellness*. [PDF](https://swedenborg.com/wp-content/uploads/2015/10/SF_CR_EternalWellness.pdf)
 14. "What the mysterious symbols made by early humans can teach us about how we evolved" — TED Ideas. [Link](https://ideas.ted.com/what-the-mysterious-symbols-made-by-early-humans-can-teach-us-about-how-we-evolved/)
 15. "Cave of La Pasiega" — Wikipedia. [Link](https://en.wikipedia.org/wiki/Cave_of_La_Pasiega)
-16. "Pectiform Signs in Paleolithic Caves" — ArtsLookUp.com. [Link](https://www.artslookup.com/prehistoric/pectiform-signs.html)
+16. von Petzinger, G. (2016). *The First Signs*. New York: Atria Books. On pectiform (comb-shaped) sign morphology and distribution.
 17. "Geometric Signs & Symbols in Rock Art" — Bradshaw Foundation. [Link](https://www.bradshawfoundation.com/geometric_signs/sign_types.php)
 18. "Fellows Friday with Genevieve von Petzinger" — TED Blog. [Link](https://blog.ted.com/fellows-friday-with-genevieve-von-petzinger/)
-19. "Segmented Cruciform: Prehistoric Abstract Sign" — ArtsLookUp.com. [Link](https://www.artslookup.com/prehistoric/segmented-cruciform.html)
+19. von Petzinger, G. (2016). *The First Signs*. New York: Atria Books. On segmented cruciform morphology and its significance as a rare complex sign.
 20. Swedenborg, Emanuel. *The Delights of Wisdom Pertaining to Conjugial Love*. Project Gutenberg. [Link](https://www.gutenberg.org/files/11248/11248-h/11248-h.htm)
 21. "Early Upper Paleolithic Parietal Art: Shared Characteristics and Different Symbolic Traditions" — OpenEdition Journals. [Link](https://journals.openedition.org/palethnologie/836)
 22. "18. Birds" — Swedenborg Study. [Link](http://www.swedenborgstudy.com/books/W.L.Worcester_Language-Parable/18-Birds.html)

@@ -6,7 +6,7 @@ The intellectual history of the human species is marked by a profound epistemolo
 
 This research report expands upon previous inquiries into the "Ancient Word"—Swedenborg's term for a lost, universal system of symbolic knowledge that predated the Hebrew Bible—to identify and establish additional valid use cases of Paleolithic imagery. By treating the masterworks of the Upper Paleolithic not merely as "art" in the modern aesthetic sense, but as "lithic scripture," we can apply Swedenborgian correspondence theory to decipher the spiritual narratives encoded in the caves of Lascaux, Chauvet, and Trois-Frères, the rock shelters of Cougnac and Pech Merle, and the portable art of the Gravettian period.
 
-The inquiry moves beyond generalities to specific, granular analysis. We examine five distinct case studies: the "Sorcerer" of Trois-Frères, the "Shaft Scene" of Lascaux, the "Venus" of Willendorf, the "Wounded Men" of Cougnac and Pech Merle, and the anthropomorphic Pillar 18 of Göbekli Tepe. For each case, we provide a detailed report specifying the translation steps, moving from the biological and archaeological data to the specific Swedenborgian correspondence, and finally to a synthesis of the spiritual meaning. This methodology reveals that the "Ancient Word" was not a written text but a "cognitive technology" 3—a way of seeing the world where the stag, the bison, and the lion were not just calories, but categories of the soul.
+The inquiry moves beyond generalities to specific, granular analysis. We examine four distinct case studies: the "Shaft Scene" of Lascaux, the "Venus" of Willendorf, the "Wounded Men" of Cougnac and Pech Merle, and the anthropomorphic Pillar 18 of Göbekli Tepe. A fifth case—the "Sorcerer" of Trois-Frères—was originally included but has been withdrawn due to unresolvable source-verification problems (see Section 3). For each remaining case, we provide a detailed report specifying the translation steps, moving from the biological and archaeological data to the specific Swedenborgian correspondence, and finally to a synthesis of the spiritual meaning. This methodology reveals that the "Ancient Word" was not a written text but a "cognitive technology" 3—a way of seeing the world where the stag, the bison, and the lion were not just calories, but categories of the soul.
 
 ## **2\. Theoretical Framework: The Science of Correspondences as Cognitive Archaeology**
 
@@ -27,7 +27,7 @@ The "Golden Age" (Most Ancient Church) is allegorical narrative for multi-millio
 * **Most Ancient Church (Golden Age):** Corresponds to deep hominin evolution. Communication is tacit, facial, and intuitive.8 The dominant love is "Celestial," focusing on the Will and Love.  
 * **Ancient Church (Silver Age):** Corresponds to the Upper Paleolithic and Neolithic (e.g., Göbekli Tepe). Here, the "knowledge of correspondences" becomes a science. Truth is encoded in myths, rituals, and monumental architecture because it is no longer perceived internally.2 The dominant love is "Spiritual," focusing on the Understanding and Truth.
 
-The images analyzed in this report span this transition. The Venus figurines (Gravettian) reflect the celestial, internal state of the Most Ancient Church. The complex narratives of Lascaux and Trois-Frères (Magdalenian) suggest the beginning of the "Ancient Church," where complex theological concepts are being encoded in composite symbols ("monsters" or hybrids) to preserve them against the loss of direct perception.
+The images analyzed in this report span this transition. The Venus figurines (Gravettian) reflect the celestial, internal state of the Most Ancient Church. The complex narratives of Lascaux (Magdalenian) suggest the beginning of the "Ancient Church," where theological concepts are being encoded in visual symbols to preserve them against the loss of direct perception.
 
 ### **2.3 Methodology of Translation**
 
@@ -37,55 +37,33 @@ For each case study, we employ a rigorous three-step translation protocol:
 2. **Correspondential Isolation:** What is the specific spiritual meaning assigned to this object in Swedenborg’s exegetical writings (*Arcana Coelestia*, *Apocalypse Explained*, *True Christian Religion*)? We look for the "internal sense" based on the object's function or "use."  
 3. **Synthesized Exegesis:** How do these correspondences combine in the specific visual syntax of the artifact to convey a coherent spiritual narrative? We treat the cave wall as a "text" where the spatial arrangement (juxtaposition, superposition) constitutes the "grammar."
 
-## **3\. Case Study I: The Sorcerer of Trois-Frères (The Hybrid Priest)**
+## **3\. A Methodological Note on Source Verification: The Sorcerer of Trois-Frères**
 
-### **3.1 Phenomenological Description**
+This document originally included a fifth case study: a correspondential reading of the famous "Sorcerer" therianthrope (c. 13,000 BCE) from the Sanctuary chamber of Trois-Frères cave in Ariège, France. That reading identified stag antlers (affection for truth), owl eyes (perception in obscurity), bear paws (power of the natural), wolf tail (sensual principle), and human legs (rational principle) as a composite theological diagram of the "Regenerating Man of the Ancient Church." The correspondential logic was internally coherent.
 
-Deep within the "Sanctuary" of the Trois-Frères cave in Ariège, France, dating to the Magdalenian period (c. 13,000 BCE), stands the famous "Sorcerer".9 This figure is a *therianthrope*—a composite being combining human and animal features. It is engraved and painted in black pigment, situated 4 meters above the cave floor, dominating a chamber filled with hundreds of animal engravings.10 It is accessible only via a difficult, spiraling corridor, suggesting an initiatory context.11
+The reading has been withdrawn. The reason is not that the correspondences failed but that the input data cannot be verified.
 
-Key visual components identified by Henri Breuil and subsequent researchers include:
+### **3.1 The Evidential Problem**
 
-* **Head:** Antlers of a stag, ears of a wolf or stag, eyes of an owl (or large round eyes), and a long beard.12  
-* **Body:** Humanoid posture (bipedal, dancing), but with the tail of a horse or wolf.11  
-* **Limbs:** Human legs, but hands/paws that have been described as bear-like or lion-like.12  
-* **Genitalia:** Prominent, non-erect male genitalia situated beneath the tail, emphasizing maleness but without the specific sexual charge of an erection.13
+The detailed composite identification—owl eyes, bear paws, wolf tail—derives almost entirely from Henri Breuil's 1920s tracing, produced by gas-lamp in a cramped chamber at oblique angles.12 Modern photographs of the actual cave surface show significantly less detail: human legs are clearly visible, antlers are plausible, and a dark animal body mass is present, but the fine-grained features that made the correspondential reading possible (the round "owl" eyes, the distinct "bear" paws) cannot be confirmed from the photographs.
 
-### **3.2 Correspondential Translation**
+The scholarly literature confirms the gap:
 
-To decode the Sorcerer, we must deconstruct him into his constituent correspondences. This figure is a "monster" in the classical sense—a combination of discrete degrees of life. In Swedenborgian thought, composite animals (like the Cherubim or the beasts of Daniel) represent complex spiritual states where different faculties (will, understanding, sensory power) are conjoined.14
+* **Hutton (2003):** "The figure drawn by Breuil is not the same as the one actually painted on the cave wall."
+* **Ucko & Rosenfeld (1967):** Documented instances where Breuil mistook natural rock cracks for man-made marks.
+* **Clottes (defends):** Maintains Breuil's accuracy from 20+ direct visits but has not produced photographic evidence resolving the discrepancy.
 
-#### **3.2.1 The Stag and Antlers**
+The Sanctuary chamber itself contains over 280 overlapping engravings, many visible only at specific light angles.10 The "Sorcerer" may be a palimpsest—multiple images from different periods that Breuil's tracing unified into a single composite figure.
 
-* **Swedenborgian Correspondence:** The **stag** (hart) corresponds to the **affection for natural truth**. It represents the desire to learn, to investigate, and to understand the truth of faith. Stags are shy, dwelling in forests (the natural mind), and possess keen hearing (obedience). **Antlers**, being bony outgrowths that are shed and regrown annually, represent **sensual or natural truths** (scientifics) that proliferate from the understanding.15 They act as "spiritual antennae," representing the reception of truth in the ultimate degree.  
-* **Translation:** The stag-head signifies a mind focused on the acquisition of natural and spiritual knowledge—the "intelligence" of the natural man. It marks the shift from the "Most Ancient" state of perception to the "Ancient" state of learning. The figure is "crowned" with the affection for truth.
+### **3.2 The Methodological Principle**
 
-#### **3.2.2 The Owl Eyes**
+The correspondential method employed in this document requires verified input. Each case study follows a three-step protocol: (1) phenomenological identification of what is depicted, (2) correspondential isolation of spiritual meaning, and (3) synthesized exegesis. If step one cannot be established with confidence, steps two and three—however internally coherent—compound interpretation upon interpretation.
 
-* **Swedenborgian Correspondence:** The **owl** (and birds of night) corresponds to **falsity** in a negative sense, but in a positive sense (or when investigating hidden things), it represents the **confirmation of truth in obscurity**.16 It signifies the ability to see in the dark—to perceive spiritual realities when the "sun" of direct perception has set. Swedenborg notes that night-birds signify those who are in "falsities" but can be reformed if they search for light (*Apocalypse Revealed* §695).17 In the context of the Sorcerer, this corresponds to the faculty of perceiving spiritual truth in obscurity—the capacity to navigate the natural degree when celestial perception has set.18  
-* **Translation:** The owl eyes denote a specific type of wisdom: the ability to navigate the "darkness" of the natural world or the "night" of a declining church state to find truth. It is the eye of the seer who operates where others cannot see.
+The Sorcerer reading demonstrated this compounding: Paleolithic artist → Breuil's projection → subsequent scholarly reception → our correspondential translation. Each layer added coherence not necessarily present in the original. Correspondential reading without verified input is speculation compounded on interpretation.
 
-#### **3.2.3 The Bear Paws**
+The four remaining case studies—Lascaux Shaft Scene, Venus of Willendorf, Wounded Men of Cougnac/Pech Merle, and Göbekli Tepe Pillar 18—all stand on photographically verifiable evidence. Their correspondential readings can be checked against what is actually depicted.
 
-* **Swedenborgian Correspondence:** The **bear** corresponds to the **power of the literal sense of the Word** or **natural power**.19 Bears can be protective (guarding Elisha) or destructive, but they always relate to the *power* residing in the ultimates of nature or text. The bear is a "clother" of spiritual things in thick, natural fur.19  
-* **Translation:** The bear paws signify that this figure possesses the *power* to act in the natural world through knowledge. It grounds the "flighty" affection of the stag/bird with the "heavy" power of the bear. The "Sorcerer" handles spiritual realities with the strength of the natural degree.
-
-#### **3.2.4 The Wolf/Horse Tail**
-
-* **Swedenborgian Correspondence:** The **tail** signifies the **sensual principle**—the lowest part of the mind that connects with the body.21 The **wolf** corresponds to the **avidity of the memory** or the snatching away of truth 22, while the **horse** corresponds to the **intellectual understanding**.23  
-* **Translation:** The tail indicates that this spiritual state is rooted in the sensual; it is not a disembodied spirit but a being operating through the senses (sensual knowledge). It trails behind the higher faculties, serving as the connection to the earth.
-
-#### **3.2.5 The Human Form**
-
-* **Swedenborgian Correspondence:** The **human form** corresponds to the **will and understanding united**—the image of God (The Divine Human).6 To be "human" is to be a recipient of Divine Love and Wisdom.  
-* **Translation:** The human posture signifies that the ruling principle of this being is spiritual/rational, utilizing the animal powers (affections) as servants.
-
-### **3.3 Synthesis: The Arch-Priest of Correspondence**
-
-The "Sorcerer" is not a depiction of a hunting god, but a complex theological diagram of the Regenerating Man of the Ancient Church.  
-As the "Most Ancient" state of direct perception faded (the Fall), humanity needed to construct a new intellectual self. They had to acquire the affection for truth (Stag) to replace lost intuition. They had to learn to see in the dark (Owl) because the spiritual sun was obscured. They needed the power of natural rituals and representatives (Bear) to contain their spirituality.  
-The Sorcerer represents the Magian or Priestly function: the human intellect (the man) clothing itself in the affections of the natural world (the animals) to bridge the gap between heaven and earth. He is the "Pontifex" of the Paleolithic—the bridge builder. He demonstrates that the human internal can master and integrate the diverse affections of the natural mind (the stag, the bear, the wolf) to perform a ritual of connection. This composite image serves as a mnemonic device 2, a "text" instructing the initiate that to reach the Divine, one must harness the natural affection for truth (stag), the power of the literal (bear), and the insight into obscurity (owl).
-
-## **4\. Case Study II: The Lascaux Shaft Scene (The Crisis of the Intellect)**
+## **4\. Case Study I: The Lascaux Shaft Scene (The Crisis of the Intellect)**
 
 ### **4.1 Phenomenological Description**
 
@@ -123,7 +101,7 @@ Located in the deepest, most inaccessible part of the Lascaux cave (the Shaft or
 This scene vividly depicts a Swedenborgian crisis of Vastation and Separation. The Bison (Natural Good) has been mortally wounded—perhaps by the man's own spear (the intellect attacking the will, or a failed attempt to subdue the natural). The entrails (the unclean interiors) are exposed.  
 The Bird-Man represents the separation of the Understanding from the Will. Swedenborg teaches that in the "Ancient Church" (post-Flood), the will became corrupt (the wounded bison), and the Lord separated the understanding so that man could be regenerated via truth (the Bird).1 The man lies "dead" to the world, his body helpless, but his spirit (the Bird-Staff and the erection) is potent and active. This is a lithic representation of the ecstatic trance or spiritual awakening: the death of the natural good (the bison) is necessary for the release of the spiritual intellect (the bird). The "Shaft" itself corresponds to the "Lower Earth" or the state of temptation/despair before elevation.46
 
-## **5\. Case Study III: The Venus of Willendorf (The Celestial Proprium)**
+## **5\. Case Study II: The Venus of Willendorf (The Celestial Proprium)**
 
 ### **5.1 Phenomenological Description**
 
@@ -159,7 +137,7 @@ The "Venus" of Willendorf is a Gravettian (c. 30,000 BCE) limestone figurine.47 
 
 The Venus of Willendorf is the supreme image of the **Most Ancient Church** (Golden Age). She embodies the Swedenborgian concept of "Celestial Good"—a state of love (fatness) and charity (breasts) that precedes the development of the separate intellect. Her facelessness is not dehumanization but **supra-humanization**; she represents a humanity that had not yet developed the hard, external "proprium" of the later ages. She is the "Mother" of the celestial seed, woven in the "hair" of natural correspondence but filled with the "fat" of Divine Love.
 
-## **6\. Case Study IV: The Wounded Men of Cougnac and Pech Merle (Spiritual Temptation)**
+## **6\. Case Study III: The Wounded Men of Cougnac and Pech Merle (Spiritual Temptation)**
 
 ### **6.1 Phenomenological Description**
 
@@ -190,7 +168,7 @@ In the caves of Cougnac and Pech Merle (Gravettian, c. 25,000 BCE), there are ra
 
 These images are the earliest depictions of **Spiritual Warfare**. They visualize the Swedenborgian concept that regeneration is not a peaceful process but a violent struggle against the "hells." The "Wounded Man" is the **Tempted Man**, the one who is besieged by falsities (spears) but who endures. This aligns with the "Wars of Jehovah" mentioned in the *Ancient Word*—books that described the spiritual battles of the church in correspondences.1 The Cougnac/Pech Merle figures are lithic illustrations of these lost scriptures.
 
-## **7\. Case Study V: Göbekli Tepe Pillar 18 (The Anthropomorphic Cosmos)**
+## **7\. Case Study IV: Göbekli Tepe Pillar 18 (The Anthropomorphic Cosmos)**
 
 ### **7.1 Phenomenological Description**
 
@@ -233,10 +211,9 @@ This research validates the hypothesis that Paleolithic and early Neolithic imag
 | **Chauvet Lions** | 30k BCE | **Lioness** (Affection/Zeal) | The spiritual combat of the Will; Zeal purifying the natural (hunting the bison). | **Most Ancient Church** (Late/Combative) |
 | **Wounded Men** | 25k BCE | **Spears/Arrows** (Falsity/Combat) | Spiritual Temptation; The intellectual man assaulted by false principles. | **Transition/Fall** (The Wars of Jehovah) |
 | **Lascaux Shaft** | 17k BCE | **Bird/Bison/Phallus** (Intellect/Will) | The separation of Will and Understanding; The death of the Will (Bison) and the ecstatic survival of the Intellect (Bird). | **Transition** (The Crisis) |
-| **The Sorcerer** | 13k BCE | **Hybridity** (Stag/Owl/Bear) | The Priest/Magian bridging worlds; The construction of a new "self" from natural affections. | **Rise of the Ancient Church** (Magical) |
 | **Pillar 18** | 9.6k BCE | **Pillar/Belt/Fox** (Divine Human/Order) | Externalized worship; Doctrine holding the cosmos in order; Prudence governing the senses. | **Ancient Church** (Representative) |
 
-These images are not merely "art" but **theological diagrams**. They document the history of the human soul's evolution from the "fatness" of celestial love (Willendorf) to the "hybridity" of the magian intellect (Trois-Frères), culminating in the "architectural" order of the temple (Göbekli Tepe). The Swedenborgian hermeneutic provides the key to unlocking this "Lithic Scripture," revealing that our ancestors were not primitive animists, but sophisticated theologians of the concrete, writing their bible in the only ink that would last: stone.
+These images are not merely "art" but **theological diagrams**. They document the history of the human soul's evolution from the "fatness" of celestial love (Willendorf) through the crisis of intellectual separation (Lascaux) and the combats of temptation (Cougnac/Pech Merle), culminating in the "architectural" order of the temple (Göbekli Tepe). The Swedenborgian hermeneutic provides the key to unlocking this "Lithic Scripture," revealing that our ancestors were not primitive animists, but sophisticated theologians of the concrete, writing their bible in the only ink that would last: stone.
 
 #### **Works cited**
 

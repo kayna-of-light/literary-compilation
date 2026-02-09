@@ -1,14 +1,5 @@
 # **The Lithic Scripture: A Hermeneutic Reconstruction of the Ancient Word through the Doctrine of Correspondences and Paleolithic Iconography**
 
-> ---
-> **📋 Editorial Notes** | Last reviewed: 2026-01-27
-> 
-> This document reflects **earlier understanding** on:
-> - **#5** [Most Ancient Church](../02_Swedenborgian_Theology/A%20Validation%20Analysis%20of%20Claims%20Concerning%20the%20Most%20Ancient%20Church.md) — Section 2.2 places "Most Ancient Church" at "deep Paleolithic" without clarifying this means deep hominin evolution (millions of years). The terminology could be confused with the Upper Paleolithic (40,000-10,000 BCE).
-> 
-> **Summary**: The "Golden Age" is an allegorical narrative for the multi-million-year trajectory of hominin evolution (bipedalism, gestural communication). The Upper Paleolithic (40,000-10,000 BCE) is actually the **Ancient Church** period *after* the Fall.
-> ---
-
 ## **1\. Introduction: The Epistemological Fracture and the Recovery of the Ancient Mind**
 
 The intellectual history of the human species is marked by a profound epistemological fracture, a tectonic shift in the perception of reality that separates the modern, materialist worldview from the archaic, symbolist cognition of our ancestors. Contemporary archaeology and anthropology, grounded in the empirical observation of material culture, often struggle to bridge the gap between the artifact—the stone tool, the cave painting, the carved figurine—and the mental landscape of the artisan who produced it. We possess the *gētīg* (the material manifestation) but have largely lost the *mēnōg* (the spiritual or mental essence) that animated the pre-literate world.1 However, the theological corpus of Emanuel Swedenborg (1688–1772) offers a sophisticated hermeneutic framework that, when rigorously applied to the archaeological record, promises to reconstruct this lost cognitive architecture. Swedenborg’s "Doctrine of Correspondences" posits a causal, immutable relationship between the spiritual realm (the plane of causes) and the natural world (the plane of effects). In this view, the physical universe is not a closed system of material interactions but a semiotic field where every natural phenomenon functions as a "letter" in a divine alphabet, articulating invisible spiritual realities.2
@@ -31,14 +22,10 @@ In the context of the "Ancient Word," Swedenborg asserts that the "men of the Mo
 
 Swedenborg describes a historical decline—a "Fall"—from this state of immediate perception (Most Ancient Church) to a state of "conscience" (Ancient Church), where truth had to be learned via external symbols and doctrines.1 This transition aligns with the archaeological shift from the Middle Paleolithic to the Upper Paleolithic and eventually the Neolithic.
 
-> **[REFRAMING #5]** The terminology below uses "deep Paleolithic" ambiguously. Later analysis clarifies:
-> the "Golden Age" (Most Ancient Church) is allegorical narrative for **multi-million-year hominin evolution**
-> (Homo habilis through early Homo sapiens), not merely the Upper Paleolithic. The archaeological record
-> of 40,000-10,000 BCE actually corresponds to the **Ancient Church** period *after* the Fall.
-> "Internal respiration" functionally maps to decoupling of breath from locomotion (bipedalism).
+The "Golden Age" (Most Ancient Church) is allegorical narrative for multi-million-year hominin evolution (Homo habilis through early Homo sapiens), not merely the Upper Paleolithic. The archaeological record of 40,000–10,000 BCE actually corresponds to the Ancient Church period *after* the Fall. "Internal respiration" functionally maps to the decoupling of breath from locomotion (bipedalism).
 
-* **Most Ancient Church (Golden Age):** Corresponds to the deep Paleolithic. Communication is tacit, facial, and intuitive.8 The dominant love is "Celestial," focusing on the Will and Love.  
-* **Ancient Church (Silver Age):** Corresponds to the later Upper Paleolithic and Neolithic (e.g., Göbekli Tepe). Here, the "knowledge of correspondences" becomes a science. Truth is encoded in myths, rituals, and monumental architecture because it is no longer perceived internally.2 The dominant love is "Spiritual," focusing on the Understanding and Truth.
+* **Most Ancient Church (Golden Age):** Corresponds to deep hominin evolution. Communication is tacit, facial, and intuitive.8 The dominant love is "Celestial," focusing on the Will and Love.  
+* **Ancient Church (Silver Age):** Corresponds to the Upper Paleolithic and Neolithic (e.g., Göbekli Tepe). Here, the "knowledge of correspondences" becomes a science. Truth is encoded in myths, rituals, and monumental architecture because it is no longer perceived internally.2 The dominant love is "Spiritual," focusing on the Understanding and Truth.
 
 The images analyzed in this report span this transition. The Venus figurines (Gravettian) reflect the celestial, internal state of the Most Ancient Church. The complex narratives of Lascaux and Trois-Frères (Magdalenian) suggest the beginning of the "Ancient Church," where complex theological concepts are being encoded in composite symbols ("monsters" or hybrids) to preserve them against the loss of direct perception.
 

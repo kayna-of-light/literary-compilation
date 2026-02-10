@@ -287,6 +287,14 @@ The Magi codified the *mēnōg/gētīg* ontology into the systematic treatises o
 
 **The crucial distinction**: The Magi did not **invent** the Science of Correspondences. They **institutionalized** what earlier carriers had preserved. The systematization was genuine and valuable—without it, the knowledge might have been lost entirely as intuitive access continued to decline. But the Magi were not the originators.
 
+**The Magi's own tradition confirms this.** The Avestan title *Zarathushtrotema*—"The One Most Like Zarathustra" or "The Highest Zarathustra"—was the official designation of the head of the Magian priestly order.^[H10] This is not the title of a founder's successor; it is the title of a **lineage**—a succession of spiritual masters who embodied the function of the original. The Magi understood their knowledge as inherited from a chain of transmission, not invented by a single genius.
+
+This explains the irreconcilable dating problem. Ancient sources place "Zoroaster" anywhere from 6000 BCE (Greek sources) to 600 BCE (Parsee tradition of "258 years before Alexander"). These are not errors or legends. They are the signature of a **composite figure**—a title applied to different high priests of the order across millennia. The Greeks encountered different "Zarathustras" and conflated them into a single mythic originator.
+
+The Gathic "Zoroaster"—the reformer of the *Gathas*—was not an originator but a **purifier**. He stripped the nature-gods (*Daevas*) of their divinity, re-centered the system on *Ahura Mazda*, and restored ethical dualism (Truth/Asha vs. Lie/Druj). He reformed a tradition that already existed. The Magian institution eventually absorbed this reform and overlaid it with older ritualistic practices, producing the composite "Zoroaster" known to the West—part Gathic poet, part Babylonian astrologer (*Zaradas*), part Hellenistic sage.
+
+This is the same pattern Swedenborg identifies for "Enoch" and "Noah"—community traditions named as individuals. "Zoroaster" is another instance: a living tradition wearing the mask of a single name, stretching back into the same temporal and geographic zone as the *Bene Qedem*.
+
 This distinction matters because it resolves a chronological puzzle. The *Dāmdād Nask* cannot be the source of correspondential patterns that appear at Göbekli Tepe 7,000 years before Zoroaster. But if the Magi were **systematizers of earlier tradition**, the puzzle dissolves: Göbekli Tepe and the Avestan classifications both inherit from the same deep tradition, mediated through different channels—the *Bene Qedem* on one hand, the Magian institution on the other.
 
 ### C. The *Dāmdād Nask* and the Complete Codified System
@@ -645,21 +653,15 @@ The library documents establish this chain:^[H2]
 
 3. **The Essene community operated within the correspondential framework** — The *Rule of the Community* (1QS) preserves the "Two Spirits" doctrine—virtually identical to Zoroastrian cosmic dualism but subordinated to monotheism.^[H3] The Essenes called themselves "Sons of Light" engaged in battle against "Sons of Darkness." This is not metaphor; this is correspondential cosmology.
 
-4. **Jesus and his family show documented connections to the Essene milieu** — The Jerusalem Church under James ("The Poor" / *Ebionim*) exhibits structural parallels with Qumran: community of goods, strict hierarchy, opposition to the Temple establishment, expectation of imminent eschatological intervention. The family emerged from, or was deeply influenced by, this sectarian environment.
+4. **Jesus and his family belonged to the Essene milieu** — The Jerusalem Church under James was not merely "similar" to Qumran; it shared **institutional identity** with it. The two communities used the same self-designation ("The Poor" / *Ebionim*), the same governance structure (council of pillars plus an Overseer / *Mebaqqer*), the same economic rule (community of goods as a purity requirement), the same Temple stance (boycott of official sacrifices until cleansing), and the same eschatological framework (imminent divine intervention, Sons of Light against Sons of Darkness). The Dynasty of the Branch documents these parallels exhaustively: "The structural and theological parallels between the Jerusalem Church and the Qumran community are too numerous to be coincidental." The Damascus Divergence goes further, presenting evidence that the Dead Sea Scrolls' "Man of Lies" (*Ish ha-Kazav*) is Paul himself—meaning the schism between the Jamesian and Pauline factions is documented *from the Essene side*. This is not inference; it is documented institutional continuity.
 
-#### The Mechanism: Absorption of Preserved Tradition
+#### The Mechanism: Transmission through an Essene Community
 
-The transmission thesis explains Jesus's construction ability without requiring supernatural knowledge acquisition (though it does not exclude it):
+The Essene community had preserved Enochic literature—texts written entirely in correspondences—because they understood these texts as sacred science. The Qumran library included not only 1 Enoch but also the Book of Giants and other correspondential materials. The community practiced reading Scripture according to its "internal sense"—the *pesher* method of finding prophetic meanings embedded in the text.
 
-The Essene community had preserved Enochic literature—texts written entirely in correspondences—because they understood these texts as sacred science. The Qumran library included not only 1 Enoch but also the Book of Giants and other correspondential materials.
+Jesus, emerging from this milieu, was trained within a tradition that still possessed the correspondential framework. But unlike the broader Essene community, which preserved and interpreted without fully constructing new correspondential structures, Jesus demonstrates the **construction ability** that marks complete access—the capacity to generate new parables that function as precise correspondences, not merely to read existing ones.
 
-Jesus, emerging from this milieu, would have been trained in reading Scripture according to its "internal sense"—the Essene/Qumranic practice of finding hidden prophetic meanings. But unlike the broader Essene community, which preserved without fully constructing, Jesus demonstrates the **construction ability** that marks complete access.
-
-**Two possibilities**:
-1. Jesus inherited the complete system through Essene transmission (suggesting the Essene lineage preserved more than we have documented)
-2. Jesus received direct spiritual instruction that restored what the Essene tradition preserved only partially
-
-The transmission thesis does not require choosing between these. Both maintain the central point: Jesus's construction ability confirms that the Science of Correspondences was still operative in the first century CE, at least in isolated pockets, before entering the full darkness of fragmentation.
+This construction ability goes beyond what institutional transmission alone would produce. The Essene tradition provided the substrate—the preserved texts, the interpretive method, the correspondential vocabulary. But Jesus's capacity to *construct* suggests either that the Essene lineage preserved more of the complete system than the surviving Dead Sea Scrolls document, or that the tradition he inherited was completed by direct spiritual instruction. The transmission thesis does not require choosing between these. Both maintain the central point: the Science of Correspondences was still operative in the first century CE, transmitted through the Essene community to Jesus as the last full practitioner, before entering the darkness of fragmentation.
 
 #### Why This Matters: The Last Practitioner Before Full Darkness
 

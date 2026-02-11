@@ -655,28 +655,34 @@ The library documents establish this chain:^[H2]
 
 4. **Jesus and his family belonged to the Essene milieu** — The Jerusalem Church under James was not merely "similar" to Qumran; it shared **institutional identity** with it. The two communities used the same self-designation ("The Poor" / *Ebionim*), the same governance structure (council of pillars plus an Overseer / *Mebaqqer*), the same economic rule (community of goods as a purity requirement), the same Temple stance (boycott of official sacrifices until cleansing), and the same eschatological framework (imminent divine intervention, Sons of Light against Sons of Darkness). The Dynasty of the Branch documents these parallels exhaustively: "The structural and theological parallels between the Jerusalem Church and the Qumran community are too numerous to be coincidental." The Damascus Divergence goes further, presenting evidence that the Dead Sea Scrolls' "Man of Lies" (*Ish ha-Kazav*) is Paul himself—meaning the schism between the Jamesian and Pauline factions is documented *from the Essene side*. This is not inference; it is documented institutional continuity.
 
-#### The Mechanism: Transmission through an Essene Community
+#### The Mechanism: Influx Meeting a Prepared Natural Base
 
 The Essene community had preserved Enochic literature—texts written entirely in correspondences—because they understood these texts as sacred science. The Qumran library included not only 1 Enoch but also the Book of Giants and other correspondential materials. The community practiced reading Scripture according to its "internal sense"—the *pesher* method of finding prophetic meanings embedded in the text.
 
-Jesus, emerging from this milieu, was trained within a tradition that still possessed the correspondential framework. But unlike the broader Essene community, which preserved and interpreted without fully constructing new correspondential structures, Jesus demonstrates the **construction ability** that marks complete access—the capacity to generate new parables that function as precise correspondences, not merely to read existing ones.
+This tradition provided Jesus with the **natural base**—the correspondential vocabulary, the sacred texts, the interpretive framework. When spiritual truth flows into a soul, it can only be expressed through what the natural plane provides. The Essene milieu was the vessel: the preserved texts, the theological vocabulary, the living tradition of reading nature and Scripture as spiritual language. This is what Jesus absorbed as he "grew in wisdom and stature" (Luke 2:52).
 
-This construction ability goes beyond what institutional transmission alone would produce. The Essene tradition provided the substrate—the preserved texts, the interpretive method, the correspondential vocabulary. But Jesus's capacity to *construct* suggests either that the Essene lineage preserved more of the complete system than the surviving Dead Sea Scrolls document, or that the tradition he inherited was completed by direct spiritual instruction. The transmission thesis does not require choosing between these. Both maintain the central point: the Science of Correspondences was still operative in the first century CE, transmitted through the Essene community to Jesus as the last full practitioner, before entering the darkness of fragmentation.
+But the way Jesus *uses* this material is not institutional. The Essene *pesharim* (commentaries) are precisely institutional—they take existing text and extract meaning through interpretive formulas. Jesus never does this. He generates new correspondential structures in real-time response to specific situations: a Pharisee's trap question about taxes becomes a correspondence between Caesar's image on the coin and God's image on the human; a barren fig tree becomes the enactment of form without use; each parable is tailored to the audience, the moment, the specific spiritual state being addressed. The Sower is different from the Prodigal Son is different from the Pearl of Great Price—each a new expression, not a recitation.
+
+This is what **influx meeting a prepared substrate** looks like. The natural base (Essene tradition) determined what *could* be expressed. The influx determined what *was* expressed. From the outside, this looks like extraordinary "construction ability"—the appearance of genius. From the inside, it is recognition: things known intuitively become expressible the moment they meet their natural counterparts, and those counterparts become suddenly, quickly accessible.
+
+The Gospels also document recurring episodes of direct spiritual reception throughout Jesus's life—the Baptism vision, the Transfiguration, the 40 days in the wilderness, Gethsemane. However reliable the specific accounts, the pattern is consistent: not a one-time acquisition but an ongoing relationship between influx and the soul that receives it. Jesus learned, absorbed, and grew—through channels both natural (the Essene tradition, Hebrew Scripture, observation of the world) and spiritual (documented episodes of direct contact). What he received, he made entirely his own—not by constructing a container to fit the influx, but by allowing influx to flow into whatever natural base was available, where it found its expression.
+
+The Science of Correspondences was still operative in the first century CE, transmitted through the Essene community to the last figure who could receive it fully, before entering the darkness of fragmentation.
 
 #### Why This Matters: The Last Practitioner Before Full Darkness
 
-Jesus represents the **last documented figure** between Plato and Swedenborg who demonstrates systematic correspondential construction. After him, the darkness deepens:
+Jesus represents the **last documented figure** between Plato and Swedenborg through whom the Science of Correspondences flowed as living expression. After him, the darkness deepens:
 
 - The Pauline transformation shifts Christianity from correspondential teaching to abstract theology ("Justification," "Imputation," "Grace" as forensic concepts without natural correlates)
 - The canonical Gospels preserve Jesus's parables but lose the interpretive key
 - Later Christianity reads the parables as moral lessons or allegories rather than precise correspondences
-- The Neoplatonists, Hermeticists, and others struggle with fragments but cannot reconstruct
+- The Neoplatonists, Hermeticists, and others struggle with fragments but cannot receive coherently
 
-The trajectory is clear: **Jesus is the last to construct before the light goes out**.
+The trajectory is clear: **Jesus is the last through whom the light flows before the darkness closes**.
 
 This has significant implications:
 
-**For understanding Jesus**: His teaching method was not incidental but definitive. He spoke in correspondences because that was the language of heaven, the mode of the Ancient Word, the method by which spiritual truth enters natural form.
+**For understanding Jesus**: His teaching method was not incidental but definitive. He spoke in correspondences because that was the language of heaven, the mode of the Ancient Word, the method by which spiritual truth enters natural form. His capacity to express correspondences intuitively rather than institutionally—generating them in real-time rather than reciting them from texts—is itself evidence of what kind of soul he was.
 
 **For understanding the transmission**: The chain runs from the Most Ancient Church through the Bene Qedem and Magi to the Hebrew prophets, through the Essene preservation of Enochic literature, to Jesus as the last full practitioner—and then breaks, entering the centuries of fragmentation until Swedenborg's restoration.
 

@@ -682,7 +682,7 @@ The trajectory is clear: **Jesus is the last through whom the light flows before
 
 This has significant implications:
 
-**For understanding Jesus**: His teaching method was not incidental but definitive. He spoke in correspondences because that was the language of heaven, the mode of the Ancient Word, the method by which spiritual truth enters natural form. His capacity to express correspondences intuitively rather than institutionally—generating them in real-time rather than reciting them from texts—is itself evidence of what kind of soul he was.
+**For understanding Jesus**: His teaching method was not incidental but definitive. He spoke in correspondences because correspondence is the structure of reality itself — divine influx taking form through discrete degrees. At the celestial degree, this structure is perceived directly; Jesus's parables are not coded messages but natural expressions of how a celestial mind communicates what it sees. His capacity to generate correspondential structures intuitively rather than institutionally — in real-time response to specific situations rather than by reciting from texts — is itself evidence of what kind of soul he was.
 
 **For understanding the transmission**: The chain runs from the Most Ancient Church through the Bene Qedem and Magi to the Hebrew prophets, through the Essene preservation of Enochic literature, to Jesus as the last full practitioner—and then breaks, entering the centuries of fragmentation until Swedenborg's restoration.
 
@@ -796,17 +796,29 @@ The decisive evidence is Swedenborg's **construction ability**. He does not mere
 
 ### D. The Restoration Pattern
 
-Swedenborg's restoration fits a specific pattern recognized in the literature as **prophetic re-establishment**:^[34]
+Correspondence is **ontological**. It is not a language imposed upon reality but a core feature of reality itself. Divine influx flows through discrete degrees, taking form in the spiritual degree and finally in the natural degree. Meaning is inherent to the form, not laid upon it. A lion does not "symbolize" courage the way a flag symbolizes a nation; a lion IS courage expressed in natural ultimates, because the affection of courageous love, flowing through the degrees, produces that specific form when it reaches the natural plane. Correspondence can be *read* as a language — but it IS reality's structure.
 
-1. **The system exists** in its complete form in the spiritual realm (angels still use it; it remains the language of heaven)
-2. **The human access was severed** when the teaching tradition was broken
-3. **A new channel is opened** through prophetic calling (direct spiritual instruction)
-4. **The system is re-transmitted** to a prepared recipient
+This distinction determines what "loss" and "restoration" actually mean. Correspondence itself cannot be lost — any more than gravity can be lost. What varies is the human capacity to read it, and that capacity operates differently at each degree:
+
+- **At the celestial degree**, correspondential understanding arises intuitively. You perceive a natural form and its spiritual cause is immediately present — not inferred, not decoded, but seen. This is how the Most Ancient Church operated. This is how Jesus operated: he saw the mustard seed and the kingdom was *obvious*.
+- **At the spiritual degree**, correspondential understanding must be transmitted through teaching — systematic frameworks, interpretive methods, sacred texts that encode the key. You learn that light corresponds to wisdom, and then you can read it. This is how the Ancient Church operated, how the Essenes operated, how the prophets wrote.
+- **At the natural degree**, correspondence is opaque. Without transmission from above, you see objects without meaning. You can study the system as information, but it remains external — data rather than perception.
+
+The catastrophe at Persepolis and the later destruction of the Essene branch did not destroy correspondence. They destroyed the **human teaching tradition** that enabled spiritual-degree and natural-degree minds to read what celestial-degree minds perceive directly. The ontological structure continued. The capacity to access it was severed.
+
+Swedenborg's restoration fits a specific pattern:^[34]
+
+1. **The ontological structure persists** — correspondence continues whether or not anyone reads it. Angels perceive it directly because they operate at the celestial and spiritual degrees; it is their mode of existence, not a code they employ.
+2. **The human teaching access was severed** — when the transmission tradition was destroyed, natural-degree humanity lost the key to reading what was always there.
+3. **A new channel is opened** — through prophetic calling (direct spiritual instruction), bypassing the broken human chain.
+4. **The teaching framework is re-transmitted** — not the ontological structure (which never left) but the systematic key that enables spiritual-degree and natural-degree minds to read it.
+
+What Swedenborg provides is not a celestial channel for everyone — that would require the celestial degree of perception, which cannot be transmitted through books. He provides the **spiritual-degree teaching framework**: the systematic, transmittable key that restores the ability to read correspondence at the spiritual and natural degrees. His books are the new teaching tradition, replacing what Persepolis housed and the Essenes preserved.
 
 This pattern differs from:
-- **Independent discovery** (Swedenborg did not observe and deduce; he was taught)
-- **Reconstruction from fragments** (his system is too complete and too consistent with pre-catastrophe evidence)
-- **Invention** (his correspondences match ancient patterns he could not have known)
+- **Independent discovery** — Swedenborg did not observe and deduce. The systematic key cannot be deduced from observations at the natural degree alone, because at that degree the correspondences are opaque.
+- **Reconstruction from fragments** — His system is too complete and too consistent with pre-catastrophe evidence. Fragments cannot reconstruct a complete key.
+- **Invention** — His correspondences match ancient patterns he could not have known. The key unlocks texts from multiple traditions, confirming it is the same key, not a new one.
 
 ### E. The Match With Pre-Catastrophe Evidence
 
@@ -814,7 +826,7 @@ The transmission thesis predicts that Swedenborg's system should match the fragm
 
 **Zoroastrian correspondence**: The *mēnōg/gētīg* framework matches Swedenborg's spiritual/natural distinction precisely.^[35] The *Dāmdād Nask* classification of animals by spiritual alignment parallels Swedenborg's correspondences of animals to affections.
 
-**Platonic correspondence**: Swedenborg's reading of the Chariot allegory, the Cave, the Myth of Er, and the Ring of Gyges (see Section V) matches the implied correspondential logic with systematic precision.
+**Platonic correspondence**: When Swedenborg's correspondential key is applied to Plato's myths — the Chariot allegory, the Cave, the Myth of Er, and the Ring of Gyges (see Section V) — the implied correspondential logic decodes with systematic precision. Swedenborg himself did not publish readings of Plato; his focus was biblical Scripture. But his key fits Plato's constructions exactly, which is the prediction the transmission thesis makes.
 
 **Biblical correspondence**: The Hebrew Scripture, written by prophets with access to the same spiritual realm, should exhibit consistent correspondential structure—and according to Swedenborg's decoding, it does.
 

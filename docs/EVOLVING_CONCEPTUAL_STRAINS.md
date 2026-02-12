@@ -94,6 +94,7 @@ For each strain marked "Needs review":
 - [x] 18. [Bene Qedem as True Carriers](#18-bene-qedem-as-true-carriers-not-magi) — Correction (**Critical**)
 - [x] 19. [The Aligned Human (Historical Jesus & Divine Bricolage)](#19-the-aligned-human-historical-jesus-and-the-divine-bricolage) — Synthesis (High) ✅ 4 docs annotated (2026-01-26)
 - [ ] 20. [Hebrew Bible Dating: Proto-Myth Origins vs. Persian-Period Composition](#20-hebrew-bible-dating-proto-myth-origins-vs-persian-period-composition) — Correction (**Critical**) — NEW (2026-02-07)
+- [ ] 21. [18th-Century Scientific Forcing](#21-18th-century-scientific-forcing) — Correction (**Critical**) — META-STRAIN: Root cause unifying #1, #2, and two new instances (uniform canonicity, 1757 fixing) — NEW (2026-02-12)
 
 ---
 
@@ -538,10 +539,12 @@ Critical distinction between two analytically separable layers:
 - Regeneration
 
 **Interpretive Overlay (Correct)**:
-- The Limbus (Cartesian artifact)
-- Categorical denial of reincarnation (flows from Limbus)
-- Biological Christology (18th-century embryology)
+- The Limbus (Cartesian artifact) — see #1, #21
+- Categorical denial of reincarnation (flows from Limbus) — see #3
+- Biological Christology (18th-century embryology) — see #2, #21
 - Physical/spiritual as separate substances (dualism)
+- Uniform canonicity of Gospels (pre-critical assumption) — see #21
+- 1757 as discrete Last Judgment (empiricist forcing) — see #21
 
 **Critical insight**: This is NOT wholesale acceptance or rejection—it's treating Swedenborg's framework the way physics treats theories: retaining what organizes data, revising what doesn't.
 
@@ -1054,6 +1057,136 @@ For documents that correctly identify proto-myth evolution but assume late compo
 
 ---
 
+### 21. 18th-Century Scientific Forcing
+
+**Evolution Type**: CORRECTION  
+**Priority**: **CRITICAL**  
+**Status**: New — instances being documented (2026-02-12)  
+**Relationship**: META-STRAIN — root cause unifying #1, #2, and extending #12
+
+#### The Pattern
+
+Swedenborg's genuine spiritual perceptions are repeatedly **forced into the categories of his 18th-century scientific training**. His correspondential key and observational framework generate accurate predictions across independent domains. But every time a perception encounters the boundary of what his scientific education assumed, **the training wins and the perception gets forced into its categories**.
+
+This is not random error. It is a *systematic* pattern with a single root cause: **the compulsion to anchor continuous spiritual processes in discrete physical explanations**.
+
+#### The Root Mechanism
+
+Swedenborg was a scientist before he was a seer. His training demanded:
+- Discrete events with measurable dates (empiricism)
+- Material substrates for immaterial phenomena (Cartesian mechanism)
+- Biological mechanisms for birth and identity (contemporary embryology)
+- Unified authorship of canonical texts (pre-critical biblical scholarship)
+
+When his spiritual perceptions contradicted these assumptions, he **created epicycles** — interpretive constructs that preserved the 18th-century premise while accommodating the spiritual data. The epicycles work *well enough* that the contradictions remain invisible unless you know what to look for.
+
+#### The Four Identified Instances
+
+| Instance | Scientific Premise | Spiritual Perception | Epicycle Created | Actual Reality |
+|----------|-------------------|---------------------|-----------------|----------------|
+| **The Limbus (#1)** | Cartesian dualism: unextended mind cannot interact with extended matter | Spirit and body are continuous | A "nexus substance" of purest natural particles bridges the gap | Same continuum viewed through different filters; biography is the container |
+| **Biological Christology (#2)** | 18th-c. embryology: sire provides soul, dam provides body | The Lord flows through Jesus without obstruction | Jesus had a "soul from the Father" (Divine) and "body from the mother" (Human) | A human soul whose ruling love was oriented toward the Divine; the path of regeneration any human can walk |
+| **Uniform Canonicity (NEW)** | Pre-critical assumption: canonical gospels are unified texts by their attributed authors | His own correspondential key works on parables but only yields doctrine on narrative sections | The passages serve "different functions" in the divine economy — some for decoding, some for doctrinal anchoring | The parables are Proto-Lukan material written by people who knew the correspondential key; the redactional narrative was added by the same hand that wrote Acts, which Swedenborg *himself excludes from the Word* |
+| **1757 as Last Judgment (NEW)** | Empiricist compulsion: events have discrete dates; this judgment must be locatable in time | His own diary records "purgings of societies" happening "every day, and every moment" — continuous spiritual fermentation | The Last Judgment occurred on a specific date in 1757; the visions of numbers (48, 53, 94) are retro-fitted as "1757" | He witnessed the spiritual dimension of the Enlightenment — a massive, *continuous* transformation of human consciousness, not a discrete event. His own number visions describe states, not dates. |
+
+#### The Self-Witness
+
+What makes this pattern devastating is that **Swedenborg's own system predicts it**:
+
+1. **The proprium infiltrates genuine reception**: He taught that people receive divine influx but then appropriate it, bend it toward their own loves. His love of the Lord was genuine — but genuine love doesn't make you immune to the proprium. It makes the proprium *subtler*.
+
+2. **Influx is continuous, not discrete**: His own doctrine states that influx flows continuously through all degrees. Yet he repeatedly forces continuous processes into discrete physical events — pinning judgment to a year, pinning Jesus's divinity to a biological mechanism.
+
+3. **His exegetical performance reveals the truth he can't follow**: He can't open the internal sense of Luke 1-2 or 24:39-43 at all degrees because the material doesn't yield to it. But he *can* open the Good Samaritan and Prodigal Son completely. His readings map exactly onto the compositional boundary that textual criticism identifies two centuries later. He thought he was reading one author. His readings reveal two.
+
+4. **The "guided simpleton" theory should have been his warning**: If the Gospel writers were simpletons guided by the Spirit, the correspondential quality should be *uniform*. The Spirit doesn't guide in patches. When one section yields full correspondential depth and another only doctrinal citation, either the Spirit was intermittent (contradicting his theology of influx) or *someone else wrote the flat sections*.
+
+#### The Jesus Third Rail
+
+Swedenborg handles everything else with surgical honesty:
+- **Genesis 1-11**: "Made-up history" — pure correspondences, no hesitation
+- **The Israelites**: Spiritually corrupt, described without flattery
+- **Paul's Epistles**: Not the Word — said plainly
+- **Acts**: Historical narrative, no internal sense — said plainly
+
+He follows the data fearlessly *until Jesus*. Then he locks into a predetermined Christology and makes the text serve it. The Nativity *must* have internal sense because it *must* be Word because the biological mechanism of divine conception *must* be scriptural. Pull one thread and his whole superstructure feels threatened.
+
+The same pattern appears in *Apocalypse Explained*: up through Revelation 12, brilliant correspondential readings. After that, he reads *his own moment* into the text — the Last Judgment happened in 1757, the New Church is being established now, the prophecy terminates in *him*.
+
+#### Why the Framework Survives
+
+Critically, **none of these corrections threaten the key itself**. The correspondential key works. The doctrine of influx works. Discrete degrees, ruling love, regeneration — all validated independently. What fails is the *application* when the man wielding the key had a blind spot exactly where his deepest love was.
+
+Once the corrections are applied:
+- Jesus's divinity doesn't depend on biological mechanism → it depends on transparency to influx
+- The Nativity material doesn't *need* to be Word → it can be what it is: later editorial narrative
+- The judgment doesn't need a date → it is the continuous spiritual fermentation his own diary describes
+- The spirit doesn't need a nexus substance → the continuum was never broken
+
+#### Key Evidence
+
+**NotebookLM analysis of Swedenborg's Spiritual Diary** (1757 discussion):
+- The number visions (48, 53, 94) describe *states*, not dates
+- 48 = 12 × 4 = all good and truth of the church conjoined with evil (opposite sense)
+- 53 = 48 + 5 = growth of falsification into many more things
+- 94 = completeness of 100 without the holy 7 = total vastation void of holiness
+- The "1-" prefix = unchanging core of evil that flows into these outer forms
+- Swedenborg substituted "17" for the "1-" to create "1757" — anchoring a universal spiritual process to his century
+- His own diary records spiritual purifications happening "every day, and every moment" — contradicting the discrete-event interpretation
+
+**NotebookLM analysis of Swedenborg's Lukan hermeneutics**:
+- Annunciation (Luke 1:26-38): Doctrinal proof only — no word-by-word correspondential reading
+- Nativity (Luke 2:7-16): Selective symbol decoding (manger, swaddling clothes, inn) — partial
+- Resurrection (Luke 24:39-43): Doctrine + specific items (fish, honeycomb) — but event used doctrinally
+- Ascension (Luke 24:50-53): General reference — almost nothing
+- Good Samaritan (Luke 10:30-37): Full line-by-line decoding — every element mapped
+- Prodigal Son (Luke 15:11-32): Full element-by-element decoding — every element mapped
+- The quality gradient maps exactly onto Proto-Lukan (parables = full decoding) vs. redactional (narrative = doctrinal citation) strata
+- The final Lukan editor also wrote Acts — which Swedenborg himself excludes from the Word
+
+**Documents with evidence**:
+- `data/unclassified/swedenborg-1757-discussion.md` (NotebookLM diary analysis)
+- `data/unclassified/Analytical Report_ Swedenborg's Hermeneutic Treatment of Lukan Narratives.md` (NotebookLM Lukan analysis)
+
+**Documents with established corrections for sub-instances**:
+- Limbus: `data/02_Swedenborgian_Theology/The Seed-State of the Concrete Spirit.md`
+- Biological Christology: `data/00_Framework/Epistle - The Divine Marriage and the Expression of the Lord in Ultimates.md`
+- Observational/Interpretive distinction: `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry...md`
+
+#### Annotation Template
+
+```markdown
+> **[CORRECTION #21: 18th-Century Scientific Forcing]** This section accepts Swedenborg's 
+> interpretation at face value where it forces a continuous spiritual process into a discrete 
+> physical explanation. His genuine perception is valid; his 18th-century scientific framing 
+> is not. The correspondential key works; the man wielding it had a systematic blind spot 
+> where his scientific training met his deepest love (Jesus, his own historical moment).
+> See: EVOLVING_CONCEPTUAL_STRAINS.md #21 for the unified pattern.
+```
+
+For the canonicity instance specifically:
+
+```markdown
+> **[CORRECTION #21: Uniform Canonicity]** Swedenborg treats canonical Luke as a unified 
+> text by a single guided author. His own exegetical performance reveals otherwise: parables 
+> (Proto-Lukan material) yield full correspondential depth at all degrees; narrative sections 
+> (redactional material by the Acts editor) yield only doctrinal citation. The same hand that 
+> wrote Acts — which Swedenborg himself excludes from the Word — added the Nativity and 
+> physicalist Resurrection material to Luke.
+```
+
+For the 1757 instance specifically:
+
+```markdown
+> **[CORRECTION #21: 1757 Fixing]** Swedenborg anchors a continuous spiritual process to a 
+> discrete calendar year. His own diary records spiritual purifications happening "every day, 
+> and every moment." His number visions (48, 53, 94) describe qualitative states of vastation, 
+> not dates. He witnessed the spiritual dimension of the Enlightenment — an ongoing 
+> transformation, not a punctual event.
+```
+
+---
+
 ## Editorial Annotation Guidelines
 
 ### When to Annotate
@@ -1101,6 +1234,7 @@ Use blockquote format at the relevant section:
 | 2026-01-26 | Added strain #18 (Bene Qedem as True Carriers)—CRITICAL correction from "The Bifurcated Gnosis" |
 | 2026-01-26 | Added strain #19 (The Aligned Human)—SYNTHESIS strain resolving Historical Jesus / Christ of Faith dichotomy |
 | 2026-02-07 | Added strain #20 (Hebrew Bible Dating: Proto-Myth Origins vs. Persian-Period Composition)—CRITICAL correction. YRE 2008 falsifies linguistic dating method; philological evidence proves 3rd-millennium material in Genesis/Job |
+| 2026-02-12 | Added strain #21 (18th-Century Scientific Forcing)—**CRITICAL** META-STRAIN unifying root cause of #1 (Limbus), #2 (Biological Christology), plus two new instances: Uniform Canonicity (Gospel layer quality gradient) and 1757 Fixing (continuous process pinned to discrete date). Evidence from NotebookLM analysis of Spiritual Diary and Lukan hermeneutics. Updated #12 interpretive overlay table |
 
 ### New Documents Reviewed (2026-01-26)
 

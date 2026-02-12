@@ -96,6 +96,8 @@ The canonical Epistle of Jude presents a philological puzzle. The author identif
 
 "Jude, a servant of Jesus Christ and brother of James" (*Ioudas Iēsou Christou doulos adelphos de Iakōbou*).
 
+Beyond the self-identification anomaly (see below), the epistle has a striking feature: it is the only New Testament book to explicitly quote 1 Enoch as prophetic scripture. In Jude 14-15, the author writes: *"Enoch, the seventh from Adam, prophesied about these people..."* — citing 1 Enoch 1:9 verbatim and treating the Enochic tradition as genuine prophecy, not merely literature. If the author is Yehuda bar Yeshua, this tells us something about the family's scriptural orientation: Jesus's own son regarded the Enochic corpus as authoritative. This is consistent with the broader evidence that the Jesuine family operated within Second Temple Jewish apocalyptic tradition rather than the emerging Gentile church, and it aligns with the Enochic literature's preservation of correspondential knowledge from what Swedenborg identified as the Ancient Word.
+
 ### 4.1 The Self-Identification Anomaly
 
 In the ancient Near East, identity was strictly patrilineal: "X, son of Y" (*Yehuda ben Yosef*). Identifying oneself as the "brother of X" is exceptionally rare and implies that the brother is a figure of overshadowing authority.
@@ -273,5 +275,6 @@ They were telling the truth. They always were.
 - *Luke* 6:16
 - *John* 13:24, 14:22, 18:15, 19:26, 21:15
 - *Acts* 1:13
-- *Jude* 1:1
+- *Jude* 1:1, 14-15
+- *1 Enoch* 1:9
 - *Matthew* 10:3

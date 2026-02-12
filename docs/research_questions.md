@@ -2092,6 +2092,83 @@ Cross-domain synthesis and consistency checks:
 
 ---
 
+### [GDR] Correspondential Validity by Gospel Layer: Testing Whether Swedenborg's Readings Distinguish Source Strata
+
+**Target**: `[GDR]`  
+**Status**: Open  
+**Date Added**: 2026-02-11  
+**Priority**: CRITICAL  
+**Related Documents**: 
+- `data/00_Framework/The Transmission of the Ancient Word_ A Thesis on the Science of Correspondences from Deep Antiquity to Modern Cultural Expression.md` (§VII.H, §VIII)
+- `data/00_Framework/A Prophet Mighty in Deed and Word_ Understanding Jesus Through Proto-Luke, Consciousness Studies, and the Doctrine of Correspondences.md`
+- `data/03_Biblical_Scholarship/The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md`
+- ProtoLuke repository: `proto_luke.json`
+
+**Context**:
+
+The Transmission of the Ancient Word thesis argues that the Science of Correspondences was transmitted through a specific chain: Most Ancient Church → Bene Qedem/Magi → (branch at 586 BCE) → Essenes → Jesus → severed at 30-70 CE. The thesis identifies Jesus as the last figure who could **construct** precise correspondential structures, and argues that the Jamesian community (which produced Proto-Luke) preserved his teaching.
+
+A critical implication follows that has not yet been tested: **the canonical Gospels are composite texts with layers of different origin**, and only some of those layers were written by people who possessed the correspondential key. Specifically:
+
+1. **Proto-Lukan material** (Jamesian origin, ~50-65 CE): Written by the community that lived with Jesus and understood his method. This layer should decode with the precision of Plato's myths — specific, systematic, internally consistent correspondences.
+
+2. **Markan narrative framework** (~70 CE): Written as Pauline theology during the destruction of the Jerusalem church. Mark strips away most teaching material and replaces it with a suffering-messiah narrative, messianic secret motif, and disciples-as-fools polemic. This layer was NOT written by someone with the correspondential key. It was written by someone with a theological agenda.
+
+3. **Matthean and Lukan editorial additions** (~80-90 CE): These writers restored Jamesian material within the Markan framework — creating hybrids where correspondential and non-correspondential material are interwoven.
+
+4. **Johannine material** (~90-110 CE): A distinct tradition with its own theological development.
+
+**The problem**: Swedenborg (1688-1772) did not have access to modern textual criticism. He did not know about Markan priority, the Synoptic Problem, Q, Proto-Luke, or source stratification. He treated the canonical Gospels as unified divine text and applied the correspondential key uniformly across all material. This raises the possibility that he **forced** correspondential readings onto material that was never correspondential to begin with — specifically the Markan narrative scaffolding and later editorial additions.
+
+**The hypothesis to test**: If the transmission thesis is correct, there should be a **measurable quality gradient** in how well different Gospel strata decode under the correspondential key:
+
+- **Proto-Lukan material** (parables, Sermon on the Plain, woes, specific ethical teaching, travel narrative) should decode with **high precision** — specific, interlocking correspondences that function systematically, comparable to the Platonic myth decodings in Section V of the Transmission thesis.
+
+- **Markan-only material** (messianic secret, disciples' incomprehension, exorcism narratives, Markan passion narrative framework, the abrupt ending) should show **lower correspondential density** — either resisting the key, producing forced/generic readings, or showing the "this could mean anything" vagueness that characterizes fragmentary interpretation.
+
+- **Q/shared tradition** material should vary — some high (authentic Jesus teaching preserved in Q) and some lower (editorial shaping).
+
+- **Redactional additions by Matthew and Luke** (birth narratives, resurrection appearance narratives, genealogies, editorial transitions) should show **mixed quality** — some material inherited from Jamesian tradition decoding well, editorial scaffolding decoding poorly.
+
+**Research Questions**:
+
+1. **Swedenborg's own Gospel readings**: What does Swedenborg actually say about the internal sense of the canonical Gospels? He wrote extensively on Genesis and Exodus in *Arcana Coelestia* but his treatment of the Gospels is scattered across multiple works (*Apocalypse Explained*, *Apocalypse Revealed*, *True Christian Religion*, the posthumous *Spiritual Experiences*). Compile a systematic inventory of his Gospel-specific correspondential readings. Which passages does he decode in detail? Which does he skip or treat only briefly? Does his own selection pattern unconsciously reflect the source strata — i.e., does he gravitate toward Proto-Lukan material and struggle with Markan material?
+
+2. **Quality gradient analysis**: For the readings Swedenborg does provide, assess the **precision and specificity** of the correspondential decoding. Apply this quality metric:
+   - **High precision**: Specific correspondence (e.g., "seed = truth of the Word"), interlocking with other correspondences, consistent across contexts, generating insight not visible without the key
+   - **Medium precision**: General correspondence (e.g., "this represents spiritual struggle"), somewhat meaningful but could apply broadly
+   - **Low precision / forced**: Vague or strained reading, no systematic interlocking, feels imposed rather than revealed
+   
+   Map these quality levels against the source-critical stratification. Does Proto-Lukan material consistently score higher than Markan-only material?
+
+3. **The parables vs. the narrative**: Swedenborg's parable readings are well-known (Sower, Prodigal Son, Good Samaritan, etc.). These are overwhelmingly Proto-Lukan or Q material — i.e., genuine Jesus tradition. But what about the **narrative material** — Mark's exorcism sequences, the feeding miracles as Mark frames them, the trial narrative, Peter's denial, the empty tomb story? Do these decode with the same precision, or does the quality drop when moving from parable (correspondential by origin) to narrative (theological by construction)?
+
+4. **The passion narrative test case**: The passion narrative is the most complex test. Proto-Luke had its own passion account (partially recoverable from Luke's non-Markan material — the Lukan special material in chapters 22-23). Mark has his own passion narrative with different theological emphasis. Compare:
+   - Does the **Proto-Lukan passion material** (Gethsemane dialogue, the "Living One" — "Why do you seek the living among the dead?", the road to Emmaus, the Lukan "today you will be with me in paradise") decode with high correspondential precision?
+   - Does the **Markan passion material** (the centurion's confession, the cry of dereliction "My God why have you forsaken me", the tearing of the temple veil, the young man in white at the tomb) decode with the same precision, or does it read more as theological symbolism (deliberate literary construction) than as organic correspondence?
+
+5. **Scholarly precedent**: Has any Swedenborgian scholar ever noted this problem — that Swedenborg's Gospel readings may not uniformly succeed across all material? Have any New Church theologians distinguished between strata? Or has the tradition uniformly assumed that all canonical Gospel material is equally correspondential?
+
+6. **The Johannine question**: John's Gospel presents a unique case. It is not Synoptic, not Markan, and contains material that may preserve independent early tradition (the signs source) alongside high Christological theology. How does Johannine material fare under correspondential reading compared to Proto-Lukan material? John's "I am" sayings and the extended discourses have a different flavor from the Synoptic parables — are they correspondential or are they theological construction of a different kind?
+
+7. **Implications for the framework**: If this analysis confirms a quality gradient aligned with source strata, this would be:
+   - A **correction** to Swedenborg (he applied the key uniformly where it should have been applied selectively)
+   - A **validation** of the transmission thesis (the key works precisely where the thesis predicts it should — on material from people who had the key)
+   - A **new tool** for textual criticism (correspondential quality as a marker of source stratum, complementing linguistic and theological markers)
+   - Evidence that Proto-Luke preserves a genuine Jamesian tradition distinct in kind from Markan composition
+
+**Methodological note**: This research should be approached WITHOUT assuming the answer. It is possible that Swedenborg's readings work equally well across all strata — which would challenge the source-critical stratification rather than confirming forced readings. It is also possible that Markan material IS correspondential but from a different tradition (perhaps Mark had fragmentary correspondential knowledge). Follow the data.
+
+**Key sources to consult**:
+- Swedenborg's *Arcana Coelestia* (Gospel cross-references in the expository passages)
+- Swedenborg's *Apocalypse Explained* and *Apocalypse Revealed* (contain extensive Gospel readings)
+- W.F. Wunsch, *The World Within the Bible* (New Church hermeneutics)
+- Any New Church scholarship on Gospel interpretation
+- Matthias Klinghardt, *The Oldest Gospel* (for Marcionite/Proto-Lukan stratification)
+- Jason BeDuhn, *The First New Testament* (for reconstructing the Marcionite Gospel)
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

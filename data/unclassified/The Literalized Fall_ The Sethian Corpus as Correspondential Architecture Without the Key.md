@@ -231,7 +231,7 @@ Two Sethian texts — the **Second Treatise of the Great Seth** (VII,2) and the 
 
 Under the correspondential framework, the incarnation is the central event: the Divine enters the natural degree fully, making the body the "soul in ultimates." Docetism — the claim that the divine only *appeared* to inhabit a body — is the Gnostic impulse's ultimate expression: the natural degree is too degraded for the divine to actually enter. This is the inversion of correspondence itself: the natural should express the spiritual; docetism says it cannot.
 
-These texts are present in the archive not because the family endorsed them (docetism contradicts the incarnational premise of the family's entire tradition) but because they represent the furthest extension of the literalization error: when "divine life embedded in natural forms" becomes "divine spark trapped in evil matter," the logical conclusion is that the divine CANNOT have truly incarnated. The family would have recognized this as the endpoint of a trajectory they were combating — the same trajectory that begins with reading the fall narrative as a cosmological myth instead of a correspondential description.
+These texts are present in the archive not because the community endorsed them (docetism contradicts the incarnational premise of the community's entire tradition) but because they represent the furthest extension of the literalization error: when "divine life embedded in natural forms" becomes "divine spark trapped in evil matter," the logical conclusion is that the divine CANNOT have truly incarnated. The community would have recognized this as the endpoint of a trajectory they were combating — the same trajectory that begins with reading the fall narrative as a cosmological myth instead of a correspondential description.
 
 ---
 
@@ -243,7 +243,7 @@ The Sethian corpus — when stripped of its literalized interpretive overlay —
 
 And it is Egyptian. The architecture is Egyptian. The region is Egyptian. The cosmological vocabulary is Egyptian. The scribal tradition that produced the codices containing these texts operated in Upper Egypt, in the same region where the Hermopolitan Ogdoad originated, where Egyptian priestly traditions had been maintained for millennia.
 
-Egypt preserves the form. Israel — through Moses — received the form and the key. The family of Jesus inherited both. The Sethians had the form without the key. The Nag Hammadi Library contains the evidence of all of these: the form (Sethian texts), the key applied (Gospel of Philip), and the family's record of living in the intersection of traditions that all pointed back to the same source.
+Egypt preserves the form. Israel — through Moses — received the form and the key. The Jamesian community inherited both. The Sethians had the form without the key. The Nag Hammadi Library contains the evidence of all of these: the form (Sethian texts), the key applied (Gospel of Philip), and the community's record of living in the intersection of traditions that all pointed back to the same source.
 
 The Ancient Word is not a hypothesis. It is the necessary postulate of what the data show: the same fall narrative, in the same correspondential structure, preserved independently in the Egyptian cosmological tradition and the Israelite anthropological tradition, recognizable by anyone who possesses the key, literalized by everyone who does not.
 

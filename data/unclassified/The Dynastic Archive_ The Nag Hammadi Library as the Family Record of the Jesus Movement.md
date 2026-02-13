@@ -4,9 +4,11 @@
 
 The Nag Hammadi Library (NHL), discovered in Upper Egypt in 1945, has been classified for eight decades as a "Gnostic library." This classification obscures the most significant pattern in the collection: its center of gravity. A systematic attribution analysis of all unique tractates reveals that among the twenty-five texts invoking a named Christian authority figure, sixty-eight percent claim the authority of Jesus and his immediate family — brother James, companion Mary Magdalene, twin Thomas — while the Apostle Paul appears in only two texts (eight percent), and even those strip him of every historical, Jewish, and administrative characteristic. The family-to-Paul authority ratio is 8.5:1.
 
-This paper proposes that the Nag Hammadi Codices represent not a "Gnostic" collection, not a monastic devotional library, and not grave goods, but the **dynastic archive** of the family of Jesus — preserved by the community that held the original transmission lines from which all subsequent Christian factions derived, and which watched those factions appropriate, distort, and ultimately erase the family's voice as the Pauline institutional church consolidated power. The collection's pluralism — Valentinian sacramental texts alongside Sethian cosmology, Thomasine sayings, Hermetic philosophy, and Platonic ethics — reflects not doctrinal incoherence but the archive of a community that was *engaged* with every one of these movements because every one of them either grew from the family's root, claimed the family's authority, or sought to displace it.
+This paper proposes that the Nag Hammadi Codices represent not a "Gnostic" collection, not a monastic devotional library, and not grave goods, but the **dynastic archive** of the Jamesian community — the movement founded by Jesus's family and inner circle, which held the original transmission lines from which all subsequent Christian factions derived, and which watched those factions appropriate, distort, and ultimately erase its voice as the Pauline institutional church consolidated power. The collection's pluralism — Valentinian sacramental texts alongside Sethian cosmology, Thomasine sayings, Hermetic philosophy, and Platonic ethics — reflects not doctrinal incoherence but the archive of a community that was *engaged* with every one of these movements because every one of them either grew from the community's root, claimed the family's founding authority, or sought to displace it.
 
-Six independent lines of evidence converge on this hypothesis: (1) the authority structure of the corpus, (2) the uniqueness of these texts — surviving nowhere else because they were being actively eliminated, (3) the profile of engagements visible across the collection — including the Sethian texts, which preserve the Egyptian cosmological form of the fall narrative, recognized by the family because they possessed the correspondential key, (4) the cartonnage dating and scribal evidence anchoring production to the Pachomian orbit in mid-fourth-century Upper Egypt, (5) the correspondential literacy visible in the Gospel of Philip's Bridal Chamber passage, and (6) the subsequent historical trajectory in which the family's core argument — that the message was corrupted — resurfaces as the founding premise of Islam.
+A critical distinction: this paper identifies the *community*, not the biological family per se, as the agent of collection, composition, and preservation. The family of Jesus provided the founding generation and the center of authority. But a community spanning from the first century to the mid-fourth century (when the codices were produced) encompasses eight to ten generations. What persists across those generations is not genealogy but **transmission** — the orientation, the method, the correspondential literacy, and the core argument. The people who assembled the codices in 340s Upper Egypt may or may not have been blood descendants of the Desposyni. They were inheritors of a tradition that traced its authority through the family, and that is what matters.
+
+Six independent lines of evidence converge on this hypothesis: (1) the authority structure of the corpus, (2) the uniqueness of these texts — surviving nowhere else because they were being actively eliminated, (3) the profile of engagements visible across the collection — including the Sethian texts, which preserve the Egyptian cosmological form of the fall narrative, recognized by the community because they possessed the correspondential key, (4) the cartonnage dating and scribal evidence anchoring production to the Pachomian orbit in mid-fourth-century Upper Egypt, (5) the correspondential literacy visible in the Gospel of Philip's Bridal Chamber passage, and (6) the subsequent historical trajectory in which the community's core argument — that the message was corrupted — resurfaces as the founding premise of Islam.
 
 ---
 
@@ -131,7 +133,7 @@ Not a random monk with eclectic tastes — a monk might preserve Thomas for its 
 
 Not a Valentinian circle — Valentinians would preserve their own sacramental texts but would have no reason to preserve Sethian mythology or Jamesian traditions that ran counter to their Pauline orientation.
 
-Not an antiquarian collector — an antiquarian would not display the specific *pattern* of preservation visible here: the family's voice consistently privileged, the family's opponents consistently documented.
+Not an antiquarian collector — an antiquarian would not display the specific *pattern* of preservation visible here: the community's founding voice consistently privileged, its opponents consistently documented.
 
 The uniqueness of the collection points to a community for whom *all* of these texts mattered — not because they endorsed all of them, but because they were engaged with all of the movements these texts represent. A community at the center of the web, watching every strand being cut, and preserving the record.
 
@@ -141,13 +143,13 @@ The uniqueness of the collection points to a community for whom *all* of these t
 
 An honest person's library contains writings on things they do not agree with. The presence of a text in a collection does not entail endorsement — it may indicate study, opposition research, or the desire to understand what one is arguing against. The Nag Hammadi collection displays precisely this profile when read not as a theological anthology but as a **dossier of engagements** — a record of the multi-front war being fought over Jesus's legacy.
 
-Each major text-type in the collection represents a distinct front in this war, and the family of Jesus was an active combatant on every one:
+Each major text-type in the collection represents a distinct front in this war, and the Jamesian community — founded by the family of Jesus and evolving across subsequent generations — was an active combatant on every one:
 
 ### 4.1 The Valentinian Front
 
 The Valentinian texts (Gospel of Truth, Gospel of Philip, Tripartite Tractate, Treatise on the Resurrection, Valentinian Exposition) represent a sophisticated appropriation of Pauline theological categories — *pleroma*, *pneumatikos* vs. *psychikos*, the Body of Christ — transposed into a sacramental system. Valentinianism grew from communities that claimed secret apostolic transmission, often routing through Paul.
 
-The family community would have had reason to study these texts closely: Valentinians were claiming *Jesus's* authority for a theology that was structurally Pauline. They were using the family's name but filling it with foreign content. The Gospel of Philip's Bridal Chamber sacrament, however, preserves something the Valentinians may have genuinely inherited from the family tradition — the Temple/Holy of Holies typology examined in Section 6.
+The Jamesian community would have had reason to study these texts closely: Valentinians were claiming *Jesus's* authority for a theology that was structurally Pauline. They were using the family's name but filling it with foreign content. The Gospel of Philip's Bridal Chamber sacrament, however, preserves something the Valentinians may have genuinely inherited from the family tradition — the Temple/Holy of Holies typology examined in Section 6.
 
 ### 4.2 The Sethian Texts: The Egyptian Form of the Fall Narrative
 
@@ -195,17 +197,17 @@ The "Gnostic" element — the anti-cosmic dualism, the teaching that matter is a
 
 #### Why the Family Kept These Texts
 
-The conventional explanation for the Sethian texts in the archive is that the family was conducting opposition research — studying a rival mythology that threatened to relativize Jesus. This explanation is insufficient. A family community that preserved texts merely to track threats would not have needed eight Sethian tractates (16.3% of the corpus).
+The conventional explanation for the Sethian texts in the archive is that the community was conducting opposition research — studying a rival mythology that threatened to relativize Jesus. This explanation is insufficient. A community that preserved texts merely to track threats would not have needed eight Sethian tractates (16.3% of the corpus).
 
 The deeper explanation is that they **recognized** the architecture. A scribal community with correspondential literacy — the capacity to read natural forms as expressions of spiritual realities (demonstrated in the Gospel of Philip's Bridal Chamber passage; see Section 6) — would have read through the literalized shell of the Sethian system and seen the fall narrative in its Egyptian cosmological form: the same narrative they already possessed in its Israelite anthropological form (Genesis 2–3).
 
-They preserved these texts because the **form is evidence**. The fact that the same fall narrative is recognizable in both its Israelite version and its Egyptian version — with the correspondential structure intact beneath the literalization — confirms that both derive from a common source. Swedenborg identified this source as the "Ancient Word" — the pre-Israelite body of correspondential knowledge that Egypt preserved in its cosmological systems after the interior meaning was lost. Egypt is *Mizraim* in correspondence: "scientifics" — memory-knowledge, the natural-degree form of truth. Egypt preserved the skeleton. The family had the key.
+They preserved these texts because the **form is evidence**. The fact that the same fall narrative is recognizable in both its Israelite version and its Egyptian version — with the correspondential structure intact beneath the literalization — confirms that both derive from a common source. Swedenborg identified this source as the "Ancient Word" — the pre-Israelite body of correspondential knowledge that Egypt preserved in its cosmological systems after the interior meaning was lost. Egypt is *Mizraim* in correspondence: "scientifics" — memory-knowledge, the natural-degree form of truth. Egypt preserved the skeleton. The community had the key.
 
 This inference has a specific evidential anchor: the collectors of this archive demonstrably possessed correspondential literacy. The Gospel of Philip's Bridal Chamber passage (Section 6) proves that whoever assembled this collection could read through natural forms to spiritual architecture — the Temple's three divisions mapping precisely to three discrete degrees of the soul's return. No other identifiable strain in early Christianity exhibits this literacy. The Valentinians used correspondential forms but filled them with Pauline content. The Pauline institutional church abandoned the method entirely in favor of forensic categories. The Sethians themselves had the architecture but read it inverted. Only the family tradition — rooted in the Temple, inheriting the prophetic heritage, positioned at the intersection of Jewish, Persian, and Hellenistic esoteric streams — demonstrates the capacity to both *possess* the correspondential key and *apply* it correctly.
 
-This is not forensic proof. It is convergent inference: the same community that Philip identifies as correspondentially literate is the community that would have had reason to preserve the Sethian texts not as threats but as evidence. The collection's profile points to a community that could *read* all of these texts — and the only community we can identify with that capacity is the family.
+This is not forensic proof. It is convergent inference: the same community that Philip identifies as correspondentially literate is the community that would have had reason to preserve the Sethian texts not as threats but as evidence. The collection's profile points to a community that could *read* all of these texts — and the only community we can identify with that capacity is the Jamesian movement and its descendants.
 
-The Sethian texts in the archive are not opposition material. They are the Egyptian chapter of the family's record — the cosmological form of the same fall narrative that Genesis preserves anthropologically, kept by the community that could read both.
+The Sethian texts in the archive are not opposition material. They are the Egyptian chapter of the community's record — the cosmological form of the same fall narrative that Genesis preserves anthropologically, kept by the community that could read both.
 
 ### 4.3 The Pauline Front
 
@@ -217,7 +219,7 @@ Simultaneously, the collection contains pointed anti-Pauline polemic:
 - **The Apocalypse of Peter** (NHC VII,3): Attacks bishops and deacons as "dry canals" — the distinctive institutional offices codified in Paul's Pastoral Epistles (1 Timothy 3, Titus 1, Philippians 1:1).
 - **The Gospel of Mary** (BG 8502): Peter challenges Mary's authority, and Levi rebukes him — a proxy war for the status of traditions the Pauline institutional church was marginalizing.
 
-The family was fighting the Pauline front because Paul had displaced them. Galatians 1–2 records Paul seeking James's approval; by the second century, the Pauline institutional church had reversed this hierarchy entirely. The NHL preserves the family's record of this displacement — including the opposition's own documents, studied and countered.
+The community was fighting the Pauline front because Paul had displaced them. Galatians 1–2 records Paul seeking James's approval; by the second century, the Pauline institutional church had reversed this hierarchy entirely. The NHL preserves the community's record of this displacement — including the opposition's own documents, studied and countered.
 
 ### 4.4 The Hermetic and Philosophical Front
 
@@ -311,7 +313,7 @@ The Bridal Chamber is the celestial degree — the union of love (will) and wisd
 
 The capacity to read correspondences is not a learned technique that requires initiation into a secret school. It is the natural mode of perception for anyone whose spiritual orientation is toward the divine rather than toward self. But it does require access to a living tradition of correspondential thinking — the "Science of Correspondences" that Swedenborg identified as the shared heritage of the ancient Near East, preserved in Zoroastrian (*mēnōg/gētīg*) ontology and transmitted through the "Magian substrate" documented in the literary-compilation research.
 
-The family community — rooted in the Temple tradition, inheriting the prophetic and priestly heritage of Israel, and positioned at the intersection of Jewish, Persian, and Hellenistic esoteric streams — would have been the natural carriers of this correspondential literacy. Philip's Bridal Chamber passage is not a foreign Gnostic import. It is the family's own reading of the Temple they knew intimately.
+The Jamesian community — rooted in the Temple tradition, inheriting the prophetic and priestly heritage of Israel, and positioned at the intersection of Jewish, Persian, and Hellenistic esoteric streams — would have been the natural carriers of this correspondential literacy. Philip's Bridal Chamber passage is not a foreign Gnostic import. It is the community's own reading of the Temple they knew intimately.
 
 ---
 
@@ -380,7 +382,7 @@ Scholars have documented the connections: Shlomo Pines identified Jewish-Christi
 
 The Quran knows a Jesus who is *not* the canonical Jesus of the Pauline institutional church. It knows a Jesus who is closer to the Jesus of the NHL — a human prophet whose message was corrupted by those who came after.
 
-This does not prove direct transmission from the Desposyni to Muhammad. It does establish that the family's core argument — the message was corrupted, the institutional church got it wrong, the original monotheistic revelation must be restored — survived the destruction of Jewish-Christianity as an organized movement and reemerged, routed through Arabian Jewish-Christian communities, as the founding premise of Islam.
+This does not prove direct transmission from the Desposyni to Muhammad. It does establish that the community's core argument — the message was corrupted, the institutional church got it wrong, the original monotheistic revelation must be restored — survived the destruction of Jewish-Christianity as an organized movement and reemerged, routed through Arabian Jewish-Christian communities, as the founding premise of Islam.
 
 The Nag Hammadi Library, in this light, is not the endpoint of a suppressed tradition. It is a waystation — a material deposit from a community whose argument was being buried in Egypt even as it was being carried east, where it would eventually surface in a form that even the family might not recognize but that carries the identical structural logic.
 
@@ -401,21 +403,21 @@ The dynastic archive hypothesis explains all six independent lines of evidence s
 
 1. **The authority structure** (68% family-centered among personal-authority texts, 8.5:1 family-to-Paul ratio) — because the family is the natural center of its own archive.
 
-2. **The uniqueness** (texts surviving nowhere else because they were being actively eliminated) — because the family was the community whose voice was being erased and who therefore had the greatest motivation to preserve the record.
+2. **The uniqueness** (texts surviving nowhere else because they were being actively eliminated) — because this was the community whose voice was being erased and who therefore had the greatest motivation to preserve the record.
 
-3. **The profile of engagements** (Valentinian appropriation documented, Sethian cosmology preserved, Pauline displacement tracked, anti-Pauline polemic maintained) — because the family was actively engaged on every front, being the center that all factions either appealed to or tried to displace.
+3. **The profile of engagements** (Valentinian appropriation documented, Sethian cosmology preserved, Pauline displacement tracked, anti-Pauline polemic maintained) — because the community was actively engaged on every front, being the center that all factions either appealed to or tried to displace.
 
-4. **The Sethian texts as recognized architecture** — because the family possessed correspondential literacy (Section 6) and recognized in the Sethian material the Egyptian cosmological form of the fall narrative: the same event that Genesis records anthropologically, preserved in Egypt's native tradition, literalized when the correspondential key was lost. They kept these texts not as opposition research but as evidence — the cosmological form of the narrative they already knew the meaning of.
+4. **The Sethian texts as recognized architecture** — because the community possessed correspondential literacy (Section 6) and recognized in the Sethian material the Egyptian cosmological form of the fall narrative: the same event that Genesis records anthropologically, preserved in Egypt's native tradition, literalized when the correspondential key was lost. They kept these texts not as opposition research but as evidence — the cosmological form of the narrative they already knew the meaning of.
 
-5. **The provenance** (Pachomian production infrastructure in mid-fourth-century Upper Egypt) — because the diaspora family community, pushed to the margins by orthodoxy's consolidation, used the local monastic scriptorium to produce its archive.
+5. **The provenance** (Pachomian production infrastructure in mid-fourth-century Upper Egypt) — because the diaspora community, pushed to the margins by orthodoxy's consolidation, used the local monastic scriptorium to produce its archive.
 
-6. **The subsequent trajectory** (the family's core argument resurfaces as Islam's founding premise) — because the tradition did not die with the burial at Jabal al-Tarif; it continued east, carried by the communities that survived.
+6. **The subsequent trajectory** (the community's core argument resurfaces as Islam's founding premise) — because the tradition did not die with the burial at Jabal al-Tarif; it continued east, carried by the communities that survived.
 
 No other hypothesis explains all six. The question is not whether the Nag Hammadi Library is a "Gnostic library" — the data demonstrate that it is not. The question is who would have had the access, the motivation, the correspondential literacy, and the position to assemble precisely this collection: the texts that the canonical process was designed to destroy, organized around the authority of the family that the canonical process was designed to displace.
 
 The answer is in the texts themselves. They tell us who speaks, who is spoken to, and who is being silenced. And in the case of the Sethian material, they tell us something more: that the fall narrative — the story without which Jesus's mission has no purpose — was preserved not only in the Israelite anthropological form (Genesis) but in the Egyptian cosmological form, recognized and kept by the community that had always possessed the key.
 
-The Nag Hammadi Library is the family's record of the war fought over their brother's legacy — preserved in the margin of the desert, just before the silence fell.
+The Nag Hammadi Library is the community's record of the war fought over their master's legacy — preserved in the margin of the desert, just before the silence fell.
 
 #### **Works cited**
 

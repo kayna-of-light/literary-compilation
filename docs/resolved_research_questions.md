@@ -464,8 +464,8 @@ Does personality-based identification transcend cultural conditioning, or do exp
 **Key Interpretation:**
 1. **Universal Singular Entity:** ONE Light Being across ALL religions (even polytheists report singular presence)
 2. **Transcends Categories:** 61.8% cannot label the being - strongest evidence for objective reality
-3. **Cultural Vocabulary, Not Cultural Entity:** Christians use "God/Jesus," Muslims use "Allah," Atheists use "Unknown" - but ALL describe the SAME BEING with consistent properties
-4. **Atheists most likely to report "Unknown"** - no pre-existing vocabulary, yet encounter same entity
+3. **Cultural Vocabulary, Not Cultural Entity:** The majority across ALL backgrounds transcend categories (61.8% of Christians say "unknown presence," only 11.2% say "Jesus") — but ALL describe the SAME BEING with consistent properties
+4. **Atheists most likely to report "Unknown"** (70.3%) — no pre-existing vocabulary, yet encounter same entity; but even Christians overwhelmingly choose "unknown" over their own available vocabulary
 5. The Being exhibits consistent characteristics: singular, loving, conscious, authoritative
 
 **Framework Implications:**
@@ -668,8 +668,8 @@ The ~60% claim is **INCORRECT**. Actual data from NDE Statistical Repository (n=
 **Reinterpretation:**
 The data actually provides **STRONGER** evidence for objective reality than the original claim:
 1. **61.8% transcend categories** — experiencers encounter something beyond their conceptual frameworks
-2. **Cultural vocabulary, not cultural entity** — Christians say "Jesus," Muslims say "Allah," Atheists say "Unknown," but ALL describe the SAME Being with consistent properties
-3. **Atheists most likely to report "Unknown"** (70.3%) — no pre-existing vocabulary, yet encounter same entity
+2. **Cultural vocabulary, not cultural entity** — The majority across ALL backgrounds transcend categories (61.8% of Christians say "unknown presence," only 11.2% say "Jesus"); ALL describe the SAME Being with consistent properties
+3. **Atheists most likely to report "Unknown"** (70.3%) — no pre-existing vocabulary, yet encounter same entity; but even Christians overwhelmingly choose "unknown" over available religious vocabulary
 
 **Framework Implication:**
 CROSS-006 requires revision:

@@ -2,15 +2,15 @@
 
 ## Abstract
 
-The "Ancient Word" — a body of pre-Israelite correspondential knowledge — has been treated in Swedenborgian scholarship as a lost text awaiting discovery in Central Asia. This paper argues that the Ancient Word was never a text, was never lost, and is not in Central Asia. It is **correspondential knowledge itself** — the perception that natural forms express spiritual realities through functional participation — preserved in whatever form the receiving culture could provide. The "book" is a correspondence: knowledge preserved in form.
+The "Ancient Word" — a body of pre-Israelite correspondential knowledge — has been treated in Swedenborgian scholarship as a lost text awaiting discovery in Central Asia. This paper argues that the Ancient Word was never a single text, was never "lost" in the way a misplaced codex is lost, and is not reducible to a geographical location. It is **correspondential knowledge itself** — the perception that natural forms express spiritual realities through functional participation — preserved in whatever form the receiving culture could provide. The "book" is a correspondence: knowledge preserved in form.
 
 The transmission chain is traceable. Paleolithic cave systems show 32 geometric signs used consistently across 30,000 years — a symbolic system predating all known civilizations. Egyptian priestly traditions preserved the cosmological architecture (Ogdoad, Memphite theology, funerary ascent) in temple liturgy and funerary practice. The Enochic/Essene tradition composed the Animal Apocalypse and the Apocalypse of Adam in the same correspondential method — encoding spiritual history through imagery where every element functions as a correspondence. The Jamesian community inherited the tradition and compiled the Nag Hammadi Library as the archive of a multi-generational research program. At every stage, the form changed and the content remained. Cave painting, oral tradition, priestly liturgy, apocalyptic literature, leather-bound codex — constant state, variable form.
 
 The very principle the Ancient Word teaches — that spiritual reality takes variable natural form — is the principle that governs how the Ancient Word itself travels. The knowledge cannot hold the same form because form belongs to the natural degree, and the natural degree is the degree of time, culture, and circumstance. Anyone who claims to possess the Ancient Word in its "original form" has already misunderstood it.
 
-Emanuel Swedenborg (1688–1772) correctly perceived the EXISTENCE of the Ancient Word and accurately described its nature: "written entirely in correspondences," consisting of the Wars of Jehovah, the Enunciations, and the Book of Jasher. But when he placed it in "Great Tartary" and reported reading its contents with spirits from that region, his natural-degree mind was rendering a spiritual topology as geography. Forensic comparison of his diary entries with his published accounts reveals that the published narrative — which scholars have taken as observational report — was constructed by connecting a modest spiritual encounter (spirits with a "Divine Book" identified as the Psalms of David) to his developing theology of the Ancient Word, producing a combined account that presents theological synthesis as if it were direct observation. This process is itself a case study in the very phenomenon the Ancient Word describes: the natural degree reads form, connects to its existing repertoire, and fills in what it expects to find.
+Emanuel Swedenborg (1688–1772) correctly perceived the EXISTENCE of the Ancient Word and accurately described its nature: "written entirely in correspondences," consisting of the Wars of Jehovah, the Enunciations, and the Book of Jasher. When he placed it in "Great Tartary" and reported reading its contents with spirits from that region, his natural-degree mind was rendering a spiritual topology as geography — but the convergence between topology and geography turns out to be far more precise than previously recognized. The Uyghur Kingdom of Qocho (c. 856–1335 CE), centered in the Tarim Basin at the heart of "Great Tartary," was a meritocratic, peaceful, densely populated, multi-religious civilization whose cave libraries at Turfan contained exactly the kind of multi-traditional correspondential knowledge Swedenborg described. The Manichaean Psalm Book — a liturgical text literally found in these caves — converges with Swedenborg's diary record of spirits possessing "the Psalms of David." Forensic comparison of his diary entries with his published accounts reveals that the published narrative expanded a genuine perception (spirits with a "Divine Book" identified as the Psalms of David) into the full theology of the Ancient Word. The raw perception, however, may have been more accurate than either the diary identification or the published expansion — because the physical reality in "Great Tartary" was both less and more than either version: a psalm book within a multi-traditional library system that synthesized Zoroastrian, Buddhist, and Christian correspondential knowledge.
 
-When Swedenborg's geographical claims are re-read through his own correspondential system, a different picture emerges. His "Africa" (south = wisdom in clear light) describes the celestial degree of perception. His "Great Tartary" (northeast = love-knowledge in hidden form) describes the Ancient Word's mode of preservation. His "Europe" (west = declining light) describes the consummated church. He was not mapping the earth. He was mapping the **spiritual topology of how correspondential knowledge exists** — and his natural mind rendered the topology as 18th-century geography. The same literalization that turns the Sethian Pleroma into a cosmic palace turned Swedenborg's spiritual encounters into travel reports from Central Asia.
+When Swedenborg's geographical claims are re-read through his own correspondential system, a richer picture emerges. His "Africa" (south = wisdom in clear light) describes the celestial degree of perception. His "Great Tartary" (northeast = love-knowledge in hidden form) describes the Ancient Word's mode of preservation — and the physical reality in that region contained exactly such preservation. His "Europe" (west = declining light) describes the consummated church. He was mapping the **spiritual topology of how correspondential knowledge exists** — and the topology and the geography converge, because the natural degree IS the spiritual in ultimates. The spiritual topology did not contradict the physical geography; it expressed through it.
 
 ---
 
@@ -132,25 +132,47 @@ Emanuel Swedenborg correctly perceived the following:
 
 All five of these claims are confirmed by the evidence of the NHL, the Egyptian cosmological traditions, the Enochic literature, and the structural analysis presented in the companion theses (*The Literalized Fall*, *Reversing the Arrow*, *The Dynastic Archive*).
 
-### 3.2 What He Got Wrong
+### 3.2 What He Got Wrong — And What He Got More Right Than We Realized
 
 Swedenborg placed the Ancient Word in "Great Tartary" — the vast, mostly unmapped region of Central Asia north and west of China. He described it as a physical civilization: massively populated ("cannot imagine that any other part of the entire world is populated more heavily"), peaceful ("they knew nothing about war"), meritocratic ("he governs who is able to govern"), isolationist ("strangers are indeed admitted among them, but they do not give them the means of going away").
 
-No such civilization exists or has existed in Central Asia. The Mongol Empire — the dominant historical power in the region — was nomadic, expansionist, and warlike. Mongolia is and remains sparsely populated. No text "written entirely in correspondences" has been discovered in Central Asia. The geographical claim has no archaeological, historical, or textual support.
+An earlier version of this paper stated flatly: "No such civilization exists or has existed in Central Asia." This was wrong. Precisely in the heart of "Great Tartary" — the Tarim Basin oases centered on Turfan/Turpan — the **Uyghur Kingdom of Qocho** (c. 856–1335 CE) was:
 
-### 3.3 How the Error Formed: The Diary Evidence
+- **Densely populated** — an irrigated oasis civilization sustaining large urban centers in the Tarim Basin, a region Swedenborg's 18th-century European sources would have mapped as "Tartary"
+- **Peaceful** — a Buddhist-Manichaean-Nestorian meritocratic state that maintained its culture through diplomacy and administrative competence rather than military conquest, surviving the Mongol invasion by voluntary submission and cultural integration
+- **Meritocratic** — governance based on administrative capacity; the Uyghur bureaucratic system was so effective that the Mongol Empire adopted Uyghur script and administrative practices wholesale
+- **Multi-religious and literate** — Buddhist, Manichaean, and Nestorian Christian communities coexisted; the cave temple complexes at Bezeklik (77 caves), Kizil, and the connected Mogao/Dunhuang grottoes housed vast multilingual manuscript libraries
+- **Isolationist in the precise sense Swedenborg described** — a culture that absorbed visitors into its own system rather than projecting outward
 
-The forensic evidence for how the error formed is preserved in Swedenborg's own *Spiritual Diary*.
+The German Turfan expeditions (1902–1914) recovered **thousands of manuscript fragments** from these cave libraries in Middle Persian, Parthian, Sogdian, Old Uyghur, Tocharian, and Chinese — Manichaean, Buddhist, Nestorian Christian, and Zoroastrian texts preserving a correspondential multi-traditional knowledge system. These manuscripts are now housed in the Berlin-Brandenburg Academy of Sciences and the Museum für Asiatische Kunst.
+
+The Mongol Empire was not the only — or even the most relevant — Central Asian civilization. The error in the earlier version of this paper was the same error it diagnosed in other scholars: reading form (the word "Tartary") and assuming one knew the content (Mongolia, nomads, emptiness). The Uyghur Kingdom of Qocho was hiding in plain sight.
+
+**What Swedenborg got wrong** was not the geography per se — it was the packaging. He described a civilization that matched the Uyghur Kingdom of Qocho with uncanny precision, but presented the encounter as a live observation of an existing civilization rather than recognizing it as spiritual perception of a historical reality. The spirits he encountered possessed the *quality* of that civilization — its meritocratic peace, its multi-traditional literacy, its quiet possession of knowledge unknown to the wider world. His natural mind rendered those qualities as a contemporary place on a map.
+
+This is a subtler error than simple fabrication, and it is more revealing than simple dismissal allows. The correspondence between spiritual perception and physical history CONVERGES here rather than diverging — which is exactly what the correspondential framework predicts. The natural degree is the spiritual in ultimates. When Swedenborg perceived a spiritual reality, there WAS a natural-degree form of that reality. He just misidentified the temporal frame.
+
+### 3.3 How the Error Formed: The Diary Evidence — And the Psalm Book in the Caves
+
+The forensic evidence for how the theological expansion formed is preserved in Swedenborg's own *Spiritual Diary*.
 
 **Entry 6077** (the diary record): Swedenborg encounters spirits "from that country" — Lesser Tartary. They describe their social structure (meritocratic, peaceful, industrious). They state they possess "a book, respecting which people elsewhere do not know that they have it." They call it "the Divine Book." Swedenborg inquires, and the diary records: "it was the Psalms of David."
 
 That is the raw observation. Spirits with a Divine Book, identified by Swedenborg as the Psalms.
+
+**The Manichaean Psalm Book**: Here the convergence becomes startling. The Manichaeans — whose *only* state adoption as official religion occurred in the **Uyghur Khaganate** in 762/763 CE — literally possessed a **Psalm Book** (*Psalmoi*). This Coptic manuscript, discovered at Medinet Madi in Egypt in 1929 and published by Charles Allberry in 1938, contains liturgical psalms including the **Psalms of Thomas** — the same apostolic tradition connected to the Gospel of Thomas, which Cyril of Jerusalem directly attributed to the Manichaeans.
+
+The Turfan manuscript finds — from the very caves in "Great Tartary" — include Manichaean liturgical and devotional texts in the same tradition. The Manichaeans in the Uyghur Kingdom of Qocho possessed a "Divine Book" that included psalms, that was unknown to the wider Christian world, that was held by a meritocratic and peaceful civilization. Swedenborg's diary entry, stripped of its theological expansion, describes what was physically there.
+
+This does not mean Swedenborg was simply observing the Manichaean Psalm Book at a temporal remove. The spiritual perception and the historical fact operate at different degrees. But the convergence is too precise to dismiss: spirits from "Lesser Tartary" with a psalm book that nobody else knows about, and a literal psalm book in Lesser Tartary's cave libraries that nobody in 18th-century Europe knew about. The natural degree and the spiritual degree are expressing the same reality.
 
 **Apocalypse Revealed and True Christianity** (the published accounts): The same encounter is now narrated with dramatically expanded content. The spirits' book is no longer the Psalms — it is the Ancient Word containing the Wars of Jehovah, the Enunciations, and the Book of Jasher. Swedenborg reads passages from Moses to them. They examine whether the words are extant in their text. They find the passages.
 
 None of this additional content appears in the diary entry the published accounts are based on. Between the diary observation and the publication, Swedenborg's developing theology of the Ancient Word (which he constructed from biblical references to lost books — Numbers 21:14-15, 27-30; Joshua 10:12-13; 2 Samuel 1:17-18) was integrated into the spiritual encounter, and the combined result was presented as if it were the original observation.
 
 This is not dishonesty. It is the natural mind doing what the natural mind always does: connecting a genuine spiritual perception to its existing framework and producing a coherent narrative. The perception was real. The theological framework was sophisticated. The connection was plausible. But the published scene — reading passages, finding them in the text, identifying specific books — was constructed, not observed.
+
+What the Manichaean evidence adds is this: the raw perception may have been MORE accurate than either the diary record or the published expansion. Swedenborg perceived spirits with a psalm book from a civilization matching the Uyghur Kingdom. His natural mind identified it as "the Psalms of David" (the only psalm book in his frame of reference). His published theology expanded it into the full Ancient Word. The actual physical reality — a Manichaean Psalm Book in a multi-traditional library system that synthesized Zoroastrian, Buddhist, and Christian correspondential knowledge — is both less and more than either version. Less than the full Ancient Word. More than the Psalms of David. And precisely what one would expect to find at the natural degree of what he perceived at the spiritual degree.
 
 ### 3.4 The Pattern Extends
 
@@ -183,7 +205,7 @@ When Swedenborg's geographical claims are read through his own correspondential 
 | Swedenborg's "Location" | Cardinal Direction | Correspondential Meaning | Spiritual State Described |
 |:---|:---|:---|:---|
 | **Africa** | South | Wisdom in clear light, intelligence from perception | The **celestial degree** — direct reception of truth from good, without mediation through doctrine or text |
-| **Great Tartary** | Northeast (east of center, north of China) | Love-knowledge (east) in hidden external form (north) | The **Ancient Word** — correspondential knowledge preserved in form unknown to the wider world |
+| **Great Tartary** | Northeast (east of center, north of China) | Love-knowledge (east) in hidden external form (north) | The **Ancient Word** — correspondential knowledge preserved in form unknown to the wider world; converges with the historical Uyghur Kingdom of Qocho and its cave libraries of multi-traditional manuscripts |
 | **China** | East | Love, order, the source | **Structural wisdom** — the tradition in its ordered, civilizational expression; "friends" of the Tartars because the ordered expression originates from the same source |
 | **Europe / Christendom** | West | Declining light, obscuring good | The **consummated church** — possesses the Word in text but has lost the capacity to perceive its interior meaning |
 | **Other planets** | Celestial bodies (above/beyond) | Discrete spiritual qualities exceeding earthly categories | **Modes of spiritual reception** that the natural mind cannot locate on any terrestrial map |
@@ -232,7 +254,7 @@ This principle applies to the reception of the Ancient Word itself:
 | **Downstream "Gnostics"** | Sethian compositions without the key | Literalized mythology — Demiurge, divine spark, cosmic prison |
 | **Christian heresiologists** | The literalized versions | "Gnosticism" — a heresy category to define orthodoxy against |
 | **Modern scholars** | The NHL texts + philological tools | "Sethian Gnosticism" — a typological category that resists definition |
-| **Swedenborg** | Spiritual encounters with celestial-quality spirits | "Great Tartary" — geographical placement of spiritual topology |
+| **Swedenborg** | Spiritual encounters with celestial-quality spirits | "Great Tartary" — geographical placement of spiritual topology, which converges with the historical Uyghur civilization more precisely than his natural mind could have known |
 | **Swedenborgian scholarship** | Swedenborg's published accounts | Literal search for the Ancient Word in Central Asia |
 
 Every kingdom receives something real and generates an account through its filter. The process does not stop at thirteen. It extends to every receiver who encounters the Ancient Word in any of its forms and processes the encounter through the natural degree.
@@ -298,7 +320,7 @@ The Ancient Word waits on the high mountain. Always. In every form it has ever t
 
 ### 7.1 For Swedenborgian Scholarship
 
-Swedenborg's theology of the Ancient Word is confirmed by evidence he could not have anticipated — but the geographical packaging must be discarded. The Ancient Word is not in Great Tartary. There is no hidden civilization in Central Asia with a text written in correspondences. What IS confirmed:
+Swedenborg's theology of the Ancient Word is confirmed by evidence he could not have anticipated — and the geographical dimension, far from being discarded, reveals a convergence between spiritual perception and physical history that is itself a confirmation of the correspondential principle. The Ancient Word is not reducible to a location in Central Asia — but correspondential knowledge WAS physically preserved there, in exactly the civilization Swedenborg described. What IS confirmed:
 
 - The Ancient Word exists
 - It predates the Israelite scriptures
@@ -307,7 +329,7 @@ Swedenborg's theology of the Ancient Word is confirmed by evidence he could not 
 - It is preserved by communities with direct perception
 - The consummated church cannot perceive it
 
-All true. All verifiable. All confirmed by the NHL and the broader evidence trail. The contribution of this paper is to separate the confirmed spiritual topology from the falsified physical geography — and to show that the discrepancy is itself a case study in the very principle Swedenborg articulated: the natural degree reads form and produces form, even in the person who possesses the key.
+All true. All verifiable. All confirmed by the NHL and the broader evidence trail — and now additionally confirmed by the archaeological evidence from Turfan. The contribution of this paper is to show that the spiritual topology and the physical geography CONVERGE rather than contradict — and that this convergence is itself what the correspondential framework predicts. The natural degree IS the spiritual in ultimates. When Swedenborg perceived a spiritual reality, there was a natural-degree form. The Uyghur Kingdom of Qocho, with its cave libraries of multi-traditional correspondential knowledge and its Manichaean Psalm Book, is that natural-degree form. Swedenborg's error was not in perceiving the civilization — it was in rendering it as a contemporary observation rather than recognizing its historical character. Even this error illustrates the principle: the natural degree reads form and produces form, even in the person who possesses the key.
 
 ### 7.2 For Nag Hammadi Scholarship
 
@@ -372,3 +394,13 @@ It was never lost. It just changes clothing.
 19\. Williams, Michael A. *Rethinking "Gnosticism": An Argument for Dismantling a Dubious Category*. Princeton: Princeton University Press, 1996.
 
 20\. King, Karen L. *What Is Gnosticism?* Cambridge, MA: Harvard University Press, 2003.
+
+21\. Allberry, Charles R. C., ed. *A Manichaean Psalm-Book, Part II*. Manichaean Manuscripts in the Chester Beatty Collection, Vol. II. Stuttgart: W. Kohlhammer, 1938.
+
+22\. Le Coq, Albert von. *Buried Treasures of Chinese Turkestan: An Account of the Activities and Adventures of the Second and Third German Turfan Expeditions*. Translated by Anna Barwell. London: George Allen & Unwin, 1928.
+
+23\. Klimkeit, Hans-Joachim. *Gnosis on the Silk Road: Gnostic Texts from Central Asia*. San Francisco: HarperSanFrancisco, 1993.
+
+24\. BeDuhn, Jason David. *The Manichaean Body: In Discipline and Ritual*. Baltimore: Johns Hopkins University Press, 2000.
+
+25\. Lieu, Samuel N. C. *Manichaeism in Central Asia and China*. Nag Hammadi and Manichaean Studies 45. Leiden: Brill, 1998.

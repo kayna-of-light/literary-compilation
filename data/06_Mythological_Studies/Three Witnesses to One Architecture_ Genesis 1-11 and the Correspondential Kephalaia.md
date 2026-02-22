@@ -12,47 +12,58 @@
 
 ## Table of Contents
 
-1. [Introduction](#1-introduction)
-2. [Methodological Framework: Reading Genesis and the Kephalaia as Correspondential Texts](#2-methodological-framework)
-3. [The Primordial State: Genesis 1:1–2 as the Common Starting Condition](#3-the-primordial-state)
-4. [The Seven Days: Genesis 1:3–2:3 as Compressed Kephalaia Chapters 32 and 65](#4-the-seven-days)
-   - 4.1 The Operative Dimension: Chapter 32
-   - 4.2 The Experiential Dimension: Chapter 65
-   - 4.3 Genesis as Fusion: How Both Dimensions Compress into Seven Days
-   - 4.4 The Fourth Position as Structural Hinge
-5. [The Celestial Architecture: Genesis 2:4–25 and the Garden Unfolded](#5-the-celestial-architecture)
-   - 5.1 The Two Trees: Chapter 2
-   - 5.2 The Four Rivers: Chapter 4
-   - 5.3 The Five Faculties and Three Distinctions: Chapters 56 and 64
-   - 5.4 The Most Ancient Church: Chapter 57
-   - 5.5 Masculine Understanding and Feminine Will: Chapter 65, ¶18
-   - 5.6 Pristine Innocence: Chapter 98
-6. [The Fall: Genesis 3 and the Descent into Self-Intelligence](#6-the-fall)
-   - 6.1 The Image and Its Imitations: Chapter 55
-   - 6.2 The Two Principles and the Descent into Temptation: Chapter 23
-   - 6.3 The Garments of Skin: Chapter 30
-   - 6.4 The Purification of the Four Faculties: Chapter 94
-7. [Division and Decline: Genesis 4–5 and the Fragmentation of the Will](#7-division-and-decline)
-   - 7.1 The Dragon of the Proprium: Chapter 100
-   - 7.2 The Five Governing Powers and the Diminishment of Generations: Chapter 57
-8. [The Flood: Genesis 6–9 and the Inundation of Falsity](#8-the-flood)
-   - 8.1 The Three Great States and Two Spiritual Deaths: Chapter 39
-   - 8.2 The Three Containing Forms and Twelve Works of Purification: Chapter 42
-   - 8.3 Purification through Descent: Chapter 43
-   - 8.4 The Four Griefs of External Truths: Chapter 59
-9. [Babel: Genesis 10–11 and the Scattering through Self-Intelligence](#9-babel)
-   - 9.1 The Towering Falsities: Chapter 61
-   - 9.2 Confusion Entering the Interior Life: Chapter 86
-   - 9.3 The Dragon's Fourteen Powers: Chapter 100 Revisited
-10. [Discussion: The Compression Principle and the Nature of the Evidence](#10-discussion)
-    - 10.1 The Relationship between the Witnesses
-    - 10.2 What Genesis Compresses
-    - 10.3 The Bilateral Teaching of the Kephalaia
-    - 10.4 The Hebrew Literary Mode as Compression of the Ancient Word
-    - 10.5 Limitations and Lacunae
-11. [Conclusion: Three Witnesses, One Architecture](#11-conclusion)
-12. [Appendix: Chapter-by-Chapter Mapping Table](#12-appendix)
-13. [Works Cited](#13-works-cited)
+- [Three Witnesses to One Architecture: Genesis 1–11 and the Correspondential Kephalaia](#three-witnesses-to-one-architecture-genesis-111-and-the-correspondential-kephalaia)
+  - [Demonstrating the Structural Identity of the Primeval History and the Extracted Kephalaia Substrate](#demonstrating-the-structural-identity-of-the-primeval-history-and-the-extracted-kephalaia-substrate)
+  - [Table of Contents](#table-of-contents)
+  - [1. Introduction](#1-introduction)
+  - [2. Methodological Framework: Reading Genesis and the Kephalaia as Correspondential Texts](#2-methodological-framework-reading-genesis-and-the-kephalaia-as-correspondential-texts)
+    - [2.1 The Nature of Correspondential Comparison](#21-the-nature-of-correspondential-comparison)
+    - [2.2 Swedenborg's Reading of Genesis 1–11](#22-swedenborgs-reading-of-genesis-111)
+    - [2.3 The Kephalaia Substrate: What Was Extracted](#23-the-kephalaia-substrate-what-was-extracted)
+    - [2.4 The Compression Principle](#24-the-compression-principle)
+  - [3. The Primordial State: Genesis 1:1–2 as the Common Starting Condition](#3-the-primordial-state-genesis-112-as-the-common-starting-condition)
+    - [3.1 The Genesis Text](#31-the-genesis-text)
+    - [3.2 The Starting Condition of Kephalaia Chapter 32](#32-the-starting-condition-of-kephalaia-chapter-32)
+    - [3.3 The Starting Condition of Kephalaia Chapter 65](#33-the-starting-condition-of-kephalaia-chapter-65)
+    - [3.4 The Fundamental Axiom](#34-the-fundamental-axiom)
+  - [4. The Seven Days: Genesis 1:3–2:3 as Compressed Kephalaia Chapters 32 and 65](#4-the-seven-days-genesis-1323-as-compressed-kephalaia-chapters-32-and-65)
+    - [4.1 The Operative Dimension: Chapter 32](#41-the-operative-dimension-chapter-32)
+    - [4.2 The Experiential Dimension: Chapter 65](#42-the-experiential-dimension-chapter-65)
+    - [4.3 Genesis as Fusion: How Both Dimensions Compress into Seven Days](#43-genesis-as-fusion-how-both-dimensions-compress-into-seven-days)
+    - [4.4 The Fourth Position as Structural Hinge](#44-the-fourth-position-as-structural-hinge)
+  - [5. The Celestial Architecture: Genesis 2:4–25 and the Garden Unfolded](#5-the-celestial-architecture-genesis-2425-and-the-garden-unfolded)
+    - [5.1 The Two Trees: Chapter 2](#51-the-two-trees-chapter-2)
+    - [5.2 The Four Rivers: Chapter 4](#52-the-four-rivers-chapter-4)
+    - [5.3 The Five Faculties and Three Distinctions: Chapters 56 and 64](#53-the-five-faculties-and-three-distinctions-chapters-56-and-64)
+    - [5.4 The Most Ancient Church: Chapter 57](#54-the-most-ancient-church-chapter-57)
+    - [5.5 Masculine Understanding and Feminine Will: Chapter 65, ¶18](#55-masculine-understanding-and-feminine-will-chapter-65-18)
+    - [5.6 Pristine Innocence: Chapter 98](#56-pristine-innocence-chapter-98)
+  - [6. The Fall: Genesis 3 and the Descent into Self-Intelligence](#6-the-fall-genesis-3-and-the-descent-into-self-intelligence)
+    - [6.1 The Image and Its Imitations: Chapter 55](#61-the-image-and-its-imitations-chapter-55)
+    - [6.2 The Two Principles and the Descent into Temptation: Chapter 23](#62-the-two-principles-and-the-descent-into-temptation-chapter-23)
+    - [6.3 The Garments of Skin: Chapter 30](#63-the-garments-of-skin-chapter-30)
+    - [6.4 The Purification of the Four Faculties: Chapter 94](#64-the-purification-of-the-four-faculties-chapter-94)
+  - [7. Division and Decline: Genesis 4–5 and the Fragmentation of the Will](#7-division-and-decline-genesis-45-and-the-fragmentation-of-the-will)
+    - [7.1 The Dragon of the Proprium: Chapter 100](#71-the-dragon-of-the-proprium-chapter-100)
+    - [7.2 The Diminishment of the Generations: Chapter 57](#72-the-diminishment-of-the-generations-chapter-57)
+  - [8. The Flood: Genesis 6–9 and the Inundation of Falsity](#8-the-flood-genesis-69-and-the-inundation-of-falsity)
+    - [8.1 The Three Great States and Two Spiritual Deaths: Chapter 39](#81-the-three-great-states-and-two-spiritual-deaths-chapter-39)
+    - [8.2 The Three Containing Forms and Twelve Works of Purification: Chapter 42](#82-the-three-containing-forms-and-twelve-works-of-purification-chapter-42)
+    - [8.3 Purification through Descent: Chapter 43](#83-purification-through-descent-chapter-43)
+    - [8.4 The Four Griefs of External Truths: Chapter 59](#84-the-four-griefs-of-external-truths-chapter-59)
+  - [9. Babel: Genesis 10–11 and the Scattering through Self-Intelligence](#9-babel-genesis-1011-and-the-scattering-through-self-intelligence)
+    - [9.1 The Towering Falsities: Chapter 61](#91-the-towering-falsities-chapter-61)
+    - [9.2 Confusion Entering the Interior Life: Chapter 86](#92-confusion-entering-the-interior-life-chapter-86)
+    - [9.3 The Dragon's Fourteen Powers: Chapter 100 Revisited](#93-the-dragons-fourteen-powers-chapter-100-revisited)
+  - [10. Discussion: The Compression Principle and the Nature of the Evidence](#10-discussion-the-compression-principle-and-the-nature-of-the-evidence)
+    - [10.1 The Relationship between the Witnesses](#101-the-relationship-between-the-witnesses)
+    - [10.2 What Genesis Compresses](#102-what-genesis-compresses)
+    - [10.3 The Bilateral Teaching of the Substrate](#103-the-bilateral-teaching-of-the-substrate)
+    - [10.4 The Hebrew Literary Mode as Compression of the Ancient Word](#104-the-hebrew-literary-mode-as-compression-of-the-ancient-word)
+    - [10.5 Limitations and Lacunae](#105-limitations-and-lacunae)
+  - [11. Conclusion: Three Witnesses, One Architecture](#11-conclusion-three-witnesses-one-architecture)
+  - [12. Appendix: Chapter-by-Chapter Mapping Table](#12-appendix-chapter-by-chapter-mapping-table)
+  - [13. Works Cited](#13-works-cited)
 
 ---
 

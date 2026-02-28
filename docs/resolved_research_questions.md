@@ -1395,21 +1395,51 @@ This is a **meta-methodological** finding. It documents how scholarly process ca
 
 ---
 
+### [GDR] Speaking in Tongues: Forensic History from Mystery Cults to Modern Charismatic Practice
+
+**Target**: `[GDR]`  
+**Status**: ✅ RESOLVED  
+**Date Added**: 2026-02-28  
+**Date Resolved**: 2026-02-28  
+**Priority**: HIGH  
+**Related Documents**:
+- `docs/revelations_13/PAULS_GIFTS_OF_THE_SPIRIT.md`
+- `docs/READING_REVELATIONS_13_NOTES.md`
+
+**Resolution Summary**:
+
+GDR produced a comprehensive forensic analysis now filed as `data/04_Early_Christian_History/Speaking in Tongues_ A Forensic History from Mystery Cults to Modern Charismatic Practice.md`. All 8 sub-questions were addressed with external scholarly evidence. Key findings:
+
+1. **Mystery cult continuity confirmed**: Dionysian *mania*, *voces magicae*, *Ephesia grammata*, and *ololyge* were active in Corinth. Paul's converts re-attributed pre-existing ecstatic practices to a new theological source.
+2. **Pentecost vs. Pauline tongues**: Structurally opposite phenomena. Acts 2 = content-first, form adapts (influx model). 1 Cor 14 = form-first, content attached afterward (distribution model). Patristic consensus held pan-xenolalia for 1,800 years; Higher Critics redefined as glossolalia in the 19th century; modern Pentecostals adopted the Critics' definition after missionary xenolalia failed spectacularly.
+3. **Linguistics**: Samarin definitively proves glossolalia is not language — derivative phonology from speaker's native tongue, no syntax, no semantics, simplified CV syllables, "a facade of language." Goodman confirmed cross-cultural suprasegmental uniformity.
+4. **Neurology**: Newberg SPECT imaging shows transient hypofrontality (frontal lobe suppression) — the *opposite* of meditation (hyperfrontality). Language centers quiet. Subjective "taken over" feeling is neurobiologically real but endogenous.
+5. **Social acquisition**: 20% mimic immediately from recording; 70% after brief coaching. Kildahl identified five induction elements. Learned behavior, not supernatural gift.
+6. **Veridical xenolalia**: Zero rigorously verified cases survive linguistic scrutiny. Samarin: "nearly worthless as linguistic evidence."
+7. **Profanation confirmed**: 1 Cor 12:3 ("Jesus is accursed" spoken in tongues) and Gardiner case (actual blasphemy spoken while interpreter gave pious translation). Framework prediction validated.
+8. **Cross-cultural universality**: Vodou *langaj*, Sufi *zikr*, Hindu bhakti, shamanism — structurally identical. Universal neurobiological capacity, not Christian-specific.
+9. **Delphic oracle correction**: Pythia did NOT speak glossolalia (Plutarch confirms hexameter verse/formal prose). True parallels are *voces magicae* and Dionysian *ololyge*.
+10. **Historical pivot**: Early Pentecostals (1906+) believed in missionary xenolalia, traveled abroad expecting to preach without study, failed spectacularly. By 1947, abandoned xenolalia and adopted Higher Critics' glossolalia definition — the scholars they had rejected.
+
+**Framework predictions tested**: Influx vs distribution (HIT), mystery cult continuity (HIT), profanation dynamics (HIT), constant state/variable form (HIT). All framework guidance confirmed by independent external evidence.
+
+---
+
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 23 |
+| **Total Resolved** | 24 |
 | **NDE Domain** | 10 |
 | **BIBL Domain** | 6 |
 | **SWED Domain** | 3 |
 | **CROSS Domain** | 1 |
-| **EARLY Domain** | 1 |
+| **EARLY Domain** | 2 |
 | **GNOS Domain** | 1 |
 | **GDR Domain** | 1 |
 | **Critical Priority** | 3 |
-| **High Priority** | 12 |
+| **High Priority** | 13 |
 | **Medium Priority** | 7 |
 | **Low Priority** | 1 |
 
-**Last Updated**: 2026-02-07
+**Last Updated**: 2026-02-28

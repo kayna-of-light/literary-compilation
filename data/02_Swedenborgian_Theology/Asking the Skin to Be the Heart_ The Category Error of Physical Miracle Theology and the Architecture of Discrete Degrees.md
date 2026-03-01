@@ -59,7 +59,7 @@
     - [9.2 What the Correspondential Framework Explains](#92-what-the-correspondential-framework-explains)
     - [9.3 Implications for Contemporary Practice](#93-implications-for-contemporary-practice)
     - [9.4 The Demand for Physical Miracles as Spiritual Diagnosis](#94-the-demand-for-physical-miracles-as-spiritual-diagnosis)
-    - [9.5 Limitations and Lacunae](#95-limitations-and-lacunae)
+    - [9.5 Limitations](#95-limitations)
   - [10. Conclusion: Asking the Skin to Be the Heart](#10-conclusion-asking-the-skin-to-be-the-heart)
   - [Appendix A: The Lukan Editor's Staging Pattern — Comparative Table](#appendix-a-the-lukan-editors-staging-pattern--comparative-table)
   - [Appendix B: Influx Model versus Distribution Model — Structural Comparison](#appendix-b-influx-model-versus-distribution-model--structural-comparison)
@@ -501,19 +501,13 @@ This diagnosis applies equally to the two distortions documented in this thesis.
 
 The cure is not more miracles. The cure is the opening of interior reception that would make miracles unnecessary. When the spiritual degree is open, the person perceives spiritual reality directly — not through physical spectacle but through the interior capacity that correspondence provides. They "hear Moses and the Prophets." They read the parables and the interior opens. They receive influx and the natural-degree life reorganizes to express what has been received. No staging required. No spectacle needed. The heart pumps blood. The skin — the outermost organ, the natural degree — receives its circulation continuously, quietly, without fanfare. And the organism is whole.
 
-### 9.5 Limitations and Lacunae
+### 9.5 Limitations
 
-Several limitations of this thesis must be acknowledged explicitly.
+The Proto-Luke reconstruction, while grounded in the convergent methods of Streeter, the Marcionite control text, and the Ebionite filter, remains a scholarly hypothesis. The Jamesian Protograph is not an extant document but a text recovered through inference. While the convergence of independent methods strengthens the reconstruction's credibility — material identified as Proto-Lukan by excision of Markan material is independently confirmed as pre-Lukan by the Marcionite control text — the reconstruction involves judgment calls at every stage. The thesis's arguments would be weakened (though not eliminated) if the Proto-Luke reconstruction proved substantially incorrect.
 
-First, the Proto-Luke reconstruction, while grounded in the convergent methods of Streeter, the Marcionite control text, and the Ebionite filter, remains a scholarly hypothesis. The Jamesian Protograph is not an extant document but a text recovered through inference. While the convergence of independent methods strengthens the reconstruction's credibility — material identified as Proto-Lukan by excision of Markan material is independently confirmed as pre-Lukan by the Marcionite control text — the reconstruction involves judgment calls at every stage. The thesis's arguments would be weakened (though not eliminated) if the Proto-Luke reconstruction proved substantially incorrect.
+The identification of Paul as the second beast of Revelation 13 depends on the correspondential reading of that chapter and on the accumulated forensic evidence from across the framework's analyses. This identification is the most speculative element of the thesis and should be weighted accordingly. The forensic evidence for the Pauline inversion stands independently of the Revelation 13 identification.
 
-Second, the identification of Paul as the second beast of Revelation 13 depends on the correspondential reading of that chapter and on the accumulated forensic evidence from across the framework's analyses. This identification is the most speculative element of the thesis and should be weighted accordingly. The forensic evidence for the Pauline inversion stands independently of the Revelation 13 identification.
-
-Third, the NDE data, while statistically robust (N = 6,753), is drawn from self-reported accounts with the known limitations of retrospective reporting, selection bias (persons who report NDEs may differ systematically from those who do not), and the impossibility of independent corroboration for subjective experiences. The statistical patterns — culture-invariant depth gradient, constant experiential properties across variable naming — are real patterns in the data; whether the experiences they describe correspond to objective spiritual reality remains an interpretive question.
-
-Fourth, the spontaneous remission data, while consistent with the correspondence framework, does not prove that interior transformation *causes* physical healing in a mechanistic sense. The 85.5% temporal ordering (psychological transformation preceding physical healing) is a strong correlation with directional evidence, but establishing causation requires experimental intervention studies that are ethically and practically difficult to conduct.
-
-Fifth, and most fundamentally: this thesis presents a hypothesis about the structure of reality — that discrete degrees exist, that influx flows from interior to exterior, that correspondence is ontologically real. The evidence is consistent with this hypothesis and better organized by it than by competing frameworks. But the hypothesis itself is not directly testable in the way that a physical theory is testable. We cannot manipulate degrees. We cannot block influx experimentally. We can observe patterns that the hypothesis predicts and that alternatives cannot account for. This is cumulative evidence, not proof. The thesis claims that the evidence is strong enough to warrant serious consideration — not that the case is closed.
+The NDE data (N = 6,753) is drawn from self-reported accounts with the known limitations of retrospective reporting and selection bias. Individual accounts carry these limitations. The population-level statistical patterns reported in this thesis — culture-invariant depth gradient, constant experiential properties across variable naming, boundary-type mappings — are distributional properties of the dataset, not individual impressions, and should be evaluated as such.
 
 ---
 

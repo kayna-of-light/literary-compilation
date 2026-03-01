@@ -119,7 +119,7 @@ Write each section individually using `replace_string_in_file` to replace its `[
 
 After all sections are written:
 1. **Grep for `[TO BE WRITTEN]`** to confirm no placeholders remain
-2. **Check line/word count** to verify the thesis is substantive (target: 12,000-20,000 words)
+2. **Check line/word count** to verify the thesis is substantive (target: 12,000-25,000 words)
 3. **Sync to Google Drive** using the library's mirror script after approval of the user (always ask):
    ```bash
    cd [literary-compilation root]

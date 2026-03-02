@@ -543,7 +543,7 @@ If the tomb is the family burial of Jesus of Nazareth, several theological commi
 
 1. **The physical resurrection.** A family tomb containing an ossuary inscribed "Jesus son of Joseph" implies that the body of Jesus was interred, decomposed, and had its bones gathered into an ossuary by his family — the standard Jewish burial practice. This does not necessarily contradict belief in resurrection (the earliest sources, including Paul, describe a "spiritual body" — *soma pneumatikon* — not a resuscitated corpse), but it contradicts the physicalist resurrection narratives of Luke 24 and John 20, which have become the doctrinal standard.
 
-2. **The perpetual virginity of Mary.** The tomb contains Jesus, Joses, James (via the James Ossuary), and Judah — suggesting that Mary had at least four sons, contradicting the Catholic and Orthodox doctrine of perpetual virginity.
+2. **The perpetual virginity of Mary.** The tomb contains three sons of Mary — Jesus, Joses, and James (via the James Ossuary) — plus a grandson, Judah son of Jesus. Mark 6:3 names four brothers: "James and Joses and Judas and Simon." Three of those brothers are now geochemically linked to the same burial chamber. The doctrine of perpetual virginity cannot survive this cluster.
 
 3. **Jesus was married.** The mtDNA analysis demonstrates that "Jesus" and "Mariamene" were not maternally related. In a family tomb, this implies a spousal relationship. If "Mariamene" is identifiable with Mary Magdalene (as Bovon's analysis of the Acts of Philip suggested before his retraction), then Jesus was married. The theological implications cascade.
 

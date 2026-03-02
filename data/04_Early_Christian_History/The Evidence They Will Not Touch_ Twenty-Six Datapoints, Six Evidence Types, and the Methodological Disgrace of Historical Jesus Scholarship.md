@@ -32,6 +32,7 @@
     - [4.2 Why Every Datapoint Depends on Edited Documents](#42-why-every-datapoint-depends-on-edited-documents)
     - [4.3 The Absence of Physical Science](#43-the-absence-of-physical-science)
     - [4.4 The Criterion Problem](#44-the-criterion-problem)
+    - [4.5 The Q Double Standard: When Their Own Method Arrives at the Wrong Conclusion](#45-the-q-double-standard-when-their-own-method-arrives-at-the-wrong-conclusion)
   - [5. The Talpiot Evidence: How Physical Science Was Buried](#5-the-talpiot-evidence-how-physical-science-was-buried)
     - [5.1 What Shimron Found: The Geochemical Fingerprint](#51-what-shimron-found-the-geochemical-fingerprint)
     - [5.2 What Feuerverger Proved: The Statistics That Were Never Refuted](#52-what-feuerverger-proved-the-statistics-that-were-never-refuted)
@@ -363,6 +364,48 @@ The **criterion of coherence** presupposes that we have already established a co
 The result of the criterion problem is that mainstream Historical Jesus Studies has spent two centuries refining tools that do not reliably distinguish authentic material from editorial construction — and that the "consensus" items on the standard list are not established by rigorous application of these tools but by scholarly intuition dressed up in methodological language. The eight consensus items survive not because the criteria establish them but because no one has the motivation to challenge them. They are the lowest common denominator of a discipline that has agreed to disagree about everything else.
 
 Compare this with the anchor chain. The content argument (Datapoints A–C) does not depend on criteria of authenticity. It depends on examining what Jesus taught and observing that it constitutes a system. The geochemical fingerprint (Datapoint F) does not depend on textual criticism. It depends on a mass spectrometer. The hostile testimony (Datapoints I–O) does not depend on editorial theory. It depends on what Josephus, Tacitus, and Paul wrote in documents that were not produced by the tradition being investigated. The anchor chain bypasses the entire criterion problem by using evidence types that do not require the criteria.
+
+### 4.5 The Q Double Standard: When Their Own Method Arrives at the Wrong Conclusion
+
+The preceding sections demonstrated that mainstream Historical Jesus Studies ignores evidence from outside its own methodology — physical science, geochemistry, forensic statistics. The charitable reading is that these scholars are textual critics who simply do not engage with evidence types beyond their training. The charitable reading is wrong. The Q double standard proves it is wrong, because it demonstrates that the discipline also ignores evidence produced *by its own methods* when that evidence arrives at the wrong conclusion.
+
+The Two-Source Hypothesis — the standard model of Synoptic relations since the late nineteenth century — posits that Matthew and Luke independently used two sources: the Gospel of Mark and a hypothetical sayings source called Q (from German *Quelle*, "source"). Q is the foundation of Synoptic scholarship. It organizes the curriculum. It structures the introductory textbooks. It is taught in every seminary and divinity school in the Western world as near-certain scholarship.
+
+Q has the following evidence:
+
+- **Manuscript witnesses:** Zero. No manuscript of Q has ever been found. No fragment, no scrap, no palimpsest.
+- **Patristic attestation:** Zero. No ancient author — not Papias, not Irenaeus, not Origen, not Eusebius, not Jerome — mentions a document matching Q's description.
+- **External control text:** None. There is no independent textual witness against which Q's content can be checked.
+- **Predictive power:** None demonstrated. Q does not predict features of the textual tradition that were not already visible in the data used to infer it.
+- **Methodological basis:** One. Verbal agreement between Matthew and Luke in non-Markan material. A single method, applied to a single dataset, with no external validation.
+
+This is the evidential foundation on which one of the two pillars of the documentary hypothesis rests. It is accepted as near-certain.
+
+Now consider Proto-Luke — the hypothesis, proposed independently by B.H. Streeter in 1924 and converged upon by the New Marcionite Paradigm (Klinghardt, BeDuhn, Vinzent) in the twenty-first century, that an earlier, shorter, theologically distinct form of Luke existed before the canonical text.
+
+Proto-Luke has the following evidence:
+
+- **Manuscript witnesses:** The Western text tradition. Codex Bezae (D), the Old Latin manuscripts, and the Old Syriac preserve shorter readings in precisely the passages where Proto-Luke predicts the canonical text was expanded. The Western Non-Interpolations identified by Westcott and Hort in 1881 provide the specific mechanism: passages present in the Alexandrian tradition but *absent* from the Western tradition are later additions, not Western omissions. The physical manuscripts exist. They can be examined. They are in libraries.
+- **Patristic attestation:** Multiple hostile witnesses. Tertullian (*Adversus Marcionem*), Epiphanius (*Panarion*), and other Church Fathers quote extensively from Marcion's *Evangelion* — a shorter Gospel that lacks the birth narratives, the genealogy, the Pauline Eucharist formula, and the physical resurrection proofs. These Fathers wrote to *destroy* Marcion's reputation, not to preserve his text. Their quotations are therefore hostile testimony — the most reliable kind — and they consistently describe a shorter Luke lacking precisely the passages that Proto-Luke theory identifies as editorial additions.
+- **External control text:** Marcion's *Evangelion* itself. Reconstructed by Klinghardt and others from the patristic quotations, it provides an independent textual witness — a second version of the Lukan tradition that can be compared point by point with canonical Luke. This is something Q does not have and never will have: an actual text to compare against.
+- **Predictive power:** Demonstrated across multiple domains. Proto-Luke predicts that the editorial additions will show a consistent theological direction — and they do: every addition serves the same programme (Pauline Eucharist, physical resurrection proofs, birth narratives establishing universal rather than Jamesian theology, harmonisation with other Gospels). Proto-Luke predicts that the manuscript tradition will preserve traces of the shorter text — and it does: the Western Non-Interpolations are exactly the fingerprints the hypothesis predicts. Proto-Luke predicts that tendency criticism will identify a coherent editorial agenda in Acts — and it does: the Acts editor systematically harmonises Paul and Jerusalem, erases the Antioch confrontation, suppresses Jamesian priority, and manufactures parallel miracle sequences.
+- **Methodological basis:** Three independent methods converge on the same result. Streeter's source criticism (1924, analyzing the internal structure of Luke), the Marcionite textual evidence (external comparison with a shorter Gospel), and the Western Non-Interpolation manuscript tradition (physical manuscripts preserving the shorter readings) arrive at the same set of passages as secondary additions from completely different starting points.
+
+Q has zero witnesses and one method. Proto-Luke has three independent evidentiary lines and predictive power. Q is near-certain. Proto-Luke is speculative.
+
+Read that again. A hypothesis with *nothing* — no manuscript, no external witness, no patristic citation, no predictive power — is treated as established scholarship. A hypothesis with *everything Q has plus three additional forms of evidence* is treated as a fringe position that responsible scholars mention in footnotes and then move past.
+
+The asymmetry has nothing to do with evidence and everything to do with what each hypothesis implies. Q is theologically safe. A hypothetical sayings source complicates the Synoptic picture without threatening the canonical text. Q says: there was another source. It does not say: the text you have has been tampered with. It does not say: the birth narratives are editorial constructions. It does not say: the physical resurrection proofs were inserted by a second-century editor to combat a spiritual resurrection theology. It does not say: the Pauline Eucharist formula was put into Jesus's mouth by someone who wanted Pauline theology to appear dominical. Q threatens nothing. Q changes nothing. Q is safe.
+
+Proto-Luke is not safe. Proto-Luke says: the canonical text of Luke is an edited document. The text in your Bible is not the text that was written. An editor added material — birth narratives, genealogy, physical resurrection proofs, Pauline Eucharist words — with a specific theological agenda. The earlier text was Jamesian, not Pauline. The community closest to Jesus taught something different from what the canonical text reports. The editorial programme that produced the text you read in church every Sunday was designed to suppress that difference.
+
+That is why Q is safe and Proto-Luke is dangerous. That is why every New Testament introduction covers Q in detail and mentions Proto-Luke in passing if at all. That is why Streeter's 1924 work — a century old, methodologically sound, subsequently corroborated by two entirely independent evidentiary lines that Streeter himself could not have known about — remains on the margins of a discipline that treats a hypothesis with no evidence at all as one of its foundational certainties.
+
+This is not a failure of method. The methods work. Source criticism, manuscript analysis, patristic testimony, tendency criticism — these are genuine intellectual tools that produce real results. The tools identified Proto-Luke. The tools identified the Western Non-Interpolations. The tools identified the editorial programme. The discipline's own methods, applied honestly, arrive at Proto-Luke. And then the discipline refuses to follow where its own methods lead.
+
+The charitable reading — that these scholars are textual critics who cannot engage with physical science — collapses here. Proto-Luke is not geochemistry. It is not DNA analysis. It is not statistical modeling. Proto-Luke is source criticism, manuscript evidence, and patristic testimony — the bread and butter of New Testament Studies, the methods these scholars were trained in, the methods they apply every day to every other question in the field. They can read Codex Bezae. They can evaluate Western Non-Interpolations. They can assess patristic quotations. They do these things professionally, expertly, every working day of their careers. And when these methods, applied to the Lukan text, produce a result that threatens the canonical narrative, they choose not to follow. Not because they cannot. Because they know what happens to scholars who do.
+
+The Q double standard is therefore not an additional problem alongside the refusal to engage physical science. It is the *proof* that the refusal is not methodological. A discipline that ignores physical science might plausibly claim: "That is not our field." A discipline that also ignores what its own methods produce when the result is inconvenient cannot make that claim. The only common denominator between the Talpiot geochemistry and Proto-Luke is that both arrive at conclusions the discipline has decided in advance are unacceptable. One comes from outside the discipline's methods. The other comes from inside them. Both are refused. The problem is not the evidence. The problem is the conclusion.
 
 ---
 
@@ -726,7 +769,10 @@ The evidence is patient. It will wait for a discipline brave enough to look at i
 - Meier, John P. *A Marginal Jew: Rethinking the Historical Jesus*. 5 vols. New Haven: Yale University Press, 1991–2016.
 - Sanders, E. P. *The Historical Figure of Jesus*. London: Penguin, 1993.
 - Schweitzer, Albert. *The Quest of the Historical Jesus*. Trans. W. Montgomery. London: A. & C. Black, 1910 [1906].
+- Streeter, Burnett Hillman. *The Four Gospels: A Study of Origins*. London: Macmillan, 1924.
+- Taylor, Vincent. *Behind the Third Gospel: A Study of the Proto-Luke Hypothesis*. Oxford: Clarendon Press, 1926.
 - Vinzent, Markus. *Marcion and the Dating of the Synoptic Gospels*. Studia Patristica Supplements 2. Leuven: Peeters, 2014.
+- Westcott, Brooke Foss, and Fenton John Anthony Hort. *The New Testament in the Original Greek*. 2 vols. Cambridge: Macmillan, 1881.
 
 ### Secondary Sources — Forensic and Archaeological Science
 

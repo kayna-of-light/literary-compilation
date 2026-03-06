@@ -398,6 +398,8 @@ Fourteen = 2 × 7. The bilateral cut within the temporal cut. Each of the seven 
 
 Thirty-five = 5 × 7. The radial cut within the temporal cut. Each of the seven stages activates a different configuration of the five faculties. The five-fold faculty architecture passing through the seven-fold developmental arc produces thirty-five distinct states. This is the full radial-temporal product — the complete map of how a faculty system transforms through a developmental process.
 
+A critical principle governs these decompositions: **only the set of distinct prime factors determines which dimensional axes a number engages; higher powers of the same prime deepen the resolution within the same axis without changing the coordinate**. Swedenborg states this directly: "Composite numbers have a like meaning with the simple numbers from which they are produced by multiplication" (*Apocalypse Explained* §54). Thus six (2 × 3), twelve (2² × 3), and twenty-four (2³ × 3) all occupy the bilateral-vertical coordinate — the same two axes active, the same intersection of dimensions. What changes with higher powers is the fractal depth of resolution: twelve subdivides the bilateral axis one level further than six, and twenty-four one level further still. The twenty-four elders of Revelation's throne room are not qualitatively different from the twelve tribes of Israel or the six days of creation; they are the same bilateral-vertical architecture perceived at successively finer resolution. This principle is universal: four (2²) and eight (2³) carry the same bilateral meaning as two, at deeper fractal depth; nine (3²) and twenty-seven (3³) carry the same vertical meaning as three. The number tells you which axes are in play. The power tells you how deeply those axes are resolved. Meaning is determined by the coordinate; resolution is determined by the power.
+
 These decompositions are not numerological games. They are the spiritual mind's coordinate system made explicit. Every composite number in the Word identifies a specific intersection of dimensional axes. The decomposition reveals which axes are active at that point in the text and how many dimensions of comprehension are simultaneously in play.
 
 ### 7.3 The Return to One: Everything Derives from the Undivided
@@ -635,16 +637,19 @@ The prism is the spiritual mind. The spectrum is the numerical system. The white
 |--------|---------------|---------------------------|
 | 4 | 2 × 2 | Bilateral exhaustion: both sides of both aspects |
 | 6 | 2 × 3 | Bilateral × Vertical: all degrees of both aspects |
+| 8 | 2³ | Bilateral at third order: same axis as 2 and 4, deeper fractal depth |
+| 9 | 3² | Vertical at second order: same axis as 3, deeper fractal depth |
 | 10 | 2 × 5 | Bilateral × Radial: all faculties of both aspects |
-| 12 | 4 × 3 (or 2² × 3) | Full bilateral × Vertical: exhaustive structural grid |
+| 12 | 4 × 3 (or 2² × 3) | Same bilateral-vertical axes as 6; bilateral at second order |
 | 14 | 2 × 7 | Bilateral × Temporal: both aspects through full process |
 | 21 | 3 × 7 | Vertical × Temporal: all degrees through full process |
+| 24 | 8 × 3 (or 2³ × 3) | Same bilateral-vertical axes as 6 and 12; bilateral at third order |
 | 35 | 5 × 7 | Radial × Temporal: all faculties through full process |
 | 70 | 2 × 5 × 7 | Three axes combined: both aspects, all faculties, full process |
+| 144 | 12² (or 2⁴ × 3²) | Same bilateral-vertical axes as 6, 12, 24 — at maximum fractal depth: the city whose measurements ARE its nature |
 | 210 | 2 × 3 × 5 × 7 | All four axes: the complete numerical universe |
-| 144 | 12² | Structural grid squared: the city whose measurements ARE its nature |
 
-*These decompositions are preliminary. The claim is that composite numbers in the Word denote coordinates in the space these primes define — not that every biblical number has been correctly decomposed here. This is a research programme, not a completed dictionary.*
+*These decompositions are preliminary. The claim is that composite numbers in the Word denote coordinates in the space these primes define — not that every biblical number has been correctly decomposed here. Numbers sharing the same set of distinct prime factors (e.g., 6, 12, 24, 144) occupy the same coordinate and carry the same meaning at different fractal depths. This is a research programme, not a completed dictionary.*
 
 ### E. The Self-Transcendence Structure
 

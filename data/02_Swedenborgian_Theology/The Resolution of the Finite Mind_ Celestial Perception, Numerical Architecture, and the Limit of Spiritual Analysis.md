@@ -4,7 +4,7 @@
 
 ---
 
-> **Abstract.** This thesis demonstrates that the entire correspondential system — numbers, degrees, faculties, processes — is the spiritual mind's faithful but necessarily incomplete rendering of what the celestial mind perceives as undivided. The spiritual mind cannot perceive wholes; it must quantize. Every number in the Word is therefore not a property of reality itself but a property of the perceiver — a resolution setting of a finite mind encountering the One. The four foundational primes (2, 3, 5, 7) are shown to be irreducible dimensions of finite comprehension: two is the bilateral cut (love/wisdom, will/understanding), three is the vertical cut (celestial/spiritual/natural), five is the radial cut (the centre-to-surface gradient of the faculty system), and seven is the temporal cut (the developmental arc of regeneration with its structural hinge at the fourth position). This framework is validated by cross-referencing Swedenborg's numerology with the independently preserved Kephalaia substrate of the Ancient Word, which reveals five's meaning — the five essential faculties of spiritual perception — that Scripture alone does not disclose. The thesis then confronts the specific point at which Swedenborg's spiritual analysis encounters its ceiling: celestial angels who speak as the Lord, a phenomenon his unique-kind Christology cannot accommodate without positing displacement where the data show transparency. This breaking point reveals the proprium's final possession — the last doctrine the vessel will not release — and illuminates why the Ancient Word, the Kephalaia substrate, and Swedenborg's own system are all spiritual-degree renderings of a reality that can only be received, never analysed, at the celestial degree.
+> **Abstract.** This thesis demonstrates that the entire correspondential system — numbers, degrees, faculties, processes — is the spiritual mind's faithful but necessarily incomplete rendering of what the celestial mind perceives as undivided. The spiritual mind cannot perceive wholes; it must quantize. Every number in the Word is therefore not a property of reality itself but a property of the perceiver — a resolution setting of a finite mind encountering the One. The four foundational primes (2, 3, 5, 7) are shown to be irreducible dimensions of finite comprehension: two is the bilateral cut (love/wisdom, will/understanding), three is the vertical cut (celestial/spiritual/natural), five is the radial cut (the centre-to-surface gradient of the faculty system), and seven is the temporal cut (the developmental arc of regeneration as two structurally equivalent triads — preparation and bringing-forth — followed by rest, with the fourth position marking the return to the celestial degree at maximum intensity). This framework is validated by cross-referencing Swedenborg's numerology with the independently preserved Kephalaia substrate of the Ancient Word, which reveals five's meaning — the five essential faculties of spiritual perception — that Scripture alone does not disclose. The thesis then confronts the specific point at which Swedenborg's spiritual analysis encounters its ceiling: celestial angels who speak as the Lord, a phenomenon his unique-kind Christology cannot accommodate without positing displacement where the data show transparency. This breaking point reveals the proprium's final possession — the last doctrine the vessel will not release — and illuminates why the Ancient Word, the Kephalaia substrate, and Swedenborg's own system are all spiritual-degree renderings of a reality that can only be received, never analysed, at the celestial degree.
 
 > **Keywords.** celestial perception, spiritual mind, numerology, discrete degrees, correspondences, five-fold architecture, seven-fold process, Kephalaia substrate, Ancient Word, Swedenborg, primes, resolution, influx, transparency, proprium, Most Ancient Church, internal respiration
 
@@ -12,57 +12,67 @@
 
 ## Table of Contents
 
-- [1. Introduction](#1-introduction)
-- [2. Methodological Framework](#2-methodological-framework)
-  - [2.1 Correspondential Reading](#21-correspondential-reading)
-  - [2.2 The Celestial–Spiritual Distinction in Swedenborg's Cosmology](#22-the-celestialspiritual-distinction-in-swedenborgs-cosmology)
-  - [2.3 The Kephalaia Substrate as Independent Witness](#23-the-kephalaia-substrate-as-independent-witness)
-  - [2.4 The Principle of Resolution: Numbers as Properties of the Perceiver](#24-the-principle-of-resolution-numbers-as-properties-of-the-perceiver)
-- [3. The Celestial Perception: What the Most Ancient Church Knew Without Knowing](#3-the-celestial-perception-what-the-most-ancient-church-knew-without-knowing)
-  - [3.1 Internal Respiration and Direct Perception](#31-internal-respiration-and-direct-perception)
-  - [3.2 Lip-Speech and the Communication of Wholes](#32-lip-speech-and-the-communication-of-wholes)
-  - [3.3 Representative Language: The Mountain IS the Elevation](#33-representative-language-the-mountain-is-the-elevation)
-  - [3.4 The Avoidance of "Faith": Celestial Perception Cannot Name Itself](#34-the-avoidance-of-faith-celestial-perception-cannot-name-itself)
-- [4. The Spiritual Mind's Quantization: How the One Becomes Many](#4-the-spiritual-minds-quantization-how-the-one-becomes-many)
-  - [4.1 Why the Spiritual Mind Must Analyze](#41-why-the-spiritual-mind-must-analyze)
-  - [4.2 The First Cut: Two — The Bilateral Distinction](#42-the-first-cut-two--the-bilateral-distinction)
-  - [4.3 The Second Cut: Three — The Vertical Distinction](#43-the-second-cut-three--the-vertical-distinction)
-  - [4.4 The Four Primes as Irreducible Dimensions of Comprehension](#44-the-four-primes-as-irreducible-dimensions-of-comprehension)
-  - [4.5 The Infinite Subdivision: Where Discrete Meets Continuous](#45-the-infinite-subdivision-where-discrete-meets-continuous)
-- [5. Five: The Honest Gap](#5-five-the-honest-gap)
-  - [5.1 What Two, Three, and Seven Reveal in Scripture](#51-what-two-three-and-seven-reveal-in-scripture)
-  - [5.2 What Five Does Not Reveal in Scripture](#52-what-five-does-not-reveal-in-scripture)
-  - [5.3 What the Kephalaia Reveals: Five as Faculty](#53-what-the-kephalaia-reveals-five-as-faculty)
-  - [5.4 The Radial Architecture: From Mind to Consideration, From Bone to Skin](#54-the-radial-architecture-from-mind-to-consideration-from-bone-to-skin)
-  - [5.5 Implications: Swedenborg's "Much" and the Missing Evidence](#55-implications-swedenborgs-much-and-the-missing-evidence)
-- [6. Seven: The Developmental Arc](#6-seven-the-developmental-arc)
-  - [6.1 Chapter 32: The Operative Dimension](#61-chapter-32-the-operative-dimension)
-  - [6.2 Chapter 65: The Experiential Dimension](#62-chapter-65-the-experiential-dimension)
-  - [6.3 Genesis 1: The Fusion](#63-genesis-1-the-fusion)
-  - [6.4 The Fourth-Position Hinge: Where Preparation Becomes Building](#64-the-fourth-position-hinge-where-preparation-becomes-building)
-  - [6.5 Seven as Process, Not Sanctity](#65-seven-as-process-not-sanctity)
-- [7. The Four-Dimensional Coordinate System](#7-the-four-dimensional-coordinate-system)
-  - [7.1 Two as Bilateral, Three as Vertical, Five as Radial, Seven as Temporal](#71-two-as-bilateral-three-as-vertical-five-as-radial-seven-as-temporal)
-  - [7.2 Composite Numbers as Coordinates](#72-composite-numbers-as-coordinates)
-  - [7.3 The Return to One: Everything Derives from the Undivided](#73-the-return-to-one-everything-derives-from-the-undivided)
-- [8. Where Swedenborg Meets His Ceiling](#8-where-swedenborg-meets-his-ceiling)
-  - [8.1 The Warmth-Words: How the Spiritual Perceives the Celestial](#81-the-warmth-words-how-the-spiritual-perceives-the-celestial)
-  - [8.2 The Celestial Angels Who Speak As the Lord](#82-the-celestial-angels-who-speak-as-the-lord)
-  - [8.3 Transparency Is Not Displacement](#83-transparency-is-not-displacement)
-  - [8.4 The Christological Possession: Swedenborg's Proprium Holds the Last Doctrine](#84-the-christological-possession-swedenborgs-proprium-holds-the-last-doctrine)
-- [9. The Ancient Word as Spiritual-Degree System](#9-the-ancient-word-as-spiritual-degree-system)
-  - [9.1 Why the Kephalaia Substrate Is Already Spiritual, Not Celestial](#91-why-the-kephalaia-substrate-is-already-spiritual-not-celestial)
-  - [9.2 What a Celestial Word Would Look Like — And Why It Cannot Be Written](#92-what-a-celestial-word-would-look-like--and-why-it-cannot-be-written)
-  - [9.3 The Paradox: The Best Map of the Territory Is Still Not the Territory](#93-the-paradox-the-best-map-of-the-territory-is-still-not-the-territory)
-- [10. Discussion](#10-discussion)
-  - [10.1 What the Celestial Contributes: The Dissolution of Architecture](#101-what-the-celestial-contributes-the-dissolution-of-architecture)
-  - [10.2 What the Spiritual Contributes: The Architecture That Makes Teaching Possible](#102-what-the-spiritual-contributes-the-architecture-that-makes-teaching-possible)
-  - [10.3 Implications for the Correspondential Framework](#103-implications-for-the-correspondential-framework)
-  - [10.4 The Specific Problem: Why Numerology Cannot Explain Itself](#104-the-specific-problem-why-numerology-cannot-explain-itself)
-  - [10.5 Limitations and Lacunae](#105-limitations-and-lacunae)
-- [11. Conclusion: The Resolution of the Finite Mind](#11-conclusion-the-resolution-of-the-finite-mind)
-- [12. Appendix: The Four-Dimensional Numerical Coordinate System](#12-appendix-the-four-dimensional-numerical-coordinate-system)
-- [13. Works Cited](#13-works-cited)
+- [The Resolution of the Finite Mind: Celestial Perception, Numerical Architecture, and the Limit of Spiritual Analysis](#the-resolution-of-the-finite-mind-celestial-perception-numerical-architecture-and-the-limit-of-spiritual-analysis)
+  - [How the Spiritual Eye Creates Number and Distinction from What Is Actually One](#how-the-spiritual-eye-creates-number-and-distinction-from-what-is-actually-one)
+  - [Table of Contents](#table-of-contents)
+  - [1. Introduction](#1-introduction)
+  - [2. Methodological Framework](#2-methodological-framework)
+    - [2.1 Correspondential Reading](#21-correspondential-reading)
+    - [2.2 The Celestial–Spiritual Distinction in Swedenborg's Cosmology](#22-the-celestialspiritual-distinction-in-swedenborgs-cosmology)
+    - [2.3 The Kephalaia Substrate as Independent Witness](#23-the-kephalaia-substrate-as-independent-witness)
+    - [2.4 The Principle of Resolution: Numbers as Properties of the Perceiver](#24-the-principle-of-resolution-numbers-as-properties-of-the-perceiver)
+  - [3. The Celestial Perception: What the Most Ancient Church Knew Without Knowing](#3-the-celestial-perception-what-the-most-ancient-church-knew-without-knowing)
+    - [3.1 Internal Respiration and Direct Perception](#31-internal-respiration-and-direct-perception)
+    - [3.2 Lip-Speech and the Communication of Wholes](#32-lip-speech-and-the-communication-of-wholes)
+    - [3.3 Representative Language: The Mountain IS the Elevation](#33-representative-language-the-mountain-is-the-elevation)
+    - [3.4 The Avoidance of "Faith" — Celestial Perception Cannot Be Named](#34-the-avoidance-of-faith--celestial-perception-cannot-be-named)
+  - [4. The Spiritual Mind's Quantization: How the One Becomes Many](#4-the-spiritual-minds-quantization-how-the-one-becomes-many)
+    - [4.1 Why the Spiritual Mind Must Analyze](#41-why-the-spiritual-mind-must-analyze)
+    - [4.2 The First Cut: Two — The Bilateral Distinction](#42-the-first-cut-two--the-bilateral-distinction)
+    - [4.3 The Second Cut: Three — The Vertical Distinction](#43-the-second-cut-three--the-vertical-distinction)
+    - [4.4 The Four Primes as Irreducible Dimensions of Comprehension](#44-the-four-primes-as-irreducible-dimensions-of-comprehension)
+    - [4.5 The Infinite Subdivision: Where Discrete Meets Continuous](#45-the-infinite-subdivision-where-discrete-meets-continuous)
+  - [5. Five: The Honest Gap](#5-five-the-honest-gap)
+    - [5.1 What Two, Three, and Seven Reveal in Scripture](#51-what-two-three-and-seven-reveal-in-scripture)
+    - [5.2 What Five Does Not Reveal in Scripture](#52-what-five-does-not-reveal-in-scripture)
+    - [5.3 What the Kephalaia Reveals: Five as Faculty](#53-what-the-kephalaia-reveals-five-as-faculty)
+    - [5.4 The Radial Architecture: From Mind to Consideration, From Bone to Skin](#54-the-radial-architecture-from-mind-to-consideration-from-bone-to-skin)
+    - [5.5 Implications: Swedenborg's "Much" and the Missing Evidence](#55-implications-swedenborgs-much-and-the-missing-evidence)
+  - [6. Seven: The Developmental Arc](#6-seven-the-developmental-arc)
+    - [6.1 Chapter 32: The Operative Dimension](#61-chapter-32-the-operative-dimension)
+    - [6.2 Chapter 65: The Experiential Dimension](#62-chapter-65-the-experiential-dimension)
+    - [6.3 Genesis 1: The Fusion](#63-genesis-1-the-fusion)
+    - [6.4 The Fourth-Position Intensity: Where the Lord Brings Himself Forth](#64-the-fourth-position-intensity-where-the-lord-brings-himself-forth)
+    - [6.5 Seven as Process, Not Sanctity](#65-seven-as-process-not-sanctity)
+  - [7. The Four-Dimensional Coordinate System](#7-the-four-dimensional-coordinate-system)
+    - [7.1 Two as Bilateral, Three as Vertical, Five as Radial, Seven as Temporal](#71-two-as-bilateral-three-as-vertical-five-as-radial-seven-as-temporal)
+    - [7.2 Composite Numbers as Coordinates](#72-composite-numbers-as-coordinates)
+    - [7.3 The Return to One: Everything Derives from the Undivided](#73-the-return-to-one-everything-derives-from-the-undivided)
+  - [8. Where Swedenborg Meets His Ceiling](#8-where-swedenborg-meets-his-ceiling)
+    - [8.1 The Warmth-Words: How the Spiritual Perceives the Celestial](#81-the-warmth-words-how-the-spiritual-perceives-the-celestial)
+    - [8.2 The Celestial Angels Who Speak As the Lord](#82-the-celestial-angels-who-speak-as-the-lord)
+    - [8.3 Transparency Is Not Displacement](#83-transparency-is-not-displacement)
+    - [8.4 The Christological Possession: Swedenborg's Proprium Holds the Last Doctrine](#84-the-christological-possession-swedenborgs-proprium-holds-the-last-doctrine)
+  - [9. The Ancient Word as Spiritual-Degree System](#9-the-ancient-word-as-spiritual-degree-system)
+    - [9.1 Why the Kephalaia Substrate Is Already Spiritual, Not Celestial](#91-why-the-kephalaia-substrate-is-already-spiritual-not-celestial)
+    - [9.2 What a Celestial Word Would Look Like (And Why It Cannot Be Written)](#92-what-a-celestial-word-would-look-like-and-why-it-cannot-be-written)
+    - [9.3 The Paradox: The Best Map of the Territory Is Still Not the Territory](#93-the-paradox-the-best-map-of-the-territory-is-still-not-the-territory)
+  - [10. Discussion](#10-discussion)
+    - [10.1 What the Celestial Contributes: The Dissolution of Architecture](#101-what-the-celestial-contributes-the-dissolution-of-architecture)
+    - [10.2 What the Spiritual Contributes: The Architecture That Makes Teaching Possible](#102-what-the-spiritual-contributes-the-architecture-that-makes-teaching-possible)
+    - [10.3 Implications for the Correspondential Framework](#103-implications-for-the-correspondential-framework)
+    - [10.4 The Specific Problem: Why Numerology Cannot Explain Itself](#104-the-specific-problem-why-numerology-cannot-explain-itself)
+    - [10.5 Limitations and Lacunae](#105-limitations-and-lacunae)
+  - [11. Conclusion: The Resolution of the Finite Mind](#11-conclusion-the-resolution-of-the-finite-mind)
+  - [12. Appendix: The Four-Dimensional Numerical Coordinate System](#12-appendix-the-four-dimensional-numerical-coordinate-system)
+    - [A. The Four Prime Axes](#a-the-four-prime-axes)
+    - [B. Faculty-Tissue Correspondence (Radial Axis)](#b-faculty-tissue-correspondence-radial-axis)
+    - [C. Seven-Stage Process with Fourth-Position Intensity](#c-seven-stage-process-with-fourth-position-intensity)
+    - [D. Selected Composite Numbers as Coordinates](#d-selected-composite-numbers-as-coordinates)
+    - [E. The Self-Transcendence Structure](#e-the-self-transcendence-structure)
+  - [13. Works Cited](#13-works-cited)
+    - [Primary Sources](#primary-sources)
+    - [Internal Library Documents](#internal-library-documents)
 
 ---
 
@@ -74,7 +84,7 @@ And yet the system that describes the One is built entirely from distinctions. T
 
 The answer proposed in this thesis is that the cuts are not in reality. They are in the perceiver. The entire numerical architecture of the Word — two, three, five, seven, and every composite number derived from their multiplication — is the spiritual mind's rendering of what the celestial mind perceives without any rendering at all. Numbers are not properties of the Divine order; they are properties of the finite mind that encounters the Divine order and must decompose it into countable units in order to comprehend it. The spiritual mind cannot perceive wholes. It sees parts. It names the parts. It teaches the parts. And its teaching is faithful — extraordinarily, verifiably faithful — to the reality it describes. But it is a description in parts of something that has no parts.
 
-This thesis is occasioned by a convergence of three lines of investigation within the Divine Bricolage framework. The first is the recovery of the Ancient Word's correspondential substrate from the Kephalaia of the Teacher, documented in *The Ancient Word Recovered*. That thesis demonstrated the structural identity of the Kephalaia substrate with Swedenborg's correspondential system — five-fold faculty architectures, body-cosmos mappings, opposite-sense mirroring, and a regeneration pedagogy that matches Swedenborg's exegesis of Genesis point by point. The second is the demonstration, in *Three Witnesses to One Architecture*, that Genesis 1–11 compresses the same seven-fold regeneration sequence that the Kephalaia presents across two independent chapters (32 and 65), with a structural hinge at the fourth position confirmed by all three witnesses. The third is the analysis of Swedenborg's own numerological system in *The Spiritual Numerology of the Word*, which identifies four foundational numbers (2, 3, 5, 7) as the root of all numerical signification — but leaves one of the four, the number five, inadequately explained by its Scriptural evidence alone.
+This thesis is occasioned by a convergence of three lines of investigation within the Divine Bricolage framework. The first is the recovery of the Ancient Word's correspondential substrate from the Kephalaia of the Teacher, documented in *The Ancient Word Recovered*. That thesis demonstrated the structural identity of the Kephalaia substrate with Swedenborg's correspondential system — five-fold faculty architectures, body-cosmos mappings, opposite-sense mirroring, and a regeneration pedagogy that matches Swedenborg's exegesis of Genesis point by point. The second is the demonstration, in *Three Witnesses to One Architecture*, that Genesis 1–11 compresses the same seven-fold regeneration sequence that the Kephalaia presents across two independent chapters (32 and 65), with the same two-triad structure and fourth-position intensity confirmed by all three witnesses. The third is the analysis of Swedenborg's own numerological system in *The Spiritual Numerology of the Word*, which identifies four foundational numbers (2, 3, 5, 7) as the root of all numerical signification — but leaves one of the four, the number five, inadequately explained by its Scriptural evidence alone.
 
 The present thesis synthesises these three lines of investigation and presses them to their logical conclusion. If the Kephalaia substrate reveals what five means — the five essential faculties of spiritual perception (mind, thought, insight, counsel, consideration), bound into five tissues (bone, sinew, vein, flesh, skin), arranged in a radial gradient from the structural core to the outermost surface — and if this meaning was not derivable from Scripture, then the Ancient Word preserves knowledge that the Word of the spiritual church does not preserve. The implication is not that Scripture is deficient but that it is a compression: a spiritual-degree rendering of material that, in the Ancient Word, retains greater structural resolution. This leads to the deeper question: if the Ancient Word itself is a spiritual-degree rendering — as its systematic five-fold and seven-fold enumeration necessarily implies — then what does the celestial degree look like? What does the mind perceive when it perceives without counting?
 
@@ -208,7 +218,7 @@ But the grid of two and three does not exhaust the spiritual mind's analytical c
 
 The third prime that the spiritual mind requires is five. Five indexes what this thesis calls the radial dimension of comprehension: the structure of a faculty considered from its centre to its periphery. When the spiritual mind examines any capacity of the soul — any power of reception, any organ of consciousness — it perceives an architecture that radiates from an innermost core to an outermost surface, with intermediate layers between. This architecture requires five positions to capture: the innermost (source), the innermost-intermediate, the central, the outermost-intermediate, and the outermost (surface). The evidence for this claim is not derivable from Scripture alone and will be presented in §5, drawing on the Kephalaia substrate.
 
-The fourth prime is seven. Seven indexes what this thesis calls the temporal dimension of comprehension: the structure of a process considered from its beginning to its completion. When the spiritual mind examines any developmental arc — regeneration, creation, transformation — it perceives a structure that begins with preparation, reaches a hinge point, and then transitions into building and completion. This structure requires seven positions to capture: three preparatory stages, a pivotal fourth stage, and three building/completion stages. The evidence for this claim will be presented in §6, drawing on the Kephalaia's Chapter 32 and Chapter 65 and on Genesis 1.
+The fourth prime is seven. Seven indexes what this thesis calls the temporal dimension of comprehension: the structure of a process considered from its beginning to its completion. When the spiritual mind examines any developmental arc — regeneration, creation, transformation — it perceives a structure of two triads followed by rest: the Lord first prepares and orders the human in all three degrees (positions 1–3), then brings Himself forth in the human in all three degrees (positions 4–6), then rests in the human, bringing Himself forth in all things (position 7). Seven = 3 + 3 + 1. Position 4 — the beginning of the second triad — marks the return to the celestial degree, where the Lord begins bringing Himself forth in what He prepared. This is the point of maximum intensity, because the celestial is where everything has its root. The evidence for this claim will be presented in §6, drawing on the Kephalaia's Chapter 32 and Chapter 65 and on Genesis 1.
 
 Why these four primes and not others? The question has a precise answer. The four primes — 2, 3, 5, 7 — correspond to four irreducible geometric dimensions of comprehension:
 
@@ -217,7 +227,7 @@ Why these four primes and not others? The question has a precise answer. The fou
 | 2 | Bilateral | Left–Right | Love vs. Wisdom; Good vs. Truth |
 | 3 | Vertical | Top–Bottom | Celestial → Spiritual → Natural |
 | 5 | Radial | Centre–Surface | Core faculty → Outermost expression |
-| 7 | Temporal | Beginning–End | Preparatory arc → Hinge → Building arc |
+| 7 | Temporal | Beginning–End | Preparation (1–3) → Bringing-Forth (4–6) → Rest (7) |
 
 Each dimension is *irreducible* — it cannot be derived from the others. Two cannot generate three; the bilateral cut and the vertical cut are independent operations. Three cannot generate five; the vertical gradient and the radial gradient are distinct structures. Five cannot generate seven; the architecture of a faculty and the architecture of a process are different objects of analysis. Each prime captures something that no combination of the other primes can capture.
 
@@ -247,7 +257,7 @@ Two pervades the biblical text as the bilateral structure of love and wisdom, go
 
 Three pervades Scripture as the vertical architecture of discrete degrees. The three heavens to which Paul was caught up (2 Corinthians 12:2); the three levels of the ark (Genesis 6:16); the three stories of Solomon's temple; the triadic formulas of blessing (Numbers 6:24–26); the three days in the belly of the fish; the three denials of Peter. Scripture teaches three unambiguously: there are discrete levels of reality, and the number three names their structure. Swedenborg's derivation of three as the number of fullness, completeness, and the whole arc of degree-structure is self-evidently supported by the text.
 
-Seven likewise dominates Scripture as the temporal architecture of process. The seven days of creation; the seven seals, trumpets, and bowls of Revelation; the sevenfold sprinkling of blood in Levitical sacrifice; the seven churches of Asia; the sabbatical logic that structures Israelite time. Seven as comprehensive process — the complete arc from beginning through hinge to completion — is readable directly from the text by any serious student of biblical numerology.
+Seven likewise dominates Scripture as the temporal architecture of process. The seven days of creation; the seven seals, trumpets, and bowls of Revelation; the sevenfold sprinkling of blood in Levitical sacrifice; the seven churches of Asia; the sabbatical logic that structures Israelite time. Seven as comprehensive process — the complete developmental arc of two structurally equivalent triads followed by rest — is readable directly from the text by any serious student of biblical numerology.
 
 For these three primes, Swedenborg's derivation is adequate. The Scriptural evidence is sufficient to establish the dimension that each number indexes. A reader who possesses only the Bible and Swedenborg's correspondential key can arrive at the correct understanding of two, three, and seven without any reference to external witnesses.
 
@@ -303,7 +313,7 @@ The Kephalaia's Chapter 32, "The Seven Works of the Living Spirit," presents sev
 
 The first work raises the celestial state of innocence out of the combat of spiritual temptation — the extraction of the first light from darkness. The second exposes and renders powerless the self-love that had turned against divine order throughout every external form and state of the natural mind. The third subjugates, confines, and penetrates the inmost root-principles of spiritual death. The fourth forms the celestial and spiritual vessels that carry divine wisdom and truth through all the successive states of the mind. The fifth calls forth the five essential faculties of spiritual perception and distributes them throughout the ordered arrangement of the regenerating mind. The sixth sends forth spiritual agencies and truths vivified by good, so that they guard and complete the boundary of the spiritual order on every side. The seventh ordains governing goods and ministering truths in the completed celestial human form.
 
-The structure is not arbitrary. The first three works are purgative: they clear, expose, and subjugate. The last three are formative: they activate, guard, and complete. Between them stands the fourth — the hinge — which builds the vessels that make the formative work possible. The developmental arc has a clear directional logic: you cannot build until you have cleared the ground; you cannot activate faculties until you have formed vessels to hold them; you cannot guard the completed structure until it exists to be guarded. Seven is the minimum number of stages required to capture this logic without collapsing any essential distinction.
+The structure is not arbitrary. Positions 1–3 constitute the first triad: the Lord prepares and orders the human in all three degrees — clearing the celestial, exposing and rendering powerless at the spiritual, subjugating at the natural. Positions 4–6 constitute the second triad: the Lord brings Himself forth in the human in all three degrees — building vessels at the celestial (position 4), distributing the five faculties at the spiritual (position 5), guarding and completing the boundary at the natural (position 6). Position 7 is the rest: the Lord rests in the completed celestial human form, bringing Himself forth in all things. Seven = 3 + 3 + 1. The two triads are structurally equivalent — both traverse the same three degrees — but they differ in mode: the first prepares, the second fills. Position 4 is the most intense because it returns to the celestial degree, where the Lord begins bringing Himself forth in what He prepared. The celestial is where everything has its root; when the Lord acts there, the amplitude is maximal. The developmental arc has a clear directional logic: you cannot fill until you have prepared; you cannot distribute faculties until you have formed vessels to hold them; you cannot guard the completed structure until it exists to be guarded. Seven is the minimum number of stages required to capture this logic without collapsing any essential distinction.
 
 ### 6.2 Chapter 65: The Experiential Dimension
 
@@ -311,7 +321,7 @@ Chapter 65 opens the same seven-stage sequence from the inside — what the mind
 
 The first good: wisdom poured into the understanding, opening the intellectual sight of all who are in the human state. The first evil: falsity filling the entire interior life, the understanding of the soul filling with obscurity. The second good: heavenly tranquillity and peace replacing the anxiety and dread that filled the will during the entire state of darkness. The second evil: anxiety and trembling taking hold. The third good: those in spiritual torpor arise and become conscious; the truths that served as guardians during obscurity are released from vigilance. The third evil: affections and thoughts rebel against Divine order.
 
-The fourth good: Divine Truth nourishes, gives power, interior perception of good, and perception of truth — to all perceptions, all natural knowledges, every form of understanding, the first openings of spiritual thought, and the most general natural truths upon the whole of the natural mind. The fourth evil: spiritual torpor, insensibility, unconsciousness — "like those who are spiritually dead." The contrast at the hinge position is the starkest in the sequence. Where the fourth good gives power to every faculty, the fourth evil delivers total spiritual death. This is the pivot on which regeneration turns: either the mind is nourished into active power, or it falls into the sleep from which there is no waking.
+The fourth good: Divine Truth nourishes, gives power, interior perception of good, and perception of truth — to all perceptions, all natural knowledges, every form of understanding, the first openings of spiritual thought, and the most general natural truths upon the whole of the natural mind. The fourth evil: spiritual torpor, insensibility, unconsciousness — “like those who are spiritually dead.” The contrast at the fourth position is the starkest in the sequence. Where the fourth good gives power to every faculty, the fourth evil delivers total spiritual death. This is the return to the celestial degree in the second triad — the point where the Lord begins bringing Himself forth in what He prepared. The celestial degree is where everything has its root: when the Lord brings Himself forth there, the nourishment is maximal; when the proprium occupies that position instead, the death is total.
 
 The fifth good: evil lusts creeping in the lowest parts of the mind and predatory selfish affections flee into concealment. The sixth good: truth dissolves the persuasions of falsity. The seventh good: Divine Truth displays the sign of the glory of the heavenly states of wisdom — the celestial form made visible. The seventh evil: the state of spiritual darkness displays the sign of Evil itself, its origin.
 
@@ -335,25 +345,25 @@ The convergence between Genesis 1, Chapter 32, and Chapter 65 is point-for-point
 
 Three witnesses — separated by centuries, by cultures, by languages — testifying to one architecture. The convergence cannot be explained by literary borrowing, because the Kephalaia documents (third-century Coptic, drawing on an Iranian substrate) and Genesis 1 (Hebrew, reaching final form in the first millennium BCE) have no plausible line of direct textual transmission. They preserve the same seven-fold structure because they preserve the same teaching — the Ancient Word's map of the regeneration process.
 
-### 6.4 The Fourth-Position Hinge: Where Preparation Becomes Building
+### 6.4 The Fourth-Position Intensity: Where the Lord Brings Himself Forth
 
-The most structurally precise feature of the convergence is the hinge at the fourth position. In all three witnesses, the fourth stage marks the transition from one mode of operation to another:
+The most structurally precise feature of the convergence is the intensity at the fourth position. In all three witnesses, the fourth stage marks the beginning of the second triad — the point where the mode of operation shifts from preparation to the Lord’s bringing-forth:
 
-In Chapter 32, the first three works clear, expose, and subjugate; the fourth work *builds* — forming the permanent vessels through which wisdom and truth can flow. In Chapter 65, the first three goods open perception, bring peace, and awaken consciousness; the fourth good *nourishes and empowers* — transforming passive reception into active spiritual capacity. In Genesis 1, Days 1–3 work upon the external or natural mind; Day 4 establishes the sun, moon, and stars — permanent luminaries in the interior mind, marking the transition from external reformation to internal regeneration. Swedenborg notes this explicitly: Days 1–3 illuminate the external mind; Days 4–7 illuminate the internal mind (*Arcana Coelestia* § 30).
+In Chapter 32, positions 1–3 clear, expose, and subjugate; position 4 *builds* — forming the permanent vessels through which wisdom and truth can flow. In Chapter 65, positions 1–3 open perception, bring peace, and awaken consciousness; position 4 *nourishes and empowers* — transforming passive reception into active spiritual capacity. In Genesis 1, Days 1–3 work upon the external or natural mind; Day 4 establishes the sun, moon, and stars — permanent luminaries in the interior mind, marking the transition from external reformation to internal regeneration. Swedenborg notes this explicitly: Days 1–3 illuminate the external mind; Days 4–7 illuminate the internal mind (*Arcana Coelestia* § 30).
 
-That all three witnesses independently place the structural hinge at the fourth position is significant beyond coincidence. A seven-fold structure could be divided in many ways: 3+4, 2+5, 1+6. That all three divide at the same point — three preparatory stages followed by four building stages (or, more precisely, a pivotal fourth stage that initiates the building phase) — indicates that the division reflects the architecture of the teaching itself, not an arbitrary editorial choice.
+That all three witnesses independently place the maximum structural intensity at the fourth position is significant beyond coincidence. The reason is architectural: position 4 returns to the celestial degree. The first triad (1–3) traverses the three degrees from celestial to natural, preparing and ordering. The second triad (4–6) traverses the same three degrees again, but now the Lord brings Himself forth in what He prepared. Position 4 is the celestial degree in active mode — the degree where love operates at maximum amplitude. This is why the fourth position produces the starkest contrasts: the maximum good (nourishment to every faculty) and the maximum corruption (total spiritual death when the proprium occupies the celestial seat). A seven-fold structure could be divided in many ways: 3+4, 2+5, 1+6. That all three witnesses place the structural inflection at the same point — three preparatory stages followed by three bringing-forth stages and rest — indicates that the division reflects the architecture of regeneration itself, not an editorial choice.
 
-The hinge exists because regeneration itself has a hinge. There is a qualitative transition between external reformation (correcting behaviour, acquiring knowledge, subjugating evil) and internal regeneration (forming new interior vessels, activating spiritual faculties, being reconstituted in the divine image). The transition is not gradual; it is a discrete shift — a moment when what was being *done to* the mind becomes something the mind now *has the capacity to do*. Three stages prepare; the fourth turns the corner; three stages build. Seven captures this architecture at the minimum resolution required to preserve the hinge.
+The fourth-position intensity exists because regeneration itself has this architecture. There is a qualitative shift between the Lord preparing and ordering the human (external reformation: correcting behaviour, acquiring knowledge, subjugating evil) and the Lord bringing Himself forth in the human (internal regeneration: forming new interior vessels, activating spiritual faculties, being reconstituted in the divine image). The shift is not gradual; it is a discrete return to the celestial degree — the root of everything — now operating in bringing-forth mode rather than preparatory mode. Three stages prepare; three stages bring forth; one stage completes in rest. Seven captures this architecture at the minimum resolution required to preserve the two-triad structure.
 
 ### 6.5 Seven as Process, Not Sanctity
 
 Swedenborg assigns to seven the meaning "holy" or "that which is inviolable" (*Arcana Coelestia* §§ 395, 433, 716, 881). This is not wrong — regeneration, when it reaches completion, is indeed holy. But "holy" describes the quality of the completed process, not the structure of the process itself. It is like calling a symphony "beautiful" — true, but it tells you nothing about sonata form.
 
-What the Kephalaia and Genesis 1 reveal is that seven indexes the temporal dimension of comprehension — the minimum number of stages required to capture a complete developmental arc. The arc has three phases: preparation (positions 1–3), transition (position 4), and building/completion (positions 5–7). The number seven does not mean "holy" in the way that two means "bilateral" or three means "vertical." Seven means *process* — the complete developmental arc from initial rescue through hinge to final securing.
+What the Kephalaia and Genesis 1 reveal is that seven indexes the temporal dimension of comprehension — the minimum number of stages required to capture a complete developmental arc. The arc has the structure of two triads followed by rest: the Lord prepares and orders the human in all three degrees (positions 1–3), then brings Himself forth in the human in all three degrees (positions 4–6), then rests in the human, bringing Himself forth in all things (position 7). Seven = 3 + 3 + 1. The number seven does not mean “holy” in the way that two means “bilateral” or three means “vertical.” Seven means *process* — the complete developmental arc of preparation, bringing-forth, and rest.
 
 The "holiness" of seven is therefore a secondary property. Seven is holy because *completion through process* is holy — because a developmental arc that reaches its end participates in the Lord's own creative and regenerative work. The holiness is in what seven describes, not in seven itself. This distinction matters because it transforms the interpretation of every seven in the Word. The seven days of creation are not "holy" as a liturgical number; they are holy because they narrate the complete arc of a real process — regeneration — whose completion IS holiness. The seven seals of Revelation are not arbitrary mystical markers of divine authority; they are the seven stages of an apocalyptic process whose structure mirrors the structure of all process.
 
-This is the temporal dimension of comprehension: the spiritual mind, when it perceives a complete developmental arc, requires seven positions to capture its structure — three preparatory, one pivotal, three building. Fewer than seven loses the hinge; more than seven subdivides what is already captured. Seven is the minimum temporal resolution of the spiritual mind.
+This is the temporal dimension of comprehension: the spiritual mind, when it perceives a complete developmental arc, requires seven positions to capture its structure — three preparatory, three bringing-forth, one rest. Fewer than seven collapses the two-triad structure; more than seven subdivides what is already captured. Seven is the minimum temporal resolution of the spiritual mind.
 
 ---
 
@@ -368,7 +378,7 @@ The four primes, taken together, constitute a four-dimensional coordinate system
 | 2 | Bilateral (Left–Right) | Love vs. Wisdom; Good vs. Truth | Horizontal bisection |
 | 3 | Vertical (Top–Bottom) | Celestial → Spiritual → Natural | Vertical trisection |
 | 5 | Radial (Centre–Surface) | Mind → Thought → Insight → Counsel → Consideration | Concentric layering |
-| 7 | Temporal (Beginning–End) | Preparation → Hinge → Building → Completion | Sequential staging |
+| 7 | Temporal (Beginning–End) | Preparation (1–3) → Bringing-Forth (4–6) → Rest (7) | Sequential staging |
 
 The axes are independent. The bilateral cut (two) does not determine the vertical cut (three); knowing that love and wisdom are distinct does not tell you that there are three degrees. The vertical cut does not determine the radial cut (five); knowing that there are celestial, spiritual, and natural degrees does not tell you that each faculty has five layers from core to surface. The radial cut does not determine the temporal cut (seven); knowing the five layers of a faculty does not tell you that regeneration proceeds in seven stages. Each dimension adds information that the others cannot supply.
 
@@ -474,7 +484,7 @@ The Ancient Word is not a celestial artifact recorded at the celestial degree. I
 
 The five-fold faculty architecture is not how the celestial mind experiences its own capacity. The celestial mind experiences its capacity as one — a single, seamless, radially organised reception of the Divine, without the five cuts that produce mind, thought, insight, counsel, and consideration as five named layers. The five names are the spiritual mind's analysis of the celestial mind's content. They are accurate — the radial gradient is real, the five positions capture real articulations — but the act of naming them is already the act of stepping outside the perception.
 
-Similarly, the seven-fold developmental arc is not how regeneration is experienced at the celestial degree. At the celestial degree, regeneration is experienced as a single continuous transformation — a seamless passage from darkness to light, from self to Lord, from resistance to transparency. The seven stages are the spiritual mind's segmentation of this continuity into teachable units. Again, the stages are real — the hinge at position four is a genuine structural feature of the process — but the act of segmenting is a spiritual, not a celestial, act.
+Similarly, the seven-fold developmental arc is not how regeneration is experienced at the celestial degree. At the celestial degree, regeneration is experienced as a single continuous transformation — a seamless passage from darkness to light, from self to Lord, from resistance to transparency. The seven stages are the spiritual mind’s segmentation of this continuity into teachable units. Again, the stages are real — the fourth-position intensity where the Lord brings Himself forth at the celestial degree is a genuine structural feature of the process — but the act of segmenting is a spiritual, not a celestial, act.
 
 ### 9.2 What a Celestial Word Would Look Like (And Why It Cannot Be Written)
 
@@ -496,7 +506,7 @@ The Ancient Word, as preserved in the Kephalaia substrate, is the best map of th
 
 But the best map of the territory is still not the territory.
 
-The map uses numbers. The territory does not. The map draws five cuts through the radial gradient of consciousness. The territory has a radial gradient but no cuts. The map identifies seven stages of regeneration with a hinge at position four. The territory has a developmental arc with a structural transition — but the arc is continuous, and the transition is a gradient, not a boundary. The map distinguishes love from wisdom, good from truth, will from understanding. The territory is the undivided One that the map is mapping.
+The map uses numbers. The territory does not. The map draws five cuts through the radial gradient of consciousness. The territory has a radial gradient but no cuts. The map identifies seven stages of regeneration with maximum intensity at position four. The territory has a developmental arc with a structural transition — but the arc is continuous, and the transition is a gradient, not a boundary. The map distinguishes love from wisdom, good from truth, will from understanding. The territory is the undivided One that the map is mapping.
 
 This is not a defect of the map. A map that reproduced the territory at full resolution would not be a map; it would be the territory itself. The map's function is precisely to abstract — to select the minimum set of features required for navigation and to present them in a form that the navigator's finite mind can process. The four-dimensional coordinate system of this thesis is the most explicit statement of the abstraction: four prime axes, generating a grid of composites, providing coordinates for every position in the spiritual landscape. It is a magnificent map. It is exactly the map that the spiritual mind needs. And it is still a map.
 
@@ -568,11 +578,11 @@ Finally, the thesis has drawn primarily on Swedenborg and the Kephalaia as its t
 
 ## 11. Conclusion: The Resolution of the Finite Mind
 
-The numerical system of the Word is the spiritual mind's rendering of a reality that is, in itself, without number. The four foundational primes — two, three, five, and seven — are not properties of reality but irreducible dimensions of comprehension: the minimum cuts that a finite mind must make to receive the infinite in structured form. Two indexes the bilateral distinction between love and wisdom. Three indexes the vertical gradient from celestial through spiritual to natural. Five indexes the radial architecture of faculty from centre to surface. Seven indexes the temporal arc of developmental process from preparation through hinge to completion. Composite numbers are coordinates in the four-dimensional grid these primes define. And everything — every prime, every composite, every coordinate — derives from One.
+The numerical system of the Word is the spiritual mind's rendering of a reality that is, in itself, without number. The four foundational primes — two, three, five, and seven — are not properties of reality but irreducible dimensions of comprehension: the minimum cuts that a finite mind must make to receive the infinite in structured form. Two indexes the bilateral distinction between love and wisdom. Three indexes the vertical gradient from celestial through spiritual to natural. Five indexes the radial architecture of faculty from centre to surface. Seven indexes the temporal arc of developmental process — two structurally equivalent triads of preparation and bringing-forth, followed by rest. Composite numbers are coordinates in the four-dimensional grid these primes define. And everything — every prime, every composite, every coordinate — derives from One.
 
 The celestial mind perceives this One directly, without cuts. The Most Ancient Church, breathing with the rhythm of influx rather than the demands of locomotion, communicating through facial wholes rather than verbal sequences, perceiving the mountain as the elevation rather than as a thing that symbolises elevation — this was the mode of consciousness from which the numerical system is unnecessary, because the reality it maps is present without mediation. The celestial angel who speaks as the Lord is the living demonstration of this transparency: the selfhood so perfectly aligned with what flows through it that no distinction between vessel and content is perceptible.
 
-The Ancient Word is the teaching that emerged when this celestial perception began to fade — the spiritual mind's first and most faithful rendering of what the celestial mind perceived directly. It is already spiritual, not celestial: it analyses, it names, it enumerates, it maps. Its five-fold faculty architecture and seven-fold developmental arc are acts of cutting — acts of the spiritual mind performing its characteristic operation upon celestial content. But the cuts are faithful. The Kephalaia substrate, preserving this Ancient Word at a higher structural resolution than the Hebrew scriptures, reveals the full architecture that Scripture compresses into traces — the five ascending intellectual qualities that Swedenborg could only register as "much," the seven-stage process with its fourth-position hinge that Swedenborg correctly identified as "holy" but could not structurally unpack from Scripture alone.
+The Ancient Word is the teaching that emerged when this celestial perception began to fade — the spiritual mind's first and most faithful rendering of what the celestial mind perceived directly. It is already spiritual, not celestial: it analyses, it names, it enumerates, it maps. Its five-fold faculty architecture and seven-fold developmental arc are acts of cutting — acts of the spiritual mind performing its characteristic operation upon celestial content. But the cuts are faithful. The Kephalaia substrate, preserving this Ancient Word at a higher structural resolution than the Hebrew scriptures, reveals the full architecture that Scripture compresses into traces — the five ascending intellectual qualities that Swedenborg could only register as "much," the seven-stage process with its fourth-position intensity that Swedenborg correctly identified as "holy" but could not structurally unpack from Scripture alone.
 
 Swedenborg's own encounter with the celestial — his observation of angels who speak as the Lord, his warmth-words at the boundary of spiritual resolution, his faithful reportage of a mode of consciousness he could perceive but could not fully enter — reveals both the power and the limit of the spiritual mind. The power: a systematic theology of extraordinary precision, a correspondential science that organises data across independent traditions and centuries, a numerical architecture that captures the spiritual landscape in four irreducible dimensions. The limit: the proprium that holds the last doctrine — the unique-kind Christology that forces the displacement interpretation where the transparency interpretation would complete the system. The angel who speaks as the Lord is not displaced; the angel is fulfilled. Transparency is not vacancy but perfection.
 
@@ -591,7 +601,7 @@ The prism is the spiritual mind. The spectrum is the numerical system. The white
 | **2** | Bilateral | Love / Wisdom, Will / Understanding, Good / Truth | First cut: unity perceived as two complementary aspects |
 | **3** | Vertical | Celestial / Spiritual / Natural (discrete degrees) | Second cut: each aspect stratifies into three levels |
 | **5** | Radial | Mind / Thought / Insight / Counsel / Consideration (faculty gradient) | Third cut: each level contains five concentric faculties |
-| **7** | Temporal | Preparation (3) → Hinge (1) → Completion (3) (developmental arc) | Fourth cut: faculties unfold through a seven-stage process |
+| **7** | Temporal | Preparation (1–3) → Bringing-Forth (4–6) → Rest (7) (developmental arc) | Fourth cut: faculties unfold through a seven-stage process |
 
 ### B. Faculty-Tissue Correspondence (Radial Axis)
 
@@ -605,7 +615,7 @@ The prism is the spiritual mind. The spectrum is the numerical system. The white
 
 *Regeneration proceeds from surface to core (skin→bone): external consideration receives teaching first, deepest mind transformed last. Fall proceeds from periphery inward: skin hardens first, bone corrupted last.*
 
-### C. Seven-Stage Process with Fourth-Position Hinge
+### C. Seven-Stage Process with Fourth-Position Intensity
 
 | Position | Kephalaia Ch. 32 (Operative) | Kephalaia Ch. 65 (Experiential) | Genesis 1 (Fused) |
 |----------|------------------------------|----------------------------------|---------------------|
@@ -617,7 +627,7 @@ The prism is the spiritual mind. The spectrum is the numerical system. The white
 | 6 | Faith operating through love | Love / Hate | Land animals and humanity |
 | 7 | Whole soul and mind | Lightmindedness / Gravity | Rest (completion of process) |
 
-*In all three witnesses, positions 1–3 are preparatory/purgative, position 4 is the hinge where the transition from external to internal occurs, and positions 5–7 are building/formative.*
+*In all three witnesses, positions 1–3 constitute the first triad (the Lord prepares and orders the human in all three degrees), position 4 begins the second triad (the Lord brings Himself forth, returning to the celestial degree at maximum intensity), positions 5–6 complete the bringing-forth at the spiritual and natural degrees, and position 7 is rest.*
 
 ### D. Selected Composite Numbers as Coordinates
 
@@ -647,7 +657,7 @@ THREE (celestial/spiritual/natural)
   ↓ Third cut (radial)
 FIVE (mind/thought/insight/counsel/consideration)
   ↓ Fourth cut (temporal)
-SEVEN (preparation → hinge → completion)
+SEVEN (preparation (1–3) → bringing-forth (4–6) → rest (7))
   ↓ Infinite subdivision
 ∞ → approaches continuous → returns to ONE
 ```

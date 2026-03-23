@@ -1290,6 +1290,51 @@ The findings of the first tier are not negated but *completed* by the second tie
 
 ---
 
+## Deep Research Projects
+
+### Structure
+
+Deep research projects live in `research/<project-name>/` and follow this structure:
+
+```
+research/
+└── <project-name>/
+    ├── plan.md          # Detailed research plan: question, phases, threads, proposed structure
+    ├── context.md       # Everything needed from internal library reading — distilled, organized by topic
+    └── store/           # Individual source documentation from external research
+        ├── source_001.md   # One file per external source: URL, date, key findings, quotes
+        ├── source_002.md
+        └── ...
+```
+
+### Process
+
+1. **Phase 1: Internal Library Research.** Read every relevant document in `data/` from beginning to end. No agents. No summaries. Read the actual text line by line. Document findings in `context.md` organized by topic, not by document. This phase is complete when there is nothing left in the library that touches the subject.
+
+2. **Phase 2: External Web Research.** Follow the research threads identified in `plan.md`. For each external source:
+   - Search the web for the specific topic
+   - Read the source thoroughly
+   - Create a file in `store/` documenting: URL, date accessed, key findings, relevant quotes, how it connects to the thesis
+   - Follow leads — when something unexpected surfaces, pursue it
+   - Do follow-up searches based on what you find
+
+3. **Phase 3: Synthesis and Writing.** Write the thesis from what you actually found, not from what you expected to find. The outline in `plan.md` is a starting point, not a constraint. If the research changes the thesis, the thesis changes.
+
+### Rules
+
+- **Internal library: read yourself.** For documents in `data/`, read them yourself from beginning to end. No agents. No summaries. You need understanding, not information.
+- **External web research: use agents for broad exploration.** Deploy agents to search broadly across multiple threads simultaneously. Then read in depth yourself only the sources that emerge as significant. Agents find leads; you follow the leads that matter.
+- **Download PDFs to `assets/`.** When you find a quality PDF source, download it to the project's `assets/` folder and read it directly using the Read tool with page ranges. This gives you the actual text, not web-fetch summaries.
+- **Never report back with claims before finishing the reading.** Complete the research phase, then report.
+- **Document everything.** Every external source gets its own file in `store/`. Every internal finding goes in `context.md`.
+- **Source references in context.md.** Every claim in the context file must trace back to a specific document in `data/` with folder path and section reference. Context describes what you know; sources prove where you learned it.
+- **Follow the data.** If the research leads somewhere unexpected, follow it. The plan serves the research, not the other way around.
+- **Don't constrain the plan to what you already know.** The point of deep research is to discover what ISN'T in the library. Leave room for broad exploration, unexpected leads, and threads you can't predict.
+- **Quality sources.** Primary over secondary. If a lesser source mentions something interesting, find the primary source behind it. Academic sources for historical claims. First-person accounts for experiential claims.
+- **Be honest about what you know and don't know.** If you haven't read it, say so. If you're speculating, say so.
+
+---
+
 ## Key References
 
 ### Primary Theological Sources

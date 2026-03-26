@@ -53,3 +53,23 @@ Either way:
 But intellectual honesty requires acknowledging the debate. The thesis should present both possibilities and note that the providential pattern (timing, convergence with other discoveries, arrival of interpretive tools) holds under either scenario.
 
 **Important note:** Pachomius himself died c. 348 CE — the same year as the latest dated cartonnage receipt. This is a striking coincidence that neither theory fully explains.
+
+## The Library's Position (Stronger Than Either External Theory)
+
+The library's `05_Gnostic_Analysis/The Dynastic Archive.md` and `05_Gnostic_Analysis/The Living Library.md` demonstrate that the NHL is the family archive of the Jesus movement — curated by a community possessing the correspondential key. Evidence:
+
+- 8.5:1 ratio of Jamesian to Pauline theological markers in the collection
+- Gospel of Philip explicitly theorizes correspondence: "Truth did not come into the world naked, but it came in types and images"
+- Apocryphon of John cites "the book of Zoroaster" as its source for the body-creation passage
+- Six texts announce their own correspondential method
+- Teachings of Silvanus (non-Gnostic) explicitly uses the word "correspondence" — proving the system predates Gnosticism
+
+Neither Goodacre, Denzey Lewis, nor Lundhaug can assess this because none of them possess the correspondential key. The external debate (Pachomian vs. grave goods) concerns the BURIAL CIRCUMSTANCES. The library's argument concerns the CONTENT — which is demonstrably Jamesian, correspondential, and coherent as an archive regardless of how it ended up in the ground.
+
+The cartonnage links the codex production to Pachomian infrastructure. The content links the text selection to Jamesian custody. These are not competing claims — they're claims about different aspects of the same collection. The monks may have produced the physical codices while the content was curated by a community connected to the Jamesian transmission lineage. This is consistent with the library's `04_Early_Christian_History/Truth Does Not Force Its Way.md` §7.1-7.4, which describes the NHL community as possessing the correspondential key and burying the texts as "a seed bank, not a grave."
+
+## Follow-Up Needed
+- Download and read Denzey Lewis/Blount 2014 if accessible on Academia.edu
+- Read Lundhaug & Jenott, *The Monastic Origins of the Nag Hammadi Codices* (Mohr Siebeck, 2015) — the main counter-argument
+- Read Linjamaa 2024 — the latest strengthening of the Pachomian hypothesis
+- Check whether any of these scholars engage with the CONTENT coherence of the collection (the 8.5:1 ratio, the correspondential self-announcement) or only with the physical/archaeological evidence

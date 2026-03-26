@@ -1301,9 +1301,14 @@ research/
 └── <project-name>/
     ├── plan.md          # Detailed research plan: question, phases, threads, proposed structure
     ├── context.md       # Everything needed from internal library reading — distilled, organized by topic
-    └── store/           # Individual source documentation from external research
-        ├── source_001.md   # One file per external source: URL, date, key findings, quotes
-        ├── source_002.md
+    ├── store/           # Individual source documentation from external research
+    │   ├── source_001.md   # One file per external source (see below for requirements)
+    │   ├── source_002.md
+    │   └── ...
+    ├── synthesis/       # Cross-cutting analysis connecting findings across sources
+    │   ├── theme_001.md    # One file per theme that emerges across multiple sources
+    │   └── ...
+    └── assets/          # Downloaded PDFs and other primary source files
         └── ...
 ```
 
@@ -1328,6 +1333,8 @@ research/
 - **Never report back with claims before finishing the reading.** Complete the research phase, then report.
 - **Document everything.** Every external source gets its own file in `store/`. Every internal finding goes in `context.md`.
 - **Source references in context.md.** Every claim in the context file must trace back to a specific document in `data/` with folder path and section reference. Context describes what you know; sources prove where you learned it.
+- **Source files in `store/` must be self-sufficient.** Each file must contain enough that a new agent in a fresh session can understand: what the source actually says (with key quotes), why it matters, what the specific evidence chain is, what questions remain open, and how it connects to other sources. Write them so someone else can continue without you.
+- **Synthesis documents in `synthesis/`.** When findings from multiple sources connect into a theme or pattern, write a synthesis document that traces the connections explicitly. Reference the specific source files by number. This is where the research becomes more than a collection of notes — it's where you document how threads come together.
 - **Follow the data.** If the research leads somewhere unexpected, follow it. The plan serves the research, not the other way around.
 - **Don't constrain the plan to what you already know.** The point of deep research is to discover what ISN'T in the library. Leave room for broad exploration, unexpected leads, and threads you can't predict.
 - **Quality sources.** Primary over secondary. If a lesser source mentions something interesting, find the primary source behind it. Academic sources for historical claims. First-person accounts for experiential claims.

@@ -58,7 +58,30 @@ An entire Manichaean library — destroyed by the very person who found it. This
 
 4. **The partial destruction pattern raises a question.** If providence is at work in the preservation and timing, how do we account for the losses? The peasant's cartloads thrown in the river, the mother's burning in the oven. Is partial loss itself part of the pattern — enough survives for the reconstruction, but the losses remind us that nothing in the natural plane is guaranteed?
 
+## Connection to the Library's Ancient Word Thesis
+
+The library's `00_Framework/The Ancient Word Recovered.md` documents the extraction of the correspondential substrate from the Kephalaia. The Kephalaia was discovered at Medinet Madi, Egypt (1929) — a SEPARATE Manichaean text from the Turfan manuscripts but from the same tradition. The Manichaean religion transmitted the Ancient Word substrate through BOTH channels:
+
+1. **Egyptian channel:** Kephalaia codex → Medinet Madi → Gardner translation 1995 → substrate extraction 2024
+2. **Central Asian channel:** Turfan cave temples → German expeditions 1902-1914 → Berlin Collection → ongoing study
+
+The Book of Giants is the physical proof linking both channels to the Palestinian source: fragments found at BOTH Qumran (Aramaic, 2nd-1st c. BCE) AND Turfan (Middle Persian/Sogdian/Uyghur, 8th-10th c. CE). Same text, both ends of the Silk Road, separated by a millennium and four thousand miles. W.B. Henning's 1943 identification of the Turfan fragments as the Manichaean Book of Giants established this transmission chain beyond reasonable doubt. (Library: `00_Master_Theses/The Carriers of Living Water.md` §8.2)
+
+The Uyghur Khaganate adopted Manichaeism as state religion in 762/763 CE. The Kingdom of Qocho preserved Manichaean texts in cave temple-libraries at Turfan — the exact sites the German expeditions excavated. These are the sites Swedenborg pointed to when he wrote "Great Tartary." (Library: `00_Framework/The Transmission of the Ancient Word.md` §VIII)
+
+## The Lost Library — Full Context
+
+Le Coq's account of the peasant's destroyed library deserves fuller treatment. The peasant told Le Coq that FIVE YEARS before the first expedition arrived (~1897), he had found "great cartloads" of Manichaean manuscripts in a temple ruin, "many ornamented with pictures in gold and colours." Out of fear, he "threw the whole library into the river."
+
+This parallels:
+- Muhammad Ali's mother burning NHL codices in the oven (~1945)
+- Bedouins reportedly burning DSS fragments in a campfire (~1947)
+- In ALL three cases, the discoverers did not know what they had and destroyed part of it
+
+The pattern: texts survive centuries of burial in desert conditions, then face partial destruction at the moment of discovery by people who cannot recognize their value. The PHYSICAL preservation (desert aridity) works perfectly. The HUMAN recognition fails at first contact. This is why the "tools arriving in sequence" matters — the texts must not only be found but must be found by, or eventually reach, people who can recognize what they hold.
+
 ## Follow-Up Needed
 - Read Samuel Lieu, *Manichaeism in Central Asia and China* — authoritative account
-- Search for W.B. Henning's 1943 identification of Turfan Book of Giants fragments
-- The relationship between the Berlin Collection and the Kephalaia (discovered separately at Medinet Madi, Egypt, 1929)
+- Search for W.B. Henning's 1943 identification of Turfan Book of Giants fragments (the paper that proved the Qumran-Turfan chain)
+- The Dunhuang cave library (Source 010) also contained Manichaean texts — what is the relationship between Dunhuang and Turfan Manichaean collections?
+- Friedrich Müller's 1904 decipherment of "Manichaean Estrangelo" — this was the beginning of modern Manichaean studies. What did the first scholars make of what they found?

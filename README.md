@@ -215,7 +215,7 @@ Notes:
 
 ```bash
 # Clone the repository
-git clone https://github.com/marconian/literary-compilation.git
+git clone https://github.com/kayna-of-light/literary-compilation.git
 cd literary-compilation
 
 # Create and activate the conda environment

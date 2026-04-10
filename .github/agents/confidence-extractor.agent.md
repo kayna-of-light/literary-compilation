@@ -78,9 +78,9 @@ Evidence nodes fall into two tracks based on **where the proof originates**:
 **Before assigning source_type, you MUST verify:**
 
 1. **Check if source references our analysis repos:**
-   - `https://github.com/marconian/structured-data-analysis` (projects/nde/reports/) → Our reports from our analysis → INTERNAL
-   - `https://github.com/marconian/structured-data-analysis` (data/nderf/ or data/iands/) → Our scraped data → INTERNAL
-   - `https://github.com/marconian/structured-data-analysis` (projects/remission/reports/) → Our reports from our analysis → INTERNAL
+   - `https://github.com/kayna-of-light/structured-data-analysis` (projects/nde/reports/) → Our reports from our analysis → INTERNAL
+   - `https://github.com/kayna-of-light/structured-data-analysis` (data/nderf/ or data/iands/) → Our scraped data → INTERNAL
+   - `https://github.com/kayna-of-light/structured-data-analysis` (projects/remission/reports/) → Our reports from our analysis → INTERNAL
 
 2. **Check if source references published research:**
    - Books (Stevenson, Tucker, van Lommel, Greyson) → EXTERNAL

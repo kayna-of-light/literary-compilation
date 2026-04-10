@@ -892,9 +892,9 @@ The 61.8% "unknown presence" rate (1,970/3,189) represents experiencers who:
 > "Even Christians with available vocabulary ('God,' 'Jesus') report 62% 'Unknown' — suggesting the being's properties don't match their learned theological framework."
 
 **Source Chain:**
-1. `[E]` marconian/structured-data-analysis - `models/questionnaire.py` (schema definition)
-2. `[E]` marconian/structured-data-analysis - `docs/nde-analysis-questionnaire.md` (Q1.3.3)
-3. `[E]` marconian/structured-data-analysis - `docs/reports/conceptual_framework_deep_dive_report.md` (analysis)
+1. `[E]` kayna-of-light/structured-data-analysis - `models/questionnaire.py` (schema definition)
+2. `[E]` kayna-of-light/structured-data-analysis - `docs/nde-analysis-questionnaire.md` (Q1.3.3)
+3. `[E]` kayna-of-light/structured-data-analysis - `docs/reports/conceptual_framework_deep_dive_report.md` (analysis)
 4. `[E]` NDERF/IANDS database (n=6,739)
 
 **Framework Implication:**
@@ -990,9 +990,9 @@ The "Restorative Incarnation Path" (reincarnation after traumatic death) is NOT 
 > "The Restorative Incarnation path cannot be validated with NDE data because NDErs survived (by definition). Testing requires past-life recall data (DOPS corpus)." - Validation Report
 
 **Source Chain:**
-1. `[E]` marconian/structured-data-analysis - `docs/reports/conceptual_framework_deep_dive_report.md`
-2. `[E]` marconian/structured-data-analysis - `docs/reports/threefold-path-validation-report.md`
-3. `[E]` marconian/structured-data-analysis - `models/questionnaire.py` (ReturnReason enum)
+1. `[E]` kayna-of-light/structured-data-analysis - `docs/reports/conceptual_framework_deep_dive_report.md`
+2. `[E]` kayna-of-light/structured-data-analysis - `docs/reports/threefold-path-validation-report.md`
+3. `[E]` kayna-of-light/structured-data-analysis - `models/questionnaire.py` (ReturnReason enum)
 4. `[E]` NDERF/IANDS database (n=6,739)
 
 **Framework Implication:**

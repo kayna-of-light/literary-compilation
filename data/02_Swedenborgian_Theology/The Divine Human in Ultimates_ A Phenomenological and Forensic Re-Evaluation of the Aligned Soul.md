@@ -44,6 +44,8 @@ This "biological determinism" dehumanizes Jesus, turning him into a "God-Man" hy
 
 The mechanism of his divinity was not biological origin, but the **removal of obstruction**. The central antagonist is the **Proprium** (Self-hood/Self-Love).6
 
+> **[Editorial Note]**: The proprium is selfhood — the vessel that must form before it can receive. It is not inherently antagonistic; it becomes the obstacle only when oriented toward self-love and claiming what flows through it as its own possession. "Central antagonist" here refers to the proprium *in its self-sourcing orientation*, not to selfhood as such.
+
 * **The Obstruction:** The *proprium* is the "love of self" that interprets Divine Influx as its own possession ("I am powerful," "I am wise"). This blocks the flow of the Lord.  
 * **The Alignment:** Jesus represents the rare, profound instance where a human soul completely silenced the *proprium*. He did not just *channel* the Lord; he became a transparency. Because there was no "self" blocking the light, the "Lord in Ultimates" could shine through him perfectly.
 

@@ -231,7 +231,7 @@ If the correspondential hypothesis is correct:
 
 1. "An age-old mystery: researcher catalogues humanity's earliest symbols" — University Affairs. [Link](https://universityaffairs.ca/features/an-age-old-mystery-researcher-catalogues-mankinds-earliest-symbols/)
 2. "Mysterious Markings May Hold Clues to Origin of Writing" — National Geographic. [Link](https://www.nationalgeographic.com/history/article/cave-art-ice-age-paleolithic-writing-first-signs)
-3. [Cracking the Code: A Mnemonic Interpretation of Paleolithic Geometric Signs](../05_Gnostic_Analysis/Cracking%20the%20Code_%20A%20Mnemonic%20Interpretation%20of%20Paleolithic%20Geometric%20Signs.md) — Internal library document.
+3. [Cracking the Code: A Mnemonic Interpretation of Paleolithic Geometric Signs](../05_The_Self/Cracking%20the%20Code_%20A%20Mnemonic%20Interpretation%20of%20Paleolithic%20Geometric%20Signs.md) — Internal library document.
 4. [The Lithic Scripture: A Hermeneutic Reconstruction of the Ancient Word](The%20Lithic%20Scripture_%20A%20Hermeneutic%20Reconstruction%20of%20the%20Ancient%20Word%20through%20the%20Doctrine%20of%20Correspondences%20and%20Paleolithic%20Iconography.md) — Internal library document.
 5. [The Stone Library and the Star-Seers: Celestial Perception in the Most Ancient Church](../02_Swedenborgian_Theology/The%20Stone%20Library%20and%20the%20Star-Seers_%20Celestial%20Perception%20in%20the%20Most%20Ancient%20Church.md) — Internal library document.
 6. Von Petzinger, Genevieve (2009). *Making the Abstract Concrete: The Place of Geometric Signs in French Upper Paleolithic Parietal Art*. MA thesis, University of Victoria. [PDF](https://dspace.library.uvic.ca/bitstream/handle/1828/1402/G_von_Petzinger_MA_thesis.pdf)

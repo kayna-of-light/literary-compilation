@@ -582,7 +582,7 @@ Everything we have ever needed was flowing through us the entire time. The only 
 - [The Jamesian Protograph: A Forensic Reconstruction of Proto-Luke](../04_Early_Christian_History/The%20Jamesian%20Protograph_%20A%20Forensic%20Reconstruction%20of%20Proto-Luke.md) — Recovery of the pre-canonical gospel through Streeter, Marcionite control, and Ebionite filter
 - [Speaking in Tongues: A Forensic History from Mystery Cults to Modern Charismatic Practice](../04_Early_Christian_History/Speaking%20in%20Tongues_%20A%20Forensic%20History%20from%20Mystery%20Cults%20to%20Modern%20Charismatic%20Practice.md) — Companion thesis on glossolalia forensics
 - [The Divine Human in Ultimates: A Phenomenological and Forensic Re-Evaluation of the Aligned Soul](../02_Swedenborgian_Theology/The%20Divine%20Human%20in%20Ultimates_%20A%20Phenomenological%20and%20Forensic%20Re-Evaluation%20of%20the%20Aligned%20Soul.md) — Jesus as Aligned Human; correction of Swedenborg's biological Christology
-- [The Apostle of the Archons](../05_Gnostic_Analysis/The%20Apostle%20of%20the%20Archons_%20A%20Forensic%20Validation%20of%20the%20Gnostic%20Substrate%20in%20the%20Pauline%20Corpus%20and%20the%20Imperial%20Co-optation%20of%20the%20Pneuma.md) — Gnostic substrate in Pauline theology
+- [The Apostle of the Archons](../05_The_Self/The%20Apostle%20of%20the%20Archons_%20A%20Forensic%20Validation%20of%20the%20Gnostic%20Substrate%20in%20the%20Pauline%20Corpus%20and%20the%20Imperial%20Co-optation%20of%20the%20Pneuma.md) — Gnostic substrate in Pauline theology
 
 ### Primary Sources
 

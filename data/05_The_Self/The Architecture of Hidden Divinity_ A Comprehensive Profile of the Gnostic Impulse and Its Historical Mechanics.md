@@ -1,5 +1,15 @@
 # **The Architecture of Hidden Divinity: A Comprehensive Profile of the Gnostic Impulse and Its Historical Mechanics**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-04-11
+> 
+> This document reflects **earlier understanding** on:
+> - **#22** The Self and the Proprium — **CRITICAL**: Treats the proprium as inherently evil ("the Antagonist") and equates it with self-love
+> 
+> **Summary**: The proprium is not "the Antagonist" — it is what is one's own, the vessel that must form before it can receive. It becomes the obstacle only when it claims what flows through it as its own possession (self-sourcing). Self-love is one possible orientation of the vessel. The observations about self-sourcing mechanics remain valid; the equation of selfhood with antagonism does not.
+> **Established correction (library)**: *Reversing the Arrow*; *The Human Who Showed the Way*
+> ---
+
 ## **Introduction: The Dual Currents of Western Spirituality**
 
 The history of Western religious thought is frequently constructed as a linear narrative of orthodox development, a monolithic stream of institutional consolidation that defines the spiritual landscape of the last two millennia. However, running parallel to this visible history—and often intersecting with it in moments of profound cultural tension—is a persistent, counter-structural current. This alternative tradition, while diverse in its myriad cultural expressions ranging from the dusty papyri of Late Antiquity to the digital forums of 21st-century spirituality, shares a singular, cohesive architectural logic. It is a logic that fundamentally reimagines the relationship between the human, the divine, and the material world. This report provides an exhaustive profile of this phenomenon, broadly categorized as "Gnosticism" and its subsequent historical iterations.
@@ -40,7 +50,9 @@ The captivity orchestrated by the Demiurge is maintained through a complex machi
 
 In the ancient context, the Archons were the gatekeepers of the celestial spheres, demanding passwords and secret knowledge from ascending souls. In modern iterations of the Gnostic impulse, this mechanism of control is often psychologized or sociologized. The "Archons" become the forces of "social conditioning," "religious dogma," or the "Matrix" of cultural consensus reality.3
 
-The primary weapon of the Captor is **ignorance**. This mechanism can be understood as the "Antagonist Proprium" (selfhood) seeking to "suffocate all else".4 By enforcing a reality where the material world is the only reality, or where the external law is the only path to God, the Captor keeps the "Divine Spark" asleep. The Captor requires **mediated truth**—institutions, priests, and external books—because direct, unmediated access to the Divine would shatter the illusion of his supremacy. Thus, the Gnostic narrative is fundamentally a story of a prisoner realizing they are in a cell, and that the warden (the god of this world) has lied to them about their crime and their sentence.4
+The primary weapon of the Captor is **ignorance**. This mechanism can be understood as the "Antagonist Proprium" (selfhood) seeking to "suffocate all else".4 By enforcing a reality where the material world is the only reality, or where the external law is the only path to God, the Captor keeps the "Divine Spark" asleep.
+
+> **[REFRAMING #22]**: The term "Antagonist Proprium" treats the proprium as inherently adversarial. The proprium is *what is one's own* — the vessel that must form before it can receive. It becomes the obstacle only when it claims what flows through it as its own possession (self-sourcing). The self is the condition for development, not the enemy. See: The Human Who Showed the Way The Captor requires **mediated truth**—institutions, priests, and external books—because direct, unmediated access to the Divine would shatter the illusion of his supremacy. Thus, the Gnostic narrative is fundamentally a story of a prisoner realizing they are in a cell, and that the warden (the god of this world) has lied to them about their crime and their sentence.4
 
 ## ---
 
@@ -145,7 +157,9 @@ In all these iterations, the mechanic is consistent: the specific, historical, a
 
 **Section V: The Two Paths of the Antagonist (The Downward Spiral)**
 
-The research frames the "Antagonist" or "Proprium" not merely as a single external enemy, but as a root mechanism of **Self-Love** that manifests in two distinct directions. These paths are not conscious choices to "refuse freedom" or "refuse obedience," but are the **natural, ingrained results** of specific ruling loves. As complex environments form around these loves, they inevitably structure reality in their own image, creating a downward spiral away from the Love for the Lord and the Neighbor.
+The research frames the "Antagonist" or "Proprium" not merely as a single external enemy, but as a root mechanism of **Self-Love** that manifests in two distinct directions. These paths are not conscious choices to "refuse freedom" or "refuse obedience," but are the **natural, ingrained results** of specific ruling loves.
+
+> **[REFRAMING #22]**: This section equates the proprium with "the Antagonist" — a root mechanism of self-love. The corrected understanding: the proprium is the vessel (selfhood), not a mechanism of self-love. Self-love is what happens when the proprium claims what flows through it as its own. The observations about self-sourcing patterns remain valid; the equation of selfhood with antagonism does not. See: Reversing the Arrow; The Human Who Showed the Way As complex environments form around these loves, they inevitably structure reality in their own image, creating a downward spiral away from the Love for the Lord and the Neighbor.
 
 ### **5.1 The Path of Worldly Power (The Natural Hierarchy)**
 

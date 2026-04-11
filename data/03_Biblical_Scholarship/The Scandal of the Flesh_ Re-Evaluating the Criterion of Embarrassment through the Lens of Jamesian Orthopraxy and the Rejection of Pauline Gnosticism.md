@@ -1,13 +1,13 @@
 # **The Scandal of the Flesh: Re-Evaluating the Criterion of Embarrassment through the Lens of Jamesian Orthopraxy and the Rejection of Pauline Gnosticism**
 
 > ---
-> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+> **📋 Editorial Notes** | Last reviewed: 2026-04-11
 > 
 > This document reflects **current understanding** on:
 > - **#19** [The Aligned Human](../02_Swedenborgian_Theology/The%20Divine%20Human%20in%20Ultimates_%20A%20Phenomenological%20and%20Forensic%20Re-Evaluation%20of%20the%20Aligned%20Soul.md) — This document's "Criterion of Temptation" and Jamesian orthopraxy align with the #19 synthesis: perfection through struggle, not static immunity. The "Jamesian Jesus" described here IS the "Aligned Human."
 > 
 > **Summary**: This document correctly identifies the Pauline Gnostic error and proposes the Jamesian alternative, which is the framework's own position.
-> **Established position (library)**: The Divine Human in Ultimates: ...Aligned Soul
+> **Established correction (library)**: *The Divine Human in Ultimates*
 > ---
 
 ## **I. Introduction: The Crisis of Historical Criteria**
@@ -212,4 +212,4 @@ This is not the "weakness" of a failed god, but the "strength" of the Refiner’
 
 #### **Geciteerd werk**
 
-1\. [The Canonical Gospels: A Synthesis of Historical-Critical Scholarship](The%20Canonical%20Gospels_%20A%20Synthesis%20of%20Historical-Critical%20Scholarship.md) 2\. [The Apostle of the Archons: A Forensic Validation of the Gnostic Substrate in the Pauline Corpus](../05_Gnostic_Analysis/The%20Apostle%20of%20the%20Archons_%20A%20Forensic%20Validation%20of%20the%20Gnostic%20Substrate%20in%20the%20Pauline%20Corpus%20and%20the%20Imperial%20Co-optation%20of%20the%20Pneuma.md) 3\. [Quranic Isa vs. Early Christianity](../04_Early_Christian_History/The%20Correction%20of%20the%20Archons_%20A%20Forensic%20Reconstruction%20of%20the%20Quranic%20Isa%20in%20Counter-Distinction%20to%20the%20Pauline%20Gnostic%20Construct.md)
+1\. [The Canonical Gospels: A Synthesis of Historical-Critical Scholarship](The%20Canonical%20Gospels_%20A%20Synthesis%20of%20Historical-Critical%20Scholarship.md) 2\. [The Apostle of the Archons: A Forensic Validation of the Gnostic Substrate in the Pauline Corpus](../05_The_Self/The%20Apostle%20of%20the%20Archons_%20A%20Forensic%20Validation%20of%20the%20Gnostic%20Substrate%20in%20the%20Pauline%20Corpus%20and%20the%20Imperial%20Co-optation%20of%20the%20Pneuma.md) 3\. [Quranic Isa vs. Early Christianity](../04_Early_Christian_History/The%20Correction%20of%20the%20Archons_%20A%20Forensic%20Reconstruction%20of%20the%20Quranic%20Isa%20in%20Counter-Distinction%20to%20the%20Pauline%20Gnostic%20Construct.md)

@@ -1,5 +1,15 @@
 # **The Architecture of Autonomy: A Pneumatological and Historical Validation of the Gnostic Impulse as the Operational Mechanic of the Proprium**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-04-11
+> 
+> This document reflects **earlier understanding** on:
+> - **#22** The Self and the Proprium — **CRITICAL**: Defines the proprium as "inherently dead/evil" and equates it with self-love
+> 
+> **Summary**: The proprium is not inherently evil — it is the vessel (selfhood) that must form before it can receive. It becomes the obstacle only when it claims what flows through it as its own possession (self-sourcing). Self-love is one possible orientation of the vessel, not what the vessel IS. The observations about self-sourcing mechanics (spiritual theft, claiming divine attributes) remain valid.
+> **Established correction (library)**: *The Human Who Showed the Way*
+> ---
+
 ## **Executive Summary: The Structural Consistency of Self-Deification**
 
 The document *The Architecture of Hidden Divinity: A Comprehensive Profile of the Gnostic Impulse and Its Historical Mechanics* presents a theoretical framework that is both audacious and rigorously structured. It posits that the diverse array of spiritual movements categorized historically as "Gnostic"—from the Valentinian schools of Late Antiquity to the "Spiritual But Not Religious" (SBNR) demographics of the 21st century—are not disparate, unconnected phenomena. Rather, they are iterations of a singular, recurring "structural mechanic" within the human spirit. This mechanic, termed the "Gnostic Impulse," is characterized by a specific set of theological operations: the depersonalization of the Divine into an abstract principle, the bifurcation of the historical Jesus from a cosmic Christ entity, and the pursuit of salvation through *gnosis* (self-realization) rather than relational redemption.1
@@ -48,6 +58,8 @@ The *Proprium* requires a God that is abstract, invisible, or internal—a "God"
 | :---- | :---- | :---- | :---- |
 | **Amor Regnans** | The ruling love that dictates all thought/perception.3 | The drive for "Self-Realization" and "Autonomy".1 | Gnosticism is the *doctrine* of the Self's ruling love. |
 | **Proprium** | The "ownhood" of man; inherently dead/evil; desires to be God.7 | The "Divine Spark" doctrine; the assertion "I am God".1 | The "Spark" is the *Proprium* theologized as divinity. |
+
+> **[REFRAMING #22]**: This table defines the proprium as "inherently dead/evil." The corrected understanding: the proprium is the vessel (selfhood) that must form before it can receive. It is not inherently evil — it becomes the obstacle only when it claims ownership of what flows through it (self-sourcing). The "Divine Spark" doctrine is correctly identified as self-sourcing — the proprium claiming divine influx as its own possession. See: The Human Who Showed the Way
 | **Spiritual Theft** | Claiming Divine Life/Attributes as one's own property.9 | The claim that the soul is *consubstantial* with the Father.1 | Gnosis is the legitimization of spiritual theft. |
 | **Rejection of Divine Human** | The "Fundamental Error" of the Dragon; denying God in Ultimates.13 | The "Splitting" of Jesus and Christ; Docetism.10 | The *Proprium* cannot tolerate a Visible God who rules. |
 | **The Dragon** | Those in "faith alone" (knowledge) without charity (life).14 | Salvation by *Gnosis* (knowledge) rather than regeneration.1 | Gnosticism is the ancient form of the "Dragon" dynamic. |
@@ -175,6 +187,8 @@ Swedenborg contrasts this with the "Grand Man" (Maximus Homo)—his vision of he
 **Conclusion: The "Oldest Lie" Re-Architected**
 
 The comprehensive analysis of *The Architecture of Hidden Divinity* against the Swedenborgian and historical datasets yields a definitive validation of its core thesis. The "Gnostic Impulse" is not a random collection of heresies; it is the systematic, recurring theological expression of the *Proprium* (Self-Love) seeking to secure its own autonomy against the claims of the Divine Human.
+
+> **[REFRAMING #22]**: This conclusion equates the proprium with self-love. The corrected understanding: the proprium is the vessel (selfhood), not self-love; self-love is one possible orientation of the vessel. When the proprium claims what flows through it as its own possession, that is **self-sourcing** — the specific directional error. See: *The Human Who Showed the Way*
 
 The validation reveals a coherent, mechanical system:
 

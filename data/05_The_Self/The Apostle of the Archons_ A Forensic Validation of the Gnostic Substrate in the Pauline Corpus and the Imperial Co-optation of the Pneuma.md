@@ -1,5 +1,15 @@
 # **The Apostle of the Archons: A Forensic Validation of the Gnostic Substrate in the Pauline Corpus and the Imperial Co-optation of the Pneuma**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-04-11
+> 
+> This document reflects **earlier understanding** on:
+> - **#22** The Self and the Proprium — Treats the proprium as inherently "black" and evil
+> 
+> **Summary**: This document correctly identifies Gnostic structural features in Pauline theology. However, the proprium is treated as inherently evil rather than as a vessel whose *orientation* determines whether it obstructs. The proprium is what is one's own — the condition for development, not the enemy.
+> **Established correction (library)**: *The Human Who Showed the Way*
+> ---
+
 ## **Executive Summary**
 
 The history of early Christianity has been inextricably bound to a narrative of "proto-orthodoxy"—a linear progression from the teachings of Jesus to the apostolic deposit of Paul, culminating in the Nicene consensus. This report, however, posits and validates a radically different trajectory: that the Pauline epistles, the foundational documents of the New Testament, are not the bulwark against heresy they have been portrayed to be, but are themselves the primary repository of the "Gnostic Impulse." Through a rigorous cross-referencing of historical-critical scholarship, philological exegesis of the Greek text, and the pneumatological forensic framework provided by the user's uploaded research (specifically the works of Emanuel Swedenborg), this analysis demonstrates that the structural mechanics of Pauline theology are fundamentally Gnostic.
@@ -235,7 +245,9 @@ Pauline Christianity, while rejecting the "flesh," built the most powerful "fles
 
 The forensic analysis of the Pauline corpus and its reception history validates the user's thesis: The Pauline epistles are rooted in a Gnostic worldview that bifurcates the cosmos, demonizes the material rulers, and seeks salvation through a Pneumatic separation. But the story of the "Victory of Orthodoxy" is not the story of the defeat of Gnosticism; it is the story of its **domestication**.
 
-The church that won—the church of the Empire—did not destroy the Gnostic impulse; it institutionalized it. It took the radical, world-denying fire of Gnosticism and built a chimney around it called "The Church." By converting the untamable "inner Gnosis" into the manageable "Rule of Faith," and by transforming the "liberation from Archons" into "obedience to Bishops" (and eventually Emperors), the developing Orthodoxy created a hybrid religion. It was a Trojan Horse: it carried the Gnostic promise of escaping the material world, but it was pulled by the horses of Imperial power.
+The church that won—the church of the Empire—did not destroy the Gnostic impulse; it institutionalized it.
+
+It took the radical, world-denying fire of Gnosticism and built a chimney around it called "The Church." By converting the untamable "inner Gnosis" into the manageable "Rule of Faith," and by transforming the "liberation from Archons" into "obedience to Bishops" (and eventually Emperors), the developing Orthodoxy created a hybrid religion. It was a Trojan Horse: it carried the Gnostic promise of escaping the material world, but it was pulled by the horses of Imperial power.
 
 The battle was indeed between different Gnostic movements. The "Losers" (Sethians, Valentinians, Marcionites) kept the pure, anarchic Gnostic content—the refusal to bow to the "god of this world." For this refusal, they were destroyed. The "Winners" (Pauline Orthodoxy) kept the Gnostic structure—the elitism, the mystery, the separation from the "natural man"—but they made a deal with the world they claimed to despise. They sanctified the state to ensure their own survival. Thus, Pauline Christianity is best understood not as the antithesis of Gnosticism, but as its **State-Approved variant**. It is the Gnostic impulse, tamed, collared, and put to work for the very Archons it once sought to overthrow.
 

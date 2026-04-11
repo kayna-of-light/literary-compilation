@@ -1,12 +1,14 @@
 # **The Paradox of the Pneumatic Ego: A Forensic Analysis of Pauline Humility, Rhetorical Strategy, and the Theology of Proprium**
 
 > ---
-> **📋 Editorial Notes** | Last reviewed: 2026-01-26
+> **📋 Editorial Notes** | Last reviewed: 2026-04-11
 >
 > This document reflects **earlier understanding** on:
-> - **#9** [Resurrection Narrative Evolution](../03_Biblical_Scholarship/The%20Anatomy%20of%20Ascension_%20A%20Critical-Historical%20and%20Phenomenological%20Reconstruction%20of%20the%20Resurrection%20Narrative%20from%20Pauline%20Pneumatology%20to%20the.md) — This analysis treats Luke’s “broiled fish” scene as straightforward historical grounding for the “Actual Jesus,” without flagging the textual layering and anti-Docetic polemic of the later Gospel strata.
+> - **#9** [Resurrection Narrative Evolution](../03_Biblical_Scholarship/The%20Anatomy%20of%20Ascension_%20A%20Critical-Historical%20and%20Phenomenological%20Reconstruction%20of%20the%20Resurrection%20Narrative%20from%20Pauline%20Pneumatology%20to%20the.md) — This analysis treats Luke's "broiled fish" scene as straightforward historical grounding for the "Actual Jesus," without flagging the textual layering and anti-Docetic polemic of the later Gospel strata.
+> - **#22** The Self and the Proprium — Treats proprium as inherently "black" and evil
 >
-> **Summary**: The physical-proof motifs ("flesh and bones", eating fish, touching wounds) are best read as later materializing layers in the tradition; historical grounding should not rely on those motifs as if they were the earliest witness.
+> **Summary**: The physical-proof motifs ("flesh and bones", eating fish, touching wounds) are best read as later materializing layers in the tradition. Additionally, the proprium is treated as inherently evil rather than as a vessel whose *orientation* determines obstruction.
+> **Established correction (library)**: The Anatomy of Ascension (for #9); *The Human Who Showed the Way* (for #22)
 > ---
 
 ## **1\. Introduction: The Theological Crisis of the Self**

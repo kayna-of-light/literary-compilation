@@ -264,7 +264,7 @@ The 32 geometric signs are not random graffiti. They are the coordinate system o
 
 #### **Works cited**
 
-1. Cracking the Code\_ A Mnemonic Interpretation of Paleolithic Geometric Signs.pdf, [**Cracking the Code: A Mnemonic Interpretation of Paleolithic Geometric Signs**](../05_Gnostic_Analysis/Cracking%20the%20Code_%20A%20Mnemonic%20Interpretation%20of%20Paleolithic%20Geometric%20Signs.md)  
+1. Cracking the Code\_ A Mnemonic Interpretation of Paleolithic Geometric Signs.pdf, [**Cracking the Code: A Mnemonic Interpretation of Paleolithic Geometric Signs**](../05_The_Self/Cracking%20the%20Code_%20A%20Mnemonic%20Interpretation%20of%20Paleolithic%20Geometric%20Signs.md)  
 2. Making the Abstract Concrete: The Place of Geometric Signs in French Upper Paleolithic, accessed on February 8, 2026, [https://dspace.library.uvic.ca/bitstream/handle/1828/1402/G\_von\_Petzinger\_MA\_thesis.pdf](https://dspace.library.uvic.ca/bitstream/handle/1828/1402/G_von_Petzinger_MA_thesis.pdf)  
 3. Leroi-Gourhan\_ch 6.html, accessed on February 8, 2026, [https://web.stanford.edu/class/history34q/readings/Leroi-Gourhan/Leroi-Gourhan\_ch6.html](https://web.stanford.edu/class/history34q/readings/Leroi-Gourhan/Leroi-Gourhan_ch6.html)  
 4. André Leroi-Gourhan (1911-1986) | Lascaux cave \- Archéologie | culture.gouv.fr, accessed on February 8, 2026, [https://archeologie.culture.gouv.fr/lascaux/en/andre-leroi-gourhan-1911-1986](https://archeologie.culture.gouv.fr/lascaux/en/andre-leroi-gourhan-1911-1986)  

@@ -120,6 +120,8 @@ Why was *Chanticleer* rejected when *Bambi* and *Dumbo* (also animal stories) we
 
 In Swedenborgian theology, "Proprium" is the selfhood—the false belief that life, intelligence, and power originate from oneself rather than flowing in from the Divine. It is the root of all spiritual evil. Chanticleer is the embodiment of Proprium: he believes *he* causes the sun to rise. He believes he is the Cause, and the universe is the Effect.
 
+> **[Editorial Note]**: Proprium IS selfhood — the vessel that must form before it can receive. The "false belief" described here is **self-sourcing** — a specific directional error the proprium can make when it claims what flows through it as its own. The proprium itself is not the error; claiming ownership is. See: *The Human Who Showed the Way*.
+
 * **The Disney Hero:** Typically characterized by humility or a realization of dependency. Pinocchio needs the Blue Fairy; Dumbo needs the feather and Timothy; Arthur (*Sword in the Stone*) needs Merlin. They align themselves with the flow of Providence.  
 * **Chanticleer:** Believes he *is* Providence.
 

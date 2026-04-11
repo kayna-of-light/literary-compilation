@@ -1,5 +1,15 @@
 # Dancing with Fire: Marcion of Sinope and the Correspondential Key He Never Possessed
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-04-11
+> 
+> This document reflects **earlier understanding** on:
+> - **#22** The Self and the Proprium — Treats proprium as inherently evil in its unregenerate form
+> 
+> **Summary**: This document correctly identifies self-sourcing mechanics in Marcion. However, the proprium is not "nothing but evil" — it is the vessel that must form before it can receive. Self-sourcing is the specific error, not selfhood itself.
+> **Established correction (library)**: *The Human Who Showed the Way*
+> ---
+
 ## The Gnostic Impulse, the Pauline Vector, and the Proprium's Theology of Escape
 
 ---
@@ -107,6 +117,8 @@ The mechanism is not a failure of intelligence. It is the natural degree doing w
 ### 2.3 The Gnostic Impulse as the Proprium's Theology
 
 The companion thesis *The Architecture of Autonomy* identifies the Gnostic Impulse — the recurring structural mechanic that drives all "Gnostic" systems from Valentinus to modern "Spiritual But Not Religious" movements — as the direct operationalization of the **proprium**. The proprium is Swedenborg's term for the sense of selfhood that claims to be its own source — the feeling of being a self-originating, autonomous agent. In its unregenerate form, the proprium is "nothing but evil" (*AC* §210) — not because selfhood is evil, but because the proprium takes the influx that flows through it and says "this is mine."
+
+> **[REFRAMING #22]**: This section conflates the proprium (selfhood) with the act of self-sourcing (claiming what flows through it). The proprium is the vessel — *what is one's own*. It is not "nothing but evil"; it is the condition for development. The error this section actually describes is **self-sourcing**: the vessel claiming ownership. See: *The Human Who Showed the Way*
 
 The Architecture of Autonomy identifies the Gnostic Impulse as the proprium operating in the intellectual sphere. Its motive is **autonomy** — the refusal to acknowledge an external source of life and truth. Its strategy is **spiritual theft** — claiming God's attributes as one's own. Its tactic is **dismantling the visible God** — depersonalizing the Divine into an abstract principle, splitting Jesus from Christ, rejecting the God who commands in favor of the God who can be possessed. Its result is **self-deification** — "I am God; I had just forgotten."
 
@@ -508,8 +520,8 @@ Content without dynamics. Perception without the key. The proprium's theology, c
 **Internal Library Documents:**
 
 17. [Reversing the Arrow: "Gnosticism" as the Downstream Literalization of Correspondential Composition](../unclassified/Reversing%20the%20Arrow_%20%27Gnosticism%27%20as%20the%20Downstream%20Literalization%20of%20Correspondential%20Composition.md). Establishes the literalization diagnostic and the reversed arrow of development; diagnoses "Gnosticism" as the downstream product of correspondential composition received without the key.
-18. [The Architecture of Autonomy: A Pneumatological and Historical Validation of the Gnostic Impulse as the Operational Mechanic of the Proprium](../05_Gnostic_Analysis/The%20Architecture%20of%20Autonomy_%20A%20Pneumatological%20and%20Historical%20Validation%20of%20the%20Gnostic%20Impulse%20as%20the%20Operational%20Mechanic%20of%20the%20Proprium.md). Validates the Gnostic Impulse as the proprium's drive for autonomy; identifies the incompatibility of Gnosis and Influx.
-19. [The Pauline Matrix: Archetypal Gnosticism and the Structural Origins of the Cosmic Christ](../05_Gnostic_Analysis/The%20Pauline%20Matrix_%20Archetypal%20Gnosticism%20and%20the%20Structural%20Origins%20of%20the%20Cosmic%20Christ.md). Establishes Paul as the "essential Gnostic seed"; identifies Marcion as Paul's "most consistent interpreter."
+18. [The Architecture of Autonomy: A Pneumatological and Historical Validation of the Gnostic Impulse as the Operational Mechanic of the Proprium](../05_The_Self/The%20Architecture%20of%20Autonomy_%20A%20Pneumatological%20and%20Historical%20Validation%20of%20the%20Gnostic%20Impulse%20as%20the%20Operational%20Mechanic%20of%20the%20Proprium.md). Validates the Gnostic Impulse as the proprium's drive for autonomy; identifies the incompatibility of Gnosis and Influx.
+19. [The Pauline Matrix: Archetypal Gnosticism and the Structural Origins of the Cosmic Christ](../05_The_Self/The%20Pauline%20Matrix_%20Archetypal%20Gnosticism%20and%20the%20Structural%20Origins%20of%20the%20Cosmic%20Christ.md). Establishes Paul as the "essential Gnostic seed"; identifies Marcion as Paul's "most consistent interpreter."
 20. [Swedenborg's Key and the Proto-Lukan Hypothesis: How Correspondential Exegesis Reveals Compositional Strata in the Canonical Gospels](../02_Swedenborgian_Theology/Swedenborg%27s%20Key%20and%20the%20Proto-Lukan%20Hypothesis_%20How%20Correspondential%20Exegesis%20Reveals%20Compositional%20Strata%20in%20the%20Canonical%20Gospels.md). Establishes the correspondential depth test; demonstrates that parables decode and narratives don't.
 21. [The Jamesian Protograph: A Forensic Reconstruction of the Proto-Lukan Nexus, the Q Source, and the Politics of Resurrection](The%20Jamesian%20Protograph_%20A%20Forensic%20Reconstruction%20of%20the%20Proto-Lukan%20Nexus,%20the%20Q%20Source,%20and%20the%20Politics%20of%20Resurrection.md). Identifies proto-Luke with the Jamesian Jerusalem Gospel; positions Marcion as the "accidental archivist."
 22. [No Original Exists: The Universal Reconstruction of Biblical Texts and the Forensic Recovery of Proto-Luke](../03_Biblical_Scholarship/No%20Original%20Exists_%20The%20Universal%20Reconstruction%20of%20Biblical%20Texts%20and%20the%20Forensic%20Recovery%20of%20Proto-Luke.md). Establishes the epistemological parity of the Proto-Luke reconstruction with canonical textual criticism.

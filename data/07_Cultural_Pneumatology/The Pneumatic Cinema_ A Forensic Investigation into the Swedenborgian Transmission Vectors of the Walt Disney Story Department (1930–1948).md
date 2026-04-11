@@ -129,7 +129,9 @@ Swedenborg explicitly teaches that "Truth alone cannot save; it must be united w
 
 Sears’s influence extended beyond *Snow White*. He famously rejected the *Chanticleer* project because the protagonist—a rooster who believes his crowing causes the sun to rise—was deemed "unsympathetic".1 Through the lens of the *Tripartite Convergence*, this rejection is intelligible as a rejection of the **Proprium** (self-love).
 
-In Swedenborgian theology, the belief that one is the source of life or light (proprium) is the root of all evil. A character who believes they cause the sun to rise is, in Swedenborgian terms, in a state of profanation. Sears’s instinct to reject this character suggests an intuitive alignment with the ethic of humility and the acknowledgment of Influx (that life flows *from* the Lord, not *from* the self). His editorial hand consistently steered the studio away from ego-centric narratives toward narratives of submission and reception.
+In Swedenborgian theology, the belief that one is the source of life or light (proprium) is the root of all evil. A character who believes they cause the sun to rise is, in Swedenborgian terms, in a state of profanation.
+
+> **[Editorial Note]**: The proprium is selfhood — the vessel that must form before it can receive. It becomes the root of evil only when it *claims* what flows through it as its own (self-sourcing). The Chanticleer character illustrates this claiming perfectly — but the proprium itself is not evil; the directional error of self-sourcing is. See: *The Human Who Showed the Way*. Sears’s instinct to reject this character suggests an intuitive alignment with the ethic of humility and the acknowledgment of Influx (that life flows *from* the Lord, not *from* the self). His editorial hand consistently steered the studio away from ego-centric narratives toward narratives of submission and reception.
 
 ## ---
 

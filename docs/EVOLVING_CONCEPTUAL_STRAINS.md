@@ -95,6 +95,7 @@ For each strain marked "Needs review":
 - [x] 19. [The Aligned Human (Historical Jesus & Divine Bricolage)](#19-the-aligned-human-historical-jesus-and-the-divine-bricolage) — Synthesis (High) ✅ 4 docs annotated (2026-01-26)
 - [ ] 20. [Hebrew Bible Dating: Proto-Myth Origins vs. Persian-Period Composition](#20-hebrew-bible-dating-proto-myth-origins-vs-persian-period-composition) — Correction (**Critical**) — NEW (2026-02-07)
 - [ ] 21. [18th-Century Scientific Forcing](#21-18th-century-scientific-forcing) — Correction (**Critical**) — META-STRAIN: Root cause unifying #1, #2, and two new instances (uniform canonicity, 1757 fixing) — NEW (2026-02-12)
+- [ ] 22. [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — Reframing (**Critical**) — Two conflated errors: "Gnosticism" as unified negative brand + proprium as inherently evil — NEW (2026-07-26)
 
 ---
 
@@ -1235,6 +1236,105 @@ Use blockquote format at the relevant section:
 | 2026-01-26 | Added strain #19 (The Aligned Human)—SYNTHESIS strain resolving Historical Jesus / Christ of Faith dichotomy |
 | 2026-02-07 | Added strain #20 (Hebrew Bible Dating: Proto-Myth Origins vs. Persian-Period Composition)—CRITICAL correction. YRE 2008 falsifies linguistic dating method; philological evidence proves 3rd-millennium material in Genesis/Job |
 | 2026-02-12 | Added strain #21 (18th-Century Scientific Forcing)—**CRITICAL** META-STRAIN unifying root cause of #1 (Limbus), #2 (Biological Christology), plus two new instances: Uniform Canonicity (Gospel layer quality gradient) and 1757 Fixing (continuous process pinned to discrete date). Evidence from NotebookLM analysis of Spiritual Diary and Lukan hermeneutics. Updated #12 interpretive overlay table |
+
+### 22. The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing
+
+**Evolution Type**: REFRAMING  
+**Priority**: **CRITICAL**  
+**Status**: New — annotation in progress (2026-07-26)
+
+#### The Problem: Two Conflated Errors
+
+Earlier documents in this corpus committed two conflated errors:
+
+1. **"Gnosticism" was branded as a unified negative category** — the "Gnostic Impulse." This term treated an entire body of diverse ancient literature (Sethian, Valentinian, Marcionite, Manichaean) as manifestations of a single pathological "impulse." The term made a claim while pretending to classify.
+
+2. **The proprium was treated as inherently evil** — "the antagonist," "the love of self," "the source of all evil." This equated the proprium (what is one's own; selfhood) with its *misorientation*. The vessel was confused with what happens when the vessel claims ownership of what flows through it.
+
+These errors are related: if "Gnosticism" is an impulse driven by the proprium, and the proprium is evil, then the entire domain becomes a gallery of pathology rather than a field of inquiry about the self.
+
+#### Earlier Position
+
+- The "Gnostic Impulse" is a recurring mechanical system of thought driven by the proprium
+- The proprium is "the love of self" — inherently evil, the antagonist force
+- Gnostic texts are artifacts of this impulse — expressions of self-love masquerading as spirituality
+- The Nag Hammadi Library and related corpora are primarily evidence of this pathology
+- Self-sourcing (the self claiming what it receives) and literalization (correspondential texts losing their key downstream) are both manifestations of the same "Gnostic Impulse"
+
+**Documents reflecting earlier position** (require annotation):
+- [ ] `data/05_The_Self/The Architecture of Hidden Divinity...md` — The ORIGINAL "Gnostic Impulse" document
+- [ ] `data/05_The_Self/The Architecture of Autonomy...md` — Validation of "Gnostic Impulse" framing
+- [ ] `data/05_The_Self/The Apostle of the Archons...md` — Heavy "Gnostic Impulse" usage throughout
+- [ ] `data/05_The_Self/Dancing with Fire...md` — "Gnostic Impulse as the Proprium's Theology" section
+- [ ] `data/05_The_Self/The Paradox of the Pneumatic Ego...md` — "Gnostic Impulse" section
+- [ ] `data/05_The_Self/The Pauline Matrix...md` — "Gnostic impulse" usage
+- [ ] `data/00_Master_Theses/The Carriers of Living Water...md` — Section 12.3 "Gnostic Impulse and the Architecture of Autonomy"
+- [ ] `data/00_Master_Theses/The Beast That Wears the Lamb...md` — Reference links to old doc names
+- [ ] `data/03_Biblical_Scholarship/The Scandal of the Flesh...md` — "Gnostic Impulse" usage
+- [ ] `data/04_Early_Christian_History/The Correction of the Archons...md` — "Gnostic Impulse" usage
+- [ ] `data/04_Early_Christian_History/The Damascus Divergence...md` — "Gnostic Impulse" usage
+- [ ] `data/04_Early_Christian_History/The Imperial Gnosis...md` — "Gnostic Impulse" usage
+- [ ] `data/07_Cultural_Pneumatology/The Celestial Botany...md` — "Proprium is the Antagonist"; "source of all evil"
+- [ ] `data/07_Cultural_Pneumatology/The Inverted Influx...md` — "central antagonist...Proprium"
+- [ ] `data/07_Cultural_Pneumatology/The Mirror and the Star...md` — "central antagonist...Proprium"
+- [ ] `data/07_Cultural_Pneumatology/The Mirror and the Void...md` — "Proprium is the selfhood—false belief"
+- [ ] `data/07_Cultural_Pneumatology/The Pneumatic Cinema...md` — "proprium is the root of all evil"
+- [ ] `data/02_Swedenborgian_Theology/The Divine Human in Ultimates...md` — "antagonist is the proprium"
+- [ ] `data/02_Swedenborgian_Theology/The Void and the Vessel...md` — proprium as evil
+
+#### Refined Position
+
+The domain is about **the self** — neutral territory for ordering data about selfhood across traditions. Two distinct phenomena were conflated under "Gnostic Impulse":
+
+1. **Self-sourcing**: The specific directional error of the proprium — claiming what flows through it as its own possession. This is what Yaldabaoth does ("I am God and there is no other"). This is what Paul does when he claims exclusive pneumatic authority. This is what happens when reception becomes claiming. Self-sourcing is the *act*, not the vessel.
+
+2. **Literalization**: What happens when correspondential texts lose their key downstream. The Sethian, Valentinian, and other corpora contain genuine correspondential architecture — but readers who lack the key read the spiritual sense as literal cosmology, producing "Gnostic mythology" where the texts intended spiritual geography.
+
+**The proprium corrected**: The proprium is *what is one's own* — selfhood. It is the **vessel** that must form before it can receive. The self is not the enemy. The self is the condition for development. The problem arises only when the vessel claims what flows through it as its own possession — when receiving becomes claiming. "I am God and there is no other" is self-sourcing; the proprium that says it is the proprium that has forgotten it is a vessel.
+
+**"Gnosticism" corrected**: The term "Gnostic Impulse" brands an entire body of diverse literature as pathological. What these texts actually show is: (a) correspondential architecture written by people who possessed the key, now read by people who don't; (b) self-sourcing patterns that appear *everywhere* (Paul, Swedenborg, SBNR, institutional Christianity, Disney's *Wish*) — not only in texts labeled "Gnostic."
+
+**Documents with refined position**:
+- `data/05_The_Self/Reversing the Arrow...md` — Establishes that "Gnosticism" is downstream literalization, not a unified movement
+- `data/05_The_Self/The Literalized Fall...md` — Sethian corpus as correspondential architecture without the key
+- `data/05_The_Self/The Living Library...md` — NHL as correspondential architecture across the collection
+- `data/02_Swedenborgian_Theology/The Human Who Showed the Way...md` — "The proprium is not evil; it is what makes us us"
+
+#### Annotation Templates
+
+**For "Gnostic Impulse" branding:**
+
+```markdown
+> **[REFRAMING #22]**: The term "Gnostic Impulse" brands a diverse body of literature 
+> as a unified pathological category. The corrected understanding distinguishes two 
+> separate phenomena: **self-sourcing** (the proprium claiming what flows through it) 
+> and **literalization** (correspondential texts losing their key downstream). 
+> The proprium is the vessel, not the enemy.
+> See: Reversing the Arrow; The Literalized Fall
+```
+
+**For proprium-as-evil/antagonist:**
+
+```markdown
+> **[REFRAMING #22]**: The proprium is not inherently evil or "the antagonist." It is 
+> *what is one's own* — the vessel that must form before it can receive. It becomes 
+> the obstacle only when it claims what flows through it as its own possession 
+> (self-sourcing). The self is the condition for development, not the enemy.
+> See: The Human Who Showed the Way
+```
+
+**For proprium-as-antagonist in narrative analysis (Cultural Pneumatology):**
+
+```markdown
+> **[REFRAMING #22]**: The proprium is correctly identified as the antagonist *within 
+> these narratives* — the stories depict the self-love orientation of the proprium 
+> as the force to be overcome. But the proprium itself is the vessel, not inherently 
+> evil. What these stories dramatize is the proprium's *misorientation* (self-sourcing), 
+> not the proprium's existence.
+> See: The Human Who Showed the Way
+```
+
+---
 
 ### New Documents Reviewed (2026-01-26)
 

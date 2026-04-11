@@ -2,6 +2,8 @@
 
 A comprehensive synthesis of consciousness studies, biblical scholarship, Swedenborgian theology, and mythological analysis into a coherent post-materialist framework.
 
+**Join the community: [r/theancientword](https://www.reddit.com/r/theancientword/)**
+
 ## Overview
 
 This repository contains an extensive body of interconnected research exploring a single, continuous thesis: that human spiritual and cultural history can be understood through a **two-tiered epistemology** that reconciles scientific inquiry with theological interpretation.
@@ -23,6 +25,7 @@ This framework is developed and tested across several specialized repositories:
 | **[nag-hammadi-analysis](https://github.com/kayna-of-light/NagHammadiLibrary)** | Correspondential reading of the complete Nag Hammadi Library |
 | **[manichaean-analysis](https://github.com/kayna-of-light/manichaean-analysis)** | Extraction of the correspondential substrate from the Kephalaia and Manichaean corpus — recovering the Ancient Word |
 | **[proto-luke-reconstruction](https://github.com/kayna-of-light/ProtoLuke)** | Proto-Luke reconstruction — the Jamesian Protograph |
+
 
 ## Methodological Stance
 

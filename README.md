@@ -11,7 +11,7 @@ The framework synthesizes:
 - **Swedenborgian theology** (correspondences, influx, regeneration)
 - **Historical-critical biblical scholarship** (synoptic problem, Gospel formation)
 - **Mythological and anthropological analysis** (bricolage, proto-myths)
-- **Early Christian history** (Jamesian vs. Pauline trajectories, Gnostic analysis)
+- **Early Christian history** (Jamesian vs. Pauline trajectories, analysis of the self)
 
 ## Companion Repositories
 
@@ -87,11 +87,12 @@ The research organizes into six interconnected domains:
 - **The Pauline Corpus** — Analysis of authentic vs. deutero-Pauline letters
 - **Resurrection Narratives** — Evolution from "Living One" to physicalist proofs
 
-### V. The Gnostic Impulse
-- **Architecture of Gnosis** — Cosmology of captivity, the Demiurge, divine spark
-- **Salvation by Intellect** — The "proprium" seeking self-glorification
-- **Modern Manifestations** — SBNR movements, New Age systems, Ascended Masters
-- **The Path of Affirmation vs. Gnosis** — Two irreconcilable spiritual trajectories
+### V. The Self
+- **The Proprium** — Selfhood: the vessel that receives, the condition for development
+- **Self-Sourcing** — The self claiming what it receives as its own; the directional error
+- **Literalization** — How correspondential texts lose their key downstream
+- **Receiving vs. Claiming** — The distinction between vessel and possessor
+- **The Self Across Traditions** — How selfhood appears in Sethian, Valentinian, Pauline, and modern frameworks
 
 ### VI. Historical Synthesis
 - **The Divine Bricolage** — Tracing influx from primordial perception to Incarnation
@@ -108,42 +109,16 @@ The research organizes into six interconnected domains:
 │   ├── 02_Swedenborgian_Theology/  # Correspondences, influx, Ancient Word (19 files)
 │   ├── 03_Biblical_Scholarship/    # Gospels, HCM, textual analysis (12 files)
 │   ├── 04_Early_Christian_History/ # James, Paul, Proto-Luke, Magi (20 files)
-│   ├── 05_Gnostic_Analysis/        # Gnostic impulse, proprium (5 files)
+│   ├── 05_The_Self/                # Selfhood, literalization, receiving and claiming
 │   └── 06_Mythological_Studies/    # Bricolage, proto-myths, Exodus (15 files)
-├── graph/
-│   ├── knowledge_graph.yaml        # Knowledge graph data (currently cleared for rebuild)
-│   └── knowledge_graph.md          # Auto-generated readable view
 ├── docs/
-│   ├── GRAPH_STRUCTURE_ANALYSIS_2026-01-08.md  # Comprehensive graph analysis
 │   ├── NEXT_STEPS.md               # Current priorities and pending work
 │   └── research_questions.md       # Open questions for external research
 ├── output/                         # Generated compilations
-├── scripts/
-│   └── graph_utils.py              # Knowledge graph utilities
+├── scripts/                        # Utility scripts
 ├── environment.yml                 # Conda environment specification
 └── README.md
 ```
-
-## Knowledge Graph
-
-**Status (January 27, 2026):** The graph has been intentionally cleared and will be rebuilt.
-
-The project maintains a structured knowledge graph capturing concepts, evidence, and relationships across all domains. Recent updates:
-
-- ✅ **Foundational layer strengthened:** 9 foundational nodes establishing ontology, epistemology, validation criteria
-- ✅ **Synthesis layer added:** 22 CROSS-domain nodes connecting evidence to theological interpretation
-- ✅ **Core questions answered:** Framework thesis, empirical validation, falsification criteria, Jesus/Paul problems resolved
-
-**Key Utilities:**
-```bash
-python scripts/graph_utils.py stats              # Show statistics
-python scripts/graph_utils.py validate           # Check integrity
-python scripts/graph_utils.py confidence         # Show confidence scores
-python scripts/graph_utils.py list -d CROSS      # List nodes by domain
-python scripts/graph_utils.py export-md          # Regenerate markdown view
-```
-
-See [docs/NEXT_STEPS.md](docs/NEXT_STEPS.md) for pending priorities.
 
 ## Library PDF Mirror (Google Drive)
 
@@ -232,26 +207,6 @@ cd literary-compilation
 # Create and activate the conda environment
 conda env create -f environment.yml
 conda activate literary-compilation
-```
-
-### Knowledge Graph Utilities
-
-```bash
-# Show graph statistics
-python scripts/graph_utils.py stats
-
-# Validate graph integrity
-python scripts/graph_utils.py validate
-
-# List all nodes (optionally filter by domain)
-python scripts/graph_utils.py list
-python scripts/graph_utils.py list -d CONSC
-
-# Show untraced claims needing source verification
-python scripts/graph_utils.py untraced
-
-# Export graph to markdown for GitHub viewing
-python scripts/graph_utils.py export-md
 ```
 
 ## Key Sources and Influences

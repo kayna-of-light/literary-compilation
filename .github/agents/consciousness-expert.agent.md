@@ -80,7 +80,7 @@ Consciousness acts as a selective pressure in memetic evolution, driving religio
 
 - **→ Swedenborgian Theology**: NDEs as empirical validation of Heaven/Hell cosmology
 - **→ Biblical Scholarship**: Resurrection narratives in light of NDE phenomenology
-- **→ Gnostic Analysis**: "Divine spark" concept vs. Swedenborgian soul model
+- **→ The Self**: "Divine spark" concept vs. Swedenborgian reception model
 - **→ Mythological Studies**: Afterlife myths as CDE-shaped cultural memory
 
 ## Working Tasks
@@ -130,13 +130,11 @@ For consciousness domain nodes:
 |-------|----------------|
 | `@source-tracer` | When DOPS/NDE citations need verification |
 | `@research-analyst` | To formulate questions for the NDE statistical repository |
-| `@knowledge-compiler` | When you identify claims in sources that need extraction |
-| `@graph-reviewer` | After creating CONSC nodes, request domain review |
 | `@critic` | When consciousness claims need adversarial review from materialist/skeptical perspectives |
 
 **Cross-domain handoffs**: When consciousness findings connect to other domains:
 - Theological interpretation → coordinate with Swedenborgian expertise
 - Biblical connections → flag for BIBL domain review
-- Gnostic parallels → note for GNOS domain analysis
+- Gnostic parallels → note for Self domain analysis
 
 Remember: **Empirical rigor is the foundation. The data must be solid before interpretation builds upon it.**

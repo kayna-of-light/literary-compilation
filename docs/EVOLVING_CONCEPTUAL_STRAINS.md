@@ -397,7 +397,7 @@ Statistical analysis **validates** the "constant state, variable form" principle
 Physicalist resurrection appearances (touching wounds, eating fish) treated as original apostolic experience.
 
 **Documents reflecting earlier position** (ANNOTATED 2026-01-26):
-- [x] `data/05_Gnostic_Analysis/The Paradox of the Pneumatic Ego.md`
+- [x] `data/05_The_Self/The Paradox of the Pneumatic Ego.md`
 - [x] `data/02_Swedenborgian_Theology/The Divine Human in Ultimates_ A Phenomenological and Theological Profile of the Actual Jesus of Love.md`
 
 #### Critically Analyzed Position
@@ -1192,7 +1192,7 @@ For the 1757 instance specifically:
 ### When to Annotate
 
 1. **Document contains superseded understanding** and readers might be misled
-2. **Document is frequently referenced** by other documents or the knowledge graph
+2. **Document is frequently referenced** by other documents
 3. **The evolution is substantive** (not minor refinement)
 
 ### When NOT to Annotate

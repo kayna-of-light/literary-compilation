@@ -700,7 +700,7 @@ CROSS-006 requires revision:
 Framework analyzes Paul's authority claims, confrontations with Jerusalem leadership, and self-glorification alongside passages of apparent humility ("slave of Christ," "least of apostles"). The question is how to interpret these seemingly contradictory self-presentations.
 
 **RESOLUTION:**
-Comprehensively addressed by internal research document: `data/05_Gnostic_Analysis/The Paradox of the Pneumatic Ego.md`
+Comprehensively addressed by internal research document: `data/05_The_Self/The Paradox of the Pneumatic Ego.md`
 
 **Key Findings:**
 

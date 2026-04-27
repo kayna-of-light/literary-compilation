@@ -93,7 +93,6 @@ The central argument: secular scientific findings are accurate but incomplete de
 ### V. The Self
 - **The Proprium** — Selfhood: the vessel that receives, the condition for development
 - **Self-Sourcing** — The self claiming what it receives as its own; the directional error
-- **The Gnostic Impulse** — Self-love's theological mechanism: depersonalizing the Divine, claiming pneumatic authority
 - **Receiving vs. Claiming** — The distinction between vessel and possessor
 - **The Self Across Traditions** — How selfhood is understood in Valentinian, Pauline, and modern frameworks
 
@@ -206,7 +205,7 @@ Jamesian vs. Pauline movements, Desposyni, Magi studies:
 - `Persian Roots of Early Christianity.md` / `Zoroastrianism's Influence...`
 - `The Cycle of Celestial Knowledge...` / `The Luminous Science...` — Magi studies
 
-### `05_The_Self/` — Selfhood, the Proprium, and the Gnostic Impulse
+### `05_The_Self/` — Selfhood, the Proprium, and Self-Sourcing
 Analysis of the self: how it forms, how it claims, how the proprium operates through theological systems:
 - `The Architecture of Hidden Divinity...` — The Gnostic Impulse profiled across 2000 years
 - `The Architecture of Autonomy...` — Validation of Gnostic Impulse as proprium's mechanic
@@ -432,7 +431,7 @@ New documents should be moved to the appropriate `data/` subdirectory:
 | Correspondences, influx, doctrine | `data/02_Swedenborgian_Theology/` |
 | HCM, Gospel analysis, textual | `data/03_Biblical_Scholarship/` |
 | James, Paul, early church | `data/04_Early_Christian_History/` |
-| The self, selfhood, proprium, Gnostic Impulse | `data/05_The_Self/` |
+| The self, selfhood, proprium, self-sourcing | `data/05_The_Self/` |
 | Myth, bricolage, ANE parallels | `data/06_Mythological_Studies/` |
 | Cultural transmission, Disney, Andersen, Grimm | `data/07_Cultural_Pneumatology/` |
 | NHL, Kephalaia, ancient texts read as correspondence | `data/08_Correspondential_Texts/` |
@@ -526,7 +525,7 @@ literary-compilation/
 │   ├── 02_Swedenborgian_Theology/ # Correspondences, influx
 │   ├── 03_Biblical_Scholarship/   # HCM, Gospels, textual analysis
 │   ├── 04_Early_Christian_History/# James, Paul, Magi
-│   ├── 05_The_Self/               # Selfhood, proprium, Gnostic Impulse
+│   ├── 05_The_Self/               # Selfhood, proprium, self-sourcing
 │   ├── 06_Mythological_Studies/   # Bricolage, proto-myths
 │   ├── 07_Cultural_Pneumatology/  # Disney, Andersen, Grimm, cultural transmission
 │   └── 08_Correspondential_Texts/ # NHL, Kephalaia, ancient texts in correspondence

@@ -93,11 +93,26 @@ The research organizes into six interconnected domains:
 ### V. The Self
 - **The Proprium** — Selfhood: the vessel that receives, the condition for development
 - **Self-Sourcing** — The self claiming what it receives as its own; the directional error
-- **Literalization** — How correspondential texts lose their key downstream
 - **Receiving vs. Claiming** — The distinction between vessel and possessor
-- **The Self Across Traditions** — How selfhood appears in Sethian, Valentinian, Pauline, and modern frameworks
+- **The Self Across Traditions** — How selfhood appears in Valentinian, Pauline, and modern frameworks
 
-### VI. Historical Synthesis
+### VI. Mythological Studies
+- **Mythic Bricolage** — Scribal assembly of narrative from memory fragments
+- **Proto-Myth Evolution** — Common ancestors diverging into opposing trajectories
+- **ANE Comparative Studies** — *Enuma Elish*, Genesis parallels
+- **Oral Tradition Durability** — Australian songlines, deep memory
+
+### VII. Cultural Pneumatology
+- **Cultural Transmission** — Swedenborgian correspondences transmitted through literature and popular culture
+- **Disney, Andersen, Grimm** — Correspondential content in fairy tales and animated film
+
+### VIII. Correspondential Texts
+- **NHL Correspondential Reading** — Reading the Nag Hammadi texts as correspondential compositions
+- **Literalization** — How correspondential texts lose their key downstream; "Gnosticism" as the product
+- **Coptic Lexical Evidence** — Material linguistic evidence for the correspondential substrate
+- **Ancient Word Specimens** — Texts that preserve or attest the pre-literary knowledge system
+
+### IX. Historical Synthesis
 - **The Divine Bricolage** — Tracing influx from primordial perception to Incarnation
 - **The Glorification** — The Word made flesh as final "ultimate"
 - **The Last 2000 Years** — Perpetual conflict between love and self-love
@@ -112,8 +127,10 @@ The research organizes into six interconnected domains:
 │   ├── 02_Swedenborgian_Theology/  # Correspondences, influx, Ancient Word (19 files)
 │   ├── 03_Biblical_Scholarship/    # Gospels, HCM, textual analysis (12 files)
 │   ├── 04_Early_Christian_History/ # James, Paul, Proto-Luke, Magi (20 files)
-│   ├── 05_The_Self/                # Selfhood, literalization, receiving and claiming
-│   └── 06_Mythological_Studies/    # Bricolage, proto-myths, Exodus (15 files)
+│   ├── 05_The_Self/                # Selfhood, proprium, self-sourcing
+│   ├── 06_Mythological_Studies/    # Bricolage, proto-myths, Exodus (15 files)
+│   ├── 07_Cultural_Pneumatology/   # Disney, Andersen, Grimm, cultural transmission
+│   └── 08_Correspondential_Texts/  # NHL, Kephalaia, ancient texts in correspondence
 ├── docs/
 │   ├── NEXT_STEPS.md               # Current priorities and pending work
 │   └── research_questions.md       # Open questions for external research

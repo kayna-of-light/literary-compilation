@@ -93,15 +93,26 @@ The central argument: secular scientific findings are accurate but incomplete de
 ### V. The Self
 - **The Proprium** — Selfhood: the vessel that receives, the condition for development
 - **Self-Sourcing** — The self claiming what it receives as its own; the directional error
-- **Literalization** — How correspondential texts lose their key downstream
+- **The Gnostic Impulse** — Self-love's theological mechanism: depersonalizing the Divine, claiming pneumatic authority
 - **Receiving vs. Claiming** — The distinction between vessel and possessor
-- **The Self Across Traditions** — How selfhood is understood in Sethian, Valentinian, Pauline, and modern frameworks
+- **The Self Across Traditions** — How selfhood is understood in Valentinian, Pauline, and modern frameworks
 
 ### VI. Mythological Studies
 - **Mythic Bricolage** — Scribal assembly of narrative from memory fragments
 - **Proto-Myth Evolution** — Common ancestors diverging into opposing trajectories
 - **ANE Comparative Studies** — *Enuma Elish*, Genesis parallels
 - **Oral Tradition Durability** — Australian songlines, deep memory
+
+### VII. Cultural Pneumatology
+- **Cultural Transmission** — Swedenborgian correspondences transmitted through literature and popular culture
+- **Disney, Andersen, Grimm** — Correspondential content in fairy tales and animated film
+
+### VIII. Correspondential Texts
+- **NHL Correspondential Reading** — Reading the Nag Hammadi texts as correspondential compositions
+- **Literalization** — How correspondential texts lose their key downstream; "Gnosticism" as the product
+- **Coptic Lexical Evidence** — Material linguistic evidence for the correspondential substrate
+- **Ancient Word Specimens** — Texts that preserve or attest the pre-literary knowledge system
+- **Body-Correspondence Maps** — The 365-angel passage and anatomical correspondence systems
 
 ---
 
@@ -195,18 +206,21 @@ Jamesian vs. Pauline movements, Desposyni, Magi studies:
 - `Persian Roots of Early Christianity.md` / `Zoroastrianism's Influence...`
 - `The Cycle of Celestial Knowledge...` / `The Luminous Science...` — Magi studies
 
-### `05_The_Self/` — Selfhood, Literalization, Receiving and Claiming
-Analysis of the self: how it forms, how it claims, how correspondential texts depicting the self get literalized:
-- `The Architecture of Hidden Divinity...` — Self-sourcing across traditions
-- `The Architecture of Autonomy...` — Validation of self-sourcing mechanics
-- `The Literalized Fall...` — Sethian corpus as correspondential architecture
-- `Reversing the Arrow...` — "Gnosticism" as downstream literalization
-- `The Living Library...` — Correspondential architecture across the NHL
-- `The Dynastic Archive...` — NHL as family record of the Jesus movement
-- `The Pauline Matrix...` — Self-sourcing in Pauline theology
-- `The Paradox of the Pneumatic Ego...` — Pauline humility and claiming
-- `Dancing with Fire...` — Marcion and the correspondential key
-- `The Apostle of the Archons...` — Pauline self-sourcing forensics
+### `05_The_Self/` — Selfhood, the Proprium, and the Gnostic Impulse
+Analysis of the self: how it forms, how it claims, how the proprium operates through theological systems:
+- `The Architecture of Hidden Divinity...` — The Gnostic Impulse profiled across 2000 years
+- `The Architecture of Autonomy...` — Validation of Gnostic Impulse as proprium's mechanic
+- `The Paradox of the Pneumatic Ego...` — Pauline humility as proprium strategy
+- `Dancing with Fire...` — Marcion and the correspondential key he never possessed
+
+### `08_Correspondential_Texts/` — Ancient Texts Written in Correspondence
+Analysis of non-canonical ancient texts as correspondential compositions — their architecture, vocabulary, provenance, and transmission:
+- `The Living Library...` — Correspondential architecture across the entire NHL
+- `The Literalized Fall...` — Sethian corpus as correspondential architecture without the key
+- `Reversing the Arrow...` — "Gnosticism" as downstream literalization of correspondential composition
+- `The Tongue Beneath the Translation...` — Coptic vocabulary as material evidence for the correspondential substrate
+- `The Unnamed Cartography...` — ApJ body-correspondences validated against Swedenborg
+- `The Book of Zoroaster...` — ApJ as specimen of the Ancient Word
 
 ### `06_Mythological_Studies/` — Bricolage, Proto-Myths (15 files)
 Myth formation, ANE parallels, Exodus narrative analysis:
@@ -418,9 +432,10 @@ New documents should be moved to the appropriate `data/` subdirectory:
 | Correspondences, influx, doctrine | `data/02_Swedenborgian_Theology/` |
 | HCM, Gospel analysis, textual | `data/03_Biblical_Scholarship/` |
 | James, Paul, early church | `data/04_Early_Christian_History/` |
-| The self, selfhood, literalization, receiving and claiming | `data/05_The_Self/` |
+| The self, selfhood, proprium, Gnostic Impulse | `data/05_The_Self/` |
 | Myth, bricolage, ANE parallels | `data/06_Mythological_Studies/` |
 | Cultural transmission, Disney, Andersen, Grimm | `data/07_Cultural_Pneumatology/` |
+| NHL, Kephalaia, ancient texts read as correspondence | `data/08_Correspondential_Texts/` |
 
 Documents in `data/unclassified/` should be classified and moved before or during processing.
 
@@ -511,9 +526,10 @@ literary-compilation/
 │   ├── 02_Swedenborgian_Theology/ # Correspondences, influx
 │   ├── 03_Biblical_Scholarship/   # HCM, Gospels, textual analysis
 │   ├── 04_Early_Christian_History/# James, Paul, Magi
-│   ├── 05_The_Self/               # Selfhood, literalization, receiving and claiming
+│   ├── 05_The_Self/               # Selfhood, proprium, Gnostic Impulse
 │   ├── 06_Mythological_Studies/   # Bricolage, proto-myths
-│   └── 07_Cultural_Pneumatology/  # Disney, Andersen, Grimm, cultural transmission
+│   ├── 07_Cultural_Pneumatology/  # Disney, Andersen, Grimm, cultural transmission
+│   └── 08_Correspondential_Texts/ # NHL, Kephalaia, ancient texts in correspondence
 ├── docs/
 │   └── research_questions.md      # Open questions & gap tracking
 ├── output/                        # Generated documents

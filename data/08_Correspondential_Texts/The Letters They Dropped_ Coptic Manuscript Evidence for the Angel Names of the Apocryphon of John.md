@@ -547,6 +547,7 @@ A glossary of native Coptic body-part terms and their correspondential significa
 
 ### Primary Sources
 
+- Linssen, M. *Nag Hammadi Library Complete Transcription*. 2024. Coptic source texts (NHC II,1 Folios 15–19).
 - Robinson, James M., ed. *The Nag Hammadi Library in English*. 3rd rev. ed. San Francisco: HarperSanFrancisco, 1990.
 - Layton, Bentley, ed. *Nag Hammadi Codex II,2–7: Together with XIII,2*, Brit. Lib. Or.4926(1), and P.Oxy. 1, 654, 655. Nag Hammadi Studies 20. Leiden: Brill, 1989.
 - Waldstein, Michael, and Frederik Wisse, eds. *The Apocryphon of John: Synopsis of Nag Hammadi Codices II,1; III,1; and IV,1 with BG 8502,2*. Nag Hammadi and Manichaean Studies 33. Leiden: Brill, 1995.

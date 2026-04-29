@@ -703,7 +703,7 @@ The following inventory documents the five-fold structures identified in each pa
 - Swedenborg, Emanuel. *Divine Love and Wisdom* (1763). Standard Edition. References by section number (§).
 - Swedenborg, Emanuel. *True Christian Religion* (1771). Standard Edition. References by section number (§).
 - Gardner, Iain, trans. *The Kephalaia of the Teacher: The Edited Coptic Manichaean Texts in Translation with Commentary*. Nag Hammadi and Manichaean Studies 37. Leiden: Brill, 1995.
-- Robinson, James M., ed. *The Nag Hammadi Library in English*. 3rd rev. ed. San Francisco: HarperSanFrancisco, 1990.
+- Linssen, M. *Nag Hammadi Library Complete Transcription*. 2024. Coptic source texts.
 - Anklesaria, Behramgore Tehmuras, trans. *Zand-Ākāsīh: Iranian or Greater Bundahišn*. Bombay, 1956.
 - Koenen, Ludwig, and Cornelia Römer, eds. *Der Kölner Mani-Kodex*. Papyrologica Coloniensia 14. Opladen: Westdeutscher Verlag, 1988.
 

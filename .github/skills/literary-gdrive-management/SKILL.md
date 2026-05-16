@@ -1,6 +1,6 @@
 ---
-name: gdrive-management
-description: "Manage Google Drive sync for literary-compilation. Use when asked to mirror the library to Drive, build styled PDFs, sync data markdown, force rebuild PDFs, dry-run Drive sync, authenticate Google Drive, inspect gdrive settings, or use scripts/mirror_library_to_drive.py."
+name: literary-gdrive-management
+description: "Manage Google Drive sync for literary-compilation. Use when asked to mirror the Literary Compilation library to Drive, build styled PDFs, sync data markdown, force rebuild PDFs, dry-run Drive sync, authenticate Google Drive, inspect literary gdrive settings, or use scripts/mirror_library_to_drive.py."
 ---
 
 # Google Drive Library Mirror Management

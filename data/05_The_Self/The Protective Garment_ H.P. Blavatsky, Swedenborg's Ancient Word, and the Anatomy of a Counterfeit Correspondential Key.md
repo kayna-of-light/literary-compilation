@@ -468,8 +468,8 @@ Primary correspondential-substrate and self-sourcing analyses on which this thes
 Selfhood analyses (this volume, `05_The_Self/`):
 
 - **[T]** [The Architecture of Hidden Divinity: A Comprehensive Profile of the Gnostic Impulse and Its Historical Mechanics](./The%20Architecture%20of%20Hidden%20Divinity_%20A%20Comprehensive%20Profile%20of%20the%20Gnostic%20Impulse%20and%20Its%20Historical%20Mechanics.md)
-- **[T]** [The Architecture of Autonomy: A Pneumatological and Historical Validation of the Gnostic Impulse as the Operational Mechanic of Selfhood](./The%20Architecture%20of%20Autonomy_%20A%20Pneumatological%20and%20Historical%20Validation%20of%20the%20Gnostic%20Impulse%20as%20the%20Operational%20Mechanic%20of%20the%20Proprium.md)
-- **[T]** [The Paradox of the Pneumatic Ego: A Forensic Analysis of Pauline Humility, Rhetorical Strategy, and the Theology of Selfhood](./The%20Paradox%20of%20the%20Pneumatic%20Ego_%20A%20Forensic%20Analysis%20of%20Pauline%20Humility%2C%20Rhetorical%20Strategy%2C%20and%20the%20Theology%20of%20Proprium.md)
+- **[T]** [The Architecture of Autonomy: A Pneumatological and Historical Validation of the Gnostic Impulse as the Operational Mechanic of Selfhood](./The%20Architecture%20of%20Autonomy_%20A%20Pneumatological%20and%20Historical%20Validation%20of%20the%20Gnostic%20Impulse%20as%20the%20Operational%20Mechanic%20of%20Selfhood.md)
+- **[T]** [The Paradox of the Pneumatic Ego: A Forensic Analysis of Pauline Humility, Rhetorical Strategy, and the Theology of Selfhood](./The%20Paradox%20of%20the%20Pneumatic%20Ego_%20A%20Forensic%20Analysis%20of%20Pauline%20Humility%2C%20Rhetorical%20Strategy%2C%20and%20the%20Theology%20of%20Selfhood.md)
 - **[T]** [Dancing with Fire: Marcion of Sinope and the Correspondential Key He Never Possessed](./Dancing%20with%20Fire_%20Marcion%20of%20Sinope%20and%20the%20Correspondential%20Key%20He%20Never%20Possessed.md)
 
 ---

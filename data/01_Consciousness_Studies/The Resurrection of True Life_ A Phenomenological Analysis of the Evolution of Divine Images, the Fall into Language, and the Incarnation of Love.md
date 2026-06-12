@@ -6,7 +6,7 @@
 > This document reflects **earlier understanding** on:
 > - **#2** [Biological Determinism about Jesus](../00_Framework/Epistle%20%E2%80%94%20The%20Divine%20Marriage%20and%20the%20Expression%20of%20the%20Lord%20in%20Ultimates.md) — Section 4.1 uses "soul from the Father / body from the mother" framing; current position: Jesus was a human being whose ruling love was oriented toward the Divine, so the Lord flowed through him without obstruction. This is the path of regeneration any human can walk.
 > 
-> **Summary**: The "assumed human nature from the mother" language reflects 18th-century embryology. The proprium (self) is not removed but oriented—Jesus's ruling love was always toward the Divine.
+> **Summary**: The "assumed human nature from the mother" language reflects 18th-century embryology. The self is not removed but oriented—Jesus's ruling love was always toward the Divine.
 > ---
 
 ## **Introduction: The Epistemological Crisis and the Nature of Conceptual Falsity**
@@ -87,7 +87,7 @@ Historical scholarship views the Exodus epic as a "composite memory"—a foundat
 The resulting history is "true" not because it is a videotape of a single event, but because it aligns with the inner reality:
 
 * **Egypt** corresponds to the **Natural Mind** (the outer layer).  
-* **Pharaoh** corresponds to the **Proprium** (Self-Love, the falsity).  
+* **Pharaoh** corresponds to the **Self** (Self-Love, the falsity).  
 * **The Exodus** corresponds to the **Liberation** of the spiritual understanding.
 
 Here, the "natural factual basis" (the actual history of the Late Bronze Age collapse) "merely aligns" with the conceptual framework, just as the user proposes. The history happened, but its *meaning* is the spiritual alignment. The events of the Iron Age were orchestrated to be a "living allegory."
@@ -114,7 +114,7 @@ The user's proposition culminates in the narrative of Jesus, "finally and truly 
 The Incarnation represents the end of the "Fall." For millennia, the Divine had to communicate *through* the outer layer (allegories, prophets, texts). In Jesus, the Influx *became* the Vessel.  
 The scholarly distinction between the "historical Jesus" and the "Christ of faith" is a perfect description of this dual nature, confirming the user's view of "inner reality" vs. "outer means":
 
-> **[CORRECTION #2]**: The following framing uses "soul from the Father / body from the mother" language reflecting 18th-century embryology. Jesus was a human being whose ruling love was oriented toward the Divine—not toward self—so the Lord flowed through him without obstruction. The proprium (self) is not removed; it is the *orientation* that matters. This is the path of regeneration any human can walk.
+> **[CORRECTION #2]**: The following framing uses "soul from the Father / body from the mother" language reflecting 18th-century embryology. Jesus was a human being whose ruling love was oriented toward the Divine—not toward self—so the Lord flowed through him without obstruction. The self is not removed; it is the *orientation* that matters. This is the path of regeneration any human can walk.
 
 * **The Historical Jesus** (the outer layer) corresponds to the external, assumed human nature from the mother, Mary. This part was finite, visible, and subject to the "falsity" of the human condition (temptation). He had to learn to speak, read, and navigate the "fallen" world of concepts.  
 * **The Christ of Faith** (the inner reality) corresponds to the internal, Divine Soul from Jehovah—the influx itself.
@@ -123,7 +123,7 @@ The Lord's life was a process of "Glorification," wherein the internal Divine pr
 
 ### **4.2 The "Criterion of Temptation" and the Conquest of the Outer Layer**
 
-The user argues that Jesus validates God "working not through outer means but being deeply connecting through our hearts." This is precisely the theological outcome of the Glorification. By conquering the "proprium" (the self-love that creates the outer layer/falsity), Jesus reopened the internal way that had been closed since the Golden Age.  
+The user argues that Jesus validates God "working not through outer means but being deeply connecting through our hearts." This is precisely the theological outcome of the Glorification. By conquering the "self" (the self-love that creates the outer layer/falsity), Jesus reopened the internal way that had been closed since the Golden Age.  
 Historical scholarship uses the "Criterion of Embarrassment" to identify authentic historical facts—events that the early church would not have invented because they were awkward (e.g., Jesus being baptized by John for the remission of sins, or Jesus crying out on the cross). This framework reinterprets these "embarrassments" as the "Criterion of Temptation".
 
 * **Baptism:** This was not a ritual for a sinless God, but the "outer layer" (the Human) accepting the burden of the "Falsity" of the world to engage in combat with it.  
@@ -147,7 +147,7 @@ One path continues the error of the Fall: the "Path of Gnosis" or "Salvation by 
 * **Tactic:** It splits the identity (separating "Jesus" from "Christ"). It claims that "Christ" is an impersonal principle and "Jesus" was just a man.  
 * **Result:** It creates a "hybrid system" (like *A Course in Miracles* or *The Law of One*) that uses the language of love but delivers a message of self-glorification ("I am God").
 
-This path fails the user's test: its concepts do *not* align with the inner reality of humble love; they align with the proprium's desire for power. It represents the "utter incapability of understanding" persisting despite the Revelation.
+This path fails the user's test: its concepts do *not* align with the inner reality of humble love; they align with the self's desire for power. It represents the "utter incapability of understanding" persisting despite the Revelation.
 
 ### **5.2 The Path of Affirmation (The Resurrection of Love)**
 
@@ -200,8 +200,8 @@ The following tables summarize the structural evidence supporting the user's pro
 | Historical "Fact" (The Outer Layer) | Spiritual Correspondence (The Inner Reality) | Alignment Status |
 | :---- | :---- | :---- |
 | **Abraham, Isaac, Jacob** | The Celestial, Spiritual, Natural principles of the mind. | **Perfect Alignment:** The history was guided to mirror the mind's regeneration. |
-| **Pharaoh** | The Proprium (Self-Love) that enslaves the mind. | **True:** Represents the "falsity" of the outer layer. |
-| **The Exodus** | The liberation of the soul from the Proprium. | **True:** The "factual basis" aligns with the conceptual framework. |
+| **Pharaoh** | The Self (Self-Love) that enslaves the mind. | **True:** Represents the "falsity" of the outer layer. |
+| **The Exodus** | The liberation of the soul from the Self. | **True:** The "factual basis" aligns with the conceptual framework. |
 | **The Crucifixion** | The destruction of the maternal human (outer layer). | **Culmination:** The final removal of the barrier between Man and God. |
 
 ### **Table 4: The Two Paths Post-Incarnation**

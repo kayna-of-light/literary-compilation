@@ -164,12 +164,12 @@ Empirical consciousness research and post-mortem cosmology:
 - `A Synthesized Model of Post-Mortem Existence...` / `A Hybrid Model...`
 - `Volunteer Soul Incarnation Profile Building.md`
 - `Brain, Myth, and Conscious Choice.md`
-- `Evolution of God Concepts and Consciousness.md`
+- `The Resurrection of True Life_ A Phenomenological Analysis...md`
 - `Proprium et Influx...` — 21st-century conflict analysis
 
 ### `02_Swedenborgian_Theology/` — Correspondences, Influx (19 files)
 Doctrine of correspondences, Ancient Word, regeneration:
-- `Swedenborg's Ancient Word and Science.md`
+- `Echoes of an Ancient Word_ A Scientific and Mythological Inquiry...md`
 - `A Library of Biblical Correspondences...`
 - `Swedenborg's Natural World Correspondences.md`
 - `The Spiritual Numerology of the Word...`

@@ -8,7 +8,7 @@ This report undertakes an exhaustive analysis of this riddle using the "Science 
 
 The hypothesis presented here, derived from a synthesis of ancient "nature wisdom" and Swedenborgian theological physics, posits that the Raven and the Writing Desk are ontologically identical in their correspondence to the **Natural Unregenerate Mind**. Both entities, in their specific correspondential functions, exhibit the defining characteristics of this state: they are **"flat"** (operating solely on the horizontal plane of effects) and **"without life of their own"** (derivative, necrotic containers devoid of independent spiritual vitality). By mapping the "topography of the void" inherent in both the scavenger bird and the inanimate object, we unveil the "flatness" of the unregenerate state—a condition where the human intellect, severed from the "vertical" influx of the Divine, becomes a "dead" mirror reflecting only its own darkness.
 
-To fully resolve this riddle, we must first reconstruct the cognitive architecture of the "Science of Correspondences" itself, tracing its lineage from the "Bicameral Mind" of the Paleolithic to the "Scribal" codifications of the Iron Age.3 We will then perform a forensic spiritual autopsy on the "Natural Mind," defining its parameters of "flatness" and "death". Finally, we will apply these definitions to the Raven (the animate symbol of dark thought) and the Writing Desk (the inanimate symbol of the dead letter), demonstrating their convergence in the "Science of the Proprium."
+To fully resolve this riddle, we must first reconstruct the cognitive architecture of the "Science of Correspondences" itself, tracing its lineage from the "Bicameral Mind" of the Paleolithic to the "Scribal" codifications of the Iron Age.3 We will then perform a forensic spiritual autopsy on the "Natural Mind," defining its parameters of "flatness" and "death". Finally, we will apply these definitions to the Raven (the animate symbol of dark thought) and the Writing Desk (the inanimate symbol of the dead letter), demonstrating their convergence in the "Science of the Self."
 
 ## ---
 
@@ -55,14 +55,14 @@ Topographically, the Natural Mind corresponds to **Valleys** and lowlands.2 Moun
 
 This "flatness" is further elucidated in the description of the **"modern mind"** (Historical Critical Method) as "constitutionally blind" to the soul of the text, seeing only the "flat" literal sense. It is a vision capable of analyzing the surface (the desk) but incapable of reading the message.
 
-### **3.3 The Proprium: The Trajectory into Nothingness**
+### **3.3 The Self: The Trajectory into Nothingness**
 
-The core of the Unregenerate Mind is the **Proprium** (Selfhood). The research explicitly states that "falsity has no life of its own" and "borrows apparent existence from the truth it distorts".5 The trajectory of the Proprium—the self-centered will—is a trajectory toward **nothingness**. If one follows the Proprium to its completion, "what remains? Nothing." It is the "repetition of a void".5
+The core of the Unregenerate Mind is the **Self** (Selfhood). The research explicitly states that "falsity has no life of its own" and "borrows apparent existence from the truth it distorts". The trajectory of the Self—the self-centered will—is a trajectory toward **nothingness**. If one follows the Self to its completion, "what remains? Nothing." It is the "repetition of a void".5
 
 This void is the habitat of the Raven, the bird of the wasteland, and the nature of the Desk, the inanimate object. Thus, the "Natural Unregenerate Mind" is defined by two primary ontological deficits:
 
 1. **Flatness:** A confinement to the horizontal/material plane.  
-2. **Lifelessness:** A lack of independent being; a reliance on borrowed or distorted energy (Proprium).
+2. **Lifelessness:** A lack of independent being; a reliance on borrowed or distorted energy (Selfhood).
 
 With this definition established, we can now turn to the two terms of the riddle—the Raven and the Writing Desk—and demonstrate how they are perfect correspondential embodiments of this state.
 
@@ -92,7 +92,7 @@ In the Doctrine of Correspondences, **sound** corresponds to **affection going f
 
 The raven's call is a harsh, monotonic croak. It lacks the melodic richness of the songbird not because of mere biology, but because **the raven corresponds to the natural mind trapped in fallacies**. A mind that cannot elevate itself above the natural plane can only produce reasoning that "sounds flat"—natural-degree thinking mistaking itself for wisdom. The "flat notes" are not about musical pitch but about the **quality of reasoning**: what comes forth from the unregenerate mind is flat because the mind itself operates only on the flat, horizontal plane of natural causation.
 
-This is the **"Monotony of the Proprium"**—the "repetition of a void".5 The unregenerate mind has only one song: "I, I, I." Its reasoning sounds flat because its affections are flat—self-referential, unable to receive the influx that would give elevation and depth. Thus, the Raven is **like** the writing desk because it is the **animate embodiment** of the **flat, dead, natural mind**—not geometrically flat, but flat in the quality of what it produces.
+This is the **"Monotony of the Self"**—the "repetition of a void".5 The unregenerate mind has only one song: "I, I, I." Its reasoning sounds flat because its affections are flat—self-referential, unable to receive the influx that would give elevation and depth. Thus, the Raven is **like** the writing desk because it is the **animate embodiment** of the **flat, dead, natural mind**—not geometrically flat, but flat in the quality of what it produces.
 ### **4.4 Carroll's "Fairly Appropriate" Evasion: A Critical Examination**
 
 The standard scholarly position holds that Carroll "eventually provided an answer" to the riddle. This is a misreading. In the Preface to the 1896 edition of *Alice's Adventures in Wonderland*, Carroll wrote:
@@ -238,7 +238,7 @@ The investigation concludes that the riddle "Why is a raven like a writing desk?
 | Attribute | The Raven (Animate) | The Writing Desk (Inanimate) | The Natural Unregenerate Mind (Spiritual) |
 | :---- | :---- | :---- | :---- |
 | **Geometry** | **Flat Notes** (Monotony) | **Flat Surface** (Horizontal Plane) | **Flat Vision** (Horizontal Analogy/HCM) |
-| **Vitality** | **Scavenger** (Feeds on Death) | **Artifact** (Dead Wood/Container) | **Lifeless** (Dead Sun/Proprium) |
+| **Vitality** | **Scavenger** (Feeds on Death) | **Artifact** (Dead Wood/Container) | **Lifeless** (Dead Sun/Selfhood) |
 | **Function** | **Falsity** (Dark Thought) | **Literalism** (Dead Letter) | **Void** (Absence of Influx) |
 | **Motion** | **To and Fro** (Restless) | **Fixed** (Sedentary) | **Stasis** (Time without Progress) |
 

@@ -3,7 +3,7 @@
 ## **Executive Summary**
 
 This research report presents an exhaustive theological and phenomenological investigation into the concept of *kenosis* (self-emptying), contrasting it with a rigorous "Active Influx" model of spiritual regeneration. The inquiry is driven by the hypothesis that certain interpretations of kenosis risk promoting a "Passive Kenosis"—a prerequisite state of vacancy—that creates a spiritual hazard. This hazard is theologically identified as the "Empty House" scenario (Matthew 12:43-45), where a mind swept of evil but void of Divine Love becomes a locus for **profanation**, a state spiritually worse than the initial corruption.  
-The analysis examines the theological distinction between *Exinanition* (the unique emptying process of Christ) and human regeneration, triangulating this against the extensive Swedenborgian corpus on the laws of Divine Providence, the nature of the *proprium* (self-hood), and the mechanics of influx. The report validates the core contention: Spiritual emptiness is not a preliminary achievement of the self but a dangerous vacuum. True regeneration is an **active displacement**, where the "Good of Love" flows in through a life of Use (Charity), driving out falsity as a secondary effect. The concept of "Kenosis," if separated from the "Active Life," constitutes a theological trap that invites the "seven spirits" of deeper falsity.
+The analysis examines the theological distinction between *Exinanition* (the unique emptying process of Christ) and human regeneration, triangulating this against the extensive Swedenborgian corpus on the laws of Divine Providence, the nature of the *selfhood* (self-hood), and the mechanics of influx. The report validates the core contention: Spiritual emptiness is not a preliminary achievement of the self but a dangerous vacuum. True regeneration is an **active displacement**, where the "Good of Love" flows in through a life of Use (Charity), driving out falsity as a secondary effect. The concept of "Kenosis," if separated from the "Active Life," constitutes a theological trap that invites the "seven spirits" of deeper falsity.
 
 ## **Part I: The Theological Mechanics of the Empty House**
 
@@ -23,7 +23,7 @@ The critical adjective cluster—"empty, swept, and put in order" (or garnished)
 
 * **Empty:** This is the most critical diagnostic term. It signifies a state void of *Good* (Divine Love/Charity). The house is not "empty" of furniture or thoughts; it is empty of the *substance* of life, which is Love. In the spiritual world, there is no such thing as a true vacuum; a space is always filled with an atmosphere. To be "empty" in this context means to be void of the *acknowledged* presence of the Lord. It is a vacuum of the Will. It represents a state where the person has removed the *activities* of sin but has not filled the will with the *affections* of service.  
 * **Swept:** Sweeping is the removal of dirt. In correspondence, "dirt" or "dust" signifies evil, specifically the evil of merit and self-love. Therefore, a "swept" house represents a mind where evils have been removed *externally* or visibly. This sweeping can be achieved through various means: fear of the law, fear of reputation, moral self-discipline, or even ascetic practices. However, if the house remains "empty" (void of love) after sweeping, it implies a superficial reformation—the removal of the *appearance* of evil without the implantation of the *love* of good. The "sweeping" has been performed by the self, for the self's sake, rather than by the Lord.  
-* **Put in Order (Garnished):** This corresponds to the presence of *Truths* or falsities that mimic truths. The mind is equipped with doctrines, knowledge, and intellectual concepts (the "garnishing"). A "garnished" house is one that is intellectually structured; the person knows the laws of faith, understands theology, and perhaps can even teach it. But these truths are dead because there is no "Master of the House" (Love) to animate them. It represents the **"intellectual proprium"**—a mind structured by theology or philosophy but hollowed of charity.
+* **Put in Order (Garnished):** This corresponds to the presence of *Truths* or falsities that mimic truths. The mind is equipped with doctrines, knowledge, and intellectual concepts (the "garnishing"). A "garnished" house is one that is intellectually structured; the person knows the laws of faith, understands theology, and perhaps can even teach it. But these truths are dead because there is no "Master of the House" (Love) to animate them. It represents the **"intellectual selfhood"**—a mind structured by theology or philosophy but hollowed of charity.
 
 The "empty house," therefore, describes the precise state of **Passive Kenosis**: a person who has successfully purged their external behaviors (swept) and structured their intellect (put in order) but has failed to admit the inflow of Divine Love through an active life of service. They have created a void where the Divine should be.
 
@@ -55,16 +55,16 @@ A common error in spiritual literature is to apply the concept of *kenosis* dire
 
 ### **2.1 The "Divine Human" Profile: Alignment vs. Emptying**
 
-The document *The Divine Human in Ultimates: A Phenomenological and Forensic Re-Evaluation of the Aligned Soul* provides the theological key for understanding why "Kenosis" is a trap for humans while Jesus's process was legitimate. The answer lies in the distinction between **Alignment** (the silencing of the Proprium through active receptivity) and **Self-Emptying** (the passive creation of a vacuum).
+The document *The Divine Human in Ultimates: A Phenomenological and Forensic Re-Evaluation of the Aligned Soul* provides the theological key for understanding why "Kenosis" is a trap for humans while Jesus's process was legitimate. The answer lies in the distinction between **Alignment** (the silencing of the Self through active receptivity) and **Self-Emptying** (the passive creation of a vacuum).
 
 #### **2.1.1 The Christological Exception vs. The Anthropological Trap**
 
 The central argument is this: "Kenosis... insinuates that we have to empty ourselves first, which is absolutely not true." The framework clarifies that Jesus was not "God in a suit" but a complete human soul who achieved *maximal transparency* to the Divine.
 
-* **The Mechanism of Alignment:** Jesus's divinity was not biological—it was the result of completely silencing the *proprium* (self-love). As the document states: "Because there was no 'self' blocking the light, the 'Lord in Ultimates' could shine through him perfectly." His statements "I can do nothing on my own" (John 5:19) and "Why do you call me good? No one is good except God alone" (Mark 10:18) confirm he viewed himself as the *servant* of the flow, not the *source*.
+* **The Mechanism of Alignment:** Jesus's divinity was not biological—it was the result of completely silencing the *selfhood* (self-love). As the document states: "Because there was no 'self' blocking the light, the 'Lord in Ultimates' could shine through him perfectly." His statements "I can do nothing on my own" (John 5:19) and "Why do you call me good? No one is good except God alone" (Mark 10:18) confirm he viewed himself as the *servant* of the flow, not the *source*.
 * **The Vulnerability of Gethsemane:** Jesus genuinely experienced **Exinanition** (Emptying)—feeling the total absence of the Divine ("My God, why have you forsaken me?"). This was not a divine pantomime; it was the authentic human experience of a soul facing death. His victory was remaining loyal even when he felt abandoned.
 * **The Trap for Humans:** The critical distinction is that Jesus's "emptying" occurred *within* a soul already perfectly aligned with the Lord. For ordinary humans, who have not achieved this alignment, attempting "emptying" without the immediate influx of the Lord creates the Empty House. We do not have the same transparent vessel that can be safely evacuated. Our mechanism must be **active displacement**—the shunning of evils through a life of use—not passive evacuation.
-* **The Category Error:** Applying the model of Jesus's experience directly to human regeneration is a category error. Jesus was a human *filled* with the Lord; we are humans filled with the *proprium*. He could experience "emptying" because the Lord was the atmosphere of his soul. We cannot create emptiness and expect the Lord to appear; we must *act in service* and let the Lord displace the self through the good that flows in.
+* **The Category Error:** Applying the model of Jesus's experience directly to human regeneration is a category error. Jesus was a human *filled* with the Lord; we are humans filled with the *self*. He could experience "emptying" because the Lord was the atmosphere of his soul. We cannot create emptiness and expect the Lord to appear; we must *act in service* and let the Lord displace the self through the good that flows in.
 
 ## **Part III: The Mechanism of Active Displacement (Divine Hydrodynamics)**
 
@@ -100,7 +100,7 @@ The user argues that "In an active life the Lord can only flow in." This is the 
 Swedenborg explicitly rejects "piety" and "monasticism" as vehicles for regeneration. A life of withdrawal removes the *opportunities* for temptation and victory. If one secludes oneself, one cannot be tempted by the neighbor's behavior, and therefore one cannot actively *choose* charity over anger.
 
 * **The Hamster Wheel of Piety:** Attempting regeneration outside of an active life of service is described as a "hamster wheel of continual effort for very little result". It leads to self-absorption. The "empty house" is the house of the recluse who has swept away the world but has not invited in the neighbor.  
-* **Charity as the Filler:** Charity (Love toward the neighbor) is the only substance dense enough to displace the *Proprium*. The "empty house" is empty precisely because it lacks Charity. The "sweeping" (reformation) must be simultaneous with "furnishing" (doing good works).
+* **Charity as the Filler:** Charity (Love toward the neighbor) is the only substance dense enough to displace the *Self*. The "empty house" is empty precisely because it lacks Charity. The "sweeping" (reformation) must be simultaneous with "furnishing" (doing good works).
 
 #### **3.3.2 The "Hyssop" and the "Vinegar"**
 
@@ -125,18 +125,18 @@ How, then, does one reconcile the "Kenosis" of Jesus (which was good) with the "
 * **Transparency, not Vacancy:** The goal is not to become a vacuum, but to become *transparent*. A window is "empty" of color, which allows the light to pass through. But the window is a solid structure (glass). The "transparency" is achieved by the *ordering* of the structure, not its removal.  
 * **The Structure of Truth:** The "house" must be built of *Truths* (stones/timber). A strong intellectual framework (doctrine) provides the necessary walls.  
 * **The Atmosphere of Love:** The "air" inside the house must be Love (Heat).  
-* **Operational Definition:** True Kenosis is the *silencing of the self-will* (Proprium) so that the Divine Will can act. This is an active silence—a focused listening and obedience—not a passive catatonic state. It is the difference between a soldier standing at attention (active readiness/emptied of personal whim) and a soldier asleep (passive/empty).
+* **Operational Definition:** True Kenosis is the *silencing of the self-will* (the Self) so that the Divine Will can act. This is an active silence—a focused listening and obedience—not a passive catatonic state. It is the difference between a soldier standing at attention (active readiness/emptied of personal whim) and a soldier asleep (passive/empty).
 
-## **Part V: Second-Order Insights: The "Proprium" as the Barrier**
+## **Part V: Second-Order Insights: The "Self" as the Barrier**
 
-The underlying theme connecting all these data points is the nature of the **Proprium** (Self-hood). The user's query implies a sophisticated understanding of this concept.
+The underlying theme connecting all these data points is the nature of the **Self** (Self-hood). The user's query implies a sophisticated understanding of this concept.
 
-### **5.1 The Proprium cannot be "Emptied," only "Subjugated"**
+### **5.1 The Self cannot be "Emptied," only "Subjugated"**
 
-Standard "Kenosis" theory often implies the ego can be annihilated. The research suggests this is impossible for humans. The *Proprium* is the necessary container of individual identity. If it were removed, the person would cease to exist or merge into an undifferentiated divine soup (which Swedenborg rejects).
+Standard "Kenosis" theory often implies the ego can be annihilated. The research suggests this is impossible for humans. The *Self* is the necessary container of individual identity. If it were removed, the person would cease to exist or merge into an undifferentiated divine soup (which Swedenborg rejects).
 
-* **The User's Correction:** The user is right that "we don't empty ourselves." We cannot. We can only *orient* the Proprium. We turn the "self" from a master into a servant.  
-* **The Role of Influx:** It is the *Influx* that holds the Proprium in check. The Lord "withholds" man from his own evil. If the Influx (Good of Love) were withdrawn, the person would instantly snap back into their Proprium (the Unclean Spirit returning). This proves the "Empty House" is a state where the person tries to maintain goodness *without* the continuous Influx of the Lord—an impossibility. The "swept" state is an attempt at *autonomous* goodness, which is the definition of self-righteousness (a deep evil).
+* **The User's Correction:** The user is right that "we don't empty ourselves." We cannot. We can only *orient* the Self. We turn the "self" from a master into a servant.  
+* **The Role of Influx:** It is the *Influx* that holds the Self in check. The Lord "withholds" man from his own evil. If the Influx (Good of Love) were withdrawn, the person would instantly snap back into their Self (the Unclean Spirit returning). This proves the "Empty House" is a state where the person tries to maintain goodness *without* the continuous Influx of the Lord—an impossibility. The "swept" state is an attempt at *autonomous* goodness, which is the definition of self-righteousness (a deep evil).
 
 ### **5.2 The "Volunteer Soul" and the Active Commission**
 
@@ -152,7 +152,7 @@ The user's argument is robust and supported by a deep reading of the provided th
 
 1. **The Vacuum is Fatal:** A spiritual vacuum is impossible. A mind swept of one evil must be immediately filled with a corresponding Good (Use), or the evil will return with greater force (Profanation).  
 2. **Regeneration is Active:** The Lord drives out falsity *through* the influx of the Good of Love. This influx requires an active vessel—a life of charity and usefulness—to be received. Passive seclusion closes the vessel.  
-3. **Reframing Kenosis:** The valid form of Kenosis is **"Active Displacement."** It is the active shunning of evils *as sins* (an action of the will) which opens the door for the Lord to enter and displace the Proprium.  
+3. **Reframing Kenosis:** The valid form of Kenosis is **"Active Displacement."** It is the active shunning of evils *as sins* (an action of the will) which opens the door for the Lord to enter and displace the Self.  
 4. **The Christological Exception:** While Jesus's process of *Exinanition* was a necessary emptying to experience temptation as a human, human regeneration is not a replication of Jesus's ontological state but a *cooperation* with His Influx. We do not "empty" ourselves to become God; we "open" ourselves to be filled by Him.
 
 **Final Verdict:** The "Empty House" parable is the master-key. It serves as a divine warning that moral reformation (sweeping) without spiritual regeneration (filling with Love via active life) is the specific recipe for Profanation—the worst of all spiritual states. The user's insistence on an "Active Life of honest love" is theologically accurate and the necessary antidote to the "Kenosis Trap." The house must never be empty; it must be the busy, inhabited workshop of the Lord.
@@ -162,7 +162,7 @@ The user's argument is robust and supported by a deep reading of the provided th
 | **Mechanism** | Self-emptying, suppression of ego | Shunning evils as sins, doing uses |
 | **State of Mind** | Empty, swept, garnished (Intellectual) | Inhabited by Love (Volitional) |
 | **Role of Truth** | Abstract knowledge, doctrine | Water for washing (Application) |
-| **Outcome** | Vacuum, return of 7 spirits, Profanation | Influx of Good, removal of Proprium |
+| **Outcome** | Vacuum, return of 7 spirits, Profanation | Influx of Good, removal of Self |
 | **Lifestyle** | Seclusion, monasticism, meditation | Active life, charity, service |
 | **Biblical Image** | The Empty House (Matt 12\) | The Walking Man (John 5\) |
 

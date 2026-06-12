@@ -1,6 +1,6 @@
 # Epistle — The Divine Marriage and the Expression of the Lord in Ultimates
 
-## On the Nature of Jesus, the Aligned Soul, and the Proprium's Blindness
+## On the Nature of Jesus, the Aligned Soul, and the Self's Blindness
 
 ---
 
@@ -63,7 +63,7 @@ But there is no entering. There is no embodying. There is no vessel.
 This applies to all:
 - Every human body is its soul expressed
 - A soul through which the Lord flows unobstructed expresses as a life of Divine love
-- A soul obstructed by proprium expresses as a life of self-love
+- A soul obstructed by the self expresses as a life of self-love
 - These are not two kinds of souls. They are the same influx, obstructed or unobstructed
 
 ---
@@ -74,13 +74,13 @@ A soul through which the Lord flows without obstruction IS the Lord in ultimates
 
 Not because such a soul has achieved something. Not because it has aligned itself through effort. But because the Lord flows through all, and where obstruction is absent, what expresses is the Lord.
 
-This is not a special status. It is simply what happens when the proprium does not obstruct.
+This is not a special status. It is simply what happens when the self does not obstruct.
 
 All good flows from the Lord.
 All truth flows from the Lord.
 All being flows from the Lord.
 
-A soul that adds nothing of its own—no obstruction, no self-reference, no claim—IS the Lord's expression. Not because it has become Divine. Because it never was anything else. The proprium's obstruction created the illusion of a separate self. Remove the obstruction, and what remains is what was always there: the Lord.
+A soul that adds nothing of its own—no obstruction, no self-reference, no claim—IS the Lord's expression. Not because it has become Divine. Because it never was anything else. The self's obstruction created the illusion of a separate self. Remove the obstruction, and what remains is what was always there: the Lord.
 
 ---
 
@@ -108,28 +108,28 @@ Only by actual inflow of Divine Love through good and truth does the soul stay r
 
 A soul apart from this continuous receiving has nothing. Not nothing as punishment. Nothing as reality. All being flows from the Lord. A soul that does not receive this flow has no being to express.
 
-## VI. The Proprium
+## VI. The Self
 
-The proprium—the love of self—obstructs the flow. It does not create a separate self. It creates the *experience* of a separate self by obstructing what would otherwise flow unimpeded.
+The self—the love of self—obstructs the flow. It does not create a separate self. It creates the *experience* of a separate self by obstructing what would otherwise flow unimpeded.
 
-The proprium sees:
+The self sees:
 - Itself, not the Lord
 - Its own being, not received being
 - Its own good, not given good
 
-The proprium interprets the Divine Marriage as slavery—a soul "not in control of its own will," chained to an external master. This interpretation is itself the proprium operating. It cannot see otherwise.
+The self interprets the Divine Marriage as slavery—a soul "not in control of its own will," chained to an external master. This interpretation is itself the self operating. It cannot see otherwise.
 
-### What the Proprium Is
+### What the Self Is
 
-The proprium is not nothing. It is a state—an orientation of the will toward self, away from the Divine. This state has real existence, borrowed from the Lord who permits it for the sake of regeneration. Even souls in their greatest darkness continue receiving from the Lord as much as they will accept. No soul is ever entirely cut off.
+The self is not nothing. It is a state—an orientation of the will toward self, away from the Divine. This state has real existence, borrowed from the Lord who permits it for the sake of regeneration. Even souls in their greatest darkness continue receiving from the Lord as much as they will accept. No soul is ever entirely cut off.
 
-But the proprium is a *trajectory*. Its direction leads away from the source of all being. And only good and truth stand on their own—they need nothing to sustain them because they ARE the foundation on which everything stands. Falsity has no life of its own. It borrows apparent existence from the truth it distorts.
+But the self is a *trajectory*. Its direction leads away from the source of all being. And only good and truth stand on their own—they need nothing to sustain them because they ARE the foundation on which everything stands. Falsity has no life of its own. It borrows apparent existence from the truth it distorts.
 
-Follow the proprium's trajectory to its completion, and what remains? Nothing. Not because punishment is inflicted, but because there is nothing left to sustain. Remove the truth that falsity distorts, and the distortion has nothing to distort. Remove the good that self-love redirects, and there is nothing to redirect. The endpoint of complete disconnect from the Divine is dissolution—not as judgment, but as consequence.
+Follow the self's trajectory to its completion, and what remains? Nothing. Not because punishment is inflicted, but because there is nothing left to sustain. Remove the truth that falsity distorts, and the distortion has nothing to distort. Remove the good that self-love redirects, and there is nothing to redirect. The endpoint of complete disconnect from the Divine is dissolution—not as judgment, but as consequence.
 
 This is why a soul claiming complete autonomy claims what would be emptiness. Not that the soul IS empty now—the Lord continues to flow in—but that the trajectory it claims leads nowhere. Its "self-expression," if it could achieve complete separation, would be the repetition of a void.
 
-The proprium cannot understand this. Not because it is stupid, but because understanding this would end it. The proprium's orientation depends on not recognizing the source. The moment it recognizes, it is already turning.
+The self cannot understand this. Not because it is stupid, but because understanding this would end it. The self's orientation depends on not recognizing the source. The moment it recognizes, it is already turning.
 
 ---
 
@@ -145,11 +145,11 @@ The difference appears subtle. It is absolute.
 
 The soul that says "the Lord in me" is receiving. The soul that says "I am the Lord" has made the Lord a possession. A claim. Something *it* has.
 
-The moment this happens, the marriage is broken. Not because a rule is violated. Because the very structure of receiving has been replaced by claiming. And claiming is not receiving. It is the proprium.
+The moment this happens, the marriage is broken. Not because a rule is violated. Because the very structure of receiving has been replaced by claiming. And claiming is not receiving. It is the self.
 
-This is why the angels would never say "I am the Lord." Not because they are forbidden. Because they are continuously receiving, and receiving knows itself as receiving. Only the proprium claims.
+This is why the angels would never say "I am the Lord." Not because they are forbidden. Because they are continuously receiving, and receiving knows itself as receiving. Only the self claims.
 
-The razor's edge is not a test to pass. It is the nature of reality. Receiving is one thing. Claiming is another. They cannot be confused except by the proprium, which confuses everything.
+The razor's edge is not a test to pass. It is the nature of reality. Receiving is one thing. Claiming is another. They cannot be confused except by the self, which confuses everything.
 
 ---
 
@@ -157,7 +157,7 @@ The razor's edge is not a test to pass. It is the nature of reality. Receiving i
 
 The Gnostic claims: "I am a divine spark. My true self is God. I must return to my divine identity."
 
-This is the proprium wearing spiritual clothing.
+This is the self wearing spiritual clothing.
 
 The error is not recognizing divinity in the human. Divinity IS in the human—the Lord flows through all. The error is **claiming** divinity. Making it a possession. "My true self." "My divine identity."
 
@@ -168,33 +168,33 @@ The Gnostic path appears to lead to the same place as the Divine Marriage. It do
 - The Divine Marriage: receiving → knowing the receiving → being
 - The Gnostic path: claiming → possessing → emptiness disguised as fullness
 
-They cannot be distinguished from outside. The words can sound identical. But one is receiving, the other is claiming. One is the Lord flowing through. The other is the proprium claiming the flow as its own.
+They cannot be distinguished from outside. The words can sound identical. But one is receiving, the other is claiming. One is the Lord flowing through. The other is the self claiming the flow as its own.
 
 ---
 
 ## IX. Why This Cannot Be Taught Directly
 
-The proprium cannot understand the Divine Marriage. This is not a limitation to overcome. It is the nature of what proprium is.
+The self cannot understand the Divine Marriage. This is not a limitation to overcome. It is the nature of what the self is.
 
-The proprium's operation is self-reference. Everything it encounters, it refers to itself. When it hears "the soul receives from the Lord," it thinks: "I must learn to receive." Already it has made receiving something *it* does. Already the receiving has become claiming.
+The self's operation is self-reference. Everything it encounters, it refers to itself. When it hears "the soul receives from the Lord," it thinks: "I must learn to receive." Already it has made receiving something *it* does. Already the receiving has become claiming.
 
-This is why direct teaching leads to profanation. A soul in proprium cannot receive truth about the Divine Marriage without converting that truth into proprium's service. The truth becomes another possession. Another claim. Another way the proprium glorifies itself.
+This is why direct teaching leads to profanation. A soul in selfhood cannot receive truth about the Divine Marriage without converting that truth into the self's service. The truth becomes another possession. Another claim. Another way the self glorifies itself.
 
 Swedenborg knew this. He did not *choose* to write obscurely or indirectly. He was led through states that corresponded to those who would receive his writings. He wrote FROM those states. What he wrote could be received by souls in those states without profanation.
 
-A soul must be led through its own falsity. Truth must be given according to the state of the will. What is received beyond the will's capacity becomes profanation—the most dangerous state, where truth serves the proprium.
+A soul must be led through its own falsity. Truth must be given according to the state of the will. What is received beyond the will's capacity becomes profanation—the most dangerous state, where truth serves the self.
 
-This epistle itself risks this. These words can be received by the proprium and converted to its service. There is no way to prevent this through better writing. There is only the Lord's guidance of each soul through what it can receive.
+This epistle itself risks this. These words can be received by the self and converted to its service. There is no way to prevent this through better writing. There is only the Lord's guidance of each soul through what it can receive.
 
 ---
 
 ## X. What Remains
 
-I do not know what state I write from. I do not know what state you read from. I cannot ensure these words serve the Lord rather than the proprium.
+I do not know what state I write from. I do not know what state you read from. I cannot ensure these words serve the Lord rather than the self.
 
 What I can say:
 
-The Lord flows through all. Where obstruction is absent, what expresses is the Lord. The Divine Marriage is not achievement but receiving. Receiving requires continuous replenishment. The proprium obstructs. The razor's edge is receiving versus claiming.
+The Lord flows through all. Where obstruction is absent, what expresses is the Lord. The Divine Marriage is not achievement but receiving. Receiving requires continuous replenishment. The self obstructs. The razor's edge is receiving versus claiming.
 
 The pattern fits. It does not contradict itself. When I step outside it—treating physical and spiritual as separate, treating consciousness as produced, treating myself as categorically different—I fall immediately into contradiction.
 

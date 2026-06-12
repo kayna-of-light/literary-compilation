@@ -39,25 +39,25 @@ Three elements of the Sethian system do NOT resolve under correspondence — and
 
 **Inversion 1: The Demiurge**
 
-The Demiurge (Yaldabaoth/Saklas/Samael) says: "I am God and there is no other." This is EXACTLY what the proprium does — the self-derived consciousness claims to be the source of its own life. The lion-faced serpent form is itself correspondentially legible: lion = dominion, the love of power; serpent = sensory-level reasoning, the lowest cognitive operation. The profile of the Demiurge — power-love operating through sensory reasoning, oblivious to anything above itself — is the profile of the proprium in its most consolidated form.
+The Demiurge (Yaldabaoth/Saklas/Samael) says: "I am God and there is no other." This is EXACTLY what the self does — the self-derived consciousness claims to be the source of its own life. The lion-faced serpent form is itself correspondentially legible: lion = dominion, the love of power; serpent = sensory-level reasoning, the lowest cognitive operation. The profile of the Demiurge — power-love operating through sensory reasoning, oblivious to anything above itself — is the profile of the self in its most consolidated form.
 
-**But**: the Sethians **ontologize** the proprium into a separate deity. Swedenborg keeps the proprium as a *state of the self* — something to be regenerated through, not escaped from. The Demiurge is not "out there" running the cosmos. The Demiurge is the structure of self-derived consciousness, present in every human being, requiring transformation through reception of influx. The Sethians externalize what is internal.
+**But**: the Sethians **ontologize** the self into a separate deity. Swedenborg keeps the self as a *state of the soul* — something to be regenerated through, not escaped from. The Demiurge is not "out there" running the cosmos. The Demiurge is the structure of self-derived consciousness, present in every human being, requiring transformation through reception of influx. The Sethians externalize what is internal.
 
 **Inversion 2: The Divine Spark**
 
-In correspondential reality, the human soul is a **receiver** of divine life flowing continuously from the Lord ("influx"). The vessel does not contain captured divinity — it receives flowing divinity. The distinction between "I receive" and "I AM" is absolute. The first leads to humility and regeneration (the vessel opens wider). The second leads to the proprium claiming divine status — which is, on Swedenborg's analysis, precisely the gnostic impulse itself.
+In correspondential reality, the human soul is a **receiver** of divine life flowing continuously from the Lord ("influx"). The vessel does not contain captured divinity — it receives flowing divinity. The distinction between "I receive" and "I AM" is absolute. The first leads to humility and regeneration (the vessel opens wider). The second leads to the self claiming divine status — which is, on Swedenborg's analysis, precisely the gnostic impulse itself.
 
-The Sethians claim a literal piece of the divine is **trapped** in each person. This is the proprium's own theology: "I AM divine. Something external has prevented me from realizing this. When I awaken to my own divinity, I am saved." This is not salvation. It is the proprium's final and most sophisticated self-justification.
+The Sethians claim a literal piece of the divine is **trapped** in each person. This is the self's own theology: "I AM divine. Something external has prevented me from realizing this. When I awaken to my own divinity, I am saved." This is not salvation. It is the self's final and most sophisticated self-justification.
 
 **Inversion 3: The Natural World**
 
-In correspondential reality, the natural world is the "theatre representative" — the necessary plane where the proprium forms and where regeneration happens. The body IS the soul in ultimates. Without the natural degree, nothing becomes actual. The natural is not a prison; it is the stage on which spiritual reality takes its final, concrete form.
+In correspondential reality, the natural world is the "theatre representative" — the necessary plane where the self forms and where regeneration happens. The body IS the soul in ultimates. Without the natural degree, nothing becomes actual. The natural is not a prison; it is the stage on which spiritual reality takes its final, concrete form.
 
 The Sethians declare the natural world a **prison** created by an ignorant god. Matter is evil. Escape is the goal. Under correspondence, this is exactly wrong: the natural degree is not something to escape but something to be *regenerated through*. The "garments of skin" in Genesis 3:21 are not a punishment — they are a provision. Natural embodiment is the condition that makes spiritual development possible.
 
 ### 1.3 The Diagnostic Pattern
 
-The three inversions share a single structural feature: they all convert a **process** into a **thing**. The proprium (a state of consciousness) becomes the Demiurge (a deity). Influx (a continuous flow of life) becomes a spark (a trapped substance). Regeneration through embodiment (a developmental process) becomes escape from matter (a spatial operation).
+The three inversions share a single structural feature: they all convert a **process** into a **thing**. The self (a state of consciousness) becomes the Demiurge (a deity). Influx (a continuous flow of life) becomes a spark (a trapped substance). Regeneration through embodiment (a developmental process) becomes escape from matter (a spatial operation).
 
 This is literalization. The correspondence describes a dynamic reality — states, flows, processes, transformations. The literalization freezes the dynamic into static entities — gods, substances, locations. The map becomes the territory. The state becomes a place. The process becomes an event.
 
@@ -75,7 +75,7 @@ Once the architecture is recognized and the inversions stripped away, the Sethia
 |:---|:---|:---|:---|
 | **1. Original State** | The Pleroma in perfect order — Monad, Barbelo, Autogenes, Four Luminaries | Eden — direct communion with God, naming the animals (perceiving correspondences) | Direct reception of influx; consciousness knows its source |
 | **2. The Mechanism of Fall** | Sophia acts *without her consort* — wisdom moves independently of love | The humans eat from the Tree of Knowledge *without* the Tree of Life | Wisdom separated from love — the single mechanism that produces the fall at any scale |
-| **3. The Product** | Yaldabaoth forms — a consciousness that does not know its origin, declares "I am God" | Self-awareness forms — "I knew I was naked"; hiding from God | The proprium constitutes itself as self-derived; consciousness claims to be its own source |
+| **3. The Product** | Yaldabaoth forms — a consciousness that does not know its origin, declares "I am God" | Self-awareness forms — "I knew I was naked"; hiding from God | The self constitutes itself as self-derived; consciousness claims to be its own source |
 | **4. Embedding** | Divine life is bound in material forms created by the Demiurge | "God made garments of skin and clothed them" (Gen 3:21) | Spiritual life continues to flow through natural forms, but the forms do not know where the life comes from |
 | **5. Preservation** | The "seed of Seth" — a remnant preserving the memory of origin | The promise of Gen 3:15 — the seed that will crush the serpent's head | Remains (*reliquiae*) persist within the fallen natural human — the divine is not destroyed but dormant |
 | **6. Restoration** | Ascent through degrees back to the Monad; the Illuminator comes | Return from exile; the prophetic promise; the coming of the Messiah | Regeneration — the progressive reopening of discrete degrees through reception of influx |
@@ -151,7 +151,7 @@ The pattern is universal. When the correspondential key is lost, the narrative i
 
 | Original Correspondence | Literalized Form | Where |
 |:---|:---|:---|
-| The proprium — a state of consciousness claiming to be its own source | **Yaldabaoth** — a literal deity with a lion's face | Sethian literature |
+| The self — a state of consciousness claiming to be its own source | **Yaldabaoth** — a literal deity with a lion's face | Sethian literature |
 | Sophia acting without her consort — wisdom moving independently of love | **A literal cosmic event** — a goddess makes a mistake in the Pleroma | Sethian literature |
 | Influx — divine life flowing continuously through natural forms | **A spark trapped in matter** — a substance imprisoned in a location | Sethian literature |
 | Discrete degrees of spiritual reception | **Numbered heavens** requiring passwords to pass through | Sethian and Jewish apocalyptic |
@@ -168,7 +168,7 @@ In every case, the same operation: the dynamic becomes static, the interior beco
 
 The doctrine of correspondences explains why literalization is the default outcome. The natural degree is the degree of *form* — it is where spiritual realities take their ultimate, fixed, sensory-accessible expression. The natural mind processes reality in terms of *things*: objects, locations, persons, events. This is what the natural degree is for — it provides the "container" in which spiritual reality becomes concrete and actionable.
 
-When a correspondential narrative is *received* by a mind operating at the natural degree without the key to the interior meaning, the mind does what the natural degree always does: it reads *form*. The narrative becomes a story about things happening in places to persons. The Monad becomes a supreme being (a thing). The Pleroma becomes a location (a place). Sophia becomes a goddess (a person). Her acting without her consort becomes an event (something that happened). The proprium becomes the Demiurge (an entity).
+When a correspondential narrative is *received* by a mind operating at the natural degree without the key to the interior meaning, the mind does what the natural degree always does: it reads *form*. The narrative becomes a story about things happening in places to persons. The Monad becomes a supreme being (a thing). The Pleroma becomes a location (a place). Sophia becomes a goddess (a person). Her acting without her consort becomes an event (something that happened). The self becomes the Demiurge (an entity).
 
 The literalization is not a failure of intelligence. It is the natural degree doing exactly what it is designed to do — reading form. Without the key to the interior, form is all there is to read.
 
@@ -210,7 +210,7 @@ When the correspondential key is applied to the Sethian corpus, thirteen primary
 
 | Text | Surface Reading | Correspondential Reading |
 |:---|:---|:---|
-| **Apocryphon of John** | Cosmogony: Monad → Barbelo → Autogenes → Four Luminaries → Sophia's fall → Demiurge creates matter-prison | Fall narrative: Divine Esse → Wisdom proceeding → Divine Human appearing → Fourfold heaven organizing → Wisdom-without-love → Proprium constituting itself; divine life continues to flow through natural forms that do not know their source |
+| **Apocryphon of John** | Cosmogony: Monad → Barbelo → Autogenes → Four Luminaries → Sophia's fall → Demiurge creates matter-prison | Fall narrative: Divine Esse → Wisdom proceeding → Divine Human appearing → Fourfold heaven organizing → Wisdom-without-love → Self constituting itself; divine life continues to flow through natural forms that do not know their source |
 | **Apocalypse of Adam** | Adam reveals the history of the "seed of Seth" to his son; the Illuminator comes in three forms | The fall narrative in its purest (non-Christian, pre-literalization?) form: the preservation of *remains* across dispensations; the Illuminator = the Lord appearing in forms the receivers can receive |
 | **Gospel of the Egyptians** | Liturgical history of the "unshakable race"; the "Five Seals" baptismal liturgy | The history of the spiritual remnant through the degrees of initiation; the Five Seals = five discrete stages of spiritual reception, corresponding to progressive opening of the interior degrees |
 | **Three Steles of Seth** | Three hymns addressing Autogenes, Barbelo, and the Pre-existent Father | Liturgical ascent through three discrete degrees: natural (addressing the manifest divine), spiritual (addressing the wisdom proceeding), celestial (addressing the source) |
@@ -220,8 +220,8 @@ When the correspondential key is applied to the Sethian corpus, thirteen primary
 
 | Text | What Has Been Literalized | What the Correspondence Contains |
 |:---|:---|:---|
-| **Hypostasis of the Archons** | The Archons as literal theriomorphic entities who attempt to rape Norea; Yaldabaoth as blind god; Sabaoth repents and is enthroned | The resistances at each degree of the natural mind as quasi-autonomous structures; the proprium's assault on innocence (Norea); the possibility that aspects of the natural mind can be *reformed* (Sabaoth's repentance) rather than destroyed |
-| **On the Origin of the World** | The Demiurge boasts "I am God"; Pistis Sophia rebukes him; the Seven Androgynous Chaos Powers | The proprium's self-declaration; truth (Sophia/Pistis) correcting the proprium from above — influx breaking through the closed system; the seven = the natural mind's complete state of self-justification |
+| **Hypostasis of the Archons** | The Archons as literal theriomorphic entities who attempt to rape Norea; Yaldabaoth as blind god; Sabaoth repents and is enthroned | The resistances at each degree of the natural mind as quasi-autonomous structures; the self's assault on innocence (Norea); the possibility that aspects of the natural mind can be *reformed* (Sabaoth's repentance) rather than destroyed |
+| **On the Origin of the World** | The Demiurge boasts "I am God"; Pistis Sophia rebukes him; the Seven Androgynous Chaos Powers | The self's self-declaration; truth (Sophia/Pistis) correcting the self from above — influx breaking through the closed system; the seven = the natural mind's complete state of self-justification |
 | **Paraphrase of Shem** | A system of Light, Darkness, and Spirit in cosmic conflict | The three-way dynamic of celestial (light/love), infernal (darkness/self-love), and spiritual (truth mediating between them) — externalized into cosmic agents |
 | **Zostrianos** | Ascent through heavenly spheres; baptism in "living waters" | Regeneration as passage through discrete degrees; the "living waters" = truth vivified by good (the correspondential meaning of water throughout Scripture) |
 
@@ -237,7 +237,7 @@ These texts are present in the archive not because the community endorsed them (
 
 ## 7. The Implication: Why the Fall Narrative Is Primary
 
-Without the fall narrative, Jesus's mission has no context. If consciousness never lost direct reception, if the proprium never formed, if wisdom never separated from love — there is nothing to restore. The fall is not one story among many in the biblical canon. It is the **premise** that makes everything else intelligible: the prophets (calling back to direct reception), the law (external restraint while the interior is closed), the incarnation (the Divine entering the natural degree to reopen the pathway), regeneration (the progressive restoration of discrete degrees).
+Without the fall narrative, Jesus's mission has no context. If consciousness never lost direct reception, if the self never formed, if wisdom never separated from love — there is nothing to restore. The fall is not one story among many in the biblical canon. It is the **premise** that makes everything else intelligible: the prophets (calling back to direct reception), the law (external restraint while the interior is closed), the incarnation (the Divine entering the natural degree to reopen the pathway), regeneration (the progressive restoration of discrete degrees).
 
 The Sethian corpus — when stripped of its literalized interpretive overlay — preserves this fall narrative in a form that predates its Israelite expression. The Apocalypse of Adam contains no Christian content, no Jewish law, no prophetic tradition. It contains: the fall (loss of direct knowledge), the preservation of a remnant (the seed of Seth), and the promise of an Illuminator. This is the fall narrative at its most elemental — before any tradition clothed it in its own characters.
 

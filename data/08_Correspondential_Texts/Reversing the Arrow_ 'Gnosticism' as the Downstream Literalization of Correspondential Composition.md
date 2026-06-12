@@ -16,9 +16,9 @@ The scholarly unease with "Gnosticism" is long-standing. Williams (1996) argued 
 
 These critiques are valid but incomplete. They identify the *typological* failure: the label does not map onto a coherent set of beliefs, practices, or communities. But they do not identify *why* the typology fails. The texts resist categorization because what scholars are observing is not a movement but a **process** — and the process operates differently at each stage, producing different outputs at each remove from the source.
 
-The process is literalization. When a correspondential narrative — one in which natural forms encode spiritual realities through functional participation — is received by a mind operating at the natural degree without the correspondential key, the narrative is literalized. Dynamic states become static entities. The proprium (a state of self-derived consciousness) becomes the Demiurge (a deity). Influx (divine life flowing continuously into the receiver) becomes a spark (a substance trapped in matter). Regeneration through embodiment (a developmental process) becomes escape from the material world (a spatial operation). The interior becomes exterior. The quality becomes a person. The process becomes an event.
+The process is literalization. When a correspondential narrative — one in which natural forms encode spiritual realities through functional participation — is received by a mind operating at the natural degree without the correspondential key, the narrative is literalized. Dynamic states become static entities. The self (a state of self-derived consciousness) becomes the Demiurge (a deity). Influx (divine life flowing continuously into the receiver) becomes a spark (a substance trapped in matter). Regeneration through embodiment (a developmental process) becomes escape from the material world (a spatial operation). The interior becomes exterior. The quality becomes a person. The process becomes an event.
 
-This is not a failure of intelligence or piety. It is the natural degree doing exactly what it is designed to do: reading form. Without the key to the interior, form is all there is to read. And when form is all you read, the fall narrative *becomes* a cosmological myth about evil matter; the proprium *becomes* an ignorant god; the received life flowing through natural forms *becomes* divine substance trapped in a prison.
+This is not a failure of intelligence or piety. It is the natural degree doing exactly what it is designed to do: reading form. Without the key to the interior, form is all there is to read. And when form is all you read, the fall narrative *becomes* a cosmological myth about evil matter; the self *becomes* an ignorant god; the received life flowing through natural forms *becomes* divine substance trapped in a prison.
 
 What scholars call "Gnosticism" is not a religion. It is what correspondential architecture looks like to someone without the key.
 
@@ -66,7 +66,7 @@ The Apocalypse of Adam (NHC V,5) stands apart from every other Sethian text in t
 
 1. **The original state**: Adam and Eve possessed a glory greater than the creator god — they knew directly, without mediation, the reality from which their life came. They were "higher than the god who had created us." This is not rebel theology. This is the memory of direct reception — the celestial state in which consciousness receives influx without obstruction.
 
-2. **The fall**: "The glory in our hearts left us" — the direct perception departed. Adam and Eve were separated from each other and from the knowledge of the eternal God. They became servants of the creator god — the proprium assumed sovereignty. They were taught "dead things" — knowledge without life, form without content.
+2. **The fall**: "The glory in our hearts left us" — the direct perception departed. Adam and Eve were separated from each other and from the knowledge of the eternal God. They became servants of the creator god — the self assumed sovereignty. They were taught "dead things" — knowledge without life, form without content.
 
 3. **Three catastrophes**: The seed of Seth survives flood, fire, and cataclysm — the dispensational catastrophes that mark the progressive decline of the Ancient Church. Each time, the knowledge is preserved in a remnant and carried forward.
 
@@ -177,7 +177,7 @@ But there IS a pattern. The texts arrange along a gradient from pure corresponde
 - **Gospel of Philip** — Bridal Chamber sacramentology; correspondential key explicitly discussed ("truth did not come into the world naked"), but Valentinian elaboration adds layers
 
 **Lowest correspondential integrity** (architecture present but heavily literalized):
-- **Hypostasis of the Archons** — Theriomorphic archons as literal entities; the proprium's assault on innocence (Norea) externalized into attempted rape; Sabaoth's repentance retains the correspondence but the frame has become literal myth
+- **Hypostasis of the Archons** — Theriomorphic archons as literal entities; the self's assault on innocence (Norea) externalized into attempted rape; Sabaoth's repentance retains the correspondence but the frame has become literal myth
 - **On the Origin of the World** — Encyclopedic cosmogony with extensive elaboration; the original correspondence buried under layers of mythological narrative
 - **Second Treatise of the Great Seth** — Docetism: the ultimate consequence of literalizing "divine life in natural forms" into "divine spark trapped in evil matter" — if matter is truly evil, the divine cannot have truly incarnated
 - **Paraphrase of Shem** — Light/Darkness/Spirit externalized into cosmic agents in conflict
@@ -190,7 +190,7 @@ Every text in the NHL is a new composition — none are copies of earlier source
 
 The texts at the bottom of the gradient show progressive elaboration: the Hypostasis of the Archons adds narrative drama, the Origin of the World adds encyclopedic detail, the Second Treatise adds docetic Christology. Each addition represents a layer of literalization — a point where a recipient *without* the key read the form and elaborated it according to natural categories.
 
-The middle texts show the architecture still intact but the literalization beginning. The Apocryphon of John preserves the full emanation structure (which resolves completely under correspondence) but has externalized the proprium into Yaldabaoth as a separate deity. The Gospel of Philip preserves the correspondential key explicitly ("names given to worldly things are very deceptive") but has absorbed Valentinian sacramental elaboration.
+The middle texts show the architecture still intact but the literalization beginning. The Apocryphon of John preserves the full emanation structure (which resolves completely under correspondence) but has externalized the self into Yaldabaoth as a separate deity. The Gospel of Philip preserves the correspondential key explicitly ("names given to worldly things are very deceptive") but has absorbed Valentinian sacramental elaboration.
 
 The gradient is not temporal (earlier vs later), geographical (Egyptian vs Syrian), or sectarian (Sethian vs Valentinian). It is *epistemological*: the degree to which the text's composer could read through the natural form to the correspondential content. The texts at the top were composed by those with the key. The texts at the bottom were composed — or elaborated — by those without it.
 
@@ -288,7 +288,7 @@ How is this possible? If literalization is a distortion, how can the original co
 
 The answer lies in the nature of correspondence itself. Correspondences are not arbitrary symbolic assignments (light = wisdom because someone decided so). They are grounded in the *function* of the natural object. Light enables the eye to distinguish forms — this IS the function of intellect. Water sustains biological life — this IS what truth does for spiritual development. Fire provides warmth and combustion — this IS what love does (warmth) and what misdirected passion does (destruction). The correspondence is not convention but physics: the natural object performs in the natural degree what the spiritual reality performs in the spiritual degree.
 
-Because the correspondence is functional rather than conventional, it cannot be broken by literalization. When the Sethians literalized the proprium into the Demiurge, the *function* was preserved: a consciousness that declares itself the source of its own life, that does not know anything above itself, that constructs a world it believes it controls. The literalization added a name (Yaldabaoth), a form (lion-faced serpent), and a location (the lower regions) — but the *function* remained identical. Someone with the key reads through the name, form, and location to the function, and the correspondence resolves.
+Because the correspondence is functional rather than conventional, it cannot be broken by literalization. When the Sethians literalized the self into the Demiurge, the *function* was preserved: a consciousness that declares itself the source of its own life, that does not know anything above itself, that constructs a world it believes it controls. The literalization added a name (Yaldabaoth), a form (lion-faced serpent), and a location (the lower regions) — but the *function* remained identical. Someone with the key reads through the name, form, and location to the function, and the correspondence resolves.
 
 This is why correspondential texts can survive any degree of literalization, any span of time, any cultural transformation. The forms preserve the functions. The functions ARE the correspondences. And the correspondences are grounded in the physics of the natural world, which does not change.
 
@@ -306,7 +306,7 @@ This is the most elegant property of correspondential composition: it is self-pr
 
 ### 9.1 Two Modes of Reading
 
-The correspondential key operates at the spiritual degree — it reveals architecture. When the key is applied to the Sethian texts, the structure becomes transparent: Monad = Divine Esse, Barbelo = Wisdom proceeding, Sophia-without-consort = fall mechanism, Demiurge = proprium. The architecture resolves. The literalization is diagnosed. The fall narrative emerges.
+The correspondential key operates at the spiritual degree — it reveals architecture. When the key is applied to the Sethian texts, the structure becomes transparent: Monad = Divine Esse, Barbelo = Wisdom proceeding, Sophia-without-consort = fall mechanism, Demiurge = the self. The architecture resolves. The literalization is diagnosed. The fall narrative emerges.
 
 But architecture alone is moonlight. Moonlight is reflected sunlight — it comes FROM the sun, it illuminates, it makes forms visible in the darkness. By moonlight you can see the trees, the path, the landscape. You can map the terrain. You can know where you are. But nothing grows by moonlight. The trees are visible but dormant. The correspondence is legible but inert.
 
@@ -340,7 +340,7 @@ The white bull of the Animal Apocalypse — the celestial state restored — is 
 
 "Gnosticism" is what scholars named the downstream product of a process they did not recognize. The process is literalization — the universal operation by which correspondential texts are received at the natural degree, their dynamic content frozen into static mythology, and the resulting mythology elaborated by successive generations of recipients who possess the forms but not the key.
 
-People do not invent correspondential architecture. The Hermopolitan Ogdoad, the fourfold heaven, Sophia-without-her-consort, the ascent through discrete degrees, the Demiurge as externalized proprium — none of this can be fabricated de novo. These structures emerge only from traditions that have received or inherited correspondential knowledge. They are too specific, too functionally precise, and too internally consistent to be the product of mythological speculation.
+People do not invent correspondential architecture. The Hermopolitan Ogdoad, the fourfold heaven, Sophia-without-her-consort, the ascent through discrete degrees, the Demiurge as externalized self — none of this can be fabricated de novo. These structures emerge only from traditions that have received or inherited correspondential knowledge. They are too specific, too functionally precise, and too internally consistent to be the product of mythological speculation.
 
 What people DO is receive these forms and, lacking the key, elaborate the surface. The Demiurge gets a name (Yaldabaoth), a biography (born from Sophia's error), a character (arrogant, ignorant). The Pleroma gets geography (numbered heavens, specific populations, administrative hierarchies). The fall gets drama (Sophia's remorse, Autogenes's intervention, the seduction of the Archons). Each elaboration is a literalization — one more layer of natural-degree reading applied to correspondential content.
 

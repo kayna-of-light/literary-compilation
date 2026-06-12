@@ -529,7 +529,7 @@ The companion thesis shows that the Genesis fall narrative maps **point for poin
 |:---|:---|:---|:---|
 | **Original state** | Eden — direct communion, naming the animals | Chapter 57 — the Most Ancient state of perception | Direct reception of influx; consciousness knows its source |
 | **Mechanism of fall** | Eating from the Tree of Knowledge WITHOUT the Tree of Life | Chapter 23 — wisdom acting independently of love | Wisdom separated from love — the single mechanism of the fall |
-| **Product** | "I knew I was naked" — self-awareness, hiding from God | Chapter 55 — the self recognizing its own condition | The proprium constituting itself; consciousness claims its own source |
+| **Product** | "I knew I was naked" — self-awareness, hiding from God | Chapter 55 — the self recognizing its own condition | The self constituting itself; consciousness claims its own source |
 | **Embedding** | "Garments of skin" (Gen 3:21) | Chapter 30 — the natural degree as covering | Spiritual life continues through natural forms, but the forms don't know the source |
 | **Preservation** | The promise of Gen 3:15 — the seed | Chapter 39 — the remnant preserved through states | *Remains* persist — the divine is not destroyed but dormant |
 
@@ -575,12 +575,12 @@ But the **result** of this bricolage — whether intended by the scribes or not 
 
 | Narrative Element | Historical Memory Source | Correspondential Content |
 |:---|:---|:---|
-| The plagues | Thera eruption (c. 1600 BCE) | The systematic dismantling of the proprium's defenses — each plague attacks a specific faculty of the natural mind |
-| The sea crossing | Wind setdown at the Nile Delta | The passage through truth (water) that destroys falsity (the pursuing army) when the proprium tries to follow the liberated self |
+| The plagues | Thera eruption (c. 1600 BCE) | The systematic dismantling of the self's defenses — each plague attacks a specific faculty of the natural mind |
+| The sea crossing | Wind setdown at the Nile Delta | The passage through truth (water) that destroys falsity (the pursuing army) when the self tries to follow the liberated self |
 | The liberation | LBA collapse / withdrawal of Egyptian control | The freeing of spiritual truths and goods (Israel) from the bondage of sensory reasoning (Egypt/Pharaoh) |
 | Sinai | The covenant-giving at a mountain | The reception of divine truth at an elevated state (mountain = love) after the liberation from bondage |
 
-The scribes did not need to know they were creating correspondential text. They needed only to select the materials whose natural properties already carried the right correspondences. The Thera eruption was selected because its ecological effects **naturally correspond** to the dismantling of the mind's defenses. The wind setdown was selected because the parting of water **naturally corresponds** to the opening of truth. The LBA liberation was selected because escape from empire **naturally corresponds** to the liberation of the interior self from the proprium's dominion.
+The scribes did not need to know they were creating correspondential text. They needed only to select the materials whose natural properties already carried the right correspondences. The Thera eruption was selected because its ecological effects **naturally correspond** to the dismantling of the mind's defenses. The wind setdown was selected because the parting of water **naturally corresponds** to the opening of truth. The LBA liberation was selected because escape from empire **naturally corresponds** to the liberation of the interior self from the self's dominion.
 
 Providence ensured the selection by working through the narrative gravitation that the scribes experienced as creative literary impulse. The mechanism is natural at every step — no suspension of causality is required. The influx operates through the scribes' own motivations, not despite them.
 
@@ -591,12 +591,12 @@ The Exodus is the **master correspondence** of the Hebrew Bible — the single n
 | Narrative Element | Correspondential Content |
 |:---|:---|
 | **Egypt** | The natural, worldly mind in a state of spiritual bondage — enslaved to sensory reasoning |
-| **Pharaoh** | The ruling love of self (the proprium) that enslaves the mind |
+| **Pharaoh** | The ruling love of self (the self) that enslaves the mind |
 | **The Israelites** | The spiritual truths and affections within the person, held in bondage |
-| **Moses** | The divine law (truth) that confronts the proprium and demands release |
-| **The plagues** | The progressive dismantling of the proprium's resistance — each plague = one defense broken |
+| **Moses** | The divine law (truth) that confronts the self and demands release |
+| **The plagues** | The progressive dismantling of the self's resistance — each plague = one defense broken |
 | **The Passover** | The protection of what is essential (the firstborn = the primary good) through the blood (truth of faith) |
-| **The sea crossing** | The decisive moment of liberation — truth opens and the self passes through; the proprium pursues and is destroyed |
+| **The sea crossing** | The decisive moment of liberation — truth opens and the self passes through; the self pursues and is destroyed |
 | **The wilderness** | The state of temptation after liberation — truth without the comfort of the old ways |
 | **Sinai** | The reception of divine law at an elevated state — the new order for the liberated mind |
 | **The Promised Land** | The state of regeneration — the interior mind occupied by truths and goods, no longer by falsities and evils |
@@ -766,7 +766,7 @@ From desert to scripture. From perception to law. From the Children of the East 
 | **Rock badger** | NO parted hoof, apparent cud | Unclean | Security without genuine processing |
 | **Fish with fins and scales** | Fins + scales | Clean | Navigation through truth + protection of the natural mind |
 | **Shellfish** | NO fins or scales | Unclean | Immersed in truth without navigation or protection — passive absorption |
-| **Eagle / hawk** | Predatory | Unclean (birds) | Intellectual rapacity — seizing truth for the proprium |
+| **Eagle / hawk** | Predatory | Unclean (birds) | Intellectual rapacity — seizing truth for the self |
 | **Dove** | Non-predatory | Clean (implicitly) | Innocence in truth — receiving without seizing |
 | **Locust** | Leaping | Clean (insects) | Rising above the sensory level — elevation |
 | **Crawling insects** | Crawling | Unclean | Bound to the sensory — no elevation |

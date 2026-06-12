@@ -28,7 +28,7 @@ The "vulnerability" of the Aligned Human is further verified by re-interpreting 
 
 * **The Baptism:** Jesus voluntarily submitted to John's baptism. This was the moment of **Initiation** where he accepted the "Assumed Human" nature—the collective "debris" of the fallen human psyche—to engage in spiritual combat. He could not redeem what he did not assume.  
 * **The Temple Disturbance:** This was the **Shattering of the Vessel**. Jesus recognized that the external structure of religion had become an obstruction to the Divine Influx. By overturning the tables, he stood alone, vulnerable and unprotected, against the weight of tradition and empire.  
-* **The Crucifixion:** This was the **Final Vastation**. It was the battlefield where the last vestiges of the "proprium" (self-preservation) were put off. The vulnerability here is absolute: a dying man, stripped of all protection, choosing to serve the Lord even in the face of total silence.
+* **The Crucifixion:** This was the **Final Vastation**. It was the battlefield where the last vestiges of the "self" (self-preservation) were put off. The vulnerability here is absolute: a dying man, stripped of all protection, choosing to serve the Lord even in the face of total silence.
 
 ## **III. The Theological Mechanics: Correcting the Swedenborgian Error**
 
@@ -40,14 +40,14 @@ Swedenborg argued that Jesus had a "soul from the Father" (Divine) and a "body f
 
 This "biological determinism" dehumanizes Jesus, turning him into a "God-Man" hybrid rather than a true human person. The "Aligned Human" view asserts that Jesus was a **complete human soul**. He was not the Lord *disguised* as a human; he was a human *filled* with the Lord. The difference is absolute. It means his struggles, his doubts, and his faith were real human experiences, not a divine pantomime.
 
-### **3.2 The Proprium and the Obstruction**
+### **3.2 The Self and the Obstruction**
 
-The mechanism of his divinity was not biological origin, but the **removal of obstruction**. The central antagonist is the **Proprium** (Self-hood/Self-Love).6
+The mechanism of his divinity was not biological origin, but the **removal of obstruction**. The central antagonist is the **Self** (Self-hood/Self-Love).6
 
-> **[Editorial Note]**: The proprium is selfhood — the vessel that must form before it can receive. It is not inherently antagonistic; it becomes the obstacle only when oriented toward self-love and claiming what flows through it as its own possession. "Central antagonist" here refers to the proprium *in its self-sourcing orientation*, not to selfhood as such.
+> **[Editorial Note]**: The self is selfhood — the vessel that must form before it can receive. It is not inherently antagonistic; it becomes the obstacle only when oriented toward self-love and claiming what flows through it as its own possession. "Central antagonist" here refers to the self *in its self-sourcing orientation*, not to selfhood as such.
 
-* **The Obstruction:** The *proprium* is the "love of self" that interprets Divine Influx as its own possession ("I am powerful," "I am wise"). This blocks the flow of the Lord.  
-* **The Alignment:** Jesus represents the rare, profound instance where a human soul completely silenced the *proprium*. He did not just *channel* the Lord; he became a transparency. Because there was no "self" blocking the light, the "Lord in Ultimates" could shine through him perfectly.
+* **The Obstruction:** The *self* is the "love of self" that interprets Divine Influx as its own possession ("I am powerful," "I am wise"). This blocks the flow of the Lord.  
+* **The Alignment:** Jesus represents the rare, profound instance where a human soul completely silenced the *self*. He did not just *channel* the Lord; he became a transparency. Because there was no "self" blocking the light, the "Lord in Ultimates" could shine through him perfectly.
 
 ## **IV. Forensic Analysis of Recorded Statements: The Testimony of the Vessel**
 
@@ -71,7 +71,7 @@ The rejection of the "Divine Self" is made explicit in his interaction with the 
 
 *"Why do you call me good? No one is good except God alone."* (Mark 10:18).
 
-**Analysis:** Orthodoxy often twists this to mean, "You must realize I am God." The Aligned Human view accepts Jesus's honesty. He refuses to appropriate "Goodness" to his human vessel. He knows that his human self (the vessel) is not the source of the Good; the **Lord** is. By deflecting the praise to the Father, he demonstrates the very act of alignment—refusing to let the *proprium* claim credit for the Divine Influx. He is "Good" only insofar as he is transparent to the Lord.
+**Analysis:** Orthodoxy often twists this to mean, "You must realize I am God." The Aligned Human view accepts Jesus's honesty. He refuses to appropriate "Goodness" to his human vessel. He knows that his human self (the vessel) is not the source of the Good; the **Lord** is. By deflecting the praise to the Father, he demonstrates the very act of alignment—refusing to let the *self* claim credit for the Divine Influx. He is "Good" only insofar as he is transparent to the Lord.
 
 ### **4.3 The Vulnerability of Gethsemane**
 
@@ -106,7 +106,7 @@ Cross-cultural research, particularly from Japan, validates that the identificat
 
 Where does this leave Jesus?
 
-* **The Perfect Reflection:** Jesus is not the *only* face of the Light, but he is a **True Reflection** of it. Because he achieved total alignment in his life (silencing the *proprium*), his personality became perfectly transparent to the Lord.  
+* **The Perfect Reflection:** Jesus is not the *only* face of the Light, but he is a **True Reflection** of it. Because he achieved total alignment in his life (silencing the *self*), his personality became perfectly transparent to the Lord.  
 * **The Universal Recognition:** When people see the "Being of Light," they are seeing the **Divine Character**. If they know Jesus, they recognize Him *in* the Light because Jesus's character was identical to the Light. But the Light is the **Lord Himself**, independent of the historical label. The "Divine Human" is the Lord's capacity to be personal with *every* human, using the cultural clay (bricolage) of their own minds to bridge the gap.
 
 ### **5.4 Forensic Conclusion**

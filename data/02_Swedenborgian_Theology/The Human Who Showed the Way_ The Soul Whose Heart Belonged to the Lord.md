@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This analysis reconstructs the figure of Jesus through the lens of phenomenological experience rather than theological construction. The central thesis: Jesus was a human soul—not a divine exception, but a person whose heart belonged to the Lord with every fiber of his being. His ruling love was so completely oriented toward the Lord that what flowed through him was the Lord Himself in ultimates—Divine love and truth expressed through a human vessel without distortion. Jesus thought and perceived in what Swedenborg described as the celestial degree—fast, deep, intuitive, grasping truth as a unified whole rather than through sequential reasoning. He bore a striking resemblance to what modern NDE research identifies as the volunteer path: a soul here for a reason, shaped by spiritual experiences, and historically the last of a generation who grew up learning the ancient science of correspondences. He had a proprium—a human self with human desires—but his ruling love was so deep that the proprium became transparent rather than obstructive. He struggled genuinely, loved fiercely, and walked a path he could not fully see. This is not an unreachable miracle but a demonstration of what is possible for every soul whose heart longs for the Lord. That is exactly what Jesus taught.
+This analysis reconstructs the figure of Jesus through the lens of phenomenological experience rather than theological construction. The central thesis: Jesus was a human soul—not a divine exception, but a person whose heart belonged to the Lord with every fiber of his being. His ruling love was so completely oriented toward the Lord that what flowed through him was the Lord Himself in ultimates—Divine love and truth expressed through a human vessel without distortion. Jesus thought and perceived in what Swedenborg described as the celestial degree—fast, deep, intuitive, grasping truth as a unified whole rather than through sequential reasoning. He bore a striking resemblance to what modern NDE research identifies as the volunteer path: a soul here for a reason, shaped by spiritual experiences, and historically the last of a generation who grew up learning the ancient science of correspondences. He had a self—a human self with human desires—but his ruling love was so deep that the self became transparent rather than obstructive. He struggled genuinely, loved fiercely, and walked a path he could not fully see. This is not an unreachable miracle but a demonstration of what is possible for every soul whose heart longs for the Lord. That is exactly what Jesus taught.
 
 ---
 
@@ -14,7 +14,7 @@ When people encountered Jesus, they experienced something unprecedented—a qual
 
 If Jesus was "God in a suit"—a special metaphysical insertion fundamentally different from other humans—then his life becomes a performance we can admire but never emulate. If his soul was divine from conception, his struggles were theatrical rather than genuine. If he possessed inherent omnipotence, his vulnerability was an act. This interpretation creates worship rather than following, and that distinction is everything.
 
-This paper proposes a different understanding: Jesus was a human soul—remarkable, yes, but human. What made him remarkable was not a unique metaphysical constitution but the orientation of his ruling love. His heart already knew the way, because his heart already belonged to the Lord. He had a proprium—a human self, with human desires and human struggles—but his ruling love was so completely oriented toward the Lord that what flowed through him was received and expressed without distortion. What people encountered in him was not a deity in costume but the Lord in ultimates—Divine love and truth manifesting through a human vessel whose love kept the channel clear.
+This paper proposes a different understanding: Jesus was a human soul—remarkable, yes, but human. What made him remarkable was not a unique metaphysical constitution but the orientation of his ruling love. His heart already knew the way, because his heart already belonged to the Lord. He had a self—a human self, with human desires and human struggles—but his ruling love was so completely oriented toward the Lord that what flowed through him was received and expressed without distortion. What people encountered in him was not a deity in costume but the Lord in ultimates—Divine love and truth manifesting through a human vessel whose love kept the channel clear.
 
 If this reconstruction is correct, everything changes. His life is not an unreachable miracle but a demonstration. His path is not closed by unique divine status but open to every soul whose heart longs for the Lord. "Follow me" means exactly what it says.
 
@@ -36,11 +36,11 @@ All four errors share a common assumption: that there is a fundamental boundary 
 
 Within the Swedenborgian framework, a person's identity is their **ruling love**—the orientation of the will that determines how everything else is received and expressed.¹ This is not a peripheral doctrine but the central insight into how souls actually work.
 
-Every human has a proprium—a sense of self. The proprium is not evil; it is what makes us *us*. But the proprium can orient in two directions. When the ruling love is toward self, influx is appropriated: "I am wise," "I am powerful"—the self claims what flows through it as its own. When the ruling love is toward the Lord, influx flows through and is received with gratitude—the person knows themselves as vessel, not source. The orientation is not a binary switch but a matter of degree, and of ruling love.
+Every human has a self—a sense of self. The self is not evil; it is what makes us *us*. But the self can orient in two directions. When the ruling love is toward self, influx is appropriated: "I am wise," "I am powerful"—the self claims what flows through it as its own. When the ruling love is toward the Lord, influx flows through and is received with gratitude—the person knows themselves as vessel, not source. The orientation is not a binary switch but a matter of degree, and of ruling love.
 
 Jesus's ruling love was toward the Lord. This is not speculation—it's visible in his own testimony. "I can do nothing on my own" (John 5:30). "Why do you call me good? No one is good except God alone" (Mark 10:18). These statements are impossible if Jesus possessed inherent divine attributes. They make perfect sense if he understood himself as a human soul receiving and expressing what flowed through him.
 
-The depth of his love is what made him transparent. Not the absence of a proprium—which would make him non-human—but the depth of a ruling love so complete that when the proprium rose (and it did rise; Gethsemane shows us "not my will but yours," which is a real struggle, not theater), his deepest love prevailed. The heart held. And because his love kept the channel clear, what came through was the Lord in ultimates—expressed through a human soul, in human form, in human history.
+The depth of his love is what made him transparent. Not the absence of a self—which would make him non-human—but the depth of a ruling love so complete that when the self rose (and it did rise; Gethsemane shows us "not my will but yours," which is a real struggle, not theater), his deepest love prevailed. The heart held. And because his love kept the channel clear, what came through was the Lord in ultimates—expressed through a human soul, in human form, in human history.
 
 ---
 
@@ -142,7 +142,7 @@ This wasn't a performance of patience with slow students. It was genuine lonelin
 
 What sustained Jesus through genuine struggle wasn't certainty about outcomes but trust in the source. He didn't know, in the way of propositional knowledge, exactly what would happen. He *trusted*—in the direct relationship of his ruling love—that the Lord who had guided him would continue to guide him.
 
-He had moments battling his own desires, because he was human. The proprium rose—it always does. The desire for safety, for recognition, for the path to be easier. "Not my will but yours" is not a formula—it is a man choosing, in the heat of real temptation, to let his deepest love prevail over his immediate desire. That choice was not automatic. It was won.
+He had moments battling his own desires, because he was human. The self rose—it always does. The desire for safety, for recognition, for the path to be easier. "Not my will but yours" is not a formula—it is a man choosing, in the heat of real temptation, to let his deepest love prevail over his immediate desire. That choice was not automatic. It was won.
 
 This trust was tested to the breaking point. "My God, my God, why have you forsaken me?" is not a theological statement—it's a cry of experienced abandonment. The flow that had sustained him seemed to withdraw. And yet he held on: "My God." Even in experienced absence, his ruling love remained oriented toward the Lord.
 
@@ -206,7 +206,7 @@ This is why Jesus reduced the entire Law to two commands: love the Lord with all
 
 Many people throughout history have experienced moments of celestial perception—mystics, contemplatives, people in crisis or ecstasy. What set Jesus apart was not a different *kind* of consciousness but the *depth* and *constancy* of his love.
 
-Every human who deeply loves the Lord—not because they have learned to, not because duty requires it, but because the heart longs for Him with every fiber of being—touches the celestial degree. This is not rare because it is metaphysically reserved. It is rare because it requires something the proprium resists: the willingness to let love be first, before understanding, before safety, before self.
+Every human who deeply loves the Lord—not because they have learned to, not because duty requires it, but because the heart longs for Him with every fiber of being—touches the celestial degree. This is not rare because it is metaphysically reserved. It is rare because it requires something the self resists: the willingness to let love be first, before understanding, before safety, before self.
 
 Jesus lived there. Not as a visitor to the celestial degree but as someone whose ruling love *was* the Lord. His relationship with "the Father" was not conceptual (knowing truths about God) or behavioral (obeying commands) but directly relational—love responding to love, heart recognizing heart. This is what people felt in his presence: not a theology, but a love so deep it reorganized everything around it.
 
@@ -246,7 +246,7 @@ People recognize Jesus in the Being of Light because the quality matches—uncon
 
 The most important implication: what Jesus demonstrated is not reserved for a single cosmic exception. It is not something unreachable, but deeply reachable for every soul that searches for it.
 
-The proprium—the human self—is not the enemy. It is the vessel. The struggle is not to destroy the self but to orient it: to let the deepest love be love of the Lord rather than love of self. Every human knows this struggle. Every human who has chosen, even once, to let love be larger than fear has touched the mechanism Jesus lived.
+The self—the human self—is not the enemy. It is the vessel. The struggle is not to destroy the self but to orient it: to let the deepest love be love of the Lord rather than love of self. Every human knows this struggle. Every human who has chosen, even once, to let love be larger than fear has touched the mechanism Jesus lived.
 
 Jesus did not walk this path because he was exempt from temptation. He walked it because his heart held through the temptation. He struggled with his own desires. He felt abandoned. He asked his friends to stay awake and they fell asleep. And through all of it, his ruling love remained.
 
@@ -258,7 +258,7 @@ That is exactly what Jesus taught.
 
 ## VII. Conclusion: The Human Who Showed the Way
 
-Jesus was not a divine being temporarily inhabiting a human costume. He was a human soul—perhaps a little different from most, bearing the marks of what we might recognize as the volunteer path, shaped by spiritual experiences, trained in the last living tradition of the ancient science of correspondences. But human. Fully human. With a proprium, with desires, with moments of struggle and loneliness and doubt.
+Jesus was not a divine being temporarily inhabiting a human costume. He was a human soul—perhaps a little different from most, bearing the marks of what we might recognize as the volunteer path, shaped by spiritual experiences, trained in the last living tradition of the ancient science of correspondences. But human. Fully human. With a self, with desires, with moments of struggle and loneliness and doubt.
 
 What set him apart was not metaphysical status but the depth of his love. His heart belonged to the Lord with every fiber of his being. Not because he was programmed to love, not because he was incapable of choosing otherwise, but because that is where his heart truly lived. And because of that love, what flowed through him was the Lord Himself in ultimates—Divine love and truth manifesting in human form, without distortion.
 

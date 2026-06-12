@@ -8,7 +8,7 @@
 > This document reflects **earlier understanding** on:
 > - **#2** [Biological Determinism about Jesus](../00_Framework/Epistle%20%E2%80%94%20The%20Divine%20Marriage%20and%20the%20Expression%20of%20the%20Lord%20in%20Ultimates.md) — Section 5.1 uses "soul from the Father / body from the mother" framing; current position: Jesus was a human being whose ruling love was oriented toward the Divine, so the Lord flowed through him without obstruction. This is the path of regeneration any human can walk.
 > 
-> **Summary**: The "assumed human nature from the mother" language reflects 18th-century embryology. The proprium (self) is not removed but oriented—Jesus's ruling love was always toward the Divine.
+> **Summary**: The "assumed human nature from the mother" language reflects 18th-century embryology. The self is not removed but oriented—Jesus's ruling love was always toward the Divine.
 > ---
 
 ## **Introduction: The Epistemological Crisis of a Dispersed Archive**
@@ -100,7 +100,7 @@ The CDE hypothesis posits that consciousness is not an epiphenomenon but a funda
 
 This process creates a "Memetic Niche." Just as beavers construct dams to alter their physical environment, human consciousness constructs an ideological niche.
 
-* **Trajectory B (Fragmentation):** A society dominated by the *proprium* (self-love) constructs a niche that selects for myths of conflict and hierarchy. This leads to "Social Fragmentation," characterized by inequality and coercive power.11  
+* **Trajectory B (Fragmentation):** A society dominated by the *self* (self-love) constructs a niche that selects for myths of conflict and hierarchy. This leads to "Social Fragmentation," characterized by inequality and coercive power.11  
 * **Trajectory A (Coherence):** A society guided by Divine Influx constructs a niche that selects for myths of unity and dignity. This leads to "Social Cohesion," characterized by trust and shared purpose.11
 
 ### **3.2. Genesis as Theological Bricolage**
@@ -123,7 +123,7 @@ The solution lies in understanding the Exodus as a **"Providentially Guided Comp
 The Divine Influx acted as the "gravitational core," drawing these historically separate elements into a single narrative orbit. The resulting story is "true" not because it is a videotape of a single event, but because it perfectly corresponds to the spiritual process of regeneration.
 
 * **Egypt** corresponds to the Natural Mind.  
-* **Pharaoh** corresponds to the *Proprium* (the false self).  
+* **Pharaoh** corresponds to the *Self* (the false self).  
 * **The Exodus** corresponds to the liberation of the Soul.
 
 Thus, the scribes were "bricoleurs" of the Divine, assembling the "body" of history from the debris of the past to create a perfect vessel for the "soul" of the Word.6
@@ -191,7 +191,7 @@ This path is defined by the direct *reception* of the Divine Human. It is experi
 
 #### **The Path of Gnosis (The Path of Dismantling)**
 
-This path represents the resistance of the *proprium* (self-love). Its defining strategy is to *dismantle* the specific identity of the Divine Human to "establish ourselves as the prime suspects for gnosis".12 It employs three primary tactics:
+This path represents the resistance of the *self* (self-love). Its defining strategy is to *dismantle* the specific identity of the Divine Human to "establish ourselves as the prime suspects for gnosis".12 It employs three primary tactics:
 
 1. **Splitting the Identity:** Separating the man "Jesus" from an impersonal "Christ."  
    * *Theosophy:* Claims Jesus was merely a vehicle for the "Lord Maitreya" or an impersonal "Christos" principle.12  
@@ -211,12 +211,12 @@ The following table summarizes this comparative Christology:
 | **Urantia** | Michael of Nebadon | Eternal Son (Separate) | Cosmic Hierarchy | **Path of Gnosis** |
 | **ACIM** | First Son / Guide | Shared Identity | Self-Realization | **Path of Gnosis** |
 
-### **5.3. The Proprium in the 21st Century: A Sociological Analysis**
+### **5.3. The Self in the 21st Century: A Sociological Analysis**
 
-The spiritual force of the *proprium*—the love of self over neighbor—manifests today as a measurable sociological phenomenon.
+The spiritual force of the *self*—the love of self over neighbor—manifests today as a measurable sociological phenomenon.
 
 * **Social Fragmentation:** The "Trajectory B" consciousness constructs a memetic niche of "Social Fragmentation." This is objectively visible in the breakdown of social cohesion, the rise of political polarization, and the erosion of trust in institutions.11  
-* **Ideological Uniformity:** The *proprium's* need for "self-glorification" drives the modern demand for ideological purity. Whether in "digital authoritarianism" or "cancel culture," the dynamic is the same: the "suppression of dissent" to protect a fragile, self-constructed reality.1
+* **Ideological Uniformity:** The *self's* need for "self-glorification" drives the modern demand for ideological purity. Whether in "digital authoritarianism" or "cancel culture," the dynamic is the same: the "suppression of dissent" to protect a fragile, self-constructed reality.1
 
 ---
 
@@ -228,7 +228,7 @@ History is the macro-regeneration of humanity; individual spiritual growth is th
 
 The first stage is **Purification**, the purging of the false self.
 
-* **The Mechanism:** This often involves a *vastation* or "Dark Night of the Soul." In the case study, the subject experienced a "10-year suppression of spiritual life." This silence was not a failure but a necessary dismantling of the *proprium* to prepare the "fertile ground for grace".13  
+* **The Mechanism:** This often involves a *vastation* or "Dark Night of the Soul." In the case study, the subject experienced a "10-year suppression of spiritual life." This silence was not a failure but a necessary dismantling of the *self* to prepare the "fertile ground for grace".13  
 * **Symbols:** The "Demon" or "Creature" in visions corresponds to **falsities from evil**, the personification of the self-hood that must be overcome.13
 
 ### **6.2. Illumination (Theoria): The Divine Curriculum**
@@ -312,7 +312,7 @@ The directive for future inquiry is clear. We must abandon the horizontal confli
 1. A Coherent Framework for Spiritual History: Weavin...  
 2. Swedenborg's Symbolic Human Roles, [Swedenborg's Symbolic Human Roles](../02_Swedenborgian_Theology/Swedenborg's%20Symbolic%20Human%20Roles.md)  
 3. [A Critical History of Foundational Narratives - From Mesopotamian Myths to the Modern Age](../06_Mythological_Studies/A%20Critical%20History%20of%20Foundational%20Narratives_%20From%20Mesopotamian%20Myths%20to%20the%20Modern%20Age.md)  
-4. Proprium et Influx: An Objective Analysis of a Hyp..., [**Proprium et Influx: An Objective Analysis of a Hypothetical Conflict Model against 21st-Century Socio-Political and Scientific Data**](../01_Consciousness_Studies/Proprium%20et%20Influx_%20An%20Objective%20Analysis%20of%20a%20Hypothetical%20Conflict%20Model%20against%2021st-Century%20Socio-Political%20and%20Scientific%20Data.md)  
+4. Selfhood and Influx: An Objective Analysis of a Hyp..., [**Selfhood and Influx: An Objective Analysis of a Hypothetical Conflict Model against 21st-Century Socio-Political and Scientific Data**](../01_Consciousness_Studies/Proprium%20et%20Influx_%20An%20Objective%20Analysis%20of%20a%20Hypothetical%20Conflict%20Model%20against%2021st-Century%20Socio-Political%20and%20Scientific%20Data.md)  
 5. Swedenborg's Ancient Word and Science, [Swedenborg's Ancient Word and Science](../02_Swedenborgian_Theology/Swedenborg's%20Ancient%20Word%20and%20Science.md)  
 6. Revelation and Bricolage: A Comparative Analysis o..., [**Revelation and Bricolage: A Comparative Analysis of Swedenborgian and Anthropological Models of the Exodus Narrative**](../06_Mythological_Studies/Revelation%20and%20Bricolage_%20A%20Comparative%20Analysis%20of%20Swedenborgian%20and%20Anthropological%20Models%20of%20the%20Exodus%20Narrative.md)  
 7. Echoes of an Ancient Word: A Scientific and Mythol..., [Echoes of an Ancient Word_ A Scientific and Mythological Inquiry into the Caliber of a Lost Universal Knowledge](../06_Mythological_Studies/Echoes%20of%20an%20Ancient%20Word_%20A%20Scientific%20and%20Mythological%20Inquiry%20into%20the%20Caliber%20of%20a%20Lost%20Universal%20Knowledge.md)  

@@ -4,9 +4,9 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-04-11
 > 
 > This document reflects **earlier understanding** on:
-> - **#22** The Self and the Proprium — Treats the proprium as inherently "black" and evil
+> - **#22** The Self and Selfhood — Treats the self as inherently "black" and evil
 > 
-> **Summary**: This document correctly identifies Gnostic structural features in Pauline theology. However, the proprium is treated as inherently evil rather than as a vessel whose *orientation* determines whether it obstructs. The proprium is what is one's own — the condition for development, not the enemy.
+> **Summary**: This document correctly identifies Gnostic structural features in Pauline theology. However, the self is treated as inherently evil rather than as a vessel whose *orientation* determines whether it obstructs. The self is what is one's own — the condition for development, not the enemy.
 > **Established correction (library)**: *The Human Who Showed the Way*
 > ---
 
@@ -36,7 +36,7 @@ In this reconstructed historical landscape, Paul of Tarsus does not appear as th
 
 The "Gnosticism" identified in Paul is defined by three specific theological operations, which the user's upload "The Architecture of Hidden Divinity" correctly identifies as the "Gnostic Impulse".6 This impulse is not merely a collection of myths about Aeons, but a specific "operational mechanic" of the spirit:
 
-1. **Anti-Cosmic Dualism:** A sharp ontological bifurcation between the realm of "Flesh" (*Sarx*), which is subject to sin, death, and the Law, and the realm of "Spirit" (*Pneuma*), which is the sphere of freedom and life. In Paul, the material world is not merely "fallen"; it is actively hostile, ruled by the "god of this world" (2 Cor 4:4).7 This mirrors the Swedenborgian concept of the *Proprium* (self-hood) which is inherently "black" and separated from the Divine.6  
+1. **Anti-Cosmic Dualism:** A sharp ontological bifurcation between the realm of "Flesh" (*Sarx*), which is subject to sin, death, and the Law, and the realm of "Spirit" (*Pneuma*), which is the sphere of freedom and life. In Paul, the material world is not merely "fallen"; it is actively hostile, ruled by the "god of this world" (2 Cor 4:4).7 This mirrors the Swedenborgian concept of the *Selfhood* (self-hood) which is inherently "black" and separated from the Divine.6  
 2. **Esoteric Anthropology:** The classification of humanity into fixed spiritual categories based on their receptivity to the divine. Paul’s distinction between the *Pneumatikos* (Spiritual) and *Psychikos* (Soulish/Natural) man in 1 Corinthians 2:14 is the architectural blueprint for later Valentinian anthropology.9  
 3. **Soteriology of Escape:** Salvation is achieved not through the restoration of the earth (the Jewish Apocalyptic hope) or through moral adherence to the Law, but through the extraction of the "Inner Man" from the dominion of the "Rulers of this Age" (*Archons*).10
 
@@ -80,7 +80,7 @@ While traditional exegesis views this as a statement of Christ's simple deity, i
 
 ### **2.3 *Gnosis* as the Mechanism of Salvation**
 
-Paul frequently juxtaposes "knowledge" (*gnosis*) with the wisdom of the world. In **2 Corinthians 4:6**, he describes salvation as "the light of the knowledge (*gnosis*) of the glory of God in the face of Jesus Christ." This is not intellectual data; it is illumination. As documented in the provided research, this aligns with the Swedenborgian concept of the "Intellectual Proprium," where the self seeks validation through internal, "fatuous light" rather than external obedience.6
+Paul frequently juxtaposes "knowledge" (*gnosis*) with the wisdom of the world. In **2 Corinthians 4:6**, he describes salvation as "the light of the knowledge (*gnosis*) of the glory of God in the face of Jesus Christ." This is not intellectual data; it is illumination. As documented in the provided research, this aligns with the Swedenborgian concept of the "Intellectual Selfhood," where the self seeks validation through internal, "fatuous light" rather than external obedience.6
 
 The "Mystery" (*Mysterion*) that Paul claims to reveal (Rom 16:25, Eph 3:3) is a "secret wisdom" hidden from the foundation of the world. This structure—truth as a hidden secret revealed only to the elect—is the operational definition of the Gnostic impulse.26 The fact that Paul considers this knowledge to be *hidden* from the "rulers of this age" (1 Cor 2:8) confirms that his message is an esoteric revelation designed to bypass the cosmic authorities.
 
@@ -162,9 +162,9 @@ This validates the user's argument that the Pauline movement represents a shift 
 
 **Chapter V: The "Faith" of the Dragon: A Pneumatological Forensic Analysis**
 
-Utilizing the Swedenborgian framework provided in the uploaded research 38, we can validate the internal mechanism of Pauline theology as an expression of the "Proprium" (Self-Love) disguised as piety. This section addresses the user's request for an "honest and critical" validation using the uploaded documents.
+Utilizing the Swedenborgian framework provided in the uploaded research 38, we can validate the internal mechanism of Pauline theology as an expression of the "Selfhood" (Self-Love) disguised as piety. This section addresses the user's request for an "honest and critical" validation using the uploaded documents.
 
-### **5.1 The "Faith Alone" Mechanism as Intellectual Proprium**
+### **5.1 The "Faith Alone" Mechanism as Intellectual Selfhood**
 
 Swedenborg identifies the "Dragon" of Revelation with the doctrine of "Faith Alone" (*Sola Fide*)—the idea that intellectual assent to a doctrine saves, regardless of the moral state of the will (Charity).38
 
@@ -175,7 +175,7 @@ This validates the Gnostic trajectory:
 * **Gnosticism:** Salvation by *Gnosis* (Knowledge of the self/divine) vs. Works.  
 * **Paul:** Salvation by *Pistis* (Faith/Trust in the event) vs. Works.
 
-Both systems reject the "Law" (moral effort/obedience) as a means of salvation. This creates an **Antinomian** vacuum where the "Proprium" (the ego) can claim righteousness while remaining unregenerate in life.45 As the Swedenborgian analysis notes, Paul’s rejection of the "internal sense" of the Law in favor of forensic justification allows the "Love of Self" to remain the ruling love, hidden behind a veneer of "imputed righteousness".38
+Both systems reject the "Law" (moral effort/obedience) as a means of salvation. This creates an **Antinomian** vacuum where the "Self" (the ego) can claim righteousness while remaining unregenerate in life.45 As the Swedenborgian analysis notes, Paul’s rejection of the "internal sense" of the Law in favor of forensic justification allows the "Love of Self" to remain the ruling love, hidden behind a veneer of "imputed righteousness".38
 
 ### **5.2 The "Dark Chamber": Separation of Divine and Human**
 
@@ -235,7 +235,7 @@ The Pauline trajectory, by prioritizing the "Individual's Faith" (or Gnosis) ove
 
 ### **7.2 The "Love of Dominion" in Spiritual Guise**
 
-The user’s research warns that the "Love of Self," even when spiritualized, remains a love of dominion. Radical Gnostic sects, while claiming to be "pure spirit," often exhibited rigid hierarchies and authoritarian structures centered around the "Charismatic Leader" (e.g., the Prophet, the Channeler). This is the "Proprium" projecting its desire for control onto the cosmos.6
+The user’s research warns that the "Love of Self," even when spiritualized, remains a love of dominion. Radical Gnostic sects, while claiming to be "pure spirit," often exhibited rigid hierarchies and authoritarian structures centered around the "Charismatic Leader" (e.g., the Prophet, the Channeler). This is the "Self" projecting its desire for control onto the cosmos.6
 
 Pauline Christianity, while rejecting the "flesh," built the most powerful "fleshly" institution in history: the Church of Rome. This paradox is explained by the Swedenborgian insight: The "Dragon" (Faith Alone/Gnostic Elitism) always seeks power. It uses the language of "Spirit" to subjugate the "World."
 
@@ -283,7 +283,7 @@ Bauer, W. (1934/1971). *Orthodoxy and Heresy in Earliest Christianity* (trans. P
 3. Is Paul actually the heretic? : r/AcademicBiblical \- Reddit, accessed on December 7, 2025, [https://www.reddit.com/r/AcademicBiblical/comments/1hdq0qb/is\_paul\_actually\_the\_heretic/](https://www.reddit.com/r/AcademicBiblical/comments/1hdq0qb/is_paul_actually_the_heretic/)  
 4. Introduction to Paul and Gnosis \- Brill, accessed on December 7, 2025, [https://brill.com/display/book/edcoll/9789004316690/B9789004316690\_002.pdf](https://brill.com/display/book/edcoll/9789004316690/B9789004316690_002.pdf)  
 5. Gnosticism \- Wikipedia, accessed on December 7, 2025, [https://en.wikipedia.org/wiki/Gnosticism](https://en.wikipedia.org/wiki/Gnosticism)  
-6. A Pneumatological and Historical Validation of the Gnostic Impulse as the Operational Mechanic of the Proprium  
+6. A Pneumatological and Historical Validation of the Gnostic Impulse as the Operational Mechanic of the Self  
 7. Spiritual Things NOT More Important Than Physical \- Liberty Church of Christ, accessed on December 7, 2025, [https://libertycofc.org/spiritual-things-not-more-important-than-physical/](https://libertycofc.org/spiritual-things-not-more-important-than-physical/)  
 8. Gnosticism: Origin, Meaning and Relation to Christianity, accessed on December 7, 2025, [https://www.christianity.com/church/church-history/timeline/1-300/gnosticism-11629621.html](https://www.christianity.com/church/church-history/timeline/1-300/gnosticism-11629621.html)  
 9. Pneumatic (Gnosticism), accessed on December 7, 2025, [https://grokipedia.com/page/Pneumatic\_(Gnosticism)](https://grokipedia.com/page/Pneumatic_\(Gnosticism\))  

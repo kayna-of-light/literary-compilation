@@ -6,7 +6,7 @@ The mid-nineteenth century in Britain was defined by a seismic fracture in the e
 
 It is within this turbulent milieu that Charles Lutwidge Dodgson, the Oxford mathematician and Anglican deacon better known as Lewis Carroll, constructed a literary cosmos that has largely been misinterpreted by subsequent generations. *Alice’s Adventures in Wonderland* (1865), *Through the Looking-Glass* (1871), and the sprawling, ambitious *Sylvie and Bruno* (1889/1893) are frequently relegated to the genre of "literary nonsense"—a categorization that implies a celebration of chaos, linguistic anarchy, and the absence of meaning. This report posits a radically different thesis: that Carroll’s works are not exercises in nonsense, but rigorous, systematic applications of the **Doctrine of Correspondences** as recovered and articulated by the Swedish scientist-mystic Emanuel Swedenborg (1688–1772).
 
-By analyzing the "deep structure" of Carroll’s narratives against the specific ontological categories of Swedenborgian theology—specifically the concepts of **Discrete Degrees**, the **Grand Man**, the **World of Spirits**, and the **inversion of the Proprium**—we reveal a coherent theological diagnostic of the Victorian soul. Carroll utilized the "fairy tale" not as an escape from reality, but as a "theatre representative" (to use Swedenborg’s term) wherein the pathologies of the "Natural Unregenerate Mind" could be externalized and examined.
+By analyzing the "deep structure" of Carroll’s narratives against the specific ontological categories of Swedenborgian theology—specifically the concepts of **Discrete Degrees**, the **Grand Man**, the **World of Spirits**, and the **inversion of the Self**—we reveal a coherent theological diagnostic of the Victorian soul. Carroll utilized the "fairy tale" not as an escape from reality, but as a "theatre representative" (to use Swedenborg’s term) wherein the pathologies of the "Natural Unregenerate Mind" could be externalized and examined.
 
 The "nonsense" of Wonderland is, in fact, "spiritual sense" viewed through the distorting lens of the fallen intellect. Just as a three-dimensional object appears as an incomprehensible cross-section to a two-dimensional being, spiritual truths appear as riddles, paradoxes, or madness to the mind trapped in the "flat" plane of natural causality. The Mad Hatter’s quarrel with Time, the Cheshire Cat’s detached grin, and the White Knight’s clumsy inventions are not surrealist accidents; they are precise coordinates in a map of spiritual regeneration.
 
@@ -64,11 +64,11 @@ The "Natural Unregenerate Mind" is trapped in the lowest degree. It sees effects
 
 ### **3.2 The Inversion of the Mirror**
 
-A central tenet of Swedenborg’s psychology is the **Inversion**. The natural mind, when separated from the spiritual, is an inverted image of the truth. It sees self (Proprium) as the center of the universe and God as distant or non-existent. "In the spiritual world," Swedenborg writes, "directions are not fixed... but appear according to the state of the angel".14
+A central tenet of Swedenborg’s psychology is the **Inversion**. The natural mind, when separated from the spiritual, is an inverted image of the truth. It sees self (Selfhood) as the center of the universe and God as distant or non-existent. "In the spiritual world," Swedenborg writes, "directions are not fixed... but appear according to the state of the angel".14
 
 This is the metaphysical engine of *Through the Looking-Glass*. The mirror world is not just backwards physically; it is inverted causally. In the spiritual realm (Cause), the intent precedes the action. In the natural realm (Effect), the action is seen. To the natural mind entering the spiritual (Alice in the Mirror), this causal relationship appears reversed: one bleeds *before* being pricked, or receives the cake *before* cutting it. Carroll is not inventing nonsense; he is accurately simulating the experience of a natural consciousness encountering the "World of Causes."
 
-## **IV. *Alice’s Adventures in Wonderland*: The Descent into the Subconscious Proprium**
+## **IV. *Alice's Adventures in Wonderland*: The Descent into the Subconscious Self**
 
 *Alice’s Adventures in Wonderland* maps the descent of the soul into the **Corporeal and Sensual** degree of the mind—the "basement" of the psyche where the "remains" of innocence struggle against the disorder of the natural will.
 
@@ -82,7 +82,7 @@ In the spiritual world, time does not exist; only "state" exists.9 The Rabbit, h
 
 Alice’s fluctuations in size correspond to the spiritual process of **Vastation**. In Swedenborg’s *Arcana Coelestia*, vastation is the stripping away of external appearances so that the internal state can be revealed.13
 
-* **Giant Alice:** Represents the inflation of the **Proprium** (Selfhood/Ego). She fills the room, pushing against the limits of her container.  
+* **Giant Alice:** Represents the inflation of the **Self** (Selfhood/Ego). She fills the room, pushing against the limits of her container.  
 * **Tiny Alice:** Represents the state of **Humility** or "remains" (innocence).
 
 The **Pool of Tears** represents the "falsities" generated by the despair of the natural mind.12 Immersion in these waters is a baptism into the reality of one's own emotional turmoil. The **Caucus Race**, where the animals run in a circle and "everyone has won," is a brilliant satire of the "Natural Degree" of life—activity without vertical progress. The unregenerate man runs around the circle of worldly affairs (politics, commerce) but never ascends to the spiritual hill. It is a "closed loop" of energy.
@@ -133,7 +133,7 @@ If *Wonderland* is the exploration of the "Sensual/Corporeal" degree, *Through t
 
 The central mechanic of this world is **Inversion**. Swedenborg teaches that the natural world is a mirror of the spiritual, but an *inverted* one. "In the spiritual world... the directions are not fixed... but appear according to the state of the angel".14
 
-In *Looking-Glass* land, Alice must walk *away* from the Red Queen to meet her. This is a precise application of the law of spiritual influx: to approach a spiritual goal (the Queen/Wisdom), one must often turn away from the direct "natural" desire for it (shunning evils to approach the good). The direct path is the path of the Proprium; the indirect path is the path of Providence.
+In *Looking-Glass* land, Alice must walk *away* from the Red Queen to meet her. This is a precise application of the law of spiritual influx: to approach a spiritual goal (the Queen/Wisdom), one must often turn away from the direct "natural" desire for it (shunning evils to approach the good). The direct path is the path of the Self; the indirect path is the path of Providence.
 
 The inversion of sequential logic—the King's Messenger is in prison *before* the crime is committed, the White Queen screams *before* she pricks her finger—corresponds to the relationship between the **World of Causes** (Spiritual) and the **World of Effects** (Natural). In the Spiritual World, the Cause (state) exists before the Effect (event). To the natural mind, which is locked in time, perceiving the Cause first looks like "remembering the future." The White Queen lives "backwards" because she lives in the realm of Causes.24
 
@@ -153,7 +153,7 @@ In Chapter 2, Alice enters a garden where the flowers speak. Swedenborg explicit
 
 Their conversation with Alice is not mere personification; it is the revelation of their "internal sense." They criticize Alice for not having "roots" (being unstable/wandering), reflecting the spiritual perception that the natural mind is transient compared to the rootedness of heavenly affections.28
 
-### **5.4 Tweedledum and Tweedledee: The Duality of the Proprium**
+### **5.4 Tweedledum and Tweedledee: The Duality of the Self**
 
 The twins correspond to the Swedenborgian principle of **Duality** or **Pairs**. In the Word and in the human body, things are paired (two eyes, two hands, Will and Understanding, Good and Truth). When these are separated or in conflict, they become "Tweedledum and Tweedledee"—identical in form but opposite in volition.29
 
@@ -165,7 +165,7 @@ The **White Knight** is widely recognized as a self-portrait of Lewis Carroll, b
 
 * **His Inventions:** He carries a mousetrap to keep mice out of the horse’s hair, and anklets to protect against shark bites. This absurdity represents the "higher" reason anticipating dangers that do not exist in the "lower" realm. It is the maladaptation of spiritual wisdom when applied literally to natural problems—the "foolishness of God" which is wiser than men, but appears ridiculous to the world.31  
 * **The Fall:** He constantly falls off his horse. In correspondence, the **Horse** signifies the **Intellect** or **Understanding of Truth**.12 The Knight’s inability to stay seated signifies the difficulty of the Spiritual Truth (the Knight) maintaining its seat in the Natural Understanding (the Horse). The spiritual mind is "clumsy" in the saddle of the natural intellect.  
-* **The Song ("Haddocks' Eyes"):** The song is about an "aged, aged man" (the Old Man/Proprium) who is interrogated by the Knight. The Knight tries to extract "use" (design/invention) from the old man’s erratic behavior (hunting haddocks' eyes in the heather). This reflects the struggle of the Regenerate mind to reform the Proprium and find usefulness in the barren natural affections.
+* **The Song ("Haddocks' Eyes"):** The song is about an "aged, aged man" (the Old Man/the Self) who is interrogated by the Knight. The Knight tries to extract "use" (design/invention) from the old man's erratic behavior (hunting haddocks' eyes in the heather). This reflects the struggle of the Regenerate mind to reform the Self and find usefulness in the barren natural affections.
 
 The Knight is the only character who shows Alice genuine kindness and sadness at her departure. He is the "Holy Fool," the mediator who escorts her to the final square of Queenship but cannot cross the brook himself. He belongs to the realm of "combat" (Regeneration), while she is moving to the realm of "peace" (Celestial state).
 
@@ -213,7 +213,7 @@ As hinted in the snippets 13, the riddle "Why is a raven like a writing desk?" i
 
 * **The Raven:** The intellect acting as a scavenger, feeding on "dead" facts (carrion), producing "flat" notes (monotony of self-love), and flying "to and fro" without rest (spiritual anxiety). It is the **Animate** symbol of the darkened mind.  
 * **The Writing Desk:** The repository of "dead letters," a "flat" surface for the inscription of human intelligence without Divine Influx. It is the **Inanimate** symbol of the darkened mind.  
-* **The Connection:** Both are "flat" (lacking the vertical dimension of the spiritual) and "lifeless" (animated only by the Proprium).
+* **The Connection:** Both are "flat" (lacking the vertical dimension of the spiritual) and "lifeless" (animated only by the Self).
 
 Carroll’s own answer—"Because it can produce a few notes, though they are very flat; and it is nevar put with the wrong end in front"—conceals the Swedenborgian truth. "Nevar" is "Raven" reversed—the inversion of the spiritual into the natural. The "flat notes" are the absence of spiritual harmony (the music of the spheres).
 
@@ -230,7 +230,7 @@ The **Cheshire Cat** is a perfect correspondence for the **Intellectual Faculty 
 The **Garden** in *Alice* and *Looking-Glass* is the recurring motif of the **Celestial Degree**.
 
 * **The Door in the Tree:** Alice tries to enter the beautiful garden through a small door. This corresponds to the "narrow gate" of regeneration.  
-* **The Roses:** In *Wonderland*, the roses are white but painted red by the cards. This signifies the **Adulteration of Good**. White Roses correspond to "Truth of Intellect"; Red Roses to "Good of Will." The cards (natural mind) try to *fake* the celestial degree (Red) by painting the truth (White) with their own paint (falsity/proprium). They are trying to force a spiritual state they do not possess.
+* **The Roses:** In *Wonderland*, the roses are white but painted red by the cards. This signifies the **Adulteration of Good**. White Roses correspond to "Truth of Intellect"; Red Roses to "Good of Will." The cards (natural mind) try to *fake* the celestial degree (Red) by painting the truth (White) with their own paint (falsity/selfhood). They are trying to force a spiritual state they do not possess.
 
 ## **VIII. Conclusion: The Third-Order Insight**
 

@@ -276,24 +276,24 @@ That is Marcion. That is Valentinus. That is the Sethians. That is every Gnostic
 
 | Component | Real? | Gnostic Reading | Correspondential Reading |
 |-----------|-------|-----------------|--------------------------|
-| Feeling of spiritual slavery | **Yes** | Proof the Demiurge controls this world | Influx from hell experienced through the proprium |
+| Feeling of spiritual slavery | **Yes** | Proof the Demiurge controls this world | Influx from hell experienced through the self |
 | OT conquest violence | **Not literal** | Proof the Creator is cruel | Correspondences: intensity of regeneration combat |
 | Sense of a loving God beyond | **Yes** | The true Father, unknown to this world | The Lord — same God, perceived through the celestial degree |
-| The body as limitation | **Yes** (experienced) | Prison made by the Demiurge | The natural degree — maximum resistance for proprium formation |
+| The body as limitation | **Yes** (experienced) | Prison made by the Demiurge | The natural degree — maximum resistance for selfhood formation |
 
 Every piece of the Gnostic system maps onto something real — just misattributed. The error is one degree of mislocation.
 
-### 6.4 The Proprium's Protective Mechanism
+### 6.4 The Self's Protective Mechanism
 
-But there is a deeper mechanism at work. The Gnostic system doesn't just misattribute the source of suffering. It *externalizes* it. And this externalization is precisely what the proprium requires to survive.
+But there is a deeper mechanism at work. The Gnostic system doesn't just misattribute the source of suffering. It *externalizes* it. And this externalization is precisely what the self requires to survive.
 
 The logic runs:
 
 1. **Genuine suffering.** Spiritual bondage is real. Influx from hell is real.
-2. **Externalization.** "This isn't me. This is the world. This is the Demiurge." The proprium places the problem *outside itself* — because if the problem is inside, the self must change, and the proprium cannot tolerate that.
+2. **Externalization.** "This isn't me. This is the world. This is the Demiurge." The self places the problem *outside itself* — because if the problem is inside, the self must change, and the self cannot tolerate that.
 3. **Helplessness.** Once the problem is external, the conclusion is automatic. One cannot fix a broken cosmos. One cannot defeat the Demiurge. The situation is hopeless by design — not because it actually is, but because the externalization requires it.
 4. **External rescue.** Now one *needs* a savior who comes from outside the system. Not a human teacher who says "the kingdom is within you and you have to do the work." A being who descends from the alien God, passes through the archons, and *extracts*. Salvation happens *to* you. You receive it.
-5. **Selective assembly.** The fragments are available. Jesus does talk about a Father. He does seem different from the Old Testament God. He does appear in Proto-Luke with no origin story, descending upon Galilee. These real data points are arranged into the story the proprium needs to hear: *you're fine, the world is broken, someone else will fix it*.
+5. **Selective assembly.** The fragments are available. Jesus does talk about a Father. He does seem different from the Old Testament God. He does appear in Proto-Luke with no origin story, descending upon Galilee. These real data points are arranged into the story the self needs to hear: *you're fine, the world is broken, someone else will fix it*.
 
 This mechanism — externalize the problem, declare helplessness, receive passive salvation — is not unique to Gnosticism. It is structurally identical to the Pauline solution:
 
@@ -317,7 +317,7 @@ Against both strategies, the Proto-Luke Jesus is unsparing:
 - "Why do you not judge for yourselves what is right?" — *You have the capacity. Use it.*
 - "Not everyone who says Lord, Lord..." — *Passive faith is not enough.*
 
-This Jesus is intolerable to the proprium. He puts everything back on the person. No externalization. No helplessness. No passive rescue. The kingdom is within. The work is yours. The transformation costs everything.
+This Jesus is intolerable to the self. He puts everything back on the person. No externalization. No helplessness. No passive rescue. The kingdom is within. The work is yours. The transformation costs everything.
 
 That is why Proto-Luke gets buried. Not because the textual evidence is weak. Because the message is intolerable to the part of every person that wants someone else to fix it.
 
@@ -447,7 +447,7 @@ The hemorrhaging woman is not attending a faith healing service. But the mechani
 
 **Third: The crowd as spiritual contrast.** The disciples' objection — "the crowds are pressing against you, and you ask 'who touched me?'" — reveals the critical distinction. The crowd is *physically* touching Jesus and *spiritually* making no contact. They are pressing against him but not reaching him. The woman barely touches the fringe of his garment and makes full spiritual contact.
 
-She is the only one really touching him. She is the only one whose act is conscious, directed, surrendered. Everyone else in the crowd — wanting healing, wanting spectacle, wanting proximity to power — creates spiritual noise. The proprium reaching: *give me something, fix me, let me see*. Every one of those wants is a barrier, not a connection. The influx is there, flowing through Jesus continuously, but it has nowhere to land because every receiver is tuned to the wrong frequency.
+She is the only one really touching him. She is the only one whose act is conscious, directed, surrendered. Everyone else in the crowd — wanting healing, wanting spectacle, wanting proximity to power — creates spiritual noise. The self reaching: *give me something, fix me, let me see*. Every one of those wants is a barrier, not a connection. The influx is there, flowing through Jesus continuously, but it has nowhere to land because every receiver is tuned to the wrong frequency.
 
 She cuts through the static. Not by being louder. By being the one person in the crowd whose act is genuine surrender. She doesn't demand. She doesn't even want to be noticed. She reaches through the wall of spiritual noise and touches what is actually there.
 
@@ -587,7 +587,7 @@ Because parables *are* celestial cognition in literary form. A parable doesn't e
 
 "He who has ears, let him hear" — this recurring formula is not rhetorical. It is a statement about reception. The parable is available to everyone. The essence is perceived only by those whose internal state allows it. The seed falls on all soil. It grows only where conditions permit.
 
-This is why Jesus expresses frustration when his hearers don't understand: "Why do you not judge for yourselves what is right?" (Luke 12:57). To someone operating at the celestial degree, the essence is *obvious*. The kingdom is within — it's right there. The difficulty is not intellectual complexity. It is the proprium blocking reception. The seed can't take root because the soil is hardened.
+This is why Jesus expresses frustration when his hearers don't understand: "Why do you not judge for yourselves what is right?" (Luke 12:57). To someone operating at the celestial degree, the essence is *obvious*. The kingdom is within — it's right there. The difficulty is not intellectual complexity. It is the self blocking reception. The seed can't take root because the soil is hardened.
 
 ---
 
@@ -669,11 +669,11 @@ The economic reading and the spiritual reading are not two interpretations of th
 
 - At the natural degree: the extraction economy is a system of institutional theft that dispossesses families of their covenant inheritance
 - At the spiritual degree: the ruling love of self — expressed through accumulation, power, and extraction — is the fundamental disease of which the economic system is the ultimate expression
-- At the celestial degree: the two are not "related" or "connected" — they ARE the same thing. The economic structure IS the ruling love made visible in ultimates. The marble floors of Sepphoris ARE the proprium's orientation toward self, expressed in stone and stolen labor
+- At the celestial degree: the two are not "related" or "connected" — they ARE the same thing. The economic structure IS the ruling love made visible in ultimates. The marble floors of Sepphoris ARE the self's orientation toward self, expressed in stone and stolen labor
 
 When Jesus says "sell everything," he is simultaneously and non-metaphorically saying:
 - **Economically**: stop participating in the extraction system; return what was taken
-- **Spiritually**: release the proprium's grip; let go of what you've accumulated at others' expense
+- **Spiritually**: release the self's grip; let go of what you've accumulated at others' expense
 - **Celestially**: these are not two demands but one demand perceived at the degree you can receive it
 
 Without the correspondential framework, you must choose: either Jesus is a social reformer (the 19th-century liberal reading) or a spiritual teacher using economic metaphor (the orthodox reading). Both are reductions. The correspondential reading says: it is *literally* about economics AND *literally* about spiritual transformation, simultaneously, because the natural and the spiritual are not two worlds but one reality at different degrees of expression.
@@ -719,7 +719,7 @@ His frustration is consistent with recognition-mode cognition operating in an en
 
 If Jesus's cognition operated at the celestial degree — perceiving essences directly, with particulars generating from them — then the Essene environment served a specific function: it provided the natural-degree vocabulary, the conceptual framework, the experiential practices that gave his celestial perception its ultimates. He needed terms for what he perceived. He needed practices he could point to. He needed a tradition he could reference. The Essene world gave him these.
 
-But the perception itself — the access to the spiritual degree, the ability to see the full dimensionality of reality — this was not taught. It was given. The framework identifies this as influx: the Lord flowing into a human consciousness that was perfectly aligned to receive. The ruling love oriented entirely toward the good and the neighbor — no obstruction from the proprium — creating a channel so clear that the celestial degree was continuously accessible.
+But the perception itself — the access to the spiritual degree, the ability to see the full dimensionality of reality — this was not taught. It was given. The framework identifies this as influx: the Lord flowing into a human consciousness that was perfectly aligned to receive. The ruling love oriented entirely toward the good and the neighbor — no obstruction from the self — creating a channel so clear that the celestial degree was continuously accessible.
 
 This is not categorically different from what the NDE data describe. NDE experiencers frequently report access to knowledge that exceeds their normal capacity — knowing things they couldn't know, perceiving truths they couldn't formulate, experiencing a clarity that makes normal consciousness feel like fog. The mechanism is the same: when obstructions are removed (in the NDE case, by the loosening of the physical body's grip on consciousness; in Jesus's case, by the ruling love's perfect alignment), the deeper degrees become accessible and the knowledge that flows through them is received.
 

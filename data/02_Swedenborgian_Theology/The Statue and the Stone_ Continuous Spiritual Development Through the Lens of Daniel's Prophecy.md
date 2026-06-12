@@ -46,7 +46,7 @@ The argument proceeds through five movements:
 
 **Part V** examines the prophecy mechanism: ancient visions (Saoshyant, Messiah) perceive the Lord as He eternally IS, not future events—consciousness developing capacity to perceive truth always present but not yet grounded in ultimates.
 
-**Part VI** synthesizes implications: the stone shatters the IMAGE (proprium's externalized claim) not the churches; Jesus as complete demonstration (not categorical exception) of the Lord expressing through unobstructed humanity; the statue as correspondential anchor unlocking self-establishing truth.
+**Part VI** synthesizes implications: the stone shatters the IMAGE (the self's externalized claim) not the churches; Jesus as complete demonstration (not categorical exception) of the Lord expressing through unobstructed humanity; the statue as correspondential anchor unlocking self-establishing truth.
 
 ---
 
@@ -60,7 +60,7 @@ Swedenborg's primary interpretive framework maps the statue's metals to **succes
 - **Silver** = Spiritual truth (charity toward neighbor, conscience, faith illuminated by charity)
 - **Bronze** = Natural good (moral rectitude, external justice, obedience to law without internal alignment)
 - **Iron** = Natural truth (literal/external understanding, truth in ultimates but without internal good)
-- **Clay** = Falsity from self-intelligence (proprium's distortion, doctrine falsified by self-love)
+- **Clay** = Falsity from self-intelligence (the self's distortion, doctrine falsified by self-love)
 
 This framework appears most explicitly in *Arcana Coelestia* §§ 1259, 1690, where Swedenborg explains: "Gold signifies celestial good, which is love to the Lord; silver, spiritual truth, which is faith in the Lord; brass or copper, natural good; iron, natural truth; clay, falsity" (AC 1259). The descending sequence represents the **progressive externalization** of human consciousness—the movement from internal perception to external reasoning, from living truth to dead doctrines.
 
@@ -351,7 +351,7 @@ Not because you're seeing forward through time. Because **the "future" correspon
 The Lord embeds us with truth. This IS prophecy.
 
 Not: "I see a virgin birth event in 6 BCE."  
-But: "I perceive pure reception of divine influx (spiritual truth) which corresponds to virgin birth (no paternal heredity, no proprium contamination)."
+But: "I perceive pure reception of divine influx (spiritual truth) which corresponds to virgin birth (no paternal heredity, no self contamination)."
 
 The prophecy is **tailored to what they know in their heart to be truth, which comes from the Lord**. In every particular element of these prophecies lies correspondence—not biographical prediction.
 
@@ -363,9 +363,9 @@ Gospel writers **IMPOSED this correspondence onto proto-Luke** to make a point a
 
 They wrote things that are **historically inaccurate but correspondentially TRUE**:
 
-- **Virgin birth** = Pure reception without proprium (spiritual truth written as biological correspondence)
+- **Virgin birth** = Pure reception without the self (spiritual truth written as biological correspondence)
 - **Star of Bethlehem** = Spiritual light appearing in ultimates (spiritual truth written as celestial correspondence)  
-- **Defeat of Satan** = Conquering proprium/hell (spiritual truth written as cosmic battle correspondence)
+- **Defeat of Satan** = Conquering the self/hell (spiritual truth written as cosmic battle correspondence)
 - **Kingdom establishment** = Consciousness transformation (spiritual truth written as political correspondence)
 
 The writers weren't lying. They were doing exactly what prophecy requires: **perceiving spiritual reality and writing it in natural correspondences**.
@@ -400,9 +400,9 @@ The prophecy mechanism thus works:
 - Jewish prophets perceive divine justice/peace (Messiah archetype)
 
 **Stage 2**: Writers document perception correspondentially  
-- Virgin birth = pure reception without proprium
+- Virgin birth = pure reception without the self
 - Celestial sign = spiritual light appearing naturally
-- Defeat of evil = proprium conquered
+- Defeat of evil = the self conquered
 - World renovation = consciousness transformed
 
 **Stage 3**: Consciousness develops toward truth grounding  
@@ -576,7 +576,7 @@ This thesis has demonstrated six interlocking claims:
 
 5. **Jesus demonstrated complete expression** (zero obstruction) of what is universally true: the Lord continuously expressing through aligned souls—the difference is degree (complete vs. partial) not kind (divine vs. human category).
 
-6. **The stone shatters the IMAGE** (proprium's externalized claim) not the churches' spiritual substance—ending externalization itself as the New Church represents internal perception rather than institutional structure.
+6. **The stone shatters the IMAGE** (the self's externalized claim) not the churches' spiritual substance—ending externalization itself as the New Church represents internal perception rather than institutional structure.
 
 ### 7.2 Epistemological Implications
 

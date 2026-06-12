@@ -82,11 +82,11 @@ This plot device draws on the Romantic tradition of *Undine* by Friedrich de la 
 
 However, the Prince represents the **Natural Rational** man. He is attracted to the mermaid as a "foundling" or a pet (animal affection) but lacks the spiritual perception to recognize her true nature. He marries the Princess of the neighboring kingdom, whom he mistakenly believes saved him. The failure of the marriage signifies that the "Natural" cannot simply merge with the "Spiritual" through emotional attachment alone. The discrete degree cannot be bridged by proxy; the work of salvation must be internal.
 
-### **3.3 The Rejection of the Knife: A Moral Choice and the Proprium**
+### **3.3 The Rejection of the Knife: A Moral Choice and the Self**
 
-The turning point of the narrative—and its sharpest divergence from folklore—is the scene with the knife. Her sisters offer her a way back to the sea (the Natural degree) by killing the Prince. This is a temptation to regress, to choose self-preservation (the **Proprium** or Selfhood) over **Charity**.
+The turning point of the narrative—and its sharpest divergence from folklore—is the scene with the knife. Her sisters offer her a way back to the sea (the Natural degree) by killing the Prince. This is a temptation to regress, to choose self-preservation (the **Self** or Selfhood) over **Charity**.
 
-In Swedenborgian ethics, the "Proprium" is the source of all evil when separated from God; it is the love of self above others. By refusing to kill the Prince, even to save her own life, the mermaid performs a **moral act** contrary to her instinct for self-preservation. She sacrifices her Proprium. In Swedenborgian terms, she acts from **Charity** (neighbor-love). This act is the catalyst that opens the "internal spiritual man." She dies to the "Natural" world (dissolving into foam) but does not perish into nothingness because she has generated a spiritual substance through her choice.
+In Swedenborgian ethics, the "Self" is the source of all evil when separated from God; it is the love of self above others. By refusing to kill the Prince, even to save her own life, the mermaid performs a **moral act** contrary to her instinct for self-preservation. She sacrifices her Self. In Swedenborgian terms, she acts from **Charity** (neighbor-love). This act is the catalyst that opens the "internal spiritual man." She dies to the "Natural" world (dissolving into foam) but does not perish into nothingness because she has generated a spiritual substance through her choice.
 
 ### **3.4 The Daughters of the Air: Spiritual Progression via Use**
 
@@ -119,7 +119,7 @@ If *The Little Mermaid* explores the **Will** and the acquisition of a soul, *Th
 
 ### **4.1 The Mirror and the Distortion of Truth**
 
-The story begins with a demon (or troll) creating a mirror that shrinks the good and beautiful to nothingness while magnifying the bad and ugly. This mirror is a perfect correspondence for the **natural man’s intellect** when separated from Divine influx. Swedenborg writes extensively in *Divine Love and Wisdom* about how the "proprium" (selfhood) distorts truth, turning it into falsity.12
+The story begins with a demon (or troll) creating a mirror that shrinks the good and beautiful to nothingness while magnifying the bad and ugly. This mirror is a perfect correspondence for the **natural man’s intellect** when separated from Divine influx. Swedenborg writes extensively in *Divine Love and Wisdom* about how the "selfhood" distorts truth, turning it into falsity.12
 
 When the mirror shatters, a splinter enters Kai’s eye and another his heart.
 
@@ -128,7 +128,7 @@ When the mirror shatters, a splinter enters Kai’s eye and another his heart.
 
 ### **4.2 The Snow Queen: The Avatar of the Frozen Rational**
 
-The Snow Queen acts as a personification of the **intellectual proprium** or the "False Rational." She abducts Kai to her palace in the frozen north (a correspondence for a spiritual state void of love). She promises him the whole world and a "new pair of skates" if he can solve the "Ice Puzzle of Reason" and form the word "Eternity."
+The Snow Queen acts as a personification of the **intellectual self** or the "False Rational." She abducts Kai to her palace in the frozen north (a correspondence for a spiritual state void of love). She promises him the whole world and a "new pair of skates" if he can solve the "Ice Puzzle of Reason" and form the word "Eternity."
 
 This is a profound critique of Enlightenment rationalism. Kai attempts to understand "Eternity" (a Divine concept) using only "ice" (cold facts/natural truths). Swedenborg posits that spiritual truths cannot be grasped by the natural rational mind alone; they require the light of heaven. Thus, Kai is trapped in a loop of futile computation, "blue with cold" but unaware of it because his feelings have been numbed.23 He is in a state of spiritual **vastation**.
 
@@ -146,17 +146,17 @@ The climax occurs when Gerda’s hot tears fall onto Kai’s chest, melting the 
 
 This is the restoration of **Influx**. The heat of Love (Gerda) restores the fluidity of Truth (water/tears) and reconnects the Will and Understanding. Kai is saved not by solving the puzzle, but by weeping—by feeling. They return home to find they have grown up, yet remain children at heart—a direct reference to Swedenborg’s (and Christ’s) teaching that "innocence" is the prerequisite for heaven (the Celestial kingdom).
 
-## **V. The Shadow: The Theology of the Proprium and the External Man**
+## **V. The Shadow: The Theology of the Self and the External Man**
 
-*The Shadow* (1847) is perhaps Andersen’s darkest and most psychologically complex tale, offering a stark warning about the Swedenborgian concept of the **Proprium** (the selfhood or ego). It dramatizes the danger of separating the external persona from the internal spirit.
+*The Shadow* (1847) is perhaps Andersen’s darkest and most psychologically complex tale, offering a stark warning about the Swedenborgian concept of the **Self** (the selfhood or ego). It dramatizes the danger of separating the external persona from the internal spirit.
 
 ### **5.1 The Separation of Substance and Form**
 
 In the story, a learned man sends his shadow into the house of "Poetry" to see what is inside. The shadow enters, but the man does not. The shadow returns with a life of its own, eventually becoming rich, powerful, and corporeal, while the man withers away.
 
-Swedenborg teaches that man is a vessel for life, not life itself. The "shadow" corresponds to the **external man** (the persona, the social self, the memory-knowledge) which mimics the internal spiritual man. In a healthy soul, the external serves the internal. However, when the external separates from the internal and assumes dominance, it becomes a monster. The Shadow is the **Proprium** vivified by self-love.
+Swedenborg teaches that man is a vessel for life, not life itself. The "shadow" corresponds to the **external man** (the persona, the social self, the memory-knowledge) which mimics the internal spiritual man. In a healthy soul, the external serves the internal. However, when the external separates from the internal and assumes dominance, it becomes a monster. The Shadow is the **Self** vivified by self-love.
 
-### **5.2 The Triumph of the Proprium**
+### **5.2 The Triumph of the Self**
 
 The shadow claims to have seen everything in the house of Poetry, but it produces nothing. It blackmails the man, reverses their roles, and eventually executes the man. The shadow represents the **Hypocrite**—the entity that possesses the *form* of a man but lacks the *substance* (the soul/charity).
 
@@ -219,7 +219,7 @@ Disney's *The Little Mermaid* (1989) preserves the spiritual mechanics even whil
 - **Ariel's bargain with Ursula** represents reliance on **self-intelligence**—attempting to achieve spiritual states through one's own power
 - Her **loss of voice** corresponds to the loss of the **power of truth**, which cannot be self-generated
 - The **silent period** with the prince constitutes **vastation**—the regenerating soul feeling mute, no longer perceiving the Lord
-- The **confrontation with Ursula** dramatizes the rejection of the **proprium**
+- The **confrontation with Ursula** dramatizes the rejection of the **self**
 - **Triton's final granting of legs** (not Ursula's magic) represents proper **conjunction**—the natural degree granting what the spiritual wills, through the ruling principle properly ordered
 - The **conjugial love ending** is not simplification but the proper terminus: Will and Understanding united
 
@@ -238,7 +238,7 @@ The analysis demonstrates that:
 1. **Correspondences are Structural:** Andersen uses animals, landscapes, and elements (sea, ice, air, marsh) not as decorative metaphors but as ontological containers for specific spiritual principles, aligning with Swedenborg’s semiotics.  
 2. **The Soul is Evolutionary:** Andersen rejects the static soul of orthodoxy. Like Swedenborg, he views the soul as a dynamic vessel that must be formed, reformed, and regenerated through moral choice and active charity (The Mermaid, Inger).  
 3. **Discrete Degrees Define the Narrative Arc:** The movement in Andersen’s tales is vertical—from the mud/sea (Natural) to the air/earth (Spiritual) to the sun/stars (Celestial). This ascent requires a transformation of nature, not just a change of location.  
-4. **The Proprium is the Antagonist:** Whether it is the Shadow, the Snow Queen’s mirror, or Inger’s shoes, the villain in Andersen’s cosmology is always the Selfhood separated from the Divine.
+4. **The Self is the Antagonist:** Whether it is the Shadow, the Snow Queen's mirror, or Inger's shoes, the villain in Andersen's cosmology is always the Selfhood separated from the Divine.
 
 By integrating the "Scientific Theology" of Swedenborg with the folk tradition, Andersen created a new mythology for the modern age—one where the struggle for immortality is fought not with swords, but with the quiet, persistent labor of the heart.
 
@@ -249,8 +249,8 @@ Restoring the Swedenborgian context reveals Andersen's true stature: a cartograp
 | Andersen Tale | Primary Swedenborgian Concept | Narrative Manifestation |
 | :---- | :---- | :---- |
 | **The Little Mermaid** | *Discrete Degrees / Human Soul* | Ascent from Sea (Natural) to Air (Spiritual) via moral choice; earning a soul through use (Good Deeds). |
-| **The Snow Queen** | *Intellect vs. Will / Faith Alone* | The "Ice Puzzle" of pure reason vs. the "Warmth" of charity; the frozen heart (proprium) melted by love. |
-| **The Shadow** | *Proprium / External Man* | The Shadow (Ego/Persona) separates from the Spirit, mimics humanity, and destroys the internal man. |
+| **The Snow Queen** | *Intellect vs. Will / Faith Alone* | The "Ice Puzzle" of pure reason vs. the "Warmth" of charity; the frozen heart (the self) melted by love. |
+| **The Shadow** | *The Self / External Man* | The Shadow (Ego/Persona) separates from the Spirit, mimics humanity, and destroys the internal man. |
 | **The Girl Who Trod on the Loaf** | *Profanation / Vastation* | Trampling Celestial Good (Bread) for Natural Vanity (Shoes); petrification in hell; redemption through active service. |
 | **The Ice Maiden** | *Nature Spirit vs. Soul* | The conflict between the elemental force (Ice Maiden) which claims the body, and the Soul which belongs to God. |
 | **The Bell** | *Correspondence / Unity of Truth* | Nature and Church as two corresponding paths to the same Divine Source (The Bell). |

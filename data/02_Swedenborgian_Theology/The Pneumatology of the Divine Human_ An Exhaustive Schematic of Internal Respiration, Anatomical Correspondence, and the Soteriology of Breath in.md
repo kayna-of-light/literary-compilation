@@ -101,7 +101,7 @@ Swedenborg’s narrative of human history is fundamentally a respiratory history
 
 ### **4.1 The Recession of the Breath**
 
-As the Adamic race began to fall into self-love (the *proprium*), their internal connection to the Divine was compromised. Since their respiration was their link to the heavens, the corruption of their spirit manifested as a physical recession of the internal breath.
+As the Adamic race began to fall into self-love (the *selfhood*), their internal connection to the Divine was compromised. Since their respiration was their link to the heavens, the corruption of their spirit manifested as a physical recession of the internal breath.
 
 1. **Stage 1 (Perfection):** Breath flowed freely from the Umbilicus to the Heart.  
 2. **Stage 2 (Decline):** Breath receded from the Umbilicus towards the **region of the abdomen**. The connection to the innocence of the womb was weakening.  
@@ -194,7 +194,7 @@ The ultimate purpose of Swedenborg’s detailed schematic is not merely anatomic
 
 The Incarnation of the Lord is described in Swedenborgian thought as a process of "Divine Bricolage"—the construction of a Divine Natural Human using the "debris" of the fallen human condition.
 
-* **The Problem:** The Fall closed the internal way. Man was suffocating in his own proprium.  
+* **The Problem:** The Fall closed the internal way. Man was suffocating in his own selfhood.  
 * **The Solution:** The Lord entered the physical world (the "Ultimates") to re-open the path. By glorifying His human body, He established a new link between the internal and external.  
 * **The Result:** The "Divine Breath" (Holy Spirit) can now flow into the external respiration of man. Regeneration is the process of slowly re-aligning the external breath (life of the world) with the internal breath (life of heaven).
 

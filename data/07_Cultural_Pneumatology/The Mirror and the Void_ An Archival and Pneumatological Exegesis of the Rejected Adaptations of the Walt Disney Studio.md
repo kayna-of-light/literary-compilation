@@ -114,13 +114,13 @@ Walt’s rejection was decisive and, according to some accounts, brutal. He repo
 
 **The Bluth Epilogue:** The validity of Walt’s intuition was arguably proven in 1991, when former Disney animator Don Bluth released *Rock-a-Doodle*, his own adaptation of *Chanticleer*. The film was a critical and commercial failure, widely criticized for its confused tone and lack of emotional resonance.20
 
-### **4.2 Pneumatological Analysis: Delusional Proprium vs. Divine Influx**
+### **4.2 Pneumatological Analysis: Delusional Selfhood vs. Divine Influx**
 
-Why was *Chanticleer* rejected when *Bambi* and *Dumbo* (also animal stories) were accepted? The answer lies in the **direction of influx** and the Swedenborgian concept of **Proprium**.
+Why was *Chanticleer* rejected when *Bambi* and *Dumbo* (also animal stories) were accepted? The answer lies in the **direction of influx** and the Swedenborgian concept of **Selfhood**.
 
-In Swedenborgian theology, "Proprium" is the selfhood—the false belief that life, intelligence, and power originate from oneself rather than flowing in from the Divine. It is the root of all spiritual evil. Chanticleer is the embodiment of Proprium: he believes *he* causes the sun to rise. He believes he is the Cause, and the universe is the Effect.
+In Swedenborgian theology, "Selfhood" is the selfhood—the false belief that life, intelligence, and power originate from oneself rather than flowing in from the Divine. It is the root of all spiritual evil. Chanticleer is the embodiment of Selfhood: he believes *he* causes the sun to rise. He believes he is the Cause, and the universe is the Effect.
 
-> **[Editorial Note]**: Proprium IS selfhood — the vessel that must form before it can receive. The "false belief" described here is **self-sourcing** — a specific directional error the proprium can make when it claims what flows through it as its own. The proprium itself is not the error; claiming ownership is. See: *The Human Who Showed the Way*.
+> **[Editorial Note]**: Selfhood IS selfhood — the vessel that must form before it can receive. The "false belief" described here is **self-sourcing** — a specific directional error the self can make when it claims what flows through it as its own. The self itself is not the error; claiming ownership is. See: *The Human Who Showed the Way*.
 
 * **The Disney Hero:** Typically characterized by humility or a realization of dependency. Pinocchio needs the Blue Fairy; Dumbo needs the feather and Timothy; Arthur (*Sword in the Stone*) needs Merlin. They align themselves with the flow of Providence.  
 * **Chanticleer:** Believes he *is* Providence.
@@ -252,7 +252,7 @@ The "Disney Magic" is structurally defined by the **collapse of the distance bet
 | Project | Official Reason (Historical) | Pneumatological Reason (Hypothesis) | Evidence Strength |
 | :---- | :---- | :---- | :---- |
 | **Don Quixote** | Episodic structure; lack of narrative glue. | **The Irony Gap**: Environment refutes rather than reflects the hero. | **High**: Multiple attempts failed on "tone" and "story" grounds. |
-| **Chanticleer** | Unsympathetic main character; "too highbrow." | **Delusional Proprium**: Hero's internal state (vanity) has no effect on external reality (sun). | **High**: Walt's specific critique of the character's "personality." |
+| **Chanticleer** | Unsympathetic main character; "too highbrow." | **Delusional Selfhood**: Hero's internal state (vanity) has no effect on external reality (sun). | **High**: Walt's specific critique of the character's "personality." |
 | **The Odyssey** | Too long; lacked central characters; not a comedy. | **Epic Neutrality**: Environment is an obstacle (Fate), not a mirror (Influx). | **Medium**: Replaced by *Hercules* (Hero as Celebrity/Affect). |
 | **Mort** | Rights issues (merchandising); creative diffs regarding Death. | **Satirical Bureaucracy**: Desacralized spiritual world clashes with Sincere Influx. | **Medium/High**: Rights were primary, but creative friction is documented. |
 | **The Little Prince** | Personality clash (Walt vs. Welles). | **N/A**: The story *fits* the hypothesis; rejection was interpersonal. | **High**: Confirms "sincerity" requirement (two geniuses clash). |

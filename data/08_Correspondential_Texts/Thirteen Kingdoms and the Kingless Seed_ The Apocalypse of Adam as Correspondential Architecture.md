@@ -154,7 +154,7 @@ Then: ⲁⲛⲥⲟⲩⲱⲛ ⲡⲛⲟⲩⲧⲉ ⲉⲧⲁϥⲧⲁⲙⲓⲟⲛ —
 | Natural Object | Correspondence |
 |---|---|
 | Two aeons (from one) | Will and understanding separated — love and wisdom no longer united |
-| Wrath (ⲃⲱⲗⲕ̅) | Not emotion but the reactive energy of the proprium confronting what exceeds it |
+| Wrath (ⲃⲱⲗⲕ̅) | Not emotion but the reactive energy of the self confronting what exceeds it |
 | Glory in the heart | The Lord's presence in the will — the innermost reception |
 | First knowledge | Celestial perception — direct apprehension of spiritual reality |
 | Dead things | Knowledge at the natural degree only — effects without causes |
@@ -170,7 +170,7 @@ The three visitors then instruct Adam to hear about ⲡⲓⲉⲱⲛ ⲙⲛ̅ ϯ�
 
 After hearing the visitors, Adam and Eve sigh ϩⲣⲁⲓ̈ ϩⲙ̅ ⲡⲉⲛϩⲏⲧ' — "in our heart." The sigh reaches the creator, who responds with a question: "Why were you sighing in your heart? Do you not know that I am the god who created you?" He then states: ⲁⲉⲓⲛⲓϥⲉ ⲉϩⲟⲩⲛ ⲉⲣⲱⲧⲛ̅ ⲛ̅ⲟⲩⲡ̅ⲛ̅ⲁ̅ ⲛ̅ⲧⲉ ⲡⲱⲛϩ̅ ⲉϩⲣⲁⲓ̈ ⲉⲩⲯⲩⲭⲏ ⲉⲥⲟⲛϩ̅ — "I breathed into you a spirit of life as a living soul." Then: ⲁⲩⲕⲁⲕⲉ ⲉ᷍ⲓ ⲉϫⲛ̅ ⲛⲉⲛⲃⲁⲗ — "darkness came upon our eyes."
 
-The creator's claim to have breathed life into them is immediately followed by darkness. This sequence is the text's sharpest correspondential statement about the demiurgic level. The creator believes he is the source of life. His reminder to Adam of this claim produces darkness. In the correspondential framework, the proprium's fundamental statement is "I am the source" — the claim to have produced what was in fact received. When the claim is asserted, perception darkens. The darkness is not punishment; it is the natural consequence of the claim itself. Self-sourcing occludes. It has to. The claim fills the space that reception requires.
+The creator's claim to have breathed life into them is immediately followed by darkness. This sequence is the text's sharpest correspondential statement about the demiurgic level. The creator believes he is the source of life. His reminder to Adam of this claim produces darkness. In the correspondential framework, the self's fundamental statement is "I am the source" — the claim to have produced what was in fact received. When the claim is asserted, perception darkens. The darkness is not punishment; it is the natural consequence of the claim itself. Self-sourcing occludes. It has to. The claim fills the space that reception requires.
 
 **Correspondential key:**
 
@@ -181,7 +181,7 @@ The creator's claim to have breathed life into them is immediately followed by d
 | Cannot recognize their likeness | Celestial influx exceeds the categories of fallen perception |
 | Life reaching the man | Influx — the directionality of spiritual life flowing toward the receiver |
 | Sigh in the heart | The will's response to remembered truth — grief at the loss |
-| Darkness upon the eyes | Self-sourcing (proprium's claim) obscures perception |
+| Darkness upon the eyes | Self-sourcing (the self's claim) obscures perception |
 
 ---
 
@@ -538,7 +538,7 @@ Thirteen filters. One light. The light does not come through the filters. The li
 | Wandering | ⲡⲗⲁⲛⲏ | Deviation from direct reception — the construct's inherent misdirection |
 | The book | ⲡϫⲱⲱⲙⲉ | The institutional scriptural text — the fixed doctrinal repository |
 | Angelic carriers | ⲁⲅ'ⲅⲉⲗⲓⲕⲟⲥ | Influx from above — transmission at the spiritual degree |
-| Servant/slavery | ϩⲁⲗ | Service to the creator-god — reception subordinated to the proprium |
+| Servant/slavery | ςχαλ | Service to the creator-god — reception subordinated to the self |
 | Illuminator | ⲫⲱⲥⲧⲏⲣ | The one who illuminates — the constant state arriving through variable forms |
 
 ---

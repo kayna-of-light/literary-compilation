@@ -35,7 +35,7 @@ The **Divine Bricolage** framework offers a necessary corrective here. It sugges
 
 Swedenborg’s bias regarding the physical is further complicated by his personal psychological struggles. His *Journal of Dreams* (1743-1744) reveals a man wrestling with a powerful "carnal nature" and libido, which he viewed as a source of temptation.1 He systematically sublimated these physical desires into spiritual symbols; for instance, interpreting erotic dreams as symbols for the "love of wisdom".1
 
-This process of sublimation influenced his theology of the "Divine Human." He projected his own internal struggle—the battle between the "internal man" (spiritual/intellectual) and the "external man" (carnal/corporeal)—onto the cosmic stage. The Lord’s life became the archetype of this struggle: the absolute conquest of the "proprium" (self-love/carnal will) by the Divine Soul.1 While this psychological insight is powerful, it risks reducing the physical body to a mere adversary in a moral drama, rather than recognizing it as the "Temple of the Holy Spirit" in its own right. The "Divine Bricolage" model, by contrast, validates the physical *as it is*—messy, evolved, and complex—as the legitimate site of Divine revelation.
+This process of sublimation influenced his theology of the "Divine Human." He projected his own internal struggle—the battle between the "internal man" (spiritual/intellectual) and the "external man" (carnal/corporeal)—onto the cosmic stage. The Lord’s life became the archetype of this struggle: the absolute conquest of the "self" (self-love/carnal will) by the Divine Soul.1 While this psychological insight is powerful, it risks reducing the physical body to a mere adversary in a moral drama, rather than recognizing it as the "Temple of the Holy Spirit" in its own right. The "Divine Bricolage" model, by contrast, validates the physical *as it is*—messy, evolved, and complex—as the legitimate site of Divine revelation.
 
 ## **Part II: The Theory of Divine Bricolage – The Editorial Process as Creation**
 
@@ -90,7 +90,7 @@ Modern Near-Death Experience (NDE) research provides a unique "check" on the Bri
 
 The "Being of Light" is not a historical reconstruction; He is a present spiritual reality. This aligns with the user's view that the "actual living Lord... has always lived".4 The Incarnation in Jesus was the moment this eternal Truth "crashed through" into the "ultimates" of history to create a permanent, accessible interface (the Divine Human).2
 
-The "Bedrock Facts" of Jesus's life (Baptism, Crucifixion) are re-interpreted here as the "footprints" of this crashing through—the points of friction where the Divine Love conquered the resistance of the "proprium" (self-love) inherent in the human condition.11 The "Divine Natural" is not a special type of matter (as Swedenborg struggled to define); it is the **Resurrected Relationship**—the capacity for the Infinite to relate directly to the finite through the "Face" of Jesus.
+The "Bedrock Facts" of Jesus's life (Baptism, Crucifixion) are re-interpreted here as the "footprints" of this crashing through—the points of friction where the Divine Love conquered the resistance of the "self" (self-love) inherent in the human condition.11 The "Divine Natural" is not a special type of matter (as Swedenborg struggled to define); it is the **Resurrected Relationship**—the capacity for the Infinite to relate directly to the finite through the "Face" of Jesus.
 
 ## **Part IV: Universal Influx – The Prophets, The Sons of God, and Theosis**
 
@@ -110,14 +110,14 @@ The user argues this distinction is artificial: "To assume that the Lord cannot 
 The "Divine Bricolage" framework supports the user’s intuition through the concept of **Theosis** (Divine Union) and the restoration of the "Golden Age" cognitive state.4
 
 * **Restoration of the Golden Age:** The purpose of the Incarnation was not to create a unique anomaly (Jesus) but to *restore* the state of the "Most Ancient Church," where humanity had "internal respiration" and direct contact with the Divine.2 If the "First Adam" (humanity before the Fall) had direct access to God, then the "Second Adam" (Jesus) restores that capacity to *all* humanity.  
-* **The "Path of Affirmation":** The "Being of Light" in NDEs validates that *all* souls are invited into this direct connection. The Lord expresses Himself in "anyone He deems to" in the sense that any human who undergoes "regeneration" (the removal of the proprium) becomes a "son of God".4  
+* **The "Path of Affirmation":** The "Being of Light" in NDEs validates that *all* souls are invited into this direct connection. The Lord expresses Himself in "anyone He deems to" in the sense that any human who undergoes "regeneration" (the removal of the self) becomes a "son of God".4  
 * **Prophets as Precursors:** The prophets were "sons of God" because they were the active sites of Divine Bricolage in their time—the "hotspots" where the Divine was welding a connection to humanity using the "materials at hand" (their language, culture, and history).29 They were not just passive dictation machines; they were active participants in the "wrestling match" with the Divine (e.g., Jacob, Jeremiah).
 
 ### **4.3 Synthesis: The Archetype and the Instances**
 
 The synthesis of these views leads to a nuanced conclusion. Jesus remains unique as the *Architect* (the Word Made Flesh), but His work makes it possible for others to become *Living Stones* in the same temple.
 
-* **Jesus as the "Fullness":** In Jesus, the "proprium" (self-love) was completely annihilated and replaced by the Divine. He is the "Fullness of the Godhead bodily" (Colossians 2:9).  
+* **Jesus as the "Fullness":** In Jesus, the "self" (self-love) was completely annihilated and replaced by the Divine. He is the "Fullness of the Godhead bodily" (Colossians 2:9).  
 * **Prophets/Saints as "Partakers":** The prophets and saints partake of this same Divine Nature (2 Peter 1:4). The Lord *can* express Himself fully in a human soul *because* He did so in Jesus, thereby "opening the pathway" for that expression to flow into others.3 To say He "cannot" is to limit the power of the Omnipotent.  
 * **Swedenborg’s Error:** Swedenborg’s error was in making the distinction *metaphysical* (based on the origin of the soul) rather than *functional* or *teleological*. By insisting on a "paternal soul" from Jehovah for Jesus alone, Swedenborg essentially created a new species, rather than the "Firstborn among many brethren" (Romans 8:29) that the New Testament describes. The Bricolage model restores the *humanity* of Jesus and the *divinity* of the potential within all humans.
 

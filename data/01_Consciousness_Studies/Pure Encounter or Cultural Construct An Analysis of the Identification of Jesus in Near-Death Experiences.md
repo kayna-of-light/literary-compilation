@@ -14,9 +14,9 @@
 This report provides a comprehensive analysis of a central, complex question in perceptual and near-death studies: Is the identification of the figure of Jesus during a near-death experience (NDE) a "pure identification" of a transcendent, objective reality, or is it primarily a "dogmatic, cultural identification" primed by the experiencer's background?  
 An examination of phenomenological reports and academic studies reveals a profound tension. A significant body of testimonial evidence supports the "pure identification" hypothesis, detailing anomalous encounters from individuals with no prior Christian framework. These include devout atheists , Muslims , Hindus , and Buddhists who report an "innate knowing" of a figure they identify as Jesus.  
 Conversely, academic research highlights cross-cultural differences—such as in Japanese NDEs, where a "Being of Light" is not personified —suggesting cultural expectation shapes the experience.  
-This report resolves this tension, concluding that the identification of Jesus is a **pure identification based on a direct personality match**. The "Being of Light" encountered in NDEs is not just an abstract illumination; it possesses a distinct and unique personality: one of "unconditional, absolute, and unearned" love , "total awareness joined with total acceptance," and a non-judgmental nature ("judgment had always been human. God only teaches"). This personality is a *perfect correspondence* to the "Divine Human" as He is revealed in the Gospels—a figure who also refutes the *proprium* (self-love) and preaches the universal, internal "Path of Love".  
+This report resolves this tension, concluding that the identification of Jesus is a **pure identification based on a direct personality match**. The "Being of Light" encountered in NDEs is not just an abstract illumination; it possesses a distinct and unique personality: one of "unconditional, absolute, and unearned" love , "total awareness joined with total acceptance," and a non-judgmental nature ("judgment had always been human. God only teaches"). This personality is a *perfect correspondence* to the "Divine Human" as He is revealed in the Gospels—a figure who also refutes the *self* (self-love) and preaches the universal, internal "Path of Love".  
 This "personality match" thesis is further supported by the "Dogma Paradox": the NDE-Jesus consistently delivers a message of universal love that *supersedes* and *contradicts* the exclusivist dogma of many religious institutions. This proves the experience is not a projection of dogmatic belief.  
-Finally, this framework also re-contextualizes seemingly contradictory "hellish" NDEs, such as that of Pastor Howard Pittman. His experience was not a contradiction of the "Path of Love," but a *confirmation* of the *conflict* between the "Internal Path" and the "Antagonist Path". It was a divine judgment on the *dogma* of "faith alone" —which is a manifestation of the *proprium* (self-love) —and his vision of hell was a correspondial vision of the world dominated by this *proprium*.
+Finally, this framework also re-contextualizes seemingly contradictory "hellish" NDEs, such as that of Pastor Howard Pittman. His experience was not a contradiction of the "Path of Love," but a *confirmation* of the *conflict* between the "Internal Path" and the "Antagonist Path". It was a divine judgment on the *dogma* of "faith alone" —which is a manifestation of the *self* (self-love)—and his vision of hell was a correspondial vision of the world dominated by this *self*.
 
 ## **I. The Phenomenon of the "Unexpected Jesus": Testimonial Evidence for Pure Identification**
 
@@ -56,7 +56,7 @@ The "Being of Light" is the most common element of NDEs. This being is consisten
 
 ### **B. The Personality Match**
 
-This unique personality is a *perfect correspondence* to the "Divine Human" as He is revealed in the Gospels. The Gospel Jesus refutes the *proprium's* (self-love's) desire for an external, physical kingdom and a "struggle for power". His message is the universal, internal "Path of Love" ("love your neighbor").  
+This unique personality is a *perfect correspondence* to the "Divine Human" as He is revealed in the Gospels. The Gospel Jesus refutes the *self's* (self-love's) desire for an external, physical kingdom and a "struggle for power". His message is the universal, internal "Path of Love" ("love your neighbor").  
 Therefore, the identification process is not a "cultural projection." It is a **pure identification based on a personality match**.  
 When experiencers—even atheists or those from other faiths—encounter this unique personality of pure, non-judgmental love, they are having a *pure encounter* with the "sun in heaven". Their "innate knowing" is the recognition that this specific, transcendent personality—this "Divine Human in ultimates" —is, and can only be, Jesus Christ. One experiencer articulated this perfectly: "I did not see the Spirit as I had seen Jesus... depicted in paintings, but the innate knowing of my heart remembered and acknowledged Christ. The radiant Spirit was Christ, the manifestation and expression of pure love".
 
@@ -110,17 +110,17 @@ This paradox refutes the simple "dogmatic identification" hypothesis. The identi
 
 Seemingly contradictory "hellish" NDEs, and the question of bias in the data, do not refute this framework. Instead, they *confirm* the *conflict* between the "Internal Path" and the "Antagonist Path".
 
-### **A. The Case of Howard Pittman: A Judgment on the *Proprium***
+### **A. The Case of Howard Pittman: A Judgment on the *Self***
 
 The NDE of Pastor Howard Pittman is a key example. Pittman, a man who had committed his "entire life to preaching the gospel," was told by God in his NDE that his "works were an abomination".  
-This was not a judgment from the "Path of Love" God on humanity. It was a divine judgment on the *dogma* he represented: the "dead orthodoxy" of "faith alone." This dogma, by teaching that humans "will never be able to truly do any good" and are saved only by *believing* in the resurrection, not by *living* a life of love (charity) , is itself a form of the *proprium* (self-love). It "cuts off the divine" inflow by teaching that we *cannot* do good, thereby "inherently reject\[ing\] his inflow into our very soul". Pittman's experience was a judgment on this specific "antagonist" path.
+This was not a judgment from the "Path of Love" God on humanity. It was a divine judgment on the *dogma* he represented: the "dead orthodoxy" of "faith alone." This dogma, by teaching that humans "will never be able to truly do any good" and are saved only by *believing* in the resurrection, not by *living* a life of love (charity) , is itself a form of the *self* (self-love). It "cuts off the divine" inflow by teaching that we *cannot* do good, thereby "inherently reject\[ing\] his inflow into our very soul". Pittman's experience was a judgment on this specific "antagonist" path.
 
 ### **B. The 98% and the Nature of Hell**
 
 Pittman's vision that "98% of the people on earth... are headed to hell" must be understood correspondially, not literally.
 
 * **The 98% as a Correspondial Vision:** This is not a "literal count" of humanity. It is a *correspondial vision* of the *current state of humanity*, which is defined by a "deep self-love and rejection of the Lord". The positive NDE accounts may be "biased towards the message," in that they are experienced by those "capable of delivering this message."  
-* **Hell as Gravitation:** Hell is not a *judgment* or a place of punishment one is "thrown into". Rather, it is a *state* that one *gravitates towards* based on one's "deepest loves". When those loves are forms of *proprium* (self-love) —such as the "faith alone" dogma—they "actively cut off the divine" and lead to that hellish state.
+* **Hell as Gravitation:** Hell is not a *judgment* or a place of punishment one is "thrown into". Rather, it is a *state* that one *gravitates towards* based on one's "deepest loves". When those loves are forms of *the self* (self-love)—such as the "faith alone" dogma—they "actively cut off the divine" and lead to that hellish state.
 
 ## **VI. Conclusion: An Integrated Analysis**
 

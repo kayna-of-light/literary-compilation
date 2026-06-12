@@ -92,7 +92,7 @@ Crucially, Creedon introduced the concept of the **Self-Destruction of Evil**. I
 
 ### **4.3 The Swedenborgian Isomorphism: Vastation**
 
-This shift from external execution to internal self-destruction is a hallmark of Swedenborgian moral theology, specifically the concept of **Vastation**. Swedenborg teaches that the Lord casts no one into Hell; rather, evil spirits cast *themselves* in because they are drawn by the gravity of their own "ruling love" (Proprium). Evil is its own punishment; it consumes itself.
+This shift from external execution to internal self-destruction is a hallmark of Swedenborgian moral theology, specifically the concept of **Vastation**. Swedenborg teaches that the Lord casts no one into Hell; rather, evil spirits cast *themselves* in because they are drawn by the gravity of their own "ruling love" (Selfhood). Evil is its own punishment; it consumes itself.
 
 Creedon’s insistence on this point—that the Queen creates the instrument of her own demise (the boulder she attempts to crush the dwarfs with becomes her tomb)—suggests a sophisticated understanding of "moral physics" that aligns with the *Doctrine of Influx*. Whether Creedon derived this from a specific theological source or his dramatic instincts is secondary to the result: he established the *law* of the Disney universe where internal state dictates external fate. He proved that for the film to work emotionally, the villain could not be "judged" by a court; she had to be consumed by her own nature.
 
@@ -125,13 +125,13 @@ From a Swedenborgian perspective, this change is profound and explicitly theolog
 
 Swedenborg explicitly teaches that "Truth alone cannot save; it must be united with Love." The awakening of the soul (resurrection) can only occur through the conjunction of the Will and the Understanding. By rejecting the "mechanical accident" of the Grimm tale and insisting on the "intentional conjunction" of the Kiss, Sears encoded a soteriology (doctrine of salvation) that is strictly Swedenborgian. He ensured that the film’s climax was a spiritual event, a *hieros gamos* (sacred marriage), rather than a biological hiccup.
 
-### **5.3 The "Proprium" and the Rejection of Chanticleer**
+### **5.3 The "Self" and the Rejection of Chanticleer**
 
-Sears’s influence extended beyond *Snow White*. He famously rejected the *Chanticleer* project because the protagonist—a rooster who believes his crowing causes the sun to rise—was deemed "unsympathetic".1 Through the lens of the *Tripartite Convergence*, this rejection is intelligible as a rejection of the **Proprium** (self-love).
+Sears’s influence extended beyond *Snow White*. He famously rejected the *Chanticleer* project because the protagonist—a rooster who believes his crowing causes the sun to rise—was deemed "unsympathetic".1 Through the lens of the *Tripartite Convergence*, this rejection is intelligible as a rejection of the **Self** (self-love).
 
-In Swedenborgian theology, the belief that one is the source of life or light (proprium) is the root of all evil. A character who believes they cause the sun to rise is, in Swedenborgian terms, in a state of profanation.
+In Swedenborgian theology, the belief that one is the source of life or light (selfhood) is the root of all evil. A character who believes they cause the sun to rise is, in Swedenborgian terms, in a state of profanation.
 
-> **[Editorial Note]**: The proprium is selfhood — the vessel that must form before it can receive. It becomes the root of evil only when it *claims* what flows through it as its own (self-sourcing). The Chanticleer character illustrates this claiming perfectly — but the proprium itself is not evil; the directional error of self-sourcing is. See: *The Human Who Showed the Way*. Sears’s instinct to reject this character suggests an intuitive alignment with the ethic of humility and the acknowledgment of Influx (that life flows *from* the Lord, not *from* the self). His editorial hand consistently steered the studio away from ego-centric narratives toward narratives of submission and reception.
+> **[Editorial Note]**: The self is selfhood — the vessel that must form before it can receive. It becomes the root of evil only when it *claims* what flows through it as its own (self-sourcing). The Chanticleer character illustrates this claiming perfectly — but the self itself is not evil; the directional error of self-sourcing is. See: *The Human Who Showed the Way*. Sears’s instinct to reject this character suggests an intuitive alignment with the ethic of humility and the acknowledgment of Influx (that life flows *from* the Lord, not *from* the self). His editorial hand consistently steered the studio away from ego-centric narratives toward narratives of submission and reception.
 
 ## ---
 
@@ -190,8 +190,8 @@ The evidence assembled allows for a reconstruction of the "Tripartite Convergenc
 | Role | Candidate | Biographical Vector | Specific Contribution | Swedenborgian Parallel |
 | :---- | :---- | :---- | :---- | :---- |
 | **The Pedagogue** | **Don Graham** | **Chouinard Art Institute** (Theosophy/Metaphysics) | **Action Analysis**; "Mind is the Pilot" (Forces vs. Forms). | **Influx:** The Spiritual (Cause) must precede the Natural (Effect). |
-| **The Structural Architect** | **Richard Creedon** | **Radio/KHJ** (Chicago); Irish Catholic background | **"Snow White Suggestions" Memo**; Internal Causality of the Queen's death. | **Vastation:** Evil destroys itself; the Proprium creates its own Hell. |
-| **The Theological Editor** | **Ted Sears** | **New England** (Massachusetts); Yankee Protestant milieu | The **Prince's Kiss**; Rejection of "mechanical" awakening; Rejection of Proprium (*Chanticleer*). | **Conjunction:** Resurrection requires the marriage of Love (Will) and Truth (Intellect). |
+| **The Structural Architect** | **Richard Creedon** | **Radio/KHJ** (Chicago); Irish Catholic background | **"Snow White Suggestions" Memo**; Internal Causality of the Queen's death. | **Vastation:** Evil destroys itself; the Self creates its own Hell. |
+| **The Theological Editor** | **Ted Sears** | **New England** (Massachusetts); Yankee Protestant milieu | The **Prince's Kiss**; Rejection of "mechanical" awakening; Rejection of Selfhood (*Chanticleer*). | **Conjunction:** Resurrection requires the marriage of Love (Will) and Truth (Intellect). |
 | **The Institutional Guardian** | **Hal Adelquist** | **Iowa/Swedish** (Jasper Colony connection); 1937 Asst. Director | **Johnny Appleseed** correspondence; Defense of "Pioneer Spirit" angel; "Blessings Three." | **The Word:** Conscious encoding of specific theological history (Chapman) and defense of Pneumatology. |
 
 ### **7.2 Second-Order Insight: The Disney "Moral Physics"**

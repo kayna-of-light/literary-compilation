@@ -4,9 +4,9 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-04-11
 > 
 > This document reflects **earlier understanding** on:
-> - **#22** The Self and the Proprium — **CRITICAL**: Treats the proprium as inherently evil ("the Antagonist") and equates it with self-love
+> - **#22** The Self and the self — **CRITICAL**: Treats the self as inherently evil ("the Antagonist") and equates it with self-love
 > 
-> **Summary**: The proprium is not "the Antagonist" — it is what is one's own, the vessel that must form before it can receive. It becomes the obstacle only when it claims what flows through it as its own possession (self-sourcing). Self-love is one possible orientation of the vessel. The observations about self-sourcing mechanics remain valid; the equation of selfhood with antagonism does not.
+> **Summary**: the self is not "the Antagonist" — it is what is one's own, the vessel that must form before it can receive. It becomes the obstacle only when it claims what flows through it as its own possession (self-sourcing). Self-love is one possible orientation of the vessel. The observations about self-sourcing mechanics remain valid; the equation of selfhood with antagonism does not.
 > **Established correction (library)**: *Reversing the Arrow*; *The Human Who Showed the Way*
 > ---
 
@@ -50,9 +50,9 @@ The captivity orchestrated by the Demiurge is maintained through a complex machi
 
 In the ancient context, the Archons were the gatekeepers of the celestial spheres, demanding passwords and secret knowledge from ascending souls. In modern iterations of the Gnostic impulse, this mechanism of control is often psychologized or sociologized. The "Archons" become the forces of "social conditioning," "religious dogma," or the "Matrix" of cultural consensus reality.3
 
-The primary weapon of the Captor is **ignorance**. This mechanism can be understood as the "Antagonist Proprium" (selfhood) seeking to "suffocate all else".4 By enforcing a reality where the material world is the only reality, or where the external law is the only path to God, the Captor keeps the "Divine Spark" asleep.
+The primary weapon of the Captor is **ignorance**. This mechanism can be understood as the "antagonist selfhood" (selfhood) seeking to "suffocate all else".4 By enforcing a reality where the material world is the only reality, or where the external law is the only path to God, the Captor keeps the "Divine Spark" asleep.
 
-> **[REFRAMING #22]**: The term "Antagonist Proprium" treats the proprium as inherently adversarial. The proprium is *what is one's own* — the vessel that must form before it can receive. It becomes the obstacle only when it claims what flows through it as its own possession (self-sourcing). The self is the condition for development, not the enemy. See: The Human Who Showed the Way The Captor requires **mediated truth**—institutions, priests, and external books—because direct, unmediated access to the Divine would shatter the illusion of his supremacy. Thus, the Gnostic narrative is fundamentally a story of a prisoner realizing they are in a cell, and that the warden (the god of this world) has lied to them about their crime and their sentence.4
+> **[REFRAMING #22]**: The term "antagonist selfhood" treats the self as inherently adversarial. the self is *what is one's own* — the vessel that must form before it can receive. It becomes the obstacle only when it claims what flows through it as its own possession (self-sourcing). The self is the condition for development, not the enemy. See: The Human Who Showed the Way The Captor requires **mediated truth**—institutions, priests, and external books—because direct, unmediated access to the Divine would shatter the illusion of his supremacy. Thus, the Gnostic narrative is fundamentally a story of a prisoner realizing they are in a cell, and that the warden (the god of this world) has lied to them about their crime and their sentence.4
 
 ## ---
 
@@ -78,13 +78,13 @@ Because the core of the human is already divine, salvation is not a transaction 
 
 In Gnostic texts like the *Gospel of Thomas*, salvation is framed as a turning inward. Jesus says, "When you know yourselves, then you will be known, and you will understand that you are children of the living Father".1 This "knowing" is not meeting a stranger; it is remembering one's own forgotten identity.
 
-In modern "Spiritual But Not Religious" (SBNR) movements, this anthropology is secularized but mechanically identical. Sociological analysis identifies the core motive of SBNR as "being connected with my true self".3 The "True Self" is sacralized; it is viewed as the source of wisdom and authority. The life purpose of the modern Gnostic is to "realize" this authentic self, effectively operationalizing the doctrine of the Divine Spark without the mythological trappings of Aeons and Archons. This focus on "self-realization" is a form of the "Intellectual Proprium"—a mechanism of self-glorification where the ego defines itself as God.3
+In modern "Spiritual But Not Religious" (SBNR) movements, this anthropology is secularized but mechanically identical. Sociological analysis identifies the core motive of SBNR as "being connected with my true self".3 The "True Self" is sacralized; it is viewed as the source of wisdom and authority. The life purpose of the modern Gnostic is to "realize" this authentic self, effectively operationalizing the doctrine of the Divine Spark without the mythological trappings of Aeons and Archons. This focus on "self-realization" is a form of the "intellectual selfhood"—a mechanism of self-glorification where the ego defines itself as God.3
 
 ### **2.3 The "I Am God" Mechanic and Narcissism**
 
-The logical endpoint of the Divine Spark doctrine is the assertion "I am God." While often framed as a mystical liberation, critical analysis connects this mechanic to the concept of **Proprium** (Self-Love) or **Philautia**.3
+The logical endpoint of the Divine Spark doctrine is the assertion "I am God." While often framed as a mystical liberation, critical analysis connects this mechanic to the concept of **the self** (Self-Love) or **Philautia**.3
 
-The "Intellectual Proprium" operates by "elevating themselves," "glorifying themselves," and "defining... them as being God Himself".23 By erasing the distinction between the Creator and the creature, the Gnostic impulse removes the need for humility, obedience, or gratitude toward an external Other. The Self becomes the arbiter of truth, the source of morality, and the goal of existence. This correlates with the "self-focused practice" and modern psychological concepts of **narcissism**, viewing the SBNR movement as a "textbook 21st-century example" of this dynamic.3 In this state, the individual is not liberated from the self, but locked within it, interpreting their own subjective impulses as divine revelation.
+The "intellectual selfhood" operates by "elevating themselves," "glorifying themselves," and "defining... them as being God Himself".23 By erasing the distinction between the Creator and the creature, the Gnostic impulse removes the need for humility, obedience, or gratitude toward an external Other. The Self becomes the arbiter of truth, the source of morality, and the goal of existence. This correlates with the "self-focused practice" and modern psychological concepts of **narcissism**, viewing the SBNR movement as a "textbook 21st-century example" of this dynamic.3 In this state, the individual is not liberated from the self, but locked within it, interpreting their own subjective impulses as divine revelation.
 
 ## ---
 
@@ -108,11 +108,11 @@ This emphasis on secret, internal knowledge necessitates a redefinition of truth
 
 The Gnostic impulse, conversely, located truth in the **private** and the **subjective**. Truth was found in the internal experience of the individual, bypassing external validation. This privatization is a strategic mechanism: it renders the individual autonomous from the community and its ethical constraints. By claiming a direct, private pipeline to the Divine, the Gnostic can dismiss the "mediated truth" of the institution as a tool of the Demiurge.1
 
-### **3.3 Salvation by Intellect (The Intellectual Proprium)**
+### **3.3 Salvation by Intellect (Intellectual Selfhood)**
 
 The shift from "salvation by grace" to "salvation by gnosis" represents a shift to **"Salvation by Intellect"**.3 In this framework, the fundamental problem of humanity is not moral failure (sin) but cognitive failure (ignorance). Therefore, the solution is not a moral act (repentance) but an intellectual act (awakening).
 
-This creates a system of "salvation by intellect" that is classified as the **"Intellectual Form of the Proprium"**.4 It is a system of self-elevation where the "knower" is saved by their own mental capacity to grasp esoteric truths. This contrasts with the "Path of Influx," which is described as "kenotic" (self-emptying) and accessible to the simple and unlearned through charity.4 The Gnostic path is inherently aristocratic; it is for the "spiritual" few who can understand the deep things, not for the "psychic" many who rely on simple faith.
+This creates a system of "salvation by intellect" that is classified as the **"Intellectual Form of Selfhood"**.4 It is a system of self-elevation where the "knower" is saved by their own mental capacity to grasp esoteric truths. This contrasts with the "Path of Influx," which is described as "kenotic" (self-emptying) and accessible to the simple and unlearned through charity.4 The Gnostic path is inherently aristocratic; it is for the "spiritual" few who can understand the deep things, not for the "psychic" many who rely on simple faith.
 
 ## ---
 
@@ -157,9 +157,9 @@ In all these iterations, the mechanic is consistent: the specific, historical, a
 
 **Section V: The Two Paths of the Antagonist (The Downward Spiral)**
 
-The research frames the "Antagonist" or "Proprium" not merely as a single external enemy, but as a root mechanism of **Self-Love** that manifests in two distinct directions. These paths are not conscious choices to "refuse freedom" or "refuse obedience," but are the **natural, ingrained results** of specific ruling loves.
+The research frames the "Antagonist" or "Selfhood" not merely as a single external enemy, but as a root mechanism of **Self-Love** that manifests in two distinct directions. These paths are not conscious choices to "refuse freedom" or "refuse obedience," but are the **natural, ingrained results** of specific ruling loves.
 
-> **[REFRAMING #22]**: This section equates the proprium with "the Antagonist" — a root mechanism of self-love. The corrected understanding: the proprium is the vessel (selfhood), not a mechanism of self-love. Self-love is what happens when the proprium claims what flows through it as its own. The observations about self-sourcing patterns remain valid; the equation of selfhood with antagonism does not. See: Reversing the Arrow; The Human Who Showed the Way As complex environments form around these loves, they inevitably structure reality in their own image, creating a downward spiral away from the Love for the Lord and the Neighbor.
+> **[REFRAMING #22]**: This section equates the self with "the Antagonist" — a root mechanism of self-love. The corrected understanding: the self is the vessel (selfhood), not a mechanism of self-love. Self-love is what happens when the self claims what flows through it as its own. The observations about self-sourcing patterns remain valid; the equation of selfhood with antagonism does not. See: Reversing the Arrow; The Human Who Showed the Way As complex environments form around these loves, they inevitably structure reality in their own image, creating a downward spiral away from the Love for the Lord and the Neighbor.
 
 ### **5.1 The Path of Worldly Power (The Natural Hierarchy)**
 
@@ -179,13 +179,13 @@ The second manifestation is driven by a **Love for the Self**. When this love be
 
 ### **5.3 The Common Root and the Spiral**
 
-While one path is obsessed with external law and the other with internal knowledge, they are not mutually exclusive. They exist in gradations and often mix within complex human environments. However, they share a **common root**: the **Proprium** (Selfhood) that turns away from the Lord.
+While one path is obsessed with external law and the other with internal knowledge, they are not mutually exclusive. They exist in gradations and often mix within complex human environments. However, they share a **common root**: the **Selfhood** that turns away from the Lord.
 
 * Both loves naturally lead to a **downward spiral**.  
 * The **Love for the World** spirals into bondage to external things.  
 * The **Love for the Self** spirals into isolation within the ego.
 
-Neither path can coexist with the **Love for the Lord** (which acknowledges a Divine Source above the self) or the **Love for the Neighbor** (which sees the good in others). These higher loves require a fundamental turning away from the Proprium, a move that the natural gravity of self-love and worldly love consistently resists.
+Neither path can coexist with the **Love for the Lord** (which acknowledges a Divine Source above the self) or the **Love for the Neighbor** (which sees the good in others). These higher loves require a fundamental turning away from the self, a move that the natural gravity of self-love and worldly love consistently resists.
 
 ## ---
 
@@ -201,9 +201,9 @@ This depersonalization serves a specific psychological function: it removes the 
 
 ### **6.2 Narcissism and the "God-Self"**
 
-A direct link is drawn between the "Intellectual Proprium" of modern Gnostic movements (SBNR) and **narcissism**.3 If the "True Self" is God, then every impulse, intuition, or desire of the self can be sacralized as a "divine movement."
+A direct link is drawn between the "intellectual selfhood" of modern Gnostic movements (SBNR) and **narcissism**.3 If the "True Self" is God, then every impulse, intuition, or desire of the self can be sacralized as a "divine movement."
 
-This creates a closed loop of validation. In the SBNR worldview, "sin" is reinterpreted as "forgetting how great you are." Repentance is reinterpreted as "remembering your divinity." This theology offers a powerful narcotic for the ego, validating the modern obsession with self-identity and self-expression as the highest spiritual goods. It effectively operationalizes the "Antagonist Proprium" at a mass scale, creating a culture of "self-glorification" disguised as spiritual awakening.3
+This creates a closed loop of validation. In the SBNR worldview, "sin" is reinterpreted as "forgetting how great you are." Repentance is reinterpreted as "remembering your divinity." This theology offers a powerful narcotic for the ego, validating the modern obsession with self-identity and self-expression as the highest spiritual goods. It effectively operationalizes the "antagonist selfhood" at a mass scale, creating a culture of "self-glorification" disguised as spiritual awakening.3
 
 ### **6.3 Social Fragmentation and the Loss of Shared Reality**
 
@@ -223,7 +223,7 @@ This impulse is defined by a coherent set of operations:
 2. **Anthropologically**, it defines the human as a trapped "Divine Spark," collapsing the distinction between Creator and creature and establishing the Self as the ultimate reality.  
 3. **Epistemologically**, it privileges "Secret Knowledge" (*gnosis*) over public history, privatizing truth and establishing an aristocracy of the enlightened.  
 4. **Christologically**, it systematically dismantles the "Divine Human" by splitting Jesus from Christ, reducing the historical Savior to a vessel for an impersonal, fluid "water" of light that the human self can also wield.  
-5. **Psychologically**, it serves the "Proprium" (Self-Love). Whether manifested as the **Love of the World** (leading naturally to hierarchy) or the **Love of the Self** (leading naturally to self-glorification), it creates a downward spiral that is fundamentally opposed to the Love for the Lord and the Neighbor.
+5. **Psychologically**, it serves the "Selfhood" (Self-Love). Whether manifested as the **Love of the World** (leading naturally to hierarchy) or the **Love of the Self** (leading naturally to self-glorification), it creates a downward spiral that is fundamentally opposed to the Love for the Lord and the Neighbor.
 
 From the codices of Nag Hammadi to the channelings of the Ascended Masters and the "self-realization" of the SBNR movement, this profile reveals a singular, continuous effort. It is the effort to bypass the "Lord in Ultimates"—the concrete, historical, and external reality of God—in favor of a hidden, manageable, and self-reflecting abstraction. It is the ancient promise of the Serpent in the Garden, repurposed for every age: "Your eyes will be opened, and you will be like God, knowing good and evil".6
 
@@ -250,6 +250,6 @@ From the codices of Nag Hammadi to the channelings of the Ascended Masters and t
 
 1. A Critical History of Foundational Narratives \- From Mesopotamian Myths to the Modern Age, [**A Critical History of Foundational Narratives: From Mesopotamian Myths to the Modern Age**](../06_Mythological_Studies/A%20Critical%20History%20of%20Foundational%20Narratives_%20From%20Mesopotamian%20Myths%20to%20the%20Modern%20Age.md)  
 2. A Comparative Analysis of Non-Religious Christolog..., [**A Comparative Analysis of Non-Religious Christologies: The Battle for the 'Lord in Ultimates'**](../03_Biblical_Scholarship/A%20Comparative%20Analysis%20of%20Non-Religious%20Christologies_%20The%20Battle%20for%20the%20'Lord%20in%20Ultimates'.md)  
-3. Proprium et Influx: An Objective Analysis of a Hyp..., [**Proprium et Influx: An Objective Analysis of a Hypothetical Conflict Model against 21st-Century Socio-Political and Scientific Data**](../01_Consciousness_Studies/Proprium%20et%20Influx_%20An%20Objective%20Analysis%20of%20a%20Hypothetical%20Conflict%20Model%20against%2021st-Century%20Socio-Political%20and%20Scientific%20Data.md)  
+3. Selfhood and Influx: An Objective Analysis of a Hyp..., [**Selfhood and Influx: An Objective Analysis of a Hypothetical Conflict Model against 21st-Century Socio-Political and Scientific Data**](../01_Consciousness_Studies/Selfhood%20et%20Influx_%20An%20Objective%20Analysis%20of%20a%20Hypothetical%20Conflict%20Model%20against%2021st-Century%20Socio-Political%20and%20Scientific%20Data.md)  
 4. Enhancing Spiritual History Framework, [Enhancing Spiritual History Framework](../00_Framework/Enhancing%20Spiritual%20History%20Framework.md)  
 6. Genesis Creation Myth's ANE Context, [Genesis Creation Myth's ANE Context](../06_Mythological_Studies/Genesis%20Creation%20Myth's%20ANE%20Context.md)

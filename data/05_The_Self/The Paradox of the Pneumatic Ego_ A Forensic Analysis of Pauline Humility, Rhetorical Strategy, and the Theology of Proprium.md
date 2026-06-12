@@ -1,13 +1,13 @@
-# **The Paradox of the Pneumatic Ego: A Forensic Analysis of Pauline Humility, Rhetorical Strategy, and the Theology of Proprium**
+# **The Paradox of the Pneumatic Ego: A Forensic Analysis of Pauline Humility, Rhetorical Strategy, and the Theology of Selfhood**
 
 > ---
 > **📋 Editorial Notes** | Last reviewed: 2026-04-11
 >
 > This document reflects **earlier understanding** on:
 > - **#9** [Resurrection Narrative Evolution](../03_Biblical_Scholarship/The%20Anatomy%20of%20Ascension_%20A%20Critical-Historical%20and%20Phenomenological%20Reconstruction%20of%20the%20Resurrection%20Narrative%20from%20Pauline%20Pneumatology%20to%20the.md) — This analysis treats Luke's "broiled fish" scene as straightforward historical grounding for the "Actual Jesus," without flagging the textual layering and anti-Docetic polemic of the later Gospel strata.
-> - **#22** The Self and the Proprium — Treats proprium as inherently "black" and evil
+> - **#22** The Self and Selfhood — Treats selfhood as inherently "black" and evil
 >
-> **Summary**: The physical-proof motifs ("flesh and bones", eating fish, touching wounds) are best read as later materializing layers in the tradition. Additionally, the proprium is treated as inherently evil rather than as a vessel whose *orientation* determines obstruction.
+> **Summary**: The physical-proof motifs ("flesh and bones", eating fish, touching wounds) are best read as later materializing layers in the tradition. Additionally, selfhood is treated as inherently evil rather than as a vessel whose *orientation* determines obstruction.
 > **Established correction (library)**: The Anatomy of Ascension (for #9); *The Human Who Showed the Way* (for #22)
 > ---
 
@@ -17,49 +17,49 @@ The intellectual and spiritual history of the West has been irrevocably shaped b
 
 On the surface, the Pauline corpus presents the most robust articulation of humility in the canon. Paul describes himself as a "slave" (*doulos*) of Christ (Romans 1:1), the "least of the apostles" (1 Corinthians 15:9), and a "wretched man" (Romans 7:24). He constructs a theology where "no flesh should glory" (1 Corinthians 1:29) and where the only valid boast is in one’s "weakness" (2 Corinthians 12:5). This rhetoric of negation suggests a man who has utterly crucified the ego.
 
-However, a critical forensic framework—drawing upon the pneumatological critiques of Emanuel Swedenborg and historical-critical analyses of Gnosticism—offers a devastating counter-diagnosis. This framework characterizes Paul not as a paragon of humility, but as a figure defined by "proprium" (self-hood). It posits that Paul’s rejection of the Mosaic Law, his conflict with the Jerusalem pillars (Peter and James), and his reliance on "Faith Alone" were manifestations of a "self-derived intelligence" and a "love of dominion" that sought to bypass the historical authority of the church in favor of a subjective, uncontrolled pneumatic autonomy.1
+However, a critical forensic framework—drawing upon the pneumatological critiques of Emanuel Swedenborg and historical-critical analyses of Gnosticism—offers a devastating counter-diagnosis. This framework characterizes Paul not as a paragon of humility, but as a figure defined by "selfhood" (self-hood). It posits that Paul’s rejection of the Mosaic Law, his conflict with the Jerusalem pillars (Peter and James), and his reliance on "Faith Alone" were manifestations of a "self-derived intelligence" and a "love of dominion" that sought to bypass the historical authority of the church in favor of a subjective, uncontrolled pneumatic autonomy.1
 
-This report serves as an exhaustive forensic investigation into this dichotomy. It addresses the research question: *How do Pauline scholars interpret the passages of Paul's extreme humility, and how do these interpretations interact with the "proprium" diagnosis?* By rigorously juxtaposing the "Framework" (the Swedenborgian/Gnostic critique) against mainstream historical-critical scholarship, we aim to determine whether Paul’s humility is authentic piety, a sophisticated rhetorical strategy for power, or a complex synthesis of both that inadvertently confirms the "proprium" diagnosis.
+This report serves as an exhaustive forensic investigation into this dichotomy. It addresses the research question: *How do Pauline scholars interpret the passages of Paul's extreme humility, and how do these interpretations interact with the "selfhood" diagnosis?* By rigorously juxtaposing the "Framework" (the Swedenborgian/Gnostic critique) against mainstream historical-critical scholarship, we aim to determine whether Paul's humility is authentic piety, a sophisticated rhetorical strategy for power, or a complex synthesis of both that inadvertently confirms the "selfhood" diagnosis.
 
-The analysis will demonstrate that Paul’s humility operates as a "Paradox of Power"—a theological mechanism where the performative negation of the self serves to establish an unassailable form of pneumatic authority. We will argue that while Paul’s language of abasement is likely rooted in genuine trauma and religious experience, its structural function is to insulate his "Gnostic" autonomy from external critique. By declaring himself a "slave," he answers to no human master; by boasting in "weakness," he renders his authority immune to worldly validation. Thus, "authentic humility" and "rhetorical strategy" fuse to create a "Proprium of the Spirit"—an ego that claims absolute authority by claiming absolute nothingness.
+The analysis will demonstrate that Paul’s humility operates as a "Paradox of Power"—a theological mechanism where the performative negation of the self serves to establish an unassailable form of pneumatic authority. We will argue that while Paul’s language of abasement is likely rooted in genuine trauma and religious experience, its structural function is to insulate his "Gnostic" autonomy from external critique. By declaring himself a "slave," he answers to no human master; by boasting in "weakness," he renders his authority immune to worldly validation. Thus, "authentic humility" and "rhetorical strategy" fuse to create a "Selfhood of the Spirit"—an ego that claims absolute authority by claiming absolute nothingness.
 
-## **2\. Part I: The Forensic Diagnosis – Defining the Pauline Proprium**
+## **2\. Part I: The Forensic Diagnosis – Defining the Pauline Selfhood**
 
-To evaluate the sincerity and function of Paul’s humility, we must first establish a precise definition of the "proprium" as it appears in the critical framework. This diagnosis is not merely a psychological assessment of narcissism but a specific pneumatic and theological category derived from the intersection of Swedenborgian theology and Gnostic studies.
+To evaluate the sincerity and function of Paul’s humility, we must first establish a precise definition of "selfhood" as it appears in the critical framework. This diagnosis is not merely a psychological assessment of narcissism but a specific pneumatic and theological category derived from the intersection of Swedenborgian theology and Gnostic studies.
 
-### **2.1 The Metaphysics of Proprium: Self-Derived Intelligence vs. Divine Influx**
+### **2.1 The Metaphysics of Selfhood: Self-Derived Intelligence vs. Divine Influx**
 
-The central thesis of the "proprium" framework, as outlined in the *Spiritual Diary* documents, is that the source of inspiration determines the spiritual quality of the text. The framework distinguishes sharply between "The Word" and "The Writings".1
+The central thesis of the "selfhood" framework, as outlined in the *Spiritual Diary* documents, is that the source of inspiration determines the spiritual quality of the text. The framework distinguishes sharply between "The Word" and "The Writings".1
 
 * **The Word (Gospels/Prophets):** Originates from direct Divine Dictation. It contains an infinite internal sense where every "jot and tittle" corresponds to the form of heaven.1  
-* **The Writings (Paul):** Originate from "self-derived intelligence" or "intellectual proprium." The framework asserts that Paul "took all things from himself" rather than serving as a passive vessel for the Divine.1
+* **The Writings (Paul):** Originate from "self-derived intelligence" or "intellectual selfhood." The framework asserts that Paul "took all things from himself" rather than serving as a passive vessel for the Divine.1
 
-In this context, "proprium" (self-hood) is defined as the state of the human will when it is separated from the Divine Influx. It is inherently "black" and characterized by the "love of self".2 When applied to theology, the "Intellectual Proprium" generates "fatuous light"—a brilliance that mimics divine truth but is rooted in the ego’s desire for validation and dominance.2 The critique argues that Paul’s theology is an intellectual construct designed to justify his own spiritual state, rather than a revelation received through the "Perfection of Trust".
+In this context, "selfhood" is defined as the state of the human will when it is separated from the Divine Influx. It is inherently "black" and characterized by the "love of self".2 When applied to theology, the "Intellectual Selfhood" generates "fatuous light"—a brilliance that mimics divine truth but is rooted in the ego's desire for validation and dominance.2 The critique argues that Paul's theology is an intellectual construct designed to justify his own spiritual state, rather than a revelation received through the "Perfection of Trust".
 
 ### **2.2 The Epistemology of Autonomy and the "Gnostic Impulse"**
 
-The diagnosis of proprium is inextricably linked to what the research identifies as the "Gnostic Impulse".2 Paul’s foundational claim to authority is his "Epistemology of Autonomy"—the assertion in Galatians 1:11-12 that his gospel was "not from man," nor was he taught it, but it came through a direct "revelation of Jesus Christ."
+The diagnosis of selfhood-claiming is inextricably linked to what the research identifies as the "Gnostic Impulse".2 Paul’s foundational claim to authority is his "Epistemology of Autonomy"—the assertion in Galatians 1:11-12 that his gospel was "not from man," nor was he taught it, but it came through a direct "revelation of Jesus Christ."
 
-This claim is the structural epicenter of the proprium diagnosis. By explicitly rejecting the "flesh and blood" testimony of the historical apostles (Peter and James), Paul anchors truth in the subjective, pneumatic experience of the individual.3
+This claim is the structural epicenter of the selfhood diagnosis. By explicitly rejecting the "flesh and blood" testimony of the historical apostles (Peter and James), Paul anchors truth in the subjective, pneumatic experience of the individual.3
 
-* **Rejection of Mediation:** The "proprium" here is the audacity to claim that one’s internal vision supersedes the collective witness of the historical community. It prioritizes the internal "flash" of gnosis over the external "vessel" of history and law.3  
+* **Rejection of Mediation:** The "selfhood" here is the audacity to claim that one's internal vision supersedes the collective witness of the historical community. It prioritizes the internal "flash" of gnosis over the external "vessel" of history and law.3
 * **The Gnostic Seed:** This move is identified as the structural seed of Gnosticism. It establishes a "pneumatic autonomy" that bypasses historical and material grounding. The framework argues that this creates a "fallible" revelation, prone to the distortions of the selfhood, because it lacks the "check and balance" of the external Word.3
 
 ### **2.3 The Love of Dominion and the Usurpation of Keys**
 
 The critique extends beyond epistemology to motivation. The forensic analysis of the *Spiritual Diary* suggests Paul was driven by "worldly ambition" and a desire to be the "greatest".1 This is specifically manifested in his conflict with Peter. The framework argues that Paul’s theological innovations were an attempt to "usurp the keys of the Kingdom" from Peter by substituting a complex doctrine of "Justification" for the simple Petrine confession of the Lord’s Divinity.1
 
-Despite his language of grace, the critique notes Paul’s insistence on his own labor: "I labored more abundantly than they all" (1 Corinthians 15:10). The framework interprets this not as a celebration of grace, but as a "forensic claim to merit" rooted in the proprium—a desire to be recognized as the supreme architect of the faith.1
+Despite his language of grace, the critique notes Paul’s insistence on his own labor: "I labored more abundantly than they all" (1 Corinthians 15:10). The framework interprets this not as a celebration of grace, but as a "forensic claim to merit" rooted in the self—a desire to be recognized as the supreme architect of the faith.1
 
 ### **2.4 The Paradox of the "Dark Chamber"**
 
-Finally, the proprium framework argues that Paul’s theology creates a "Dark Chamber" of separation between the Divine and the Human. By emphasizing the "weakness" of the flesh and the "imputed" nature of righteousness (rather than actual regeneration), Paul constructs a system where the believer remains in their proprium (self-love) while claiming the legal status of a saint.2
+Finally, the selfhood framework argues that Paul's theology creates a "Dark Chamber" of separation between the Divine and the Human. By emphasizing the "weakness" of the flesh and the "imputed" nature of righteousness (rather than actual regeneration), Paul constructs a system where the believer remains in their self-love while claiming the legal status of a saint.
 
-The "humility" of "Faith Alone"—which admits one can do nothing good—is viewed cynically by this framework as a mechanism to avoid the hard work of repentance and charity. It leaves the "Dragon" of self-love intact, hidden behind a veneer of theological piety.1 This defines the "proprium" not as simple arrogance, but as a complex theological defense mechanism that protects the ego from the transformative demands of the Divine Love.
+The "humility" of "Faith Alone"—which admits one can do nothing good—is viewed cynically by this framework as a mechanism to avoid the hard work of repentance and charity. It leaves the "Dragon" of self-love intact, hidden behind a veneer of theological piety.1 This defines "selfhood" not as simple arrogance, but as a complex theological defense mechanism that protects the ego from the transformative demands of the Divine Love.
 
 ## **3\. Part II: The "Slave of Christ" (*Doulos Christou*) – Abasement or Supreme Authority?**
 
-The first and most prominent test case for the proprium diagnosis is Paul’s ubiquitous self-designation as the "Slave of Christ" (*doulos Christou*). While modern readers often view this as a supreme expression of humble service, scholarly consensus suggests a far more complex reality that aligns with the "Paradox of Power."
+The first and most prominent test case for the selfhood diagnosis is Paul's ubiquitous self-designation as the "Slave of Christ" (*doulos Christou*). While modern readers often view this as a supreme expression of humble service, scholarly consensus suggests a far more complex reality that aligns with the "Paradox of Power."
 
 ### **3.1 Philological and Historical Context: The *Doulos* vs. *Diakonos***
 
@@ -77,11 +77,11 @@ When Paul calls himself the *doulos* of Christ, he is engaging in a sophisticate
 * **Downward Mobility (Vertical Humility):** Vis-à-vis Christ, Paul asserts he is nothing. He is mere property, bought with a price, possessing no will of his own. This satisfies the requirement of piety and deflects accusations of personal ambition.  
 * **Upward Mobility (Horizontal Authority):** Vis-à-vis the Corinthians, Galatians, or even the Jerusalem Apostles, he is the Plenipotentiary of the Cosmic Lord. As the slave of the King, he speaks with the King’s voice. To disobey the slave is to disobey the Master.
 
-This rhetorical strategy effectively places Paul above human criticism. If he were merely a "leader" or a "teacher," he could be debated. As a "slave," he is merely a conduit. This interpretation supports the "proprium" framework’s contention that Paul sought to bypass human mediation.1 By declaring himself a slave *only* to Christ, Paul emancipates himself from all human authorities. He is not a "slave of the Church," nor a "slave of Peter," nor a "slave of the Law." He answers only to the Divine.
+This rhetorical strategy effectively places Paul above human criticism. If he were merely a "leader" or a "teacher," he could be debated. As a "slave," he is merely a conduit. This interpretation supports the "selfhood" framework’s contention that Paul sought to bypass human mediation.1 By declaring himself a slave *only* to Christ, Paul emancipates himself from all human authorities. He is not a "slave of the Church," nor a "slave of Peter," nor a "slave of the Law." He answers only to the Divine.
 
-### **3.3 The Proprium Diagnosis: Diplomatic Immunity**
+### **3.3 The Selfhood Diagnosis: Diplomatic Immunity**
 
-How does this interact with the "proprium" diagnosis? The framework argues that the proprium is characterized by the "love of dominion".1 The *doulos* title, while linguistically humble, functions functionally as a tool of dominion.
+How does this interact with the "selfhood" diagnosis? The framework argues that the self is characterized by the "love of dominion".1 The *doulos* title, while linguistically humble, functions functionally as a tool of dominion.
 
 * **The mechanism:** By stripping himself of *personal* authority, Paul claims *absolute* authority. He creates a "diplomatic immunity" against the Jerusalem pillars. If Peter is a "free man" and Paul is a "slave of Christ," Paul can argue that his orders come from a higher source and cannot be countermanded by mere "flesh and blood".3  
 * **Scholarship Verdict:** Rhetorical Strategy. Scholars overwhelmingly see the *doulos* title as a claim to legitimate authority, not just an expression of piety.4  
@@ -89,7 +89,7 @@ How does this interact with the "proprium" diagnosis? The framework argues that 
 
 ### **Table 1: Comparative Analysis of the "Slave" Title**
 
-| Perspective | Interpretation of Doulos Christou | Function in Paul's Ministry | Relation to "Proprium" Diagnosis |
+| Perspective | Interpretation of Doulos Christou | Function in Paul's Ministry | Relation to "Selfhood" Diagnosis |
 | :---- | :---- | :---- | :---- |
 | **Traditional/Pious** | Expression of total devotion and self-abasement. | To demonstrate obedience and lack of self-will. | Contradicts: Seen as evidence of genuine humility. |
 | **Historical-Critical** | Claim to "Derivative Authority" (Managerial Slave). | To assert authority over churches as the agent of the Divine Patron. | **Confirms:** Uses humility to bypass human accountability and assert dominion. |
@@ -120,9 +120,9 @@ This rhetorical structure mirrors the political mechanism of **Divine Proxy** (a
 * **Blind Trust:** By stating "Not I, but the grace of God which was with me," Paul places his agency into a "blind trust." He claims that his actions are not his own, but the direct execution of a Divine mandate.  
 * **Immunity:** This renders his authority absolute. To criticize Paul’s decisions, theology, or leadership is to criticize the "Grace" that is acting through him. He uses the narrative of his own guilt to establish that he is merely a passive instrument, and therefore, his commands are the commands of the Divine.2
 
-### **4.4 Reframing the "Proprium": The Hubris of the Exception**
+### **4.4 Reframing "Selfhood": The Hubris of the Exception**
 
-The "proprium" diagnosis here is refined. It is not that Paul is "proud" of his works in a standard religious sense; it is that he exhibits the **Proprium of the Exception**.
+The "selfhood" diagnosis here is refined. It is not that Paul is "proud" of his works in a standard religious sense; it is that he exhibits the **Selfhood of the Exception**.
 
 * **The Logic of Exception:** By being the "abortion" and the "least," he is the exception to the normative rule of apostolic succession. The "normative" apostles represent history and continuity. Paul, as the exception, represents the disruption of pure Revelation.  
 * **The Sole Image:** By framing his authority this way, Paul positions himself as the **Sole Image** of the Cosmic Christ—the only one who reveals Jesus without the "interference" of historical memory. He destroys the image of the "man" to establish the image of the "God-Man" within himself, answerable to no one but the Source.3
@@ -146,7 +146,7 @@ Paul lists his "credentials": beatings, shipwrecks, sleeplessness, anxiety (2 Co
 
 Crucially, this section also contains Paul’s boast of being caught up to the "Third Heaven" (2 Cor 12:2). This is the "Gnostic" core of his experience—a private, ecstatic ascent.
 
-* **The Proprium of Revelation:** The framework notes that Paul *claims* an "abundance of revelations".3 This claim itself is an assertion of superior pneumatic status (Gnosis).  
+* **The Selfhood of Revelation:** The framework notes that Paul *claims* an "abundance of revelations".3 This claim itself is an assertion of superior pneumatic status (Gnosis).  
 * **The Thorn as Counter-Weight:** Paul mentions a "Thorn in the Flesh" given to prevent him from being "exalted above measure" (2 Cor 12:7).7 This admits a struggle with pride.  
 * **Gnostic Dualism:** The "Fool's Speech" reinforces the Gnostic dualism identified in the framework.2 Paul is willing to let the *body* be crushed (weakness) so that the *spirit* (pneuma) can be exalted. He boasts in the "Man in Christ" (the pneumatic self who visited the third heaven) while disparaging the "Man in the Flesh" (the one with the thorn).
 
@@ -155,8 +155,8 @@ Crucially, this section also contains Paul’s boast of being caught up to the "
 Scholars view this as a brilliant rhetorical trap. If the Super-Apostles boast of strength, they align with the world. If Paul boasts of weakness, he aligns with Christ and the Cross.
 
 * **Invulnerability:** By embracing weakness, Paul becomes rhetorically invulnerable. You cannot shame a man who claims shame as his badge of honor.  
-* **Proprium Analysis:** This is the "Judo" move of the Pneumatic Ego. Paul satisfies the need for humility while simultaneously claiming that *his* weakness makes him a clearer channel for the Divine than the *strength* of Peter or the Super-Apostles. It is a claim to "transparency." He argues that others block the light with their ego/merit; he, being broken, lets the light shine through.  
-* **Critique:** The "proprium" framework argues this is the ultimate "Intellectual Proprium".1 It effectively says, "I am the most humble, therefore I am the most authoritative." It converts the lack of status into the highest status.
+* **Selfhood Analysis:** This is the "Judo" move of the Pneumatic Ego. Paul satisfies the need for humility while simultaneously claiming that *his* weakness makes him a clearer channel for the Divine than the *strength* of Peter or the Super-Apostles. It is a claim to "transparency." He argues that others block the light with their ego/merit; he, being broken, lets the light shine through.  
+* **Critique:** The "selfhood" framework argues this is the ultimate "Intellectual Selfhood".1 It effectively says, "I am the most humble, therefore I am the most authoritative." It converts the lack of status into the highest status.
 
 ## **6\. Part V: Suffering Catalogues (*Peristasis*) – The Credentials of Pain**
 
@@ -174,21 +174,21 @@ Scholarship universally interprets these lists as "credentials of authenticity" 
 * **The Mark of Jesus:** "I bear in my body the marks of the Lord Jesus" (Gal 6:17). This claims ownership by Christ.  
 * **Validating the Independent Mission:** The suffering catalogues serve to validate the "Gnostic" independent mission. Paul needs no authorization from the "Pillars" (Peter/James) because he has the authorization of the "Rod" (suffering). This aligns with the framework's view that Paul sought to establish a "self-derived" church separate from the historic apostolic college.1
 
-### **6.3 The Proprium of Suffering: The Debt of Love**
+### **6.3 Selfhood and Suffering: The Debt of Love**
 
-Does suffering prove the absence of proprium (self-love)? The framework suggests not necessarily. The "proprium" diagnosis includes the "love of dominion".1 Suffering can be a potent tool of dominion.
+Does suffering prove the absence of selfhood-claiming (self-love)? The framework suggests not necessarily. The "selfhood" diagnosis includes the "love of dominion".1 Suffering can be a potent tool of dominion.
 
 * **Creating Debt:** By emphasizing his "labor" and "suffering," Paul creates a debt relationship with his churches. "I suffered for you, therefore you owe me obedience" (cf. 1 Cor 4:14-16, where he calls himself their "father" through the gospel).  
 * **Emotional Manipulation:** Critics of Paul (aligned with the framework) might argue that these lists serve to guilt the audience into submission. It is a "martyr complex" weaponized for leadership.
 
 ## **7\. Part VI: The "Divine Bricolage" vs. Pauline Gnosticism**
 
-To fully contextualize the "proprium" diagnosis, we must compare Paul’s strategy with the alternative model proposed in the research: "Divine Bricolage".3
+To fully contextualize the "selfhood" diagnosis, we must compare Paul's strategy with the alternative model proposed in the research: "Divine Bricolage".
 
 ### **7.1 Vertical vs. Horizontal Humility**
 
 * **Divine Bricolage (The Jamesian/Petrine Model):** This model emphasizes "historical humility"—accepting the "vessels" God has already created (History, Law, Community, Nature). It works *through* the material world and the consensus of the brethren. It is "horizontal" stability.  
-* **Pauline Gnosticism (The Proprium Model):** Paul’s humility is purely "vertical." He abases himself before the "Christ of Revelation" but rejects the "Christ of History" ("we know him no more," 2 Cor 5:16).  
+* **Pauline Gnosticism (The Selfhood Model):** Paul's humility is purely "vertical." He abases himself before the "Christ of Revelation" but rejects the "Christ of History" ("we know him no more," 2 Cor 5:16).
 * **The Disruption:** The framework argues that Paul’s rejection of the "Divine Bricolage" (the slow, messy work of history) in favor of the "flash" of revelation is an act of spiritual impatience and pride.3
 
 ### **7.2 The "Actual Jesus" vs. The "Cosmic Christ"**
@@ -198,11 +198,11 @@ The research suggests that Paul’s humility serves the "Cosmic Christ" (a pneum
 > **[CRITICAL ANALYSIS #9]**: The “broiled fish” motif (Luke 24:42-43) is widely treated within this corpus as part of a later anti-Docetic materialization layer, not the earliest stratum of resurrection testimony (compare Paul’s *soma pneumatikon* and Mark’s earliest ending). The contrast intended here (history vs private revelation) still stands, but it should not depend on the fish-eating scene as if it were original historical memory.
 
 * **The "Fish" Test:** The "Divine Bricolage" model validates the physical, historical reality of Jesus (who ate fish after resurrection). Paul’s theology, focused on the "spiritual body" (1 Cor 15), tends toward a "Gnostic" rejection of the material.  
-* **Implication:** Paul’s humility is a humility of the *spirit* that masks a rejection of the *body*. This supports the "proprium" diagnosis that Paul is trapped in the "Intellectual Proprium," valuing ideas/revelations over physical/historical reality.
+* **Implication:** Paul's humility is a humility of the *spirit* that masks a rejection of the *body*. This supports the "selfhood" diagnosis that Paul is trapped in the "Intellectual Selfhood," valuing ideas/revelations over physical/historical reality.
 
-## **8\. Part VII: Synthesis – The "Proprium of the Spirit"**
+## **8\. Part VII: Synthesis – The "Selfhood of the Spirit"**
 
-The scholarship on Paul’s humility, when subjected to this rigorous forensic interrogation, validates the "proprium" diagnosis not as a critique of his sincerity, but as an analysis of his **structural ambition**.
+The scholarship on Paul's humility, when subjected to this rigorous forensic interrogation, validates the "selfhood" diagnosis not as a critique of his sincerity, but as an analysis of his **structural ambition**.
 
 ### **8.1 Authentic Humility or Rhetorical Strategy?**
 
@@ -213,32 +213,32 @@ The dichotomy presented in the research question ("Authentic" vs. "Rhetorical") 
 
 ### **8.2 The "Divine Proxy" and Autotheism**
 
-The "proprium" framework 1 argues Paul is motivated by "worldly glory" and "self-intelligence."
+The "selfhood" framework 1 argues Paul is motivated by "worldly glory" and "self-intelligence."
 
 * **The Mechanism of Immunity:** Paul’s use of "In God We Trust" logic—claiming to be the "least" while exercising the "most" authority—allows him to act as the **Divine Proxy**. He claims authority over his own judgment, destroys his own image, and replaces it with the "Image of Christ."  
-* **Autotheism via Kenosis:** This leads to the ultimate paradox: By claiming to be "nothing" (emptying/kenosis), he becomes the container for "everything" (the Pleroma/Fullness of God). This is the ultimate "Intellectual Proprium"—a self-hood that inflates itself to the size of the Divine by claiming to have no self at all.
+* **Autotheism via Kenosis:** This leads to the ultimate paradox: By claiming to be "nothing" (emptying/kenosis), he becomes the container for "everything" (the Pleroma/Fullness of God). This is the ultimate "Intellectual Selfhood"—a self-hood that inflates itself to the size of the Divine by claiming to have no self at all.
 
-### **8.3 Conclusion: The "Proprium of the Spirit"**
+### **8.3 Conclusion: The "Selfhood of the Spirit"**
 
-The research leads to the conclusion that Paul exhibits a unique form of egoism: the **Proprium of the Spirit**. This is not the vanity of the worldling, but the absolute confidence of the visionary who believes his internal revelation supersedes all external authority.
+The research leads to the conclusion that Paul exhibits a unique form of egoism: the **Selfhood of the Spirit**. This is not the vanity of the worldling, but the absolute confidence of the visionary who believes his internal revelation supersedes all external authority.
 
 His humility ("I am nothing") is the foundation of his authoritarianism ("Imitate me"). By emptying himself of "human" content (history, merit, law), he fills himself with "divine" content (Spirit, Grace). This makes him rhetorically unassailable. You cannot argue with a man who claims to be dead.
 
-Thus, the scholarship on Paul’s humility does not refute the "proprium" diagnosis but refines it. Paul’s proprium is not the "love of the world" (which he rejects in his suffering), but the "love of the private revelation"—the Gnostic impulse to define truth solely by the internal light, protected by the paradox that the weaker the vessel, the truer the light.
+Thus, the scholarship on Paul's humility does not refute the "selfhood" diagnosis but refines it. Paul's self-claiming is not the "love of the world" (which he rejects in his suffering), but the "love of the private revelation"—the Gnostic impulse to define truth solely by the internal light, protected by the paradox that the weaker the vessel, the truer the light.
 
 ## **9\. Implications for the "Framework" and Future Research**
 
 The "Framework" claims Paul disrupts the "Divine Bricolage" (the use of history/nature).3
 
 * **Verdict:** Confirmed. Paul’s humility ("I know no man after the flesh," 2 Cor 5:16) is a rejection of the historical "bricolage" (the earthly Jesus).  
-* **Nuance:** While the framework views this as negative (Proprium), Paul views it as eschatological necessity. The "Old Things" have passed away.  
+* **Nuance:** While the framework views this as negative (Selfhood-claiming), Paul views it as eschatological necessity. The "Old Things" have passed away.  
 * **Result:** Paul’s humility is the hammer that breaks the "Vessel" of Judaism to release the "Spirit" of Universalism. Whether this is a "Fall" (as Swedenborg suggests) or a "Redemption" (as Orthodoxy suggests) depends on the value one places on the Vessel itself.
 
-Future research should focus on the psychological transition of Paul from "Persecutor" to "Apostle" to see if the "proprium" is indeed a trauma response—a "manic defense" against the unbearable guilt of his past, constructing a theology of "Grace" to survive the weight of his own conscience.
+Future research should focus on the psychological transition of Paul from "Persecutor" to "Apostle" to see if the selfhood-claiming is indeed a trauma response—a "manic defense" against the unbearable guilt of his past, constructing a theology of "Grace" to survive the weight of his own conscience.
 
 ## **10\. Summary Table: Interpretive Models of Pauline Humility**
 
-| Passage | Traditional/Mainstream View | Rhetorical/Political View | "Proprium/Gnostic" Framework View |
+| Passage | Traditional/Mainstream View | Rhetorical/Political View | "Selfhood/Gnostic" Framework View |
 | :---- | :---- | :---- | :---- |
 | **"Slave of Christ"** | Total devotion; piety; humility before God. | **Derivative Authority**; claim to be the Emperor's Viceroy; diplomatic immunity from Peter. | **Rejection of Mediation**; bypassing the Church/Law to claim direct, self-derived authority. |
 | **"Least of Apostles"** | Genuine remorse for persecution; deep self-abasement. | **Prokatalepsis**; inoculating against attacks on his legitimacy; defining himself as the "Exception." | **Theology of Immunity**; destroying the "Old Image" to establish the "Sole Revelator" who is answerable only to God; the "In God We Trust" mechanism. |
@@ -247,7 +247,7 @@ Future research should focus on the psychological transition of Paul from "Perse
 
 ### **Final Insight**
 
-The study reveals that the "Proprium" diagnosis is a potent heuristic for deconstructing the "Pauline Paradox." It exposes the uncomfortable truth that **humility can be the ultimate assertion of the self.** By stripping himself of all *human* attributes (rank, merit, law), Paul leaves only the *divine* attribute (Spirit/Revelation). Since this Spirit operates *within* him, his "self-emptying" results in his "self-deification" as the exclusive mouthpiece of the Risen Lord. He becomes a "vessel of clay" that demands to be treated as the very Power of God.
+The study reveals that the "Selfhood" diagnosis is a potent heuristic for deconstructing the "Pauline Paradox." It exposes the uncomfortable truth that **humility can be the ultimate assertion of the self.** By stripping himself of all *human* attributes (rank, merit, law), Paul leaves only the *divine* attribute (Spirit/Revelation). Since this Spirit operates *within* him, his "self-emptying" results in his "self-deification" as the exclusive mouthpiece of the Risen Lord. He becomes a "vessel of clay" that demands to be treated as the very Power of God.
 
 #### **Works cited**
 

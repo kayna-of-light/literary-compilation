@@ -85,7 +85,7 @@ The investigation now turns to the specific individuals in the Story Department 
 **Ted Sears** (1900–1958), the Head of Story, served as the gatekeeper and refiner. Born in Massachusetts, Sears came from a New England background where Swedenborgianism was historically rooted.18
 
 * **The "Prince’s Kiss":** While the idea of the kiss is often attributed to a general borrowing from *Perrault's Sleeping Beauty* 3, Sears appears to have been a key internal advocate for this solution. In story meetings, Sears argued against "strident" or "slapstick" resolutions. The shift from the "dislodged apple" (mechanical/accidental) to the "Kiss" (spiritual/intentional) required a decision-maker to prioritize emotional/spiritual resonance over folklore fidelity. Sears was that authority.  
-* **Rejection of the "Proprium":** Sears and Al Perkins notably rejected the *Chanticleer* project because the protagonist (a rooster who believes he causes the sun to rise) was "unsympathetic".13 Within this project’s interpretive lens, that rejection is compatible with an anti-proprium ethic (anti self-deification). However, this should be treated as framework-consistent interpretation rather than direct evidence of Swedenborgian intent.
+* **Rejection of the "Selfhood":** Sears and Al Perkins notably rejected the *Chanticleer* project because the protagonist (a rooster who believes he causes the sun to rise) was "unsympathetic".13 Within this project's interpretive lens, that rejection is compatible with an anti-selfhood ethic (anti self-deification). However, this should be treated as framework-consistent interpretation rather than direct evidence of Swedenborgian intent.
 
 ### **4.3 Webb Smith: The Visualizer of Correspondence**
 
@@ -135,9 +135,9 @@ The evidence of transmission is ultimately sought in the text of the film itself
 
 **The Change:** In Grimm, the awakening is mechanical (the coffin is jolted, dislodging the apple). In Disney, it is "Love’s First Kiss".3 **The Swedenborgian Encoding:** The "Sleep of Death" corresponds to the state of the church (or the soul) when it is consumed by falsity (the poison apple/faith alone). It cannot wake itself. It requires an influx from without. The Prince corresponds to **Divine Truth** (Intellect). The Kiss corresponds to **Conjunction** (Love/Will). Truth alone cannot save; it must be united with Love. When the Prince (Truth) kisses Snow White (Good/Affection), the "Heavenly Marriage" occurs, and the soul awakens. This is a theological correction of the Grimm "accident." Salvation is not an accident; it is an act of Divine Love.
 
-### **6.3 The Queen’s Death: The Vastation of the Proprium**
+### **6.3 The Queen's Death: The Vastation of the Self**
 
-**The Change:** In Grimm, she is tortured (red-hot iron shoes). In Disney, she destroys herself (a boulder she attempts to crush the dwarfs with causes the cliff to collapse).17 **The Swedenborgian Encoding:** The Evil Queen corresponds to the **Proprium**—the love of self. She creates the poison (falsity) from her own substance. Her death is the result of her own attempt to destroy the innocent. She creates the lever (the boulder) that becomes her tomb. Swedenborg teaches that the Lord casts no one into Hell; evil spirits cast themselves in by gravitating toward their own nature. The Queen is not executed by a judge; she is consumed by the gravity of her own hatred.
+**The Change:** In Grimm, she is tortured (red-hot iron shoes). In Disney, she destroys herself (a boulder she attempts to crush the dwarfs with causes the cliff to collapse).17 **The Swedenborgian Encoding:** The Evil Queen corresponds to the **Self**—the love of self. She creates the poison (falsity) from her own substance. Her death is the result of her own attempt to destroy the innocent. She creates the lever (the boulder) that becomes her tomb. Swedenborg teaches that the Lord casts no one into Hell; evil spirits cast themselves in by gravitating toward their own nature. The Queen is not executed by a judge; she is consumed by the gravity of her own hatred.
 
 ## **VII. Conclusion: Leading Candidates and an Open Problem**
 

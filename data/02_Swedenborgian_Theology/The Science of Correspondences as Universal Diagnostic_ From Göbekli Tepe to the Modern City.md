@@ -16,7 +16,7 @@
 
 **Conclusions**: The trajectory from Golden Age to modernity represents not intellectual advancement but directional change in ruling love, with the outer environment at each period expressing the inner state of its builders with perfect fidelity. The science of correspondences functions as a universal diagnostic without exception.
 
-**Keywords**: correspondences, ruling love, Ancient Word, Göbekli Tepe, Uruk, Ebla, material culture, externalization, proprium
+**Keywords**: correspondences, ruling love, Ancient Word, Göbekli Tepe, Uruk, Ebla, material culture, externalization, selfhood
 
 ---
 
@@ -324,7 +324,7 @@ The materials of Uruk/Ebla can be read correspondentially and compared to modern
 
 - **Glass**: Transparent but cold and brittle. Allows seeing without touching. Corresponds to intellect divorced from affection—perfect clarity, perfect separation.
 
-- **Plastic**: Derived from petroleum (see below). Does not decompose, refuses to return to cycle. Corresponds to the proprium—self that insists on permanence, will not yield to influx.
+- **Plastic**: Derived from petroleum (see below). Does not decompose, refuses to return to cycle. Corresponds to the self—selfhood that insists on permanence, will not yield to influx.
 
 - **Energy source**: Petroleum—ancient marine organisms that sank to ocean floors, compressed under sediment for millions of years. Life that descended and was trapped below. Corresponds to power drawn from descent rather than received from above.
 
@@ -457,7 +457,7 @@ Plastic did not exist in Swedenborg's time, but the principles apply:
 - Does not return to nature; does not decompose
 - Immune to natural processes; persists for centuries
 
-Correspondence: dead form that refuses to die. Life extracted from ancient organisms, transformed into permanent artificiality that resists all natural cycles. Plastic is the proprium made material—the self that insists on permanence, that will not yield to influx, that refuses transformation.
+Correspondence: dead form that refuses to die. Life extracted from ancient organisms, transformed into permanent artificiality that resists all natural cycles. Plastic is the self made material—the selfhood that insists on permanence, that will not yield to influx, that refuses transformation.
 
 Plastic fragments but does not decompose. It breaks into smaller and smaller pieces, entering soil, water, organisms—but never rejoining the cycle of life. It is permanence without participation, endurance without life.
 

@@ -221,7 +221,7 @@ The "Magian" element requires careful interpretation. The superficial reading se
 
 In Zoroastrian cosmology, the material world (*gētīg*) is described as a **cup** whose function is to guide evil back into containment. This is not ontological dualism—evil is not a co-eternal principle but a **contingent rupture** in a perfect structure. The cup breaking was not necessary; but now that it has broken, gathering the water back is essential or it will not be received by the one who drinks it.
 
-* Swedenborg's hells are not evidence of ontological dualism but of **permission within equilibrium**—the proprium (self-love) is allowed to persist so that free choice remains possible, but this permission serves restoration, not eternal opposition.
+* Swedenborg's hells are not evidence of ontological dualism but of **permission within equilibrium**—the self (self-love) is allowed to persist so that free choice remains possible, but this permission serves restoration, not eternal opposition.
 * The Hermetic "ascent" requires stripping off the vices acquired during descent—not because the cosmic structure is inherently tyrannical, but because the soul accumulated distortions that must be shed.
 * The tension between Good Creation (Plato) and experienced evil is resolved not by positing two eternal principles, but by recognizing evil as **distortion requiring remediation**.
 

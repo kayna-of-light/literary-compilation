@@ -69,7 +69,7 @@ The number **42** is not accidental. It appears in Revelation 11:2 and 13:5 as t
 
 In **2 Samuel 24**, God moves David to number the people, an act that results in a plague destroying 70,000 men.
 
-* **The Sin:** To "number" corresponds to **ordination** and **arrangement** from the self-hood (proprium). It signifies the attempt to quantify one's spiritual assets (truths and goods) as one's own possession, rather than acknowledging them as the Lord's.  
+* **The Sin:** To "number" corresponds to **ordination** and **arrangement** from the selfhood (the self). It signifies the attempt to quantify one's spiritual assets (truths and goods) as one's own possession, rather than acknowledging them as the Lord's.  
 * **The Numbers:** The census yields **800,000** men of Israel and **500,000** men of Judah.  
   * **500:** Corresponds to "fullness" or "much" (5 x 100). Judah corresponds to **Celestial Love** (Will). The number signifies that the Will is in a state of potential fullness.  
   * **800:** Corresponds to **Spiritual Truth** (Intellect). The number 8 signifies a new beginning or the intensity of temptation (the 8th day/circumcision). It indicates the Intellect is prepared for spiritual combat.

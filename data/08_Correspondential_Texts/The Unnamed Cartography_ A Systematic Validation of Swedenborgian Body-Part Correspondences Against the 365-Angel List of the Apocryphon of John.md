@@ -184,10 +184,10 @@ The seven primary body-creation principles — the "substance-souls" that preced
 | 3 | Divinity | Flesh | Substance; the divine gift made tangible | AC §§5560–5564 |
 | 4 | Lordship | Marrow | Interior generative life within structure | AC §§5560–5564 |
 | 5 | Kingdom | Blood | Life-current; circulation; distribution | AC §4227; DLW §§379–380 |
-| 6 | Envy | Skin | External boundary; the proprium | AC §§5552–5559 |
+| 6 | Envy | Skin | External boundary; the self | AC §§5552–5559 |
 | 7 | Understanding | Hair | Ultimate of ultimates; outermost emanation | AC §3301 |
 
-**Critical Finding**: The derivation order encodes Swedenborg's foundational ontological principle — the priority of will/love over understanding/truth (DLW §§371–393). The first five substance-souls are qualities of love and will (goodness, foreknowledge, divinity, lordship, kingdom). The sixth is the proprium (envy/skin — the self-boundary). The seventh and last is understanding (hair — the outermost emanation). Will is foundational; understanding is derivative. This is not a single correspondence but a **structural principle** encoded in the sequence itself.
+**Critical Finding**: The derivation order encodes Swedenborg's foundational ontological principle — the priority of will/love over understanding/truth (DLW §§371–393). The first five substance-souls are qualities of love and will (goodness, foreknowledge, divinity, lordship, kingdom). The sixth is the self (envy/skin — the self-boundary). The seventh and last is understanding (hair — the outermost emanation). Will is foundational; understanding is derivative. This is not a single correspondence but a **structural principle** encoded in the sequence itself.
 
 The nesting of lordship (marrow) within goodness (bone) is anatomically precise: marrow lives inside bone. The lord dwells within the structural foundation. What lordship generates (blood cells from marrow), kingdom distributes to the whole body. The correspondence is not metaphorical — it is ontological: the physical relationship between marrow and bone IS the spiritual relationship between lordship and goodness, expressed in ultimates.
 

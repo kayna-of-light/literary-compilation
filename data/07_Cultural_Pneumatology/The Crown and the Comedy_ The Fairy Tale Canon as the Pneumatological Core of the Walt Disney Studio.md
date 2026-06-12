@@ -75,7 +75,7 @@ The architect of this return was Howard Ashman. Ashman, a playwright and lyricis
 
 ### **4.2 Beauty and the Beast as High Mass**
 
-*Beauty and the Beast* (1991) solidified the Renaissance by doubling down on the "Sacred." It is a story of *Regeneration*—the transformation of a Beast (Natural Man/Proprium) into a Prince (Spiritual Man) through Love (Charity).
+*Beauty and the Beast* (1991) solidified the Renaissance by doubling down on the "Sacred." It is a story of *Regeneration*—the transformation of a Beast (Natural Man/Selfhood) into a Prince (Spiritual Man) through Love (Charity).
 
 * **The Environment**: The castle serves as the externalized soul of the Beast. As he falls in love, the castle becomes lighter, warmer, and more "human." This is pure Swedenborgian correspondence.14  
 * **The Recognition**: This film became the first animated feature nominated for Best Picture, validating the "High Church" strategy. It proved that when Disney commits to the metaphysical weight of the fairy tale, it achieves cultural dominance that its comedies (*Oliver & Company*) can never reach.

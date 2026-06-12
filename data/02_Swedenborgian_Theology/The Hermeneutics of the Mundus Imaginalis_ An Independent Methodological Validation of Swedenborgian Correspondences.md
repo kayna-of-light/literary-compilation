@@ -110,7 +110,7 @@ Though Swedenborg never cites the Zohar, the structural parallels suggest access
 | Symbol | Kabbalah (Zohar) | Swedenborg (Arcana Coelestia) |
 | :---- | :---- | :---- |
 | **Cosmic Form** | *Adam Kadmon*: The universe is structured as a primordial man. | *Maximus Homo* (Grand Man): Heaven is structured as a giant human form. |
-| **Shells/Husks** | *Klippot*: Impure shells that conceal the divine spark. | *Scientifics/Proprium*: External knowledges that contain (or choke) spiritual truth. |
+| **Shells/Husks** | *Klippot*: Impure shells that conceal the divine spark. | *Scientifics/Selfhood*: External knowledges that contain (or choke) spiritual truth. |
 | **Divine Union** | *Tiferet* (Male) & *Shekhinah* (Female) union. | Marriage of *Love* (Will) & *Wisdom* (Understanding) in the Divine. |
 
 **Conclusion:** The convergence of Philo, the Zohar, and Swedenborg on specific symbols (Egypt=Senses; Cosmic Man; Sexual duality of God) validates that these correspondences are not idiosyncratic inventions but part of a **perennial hermeneutic tradition**.
@@ -130,7 +130,7 @@ Scholar Henry Corbin coined the term *Mundus Imaginalis* (Imaginal World) to des
 
 Carl Jung read Swedenborg and noted the similarity between Swedenborg’s "spirits" and his own "autonomous complexes".
 
-* **Regeneration as Individuation:** Swedenborg’s "Regeneration" (the subduing of the *Proprium* or ego-self by the Lord/Self) maps precisely onto Jung’s "Individuation" (the integration of the Ego into the greater Self).  
+* **Regeneration as Individuation:** Swedenborg’s "Regeneration" (the subduing of the *Self* or ego-self by the Lord/Self) maps precisely onto Jung’s "Individuation" (the integration of the Ego into the greater Self).  
 * **Dream Symbols:** Jung’s empirical analysis of patient dreams validated key Swedenborgian symbols: **Water** as the Unconscious/Truth; the **House** as the structure of the Psyche; the **Marriage** (*Coniunctio*) as the unification of opposites.  
 * **Northrop Frye:** The literary critic Northrop Frye, influenced by Blake (a Swedenborgian), identified the "Great Code" of the Bible as a self-contained system of archetypes (City, Garden, Mountain) that mirrors Swedenborg’s system of "representatives".
 

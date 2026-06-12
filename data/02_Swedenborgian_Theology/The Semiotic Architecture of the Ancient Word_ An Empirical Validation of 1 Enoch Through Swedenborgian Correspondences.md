@@ -111,7 +111,7 @@ The year is perfectly divisible by 7\. This means that every year begins on the 
 
 A calendar that drifts from the physical sun (by 1.25 days a year) but remains locked to the *Sabbath* (7) signifies a church that prioritizes **State** (Quality/Holiness) over **Time** (Quantity/Motion). Swedenborg explicitly states that "angels have no notion of time" but only of "state".30 The 364-day year ensures that the "holiness" of the number 7 touches every aspect of the cycle without remainder.
 
-* **The Remainder Problem:** A 365-day year introduces a remainder ($365 / 7 \= 52$ weeks \+ 1 day). In correspondence, a "remainder" or "residue" signifies something not included in the holy state—a profanation, or the presence of the human proprium (self-hood) interfering with the Divine Order.  
+* **The Remainder Problem:** A 365-day year introduces a remainder ($365 / 7 \= 52$ weeks \+ 1 day). In correspondence, a "remainder" or "residue" signifies something not included in the holy state—a profanation, or the presence of the human selfhood (self-hood) interfering with the Divine Order.  
 * **The Enochian Solution:** The refusal to acknowledge the 365th day is a semiotic refusal to acknowledge a state outside the Sabbath. It describes a "Celestial" perception where the entire cycle of life is perfectly ordered by the Holy (7) and Love (Sun).
 
 ### **3.2 The Four Intercalary Days (The Leaders)**

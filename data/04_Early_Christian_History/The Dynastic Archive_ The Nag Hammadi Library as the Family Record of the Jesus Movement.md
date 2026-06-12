@@ -169,7 +169,7 @@ This is not a teaching that the world is evil. It is a **fall narrative**. And i
 | Sethian Element | Genesis Parallel | Correspondential Content |
 |:---|:---|:---|
 | Sophia acts without her consort | The humans eat from the Tree of Knowledge without the Tree of Life | Wisdom moves independently of love — the mechanism of the fall |
-| Yaldabaoth forms, declares "I am God" | Self-consciousness forms; "I knew I was naked" | The proprium constitutes itself as self-derived |
+| Yaldabaoth forms, declares "I am God" | Self-consciousness forms; "I knew I was naked" | The self constitutes itself as self-derived |
 | Divine life embedded in matter | "God made garments of skin and clothed them" | Spiritual life flows into natural forms |
 | The "seed of Seth" — preserved remnant | The promise of Gen 3:15 | Remains (*reliquiae*) persist within the fallen natural human |
 | Ascent through degrees toward the Monad | Return from exile; restoration | Regeneration through discrete degrees |
@@ -191,9 +191,9 @@ The deepest layer — the non-Christian core — is the fall narrative in its **
 
 #### What Has Happened to This Narrative?
 
-The same thing that has happened to every correspondential narrative without exception: **it was literalized.** The proprium — a *state of consciousness* in which the self claims to be its own source — became Yaldabaoth, a literal deity with a lion face. Sophia's movement without her consort — the *process* by which wisdom separates from love — became a literal cosmic event in which a goddess makes a mistake. The divine life flowing through natural forms — *influx* — became a literal spark *trapped* in literal matter. The discrete degrees of reception became literal heavens requiring literal passwords.
+The same thing that has happened to every correspondential narrative without exception: **it was literalized.** The self — a *state of consciousness* in which the self claims to be its own source — became Yaldabaoth, a literal deity with a lion face. Sophia's movement without her consort — the *process* by which wisdom separates from love — became a literal cosmic event in which a goddess makes a mistake. The divine life flowing through natural forms — *influx* — became a literal spark *trapped* in literal matter. The discrete degrees of reception became literal heavens requiring literal passwords.
 
-The "Gnostic" element — the anti-cosmic dualism, the teaching that matter is a prison and escape is the goal — is not the original content of the narrative. It is the **interpretive overlay** that formed when the correspondential key was lost. The original narrative does not say "matter is a prison." It says: the proprium formed, consciousness now experiences itself as self-derived, and restoration through reception of influx is needed. That is not anti-material. It is a diagnosis of the human condition — the same diagnosis that Genesis provides at the anthropological scale.
+The "Gnostic" element — the anti-cosmic dualism, the teaching that matter is a prison and escape is the goal — is not the original content of the narrative. It is the **interpretive overlay** that formed when the correspondential key was lost. The original narrative does not say "matter is a prison." It says: the self formed, consciousness now experiences itself as self-derived, and restoration through reception of influx is needed. That is not anti-material. It is a diagnosis of the human condition — the same diagnosis that Genesis provides at the anthropological scale.
 
 #### Why the Family Kept These Texts
 

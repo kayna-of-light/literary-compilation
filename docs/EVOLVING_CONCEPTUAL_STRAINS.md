@@ -146,9 +146,8 @@ Jesus had a "soul from the Father" (Divine) and a "body from the mother" (Human)
 **Documents reflecting earlier position** (ANNOTATED 2026-01-27):
 - [x] `data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md` (§1.4)
 - [x] `data/00_Framework/The Divine Bricolage_ A Spiritual History of the Word from Influx to Incarnation.md` (§6.1)
-- [x] `data/01_Consciousness_Studies/Evolution of God Concepts and Consciousness.md` (§4.1)
+- [x] `data/01_Consciousness_Studies/The Resurrection of True Life_ A Phenomenological Analysis of the Evolution of Divine Images, the Fall into Language, and the Incarnation of Love.md` (§4.1)
 - [x] `data/02_Swedenborgian_Theology/Swedenborgian Research Plan_ Spiritual Depth.md` (§3.1)
-- [x] `data/02_Swedenborgian_Theology/The Resurrection of True Life_ A Phenomenological Analysis...md` (§4.1)
 
 #### Refined Position
 This framing reflects **outdated 18th-century embryology**, not spiritual truth. It dehumanizes Jesus into a "God-Man hybrid" and implies his struggles were divine pantomime.
@@ -701,8 +700,7 @@ Pillar 43 (Vulture Stone) read as **theological schematic of the Fall**:
 **Implication**: Göbekli Tepe is not "mindless worship" but **salvific technology**—a lithic encyclopedia created as internal perception collapsed.
 
 **Documents annotated for earlier position (2026-01-26)**:
-- [x] `data/02_Swedenborgian_Theology/Swedenborg's Ancient Word and Science.md`
-- [x] `data/06_Mythological_Studies/Echoes of an Ancient Word_ A Scientific and Mythological Inquiry into the Caliber of a Lost Universal Knowledge.md`
+- [x] `data/02_Swedenborgian_Theology/Echoes of an Ancient Word_ A Scientific and Mythological Inquiry into the Caliber of a Lost Universal Knowledge.md`
 
 **Documents with interpretation**:
 - [x] `data/06_Mythological_Studies/The Architecture of Influx...md` (Section I)

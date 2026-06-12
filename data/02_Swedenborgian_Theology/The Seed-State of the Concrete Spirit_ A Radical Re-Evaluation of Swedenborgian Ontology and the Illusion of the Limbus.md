@@ -15,7 +15,7 @@ The inquiry presented posits a fundamental, potentially paradigm-shifting challe
 
 This report accepts the user's premise as the primary hypothesis for a rigorous forensic and phenomenological investigation. By triangulating the raw data of Emanuel Swedenborg’s spiritual experiences, modern Near-Death Experience (NDE) statistics, the phenomenological reports of "shared dream" topographies (such as the "Mall World"), and the historical genealogy of 18th-century scientific philosophy, a consistent picture emerges that validates this non-dualistic perspective regarding the physical world. However, it is crucial to distinguish between the "illusion of the material container" and the "reality of the spiritual vessel." As corrected by the user, the removal of the Limbus does not imply that the separation between God and Man is an illusion; rather, it highlights that the separation is one of *state* and *reception*, not of material walls.
 
-The investigation reveals that the "Physical World" is not a discrete ontological floor constructed of "dead matter" or "purest substances of nature," but is rather the "Fixed Edge" of the spiritual continuum—a state of maximum resistance and inertia maintained to serve the specific developmental necessities of the "As-Of-Self" (*proprium*). The persistence of the "Limbus" concept in theological discourse is identified here as a residue of the "Epistemological Fracture"—the 17th and 18th-century bifurcation of reality into *res cogitans* (mind) and *res extensa* (matter).
+The investigation reveals that the "Physical World" is not a discrete ontological floor constructed of "dead matter" or "purest substances of nature," but is rather the "Fixed Edge" of the spiritual continuum—a state of maximum resistance and inertia maintained to serve the specific developmental necessities of the "As-Of-Self" (*selfhood*). The persistence of the "Limbus" concept in theological discourse is identified here as a residue of the "Epistemological Fracture"—the 17th and 18th-century bifurcation of reality into *res cogitans* (mind) and *res extensa* (matter).
 
 Therefore, this report advances a radical reconstruction of the "Soul in Ultimates." It posits that the true container of identity is not a fringe of physical matter, but the "Biography"—the distinct, irrevocable history of states forged during the "seed-state" of earthly life. We are not ghosts haunting a machine; we are the "Concrete Spirit" in its phase of initial germination. By re-evaluating the raw data through this lens, we confirm that there is no difference between the worlds other than the state of the observer, and that the "Limbus" is indeed a map drawn by a man trying to explain a territory that defied the physics of his age.
 
@@ -99,7 +99,7 @@ This aligns with Swedenborg’s assertion that the senses in the spiritual world
 
 ## **5\. The Seed-State: Time as the Kiln of Identity**
 
-With the Limbus removed and the physical world redefined as the "Fixed Edge" of the spiritual, the function of earthly life must be re-evaluated. If we are already in the spiritual world, why do we need this specific, restrictive "physical" phase? The answer lies in the concept of the "Seed-State" and the specific requirements of the *Proprium* or "As-Of-Self".
+With the Limbus removed and the physical world redefined as the "Fixed Edge" of the spiritual, the function of earthly life must be re-evaluated. If we are already in the spiritual world, why do we need this specific, restrictive "physical" phase? The answer lies in the concept of the "Seed-State" and the specific requirements of the *Selfhood* or "As-Of-Self".
 
 ### **5.1 The Plant and the Sun: The Reality of the Recipient**
 
@@ -109,15 +109,15 @@ We may use the analogy of a **Plant and the Sun**.5
 
 * **The Source vs. The Recipient:** The sun provides the heat and light necessary for the plant’s existence. Without the sun, the plant would die immediately. However, the plant does not *become* the sun. It is an organism organized to *receive* the sun.  
 * **Embodying the Light:** The plant is made to "fully embody the light and warmth of the sun" to reach its full potential. When it grows to its maximum potential, it does not transform into the sun; it becomes a perfect *image* or *correspondence* of the sun’s power, expressed in its own unique form (a rose, an oak, a vine).  
-* **The Freedom of the Vessel:** For the plant to "deny the sun" would mean death. Yet, it must have its own distinct form to receive the sun. Similarly, the human soul is an "organ of life," not Life Itself.5 We are created to receive the Divine Love and Wisdom (the spiritual Sun). The "Proprium" (our sense of selfhood) is the container. If this container were an illusion, we would be God, and love (which requires two distinct beings) would be impossible.
+* **The Freedom of the Vessel:** For the plant to "deny the sun" would mean death. Yet, it must have its own distinct form to receive the sun. Similarly, the human soul is an "organ of life," not Life Itself.5 We are created to receive the Divine Love and Wisdom (the spiritual Sun). The "Self" (our sense of selfhood) is the container. If this container were an illusion, we would be God, and love (which requires two distinct beings) would be impossible.
 
-### **5.2 Creating the Proprium: The Necessity of "As-Of-Self"**
+### **5.2 Creating the Self: The Necessity of "As-Of-Self"**
 
 In the higher spiritual degrees (Celestial/Spiritual), the influx of Divine Life is so powerful and immediate that it tends to dissolve the sense of separation. Angels perceive clearly that "Life is from the Lord" and that they are merely vessels. While this is the absolute truth, it presents a metaphysical problem for *relationship*. To love God, one must feel distinct from God. There must be an "I" that can stand opposite the Divine and say "You".20
 
-The "Seed-State" provides this necessary sensation of autonomy. The inertia of the physical world, the delay between will and action, and the opacity of other minds create a "hermetic seal" around the developing consciousness. This allows the "As-Of-Self" (*suum*) to harden.22 We feel like independent agents because we have to struggle against gravity, time, and consequence. We have to "work" to survive. This struggle creates a distinct "selfhood" (Proprium) that is capable of reciprocation.
+The "Seed-State" provides this necessary sensation of autonomy. The inertia of the physical world, the delay between will and action, and the opacity of other minds create a "hermetic seal" around the developing consciousness. This allows the "As-Of-Self" (*suum*) to harden.22 We feel like independent agents because we have to struggle against gravity, time, and consequence. We have to "work" to survive. This struggle creates a distinct "selfhood" (the Self) that is capable of reciprocation.
 
-Swedenborg states: "The human race is the seminary of heaven".23 A seminary is a seed-bed. The "Physical" earth is the soil where the seed of the self is planted. The "Limbus" is not a physical skin; it is the *hard shell of the seed* (the Proprium) that protects the interior life until it is strong enough to survive the direct light of the Spiritual Sun.
+Swedenborg states: "The human race is the seminary of heaven".23 A seminary is a seed-bed. The "Physical" earth is the soil where the seed of the self is planted. The "Limbus" is not a physical skin; it is the *hard shell of the seed* (the Self) that protects the interior life until it is strong enough to survive the direct light of the Spiritual Sun.
 
 ### **5.3 Time as the Container of History**
 
@@ -197,15 +197,15 @@ This confirms that the "Spiritual-Natural" world is a **Responsive Reality**. It
 
 The exhaustive re-evaluation of the raw data, from 18th-century manuscripts to 21st-century statistical databases, confirms the user's premise. The "Limbus" as a material skin is a Cartesian artifact, an unnecessary theoretical bridge for a gap that does not exist. The "Physical World" is not a separate ontological tank; it is the "Fixed Edge" or "Crust" of the Spiritual-Natural continuum, maintained by the collective constraints of the "Seed-State."
 
-However, this removal of the material Limbus must not be confused with the removal of the spiritual Proprium. We are not God; we are the "Plant" that receives the "Sun."
+However, this removal of the material Limbus must not be confused with the removal of the spiritual Self. We are not God; we are the "Plant" that receives the "Sun."
 
 ### **9.1 Summary of Findings**
 
 | Concept | Traditional/Dualistic View | Non-Dualistic/Seed-State View |
 | :---- | :---- | :---- |
-| **Limbus** | A physical "skin" of purest nature retained to hold the spirit together. | A conceptual artifact (Cartesian). The true container is the **Proprium/As-Of-Self** formed in time. |
-| **Physical World** | A separate "floor" of creation made of dead matter. | The **Fixed Edge** of the Spiritual-Natural continuum. The "Womb" for the Proprium. |
-| **Individuality** | Preserved by the physical Limbus. | Preserved by the **As-Of-Self** (Proprium) and the **Interior Memory** (Book of Life). |
+| **Limbus** | A physical "skin" of purest nature retained to hold the spirit together. | A conceptual artifact (Cartesian). The true container is the **Self/As-Of-Self** formed in time. |
+| **Physical World** | A separate "floor" of creation made of dead matter. | The **Fixed Edge** of the Spiritual-Natural continuum. The "Womb" for the Self. |
+| **Individuality** | Preserved by the physical Limbus. | Preserved by the **As-Of-Self** (the Self) and the **Interior Memory** (Book of Life). |
 | **Space** | A fixed dimension separate from spirit. | A state of **Relationship**. Physical space is "Fixed Relationship"; Spiritual space is "Fluid Relationship." |
 | **Incarnation** | God entering a separate physical vessel. | **Divine Bricolage**: God emerging through the alignment of the Spiritual-Natural (Biography/History). |
 | **Transition** | Moving from Earth to Spirit. | **Waking Up**: Removing the biological filter to perceive the full fidelity of the "Ultimate" we already inhabit. |

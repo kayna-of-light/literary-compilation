@@ -44,7 +44,7 @@
     - [6.3 The Garments of Skin: Chapter 30](#63-the-garments-of-skin-chapter-30)
     - [6.4 The Purification of the Four Faculties: Chapter 94](#64-the-purification-of-the-four-faculties-chapter-94)
   - [7. Division and Decline: Genesis 4–5 and the Fragmentation of the Will](#7-division-and-decline-genesis-45-and-the-fragmentation-of-the-will)
-    - [7.1 The Dragon of the Proprium: Chapter 100](#71-the-dragon-of-the-proprium-chapter-100)
+    - [7.1 The Dragon of the Self: Chapter 100](#71-the-dragon-of-the-self-chapter-100)
     - [7.2 The Diminishment of the Generations: Chapter 57](#72-the-diminishment-of-the-generations-chapter-57)
   - [8. The Flood: Genesis 6–9 and the Inundation of Falsity](#8-the-flood-genesis-69-and-the-inundation-of-falsity)
     - [8.1 The Three Great States and Two Spiritual Deaths: Chapter 39](#81-the-three-great-states-and-two-spiritual-deaths-chapter-39)
@@ -79,7 +79,7 @@ That is precisely what we find. And the convergence is not approximate. It is ex
 
 Chapter 32 of the Kephalaia presents "The Seven Works of the Living Spirit" — seven sequential operations by which the Divine Power accomplishes regeneration in the human mind. Chapter 65 presents "The Seven Works of Divine Wisdom and the Seven Evils of Falsity" — seven goods that Divine Truth accomplishes when it enters the mind and seven evils that the state of spiritual darkness accomplishes when truth withdraws. Genesis 1 narrates the same seven-stage sequence, compressing the operative dimension of Chapter 32 and the experiential dimension of Chapter 65 into a single trajectory of seven days, each marked by evening (the dark that Chapter 65 unfolds) and morning (the light that both chapters describe).
 
-The parallel extends through the entire primeval history. Genesis 2's garden — its two trees, four rivers, five named elements, the formation of the human faculties, the celestial marriage of understanding and will — unfolds across approximately six Kephalaia chapters (2, 4, 56, 57, 64, 98), each treating one structural element that Genesis compresses into a few verses. Genesis 3's fall — the serpent's reasoning, the appropriation of the divine image, the garments of skin, the expulsion — maps onto Chapters 55 (the proprium copying the divine form), 23 (the intermingling of wisdom with falsity), 30 (the three coverings of external truth), and 94 (the corruption of the four faculties). Genesis 4–11's arc of decline — fratricide, genealogical diminishment, flood, and Babel — finds its Kephalaia counterpart in Chapters 100 (the anatomy of the proprium), 57 (the progressive contraction of spiritual generations), 39 and 42–43 (destruction and purification), and 61 and 86 (the towering falsities and interior confusion).
+The parallel extends through the entire primeval history. Genesis 2's garden — its two trees, four rivers, five named elements, the formation of the human faculties, the celestial marriage of understanding and will — unfolds across approximately six Kephalaia chapters (2, 4, 56, 57, 64, 98), each treating one structural element that Genesis compresses into a few verses. Genesis 3's fall — the serpent's reasoning, the appropriation of the divine image, the garments of skin, the expulsion — maps onto Chapters 55 (the self copying the divine form), 23 (the intermingling of wisdom with falsity), 30 (the three coverings of external truth), and 94 (the corruption of the four faculties). Genesis 4–11's arc of decline — fratricide, genealogical diminishment, flood, and Babel — finds its Kephalaia counterpart in Chapters 100 (the anatomy of the self), 57 (the progressive contraction of spiritual generations), 39 and 42–43 (destruction and purification), and 61 and 86 (the towering falsities and interior confusion).
 
 What Genesis narrates in approximately 400 verses, the extracted substrate unfolds across thousands of paragraphs. The relationship between them is not that of two independent traditions that happen to converge on similar themes. It is the relationship between a complete teaching and its national condensation. The substrate — stripped of its later Manichaean and hagiographic overlays — presents the full correspondential architecture: every spiritual process named, every faculty enumerated, every bilateral dimension (light and dark, operative and experiential) explicitly taught. Genesis compresses this entire architecture into the dense, imagistic language characteristic of the Hebrew scriptures: mythopoeic, moving by image rather than exposition, embedding in single verses what the substrate unfolds across entire chapters. Genesis is not a separate witness to a lost original. Genesis is the Hebrew mode of the same teaching that the substrate preserves in its full, uncompressed form.
 
@@ -311,7 +311,7 @@ The progression is identical to the four rivers: one source, four states proceed
 
 But the Kephalaia goes further — it presents the bilateral counterpart that Genesis does not elaborate. Where Genesis simply names four rivers, Chapter 4 also presents the four states of obscurity:
 
-> "The first state of obscurity is the realm of falsity from evil... The second state of obscurity is the proprium, the fashioner of dead forms... The third state of obscurity is the five corporeal realms dominated by natural evil... The fourth state of obscurity is the ruling principle of evil in the natural mind." (¶8–14)
+> "The first state of obscurity is the realm of falsity from evil... The second state of obscurity is the self, the fashioner of dead forms... The third state of obscurity is the five corporeal realms dominated by natural evil... The fourth state of obscurity is the ruling principle of evil in the natural mind." (¶8–14)
 
 The four rivers have their dark counterpart — four degrees of spiritual obscurity proceeding from one another just as the four illuminations do. Genesis does not narrate this dark side in the garden account; it reserves it for the serpent's speech in Chapter 3. But the Kephalaia presents both dimensions simultaneously as part of the same teaching structure.
 
@@ -331,7 +331,7 @@ Chapter 64, "The Three Distinctions of the Earliest Humanity," names the three q
 
 Three distinctions: (1) the divine likeness received into the will, (2) organization through five faculties, and (3) the inscription of all correspondences upon the human form. Genesis compresses all three into a single verse: formed from dust (the material substrate), breathed into with the breath of life (the divine likeness), and becoming a living being (the complete organized form). The Kephalaia does not elaborate this as a narrative but as a structural inventory.
 
-Chapter 56 adds the mechanism: how the faculties were formed, how the proprium attempted to copy the divine pattern, and how concupiscence descended and generated a system of perception in the natural mind. This corresponds to the narrative tension in Genesis 2–3 between the divinely formed human and the self-derived reasoning that will emerge in the serpent's speech.
+Chapter 56 adds the mechanism: how the faculties were formed, how the self attempted to copy the divine pattern, and how concupiscence descended and generated a system of perception in the natural mind. This corresponds to the narrative tension in Genesis 2–3 between the divinely formed human and the self-derived reasoning that will emerge in the serpent's speech.
 
 ### 5.4 The Most Ancient Church: Chapter 57
 
@@ -451,7 +451,7 @@ The chapter then traces the specific corruption that each faculty generates when
 
 > "The corruption that love turned to self-love disgorges and deposits in the natural mind is the profaned life-force of perverted vitality. The emanation of that perverted vitality is the burning of wrath. The emanation of wrath is the disordered flowing states of the unregenerate mind." (¶3)
 
-> "The corruption that wisdom in its fallen state disgorges is the selfhood — the proprium. The emanation of the proprium is spiritual obscurity and darkness of understanding. The emanation of that spiritual obscurity is hardened resistance against all divine influx — obstinacy of will." (¶5)
+> "The corruption that wisdom in its fallen state disgorges is the selfhood. The emanation of the self is spiritual obscurity and darkness of understanding. The emanation of that spiritual obscurity is hardened resistance against all divine influx — obstinacy of will." (¶5)
 
 Four faculties, each generating three emanations of corruption — twelve corruptions in total. The Genesis curses compress this twelve-fold system into four narrative images: the serpent (corrupted perception), the pain of women (corrupted love), the toil of men (corrupted wisdom/truth), and death (corrupted will). The Kephalaia unfolds the mechanics; Genesis narrates the images. The content is the same.
 
@@ -463,25 +463,25 @@ Genesis 4–5 narrates the aftermath of the fall in two parallel registers. Gene
 
 The Kephalaia substrate provides the mechanism for both movements.
 
-### 7.1 The Dragon of the Proprium: Chapter 100
+### 7.1 The Dragon of the Self: Chapter 100
 
 > "And Cain rose up against his brother Abel, and killed him." — Genesis 4:8
 
 Swedenborg reads Cain as faith separated from love, and Abel as love itself (*AC* §§340–367). The murder is not an event on the natural plane but a spiritual catastrophe: the moment when the post-fall human church decided to make faith (intellectual understanding of truth) the primary principle and subordinated love to it. This separation is the spiritual "mark of Cain" — the condition of a church that possesses truth without the love that gives truth its life.
 
-Chapter 100, "The Dragon of the Proprium," provides the anatomical portrait of how this separation operates within the individual:
+Chapter 100, "The Dragon of the self," provides the anatomical portrait of how this separation operates within the individual:
 
 > "There exists a ruling falsity of the selfhood possessing fourteen powers of dominion, and it is gathered inward and concealed within a hidden interior state furnished with five containing forms in the natural mind where it takes refuge." (¶1)
 
-Fourteen powers of dominion: seven faculties of natural perception in the interior rational mind and seven corresponding faculties in the exterior sensory mind. These are the cognitive apparatus of the proprium — the full set of faculties through which self-derived intelligence exercises its rule over the whole person:
+Fourteen powers of dominion: seven faculties of natural perception in the interior rational mind and seven corresponding faculties in the exterior sensory mind. These are the cognitive apparatus of the self — the full set of faculties through which self-derived intelligence exercises its rule over the whole person:
 
 > "The seven natural faculties of perception belonging to the external mind are: the two of intellectual apprehension, by which one discerns; the two of obedience and reception, by which one perceives what is communicated; the two of interior discernment, by which one detects what is spiritually agreeable or repugnant; also the faculty of discrimination, by which one selects, receiving there the various qualities of delight and aversion that arise in every form of experience." (¶4)
 
-And five concealed recesses from which the proprium operates:
+And five concealed recesses from which the self operates:
 
 > "The first is the faculty of outward expression and communication; the second is the faculty of spiritual thought and interior respiration; the third is the will, the seat of love; the fourth is the faculty that mediates the purification or corruption of affections; the fifth is the living truth — or its profanation — that flows through all of them." (¶6)
 
-This is Cain's anatomy. The divided church does not merely hold wrong doctrine — it possesses a complete faculty system organized around self-derived intelligence. The fourteen powers are the "mark" that protects Cain from destruction (Genesis 4:15): a functioning cognitive apparatus that preserves the church in its exterior form even though its interior love has been murdered. And the five concealed recesses are the "land of Nod, east of Eden" (Genesis 4:16) — the hidden interior states where the proprium dwells after being expelled from the garden state.
+This is Cain's anatomy. The divided church does not merely hold wrong doctrine — it possesses a complete faculty system organized around self-derived intelligence. The fourteen powers are the "mark" that protects Cain from destruction (Genesis 4:15): a functioning cognitive apparatus that preserves the church in its exterior form even though its interior love has been murdered. And the five concealed recesses are the "land of Nod, east of Eden" (Genesis 4:16) — the hidden interior states where the self dwells after being expelled from the garden state.
 
 What Genesis compresses into a genealogy of Cain's descendants — Enoch, Irad, Mehujael, Methushael, Lamech — the Kephalaia unfolds as the systematic anatomy of self-intelligence claiming ever-greater dominion through its fourteen faculties. The "city" Cain builds (Genesis 4:17) is the complete doctrinal system that self-derived intelligence constructs around itself.
 
@@ -671,11 +671,11 @@ This is the subtle content of Babel. The confusion does not come from outside; i
 
 Genesis 11 closes with the genealogy of Shem — the line that descends from the preserved remnant toward Abraham, whose calling (Genesis 12:1) inaugurates the entirely new dispensation that will culminate in the Incarnation. The Babel episode marks the definitive end of any church that depends on interior perception alone. From this point forward, truth will be transmitted through external means: letters, laws, prophets, and ultimately the written Word.
 
-Chapter 100 returns here because the proprium's fourteen powers — mapped in Section 7.1 to the Cain-genealogy of Genesis 4 — achieve their final institutional form at Babel. Where Cain's descendants represent the *individual* anatomy of self-intelligence (the faculties through which one person's proprium operates), Babel represents the *collective* expression of the same anatomy. The fourteen faculties operating in individual minds now coalesce into a unified religious-political system: a church organized entirely around self-intelligence, with its "tower" reaching toward spiritual heights it cannot genuinely inhabit.
+Chapter 100 returns here because the self's fourteen powers — mapped in Section 7.1 to the Cain-genealogy of Genesis 4 — achieve their final institutional form at Babel. Where Cain's descendants represent the *individual* anatomy of self-intelligence (the faculties through which one person's selfhood operates), Babel represents the *collective* expression of the same anatomy. The fourteen faculties operating in individual minds now coalesce into a unified religious-political system: a church organized entirely around self-intelligence, with its "tower" reaching toward spiritual heights it cannot genuinely inhabit.
 
-The five concealed recesses of the proprium (¶6) — expression, thought, will, affective mediation, and the vital medium that connects them — are the hidden institutional structures of Babel: the liturgy (expression), the theology (thought), the governance (will), the emotional apparatus of group identity (affective mediation), and the tradition that holds it all together (the vital medium). The tower is the visible structure; the five recesses are the invisible power centers within.
+The five concealed recesses of the self (¶6) — expression, thought, will, affective mediation, and the vital medium that connects them — are the hidden institutional structures of Babel: the liturgy (expression), the theology (thought), the governance (will), the emotional apparatus of group identity (affective mediation), and the tradition that holds it all together (the vital medium). The tower is the visible structure; the five recesses are the invisible power centers within.
 
-The scattering is therefore not destruction but *mercy*. By fragmenting the collective proprium into distinct linguistic-cultural groups, each carrying fragments of the original correspondential system, the Divine preserves the content of the Ancient Word in a distributed form. What no single post-Babel culture can corrupt entirely, the whole can still contain. The Table of Nations (Genesis 10) is the positive expression of this scattering; the Tower of Babel (Genesis 11) is the negative cause that necessitated it. Together they close the primeval history and set the stage for the particularist dispensation — one chosen people carrying the written Word — that will preserve the correspondential content until the Lord Himself enters the world to embody it.
+The scattering is therefore not destruction but *mercy*. By fragmenting the collective selfhood into distinct linguistic-cultural groups, each carrying fragments of the original correspondential system, the Divine preserves the content of the Ancient Word in a distributed form. What no single post-Babel culture can corrupt entirely, the whole can still contain. The Table of Nations (Genesis 10) is the positive expression of this scattering; the Tower of Babel (Genesis 11) is the negative cause that necessitated it. Together they close the primeval history and set the stage for the particularist dispensation — one chosen people carrying the written Word — that will preserve the correspondential content until the Lord Himself enters the world to embody it.
 
 ---
 
@@ -723,7 +723,7 @@ This is why the text works on multiple levels simultaneously. As natural narrati
 
 Honesty requires acknowledging the limits of the evidence.
 
-**Genesis 10 (Table of Nations):** This is the weakest parallel in the thesis. Swedenborg reads the Table of Nations as a directory of post-diluvian churches, each preserving some fragment of the original correspondential teaching (*AC* §1130–1263). The substrate does not contain an explicit catalogue of diverse church-forms comparable to the Table of Nations. The parallel to the scattering function (Chapter 100's collective proprium fragmenting into distinct groups) is structural but not as tight as the Genesis 1–9 parallels. This represents a genuine lacuna in the comparison.
+**Genesis 10 (Table of Nations):** This is the weakest parallel in the thesis. Swedenborg reads the Table of Nations as a directory of post-diluvian churches, each preserving some fragment of the original correspondential teaching (*AC* §1130–1263). The substrate does not contain an explicit catalogue of diverse church-forms comparable to the Table of Nations. The parallel to the scattering function (Chapter 100's collective selfhood fragmenting into distinct groups) is structural but not as tight as the Genesis 1–9 parallels. This represents a genuine lacuna in the comparison.
 
 **Transmission history:** The substrate has been extracted from a fourth-century text by a computational pipeline. The Kephalaia's own transmission history — from the correspondential teaching through Mani's editorial frame to the Coptic manuscript — introduces layers of potential alteration that cannot be fully controlled. The eight-stage extraction pipeline of the companion thesis is designed to strip these layers, but no extraction can guarantee perfection. Minor discrepancies between the substrate and Genesis could reflect transmission artifacts rather than genuine differences in the underlying teaching.
 
@@ -777,13 +777,13 @@ Three witnesses. One architecture. The Ancient Word.
 | 3:7–19 (Curses, expulsion) | Intermingling of wisdom with falsity; consequences of self-intelligence | Ch 23 ¶4–9 | Wisdom enmeshed with falsity; five fundamental evils erupting |
 | 3:21 (Garments of skin) | External truths clothing spiritual nakedness | Ch 30 ¶1 | Three coverings of external truth: rational, active, natural |
 | 3:16–19 (Faculty corruption) | Corrupted faculties: serpent, childbearing, toil, death | Ch 94 ¶2–5 | Four faculties corrupted, each generating three emanations = 12 corruptions |
-| 4:1–16 (Cain and Abel) | Faith separated from love; murder of charity | Ch 100 ¶1–6 | Dragon of the proprium: 14 powers of self-intelligence, 5 concealed recesses |
+| 4:1–16 (Cain and Abel) | Faith separated from love; murder of charity | Ch 100 ¶1–6 | Dragon of the self: 14 powers of self-intelligence, 5 concealed recesses |
 | 5:1–32 (Genealogies) | Declining spiritual dispensations; diminishing perception | Ch 57 ¶1–6 | Five governing degrees: complete celestial → spiritual change → natural illumination → particular influx → momentary perception |
 | 6:5–7 (Wickedness) | Total saturation of mind by falsity; first spiritual death | Ch 39 ¶1, ¶4, ¶6 | Three great states and two spiritual deaths; celestial faculties overwhelmed |
 | 6:14–22 (Ark) | Remnant of good and truth preserved in layered structure | Ch 42 ¶3, ¶6 | Three containing forms expelled; seven successive coverings of natural truth |
 | 7:17–24 (Flood waters) | Interior evils brought into consciousness for removal | Ch 43 ¶2–6 | Three forms of evil poured into natural mind, then expelled; three residues remain |
 | 9:8–17 (Covenant, rainbow) | Commitment to external truths; new dispensation | Ch 59 ¶2–6 | Four griefs of external truths; self-sacrificial commitment at lowest degree |
-| 10:1–32 (Table of Nations) | Diversification of post-diluvian churches | — | *Weakest parallel*: no explicit catalogue of church-forms; functional parallel via scattering of collective proprium (Ch 100) |
+| 10:1–32 (Table of Nations) | Diversification of post-diluvian churches | — | *Weakest parallel*: no explicit catalogue of church-forms; functional parallel via scattering of collective selfhood (Ch 100) |
 | 11:1–9 (Tower of Babel) | Self-intelligence building toward spiritual heights; confusion of doctrinal language | Ch 61 ¶6–9; Ch 86 ¶6–8 | Towering falsities consuming seven streams of truth; confusion entering through admixtures in appropriated goods |
 
 ---

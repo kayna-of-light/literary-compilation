@@ -38,7 +38,7 @@ Modern semiotics, following Saussure, views the relationship between the signifi
 Crucial to understanding Plato’s motivation is the Swedenborgian distinction between the "Most Ancient Church" (Golden Age) and the "Ancient Church" (Silver Age).
 
 * **Perception (Golden Age):** The ancients possessed "internal respiration" and direct contact with the spiritual world. They did not need external texts or dogmas. When they saw a mountain, they instantly perceived the "Celestial Good of Love." Their cognition was intuitive, synthetic, and immediate.1  
-* **The Epistemological Fracture (The Fall):** With the rise of the selfhood (*proprium*), this direct connection was severed. The internal way was closed. Humanity could no longer read the "Book of Nature."  
+* **The Epistemological Fracture (The Fall):** With the rise of the selfhood (*selfhood*), this direct connection was severed. The internal way was closed. Humanity could no longer read the "Book of Nature."  
 * **Doctrine (Silver Age):** To prevent total spiritual darkness, the "knowledge of correspondences" was codified into written texts (the "Ancient Word") and rituals. This was the era of the Magi, the Egyptians, and the Chaldeans, who studied correspondence as a "science" (*Listenwissenschaft*)—a rigorous cataloging of the links between stars, stones, animals, and gods.7
 
 Plato writes in the wake of a second fracture—the collapse of this Silver Age "scientific" tradition into idolatry and superstition. His project is to rescue the *content* of the Silver Age science using the *form* of Iron Age dialectic.
@@ -83,7 +83,7 @@ In the *Phaedrus*, Plato offers the famous allegory of the Charioteer driving tw
 
 * **The Charioteer:** Corresponds to the **Rational Mind** (*Logos* / *Mens*). This is the faculty that must mediate between the higher and lower degrees.  
 * **The White Horse:** Described as a lover of honor, modesty, and temperance. In Swedenborg’s key, the **Horse** corresponds to the **Intellect** or the **Understanding of Truth**.5 The White Horse represents the "Spiritual" degree of the mind—the intellect purified by truth, striving upwards towards the Forms (*Mēnōg*).  
-* **The Black Horse:** Described as "friend of insolence and pride," barely yielding to the whip. This corresponds to the **Natural Will** or the **Proprium** (Selfhood), driven by the "loves of self and the world" (*Concupiscence* / *Epithumia*). It weighs the soul down towards the earth (*Gētīg*).27  
+* **The Black Horse:** Described as "friend of insolence and pride," barely yielding to the whip. This corresponds to the **Natural Will** or the **Selfhood** (Self), driven by the "loves of self and the world" (*Concupiscence* / *Epithumia*). It weighs the soul down towards the earth (*Gētīg*).27  
 * The Wings: Correspond to Spiritual Truths which elevate the mind. Swedenborg notes that "wings" signify "power" and "elevation" via truth.6  
   The struggle of the charioteer to control the horses is a correspondential description of Regeneration: the Rational Mind must use the Enlightened Intellect (White Horse) to subdue the rebellion of the Natural Will (Black Horse). Only when the "heaviness" of the black horse is broken can the soul regain its wings and participate in the "circuit" of the gods—a return to the mēnōg state of vision.
 
@@ -210,7 +210,7 @@ Plato’s work is thus the "Greek Bundahišn"—a translation of the Ancient Wor
 | :---- | :---- | :---- | :---- |
 | **Cave** | Shadows/Fire vs. Sun | Sensory Illusion vs. Divine Truth | *Gētīg* (Illusion) vs. *Mēnōg* (Reality). Sun \= Divine Love. |
 | **Chariot** | White Horse | Intellect / Spiritual Will | *Gospand* (Beneficent Animal). Horse \= Understanding of Truth. |
-| **Chariot** | Black Horse | Natural Appetites / Proprium | *Khrafstra* (Noxious Creature). Self-Love. |
+| **Chariot** | Black Horse | Natural Appetites / Selfhood | *Khrafstra* (Noxious Creature). Self-Love. |
 | **Metals** | Gold / Silver / Iron | Celestial / Spiritual / Natural Degrees | Hesiodic Ages; Babylonian Statue; *Dāmdād Nask* hierarchy. |
 | **Gyges** | Invisibility Ring | Removal of External Bonds | Internal Man vs. External Man. The "Book of Life" opened. |
 | **Ship** | Mutinous Crew | Sensory Appetites overruling Reason | The Fall; Inversion of Order; *Druj* (Lie) overcoming *Asha* (Truth). |

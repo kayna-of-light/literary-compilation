@@ -192,9 +192,9 @@ The studio attempted to adapt *Don Quixote* multiple times (1940, 1946, 1951\) b
 
 For an animator trained to "draw the force into the form," *Don Quixote* is a technical impossibility. You cannot use "Action Analysis" to make a windmill look like a giant *if the point of the scene is that it is NOT a giant*. The Disney "illusion of life" relies on the audience accepting the character's reality. Quixote relies on the audience mocking the character's reality. The "Irony Gap" broke the machine.
 
-### **8.2 The Rejection of Chanticleer: The Delusional Proprium**
+### **8.2 The Rejection of Chanticleer: The Delusional Self**
 
-Similarly, *Chanticleer* (the rooster who thinks he raises the sun) was rejected because he was "unsympathetic".40 In Swedenborgian terms, Chanticleer represents the **Proprium** (Self-Love)—the delusion that *we* are the source of life.
+Similarly, *Chanticleer* (the rooster who thinks he raises the sun) was rejected because he was "unsympathetic".40 In Swedenborgian terms, Chanticleer represents the **Self** (Self-Love)—the delusion that *we* are the source of life.
 
 * **Disney Hero:** Aligns with the "Influx" (Providence). Snow White waits for the Prince; Pinocchio listens to his Conscience.  
 * **Chanticleer:** Believes he *is* the Influx.

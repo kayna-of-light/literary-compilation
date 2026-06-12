@@ -111,7 +111,7 @@ In the ancient Near East, a name (*šēm*) was not a mere arbitrary label but a 
 
 This act implies a state of cognitive clarity where the barrier between the knower and the object is permeable. Adam possesses an intuitive insight into the "soul" of the animal. This aligns with Swedenborg's assertion that the people of the "Most Ancient Church" (symbolized by Adam) possessed "internal respiration" or direct spiritual perception.26 They could converse with angels and understand the spiritual causes of natural things instinctively. The naming is an act of defining the correspondence: "This form corresponds to this affection."
 
-The narrative note that "for Adam there was not found a helper comparable to him" (Gen 2:20) further underscores this wisdom. Through his taxonomy, Adam realizes that while he shares a biological origin with the animals (formed from the ground), his spiritual correspondence—the *Imago Dei*—is distinct. No animal corresponds to his rational and spiritual proprium.
+The narrative note that "for Adam there was not found a helper comparable to him" (Gen 2:20) further underscores this wisdom. Through his taxonomy, Adam realizes that while he shares a biological origin with the animals (formed from the ground), his spiritual correspondence—the *Imago Dei*—is distinct. No animal corresponds to his rational and spiritual selfhood.
 
 ### **The Solomonic Encyclopedias and Listenwissenschaft**
 

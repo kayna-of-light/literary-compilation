@@ -203,7 +203,7 @@ This is a direct inversion of the Zoroastrian "Primal Bull" (Gaw Ewdad).
 
 * **The Bull \= Natural Affection:** The bull corresponds to the **Good of the Natural Man**—obedience, strength, and service.4  
 * **The Sacrifice:** In a positive sense, sacrificing the bull signifies consecrating the natural will to God. However, the Atlantean ritual is dark: it involves hunting the bull (violence), shedding its blood over the law (profanation), and drinking the blood (appropriation of divine life).  
-* **The Inversion:** This ritual depicts the **Fall of the Most Ancient Church**. The "Kings" (Intellectual Truths) have begun to dominate and consume the "Bull" (Natural Good/Charity) via magic and self-love (*Proprium*). It mirrors the "Magian Perversion" described in the documents, where the "Science of Correspondences" devolved into "Magic" and the manipulation of spiritual forces for power.7 The "blood on the pillar" corresponds to the falsification of the Divine Truth (the Pillar) by the lusts of the self (the Blood).
+* **The Inversion:** This ritual depicts the **Fall of the Most Ancient Church**. The "Kings" (Intellectual Truths) have begun to dominate and consume the "Bull" (Natural Good/Charity) via magic and self-love (*Self*). It mirrors the "Magian Perversion" described in the documents, where the "Science of Correspondences" devolved into "Magic" and the manipulation of spiritual forces for power.7 The "blood on the pillar" corresponds to the falsification of the Divine Truth (the Pillar) by the lusts of the self (the Blood).
 
 ## ---
 

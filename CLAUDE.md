@@ -146,110 +146,18 @@ The central argument: secular scientific findings are accurate but incomplete de
 
 ## Source Classification (Folder Structure)
 
-### `00_Framework/` — Primary Synthesis Documents (7 files)
-Master documents that synthesize the overall framework:
-- `A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md`
-- `The Divine Bricolage_ A Spiritual History of the Word from Influx to Incarnation.md`
-- `The Threefold Path of the Soul_ A Synthesized Cosmology...` (2 versions)
-- `The Work of Divine Influx_ A 2000-Year History...`
-- `The Heart of the Matter_ A New Church Founded on Love.md`
-- `Enhancing Spiritual History Framework.md`
-
-### `01_Consciousness_Studies/` — NDEs, Past-Life, CDE (11 files)
-Empirical consciousness research and post-mortem cosmology:
-- `Consciousness as a Selective Pressure...` — The CDE hypothesis
-- `Analyzing Afterlife Journey Data.md` / `Group NDE Report Analysis.md`
-- `Researching Near-Death Experiences.md`
-- `Pure Encounter or Cultural Construct...` — Jesus identification in NDEs
-- `A Synthesized Model of Post-Mortem Existence...` / `A Hybrid Model...`
-- `Volunteer Soul Incarnation Profile Building.md`
-- `Brain, Myth, and Conscious Choice.md`
-- `The Resurrection of True Life_ A Phenomenological Analysis...md`
-- `Proprium et Influx...` — 21st-century conflict analysis
-
-### `02_Swedenborgian_Theology/` — Correspondences, Influx (19 files)
-Doctrine of correspondences, Ancient Word, regeneration:
-- `Echoes of an Ancient Word_ A Scientific and Mythological Inquiry...md`
-- `A Library of Biblical Correspondences...`
-- `Swedenborg's Natural World Correspondences.md`
-- `The Spiritual Numerology of the Word...`
-- `Divine Human Anatomy and Spiritual Correspondence.md`
-- `A Validation Analysis of Claims Concerning the Most Ancient Church.md`
-- `Communication among the most ancient people...`
-- `The Architecture of Regeneration...`
-- `The Divine Human in Ultimates...`
-- `The Science of Correspondences...` / `Magi's Principle of Correspondences.md`
-
-### `03_Biblical_Scholarship/` — HCM, Gospels, Textual Analysis (12 files)
-Historical-critical method, Gospel formation, NT analysis:
-- `The Canonical Gospels_ A Synthesis of Historical-Critical Scholarship.md`
-- `Re-evaluating Gospel Embarrassment.md`
-- `Resurrection Narrative Evolution in New Testament.md`
-- `New Testament Book Timeline Research.md`
-- `Pastoral Epistles Authorship Debate.md`
-- `A Theological Profile of the Jesus of the Gospels.md`
-- `Categorization of New Testament Books...` (CSV)
-- `Roman Context of New Testament Galilee.md`
-
-### `04_Early_Christian_History/` — James, Paul, Proto-Luke (20 files)
-Jamesian vs. Pauline movements, Desposyni, Magi studies:
-- `The Bulwark of the People...` — James the Just profile
-- `A Foundational Divergence...` — Jesus vs. Paul incompatibility
-- `The Jamesian Protograph...` (2 versions) — Proto-Luke reconstruction
-- `The Lukan Dissonance...` — Luke vs. Acts analysis
-- `The Pauline Corpus and the Consummation of the Age.md`
-- `The Dynasty of the Branch...` — Davidic lineage reconstruction
-- `The Tower and the Tomb...` — Mariamene analysis
-- `Forensic and Geochemical Investigation of the James Ossuary...`
-- `Paul's Damascus Vision_ Scholarly Critique.md`
-- `Persian Roots of Early Christianity.md` / `Zoroastrianism's Influence...`
-- `The Cycle of Celestial Knowledge...` / `The Luminous Science...` — Magi studies
-
-### `05_The_Self/` — Selfhood, the Proprium, and Self-Sourcing
-Analysis of the self: how it forms, how it claims, how the proprium operates through theological systems:
-- `The Architecture of Hidden Divinity...` — The Gnostic Impulse profiled across 2000 years
-- `The Architecture of Autonomy...` — Validation of Gnostic Impulse as proprium's mechanic
-- `The Paradox of the Pneumatic Ego...` — Pauline humility as proprium strategy
-- `Dancing with Fire...` — Marcion and the correspondential key he never possessed
-
-### `08_Correspondential_Texts/` — Ancient Texts Written in Correspondence
-Analysis of non-canonical ancient texts as correspondential compositions — their architecture, vocabulary, provenance, and transmission:
-- `The Living Library...` — Correspondential architecture across the entire NHL
-- `The Literalized Fall...` — Sethian corpus as correspondential architecture without the key
-- `Reversing the Arrow...` — "Gnosticism" as downstream literalization of correspondential composition
-- `The Tongue Beneath the Translation...` — Coptic vocabulary as material evidence for the correspondential substrate
-- `The Unnamed Cartography...` — ApJ body-correspondences validated against Swedenborg
-- `The Book of Zoroaster...` — ApJ as specimen of the Ancient Word
-
-### `06_Mythological_Studies/` — Bricolage, Proto-Myths (15 files)
-Myth formation, ANE parallels, Exodus narrative analysis:
-- `A Critical History of Foundational Narratives...`
-- `Exodus Narrative_ Mythic Bricolage Study.md` / `Memory Fragments...`
-- `Forging a Nation in Memory...` — Exodus socio-anthropological synthesis
-- `Genesis Creation Myth's ANE Context.md`
-- `Genesis, Enuma Elish, Proto-Myth Evolution.md`
-- `The Two Hearts of Creation...` (2 versions) — CDE of myth
-- `Echoes of an Ancient Word...`
-- `Revelation and Bricolage...` — Swedenborgian vs. anthropological models
-- `The Architecture of the Sacred...` — Prime number evolution
-- `Enoch's Bulls, History's Echoes._.md` / `Enoch's Celestial Mechanics...`
-- `Zoroastrianism and Enoch's Bulls.md`
-- `Analyzing Archangel Development Across Religions.md`
-
-### `07_Cultural_Pneumatology/` — Cultural Transmission of Correspondential Thought (12+ files)
-Transmission of Swedenborgian correspondences through literature and popular culture, including Walt Disney Studio, Hans Christian Andersen, and the Brothers Grimm:
-- `The Animating Spirit...` — Exhaustive analysis of correspondences in Disney films
-- `The Apple and the Angel...` — Johnny Appleseed's Swedenborgian theology
-- `The Carriers of the Invisible...` — Personnel history of Swedenborgian thought at Disney
-- `The Diffracted Light...` — From Universal Correspondence to Cultural Metaphor
-- `The Invisible Influx...` — Structural persistence of Swedenborgian thought
-- `The Inverted Influx...` — Profanation in Disney's *Wish*
-- `The Mirror and the Star...` — Comparative pneumatology of *Wish* vs *Snow White* (2025)
-- `The Vertical Mirror...` — Swedenborgian adherence in *Snow White* (2025)
-- `The True Wish...` — Theological exegesis of "Waiting on a Wish"
-- `Walt Disney's Swedenborgian Connections`
-- `Snow White's Apple Orchard Symbolism.md`
-- `Snow White's Theological Correction.md`
+| Folder | Domain |
+|--------|--------|
+| `data/00_Framework/` | Primary synthesis documents |
+| `data/00_Master_Theses/` | Major multi-domain theses |
+| `data/01_Consciousness_Studies/` | NDEs, past-life memory, CDE, post-mortem cosmology |
+| `data/02_Swedenborgian_Theology/` | Correspondences, influx, Ancient Word, regeneration |
+| `data/03_Biblical_Scholarship/` | Historical-critical method, Gospel formation, textual analysis |
+| `data/04_Early_Christian_History/` | Jamesian vs. Pauline movements, Desposyni, Magi |
+| `data/05_The_Self/` | Selfhood, the proprium, self-sourcing across traditions |
+| `data/06_Mythological_Studies/` | Bricolage, proto-myths, ANE parallels, Exodus |
+| `data/07_Cultural_Pneumatology/` | Correspondential thought in Disney, Andersen, Grimm |
+| `data/08_Correspondential_Texts/` | NHL, Kephalaia, ancient texts read as correspondence |
 
 ---
 

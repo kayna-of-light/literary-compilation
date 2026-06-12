@@ -102,7 +102,7 @@ The iconic image of the frog in *The Frog King* (KHM 1\) serves as a potent Swed
 
 * **The Golden Ball:** Correspondentially, a sphere or ball often signifies eternity or a state of wholeness/innocence.36 Losing it in the well signifies the loss of innocent perception into the depths of the natural mind (water).  
 * **The Frog:** Frogs correspond to "reasoning from falsities" or the "sensual degree" of the mind that croaks in the mud.38 In the tale, the frog is an enchanted prince. This signifies that the "natural man" or the "literal sense" of the Word appears repulsive (a cold, wet frog) to the "spiritual affection" (the princess).  
-* **The Transformation:** The princess’s revulsion mirrors the natural mind’s aversion to spiritual discipline. The frog demands entry into her "house" (her mind) and her "bed" (her will/love). The climax, where she throws the frog against the wall, is crucial. In the Grimm version, she does *not* kiss him; she violently rejects the form. This violence mirrors the Swedenborgian concept of "temptation" and the breaking of the "hardened" proprium (selfhood). The shattering of the frog form releases the Prince (Spiritual Truth). It illustrates that the natural form must be "broken" or vastated for the spiritual reality to emerge.37 The frog is the "repulsive" exterior that holds the "golden" interior truth.
+* **The Transformation:** The princess’s revulsion mirrors the natural mind’s aversion to spiritual discipline. The frog demands entry into her "house" (her mind) and her "bed" (her will/love). The climax, where she throws the frog against the wall, is crucial. In the Grimm version, she does *not* kiss him; she violently rejects the form. This violence mirrors the Swedenborgian concept of "temptation" and the breaking of the "hardened" self (selfhood). The shattering of the frog form releases the Prince (Spiritual Truth). It illustrates that the natural form must be "broken" or vastated for the spiritual reality to emerge.37 The frog is the "repulsive" exterior that holds the "golden" interior truth.
 
 ### **4.3 The White Snake (KHM 17): The Consumption of Wisdom**
 
@@ -117,7 +117,7 @@ In *The White Snake*, a servant eats a piece of a white snake meant for the King
 In *The Goose Girl* (KHM 89), the princess is accompanied by a talking horse named Falada.
 
 * **The Horse:** In Swedenborg, the horse corresponds to the *Intellect* or the *Understanding of the Word*.7 A white horse represents the pure understanding of truth.  
-* **Falada’s Fate:** The false bride (the personification of the deceptive proprium or "self-hood") has Falada killed and his head mounted on the gate. Yet, the head still speaks truth. This signifies that even when the "understanding" is severed or destroyed by falsity in the external world, the "remains" of truth can still testify to the conscience (the true princess).44  
+* **Falada’s Fate:** The false bride (the personification of the deceptive self or "self-hood") has Falada killed and his head mounted on the gate. Yet, the head still speaks truth. This signifies that even when the "understanding" is severed or destroyed by falsity in the external world, the "remains" of truth can still testify to the conscience (the true princess).44  
 * **The Wind:** The wind that blows the Goose Boy's hat away corresponds to the spiritual influx that disrupts the disorderly thoughts of the natural mind, protecting the princess's hair (her spiritual power/beauty).7
 
 ### **4.5 The Golden Bird (KHM 57): The Fox as Prudence**

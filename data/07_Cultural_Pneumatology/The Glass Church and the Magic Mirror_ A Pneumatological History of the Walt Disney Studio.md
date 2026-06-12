@@ -179,7 +179,7 @@ The confusion over the "Seven Bandits" vs. the "Seven Dwarfs" 53 reflects the st
 
 | Element | Initial "Modernized" Plan (Bailey Era) | "Course Corrected" Plan (Greenbaum Era) | Theological Implication |
 | :---- | :---- | :---- | :---- |
-| **The Heroine** | "Leader," independent, no romance. | "Kind," "Fair," relational leader. | Shift from Self-Love (Proprium) to Charity (Use). |
+| **The Heroine** | "Leader," independent, no romance. | "Kind," "Fair," relational leader. | Shift from Self-Love (Selfhood) to Charity (Use). |
 | **The Male Lead** | Prince removed/minimized; "Stalker." | **Jonathan** ("God-given"); Bandit/Ally. | Reinstatement of "Providential Helper" (Influx). |
 | **The Allies** | "Magical Creatures" / Bandits (Humans). | **CGI Dwarfs** (Magical beings). | Restoration of the "Correspondential" environment (Nature as alive). |
 | **The Conflict** | Political power struggle. | Vanity vs. Kindness. | Return to Swedenborgian moral universe (Self-Love \= Hell). |

@@ -18,7 +18,7 @@ Everything in nature exists as a vessel for these higher degrees. A tree, for in
 
 ### **1.2 The Duality of Meaning: Genuine and Opposite**
 
-A critical feature of Swedenborgian cartography is the "Principle of Opposites." Because humanity possesses free will and has, historically, turned away from the Divine flow (the "Fall"), the natural world acts as a vocabulary that can describe both heaven and hell. Every correspondence has a **Genuine Sense** (relating to the Lord, heaven, and regeneration) and an **Opposite Sense** (relating to the selfhood or "proprium," hell, and degeneration).
+A critical feature of Swedenborgian cartography is the "Principle of Opposites." Because humanity possesses free will and has, historically, turned away from the Divine flow (the "Fall"), the natural world acts as a vocabulary that can describe both heaven and hell. Every correspondence has a **Genuine Sense** (relating to the Lord, heaven, and regeneration) and an **Opposite Sense** (relating to the selfhood or "the self," hell, and degeneration).
 
 * **The Sun:** In the genuine sense, it is Divine Love. In the opposite sense, it is the burning fire of self-love.  
 * **The Lion:** In the genuine sense, it is the power of Truth (The Lion of Judah). In the opposite sense, it is the ferocity of falsity destroying the church.
@@ -86,7 +86,7 @@ The earth itself corresponds to the **Church** or the **External Man**. It is th
   * *Mechanism:* Stones are used to build. Facts are the stones with which the mind builds its system of doctrines.  
   * *Hewn Stone vs. Unhewn Stone:* Unhewn stones (altars) represent truths from the Divine that are not altered by self-intelligence. Hewn stones represent doctrines fashioned by human reasoning (falsity).  
 * **Dust:** Corresponds to the **lowest natural**, the corporeal, and the damned.  
-  * *Meaning:* Dust is earth that has no cohesion and no life. It corresponds to the state of the "damned" or the "proprium" (selfhood) which is dry and disconnected from heaven. "To shake the dust off one’s feet" corresponds to rejecting the vile evils associated with a specific state or place.  
+  * *Meaning:* Dust is earth that has no cohesion and no life. It corresponds to the state of the "damned" or the "self" (selfhood) which is dry and disconnected from heaven. "To shake the dust off one’s feet" corresponds to rejecting the vile evils associated with a specific state or place.  
 * **Sand:** Corresponds to **Scientifics (knowledge) without life**.  
   * *Meaning:* Sand is stone broken into tiny, incoherent particles. It corresponds to knowledge stored in the memory that is not organized into a life of use. The "sand of the sea" signifies the vast, innumerable quantity of natural facts that form the boundary of the intellect but are not spiritual in themselves. A house built on sand is a life built on memory-knowledge without the cohesion of love.  
 * **Salt:** Corresponds to the **desire for conjunction** between Truth and Good.  
@@ -299,7 +299,7 @@ The progression of the seasons corresponds to the progression of regeneration in
 | **Spring** | New Birth / Peace | The first state of a new Church; Infancy; The beginning of regeneration where truth is first received with joy. |
 | **Summer** | Fullness / Wisdom | The state of greatest light (wisdom) and heat (love); Mature Faith and Charity. |
 | **Autumn** | Decline / Obscurity | The waning of love and faith; reliance on external memory; the "Evening" of the church. |
-| **Winter** | End / Consummation | The total absence of love and truth; spiritual death; the state of "Proprium" (selfhood) without the Lord. |
+| **Winter** | End / Consummation | The total absence of love and truth; spiritual death; the state of selfhood without the Lord. |
 
 ### **7.3 The Colors of Creation**
 

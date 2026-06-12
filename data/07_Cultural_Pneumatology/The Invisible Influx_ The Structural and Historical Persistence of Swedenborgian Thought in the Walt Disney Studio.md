@@ -148,7 +148,7 @@ Stanchfield wrote about the "Metaphysical Side" of drawing, urging students to "
 
 Glen Keane, the star animator of the Renaissance (Ariel, Beast, Aladdin, Tarzan, Rapunzel), is the most direct inheritor of this lineage. Keane frequently cites Stanchfield as his mentor, stating that Stanchfield taught him to "draw the feeling" and that "the eyes are the window to the soul".12
 
-Keane’s philosophy of animation is explicitly correspondential. When designing the Beast, he spoke of the character as "an animal on the outside with a man on the inside wanting to come out".13 This mirrors Swedenborg’s concept of the "regenerating man" struggling against his "proprium" (animal nature). Keane’s animation does not just move; it *expresses the struggle of the soul*, fulfilling the mandate set by Walt Disney and Don Graham fifty years prior.
+Keane’s philosophy of animation is explicitly correspondential. When designing the Beast, he spoke of the character as "an animal on the outside with a man on the inside wanting to come out".13 This mirrors Swedenborg’s concept of the "regenerating man" struggling against his "selfhood" (animal nature). Keane’s animation does not just move; it *expresses the struggle of the soul*, fulfilling the mandate set by Walt Disney and Don Graham fifty years prior.
 
 ## **VII. The Science of Correspondences in the Disney Narrative**
 
@@ -158,7 +158,7 @@ Having established the historical and personnel vectors, we can now analyze how 
 
 One of the most persistent tropes in Disney is the intrinsic link between the moral condition of the monarch and the physical health of the environment. In Swedenborg’s exegesis, the "Land" or "Earth" corresponds to the "State of the Church" (the collective spiritual state of the people).
 
-* **The Lion King (1994):** The film serves as a perfect model of Swedenborg’s *Maximus Homo* (The Grand Man). The Kingdom is a body. Mufasa is the "Head" (Wisdom/Government). The Lionesses are the "Heart/Lungs" (Vital operations). The Hyenas are the "Intestines/Excretory function" (consuming waste).14 When Scar (the Proprium/Self-Love) usurps the Head, the entire Body (Land) sickens. The "drought" is not meteorological; it is spiritual vastation. The return of the true King (Truth) brings immediate rain (Influx of Truth).14  
+* **The Lion King (1994):** The film serves as a perfect model of Swedenborg’s *Maximus Homo* (The Grand Man). The Kingdom is a body. Mufasa is the "Head" (Wisdom/Government). The Lionesses are the "Heart/Lungs" (Vital operations). The Hyenas are the "Intestines/Excretory function" (consuming waste).14 When Scar (the Self/Self-Love) usurps the Head, the entire Body (Land) sickens. The "drought" is not meteorological; it is spiritual vastation. The return of the true King (Truth) brings immediate rain (Influx of Truth).14  
 * **Frozen (2013):** Arendelle’s eternal winter is a literalization of the metaphor "frozen heart." Swedenborg describes "frigid zones" in the spiritual world inhabited by those who have isolated themselves from the warmth of Charity (Love). Elsa’s fear creates a world of ice (Truth without Good). The "thaw" can only be achieved by an act of true love (Charity), which restores the liquid state (Truth flowing with Good).14
 
 ### **7.2 Animal Correspondences: The Menagerie of the Mind**
@@ -166,7 +166,7 @@ One of the most persistent tropes in Disney is the intrinsic link between the mo
 Swedenborg asserted that animals correspond to specific human "affections." Disney films adhere to this taxonomy with remarkable consistency.
 
 * **The Horse (Intellect):** In *Tangled*, Maximus is the "Intellect" obsessed with the "Law." He is rigid and judgmental until guided by Rapunzel (Affection). In *Frozen II*, the Nokk (Water Horse) represents the "Natural Understanding." Elsa (the Spiritual Mind) must tame and ride the horse, symbolizing the spiritual mind's control over the natural intellect.14  
-* **The Tower and the Hair (Tangled):** Rapunzel represents the "Remains" (innocence stored by the Lord) locked within the Tower of Selfhood (*Proprium*). Her hair corresponds to "Natural Truth" or the "Letter of the Word"—it has power and healing, but can be used for evil if controlled by the Self (Mother Gothel, representing Hypocrisy).14
+* **The Tower and the Hair (Tangled):** Rapunzel represents the "Remains" (innocence stored by the Lord) locked within the Tower of Selfhood (*Selfhood*). Her hair corresponds to "Natural Truth" or the "Letter of the Word"—it has power and healing, but can be used for evil if controlled by the Self (Mother Gothel, representing Hypocrisy).14
 
 ## **VIII. The Modern Era: Revival and the "Cultural Trust"**
 

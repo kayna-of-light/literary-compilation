@@ -17,7 +17,7 @@ To understand Leonardo’s alignment with the user's framework, we must first ri
 The framework posits that human consciousness has devolved through specific phases, each characterized by a different relationship to Truth.1
 
 * **The Golden Age (Most Ancient Church):** Characterized by "Perception." This was an intuitive, synthetic faculty where the individual possessed "internal respiration" and direct contact with the spiritual world. In this state, there was no separation between the Will and the Understanding. To see a natural object (e.g., a mountain) was to instantly perceive its spiritual cause (Celestial Good).2  
-* **The Epistemological Fracture (The Fall):** This event, visualized at Göbekli Tepe, marked the separation of the Will and the Understanding. The "internal way" was closed to prevent the corruption of the spirit by the selfhood (*proprium*).  
+* **The Epistemological Fracture (The Fall):** This event, visualized at Göbekli Tepe, marked the separation of the Will and the Understanding. The "internal way" was closed to prevent the corruption of the spirit by the selfhood (*selfhood*).  
 * **The Silver/Iron Ages (The Magian/Scribal Phase):** Truth could no longer be perceived directly. It had to be learned via "Doctrine" and "Science" (*Listenwissenschaft*). The direct perception of correspondence became the "Science of Correspondences"—a codified system of lists and laws used to map the Divine Mind.3
 
 ### **1.2 Leonardo and the Florentine Transmission**
@@ -99,7 +99,7 @@ In the Codex Atlanticus, Leonardo defines force in terms that would be heretical
 * **"Incorporate and Invisible":** Leonardo defines Force as belonging to the *Mēnōg* realm. It is "invisible" and "incorporeal." It is not matter; it is the *animator* of matter.  
 * **"Spiritual Essence" (*Virtù Spirituale*):** He explicitly uses the term "spiritual." In the framework, this validates the concept that all motion in the physical world is the result of spiritual influx. Matter is dead (inert); only Spirit (Force) moves.  
 * **"Fortuitous Violence":** Leonardo describes force as "violence" done to a body to remove it from its "natural inclination" (inertia/gravity).  
-  * **Theological Parallel:** In Swedenborgian theology, the "natural inclination" of the human *Proprium* is gravity—the pull towards self and hell (the earth). **Regeneration** is the "violence" (Force) done to this natural will by the influx of Divine Truth, compelling it to move in a new, spiritual direction. Leonardo’s mechanics of force are a perfect allegory for the mechanics of regeneration.
+  * **Theological Parallel:** In Swedenborgian theology, the "natural inclination" of the human *Self* is gravity—the pull towards self and hell (the earth). **Regeneration** is the "violence" (Force) done to this natural will by the influx of Divine Truth, compelling it to move in a new, spiritual direction. Leonardo's mechanics of force are a perfect allegory for the mechanics of regeneration.
 
 ### **3.2 The Genealogy of Motion: A Trinitarian Physics**
 
@@ -127,7 +127,7 @@ One of the most cryptic aspects of Leonardo’s corpus is the series of "Prophec
 A Magian prophecy does not predict the future like a weather forecast; it predicts the **inevitable spiritual consequence** of a current state. It operates on the law of Cause (*Mēnōg*) and Effect (*Gētīg*).
 
 * **The Form:** Leonardo’s riddles describe a horrific, apocalyptic, or violent scene (the Spiritual Reality/Internal Sense) which turns out to be a description of a mundane object or activity (the Natural Reality/Literal Sense).  
-* **The Function:** This technique forces the mind to see the "violence" hidden within the mundane. It strips away the "callousness" of the natural mind to reveal the moral horror of the *Proprium*.
+* **The Function:** This technique forces the mind to see the "violence" hidden within the mundane. It strips away the "callousness" of the natural mind to reveal the moral horror of the *Self*.
 
 ### **4.2 Forensic Analysis of Key Prophecies**
 

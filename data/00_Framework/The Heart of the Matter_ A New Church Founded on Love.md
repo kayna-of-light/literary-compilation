@@ -110,7 +110,7 @@ In stark contrast to the "open" heart stands the "learned" class of the former C
 This is the state of **"scholarly blindness"**.1
 
 * Those in the former church "perceive themselves as being rich with knowledge and truth".1  
-* They are in the "pride of **self-intelligence** (*proprium*) and **love of self**," a state that "**closes... their deeper levels**" and causes their "intellectual faculty" to be "**covered up and blotted out** by the evils of one's own love".1  
+* They are in the "pride of **self-intelligence** (*selfhood*) and **love of self**," a state that "**closes... their deeper levels**" and causes their "intellectual faculty" to be "**covered up and blotted out** by the evils of one's own love".1  
 * This is the "how" of the "suffocation." Having developed only their "skill in argumentation—the ability to prove anything they please," their intellect is no longer a tool for *perceiving* truth but a *weapon* for *defending* their pre-existing false principles. They "see falsities rather than true ones".1  
 * They are the "rich" for whom it is impossible to pass through the "eye of the needle," because they "reject everything that strips them of this knowledge".1 Many of the learned who deny the Divine are "atheists at heart" and "more insane in spiritual matters than simple people".1
 

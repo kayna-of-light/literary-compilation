@@ -92,7 +92,7 @@ Critical scholarship dates these books to the Josianic and Exilic periods, heavi
 The narrative arc of Samuel and Kings is the story of the separation of the "King" (Truth/Intellect) and the "Priest" (Good/Will).
 
 * **Saul:** Represents the "Natural Rational" mind. He is tall (intellectual elevation) but impatient (lacks the will's endurance). His madness is the correspondence of the intellect disconnected from the divine influx.  
-* **David:** Represents the "Spiritual" mind. He unites the tribes (affections). His Psalms are the voice of the "Proprium" (Selfhood) undergoing temptation.  
+* **David:** Represents the "Spiritual" mind. He unites the tribes (affections). His Psalms are the voice of the "Self" (Selfhood) undergoing temptation.  
 * **Solomon:** Represents the "Celestial" mind (Peace/Wisdom). The building of the Temple is the correspondent of the "Glorification" of the human aspect.
 
 **The Editorial Evolution:** The "Redactor" of Kings (Dtr2) writes from the Exile, looking back. This perspective allows him to see the "long arc" of correspondence. The editing process—selecting specific anecdotes (e.g., Elisha and the bears) while omitting political details (e.g., Omri’s conquests)—reveals a bias toward *spiritual significance*. The "Bear" corresponds to the "Literal Sense of the Word" protecting the internal sense from "mocking children" (rationalistic skeptics). The inclusion of this "weird" story is a testament to the scribe’s fidelity to the *Listenwissenschaft* of symbols over the logic of secular history.12
@@ -131,7 +131,7 @@ These shorter books are "holograms" of the larger spiritual process.
 
 The Psalms are included in "The Word" because they function as the "Liturgy of Influx." They represent the interaction between the *mēnōg* (Divine) and *gētīg* (Human).
 
-### **6.1. The Voice of the "Proprium"**
+### **6.1. The Voice of the Self**
 
 The Psalms are unique because they are spoken *from* the human perspective *to* the Divine.
 
@@ -203,7 +203,7 @@ When viewed through the "glasses" of modern cognitive history and ANE studies, S
 | **Genesis 1–11** | *The Ancient Word* (Made-up History) | **Mythic Bricolage:** Utilizing Mesopotamian cosmological fragments (*Enuma Elish*). | **Taxonomy of Consciousness:** Maps the evolution of the "Most Ancient" (Celestial) and "Ancient" (Spiritual) mind. |
 | **Genesis 12 – Deuteronomy** | *The Word* (Real History) | **National Epic / Legal Code:** Bronze Age treaty structures and itineraries. | **The Process of Regeneration:** Egypt (Science) $\\to$ Wilderness (Temptation) $\\to$ Canaan (Church). |
 | **Joshua – Kings** | *The Word* (Former Prophets) | **Deuteronomistic History:** History viewed through the lens of Cause/Effect (Blessing/Curse). | **Spiritual Combat:** The wars of Israel mirror the internal conflict against hereditary evils (Canaanites). |
-| **The Prophets** | *The Word* | **Magian/Apocalyptic:** Persian-influenced dualism (*Mēnōg/Gētīg*) and *Listenwissenschaft*. | **Direct Dictation:** The "Voice of YHWH" breaking through the Proprium (Ego). |
+| **The Prophets** | *The Word* | **Magian/Apocalyptic:** Persian-influenced dualism (*Mēnōg/Gētīg*) and *Listenwissenschaft*. | **Direct Dictation:** The "Voice of YHWH" breaking through the Self (Ego). |
 | **Psalms** | *The Word* | **Cultic Liturgy:** Temple hymns designed to invoke Divine presence. | **The Unification:** The prayer of the Lord uniting His Human with the Divine. |
 | **Gospels** | *The Word* | **Biographical Narrative:** The "New Exodus" motif. | **The Glorification:** The life of Jesus mirrors the path of the Law and Prophets. |
 | **Revelation** | *The Word* | **Apocalyptic:** Return to the visual/symbolic mode of Daniel/Ezekiel. | **The Restoration:** The unveiling of the internal sense and the restoration of the "City" (Doctrine). |

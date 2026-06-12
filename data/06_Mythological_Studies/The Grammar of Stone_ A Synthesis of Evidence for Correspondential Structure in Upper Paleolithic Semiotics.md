@@ -169,7 +169,7 @@ The Venus of Willendorf is a limestone figurine held in the Naturhistorisches Mu
 
 **Primary principle**: A human female form with extreme emphasis on the generative and nourishing anatomy — abundant adipose tissue, exaggerated breasts and abdomen, no face, no feet.
 
-**Reading**: The abundance corresponds to celestial good — love as substance, concentrated and overflowing. Exaggerated breasts correspond to nourishment and charity flowing outward. The absence of face corresponds to the absence of *proprium* — the self-consciousness that distinguishes "I" from "other" had not yet crystallized. The absence of feet corresponds to the state not being grounded in the natural degree. Reading: an icon of the celestial state — before selfhood, before crisis.
+**Reading**: The abundance corresponds to celestial good — love as substance, concentrated and overflowing. Exaggerated breasts correspond to nourishment and charity flowing outward. The absence of face corresponds to the absence of *selfhood* — the self-consciousness that distinguishes "I" from "other" had not yet crystallized. The absence of feet corresponds to the state not being grounded in the natural degree. Reading: an icon of the celestial state — before selfhood, before crisis.
 
 ### The Wounded Men of Cougnac and Pech Merle (~25,000 BCE)
 

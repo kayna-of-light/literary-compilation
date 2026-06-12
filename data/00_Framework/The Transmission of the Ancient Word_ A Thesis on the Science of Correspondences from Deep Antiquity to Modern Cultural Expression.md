@@ -341,11 +341,11 @@ Plato's image of the soul as a charioteer driving two winged horses—one white 
 |--------|---------------------|------------------------------|
 | **Charioteer** | The rational element, seeking the Forms | **Rational Mind** (*Mens*), mediating between spiritual and natural |
 | **White Horse** | Lover of honor, modesty, temperance; obeys reason | **Intellect/Understanding** purified by truth; the spiritual degree |
-| **Black Horse** | Friend of insolence and pride; barely yields | **Natural Will/Proprium**; the sensory appetites that drag earthward |
+| **Black Horse** | Friend of insolence and pride; barely yields | **Natural Will/Selfhood**; the sensory appetites that drag earthward |
 | **Wings** | What lifts the soul toward the divine | **Spiritual Truths** that elevate the mind |
 | **The Circuit of the Gods** | Following the divine procession to behold Forms | **Regeneration** and participation in the heavenly order |
 
-The White Horse corresponds precisely to Swedenborg's teaching that the **Horse** signifies the **Understanding of Truth**.^[16] The Black Horse corresponds to the **Proprium**—the love of self that resists spiritual guidance. The struggle of the charioteer is the struggle of regeneration: the rational mind using enlightened intellect to subdue the rebellious natural will.
+The White Horse corresponds precisely to Swedenborg's teaching that the **Horse** signifies the **Understanding of Truth**.^[16] The Black Horse corresponds to the **Self**—the love of self that resists spiritual guidance. The struggle of the charioteer is the struggle of regeneration: the rational mind using enlightened intellect to subdue the rebellious natural will.
 
 This is not allegory (arbitrary assignment of meanings). This is correspondence (organic, causal relationship between natural symbol and spiritual reality). Plato could construct this because he knew the system.
 
@@ -886,7 +886,7 @@ Lewis Carroll (Charles Dodgson, 1832-1898) owned Swedenborg's major works: *Heav
 - The Cheshire Cat's grin without a body is Abstract Thought without Moral Substance—intellect separated from will
 
 *Through the Looking-Glass* (1871) — Explores the Rational/Intellectual degree:
-- The inversion mechanic (walking away to approach) mirrors Swedenborg's law that spiritual goals are reached indirectly, turning away from the Proprium
+- The inversion mechanic (walking away to approach) mirrors Swedenborg's law that spiritual goals are reached indirectly, turning away from the self
 - The chessboard landscape represents states of the mind, Alice progressing from Pawn to Queen (conjunction of Will and Understanding)
 - The White Queen who screams before she pricks her finger lives in the World of Causes, where state precedes event
 

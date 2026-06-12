@@ -151,7 +151,7 @@ Here we find the critical bifurcation between **Swedenborg the Seer** and **Swed
 * **The Seer:** In his spiritual exegesis (*Arcana Coelestia*, *Apocalypse Explained*), Swedenborg consistently argues that "Virgin" in the Word signifies "the affection of truth" or the "Church".22 It describes a *spiritual state* of receptivity, not a biological membrane.  
 * **The Scientist:** However, when discussing the Incarnation, Swedenborg abandons his own hermeneutic method. He reverts to the literal, Aristotelian necessity of the biological virginity to secure a "Divine Soul." He forces the "prophecy" to be a biological fact to satisfy his scientific requirement for a Paternal Soul.
 
-**The User’s Correction:** By applying Swedenborg’s own *internal sense* to the Gospel narrative, the "Virgin Birth" becomes a description of the Lord’s **spiritual genesis**. It signifies that the Divine Truth (the Son) was born from the "pure affection of truth" (Mary) without the intervention of the "proprium" or self-intelligence (represented by the male principle/Joseph). The "Virginity" is the purity of the affection, not the absence of the sperm.
+**The User’s Correction:** By applying Swedenborg’s own *internal sense* to the Gospel narrative, the "Virgin Birth" becomes a description of the Lord’s **spiritual genesis**. It signifies that the Divine Truth (the Son) was born from the "pure affection of truth" (Mary) without the intervention of the "selfhood" or self-intelligence (represented by the male principle/Joseph). The "Virginity" is the purity of the affection, not the absence of the sperm.
 
 ### **4.3 The Jamesian Protograph: The Original Narrative**
 

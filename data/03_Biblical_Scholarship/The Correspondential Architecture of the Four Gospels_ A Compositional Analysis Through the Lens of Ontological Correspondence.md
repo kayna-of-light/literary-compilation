@@ -146,7 +146,7 @@ The wedding at Cana is not incidental. A wedding corresponds to the conjunction 
 
 **Sign 2 — Temple Cleansing (2:13-22): Purification of Worship**
 
-The temple corresponds to the church, to worship, to the internal man. Driving out the money-changers and merchants is the purification of worship from the love of self and the world — the proprium that commercializes what should be freely received. This sign follows the water-to-wine because after the natural mind perceives interior truth, the *worship* of that mind must be purified.
+The temple corresponds to the church, to worship, to the internal man. Driving out the money-changers and merchants is the purification of worship from the love of self and the world — the self that commercializes what should be freely received. This sign follows the water-to-wine because after the natural mind perceives interior truth, the *worship* of that mind must be purified.
 
 **Sign 3 — Nicodemus / Born from Above (3:1-21): The Necessity of Regeneration**
 
@@ -160,7 +160,7 @@ The well corresponds to the Word — the source of truth. The woman of Samaria r
 
 **Sign 5 — Healing at Bethesda (5:1-18): Truth That Heals**
 
-The pool of Bethesda has five porches — five corresponding to "several" or "some." The man has been ill for thirty-eight years — a number whose internal sense relates to a prolonged state of spiritual incapacity. The healing occurs on the Sabbath — the Sabbath corresponding to spiritual rest, the state when the Lord operates without interference from the proprium. Truth heals the natural man when the proprium ceases to resist.
+The pool of Bethesda has five porches — five corresponding to "several" or "some." The man has been ill for thirty-eight years — a number whose internal sense relates to a prolonged state of spiritual incapacity. The healing occurs on the Sabbath — the Sabbath corresponding to spiritual rest, the state when the Lord operates without interference from the self. Truth heals the natural man when the self ceases to resist.
 
 **Sign 6 — Feeding the 5000 / Bread of Life (6:1-71): Spiritual Nourishment**
 
@@ -204,7 +204,7 @@ The Johannine signs sequence constitutes a complete regeneration map:
 | Temple Cleansing | Natural-Spiritual | Purification of worship |
 | Nicodemus | Spiritual (threshold) | Necessity of being born from above |
 | Samaritan Woman | Spiritual | Living truth — internal worship |
-| Bethesda | Spiritual | Truth heals when proprium rests |
+| Bethesda | Spiritual | Truth heals when the self rests |
 | Bread of Life | Spiritual (will) | Good appropriated — truth becomes life |
 | Man Born Blind | Spiritual-Celestial | Direct perception — intelligence from influx |
 | Lazarus | Celestial | Life from the Lord — resurrection |

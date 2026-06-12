@@ -168,7 +168,7 @@ Jaynes argued gods were cultural projections. Yet, 51.9% of Western NDE subjects
 The audit suggests Jaynes confused the **mechanism** with the **source**. The brain *does* have bicameral structures that can process "voices" (right-to-left transmission). However, in the "Golden Age" of Internal Respiration, this pathway was not a chaotic feedback loop of hallucinations. It was the "hardware" for a **tuned state of flow**.
 
 * **Internal Respiration:** High-bandwidth, silent, continuous connection (Flow). The "voices" are tacit and integrated.  
-* **Bicameral Hallucination:** The *broken* artifacts of that connection. When the "Flow" (Internal Respiration) collapsed due to the "Fall" (dominance of the self/proprium), the integrated signal fragmented into sporadic, loud, "hallucinatory" commands. Jaynes studied the *wreckage* of the ancient mind and called it the *origin*. He mistook the noise of the crash for the engine of the car.
+* **Bicameral Hallucination:** The *broken* artifacts of that connection. When the "Flow" (Internal Respiration) collapsed due to the "Fall" (dominance of the self/selfhood), the integrated signal fragmented into sporadic, loud, "hallucinatory" commands. Jaynes studied the *wreckage* of the ancient mind and called it the *origin*. He mistook the noise of the crash for the engine of the car.
 
 ## **VII. Synthesis: The Evolution of Agency**
 

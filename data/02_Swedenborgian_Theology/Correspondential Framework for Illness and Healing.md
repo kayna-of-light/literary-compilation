@@ -207,9 +207,9 @@ This is the surrender—the recognition that the self cannot heal the self. Only
 
 ## 6. Cancer and Falsity
 
-### Beyond Simple Proprium Mapping
+### Beyond Simple Selfhood Mapping
 
-The correspondence "cancer ↔ proprium" is **oversimplified**. A more accurate understanding:
+The correspondence "cancer ↔ selfhood" is **oversimplified**. A more accurate understanding:
 
 **Cancer = Falsity at the genetic/informational level**
 
@@ -232,7 +232,7 @@ The **location** of cancer indicates which spiritual function is affected. Swede
 
 ### Not "Ego Disease" Simply
 
-Cancer is not simply "the ego made manifest." It is falsity that has embedded itself at the informational level of a particular spiritual function. The proprium (self-love) creates the *vulnerability* to this falsity, but doesn't directly produce it.
+Cancer is not simply "the ego made manifest." It is falsity that has embedded itself at the informational level of a particular spiritual function. The self (self-love) creates the *vulnerability* to this falsity, but doesn't directly produce it.
 
 ---
 

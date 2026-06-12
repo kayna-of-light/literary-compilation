@@ -463,13 +463,13 @@ The adjuration closes the cycle for the third and final time: do not force what 
 
 Then the three declarations that constitute the doctrinal climax:
 
-**"Love is strong as death."** Divine love can reach the soul that has died spiritually. Death, in the correspondential sense, is not biological termination but the death of the natural man — the cessation of the proprium's resistance. Love is stronger than this death because it can penetrate even the proprium's final defense and regenerate what lies beneath.
+**"Love is strong as death."** Divine love can reach the soul that has died spiritually. Death, in the correspondential sense, is not biological termination but the death of the natural man — the cessation of the self's resistance. Love is stronger than this death because it can penetrate even the self's final defense and regenerate what lies beneath.
 
 **"Jealousy is cruel as the grave; the coals thereof are coals of fire, which hath a most vehement flame."** Divine zeal — the intensity of divine love directed toward the soul in bondage — is relentless. "Cruel as the grave" is not punishment but the fire of love that will not leave the beloved in death. The coals are celestial love in its inmost form: the most vehement flame of the divine will directed toward recovery.
 
 **"Many waters cannot quench love, neither can the floods drown it."** Waters are falsities; floods are evils in their totality. No quantity of falsity and no aggregate of evil can extinguish what has been sealed. This is the declaration of invulnerability — the state that the entire regeneration cycle produces.
 
-**"If a man would give all the substance of his house for love, it would utterly be contemned."** The final declaration closes the door against the proprium's fundamental strategy: to acquire spiritual goods as possessions. Love cannot be purchased. It cannot be earned by merit, bartered for in exchange, or manufactured by will-power. If a man offered everything the proprium owns — "all the substance of his house" — the offer would be rejected with contempt. Love is received or it is not. The proprium cannot produce it.
+**"If a man would give all the substance of his house for love, it would utterly be contemned."** The final declaration closes the door against the self's fundamental strategy: to acquire spiritual goods as possessions. Love cannot be purchased. It cannot be earned by merit, bartered for in exchange, or manufactured by will-power. If a man offered everything the self owns — "all the substance of his house" — the offer would be rejected with contempt. Love is received or it is not. The self cannot produce it.
 
 Together these four declarations describe a state that is permanent, invulnerable, and non-transactional — a state produced not by the soul's effort but by the entire process of seeking, finding, losing, longing, being wounded, growing, offering, and finally being sealed. The seal does not reward the process. It is the process's natural consequence — as fruit is the natural consequence of cultivation.
 
@@ -484,7 +484,7 @@ Together these four declarations describe a state that is permanent, invulnerabl
 | Coals of fire | Celestial love in its inmost form |
 | Many waters | All falsities |
 | Floods | All evils in their totality |
-| Substance of the house | Everything the proprium possesses |
+| Substance of the house | Everything the self possesses |
 
 ---
 
@@ -632,13 +632,13 @@ The seven passages presented in §4 are not independent poems. They are one narr
 
 **State 5 → State 6: From Inspection to Completion.** Having surveyed the garden and found it fruitful, the soul receives the Lord as family — as brother, not stranger. The desperate grip of State 2 ("I held him, and would not let him go") has relaxed into natural intimacy ("O that thou wert as my brother... I would kiss thee; yea, I should not be despised"). Without the evidence of cultivation — the vine flourishing, the tender grape appearing, the pomegranates budding — the soul could not receive the Lord with this openness. Inspection confirms what growth has accomplished; completion is the natural consequence.
 
-**State 6 → State 7: From Completion to Permanence.** The final passage seals what the cycle has produced. The seal on the heart and the seal on the arm make permanent what was accomplished through the whole process. The three declarations — love stronger than death, unquenchable by waters, unconcealing of the proprium's purchase — close every avenue by which the conjunction could be undone. Without the full process of seeking, finding, losing, longing, growing, and offering, there is nothing to seal.
+**State 6 → State 7: From Completion to Permanence.** The final passage seals what the cycle has produced. The seal on the heart and the seal on the arm make permanent what was accomplished through the whole process. The three declarations — love stronger than death, unquenchable by waters, unconcealing of the self's purchase — close every avenue by which the conjunction could be undone. Without the full process of seeking, finding, losing, longing, growing, and offering, there is nothing to seal.
 
 ### 7.2 The Rearrangement Test
 
 The logical necessity of the sequence can be demonstrated negatively: rearranging the states destroys the spiritual sense.
 
-If State 4 (withdrawal) preceded State 3 (conjunction), the Lord would withdraw before entering — absence before presence, which narrates nothing. If State 7 (seal) preceded State 4 (withdrawal), love would be declared invulnerable before the soul had experienced vulnerability — permanence before the process that produces permanence, which is the proprium's fantasy of acquiring spiritual goods without transformation. If State 5 (inspection) preceded State 2 (seeking), the garden would be surveyed before it was planted. If State 1 (awakening) and State 2 (seeking) were transposed, the soul would actively search before knowing that the beloved existed.
+If State 4 (withdrawal) preceded State 3 (conjunction), the Lord would withdraw before entering — absence before presence, which narrates nothing. If State 7 (seal) preceded State 4 (withdrawal), love would be declared invulnerable before the soul had experienced vulnerability — permanence before the process that produces permanence, which is the self's fantasy of acquiring spiritual goods without transformation. If State 5 (inspection) preceded State 2 (seeking), the garden would be surveyed before it was planted. If State 1 (awakening) and State 2 (seeking) were transposed, the soul would actively search before knowing that the beloved existed.
 
 No rearrangement produces a coherent spiritual narrative. The states are not interchangeable units that a compiler could shuffle. They are a causally necessary sequence in which each stage creates the conditions for the next. This is the difference between narrative and display — and it is the difference between the seven Ancient Word passages and the body catalogues that surround them.
 

@@ -196,7 +196,7 @@ However, Swedenborg extended this valid observation to dismiss all past-life cla
 
 The interpretive elements form an interconnected system traceable to Swedenborg's Cartesian inheritance. If mind and matter are categorically distinct substances (dualism), some mechanism must bridge them. The Limbus—a proposed semi-material interface—served this function in Swedenborg's system. But if the Limbus is necessary for soul coherence and is formed once during physical embodiment, then multiple incarnations become theoretically impossible; the Limbus would require "unfixing." This theoretical constraint led Swedenborg to interpret all reincarnation evidence as spirit influence rather than genuine previous-life memory. The same logic informed his Christology: if only one incarnation per soul is possible, Jesus's incarnation required special biological mechanisms.
 
-The Doctrine of Correspondences itself, however, contradicts this Cartesian chain. If correspondence is true—if the natural is the spiritual expressed in ultimates—then physical and spiritual are not separate substances requiring a bridging membrane. The physical world represents the final degree of the discrete degrees, not a separate ontological floor. Death involves the removal of the biological filtering mechanism, not transition between incommensurable substances. The soul's coherence derives from biographical continuity (the proprium formed through accumulated choices), not from a material container.
+The Doctrine of Correspondences itself, however, contradicts this Cartesian chain. If correspondence is true—if the natural is the spiritual expressed in ultimates—then physical and spiritual are not separate substances requiring a bridging membrane. The physical world represents the final degree of the discrete degrees, not a separate ontological floor. Death involves the removal of the biological filtering mechanism, not transition between incommensurable substances. The soul's coherence derives from biographical continuity (the self formed through accumulated choices), not from a material container.
 
 This analysis does not presume to establish definitively which of Swedenborg's claims are correct and which are erroneous. It observes that certain elements of his framework align consistently with empirical data while others do not, and it proposes a plausible explanation for this divergence: the observational elements derive from direct perception; the problematic elements derive from philosophical interpretation shaped by 18th-century assumptions that subsequent inquiry has superseded.
 
@@ -238,7 +238,7 @@ Within the refined correspondential framework, reincarnation is not the norm but
 
 In cases where the previous personality died from violent trauma and both bodies were autopsied, birthmarks and birth defects in the current child correspond to the fatal wounds of the previous personality with 88% accuracy (Stevenson, 1997). Children bore birthmarks matching bullet entry and exit wounds, stab wounds, and blunt force trauma sites—correspondences too precise and numerous to attribute to coincidence.
 
-This pattern is inexplicable under materialist assumptions. There is no known mechanism by which trauma to one body could produce birthmarks on a different body decades later. The Swedenborgian framework provides interpretive coherence: if the soul carries its biographical history (the "proprium"), and violent death represents traumatic interruption requiring restoration, then the physical marks express the unhealed spiritual wound—the "printing" of spiritual state onto physical form.
+This pattern is inexplicable under materialist assumptions. There is no known mechanism by which trauma to one body could produce birthmarks on a different body decades later. The Swedenborgian framework provides interpretive coherence: if the soul carries its biographical history (the "self"), and violent death represents traumatic interruption requiring restoration, then the physical marks express the unhealed spiritual wound—the "printing" of spiritual state onto physical form.
 
 **Verdict**: The consciousness survival evidence from both NDE and DOPS research exceeds what coincidence or materialist explanation can accommodate. **STRAIN ONE CONFIRMED**.
 
@@ -634,7 +634,7 @@ But the premise is flawed. **The interaction problem presupposes a dualism that 
 
 3. **The Mall World phenomenon**: Thousands of experiencers report accessing a consistent, hyper-real topography during sleep—the same "spiritual-natural" reality, accessed without biological filters. No limbus is involved in this transition; the biological brain simply stops filtering.
 
-**The Refined Position**: The true "container" of identity is not a material skin—it is **biography**. The history of states, choices, and loves accumulated in time forms the irrevocable vessel. The proprium (the sense of self built through experience) provides coherence, not a physical membrane. We are not ghosts needing a bucket; we are "concrete spirit" in seed-state formation.
+**The Refined Position**: The true "container" of identity is not a material skin—it is **biography**. The history of states, choices, and loves accumulated in time forms the irrevocable vessel. The self (the sense of self built through experience) provides coherence, not a physical membrane. We are not ghosts needing a bucket; we are "concrete spirit" in seed-state formation.
 
 ### 5.2 Biological Determinism About Jesus
 
@@ -644,7 +644,7 @@ But the premise is flawed. **The interaction problem presupposes a dualism that 
 
 More fundamentally, the biological theory is simply wrong. Modern genetics shows that both parents contribute to the genetic constitution of offspring. The soul-from-sire/body-from-dam model has no empirical basis.
 
-**The Correction**: Jesus was a **complete human soul** who achieved perfect alignment with the Divine through the **removal of obstruction** (the proprium). He was not the Lord *disguised* as a human; he was a human *filled* with the Lord. The mechanism was not biological origin but spiritual transparency.
+**The Correction**: Jesus was a **complete human soul** who achieved perfect alignment with the Divine through the **removal of obstruction** (the self). He was not the Lord *disguised* as a human; he was a human *filled* with the Lord. The mechanism was not biological origin but spiritual transparency.
 
 **Evidence Supporting the Correction**:
 
@@ -652,7 +652,7 @@ More fundamentally, the biological theory is simply wrong. Modern genetics shows
 
 2. **The vulnerability of Gethsemane**: "Not my will, but yours be done" (Luke 22:42). If Jesus's soul was inherently Divine, there would be no distinction between his will and the Father's will. The prayer indicates genuine human will submitting to divine will—alignment, not identity.
 
-3. **The process of glorification**: Swedenborg describes Jesus's glorification as a **process**—not instantaneous but progressive, achieved through temptation, combat, and victory over the proprium. A process implies change; inherent divinity does not change. The glorification makes sense only if Jesus began as human and progressively united with the Divine.
+3. **The process of glorification**: Swedenborg describes Jesus's glorification as a **process**—not instantaneous but progressive, achieved through temptation, combat, and victory over the self. A process implies change; inherent divinity does not change. The glorification makes sense only if Jesus began as human and progressively united with the Divine.
 
 **The Refined Position**: The "Divine Human" is not exclusive to Jesus—it is the Lord's capacity to be **personal** with every human, appearing in forms the soul can receive. The Being of Light in NDEs is the Lord appearing to Christians as Jesus, to Buddhists as Amida, to secularists as Light—constant reality, variable form. Jesus achieved maximal transparency to this reality; others achieve degrees of transparency according to their reception.
 

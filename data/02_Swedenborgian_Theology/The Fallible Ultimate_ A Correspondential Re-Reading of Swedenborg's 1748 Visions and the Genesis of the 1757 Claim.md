@@ -83,7 +83,7 @@ The three numbers of Experience II are not stages in a linear count. Swedenborg'
 - **12** signifies all things of faith and of the church — the complete body of spiritual knowledge (*AC* 577, 2089, 3272, 3858).
 - **4** signifies conjunction (*AC* 1686, 9103).
 
-In the context of vastation — where correspondences appear in their *opposite sense* — 48 signifies the total body of the church's knowledge now fully conjoined with evil. All things of faith have been appropriated by self-love. This is exhaustive corruption: not a few doctrines gone astray, but the entire architecture of revealed truth claimed by the proprium.
+In the context of vastation — where correspondences appear in their *opposite sense* — 48 signifies the total body of the church's knowledge now fully conjoined with evil. All things of faith have been appropriated by self-love. This is exhaustive corruption: not a few doctrines gone astray, but the entire architecture of revealed truth claimed by the self.
 
 **The number 53** is 48 + 5:
 
@@ -203,11 +203,11 @@ This analysis is not an attack on Swedenborg. It is the application of his own r
 
 Swedenborg's correspondential system is the most powerful interpretive framework yet applied to spiritual phenomena. Its predictions, tested against modern empirical data — NDE phenomenology, past-life memory cases, myth formation patterns — achieve hit rates that no competing framework approaches. The system *works*.
 
-But the system's creator was a human being operating within the constraints of his own century, his own education, and his own *proprium*. He was a natural philosopher trained in Cartesian mechanics, a man who measured and catalogued, a mind that sought to make spiritual truth "credible among men" by anchoring it in verifiable externals. When confronted with a vision whose numbers and images described a spiritual state, his instinct was to fix that state to a measurable natural ultimate — the calendar year.
+But the system's creator was a human being operating within the constraints of his own century, his own education, and his own *self*. He was a natural philosopher trained in Cartesian mechanics, a man who measured and catalogued, a mind that sought to make spiritual truth "credible among men" by anchoring it in verifiable externals. When confronted with a vision whose numbers and images described a spiritual state, his instinct was to fix that state to a measurable natural ultimate — the calendar year.
 
 This is the pattern throughout his work: the infinite mechanisms of spiritual law, faithfully perceived, then anchored to the fallible ultimates of the 18th-century natural world. The *limbus* is another instance — a material "skin" posited to solve the Cartesian interaction problem, when the framework itself, honestly applied, dissolves the dualism that creates the problem. The biological theory of the soul's origin through the father is another — an 18th-century reproductive theory elevated to theological principle.
 
-In each case, the *framework* is sound. The *application* reflects the vessel's limitations. This is exactly what the framework itself predicts: constant state, variable form. The spiritual truth Swedenborg received was constant. The form in which he expressed it was shaped by his natural mind, his era, and his proprium.
+In each case, the *framework* is sound. The *application* reflects the vessel's limitations. This is exactly what the framework itself predicts: constant state, variable form. The spiritual truth Swedenborg received was constant. The form in which he expressed it was shaped by his natural mind, his era, and his self.
 
 ---
 
@@ -231,7 +231,7 @@ That was Swedenborg's mission. He understood this with perfect clarity. He simpl
 
 Swedenborg's correspondential framework, when applied consistently to any text — including Swedenborg's own diary — does not yield calendar dates. It yields spiritual states. Numbers are forms of quality, not quantities of time. Natural images are ultimates of spiritual causes, not illustrations of chronological events. The literal sense guards the interior sense; the intellectual cloudiness that accompanies spiritual perception is a cherubic boundary, not a defect to be overcome by forced interpretation.
 
-The 1757 claim is a case study in the very phenomenon Swedenborg's framework describes: the natural mind's compulsion to "fix" infinite spiritual realities to finite terrestrial particulars. The man who saw more deeply into the internal sense of Scripture than perhaps anyone before or since could not resist fixing his own visions to a date on his own century's calendar. The framework that explains everything else also explains this — the *proprium* operates in the very act of reception, shaping the form of what is received according to the receiver's own loves and limitations.
+The 1757 claim is a case study in the very phenomenon Swedenborg's framework describes: the natural mind's compulsion to "fix" infinite spiritual realities to finite terrestrial particulars. The man who saw more deeply into the internal sense of Scripture than perhaps anyone before or since could not resist fixing his own visions to a date on his own century's calendar. The framework that explains everything else also explains this — the *self* operates in the very act of reception, shaping the form of what is received according to the receiver's own loves and limitations.
 
 The visions of 1748 remain powerful — more powerful, in fact, when freed from the Gregorian anchor. They describe, with the precision of a clinical diagnosis, the complete spiritual death of a religious order that retains every external form while having lost every internal connection. They reveal the mission of restoration: the reinstatement of the holy into a system that has become total but hollow.
 

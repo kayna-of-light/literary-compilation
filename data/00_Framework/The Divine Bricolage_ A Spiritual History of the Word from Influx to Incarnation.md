@@ -7,7 +7,7 @@
 > - **#2** [Biological Determinism about Jesus](../00_Framework/Epistle%20%E2%80%94%20The%20Divine%20Marriage%20and%20the%20Expression%20of%20the%20Lord%20in%20Ultimates.md) — Section 6.1 uses "soul from the Father / body from the mother" framing; current position: Jesus was a human being whose ruling love was oriented toward the Divine, so the Lord flowed through him without obstruction. This is the path of regeneration any human can walk.
 > - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The%20Bifurcated%20Gnosis_%20The%20Bene%20Qedem,%20the%20Magian%20Institution,%20and%20the%20Isaac-Ishmael%20Dialectic%20in%20the%20Transmission%20of%20the%20Ancient%20Word.md) — This document frames "Magi" as inheritors of a primary eastern stream of truth; current position treats the *Bene Qedem* ("Children of the East") as primary carriers of correspondential/nature wisdom, with the Magian priesthood as a later institutionalizing/appropriating layer.
 > 
-> **Summary**: #2: The proprium (self) is not removed but oriented—Jesus's ruling love was always toward the Divine. #18: Reframe Magi → Bene Qedem as primary carriers.
+> **Summary**: #2: The self is not removed but oriented—Jesus's ruling love was always toward the Divine. #18: Reframe Magi → Bene Qedem as primary carriers.
 > ---
 
 ## **Part I: The Light and the Vessel: A New Edict for History**
@@ -45,7 +45,7 @@ In this state, the "internal mind" and "natural mind" were in perfect harmony. A
 The narrative of the "Fall" in Genesis is not a literal, historical event but a divinely composed allegory for a vast, multi-millennial *cognitive shift* in the human mind. This event represents the "decoupling" of the human mind , a turning away from the internal state of influx.
 
 * **"Adam"** represents the internal, innate understanding of the celestial man.  
-* **"Eve"** represents the external aspect of the mind, the *proprium* or self-love.  
+* **"Eve"** represents the external aspect of the mind, the *self* or self-love.  
 * **"The Serpent"** represents the "sensual principle"—the part of the mind that reasons *only* from "external, sensory data".
 
 The "Fall" is the story of the external mind ("Eve") turning away from its internal, innate understanding ("Adam") to be guided by purely external, sensory-based reasoning ("the Serpent").  
@@ -98,7 +98,7 @@ The "natural history" view, again, correctly describes the "body." It finds "no 
 This academic finding is a perfect description of the *external* forging of the vessel. The *spiritual cause*—the Lord's influx—is what provided the "spiritual gravitation" that guided the "unconscious bricoleurs" to seize upon this *specific* "historical kernel" and forge it into the central "charter myth." The Lord *ensured* this event happened, and was recorded in this way, because it *is* the perfect external correspondence for the liberation *He* performs in *every* human soul for all time :
 
 * **Egypt** corresponds to the **natural, worldly mind** in a state of spiritual bondage.  
-* **Pharaoh** corresponds to the **ruling love of self** (the *proprium*) that enslaves the mind.  
+* **Pharaoh** corresponds to the **ruling love of self** (the *self*) that enslaves the mind.  
 * **The Israelites** correspond to the **spiritual truths and affections** *within* the person that are held in bondage.  
 * **The Exodus** itself corresponds to the **universal process of spiritual liberation and regeneration**, by which the Lord leads the soul from bondage to freedom.
 
@@ -133,7 +133,7 @@ This is the narrative's culmination, the "coming of the Christ." The single thre
 
 The scholarly distinction between the "historical Jesus" and the "Christ of faith" is, in fact, the most profound and unintentional theological insight of the historical-critical method. It aligns perfectly with the central truth of the Incarnation.
 
-> **[CORRECTION #2]**: The following framing uses "soul from the Father / body from the mother" language reflecting 18th-century embryology. Jesus was a human being whose ruling love was oriented toward the Divine—not toward self—so the Lord flowed through him without obstruction. The proprium (self) is not removed; it is the *orientation* that matters. This is the path of regeneration any human can walk.
+> **[CORRECTION #2]**: The following framing uses "soul from the Father / body from the mother" language reflecting 18th-century embryology. Jesus was a human being whose ruling love was oriented toward the Divine—not toward self—so the Lord flowed through him without obstruction. The self is not removed; it is the *orientation* that matters. This is the path of regeneration any human can walk.
 
 * **The "Historical Jesus":** This is the external, assumed human nature from the mother, Mary. This was the part "visible to the world," finite, limited, and "subject to temptation". This is the *vessel*, the final and perfect "ultimate."  
 * **The "Christ of Faith":** This is the internal, Divine soul, which was **Jehovah Himself**. This is the *influx*.

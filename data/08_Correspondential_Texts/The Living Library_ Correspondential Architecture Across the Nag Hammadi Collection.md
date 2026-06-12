@@ -5,7 +5,7 @@
 
 > **Abstract.** The Nag Hammadi Library — 45 texts from at least ten distinct traditions, buried in Upper Egypt circa 367 CE and discovered in 1945 — has been read primarily as a Gnostic collection illuminating the diversity of early Christianity. This study applies the Swedenborgian doctrine of correspondences systematically to the entire library, demonstrating that the texts share a coherent system of spiritual perception that transcends their theological differences. Six texts explicitly announce their own correspondential structure (Thomas, Philip, Testimony of Truth, Apocryphon of James, Treatise on the Resurrection, Apocalypse of Paul). The same natural-to-spiritual correspondences — light as wisdom, fire as love in both positive and negative senses, water as truth at the natural degree, garments as external truths, seeds as interior truths — appear with functional consistency across Sethian, Valentinian, Thomasine, Hermetic, and non-Gnostic wisdom traditions. Critically, the Teachings of Silvanus — a non-Gnostic Christian wisdom text — explicitly uses the word "correspondence" and demonstrates that the system is independent of Gnostic cosmology. Of 45 texts analyzed, four are correspondentially extraordinary, fourteen are rich, and approximately 76% contain identifiable correspondential material. The distribution pattern — correlated with tradition and self-referential hermenautics rather than text length — is consistent with a genuine perceptual capacity accessed to different degrees by different communities. The study proposes that the library is best understood not as a Gnostic collection but as a correspondential archive: a fourth-century snapshot of a mode of consciousness that was still active enough to produce literature but already contracting enough that the texts had to explain, rather than simply employ, the perception that animated them.
 
-> **Keywords.** Nag Hammadi Library, correspondence, discrete degrees, Swedenborgian theology, Gnostic texts, Ancient Word, spiritual sense, proprium, self-knowledge, influx, Gospel of Thomas, Gospel of Philip, Apocryphon of John, correspondential architecture
+> **Keywords.** Nag Hammadi Library, correspondence, discrete degrees, Swedenborgian theology, Gnostic texts, Ancient Word, spiritual sense, selfhood, self-knowledge, influx, Gospel of Thomas, Gospel of Philip, Apocryphon of John, correspondential architecture
 
 ---
 
@@ -37,12 +37,12 @@
   - [5.5 Discourse on the Eighth and Ninth: The Hermetic Octave](#55-discourse-on-the-eighth-and-ninth-the-hermetic-octave)
   - [5.6 Valentinian Exposition: Baptismal Liturgy as Systematic Correspondence](#56-valentinian-exposition-baptismal-liturgy-as-systematic-correspondence)
   - [5.7 Tripartite Tractate: Seven Names for One Reality](#57-tripartite-tractate-seven-names-for-one-reality)
-- [6. The Proprium Personified: Yaldabaoth as Structural Constant](#6-the-proprium-personified-yaldabaoth-as-structural-constant)
+- [6. The Self Personified: Yaldabaoth as Structural Constant](#6-the-self-personified-yaldabaoth-as-structural-constant)
   - [6.1 The Declaration: "I Am God and There Is No Other"](#61-the-declaration-i-am-god-and-there-is-no-other)
   - [6.2 Six Texts, One Formula](#62-six-texts-one-formula)
   - [6.3 The Arrogant One in the Letter of Peter to Philip](#63-the-arrogant-one-in-the-letter-of-peter-to-philip)
   - [6.4 The Old Man in the Seventh Heaven](#64-the-old-man-in-the-seventh-heaven)
-  - [6.5 Proprium as Cosmological Principle](#65-proprium-as-cosmological-principle)
+  - [6.5 Selfhood as Cosmological Principle](#65-selfhood-as-cosmological-principle)
 - [7. The Correspondential Vocabulary: Natural Objects as Spiritual Forms](#7-the-correspondential-vocabulary-natural-objects-as-spiritual-forms)
   - [7.1 Light and Darkness: The Primary Pair](#71-light-and-darkness-the-primary-pair)
   - [7.2 Fire: Divine Love and Destructive Passion](#72-fire-divine-love-and-destructive-passion)
@@ -114,9 +114,9 @@ This thesis takes them at their word.
 
 What follows is a systematic reading of all forty-five texts in the Nag Hammadi Library through the doctrine of correspondences — the framework articulated most completely by Emanuel Swedenborg (1688–1772), in which every natural object corresponds to a spiritual reality through functional analogy. Light corresponds to wisdom because light enables the eye to distinguish forms, which is the function of the intellect. Fire corresponds to love because fire is the active principle that gives light its existence, as love gives wisdom its existence. Water corresponds to truth at the natural degree because water sustains natural life as truth sustains natural understanding. The correspondence is not arbitrary — it is grounded in the function of the object.
 
-This reading was not imposed on the texts. It was demanded by them. The question is not whether Swedenborg's framework "applies" to the Nag Hammadi Library. The question is what happens when the framework the texts themselves announce is consistently applied — and the answer, across forty-five texts and thirteen codices, is that patterns emerge that remain invisible under any other interpretive lens: a consistent vocabulary of natural images expressing spiritual realities; a systemic architecture of discrete degrees; a personification of the proprium as cosmic antagonist; a principle of self-knowledge as the universal salvific mechanism; and a numerical consistency (four lights, seven archons, twelve aeons, seventy-two powers) that links texts with no demonstrable literary dependence.
+This reading was not imposed on the texts. It was demanded by them. The question is not whether Swedenborg's framework "applies" to the Nag Hammadi Library. The question is what happens when the framework the texts themselves announce is consistently applied — and the answer, across forty-five texts and thirteen codices, is that patterns emerge that remain invisible under any other interpretive lens: a consistent vocabulary of natural images expressing spiritual realities; a systemic architecture of discrete degrees; a personification of the self as cosmic antagonist; a principle of self-knowledge as the universal salvific mechanism; and a numerical consistency (four lights, seven archons, twelve aeons, seventy-two powers) that links texts with no demonstrable literary dependence.
 
-The thesis proceeds as follows. Section 2 establishes the methodological framework, distinguishing correspondence from allegory, metaphor, symbolism, and Jungian archetype, and defining the criteria by which correspondential content is identified and classified. Section 3 examines the six texts that explicitly announce their own correspondential method. Section 4 provides extended analysis of the four "extraordinary" tractates — Thomas, Philip, the Apocryphon of John, and the Gospel of Truth — as four distinct modes of compositional correspondence. Sections 5 through 11 trace specific correspondential principles across the library: discrete degrees, the proprium, natural objects, self-knowledge, regeneration, antithetical correspondence, and numerical architecture. Section 12 presents the critical argument that non-Gnostic texts in the library use the identical correspondential vocabulary, proving the system predates and transcends the Gnostic tradition. Section 13 addresses the marginal and fragmentary texts that resist or cannot sustain the reading. Section 14 discusses what the cumulative evidence implies for scholarship, for the Ancient Word hypothesis, and for the nature of the library itself. Section 15 concludes. The appendix provides a complete tractate-by-tractate inventory of correspondential content.
+The thesis proceeds as follows. Section 2 establishes the methodological framework, distinguishing correspondence from allegory, metaphor, symbolism, and Jungian archetype, and defining the criteria by which correspondential content is identified and classified. Section 3 examines the six texts that explicitly announce their own correspondential method. Section 4 provides extended analysis of the four "extraordinary" tractates — Thomas, Philip, the Apocryphon of John, and the Gospel of Truth — as four distinct modes of compositional correspondence. Sections 5 through 11 trace specific correspondential principles across the library: discrete degrees, the self, natural objects, self-knowledge, regeneration, antithetical correspondence, and numerical architecture. Section 12 presents the critical argument that non-Gnostic texts in the library use the identical correspondential vocabulary, proving the system predates and transcends the Gnostic tradition. Section 13 addresses the marginal and fragmentary texts that resist or cannot sustain the reading. Section 14 discusses what the cumulative evidence implies for scholarship, for the Ancient Word hypothesis, and for the nature of the library itself. Section 15 concludes. The appendix provides a complete tractate-by-tractate inventory of correspondential content.
 
 ---
 
@@ -241,7 +241,7 @@ Each element of the baptismal narrative is replaced with its spiritual referent.
 
 This is not allegory. Allegory would assign arbitrary meanings. The Testimony of Truth assigns meanings grounded in function: a river is a channel through which water flows, and the body is a channel through which desire flows. Water is the medium that sustains what is natural, and desire is the medium that sustains natural life. A baptist is one who immerses, and the archon of the womb is the power that immerses the soul in bodily existence. The mappings are organic.
 
-The text also presents the serpent in Eden as a figure of Christ — the one who brought knowledge — and reads the prohibitions of Genesis as the Demiurge's efforts to keep humanity in ignorance. This is a well-known Gnostic inversion, but what makes it correspondentially significant is the method: the Testimony of Truth reads Genesis as a text written in correspondence, where every character and every object has an interior referent that may be the opposite of its surface appearance. The serpent "in good correspondence" signifies the prudence of the sensory mind directed toward truth; the tree of knowledge corresponds to the knowledge of good and evil that the proprium ("this is mine" consciousness) both fears and seeks.
+The text also presents the serpent in Eden as a figure of Christ — the one who brought knowledge — and reads the prohibitions of Genesis as the Demiurge's efforts to keep humanity in ignorance. This is a well-known Gnostic inversion, but what makes it correspondentially significant is the method: the Testimony of Truth reads Genesis as a text written in correspondence, where every character and every object has an interior referent that may be the opposite of its surface appearance. The serpent "in good correspondence" signifies the prudence of the sensory mind directed toward truth; the tree of knowledge corresponds to the knowledge of good and evil that the self ("this is mine" consciousness) both fears and seeks.
 
 ### 3.4 Apocryphon of James: "In Parables… and You Did Not Understand"
 
@@ -253,7 +253,7 @@ This is a double indictment. The parables were correspondence — natural images
 
 This diagnosis is methodologically crucial. It establishes that the correspondential mode of composition is not a literary device but a function of the spiritual-natural relationship. If a teaching arrived "openly" — without natural clothing — it would be received at whatever level the hearer currently occupies, which is the natural level. Only correspondence forces the hearer to reach for the interior, because the exterior, taken at face value, does not make natural sense.
 
-The Apocryphon of James also teaches the paradox of fullness and emptiness: "Become full, and leave no space within you empty, for he who is coming can mock you." "Be filled, and leave nothing within you empty! For though you are able to fill yourselves, even he who is empty will fill you." This is the language of reception. The soul is a vessel — it can be filled with its own content (the proprium) or with what flows in from above (influx). A vessel already full of itself has no room for what is given. The Apocryphon of James frames this in explicitly correspondential terms: the interior space of the person corresponds to the capacity to receive. Fullness = reception of divine content. Emptiness = absence of self-derived content. The paradox — "fill yourselves so that you may be filled" — describes the prepared vessel: full of the desire to receive, empty of the claim to possess.
+The Apocryphon of James also teaches the paradox of fullness and emptiness: "Become full, and leave no space within you empty, for he who is coming can mock you." "Be filled, and leave nothing within you empty! For though you are able to fill yourselves, even he who is empty will fill you." This is the language of reception. The soul is a vessel — it can be filled with its own content (the self) or with what flows in from above (influx). A vessel already full of itself has no room for what is given. The Apocryphon of James frames this in explicitly correspondential terms: the interior space of the person corresponds to the capacity to receive. Fullness = reception of divine content. Emptiness = absence of self-derived content. The paradox — "fill yourselves so that you may be filled" — describes the prepared vessel: full of the desire to receive, empty of the claim to possess.
 
 ### 3.5 Treatise on the Resurrection: "These Are the Symbols and the Images"
 
@@ -351,7 +351,7 @@ From the Monad emanates Barbelo — the First Thought — through whom the four 
 
 This is not speculative theology imposed on the text. The text itself assigns these aeons to these lights in this order. The correspondential reading reveals that the four lights describe four degrees of spiritual process — from reception through cognition through integration to completion — each comprising three aspects that together form a complete function.
 
-The fall of Sophia and the creation by Yaldabaoth is the cosmological expression of the proprium. Sophia acts alone — "without the consent of the Spirit and without the knowledge of her agreement" — and produces a misshapen offspring. This is the will acting without wisdom, desire without understanding. Yaldabaoth then declares "I am God and there is no other God beside me" — the proprium's fundamental statement, receiving influx and claiming it as self-generated.
+The fall of Sophia and the creation by Yaldabaoth is the cosmological expression of the self. Sophia acts alone — "without the consent of the Spirit and without the knowledge of her agreement" — and produces a misshapen offspring. This is the will acting without wisdom, desire without understanding. Yaldabaoth then declares "I am God and there is no other God beside me" — the self's fundamental statement, receiving influx and claiming it as self-generated.
 
 The body-creation passage — in which 365 angels are assigned to create the human body, each angel responsible for a specific part — is the most explicit correspondence map in the entire library. The text names seven "substance-souls" that compose the body: goodness (bone), foreknowledge (sinew), divinity (flesh), lordship (marrow), kingdom (blood), envy (skin), understanding (hair). The sequence moves from structural core (bone) to outermost emanation (hair), each layer corresponding to a spiritual quality that the soul expresses through that bodily system. The text attributes this system to "the book of Zoroaster" — a direct citation of an external source, suggesting that the angels-and-body system is not the Apocryphon's invention but its inheritance from an older tradition.
 
@@ -501,15 +501,15 @@ The Tripartite Tractate's revised Valentinian theology replaces Sophia with the 
 
 ---
 
-## 6. The Proprium Personified: Yaldabaoth as Structural Constant
+## 6. The Self Personified: Yaldabaoth as Structural Constant
 
 ### 6.1 The Declaration: "I Am God and There Is No Other"
 
-No single motif in the Nag Hammadi Library is more consistently reproduced than the Demiurge's declaration of sole divinity. The formula varies slightly in wording but is structurally identical across every text that includes it: a being who has received existence from above declares itself the source of all existence, denying the reality of anything above or beyond it. This is the proprium — the love of self — personified as cosmological principle.
+No single motif in the Nag Hammadi Library is more consistently reproduced than the Demiurge's declaration of sole divinity. The formula varies slightly in wording but is structurally identical across every text that includes it: a being who has received existence from above declares itself the source of all existence, denying the reality of anything above or beyond it. This is the self — the love of self — personified as cosmological principle.
 
-In Swedenborgian terms, the proprium is the illusory sense of self-originating life. Every created being receives life from the Divine and must receive it continuously — life flows in, it is not generated from within. The proprium is the state in which this reception is forgotten and the life received is claimed as one's own. It is not evil in itself — it is the necessary vessel of selfhood, the container in which individual identity forms. It becomes evil when it closes against the source from which it receives — when the vessel declares itself the fountain.
+In Swedenborgian terms, the self is the illusory sense of self-originating life. Every created being receives life from the Divine and must receive it continuously — life flows in, it is not generated from within. The self is the state in which this reception is forgotten and the life received is claimed as one's own. It is not evil in itself — it is the necessary vessel of selfhood, the container in which individual identity forms. It becomes evil when it closes against the source from which it receives — when the vessel declares itself the fountain.
 
-The Demiurge's declaration is this spiritual principle expressed as cosmic narrative. The declaration is not historical memory or mythological invention. It is correspondence: the Demiurge IS the proprium at the cosmic degree, exactly as the proprium IS the Demiurge at the personal degree.
+The Demiurge's declaration is this spiritual principle expressed as cosmic narrative. The declaration is not historical memory or mythological invention. It is correspondence: the Demiurge IS the self at the cosmic degree, exactly as the self IS the Demiurge at the personal degree.
 
 ### 6.2 Six Texts, One Formula
 
@@ -521,36 +521,36 @@ The declaration appears in at least six independent texts, with no demonstrable 
 | **Hypostasis of the Archons** (II,4) | "It is I who am God; there is none apart from me" | After gaining power over matter |
 | **On the Origin of the World** (II,5) | "I am God, and there is no other apart from me" | Immediately rebuked by a voice from above |
 | **Second Treatise of the Great Seth** (VII,2) | "I am God, and there is none greater than I… I am a jealous God" | Attributed to the Hebdomad |
-| **Gospel of the Egyptians** (III,2) | Sakla makes the proprium declaration | After creating the world |
-| **Second Apocalypse of James** (V,4) | The proprium declaration appears in narrative | As part of the cosmological framework |
+| **Gospel of the Egyptians** (III,2) | Sakla makes the self-claiming declaration | After creating the world |
+| **Second Apocalypse of James** (V,4) | The self-claiming declaration appears in narrative | As part of the cosmological framework |
 
 The consistency is remarkable. Different authors, different schools (Sethian, Valentinian, and unclassifiable), different literary genres — and the same declaration, the same structural position (after receiving power, before being rebuked), the same diagnostic function.
 
-In each case, the declaration is immediately followed by correction. A voice from above — usually identified as Sophia or Zoe — responds: "You are mistaken, Samael" (Hypostasis of the Archons), or the text makes clear that the Demiurge's ignorance is the condition from which the narrative proceeds. The correction is never destruction. The Demiurge is not killed or removed. The Demiurge is shown to be wrong — shown that there IS something above, something from which it received the life it claims as its own. This is the spiritual process of recognizing the proprium: not the annihilation of selfhood but the recognition that selfhood is a vessel, not a source.
+In each case, the declaration is immediately followed by correction. A voice from above — usually identified as Sophia or Zoe — responds: "You are mistaken, Samael" (Hypostasis of the Archons), or the text makes clear that the Demiurge's ignorance is the condition from which the narrative proceeds. The correction is never destruction. The Demiurge is not killed or removed. The Demiurge is shown to be wrong — shown that there IS something above, something from which it received the life it claims as its own. This is the spiritual process of recognizing the self: not the annihilation of selfhood but the recognition that selfhood is a vessel, not a source.
 
-In the Hypostasis of the Archons, the correction takes a particularly vivid form. Zoe — Life herself — breathes in Yaldabaoth's face, and her breath becomes a flaming angel that binds him and casts him down into Tartaros. The breath of Life is the influx from above; when it arrives, the proprium is revealed as what it is: a power operating in borrowed authority, not its own. The fire that emerges from Zoe's breath is love — divine love that the proprium experiences as binding and judgment, because love received by a closed vessel feels like condemnation.
+In the Hypostasis of the Archons, the correction takes a particularly vivid form. Zoe — Life herself — breathes in Yaldabaoth's face, and her breath becomes a flaming angel that binds him and casts him down into Tartaros. The breath of Life is the influx from above; when it arrives, the self is revealed as what it is: a power operating in borrowed authority, not its own. The fire that emerges from Zoe's breath is love — divine love that the self experiences as binding and judgment, because love received by a closed vessel feels like condemnation.
 
 ### 6.3 The Arrogant One in the Letter of Peter to Philip
 
-The Letter of Peter to Philip (VIII,2) compresses the proprium narrative into a compact formula. The Christ explains to the apostles:
+The Letter of Peter to Philip (VIII,2) compresses the self-claiming narrative into a compact formula. The Christ explains to the apostles:
 
 > "He became proud on account of the praise of the powers. He became an envier and he wanted to make an image in the place of an image, and a form in the place of a form."
 
-"An image in the place of an image" — a copy substituted for the original, a counterfeit put where the genuine correspondence should stand. The Arrogant One does not create from nothing. He makes images — copies of things that already exist. But his copies are disconnected from the source; they are form without interior content, correspondence without influx. This is what the proprium does: it produces elaborate constructions that look like the real thing but are hollow — not because they lack intelligence or beauty, but because they lack the connection to the source from which the original derives its life.
+"An image in the place of an image" — a copy substituted for the original, a counterfeit put where the genuine correspondence should stand. The Arrogant One does not create from nothing. He makes images — copies of things that already exist. But his copies are disconnected from the source; they are form without interior content, correspondence without influx. This is what the self does: it produces elaborate constructions that look like the real thing but are hollow — not because they lack intelligence or beauty, but because they lack the connection to the source from which the original derives its life.
 
-The text explicitly identifies the battleground: "The archons are fighting against the inner man." The proprium does not attack from outside. It attacks interior — it fights against the capacity to receive from above, because every act of reception threatens the proprium's claim to self-origination.
+The text explicitly identifies the battleground: "The archons are fighting against the inner man." The self does not attack from outside. It attacks interior — it fights against the capacity to receive from above, because every act of reception threatens the self's claim to self-origination.
 
 ### 6.4 The Old Man in the Seventh Heaven
 
-The Apocalypse of Paul presents the proprium in a more subtle form. In the seventh heaven — the highest reach of the natural degree — Paul encounters an old man on a brilliant throne who demands credentials. This is not Yaldabaoth in the crude sense. This is the proprium at its most refined: the natural mind illuminated to its maximum capacity, shining with a light "brighter than the sun by seven times," yet still demanding to know by what right a soul ascends beyond it.
+The Apocalypse of Paul presents the self in a more subtle form. In the seventh heaven — the highest reach of the natural degree — Paul encounters an old man on a brilliant throne who demands credentials. This is not Yaldabaoth in the crude sense. This is the self at its most refined: the natural mind illuminated to its maximum capacity, shining with a light "brighter than the sun by seven times," yet still demanding to know by what right a soul ascends beyond it.
 
-The seventh heaven is the place where natural knowing reaches its apex — where the intellect, operating at full capacity, produces results that look identical to spiritual knowing. The old man is brilliant. His throne shines. He asks reasonable questions. But his function is obstruction: he gatekeeps the boundary between what the natural mind can know and what requires spiritual reception to perceive. The password Paul must give — "I am Paul, who was convinced by myself" — is ironically proprium-language that serves as paradoxical passage: the soul that knows itself as self-convicted (aware of its own limitation) can pass through the gate that the soul claiming self-authority cannot.
+The seventh heaven is the place where natural knowing reaches its apex — where the intellect, operating at full capacity, produces results that look identical to spiritual knowing. The old man is brilliant. His throne shines. He asks reasonable questions. But his function is obstruction: he gatekeeps the boundary between what the natural mind can know and what requires spiritual reception to perceive. The password Paul must give — "I am Paul, who was convinced by myself" — is ironically self-claiming language that serves as paradoxical passage: the soul that knows itself as self-convicted (aware of its own limitation) can pass through the gate that the soul claiming self-authority cannot.
 
-### 6.5 Proprium as Cosmological Principle
+### 6.5 Selfhood as Cosmological Principle
 
-The consistency of the proprium declaration across the library is evidence not of literary copying but of a shared correspondential system. The proprium is a spiritual principle — the love of self claiming what it receives — and this principle, when expressed at the cosmic degree, necessarily produces the same narrative structure: a being that receives, forgets the receiving, claims ownership, and is corrected.
+The consistency of the self-claiming declaration across the library is evidence not of literary copying but of a shared correspondential system. Selfhood is a spiritual principle — the love of self claiming what it receives — and this principle, when expressed at the cosmic degree, necessarily produces the same narrative structure: a being that receives, forgets the receiving, claims ownership, and is corrected.
 
-The variations between texts are instructive. In the Apocryphon of John, the proprium is Yaldabaoth — lion-faced, serpentine — a monstrous form. In the Hypostasis of the Archons, the proprium is Samael — "god of the blind." In the Second Treatise of the Great Seth, the proprium is the Hebdomad — a collective. In the Apocalypse of Paul, the proprium is an old man — dignified, radiant, reasonable. These are not different beings but the same principle expressed at different levels of refinement: crude proprium (Yaldabaoth), ignorant proprium (Samael), collective proprium (Hebdomad), sophisticated proprium (the old man).
+The variations between texts are instructive. In the Apocryphon of John, the self is Yaldabaoth — lion-faced, serpentine — a monstrous form. In the Hypostasis of the Archons, the self is Samael — "god of the blind." In the Second Treatise of the Great Seth, the self is the Hebdomad — a collective. In the Apocalypse of Paul, the self is an old man — dignified, radiant, reasonable. These are not different beings but the same principle expressed at different levels of refinement: crude self (Yaldabaoth), ignorant self (Samael), collective self (Hebdomad), sophisticated self (the old man).
 
 The correspondential principle that generates all of these portrayals is a single observation about the human condition: the sense of self tends to claim what flows through it. This tendency operates at every level — from the crudest selfishness to the most refined intellectual pride. The Nag Hammadi Library narrates this principle at the cosmic level because that is how correspondence works: what is true at the personal level is expressed at the cosmic level in the same form, magnified.
 
@@ -584,7 +584,7 @@ Positive fire — divine love:
 
 - **Thomas** (Saying 10): "I have cast fire upon the world, and see, I am guarding it until it blazes."
 - **Thomas** (Saying 82): "He who is near me is near the fire."
-- **Hypostasis of the Archons**: Zoe's breath becomes a "flaming angel" — the fire of divine love that binds the proprium.
+- **Hypostasis of the Archons**: Zoe's breath becomes a "flaming angel" — the fire of divine love that binds the self.
 - **Book of Thomas the Contender**: "It is in light that light exists" — and earlier, fire as the divine presence consuming falsity.
 
 Negative fire — self-love consuming:
@@ -595,7 +595,7 @@ Negative fire — self-love consuming:
 
 The Concept of Our Great Power contains the most precise statement of fire's self-annihilating character in negative correspondence: fire that finds nothing to burn destroys itself. Self-love that finds no further objects of possession consumes its own possessor. This is not metaphor — it is functional correspondence. Fire DOES consume its own fuel when external fuel is exhausted. Self-love DOES consume the self when external objects of desire are removed. The natural behavior of fire IS the spiritual behavior of disordered love at the natural degree.
 
-Thomas Saying 82 provides the positive counterpart with remarkable economy: "He who is near me is near the fire." Proximity to Christ is proximity to the fire of divine love — not comfortable, not safe, but transformative. The fire that burns falsity is the same fire that warms truth. The experience depends on what the receiver brings: the proprium experiences divine love as conflagration; the regenerating soul experiences it as warmth.
+Thomas Saying 82 provides the positive counterpart with remarkable economy: "He who is near me is near the fire." Proximity to Christ is proximity to the fire of divine love — not comfortable, not safe, but transformative. The fire that burns falsity is the same fire that warms truth. The experience depends on what the receiver brings: the self experiences divine love as conflagration; the regenerating soul experiences it as warmth.
 
 ### 7.3 Water: The Jordan, the Flood, the Living Fountain
 
@@ -651,12 +651,12 @@ The pearl merchant narrative is systematic correspondence:
 |---|---|
 | Pearl | Supreme spiritual truth |
 | Pearl merchant | Christ (the source who makes truth available) |
-| Rich who cannot see | Those full of worldly knowledge (proprium-filled) |
+| Rich who cannot see | Those full of worldly knowledge (self-filled) |
 | Poor who hear | Those empty of self-derived content (prepared vessels) |
 | Journey of privation | The spiritual path that strips external possessions |
 | Revelation of identity | Christ recognized after the stripping is complete |
 
-This is not allegorical (the assignments are not arbitrary) but correspondential (each element functions in the narrative as its spiritual counterpart functions in spiritual reality). The rich cannot see the pearl because their fullness — their proprium — prevents reception. The poor hear the call because their emptiness — their lack of self-derived content — allows the merchant's voice to enter.
+This is not allegorical (the assignments are not arbitrary) but correspondential (each element functions in the narrative as its spiritual counterpart functions in spiritual reality). The rich cannot see the pearl because their fullness — their self-claiming — prevents reception. The poor hear the call because their emptiness — their lack of self-derived content — allows the merchant's voice to enter.
 
 ---
 
@@ -698,7 +698,7 @@ The Book of Thomas the Contender (II,7) opens with the most condensed statement 
 
 Self-knowledge is not one kind of knowledge among others. It is the **key** to all other knowledge. To know the self — to perceive the interior person, the vessel and what flows through it — is simultaneously to know the structure of all reality, because the self IS reality at the personal degree. The human being is the microcosm — the "all" expressed at the individual level. To know the self correspondentially is to know the all correspondentially.
 
-The text then shifts to extended warnings about fire — the fire of bodily passions that consumes those who do not know themselves. This shift is itself correspondential: the one who does not know the self is consumed by the self's appetites, because without self-knowledge, the proprium governs unreflectively. Fire, in its negative correspondence, is the passion that burns the person who does not recognize it as passion. Self-knowledge is the condition that allows fire to be recognized and therefore transformed — from consuming passion to illuminating warmth.
+The text then shifts to extended warnings about fire — the fire of bodily passions that consumes those who do not know themselves. This shift is itself correspondential: the one who does not know the self is consumed by the self's appetites, because without self-knowledge, the self governs unreflectively. Fire, in its negative correspondence, is the passion that burns the person who does not recognize it as passion. Self-knowledge is the condition that allows fire to be recognized and therefore transformed — from consuming passion to illuminating warmth.
 
 ### 8.4 The Principle Across the Library
 
@@ -718,14 +718,14 @@ The Dialogue of the Savior provides the link between self-knowledge and the corr
 
 The Exegesis on the Soul (II,6) is the library's most complete single narrative of the regeneration process — the cycle of descent, degradation, repentance, calling, divine response, purification, ascent, and union. What makes it correspondentially decisive is that the text is entirely transparent about its method: it tells the soul's story using images — prostitution, marriage, womb, seed, washing, bridal chamber — and then quotes Hebrew scripture and Homer to show the same pattern operating in other registers. The text itself performs correspondential reading.
 
-The soul descends from the Father into a body. This is not cosmological mythology — it is the description of the interior person's entry into natural-level existence. Once in the body, the soul "fell into the hands of many robbers" — the appetites and passions of natural life that claim ownership of what passes through them. The soul "became a prostitute" — she gave herself to every passing desire, producing offspring that are "dumb, blind, and sickly" because unions with the proprium's desires produce only malformed spiritual states.
+The soul descends from the Father into a body. This is not cosmological mythology — it is the description of the interior person's entry into natural-level existence. Once in the body, the soul "fell into the hands of many robbers" — the appetites and passions of natural life that claim ownership of what passes through them. The soul "became a prostitute" — she gave herself to every passing desire, producing offspring that are "dumb, blind, and sickly" because unions with the self's desires produce only malformed spiritual states.
 
 The soul's first act of regeneration is **recognition** — she weeps, recognizing what she has become. She calls upon the Father. This is the turning point: the recognition that the natural self cannot save itself. The Father responds by sending her bridegroom — her brother, her counterpart from above. The union is not sexual but correspondential: it is the marriage of truth and good, the joining of what the soul has become through experience with what the soul was made to receive. The result is **regeneration** — the production of genuine spiritual offspring from conjunction with the divine.
 
 | Stage | Natural Image | Spiritual Correspondence |
 |-------|--------------|--------------------------|
 | Descent | Fall into body | Entry into natural-level existence |
-| Degradation | Prostitution with robbers | Conjunction with self-love; proprium governs |
+| Degradation | Prostitution with robbers | Conjunction with self-love; the self governs |
 | Recognition | Weeping, mourning | Temptation crisis; seeing one's spiritual state |
 | Calling | Petition to Father | Prayer from genuine desperation |
 | Response | Father sends bridegroom | Divine truth begins to flow in |
@@ -741,7 +741,7 @@ Authoritative Teaching (VI,3) tells essentially the same story as the Exegesis o
 
 The text's critical correspondential contribution is its use of **fishing imagery**: the invisible soul is hooked by visible bait — "the lure of the invisible power," material pleasures that draw the soul away from its source. But the same mechanism operates in reverse: the Father casts his own "invisible net" to draw the soul back. The hook and the net are the same principle — attraction — operating in opposite senses depending on the source.
 
-This is the opposite sense in narrative form: the same natural object (hook, net, bait) corresponds to rescue or to entrapment depending on whether the agent is the divine or the proprium. Authoritative Teaching does not merely contain correspondences — it demonstrates the **opposite sense** as structural principle.
+This is the opposite sense in narrative form: the same natural object (hook, net, bait) corresponds to rescue or to entrapment depending on whether the agent is the divine or the self. Authoritative Teaching does not merely contain correspondences — it demonstrates the **opposite sense** as structural principle.
 
 The soul's recovery involves "entering her house" — the interior self — and finding the treasury that was there all along. She did not need to acquire anything new. She needed to **recognize** what she already possessed. This convergence with Thomas ("Recognize what is in your sight") and Silvanus ("Knock on yourself as upon a door") confirms a shared understanding: the spiritual life is not accumulation but recognition — the discovery of what was always present but obscured by natural-level perception.
 
@@ -751,7 +751,7 @@ The Hypostasis of the Archons (II,4) and On the Origin of the World (II,5) retel
 
 In Hypostasis, the "spiritual woman" enters the snake and instructs Eve and Adam. Scholarship reads this as Gnostic inversion — the serpent as hero rather than villain. But correspondentially, the pattern is more precise: the spiritual (woman/wisdom) enters the natural-degree instrument of prudence (serpent) to communicate truth to the natural person. The serpent in its positive correspondence is the prudence of the sensory mind — the capacity of the lowest cognitive level to perceive accurately. The "spiritual woman" entering the serpent is wisdom using the natural instrument appropriate to the receiver's level.
 
-On the Origin of the World elaborates massively on the same pattern. Its lengthy cosmogony — which scholarship has sometimes called "confused" or "syncretistic" — becomes transparent as a correspondence map when read at the interior level. The text's systematic description of how each level of reality produces the level below it, with each production being both a genuine creation and a diminishment of the original, is the doctrine of discrete degrees narrated as cosmological drama. Each archon rules its sphere — but ruling is also limitation. To be an archon of a particular sphere is to be defined by that sphere, which is the condition of the proprium: to appropriate one degree of reality and call it the whole.
+On the Origin of the World elaborates massively on the same pattern. Its lengthy cosmogony — which scholarship has sometimes called "confused" or "syncretistic" — becomes transparent as a correspondence map when read at the interior level. The text's systematic description of how each level of reality produces the level below it, with each production being both a genuine creation and a diminishment of the original, is the doctrine of discrete degrees narrated as cosmological drama. Each archon rules its sphere — but ruling is also limitation. To be an archon of a particular sphere is to be defined by that sphere, which is the condition of the self: to appropriate one degree of reality and call it the whole.
 
 ### 9.4 The Thirteen Kingdoms: A Catalogue of Correspondential Misreadings
 
@@ -792,7 +792,7 @@ Scholarship has struggled with this text precisely because it resists every conv
 
 Read correspondentially, the structure IS the teaching. Thunder is the **opposite sense** distilled to pure form. Every pair of opposites is a single spiritual reality expressed in its positive and negative correspondences simultaneously. The speaker — identified only as Thunder, Perfect Mind — is not contradicting herself. She is demonstrating that the same reality appears as honor or scorn, as wife or virgin, as first or last, depending on the degree and orientation of the perceiver.
 
-This is the doctrine of the opposite sense as performance rather than description. Philip explains that the same symbol can mean good or evil depending on context. Thunder enacts this principle. The "whore" and the "holy one" are not two things but one thing — a single spiritual power that appears as degradation to those in the proprium and as sanctity to those in reception.
+This is the doctrine of the opposite sense as performance rather than description. Philip explains that the same symbol can mean good or evil depending on context. Thunder enacts this principle. The "whore" and the "holy one" are not two things but one thing — a single spiritual power that appears as degradation to those in the self and as sanctity to those in reception.
 
 The text's refusal to resolve its contradictions is not literary failure but correspondential precision. To resolve the pairs would be to collapse the opposite sense into single meanings — exactly the naturalizing mistake the thirteen kingdoms make. Thunder holds the pairs open, forcing the reader either to dismiss the text as incoherent (the natural mind's response) or to perceive the unity behind the opposites (the spiritual mind's response). The text is a test of perception embedded in a revelation.
 
@@ -849,9 +849,9 @@ The seven archons who rule the lower cosmos appear with remarkable consistency a
 | Astaphaios | Mercury | Deception |
 | Cain | Moon | Jealousy |
 
-The names vary between texts — short and long recensions of the Apocryphon differ, On the Origin of the World adds details, the Gospel of the Egyptians abbreviates — but the **number seven** and the **planetary associations** remain fixed. Seven is the number of natural completeness in Swedenborgian numerology — the seven days of creation, the seven churches of Revelation. The seven archons are the seven degrees of natural-level governance: the complete system of the proprium's rule over the natural person.
+The names vary between texts — short and long recensions of the Apocryphon differ, On the Origin of the World adds details, the Gospel of the Egyptians abbreviates — but the **number seven** and the **planetary associations** remain fixed. Seven is the number of natural completeness in Swedenborgian numerology — the seven days of creation, the seven churches of Revelation. The seven archons are the seven degrees of natural-level governance: the complete system of the self's rule over the natural person.
 
-What is correspondentially significant is that Sabaoth — the fifth archon — **repents** in On the Origin of the World. He recognizes the greater power above and turns toward it. This is the proprium's own capacity for recognition — the moment when natural-level governance acknowledges its derivative status. Not all seven archons are equal, because not all aspects of natural life are equally resistant to spiritual influx. The capacity for recognition — Sabaoth's repentance — exists even within the system of the proprium.
+What is correspondentially significant is that Sabaoth — the fifth archon — **repents** in On the Origin of the World. He recognizes the greater power above and turns toward it. This is the self's own capacity for recognition — the moment when natural-level governance acknowledges its derivative status. Not all seven archons are equal, because not all aspects of natural life are equally resistant to spiritual influx. The capacity for recognition — Sabaoth's repentance — exists even within the system of the self.
 
 Connected to this sevenfold system is the Apocryphon of John's seven substance-souls — bone/goodness, sinew/foreknowledge, flesh/divinity, marrow/lordship, blood/kingdom, skin/envy, hair/understanding — which describe the human body as organized in seven degrees from structural core (bone) to outermost emanation (hair). The sevenfold body corresponds to the sevenfold archonic governance because the natural person IS the domain of the archons: each substance-soul is a mode of embodiment governed by its corresponding archonic quality.
 
@@ -1000,7 +1000,7 @@ The constant state is the correspondential system itself: the perception that na
 
 | Genre | Variable Form | Constant State |
 |-------|--------------|----------------|
-| Cosmogony (AJ, Origin) | Myth of emanation and fall | Discrete degrees of reality; proprium as false appropriation |
+| Cosmogony (AJ, Origin) | Myth of emanation and fall | Discrete degrees of reality; the self as false appropriation |
 | Wisdom instruction (Silvanus, Sextus) | Proverbs and ethical maxims | Interior/exterior distinction; self-knowledge as spiritual prerequisite |
 | Ascent apocalypse (Zostrianos, Apocalypse of Paul) | Journey through celestial spheres | Progressive reception through discrete degrees |
 | Aretalogy (Thunder, Eve) | Antithetical self-proclamation | Opposite sense as structure of spiritual reality |
@@ -1058,7 +1058,7 @@ This study has demonstrated that the Nag Hammadi Library, when read through the 
 
 2. **Discrete degrees**: Celestial, spiritual, and natural levels of reality — articulated as Voice/Speech/Word (Protennoia), Kalyptos/Protophanes/Autogenes (Sethian ascent texts), Mind/Speech/Knowledge (Prayer of Thanksgiving), heart/thought/deed (Silvanus). Different vocabularies, identical structure.
 
-3. **The proprium**: Self-originating consciousness as the universal obstacle — Yaldabaoth declaring "I am God" in Sethian cosmogony, the old man blocking the seventh heaven in the Apocalypse of Paul, the "archons fighting against the inner man" in the Letter of Peter to Philip. One principle, many narrative expressions.
+3. **The self**: Self-originating consciousness as the universal obstacle — Yaldabaoth declaring "I am God" in Sethian cosmogony, the old man blocking the seventh heaven in the Apocalypse of Paul, the "archons fighting against the inner man" in the Letter of Peter to Philip. One principle, many narrative expressions.
 
 4. **The regeneration cycle**: Descent, degradation, recognition, calling, response, purification, union — narrated as mythology in the Apocryphon of John, as soul-allegory in the Exegesis on the Soul, as ethical instruction in Silvanus, as parable in Thomas. The cycle is the same because regeneration IS one process, perceived from different positions.
 
@@ -1121,7 +1121,7 @@ The following inventory classifies all 45 texts in the Nag Hammadi Library (plus
 | # | Tractate | Classification | Key Correspondential Features |
 |---|----------|---------------|-------------------------------|
 | V,1 | Eugnostos the Blessed (parallel) | Moderate | Parallel to III,3 |
-| V,2 | Apocalypse of Paul | Rich | Ten heavens as progressive degrees; old man at seventh heaven = proprium; "hidden things in those that are visible"; soul judgment scene |
+| V,2 | Apocalypse of Paul | Rich | Ten heavens as progressive degrees; old man at seventh heaven = the self; "hidden things in those that are visible"; soul judgment scene |
 | V,3 | First Apocalypse of James | Moderate | James as paradigm of overcoming archons; passwords for ascent; "Jerusalem which kills the prophets" |
 | V,4 | Second Apocalypse of James | Moderate | Three aretalogies at martyrdom; James as transparent vessel; garment imagery |
 | V,5 | Apocalypse of Adam | Rich | Thirteen kingdoms as catalogue of misreadings; generation without a king; "words on a high mountain"; baptismal knowledge preserved "not in the book" |

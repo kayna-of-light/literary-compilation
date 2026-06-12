@@ -56,12 +56,12 @@ The narrative begins: *"And Samson went down to Timnath, and saw a woman in Timn
   * *The Internal Sense:* The regenerating man, empowered by the Lord (Spirit coming mightily), overcomes the terrifying power of falsity (Lion) with the same ease that one handles innocence. It signifies that to the Lord, the power of hell is nothing; it is dissipated instantly by the presence of Divine Truth.  
 * **Validation:** The symbolism is organic. The lion’s roar is the terrifying intimidation of false dogma (e.g., "you are condemned without faith"). The "tearing" is the analysis and dispersion of this dogma. The comparison to a "kid" introduces a paradox in the letter (tearing a lion like a kid?) that is resolved only in the internal sense: to the celestial man, the "Lion" of hell has no more substance than a passive "Kid."
 
-### **2.3 The Arcanum of the Honey: The Transformation of the Proprium**
+### **2.3 The Arcanum of the Honey: The Transformation of the Self**
 
 "And after a time he returned... and he turned aside to see the carcass of the lion: and behold, there was a swarm of bees and honey in the carcass of the lion" (Judges 14:8).  
 This image is zoologically bizarre (bees avoid putrefaction), signaling a demand for semiotic decoding.
 
-* **The Carcass:** The dead lion represents the **subjugated proprium** (ego-self). The power of falsity has been destroyed; the "life" of self-love is gone. It is now a vessel.8  
+* **The Carcass:** The dead lion represents the **subjugated self** (ego-self). The power of falsity has been destroyed; the "life" of self-love is gone. It is now a vessel.8  
 * **The Bees:**  
   * *Natural Function:* Bees are industrious, communal, and gatherers of nectar (hidden sweetness) to produce honey.  
   * *Correspondence:* Bees signify the **rational faculty** acting from a love of use. They gather the "nectar" of knowledge from the "flowers" of the Word to construct the "honey" of wisdom.12  
@@ -73,7 +73,7 @@ This image is zoologically bizarre (bees avoid putrefaction), signaling a demand
   * *The Meat (Food):* Goodness/Charity.  
   * *The Strong (Lion):* The power of the will.  
   * *The Sweetness (Honey):* The delight of use.  
-  * *The Internal Sense:* This describes the central arcanum of **Regeneration**. One cannot simply "be good." One must first confront and slay the "Lion" (the aggressive, selfish proprium). Once this ego is slain (subjugated), the Lord transforms that very vessel (the carcass) into a source of use. The "strength" of the ego is converted into the "sweetness" of charity. The "eater" (that which consumed life) now provides "meat" (sustenance).
+  * *The Internal Sense:* This describes the central arcanum of **Regeneration**. One cannot simply "be good." One must first confront and slay the "Lion" (the aggressive, selfish self). Once this ego is slain (subjugated), the Lord transforms that very vessel (the carcass) into a source of use. The "strength" of the ego is converted into the "sweetness" of charity. The "eater" (that which consumed life) now provides "meat" (sustenance).
 
 ### **2.4 The Structural Integrity of the Samson Narrative**
 
@@ -81,7 +81,7 @@ The application of Swedenborg’s key to Judges 14 reveals a startling **structu
 
 1. **Descent** (Influx into the natural).  
 2. **Conflict** (Temptation by falsity/Lion).  
-3. **Victory** (Subjugation of the Proprium).  
+3. **Victory** (Subjugation of the Self).  
 4. **Fruition** (The emergence of spiritual delight/Honey from the conquered state).
 
 This sequence perfectly mirrors the Swedenborgian doctrine of **Regeneration** (Repentance \-\> Reformation \-\> Regeneration).16 The symbols are not arbitrary; "Honey" always means natural delight, "Lion" always means power (good or bad). The text behaves as a coherent organism, validating its status as "The Word" under the definitions of the New Church.

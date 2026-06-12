@@ -34,7 +34,7 @@ When a member of this community observed a natural object—a mountain, a lamb, 
 
 #### **1.1.2 The Fall and the Necessity of the "Enoch" Function**
 
-The "Fall" is interpreted not as a single moral transgression but as a catastrophic cognitive shift. As the "Most Ancient" people began to appropriate their perception as their own power (the rise of the *proprium* or selfhood), the unity of Will and Understanding was severed. The internal way was closed to prevent the profanation of truth. This crisis necessitated a new medium of revelation. If humanity could no longer *perceive* truth via the Will, they had to *learn* truth via the Understanding.4
+The "Fall" is interpreted not as a single moral transgression but as a catastrophic cognitive shift. As the "Most Ancient" people began to appropriate their perception as their own power (the rise of the *self* or selfhood), the unity of Will and Understanding was severed. The internal way was closed to prevent the profanation of truth. This crisis necessitated a new medium of revelation. If humanity could no longer *perceive* truth via the Will, they had to *learn* truth via the Understanding.4
 
 This necessity birthed the "Enoch" function.
 
@@ -53,7 +53,7 @@ This definition validates the "Enochic" literary tradition's obsession with list
 If Enoch is the *collector*, Noah is the *container*. The "Flood" represents the inundation of the human mind by falsities and lusts arising from the corrupted Will.5 The "Ark" represents the new cognitive structure—the separation of the Will and the Understanding—constructed to navigate this inundation.
 
 * **Conscience:** The "Noachic" dispensation was established for a new type of human who required "conscience" formed by "external revelation".9 Because the Will was corrupted, the Lord separated the Understanding from it. This allowed humanity to intellectually learn truths (via the Ancient Word preserved by Enoch) and force their Will to obey them.  
-* **The Ark’s Dimensions:** The intricate details of the Ark—its three stories, its window, its pitch—are not nautical specifications but correspondential descriptions of this new human mind (Natural, Rational, Spiritual degrees) protected from the flood of the *proprium*.6
+* **The Ark’s Dimensions:** The intricate details of the Ark—its three stories, its window, its pitch—are not nautical specifications but correspondential descriptions of this new human mind (Natural, Rational, Spiritual degrees) protected from the flood of the *self*.6
 
 **Table 1: The Swedenborgian Typology of Enoch and Noah**
 
@@ -89,7 +89,7 @@ The transition from the "Ancient Church" to idolatry is described by Swedenborg 
 
 > **[CORRECTION #18]**: This section frames the Magi as originally possessing "the science of reading the heavens" from the Ancient Church. Current synthesis distinguishes the *Bene Qedem* ("Children of the East"—Ishmaelites, Midianites, Edomites, Ketureans) as the primary carriers of living correspondential "nature wisdom," with the Magian priesthood functioning as a later institutional layer that appropriated and codified (and ultimately perverted) that prior lineage. The "Magian Appropriation" is the institutional capture of the Bene Qedem's wisdom.
 
-* **The Magian Shift:** The Magi, originally the "Wise Men" (*Maga*) of the Ancient Church, possessed the science of reading the heavens. However, as self-love (*proprium*) grew, they utilized this knowledge for power. "Magic" (*mageia*) became the manipulation of spiritual laws for earthly gain.13  
+* **The Magian Shift:** The Magi, originally the "Wise Men" (*Maga*) of the Ancient Church, possessed the science of reading the heavens. However, as self-love (*selfhood*) grew, they utilized this knowledge for power. "Magic" (*mageia*) became the manipulation of spiritual laws for earthly gain.13  
 * **Astrological Determinism:** The Babylonian/Persian compendiums like *Enuma Anu Enlil* (EAE) codified this perversion. In EAE, the stars were not merely signs; they were causal agents of fate. The movement of a planet *caused* the death of a king. This stripped the Divine of its agency, transferring power to the external mechanism of the cosmos.12
 
 **Table 2: The Trajectory of Correspondence Knowledge**
@@ -165,7 +165,7 @@ The user’s query asks to evaluate the claim that these scribes received "spiri
 
 The "CDE Model" 18 posits that myths evolve along trajectories determined by the "ruling love" of the collective consciousness.
 
-* **Trajectory B (Proprium):** Myths evolve towards chaos and power (e.g., *Enuma Elish*, where creation is violence).  
+* **Trajectory B (Selfhood):** Myths evolve towards chaos and power (e.g., *Enuma Elish*, where creation is violence).  
 * **Trajectory A (Influx):** Myths are "purified" by a consciousness open to Divine Influx.
 
 The Jewish scribes of *1 Enoch* were operating on **Trajectory A**. They accessed the "neutral proto-myth" (Persian science) and, guided by influx, "purified" it. They did not invent the data; they "re-consecrated" it. This "unconscious guidance" (or super-conscious inspiration) acted as a selective pressure, forcing the exclusion of polytheistic elements.18
@@ -182,7 +182,7 @@ Modern Near-Death Experience (NDE) research provides an empirical "fingerprint" 
 
 Just as Daniel was appointed "Chief of the Magicians" (*Rab-chartumayya*) to restore wisdom from within the Babylonian court, the scribes of *1 Enoch* acted as agents of restoration. They utilized the prestige of the "Enoch" figure not to "steal" authority, but to **locate the true source of wisdom**. They asserted that the true source of science was not the *apkallu* (sages) of Babylon, but the patriarch Enoch who "walked with God".12
 
-This was not a "hostile takeover" of the intellectual landscape born of the *proprium* (self-hood), but a **restorative witness** guided by the conviction that all Truth belongs to the Divine. It was not an attempt to divide or establish power, but simply to present the truth as perceived through Divine Influx—a truth that does not need to be established because it eternally *is*.
+This was not a "hostile takeover" of the intellectual landscape born of the *self* (self-hood), but a **restorative witness** guided by the conviction that all Truth belongs to the Divine. It was not an attempt to divide or establish power, but simply to present the truth as perceived through Divine Influx—a truth that does not need to be established because it eternally *is*.
 
 ## **VI. Conclusion: The Deep but Difficult Synthesis**
 

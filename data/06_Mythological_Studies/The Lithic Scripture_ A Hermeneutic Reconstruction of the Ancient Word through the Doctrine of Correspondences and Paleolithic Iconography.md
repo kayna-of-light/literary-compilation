@@ -101,7 +101,7 @@ Located in the deepest, most inaccessible part of the Lascaux cave (the Shaft or
 This scene vividly depicts a Swedenborgian crisis of Vastation and Separation. The Bison (Natural Good) has been mortally wounded—perhaps by the man's own spear (the intellect attacking the will, or a failed attempt to subdue the natural). The entrails (the unclean interiors) are exposed.  
 The Bird-Man represents the separation of the Understanding from the Will. Swedenborg teaches that in the "Ancient Church" (post-Flood), the will became corrupt (the wounded bison), and the Lord separated the understanding so that man could be regenerated via truth (the Bird).1 The man lies "dead" to the world, his body helpless, but his spirit (the Bird-Staff and the erection) is potent and active. This is a lithic representation of the ecstatic trance or spiritual awakening: the death of the natural good (the bison) is necessary for the release of the spiritual intellect (the bird). The "Shaft" itself corresponds to the "Lower Earth" or the state of temptation/despair before elevation.46
 
-## **5\. Case Study II: The Venus of Willendorf (The Celestial Proprium)**
+## **5\. Case Study II: The Venus of Willendorf (The Celestial Self)**
 
 ### **5.1 Phenomenological Description**
 
@@ -125,8 +125,8 @@ The "Venus" of Willendorf is a Gravettian (c. 30,000 BCE) limestone figurine.47 
 
 #### **5.2.3 Facelessness and Hair**
 
-* **Swedenborgian Correspondence:** The **face** corresponds to the **interiors of the mind**.5 However, in the celestial state, the "self" (proprium) is completely subordinated to the Lord. A specific Swedenborgian insight regarding the "wife" in the celestial heaven is: "Her face I saw and did not see... for there was a splendour of flaming light".54 Furthermore, **hair** corresponds to the **natural** or **external truths** (the literal sense).19  
-* **Translation:** The Venus is faceless because she represents a state of **internal perception** where the external "persona" or "selfhood" is obliterated or hidden by the "hair" (natural representatives). She does not look *out* at the viewer; she looks *in*. She is the **Celestial Proprium**—the self that feels it is nothing, and thus is filled with the Divine Fatness. The elaborate hair/headdress signifies that her external truth (the letter) is orderly and beautiful, but her internal face (wisdom) is hidden in the Lord.
+* **Swedenborgian Correspondence:** The **face** corresponds to the **interiors of the mind**.5 However, in the celestial state, the "self" (the self) is completely subordinated to the Lord. A specific Swedenborgian insight regarding the "wife" in the celestial heaven is: "Her face I saw and did not see... for there was a splendour of flaming light".54 Furthermore, **hair** corresponds to the **natural** or **external truths** (the literal sense).19  
+* **Translation:** The Venus is faceless because she represents a state of **internal perception** where the external "persona" or "selfhood" is obliterated or hidden by the "hair" (natural representatives). She does not look *out* at the viewer; she looks *in*. She is the **Celestial Self**—the self that feels it is nothing, and thus is filled with the Divine Fatness. The elaborate hair/headdress signifies that her external truth (the letter) is orderly and beautiful, but her internal face (wisdom) is hidden in the Lord.
 
 #### **5.2.4 No Feet**
 
@@ -135,7 +135,7 @@ The "Venus" of Willendorf is a Gravettian (c. 30,000 BCE) limestone figurine.47 
 
 ### **5.3 Synthesis: The Icon of the Golden Age**
 
-The Venus of Willendorf is the supreme image of the **Most Ancient Church** (Golden Age). She embodies the Swedenborgian concept of "Celestial Good"—a state of love (fatness) and charity (breasts) that precedes the development of the separate intellect. Her facelessness is not dehumanization but **supra-humanization**; she represents a humanity that had not yet developed the hard, external "proprium" of the later ages. She is the "Mother" of the celestial seed, woven in the "hair" of natural correspondence but filled with the "fat" of Divine Love.
+The Venus of Willendorf is the supreme image of the **Most Ancient Church** (Golden Age). She embodies the Swedenborgian concept of "Celestial Good"—a state of love (fatness) and charity (breasts) that precedes the development of the separate intellect. Her facelessness is not dehumanization but **supra-humanization**; she represents a humanity that had not yet developed the hard, external "selfhood" of the later ages. She is the "Mother" of the celestial seed, woven in the "hair" of natural correspondence but filled with the "fat" of Divine Love.
 
 ## **6\. Case Study III: The Wounded Men of Cougnac and Pech Merle (Spiritual Temptation)**
 

@@ -8,7 +8,7 @@ For decades, this "language of nature" remained consistent. A storm in *The Litt
 
 However, the release of the animated feature *Wish* (2023) and the live-action adaptation of *Snow White* (2025) reveals a profound schism in this metaphysical tradition. While *Wish*, intended as a tribute to the studio's legacy, has been critiqued for performing a "theological inversion" or "profanation" of these principles, analysis of the live-action *Snow White* indicates a surprising fidelity to the structural dynamics of Swedenborgian regeneration. This divergence presents a paradox: the film explicitly designed to celebrate the "magic" of the studio (*Wish*) appears to have hollowed out that magic by severing its vertical connection to the Divine, while the film most criticized for its "modern sensibilities" and departure from tradition (*Snow White*) has inadvertently reinforced the deep theological structures of the original fairy tale.
 
-This analysis undertakes an exhaustive investigation into this divergence. It posits that *Wish* represents a shift from "Universal Correspondence" to "Cultural Metaphor" and Gnostic self-deification, effectively severing the link to the "Spiritual Sun." Conversely, the live-action *Snow White*—through its specific reinvention of characters like **Jonathan**, its handling of the **Magic Mirror**, its "Apple Orchard" backstory, and its musical score—inadvertently reconstructs a rigorous Swedenborgian drama regarding the destruction of the **Proprium** (selfhood) and the restoration of the "State of the Church." By applying the forensic tools of Swedenborgian exegesis—specifically the doctrines of **Influx**, **Vastation**, and **Use**—this analysis will demonstrate why the "modernized" live-action film may be spiritually more "traditional" than the studio's animated centennial celebration.
+This analysis undertakes an exhaustive investigation into this divergence. It posits that *Wish* represents a shift from "Universal Correspondence" to "Cultural Metaphor" and Gnostic self-deification, effectively severing the link to the "Spiritual Sun." Conversely, the live-action *Snow White*—through its specific reinvention of characters like **Jonathan**, its handling of the **Magic Mirror**, its "Apple Orchard" backstory, and its musical score—inadvertently reconstructs a rigorous Swedenborgian drama regarding the destruction of the **the self** (selfhood) and the restoration of the "State of the Church." By applying the forensic tools of Swedenborgian exegesis—specifically the doctrines of **Influx**, **Vastation**, and **Use**—this analysis will demonstrate why the "modernized" live-action film may be spiritually more "traditional" than the studio's animated centennial celebration.
 
 ---
 
@@ -22,11 +22,11 @@ The core of Swedenborgian cosmology is the **Doctrine of Influx**. Reality is st
 
 In the "Golden Age" of Disney animation (e.g., *Pinocchio*, *Snow White* 1937) and the "Renaissance" (e.g., *The Lion King*, *Beauty and the Beast*), this doctrine was secularized as the artistic principle of "Inner Force driving Outer Form." Animators were taught that a character's movement (natural effect) must be driven by an internal intent or emotion (spiritual cause). If a character moved without this internal motivation, it was dismissed as "rubber hose" animation—mechanical, lifeless, and devoid of soul. This pedagogical mandate created a universe where the physical world was transparent to the spiritual.
 
-### 2.2 The Proprium and the Problem of Self
+### 2.2 Selfhood and the Problem of Self
 
-The central antagonist in Swedenborgian theology is the **Proprium**—the "ownhood" or "selfhood" of man. It is the vivid sensation that we live, think, and act from ourselves. When the Proprium confirms itself as the source of life, it becomes the "Love of Self" (*Amor Sui*), which is the root of all evil and the essence of Hell.
+The central antagonist in Swedenborgian theology is the **self** (Latin *Selfhood*, "ownhood" or "selfhood"). It is the vivid sensation that we live, think, and act from ourselves. When the self confirms itself as the source of life, it becomes the "Love of Self" (*Amor Sui*), which is the root of all evil and the essence of Hell.
 
-The Proprium operates as a closed loop. It constantly seeks confirmation of its own existence, drawing all things toward itself as center. It cannot receive influx from the Divine because it has positioned itself *as* the source. This creates a spiritual "black hole"—a vacuum that appears to have substance but is, in reality, empty of all life and truth.
+the self operates as a closed loop. It constantly seeks confirmation of its own existence, drawing all things toward itself as center. It cannot receive influx from the Divine because it has positioned itself *as* the source. This creates a spiritual "black hole"—a vacuum that appears to have substance but is, in reality, empty of all life and truth.
 
 ### 2.3 The True Wish vs. The False Wish
 
@@ -34,20 +34,20 @@ At the heart of this investigation lies a critical distinction: **The True Wish 
 
 | Dimension | The True Wish | The False Wish |
 | :---- | :---- | :---- |
-| **Source** | Received (from the Divine, through prayer) | Self-Generated (from the Proprium) |
+| **Source** | Received (from the Divine, through prayer) | Self-Generated (from the self) |
 | **Direction** | Vertical (up/down between degrees) | Horizontal (within the natural plane) |
 | **Object** | The Good of Others / Conjunction with the Divine | Self-aggrandizement / Control |
 | **Mechanism** | Influx (life flows *through* the vessel) | Closure (life is claimed *by* the vessel) |
 | **Outcome** | Regeneration / Heaven | Vastation / Hell |
 | **Disney Expression** | "I'm Wishing" (prayer) / "Waiting on a Wish" | "I'm a Star" (Stardust) / Wish Orbs |
 
-A "true wish," in this framework, is fundamentally a prayer—a desire directed toward the Divine, seeking alignment with the Divine Will. It opens the soul to receive influx from above. A "false wish," by contrast, is a desire originating in the Proprium, seeking to confirm the self as the source of good. It closes the soul into a loop of self-reference.
+A "true wish," in this framework, is fundamentally a prayer—a desire directed toward the Divine, seeking alignment with the Divine Will. It opens the soul to receive influx from above. A "false wish," by contrast, is a desire originating in the self, seeking to confirm the self as the source of good. It closes the soul into a loop of self-reference.
 
 ### 2.4 The "Fisher King" and the Moral Mirror
 
 This substrate manifested most clearly in the "Fisher King" archetype, which correlates with Swedenborg's correspondence of the **Land** (Earth) with the **State of the Church**. In Swedenborg's exegesis, the physical state of the land in biblical prophecy—whether it is blooming, drought-stricken, or frozen—is never a description of agriculture but a precise diagnosis of the spiritual state of the people.
 
-Disney films replicate this diagnostic topography with high fidelity. In *The Lion King*, the reign of Mufasa (Divine Truth/Law) maintains the "Circle of Life" (Divine Order), resulting in a lush kingdom. When Scar (Self-Love/Falsity) usurps the throne, the transformation of the landscape is immediate and total. The sun is obscured, the water (Truth) dries up, and the land becomes a skeletal wasteland. This is a perfect depiction of "Vastation"—the spiritual desolation that occurs when the connection to the Divine is severed by the rule of the Proprium.
+Disney films replicate this diagnostic topography with high fidelity. In *The Lion King*, the reign of Mufasa (Divine Truth/Law) maintains the "Circle of Life" (Divine Order), resulting in a lush kingdom. When Scar (Self-Love/Falsity) usurps the throne, the transformation of the landscape is immediate and total. The sun is obscured, the water (Truth) dries up, and the land becomes a skeletal wasteland. This is a perfect depiction of "Vastation"—the spiritual desolation that occurs when the connection to the Divine is severed by the rule of the self.
 
 ---
 
@@ -57,11 +57,11 @@ The film *Wish* (2023) serves as the primary case study for the abandonment or i
 
 ### 3.1 The Star as "Stardust": Immanence vs. Transcendence
 
-In the classic Disney canon, exemplified by *Pinocchio* (1940), the "wish" is a prayer directed upward to a transcendent source (the Blue Star/Blue Fairy). The puppet Pinocchio is "empty" and must earn his soul through moral regeneration ("brave, truthful, and unselfish"). This aligns with Swedenborg's view that the human proprium (self) is lifeless until animated by Divine Influx. The source of life is external and superior to the vessel.
+In the classic Disney canon, exemplified by *Pinocchio* (1940), the "wish" is a prayer directed upward to a transcendent source (the Blue Star/Blue Fairy). The puppet Pinocchio is "empty" and must earn his soul through moral regeneration ("brave, truthful, and unselfish"). This aligns with Swedenborg's view that the human Selfhood (self) is lifeless until animated by Divine Influx. The source of life is external and superior to the vessel.
 
 In *Wish*, this cosmology is inverted. The song "I'm a Star" explicitly teaches that "we are our own origin story" and that the divine spark is inherent in the material constitution of the characters ("stardust"). This is a **Gnostic** or **Pantheistic** framework where the divine is trapped in matter, rather than a **Theistic** framework where life flows *into* matter from a higher degree.
 
-The implication of this shift is profound. It collapses the "Vertical Causality" of Swedenborg into a "Horizontal" plane. There is no need for regeneration, repentance, or influx from the Lord because the self is already divine. Swedenborg defines the belief that "nature is the source of life" or that "man is God" as the fundamental falsity of the **Proprium** (Self-Love). By celebrating the self as the source of magic, *Wish* inadvertently celebrates the very force (Proprium) that acts as the antagonist in Swedenborg's theology.
+The implication of this shift is profound. It collapses the "Vertical Causality" of Swedenborg into a "Horizontal" plane. There is no need for regeneration, repentance, or influx from the Lord because the self is already divine. Swedenborg defines the belief that "nature is the source of life" or that "man is God" as the fundamental falsity of the **the self** (Self-Love). By celebrating the self as the source of magic, *Wish* inadvertently celebrates the very force (Selfhood) that acts as the antagonist in Swedenborg's theology.
 
 ### 3.2 The Wish Orb: The Externalization of the Ruling Love
 
@@ -71,7 +71,7 @@ In Swedenborgian psychology, every being is defined by a "Ruling Love" (Dominant
 
 By treating the Ruling Love as an external object that can be given away, stored, or shattered, *Wish* commodifies the spiritual essence. In Swedenborg's system, the Ruling Love *is* the life of the person; it cannot be extracted without death. The film's mechanic suggests that the soul is a possession one *has*, rather than what one *is*.
 
-Furthermore, King Magnifico is described as a "False God" who demands worship in exchange for the "protection" of these wishes. This mirrors Swedenborg's description of **Babylon**—the profanation of good and truth for the sake of dominion. However, the film's solution to this tyranny is not to restore the wishes to a higher order (Divine Will) but to return them to the "self," reinforcing the closed loop of the Proprium.
+Furthermore, King Magnifico is described as a "False God" who demands worship in exchange for the "protection" of these wishes. This mirrors Swedenborg's description of **Babylon**—the profanation of good and truth for the sake of dominion. However, the film's solution to this tyranny is not to restore the wishes to a higher order (Divine Will) but to return them to the "self," reinforcing the closed loop of the self.
 
 ### 3.3 The "Hollow" State and the Closed Loop
 
@@ -126,7 +126,7 @@ In the Bible, Jonathan is the son of King Saul (the corrupt, external ruler) but
 
 Jonathan is explicitly described as a thief who steals from the Queen to feed the poor. In Swedenborgian symbolism, "thieves" generally have a negative correspondence (appropriating the Lord's merit). However, in the context of "saving the remains" (the poor/the good) from a "profane dominion" (the Queen), this action corresponds to the "Spoliation of the Egyptians"—the reclaiming of truths and goods that have been captured by evil.
 
-Jonathan enters the "closed" system of the Queen's tyranny to introduce a new element of hope, functioning as a disruptive force of truth in a kingdom of falsity. This characterization fundamentally alters the dynamic of salvation. Jonathan's role is to facilitate Snow White's agency, not to save her passively. This aligns with the Swedenborgian concept of "Cooperation." The soul (Snow White/Will) cannot be saved by "Faith Alone" (passive belief in a Prince). It must cooperate with "Truth" (Jonathan/Understanding) to fight against the Proprium.
+Jonathan enters the "closed" system of the Queen's tyranny to introduce a new element of hope, functioning as a disruptive force of truth in a kingdom of falsity. This characterization fundamentally alters the dynamic of salvation. Jonathan's role is to facilitate Snow White's agency, not to save her passively. This aligns with the Swedenborgian concept of "Cooperation." The soul (Snow White/Will) cannot be saved by "Faith Alone" (passive belief in a Prince). It must cooperate with "Truth" (Jonathan/Understanding) to fight against the self.
 
 ### 4.4 The Visual Homage to Mary Blair
 
@@ -169,9 +169,9 @@ The posture is *receptive* ("looking to the sky") but also *active* ("making a s
 
 > *Everybody says there's never enough / That life is hard and love is tough / But I've seen someone who has barely anything be happy just because*
 
-This verse contains a subtle critique of the **Proprium's** scarcity mindset ("never enough"). The Proprium hoards because it believes itself to be the source and the center. It fears loss because it has no influx from above. Snow White, by contrast, has observed that one can be happy "with barely anything"—a state impossible for the Proprium to comprehend. This is the state of **heavenly peace** (contentment from the Lord), which Swedenborg contrasts with the **worldly anxiety** of those ruled by self-love.
+This verse contains a subtle critique of the **the self's** scarcity mindset ("never enough"). the self hoards because it believes itself to be the source and the center. It fears loss because it has no influx from above. Snow White, by contrast, has observed that one can be happy "with barely anything"—a state impossible for the self to comprehend. This is the state of **heavenly peace** (contentment from the Lord), which Swedenborg contrasts with the **worldly anxiety** of those ruled by self-love.
 
-#### Verse 4: The "More" of the Proprium vs. the "Enough" of Influx
+#### Verse 4: The "More" of the Self vs. the "Enough" of Influx
 
 > *And I could wish for something more / But more has never mattered like before / And isn't love itself enough to make you wish for more to give?*
 
@@ -210,7 +210,7 @@ Snow White explicitly seeks to be her "father's daughter," to return to the orch
 
 The live-action film retains the Swedenborgian "Fisher King" dynamic with striking clarity. Under the Evil Queen, the kingdom is described as having "pale light," "hues turning pale," and farmers conscripted into soldiers. This is **spiritual vastation**—the draining of "Charity" (color/life) and "Peace" (farmers) by the "Love of Dominion" (soldiers/tyranny).
 
-The restoration is instantaneous. When the Mirror is broken and the Queen consumed, the kingdom "goes back to the way it once was," and everyone celebrates. This immediate restoration of the environment upon the removal of the ruling evil is a textbook example of Swedenborgian **Influx** returning to its proper order. The block (Proprium) is removed, and Divine Life flows in again, healing the land.
+The restoration is instantaneous. When the Mirror is broken and the Queen consumed, the kingdom "goes back to the way it once was," and everyone celebrates. This immediate restoration of the environment upon the removal of the ruling evil is a textbook example of Swedenborgian **Influx** returning to its proper order. The block (Selfhood) is removed, and Divine Life flows in again, healing the land.
 
 ---
 
@@ -218,13 +218,13 @@ The restoration is instantaneous. When the Mirror is broken and the Queen consum
 
 The central visual and narrative innovation of the 2025 film is its treatment of the Magic Mirror. Where the 1937 version presented the Mirror as a passive revealer of truth, the 2025 version elevates it to a site of judgment and, ultimately, consumption.
 
-### 6.1 The Mirror as the Proprium and the Void
+### 6.1 The Mirror as the Self and the Void
 
-In the 2025 film, the Evil Queen's relationship with the Magic Mirror is central to the spiritual dynamics. The mirror represents the **Self-Reflection of the Proprium**. The Queen gazes into it not to seek truth, but to confirm her own superiority ("fairest of all"). It is a closed loop of vanity.
+In the 2025 film, the Evil Queen's relationship with the Magic Mirror is central to the spiritual dynamics. The mirror represents the **Self-Reflection of The self**. The Queen gazes into it not to seek truth, but to confirm her own superiority ("fairest of all"). It is a closed loop of vanity.
 
 The climax of the film involves the Queen destroying the Mirror. This act is pivotal. Shattering the mirror creates a "rift into a netherspace" that consumes her. She turns to ash and is sucked into this void.
 
-This imagery is strikingly Swedenborgian. Swedenborg describes Hell not as a place of external punishment (fire and pitchforks), but as a state where the internal is a "void" or "abyss" because it is emptied of truths and goods. The "netherspace" behind the mirror corresponds to the **internal state of the Proprium**. It is a black hole of self-absorption. The fact that the Queen is consumed by the mirror is a perfect visual representation of Swedenborg's teaching that "Evil is its own punishment." The Proprium consumes itself. She is not killed by Snow White (which would be external combat); she is consumed by the medium of her own vanity (internal vastation).
+This imagery is strikingly Swedenborgian. Swedenborg describes Hell not as a place of external punishment (fire and pitchforks), but as a state where the internal is a "void" or "abyss" because it is emptied of truths and goods. The "netherspace" behind the mirror corresponds to the **internal state of The self**. It is a black hole of self-absorption. The fact that the Queen is consumed by the mirror is a perfect visual representation of Swedenborg's teaching that "Evil is its own punishment." the self consumes itself. She is not killed by Snow White (which would be external combat); she is consumed by the medium of her own vanity (internal vastation).
 
 Furthermore, Swedenborg notes that "broken glass" or a shattered vessel signifies the destruction of truths by falsities, or the breaking of the container of the letter to reveal the internal. By shattering the mirror, the Queen destroys the container of her own self-image, revealing the "abyss" of her non-existence beneath.
 
@@ -248,7 +248,7 @@ The divergence between *Wish* and *Snow White* ultimately comes down to the symb
 
 ### 7.1 The Star: The Failure of Humanism
 
-In *Wish*, the Star is a cute, silent character—a "mascot" of the self. It validates Asha's desires without challenging them. It represents a **Humanist** theology: the divine is friendly, internal, and affirms our "truth." This leads to a spiritual flatness because there is no tension between the "Old Man" (Proprium) and the "New Man" (Regenerate Soul). Everyone is already a "Star."
+In *Wish*, the Star is a cute, silent character—a "mascot" of the self. It validates Asha's desires without challenging them. It represents a **Humanist** theology: the divine is friendly, internal, and affirms our "truth." This leads to a spiritual flatness because there is no tension between the "Old Man" (Selfhood) and the "New Man" (Regenerate Soul). Everyone is already a "Star."
 
 ### 7.2 The Mirror: The Persistence of Theism
 
@@ -259,13 +259,13 @@ In *Snow White*, the Mirror is a terrifying, judgmental force. It speaks the Tru
 | Element | Swedenborgian Correspondence | Snow White (1937) | Wish (2023) | Snow White (2025) | Verdict |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | **The Source of Power** | The Lord / Spiritual Sun (Influx from above) | The wishing well (prayer)/Divine Providence | The Self / Stardust (Internal/Immanent) | God-Given Truth (Jonathan) / Father's Legacy | *Snow White* (2025) retains external source |
-| **The Mirror** | Proprium / Self-Intelligence | Passive revealer of truth | Magnifico's Mirrors (Vanity/Narcissism) | The Abyss. Active agent of judgment | *Snow White* (2025) elevates to **Judgment** |
+| **The Mirror** | Selfhood / Self-Intelligence | Passive revealer of truth | Magnifico's Mirrors (Vanity/Narcissism) | The Abyss. Active agent of judgment | *Snow White* (2025) elevates to **Judgment** |
 | **The Prince / Helper** | Truth of Doctrine / Intellect | Generic "Romance" / Savior | Non-existent (Asha saves herself) | Jonathan ("God-Given"). Active helper/partner | *Snow White* (2025) aligns with biblical **Jonathan** |
 | **The Villain's Fate** | Vastation / Hell (Evil consumes itself) | Fall from cliff (Nature) | Trapped in mirror (Static) | Turned to Ash / Sucked into Void | *Snow White* (2025) depicts **Spiritual Vastation** |
 | **The Wish** | Prayer / Desire for Good | "I'm Wishing" (Prayer for love) | Commodity (Orb) extracted and hoarded | "Waiting on a Wish" (Desire for Use/Leadership) | *Snow White* (2025) aligns with **Doctrine of Use** |
 | **The Apple** | Good of Life / Works of Charity | N/A (Gooseberry Pie) | N/A | Foundation of Leadership (Pies) | *Snow White* (2025) links to Johnny Appleseed |
 | **The Void** | Hell / The Abyss | N/A | N/A | Destination of the Queen | *Snow White* (2025) depicts Swedenborgian "Void" |
-| **The Echo/Self-Amplification** | Proprium's Closed Loop | N/A | "I'm a Star" (Stardust) | Explicitly rejected ("I can hear the echo... but I'm still waiting") | *Snow White* (2025) rejects horizontal mechanism |
+| **The Echo/Self-Amplification** | the self's Closed Loop | N/A | "I'm a Star" (Stardust) | Explicitly rejected ("I can hear the echo... but I'm still waiting") | *Snow White* (2025) rejects horizontal mechanism |
 
 ### 7.4 The Paradox of "Wokeness"
 

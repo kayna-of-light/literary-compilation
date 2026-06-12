@@ -331,7 +331,7 @@ Andersen also maintained lifelong correspondence with Bernhard Severin Ingemann,
 
 The result: Andersen's tales function as allegories of spiritual regeneration:
 
-- **The Little Mermaid**: A rigorous drama about acquiring a discrete spiritual degree—moving from the Natural (sea) to the Spiritual (air) through moral choice. The mermaid's refusal to kill the Prince, sacrificing her Proprium (self-love) for charity, opens the internal spiritual faculty.⁹
+- **The Little Mermaid**: A rigorous drama about acquiring a discrete spiritual degree—moving from the Natural (sea) to the Spiritual (air) through moral choice. The mermaid's refusal to kill the Prince, sacrificing her Self (self-love) for charity, opens the internal spiritual faculty.⁹
 - **The Snow Queen**: A journey through vastation, where Gerda's innocent love (celestial degree) rescues Kay from the frozen rationalism of intellectual pride.
 - **The Ugly Duckling**: Metamorphosis from natural contempt to spiritual recognition—the swan within the duck, the celestial within the natural.
 
@@ -458,7 +458,7 @@ The "Mind is the Pilot" pedagogy requires that inner force drive outer form. In 
 
 The most revealing rejection occurred in the late 1990s. Paul and Gaëtan Brizzi produced "elaborate and immense storyboards" that "took the breath away of even the most jaded animators."² Executive Tom Schneider killed the project, citing precisely the structural issues: "episodic nature," difficulty creating "coherent dramatic narrative," and the team's "intense, dark, very adult" treatment that "frightened some of the suits."
 
-### 7.2 *Chanticleer* and the Delusional Proprium
+### 7.2 *Chanticleer* and the Delusional Self
 
 The abandoned project *Chanticleer*, based on Edmond Rostand's 1910 play, serves as a crucial test case. It features anthropomorphic animals—Disney's bread and butter—yet was rejected across three distinct eras (1930s, 1960s, 1980s).³
 
@@ -466,7 +466,7 @@ The story concerns a rooster who sincerely believes his crowing causes the sun t
 
 The most significant attempt occurred in the early 1960s. Marc Davis and Ken Anderson—two of the Nine Old Men fresh from *101 Dalmatians*—spent months developing a new version, combining the Chanticleer story with Reynard the Fox folktales for conflict. They produced extensive concept art and pitched it as a "Broadway style musical."⁵ Walt's rejection was decisive: "You can't make a personality out of a chicken."⁶
 
-The pneumatological diagnosis is precise: *Chanticleer* fails because the protagonist embodies what Swedenborg called the **Proprium**—the false belief that life, intelligence, and power originate from oneself rather than flowing in from the Divine.⁷ Chanticleer believes *he* causes the sun to rise; he believes he is Cause and the universe is Effect.
+The pneumatological diagnosis is precise: *Chanticleer* fails because the protagonist embodies what Swedenborg called the **Self**—the false belief that life, intelligence, and power originate from oneself rather than flowing in from the Divine.⁷ Chanticleer believes *he* causes the sun to rise; he believes he is Cause and the universe is Effect.
 
 Compare this to Disney heroes who succeed: Pinocchio needs the Blue Fairy; Dumbo needs Timothy and the feather; Arthur needs Merlin. They align themselves with the flow of Providence. Chanticleer believes he *is* Providence.
 
@@ -493,7 +493,7 @@ The pattern demonstrates that the selection was structural, not merely preferent
 | Story | Structural Problem | Correspondence Violation |
 |-------|-------------------|-------------------------|
 | *Don Quixote* | Irony Gap | Environment refuses protagonist's vision |
-| *Chanticleer* | Delusional Proprium | Protagonist believes false causation; world indifferent |
+| *Chanticleer* | Delusional Selfhood | Protagonist believes false causation; world indifferent |
 | *The Odyssey* | Epic Neutrality | Environment is obstacle, not mirror |
 | *Mort* | Satirical Bureaucracy | Spiritual world desacralized through irony |
 
@@ -655,7 +655,7 @@ This explains what pure organic selection cannot:
 
 **Coincidental convergence**: This cannot explain the systematic departures from Grimm in *Snow White*—changing the destination from earthly kingdom to celestial castle, changing the awakening from mechanical to love's kiss, changing the villain's death from external punishment to self-destruction. These are not incidental artistic choices; they are eschatological revisions. Coincidental convergence also cannot explain why someone would hide something they arrived at by accident.
 
-**Universal psychological patterns (Jungian)**: This cannot explain the *specific* Swedenborgian structures (Influx, Proprium, angel pneumatology, self-destruction of evil) rather than merely generic archetypal patterns. The *Snow White* eschatology is not "archetypal" in the Jungian sense—it is doctrinally Swedenborgian. Jungian analysis also cannot explain the rejection of archetypally powerful material (*Don Quixote*, *The Odyssey*) that violates correspondential logic.
+**Universal psychological patterns (Jungian)**: This cannot explain the *specific* Swedenborgian structures (Influx, Selfhood, angel pneumatology, self-destruction of evil) rather than merely generic archetypal patterns. The *Snow White* eschatology is not "archetypal" in the Jungian sense—it is doctrinally Swedenborgian. Jungian analysis also cannot explain the rejection of archetypally powerful material (*Don Quixote*, *The Odyssey*) that violates correspondential logic.
 
 **The founding transmission model provides superior explanatory power** by accounting for both the infrastructure (organic selection concentrating compatible personnel) and the precision (conscious encoding from 1937). The evidence no longer supports a "transition point"—the encoding was deliberate from the first feature film.
 

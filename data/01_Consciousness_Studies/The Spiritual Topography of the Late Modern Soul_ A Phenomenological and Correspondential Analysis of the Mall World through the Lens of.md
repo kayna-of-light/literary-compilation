@@ -6,7 +6,7 @@ The emergence of the "Mall World" phenomenon—a shared, stable, and hyper-reali
 
 This report posits that the "Mall World" is not a product of the subconscious mind in the Freudian or Jungian sense, but a direct, objective perception of the **World of Spirits**—the intermediate spiritual state situated between Heaven and Hell. By stripping away contemporary interpretations and focusing strictly on the phenomenology of the reports—the "things heard and seen"—and subjecting them to Swedenborg’s **Science of Correspondences**, we can map the spiritual geography of the modern human condition.
 
-Swedenborg’s central thesis—that the spiritual world is a realm of causes where internal states are projected into external forms—provides the key to unlocking the Mall World. In the 18th century, Swedenborg described this intermediate world as a place of "gyres," "cities," "caverns," and "marketplaces".4 Today, the "imaginary heavens" and "places of instruction" described by the Swedish seer have clothed themselves in the imagery of the 21st-century mind: the Airport, the University, and the Shopping Mall. This investigation reveals that the "Mall World" is the "Fixed Edge" of the spiritual-natural continuum, a realm where the collective "proprium" (selfhood) of humanity is sorted, vastated, and prepared for judgment.6
+Swedenborg’s central thesis—that the spiritual world is a realm of causes where internal states are projected into external forms—provides the key to unlocking the Mall World. In the 18th century, Swedenborg described this intermediate world as a place of "gyres," "cities," "caverns," and "marketplaces".4 Today, the "imaginary heavens" and "places of instruction" described by the Swedish seer have clothed themselves in the imagery of the 21st-century mind: the Airport, the University, and the Shopping Mall. This investigation reveals that the "Mall World" is the "Fixed Edge" of the spiritual-natural continuum, a realm where the collective "self" (selfhood) of humanity is sorted, vastated, and prepared for judgment.6
 
 ## **2\. The Ontological Status of the Mall World**
 
@@ -116,7 +116,7 @@ No feature of the Mall World is as visceral or universally reported as the **Dir
 
 Swedenborg is explicit: **Excrement** corresponds to **infernal evils** and falsities separated from the good.57 The "Hells of the Lascivious" and "Adulterers" are described as "excrementitious hells" where spirits delight in filth because it corresponds to their nature.58
 
-* **The Overflow:** The overflowing toilets signify an **inundation of falsities** and evils. The spiritual "plumbing"—the ability to separate and reject evil—is blocked. The dreamer is confronted with the accumulated "waste" of their own or the collective proprium.  
+* **The Overflow:** The overflowing toilets signify an **inundation of falsities** and evils. The spiritual "plumbing"—the ability to separate and reject evil—is blocked. The dreamer is confronted with the accumulated "waste" of their own or the collective self.  
 * **Lack of Privacy:** The absence of doors 54 corresponds to the **disclosure of internals** in the World of Spirits. In the physical world, we hide our "shame" (our evils). In the spiritual world, "there is nothing covered that shall not be revealed." The anxiety of being seen on the toilet is the shame of the external man having his inner corruption exposed to the light of heaven.  
 * **The Labyrinth:** The maze-like quality of the bathrooms 55 corresponds to the **intricacy of falsity**. Evil is not simple; it creates complex rationalizations (mazes) to justify itself.
 
@@ -144,7 +144,7 @@ The Mall World is bounded by a **Coastline**, often featuring a dark ocean and t
 Swedenborg identifies the **Sea** as the "ultimate" or boundary of the spiritual world.69 It corresponds to the **external knowledges** (scientifics) of the natural man.
 
 * **The Tsunami:** The recurring Tsunami 68 is a direct correspondence to **Inundation**. In *Arcana Coelestia*, the "Flood" signifies an **inundation of falsities and lusts**.70 The giant wave represents a surge of falsity from the hells that threatens to overwhelm the rational mind. Surviving the wave signifies the preservation of the "remains" of good by the Lord.72  
-* **The Artificial Beach:** The "concrete beach" or indoor water park 73 corresponds to **falsified truths**. Water should be living (natural); concrete water features represent a "man-made" system of truth—doctrinal water that is contained and controlled by the proprium (self-intelligence).
+* **The Artificial Beach:** The "concrete beach" or indoor water park 73 corresponds to **falsified truths**. Water should be living (natural); concrete water features represent a "man-made" system of truth—doctrinal water that is contained and controlled by the self (self-intelligence).
 
 ## **10\. The Lower Earth: Basements, Garages, and Tunnels**
 
@@ -192,7 +192,7 @@ The Mall itself is the foundational substrate of this world. Dreamers report it 
 
 ### **12.2 The Phenomenology of the Hotel**
 
-The "Red Hotel" is distinct from the Mall in its *residential* nature. It is a place of **sojourn**. In the Word, "sojourning" signifies instruction and life.47 However, the "Red" quality marks it as a specific *kind* of life—the life of the **Proprium** (Selfhood). The redness corresponds to the **fire** of self-love.44 The "dim lighting" reported by dreamers 15 is the "lumen" of the natural man, which appears as light to those in it but as darkness to the angels. The "haunted" nature of the upper rooms reveals that the "high places" of the self are inhabited by the ghosts of past evils.
+The "Red Hotel" is distinct from the Mall in its *residential* nature. It is a place of **sojourn**. In the Word, "sojourning" signifies instruction and life.47 However, the "Red" quality marks it as a specific *kind* of life—the life of the **Self** (Selfhood). The redness corresponds to the **fire** of self-love. The "dim lighting" reported by dreamers is the "lumen" of the natural man, which appears as light to those in it but as darkness to the angels. The "haunted" nature of the upper rooms reveals that the "high places" of the self are inhabited by the ghosts of past evils.
 
 ### **12.3 The Phenomenology of the Coast**
 

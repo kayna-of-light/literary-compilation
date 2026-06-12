@@ -210,7 +210,7 @@ A tempting but mistaken interpretation frames Göbekli Tepe as a deliberate "tim
 
 The correspondential reading is subtler: they began to SHAPE THEIR OWN FORMS.
 
-Teaching in its pure sense is not the proprium. Teaching is showing—pointing to what is already there and allowing perception to flow in. The celestial person points to the mountain; others perceive "elevation toward the Divine" directly. The celestial person gestures toward the lamb; others perceive "innocence" without explanation. Nature already expresses the correspondences. Showing is simply directing attention to what is.
+Teaching in its pure sense is not the self. Teaching is showing—pointing to what is already there and allowing perception to flow in. The celestial person points to the mountain; others perceive "elevation toward the Divine" directly. The celestial person gestures toward the lamb; others perceive "innocence" without explanation. Nature already expresses the correspondences. Showing is simply directing attention to what is.
 
 But the Göbekli Tepe builders felt this was no longer sufficient. They felt they could not express in nature what they perceived. So they shaped something themselves—carved T-pillars, arranged animal reliefs, constructed enclosures. They made their OWN forms to carry what natural forms apparently could not.
 
@@ -365,7 +365,7 @@ The trajectory of the Fall is the trajectory from perception to doctrine:
 
 Göbekli Tepe represents the HINGE between Stage 2 and Stage 3—but not because the builders planned it that way.
 
-The builders still possessed enough perception to produce iconography that accurately expressed spiritual realities. But the AFFECTION had shifted. They wanted to BUILD. To make something permanent. To express rather than merely receive. This is the proprium awakening—not as conscious rebellion but as natural expression of a changed ruling love.
+The builders still possessed enough perception to produce iconography that accurately expressed spiritual realities. But the AFFECTION had shifted. They wanted to BUILD. To make something permanent. To express rather than merely receive. This is the self awakening—not as conscious rebellion but as natural expression of a changed ruling love.
 
 They did not build to preserve. They built because building is what the externalized affection DOES. The monument is not a message to the future; it is the present expressing itself. That the iconography happens to preserve correspondential content is Providence operating through natural affection—not conscious preservation strategy.
 
@@ -456,7 +456,7 @@ The "Venus" figurines of the Gravettian period (circa 30,000 BCE) have been vari
 
 **Exaggerated breasts**: Breasts correspond to charity and spiritual nourishment. Massive breasts signify enormous capacity to nurture and instruct. The figurine IS the "Mother" of spiritual life.
 
-**Facelessness**: The covered or absent face signifies that the "self" is hidden in the Divine. The celestial person has no proprium (selfish ego) that asserts itself. The face is veiled because the self is subordinated. This is not dehumanization but supra-humanization—humanity in its elevated state.
+**Facelessness**: The covered or absent face signifies that the "self" is hidden in the Divine. The celestial person has no self (selfish ego) that asserts itself. The face is veiled because the self is subordinated. This is not dehumanization but supra-humanization—humanity in its elevated state.
 
 **No feet**: Feet correspond to the natural level, the lowest degree of life. The Venus figures often lack feet because they represent the INTERNAL person, not grounded in the merely natural. They float in the hand of the holder—purely spiritual affection.
 
@@ -506,7 +506,7 @@ Göbekli Tepe was not built as a message to us. The builders were not thinking o
 
 We can read it now—not because they intended us to, but because correspondences are objective. What they carved corresponds to spiritual realities that remain true. The doctrine of correspondences gives us a translation key not because they left us a code, but because the same spiritual-natural relationships they perceived still obtain.
 
-The stones speak not as message but as expression. They express a humanity that perceived the system directly—the whole spiritual-natural correspondence present to awareness. They express a transition, a shift in ruling love, the arising of the proprium's desire to externalize and claim. They express what happens when perception meets the drive to produce.
+The stones speak not as message but as expression. They express a humanity that perceived the system directly—the whole spiritual-natural correspondence present to awareness. They express a transition, a shift in ruling love, the arising of the self's desire to externalize and claim. They express what happens when perception meets the drive to produce.
 
 And they express, ultimately, what endures: not the builders' intentions, which we cannot know, but the correspondences themselves—spiritual realities carved in limestone, as true now as when the marks were made, waiting not for decoding but for recognition.
 

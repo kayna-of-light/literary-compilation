@@ -1,12 +1,12 @@
-# **The Architecture of Autonomy: A Pneumatological and Historical Validation of the Gnostic Impulse as the Operational Mechanic of the Proprium**
+# **The Architecture of Autonomy: A Pneumatological and Historical Validation of the Gnostic Impulse as the Operational Mechanic of Selfhood**
 
 > ---
 > **📋 Editorial Notes** | Last reviewed: 2026-04-11
 > 
 > This document reflects **earlier understanding** on:
-> - **#22** The Self and the Proprium — **CRITICAL**: Defines the proprium as "inherently dead/evil" and equates it with self-love
+> - **#22** The Self and Selfhood — **CRITICAL**: Defines the self as "inherently dead/evil" and equates it with self-love
 > 
-> **Summary**: The proprium is not inherently evil — it is the vessel (selfhood) that must form before it can receive. It becomes the obstacle only when it claims what flows through it as its own possession (self-sourcing). Self-love is one possible orientation of the vessel, not what the vessel IS. The observations about self-sourcing mechanics (spiritual theft, claiming divine attributes) remain valid.
+> **Summary**: the self is not inherently evil — it is the vessel (selfhood) that must form before it can receive. It becomes the obstacle only when it claims what flows through it as its own possession (self-sourcing). Self-love is one possible orientation of the vessel, not what the vessel IS. The observations about self-sourcing mechanics (spiritual theft, claiming divine attributes) remain valid.
 > **Established correction (library)**: *The Human Who Showed the Way*
 > ---
 
@@ -14,9 +14,9 @@
 
 The document *The Architecture of Hidden Divinity: A Comprehensive Profile of the Gnostic Impulse and Its Historical Mechanics* presents a theoretical framework that is both audacious and rigorously structured. It posits that the diverse array of spiritual movements categorized historically as "Gnostic"—from the Valentinian schools of Late Antiquity to the "Spiritual But Not Religious" (SBNR) demographics of the 21st century—are not disparate, unconnected phenomena. Rather, they are iterations of a singular, recurring "structural mechanic" within the human spirit. This mechanic, termed the "Gnostic Impulse," is characterized by a specific set of theological operations: the depersonalization of the Divine into an abstract principle, the bifurcation of the historical Jesus from a cosmic Christ entity, and the pursuit of salvation through *gnosis* (self-realization) rather than relational redemption.1
 
-Crucially, the *Architecture* hypothesis asserts that this theological machinery is the direct operationalization of a specific affective state: the "Ruling Love" (*Amor Regnans*) of the self, or what the 18th-century theologian Emanuel Swedenborg termed the *Proprium*. This report undertakes an exhaustive, expert-level validation of this thesis. By cross-referencing the claims of the *Architecture* document against the massive theological corpus of Swedenborg and the historical record of Gnostic, Theosophical, and New Age Christologies, we confirm the validity of the user's hypothesis.
+Crucially, the *Architecture* hypothesis asserts that this theological machinery is the direct operationalization of a specific affective state: the "Ruling Love" (*Amor Regnans*) of the self, or what the 18th-century theologian Emanuel Swedenborg termed the the self. This report undertakes an exhaustive, expert-level validation of this thesis. By cross-referencing the claims of the *Architecture* document against the massive theological corpus of Swedenborg and the historical record of Gnostic, Theosophical, and New Age Christologies, we confirm the validity of the user's hypothesis.
 
-The analysis reveals that the "Gnostic Impulse" is not merely a history of ideas, but the "ultimate" form of the *Proprium*’s inherent drive for autonomy. Whether manifesting as the "Christ Aeon" of Valentinus, the "Sananda" of the Ashtar Command, or the "God-Self" of modern spirituality, the trajectory is immutable: it seeks to dismantle the "Divine Human"—the external, ruling, and visible God—to vacate the throne of the universe for the internal, autonomous Self. This report delineates the specific mechanics of this "spiritual theft," validating the *Architecture* document as a precise anatomical map of the "Antagonist Proprium" in its intellectual form.
+The analysis reveals that the "Gnostic Impulse" is not merely a history of ideas, but the "ultimate" form of the the self’s inherent drive for autonomy. Whether manifesting as the "Christ Aeon" of Valentinus, the "Sananda" of the Ashtar Command, or the "God-Self" of modern spirituality, the trajectory is immutable: it seeks to dismantle the "Divine Human"—the external, ruling, and visible God—to vacate the throne of the universe for the internal, autonomous Self. This report delineates the specific mechanics of this "spiritual theft," validating the *Architecture* document as a precise anatomical map of the "Antagonist Selfhood" in its intellectual form.
 
 ## ---
 
@@ -30,38 +30,38 @@ Swedenborg posits that every human being is governed by a dominant affection or 
 
 Crucially, Swedenborg structures this pneumatology around a fundamental binary. The Ruling Love is directed either toward the Lord and the Neighbor (the "Love of Heaven") or toward the Self and the World (the "Love of Hell").5 This binary is absolute; there is no middle ground. The "Love of Self," when it becomes the ruling principle, is the root of all evil and the source of all heresy.7
 
-The *Architecture* document correctly identifies the "Gnostic Impulse" as a manifestation of this "Love of the Self" (Proprium).1 Swedenborg defines the *Proprium* (often translated as "ownhood," "selfhood," or "what is one's own") as inherently "dead," "bony," and "nothing but evil" when separated from the Divine.7 The *Proprium* is not merely a passive state of separation; it is an active, hungry force. It is the seat of the "love of dominion," the desire to be the god of one's own universe.
+The *Architecture* document correctly identifies the "Gnostic Impulse" as a manifestation of this "Love of the Self" (Selfhood).1 Swedenborg defines the the self (often translated as "ownhood," "selfhood," or "what is one's own") as inherently "dead," "bony," and "nothing but evil" when separated from the Divine.7 The the self is not merely a passive state of separation; it is an active, hungry force. It is the seat of the "love of dominion," the desire to be the god of one's own universe.
 
-When this love becomes the *Amor Regnans* in the intellectual sphere, it manifests as the desire for *autonomy*—the refusal to acknowledge an external source of life and truth. This validates the *Architecture's* assertion that Gnosticism is a strategy of "self-glorification" cloaked in the language of enlightenment.1 The Gnostic does not seek a relationship with an Other; they seek the realization of the Self. This is the exact theological trajectory of the *Proprium*.
+When this love becomes the *Amor Regnans* in the intellectual sphere, it manifests as the desire for *autonomy*—the refusal to acknowledge an external source of life and truth. This validates the *Architecture's* assertion that Gnosticism is a strategy of "self-glorification" cloaked in the language of enlightenment.1 The Gnostic does not seek a relationship with an Other; they seek the realization of the Self. This is the exact theological trajectory of the the self.
 
 ### **1.2 The Mechanism of "Theft": The Appropriation of Divine Attributes**
 
-A central and profound insight of Swedenborg’s pneumatology is that the *Proprium* is fundamentally a thief. Its primary operation is to appropriate the attributes of the Divine—life, wisdom, and power—and claim them as its own intrinsic properties.7
+A central and profound insight of Swedenborg’s pneumatology is that the the self is fundamentally a thief. Its primary operation is to appropriate the attributes of the Divine—life, wisdom, and power—and claim them as its own intrinsic properties.7
 
-Swedenborg describes the state of evil spirits in the afterlife who "insist stubbornly that they do live from themselves".9 They refuse to acknowledge the reality of *Influx*—the spiritual fact that all life flows continuously from the Lord. Instead, they embrace the illusion of independent existence. This is the "As-of-Self" paradox: man is created to live *as if* life were his own, but to acknowledge continuously that it is *not*.8 The *Proprium* collapses this paradox, claiming the "As-if" as an "Is."
+Swedenborg describes the state of evil spirits in the afterlife who "insist stubbornly that they do live from themselves".9 They refuse to acknowledge the reality of *Influx*—the spiritual fact that all life flows continuously from the Lord. Instead, they embrace the illusion of independent existence. This is the "As-of-Self" paradox: man is created to live *as if* life were his own, but to acknowledge continuously that it is *not*.8 The the self collapses this paradox, claiming the "As-if" as an "Is."
 
-The *Architecture* document validates this by profiling the Gnostic mechanic of the "Divine Spark".1 By defining the human soul not as a created vessel *receiving* life, but as a "fragment" of the Divine *possessing* life (consubstantial with the Pleroma), the Gnostic architecture legitimizes this spiritual theft. It provides a theological framework where the *Proprium’s* illusion of autonomy is elevated to a supreme ontological truth: "I am God".1
+The *Architecture* document validates this by profiling the Gnostic mechanic of the "Divine Spark".1 By defining the human soul not as a created vessel *receiving* life, but as a "fragment" of the Divine *possessing* life (consubstantial with the Pleroma), the Gnostic architecture legitimizes this spiritual theft. It provides a theological framework where the *Selfhood’s* illusion of autonomy is elevated to a supreme ontological truth: "I am God".1
 
-This mechanic is visible in the "Intellectual Proprium" described in the research.7 The *Proprium* seeks to "establish ourselves as the prime suspects for gnosis".10 It rejects the "Path of Influx" (which requires humility and vesselhood) in favor of the "Path of Identity" (which asserts inherent divinity). The Gnostic "redemption" is not being saved from sin (the *Proprium*); it is the *Proprium* realizing its own divinity.
+This mechanic is visible in the "Intellectual Selfhood" described in the research.7 The the self seeks to "establish ourselves as the prime suspects for gnosis".10 It rejects the "Path of Influx" (which requires humility and vesselhood) in favor of the "Path of Identity" (which asserts inherent divinity). The Gnostic "redemption" is not being saved from sin (the the self); it is the the self realizing its own divinity.
 
 ### **1.3 The "Black" Sphere and the Rejection of the Visible God**
 
-Swedenborg’s phenomenological descriptions of the spiritual world offer a striking visual validation of the *Architecture's* thesis. He reports that the *Proprium*, when viewed in the light of heaven, appears "black," corresponding to the darkness of self-absorption and the absence of Divine Truth.11 Evil spirits, who are forms of their own *Proprium*, are described as being unable to bear the light of heaven, which corresponds to the Divine Human.
+Swedenborg’s phenomenological descriptions of the spiritual world offer a striking visual validation of the *Architecture's* thesis. He reports that the the self, when viewed in the light of heaven, appears "black," corresponding to the darkness of self-absorption and the absence of Divine Truth.11 Evil spirits, who are forms of their own the self, are described as being unable to bear the light of heaven, which corresponds to the Divine Human.
 
-This aversion to light explains the Gnostic preference for the "Unknown God" or the "Alien God" over the revealed God of history. Swedenborg explicitly links the "Love of Self" to the denial of the Lord’s Divinity.12 He states that those who are in the love of self "are not willing to hear of faith in Him," because the acknowledgment of a visible, external God (The Divine Human) requires a humility and submission that the *Proprium* finds intolerable.12
+This aversion to light explains the Gnostic preference for the "Unknown God" or the "Alien God" over the revealed God of history. Swedenborg explicitly links the "Love of Self" to the denial of the Lord’s Divinity.12 He states that those who are in the love of self "are not willing to hear of faith in Him," because the acknowledgment of a visible, external God (The Divine Human) requires a humility and submission that the the self finds intolerable.12
 
-The *Proprium* requires a God that is abstract, invisible, or internal—a "God" that can be possessed rather than obeyed. This validates the *Architecture's* identification of "Depersonalization" as a key Gnostic tactic.1 By converting God into "Energy," "Source," or "Principle," the Gnostic Impulse removes the "Person" who judges and commands, replacing Him with a neutral substance that the Self can manipulate or merge with.1
+The the self requires a God that is abstract, invisible, or internal—a "God" that can be possessed rather than obeyed. This validates the *Architecture's* identification of "Depersonalization" as a key Gnostic tactic.1 By converting God into "Energy," "Source," or "Principle," the Gnostic Impulse removes the "Person" who judges and commands, replacing Him with a neutral substance that the Self can manipulate or merge with.1
 
 ### **Table 1: The Swedenborgian Anatomy of the Gnostic Impulse**
 
 | Swedenborgian Concept | Definition in Texts | Manifestation in "Gnostic Impulse" (Architecture) | Validation Insight |
 | :---- | :---- | :---- | :---- |
 | **Amor Regnans** | The ruling love that dictates all thought/perception.3 | The drive for "Self-Realization" and "Autonomy".1 | Gnosticism is the *doctrine* of the Self's ruling love. |
-| **Proprium** | The "ownhood" of man; inherently dead/evil; desires to be God.7 | The "Divine Spark" doctrine; the assertion "I am God".1 | The "Spark" is the *Proprium* theologized as divinity. |
+| *the self* | The "ownhood" of man; inherently dead/evil; desires to be God.7 | The "Divine Spark" doctrine; the assertion "I am God".1 | The "Spark" is the the self theologized as divinity. |
 
-> **[REFRAMING #22]**: This table defines the proprium as "inherently dead/evil." The corrected understanding: the proprium is the vessel (selfhood) that must form before it can receive. It is not inherently evil — it becomes the obstacle only when it claims ownership of what flows through it (self-sourcing). The "Divine Spark" doctrine is correctly identified as self-sourcing — the proprium claiming divine influx as its own possession. See: The Human Who Showed the Way
+> **[REFRAMING #22]**: This table defines the self as "inherently dead/evil." The corrected understanding: the self is the vessel (selfhood) that must form before it can receive. It is not inherently evil — it becomes the obstacle only when it claims ownership of what flows through it (self-sourcing). The "Divine Spark" doctrine is correctly identified as self-sourcing — the self claiming divine influx as its own possession. See: The Human Who Showed the Way
 | **Spiritual Theft** | Claiming Divine Life/Attributes as one's own property.9 | The claim that the soul is *consubstantial* with the Father.1 | Gnosis is the legitimization of spiritual theft. |
-| **Rejection of Divine Human** | The "Fundamental Error" of the Dragon; denying God in Ultimates.13 | The "Splitting" of Jesus and Christ; Docetism.10 | The *Proprium* cannot tolerate a Visible God who rules. |
+| **Rejection of Divine Human** | The "Fundamental Error" of the Dragon; denying God in Ultimates.13 | The "Splitting" of Jesus and Christ; Docetism.10 | The the self cannot tolerate a Visible God who rules. |
 | **The Dragon** | Those in "faith alone" (knowledge) without charity (life).14 | Salvation by *Gnosis* (knowledge) rather than regeneration.1 | Gnosticism is the ancient form of the "Dragon" dynamic. |
 
 ## ---
@@ -86,15 +86,15 @@ The *Architecture* traces this "Splitting" tactic into the modern era through Th
 
 Blavatsky’s distinction is a perfect modernization of the Gnostic split. She argued that *Christos* is not a person but an impersonal "Divine Principle" present in *every* human being.20 Jesus was merely a "Chrestos"—an initiate, adept, or "Master" who had fully realized this principle within himself.
 
-This "Democratization of Divinity" is the key strategic goal of the *Proprium*. As the *Architecture* argues 1, by defining Christ as a principle rather than a person, Theosophy effectively states that "Christ" is not unique to Jesus. It is a potential inherent in everyone. Blavatsky writes, "Christ—the true esoteric Saviour—is no man, but the Divine Principle in every human being".21 This validates the *Architecture's* diagnosis: the Gnostic Impulse lowers Jesus to the status of a peer—an "Elder Brother"—to elevate the Self to the status of God.
+This "Democratization of Divinity" is the key strategic goal of the the self. As the *Architecture* argues 1, by defining Christ as a principle rather than a person, Theosophy effectively states that "Christ" is not unique to Jesus. It is a potential inherent in everyone. Blavatsky writes, "Christ—the true esoteric Saviour—is no man, but the Divine Principle in every human being".21 This validates the *Architecture's* diagnosis: the Gnostic Impulse lowers Jesus to the status of a peer—an "Elder Brother"—to elevate the Self to the status of God.
 
-Later Theosophy, particularly under Alice Bailey, introduced the "overshadowing" doctrine. Bailey taught that the "Christ" (identified as the Lord Maitreya) "overshadowed" the disciple Jesus during his ministry.23 This is a direct resurrection of the Valentinian heresy: two beings in one body, with the Divine using the human as a mouthpiece. It reinforces the *Proprium's* refusal to accept that the *Human* can be *Divine*.
+Later Theosophy, particularly under Alice Bailey, introduced the "overshadowing" doctrine. Bailey taught that the "Christ" (identified as the Lord Maitreya) "overshadowed" the disciple Jesus during his ministry.23 This is a direct resurrection of the Valentinian heresy: two beings in one body, with the Divine using the human as a mouthpiece. It reinforces the *Selfhood's* refusal to accept that the *Human* can be *Divine*.
 
 ### **2.3 The "Cosmological Demotion": The Urantia Book and Ashtar Command**
 
 The *Architecture* identifies "Cosmological Demotion" and "Renaming" as secondary tactics to reinforce this separation.1 The research strongly supports these categories.
 
-**The Urantia Book:** The research validates the specific claim that *The Urantia Book* performs a "Cosmological Demotion".10 It identifies Jesus not as the Second Person of the Trinity, but as "Michael of Nebadon," a "Creator Son." Crucially, the text states there are more than 700,000 such Creator Sons.25 It explicitly distinguishes Michael from the "Eternal Son," who is the actual Infinite Deity.25 This is a sophisticated "Gnostic split" that retains the language of divinity while dismantling the uniqueness of the Incarnation. Jesus becomes a departmental manager of a local universe—a high-ranking bureaucrat in a cosmic hierarchy—not the Infinite God in human form. This serves the *Proprium* by placing the Supreme God at an infinite distance, safe from the need for direct submission.
+**The Urantia Book:** The research validates the specific claim that *The Urantia Book* performs a "Cosmological Demotion".10 It identifies Jesus not as the Second Person of the Trinity, but as "Michael of Nebadon," a "Creator Son." Crucially, the text states there are more than 700,000 such Creator Sons.25 It explicitly distinguishes Michael from the "Eternal Son," who is the actual Infinite Deity.25 This is a sophisticated "Gnostic split" that retains the language of divinity while dismantling the uniqueness of the Incarnation. Jesus becomes a departmental manager of a local universe—a high-ranking bureaucrat in a cosmic hierarchy—not the Infinite God in human form. This serves the the self by placing the Supreme God at an infinite distance, safe from the need for direct submission.
 
 **Renaming (Sananda):** The *Architecture* cites the renaming of Jesus to "Sananda" in UFO religions.1 Research into the Ashtar Command and Ascended Master teachings confirms this.27 "Sananda" is presented as a "Galactic Commander" or "Master," often subordinate to other cosmic intelligences. This "Renaming" tactic severs the psychological link to the biblical Jesus—the "Man of Sorrows"—replacing him with a technologically advanced, powerful figure. This appeals to the "Love of the World" (power, technology, hierarchy) and further degrades the concept of the Divine Human into a biological entity (an extraterrestrial) rather than the Source of Life.
 
@@ -104,21 +104,21 @@ The *Architecture* identifies "Cosmological Demotion" and "Renaming" as secondar
 
 The operational engine of the Gnostic worldview is *gnosis*—a specific mode of knowing that stands in direct opposition to the "faith" of the orthodox/incarnational communities. The *Architecture* document frames this as a conflict between "Secret Knowledge" (validated by the self) and "Revelation" (received from the Other).1 This section validates this epistemological conflict through Swedenborg’s concept of *Influx* and the sociology of modern "Self-Spirituality."
 
-### **3.1 Gnosis as the "Intellectual Proprium"**
+### **3.1 Gnosis as the "Intellectual Selfhood"**
 
 Gnosis is described in the research as a "special, esoteric knowledge" that functions as a "revelatory, intuitive insight".1 It is not intellectual data acquired through study, nor is it empirical knowledge. It is a suprarational encounter with the truth of one's origin. Crucially, as the *Gospel of Thomas* illustrates, this knowledge is *self-knowledge*: "When you come to know yourselves, then you will become known... but if you will not know yourselves, you dwell in poverty".31
 
-This validates the *Architecture's* claim that Gnostic salvation is "self-realization." The savior is not an external redeemer but a facilitator of internal awakening. Swedenborg critiques this mode of knowing as the "pride of self-intelligence" (*proprium intelligentiae*).14 He argues that the *Proprium* loves to "hatch out for itself dogmas" from its own internal light, which it mistakes for the light of heaven.14 This internal light, however, is often what Swedenborg calls "fatuous light"—a hallucinatory luminosity generated by the confirmation of falsities that align with the self's ruling love.33
+This validates the *Architecture's* claim that Gnostic salvation is "self-realization." The savior is not an external redeemer but a facilitator of internal awakening. Swedenborg critiques this mode of knowing as the "pride of self-intelligence" (*Selfhood intelligentiae*).14 He argues that the the self loves to "hatch out for itself dogmas" from its own internal light, which it mistakes for the light of heaven.14 This internal light, however, is often what Swedenborg calls "fatuous light"—a hallucinatory luminosity generated by the confirmation of falsities that align with the self's ruling love.33
 
 ### **3.2 The Sociology of "Self-Spirituality" and Narcissism**
 
-The *Architecture* links the Gnostic Impulse to the modern "Spiritual But Not Religious" (SBNR) movement, framing it as a "textbook example" of the *Proprium* at work.1 Sociological research by Paul Heelas, Linda Woodhead, and others strongly supports this validation. They characterize the "New Age" and SBNR movements as a "Spiritual Revolution" defined by a "subjective turn" away from external authority (institutions, scriptures) toward inner experience.34
+The *Architecture* links the Gnostic Impulse to the modern "Spiritual But Not Religious" (SBNR) movement, framing it as a "textbook example" of the the self at work.1 Sociological research by Paul Heelas, Linda Woodhead, and others strongly supports this validation. They characterize the "New Age" and SBNR movements as a "Spiritual Revolution" defined by a "subjective turn" away from external authority (institutions, scriptures) toward inner experience.34
 
 This phenomenon is termed **"Self-Spirituality."** As Heelas notes, "To experience the 'Self' itself is to experience 'inner spirituality'".35 The central tenet is that the "True Self" is divine. This perfectly mirrors the Gnostic doctrine of the "Divine Spark." The individual trusts their own intuitions and experiences as the final arbiter of truth, rejecting "mediated" religion.36
 
 The *Architecture's* explicit link between this dynamic and **narcissism** is also validated by the research.1 Critics and psychologists have noted that the focus on "self-realization" often collapses into "self-worship" or "spiritual narcissism".36 By sacralizing the self, the individual removes any external standard of judgment. As one study notes, "The divine self is the author of our life story," effectively making the ego the god of its own narrative.37
 
-This creates the "closed loop of validation" described in the *Architecture*.1 If "I am God," then my desires, impulses, and truths are divine. This obliterates the Swedenborgian distinction between the "internal man" (which receives from the Lord) and the "external man" (which is driven by the *Proprium*). In the SBNR model, the *Proprium* is simply relabeled as the "Higher Self," allowing the individual to worship their own reflection without guilt.
+This creates the "closed loop of validation" described in the *Architecture*.1 If "I am God," then my desires, impulses, and truths are divine. This obliterates the Swedenborgian distinction between the "internal man" (which receives from the Lord) and the "external man" (which is driven by the the self). In the SBNR model, the the self is simply relabeled as the "Higher Self," allowing the individual to worship their own reflection without guilt.
 
 ### **3.3 The Incompatibility of Influx and Identity**
 
@@ -126,13 +126,13 @@ The conflict between these epistemologies is absolute. Swedenborg’s system is 
 
 The Gnostic system is based on **Identity**: the acknowledgment that man *is* life, or a fragment of it.1 "I am God; I had just forgotten."
 
-As the *Architecture* argues using the Daniel 2 metaphor, these are "clay and iron"—they cannot mix.1 One cannot simultaneously believe "I am a created vessel dependent on the Lord" and "I am the uncreated Divine Spark." The *Proprium* gravitates toward Gnosis because Gnosis validates its autonomy; it rejects Influx because Influx requires submission.
+As the *Architecture* argues using the Daniel 2 metaphor, these are "clay and iron"—they cannot mix.1 One cannot simultaneously believe "I am a created vessel dependent on the Lord" and "I am the uncreated Divine Spark." The the self gravitates toward Gnosis because Gnosis validates its autonomy; it rejects Influx because Influx requires submission.
 
 ## ---
 
 **Section IV: The Sophisticated Hybrid – A Course in Miracles as Modern Gnosis**
 
-The *Architecture* document categorizes *A Course in Miracles* (ACIM) as a "sophisticated" or "hybrid" Gnosis that utilizes Christian language to deliver a Gnostic message.10 This section validates this classification, demonstrating how ACIM acts as a bridge for the *Proprium* to enter the Gnostic worldview under the guise of Christian devotion.
+The *Architecture* document categorizes *A Course in Miracles* (ACIM) as a "sophisticated" or "hybrid" Gnosis that utilizes Christian language to deliver a Gnostic message.10 This section validates this classification, demonstrating how ACIM acts as a bridge for the the self to enter the Gnostic worldview under the guise of Christian devotion.
 
 ### **4.1 Redefining the Lexicon: The Strategy of Semantic Subversion**
 
@@ -142,7 +142,7 @@ Research confirms that ACIM systematically redefines core Christian terminology 
 * **Atonement:** In Christianity, Atonement is the reconciliation of God and man through the work of Christ. In ACIM, "Atonement" is the "correction of perception"—the realization that separation never occurred.40  
 * **Forgiveness:** In Christianity, forgiveness is pardoning an offense. In ACIM, forgiveness is recognizing that *there was no offense* because the world is an illusion.39
 
-This semantic subversion serves the *Proprium* perfectly. By denying the reality of sin, ACIM removes the need for repentance and the need for a Savior who saves *from* sin. It validates the *Architecture's* claim that the Gnostic Impulse seeks to bypass the "Lord in Ultimates" (who deals with the reality of sin and evil) in favor of a "mind-cure" that denies evil's existence.
+This semantic subversion serves the the self perfectly. By denying the reality of sin, ACIM removes the need for repentance and the need for a Savior who saves *from* sin. It validates the *Architecture's* claim that the Gnostic Impulse seeks to bypass the "Lord in Ultimates" (who deals with the reality of sin and evil) in favor of a "mind-cure" that denies evil's existence.
 
 ### **4.2 The Dismantling of the Unique Sonship**
 
@@ -151,7 +151,7 @@ The most significant Gnostic mechanic in ACIM is its Christology. While purporte
 * **The Collective Christ:** ACIM teaches that "Christ" is not Jesus alone, but the "shared identity of the entire Sonship".10 Jesus is merely the "first" to realize this, an "older brother" who is "no different" from the student.41  
 * **Equality with Jesus:** The text encourages the student to realize their equality with Jesus: "Is he the Christ? O yes, along with you".40
 
-This validates the *Architecture's* analysis of the "Splitting" tactic.1 ACIM uses the *authority* of the name "Jesus" to dismantle the *exclusivity* of Jesus. It is a "Trojan Horse" for the *Proprium*. It flatters the self by elevating it to the status of the Savior, reinforcing the "I am God" mechanic while using the comforting language of Christian devotion.
+This validates the *Architecture's* analysis of the "Splitting" tactic.1 ACIM uses the *authority* of the name "Jesus" to dismantle the *exclusivity* of Jesus. It is a "Trojan Horse" for the the self. It flatters the self by elevating it to the status of the Savior, reinforcing the "I am God" mechanic while using the comforting language of Christian devotion.
 
 ### **Table 2: Comparative Christologies of Separation**
 
@@ -178,7 +178,7 @@ This validates the *Architecture's* assertion that Gnosticism destroys the "body
 
 ### **5.2 The "Love of Dominion" in Spiritual Guise**
 
-The *Architecture* warns that the "Love of Self," even when spiritualized, remains a love of dominion.1 Research into movements like the Ashtar Command reveals this clearly. Despite the language of "love and light," these groups often exhibit rigid hierarchies, authoritarian channelers, and a fixation on "cleansing" the earth of "lower vibrations".43 This is the *Proprium* projecting its desire for control onto the cosmos.
+The *Architecture* warns that the "Love of Self," even when spiritualized, remains a love of dominion.1 Research into movements like the Ashtar Command reveals this clearly. Despite the language of "love and light," these groups often exhibit rigid hierarchies, authoritarian channelers, and a fixation on "cleansing" the earth of "lower vibrations".43 This is the the self projecting its desire for control onto the cosmos.
 
 Swedenborg contrasts this with the "Grand Man" (Maximus Homo)—his vision of heaven as a universal human form where every individual finds their joy in *use* (service) to the whole.44 In the Swedenborgian view, the individual is not an autonomous "god" but a functional organ in the Body of the Divine. The Gnostic refusal to be an "organ" (a creature) in favor of being the "Whole" (God) is the sociological root of fragmentation.
 
@@ -186,13 +186,13 @@ Swedenborg contrasts this with the "Grand Man" (Maximus Homo)—his vision of he
 
 **Conclusion: The "Oldest Lie" Re-Architected**
 
-The comprehensive analysis of *The Architecture of Hidden Divinity* against the Swedenborgian and historical datasets yields a definitive validation of its core thesis. The "Gnostic Impulse" is not a random collection of heresies; it is the systematic, recurring theological expression of the *Proprium* (Self-Love) seeking to secure its own autonomy against the claims of the Divine Human.
+The comprehensive analysis of *The Architecture of Hidden Divinity* against the Swedenborgian and historical datasets yields a definitive validation of its core thesis. The "Gnostic Impulse" is not a random collection of heresies; it is the systematic, recurring theological expression of the the self (Self-Love) seeking to secure its own autonomy against the claims of the Divine Human.
 
-> **[REFRAMING #22]**: This conclusion equates the proprium with self-love. The corrected understanding: the proprium is the vessel (selfhood), not self-love; self-love is one possible orientation of the vessel. When the proprium claims what flows through it as its own possession, that is **self-sourcing** — the specific directional error. See: *The Human Who Showed the Way*
+> **[REFRAMING #22]**: This conclusion equates the self with self-love. The corrected understanding: the self is the vessel (selfhood), not self-love; self-love is one possible orientation of the vessel. When the self claims what flows through it as its own possession, that is **self-sourcing** — the specific directional error. See: *The Human Who Showed the Way*
 
 The validation reveals a coherent, mechanical system:
 
-1. **The Motive:** The *Ruling Love of Self* (Proprium) seeks autonomy and dominion.  
+1. **The Motive:** The *Ruling Love of Self* (Selfhood) seeks autonomy and dominion.  
 2. **The Strategy:** *Spiritual Theft*—claiming the attributes of God (Life, Truth) as inherent to the Self.  
 3. **The Tactic:** *Dismantling the Lord*—using "Splitting," "Depersonalization," and "Demotion" to remove the visible, ruling God.  
 4. **The Result:** *Self-Deification*—the elevation of the "True Self" to the throne of the universe.
@@ -209,7 +209,7 @@ The report confirms that the "Incarnational" and "Gnostic" paths are indeed "Cla
 4. Full text of "Divine Providentia By Emanuel Swedenborg" \- Internet Archive, accessed on December 6, 2025, [https://archive.org/stream/in.ernet.dli.2015.61786/2015.61786.Divine-Providentia-By-Emanuel-Swedenborg\_djvu.txt](https://archive.org/stream/in.ernet.dli.2015.61786/2015.61786.Divine-Providentia-By-Emanuel-Swedenborg_djvu.txt)  
 5. swedenborg\_heaven\_and\_hell.pdf, [https://drive.google.com/open?id=1QgSAhyHE151\_rAMFZnSwIBZj4pkqVv9a](https://drive.google.com/open?id=1QgSAhyHE151_rAMFZnSwIBZj4pkqVv9a)  
 6. 10 The Love Of Self \- Swedenborg Study, accessed on December 6, 2025, [http://www.swedenborgstudy.com/books/H.Lj.Odhner\_Ten-Commandments/self-love.html](http://www.swedenborgstudy.com/books/H.Lj.Odhner_Ten-Commandments/self-love.html)  
-7. Proprium; Temptation; Evil; Sin; Remains \- The Swedenborg Digital Library, accessed on December 6, 2025, [https://swedenborgdigitallibrary.org/kirv/kirv3.htm](https://swedenborgdigitallibrary.org/kirv/kirv3.htm)  
+7. Selfhood; Temptation; Evil; Sin; Remains \- The Swedenborg Digital Library, accessed on December 6, 2025, [https://swedenborgdigitallibrary.org/kirv/kirv3.htm](https://swedenborgdigitallibrary.org/kirv/kirv3.htm)  
 8. Does God Have an Ego? \- Swedenborg Foundation, accessed on December 6, 2025, [https://swedenborg.com/does-god-have-an-ego/](https://swedenborg.com/does-god-have-an-ego/)  
 9. Self-consciousness \- Science of Correspondences, accessed on December 6, 2025, [http://www.scienceofcorrespondences.com/self-consciousness.htm](http://www.scienceofcorrespondences.com/self-consciousness.htm)  
 10. A Comparative Analysis of Non-Religious Christolog..., [**A Comparative Analysis of Non-Religious Christologies: The Battle for the 'Lord in Ultimates'**](../03_Biblical_Scholarship/A%20Comparative%20Analysis%20of%20Non-Religious%20Christologies_%20The%20Battle%20for%20the%20'Lord%20in%20Ultimates'.md)  

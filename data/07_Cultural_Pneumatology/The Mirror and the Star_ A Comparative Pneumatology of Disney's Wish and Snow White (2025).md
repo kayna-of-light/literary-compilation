@@ -24,7 +24,7 @@ In the "Golden Age" of Disney animation (e.g., *Pinocchio*, *Snow White* 1937) a
 
 ### 2.2 Selfhood and the Problem of Self
 
-The central antagonist in Swedenborgian theology is the **self** (Latin *Selfhood*, "ownhood" or "selfhood"). It is the vivid sensation that we live, think, and act from ourselves. When the self confirms itself as the source of life, it becomes the "Love of Self" (*Amor Sui*), which is the root of all evil and the essence of Hell.
+The central antagonist in Swedenborgian theology is the **self** — the vivid sensation that we live, think, and act from ourselves. When the self confirms itself as the source of life, it becomes the "Love of Self," which is the root of all evil and the essence of Hell.
 
 the self operates as a closed loop. It constantly seeks confirmation of its own existence, drawing all things toward itself as center. It cannot receive influx from the Divine because it has positioned itself *as* the source. This creates a spiritual "black hole"—a vacuum that appears to have substance but is, in reality, empty of all life and truth.
 

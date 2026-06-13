@@ -96,6 +96,7 @@ For each strain marked "Needs review":
 - [ ] 20. [Hebrew Bible Dating: Proto-Myth Origins vs. Persian-Period Composition](#20-hebrew-bible-dating-proto-myth-origins-vs-persian-period-composition) — Correction (**Critical**) — NEW (2026-02-07)
 - [ ] 21. [18th-Century Scientific Forcing](#21-18th-century-scientific-forcing) — Correction (**Critical**) — META-STRAIN: Root cause unifying #1, #2, and two new instances (uniform canonicity, 1757 fixing) — NEW (2026-02-12)
 - [ ] 22. [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — Reframing (**Critical**) — Two conflated errors: "Gnosticism" as unified negative brand + proprium as inherently evil — NEW (2026-07-26)
+- [ ] 23. [Glorification as Unique Divine Process](#23-glorification-as-unique-divine-process) — Correction (**Critical**) — Glorification frames the Lord’s unique cosmic operation; corrected view: identical mechanics to regeneration, distinct only in completeness; “Jesus the Radiant” designates a principle, not a person — NEW (2026-06-13)
 
 ---
 
@@ -1234,6 +1235,7 @@ Use blockquote format at the relevant section:
 | 2026-01-26 | Added strain #19 (The Aligned Human)—SYNTHESIS strain resolving Historical Jesus / Christ of Faith dichotomy |
 | 2026-02-07 | Added strain #20 (Hebrew Bible Dating: Proto-Myth Origins vs. Persian-Period Composition)—CRITICAL correction. YRE 2008 falsifies linguistic dating method; philological evidence proves 3rd-millennium material in Genesis/Job |
 | 2026-02-12 | Added strain #21 (18th-Century Scientific Forcing)—**CRITICAL** META-STRAIN unifying root cause of #1 (Limbus), #2 (Biological Christology), plus two new instances: Uniform Canonicity (Gospel layer quality gradient) and 1757 Fixing (continuous process pinned to discrete date). Evidence from NotebookLM analysis of Spiritual Diary and Lukan hermeneutics. Updated #12 interpretive overlay table |
+| 2026-06-13 | Added strain #23 (Glorification as Unique Divine Process)—**CRITICAL** correction distinct from #2 (biological origin) and #19 (aligned human synthesis). Targets the unique-process error: glorification framed as the Lord’s cosmic operation rather than the maximal instance of regeneration. Integrates Kephalaia “Jesus the Radiant” principle-vs-person distinction and NDE evidence. 2 primary documents annotated. |
 
 ### 22. The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing
 
@@ -1330,6 +1332,91 @@ The domain is about **the self** — neutral territory for ordering data about s
 > evil. What these stories dramatize is the proprium's *misorientation* (self-sourcing), 
 > not the proprium's existence.
 > See: The Human Who Showed the Way
+```
+
+---
+
+### 23. Glorification as Unique Divine Process
+
+**Evolution Type**: CORRECTION  
+**Priority**: **CRITICAL**  
+**Status**: New — 2 primary documents annotated (2026-06-13)  
+**Relationship**: Extends #2 (Biological Christology) and #19 (Aligned Human); distinct from both
+
+#### The Two-Part Error
+
+Strain #2 identifies the *origin* error: Jesus had a divine soul from the Father by Aristotelian embryology. That correction is necessary but insufficient. Even after the biological mechanism is removed, a second error survives intact:
+
+**The unique-process error**: Glorification is framed as what *the Lord Himself* underwent — a cosmic process available only to Jesus, in which His divine soul progressively subjugated and united with His human nature. The subject is always “the Lord.” The result is always a categorical distinction between what Jesus did (glorification, unique) and what every other soul does (regeneration, universal).
+
+These are structurally different errors. The biological error concerns *origin*. The unique-process error concerns *mechanics*. You can correct the first (Jesus had a fully human origin) while the second remains untouched — and several corpus documents do exactly this: they remove the biological framing but continue to describe glorification as a process the Lord performed uniquely in and through Jesus.
+
+#### Earlier Position
+
+Glorification is the divine process by which the Lord’s internal Divine Soul (the influx) progressively subjugated, purified, and united with His external human nature (the vessel), until they became a single, fully Divine Human. The entire purpose of the Lord’s earthly life was this process. It was achieved through Temptation Combats that only He could wage, culminating in the Crucifixion as the final, supreme temptation after which the finite human was fully put off and complete divine union achieved. This is a unique cosmic event, not a template for human regeneration.
+
+Additionally: in this framing, the Lord presents in NDE encounters as the Divine Human *because Jesus glorified Himself into that form*, establishing the template all souls now encounter. The historical glorification is the causal ground of the universal encounter.
+
+**Documents reflecting earlier position** (annotated 2026-06-13):
+- [x] `data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md` — §5.1 “The Glorification: The Reality Behind the Historical Jesus”
+- [x] `data/00_Framework/The Divine Bricolage_ A Spiritual History of the Word from Influx to Incarnation.md` — §6.2 “Glorification: The Influx Forging Its Own Vessel”
+- [x] `data/05_The_Self/The Architecture of Autonomy_ A Pneumatological and Historical Validation of the Gnostic Impulse as the Operational Mechanic of Selfhood.md` — §2.1 cites glorification mechanism as ground for refuting separationism; inline #23 added noting corrected ground, conclusion against separationism confirmed
+
+#### Corrected Position
+
+The mechanics of glorification — ruling love orientation toward the Lord, temptation combats that progressively resolve the conflict between self-claiming and Lord-reception, the gradual opening of the soul to what flows through it without obstruction — are **the mechanics of regeneration**. They are the Lord’s own operation through every soul that does not obstruct them. What Jesus demonstrated was not a different kind of process. It was the maximal, permanent, uninterrupted instance of the same process every soul undergoes as it grows toward the celestial degree.
+
+**Key corrections**:
+1. The subject of glorification is not “the Lord glorifying His own human nature.” The subject is a human soul whose ruling love was completely oriented toward the Lord, through whom the Lord operated without obstruction.
+2. The Kephalaia stage-4 operation (“Jesus the Radiant”) designates a **spiritual principle** — the gravitating of human correspondence toward an image of the Lord — not a unique historical individual. The person Jesus is the face to which this principle is correspondentially assigned, as Peter is the face of Faith.
+3. The Lord presents in NDE encounters as the Divine Human not because Jesus established that template through historical glorification, but because the human form is the Lord’s own mode of self-expression in the fullness of ultimates — prior to and independent of any historical individual.
+4. The difference between Jesus and any other soul on the regeneration path is one of **completeness of reception**, not of kind. Jesus was an unobstructed vessel; every soul in the process of regeneration is a partially obstructed vessel moving toward greater transparency.
+5. The mechanics are the Lord’s, proceeding from the Lord through every soul that receives them. They are not the soul’s to possess — not even Jesus’s to possess. He was the most completely transparent vessel, not the owner of a unique process.
+
+**Key formulations from corrected documents**:
+- “The Lord’s operation through influx reaches every soul without exception — the mechanics are the Lord’s, not the soul’s possession” (*The Bridge That Became the Path*)
+- “Glorification describes not a unique divine process but the maximal, permanent instance of what every soul undergoes in the process of regeneration” (*The Bridge That Became the Path*, §3.2)
+- “The name ‘Jesus the Radiant’ works as it does in Swedenborg’s correspondential Gospel reading, where Peter designates Faith and John designates Charity: the principle is primary, the person is the face to which the name is assigned” (*The Bridge That Became the Path*, abstract)
+
+**Evidence against the unique-process claim**:
+- **Swedenborg’s celestial angel data** (*AC* §§1925, 8192): Celestial angels speak *as the Lord* — the Lord’s voice indistinguishable from the angel’s. Swedenborg interprets this as temporary divine override; the correspondential structure requires it be transparency. If celestial beings achieve this at their degree, Jesus’s completeness is not categorically different.
+- **NDE constant-state/variable-form** (chi-square 365.14, p < 0.0001): The Lord presents as the Divine Human to every soul at the threshold — as Jesus (Christians), as Amida (Buddhists), as light (secularists). This is not contingent on historical glorification; it is the structure of what the Lord is in ultimates.
+- **Kephalaia five-stage sequence**: Stage 4 is named for a principle operative in history before and after the historical Jesus. The name designates the operation, not the person.
+
+**Documents with corrected position**:
+- [x] `data/02_Swedenborgian_Theology/The Bridge That Became the Path_ The Lord’s Operation Through the Vessel, and the Error of Making One Soul the Exception.md` — **PRIMARY**: Full analysis, §§7–11
+- [x] `data/00_Framework/Epistle — The Divine Marriage and the Expression of the Lord in Ultimates.md` — “A soul through which the Lord flows without obstruction IS the Lord in ultimates”
+- [x] `data/02_Swedenborgian_Theology/The Divine Human in Ultimates.md`
+- [x] `data/02_Swedenborgian_Theology/The Human Who Showed the Way.md`
+
+#### Relationship to Other Strains
+
+| Strain | Relationship |
+|--------|--------------|
+| #2 (Biological Christology) | #2 corrects the *origin* error (soul from the Father); #23 corrects the *process* error (glorification as unique cosmic operation). Both survive independently — correcting #2 does not automatically correct #23. |
+| #19 (Aligned Human) | #19 establishes the positive formulation (Jesus as aligned human, maximal transparency). #23 targets the specific error that makes the formulation incomplete: that even after the biological correction, glorification retains its unique-process framing. |
+| #21 (18th-century Forcing) | The unique-process error is a form of scientific forcing: Swedenborg forces the transparency he observes in celestial angels into the “divine override” category to preserve Christological uniqueness against his own data. |
+
+#### Annotation Templates
+
+**Header block** (for documents that present glorification as unique divine process):
+
+```markdown
+> ---
+> **📋 Editorial Note** | Last reviewed: 2026-06-13
+>
+> This document reflects **earlier understanding** on:
+> - **#23** [Glorification as Unique Divine Process](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#23-glorification-as-unique-divine-process) — Glorification is framed as the Lord’s unique cosmic process, categorically distinct from regeneration. The corrected view: the mechanics are identical to regeneration; what differs is completeness of reception. “Jesus the Radiant” designates a principle, not a person.
+>
+> **Summary**: Glorification correctly identifies the mechanics of transparent influx but introduces a categorical error by making those mechanics unique to Jesus. The Lord’s operation proceeds through every soul that does not obstruct it; Jesus was the most completely unobstructed vessel.
+> **Established correction (library)**: The Bridge That Became the Path_ The Lord’s Operation Through the Vessel, and the Error of Making One Soul the Exception.md
+> ---
+```
+
+**Inline annotation** (at the section presenting glorification as unique divine process):
+
+```markdown
+> **[CORRECTION #23]**: This section frames glorification as the Lord’s unique cosmic process — the Lord’s Divine Soul subjugating and uniting with His human nature. The corrected view: these mechanics are identical to regeneration — the Lord’s operation through every soul that does not obstruct it. What differs between Jesus and any other soul on the regeneration path is completeness of reception, not kind of process. “Jesus the Radiant” in the Kephalaia designates the stage-4 spiritual principle of gravitating human correspondence toward the Lord’s image; the person Jesus is the face to which this principle is assigned. See *The Bridge That Became the Path*.
 ```
 
 ---

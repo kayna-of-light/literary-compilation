@@ -7,7 +7,8 @@
 > - **#22** The Self and Selfhood — **CRITICAL**: Defines the self as "inherently dead/evil" and equates it with self-love
 > 
 > **Summary**: the self is not inherently evil — it is the vessel (selfhood) that must form before it can receive. It becomes the obstacle only when it claims what flows through it as its own possession (self-sourcing). Self-love is one possible orientation of the vessel, not what the vessel IS. The observations about self-sourcing mechanics (spiritual theft, claiming divine attributes) remain valid.
-> **Established correction (library)**: *The Human Who Showed the Way*
+> - **#23** [Glorification as Unique Divine Process](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#23-glorification-as-unique-divine-process) — §2.1 cites Swedenborg’s glorification mechanism as the ground for refuting separationism. The mechanism has been corrected; the conclusion (real and permanent union) stands on different grounds.
+> **Established correction (library)**: *The Human Who Showed the Way*; The Bridge That Became the Path_ The Lord’s Operation Through the Vessel, and the Error of Making One Soul the Exception.md
 > ---
 
 ## **Executive Summary: The Structural Consistency of Self-Deification**
@@ -78,7 +79,11 @@ The *Architecture* accurately describes the specific mechanics of this split.1 V
 
 This mechanic effectively reduces Jesus to a temporary container or "microphone" for the Divine.1 It validates the *Architecture's* assertion that this mechanic "dismantles the Divine Human." If the Divine merely *visited* the human, then the human was never truly God. The Incarnation becomes a costume change rather than a permanent union (Hypostatic Union).
 
-Swedenborg’s critique of this view is devastating and precise. He argues that the separation of the Human from the Divine is the "fundamental error" that destroys the church.13 For Swedenborg, the *Glorification* was the process by which the human Jesus *became* the Divine itself—literally putting off the finite human from Mary and putting on the Infinite Human from the Father.18 To deny this union is to deny the "Lord in Ultimates," leaving humanity with no bridge to the Infinite. He explicitly states that those who "separate the Divine from the Human" in the Lord (citing Socinians and Arians) are "not in the church" and are eventually "dissipated" in the spiritual world because they lack a focal point for worship.13
+Swedenborg’s critique of this view is devastating and precise. He argues that the separation of the Human from the Divine is the "fundamental error" that destroys the church.13 For Swedenborg, the *Glorification* was the process by which the human Jesus *became* the Divine itself—literally putting off the finite human from Mary and putting on the Infinite Human from the Father.18
+
+> **[CORRECTION #23]**: Swedenborg’s mechanism here — the Lord’s Divine Soul subjugating and fusing with a human nature — reflects the unique-process error. The corrected ground: the union is real and permanent because Jesus was a completely unobstructed vessel; the same mechanics are available to every soul through regeneration. The conclusion against separationism stands; the mechanism cited does not.
+
+ To deny this union is to deny the "Lord in Ultimates," leaving humanity with no bridge to the Infinite. He explicitly states that those who "separate the Divine from the Human" in the Lord (citing Socinians and Arians) are "not in the church" and are eventually "dissipated" in the spiritual world because they lack a focal point for worship.13
 
 ### **2.2 The Theosophical Elaboration: Jesus as "Master," Christ as "Principle"**
 

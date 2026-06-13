@@ -9,6 +9,9 @@
 > - **#2** [Biological Determinism about Jesus](../00_Framework/Epistle%20%E2%80%94%20The%20Divine%20Marriage%20and%20the%20Expression%20of%20the%20Lord%20in%20Ultimates.md) — Section 5.1 uses "soul from the Father / body from the mother" framing; current position: Jesus was a human being whose ruling love was oriented toward the Divine, so the Lord flowed through him without obstruction. This is the path of regeneration any human can walk.
 > 
 > **Summary**: The "assumed human nature from the mother" language reflects 18th-century embryology. The self is not removed but oriented—Jesus's ruling love was always toward the Divine.
+> - **#23** [Glorification as Unique Divine Process](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#23-glorification-as-unique-divine-process) — §5.1 frames glorification as the Lord’s unique cosmic process, categorically distinct from regeneration. The corrected view: the mechanics are identical to regeneration; what differs is completeness of reception.
+>
+> **Established correction (library)**: The Bridge That Became the Path_ The Lord’s Operation Through the Vessel, and the Error of Making One Soul the Exception.md
 > ---
 
 ## **Introduction: The Epistemological Crisis of a Dispersed Archive**
@@ -170,6 +173,8 @@ The trajectory of history—from the internal perception of the Golden Age to th
 ### **5.1. The Glorification: The Reality Behind the "Historical Jesus"**
 
 Secular scholarship searches for the "Historical Jesus" by stripping away the divine attributes. Swedenborgian theology argues that the "Historical Jesus"—the finite, human man born of Mary—was indeed distinct from the Divine, but that his life was a process of **"Glorification"**.1
+
+> **[CORRECTION #23]**: This passage frames glorification as the Lord's unique cosmic process — available only to Jesus. The corrected view: the mechanics are identical to regeneration — the Lord's operation through every soul that does not obstruct it. What distinguishes Jesus is completeness of reception, not a categorically different kind of process. See *The Bridge That Became the Path*.
 
 Glorification was the progressive union of the external Human with the internal Divine. This was achieved through **Temptation Combats**.
 

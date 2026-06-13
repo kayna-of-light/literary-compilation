@@ -353,9 +353,9 @@ This is not primitive myth-making; it is **rigorous mnemonic engineering**. The 
 - A bend in the river corresponds to a historical event
 - A cave chamber corresponds to an initiation sequence
 
-The Memory Code and the 32 geometric signs were **complementary systems**: the landscape provided the macro-structure (the "book"), the signs provided the micro-notation (the "writing"). Together, they constituted what Swedenborg called the "Ancient Word"—a comprehensive system of correspondential knowledge encoded before alphabetic literacy.
+The Memory Code and the 32 geometric signs were **complementary systems**: the landscape provided the macro-structure (the "book"), the signs provided the micro-notation (the "writing"). This demonstrates that a transmission infrastructure capable of carrying a system like the Ancient Word existed and operated with remarkable fidelity across 30 millennia.
 
-The archaeological evidence is robust: the 32 signs exist, they are consistent, and they were transmitted across 30 millennia. What the cave paintings demonstrate is that systematic symbolic encoding existed—and was transmitted with remarkable fidelity—long before writing. The Science of Correspondences underlies all genuine symbolic systems because it is ontologically prior to human convention. The *possibility* of an Ancient Word is archaeologically established. The *content* of that Word is encoded in the paintings themselves—decipherable through the key of correspondence.
+The archaeological evidence is robust: the 32 signs exist, they are consistent, and they were transmitted across 30 millennia. What the cave paintings demonstrate is that systematic symbolic encoding existed—and was transmitted with remarkable fidelity—long before writing. The *possibility* of an Ancient Word is archaeologically established: the channel is real, the timescales are right, and the transmission fidelity is confirmed. Whether the correspondential content Swedenborg describes was what actually flowed through this channel is a separate claim—one the archaeological evidence supports as viable but does not confirm.
 
 ---
 

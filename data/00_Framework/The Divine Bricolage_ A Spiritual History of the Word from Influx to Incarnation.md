@@ -8,6 +8,9 @@
 > - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The%20Bifurcated%20Gnosis_%20The%20Bene%20Qedem,%20the%20Magian%20Institution,%20and%20the%20Isaac-Ishmael%20Dialectic%20in%20the%20Transmission%20of%20the%20Ancient%20Word.md) — This document frames "Magi" as inheritors of a primary eastern stream of truth; current position treats the *Bene Qedem* ("Children of the East") as primary carriers of correspondential/nature wisdom, with the Magian priesthood as a later institutionalizing/appropriating layer.
 > 
 > **Summary**: #2: The self is not removed but oriented—Jesus's ruling love was always toward the Divine. #18: Reframe Magi → Bene Qedem as primary carriers.
+> - **#23** [Glorification as Unique Divine Process](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#23-glorification-as-unique-divine-process) — §6.2 frames glorification as the Lord’s unique cosmic process, distinct from regeneration. Corrected view: identical mechanics; what differs is completeness of reception.
+>
+> **Established correction (library)**: The Bridge That Became the Path_ The Lord’s Operation Through the Vessel, and the Error of Making One Soul the Exception.md
 > ---
 
 ## **Part I: The Light and the Vessel: A New Edict for History**
@@ -141,6 +144,8 @@ The scholarly distinction between the "historical Jesus" and the "Christ of fait
 The Incarnation is the Lord's final adaptation. The divine influx is no longer *contained in* a book or *mediated by* an angel. The Influx *became* the vessel.
 
 ### **6.2 Glorification: The Influx Forging Its Own Vessel**
+
+> **[CORRECTION #23]**: This section frames glorification as the Lord’s unique cosmic process — available only to Jesus. The corrected view: the mechanics are identical to regeneration — the Lord’s operation through every soul that does not obstruct it. What distinguishes Jesus is completeness of reception, not a categorically different kind of process. See *The Bridge That Became the Path*.
 
 The entire purpose of the Lord's life on earth was the process of "Glorification". This *is* the central thread of influx in its final, most potent form. "Glorification" is the divine process of the Lord's internal Divine Soul (the influx) progressively subjugating, purifying, and uniting with His external human nature (the vessel), until they became a single, fully **Divine Human**.  
 The "bedrock facts" affirmed by virtually all critical scholars are the literal, "historical 'footprints'" of this divine spiritual process :

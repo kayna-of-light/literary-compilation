@@ -26,10 +26,10 @@ In the Golden Age of Disney animation, this doctrine was secularized as the prin
 
 ### **2.2 Selfhood: The Danger of the Self**
 
-The central antagonist in Swedenborgian theology is not a devil with a pitchfork, but the **the self** (Latin *Selfhood*, "one's own") refers to the human sense of selfhood—the vivid sensation that we live, think, and act from ourselves.
+The central antagonist in Swedenborgian theology is not a devil with a pitchfork but the **self** — the human sense of selfhood, the vivid sensation that we live, think, and act from ourselves.
 
 * **The Illusion:** The self is an illusion granted by God so that humans can have agency and reciprocate love. We *feel* like life is ours, but in reality, it is God’s life flowing through us.9  
-* **The Fall:** Evil arises when humans believe the illusion is the reality. When a person confirms that they are the source of their own life, wisdom, and power, The self becomes "nothing but evil".11 It becomes the "Love of Self" (Amor Sui), which seeks to dominate others and be worshipped as a god.13  
+* **The Fall:** Evil arises when humans believe the illusion is the reality. When a person confirms that they are the source of their own life, wisdom, and power, The self becomes "nothing but evil".11 It becomes the "Love of Self," which seeks to dominate others and be worshipped as a god.13  
 * **Male vs. Female selfhood:** Swedenborg distinguishes between the "male selfhood" (intellectual pride, love of one’s own wisdom) and the "female selfhood" (love of one’s own beauty/affection). Regeneration requires the submission of this selfhood to the Divine Truth.15
 
 ### **2.3 Profanation: The Mixing of Holy and Profane**
@@ -153,7 +153,7 @@ Critically, Magnifico mimics the attributes of the Biblical God 24:
 By making this God-figure the villain, and revealing that his "protection" is actually "theft," the film engages in a **Gnostic critique of Theism**. It suggests that the entity playing the role of God is actually a jealous hoarder who wants to keep humanity ignorant (forgetful) and powerless.
 
 * **The Profanation:** This is where the user’s argument of "profanation" hits hardest. The film takes the structure of Divine Providence (trusting God with your desires) and reframes it as **abuse**. It suggests that "trusting the King" is a form of slavery. Therefore, the only path to salvation is to reject the King and reclaim the wish for oneself.  
-* **Swedenborgian Rebuttal:** A Swedenborgian analysis would argue that giving up the "proprial wish" (the selfish desire) to the Lord is exactly how one finds happiness. Magnifico is a *parody* of this. He takes the *good* wishes (inspiration) and crushes them. He is the **Devil posing as God**. But the film’s solution—"We are our own origin"—is to become **Little Gods** ourselves. It rejects the False God (Magnifico) but replaces him with the Self (Asha/Stardust), rather than the True God (The Lord). It trades a Tyrant for a Narcissist.
+* **Swedenborgian Rebuttal:** A Swedenborgian analysis would argue that surrendering one's own wish — releasing what the self claims as its desire — to the Lord is exactly how one finds happiness. Magnifico is a *parody* of this. He takes the *good* wishes (inspiration) and crushes them. He is the **Devil posing as God**. But the film’s solution—"We are our own origin"—is to become **Little Gods** ourselves. It rejects the False God (Magnifico) but replaces him with the Self (Asha/Stardust), rather than the True God (The Lord). It trades a Tyrant for a Narcissist.
 
 ## **VII. The Hollow Core: Why Wish "Fails" the Substrate**
 

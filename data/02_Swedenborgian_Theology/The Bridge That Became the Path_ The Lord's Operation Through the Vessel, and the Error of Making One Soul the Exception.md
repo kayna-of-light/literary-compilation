@@ -1,4 +1,4 @@
-# The Bridge That Became the Path: Jesus as Convergence Point and the Universal Mechanics of Transparent Influx
+# The Bridge That Became the Path: The Lord's Operation Through the Vessel, and the Error of Making One Soul the Exception
 
 ## Empirical and Correspondential Evidence That Glorification Describes a Human Process, Not a Divine Exception
 
@@ -12,7 +12,7 @@
 
 ## Table of Contents
 
-- [The Bridge That Became the Path: Jesus as Convergence Point and the Universal Mechanics of Transparent Influx](#the-bridge-that-became-the-path-jesus-as-convergence-point-and-the-universal-mechanics-of-transparent-influx)
+- [The Bridge That Became the Path: The Lord's Operation Through the Vessel, and the Error of Making One Soul the Exception](#the-bridge-that-became-the-path-the-lords-operation-through-the-vessel-and-the-error-of-making-one-soul-the-exception)
   - [Empirical and Correspondential Evidence That Glorification Describes a Human Process, Not a Divine Exception](#empirical-and-correspondential-evidence-that-glorification-describes-a-human-process-not-a-divine-exception)
   - [Table of Contents](#table-of-contents)
   - [1. Introduction](#1-introduction)

@@ -1,4 +1,4 @@
-# Evolving Conceptual Strains in the Literary Compilation Corpus
+﻿# Evolving Conceptual Strains in the Literary Compilation Corpus
 
 **Created**: 2026-01-26  
 **Purpose**: Track conceptual evolution across documents for editorial annotation  
@@ -1271,6 +1271,7 @@ These errors are related: if "Gnosticism" is an impulse driven by the proprium, 
 - [ ] `data/00_Master_Theses/The Carriers of Living Water...md` — Section 12.3 "Gnostic Impulse and the Architecture of Autonomy"
 - [ ] `data/00_Master_Theses/The Beast That Wears the Lamb...md` — Reference links to old doc names
 - [ ] `data/03_Biblical_Scholarship/The Scandal of the Flesh...md` — "Gnostic Impulse" usage
+- [x] `data/03_Biblical_Scholarship/A Comparative Analysis of Non-Religious Christologies_ The Battle for the 'Lord in Ultimates'.md` — "Path of Gnosis" binary uses Jesus-naming as the criterion for self-sourcing; annotated 2026-06-14
 - [ ] `data/04_Early_Christian_History/The Correction of the Archons...md` — "Gnostic Impulse" usage
 - [ ] `data/04_Early_Christian_History/The Damascus Divergence...md` — "Gnostic Impulse" usage
 - [ ] `data/04_Early_Christian_History/The Imperial Gnosis...md` — "Gnostic Impulse" usage
@@ -1362,6 +1363,8 @@ Additionally: in this framing, the Lord presents in NDE encounters as the Divine
 - [x] `data/00_Framework/The Divine Bricolage_ A Spiritual History of the Word from Influx to Incarnation.md` — §6.2 “Glorification: The Influx Forging Its Own Vessel”
 - [x] `data/05_The_Self/The Architecture of Autonomy_ A Pneumatological and Historical Validation of the Gnostic Impulse as the Operational Mechanic of Selfhood.md` — §2.1 cites glorification mechanism as ground for refuting separationism; inline #23 added noting corrected ground, conclusion against separationism confirmed
 
+*(The NDE Jesus-identification error in `Comparative Analysis` and `Pure Encounter` is classified under strain #24, not #23.)*
+
 #### Corrected Position
 
 The mechanics of glorification — ruling love orientation toward the Lord, temptation combats that progressively resolve the conflict between self-claiming and Lord-reception, the gradual opening of the soul to what flows through it without obstruction — are **the mechanics of regeneration**. They are the Lord’s own operation through every soul that does not obstruct them. What Jesus demonstrated was not a different kind of process. It was the maximal, permanent, uninterrupted instance of the same process every soul undergoes as it grows toward the celestial degree.
@@ -1417,6 +1420,72 @@ The mechanics of glorification — ruling love orientation toward the Lord, temp
 
 ```markdown
 > **[CORRECTION #23]**: This section frames glorification as the Lord’s unique cosmic process — the Lord’s Divine Soul subjugating and uniting with His human nature. The corrected view: these mechanics are identical to regeneration — the Lord’s operation through every soul that does not obstruct it. What differs between Jesus and any other soul on the regeneration path is completeness of reception, not kind of process. “Jesus the Radiant” in the Kephalaia designates the stage-4 spiritual principle of gravitating human correspondence toward the Lord’s image; the person Jesus is the face to which this principle is assigned. See *The Bridge That Became the Path*.
+```
+
+---
+
+### 24. The Divine Human as Eternal Attribute: Lord's Form vs. Vessel Expression
+
+**Evolution Type**: CORRECTION
+**Priority**: **CRITICAL**
+**Status**: New — 2026-06-14
+**Relationship**: Deeper than #2 (Biological Christology) and #23 (Glorification as Unique Process); those correct the mechanism, this corrects the ontological category itself
+
+#### The Problem: "Divine Human" as Christological Title
+
+Multiple corpus documents treat "Divine Human" as a Christological title — something the Lord became through the Incarnation and Glorification, or that Jesus *is* as a result of his uniquely transparent vessel-hood. Even after the biological correction (#2) and the unique-process correction (#23), a deeper error can survive: the assumption that the *category* of "Divine Human" originates from, or is defined by, a historical individual.
+
+This is the ontological error. It produces:
+- Asymmetric treatment of NDE identification data: Jesus-identification is "pure encounter," other identifications are "cultural adaptation"
+- Causal grounding of the Divine Human form in historical glorification: "the Lord presents as the Divine Human *because Jesus glorified Himself into that form*"
+- Framing of non-Christian NDE encounters as the Lord "adapting" to receivers through a "User Interface" — implying Jesus is the native form and other forms are translations
+
+#### Earlier Position
+
+The Lord became the Divine Human through the Incarnation and Glorification. Jesus Christ *is* the Divine Human in ultimates because he completed this process. When souls encounter the Divine Human in NDEs, they encounter what Jesus established through historical glorification. Non-Christian identifications (Amida, Unnamed Light) represent the Lord accommodating different receivers through their cultural frameworks, while the Jesus identification represents the "pure" encounter with the ontological reality.
+
+The NDE data confirming that some non-Christians identify the figure as Jesus is presented as evidence that Jesus is the ontological ground of all such encounters.
+
+**Documents reflecting earlier position** (rewritten 2026-06-14):
+- [x] `data/01_Consciousness_Studies/Pure Encounter or Cultural Construct An Analysis of the Identification of Jesus in Near-Death Experiences.md` — entire thesis built on Jesus-identification as "pure," other forms as culturally mediated; body text rewritten 2026-06-14
+- [x] `data/03_Biblical_Scholarship/A Comparative Analysis of Non-Religious Christologies_ The Battle for the 'Lord in Ultimates'.md` — Path binary structured around Jesus-naming as criterion; body text rewritten 2026-06-14
+
+#### Corrected Position
+
+**The Lord is the Divine Human from eternity** (*DLW* §§11–13; *TCR* §§2–3). The divine nature is love and wisdom in the human form — this is what God *is*, not something achieved through Incarnation. All human form in creation derives from His: that is the ground of *imago Dei*. The Incarnation expressed this eternal nature in ultimates — in the natural world, directly accessible to natural minds. It did not originate it.
+
+**Key corrections**:
+1. "Divine Human" is not a Christological title earned through glorification. It is the Lord's own eternal nature, prior to creation, expressed through creation, and accessible to every soul.
+2. Jesus was the vessel through which the Lord expressed Himself in ultimates with maximal, unobstructed transparency. He did not *become* the Divine Human; the Divine Human expressed itself through him.
+3. The NDE data reads differently under this corrected position. The chi-square result (365.14, p < 0.0001) confirming that religious background predicts identification vocabulary is precisely what this ontological position predicts: all identification forms (Jesus, Amida, light, presence) are the receiver's cultural vocabulary for the same constant encounter with the Lord's eternal nature. The outlier cases (non-Christians identifying Jesus) confirm the universality of the encounter, not the ontological uniqueness of one form.
+4. The majority NDE pattern for non-Western experiencers — a warm, all-encompassing, non-personified presence — is not a lesser or more culturally filtered encounter. It is equally valid expression of the same constant. The dataset from which anomalous Jesus-identifications are drawn is predominantly Western and Christian; presenting those outliers as confirmatory evidence for Jesus-uniqueness is selection bias.
+5. The framework does not know *why* the Lord presents in particular forms to particular receivers. We observe the pattern the data shows: when He presents in personal form, He does so through what is most intimate and recognisable to that person. The Lord's infinite ways of self-expression are not catalogued or exhausted by this framework.
+
+**Key sources**:
+- *DLW* §§11–13: The Lord is the Divine Human from eternity; all things of nature derive their human-form quality from His
+- *TCR* §§2–3: The Divine Human is the Lord's own form, not a form achieved
+- *HH* §§73–78: Angels have human form because the Divine Human pervades all of heaven — the structure is not contingent on any historical event
+- Chi-square = 365.14, p < 0.0001 (*The Being of Light* statistical analysis): religious background predicts identification vocabulary — confirms cultural mediation of the label, not the encounter
+
+**Documents with corrected position**:
+- [x] `data/02_Swedenborgian_Theology/The Bridge That Became the Path_ The Lord's Operation Through the Vessel, and the Error of Making One Soul the Exception.md` — "all names and forms (including Jesus, Amida, or Light) are the variable cultural vocabulary through which the single, constant Lord makes Himself perfectly accessible to the finite mind"
+- [x] `data/00_Framework/Epistle — The Divine Marriage and the Expression of the Lord in Ultimates.md` — "A soul through which the Lord flows without obstruction IS the Lord in ultimates"
+- [x] `data/01_Consciousness_Studies/The Being of Light_ A Statistical Analysis of Near-Death Experience Phenomenology.md` — chi-square analysis establishing cultural mediation of identification vocabulary
+
+#### Relationship to Other Strains
+
+| Strain | Relationship |
+|--------|--------------|
+| #2 (Biological Christology) | #2 corrects the *origin* of Jesus's divine nature (not from the Father by embryology). #24 corrects the *category*: the Divine Human is not Jesus's attribute at all, even after the biological correction. |
+| #23 (Glorification as Unique Process) | #23 corrects the *mechanics* (glorification = regeneration, not unique process). #24 goes deeper: even if glorification is universal in mechanics, documents can still treat the "Divine Human" title as belonging to Jesus. #24 removes that residual. |
+| #8 (NDE Cultural Variation) | #8 establishes "constant state, variable form." #24 supplies the ontological ground for *why* this is so: the constant state is the Lord's own eternal nature as Divine Human; the variable form is every receiver's most intimate vocabulary for it. |
+
+#### Annotation Templates
+
+**Header note** (for documents treating "Divine Human" as Christological title):
+
+```markdown
+> **[CORRECTION #24]**: This document treats "Divine Human" as a Christological title — something the Lord became through, or that is uniquely identified with, Jesus. The corrected position (*DLW* §§11–13): the Lord is the Divine Human from eternity; the Incarnation expressed this eternal nature in ultimates, it did not originate it. All identification forms (Jesus, Amida, light, presence) are the receiver's cultural vocabulary for the same constant encounter. The NDE statistical data (χ² = 365.14, p < 0.0001) confirms cultural mediation of identification vocabulary — what varies is the name; what is constant is the encounter. See *The Bridge That Became the Path*.
 ```
 
 ---

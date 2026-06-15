@@ -1,5 +1,15 @@
 # The Epistemic Architecture of Post-Materialist Inquiry: A Methodological Thesis on Hypothesis-Testing with the Swedenborgian Framework
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-06-15
+>
+> This document reflects language that does not represent the framework's position on:
+> - **#25** Filter Model as Framework Position — §2 (Vertical Causality) states "the brain serves as a filtering and translating mechanism for spiritual influx." This conflates filter/transmission language with influx language in a way that implies the body is a channel for a non-local mind. The framework holds no such position.
+>
+> **Summary**: The thesis's methodology and its refutation of materialism are valid. The sentence conflating filter language with influx is an AI-generated formulation. The correct framing: the body is the outermost expression of the spiritual state — not a filtering mechanism through which influx passes. Influx produces the body as its outermost form; the body does not stand between a non-local consciousness and the world.
+> **Established correction (library)**: The Surface That Withholds Nothing\_ The Body as the Outermost Expression of the Spiritual State
+> ---
+
 ---
 
 ## Abstract
@@ -89,6 +99,8 @@ The core of Swedenborg's framework is the **Doctrine of Correspondences**: the p
 This doctrine generates specific, testable principles:
 
 **Vertical Causality**: Spiritual realities "flow" (*influx*) into natural forms. The natural is the "effect" plane; the spiritual is the "cause" plane. This is not mere parallelism (two domains running in sync) but actual causation: changes in spiritual states produce changes in natural manifestations. The implication is that consciousness is not produced by the brain but received by it—the brain serves as a filtering and translating mechanism for spiritual influx, not as the generator of consciousness.
+
+> **[CORRECTION #25]**: "Consciousness is not produced by the brain but received by it" is correct. "The brain serves as a filtering and translating mechanism" conflates filter/transmission language with influx. The framework's actual position: the body is the outermost expression of the spiritual state — influx produces the body as its outermost form; the body does not stand between a non-local mind and the world as a channel. See *The Surface That Withholds Nothing* (data/01_Consciousness_Studies/).
 
 **Constant State, Variable Form**: The underlying spiritual reality is constant; perceptual forms vary according to the receiver's mental repertoire. The same spiritual entity may appear differently to different observers—not through deception but through the inherent structure of how spiritual reality translates into human perception. A Christian's mental furniture includes Jesus, Mary, and angels; a Hindu's includes Krishna, Shiva, and devas; an atheist's may include only "light," "presence," or "energy." The spiritual reality is constant; the perceptual form varies.
 

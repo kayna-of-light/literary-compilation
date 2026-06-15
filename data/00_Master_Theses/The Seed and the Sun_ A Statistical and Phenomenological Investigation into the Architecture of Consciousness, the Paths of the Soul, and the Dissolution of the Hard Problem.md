@@ -1,5 +1,15 @@
 # The Seed and the Sun: A Statistical and Phenomenological Investigation into the Architecture of Consciousness, the Paths of the Soul, and the Dissolution of the Hard Problem
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-06-15
+>
+> This document reflects language that does not represent the framework's position on:
+> - **#25** Filter Model as Framework Position — §3.5 and the conclusion endorse the James/Bergson/Huxley filter or transmission model as the explanation for terminal lucidity and for the brain–consciousness relation. The framework holds no such position.
+>
+> **Summary**: The anti-dying-brain arguments in this document are valid. The error is in the *replacement mechanism* proposed: the body is not a channel or valve through which a non-local mind is transmitted; it is the outermost expression of the spiritual state. Terminal lucidity is a state-shift (an obscuring influence lifts; the body reorganizes and conveys), not a valve-release. The filter framing was AI-generated, not a framework position.
+> **Established correction (library)**: The Surface That Withholds Nothing\_ The Body as the Outermost Expression of the Spiritual State
+> ---
+
 ## An Empirical Validation of the Correspondential Hypothesis Across Four Independent Domains — Near-Death Experience, Past-Life Memory, Spontaneous Remission, and Collective Dream Phenomenology
 
 ---
@@ -12,82 +22,89 @@
 
 ## Table of Contents
 
-- [1. Introduction](#1-introduction)
-- [2. Methodological Framework](#2-methodological-framework)
-  - [2.1 Correspondential Reading](#21-correspondential-reading)
-  - [2.2 The Architecture of the Soul](#22-the-architecture-of-the-soul)
-  - [2.3 The Hypothesis-Testing Protocol](#23-the-hypothesis-testing-protocol)
-  - [2.4 The Observational Framework Distinguished from Interpretive Overlay](#24-the-observational-framework-distinguished-from-interpretive-overlay)
-- [3. The Neurocentric Limit: A Systematic Refutation of the Dying Brain Hypothesis](#3-the-neurocentric-limit-a-systematic-refutation-of-the-dying-brain-hypothesis)
-  - [3.1 The Confusion Paradox: Hypoxia and the Inverse Relationship](#31-the-confusion-paradox-hypoxia-and-the-inverse-relationship)
-  - [3.2 Pharmacological Mismatches: DMT, Ketamine, and the Quality of Reality](#32-pharmacological-mismatches-dmt-ketamine-and-the-quality-of-reality)
-  - [3.3 The Gamma Surge: A False Horizon](#33-the-gamma-surge-a-false-horizon)
-  - [3.4 Veridical Perception: Information Without Senses](#34-veridical-perception-information-without-senses)
-  - [3.5 Terminal Lucidity: Function Without Structure](#35-terminal-lucidity-function-without-structure)
-  - [3.6 Shared Death Experiences: The Control Group](#36-shared-death-experiences-the-control-group)
-  - [3.7 The AWARE Studies: Ambiguity and What Survives It](#37-the-aware-studies-ambiguity-and-what-survives-it)
-- [4. The Being of Light: Purposive Economy and the Ontology of the Interface](#4-the-being-of-light-purposive-economy-and-the-ontology-of-the-interface)
-  - [4.1 Constant State, Variable Form](#41-constant-state-variable-form)
-  - [4.2 Entity Function Differentiation](#42-entity-function-differentiation)
-  - [4.3 The Purposive Economy Hypothesis](#43-the-purposive-economy-hypothesis)
-  - [4.4 Judgment as Revelation](#44-judgment-as-revelation)
-  - [4.5 The East-West Dichotomy as Dual Scholarly Construction](#45-the-east-west-nde-dichotomy-as-dual-scholarly-construction)
-  - [4.6 Direct Perception Through Discrete Degrees](#46-direct-perception-through-discrete-degrees)
-  - [4.7 The Personhood of the Being of Light](#47-the-personhood-of-the-being-of-light)
-- [5. The Normative Path: Continuation as the Default Trajectory of the Soul](#5-the-normative-path-continuation-as-the-default-trajectory-of-the-soul)
-  - [5.1 Four Markers of the Normative Path](#51-four-markers-of-the-normative-path)
-  - [5.2 The World of Spirits as Transition Zone](#52-the-world-of-spirits-as-transition-zone)
-  - [5.3 The Life Review as Mechanism of Self-Revelation](#53-the-life-review-as-mechanism-of-self-revelation)
-  - [5.4 The Dying Process as Safe Passage](#54-the-dying-process-as-safe-passage)
-  - [5.5 Group Near-Death Experiences: Consensual Reality in Extremis](#55-group-near-death-experiences-consensual-reality-in-extremis)
-- [6. The Restorative Return: Reincarnation as Trauma-Driven Exception](#6-the-restorative-return-reincarnation-as-trauma-driven-exception)
-  - [6.1 The DOPS Archive: Architecture of the Evidence](#61-the-dops-archive-architecture-of-the-evidence)
-  - [6.2 The Violent Death Correlation](#62-the-violent-death-correlation)
-  - [6.3 Birthmarks: The Somatic Signal](#63-birthmarks-the-somatic-signal)
-  - [6.4 Temporal Urgency and the Demographics of Return](#64-temporal-urgency-and-the-demographics-of-return)
-  - [6.5 Behavioral Markers: The PTSD Profile](#65-behavioral-markers-the-ptsd-profile)
-  - [6.6 Resolution: The Therapeutic Mechanics of Verification](#66-resolution-the-therapeutic-mechanics-of-verification)
-  - [6.7 The Methodological Visibility Problem: SOCS as Trauma Filter](#67-the-methodological-visibility-problem-socs-as-trauma-filter)
-- [7. The Volunteer Soul: Mission-Based Incarnation and the Pre-Incarnate Covenant](#7-the-volunteer-soul-mission-based-incarnation-and-the-pre-incarnate-covenant)
-  - [7.1 The Mission Signature: Discriminant Validity](#71-the-mission-signature-discriminant-validity)
-  - [7.2 Pre-Birth Indicators and the Ohkado Pattern](#72-pre-birth-indicators-and-the-ohkado-pattern)
-  - [7.3 The Four-Stage Call Narrative](#73-the-four-stage-call-narrative)
-  - [7.4 Beyond the NDE: Spontaneous Spiritual Awakenings and NDE-Like Experiences](#74-beyond-the-nde-spontaneous-spiritual-awakenings-and-nde-like-experiences)
-  - [7.5 The Psychological Profile of the Mission-Based Individual](#75-the-psychological-profile-of-the-mission-based-individual)
-  - [7.6 The Lived Experience: Integration Challenges and Post-Awakening Transformation](#76-the-lived-experience-integration-challenges-and-post-awakening-transformation)
-- [8. The Body as Soul in Ultimates: Somatic Influx and the Correspondential Architecture of Healing](#8-the-body-as-soul-in-ultimates-somatic-influx-and-the-correspondential-architecture-of-healing)
-  - [8.1 Transformation Precedes Healing: The Primary Finding](#81-transformation-precedes-healing-the-primary-finding)
-  - [8.2 The Surrender Pattern](#82-the-surrender-pattern)
-  - [8.3 The Nine Factors and the Psycho-Spiritual Dominance](#83-the-nine-factors-and-the-psycho-spiritual-dominance)
-  - [8.4 Near-Death Experience as Reset Event](#84-near-death-experience-as-reset-event)
-  - [8.5 The Correspondential Specificity of Disease](#85-the-correspondential-specificity-of-disease)
-  - [8.6 The Bidirectional Proof: Birthmarks and Remission as Inverse Phenomena](#86-the-bidirectional-proof-birthmarks-and-remission-as-inverse-phenomena)
-  - [8.7 The Limbus as Cartesian Artifact and the Seed-State Ontology](#87-the-limbus-as-cartesian-artifact-and-the-seed-state-ontology)
-- [9. The Spiritual Topography of the Late Modern Soul: Correspondential Structure in Collective Dream Space](#9-the-spiritual-topography-of-the-late-modern-soul-correspondential-structure-in-collective-dream-space)
-  - [9.1 The MallWorld Phenomenon: Data and Methods](#91-the-mallworld-phenomenon-data-and-methods)
-  - [9.2 Location-Atmosphere Coherence: The Non-Random Topology](#92-location-atmosphere-coherence-the-non-random-topology)
-  - [9.3 Entity Ecology: Differentiated Function in Dream Inhabitants](#93-entity-ecology-differentiated-function-in-dream-inhabitants)
-  - [9.4 Vertical World Structure: The Chthonic-Celestial Gradient](#94-vertical-world-structure-the-chthonic-celestial-gradient)
-  - [9.5 The Ruling Love Finding: Dreamer Identity Dominates Atmosphere](#95-the-ruling-love-finding-dreamer-identity-dominates-atmosphere)
-  - [9.6 The Falsification of the Reactive Model](#96-the-falsification-of-the-reactive-model)
-  - [9.7 Animal Correspondences: Intrinsic Qualities Independent of Environment](#97-animal-correspondences-intrinsic-qualities-independent-of-environment)
-  - [9.8 Temporal Dynamics: The Descent Narrative](#98-temporal-dynamics-the-descent-narrative)
-  - [9.9 Robustness: Ontological Versus Cultural Structure](#99-robustness-ontological-versus-cultural-structure)
-  - [9.10 Cross-Domain Comparison: MallWorld and NDE](#910-cross-domain-comparison-mallworld-and-nde)
-- [10. Discussion](#10-discussion)
-  - [10.1 The Cumulative Weight: Cross-Domain Convergence](#101-the-cumulative-weight-cross-domain-convergence)
-  - [10.2 Why Not Other Frameworks](#102-why-not-other-frameworks)
-  - [10.3 Framework Corrections: Where Swedenborg Was Wrong](#103-framework-corrections-where-swedenborg-was-wrong)
-  - [10.4 The Dissolution of the Hard Problem](#104-the-dissolution-of-the-hard-problem)
-  - [10.5 Selfhood and Influx in the 21st Century](#105-selfhood-and-influx-in-the-21st-century)
-  - [10.6 Limitations and Lacunae](#106-limitations-and-lacunae)
-- [11. Conclusion: The Seed and the Sun](#11-conclusion-the-seed-and-the-sun)
-- [12. Appendix: Cross-Domain Validation Matrix](#12-appendix-cross-domain-validation-matrix)
-- [13. Works Cited](#13-works-cited)
-  - [Primary Sources](#primary-sources)
-  - [Scholarly Works](#scholarly-works)
-  - [Data Sources](#data-sources)
-  - [Internal Library Documents](#internal-library-documents)
+- [The Seed and the Sun: A Statistical and Phenomenological Investigation into the Architecture of Consciousness, the Paths of the Soul, and the Dissolution of the Hard Problem](#the-seed-and-the-sun-a-statistical-and-phenomenological-investigation-into-the-architecture-of-consciousness-the-paths-of-the-soul-and-the-dissolution-of-the-hard-problem)
+  - [An Empirical Validation of the Correspondential Hypothesis Across Four Independent Domains — Near-Death Experience, Past-Life Memory, Spontaneous Remission, and Collective Dream Phenomenology](#an-empirical-validation-of-the-correspondential-hypothesis-across-four-independent-domains--near-death-experience-past-life-memory-spontaneous-remission-and-collective-dream-phenomenology)
+  - [Table of Contents](#table-of-contents)
+  - [1. Introduction](#1-introduction)
+  - [2. Methodological Framework](#2-methodological-framework)
+    - [2.1 Correspondential Reading](#21-correspondential-reading)
+    - [2.2 The Architecture of the Soul](#22-the-architecture-of-the-soul)
+    - [2.3 The Hypothesis-Testing Protocol](#23-the-hypothesis-testing-protocol)
+    - [2.4 The Observational Framework Distinguished from Interpretive Overlay](#24-the-observational-framework-distinguished-from-interpretive-overlay)
+  - [3. The Neurocentric Limit: A Systematic Refutation of the Dying Brain Hypothesis](#3-the-neurocentric-limit-a-systematic-refutation-of-the-dying-brain-hypothesis)
+    - [3.1 The Confusion Paradox: Hypoxia and the Inverse Relationship](#31-the-confusion-paradox-hypoxia-and-the-inverse-relationship)
+    - [3.2 Pharmacological Mismatches: DMT, Ketamine, and the Quality of Reality](#32-pharmacological-mismatches-dmt-ketamine-and-the-quality-of-reality)
+    - [3.3 The Gamma Surge: A False Horizon](#33-the-gamma-surge-a-false-horizon)
+    - [3.4 Veridical Perception: Information Without Senses](#34-veridical-perception-information-without-senses)
+    - [3.5 Terminal Lucidity: Function Without Structure](#35-terminal-lucidity-function-without-structure)
+    - [3.6 Shared Death Experiences: The Control Group](#36-shared-death-experiences-the-control-group)
+    - [3.7 The AWARE Studies: Ambiguity and What Survives It](#37-the-aware-studies-ambiguity-and-what-survives-it)
+  - [4. The Being of Light: Purposive Economy and the Ontology of the Interface](#4-the-being-of-light-purposive-economy-and-the-ontology-of-the-interface)
+    - [4.1 Constant State, Variable Form](#41-constant-state-variable-form)
+    - [4.2 Entity Function Differentiation](#42-entity-function-differentiation)
+    - [4.3 The Purposive Economy Hypothesis](#43-the-purposive-economy-hypothesis)
+    - [4.4 Judgment as Revelation](#44-judgment-as-revelation)
+    - [4.5 The East-West NDE Dichotomy as Dual Scholarly Construction](#45-the-east-west-nde-dichotomy-as-dual-scholarly-construction)
+    - [4.6 Direct Perception Through Discrete Degrees](#46-direct-perception-through-discrete-degrees)
+    - [4.7 The Personhood of the Being of Light](#47-the-personhood-of-the-being-of-light)
+  - [5. The Normative Path: Continuation as the Default Trajectory of the Soul](#5-the-normative-path-continuation-as-the-default-trajectory-of-the-soul)
+    - [5.1 Four Markers of the Normative Path](#51-four-markers-of-the-normative-path)
+    - [5.2 The World of Spirits as Transition Zone](#52-the-world-of-spirits-as-transition-zone)
+    - [5.3 The Life Review as Mechanism of Self-Revelation](#53-the-life-review-as-mechanism-of-self-revelation)
+    - [5.4 The Dying Process as Safe Passage](#54-the-dying-process-as-safe-passage)
+    - [5.5 Group Near-Death Experiences: Consensual Reality in Extremis](#55-group-near-death-experiences-consensual-reality-in-extremis)
+  - [6. The Restorative Return: Reincarnation as Trauma-Driven Exception](#6-the-restorative-return-reincarnation-as-trauma-driven-exception)
+    - [6.1 The DOPS Archive: Architecture of the Evidence](#61-the-dops-archive-architecture-of-the-evidence)
+    - [6.2 The Violent Death Correlation](#62-the-violent-death-correlation)
+    - [6.3 Birthmarks: The Somatic Signal](#63-birthmarks-the-somatic-signal)
+    - [6.4 Temporal Urgency and the Demographics of Return](#64-temporal-urgency-and-the-demographics-of-return)
+    - [6.5 Behavioral Markers: The PTSD Profile](#65-behavioral-markers-the-ptsd-profile)
+    - [6.6 Resolution: The Therapeutic Mechanics of Verification](#66-resolution-the-therapeutic-mechanics-of-verification)
+    - [6.7 The Methodological Visibility Problem: SOCS as Trauma Filter](#67-the-methodological-visibility-problem-socs-as-trauma-filter)
+  - [7. The Volunteer Soul: Mission-Based Incarnation and the Pre-Incarnate Covenant](#7-the-volunteer-soul-mission-based-incarnation-and-the-pre-incarnate-covenant)
+    - [7.1 The Mission Signature: Discriminant Validity](#71-the-mission-signature-discriminant-validity)
+    - [7.2 Pre-Birth Indicators and the Ohkado Pattern](#72-pre-birth-indicators-and-the-ohkado-pattern)
+    - [7.3 The Four-Stage Call Narrative](#73-the-four-stage-call-narrative)
+    - [7.4 Beyond the NDE: Spontaneous Spiritual Awakenings and NDE-Like Experiences](#74-beyond-the-nde-spontaneous-spiritual-awakenings-and-nde-like-experiences)
+    - [7.5 The Psychological Profile of the Mission-Based Individual](#75-the-psychological-profile-of-the-mission-based-individual)
+    - [7.6 The Lived Experience: Integration Challenges and Post-Awakening Transformation](#76-the-lived-experience-integration-challenges-and-post-awakening-transformation)
+  - [8. The Body as Soul in Ultimates: Somatic Influx and the Correspondential Architecture of Healing](#8-the-body-as-soul-in-ultimates-somatic-influx-and-the-correspondential-architecture-of-healing)
+    - [8.1 Transformation Precedes Healing: The Primary Finding](#81-transformation-precedes-healing-the-primary-finding)
+    - [8.2 The Surrender Pattern](#82-the-surrender-pattern)
+    - [8.3 The Nine Factors and the Psycho-Spiritual Dominance](#83-the-nine-factors-and-the-psycho-spiritual-dominance)
+    - [8.4 Near-Death Experience as Reset Event](#84-near-death-experience-as-reset-event)
+    - [8.5 The Correspondential Specificity of Disease](#85-the-correspondential-specificity-of-disease)
+    - [8.6 The Bidirectional Proof: Birthmarks and Remission as Inverse Phenomena](#86-the-bidirectional-proof-birthmarks-and-remission-as-inverse-phenomena)
+    - [8.7 The Limbus as Cartesian Artifact and the Seed-State Ontology](#87-the-limbus-as-cartesian-artifact-and-the-seed-state-ontology)
+  - [9. The Spiritual Topography of the Late Modern Soul: Correspondential Structure in Collective Dream Space](#9-the-spiritual-topography-of-the-late-modern-soul-correspondential-structure-in-collective-dream-space)
+    - [9.1 The MallWorld Phenomenon: Data and Methods](#91-the-mallworld-phenomenon-data-and-methods)
+    - [9.2 Location-Atmosphere Coherence: The Non-Random Topology](#92-location-atmosphere-coherence-the-non-random-topology)
+    - [9.3 Entity Ecology: Differentiated Function in Dream Inhabitants](#93-entity-ecology-differentiated-function-in-dream-inhabitants)
+    - [9.4 Vertical World Structure: The Chthonic-Celestial Gradient](#94-vertical-world-structure-the-chthonic-celestial-gradient)
+    - [9.5 The Ruling Love Finding: Dreamer Identity Dominates Atmosphere](#95-the-ruling-love-finding-dreamer-identity-dominates-atmosphere)
+    - [9.6 The Falsification of the Reactive Model](#96-the-falsification-of-the-reactive-model)
+    - [9.7 Animal Correspondences: Intrinsic Qualities Independent of Environment](#97-animal-correspondences-intrinsic-qualities-independent-of-environment)
+    - [9.8 Temporal Dynamics: The Descent Narrative](#98-temporal-dynamics-the-descent-narrative)
+    - [9.9 Robustness: Ontological Versus Cultural Structure](#99-robustness-ontological-versus-cultural-structure)
+    - [9.10 Cross-Domain Comparison: MallWorld and NDE](#910-cross-domain-comparison-mallworld-and-nde)
+  - [10. Discussion](#10-discussion)
+    - [10.1 The Cumulative Weight: Cross-Domain Convergence](#101-the-cumulative-weight-cross-domain-convergence)
+    - [10.2 Why Not Other Frameworks](#102-why-not-other-frameworks)
+    - [10.3 Framework Corrections: Where Swedenborg Was Wrong](#103-framework-corrections-where-swedenborg-was-wrong)
+    - [10.4 The Dissolution of the Hard Problem](#104-the-dissolution-of-the-hard-problem)
+    - [10.5 Selfhood and Influx in the 21st Century](#105-selfhood-and-influx-in-the-21st-century)
+    - [10.6 Limitations and Lacunae](#106-limitations-and-lacunae)
+  - [11. Conclusion: The Seed and the Sun](#11-conclusion-the-seed-and-the-sun)
+  - [12. Appendix: Cross-Domain Validation Matrix](#12-appendix-cross-domain-validation-matrix)
+    - [A. Framework Predictions and Results](#a-framework-predictions-and-results)
+    - [B. Comparative Framework Performance](#b-comparative-framework-performance)
+    - [C. Threefold Path Population Distribution (NDE Data, N=6,753)](#c-threefold-path-population-distribution-nde-data-n6753)
+    - [D. Key Statistical Tests Summary](#d-key-statistical-tests-summary)
+  - [13. Works Cited](#13-works-cited)
+    - [Primary Sources](#primary-sources)
+    - [Scholarly Works](#scholarly-works)
+    - [Data Sources](#data-sources)
+    - [Internal Library Documents](#internal-library-documents)
 
 ---
 
@@ -228,6 +245,8 @@ Terminal lucidity refers to the unexpected return of mental clarity, memory, and
 In late-stage Alzheimer's, the neural architecture required for memory and language is physically destroyed. The hippocampus has atrophied. The cortex is riddled with plaques and tangles. The hardware is gone. Materialist explanations invoke "neuroplasticity" or a "final surge" of neurotransmitters, but these explanations fail their own standards. Neuroplasticity is a slow process of learning and growth — it cannot spontaneously reconstruct destroyed networks in minutes. A surge of electricity through a broken circuit does not fix the circuit. If the hardware of memory is physically absent, no amount of neurotransmitter flooding should be able to retrieve those memories.
 
 Terminal lucidity provides robust support for what William James and Henri Bergson called the transmission or filter hypothesis of consciousness. In this model, the brain does not produce consciousness but filters it. Disease blocks the filter, causing dementia — not because the memories are destroyed but because access to them is obstructed. At the moment of death, as the brain's filtering mechanism breaks down completely, consciousness is released from the damaged hardware, allowing a momentary bypass of the biological constraint before the final separation. The structure fails, and the function returns — because the function was never dependent on the structure in the way that the materialist model requires. The structure was the constraint. Its removal was the liberation.
+
+> **[CORRECTION #25]**: The dying-brain refutation above is valid. The filter/transmission mechanism proposed here is not the framework's position. The body is the outermost expression of the spiritual state — not a channel or valve. Terminal lucidity is a state-shift: an obscuring influence lifts, the body reorganizes toward coherence, and the patient conveys by speech and song because the body genuinely functions in that window. See *The Surface That Withholds Nothing* (data/01_Consciousness_Studies/) for the framework's actual account.
 
 ### 3.6 Shared Death Experiences: The Control Group
 
@@ -832,6 +851,8 @@ The threefold path of the soul resolves the ancient conflict between linear and 
 The body is the soul expressed in ultimates. Trauma prints onto the body as birthmarks; resolution erases from the body as remission. The bidirectional symmetry — the same mechanism operating in opposite directions, confirmed in independent datasets using completely different methodologies — is the strongest single piece of evidence that the correspondential relationship between spiritual state and physical form is not metaphor but functional identity.
 
 The hard problem of consciousness dissolves when its premises are reversed. Consciousness is not produced by the brain but received by it. The brain is a filter whose removal — in death, in NDE, in terminal lucidity — reveals rather than destroys the consciousness it constrained. The evidence from four independent domains consistently points in this direction: the perception depth gradient, the veridical perception during cortical silence, the terminal lucidity in destroyed brains, the shared death experience in healthy bystanders, the dreamer-dominance of atmosphere in collective dreams, the transformation-precedes-healing pattern in remission. The question "how does matter produce consciousness?" is malformed. The data suggest it runs the other way.
+
+> **[CORRECTION #25]**: “The brain is a filter whose removal reveals” is not the framework's position. The framework holds: the body is the outermost expression of the spiritual state, not a valve or channel. “Received by it” (first sentence) is correct; “filter whose removal reveals” (second) reintroduces a gap the framework does not contain. See *The Surface That Withholds Nothing* (data/01_Consciousness_Studies/).
 
 The architecture of the soul — bilateral (love and wisdom), vertical (celestial, spiritual, natural), radial (five faculties from core to surface), and developmental (sevenfold arc of preparation, bringing-forth, and rest) — is not a model imposed on the data. It is the structure of reception that the data, across four independent domains, consistently reveal. Every statistical finding in this thesis is a measurement of this architecture in operation. The NDE perception gradient measures the vertical dimension. The entity differentiation measures the bilateral. The ruling love finding measures the radial. The threefold path measures the developmental. The architecture IS consciousness. Not a description of consciousness — the structure of how the finite receives the infinite.
 

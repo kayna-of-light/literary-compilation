@@ -1,4 +1,4 @@
-﻿# Evolving Conceptual Strains in the Literary Compilation Corpus
+# Evolving Conceptual Strains in the Literary Compilation Corpus
 
 **Created**: 2026-01-26  
 **Purpose**: Track conceptual evolution across documents for editorial annotation  
@@ -97,6 +97,7 @@ For each strain marked "Needs review":
 - [ ] 21. [18th-Century Scientific Forcing](#21-18th-century-scientific-forcing) — Correction (**Critical**) — META-STRAIN: Root cause unifying #1, #2, and two new instances (uniform canonicity, 1757 fixing) — NEW (2026-02-12)
 - [ ] 22. [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — Reframing (**Critical**) — Two conflated errors: "Gnosticism" as unified negative brand + proprium as inherently evil — NEW (2026-07-26)
 - [ ] 23. [Glorification as Unique Divine Process](#23-glorification-as-unique-divine-process) — Correction (**Critical**) — Glorification frames the Lord’s unique cosmic operation; corrected view: identical mechanics to regeneration, distinct only in completeness; “Jesus the Radiant” designates a principle, not a person — NEW (2026-06-13)
+- [x] 25. [Filter Model as Framework Position](#25-filter-model-as-framework-position) — Correction (Medium) — Four corpus documents present the James/Bergson/Huxley filter/transmission model as the framework's account of the brain–mind relation; the framework holds no such position: the body is the outermost expression of the spiritual state, not a channel — NEW (2026-06-15)
 
 ---
 
@@ -1236,6 +1237,7 @@ Use blockquote format at the relevant section:
 | 2026-02-07 | Added strain #20 (Hebrew Bible Dating: Proto-Myth Origins vs. Persian-Period Composition)—CRITICAL correction. YRE 2008 falsifies linguistic dating method; philological evidence proves 3rd-millennium material in Genesis/Job |
 | 2026-02-12 | Added strain #21 (18th-Century Scientific Forcing)—**CRITICAL** META-STRAIN unifying root cause of #1 (Limbus), #2 (Biological Christology), plus two new instances: Uniform Canonicity (Gospel layer quality gradient) and 1757 Fixing (continuous process pinned to discrete date). Evidence from NotebookLM analysis of Spiritual Diary and Lukan hermeneutics. Updated #12 interpretive overlay table |
 | 2026-06-13 | Added strain #23 (Glorification as Unique Divine Process)—**CRITICAL** correction distinct from #2 (biological origin) and #19 (aligned human synthesis). Targets the unique-process error: glorification framed as the Lord’s cosmic operation rather than the maximal instance of regeneration. Integrates Kephalaia “Jesus the Radiant” principle-vs-person distinction and NDE evidence. 2 primary documents annotated. |
+| 2026-06-15 | Added strain #25 (Filter Model as Framework Position)—CORRECTION (Medium). Four AI-generated corpus documents present the filter/transmission model as the framework's own position on brain–mind relation. Framework actual position established in *The Surface That Withholds Nothing* (data/01_Consciousness_Studies/). Annotation applies to: *The Seed and the Sun* (§3.5 + conclusion), *The Neurocentric Limit* (§7), *The Ontological Transition* (§2.3), *The Epistemic Architecture*. Anti-dying-brain arguments remain valid. |
 
 ### 22. The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing
 
@@ -1508,4 +1510,69 @@ The following recently-added documents were analyzed:
 - `The Architecture of Anomaly...` — Radical remission and somatic influx
 
 These documents represent the **most refined positions** on all major strains. Earlier documents should be reviewed against these for annotation needs.
+
+---
+
+### 25. Filter Model as Framework Position
+
+**Evolution Type**: CORRECTION  
+**Priority**: Medium  
+**Status**: New — 4 documents to annotate (2026-06-15)
+
+#### The Error
+
+Four corpus documents present the James/Bergson/Huxley filter or transmission model — the brain as a valve whose failure releases constrained awareness — as the framework's own account of the brain–mind relation. This was AI-generated language, not a framework position. The framework has never held that the body is a channel through which a non-local mind is transmitted.
+
+#### Earlier Position (in affected documents)
+
+*The Seed and the Sun* §3.5: "the brain does not produce consciousness but filters it. Disease blocks the filter, causing dementia — not because the memories are destroyed but because access to them is obstructed. At the moment of death, as the brain's filtering mechanism breaks down completely, consciousness is released from the damaged hardware, allowing a momentary bypass of the biological constraint."
+
+*The Seed and the Sun* conclusion: "The brain is a filter whose removal — in death, in NDE, in terminal lucidity — reveals rather than destroys the consciousness it constrained."
+
+*The Neurocentric Limit* §7.3: endorses the "Transmission or Filter Hypothesis (James, Bergson)" as the explanation for terminal lucidity.
+
+*The Ontological Transition* §2.3 / abstract: endorses Filter Theory / Transmission Theory as the model for terminal lucidity and NDE phenomena.
+
+*The Epistemic Architecture of Post-Materialist Inquiry*: blends both framings — "consciousness is not produced by the brain but received by it — the brain serves as a filtering and translating mechanism for spiritual influx." (The second clause collapses filter language with influx language, conflating two distinct claims.)
+
+#### What the Filter Model Claims
+
+The filter or transmission model (James 1898, Bergson 1896, Huxley 1954, Kelly et al. 2007) holds:
+- Mind and body are **two things** joined across a gap
+- The brain constrains, limits, or channels a pre-existing non-local consciousness
+- Death or neural failure *releases* the consciousness from the biological constraint
+- Terminal lucidity is evidence of this release: the valve breaks down, consciousness is temporarily liberated
+
+The model correctly denies that the brain produces mind. Its error is retaining the gap between mind and body, which forces it into an incoherent position on bodily conveyance: the lucid patient speaks, recognizes, and sings — bodily acts that a bypassed body cannot perform.
+
+#### The Framework's Actual Position
+
+The body is the **complete outermost expression of the spiritual state** — the soul in ultimates, one reality at its outermost degree. There is no gap to cross and no channel to transmit through. Terminal lucidity is a **state-shift**: an obscuring influence lifts as the person withdraws toward death, the body reorganizes to express the more coherent state, and the person conveys — speaks, recognizes, sings — because the body in that window genuinely functions. The brain does not produce mind and it does not stand between mind and world; it is the mind at the natural degree.
+
+This position is also consistent with the framework's two guardrails: **reception, not production** (the individual does not originate the state; influx is from the Lord) and **not two worlds** (the spiritual state is not a granular copy sitting behind the natural body; it is the detail-determining quality the body explicates).
+
+**Note**: The anti-dying-brain arguments in the affected documents — the falsification of the structure-function dogma, the veridical NDE cases, the AWARE data — are **valid and unaffected** by this correction. The dying-brain hypothesis is rejected by the framework. Only the *mechanism* proposed to replace it (filter/transmission) is incorrect.
+
+#### Documents Reflecting Earlier Position (to annotate)
+
+- [x] `data/00_Master_Theses/The Seed and the Sun_ A Statistical and Phenomenological Investigation into the Architecture of Consciousness, the Paths of the Soul, and the Dissolution of the Hard Problem.md` — §3.5 (filter mechanism for terminal lucidity) + conclusion ("brain is a filter whose removal...")  
+- [x] `data/01_Consciousness_Studies/The Neurocentric Limit_ A Comprehensive Re-Evaluation of the Dying Brain Hypothesis as an Explanatory Model for Near-Death Phenomena.md` — §7 (endorses filter/transmission hypothesis)  
+- [x] `data/01_Consciousness_Studies/The Ontological Transition_ An Integrative Analysis of the Physiological, Phenomenological, and Spiritual Dynamics of the Dying Process.md` — §2.3 and abstract (filter theory for terminal lucidity)  
+- [x] `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on Hypothesis-Testing with the Swedenborgian Framework.md` — blended filter-and-influx formulation
+
+#### Documents with Established Correction
+
+- [x] `data/01_Consciousness_Studies/The Surface That Withholds Nothing_ The Body as the Outermost Expression of the Spiritual State.md` — **PRIMARY**: Establishes the framework's actual position; §7 addresses the filter tradition substantively and charitably; §4.3 establishes the state-shift reading of terminal lucidity
+
+#### Annotation Template
+
+```markdown
+> **[CORRECTION #25]**: This passage frames the brain–consciousness relation as filter or
+> transmission — the brain as valve whose failure releases constrained awareness (James, Bergson,
+> Huxley). The framework does not hold this position. The body is the outermost expression of
+> the spiritual state — one reality at its outermost degree, no gap, no channel. Terminal lucidity
+> is a state-shift (an obscuring influence lifts; the body reorganizes and conveys) not a
+> valve-release. The anti-dying-brain argument in this section remains valid.
+> See: *The Surface That Withholds Nothing* (data/01_Consciousness_Studies/).
+```
 

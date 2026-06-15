@@ -1,9 +1,22 @@
 # **The Ontological Transition: An Integrative Analysis of the Physiological, Phenomenological, and Spiritual Dynamics of the Dying Process**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-06-15
+>
+> This document reflects language that does not represent the framework's position on:
+> - **#25** Filter Model as Framework Position — The abstract and §2.3.3 endorse the "Filter Theory" of consciousness (James, Bergson) as the explanation for terminal lucidity. The framework holds no such position.
+>
+> **Summary**: The refutation of the dying-brain hypothesis in this document is valid. The error is in the replacement mechanism: the body is the outermost expression of the spiritual state, not a biological filter through which a non-local awareness is released. Terminal lucidity is a state-shift, not a valve-release. The filter framing was AI-generated, not a framework position.
+> **Established correction (library)**: The Surface That Withholds Nothing\_ The Body as the Outermost Expression of the Spiritual State
+> ---
+
 ## **Introduction: Reconciling the Biological and the Transcendent**
 
 The cessation of human life has historically been viewed through two distinct and often opposing lenses: the biomedical model, which frames death as a physiological failure and the irreversible termination of consciousness, and the spiritual or metaphysical model, which views death as a transition of the conscious self from a physical substrate to a non-physical reality. Contemporary research in palliative care, thanatology, and consciousness studies, however, is increasingly revealing a convergence between these two perspectives. A rigorous analysis of the data suggests that the process of "healthy dying"—death that occurs naturally and without the violence of acute trauma or aggressive medical intervention—is not a chaotic descent into oblivion but a structured, sequential, and highly regulated process designed to facilitate a peaceful transition.  
 This report synthesizes extensive data from medical observation, hospice clinical literature, and phenomenological research into Near-Death Experiences (NDEs), End-of-Life Experiences (ELEs), and specific case studies found in the workspace archives. By integrating the physiological timelines of metabolic downregulation with the subjective accounts of "Nearing Death Awareness" (NDA) and the theoretical frameworks provided by Emanuel Swedenborg and modern consciousness researchers, a coherent model emerges. This model posits that the physical signs of active dying—such as withdrawal, dehydration, and respiratory changes—are the somatic correlates of a profound spiritual labor: the decoupling of the "spirit body" or consciousness from the biological machine.  
+
+> **[CORRECTION #25]**: The dying-brain refutation in this document is valid. "Filter Theory" is not the framework's position. The body is the outermost expression of the spiritual state — not a biological constraint that releases awareness when it breaks down. See *The Surface That Withholds Nothing* (data/01_Consciousness_Studies/). 
+
 The "Dying Brain Hypothesis," which attempts to reduce these phenomena to hypoxic hallucinations or neurochemical surges, faces significant explanatory gaps when confronted with data on Terminal Lucidity (TL) and Shared Death Experiences (SDEs). Instead, the evidence supports a "Filter Theory" of consciousness, where the degradation of the brain allows for an expansion of awareness, leading to the veridical, lucid, and guided experiences reported by the dying. This report will exhaustively detail the phases of this transition, demonstrating that from the initial premonitions of "heaviness" to the final severance of the respiratory bond, the dying process is an orchestrated event of "safe passage" rather than a biological catastrophe.  
 This analysis is grounded in a "bricolage" methodology, assembling a robust framework from the "remains and debris" of disparate data streams: the clinical notes of hospice nurses, the recorded visions of the dying, the neurophysiological measurements of the final moments, and the theological insights that appear to predict these biological events with startling accuracy.
 
@@ -107,6 +120,8 @@ Yet, studies show that roughly **43% to 84%** of those who experience TL die wit
 #### **2.3.3 The Explanatory Gap**
 
 Materialist explanations, such as a "final flush" of neurotransmitters or a reduction in brain swelling due to dehydration, fail to explain how *destroyed* circuits can function perfectly. A surge of electricity through a broken computer does not make it run software it no longer has. This phenomenon strongly supports the "Filter Theory" or "Transmission Theory" of consciousness (William James, Henri Bergson). This theory posits that the brain functions as a *filter* or *receiver* for consciousness rather than its generator. As the brain's "filtering" mechanism breaks down completely during the dying process, the consciousness is momentarily "released" from the damaged hardware, allowing the "spirit" to manifest clearly one last time before final separation.
+
+> **[CORRECTION #25]**: The failure of materialist explanations above is valid. The filter/transmission mechanism proposed here is not the framework's position. The body is the outermost expression of the spiritual state — not a hardware filter for a non-local consciousness. Terminal lucidity is a state-shift: an obscuring influence lifts and the body reorganizes to express the more coherent state, conveying the person through speech and recognition. See *The Surface That Withholds Nothing* (data/01_Consciousness_Studies/).
 
 ## **Part III: The Phenomenological Sequence – The Passage and the Guide**
 

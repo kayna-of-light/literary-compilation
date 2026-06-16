@@ -27,11 +27,10 @@
     - [4.2 The State Reorganizing in Life: Spontaneous Remission](#42-the-state-reorganizing-in-life-spontaneous-remission)
     - [4.3 The State Unobscured at the End: Terminal Lucidity](#43-the-state-unobscured-at-the-end-terminal-lucidity)
   - [5. The Disturbance-Point Seam: Where the Universal Becomes Legible](#5-the-disturbance-point-seam-where-the-universal-becomes-legible)
-
   - [6. Why We Stand Apart From the Broader Field](#6-why-we-stand-apart-from-the-broader-field)
   - [7. Discussion](#7-discussion)
     - [7.1 What the Model Unifies](#71-what-the-model-unifies)
-    - [7.2 The Mind–Body Gap Dissolved Without Idealism or Materialism](#82-the-mindbody-gap-dissolved-without-idealism-or-materialism)
+    - [7.2 The Mind–Body Gap Dissolved Without Idealism or Materialism](#72-the-mindbody-gap-dissolved-without-idealism-or-materialism)
     - [7.3 Implications for the Framework Hypothesis](#73-implications-for-the-framework-hypothesis)
     - [7.4 Limitations and Lacunae](#74-limitations-and-lacunae)
   - [8. Conclusion: The Surface That Withholds Nothing](#8-conclusion-the-surface-that-withholds-nothing)

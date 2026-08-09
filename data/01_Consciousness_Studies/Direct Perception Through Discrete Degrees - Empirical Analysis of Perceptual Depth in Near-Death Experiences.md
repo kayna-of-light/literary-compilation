@@ -1,5 +1,15 @@
 # Direct Perception Through Discrete Degrees: Empirical Analysis of Perceptual Depth in Near-Death Experiences
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-08-09
+>
+> This document reflects language that does not represent the framework's position on:
+> - **#25** Filter Model as Framework Position — the abstract, §1.2, §3.2, §4.2, and the conclusion describe the constraint on perception as "biological filtering" and the NDE as "temporary filter suspension." The framework holds no such position. There is no valve, no channel, and no gap between a non-local mind and the body.
+>
+> **Summary**: The empirical findings and the discrete-degrees reading are valid and unaffected. The construct, the gradient, the factor structure, the Being of Light association, and the cultural invariance all stand. The error is only in the *mechanism* named for the constraint. This document's own operative formulation — "the higher degrees are present but unopened... the ruling love determines which degree is developed and accessible" (§1.2) — is the framework-correct one, and every occurrence of "filter suspension" should be read as **state-shift**: which degree is in operation changes, rather than how much passes an obstruction. The filter framing was AI-generated, not a framework position.
+> **Established correction (library)**: The Surface That Withholds Nothing\_ The Body as the Outermost Expression of the Spiritual State
+> ---
+
 ## Abstract
 
 **Background**: Near-death experiencers consistently report perceptual qualities radically different from ordinary consciousness — heightened sensory vividness, temporal distortion, telepathic communication, and a sense of "more real than real." Whether these reports reflect a genuine perceptual construct or random narrative embellishment has not been systematically tested. Swedenborg's doctrine of discrete degrees proposes that human perception exists at three levels — natural, spiritual, and celestial — normally constrained by biological filtering to the natural degree alone. This framework predicts that temporary filter suspension during NDEs would produce a measurable *gradient* of perceptual depth, not universal activation.
@@ -45,6 +55,8 @@ Swedenborg's doctrine of discrete degrees (1758) proposes that human perception 
 | **Celestial** | Direct knowing through love; affection-mediated | Perception through union rather than understanding |
 
 In ordinary embodied life, biological filtering constrains awareness to the natural degree. The higher degrees are present but unopened — the soul possesses the *capacity* for spiritual and celestial perception, but the ruling love determines which degree is developed and accessible.
+
+> **[CORRECTION #25]**: The second sentence above is the framework's actual position and the first is not. The framework does not hold that a biological filter constrains awareness, because a filter presupposes two things and a gap between them with the filter regulating traffic in the gap. There is no gap: the body is the complete outermost expression of the spiritual state, one reality at its outermost degree. What is correct here is stated in the sentence that follows — the higher degrees are **present but unopened**, and the ruling love determines which is developed. That is a statement about which degree is *in operation*, not about how much is getting past an obstruction. Throughout this document, read "biological filtering" as *the natural degree being the one in operation*, and "filter suspension" as *state-shift*. The predictions and results are unaffected by the substitution, because the operative variable in every analysis below is degree-openness governed by ruling love, not permeability. See: *The Surface That Withholds Nothing* (data/01_Consciousness_Studies/).
 
 This framework generates a specific prediction about NDEs that differs from both the materialist null hypothesis and the "universal transcendence" hypothesis common in popular NDE literature:
 
@@ -147,6 +159,8 @@ The composite perception depth score (0–7) shows a distribution consistent wit
 **Mean = 1.99, Median = 2** (out of 7).
 
 **Critical Finding**: The distribution is right-skewed with a long upper tail — **exactly what discrete degree theory predicts**. If NDEs produced universal perceptual activation, we would expect a bimodal or left-skewed distribution. If perceptual markers were random noise, we would expect a roughly normal distribution centered higher. Instead, 27.4% report no enhanced perception markers, nearly two-thirds (65.9%) score in the lower half, and only 12.0% access the deepest tier. The ruling love determines the degree of openness; filter suspension merely enables what is already developed.
+
+> **[CORRECTION #25]**: Read the final clause as *the state-shift enables what is already developed*. The result itself is in fact evidence against the filter framing rather than for it: a filter is indiscriminate, and a suspended filter would admit the same content to everyone, producing the universal activation this distribution rules out. A gradient governed by ruling love is what a state-shift produces, not what a lifted constraint produces. See: *The Surface That Withholds Nothing* (data/01_Consciousness_Studies/).
 
 ### 3.3 Construct Validity
 
@@ -326,6 +340,8 @@ This difference almost certainly reflects **narrative detail**, not actual perce
 
 The central finding is that NDE perception is neither universal activation nor random noise — it is a **gradient**. This is the specific prediction of the discrete degrees framework, and it is confirmed. The ruling love does not change during an NDE; what changes is the constraint. When biological filtering is temporarily suspended, the degree of perception that opens corresponds to the degree already developed in the individual.
 
+> **[CORRECTION #25]**: "What changes is the constraint" should read *what changes is which degree is in operation*. The interpretation stands entirely once the mechanism is restated: the ruling love does not change during an NDE, and the degree that opens is the one already developed. That is a state-shift. Nothing is released, bypassed, or let through.
+
 | Framework Prediction | Observed Pattern | Assessment |
 |---------------------|------------------|------------|
 | Gradient, not binary | Mean 1.99/7, right-skewed distribution | **Confirmed** |
@@ -383,6 +399,8 @@ Seven perception markers extracted from 6,753 near-death experience narratives f
 The construct is significantly associated with Being of Light encounter (Cohen's d = 0.589), with the strongest effect on telepathic communication — the marker most clearly associated with celestial-degree perception. The perceptual profile shows no significant variation across religious backgrounds among those with identified religion (ANOVA p = 0.9211), supporting the framework's prediction that the biological filter is universal and its suspension produces the same perceptual opening regardless of cultural content.
 
 These findings establish that NDE-reported perception is neither universal activation nor random embellishment. It is a structured, depth-differentiated, culture-invariant phenomenon — a genuine signal in the data that merits serious investigation. The discrete degrees framework organizes these observations into a coherent model that generates testable predictions and outperforms both the materialist null hypothesis (which predicts no coherent structure) and the universal activation hypothesis (which predicts left-skewed rather than right-skewed distribution). Whether this represents temporary access to perception normally constrained by biological filtering — as the framework proposes — remains a question the data support but do not prove.
+
+> **[CORRECTION #25]**: The framework does not propose this. The closing sentence attributes the filter model to the framework, which has never held it, and the two occurrences of "biological filter" earlier in this conclusion carry the same error. The open question the results actually leave is whether the gradient represents a **state-shift in which a degree already developed comes into operation** — one reality at a different degree, not a constraint lifted from a mind held behind it. The invariance result should likewise be read as the universality of the *architecture* of degrees, not of a filter. See: *The Surface That Withholds Nothing* (data/01_Consciousness_Studies/).
 
 ---
 

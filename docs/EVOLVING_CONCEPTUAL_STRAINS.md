@@ -1517,11 +1517,11 @@ These documents represent the **most refined positions** on all major strains. E
 
 **Evolution Type**: CORRECTION  
 **Priority**: Medium  
-**Status**: New — 4 documents to annotate (2026-06-15)
+**Status**: 5 documents annotated (4 on 2026-06-15; a fifth identified and annotated 2026-08-09)
 
 #### The Error
 
-Four corpus documents present the James/Bergson/Huxley filter or transmission model — the brain as a valve whose failure releases constrained awareness — as the framework's own account of the brain–mind relation. This was AI-generated language, not a framework position. The framework has never held that the body is a channel through which a non-local mind is transmitted.
+Five corpus documents present the James/Bergson/Huxley filter or transmission model — the brain as a valve whose failure releases constrained awareness — as the framework's own account of the brain–mind relation. This was AI-generated language, not a framework position. The framework has never held that the body is a channel through which a non-local mind is transmitted.
 
 #### Earlier Position (in affected documents)
 
@@ -1534,6 +1534,8 @@ Four corpus documents present the James/Bergson/Huxley filter or transmission mo
 *The Ontological Transition* §2.3 / abstract: endorses Filter Theory / Transmission Theory as the model for terminal lucidity and NDE phenomena.
 
 *The Epistemic Architecture of Post-Materialist Inquiry*: blends both framings — "consciousness is not produced by the brain but received by it — the brain serves as a filtering and translating mechanism for spiritual influx." (The second clause collapses filter language with influx language, conflating two distinct claims.)
+
+*Direct Perception Through Discrete Degrees* (identified 2026-08-09): abstract, §1.2, §3.2, §4.2, and conclusion describe the constraint as "biological filtering" and the NDE as "temporary filter suspension" — including the attribution "as the framework proposes." This case differs from the other four in that the document's *operative* formulation is already correct ("the higher degrees are present but unopened... the ruling love determines which degree is developed and accessible"), and the filter vocabulary sits on top of a state-shift mechanism without altering any analysis. Notably, its central result argues **against** the filter framing: a lifted filter is indiscriminate and would produce universal activation, whereas the observed gradient governed by ruling love is what a state-shift produces.
 
 #### What the Filter Model Claims
 
@@ -1558,11 +1560,13 @@ This position is also consistent with the framework's two guardrails: **receptio
 - [x] `data/00_Master_Theses/The Seed and the Sun_ A Statistical and Phenomenological Investigation into the Architecture of Consciousness, the Paths of the Soul, and the Dissolution of the Hard Problem.md` — §3.5 (filter mechanism for terminal lucidity) + conclusion ("brain is a filter whose removal...")  
 - [x] `data/01_Consciousness_Studies/The Neurocentric Limit_ A Comprehensive Re-Evaluation of the Dying Brain Hypothesis as an Explanatory Model for Near-Death Phenomena.md` — §7 (endorses filter/transmission hypothesis)  
 - [x] `data/01_Consciousness_Studies/The Ontological Transition_ An Integrative Analysis of the Physiological, Phenomenological, and Spiritual Dynamics of the Dying Process.md` — §2.3 and abstract (filter theory for terminal lucidity)  
-- [x] `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on Hypothesis-Testing with the Swedenborgian Framework.md` — blended filter-and-influx formulation
+- [x] `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on Hypothesis-Testing with the Swedenborgian Framework.md` — blended filter-and-influx formulation  
+- [x] `data/01_Consciousness_Studies/Direct Perception Through Discrete Degrees - Empirical Analysis of Perceptual Depth in Near-Death Experiences.md` — abstract, §1.2, §3.2, §4.2, conclusion ("biological filtering", "temporary filter suspension"); annotated 2026-08-09
 
 #### Documents with Established Correction
 
 - [x] `data/01_Consciousness_Studies/The Surface That Withholds Nothing_ The Body as the Outermost Expression of the Spiritual State.md` — **PRIMARY**: Establishes the framework's actual position; §7 addresses the filter tradition substantively and charitably; §4.3 establishes the state-shift reading of terminal lucidity
+- [x] `data/01_Consciousness_Studies/The Future That Cannot Be Remembered Until It Arrives_ Temporal Preview in Near-Death Experience as State-Perception.md` — supplies the first *empirical* consequence of the correction: §6.1 shows the filter model makes three wrong predictions about temporal preview (indiscriminate content, retrievable content, severity-graded incidence) where the state-shift position makes right ones
 
 #### Annotation Template
 

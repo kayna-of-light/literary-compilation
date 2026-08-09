@@ -44,15 +44,23 @@
     - [7.1 The Non-Clinical Comparison](#71-the-non-clinical-comparison)
     - [7.2 Age at Experience and the Preverbal Case](#72-age-at-experience-and-the-preverbal-case)
     - [7.3 Implications for Lifelong Recognition Phenomena](#73-implications-for-lifelong-recognition-phenomena)
-  - [8. Discussion](#8-discussion)
-    - [8.1 What the Corpus Contributes](#81-what-the-corpus-contributes)
-    - [8.2 What the Correspondential Framework Contributes](#82-what-the-correspondential-framework-contributes)
-    - [8.3 Implications for the Framework Hypothesis](#83-implications-for-the-framework-hypothesis)
-    - [8.4 The Determinism Problem, Dissolved Rather Than Answered](#84-the-determinism-problem-dissolved-rather-than-answered)
-    - [8.5 Limitations and Lacunae](#85-limitations-and-lacunae)
-  - [9. Conclusion: The Future That Cannot Be Remembered Until It Arrives](#9-conclusion-the-future-that-cannot-be-remembered-until-it-arrives)
-  - [10. Appendix: The Five Signatures, Their Empirical Traces, and Their Correspondential Readings](#10-appendix-the-five-signatures-their-empirical-traces-and-their-correspondential-readings)
-  - [11. Works Cited](#11-works-cited)
+  - [8. The Untensed Representation: What the Memory Sciences Already Establish](#8-the-untensed-representation-what-the-memory-sciences-already-establish)
+    - [8.1 Two Dual-Process Literatures, One Fault Line](#81-two-dual-process-literatures-one-fault-line)
+    - [8.2 Direction Is Assigned, Not Carried](#82-direction-is-assigned-not-carried)
+    - [8.3 The Asymmetry of Verdict: Why Déjà Vu Cannot Be Established in Advance](#83-the-asymmetry-of-verdict-why-déjà-vu-cannot-be-established-in-advance)
+    - [8.4 What This Closes in the Present Thesis](#84-what-this-closes-in-the-present-thesis)
+    - [8.5 What This Is Not: A Third Borrowing](#85-what-this-is-not-a-third-borrowing)
+    - [8.6 Counting Against](#86-counting-against)
+    - [8.7 The Correspondential Key](#87-the-correspondential-key)
+  - [9. Discussion](#9-discussion)
+    - [9.1 What the Corpus Contributes](#91-what-the-corpus-contributes)
+    - [9.2 What the Correspondential Framework Contributes](#92-what-the-correspondential-framework-contributes)
+    - [9.3 Implications for the Framework Hypothesis](#93-implications-for-the-framework-hypothesis)
+    - [9.4 The Determinism Problem, Dissolved Rather Than Answered](#94-the-determinism-problem-dissolved-rather-than-answered)
+    - [9.5 Limitations and Lacunae](#95-limitations-and-lacunae)
+  - [10. Conclusion: The Future That Cannot Be Remembered Until It Arrives](#10-conclusion-the-future-that-cannot-be-remembered-until-it-arrives)
+  - [11. Appendix: The Five Signatures, Their Empirical Traces, and Their Correspondential Readings](#11-appendix-the-five-signatures-their-empirical-traces-and-their-correspondential-readings)
+  - [12. Works Cited](#12-works-cited)
 
 ---
 
@@ -348,9 +356,9 @@ A model that merely accommodates the data it was built from is worth little. Thi
 | Presence of temporal index | Present — a store has an order and a position | Absent — a state has quality and direction but no index | **State model.** Near-total absence of dates alongside exact visual and emotional detail |
 | Scope of content | Arbitrary with respect to the recipient's needs | Bounded by use | **State model.** Zero experiencers affirmed both personal and world future scenes (86 / 54 / 0); mission co-occurrence across all three markers ~50% |
 | Phenomenology at arrival | Matching — compare present against stored item | Recognition — the same state identified in ultimates | **State model.** "Hit me," "I remember," "relived"; precognitive aftereffect 20.6% vs 7.4% (φ = 0.163) |
-| Coupling to temporal dissolution | No prediction | Strong — reception outside succession should correlate with reported timelessness | **Weak support.** φ = 0.066 for personal future knowledge; the gradient is correctly ordered but the effect is small (see §8.5) |
+| Coupling to temporal dissolution | No prediction | Strong — reception outside succession should correlate with reported timelessness | **Weak support.** φ = 0.066 for personal future knowledge; the gradient is correctly ordered but the effect is small (see §9.5) |
 
-Six of seven discriminating predictions favor the state model, several by margins that leave no room for interpretation. The seventh does not, and it is the state model's own prediction that fails, not the alternative's. If reception occurs at a degree without succession, one would expect the experiencers who received it to report that time was not operating, and at the level of ordinary personal future knowledge only 28.3% do — against a 19.9% baseline. The gradient across markers is in the predicted direction and the extremes are wide (48.8% for global future knowledge), but the central case is weakly coupled. Possible reasons are discussed in §8.5 rather than here, and none of them is offered as a rescue. The honest statement is that the model's strongest structural predictions are strongly confirmed and its most obvious phenomenological prediction is only weakly confirmed.
+Six of seven discriminating predictions favor the state model, several by margins that leave no room for interpretation. The seventh does not, and it is the state model's own prediction that fails, not the alternative's. If reception occurs at a degree without succession, one would expect the experiencers who received it to report that time was not operating, and at the level of ordinary personal future knowledge only 28.3% do — against a 19.9% baseline. The gradient across markers is in the predicted direction and the extremes are wide (48.8% for global future knowledge), but the central case is weakly coupled. Possible reasons are discussed in §9.5 rather than here, and none of them is offered as a rescue. The honest statement is that the model's strongest structural predictions are strongly confirmed and its most obvious phenomenological prediction is only weakly confirmed.
 
 There is one further prediction the model makes which is not a comparison with the coordinate reading, because the coordinate reading is silent on it: temporal preview should not require clinical death. If the phenomenon follows from a state thrown to its boundary rather than from a physiological event, then any sufficiently severe crisis of state should be capable of producing it. Section 7 tests this and reports a result that is partly confirmatory and partly ambiguous.
 
@@ -475,9 +483,120 @@ The proposal is nevertheless testable in principle, and the design is worth stat
 
 ---
 
-## 8. Discussion
+## 8. The Untensed Representation: What the Memory Sciences Already Establish
 
-### 8.1 What the Corpus Contributes
+The five signatures of §4 were derived from the accounts and read correspondentially in §5. Three of them — non-retrievability, recognition-rather-than-recall, and the alreadyness that accompanies arrival — were described as properties of the experience without any account of *why the experience should take that form* in a human memory system. The appendix of this thesis lists that omission as a debt owed by the rival model. It was owed by this one too.
+
+This section pays it, using a body of clinical and neuroscientific work that is neither speculative nor contested at the level at which it is used here. It also identifies, in that same body of work, a classificatory decision that is not a finding — a place where the phenomenon under study is disqualified in advance by a premise rather than by a result. That decision is the reason the natural sciences of memory cannot, as currently framed, ever establish temporal preview, no matter what is observed.
+
+### 8.1 Two Dual-Process Literatures, One Fault Line
+
+Two independent dual-process distinctions have been developed in the memory sciences for unrelated purposes. They fall along the same seam.
+
+The first belongs to the trauma-memory literature. Brewin, Dalgleish, and Joseph (1996) proposed dual representation theory to account for the phenomenology of post-traumatic stress; Brewin, Gregory, Lipton, and Burgess (2010) revised it within a neural-systems model of ordinary memory and imagery, and the revised statement is exact: the evidence "implies distinct neural bases to abstract, flexible, contextualized representations (C-reps) and to inflexible, sensory-bound representations (S-reps)." A C-rep is bound to a time, a place, and a position in a narrative, and can be retrieved voluntarily. An S-rep is none of these. It is sensory-bound, cue-triggered, involuntary, and — the feature that matters for everything below — carries **no contextual index**. The clinical consequence is the flashback, whose defining oddity is not vividness but tense: the content is not experienced as a memory of something past. It is experienced as occurring now, because the vehicle carrying it contains no marker specifying when.
+
+The second belongs to the déjà vu literature, which runs on the recollection/familiarity distinction from recognition-memory research. The standard definition of déjà vu is **familiarity without recollection**: a strong sense of prior occurrence in which the time, place, and context of that supposed occurrence are uncertain or impossible (Brown 2003, 2004). Roughly two thirds of surveyed populations report it at least once. Its neuroanatomy is among the better-established results in the phenomenology of memory. Bancaud, Brunet-Bourgin, Chauvel, and Halgren (1994) studied sixteen temporal-lobe epilepsy patients with electrodes stereotactically implanted for pre-surgical localisation and evoked the "dreamy state" — déjà vu and vivid memory-like hallucination — by direct electrical stimulation on forty-three occasions; across all episodes the anterior hippocampus was involved in 83%, the amygdala in 73%, and the temporal neocortex in 88%. Bartolomei and colleagues (2004) localised the effect more precisely to rhinal cortex. The phenomenon can be produced on demand, in the operating theatre, by stimulating tissue.
+
+These two distinctions are not the same theory, and no one in either literature has claimed they are. But they cut along one line. In both, the division is between a representation that carries its own context and one that does not. In both, the non-contextual member is cue-triggered rather than retrievable. In both, its phenomenological signature is that content arrives whole and cannot be summoned. **The identification proposed here — that familiarity without recollection and an S-rep firing without a C-rep are one description in two vocabularies — is an argument, not a citation.** It is made on structural grounds. Brewin's framework was constructed for intrusive imagery in psychopathology and has never been applied to déjà vu, and the identification therefore inherits none of that framework's empirical support. §8.6 states what this costs.
+
+### 8.2 Direction Is Assigned, Not Carried
+
+From the definitional feature, one consequence follows immediately, and it is the load-bearing step of this section.
+
+A representation with no contextual index **has no tense**. Not a weak or unreliable one: none. Tense is exactly what a contextual index supplies.
+
+Therefore, at the level of the representation itself, a representation whose referent lies behind the subject and one whose referent lies ahead of the subject are **formally indistinguishable**. There is nothing in the vehicle that could distinguish them, because the only thing that could is the index it does not have.
+
+Direction is therefore not read off the representation. It is **assigned downstream**, by the system that has to file the arriving content — and that system has precisely one category available for *familiar, but not now*. It has **before**, and nothing else. Ordinary cognition maintains no slot for *familiar, but not yet*, because on the assumptions under which the filing system operates, nothing could ever produce one.
+
+Run this through both clinical phenomena and they collapse into a single anomaly with two resolutions:
+
+| | Referent | Index | Assigned tense | Reported as |
+|---|---|---|---|---|
+| **Flashback** | Attested, behind the subject | Absent | None available → defaults to present | "It is happening again, now" |
+| **Déjà vu** | Not locatable | Absent | Familiar and not-now → filed as past | "I have been here before" |
+
+Same missing index. Opposite resolutions. The resolution is determined by the frame the receiving system runs in, not by anything the content contains. This is not the claim that either resolution is an error. It is the narrower claim that a tenseless vehicle cannot deliver direction, and that whatever direction the experience is reported with was supplied after the fact.
+
+This closes directly onto signatures 3 and 5. **Non-retrievability** (§4.3) is not a strange additional property requiring its own explanation. It is what a representation without a contextual half definitionally is: there is no index under which it could be filed, and therefore nothing under which it could be looked up. And **recognition rather than recall** (§4.5) — the alreadyness that the corpus reports over and over, "two words: *I remember*", "this déjà vu hit me", "a full body experience of a déjà vu" — is what an untensed familiarity signal becomes once a one-directional filing system takes delivery of it.
+
+### 8.3 The Asymmetry of Verdict: Why Déjà Vu Cannot Be Established in Advance
+
+The same structural feature — a representation firing with no retrievable context — receives opposite verdicts in the two literatures, and the verdict tracks one thing only: whether a materially attestable referent is available.
+
+In dual representation theory the S-rep is granted a **real referent**. The assault occurred; the collision occurred; frequently there is a record. The missing contextual index is then explained as an **encoding fact** — contextualisation failed under extreme arousal or dissociation, or was not yet reliably available in a young child. Note carefully what the field does here, because it is the correct move: it accepts a representation with no contextual index as *veridical*, and explains the absence of the index rather than treating the representation as spurious. That move is available because the referent is independently attested.
+
+In the déjà vu literature the identical structural feature receives the opposite verdict, and the verdict is written into the definition rather than derived from a result. Déjà vu is standardly characterised as an *illusion* of memory. Brown's (2004) review paper is titled "The déjà vu illusion." O'Connor and Moulin's (2010) review is titled "Recognition without identification, **erroneous** familiarity, and déjà vu." The classificatory word arrives before any datum is examined.
+
+The inference underneath is: *no attestable prior occurrence, therefore no real referent, therefore the familiarity signal is false.*
+
+The first step of that inference is legitimate, and any argument that pretends otherwise is not worth making. The trauma case has external corroboration that the déjà vu case lacks. That is a genuine evidential difference, not a metaphysical preference, and it fully justifies declining to grant déjà vu a referent.
+
+The second step is not legitimate. The absence of an admissible referent licenses **"referent not established."** It does not license **"erroneous."** Moving from the first to the second requires an additional premise: *that a familiarity signal can only ever be tracking a prior occurrence at the natural degree.* That premise is nowhere tested in this literature. It is not a finding of it. It is the substrate on which it is built, and it is invisible from inside because nothing in the research programme ever has occasion to state it.
+
+And the premise is not neutral with respect to what this thesis is arguing. The metaphysical settlement the memory sciences inherit did not abolish the division of substance; it kept the division and disqualified one side of it. Two orders were distinguished, and then only one was granted standing as a source of causes. Under that settlement the sole alternative referent available here — a state received at a degree above the natural, having quality and direction but no index (§5.1) — is inadmissible *before the question is asked*. Which yields a closed system:
+
+1. Déjà vu is classified as illusion at the outset, by definition.
+2. No observation can revise the classification, because the only referent that would rehabilitate it has been excluded by construction rather than by evidence.
+3. The classification is subsequently cited as though it were a result.
+
+The consequence is exact, and it is not a complaint about rigour. Within this frame, temporal preview **cannot be established in advance** — not *has not been*, but *cannot be*. Where the referent is materially attestable, an untensed representation is granted its referent up front and the missing index is explained. Where the referent is not materially attestable, the identical representation is denied a referent up front and the missing index is reclassified as the signature of the error. The asymmetry is not in the data. It is in an admissibility rule applied before the data are consulted.
+
+Grant instead that a boundary-crisis reception is a real event with a real referent — which is what §3 through §7 argue on independent empirical grounds, without reference to any of this — and the identical representation receives the identical treatment it already receives in the trauma case, by the identical reasoning, with no special pleading required at any point.
+
+This is a methodological result, not a demonstration. It shows that a premise is doing work that has been attributed to evidence. It does not show that the premise is false, and §8.6 states in detail how far short of that it falls.
+
+### 8.4 What This Closes in the Present Thesis
+
+Three things, and they should be named separately because they are of different weights.
+
+**The alreadyness debt.** The appendix table lists, for signature 5, what the coordinate model must supply: "an account of why matching a stored record produces alreadyness rather than recollection." That debt was charged to the rival model, but the state model had not paid it either. Saying that a state has quality without index (§5.1) is a claim about the *object* of perception; it does not say why the *subject's* experience of receiving one takes the specific form of alreadyness. §8.2 supplies that: alreadyness is what an untensed vehicle becomes when the only available filing category is *before*. The correspondential claim and the psychological claim are the same absence described from two planes.
+
+**The preverbal case.** §7.2 reported that the precognitive aftereffect declines monotonically with age at the crisis — 21.0% for ages 0–5 falling to 2.6% for 60 and over — and §7.3 inferred from this that an early impression leaves a capacity rather than a story, on the reasoning that "a state impressed before language has no narrative to lose." That was an assertion with a curve behind it and no mechanism. The encoding account supplies one, and supplies it from an independent literature: contextual binding capacity is not mature in early childhood, and dissociative encoding suppresses contextualisation further, so both conditions independently predict **S-rep-dominant encoding with little or no C-rep**. What follows is exactly the §7.3 profile — nothing to report, nothing to retrieve, and a lifelong disposition to cue-triggered recognition. The convergence is worth weighing carefully: the age curve was computed from the corpus before this account was considered, and it runs in the direction the account requires. That is the strongest item in this section.
+
+**The class the archive cannot see.** §7.3 proposed a population structurally absent from every NDE archive, since selection is on the reportable and this population by definition has nothing to submit. The encoding account explains *why* they have nothing to submit, in terms a clinician would accept without reference to any framework commitment: no C-rep was formed, so there is no narrative, and there never was one to forget.
+
+### 8.5 What This Is Not: A Third Borrowing
+
+§6.3 named a recurring failure — an unfamiliar phenomenon described in its natural-degree rendering, the rendering taken for the content, and an extraordinary mechanism then imported from a prestigious domain and used to license conclusions with authority borrowed rather than earned. A reader who has just been given a third body of outside work is entitled to ask whether this is the same move a third time. The question deserves a direct answer.
+
+The filter model and the block universe were imported as **causal mechanisms**: accounts of how content travels from somewhere to the experiencer. Each arrived with metaphysics attached — a gap across which traffic must be regulated; a manifold on which the future already exists — and each was then used to underwrite conclusions the target domain had not established.
+
+What is used here is not a mechanism and makes no causal claim. It is a description of **representational form**: what kind of vehicle carries this content once it is inside a human memory system, and what such a vehicle can and cannot deliver. It says nothing about where the content originates, proposes no channel, and imports no metaphysics. The argument of §8.3 is in fact that the metaphysics attached to this literature must be *stripped off* before the description can be used at all — which is the opposite of borrowing authority from it.
+
+§6.3 offers the operative test: has the imported material been tested against the phenomenon it was brought in to explain? Here, in one specific place, yes. The encoding account entails a prediction about the direction of the age curve, and the curve was computed before the account was in view. That is a weak test, since the direction was the likely one on several accounts, but it is a real one, and it is more than either of the declined borrowings ever submitted to.
+
+### 8.6 Counting Against
+
+Five findings in this literature cut against the use made of it above, and one alternative explanation is available that requires nothing exotic at all. They are stated at full strength.
+
+**Déjà vu is not associated with pathological dissociation.** Adachi and colleagues (2008) report in the *Journal of Nervous and Mental Disease* that déjà vu experiences are rarely associated with pathological dissociation. This bears directly against the encoding account of §8.4, which leans on dissociative suppression of contextualisation. If the channel were dissociation-dependent in the general population, an association ought to appear. It does not.
+
+**Déjà vu tracks good cognition, not damaged encoding.** Adachi and colleagues (2003) found déjà vu *more* frequent with higher educational attainment, younger age, frequent travel, and better memory function. A deficit account predicts the reverse. Whatever produces déjà vu in the general population, it is not a failing memory system, and any account that treats the S-rep channel as a lesion is refuted at the outset.
+
+**The familiarity account is itself contested.** O'Connor and Moulin (2013) found that déjà vu in healthy subjects is unrelated to laboratory measures of recollection and familiarity for word stimuli. More recently, functional imaging has supported a **memory-conflict** account (Urquhart, Sivakumaran, Macfarlane, and O'Connor 2021), on which déjà vu reflects frontal conflict-monitoring activity — the detection of a mismatch — rather than a spuriously elevated familiarity signal. That reading is currently the better supported of the two, and it weakens the specific identification made in §8.1, because conflict monitoring is not what an S-rep is. It should be recorded, however, that the conflict account is *less* compatible with the illusion verdict than the familiarity account it displaces: on a conflict reading the system is functioning correctly and reporting a genuine mismatch, which returns the question of what the mismatch is with.
+
+**Dual representation theory was never extended to déjà vu.** The identification in §8.1 is this thesis's own, argued structurally, and it inherits none of DRT's empirical support. DRT was built for and validated on intrusive imagery in psychopathology.
+
+**Forgotten dreams are an ordinary sufficient referent.** Brown (2004) reports that roughly 20% of déjà vu experiences duplicate situations from dreams, and around 40% from dreams and waking life together. A forgotten dream is a perfectly ordinary prior occurrence, in principle materially attestable, and would make a large share of déjà vu episodes genuinely retrospective with no revision to anything. This is the strongest mundane alternative to the reading offered here, and it is not ruled out by anything in this thesis. It is worth noting that it also does not dispose of the corpus data, since a substantial portion of the previews in these accounts arrive *as* dreams and are then met; but as an account of déjà vu in the general population it stands unrefuted.
+
+**And the verification deficit is untouched.** Nothing in this section adds a single verified case to the 40 verified and 66 partially verified of 435 veridical future-event claims reported in §3.3. Removing an unwarranted premise reopens a question. It does not answer one. What §8.3 establishes is that the classification of déjà vu as illusion rests on a premise rather than a finding, and that one representational structure receives opposite verdicts depending on whether its referent is materially attestable. It does not establish the referent. It removes an argument, not a doubt.
+
+### 8.7 The Correspondential Key
+
+| Natural-plane finding | Correspondential reading | What is not claimed |
+|---|---|---|
+| Representations divide into contextualized (C-rep) and sensory-bound, non-indexed (S-rep) | What is received above the natural degree arrives with quality and direction but no index; descending into the natural memory, it presents nothing that memory is built to file | Not that the spiritual degree *is* the S-rep system, nor that S-reps are spiritual in origin. The great majority have ordinary natural referents |
+| A non-indexed vehicle has no tense, and direction is assigned by the receiving system | Succession is a property of the natural degree alone; what is received above it has no rate and no order, and acquires both only on being rendered | Not that time is unreal, nor that the natural order of events is illusory |
+| Alreadyness accompanies cue-matched familiarity | A state is known again by identification, not retrieval; identification of what one already is produces alreadyness necessarily | Not that a record was stored and successfully matched. There is no record |
+| The signal fires on a cue and cannot be summoned | The ultimate is the state's own outermost expression; the state is recognised precisely when its own ultimate appears, and not before | Not a retrieval cue in the storage sense. Nothing is being fetched |
+| Contextual binding matures through childhood; the aftereffect declines with age at crisis | The natural apparatus is the vessel in which anything natural is formed; where it is not yet formed, nothing natural is formed, and what remains is capacity rather than content | Not that children receive more, nor that the reception differs in kind by age. What differs is what the natural degree can hold |
+
+---
+
+## 9. Discussion
+
+### 9.1 What the Corpus Contributes
 
 The empirical contribution of this study is separable from its interpretive one, and it should be stated separately so that it can be used by anyone who declines the interpretation.
 
@@ -489,7 +608,7 @@ Three findings are new to the field so far as I can determine. The association b
 
 Finally, the study contributes a validated instrument. The extraction marker achieves 100.0% sensitivity and Cohen's κ = 0.672 against the experiencers' own questionnaire answers across 1,508 accounts. Whatever one makes of the interpretation, the construct is measurable and the measurement has been checked against the people it describes.
 
-### 8.2 What the Correspondential Framework Contributes
+### 9.2 What the Correspondential Framework Contributes
 
 The interpretive contribution is that a premise the framework already held, adopted for entirely unrelated reasons, turns out to predict the structure of a phenomenon it was not devised to address.
 
@@ -501,7 +620,7 @@ The specific gain over the alternatives is that the state model **dissolves** ra
 
 This is the framework's characteristic move, and it is worth naming as such: a phenomenon that looks anomalous under a coordinate ontology becomes ordinary under a state ontology. That is not a proof of the state ontology. It is a data point about which ontology organizes the observations with fewer additions, and this project has consistently treated that as the relevant test.
 
-### 8.3 Implications for the Framework Hypothesis
+### 9.3 Implications for the Framework Hypothesis
 
 The framework holds Swedenborg's system as a hypothesis under test rather than as doctrine to be defended, and a study of this kind therefore has to report what it does to the hypothesis's standing.
 
@@ -511,7 +630,7 @@ The strength of that observation should not be overstated, and the framework's o
 
 It is also worth noting what this study does to the framework's own record. The filter model, which had drifted into several documents in this corpus as though it were a framework position, is here shown to make wrong predictions in a domain where the framework's actual position makes right ones. Strain #25 was entered as a conceptual correction on structural grounds; this study supplies the first empirical consequence of that correction, and the consequence favors it.
 
-### 8.4 The Determinism Problem, Dissolved Rather Than Answered
+### 9.4 The Determinism Problem, Dissolved Rather Than Answered
 
 Any account of temporal preview must confront the objection that seeing the future entails that the future is fixed, and that a fixed future eliminates the moral agency the whole framework depends upon. The framework holds that the ruling love is formed by choices freely made and that regeneration is a real process with real alternatives. If a near-death experiencer can be shown what she will do in 1983, it appears she cannot avoid doing it, and the entire architecture of freedom collapses.
 
@@ -523,7 +642,7 @@ The reliability of the previews and the reality of the choice therefore have the
 
 One residue of the problem is genuine and should not be smoothed over. Nothing in this account explains why some previews are reported as unconditional, and the corpus contains such reports — the experiencer told a series of things that "came true to the last detail," the woman shown a trajectory of years of pain resolving into happiness, delivered as what would be rather than what might. The state model can say that these are cases in which the state was settled, but it has no independent measure of settledness, so the explanation is unfalsifiable as stated. Section 8.5 counts this among the limitations.
 
-### 8.5 Limitations and Lacunae
+### 9.5 Limitations and Lacunae
 
 The following are the substantive weaknesses of this study, stated without mitigation.
 
@@ -543,11 +662,13 @@ The following are the substantive weaknesses of this study, stated without mitig
 
 **The extension in §7.3 is not established.** The proposal that early boundary crises may leave a lifelong recognition capacity without any retrievable experience is a structural inference from two findings, not a finding. The population it describes is by construction absent from the corpus, and no test of it is possible with this data.
 
+**The identification in §8.1 is argued, not cited.** Dual representation theory and the recognition-memory literature on déjà vu are separate programmes, and the claim that their respective non-contextual members are one thing described twice is this thesis's own. It inherits no empirical support from either. Three findings in that literature cut against the use made of it — déjà vu's non-association with pathological dissociation, its correlation with good rather than impaired cognition, and the currently better-supported memory-conflict account — and are stated at full strength in §8.6 rather than answered. The forgotten-dream explanation of déjà vu in the general population is not ruled out by anything here. What §8 establishes is that one classification rests on a premise rather than a result; it establishes nothing about the referent.
+
 **The correspondential key is internal.** The mappings in §5.2 are justified by function within the framework's own commitments. They are coherent and they generate predictions that the data test, which is more than an arbitrary assignment would do, but they are not independently derivable, and a reader who does not grant the framework's premises will not find them compelling on their own.
 
 ---
 
-## 9. Conclusion: The Future That Cannot Be Remembered Until It Arrives
+## 10. Conclusion: The Future That Cannot Be Remembered Until It Arrives
 
 The woman who could not remember her own future until it happened was not describing a failure. She was describing the shape of what she had received, accurately, in the only vocabulary available to her, and the sentence that sounds like a limitation is the single most informative statement in this corpus. A stored record can be read. A remembered scene can be recounted. What she carried out of that coma could be neither, and she said so plainly for four decades before anyone counted how many others were saying the same thing.
 
@@ -557,13 +678,13 @@ That one thing is a state, perceived where there is no succession, and a state c
 
 Read as a photograph, the phenomenon requires machinery, and the machinery is always borrowed. A brain that filters an awareness across a gap the framework denies exists, and that must then be given a second mechanism to seal what the first admitted. A four-dimensional block in which the previewed moment already sits, which fixes what the accounts insist is conditional, indexes what the accounts leave unindexed, and deletes the deliberation the previews are almost always about. Both imports arrive dressed in the authority of their home domains and neither is tested against the accounts they were fetched to explain. The framework needed neither. A premise stated in 1758 — that distance and duration in that world are states and not places — predicted six of seven discriminating features of testimony collected two and a half centuries later by people who had never heard of it, and predicted the strangest of them most exactly.
 
-What remains undone is considerable and is stated in §8.5 rather than softened here. Three quarters of the veridical claims in this corpus rest on nobody's word but the claimant's. The archive is self-selected and the accounts are retrospective. The model's own most obvious phenomenological prediction is its weakest result. The unconditional previews are not explained. And the class of case the argument most naturally points toward — a boundary crisis early enough to leave no narrative at all, and nothing afterward but a lifelong disposition to meet arriving moments as already known — is by construction invisible to an archive that collects only what can be told.
+What remains undone is considerable and is stated in §9.5 rather than softened here. Three quarters of the veridical claims in this corpus rest on nobody's word but the claimant's. The archive is self-selected and the accounts are retrospective. The model's own most obvious phenomenological prediction is its weakest result. The unconditional previews are not explained. And the class of case the argument most naturally points toward — a boundary crisis early enough to leave no narrative at all, and nothing afterward but a lifelong disposition to meet arriving moments as already known — is by construction invisible to an archive that collects only what can be told.
 
 Still, the shape of it holds. Nothing is retrieved, because nothing was filed. Nothing arrives from elsewhere, because there is no elsewhere it could come from. There is a state, seen whole, and then the long unfolding of that state into days — and at each arrival, the recognition that this was already known, and the same inability to say what comes next. The future is not remembered. It is recognized when it comes.
 
 ---
 
-## 10. Appendix: The Five Signatures, Their Empirical Traces, and Their Correspondential Readings
+## 11. Appendix: The Five Signatures, Their Empirical Traces, and Their Correspondential Readings
 
 The table below expands the central mapping of §5.4 with the full empirical trace for each row. It is the compressed form of the thesis and can be read independently of it.
 
@@ -575,6 +696,8 @@ The table below expands the central mapping of §5.4 with the full empirical tra
 | 4 | **Purposive selection** — the content is bounded by use | "**In order to give me strength**, I was shown my future, from the point of return, all through my entire life"; "as things unfolded every one of their predictions came true to the last detail" | Self-report: 86 affirm personal future, 54 affirm world future, **0 affirm both**. Mission co-occurrence ~50% across all three markers (personal φ = 0.298, global φ = 0.171, life preview φ = 0.075). Near-total absence of dates alongside exact visual detail | The perception governed by use. A state has quality and direction but no index; nothing arbitrary comes along because there is no store from which arbitrary things could be drawn | A selection agent standing between the store and the subject — at which point the filter is not a filter |
 | 5 | **Recognition** — the arrival is met, not remembered | "This déjà vu **hit me**"; "Two words... '**I remember**'"; "a full body experience of a déjà vu. I somehow **relived** the event"; "I have déjà vu experiences every week most of the time" | Precognition as persistent aftereffect: 20.6% vs 7.4% for personal future knowledge (χ² = 179.3, φ = 0.163); 34.5% vs 8.4% for global (χ² = 199.3, φ = 0.172). Declines monotonically with age at experience: 21.0% (0–5) → 2.6% (60+) | The same state identified as it arrives in ultimates. States are known by what they are; the mode of knowing one again is identification, not retrieval | An account of why matching a stored record produces alreadyness rather than recollection |
 
+**On the final column.** The rightmost column states what a coordinate or stored-record reading must supply in order to account for the same row. Two of those requirements — the seal on the record in row 3, and the account of alreadyness in row 5 — were charged to the rival model, but were not discharged by the state model either. §8.2 discharges both, from the natural side, by way of the untensed representation: there is no seal because there is nothing filed, and alreadyness is what a representation without a contextual index becomes when the only available filing category is *before*.
+
 **Supporting result — the boundary, not the arrest.** Self-declared non-clinical crisis (n = 556) vs self-declared clinical death (n = 193): personal future scenes by the experiencer's own answer 9.7% vs 13.5% (χ² = 2.08, *p* = 0.150, not significant); by extraction 14.1% vs 23.3% (χ² = 8.94, *p* = 0.003); timeless or everything-at-once 55.7% vs 52.8%, effectively identical. Cardiac arrest is only 3.6% of the corpus. Conclusion as stated: clinical death is not necessary, and may be facilitating.
 
 **Supporting result — validation.** Against the NDERF item "Did scenes from the future come to you?" across 1,507 accounts with both measures: 86 both positive, **0 experiencer-positive missed**, 75 extraction-only, 1,346 both negative. Raw agreement 95.0%, Cohen's κ = 0.672, sensitivity 100.0%.
@@ -583,7 +706,7 @@ The table below expands the central mapping of §5.4 with the full empirical tra
 
 ---
 
-## 11. Works Cited
+## 12. Works Cited
 
 **Framework library — consciousness studies**
 
@@ -620,3 +743,25 @@ The table below expands the central mapping of §5.4 with the full empirical tra
 **Positions engaged and declined**
 
 12. James, William. *Human Immortality: Two Supposed Objections to the Doctrine* (1898); Bergson, Henri. *Matière et mémoire* (1896); Huxley, Aldous. *The Doors of Perception* (1954); Kelly, Edward F., et al. *Irreducible Mind* (2007) — the lineage of the filter or transmission model, engaged in §6.1 and declined on structural and empirical grounds.
+
+**Memory science — dual representation and the neuroanatomy of recognition**
+
+13. Brewin, Chris R., Tim Dalgleish, and Stephen Joseph. "A Dual Representation Theory of Posttraumatic Stress Disorder." *Psychological Review* 103, no. 4 (1996): 670–686 — the original statement of the theory.
+
+14. Brewin, Chris R., James D. Gregory, Michelle Lipton, and Neil Burgess. "Intrusive Images in Psychological Disorders: Characteristics, Neural Mechanisms, and Treatment Implications." *Psychological Review* 117, no. 1 (2010): 210–232. doi:10.1037/a0018113 — the revised dual representation theory, and the source of the C-rep / S-rep formulation used throughout §8: "distinct neural bases to abstract, flexible, contextualized representations (C-reps) and to inflexible, sensory-bound representations (S-reps)."
+
+15. Bancaud, Jean, Françoise Brunet-Bourgin, Patrick Chauvel, and Eric Halgren. "Anatomical Origin of Déjà Vu and Vivid 'Memories' in Human Temporal Lobe Epilepsy." *Brain* 117, no. 1 (1994): 71–90. doi:10.1093/brain/117.1.71 — déjà vu and the "dreamy state" evoked by direct electrical stimulation in sixteen patients with implanted electrodes; anterior hippocampus involved in 83% of episodes, amygdala 73%, temporal neocortex 88%.
+
+16. Bartolomei, Fabrice, Emmanuel Barbeau, Martine Gavaret, Maxime Guye, Aileen McGonigal, Jean Régis, and Patrick Chauvel. "Cortical Stimulation Study of the Role of Rhinal Cortex in Déjà Vu and Reminiscence of Memories." *Neurology* 63, no. 5 (2004): 858–864 — localisation of the effect to rhinal cortex.
+
+17. Brown, Alan S. "A Review of the Déjà Vu Experience." *Psychological Bulletin* 129, no. 3 (2003): 394–413; and *The Déjà Vu Experience* (Psychology Press, 2004) — the standard reviews; source of the prevalence figure, of the definition as familiarity whose time, place, and context are uncertain or impossible, and of the dream-sourced proportions cited against this thesis in §8.6.
+
+18. Cleary, Anne M. "Recognition Memory, Familiarity, and Déjà Vu Experiences." *Current Directions in Psychological Science* 17, no. 5 (2008): 353–357 — the familiarity-without-recollection account within recognition-memory theory.
+
+19. O'Connor, Akira R., and Chris J. A. Moulin. "Recognition Without Identification, Erroneous Familiarity, and Déjà Vu." *Current Psychiatry Reports* 12, no. 3 (2010): 165–173 — engaged in §8.3 for the classificatory work performed by *erroneous*.
+
+20. O'Connor, Akira R., and Chris J. A. Moulin. "Déjà Vu Experiences in Healthy Subjects Are Unrelated to Laboratory Tests of Recollection and Familiarity for Word Stimuli." *Frontiers in Psychology* 4 (2013): 881 — counter-evidence to the familiarity account, reported in §8.6.
+
+21. Urquhart, Josephine A., Magali H. Sivakumaran, Jennifer A. Macfarlane, and Akira R. O'Connor. "fMRI Evidence Supporting the Role of Memory Conflict in the Déjà Vu Experience." *Memory* 29, no. 7 (2021): 921–932 — the memory-conflict account, the currently better-supported rival to the reading used in §8.1, reported against this thesis in §8.6.
+
+22. Adachi, Naoto, et al. "Demographic and Psychological Features of Déjà Vu Experiences in a Nonclinical Japanese Population." *Journal of Nervous and Mental Disease* 191, no. 4 (2003): 242–247; and Adachi, Naoto, et al. "Déjà Vu Experiences Are Rarely Associated with Pathological Dissociation." *Journal of Nervous and Mental Disease* 196, no. 5 (2008): 417–419 — the two findings that bear most directly against the encoding account of §8.4, reported in §8.6.

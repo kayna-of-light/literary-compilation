@@ -1986,6 +1986,92 @@ Critical analysis Section 3 and critical issues #11. Moderate priority—framewo
 
 ---
 
+## DOMAIN 13: TEMPORAL PREVIEW — OPEN QUESTIONS FROM §9.6
+
+These three arise directly from `data/01_Consciousness_Studies/The Future That Cannot Be Remembered Until It Arrives_ Temporal Preview in Near-Death Experience as State-Perception.md` §9.6, where each is stated with the design that would answer it. All three were submitted to Gemini Deep Research on 2026-08-10 and are awaiting results.
+
+A fourth §9.6 question — whether an independent measure of *determinacy* can be constructed for the unconditional-preview problem — is deliberately **not** listed here. It is a construction task rather than a literature question and GDR cannot address it.
+
+---
+
+### [GDR] Déjà Vu and the Dream Route: Does the Sleep Literature Support or Contradict It?
+
+**Target**: `[GDR]`  
+**Status**: In Progress (submitted 2026-08-10)  
+**Date Added**: 2026-08-10  
+**Priority**: HIGH  
+**GDR Chat**: `f0f20ad72780d5df`  
+**Related Document**: `data/01_Consciousness_Studies/The Future That Cannot Be Remembered Until It Arrives_ Temporal Preview in Near-Death Experience as State-Perception.md` §8.6, §9.6
+
+**Context**:
+§8 identifies déjà vu's standard definition — familiarity without recollection — with an S-rep firing in the absence of a C-rep (Brewin et al. 2010). Two candidate accounts of the referent make opposite predictions. The **dream route** holds that the content is an unconsolidated prior dream; it predicts déjà vu frequency should covary with dream recall, REM continuity and sleep fragmentation, and be independent of adverse history. The **adversity/dissociation route** predicts the reverse. Adachi et al. (2008, *J Nerv Ment Dis* 196:417–419) found déjà vu rarely associated with pathological dissociation, and Adachi et al. (2003, 191:242–247) found it associated with younger age, higher education, more travel and better memory. Brown (2004) reports ~20% of déjà vu attributed to prior dreams and ~40% to dreams and waking life together — currently listed in §8.6 as the strongest mundane alternative to this thesis.
+
+**Research Question**:
+1. Has déjà vu frequency ever been directly correlated with dream recall frequency? Instruments, effect sizes, controls.
+2. Any relation to sleep architecture, REM measures, fragmentation, insomnia, PSQI, shift work, sleep deprivation — keeping ictal and non-ictal déjà vu separate?
+3. What is the primary source and replication status of the fatigue correlate Brown reports?
+4. What does the literature report on déjà vu vs. trauma, PTSD, dissociative disorders, ACEs, depersonalisation — including nulls, and noting any conflation of depersonalisation with déjà vu?
+5. Do déjà vu experiences *attributed* to a prior dream differ structurally from those not so attributed?
+6. Is unrecalled dream content established to persist as implicit memory capable of generating a familiarity signal?
+7. **Shared covariates**: compare the age gradient and sex differences of dream recall against those of déjà vu, and assess whether Adachi's demographic profile is more consistent with a dream-recall-linked or a pathology-linked variable.
+
+**What Would Count as an Answer**:
+Correlation with dream/sleep measures plus independence from adverse history → dream route supported. No association, or robust association with trauma → contradicted. Never studied → say so explicitly and name the instruments needed.
+
+---
+
+### [GDR] Structural Coding in Spontaneous Anticipatory Experience Collections
+
+**Target**: `[GDR]`  
+**Status**: In Progress (submitted 2026-08-10)  
+**Date Added**: 2026-08-10  
+**Priority**: MEDIUM  
+**GDR Chat**: `379f371948076a32`  
+**Related Document**: Same thesis, §4 (the five signatures), §9.6
+
+**Context**:
+§4 identifies five structural signatures in NDE temporal-preview accounts: simultaneity, conditionality, non-retrievability, purposive selection, and recognition-rather-than-recall. §9.6 asks whether these appear, attenuated, in people who were *not* in a life-threatening crisis — which would distinguish state-perception as the general mode of consciousness from state-perception as a condition of the boundary. The question is deliberately framed as one about **coding schemes**, not about genuineness: what did collectors of spontaneous anticipatory experience actually code for, and what distributions did they publish?
+
+**Research Question**:
+1. What major collections exist? Collector, period, sample size, solicitation method, archive accessibility.
+2. What classification scheme did each apply — verbatim category definitions and published distributions, not conclusions.
+3. **A matrix**: five features as rows, collections as columns, each cell giving the matching category and frequency, a partial match with the definitional difference noted, or "not coded."
+4. Conditionality: any coded distinction between alterable and fixed content, or tracking of cases where the content did not come to pass after intervention?
+5. Non-retrievability: any category for content known to have been received but unarticulable until the event — distinct from vague or fragmentary content?
+6. Contemporary general-population anomalous-experience surveys: do any capture *form* as well as incidence?
+7. Standard methodological criticisms, at full strength, from primary critical sources.
+
+**What Would Count as an Answer**:
+A mostly empty matrix is a valid and useful result. The negative cells matter as much as the positive ones. Advocacy and debunking literature are both treated as evidence of what was asserted, not as authorities on coding schemes.
+
+---
+
+### [GDR] Prospective Registration of Claimed Foreknowledge: What Has Been Tried and What It Yielded
+
+**Target**: `[GDR]`  
+**Status**: In Progress (submitted 2026-08-10)  
+**Date Added**: 2026-08-10  
+**Priority**: HIGH  
+**GDR Chat**: `51571d259244ec5a`  
+**Related Document**: Same thesis, §3.3 (verification deficit), §9.5, §9.6
+
+**Context**:
+Of 435 accounts in the corpus asserting a specific future event, 40 are verified and 66 partially verified; the remainder rest on the experiencer's word. §3.3 states this plainly and §9.6 identifies prospective registration as the single change to collection practice that would most improve the evidentiary standing of the literature. Before proposing it, the history of the idea needs establishing. **A near-zero yield is the expected result and would belong in §8.6 or §9.5 rather than remaining an open question in §9.6.**
+
+**Research Question**:
+1. What premonition registries have ever existed? Founder, affiliation, dates, submission procedure, time-stamping, counts, fate of the archive.
+2. What did each yield? Matching criteria, who applied them, whether any chance-expectation analysis was run.
+3. Documented methodological problems, at full strength, from primary critical sources.
+4. Prospective content recording within mainstream research — pre-registered dream diary studies, prospective anticipatory-judgement studies in clinical or occupational settings.
+5. The preregistration and replication episode in anticipatory cognition: what the preregistered replications reported, and what reforms followed.
+6. Do any NDE research programmes collect accounts prospectively? Protocols, sample sizes, and whether any register claimed future content before its referenced event. Include the prospective cardiac-arrest studies.
+7. What would a properly designed prospective register require today, per the methodological literature?
+
+**What Would Count as an Answer**:
+Three outcomes must be kept strictly apart, since they are routinely conflated: **(a)** analysed and yielding chance-level results — a null; **(b)** never analysed, unpublished, or archive lost — an absence of evidence, not a null; **(c)** hits claimed without stated matching criteria or a chance baseline — an unevaluated claim. Every registry must be classified as one of the three.
+
+---
+
 ## PRIORITY SUMMARY & HANDOFF RECOMMENDATIONS
 
 ## STATISTICS

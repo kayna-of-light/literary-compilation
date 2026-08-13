@@ -347,6 +347,7 @@ The `--only` flag takes a path relative to the `data/` directory. The `--force` 
 - Use bullet points for argument in body text (tables and lists are for structured data)
 - Write multiple sections in one replacement operation
 - Skip the Limitations subsection
+- Write meta-commentary relating previous dra
 - Invent reference numbers for any source (section numbers, paragraphs, verses)
 - Use Google Drive URLs for internal library documents (always relative markdown links)
 - Skip the Google Drive sync step after completion

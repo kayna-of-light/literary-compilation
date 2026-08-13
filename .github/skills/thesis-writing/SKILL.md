@@ -136,6 +136,7 @@ After all sections are written:
 - **Assertive where the data supports.** When structural identity is demonstrated, say so clearly: "The identity is exact." Do not hedge against confirmed findings to appear balanced.
 - **Honest where the data does not support.** Limitations are stated explicitly in their own subsection (§ Limitations and Lacunae). Every thesis has one.
 - **No Jungian/Freudian substitutions.** The correspondential framework is the primary lens. Other frameworks may be mentioned as alternatives that fail to explain the data, but they are never substituted as interpretive equals.
+- **No meta-commentary on previous drafts.** The final draft is what matters. Do not write about iterations, revisions, or prior versions — the thesis should read as a complete, self-contained argument.
 
 ### Paragraph Style
 
@@ -347,7 +348,7 @@ The `--only` flag takes a path relative to the `data/` directory. The `--force` 
 - Use bullet points for argument in body text (tables and lists are for structured data)
 - Write multiple sections in one replacement operation
 - Skip the Limitations subsection
-- Write meta-commentary relating previous dra
+- Write meta-commentary relating previous drafts or iterations of the thesis — the final draft is what matters and should be presented as a complete, self-contained argument
 - Invent reference numbers for any source (section numbers, paragraphs, verses)
 - Use Google Drive URLs for internal library documents (always relative markdown links)
 - Skip the Google Drive sync step after completion

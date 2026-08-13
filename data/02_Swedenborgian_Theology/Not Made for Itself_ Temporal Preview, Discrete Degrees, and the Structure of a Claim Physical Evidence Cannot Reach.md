@@ -29,7 +29,7 @@
   - [4.2 The Temporal Gradient](#42-the-temporal-gradient)
   - [4.3 What Rooting in Ultimates Requires](#43-what-rooting-in-ultimates-requires)
 - [5. The Convergence](#5-the-convergence)
-  - [5.1 A Representation Without a Contextual Index Carries No Tense](#51-a-representation-without-a-contextual-index-carries-no-tense)
+  - [5.1 A Representation Without a Contextual Index Cannot Be Placed](#51-a-representation-without-a-contextual-index-cannot-be-placed)
   - [5.2 Two Descriptions, 1758 and 1996](#52-two-descriptions-1758-and-1996)
   - [5.3 The Holding Shape](#53-the-holding-shape)
   - [5.4 What This Argument Is Not](#54-what-this-argument-is-not)
@@ -166,7 +166,9 @@ A point about method follows, and it needs stating carefully, because it is read
 
 The format analysis removes the third and the fifth. Both were formal signatures — claims about how the material behaves rather than about what it contains or why it was given — and both turned out to be ordinary properties of a representational format described in the memory sciences for unrelated reasons. A sensory representation lacking its contextual counterpart cannot be retrieved by voluntary search, because voluntary search operates on the contextual system it does not possess; and its arrival produces the phenomenology of knowing-again rather than of remembering, because familiarity without recollection is what that format delivers by definition. Neither property required a special mechanism. Both had been paid for in special pleading, and the identification pays for them out of published research instead.
 
-A third loss followed and reached further than the two signatures. If a representation without a contextual index carries no tense, then felt direction is supplied downstream by the system that receives it, and a report that an experience felt like foreknowledge is inadmissible as evidence that it was. This closes off the most natural defence available to any claim about extraordinary content — the appeal to the vividness, insistence, or peculiar certainty of the experience — and closes it from the inside. Experiencers who report that a preview was unlike an ordinary déjà vu are reporting on signal strength and on their own interpretation, and both scale together. The report cannot discriminate. The consequence is that the veridical corpus assembled in *The Future That Cannot Be Remembered Until It Arrives* fails at its own stated requirement.
+The format result reaches beyond the two signatures in one further respect, and the extent of the reach has to be stated exactly. What a contextual index carries is placement, not direction. The clinical case the format was theorised from settles the point: the flashback arrives with an overwhelming sense of present threat, which is maximal felt direction delivered by a representation that has no index at all. What the format determines is that the material cannot be located. What fixes its direction is the relation between the delivered content and the scene into which it is delivered.
+
+A report of felt direction is accordingly defeasible evidence: produced by determinate conditions, which is what makes it evidence, and producible by more than one configuration of those conditions, which is what makes it defeasible. It requires a corroboration it cannot supply itself, and it does not establish what laid the representation down, because the format carries no provenance whatever — which is the point §3.2 turns on. The veridical corpus assembled in *The Future That Cannot Be Remembered Until It Arrives* therefore fails at its own stated requirement, and it fails for the reason that thesis itself records.
 
 What survives is the first, second, and fourth signatures, and they are of a different kind from the two that fell. Simultaneity, conditionality, and purposive selection are not claims about the format of the experience. They are claims about its content, its grammar, and its distribution across a population, and the format result does not touch them. Sections 6.2 and 6.4 take them up.
 
@@ -252,13 +254,13 @@ The framework arrives at these three specifications from its own commitments, wi
 
 ## 5. The Convergence
 
-### 5.1 A Representation Without a Contextual Index Carries No Tense
+### 5.1 A Representation Without a Contextual Index Cannot Be Placed
 
 Dual representation theory was developed by Brewin, Dalgleish, and Joseph in 1996 to account for a clinical puzzle in post-traumatic stress: why traumatic material intrudes involuntarily, in vivid sensory form, while resisting the ordinary narrative recall that other autobiographical material permits. Their answer was that two memory systems operate in parallel. One produces representations that are verbally accessible and can be deliberately retrieved and narrated; the other produces representations that are, in their formulation, "automatically accessible through appropriate situational cues." The 2010 revision by Brewin and colleagues renamed these sensory-based representations (S-reps) and contextual representations (C-reps), and located the pathology of flashback in the activation of an S-rep whose corresponding C-rep is absent or unbound.
 
 The contextual representation is what supplies position. It situates content in a time, a place, and a relation to the rest of a life, and it is the structure through which deliberate search operates. An S-rep firing without its C-rep therefore has three properties, and they are consequences of the definition rather than additional empirical findings.
 
-It carries no tense. Temporal position is a contribution of the contextual system, and a representation lacking that contribution does not arrive marked as past. It is not that the content is dated wrongly; it is that the content is not dated at all, and whatever tense the experience seems to have is assigned downstream by the receiving system on the basis of how the material feels.
+It cannot be placed. Position in a sequence is a contribution of the contextual system, and a representation lacking that contribution does not arrive dated. It is not that the content is dated wrongly; it is that it is not dated at all, cannot be set among the events around it, and cannot be reached by a search that proceeds by date and context. What such a representation does not lack is direction. The flashback, which is the clinical case dual representation theory was written to explain, arrives with an overwhelming sense of present threat; déjà vu, on the identification argued in *The Format That Cannot Say When*, arrives with an equally unambiguous pastness. One format, opposite directions, both at full strength — so direction is neither supplied nor removed by the format, and is fixed instead by the relation between the delivered content and the situation into which it is delivered. What the missing index removes is placement, and placement only.
 
 It cannot be retrieved voluntarily. Deliberate recall operates through the contextual system, and a representation outside that system is outside the reach of search. It is not hidden, suppressed, or defended against. It is simply not the kind of thing the searching mechanism can address.
 
@@ -270,7 +272,7 @@ These are precisely the three specifications §4.3 derived from the framework's 
 
 The convergence can now be stated exactly, and stating it exactly matters more than stating it forcefully.
 
-Dual representation theory arrives at a representational form that carries content without carrying time, and locates the supply of temporal position in a separate contextualising system. Swedenborg holds that time is not a property of what is received but of the degree at which the receiver operates. Two descriptions — one from clinical psychology in 1996, one from a theological corpus in 1758 — place the temporal index in the same relation to the content: outside it, added by whatever does the filing.
+Dual representation theory arrives at a representational form that carries content without carrying a position in time, and locates the supply of that position in a separate contextualising system. Swedenborg holds that time is not a property of what is received but of the degree at which the receiver operates. Two descriptions — one from clinical psychology in 1996, one from a theological corpus in 1758 — place the temporal index in the same relation to the content: outside it, added by whatever does the filing.
 
 Three features of this convergence give it whatever weight it has.
 

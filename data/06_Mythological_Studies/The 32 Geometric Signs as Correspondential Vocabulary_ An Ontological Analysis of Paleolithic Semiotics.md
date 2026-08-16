@@ -38,16 +38,6 @@ In this framework, the emergence of the 32 signs marks a transition from the cel
 
 The Aurignacian period (fluid, naturalistic art with minimal geometric codification) may represent the tail end of celestial-degree perception. The Magdalenian (peak geometric complexity, rigid codification) represents the full flowering of spiritual-degree knowledge — truth preserved in fixed form because it can no longer be perceived directly.
 
-### 2.2 The Empirical Anchor: Direct Perception in Near-Death Experiences
-
-The correspondential hypothesis requires that direct perception — perception through the higher discrete degrees — is a real capacity, not a theological abstraction. Recent statistical analysis of 6,753 structured NDE records (NDERF + IANDS) provides empirical evidence that it is.
-
-Seven perception markers mapped to the three discrete degrees form a coherent, measurable construct (KMO = 0.817, 21/21 inter-item correlations significant at p < 0.001). The composite score shows a gradient distribution — 27.4% report no enhanced perception markers, 38.5% score low, 22.1% moderate, and 12.0% deep — precisely what discrete degree theory predicts. Crucially, this perceptual profile is **culture-invariant**: among 1,514 experiencers with identified religious backgrounds, perception depth shows no significant variation (ANOVA F = 0.331, p = 0.9211). Christians and atheists score identically (both mean = 3.48/7).
-
-The properties reported in deep-tier experiences — temporal simultaneity, accelerated thought, telepathic communication, and insistence that the experience was "more real than real" — are precisely what Swedenborg describes as perception through the spiritual and celestial degrees. This is not proof that Paleolithic artists perceived correspondences. But it removes the most fundamental objection to the hypothesis: that the perceptual capacity it requires is imaginary. The NDE data demonstrate that it exists as a measurable, culture-invariant phenomenon.
-
-*See: [Direct Perception Through Discrete Degrees](../01_Consciousness_Studies/Direct%20Perception%20Through%20Discrete%20Degrees%20-%20Empirical%20Analysis%20of%20Perceptual%20Depth%20in%20Near-Death%20Experiences.md)*
-
 ## 3. The 32 Signs: A Correspondential Catalog
 
 The following catalog maps each of von Petzinger's 32 signs to a hypothesized Swedenborgian correspondence. The mapping principle is **function dictates correspondence**: the shape and behavior of the natural analogue reveal the spiritual reality it would embody under the correspondential framework. The individual sign-to-correspondence mappings below are hypotheses; the archaeological data (distribution, frequency, dating) are empirical.
@@ -205,8 +195,7 @@ These are observations, not conclusions. They require systematic quantitative st
 | **Origin of Signs** | Neural biology (phosphenes) | Cultural convention | Ontological reality perceived through higher degrees |
 | **Explains Consistency** | Shared neurology | Trade/migration | Shared perception of stable reality |
 | **Explains Selection** | Weak (why *these* 32?) | Weak (why no syntax?) | Strong — correspondences are grounded in function |
-| **Empirical Anchor** | Phosphene research | Archaeological distribution | NDE perception data (KMO=0.817, culture-invariant) |
-| **Status** | Testable, partially confirmed | Testable, partially confirmed | Hypothesis with empirical support for the perceptual mechanism |
+| **Status** | Testable, partially confirmed | Testable, partially confirmed | Hypothesis; awaiting independent empirical test |
 
 ## 6. Testable Predictions
 

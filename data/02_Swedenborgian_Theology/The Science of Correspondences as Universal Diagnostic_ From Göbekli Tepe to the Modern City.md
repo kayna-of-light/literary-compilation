@@ -137,7 +137,7 @@ Göbekli Tepe (approximately 9600–8000 BCE) presents a problem for the progres
 
 This is not "emerging" mathematical thought. This is sophisticated astronomical and mathematical knowledge applied to monumental architecture—without written notation, without formal arithmetic systems, without any of the tools we assume are necessary for "real" mathematics.
 
-The Paleolithic symbolic system documented across European cave sites (32 geometric signs used consistently for approximately 30,000 years) presents a similar challenge. These are not random marks. They constitute a unified symbolic vocabulary maintained across millennia without writing, without schools, without institutions. The consistency implies cultural transmission of extraordinary precision.
+The Paleolithic symbolic system documented across European cave sites (a bounded inventory of geometric sign types recurring for tens of millennia) presents a similar challenge. These are not random marks. They constitute a limited symbolic repertoire maintained across millennia without writing, without schools, without institutions. The geographic restriction of the complex forms to single river basins shows that teaching was one of the mechanisms carrying them.
 
 How does a "primitive" cognitive capacity achieve this?
 

@@ -997,5 +997,3 @@ von Petzinger's French dataset: 153 decorated sites, 22,000 years, catalogued in
 ---
 
 *Every doctrinal quotation in this thesis was verified verbatim against the source text before it was written. Every archaeological claim is attributed to the party that makes it, and where a claim is disputed, both sides are cited. Where this thesis reads rather than demonstrates, §2.2 states the difference and the readings are marked accordingly.*
-
-

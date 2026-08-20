@@ -1,13 +1,14 @@
 # The Epistemic Architecture of Post-Materialist Inquiry: A Methodological Thesis on Hypothesis-Testing with the Swedenborgian Framework
 
 > ---
-> **📋 Editorial Notes** | Last reviewed: 2026-06-15
+> **📋 Editorial Notes** | Last reviewed: 2026-08-20
 >
 > This document reflects language that does not represent the framework's position on:
 > - **#25** Filter Model as Framework Position — §2 (Vertical Causality) states "the brain serves as a filtering and translating mechanism for spiritual influx." This conflates filter/transmission language with influx language in a way that implies the body is a channel for a non-local mind. The framework holds no such position.
+> - **#26** [Paleolithic Geometric Signs: Bounded Inventory Is Not a Decoded Lexicon](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#26-paleolithic-geometric-signs-bounded-inventory-is-not-a-decoded-lexicon) — The Paleolithic corpus cannot establish meanings, semantic continuity, or transmission fidelity.
 >
-> **Summary**: The thesis's methodology and its refutation of materialism are valid. The sentence conflating filter language with influx is an AI-generated formulation. The correct framing: the body is the outermost expression of the spiritual state — not a filtering mechanism through which influx passes. Influx produces the body as its outermost form; the body does not stand between a non-local consciousness and the world.
-> **Established correction (library)**: The Surface That Withholds Nothing\_ The Body as the Outermost Expression of the Spiritual State
+> **Summary**: Preserve the thesis's methodological proposals where independently supported. Retract only its use of the Paleolithic geometric-sign corpus as confirmation of stable meanings or a 30,000-year transmission chain. For #25, the body is the outermost expression of the spiritual state, not a filter between non-local consciousness and the world.
+> **Established corrections (library)**: *The Surface That Withholds Nothing* (#25); [The Mountain and the Pillar](../06_Mythological_Studies/The%20Mountain%20and%20the%20Pillar_%20Externalization%20as%20Compensation%20in%20Paleolithic%20and%20Early%20Neolithic%20Symbolic%20Systems.md) (#26).
 > ---
 
 ---
@@ -21,6 +22,8 @@
 **Results**: All four strains achieve confirmation. **Strain One (Empirical Foundation)**: 70%+ violent death clustering in DOPS cases; 88% birthmark-wound correspondence. **Strain Two (Being of Light)**: constant experiential properties despite variable naming (χ² = 365.14, p < 0.0001); entity function differentiation (χ² = 41.13, p = 0.008); 94.2% mission discriminant validity; 36.5:1 loving vs. harsh judgment ratio. **Strain Three (Correspondence as Ontology)**: 30,000-year consistency of symbolic systems demonstrates fidelity of transmission chains extending back to when intuitive perception was operative; teleological bias as innate cognitive receiver mechanism; the evidence shows correspondence is ontological law (not invented by the Magi) AND was transmitted (not independently discovered). **Strain Four (Textual Validation)**: same symbols yield same meanings across Persian, Hebrew, and Greek traditions; Swedenborg's correspondential analysis predicted Documentary Hypothesis findings a century before Wellhausen. The cumulative weight of four independent strains, each drawing on multiple data sources, constitutes evidence.
 
 **Conclusions**: A critical distinction emerges from the analysis: this methodology employs Swedenborg's **observational framework** (the Doctrine of Correspondences, influx, discrete degrees) while recognizing that his **interpretive overlay** (the Limbus, categorical dismissal of reincarnation, biological Christology) reflects 18th-century philosophical assumptions that subsequent inquiry has not supported. More fundamentally, the evidence supports a nuanced understanding of correspondence: it is **ontological law** (the Magi did not invent it), but **transmission still occurred**. In the Adamic/Golden Age, correspondence was intuitively perceived—language and culture carried it naturally. As ruling love shifted and language drifted, intuitive access declined, requiring explicit codification into transmissible knowledge. The 30,000-year consistency demonstrates fidelity of transmission chains extending back to when intuitive perception was operative—not independent discovery by zero-contact cultures. The Magi did not invent correspondence; they institutionally codified what earlier carriers (the *Bene Qedem*) had preserved. This is not wholesale acceptance of Swedenborgian theology; it is selective hypothesis-testing that treats his framework as science treats any theory—retaining what organizes data effectively, revising what does not.
+
+> **[CORRECTION #26]**: The abstract's use of Paleolithic recurrence to confirm transmission fidelity is retracted. The geometric forms do not preserve recoverable meanings and therefore cannot validate the proposed chain. This note does not reassess transmission arguments based on other historical or textual evidence.
 
 **Keywords**: consciousness studies, Swedenborg, correspondences, near-death experience, post-materialism, hypothesis-testing, ontology, cross-domain validation, epistemology, methodology
 
@@ -363,6 +366,8 @@ But as ruling love shifted (toward self, away from Divine alignment), language d
 
 The 30,000-year evidence does not show "independent discovery by zero-contact cultures." It shows **fidelity of transmission chains** extending back to when intuitive perception was still operative. The consistency is remarkable because the transmission was remarkably faithful—not because separate cultures independently figured it out.
 
+> **[CORRECTION #26]**: The Paleolithic evidence cannot decide this forced choice. Recurrence of classified geometric forms does not preserve their meanings, so this corpus cannot distinguish independent production from semantic transmission.
+
 #### 3.3.1 Deep Symbolic Systems — **CONFIRMED** (30,000-year transmission fidelity)
 
 **Framework Prediction**: If correspondence is ontological AND was originally perceived intuitively, we should see: (a) consistent symbolic systems extending back to deep antiquity; (b) this consistency demonstrating transmission fidelity, not independent discovery.
@@ -376,6 +381,8 @@ The 30,000-year evidence does not show "independent discovery by zero-contact cu
 **The Key Observation**: Göbekli Tepe predates Zoroaster by 7,000 years. This does not prove "zero-contact independent discovery." It proves that the transmission chains extend far deeper than the institutional Magi—back to the *Bene Qedem* ("Children of the East") and earlier carriers who preserved correspondential knowledge when intuitive access was declining.
 
 **Verdict**: 30,000-year consistency in symbolic systems demonstrates faithful transmission from deep antiquity. **HIT—Transmission fidelity documented**.
+
+> **[CORRECTION #26]**: This verdict is retracted. The bounded inventory is evidence of recurrent form production; regional forms may show teaching within particular communities. Neither establishes one content transmitted across the full period, and Göbekli Tepe cannot bridge the missing semantics.
 
 #### 3.3.2 Cross-Cultural Consistency — **CONFIRMED** (Deep transmission, not independent discovery)
 
@@ -392,6 +399,8 @@ The 30,000-year evidence does not show "independent discovery by zero-contact cu
 **The Pattern**: Aboriginal Australians, proto-Israelites, and Native Americans all use correspondence-based systems. This is not "zero-contact independent discovery." The transmission chains extend back to before these populations separated—back to when intuitive correspondential perception was more widely accessible.
 
 **Verdict**: Cross-cultural consistency demonstrates deep transmission fidelity, not independent discovery. **HIT—Pre-institutional transmission documented**.
+
+> **[CORRECTION #26]**: This verdict exceeds what comparison with the Paleolithic signs can show. Songlines and long-lived oral accounts demonstrate that some knowledge can be preserved; they do not supply the missing meanings of European cave marks or show that those marks carried the same content.
 
 #### 3.3.3 The Teleological Bias — **CONFIRMED** (Innate capacity for receiving correspondence)
 
@@ -443,6 +452,8 @@ The evidence from Strains 3.3.1 through 3.3.3 requires a **corrected framing** t
 **The Linguistic Analogy**: You don't "independently discover" your native language—you absorb it because you're raised in it. Similarly, correspondence was "absorbed" intuitively when cultural/linguistic environments carried it. When those environments drifted, explicit transmission became necessary—like teaching a language through grammar rules rather than immersion. The consistency across cultures shows that the original "immersion" environment extended back to before human populations separated, and the transmitted knowledge preserved it with remarkable fidelity.
 
 **Verdict**: Correspondence is ontological law AND was transmitted with fidelity. The evidence shows BOTH, not either/or. **STRAIN THREE CONFIRMED—Ontological status AND transmission fidelity established**.
+
+> **[CORRECTION #26]**: The table and linguistic analogy do not make the Paleolithic inventory evidence for the proposed chain, because its meanings are not recoverable. This correction is limited to that archaeological premise; it does not adjudicate the document's other transmission evidence.
 
 ### 3.4 Strain Four: Textual Validation — The Method Works Across Sources
 
@@ -601,6 +612,8 @@ The strength of cumulative evidence lies in its cross-domain character. The foll
 | **4. Textual Validation** | The method works across sources | Same symbols = same meanings; Persian-Hebrew-Greek structural parallel; Swedenborg predicted Documentary Hypothesis | Method validity confirmed |
 
 Four strains. Four confirmations. Each strain draws on multiple independent data sources.
+
+> **[CORRECTION #26]**: The four-confirmation tally cannot count the Paleolithic inventory as confirmation of semantic transmission. Bounded recurrence is the observation; continuity of content is not recovered from it.
 
 The probability of this pattern arising by chance—that a 266-year-old framework would organize 21st-century consciousness data, predict archaeological patterns, and anticipate 19th-century textual criticism—is vanishingly small. The more parsimonious explanation is that the framework captures something real about the structure of consciousness and its relationship to physical reality.
 
@@ -907,6 +920,8 @@ This thesis has documented the systematic testing of the Swedenborgian correspon
 
 Eleven predictions. Eleven confirmations. Zero refutations.
 
+> **[CORRECTION #26]**: The tally overstates the Paleolithic result. “Deep symbolic systems” may describe long-lived recurrent marking, but it cannot be scored as confirmation that one semantic content was transmitted through the geometric inventory.
+
 The framework has also been refined where 18th-century scientific assumptions produced artifacts:
 - The Limbus concept corrected as Cartesian artifact
 - Biological determinism about Jesus corrected
@@ -1017,6 +1032,8 @@ Analysis repository: https://github.com/marconian/structured-data-analysis
 | 9 | Monotheism emergence | Cognitive Science | ✅ HIT | CSR cannot explain—requires counterintuitive abstraction |
 | 10 | Myth trajectory by ruling love | Mythology | ✅ HIT | Divergent evolution from common proto-myth |
 | 11 | Magian substrate transmission | History | ✅ HIT | Textual parallels documented |
+
+> **[CORRECTION #26]**: Row 7 requires reassessment. Thirty millennia of recurrent classified forms is not a hit for a stable vocabulary or semantic transmission because the forms' meanings are not recoverable.
 
 ---
 

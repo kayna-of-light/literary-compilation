@@ -1,10 +1,21 @@
 # The 32 Geometric Signs as Correspondential Vocabulary: An Ontological Analysis of Paleolithic Semiotics
 
+> ---
+> **Editorial Notes** | Last reviewed: 2026-08-20
+>
+> This document reflects **earlier understanding** on:
+> - **#26** [Paleolithic Geometric Signs: Bounded Inventory Is Not a Decoded Lexicon](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#26-paleolithic-geometric-signs-bounded-inventory-is-not-a-decoded-lexicon) — The proposed catalogue remains a set of hypotheses, but archaeology cannot validate the individual mappings or establish that the marks formed a fixed vocabulary.
+>
+> **Summary**: Preserve the catalogue as an exploratory doctrinal exercise. Retract claims that the inventory is intrinsically thirty-two units, remained semantically stable, marks a dated cognitive transition, or can be tested as a recovered Paleolithic lexicon. **Established correction (library)**: [The Mountain and the Pillar](The%20Mountain%20and%20the%20Pillar_%20Externalization%20as%20Compensation%20in%20Paleolithic%20and%20Early%20Neolithic%20Symbolic%20Systems.md).
+> ---
+
 ## 1. The Consistency Paradox
 
 Paleoanthropologist Genevieve von Petzinger's systematic survey of 367 European Upper Paleolithic sites (c. 40,000–10,000 BP) identified a core vocabulary of **32 distinct geometric signs** — including aviforms, tectiforms, spirals, and claviforms — that repeat with statistical significance across hundreds of sites.[1] The critical anomaly is not merely their presence but their **stability**: 65% of sign types remained in use throughout the entire Upper Paleolithic, and two-thirds were already present when *Homo sapiens* first arrived in Europe, implying an African origin.[2]
 
 This stability is the paradox. Cultural conventions drift over centuries — the English word "nice" meant "foolish" merely 600 years ago — yet the tectiform sign remained recognizable for over 15,000 years. Standard explanations require mechanisms of fidelity (schools, books, liturgies) that the Paleolithic record does not evidence.
+
+> **[CORRECTION #26]**: The documented result is a bounded typology of recurring forms, not a fixed vocabulary of exactly thirty-two semantic units. Twenty-six and thirty-two reflect different classificatory splitting, and morphological recurrence does not show that a sign retained one meaning. Regional clustering supplies positive evidence for teaching and transmission within communities. See *The Mountain and the Pillar*, §§3–4.
 
 ### 1.1 Existing Models and Their Limits
 
@@ -37,6 +48,8 @@ Swedenborg described three discrete degrees of human perception — **celestial*
 In this framework, the emergence of the 32 signs marks a transition from the celestial to the spiritual degree — from direct perception to codified knowledge. The signs are not the *triumph* of abstract thought but the **compensation** for the gradual loss of direct perception. They are mnemonics for truths that were once self-evident, externalized to hold the space where intuition once operated.
 
 The Aurignacian period (fluid, naturalistic art with minimal geometric codification) may represent the tail end of celestial-degree perception. The Magdalenian (peak geometric complexity, rigid codification) represents the full flowering of spiritual-degree knowledge — truth preserved in fixed form because it can no longer be perceived directly.
+
+> **[CORRECTION #26]**: This dated celestial-to-spiritual sequence is a framework projection, not an archaeological finding. The corpus is largely stylistically dated, and differences among technocomplexes do not identify discrete spiritual degrees or a timed loss of direct perception. See *The Mountain and the Pillar*, §§2.4, 3.5, and 7.4.
 
 ## 3. The 32 Signs: A Correspondential Catalog
 
@@ -188,6 +201,8 @@ Certain combinations recur. The Aviform paired with the Spiral (Lascaux Shaft Sc
 
 These are observations, not conclusions. They require systematic quantitative study to confirm or refute.
 
+> **[CORRECTION #26]**: Frequency, combination, cave depth, and local placement may describe structure in use, but they cannot by themselves recover what an abstract mark meant. Cave depth and local vertical relation are separate variables, and no systematic height-and-relation dataset currently supports the proposed grammar. See *The Mountain and the Pillar*, §§4.3 and 6.8.
+
 ## 5. Framework Comparison
 
 | Feature | Entoptic (Lewis-Williams) | Proto-Writing (von Petzinger) | Correspondential (This Document) |
@@ -213,6 +228,8 @@ If the correspondential hypothesis is correct:
 - [Cross-Cultural Isomorphism of Geometric Signs](Cross-Cultural%20Isomorphism%20of%20Geometric%20Signs_%20An%20Ontological%20Analysis%20of%20Global%20Paleolithic%20Semiotics.md)
 - [Positional Consistency of the 32 Geometric Signs](Positional%20Consistency%20of%20the%2032%20Geometric%20Signs%20in%20Upper%20Paleolithic%20Cave%20Art_%20An%20Archaeological%20and%20Semiotic%20Analysis.md)
 - [The Vastation Markers Hypothesis](The%20Vastation%20Markers%20Hypothesis_%20An%20Ontological%20and%20Climatic%20Analysis%20of%20Upper%20Paleolithic%20Semiotics%20(c.%2040,000%E2%80%9310,000%20BP).md)
+
+> **[CORRECTION #26]**: Those companion studies did not validate the predictions. The positional study lacked the required dataset; the cross-cultural study compared simple forms whose independent recurrence is expected and treated mismatches as equivalents; the climatic study assigned meanings before comparing frequencies. The catalogue above therefore remains exploratory and is not a deciphered lexicon.
 
 ---
 

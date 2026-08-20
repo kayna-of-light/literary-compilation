@@ -1,5 +1,15 @@
 # The Grammar of Stone: A Synthesis of Evidence for Correspondential Structure in Upper Paleolithic Semiotics
 
+> ---
+> **Editorial Notes** | Last reviewed: 2026-08-20
+>
+> This document reflects **earlier understanding** on:
+> - **#26** [Paleolithic Geometric Signs: Bounded Inventory Is Not a Decoded Lexicon](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#26-paleolithic-geometric-signs-bounded-inventory-is-not-a-decoded-lexicon) — Its three claimed empirical tests do not validate a fixed correspondential vocabulary.
+> - **#16** [Pillar 43: Historical Encoding vs. Correspondential Reading](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#16-pillar-43-historical-encoding-vs-correspondential-reading) — A coherent reading of figurative compositions does not recover maker intent or site function.
+>
+> **Summary**: The synthesis-level conclusion that the correspondential model was empirically confirmed is retracted. Preserve the bounded inventory and explicitly speculative readings, subject to the natural-tier limits established in [The Mountain and the Pillar](The%20Mountain%20and%20the%20Pillar_%20Externalization%20as%20Compensation%20in%20Paleolithic%20and%20Early%20Neolithic%20Symbolic%20Systems.md).
+> ---
+
 > **Status**: Draft
 > **Created**: 2026-02-09
 > **Domain**: Mythological Studies / Swedenborgian Theology
@@ -11,6 +21,8 @@
 **Thesis**: This paper synthesizes six companion studies that propose and test a fourth model: the 32 signs are graphic expressions of perceived ontological structure — what the Swedenborgian tradition calls *correspondences*. Their stability reflects not cultural transmission but the stability of the reality they depict. Three directional predictions derived from this hypothesis were tested against archaeological data: positional consistency within caves, cross-cultural isomorphism across isolated populations, and climatic correlation with protective sign frequency. All three were supported. The same structural regularities that characterize the sign system — bounded inventories, constant state with variable form, vertical gradients, entity autonomy — appear independently across multiple empirical domains outside archaeology, strengthening the inference that the patterns reflect perceived structure rather than cultural convention.
 
 **Conclusions**: The correspondential model provides a unified explanation for features that require three separate models under competing frameworks. The pattern-level predictions are empirically confirmed. The meaning-level interpretations remain speculative but internally consistent. The data are best explained by a model in which Paleolithic artists depicted consistent structure in reality, not culturally contingent symbols.
+
+> **[CORRECTION #26]**: The pattern-level confirmation and “best explained” conclusion are retracted. The positional dataset was absent, the cross-cultural comparison did not discriminate shared meaning from expected geometric convergence, and the climatic test assigned meanings before testing frequencies. See *The Mountain and the Pillar*, §§3–4 and 6.8.
 
 **Keywords**: Upper Paleolithic, geometric signs, Swedenborg, correspondences, cave art, von Petzinger, entoptic, cross-cultural, vastation, NDE
 
@@ -25,6 +37,8 @@ The stability of this inventory is the problem. These signs persisted for 30,000
 Two features of this stability demand explanation:
 
 **First, the inventory is bounded.** Von Petzinger identified 32 signs, not 320. If these were arbitrary cultural marks, the set should have grown over 30,000 years as new populations invented new symbols. It didn't. The system is closed.
+
+> **[CORRECTION #26]**: Bounded recurrence is the valid finding. “Exactly thirty-two,” semantic stability, and a closed system do not follow: the count depends on how forms are split, and the regional distributions show change as well as continuity.
 
 **Second, the inventory is selective.** These 32 signs are not exhaustive of the geometric forms available in nature. Countless shapes could have been chosen. These particular 32 were chosen, and chosen consistently, across cultures that had no demonstrable contact. This selectivity implies constraint — something limiting the options to precisely these forms.
 
@@ -96,6 +110,8 @@ The refinement concerns penniforms, which demonstrate "agency" (superimposition 
 
 **Limitation**: No systematic height-from-floor dataset exists across the full 367-site corpus. The evidence is drawn from qualitative descriptions of specific sites, not from quantitative spatial measurement. This is a genuine gap in the archaeological literature, not a limitation unique to this study.
 
+> **[CORRECTION #26]**: This limitation prevents the claimed test from being performed. Selected sites may illustrate a reading, but they cannot validate a general positional grammar; redefining “upper” as active or superimposed after observing the cases is post hoc.
+
 ### Test 2: Cross-Cultural Isomorphism
 
 **Prediction**: If the signs map ontological realities perceived by the human cognitive system universally, then isolated populations with no cultural contact should independently produce the same core lexicon. Regional "dialects" may exist for complex signs, but the foundational inventory should converge.
@@ -121,6 +137,8 @@ Complex signs show regional distribution: tectiforms are concentrated in Dordogn
 
 The entoptic model explains the Tier 1 universals, since dots, lines, and zigzags are known phosphene forms. The correspondential model's advantage is that it additionally explains the Tier 2 convergent signs (scalariforms, circles), the boundedness of the total inventory, and the contextual specificity of deployment — features the entoptic model does not predict.
 
+> **[CORRECTION #26]**: This test is non-discriminating. Simple forms have a strong neurovisual and motor null, while morphological mismatches were reclassified as “dialects” or equivalent functions. Resemblance across mixed corpora does not establish common meanings.
+
 ### Test 3: Vastation Markers
 
 **Prediction**: If the signs map perceived spiritual states, then periods of intense climatic or social stress should see spikes in "protective" signs (tectiforms as structured containment) and "ordering" signs (crosshatches, grids as imposed coherence). The Swedenborgian term for this is *vastation* — a period of spiritual crisis in which old structures dissolve and new ones consolidate.
@@ -143,6 +161,8 @@ Regional differentiation is also informative: Dordogne caves concentrate tectifo
 The system's dissolution is equally telling: after the Younger Dryas (12,900–11,700 BP), caves were abandoned and art shifted to Azilian painted pebbles — simplified, portable, lacking tectiforms. The "Ark" system dissolved when the crisis passed.
 
 **Limitation**: The Magdalenian concentration could reflect the fact that the Magdalenian simply has more documented sites or better preservation than earlier periods. The study does not fully control for site-count bias. Additionally, the Solutrean (also under extreme cold) shows only moderate tectiform presence (14.3%), and the post-hoc distinction between "stable cold" and "volatile cold" was not part of the original prediction.
+
+> **[CORRECTION #26]**: These are not secondary qualifications; together with the prior assignment of “protection” and “order,” they invalidate the claimed semantic test. Period association may remain descriptive, but it cannot show what the signs meant or isolate H1.
 
 ---
 
@@ -278,6 +298,8 @@ The inferential bridge is structural: in the non-transmission cases (Paleolithic
 4. Protective and ordering signs spike dramatically during the Magdalenian climatic crisis (tectiforms: 58.8%; crosshatches: 81.5%)
 5. The same structural patterns — vertical gradients, entity autonomy, perceiver-determined atmosphere, constant state with variable form — appear across six additional empirical domains outside archaeology (see Section VII convergence table)
 
+> **[CORRECTION #26]**: Items 1–4 are not empirically established in the stated form. The evidence establishes bounded recurrence, regional structure, and period differences; it does not establish a decoded system, positional grammar, universal semantic core, or protective/ordering meanings. Cross-domain resemblance cannot repair those missing archaeological tests.
+
 ### What is interpretive but internally consistent
 
 6. The specific correspondential mappings (spiral = divine influx, tectiform = structured mind, aviform = intellectual principle) are derived from Swedenborgian principles applied to functional properties of each form. They produce coherent, non-contradictory readings across multiple artworks and a chronologically consistent narrative arc. But they cannot be independently verified at the individual-sign level — the method lacks a mechanism to produce a clear "miss" on any single mapping
@@ -300,6 +322,8 @@ The correspondential model provides a unified explanation: the signs depict perc
 This explanation generates the predictions the data confirm. It unifies features that require three separate models under competing frameworks. And the same structural regularities appear across six additional empirical domains — from NDE phenomenology to past-life memory research to myth formation — strengthening the inference that the patterns reflect the architecture of reality rather than the conventions of culture.
 
 The individual sign mappings remain interpretive. The system-level predictions are confirmed. The cross-domain convergence is real. What the Paleolithic artists were doing when they placed an aviform above a wounded man, or a tectiform below a rock crevice, or a scalariform on a cave wall in Sulawesi — the same form independently produced by an artist in Amazonia 25,000 years later — is best explained by a model in which they were depicting what they perceived, and what they perceived was consistent because it was real.
+
+> **[CORRECTION #26]**: The system-level confirmation is retracted. The conclusion may remain as a correspondential hypothesis, but the three companion studies do not establish it archaeologically. Coherence is necessary for a reading; it is not evidence that the makers intended or shared that reading.
 
 ---
 

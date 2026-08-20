@@ -99,7 +99,7 @@ The enigmatically crude scene in the Shaft of Lascaux (c. 17,000 BCE)—a bison 
 
 Further evidence of high-functioning agency comes from the structural analysis of prehistoric numerology. The "Divine Bricolage" framework identifies a "Cognitive Echo" where the prime numbers 2, 3, 5, and 7—foundational to Swedenborg’s theological mathematics—recur as the structural basis for prehistoric mnemonic and architectural systems.
 
-* **The Paleolithic Lexicon:** The 32 geometric signs identified by Genevieve von Petzinger in Upper Paleolithic art (2^5) suggest a binary, multiplicative logic underlying early symbolism.  
+* **The Paleolithic Lexicon:** The bounded inventory of geometric sign types identified by Genevieve von Petzinger in Upper Paleolithic art shows a closed and repeatedly reused repertoire. No argument is drawn here from the size of that inventory: its enumeration is a classification decision, and in the numeric range where such counts fall, products of the small primes are the majority rather than the exception.  
 * **Megalithic Counts:** The numbers embedded in Stonehenge (5 trilithons, 30 sarsens, 56 Aubrey holes) are all factorable exclusively by the primes {2, 3, 5, 7}.
 
 This is not to claim that Paleolithic hunters were Swedenborgians, but rather that the "active management" of these prime numbers for mnemonic and ritual stability reveals a shared "cognitive imperative." The use of these specific numbers demonstrates a pragmatic, intuitive grasp of the organizational power of primes—a "bottom-up" functional agency that mirrors the "top-down" abstract agency of later theologians. An automaton does not derive the utility of prime numbers; an agent solving complex storage problems does.

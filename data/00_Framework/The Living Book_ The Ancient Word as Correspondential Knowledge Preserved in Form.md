@@ -1,10 +1,21 @@
 # The Living Book: The Ancient Word as Correspondential Knowledge Preserved in Form
 
+> ---
+> **Editorial Notes** | Last reviewed: 2026-08-20
+>
+> This document reflects **earlier understanding** on:
+> - **#26** [Paleolithic Geometric Signs: Bounded Inventory Is Not a Decoded Lexicon](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#26-paleolithic-geometric-signs-bounded-inventory-is-not-a-decoded-lexicon) — The abstract and Paleolithic section retain an old sign-transmission and positional-grammar argument despite a newer cautious inventory paragraph.
+>
+> **Summary**: The Paleolithic corpus establishes bounded recurrence, not the content continuity required by the transmission chain. The document's larger Ancient Word thesis must stand on its other evidence. **Established correction (library)**: [The Mountain and the Pillar](../06_Mythological_Studies/The%20Mountain%20and%20the%20Pillar_%20Externalization%20as%20Compensation%20in%20Paleolithic%20and%20Early%20Neolithic%20Symbolic%20Systems.md).
+> ---
+
 ## Abstract
 
 The "Ancient Word" — a body of pre-Israelite correspondential knowledge — has been treated in Swedenborgian scholarship as a lost text awaiting discovery in Central Asia. This paper argues that the Ancient Word was never a single text, was never "lost" in the way a misplaced codex is lost, and is not reducible to a geographical location. It is **correspondential knowledge itself** — the perception that natural forms express spiritual realities through functional participation — preserved in whatever form the receiving culture could provide. The "book" is a correspondence: knowledge preserved in form.
 
 The transmission chain is traceable. Paleolithic cave systems show 32 geometric signs used consistently across 30,000 years — a symbolic system predating all known civilizations. Egyptian priestly traditions preserved the cosmological architecture (Ogdoad, Memphite theology, funerary ascent) in temple liturgy and funerary practice. The Enochic/Essene tradition composed the Animal Apocalypse and the Apocalypse of Adam in the same correspondential method — encoding spiritual history through imagery where every element functions as a correspondence. The Jamesian community inherited the tradition and compiled the Nag Hammadi Library as the archive of a multi-generational research program. At every stage, the form changed and the content remained. Cave painting, oral tradition, priestly liturgy, apocalyptic literature, leather-bound codex — constant state, variable form.
+
+> **[CORRECTION #26]**: The Paleolithic premise does not trace content through this chain. The count varies by classification, and recurrence establishes neither stable meanings nor identity of content with later traditions. The subsequent links therefore require their own evidence rather than support from a decoded cave-sign system.
 
 The very principle the Ancient Word teaches — that spiritual reality takes variable natural form — is the principle that governs how the Ancient Word itself travels. The knowledge cannot hold the same form because form belongs to the natural degree, and the natural degree is the degree of time, culture, and circumstance. Anyone who claims to possess the Ancient Word in its "original form" has already misunderstood it.
 
@@ -56,11 +67,13 @@ The form column changes completely. The content column does not change at all. T
 
 We know almost nothing about this period. What we have are fragments — and we should say so plainly before noting what makes the fragments remarkable.
 
-Genevieve von Petzinger's analysis of European cave art identified 32 geometric signs used consistently across cave systems spanning 30,000 years and thousands of kilometers. These signs — dots, lines, spirals, claviform shapes, tectiforms — appear in consistent combinations with consistent spatial relationships. They are not random marks. They constitute a system. But we cannot read that system with certainty. We see its consistency without being able to fully decode its content.
+Genevieve von Petzinger's analysis of European cave art catalogued a bounded inventory of geometric sign types — counted as twenty-six or thirty-two depending on how finely the forms are split — recurring across cave systems spanning tens of millennia and thousands of kilometers. These signs — dots, lines, spirals, claviform shapes, tectiforms — appear in recurring combinations with recurring spatial relationships. They are not random marks. They constitute a system. But we cannot read that system with certainty. We see its boundedness without being able to fully decode its content.
 
 There is, however, a curious finding. When each of the 32 signs is mapped to its hypothesized Swedenborgian correspondence based on the form-function principle — aviforms (bird-shapes) to intellectual ideas, penniforms (feather-shapes) to truths, tectiforms (roof-shapes) to foundational structures, serpentiforms to sensory experience — those correspondences predict where the signs should appear spatially on the cave walls. Signs mapped to "intellectual" principles should appear in upper positions; signs mapped to "foundational" principles should appear lower. And they do. At Pech Merle, an aviform floats directly above the head of the "Wounded Man" figure. At El Castillo, tectiforms are painted below a natural rock crevice while dots appear above it — a literal vertical stratification using the rock itself as the dividing line. At Lascaux, penniforms float above animals whose hooves rest on natural rock ledges. Serpentiforms cluster near ground level. The correspondential key reads the spatial grammar of the cave walls as if the painters organized their surfaces into the same vertical hierarchy — intellectual above, foundational below — that the framework describes.
 
 This is not hard evidence. We cannot interview the painters. We are applying a key from one tradition to marks left by another, separated by millennia. But the spatial predictions hold across multiple sites, multiple sign types, and multiple regional traditions — and no other interpretive framework generates spatial predictions at all. It is a hint, not a proof. But it is a remarkably consistent hint.
+
+> **[CORRECTION #26]**: The spatial predictions were not successfully tested. No systematic height-and-relation dataset exists, selected placements cannot establish a grammar, and failed “upper/lower” cases were redefined as active, peripheral, central, deep, or containing. The examples remain illustrations, not a consistent empirical hint.
 
 The cave paintings themselves — the aurochs of Lascaux, the horses of Chauvet, the bison of Altamira — hint at something more than aesthetic decoration. In every known hunter-gatherer society that maintains cave or rock art traditions, the images function correspondentially: the animal carries the quality it embodies. But we are inferring backwards from surviving indigenous traditions to a period separated from us by tens of thousands of years. The inference is reasonable. It is not knowledge.
 

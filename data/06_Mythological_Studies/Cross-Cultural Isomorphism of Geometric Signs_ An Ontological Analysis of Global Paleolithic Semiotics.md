@@ -1,5 +1,14 @@
 # **Cross-Cultural Isomorphism of Geometric Signs: An Ontological Analysis of Global Paleolithic Semiotics**
 
+> ---
+> **Editorial Notes** | Last reviewed: 2026-08-20
+>
+> This document reflects **earlier understanding** on:
+> - **#26** [Paleolithic Geometric Signs: Bounded Inventory Is Not a Decoded Lexicon](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#26-paleolithic-geometric-signs-bounded-inventory-is-not-a-decoded-lexicon) — Recurrence of simple geometric forms does not establish common meanings or a shared global vocabulary.
+>
+> **Summary**: Preserve the formal comparisons as observations requiring chronological and typological controls. Retract “Deep Cognitive Isomorphism,” shared signification, source-inventory, and universal correspondential-language conclusions. **Established correction (library)**: [The Mountain and the Pillar](The%20Mountain%20and%20the%20Pillar_%20Externalization%20as%20Compensation%20in%20Paleolithic%20and%20Early%20Neolithic%20Symbolic%20Systems.md).
+> ---
+
 ## **Executive Summary**
 
 The persistence of geometric ornamentation in Upper Paleolithic cave art—spanning nearly 30,000 years and extending from the Iberian Peninsula to the Indonesian archipelago—presents one of the most enduring paradoxes in cognitive archaeology. While the spectacular figurative depictions of bison, horses, and aurochs have captivated the modern imagination, it is the enigmatic lexicon of abstract signs that offers the most profound window into the prehistoric mind. Paleoanthropologist Genevieve von Petzinger has rigorously documented a core vocabulary of 32 distinct geometric signs (including aviforms, tectiforms, spirals, and claviforms) that repeat with statistical significance across hundreds of European sites.1 Standard archaeological models, including structuralism, shamanic entoptic theories, and proto-writing hypotheses, fail to adequately explain the temporal stability of this system without the presence of institutional mechanisms such as schools or centralized priestly castes.3
@@ -10,6 +19,8 @@ The analysis tests the prediction that if these signs map ontological reality, n
 
 The findings confirm a robust **Deep Cognitive Isomorphism**. The "core" geometric lexicon—specifically the **Crosshatch (Grid)**, **Scalariform (Ladder)**, **Hand Stencil**, **Dot**, and **Line**—appears in Pleistocene contexts across all studied regions, predating possible cultural diffusion between these disparate zones. Notably, the Crosshatch acts as a foundational "source sign," appearing in South African ochre engravings 75,000 years ago, suggesting it was part of the cognitive toolkit carried out of Africa.4 However, the data also indicates a divergence: while the "architectural" signs of the mind (grids, ladders) are universal, more complex "derived" signs (such as the specific French **tectiform** or **aviform**) show regional specificity. The evidence supports a model where the fundamental geometry of human spiritual perception is universal, generating an identical core vocabulary in unconnected cultures, while the elaboration of that vocabulary into complex syntax remains culturally distinct.
 
+> **[CORRECTION #26]**: Formal recurrence does not confirm shared signification. Lines, dots, junctions, grids, circles, and hand traces have a strong neurovisual and motor-generation null; mixed chronologies and local typologies cannot be converted into one global inventory. “Deep Cognitive Isomorphism,” a source sign carried from Africa, and an identical core vocabulary are therefore retracted. See *The Mountain and the Pillar*, §§4.1–4.3.
+
 ## ---
 
 **1\. Introduction: The Enigma of the Silent Syntax**
@@ -19,6 +30,8 @@ The findings confirm a robust **Deep Cognitive Isomorphism**. The "core" geometr
 For over a century, the discipline of paleoanthropology has labored under a "figurative bias." The discovery of Altamira in 1879, followed by Lascaux in 1940 and Chauvet in 1994, cemented a narrative of the "First Artists" as master naturalists, obsessed with the physical forms of the megafauna that sustained them. The horses, lions, and rhinos of the Ice Age were analyzed for their anatomical precision, their kinetic energy, and their role in "hunting magic." Yet, hovering at the margins of these figures, often superimposed upon them or tucked into difficult-to-access crevices, lay a vast, neglected corpus of abstract markings.
 
 Recent scholarship has fundamentally shifted the focus to these geometric signs. Genevieve von Petzinger’s systematic survey of 146 Ice Age sites in Europe identified a recurring vocabulary of 32 distinct signs. The critical anomaly identified is not merely their presence, but their **stability**. In a period spanning 30,000 years—a timeframe sufficient for languages to evolve beyond recognition and for entire civilizations to rise and fall—these signs remained static. A "tectiform" (roof-shape) in the Dordogne did not morph arbitrarily; it persisted as a fixed unit of meaning.2
+
+> **[CORRECTION #26]**: Persistence of a classified form does not establish persistence of meaning. The type count depends on classification; complex signs are regionally clustered, while the simplest globally recurring forms are those most expected to arise independently.
 
 Standard archaeological models struggle to explain this stasis.
 
@@ -105,6 +118,8 @@ Signs that mark the active presence of the human spirit or the Divine within the
 
 If the geometric signs are universal, their roots must lie in the Middle Stone Age (MSA) of Africa, prior to the "Out of Africa" dispersal (\~60,000–80,000 BP). Recent excavations in South Africa have provided the "smoking gun" for the cognitive origin of this system.
 
+> **[CORRECTION #26]**: Blombos and Diepkloof establish deliberate geometric marking in southern Africa. They do not identify the marks' meanings, show that they belong to von Petzinger's later European typology, or establish a source inventory carried into a global semiotic system.
+
 ### **3.1 Blombos Cave: The Net of Order (75,000–100,000 BP)**
 
 The most significant evidence for an African origin comes from **Blombos Cave** in the Southern Cape. Excavations in the 75,000–100,000 BP levels yielded pieces of ochre engraved with deliberate, complex geometric designs.4
@@ -150,6 +165,8 @@ The recurrence of the **Hand Stencil** and the **Ladder (Scalariform)** is profo
 
 * **The Hand:** In Swedenborgian correspondence, the Hand signifies **Power** and the **Ultimate** (the point of action). Placing the hand on the "veil" of the rock wall signifies a ritual act of **contact** with the spiritual cause acting through the stone. The isomorphism here is functional: unconnected cultures used the same sign (Hand) in the same context (Cave Wall/Membrane) to achieve the same result (Contact/Presence).3  
 * **The Ladder:** The Scalariform corresponds to **Ascent** and **Degrees**—the movement between spiritual states. Its presence in Sulawesi confirms that the concept of "spiritual ascent via steps" is a universal human intuition, mapped geometrically as a ladder long before the invention of physical staircases in architecture.
+
+> **[CORRECTION #26]**: Calling a mark “ladder-like” does not show that its makers represented ascent, degrees, or the same concept. The form comparison is an observation; the common meaning is not recovered by resemblance.
 
 ## ---
 
@@ -225,6 +242,8 @@ We can now construct a quantitative matrix comparing the European 32-sign invent
 * **The Convergent Geometries (Tier 2):** Signs like the **Scalariform** and **Circle** appear in widely separated regions (Spain, Sulawesi, Amazonia, Australia) without any possibility of contact. This strongly supports the Correspondential Prediction: when humans need to map the concept of "ascent" or "degrees," they correspondentially generate a **Ladder (Scalariform)**. When they map "wholeness" or "source," they generate a **Circle**.  
 * **The Regional Dialects (Tier 3):** Complex, highly specific signs like the Dordogne **Tectiform** (house-shape) or the **Aviform** appear to be localized. This suggests that while the *ontological principles* (Order, Ascent, Presence) are universal, the specific *cultural forms* used to house them can vary. The Australian use of "Tracks" instead of "Aviforms" illustrates this: the same concept (movement/entity) is mapped via a different but locally relevant geometric shorthand.
 
+> **[CORRECTION #26]**: The “dialect” move makes the proposed test unable to fail: matching forms count as the same vocabulary, while nonmatching forms are declared equivalent functions. Regional differences must remain differences unless independent evidence establishes shared meanings.
+
 ### **7.3 Quantitative Overlap Estimate**
 
 Based on the available data:
@@ -254,6 +273,8 @@ The **Ladder** is not an entoptic hallucination; it is a complex representationa
 * **Correspondential Meaning:** It maps **Ascent** and **Degrees**. It signifies the understanding that the spiritual world is reached by distinct steps (degrees of altitude). It is the geometric form of the *Axis Mundi* or Jacob's Ladder.  
 * **Implication:** Pleistocene humans universally perceived the cosmos as hierarchical and accessible through upward transition.
 
+> **[CORRECTION #26]**: The Grid, Scalariform, and Hand readings in this section are doctrinal assignments, not empirical results. Their recurrence does not establish Order, Ascent, Presence, or a shared spiritual physiology.
+
 ### **8.3 The Hand Stencil: The Seal of Reality**
 
 The Hand Stencil acts as a **seal of reality**. In a world where "perception" (direct spiritual sight) was fading (the "Fall" in Swedenborgian terms), the Hand Stencil served as a tactile verification of presence: *"I am here, touching the boundary."*
@@ -281,6 +302,8 @@ The research indicates that the "32 Signs" are not merely Ice Age Europe's inven
 The "Correspondential Hypothesis" offers the most robust explanation for this phenomenon. Neither "hallucinations" nor "doodles" can explain why a **Ladder** appears in Sulawesi and Spain, or why a **Grid** appears in Blombos and Amazonia. These forms persist because they are the geometric shadows of a shared spiritual physiology. The Paleolithic mind did not just "draw shapes"; it **mapped reality** using a geometric scripture that was written on the walls of the world.
 
 The grid is the mind; the ladder is the path; the hand is the witness. Across 40,000 years and five continents, the message remains the same: **Order, Ascent, Presence.**
+
+> **[CORRECTION #26]**: The conclusion is retracted. The comparison documents recurring forms, not one message, a global source code, or a common Paleolithic lexicon. See *The Mountain and the Pillar*, §§4.1–4.3 and 7.4.
 
 ---
 

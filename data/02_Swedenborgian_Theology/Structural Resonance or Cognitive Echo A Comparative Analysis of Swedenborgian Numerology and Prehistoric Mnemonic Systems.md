@@ -1,5 +1,14 @@
 # **Structural Resonance or Cognitive Echo? A Comparative Analysis of Swedenborgian Numerology and Prehistoric Mnemonic Systems**
 
+> ---
+> **Editorial Notes** | Last reviewed: 2026-08-20
+>
+> This document reflects **earlier understanding** on:
+> - **#26** [Paleolithic Geometric Signs: Bounded Inventory Is Not a Decoded Lexicon](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#26-paleolithic-geometric-signs-bounded-inventory-is-not-a-decoded-lexicon) — Its prime-factor comparison treats “thirty-two” as a prehistoric system count rather than a modern classificatory choice.
+>
+> **Summary**: The claimed $2^5$ structural resonance with the Paleolithic inventory is retracted. Bounded recurrence remains; the number thirty-two carries no archaeological or cognitive inference. **Established correction (library)**: [The Mountain and the Pillar](../06_Mythological_Studies/The%20Mountain%20and%20the%20Pillar_%20Externalization%20as%20Compensation%20in%20Paleolithic%20and%20Early%20Neolithic%20Symbolic%20Systems.md).
+> ---
+
 ## **Introduction**
 
 This report undertakes a rigorous, non-spiritual investigation into the structural parallels between two profoundly different domains of human thought: the theological numerology of the 18th-century philosopher Emanuel Swedenborg and the functional numerical counts embedded within prehistoric information systems. The analysis will focus on Swedenborg's system, which is axiomatically derived from the prime numbers 2, 3, 5, and 7, and compare its mathematical architecture to the numerical arrangements found in Paleolithic geometric signs and the megalithic monument of Stonehenge. The primary objective is to determine if a structural relationship exists between these systems, strictly divorced from any consideration of their spiritual or mystical meanings.  
@@ -37,6 +46,8 @@ The number 32 is not arbitrary; it represents the total size of a stable, shared
 
 The prime factorization of 32 is 2 \\times 2 \\times 2 \\times 2 \\times 2, or 2^5. This mathematical property provides the first major point of connection to the Swedenborgian framework. The foundational number of this vast Paleolithic system is composed *exclusively* of the first prime in Swedenborg's set: the number 2\. While there is no evidence that Paleolithic creators understood or performed prime factorization, the structure of the number 32 is significant. As a power of two, it suggests a potential for binary pairings, doublings, or hierarchical organization within the system, a common feature in efficient mnemonic structures.  
 The cultural significance of the number 32 is also observed in later, unrelated systems, such as the "thirty-two paths of wondrous wisdom" in the Kabbalistic text *Sefer Yetzirah* and the 32 times the name *Elokim* appears in the biblical creation story. These are noted here as parallel phenomena demonstrating the number's cross-cultural resonance, not as evidence of a direct historical link to the Paleolithic lexicon.
+
+> **[CORRECTION #26]**: The entire numerical comparison in this section is retracted. Von Petzinger's inventory can be counted as twenty-six or thirty-two depending on taxonomic splitting; it is not evidence that Paleolithic people selected, organized, or recognized a set of thirty-two. Factorizing the modern category count as $2^5$ therefore analyzes the classifier's convention, not prehistoric numeracy.
 
 ### **Mnemonic Function and Concrete Numeracy**
 

@@ -1,5 +1,14 @@
 # The Transmission of the Ancient Word: A Thesis on the Science of Correspondences from Deep Antiquity to Modern Cultural Expression
 
+> ---
+> **Editorial Notes** | Last reviewed: 2026-08-20
+>
+> This document reflects **earlier understanding** on:
+> - **#26** [Paleolithic Geometric Signs: Bounded Inventory Is Not a Decoded Lexicon](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#26-paleolithic-geometric-signs-bounded-inventory-is-not-a-decoded-lexicon) — Its abstract and quality-gradient summary use recurrence as proof of 30,000-year transmission fidelity.
+>
+> **Summary**: Paleolithic recurrence cannot confirm one transmitted correspondential content. The ontology-and-access thesis must rest on evidence independent of a decoded geometric vocabulary. **Established correction (library)**: [The Mountain and the Pillar](../06_Mythological_Studies/The%20Mountain%20and%20the%20Pillar_%20Externalization%20as%20Compensation%20in%20Paleolithic%20and%20Early%20Neolithic%20Symbolic%20Systems.md).
+> ---
+
 ## Abstract
 
 **Background**: The "Science of Correspondences"—the systematic knowledge of relationships between spiritual causes and natural effects—is typically treated either as Swedenborgian invention (18th century) or as universal human intuition independently discoverable like gravity. Both framings fail to account for the empirical evidence: a pattern of complete systematic access, catastrophic loss, fragmentary preservation, and deliberate restoration.
@@ -9,6 +18,8 @@
 **Method**: Documentary analysis of primary sources across the literary-compilation library, triangulated with archaeological evidence, textual criticism, and cultural transmission studies.
 
 **Conclusions**: The 30,000-year consistency of symbolic systems demonstrates fidelity of transmission from when intuitive perception was operative—not independent discovery. The quality gradient from Plato (complete) to post-Persepolis (fragmentary) to Swedenborg (restored) confirms that correspondence, while ontological, requires a teaching substrate for access. The modern re-emergence through cultural pneumatology demonstrates the system functioning again after Swedenborg's restoration.
+
+> **[CORRECTION #26]**: The first conclusion is retracted. A bounded geometric inventory, whose count and regional forms vary, does not reveal meanings and therefore cannot demonstrate transmission of correspondential content. The later historical gradient requires assessment independently of this Paleolithic premise.
 
 **Keywords**: Science of Correspondences, transmission, Swedenborg, Plato, Magi, Bene Qedem, Ancient Word, cultural pneumatology, ontology
 
@@ -221,7 +232,7 @@ The critical evidence for the transmission thesis comes from deep antiquity—th
 
 ### A. Paleolithic Geometric Signs (30,000 years)
 
-Genevieve von Petzinger's systematic analysis of European cave art identified **32 geometric signs used consistently across caves spanning 30,000 years**—from the Ice Age to the threshold of agriculture.^[7] These are not random marks. They constitute a unified symbolic vocabulary: dots, lines, triangles, spirals, hands, tectiforms, appearing with consistent usage patterns across millennia and hundreds of kilometers.
+Genevieve von Petzinger's systematic analysis of European cave art catalogued **a bounded inventory of geometric sign types recurring across caves spanning tens of millennia**—from the Ice Age to the threshold of agriculture.^[7] The inventory is counted as twenty-six types or as thirty-two depending on how finely certain forms are split, so the number carries no inference; the boundedness does. These are not random marks. They constitute a limited symbolic repertoire: dots, lines, triangles, spirals, hands, tectiforms, recurring across millennia and hundreds of kilometers.
 
 The consistency is the critical observation. If these symbols were independently invented by isolated groups, we would expect significant regional and temporal variation. Instead, we find a system—consistent enough to constitute a "vocabulary."
 
@@ -969,6 +980,8 @@ Applying these markers across the historical record produces the following gradi
 **Deep Antiquity (Most Ancient Church)** — According to Swedenborg's account, the earliest humans possessed correspondential knowledge through intuitive faculty. They perceived spiritual causes directly and understood the natural world as a "theatre representative." The Paleolithic symbolic consistency (32 signs maintained for 30,000 years) and Göbekli Tepe's pre-literate monument-building suggest a period when this knowledge was operational.
 
 *Quality markers*: 30,000-year symbol consistency implies a complete system that could be transmitted faithfully.
+
+> **[CORRECTION #26]**: Sign recurrence is not a quality marker for complete systematic access. Because the meanings are unrecoverable, the archaeological record cannot distinguish transmission of one content from changing local uses of recurring forms.
 
 **Plato (4th century BCE)** — Full systematic access demonstrated by construction ability. The Chariot, the Cave, the Myth of Er, and the Ring of Gyges all translate into coherent correspondential logic with no residue. Plato can construct because he has the complete system.
 

@@ -1,5 +1,15 @@
 # **The Vastation Markers Hypothesis: An Ontological and Climatic Analysis of Upper Paleolithic Semiotics (c. 40,000–10,000 BP)**
 
+> ---
+> **Editorial Notes** | Last reviewed: 2026-08-20
+>
+> This document reflects **earlier understanding** on:
+> - **#26** [Paleolithic Geometric Signs: Bounded Inventory Is Not a Decoded Lexicon](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#26-paleolithic-geometric-signs-bounded-inventory-is-not-a-decoded-lexicon) — The meanings “protection” and “order” were assigned before the frequency comparison, and period frequency cannot validate those meanings.
+> - **#5** [The Most Ancient Church](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#5-the-most-ancient-church) — Archaeological periods cannot be equated with Swedenborg's celestial, spiritual, or natural states.
+>
+> **Summary**: The Magdalenian concentration and regional pattern remain observations; the claimed validation of a climatic Vastation code, its isolation of Heinrich Event 1, and its cognitive-period chronology are retracted. **Established correction (library)**: [The Mountain and the Pillar](The%20Mountain%20and%20the%20Pillar_%20Externalization%20as%20Compensation%20in%20Paleolithic%20and%20Early%20Neolithic%20Symbolic%20Systems.md).
+> ---
+
 ## **1\. Introduction: The Semiotic Paradox of the Upper Paleolithic**
 
 The Upper Paleolithic period in Western Europe, spanning approximately 40,000 to 10,000 years Before Present (BP), represents the most significant threshold in the evolution of human consciousness prior to the invention of writing. For over a century, the archaeological gaze has been transfixed by the spectacular figurative art of this era—the thundering bison of Altamira, the swimming stags of Lascaux, and the lions of Chauvet. However, lurking in the margins of these masterworks, and often dominating the parietal landscape in terms of pure frequency, is a cryptic lexicon of geometric signs: dots, lines, triangles, grids, and complex enclosed shapes known as tectiforms.
@@ -9,6 +19,8 @@ Recent quantitative research by paleoanthropologist Genevieve von Petzinger has 
 This report investigates the **"Vastation Markers" Hypothesis**, a theoretical framework that synthesizes high-resolution paleoclimatology with the theological epistemology of the "Ancient Word" (grounded in the correspondential theory of Emanuel Swedenborg). The hypothesis posits that the proliferation of "protective" and "ordering" signs was not a stylistic drift, but a desperate cognitive and spiritual response to "Vastation"—a state of combined environmental desolation and internal psychological fragmentation.3
 
 Specifically, this research validates the prediction that the frequency of these signs correlates directly with the **climatic stress events** of the Tardiglacial, most notably **Heinrich Event 1 (H1)** and the **Last Glacial Maximum (LGM)**. We argue that as the "Golden Age" of direct, fluid perception (Aurignacian) collapsed under the weight of climatic deterioration and social compression in the Franco-Cantabrian refugium, humanity developed a rigid, externalized symbolic code—a "Crisis Management Diagram"—to house the "Remains" of their cultural and spiritual inheritance.3
+
+> **[CORRECTION #26; REFRAMING #5]**: The study does not validate this claim. “Protection” and “order” were assigned to the forms before their frequencies were examined, so the comparison cannot test those meanings. The largely stylistic chronology supports period-level association at most, not synchronization with Heinrich Event 1; archaeological periods also cannot be equated with Swedenborgian cognitive ages. See *The Mountain and the Pillar*, §§2.4, 3.5, and 4.3.
 
 ## ---
 
@@ -85,6 +97,8 @@ Table 1: Frequency of Tectiform Signs by Period 19
 * **Regional Clustering:** The "French Tectiform" is not randomly distributed; it is hyper-localized to the **Dordogne (Vézère Valley)** and **Lot** regions.18 This area was the heart of the Aquitaine refugium during H1. The clustering suggests that as the population was compressed into these specific valleys by the polar climatic front, the "Tectiform" became a critical marker of group identity and spiritual protection.  
 * **The "Spanish Tectiform":** In the Cantabrian refugium (Spain), a distinct but functionally equivalent sign appears: the **Quadrilateral** or "Spanish Tectiform." These are often tripartite or ladder-like (scalariform) and are filled with internal divisions.20 Like their French counterparts, these signs cluster in the Magdalenian levels of caves like **El Castillo** and **Altamira**.21 The simultaneous emergence of "enclosed" signs in both refugia during H1 strongly supports the hypothesis of a shared defensive cognitive response to the same climatic stressor.
 
+> **[CORRECTION #26]**: The Magdalenian concentration and regional clustering remain observations. They do not make morphologically different signs “functionally equivalent,” establish a defensive meaning, or isolate H1. The percentages of all sign-bearing sites in a period are also sensitive to the number of documented sites; within-period rates are the relevant descriptive comparison, not a semantic test.
+
 ### **4.2 The Grid and Crosshatch: Casting the Net of Order**
 
 The **Crosshatch** (or Grid) consists of intersecting parallel lines. In the Vastation model, this is the "Net"—an artificial structure imposed on the void to catch and organize reality when the natural order dissolves.3
@@ -105,11 +119,15 @@ Table 2: Frequency of Crosshatch Signs by Period 19
 * **Ubiquity in Crisis:** During the Magdalenian, the Crosshatch becomes a dominant motif, appearing in nearly **one out of every three caves** (29.7%).19 Unlike the Tectiform, which is localized to the Dordogne, the Crosshatch spreads across the entire Franco-Cantabrian region (Pyrenees, Lot, Dordogne), suggesting a generalized "doctrinal" response—a universal "Net" cast over the refugium.  
 * **Aurignacian Baseline:** The slight presence in the Aurignacian (14.3% frequency) is notable but qualitatively different. These early signs are often simple intersections, whereas the Magdalenian grids are complex, repetitive, and highly standardized "systems".19
 
+> **[CORRECTION #26]**: A rise in the within-period crosshatch rate is a real pattern to investigate. Calling the mark a doctrinal “Net,” however, supplies the conclusion before the analysis. Neither frequency nor complexity determines that the mark meant order, and the “stable cold” versus “volatile cold” distinction was introduced after the Solutrean did not fit the prediction.
+
 ## ---
 
 **5\. Regional Synthesis: The "Crisis Management Diagrams"**
 
 The data indicates that the Magdalenian caves were not merely art galleries but "Crisis Management Diagrams." We can map the specific semiotic responses in the two primary refugia.
+
+> **[CORRECTION #26]**: This historical-function claim is retracted. The data do not identify caves as crisis-management devices or decode tectiforms and grids as Ark and Net. Figurative scenes may be read correspondentially, but such readings do not recover the makers' purpose.
 
 ### **5.1 The Dordogne Refugium: The "Ark" Strategy**
 
@@ -145,6 +163,8 @@ The **Younger Dryas (GS-1)** brought a return to glacial cold, but it triggered 
 
 The "Vastation Markers" hypothesis is robustly supported by the intersection of paleoclimatic and archaeological data.
 
+> **[CORRECTION #26]**: The hypothesis is not robustly supported. It lacks independent sign meanings, exposure-controlled modelling, and chronological resolution fine enough to identify H1; “near-perfect synchronization” therefore overstates what the data can show.
+
 **Summary of Findings:**
 
 1. **Temporal Correlation:** There is a near-perfect synchronization between the **Heinrich Event 1 (H1)** climatic crisis (18k–15k BP) and the statistical "explosion" of Tectiforms (58.8% of total) and Crosshatches (81.5% of total).19  
@@ -156,6 +176,8 @@ The "Vastation Markers" hypothesis is robustly supported by the intersection of 
 The transition from the Aurignacian to the Magdalenian was not merely a change in artistic style; it was a shift in the "Operating System" of the human mind. In the "Golden Age" of the Aurignacian, truth was perceived as an open, fluid continuity (represented by the line and the naturalistic animal). In the freezing darkness of the Magdalenian—the "Iron Age" of the Paleolithic—this continuity was broken by the "Vastation" of the climate and the psyche.
 
 To survive this crisis, the Magdalenian mind constructed a "Lithic Scripture" of containment. The **Tectiform** was the "Ark" built to house the dying Will; the **Grid** was the "Net" cast to hold the fragmented Understanding. These signs were not idle doodles, but the desperate, disciplined engineering of a culture fighting to preserve its soul against the ice.
+
+> **[CORRECTION #26]**: This conclusion is retracted. The surviving evidence establishes neither these sign meanings nor a Magdalenian change in the mind's “operating system.” Retain the period and regional distributions as observations; treat Vastation as an unvalidated interpretive hypothesis.
 
 ### **Table 3: Summary of Vastation Marker Correlation**
 

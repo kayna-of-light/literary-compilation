@@ -39,7 +39,8 @@ This document catalogs conceptual strains where understanding has evolved over t
 - [x] #11 Correspondence as Ontology (6 docs) — ✅ Done
 - [x] #13 Bicameral Mind (1 doc) — ✅ Done
 - [x] #15 Magi Narrative (3 docs) — ✅ Done
-- [x] #16 Göbekli Tepe (2 docs) — ✅ Done
+- [ ] #16 Pillar 43 Historical Encoding — Earlier annotations require replacement; corpus-wide re-audit opened 2026-08-20
+- [ ] #26 Paleolithic Geometric Signs — Core thesis set restored; annotations opened 2026-08-20
 - [x] #17 Virgin Birth (1 doc) — ✅ Done
 - [x] #18 Bene Qedem (15 docs) — ✅ Done: All 15 docs verified; 3 new inline notes added
 - [x] #19 Aligned Human (4 docs) — ✅ Done: All 4 docs verified with inline notes
@@ -89,7 +90,7 @@ For each strain marked "Needs review":
 - [x] 13. [Bicameral Mind Refutation](#13-bicameral-mind-refutation) — Critical Analysis (Medium) ✓ 1 doc annotated (2026-01-26)
 - [x] 14. [Somatic Influx / Radical Remission](#14-somatic-influx-and-radical-remission) — **Retired (evidence supporting #11; not a corpus strain)** (Low)
 - [x] 15. [The Magi Narrative as Theological Construct](#15-the-magi-narrative-as-theological-construct) — Critical Analysis (High) ✓ 3 docs annotated (2026-01-27)
-- [x] 16. [Göbekli Tepe as Crisis Management](#16-göbekli-tepe-as-crisis-management-diagram) — Interpretation (Medium) ✓ 2 docs annotated (2026-01-26)
+- [ ] 16. [Pillar 43: Historical Encoding vs. Correspondential Reading](#16-pillar-43-historical-encoding-vs-correspondential-reading) — Correction (High) — Earlier “crisis management” correction itself required correction (2026-08-20)
 - [x] 17. [Virgin Birth as Translation Artifact](#17-virgin-birth-as-translation-artifact) — Critical Analysis (High) ✓ 1 doc annotated (2026-01-26)
 - [x] 18. [Bene Qedem as True Carriers](#18-bene-qedem-as-true-carriers-not-magi) — Correction (**Critical**)
 - [x] 19. [The Aligned Human (Historical Jesus & Divine Bricolage)](#19-the-aligned-human-historical-jesus-and-the-divine-bricolage) — Synthesis (High) ✅ 4 docs annotated (2026-01-26)
@@ -98,6 +99,7 @@ For each strain marked "Needs review":
 - [ ] 22. [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — Reframing (**Critical**) — Two conflated errors: "Gnosticism" as unified negative brand + proprium as inherently evil — NEW (2026-07-26)
 - [ ] 23. [Glorification as Unique Divine Process](#23-glorification-as-unique-divine-process) — Correction (**Critical**) — Glorification frames the Lord’s unique cosmic operation; corrected view: identical mechanics to regeneration, distinct only in completeness; “Jesus the Radiant” designates a principle, not a person — NEW (2026-06-13)
 - [x] 25. [Filter Model as Framework Position](#25-filter-model-as-framework-position) — Correction (Medium) — Four corpus documents present the James/Bergson/Huxley filter/transmission model as the framework's account of the brain–mind relation; the framework holds no such position: the body is the outermost expression of the spiritual state, not a channel — NEW (2026-06-15)
+- [ ] 26. [Paleolithic Geometric Signs: Bounded Inventory Is Not a Decoded Lexicon](#26-paleolithic-geometric-signs-bounded-inventory-is-not-a-decoded-lexicon) — Correction (**Critical**) — Recurrence and distribution establish a bounded, regionally structured mark inventory; they do not recover fixed meanings, syntax, a universal correspondential vocabulary, or a 30,000-year transmission chain — NEW (2026-08-20)
 
 ---
 
@@ -105,7 +107,7 @@ For each strain marked "Needs review":
 
 ### 1. The Limbus Concept
 
-**Evolution Type**: CORRECTION  
+**Evolution Type**: CORRECTION
 **Priority**: High
 
 #### Earlier Position
@@ -676,7 +678,52 @@ The Magi in Matthew are the **spiritual descendants of appropriators**, not orig
 
 ---
 
-### 16. Göbekli Tepe as Crisis Management Diagram
+### 16. Pillar 43: Historical Encoding vs. Correspondential Reading
+
+**Evolution Type**: CORRECTION
+**Priority**: High
+**Status**: Reopened 2026-08-20 — the 2026-01-26 “crisis management” correction was itself overclaimed
+
+#### Earlier Positions
+Pillar 43 was treated as a historical statement about what its makers intentionally encoded:
+- A zodiacal date stamp memorializing the Younger Dryas onset
+- Evidence for one astronomical system continuous from Paleolithic Europe to Göbekli Tepe
+- A “crisis management diagram” deliberately recording the Fall or Neolithic cognitive transition
+- A “Stone Library” or salvific technology built to preserve Divine Truth as internal perception collapsed
+
+The first account imported a disputed asterism scheme. The second account replaced that scheme with a correspondential interpretation but continued to claim historical maker intent and site function. Both crossed the same evidentiary boundary.
+
+#### Corrected Position
+The archaeological claim and the correspondential reading are different kinds of claim.
+
+An archaeoastronomical date-stamp proposal depends on historical evidence about orientation, original placement, roofing, chronology, and the stability of projected asterisms. The surviving evidence does not establish a 40,000-year zodiac, a Younger Dryas memorial, or a single astronomical language joining Paleolithic cave animals to Pillar 43.
+
+The current correspondential reading makes no historical claim about what the carvers intended. It states what the doctrine yields when applied consistently to the undisputed carved surface:
+
+| Element | Current reading | Status |
+|---------|-----------------|--------|
+| Scorpion | Poisoning sensual self-love; its sting is reasoning from that affection when provoked, delivered from its absolute ultimate | Correspondential reading grounded in *AC* §195 and *AR* §§438–439 |
+| Headless ithyphallic figure | The celestial will and its intuitive understanding severed, while natural generative life continues below | Correspondential reading; *AC* §640 supplies the doctrinal relation |
+| Disk | The missing head, identified within the composition | Interpretive inference from the surface |
+| Vulture | Preservation: the deepest understanding that dies in the severance is protected and nurtured for new life rather than lost | Correspondential reading; *AC* §641 supplies a doctrinal analogue, not the correspondence itself |
+
+Coherence is required for the reading to succeed as a reading; it does not prove that the pillar was made to encode that statement. The site should not be assigned the historical function “crisis management project,” “Stone Library,” or “salvific technology” on the strength of the reading.
+
+#### Documents Reflecting Earlier Position
+- [ ] `data/02_Swedenborgian_Theology/Echoes of an Ancient Word_ A Scientific and Mythological Inquiry into the Caliber of a Lost Universal Knowledge.md`
+- [ ] `data/00_Framework/The Bifurcated Inheritance_ A Thesis on the Stone Libraries, the Abrahamic Divergence, and the Re-Integration at Bethlehem.md`
+- [ ] `data/06_Mythological_Studies/The Architecture of Influx_ A Forensic Audit of the 'Divine Bricolage' Theory and the Deep Trajectory of Correspondential Science.md`
+- [ ] `data/06_Mythological_Studies/The Agency of the Ancients_ A Comprehensive Red Team Audit of the Divine Bricolage Framework via Cognitive Archaeology, Evolutionary Physiology, and.md`
+- [ ] `data/06_Mythological_Studies/The Lithic Scripture_ A Hermeneutic Reconstruction of the Ancient Word through the Doctrine of Correspondences and Paleolithic Iconography.md`
+- [ ] `data/06_Mythological_Studies/The Grammar of Stone_ A Synthesis of Evidence for Correspondential Structure in Upper Paleolithic Semiotics.md`
+
+#### Document with Established Correction
+- [x] `data/06_Mythological_Studies/The Mountain and the Pillar_ Externalization as Compensation in Paleolithic and Early Neolithic Symbolic Systems.md` — **PRIMARY**, especially §§2.2 and 6.4–6.5
+
+#### Annotation Template
+```markdown
+> **[CORRECTION #16]**: This passage converts a reading of Pillar 43 into a historical claim about what its makers encoded or what the site was built to do. The current reading is doctrine applied to the carved surface, not a recovery of maker intent: the scorpion is poisoning sensual self-love reasoning from its ultimate; the severed head is the celestial will and its intuitive understanding; and the vulture makes the loss protective by preserving that understanding for new life. The archaeological record does not establish a zodiacal date stamp, a Younger Dryas memorial, or a “crisis management” function. See *The Mountain and the Pillar*, §§2.2 and 6.4–6.5.
+```
 
 **Evolution Type**: INTERPRETATION  
 **Priority**: Medium
@@ -1578,5 +1625,82 @@ This position is also consistent with the framework's two guardrails: **receptio
 > is a state-shift (an obscuring influence lifts; the body reorganizes and conveys) not a
 > valve-release. The anti-dying-brain argument in this section remains valid.
 > See: *The Surface That Withholds Nothing* (data/01_Consciousness_Studies/).
+```
+
+---
+
+### 26. Paleolithic Geometric Signs: Bounded Inventory Is Not a Decoded Lexicon
+
+**Evolution Type**: CORRECTION
+**Priority**: **Critical**
+**Status**: Opened 2026-08-20
+
+#### The Error
+
+A cluster of theses promoted Geneviève von Petzinger's typology of recurring Upper Paleolithic geometric marks into a closed “32-sign” system with stable meanings. They then treated three proposed tests as empirical confirmation of a correspondential vocabulary:
+
+1. selected placements were said to establish a vertical grammar;
+2. simple shapes recurring across continents were said to establish the same meanings in unconnected cultures;
+3. Magdalenian frequencies of tectiforms and crosshatches were said to establish “protective” and “ordering” responses to climatic vastation.
+
+The synthesis papers then presented the result as a decoded Paleolithic scripture, a 30,000-year transmission chain, or direct perception of a fixed ontological inventory.
+
+#### Why the Tests Do Not Establish the Claim
+
+**The inventory count is classificatory.** Twenty-six and thirty-two are alternative ways of splitting the same morphological field. The finding is bounded recurrence, not an exact closed alphabet of thirty-two natural units.
+
+**Form does not supply meaning.** An abstract mark has no natural function comparable to what an animal or organ does. Assigning “ladder,” “house,” “net,” “bird,” or “heart” to a shape first and then importing the correspondence of that named object is dictionary lookup, not a functionally constrained reading.
+
+**Distribution cannot induce semantics.** Frequency, co-occurrence, and placement can establish recurrence and structure in use, but infinitely many meaning assignments fit the same distribution. Without directly relevant ethnography or a decipherment key, the Upper Paleolithic meanings are structurally underdetermined.
+
+**The positional test was not performed.** No systematic dataset records sign type against local height and relation to neighbouring figures across the corpus. Selected examples cannot establish a general grammar. The earlier analysis also changed its prediction after seeing adverse cases: “upper” became active, peripheral, central, deep, or containing. Local vertical relation and cave depth are separate axes.
+
+**Cross-cultural resemblance has a strong null.** Lines, dots, junctions, zigzags, grids, circles, and hand traces are forms favored by the visual and motor systems. Their independent recurrence is expected without shared meaning or contact. Complex forms are regionally clustered; treating morphological mismatches as “dialects” or different forms of the same function makes the proposed test unable to fail.
+
+**The vastation result is circular and confounded.** Tectiforms and grids were assigned “protection” and “order” before their period frequencies were compared with climate. The Magdalenian contains more documented sites and strong preservation/sampling effects; the earlier papers did not supply an exposure-controlled model, and “stable cold” versus “volatile cold” was introduced after the Solutrean did not fit. A period association, even if retained after normalization, cannot establish the marks' meanings.
+
+#### Corrected Position
+
+The following natural-tier findings remain:
+- geometric marks tend to outnumber figurative images in the French parietal corpus;
+- a bounded inventory of mark types recurs over a very long period;
+- the exact count depends on classification;
+- complex forms show regional clustering, consistent with teaching and transmission within communities;
+- sign frequencies and uses change between archaeological periods;
+- simple cross-cultural convergence is expected under neurovisual and motor-generation accounts;
+- semantic or mnemonic use remains possible, but the surviving record does not recover the meanings.
+
+The correspondential hypothesis may still be stated as a hypothesis. It has not been empirically validated by the three older tests, and the catalogue of one-to-one sign meanings is not a recovered lexicon. Correspondential readings of complete figurative compositions are a separate operation: they state what the doctrine yields from the composition and do not recover maker intent.
+
+#### Core Documents Reflecting Earlier Position
+- [ ] `data/06_Mythological_Studies/The 32 Geometric Signs as Correspondential Vocabulary_ An Ontological Analysis of Paleolithic Semiotics.md`
+- [ ] `data/06_Mythological_Studies/Positional Consistency of the 32 Geometric Signs in Upper Paleolithic Cave Art_ An Archaeological and Semiotic Analysis.md`
+- [ ] `data/06_Mythological_Studies/Cross-Cultural Isomorphism of Geometric Signs_ An Ontological Analysis of Global Paleolithic Semiotics.md`
+- [ ] `data/06_Mythological_Studies/The Vastation Markers Hypothesis_ An Ontological and Climatic Analysis of Upper Paleolithic Semiotics (c. 40,000–10,000 BP).md`
+- [ ] `data/06_Mythological_Studies/The Grammar of Stone_ A Synthesis of Evidence for Correspondential Structure in Upper Paleolithic Semiotics.md`
+- [ ] `data/02_Swedenborgian_Theology/Echoes of an Ancient Word_ A Scientific and Mythological Inquiry into the Caliber of a Lost Universal Knowledge.md`
+
+#### Downstream Documents Requiring Inline Review
+- [ ] `data/00_Framework/A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage.md`
+- [ ] `data/00_Framework/The Ancient Word Recovered_ Extracting the Correspondential Substrate of the Kephalaia.md`
+- [ ] `data/00_Framework/The Bifurcated Inheritance_ A Thesis on the Stone Libraries, the Abrahamic Divergence, and the Re-Integration at Bethlehem.md`
+- [ ] `data/00_Framework/The Living Book_ The Ancient Word as Correspondential Knowledge Preserved in Form.md`
+- [ ] `data/00_Framework/The Transmission of the Ancient Word_ A Thesis on the Science of Correspondences from Deep Antiquity to Modern Cultural Expression.md`
+- [ ] `data/02_Swedenborgian_Theology/Structural Resonance or Cognitive Echo A Comparative Analysis of Swedenborgian Numerology and Prehistoric Mnemonic Systems.md`
+- [ ] `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on Hypothesis-Testing with the Swedenborgian Framework.md`
+- [ ] `data/02_Swedenborgian_Theology/The Science of Correspondences as Universal Diagnostic_ From Göbekli Tepe to the Modern City.md`
+- [ ] `data/02_Swedenborgian_Theology/The Stone Library and the Star-Seers_ Celestial Perception in the Most Ancient Church.md`
+- [ ] `data/06_Mythological_Studies/Cracking the Code_ A Mnemonic Interpretation of Paleolithic Geometric Signs.md`
+- [ ] `data/06_Mythological_Studies/The Lithic Scripture_ A Hermeneutic Reconstruction of the Ancient Word through the Doctrine of Correspondences and Paleolithic Iconography.md`
+- [ ] `data/06_Mythological_Studies/The Semiotics of Sanctity_ A Diachronic Analysis of the Doctrine of Correspondences from the Paleolithic Mind to the Priestly Code.md`
+
+#### Documents with Established Correction
+- [x] `data/06_Mythological_Studies/The Mountain and the Pillar_ Externalization as Compensation in Paleolithic and Early Neolithic Symbolic Systems.md` — **PRIMARY**, especially §§3–4, 6.8, and 7.1–7.4
+- [x] `data/00_Master_Theses/The River and the Vessel_ Influx, Correspondence, and the Continuous Perception of Spiritual Reality Across All Ages.md` — current revision distinguishes the surviving observations from the failed tests
+
+#### Annotation Template
+
+```markdown
+> **[CORRECTION #26]**: Recurrence and distribution establish a bounded, regionally structured inventory of marks; they do not recover a fixed vocabulary or its meanings. The older positional, cross-cultural, and climatic tests did not validate the proposed correspondences: the positional dataset does not exist, simple global forms have a strong neurovisual/motor null, and frequency cannot establish that a tectiform meant protection or a grid meant order. See *The Mountain and the Pillar*, §§3–4, 6.8, and 7.1–7.4.
 ```
 

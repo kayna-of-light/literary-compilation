@@ -1,5 +1,15 @@
 # The Bifurcated Inheritance: A Thesis on the Stone Libraries, the Abrahamic Divergence, and the Re-Integration at Bethlehem
 
+> ---
+> **Editorial Notes** | Last reviewed: 2026-08-20
+>
+> This document reflects **earlier understanding** on:
+> - **#26** [Paleolithic Geometric Signs: Bounded Inventory Is Not a Decoded Lexicon](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#26-paleolithic-geometric-signs-bounded-inventory-is-not-a-decoded-lexicon) — The Painted Word phase treats recurrence as a decoded vocabulary, grammar, and 30,000-year transmission chain.
+> - **#16** [Pillar 43: Historical Encoding vs. Correspondential Reading](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#16-pillar-43-historical-encoding-vs-correspondential-reading) — The Stone Library phase converts a correspondential reading into maker intent, historical encoding, and site function.
+>
+> **Summary**: The claimed archaeological demonstration from cave signs through Pillar 43 is retracted. Preserve the broader historical thesis only where it rests on independent textual and archaeological evidence. **Established correction (library)**: [The Mountain and the Pillar](../06_Mythological_Studies/The%20Mountain%20and%20the%20Pillar_%20Externalization%20as%20Compensation%20in%20Paleolithic%20and%20Early%20Neolithic%20Symbolic%20Systems.md).
+> ---
+
 ## Abstract
 
 **Background**: The Hebrew Bible references lost books—the *Wars of Jehovah*, the *Book of Jashar*, the *Prophecies of Enoch*—as authoritative sources predating the Mosaic canon. Emanuel Swedenborg claimed these belonged to an "Ancient Word" written entirely in correspondences and preserved in "Great Tartary." The question has always been: if such a system existed before writing, how was it encoded and transmitted? Modern archaeology now provides evidence of pre-literate symbolic systems spanning 30,000 years, monumental "Stone Libraries" at Göbekli Tepe (9600 BCE), and nomadic carriers preserving taxonomic wisdom across the Fertile Crescent.
@@ -9,6 +19,8 @@
 **Method**: Archaeological analysis of Paleolithic symbolic systems (von Petzinger), iconographic decoding of Göbekli Tepe Pillar 43 through Swedenborgian correspondences, triangulation of Egyptian inscriptional evidence (Shasu of Yahweh), zooarchaeological data (pig taboo), and textual analysis of wisdom literature (Job, Proverbs) and Gospel narrative (Matthew 2).
 
 **Conclusions**: The transmission chain from cave art to Bethlehem is archaeologically and textually demonstrable at the strong-to-moderate level. The 30,000-year consistency of Paleolithic symbols evidences transmission fidelity, not independent discovery. Pillar 43 encodes the Fall narrative (Scorpion → Headless Man → Vulture) using the same correspondential logic later codified in Genesis. The Bene Qedem preserved *Listenwissenschaft* (nature-wisdom) that bifurcated through the Abrahamic lineages. The Magi at Bethlehem—reading stars but needing Scripture—embody the reunion of what Abraham's sons divided.
+
+> **[CORRECTION #16; CORRECTION #26]**: The first three claims are retracted. Recurrence does not establish fixed meanings or transmission fidelity, and the Pillar 43 reading does not demonstrate that its makers encoded the Fall or the same logic later used in Genesis. The Bene Qedem and Matthew arguments require assessment on their independent evidence.
 
 **Keywords**: Science of Correspondences, Göbekli Tepe, Pillar 43, Bene Qedem, Shasu, Abraham, Ishmael, Isaac, Magi, bifurcation, Bethlehem, re-integration, Ancient Word, cave art, transmission
 
@@ -329,6 +341,8 @@ This is not random art. Random art would produce unlimited variation—each cave
 
 The implications are significant: Upper Paleolithic humans possessed a **shared symbolic vocabulary** transmitted with remarkable fidelity across 1,500+ human generations.
 
+> **[CORRECTION #26]**: The bounded repertoire is real, but the record does not establish stable meanings, combination rules, a shared vocabulary, or transmission of one content across 30,000 years. Distribution cannot induce semantics, and no systematic placement dataset establishes the proposed grammar. See *The Mountain and the Pillar*, §§3–4 and 6.8.
+
 ### The "Wars of Jehovah" in Paint
 
 What content did this proto-writing encode? The Swedenborgian framework suggests an answer: the "Wars of Jehovah."
@@ -357,6 +371,8 @@ The Memory Code and the 32 geometric signs were **complementary systems**: the l
 
 The archaeological evidence is robust: the 32 signs exist, they are consistent, and they were transmitted across 30 millennia. What the cave paintings demonstrate is that systematic symbolic encoding existed—and was transmitted with remarkable fidelity—long before writing. The *possibility* of an Ancient Word is archaeologically established: the channel is real, the timescales are right, and the transmission fidelity is confirmed. Whether the correspondential content Swedenborg describes was what actually flowed through this channel is a separate claim—one the archaeological evidence supports as viable but does not confirm.
 
+> **[CORRECTION #26]**: This evidentiary conclusion is retracted. A bounded, changing, regionally structured inventory does not demonstrate one encoded system or confirm transmission fidelity. Mnemonic and semantic uses remain possible hypotheses; the surviving marks do not establish the content or its continuity.
+
 ---
 
 ## IV. Phase Two: The Stone Library — Göbekli Tepe (9600 BCE)
@@ -383,6 +399,8 @@ Materialist interpretations read this as a star map (Scorpius constellation), a 
 ### The Correspondential Decoding
 
 Reading Pillar 43 through the Science of Correspondences reveals a **theological schematic**—what we might call a "Crisis Management Diagram" of the Fall:
+
+> **[CORRECTION #16]**: What follows may be retained as doctrine applied to the carved surface, not as historical decoding. The former crisis-management account also requires substantive correction: the scorpion is poisoning sensual self-love reasoning from its ultimate; the severed head is the celestial will and its intuitive understanding; and the vulture preserves that dead understanding for new life. The reading does not establish maker intent or site function. See *The Mountain and the Pillar*, §§6.4–6.5.
 
 | Element | Correspondential Meaning | Function in Narrative |
 |---------|--------------------------|----------------------|

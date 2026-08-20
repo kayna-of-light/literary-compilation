@@ -7,6 +7,7 @@
 > 
 > This document reflects **earlier understanding** on:
 > - **#2** [Biological Determinism about Jesus](../00_Framework/Epistle%20%E2%80%94%20The%20Divine%20Marriage%20and%20the%20Expression%20of%20the%20Lord%20in%20Ultimates.md) — Section 5.1 uses "soul from the Father / body from the mother" framing; current position: Jesus was a human being whose ruling love was oriented toward the Divine, so the Lord flowed through him without obstruction. This is the path of regeneration any human can walk.
+> - **#26** [Paleolithic Geometric Signs: Bounded Inventory Is Not a Decoded Lexicon](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#26-paleolithic-geometric-signs-bounded-inventory-is-not-a-decoded-lexicon) — §2.2 treats an exact count of thirty-two as archaeologically intrinsic and derives numerical significance from it.
 > 
 > **Summary**: The "assumed human nature from the mother" language reflects 18th-century embryology. The self is not removed but oriented—Jesus's ruling love was always toward the Divine.
 > - **#23** [Glorification as Unique Divine Process](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#23-glorification-as-unique-divine-process) — §5.1 frames glorification as the Lord’s unique cosmic process, categorically distinct from regeneration. The corrected view: the mechanics are identical to regeneration; what differs is completeness of reception.
@@ -85,6 +86,8 @@ Remarkably, these same primes form the structural basis of prehistoric mnemonic 
 * **Stonehenge:** The Sarsen Circle consists of **30** uprights ($2 \\times 3 \\times 5$). The Aubrey Holes number **56** ($2^3 \\times 7$). The Trilithons number **5**.8
 
 This convergence does not imply a direct historical lineage from the Ice Age to 18th-century Sweden. Rather, it suggests that both the prehistoric mind and Swedenborg’s systematic theology tapped into the same "cognitive affordance" of small prime numbers to organize reality. The "Ancient Word" was a system that utilized the innate mathematical properties of the human mind to structure the universe of meaning.8
+
+> **[CORRECTION #26]**: The Paleolithic count is classificatory: the same morphological field is enumerated as twenty-six or thirty-two depending on how forms are split. Bounded recurrence is the finding; “exactly thirty-two,” semantic stability, and the factorization $2^5$ carry no archaeological inference. See *The Mountain and the Pillar*, §§3.3–3.4.
 
 ### **2.3. The Shift to External Memory and the "Fall"**
 

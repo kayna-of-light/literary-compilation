@@ -1,10 +1,21 @@
 # **Positional Consistency of the 32 Geometric Signs in Upper Paleolithic Cave Art: An Archaeological and Semiotic Analysis**
 
+> ---
+> **Editorial Notes** | Last reviewed: 2026-08-20
+>
+> This document reflects **earlier understanding** on:
+> - **#26** [Paleolithic Geometric Signs: Bounded Inventory Is Not a Decoded Lexicon](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#26-paleolithic-geometric-signs-bounded-inventory-is-not-a-decoded-lexicon) — No systematic height-and-relation dataset exists; selected placements cannot establish a vertical grammar.
+>
+> **Summary**: The case descriptions remain illustrative pending source verification. Retract the claimed validation, the reconstruction of a general spatial syntax, and interpretations that change “upper” or “lower” after the observed placement is known. **Established correction (library)**: [The Mountain and the Pillar](The%20Mountain%20and%20the%20Pillar_%20Externalization%20as%20Compensation%20in%20Paleolithic%20and%20Early%20Neolithic%20Symbolic%20Systems.md).
+> ---
+
 ## **I. Introduction: The Enigma of the Abstract**
 
 The visual culture of the European Upper Paleolithic, spanning roughly from the Aurignacian (c. 40,000 BP) to the end of the Magdalenian (c. 10,000 BP), represents one of the most significant cognitive leaps in human history. While the grand polychrome friezes of bison, horses, and aurochs at sites like Lascaux, Altamira, and Chauvet have rightfully commanded the attention of art historians and the public alike, a parallel and equally pervasive phenomenon exists within these subterranean sanctuaries: the geometric signs. These abstract markings—ranging from simple dots and lines to complex, standardized shapes like aviforms (bird-shaped), tectiforms (roof-shaped), and penniforms (feather-shaped)—outnumber figurative animal depictions by a ratio of at least two to one at most sites.1
 
 For over a century, these signs were relegated to the periphery of archaeological inquiry, often dismissed as *marques de chasse* (hunting tallies), doodles, or merely decorative borders. However, recent systematic research, most notably the creation of a comprehensive database by paleoanthropologist Genevieve von Petzinger, has consolidated this disparate array of markings into a core lexicon of 32 recurring geometric signs.1 The temporal stability and spatial ubiquity of this "First Signs" lexicon, appearing from the Iberian Peninsula to the Urals over a span of 30,000 years, suggests they function not as random expressions but as a coherent system of graphic communication—a "lithic scripture" encoding information vital to the Pleistocene mind.
+
+> **[CORRECTION #26]**: Von Petzinger documented a bounded, regionally structured inventory of recurring forms; the count varies with classification. Recurrence does not establish a coherent communication system, stable meanings, or a readable “lithic scripture.” See *The Mountain and the Pillar*, §§3–4.
 
 This report investigates a specific ontological framework applied to this lexicon: the **Correspondential Hypothesis**. This hypothesis postulates that the 32 signs are not arbitrary signifiers but graphic mappings of perceived spiritual realities, structured by a vertical hierarchy. In this view, the cave wall acts as a cosmographic interface where "intellectual" principles (associated with the "flight" of thought or higher truth) are spatially segregated from "foundational" principles (associated with structure, boundaries, and the material basis of life).
 
@@ -93,6 +104,8 @@ At Cougnac, Aviforms appear in deep galleries associated with Megaloceros (Giant
 
 **Assessment:** The evidence for Aviforms is **strongly confirmatory**. Their placement at Pech Merle is a "smoking gun" for vertical hierarchy, and their general usage as "headers" or "annotators" aligns with an intellectual, governing principle.
 
+> **[CORRECTION #26]**: One selected relation cannot establish the meaning “intellect” or a corpus-wide vertical rule. The Pech Merle placement remains an illustration pending primary-source verification, not a smoking gun.
+
 ### **3.2 Penniforms: The Active Agents of Truth**
 
 **Penniforms** (feather-shaped or barbed signs) present a more dynamic spatial logic. Rather than simply floating "above," they often *interact* with the figures in an active, penetrating manner.
@@ -114,6 +127,8 @@ In the Salon Noir of Niaux, majestic bison are depicted in black outline.
 * **Analysis:** While not "upper" in a single panel, "entrance" is a topological equivalent to "priority" or "beginning." They mark the *start* of the sequence, just as "Truth" marks the start of the spiritual ascent.
 
 **Assessment:** **Confirmatory with nuance.** Penniforms are not always "high" in terms of altitude, but they are "dominant" in terms of agency—either floating above (Lascaux) or actively piercing (Niaux). They act as vectors rather than foundations.
+
+> **[CORRECTION #26]**: Redefining the predicted “upper” position as active, penetrating, peripheral, or prior after observing the placement does not confirm the prediction. It removes the possibility of a positional miss.
 
 ## ---
 
@@ -206,6 +221,8 @@ In the furthest chamber of Chauvet Cave, the "Sorcerer" figure is painted on a l
 
 While a dedicated "Height-from-Floor" dataset is absent from the current literature (a significant gap in archaeological reporting), we can reconstruct a statistical picture from the regional and associative data provided by von Petzinger and Leroi-Gourhan.
 
+> **[CORRECTION #26]**: The required statistical picture cannot be reconstructed from regional frequency and selected associations. A test of vertical grammar requires sign-by-sign local coordinates and relations to neighbouring figures; cave depth, centre/periphery, and local height are different variables.
+
 ### **6.1 Frequency and Association Data**
 
 | Sign Type | Primary Region | Temporal Peak | Association w/ Animals | Leroi-Gourhan Class | Predicted Position | Observed Position |
@@ -247,6 +264,8 @@ The **Positional Consistency Prediction** is **SUPPORTED** with the following re
 **Refined Prediction:** Signs corresponding to **Intellectual Principles** (Aviforms) appear in the **Upper Register** or active/superimposed positions. Signs corresponding to **Foundational Principles** (Tectiforms/Triangles) appear in the **Lower Register**, **Deep Niches**, or serve as the **Central Anchor** of the composition.
 
 The 32 geometric signs are not random graffiti. They are the coordinate system of a Paleolithic cosmology, mapping the cave wall as a vertical interface between the foundational earth and the volatilized spirit. The prehistoric artist did not just paint *on* the wall; they organized the wall into a metaphysical hierarchy, placing the "Bird" in the sky of the mind and the "Roof" on the ground of the earth.
+
+> **[CORRECTION #26]**: The support and cosmology conclusions are retracted. The proposed rule expanded to include upper, active, superimposed, peripheral, deep, central, containing, and anchoring placements, while the systematic dataset needed to test it does not exist. The cases remain possible readings, not a demonstrated grammar.
 
 ### ---
 

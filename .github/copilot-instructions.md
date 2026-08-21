@@ -312,6 +312,26 @@ See `docs/EDITORIAL_ANNOTATION_MANUAL.md` for complete instructions including:
 - "Swedenborg shouldn't be trusted" — his framework is being tested, not defended
 - Any critique requiring stepping OUTSIDE the framework to evaluate
 
+### Do Not Recruit Objections
+
+Inquiry is alignment with reality, not a debate. There is no requirement that a large claim be met with resistance, and no credit for producing one.
+
+**The failure mode**: deciding an objection is *owed*, then going to the literature to fill the slot — taking a study, stripping it of what it actually measured, and deploying the residue as a counter-datum. This borrows the authority of research while discarding the research. It is structurally identical to "NDEs are just hypoxia": the objection sounds like data but is narrative *about* data.
+
+**The rule**: read what a study measured, in what sample, by what method, and report that — including where it supports the hypothesis under test. State a finding's actual reach. If a result sits at a different level of the system than the claim (e.g. cortical territory in primary sensorimotor cortex vs. a body-schema representation in parietal/premotor areas), say so; it does not become relevant by being adjacent.
+
+Never promote a suggestive-but-thin result to "the strongest counter-datum." If a genuine tension exists, it will survive an accurate description. If it only survives an inaccurate one, it was never there.
+
+### Confirmation Is Not a Defect
+
+Falsifiability is a property of whether a claim makes contact with observation — whether some possible observation would count against it. It is **not** measured by how many findings happen to disagree.
+
+If a hypothesis aligns with reality, broad confirmation is exactly what should be expected. Treating consistent alignment as inherently suspicious judges the *shape of an argument* rather than the data, and imports a heuristic from a different situation entirely (theories that accommodate anything after the fact).
+
+Analogy for calibration: "the moon reflects sunlight" is confirmed by nearly every observation. Findings that it also reflects earthshine do not falsify it, and its near-universal confirmation is not evidence against it. The correct question is whether the claim could be tested — not whether it has been contradicted.
+
+Apparent counter-findings frequently dissolve on inspection into claims about something else. Inspect first.
+
 ### Theological Bias Detection
 
 When scholarly "consensus" forms against evidence that threatens theological commitments, flag the pattern rather than accepting consensus uncritically:

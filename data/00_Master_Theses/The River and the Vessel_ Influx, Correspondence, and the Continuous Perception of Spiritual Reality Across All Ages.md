@@ -734,7 +734,7 @@ The river and the vessel.
 | **NDE** | Purposive economy | Being personalizes only when function requires | Mission OR = 4.38 (p < 10⁻⁴⁶) | None | **Yes** |
 | **NDE** | Judgment character | Love, not condemnation | 36.5:1 loving-to-harsh ratio | None | **Yes** |
 | **NDE** | Perception depth | Culture-invariant, individually determined | KMO = 0.817; ANOVA p = 0.9211 across seven religions | None | **Yes** |
-| **DOPS (2,500+ cases)** | Somatic influx (trauma → mark) | Birthmarks correspond to past-life wounds | 88% accuracy in autopsied cases | None | **Yes** |
+| **DOPS (2,500+ cases)** | Somatic influx (trauma → mark) | Birthmarks correspond to past-life wounds | 88% (43/49) in medically documented cases | None | **Yes** |
 | **Remission (569 cases)** | Somatic influx (transformation → healing) | Psychological shift precedes physical healing | 85.5% with clear temporal ordering | None | **Yes** |
 | **MallWorld (2,678 dreams)** | Correspondential architecture in dream space | Vertical gradients, entity autonomy, reactive model falsified | ρ = 0.524 vertical gradient; 0% guide hostility; partial ρ = 0.007 for reactive model | None — dreamers have no correspondential knowledge | **Yes** |
 

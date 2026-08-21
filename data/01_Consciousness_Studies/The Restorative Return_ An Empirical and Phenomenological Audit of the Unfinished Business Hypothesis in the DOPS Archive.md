@@ -18,7 +18,7 @@ The most objective, and arguably the most compelling, evidence for the Restorati
 
 ### **2.1 Prevalence and Specificity of Somatic Correlates**
 
-The global prevalence of birthmarks in the DOPS archive is a statistical outlier. Approximately 30% to 35% of all cases in the database involve children born with birthmarks or birth defects that the child or family attributes to the previous life.1 In the general population, while common nevi (moles) are ubiquitous, the specific types of marks found in these cases—hairless, puckered patches of skin, distinct areas of hypopigmentation or hyperpigmentation, and severe structural defects—are relatively rare.
+The global prevalence of birthmarks in the DOPS archive is a statistical outlier. In 309 of 895 cases (35%), children were born with birthmarks or birth defects that the child or family attributes to the previous life (Stevenson 1993, *JSE* 7(4): 403–410). In the general population, while common nevi (moles) are ubiquitous, the specific types of marks found in these cases—hairless, puckered patches of skin, distinct areas of hypopigmentation or hyperpigmentation, and severe structural defects—are relatively rare.
 
 The correlation between these marks and the mode of death is the "smoking gun" of the Restorative Return model. In a focused study of 210 solved cases (cases where the previous personality was identified), investigators found that the birthmark or defect corresponded to a wound on the deceased person in nearly every instance.1 When the analysis was restricted to a subset of 49 cases where medical documents (such as autopsy reports or hospital records) were available to verify the deceased’s wounds, 43 cases (88%) showed a confirmed correspondence between the fatal wound and the child’s birthmark.1
 
@@ -33,7 +33,7 @@ This distribution strongly suggests that the mechanism of transfer is not merely
 
 The specificity of the marks supports the hypothesis of "ideoplasty"—the capacity of the mind to affect the biological formation of the body. In the Restorative Return framework, the consciousness of the deceased carries the traumatic imagery of the death wound into the "intermission" period. Because the death was sudden and violent, the self-image of the deceased is fixated on the moment of destruction. This fixation creates a "psychophore" or vehicle that carries the wound data into the new cellular development.11
 
-Perhaps the most statistically defying aspect of this data is the existence of "double birthmarks." Dr. Ian Stevenson documented 14 cases where a child was born with two distinct birthmarks that corresponded precisely to both the bullet entry and exit wounds of the deceased individual.1 In these cases, the "entry" mark is often smaller and rounder, while the "exit" mark is larger and more irregular, mirroring the ballistic pathology of a gunshot wound.
+Perhaps the most statistically defying aspect of this data is the existence of "double birthmarks." Dr. Ian Stevenson documented 18 cases where a child was born with two distinct birthmarks that corresponded to both the bullet entry and exit wounds of the deceased individual. In 14 of these one mark was larger than the other, and in 9 of those 14 the evidence clearly showed the smaller, rounder mark at the entry site and the larger, more irregular mark at the exit — mirroring the ballistic pathology of a gunshot wound.
 
 The probability of a child being born with two random birthmarks that coincidentally align with the trajectory of a fatal bullet wound in a stranger who died years prior is infinitesimal. This geometric precision argues against chance and supports the view that the "blueprint" for the new body is being directly influenced by the traumatic memory of the old body's destruction. The "unfinished business" here is not just psychological; it is biological. The soul returns wearing the scars of its exit, a physical testament to the violence that necessitated its return.
 
@@ -49,7 +49,7 @@ This cohort represents the "highest urgency" category in the database. These sou
 | **Birthmark Prevalence** | High (\~35%) | Low/Negligible | Physical trauma imprints on the new form. |
 | **Mark Characteristics** | Specific (Entry/Exit, scars) | Generalized (if any) | Specificity indicates informational transfer. |
 | **Intermission Length** | Short (Median \~15-16 mo) | Longer | Urgency to return is higher in violent cases. |
-| **Medical Verification** | 88% match in autopsied cases | N/A | Objective validation of the trauma transfer. |
+| **Medical Verification** | 88% match (43/49) in medically documented cases | N/A | Objective validation of the trauma transfer. |
 
 ## **3\. Temporal Urgency: Intermission Length and the "Rush" to Return**
 

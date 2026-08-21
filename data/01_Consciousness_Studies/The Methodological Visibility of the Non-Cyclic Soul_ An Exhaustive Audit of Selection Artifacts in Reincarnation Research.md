@@ -108,7 +108,7 @@ The single most robust statistic in the DOPS archive is the **Violent Death Corr
 
 The "Restorative Incarnation" theory 9 suggests that trauma acts as a "mnemonic fixative." A violent, sudden death leaves a "psychic scar" or unfinished trajectory that imprints the personality deeply onto the next incarnation.
 
-* **Somatic Markers:** This imprint is not just psychological but physiological. Birthmarks and birth defects are found in 30-35% of cases and correspond to fatal wounds in 88% of verified cases.1 These somatic markers act as "flags" that alert parents and researchers to the case.  
+* **Somatic Markers:** This imprint is not just psychological but physiological. Birthmarks and birth defects are found in 309 of 895 cases (35%), and in the 49 cases where a medical document was obtained the correspondence to the fatal wound was confirmed in 43 (88%) (Stevenson 1993, *JSE* 7(4): 403–410). These somatic markers act as "flags" that alert parents and researchers to the case.  
 * **Behavioral Markers:** Phobias related to the mode of death are present in a significant percentage of cases (e.g., fear of water in drowning cases).14 These behavioral disruptions force parents to seek answers, leading them to researchers like Stevenson and Tucker.
 
 ### **4.3 The "Quiet" Entry of the Non-Cyclic Soul**

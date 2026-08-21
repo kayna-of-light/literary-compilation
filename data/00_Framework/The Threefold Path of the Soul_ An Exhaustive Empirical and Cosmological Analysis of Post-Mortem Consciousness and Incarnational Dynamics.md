@@ -128,7 +128,7 @@ The most significant anomaly in the DOPS dataset is the **Violent Death Correlat
 
 The strongest empirical evidence for the Restorative Path is the presence of physical correlates that bridge the gap between mental memory and biological formation.
 
-* **Prevalence:** In nearly **20%** of solved cases, children are born with birthmarks or birth defects.  
+* **Prevalence:** In **309 of 895 cases (35%)**, children are born with birthmarks or birth defects attributed by the child or family to the previous life (Stevenson 1993).  
 * **Correspondence:** These marks correspond **precisely** to the fatal wounds sustained by the deceased person, verified by autopsy reports and medical records.  
 * **Implication:** This objective data is "exceptionally difficult for conventional models to dismiss" and provides empirical support for a "direct, non-genetic, informational transfer from a previous consciousness that is capable of influencing embryological development".
 

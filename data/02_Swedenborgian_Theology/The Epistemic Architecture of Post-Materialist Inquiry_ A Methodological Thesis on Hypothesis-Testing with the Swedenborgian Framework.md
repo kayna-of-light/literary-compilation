@@ -45,7 +45,7 @@ The data that mainstream consciousness science struggles to accommodate are not 
 
 **Near-Death Experiences (NDEs)**: Prospective hospital studies document cases of cardiac arrest patients reporting accurate perception of events occurring during flat-line EEG—when, according to the materialist paradigm, no conscious experience should be possible (van Lommel et al., 2001; Parnia et al., 2014). The AWARE study found that 2% of cardiac arrest survivors reported verified awareness during clinical death, a finding that materialist models cannot explain without ad hoc hypotheses about residual brain activity that the evidence does not support.
 
-**Past-Life Memory Cases**: The Division of Perceptual Studies (DOPS) at the University of Virginia has documented over 2,500 cases of children spontaneously reporting memories of previous lives, often with verified details about deceased individuals the children could not have known about through normal means (Stevenson, 1997; Tucker, 2021). In autopsied cases where the previous personality died from violent trauma, birthmarks and birth defects correspond to the fatal wounds with 88% accuracy—a correspondence that defies coincidence and lacks any materialist explanation.
+**Past-Life Memory Cases**: The Division of Perceptual Studies (DOPS) at the University of Virginia has documented over 2,500 cases of children spontaneously reporting memories of previous lives, often with verified details about deceased individuals the children could not have known about through normal means (Stevenson, 1997; Tucker, 2021). In the 49 cases where a medical document — usually a postmortem report — could be obtained for a previous personality who died from violent trauma, birthmarks and birth defects corresponded to the fatal wounds in 43 of them (88%)—a correspondence that defies coincidence and lacks any materialist explanation.
 
 **Radical Remission**: Documented cases of spontaneous regression of advanced cancer—complete disappearance of Stage IV disease without adequate conventional treatment—occur at rates that exceed placebo by orders of magnitude. Meta-analyses show that placebo achieves less than 1% complete response in advanced solid tumors; radical remission cases thus represent a biological phenomenon that cannot be dismissed as expectation effects (Turner, 2014; O'Regan & Hirshberg, 1993).
 
@@ -135,7 +135,7 @@ Consider the alternatives:
 
 **Materialist Psychology** explains brain-based correlates of consciousness effectively. Lesion studies, neuroimaging, and pharmacological manipulations all demonstrate relationships between brain states and conscious states. But materialist psychology cannot explain why NDE experiential properties remain constant across cultural naming variations (the "constant state" phenomenon); why DOPS birthmarks match fatal wounds at 88% accuracy (a correspondence that has no materialist mechanism); or why radical remission correlates with psycho-spiritual transformation rather than biological factors alone.
 
-The materialist response to these anomalies is typically dismissal: NDEs are "hallucinations" (despite occurring during flat-line EEG); birthmark correspondences are "coincidence" (despite 88% accuracy in autopsied cases); radical remission is "placebo" (despite placebo achieving <1% complete response in solid tumors). This is not explanation but evasion—protecting the paradigm rather than accounting for the data.
+The materialist response to these anomalies is typically dismissal: NDEs are "hallucinations" (despite occurring during flat-line EEG); birthmark correspondences are "coincidence" (despite 43 of 49 medically documented cases, 88%, confirming the correspondence); radical remission is "placebo" (despite placebo achieving <1% complete response in solid tumors). This is not explanation but evasion—protecting the paradigm rather than accounting for the data.
 
 **Jungian Archetypal Psychology** explains symbol recurrence across cultures through the concept of the "collective unconscious"—a shared psychological substrate from which archetypal images emerge. This framework accounts for why the same symbols appear across cultures and why dreams often contain mythological imagery unknown to the dreamer's conscious mind.
 
@@ -697,7 +697,7 @@ This observation should not be dismissed as error. The phenomenon Swedenborg des
 
 **What Spirit Influence Cannot Explain**: The strongest DOPS evidence exceeds what spirit-memory transmission can account for:
 
-1. **Birthmark correspondence**: Children with birthmarks matching fatal wounds of verified previous personalities present *physical* evidence. A spirit entering one's sphere might transmit memories, but it cannot transmit physical marks onto an infant's body before or at birth. The 88% accuracy of birthmark-wound correspondence in autopsied cases is corporeal evidence that transcends mental phenomena.
+1. **Birthmark correspondence**: Children with birthmarks matching fatal wounds of verified previous personalities present *physical* evidence. A spirit entering one's sphere might transmit memories, but it cannot transmit physical marks onto an infant's body before or at birth. The 88% confirmation rate of birthmark-wound correspondence across the 49 medically documented cases is corporeal evidence that transcends mental phenomena.
 
 2. **Private, specific, verified details**: Children report knowing where objects are buried, recalling family secrets unknown to outsiders, identifying relatives of the previous personality by name and relationship. These are not public-knowledge memories that an associated spirit might plausibly have and transmit. They require access to the specific biographical details of the previous personality—details often unknown to anyone living until verified.
 
@@ -757,7 +757,7 @@ The claim that the Swedenborgian framework explains consciousness data better th
 |---------|----------------------|---------------|---------|
 | NDE during cardiac arrest | No experience possible during flat-line EEG | Hyper-lucid experience with veridical perception | Complete failure |
 | Constant state/variable form | Experience should vary with neural substrate | Experiential properties constant (<10% variation) | Unexplained |
-| Birthmark correspondence | Impossible—no mechanism | 88% accuracy in autopsied cases | Complete failure |
+| Birthmark correspondence | Impossible—no mechanism | 88% (43/49) in medically documented cases | Complete failure |
 | Radical remission | Should follow biological factors | Correlates with psycho-spiritual transformation | Unexplained |
 
 **Assessment**: Materialist psychology explains routine brain-consciousness correlations but creates catastrophic anomalies when applied to NDE data, past-life memory data, and radical remission data. The framework must either dismiss these data (unfalsifiable) or invoke ad hoc hypotheses (epicycles). Neither approach is scientifically adequate.
@@ -1026,7 +1026,7 @@ Analysis repository: https://github.com/marconian/structured-data-analysis
 | 3 | Mission discriminant validity | NDE | ✅ HIT | 94.2% mission→commission correspondence |
 | 4 | Revelatory judgment | NDE | ✅ HIT | 36.5:1 loving vs. harsh |
 | 5 | Violent death clustering | DOPS | ✅ HIT | 70%+ violent/premature death |
-| 6 | Birthmark correspondence | DOPS | ✅ HIT | 88% accuracy in autopsied cases |
+| 6 | Birthmark correspondence | DOPS | ✅ HIT | 88% (43/49) in medically documented cases |
 | 7 | Deep symbolic systems | Archaeology | ✅ HIT | 30,000-year Paleolithic consistency |
 | 8 | Oral tradition durability | Anthropology | ✅ HIT | 7,000-12,000 year memory |
 | 9 | Monotheism emergence | Cognitive Science | ✅ HIT | CSR cannot explain—requires counterintuitive abstraction |

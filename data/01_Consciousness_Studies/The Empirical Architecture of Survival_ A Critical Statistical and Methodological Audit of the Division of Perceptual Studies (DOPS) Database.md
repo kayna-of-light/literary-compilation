@@ -71,11 +71,11 @@ This statistical finding is crucial for the defense of the database. It suggests
 
 One of the most distinguishing features of the DOPS research, particularly the work of Ian Stevenson, is the focus on physical correlates—birthmarks and birth defects. This data point is critical because it moves the investigation from the subjective realm of memory (which is malleable and prone to cryptomnesia) to the objective realm of biology.
 
-* **Global Prevalence:** Approximately **30% to 35%** of all cases in the database involve children born with birthmarks or birth defects that are attributed by the subject or their family to the previous life.7  
+* **Global Prevalence:** **35%** of cases — 309 of 895 — involve children born with birthmarks or birth defects that are attributed by the subject or their family to the previous life (Stevenson 1993, *JSE* 7(4): 403–410).  
 * **Correlation in Solved Cases:** In cases where a previous personality is identified, the correspondence rate is extremely high. In a detailed study of 210 such cases, the birthmark or defect corresponded to a wound (usually the fatal wound) on the deceased person in nearly all instances.16  
 * **Medical Verification:** The rigor of this verification is a key metric. In a subset of **49 cases** where a medical document (usually a postmortem report) was obtained to verify the wound of the deceased, **43 (88%)** showed a confirmed correspondence between the fatal wound and the child's birthmark.16
 
-These are not typical birthmarks (common nevi). They are often hairless, puckered areas of skin resembling healed entry/exit wounds, or dramatic birth defects such as malformed digits or missing limbs (hemimelia) that correspond to traumatic amputations in the previous life.16 Stevenson documented **14 cases** of "double birthmarks" that corresponded to both the entry and exit wounds of a bullet, a configuration that is statistically infinitesimal by chance.18
+These are not typical birthmarks (common nevi). They are often hairless, puckered areas of skin resembling healed entry/exit wounds, or dramatic birth defects such as malformed digits or missing limbs (hemimelia) that correspond to traumatic amputations in the previous life.16 Stevenson documented **18 cases** of "double birthmarks" that corresponded to both the entry and exit wounds of a bullet; in 14 of these one mark was larger than the other, and in 9 of those 14 the evidence clearly showed the smaller mark at the entry site and the larger at the exit. Stevenson calculated the chance probability of two birthmarks independently matching two wound locations at approximately 1 in 25,600.
 
 ### **3.2 The Violent Death Correlation**
 
@@ -85,7 +85,7 @@ The prevalence of birthmarks is deeply intertwined with the single most robust s
 * **Comparison to General Population:** This 70% figure is a massive deviation from the general mortality statistics of the relevant populations, where natural causes (disease, old age) account for the vast majority of deaths.  
 * **Solved vs. Unsolved:** Interestingly, the incidence of violent death claims is often *higher* in unsolved cases than in solved ones.1 This suggests that the trauma of a violent death is the primary driver for the retention of past-life memories (the "Restorative Incarnation" hypothesis), but the chaos often associated with such deaths (e.g., soldiers dying in foreign wars, anonymous murders) makes verification more difficult, leading to a higher rate of unsolved cases in this cohort.20
 
-The combination of the Violent Death Correlation (\>70%) and the Birthmark Prevalence (\~30-35%) creates a specific, predictable profile for a "strong" case: a child remembering a violent death who bears a physical stigma of that death. This predictable pattern across cultures supports the argument that researchers are observing a natural phenomenon with specific rules, rather than a random collection of cultural folklore.
+The combination of the Violent Death Correlation (\>70%) and the Birthmark Prevalence (35%) creates a specific, predictable profile for a "strong" case: a child remembering a violent death who bears a physical stigma of that death. This predictable pattern across cultures supports the argument that researchers are observing a natural phenomenon with specific rules, rather than a random collection of cultural folklore.
 
 ## **4\. The "Unsolved" Cohort: Failed Verification and the File Drawer**
 

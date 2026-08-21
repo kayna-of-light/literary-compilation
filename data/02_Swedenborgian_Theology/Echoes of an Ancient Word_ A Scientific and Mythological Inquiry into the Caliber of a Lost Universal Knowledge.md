@@ -137,7 +137,7 @@ The final line of inquiry engages directly with paradigm-challenging science, ex
 Since 1967, the Division of Perceptual Studies (DOPS) at the University of Virginia has conducted rigorous scientific investigations into phenomena suggesting the survival of consciousness after death. Their primary focus has been on over 2,500 cases of young children, typically between the ages of two and four, who spontaneously report memories of a previous life. The strength of this data lies in a consistent pattern of features that are difficult to explain through conventional models :
 
 * **Specific, Verifiable Details:** Children often provide numerous precise details about names, places, and the manner of death of a "previous personality," which in many cases have been sufficient to identify a single deceased individual who uniquely matches the child's descriptions.  
-* **Physical Correlates:** In approximately 30% of cases, children are born with birthmarks or birth defects that precisely correspond to wounds, often fatal ones, sustained by the deceased person, as verified by autopsy reports and medical records.
+* **Physical Correlates:** In 309 of 895 cases (35%), children are born with birthmarks or birth defects that the child or family attributes to wounds, often fatal ones, sustained by the deceased person; in the 49 cases where a medical document (usually a postmortem report) was obtained, 43 (88%) confirmed the correspondence (Stevenson 1993).
 
 While researchers like Ian Stevenson considered alternative explanations such as fraud, cryptomnesia (hidden memory), and cultural artifacts, they concluded that in the strongest cases, these conventional explanations were insufficient.
 

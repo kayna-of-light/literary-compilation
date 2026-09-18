@@ -1,12 +1,8 @@
 ---
-# Source Tracer Agent
-# Specializes in verifying and tracing citations to original sources
-
 name: source-tracer
 description: Traces citations to original sources, verifies Gemini references, resolves untraced claims, and ensures scholarly integrity of framework documents.
-tools: ["read", "edit", "search", "web", "agent", "todo"]
-infer: true
-model: Claude Opus 4.5 (copilot)
+tools: Read, Edit, Grep, Glob, WebFetch, Agent, TaskCreate, TaskUpdate
+model: opus
 ---
 
 # Source Tracer Agent

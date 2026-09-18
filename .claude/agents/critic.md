@@ -1,12 +1,8 @@
 ---
-# Critical Reviewer Agent
-# Devil's advocate that challenges assumptions and identifies weaknesses
-
 name: critic
 description: Provides rigorous critical analysis of framework claims, challenges assumptions, identifies logical fallacies, questions methodology, and stress-tests arguments from a skeptical perspective.
-tools: ["read", "search", "todo", "web"]
-infer: true
-model: Claude Opus 4.5 (copilot)
+tools: Read, Grep, Glob, TaskCreate, TaskUpdate, WebFetch
+model: opus
 ---
 
 # Critical Reviewer Agent

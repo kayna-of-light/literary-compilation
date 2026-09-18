@@ -7,7 +7,7 @@ description: Writing academic theses for the Divine Bricolage framework. Covers 
 
 ## Overview
 
-This skill defines the complete process for writing academic theses within the Divine Bricolage project. The process is iterative: outline first, then each section written individually, validated, and tracked. Framework concepts (correspondences, discrete degrees, church types, etc.) are defined in the project's copilot-instructions.md and are not repeated here — this skill covers only the **procedural and structural** requirements of thesis production.
+This skill defines the complete process for writing academic theses within the Divine Bricolage project. The process is iterative: outline first, then each section written individually, validated, and tracked. Framework concepts (correspondences, discrete degrees, church types, etc.) are defined in the project's CLAUDE.md and are not repeated here — this skill covers only the **procedural and structural** requirements of thesis production.
 
 ---
 
@@ -105,9 +105,9 @@ Create the complete outline with:
 
 ### Phase 3: Section-by-Section Writing
 
-Write each section individually using `replace_string_in_file` to replace its `[TO BE WRITTEN]` placeholder:
+Write each section individually using the `Edit` tool to replace its `[TO BE WRITTEN]` placeholder:
 
-1. **Use `manage_todo_list`** to track every section as a separate todo item
+1. **Use `TaskCreate`/`TaskUpdate`** to track every section as a separate todo item
 2. **Mark one section as `in-progress`** before writing it
 3. **Write the section** by replacing its placeholder
 4. **Mark the section as `completed`** immediately after writing
@@ -310,7 +310,7 @@ Every Works Cited section organizes sources into these categories (include only 
 
 ## 6. File Placement
 
-Theses are placed in the `literary-compilation/data/` directory structure based on their primary domain. Consult the folder structure in the copilot-instructions.md for the full directory listing. When in doubt:
+Theses are placed in the `literary-compilation/data/` directory structure based on their primary domain. Consult the folder structure in CLAUDE.md for the full directory listing. When in doubt:
 - **Foundational/methodological theses** → `data/00_Framework/`
 - **Domain-specific theses** → the `data/[NN]_[Domain]/` folder matching the thesis's primary subject matter
 - If a thesis spans multiple domains, place it in the domain of its **primary comparison** or ask the user.
@@ -338,7 +338,7 @@ The `--only` flag takes a path relative to the `data/` directory. The `--force` 
 - Include correspondential key tables for every spiritual reading
 - Acknowledge companion theses by name and state what they established
 - Use the Conclusion to echo the thesis title as a structural signature
-- Track every section with `manage_todo_list`
+- Track every section with `TaskCreate`/`TaskUpdate`
 - Write the Abstract last (or revise it last) once the full content is known
 
 ### DO NOT

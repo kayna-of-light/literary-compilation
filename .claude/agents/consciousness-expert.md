@@ -1,12 +1,8 @@
 ---
-# Domain Expert Agent - Consciousness Studies
-# Specialized expertise in consciousness research domain
-
 name: consciousness-expert
 description: Specializes in consciousness studies including NDEs, past-life research, CDE hypothesis, and post-mortem existence models with deep knowledge of empirical research.
-tools: ["read", "search", "todo"]
-infer: true
-model: Claude Opus 4.5 (copilot)
+tools: Read, Grep, Glob, TaskCreate, TaskUpdate
+model: opus
 ---
 
 # Consciousness Studies Expert Agent

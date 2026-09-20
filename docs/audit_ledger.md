@@ -13,7 +13,7 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 
 > **Status**: Not yet started. Queue is the full library.
 >
-> **Take next**: First batch per the selection priority in the procedure § 2 — start in `data/00_Framework/` (12 documents), which is the most-referenced folder and therefore the highest-value place to begin.
+> **Take next**: First batch per the selection priority in the procedure § 2. Selection is by document state, never by folder or subject area — no thematic part of the library leads.
 >
 > **Propagation debt**: None.
 >

@@ -71,7 +71,25 @@ If the library does not settle it: **make no edit.** Log a research question in 
 
 ---
 
-## Section 1 — Select the batch
+## Section 1 — Precheck: confirm the run can deliver
+
+**Do this before reading a single document.** The audit is expensive; a run that cannot push its branch or open a PR has produced nothing but cost. The check is cheap, so it goes first.
+
+```bash
+cd literary-compilation
+git fetch origin --prune
+git push --dry-run origin HEAD:refs/heads/precheck-$(date +%s) 2>&1 | tail -3
+```
+
+A `403` means the Claude GitHub App does not have write access to `kayna-of-light/literary-compilation`.
+
+If it fails: **stop. Do not audit.** Send the notification saying the run is blocked on GitHub write access and that an org owner grants it by installing the Claude GitHub App at `https://github.com/apps/claude/installations/select_target`, or by reconnecting GitHub from claude.ai settings. Then end the run. The next night's run re-checks automatically and proceeds the moment access exists — nothing needs to be rescheduled.
+
+If it succeeds, delete nothing (the dry run wrote nothing) and continue.
+
+---
+
+## Section 2 — Select the batch
 
 **Batch size: 3 documents.** Drop to 1–2 if they are long or corrections run deep. Never exceed 4. Depth per document matters more than count; this pass takes as many nights as it takes.
 
@@ -107,19 +125,19 @@ Record the chosen batch in the ledger **before** starting work, so a run that di
 
 ---
 
-## Section 2 — Per document
+## Section 3 — Per document
 
-### 2.1 Read it completely
+### 3.1 Read it completely
 
 Beginning to end, yourself. No subagent summaries, no skimming to the bibliography. `CLAUDE.md` is explicit: *"For documents in `data/`, read them yourself from beginning to end. No agents. No summaries. You need understanding, not information."*
 
 You cannot judge whether a source supports a claim without knowing what the document is arguing.
 
-### 2.2 Inventory every source
+### 3.2 Inventory every source
 
 Build a working list of every citation, attribution, statistic, quotation, and named reference — inline and in the bibliography. Include claims phrased as attributions without a formal citation ("Greyson found…", "the DOPS data shows…"). Those are the ones that rot unnoticed.
 
-### 2.3 Verify each source
+### 3.3 Verify each source
 
 For each entry:
 
@@ -138,7 +156,7 @@ Cross-repo statistics (NDE figures, DOPS counts, χ² values) are verified again
 
 Apply the Gemini rule from `CLAUDE.md`: where a citation points at an internal document, check whether the claim actually originates externally. Internal synthesis is a legitimate source, but it must not stand in front of the original evidence.
 
-### 2.4 Clean the source list
+### 3.4 Clean the source list
 
 - Replace `drive.google.com` links with internal repo links — `python scripts/normalize_internal_links.py --only "<relative path>"` to preview, `--apply` to write.
 - Replace a weak source with the better one where a better one exists, and say so in the ledger.
@@ -146,7 +164,7 @@ Apply the Gemini rule from `CLAUDE.md`: where a citation points at an internal d
 - Remove a citation **only** when it is fabricated or wholly unverifiable — and then say so explicitly in the PR. Never silently drop a reference.
 - Add type codes. Preserve the full chain, not just the endpoints.
 
-### 2.5 Validate the claims
+### 3.5 Validate the claims
 
 Read for correctness within the framework — `CLAUDE.md` § "Valid Critiques":
 
@@ -158,7 +176,7 @@ Read for correctness within the framework — `CLAUDE.md` § "Valid Critiques":
 
 Where a document and the corpus disagree, establish which is current before editing. `EVOLVING_CONCEPTUAL_STRAINS.md` is the register of what has been superseded.
 
-### 2.6 Apply corrections
+### 3.6 Apply corrections
 
 Route each finding by kind. **This table is the operative rule** — it reconciles "fix what is wrong" with the manual's "preserve the original":
 
@@ -175,7 +193,7 @@ Annotations follow `EDITORIAL_ANNOTATION_MANUAL.md` exactly: header block after 
 
 If a correction represents genuinely new conceptual evolution, add a strain to `EVOLVING_CONCEPTUAL_STRAINS.md` and use its number. Do not invent strain numbers that do not exist there.
 
-### 2.7 Propagate across the corpus
+### 3.7 Propagate across the corpus
 
 **Every correction must be chased through the whole library.** A fixed citation in one document and the same broken citation in eleven others is not a fix.
 
@@ -195,7 +213,7 @@ Propagation edits are allowed outside the night's batch. They are the only edits
 
 ---
 
-## Section 3 — Close out the run
+## Section 4 — Close out the run
 
 1. **Ledger** — one row per document audited: date, path, sources checked, corrections applied, propagation reach, open questions, outcome.
 2. **Research questions** — append anything unresolved to `docs/research_questions.md` in the documented format with the right `[NLM]` / `[GDR]` / `[NDE]` target tag.

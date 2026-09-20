@@ -114,12 +114,15 @@ Build the exclusion set from **three** places:
 
 Then pick from what remains, in this priority order:
 
-1. Documents in `data/00_Framework/` and `data/00_Master_Theses/` — most referenced, highest blast radius
-2. Documents carrying an existing `[TRACE NEEDED]` marker
-3. Documents listed as unfinished in the `EVOLVING_CONCEPTUAL_STRAINS.md` review task list
-4. Documents still containing `drive.google.com` links
-5. Documents with a bibliography but no editorial header block
-6. Everything else, oldest-modified first
+1. Documents carrying an existing `[TRACE NEEDED]` marker
+2. Documents listed as unfinished in the `EVOLVING_CONCEPTUAL_STRAINS.md` review task list
+3. Documents still containing `drive.google.com` links
+4. Documents with a bibliography but no editorial header block
+5. Everything else, oldest-modified first
+
+**Never prioritize by folder, domain, or subject matter.** Every criterion above is a property of a document's *state* — a marker present, a link unconverted, an annotation missing — and applies identically across all of `data/`. The pass is not steered toward any thematic area.
+
+This matters for what the audit produces. A pass weighted toward some folders would verify parts of the corpus more heavily than others, and the resulting picture of the library's source quality would reflect the selection rule rather than the library. Within a priority tier, take documents in whatever order the filesystem returns them.
 
 ### 2.1 Claim the batch before auditing
 

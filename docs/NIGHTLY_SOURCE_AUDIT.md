@@ -264,6 +264,14 @@ Body:
 <How external sources were checked. Any PDF substitutions. Anything left unverified.>
 ```
 
+**If no PR tooling is available in the run** (no `mcp__github__*` tools and no `gh` CLI), the branch push is still the deliverable. Push it, then send this URL instead — it opens GitHub's PR form pre-filled from the branch, so the PR is one click away:
+
+```
+https://github.com/kayna-of-light/literary-compilation/compare/main...claude/nightly-audit-YYYY-MM-DD?expand=1
+```
+
+Put the PR body you composed into the notification so it can be pasted straight in. Note in the ledger that the PR was not opened automatically.
+
 Then send the notification: the PR link, documents audited, corrections applied, files propagated to, and open questions. Keep it short enough to read on a phone.
 
 If the run found nothing to correct, say so plainly — a clean batch is a real result. Still open the PR for the ledger update.

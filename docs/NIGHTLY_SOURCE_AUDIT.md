@@ -121,7 +121,27 @@ Then pick from what remains, in this priority order:
 5. Documents with a bibliography but no editorial header block
 6. Everything else, oldest-modified first
 
-Record the chosen batch in the ledger **before** starting work, so a run that dies partway leaves a trace.
+### 2.1 Claim the batch before auditing
+
+Write the chosen documents into the ledger as `in-progress` rows, then **commit and push the branch immediately** — before reading anything:
+
+```bash
+git add docs/audit_ledger.md
+git commit -m "Claim audit batch $(date +%F)"
+git push -u origin claude/nightly-audit-$(date +%F)
+```
+
+This is what makes a crashed run visible. Sessions run in ephemeral containers: an unpushed claim dies with the container, and the night's documents would look untouched while the work is gone. A pushed claim means the next run can always tell the difference between *audited, PR open* and *started, never finished*.
+
+### 2.2 Handle a stale claim
+
+A branch with `in-progress` rows, no open PR, and older than 48 hours is a dead run. Do not resume it — you do not know how far it got, and a half-audited document is worse than an unaudited one. Instead:
+
+- Release those documents back into the queue
+- Note the release in the ledger run log with the dead branch name
+- Delete nothing; leave the branch for inspection
+
+A branch younger than 48 hours with `in-progress` rows may be a run still going. Exclude its documents and pick others.
 
 ---
 
@@ -215,11 +235,19 @@ Propagation edits are allowed outside the night's batch. They are the only edits
 
 ## Section 4 — Close out the run
 
-1. **Ledger** — one row per document audited: date, path, sources checked, corrections applied, propagation reach, open questions, outcome.
-2. **Research questions** — append anything unresolved to `docs/research_questions.md` in the documented format with the right `[NLM]` / `[GDR]` / `[NDE]` target tag.
-3. **Strains** — update `EVOLVING_CONCEPTUAL_STRAINS.md` checkboxes; add a strain if warranted.
-4. **Commit** — one commit per audited document plus one for the ledger, so review is readable.
-5. **Verify** — `git status`, review the full diff, confirm nothing unintended was touched.
+1. **Ledger** — flip this run's `in-progress` rows to their final outcome: date, path, sources checked, corrections applied, propagation reach, open questions. Never leave a row `in-progress` in a run that completed.
+
+2. **Handoff** — rewrite the ledger's *"Next run starts here"* block. This is the single most useful thing you leave behind, because the next run begins with no memory of tonight. Replace it wholesale (it describes the present, not history) with:
+   - Which documents the next run should take, and why
+   - Propagation debt: corrections that need chasing further than you got
+   - Questions logged tonight that are waiting on an external answer
+   - Anything surprising that would cost the next run time to rediscover
+
+3. **Pattern register** — if this run hit a defect class that will recur (a citation style that fabricates, a statistic copied wrong across many files, a source that keeps appearing dead), add or update its entry in the ledger's pattern register: what it looks like, how you handled it, where you have seen it. Knowledge that stays in one night's run log is knowledge the job loses.
+4. **Research questions** — append anything unresolved to `docs/research_questions.md` in the documented format with the right `[NLM]` / `[GDR]` / `[NDE]` target tag.
+5. **Strains** — update `EVOLVING_CONCEPTUAL_STRAINS.md` checkboxes; add a strain if warranted.
+6. **Commit** — one commit per audited document plus one for the ledger, so review is readable.
+7. **Verify** — `git status`, review the full diff, confirm nothing unintended was touched.
 
 ### Out of bounds
 

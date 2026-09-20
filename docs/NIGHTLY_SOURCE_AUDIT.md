@@ -91,9 +91,27 @@ If it succeeds, delete nothing (the dry run wrote nothing) and continue.
 
 ## Section 2 — Select the batch
 
-**Batch size: 3 documents.** Drop to 1–2 if they are long or corrections run deep. Never exceed 4. Depth per document matters more than count; this pass takes as many nights as it takes.
+**You choose what tonight's batch is and how large it is.** There is no fixed list and no fixed number. Read the state of things and decide.
 
-Selection must be resumable across fresh sessions and must not collide with a previous night's unmerged PR.
+What that means in practice: you might take one long, heavily-cited document and do it properly; or four short ones; or follow a thread — a defect you found last night that probably repeats, a cluster of documents that cite each other, a class of broken citation worth clearing in one sweep. Some nights the useful work is obvious from the handoff block. Some nights you will open the library and something will catch your attention. That is a legitimate reason to pick it.
+
+The judgment you are making is *what is worth a night here*, and you are better placed to make it at the time than a rule written in advance.
+
+### Constraints on that judgment
+
+Four, and only four:
+
+**A reasonable night's work.** Enough that the night counts for something; not so much that the reading goes shallow. Better two documents genuinely understood than five skimmed. If you are past five you are almost certainly skimming — but the ceiling is your own honesty about depth, not a number.
+
+**Finish what you start.** Never leave a document half-audited and marked done. If you misjudge the size, complete the ones you have opened, ledger only those, and PR the partial batch. A shorter honest batch is a good night.
+
+**No standing thematic preference.** Any one night's choice is yours. What must not happen is a *pattern* — always reaching for the same folders or subjects, so that parts of the library get verified heavily and others never at all. That would make the audit's picture of source quality a description of your habits rather than of the corpus. The ledger is the check: if one area is running ahead of the rest, correct toward what has been neglected. Free choice each night, even coverage over time.
+
+**Say why.** Record your reasoning in the ledger and the PR — a sentence is enough. *"Took these three because they all cite the same Greyson figure and I wanted to see whether it travelled wrong."* Discretion nobody can see is discretion nobody can correct; the rationale is what lets the author redirect you.
+
+### What is not discretionary
+
+Correctness of selection. Do not re-audit a document already done, and do not collide with a night still in flight.
 
 ```bash
 cd literary-compilation
@@ -112,17 +130,19 @@ Build the exclusion set from **three** places:
    ```
 3. Any open PR titled `Nightly source audit — …`.
 
-Then pick from what remains, in this priority order:
+### Signals you may find useful
 
-1. Documents carrying an existing `[TRACE NEEDED]` marker
-2. Documents listed as unfinished in the `EVOLVING_CONCEPTUAL_STRAINS.md` review task list
-3. Documents still containing `drive.google.com` links
-4. Documents with a bibliography but no editorial header block
-5. Everything else, oldest-modified first
+Not a ranking, and nothing here obliges you to pick anything. These are just properties that tend to mark a document as having work in it, and they are cheap to check:
 
-**Never prioritize by folder, domain, or subject matter.** Every criterion above is a property of a document's *state* — a marker present, a link unconverted, an annotation missing — and applies identically across all of `data/`. The pass is not steered toward any thematic area.
+- An existing `[TRACE NEEDED]` marker
+- Listed unfinished in the `EVOLVING_CONCEPTUAL_STRAINS.md` review task list
+- Still contains `drive.google.com` links
+- A bibliography but no editorial header block
+- Untouched for a long time, or never audited while its neighbours have been
 
-This matters for what the audit produces. A pass weighted toward some folders would verify parts of the corpus more heavily than others, and the resulting picture of the library's source quality would reflect the selection rule rather than the library. Within a priority tier, take documents in whatever order the filesystem returns them.
+Weigh them however the night warrants. A document showing none of these may still be the right pick — a clean-looking file whose sources have never actually been checked is exactly the kind of thing that hides a bad citation.
+
+Note that all of these are properties of a document's **state**, not of its subject. That is the distinction that keeps free selection from drifting into thematic bias: choose by what a document looks like, not by what it is about.
 
 ### 2.1 Claim the batch before auditing
 

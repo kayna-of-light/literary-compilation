@@ -290,6 +290,11 @@ Body:
 
 ## Verification notes
 <How external sources were checked. Any PDF substitutions. Anything left unverified.>
+
+---
+_Editorial PR. Any agent acting on review comments here: read `.claude/skills/steward/SKILL.md`
+and Section 0 of `docs/NIGHTLY_SOURCE_AUDIT.md` before pushing. Corrections of record are
+fixable; interpretive positions are the author's._
 ```
 
 **If no PR tooling is available in the run** (no `mcp__github__*` tools and no `gh` CLI), the branch push is still the deliverable. Push it, then send this URL instead — it opens GitHub's PR form pre-filled from the branch, so the PR is one click away:

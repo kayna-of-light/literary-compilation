@@ -13,13 +13,13 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 
 > **Status**: Not yet started. Queue is the full library.
 >
-> **Take next**: First batch per the selection priority in the procedure § 2 — start in `data/00_Framework/` (12 documents), which is the most-referenced folder and therefore the highest-value place to begin.
+> **Take next**: Your call — nothing is claimed yet, so the whole library is open. Procedure § 2 has signals worth checking and the constraints on the choice. Pick by what a document's state looks like, not by what it is about, and say in your row why you picked it.
 >
 > **Propagation debt**: None.
 >
 > **Awaiting external answers**: None.
 >
-> **Worth knowing**: Two `EVOLVING_CONCEPTUAL_STRAINS.md` items are open for corpus-wide re-audit, both from 2026-08-20 — **#16** Pillar 43 Historical Encoding (earlier annotations need replacing, not extending) and **#26** Paleolithic Geometric Signs. Documents touching either are high priority once the Framework folder is through.
+> **Worth knowing**: Two `EVOLVING_CONCEPTUAL_STRAINS.md` items are open for corpus-wide re-audit, both from 2026-08-20 — **#16** Pillar 43 Historical Encoding (earlier annotations need replacing, not extending) and **#26** Paleolithic Geometric Signs. Worth knowing about when you meet a document that touches either; not an instruction to seek them out.
 
 ---
 
@@ -29,11 +29,14 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 |---|---|
 | **Date** | Run date (YYYY-MM-DD) |
 | **Document** | Path relative to `data/` |
+| **Why** | Why this document was chosen — a few words is enough |
 | **Sources** | Citations verified / total found |
 | **Corrections** | Fixed in place (F) · Annotated (A) · Flagged `[TRACE NEEDED]` (T) |
 | **Propagated** | Files outside the batch that received the same correction |
 | **Open** | Research questions logged |
 | **Outcome** | `in-progress` · `clean` · `corrected` · `partial` · `blocked` · `released` |
+
+Batch selection is the run's own judgment (procedure § 2), so **Why** is not optional bookkeeping — it is what makes that judgment reviewable and correctable. A run that records what it chose but not why leaves the author nothing to steer by.
 
 Rows are append-only — a later correction to a row goes in a new row, never by editing history. The one exception is flipping `in-progress` to a final outcome at the end of the run that claimed it.
 
@@ -58,9 +61,9 @@ Refresh the total with `find data -name "*.md" | wc -l`.
 
 ## Audited documents
 
-| Date | Document | Sources | Corrections | Propagated | Open | Outcome |
-|---|---|---|---|---|---|---|
-| — | _No documents audited yet. First scheduled run: 2026-09-21._ | — | — | — | — | — |
+| Date | Document | Why | Sources | Corrections | Propagated | Open | Outcome |
+|---|---|---|---|---|---|---|---|
+| — | _No documents audited yet. First scheduled run: 2026-09-21._ | — | — | — | — | — | — |
 
 ---
 
@@ -98,4 +101,4 @@ Starting conditions:
 - **2** use the `[P]`/`[S]`/`[T]`/`[E]`/`[W]` type codes from the Source Tracing Protocol — so type-coding will be a large share of early work
 - `EVOLVING_CONCEPTUAL_STRAINS.md` has two open items: **#16** Pillar 43 Historical Encoding and **#26** Paleolithic Geometric Signs, both opened 2026-08-20
 
-At 3 documents per night this is roughly an 80-night pass. Depth per document matters more than pace.
+Batch size is the run's own judgment, so the length of the pass is not fixed. As a rough sense of scale, a few documents a night puts a full pass somewhere near three months. Depth matters more than pace — a short honest batch beats a long shallow one.

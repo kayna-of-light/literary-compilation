@@ -81,11 +81,51 @@ git fetch origin --prune
 git push --dry-run origin HEAD:refs/heads/precheck-$(date +%s) 2>&1 | tail -3
 ```
 
-A `403` means the Claude GitHub App does not have write access to `kayna-of-light/literary-compilation`.
+If it succeeds, delete nothing (the dry run wrote nothing) and continue. **A `403` does not
+by itself mean the night is blocked** — read on before stopping.
 
-If it fails: **stop. Do not audit.** Send the notification saying the run is blocked on GitHub write access and that an org owner grants it by installing the Claude GitHub App at `https://github.com/apps/claude/installations/select_target`, or by reconnecting GitHub from claude.ai settings. Then end the run. The next night's run re-checks automatically and proceeds the moment access exists — nothing needs to be rescheduled.
+### 1.1 The expected 403, and why the obvious fix is the wrong one
 
-If it succeeds, delete nothing (the dry run wrote nothing) and continue.
+In Anthropic-hosted sessions this push is currently **expected to fail**, like this:
+
+```
+remote: access denied by the git proxy: kayna-of-light/literary-compilation is not in this
+session's authorized repository set, so the proxy will not inject a credential for it.
+```
+
+This is **intended product behaviour, not a broken credential**. Git credentials are held outside
+the sandbox and injected by a proxy scoped to the session's repositories, so a session can only
+push to repos explicitly attached to it. Anthropic confirmed this on 2026-08-17 in
+[anthropics/claude-code#76248](https://github.com/anthropics/claude-code/issues/76248), which is
+still open with no self-service fix. Three things follow, and they matter:
+
+- **Installing the Claude GitHub App will not fix it.** An earlier version of this section said to
+  install the App. That advice was wrong and has been removed: a reporter in that thread has the App
+  installed with read/write on *all* repositories and still gets the identical 403. Do not send the
+  author down that path.
+- **The real fix is outside the session**: add `kayna-of-light/literary-compilation` (and
+  `structured-data-analysis`) to the **scheduled task's environment sources**. Until someone does
+  that, every run will hit this.
+- **Supplying your own credential does not work either**, and you should not try. A PAT embedded in
+  the remote URL is discarded before egress, and `api.github.com` is intercepted the same way.
+  Blocking pass-through credentials is part of the isolation model, not an obstacle to route around.
+
+**Reads are unaffected** — `git clone` and `git fetch` over HTTPS work, so the repo can be cloned
+manually if the environment did not clone it. Note, though, that one reporter saw the restriction
+tighten from write-blocked to *read*-blocked within a day (2026-09-19). If a future run cannot even
+clone, that is the same issue escalating, and the run really is blocked.
+
+### 1.2 The second check: can you deliver another way?
+
+Before declaring the night blocked, check whether the **GitHub MCP tools** (`mcp__github__*`) are
+available and can write. They use a separate, sanctioned credential and are unaffected by the git
+proxy. Confirm cheaply with `create_branch` for the night's branch — a step you need anyway:
+
+- If it succeeds, **the run can deliver**. Proceed with the audit and use the MCP path throughout
+  (`create_branch`, `push_files`, `create_pull_request`). Read § 4.1 first for how to push safely.
+- If it fails too, **stop. Do not audit.** Send the notification saying the run is blocked, naming
+  the environment-sources fix above and linking issue #76248. Then end the run. The next night
+  re-checks automatically and proceeds the moment access exists — nothing needs rescheduling.
 
 ---
 
@@ -271,6 +311,56 @@ Propagation edits are allowed outside the night's batch. They are the only edits
 5. **Strains** — update `EVOLVING_CONCEPTUAL_STRAINS.md` checkboxes; add a strain if warranted.
 6. **Commit** — one commit per audited document plus one for the ledger, so review is readable.
 7. **Verify** — `git status`, review the full diff, confirm nothing unintended was touched.
+
+### 4.1 Pushing when only whole-file uploads work
+
+If § 1.2 sent you down the MCP path, **this is the operative method for the night** — read it before
+you push anything. `push_files` does not patch a file; it **replaces** it, so every byte of every
+file you touch has to be reproduced by hand in the tool call. That is fine for a file you wrote. It
+is dangerous for a corpus document, and the danger is silent.
+
+**What actually goes wrong.** These documents carry three hazards that are invisible in an ordinary
+read:
+
+1. **Trailing double-spaces** — markdown hard line breaks, on 20–150 lines per file. They vanish in
+   transcription and the rendering changes.
+2. **Backslash-escaped export artifacts** — `1\.`, `(Essential 1\)`, `\-`, `\_`, `\&`. Dropping one
+   is a one-byte diff you will not see.
+3. **Pointed Hebrew** — dagesh, sheva, shin/sin dots, in a specific codepoint *order*. On
+   2026-09-21 a run corrupted ten Hebrew words this way in a single push.
+
+Most files also end **without a terminating newline**.
+
+**The method that works.** Do not retype the file. Have Python emit it as one fully-ASCII JSON
+string literal and copy that verbatim into `content`:
+
+```bash
+python3 -c "import json,io; print(json.dumps(io.open('<path>',encoding='utf-8').read())[1:-1])"
+```
+
+This solves all three hazards at once: every non-ASCII character becomes a `\uXXXX` escape you can
+copy exactly, and because newlines become `\n`, **trailing spaces become visible** as spaces before
+the `\n`. Print it in chunks of ~15–17k characters; larger chunks get truncated to a file and are
+useless to you.
+
+**Verify every file after pushing — without exception.** Reads still work, so:
+
+```bash
+git fetch -f origin claude/nightly-audit-$(date +%F)
+git diff FETCH_HEAD -- "<path>"    # empty output = byte-identical
+```
+
+`git hash-object <path>` compared against the blob SHA works too. If it differs, the diff tells you
+exactly which bytes; fix and re-push. The loop is what makes this safe: you cannot silently corrupt
+a document, only spend another round trip.
+
+**Budget for it.** A 70 KB document costs roughly 5 read calls plus one large push plus a verify.
+Five files is most of a night. That is the real cost of the § 1 environment fault, and it is worth
+saying plainly in the PR.
+
+**What not to do.** Do not hand-transmit a file you have not read in full — you cannot reproduce
+what you have not seen. `docs/research_questions.md` (~156 KB) is the standing example: file new
+questions as their own file under `docs/research_questions/` instead, and say so in the ledger.
 
 ### Out of bounds
 

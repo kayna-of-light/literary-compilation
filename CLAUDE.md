@@ -456,7 +456,10 @@ literary-compilation/
 │   ├── 07_Cultural_Pneumatology/  # Disney, Andersen, Grimm, cultural transmission
 │   └── 08_Correspondential_Texts/ # NHL, Kephalaia, ancient texts in correspondence
 ├── docs/
-│   └── research_questions.md      # Open questions & gap tracking
+│   ├── research_questions.md      # Open questions & gap tracking
+│   ├── resolved_research_questions.md # Resolved questions, archived
+│   └── research_questions/        # Per-question files for larger investigations
+│       └── resolved/              # ...and their resolved counterparts
 ├── output/                        # Generated documents
 ├── scripts/                       # Utility scripts
 └── README.md                      # Project overview
@@ -525,7 +528,7 @@ When gaps or questions arise during framework development:
 
 ### Research Questions Documents
 
-Research questions are tracked in a two-file system for easy navigation:
+Most research questions are tracked in a two-file system:
 
 | Document | Purpose |
 |----------|---------|
@@ -545,6 +548,8 @@ Research questions are tracked in a two-file system for easy navigation:
 - **Status**: Open / In Progress / ✅ RESOLVED
 
 Questions are separated by `---` horizontal rules for easy copying.
+
+**A third tier exists for questions too large or too detailed for a block in the monolithic files** — multi-part investigations, or a question that needs its own extended context, source list, and working notes. These live as individual files in `docs/research_questions/`, with resolved ones moved into `docs/research_questions/resolved/`. This is not a workaround to invent when the monolithic file is inconvenient to edit (e.g. too large to safely retransmit in one write) — it is an existing, standing convention with real prior examples (the `nhl_*` and `32_signs_*` files). Check `docs/research_questions/` and `docs/research_questions/resolved/` before assuming a standalone file is a one-off improvisation. A question that gets its own file still gets a short entry in the monolithic open or resolved file, pointing to it — the monolithic files are what gets searched first.
 
 ---
 

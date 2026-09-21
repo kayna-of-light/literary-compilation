@@ -3,7 +3,7 @@
 **Created**: 2026-09-20
 **Runs**: Automated, nightly at 02:00 Europe/Amsterdam
 **State**: [`audit_ledger.md`](audit_ledger.md)
-**Related**: [`EDITORIAL_ANNOTATION_MANUAL.md`](EDITORIAL_ANNOTATION_MANUAL.md) · [`EVOLVING_CONCEPTUAL_STRAINS.md`](EVOLVING_CONCEPTUAL_STRAINS.md) · [`research_questions.md`](research_questions.md)
+**Related**: [`BIBLIOGRAPHY_STANDARDS.md`](BIBLIOGRAPHY_STANDARDS.md) · [`EDITORIAL_ANNOTATION_MANUAL.md`](EDITORIAL_ANNOTATION_MANUAL.md) · [`EVOLVING_CONCEPTUAL_STRAINS.md`](EVOLVING_CONCEPTUAL_STRAINS.md) · [`research_questions.md`](research_questions.md)
 
 ---
 
@@ -17,7 +17,7 @@ This is an **unattended** run. Nobody is watching it. That shapes every rule bel
 
 ## Section 0 — Methodological Baseline (read first, every run)
 
-**Before touching any document, read `CLAUDE.md` in full.** Not a skim. The stance it sets is the whole point of this project, and the most damaging thing this job could do is quietly erode it.
+**Before touching any document, read `CLAUDE.md` in full and `docs/BIBLIOGRAPHY_STANDARDS.md`.** Not a skim. `CLAUDE.md` sets the stance that is the whole point of this project, and the most damaging thing this job could do is quietly erode it. `BIBLIOGRAPHY_STANDARDS.md` is what §§ 3.3–3.4 below assume you already know — the category-grouped Works Cited format, the ban on personal file citations, and the retired type-code notation.
 
 ### The failure mode this job must not produce
 
@@ -176,7 +176,8 @@ Not a ranking, and nothing here obliges you to pick anything. These are just pro
 
 - An existing `[TRACE NEEDED]` marker
 - Listed unfinished in the `EVOLVING_CONCEPTUAL_STRAINS.md` review task list
-- Still contains `drive.google.com` links
+- Still contains `drive.google.com` links, or `[P]`/`[S]`/`[T]`/`[E]`/`[W]` tags
+- A source list that is still a raw numbered list of bare URLs rather than the categorized Works Cited format (`docs/BIBLIOGRAPHY_STANDARDS.md`)
 - A bibliography but no editorial header block
 - Untouched for a long time, or never audited while its neighbours have been
 
@@ -231,6 +232,7 @@ For each entry:
 | **Located** | Section/page/§ given precisely enough to check (Swedenborg: `DLW §§ 83–85`, not "Swedenborg says") |
 | **Traced** | Chain followed to the furthest available primary source |
 | **Typed** | Classified `[P]` / `[S]` / `[T]` / `[E]` / `[W]` in your own working notes, per the Source Tracing Protocol — this is how *you* reason about the chain, not markup you add to the document. See § 3.4a before touching a Works Cited list. |
+| **Reachable** | Not a `drive.google.com` link or other personally-hosted file — see `docs/BIBLIOGRAPHY_STANDARDS.md` |
 | **Quality** | Primary over secondary; academic for historical claims; first-person for experiential claims |
 
 Use `WebSearch` / `WebFetch` for external verification. **Never fetch a URL ending in `.pdf`** — it crashes the session. Use the abstract, the publisher landing page, or an HTML version, and note the substitution.
@@ -241,15 +243,25 @@ Apply the Gemini rule from `CLAUDE.md`: where a citation points at an internal d
 
 ### 3.4 Clean the source list
 
-- Replace `drive.google.com` links with internal repo links — `python scripts/normalize_internal_links.py --only "<relative path>"` to preview, `--apply` to write.
+Full standard: `docs/BIBLIOGRAPHY_STANDARDS.md`. A document's source list is one `## Works Cited` section, entries grouped under **Primary Sources** / **Scholarly Works** / **Internal Library Documents** / **Data Sources** (only the categories that have entries), each in full Chicago-style citation. If a document's list is still a raw numbered list of bare URLs — the common shape for documents that came straight out of Gemini Deep Research — restructure it into that form as part of the audit. This is a structural correction like any other; it does not require the claim underneath to be in question.
+
+**Every `drive.google.com` link gets resolved, and the two cases are different:**
+
+- If the link actually points to another document that lives in this library (a Deep Research citation that resolved to an internal file via Drive instead of a relative path), rewrite it to a relative link — `python scripts/normalize_internal_links.py --only "<relative path>"` to preview, `--apply` to write.
+- If the link points to a personal file — a scan, an export, anything only reachable from the author's own Drive — it is not a valid citation regardless of what the file contains. Cite the actual publication under **Primary Sources** or **Scholarly Works** (publisher, edition, translator — verify these, don't guess them), or move the material into the corpus properly as an **Internal Library Document** if it belongs there. If neither is possible, mark `[TRACE NEEDED]` and log a research question rather than leave a private link standing as though it were a source.
+
+Other cleanup:
+
 - Replace a weak source with the better one where a better one exists, and say so in the ledger.
 - Complete partial references to full scholarly form.
 - Remove a citation **only** when it is fabricated or wholly unverifiable — and then say so explicitly in the PR. Never silently drop a reference.
 - Preserve the full chain, not just the endpoints — but preserve it in your own verification notes (the ledger, the PR body), not as markup written into the document.
 
+**Never write audit provenance into the document.** No "(verified 2026-09-21)", no mention of the ledger, no PR reference, inside the Works Cited section or anywhere else in the body. The document describes what was consulted; the history of checking it belongs only in `docs/audit_ledger.md`.
+
 ### 3.4a The corpus's actual Works Cited convention
 
-The `[P]` / `[S]` / `[T]` / `[E]` / `[W]` codes in `CLAUDE.md`'s Source Tracing Protocol are for *your* reasoning while you trace a chain, and for what you write in the ledger. **They are not a citation format.** Confirmed by grep across every `Works Cited` / bibliography section in `data/`: essentially no document tags individual entries with a bracketed type code, and a numbered Works Cited list never does. Before editing any bibliography, check what that document actually does — most follow this pattern (see the `00_Master_Theses/` files for clean examples):
+The `[P]` / `[S]` / `[T]` / `[E]` / `[W]` codes in `CLAUDE.md`'s Source Tracing Protocol, and in `docs/BIBLIOGRAPHY_STANDARDS.md`, are for *your* reasoning while you trace a chain, and for what you write in the ledger. **They are not a citation format.** Confirmed by grep across every `Works Cited` / bibliography section in `data/`: essentially no document tags individual entries with a bracketed type code, and a numbered Works Cited list never does. Before editing any bibliography, check what that document actually does — most follow this pattern (see the `00_Master_Theses/` files for clean examples, and the full standard in `BIBLIOGRAPHY_STANDARDS.md`):
 
 - A `## Works Cited` (or `#### **Works cited**` in older, informal documents) heading.
 - A single numbered list (`1.`, `2.`, …), optionally split under bold category labels — `**Primary Sources:**`, `**Scholarly Works:**`, `**Internal Library Documents:**`, `**Data Sources:**` — with numbering continuing across the groups.
@@ -260,7 +272,7 @@ A small number of documents instead use `### Primary Sources [P]` / `### Seconda
 
 Do not write `[TRACE NEEDED]` (or any other Source Tracing Protocol code) into a Works Cited entry. An unresolved section reference or unverified passage is logged in the research-question register (§ 3.6, § 4.4) with enough context to find it again — the citation itself stays in the document's normal form once it is correctly named.
 
-**Never write a path into `docs/` — `research_questions/`, `audit_ledger.md`, this procedure, or anything else under the job's own machinery — into a `data/` document.** These are finished, published documents, not audit notepads. A reader of the corpus should never see "see `docs/research_questions/...`" or any other pointer back to this job. The research-question register cites the document; the document never cites it back.
+**Never write a path into `docs/` — `research_questions/`, `audit_ledger.md`, this procedure, or anything else under the job's own machinery — into a `data/` document.** These are finished, published documents, not audit notepads. A reader of the corpus should never see "see `docs/research_questions/...`" or any other pointer back to this job. The research-question register cites the document; the document never cites it back. This is the specific, most common case of the audit-provenance rule just above; both say the same thing from different angles.
 
 ### 3.5 Validate the claims
 

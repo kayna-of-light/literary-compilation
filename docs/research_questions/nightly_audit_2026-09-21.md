@@ -66,7 +66,10 @@ Israelitish church)" while calling the iron-and-clay Christian Church "the Third
 ### Context
 
 The document cited three Swedenborg works only by Drive-hosted PDF filename, with no section
-numbers. The works are now named in the bibliography and the gaps marked `[TRACE NEEDED]`.
+numbers. The works are now named in the bibliography in the corpus's normal Works Cited form; the
+gaps are tracked here rather than marked inline (see `NIGHTLY_SOURCE_AUDIT.md` § 3.4a — this run
+initially added inline `[T]`/`[P]`/`[TRACE NEEDED]` tags to these entries, which turned out not to
+match any convention actually used in `data/`, and has since removed them).
 
 *Apocalypse Explained* **§ 411** was traced and verified during this run as the locus for the
 Daniel 2 statue correspondence, and for the rendering of Daniel 2:34–35 in which the stone "became a

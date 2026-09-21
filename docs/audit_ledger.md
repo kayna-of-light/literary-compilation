@@ -52,7 +52,7 @@ A document counts as audited only after a **complete** read and source pass. Fil
 |---|---|
 | Documents in `data/` | 250 |
 | Audited | 0 |
-| In flight | 0 |
+| In flight | 2 |
 | Remaining | 250 |
 
 Refresh the total with `find data -name "*.md" | wc -l`.
@@ -63,7 +63,8 @@ Refresh the total with `find data -name "*.md" | wc -l`.
 
 | Date | Document | Why | Sources | Corrections | Propagated | Open | Outcome |
 |---|---|---|---|---|---|---|---|
-| — | _No documents audited yet. First scheduled run: 2026-09-21._ | — | — | — | — | — | — |
+| 2026-09-21 | `00_Framework/The Heart of the Matter_ A New Church Founded on Love.md` | Bibliography but no editorial header; 3 `drive.google.com` links; shortest never-reviewed doc in `00_Framework`, and Framework docs are cited downstream so defects here propagate furthest | — | — | — | — | `in-progress` |
+| 2026-09-21 | `03_Biblical_Scholarship/Lexical Fossil Inventory_ A Stratigraphic Analysis of Archaic Hebrew Vocabulary.md` | Same state signature (bibliography, no header, Drive link) in a different folder; dense named-scholar/date philology is where fabricated citations hide, so it tests the Gemini-bibliography pattern early | — | — | — | — | `in-progress` |
 
 ---
 

@@ -37,10 +37,11 @@ When a comment's intent is ambiguous, **ask rather than push**. A reply costs a 
 | A citation the reviewer says is wrong or fabricated | Verify, then push |
 | Typo, formatting, broken link, malformed annotation | Push it |
 | Annotation placement ("this needs an inline note too") | Push it, following `EDITORIAL_ANNOTATION_MANUAL.md` |
+| Works Cited formatting, personal-file (`drive.google.com`) citation, `[P]`/`[S]`/`[T]` tags | Push it, following `docs/BIBLIOGRAPHY_STANDARDS.md` |
 | "This reading is wrong" / "this overstates" | **Reply, do not push.** Editorial judgment is the author's. |
 | Anything whose correct resolution is not settled by the library | **Reply, do not push.** Log a research question instead. |
 
-When you do push, keep the audit's own rules: corrections propagate corpus-wide (`grep` the library from several angles), and annotations follow the manual — header block plus at least one inline note, since NotebookLM fragments documents and does not carry context across sections.
+When you do push, keep the audit's own rules: corrections propagate corpus-wide (`grep` the library from several angles), and annotations follow the manual — header block plus at least one inline note, since NotebookLM fragments documents and does not carry context across sections. A citation fix is never an occasion to add or remove an editorial annotation, and vice versa — they are separate systems (`docs/BIBLIOGRAPHY_STANDARDS.md` § Not This).
 
 ## CI
 

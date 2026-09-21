@@ -3,7 +3,7 @@
 **Created**: 2026-09-20
 **Runs**: Automated, nightly at 02:00 Europe/Amsterdam
 **State**: [`audit_ledger.md`](audit_ledger.md)
-**Related**: [`EDITORIAL_ANNOTATION_MANUAL.md`](EDITORIAL_ANNOTATION_MANUAL.md) · [`EVOLVING_CONCEPTUAL_STRAINS.md`](EVOLVING_CONCEPTUAL_STRAINS.md) · [`research_questions.md`](research_questions.md)
+**Related**: [`BIBLIOGRAPHY_STANDARDS.md`](BIBLIOGRAPHY_STANDARDS.md) · [`EDITORIAL_ANNOTATION_MANUAL.md`](EDITORIAL_ANNOTATION_MANUAL.md) · [`EVOLVING_CONCEPTUAL_STRAINS.md`](EVOLVING_CONCEPTUAL_STRAINS.md) · [`research_questions.md`](research_questions.md)
 
 ---
 
@@ -17,7 +17,7 @@ This is an **unattended** run. Nobody is watching it. That shapes every rule bel
 
 ## Section 0 — Methodological Baseline (read first, every run)
 
-**Before touching any document, read `CLAUDE.md` in full.** Not a skim. The stance it sets is the whole point of this project, and the most damaging thing this job could do is quietly erode it.
+**Before touching any document, read `CLAUDE.md` in full and `docs/BIBLIOGRAPHY_STANDARDS.md`.** Not a skim. `CLAUDE.md` sets the stance that is the whole point of this project, and the most damaging thing this job could do is quietly erode it. `BIBLIOGRAPHY_STANDARDS.md` is what §§ 3.3–3.4 below assume you already know — the category-grouped Works Cited format, the ban on personal file citations, and the retired type-code notation.
 
 ### The failure mode this job must not produce
 
@@ -136,7 +136,8 @@ Not a ranking, and nothing here obliges you to pick anything. These are just pro
 
 - An existing `[TRACE NEEDED]` marker
 - Listed unfinished in the `EVOLVING_CONCEPTUAL_STRAINS.md` review task list
-- Still contains `drive.google.com` links
+- Still contains `drive.google.com` links, or `[P]`/`[S]`/`[T]`/`[E]`/`[W]` tags
+- A source list that is still a raw numbered list of bare URLs rather than the categorized Works Cited format (`docs/BIBLIOGRAPHY_STANDARDS.md`)
 - A bibliography but no editorial header block
 - Untouched for a long time, or never audited while its neighbours have been
 
@@ -190,7 +191,7 @@ For each entry:
 | **Says it** | The cited passage actually supports the claim made from it |
 | **Located** | Section/page/§ given precisely enough to check (Swedenborg: `DLW §§ 83–85`, not "Swedenborg says") |
 | **Traced** | Chain followed to the furthest available primary source |
-| **Typed** | Marked `[P]` / `[S]` / `[T]` / `[E]` / `[W]` per the Source Tracing Protocol |
+| **Reachable** | Not a `drive.google.com` link or other personally-hosted file — see `docs/BIBLIOGRAPHY_STANDARDS.md` |
 | **Quality** | Primary over secondary; academic for historical claims; first-person for experiential claims |
 
 Use `WebSearch` / `WebFetch` for external verification. **Never fetch a URL ending in `.pdf`** — it crashes the session. Use the abstract, the publisher landing page, or an HTML version, and note the substitution.
@@ -201,11 +202,22 @@ Apply the Gemini rule from `CLAUDE.md`: where a citation points at an internal d
 
 ### 3.4 Clean the source list
 
-- Replace `drive.google.com` links with internal repo links — `python scripts/normalize_internal_links.py --only "<relative path>"` to preview, `--apply` to write.
+Full standard: `docs/BIBLIOGRAPHY_STANDARDS.md`. A document's source list is one `## Works Cited` section, entries grouped under **Primary Sources** / **Scholarly Works** / **Internal Library Documents** / **Data Sources** (only the categories that have entries), each in full Chicago-style citation. If a document's list is still a raw numbered list of bare URLs — the common shape for documents that came straight out of Gemini Deep Research — restructure it into that form as part of the audit. This is a structural correction like any other; it does not require the claim underneath to be in question.
+
+**Every `drive.google.com` link gets resolved, and the two cases are different:**
+
+- If the link actually points to another document that lives in this library (a Deep Research citation that resolved to an internal file via Drive instead of a relative path), rewrite it to a relative link — `python scripts/normalize_internal_links.py --only "<relative path>"` to preview, `--apply` to write.
+- If the link points to a personal file — a scan, an export, anything only reachable from the author's own Drive — it is not a valid citation regardless of what the file contains. Cite the actual publication under **Primary Sources** or **Scholarly Works** (publisher, edition, translator — verify these, don't guess them), or move the material into the corpus properly as an **Internal Library Document** if it belongs there. If neither is possible, mark `[TRACE NEEDED]` and log a research question rather than leave a private link standing as though it were a source.
+
+Other cleanup:
+
 - Replace a weak source with the better one where a better one exists, and say so in the ledger.
 - Complete partial references to full scholarly form.
 - Remove a citation **only** when it is fabricated or wholly unverifiable — and then say so explicitly in the PR. Never silently drop a reference.
-- Add type codes. Preserve the full chain, not just the endpoints.
+- Do not add `[P]`/`[S]`/`[T]`/`[E]`/`[W]` tags — that notation is retired. The category the entry sits under already says what kind of source it is.
+- Preserve the full chain, not just the endpoints.
+
+**Never write audit provenance into the document.** No "(verified 2026-09-21)", no mention of the ledger, no PR reference, inside the Works Cited section or anywhere else in the body. The document describes what was consulted; the history of checking it belongs only in `docs/audit_ledger.md`.
 
 ### 3.5 Validate the claims
 

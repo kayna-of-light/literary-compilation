@@ -55,6 +55,17 @@ Israelitish church)" while calling the iron-and-clay Christian Church "the Third
 3. If superseded, this needs a strain in `EVOLVING_CONCEPTUAL_STRAINS.md` (highest existing number
    is **#26**) and annotation rather than rewriting, per § 3.6.
 
+**2026-09-21 update — primary-source evidence found.** *Apocalypse Explained* n. 411[6] itself
+(the passage `The Heart of the Matter` already cites for the statue) states "there have been four
+churches" and enumerates Most Ancient (gold) → Ancient (silver) → Israelitish/spiritual-natural
+(brass) → **Christian (iron/clay) as the fourth**, cross-referencing *Doctrine of the New Jerusalem*
+247–248. Confirmed against raw OCR of the 1912 Standard Edition (archive.org
+`apocalypseexplai02sweduoft`, pp. 963–964), not a summarized fetch. This matches `The Statue and the
+Stone`'s count and contradicts `The Heart of the Matter` / `Conversation relating the Fourth Church`,
+which call the Christian Church "the Third Church." Question 2 above looks answered — "Third Church"
+is the superseded term — but the correction (annotation + strain, not rewrite, per § 3.6) has not
+been applied; left for the next run or explicit go-ahead given it touches two documents.
+
 ---
 
 ## 2. [NLM] Three Missing Swedenborg Section References

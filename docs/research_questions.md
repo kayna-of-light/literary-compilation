@@ -2255,6 +2255,28 @@ A critical implication follows that has not yet been tested: **the canonical Gos
 
 ---
 
+### [NDE] Re-run entity-role, guidance-function, and return-facilitation analysis against the current (January 2026) schema
+
+**Target**: `[NDE]`
+**Status**: Open
+**Date Added**: 2026-09-21
+**Priority**: MEDIUM
+**Related Document**: `data/01_Consciousness_Studies/NDE Statistical Analysis_ Entity Roles and Correspondential Patterns.md`
+**Related Strain**: [#27 NDE Entity-Role Statistics](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#27-nde-entity-role-statistics-december-2025-extraction-superseded-by-january-2026-re-extraction)
+
+**Context**:
+`NDE Statistical Analysis_ Entity Roles and Correspondential Patterns.md` (December 2025) reports entity-role, guidance-function, return-facilitation, passage-type, and canonical-sequence statistics from a dataset snapshot (n=6,739) and script (`projects/nde/scripts/entity_role_analysis.py`) that `structured-data-analysis` has since superseded. The dataset was fully re-extracted in January 2026 (n=6,753, GPT-5.2) under a revised Pydantic questionnaire schema — the categorical fields the old script and this document's tables depend on (`guidance_level`, `communication_mode` singular, `return_choice`, `light_encounter` as a list) no longer exist in that form; the current equivalents are `guidance_received` (yes/no) + `guidance_types` (list), `communication_modes` (list), `return_agency`/`return_willingness`/`return_reasons`, and `light_encounter` (single value). `entity_role_analysis.py` was never updated for the new schema and reads from an `output/analysis/` directory that is not checked into the repository, so it cannot currently be run at all.
+
+One overlapping scope is already covered by a validated current analysis: `data/01_Consciousness_Studies/The Being of Light_ A Statistical Analysis of Near-Death Experience Phenomenology.md` gives current being-identification and light-encounter figures (n=6,753, January 2026). It does not cover the broader entity-role questions this document addresses: functional differentiation of guidance and return facilitation by being type, passage-type-to-belonging convergence, canonical sequence adherence, and stage-element frequency.
+
+**Research Question**:
+1. Update (or rewrite) `structured-data-analysis/projects/nde/scripts/entity_role_analysis.py` to read the current schema's field names from `projects/nde/structured/*.json` (the checked-in extraction output), replacing the stale `output/analysis/` dependency.
+2. Define principled mappings from the current fields to the functional categories the December 2025 document used — in particular, whether `guidance_received`/`guidance_types` should collapse into a significant/comfort/none distinction (and how), and whether `return_agency` (self/external_being/mutual/involuntary) is the right proxy for "told to return" vs. "chose to return" vs. "involuntary," or whether `return_willingness` is more appropriate for some of the document's claims. This mapping is an analysis-design decision, not something the nightly audit should invent unilaterally.
+3. Re-run the being-identification, guidance-function, return-facilitation, passage-type-to-belonging, light-form-to-guidance, cultural-filter, canonical-sequence, and stage-element-frequency analyses against the current n=6,753 dataset.
+4. Update `NDE Statistical Analysis_ Entity Roles and Correspondential Patterns.md` (or write a superseding document, per corpus convention) with the current figures, and close strain #27.
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

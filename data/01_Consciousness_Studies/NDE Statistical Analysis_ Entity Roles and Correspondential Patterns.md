@@ -1,13 +1,25 @@
 # NDE Statistical Analysis: Entity Roles and Correspondential Patterns
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-09-21
+>
+> This document reflects **earlier understanding** on:
+> - **#27** [NDE Entity-Role Statistics: December 2025 Extraction Superseded by January 2026 Re-Extraction](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#27-nde-entity-role-statistics-december-2025-extraction-superseded-by-january-2026-re-extraction) — The entire dataset behind this document's tables was re-extracted in January 2026 under a revised schema; the December 2025 figures below no longer match the corpus's current source of truth.
+>
+> **Summary**: `structured-data-analysis` re-extracted all 6,753 NDE records in January 2026 (GPT-5.2, revised Pydantic schema); the categorical fields this document's tables depend on (`guidance_level`, `communication_mode`, `return_choice`, `light_encounter` as a list) were restructured in that pass, so the tables below cannot be mechanically updated in place — they need a fresh analysis run against the current schema. The being-identification and light-encounter figures for the overlapping scope are already validated current in the document named below; the guidance-function, return-facilitation, and canonical-sequence findings here have no corrected counterpart yet in the library (open research question logged).
+> **Established correction (library)**: The Being of Light_ A Statistical Analysis of Near-Death Experience Phenomenology
+> ---
+
 **Analysis Date**: December 2025  
 **Dataset**: 6,739 analyzed NDE experiences (IANDS + NDERF)  
-**Repository**: https://github.com/marconian/structured-data-analysis ([projects/nde](https://github.com/marconian/structured-data-analysis/tree/main/projects/nde))  
+**Repository**: https://github.com/kayna-of-light/structured-data-analysis ([projects/nde](https://github.com/kayna-of-light/structured-data-analysis/tree/main/projects/nde))  
 **Knowledge Graph Nodes**: CONSC-044, CONSC-045
 
 ---
 
 ## Executive Summary
+
+> **[CORRECTION #27]**: Every table in this document was computed from the December 2025 extraction pass (n=6,739). `structured-data-analysis` fully re-extracted the dataset in January 2026 (n=6,753, GPT-5.2, revised schema) and the categorical fields below (`guidance_level`, `communication_mode`, `return_choice`, `light_encounter` as a list) no longer exist in that form. *The Being of Light* gives validated current figures for being-identification and light-encounter prevalence on the overlapping scope. The functional-differentiation and convergence claims here have not been re-tested against the current schema — a spot check of `guidance_received`/`return_agency` by being type on the current data shows the same qualitative direction but has not been run as a full statistical analysis, so treat the specific counts and percentages in every table below as stale, not as currently supported findings.
 
 Analysis of 6,739 near-death experiences reveals:
 
@@ -212,6 +224,8 @@ Analysis of 6,739 near-death experiences reveals:
 
 ## IV. Framework Implications
 
+> **[CORRECTION #27]**: These implications were drawn from the December 2025 extraction (n=6,739), superseded by a January 2026 re-extraction (n=6,753) under a revised schema. See the header note and *The Being of Light* for what is currently validated.
+
 ### For Swedenborgian Model
 
 1. **Confirmed**: Correspondences operate — diverse imagery maps to constant states
@@ -244,19 +258,22 @@ This dataset cannot address whether DOPS methodology filters non-cyclic cases be
 
 ---
 
-## VI. Source Chain
+## VI. Works Cited
 
-| Type | Reference | Note |
-|------|-----------|------|
-| `[E]` | [marconian/structured-data-analysis](https://github.com/marconian/structured-data-analysis) (projects/nde) | Statistical analysis script: `entity_role_analysis.py` |
-| `[E]` | NDERF database | ~5,000 NDE narratives |
-| `[E]` | IANDS database | ~1,700 NDE narratives |
-| `[P]` | Swedenborg, *Heaven and Hell* §§ 87-115 | Correspondence doctrine foundation |
+**Primary Sources:**
+
+1. Swedenborg, Emanuel. *Heaven and Hell* (*De Coelo et Ejus Mirabilibus et de Inferno*). London: 1758. §§ 87–115 (the correspondence doctrine chapter; § 116 opens the next chapter, "The Sun in Heaven"). Cited by section number (§).
+
+**Data Sources:**
+
+2. NDERF (Near Death Experience Research Foundation). Approximately 5,000 structured NDE accounts at the time of this analysis (December 2025). Analyzed in the structured-data-analysis project (projects/nde).
+3. IANDS (International Association for Near-Death Studies). Approximately 1,700 structured NDE accounts at the time of this analysis (December 2025). Analyzed in the structured-data-analysis project (projects/nde).
+4. [kayna-of-light/structured-data-analysis](https://github.com/kayna-of-light/structured-data-analysis) (projects/nde). Statistical analysis script: `entity_role_analysis.py`. See the editorial note above — the script and the schema it reads have both been superseded by the January 2026 re-extraction.
 
 ---
 
 ## Raw Data Location
 
-- **Full analysis output**: [`projects/nde/output/entity_role_analysis_results.txt`](https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/output/entity_role_analysis_results.txt)
-- **Analysis script**: [`projects/nde/scripts/entity_role_analysis.py`](https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/scripts/entity_role_analysis.py)
-- **Structured NDE data**: [`projects/nde/structured/`](https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/structured) (6,739 JSON files)
+- **Full analysis output**: `projects/nde/output/entity_role_analysis_results.txt` — this generated output was never committed to the repository; the path 404s. It is not reachable and should not be treated as a live link.
+- **Analysis script**: [`projects/nde/scripts/entity_role_analysis.py`](https://github.com/kayna-of-light/structured-data-analysis/tree/main/projects/nde/scripts/entity_role_analysis.py)
+- **Structured NDE data**: [`projects/nde/structured/`](https://github.com/kayna-of-light/structured-data-analysis/tree/main/projects/nde/structured) (6,739 JSON files at the time of this analysis; 6,753 as of the January 2026 re-extraction — see editorial note above)

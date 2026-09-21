@@ -11,106 +11,86 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 
 **Replaced wholesale at the end of every run.** This block describes the present, not the history — history goes in the run log below. A run that leaves this stale has failed its successor.
 
-> **Status**: 2 documents audited (2026-09-21), both corrected. 248 remain. Nothing in flight.
-> All nine corrections and both propagation sweeps are **applied in the branch** and each file was
-> verified byte-identical after pushing.
+> **Status**: 2 documents audited (2026-09-21), both corrected. 248 remain. Nothing in flight. A
+> same-day follow-up session finished what this run flagged: the church-numbering strain is applied,
+> all three research questions are resolved, and the Works Cited entries this run wrote are now
+> compliant with `BIBLIOGRAPHY_STANDARDS.md` (which landed after this run started). Details below and
+> in the run log.
 >
-> **⚠️ Read this first — the run environment cannot push over git.** `git push` to this repo is
-> refused by the session's git proxy: *"kayna-of-light/literary-compilation is not in this session's
-> authorized repository set, so the proxy will not inject a credential for it."* The repository was
-> also **not cloned** into the container for the same reason — this run cloned it manually over
-> HTTPS. The procedure's § 1 precheck therefore fails, but **not** for the reason § 1 assumes: it is
-> not a missing Claude GitHub App install, so installing the App will not fix it. The fix is to add
-> `kayna-of-light/literary-compilation` (and `structured-data-analysis`) to the **scheduled task's
-> environment sources**. Until then a run can still deliver: the `mcp__GitHub__*` tools have working
-> write access to this repo, and this run's branch and PR were created entirely through them
-> (`create_branch`, `push_files`, `create_pull_request`). If you hit the § 1 403, check whether the
-> MCP path works before concluding the night is blocked.
+> **On the git-push 403**: this run's own diagnosis stands — see
+> [anthropics/claude-code#76248](https://github.com/anthropics/claude-code/issues/76248), confirmed by
+> Anthropic as intended sandboxing behaviour, not fixed by installing the GitHub App. The same-day
+> follow-up session had full `git push` access throughout, from an interactive session with this repo
+> explicitly attached as a source from the start — consistent with the issue's own explanation
+> (credentials are injected per-session, not per-repo-globally), and *not* evidence that the routine
+> itself is fixed. Whether attaching the repository in the routine's own "Select a repository" field
+> (web UI, separate from the environment's sources) resolves it for a **scheduled, routine-fired**
+> session has not been tested. If a future run still hits the 403 after that field is set, the
+> problem is confirmed to be routine-firing specifically, not environment configuration — worth
+> saying explicitly in that night's PR so the pattern is tracked. The MCP fallback (`mcp__github__*`)
+> remains the safety net either way.
 >
-> **This is a known, confirmed product issue, not a fault of this repo**:
-> [anthropics/claude-code#76248](https://github.com/anthropics/claude-code/issues/76248). Anthropic
-> reproduced it on 2026-08-17 and confirmed it is **intended behaviour** — credentials live outside
-> the sandbox and the proxy only injects them for repos attached to the session. Two things in that
-> thread are worth knowing before you waste a night on them:
-> - **Installing the Claude GitHub App does not help.** A reporter has it installed with read/write
->   on *all* repositories and still gets the identical 403. § 1 of the procedure used to recommend
->   exactly that; it has now been corrected.
-> - **The restriction has tightened for at least one user.** On 2026-09-19 a reporter went from
->   write-blocked to *read*-blocked within a day (`git clone` failing with `Invalid username or
->   token`). This run cloned fine, but if a future night cannot even clone, that is this issue
->   escalating — not a new problem — and the night really is blocked.
+> `docs/BIBLIOGRAPHY_STANDARDS.md` bibliography is the standard now, no caveats: a personal-file link
+> is **never** kept, not even relabelled as the author's scan. The three Swedenborg citations this run
+> wrote under the older "preserve the chain" reading were rewritten the same day — see the run log.
 >
-> Self-service repo attachment had not shipped as of the last comment on that issue (2026-09-19),
-> and there is no timeline.
+> **Take next**: Your call, per procedure § 2. `03_Biblical_Scholarship` philology is one live
+> thread if nothing else catches your eye: `The Stratigraphy of the Hebrew Bible` and `Stratigraphy
+> of the Archaic` both took propagation edits without being audited, and both are dense with the same
+> class of checkable lexical claim. Coverage so far is `00_Framework` ×1, `03_Biblical_Scholarship`
+> ×1 — no area is running ahead yet.
 >
-> `docs/BIBLIOGRAPHY_STANDARDS.md` landed 2026-09-21 (same day, after this run started) and is now
-> required reading alongside `CLAUDE.md` (procedure § 0). It **hardens** the "preserve the chain"
-> reading below: a personal-file link is never kept, even relabelled as the author's scan — cite the
-> actual publication instead, or `[TRACE NEEDED]` if that is not possible. The three Drive-linked
-> Swedenborg citations this run reformed under the old reading are being brought into line with the
-> new standard as part of this same merge; see the run log.
+> The 24 documents still containing `drive.google.com` links (unchanged count) are no longer a
+> special case — they route through the standard `[TRACE NEEDED]`-or-real-citation logic in
+> `BIBLIOGRAPHY_STANDARDS.md` like any other source, not through a "keep and relabel" exception.
+> `scripts/normalize_internal_links.py` remains unusable in a routine-fired environment (needs Drive
+> API credentials this run didn't have) but only ever helped the subset of Drive links that resolve to
+> an internal `data/` document anyway — most of the 24 are external Swedenborg-PDF citations it was
+> never going to touch.
 >
-> **Take next**: Your call. Two threads are worth continuing if nothing better catches your eye:
-> 1. **The 24 documents still containing `drive.google.com` links.** Still 24 — deliberately. § 3.4
->    says to preserve the chain, so where a Drive link points at the author's scan of a *published
->    work* the right fix is to name the work and keep the link labelled as the scan, not to delete it.
->    Three such citations were reformed that way tonight; the raw link count is therefore unchanged and
->    is **not** a useful progress measure. Note also that `scripts/normalize_internal_links.py` is
->    **not usable in this environment** — it needs Drive API credentials
->    (`secrets/google_drive_token.json`, absent), and it only rewrites links resolving to a Markdown
->    file in `data/`. Links pointing at Swedenborg source PDFs will never match it, so they must be
->    reformed by hand.
-> 2. **`03_Biblical_Scholarship` philology.** `The Stratigraphy of the Hebrew Bible` and
->    `Stratigraphy of the Archaic` both took propagation edits tonight without being audited, and
->    both are dense with the same class of checkable lexical claim. They are the obvious next pick
->    in that folder — but both are long, so budget accordingly.
+> **Propagation debt**: None outstanding. Checked today: no other document in the corpus cites a
+> Swedenborg work with an explicit "vol. N" the way `The Heart of the Matter` did (`grep` returned
+> zero matches), so the two volume-misattribution errors found there (§ 411 said vol. 1, is vol. 2;
+> AC § 10037 said vol. 5, is vol. 12) are contained to that one document, already fixed.
 >
-> Coverage so far is `00_Framework` ×1 and `03_Biblical_Scholarship` ×1. No area is running ahead yet.
+> **Awaiting external answers**: None. All three questions this run logged are resolved — see
+> `docs/resolved_research_questions.md` for the write-ups and `docs/research_questions/resolved/
+> nightly_audit_2026-09-21.md` for the detailed archival record (moved there, not deleted, matching
+> the pre-existing per-question convention this run didn't know about — check `docs/research_questions/
+> resolved/` before assuming a standalone question file needs a workaround).
 >
-> **Propagation debt**:
-> - **None outstanding for tonight's two corrections** — both were swept corpus-wide and verified to
->   zero remaining occurrences.
-> - **Latent, larger:** Swedenborg is cited *by work with a section number* in only a handful of
->   documents; most cite him by work-with-no-section or by web page. Tonight only the three
->   bare-PDF-filename cases were in scope. Supplying sections across the corpus is a standing task,
->   not a one-night sweep — treat it as ongoing rather than debt from this run.
->
-> **Awaiting external answers**: Three questions logged tonight in
-> **`docs/research_questions/nightly_audit_2026-09-21.md`** — the Third/Fourth Church numbering
-> collision, three missing Swedenborg section references, and whether *zu* at Exodus 15:13 is
-> attested or reconstructed. All three are `no edit` outcomes: **do not resolve them by guessing.**
->
-> They were filed using the `docs/research_questions/` per-question convention rather than appended
-> to the monolithic `docs/research_questions.md` as § 4.4 asks. Reason: the only write path available
-> to this run (the GitHub MCP API) replaces a file by transmitting its **whole** content, and the
-> monolithic register is ~156 KB this run had not read in full — re-transmitting it by hand risked
-> silently corrupting it. **If you have working `git push`, folding these three into
-> `research_questions.md` is a safe local edit and worth doing.**
->
-> **How this run pushed, and how you should**: `push_files` replaces whole files, so every byte is
-> retyped by hand. The first attempt at `The Heart of the Matter` dropped a backslash; the first
-> attempt at `Lexical Fossil Inventory` corrupted **ten** pointed-Hebrew words (dagesh/sheva order,
-> dropped shin- and sin-dots). Both were caught by `git fetch` + `git diff` and re-sent. The method
-> that then worked first time, every time, is now written up in **procedure § 4.1**: dump the file
-> with `json.dumps(...)` so all non-ASCII becomes `\uXXXX` escapes and trailing hard-break spaces
-> become visible before the `\n`, copy that verbatim, then verify with `git diff FETCH_HEAD`.
-> **Verify every single file.** Budget ~5 read calls plus a large push per 70 KB document.
+> **How to push safely, if you're routine-fired without git access**: `push_files` replaces whole
+> files, so every byte is retyped by hand. The first attempt at `The Heart of the Matter` dropped a
+> backslash; the first attempt at `Lexical Fossil Inventory` corrupted **ten** pointed-Hebrew words
+> (dagesh/sheva order, dropped shin- and sin-dots). Both were caught by `git fetch` + `git diff` and
+> re-sent. The method that then worked first time, every time, is written up in **procedure § 4.1**:
+> dump the file with `json.dumps(...)` so all non-ASCII becomes `\uXXXX` escapes and trailing
+> hard-break spaces become visible before the `\n`, copy that verbatim, then verify with
+> `git diff FETCH_HEAD`. **Verify every single file.**
 >
 > **Worth knowing**:
 > - **Full-text Swedenborg hosts block the fetcher.** `newchristianbiblestudy.org`,
 >   `sacred-texts.com` and `biblemeanings.info`'s search all returned **HTTP 403** to `WebFetch`.
->   What did work: `www.e-swedenborg.com/writings/static/d11722/<N>.htm` serves *Apocalypse Explained*
->   section-by-section as HTML (`d11722` = AE; § 411 was read this way). `biblehub.com/hebrew/<Strong's>.htm`
->   works and is the fastest way to check where a Hebrew word actually occurs. Remember § 3.3's rule:
->   never fetch a `.pdf`.
-> - **`structured-data-analysis` is not checked out** by the environment either, contrary to § 3.3.
->   It is public and clones fine over HTTPS. Neither of tonight's documents contained cross-repo
->   statistics, so it went unused — but clone it before taking anything with NDE/DOPS figures.
-> - Two `EVOLVING_CONCEPTUAL_STRAINS.md` items remain open for corpus-wide re-audit, both from
->   2026-08-20 — **#16** Pillar 43 Historical Encoding (earlier annotations need replacing, not
->   extending) and **#26** Paleolithic Geometric Signs. Neither was touched tonight. Highest existing
->   strain number is **#26** before this merge; do not invent numbers past whatever the run log
->   shows as current.
+>   What worked instead, confirmed twice now: `www.e-swedenborg.com/writings/static/d11722/<N>.htm`
+>   serves *Apocalypse Explained* section-by-section as HTML, and — new today — the actual Swedenborg
+>   Foundation Standard Edition PDFs live in the author's Google Drive and can be read directly with
+>   `mcp__Google_Drive__read_file_content` (large ones truncate; search the saved local text file with
+>   Bash/`python3` rather than re-requesting). **Each PDF's own preface states its exact section range**
+>   (e.g. "Volume 2 (numbers 296–414)") — check this before trusting an inherited volume number in a
+>   citation; it is how both misattributions above were caught. `biblehub.com/hebrew/<Strong's>.htm`
+>   remains the fastest way to check where a Hebrew word occurs, and Mechon-Mamre
+>   (`mechon-mamre.org/p/pt/pt0215.htm`-style URLs) is a reliable source for the raw Masoretic
+>   consonantal text itself when a claim turns on exact spelling. Remember § 3.3's rule: never fetch
+>   a `.pdf` **URL** — the Drive tool is not that, it's a different mechanism and is fine.
+> - **`structured-data-analysis` is not checked out** by a routine-fired environment either, contrary
+>   to § 3.3. It is public and clones fine over HTTPS. Neither of tonight's documents contained
+>   cross-repo statistics, so it went unused — but clone it before taking anything with NDE/DOPS
+>   figures.
+> - Two `EVOLVING_CONCEPTUAL_STRAINS.md` items remain open for corpus-wide re-audit — **#16** Pillar
+>   43 Historical Encoding and **#26** Paleolithic Geometric Signs (both from 2026-08-20, neither
+>   touched today). **#27** Church Numbering, opened and closed the same day (2026-09-21), is not
+>   open — both affected documents are already annotated. Highest existing strain number is **#27**;
+>   do not invent numbers past it.
 
 ---
 
@@ -154,7 +134,7 @@ Refresh the total with `find data -name "*.md" | wc -l`.
 
 | Date | Document | Why | Sources | Corrections | Propagated | Open | Outcome |
 |---|---|---|---|---|---|---|---|
-| 2026-09-21 | `00_Framework/The Heart of the Matter_ A New Church Founded on Love.md` | Bibliography but no editorial header; 3 `drive.google.com` links; shortest never-reviewed doc in `00_Framework`, and Framework docs are cited downstream so defects here propagate furthest | 4 found · 2 verified (1 internal read in full; AE § 411 confirmed) · 2 identified to work level only | 4F (all four bibliography entries reformed to the corpus's normal scholarly form; an initial pass added `[P]`/`[T]` type codes and inline `[TRACE NEEDED]` tags that no document in `data/` actually uses — removed same day, see pattern register) | 2 — `02_Swedenborgian_Theology/The Biological Error and the Theological Rescue…`, `05_The_Self/The Architecture of Autonomy…` | 2 | `corrected` |
+| 2026-09-21 | `00_Framework/The Heart of the Matter_ A New Church Founded on Love.md` | Bibliography but no editorial header; 3 `drive.google.com` links; shortest never-reviewed doc in `00_Framework`, and Framework docs are cited downstream so defects here propagate furthest | 5 found (split into 5 entries same day) · **5 verified** — AE § 9, AR § 612, AC § 10037, AE § 411 each confirmed by exact quotation; internal doc read in full | 5F (bibliography rewritten twice: first to the corpus's normal scholarly form — an initial pass adding `[P]`/`[T]`/`[TRACE NEEDED]` tags no document in `data/` uses was corrected the same night — then again 2026-09-21 to drop the `drive.google.com` links entirely per `BIBLIOGRAPHY_STANDARDS.md`, add the two now-verified sections, and fix two volume misattributions (§ 411 vol. 1→2, § 10037 vol. 5→12). Also annotated for strain #27, church numbering, same day.) | 2 — `02_Swedenborgian_Theology/The Biological Error and the Theological Rescue…`, `05_The_Self/The Architecture of Autonomy…` | 0 — all 3 questions resolved 2026-09-21 | `corrected` |
 | 2026-09-21 | `03_Biblical_Scholarship/Lexical Fossil Inventory_ A Stratigraphic Analysis of Archaic Hebrew Vocabulary.md` | Same state signature (bibliography, no header, Drive link) in a different folder; dense named-scholar/date philology is where fabricated citations hide, so it tests the Gemini-bibliography pattern early | 22 references (15 numbered + 7 scholarly) + 21 inventory-table entries; 15 spot-verified externally, no fabricated citation found | 5F (wrong deity name; word attributed to wrong book; two under-counted distributions; incomplete reference) | 2 — `03_Biblical_Scholarship/The Stratigraphy of the Hebrew Bible…` (3 passages), `03_Biblical_Scholarship/Stratigraphy of the Archaic…` (1 passage) | 1 | `corrected` |
 
 ---
@@ -173,6 +153,7 @@ Add an entry when a problem looks like it will recur. Update the existing entry 
 | **Personal Drive PDF cited as a source** | A bibliography entry linking `drive.google.com` — a filename like `swedenborg_apocalypse_revealed_02.pdf` or `experiences_part-024.pdf`, a personal scan of a published work or a personal export — no title, no section, uncheckable by anyone but the author. | **Never leave standing, and never keep the link even relabelled.** `docs/BIBLIOGRAPHY_STANDARDS.md` (landed 2026-09-21, superseding this run's earlier "preserve the chain, keep the link" reading of the old § 3.4) is explicit: name the actual publication under Primary/Scholarly Works; if the material belongs in this repo, make it an Internal Library Document with a relative link; if neither applies, `[TRACE NEEDED]` + a research question. The three Swedenborg citations this run originally reformed by keeping the link were brought into line with the new rule the same day — see the run log. | `00_Framework/The Heart of the Matter…`, `02_Swedenborgian_Theology/The Biological Error…`, `05_The_Self/The Architecture of Autonomy…` (2026-09-21); 35 documents corpus-wide confirmed by grep at the standard's introduction, not yet remediated |
 | **Files end without a trailing newline — `wc -l` undercounts, and the last citation gets missed** | `Lexical Fossil Inventory` reports `wc -l` = 291 but has **292** lines; the unterminated last line was bibliography entry **15**, which a `sed -n '1,291p'` read silently dropped. The missed entry was cited in the body (the *shasher* row). | Use `awk 'END{print NR}'` for the true count, or `tail -c 3 \| od -c` to check for a terminating newline, before believing a read was complete. This matters more here than in most repos because the last line of these documents is almost always a citation — exactly what the audit exists to check. | `03_Biblical_Scholarship/Lexical Fossil Inventory…` (2026-09-21) |
 | **Deep Research bibliographies: no fabrication found yet** | The ledger's opening notes flagged Gemini-generated bibliographies as the likely home of fabricated citations. | On the first two documents this did **not** materialise: every named scholar, work and date checked resolved to a real publication. The defects found were *misplacement* (right scholar, wrong book; right word, wrong verse), not invention. Keep checking, but do not treat "Gemini-generated" as presumptive evidence of fabrication — on this evidence the likelier defect is a misplaced detail. | 2026-09-21 |
+| **Multi-volume works cited with a volume number that's just wrong** | `The Heart of the Matter` cited *Apocalypse Explained* § 411 as "vol. 1" (actually vol. 2, §§ 296–414) and *Arcana Coelestia* § 10037 as "vol. 5" (actually vol. 12, §§ 9974–10837). Both read fine at a glance — a plausible volume number attached to a real, verified section. | **Never trust an inherited volume number.** Each Standard Edition PDF states its own exact section range in its own preface/title page (e.g. "Volume 2 (numbers 296–414)") — open the file and check before citing a volume, don't infer from the work's total length or the number's proximity to other citations. Corpus-wide grep for this exact pattern (`vol. N` on a Swedenborg citation) found no other instances — contained to this one document, not systemic, but the failure mode will recur wherever a volume number was ever attached without checking the file it points to. | `00_Framework/The Heart of the Matter…` (2026-09-21) |
 
 Candidates to watch for in early runs, from the corpus's history — confirm before treating any as established:
 
@@ -263,9 +244,55 @@ edit**, question logged. Also noted but not edited: the Resheph "gatekeeper" rol
 omen text and Albright's reading of it is contested in the literature. That is a live scholarly
 dispute, not an error of record, and § 0 forbids recruiting it as an objection.
 
+> **Correction, 2026-09-21 (same-day follow-up)**: the premise above is wrong, not the document. MT
+> Exodus 15:13 and 15:16 both read עַם־זוּ (*zu*, with a *vav*), not עַם־זֶה (*zeh*) — checked directly
+> against three independent digitized Masoretic sources. *zu* is directly attested, not a candidate
+> reconstruction. See the run log below and `docs/resolved_research_questions.md`.
+
 **Tooling notes for the next run** are in the handoff block — which verification hosts 403, which
 work, and why `normalize_internal_links.py` is unusable here. No strains were added or touched: no
 finding this run rose to conceptual evolution.
+
+### 2026-09-21 — Same-day follow-up: merge, citation reform, strain #27, all three questions resolved
+
+A second session, with working `git push` and Google Drive access this run's environment lacked,
+picked up everything the handoff block above flagged.
+
+**Merged `main`**, which had moved in the meantime — `docs/BIBLIOGRAPHY_STANDARDS.md` landed as a
+separate same-day change, hardening the "preserve the chain" reading this run's citation reform had
+used. Conflicts in `NIGHTLY_SOURCE_AUDIT.md` and this ledger were both cases of two sessions
+independently reaching compatible conclusions from different angles (the retired-type-code finding,
+the no-audit-provenance-in-documents rule) — merged rather than picked one side.
+
+**`The Heart of the Matter`'s Works Cited rewritten** to drop the three `drive.google.com`
+"author's scan" links entirely, per the new hard standard, and cite the published Standard Edition
+directly. Reading the actual PDFs to do this surfaced two volume-number errors already in the
+document — § 411 said vol. 1 (actually vol. 2) and § 10037 said vol. 5 (actually vol. 12) — see the
+new pattern-register row. Corpus-wide grep found no other document citing Swedenborg with an explicit
+volume number, so this was contained, not propagated.
+
+**All three logged questions resolved**, using Google Drive access to read the actual Swedenborg
+Foundation Standard Edition PDFs directly rather than relying on the full-text hosts that 403'd last
+night:
+- **Church numbering** — confirmed by Swedenborg's own text (AE § 411[6] states outright "there have
+  been four churches"). Filed as strain **#27**; both affected documents annotated the same day.
+- **Three section references** — all found: AE § 9 (John 19:26–27), AR § 612 (Revelation 14:1, and
+  it turns out to be the opening section of its volume), AC § 10037 ("Jerusalem" as doctrine).
+- ***zu* at Exodus 15:13** — the open question's own premise was wrong. MT reads עַם־זוּ (*zu*) at
+  both 15:13 and 15:16, confirmed against three independent Masoretic sources — not עַם־זֶה (*zeh*)
+  as logged. *zu* is directly attested, no reconstruction question to resolve. No edit needed; the
+  document was correct as written. See the correction note on last night's entry above.
+
+**The standalone question file was moved, not deleted** — `docs/research_questions/` already has a
+`resolved/` subfolder holding finished per-question files from earlier work (`nhl_*`, `32_signs_*`)
+that last night's run had no way to know about, having read neither `docs/research_questions.md` nor
+its directory in full. Moved `nightly_audit_2026-09-21.md` there with a `## Resolution` section
+appended under each question; full write-ups also went into `resolved_research_questions.md` proper.
+**Check `docs/research_questions/resolved/` before treating a standalone question file as an
+improvised workaround — it may already be the established convention.**
+
+No new document was audited today — this was entirely closing out debt the previous run correctly
+flagged rather than guessing at. Progress stays 2/250.
 
 ### 2026-09-20 — Ledger opened
 

@@ -1425,21 +1425,93 @@ GDR produced a comprehensive forensic analysis now filed as `data/04_Early_Chris
 
 ---
 
+### [NLM] Church Numbering: Is the Christian Church the Third or the Fourth Church?
+
+**Target**: `[NLM]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-09-21
+**Date Resolved**: 2026-09-21
+**Priority**: MEDIUM
+**Related Documents**:
+- `data/00_Framework/The Heart of the Matter_ A New Church Founded on Love.md`
+- `data/02_Swedenborgian_Theology/Conversation relating the Fourth Church - The New Jerusalem.md`
+- `data/02_Swedenborgian_Theology/The Statue and the Stone_ Continuous Spiritual Development Through the Lens of Daniel's Prophecy.md`
+
+**Context**: Two documents call the Christian Church "the Third Church" and the New Jerusalem "the Fourth Church"; a third calls the Christian Church the fourth and the New Church a fifth stage. Both map Daniel's statue to four states, so the question was whether the Israelitish church counts as a church in its own right.
+
+**RESOLUTION:**
+
+Swedenborg's own text settles it. *Apocalypse Explained* § 411[6] — the passage `The Heart of the Matter` already cites for the statue correspondence — states outright "there have been four churches" and enumerates Most Ancient (gold) → Ancient (silver) → Israelitish/spiritual-natural (brass) → **Christian (iron/clay), the fourth**, cross-referencing *Doctrine of the New Jerusalem* §§ 247–248 for the same count. Verified 2026-09-21 directly against the Swedenborg Foundation Standard Edition PDF (vol. 2, §§ 296–414), which contains § 411 in full.
+
+The Christian Church is the fourth church, and the New Jerusalem is a fifth stage — "Third Church" for the Christian Church and "Fourth Church" for the New Jerusalem are the superseded terms. `The Statue and the Stone` already had the correct count.
+
+**Correction applied**: Filed as strain **#27** in `docs/EVOLVING_CONCEPTUAL_STRAINS.md`. Both affected documents annotated per `docs/EDITORIAL_ANNOTATION_MANUAL.md` — header block plus inline `[CORRECTION #27]` notes at every occurrence (naming convention only; the four-metals correspondence and the "two essentials" argument in `The Heart of the Matter` are unaffected).
+
+---
+
+### [NLM] Three Missing Swedenborg Section References in *The Heart of the Matter*
+
+**Target**: `[NLM]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-09-21
+**Date Resolved**: 2026-09-21
+**Priority**: MEDIUM
+**Related Documents**: `data/00_Framework/The Heart of the Matter_ A New Church Founded on Love.md`
+
+**Context**: The document cited three Swedenborg works only by Drive-hosted PDF filename with no section numbers — John 19:26–27 ("the church will be where the good of charity is"), Revelation 14:1 (the Lamb on Mount Zion with the 144,000), and "Jerusalem" as signifying the church as to doctrine. Full-text hosts (`newchristianbiblestudy.org`, `sacred-texts.com`, `biblemeanings.info`) returned HTTP 403 to the previous attempt.
+
+**RESOLUTION:**
+
+All three read directly from the Swedenborg Foundation Standard Edition PDFs (Google Drive) and cross-checked against e-swedenborg.com:
+
+| Claim | Section | Verification |
+|---|---|---|
+| John 19:26–27, "the church will be where the good of charity is" | ***Apocalypse Explained* § 9** (vol. 1, §§ 1–295) | Exact quotation confirmed verbatim: "By 'mother' and by 'woman' is here meant the church, and by 'John' the good of charity; and by the things here said, that the church will be where the good of charity is." |
+| Revelation 14:1, Mount Zion and the 144,000 | ***Apocalypse Revealed* § 612** (vol. 2, §§ 612–962 — the opening section of the volume) | "By 'mount Zion' is signified heaven, where they are who are in love to the Lord"; the 144,000 as "all who acknowledge the Lord alone to be the God of heaven and earth ... and who are in the truths of doctrine from the good of love." |
+| "Jerusalem" as the church as to doctrine | ***Arcana Coelestia* § 10037** (vol. 12, §§ 9974–10837) | "By 'Zion' the church with those who are in the good of love, and by 'Jerusalem' with those who are in truths from this good." |
+
+Locating these also surfaced two volume misattributions in the document, now corrected: the AC citation was attributed to vol. 5 (§§ 3650–4228, which cannot contain § 10037) and the already-verified AE § 411 citation was attributed to vol. 1 (§§ 1–295, which cannot contain § 411 — it is in vol. 2, §§ 296–414).
+
+**Correction applied**: `The Heart of the Matter`'s Works Cited section rewritten per `docs/BIBLIOGRAPHY_STANDARDS.md` — full citations to the published Standard Edition (translator, volume, section range) replacing the Drive-link "author's scan" citations, each entry now carrying its verified section and a direct quotation.
+
+---
+
+### [GDR] Is the Archaic Relative Pronoun *zu* Attested at Exodus 15:13?
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-09-21
+**Date Resolved**: 2026-09-21
+**Priority**: LOW
+**Related Documents**: `data/03_Biblical_Scholarship/Lexical Fossil Inventory_ A Stratigraphic Analysis of Archaic Hebrew Vocabulary.md`
+
+**Context**: The inventory table lists *zu* (זו) as an archaic relative pronoun at Exodus 15:13, sourced to Cross and Freedman. The question as originally logged asserted that "the Masoretic consonantal text of Exodus 15:13 and 15:16 reads עַם־זֶה (*'am zeh*), not *zu*," and asked whether Cross–Freedman were citing an attested reading or reconstructing one behind that *zeh*.
+
+**RESOLUTION:**
+
+The premise behind the question was itself mistaken, not the document. Checked directly against the Masoretic Text via three independent sources (Mechon-Mamre's digitized MT, the StudyLight and BibleHub interlinears): **both Exodus 15:13 and 15:16 read עַם־זוּ (*'am zu*)** — with a *vav*, not a *heh*. BibleHub's interlinear gives it as Strong's **H2098**, *zū*, "Pronoun - relative," glossed "whom." There is no *zeh* reading to reconstruct behind; *zu* is directly attested in the received consonantal text at both verses, exactly as the document's table states.
+
+No edit was needed to the *Lexical Fossil Inventory* — its claim was correct as written. The Cross–Freedman citation for the word's Proto-Northwest-Semitic cognate (*dū*/*ḏū*) was not independently re-verified, since it is not what the question turned on.
+
+**Correction applied**: None to the document. The now-superseded premise ("MT reads *zeh*") was never written into any `data/` document — it originated in the research question itself — so nothing needed correcting there either.
+
+---
+
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 24 |
+| **Total Resolved** | 27 |
 | **NDE Domain** | 10 |
-| **BIBL Domain** | 6 |
-| **SWED Domain** | 3 |
+| **BIBL Domain** | 7 |
+| **SWED Domain** | 5 |
 | **CROSS Domain** | 1 |
 | **EARLY Domain** | 2 |
 | **GNOS Domain** | 1 |
 | **GDR Domain** | 1 |
 | **Critical Priority** | 3 |
 | **High Priority** | 13 |
-| **Medium Priority** | 7 |
-| **Low Priority** | 1 |
+| **Medium Priority** | 9 |
+| **Low Priority** | 2 |
 
-**Last Updated**: 2026-02-28
+**Last Updated**: 2026-09-21

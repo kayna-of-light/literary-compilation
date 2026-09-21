@@ -1704,3 +1704,42 @@ The correspondential hypothesis may still be stated as a hypothesis. It has not 
 > **[CORRECTION #26]**: Recurrence and distribution establish a bounded, regionally structured inventory of marks; they do not recover a fixed vocabulary or its meanings. The older positional, cross-cultural, and climatic tests did not validate the proposed correspondences: the positional dataset does not exist, simple global forms have a strong neurovisual/motor null, and frequency cannot establish that a tectiform meant protection or a grid meant order. See *The Mountain and the Pillar*, §§3–4, 6.8, and 7.1–7.4.
 ```
 
+
+---
+
+### 27. NDE Entity-Role Statistics: December 2025 Extraction Superseded by January 2026 Re-Extraction
+
+**Evolution Type**: CORRECTION
+**Priority**: Medium
+**Status**: Opened 2026-09-21
+
+#### The Error
+
+`NDE Statistical Analysis_ Entity Roles and Correspondential Patterns.md` (Analysis Date: December 2025) reports being-identification, guidance-function, return-facilitation, passage-type, and canonical-sequence statistics computed against a snapshot of `structured-data-analysis`'s NDE dataset (n=6,739) and its `entity_role_analysis.py` script, which itself reads categorical fields (`guidance_level`, `communication_mode`, `return_choice`, `light_encounter` as a list) that were current at the time.
+
+`structured-data-analysis` fully re-extracted the dataset in January 2026: all 6,753 NDE records (NDERF n=5,660; IANDS n=1,093) were re-run through GPT-5.2 under a revised Pydantic questionnaire schema. The field names and shapes this document's tables depend on no longer exist — `guidance_level` (a single significant/comfort/none/not_mentioned value) was replaced by `guidance_received` (yes/no) plus a `guidance_types` list; `return_choice` (told_to_return/chose_to_return/involuntary) was replaced by separate `return_agency`, `return_willingness`, and `return_reasons` fields; `light_encounter` changed from a list field to a single value; `communication_mode` (singular) became `communication_modes` (a list); and the religious-affiliation field used for the cultural-filter cross-tab is now `religious_belief_at_nde`, not `religious_affiliation`. `entity_role_analysis.py` itself was never updated for the new schema (one commit in its whole history, the commit that added it) and the `output/analysis/` directory it reads from is not checked into the repository, so the December 2025 run cannot be reproduced from what is currently in `structured-data-analysis`.
+
+A direct reproduction against the current dataset (`projects/nde/structured/*.json`, using the current field names) produces materially different counts from every table in the document — for example, `unknown_presence` in the current `being_identifications` list field is 1,049/6,753 (15.5%), against the document's reported 2,115/6,739 (31.4%); `other` is 1,732/6,753 (25.6%) now against 446/6,739 (6.6%) then. This is too large a shift to be sampling noise from ~14 additional records — it reflects the schema/model change, not a small drift in the underlying phenomena.
+
+#### Corrected Position
+
+The document's *directional* claims — functional differentiation between being types, convergence of diverse passage/light imagery onto common functional outcomes, cultural filtering of identification vocabulary without corresponding change in functional outcome — are not shown to be wrong; a spot check of `guidance_received`/`return_agency` by being type on the current dataset shows the same qualitative pattern (higher-order beings still show different guidance/return profiles than "unknown presence" and "no being"). But no library document has run a full statistical analysis of entity roles, guidance function, or return facilitation against the current (January 2026, GPT-5.2) schema, so this cannot yet be stated as a validated current finding — see the open research question logged 2026-09-21.
+
+One overlapping scope **is** already validated current: `The Being of Light_ A Statistical Analysis of Near-Death Experience Phenomenology.md` analyzes the same current dataset (n=6,753, GPT-5.2, January 2026) for being-of-light identification and light-encounter prevalence, and is the correct citation for those specific figures until a broader entity-role re-analysis exists.
+
+This strain is a data-currency correction, not a conceptual reframing: nothing about the corpus's *interpretation* of entity roles is superseded, only the specific counts computed from a dataset snapshot the source repository has since replaced. Watch for the same problem in any other NDE/DOPS-statistics document dated before January 2026 that was not re-verified against the current `structured-data-analysis` schema — this was found by chance while auditing one document with unrelated defect signals (retired type-code notation), not by a systematic sweep, so other instances are likely.
+
+#### Core Documents Reflecting Earlier Position
+- [x] `data/01_Consciousness_Studies/NDE Statistical Analysis_ Entity Roles and Correspondential Patterns.md` — header block + 3 inline `[CORRECTION #27]` notes added 2026-09-21
+
+#### Downstream Documents Requiring Inline Review
+- [ ] Any other `data/01_Consciousness_Studies/` document reporting NDE entity-role, guidance-function, or return-facilitation statistics with an analysis date before January 2026, not yet checked against the current dataset.
+
+#### Documents with Established Correction
+- [x] `data/01_Consciousness_Studies/The Being of Light_ A Statistical Analysis of Near-Death Experience Phenomenology.md` — current dataset (n=6,753, GPT-5.2, January 2026); covers being-identification and light-encounter prevalence only, not the broader entity-role/guidance/return cross-tabs
+
+#### Annotation Template
+
+```markdown
+> **[CORRECTION #27]**: This document's statistics were computed from the December 2025 extraction pass (n=6,739), superseded by a January 2026 re-extraction (n=6,753) under a revised schema. See *The Being of Light* for validated current being-identification/light-encounter figures; the broader entity-role, guidance-function, and return-facilitation cross-tabs have not yet been re-run against the current schema.
+```

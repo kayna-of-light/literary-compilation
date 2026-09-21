@@ -129,7 +129,7 @@ The Apocalypse (Chapter 14\) describes a vision of "a Lamb standing on the Mount
 * **The Lamb:** This signifies the Lord as to the Divine Human.2  
 * **Mount Zion:** "Mount Zion" signifies heaven and the church. But *specifically*, it is "where they are who are in **love to the Lord**." A "mountain" signifies love, and "Zion" signifies the "church as to **love**".2  
 * **Jerusalem:** In distinction, "Jerusalem" (which, in Chapter 21, "descends" from this new heaven) signifies the "church as to **doctrine**" or doctrine *from* that love.1  
-* **The 144,000:** This is not a literal number, but a spiritual *quality*. It signifies "all who acknowledge the Lord alone to be the God of heaven and earth" (Essential 1) and who are "in the truths of doctrine from the **good of love**" (Essential 2).2
+* **The 144,000:** This is not a literal number, but a spiritual *quality*. It signifies "all who acknowledge the Lord alone to be the God of heaven and earth" (Essential 1\) and who are "in the truths of doctrine from the **good of love**" (Essential 2).2
 
 This single image is the *visual antidote* to the "faith alone" doctrine. The New Church is not just "Jerusalem" (doctrine) floating alone. It is "Jerusalem" *descending* from a heaven *founded on* "Mount Zion" (love). The people of this church (the "144,000") are not those in faith *alone*, but those who are in "truths *from* the good of love." These symbols are the very picture of the "two essentials" conjoined as one.
 

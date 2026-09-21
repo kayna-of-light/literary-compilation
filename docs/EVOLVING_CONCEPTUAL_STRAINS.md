@@ -41,6 +41,7 @@ This document catalogs conceptual strains where understanding has evolved over t
 - [x] #15 Magi Narrative (3 docs) — ✅ Done
 - [ ] #16 Pillar 43 Historical Encoding — Earlier annotations require replacement; corpus-wide re-audit opened 2026-08-20
 - [ ] #26 Paleolithic Geometric Signs — Core thesis set restored; annotations opened 2026-08-20
+- [x] #27 Church Numbering (2 docs) — ✅ Done (2026-09-21): Both documents annotated, header block + inline notes at each occurrence
 - [x] #17 Virgin Birth (1 doc) — ✅ Done
 - [x] #18 Bene Qedem (15 docs) — ✅ Done: All 15 docs verified; 3 new inline notes added
 - [x] #19 Aligned Human (4 docs) — ✅ Done: All 4 docs verified with inline notes
@@ -1702,5 +1703,43 @@ The correspondential hypothesis may still be stated as a hypothesis. It has not 
 
 ```markdown
 > **[CORRECTION #26]**: Recurrence and distribution establish a bounded, regionally structured inventory of marks; they do not recover a fixed vocabulary or its meanings. The older positional, cross-cultural, and climatic tests did not validate the proposed correspondences: the positional dataset does not exist, simple global forms have a strong neurovisual/motor null, and frequency cannot establish that a tectiform meant protection or a grid meant order. See *The Mountain and the Pillar*, §§3–4, 6.8, and 7.1–7.4.
+```
+
+---
+
+### 27. Church Numbering: The Christian Church Is the Fourth, Not the Third
+
+**Evolution Type**: CORRECTION
+**Priority**: Medium
+**Status**: Opened 2026-09-21
+
+#### The Error
+
+Two documents number the churches so that the Christian Church is the **third**: `The Heart of the Matter: A New Church Founded on Love` calls the New Jerusalem "the Fourth Church" and states that the "faith alone" doctrine "destroyed the Third Church" (the Christian Church); `Conversation relating the Fourth Church - The New Jerusalem` uses the same count. `The Heart of the Matter` is internally inconsistent on top of this: its own statue table assigns brass to "the third succeeding church (including the Israelitish church)" while separately calling the iron-and-clay Christian Church "the Third Church" — two different churches given the same ordinal in the same document.
+
+#### Why It Is Wrong
+
+Swedenborg's own text settles this. *Apocalypse Explained* § 411[6] — the very passage `The Heart of the Matter` already cites for the statue correspondence — states outright "there have been four churches" and enumerates them: Most Ancient (gold) → Ancient (silver) → Israelitish/spiritual-natural (brass) → **Christian (iron/clay), the fourth**, cross-referencing *Doctrine of the New Jerusalem* §§ 247–248 for the same count. Verified 2026-09-21 against the Swedenborg Foundation Standard Edition PDF (`swedenborg_apocalypse_explained_02.pdf`, §§ 296–414), which contains § 411 in full.
+
+`The Statue and the Stone_ Continuous Spiritual Development Through the Lens of Daniel's Prophecy` already reflects the correct count — Christian Church as the **fourth**, New Church as a fifth stage (Most Ancient → Ancient → Jewish → Christian → New) — and was the document that first flagged the discrepancy in the corpus.
+
+#### Corrected Position
+
+The Israelitish/Jewish church counts as a church proper in Swedenborg's own numbering, not as a representative dispensation standing outside the count. The Christian Church is the **fourth** church, and the New Jerusalem is the **fifth** stage — not "the Fourth Church" as `The Heart of the Matter` and `Conversation relating the Fourth Church` currently have it. "Third Church" for the Christian Church, and "Fourth Church" for the New Jerusalem, are the superseded terms.
+
+This is a naming-convention correction, not a reinterpretation of what the statue or the New Church means — the four-metals correspondence, the stone's action, and the "two essentials" argument in `The Heart of the Matter` are unaffected. Only the church count changes.
+
+#### Core Documents Reflecting Earlier Position
+_(none remaining — both annotated 2026-09-21, see below)_
+
+#### Documents with Established Correction
+- [x] `data/02_Swedenborgian_Theology/The Statue and the Stone_ Continuous Spiritual Development Through the Lens of Daniel's Prophecy.md` — already uses the correct four-church count with the New Church as a fifth stage
+- [x] `data/00_Framework/The Heart of the Matter_ A New Church Founded on Love.md` — header block + inline notes at all four body occurrences (2026-09-21)
+- [x] `data/02_Swedenborgian_Theology/Conversation relating the Fourth Church - The New Jerusalem.md` — header block + inline notes at both key occurrences (2026-09-21); document's title is unchanged per the manual's rule against rewriting
+
+#### Annotation Template
+
+```markdown
+> **[CORRECTION #27]**: Swedenborg's own text (*Apocalypse Explained* § 411[6], cross-referencing *Doctrine of the New Jerusalem* §§ 247–248) states there have been four churches — Most Ancient, Ancient, Israelitish, Christian — making the Christian Church the fourth, not the third, and the New Jerusalem a fifth stage rather than "the Fourth Church." See *The Statue and the Stone*.
 ```
 

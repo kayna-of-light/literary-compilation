@@ -1,8 +1,20 @@
 # **The Heart of the Matter: A New Church Founded on Love**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-09-21
+>
+> This document reflects **earlier understanding** on:
+> - **#27** Church Numbering — Calls the Christian Church "the Third Church" and the New Jerusalem "the Fourth Church"
+>
+> **Summary**: Swedenborg's own text (*Apocalypse Explained* § 411[6]) states there have been four churches — Most Ancient, Ancient, Israelitish, Christian — making the Christian Church the **fourth**, not the third, and the New Jerusalem a **fifth** stage. This document is also internally inconsistent: its own statue table assigns brass to "the third succeeding church," then separately calls the iron-and-clay Christian Church "the Third Church." The four-metals correspondence and the "two essentials" argument are unaffected — only the church count.
+> **Established correction (library)**: The Statue and the Stone
+> ---
+
 ## **Part I: The "Suffocation" and the Promise of a New Morning**
 
 This exploration delves into the theological entity known as the "Fourth Church," or the New Jerusalem.1 Its existence is a direct spiritual answer to the "suffocation" and "darkness" characteristic of a consummated age.
+
+> **[CORRECTION #27]**: Per *Apocalypse Explained* § 411[6], the Christian Church is the fourth church (Most Ancient → Ancient → Israelitish → Christian), so the New Jerusalem described here is better understood as a fifth stage, not "the Fourth Church." See *The Statue and the Stone*.
 
 This New Church is not just a new institution, but a new era of spiritual life. Its establishment was made possible only by the "consummation," or the definitive end, of the former Christian Church.1 That preceding church had reached a terminal state described as "evening and nighttime"—a spiritual condition where the "longing for good," genuine faith, and true, loving charity had been lost.1
 
@@ -27,6 +39,8 @@ It is founded on two core, inseparable essentials that constitute the *entirety*
 
 This new foundation is the *direct answer* to the doctrine that caused the "suffocation": the doctrine of **"faith alone"** (Sola Fide). This doctrine is explicitly identified as the very thing that **"destroyed the Third Church"**.1 It was the "how" of the suffocation—a teaching that separated belief from action.
 
+> **[CORRECTION #27]**: "Third Church" here is the superseded count — the Christian Church is the fourth church per *Apocalypse Explained* § 411[6]. See the header note and *The Statue and the Stone*.
+
 The New Church, therefore, must emphatically reject this. It is, instead, a **"Church of Charity and Life"**.1 It redefines faith into something simple, grounded, and real: faith is "to will and to put into practice what we believe".1 Salvation is not for those who just *believe* (the "faith alone" of the "learned"), but for those who "live according to the commandments... and consequently possess truths from good".1 These are the people—the "open" hearts—who constitute the New Jerusalem.
 
 These "two essentials" are not a list; they are a *conjoined life*. They are the inseparable whole that the former church broke. Acknowledging the Lord (Essential 1\) is the source of power. Living a life of love (Essential 2\) is the *only* way that acknowledgment becomes real. This new spiritual foundation creates an unbreakable bond between what one *believes* and how one *lives*, replacing the "faith alone" doctrine that had caused the spiritual "nighttime" of the prior age.1
@@ -45,6 +59,8 @@ This spiritual degradation is detailed through the correspondence of the four ma
 * **Breast/Arms (Silver):** This represents the **Ancient Church**, or Spiritual Church. Here, the guiding principle was "truths from that good," or what we call charity.1 This was a step removed from the direct "longing" of the golden age, a life guided by truths *about* love.  
 * **Belly/Thighs (Brass):** This signifies the **third succeeding church** (including the Israelitish church). This state is **Spiritual-Natural**, where the "good of faith and the truth from that good reigned".1 This represents a further "externalizing" of spiritual life, a life of obedience.  
 * **Legs/Feet (Iron/Clay):** This final part represents the **Christian Church** (the Third Church) and its "suffocated," "vastated" (desolated) state.1 This is the "consummation" of the entire sequence, representing an **"external church without any internal"**.1 The symbolism here is precise, and it perfectly describes "scholarly blindness":  
+
+> **[CORRECTION #27]**: The table above numbers the Christian Church inconsistently — "third succeeding church" for the brass tier, "the Third Church" here for iron/clay. Per *Apocalypse Explained* § 411[6], the Christian Church (iron/clay) is the **fourth** church; brass is the Israelitish church, the third. See the header note and *The Statue and the Stone*.
   * **Iron (Iron):** This corresponds to natural truth, specifically the truth of the Word in its literal sense.1  
   * **Clay (Clay):** This corresponds to falsity, specifically **"falsity from self-intelligence"**.1
 
@@ -151,6 +167,8 @@ At the moment of its end, the church is entrusted *by the Lord Himself* to the "
 ## **Part V: Conclusion: The Restoration of Love**
 
 The "Fourth Church" is not a new building, but a *new spiritual paradigm* for humanity.1
+
+> **[CORRECTION #27]**: Per *Apocalypse Explained* § 411[6], the New Jerusalem described throughout this conclusion is the fifth church stage, not the fourth — the Christian Church it succeeds is itself the fourth. See the header note and *The Statue and the Stone*.
 
 This paradigm was initiated by a definitive, causal event: the Last Judgment, executed in the spiritual world in 1757\.1 This judgment was the *shattering* (prefigured by the "stone" of Daniel's prophecy) 1 of the "external notions" and "dire persuasions of falsity" that had defined the "suffocated" Christian Church (the "statue" of iron and clay).1
 

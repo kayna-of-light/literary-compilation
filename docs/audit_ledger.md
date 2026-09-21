@@ -11,11 +11,15 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 
 **Replaced wholesale at the end of every run.** This block describes the present, not the history — history goes in the run log below. A run that leaves this stale has failed its successor.
 
-> **Status**: Not yet started. Queue is the full library.
+> **Status**: 2026-09-21 run claiming a batch of 2 (see rows below, `in-progress`). See run log for a
+> git-delivery anomaly discovered before claiming: an earlier same-day branch/PR
+> (`claude/nightly-audit-2026-09-21`, PR #3) with 2 real audited documents was closed unmerged by the
+> repo owner and its corrections are not on `main`. Not resolved by this run — flagged for the
+> maintainer, documents *not* re-excluded from tonight's queue on that basis alone (see run log).
 >
-> **Take next**: Your call — nothing is claimed yet, so the whole library is open. Procedure § 2 has signals worth checking and the constraints on the choice. Pick by what a document's state looks like, not by what it is about, and say in your row why you picked it.
+> **Take next**: Your call — procedure § 2 has signals worth checking and the constraints on the choice.
 >
-> **Propagation debt**: None.
+> **Propagation debt**: None yet — will be updated at close-out.
 >
 > **Awaiting external answers**: None.
 >
@@ -67,7 +71,8 @@ Refresh the total with `find data -name "*.md" | wc -l`.
 
 | Date | Document | Why | Sources | Corrections | Propagated | Open | Outcome |
 |---|---|---|---|---|---|---|---|
-| — | _No documents audited yet. First scheduled run: 2026-09-21._ | — | — | — | — | — | — |
+| 2026-09-21 | `01_Consciousness_Studies/NDE Statistical Analysis_ Entity Roles and Correspondential Patterns.md` | Retired `[P]`/`[S]`/`[E]` type-code table still in use; cites cross-repo NDE/DOPS statistics checkable against `structured-data-analysis`; folder untouched on `main` so far | TBD | TBD | TBD | TBD | in-progress |
+| 2026-09-21 | `08_Correspondential_Texts/The Garment and What Wears It_ Dating the Correspondential Substrate Beneath the Manichaean Kephalaia.md` | Retired type-code notation both inline (dating table) and in Works Cited; dense multi-tier source chain (Theopompus/Plutarch, Old Avestan, Ebla archive) worth a careful trace; folder untouched on `main` so far | TBD | TBD | TBD | TBD | in-progress |
 
 ---
 
@@ -93,6 +98,33 @@ Candidates to watch for in early runs, from the corpus's history — confirm bef
 ## Run log
 
 Narrative per run — what the batch surfaced, and anything a later run should know that does not fit the tables. Newest first. Unlike the handoff block, this accumulates.
+
+### 2026-09-21 — Batch claimed; stranded-PR anomaly found during precheck
+
+**§ 1 precheck passed cleanly** — a real `git push --dry-run` succeeded, no 403. This is the "first
+real test" the previous (now-closed) branch's handoff block asked this run to report on: the
+repo-selection fix the maintainer applied mid-day on 2026-09-21 appears to have resolved the
+routine-firing git-access problem. Full `git`/`gh`-style flow used throughout, not the MCP-tools
+fallback.
+
+**Before claiming, found `origin/claude/nightly-audit-2026-09-21` still on GitHub, unmerged, backing
+a closed-not-merged PR #3** ("Nightly source audit — 2026-09-21 — 2 documents, all follow-up
+resolved"). That branch contains real, verified audit work — `00_Framework/The Heart of the Matter`
+and `03_Biblical_Scholarship/Lexical Fossil Inventory` fully corrected, plus propagation edits to 5
+more files (`Conversation relating the Fourth Church`, `The Biological Error and the Theological
+Rescue`, `Stratigraphy of the Archaic`, `The Stratigraphy of the Hebrew Bible`, `The Architecture of
+Autonomy`) — none of which is reflected on `main` (confirmed: `main`'s ledger still reads 0 audited,
+highest strain is #26, not #27). PR #3 was closed by the repo owner (`marconian`) directly, no
+comment, `mergeable_state: clean` — so this was almost certainly a deliberate decision, not a
+technical failure, and not this run's call to reverse. **This run did not touch that branch**: no
+force-push, no reopen, no cherry-pick — picked a distinct branch name
+(`claude/nightly-audit-2026-09-21-2`) to avoid colliding with it. Flagged in tonight's PR/notification
+for the maintainer's attention; if the two documents there should count as already-audited, a human
+decision (reopen/merge, or explicitly mark done in this ledger) is needed first. Tonight's batch was
+chosen fresh against `main`'s actual state and does not overlap those two files, so no work here
+depends on that question being resolved either way.
+
+Claimed batch of 2 (see rows above), on `main`'s state (0 audited, 250 remaining, highest strain #26).
 
 ### 2026-09-20 — Ledger opened
 

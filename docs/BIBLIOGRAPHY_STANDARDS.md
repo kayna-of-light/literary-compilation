@@ -107,6 +107,27 @@ Every citation in this corpus should be independently verifiable by someone who 
 
 This is not a special pass over the 35 documents that currently carry `drive.google.com` citations — the nightly source audit (`docs/NIGHTLY_SOURCE_AUDIT.md`) treats this as an ordinary correction of record and cleans them as it reaches them, using the routing above.
 
+### No unmoderated or reposted sources
+
+Reddit, Quora, Scribd, forum threads, comment sections, and similar user-generated platforms are not citable sources in a Works Cited section, regardless of what they're hosting or how confidently they're worded. This is not a style preference — the corpus's much of its material came out of Gemini Deep Research, which cites these routinely, and as of 2026-09-21 they appear in **over 90 documents**. This is corpus-wide, not incidental.
+
+Two distinct problems hide under "not a citable source," and they route differently:
+
+**Repost hosts (Scribd, Academia.edu uploads by someone other than the author, document-sharing sites).** These usually carry a real underlying work — a journal article, a book chapter, a published sampler — uploaded without attribution to the original. The task is not to reformat the Scribd link; it is to **identify what the reposted document actually is** and cite the original publication instead:
+
+- Search the reposted title, distinctive phrases from it, or its apparent author for the original: a journal, a publisher, an institutional repository. Most resolve — a "Genesis 2:5-7" Scribd upload is very likely a specific, findable journal article; a study-Bible "sampler" is very likely that Bible's actual publisher edition.
+- Cite the original under **Primary Sources** or **Scholarly Works** once found, exactly as any other published work.
+- If no original can be identified after a real attempt — not a single search — treat it as unverifiable (below).
+
+**Claim sources (Reddit posts, forum threads, Quora answers, comment sections).** These are not documents standing in for a real source; they are someone's unverified assertion, typically anonymous, with no editorial or institutional check on it. A citation here is not a formatting problem — it means **the claim itself was never actually verified**, only found stated somewhere. The forum post is never the fix:
+
+- If the claim is true and significant, it is independently checkable — find the real source that supports it (a scholarly work, a primary text, a dataset) and cite that instead. The Reddit thread disappears from the Works Cited entirely; it was never evidence, only a lead.
+- If a genuine, real attempt to independently verify the claim turns up nothing — no scholarly treatment, no primary-source support — the claim is **unverified content masquerading as a citation**, and the routing is the same as an uncheckable personal file above: mark `[TRACE NEEDED]` and log a research question, or remove the claim if it is not load-bearing to the document's argument. Never leave the Reddit link standing "because the claim seems plausible." Plausibility is not verification, and an anonymous forum post asserting something is not stronger evidence than no citation at all — it is weaker, because it dresses an unverified claim as if it were checked.
+
+**What is not covered by this section**: an institutional or identifiably-authored web page — a university's own site (`rsc.byu.edu`), a named scholar's own page, an institutional repository (`deepblue.lib.umich.edu`, `epublications.marquette.edu`), a serious subject-specific project with named editorial oversight (`thetorah.com`) — is not an "aggregator" merely because it isn't a print publisher. These are legitimate **Web Sources** (§ Format above) when no better-categorized citation applies. The test is real authorship and some form of accountability for what's published, not the domain's appearance or whether it charges for access.
+
+This is exactly the class of correction `docs/NIGHTLY_SOURCE_AUDIT.md` § 3.3's "Quality" check exists for, and it is **not optional or secondary to claim-level fact-checking** — see that procedure's § 3.4b.
+
 ### No type-code brackets
 
 Do not tag entries `[P]`, `[S]`, `[T]`, `[E]`, or `[W]`. The category header already states what kind of source it is — a bracket in front of every line number is redundant markup that only two documents in the entire corpus ever adopted. See § Retired.

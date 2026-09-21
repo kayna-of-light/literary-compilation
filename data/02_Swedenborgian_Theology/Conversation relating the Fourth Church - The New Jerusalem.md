@@ -1,8 +1,20 @@
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-09-21
+>
+> This document reflects **earlier understanding** on:
+> - **#27** Church Numbering — Calls the New Jerusalem "the Fourth Church" and the Christian Church "the Third Church," which is this document's title and core framing
+>
+> **Summary**: Swedenborg's own text (*Apocalypse Explained* § 411[6]) states there have been four churches — Most Ancient, Ancient, Israelitish, Christian — making the Christian Church the **fourth**, not the third, and the New Jerusalem a **fifth** stage rather than "the Fourth Church." The document's substantive content about the New Church's identity, timing, and establishment among the "Gentiles" is unaffected — only the ordinal count.
+> **Established correction (library)**: The Statue and the Stone
+> ---
+
 The statement that the Fourth Church is "To be foretold (implicitly far in the future)" refers to the New Church, or the New Jerusalem, which is established *after* the Last Judgment of 1757\. The sources emphasize that this new church is the definitive outcome of the accomplished judgment and marks a new era, implying its longevity.  
 Here is a detailed explanation of the Fourth Church drawing on the sources:  
 1\. The Identity of the Fourth Church  
 The Fourth Church is identified as the New Church, specifically the New Jerusalem descending out of heaven.  
 • This church succeeds the former Christian Church (the Third Church), which had reached its end or "consummation of the age".  
+
+> **[CORRECTION #27]**: Per *Apocalypse Explained* § 411[6], the Christian Church is the **fourth** church (Most Ancient → Ancient → Israelitish → Christian), so the New Jerusalem described throughout this document as "the Fourth Church" is better understood as a **fifth** stage. See *The Statue and the Stone*.
 • The destruction of the former church and the creation of a "new heaven and a new earth" (Revelation 21:1) do not mean the physical destruction of the planet, but the establishment of a new church, internally and externally.  
 • The internal meaning of Revelation, which had been hidden, is now revealed to assist in the establishment of this New Church.  
 2\. The Relationship to Prophecy and Futurity  
@@ -58,7 +70,9 @@ Your statement that the stone "rolls" meaning a gradual revealment is supported 
 • The Lord's coming in "the clouds of the heavens" is interpreted as the revelation of the Word as to its internal sense. This internal sense contains the Divine truth itself, which had previously been obscured.  
 • The current time (after the Last Judgment) marks a progression of Divine truth from ultimates to interiors, thus from ignorance again to wisdom. This revelation is gradual, as the New Church "is successively formed and increases" and is not established immediately.  
 Conclusion on the New Foundation  
-The core purpose of this prophetic sequence is indeed the establishment of a foundation grounded in the full truth of the Lord (the stone/rock), replacing the decayed foundations of the previous churches (the shattered image). The New Jerusalem (the Fourth Church) is the fulfillment of this prophecy, distinguished by its acknowledgment of the Lord alone and its emphasis on charity and life according to Divine truths as revealed through the newly opened spiritual sense of the Word. This foundation, however, is being laid initially and primarily among the Gentiles.  
+The core purpose of this prophetic sequence is indeed the establishment of a foundation grounded in the full truth of the Lord (the stone/rock), replacing the decayed foundations of the previous churches (the shattered image). The New Jerusalem (the Fourth Church) is the fulfillment of this prophecy, distinguished by its acknowledgment of the Lord alone and its emphasis on charity and life according to Divine truths as revealed through the newly opened spiritual sense of the Word. This foundation, however, is being laid initially and primarily among the Gentiles.
+
+> **[CORRECTION #27]**: Per *Apocalypse Explained* § 411[6], the Christian Church is the fourth church, so the New Jerusalem here is a fifth stage, not "the Fourth Church." See the header note and *The Statue and the Stone*.  
 \---  
 My initial premise doesn't contradict this. With the gentiles are all meant who are outside of the former church, thus those who reject its teachings. They are people of all religions. They are those which are in the good of love from the Lord, which is meant with the nations. It has nothing to do with the physical state of people being inside or outside the physical church or where they have grown up. To state thus that the new church will be outside the Christian church as if its about the physical emanation of the Christian church is misleading. It is about the internal state and notions from those that believe to understand the Word but only read it in outer meanings and by this define their faith which is a state in which the Christian church finds itself nowadays. It is by these people that they reject everything because they perceive themselves as being rich with knowledge and truth and therefore reject everything that strips them of this knowledge, which is also described by the eye of the needle.  
 The shattering means that all these ideas and things that are linked to these churches are in themselves fallible and always lead to an incorrect interpretation of actual truth and therefore in those that are in the good of love, because really on all levels even into ultimates (which is represented by all the churches from beginning to end) all things of falsity are rejected which make place for the complete truth we receive from the Lord.  

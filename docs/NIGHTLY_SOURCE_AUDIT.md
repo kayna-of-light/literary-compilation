@@ -230,7 +230,7 @@ For each entry:
 | **Says it** | The cited passage actually supports the claim made from it |
 | **Located** | Section/page/§ given precisely enough to check (Swedenborg: `DLW §§ 83–85`, not "Swedenborg says") |
 | **Traced** | Chain followed to the furthest available primary source |
-| **Typed** | Marked `[P]` / `[S]` / `[T]` / `[E]` / `[W]` per the Source Tracing Protocol |
+| **Typed** | Classified `[P]` / `[S]` / `[T]` / `[E]` / `[W]` in your own working notes, per the Source Tracing Protocol — this is how *you* reason about the chain, not markup you add to the document. See § 3.4a before touching a Works Cited list. |
 | **Quality** | Primary over secondary; academic for historical claims; first-person for experiential claims |
 
 Use `WebSearch` / `WebFetch` for external verification. **Never fetch a URL ending in `.pdf`** — it crashes the session. Use the abstract, the publisher landing page, or an HTML version, and note the substitution.
@@ -245,7 +245,20 @@ Apply the Gemini rule from `CLAUDE.md`: where a citation points at an internal d
 - Replace a weak source with the better one where a better one exists, and say so in the ledger.
 - Complete partial references to full scholarly form.
 - Remove a citation **only** when it is fabricated or wholly unverifiable — and then say so explicitly in the PR. Never silently drop a reference.
-- Add type codes. Preserve the full chain, not just the endpoints.
+- Preserve the full chain, not just the endpoints — but preserve it in your own verification notes (the ledger, the PR body), not as markup written into the document.
+
+### 3.4a The corpus's actual Works Cited convention
+
+The `[P]` / `[S]` / `[T]` / `[E]` / `[W]` codes in `CLAUDE.md`'s Source Tracing Protocol are for *your* reasoning while you trace a chain, and for what you write in the ledger. **They are not a citation format.** Confirmed by grep across every `Works Cited` / bibliography section in `data/`: essentially no document tags individual entries with a bracketed type code, and a numbered Works Cited list never does. Before editing any bibliography, check what that document actually does — most follow this pattern (see the `00_Master_Theses/` files for clean examples):
+
+- A `## Works Cited` (or `#### **Works cited**` in older, informal documents) heading.
+- A single numbered list (`1.`, `2.`, …), optionally split under bold category labels — `**Primary Sources:**`, `**Scholarly Works:**`, `**Internal Library Documents:**`, `**Data Sources:**` — with numbering continuing across the groups.
+- Standard scholarly form: `Author, First. *Title*. City: Publisher, Year.` — for Swedenborg, `Author, Emanuel. *Title* (Year). Cited by section number (§).` without necessarily pinning a specific §, since pinpoint section citations belong in the body text where the claim is made, not duplicated in the list.
+- Internal library documents as a markdown link followed by one sentence on what the document establishes.
+
+A small number of documents instead use `### Primary Sources [P]` / `### Secondary Sources [S]` / `### Framework Synthesis Documents [T]` **subheadings**, each with an explanatory line ("Sources are classified by type: **[P]** Primary…") and **bulleted** (`-`, not numbered) entries individually prefixed `**[P]**` / `**[S]**` / `**[T]**`. This is a real, pre-existing convention — but it belongs to the specific documents that already declare it. **Match a document's own existing style exactly. Never introduce the type-code prefix, or convert a numbered list to a bulleted one, in a document that does not already use it** — that manufactures a discrepancy, not a fix.
+
+Do not write `[TRACE NEEDED]` (or any other Source Tracing Protocol code) into a Works Cited entry. An unresolved section reference or unverified passage is logged in the research-question register (§ 3.6, § 4.4) with enough context to find it again — the citation itself stays in the document's normal form once it is correctly named.
 
 ### 3.5 Validate the claims
 
@@ -269,7 +282,7 @@ Route each finding by kind. **This table is the operative rule** — it reconcil
 | Statistic disagreeing with its dataset | **Fix in place**, naming the source of truth in the ledger. |
 | Position superseded by later corpus understanding | **Annotate**, do not rewrite. Header block + at least one inline note, per the manual. |
 | Claim overstating its source's reach | **Annotate** `[CRITICAL ANALYSIS #N]` and narrow the stated reach. Do not delete the claim. |
-| Claim untraceable after genuine effort | Mark `[TRACE NEEDED]`, log in `docs/research_questions.md`. Leave the text. |
+| Claim untraceable after genuine effort | Log in `docs/research_questions.md` (§ 3.4a: do not write `[TRACE NEEDED]` into a Works Cited entry). For a claim in running prose rather than a bibliography, `EDITORIAL_ANNOTATION_MANUAL.md`'s own markers govern; leave the text either way. |
 | Correct treatment not established by the library | **No edit.** Research question + ledger note. |
 
 Annotations follow `EDITORIAL_ANNOTATION_MANUAL.md` exactly: header block after the title, at least one inline note in the body (NotebookLM does not carry context across fragments), `Established correction (library)` pointing at a document inside `data/`, no folder path, no extension.

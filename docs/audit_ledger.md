@@ -20,6 +20,8 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > **Awaiting external answers**: None.
 >
 > **Worth knowing**: Two `EVOLVING_CONCEPTUAL_STRAINS.md` items are open for corpus-wide re-audit, both from 2026-08-20 — **#16** Pillar 43 Historical Encoding (earlier annotations need replacing, not extending) and **#26** Paleolithic Geometric Signs. Worth knowing about when you meet a document that touches either; not an instruction to seek them out.
+>
+> `docs/BIBLIOGRAPHY_STANDARDS.md` was added 2026-09-21 and is now required reading alongside `CLAUDE.md` (procedure § 0). It replaces the old `[P]`/`[S]`/`[T]`/`[E]`/`[W]` type-code system with a categorized Works Cited format, and bans citing personally-hosted files (`drive.google.com` links included) as sources. No document has been brought into line with it yet — the 35 documents already known to carry `drive.google.com` citations (found by grep at the standard's introduction) are ordinary candidates under the usual signals, not a separate pass.
 
 ---
 
@@ -75,7 +77,7 @@ Add an entry when a problem looks like it will recur. Update the existing entry 
 
 | Pattern | What it looks like | Handling | Seen in |
 |---|---|---|---|
-| _None recorded yet._ | | | |
+| Personal Drive PDF cited as a source | A `## Works Cited` (or raw numbered list) entry linking `drive.google.com`, naming a file like `experiences_part-024.pdf` or a personal scan of a published work | Never leave standing. Publication → cite it properly under Primary/Scholarly. Belongs in this repo → Internal Library Document, relative link. Neither → `[TRACE NEEDED]` + research question. Full routing: `docs/BIBLIOGRAPHY_STANDARDS.md`. | 35 documents confirmed by grep at the standard's introduction (2026-09-21); not yet remediated |
 
 Candidates to watch for in early runs, from the corpus's history — confirm before treating any as established:
 

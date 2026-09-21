@@ -277,21 +277,17 @@ See `docs/EDITORIAL_ANNOTATION_MANUAL.md` for complete instructions including:
 
 1. **Pursue the original** — If a document cites Swedenborg, cite Swedenborg directly with book/section
 2. **Verify Gemini references** — When Gemini Deep Research cites internal documents, verify whether the actual claim originates from an external web resource or scholarly source. Internal documents are valid as synthesis sources but should not obscure the original evidence.
-3. **Distinguish source types**:
-   - `[P]` Primary — Original texts (Swedenborg, Scripture, ancient sources)
-   - `[S]` Secondary — Scholarly analysis (papers, monographs)
-   - `[T]` Tertiary — Framework synthesis (our data/ documents)
-   - `[E]` Empirical — Research data (NDE studies, DOPS cases)
-   - `[W]` Web — Verified web resources
-4. **Flag untraced claims** — Mark with `[TRACE NEEDED]` when original source is unknown
-5. **Preserve the chain** — Document the full path, not just endpoints
+3. **Flag untraced claims** — Mark with `[TRACE NEEDED]` when the original source is unknown, and log it to `docs/research_questions.md`
+4. **Preserve the chain** — Document the full path, not just endpoints
 
-**Example Source Chain**:
-```
-1. [T] `data/02_Swedenborgian_Theology/The Science of Correspondences.md`
-2. [S] Woofenden, "Swedenborg's Philosophy of Causality" (2003)
-3. [P] Swedenborg, Divine Love and Wisdom §§ 83-85
-```
+**How a source list is formatted, and what a source is allowed to be** — full standard in `docs/BIBLIOGRAPHY_STANDARDS.md`:
+
+- Every `data/` document's source list is a single `## Works Cited` section, entries grouped under **Primary Sources**, **Scholarly Works**, **Internal Library Documents**, and **Data Sources** (omit any category with nothing in it), each in full Chicago-style citation — see `data/00_Master_Theses/` for the working example.
+- No `[P]`/`[S]`/`[T]`/`[E]`/`[W]` bracket tags on entries — that inline type-code system is retired; the category headers already say what kind of source a citation is.
+- No `drive.google.com` links, or any other personally-hosted file, cited as a source. A citation must be independently checkable by a reader without access to the author's Drive — cite the actual publication instead, or the internal document it belongs to, or mark `[TRACE NEEDED]` if no real source exists.
+- No audit provenance in the document — no "(verified 2026-09-21)", no reference to the audit ledger or a PR. That state lives only in `docs/audit_ledger.md`.
+
+This is distinct from the `[CORRECTION #N]` / `[EVOLVED #N]` editorial annotation system (`docs/EDITORIAL_ANNOTATION_MANUAL.md`), which flags where the corpus's conceptual position has moved past what a document says. Bibliography standards govern whether a source is real and reachable; editorial annotations govern whether a claim is current. Neither substitutes for the other.
 
 ---
 

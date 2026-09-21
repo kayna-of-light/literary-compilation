@@ -260,6 +260,8 @@ A small number of documents instead use `### Primary Sources [P]` / `### Seconda
 
 Do not write `[TRACE NEEDED]` (or any other Source Tracing Protocol code) into a Works Cited entry. An unresolved section reference or unverified passage is logged in the research-question register (§ 3.6, § 4.4) with enough context to find it again — the citation itself stays in the document's normal form once it is correctly named.
 
+**Never write a path into `docs/` — `research_questions/`, `audit_ledger.md`, this procedure, or anything else under the job's own machinery — into a `data/` document.** These are finished, published documents, not audit notepads. A reader of the corpus should never see "see `docs/research_questions/...`" or any other pointer back to this job. The research-question register cites the document; the document never cites it back.
+
 ### 3.5 Validate the claims
 
 Read for correctness within the framework — `CLAUDE.md` § "Valid Critiques":

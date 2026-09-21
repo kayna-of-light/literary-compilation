@@ -219,6 +219,14 @@ Other cleanup:
 
 **Never write audit provenance into the document.** No "(verified 2026-09-21)", no mention of the ledger, no PR reference, inside the Works Cited section or anywhere else in the body. The document describes what was consulted; the history of checking it belongs only in `docs/audit_ledger.md`.
 
+### 3.4b Completeness — the whole list, not just the claims you checked
+
+**This is the point of the job, not a secondary tidy-up.** Cleaning the source list and finding the actual primary sources behind weak citations is what "auditing a document" means here — checking a handful of claims and leaving the rest of the bibliography untouched is not a partial version of the job, it is a different, smaller job that happens to look similar.
+
+A document does not count as `corrected` in the ledger, and does not get closed out, until **every entry in its Works Cited has been brought into line with `docs/BIBLIOGRAPHY_STANDARDS.md`** — not only the entries behind the specific claims that got investigated in § 3.5. Concretely: if a document has 15 bibliography entries and the night's work verified 5 underlying claims, all 15 entries still get checked against § 3.3's table and reformed under § 3.4, including the ones that don't happen to support a claim you chose to fact-check. A raw numbered list of bare URLs, Scribd reposts, and forum links sitting untouched next to five newly-verified inline facts is not a corrected document — `docs/BIBLIOGRAPHY_STANDARDS.md` § "No unmoderated or reposted sources" exists because of exactly this failure mode, caught once already in this corpus (see the pattern register).
+
+If the full list genuinely cannot be finished in one night — some documents run to 30+ entries — that is a **`partial`** outcome, not `corrected`: ledger the entries actually finished, leave the rest for the next run on this same document, and say so plainly in the PR. `partial` is an honest, acceptable outcome. A document marked `corrected` with its bibliography half-done is not.
+
 ### 3.5 Validate the claims
 
 Read for correctness within the framework — `CLAUDE.md` § "Valid Critiques":

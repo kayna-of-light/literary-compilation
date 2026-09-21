@@ -170,7 +170,7 @@ Embedded within the Hebrew text are "lexical fossils"—words that belong to an 
 
 ### **5.1 The *Qesitah* (Genesis 33:19, Job 42:11)**
 
-The *qesitah* is a monetary unit mentioned only in the Jacob narratives and Job.
+The *qesitah* is a monetary unit mentioned only in the Jacob narratives, Joshua 24:32 (the same Shechem purchase) and Job.
 
 * **Data Point:** Its value is unknown in the standard biblical weight system (shekel, mina, talent), and the Septuagint translates it as "lambs" (*amnon*).  
 * **Archaeological Correlation:** This translation aligns with archaeological finds of weights in the shape of sheep/lambs from the second millennium B.C.E. found in Mesopotamia and the Levant.38 The term likely refers to a specific weight standard used prior to the standardization of the shekel in the Iron Age.  

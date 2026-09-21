@@ -2,21 +2,29 @@
 
 **Target Systems**: `[NLM]` × 2, `[GDR]` × 1
 **Domain**: Swedenborgian Theology / Biblical Philology
-**Status**: Open
+**Status**: ✅ RESOLVED — all three, 2026-09-21 (see `## Resolution` under each question below and the corresponding entries in `../../resolved_research_questions.md`)
 **Created**: 2026-09-21
-**Raised by**: Nightly source and claim audit — see [`audit_ledger.md`](../audit_ledger.md)
+**Raised by**: Nightly source and claim audit — see [`audit_ledger.md`](../../audit_ledger.md)
 
-In every case below the library did **not** settle the question, so **no edit was made** to the
-text, per [`NIGHTLY_SOURCE_AUDIT.md`](../NIGHTLY_SOURCE_AUDIT.md) § 0. Do not resolve these by
-guessing — an unresolved question is the designed outcome.
+> **Archive note (2026-09-21)**: This file moved from `docs/research_questions/` to
+> `docs/research_questions/resolved/` per the existing convention for finished per-question files
+> (see the `nhl_*` and `32_signs_*` files alongside it). All three questions below are resolved —
+> the original text is preserved unedited; each resolution is appended as a `## Resolution` section.
+> The full write-up for each also lives as its own entry in `docs/resolved_research_questions.md`,
+> which is the file to search first; this per-question file is the detailed archival record.
 
-> **Note for the maintainer**: the procedure's § 4.4 asks for these to be appended to the monolithic
-> `docs/research_questions.md`. This run could not do that. Its only available write path to the
-> repository was the GitHub MCP API, which replaces a file by sending its **entire** content, and
-> `research_questions.md` is ~156 KB that the run had not read in full — re-transmitting it by hand
-> risked silently corrupting the project's main question register. These questions are therefore
-> filed using the `docs/research_questions/` per-question convention instead. Folding them into the
-> monolithic file is a safe local edit for anyone with normal `git push` access.
+In every case below the library did **not** settle the question at the time it was raised, so **no
+edit was made** to the text at that point, per [`NIGHTLY_SOURCE_AUDIT.md`](../../NIGHTLY_SOURCE_AUDIT.md)
+§ 0. All three were subsequently resolved through external verification the same day — see below.
+
+> **Note for the maintainer, preserved from the original filing**: the procedure's § 4.4 asks for
+> these to be appended to the monolithic `docs/research_questions.md`. The run that raised them
+> could not do that. Its only available write path to the repository was the GitHub MCP API, which
+> replaces a file by sending its **entire** content, and `research_questions.md` is ~156 KB that the
+> run had not read in full — re-transmitting it by hand risked silently corrupting the project's main
+> question register. These questions were therefore filed using the `docs/research_questions/`
+> per-question convention instead. They have since been folded into `resolved_research_questions.md`
+> as resolved entries, from a session with normal `git push` access.
 
 ---
 
@@ -66,6 +74,10 @@ which call the Christian Church "the Third Church." Question 2 above looks answe
 is the superseded term — but the correction (annotation + strain, not rewrite, per § 3.6) has not
 been applied; left for the next run or explicit go-ahead given it touches two documents.
 
+### Resolution (2026-09-21)
+
+The correction was applied the same day. Filed as strain **#27** in `EVOLVING_CONCEPTUAL_STRAINS.md`. Both `The Heart of the Matter` and `Conversation relating the Fourth Church` were annotated per the manual — header block plus inline `[CORRECTION #27]` notes at every occurrence (four in the first, two in the second). Full write-up: `docs/resolved_research_questions.md`, "Church Numbering: Is the Christian Church the Third or the Fourth Church?"
+
 ---
 
 ## 2. [NLM] Three Missing Swedenborg Section References
@@ -103,6 +115,16 @@ section-by-section as HTML.
 3. Which section of *Arcana Coelestia* establishes "Jerusalem" as signifying the church as to
    doctrine (as distinct from "Zion" as the church as to love)?
 
+### Resolution (2026-09-21)
+
+All three located by reading the Swedenborg Foundation Standard Edition PDFs directly (Google Drive) and cross-checking against e-swedenborg.com:
+
+1. John 19:26–27 → **Apocalypse Explained § 9** (vol. 1, §§ 1–295) — the exact quotation confirmed verbatim.
+2. Revelation 14:1 → **Apocalypse Revealed § 612** (vol. 2, §§ 612–962) — confirmed, and happens to be the opening section of the volume.
+3. "Jerusalem" as doctrine → **Arcana Coelestia § 10037** (vol. 12, §§ 9974–10837) — confirmed, with the precise antithesis to "Zion" as love quoted directly.
+
+Locating these also caught two volume misattributions already in the document — the AC citation said vol. 5 (§§ 3650–4228, cannot contain § 10037) and the already-verified AE § 411 citation said vol. 1 (§§ 1–295, cannot contain § 411 — it is vol. 2). Both corrected along with the section additions. `The Heart of the Matter`'s Works Cited section was rewritten per `docs/BIBLIOGRAPHY_STANDARDS.md` in the same pass, dropping the Drive-link "author's scan" citations for full published-edition citations. Full write-up: `docs/resolved_research_questions.md`, "Three Missing Swedenborg Section References in *The Heart of the Matter*."
+
 ---
 
 ## 3. [GDR] Is the Archaic Relative Pronoun *zu* Attested at Exodus 15:13?
@@ -133,3 +155,9 @@ No edit was made pending clarification.
    attested form and reconstructed form is visible?
 3. Independently: which verses attest *zu* as a relative pronoun in the MT, and does any of them
    fall within the Archaic Poetry corpus?
+
+### Resolution (2026-09-21)
+
+The premise in the Context section above was mistaken, not the document. Checked directly against the Masoretic Text via three independent sources (Mechon-Mamre's digitized MT, and the StudyLight and BibleHub interlinears): **both Exodus 15:13 and 15:16 read עַם־זוּ (*'am zu*)**, with a *vav*, not עַם־זֶה (*'am zeh*) with a *heh*. BibleHub gives it as Strong's **H2098**, *zū*, glossed "Pronoun - relative ... whom." *zu* is directly attested in the received text at both verses — there is no *zeh* reading to reconstruct behind, and the Cross–Freedman citation question (research question 1 above) does not need to be resolved to settle this: the document's table entry is correct as written regardless of what that specific monograph says about the word's cognates.
+
+No edit was needed to `Lexical Fossil Inventory`. Full write-up: `docs/resolved_research_questions.md`, "Is the Archaic Relative Pronoun *zu* Attested at Exodus 15:13?"

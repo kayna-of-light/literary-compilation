@@ -39,8 +39,8 @@
   - [Appendix A: The Tiered Dating Table](#appendix-a-the-tiered-dating-table)
   - [Appendix B: The Stratigraphic Layers of the Kephalaia](#appendix-b-the-stratigraphic-layers-of-the-kephalaia)
   - [Works Cited](#works-cited)
-    - [Primary Sources \[P\]](#primary-sources-p)
-    - [Companion Theses in the Library \[T\]](#companion-theses-in-the-library-t)
+    - [Primary Sources](#primary-sources)
+    - [Internal Library Documents](#internal-library-documents)
 
 ---
 
@@ -158,6 +158,8 @@ Begin with the external testimony, because it frames the problem. The tenth-cent
 The answer is correspondential resolvability. An inherited correspondential system has a property that an invented or arbitrarily syncretic one does not: because its images are grounded in function rather than convention, they resolve coherently when decoded by function, and they invert consistently in the opposite sense wherever the function is turned against its end. This is a testable property of a body of text, and it is not a property a composer can fake by assembling images at random, because randomness does not resolve. Where a text exhibits a large, internally consistent, function-grounded correspondential system — one that decodes coherently across hundreds of images and inverts predictably — the system is the signature of an inherited tradition, not of the redactor who framed it.
 
 The *Kephalaia* exhibits exactly such a system, and its most diagnostic instance is the body-cosmos map of Chapter 38. In preserved text the chapter builds the universe "after the likeness of a man" and assigns its parts by function: "His ribs are all the firmaments"; "His navel is the sphere of the stars and the signs of the zodiac." The same chapter maps the soul into the body by the same functional logic, binding each faculty to the tissue whose office it shares — mind to bone (the frame that supports), thought to sinew (that which binds and moves), teaching to vein (that which carries nourishment through the body), counsel to flesh, reflection to skin. These are not arbitrary pairings; each rests on what the part *does*, which is the defining mark of correspondence as against allegory.
+
+> **[CRITICAL ANALYSIS — unresolved, primary source needed]**: Independent verification (2026-09-21) found the published chapter title of Gardner's *Kephalaia of the Teacher* Chapter 38 to be "On the Light-Mind, the Apostles, and the Saints" across three independent secondary sources, none of which describe body-cosmos content, while a separate chapter title, "On the Body, That It Was Made to Resemble the Cosmos" (Chapter 70), matches this section's description exactly — zodiacal signs mapped to body parts, melothesiac organ correspondences. This citation, and every other "Chapter 38" reference in this document, may need to read "Chapter 70." This was not corrected in place: the "Chapter 38" attribution originates upstream in *The Ancient Word Recovered* (which this thesis and several others build on) and could not be checked tonight against Gardner's primary text rather than secondary summaries. See the logged research question for the verification this needs before any number is changed.
 
 What makes this a transmission fingerprint rather than merely an instance of the framework is that the *same* body-cosmos map is independently attested in the Iranian tradition, in a text that owes nothing to the *Kephalaia* and was transmitted along a different line. The twenty-eighth chapter of the *Bundahišn*, the Middle Persian compendium that preserves the cosmology of the lost *Dāmdād Nask*, sets out the microcosm-macrocosm correspondence in the same terms: the skull answers to the sky, the brain to the stars, the eyes to the sun and moon, the hair to the plants, the veins to the rivers, the bones to the mountains, the breath to the wind. The Manichaean map and the Zoroastrian map are two witnesses to one architecture, and the architecture is demonstrably older than either witness, because it is the thing both inherited. The fingerprint is the match: a function-grounded correspondential body-cosmos map appearing in a third-century Syriac-Manichaean composition and in a Middle Persian Zoroastrian compendium, in the same structure, is the trace of a common Magian source that both received.
 
@@ -354,21 +356,19 @@ The table below sets out the three depositional layers the stratigraphic method 
 
 ## Works Cited
 
-Source types follow the framework convention: **[P]** primary, **[S]** secondary, **[T]** tertiary (framework synthesis), **[E]** empirical, **[W]** verified web.
-
-### Primary Sources [P]
+### Primary Sources
 
 - Swedenborg, Emanuel. *Arcana Coelestia.* §§66, 1020, 1238, 2896–2897. (Genesis 1–11 as correspondential composition rather than literal history; the *Bene Qedem* as retainers of the knowledge of correspondences.)
 - Swedenborg, Emanuel. *Divine Love and Wisdom.* §§184–188. (The doctrine of discrete degrees: celestial, spiritual, natural.)
 - Swedenborg, Emanuel. *True Christian Religion.* §279. (The Ancient Word reported still extant "in Great Tartary.")
-- *The Kephalaia of the Teacher* (Medinet Madi Coptic Manichaean codex). Chapters 11, 38, 72, 115. Translated by Iain Gardner. (Chapter 72, "Concerning the worn and torn apart Garments," supplies the name-stripping testimony of §4; Chapter 38 supplies the body–cosmos and body–soul maps of §5.)
+- *The Kephalaia of the Teacher* (Medinet Madi Coptic Manichaean codex). Chapters 11, 38, 72, 115. Translated by Iain Gardner. (Chapter 72, "Concerning the worn and torn apart Garments," supplies the name-stripping testimony of §4; Chapter 38 supplies the body–cosmos and body–soul maps of §5 — **see the §5 critical-analysis note: independent secondary sources describe Chapter 38 as "On the Light-Mind, the Apostles, and the Saints" and Chapter 70 as "On the Body, That It Was Made to Resemble the Cosmos," suggesting this citation and its downstream propagation may need correction to Chapter 70, unverified against the primary Gardner text as of this audit.** Chapter 115, cited here as "the regenerative micro-architecture," is titled in one independent secondary source "The Catechumen asks the Apostle: Will Rest come about for Someone who has come out of the Body..." rather than a bridal-chamber narrative — weaker, inconclusive evidence than the Chapter 38 finding, but flagged for the same primary-source check.)
 - *The Apocryphon of John* (Nag Hammadi Codex II,1). (The head-to-feet 365-angel body-creation list and the citation, "it is written in the book of Zoroaster," of §6.)
 - *Greater Bundahišn.* Chapter 28. (The Zoroastrian microcosm–macrocosm correspondence independently matched against *Kephalaia* Chapter 38 in §5.)
 - Ibn al-Nadim. *Kitāb al-Fihrist.* (The report that Mani drew his doctrine from the Magi, cited in §5.)
 - Plutarch. *De Iside et Osiride* 46–47. (Preserving Theopompus of Chios, c. 380–315 BCE, on Magian cosmology — the fourth-century-BCE doxographic checkpoint of §9.)
 - *The Gāthās.* Yasna 30.3–4, 30.9. (Old Avestan twin-Spirits protology and the *frašegird*, the deep Iranian-branch checkpoint of §9.)
 
-### Companion Theses in the Library [T]
+### Internal Library Documents
 
 - [The Ancient Word Recovered: Extracting the Correspondential Substrate of the Kephalaia](../00_Framework/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md) — establishes the substrate this thesis dates and documents the eight-stage stratigraphic pipeline of §2.3.
 - [The Children of the East: Israel, the Bene Qedem, and the Forging of the Word from Nomadic Wisdom to Covenantal Scripture](../00_Master_Theses/The%20Children%20of%20the%20East_%20Israel%2C%20the%20Bene%20Qedem%2C%20and%20the%20Forging%20of%20the%20Word%20from%20Nomadic%20Wisdom%20to%20Covenantal%20Scripture.md) — reconstructs the *Bene Qedem* matrix as the historical root of §7.

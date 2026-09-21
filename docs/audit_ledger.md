@@ -23,12 +23,18 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > follow-up session had full `git push` access throughout, from an interactive session with this repo
 > explicitly attached as a source from the start — consistent with the issue's own explanation
 > (credentials are injected per-session, not per-repo-globally), and *not* evidence that the routine
-> itself is fixed. Whether attaching the repository in the routine's own "Select a repository" field
-> (web UI, separate from the environment's sources) resolves it for a **scheduled, routine-fired**
-> session has not been tested. If a future run still hits the 403 after that field is set, the
-> problem is confirmed to be routine-firing specifically, not environment configuration — worth
-> saying explicitly in that night's PR so the pattern is tracked. The MCP fallback (`mcp__github__*`)
-> remains the safety net either way.
+> itself was fixed.
+>
+> **2026-09-21, later the same day**: the maintainer set the repository explicitly in the routine's
+> own "Select a repository" field (web UI, separate from connectors). This is the correct target per
+> the GitHub issue's own explanation, and a Google Drive connector was added to the routine at the
+> same time — useful regardless, since it's what let today's follow-up session read the actual
+> Swedenborg PDFs directly rather than depending on hosts that 403 (see run log and pattern register).
+> **First real test is tonight's scheduled fire.** If § 1's precheck still 403s after this, the
+> problem is confirmed to be routine-firing specifically, not missing repo configuration — say so
+> explicitly in that night's PR, and note it here so the question doesn't get re-litigated. If it
+> succeeds, this whole note can be trimmed to a one-line closed note next time someone touches this
+> file.
 >
 > `docs/BIBLIOGRAPHY_STANDARDS.md` bibliography is the standard now, no caveats: a personal-file link
 > is **never** kept, not even relabelled as the author's scan. The three Swedenborg citations this run

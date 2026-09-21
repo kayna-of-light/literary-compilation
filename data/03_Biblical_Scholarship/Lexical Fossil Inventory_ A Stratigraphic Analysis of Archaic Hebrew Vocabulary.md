@@ -40,7 +40,7 @@ Philological analysis initiated by Mitchell Dahood and substantiated by the Ebla
 
 The implications are profound. The agriculture of the Levant (Canaan) is rain-fed (*baal*\-agriculture), dependent on the seasonal rains. The agriculture of Mesopotamia is irrigation-fed, dependent on the rising of the rivers and the water table. By preserving the term *'ed*, the Genesis narrative retains a "memory" of a specific hydro-agricultural system that does not exist in the highlands of Judah. The word is a fossil of the riverine civilization where the tradition originated. Its reappearance in Job 36:27—"For he maketh small the drops of water: they pour down rain according to the *'ed* thereof"—confirms its technical meteorological nuance.5
 
-### **2.2 *Tehom* (תְהוֹם): The Depersonified Deep**
+### **2.2 *Tehom* (תְּהוֹם): The Depersonified Deep**
 
 **Biblical Location:** Genesis 1:2; Psalm 104:6; Proverbs 8:24.
 
@@ -104,7 +104,7 @@ This lexical link suggests that the Eden narrative employs technical craft vocab
 
 The second major stratum of lexical fossils corresponds to the Late Bronze Age (LBA). This period, illuminated by the archives of Ugarit (c. 1300 BCE) and the Amarna Letters (c. 1350 BCE), provides the context for the earliest Hebrew poetry (*Exodus 15, Judges 5, Deuteronomy 32*). The cognates here are often poetic, mythological, and military, reflecting the "Canaanite Matrix" from which early Yahwism emerged.
 
-### **3.1 *Pelilim* (פְּלִילִים): The Parched Enemies**
+### **3.1 *Pelilim* (פְּלִילִים): The Parched Enemies**
 
 **Biblical Location:** Deuteronomy 32:31.
 
@@ -138,7 +138,7 @@ The title *Tsur* ("Rock") for God is a dominant metaphor in the Song of Moses (D
 
 The high density of *Tsur* as a divine epithet in Deut 32 (and its relative scarcity in LBH) marks it as a fossil of the LBA theological vocabulary, where deities were frequently identified with their sacred mountains (Zaphon, Sinai) or the permanence of the mountain itself.13
 
-### **3.4 *Resheph* (רֶשֶף): The Plague God**
+### **3.4 *Resheph* (רֶשֶׁף): The Plague God**
 
 **Biblical Location:** Habakkuk 3:5; Deuteronomy 32:24.
 
@@ -148,7 +148,7 @@ In Habakkuk 3:5, describing the theophany of Yahweh, the text states: "Before hi
 
 However, in the Ugaritic pantheon, *Resheph* is the god of plague and the underworld, the porter of the sun goddess Shapash (Šapšu). *Shemesh* is the Hebrew word for sun, not the name of the Ugaritic deity. In the Eblaite archives, *Ra-sa-ap* is a major deity. The biblical usage in Habakkuk and Deuteronomy preserves the *personification* of the term. Yahweh is depicted as accompanied by a retinue where *Deber* (Plague) and *Resheph* (Pestilence) are demythologized servants or weapons, rather than independent deities. The retention of the name *Resheph* in this specific context is a fossil of the Canaanite mythos absorbed into Yahwistic imagery.9
 
-### **3.5 *Tiraš* (תִּירָש): The Archaic Wine**
+### **3.5 *Tiraš* (תִּירָשׁ): The Archaic Wine**
 
 **Biblical Location:** Genesis 27:28; Deuteronomy 33:28; Hosea 2:8.
 
@@ -217,25 +217,25 @@ The following table synthesizes the data extracted from the Stratigraphy documen
 | Word (Hebrew) | Transliteration | Biblical Location | Proposed Meaning | Cognate Language | Cognate Form | Scholarly Source | Date Constraint / Status |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | **אֵד** | *'ed* | Gen 2:6; Job 36:27 | Ground water / Flow | Eblaite / Sumerian | *i-du* / *a.dé* | Dahood / Pettinato | Extinct by 2000 BCE; technical irrigation term.3 |
-| **תְהוֹם** | *tehom* | Gen 1:2; Ps 104:6 | Abyss (Impersonal) | Eblaite | *ti-a-ma-tum* | Tsumura / Dahood | Pre-dates Babylonian *Tiamat*; West Semitic common noun.7 |
+| **תְּהוֹם** | *tehom* | Gen 1:2; Ps 104:6 | Abyss (Impersonal) | Eblaite | *ti-a-ma-tum* | Tsumura / Dahood | Pre-dates Babylonian *Tiamat*; West Semitic common noun.7 |
 | **מַבּוּל** | *mabbul* | Gen 6–11; Ps 29:10 | Catastrophic Deluge | Eblaite / Akkadian | *ma-ba-lum* / *bubbulu* | Dahood / Stol | Technical hydro-lexicon of Mesopotamian basin; extinct in LBH.1 |
-| **קְשִׂיטָה** | *qesitah* | Gen 33:19; Josh 24:32; Job 42:11 | Currency Unit | Eblaite / Ugaritic | *qestum* / *qśt* | Huehnergard | Extinct by Iron Age I; absent from 1st Mill. epigraphy.1 |
+| **קְשִׂיטָה** | *qesitah* | Gen 33:19; Josh 24:32; Job 42:11 | Currency Unit | Eblaite / Ugaritic | *qestum* / *qśt* | Huehnergard | Extinct by Iron Age I; absent from 1st Mill. epigraphy.1 |
 | **מו** | *mw* | Job 9:30 | Water (Nominative) | Eblaite / Ugaritic | *mû* / *mw* | Rendsburg / Dahood | Archaic orthography; Masoretic vocalization confused with *bemo*.1 |
 | **מִנְלָם** | *min'lam* | Job 15:29 | Wealth / Property | Eblaite | *ma-ni-lum* | Rendsburg | Hapax legomenon; commercial term of 3rd Mill. Syria.9 |
 | **חֲגֹרֹת** | *hagoroth* | Gen 3:7 | Aprons / Garments | Eblaite | *lú a-gu-ra* (Tailor) | Dahood | Linked to Eblaite professional lists (Lu List).1 |
 | **כֹּפֶר** | *kopher* | Gen 6:14 | Pitch / Bitumen | Akkadian | *kupru* | Standard | Bilingual pun (*kaphar* atonement); loan from Akkadian technology. |
 | **תֵּבָה** | *tebah* | Gen 6:14; Ex 2:3 | Ark / Box | Egyptian / Eblaite | *db3t* / *tib-ba* | Standard | Archaic container term; distinct from standard *'aron*. |
 | **צֹהַר** | *tsohar* | Gen 6:16 | Roof / Opening | Ugaritic | *ẓhr* (Glisten/Noon) | Standard | Hapax; archaic root related to light/noon. |
-| **פְּלִילִים** | *pelilim* | Deut 32:31 | Parched / Crumbling | Ugaritic | *p-l-l* | TheTorah / Ugaritic Studies | Misinterpreted as "judges" in later Hebrew; fossilized consonantal root.12 |
+| **פְּלִילִים** | *pelilim* | Deut 32:31 | Parched / Crumbling | Ugaritic | *p-l-l* | TheTorah / Ugaritic Studies | Misinterpreted as "judges" in later Hebrew; fossilized consonantal root.12 |
 | **זו** | *zu* | Ex 15:13 | Whom (Relative Pronoun) | Proto-NW Semitic | *dū* / *ḏū* | Cross / Freedman | Archaic relative pronoun replaced by *asher* in SBH.12 |
 | **מִגְדָּל** | *migdal* | Gen 11:4 | Tower / Fortress | Eblaite / Akkadian | *magdalu* | Rendsburg | Reflects Mesopotamian ziggurat/fortress architecture.3 |
-| **שָשֵר** | *shasher* | Jer 22:14 | Vermilion / Red Dye | Eblaite | *Sišeru* (Deity?) | Dahood | Linked to Eblaite deity of textile/dye prosperity.15 |
+| **שָׁשֵׁר** | *shasher* | Jer 22:14 | Vermilion / Red Dye | Eblaite | *Sišeru* (Deity?) | Dahood | Linked to Eblaite deity of textile/dye prosperity.15 |
 | **מַמְלָכָה** | *mamlakah* | Sam/Kings (Pre-Exilic) | Kingdom | Standard BH | N/A | Young / Rezetko | Replaced by *malkut* in Post-Exilic texts.6 |
 | **יְכַסְיֻמוּ** | *yekhasyumu* | Ex 15:5 | They covered them | Ugaritic | *yqtl* \+ *mu* | Cross / Freedman | Retains archaic *yqtl* preterite and enclitic *\-mu*.12 |
-| **עִברִי** | *Ivri* | Gen 10:21 (Eber) | Eber / Region | Eblaite | *Ebrium* / *Ibrium* | Pettinato | Royal name at Ebla; validates antiquity of the name type.1 |
-| **פֶלֶג** | *Peleg* | Gen 10:25 | Division / Canal | Akkadian / Eblaite | *palagu* | Rendsburg | Refers to irrigation canals/division of land. |
-| **רֶשֶף** | *Resheph* | Hab 3:5; Deut 32:24 | Pestilence / Plague God | Ugaritic / Eblaite | *Ršp* / *Ra-sa-ap* | Dahood | Demythologized Canaanite deity fossilized as "plague".9 |
-| **תִּירָש** | *Tirosh* | Gen 27:28; Hos 2:8 | New Wine | Ugaritic | *trš* | Dahood | Archaic poetic parallel to *yayin*; fossilized in blessings.3 |
+| **עִבְרִי** | *Ivri* | Gen 10:21 (Eber) | Eber / Region | Eblaite | *Ebrium* / *Ibrium* | Pettinato | Royal name at Ebla; validates antiquity of the name type.1 |
+| **פֶּלֶג** | *Peleg* | Gen 10:25 | Division / Canal | Akkadian / Eblaite | *palagu* | Rendsburg | Refers to irrigation canals/division of land. |
+| **רֶשֶׁף** | *Resheph* | Hab 3:5; Deut 32:24 | Pestilence / Plague God | Ugaritic / Eblaite | *Ršp* / *Ra-sa-ap* | Dahood | Demythologized Canaanite deity fossilized as "plague".9 |
+| **תִּירָשׁ** | *Tirosh* | Gen 27:28; Hos 2:8 | New Wine | Ugaritic | *trš* | Dahood | Archaic poetic parallel to *yayin*; fossilized in blessings.3 |
 | **צוּר** | *Tsur* | Deut 32 | Rock (Divine Title) | Ugaritic | *gr* | Dahood | Divine epithet common in LBA, rare in LBH.13 |
 
 ## ---

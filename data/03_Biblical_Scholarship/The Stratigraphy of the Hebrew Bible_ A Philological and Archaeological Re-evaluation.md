@@ -289,7 +289,7 @@ The YRE critique and Eblaite data challenge this dating significantly. Job may p
 Job is notorious for its difficult vocabulary (*hapax legomena*). Eblaite studies have proposed explanations for some of these, but the cognates vary in scholarly acceptance.
 
 **Well-Established:**
-* **The *qesitah* (Job 42:11):** Job is rewarded with a *qesitah* (a unit of currency). This unit appears elsewhere only in the Jacob narratives (Gen 33:19). It is unknown in the first millennium, where the *shekel* was the standard. The term's archaic status is widely accepted.[^qesitah]
+* **The *qesitah* (Job 42:11):** Job is rewarded with a *qesitah* (a unit of currency). This unit appears elsewhere only in the Jacob narratives (Gen 33:19) and in Joshua 24:32, which records that same Shechem purchase. It is unknown in the first millennium, where the *shekel* was the standard. The term's archaic status is widely accepted.[^qesitah]
 
 **Plausible but Debated:**
 * **The term *mw* (Job 9:30):** The MT reads *bemo-sheleg* ("with snow water"). Eblaite texts attest *mû* as the nominative form for "water," which was replaced by *mayim* in standard Hebrew.[^gordis-job] If this reading is correct, Job preserves a form extinct by the second millennium. However, some scholars parse *bemo* differently (as a poetic particle), so this cognate is debated.
@@ -472,7 +472,7 @@ This is not an argument—it is a documented absence. Either the texts circulate
 
 ### **D. The Archaizing Challenge: A Logical Possibility with Documented Constraints**
 
-**Documented Finding:** Some archaic vocabulary in the Hebrew Bible appears to be extinct—unattested in any LBH text that might serve as a source for deliberate archaizing (e.g., *qesitah* appears only in Job and Genesis; *mw* if authentic is unattested elsewhere).
+**Documented Finding:** Some archaic vocabulary in the Hebrew Bible appears to be extinct—unattested in any LBH text that might serve as a source for deliberate archaizing (e.g., *qesitah* appears only in Job, Genesis and Joshua 24:32; *mw* if authentic is unattested elsewhere).
 
 **Logical Challenge:** Deliberate archaizing requires access to archaic models. The extinction of certain vocabulary constrains the archaizing hypothesis: a Persian-period scribe cannot deliberately use vocabulary that had vanished from the linguistic record unless they had access to very ancient texts—which confirms textual antiquity even if the scribe is late.
 
@@ -492,7 +492,7 @@ The findings documented in this study emerge from six independent research progr
 
 ### **A. The Lexical Evidence**
 
-The philological case for antiquity rests on vocabulary that appears in biblical texts but was extinct or transformed by the time of the standard Hebrew of the monarchy. A comprehensive inventory of these "lexical fossils" documents their cognate relationships and attestation patterns.[^lexical-inventory] The strongest cases include *'ed* (the Eblaite/Sumerian irrigation term in Genesis 2:6), *tehom* (attested as a common noun at Ebla before its mythologization as Tiamat), *mabbul* (the technical flood term with Eblaite *ma-ba-lum* cognate), and *qesitah* (the archaic currency unit appearing only in Job and Genesis, unknown in the first millennium).[^qesitah] The case for *mw* as an archaic nominative form for "water" in Job 9:30 remains debated, as some scholars parse *bemo* as a poetic particle rather than a compound.[^gordis-job]
+The philological case for antiquity rests on vocabulary that appears in biblical texts but was extinct or transformed by the time of the standard Hebrew of the monarchy. A comprehensive inventory of these "lexical fossils" documents their cognate relationships and attestation patterns.[^lexical-inventory] The strongest cases include *'ed* (the Eblaite/Sumerian irrigation term in Genesis 2:6), *tehom* (attested as a common noun at Ebla before its mythologization as Tiamat), *mabbul* (the technical flood term with Eblaite *ma-ba-lum* cognate), and *qesitah* (the archaic currency unit appearing only in Job, Genesis and Joshua 24:32, unknown in the first millennium).[^qesitah] The case for *mw* as an archaic nominative form for "water" in Job 9:30 remains debated, as some scholars parse *bemo* as a poetic particle rather than a compound.[^gordis-job]
 
 ### **B. The Economic and Legal Evidence**
 

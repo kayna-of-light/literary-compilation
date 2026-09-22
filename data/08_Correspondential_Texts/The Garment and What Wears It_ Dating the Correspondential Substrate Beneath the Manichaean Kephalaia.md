@@ -39,8 +39,8 @@
   - [Appendix A: The Tiered Dating Table](#appendix-a-the-tiered-dating-table)
   - [Appendix B: The Stratigraphic Layers of the Kephalaia](#appendix-b-the-stratigraphic-layers-of-the-kephalaia)
   - [Works Cited](#works-cited)
-    - [Primary Sources \[P\]](#primary-sources-p)
-    - [Companion Theses in the Library \[T\]](#companion-theses-in-the-library-t)
+    - [Primary Sources](#primary-sources)
+    - [Internal Library Documents](#internal-library-documents)
 
 ---
 
@@ -354,9 +354,7 @@ The table below sets out the three depositional layers the stratigraphic method 
 
 ## Works Cited
 
-Source types follow the framework convention: **[P]** primary, **[S]** secondary, **[T]** tertiary (framework synthesis), **[E]** empirical, **[W]** verified web.
-
-### Primary Sources [P]
+### Primary Sources
 
 - Swedenborg, Emanuel. *Arcana Coelestia.* §§66, 1020, 1238, 2896–2897. (Genesis 1–11 as correspondential composition rather than literal history; the *Bene Qedem* as retainers of the knowledge of correspondences.)
 - Swedenborg, Emanuel. *Divine Love and Wisdom.* §§184–188. (The doctrine of discrete degrees: celestial, spiritual, natural.)
@@ -368,7 +366,7 @@ Source types follow the framework convention: **[P]** primary, **[S]** secondary
 - Plutarch. *De Iside et Osiride* 46–47. (Preserving Theopompus of Chios, c. 380–315 BCE, on Magian cosmology — the fourth-century-BCE doxographic checkpoint of §9.)
 - *The Gāthās.* Yasna 30.3–4, 30.9. (Old Avestan twin-Spirits protology and the *frašegird*, the deep Iranian-branch checkpoint of §9.)
 
-### Companion Theses in the Library [T]
+### Internal Library Documents
 
 - [The Ancient Word Recovered: Extracting the Correspondential Substrate of the Kephalaia](../00_Framework/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md) — establishes the substrate this thesis dates and documents the eight-stage stratigraphic pipeline of §2.3.
 - [The Children of the East: Israel, the Bene Qedem, and the Forging of the Word from Nomadic Wisdom to Covenantal Scripture](../00_Master_Theses/The%20Children%20of%20the%20East_%20Israel%2C%20the%20Bene%20Qedem%2C%20and%20the%20Forging%20of%20the%20Word%20from%20Nomadic%20Wisdom%20to%20Covenantal%20Scripture.md) — reconstructs the *Bene Qedem* matrix as the historical root of §7.

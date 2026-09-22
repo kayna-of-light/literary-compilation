@@ -298,11 +298,11 @@ The data support further investigation of the temporal relationship between psyc
 
 ### Analysis Repository
 
-- GitHub: https://github.com/marconian/structured-data-analysis
-- Project: [`projects/remission/`](https://github.com/marconian/structured-data-analysis/tree/main/projects/remission)
-- Primary notebook: [`remission_statistical_analysis.ipynb`](https://github.com/marconian/structured-data-analysis/tree/main/projects/remission/notebooks/remission_statistical_analysis.ipynb)
-- Statistics verification: [`extract_thesis_stats.py`](https://github.com/marconian/structured-data-analysis/tree/main/projects/remission/scripts/extract_thesis_stats.py)
-- Data schema: [`models/questionnaire.py`](https://github.com/marconian/structured-data-analysis/tree/main/projects/remission/models/questionnaire.py)
+- GitHub: https://github.com/kayna-of-light/structured-data-analysis
+- Project: [`projects/remission/`](https://github.com/kayna-of-light/structured-data-analysis/tree/main/projects/remission)
+- Primary notebook: [`remission_statistical_analysis.ipynb`](https://github.com/kayna-of-light/structured-data-analysis/tree/main/projects/remission/notebooks/remission_statistical_analysis.ipynb)
+- Statistics verification: [`extract_thesis_stats.py`](https://github.com/kayna-of-light/structured-data-analysis/tree/main/projects/remission/scripts/extract_thesis_stats.py)
+- Data schema: [`models/questionnaire.py`](https://github.com/kayna-of-light/structured-data-analysis/tree/main/projects/remission/models/questionnaire.py)
 
 ---
 

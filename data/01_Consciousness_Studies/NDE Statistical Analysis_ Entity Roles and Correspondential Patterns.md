@@ -2,7 +2,7 @@
 
 **Analysis Date**: December 2025  
 **Dataset**: 6,739 analyzed NDE experiences (IANDS + NDERF)  
-**Repository**: https://github.com/marconian/structured-data-analysis ([projects/nde](https://github.com/marconian/structured-data-analysis/tree/main/projects/nde))  
+**Repository**: https://github.com/kayna-of-light/structured-data-analysis ([projects/nde](https://github.com/kayna-of-light/structured-data-analysis/tree/main/projects/nde))  
 **Knowledge Graph Nodes**: CONSC-044, CONSC-045
 
 ---
@@ -244,19 +244,22 @@ This dataset cannot address whether DOPS methodology filters non-cyclic cases be
 
 ---
 
-## VI. Source Chain
+## VI. Works Cited
 
-| Type | Reference | Note |
-|------|-----------|------|
-| `[E]` | [marconian/structured-data-analysis](https://github.com/marconian/structured-data-analysis) (projects/nde) | Statistical analysis script: `entity_role_analysis.py` |
-| `[E]` | NDERF database | ~5,000 NDE narratives |
-| `[E]` | IANDS database | ~1,700 NDE narratives |
-| `[P]` | Swedenborg, *Heaven and Hell* §§ 87-115 | Correspondence doctrine foundation |
+**Primary Sources:**
+
+1. Swedenborg, Emanuel. *Heaven and Hell* (*De Coelo et Ejus Mirabilibus et de Inferno*). London: 1758. §§ 87–115. Correspondence doctrine foundation. Cited by section number (§).
+
+**Data Sources:**
+
+2. NDERF (Near Death Experience Research Foundation). Approximately 5,000 NDE narratives. Analyzed in the structured-data-analysis project (projects/nde).
+3. IANDS (International Association for Near-Death Studies). Approximately 1,700 NDE narratives. Analyzed in the structured-data-analysis project (projects/nde).
+4. [kayna-of-light/structured-data-analysis](https://github.com/kayna-of-light/structured-data-analysis) (projects/nde). Statistical analysis script: `entity_role_analysis.py`.
 
 ---
 
 ## Raw Data Location
 
-- **Full analysis output**: [`projects/nde/output/entity_role_analysis_results.txt`](https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/output/entity_role_analysis_results.txt)
-- **Analysis script**: [`projects/nde/scripts/entity_role_analysis.py`](https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/scripts/entity_role_analysis.py)
-- **Structured NDE data**: [`projects/nde/structured/`](https://github.com/marconian/structured-data-analysis/tree/main/projects/nde/structured) (6,739 JSON files)
+- **Full analysis output**: [`projects/nde/output/entity_role_analysis_results.txt`](https://github.com/kayna-of-light/structured-data-analysis/tree/main/projects/nde/output/entity_role_analysis_results.txt)
+- **Analysis script**: [`projects/nde/scripts/entity_role_analysis.py`](https://github.com/kayna-of-light/structured-data-analysis/tree/main/projects/nde/scripts/entity_role_analysis.py)
+- **Structured NDE data**: [`projects/nde/structured/`](https://github.com/kayna-of-light/structured-data-analysis/tree/main/projects/nde/structured) (6,739 JSON files)

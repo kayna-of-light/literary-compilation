@@ -244,14 +244,17 @@ This dataset cannot address whether DOPS methodology filters non-cyclic cases be
 
 ---
 
-## VI. Source Chain
+## VI. Works Cited
 
-| Type | Reference | Note |
-|------|-----------|------|
-| `[E]` | [kayna-of-light/structured-data-analysis](https://github.com/kayna-of-light/structured-data-analysis) (projects/nde) | Statistical analysis script: `entity_role_analysis.py` |
-| `[E]` | NDERF database | ~5,000 NDE narratives |
-| `[E]` | IANDS database | ~1,700 NDE narratives |
-| `[P]` | Swedenborg, *Heaven and Hell* §§ 87-115 | Correspondence doctrine foundation |
+**Primary Sources:**
+
+1. Swedenborg, Emanuel. *Heaven and Hell* (*De Coelo et Ejus Mirabilibus et de Inferno*). London: 1758. §§ 87–115. Correspondence doctrine foundation. Cited by section number (§).
+
+**Data Sources:**
+
+2. NDERF (Near Death Experience Research Foundation). Approximately 5,000 NDE narratives. Analyzed in the structured-data-analysis project (projects/nde).
+3. IANDS (International Association for Near-Death Studies). Approximately 1,700 NDE narratives. Analyzed in the structured-data-analysis project (projects/nde).
+4. [kayna-of-light/structured-data-analysis](https://github.com/kayna-of-light/structured-data-analysis) (projects/nde). Statistical analysis script: `entity_role_analysis.py`.
 
 ---
 

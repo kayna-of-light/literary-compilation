@@ -11,110 +11,103 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 
 **Replaced wholesale at the end of every run.** This block describes the present, not the history — history goes in the run log below. A run that leaves this stale has failed its successor.
 
-> **Read this first — the 2026-09-21 run got the editing discipline wrong, and the procedure that
-> licensed it has been rewritten.** That run injected prose into both documents it audited: an editorial
-> header block and inline `[CORRECTION]` notes, a newly-opened strain, `[CRITICAL ANALYSIS]` caveats,
-> verification asides inside Works Cited entries, and a dead-link explanation that replaced a working
-> link. All of it is reverted. **Procedure §§ 3.6, 3.6a and 3.6b are now the binding rule: exactly two
-> edits are permitted to a `data/` document — a surgical correction of record (the wrong token, nothing
-> else) and a source-list reformat to `BIBLIOGRAPHY_STANDARDS.md` carrying entry content across
-> unchanged. No note of any form is ever injected. The audit does not annotate and does not open
-> strains.** Findings go in this ledger; unresolved questions go in `docs/research_questions.md`. A night
-> that finds a lot and edits almost nothing is a night done right. Read § 3.6 before touching a file,
-> and § 4 step 7 before pushing.
+> **Status**: 4 documents audited, all `corrected`. 246 remain. Nothing in flight. GitHub write access works;
+> tonight's PR was opened normally.
 >
-> **Status**: 2 documents audited 2026-09-21, both `corrected`; three follow-up correction passes on
-> 2026-09-22, all of them reverting the previous night's edits rather than auditing anything new (run
-> log has the detail). 248 remain. Nothing in flight.
+> **The editing discipline is settled and it worked.** Two nights of the run log below are about prose being
+> injected into curated documents; procedure §§ 3.6/3.6a/3.6b now forbid it outright. Tonight produced
+> **four token-level edits across four files and not one line of prose**, while logging seven findings that
+> were deliberately *not* edited. That ratio is the job working correctly, not a shortfall. Read § 3.6 before
+> touching a file and § 4 step 7 before pushing — the full `git diff origin/main -- data/` should be readable
+> in one screen and contain nothing but changed tokens and reformatted entries.
 >
-> **On the stranded PR #3**: `origin/claude/nightly-audit-2026-09-21`, closed unmerged by the repo
-> owner, still holds 2 real audited documents (`The Heart of the Matter`, `Lexical Fossil Inventory`)
-> and propagation edits to 5 more that are **not** on `main`. Untouched by this run too (no force-push,
-> no reopen). Still unresolved — a maintainer decision (reopen/merge that PR, or treat those 2 documents
-> as needing a fresh audit) would help the next run avoid duplicating or permanently losing that work.
-> If nobody has acted on it by the next run, that run should flag it again rather than silently drop it.
+> **The single most useful thing learned tonight, for whoever re-runs the NDE analysis**: the December 2025
+> entity-role figures are not stale *data*, they are stale *schema*. `entity_role_analysis.py` reads
+> `guidance_level`, `return_choice`, `communication_mode` and `religious_affiliation`; **none of those fields
+> exist** in any of the 6,753 current structured records. `guidance_level` was one mutually-exclusive
+> categorical (which is why the published Guidance/Comfort rows sum to 90–95%); it is now `guidance_received`
+> (yes/no) plus `guidance_types` (a multi-select in which `comfort` is one of six options that can co-occur
+> with the others). **The old columns are therefore not recomputable — they were a partition and the
+> successor is not.** Any re-run is a new measurement and an analysis-design decision. Full detail in the new
+> `[NDE]` question in `docs/research_questions.md`. Stop trying to recompute it; the question now says what
+> has to be decided first.
 >
-> **Important correction from 2026-09-22, read before starting**: the 2026-09-21 run flagged two Kephalaia
-> chapter citations in `The Garment and What Wears It` as possibly wrong, based only on `WebSearch`
-> snippets. **Both were actually correct** — confirmed the next day against the real primary text (a
-> Google Drive-hosted Gardner reading-edition PDF) once someone thought to check for it. The flags have
-> been retracted from the document; full story in
-> `docs/research_questions/resolved/kephalaia_chapter_number_verification.md`. **The actionable lesson**:
-> this project has a Google Drive folder of primary-source PDFs (Kephalaia reading edition, "Ancient
-> Word" extraction, and a `Books` subfolder — folder id `1dCwKutKXBYDY1Z3mRFCwX1EQCB0S14Qk`) that this
-> session's `mcp__Google-Drive__*` tools can reach directly. **Check it before concluding primary-source
-> access is unavailable for any Swedenborg, Kephalaia, or other primary-text verification** — don't rely
-> on `WebSearch` summaries of a primary text's structure when the text itself might be one Drive search
-> away. If a PDF needs full-text extraction: `mcp__Google-Drive__download_file_content` returns base64;
-> decode it, and use `pypdf` in a fresh Python venv (`python3 -m venv` + `pip install pypdf`) rather than
-> the system Python, whose `cryptography` install was broken in this environment and breaks every PDF
-> library that depends on it.
+> **Equally important, the other half of that finding**: most NDE statistics in these documents are *fine*.
+> A large block in `The Seed and the Sun` was recomputed from the current 6,753 records and reproduces
+> **exactly** — 11.8%/40.9% light encounter, 623 (9.2%) earthly-mission returns, 17.9% deceased relatives,
+> 17.5% life review, judgment sources 1.4/2.3/3.0, 49.4% reluctant on n=3,563, 70.1% not by own choice, the
+> return-reason counts, identity continuity 64.8/1.4/0.6/33.2, 84.7% Christian among identified religion, and
+> every cell of Appendix C summing to 6,753. **The staleness is specific to the entity-role block and to
+> figures inherited at N=6,739.** Do not generalise it into distrust of the corpus's statistics — check, and
+> report the exact matches when you find them.
 >
-> **Second correction from 2026-09-22, also read before starting**: the 2026-09-21 run also misused the
-> editorial annotation system. Finding that `NDE Statistical Analysis` reports statistics from a dataset
-> `structured-data-analysis` has since re-extracted under a different schema is real and was correctly
-> logged as an open `[NDE]` research question — but the run then also added a header block, two inline
-> `[CORRECTION #27]` notes, and opened strain #27 in `EVOLVING_CONCEPTUAL_STRAINS.md`, as if the position
-> were already corrected somewhere in the library. It wasn't — nobody has re-run the analysis yet. **The
-> editorial annotation system is only for genuine conceptual/interpretive evolution already established
-> by another document in the library. It is never a way to flag deferred or future work — that is what
-> `docs/research_questions.md` is for, with no edit to the document itself.** All three edits (header
-> block, both inline notes, the strain) were reverted 2026-09-22; the research question stays open. See
-> the corrected pattern-register entry above and procedure § 3.6's routing table — "correct treatment not
-> established by the library" means no edit, not "annotate as if it were."
+> **Take next — a concrete recommendation, but it is your call (§ 2).** The two live threads the previous
+> handoff named are now closed as far as reading can close them. The best-motivated pick now is the
+> **corpus-wide source-quality work**, which is where the mass actually is and which no run has yet dented:
 >
-> **Take next**: Your call, per procedure § 2. One live thread if nothing else catches your eye: any other
-> `01_Consciousness_Studies` document reporting NDE statistics dated before January 2026 is a candidate
-> for the same underlying dataset-staleness problem — not yet checked which ones, if any, are affected.
-> If you find one, log a research question only; do not repeat the annotation-system mistake above.
+> | Defect class | Documents | State |
+> |---|---|---|
+> | Reddit / Scribd / Quora cited as sources | **102** | untouched — largest class in the corpus |
+> | `drive.google.com` links | **24** | untouched |
+> | Raw `## References` / `## Sources` / `## Bibliography` heading instead of categorized Works Cited | **13** | one cleared tonight (*The Epistemic Architecture*) |
+> | Retired `[P]`/`[S]`/`[T]`/`[E]`/`[W]` type codes still in a source list | **3** | `05_The_Self/The Empty Room and the Self That Filled It`, `05_The_Self/The Protective Garment`, `06_Mythological_Studies/The River, Not the Chain` |
 >
-> Coverage so far (both nights combined, counting only what's on `main`): `01_Consciousness_Studies` ×1,
-> `08_Correspondential_Texts` ×1. Everything else is untouched — no pattern to correct toward yet, but
-> worth tracking once more nights land.
+> Those 3 type-code documents are the cheapest real win left: small, mechanically identifiable, and two of
+> them sit in `05_The_Self`, a folder (6 documents) that no run has touched. Taking them would also move
+> coverage away from consciousness-statistics documents, which is now **all four** audited documents and is
+> starting to look like the thematic pattern § 2 warns about. **Correct toward `05_The_Self`,
+> `03_Biblical_Scholarship`, `04_Early_Christian_History`, `06_Mythological_Studies`, `07_Cultural_Pneumatology`
+> — none of which has ever been audited.**
 >
-> **Propagation debt**: None outstanding — the `marconian`→`kayna-of-light` URL fix was swept
-> corpus-wide 2026-09-21 and a follow-up grep came back clean.
+> Coverage so far (on `main` after tonight): `01_Consciousness_Studies` ×1, `08_Correspondential_Texts` ×1,
+> `02_Swedenborgian_Theology` ×1, `00_Master_Theses` ×1. Seven folders still at zero.
 >
-> **Awaiting external answers**: 2 research questions open, both `[NDE]` — (1) re-run the entity-role
-> analysis against the current `structured-data-analysis` schema (logged 2026-09-21, now carrying the
-> full propagation surface: the December 2025 figures are load-bearing in four documents beyond the one
-> audited, including `The Seed and the Sun` and two `00_Framework` documents); (2) two traced
-> discrepancies in the "told to return" figures across three documents, logged 2026-09-22 — a column
-> that matches on one of six rows between `NDE Statistical Analysis` and `The Epistemic Architecture`,
-> and a superlative in `The Seed and the Sun` that fails on either document's numbers. Neither was
-> edited: two of the three documents are unread and the underlying run is not reproducible. The `[GDR]`
-> Kephalaia question is resolved.
+> **Propagation debt**: none outstanding. The NDERF/IANDS count fix was swept corpus-wide — 3 documents
+> carried it and all 3 are fixed. One further occurrence exists and was **deliberately left**:
+> `01_Consciousness_Studies/Correspondential Structure in Collective Dream Space` says "3,500+", which with
+> the "+" is true, and it is a document this run has not read. Do not "fix" it without reading it.
 >
-> **Worth taking next, on this evidence**: `02_Swedenborgian_Theology/The Epistemic Architecture of
-> Post-Materialist Inquiry` and `00_Master_Theses/The Seed and the Sun` are now the best-motivated
-> picks in the library — both are unread, both carry the disputed figures, and reading either in full is
-> what would let the discrepancies above be settled or properly narrowed rather than left open.
+> **Awaiting external answers**: 9 research questions open on these documents — 2 carried over from
+> 2026-09-22 (the entity-role re-run and the "told to return" discrepancies) and **7 logged tonight**, all
+> in a dated block near the end of `docs/research_questions.md`. The three that would most repay an
+> answer: the `[NDE]` schema-retirement question (it gates the other two NDE ones), the `[GDR]` question on
+> eight inline attributions in `The Seed and the Sun` that never reached its bibliography, and the `[GDR]`
+> Swedenborg Dole edition dates.
+>
+> **Two offers to the author that are not questions, just findings worth a minute each**: (1) the
+> "placebo achieves <1% complete response" claim in two documents is correct and now has a citable source —
+> *eClinicalMedicine* 2022, 45 phase-3 RCTs, 5,684 placebo patients, pooled complete response 0% (95% CI 0–0);
+> (2) `Kelly, L. (2016) The Memory Code` is listed in *The Epistemic Architecture* but never cited inline,
+> while § 3.3.2's "memory palace techniques" claim goes unattributed — they probably belong together.
 >
 > **Worth knowing**:
-> - `The Garment and What Wears It` still uses `[P]`/`[S]`/`[T]`/`[E]` codes in **Appendix A's** dating
->   table, with its own legend sentence, and that was left deliberately. `BIBLIOGRAPHY_STANDARDS.md`
->   retires the codes as a *source-listing* notation; Appendix A is not a source list — it is the
->   thesis's own argument, classifying the kind of evidence securing each dating tier. Reformatting a
->   Works Cited section is in scope; rewriting an argument's apparatus is not. Leave it.
-> - Two `EVOLVING_CONCEPTUAL_STRAINS.md` items remain open for corpus-wide re-audit, both from
->   2026-08-20 — **#16** Pillar 43 Historical Encoding and **#26** Paleolithic Geometric Signs. Neither
->   touched. Highest strain number is **#26** — a #27 was briefly opened 2026-09-21 for the NDE dataset
->   staleness finding and deleted the next day as a misuse of the strain system (see above); do not
->   reopen it and do not invent numbers past #26 without an actual established conceptual correction.
-> - `docs/BIBLIOGRAPHY_STANDARDS.md` (landed 2026-09-21) is required reading alongside `CLAUDE.md`
->   (procedure § 0). Both documents audited tonight were brought fully into line with it. The corpus-wide
->   `drive.google.com` (24 documents) and unmoderated/reposted-source (90+ documents) defect classes it
->   describes are essentially untouched still — neither of tonight's two documents happened to carry
->   either pattern, so no dent was made in those counts. Still the largest standing defect classes in the
->   corpus; still worth picking up directly on a future night rather than only encountering incidentally.
-> - `WebFetch` is unreliable for confirming *absence* of content in a long primary-source section (see
->   pattern register) — don't treat a "this page doesn't mention X" summary as a finding on its own for
->   a multi-page *Arcana Coelestia* section or similar.
-> - `structured-data-analysis`'s `entity_role_analysis.py` script is stale (one commit in its history,
->   never updated for schema changes since) and unrunnable as-is against the current dataset. If a
->   future run needs to verify NDE/DOPS statistics in another document, check field names in
->   `projects/nde/models/questionnaire.py` against whatever script or report you're relying on before
->   trusting its output.
+> - **Primary sources are reachable and this run used them twice.** `swedenborg_heaven_and_hell.pdf` is in
+>   the Drive folder `1DwYsxv8ZWc695x1Y997Ozka2yizs7k83` alongside the 12 *Arcana Coelestia* volumes and the
+>   5 *Spiritual Diary* volumes; `HH §256` was read verbatim from it and **confirmed exactly on point**.
+>   Recipe: `mcp__Google-Drive__search_files` → `download_file_content` (returns base64, and for a large PDF
+>   the result lands in a tool-results file — decode from there) → `pypdfium2` in a fresh venv. Not `pypdf`.
+> - **A web PDF can be read too — just not with `WebFetch`.** § 3.3's "never fetch a `.pdf`" is about
+>   `WebFetch` crashing, not about the format. `curl -sL -o file.pdf <url>` then `pypdfium2` works fine, and
+>   is how Ohkado & Greyson's sample size (N = 22) was verified against the article itself tonight rather
+>   than left at one remove. Use it.
+> - `WebFetch` is blocked (403) by sacred-texts.com, newchristianbiblestudy.org, brill.com and pubmed. Go to
+>   the publisher's own landing page, an institutional repository, or the author's own site — Lynne Kelly's
+>   editions page settled the Pegasus 2017 date in one call after three searches had not.
+> - `structured-data-analysis`'s own `CLAUDE.md` is **not** a source of truth for figures and is internally
+>   inconsistent (it says "NDERF (~3,500), IANDS (~600)" *and* "6,753 structured records"). The datasets and
+>   the `projects/*/reports/` files are the source of truth. Count the JSON: 5,660 nderf + 1,093 iands = 6,753.
+> - `The Garment and What Wears It` keeps `[P]`/`[S]`/`[T]`/`[E]` codes in **Appendix A's** dating table
+>   deliberately — that is the thesis's own argument apparatus, not a source list. Leave it. The 3 documents
+>   listed in the table above are different: the codes are in their actual source lists.
+> - Two `EVOLVING_CONCEPTUAL_STRAINS.md` items remain open for corpus-wide re-audit, both from 2026-08-20 —
+>   **#16** Pillar 43 Historical Encoding and **#26** Paleolithic Geometric Signs. Neither touched; this job
+>   does not touch that file (§ 3.6b). Highest strain number is still **#26**; do not invent numbers past it.
+> - **On the stranded PR #3** (`origin/claude/nightly-audit-2026-09-21`, closed unmerged by the repo owner):
+>   still unresolved, still holding 2 genuinely audited documents — `00_Framework/The Heart of the Matter`
+>   and `03_Biblical_Scholarship/Lexical Fossil Inventory` — plus propagation edits to 5 more that are not on
+>   `main`. Excluded from selection again tonight. **Third run flagging this.** A maintainer decision
+>   (reopen/merge, or release those 2 documents back into the queue for a fresh audit) is needed; until then
+>   every run pays the cost of excluding them and the corpus keeps the un-landed fixes.
 
 ---
 
@@ -146,9 +139,9 @@ A document counts as audited only after a **complete** read and source pass — 
 | Metric | Count |
 |---|---|
 | Documents in `data/` | 250 |
-| Audited | 2 |
+| Audited | 4 |
 | In flight | 0 |
-| Remaining | 248 |
+| Remaining | 246 |
 
 Refresh the total with `find data -name "*.md" | wc -l`.
 
@@ -162,8 +155,8 @@ Refresh the total with `find data -name "*.md" | wc -l`.
 | 2026-09-22 | `01_Consciousness_Studies/NDE Statistical Analysis_ Entity Roles and Correspondential Patterns.md` | Follow-up, not a new selection — user flagged that the 2026-09-21 pass had injected notes into a curated document | 0 (no new source checking; prior edits were reverted) | All injected prose reverted: the editorial header block, both `[CORRECTION #27]` inline notes, the dead-link narration in Raw Data Location (link restored, org-corrected), the "the correspondence doctrine chapter; §116 opens…" gloss on the Swedenborg entry, and the "at the time of this analysis (December 2025)" glosses on the NDERF/IANDS entries. Strain #27 deleted from `EVOLVING_CONCEPTUAL_STRAINS.md`. **What remains on this document is exactly: the `marconian`→`kayna-of-light` URL fix (4 occurrences) and the mandated Source Chain→Works Cited reformat with entry content carried over unchanged.** | 0 | 0 (the `[NDE]` research question stays open — logging it was right; editing the document over it was not) | corrected |
 | 2026-09-21 | `08_Correspondential_Texts/The Garment and What Wears It_ Dating the Correspondential Substrate Beneath the Manichaean Kephalaia.md` | Retired type-code notation both inline (dating table) and in Works Cited; dense multi-tier source chain (Theopompus/Plutarch, Old Avestan, Ebla archive) worth a careful trace; folder untouched on `main` so far | 9/9 primary sources + 12/12 internal-doc links checked | 0F (nothing confidently wrong enough to edit) + 2A ([CRITICAL ANALYSIS] notes, unresolved — Kephalaia Ch.38 and Ch.115 citations) + Works Cited restructured (type-code headers dropped, "Companion Theses" renamed to "Internal Library Documents") | 0 (finding is internal to this document; the two source documents it inherited the citations from — *The Ancient Word Recovered*, *Two Registers of One Perception* — were not read in full tonight, so no edit was propagated to them) | 1 (Kephalaia chapter-number verification — see `docs/research_questions/kephalaia_chapter_number_verification.md`) | corrected |
 | 2026-09-22 | `08_Correspondential_Texts/The Garment and What Wears It_ Dating the Correspondential Substrate Beneath the Manichaean Kephalaia.md` | Follow-up, not a new selection — user pointed out a Google Drive folder with the primary Kephalaia text existed and was accessible the whole time, unused in the 2026-09-21 pass | 2/2 (Ch.38, Ch.115) verified verbatim against the primary text (Drive-hosted Gardner reading-edition PDF); **both citations correct as originally written** | All injected prose reverted: the 2026-09-21 `[CRITICAL ANALYSIS]` inline note and Works Cited caveat, and then (after the user's precision instruction) the replacement verification note that had been written into the Kephalaia entry in their place. That entry is now byte-identical to how the author wrote it. **What remains on this document is exactly: the retired `[P]`/`[T]` type-code legend and header suffixes removed, "Companion Theses in the Library"→"Internal Library Documents", and the two matching TOC anchors — all mandated by `BIBLIOGRAPHY_STANDARDS.md`. No content change to any citation.** | 0 | 0 (research question from 2026-09-21 resolved, moved to `docs/research_questions/resolved/`) | corrected |
-| 2026-09-22 | `02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on Hypothesis-Testing with the Swedenborgian Framework.md` | Named by the previous run's handoff as a best-motivated pick: unread, carries the disputed "Told to Return" cross-tabulation that the 2026-09-22 pass logged as an open `[NDE]` discrepancy but could not settle without reading it; also a `## References` section in APA form rather than a categorized Works Cited; `02_Swedenborgian_Theology` (48 docs) untouched on `main` so far | in-progress | in-progress | in-progress | in-progress | in-progress |
-| 2026-09-22 | `00_Master_Theses/The Seed and the Sun_ A Statistical and Phenomenological Investigation into the Architecture of Consciousness, the Paths of the Soul, and the Dissolution of the Hard Problem.md` | The other half of the same open discrepancy — carries the 29.5% "highest rate of any being category" superlative and the whole December 2025 entity-role spread; reading it alongside the document above is what lets the discrepancy be resolved or properly narrowed rather than left open a third night; `00_Master_Theses` untouched on `main` so far | in-progress | in-progress | in-progress | in-progress | in-progress |
+| 2026-09-22 | `02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on Hypothesis-Testing with the Swedenborgian Framework.md` | in-progress | **14/14 Works Cited entries checked** + every inline attribution. Verified: AWARE citation (*Resuscitation* 85.12: 1799–1805); van Lommel *Lancet* 358.9298: 2039–2045; Stevenson 43/49 = 88%; **HH §256 read verbatim from the Drive primary text and confirmed exactly on point** (spirits speaking from their own memory; the ancients believing they had returned to a former life); Turner's nine factors listed correctly, 7 psycho-spiritual; Lang/Schmidt, Göbekli Tepe 9500 BCE, Babylon 32°N 2:1 daylight ratio, 364-day calendar, Daniel *Rab-hartummin*, Qumran 1QS, Mercury/Eddington/Pound-Rebka/LIGO all correct. Planck 1949 Williams & Norgate left standing (US Philosophical Library 1949 / London edition date ambiguous — not demonstrably wrong). Kelly (2016) never cited inline. | **3F.** (1) Appendix B dataset counts corrected against the source of truth: NDERF ~3,500→5,660, IANDS ~600→1,093 — the document's own N=6,753 was already right, the appendix breakdown summed to 4,100. (2) Kelly *The Memory Code* 2016→2017 (Pegasus Books is the 2017 North American edition; Allen & Unwin published the 2016 first, per the author's own editions page). (3) `## References` → `## Works Cited`, regrouped Primary/Scholarly in Chicago form per `BIBLIOGRAPHY_STANDARDS.md`, entry content carried across unchanged; the drafting-status checklist line renamed to match. **Left alone, deliberately**: the 2.6×/14.9%/5.7% Jesus-identification sentence (traced to the archived Dec-2025 notebook — 2.6× is the God+Jesus ratio, and no 5.7% non-Christian Jesus rate exists; restating it is an authorial choice, and the field is retired); "2% of cardiac arrest survivors reported **verified** awareness" (study says 2% with explicit recall, one verified case); the entity-role table (non-restatable, see pattern register); the Swedenborg Dole edition dates (carried across unchanged in the reformat); "266-year-old framework" (a property of when the document was written). | 2 files — `00_Master_Theses/The River and the Vessel`, `00_Master_Theses/The Beast That Wears the Lamb` (identical NDERF/IANDS count fix only, not audited). `01_Consciousness_Studies/Correspondential Structure in Collective Dream Space` carries "3,500+" and was **deliberately not touched** — with the "+" the statement is true, and it is a document this run has not read. | 4 logged ([NDE] schema-retirement; [NDE] the 2.6× ratio; [GDR] AWARE wording; [GDR] Dole edition dates) + 1 citation offer (the eClinicalMedicine placebo meta-analysis) | corrected |
+| 2026-09-22 | `00_Master_Theses/The Seed and the Sun_ A Statistical and Phenomenological Investigation into the Architecture of Consciousness, the Paths of the Soul, and the Dissolution of the Hard Problem.md` | in-progress | **52/52 Works Cited entries checked** — 26 internal links resolved (1 broken, fixed), 5 primary sources, 14 scholarly works, 7 data sources. Data Sources verified *against the datasets themselves*: NDERF 5,660 / IANDS 1,093 / 6,753 total, DOPS 2,500+, RRP 149, PMC 350, MallWorld 2,678 from 2,038 authors through 19 Jan 2026 — **all exact**. Ohkado & Greyson 2014 verified down to the page range *and* the sample size (N = 22 interviews from Tachibana 2003) by downloading and extracting the article itself. Moody/Mockingbird 1975 and Ring/Coward McCann & Geoghegan 1980 confirmed. A large block of NDE statistics recomputed from the 6,753 records and reproducing **exactly** — see the research question for the full list. | **1F.** Works Cited entry 52 pointed at a bare filename; the target is in `../01_Consciousness_Studies/`. Link corrected. Nothing else. **Left alone, deliberately**: §4.2's "the highest rate of any being category" for the 29.5% relative gatekeeping rate — contradicted by both sibling documents' tables (each puts a being at 30.7%), but the measurement is non-restatable and narrowing the clause is the author's call; the 6,739-vs-6,753 mixed denominators (traced to `The Threefold Path of the Soul`, real chain); Gardner "2nd ed. 2020" (unconfirmable, and appears in ≥2 documents — not retracting a Kephalaia detail on search-absence again); "nearly 3,000 reports" for a raw corpus now at 3,743. **Nearly corrected in error**: §4.3's "3.8 to 1" ratio does not follow from the 40.9% and 11.8% in the same sentence (those give 3.5:1) — but 3.8:1 is **right**, because the East-West report defines impersonal as brilliant light *plus* presence-without-visual (45.1% vs 11.8%). Changing it would have introduced an error. | 0 (the one fix is internal to this document) | 3 logged ([NDE] schema-retirement, shared with the row above; [GDR] Gardner 2nd ed.; [GDR] eight inline attributions missing from the bibliography) | corrected |
 
 ---
 
@@ -183,6 +176,9 @@ Add an entry when a problem looks like it will recur. Update the existing entry 
 
 | Primary sources are in Google Drive, and the Swedenborg PDFs have a broken text layer | A citation needs checking against a primary text and the web hosts 403 or only summarise it. Two runs in a row concluded "no primary-source access" while the actual books sat in the author's Drive, reachable by this session's own tools. | **Check Drive first.** `mcp__Google-Drive__search_files` with `parentId = '<folder>'`, or `title contains 'arcana'`. Confirmed present: all **12 Arcana Coelestia** Standard Edition volumes and the 5 **Spiritual Diary** volumes (in `Swedenborg/Books/`, folder `1DwYsxv8ZWc695x1Y997Ozka2yizs7k83`); Gardner's **Kephalaia of the Teacher**, a stripped **Kephalaia Reading Edition**, Polotsky's German Kephalaia, the **Fihrist**, the Cologne Mani Codex, Book of Giants, Mandaean Book of John (folder `1dCwKutKXBYDY1Z3mRFCwX1EQCB0S14Qk` and its `Books/` child). Each AC volume states its own section range on its title page — vol. 2 is §§1114–2134 — so check the range before trusting an inherited volume number. **To extract text: `download_file_content` returns base64; decode it, then use `pypdfium2`, not `pypdf`.** The Swedenborg PDFs carry a custom font encoding that `pypdf` renders as a substitution cipher ("Arcana" → "–rcana", digits scrambled), which silently defeats string search and would make any grep-based conclusion worthless; `pypdfium2` decodes them cleanly. Install either in a **fresh venv** — the system Python's `cryptography` is broken and takes `pypdf`/`pdfminer` down with it. `pdftoppm`/poppler is unavailable and not installable, so `Read`'s PDF page rendering does not work here; `pypdfium2` is the fallback for that too. | Established 2026-09-22 after two runs had wrongly recorded the primary sources as unreachable. |
 
+| A statistic is stale because the **schema** changed, not just the data | A `data/` document's figures were computed from fields that a companion repo's later re-extraction removed or split. The citation is correct, the analysis script is in the repo, and the numbers still look computable — but the variables they were computed from no longer exist. | **Check the field names before concluding anything.** Diff the analysis script's keys against the current records (`python3` over `projects/*/structured/*.json`). If a retired field has been *split* (one mutually-exclusive categorical into a yes/no plus a multi-select), the old percentages are **not recomputable** — they were a partition and the successor is not. That makes a re-run an analysis-design decision, which is procedure § 3.6's "no edit + research question" row, not a figure to fix. Say so explicitly in the question, or the next run will try to recompute it again. Distinguish this sharply from figures that *do* reproduce: check them, and report the exact matches, because the staleness is usually narrower than it first looks. | NDE entity-role block, 2026-09-22. `entity_role_analysis.py` reads `guidance_level`, `return_choice`, `communication_mode`, `religious_affiliation`; **none** exist in the current 6,753 records. Meanwhile a large block of *other* NDE figures in the same documents reproduced to the decimal. |
+| A ratio or superlative that does not follow from the two numbers printed beside it | A sentence gives two percentages and a ratio between them, and the arithmetic does not work (40.9% and 11.8% "yielding a ratio of 3.8 to 1" — that is 3.5). It reads as an obvious one-token fix. | **Do not fix it from the sentence.** Go to the source report and find what the ratio actually measures. In the case seen, the source defines "impersonal" as brilliant light **plus** presence-without-visual (45.1% vs 11.8% = 3.8:1) — the ratio is correct and the compression in the citing sentence is what misleads. "Correcting" 3.8 to 3.5 would have written a real error into a Master Thesis. The same caution applies to superlatives: check which table the claim is measured against before narrowing it. | `00_Master_Theses/The Seed and the Sun` § 4.3, 2026-09-22 — caught before editing. The genuinely-wrong superlative in the same document (§ 4.2, "highest rate of any being category") was left alone for the opposite reason: it *is* wrong on both sibling tables, but the underlying measurement is non-restatable. |
+
 Candidates to watch for in early runs, from the corpus's history — confirm before treating any as established:
 
 - Much of this library came out of Gemini Deep Research. Generated bibliographies are the usual place fabricated or subtly wrong citations hide, and a citation pointing at an internal document may be standing in front of an external original (`CLAUDE.md` § Source Tracing, rule 2).
@@ -195,6 +191,68 @@ Candidates to watch for in early runs, from the corpus's history — confirm bef
 ## Run log
 
 Narrative per run — what the batch surfaced, and anything a later run should know that does not fit the tables. Newest first. Unlike the handoff block, this accumulates.
+
+### 2026-09-22 (night run) — Two documents audited; the entity-role staleness finally explained, and one near-miss edit
+
+First run since the procedure was rewritten to permit exactly two kinds of edit. The result: **four token
+changes across four files, zero lines of prose**, against seven findings routed to "no edit + research
+question." Precheck passed, batch claimed and pushed before any reading, both documents read start to
+finish.
+
+**Batch**: `02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry` and
+`00_Master_Theses/The Seed and the Sun`. Chosen because the previous handoff named both as the
+best-motivated picks — each carries the disputed entity-role figures that 2026-09-22's earlier pass logged
+but could not settle "because two of the three documents are unread." They are read now.
+
+**What reading them settled — and what it didn't.** It did not settle which "Told to Return" column is
+right, but it produced the reason nobody could: the measurement is gone at the schema level, not the data
+level. `entity_role_analysis.py` reads four fields (`guidance_level`, `return_choice`, `communication_mode`,
+`religious_affiliation`) and **none of them exist** in the current 6,753 records. `guidance_level` was a
+single mutually-exclusive categorical — which is exactly why the published Guidance/Comfort rows sum to
+90–95% — and it has been replaced by a yes/no `guidance_received` plus a multi-select `guidance_types` where
+`comfort` can co-occur with `teaching`. A partition replaced by a non-partition cannot be recomputed. That
+turns the standing question from "someone should re-run this" into "someone must first decide how to
+operationalise it, and record that it is a new measurement." Logged as a new `[NDE]` question that gates the
+two older ones. New pattern-register entry.
+
+**The other half is the part worth protecting.** Having established the staleness, the obvious next move is
+to distrust the numbers generally — and that would be wrong. A large block of `The Seed and the Sun`'s NDE
+statistics was recomputed directly from the 6,753 structured records and reproduces **exactly**: light
+encounter 11.8%/40.9%, 623 (9.2%) earthly-mission returns, deceased relatives 17.9% (14.9% named / 2.9%
+unnamed), life review 17.5% (10.6/6.9), judgment sources 1.4/2.3/3.0, 49.4% reluctant on n=3,563, 70.1% not
+returning by own choice, return-reason counts 1,459/1,164/711/623, identity continuity 64.8/1.4/0.6/33.2,
+84.7% Christian among those with identified religion, and every cell of Appendix C summing to 6,753.
+MallWorld (2,678 from 2,038 authors through 19 Jan 2026), remission (350 + 149 + 50 + 20 = 569) and the
+κ = 0.84 inter-rater figure all verified against their sources too. The staleness is narrow. Say so.
+
+**The near-miss, and the reason § 0 exists.** `The Seed and the Sun` § 4.3 reads "Impersonal brilliant light
+… accounted for 40.9%, yielding a ratio of 3.8 to 1." 40.9/11.8 is 3.5, not 3.8 — a one-token fix, obvious,
+and **wrong**. The East-West report defines impersonal as brilliant light *plus* presence-without-visual:
+45.1% vs 11.8% = 3.82. The ratio is correct; only the compression in the citing sentence misleads.
+"Correcting" it would have written a genuine error into a Master Thesis over a citation that was right.
+Second pattern-register entry. The inverse case sits two sections earlier: § 4.2's "highest rate of any
+being category" **is** wrong on both sibling documents' tables — and was still left alone, because the
+underlying measurement is non-restatable and narrowing the clause is an authorial judgment.
+
+**Primary sources were used, not deferred to.** `HH §256` read verbatim from the Drive copy of *Heaven and
+Hell* and confirmed exactly on point — spirits speaking from their own memory, and the ancients concluding
+they had returned to a former life. Ohkado & Greyson (2014) verified down to its sample size (N = 22
+interviews from Tachibana 2003) by `curl`-ing the DOPS-hosted PDF and extracting it with `pypdfium2`. That
+second technique is new and worth keeping: § 3.3's "never fetch a `.pdf`" is a constraint on `WebFetch`, not
+a prohibition on reading PDFs, and a citation that would otherwise sit at one remove got checked against the
+article itself.
+
+**The four edits.** NDERF ~3,500 → 5,660 and IANDS ~600 → 1,093 in three documents (the appendix breakdown
+summed to 4,100 while all three state N=6,753 in their own bodies); Kelly *The Memory Code* 2016 → 2017
+(Pegasus is the 2017 North American edition, per the author's own editions page); `## References` →
+`## Works Cited` in Chicago category form; and one broken relative link in `The Seed and the Sun`'s entry 52.
+Nothing else. Every citation still reads as the author wrote it.
+
+**For the next run**: the well-motivated single-document threads are now exhausted. What is left is mass —
+102 documents citing Reddit/Scribd/Quora, 24 with Drive links, 13 with raw `## References` headings, 3 still
+carrying retired type codes. And coverage has quietly become a problem: all four audited documents are
+consciousness-statistics documents, and seven folders have never been touched. The handoff block names the
+cheapest correction to both.
 
 ### 2026-09-22 — Third correction: every injected note reverted, and the procedure rewritten to forbid them
 

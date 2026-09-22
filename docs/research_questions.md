@@ -2277,20 +2277,6 @@ One overlapping scope is already covered by a validated current analysis: `data/
 
 ---
 
-### [GDR] Kephalaia Chapter-Number Verification: Body-Cosmos Map and "Three Entreaties"
-
-**Target**: `[GDR]`
-**Status**: Open — full write-up in `docs/research_questions/kephalaia_chapter_number_verification.md`
-**Date Added**: 2026-09-21
-**Priority**: HIGH
-**Related Documents**: `data/08_Correspondential_Texts/The Garment and What Wears It_ Dating the Correspondential Substrate Beneath the Manichaean Kephalaia.md`; `data/00_Framework/The Ancient Word Recovered_ Extracting the Correspondential Substrate of the Kephalaia.md`; `data/06_Mythological_Studies/Two Registers of One Perception_ The Song of Solomon and the Regenerative Substrate of the Kephalaia.md`
-
-**Context**: Independent secondary-source verification during the 2026-09-21 audit found moderate-to-high-confidence evidence that "Kephalaia Chapter 38," cited repeatedly in *The Garment and What Wears It* (and originating in *The Ancient Word Recovered*) as the body-cosmos/soul-tissue map, is actually titled "On the Light-Mind, the Apostles, and the Saints" — while a different chapter, 70, titled "On the Body, That It Was Made to Resemble the Cosmos," matches the described content. A weaker, inconclusive finding raises the same question for "Chapter 115" ("Three Entreaties") in *Two Registers of One Perception*. See the full file for search evidence, confidence levels, and exactly what needs checking against the primary Gardner text (which this session could not access).
-
-**Research Question**: See `docs/research_questions/kephalaia_chapter_number_verification.md` for the full four-part question and propagation plan.
-
----
-
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

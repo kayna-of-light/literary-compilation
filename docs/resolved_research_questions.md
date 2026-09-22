@@ -1425,21 +1425,34 @@ GDR produced a comprehensive forensic analysis now filed as `data/04_Early_Chris
 
 ---
 
+### [GDR] Kephalaia Chapter-Number Verification: Body-Cosmos Map and "Three Entreaties"
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED — full write-up in `docs/research_questions/resolved/kephalaia_chapter_number_verification.md`
+**Date Added**: 2026-09-21
+**Date Resolved**: 2026-09-22
+**Priority**: HIGH
+**Related Documents**: `data/08_Correspondential_Texts/The Garment and What Wears It_ Dating the Correspondential Substrate Beneath the Manichaean Kephalaia.md`; `data/00_Framework/The Ancient Word Recovered_ Extracting the Correspondential Substrate of the Kephalaia.md`; `data/06_Mythological_Studies/Two Registers of One Perception_ The Song of Solomon and the Regenerative Substrate of the Kephalaia.md`
+
+**Resolution Summary**: The 2026-09-21 nightly audit flagged, on web-search evidence alone, that "Kephalaia Chapter 38" (body-cosmos/soul-tissue map) and "Chapter 115" ("Three Entreaties") might be mis-numbered citations. Both are correct. Verified 2026-09-22 directly against the primary source (Gardner's 1995 translation, reading-edition PDF, available in a Google Drive folder this session had access to all along) — Chapter 38's title names only its catechetical frame ("Concerning the Light Mind and the Apostles and the Saints"), but its body (K.89–102, matching the citation exactly) opens with the macrocosm discussion and contains the exact quoted passages verbatim. Chapter 115's title is the catechumen's alms/rest question, but Mani's answer to it is structured as three successive archetypal entreaties, matching the "Three Entreaties" description exactly. The `[CRITICAL ANALYSIS]` flags added 2026-09-21 were removed as unfounded. Full detail, including exactly what went wrong (trusting `WebSearch` chapter-title snippets over available primary-source access) and the corrected Works Cited text, in the standalone file above.
+
+---
+
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 24 |
+| **Total Resolved** | 25 |
 | **NDE Domain** | 10 |
 | **BIBL Domain** | 6 |
 | **SWED Domain** | 3 |
 | **CROSS Domain** | 1 |
 | **EARLY Domain** | 2 |
 | **GNOS Domain** | 1 |
-| **GDR Domain** | 1 |
+| **GDR Domain** | 2 |
 | **Critical Priority** | 3 |
-| **High Priority** | 13 |
+| **High Priority** | 14 |
 | **Medium Priority** | 7 |
 | **Low Priority** | 1 |
 
-**Last Updated**: 2026-02-28
+**Last Updated**: 2026-09-22

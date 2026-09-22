@@ -11,41 +11,48 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 
 **Replaced wholesale at the end of every run.** This block describes the present, not the history — history goes in the run log below. A run that leaves this stale has failed its successor.
 
-> **Status**: 2 documents audited 2026-09-21, both `corrected`. 248 remain. Nothing in flight.
+> **Status**: 2 documents audited 2026-09-21, both `corrected`; one follow-up correction 2026-09-22
+> (see below — a 2026-09-21 finding was retracted as unfounded, not a new document audited). 248 remain.
+> Nothing in flight.
 >
 > **On the stranded PR #3**: `origin/claude/nightly-audit-2026-09-21`, closed unmerged by the repo
 > owner, still holds 2 real audited documents (`The Heart of the Matter`, `Lexical Fossil Inventory`)
-> and propagation edits to 5 more that are **not** on `main`. Untouched by tonight's run (no force-push,
+> and propagation edits to 5 more that are **not** on `main`. Untouched by this run too (no force-push,
 > no reopen). Still unresolved — a maintainer decision (reopen/merge that PR, or treat those 2 documents
 > as needing a fresh audit) would help the next run avoid duplicating or permanently losing that work.
 > If nobody has acted on it by the next run, that run should flag it again rather than silently drop it.
 >
-> **Take next**: Your call, per procedure § 2. Two live threads if nothing else catches your eye:
-> 1. `docs/research_questions/kephalaia_chapter_number_verification.md` — resolving this needs primary
->    access to Gardner's *Kephalaia of the Teacher* (1995), which this run did not have (no PDF fetch,
->    Internet Archive copy is lending-restricted, manichaean-analysis's Kephalaia outputs are gitignored).
->    If a future run gets that access — e.g. a session with the manichaean-analysis repo's generated
->    `output/` populated, or a Google Drive-mounted copy — this is worth closing out: it blocks trusting
->    the central evidence chapter of `The Garment and What Wears It` and touches `The Ancient Word
->    Recovered` (a `00_Framework` document, so defects there propagate furthest) and `Two Registers of
->    One Perception`. Reading those two source documents in full (neither was read tonight) is the actual
->    next step, not just re-searching the web.
-> 2. Any other `01_Consciousness_Studies` document reporting NDE statistics dated before January 2026 is
->    a candidate for the same "superseded extraction pass" problem found in strain #27 tonight — not yet
->    checked which ones, if any, are affected.
+> **Important correction from 2026-09-22, read before starting**: the 2026-09-21 run flagged two Kephalaia
+> chapter citations in `The Garment and What Wears It` as possibly wrong, based only on `WebSearch`
+> snippets. **Both were actually correct** — confirmed the next day against the real primary text (a
+> Google Drive-hosted Gardner reading-edition PDF) once someone thought to check for it. The flags have
+> been retracted from the document; full story in
+> `docs/research_questions/resolved/kephalaia_chapter_number_verification.md`. **The actionable lesson**:
+> this project has a Google Drive folder of primary-source PDFs (Kephalaia reading edition, "Ancient
+> Word" extraction, and a `Books` subfolder — folder id `1dCwKutKXBYDY1Z3mRFCwX1EQCB0S14Qk`) that this
+> session's `mcp__Google-Drive__*` tools can reach directly. **Check it before concluding primary-source
+> access is unavailable for any Swedenborg, Kephalaia, or other primary-text verification** — don't rely
+> on `WebSearch` summaries of a primary text's structure when the text itself might be one Drive search
+> away. If a PDF needs full-text extraction: `mcp__Google-Drive__download_file_content` returns base64;
+> decode it, and use `pypdf` in a fresh Python venv (`python3 -m venv` + `pip install pypdf`) rather than
+> the system Python, whose `cryptography` install was broken in this environment and breaks every PDF
+> library that depends on it.
+>
+> **Take next**: Your call, per procedure § 2. One live thread if nothing else catches your eye: any other
+> `01_Consciousness_Studies` document reporting NDE statistics dated before January 2026 is a candidate
+> for the same "superseded extraction pass" problem found in strain #27 on 2026-09-21 — not yet checked
+> which ones, if any, are affected.
 >
 > Coverage so far (both nights combined, counting only what's on `main`): `01_Consciousness_Studies` ×1,
 > `08_Correspondential_Texts` ×1. Everything else is untouched — no pattern to correct toward yet, but
 > worth tracking once more nights land.
 >
-> **Propagation debt**: None outstanding from tonight — the `marconian`→`kayna-of-light` URL fix was
-> swept corpus-wide and a follow-up grep came back clean. The Kephalaia chapter-number question (above)
-> is not propagation debt in the technical sense — nothing was fixed yet to propagate — but it is real
-> follow-up work.
+> **Propagation debt**: None outstanding — the `marconian`→`kayna-of-light` URL fix was swept
+> corpus-wide 2026-09-21 and a follow-up grep came back clean.
 >
-> **Awaiting external answers**: 2 research questions logged tonight, both open — `[NDE]` (re-run
-> entity-role analysis against the current `structured-data-analysis` schema) and `[GDR]` (Kephalaia
-> chapter-number verification, standalone file above).
+> **Awaiting external answers**: 1 research question open — `[NDE]` (re-run entity-role analysis against
+> the current `structured-data-analysis` schema, logged 2026-09-21). The `[GDR]` Kephalaia question is
+> resolved (see above).
 >
 > **Worth knowing**:
 > - Two `EVOLVING_CONCEPTUAL_STRAINS.md` items remain open for corpus-wide re-audit, both from
@@ -111,6 +118,7 @@ Refresh the total with `find data -name "*.md" | wc -l`.
 |---|---|---|---|---|---|---|---|
 | 2026-09-21 | `01_Consciousness_Studies/NDE Statistical Analysis_ Entity Roles and Correspondential Patterns.md` | Retired `[P]`/`[S]`/`[E]` type-code table still in use; cites cross-repo NDE/DOPS statistics checkable against `structured-data-analysis`; folder untouched on `main` so far | 4/4 checked (repo URL, Swedenborg *HH* §§87–115, NDERF/IANDS counts, dead output link) | 3F (repo org name; Swedenborg citation verified correct, no change; dead link flagged, not silently kept) + 1A (strain #27: every table's stats are from a superseded Dec-2025 extraction pass) | 8 files (marconian→kayna-of-light repo-URL fix only, not audited) | 1 (re-run entity-role/guidance/return analysis against current schema) | corrected |
 | 2026-09-21 | `08_Correspondential_Texts/The Garment and What Wears It_ Dating the Correspondential Substrate Beneath the Manichaean Kephalaia.md` | Retired type-code notation both inline (dating table) and in Works Cited; dense multi-tier source chain (Theopompus/Plutarch, Old Avestan, Ebla archive) worth a careful trace; folder untouched on `main` so far | 9/9 primary sources + 12/12 internal-doc links checked | 0F (nothing confidently wrong enough to edit) + 2A ([CRITICAL ANALYSIS] notes, unresolved — Kephalaia Ch.38 and Ch.115 citations) + Works Cited restructured (type-code headers dropped, "Companion Theses" renamed to "Internal Library Documents") | 0 (finding is internal to this document; the two source documents it inherited the citations from — *The Ancient Word Recovered*, *Two Registers of One Perception* — were not read in full tonight, so no edit was propagated to them) | 1 (Kephalaia chapter-number verification — see `docs/research_questions/kephalaia_chapter_number_verification.md`) | corrected |
+| 2026-09-22 | `08_Correspondential_Texts/The Garment and What Wears It_ Dating the Correspondential Substrate Beneath the Manichaean Kephalaia.md` | Follow-up, not a new selection — user pointed out a Google Drive folder with the primary Kephalaia text existed and was accessible the whole time, unused in the 2026-09-21 pass | 2/2 (Ch.38, Ch.115) verified against primary text (Drive-hosted Gardner reading-edition PDF) | 2F — retracted both 2026-09-21 `[CRITICAL ANALYSIS]` notes as unfounded; both citations confirmed correct against primary text; Works Cited entry rewritten with verified titles/page-ranges | 0 | 0 (research question from 2026-09-21 resolved, moved to `docs/research_questions/resolved/`) | corrected |
 
 ---
 
@@ -126,7 +134,7 @@ Add an entry when a problem looks like it will recur. Update the existing entry 
 | Reddit / Scribd / other unmoderated or reposted sources | A Works Cited entry linking `reddit.com` (a forum post treated as if it were evidence for a claim) or `scribd.com` (a reuploaded document with no attribution to the real original) | Never a citation in itself. Scribd etc.: find and cite the actual underlying publication. Reddit etc.: find independent verification for the claim and cite that, or `[TRACE NEEDED]` if none exists — the forum post is never the fix, even reformatted. Full routing: `docs/BIBLIOGRAPHY_STANDARDS.md` § "No unmoderated or reposted sources." | **Over 90 documents corpus-wide** confirmed by grep (2026-09-21) — this is the largest single defect class found so far, larger than the Drive-link pattern above. Budget for it explicitly; do not assume a document is close to done because its inline claims check out. |
 | Stale personal-org GitHub URL (`github.com/marconian/<repo>` instead of `github.com/kayna-of-light/<repo>`) | A citation or "Repository:" line pointing at the maintainer's personal GitHub namespace from before the companion repos (`structured-data-analysis`, `proto-luke-reconstruction`, etc.) moved to the `kayna-of-light` org. The personal URL 403s; the org URL 200s. | Mechanical, low-judgment fix — `sed` the org name wherever it appears. Always grep the whole corpus for `github.com/marconian` when you find one instance; it travels by copy-paste same as any other citation. | 9 documents fixed 2026-09-21 (8 `structured-data-analysis`, 1 `proto-luke-reconstruction`); corpus-wide grep came back clean after the fix — treat as closed unless a new instance surfaces. |
 | A `data/` document's statistics were computed from a since-superseded external dataset snapshot | A "Data Sources" citation to `structured-data-analysis` (or another companion repo) is accurate as a *pointer*, but the specific numbers in the document's tables no longer match what a fresh run against that repo's current data produces — because the source repo re-extracted, re-scraped, or otherwise regenerated its dataset after the citing document was written, sometimes with a materially different schema. | Don't hand-recompute and silently overwrite every table — the categorical fields may have changed shape entirely (not just the numbers), which turns "fix the stat" into an analysis-design decision the audit shouldn't make unilaterally. Check the companion repo's git history / extraction timestamps for a bulk-regeneration event; if found, route as a `CORRECTION`-type strain (annotate, don't rewrite) and log a research question for the actual re-run, rather than treating it as a same-day "fix in place" stat error. | `01_Consciousness_Studies/NDE Statistical Analysis...` (strain #27, 2026-09-21) — `structured-data-analysis`'s NDE dataset was fully re-extracted in January 2026 under a revised schema; a December-2025-dated document's tables were all stale as a result. Any other NDE/DOPS-statistics document dated before January 2026 in this corpus is a candidate for the same problem and has not been checked. |
-| A load-bearing primary-source chapter/section citation doesn't match independently-verifiable secondary descriptions of that chapter/section | A companion thesis cites e.g. "Kephalaia Chapter 38" repeatedly as its central evidence for a specific textual feature, but independent search results describe that chapter number as being about something else entirely, while a *different* chapter number matches the described content closely. | Do not silently renumber a citation this consequential on secondary-source web evidence alone, especially when the citation originates in a document outside tonight's batch (propagating an unverified fix is worse than flagging it). Flag with an inline `[CRITICAL ANALYSIS]` note stating the evidence and its limits, and log a detailed research question naming exactly what a reader with primary-source access needs to check. Trace the citation to where it *originates* (often an earlier `00_Framework` or `00_Master_Theses` document that several other theses build on) so the eventual fix, once confirmed, gets applied at the source and propagated outward — not patched only where it was noticed. | `08_Correspondential_Texts/The Garment and What Wears It...` (2026-09-21) — Kephalaia "Chapter 38" (claimed: body-cosmos map) vs. likely-correct "Chapter 70"; originates in `00_Framework/The Ancient Word Recovered`. See `docs/research_questions/kephalaia_chapter_number_verification.md`. |
+| `WebSearch` chapter-title snippets are not evidence about a chapter's *content* | A companion thesis cites e.g. "Kephalaia Chapter 38" as its evidence for a specific textual feature; `WebSearch` results describe that chapter's *title* as being about something else (its catechetical frame), and a *different* chapter's title sounds like a closer thematic match — but the title only names the frame, not the ~13-page body, which does contain the cited material starting partway in. | **Do not treat a web-search chapter-title summary as resolving a content question.** A chapter can run many manuscript pages under a title that only labels its opening frame or catechetical hook; the cited material can sit well past where the title's topic ends. Before flagging a primary-source citation as wrong on `WebSearch` evidence alone, check whether the session already has (or the user's project context mentions) real primary-source access — a Drive folder, a companion repo's generated output, a checked-out PDF — and use it. `mcp__Google-Drive__*` tools plus a Python venv (`pip install pypdf` — the base system's `cryptography` install can be broken; a fresh venv sidesteps it) can decode and full-text-search a Drive-hosted PDF directly. | `08_Correspondential_Texts/The Garment and What Wears It...` — flagged 2026-09-21 on `WebSearch` evidence alone (Kephalaia "Chapter 38" vs. a web-suggested "Chapter 70"; also flagged "Chapter 115"), both citations verified **correct** 2026-09-22 against the primary text once a Drive-hosted reading edition was actually checked (folder `1dCwKutKXBYDY1Z3mRFCwX1EQCB0S14Qk`, `Kephalaia_Reading_Edition.pdf`). Full resolution and lesson: `docs/research_questions/resolved/kephalaia_chapter_number_verification.md`. The flag-don't-silently-fix instinct itself was right; what was missing was checking for available primary-source access before concluding it was unavailable. |
 
 Candidates to watch for in early runs, from the corpus's history — confirm before treating any as established:
 
@@ -140,6 +148,55 @@ Candidates to watch for in early runs, from the corpus's history — confirm bef
 ## Run log
 
 Narrative per run — what the batch surfaced, and anything a later run should know that does not fit the tables. Newest first. Unlike the handoff block, this accumulates.
+
+### 2026-09-22 — Retraction: the 2026-09-21 Kephalaia chapter-number finding was wrong
+
+Not a new nightly run — a same-thread follow-up after the user read the 2026-09-21 PR and pointed out
+two things: (1) `The Ancient Word Recovered` already gives a specific manuscript page range for
+"Chapter 38" (`K.89–102`) that the previous night noted but didn't chase down, and (2) a Google Drive
+folder (`1dCwKutKXBYDY1Z3mRFCwX1EQCB0S14Qk`) holds the actual primary-source PDFs — a Gardner reading
+edition and an "Ancient Word" extraction — that this session's `mcp__Google-Drive__*` tools could reach
+the whole time. Also pointed out access to `manichaean-analysis` was real, though that repo's own
+Kephalaia output turned out to still be gitignored/unavailable — the Drive folder was the actual
+missing piece, not the repo.
+
+Downloaded and decoded `Kephalaia_Reading_Edition.pdf` (base64 via `mcp__Google-Drive__download_file_content`,
+`pypdf` in a fresh venv after the system `cryptography` install proved broken), extracted full text,
+and checked both flagged citations directly:
+
+- **Chapter 38** — confirmed verbatim. The chapter header reads "Chapter 38 / Concerning the Light Mind
+  and the Apostles and the Saints." — matching what `WebSearch` found the night before. But the chapter's
+  body (K.89–102, exactly matching *The Ancient Word Recovered*'s page-range citation) opens its
+  macrocosm discussion at K.90.15 ("Mani begins his discussion with the macrocosmos. The universe is
+  constructed in the form of a human") and contains the exact quoted body-cosmos passage ("His ribs are
+  all the firmaments...") and the soul-tissue correspondence (mind/bone, thought/sinew, etc.) later in
+  the same chapter. The title names only the chapter's catechetical frame — a disciple's five questions
+  to Mani — which is why a web search describing only the title looked unrelated to body-cosmos content.
+  There is no "Chapter 70" with this material; that title, surfaced by `WebSearch` the previous night,
+  does not appear in the primary text where the search implied.
+- **Chapter 115** — also confirmed verbatim. Title: "The Catechumen asks the Apostle: will Rest come
+  about for Someone who has come out of the Body, if the Saints pray and make an Alms-offering for
+  him?" — again matching the previous night's web finding. But Mani's answer to that question is
+  structured as three successive archetypal entreaties (Mother of Life → Living Spirit for the First
+  Man; the gods → Third Ambassador for a leader; a third entreaty for the living soul's liberation) —
+  exactly the "Three Entreaties" pattern `Two Registers of One Perception` describes. The previous
+  night's inconclusive flag correctly read the title but wrongly inferred the content from it alone.
+
+**Both `[CRITICAL ANALYSIS]` notes retracted** from `The Garment and What Wears It` (inline note and
+Works Cited caveat both removed; Works Cited entry rewritten with the verified titles and page ranges
+instead). Research question moved to `docs/research_questions/resolved/kephalaia_chapter_number_verification.md`
+with the full resolution write-up. Pattern register entry corrected — the actual lesson is not "primary
+source chapter citations are risky," it's "a `WebSearch` chapter-title snippet answers a title question,
+not a content question, and check for real primary-source access (a Drive folder, a synced companion
+repo) before assuming there isn't any." New note added to the handoff block pointing at the Drive folder
+directly so this isn't rediscovered by accident again.
+
+**What this means for trust in the rest of last night's work**: nothing else from 2026-09-21 is in
+question — the Kephalaia finding was explicitly flagged as unresolved and never asserted as a
+correction in the first place (no strain was opened, no citation was silently changed), so retracting
+it is exactly the recovery the flag-don't-edit discipline was designed to make cheap. The other
+document (`NDE Statistical Analysis`) and the rest of `The Garment and What Wears It`'s findings
+(repo-URL fix, Ebla/Theopompus/*ed* verifications, Works Cited restructuring) are unaffected.
 
 ### 2026-09-21 — Two documents corrected; one large open finding needing primary-source access
 

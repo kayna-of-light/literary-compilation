@@ -821,8 +821,8 @@ The river and the vessel.
 
 **Data Sources:**
 
-34. NDERF (Near Death Experience Research Foundation). Approximately 3,500 structured NDE accounts. Analyzed in the structured-data-analysis project (projects/nde/).
-35. IANDS (International Association for Near-Death Studies). Approximately 600 structured NDE accounts. Analyzed in the structured-data-analysis project (projects/nde/).
+34. NDERF (Near Death Experience Research Foundation). 5,660 structured NDE accounts. Analyzed in the structured-data-analysis project (projects/nde/).
+35. IANDS (International Association for Near-Death Studies). 1,093 structured NDE accounts. Analyzed in the structured-data-analysis project (projects/nde/).
 36. DOPS (Division of Perceptual Studies), University of Virginia. 2,500+ verified past-life memory cases with birthmark/wound correspondence data.
 37. MallWorld dream corpus. 2,678 crowd-sourced dream reports from r/themallworld. 47 statistical tests performed. Analyzed in the structured-data-analysis project (projects/mallworld/).
 38. Spontaneous remission corpus. 569 cases from PubMed Central and Radical Remission Project. Analyzed in the structured-data-analysis project (projects/remission/).

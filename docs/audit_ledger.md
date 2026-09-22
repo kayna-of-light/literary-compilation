@@ -75,9 +75,20 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > **Propagation debt**: None outstanding — the `marconian`→`kayna-of-light` URL fix was swept
 > corpus-wide 2026-09-21 and a follow-up grep came back clean.
 >
-> **Awaiting external answers**: 1 research question open — `[NDE]` (re-run entity-role analysis against
-> the current `structured-data-analysis` schema, logged 2026-09-21). The `[GDR]` Kephalaia question is
-> resolved (see above).
+> **Awaiting external answers**: 2 research questions open, both `[NDE]` — (1) re-run the entity-role
+> analysis against the current `structured-data-analysis` schema (logged 2026-09-21, now carrying the
+> full propagation surface: the December 2025 figures are load-bearing in four documents beyond the one
+> audited, including `The Seed and the Sun` and two `00_Framework` documents); (2) two traced
+> discrepancies in the "told to return" figures across three documents, logged 2026-09-22 — a column
+> that matches on one of six rows between `NDE Statistical Analysis` and `The Epistemic Architecture`,
+> and a superlative in `The Seed and the Sun` that fails on either document's numbers. Neither was
+> edited: two of the three documents are unread and the underlying run is not reproducible. The `[GDR]`
+> Kephalaia question is resolved.
+>
+> **Worth taking next, on this evidence**: `02_Swedenborgian_Theology/The Epistemic Architecture of
+> Post-Materialist Inquiry` and `00_Master_Theses/The Seed and the Sun` are now the best-motivated
+> picks in the library — both are unread, both carry the disputed figures, and reading either in full is
+> what would let the discrepancies above be settled or properly narrowed rather than left open.
 >
 > **Worth knowing**:
 > - `The Garment and What Wears It` still uses `[P]`/`[S]`/`[T]`/`[E]` codes in **Appendix A's** dating
@@ -168,6 +179,8 @@ Add an entry when a problem looks like it will recur. Update the existing entry 
 | A `data/` document's statistics were computed from a since-superseded external dataset snapshot | A "Data Sources" citation to `structured-data-analysis` (or another companion repo) is accurate as a *pointer*, but the specific numbers in the document's tables no longer match what a fresh run against that repo's current data produces — because the source repo re-extracted, re-scraped, or otherwise regenerated its dataset after the citing document was written, sometimes with a materially different schema. | **This is a "no edit" case, not an annotation case — corrected 2026-09-22 after the original routing was wrong.** The editorial annotation system (`[CORRECTION #N]`, `EVOLVING_CONCEPTUAL_STRAINS.md`) is for genuine conceptual/interpretive evolution — a later document reaching a different *understanding*, already established in the library. It is not a mechanism for flagging deferred work, and a strain must never be opened to mark "this needs to be redone" when nothing has actually been redone yet. A stale external dataset is a data-currency fact, not a conceptual correction. Do not hand-recompute and silently overwrite every table (the categorical fields may have changed shape, making that an analysis-design decision the audit shouldn't make unilaterally) — but also do not touch the document at all. Route it exactly per procedure § 3.6's "Correct treatment not established by the library → No edit. Research question + ledger note" row: leave the document untouched, log a research question describing what a fresh run would need to check, and note it here. Only annotate via the strain system if an actual corrected document already exists in the library *and* covers the specific claim being annotated — never to flag work that still needs to happen. | `01_Consciousness_Studies/NDE Statistical Analysis...` — originally (2026-09-21) wrongly given a header block, two inline `[CORRECTION #27]` notes, and a new strain #27, all reverted 2026-09-22. `structured-data-analysis`'s NDE dataset was fully re-extracted in January 2026 under a revised schema; the December-2025-dated document's tables are stale as a result, and this is real, correctly logged as an `[NDE]` research question — the error was editing the document and opening a strain over it, not identifying the problem. Any other NDE/DOPS-statistics document dated before January 2026 in this corpus is a candidate for the same underlying staleness and has not been checked; if found, log a research question only, do not repeat the annotation mistake. |
 | `WebSearch` chapter-title snippets are not evidence about a chapter's *content* | A companion thesis cites e.g. "Kephalaia Chapter 38" as its evidence for a specific textual feature; `WebSearch` results describe that chapter's *title* as being about something else (its catechetical frame), and a *different* chapter's title sounds like a closer thematic match — but the title only names the frame, not the ~13-page body, which does contain the cited material starting partway in. | **Do not treat a web-search chapter-title summary as resolving a content question.** A chapter can run many manuscript pages under a title that only labels its opening frame or catechetical hook; the cited material can sit well past where the title's topic ends. Before flagging a primary-source citation as wrong on `WebSearch` evidence alone, check whether the session already has (or the user's project context mentions) real primary-source access — a Drive folder, a companion repo's generated output, a checked-out PDF — and use it. `mcp__Google-Drive__*` tools plus a Python venv (`pip install pypdf` — the base system's `cryptography` install can be broken; a fresh venv sidesteps it) can decode and full-text-search a Drive-hosted PDF directly. | `08_Correspondential_Texts/The Garment and What Wears It...` — flagged 2026-09-21 on `WebSearch` evidence alone (Kephalaia "Chapter 38" vs. a web-suggested "Chapter 70"; also flagged "Chapter 115"), both citations verified **correct** 2026-09-22 against the primary text once a Drive-hosted reading edition was actually checked (folder `1dCwKutKXBYDY1Z3mRFCwX1EQCB0S14Qk`, `Kephalaia_Reading_Edition.pdf`). Full resolution and lesson: `docs/research_questions/resolved/kephalaia_chapter_number_verification.md`. The flag-don't-silently-fix instinct itself was right; what was missing was checking for available primary-source access before concluding it was unavailable. |
 
+| Primary sources are in Google Drive, and the Swedenborg PDFs have a broken text layer | A citation needs checking against a primary text and the web hosts 403 or only summarise it. Two runs in a row concluded "no primary-source access" while the actual books sat in the author's Drive, reachable by this session's own tools. | **Check Drive first.** `mcp__Google-Drive__search_files` with `parentId = '<folder>'`, or `title contains 'arcana'`. Confirmed present: all **12 Arcana Coelestia** Standard Edition volumes and the 5 **Spiritual Diary** volumes (in `Swedenborg/Books/`, folder `1DwYsxv8ZWc695x1Y997Ozka2yizs7k83`); Gardner's **Kephalaia of the Teacher**, a stripped **Kephalaia Reading Edition**, Polotsky's German Kephalaia, the **Fihrist**, the Cologne Mani Codex, Book of Giants, Mandaean Book of John (folder `1dCwKutKXBYDY1Z3mRFCwX1EQCB0S14Qk` and its `Books/` child). Each AC volume states its own section range on its title page — vol. 2 is §§1114–2134 — so check the range before trusting an inherited volume number. **To extract text: `download_file_content` returns base64; decode it, then use `pypdfium2`, not `pypdf`.** The Swedenborg PDFs carry a custom font encoding that `pypdf` renders as a substitution cipher ("Arcana" → "–rcana", digits scrambled), which silently defeats string search and would make any grep-based conclusion worthless; `pypdfium2` decodes them cleanly. Install either in a **fresh venv** — the system Python's `cryptography` is broken and takes `pypdf`/`pdfminer` down with it. `pdftoppm`/poppler is unavailable and not installable, so `Read`'s PDF page rendering does not work here; `pypdfium2` is the fallback for that too. | Established 2026-09-22 after two runs had wrongly recorded the primary sources as unreachable. |
+
 Candidates to watch for in early runs, from the corpus's history — confirm before treating any as established:
 
 - Much of this library came out of Gemini Deep Research. Generated bibliographies are the usual place fabricated or subtly wrong citations hide, and a citation pointing at an internal document may be standing in front of an external original (`CLAUDE.md` § Source Tracing, rule 2).
@@ -226,6 +239,55 @@ as routes, because they are no longer routes.
 **For the next run**: the audit's product is this ledger and `docs/research_questions.md`. A night that
 finds ten real problems and edits nothing except four wrong URLs has done the job correctly. Resist the
 pull to leave a mark in the document proving the work happened — the ledger is where that belongs.
+
+### 2026-09-22 — Two loose ends traced to primary sources, both resolved without an edit
+
+Closing the two things the earlier passes left hanging, now that the Drive primary sources are known
+to be reachable.
+
+**1. The statistics propagation nobody had checked — this is the night's real finding.** The pattern
+register said "statistics travel between documents by copying — always grep the number itself," and the
+2026-09-21 run propagated only the URL fix. Grepping the figures instead turns up the December 2025
+entity-role statistics load-bearing in **four more documents**, two of them top-tier:
+`02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry` (reproduces the
+guidance/comfort cross-tabulation verbatim, all six rows, and builds its anti-Jungian argument on it),
+`00_Master_Theses/The Seed and the Sun` (6,739 records, the 70–73%/60.0%/54.5% spread, 33.3%, 29.5%,
+χ² = 41.13 p = 0.008), `00_Framework/A Prophet Mighty in Deed and Word` (29.5%), and
+`00_Framework/The Threefold Path of the Soul` (the 6,739 total). That is the propagation surface any
+re-run has to cover, and it is recorded in the `[NDE]` research question.
+
+Tracing it surfaced **two genuine discrepancies**, both logged as a new `[NDE]` research question, both
+**left unedited** — two of the three documents have not been read by this audit, and the December 2025
+run is not reproducible from the repository, so neither can be settled here:
+
+- *The Epistemic Architecture*'s "Told to Return" column matches `NDE Statistical Analysis` on only one
+  of six rows (God 30.7 vs 25.1, Jesus 29.0 vs 28.5, Religious figure 28.5 vs 30.7, Angels 25.8 vs
+  22.2, Deceased relative 29.5 = 29.5, Unknown presence 18.7 vs 19.2) — while its guidance and comfort
+  columns match to the decimal. God/Religious figure look transposed, which suggests a row misalignment
+  on carry-over, but the two columns could equally be different cuts of the return variable. Which
+  document is right is not determinable from here.
+- *The Seed and the Sun* calls the deceased-relative 29.5% rate "the highest rate of any being
+  category." On `NDE Statistical Analysis`'s own table religious figures are higher at 30.7%, so the
+  superlative fails; on *The Epistemic Architecture*'s column it fails too (God 30.7%). The narrower
+  claim the argument actually needs — relatives gatekeep more than higher beings do relative to their
+  guidance role — is unaffected, and the other two documents state it correctly. A one-clause fix, but
+  in a `00_Master_Theses` document, so the author's call.
+
+**2. `The Garment and What Wears It`'s Swedenborg citation — verified, no error.** The 2026-09-21 pass
+left `AC §§66, 1020, 1238, 2896–2897` "inconclusive" because `WebFetch` summaries of those sections
+didn't surface the *Bene Qedem* content. Read §1238 verbatim from the Drive copy of the Standard
+Edition (vol. 2, §§1114–2134) and the worry dissolves: it is squarely about Genesis 10–11 as
+correspondential composition — "Noah, Shem, Ham, Japheth, and Canaan never existed as men… the
+above-mentioned names were given in order that all the differences in general might be referred to
+them" — which is exactly the first clause of the citation's own gloss. The gloss is *compound* (Genesis
+1–11 as correspondential composition; the *Bene Qedem* as retainers), and the earlier pass had
+mis-modelled it as claiming every listed section supports both clauses. §2896–2897 carry the
+representative-Word theme as previously checked. **Nothing cited is false; no edit.** Worth noting for
+the author if they ever want the second clause cited directly: the explicit loci are in the same work
+at **§1675** ("Balaam, who was one of the sons of the east, or from Syria, where there was a remnant of
+the ancient church") and **§1756** ("Balaam, who was of the sons of the East, from Syria where the
+ancient church still existed") — the latter in a passage specifically about who preserved the ancient
+representative style of writing. Strengthening a citation is the author's prerogative, not the audit's.
 
 ### 2026-09-22 — Second correction: misuse of the editorial annotation system
 

@@ -248,18 +248,18 @@ This dataset cannot address whether DOPS methodology filters non-cyclic cases be
 
 **Primary Sources:**
 
-1. Swedenborg, Emanuel. *Heaven and Hell* (*De Coelo et Ejus Mirabilibus et de Inferno*). London: 1758. §§ 87–115 (the correspondence doctrine chapter; § 116 opens the next chapter, "The Sun in Heaven"). Cited by section number (§).
+1. Swedenborg, Emanuel. *Heaven and Hell* (*De Coelo et Ejus Mirabilibus et de Inferno*). London: 1758. §§ 87–115. Correspondence doctrine foundation. Cited by section number (§).
 
 **Data Sources:**
 
-2. NDERF (Near Death Experience Research Foundation). Approximately 5,000 structured NDE accounts at the time of this analysis (December 2025). Analyzed in the structured-data-analysis project (projects/nde).
-3. IANDS (International Association for Near-Death Studies). Approximately 1,700 structured NDE accounts at the time of this analysis (December 2025). Analyzed in the structured-data-analysis project (projects/nde).
+2. NDERF (Near Death Experience Research Foundation). Approximately 5,000 NDE narratives. Analyzed in the structured-data-analysis project (projects/nde).
+3. IANDS (International Association for Near-Death Studies). Approximately 1,700 NDE narratives. Analyzed in the structured-data-analysis project (projects/nde).
 4. [kayna-of-light/structured-data-analysis](https://github.com/kayna-of-light/structured-data-analysis) (projects/nde). Statistical analysis script: `entity_role_analysis.py`.
 
 ---
 
 ## Raw Data Location
 
-- **Full analysis output**: `projects/nde/output/entity_role_analysis_results.txt` — this generated output was never committed to the repository; the path 404s. It is not reachable and should not be treated as a live link.
+- **Full analysis output**: [`projects/nde/output/entity_role_analysis_results.txt`](https://github.com/kayna-of-light/structured-data-analysis/tree/main/projects/nde/output/entity_role_analysis_results.txt)
 - **Analysis script**: [`projects/nde/scripts/entity_role_analysis.py`](https://github.com/kayna-of-light/structured-data-analysis/tree/main/projects/nde/scripts/entity_role_analysis.py)
 - **Structured NDE data**: [`projects/nde/structured/`](https://github.com/kayna-of-light/structured-data-analysis/tree/main/projects/nde/structured) (6,739 JSON files)

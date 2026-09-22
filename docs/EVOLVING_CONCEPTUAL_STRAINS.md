@@ -1703,3 +1703,4 @@ The correspondential hypothesis may still be stated as a hypothesis. It has not 
 ```markdown
 > **[CORRECTION #26]**: Recurrence and distribution establish a bounded, regionally structured inventory of marks; they do not recover a fixed vocabulary or its meanings. The older positional, cross-cultural, and climatic tests did not validate the proposed correspondences: the positional dataset does not exist, simple global forms have a strong neurovisual/motor null, and frequency cannot establish that a tectiform meant protection or a grid meant order. See *The Mountain and the Pillar*, §§3–4, 6.8, and 7.1–7.4.
 ```
+

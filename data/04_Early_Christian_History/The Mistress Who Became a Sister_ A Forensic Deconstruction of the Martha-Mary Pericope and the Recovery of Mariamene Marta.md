@@ -746,4 +746,4 @@ The words survived the surgery. The woman can be reassembled from the words. Thi
 - "The Tower and the Tomb: An Exhaustive Forensic, Philological, and Archaeological Reconstruction of the Historical Mariamene." In *The Divine Bricolage* literary compilation. [Companion thesis]
 - "They Killed His Brother and Took His Name: The Suppression of the Jamesian Church and the Construction of Pauline Orthodoxy." In *The Divine Bricolage* literary compilation. [Companion thesis]
 - "The Evidence They Will Not Touch: A Systematic Audit of the Scholarly Refusal to Engage Twenty-Six Datapoints Across Six Evidence Types." In *The Divine Bricolage* literary compilation. [Companion thesis]
-- "The Gospel (Proto-Luke): The Jamesian Protograph." Proto-Luke Reconstruction Project. https://github.com/marconian/proto-luke-reconstruction [Companion reconstruction]
+- "The Gospel (Proto-Luke): The Jamesian Protograph." Proto-Luke Reconstruction Project. https://github.com/kayna-of-light/proto-luke-reconstruction [Companion reconstruction]

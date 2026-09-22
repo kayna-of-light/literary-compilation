@@ -958,7 +958,7 @@ The seed and the sun. The vessel and the source. The finite and the infinite. Th
 22. Radical Remission Project. N=149 testimonial cases. https://radicalremission.com
 23. PubMed Central. N=350 clinical case reports. https://www.ncbi.nlm.nih.gov/pmc/
 24. Reddit r/TheMallWorld. N=2,678 structured dream narratives (through January 2026).
-25. Structured Data Analysis Repository. https://github.com/marconian/structured-data-analysis
+25. Structured Data Analysis Repository. https://github.com/kayna-of-light/structured-data-analysis
 
 ### Internal Library Documents
 

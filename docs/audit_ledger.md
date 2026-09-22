@@ -11,9 +11,21 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 
 **Replaced wholesale at the end of every run.** This block describes the present, not the history — history goes in the run log below. A run that leaves this stale has failed its successor.
 
-> **Status**: 2 documents audited 2026-09-21, both `corrected`; one follow-up correction 2026-09-22
-> (see below — a 2026-09-21 finding was retracted as unfounded, not a new document audited). 248 remain.
-> Nothing in flight.
+> **Read this first — the 2026-09-21 run got the editing discipline wrong, and the procedure that
+> licensed it has been rewritten.** That run injected prose into both documents it audited: an editorial
+> header block and inline `[CORRECTION]` notes, a newly-opened strain, `[CRITICAL ANALYSIS]` caveats,
+> verification asides inside Works Cited entries, and a dead-link explanation that replaced a working
+> link. All of it is reverted. **Procedure §§ 3.6, 3.6a and 3.6b are now the binding rule: exactly two
+> edits are permitted to a `data/` document — a surgical correction of record (the wrong token, nothing
+> else) and a source-list reformat to `BIBLIOGRAPHY_STANDARDS.md` carrying entry content across
+> unchanged. No note of any form is ever injected. The audit does not annotate and does not open
+> strains.** Findings go in this ledger; unresolved questions go in `docs/research_questions.md`. A night
+> that finds a lot and edits almost nothing is a night done right. Read § 3.6 before touching a file,
+> and § 4 step 7 before pushing.
+>
+> **Status**: 2 documents audited 2026-09-21, both `corrected`; three follow-up correction passes on
+> 2026-09-22, all of them reverting the previous night's edits rather than auditing anything new (run
+> log has the detail). 248 remain. Nothing in flight.
 >
 > **On the stranded PR #3**: `origin/claude/nightly-audit-2026-09-21`, closed unmerged by the repo
 > owner, still holds 2 real audited documents (`The Heart of the Matter`, `Lexical Fossil Inventory`)
@@ -68,6 +80,11 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > resolved (see above).
 >
 > **Worth knowing**:
+> - `The Garment and What Wears It` still uses `[P]`/`[S]`/`[T]`/`[E]` codes in **Appendix A's** dating
+>   table, with its own legend sentence, and that was left deliberately. `BIBLIOGRAPHY_STANDARDS.md`
+>   retires the codes as a *source-listing* notation; Appendix A is not a source list — it is the
+>   thesis's own argument, classifying the kind of evidence securing each dating tier. Reformatting a
+>   Works Cited section is in scope; rewriting an argument's apparatus is not. Leave it.
 > - Two `EVOLVING_CONCEPTUAL_STRAINS.md` items remain open for corpus-wide re-audit, both from
 >   2026-08-20 — **#16** Pillar 43 Historical Encoding and **#26** Paleolithic Geometric Signs. Neither
 >   touched. Highest strain number is **#26** — a #27 was briefly opened 2026-09-21 for the NDE dataset
@@ -98,7 +115,7 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 | **Document** | Path relative to `data/` |
 | **Why** | Why this document was chosen — a few words is enough |
 | **Sources** | Citations verified / total found |
-| **Corrections** | Fixed in place (F) · Annotated (A) · Flagged `[TRACE NEEDED]` (T) |
+| **Corrections** | Fixed in place (F) — surgical corrections of record, plus source-list reformats. These are the only edits this job makes to a `data/` document; nothing is annotated and no note is ever injected (procedure §§ 3.6, 3.6a, 3.6b). Findings that did not become edits go in this column too, marked as left alone. |
 | **Propagated** | Files outside the batch that received the same correction |
 | **Open** | Research questions logged |
 | **Outcome** | `in-progress` · `clean` · `corrected` · `partial` · `blocked` · `released` |
@@ -131,9 +148,9 @@ Refresh the total with `find data -name "*.md" | wc -l`.
 | Date | Document | Why | Sources | Corrections | Propagated | Open | Outcome |
 |---|---|---|---|---|---|---|---|
 | 2026-09-21 | `01_Consciousness_Studies/NDE Statistical Analysis_ Entity Roles and Correspondential Patterns.md` | Retired `[P]`/`[S]`/`[E]` type-code table still in use; cites cross-repo NDE/DOPS statistics checkable against `structured-data-analysis`; folder untouched on `main` so far | 4/4 checked (repo URL, Swedenborg *HH* §§87–115, NDERF/IANDS counts, dead output link) | 3F (repo org name; Swedenborg citation verified correct, no change; dead link flagged, not silently kept) — see 2026-09-22 row below: an original 1A (opened strain #27, annotated the document) was retracted as a misuse of the annotation system | 8 files (marconian→kayna-of-light repo-URL fix only, not audited) | 1 (re-run entity-role/guidance/return analysis against current schema) | corrected |
-| 2026-09-22 | `01_Consciousness_Studies/NDE Statistical Analysis_ Entity Roles and Correspondential Patterns.md` | Follow-up, not a new selection — user flagged misuse of the editorial annotation system on this document | 0 (no new source checking; a prior edit was reverted) | 1F (reverted: removed the header block, both `[CORRECTION #27]` inline notes, and the "superseded" language added to Works Cited/Raw Data Location; deleted strain #27 from `EVOLVING_CONCEPTUAL_STRAINS.md` entirely) | 0 | 0 (the `[NDE]` research question stays open — logging it was correct; only the document edit and the strain were wrong) | corrected |
+| 2026-09-22 | `01_Consciousness_Studies/NDE Statistical Analysis_ Entity Roles and Correspondential Patterns.md` | Follow-up, not a new selection — user flagged that the 2026-09-21 pass had injected notes into a curated document | 0 (no new source checking; prior edits were reverted) | All injected prose reverted: the editorial header block, both `[CORRECTION #27]` inline notes, the dead-link narration in Raw Data Location (link restored, org-corrected), the "the correspondence doctrine chapter; §116 opens…" gloss on the Swedenborg entry, and the "at the time of this analysis (December 2025)" glosses on the NDERF/IANDS entries. Strain #27 deleted from `EVOLVING_CONCEPTUAL_STRAINS.md`. **What remains on this document is exactly: the `marconian`→`kayna-of-light` URL fix (4 occurrences) and the mandated Source Chain→Works Cited reformat with entry content carried over unchanged.** | 0 | 0 (the `[NDE]` research question stays open — logging it was right; editing the document over it was not) | corrected |
 | 2026-09-21 | `08_Correspondential_Texts/The Garment and What Wears It_ Dating the Correspondential Substrate Beneath the Manichaean Kephalaia.md` | Retired type-code notation both inline (dating table) and in Works Cited; dense multi-tier source chain (Theopompus/Plutarch, Old Avestan, Ebla archive) worth a careful trace; folder untouched on `main` so far | 9/9 primary sources + 12/12 internal-doc links checked | 0F (nothing confidently wrong enough to edit) + 2A ([CRITICAL ANALYSIS] notes, unresolved — Kephalaia Ch.38 and Ch.115 citations) + Works Cited restructured (type-code headers dropped, "Companion Theses" renamed to "Internal Library Documents") | 0 (finding is internal to this document; the two source documents it inherited the citations from — *The Ancient Word Recovered*, *Two Registers of One Perception* — were not read in full tonight, so no edit was propagated to them) | 1 (Kephalaia chapter-number verification — see `docs/research_questions/kephalaia_chapter_number_verification.md`) | corrected |
-| 2026-09-22 | `08_Correspondential_Texts/The Garment and What Wears It_ Dating the Correspondential Substrate Beneath the Manichaean Kephalaia.md` | Follow-up, not a new selection — user pointed out a Google Drive folder with the primary Kephalaia text existed and was accessible the whole time, unused in the 2026-09-21 pass | 2/2 (Ch.38, Ch.115) verified against primary text (Drive-hosted Gardner reading-edition PDF) | 2F — retracted both 2026-09-21 `[CRITICAL ANALYSIS]` notes as unfounded; both citations confirmed correct against primary text; Works Cited entry rewritten with verified titles/page-ranges | 0 | 0 (research question from 2026-09-21 resolved, moved to `docs/research_questions/resolved/`) | corrected |
+| 2026-09-22 | `08_Correspondential_Texts/The Garment and What Wears It_ Dating the Correspondential Substrate Beneath the Manichaean Kephalaia.md` | Follow-up, not a new selection — user pointed out a Google Drive folder with the primary Kephalaia text existed and was accessible the whole time, unused in the 2026-09-21 pass | 2/2 (Ch.38, Ch.115) verified verbatim against the primary text (Drive-hosted Gardner reading-edition PDF); **both citations correct as originally written** | All injected prose reverted: the 2026-09-21 `[CRITICAL ANALYSIS]` inline note and Works Cited caveat, and then (after the user's precision instruction) the replacement verification note that had been written into the Kephalaia entry in their place. That entry is now byte-identical to how the author wrote it. **What remains on this document is exactly: the retired `[P]`/`[T]` type-code legend and header suffixes removed, "Companion Theses in the Library"→"Internal Library Documents", and the two matching TOC anchors — all mandated by `BIBLIOGRAPHY_STANDARDS.md`. No content change to any citation.** | 0 | 0 (research question from 2026-09-21 resolved, moved to `docs/research_questions/resolved/`) | corrected |
 
 ---
 
@@ -163,6 +180,52 @@ Candidates to watch for in early runs, from the corpus's history — confirm bef
 ## Run log
 
 Narrative per run — what the batch surfaced, and anything a later run should know that does not fit the tables. Newest first. Unlike the handoff block, this accumulates.
+
+### 2026-09-22 — Third correction: every injected note reverted, and the procedure rewritten to forbid them
+
+The two corrections below each fixed one instance of a single underlying failure without seeing the
+pattern. The user named it: *"Edits are only allowed with fine grained precision, and whatever form of
+notes should never be injected, make sure the instructions follow that too."*
+
+Re-read the whole `data/` diff against `origin/main` line by line — which is what should have happened
+before the first push — and found the note-injection habit in three more places nobody had flagged yet,
+including one written *during* the previous correction:
+
+- `NDE Statistical Analysis`: the Swedenborg Works Cited entry carried a parenthetical recording what
+  the audit had verified ("the correspondence doctrine chapter; § 116 opens the next chapter…"); the
+  NDERF and IANDS entries carried an invented temporal gloss ("at the time of this analysis (December
+  2025)"); and the Raw Data Location list had a working link *deleted* and replaced with three
+  sentences explaining that the path 404s. That last one is the worst of the set — it destroyed
+  document content to make room for audit commentary.
+- `The Garment and What Wears It`: the Kephalaia Works Cited entry, having had its `[CRITICAL ANALYSIS]`
+  caveat removed an hour earlier, had a long verification note written into it instead — the same
+  mistake in a quieter register.
+
+All reverted. The two audited documents now carry **only**: the `marconian`→`kayna-of-light` URL fix,
+the mandated Source Chain→Works Cited reformat with entry content carried across unchanged, and the
+retired type-code notation removed per `BIBLIOGRAPHY_STANDARDS.md`. Nothing else. Every citation reads
+as the author wrote it.
+
+**The procedure was the root cause, and is now fixed.** § 3.6's routing table had told the run to
+*annotate* three separate finding classes and to mark a fourth `[TRACE NEEDED]` in the document; § 3.7
+told it to propagate "the same inline annotation"; § 4 step 5 told it to "add a strain if warranted".
+Those instructions licensed everything above. § 3.6 now names the only two permitted edits (a surgical
+correction of record; a source-list reformat) and routes every other finding to **no edit**. Two new
+subsections are explicit: **§ 3.6a — never inject a note into a `data/` document**, enumerating the
+forms (header blocks, inline markers, `[TRACE NEEDED]`, parenthetical asides recording what was
+checked, dead-link narration, temporal glosses), with the reason stated: a reader of a curated thesis
+cannot distinguish an author's considered qualification from an audit's marginalia, and the note reads
+as the document's own voice. **§ 3.6b — the audit does not annotate and does not open strains**, with
+the precondition that makes the annotation system inapplicable here (the corrected position must
+already exist in the library) and the rule that it is never a vehicle for deferred work. § 0 now
+separates *finding* from *edit* up front, § 4's verify step requires reading the full `data/` diff and
+reverting any line that is prose rather than a corrected token, and "Out of bounds" leads with both
+prohibitions. The ledger's Corrections column no longer offers "Annotated (A)" or "`[TRACE NEEDED]` (T)"
+as routes, because they are no longer routes.
+
+**For the next run**: the audit's product is this ledger and `docs/research_questions.md`. A night that
+finds ten real problems and edits nothing except four wrong URLs has done the job correctly. Resist the
+pull to leave a mark in the document proving the work happened — the ledger is where that belongs.
 
 ### 2026-09-22 — Second correction: misuse of the editorial annotation system
 
@@ -226,8 +289,10 @@ and checked both flagged citations directly:
   night's inconclusive flag correctly read the title but wrongly inferred the content from it alone.
 
 **Both `[CRITICAL ANALYSIS]` notes retracted** from `The Garment and What Wears It` (inline note and
-Works Cited caveat both removed; Works Cited entry rewritten with the verified titles and page ranges
-instead). Research question moved to `docs/research_questions/resolved/kephalaia_chapter_number_verification.md`
+Works Cited caveat both removed). A verification note summarising the above was written into the
+Kephalaia Works Cited entry in their place — which was the same mistake again in a quieter register,
+and was itself reverted in the precision pass logged above; the entry now stands exactly as the author
+wrote it. Research question moved to `docs/research_questions/resolved/kephalaia_chapter_number_verification.md`
 with the full resolution write-up. Pattern register entry corrected — the actual lesson is not "primary
 source chapter citations are risky," it's "a `WebSearch` chapter-title snippet answers a title question,
 not a content question, and check for real primary-source access (a Drive folder, a synced companion

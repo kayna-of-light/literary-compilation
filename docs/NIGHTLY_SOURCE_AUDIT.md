@@ -45,7 +45,7 @@ The distinction that governs this entire job:
 > **An error of record is a fact about a source. An interpretation is a position the corpus holds.**
 > Errors of record get corrected. Positions get tested against the library — never against a default.
 
-In scope (correct these):
+In scope as a **finding** (all of these):
 
 - A citation that does not exist, or does not say what the document claims it says
 - A wrong section number, date, page, name, manuscript siglum, or statistic
@@ -54,6 +54,8 @@ In scope (correct these):
 - A claim that overstates the reach of the source under it
 - A source chain that stops short of an available primary source
 - A dead, redirected, paywalled-with-no-alternative, or low-quality source where a better one exists
+
+**A finding is not the same as an edit.** What a finding earns is a ledger row and, where it is unresolved, a research question. Only a subset of findings — the surgical corrections of record in § 3.6 — are also edits to the document. Read § 3.6 before touching a file: a document in `data/` is curated work, the permitted edits are narrow and precise, and **no note of any kind is ever injected into one** (§ 3.6a).
 
 Out of scope (leave these alone):
 
@@ -207,7 +209,7 @@ Full standard: `docs/BIBLIOGRAPHY_STANDARDS.md`. A document's source list is one
 **Every `drive.google.com` link gets resolved, and the two cases are different:**
 
 - If the link actually points to another document that lives in this library (a Deep Research citation that resolved to an internal file via Drive instead of a relative path), rewrite it to a relative link — `python scripts/normalize_internal_links.py --only "<relative path>"` to preview, `--apply` to write.
-- If the link points to a personal file — a scan, an export, anything only reachable from the author's own Drive — it is not a valid citation regardless of what the file contains. Cite the actual publication under **Primary Sources** or **Scholarly Works** (publisher, edition, translator — verify these, don't guess them), or move the material into the corpus properly as an **Internal Library Document** if it belongs there. If neither is possible, mark `[TRACE NEEDED]` and log a research question rather than leave a private link standing as though it were a source.
+- If the link points to a personal file — a scan, an export, anything only reachable from the author's own Drive — it is not a valid citation regardless of what the file contains. Cite the actual publication under **Primary Sources** or **Scholarly Works** (publisher, edition, translator — verify these, don't guess them), or move the material into the corpus properly as an **Internal Library Document** if it belongs there. If neither is possible, **leave the entry as it stands** and log a research question — do not mark it `[TRACE NEEDED]` in the document (§ 3.6a), and do not delete a citation you cannot replace.
 
 Other cleanup:
 
@@ -241,20 +243,50 @@ Where a document and the corpus disagree, establish which is current before edit
 
 ### 3.6 Apply corrections
 
-Route each finding by kind. **This table is the operative rule** — it reconciles "fix what is wrong" with the manual's "preserve the original":
+**The documents in `data/` are curated work. This job has exactly two permitted kinds of edit, and writing prose into a document is neither of them.**
+
+The two permitted edits:
+
+1. **A surgical correction of record** — the wrong token replaced by the right one. A wrong section number, a wrong date, a wrong name, a stale URL, a wrong figure. Change that token; change nothing around it.
+2. **A source-list reformat to `docs/BIBLIOGRAPHY_STANDARDS.md`** — carrying every existing entry's content across faithfully.
+
+Everything else is **no edit**. Route each finding:
 
 | Finding | Action |
 |---|---|
-| Wrong citation, section, date, name, siglum; dead link; fabricated reference | **Fix in place.** An error of record is not a position — nothing is preserved by keeping it wrong. |
-| Statistic disagreeing with its dataset | **Fix in place**, naming the source of truth in the ledger. |
-| Position superseded by later corpus understanding | **Annotate**, do not rewrite. Header block + at least one inline note, per the manual. |
-| Claim overstating its source's reach | **Annotate** `[CRITICAL ANALYSIS #N]` and narrow the stated reach. Do not delete the claim. |
-| Claim untraceable after genuine effort | Mark `[TRACE NEEDED]`, log in `docs/research_questions.md`. Leave the text. |
+| Wrong citation, section, date, name, siglum; stale or wrong URL; fabricated reference | **Fix in place, surgically.** The wrong token, nothing else. An error of record is not a position — nothing is preserved by keeping it wrong. |
+| Statistic disagreeing with its dataset, where the same measurement can be restated directly from the source of truth | **Fix the number in place**, naming the source of truth in the ledger. The surrounding sentence does not change. |
+| Source list not in the standard's format | **Reformat per `docs/BIBLIOGRAPHY_STANDARDS.md`.** Each entry keeps the content it already had. A reformat is not an occasion to enrich an entry with what the audit learned while checking it. |
+| Statistic whose dataset or schema has since changed, so the measurement cannot be restated without fresh analysis | **No edit.** Research question + ledger note. |
+| Position superseded by later corpus understanding | **No edit.** Record it for the author (ledger + research question). See § 3.6a — the audit does not annotate. |
+| Claim overstating its source's reach | **No edit.** Ledger note + research question. Narrowing a claim is an editorial judgment about the argument, not a correction of record. |
+| Claim untraceable after genuine effort | **No edit** — not even a `[TRACE NEEDED]` marker. Log in `docs/research_questions.md` + ledger. |
 | Correct treatment not established by the library | **No edit.** Research question + ledger note. |
 
-Annotations follow `EDITORIAL_ANNOTATION_MANUAL.md` exactly: header block after the title, at least one inline note in the body (NotebookLM does not carry context across fragments), `Established correction (library)` pointing at a document inside `data/`, no folder path, no extension.
+### 3.6a Never inject a note into a `data/` document
 
-If a correction represents genuinely new conceptual evolution, add a strain to `EVOLVING_CONCEPTUAL_STRAINS.md` and use its number. Do not invent strain numbers that do not exist there.
+**No note of any form goes into a `data/` document. Not in any circumstance this job can produce.** That means none of:
+
+- an editorial header block, or an inline `[CORRECTION #N]` / `[EVOLVED #N]` / `[CRITICAL ANALYSIS #N]` / `[REFRAMING]` / `[EXTENSION]` note;
+- a `[TRACE NEEDED]` marker;
+- a parenthetical or em-dashed aside recording what the audit checked, confirmed, or doubted — inside a Works Cited entry, a data-provenance table, a "Raw Data Location" list, or anywhere in the body;
+- a sentence explaining that a link is dead, that a figure is stale, that a dataset has moved on, or that a citation needs verification;
+- an "at the time of this analysis" or similar temporal gloss the document did not already carry.
+
+A dead link is **fixed or left alone**, never narrated. A stale figure is **corrected from the source of truth or left alone**, never captioned. `docs/BIBLIOGRAPHY_STANDARDS.md` § "No audit provenance" already forbids this; it is restated here because the failure is easy and the damage is silent — a reader of a curated thesis cannot tell an author's considered qualification from an audit's marginalia, and once injected, the note reads as the document's own voice.
+
+**The findings live in `docs/audit_ledger.md`, and open questions in `docs/research_questions.md`. Those are the audit's output. The document is not a notepad.**
+
+### 3.6b The audit does not annotate, and does not open strains
+
+`EDITORIAL_ANNOTATION_MANUAL.md` and `EVOLVING_CONCEPTUAL_STRAINS.md` are a **separate editorial system with a different job**: recording where the corpus's own conceptual position has *already* moved, as established by another document in the library. It has two hard preconditions this job cannot satisfy on its own:
+
+- the corrected position must **already exist** in a `data/` document, and
+- it must actually cover the specific claim being annotated.
+
+**The annotation system is never a way to flag deferred, pending, or future work.** Opening a strain to mark "this needs to be redone" dresses an unresolved task up as a settled correction: a reader meeting the header block believes the position has been corrected when nothing has been done at all. That inverts the system's entire purpose.
+
+So: **this job does not add annotations, does not add strains, and does not edit `EVOLVING_CONCEPTUAL_STRAINS.md`.** If a document looks like it genuinely warrants an annotation, that is a finding to hand the author — ledger + research question — not an edit to make. The author decides, or authorizes a separate annotation pass that is not this job.
 
 ### 3.7 Propagate across the corpus
 
@@ -268,11 +300,12 @@ grep -rn "<the wrong figure / citation / claim>" data/
 
 Search the distinctive phrasing, the number, the author name, the section reference — several angles, since the same error rarely appears in identical words. Then:
 
-- Apply the same fix, or the same inline annotation, at **every** occurrence.
-- Check documents that cite the corrected document, and confirm what they carry forward is still true.
-- Update the strain's document checklist in `EVOLVING_CONCEPTUAL_STRAINS.md`.
+- Apply **the same surgical fix** at **every** occurrence. A propagated edit is the identical token change, nothing adapted or expanded for the new context.
+- Check documents that cite the corrected document, and confirm what they carry forward is still true. Where it is not, that is a finding for the ledger — not licence to edit a document you have not read.
 
-Propagation edits are allowed outside the night's batch. They are the only edits that are. Those documents are **not** marked audited in the ledger — they received one correction, not a full read.
+Propagation edits are allowed outside the night's batch. They are the only edits that are, and only in the surgical form above: § 3.6a's prohibition on notes applies with full force here, where you have not read the document you are touching.
+
+Those documents are **not** marked audited in the ledger — they received one correction, not a full read.
 
 ---
 
@@ -288,14 +321,16 @@ Propagation edits are allowed outside the night's batch. They are the only edits
 
 3. **Pattern register** — if this run hit a defect class that will recur (a citation style that fabricates, a statistic copied wrong across many files, a source that keeps appearing dead), add or update its entry in the ledger's pattern register: what it looks like, how you handled it, where you have seen it. Knowledge that stays in one night's run log is knowledge the job loses.
 4. **Research questions** — append anything unresolved to `docs/research_questions.md` in the documented format with the right `[NLM]` / `[GDR]` / `[NDE]` target tag.
-5. **Strains** — update `EVOLVING_CONCEPTUAL_STRAINS.md` checkboxes; add a strain if warranted.
+5. **Strains** — nothing to do. This job does not touch `EVOLVING_CONCEPTUAL_STRAINS.md` (§ 3.6b). If something there looks stale or newly warranted, say so in the ledger and leave it to the author.
 6. **Commit** — one commit per audited document plus one for the ledger, so review is readable.
-7. **Verify** — `git status`, review the full diff, confirm nothing unintended was touched.
+7. **Verify** — `git status`, then **read the full `data/` diff line by line** (`git diff origin/main -- data/`) and confirm every single changed line is one of § 3.6's two permitted edits. Any line that is prose rather than a corrected token or a reformatted entry is a violation of § 3.6a — revert it before pushing. Confirm nothing unintended was touched.
 
 ### Out of bounds
 
 Do not, in this job:
 
+- **Write a note, marker, aside, or any other prose into a `data/` document** — see § 3.6a. This is the prohibition most easily broken and the one that does the most damage.
+- **Add an annotation, add a strain, or edit `EVOLVING_CONCEPTUAL_STRAINS.md`** — see § 3.6b
 - Run `scripts/mirror_library_to_drive.py` — it pushes outside the repo; Drive sync stays manual
 - Run `scripts/rename_to_titles.py --apply`, or reorganize/reclassify/move files
 - Rewrite documents wholesale, or edit anything outside the batch except correction propagation
@@ -323,7 +358,8 @@ Body:
  Fabricated or removed citations called out explicitly.>
 
 ## Claim corrections
-<What was corrected in place vs. what was annotated, and why each was routed that way.>
+<What was corrected in place, and what was found but deliberately left alone — with why
+ each was routed that way. Findings left alone are the normal case, not a shortfall.>
 
 ## Corpus propagation
 <Every file touched outside the batch, and the correction it carries.>

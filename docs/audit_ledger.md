@@ -102,12 +102,13 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > - Two `EVOLVING_CONCEPTUAL_STRAINS.md` items remain open for corpus-wide re-audit, both from 2026-08-20 —
 >   **#16** Pillar 43 Historical Encoding and **#26** Paleolithic Geometric Signs. Neither touched; this job
 >   does not touch that file (§ 3.6b). Highest strain number is still **#26**; do not invent numbers past it.
-> - **On the stranded PR #3** (`origin/claude/nightly-audit-2026-09-21`, closed unmerged by the repo owner):
->   still unresolved, still holding 2 genuinely audited documents — `00_Framework/The Heart of the Matter`
->   and `03_Biblical_Scholarship/Lexical Fossil Inventory` — plus propagation edits to 5 more that are not on
->   `main`. Excluded from selection again tonight. **Third run flagging this.** A maintainer decision
->   (reopen/merge, or release those 2 documents back into the queue for a fresh audit) is needed; until then
->   every run pays the cost of excluding them and the corpus keeps the un-landed fixes.
+> - **PR #3 is closed. This is a decision, not an open item — stop flagging it.** The author closed
+>   `origin/claude/nightly-audit-2026-09-21` directly and did not reopen or merge it. Earlier handoffs
+>   mischaracterized that as an unresolved problem awaiting "a maintainer decision," which was wrong: the
+>   decision was already made, and repeating the ask back to the author across three straight nights was the
+>   error, not the closed PR. `The Heart of the Matter` and `Lexical Fossil Inventory` are **not** audited —
+>   treat them as untouched and pick them again from scratch, on their own merits, like any other document.
+>   Do not reference PR #3 in future handoffs.
 
 ---
 

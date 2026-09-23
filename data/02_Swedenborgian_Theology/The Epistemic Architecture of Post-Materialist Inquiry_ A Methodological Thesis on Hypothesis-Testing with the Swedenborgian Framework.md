@@ -960,35 +960,27 @@ We do not have to understand why it works. We do not have to like the implicatio
 
 ---
 
-## References
+## Works Cited
 
-Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+**Primary Sources:**
 
-Feyerabend, P. (1975). *Against Method: Outline of an Anarchistic Theory of Knowledge*. NLB.
+1. Swedenborg, Emanuel. *Divine Love and Wisdom*. Translated by George F. Dole. Swedenborg Foundation, 1988. Originally published 1763.
+2. Swedenborg, Emanuel. *Heaven and Hell*. Translated by George F. Dole. Swedenborg Foundation, 1984. Originally published 1758.
 
-Kelly, L. (2016). *The Memory Code: The Secrets of Stonehenge, Easter Island and Other Ancient Monuments*. Pegasus Books.
+**Scholarly Works:**
 
-Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
-
-O'Regan, B., & Hirshberg, C. (1993). *Spontaneous Remission: An Annotated Bibliography*. Institute of Noetic Sciences.
-
-Parnia, S., et al. (2014). AWARE—AWAreness during REsuscitation—A prospective study. *Resuscitation*, 85(12), 1799-1805.
-
-Planck, M. (1949). *Scientific Autobiography and Other Papers*. Williams & Norgate.
-
-Stevenson, I. (1997). *Reincarnation and Biology: A Contribution to the Etiology of Birthmarks and Birth Defects*. Praeger.
-
-Swedenborg, E. (1758/1984). *Heaven and Hell* (G. F. Dole, Trans.). Swedenborg Foundation.
-
-Swedenborg, E. (1763/1988). *Divine Love and Wisdom* (G. F. Dole, Trans.). Swedenborg Foundation.
-
-Tucker, J. B. (2021). *Before: Children's Memories of Previous Lives*. St. Martin's Essentials.
-
-Turner, K. A. (2014). *Radical Remission: Surviving Cancer Against All Odds*. HarperOne.
-
-van Lommel, P., et al. (2001). Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands. *The Lancet*, 358(9298), 2039-2045.
-
-von Petzinger, G. (2016). *The First Signs: Unlocking the Mysteries of the World's Oldest Symbols*. Atria Books.
+3. Chalmers, David J. *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press, 1996.
+4. Feyerabend, Paul. *Against Method: Outline of an Anarchistic Theory of Knowledge*. NLB, 1975.
+5. Kelly, Lynne. *The Memory Code: The Secrets of Stonehenge, Easter Island and Other Ancient Monuments*. Pegasus Books, 2017.
+6. Kuhn, Thomas S. *The Structure of Scientific Revolutions*. University of Chicago Press, 1962.
+7. O'Regan, Brendan, and Caryle Hirshberg. *Spontaneous Remission: An Annotated Bibliography*. Institute of Noetic Sciences, 1993.
+8. Parnia, Sam, et al. "AWARE—AWAreness during REsuscitation—A prospective study." *Resuscitation* 85.12 (2014): 1799–1805.
+9. Planck, Max. *Scientific Autobiography and Other Papers*. Williams & Norgate, 1949.
+10. Stevenson, Ian. *Reincarnation and Biology: A Contribution to the Etiology of Birthmarks and Birth Defects*. Praeger, 1997.
+11. Tucker, Jim B. *Before: Children's Memories of Previous Lives*. St. Martin's Essentials, 2021.
+12. Turner, Kelly A. *Radical Remission: Surviving Cancer Against All Odds*. HarperOne, 2014.
+13. van Lommel, Pim, et al. "Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands." *The Lancet* 358.9298 (2001): 2039–2045.
+14. von Petzinger, Genevieve. *The First Signs: Unlocking the Mysteries of the World's Oldest Symbols*. Atria Books, 2016.
 
 ---
 
@@ -1010,8 +1002,8 @@ von Petzinger, G. (2016). *The First Signs: Unlocking the Mysteries of the World
 
 | Dataset | Source | N | Access |
 |---------|--------|---|--------|
-| NDERF | Near-Death Experience Research Foundation | ~3,500 | nderf.org |
-| IANDS | International Association for Near-Death Studies | ~600 | iands.org |
+| NDERF | Near-Death Experience Research Foundation | 5,660 | nderf.org |
+| IANDS | International Association for Near-Death Studies | 1,093 | iands.org |
 | DOPS | Division of Perceptual Studies, University of Virginia | 2,500+ | med.virginia.edu/perceptual-studies |
 | Radical Remission | Radical Remission Project | 1,500+ | radicalremission.com |
 
@@ -1048,7 +1040,7 @@ Analysis repository: https://github.com/kayna-of-light/structured-data-analysis
 - [x] Part VI: Why Not Other Frameworks
 - [x] Part VII: Research Integrity
 - [x] Part VIII: Conclusion
-- [x] References
+- [x] Works Cited
 - [x] Appendices
 
 **THESIS COMPLETE**

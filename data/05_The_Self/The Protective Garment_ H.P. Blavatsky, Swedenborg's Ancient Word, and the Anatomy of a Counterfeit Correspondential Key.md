@@ -45,9 +45,9 @@
     - [Appendix D. The Claimant Table — Vindication by the Spade (from §9)](#appendix-d-the-claimant-table--vindication-by-the-spade-from-9)
     - [Appendix E. The Four Witnesses to the Ancient Word (from §9)](#appendix-e-the-four-witnesses-to-the-ancient-word-from-9)
   - [15. Works Cited](#15-works-cited)
-    - [Primary Sources \[P\]](#primary-sources-p)
-    - [Secondary Sources \[S\]](#secondary-sources-s)
-    - [Framework Synthesis Documents \[T\]](#framework-synthesis-documents-t)
+    - [Primary Sources](#primary-sources)
+    - [Scholarly Works](#scholarly-works)
+    - [Internal Library Documents](#internal-library-documents)
 
 ---
 
@@ -180,7 +180,7 @@ The signature, once seen, is unmistakable and pervasive. It is not confined to t
 
 ## 6. The Operative Dictionary: The Gnostic Stream She Decodes With
 
-If Swedenborg supplies Blavatsky's warrant but not her content, the question becomes: what *does* supply her content? The answer is in her own pages, stated without concealment, because she does not regard it as a debt to be hidden — she regards it as her credential. Blavatsky's actual operative dictionary is the **gnostic cosmology**: the Ophite, Valentinian, and "Nazarene" systems she draws principally from the heresiologists (Irenaeus ranks twelfth in her citations precisely because he is her quarry-face for this material) and from the *Pistis Sophia*. When she decodes a symbol, the meaning she assigns is not Swedenborg's functional correspondence but a figure from this cosmology — Sophia-Achamoth, Ilda-Baoth, the serpent-Logos of the Ophites, the descent of the divine spark into chaos.
+If Swedenborg supplies Blavatsky's warrant but not her content, the question becomes: what *does* supply her content? The answer is in her own pages, stated without concealment, because she does not regard it as a debt to be hidden — she regards it as her credential. Blavatsky's actual operative dictionary is the **gnostic cosmology**: the Ophite, Valentinian, and "Nazarene" systems she draws principally from the heresiologists (Irenaeus ranks tenth in her citations precisely because he is her quarry-face for this material) and from the *Pistis Sophia*. When she decodes a symbol, the meaning she assigns is not Swedenborg's functional correspondence but a figure from this cosmology — Sophia-Achamoth, Ilda-Baoth, the serpent-Logos of the Ophites, the descent of the divine spark into chaos.
 
 Her own statements make the dependence explicit. She tells the reader directly where the "real meaning" is to be found: *"It is in the religious doctrines of the Gnostics that we can best see the real meaning of the Dragon, the Serpent..."* The serpent's meaning, for her, is not recovered by asking what a serpent *does* (Swedenborg's functional method) but by consulting the Ophite system, in which *"the Serpent was the Logos—Christos,"* generated *"through his Father Ennoïa and Mother Sophia."* Her cosmogony is the gnostic cosmogony, transcribed: *"Sophia-Achamoth descended into chaos... until... she produces the Creator... the Demiurgus, called by the Ophites Ilda-Baoth,"* and — the tell that she reads the Bible *through* this dictionary rather than the reverse — *"It is at this point of the kabalistic-gnostic cosmogony that begins the Mosaic Bible."* The Mosaic narrative, for Blavatsky, does not have its own correspondential meaning to be recovered; it *begins where the gnostic story leaves off*, as a later chapter of the Sophia-Ilda-Baoth drama. And she ranks the gnostic deposit above the canonical Gospels: the *Pistis Sophia*, she declares, is *"a genuine Evangel of the Gnostics"* — a true gospel, where the church's gospels are corruptions.
 
@@ -228,7 +228,7 @@ Now the strongest form of her defense must be stated, because she anticipated ex
 
 It collapses on three points, each fatal. **First, the inversion of dependency.** Blavatsky recasts the *author* of a doctrine as a *secondary witness* to it, with herself as the primary holder — the exact maneuver §2.2 predicts for a writer wearing a key she cannot operate. The order of evidence is plain: Swedenborg published the Tartary doctrine in 1771; Blavatsky read it, quoted it, and adopted it in the 1870s–80s. The historical arrow runs from him to her. Her construction reverses the arrow, making him a foretaste of a tradition she represents — but she can produce no pre-Swedenborgian source that states the doctrine in his form, and the one she actually cites *for the doctrine* is Swedenborg himself. The primary holder of the Tartary thesis, in the documentary record, is the man she demotes.
 
-**Second, the honesty hinge.** Both Swedenborg and Blavatsky make the *same* factual claim — that the Ancient Word physically exists, in Central Asia. They differ on one thing only: their relation to the evidence. Swedenborg is *honest about the limit of his access*. He says plainly that he does *not* possess the book, that he knows of it through what he was shown and told, and he *directs others to go and look* — "seek for it in China." He leaves the gap open and labels it a gap. Blavatsky *fills the gap with herself*. Where he says "seek for it, I have not got it," she says "it has been found, my Masters have seen the books, and I relay it." The difference between them is not the content of the claim but the posture toward the unknown — and that posture is precisely the difference between receiving and claiming defined in §2.4. Swedenborg stands in the honest position of the one who reports a pointer he cannot himself cash. Blavatsky stands in the self's position of the one who cashes the pointer by supplying the missing article from her own authority. The honesty hinge is the cleanest single discriminator in the whole analysis: confronted with the same vacancy, one man labels it and the other fills it with himself.
+**Second, the honesty hinge.** Both Swedenborg and Blavatsky make the *same* factual claim — that the Ancient Word physically exists, in Central Asia. They differ on one thing only: their relation to the evidence. Swedenborg is *honest about the limit of his access*. He says plainly that he does *not* possess the book, that he knows of it through what he was shown and told, and he *directs others to go and look* — "seek for it in China." He leaves the gap open and labels it a gap. Blavatsky *fills the gap with herself*. Where he says "seek for it, I have not got it," she says "it has been found, my Masters have seen the books, and I relay it." The difference between them is not the content of the claim but the posture toward the unknown — and that posture is precisely the difference between receiving and claiming defined in §2.4. Swedenborg stands in the honest position of the one who reports a pointer he cannot himself cash. Blavatsky stands in the self's position of the one who cashes the pointer by supplying the missing article from her own authority. The honesty hinge is the cleanest single discriminator in the whole analysis: confronted with the same vacancy, one man labels it and the other fills it with herself.
 
 **Third, the astral self-cancellation.** Blavatsky's demotion of Swedenborg rests entirely on disqualifying *spirit-derived* knowledge: he only had "the word of 'certain spirits,'" whereas her people "have seen the books." But Blavatsky's *entire corpus* is signed by spirit-derived knowledge. The *Book of Dzyan*, the Senzar stanzas, the teachings of the Masters — these reach her, on her own account, by astral and occult transmission, by communications received rather than volumes she physically read and translated for public examination. She rejects astral hearsay as a basis of authority in Swedenborg's case and then rests her own authority on astral transmission in her own. The disqualification she aims at him destroys her standing more completely than his, because he at least *also* points to a physical book others may go and verify, while she offers the *Stanzas of Dzyan* as a text no one but she has seen. The weapon she raises against Swedenborg detonates in her own hand.
 
@@ -426,51 +426,51 @@ What is genuinely ancient, what is a first literalization, and what Blavatsky ad
 
 ## 15. Works Cited
 
-Sources are classified by type: **[P]** Primary (original texts), **[S]** Secondary (scholarly analysis), **[T]** Tertiary (framework synthesis documents in this library). Internal library links are relative to this document's location in `data/05_The_Self/`.
+Internal library links are relative to this document's location in `data/05_The_Self/`.
 
-### Primary Sources [P]
+### Primary Sources
 
-- **[P]** Blavatsky, H. P. *Isis Unveiled*, vols. I–II. New York: J. W. Bouton, 1877. (Source of the Swedenborg/Tartary quotations, the gnostic-cosmology material, and the four diagnostic symbol-readings.)
-- **[P]** Blavatsky, H. P. *The Secret Doctrine*, vols. I–II. London: The Theosophical Publishing Company, 1888. (Source of "the universally diffused religion of the ancient and prehistoric world," the "one small parent volume," the Senzar/Central Asia claims, and the root-race anthropogenesis.)
-- **[P]** Blavatsky, H. P. *The Key to Theosophy*. London / New York: Theosophical Publishing, 1889.
-- **[P]** Blavatsky, H. P. *Studies in Occultism*. (Collected articles.)
-- **[P]** Swedenborg, Emanuel. *Heaven and Hell* (*De Caelo et Inferno*). 1758. (Codification of the doctrine of correspondences.)
-- **[P]** Swedenborg, Emanuel. *Arcana Coelestia*. 1749–1756. (The functional correspondences of water, the flood/Noah, the serpent, and the horse.)
-- **[P]** Swedenborg, Emanuel. *Doctrine of the Sacred Scripture* (*Doctrina Novae Hierosolymae de Scriptura Sacra*). 1763. (The Ancient Word and the directive to seek it in the East.)
-- **[P]** Swedenborg, Emanuel. *True Christian Religion* (*Vera Christiana Religio*), §279. 1771. ("The Ancient Word is still preserved among the peoples who dwell in Great Tartary.")
-- **[P]** *The Apocryphon of John* (Nag Hammadi Codex II,1; also III,1; IV,1). The 365-angel body-correspondence passage citing "the book of Zoroaster."
-- **[P]** *The Apocalypse of Adam* (Nag Hammadi Codex V,5). The thirteen kingdoms and the kingless generation.
-- **[P]** *Pistis Sophia* (Askew Codex). Cited by Blavatsky as "a genuine Evangel of the Gnostics."
-- **[P]** *Kephalaia of the Teacher* (Medinet Madi Coptic Manichaean codex, disc. 1929). Eng. trans. Iain Gardner, *The Kephalaia of the Teacher*, Leiden: Brill, 1995.
-- **[P]** *Bundahišn* (preserving the *Dāmdād Nask*). Zoroastrian body-cosmos correspondence.
+- Blavatsky, H. P. *Isis Unveiled*, vols. I–II. New York: J. W. Bouton, 1877. (Source of the Swedenborg/Tartary quotations, the gnostic-cosmology material, and the four diagnostic symbol-readings.)
+- Blavatsky, H. P. *The Secret Doctrine*, vols. I–II. London: The Theosophical Publishing Company, 1888. (Source of "the universally diffused religion of the ancient and prehistoric world," the "one small parent volume," the Senzar/Central Asia claims, and the root-race anthropogenesis.)
+- Blavatsky, H. P. *The Key to Theosophy*. London / New York: Theosophical Publishing, 1889.
+- Blavatsky, H. P. *Studies in Occultism*. (Collected articles.)
+- Swedenborg, Emanuel. *Heaven and Hell* (*De Caelo et Inferno*). 1758. (Codification of the doctrine of correspondences.)
+- Swedenborg, Emanuel. *Arcana Coelestia*. 1749–1756. (The functional correspondences of water, the flood/Noah, the serpent, and the horse.)
+- Swedenborg, Emanuel. *Doctrine of the Sacred Scripture* (*Doctrina Novae Hierosolymae de Scriptura Sacra*). 1763. (The Ancient Word and the directive to seek it in the East.)
+- Swedenborg, Emanuel. *True Christian Religion* (*Vera Christiana Religio*), §279. 1771. ("The Ancient Word is still preserved among the peoples who dwell in Great Tartary.")
+- *The Apocryphon of John* (Nag Hammadi Codex II,1; also III,1; IV,1). The 365-angel body-correspondence passage citing "the book of Zoroaster."
+- *The Apocalypse of Adam* (Nag Hammadi Codex V,5). The thirteen kingdoms and the kingless generation.
+- *Pistis Sophia* (Askew Codex). Cited by Blavatsky as "a genuine Evangel of the Gnostics."
+- *Kephalaia of the Teacher* (Medinet Madi Coptic Manichaean codex, disc. 1929). Eng. trans. Iain Gardner, *The Kephalaia of the Teacher*, Leiden: Brill, 1995.
+- *Bundahišn* (preserving the *Dāmdād Nask*). Zoroastrian body-cosmos correspondence.
 
-### Secondary Sources [S]
+### Scholarly Works
 
-- **[S]** Henning, W. B. "The Book of the Giants." *Bulletin of the School of Oriental and African Studies* 11.1 (1943): 52–74. (Attestation of the Manichaean *Book of Giants* at both Qumran and Turfan.)
-- **[S]** Le Coq, Albert von, and the German Turfan expeditions (1902–1914). Recovery of the Manichaean manuscript deposit from the Turfan oasis, Chinese Turkestan.
-- **[S]** Gardner, Iain, and Samuel N. C. Lieu. *Manichaean Texts from the Roman Empire*. Cambridge: Cambridge University Press, 2004. (Context for the Manichaean corpus and its transmission.)
+- Henning, W. B. "The Book of the Giants." *Bulletin of the School of Oriental and African Studies* 11.1 (1943): 52–74. (Attestation of the Manichaean *Book of Giants* at both Qumran and Turfan.)
+- Le Coq, Albert von, and the German Turfan expeditions (1902–1914). Recovery of the Manichaean manuscript deposit from the Turfan oasis, Chinese Turkestan.
+- Gardner, Iain, and Samuel N. C. Lieu. *Manichaean Texts from the Roman Empire*. Cambridge: Cambridge University Press, 2004. (Context for the Manichaean corpus and its transmission.)
 
-### Framework Synthesis Documents [T]
+### Internal Library Documents
 
 Primary correspondential-substrate and self-sourcing analyses on which this thesis depends:
 
-- **[T]** [The Ancient Word Recovered: Extracting the Correspondential Substrate of the Kephalaia](../00_Framework/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md)
-- **[T]** [The Carriers of Living Water: A Forensic Reconstruction of the Jesus Movement from the Jamesian Community to the Three Surviving Witnesses](../00_Master_Theses/The%20Carriers%20of%20Living%20Water_%20A%20Forensic%20Reconstruction%20of%20the%20Jesus%20Movement%20from%20the%20Jamesian%20Community%20to%20the%20Three%20Surviving%20Witnesses.md) (§8, the four-witness convergence and Turfan recovery)
-- **[T]** [The Transmission of the Ancient Word: A Thesis on the Science of Correspondences from Deep Antiquity to Modern Cultural Expression](../00_Framework/The%20Transmission%20of%20the%20Ancient%20Word_%20A%20Thesis%20on%20the%20Science%20of%20Correspondences%20from%20Deep%20Antiquity%20to%20Modern%20Cultural%20Expression.md)
-- **[T]** [The Children of the East: Israel, the Bene Qedem, and the Forging of the Word from Nomadic Wisdom to Covenantal Scripture](../00_Master_Theses/The%20Children%20of%20the%20East_%20Israel%2C%20the%20Bene%20Qedem%2C%20and%20the%20Forging%20of%20the%20Word%20from%20Nomadic%20Wisdom%20to%20Covenantal%20Scripture.md)
-- **[T]** [Reversing the Arrow: 'Gnosticism' as the Downstream Literalization of Correspondential Composition](../08_Correspondential_Texts/Reversing%20the%20Arrow_%20%27Gnosticism%27%20as%20the%20Downstream%20Literalization%20of%20Correspondential%20Composition.md)
-- **[T]** [The Literalized Fall: The Sethian Corpus as Correspondential Architecture Without the Key](../08_Correspondential_Texts/The%20Literalized%20Fall_%20The%20Sethian%20Corpus%20as%20Correspondential%20Architecture%20Without%20the%20Key.md)
-- **[T]** [The Living Library: Correspondential Architecture Across the Nag Hammadi Collection](../08_Correspondential_Texts/The%20Living%20Library_%20Correspondential%20Architecture%20Across%20the%20Nag%20Hammadi%20Collection.md)
-- **[T]** [The Book of Zoroaster and the Children of the East: Material Evidence for the Ancient Word Transmission Hypothesis from the Nag Hammadi Apocryphon of John](../08_Correspondential_Texts/The%20Book%20of%20Zoroaster%20and%20the%20Children%20of%20the%20East_%20Material%20Evidence%20for%20the%20Ancient%20Word%20Transmission%20Hypothesis%20from%20the%20Nag%20Hammadi%20Apocryphon%20of%20John.md)
-- **[T]** [The Unnamed Cartography: A Systematic Validation of Swedenborgian Body-Part Correspondences Against the 365-Angel List of the Apocryphon of John](../08_Correspondential_Texts/The%20Unnamed%20Cartography_%20A%20Systematic%20Validation%20of%20Swedenborgian%20Body-Part%20Correspondences%20Against%20the%20365-Angel%20List%20of%20the%20Apocryphon%20of%20John.md)
-- **[T]** [Thirteen Kingdoms and the Kingless Seed: The Apocalypse of Adam as Correspondential Architecture](../08_Correspondential_Texts/Thirteen%20Kingdoms%20and%20the%20Kingless%20Seed_%20The%20Apocalypse%20of%20Adam%20as%20Correspondential%20Architecture.md)
+- [The Ancient Word Recovered: Extracting the Correspondential Substrate of the Kephalaia](../00_Framework/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md)
+- [The Carriers of Living Water: A Forensic Reconstruction of the Jesus Movement from the Jamesian Community to the Three Surviving Witnesses](../00_Master_Theses/The%20Carriers%20of%20Living%20Water_%20A%20Forensic%20Reconstruction%20of%20the%20Jesus%20Movement%20from%20the%20Jamesian%20Community%20to%20the%20Three%20Surviving%20Witnesses.md) (§8, the four-witness convergence and Turfan recovery)
+- [The Transmission of the Ancient Word: A Thesis on the Science of Correspondences from Deep Antiquity to Modern Cultural Expression](../00_Framework/The%20Transmission%20of%20the%20Ancient%20Word_%20A%20Thesis%20on%20the%20Science%20of%20Correspondences%20from%20Deep%20Antiquity%20to%20Modern%20Cultural%20Expression.md)
+- [The Children of the East: Israel, the Bene Qedem, and the Forging of the Word from Nomadic Wisdom to Covenantal Scripture](../00_Master_Theses/The%20Children%20of%20the%20East_%20Israel%2C%20the%20Bene%20Qedem%2C%20and%20the%20Forging%20of%20the%20Word%20from%20Nomadic%20Wisdom%20to%20Covenantal%20Scripture.md)
+- [Reversing the Arrow: 'Gnosticism' as the Downstream Literalization of Correspondential Composition](../08_Correspondential_Texts/Reversing%20the%20Arrow_%20%27Gnosticism%27%20as%20the%20Downstream%20Literalization%20of%20Correspondential%20Composition.md)
+- [The Literalized Fall: The Sethian Corpus as Correspondential Architecture Without the Key](../08_Correspondential_Texts/The%20Literalized%20Fall_%20The%20Sethian%20Corpus%20as%20Correspondential%20Architecture%20Without%20the%20Key.md)
+- [The Living Library: Correspondential Architecture Across the Nag Hammadi Collection](../08_Correspondential_Texts/The%20Living%20Library_%20Correspondential%20Architecture%20Across%20the%20Nag%20Hammadi%20Collection.md)
+- [The Book of Zoroaster and the Children of the East: Material Evidence for the Ancient Word Transmission Hypothesis from the Nag Hammadi Apocryphon of John](../08_Correspondential_Texts/The%20Book%20of%20Zoroaster%20and%20the%20Children%20of%20the%20East_%20Material%20Evidence%20for%20the%20Ancient%20Word%20Transmission%20Hypothesis%20from%20the%20Nag%20Hammadi%20Apocryphon%20of%20John.md)
+- [The Unnamed Cartography: A Systematic Validation of Swedenborgian Body-Part Correspondences Against the 365-Angel List of the Apocryphon of John](../08_Correspondential_Texts/The%20Unnamed%20Cartography_%20A%20Systematic%20Validation%20of%20Swedenborgian%20Body-Part%20Correspondences%20Against%20the%20365-Angel%20List%20of%20the%20Apocryphon%20of%20John.md)
+- [Thirteen Kingdoms and the Kingless Seed: The Apocalypse of Adam as Correspondential Architecture](../08_Correspondential_Texts/Thirteen%20Kingdoms%20and%20the%20Kingless%20Seed_%20The%20Apocalypse%20of%20Adam%20as%20Correspondential%20Architecture.md)
 
 Selfhood analyses (this volume, `05_The_Self/`):
 
-- **[T]** [The Architecture of Hidden Divinity: A Comprehensive Profile of the Gnostic Impulse and Its Historical Mechanics](./The%20Architecture%20of%20Hidden%20Divinity_%20A%20Comprehensive%20Profile%20of%20the%20Gnostic%20Impulse%20and%20Its%20Historical%20Mechanics.md)
-- **[T]** [The Architecture of Autonomy: A Pneumatological and Historical Validation of the Gnostic Impulse as the Operational Mechanic of Selfhood](./The%20Architecture%20of%20Autonomy_%20A%20Pneumatological%20and%20Historical%20Validation%20of%20the%20Gnostic%20Impulse%20as%20the%20Operational%20Mechanic%20of%20Selfhood.md)
-- **[T]** [The Paradox of the Pneumatic Ego: A Forensic Analysis of Pauline Humility, Rhetorical Strategy, and the Theology of Selfhood](./The%20Paradox%20of%20the%20Pneumatic%20Ego_%20A%20Forensic%20Analysis%20of%20Pauline%20Humility%2C%20Rhetorical%20Strategy%2C%20and%20the%20Theology%20of%20Selfhood.md)
-- **[T]** [Dancing with Fire: Marcion of Sinope and the Correspondential Key He Never Possessed](./Dancing%20with%20Fire_%20Marcion%20of%20Sinope%20and%20the%20Correspondential%20Key%20He%20Never%20Possessed.md)
+- [The Architecture of Hidden Divinity: A Comprehensive Profile of the Gnostic Impulse and Its Historical Mechanics](./The%20Architecture%20of%20Hidden%20Divinity_%20A%20Comprehensive%20Profile%20of%20the%20Gnostic%20Impulse%20and%20Its%20Historical%20Mechanics.md)
+- [The Architecture of Autonomy: A Pneumatological and Historical Validation of the Gnostic Impulse as the Operational Mechanic of Selfhood](./The%20Architecture%20of%20Autonomy_%20A%20Pneumatological%20and%20Historical%20Validation%20of%20the%20Gnostic%20Impulse%20as%20the%20Operational%20Mechanic%20of%20Selfhood.md)
+- [The Paradox of the Pneumatic Ego: A Forensic Analysis of Pauline Humility, Rhetorical Strategy, and the Theology of Selfhood](./The%20Paradox%20of%20the%20Pneumatic%20Ego_%20A%20Forensic%20Analysis%20of%20Pauline%20Humility%2C%20Rhetorical%20Strategy%2C%20and%20the%20Theology%20of%20Selfhood.md)
+- [Dancing with Fire: Marcion of Sinope and the Correspondential Key He Never Possessed](./Dancing%20with%20Fire_%20Marcion%20of%20Sinope%20and%20the%20Correspondential%20Key%20He%20Never%20Possessed.md)
 
 ---
 

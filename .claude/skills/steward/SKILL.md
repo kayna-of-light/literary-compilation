@@ -63,7 +63,7 @@ Do not edit the *"Next run starts here"* block from a PR response. It belongs to
 
 Never, in response to a PR event:
 
-- Merge the PR, or push to `main`
+- Merge the PR, or push directly to `dev` or `main`
 - Edit `CLAUDE.md`
 - Run `scripts/mirror_library_to_drive.py` — it publishes outside the repo
 - Run `scripts/rename_to_titles.py --apply`, or move, rename, or reclassify files

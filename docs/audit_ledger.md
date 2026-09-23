@@ -102,13 +102,9 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > - Two `EVOLVING_CONCEPTUAL_STRAINS.md` items remain open for corpus-wide re-audit, both from 2026-08-20 —
 >   **#16** Pillar 43 Historical Encoding and **#26** Paleolithic Geometric Signs. Neither touched; this job
 >   does not touch that file (§ 3.6b). Highest strain number is still **#26**; do not invent numbers past it.
-> - **PR #3 is closed. This is a decision, not an open item — stop flagging it.** The author closed
->   `origin/claude/nightly-audit-2026-09-21` directly and did not reopen or merge it. Earlier handoffs
->   mischaracterized that as an unresolved problem awaiting "a maintainer decision," which was wrong: the
->   decision was already made, and repeating the ask back to the author across three straight nights was the
->   error, not the closed PR. `The Heart of the Matter` and `Lexical Fossil Inventory` are **not** audited —
->   treat them as untouched and pick them again from scratch, on their own merits, like any other document.
->   Do not reference PR #3 in future handoffs.
+> - `00_Framework/The Heart of the Matter` and `03_Biblical_Scholarship/Lexical Fossil Inventory` are not on
+>   `main` and are not audited. Pick them again from scratch on their own merits if they look worth taking,
+>   same as any other untouched document.
 
 ---
 

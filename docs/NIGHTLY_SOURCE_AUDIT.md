@@ -2,6 +2,7 @@
 
 **Created**: 2026-09-20
 **Runs**: Automated, nightly at 02:00 Europe/Amsterdam
+**Base branch**: `dev` — every nightly branch is cut from `origin/dev` and every PR opens against `dev`, never `main`.
 **State**: [`audit_ledger.md`](audit_ledger.md)
 **Related**: [`BIBLIOGRAPHY_STANDARDS.md`](BIBLIOGRAPHY_STANDARDS.md) · [`EDITORIAL_ANNOTATION_MANUAL.md`](EDITORIAL_ANNOTATION_MANUAL.md) · [`EVOLVING_CONCEPTUAL_STRAINS.md`](EVOLVING_CONCEPTUAL_STRAINS.md) · [`research_questions.md`](research_questions.md)
 
@@ -118,15 +119,15 @@ Correctness of selection. Do not re-audit a document already done, and do not co
 ```bash
 cd literary-compilation
 git fetch origin --prune
-git checkout -B claude/nightly-audit-$(date +%F) origin/main
+git checkout -B claude/nightly-audit-$(date +%F) origin/dev
 ```
 
 Build the exclusion set from **three** places:
 
-1. `docs/audit_ledger.md` on `main` — every document already audited.
+1. `docs/audit_ledger.md` on `dev` — every document already audited.
 2. Every unmerged `origin/claude/nightly-audit-*` branch — read each one's ledger, since those documents are audited but not yet merged:
    ```bash
-   for b in $(git branch -r --list 'origin/claude/nightly-audit-*' --no-merged origin/main); do
+   for b in $(git branch -r --list 'origin/claude/nightly-audit-*' --no-merged origin/dev); do
      git show "$b:docs/audit_ledger.md" 2>/dev/null
    done
    ```
@@ -323,7 +324,7 @@ Those documents are **not** marked audited in the ledger — they received one c
 4. **Research questions** — append anything unresolved to `docs/research_questions.md` in the documented format with the right `[NLM]` / `[GDR]` / `[NDE]` target tag.
 5. **Strains** — nothing to do. This job does not touch `EVOLVING_CONCEPTUAL_STRAINS.md` (§ 3.6b). If something there looks stale or newly warranted, say so in the ledger and leave it to the author.
 6. **Commit** — one commit per audited document plus one for the ledger, so review is readable.
-7. **Verify** — `git status`, then **read the full `data/` diff line by line** (`git diff origin/main -- data/`) and confirm every single changed line is one of § 3.6's two permitted edits. Any line that is prose rather than a corrected token or a reformatted entry is a violation of § 3.6a — revert it before pushing. Confirm nothing unintended was touched.
+7. **Verify** — `git status`, then **read the full `data/` diff line by line** (`git diff origin/dev -- data/`) and confirm every single changed line is one of § 3.6's two permitted edits. Any line that is prose rather than a corrected token or a reformatted entry is a violation of § 3.6a — revert it before pushing. Confirm nothing unintended was touched.
 
 ### Out of bounds
 
@@ -335,11 +336,11 @@ Do not, in this job:
 - Run `scripts/rename_to_titles.py --apply`, or reorganize/reclassify/move files
 - Rewrite documents wholesale, or edit anything outside the batch except correction propagation
 - Touch `CLAUDE.md`, or any repo other than `literary-compilation` (the others are read-only reference here)
-- Merge the PR, or push to `main`
+- Merge the PR, or push directly to `dev` or `main`
 
 ### Open the PR
 
-Push and open a PR against `main`:
+Push and open a PR against `dev`:
 
 ```bash
 git push -u origin claude/nightly-audit-$(date +%F)
@@ -379,7 +380,7 @@ fixable; interpretive positions are the author's._
 **If no PR tooling is available in the run** (no `mcp__github__*` tools and no `gh` CLI), the branch push is still the deliverable. Push it, then send this URL instead — it opens GitHub's PR form pre-filled from the branch, so the PR is one click away:
 
 ```
-https://github.com/kayna-of-light/literary-compilation/compare/main...claude/nightly-audit-YYYY-MM-DD?expand=1
+https://github.com/kayna-of-light/literary-compilation/compare/dev...claude/nightly-audit-YYYY-MM-DD?expand=1
 ```
 
 Put the PR body you composed into the notification so it can be pasted straight in. Note in the ledger that the PR was not opened automatically.
@@ -396,6 +397,6 @@ If the run found nothing to correct, say so plainly — a clean batch is a real 
 |---|---|
 | Batch bigger than the session can finish | Finish the documents you started, ledger only those, PR the partial batch. Never half-audit a document and mark it done. |
 | External verification unavailable (network, paywall) | Mark the source unverified in the ledger, leave the citation, log a research question. Do not guess. |
-| Previous night's PR still open | Expected. Exclude its documents and branch from `main` as normal. |
+| Previous night's PR still open | Expected. Exclude its documents and branch from `dev` as normal. |
 | Merge conflict with an earlier audit branch | Almost always the ledger. Keep both sets of rows. |
 | Correct stance genuinely unclear | No edit. Research question. This is the designed outcome, not a failure. |

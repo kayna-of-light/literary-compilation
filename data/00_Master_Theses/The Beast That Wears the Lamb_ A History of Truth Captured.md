@@ -757,6 +757,6 @@ The fire does not stop.
 
 **Data Sources:**
 
-30. NDERF (Near Death Experience Research Foundation). ~3,500 structured records. Being of Light experiential properties constant across backgrounds: χ² = 365.14, p < 0.0001.
-31. IANDS (International Association for Near-Death Studies). ~600 structured records.
+30. NDERF (Near Death Experience Research Foundation). 5,660 structured records. Being of Light experiential properties constant across backgrounds: χ² = 365.14, p < 0.0001.
+31. IANDS (International Association for Near-Death Studies). 1,093 structured records.
 32. Division of Perceptual Studies (DOPS), University of Virginia. 2,500+ verified past-life memory cases.

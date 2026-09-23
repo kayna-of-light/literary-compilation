@@ -2321,6 +2321,175 @@ Note that God/Religious figure look transposed (25.1↔30.7 against 30.7↔28.5)
 
 ---
 
+## Logged by the nightly source audit, 2026-09-22
+
+---
+
+### [NDE] The December 2025 entity-role variables no longer exist in the schema — a "re-run" is an analysis-design decision, not a recomputation
+
+**Priority**: HIGH — this determines what the two open questions above can and cannot be answered with
+**Related Documents**:
+- `data/01_Consciousness_Studies/NDE Statistical Analysis_ Entity Roles and Correspondential Patterns.md`
+- `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on Hypothesis-Testing with the Swedenborgian Framework.md` (§ 3.2.2)
+- `data/00_Master_Theses/The Seed and the Sun_ ... Dissolution of the Hard Problem.md` (§ 4.2)
+- `data/00_Framework/The Threefold Path of the Soul_ ...` (source of the N=6,739 figures)
+
+**Context**:
+Both documents in the 2026-09-22 audit batch were read in full, which was the blocker the previous run recorded. Reading them does not settle the "Told to Return" discrepancy, and it is now possible to say exactly why.
+
+The December 2025 entity-role cross-tabulation was computed from fields that the January 2026 re-extraction **removed**. `projects/nde/scripts/entity_role_analysis.py` reads `guidance_level`, `return_choice`, `communication_mode` and `religious_affiliation`. None of those keys appear in any of the 6,753 current structured records. The current schema has instead:
+
+| Retired field | Current replacement | Why this is not a rename |
+|---|---|---|
+| `guidance_level` (single categorical: `significant_guidance` / `comfort_or_reassurance` / …) | `guidance_received` (yes/no/not_mentioned) **plus** `guidance_types` (multi-select list, `comfort` one of six options) | Guidance and Comfort were **mutually exclusive** categories of one variable — which is why the published rows sum to 90–95%. They are now independent, and a single record can carry both. The two published columns cannot be reproduced as a partition. |
+| `return_choice` (single categorical) | `return_agency` / `return_willingness` / `return_reasons` (three fields) | "Told to return" has no single successor; it could map to `return_agency = external_being`, to `return_reasons` containing `not_your_time`, or to a combination. |
+| `religious_affiliation` | `religious_background` / `religious_belief_at_nde` | The old field did not distinguish background from belief at the time of the NDE. |
+
+**Research Question**:
+1. Decide, as an analysis-design choice, how Guidance / Comfort / Told-to-Return should be operationalised under the current schema — and record that choice, because it is not recoverable from the old figures.
+2. Re-run the cross-tabulation under that definition, and state plainly in whatever document carries the result that it is **a new measurement**, not a correction of the December 2025 one.
+3. Only then settle the two questions above (which published column is right; whether the 29.5% superlative in *The Seed and the Sun* holds).
+
+**Note for whoever picks this up**: a large majority of the NDE statistics in *The Seed and the Sun* were checked against the current 6,753 records during this audit and reproduce **exactly** — 11.8% / 40.9% light encounter, the 3.8:1 impersonal-to-personified ratio, 623 (9.2%) earthly-mission returns, 17.9% deceased relatives (14.9% named / 2.9% unnamed), 17.5% life review (10.6% brief / 6.9% extensive), judgment sources 1.4% / 2.3% / 3.0%, 49.4% reluctant on n=3,563, 70.1% not returning by own choice, the return-reason counts 1,459 / 1,164 / 711 / 623, identity continuity 64.8% / 1.4% / 0.6% / 33.2%, 84.7% Christian among those with identified religion, and every cell of Appendix C (which sums to 6,753 exactly). The staleness is **specific to the entity-role block and the figures inherited at N=6,739**, not general to the document.
+
+**Status**: Open
+
+---
+
+### [NDE] *The Epistemic Architecture* § 3.2.1 — the "2.6 times more likely" ratio and the 14.9% / 5.7% pair do not come from the same measurement
+
+**Priority**: MEDIUM
+**Related Document**: `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ ...md` § 3.2.1
+
+**Context**:
+The document states: "Christians are 2.6 times more likely to identify the Being as 'Jesus' than non-Christians (14.9% vs. 5.7%)." Traced to `structured-data-analysis` → `projects/nde/notebooks/archive/light_being_analysis.ipynb` (the December 2025 run). The notebook's own table reads:
+
+| Religion | N | God | Jesus | Religious Figure | Unknown Presence |
+|---|---|---|---|---|---|
+| not_mentioned | 4,437 | 6.1% | 4.1% | 2.1% | 20.1% |
+| christian | 1,192 | 11.8% | **14.9%** | 4.9% | 23.2% |
+| other | 652 | 7.8% | 3.8% | 5.5% | 26.1% |
+| atheist_agnostic | 296 | 4.7% | 4.7% | 2.0% | 23.0% |
+| spiritual_not_religious | 55 | 5.5% | 3.6% | 0.0% | 30.9% |
+
+So 14.9% is right for Christians naming Jesus. But the pooled non-Christian Jesus rate is 221/5,440 = **4.1%**, not 5.7%, giving a ratio of about **3.7×**. The notebook's own headline — "Christians are 2.6x more likely to identify **Christian figures**" — is computed over God **and** Jesus combined (26.8% vs 10.3% = 2.61×). The sentence as published attaches the God+Jesus ratio to Jesus alone, and pairs it with a percentage pair that reproduces 2.61 arithmetically (14.9/5.7) but that does not correspond to any row of the source table. No 5.7% non-Christian Jesus rate exists in the data.
+
+**No edit was made.** Restating this correctly means choosing which measure the argument wants, which is an authorial decision, and the underlying `religious_affiliation` field has since been retired (see the question above), so it cannot simply be recomputed.
+
+**This finding does not weaken the section's argument.** The paragraph's own point is that the cultural-mediation statistic "tells us about the experiencer's mental repertoire, not about the Being," and that the critical finding is the *constancy* of experiential properties. A ratio of 3.7× rather than 2.6× is a **larger** cultural-mediation effect — which the document concedes rather than relies on. The χ² = 365.14, the 51.9% "unknown presence" figure, and the 44.2% of Christians choosing "unknown presence" were all verified correct against the companion repo's Being of Light report.
+
+**Research Question**:
+Which measure should the sentence report — Christians vs. non-Christians on *Jesus* (14.9% vs 4.1%, ≈3.7×), or on *Christian figures* God+Jesus (26.8% vs 10.3%, ≈2.6×)? Restate accordingly, and check whether the same sentence has been carried into any other document.
+
+**Status**: Open
+
+---
+
+### [GDR] *The Epistemic Architecture* — the AWARE study reports 2% with explicit recall, and one objectively verified case
+
+**Priority**: MEDIUM
+**Related Document**: `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ ...md` §§ 1.1, 3.1.1
+
+**Context**:
+The document twice states: "The AWARE study found that 2% of cardiac arrest survivors reported **verified** awareness during clinical death," and adds "they are veridical perceptions that can be independently verified."
+
+Parnia et al. 2014 (*Resuscitation* 85.12: 1799–1805 — citation itself verified correct) reports: of 2,060 cardiac arrest events, 140 survivors completed stage-1 and 101 stage-2 interviews; 46% had memories, 9% had NDEs, and "2% described awareness with explicit recall of 'seeing' and 'hearing' actual events related to their resuscitation. **One** had a verifiable period of conscious awareness during which time cerebral function was not expected."
+
+So the 2% is *explicit recall of real resuscitation events*, in the stage-2 interview sample, and one case of those was objectively verified against timed stimuli. The word "verified" attached to the 2% describes something the study did not measure.
+
+**No edit was made** — restating it means rewriting two sentences across two sections, which is an editorial judgment about the argument rather than a correction of record.
+
+**This is a precision point, not a retraction.** The verified case is real and is exactly what the section needs: structured awareness accurately timed to a period when no cerebral function was expected. *The Seed and the Sun* § 3.7 already handles the same study correctly, including the denominator problem on the hidden-target test.
+
+**Research Question**:
+1. Restate the AWARE figure as the study reports it (2% with explicit recall of real events; one objectively verified case), in both places.
+2. Consider whether AWARE-II (Parnia et al., *Resuscitation*, 2023) should now be cited alongside it — it did not exist when this thesis was drafted.
+
+**Status**: Open
+
+---
+
+### [GDR] Swedenborg edition dates: is there a Dole translation from 1984 (*Heaven and Hell*) or 1988 (*Divine Love and Wisdom*)?
+
+**Priority**: LOW
+**Related Document**: `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ ...md`, Works Cited 1–2
+
+**Context**:
+The two Swedenborg entries name George F. Dole as translator with dates 1758/1984 (*HH*) and 1763/1988 (*DLW*). The original-publication dates are correct. The translation dates could not be confirmed: the Dole translations traceable through the Swedenborg Foundation are the New Century Edition *Heaven and Hell* (2000) and *Divine Love and Wisdom* (2003), and no 1984 or 1988 Dole printing surfaced.
+
+`docs/BIBLIOGRAPHY_STANDARDS.md` requires the entry to name the specific edition actually used, so this matters. **The dates were carried across unchanged in the Works Cited reformat** — a reformat does not change entry content, and guessing an edition the author may not have used would be worse than leaving the question open.
+
+**Research Question**:
+Which Dole edition was actually consulted? If it is the New Century Edition, the dates should read 2000 and 2003. If an earlier Swedenborg Foundation printing exists under those years, the entries are already right and this can be closed.
+
+**Status**: Open
+
+---
+
+### [GDR] Does a second edition (2020) of Gardner's *The Kephalaia of the Teacher* exist?
+
+**Priority**: LOW
+**Related Documents**:
+- `data/00_Master_Theses/The Seed and the Sun_ ...md`, Works Cited 5
+- `data/02_Swedenborgian_Theology/The Resolution of the Finite Mind_ ...md`, source list
+
+**Context**:
+Both documents cite "Leiden: Brill, 1995. **2nd ed. 2020.**" The 1995 first edition is confirmed (Nag Hammadi and Manichaean Studies 37, Brill, xli + 307, ISBN 90-04-10248-5). A 2020 second edition could not be confirmed — Brill's own catalogue pages returned 403, and other corpus documents cite the work without the 2020 clause.
+
+**No edit was made.** This corpus has already been burned once by retracting a Kephalaia detail on the strength of web-search absence (see `docs/research_questions/resolved/kephalaia_chapter_number_verification.md`), and absence of a search hit is not evidence of absence for a Brill reissue. The detail appears in at least two documents, which suggests a deliberate authorial claim rather than a slip.
+
+**Research Question**:
+Confirm or remove "2nd ed. 2020" — and if it is real, note whether the 2020 text differs in pagination or chapter numbering, since several documents cite Kephalaia chapters by number.
+
+**Status**: Open
+
+---
+
+### [GDR] *The Seed and the Sun* — inline scholarly attributions that are not in the Works Cited
+
+**Priority**: MEDIUM
+**Related Document**: `data/00_Master_Theses/The Seed and the Sun_ ...md`, §§ 3, 5, 6, 8
+
+**Context**:
+All 52 Works Cited entries were checked and all but one resolved (the broken relative link in entry 52 was fixed). The gap runs the other way: the document makes specific, named scholarly attributions in its body that the bibliography does not carry. Found:
+
+| Attribution in body | § | In Works Cited? |
+|---|---|---|
+| Stevenson 1993, *JSE* 7(4): 403–410 (cited inline, with volume and pages) | 6.3 | No — only *Reincarnation and Biology* (1997) |
+| James Matlock, short-intermission analysis (36 cases, 32 with birthmarks) | 6.3 | No |
+| Stevenson and Cook, 326 cases across eight cultures | 6.4 | No |
+| Borjigin et al. 2019, DMT in dying rat brain | 3.2 | No — only the 2013 PNAS gamma paper |
+| Christopher Kerr, 88.1% of hospice patients reporting end-of-life dreams | 5.4 | No |
+| William Peters / Shared Crossing Project, >60% of shared death experiences remote | 3.6 | No |
+| Tachibana Takashi 2003 (the 22 interviews Ohkado & Greyson analysed) | 4.5 | No |
+| Anita Moorjani, 70% tumour reduction in four days | 8.4 | No |
+
+**No edit was made.** Adding entries to a bibliography is not one of the two edits the nightly audit is permitted to make (`docs/NIGHTLY_SOURCE_AUDIT.md` § 3.6), and each of these needs a decision about which publication to cite.
+
+**Research Question**:
+Resolve each attribution to a full citation and add it under **Scholarly Works**. Two are already effectively done: Stevenson 1993 is given in the body with volume and pages, and Ohkado & Greyson 2014 (*Journal of Near-Death Studies* 32(4): 187–198) was verified against the article itself during this audit — including that its sample is exactly 22 interviews, as § 4.5 states.
+
+**Status**: Open
+
+---
+
+### [GDR] A citable meta-analysis exists for the "placebo achieves less than 1% complete response" claim
+
+**Priority**: LOW
+**Related Documents**:
+- `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ ...md` §§ 1.1, 5.4
+- `data/00_Master_Theses/The Seed and the Sun_ ...md` § 8.4
+
+**Context**:
+Both documents assert that "meta-analyses show that placebo achieves less than 1% complete response in advanced solid tumors" without citing one. The claim is **correct and if anything conservative**: "Objective response rate of placebo in randomized controlled trials of anticancer medicines" (*eClinicalMedicine*, 2022) pooled 45 phase-3 RCTs covering 5,684 patients on placebo in advanced solid tumours and found a pooled **complete** response rate of 0% (95% CI 0–0%) and an overall response rate of 1%, almost all partial.
+
+**Research Question**:
+Add the full citation under **Scholarly Works** in both documents, so the strongest support for the claim is visible rather than implied. (Verified during the 2026-09-22 audit; recorded here rather than edited in, because adding a bibliography entry is outside what the audit may change.)
+
+**Status**: Open
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

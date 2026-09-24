@@ -2490,6 +2490,32 @@ Add the full citation under **Scholarly Works** in both documents, so the strong
 
 ---
 
+## Logged by the nightly source audit, 2026-09-23
+
+---
+
+### [GDR] *The Protective Garment* — two positions that its later rewrite, *The Empty Room*, has corrected
+
+**Priority**: MEDIUM — the author's call on whether the earlier document should be annotated, revised, or retired
+**Related Documents**:
+- `data/05_The_Self/The Protective Garment_ H.P. Blavatsky, Swedenborg's Ancient Word, and the Anatomy of a Counterfeit Correspondential Key.md` (§§1, 4, 11)
+- `data/05_The_Self/The Empty Room and the Self That Filled It_ H.P. Blavatsky, the Ancient Word, and the Inversion from Reception to Self-Deification.md` (§§2.5, 4, 17 — the later, fuller treatment)
+
+**Context**:
+The two documents share most of their text; *The Empty Room* is the later rewrite. The factual errors found in *The Protective Garment* on 2026-09-23 have been corrected in the document (the *Apocalypse of Adam* anachronism in §10, the Swedenborg and Henning citations, the Works Cited). What remains are two **positions** the later document revises, which are interpretive and so left for the author:
+
+1. **The key (§4).** *The Protective Garment* says "She had Swedenborg's announcement that a semantic dictionary exists; she did not have the dictionary." *The Empty Room* §4 reverses this: the *Arcana Coelestia* and *The White Horse* were in print and on her shelf, so "the semantic key to these four symbols was therefore not missing from her hands".
+2. **Swedenborg's position (§11).** *The Protective Garment* says every pre-twentieth-century inquirer shared her position, "including, in large part, Swedenborg himself". *The Empty Room* §17 limits that to the documentary path: on the semantic key "she and Swedenborg were *not* in the same position".
+
+One unresolved count as well: *The Protective Garment* §1 says the name-frequency count ran "across her eight major works", while §2.3 lists four works and *The Empty Room* §2.5 says "six works". Which is right depends on the notebook run behind the table, which is not in the repository.
+
+**Research Question**:
+Decide whether *The Protective Garment* should carry `[EVOLVED]` annotations pointing to *The Empty Room*, be revised to match it, or be retired as superseded; and settle the work count behind the frequency table.
+
+**Status**: Open
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

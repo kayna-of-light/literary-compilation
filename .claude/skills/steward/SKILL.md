@@ -13,7 +13,7 @@ Guidance for any agent acting on a pull request in this repository: watching CI,
 
 This repository is not code. It is a research corpus — 250 markdown documents synthesizing consciousness studies, Swedenborgian theology, biblical scholarship, and mythological analysis.
 
-Most PRs here come from the nightly source and claim audit ([`docs/NIGHTLY_SOURCE_AUDIT.md`](../../../docs/NIGHTLY_SOURCE_AUDIT.md)). Their diffs are surgical citation corrections, source-list reformatting, and ledger updates — never notes written into a `data/` document, and never editorial annotations (§§ 3.6a, 3.6b). A "fix" is an editorial judgment about scholarship, not a code change.
+Most PRs here come from the nightly source and claim audit ([`docs/NIGHTLY_SOURCE_AUDIT.md`](../../../docs/NIGHTLY_SOURCE_AUDIT.md)). Their diffs are corrections of sources and facts — wrong citations fixed, weak sources replaced with high-quality ones, missing sources added, false facts corrected — plus source-list reformatting and ledger updates. Never notes written into a `data/` document, and never editorial annotations (§§ 3.6a, 3.6b). A "fix" is an editorial judgment about scholarship, not a code change.
 
 That changes what unattended pushing means. A bad code fix fails a test. A bad editorial fix quietly misrepresents the corpus and may not be caught for months.
 
@@ -37,11 +37,12 @@ When a comment's intent is ambiguous, **ask rather than push**. A reply costs a 
 | A citation the reviewer says is wrong or fabricated | Verify, then push |
 | Typo, formatting, broken link | Push it |
 | Works Cited formatting, personal-file (`drive.google.com`) citation, `[P]`/`[S]`/`[T]` tags | Push it, following `docs/BIBLIOGRAPHY_STANDARDS.md` |
+| "This source is weak / wrong — use X", or a missing or mis-described Works Cited entry | Verify against the primary or high-quality source, then push the replacement |
 | "Add a note / annotate this / flag this in the document" | **Reply, do not push** — even when a reviewer asks for it directly. See below. |
 | "This reading is wrong" / "this overstates" | **Reply, do not push.** Editorial judgment is the author's. |
 | Anything whose correct resolution is not settled by the library | **Reply, do not push.** Log a research question instead. |
 
-When you do push, keep the audit's own rules: the edit is surgical (the wrong token, nothing else), and corrections propagate corpus-wide (`grep` the library from several angles) in that same identical form.
+When you do push, keep the audit's own rules (`docs/NIGHTLY_SOURCE_AUDIT.md` § 3.6): the edit is precise — what is wrong and what the correction requires, in the author's voice — and corrections propagate corpus-wide (`grep` the library from several angles).
 
 **Never write a note into a `data/` document, and never add an annotation or a strain** — `docs/NIGHTLY_SOURCE_AUDIT.md` §§ 3.6a and 3.6b, which are binding here too. That covers editorial header blocks, inline `[CORRECTION #N]` / `[CRITICAL ANALYSIS #N]` / `[TRACE NEEDED]` markers, and the quieter forms: a parenthetical inside a Works Cited entry recording what you verified, a sentence explaining that a link is dead or a figure stale, a temporal gloss the author did not write. A reader of a curated thesis cannot tell an author's qualification from an agent's marginalia. If a reviewer asks for an annotation, that is a request for a separate editorial act with its own preconditions (the corrected position must already exist in the library) — reply with what you found and let the author make the call; do not push it because you were asked. The findings belong in `docs/audit_ledger.md`, the open questions in `docs/research_questions.md`.
 

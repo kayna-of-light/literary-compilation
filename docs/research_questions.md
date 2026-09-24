@@ -2494,95 +2494,23 @@ Add the full citation under **Scholarly Works** in both documents, so the strong
 
 ---
 
-### [GDR] The "seek for it in China" directive is in *Apocalypse Revealed* §11, not in the *Doctrine of the Sacred Scripture*
+### [GDR] *The Protective Garment* — two positions that its later rewrite, *The Empty Room*, has corrected
 
-**Priority**: MEDIUM — it is the Swedenborg citation under both documents' "smoking gun" section
+**Priority**: MEDIUM — the author's call on whether the earlier document should be annotated, revised, or retired
 **Related Documents**:
-- `data/05_The_Self/The Empty Room and the Self That Filled It_ H.P. Blavatsky, the Ancient Word, and the Inversion from Reception to Self-Deification.md` (§8; Works Cited)
-- `data/05_The_Self/The Protective Garment_ H.P. Blavatsky, Swedenborg's Ancient Word, and the Anatomy of a Counterfeit Correspondential Key.md` (§8; Works Cited)
-- `data/02_Swedenborgian_Theology/The Resonant Cosmos_ ...md` (already cites the passage correctly as *Apocalypse Revealed* 11)
+- `data/05_The_Self/The Protective Garment_ H.P. Blavatsky, Swedenborg's Ancient Word, and the Anatomy of a Counterfeit Correspondential Key.md` (§§1, 4, 11)
+- `data/05_The_Self/The Empty Room and the Self That Filled It_ H.P. Blavatsky, the Ancient Word, and the Inversion from Reception to Self-Deification.md` (§§2.5, 4, 17 — the later, fuller treatment)
 
 **Context**:
-Both documents say that in *True Christian Religion* §279 Swedenborg places the Ancient Word in Great Tartary "and in his doctrine of the Sacred Scripture he directs the seeker eastward to recover it", and both Works Cited entries for *Doctrine of the Sacred Scripture* (1763) gloss it as "The Ancient Word and the directive to seek it in the East."
+The two documents share most of their text; *The Empty Room* is the later rewrite. The factual errors found in *The Protective Garment* on 2026-09-23 have been corrected in the document (the *Apocalypse of Adam* anachronism in §10, the Swedenborg and Henning citations, the Works Cited). What remains are two **positions** the later document revises, which are interpretive and so left for the author:
 
-Checked against the primary texts during the 2026-09-23 audit:
-- *Doctrine of Holy Scripture* §§101–103 (Swedenborg Foundation Standard Edition PDF, read in full) discusses the Ancient Word, the Book of Jasher, the Wars of Jehovah and the Enunciations, and says the Ancient Word "is still preserved, and is in use in that heaven where those ancient people dwell". **It does not mention Tartary or China, and gives no directive to seek it anywhere.** The words "Tartary" and "China" do not occur in the work.
-- *True Christian Religion* §279 (Chadwick translation) does say the Ancient Word "is still preserved there among the peoples who live in Great Tartary" — the documents' quotation of it is correct — but it contains no "seek for it" directive either.
-- The directive is ***Apocalypse Revealed* §11** (1766), read verbatim from the Drive copy (Standard Edition, vol. 1): "Seek for it in China, and peradventure you will find it there among the Tartars."
+1. **The key (§4).** *The Protective Garment* says "She had Swedenborg's announcement that a semantic dictionary exists; she did not have the dictionary." *The Empty Room* §4 reverses this: the *Arcana Coelestia* and *The White Horse* were in print and on her shelf, so "the semantic key to these four symbols was therefore not missing from her hands".
+2. **Swedenborg's position (§11).** *The Protective Garment* says every pre-twentieth-century inquirer shared her position, "including, in large part, Swedenborg himself". *The Empty Room* §17 limits that to the documentary path: on the semantic key "she and Swedenborg were *not* in the same position".
 
-Three smaller points on the same passage, recorded so the author has the whole picture:
-1. Both documents say Blavatsky "reproduces this directive *verbatim*" and "quotes his own phrasing". Her text (*Isis Unveiled* II, verified) reads "'peradventure you may find it in Great Tartary!'" — a close paraphrase of *AR* §11 ("…there among the Tartars"), not a verbatim quotation.
-2. "Swedenborg published the Tartary doctrine in 1771" (§§8–9, Appendix C of both) is true of *TCR*, but the doctrine was first in print in *AR* §11 in 1766. Nothing in either argument depends on the difference.
-3. Both documents put "seek for it in China; I have not got it" (and "seek for it, I have not got it") inside quotation marks as Swedenborg's words. "I have not got it" is the documents' own gloss; it does not occur in *AR* §11 or *TCR* §279.
-
-**No edit was made.** Correcting the body sentence to *Apocalypse Revealed* §11 would also require either re-glossing the *Doctrine of the Sacred Scripture* entry or adding an *Apocalypse Revealed* entry to the Works Cited, and adding a bibliography entry is outside what the audit may change (`docs/NIGHTLY_SOURCE_AUDIT.md` § 3.6).
+One unresolved count as well: *The Protective Garment* §1 says the name-frequency count ran "across her eight major works", while §2.3 lists four works and *The Empty Room* §2.5 says "six works". Which is right depends on the notebook run behind the table, which is not in the repository.
 
 **Research Question**:
-Confirm, and if agreed apply in both documents: body — "in his doctrine of the Sacred Scripture" → "in *Apocalypse Revealed* (§11, 1766)"; Works Cited — add Swedenborg, *Apocalypse Revealed* (1766), §11, and reduce the *Doctrine of the Sacred Scripture* gloss to what §§101–103 actually carry (the Ancient Word, now preserved in heaven). Decide whether the quotation marks around "I have not got it" should stay.
-
-**Status**: Open
-
----
-
-### [GDR] Henning 1943 is cited for the *Book of Giants* at Qumran — it can only attest Turfan
-
-**Priority**: LOW
-**Related Documents**:
-- `data/05_The_Self/The Empty Room and the Self That Filled It_ H.P. Blavatsky, the Ancient Word, and the Inversion from Reception to Self-Deification.md` (§9; Works Cited, Henning entry)
-- `data/05_The_Self/The Protective Garment_ H.P. Blavatsky, Swedenborg's Ancient Word, and the Anatomy of a Counterfeit Correspondential Key.md` (§9; Works Cited, Henning entry)
-
-**Context**:
-Both documents say the *Book of Giants* "is attested at *both* Qumran and Turfan (Henning, 1943)", and the Works Cited gloss on Henning reads "(Attestation of the Manichaean *Book of Giants* at both Qumran and Turfan.)" The citation itself is correct — W. B. Henning, "The Book of the Giants," *BSOAS* 11.1 (1943): 52–74 — but it predates the discovery of the Qumran caves (1947). Henning identified the **Turfan** fragments as Mani's version of the Enochic book. The Qumran Aramaic fragments were published by J. T. Milik, *The Books of Enoch: Aramaic Fragments of Qumran Cave 4* (Oxford: Clarendon, 1976), which is already in the library's bibliographies (`04_Early_Christian_History/Truth Does Not Force Its Way`). `00_Master_Theses/The Carriers of Living Water` § 8.2 states the division correctly. The underlying fact (attested at both sites) is true; only the attribution overreaches.
-
-Two related incompletenesses in the same Works Cited lists, left as they stand: "Le Coq, Albert von, and the German Turfan expeditions (1902–1914)" names no publication (a candidate would be Le Coq, *Buried Treasures of Chinese Turkestan*, trans. Anna Barwell, London: Allen & Unwin, 1928 — not verified tonight); and "Blavatsky, H. P. *Studies in Occultism*. (Collected articles.)" has no publisher or date.
-
-**No edit was made** — the fix adds a citation (Milik) and changes an entry's gloss.
-
-**Research Question**:
-Add Milik 1976 beside Henning for the Qumran half of the claim, and complete the Le Coq and *Studies in Occultism* entries to citable form.
-
-**Status**: Open
-
----
-
-### [GDR] *The Protective Garment* — an anachronism, and positions that *The Empty Room* has since corrected
-
-**Priority**: MEDIUM — this is the author's call on whether the earlier document should be annotated or retired, not a correction of record
-**Related Documents**:
-- `data/05_The_Self/The Protective Garment_ H.P. Blavatsky, Swedenborg's Ancient Word, and the Anatomy of a Counterfeit Correspondential Key.md` (§§4, 10, 11, 12.4, TOC)
-- `data/05_The_Self/The Empty Room and the Self That Filled It_ H.P. Blavatsky, the Ancient Word, and the Inversion from Reception to Self-Deification.md` (§§4, 15, 17 — the later, fuller treatment)
-
-**Context**:
-The two documents share most of their text; *The Empty Room* is evidently the later one (it adds Parts III–IV and reworks §§4, 10/15 and 11/17). Where they differ, *The Empty Room* has corrected three things *The Protective Garment* still says:
-
-1. **Anachronism (§10).** "She read the *Apocalypse of Adam*; she could not see that its thirteen literalizing kingdoms were a portrait of the operation she was performing", and "The thirteen-kingdoms structure is … part of the very corpus Blavatsky exalted above the canonical Gospels." The *Apocalypse of Adam* is Nag Hammadi Codex V,5 — discovered 1945, first published 1963. Blavatsky died in 1891, which the document itself states in §§9 and 11. She could not have read it. *The Empty Room* §15 replaces the whole "fourteenth kingdom" frame with the *Beast That Wears the Lamb* frame and applies the irony only to the gnostic deposit she did know (the *Pistis Sophia*).
-2. **The key (§4).** *The Protective Garment* says "She had Swedenborg's announcement that a semantic dictionary exists; she did not have the dictionary." *The Empty Room* §4 reverses this explicitly: the *Arcana Coelestia* and *The White Horse* were in print and on her shelf, "the semantic key to these four symbols was therefore not missing from her hands".
-3. **Swedenborg's position (§11).** *The Protective Garment* says every pre-twentieth-century inquirer occupied her position, "including, in large part, Swedenborg himself". *The Empty Room* §17 restricts that to the documentary path and says on the semantic key "she and Swedenborg were *not* in the same position".
-
-Also found, all left alone: a drafting remnant in §12.4 ("the reason the user judged this thesis worth writing"); §1 says the name-count ran "across her eight major works" while §2.3 lists four works (*The Empty Room* §2.5 says "six works"); and the closing sentence of §2.4 sits directly above a `---` with no blank line, which Markdown renders as a setext heading — that is why the TOC carries the whole paragraph as an entry.
-
-**No edit was made.** None of these is a single wrong token, and whether an earlier document should carry `[EVOLVED]` / `[CORRECTION]` annotations pointing at *The Empty Room* is an editorial-annotation decision the nightly audit does not make (§ 3.6b).
-
-**Research Question**:
-Decide whether *The Protective Garment* should be annotated against *The Empty Room*, revised, or retired as superseded — and in any case correct the *Apocalypse of Adam* anachronism in §10.
-
-**Status**: Open
-
----
-
-### [GDR] *The Empty Room* — Part numbering in the Abstract and Conclusion does not match the Table of Contents
-
-**Priority**: LOW
-**Related Documents**:
-- `data/05_The_Self/The Empty Room and the Self That Filled It_ H.P. Blavatsky, the Ancient Word, and the Inversion from Reception to Self-Deification.md` (Abstract; §19; Table of Contents; §1)
-
-**Context**:
-The Table of Contents and §1 divide the thesis as Part I Instruments (§§1–2), Part II the key and the source (§§3–9), Part III the telos (§§10–13). The Abstract and §19 instead assign the key to "Part I", the source to "Part II" and the telos to "Part III" (§19: "she wore it as her own while reading it backward (Part I)"). This is internal to the document's own structure; no edit, since which scheme is meant is the author's choice.
-
-Separately, recorded for completeness: the Works Cited glosses name *Isis Unveiled* as the source of "the gnostic-cosmology material, and the four diagnostic symbol-readings". All the quotations were verified verbatim in the audit, but several of them are in *The Secret Doctrine*, not *Isis*: "a genuine Evangel of the Gnostics" (a footnote on the *Pistis Sophia*), Irenaeus "takes, as usual, the metaphor for reality", "one of the aspects of that 'Horse,' which is a Cycle", and "It is in the religious doctrines of the Gnostics that we can best see the real meaning of the Dragon, the Serpent…". The Tartary/Swedenborg quotations, the Ophite "Serpent was the Logos—Christos", "Sophia-Achamoth … descended into chaos", "It is at this point of the kabalistic-gnostic cosmogony that begins the Mosaic Bible" and Noah as "the 'spirit' falling into matter" are in *Isis Unveiled* (the last also in the *Secret Doctrine*). Same in *The Protective Garment*.
-
-**Research Question**:
-Align the Abstract/§19 Part references with the TOC (or vice versa), and if wanted, adjust the Works Cited glosses so each quotation is credited to the work it is in.
+Decide whether *The Protective Garment* should carry `[EVOLVED]` annotations pointing to *The Empty Room*, be revised to match it, or be retired as superseded; and settle the work count behind the frequency table.
 
 **Status**: Open
 

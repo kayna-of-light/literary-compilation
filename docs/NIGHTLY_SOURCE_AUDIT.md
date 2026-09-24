@@ -10,7 +10,7 @@
 
 ## Purpose
 
-Work through the `data/` library a few documents at a time, reading each one completely, verifying that every source is real, correctly cited, traced as far back as it goes, and of high quality — and that every claim the document makes is correct. Apply corrections through the editorial tracking system, propagate them across the corpus, and open a PR for review.
+Work through the `data/` library a few documents at a time, reading each one completely, verifying that every source is real, correctly cited, traced as far back as it goes, and of high quality — and that every claim the document makes is correct. Correct what is wrong in the documents themselves — citations, sources, facts — propagate each correction across the corpus, record the work in the ledger, and open a PR for review.
 
 This is an **unattended** run. Nobody is watching it. That shapes every rule below: when the correct action is not established, the run does not guess — it logs a research question and leaves the text alone.
 
@@ -56,7 +56,7 @@ In scope as a **finding** (all of these):
 - A source chain that stops short of an available primary source
 - A dead, redirected, paywalled-with-no-alternative, or low-quality source where a better one exists
 
-**A finding is not the same as an edit.** What a finding earns is a ledger row and, where it is unresolved, a research question. Only a subset of findings — the surgical corrections of record in § 3.6 — are also edits to the document. Read § 3.6 before touching a file: a document in `data/` is curated work, the permitted edits are narrow and precise, and **no note of any kind is ever injected into one** (§ 3.6a).
+**Finding and fixing are the job.** Every finding above is yours to correct in the document: fix the wrong citation, replace the weak source with the high-quality one, add the source a claim is missing, correct the false fact. What is never allowed is writing *about* the audit into the document — no notes, markers, or asides of any kind (§ 3.6a). The documents in `data/` are curated, official reports: they get corrected, never annotated. Read § 3.6 before touching a file.
 
 Out of scope (leave these alone):
 
@@ -210,12 +210,13 @@ Full standard: `docs/BIBLIOGRAPHY_STANDARDS.md`. A document's source list is one
 **Every `drive.google.com` link gets resolved, and the two cases are different:**
 
 - If the link actually points to another document that lives in this library (a Deep Research citation that resolved to an internal file via Drive instead of a relative path), rewrite it to a relative link — `python scripts/normalize_internal_links.py --only "<relative path>"` to preview, `--apply` to write.
-- If the link points to a personal file — a scan, an export, anything only reachable from the author's own Drive — it is not a valid citation regardless of what the file contains. Cite the actual publication under **Primary Sources** or **Scholarly Works** (publisher, edition, translator — verify these, don't guess them), or move the material into the corpus properly as an **Internal Library Document** if it belongs there. If neither is possible, **leave the entry as it stands** and log a research question — do not mark it `[TRACE NEEDED]` in the document (§ 3.6a), and do not delete a citation you cannot replace.
+- If the link points to a personal file — a scan, an export, anything only reachable from the author's own Drive — it is not a valid citation regardless of what the file contains. Replace it with the actual publication under **Primary Sources** or **Scholarly Works** (publisher, edition, translator — verify these, don't guess them), or with the corpus document it belongs to as an **Internal Library Document**. Only if no real source can be found after a genuine search, leave the entry as it stands and log a research question — do not mark it `[TRACE NEEDED]` in the document (§ 3.6a), and do not delete a citation you cannot replace.
 
 Other cleanup:
 
-- Replace a weak source with the better one where a better one exists, and say so in the ledger.
-- Complete partial references to full scholarly form.
+- Replace a weak source with the better one where a better one exists, and say so in the ledger. This is the heart of the job: a claim resting on a Reddit post, a repost, a summary or a secondary gloss gets the high-quality source that actually supports it.
+- Complete partial references to full scholarly form (publisher, place, year, translator — verified, not guessed).
+- Add the missing entry when the body cites or quotes a work the Works Cited does not list, and correct an entry's description when it credits a quotation or claim to the wrong work.
 - Remove a citation **only** when it is fabricated or wholly unverifiable — and then say so explicitly in the PR. Never silently drop a reference.
 - Do not add `[P]`/`[S]`/`[T]`/`[E]`/`[W]` tags — that notation is retired. The category the entry sits under already says what kind of source it is.
 - Preserve the full chain, not just the endpoints.
@@ -244,25 +245,26 @@ Where a document and the corpus disagree, establish which is current before edit
 
 ### 3.6 Apply corrections
 
-**The documents in `data/` are curated work. This job has exactly two permitted kinds of edit, and writing prose into a document is neither of them.**
+**Correct the document. Do not write about the correction in it.** Those are the two halves of this section, and the second does not limit the first.
 
-The two permitted edits:
-
-1. **A surgical correction of record** — the wrong token replaced by the right one. A wrong section number, a wrong date, a wrong name, a stale URL, a wrong figure. Change that token; change nothing around it.
-2. **A source-list reformat to `docs/BIBLIOGRAPHY_STANDARDS.md`** — carrying every existing entry's content across faithfully.
-
-Everything else is **no edit**. Route each finding:
+The documents in `data/` are curated, official reports. The audit's job is to make them *right* — every source real, correctly cited, and of high quality; every factual claim true — and to do it so cleanly that a reader sees only a correct document, never the audit. So:
 
 | Finding | Action |
 |---|---|
-| Wrong citation, section, date, name, siglum; stale or wrong URL; fabricated reference | **Fix in place, surgically.** The wrong token, nothing else. An error of record is not a position — nothing is preserved by keeping it wrong. |
-| Statistic disagreeing with its dataset, where the same measurement can be restated directly from the source of truth | **Fix the number in place**, naming the source of truth in the ledger. The surrounding sentence does not change. |
-| Source list not in the standard's format | **Reformat per `docs/BIBLIOGRAPHY_STANDARDS.md`.** Each entry keeps the content it already had. A reformat is not an occasion to enrich an entry with what the audit learned while checking it. |
+| Wrong citation, section, date, name, siglum, page; wrong work credited for a passage; stale or wrong URL | **Fix in place.** Replace what is wrong with what is right. |
+| Weak, reposted, unmoderated or personally-hosted source | **Replace it with the high-quality source** — the primary text, the original publication, the peer-reviewed study — and update the Works Cited to match. |
+| Claim with no source, or a source that does not support it | **Find the source that does, and cite it** (inline and in the Works Cited). |
+| Works Cited entry incomplete, mis-described, or missing for a work the body uses | **Complete it, correct its description, or add it.** |
+| Statistic disagreeing with its dataset, where the same measurement can be restated directly from the source of truth | **Fix the number**, naming the source of truth in the ledger. |
+| A factual claim that is false (a date, an event, who did or read what) | **Correct it in the fewest words that make it true**, keeping the author's argument and register. Verify against a primary or high-quality source first. |
+| Claim overstating its source's reach | **Find a source that supports the full claim and cite it; if none exists, narrow the wording to what the sources support.** Never add a hedge or disclaimer in place of a correction (§ 0). |
+| Source list not in the standard's format | **Reformat per `docs/BIBLIOGRAPHY_STANDARDS.md`.** |
 | Statistic whose dataset or schema has since changed, so the measurement cannot be restated without fresh analysis | **No edit.** Research question + ledger note. |
-| Position superseded by later corpus understanding | **No edit.** Record it for the author (ledger + research question). See § 3.6a — the audit does not annotate. |
-| Claim overstating its source's reach | **No edit.** Ledger note + research question. Narrowing a claim is an editorial judgment about the argument, not a correction of record. |
-| Claim untraceable after genuine effort | **No edit** — not even a `[TRACE NEEDED]` marker. Log in `docs/research_questions.md` + ledger. |
-| Correct treatment not established by the library | **No edit.** Research question + ledger note. |
+| Interpretive position, or a position superseded by later corpus understanding | **No edit.** Interpretation is the author's; superseded positions belong to the separate annotation system (§ 3.6b). Ledger + research question. |
+| Claim untraceable after genuine effort | **No edit** — not even a `[TRACE NEEDED]` marker. Research question + ledger. |
+| Correct treatment genuinely not settled by the library or by high-quality sources | **No edit.** Research question + ledger note. |
+
+Edits are **precise**: change what is wrong and what the correction requires, nothing around it. An edit to a Works Cited entry changes what that entry *cites*, never adds a record of how it was checked. Where the body's wording changes, it stays in the author's voice and register — the reader should not be able to tell where the correction was made.
 
 ### 3.6a Never inject a note into a `data/` document
 
@@ -276,7 +278,7 @@ Everything else is **no edit**. Route each finding:
 
 A dead link is **fixed or left alone**, never narrated. A stale figure is **corrected from the source of truth or left alone**, never captioned. `docs/BIBLIOGRAPHY_STANDARDS.md` § "No audit provenance" already forbids this; it is restated here because the failure is easy and the damage is silent — a reader of a curated thesis cannot tell an author's considered qualification from an audit's marginalia, and once injected, the note reads as the document's own voice.
 
-**The findings live in `docs/audit_ledger.md`, and open questions in `docs/research_questions.md`. Those are the audit's output. The document is not a notepad.**
+**The audit's output is the corrected document, plus its record in `docs/audit_ledger.md` and open questions in `docs/research_questions.md`. The record of the audit lives only in those two files. The document is not a notepad.**
 
 ### 3.6b The audit does not annotate, and does not open strains
 
@@ -301,10 +303,10 @@ grep -rn "<the wrong figure / citation / claim>" data/
 
 Search the distinctive phrasing, the number, the author name, the section reference — several angles, since the same error rarely appears in identical words. Then:
 
-- Apply **the same surgical fix** at **every** occurrence. A propagated edit is the identical token change, nothing adapted or expanded for the new context.
+- Apply **the same fix** at **every** occurrence — the same corrected citation, figure or fact, adapted only as far as the surrounding sentence grammatically requires.
 - Check documents that cite the corrected document, and confirm what they carry forward is still true. Where it is not, that is a finding for the ledger — not licence to edit a document you have not read.
 
-Propagation edits are allowed outside the night's batch. They are the only edits that are, and only in the surgical form above: § 3.6a's prohibition on notes applies with full force here, where you have not read the document you are touching.
+Propagation edits are allowed outside the night's batch. They are the only edits that are, and only in the form above: § 3.6a's prohibition on notes applies with full force here, where you have not read the document you are touching.
 
 Those documents are **not** marked audited in the ledger — they received one correction, not a full read.
 
@@ -324,13 +326,13 @@ Those documents are **not** marked audited in the ledger — they received one c
 4. **Research questions** — append anything unresolved to `docs/research_questions.md` in the documented format with the right `[NLM]` / `[GDR]` / `[NDE]` target tag.
 5. **Strains** — nothing to do. This job does not touch `EVOLVING_CONCEPTUAL_STRAINS.md` (§ 3.6b). If something there looks stale or newly warranted, say so in the ledger and leave it to the author.
 6. **Commit** — one commit per audited document plus one for the ledger, so review is readable.
-7. **Verify** — `git status`, then **read the full `data/` diff line by line** (`git diff origin/dev -- data/`) and confirm every single changed line is one of § 3.6's two permitted edits. Any line that is prose rather than a corrected token or a reformatted entry is a violation of § 3.6a — revert it before pushing. Confirm nothing unintended was touched.
+7. **Verify** — `git status`, then **read the full `data/` diff line by line** (`git diff origin/dev -- data/`) and confirm every changed line is a correction from § 3.6's table. Any line that records the audit — a note, a marker, an aside about what was checked or doubted — is a violation of § 3.6a; revert it before pushing. Confirm nothing unintended was touched.
 
 ### Out of bounds
 
 Do not, in this job:
 
-- **Write a note, marker, aside, or any other prose into a `data/` document** — see § 3.6a. This is the prohibition most easily broken and the one that does the most damage.
+- **Write a note, marker, aside, or any other audit commentary into a `data/` document** — see § 3.6a. This is the prohibition most easily broken and the one that does the most damage. (Correcting the document's own text is not commentary — that is the job.)
 - **Add an annotation, add a strain, or edit `EVOLVING_CONCEPTUAL_STRAINS.md`** — see § 3.6b
 - Run `scripts/mirror_library_to_drive.py` — it pushes outside the repo; Drive sync stays manual
 - Run `scripts/rename_to_titles.py --apply`, or reorganize/reclassify/move files

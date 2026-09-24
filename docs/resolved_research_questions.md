@@ -1438,21 +1438,60 @@ GDR produced a comprehensive forensic analysis now filed as `data/04_Early_Chris
 
 ---
 
+### [GDR] "Seek for it in China" credited to the wrong Swedenborg work
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-09-23
+**Date Resolved**: 2026-09-24
+**Priority**: MEDIUM
+**Related Documents**: `data/05_The_Self/The Empty Room and the Self That Filled It_ H.P. Blavatsky, the Ancient Word, and the Inversion from Reception to Self-Deification.md`; `data/05_The_Self/The Protective Garment_ H.P. Blavatsky, Swedenborg's Ancient Word, and the Anatomy of a Counterfeit Correspondential Key.md`
+
+**Resolution Summary**: Both documents credited Swedenborg's directive to seek the Ancient Word in China/Tartary to *Doctrine of the Sacred Scripture*. Its §§101–103 (Standard Edition, read in full) place the Ancient Word as lost on earth and preserved in heaven, and never mention Tartary or China. The directive is *Apocalypse Revealed* §11 (1766): "Seek for it in China, and peradventure you will find it there among the Tartars" (read verbatim from the Standard Edition); *TCR* §279 (1771) carries the Tartary sentence. Corrected in both documents: body now cites *Apocalypse Revealed* (§11, 1766); "reproduces this directive *verbatim*" → "reproduces this directive" and "quotes his own phrasing" → "quotes it as his own words" (Blavatsky's "peradventure you may find it in Great Tartary" is a close rendering, not verbatim); "published the Tartary doctrine in 1771" → "in 1766 and again in 1771" (twice) and Appendix C "(1771)" → "(1766–1771)"; *Apocalypse Revealed* §11 added to the Works Cited and the *Sacred Scripture* entry re-described to what §§101–103 contain. `02_Swedenborgian_Theology/The Resonant Cosmos` already cited *AR* 11 correctly; no other document carried the error.
+
+---
+
+### [GDR] Henning 1943 cited for Qumran; incomplete Le Coq and *Studies in Occultism* entries
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-09-23
+**Date Resolved**: 2026-09-24
+**Priority**: LOW
+**Related Documents**: `data/05_The_Self/The Empty Room and the Self That Filled It_ H.P. Blavatsky, the Ancient Word, and the Inversion from Reception to Self-Deification.md`; `data/05_The_Self/The Protective Garment_ H.P. Blavatsky, Swedenborg's Ancient Word, and the Anatomy of a Counterfeit Correspondential Key.md`
+
+**Resolution Summary**: Henning, "The Book of the Giants," *BSOAS* 11.1 (1943): 52–74, predates the Qumran discoveries and identifies the Turfan fragments only. Both documents now cite "(Milik, 1976; Henning, 1943)" for the attestation at both sites, with Milik, J. T., with Matthew Black, *The Books of Enoch: Aramaic Fragments of Qumrân Cave 4* (Oxford: Clarendon Press, 1976) added and Henning's entry re-described. The Le Coq entry, which named no publication, now cites *Buried Treasures of Chinese Turkestan*, trans. Anna Barwell (London: George Allen & Unwin, 1928); *Studies in Occultism* now cites the Point Loma edition (Aryan Theosophical Press, 1910); *The Key to Theosophy* imprint corrected to London: The Theosophical Publishing Company; New York: W. Q. Judge, 1889.
+
+---
+
+### [GDR] *The Empty Room* — Part numbering, and quotations credited to the wrong Blavatsky work
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-09-23
+**Date Resolved**: 2026-09-24
+**Priority**: LOW
+**Related Documents**: `data/05_The_Self/The Empty Room and the Self That Filled It_ H.P. Blavatsky, the Ancient Word, and the Inversion from Reception to Self-Deification.md`; `data/05_The_Self/The Protective Garment_ H.P. Blavatsky, Swedenborg's Ancient Word, and the Anatomy of a Counterfeit Correspondential Key.md`
+
+**Resolution Summary**: The Abstract and §19 assigned the key to "Part I"; the TOC and §1 place it in Part II. Both references corrected to Part II. The Works Cited descriptions now credit each quotation to the work it is in (verified against the full texts): *Isis Unveiled* — the Swedenborg/Tartary quotations, the Ophite and Sophia-Achamoth cosmogony, the readings of water, the flood and the serpent, "man must first create himself anew"; *The Secret Doctrine* — additionally "Man tends to become a God and then—God", "the animal of clay", the horse as "a Cycle", the *Pistis Sophia* as "a genuine Evangel of the Gnostics", Irenaeus "takes, as usual, the metaphor for reality"; *The Key to Theosophy* — "its own Saviour in each world and incarnation". Same correction in *The Protective Garment*, whose §10 *Apocalypse of Adam* anachronism was also corrected (NHC V surfaced in 1945; Blavatsky died in 1891). The remaining *Protective Garment* positions stay open in `research_questions.md`.
+
+---
+
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 25 |
+| **Total Resolved** | 28 |
 | **NDE Domain** | 10 |
 | **BIBL Domain** | 6 |
 | **SWED Domain** | 3 |
 | **CROSS Domain** | 1 |
 | **EARLY Domain** | 2 |
 | **GNOS Domain** | 1 |
-| **GDR Domain** | 2 |
+| **GDR Domain** | 5 |
 | **Critical Priority** | 3 |
 | **High Priority** | 14 |
-| **Medium Priority** | 7 |
-| **Low Priority** | 1 |
+| **Medium Priority** | 8 |
+| **Low Priority** | 3 |
 
-**Last Updated**: 2026-09-22
+**Last Updated**: 2026-09-24

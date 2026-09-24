@@ -1477,21 +1477,47 @@ GDR produced a comprehensive forensic analysis now filed as `data/04_Early_Chris
 
 ---
 
+### [GDR] *The Epistemic Architecture* — the AWARE study reports 2% with explicit recall, and one objectively verified case
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-09-22
+**Date Resolved**: 2026-09-24
+**Priority**: MEDIUM
+**Related Documents**: `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on Hypothesis-Testing with the Swedenborgian Framework.md` §§ 1.1, 3.1.1
+
+**Resolution Summary**: Both sentences now report the study as it reads (Parnia et al., *Resuscitation* 85.12, 2014): 2% of survivors "described awareness with explicit recall of actual events during their resuscitation, one of them objectively verified." The following sentence ("veridical perceptions that can be independently verified") stands — explicit recall of actual events is veridical perception, and the verified case shows it can be checked. The optional second point (citing AWARE-II, 2023) is an authorial choice and was not acted on.
+
+---
+
+### [GDR] A citable meta-analysis for the "placebo achieves less than 1% complete response" claim
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-09-22
+**Date Resolved**: 2026-09-24
+**Priority**: LOW
+**Related Documents**: `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ ...md` §§ 1.1, 5.4; `data/00_Master_Theses/The Seed and the Sun_ ...md` § 8.4
+
+**Resolution Summary**: Sachdev, A., I. Sharpe, M. Bowman, C. M. Booth, and B. Gyawali, "Objective Response Rate of Placebo in Randomized Controlled Trials of Anticancer Medicines," *eClinicalMedicine* 55 (2023): 101753 (PMID 36444211; online Nov. 2022) — 45 phase-3 RCTs, 5,684 placebo patients with advanced solid tumours, pooled complete response 0% (95% CI 0–0%). Cited inline "(Sachdev et al., 2023)" at the claim in both documents and added to both Works Cited lists. The § 2.2 recurrence in *The Epistemic Architecture* ("<1% complete response") was left uncited — it restates the § 1.1 claim two sections later.
+
+---
+
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 28 |
+| **Total Resolved** | 30 |
 | **NDE Domain** | 10 |
 | **BIBL Domain** | 6 |
 | **SWED Domain** | 3 |
 | **CROSS Domain** | 1 |
 | **EARLY Domain** | 2 |
 | **GNOS Domain** | 1 |
-| **GDR Domain** | 5 |
+| **GDR Domain** | 7 |
 | **Critical Priority** | 3 |
 | **High Priority** | 14 |
-| **Medium Priority** | 8 |
-| **Low Priority** | 3 |
+| **Medium Priority** | 9 |
+| **Low Priority** | 4 |
 
 **Last Updated**: 2026-09-24

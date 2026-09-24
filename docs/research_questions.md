@@ -2385,29 +2385,6 @@ Which measure should the sentence report — Christians vs. non-Christians on *J
 
 ---
 
-### [GDR] *The Epistemic Architecture* — the AWARE study reports 2% with explicit recall, and one objectively verified case
-
-**Priority**: MEDIUM
-**Related Document**: `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ ...md` §§ 1.1, 3.1.1
-
-**Context**:
-The document twice states: "The AWARE study found that 2% of cardiac arrest survivors reported **verified** awareness during clinical death," and adds "they are veridical perceptions that can be independently verified."
-
-Parnia et al. 2014 (*Resuscitation* 85.12: 1799–1805 — citation itself verified correct) reports: of 2,060 cardiac arrest events, 140 survivors completed stage-1 and 101 stage-2 interviews; 46% had memories, 9% had NDEs, and "2% described awareness with explicit recall of 'seeing' and 'hearing' actual events related to their resuscitation. **One** had a verifiable period of conscious awareness during which time cerebral function was not expected."
-
-So the 2% is *explicit recall of real resuscitation events*, in the stage-2 interview sample, and one case of those was objectively verified against timed stimuli. The word "verified" attached to the 2% describes something the study did not measure.
-
-**No edit was made** — restating it means rewriting two sentences across two sections, which is an editorial judgment about the argument rather than a correction of record.
-
-**This is a precision point, not a retraction.** The verified case is real and is exactly what the section needs: structured awareness accurately timed to a period when no cerebral function was expected. *The Seed and the Sun* § 3.7 already handles the same study correctly, including the denominator problem on the hidden-target test.
-
-**Research Question**:
-1. Restate the AWARE figure as the study reports it (2% with explicit recall of real events; one objectively verified case), in both places.
-2. Consider whether AWARE-II (Parnia et al., *Resuscitation*, 2023) should now be cited alongside it — it did not exist when this thesis was drafted.
-
-**Status**: Open
-
----
 
 ### [GDR] Swedenborg edition dates: is there a Dole translation from 1984 (*Heaven and Hell*) or 1988 (*Divine Love and Wisdom*)?
 
@@ -2448,47 +2425,24 @@ Confirm or remove "2nd ed. 2020" — and if it is real, note whether the 2020 te
 ### [GDR] *The Seed and the Sun* — inline scholarly attributions that are not in the Works Cited
 
 **Priority**: MEDIUM
-**Related Document**: `data/00_Master_Theses/The Seed and the Sun_ ...md`, §§ 3, 5, 6, 8
+**Related Document**: `data/00_Master_Theses/The Seed and the Sun_ ...md`, §§ 3.6, 6.4
 
 **Context**:
-All 52 Works Cited entries were checked and all but one resolved (the broken relative link in entry 52 was fixed). The gap runs the other way: the document makes specific, named scholarly attributions in its body that the bibliography does not carry. Found:
+Narrowed 2026-09-24. Of the eight body attributions logged on 2026-09-22, six are now cited in the Works Cited after verification: Stevenson 1993 (*JSE* 7.4: 403–410); Matlock 2023 (*Explore* 19.2: 170–175 — 36 cases, 32 with birthmarks, 27 violent, exactly as § 6.3 states); Dean et al. 2019 (*Scientific Reports* 9: 9333 — the DMT paper, whose first author is Dean; the body's "Borjigin et al. (2019)" was corrected, Borjigin being senior author); Kerr et al. 2014 (*J Palliat Med* 17.3: 296–303); Moorjani 2012 (*Dying to Be Me*, Hay House — her first-person account of the tumour reduction); and the placebo meta-analysis. Tachibana needs no entry — the body names only Ohkado & Greyson's 22 interviews, which is already cited.
 
-| Attribution in body | § | In Works Cited? |
+Two remain, because no source was found that states the figure:
+
+| Attribution in body | § | Status |
 |---|---|---|
-| Stevenson 1993, *JSE* 7(4): 403–410 (cited inline, with volume and pages) | 6.3 | No — only *Reincarnation and Biology* (1997) |
-| James Matlock, short-intermission analysis (36 cases, 32 with birthmarks) | 6.3 | No |
-| Stevenson and Cook, 326 cases across eight cultures | 6.4 | No |
-| Borjigin et al. 2019, DMT in dying rat brain | 3.2 | No — only the 2013 PNAS gamma paper |
-| Christopher Kerr, 88.1% of hospice patients reporting end-of-life dreams | 5.4 | No |
-| William Peters / Shared Crossing Project, >60% of shared death experiences remote | 3.6 | No |
-| Tachibana Takashi 2003 (the 22 interviews Ohkado & Greyson analysed) | 4.5 | No |
-| Anita Moorjani, 70% tumour reduction in four days | 8.4 | No |
-
-**No edit was made.** Adding entries to a bibliography is not one of the two edits the nightly audit is permitted to make (`docs/NIGHTLY_SOURCE_AUDIT.md` § 3.6), and each of these needs a decision about which publication to cite.
+| William Peters / Shared Crossing Project: "over 60% of shared death experiences occur remotely" | 3.6 | The peer-reviewed SCRI paper (*Am J Hosp Palliat Care* 38.12 (2021): 1479–1487; 107 persons, 164 SDEs) names "remotely sensing a death" as one of four modes but its abstract gives no percentage. The figure may be in the full text or in Peters, *At Heaven's Door* (2022). |
+| "Stevenson and Cook's cross-cultural analysis of 326 cases across eight cultures … (p < 0.01)" | 6.4 | The violent-death / shorter-intermission association is well attested (Stevenson's 616 cases from ten cultures, median 15 months), but no Stevenson–Cook publication with 326 cases and eight cultures was found. Needs the actual paper. |
 
 **Research Question**:
-Resolve each attribution to a full citation and add it under **Scholarly Works**. Two are already effectively done: Stevenson 1993 is given in the body with volume and pages, and Ohkado & Greyson 2014 (*Journal of Near-Death Studies* 32(4): 187–198) was verified against the article itself during this audit — including that its sample is exactly 22 interviews, as § 4.5 states.
+Identify the publication behind each figure and cite it; if none states it, the figure needs correcting to what the found source reports.
 
 **Status**: Open
-
 ---
 
-### [GDR] A citable meta-analysis exists for the "placebo achieves less than 1% complete response" claim
-
-**Priority**: LOW
-**Related Documents**:
-- `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ ...md` §§ 1.1, 5.4
-- `data/00_Master_Theses/The Seed and the Sun_ ...md` § 8.4
-
-**Context**:
-Both documents assert that "meta-analyses show that placebo achieves less than 1% complete response in advanced solid tumors" without citing one. The claim is **correct and if anything conservative**: "Objective response rate of placebo in randomized controlled trials of anticancer medicines" (*eClinicalMedicine*, 2022) pooled 45 phase-3 RCTs covering 5,684 patients on placebo in advanced solid tumours and found a pooled **complete** response rate of 0% (95% CI 0–0%) and an overall response rate of 1%, almost all partial.
-
-**Research Question**:
-Add the full citation under **Scholarly Works** in both documents, so the strongest support for the claim is visible rather than implied. (Verified during the 2026-09-22 audit; recorded here rather than edited in, because adding a bibliography entry is outside what the audit may change.)
-
-**Status**: Open
-
----
 
 ## Logged by the nightly source audit, 2026-09-23
 
@@ -2511,6 +2465,57 @@ One unresolved count as well: *The Protective Garment* §1 says the name-frequen
 
 **Research Question**:
 Decide whether *The Protective Garment* should carry `[EVOLVED]` annotations pointing to *The Empty Room*, be revised to match it, or be retired as superseded; and settle the work count behind the frequency table.
+
+**Status**: Open
+
+---
+
+## Logged by the nightly source audit, 2026-09-24
+
+---
+
+### [GDR] *The River, Not the Chain* — four phrases quoted as Lovejoy's are not in Lovejoy
+
+**Priority**: HIGH — the phrases carry the thesis's central claim that Lovejoy "confesses" the static chain is an artifact
+**Related Documents**:
+- `data/06_Mythological_Studies/The River, Not the Chain_ The Great Chain of Being as a Reception Artifact.md` — Abstract; §1; §2.4; §3.2; §4.7; §7.6 ("his own diagnoses of 'artificial freezing'"); §8; Appendix row 11
+- `data/00_Master_Theses/The Downstream Refinery_ Western Civilization as Three Operations on One Ancient Stream.md` line 151 — carries "artificial freezing" / "inherently demanded motion" as Lovejoy's words
+
+**Context**:
+Checked against the full text of *The Great Chain of Being* (1936; the Digital Library of India scan, archive.org `in.ernet.dli.2015.139572`) and the full text of "Schopenhauer as an Evolutionist" (*The Monist* 21 (1911): 195–222; the author's Drive copy).
+
+Verified verbatim in Lovejoy: "crack the shell which holds the mass together, if we are to see the real units, the effective working ideas"; systems "original or distinctive rather in their patterns than in their components"; "Self-Transcending Fecundity"; *omne bonum est diffusivum sui*; principles "definitely fused"; the Chain "a perfect example of an absolutely rigid and static scheme of things" (ch. IX); "a 'block-world' in the strictest sense … once for all"; and from the *Monist* essay, "did nothing original", "a blind urge towards activity, towards change, towards individuation, towards the multiplication of separate entities", "of a frankly and completely evolutionistic type". The *Monist* pagination (195–222) is right.
+
+**Not found in either text** (no occurrence of the words, or of "freez-", "frozen", "paraly-"):
+1. "does not acknowledge that extracting an idea from its system strips or distorts its essential nature" — presented as Lovejoy's own admission ("Lovejoy grants", "Lovejoy concedes", "by his own admission"). The wording reads as a critic's description of the unit-idea method, not a concession by Lovejoy; no published source for it was found (web search, Wikipedia's history-of-ideas articles, the author's Drive).
+2. "artificial freezing"
+3. "inherently demanded" (motion)
+4. "temporarily paralyzed" / "temporary paralysis"
+
+Two nuances in the phrases that *are* verbatim, relevant to how the argument uses them: "a sort of Life stretched out to an immense span" is Lovejoy **quoting Plotinus** (*Enn.* V.2), not Lovejoy's own description; and "block-world" is, in Lovejoy's sentence, "William James's term", applied to the rationalistic ontologies of the seventeenth century and eighteenth-century optimism rather than to the Neoplatonic chain. The "inexhaustible Source" in §4.7 is also in quotation marks but not a Lovejoy phrase (he speaks of "inexhaustible productive energy").
+
+**No edit was made.** The phrases are load-bearing across eight places in the thesis and one in a Master Thesis; removing or re-attributing them changes the argument, which is the author's to do. The reading-test notes the thesis mentions (§2.2) may hold where these phrases came from.
+
+**Research Question**:
+Where do the four phrases come from? If from another Lovejoy work (e.g. *Essays in the History of Ideas*, 1948 — in the author's Drive, not searched in full), cite it. If they are paraphrase from the reading-test step, they need to come out of quotation marks and stop being attributed to Lovejoy, and the "Lovejoy's own diagnosis" framing in the Abstract, §4.7, §7.6 and §8 needs to rest on the verified passages instead (ch. IX's "absolutely rigid and static" and the "Self-Transcending Fecundity" passage carry much of it).
+
+**Status**: Open
+
+---
+
+### [GDR] *The River, Not the Chain* — smaller locator and translation points left for the author
+
+**Priority**: LOW
+**Related Document**: `data/06_Mythological_Studies/The River, Not the Chain_ The Great Chain of Being as a Reception Artifact.md`
+
+**Context** (all verified 2026-09-24; none edited, because each needs a choice of source or wording):
+1. **Hegel, §4.5.** "the very moving principle of the concept" is not in the cited Wallace *Encyclopaedia Logic* §§86–88 (Wallace §119 has "Contradiction is the very moving principle of the world"; the *Philosophy of Right* §31 has "the concept's moving principle"). "The truth is neither Being nor Nothing, but … Becoming" matches the *Science of Logic*, not Wallace §88 ("The truth of Being and of Nothing is accordingly the unity of the two: and this unity is Becoming"). "The life and soul of scientific progress" is Wallace §81, correct. The *Phenomenology* quotations mix Baillie ("the truth is the whole…", "essentially a result", "bacchanalian revel") with Miller ("not only as Substance, but equally as Subject"); Miller has now been added to the Works Cited.
+2. **Aristotle, §5.3.** "Nature passes so gradually from the inanimate to the animate that their continuity renders the boundary between them indistinguishable" is not the Revised Oxford wording of *History of Animals* VIII.1 ("Nature proceeds little by little from things lifeless to animal life…"). Which translation is being quoted?
+3. **Unnamed translations.** The Works Cited entries for Plato ("Standard translations") and the Zoroastrian corpus name no translator. The *Sophist* 249a wording matches Fowler (Loeb, 1921); the *Timaeus* wording mixes Jowett and Bury; the *Yasna* 30 line "They established Life and the Denial of Life" matches neither Mills (SBE 31) nor Moulton and was not identified; the *Bundahishn* line is West (SBE 5, 1.18), verbatim. Böhme, Eriugena, Plotinus (MacKenna — verbatim, edition unnamed), Steiner and Swedenborg entries also name no edition.
+4. **Proclus, "pregnant with forms", "a blast from itself".** Not found in Taylor's *Elements*, *Theology of Plato* or *Timaeus* commentary OCR texts (OCR may be the reason). The other Proclus phrases are verbatim Taylor.
+
+**Research Question**:
+Name the translation actually used for each of items 2–3, and choose whether to re-cite or reword item 1.
 
 **Status**: Open
 

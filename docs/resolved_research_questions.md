@@ -1477,21 +1477,60 @@ GDR produced a comprehensive forensic analysis now filed as `data/04_Early_Chris
 
 ---
 
+### [GDR] *The Epistemic Architecture* — the AWARE study reports 2% with explicit recall, and one objectively verified case
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-09-22
+**Date Resolved**: 2026-09-24
+**Priority**: MEDIUM
+**Related Documents**: `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on Hypothesis-Testing with the Swedenborgian Framework.md` §§ 1.1, 3.1.1
+
+**Resolution Summary**: Both sentences now report the study as it reads (Parnia et al., *Resuscitation* 85.12, 2014): 2% of survivors "described awareness with explicit recall of actual events during their resuscitation, one of them objectively verified." The following sentence ("veridical perceptions that can be independently verified") stands — explicit recall of actual events is veridical perception, and the verified case shows it can be checked. The optional second point (citing AWARE-II, 2023) is an authorial choice and was not acted on.
+
+---
+
+### [GDR] A citable meta-analysis for the "placebo achieves less than 1% complete response" claim
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-09-22
+**Date Resolved**: 2026-09-24
+**Priority**: LOW
+**Related Documents**: `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ ...md` §§ 1.1, 5.4; `data/00_Master_Theses/The Seed and the Sun_ ...md` § 8.4
+
+**Resolution Summary**: Sachdev, A., I. Sharpe, M. Bowman, C. M. Booth, and B. Gyawali, "Objective Response Rate of Placebo in Randomized Controlled Trials of Anticancer Medicines," *eClinicalMedicine* 55 (2023): 101753 (PMID 36444211; online Nov. 2022) — 45 phase-3 RCTs, 5,684 placebo patients with advanced solid tumours, pooled complete response 0% (95% CI 0–0%). Cited inline "(Sachdev et al., 2023)" at the claim in both documents and added to both Works Cited lists. The § 2.2 recurrence in *The Epistemic Architecture* ("<1% complete response") was left uncited — it restates the § 1.1 claim two sections later.
+
+---
+
+### [GDR] *The River, Not the Chain* — four phrases quoted as Lovejoy's are not in Lovejoy
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-09-24
+**Date Resolved**: 2026-09-25
+**Priority**: HIGH
+**Related Documents**: `data/06_Mythological_Studies/The River, Not the Chain_ The Great Chain of Being as a Reception Artifact.md`; `data/00_Master_Theses/The Downstream Refinery_ Western Civilization as Three Operations on One Ancient Stream.md`
+
+**Resolution Summary**: Confirmed absent from every Lovejoy work cited for them, in full text: *The Great Chain of Being* (1936), *The Revolt Against Dualism* (1930), "The Argument for Organic Evolution before *The Origin of Species*" (*Popular Science Monthly* 75, 1909), "Kant and Evolution" (*PSM* 77–78, 1910–11), and "Schopenhauer as an Evolutionist" (*Monist* 21, 1911). The NotebookLM notebook holding Lovejoy's works first assigned them to chapters and then, on being checked, agreed that none is verbatim. On the author's instruction the thesis was corrected so the argument rests on Lovejoy's actual words: the root of the chain is "an Immutability which required, and expressed itself in, Change" (*GCB* p. 50); "The static and permanently complete Chain of Being broke down largely from its own weight" (p. 245); the idea's history, "in so far as that idea presupposed such a complete rational intelligibility of the world — is the history of a failure" (p. 329); Lovejoy's fecundity is "the immeasurable and inexhaustible productive energy, the fecundity of an Absolute" (p. 67). The unit-idea objection ("strips or distorts its essential nature") is now credited to Lovejoy's critics, not to Lovejoy, without quotation marks. "A sort of Life stretched out to an immense span" is credited to Plotinus as Lovejoy quotes him (p. 63); "block-world" to William James's term as Lovejoy uses it; "on the facing pages" removed (the passages are ~260 pages apart). The same fix was carried into *The Downstream Refinery* §3.3.
+
+---
+
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 28 |
+| **Total Resolved** | 31 |
 | **NDE Domain** | 10 |
 | **BIBL Domain** | 6 |
 | **SWED Domain** | 3 |
 | **CROSS Domain** | 1 |
 | **EARLY Domain** | 2 |
 | **GNOS Domain** | 1 |
-| **GDR Domain** | 5 |
+| **GDR Domain** | 8 |
 | **Critical Priority** | 3 |
-| **High Priority** | 14 |
-| **Medium Priority** | 8 |
-| **Low Priority** | 3 |
+| **High Priority** | 15 |
+| **Medium Priority** | 9 |
+| **Low Priority** | 4 |
 
-**Last Updated**: 2026-09-24
+**Last Updated**: 2026-09-25

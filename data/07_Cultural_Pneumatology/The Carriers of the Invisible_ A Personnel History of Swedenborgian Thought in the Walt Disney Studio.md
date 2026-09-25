@@ -84,7 +84,7 @@ Before Graham, animation training focused on "Form"—how to draw a muscle, how 
 Graham taught that the animator must not draw the *thing*, but the *force* driving the thing. In his lecture notes from 1937, he speaks of the "inner force" that dictates the "outer form". He famously screened live-action films not to copy them, but to analyze the *intentions* of the actors.  
 "The driving force behind the action is the mood, the personality, the attitude of the character – or all three." — Walt Disney to Don Graham (Memo)  
 This pedagogy is a secularized reinstatement of Swedenborg’s doctrine of **Influx**. Swedenborg wrote:  
-"Action is nothing but the will flowing forth... The body is the obedience." (*Arcana Coelestia*)
+"The body’s activity in speech or deed is only an effect from the external and internal of man’s spirit, for the body is so much obedience." (*Divine Providence* §103)
 
 ### **5.2 The Theosophical Connection**
 

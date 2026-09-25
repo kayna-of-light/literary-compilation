@@ -11,70 +11,62 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 
 **Replaced wholesale at the end of every run.** This block describes the present, not the history — history goes in the run log below. A run that leaves this stale has failed its successor.
 
-> **Status**: 7 documents audited (6 `corrected`, 1 `partial`). 243 remain. Nothing in flight. GitHub write
+> **Status**: 8 documents audited (7 `corrected`, 1 `partial`). 242 remain. Nothing in flight. GitHub write
 > access works; tonight's PR was opened normally against `dev`.
 >
-> **The rule (since 2026-09-24, unchanged tonight)**: correcting sources and claims *in* the document is the job —
-> wrong citation, wrong translator, wrong locus, missing Works Cited entry, false fact in the fewest words. What is
-> forbidden is writing *about the audit* in the document. Interpretive positions, and anything whose fix would
-> rewrite the author's argument, go to `research_questions.md`.
+> **The rule (unchanged since 2026-09-24)**: correct sources and claims *in* the document — wrong citation, wrong
+> work, wrong person, false fact in the fewest words, reposted source → the real publication. Never write *about the
+> audit* in the document. Interpretive positions, and anything whose fix would rewrite the argument, go to
+> `research_questions.md`.
 >
-> **Resolved 2026-09-25 — the Lovejoy quotations**: the four phrases *The River, Not the Chain* quoted as Lovejoy's
-> ("strips or distorts…", "artificial freezing", "inherently demanded", "temporarily paralyzed") are in none of his works
-> (six checked in full text). At the author's instruction the thesis and *The Downstream Refinery* now rest the same
-> argument on Lovejoy's verified words (*GCB* pp. 50, 245, 329). **Lesson for every run**: the author's NotebookLM
-> notebook produced these phrases and, when first asked, assigned them confident chapter locations that do not exist.
-> A NotebookLM answer is a lead, never a verification — check the full text. *Descent Remembered as Ascent* was not
-> checked for paraphrases of the same kind and remains the natural next pick.
+> **Tonight**: *The Mechanics of the Soul* (`07`), `corrected`. Its memo and 1937 transcript quotations are exact; its
+> *Arcana Coelestia* quotation is in no Swedenborg text and now quotes *Divine Providence* §103 — in it and nine
+> sibling `07` documents. Full detail in the audited-documents row and the run log.
 >
 > **Take next — your call (§ 2), but here is what the evidence says:**
 >
 > | Candidate | Why |
 > |---|---|
-> | `06_Mythological_Studies/Descent Remembered as Ascent` | Genealogical companion to tonight's document; leans on the same Lovejoy book and the same "reading-test" corpora. Lovejoy's full text is now one `curl` away (pattern register). Has type codes (3–4). |
-> | `03_Biblical_Scholarship/What the Apparatus Cannot See` | 52 type-code prefixes, the largest left. Folder never audited. Long — probably a one-document night. |
-> | `05_The_Self/The Architecture of Hidden Divinity` + `The Architecture of Autonomy` | Likely a sibling pair (diff first); raw Gemini-style `#### Works cited` lists of bare URLs — the Reddit/Scribd/bare-URL class (**102** documents) no run has touched yet. |
+> | `07_Cultural_Pneumatology/The Animating Spirit_ A Cultural History…` | The later sibling of tonight's document (its §§2–4 are *Mechanics* nearly verbatim), and it already carries tonight's propagated fixes, so the Graham/memo half is fast. Three findings are waiting for it (research question "For the author", 2026-09-25): Blair confirmed Dec 1973, not 1974; its notes ¹ and ⁷ still resolve to *AC*; the sibling-position question. Long (~760 lines). |
+> | `06_Mythological_Studies/Descent Remembered as Ascent` | Genealogical companion to *The River, Not the Chain*; leans on Lovejoy and the same reading-test corpora (full texts in the pattern register). Has type codes. |
+> | `03_Biblical_Scholarship/What the Apparatus Cannot See` | 52 type-code prefixes, the most left. Folder never audited. Probably a one-document night. |
 >
 > Coverage so far: `00_Master_Theses` ×1, `01_Consciousness_Studies` ×1, `02_Swedenborgian_Theology` ×1,
-> `05_The_Self` ×2, `06_Mythological_Studies` ×1, `08_Correspondential_Texts` ×1. **Still at zero: `00_Framework`,
-> `03_Biblical_Scholarship`, `04_Early_Christian_History`, `07_Cultural_Pneumatology`.** Correct toward those.
+> `05_The_Self` ×2, `06_Mythological_Studies` ×1, `07_Cultural_Pneumatology` ×1, `08_Correspondential_Texts` ×1.
+> **Still at zero: `00_Framework`, `03_Biblical_Scholarship`, `04_Early_Christian_History`.** Correct toward those —
+> `03` and `04` are the largest folders never touched.
 >
-> **Standing defect classes, re-counted 2026-09-24**: Reddit/Scribd/Quora in **102** documents; `drive.google.com`
-> in **24**; `[P]`/`[S]`/`[T]` type codes in **6** (was 7). None of tonight's documents carried Reddit or Drive links.
+> **Standing defect classes, re-counted 2026-09-25**: Reddit/Scribd/Quora in **102** documents (tonight's document
+> keeps one Scribd entry, deliberately — see its row); `drive.google.com` in **24**. Type codes not re-counted.
 >
-> **Propagation debt**: none outstanding. The Dean et al. fix reached *The Neurocentric Limit*; every other fix was
-> grepped and occurs nowhere else. The Lovejoy phrases in *The Downstream Refinery* are a finding, not a debt —
-> they follow whatever the author decides for *The River*.
+> **Propagation debt**: none for tonight's corrections — each was grepped corpus-wide from several angles and applied
+> everywhere. Not debt but related: the dead Drive report ("The Animating Spirit: A Genealogical and Pneumatological
+> Exegesis") is cited by four `07` documents; resolve it once, when the research question is answered.
 >
-> **Awaiting external answers** (audit-logged, open): the two new `[GDR]` *River* questions; the narrowed *Seed and
-> the Sun* attributions (Peters ">60% remote", "Stevenson and Cook 326 cases" — no source states either figure);
-> the NDE entity-role schema questions (2026-09-21/22, three of them); the 2.6× Jesus ratio; Dole edition dates;
-> Gardner "2nd ed. 2020"; the *Protective Garment* annotation question. Resolved tonight: AWARE wording, placebo
-> meta-analysis.
+> **Awaiting external answers** (open): tonight's four `[GDR]` (untraced *Mechanics* attributions; Worcester
+> genealogy; the vanished Drive report; findings for the author); *The Seed and the Sun* Peters ">60% remote" and
+> "Stevenson and Cook 326 cases"; the NDE entity-role schema questions (three); the 2.6× Jesus ratio; Dole edition
+> dates; Gardner "2nd ed. 2020"; the *Protective Garment* annotation question; *The River* locator/translation
+> question (LOW).
 >
-> **Still not done from the old backlog**: Kelly's *The Memory Code* for the "memory palace" clause in *The
-> Epistemic Architecture* § 3.3 — the clause is about the **Klamath** tradition, and whether Kelly covers Klamath
-> is unestablished. Check the book (or drop the item) before citing it.
+> **Still not done from the old backlog**: Kelly's *The Memory Code* for the "memory palace" clause in *The Epistemic
+> Architecture* § 3.3 — whether Kelly covers the Klamath is unestablished. Check the book (or drop the item).
 >
 > **Worth knowing**:
-> - **Full texts that settle quotation questions in one pass** (all public, all `curl`-able; never fetch a `.pdf`
->   URL — archive.org `_djvu.txt` files are plain text): Lovejoy *Great Chain* `in.ernet.dli.2015.139572`;
->   Taylor's Proclus `thomastaylor` (*Theology of Plato* + *Elements*, 1816) and `proclusontimaeus01procuoft` /
->   `02` (1820); Dodds's *Elements* `dodds-elements-of-theology-en-1963`; MacKenna's Plotinus
+> - **Full texts that settle quotation questions in one pass** (all public; never `WebFetch` a `.pdf` — `curl` it to
+>   the scratchpad and read with `pypdfium2`): Lovejoy *Great Chain* `in.ernet.dli.2015.139572`; Taylor's Proclus
+>   `thomastaylor`, `proclusontimaeus01procuoft`/`02`; Dodds `dodds-elements-of-theology-en-1963`; MacKenna
 >   `PlotinusEnneads.ElectronicTextEdition`; Gutenberg Darwin 1228, Plato *Sophist* 1735 / *Timaeus* 1572 /
->   *Parmenides* 1687, Wallace's *Logic of Hegel* 55108; Baillie's *Phenomenology* preface on marxists.org;
->   West's *Bundahishn* on avesta.org; Greek originals in the PerseusDL `canonical-greekLit` GitHub repo. The
->   author's Drive holds Lovejoy's *Monist* essay and *Essays in the History of Ideas* (folder
->   `0BzFGKrmu5CtkNGxweURWai12RGM`).
-> - **PubMed E-utilities** (`esummary` / `efetch`) returns authoritative author lists, volume, pages — it caught the
->   Dean-not-Borjigin first author in one call. Use it for any biomedical citation.
-> - Swedenborg primaries: Drive folder `1DwYsxv8ZWc695x1Y997Ozka2yizs7k83` (AC, HH, AR, AE, *Spiritual Diary*…);
->   Foundation PDFs via `curl` + `pypdfium2` for *TCR*, *Sacred Scripture*, *DLW*. Recipe for Drive PDFs:
->   `download_file_content` → tool-results JSON → base64-decode → `pypdfium2` in a fresh venv.
+>   *Parmenides* 1687 / *Phaedrus* 1636, Kandinsky (Sadler) 5321, Wallace's *Logic of Hegel* 55108; West's
+>   *Bundahishn* on avesta.org; Greek in PerseusDL `canonical-greekLit`. **Swedenborg**: all 12 *AC* volumes plus
+>   *DP*, *DLW*, *HH* as Foundation PDFs (URL pattern in the pattern register). **Disney**: see the `07` family row
+>   in the pattern register.
+> - **Crossref** (`api.crossref.org/works/<doi>`) resolves a bare publisher DOI link to author, book and pages in
+>   one call; **PubMed E-utilities** does the same for biomedical citations.
+> - The Drive MCP returns "not found" for Drive IDs that no longer exist — that settles a dead personal link quickly.
 > - Two `EVOLVING_CONCEPTUAL_STRAINS.md` items remain open from 2026-08-20 — **#16** and **#26**. This job does not
 >   touch that file. Highest strain number is still **#26**.
-> - The NDE entity-role block is stale at the **schema** level, not the data level — read the 2026-09-22 question
->   before trying to recompute anything.
+> - The NDE entity-role block is stale at the **schema** level — read the 2026-09-22 question before recomputing.
 ---
 
 ## How to read the tables
@@ -105,9 +97,9 @@ A document counts as audited only after a **complete** read and source pass — 
 | Metric | Count |
 |---|---|
 | Documents in `data/` | 250 |
-| Audited | 7 |
+| Audited | 8 |
 | In flight | 0 |
-| Remaining | 243 |
+| Remaining | 242 |
 
 Refresh the total with `find data -name "*.md" | wc -l`.
 
@@ -131,7 +123,7 @@ Refresh the total with `find data -name "*.md" | wc -l`.
 | 2026-09-25 | `06_Mythological_Studies/The River, Not the Chain_ The Great Chain of Being as a Reception Artifact.md` | Follow-up, not a new selection — the author reviewed the Lovejoy finding, checked it against the NotebookLM notebook holding Lovejoy's works (which conceded none of the four phrases is verbatim), and asked for the thesis to be corrected | Four more Lovejoy works searched in full text (*Revolt Against Dualism*; the 1909 *PSM* essay; "Kant and Evolution" 1910–11) plus the two already checked — none contains any of the four phrases | **F.** Every use of the four phrases replaced with Lovejoy's verified words (*GCB* pp. 50, 245, 329, 67) or, for the unit-idea objection, credited to his critics without quotation marks: Abstract, §1 (×2), §2.4, §3.2, §4.7 (×3), §7.6, §8, Appendix row 11. "A sort of Life stretched out" credited to Plotinus as Lovejoy quotes him (×3); "block-world" noted as James's term (§2.4); "on facing pages" removed (×3). The argument is unchanged; it now rests on real text. | 1 — `00_Master_Theses/The Downstream Refinery` §3.3 l.151, same replacement | HIGH `[GDR]` question resolved | partial (unchanged — the unnamed-edition entries remain) |
 | 2026-09-24 | `02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on Hypothesis-Testing with the Swedenborgian Framework.md` | Follow-up, not a new audit — handoff backlog: already-verified fixes deferred only under the old § 3.6 reading | 1 new (Sachdev et al. 2023 via PubMed 36444211) | **F.** AWARE, §§1.1 and 3.1.1: "2% … reported verified awareness during clinical death" → "2% … described awareness with explicit recall of actual events during their resuscitation, one of them objectively verified" (as Parnia et al. 2014 reports it). Placebo claim, §§1.1 and 5.4: "(Sachdev et al., 2023)" added; entry added to Works Cited (alphabetical; entries renumbered). **Left alone**: the Kelly / "memory palace" item from the handoff — the sentence is about the Klamath tradition, and whether *The Memory Code* covers Klamath is not established, so citing it could overreach. | 0 — neither wording recurs | 2 resolved (AWARE; placebo) → `resolved_research_questions.md` | corrected |
 | 2026-09-24 | `00_Master_Theses/The Seed and the Sun_ A Statistical and Phenomenological Investigation into the Architecture of Consciousness, the Paths of the Soul, and the Dissolution of the Hard Problem.md` | Same follow-up — the `[GDR]` question on eight inline attributions missing from the bibliography, and the placebo source | 6 new, each verified against PubMed or the publisher record | **F.** Works Cited: added Stevenson 1993 (*JSE* 7.4: 403–410), Matlock 2023 (*Explore* 19.2: 170–175 — 36 / 32 / 27 exactly as §6.3 says), Dean et al. 2019 (*Sci Rep* 9: 9333), Kerr et al. 2014 (*J Palliat Med* 17.3: 296–303), Moorjani 2012 (Hay House), Sachdev et al. 2023; later entries renumbered (Data Sources now 25–31, Internal 32–58). Body: "Borjigin et al. (2019)" → "Dean et al. (2019)" (Borjigin is senior author, Dean first); placebo parenthesis gains "; Sachdev et al., 2023". **Left alone**: Peters/SCRI ">60% remote" and "Stevenson and Cook … 326 cases across eight cultures" — no source found that states either figure. | 1 — `01_Consciousness_Studies/The Neurocentric Limit` l.83 ("Borjigin et al. (2019)" → "Dean et al. (2019)", not audited) | question narrowed to the 2 untraced figures | corrected |
-| 2026-09-25 | `07_Cultural_Pneumatology/The Mechanics of the Soul_ Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio.md` | `07_Cultural_Pneumatology` never audited (coverage correction); carries both Reddit and `drive.google.com` citations — the two defect classes no run has yet cleared; Gemini-style raw `Works cited` list of ~40 URLs, so a one-document night | — | — | — | — | in-progress |
+| 2026-09-25 | `07_Cultural_Pneumatology/The Mechanics of the Soul_ Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio.md` | `07_Cultural_Pneumatology` never audited (coverage correction); carries both a Scribd and a `drive.google.com` citation; Gemini-style raw `Works cited` list of 43 URLs plus a second annotated bibliography, so a one-document night | **All 43 raw entries + the annotated list checked**, and every quotation against its primary: the 23 Dec 1935 memo (full text, Animation Meat PDF — date, addressee and both quotations **verbatim**); the 21 Jun 1937 Graham class (all 15 pages of Hans Perk's typescript scan read — Tytla "symbols of forces … vital element is force" and "where form leaves off and force begins" **verbatim**); *Illusion of Life* full text (memo epigraph, Ch. 5; Graham running film "backward and forward"); Gadassik, *Discourse* 37.3 (2015) for the "scientific approach" quotation; Crafton 2013 (Tytla/Boleslavsky 1933); Beiman 2014 quoting Culhane pp. 135–36 (Chaplin anecdote); Stanchfield, *Drawn to Life* and *Gesture Drawing* (full texts); Fonseca 2015; *The Messenger* Feb 1974 (Blair confirmation **confirmed**); Cartoon Brew / Cartoon Research (Wright visit 25 Feb 1939 **confirmed**); D23 (art school 15 Nov 1932; Retta Scott); CalArts/LA Conservancy (Chouinard 1921); all 12 *Arcana Coelestia* volumes, *DP*, *DLW*, *HH* (Foundation PDFs) for the Swedenborg quotation; Gutenberg Kandinsky (Sadler) and *Phaedrus* (Jowett); *Appletons'* for Thomas Worcester; Crossref for Hooks and Gadassik. 3 internal links resolve. | **F.** (1) *Composing Pictures* "published posthumously in 1970" → "published in 1970" (Van Nostrand Reinhold 1970; Graham d. Oct 1976). (2) "As Swedenborg writes in *Arcana Coelestia*: 'Action is nothing but the will flowing forth… The body is the obedience'" — **in no AC section**; the second half is *Divine Providence* §103 ("the body is so much obedience") → re-cited to *DP* §103 in its verified Wunsch wording; *DP* added to Works Cited. (3) Stanchfield "articulated: 'The driving force behind the action is the mood'" — those are Walt's memo words, which Stanchfield quotes → "articulated it, quoting Walt's memo … and naming it 'the inner force'". (4) "Students like Walt Stanchfield explicitly described Graham's classes as 'metaphysical'" — "The Metaphysical Side" is the title of Stanchfield's own New Thought lecture → "titled one of his own lectures 'The Metaphysical Side'". (5) Thomas & Johnston "emphasize … the 'spirit of the thing'" — not in *IoL*; it is Woolie Reitherman's phrase as Stanchfield records it → re-attributed. (6) Thomas Worcester "the first president of the General Convention" → "president … from 1839 to 1875" (*Appletons'*). (7) Retta Scott "the first woman animator to receive screen credit" → "… at Disney" (Lillian Friedman, Fleischer, 1934). (8) Films "Chaplin comedies, sports footage (pitchers, golfers), and even nature documentaries" → "Chaplin and Buster Keaton comedies" (Culhane; nothing supports the rest). (9) Chaplin's hand "twitch" → fingers "wriggle" (Culhane's word). (10) Verbatim restored: Plato "mind, the pilot of the soul" (*Phaedrus* 247c), Kandinsky "form is the outward expression of this inner meaning", transcript "force" not "FORCE", Stanchfield "draw verbs not nouns". (11) Works Cited rebuilt as one `## VIII. Works Cited` (44 entries, Primary/Scholarly/Internal/Web); inline markers renumbered; the conclusion paragraph that sat inside the old bibliography moved to the end of §VII unchanged. Replaced: Scribd *IoL* → Thomas & Johnston 1981; dokumen.pub ×3 → Crafton 2013, *Drawn to Life* 2009/2024; pirated Barrier PDF → UC Press 2007; archive PDF → Bob Thomas 1976; Filmic Light memo repost → the memo; KI blog (Tytla quote) → the 1937 transcript; DIX index pages → the transcripts; Odradek PDF → Gadassik, *Discourse*; publisher/archive pages → Graham 1970/2010. Added: Culhane 1986, Plato, Kandinsky, *DP*, *Appletons'*, D23 Retta Scott, Barrier 1999. **Removed as a citation**: none — every reposted entry became the work it reposted. **Left as it stands**: Scribd "Don Graham Notes" (sole source for the "Line of Action" quotation — not in the 21 Jun transcript), the two dead Drive links, the Babbitt fan-blog quotation, the unreachable Marc Davis blog, Hooks for "Group Theatre", KI blog for the "paper doll" phrase, "Retta Scott … a student of Graham", the Worcester descent (see Open). | 10 files: *Carriers*, *Glass Church*, *Hidden Temple*, *Architect*, *Cultural History* (×2), *Invisible Influx*, *Crown and the Comedy*, *Diffracted Light*, *Pneumatic Cinema* — the Swedenborg quotation → *DP* §103; *River and the Vessel* + *Glass Church* — Retta Scott "at Disney"; *Cultural History* — Stanchfield "metaphysical" (×2), film list, "wriggle"; *Crisis of Ensoulment*, *Glass Church* (×2), *Hidden Temple*, *Invisible Influx*, *Mirror and the Void*, *Pneumatic Cinema* — reposted/pirated entries → real publications. None audited. | 4 `[GDR]` (dated block 2026-09-25): seven weak/untraced attributions; the Worcester genealogy; the vanished Drive report; three findings for the author in unaudited 07 documents (Blair confirmed Dec 1973 not 1974; *Cultural History* footnotes still resolving to AC; the *Mechanics*/*Cultural History* sibling pair) | corrected |
 
 ---
 
@@ -158,6 +150,10 @@ Add an entry when a problem looks like it will recur. Update the existing entry 
 | Works Cited names one translator; the quotations are another's | The entry says "trans. E. R. Dodds" or "trans. J. B. Baillie", and the body quotes wording that is not in that translation. Typical of documents assembled from mixed sources: the bibliography names the modern standard edition, the quotations come from a public-domain one (Taylor's 1816 Proclus) or a different modern one (Miller's 1977 Hegel). | Check a distinctive phrase against each candidate translation's full text. Where the quotations are entirely another translator's, **replace** the named translator (Proclus: Dodds → Taylor); where they are mixed, **add** the second translator to the entry (Hegel: Baillie + Miller). Verify the imprint from the scan's title page. Also check proposition/section numbers against the text, not the running header: Taylor's 1816 *Elements* prints "PROP. CXXVI" as the page header while the text on that page is still Prop. CXXV. | *The River, Not the Chain*, 2026-09-24. |
 | First-author errors in "X et al." citations | A body cites "Borjigin et al. (2019)" — a famous lab head's name — for a paper whose first author is someone else (Dean), because the senior author is the name people remember. Copies across documents. | One PubMed `esummary` call gives the authoritative author order. Fix the token and grep the "X et al. (year)" form corpus-wide. | *The Seed and the Sun* §3.2 and *The Neurocentric Limit* l.83, 2026-09-24. |
 
+| A "Swedenborg quotation" that is in no Swedenborg text, copied across a whole folder | A sentence in quotation marks credited to a work by name but no section ("As Swedenborg writes in *Arcana Coelestia*: 'Action is nothing but the will flowing forth… The body is the obedience'"). Reads like Swedenborg; no § number; the same wording in many sibling documents. | **Search the full text, not the web.** All 12 *Arcana Coelestia* Standard Edition volumes are `curl`-able at `swedenborg.com/wp-content/uploads/2013/03/swedenborg_foundation_arcana_coelestia_01.pdf` … `_12.pdf` (also `…_divine_providence.pdf`, `…_divine_love_and_wisdom.pdf`, `…_heaven_and_hell.pdf`; the `true_christian_religion_1/2` URLs return HTML). `pypdfium2` in a venv, regex every clause across all of them in one pass. If a real passage says the same thing, re-cite to it in its verified wording with the § number (here *DP* §103, "the body is so much obedience") and add the Works Cited entry; then grep the quoted words corpus-wide and apply the identical replacement. If nothing says it, research question. | *The Mechanics of the Soul* and 9 other `07_Cultural_Pneumatology` documents, 2026-09-25 — all corrected. |
+| Pirated-book and repost hosts beyond Scribd | Works Cited entries pointing at `dokumen.pub`, `pdfcoffee.com`, an unrelated institution's upload folder (`staibabussalamsula.ac.id/wp-content/uploads/…Barrier…pdf`), an archive.org user upload of an in-copyright book, or a blog that reposts a document (Filmic Light reposting the 1935 memo). | Same routing as Scribd: cite the publication itself (author, title, publisher, year — from the colophon). The dokumen.pub page usually carries the book's full text *and* its copyright page in the HTML, so one `curl` both identifies the edition and lets you verify quotations. Grep each URL corpus-wide and swap the same entry everywhere. | *The Mechanics of the Soul* + 6 sibling documents, 2026-09-25. |
+| The `07_Cultural_Pneumatology` Disney documents are one copy-paste family | A dozen Gemini reports (*Carriers*, *Invisible Influx*, *Glass Church*, *Hidden Temple*, *Architect*, *Cultural History*, *Crown and the Comedy*, *Diffracted Light*, *Pneumatic Cinema*, *Mechanics*, *Crisis of Ensoulment*, *Mirror and the Void*) share whole paragraphs; each error found in one is in several. | Grep the whole folder for every fix. Primary sources that settle most of their claims, all public: the 1935 memo (Animation Meat PDF); Hans Perk's Graham class scans at `https://www.afilmla.com/blog/AAC-MMDDYY-NN.jpg` (e.g. `AAC-062137-01.jpg` … `-15.jpg`) — read them with the Read tool, they are clean typescript; *Illusion of Life* `_djvu.txt` on archive.org; Stanchfield's handouts (floobynooby PDF, dokumen *Drawn to Life*); Beiman's Bologna paper (quotes Culhane at length); *The Messenger* back issues on swedenborg.org. | 2026-09-25. |
+
 Candidates to watch for in early runs, from the corpus's history — confirm before treating any as established:
 
 - Much of this library came out of Gemini Deep Research. Generated bibliographies are the usual place fabricated or subtly wrong citations hide, and a citation pointing at an internal document may be standing in front of an external original (`CLAUDE.md` § Source Tracing, rule 2).
@@ -170,6 +166,33 @@ Candidates to watch for in early runs, from the corpus's history — confirm bef
 ## Run log
 
 Narrative per run — what the batch surfaced, and anything a later run should know that does not fit the tables. Newest first. Unlike the handoff block, this accumulates.
+
+### 2026-09-25 — *The Mechanics of the Soul*: the memo and the 1937 transcripts are exact; the Swedenborg quotation is not Swedenborg's
+
+Precheck passed; batch claimed and pushed before reading. **Batch**: one document, `07_Cultural_Pneumatology/The
+Mechanics of the Soul` (250 lines, read in full), because `07` had never been audited and the handoff asked for the
+zero-count folders; it carried a Scribd and two Drive citations in a 43-URL Gemini list — the Reddit/Scribd class no
+run had yet touched.
+
+**What holds, and it is most of it.** The spine of the document is the 23 December 1935 memo and Graham's 1937
+classes, and both are exact: date, addressee and every quoted sentence of the memo (read in full), and the Tytla
+passage and "where form leaves off and force begins" in the 21 June 1937 typescript (all fifteen pages read from
+Hans Perk's scans). *The Illusion of Life* does open Ch. 5 with "the mind is the pilot" and describes Graham running
+film "backward and forward". Mary Blair's confirmation at Wayfarers' Chapel is in *The Messenger*; Wright's 1939
+visit, Boleslavsky 1933, Chouinard 1921 and Graham's 1932 start all check.
+
+**What did not.** The one Swedenborg quotation — "Action is nothing but the will flowing forth… The body is the
+obedience", credited to *Arcana Coelestia* — is in none of AC's twelve volumes; its second half is *Divine
+Providence* §103. It now quotes §103, and so do the nine sibling documents that carried it. Two attributions were the
+wrong person's (Walt's memo words credited to Stanchfield; Reitherman's "spirit of the thing" credited to Thomas &
+Johnston), one lecture title had become a description of Graham's classes ("metaphysical"), *Composing Pictures* was
+called posthumous (Graham outlived it by six years), and the film list had grown sports footage and nature
+documentaries that no source mentions. Four remain untraced and are logged: the "Line of Action" definition (only a
+Scribd upload has it, and it is not in the June 21 transcript), Babbitt's and Davis's praise of Graham (fan blog;
+dead page), and the Worcester descent that the "Carriers" argument rests on.
+
+**Worth knowing**: the `07` Disney folder is a copy-paste family (pattern register) — the next document audited
+there will already carry tonight's propagated fixes, and its Works Cited will point at the same reposts.
 
 ### 2026-09-24 (night run) — *The River, Not the Chain*: most quotations verbatim, four "Lovejoy" phrases that are not Lovejoy's; the backlog cleared
 

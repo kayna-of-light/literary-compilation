@@ -461,7 +461,7 @@ Don Graham's "Action Analysis" classes (from 1932) taught animators to draw "for
 
 Mary Blair, the color stylist responsible for the visual identity of *Cinderella*, *Alice in Wonderland*, and *Peter Pan*, was confirmed into the Swedenborgian Church at the Wayfarers Chapel on December 23, 1974 — documented in *The Messenger*, the Swedenborgian Church newsletter. Her art style — characterized by flatness, luminosity, and emotional color scripting of the environment — is a visual application of the Doctrine of Correspondences: the environment is not a static backdrop but a dynamic spiritual substance that changes to reflect the mood (spirit) of the scene.
 
-Retta Scott, the first woman to receive screen credit as an animator (for the hunting dogs in *Bambi*), married Benjamin Fessenden Worcester — a direct descendant of Reverend Thomas Worcester, the first pastor of the Boston Society of the New Jerusalem and a central figure in American Swedenborgianism.
+Retta Scott, the first woman to receive screen credit as an animator at Disney (for the hunting dogs in *Bambi*), married Benjamin Fessenden Worcester — a direct descendant of Reverend Thomas Worcester, the first pastor of the Boston Society of the New Jerusalem and a central figure in American Swedenborgianism.
 
 The Wayfarers Chapel in Palos Verdes — designed by Lloyd Wright as a national memorial to Swedenborg, built 1949-1951 — functioned as the geographical nexus connecting these figures. Its glass-wall design is a literal architectural expression of the Doctrine of Correspondences, erasing the boundary between the natural (forest/ocean) and the spiritual (sanctuary/worship).
 

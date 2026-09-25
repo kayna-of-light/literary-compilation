@@ -60,7 +60,7 @@ The solution to this crisis was codified in a memo from Walt Disney to Don Graha
 
 "In other words, in most instances, the driving force behind the action is the mood, the personality, the attitude of the character—or all three. Therefore, the mind is the pilot. We think of things before the body does them." 2
 
-This directive is not merely an acting tip; it is an ontological claim. It establishes a hierarchy of causation where the spiritual (Mind/Mood) is the active cause and the natural (Body/Action) is the passive effect. This structure is identical to Swedenborg’s *Doctrine of Influx*, which posits that the natural world is dead until animated by an influx from the spiritual world. As Swedenborg wrote in *Arcana Coelestia*: "Action is nothing but the will flowing forth... The body is the obedience".2
+This directive is not merely an acting tip; it is an ontological claim. It establishes a hierarchy of causation where the spiritual (Mind/Mood) is the active cause and the natural (Body/Action) is the passive effect. This structure is identical to Swedenborg’s *Doctrine of Influx*, which posits that the natural world is dead until animated by an influx from the spiritual world. As Swedenborg wrote in *Divine Providence* (§103): "The body’s activity in speech or deed is only an effect from the external and internal of man’s spirit, for the body is so much obedience".2
 
 ### **3.2 Action Analysis as "Applied Influx"**
 
@@ -241,7 +241,7 @@ The "Disney Style," therefore, is the result of a specific theological lineage�
 22. William Lewis, Horry County, South Carolina \- Genealogy Trails, accessed on February 2, 2026, [https://genealogytrails.com/scar/horry/bio\_wm\_lewis4.htm](https://genealogytrails.com/scar/horry/bio_wm_lewis4.htm)  
 23. Full text of "General catalogue" \- Internet Archive, accessed on February 2, 2026, [https://archive.org/stream/generalcatalogue1517bost/generalcatalogue1517bost\_djvu.txt](https://archive.org/stream/generalcatalogue1517bost/generalcatalogue1517bost_djvu.txt)  
 24. Snow White and the Seven Dwarfs | Disney Wiki \- Fandom, accessed on February 2, 2026, [https://disney.fandom.com/wiki/Snow\_White\_and\_the\_Seven\_Dwarfs](https://disney.fandom.com/wiki/Snow_White_and_the_Seven_Dwarfs)  
-25. Walt Disney : an American original, accessed on February 2, 2026, [https://ia804507.us.archive.org/30/items/walt-disney-an-american-original/Walt%20Disney%20%20an%20American%20original.pdf](https://ia804507.us.archive.org/30/items/walt-disney-an-american-original/Walt%20Disney%20%20an%20American%20original.pdf)  
+25. Thomas, Bob. *Walt Disney: An American Original*. New York: Simon & Schuster, 1976.  
 26. Artist Biography & Facts Hal Williams (Harold) Adelquist \- askART, accessed on February 2, 2026, [https://www.askart.com/artist/Hal\_Williams\_Harold\_Adelquist/11222887/Hal\_Williams\_Harold\_Adelquist.aspx](https://www.askart.com/artist/Hal_Williams_Harold_Adelquist/11222887/Hal_Williams_Harold_Adelquist.aspx)  
 27. Hal Adelquist \- Wikipedia, accessed on February 2, 2026, [https://en.wikipedia.org/wiki/Hal\_Adelquist](https://en.wikipedia.org/wiki/Hal_Adelquist)  
 28. Disney History 101, accessed on February 2, 2026, [https://www.disneyhistory101.com/new-index-5](https://www.disneyhistory101.com/new-index-5)  

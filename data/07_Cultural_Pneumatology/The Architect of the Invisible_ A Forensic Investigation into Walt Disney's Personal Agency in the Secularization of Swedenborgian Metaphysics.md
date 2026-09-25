@@ -80,7 +80,7 @@ In the memo, Walt uses the phrase to argue that the **internal state** (mood/att
 
 * **The Spiritual (Mind/Will):** The realm of Causes.  
 * **The Natural (Body/Action):** The realm of Effects.  
-* **Influx:** Life flows from the internal to the external. As Swedenborg writes in *Arcana Coelestia*: "Action is nothing but the will flowing forth... The body is the obedience".15
+* **Influx:** Life flows from the internal to the external. As Swedenborg writes in *Divine Providence* (§103): "The body’s activity in speech or deed is only an effect from the external and internal of man’s spirit, for the body is so much obedience".15
 
 When Walt commanded his animators to realize that "the mind is the pilot," he was secularizing the Doctrine of Influx. He was teaching them that the drawing (the natural object) has no power of its own; it is dead matter that only moves because a spirit (the mind) flows into it. This distinction—that the body is merely the "obedience" of the mind—is the "secret sauce" of Disney animation. It transformed the animator from a mover of lines to a manipulator of souls.
 

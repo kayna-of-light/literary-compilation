@@ -22,7 +22,7 @@ The solution to this crisis was codified in a memo from Walt Disney to Don Graha
 
 "In other words, in most instances, the driving force behind the action is the mood, the personality, the attitude of the character—or all three. Therefore, the mind is the pilot. We think of things before the body does them." 1
 
-This directive is not merely an acting tip; it is an ontological claim. It establishes a hierarchy of causation where the spiritual (Mind/Mood) is the active cause and the natural (Body/Action) is the passive effect. This structure is identical to Swedenborg’s **Doctrine of Influx**, which posits that the natural world is dead until animated by an influx from the spiritual world. As Swedenborg wrote in *Arcana Coelestia*: "Action is nothing but the will flowing forth... The body is the obedience".2
+This directive is not merely an acting tip; it is an ontological claim. It establishes a hierarchy of causation where the spiritual (Mind/Mood) is the active cause and the natural (Body/Action) is the passive effect. This structure is identical to Swedenborg’s **Doctrine of Influx**, which posits that the natural world is dead until animated by an influx from the spiritual world. As Swedenborg wrote in *Divine Providence* (§103): "The body’s activity in speech or deed is only an effect from the external and internal of man’s spirit, for the body is so much obedience".2
 
 ### **2.2 Action Analysis as Applied Metaphysics**
 
@@ -102,7 +102,7 @@ The chapel became a magnet for the creative class of Los Angeles. Snippet eviden
 
 ### **4.3 Retta Scott and the Worcester Dynasty**
 
-**Retta Scott** (1916–1990), the first woman to receive screen credit as an animator (famous for the hunting dogs in *Bambi*), provides a genealogical link to the church’s leadership.
+**Retta Scott** (1916–1990), the first woman to receive screen credit as an animator at Disney (famous for the hunting dogs in *Bambi*), provides a genealogical link to the church’s leadership.
 
 * **The Marriage:** Snippets confirm that Retta Scott married **Benjamin Fessenden Worcester**.7  
 * **The Lineage:** The Worcester family is the "Royal Family" of American Swedenborgianism. **Rev. Thomas Worcester** (1795–1878) was the first pastor of the Boston Society of the New Jerusalem and a massive figure in the church’s history.26 Benjamin Fessenden Worcester was his direct descendant.  
@@ -227,8 +227,8 @@ The "Gatekeepers" identified with varying degrees of certainty include Hal Adelq
 28. Message from the Chairman \- Aquarium of the Pacific, accessed on February 1, 2026, [https://www.aquariumofpacific.org/downloads/Aquarium\_AR2010.pdf](https://www.aquariumofpacific.org/downloads/Aquarium_AR2010.pdf)  
 29. disneyland (a \- Disney History 101, accessed on February 1, 2026, [https://www.disneyhistory101.com/new-index-1](https://www.disneyhistory101.com/new-index-1)  
 30. Bactrocera spp. Fruit Fly Cooperative Eradication Program Los Angeles County, California Environmental Assessment, July 2022 \- usda aphis, accessed on February 1, 2026, [https://www.aphis.usda.gov/sites/default/files/north-hills-off-ea.pdf](https://www.aphis.usda.gov/sites/default/files/north-hills-off-ea.pdf)  
-31. Drawn to Life 20 Golden Years of Disney Master Classes Volume 1 The Walt Stanchfield Lectures 9781032104430, 9781032104416, 9781003215363 \- DOKUMEN.PUB, accessed on February 1, 2026, [https://dokumen.pub/drawn-to-life-20-golden-years-of-disney-master-classes-volume-1-the-walt-stanchfield-lectures-9781032104430-9781032104416-9781003215363.html](https://dokumen.pub/drawn-to-life-20-golden-years-of-disney-master-classes-volume-1-the-walt-stanchfield-lectures-9781032104430-9781032104416-9781003215363.html)  
-32. Drawn to life : 20 golden years of Disney master classes 9780240810966, 0240810961, 9780240811079, 0240811070 \- DOKUMEN.PUB, accessed on February 1, 2026, [https://dokumen.pub/drawn-to-life-20-golden-years-of-disney-master-classes-9780240810966-0240810961-9780240811079-0240811070.html](https://dokumen.pub/drawn-to-life-20-golden-years-of-disney-master-classes-9780240810966-0240810961-9780240811079-0240811070.html)  
+31. Stanchfield, Walt. *Drawn to Life: 20 Golden Years of Disney Master Classes*. Vol. 1, *The Walt Stanchfield Lectures*. Edited by Don Hahn. 2nd ed. Boca Raton, FL: CRC Press, 2024.  
+32. Stanchfield, Walt. *Drawn to Life: 20 Golden Years of Disney Master Classes*. Edited by Don Hahn. 2 vols. Burlington, MA: Focal Press, 2009.  
 33. Irving Stone \- THE PASSIONS OF THE MIND \- 1st Edition \- eBay, accessed on February 1, 2026, [https://www.ebay.com/itm/176848631052](https://www.ebay.com/itm/176848631052)  
 34. Drawn To Life 20 Golden Years of Disney Master Classes Volume 1 The Walt Stanchfield Lectures 1° Edition Walt Stanchfield Ebook Unlock Full Chapters \- Scribd, accessed on February 1, 2026, [https://www.scribd.com/document/974684987/Drawn-to-Life-20-Golden-Years-of-Disney-Master-Classes-Volume-1-The-Walt-Stanchfield-Lectures-1-Edition-Walt-Stanchfield-ebook-unlock-full-chapters](https://www.scribd.com/document/974684987/Drawn-to-Life-20-Golden-Years-of-Disney-Master-Classes-Volume-1-The-Walt-Stanchfield-Lectures-1-Edition-Walt-Stanchfield-ebook-unlock-full-chapters)  
 35. The Faith of Glen Keane \- David Condolora, accessed on February 1, 2026, [https://davidcondolora.com/blog/the-faith-of-glen-keane](https://davidcondolora.com/blog/the-faith-of-glen-keane)  

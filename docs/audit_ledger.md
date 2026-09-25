@@ -11,68 +11,70 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 
 **Replaced wholesale at the end of every run.** This block describes the present, not the history — history goes in the run log below. A run that leaves this stale has failed its successor.
 
-> **Status**: 6 documents audited, all `corrected`. 244 remain. Nothing in flight. GitHub write access works;
-> tonight's PR was opened normally against `dev`.
+> **Status**: 7 documents audited (6 `corrected`, 1 `partial`). 243 remain. Nothing in flight. GitHub write
+> access works; tonight's PR was opened normally against `dev`.
 >
-> **The rule changed on 2026-09-24 — read § 3.6 again before you start.** The author clarified the job:
-> **correcting sources and claims in the document is the whole point.** Fix the wrong citation, replace the weak
-> source with the high-quality one, add the source a claim is missing, complete or re-describe the Works Cited
-> entry, correct the false fact in the fewest words that make it true. What is forbidden is writing *about the
-> audit* in the document: no notes, markers, asides, provenance — the reports are curated, official documents, not
-> notebooks. Earlier nights read the old rule as "token edits only" and left real fixes as research questions
-> because they needed a new bibliography entry; that was wrong. Interpretive positions, and positions superseded
-> by a later document (the annotation system), remain the author's.
+> **The rule (since 2026-09-24, unchanged tonight)**: correcting sources and claims *in* the document is the job —
+> wrong citation, wrong translator, wrong locus, missing Works Cited entry, false fact in the fewest words. What is
+> forbidden is writing *about the audit* in the document. Interpretive positions, and anything whose fix would
+> rewrite the author's argument, go to `research_questions.md`.
 >
-> **Backlog now actionable under the corrected rule** (all verified by earlier nights, all left unedited only
-> because of the old reading): the `[GDR]` question on eight inline attributions missing from *The Seed and the
-> Sun*'s bibliography; the *eClinicalMedicine* 2022 placebo meta-analysis for the "<1% complete response" claim
-> in *The Epistemic Architecture* and *The Seed and the Sun*; Kelly's *The Memory Code* and the unattributed
-> "memory palace" claim in *The Epistemic Architecture* § 3.3.2; the AWARE "verified awareness" wording. Worth a
-> night of its own before new documents — each is already researched.
+> **Resolved 2026-09-25 — the Lovejoy quotations**: the four phrases *The River, Not the Chain* quoted as Lovejoy's
+> ("strips or distorts…", "artificial freezing", "inherently demanded", "temporarily paralyzed") are in none of his works
+> (six checked in full text). At the author's instruction the thesis and *The Downstream Refinery* now rest the same
+> argument on Lovejoy's verified words (*GCB* pp. 50, 245, 329). **Lesson for every run**: the author's NotebookLM
+> notebook produced these phrases and, when first asked, assigned them confident chapter locations that do not exist.
+> A NotebookLM answer is a lead, never a verification — check the full text. *Descent Remembered as Ascent* was not
+> checked for paraphrases of the same kind and remains the natural next pick.
 >
 > **Take next — your call (§ 2), but here is what the evidence says:**
 >
 > | Candidate | Why |
 > |---|---|
-> | `06_Mythological_Studies/The River, Not the Chain` | Retired type codes in its actual source list (24 occurrences). Folder never audited. |
-> | `03_Biblical_Scholarship/What the Apparatus Cannot See` | 52 type-code prefixes — the largest remaining. Folder never audited. Long; may be a one-document night. |
-> | `05_The_Self/The Architecture of Hidden Divinity` + `The Architecture of Autonomy` | Probably another sibling pair (see the new pattern-register entry); both have raw Gemini-style `#### Works cited` lists of bare URLs with "accessed on" dates — i.e. the Reddit/Scribd/bare-URL defect class, which **no run has touched yet** and which is where the mass is. Both are load-bearing: tonight's two documents cite them for their central mechanic. |
+> | `06_Mythological_Studies/Descent Remembered as Ascent` | Genealogical companion to tonight's document; leans on the same Lovejoy book and the same "reading-test" corpora. Lovejoy's full text is now one `curl` away (pattern register). Has type codes (3–4). |
+> | `03_Biblical_Scholarship/What the Apparatus Cannot See` | 52 type-code prefixes, the largest left. Folder never audited. Long — probably a one-document night. |
+> | `05_The_Self/The Architecture of Hidden Divinity` + `The Architecture of Autonomy` | Likely a sibling pair (diff first); raw Gemini-style `#### Works cited` lists of bare URLs — the Reddit/Scribd/bare-URL class (**102** documents) no run has touched yet. |
 >
-> Smaller type-code carriers (3–4 occurrences, may be inline rather than a source list — check before picking):
-> `01_Consciousness_Studies/The Form That Precedes the Body`, `06_Mythological_Studies/Descent Remembered as
-> Ascent`, `The Temple and the Trench`, `The Philosopher`. `The Garment and What Wears It` still carries codes
-> in **Appendix A** deliberately — that is argument apparatus, not a source list. Leave it.
+> Coverage so far: `00_Master_Theses` ×1, `01_Consciousness_Studies` ×1, `02_Swedenborgian_Theology` ×1,
+> `05_The_Self` ×2, `06_Mythological_Studies` ×1, `08_Correspondential_Texts` ×1. **Still at zero: `00_Framework`,
+> `03_Biblical_Scholarship`, `04_Early_Christian_History`, `07_Cultural_Pneumatology`.** Correct toward those.
 >
-> Coverage so far: `01_Consciousness_Studies` ×1, `02_Swedenborgian_Theology` ×1, `05_The_Self` ×2,
-> `08_Correspondential_Texts` ×1, `00_Master_Theses` ×1. **Still at zero: `00_Framework`, `03_Biblical_Scholarship`,
-> `04_Early_Christian_History`, `06_Mythological_Studies`, `07_Cultural_Pneumatology`.** Correct toward those.
+> **Standing defect classes, re-counted 2026-09-24**: Reddit/Scribd/Quora in **102** documents; `drive.google.com`
+> in **24**; `[P]`/`[S]`/`[T]` type codes in **6** (was 7). None of tonight's documents carried Reddit or Drive links.
 >
-> **Standing defect classes, re-counted 2026-09-23**: Reddit/Scribd/Quora in **102** documents; `drive.google.com`
-> in **24**; both untouched. Neither of tonight's documents carried either.
+> **Propagation debt**: none outstanding. The Dean et al. fix reached *The Neurocentric Limit*; every other fix was
+> grepped and occurs nowhere else. The Lovejoy phrases in *The Downstream Refinery* are a finding, not a debt —
+> they follow whatever the author decides for *The River*.
 >
-> **Propagation debt**: none. Every fix tonight was grepped corpus-wide; none recurs outside the batch.
+> **Awaiting external answers** (audit-logged, open): the two new `[GDR]` *River* questions; the narrowed *Seed and
+> the Sun* attributions (Peters ">60% remote", "Stevenson and Cook 326 cases" — no source states either figure);
+> the NDE entity-role schema questions (2026-09-21/22, three of them); the 2.6× Jesus ratio; Dole edition dates;
+> Gardner "2nd ed. 2020"; the *Protective Garment* annotation question. Resolved tonight: AWARE wording, placebo
+> meta-analysis.
 >
-> **Awaiting external answers**: 10 research questions from the audit are open — 9 from earlier nights and 1
-> from 2026-09-23. Three of tonight's four were **resolved on 2026-09-24 by correcting the documents** (the
-> *Apocalypse Revealed* §11 attribution, Henning/Milik and the incomplete entries, the Part numbering and quotation
-> credits) and moved to `docs/resolved_research_questions.md`. The one left open is interpretive: whether *The
-> Protective Garment* should be annotated, revised or retired against its later rewrite *The Empty Room*.
+> **Still not done from the old backlog**: Kelly's *The Memory Code* for the "memory palace" clause in *The
+> Epistemic Architecture* § 3.3 — the clause is about the **Klamath** tradition, and whether Kelly covers Klamath
+> is unestablished. Check the book (or drop the item) before citing it.
 >
 > **Worth knowing**:
-> - **Gutenberg has Blavatsky in full** (IDs in the pattern register). Every quoted phrase in a document can be
->   checked in one regex pass with context. Tonight all 25+ were verbatim — report that, it is a real result.
-> - **Swedenborg primary texts not in the Drive** (*TCR*, *Sacred Scripture*, *DLW*): the Swedenborg Foundation
->   hosts Standard Edition PDFs at `swedenborg.com/wp-content/uploads/2013/03/swedenborg_foundation_<title>.pdf`
->   (`curl` + `pypdfium2`, fine), and `e-swedenborg.com/writings/static/d12851/<n>.htm` is *TCR* by section, readable
->   with `WebFetch`. The Drive folder `1DwYsxv8ZWc695x1Y997Ozka2yizs7k83` has AC, HH, AR, AE, *Last Judgment*,
->   *White Horse*, *Spiritual Diary*. Recipe for Drive PDFs: `download_file_content` → the result lands in a
->   tool-results JSON file → base64-decode `content` → `pypdfium2` in a fresh venv.
-> - `nag-hammadi-analysis/output/english/tractates/` has the Robinson English text of every tractate — `grep`
->   works on the English (not on the Coptic). It settled the *Apocalypse of Adam* kingdom details in one call.
+> - **Full texts that settle quotation questions in one pass** (all public, all `curl`-able; never fetch a `.pdf`
+>   URL — archive.org `_djvu.txt` files are plain text): Lovejoy *Great Chain* `in.ernet.dli.2015.139572`;
+>   Taylor's Proclus `thomastaylor` (*Theology of Plato* + *Elements*, 1816) and `proclusontimaeus01procuoft` /
+>   `02` (1820); Dodds's *Elements* `dodds-elements-of-theology-en-1963`; MacKenna's Plotinus
+>   `PlotinusEnneads.ElectronicTextEdition`; Gutenberg Darwin 1228, Plato *Sophist* 1735 / *Timaeus* 1572 /
+>   *Parmenides* 1687, Wallace's *Logic of Hegel* 55108; Baillie's *Phenomenology* preface on marxists.org;
+>   West's *Bundahishn* on avesta.org; Greek originals in the PerseusDL `canonical-greekLit` GitHub repo. The
+>   author's Drive holds Lovejoy's *Monist* essay and *Essays in the History of Ideas* (folder
+>   `0BzFGKrmu5CtkNGxweURWai12RGM`).
+> - **PubMed E-utilities** (`esummary` / `efetch`) returns authoritative author lists, volume, pages — it caught the
+>   Dean-not-Borjigin first author in one call. Use it for any biomedical citation.
+> - Swedenborg primaries: Drive folder `1DwYsxv8ZWc695x1Y997Ozka2yizs7k83` (AC, HH, AR, AE, *Spiritual Diary*…);
+>   Foundation PDFs via `curl` + `pypdfium2` for *TCR*, *Sacred Scripture*, *DLW*. Recipe for Drive PDFs:
+>   `download_file_content` → tool-results JSON → base64-decode → `pypdfium2` in a fresh venv.
 > - Two `EVOLVING_CONCEPTUAL_STRAINS.md` items remain open from 2026-08-20 — **#16** and **#26**. This job does not
 >   touch that file. Highest strain number is still **#26**.
-> - The NDE entity-role block is stale at the **schema** level, not the data level — see the 2026-09-22 question
->   before trying to recompute anything. Most other NDE figures in the corpus reproduce exactly.
+> - The NDE entity-role block is stale at the **schema** level, not the data level — read the 2026-09-22 question
+>   before trying to recompute anything.
 ---
 
 ## How to read the tables
@@ -103,9 +105,9 @@ A document counts as audited only after a **complete** read and source pass — 
 | Metric | Count |
 |---|---|
 | Documents in `data/` | 250 |
-| Audited | 6 |
+| Audited | 7 |
 | In flight | 0 |
-| Remaining | 244 |
+| Remaining | 243 |
 
 Refresh the total with `find data -name "*.md" | wc -l`.
 
@@ -125,6 +127,10 @@ Refresh the total with `find data -name "*.md" | wc -l`.
 | 2026-09-23 | `05_The_Self/The Protective Garment_ H.P. Blavatsky, Swedenborg's Ancient Word, and the Anatomy of a Counterfeit Correspondential Key.md` | Same as above — retired type codes in the source list, and the earlier sibling of *The Empty Room* | **All 30 Works Cited entries checked** (13 primary, 3 scholarly, 14 internal links — all resolve) + every inline quotation; shares the verification above. *Apocalypse of Adam* kingdom accounts (virgin womb / nourished in heaven / great prophet; thirteen then the kingless generation) confirmed against NHC V,5 in `nag-hammadi-analysis`. *Thirteen Kingdoms* and *Beast That Wears the Lamb* claims confirmed. | **3F.** (1) "Irenaeus ranks twelfth"→"tenth" — the document's own frequency table ranks him tenth, and *The Empty Room* already says tenth. (2) "the other fills it with himself"→"herself" (the referent is Blavatsky; *The Empty Room* has "herself"). (3) Works Cited reformatted as above, plus the three matching TOC entries/anchors. **Left alone, deliberately**: §10's "She read the *Apocalypse of Adam*" — an anachronism (NHC V found 1945, published 1963; she died 1891), but not a token fix; §4's "she did not have the dictionary" and §11's "including, in large part, Swedenborg himself", both corrected in *The Empty Room* §§4, 17 — an annotation question for the author, not for this job; drafting remnant "the reason the user judged this thesis worth writing" (§12.4); "eight major works" vs four listed; the setext-heading defect that puts a whole paragraph into the TOC; the same *AR* §11 and Henning findings as above. | 0 | shared with the row above | corrected |
 | 2026-09-24 | `05_The_Self/The Empty Room and the Self That Filled It_ H.P. Blavatsky, the Ancient Word, and the Inversion from Reception to Self-Deification.md` | Follow-up, not a new selection — the author clarified that correcting sources and claims in the document is the job, and that only audit notes are forbidden; the 2026-09-23 pass had left verified fixes as research questions | 0 new (applies the 2026-09-23 verification) | **F.** Body: "in his doctrine of the Sacred Scripture" → "in *Apocalypse Revealed* (§11, 1766)"; "reproduces this directive *verbatim*" → "reproduces this directive"; "quotes his own phrasing" → "quotes it as his own words"; "published the Tartary doctrine in 1771" → "in 1766 and again in 1771" (×2); Appendix C "(1771)" → "(1766–1771)"; "(Henning, 1943)" → "(Milik, 1976; Henning, 1943)"; Abstract and §19 "(Part I)" → "(Part II)" to match the TOC. Works Cited: *Apocalypse Revealed* §11 and Milik 1976 added; Le Coq now cites *Buried Treasures of Chinese Turkestan* (1928); *Studies in Occultism* completed (Point Loma, 1910); *Key to Theosophy* imprint corrected; *Sacred Scripture*, Henning and the three Blavatsky entries re-described so each quotation is credited to the work it is in. **Left alone**: "I have not got it" in quotation marks — rhetorical paraphrase in the author's voice, not a factual claim. | 0 — each correction grepped corpus-wide; none recurs | 3 of the 2026-09-23 questions resolved and moved to `resolved_research_questions.md` | corrected |
 | 2026-09-24 | `05_The_Self/The Protective Garment_ H.P. Blavatsky, Swedenborg's Ancient Word, and the Anatomy of a Counterfeit Correspondential Key.md` | Same follow-up | 0 new | **F.** The same *Apocalypse Revealed*, 1766, Milik and Works Cited corrections as above. §10: "She read the *Apocalypse of Adam*" corrected — it surfaced at Nag Hammadi in 1945, after her death in 1891 — keeping the argument by pointing to the gnostic deposit she did read (the position *The Empty Room* §15 establishes). §12.4 drafting remnant "the reason the user judged this thesis worth writing" → "the reason this thesis was worth writing". Missing blank line before a `---` restored, which had turned the end of §2.4 into a heading and a TOC entry; the stray TOC entry and a mismatched TOC anchor fixed. **Left alone**: §4 and §11 positions that *The Empty Room* revises (interpretive — annotation is the author's call); "eight major works" (the count's source run is not in the repository). | 0 | 1 open (narrowed) | corrected |
+| 2026-09-24 | `06_Mythological_Studies/The River, Not the Chain_ The Great Chain of Being as a Reception Artifact.md` | Folder never audited (coverage correction); retired type codes in its actual source list (24); primary-text-heavy (Plato, Plotinus, Aristotle, Darwin, Lovejoy) so every attribution is checkable | **All 20 Works Cited entries checked**, and the quotations behind them against full texts: Lovejoy *Great Chain* (DLI scan) and the 1911 *Monist* essay (Drive), Darwin *Origin* 1st ed., Plato *Sophist* (Greek, Perseus) / *Timaeus* / *Parmenides*, Plotinus (MacKenna), Proclus (Taylor 1816 & 1820, Dodds 1963), Hegel (Baillie preface, Wallace *Logic*), *Bundahishn* (West), Steiner GA 103, Dionysius (Parker), Schelling (*Weltalter*). 3 internal links resolve; *Archival Rupture* quotation present. | **F.** (1) *Sophist* 249a: the "terrible doctrine" (δεινὸν λόγον) line is Theaetetus's, not the Stranger's — "the Stranger says" → "Theaetetus replies". (2) Proclus "through diminution" is Prop. **CXXV** (the 1816 page header reads CXXVI while the text is still CXXV) — CXXVI → CXXV in §4.3, Appendix, Works Cited. (3) "immoveable according to essence, but moved according to energy" is Proclus's *Timaeus* commentary (in Taylor's Book VII compilation), not Prop. CLXXII — "hinge-proposition (CLXXII and its commentary)" → "hinge-sentence of his *Timaeus* commentary". (4) Proclus Works Cited: translator was Dodds, but every quoted phrase is **Thomas Taylor's** wording and none is in Dodds — now cites Taylor 1816 (*Elements* in the *Theology of Plato* volumes) and Taylor 1820 (*Timaeus*). (5) Hegel: "not only as Substance, but equally as Subject" is **A. V. Miller** (1977), not Baillie — Miller added. (6) Darwin "species in process of formation" → "species in the process of formation" (×2, verbatim). (7) Works Cited reformatted: type-code legend and `[P]`/`[S]`/`[T]` tags removed, headers → Primary Sources / Scholarly Works / Internal Library Documents, numbered; TOC updated; imprints completed where verified (Barnes 1984; Wallace 1892; Evans 1924–31; Parker 1897–99; Bolman 1942). **Left alone**: the four untraceable Lovejoy "quotations" (see Open); Hegel "moving principle of the concept" and "neither Being nor Nothing" locators; Aristotle *HA* wording; unnamed Plato/Zoroastrian/Böhme/Eriugena/Plotinus/Steiner editions. | 0 — each fix grepped corpus-wide; Dodds, CXXVI, the Theaetetus line and the Miller wording occur nowhere else | 2 (`[GDR]` HIGH — four phrases quoted as Lovejoy's are in neither Lovejoy text, also carried by `00_Master_Theses/The Downstream Refinery` l.151; `[GDR]` LOW — locators and unnamed translations) | partial — several primary entries still name no edition or translator, and two translations could not be identified; the rest of the list is in the standard |
+| 2026-09-25 | `06_Mythological_Studies/The River, Not the Chain_ The Great Chain of Being as a Reception Artifact.md` | Follow-up, not a new selection — the author reviewed the Lovejoy finding, checked it against the NotebookLM notebook holding Lovejoy's works (which conceded none of the four phrases is verbatim), and asked for the thesis to be corrected | Four more Lovejoy works searched in full text (*Revolt Against Dualism*; the 1909 *PSM* essay; "Kant and Evolution" 1910–11) plus the two already checked — none contains any of the four phrases | **F.** Every use of the four phrases replaced with Lovejoy's verified words (*GCB* pp. 50, 245, 329, 67) or, for the unit-idea objection, credited to his critics without quotation marks: Abstract, §1 (×2), §2.4, §3.2, §4.7 (×3), §7.6, §8, Appendix row 11. "A sort of Life stretched out" credited to Plotinus as Lovejoy quotes him (×3); "block-world" noted as James's term (§2.4); "on facing pages" removed (×3). The argument is unchanged; it now rests on real text. | 1 — `00_Master_Theses/The Downstream Refinery` §3.3 l.151, same replacement | HIGH `[GDR]` question resolved | partial (unchanged — the unnamed-edition entries remain) |
+| 2026-09-24 | `02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on Hypothesis-Testing with the Swedenborgian Framework.md` | Follow-up, not a new audit — handoff backlog: already-verified fixes deferred only under the old § 3.6 reading | 1 new (Sachdev et al. 2023 via PubMed 36444211) | **F.** AWARE, §§1.1 and 3.1.1: "2% … reported verified awareness during clinical death" → "2% … described awareness with explicit recall of actual events during their resuscitation, one of them objectively verified" (as Parnia et al. 2014 reports it). Placebo claim, §§1.1 and 5.4: "(Sachdev et al., 2023)" added; entry added to Works Cited (alphabetical; entries renumbered). **Left alone**: the Kelly / "memory palace" item from the handoff — the sentence is about the Klamath tradition, and whether *The Memory Code* covers Klamath is not established, so citing it could overreach. | 0 — neither wording recurs | 2 resolved (AWARE; placebo) → `resolved_research_questions.md` | corrected |
+| 2026-09-24 | `00_Master_Theses/The Seed and the Sun_ A Statistical and Phenomenological Investigation into the Architecture of Consciousness, the Paths of the Soul, and the Dissolution of the Hard Problem.md` | Same follow-up — the `[GDR]` question on eight inline attributions missing from the bibliography, and the placebo source | 6 new, each verified against PubMed or the publisher record | **F.** Works Cited: added Stevenson 1993 (*JSE* 7.4: 403–410), Matlock 2023 (*Explore* 19.2: 170–175 — 36 / 32 / 27 exactly as §6.3 says), Dean et al. 2019 (*Sci Rep* 9: 9333), Kerr et al. 2014 (*J Palliat Med* 17.3: 296–303), Moorjani 2012 (Hay House), Sachdev et al. 2023; later entries renumbered (Data Sources now 25–31, Internal 32–58). Body: "Borjigin et al. (2019)" → "Dean et al. (2019)" (Borjigin is senior author, Dean first); placebo parenthesis gains "; Sachdev et al., 2023". **Left alone**: Peters/SCRI ">60% remote" and "Stevenson and Cook … 326 cases across eight cultures" — no source found that states either figure. | 1 — `01_Consciousness_Studies/The Neurocentric Limit` l.83 ("Borjigin et al. (2019)" → "Dean et al. (2019)", not audited) | question narrowed to the 2 untraced figures | corrected |
 
 ---
 
@@ -147,6 +153,9 @@ Add an entry when a problem looks like it will recur. Update the existing entry 
 | A Swedenborg citation that names the right doctrine but the wrong work | A document attributes a well-known Swedenborg passage to the work where the *topic* is treated, not the one where the *words* are. Seen: the Ancient Word in Great Tartary + "seek for it in China" credited to *Doctrine of the Sacred Scripture* (1763), whose §§101–103 discuss the Ancient Word but never mention Tartary or China; the directive is *Apocalypse Revealed* §11 (1766), and *TCR* §279 has the Tartary sentence without the directive. | Read the cited section itself before accepting the attribution — topic overlap between Swedenborg's works is heavy, and the same doctrine recurs in two or three books with different wording. Primary texts: Drive folder `1DwYsxv8ZWc695x1Y997Ozka2yizs7k83` has AC, HH, AR, AE, *Last Judgment*, *White Horse* and the *Spiritual Diary*; it does **not** have *TCR*, *Sacred Scripture* or *DLW*. For those, the Swedenborg Foundation's own Standard Edition PDFs are on `swedenborg.com/wp-content/uploads/2013/03/swedenborg_foundation_<title>.pdf` and `curl` + `pypdfium2` reads them cleanly; `e-swedenborg.com/writings/static/d12851/<n>.htm` serves *TCR* (Chadwick) section by section and `WebFetch` works on it. Check the rest of the library for the same passage before editing — `02_Swedenborgian_Theology/The Resonant Cosmos` already cites it correctly as *AR* 11. Then correct it: fix the body citation and add or re-describe the Works Cited entry (a new bibliography entry is a normal correction, not a reason to defer). | `05_The_Self/The Empty Room…` and `05_The_Self/The Protective Garment…` §8 — logged 2026-09-23 under the old reading of § 3.6, corrected in both documents 2026-09-24. |
 | Sibling documents: an earlier version still standing beside its rewrite | Two `data/` documents share most of their text, one evidently a later rewrite of the other. The later one quietly corrects positions the earlier one still states — and the earlier one has no annotation saying so. | **Diff them before auditing either** (`diff <(sed … a) <(sed … b)` or a paragraph-level compare) — it halves the reading, shows which is later, and every point where they diverge is a candidate finding. A token error present in one and already fixed in the other (Irenaeus "twelfth" vs "tenth"; "himself" vs "herself") is safe to fix — the library itself establishes the correction. A *position* the later document corrected is not a token fix and not this job's to annotate: log it for the author (§ 3.6b), naming the sections on both sides. | *The Protective Garment* (earlier) / *The Empty Room* (later), `05_The_Self`, 2026-09-23. Worth checking whether other folders have similar pairs — `05_The_Self/The Architecture of Hidden Divinity` and `The Architecture of Autonomy` look like another (both Gemini-style, same subject), not yet compared. |
 | Verifying Theosophical / nineteenth-century quotations | A document quotes Blavatsky (or another public-domain author) at length without page numbers, and web searches return only paraphrases. | **Project Gutenberg has the full texts** — *Isis Unveiled* I–II (68705, 75871), *The Secret Doctrine* 3rd ed. vols 1–4 (54824, 54488, 56880, 61626 — vol 4 is the index), *The Key to Theosophy* (55618), *Studies in Occultism* no. 1 (17009). `curl https://www.gutenberg.org/cache/epub/<id>/pg<id>.txt`, collapse whitespace, strip `_`, and regex-search every quoted phrase across all of them at once; print ±200 characters of context so you see *which work* and *what the sentence is about*, not only that it exists. The 3rd-ed. *Secret Doctrine* paginates differently from 1888, so it confirms wording and work, not page. 25+ quotations checked this way in under a minute on 2026-09-23 — all verbatim, and it caught that several quotations the Works Cited credits to *Isis* are actually in the *Secret Doctrine*. | `05_The_Self` Blavatsky pair, 2026-09-23. |
+| A quotation attributed to a scholar that is really a paraphrase — or a critic's description — of the scholar | A document puts a sentence in quotation marks as the scholar's own admission ("Lovejoy concedes that his method 'does not acknowledge that extracting an idea … strips or distorts its essential nature'"), and the wording sounds like a secondary summary's characterization rather than the author's prose. Often mixed in with genuinely verbatim phrases from the same book, which makes the whole cluster look checked. | **Get the full text and search every quoted phrase, not a sample.** A scanned full text (archive.org DLI `_djvu.txt`, Gutenberg, the author's Drive) settles it in one pass; collapse whitespace and de-hyphenate line breaks before searching. Report both halves — which phrases are verbatim and which are absent — because the verbatim ones usually carry most of the argument anyway. If the absent phrases are load-bearing, **do not edit**: re-attributing them rewrites the argument. Log a research question with the verified alternatives. | `06_Mythological_Studies/The River, Not the Chain` (2026-09-24): 4 Lovejoy phrases absent, 9 verbatim; the absent ones recur in `00_Master_Theses/The Downstream Refinery`. |
+| Works Cited names one translator; the quotations are another's | The entry says "trans. E. R. Dodds" or "trans. J. B. Baillie", and the body quotes wording that is not in that translation. Typical of documents assembled from mixed sources: the bibliography names the modern standard edition, the quotations come from a public-domain one (Taylor's 1816 Proclus) or a different modern one (Miller's 1977 Hegel). | Check a distinctive phrase against each candidate translation's full text. Where the quotations are entirely another translator's, **replace** the named translator (Proclus: Dodds → Taylor); where they are mixed, **add** the second translator to the entry (Hegel: Baillie + Miller). Verify the imprint from the scan's title page. Also check proposition/section numbers against the text, not the running header: Taylor's 1816 *Elements* prints "PROP. CXXVI" as the page header while the text on that page is still Prop. CXXV. | *The River, Not the Chain*, 2026-09-24. |
+| First-author errors in "X et al." citations | A body cites "Borjigin et al. (2019)" — a famous lab head's name — for a paper whose first author is someone else (Dean), because the senior author is the name people remember. Copies across documents. | One PubMed `esummary` call gives the authoritative author order. Fix the token and grep the "X et al. (year)" form corpus-wide. | *The Seed and the Sun* §3.2 and *The Neurocentric Limit* l.83, 2026-09-24. |
 
 Candidates to watch for in early runs, from the corpus's history — confirm before treating any as established:
 
@@ -160,6 +169,47 @@ Candidates to watch for in early runs, from the corpus's history — confirm bef
 ## Run log
 
 Narrative per run — what the batch surfaced, and anything a later run should know that does not fit the tables. Newest first. Unlike the handoff block, this accumulates.
+
+### 2026-09-24 (night run) — *The River, Not the Chain*: most quotations verbatim, four "Lovejoy" phrases that are not Lovejoy's; the backlog cleared
+
+Precheck passed; batch claimed and pushed before reading. **Batch**: one new document, `06_Mythological_Studies/The
+River, Not the Chain` (437 lines, read in full), because `06_Mythological_Studies` had never been audited and the
+handoff asked for coverage toward zero-count folders; it also carried the retired type codes in its source list. Plus
+the two follow-ups the handoff called "worth a night of its own" — already-verified fixes to *The Epistemic
+Architecture* and *The Seed and the Sun* that earlier nights had deferred under the old reading of § 3.6.
+
+**The thesis's quotations are mostly exact, and that is worth saying first.** It rests on a "reading-test" of
+thirteen corpora by direct quotation. Checked against full texts: every Darwin phrase (bar a dropped "the"), all
+four Plotinus loci in MacKenna, the Plato Greek (ἀκίνητον ἑστὸς, συναμφότερα, "friends of the forms"), the
+*Bundahishn*'s "Appoint a period!", Steiner's GA 103 lines, Dionysius's "movements of God, the immovable",
+Schelling's "What is essential in science is movement", the Hegel preface in Baillie, the Proclus phrases in
+Taylor, and nine Lovejoy phrases including "crack the shell", "Self-Transcending Fecundity", "definitely fused",
+"absolutely rigid and static", "block-world … once for all", and the *Monist* essay's Schopenhauer passages.
+
+**The four that are not there are the ones the argument leans on hardest.** "Does not acknowledge that extracting
+an idea from its system strips or distorts its essential nature" (presented as Lovejoy's own admission),
+"artificial freezing", "inherently demanded", "temporarily paralyzed" — in neither Lovejoy text. They make the
+thesis's claim that Lovejoy himself diagnosed the static chain as artificial, and *The Downstream Refinery*
+repeats two of them. Not edited: re-attributing them rewrites the argument. The verified passages still carry much
+of it — ch. IX calls the Chain "a perfect example of an absolutely rigid and static scheme of things", and the
+Self-Transcending Fecundity passage is real — so the author has material to rebuild on. Logged `[GDR]` HIGH with
+the verified alternatives. Two smaller nuances go with it: "a sort of Life stretched out" is Lovejoy quoting
+Plotinus, and "block-world" is James's term, applied by Lovejoy to seventeenth-century rationalism.
+
+**What was corrected**: the *Sophist* speaker (Theaetetus, not the Stranger, says δεινὸν λόγον — checked in the
+Greek); Proclus's translator (every quoted phrase is Taylor's 1816/1820 wording, none is in Dodds), a proposition
+number read off Taylor's running header (CXXVI → CXXV), and the "immoveable according to essence" hinge credited to
+the *Timaeus* commentary rather than Prop. CLXXII; Miller added beside Baillie for the Hegel quotations in his
+wording; the Works Cited moved into the standard with imprints completed where the scan or catalogue confirmed
+them. Outcome `partial`, stated honestly: several primary entries still name no edition, and the Plato and *Yasna*
+translations could not be identified.
+
+**Backlog**: *The Epistemic Architecture*'s AWARE sentences now say what Parnia et al. 2014 measured, and the placebo
+claim cites Sachdev et al. 2023 in both documents. *The Seed and the Sun* gained six verified Works Cited entries
+for attributions its body already made. One of them caught a real error: "Borjigin et al. (2019)" is Dean et al.
+(Borjigin is senior author), fixed there and in *The Neurocentric Limit*. Two attributions stay open: no source was
+found for Peters's ">60% remote" or a Stevenson–Cook "326 cases across eight cultures". The Kelly/"memory palace"
+item was not acted on, because the clause is about the Klamath and it is not established that Kelly covers them.
 
 ### 2026-09-24 — The rule corrected: fix the sources, never annotate the report
 

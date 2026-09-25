@@ -80,7 +80,7 @@ With the structural explanation of anoxia faltering, the DBH shifts to neurochem
 
 Dr. Rick Strassman popularized the idea that the pineal gland releases N,N-Dimethyltryptamine (DMT) at death, facilitating the transition of consciousness.15
 
-* **Evidence Base:** Borjigin et al. (2019) detected DMT in the brains of dying rats, observing an increase in concentration following cardiac arrest.16  
+* **Evidence Base:** Dean et al. (2019) detected DMT in the brains of dying rats, observing an increase in concentration following cardiac arrest.16  
 * **Critique:** The extrapolation to humans remains speculative. Crucially, the *quantity* of DMT required to produce a full breakthrough experience is significant. It is unproven that the tiny human pineal gland can synthesize and release such a massive bolus in the seconds before death.  
 * **Phenomenological Divergence:** A 2018 study compared the phenomenology of DMT trips with NDEs. While both scored high on "mystical experience" scales (feelings of unity, transcendence), the content differed markedly. DMT experiences are often characterized by "alien" geometries, "machine elves," and a sense of chaotic intrusion. NDEs are characterized by "familiar" encounters (deceased relatives), structured life reviews, and a sense of "returning home" or "peace." The thematic consistency of the NDE contrasts with the idiosyncratic volatility of the psychedelic trip.18
 

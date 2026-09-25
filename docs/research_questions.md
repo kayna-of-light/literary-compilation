@@ -2474,34 +2474,6 @@ Decide whether *The Protective Garment* should carry `[EVOLVED]` annotations poi
 
 ---
 
-### [GDR] *The River, Not the Chain* — four phrases quoted as Lovejoy's are not in Lovejoy
-
-**Priority**: HIGH — the phrases carry the thesis's central claim that Lovejoy "confesses" the static chain is an artifact
-**Related Documents**:
-- `data/06_Mythological_Studies/The River, Not the Chain_ The Great Chain of Being as a Reception Artifact.md` — Abstract; §1; §2.4; §3.2; §4.7; §7.6 ("his own diagnoses of 'artificial freezing'"); §8; Appendix row 11
-- `data/00_Master_Theses/The Downstream Refinery_ Western Civilization as Three Operations on One Ancient Stream.md` line 151 — carries "artificial freezing" / "inherently demanded motion" as Lovejoy's words
-
-**Context**:
-Checked against the full text of *The Great Chain of Being* (1936; the Digital Library of India scan, archive.org `in.ernet.dli.2015.139572`) and the full text of "Schopenhauer as an Evolutionist" (*The Monist* 21 (1911): 195–222; the author's Drive copy).
-
-Verified verbatim in Lovejoy: "crack the shell which holds the mass together, if we are to see the real units, the effective working ideas"; systems "original or distinctive rather in their patterns than in their components"; "Self-Transcending Fecundity"; *omne bonum est diffusivum sui*; principles "definitely fused"; the Chain "a perfect example of an absolutely rigid and static scheme of things" (ch. IX); "a 'block-world' in the strictest sense … once for all"; and from the *Monist* essay, "did nothing original", "a blind urge towards activity, towards change, towards individuation, towards the multiplication of separate entities", "of a frankly and completely evolutionistic type". The *Monist* pagination (195–222) is right.
-
-**Not found in either text** (no occurrence of the words, or of "freez-", "frozen", "paraly-"):
-1. "does not acknowledge that extracting an idea from its system strips or distorts its essential nature" — presented as Lovejoy's own admission ("Lovejoy grants", "Lovejoy concedes", "by his own admission"). The wording reads as a critic's description of the unit-idea method, not a concession by Lovejoy; no published source for it was found (web search, Wikipedia's history-of-ideas articles, the author's Drive).
-2. "artificial freezing"
-3. "inherently demanded" (motion)
-4. "temporarily paralyzed" / "temporary paralysis"
-
-Two nuances in the phrases that *are* verbatim, relevant to how the argument uses them: "a sort of Life stretched out to an immense span" is Lovejoy **quoting Plotinus** (*Enn.* V.2), not Lovejoy's own description; and "block-world" is, in Lovejoy's sentence, "William James's term", applied to the rationalistic ontologies of the seventeenth century and eighteenth-century optimism rather than to the Neoplatonic chain. The "inexhaustible Source" in §4.7 is also in quotation marks but not a Lovejoy phrase (he speaks of "inexhaustible productive energy").
-
-**No edit was made.** The phrases are load-bearing across eight places in the thesis and one in a Master Thesis; removing or re-attributing them changes the argument, which is the author's to do. The reading-test notes the thesis mentions (§2.2) may hold where these phrases came from.
-
-**Research Question**:
-Where do the four phrases come from? If from another Lovejoy work (e.g. *Essays in the History of Ideas*, 1948 — in the author's Drive, not searched in full), cite it. If they are paraphrase from the reading-test step, they need to come out of quotation marks and stop being attributed to Lovejoy, and the "Lovejoy's own diagnosis" framing in the Abstract, §4.7, §7.6 and §8 needs to rest on the verified passages instead (ch. IX's "absolutely rigid and static" and the "Self-Transcending Fecundity" passage carry much of it).
-
-**Status**: Open
-
----
 
 ### [GDR] *The River, Not the Chain* — smaller locator and translation points left for the author
 

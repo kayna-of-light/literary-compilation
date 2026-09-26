@@ -139,17 +139,13 @@ Carmer was an expert on American esoteric sects; his books covered the **Koresha
 
 **Insight:** By hiring Carmer, Walt Disney was actively seeking deep, esoteric historical context. He wanted the "real stuff." Carmer would have been the primary source for the Swedenborgian details of Johnny Appleseed’s life. His presence ensures that the theological coding in the film was intentional. Walt didn't want a sanitized version of history; he wanted the *spiritual* history of America, and he hired the one man who knew where the bodies (and the tracts) were buried.
 
-### **5.2 Retta Scott and the Worcester Dynasty**
+### **5.2 Retta Scott**
 
 **Retta Scott** (1916–1990) was the first woman to receive screen credit as an animator at Disney, famous for the vicious hunting dogs in *Bambi*.20
 
-Genealogical research reveals a startling connection: Retta Scott married **Benjamin Fessenden Worcester**.15 The Worcester family was the **"Royal Family" of American Swedenborgianism**.
+She trained at the Chouinard Art Institute, where Don Graham taught, and in 1946 married Benjamin Worcester, a naval submarine officer.15
 
-* **Rev. Thomas Worcester:** First pastor of the Boston Society of the New Jerusalem.  
-* **John Worcester:** Prolific Swedenborgian theologian.  
-* **Benjamin Worcester:** Retta's husband, deeply embedded in this lineage.
-
-**Insight:** While Scott was hired before her marriage, her integration into the Worcester family placed her at the center of the studio’s Swedenborgian network. Her ability to animate "the inner beast" (the affection of the dogs) aligns with the Swedenborgian view that animals are correspondences of human affections/lusts. Walt’s promotion of Scott—against the skepticism of male animators—suggests he valued her unique "sight," a way of seeing the internal force of the animal that aligned with the studio's metaphysical goals.
+**Insight:** Her ability to animate "the inner beast" (the affection of the dogs) aligns with the Swedenborgian view that animals are correspondences of human affections/lusts. Walt’s promotion of Scott—against the skepticism of male animators—suggests he valued her unique "sight," a way of seeing the internal force of the animal that aligned with the studio's metaphysical goals.
 
 ### **5.3 Mary Blair and the Wayfarers Chapel**
 

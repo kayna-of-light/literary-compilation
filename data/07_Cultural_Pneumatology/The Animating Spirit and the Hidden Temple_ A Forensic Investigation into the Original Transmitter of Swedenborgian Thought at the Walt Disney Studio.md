@@ -36,7 +36,7 @@ Contrary to the assumption that Swedenborgianism was a distant New England pheno
 
 The Los Angeles society was historically linked to the "Garden of the Lord" movement, which sought to transform the American West into a spiritual paradise.8 If this linkage is verified for the relevant period, it supplies a plausible cultural background for Disney’s later use of environment-as-moral-mirror (e.g., the forest reacting to Snow White's terror). The strongest claim warranted here is that Swedenborgian texts and ideas could have been accessible within the city’s metaphysical and artistic networks.
 
-The influence of the **Rev. John Worcester**, a titan of American Swedenborgianism, extended to the West Coast.6 The Worcesters were proponents of the "Science of Correspondences" applied to natural science and art. This dynasty's reach into the Disney Studio became explicit with the marriage of **Retta Scott**, the animator responsible for the vicious dogs in *Bambi*, to **Benjamin Fessenden Worcester**.10 While this marriage occurred slightly later, it demonstrates the social proximity between the studio's elite and the New Church community.
+The influence of the **Rev. John Worcester**, a titan of American Swedenborgianism, extended to the West Coast.6 The Worcesters were proponents of the "Science of Correspondences" applied to natural science and art.
 
 ### **2.2 The Diffusion of "New Thought" and Theosophy**
 

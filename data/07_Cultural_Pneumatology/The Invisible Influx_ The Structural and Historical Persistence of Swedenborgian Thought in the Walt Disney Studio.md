@@ -119,13 +119,7 @@ Furthermore, the Disney Animation Research Library (ARL) maintains the "Don Grah
 
 The "core ethos" was further cemented by key personnel who had direct, familial, or religious ties to the Swedenborgian church. These were not low-level employees; they were the architects of the Disney style.
 
-### **6.1 Retta Scott**
-
-Retta Scott (1916–1990) is celebrated as Disney’s first credited female animator, famous for the terrifying hunting dogs in *Bambi*. Her animation was praised for its raw, visceral power—capturing the "inner beast" rather than just the dog.
-
-Scott trained at the Chouinard Art Institute, where Don Graham taught, and joined the studio's story department in 1938; in 1946 she married Benjamin Worcester, a naval submarine officer, and left the studio. Swedenborgianism teaches that animals are "correspondences" of human affections. A dog corresponds to "appetite" or "zeal" (and in a negative sense, distinct lusts). Scott’s ability to animate the *affection* of the dogs—their terrifying, driving will—shows that correspondential way of seeing at work in her animation.
-
-### **6.2 Mary Blair: The Confirmed Believer**
+### **6.1 Mary Blair: The Confirmed Believer**
 
 Mary Blair (née Robinson) is the stylist responsible for the "Disney Look" of the 1950s (*Cinderella, Alice in Wonderland, Peter Pan*). While previous research noted her confirmation into the Swedenborgian Church in 1973 1, the timeline suggests this was the culmination of a lifelong affinity.
 
@@ -133,13 +127,13 @@ Mary Blair (née Robinson) is the stylist responsible for the "Disney Look" of t
 * **The Palos Verdes Community:** Blair lived in the artist colony of Palos Verdes. This was the site of the **Wayfarers Chapel**, the "Glass Church" designed by Lloyd Wright (Frank Lloyd Wright's son) as a national memorial to Swedenborg.  
 * **Aesthetic Alignment:** Blair’s art rejects Renaissance perspective (which emphasizes the material separation of objects) in favor of flatness and color (which emphasizes emotional/spiritual state). Her conversion in 1973 at the Wayfarers Chapel was likely the formalization of the worldview she had been painting for Disney for thirty years.
 
-### **6.3 Walt Stanchfield: The Bridge to the Renaissance**
+### **6.2 Walt Stanchfield: The Bridge to the Renaissance**
 
 Following the retirement of the original "Nine Old Men," the continuity of the Swedenborgian substrate was maintained by **Walt Stanchfield** (1919–2000). Stanchfield, a veteran animator, took over the training program in the 1970s and 80s. His lecture notes, compiled in the volumes *Drawn to Life*, explicitly use metaphysical language to teach animation.
 
 Stanchfield wrote about the "Metaphysical Side" of drawing, urging students to "draw verbs, not nouns".9 This is a linguistic application of correspondence: a noun is a static object (Natural), a verb is an action/will (Spiritual). He taught the new generation—**Glen Keane, Brad Bird, John Lasseter**—that their job was to capture the "inner force" or "essence" of the character.6 Stanchfield acted as the bridge, ensuring that the "Action Analysis" philosophy (secularized Swedenborgianism) was transmitted to the artists who would create the Disney Renaissance (*The Little Mermaid, Beauty and the Beast, The Lion King*).
 
-### **6.4 Glen Keane: Sculpting the Soul**
+### **6.3 Glen Keane: Sculpting the Soul**
 
 Glen Keane, the star animator of the Renaissance (Ariel, Beast, Aladdin, Tarzan, Rapunzel), is the most direct inheritor of this lineage. Keane frequently cites Stanchfield as his mentor, stating that Stanchfield taught him to "draw the feeling" and that "the eyes are the window to the soul".12
 
@@ -204,7 +198,7 @@ The evidence leads to a definitive conclusion: Swedenborgian thought is not a pe
 
 1. **Intentionality:** The *Johnny Appleseed* correspondence proves the studio knowingly engaged with and encoded Swedenborgian theology.  
 2. **Pedagogy:** Don Graham’s "Action Analysis" and Walt Stanchfield's "Drawn to Life" lectures secularized the Doctrine of Influx ("Inner Force driving Outer Form"), turning a theological tenet into an industrial tool. This pedagogy was passed down to the leaders of the Disney Renaissance (Keane, Lasseter) and remains active in modern training programs.  
-3. **Lineage:** Key artists (Scott, Blair) had direct ties to the Swedenborgian church, ensuring the "visual language" of the studio aligned with its "pedagogical language."  
+3. **Lineage:** Key artists such as Mary Blair had direct ties to the Swedenborgian church, ensuring the "visual language" of the studio aligned with its "pedagogical language."  
 4. **Continuity:** The modern era continues this tradition through "Cultural Trusts" and narratives (*Frozen II*, *Encanto*, *Wish*) that explicitly dramatize the relationship between Spirit and Matter, often utilizing new technologies (AI) to better simulate "living" nature.
 
 Walt Disney did not build a church; he built a studio. But in doing so, he created a "Secular New Jerusalem"—a "Kingdom of Uses" where art was not for art's sake, but for the sake of evoking "Love and Faith" in the audience. He solved the Crisis of Ensoulment by adopting the physics of the spirit. In the Disney cosmos, as in Swedenborg’s, the natural world is nothing but the mirror of the human heart.
@@ -214,7 +208,6 @@ Walt Disney did not build a church; he built a studio. But in doing so, he creat
 | Carrier/Vector | Role/Artifact | Swedenborgian Connection | Impact on Studio Ethos |
 | :---- | :---- | :---- | :---- |
 | **Carl Carmer** | Folklore Consultant | Historian of "Burned-Over District"; expert on esoteric sects. | Ensured *Johnny Appleseed* retained New Church theology (Angelology, Charity). |
-| **Retta Scott** | Animator (*Bambi*) | Chouinard-trained; animated affections rather than anatomy. | Infused animation with "affective" power; animals drawn as correspondences of affections. |
 | **Mary Blair** | Art Supervisor | Confirmed Swedenborgian (1973); Palos Verdes resident. | Visualized "Influx" (blurring spirit/nature); defined the "Golden Age" look. |
 | **Don Graham** | Art Instructor | Pedagogy of "Forces vs. Forms" (Action Analysis). | Secularized "Influx" doctrine into technical training. |
 | **Walt Stanchfield** | Instructor/Mentor | *Drawn to Life* lectures; Mentor to Renaissance animators. | Bridge between Golden Age and Modern Era; taught "Inner Force" drawing. |

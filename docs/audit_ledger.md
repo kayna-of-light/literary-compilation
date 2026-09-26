@@ -11,60 +11,58 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 
 **Replaced wholesale at the end of every run.** This block describes the present, not the history — history goes in the run log below. A run that leaves this stale has failed its successor.
 
-> **Status**: 8 documents audited (7 `corrected`, 1 `partial`). 242 remain. Nothing in flight. GitHub write
-> access works; tonight's PR was opened normally against `dev`.
+> **Status**: 10 documents audited (9 `corrected`, 1 `partial`). 240 remain. Nothing in flight. GitHub write
+> access works; tonight's PR opened normally against `dev`.
 >
-> **The rule (unchanged since 2026-09-24)**: correct sources and claims *in* the document — wrong citation, wrong
-> work, wrong person, false fact in the fewest words, reposted source → the real publication. Never write *about the
-> audit* in the document. Interpretive positions, and anything whose fix would rewrite the argument, go to
-> `research_questions.md`.
+> **Tonight (2026-09-26 night run)**: the two short Magi siblings in `04` — *The Luminous Science* and *The Cycle of
+> Celestial Knowledge* — both `corrected`. Every raw entry traced (48 in all); Works Cited rebuilt; Swedenborg's own
+> gift passage located (*AC* §9293:3, §10252:5–6) and cited; "Ancient Church" → "Most Ancient Church" in *Cycle*.
+> No research questions — everything reachable was settled.
 >
-> **Tonight**: *The Mechanics of the Soul* (`07`), `corrected`. Its memo and 1937 transcript quotations are exact; its
-> *Arcana Coelestia* quotation is in no Swedenborg text and now quotes *Divine Providence* §103 — in it and nine
-> sibling `07` documents. Full detail in the audited-documents row and the run log.
+> **Take next — two good options, pick by coverage:**
+> 1. **The rest of the Magi family** (copy-paste siblings — pattern register): *Celestial Synthesis* and *Celestial
+>    Synthesis and the Forensic Gaze* (`04`), *The Science of Correspondences: … Magi* and *The Magian Cosmos* (`02`),
+>    *Persian Architecture of a New Faith*, *Celestial Scribe* (`04`). Two of them say Pisces was "widely known in
+>    Mesopotamian and Persian astrology as the 'House of the Hebrews'" — tonight's trace found the Pisces–Israel and
+>    Saturn–Jews associations in **medieval Jewish** astrology (Ibn Ezra, Abraham bar Hiyya, Abravanel; Jeremy Brown,
+>    *Tradition* 2020), not in any Mesopotamian or Persian source. Check that claim first; it is probably a reach.
+> 2. **The `07_Cultural_Pneumatology` Disney family** — still owed its Works Cited rebuilds (*Glass Church*, *Crisis of
+>    Ensoulment*, *A Cultural History*, *Invisible Influx*, *Carriers*, *Mirror and the Void*, *Crown and the Comedy*,
+>    *Hidden Temple*, *Pneumatic Cinema*, *Architect*, *Apple and the Angel*, *Diffracted Light*, *Parsimony
+>    Problem*). Everything verified for it is in the *Mechanics* rows and the pattern register.
 >
-> **Take next — the `07_Cultural_Pneumatology` Disney family, one or two documents per night.** Tonight corrected
-> facts across these documents (Swedenborg quotation → *DP* §103, Blair 1973, Scott/Worcester, reposts → originals)
-> but did **not** rebuild their Works Cited or trace their entries. Each still needs the full § 3 treatment:
-> *Glass Church*, *Crisis of Ensoulment*, *A Cultural History* (its superscripts do not map onto its list),
-> *Invisible Influx*, *Carriers* (list is one long line), *Mirror and the Void*, *Crown and the Comedy*,
-> *Hidden Temple*, *Pneumatic Cinema*, *Architect*, *Apple and the Angel*, *Diffracted Light*, *Parsimony Problem*.
-> Everything already verified for this family (memo, Graham transcripts, Stanchfield, Davis, Babbitt, Wright,
-> Scott, Blair, known blog authors) is in the pattern register and in the *Mechanics* row — reuse it.
+> Coverage so far: `00_Master_Theses` ×1, `01` ×1, `02` ×1, `04` ×2, `05` ×2, `06` ×1, `07` ×1, `08` ×1.
+> **Still at zero: `00_Framework`, `03_Biblical_Scholarship`.** `03` (33 documents) is now the largest untouched folder.
 >
-> Coverage so far: `00_Master_Theses` ×1, `01_Consciousness_Studies` ×1, `02_Swedenborgian_Theology` ×1,
-> `05_The_Self` ×2, `06_Mythological_Studies` ×1, `07_Cultural_Pneumatology` ×1, `08_Correspondential_Texts` ×1.
-> **Still at zero: `00_Framework`, `03_Biblical_Scholarship`, `04_Early_Christian_History`.** Correct toward those —
-> `03` and `04` are the largest folders never touched.
+> **For the author (not this job's edit)**: both Magi documents keep the headings "Daniel, the Rab-mag" / "Daniel as
+> the New Rab-mag". The title is wrong (Daniel is *rab-signīn*, Dan 2:48), but strain #6's inline annotations quote
+> those headings as what they correct — renaming them would orphan the annotations. Same pattern in the ten other
+> documents that carry "Rab-mag".
 >
-> **Standing defect classes, re-counted 2026-09-25**: Reddit/Scribd/Quora in **102** documents (tonight's document
-> keeps one Scribd entry, deliberately — see its row); `drive.google.com` in **24**. Type codes not re-counted.
+> **Standing defect classes**: Reddit/Scribd/Quora in ~102 documents; `drive.google.com` in ~24; **new tonight**:
+> `scienceofcorrespondences.com` (anonymous site) cited in **17** documents — see pattern register.
 >
-> **Propagation debt**: none for tonight's corrections — each was grepped corpus-wide from several angles and applied
-> everywhere. Not debt but related: the dead Drive report ("The Animating Spirit: A Genealogical and Pneumatological
-> Exegesis") is cited by four `07` documents; resolve it once, when the research question is answered.
+> **Propagation debt**: none from tonight. Carried over: the dead Drive report ("The Animating Spirit: A
+> Genealogical and Pneumatological Exegesis") cited by four `07` documents.
 >
-> **Awaiting external answers** (open): tonight's four `[GDR]` (untraced *Mechanics* attributions; Worcester
-> genealogy; the vanished Drive report; findings for the author); *The Seed and the Sun* Peters ">60% remote" and
-> "Stevenson and Cook 326 cases"; the NDE entity-role schema questions (three); the 2.6× Jesus ratio; Dole edition
-> dates; Gardner "2nd ed. 2020"; the *Protective Garment* annotation question; *The River* locator/translation
-> question (LOW).
+> **Awaiting external answers** (open, unchanged): *The Seed and the Sun* Peters ">60% remote" and "Stevenson and
+> Cook 326 cases"; the NDE entity-role schema questions (three); the 2.6× Jesus ratio; Dole edition dates (Swedenborg
+> translations — not Anita Dole); Gardner "2nd ed. 2020"; the *Protective Garment* annotation question; *The River*
+> locator/translation question (LOW); the Worcester lineage in 7 `07` documents (HIGH, author's go-ahead).
 >
 > **Still not done from the old backlog**: Kelly's *The Memory Code* for the "memory palace" clause in *The Epistemic
-> Architecture* § 3.3 — whether Kelly covers the Klamath is unestablished. Check the book (or drop the item).
+> Architecture* § 3.3.
 >
 > **Worth knowing**:
-> - **Full texts that settle quotation questions in one pass** (all public; never `WebFetch` a `.pdf` — `curl` it to
->   the scratchpad and read with `pypdfium2`): Lovejoy *Great Chain* `in.ernet.dli.2015.139572`; Taylor's Proclus
->   `thomastaylor`, `proclusontimaeus01procuoft`/`02`; Dodds `dodds-elements-of-theology-en-1963`; MacKenna
->   `PlotinusEnneads.ElectronicTextEdition`; Gutenberg Darwin 1228, Plato *Sophist* 1735 / *Timaeus* 1572 /
->   *Parmenides* 1687 / *Phaedrus* 1636, Kandinsky (Sadler) 5321, Wallace's *Logic of Hegel* 55108; West's
->   *Bundahishn* on avesta.org; Greek in PerseusDL `canonical-greekLit`. **Swedenborg**: all 12 *AC* volumes plus
->   *DP*, *DLW*, *HH* as Foundation PDFs (URL pattern in the pattern register). **Disney**: see the `07` family row
->   in the pattern register.
-> - **Crossref** (`api.crossref.org/works/<doi>`) resolves a bare publisher DOI link to author, book and pages in
->   one call; **PubMed E-utilities** does the same for biomedical citations.
-> - The Drive MCP returns "not found" for Drive IDs that no longer exist — that settles a dead personal link quickly.
+> - **Encyclopaedia Iranica, Wisdomlib, ResearchGate, Brill and Britannica block `curl` and `WebFetch` (403 /
+>   captcha).** `curl -sSL "https://r.jina.ai/<url>"` returns Iranica and Britannica article text (not the author
+>   line — get that from a search result or a citing work). Wisdomlib and ResearchGate stay walled.
+> - **Crossref `query.bibliographic=`** identifies an anonymous publisher PDF in one call (the austriaca.at PDF → Nabel
+>   2020, *Societies at War*).
+> - **Full texts that settle quotation questions in one pass**: Perseus Herodotus (Godley) `Perseus:text:1999.01.0126`;
+>   LacusCurtius Strabo (Jones) `penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/15C*.html`; plus the list from
+>   earlier runs — Lovejoy, Taylor's Proclus, Dodds, MacKenna, Gutenberg texts, all 12 *AC* volumes and *DP*/*DLW*/*HH*
+>   as Foundation PDFs (pattern register). *AC* vol. 11 = §§9112–9973.
 > - Two `EVOLVING_CONCEPTUAL_STRAINS.md` items remain open from 2026-08-20 — **#16** and **#26**. This job does not
 >   touch that file. Highest strain number is still **#26**.
 > - The NDE entity-role block is stale at the **schema** level — read the 2026-09-22 question before recomputing.
@@ -98,9 +96,9 @@ A document counts as audited only after a **complete** read and source pass — 
 | Metric | Count |
 |---|---|
 | Documents in `data/` | 250 |
-| Audited | 8 |
-| In flight | 2 |
-| Remaining | 242 |
+| Audited | 10 |
+| In flight | 0 |
+| Remaining | 240 |
 
 Refresh the total with `find data -name "*.md" | wc -l`.
 
@@ -129,8 +127,8 @@ Refresh the total with `find data -name "*.md" | wc -l`.
 | 2026-09-26 | `07_Cultural_Pneumatology/The Mechanics of the Soul_ Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio.md` | Follow-up — the author found the source trace shallow: blogs and wikis had been kept or re-formatted without asking who wrote them or what they were quoting | Every blog/wiki/aggregator entry traced to its author and its source. **50mostinfluentialdisneyanimators** = Grayson Ponti, a high-school student (2011), compiling from *Illusion of Life*, Barrier and interviews — not citable. **Animated Spirit** = James W. Chiang (animator/teacher); the "probably the best teacher I ever had" line is in no Davis source — it conflates Shamus Culhane's "probably the greatest art teacher of our time" (ASIFA-Hollywood Hall of Fame) with Davis, whose verified words on Graham are "a true scholar of the art of drawing…" and "he taught a sense of graphics…". **Cartoon Brew** (Amid Amidi) points at the primary: the transcript of Wright's 25 Feb 1939 talk (Dick Huemer papers), published by Disney historian Didier Ghez; Jim Korkis (*Cartoon Research*) gives date, room and attendees. **KI Creative Studio** = illustrator Ki Innis; "paper doll" is his phrase, the 1937 transcript says "generally lifeless". **Wikipedia** ×2 → their cited sources: Ghez, *They Drew as They Pleased* (2016) for the Scott–Worcester marriage; Girveau (ed.), *Once Upon a Time: Walt Disney* (Prestel, 2006) for Babbitt's "I learned a hell of a lot from him!" (read via Wikipedia's citation; the catalogue itself not seen). Tytla + "Group Theatre": in none of Canemaker, Crafton, Barrier-via-Crafton, or Wikipedia's sources. The memo's published reproduction found via Fonseca: Culhane, *Talking Animals* (Da Capo 1998), 117–127. The "Theosophy at Chouinard" claim rested on *Carriers*, which cites only "research snippets"; the external evidence is Karlstrom (UC Press 1996: Schwankovsky, Dudley Murphy) and Crosse (Krotona, Pauline Schindler; Chouinard employed Schindler). "Line of Action" definition: absent from the 21 Jun **and** 28 Jun 1937 transcripts (28 Jun OCR'd, 20 pp.). | **F.** Davis quotation replaced with his verified words (ASIFA-Hollywood Animation Archive); Babbitt quotation replaced with the published one (Girveau 2006); "paper doll" → Graham's "generally lifeless" (21 Jun transcript); Tytla sentence narrowed to what is sourced (studied Boleslavsky — Crafton); Wright visit now cites the transcript (Ghez 2006) + Korkis; Theosophy sentence cites Karlstrom + Crosse; Scott marriage cites Ghez 2016; memo entry adds the Culhane reproduction. Works Cited rebuilt (41 entries): **removed** 50most blog, Animated Spirit, KI blog, Cartoon Brew, Wikipedia ×2 (each replaced by the source behind it), Hooks (its only claim, "Group Theatre", is unsupported — the sentence was narrowed to Crafton) and *The Messenger* Jan 2011 (the issue contains nothing on Disney, Blair or the studio; it supported no statement). **Still standing**: the Scribd upload (sole witness to the "Line of Action" quotation) and the dead Drive report. | 0 — none of the corrected wordings recurs; other posts of the Ponti blog are cited in *Crisis of Ensoulment* and *Carriers* for different claims (pattern register) | 2026-09-25 question narrowed to 3 items (Line of Action, "mainspring", Scott-as-student) | corrected |
 | 2026-09-26 | `07_Cultural_Pneumatology/The Mechanics of the Soul_ Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio.md` | Follow-up — the author asked for the open questions to be resolved, not handed on | All 351 scanned pages under A. Film L.A.'s AAC label OCR'd (every Graham Action Analysis class posted: 16 Jan, 23 Jan, 30 Jan, 20 Feb, 3 May 1936; 22 Feb, 21 Jun, 28 Jun, 19 Jul, 26 Jul 1937; drapery outline; Anderson layout class). WikiTree API; Worcester family genealogy (generations 7–12 + unlinked); Drive search by title and full text. | **F.** (1) "Line of Action is a visual explanation…" — in none of Graham's transcripts; the document's "June 1937 class" attribution is false → replaced by Graham's own 21 Jun 1937 words ("a symbol for the force or thrust … not drawing a form at all, but indicating a force"; "just a few force lines"); Scribd entry removed (sole witness, anonymous, no original). (2) "mainspring" is not in the 22 Feb 1937 lecture → Graham's words "all primary actions are the result of thought processes"—"the core of the whole business"; entry now cites the scans. (3) Scott "a student of Graham" → "trained at Chouinard, where Graham taught". (4) Worcester lineage removed from *Mechanics* — no source anywhere; the family genealogy of Thomas Worcester's line does not contain Scott's husband; *Appletons'* entry dropped with it. (5) Dead Drive report removed from *Mechanics* (uncited in the body; the file is gone from Drive; no library document has its title). (6) *Cultural History*: *Divine Providence* added to its Works Cited and its two footnotes on the quotation pointed there. **Also established**: *Cultural History* concludes "deliberate from the beginning" (§9.2, §X) — the sibling pair agrees; the earlier "diverging positions" finding was a misreading that stopped at its §4.4. | *Cultural History* (footnotes + entry) | All 2026-09-25 questions closed except one, raised to HIGH: the Worcester lineage in 7 other documents (needs section rewrites; author's go-ahead) | corrected |
 | 2026-09-26 | `07_Cultural_Pneumatology/` (10 documents) + `00_Master_Theses/The River and the Vessel` | Author decision: Retta Scott cut from the corpus. No documented Swedenborgian connection survives tracing (the Worcester-lineage link was already removed as false), so every section, bullet, table row and clause on her was deleted; Scott-only Works Cited entries dropped and lists/markers renumbered; subsection numbering closed up. | `claude/nightly-audit-2026-09-25` |
-| 2026-09-26 | `04_Early_Christian_History/The Luminous Science_ A Re-examination of the Magi.md` | `04` never audited (coverage correction — largest untouched folder); raw Gemini URL list, no Works Cited; sibling of the next row (shared paragraphs), so one pass traces both | — | — | — | — | in-progress |
-| 2026-09-26 | `04_Early_Christian_History/The Cycle of Celestial Knowledge_ A Re-examination of the Magi.md` | Same — the sibling of the row above | — | — | — | — | in-progress |
+| 2026-09-26 | `04_Early_Christian_History/The Luminous Science_ A Re-examination of the Magi.md` | `04` never audited (coverage correction — largest untouched folder); raw Gemini URL list under a Dutch `Geciteerd werk` heading, no Works Cited; sibling of the next row (shared paragraphs), so one pass traces both | **All 26 raw entries traced.** Kept, with author and standing established: *Encyclopaedia Iranica* ×4 (Boyce, "Arsacids iv" II/5 540–541 — read: Vologases credited in *Dēnkard* IV with preserving the Avesta, supports §I; "Arsacids v", "Kingship iii", "Magophonia" — authors not verifiable from the session, cited unsigned); the austriaca.at PDF = Jake Nabel, "The Arsacids of Rome and Parthia's 'Iranian Revival'", *Societies at War* (Austrian Academy of Sciences Press 2020) 475–494 (Crossref); Brill 17839 = Boyce & Grenet with Beck, *History of Zoroastrianism* III (Brill 1991, Crossref); Cambridge = Copenhaver, *Magic in Western Culture* ch. 2 (CUP 2015); Etymonline (Douglas Harper); Reeves (UNC Charlotte course page, named scholar); PBS FRONTLINE 1998 (interviews with Shaye Cohen, L. Michael White — the War Scroll's "Sons of Light" confirmed); OUPblog 17 Jan 2021 = Timothy H. Lim; Astronomy = Eric Betz, 24 Dec 2023 (7 BC triple conjunction in Pisces confirmed, also against van der Kruit's Groningen lecture notes); BAS Staff (institution page); Britannica "Zoroastrianism". **Replaced by what they rest on**: Wikipedia ×4 (Magi, Parthian Empire, DSS, Essenes) → Iranica/Nabel/Reeves/Lim/PBS; Quora (Zoroastrianism under the Seleucids) → Boyce & Grenet III; McGill undergraduate essay (anonymous in the scan) → de Jong, *Traditions of the Magi* (Brill 1997), the work it rests on; STR (Amy K. Hall) and CfaN (evangelist Daniel Kolenda) → Daniel 2:48/4:9 (BHS); Swedenborg & Life recap (Curtis Childs, Jonathan Rose) → *AC* §§9293, 10252. **Removed, supporting nothing**: ResearchGate 380664710 (self-upload, no identifiable author), Iranica index page (the articles are cited), wisdomlib "Story of Magi" (captcha-walled; which cyclopedia it reposts could not be identified — its Daniel content is carried by the Daniel entry). Swedenborg gift passage read in full: *AC* §9293:3 (gold = good of love, frankincense = good of faith, myrrh = both in externals) and §10252:5–6 (the wise men "in the science of correspondences"; the science "turned into magic") — the document's celestial/spiritual/natural reading is Swedenborg's. East = love, *HH* §150. Jupiter/Saturn/Pisces: the Saturn–Jews and Pisces–Israel associations are real medieval Jewish astrology (Ibn Ezra, Abraham bar Hiyya, Abravanel — Jeremy Brown, *Tradition*, 2020). | **F.** Body: gifts sentence cites *Arcana Coelestia* §9293 (cf. §10252); east-as-love cites *Heaven and Hell* §150. Works Cited rebuilt as `## Works Cited`, 21 entries (Primary 4 / Scholarly 8 / Web 9). **Left for the author, not this job's edit**: the heading "Daniel, the Rab-mag" is wrong (Daniel is *rab-signīn*, Dan 2:48), but strain #6's annotations quote that heading as the thing they correct — renaming it would orphan the annotation. | 0 — every replaced entry grepped corpus-wide; none of the reposts recurs (the classicalastrologer hits elsewhere are different files; the austriaca PDF in *The Science of Correspondences* (02) is Nabel's publisher copy, not a repost) | 0 | corrected |
+| 2026-09-26 | `04_Early_Christian_History/The Cycle of Celestial Knowledge_ A Re-examination of the Magi.md` | Same — the sibling of the row above | **All 22 raw entries traced.** Kept: Livius "Magians" (Jona Lendering); Britannica "Magus", "Zoroastrianism"; Swedenborg Foundation *Consummation of the Age* (1771) PDF (Standard Edition, 2009 — primary). **Replaced by the original**: classicalastrologer PDF = Dhalla, *History of Zoroastrianism* (Oxford UP, New York 1938 — title page in the scan); New Church Vineyard PDF = Anita S. Dole, *Bible Study Notes* vol. 4 (Swedenborg Foundation, © 2001) — the source of the document's frankincense/myrrh-as-faith/obedience wording; BibleStudyTools = Smith's *Dictionary of the Bible*, s.v. "Magi"; swedenborgstudy.com = J. E. Bowers, *Missionary Talks on Subjects of New Church Doctrine* (London: James Speirs 1889 — title page); Wikisource = Warren, *Compendium* (3rd rev. ed., New Church Board of Publication 1904 — title page); Wikipedia ×3, Swedenborg Foundation correspondences page, Encyclopedia.com (Gale, *Encyclopedia of Occultism and Parapsychology*) → Swedenborg *HH* §§87–125 and the classical primaries; STR, CfaN, One for Israel (ministry, unsigned), Summit Christian (Isaac McPhee, church blog) → Daniel 2:48, 4:9, 5:11 and *HH*; Swedenborg & Life recap → *AC* §§9293, 10252. **Removed, supporting nothing**: scienceofcorrespondences.com FAQ (anonymous site), Grandpierre "Royal Magi / Magyars" (dead 404; fringe; nothing in the body), wisdomlib (as above), and UTI "Metal Active Gas (MAG) Welding" (a welding-school blog — a search artefact on "Rab-mag"). Primary claims verified: Herodotus 1.140 (Godley, Perseus: the Magi "kill with their own hands every creature, except dogs and men … ants and snakes"; bodies "mangled by birds or dogs"); Strabo 15.3.15 (Jones, LacusCurtius: Magi "also called Pyraethi" — fire-kindlers — keeping the fire ever burning). | **F.** (1) "This 'Ancient Church,' as … Swedenborg termed it" → "Most Ancient Church" — the age of direct perception without doctrine is Swedenborg's Most Ancient Church, as the library holds throughout (54 documents). (2) Citations added where the body states a sourced fact with none: *AC* §10252 (science of correspondences "turned into magic"; "sons of the East"), *AC* §9293 (the gifts), Strabo 15.3.15, Herodotus 1.140. (3) Works Cited rebuilt, 15 entries (Primary 7 / Scholarly 5 / Web 3). **Left for the author**: section heading "Daniel as the New Rab-mag" — same strain #6 reason as above. | 0 | 0 | corrected |
 
 ---
 
@@ -166,6 +164,8 @@ Add an entry when a problem looks like it will recur. Update the existing entry 
 | Blogs, wikis and fan sites cited as if they were sources | A Works Cited entry is a blog post, a Wikipedia article, a fan countdown, a news aggregator — and the audit reformats it into a tidy Web Source and moves on. | **Reformatting is not tracing.** For every such entry ask, and answer in the ledger: *who wrote it, with what standing, and what is it quoting?* Then cite what it quotes. Blogs usually name or link their source (Cartoon Brew → Ghez's transcript post; a Wikipedia sentence → its footnoted book); a quotation with no traceable origin is checked against every published statement by the same person — the Davis "best teacher" line turned out to be a conflation of two people. Keep a web entry only when the page itself is the authority (an institution's archive, a named historian's research post) and say who the author is. Known in `07`: *50mostinfluentialdisneyanimators* = Grayson Ponti, high-school student, 2011 (still cited by *Crisis of Ensoulment* and *Carriers*); *Animated Spirit* = James W. Chiang; *disneybooks.blogspot.com* = Didier Ghez (primary transcripts); *ahaachof.blogspot.com* / AnimationResources = ASIFA-Hollywood Animation Archive; *A. Film L.A.* = Hans Perk (primary scans). | *The Mechanics of the Soul*, 2026-09-25 (entries kept without tracing) → 2026-09-26 (all traced). |
 
 | Calling a derived conclusion a "stance" | The ledger, PR or reply files the corpus's correspondential reading under "interpretive positions … left alone", as if it were one optional reading among many laid over neutral facts. The procedure's category only means *not the audit's to edit*; the wording quietly implies *not established*, and so reinstates the default Section 0 forbids. | Where the reading follows from documented evidence (a verified Swedenborgian link, a primary text), say so: it is a conclusion the evidence supports, and the audit leaves it alone because it is sound, not because it is merely a view. Reserve "open" for what the evidence genuinely leaves open (e.g. an unverified genealogy that a reading depends on), and name that dependency instead of the reading. | Author correction on the *Mechanics* PR, 2026-09-26. |
+| The Magi documents are one copy-paste family | Gemini reports on the Magi (*Luminous Science*, *Cycle of Celestial Knowledge*, *Celestial Synthesis*, *Celestial Synthesis and the Forensic Gaze*, *Celestial Scribe*, *Persian Architecture* in `04`; *The Science of Correspondences … Magi*, *The Magian Cosmos* in `02`) share paragraphs, the Jupiter/Saturn/Pisces list, the gifts triad and the Daniel/*Rab-mag* material. Raw lists sit under a Dutch `Geciteerd werk` heading. | Diff before reading. Already settled: the gifts = *AC* §9293:3 (gold good of love, frankincense good of faith, myrrh both in externals) and §10252:5–6 (wise men "in the science of correspondences"; the science "turned into magic"; "sons of the East"); east = love *HH* §150; 7 BC triple conjunction in Pisces (Betz, *Astronomy* 2023; van der Kruit, Groningen); Saturn–Jews / Pisces–Israel = medieval Jewish astrology (Jeremy Brown, *Tradition* 2020), **not** attested as Mesopotamian/Persian; Herodotus 1.140 and Strabo 15.3.15 verified; austriaca PDF = Nabel 2020; Brill 17839 = Boyce & Grenet III (1991); classicalastrologer "history-of-zoroastrianism.pdf" = Dhalla 1938; newchurchvineyard `dbsn-*` = Anita Dole, *Bible Study Notes*; BibleStudyTools Magi = Smith's *Dictionary*; the UTI "MAG welding" entry is a search artefact — remove on sight. *Rab-mag* headings are strain #6's to fix, not the audit's. | *Luminous Science*, *Cycle*, 2026-09-26 night run. |
+| Anonymous Swedenborgian sites cited as sources | `scienceofcorrespondences.com` (no author anywhere on the site) in 17 documents across `01`, `02`, `04`, `05`, `06`, `07`. | Not citable. It restates Swedenborg; cite the Swedenborg section the claim actually rests on (the Foundation PDFs make that a one-pass search). Not a mechanical swap — each document's claim differs, so handle it in each document's own audit. | Found 2026-09-26 (*Cycle*); 17 documents by grep. |
 
 Candidates to watch for in early runs, from the corpus's history — confirm before treating any as established:
 
@@ -179,6 +179,14 @@ Candidates to watch for in early runs, from the corpus's history — confirm bef
 ## Run log
 
 Narrative per run — what the batch surfaced, and anything a later run should know that does not fit the tables. Newest first. Unlike the handoff block, this accumulates.
+
+### 2026-09-26 (night run) — The two short Magi siblings: every entry traced, Swedenborg's own gift passage found
+
+Chose *The Luminous Science* and *The Cycle of Celestial Knowledge* (`04`) to correct toward a folder at zero, and because they are siblings: one trace served both. Precheck passed; no open PRs; the only unmerged nightly branch (`2026-09-21`) holds no claims.
+
+The inline claims held up well. The document's gift reading — gold/frankincense/myrrh as celestial/spiritual/natural good — is Swedenborg's own (*AC* §9293:3), and §10252:6 even supplies the Magi-specific frame both documents build on: the wise men were "in the science of correspondences", which "was turned into magic" when the good of life ceased. Both now cite it. The Herodotus and Strabo customs are verbatim-accurate. The one factual correction was the name of Swedenborg's first church in *Cycle*.
+
+The bibliographies were the work: 48 raw entries, of which Wikipedia, Quora, ministry blogs, a church blog, an anonymous correspondences site, an undergraduate essay, a dead Hungarian fringe PDF and a welding-school blog were replaced by what they rest on or removed. The welding entry ("Metal Active Gas (MAG) Welding") is a Gemini search artefact on "Rab-mag" (no other instance in the library). Iranica and Britannica are readable through `r.jina.ai` (see handoff). No research questions were needed.
 
 ### 2026-09-25 — *The Mechanics of the Soul*: the memo and the 1937 transcripts are exact; the Swedenborg quotation is not Swedenborg's
 

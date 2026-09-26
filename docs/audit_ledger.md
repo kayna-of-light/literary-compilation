@@ -23,13 +23,14 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > *Arcana Coelestia* quotation is in no Swedenborg text and now quotes *Divine Providence* §103 — in it and nine
 > sibling `07` documents. Full detail in the audited-documents row and the run log.
 >
-> **Take next — your call (§ 2), but here is what the evidence says:**
->
-> | Candidate | Why |
-> |---|---|
-> | `07_Cultural_Pneumatology/The Animating Spirit_ A Cultural History…` | The later sibling of tonight's document (its §§2–4 are *Mechanics* nearly verbatim), and it already carries tonight's propagated fixes, so the Graham/memo half is fast. Two findings are waiting for it (research question "For the author", 2026-09-25): its notes ¹ and ⁷ still resolve to *AC*; the sibling-position question. Long (~760 lines). |
-> | `06_Mythological_Studies/Descent Remembered as Ascent` | Genealogical companion to *The River, Not the Chain*; leans on Lovejoy and the same reading-test corpora (full texts in the pattern register). Has type codes. |
-> | `03_Biblical_Scholarship/What the Apparatus Cannot See` | 52 type-code prefixes, the most left. Folder never audited. Probably a one-document night. |
+> **Take next — the `07_Cultural_Pneumatology` Disney family, one or two documents per night.** Tonight corrected
+> facts across these documents (Swedenborg quotation → *DP* §103, Blair 1973, Scott/Worcester, reposts → originals)
+> but did **not** rebuild their Works Cited or trace their entries. Each still needs the full § 3 treatment:
+> *Glass Church*, *Crisis of Ensoulment*, *A Cultural History* (its superscripts do not map onto its list),
+> *Invisible Influx*, *Carriers* (list is one long line), *Mirror and the Void*, *Crown and the Comedy*,
+> *Hidden Temple*, *Pneumatic Cinema*, *Architect*, *Apple and the Angel*, *Diffracted Light*, *Parsimony Problem*.
+> Everything already verified for this family (memo, Graham transcripts, Stanchfield, Davis, Babbitt, Wright,
+> Scott, Blair, known blog authors) is in the pattern register and in the *Mechanics* row — reuse it.
 >
 > Coverage so far: `00_Master_Theses` ×1, `01_Consciousness_Studies` ×1, `02_Swedenborgian_Theology` ×1,
 > `05_The_Self` ×2, `06_Mythological_Studies` ×1, `07_Cultural_Pneumatology` ×1, `08_Correspondential_Texts` ×1.

@@ -23,7 +23,6 @@
 | Adelquist-Murdoch Correspondence (1948) | Walt Disney Archives | Referenced in *The Glass Church and the Magic Mirror* |
 | "Mind is the Pilot" Memo (1935) | Walt Disney Archives | Authenticated; referenced in multiple analyses |
 | Don Graham Lecture Notes | Chouinard/CalArts Archives | Referenced in *The Mechanics of the Soul* |
-| Retta Scott-Worcester Marriage Record | Public Record | Documented in *The Carriers of the Invisible* |
 | Mary Blair Confirmation Record | Wayfarers Chapel Archives | Documented in *The Glass Church and the Magic Mirror* |
 | *Snow White* Production Records | Walt Disney Archives | Feature film credits, story meeting transcripts |
 | Grimm Source Text | *Kinder- und Hausmärchen* (1857) | Public domain |
@@ -39,7 +38,7 @@ Over the past decade, a detailed body of research has accumulated documenting st
 
 - That the studio consciously engaged with Swedenborgian material during the production of *The Legend of Johnny Appleseed* (1948), evidenced by correspondence between Story Department Manager Hal Adelquist and Swedenborgian archivist Florence Murdoch.
 - That the studio's animation pedagogy—particularly the "action analysis" method developed by Don Graham—exhibits structural isomorphism with Swedenborg's Doctrine of Influx.
-- That key studio personnel maintained direct or familial ties to Swedenborgian institutions (Retta Scott via marriage to Benjamin Worcester; Mary Blair via confirmation at Wayfarers Chapel).
+- That key studio personnel maintained direct or familial ties to Swedenborgian institutions (Mary Blair via confirmation at Wayfarers Chapel).
 - That narrative innovations in *Snow White and the Seven Dwarfs* (1937)—particularly deviations from the Grimm source text—map systematically to Swedenborgian eschatological categories.
 
 Each of these findings has been evaluated independently, with verdicts ranging from "documented fact" (the 1948 correspondence) to "strong hypothesis" (the 1937 narrative encoding). However, this atomistic approach—assessing each evidence line in isolation—systematically undervalues what historians and forensic analysts recognize as the **cumulative weight** of converging independent evidence.
@@ -149,13 +148,12 @@ The "Cloud Castle" in *Snow White* represents creation evidence: it does not app
 | Person | Finding | Documentation |
 |--------|---------|---------------|
 | Hal Adelquist | Assistant Director on *Snow White* (1937); Story Department Manager and Swedenborgian correspondent (1948) | Production credits; archival correspondence |
-| Retta Scott | Married Benjamin Worcester (prominent Swedenborgian family) | Marriage record |
 | Mary Blair | Confirmed into Swedenborgian Church at Wayfarers Chapel (1973) | Church records |
 | Arthur Adelquist (Hal's father) | Swedish immigrant family in Iowa; Iowa had one Swedenborgian congregation (Jasper Colony) | Census records; church histories |
 
 **Independence**: This evidence derives from genealogical and institutional records, not from narrative analysis or pedagogical materials. It is independent of other evidence lines.
 
-**What H0 Must Explain**: H0 must posit that the clustering of Swedenborgian-adjacent personnel at a single studio is coincidental—that Scott's marriage to a Worcester, Blair's confirmation, Adelquist's Iowa background, and Adelquist's 1948 role are unrelated to the Swedenborgian patterns in the studio's output.
+**What H0 Must Explain**: H0 must posit that the clustering of Swedenborgian-adjacent personnel at a single studio is coincidental—that Blair's confirmation, Adelquist's Iowa background, and Adelquist's 1948 role are unrelated to the Swedenborgian patterns in the studio's output.
 
 **Critical Finding**: The biographical links are **documented facts** at varying levels of directness (Adelquist-Murdoch correspondence is explicit; Adelquist-Iowa-Jasper is strong inference based on demographic constraint). The clustering of multiple Swedenborgian-adjacent personnel at a single institution requires explanation.
 

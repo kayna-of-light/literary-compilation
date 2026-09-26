@@ -6,7 +6,7 @@ The cultural hegemony of the Walt Disney Studio, spanning nearly a century of gl
 
 This report investigates the hypothesis that the "Disney Magic"—the specific quality that distinguishes Disney animation from its competitors—is structurally isomorphic to the theology of Emanuel Swedenborg (1688–1772), specifically the Doctrine of Correspondences and the Doctrine of Influx. It posits that this alignment was not merely the result of ambient Romanticism but was actively cultivated, encoded, and maintained by a lineage of "conscious gatekeepers." These figures, ranging from department heads to art directors, possessed direct biographical and intellectual links to the Church of the New Jerusalem (Swedenborgianism) and its adjacent metaphysical movements.
 
-We identify the Palos Verdes peninsula in Southern California as the geographical locus of this spiritual transmission. Specifically, the community surrounding the **Wayfarers Chapel** (the "Glass Church"), designed by Lloyd Wright as a national memorial to Swedenborg, served as the external spiritual engine for the studio's creative elite. By mapping the residential and spiritual patterns of key personnel—including Mary Blair, Retta Scott, and the circle surrounding Don Graham—we reveal a "Palos Verdes Nexus" that functioned as an invisible seminary for the Disney aesthetic.
+We identify the Palos Verdes peninsula in Southern California as the geographical locus of this spiritual transmission. Specifically, the community surrounding the **Wayfarers Chapel** (the "Glass Church"), designed by Lloyd Wright as a national memorial to Swedenborg, served as the external spiritual engine for the studio's creative elite. By mapping the residential and spiritual patterns of key personnel—including Mary Blair and the circle surrounding Don Graham—we reveal a "Palos Verdes Nexus" that functioned as an invisible seminary for the Disney aesthetic.
 
 Finally, this report applies this pneumatological framework to the studio’s current centennial crisis. We argue that the narrative turbulence surrounding the *Snow White* (2025) production—including the dismissal of executives, the extensive reshoots, and the reintroduction of "magical" elements—represents a struggle to restore the studio's traditional theological structure following the failure of *Wish* (2023), a film that inadvertently inverted the studio's core metaphysical laws.
 
@@ -100,14 +100,7 @@ The chapel became a magnet for the creative class of Los Angeles. Snippet eviden
 * **The Confirmation:** Archival records from *The Messenger* (the Swedenborgian Church newsletter) confirm that **"Mrs. Mary Blair was confirmed into the Swedenborgian Church on December 23, 1973, at the Wayfarers Chapel"**.22  
 * **The Aesthetic:** Blair’s art style—characterized by flatness, luminosity, and the emotional color scripting of the environment—is a visual application of Swedenborgian "Influx." In her work, the environment is not a static backdrop but a dynamic spiritual substance that changes to reflect the mood (spirit) of the scene. Her residence in the Palos Verdes area 23 places her physically within the orbit of the Wayfarers community during her most productive years.
 
-### **4.3 Retta Scott**
-
-**Retta Scott** (1916–1990), the first woman to receive screen credit as an animator at Disney (famous for the hunting dogs in *Bambi*), trained at the Chouinard Art Institute, where Don Graham taught.
-
-* **The Marriage:** In 1946 Retta Scott married **Benjamin Worcester**, a naval submarine officer, and left the studio.7  
-* **The Work:** Her work on *Bambi*—animating the vicious dogs not as biological machines but as manifestations of "terror" and "force"—aligns with the Swedenborgian view of animals as correspondences of human affections.3
-
-### **4.4 The Community of Practice: Neighbors and Colleagues**
+### **4.3 The Community of Practice: Neighbors and Colleagues**
 
 The research indicates that the Palos Verdes and South Bay area was a residential cluster for key Disney personnel, creating a "Wayfarers Aesthetic" community.
 
@@ -116,7 +109,6 @@ The research indicates that the Palos Verdes and South Bay area was a residentia
 | Artist/Executive | Role | Palos Verdes Connection | Swedenborgian/Spiritual Link |
 | :---- | :---- | :---- | :---- |
 | **Mary Blair** | Art Supervisor/Stylist | Resident 23 | Confirmed Swedenborgian (1973) 22 |
-| **Retta Scott** | Animator (*Bambi*) | N/A | Married Benjamin Worcester (Swedenborgian "Royalty") 25 |
 | **Marc Davis** | Animator ("Nine Old Men") | Resident; Land Conservancy 28 | Wayfarers Chapel wedding not documented; connection inferred from community residence |
 | **Lee Blair** | Artist (*Fantasia*, *Saludos Amigos*) | Resident; Painted "Mary by the Sea" 24 | Husband of Mary Blair |
 | **Ray Wallace** | Naval Architect (*Disneyland*) | Resident 29 | Designed *Sailing Ship Columbia* |
@@ -189,10 +181,10 @@ The evidence assembled supports the hypothesis that the Walt Disney Studio has f
 
 * **The Foundation:** Don Graham and Walt Disney codified principles compatible with the Doctrine of Influx ("The Mind is the Pilot") as the industrial physics of animation—though whether they knew the theological parallel is unknown.  
 * **The Confirmation (1948):** Hal Adelquist and Carl Carmer demonstrably engaged with Swedenborgian content in *Johnny Appleseed*, showing the studio knew Chapman's religious identity.  
-* **The Sanctuary (post-1949):** The Palos Verdes Nexus, centered on the **Wayfarers Chapel**, provided a documented spiritual and aesthetic home for key artists like Mary Blair and Retta Scott.  
+* **The Sanctuary (post-1949):** The Palos Verdes Nexus, centered on the **Wayfarers Chapel**, provided a documented spiritual and aesthetic home for key artists like Mary Blair.  
 * **The Future:** The 2025 *Snow White* appears to represent a course correction after a period of deviation (*Wish*)—whether this is conscious theological return or intuitive aesthetic return is unclear.
 
-The "Gatekeepers" identified with varying degrees of certainty include Hal Adelquist (documented), Mary Blair (documented), Retta Scott (documented genealogical connection), Carl Carmer (documented expertise), and Walt Stanchfield (documented pedagogy). The question of who performed the *original* encoding in 1935-1937—before these figures achieved their positions of influence—remains open. They built a "Glass Church" out of celluloid and pixels, but someone laid the foundation before them. The current executives—Greenbaum, Platt, and Iger—are not theologians, but they are custodians of a machine that only works when it follows the specific laws of its original design. They have realized that when you break the Mirror, the Magic dies. The dismantling of the physical Wayfarers Chapel in 2024 due to landslides 21 serves as a poignant, correspondential symbol for the studio's own precarious position: a spiritual foundation threatening to slide into the sea, requiring desperate measures to preserve the structure.
+The "Gatekeepers" identified with varying degrees of certainty include Hal Adelquist (documented), Mary Blair (documented), Carl Carmer (documented expertise), and Walt Stanchfield (documented pedagogy). The question of who performed the *original* encoding in 1935-1937—before these figures achieved their positions of influence—remains open. They built a "Glass Church" out of celluloid and pixels, but someone laid the foundation before them. The current executives—Greenbaum, Platt, and Iger—are not theologians, but they are custodians of a machine that only works when it follows the specific laws of its original design. They have realized that when you break the Mirror, the Magic dies. The dismantling of the physical Wayfarers Chapel in 2024 due to landslides 21 serves as a poignant, correspondential symbol for the studio's own precarious position: a spiritual foundation threatening to slide into the sea, requiring desperate measures to preserve the structure.
 
 #### **Works cited**
 

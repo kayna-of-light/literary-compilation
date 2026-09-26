@@ -36,7 +36,7 @@ Contrary to the assumption that Swedenborgianism was a distant New England pheno
 
 The Los Angeles society was historically linked to the "Garden of the Lord" movement, which sought to transform the American West into a spiritual paradise.8 If this linkage is verified for the relevant period, it supplies a plausible cultural background for Disney’s later use of environment-as-moral-mirror (e.g., the forest reacting to Snow White's terror). The strongest claim warranted here is that Swedenborgian texts and ideas could have been accessible within the city’s metaphysical and artistic networks.
 
-The influence of the **Rev. John Worcester**, a titan of American Swedenborgianism, extended to the West Coast.6 The Worcesters were proponents of the "Science of Correspondences" applied to natural science and art. This dynasty's reach into the Disney Studio became explicit with the marriage of **Retta Scott**, the animator responsible for the vicious dogs in *Bambi*, to **Benjamin Fessenden Worcester**.10 While this marriage occurred slightly later, it demonstrates the social proximity between the studio's elite and the New Church community.
+The influence of the **Rev. John Worcester**, a titan of American Swedenborgianism, extended to the West Coast.6 The Worcesters were proponents of the "Science of Correspondences" applied to natural science and art.
 
 ### **2.2 The Diffusion of "New Thought" and Theosophy**
 
@@ -63,7 +63,7 @@ In 1932, Walt Disney faced a "Crisis of Ensoulment." His characters moved (the r
 
 Don Graham’s solution was "Action Analysis." The core tenet of this pedagogy was: **"The Mind is the Pilot."**.13
 
-* **Swedenborg:** "Action is nothing but the will flowing forth... The body is the obedience." (*Arcana Coelestia*)  
+* **Swedenborg:** "The body’s activity in speech or deed is only an effect from the external and internal of man’s spirit, for the body is so much obedience." (*Divine Providence* §103)  
 * **Graham:** "Draw the force, not the form." "The drawing is a diagram of the force."
 
 Graham trained the animators to see the "invisible" cause before drawing the "visible" effect. This is a Swedenborgian-compatible logic of cause/force applied to graphite. By 1935, when production on *Snow White* ramped up, much of the studio had been trained in this way of seeing. This created a "receptive soil." The story men (Creedon, Sears, Smith) could propose narrative changes based on "internal states" (e.g., the Queen dying of her own fury) because the animators now had the tools to depict those states. Graham was an enabler of the transmission, creating a studio language that was structurally Swedenborgian in form, even if the label was absent.
@@ -153,7 +153,7 @@ These men were not isolated mystics. They worked in a studio where **Don Graham*
 
 1. The Carriers of the Invisible\_ A Personnel History of Swedenborgian Thought in the Walt Disney Studio.pdf, [**The Carriers of the Invisible: A Personnel History of Swedenborgian Thought in the Walt Disney Studio**](../07_Cultural_Pneumatology/The%20Carriers%20of%20the%20Invisible_%20A%20Personnel%20History%20of%20Swedenborgian%20Thought%20in%20the%20Walt%20Disney%20Studio.md)  
 2. Snow White and the Seven Dwarfs | Disney Fan Fiction Wiki \- Fandom, accessed on February 2, 2026, [https://disney-fan-fiction.fandom.com/wiki/Snow\_White\_and\_the\_Seven\_Dwarfs](https://disney-fan-fiction.fandom.com/wiki/Snow_White_and_the_Seven_Dwarfs)  
-3. The Animated Man: A Life of Walt Disney \- STAI Babussalam Sula Maluku Utara, accessed on February 2, 2026, [https://staibabussalamsula.ac.id/wp-content/uploads/2024/05/Michael-Barrier-Animated-Man.-A-Life-of-Walt-Disney-English-Ed-staibabussalamsula.ac\_.id\_.pdf](https://staibabussalamsula.ac.id/wp-content/uploads/2024/05/Michael-Barrier-Animated-Man.-A-Life-of-Walt-Disney-English-Ed-staibabussalamsula.ac_.id_.pdf)  
+3. Barrier, Michael. *The Animated Man: A Life of Walt Disney*. Berkeley: University of California Press, 2007.  
 4. Hal Adelquist \- Snow White Museum, accessed on February 2, 2026, [https://snowwhitemuseum.com/about-the-film/main-titles/hal-adelquist/](https://snowwhitemuseum.com/about-the-film/main-titles/hal-adelquist/)  
 5. Florence Murdoch \- Fryeburg New Church Assembly, accessed on February 2, 2026, [https://fryeburg.org/florencemurdoch](https://fryeburg.org/florencemurdoch)  
 6. new-church \- The Swedenborgian Church of North America, accessed on February 2, 2026, [https://swedenborg.org/wp-content/uploads/2019/04/1955SeptemberMessenger.pdf](https://swedenborg.org/wp-content/uploads/2019/04/1955SeptemberMessenger.pdf)  

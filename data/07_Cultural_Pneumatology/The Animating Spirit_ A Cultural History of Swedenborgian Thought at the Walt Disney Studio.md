@@ -20,7 +20,7 @@
 
 The Walt Disney Studio's "Golden Age" animation (1937–1959) exhibits a distinctive metaphysical architecture. Characters move because internal intentions drive external forms. Environments respond to protagonists' emotional states—forests becoming menacing during terror, castles transforming as inhabitants regenerate. The physics of these animated worlds obey moral and emotional logic rather than Newtonian mechanics. This architecture is not incidental; it was deliberately constructed through pedagogical intervention, formalized in internal memos, and passed down through three generations of animators as the definitive "Disney Style."
 
-This architecture bears striking structural resemblance to the theological system of Emanuel Swedenborg (1688–1772), specifically his Doctrine of Influx. Swedenborg taught that the spiritual world is the realm of causes (will, affection, thought) and the natural world is the realm of effects (body, action, form). "The body’s activity in speech or deed is only an effect from the external and internal of man’s spirit, for the body is so much obedience."¹ The mechanism is explicit: life flows from the spiritual into the natural; the body does not move itself, the spirit moves the body.
+This architecture bears striking structural resemblance to the theological system of Emanuel Swedenborg (1688–1772), specifically his Doctrine of Influx. Swedenborg taught that the spiritual world is the realm of causes (will, affection, thought) and the natural world is the realm of effects (body, action, form). "The body’s activity in speech or deed is only an effect from the external and internal of man’s spirit, for the body is so much obedience."⁴⁰ The mechanism is explicit: life flows from the spiritual into the natural; the body does not move itself, the spirit moves the body.
 
 When Walt Disney wrote to Don Graham in December 1935 that "the mind is the pilot. We think of things before the body does them,"² he articulated a principle functionally identical to Influx—yet we possess no archival evidence that Disney ever read Swedenborg, attended a New Church, or consciously drew on theological sources. The Graham pedagogy of "Action Analysis," which trained animators to draw "the force, not the form," is structurally isomorphic to Swedenborgian metaphysics—yet Graham's documented influences point to Chouinard Art Institute and the broader Los Angeles metaphysical milieu, not to specific theological texts.
 
@@ -275,7 +275,7 @@ The structural homology between Graham's pedagogy and Swedenborg's Doctrine of I
 | **The Natural (Effect)**: Body, Action, Form | **The Outer Form (Effect)**: The Drawing, the Character's Body |
 | **The Law**: Life flows down from Spiritual into Natural; the body does not move itself | **The Law**: Draw the Force, not the Form; the drawing results from intent acting on matter |
 
-Swedenborg wrote in *Divine Providence* (§103): "The body’s activity in speech or deed is only an effect from the external and internal of man’s spirit, for the body is so much obedience."⁷
+Swedenborg wrote in *Divine Providence* (§103): "The body’s activity in speech or deed is only an effect from the external and internal of man’s spirit, for the body is so much obedience."⁴⁰
 
 Graham effectively trained animators to function as demiurges within this cosmology. To create a believable "Illusion of Life," they had to replicate the divine process of Influx: creating a spiritual cause (the idea/mood) and letting it flow into a natural effect (the drawing). If they started with the "natural" (drawing muscles first), the character looked dead because it lacked a spiritual cause.
 
@@ -767,4 +767,5 @@ The tradition is not accidental. It was deliberate from the beginning. The found
 37. [The Mirror and the Star: A Comparative Pneumatology of Disney's Wish and Snow White (2025)](The%20Mirror%20and%20the%20Star_%20A%20Comparative%20Pneumatology%20of%20Disney's%20Wish%20and%20Snow%20White%20%282025%29.md)
 38. [The Mirror and the Void: An Archival and Pneumatological Exegesis of the Rejected Adaptations of the Walt Disney Studio](The%20Mirror%20and%20the%20Void_%20An%20Archival%20and%20Pneumatological%20Exegesis%20of%20the%20Rejected%20Adaptations%20of%20the%20Walt%20Disney%20Studio.md)
 39. [The Mirror of the Invisible: Swedenborgian Natural Philosophy and the Romantic Folklore of the Brothers Grimm](The%20Mirror%20of%20the%20Invisible_%20Swedenborgian%20Natural%20Philosophy%20and%20the%20Romantic%20Folklore%20of%20the%20Brothers%20Grimm.md)
+40. Swedenborg, Emanuel. *Divine Providence* (*Angelic Wisdom concerning Divine Providence*). Translated by William F. Wunsch. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
 

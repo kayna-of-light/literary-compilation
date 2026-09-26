@@ -155,7 +155,7 @@ Genealogical research reveals a startling connection: Retta Scott married **Benj
 
 **Mary Blair** (née Robinson), the stylist who defined the look of *Cinderella*, *Alice in Wonderland*, and *Peter Pan*, provides the strongest link to institutional Swedenborgianism.
 
-* **Confirmation:** Mary Blair was confirmed into the Swedenborgian Church in 1974\.23  
+* **Confirmation:** Mary Blair was confirmed into the Swedenborgian Church in 1973\.23  
 * **Location:** She lived in Palos Verdes, home of the **Wayfarers Chapel** (The Glass Church).  
 * **Architecture:** The Wayfarers Chapel was designed by **Lloyd Wright** (Frank Lloyd Wright’s son) as a National Memorial to Swedenborg.24 It is a masterpiece of "Organic Architecture," designed to blur the line between the indoors (spirit) and the outdoors (nature)—a physical manifestation of the Doctrine of Correspondences.
 
@@ -223,7 +223,7 @@ Walt Disney did not build a church; he built a studio. But in doing so, he creat
 | **Hal Adelquist** | Murdoch Correspondence 7 | Admitted "extensive research" into Chapman's life. | Confirms studio knowledge of sectarian theology. |
 | **Carl Carmer** | Folklore Consultant 18 | Expert on "Burned-Over District" & esoteric sects. | Provided deep historical context for *Appleseed*. |
 | **Retta Scott** | Married Ben Worcester 15 | Married into the "Royal Family" of US Swedenborgianism. | Brought "affective" animation style (*Bambi*). |
-| **Mary Blair** | Confirmed 1974 23 | Member of Wayfarers Chapel (New Church). | Defined "Golden Age" aesthetic (Influx/Color). |
+| **Mary Blair** | Confirmed 1973 23 | Member of Wayfarers Chapel (New Church). | Defined "Golden Age" aesthetic (Influx/Color). |
 | **Walt Disney** | "Deeds Rather Than Words" 1 | Matches Doctrine of Life/Uses. | Established studio's moral/functional ethos. |
 | **Walt Disney** | "Mind is the Pilot" Memo 9 | Matches Doctrine of Influx (Cause/Effect). | Foundation of Disney Animation ("Illusion of Life"). |
 | **Frank Lloyd Wright** | 1939 Studio Visit 28 | Deeply influenced by Swedenborg (via Sullivan). | Validated abstract/organic animation (*Fantasia*). |

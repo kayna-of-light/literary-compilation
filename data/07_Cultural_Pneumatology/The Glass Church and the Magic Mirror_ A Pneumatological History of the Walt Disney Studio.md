@@ -97,7 +97,7 @@ The chapel became a magnet for the creative class of Los Angeles. Snippet eviden
 
 **Mary Blair** (née Robinson), the color stylist responsible for the look of *Cinderella*, *Alice in Wonderland*, and *Peter Pan*, is the most significant link in the Palos Verdes Nexus.
 
-* **The Confirmation:** Archival records from *The Messenger* (the Swedenborgian Church newsletter) confirm that **"Mrs. Mary Blair was confirmed into the Swedenborgian Church on December 23, 1974, at the Wayfarers Chapel"**.22  
+* **The Confirmation:** Archival records from *The Messenger* (the Swedenborgian Church newsletter) confirm that **"Mrs. Mary Blair was confirmed into the Swedenborgian Church on December 23, 1973, at the Wayfarers Chapel"**.22  
 * **The Aesthetic:** Blair’s art style—characterized by flatness, luminosity, and the emotional color scripting of the environment—is a visual application of Swedenborgian "Influx." In her work, the environment is not a static backdrop but a dynamic spiritual substance that changes to reflect the mood (spirit) of the scene. Her residence in the Palos Verdes area 23 places her physically within the orbit of the Wayfarers community during her most productive years.
 
 ### **4.3 Retta Scott and the Worcester Dynasty**
@@ -116,7 +116,7 @@ The research indicates that the Palos Verdes and South Bay area was a residentia
 
 | Artist/Executive | Role | Palos Verdes Connection | Swedenborgian/Spiritual Link |
 | :---- | :---- | :---- | :---- |
-| **Mary Blair** | Art Supervisor/Stylist | Resident 23 | Confirmed Swedenborgian (1974) 22 |
+| **Mary Blair** | Art Supervisor/Stylist | Resident 23 | Confirmed Swedenborgian (1973) 22 |
 | **Retta Scott** | Animator (*Bambi*) | N/A | Married Benjamin Worcester (Swedenborgian "Royalty") 25 |
 | **Marc Davis** | Animator ("Nine Old Men") | Resident; Land Conservancy 28 | Wayfarers Chapel wedding not documented; connection inferred from community residence |
 | **Lee Blair** | Artist (*Fantasia*, *Saludos Amigos*) | Resident; Painted "Mary by the Sea" 24 | Husband of Mary Blair |

@@ -132,11 +132,11 @@ By marrying into this dynasty, Retta Scott moved within the inner circle of the 
 
 ### **6.2 Mary Blair: The Confirmed Believer**
 
-Mary Blair (née Robinson) is the stylist responsible for the "Disney Look" of the 1950s (*Cinderella, Alice in Wonderland, Peter Pan*). While previous research noted her confirmation into the Swedenborgian Church in 1974 1, the timeline suggests this was the culmination of a lifelong affinity.
+Mary Blair (née Robinson) is the stylist responsible for the "Disney Look" of the 1950s (*Cinderella, Alice in Wonderland, Peter Pan*). While previous research noted her confirmation into the Swedenborgian Church in 1973 1, the timeline suggests this was the culmination of a lifelong affinity.
 
 * **The Appleseed Nexus:** Blair was the Art Supervisor for *Johnny Appleseed* in 1948\. She worked directly on the film that Carmer advised on and Murdoch critiqued. Her visual design for the film—where the boundary between the natural and spiritual worlds is non-existent (clouds becoming apple blossoms, Johnny walking into the sky)—is pure "Influx."  
 * **The Palos Verdes Community:** Blair lived in the artist colony of Palos Verdes. This was the site of the **Wayfarers Chapel**, the "Glass Church" designed by Lloyd Wright (Frank Lloyd Wright's son) as a national memorial to Swedenborg.  
-* **Aesthetic Alignment:** Blair’s art rejects Renaissance perspective (which emphasizes the material separation of objects) in favor of flatness and color (which emphasizes emotional/spiritual state). Her conversion in 1974 at the Wayfarers Chapel was likely the formalization of the worldview she had been painting for Disney for thirty years.
+* **Aesthetic Alignment:** Blair’s art rejects Renaissance perspective (which emphasizes the material separation of objects) in favor of flatness and color (which emphasizes emotional/spiritual state). Her conversion in 1973 at the Wayfarers Chapel was likely the formalization of the worldview she had been painting for Disney for thirty years.
 
 ### **6.3 Walt Stanchfield: The Bridge to the Renaissance**
 
@@ -220,7 +220,7 @@ Walt Disney did not build a church; he built a studio. But in doing so, he creat
 | :---- | :---- | :---- | :---- |
 | **Carl Carmer** | Folklore Consultant | Historian of "Burned-Over District"; expert on esoteric sects. | Ensured *Johnny Appleseed* retained New Church theology (Angelology, Charity). |
 | **Retta Scott** | Animator (*Bambi*) | Married into the Worcester Family (US Swedenborgian leaders). | Infused animation with "affective" power; brought "royal" Swedenborgian lineage. |
-| **Mary Blair** | Art Supervisor | Confirmed Swedenborgian (1974); Palos Verdes resident. | Visualized "Influx" (blurring spirit/nature); defined the "Golden Age" look. |
+| **Mary Blair** | Art Supervisor | Confirmed Swedenborgian (1973); Palos Verdes resident. | Visualized "Influx" (blurring spirit/nature); defined the "Golden Age" look. |
 | **Don Graham** | Art Instructor | Pedagogy of "Forces vs. Forms" (Action Analysis). | Secularized "Influx" doctrine into technical training. |
 | **Walt Stanchfield** | Instructor/Mentor | *Drawn to Life* lectures; Mentor to Renaissance animators. | Bridge between Golden Age and Modern Era; taught "Inner Force" drawing. |
 | **Hal Adelquist** | Production Manager | Correspondence with Florence Murdoch. | Articulated the studio's "Active Seeking" of religious authenticity. |

@@ -2497,22 +2497,18 @@ Name the translation actually used for each of items 2–3, and choose whether t
 
 ---
 
-### [GDR] *The Mechanics of the Soul* — attributions whose only source is a blog, a repost, or an unreachable page
+### [GDR] *The Mechanics of the Soul* — three attributions still without a primary source
 
 **Priority**: MEDIUM
-**Related Document**: `data/07_Cultural_Pneumatology/The Mechanics of the Soul_ Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio.md` (several recur in `The Animating Spirit_ A Cultural History…`)
+**Related Document**: `data/07_Cultural_Pneumatology/The Mechanics of the Soul_ Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio.md`
 
-**Context** (checked 2026-09-25; none edited, because no real source was found to cite in their place):
-1. **Graham, "The Line of Action is a visual explanation of what happens to form that has been acted upon by—FORCE"** (§3.1, "a June 1937 class"). Found only in the anonymous Scribd upload "Don Graham Notes on animation" (doc 141374426) and its mirrors. It is **not** in the 21 June 1937 transcript (all 15 pages of Hans Perk's scan read). Which Graham class or text is it from?
-2. **Art Babbitt, "I learned more from Don Graham than from any of the animators"** (§VI). Only source: an anonymous fan blog (*50mostinfluentialdisneyanimators*). The Babbitt statement that is in print, via Wikipedia, is "I learned a hell of a lot from him!" (Girveau, ed., *Once Upon a Time — Walt Disney*, Prestel, 2006); that book was not checked.
-3. **Marc Davis, "probably the best teacher I ever had"** (§VI). The cited blog (animatedspirit.com) does not resolve. A verified Davis line on Graham exists ("A true scholar of the art of drawing who knew as much about art as anybody I've ever come in contact with", AnimationResources.org).
-4. **Tytla and "the Group Theatre"** (§V), cited to Hooks, *Craft Notes for Animators*, 32–36 (not checked). Crafton, *Shadow of a Mouse*, confirms only that Tytla studied Boleslavsky (citing Barrier, *Hollywood Cartoons*, 205).
-5. **"Retta Scott … was a student of Graham"** (§4.3). She attended Chouinard on scholarship from 1934 (D23 Disney Legends); no source places her in Graham's class.
-6. **Feb 22, 1937 lecture, "mainspring"** (§3.2). The A. Film L.A. post holding the scan has moved (404), so the word was not checked.
-7. **"a 'paper doll' rather than a living being"** (§3.1) sits in Graham's argument but is the 2018 blogger's phrase ("paper doll cut-out"), not the 1937 transcript's ("generally lifeless"). Left as it stands, with the blog now cited as a Web Source.
+**Context**:
+1. **Graham, "The Line of Action is a visual explanation of what happens to form that has been acted upon by—FORCE"** (§3.1). Found only in an anonymous Scribd upload ("Don Graham Notes on animation", doc 141374426). It is in neither Action Analysis transcript of June 1937: the 21 June class (15 pages, read) or the 28 June class with Tytla (20 pages, OCR-searched; both are Hans Perk's scans at `afilmla.com/blog/AAC-0621[28]37-NN.jpg`). Graham's unpublished *The Art of Animation* manuscript is the next place to look.
+2. **February 22, 1937 lecture, "mainspring"** (§3.2). The A. Film L.A. post holding the scan has moved (404); the image filenames were not found.
+3. **"Retta Scott … was a student of Graham"** (§4.3). She attended Chouinard on scholarship from 1934 (D23 Disney Legends), while Graham taught life drawing there; no source places her in his class. Ghez, *They Drew as They Pleased*, Part One (2016), which has a chapter on her, was not available in the session.
 
 **Research Question**:
-For each item, find the primary source (transcript, interview, published memoir) or decide to reword or drop the attribution.
+Locate the primary source for each, or reword/drop the attribution.
 
 **Status**: Open
 

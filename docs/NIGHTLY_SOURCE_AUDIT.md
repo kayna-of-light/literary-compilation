@@ -175,13 +175,11 @@ The editorial annotation system (`EDITORIAL_ANNOTATION_MANUAL.md`, `EVOLVING_CON
 - **The author's Drive** (Google Drive MCP tools): primary texts (Swedenborg, Kephalaia, Lovejoy…) and the PDF mirror of the library. `search_files` with `title contains` or `fullText contains` settles whether a cited Drive file still exists.
 - Specific holdings and URL patterns that have already been found (Swedenborg Foundation PDFs for all twelve *Arcana* volumes, Hans Perk's Graham transcripts, Gutenberg IDs, …) are kept in the ledger's pattern register. Check it before searching from scratch.
 
-### 4.2 Agents
+### 4.2 No subagents; spend the budget carefully
 
-`CLAUDE.md`'s rule for deep research — read the library yourself — applies to the documents in the batch: the orchestrating run reads each of them itself, in full. Agents are for breadth: tracing many external entries in parallel, or taking whole sibling documents in parallel under a written brief. If you use them:
+The run does the work itself. **Never delegate any part of the audit to subagents** — not reading, not tracing, not editing. Subagents multiply usage many times over and have exhausted the author's quota within minutes; their work also has to be redone to be trusted.
 
-- Give each a written brief carrying Section 0, § 3 and everything already verified that night.
-- Give each agent its own files; never two agents on one file.
-- **Review every agent's diff line by line and its report before committing.** An agent's work is yours once it lands.
+Usage is a real cost. Take the cheapest route that is still complete: `grep` and targeted reads over re-reading whole files, one well-aimed search over many broad ones, local full text (curl + pypdfium2, OCR) over repeated web summaries. Size the night to what one run can finish; if the work outgrows it, finish the documents already open, ledger the rest as the next run's work, and stop. Never restart abandoned or failed work on your own initiative.
 
 ### 4.3 Know the corpus's copy-paste families
 

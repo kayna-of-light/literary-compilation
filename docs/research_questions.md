@@ -2508,7 +2508,7 @@ Name the translation actually used for each of items 2–3, and choose whether t
 3. **Marc Davis, "probably the best teacher I ever had"** (§VI). The cited blog (animatedspirit.com) does not resolve. A verified Davis line on Graham exists ("A true scholar of the art of drawing who knew as much about art as anybody I've ever come in contact with", AnimationResources.org).
 4. **Tytla and "the Group Theatre"** (§V), cited to Hooks, *Craft Notes for Animators*, 32–36 (not checked). Crafton, *Shadow of a Mouse*, confirms only that Tytla studied Boleslavsky (citing Barrier, *Hollywood Cartoons*, 205).
 5. **"Retta Scott … was a student of Graham"** (§4.3). She attended Chouinard on scholarship from 1934 (D23 Disney Legends); no source places her in Graham's class.
-6. **Feb 22, 1937 lecture, "mainspring"** (§3.2). The DIX catalogue entry confirms date and title; the A. Film L.A. post holding the scan has moved (404), so the word was not checked.
+6. **Feb 22, 1937 lecture, "mainspring"** (§3.2). The A. Film L.A. post holding the scan has moved (404), so the word was not checked.
 7. **"a 'paper doll' rather than a living being"** (§3.1) sits in Graham's argument but is the 2018 blogger's phrase ("paper doll cut-out"), not the 1937 transcript's ("generally lifeless"). Left as it stands, with the blog now cited as a Web Source.
 
 **Research Question**:
@@ -2523,7 +2523,7 @@ For each item, find the primary source (transcript, interview, published memoir)
 **Priority**: MEDIUM
 **Related Documents**: `07_Cultural_Pneumatology/` — *The Mechanics of the Soul* §4.3, *The Carriers of the Invisible* §6.1, *The Invisible Influx*, *The Glass Church and the Magic Mirror*, *The Animating Spirit_ A Cultural History* ; `00_Master_Theses/The River and the Vessel` l.464
 
-**Context**: That Retta Scott married Benjamin Worcester, a submarine commander, in 1946 is confirmed (Wikipedia; D23 Disney Legends). That he was "Benjamin Fessenden Worcester", a descendant of Rev. Thomas Worcester (1795–1878) of the Boston New Church, is stated in six documents and sourced in none. *The Animating Spirit_ A Cultural History* cites WikiTree (Scott-22151), which could not be read from the audit session; the Worcester family genealogy (worcesterfamily.com, seventh/eighth generation) was searched without finding him. The claim carries the "Carriers" argument. (Separately, Thomas Worcester was president of the General Convention 1839–1875, per *Appletons' Cyclopædia*; *The Mechanics of the Soul* called him its "first president" and has been corrected.)
+**Context**: That Retta Scott married Benjamin Worcester, a submarine commander, in 1946 is confirmed (Wikipedia; D23 Disney Legends). That he was "Benjamin Fessenden Worcester", a descendant of Rev. Thomas Worcester (1795–1878) of the Boston New Church, is stated in six documents and sourced in none. *The Animating Spirit_ A Cultural History* cites WikiTree (Scott-22151), which could not be read from the audit session; the Worcester family genealogy (worcesterfamily.com, seventh/eighth generation) was searched without finding him. The claim carries the "Carriers" argument.
 
 **Research Question**:
 Establish Benjamin Worcester's parentage and whether he descends from the Swedenborgian Worcesters, from a genealogical record, an obituary or a Navy register.
@@ -2552,12 +2552,11 @@ Is *A Cultural History* the successor of the Genealogical exegesis? If so, the f
 **Related Documents**: `07_Cultural_Pneumatology/The Animating Spirit_ A Cultural History…`, `…/The Architect of the Invisible…`
 
 **Context**:
-1. **Mary Blair's confirmation date.** *The Messenger* (February 1974, "Confirmations") records that she "was confirmed into the Swedenborgian Church on December 23rd at the Wayfarers' Chapel" — December 1973. *A Cultural History* and *The Architect of the Invisible* give 1974. Not edited: neither document has been audited, and this is a new correction, not a propagated one.
-2. **Footnotes left pointing at *Arcana Coelestia*.** The Swedenborg quotation propagated tonight now reads (and is credited to) *Divine Providence* §103, but *A Cultural History*'s notes ¹ (§I) and ⁷ (§4.3) still resolve to its *Arcana Coelestia* Works Cited entry, which has no *Divine Providence* entry.
-3. **Sibling pair.** *A Cultural History* reproduces *The Mechanics of the Soul* §§2–4 almost verbatim, but its §4.4 reads the same evidence as *organic* alignment ("no documented Swedenborg connection"), where *Mechanics* §VII concludes a "deliberate, albeit secularized, adoption". Which is the corpus's current position, and does *Mechanics* need an annotation? (Interpretive — not this audit's call.)
+1. **Footnotes left pointing at *Arcana Coelestia*.** The Swedenborg quotation propagated tonight now reads (and is credited to) *Divine Providence* §103, but *A Cultural History*'s notes ¹ (§I) and ⁷ (§4.3) still resolve to its *Arcana Coelestia* Works Cited entry, which has no *Divine Providence* entry.
+2. **Sibling pair.** *A Cultural History* reproduces *The Mechanics of the Soul* §§2–4 almost verbatim, but its §4.4 reads the same evidence as *organic* alignment ("no documented Swedenborg connection"), where *Mechanics* §VII concludes a "deliberate, albeit secularized, adoption". Which is the corpus's current position, and does *Mechanics* need an annotation? (Interpretive — not this audit's call.)
 
 **Research Question**:
-Decide items 1–3; they are ready for the next audit of those documents.
+Decide items 1–2; they are ready for the next audit of those documents.
 
 **Status**: Open
 

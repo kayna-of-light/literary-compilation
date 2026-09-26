@@ -2497,64 +2497,16 @@ Name the translation actually used for each of items 2–3, and choose whether t
 
 ---
 
-### [GDR] *The Mechanics of the Soul* — three attributions still without a primary source
+### [GDR] Retta Scott and the "Worcester dynasty" — the lineage is in no record
 
-**Priority**: MEDIUM
-**Related Document**: `data/07_Cultural_Pneumatology/The Mechanics of the Soul_ Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio.md`
+**Priority**: HIGH
+**Related Documents**: `07_Cultural_Pneumatology/` — *The Carriers of the Invisible* §6.1 and table, *The Invisible Influx* §6.1 and table, *The Glass Church and the Magic Mirror* §4.3, *The Architect of the Invisible* §5.2, *The Animating Spirit_ A Cultural History* §6.2 and §9.1, *The Crisis of Ensoulment* §3 ; `00_Master_Theses/The River and the Vessel` l.464
 
-**Context**:
-1. **Graham, "The Line of Action is a visual explanation of what happens to form that has been acted upon by—FORCE"** (§3.1). Found only in an anonymous Scribd upload ("Don Graham Notes on animation", doc 141374426). It is in neither Action Analysis transcript of June 1937: the 21 June class (15 pages, read) or the 28 June class with Tytla (20 pages, OCR-searched; both are Hans Perk's scans at `afilmla.com/blog/AAC-0621[28]37-NN.jpg`). Graham's unpublished *The Art of Animation* manuscript is the next place to look.
-2. **February 22, 1937 lecture, "mainspring"** (§3.2). The A. Film L.A. post holding the scan has moved (404); the image filenames were not found.
-3. **"Retta Scott … was a student of Graham"** (§4.3). She attended Chouinard on scholarship from 1934 (D23 Disney Legends), while Graham taught life drawing there; no source places her in his class. Ghez, *They Drew as They Pleased*, Part One (2016), which has a chapter on her, was not available in the session.
+**Findings (2026-09-26)**: Retta Scott's 1946 marriage to Benjamin Worcester, a naval submarine officer, is sourced (Wikipedia citing Ghez, *They Drew as They Pleased*, 2016; D23). His descent from Rev. Thomas Worcester — the basis of the "Worcester dynasty" sections, described in several as "a critical genealogical discovery" — has no source in any document. The WikiTree profile *Cultural History* cites (Scott-22151) lists no spouse and no Worcester ancestry. The Worcester family genealogy (worcesterfamily.com, descendants of Rev. William Worcester) traces Thomas Worcester's line through his sons Benjamin (1824–1911, the Swedenborgian writer), Francis and John into the late twentieth century, and no descendant is Retta Scott's husband. The Swedenborgian Benjamin Worcester is Thomas's son, born 1824 — the probable source of the conflation. *The Mechanics of the Soul* has been corrected (the sentence now states only the sourced marriage).
 
-**Research Question**:
-Locate the primary source for each, or reword/drop the attribution.
+**Decision needed**: the same correction in the seven documents listed. In most it is not a phrase but a section built on the lineage.
 
-**Status**: Open
-
----
-
-### [GDR] The Worcester genealogy behind "Retta Scott married into the Swedenborgian Worcesters"
-
-**Priority**: MEDIUM
-**Related Documents**: `07_Cultural_Pneumatology/` — *The Mechanics of the Soul* §4.3, *The Carriers of the Invisible* §6.1, *The Invisible Influx*, *The Glass Church and the Magic Mirror*, *The Animating Spirit_ A Cultural History* ; `00_Master_Theses/The River and the Vessel` l.464
-
-**Context**: That Retta Scott married Benjamin Worcester, a submarine commander, in 1946 is confirmed (Wikipedia; D23 Disney Legends). That he was "Benjamin Fessenden Worcester", a descendant of Rev. Thomas Worcester (1795–1878) of the Boston New Church, is stated in six documents and sourced in none. *The Animating Spirit_ A Cultural History* cites WikiTree (Scott-22151), which could not be read from the audit session; the Worcester family genealogy (worcesterfamily.com, seventh/eighth generation) was searched without finding him. The claim carries the "Carriers" argument.
-
-**Research Question**:
-Establish Benjamin Worcester's parentage and whether he descends from the Swedenborgian Worcesters, from a genealogical record, an obituary or a Navy register.
-
-**Status**: Open
-
----
-
-### [GDR] The Drive-hosted "The Animating Spirit: A Genealogical and Pneumatological Exegesis…" no longer exists
-
-**Priority**: LOW
-**Related Documents**: `07_Cultural_Pneumatology/` — *The Mechanics of the Soul* (Works Cited 29), *The Crown and the Comedy*, *The Mirror and the Void*, *The Crisis of Ensoulment*
-
-**Context**: All four documents cite this report by two `drive.google.com` links (`1q5lOPrX…`, `1B6yJ7b4…`). Both return "not found" from the Drive API. No library document has this title. *The Animating Spirit_ A Cultural History of Swedenborgian Thought at the Walt Disney Studio* covers the same ground (its §V treats the Grimm/Andersen literary sources) and may be its rewrite, but that is not established, so the links were left as they stand.
-
-**Research Question**:
-Is *A Cultural History* the successor of the Genealogical exegesis? If so, the four citations can become relative links to it; if not, where does the report live?
-
-**Status**: Open
-
----
-
-### [GDR] For the author: findings in 07 documents not audited tonight
-
-**Priority**: LOW
-**Related Documents**: `07_Cultural_Pneumatology/The Animating Spirit_ A Cultural History…`, `…/The Architect of the Invisible…`
-
-**Context**:
-1. **Footnotes left pointing at *Arcana Coelestia*.** The Swedenborg quotation propagated tonight now reads (and is credited to) *Divine Providence* §103, but *A Cultural History*'s notes ¹ (§I) and ⁷ (§4.3) still resolve to its *Arcana Coelestia* Works Cited entry, which has no *Divine Providence* entry.
-2. **Sibling pair — answered by the author, 2026-09-26.** The two documents do not conflict in substance: both trace the studio's influx pedagogy to Swedenborg; they differ only on the word "deliberate" for Graham. Author's position: Swedenborg is the core driver, reaching the studio sometimes directly and deliberately (personal choices — e.g. Blair's confirmation) and sometimes indirectly (the Theosophical/New Thought milieu around Chouinard, itself downstream of Swedenborg). Where a Swedenborgian link is documented, the correspondential reading of the work is the expected consequence, not a speculative addition. No annotation needed on either document.
-
-**Research Question**:
-Item 1 is ready for the next audit of *A Cultural History*.
-
-**Status**: Open
+**Status**: Open — awaiting the author's go-ahead for the section rewrites
 
 ---
 

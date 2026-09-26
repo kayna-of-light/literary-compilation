@@ -384,9 +384,9 @@ The nine animators who became Disney's "Nine Old Men"—the core creative leader
 
 While the selection process did not require explicit Swedenborgian identity, it concentrated individuals with direct connections to the tradition. Three cases establish that Swedenborgian carriers achieved positions of creative authority within the studio:
 
-**Retta Scott (1916–1990)**: Disney's first credited female animator, celebrated for the terrifying hunting dogs in *Bambi*. Her animation was praised for its "raw, visceral power"—capturing the "inner beast" rather than merely depicting a dog. Genealogical research reveals that Scott married Benjamin Fessenden Worcester.¹ The Worcester family constitutes the most prominent Swedenborgian dynasty in American history. Reverend Thomas Worcester was the first pastor of the Boston Society of the New Jerusalem and President of the General Convention for decades; John Worcester wrote commentaries on Swedenborg's *Arcana Coelestia* that remain standard in New Church scholarship.
+**Retta Scott (1916–1990)**: Disney's first credited female animator, celebrated for the terrifying hunting dogs in *Bambi*. Her animation was praised for its "raw, visceral power"—capturing the "inner beast" rather than merely depicting a dog. She trained at the Chouinard Art Institute, where Don Graham taught, and in 1946 married Benjamin Worcester, a naval submarine officer.
 
-Scott's animation of the dogs demonstrates her correspondential sight. Swedenborg taught that animals are "correspondences" of human affections—a dog corresponds to "appetite" or "zeal," and in negative sense to destructive lusts.² Scott was not drawing animals pursuing a fawn; she was drawing infernal affections pursuing innocence. Her marriage into the Worcester dynasty placed her within the inner circle of American Swedenborgianism during exactly the years she produced her most celebrated work.
+Scott's animation of the dogs demonstrates her correspondential sight. Swedenborg taught that animals are "correspondences" of human affections—a dog corresponds to "appetite" or "zeal," and in negative sense to destructive lusts.² Scott was not drawing animals pursuing a fawn; she was drawing infernal affections pursuing innocence.
 
 **Mary Blair (1911–1978)**: The stylist responsible for the "Disney Look" of the 1950s (*Cinderella*, *Alice in Wonderland*, *Peter Pan*). Her confirmation into the Swedenborgian Church at the Wayfarers Chapel in 1973 was the culmination of a lifelong affinity, not a late-life conversion.³
 
@@ -583,7 +583,7 @@ The evidence supports the following conclusions:
 
 4. **Literary source material was pre-selected for compatibility.** The fairy tales of Grimm, Andersen, and Carroll—Disney's canonical sources—carried documented Swedenborgian transmission through Schelling, Ørsted, and MacDonald/Maurice. The studio gravitated toward this material because it was structurally compatible with the evolved animation method.
 
-5. **Personnel with Swedenborgian connections achieved positions of authority.** Retta Scott (Worcester dynasty), Mary Blair (confirmed Swedenborgian), Carl Carmer (Burned-Over District historian), and others concentrated in the creative core through differential fit rather than conscious recruitment.
+5. **Personnel with Swedenborgian connections achieved positions of authority.** Retta Scott (correspondential animation of *Bambi*), Mary Blair (confirmed Swedenborgian), Carl Carmer (Burned-Over District historian), and others concentrated in the creative core through differential fit rather than conscious recruitment.
 
 6. **Incompatible material was systematically rejected.** Stories structured on irony, satire, or indifferent environments—*Don Quixote*, *Chanticleer*, *The Odyssey*—failed repeatedly despite internal champions and commercial logic. The selection environment filtered against these because they could not be animated with the studio's evolved tools.
 

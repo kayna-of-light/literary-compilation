@@ -100,13 +100,12 @@ The chapel became a magnet for the creative class of Los Angeles. Snippet eviden
 * **The Confirmation:** Archival records from *The Messenger* (the Swedenborgian Church newsletter) confirm that **"Mrs. Mary Blair was confirmed into the Swedenborgian Church on December 23, 1973, at the Wayfarers Chapel"**.22  
 * **The Aesthetic:** Blair’s art style—characterized by flatness, luminosity, and the emotional color scripting of the environment—is a visual application of Swedenborgian "Influx." In her work, the environment is not a static backdrop but a dynamic spiritual substance that changes to reflect the mood (spirit) of the scene. Her residence in the Palos Verdes area 23 places her physically within the orbit of the Wayfarers community during her most productive years.
 
-### **4.3 Retta Scott and the Worcester Dynasty**
+### **4.3 Retta Scott**
 
-**Retta Scott** (1916–1990), the first woman to receive screen credit as an animator at Disney (famous for the hunting dogs in *Bambi*), provides a genealogical link to the church’s leadership.
+**Retta Scott** (1916–1990), the first woman to receive screen credit as an animator at Disney (famous for the hunting dogs in *Bambi*), trained at the Chouinard Art Institute, where Don Graham taught.
 
-* **The Marriage:** Snippets confirm that Retta Scott married **Benjamin Fessenden Worcester**.7  
-* **The Lineage:** The Worcester family is the "Royal Family" of American Swedenborgianism. **Rev. Thomas Worcester** (1795–1878) was the first pastor of the Boston Society of the New Jerusalem and a massive figure in the church’s history.26 Benjamin Fessenden Worcester was his direct descendant.  
-* **The Implication:** By marrying into the Worcester family, Scott was integrated into the highest echelons of the Swedenborgian community. Her work on *Bambi*—animating the vicious dogs not as biological machines but as manifestations of "terror" and "force"—aligns with the Swedenborgian view of animals as correspondences of human affections.3
+* **The Marriage:** In 1946 Retta Scott married **Benjamin Worcester**, a naval submarine officer, and left the studio.7  
+* **The Work:** Her work on *Bambi*—animating the vicious dogs not as biological machines but as manifestations of "terror" and "force"—aligns with the Swedenborgian view of animals as correspondences of human affections.3
 
 ### **4.4 The Community of Practice: Neighbors and Colleagues**
 

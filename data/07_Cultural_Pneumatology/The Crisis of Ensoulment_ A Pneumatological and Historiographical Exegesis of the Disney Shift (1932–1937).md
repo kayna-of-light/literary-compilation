@@ -85,7 +85,7 @@ Graham used live-action film clips (notably Chaplin and other silent comedians) 
 
 While it is debated whether Walt Disney was a practicing Swedenborgian, the "Cultural Pneumatology" documents 17 strongly suggest that the studio environment acted as a "Secular New Jerusalem" where these ideas were active.
 
-* **Retta Scott**, the first female animator (credited on *Bambi* for the hunting dogs), married into the **Worcester family**, the leading Swedenborgian dynasty in America.17 Her ability to animate the "inner ferocity" of the dogs fits the Graham model perfectly.  
+* **Retta Scott**, the first female animator (credited on *Bambi* for the hunting dogs), trained at Chouinard, where Graham taught. Her ability to animate the "inner ferocity" of the dogs fits the Graham model perfectly.  
 * **Mary Blair**, the stylist for *Cinderella* and *Alice in Wonderland*, was a confirmed member of the Swedenborgian Church.17 Her art style, which prioritized color and mood over rigid perspective, aligns with the Swedenborgian idea that the "state of the soul" dictates the appearance of the world.  
 * **Carl Carmer**, hired as a folklore consultant for *Melody Time* (specifically the "Johnny Appleseed" segment), was an expert on the "Burned-Over District" and American esoteric sects.21 The studio explicitly acknowledged John Chapman's Swedenborgian faith in correspondence.23
 

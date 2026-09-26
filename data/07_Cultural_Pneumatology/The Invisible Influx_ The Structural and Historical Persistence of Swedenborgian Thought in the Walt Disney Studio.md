@@ -119,16 +119,11 @@ Furthermore, the Disney Animation Research Library (ARL) maintains the "Don Grah
 
 The "core ethos" was further cemented by key personnel who had direct, familial, or religious ties to the Swedenborgian church. These were not low-level employees; they were the architects of the Disney style.
 
-### **6.1 Retta Scott and the Worcester Dynasty**
+### **6.1 Retta Scott**
 
 Retta Scott (1916–1990) is celebrated as Disney’s first credited female animator, famous for the terrifying hunting dogs in *Bambi*. Her animation was praised for its raw, visceral power—capturing the "inner beast" rather than just the dog.
 
-A critical genealogical discovery links Scott directly to the heart of American Swedenborgianism. Retta Scott married **Benjamin Fessenden Worcester**.1 The Worcester family is the most prominent Swedenborgian family in American history.
-
-* **Rev. Thomas Worcester** (Benjamin’s ancestor) was the first pastor of the Boston Society of the New Jerusalem and President of the General Convention for decades.  
-* **John Worcester** and others in the family were prolific theologians who wrote commentaries on Swedenborg’s *Arcana Coelestia*.
-
-By marrying into this dynasty, Retta Scott moved within the inner circle of the New Church. This context is vital for understanding her art. Swedenborgianism teaches that animals are "correspondences" of human affections. A dog corresponds to "appetite" or "zeal" (and in a negative sense, distinct lusts). Scott’s ability to animate the *affection* of the dogs—their terrifying, driving will—suggests she was applying a "Worcesterian" way of seeing to her animation.
+Scott trained at the Chouinard Art Institute, where Don Graham taught, and joined the studio's story department in 1938; in 1946 she married Benjamin Worcester, a naval submarine officer, and left the studio. Swedenborgianism teaches that animals are "correspondences" of human affections. A dog corresponds to "appetite" or "zeal" (and in a negative sense, distinct lusts). Scott’s ability to animate the *affection* of the dogs—their terrifying, driving will—shows that correspondential way of seeing at work in her animation.
 
 ### **6.2 Mary Blair: The Confirmed Believer**
 
@@ -219,7 +214,7 @@ Walt Disney did not build a church; he built a studio. But in doing so, he creat
 | Carrier/Vector | Role/Artifact | Swedenborgian Connection | Impact on Studio Ethos |
 | :---- | :---- | :---- | :---- |
 | **Carl Carmer** | Folklore Consultant | Historian of "Burned-Over District"; expert on esoteric sects. | Ensured *Johnny Appleseed* retained New Church theology (Angelology, Charity). |
-| **Retta Scott** | Animator (*Bambi*) | Married into the Worcester Family (US Swedenborgian leaders). | Infused animation with "affective" power; brought "royal" Swedenborgian lineage. |
+| **Retta Scott** | Animator (*Bambi*) | Chouinard-trained; animated affections rather than anatomy. | Infused animation with "affective" power; animals drawn as correspondences of affections. |
 | **Mary Blair** | Art Supervisor | Confirmed Swedenborgian (1973); Palos Verdes resident. | Visualized "Influx" (blurring spirit/nature); defined the "Golden Age" look. |
 | **Don Graham** | Art Instructor | Pedagogy of "Forces vs. Forms" (Action Analysis). | Secularized "Influx" doctrine into technical training. |
 | **Walt Stanchfield** | Instructor/Mentor | *Drawn to Life* lectures; Mentor to Renaissance animators. | Bridge between Golden Age and Modern Era; taught "Inner Force" drawing. |

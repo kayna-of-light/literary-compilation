@@ -7,7 +7,7 @@ However, recent forensic analysis of the production history of the 1948 film *Th
 This report responds to a critical and disruptive query: If the transmission of Swedenborgian thought in *Johnny Appleseed* was active, intentional, and theologically precise, how deep does this current run in the studio's foundation? Was this an isolated instance of historical diligence, or does it point to a "core ethos" that informed the Disney aesthetic and organizational culture from the ground up?  
 To answer this, we must look beyond the surface of the films to the "subtext of the personnel." We must examine the pedagogical philosophies that trained the animators, the architectural spaces that housed their creative communities, and the biographical lineages of the artists themselves. This investigation postulates that the "Disney Style"—the specific method of animating movement to create the "Illusion of Life"—is, in its structural mechanics, a secularized application of the theology of Emanuel Swedenborg (1688–1772).  
 Swedenborg’s "Doctrine of Correspondences" posits that every natural object is the physical manifestation of a spiritual cause; the "natural world" is a theater representing the "spiritual world." This report argues that Walt Disney, in his obsessive quest to solve the "Crisis of Ensoulment"—the technical problem of how to make a series of static drawings appear to have an inner life—actively sought out artists, teachers, and consultants who possessed a vocabulary for the invisible. He found this vocabulary in a network of individuals deeply connected to the Church of the New Jerusalem (Swedenborgianism) and its metaphysical offshoots.  
-From the "Action Analysis" classes of Don Graham, which taught animators to draw the "invisible force" rather than the "visible form," to the direct presence of Swedenborgian royalty in the animation department (Retta Scott Worcester) and the eventual conversion of the studio’s premier stylist (Mary Blair), the evidence suggests that the Disney Studio was not merely a factory for cartoons. It was a laboratory for the industrial application of Swedenborgian metaphysics. The "Magic" was not a marketing term; it was a method.
+From the "Action Analysis" classes of Don Graham, which taught animators to draw the "invisible force" rather than the "visible form," to the correspondential sight of the animator Retta Scott and the eventual conversion of the studio’s premier stylist (Mary Blair), the evidence suggests that the Disney Studio was not merely a factory for cartoons. It was a laboratory for the industrial application of Swedenborgian metaphysics. The "Magic" was not a marketing term; it was a method.
 
 ## **II. The Theoretical Framework: From Mechanics to Metaphysics**
 
@@ -91,19 +91,14 @@ This pedagogy is a secularized reinstatement of Swedenborg’s doctrine of **Inf
 Research snippets link Graham and the Chouinard Art Institute (where he taught) to the broader currents of "Theosophy" and "Metaphysics" prevalent in California art circles at the time. Theosophy, heavily indebted to Swedenborg (via Blavatsky and earlier mystics), preached that thoughts were "things" with shape and color (Thought-Forms).  
 Graham’s classes, often described as "metaphysical" by students , trained Disney animators to see the material world as a shell for spiritual energies. This training primed the entire studio culture to accept stories where internal moral states dictated external physical reality. When an animator drew a storm cloud in *Fantasia* or *Bambi*, they weren't drawing water vapor; they were drawing "anger" or "menace." This is the definition of **Correspondence**. By institutionalizing this training, Disney built a studio that *thought* like Swedenborgians, even if they didn't pray like them.
 
-## **VI. The Carriers: The Worcester Connection and Mary Blair**
+## **VI. The Carriers: Retta Scott and Mary Blair**
 
 The "core ethos" was further cemented by key personnel who had direct, familial, or religious ties to the Swedenborgian church. These were not low-level employees; they were the architects of the Disney style.
 
-### **6.1 Retta Scott and the Worcester Dynasty**
+### **6.1 Retta Scott**
 
 **Retta Scott** (1916–1990) is celebrated as Disney’s first credited female animator, famous for the terrifying hunting dogs in *Bambi*. Her animation was praised for its raw, visceral power—capturing the "inner beast" rather than just the dog.  
-A critical genealogical discovery links Scott directly to the heart of American Swedenborgianism. Retta Scott married **Benjamin Fessenden Worcester**. The **Worcester family** is the most prominent Swedenborgian family in American history.
-
-* **Rev. Thomas Worcester** (Benjamin’s ancestor) was the first pastor of the Boston Society of the New Jerusalem and President of the General Convention for decades.  
-* **John Worcester** and others in the family were prolific theologians who wrote commentaries on Swedenborg’s *Arcana Coelestia*.
-
-By marrying into this dynasty, Retta Scott moved within the inner circle of the New Church. This context is vital for understanding her art. Swedenborgianism teaches that animals are "correspondences" of human affections. A dog corresponds to "appetite" or "zeal" (and in a negative sense, distinct lusts). Scott’s ability to animate the *affection* of the dogs—their terrifying, driving will—suggests she was applying a "Worcesterian" way of seeing to her animation. She wasn't just drawing dogs; she was drawing "infernal affections" in pursuit of innocence (Bambi).
+Scott trained at the Chouinard Art Institute, where Don Graham taught, and joined the studio's story department in 1938; in 1946 she married Benjamin Worcester, a naval submarine officer, and left the studio. Her art is where the connection lies. Swedenborgianism teaches that animals are "correspondences" of human affections. A dog corresponds to "appetite" or "zeal" (and in a negative sense, distinct lusts). Scott’s ability to animate the *affection* of the dogs—their terrifying, driving will—shows that correspondential way of seeing at work in her animation. She wasn't just drawing dogs; she was drawing "infernal affections" in pursuit of innocence (Bambi).
 
 ### **6.2 Mary Blair: The Confirmed Believer**
 
@@ -156,7 +151,7 @@ Through the "Active Seeking" of consultants like Carl Carmer and the "Structural
 | Carrier/Vector | Role/Artifact | Swedenborgian Connection | Impact on Studio Ethos |
 | :---- | :---- | :---- | :---- |
 | **Carl Carmer** | Folklore Consultant (*Melody Time*) | Historian of "Burned-Over District"; expert on esoteric sects. | Ensured *Johnny Appleseed* retained New Church theology (Angelology, Charity); bridged history and folklore. |
-| **Retta Scott** | Animator (*Bambi*) | Married into the **Worcester Family** (US Swedenborgian leaders). | Infused animation with "affective" power; brought "royal" Swedenborgian lineage into the animation department. |
+| **Retta Scott** | Animator (*Bambi*) | Chouinard-trained; animated affections rather than anatomy. | Infused animation with "affective" power; animals drawn as correspondences of affections. |
 | **Mary Blair** | Art Supervisor / Stylist | **Confirmed Swedenborgian** (1973); Palos Verdes resident. | Visualized "Influx" (blurring spirit/nature) in studio style; defined the "Golden Age" look with correspondential aesthetics. |
 | **Don Graham** | Art Instructor | Pedagogy of "Forces vs. Forms" (*Action Analysis*). | Secularized "Influx" doctrine into technical training; taught animators to see "inner force" as the creator of "outer form." |
 | **Lloyd Wright** | Architect | Designer of **Wayfarers Chapel** (Swedenborg Memorial). | Created a physical/spiritual hub for the Disney creative community that validated "Organic/Correspondential" aesthetics. |

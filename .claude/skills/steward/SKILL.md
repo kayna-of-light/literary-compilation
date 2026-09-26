@@ -13,7 +13,7 @@ Guidance for any agent acting on a pull request in this repository: watching CI,
 
 This repository is not code. It is a research corpus — 250 markdown documents synthesizing consciousness studies, Swedenborgian theology, biblical scholarship, and mythological analysis.
 
-Most PRs here come from the nightly source and claim audit ([`docs/NIGHTLY_SOURCE_AUDIT.md`](../../../docs/NIGHTLY_SOURCE_AUDIT.md)). Their diffs are corrections of sources and facts — wrong citations fixed, weak sources replaced with high-quality ones, missing sources added, false facts corrected — plus source-list reformatting and ledger updates. Never notes written into a `data/` document, and never editorial annotations (§§ 3.6a, 3.6b). A "fix" is an editorial judgment about scholarship, not a code change.
+Most PRs here come from the nightly source and claim audit ([`docs/NIGHTLY_SOURCE_AUDIT.md`](../../../docs/NIGHTLY_SOURCE_AUDIT.md)). Their diffs are corrections of sources and facts — wrong citations fixed, weak sources replaced with high-quality ones, missing sources added, false facts corrected — plus source-list reformatting and ledger updates. Never notes written into a `data/` document, and never editorial annotations (§ 3.7). A "fix" is an editorial judgment about scholarship, not a code change.
 
 That changes what unattended pushing means. A bad code fix fails a test. A bad editorial fix quietly misrepresents the corpus and may not be caught for months.
 
@@ -23,7 +23,7 @@ That changes what unattended pushing means. A bad code fix fails a test. A bad e
 
 The one-line version, which does not substitute for reading it:
 
-> This corpus holds a post-materialist position as a hypothesis under test against data. It is not a bias to be corrected away. An **error of record** — a citation that does not exist, a wrong section number, a statistic disagreeing with its dataset — is yours to fix. An **interpretive position** is not, and must never be "corrected" toward a mainstream reading.
+> The corpus's correspondential readings are conclusions derived from the evidence its documents set out — not a bias to be corrected away, and not an optional "stance". An **error of record** — a citation that does not exist, a misquotation, a wrong date or section, a statistic disagreeing with its dataset — is yours to fix. A supported reading is not, and must never be "corrected" toward a mainstream one.
 
 The specific failure to avoid: a reviewer leaves an open-ended note like *"this claim seems strong"* or *"is this well supported?"*, and the response is a hedge, a disclaimer, or a recruited counter-argument. `CLAUDE.md` forbids all three. Reading a comment that way inverts the project's stance while appearing responsive.
 
@@ -40,11 +40,11 @@ When a comment's intent is ambiguous, **ask rather than push**. A reply costs a 
 | "This source is weak / wrong — use X", or a missing or mis-described Works Cited entry | Verify against the primary or high-quality source, then push the replacement |
 | "Add a note / annotate this / flag this in the document" | **Reply, do not push** — even when a reviewer asks for it directly. See below. |
 | "This reading is wrong" / "this overstates" | **Reply, do not push.** Editorial judgment is the author's. |
-| Anything whose correct resolution is not settled by the library | **Reply, do not push.** Log a research question instead. |
+| Anything whose correct resolution is not settled by the library or by high-quality sources | **Reply, do not push.** If it cannot be settled in-session, log a research question (procedure § 5). |
 
-When you do push, keep the audit's own rules (`docs/NIGHTLY_SOURCE_AUDIT.md` § 3.6): the edit is precise — what is wrong and what the correction requires, in the author's voice — and corrections propagate corpus-wide (`grep` the library from several angles).
+When you do push, keep the audit's own rules (`docs/NIGHTLY_SOURCE_AUDIT.md` §§ 3.5–3.6): the edit is precise — what is wrong and what the correction requires, in the author's voice — and corrections propagate corpus-wide (`grep` the library from several angles).
 
-**Never write a note into a `data/` document, and never add an annotation or a strain** — `docs/NIGHTLY_SOURCE_AUDIT.md` §§ 3.6a and 3.6b, which are binding here too. That covers editorial header blocks, inline `[CORRECTION #N]` / `[CRITICAL ANALYSIS #N]` / `[TRACE NEEDED]` markers, and the quieter forms: a parenthetical inside a Works Cited entry recording what you verified, a sentence explaining that a link is dead or a figure stale, a temporal gloss the author did not write. A reader of a curated thesis cannot tell an author's qualification from an agent's marginalia. If a reviewer asks for an annotation, that is a request for a separate editorial act with its own preconditions (the corrected position must already exist in the library) — reply with what you found and let the author make the call; do not push it because you were asked. The findings belong in `docs/audit_ledger.md`, the open questions in `docs/research_questions.md`.
+**Never write a note into a `data/` document, and never add an annotation or a strain** — `docs/NIGHTLY_SOURCE_AUDIT.md` § 3.7, which is binding here too. That covers editorial header blocks, inline `[CORRECTION #N]` / `[CRITICAL ANALYSIS #N]` / `[TRACE NEEDED]` markers, and the quieter forms: a parenthetical inside a Works Cited entry recording what you verified, a sentence explaining that a link is dead or a figure stale, a temporal gloss the author did not write. A reader of a curated thesis cannot tell an author's qualification from an agent's marginalia. If a reviewer asks for an annotation, that is a request for a separate editorial act with its own preconditions (the corrected position must already exist in the library) — reply with what you found and let the author make the call; do not push it because you were asked. The findings belong in `docs/audit_ledger.md`, the open questions in `docs/research_questions.md`.
 
 ## CI
 
@@ -71,4 +71,4 @@ Never, in response to a PR event:
 - Expand the PR beyond what the review asked for
 - Rewrite a document wholesale
 
-The author reviews every PR in this repository. Nothing here needs to be resolved without her.
+The author reviews every PR in this repository.

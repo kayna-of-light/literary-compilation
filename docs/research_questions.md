@@ -2549,10 +2549,10 @@ Is *A Cultural History* the successor of the Genealogical exegesis? If so, the f
 
 **Context**:
 1. **Footnotes left pointing at *Arcana Coelestia*.** The Swedenborg quotation propagated tonight now reads (and is credited to) *Divine Providence* §103, but *A Cultural History*'s notes ¹ (§I) and ⁷ (§4.3) still resolve to its *Arcana Coelestia* Works Cited entry, which has no *Divine Providence* entry.
-2. **Sibling pair.** *A Cultural History* reproduces *The Mechanics of the Soul* §§2–4 almost verbatim, but its §4.4 reads the same evidence as *organic* alignment ("no documented Swedenborg connection"), where *Mechanics* §VII concludes a "deliberate, albeit secularized, adoption". Which is the corpus's current position, and does *Mechanics* need an annotation? (Interpretive — not this audit's call.)
+2. **Sibling pair — answered by the author, 2026-09-26.** The two documents do not conflict in substance: both trace the studio's influx pedagogy to Swedenborg; they differ only on the word "deliberate" for Graham. Author's position: Swedenborg is the core driver, reaching the studio sometimes directly and deliberately (personal choices — e.g. Blair's confirmation) and sometimes indirectly (the Theosophical/New Thought milieu around Chouinard, itself downstream of Swedenborg). Where a Swedenborgian link is documented, the correspondential reading of the work is the expected consequence, not a speculative addition. No annotation needed on either document.
 
 **Research Question**:
-Decide items 1–2; they are ready for the next audit of those documents.
+Item 1 is ready for the next audit of *A Cultural History*.
 
 **Status**: Open
 

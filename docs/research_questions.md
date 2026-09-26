@@ -2493,6 +2493,23 @@ Name the translation actually used for each of items 2–3, and choose whether t
 
 ---
 
+## Logged by the nightly source audit, 2026-09-25
+
+---
+
+### [GDR] Retta Scott and the "Worcester dynasty" — the lineage is in no record
+
+**Priority**: HIGH
+**Related Documents**: `07_Cultural_Pneumatology/` — *The Carriers of the Invisible* §6.1 and table, *The Invisible Influx* §6.1 and table, *The Glass Church and the Magic Mirror* §4.3, *The Architect of the Invisible* §5.2, *The Animating Spirit_ A Cultural History* §6.2 and §9.1, *The Crisis of Ensoulment* §3 ; `00_Master_Theses/The River and the Vessel` l.464
+
+**Findings (2026-09-26)**: Retta Scott's 1946 marriage to Benjamin Worcester, a naval submarine officer, is sourced (Wikipedia citing Ghez, *They Drew as They Pleased*, 2016; D23). His descent from Rev. Thomas Worcester — the basis of the "Worcester dynasty" sections, described in several as "a critical genealogical discovery" — has no source in any document. The WikiTree profile *Cultural History* cites (Scott-22151) lists no spouse and no Worcester ancestry. The Worcester family genealogy (worcesterfamily.com, descendants of Rev. William Worcester) traces Thomas Worcester's line through his sons Benjamin (1824–1911, the Swedenborgian writer), Francis and John into the late twentieth century, and no descendant is Retta Scott's husband. The Swedenborgian Benjamin Worcester is Thomas's son, born 1824 — the probable source of the conflation. *The Mechanics of the Soul* has been corrected (the sentence now states only the sourced marriage).
+
+**Decision needed**: the same correction in the seven documents listed. In most it is not a phrase but a section built on the lineage.
+
+**Status**: Open — awaiting the author's go-ahead for the section rewrites
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

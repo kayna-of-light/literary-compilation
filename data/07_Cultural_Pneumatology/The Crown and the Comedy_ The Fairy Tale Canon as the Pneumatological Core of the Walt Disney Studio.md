@@ -18,7 +18,7 @@ To distinguish the "Core" from the "Peripheral," we must first rigorously define
 
 ### **2.1 The Physics of Ensoulment**
 
-Swedenborgian cosmology posits that the natural world is dead until animated by an influx from the spiritual world. "Action is nothing but the will flowing forth... The body is the obedience".2 In the context of animation, this was translated by Don Graham and Walt Disney into the principle of "Action Analysis": the animator must not draw the *motion* (the external form) but the *emotion* (the internal force) that drives it.
+Swedenborgian cosmology posits that the natural world is dead until animated by an influx from the spiritual world. "The body’s activity in speech or deed is only an effect from the external and internal of man’s spirit, for the body is so much obedience".2 In the context of animation, this was translated by Don Graham and Walt Disney into the principle of "Action Analysis": the animator must not draw the *motion* (the external form) but the *emotion* (the internal force) that drives it.
 
 In the **Fairy Tale Canon**, this principle extends beyond character animation to the environment itself. This is the **Animate Landscape**:
 

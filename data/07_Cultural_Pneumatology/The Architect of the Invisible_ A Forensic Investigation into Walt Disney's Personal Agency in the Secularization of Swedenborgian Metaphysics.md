@@ -80,7 +80,7 @@ In the memo, Walt uses the phrase to argue that the **internal state** (mood/att
 
 * **The Spiritual (Mind/Will):** The realm of Causes.  
 * **The Natural (Body/Action):** The realm of Effects.  
-* **Influx:** Life flows from the internal to the external. As Swedenborg writes in *Arcana Coelestia*: "Action is nothing but the will flowing forth... The body is the obedience".15
+* **Influx:** Life flows from the internal to the external. As Swedenborg writes in *Divine Providence* (§103): "The body’s activity in speech or deed is only an effect from the external and internal of man’s spirit, for the body is so much obedience".15
 
 When Walt commanded his animators to realize that "the mind is the pilot," he was secularizing the Doctrine of Influx. He was teaching them that the drawing (the natural object) has no power of its own; it is dead matter that only moves because a spirit (the mind) flows into it. This distinction—that the body is merely the "obedience" of the mind—is the "secret sauce" of Disney animation. It transformed the animator from a mover of lines to a manipulator of souls.
 
@@ -139,23 +139,11 @@ Carmer was an expert on American esoteric sects; his books covered the **Koresha
 
 **Insight:** By hiring Carmer, Walt Disney was actively seeking deep, esoteric historical context. He wanted the "real stuff." Carmer would have been the primary source for the Swedenborgian details of Johnny Appleseed’s life. His presence ensures that the theological coding in the film was intentional. Walt didn't want a sanitized version of history; he wanted the *spiritual* history of America, and he hired the one man who knew where the bodies (and the tracts) were buried.
 
-### **5.2 Retta Scott and the Worcester Dynasty**
-
-**Retta Scott** (1916–1990) was the first woman to receive screen credit as an animator at Disney, famous for the vicious hunting dogs in *Bambi*.20
-
-Genealogical research reveals a startling connection: Retta Scott married **Benjamin Fessenden Worcester**.15 The Worcester family was the **"Royal Family" of American Swedenborgianism**.
-
-* **Rev. Thomas Worcester:** First pastor of the Boston Society of the New Jerusalem.  
-* **John Worcester:** Prolific Swedenborgian theologian.  
-* **Benjamin Worcester:** Retta's husband, deeply embedded in this lineage.
-
-**Insight:** While Scott was hired before her marriage, her integration into the Worcester family placed her at the center of the studio’s Swedenborgian network. Her ability to animate "the inner beast" (the affection of the dogs) aligns with the Swedenborgian view that animals are correspondences of human affections/lusts. Walt’s promotion of Scott—against the skepticism of male animators—suggests he valued her unique "sight," a way of seeing the internal force of the animal that aligned with the studio's metaphysical goals.
-
-### **5.3 Mary Blair and the Wayfarers Chapel**
+### **5.2 Mary Blair and the Wayfarers Chapel**
 
 **Mary Blair** (née Robinson), the stylist who defined the look of *Cinderella*, *Alice in Wonderland*, and *Peter Pan*, provides the strongest link to institutional Swedenborgianism.
 
-* **Confirmation:** Mary Blair was confirmed into the Swedenborgian Church in 1974\.23  
+* **Confirmation:** Mary Blair was confirmed into the Swedenborgian Church in 1973\.23  
 * **Location:** She lived in Palos Verdes, home of the **Wayfarers Chapel** (The Glass Church).  
 * **Architecture:** The Wayfarers Chapel was designed by **Lloyd Wright** (Frank Lloyd Wright’s son) as a National Memorial to Swedenborg.24 It is a masterpiece of "Organic Architecture," designed to blur the line between the indoors (spirit) and the outdoors (nature)—a physical manifestation of the Doctrine of Correspondences.
 
@@ -211,7 +199,7 @@ The accumulated evidence leads to a definitive conclusion: Walt Disney’s invol
 
 1. **Intentionality:** The *Johnny Appleseed* production proves the studio consciously researched, processed, and encoded Swedenborgian theology. They knew what they were handling and chose to preserve its structure ("Blessings Three") while removing its label.  
 2. **Pedagogy:** The "Action Analysis" training secularized the Doctrine of Influx ("Inner Force driving Outer Form"), turning a theological tenet into an industrial tool. "The mind is the pilot" became the studio’s First Commandment.  
-3. **Personnel:** Walt actively hired and empowered "Carriers" of this tradition—Carl Carmer, Retta Scott, Mary Blair—who embedded the aesthetic and spiritual values of the New Church into the studio's DNA.  
+3. **Personnel:** Walt actively hired and empowered "Carriers" of this tradition—Carl Carmer, Mary Blair—who embedded the aesthetic and spiritual values of the New Church into the studio's DNA.  
 4. **Personal Faith:** Walt’s "Deeds Rather Than Words" essay and his DeMolay background align with the Swedenborgian emphasis on *Use* over *Faith Alone*, creating a "Civil Religion" that was secretly powered by a Swedenborgian engine.
 
 Walt Disney did not build a church; he built a studio. But in doing so, he created a **Secular New Jerusalem**—a "Kingdom of Uses" where art was not for art's sake, but for the sake of evoking "Love and Faith" in the audience. He solved the "Crisis of Ensoulment" by adopting the physics of the spirit. In the Disney cosmos, as in Swedenborg’s, the natural world is nothing but the mirror of the human heart.
@@ -222,8 +210,7 @@ Walt Disney did not build a church; he built a studio. But in doing so, he creat
 | :---- | :---- | :---- | :---- |
 | **Hal Adelquist** | Murdoch Correspondence 7 | Admitted "extensive research" into Chapman's life. | Confirms studio knowledge of sectarian theology. |
 | **Carl Carmer** | Folklore Consultant 18 | Expert on "Burned-Over District" & esoteric sects. | Provided deep historical context for *Appleseed*. |
-| **Retta Scott** | Married Ben Worcester 15 | Married into the "Royal Family" of US Swedenborgianism. | Brought "affective" animation style (*Bambi*). |
-| **Mary Blair** | Confirmed 1974 23 | Member of Wayfarers Chapel (New Church). | Defined "Golden Age" aesthetic (Influx/Color). |
+| **Mary Blair** | Confirmed 1973 23 | Member of Wayfarers Chapel (New Church). | Defined "Golden Age" aesthetic (Influx/Color). |
 | **Walt Disney** | "Deeds Rather Than Words" 1 | Matches Doctrine of Life/Uses. | Established studio's moral/functional ethos. |
 | **Walt Disney** | "Mind is the Pilot" Memo 9 | Matches Doctrine of Influx (Cause/Effect). | Foundation of Disney Animation ("Illusion of Life"). |
 | **Frank Lloyd Wright** | 1939 Studio Visit 28 | Deeply influenced by Swedenborg (via Sullivan). | Validated abstract/organic animation (*Fantasia*). |
@@ -251,14 +238,12 @@ Walt Disney did not build a church; he built a studio. But in doing so, he creat
 17. Carl Carmer \- Wikipedia, accessed on January 29, 2026, [https://en.wikipedia.org/wiki/Carl\_Carmer](https://en.wikipedia.org/wiki/Carl_Carmer)  
 18. AFI|Catalog \- American Film Institute, accessed on January 29, 2026, [https://catalog.afi.com/Catalog/MovieDetails/25636](https://catalog.afi.com/Catalog/MovieDetails/25636)  
 19. Library \- The Koreshans \- mwweb.org, accessed on January 29, 2026, [https://koreshan.mwweb.org/virtual\_exhibit/vex3/toc.htm](https://koreshan.mwweb.org/virtual_exhibit/vex3/toc.htm)  
-20. Retta Scott \- Wikipedia, accessed on January 29, 2026, [https://en.wikipedia.org/wiki/Retta\_Scott](https://en.wikipedia.org/wiki/Retta_Scott)  
-21. Retta Scott \- Disney Wiki \- Fandom, accessed on January 29, 2026, [https://disney.fandom.com/wiki/Retta\_Scott](https://disney.fandom.com/wiki/Retta_Scott)  
-22. Ancestral Trails Genealogy \~ Life in the Past Lane \- Person Page 999, accessed on January 29, 2026, [https://www.ancestraltrails.ca/g1/p999.htm](https://www.ancestraltrails.ca/g1/p999.htm)  
-23. THE MESSENGER \- The Swedenborgian Church of North America, accessed on January 29, 2026, [https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf](https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf)  
-24. Architectural Highlights in Los Angeles \- Frommers, accessed on January 29, 2026, [https://www.frommers.com/destinations/los-angeles/things-to-do/architectural-highlights/](https://www.frommers.com/destinations/los-angeles/things-to-do/architectural-highlights/)  
-25. Filmed at the Chapel · Wayfarers Chapel · Temporarily Closed, accessed on January 29, 2026, [https://www.wayfarerschapel.org/about/filmed-at-the-chapel/](https://www.wayfarerschapel.org/about/filmed-at-the-chapel/)  
-26. Frank Lloyd Wright's Advice To Walt Disney \- Cartoon Brew, accessed on January 29, 2026, [https://www.cartoonbrew.com/ideas-commentary/filmmaking-advice-from-an-unlikely-source-13586.html](https://www.cartoonbrew.com/ideas-commentary/filmmaking-advice-from-an-unlikely-source-13586.html)  
-27. Why Frank Lloyd Wright Disliked Fantasia \- MousePlanet, accessed on January 29, 2026, [https://mouseplanet.com/why-frank-lloyd-wright-disliked-fantasia/2477/](https://mouseplanet.com/why-frank-lloyd-wright-disliked-fantasia/2477/)  
-28. In His Own Words: Frank Lloyd Wright on “Fantasia” | \- Cartoon Research, accessed on January 29, 2026, [https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/](https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/)  
-29. Books That Influenced Disney \- Mouse Planet, accessed on January 29, 2026, [https://www.mouseplanet.com/12803/Books\_That\_Influenced\_Disney](https://www.mouseplanet.com/12803/Books_That_Influenced_Disney)  
-30. Excerpt from The Science of Mind Collection | Penguin Random House Canada, accessed on January 29, 2026, [https://www.penguinrandomhouse.ca/books/354135/the-science-of-mind-collection-by-ernest-holmes/excerpt](https://www.penguinrandomhouse.ca/books/354135/the-science-of-mind-collection-by-ernest-holmes/excerpt)
+20. Ancestral Trails Genealogy \~ Life in the Past Lane \- Person Page 999, accessed on January 29, 2026, [https://www.ancestraltrails.ca/g1/p999.htm](https://www.ancestraltrails.ca/g1/p999.htm)  
+21. THE MESSENGER \- The Swedenborgian Church of North America, accessed on January 29, 2026, [https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf](https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf)  
+22. Architectural Highlights in Los Angeles \- Frommers, accessed on January 29, 2026, [https://www.frommers.com/destinations/los-angeles/things-to-do/architectural-highlights/](https://www.frommers.com/destinations/los-angeles/things-to-do/architectural-highlights/)  
+23. Filmed at the Chapel · Wayfarers Chapel · Temporarily Closed, accessed on January 29, 2026, [https://www.wayfarerschapel.org/about/filmed-at-the-chapel/](https://www.wayfarerschapel.org/about/filmed-at-the-chapel/)  
+24. Frank Lloyd Wright's Advice To Walt Disney \- Cartoon Brew, accessed on January 29, 2026, [https://www.cartoonbrew.com/ideas-commentary/filmmaking-advice-from-an-unlikely-source-13586.html](https://www.cartoonbrew.com/ideas-commentary/filmmaking-advice-from-an-unlikely-source-13586.html)  
+25. Why Frank Lloyd Wright Disliked Fantasia \- MousePlanet, accessed on January 29, 2026, [https://mouseplanet.com/why-frank-lloyd-wright-disliked-fantasia/2477/](https://mouseplanet.com/why-frank-lloyd-wright-disliked-fantasia/2477/)  
+26. In His Own Words: Frank Lloyd Wright on “Fantasia” | \- Cartoon Research, accessed on January 29, 2026, [https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/](https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/)  
+27. Books That Influenced Disney \- Mouse Planet, accessed on January 29, 2026, [https://www.mouseplanet.com/12803/Books\_That\_Influenced\_Disney](https://www.mouseplanet.com/12803/Books_That_Influenced_Disney)  
+28. Excerpt from The Science of Mind Collection | Penguin Random House Canada, accessed on January 29, 2026, [https://www.penguinrandomhouse.ca/books/354135/the-science-of-mind-collection-by-ernest-holmes/excerpt](https://www.penguinrandomhouse.ca/books/354135/the-science-of-mind-collection-by-ernest-holmes/excerpt)

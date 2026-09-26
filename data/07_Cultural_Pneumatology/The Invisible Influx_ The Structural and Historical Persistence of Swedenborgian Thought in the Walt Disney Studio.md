@@ -31,7 +31,7 @@ Emanuel Swedenborg’s theology offered a precise mechanism for this problem. Sw
 * **The Spiritual (Cause):** The realm of Will, Affection, and Thought.  
 * **The Natural (Effect):** The realm of Body, Action, and Form.
 
-The mechanism is explicit: Life flows from the Spiritual into the Natural. The body does not move itself; the spirit moves the body. Therefore, the shape of the body and its actions are "correspondences" of the spirit within. Swedenborg wrote in *Arcana Coelestia*: "Action is nothing but the will flowing forth... The body is the obedience".1
+The mechanism is explicit: Life flows from the Spiritual into the Natural. The body does not move itself; the spirit moves the body. Therefore, the shape of the body and its actions are "correspondences" of the spirit within. Swedenborg wrote in *Divine Providence* (§103): "The body’s activity in speech or deed is only an effect from the external and internal of man’s spirit, for the body is so much obedience".1
 
 For an animator facing the Crisis of Ensoulment, this is the Holy Grail. To make a drawing look alive, one must not draw the body moving; one must draw the *affection* (the spiritual cause) that results in the body moving. This alignment of artistic necessity with theological doctrine created a vacuum at the Disney Studio that pulled in Swedenborgian thinkers and methods. The studio began to actively seek out anyone who could teach this principle of "Inner Force driving Outer Form."
 
@@ -119,32 +119,21 @@ Furthermore, the Disney Animation Research Library (ARL) maintains the "Don Grah
 
 The "core ethos" was further cemented by key personnel who had direct, familial, or religious ties to the Swedenborgian church. These were not low-level employees; they were the architects of the Disney style.
 
-### **6.1 Retta Scott and the Worcester Dynasty**
+### **6.1 Mary Blair: The Confirmed Believer**
 
-Retta Scott (1916–1990) is celebrated as Disney’s first credited female animator, famous for the terrifying hunting dogs in *Bambi*. Her animation was praised for its raw, visceral power—capturing the "inner beast" rather than just the dog.
-
-A critical genealogical discovery links Scott directly to the heart of American Swedenborgianism. Retta Scott married **Benjamin Fessenden Worcester**.1 The Worcester family is the most prominent Swedenborgian family in American history.
-
-* **Rev. Thomas Worcester** (Benjamin’s ancestor) was the first pastor of the Boston Society of the New Jerusalem and President of the General Convention for decades.  
-* **John Worcester** and others in the family were prolific theologians who wrote commentaries on Swedenborg’s *Arcana Coelestia*.
-
-By marrying into this dynasty, Retta Scott moved within the inner circle of the New Church. This context is vital for understanding her art. Swedenborgianism teaches that animals are "correspondences" of human affections. A dog corresponds to "appetite" or "zeal" (and in a negative sense, distinct lusts). Scott’s ability to animate the *affection* of the dogs—their terrifying, driving will—suggests she was applying a "Worcesterian" way of seeing to her animation.
-
-### **6.2 Mary Blair: The Confirmed Believer**
-
-Mary Blair (née Robinson) is the stylist responsible for the "Disney Look" of the 1950s (*Cinderella, Alice in Wonderland, Peter Pan*). While previous research noted her confirmation into the Swedenborgian Church in 1974 1, the timeline suggests this was the culmination of a lifelong affinity.
+Mary Blair (née Robinson) is the stylist responsible for the "Disney Look" of the 1950s (*Cinderella, Alice in Wonderland, Peter Pan*). While previous research noted her confirmation into the Swedenborgian Church in 1973 1, the timeline suggests this was the culmination of a lifelong affinity.
 
 * **The Appleseed Nexus:** Blair was the Art Supervisor for *Johnny Appleseed* in 1948\. She worked directly on the film that Carmer advised on and Murdoch critiqued. Her visual design for the film—where the boundary between the natural and spiritual worlds is non-existent (clouds becoming apple blossoms, Johnny walking into the sky)—is pure "Influx."  
 * **The Palos Verdes Community:** Blair lived in the artist colony of Palos Verdes. This was the site of the **Wayfarers Chapel**, the "Glass Church" designed by Lloyd Wright (Frank Lloyd Wright's son) as a national memorial to Swedenborg.  
-* **Aesthetic Alignment:** Blair’s art rejects Renaissance perspective (which emphasizes the material separation of objects) in favor of flatness and color (which emphasizes emotional/spiritual state). Her conversion in 1974 at the Wayfarers Chapel was likely the formalization of the worldview she had been painting for Disney for thirty years.
+* **Aesthetic Alignment:** Blair’s art rejects Renaissance perspective (which emphasizes the material separation of objects) in favor of flatness and color (which emphasizes emotional/spiritual state). Her conversion in 1973 at the Wayfarers Chapel was likely the formalization of the worldview she had been painting for Disney for thirty years.
 
-### **6.3 Walt Stanchfield: The Bridge to the Renaissance**
+### **6.2 Walt Stanchfield: The Bridge to the Renaissance**
 
 Following the retirement of the original "Nine Old Men," the continuity of the Swedenborgian substrate was maintained by **Walt Stanchfield** (1919–2000). Stanchfield, a veteran animator, took over the training program in the 1970s and 80s. His lecture notes, compiled in the volumes *Drawn to Life*, explicitly use metaphysical language to teach animation.
 
 Stanchfield wrote about the "Metaphysical Side" of drawing, urging students to "draw verbs, not nouns".9 This is a linguistic application of correspondence: a noun is a static object (Natural), a verb is an action/will (Spiritual). He taught the new generation—**Glen Keane, Brad Bird, John Lasseter**—that their job was to capture the "inner force" or "essence" of the character.6 Stanchfield acted as the bridge, ensuring that the "Action Analysis" philosophy (secularized Swedenborgianism) was transmitted to the artists who would create the Disney Renaissance (*The Little Mermaid, Beauty and the Beast, The Lion King*).
 
-### **6.4 Glen Keane: Sculpting the Soul**
+### **6.3 Glen Keane: Sculpting the Soul**
 
 Glen Keane, the star animator of the Renaissance (Ariel, Beast, Aladdin, Tarzan, Rapunzel), is the most direct inheritor of this lineage. Keane frequently cites Stanchfield as his mentor, stating that Stanchfield taught him to "draw the feeling" and that "the eyes are the window to the soul".12
 
@@ -209,7 +198,7 @@ The evidence leads to a definitive conclusion: Swedenborgian thought is not a pe
 
 1. **Intentionality:** The *Johnny Appleseed* correspondence proves the studio knowingly engaged with and encoded Swedenborgian theology.  
 2. **Pedagogy:** Don Graham’s "Action Analysis" and Walt Stanchfield's "Drawn to Life" lectures secularized the Doctrine of Influx ("Inner Force driving Outer Form"), turning a theological tenet into an industrial tool. This pedagogy was passed down to the leaders of the Disney Renaissance (Keane, Lasseter) and remains active in modern training programs.  
-3. **Lineage:** Key artists (Scott, Blair) had direct ties to the Swedenborgian church, ensuring the "visual language" of the studio aligned with its "pedagogical language."  
+3. **Lineage:** Key artists such as Mary Blair had direct ties to the Swedenborgian church, ensuring the "visual language" of the studio aligned with its "pedagogical language."  
 4. **Continuity:** The modern era continues this tradition through "Cultural Trusts" and narratives (*Frozen II*, *Encanto*, *Wish*) that explicitly dramatize the relationship between Spirit and Matter, often utilizing new technologies (AI) to better simulate "living" nature.
 
 Walt Disney did not build a church; he built a studio. But in doing so, he created a "Secular New Jerusalem"—a "Kingdom of Uses" where art was not for art's sake, but for the sake of evoking "Love and Faith" in the audience. He solved the Crisis of Ensoulment by adopting the physics of the spirit. In the Disney cosmos, as in Swedenborg’s, the natural world is nothing but the mirror of the human heart.
@@ -219,8 +208,7 @@ Walt Disney did not build a church; he built a studio. But in doing so, he creat
 | Carrier/Vector | Role/Artifact | Swedenborgian Connection | Impact on Studio Ethos |
 | :---- | :---- | :---- | :---- |
 | **Carl Carmer** | Folklore Consultant | Historian of "Burned-Over District"; expert on esoteric sects. | Ensured *Johnny Appleseed* retained New Church theology (Angelology, Charity). |
-| **Retta Scott** | Animator (*Bambi*) | Married into the Worcester Family (US Swedenborgian leaders). | Infused animation with "affective" power; brought "royal" Swedenborgian lineage. |
-| **Mary Blair** | Art Supervisor | Confirmed Swedenborgian (1974); Palos Verdes resident. | Visualized "Influx" (blurring spirit/nature); defined the "Golden Age" look. |
+| **Mary Blair** | Art Supervisor | Confirmed Swedenborgian (1973); Palos Verdes resident. | Visualized "Influx" (blurring spirit/nature); defined the "Golden Age" look. |
 | **Don Graham** | Art Instructor | Pedagogy of "Forces vs. Forms" (Action Analysis). | Secularized "Influx" doctrine into technical training. |
 | **Walt Stanchfield** | Instructor/Mentor | *Drawn to Life* lectures; Mentor to Renaissance animators. | Bridge between Golden Age and Modern Era; taught "Inner Force" drawing. |
 | **Hal Adelquist** | Production Manager | Correspondence with Florence Murdoch. | Articulated the studio's "Active Seeking" of religious authenticity. |
@@ -238,7 +226,7 @@ This "Active Substrate" ensures that whenever a Disney artist tries to make a ch
 3. Disney's Johnny Appleseed Swedenborgian Inquiry, [The Apple and the Angel_ An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's The Legend of Johnny Appleseed.md](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure,%20Translation,%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney's%20The%20Legend%20of%20Johnny%20Appleseed.md)  
 4. Animation Area Courses \- NYU Tisch, accessed on January 29, 2026, [http://tisch.nyu.edu/film-tv/animation-area/animation-courses.html](http://tisch.nyu.edu/film-tv/animation-area/animation-courses.html)  
 5. How to Train an Animator \- Gurney Journey, accessed on January 29, 2026, [http://gurneyjourney.blogspot.com/2014/07/how-to-train-animator.html](http://gurneyjourney.blogspot.com/2014/07/how-to-train-animator.html)  
-6. Drawn to Life 20 Golden Years of Disney Master Classes Volume 1 The Walt Stanchfield Lectures 9781032104430, 9781032104416, 9781003215363 \- DOKUMEN.PUB, accessed on January 29, 2026, [https://dokumen.pub/drawn-to-life-20-golden-years-of-disney-master-classes-volume-1-the-walt-stanchfield-lectures-9781032104430-9781032104416-9781003215363.html](https://dokumen.pub/drawn-to-life-20-golden-years-of-disney-master-classes-volume-1-the-walt-stanchfield-lectures-9781032104430-9781032104416-9781003215363.html)  
+6. Stanchfield, Walt. *Drawn to Life: 20 Golden Years of Disney Master Classes*. Vol. 1, *The Walt Stanchfield Lectures*. Edited by Don Hahn. 2nd ed. Boca Raton, FL: CRC Press, 2024.  
 7. assembling-movement-scientific-motion-analysis-and-studio-animation-practice.pdf, accessed on January 29, 2026, [https://odradeksjourney.files.wordpress.com/2018/02/assembling-movement-scientific-motion-analysis-and-studio-animation-practice.pdf](https://odradeksjourney.files.wordpress.com/2018/02/assembling-movement-scientific-motion-analysis-and-studio-animation-practice.pdf)  
 8. Art Babbitt – babbittblog \- RSSing.com, accessed on January 29, 2026, [https://babbittblog4.rssing.com/chan-21186048/all\_p1.html](https://babbittblog4.rssing.com/chan-21186048/all_p1.html)  
 9. Drawn to Life: 20 Golden Years of Disney Master Classes: Two Volume Set: The Walt Stanchfield Lectures \- Routledge, accessed on January 29, 2026, [https://www.routledge.com/Drawn-to-Life-20-Golden-Years-of-Disney-Master-Classes-Two-Volume-Set-The-Walt-Stanchfield-Lectures/Stanchfield-Hahn/p/book/9781032494814](https://www.routledge.com/Drawn-to-Life-20-Golden-Years-of-Disney-Master-Classes-Two-Volume-Set-The-Walt-Stanchfield-Lectures/Stanchfield-Hahn/p/book/9781032494814)  

@@ -150,7 +150,7 @@ The "Cloud Castle" in *Snow White* represents creation evidence: it does not app
 |--------|---------|---------------|
 | Hal Adelquist | Assistant Director on *Snow White* (1937); Story Department Manager and Swedenborgian correspondent (1948) | Production credits; archival correspondence |
 | Retta Scott | Married Benjamin Worcester (prominent Swedenborgian family) | Marriage record |
-| Mary Blair | Confirmed into Swedenborgian Church at Wayfarers Chapel (1974) | Church records |
+| Mary Blair | Confirmed into Swedenborgian Church at Wayfarers Chapel (1973) | Church records |
 | Arthur Adelquist (Hal's father) | Swedish immigrant family in Iowa; Iowa had one Swedenborgian congregation (Jasper Colony) | Census records; church histories |
 
 **Independence**: This evidence derives from genealogical and institutional records, not from narrative analysis or pedagogical materials. It is independent of other evidence lines.

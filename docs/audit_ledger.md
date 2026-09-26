@@ -85,7 +85,7 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 | **Document** | Path relative to `data/` |
 | **Why** | Why this document was chosen — a few words is enough |
 | **Sources** | Citations verified / total found |
-| **Corrections** | Fixed in place (F) — corrected citations, replaced or added sources, completed Works Cited entries, corrected facts, source-list reformats (procedure § 3.6). Nothing is annotated and no note about the audit is ever written into the document (§§ 3.6a, 3.6b). Findings that did not become edits go in this column too, marked as left alone, with why. |
+| **Corrections** | Fixed in place (F) — corrected citations, replaced or added sources, completed Works Cited entries, corrected facts, source-list rebuilds (procedure §§ 3.5–3.6). Nothing is annotated and no note about the audit is ever written into the document (§ 3.7). Anything that could not be settled goes in this column too, with what was searched (§ 5). |
 | **Propagated** | Files outside the batch that received the same correction |
 | **Open** | Research questions logged |
 | **Outcome** | `in-progress` · `clean` · `corrected` · `partial` · `blocked` · `released` |
@@ -94,7 +94,7 @@ Batch selection is the run's own judgment (procedure § 2), so **Why** is not op
 
 Rows are append-only — a later correction to a row goes in a new row, never by editing history. The one exception is flipping `in-progress` to a final outcome at the end of the run that claimed it.
 
-A document counts as audited only after a **complete** read and source pass — and "complete" means the *entire* Works Cited list is brought into line with `docs/BIBLIOGRAPHY_STANDARDS.md`, not just the entries behind whichever claims got fact-checked that night (procedure § 3.4b). A document with five verified claims and ten untouched Scribd/Reddit citations is `partial`, never `corrected`. Files touched solely by correction propagation appear in the **Propagated** column of the row that caused them; they are not audited and stay in the queue.
+A document counts as audited only after a **complete** read and source pass — and "complete" means the *entire* Works Cited list is brought into line with `docs/BIBLIOGRAPHY_STANDARDS.md`, not just the entries behind whichever claims got fact-checked that night, and every entry *traced* — who wrote it and what it rests on (procedure §§ 3.3, 3.6). A document with five verified claims and ten untouched Scribd/Reddit citations is `partial`, never `corrected`. Files touched solely by correction propagation appear in the **Propagated** column of the row that caused them; they are not audited and stay in the queue.
 
 **`in-progress` rows are claims.** A run writes them and pushes before auditing, so a session that dies leaves a visible trace instead of silently losing its work. A claim older than 48 hours with no open PR is a dead run: release those documents back to the queue with a `released` row and note the dead branch in the run log. Never resume someone else's claim — you cannot know how far it got.
 

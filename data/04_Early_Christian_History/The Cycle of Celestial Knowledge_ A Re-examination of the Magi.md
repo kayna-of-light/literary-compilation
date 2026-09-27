@@ -2,11 +2,10 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
-> - **#6** [Magi and Daniel Historicity](../03_Biblical_Scholarship/The%20Danielic%20Synthesis_%20A%20Critical%20Historiographical%20and%20Theological%20Analysis%20of%20the%20Babylonian%20Court%20Narratives%20and%20the%20Persian%20Acculturation%20of.md) — Section 4 titles Daniel as *Rab-mag*; the biblical text assigns Daniel the titles *Rab-signīn* (Dan 2:48) and *Rab-hartummin* (Dan 4:9). *Rab-mag* appears only in Jeremiah 39 for Nergal-sharezer.
 > - **#15** [Magi Narrative as Theological Construct](../04_Early_Christian_History/The%20Celestial%20Synthesis%20and%20the%20Forensic%20Gaze_%20A%20Re-Evaluation%20of%20the%20Magi%20Narrative%20as%20Theological%20Construct%20and%20Geopolitical%20Reaction.md) — The document's framing of the Magi's journey to Bethlehem treats it as spiritually significant history. Critical analysis: Matthew 2 is a theological construct (c. 80-90 CE) using bricolage to fill Proto-Luke's vacuum, counter Marcion, and subvert the Tiridates-Nero spectacle.
 > - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The%20Bifurcated%20Gnosis_%20The%20Bene%20Qedem,%20the%20Magian%20Institution,%20and%20the%20Isaac-Ishmael%20Dialectic%20in%20the%20Transmission%20of%20the%20Ancient%20Word.md) — This document foregrounds the Magi as inheritors of pristine correspondential science; current position treats the *Bene Qedem* ("Children of the East") as primary carriers, with the Magi as a later institutional layer.
 > 
-> **Summary**: (1) Correct Daniel's title; (2) note Magi narrative is theological construct, not historical chronicle; (3) reframe "Magi as inheritors" → "Bene Qedem as primary carriers."
+> **Summary**: (1) Note Magi narrative is theological construct, not historical chronicle; (2) reframe "Magi as inheritors" → "Bene Qedem as primary carriers."
 > ---
 
 ### **Introduction: From Historical Puzzle to Spiritual Paradigm**
@@ -47,14 +46,10 @@ The pre-Zoroastrian religion of the Iranians had devolved into a polytheistic sy
 
 Zarathushtra was a master of the ancient science who sought to rescue it from idolatry. The Magi, as the established priestly class of Western Iran, became the institutional guardians of this restored wisdom. They adopted his purified theology and integrated it into their ancient ritual framework, becoming the vessel that would preserve this reformed knowledge for centuries.
 
-### **4\. The Prophetic Restoration: Daniel as the New Rab-mag**
-
-> **[CRITICAL ANALYSIS #6]** The section title and text incorrectly designate Daniel as "Rab-mag." The biblical text assigns Daniel the titles *Rab-signīn* (Chief Prefect, Dan 2:48) and *Rab-hartummin* (Chief of Magicians, Dan 4:9). The title *Rab-mag* appears only in Jeremiah 39:3, 39:13 for Nergal-sharezer, not Daniel. Greek translations rendered these distinct titles generically as *magoi*, causing later conflation.
+### **4\. The Prophetic Restoration: Daniel as the New Rab-signīn**
 
 In this state of spiritual darkness, a divine intervention was necessary to restore the lost knowledge. This restoration came through the prophet Daniel. When Daniel was taken into exile in Babylon, he entered a court dominated by "wise men" who practiced a corrupted form of divination. They were unable to interpret King Nebuchadnezzar's dream because their knowledge was merely external; they had lost the key to its inner meaning.  
 Daniel, however, possessed true perception. He understood that genuine wisdom comes not from manipulating external signs, but from a direct connection to God. By revealing both the dream and its meaning, Daniel demonstrated the power of the restored Science of Correspondences. His subsequent appointment as *Rab-signīn* (Chief Prefect) over the wise men was therefore not just a political promotion but a spiritual one. It symbolized the reintroduction of divine truth into the heart of a system that had fallen into error.
-
-> **[CRITICAL ANALYSIS #6]** NOTE: The original text used "Rab-mag." The biblical text assigns Daniel the title *Rab-signīn* (Dan 2:48), not *Rab-mag* (which refers to Nergal-sharezer in Jeremiah 39).
 
 Daniel's leadership over the wise men would have created a new spiritual lineage. For generations, his prophecies and his understanding of the one true God would have been preserved and passed down within this influential order. He was, in essence, replanting the seeds of the ancient wisdom, preparing a remnant of the wise men who could once again read the signs of the heavens with true spiritual understanding.
 

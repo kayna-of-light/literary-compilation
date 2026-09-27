@@ -143,6 +143,7 @@ Correct, in the fewest words that make the text true, **in the author's voice an
 | Claim false, or reaching past its sources | Correct or narrow it to what the sources support — never by adding a hedge. |
 | A section built on a false fact | Rewrite the section to what the sources support, keeping the author's argument wherever it survives the correction. (The Retta Scott "Worcester dynasty" sections, corrected 2026-09-26, are the model: the lineage went, the correspondential reading of her work stayed.) |
 | Superseded conceptual position (another library document has moved past it) | Not this job's edit — see § 3.7. |
+| An existing editorial annotation flags an error of record the audit can fix | Fix the error, then remove that annotation (inline notes, header bullet, summary item) — see § 3.7. |
 
 ### 3.6 Rebuild the source list
 
@@ -159,6 +160,8 @@ One section, in the format the Master Theses use (`data/00_Master_Theses/`; a fi
 No note of any kind goes into a `data/` document: no editorial header block, no `[CORRECTION]`/`[EVOLVED]`/`[CRITICAL ANALYSIS]` note, no `[TRACE NEEDED]` marker (this job overrides the marker mentioned in `CLAUDE.md` and `BIBLIOGRAPHY_STANDARDS.md` — untraced claims are resolved or go to the ledger), no parenthetical recording what was checked, no "at the time of this analysis" gloss, no sentence explaining that a link is dead. A reader of a curated report cannot tell an author's qualification from an audit's marginalia.
 
 The editorial annotation system (`EDITORIAL_ANNOTATION_MANUAL.md`, `EVOLVING_CONCEPTUAL_STRAINS.md`) records where the corpus's *own conceptual position* has moved, as established by another library document. This job does not add annotations, does not open strains and does not edit that file. If a document looks as if it needs one, say so in the ledger for the author.
+
+**Resolving an existing annotation is allowed, and expected.** When an annotation already in a document flags an error the audit can correct — a wrong title, name, date, citation or fact — make the correction in the text and then remove the annotation that pointed at it: the inline note(s), its bullet in the header block, and its item in the header's summary line (renumbering what remains). If that empties the header block, remove the block. An annotation whose error has been corrected is no longer true, and leaving it in place tells the reader the text is still wrong. Only remove the notes the correction actually resolves; notes on other strains stay. Record the removal in the ledger row. (Model: *The Luminous Science* and *The Cycle of Celestial Knowledge*, 2026-09-27 — the "Rab-mag" headings renamed to *Rab-signīn* and every strain #6 note removed.)
 
 ---
 
@@ -265,7 +268,7 @@ If no PR tooling is available, the pushed branch is the deliverable: send `https
 ## Out of bounds
 
 - Writing any note, marker, aside or audit record into a `data/` document (§ 3.7)
-- Adding annotations or strains, or editing `EVOLVING_CONCEPTUAL_STRAINS.md`
+- Adding annotations or strains, or editing `EVOLVING_CONCEPTUAL_STRAINS.md` (removing an annotation the audit has resolved is allowed — § 3.7)
 - Correcting a supported reading toward a mainstream one, or adding hedges (§ 0)
 - Running `scripts/mirror_library_to_drive.py`, or `scripts/rename_to_titles.py --apply`; moving, renaming or reclassifying files
 - Editing `CLAUDE.md`, or any repository other than `literary-compilation`

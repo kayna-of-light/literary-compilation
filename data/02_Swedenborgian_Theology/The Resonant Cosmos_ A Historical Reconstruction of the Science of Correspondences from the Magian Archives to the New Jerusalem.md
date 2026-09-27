@@ -4,11 +4,10 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
-> - **#6** [Magi and Daniel Historicity](../03_Biblical_Scholarship/The%20Danielic%20Synthesis_%20A%20Critical%20Historiographical%20and%20Theological%20Analysis%20of%20the%20Babylonian%20Court%20Narratives%20and%20the%20Persian%20Acculturation%20of.md) — Section I refers to "Daniel, the *Rab-mag*"; the biblical text assigns Daniel the titles *Rab-signīn* (Dan 2:48) and *Rab-hartummin* (Dan 4:9). *Rab-mag* appears only in Jeremiah 39 for Nergal-sharezer.
 > - **#11** [Correspondence as Ontology (Not Invented, But Transmitted)](../02_Swedenborgian_Theology/The%20Epistemic%20Architecture%20of%20Post-Materialist%20Inquiry_%20A%20Methodological%20Thesis%20on%20Hypothesis-Testing%20with%20the%20Swedenborgian%20Framework.md) — The document frames correspondence as "lost" and "recovered" via transmission chains, which is **correct**. Correspondence is ontological law (the Magi did not invent it), but transmission still occurred. The 30,000-year consistency demonstrates fidelity in transmission chains, not independent discovery.
 > - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The%20Bifurcated%20Gnosis_%20The%20Bene%20Qedem,%20the%20Magian%20Institution,%20and%20the%20Isaac-Ishmael%20Dialectic%20in%20the%20Transmission%20of%20the%20Ancient%20Word.md) — This document frames the recovery of correspondential wisdom as tracing from "Magian archives"; current position treats the *Bene Qedem* as primary carriers, with the Magian priesthood as later institutionalizers.
 > 
-> **Summary**: (1) Correct Daniel's title from *Rab-mag* to *Rab-signīn*/*Rab-hartummin*; (2) the correction concerns WHO originated (Bene Qedem / deep antiquity) vs WHO institutionalized (Magi); transmission IS real.
+> **Summary**: The correction concerns WHO originated (Bene Qedem / deep antiquity) vs WHO institutionalized (Magi); transmission IS real.
 > ---
 
 ## **I. Introduction: The Epistemological Fracture and the Search for the Ancient Word**
@@ -21,9 +20,7 @@ The historical trajectory of this "knowledge of correspondences" is not a linear
 
 > **[REFRAMING #11]**: This "loss → preservation → recovery" framing is **largely correct**. Correspondence is ontological law (the Magi did not invent it), but transmission still occurred. In the Adamic/Golden Age, correspondence was intuitively perceived—language and culture carried it naturally. As ruling love shifted and language drifted, intuitive access declined, necessitating explicit codification into transmissible knowledge. The 30,000-year consistency demonstrates **fidelity of transmission chains** extending back to when intuitive perception was still operative—not "independent discovery" by zero-contact cultures.
 
-This research report endeavors to trace the surviving currents of this lost tradition. It argues that the "Science of Correspondences" was the shared intellectual heritage of the ancient Iranian and Semitic worlds, a "wisdom tradition" that profoundly shaped the literary strata of the Hebrew Bible and the theology of the New Testament. By triangulating the extant summaries of the lost Magian texts, the nature-wisdom of the Solomonic era (preserved in the Yahwist source), the ritual taxonomies of the Priestly source, and the "shadow vs. reality" ontology of the Epistle to the Hebrews, we can reconstruct the contours of this submerged science. Furthermore, this analysis posits that the Babylonian Exile served as the critical historical conduit for this transmission, personified in the figure of Daniel, the *Rab-mag*, who bridged the gap between the prophetic revelation of Yahweh and the cosmological science of the Magi.
-
-> **[CRITICAL ANALYSIS #6]** The designation "Daniel, the *Rab-mag*" is incorrect. The biblical text assigns Daniel the titles *Rab-signīn* (Chief Prefect, Dan 2:48) and *Rab-hartummin* (Chief of Magicians, Dan 4:9). The title *Rab-mag* appears only in Jeremiah 39:3, 39:13 for Nergal-sharezer. Greek translations rendered these distinct titles generically as *magoi*, causing later conflation.
+This research report endeavors to trace the surviving currents of this lost tradition. It argues that the "Science of Correspondences" was the shared intellectual heritage of the ancient Iranian and Semitic worlds, a "wisdom tradition" that profoundly shaped the literary strata of the Hebrew Bible and the theology of the New Testament. By triangulating the extant summaries of the lost Magian texts, the nature-wisdom of the Solomonic era (preserved in the Yahwist source), the ritual taxonomies of the Priestly source, and the "shadow vs. reality" ontology of the Epistle to the Hebrews, we can reconstruct the contours of this submerged science. Furthermore, this analysis posits that the Babylonian Exile served as the critical historical conduit for this transmission, personified in the figure of Daniel, the *Rab-signīn*, who bridged the gap between the prophetic revelation of Yahweh and the cosmological science of the Magi.
 
 > **[CORRECTION #18]**: This framing treats “lost Magian texts / Magian archives” as the primary inheritance-stream of correspondential wisdom. Current synthesis distinguishes the *Bene Qedem* (“Children of the East”) as primary carriers of a pre-institutional correspondential “nature wisdom,” with the Magian priesthood functioning as a later institutional layer that codified and (in places) appropriated that prior wisdom.
 
@@ -180,8 +177,6 @@ The historical pivot point for the transmission of this "knowledge of correspond
 
 ### **Daniel as Rab-hartummin: The Master of Correspondences**
 
-> **[CRITICAL ANALYSIS #6]** NOTE: The original section title used *Rab-mag*, which is incorrect. The biblical text assigns Daniel the titles *Rab-signīn* (Chief Prefect, Dan 2:48) and *Rab-hartummin* (Chief of Magicians, Dan 4:9). The title *Rab-mag* appears only in Jeremiah 39:3, 39:13 for Nergal-sharezer. Greek translations rendered all such terms generically as *magoi*, causing later conflation.
-
 The Book of Daniel is explicit about the education of the Jewish exiles. Daniel and his companions were trained in the "learning and tongue of the Chaldeans" (Dan 1:4).36 This "Chaldean learning" was not merely literature; it was the entire corpus of Mesopotamian science, which included:
 
 * **The Enuma Anu Enlil:** The great series of celestial omens.  
@@ -190,8 +185,6 @@ The Book of Daniel is explicit about the education of the Jewish exiles. Daniel 
 * **Dream Interpretation:** The science of reading the "night vision."
 
 Daniel's aptitude in these sciences leads King Nebuchadnezzar to appoint him *Rab-signīn* (Chief Prefect) over all the wise men of Babylon (Dan 2:48; 5:11).1 This title is of immense historical significance. It places a Jewish prophet at the head of the official Babylonian scholarly caste.
-
-> **[CRITICAL ANALYSIS #6]** NOTE: The original text incorrectly used *Rab-mag*. Daniel was appointed *Rab-signīn* (Chief Prefect), not *Rab-mag* (which refers to Nergal-sharezer in Jeremiah 39).
 
 As *Rab-signīn*, Daniel would have had access to the royal archives, including the *Damdat Nask* and the libraries of Babylon. He represents the synthesis of the *prophetic* tradition (direct revelation from YHWH) and the *sapiential* tradition (interpreting the signs of nature/history). The "wisdom" of Daniel is the ability to read "correspondences"—to see a statue and understand the succession of empires (Dan 2), or to see a tree and understand the judgment of a king (Dan 4). He does not reject the Chaldean science; he perfects it. He shows that the true "Revealer of Mysteries" is the God of Heaven, but he uses the language of the wise men (dreams, statues, beasts) to communicate that revelation.
 

@@ -2,11 +2,10 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-27
 > 
 > This document reflects **earlier understanding** on:
-> - **#6** [Magi and Daniel Historicity](../03_Biblical_Scholarship/The%20Danielic%20Synthesis_%20A%20Critical%20Historiographical%20and%20Theological%20Analysis%20of%20the%20Babylonian%20Court%20Narratives%20and%20the%20Persian%20Acculturation%20of.md) — Part II refers to "Daniel, the Rab-mag"; the biblical text assigns Daniel the titles *Rab-signīn* (Dan 2:48) and *Rab-hartummin* (Dan 4:9). *Rab-mag* appears only in Jeremiah 39 for Nergal-sharezer.
 > - **#15** [Magi Narrative as Theological Construct](../04_Early_Christian_History/The%20Celestial%20Synthesis%20and%20the%20Forensic%20Gaze_%20A%20Re-Evaluation%20of%20the%20Magi%20Narrative%20as%20Theological%20Construct%20and%20Geopolitical%20Reaction.md) — The document treats the Magi's journey to Bethlehem as spiritually significant history. Critical analysis: Matthew 2 is a theological construct (c. 80-90 CE) using bricolage to fill Proto-Luke's vacuum, counter Marcion, and subvert the Tiridates-Nero spectacle.
 > - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The%20Bifurcated%20Gnosis_%20The%20Bene%20Qedem,%20the%20Magian%20Institution,%20and%20the%20Isaac-Ishmael%20Dialectic%20in%20the%20Transmission%20of%20the%20Ancient%20Word.md) — This document foregrounds the Magi as primary preservers/carriers of correspondential science; current position treats the *Bene Qedem* ("Children of the East") as primary carriers, with the Magi as a later institutional layer.
 > 
-> **Summary**: (1) Correct Daniel's title; (2) note Magi narrative is theological construct, not historical chronicle; (3) reframe "Magi as preservers" → "Bene Qedem as primary carriers."
+> **Summary**: (1) Note Magi narrative is theological construct, not historical chronicle; (2) reframe "Magi as preservers" → "Bene Qedem as primary carriers."
 > ---
 
 ### **Introduction: From Historical Record to Spiritual Reality**
@@ -36,13 +35,9 @@ In parallel, the Essene community in Judea represented another stream of this pr
 
 For the Science of Correspondences to be effective, it is not enough to simply possess the symbols; one must have the key to their true interpretation. This key is not a human invention but a matter of divine revelation. The period from Daniel to Christ is marked by a crucial restoration of this inner sense, preparing the Magi and others to correctly interpret the signs of the Lord's coming.
 
-#### **The Prophetic Restoration: Daniel, the Rab-mag**
-
-> **[CRITICAL ANALYSIS #6]** The section title and text incorrectly designate Daniel as *Rab-mag*. The biblical text assigns Daniel the titles *Rab-signīn* (Chief Prefect, Dan 2:48) and *Rab-hartummin* (Chief of Magicians, Dan 4:9). The title *Rab-mag* appears only in Jeremiah 39:3, 39:13 for Nergal-sharezer, not Daniel. Greek translations rendered these distinct titles generically as *magoi*, causing later conflation.
+#### **The Prophetic Restoration: Daniel, the Rab-signīn**
 
 The historical encounter between the Jewish exiles and the Babylonian-Persian court was the chosen vessel for this restoration. The prophet Daniel, by his divine gift of interpretation, demonstrated a wisdom superior to that of the Chaldean and Magian diviners, whose knowledge had become merely external and worldly. His appointment as *Rab-signīn* (Chief Prefect) was the spiritual correspondence of divine truth being placed at the head of the ancient, but now faltering, science.
-
-> **[CRITICAL ANALYSIS #6]** NOTE: The original text used *Rab-mag*. Daniel was appointed *Rab-signīn* (Dan 2:48), not *Rab-mag* (which refers to Nergal-sharezer in Jeremiah 39).
 
 Daniel's role was to re-infuse the Magian tradition with the genuine prophetic spirit. His prophecies, which laid out a timeline for the coming of the Messiah, were not merely historical predictions but divine correspondences, linking the succession of earthly kingdoms to the progression of spiritual states in the church. He provided the wise men with a renewed key, a divinely authored text that allowed them to once again read the signs of the times with true understanding. This knowledge, preserved within the institutional memory of these scholars for centuries, formed the basis of their later quest.
 

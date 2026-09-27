@@ -2510,6 +2510,25 @@ Name the translation actually used for each of items 2–3, and choose whether t
 
 ---
 
+## Logged by the nightly source audit, 2026-09-27
+
+---
+
+
+### [NLM] *The Pastoral Epistles in Modern Scholarship* — which dates do Brown, Schnelle, Kümmel, Koester, Perrin and Pervo actually give?
+
+**Priority**: LOW
+**Related Document**: `data/03_Biblical_Scholarship/The Pastoral Epistles in Modern Scholarship_ A Critical Validation of Authorship and Dating Consensus.md` (§§5.1–5.3, Table 3)
+
+**Context**: The document assigns named scholars to dating camps: Raymond Brown, Udo Schnelle and W. G. Kümmel to 80–100 CE; Bart Ehrman, Helmut Koester, Norman Perrin and Richard Pervo to 100–125 CE. None of the original Gemini sources supported these attributions (they were cited to Wikipedia, which names none of them for a date, and to a paywalled blog post). The introductions themselves could not be read from the session: Brown (Doubleday 1997) and Perrin (Harcourt 1974) are archive.org lending items; the pdfcoffee copy of Brown is walled; Koester, Schnelle, Kümmel and Pervo were not reachable. What was verified: Harrison 1921 dates the Pastorals to the later years of Trajan or early Hadrian; Powell 2018 says the majority place them "twenty or more years after Paul's death"; Marina (BartEhrman.com, 2025) gives 80–120 CE for all three, drawing on Ehrman's textbook. Baur's name was removed from the 100–125 row, since the document itself (§2.3) dates his proposal to c. 150.
+
+**Research Question**:
+In each scholar's introduction or commentary, what date range is given for 1–2 Timothy and Titus? (Brown, *Introduction to the NT*; Schnelle, *History and Theology of the NT Writings*; Kümmel, *Introduction to the NT*; Koester, *Introduction to the NT* vol. 2; Perrin, *The New Testament: An Introduction*, pp. 264–65; Pervo, *The Making of Paul*.) Correct Table 3 and §§5.1–5.3 accordingly.
+
+**Status**: Open
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

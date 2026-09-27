@@ -4,10 +4,9 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-26
 > 
 > This document reflects **earlier understanding** on:
-> - **#6** [Magi and Daniel Historicity](../03_Biblical_Scholarship/The%20Danielic%20Synthesis_%20A%20Critical%20Historiographical%20and%20Theological%20Analysis%20of%20the%20Babylonian%20Court%20Narratives%20and%20the%20Persian%20Acculturation%20of.md) — Section 5.1 incorrectly titles Daniel as *Rab-mag*; the biblical text assigns Daniel the titles *Rab-signīn* (Chief Prefect, Dan 2:48) and *Rab-hartummin* (Chief of Magicians, Dan 4:9). The title *Rab-mag* appears only in Jeremiah 39 for Nergal-sharezer, not Daniel.
 > - **#18** [Bene Qedem as True Carriers](../04_Early_Christian_History/The%20Bifurcated%20Gnosis_%20The%20Bene%20Qedem,%20the%20Magian%20Institution,%20and%20the%20Isaac-Ishmael%20Dialectic%20in%20the%20Transmission%20of%20the%20Ancient%20Word.md) — This document foregrounds the Magi as primary carriers/originators of correspondential science; current position treats the *Bene Qedem* ("Children of the East") as primary carriers, with the Magi as a later institutionalizing/appropriating layer.
 > 
-> **Summary**: (1) Section 5.1 conflates Daniel's titles with *Rab-mag*; (2) reframe "Magi as originators/carriers" → "Bene Qedem as primary carriers; Magi as later institutionalizers."
+> **Summary**: Reframe "Magi as originators/carriers" → "Bene Qedem as primary carriers; Magi as later institutionalizers."
 > ---
 
 ## **1\. Introduction: The Architecture of the Magian Worldview**
@@ -141,9 +140,7 @@ A critical insight from the research is the interplay between the "Book of Natur
 
 How did Persian priests know to look for a "King of the Jews"? The answer lies in the historical figure of Daniel and the Babylonian Exile.
 
-### **5.1 Daniel as *Rab-mag***
-
-> **[CRITICAL ANALYSIS #6]** The section title and framing are misleading. The biblical text assigns Daniel the titles *Rab-signīn* (Chief Prefect, Dan 2:48) and *Rab-hartummin* (Chief of Magicians, Dan 4:9)—not *Rab-mag*. The title *Rab-mag* appears only in Jeremiah 39:3, 39:13 for Nergal-sharezer. Greek translations rendered all such terms generically as *magoi*, causing later conflation.
+### **5.1 Daniel as *Rab-signīn***
 
 The Book of Daniel identifies the Hebrew prophet as being appointed *Rab-signīn* (Chief Prefect) over the "wise men" (*hakkhim*) of Babylon (Dan 2:48). This class included the *Chartummim* (Magicians), *Ashaphim* (Astrologers), and *Kasdim* (Chaldeans/Magi). The title *Rab-mag* ("Chief Magus") is historically attested in Jeremiah 39:3 and 39:13, referring to a Babylonian official named Nergal-sharezer.
 

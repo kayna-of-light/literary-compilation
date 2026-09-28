@@ -106,7 +106,7 @@ Beginning to end, before changing anything. You cannot judge whether a source su
 
 ### 3.2 Inventory every source
 
-The raw source list (often a numbered list of bare URLs, sometimes all on one line), any second annotated bibliography, every inline marker (bare numbers after punctuation — `mind.12`, `" 3`, `)7` — or superscripts ¹²³), every "X says / as Y writes / according to Z", every statistic and every quotation.
+The raw source list (often a numbered list of bare URLs, sometimes all on one line), any second annotated bibliography, every inline marker (bare numbers after punctuation — `mind.12`, `" 3`, `)7` — superscripts ¹²³, `[12]` or `[^12]` footnotes; each becomes an in-text citation, § 3.6), every "X says / as Y writes / according to Z", every statistic and every quotation.
 
 ### 3.3 Trace every entry — reformatting is not tracing
 
@@ -147,13 +147,14 @@ Correct, in the fewest words that make the text true, **in the author's voice an
 
 ### 3.6 Rebuild the source list
 
-One section, in the format the Master Theses use (`data/00_Master_Theses/`; a finished example from this job: `data/07_Cultural_Pneumatology/The Mechanics of the Soul…` § VIII):
+One section, in the format the Master Theses use (`data/00_Master_Theses/`; a finished example from this job, list and in-text citations both: `data/03_Biblical_Scholarship/The Pastoral Epistles in Modern Scholarship…`):
 
 - Heading `## Works Cited`, numbered if the document numbers its sections (`## VIII. Works Cited`, `## 14. Works Cited`). Delete the raw list **and** any duplicate annotated bibliography once every real source is carried into the new one. Prose that sat inside the old bibliography moves, unchanged, to the end of the preceding section.
 - Bold category headers, in this order, only those with entries: `**Primary Sources:**`, `**Scholarly Works:**`, `**Internal Library Documents:**`, `**Data Sources:**`, `**Web Sources:**`.
 - Entries numbered continuously across categories, alphabetical by author within each, full Chicago style. Internal documents as `[Full H1 title](Encoded%20File%20Name.md)` plus one sentence on what they contribute here. Web sources name author or organization, title, site, date, URL.
 - No "accessed on", no type-code brackets, nothing about checking.
-- **Renumber every inline marker** to the new list and then check programmatically that every marker resolves to an entry and no entry number is duplicated.
+- **Convert every inline marker to an in-text citation** in the house style (`BIBLIOGRAPHY_STANDARDS.md` § In-text citations): `(Author Year)` for scholarship, the native locator for primary texts — `(Harrison 1921)`, `(Kümmel 1966, 272)`, `(Tertullian, *Marc.* 5.21)`, `(1 Tim 6:20)`. Gemini's bare numerals after punctuation (`institutions.16, 22`), superscripts, `[12]` and `[^12]` footnotes are all converted; none survives the audit. The parenthesis goes before the full stop; cite the traced original, not the repost the old number pointed at; give a page or section only if you read it.
+- **Check programmatically** that no bare numeric marker remains in the body, that every citation's author and year match exactly one Works Cited entry, and that no entry number is duplicated. (Entries that no sentence cites may stay if they are real works the document drew on.)
 
 ### 3.7 Never write about the audit in a document
 
@@ -225,7 +226,7 @@ When a question is resolved, move it to `docs/resolved_research_questions.md` wi
 2. **Handoff** — rewrite the ledger's *"Next run starts here"* block wholesale: what to take next and why, propagation debt, questions awaiting external answers, anything that would cost the next run time to rediscover. It describes the present, not history.
 3. **Pattern register** — add or update the entry for every defect class that will recur, every new full-text source or URL pattern, every copy-paste family.
 4. **Commits** — one per audited document, one for propagation, one for ledger and questions.
-5. **Verify before pushing** — `git diff origin/dev -- data/`, read line by line: every changed line is a correction, a replaced source or a rebuilt list; nothing records the audit (§ 3.7); every inline marker resolves (§ 3.6); nothing outside the batch changed except propagation.
+5. **Verify before pushing** — `git diff origin/dev -- data/`, read line by line: every changed line is a correction, a replaced source or a rebuilt list; nothing records the audit (§ 3.7); no bare numeric marker remains and every in-text citation resolves to a Works Cited entry (§ 3.6); nothing outside the batch changed except propagation.
 6. **Push and open the PR** against `dev`:
 
 ```bash

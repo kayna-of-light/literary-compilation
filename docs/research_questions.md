@@ -2515,17 +2515,17 @@ Name the translation actually used for each of items 2–3, and choose whether t
 ---
 
 
-### [NLM] *The Pastoral Epistles in Modern Scholarship* — which dates do Brown, Schnelle, Kümmel, Koester, Perrin and Pervo actually give?
+### [NLM] *The Pastoral Epistles in Modern Scholarship* — the exact dates Koester, Perrin and Pervo give
 
 **Priority**: LOW
-**Related Document**: `data/03_Biblical_Scholarship/The Pastoral Epistles in Modern Scholarship_ A Critical Validation of Authorship and Dating Consensus.md` (§§5.1–5.3, Table 3)
+**Related Document**: `data/03_Biblical_Scholarship/The Pastoral Epistles in Modern Scholarship_ A Critical Validation of Authorship and Dating Consensus.md` (§§5.2–5.3, Table 3)
 
-**Context**: The document assigns named scholars to dating camps: Raymond Brown, Udo Schnelle and W. G. Kümmel to 80–100 CE; Bart Ehrman, Helmut Koester, Norman Perrin and Richard Pervo to 100–125 CE. None of the original Gemini sources supported these attributions (they were cited to Wikipedia, which names none of them for a date, and to a paywalled blog post). The introductions themselves could not be read from the session: Brown (Doubleday 1997) and Perrin (Harcourt 1974) are archive.org lending items; the pdfcoffee copy of Brown is walled; Koester, Schnelle, Kümmel and Pervo were not reachable. What was verified: Harrison 1921 dates the Pastorals to the later years of Trajan or early Hadrian; Powell 2018 says the majority place them "twenty or more years after Paul's death"; Marina (BartEhrman.com, 2025) gives 80–120 CE for all three, drawing on Ehrman's textbook. Baur's name was removed from the 100–125 row, since the document itself (§2.3) dates his proposal to c. 150.
+**Context**: Traced 2026-09-28. Settled and applied: Brown (*Introduction*, 1997, pp. 639, 654, 673 — "toward the end of the 1st century, or (less probably) early 2d century") and Schnelle (*Einleitung*, 8th ed., 2013, § 5.5.3 — "um 100 n. Chr.") fit the 80–100 row where the document places them; Kümmel (*Introduction*, 1966, p. 272 — "just after the turn of the second century") was in the wrong row and has been moved to 100–125. Koester, Perrin and Pervo are placed in the early-second-century camp; everything reachable is consistent with that (Perrin pp. 264–65 via Kirby's quotation: 211 of the words are second-century vocabulary; Pervo's Westar volume pairs the Pastorals with Polycarp under second-century themes), but no sentence giving their date range was reached. Searched: the author's Drive (only the library mirror); archive.org (all copies lending-only, including the 2000 Koester electronic resource; the BookReader search-inside endpoint refuses them); dokumen.pub / ebin.pub (no copies); Google Books API (rate-limited, 429).
 
 **Research Question**:
-In each scholar's introduction or commentary, what date range is given for 1–2 Timothy and Titus? (Brown, *Introduction to the NT*; Schnelle, *History and Theology of the NT Writings*; Kümmel, *Introduction to the NT*; Koester, *Introduction to the NT* vol. 2; Perrin, *The New Testament: An Introduction*, pp. 264–65; Pervo, *The Making of Paul*.) Correct Table 3 and §§5.1–5.3 accordingly.
+What date range do Koester (*Introduction to the NT* vol. 2, Pastorals section), Perrin (*The New Testament: An Introduction*, 1974, pp. 264–65 and following) and Pervo (*The Making of Paul*, 2010; *The Pastorals and Polycarp*) give for 1–2 Timothy and Titus? If any falls outside 100–125, adjust Table 3.
 
-**Status**: Open
+**Status**: Open (narrowed 2026-09-28)
 
 ---
 

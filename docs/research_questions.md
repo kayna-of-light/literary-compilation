@@ -2510,6 +2510,25 @@ Name the translation actually used for each of items 2–3, and choose whether t
 
 ---
 
+## Logged by the nightly source audit, 2026-09-27
+
+---
+
+
+### [NLM] *The Pastoral Epistles in Modern Scholarship* — the exact dates Koester, Perrin and Pervo give
+
+**Priority**: LOW
+**Related Document**: `data/03_Biblical_Scholarship/The Pastoral Epistles in Modern Scholarship_ A Critical Validation of Authorship and Dating Consensus.md` (§§5.2–5.3, Table 3)
+
+**Context**: Traced 2026-09-28. Settled and applied: Brown (*Introduction*, 1997, pp. 639, 654, 673 — "toward the end of the 1st century, or (less probably) early 2d century") and Schnelle (*Einleitung*, 8th ed., 2013, § 5.5.3 — "um 100 n. Chr.") fit the 80–100 row where the document places them; Kümmel (*Introduction*, 1966, p. 272 — "just after the turn of the second century") was in the wrong row and has been moved to 100–125. Koester, Perrin and Pervo are placed in the early-second-century camp; everything reachable is consistent with that (Perrin pp. 264–65 via Kirby's quotation: 211 of the words are second-century vocabulary; Pervo's Westar volume pairs the Pastorals with Polycarp under second-century themes), but no sentence giving their date range was reached. Searched: the author's Drive (only the library mirror); archive.org (all copies lending-only, including the 2000 Koester electronic resource; the BookReader search-inside endpoint refuses them); dokumen.pub / ebin.pub (no copies); Google Books API (rate-limited, 429).
+
+**Research Question**:
+What date range do Koester (*Introduction to the NT* vol. 2, Pastorals section), Perrin (*The New Testament: An Introduction*, 1974, pp. 264–65 and following) and Pervo (*The Making of Paul*, 2010; *The Pastorals and Polycarp*) give for 1–2 Timothy and Titus? If any falls outside 100–125, adjust Table 3.
+
+**Status**: Open (narrowed 2026-09-28)
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

@@ -93,6 +93,37 @@ A URL is present but is not the citation — the author/organization and title c
 
 ---
 
+## In-text citations
+
+The Works Cited list is only half of the apparatus; the other half is how the body points into it. The house style is the one `.claude/skills/thesis-writing/SKILL.md` prescribes and the Master Theses use: **parenthetical citations in the running text**, Chicago author-date for scholarship and the work's own locator system for primary texts.
+
+| Source | In-text form | Example |
+|---|---|---|
+| Scholarly work, web source | `(Author Year)`, with page or section when it has been checked | (Harrison 1921) · (Kümmel 1966, 272) · (Schnelle 2013, §5.5.3) |
+| Two or three authors | joined by "and" | (Dibelius and Conzelmann 1972) |
+| Several sources for one statement | separated by semicolons, in one parenthesis | (Powell 2018; McLatchie 2021) |
+| Swedenborg | *Work* §N — abbreviation defined on first use | (*Arcana Coelestia* §9293) · (*AC* §10252:5–6) |
+| Ancient and patristic texts | author, abbreviated work, book.chapter.section | (Tertullian, *Marc.* 5.21) · (*1 Clem.* 5.7) |
+| Scripture | book chapter:verse | (1 Tim 6:20) |
+| Internal library document | short title in italics, section if useful | (*The Mountain and the Pillar* §3) |
+
+Rules:
+
+- **The parenthesis sits inside the sentence**, before its full stop or clause-ending comma. Where the sentence already ends in a parenthesis, merge them with a semicolon: `(writing 2 Tim; Powell 2018)`, not `(writing 2 Tim) (Powell 2018)`.
+- **Every citation resolves**: the author (or the ancient author / work) and the year must match exactly one Works Cited entry. Two works by the same author in the same year take `2025a`, `2025b` in both places.
+- **Locators only when verified.** A page, section or paragraph number goes in the citation only if it was read in the source. Otherwise cite author and year alone.
+- The Works Cited stays numbered and grouped by category (§ Structure). The numbers organise the list; the body does not refer to them.
+
+**Not the house style, and converted wherever found:**
+
+- **Bare numerals attached to punctuation** — `institutions.16, 22`, `mind.12`, `" 3`, `)7`. This is how Gemini Deep Research exports its footnotes into markdown, and it is not markdown at all: it renders as stray digits glued to the text, it is indistinguishable from a number that belongs to the sentence, and it breaks silently the moment the source list is rebuilt, reordered or merged.
+- **Superscripts** (¹²³, `<sup>`) and **bracketed numbers** `[12]` — the same problem in other clothing.
+- **Markdown footnotes** (`[^12]` with definitions at the end). Valid markdown, but not used in this corpus: the library is read in NotebookLM, which fragments documents into passages and does not carry a footnote definition across to the passage that cites it. An author-date citation travels with its sentence; a footnote number does not.
+
+Converting a document means replacing each marker with the author-date citation of the entry (or entries) it pointed to — after the source has been traced (`docs/NIGHTLY_SOURCE_AUDIT.md` § 3.3), so the citation names the work that actually supports the sentence, not the repost that stood in for it.
+
+---
+
 ## What does not belong in a Works Cited section
 
 ### No personal file links

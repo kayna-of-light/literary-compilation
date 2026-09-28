@@ -11,61 +11,61 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 
 **Replaced wholesale at the end of every run.** This block describes the present, not the history — history goes in the run log below. A run that leaves this stale has failed its successor.
 
-> **Status**: 10 documents audited (9 `corrected`, 1 `partial`). 240 remain. Nothing in flight. GitHub write
+> **Status**: 11 documents audited (10 `corrected`, 1 `partial`). 239 remain. Nothing in flight. GitHub write
 > access works; tonight's PR opened normally against `dev`.
 >
-> **Tonight (2026-09-26 night run)**: the two short Magi siblings in `04` — *The Luminous Science* and *The Cycle of
-> Celestial Knowledge* — both `corrected`. Every raw entry traced (48 in all); Works Cited rebuilt; Swedenborg's own
-> gift passage located (*AC* §9293:3, §10252:5–6) and cited; "Ancient Church" → "Most Ancient Church" in *Cycle*.
-> No research questions — everything reachable was settled.
+> **Tonight (2026-09-27)**: *The Pastoral Epistles in Modern Scholarship* (`03`) — `corrected`. First `03` document.
+> Four errors of record fixed (Harrison's 306/175 figures, *oun* wrongly listed absent, 1 Tim 6:20's Marcion link on the
+> wrong word, Baur in the wrong dating row); 25-entry raw list rebuilt as 22 real sources. One LOW `[NLM]` question
+> (dating attributions) — traced 2026-09-28: Brown and Schnelle confirmed, Kümmel corrected (he dates it "just after the
+> turn of the second century"); narrowed to Koester/Perrin/Pervo's exact ranges. No propagation needed.
 >
-> **Take next — two good options, pick by coverage:**
-> 1. **The rest of the Magi family** (copy-paste siblings — pattern register): *Celestial Synthesis* and *Celestial
->    Synthesis and the Forensic Gaze* (`04`), *The Science of Correspondences: … Magi* and *The Magian Cosmos* (`02`),
->    *Persian Architecture of a New Faith*, *Celestial Scribe* (`04`). Two of them say Pisces was "widely known in
->    Mesopotamian and Persian astrology as the 'House of the Hebrews'" — tonight's trace found the Pisces–Israel and
->    Saturn–Jews associations in **medieval Jewish** astrology (Ibn Ezra, Abraham bar Hiyya, Abravanel; Jeremy Brown,
->    *Tradition* 2020), not in any Mesopotamian or Persian source. Check that claim first; it is probably a reach.
-> 2. **The `07_Cultural_Pneumatology` Disney family** — still owed its Works Cited rebuilds (*Glass Church*, *Crisis of
->    Ensoulment*, *A Cultural History*, *Invisible Influx*, *Carriers*, *Mirror and the Void*, *Crown and the Comedy*,
->    *Hidden Temple*, *Pneumatic Cinema*, *Architect*, *Apple and the Angel*, *Diffracted Light*, *Parsimony
->    Problem*). Everything verified for it is in the *Mechanics* rows and the pattern register.
+> **Take next — pick by coverage:**
+> 1. **More of `03_Biblical_Scholarship`** (32 unaudited). Good state-signals: *Cross-Domain Convergence* (9 Reddit/
+>    Wikipedia/Drive hits, 53 URLs), *Geographic Confirmation Inventory* (8, 67 URLs), *The Retreat Pattern* (5),
+>    *Administrative Structure Parallels* (3), *The Solomonic Enigma* (3), *The Anatomy of Ascension* (3). Leave
+>    *Lexical Fossil Inventory* and *Stratigraphy of the Archaic* alone: they were audited on the closed-unmerged
+>    PR #3 branch (`claude/nightly-audit-2026-09-21`), which § 2.2 excludes until the author decides about it.
+> 2. **`00_Framework`** — still at zero.
+> 3. The Magi family (`02`/`04`) and the `07` Disney family remain owed their rebuilds (see the 2026-09-26 handoff
+>    detail in the run log and the pattern register). The Pisces "House of the Hebrews" claim is probably a reach —
+>    medieval Jewish astrology, not Mesopotamian/Persian.
 >
-> Coverage so far: `00_Master_Theses` ×1, `01` ×1, `02` ×1, `04` ×2, `05` ×2, `06` ×1, `07` ×1, `08` ×1.
-> **Still at zero: `00_Framework`, `03_Biblical_Scholarship`.** `03` (33 documents) is now the largest untouched folder.
+> Coverage so far: `00_Master_Theses` ×1, `01` ×1, `02` ×1, `03` ×1, `04` ×2, `05` ×2, `06` ×1, `07` ×1, `08` ×1.
+> **Still at zero: `00_Framework`.**
 >
-> **Resolved (author's instruction, 2026-09-27)**: both Magi documents' "Rab-mag" headings are now *Rab-signīn*
-> and every strain #6 note in them is removed. **Rule now in the procedure (§ 3.7)**: an existing editorial
-> annotation that flags an error the audit can correct is resolved — fix the text, remove the annotation. Carried to
-> the six other documents on 2026-09-27; no strain #6 note remains. Where *Rab-mag* still appears it refers correctly
-> to Nergal-sharezer (Jer 39:3, 13).
+> **Standing defect classes**: Gemini bare footnote numerals in **74** documents (new rule: convert to author-date,
+> procedure § 3.6); Reddit/Scribd/Quora in ~100 documents; `drive.google.com` in ~24;
+> `scienceofcorrespondences.com` in 17; **new tonight**: undergraduate papers on bepress repositories
+> (Liberty, GCSU) cited as scholarship — see pattern register.
 >
-> **Standing defect classes**: Reddit/Scribd/Quora in ~102 documents; `drive.google.com` in ~24; **new tonight**:
-> `scienceofcorrespondences.com` (anonymous site) cited in **17** documents — see pattern register.
+> **Propagation debt**: *The Mechanics of the Soul* (07, audited 2026-09-25) still uses Gemini's bare footnote numerals
+> (31) — convert them to in-text citations per the new `BIBLIOGRAPHY_STANDARDS.md` § In-text citations (its Works
+> Cited is already traced, so this is a mapping job). The dead Drive report ("The Animating Spirit: A Genealogical and Pneumatological Exegesis")
+> cited by four `07` documents. The GCSU undergraduate paper is still entry 49 in *The Apostle of the Archons* (04) —
+> handle it in that document's own audit.
 >
-> **Propagation debt**: none from tonight. Carried over: the dead Drive report ("The Animating Spirit: A
-> Genealogical and Pneumatological Exegesis") cited by four `07` documents.
->
-> **Awaiting external answers** (open, unchanged): *The Seed and the Sun* Peters ">60% remote" and "Stevenson and
-> Cook 326 cases"; the NDE entity-role schema questions (three); the 2.6× Jesus ratio; Dole edition dates (Swedenborg
-> translations — not Anita Dole); Gardner "2nd ed. 2020"; the *Protective Garment* annotation question; *The River*
+> **Awaiting external answers** (open): Koester/Perrin/Pervo exact Pastorals ranges (LOW — lending-only; retry the
+> Google Books API, which was rate-limited 429); *The Seed and the Sun* Peters
+> ">60% remote" and "Stevenson and Cook 326 cases"; the NDE entity-role schema questions (three); the 2.6× Jesus
+> ratio; Dole edition dates; Gardner "2nd ed. 2020"; the *Protective Garment* annotation question; *The River*
 > locator/translation question (LOW); the Worcester lineage in 7 `07` documents (HIGH, author's go-ahead).
 >
 > **Still not done from the old backlog**: Kelly's *The Memory Code* for the "memory palace" clause in *The Epistemic
 > Architecture* § 3.3.
 >
 > **Worth knowing**:
-> - **Encyclopaedia Iranica, Wisdomlib, ResearchGate, Brill and Britannica block `curl` and `WebFetch` (403 /
->   captcha).** `curl -sSL "https://r.jina.ai/<url>"` returns Iranica and Britannica article text (not the author
->   line — get that from a search result or a citing work). Wisdomlib and ResearchGate stay walled.
-> - **Crossref `query.bibliographic=`** identifies an anonymous publisher PDF in one call (the austriaca.at PDF → Nabel
->   2020, *Societies at War*).
-> - **Full texts that settle quotation questions in one pass**: Perseus Herodotus (Godley) `Perseus:text:1999.01.0126`;
->   LacusCurtius Strabo (Jones) `penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/15C*.html`; plus the list from
->   earlier runs — Lovejoy, Taylor's Proclus, Dodds, MacKenna, Gutenberg texts, all 12 *AC* volumes and *DP*/*DLW*/*HH*
->   as Foundation PDFs (pattern register). *AC* vol. 11 = §§9112–9973.
-> - Two `EVOLVING_CONCEPTUAL_STRAINS.md` items remain open from 2026-08-20 — **#16** and **#26**. This job does not
->   touch that file. Highest strain number is still **#26**.
+> - **No subagents** (procedure § 4.2). Budget: tonight's one document took ~25 tool calls of tracing.
+> - **Liberty / GCSU / other bepress repositories sit behind Cloudflare** — `curl` and `r.jina.ai` both fail; one
+>   `WebSearch` on the exact title returns author and level.
+> - **Greek counts**: morphgnt SBLGNT on GitHub raw (pattern register). **Harrison 1921** full text on archive.org.
+>   **NT introductions**: Brown 1997 full text on dokumen.pub; Schnelle *Einleitung* 8th ed. on ebin.pub; Kümmel 1966
+>   (14th ed.) open on archive.org `introduction-to-the-new-testament-001`. Koester, Perrin, Pervo: lending-only.
+> - **Encyclopaedia Iranica, Wisdomlib, ResearchGate, Brill and Britannica block `curl`/`WebFetch`**; `r.jina.ai`
+>   works for Iranica and Britannica. Crossref `query.bibliographic=` identifies anonymous PDFs and chapter authors.
+> - Full texts already found: Perseus Herodotus, LacusCurtius Strabo, Lovejoy, Taylor's Proclus, Dodds, MacKenna,
+>   Gutenberg texts, all 12 *AC* volumes and *DP*/*DLW*/*HH* as Foundation PDFs (pattern register).
+> - Strains **#16** and **#26** remain open from 2026-08-20; this job does not touch that file. Highest is **#26**.
 > - The NDE entity-role block is stale at the **schema** level — read the 2026-09-22 question before recomputing.
 ---
 
@@ -97,9 +97,9 @@ A document counts as audited only after a **complete** read and source pass — 
 | Metric | Count |
 |---|---|
 | Documents in `data/` | 250 |
-| Audited | 10 |
+| Audited | 11 |
 | In flight | 0 |
-| Remaining | 240 |
+| Remaining | 239 |
 
 Refresh the total with `find data -name "*.md" | wc -l`.
 
@@ -132,6 +132,9 @@ Refresh the total with `find data -name "*.md" | wc -l`.
 | 2026-09-26 | `04_Early_Christian_History/The Cycle of Celestial Knowledge_ A Re-examination of the Magi.md` | Same — the sibling of the row above | **All 22 raw entries traced.** Kept: Livius "Magians" (Jona Lendering); Britannica "Magus", "Zoroastrianism"; Swedenborg Foundation *Consummation of the Age* (1771) PDF (Standard Edition, 2009 — primary). **Replaced by the original**: classicalastrologer PDF = Dhalla, *History of Zoroastrianism* (Oxford UP, New York 1938 — title page in the scan); New Church Vineyard PDF = Anita S. Dole, *Bible Study Notes* vol. 4 (Swedenborg Foundation, © 2001) — the source of the document's frankincense/myrrh-as-faith/obedience wording; BibleStudyTools = Smith's *Dictionary of the Bible*, s.v. "Magi"; swedenborgstudy.com = J. E. Bowers, *Missionary Talks on Subjects of New Church Doctrine* (London: James Speirs 1889 — title page); Wikisource = Warren, *Compendium* (3rd rev. ed., New Church Board of Publication 1904 — title page); Wikipedia ×3, Swedenborg Foundation correspondences page, Encyclopedia.com (Gale, *Encyclopedia of Occultism and Parapsychology*) → Swedenborg *HH* §§87–125 and the classical primaries; STR, CfaN, One for Israel (ministry, unsigned), Summit Christian (Isaac McPhee, church blog) → Daniel 2:48, 4:9, 5:11 and *HH*; Swedenborg & Life recap → *AC* §§9293, 10252. **Removed, supporting nothing**: scienceofcorrespondences.com FAQ (anonymous site), Grandpierre "Royal Magi / Magyars" (dead 404; fringe; nothing in the body), wisdomlib (as above), and UTI "Metal Active Gas (MAG) Welding" (a welding-school blog — a search artefact on "Rab-mag"). Primary claims verified: Herodotus 1.140 (Godley, Perseus: the Magi "kill with their own hands every creature, except dogs and men … ants and snakes"; bodies "mangled by birds or dogs"); Strabo 15.3.15 (Jones, LacusCurtius: Magi "also called Pyraethi" — fire-kindlers — keeping the fire ever burning). | **F.** (1) "This 'Ancient Church,' as … Swedenborg termed it" → "Most Ancient Church" — the age of direct perception without doctrine is Swedenborg's Most Ancient Church, as the library holds throughout (54 documents). (2) Citations added where the body states a sourced fact with none: *AC* §10252 (science of correspondences "turned into magic"; "sons of the East"), *AC* §9293 (the gifts), Strabo 15.3.15, Herodotus 1.140. (3) Works Cited rebuilt, 15 entries (Primary 7 / Scholarly 5 / Web 3). **Left for the author**: section heading "Daniel as the New Rab-mag" — same strain #6 reason as above. | 0 | 0 | corrected |
 | 2026-09-27 | `04_Early_Christian_History/The Luminous Science_ A Re-examination of the Magi.md` + `The Cycle of Celestial Knowledge_ A Re-examination of the Magi.md` | Follow-up — the author asked for the wrong title to be fixed and its editor notes removed, and for the procedure to allow resolving annotations | 0 new (Dan 2:48 *rab-signīn* already verified) | **F.** Headings "Daniel, the Rab-mag" → "Daniel, the Rab-signīn" and "Daniel as the New Rab-mag" → "Daniel as the New Rab-signīn". Strain #6 resolved in both: header bullet, summary item (remaining items renumbered) and both `[CRITICAL ANALYSIS #6]` inline notes removed. Strains #15 and #18 untouched. Procedure § 3.7 now permits resolving annotations. | 0 | — | corrected |
 | 2026-09-27 | 6 documents (propagation of the row above): `02/The Magian Cosmos`, `02/The Science of Correspondences … Magi`, `02/The Resonant Cosmos`, `02/The Archival Rupture_ Epistemological Fractures…`, `04/The Aramaic Nexus`, `04/The Celestial Synthesis and the Forensic Gaze` | Author's instruction — carry the Rab-signīn fix and the strain #6 cleanup across the library | 0 new (Dan 2:48 already verified) | **F.** Daniel's title corrected where it was still wrong: *Magian Cosmos* heading §5.1 "Daniel as *Rab-mag*" → "*Rab-signīn*"; *Forensic Gaze* heading §3.3 "Daniel and the 'Rab-mag' Bridge" → "'Rab-signīn' Bridge"; *Resonant Cosmos* introduction "Daniel, the *Rab-mag*" → "*Rab-signīn*". Strain #6 resolved in all six: every `[CRITICAL ANALYSIS #6]` note, header bullet and summary item removed (the *Forensic Gaze* header held only #6, so the whole block went). Other strains untouched. **Left as they are, correct**: *Danielic Synthesis* (the analysis that establishes the correction), *Celestial Scribe*, *Architecture of the Ancient Word*, and the *Magian Cosmos* / *Aramaic Nexus* sentences that use *Rab-mag* for Nergal-sharezer (Jer 39:3, 13). | — (propagation row) | — | corrected |
+| 2026-09-27 | `03_Biblical_Scholarship/The Pastoral Epistles in Modern Scholarship_ A Critical Validation of Authorship and Dating Consensus.md` | `03` never audited (coverage correction — largest folder still at zero); raw Gemini URL list of 25 with 4 Reddit and 3 Wikipedia entries | **All 25 raw entries traced.** Kept, author/standing established: Bart D. Ehrman blog (17 Jun 2025 — excerpt of his textbook; confirms 848/306, 2/3 of non-Pauline words in 2nd-c. writers); Marko Marina PhD, BartEhrman.com (16 Jan 2025; 80–120 CE table from Ehrman's textbook); Jonathan McLatchie (Christian apologist, 15 Feb 2021 — the defence's own voice for the amanuensis argument); **Baker PDF = Mark Allan Powell, supplement 22.13 to *Introducing the NT* 2nd ed. (Baker Academic 2018)** — read in full, supports pistos ho logos ×5, righteousness/faith shift, church offices, Crete/Ephesus problems, 2 Tim-as-template; Cambridge chapter = Benjamin L. White in Gray (ed.) 2021, 261–273 (Crossref); Themelios = I. Howard Marshall, 23.1 (1997); Google Books = Brown, *Introduction* (Doubleday 1997). **Replaced by what they rest on**: Liberty 'By Command of God Our Savior' = Christopher M. Date, undergraduate capstone, *Diligence* 1 (2016) → 1 Clement 5.7 / Powell; Liberty honors 1023 = Brandon E. Carter, undergraduate thesis 2007 → Baur 1835; GCSU = Jonathan Jefferson, undergraduate paper 2021 → Tertullian *Adv. Marc.*, Irenaeus, Polycarp (primaries) and Knox 1942; BibleSumo = Pedro Cheung (physician, MTS), resting on Collins 1988 pp. 89–90 and Harrison 1921 → those, plus Kenyon 1936 for the P46 space calculation; Capturing Christianity (unsigned apologetics page) → von Campenhausen 1951; Wikipedia ×3 → Harrison 1921 (full text, archive.org `cu31924029294588`), Powell, Brown; Reddit r/Christian (the 'bourgeois Christianity' claim) → Dibelius & Conzelmann 1972 + Powell. Added for named-but-uncited scholars: Schleiermacher 1807, Murphy-O'Connor *RB* 98 (1991) 403–418, Moule *BJRL* 47.2 (1965) 430–452 (Crossref), Wilson 1979, MacDonald 1983 (Thecla). **Removed, supporting nothing**: Reddit ×4, Grokipedia ×2, Christianity Stack Exchange, Bible for Normal People (page empty), Evidence Unseen (James Rochford, apologetics, uncited), Fabrizio Musacchio (personal blog, uncited). Particles checked against SBLGNT (morphgnt). | **F.** (1) §3.1: the 306 words "do not appear in any other letter attributed to Paul, nor in the rest of the New Testament" → "…attributed to Paul; 175 of them appear nowhere else in the New Testament" (Harrison 1921: 902 words, 54 proper names, 848 remain, 306 not in the ten Paulines, 175 NT hapax). (2) Table 1: "Absence of *ara, dio, oun*" → "*ara, dio*" — οὖν occurs 7× in the Pastorals (1 Tim 2:1, 2:8, 3:2, 5:14; 2 Tim 1:8, 2:1, 2:21); ἄρα and διό do not occur. (3) §5.2: 1 Tim 6:20's "phrase" pseudōnymou gnōseōs was said to be "virtually identical to the title of Marcion's work" — the match is *antitheseis* (τὰς ἀντιθέσεις τῆς ψευδωνύμου γνώσεως); sentence corrected to name the word. (4) Table 3: Baur removed from the 100–125 CE advocates (the document's own §2.3 dates him to c. 150; the Anti-Marcionite row already carries the Tübingen school). (5) Tubingen → Tübingen (×3), Kummel → Kümmel. (6) Works Cited rebuilt: 22 entries (Primary 4 / Scholarly 15 / Web 3); every inline marker renumbered and checked programmatically (all resolve; 13 Marshall and 18 White carried uncited from the old list). **Left alone**: the pervasive "user query" framing (structural to the report, not a token); "effectively proved" for Harrison (Harrison's own verb, "now proved"); "harmonistic fiction" scare quotes. | 0 — each correction grepped corpus-wide. *Chronology of Early Christian Literature* (03) states 1 Tim 6:20 and the dating correctly; *Apostle of the Archons* (04) l.204 correctly ties *Antitheses* to 1 Tim 6:20; neither needed an edit. *Apostle of the Archons* entry 49 still cites the GCSU undergraduate paper — for its own claims, unread tonight. | 1 `[NLM]` LOW — the dating attributions (Brown/Schnelle/Kümmel 80–100; Koester/Perrin/Pervo 100–125): the introductions are lending-only or walled | corrected |
+| 2026-09-28 | `03_Biblical_Scholarship/The Pastoral Epistles in Modern Scholarship_ A Critical Validation of Authorship and Dating Consensus.md` | Follow-up — the author asked for the dating-attribution question to be traced, not left open | Brown, *Introduction* (Doubleday 1997; full text via dokumen.pub, read only to verify): summary boxes pp. 639, 654, 673 — pseudonymous ("80 to 90 percent of critical scholarship") "toward the end of the 1st century, or (less probably) early 2d century". Schnelle, *Einleitung in das NT* 8th ed. (V&R/UTB 1830, 2013; full text via ebin.pub) § 5.5.3: "Abfassung der Past um 100 n. Chr.", pre-Ignatian offices; he also names *antitheseis* (1 Tim 6:20) as the possible Marcion allusion — confirming the 2026-09-27 fix. Kümmel, *Introduction to the NT* 14th rev. ed., trans. Mattill (Abingdon 1966; open archive.org scan `introduction-to-the-new-testament-001`) p. 272: "the time best suited for composition is just after the turn of the second century". Perrin pp. 264–65 (quoted by Peter Kirby, earlychristianwritings.com): the vocabulary argument, 211 words in second-century use — no date sentence reached. Pervo, *The Pastorals and Polycarp* (Westar Scholars Bible): treated with Polycarp as second-century texts — no range stated. Koester vol. 2: every copy lending-only (archive.org 401 incl. the 2000 electronic resource), Google Books API rate-limited (429). | **F.** Kümmel moved from the 80–100 row of Table 3 to the 100–125 row, and added to §5.3's list of critical introductions giving the early-2nd-century date; Schnelle cited in §5.1 (his "um 100" fits the 80–100 row where the document puts him); Brown's placement confirmed, no change. Works Cited: Kümmel 1966 and Schnelle 2013 added (now 24 entries); markers renumbered and checked programmatically. | 0 — no other document attributes a Pastorals date to these scholars | question narrowed to Koester, Perrin and Pervo's exact ranges (placement consistent, wording not reached) | corrected |
+| 2026-09-28 | `03_Biblical_Scholarship/The Pastoral Epistles in Modern Scholarship_ A Critical Validation of Authorship and Dating Consensus.md` | Follow-up — the author flagged that the document's footnotes are Gemini's bare numerals, not markdown, and asked for the house format to be established, written into the instructions and applied | 0 new | **F.** All 36 bare numeric markers (`institutions.17, 24`) converted to in-text citations in the house style, i.e. the one `thesis-writing` prescribes and the Master Theses use: `(Author Year)` for scholarship, native locators for primary texts. 49 citations in all, e.g. (Harrison 1921; Ehrman 2025), (Kümmel 1966, 272), (Polycarp, *Phil.* 4.1; Irenaeus, *Haer.* 3.3.3; Tertullian, *Marc.* 5.21), (*1 Clem.* 5.7). Each points at the traced source, not the old repost number. Checked programmatically: no bare marker remains; every author/year resolves to one Works Cited entry. **Standard written**: `BIBLIOGRAPHY_STANDARDS.md` § In-text citations (new); procedure §§ 3.2, 3.6 and § 6 step 5 now require the conversion and the check; § 3.6's model example now points to this document. | — (*Mechanics of the Soul*, audited 2026-09-25, still has 31 bare markers: propagation debt, see handoff) | — | corrected |
 
 ---
 
@@ -170,6 +173,9 @@ Add an entry when a problem looks like it will recur. Update the existing entry 
 | The Magi documents are one copy-paste family | Gemini reports on the Magi (*Luminous Science*, *Cycle of Celestial Knowledge*, *Celestial Synthesis*, *Celestial Synthesis and the Forensic Gaze*, *Celestial Scribe*, *Persian Architecture* in `04`; *The Science of Correspondences … Magi*, *The Magian Cosmos* in `02`) share paragraphs, the Jupiter/Saturn/Pisces list, the gifts triad and the Daniel/*Rab-mag* material. Raw lists sit under a Dutch `Geciteerd werk` heading. | Diff before reading. Already settled: the gifts = *AC* §9293:3 (gold good of love, frankincense good of faith, myrrh both in externals) and §10252:5–6 (wise men "in the science of correspondences"; the science "turned into magic"; "sons of the East"); east = love *HH* §150; 7 BC triple conjunction in Pisces (Betz, *Astronomy* 2023; van der Kruit, Groningen); Saturn–Jews / Pisces–Israel = medieval Jewish astrology (Jeremy Brown, *Tradition* 2020), **not** attested as Mesopotamian/Persian; Herodotus 1.140 and Strabo 15.3.15 verified; austriaca PDF = Nabel 2020; Brill 17839 = Boyce & Grenet III (1991); classicalastrologer "history-of-zoroastrianism.pdf" = Dhalla 1938; newchurchvineyard `dbsn-*` = Anita Dole, *Bible Study Notes*; BibleStudyTools Magi = Smith's *Dictionary*; the UTI "MAG welding" entry is a search artefact — remove on sight. *Rab-mag* headings are strain #6's to fix, not the audit's. | *Luminous Science*, *Cycle*, 2026-09-26 night run. |
 | Anonymous Swedenborgian sites cited as sources | `scienceofcorrespondences.com` (no author anywhere on the site) in 17 documents across `01`, `02`, `04`, `05`, `06`, `07`. | Not citable. It restates Swedenborg; cite the Swedenborg section the claim actually rests on (the Foundation PDFs make that a one-pass search). Not a mechanical swap — each document's claim differs, so handle it in each document's own audit. | Found 2026-09-26 (*Cycle*); 17 documents by grep. |
 | An editorial annotation that flags a fixable error of record | A strain note (`[CRITICAL ANALYSIS #N]`, `[CORRECTION #N]`, a header-block bullet) points at a wrong title, name, citation or fact that the audit can verify and correct — e.g. strain #6's notes on headings calling Daniel *Rab-mag*. Earlier runs left the error standing because renaming it would orphan the note. | **Resolve it** (procedure § 3.7, author's instruction 2026-09-27): correct the text, then remove the annotation's inline notes, its header bullet and its summary item, renumbering the rest; remove the header block if it empties. Leave notes on other strains alone. Record it in the ledger row. | *Luminous Science*, *Cycle of Celestial Knowledge* (strain #6), 2026-09-27. Propagated 2026-09-27 to the six documents where Daniel was so titled or #6 notes stood; no strain #6 note remains in the library. |
+| Undergraduate papers on institutional repositories cited as scholarship | Gemini lists that cite `digitalcommons.liberty.edu`, `kb.gcsu.edu` and similar bepress repositories look institutional, but the items are often undergraduate capstones or honors theses (Date 2016, Carter 2007, Jefferson 2021 in the Pastorals report). The repositories sit behind Cloudflare, so `curl` gets a challenge page. | Identify the author and level with one `WebSearch` on the exact title (the repository landing page names both). A student paper is not an authority for a scholarly consensus or a primary fact — cite what it rests on (its footnotes, the primary text, the monograph it summarises). | *The Pastoral Epistles in Modern Scholarship*, 2026-09-27; GCSU paper also cited by *Apostle of the Archons* (04). |
+| Greek-word claims checkable against the morphgnt SBLGNT | A document says a word or particle is 'absent' from, or occurs N times in, a NT book. | `curl https://raw.githubusercontent.com/morphgnt/sblgnt/master/<NN>-<Bk>-morphgnt.txt` (75-1Ti, 76-2Ti, 77-Tit, …) and count the lemma in the last column — one command, exact. Caught *oun* listed as absent from the Pastorals (7 occurrences). Harrison 1921 is full text at archive.org `cu31924029294588_djvu.txt` for the vocabulary statistics. | *The Pastoral Epistles in Modern Scholarship*, 2026-09-27. |
+| Gemini footnote numerals in the body | Bare digits glued to punctuation — `institutions.16, 22`, `mind.12`, `" 3`, `)7` — sometimes superscripts or `[12]`. They are Gemini Deep Research's footnote markers flattened into markdown: not markdown, unreadable as citations, and silently wrong once the source list is rebuilt. | Convert each to a house-style in-text citation (`BIBLIOGRAPHY_STANDARDS.md` § In-text citations): `(Author Year[, page])` for scholarship, native locator for primary texts, placed before the full stop, merged with an existing parenthesis by semicolon. Map marker → traced entry first, then write the citation of the *traced* source. Markdown `[^n]` footnotes are not the fix — NotebookLM separates the definition from the passage. Verify with a regex that no `[a-z)"*]\.\d` marker remains and that every author/year matches one entry. | 74 `data/` documents with ≥5 such markers (grep, 2026-09-28). Converted: *The Pastoral Epistles in Modern Scholarship*. Still carrying them among audited documents: *The Mechanics of the Soul* (31). |
 
 Candidates to watch for in early runs, from the corpus's history — confirm before treating any as established:
 
@@ -183,6 +189,14 @@ Candidates to watch for in early runs, from the corpus's history — confirm bef
 ## Run log
 
 Narrative per run — what the batch surfaced, and anything a later run should know that does not fit the tables. Newest first. Unlike the handoff block, this accumulates.
+
+### 2026-09-27 — *The Pastoral Epistles in Modern Scholarship*: first `03` document; the statistics are Harrison's, one of them misdescribed
+
+Precheck passed; no open PRs; the only unmerged nightly branch (`2026-09-21`) is closed PR #3's (its two documents excluded). Took one `03` document because `03` was the largest folder at zero, and this one carried a raw 25-URL list with Reddit and Wikipedia entries.
+
+The argument is a Gemini survey of the critical consensus on the Pastorals, and most of it checks: Schleiermacher 1807, Eichhorn 1812, Baur 1835, Harrison 1921, the five *pistos ho logos* sayings, von Campenhausen on Polycarp, Murphy-O'Connor on 2 Timothy, every verse reference. The vocabulary figures are Harrison's and exact (848 / 306 / 36%) — but the document said the 306 also appear nowhere else in the NT; that is Harrison's 175. The particle table listed *oun* as absent (it occurs seven times); 1 Tim 6:20 was tied to Marcion through the wrong word; and Table 3 put Baur, whom §2.3 dates to c. 150, in the 100–125 row. All corrected.
+
+The bibliography was the larger job: three of its 'academic' PDFs were undergraduate papers, the Baker PDF was an unattributed Powell supplement, and the Wikipedia/Reddit entries stood in front of Harrison, Kenyon, Dibelius–Conzelmann and the patristic primaries. One question left: which dates Brown, Schnelle, Kümmel, Koester, Perrin and Pervo actually give — none of their introductions is readable from the session.
 
 ### 2026-09-26 (night run) — The two short Magi siblings: every entry traced, Swedenborg's own gift passage found
 

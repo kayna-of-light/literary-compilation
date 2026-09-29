@@ -2529,23 +2529,6 @@ What date range do Koester (*Introduction to the NT* vol. 2, Pastorals section),
 
 ---
 
-## Logged by the nightly source audit, 2026-09-28
-
----
-
-### [NLM] *The Heart of the Matter* — four quotations whose Swedenborg locus could not be found in any reachable translation
-
-**Related Document**: `data/00_Framework/The Heart of the Matter_ A New Church Founded on Love.md` (§1.2) and its source, `data/02_Swedenborgian_Theology/Conversation relating the Fourth Church - The New Jerusalem.md` (§3, "The Church of Charity and Life")
-
-**Context**: The document was written from a NotebookLM conversation. Every other quotation in it has been traced to its section and corrected where the wording had drifted. Four quoted phrases are verbatim in the *Conversation* but were not found in any Swedenborg text the session could read: the full Standard Edition (all 12 *AC* volumes, *AE* 1–6, *AR* 1–2, *TCR* 1–2, *HH*, *LJ*, *NJHD*, *DLW*, *DP*, *Four Doctrines*, *White Horse*) and the New Century Edition *True Christianity* 1–2 (Rose) and *Heaven and Hell* (Dole). They are now cited to the *Conversation*. The phrasing is New Century Edition in style (the same notebook's "skill in argumentation" wording was found verbatim in Dole's *HH* §464), so the source is probably a New Century translation that the session could not reach, such as *Last Judgment* in *The Shorter Works of 1758* or *Revelation Unveiled*. The nearest Standard Edition passage for the first phrase is *AE* §847:5: "by means of this faith alone ... the church is devastated."
-
-**Research Question**:
-In the notebook's sources, which Swedenborg work and section contain: (1) faith alone "destroyed the Third Church"; (2) the New Church as "The Church of Charity and Life"; (3) faith is "to will and to put into practice what we believe"; (4) those who "live according to the commandments of the Lord's Word, and consequently possess truths from good" will be saved and constitute the New Jerusalem? Give the translation used. Also: which translation renders *Last Judgment* §74 as "only slight hope for people of the Christian church … more hope for a particular group of people distant from the Christian world"? The document now quotes the Standard Edition wording.
-
-**Status**: Open
-
----
-
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

@@ -154,8 +154,8 @@ This path fails the user's test: its concepts do *not* align with the inner real
 The other path is the "Path of Affirmation" or "The Path of Love." This is the user's proposed "path for every being to come to the Lord who is Love."  
 Remarkable evidence for this path comes from **Near-Death Experiences (NDEs)**. This data provides the "fingerprint" of the Divine Influx in the modern world, bypassing the "outer layer" of theology and connecting directly to the heart:
 
-* **Personality:** NDErs encounter a "Being of Light" defined by "unconditional, absolute, and unearned love."  
-* **Non-Judgmental:** A key trait is that God is "non-judgmental." As one experiencer noted, "judgment had always been human. God only teaches".
+* **Personality:** NDErs encounter a "Being of Light" defined by "unconditional, absolute love" (Irene A., NDERF 2912).  
+* **Non-Judgmental:** A key trait is that God is "non-judgmental." As one experiencer noted, "the lesson in the reviewing process is that we judge ourselves; God does not judge us" (Sharon B., NDERF 3670).
 
 This validates the user's insight that "understanding did not come intuitive from a deep inner loving connection but is displaced to this outer layer." The "outer layer" (humanity) judges; the "inner reality" (God) loves.  
 Crucially, when people from diverse conceptual backgrounds (Atheists, Hindus, Muslims) encounter this Being, they experience a "pure identification based on a personality match." They possess an "innate knowing" that this Being is Jesus Christ—not because of a theological concept, but because the *quality of the Love* matches the *reality of the Divine Human*. The "concept" (the name Jesus) is validated by the "inner reality" (the Love).
@@ -211,6 +211,10 @@ The following tables summarize the structural evidence supporting the user's pro
 #### **References**
 
 Swedenborg, E. *Arcana Coelestia* (AC). §§ 97, 605, 607, 1118-1120. [References to internal respiration and the Most Ancient Church's mode of perception].
+
+Irene A. "Irene A NDE 2912." Near Death Experience Research Foundation. https://www.nderf.org/Experiences/1irene_a_nde.html.
+
+Sharon B. "Sharon B NDE 3670." Near Death Experience Research Foundation. https://www.nderf.org/Experiences/1sharon_b_nde.html.
 
 #### **Geciteerd werk**
 

@@ -101,6 +101,10 @@ The Works Cited list is only half of the apparatus; the other half is how the bo
 |---|---|---|
 | Scholarly work, web source | `(Author Year)`, with page or section when it has been checked | (Harrison 1921) · (Kümmel 1966, 272) · (Schnelle 2013, §5.5.3) |
 | Two or three authors | joined by "and" | (Dibelius and Conzelmann 1972) |
+| Dated unpublished item — letter, memo, lecture transcript, recorded talk | author, day month year (distinguishes several items from one author and year) | (Disney, 23 December 1935) · (Graham, 21 June 1937) |
+| Undated web page or handout | `n.d.` | (Stanchfield n.d.) · (California Institute of the Arts, n.d.) |
+| A source known only through another's quotation | original, "quoted in" the work actually read; no page unless read | (Culhane 1986, quoted in Beiman 2014) |
+| Two authors with the same surname | initials on the one that needs distinguishing | (D. H. Graham 2005) |
 | Several sources for one statement | separated by semicolons, in one parenthesis | (Powell 2018; McLatchie 2021) |
 | Swedenborg | *Work* §N — abbreviation defined on first use | (*Arcana Coelestia* §9293) · (*AC* §10252:5–6) |
 | Ancient and patristic texts | author, abbreviated work, book.chapter.section | (Tertullian, *Marc.* 5.21) · (*1 Clem.* 5.7) |

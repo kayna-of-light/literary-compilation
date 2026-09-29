@@ -1516,11 +1516,30 @@ GDR produced a comprehensive forensic analysis now filed as `data/04_Early_Chris
 
 ---
 
+### [NLM] *The Heart of the Matter*: four quotations found only in the source conversation
+
+**Target**: `[NLM]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-09-28
+**Date Resolved**: 2026-09-29
+**Priority**: MEDIUM
+**Related Documents**: `data/00_Framework/The Heart of the Matter_ A New Church Founded on Love.md` (§1.2); `data/02_Swedenborgian_Theology/Conversation relating the Fourth Church - The New Jerusalem.md`
+
+**Resolution Summary**: The NotebookLM notebook confirmed that none of the four phrases exists in Swedenborg, in the Standard Edition or in the Latin. They were the notebook's own paraphrases in the source conversation. Each nearest passage it offered was checked against the Foundation full text, and two of its locators were wrong: "charity and life is the essential" is *AC* §4926:4, not §5812, and "who will be in the Lord's new church, which is the new Jerusalem" is *AR* §933:2, not §903. §1.2 now quotes Swedenborg's own words:
+- faith alone "destroyed the Third Church" → "the church with the Reformed has been devastated" (*AE* §928; cf. §847:5). This also removes a numbering clash, since in the *AC*/*TCR* sequence the third church is the Israelitish.
+- "Church of Charity and Life" → a church "in which charity and life is the essential" (*AC* §4926).
+- faith is "to will and to put into practice what we believe" → faith "is not in man when it is only in his knowing and thinking, but when it is also in his willing and doing" (*AE* §250:9).
+- "live according to the commandments… and consequently possess truths from good" → "live according to the commandments of the Lord in the Word" (*AE* §894) and are "in truths from good" (*AE* §6), with *AR* §933 for their constituting the New Jerusalem.
+
+The sub-question of which translation renders *LJ* §74 as "only slight hope" no longer matters, because the document now quotes the Standard Edition verbatim.
+
+---
+
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 31 |
+| **Total Resolved** | 32 |
 | **NDE Domain** | 10 |
 | **BIBL Domain** | 6 |
 | **SWED Domain** | 3 |
@@ -1530,7 +1549,7 @@ GDR produced a comprehensive forensic analysis now filed as `data/04_Early_Chris
 | **GDR Domain** | 8 |
 | **Critical Priority** | 3 |
 | **High Priority** | 15 |
-| **Medium Priority** | 9 |
+| **Medium Priority** | 10 |
 | **Low Priority** | 4 |
 
-**Last Updated**: 2026-09-25
+**Last Updated**: 2026-09-29

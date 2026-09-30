@@ -2527,6 +2527,26 @@ What date range do Koester (*Introduction to the NT* vol. 2, Pastorals section),
 
 **Status**: Open (narrowed 2026-09-28)
 
+
+---
+
+## Logged by the nightly source audit, 2026-09-29
+
+---
+
+### [GDR] *Pure Encounter or Cultural Construct* — the wording of three video testimonies (Arvind, Bibi, Santosh)
+
+**Priority**: LOW
+**Related Document**: `data/01_Consciousness_Studies/Pure Encounter or Cultural Construct An Analysis of the Identification of Jesus in Near-Death Experiences.md` (§§ I.B–I.C)
+
+**Context**: Every other quotation in the document was checked against full text and corrected where needed (ledger, 2026-09-29). Three cases rest on spoken testimony the session could not read. **Arvind** (formerly Swami Aravindananda; the document had "Avind"): both videos it cited (`ccsQ_Nc7gmQ`, `XRqhICbMKq8`) now return "This video is unavailable"; the only copy found is a repost on the anonymous "Near-Death Experiences" channel (`O_ZKXcdHAwQ`), which YouTube serves only behind a sign-in wall, so "I am the one you have been seeking" and the "destroy"/"fulfill" wording are unverified. **Bibi**: the cited video (`45py-PvWHOw`, channel "Rooted In Christ", a repost channel) is behind the same wall; no text account was found by searching the quoted phrases ("I am he who is", "majestic white robe", "Imam Ali", "heart-crushing guilt"). **Santosh Acharjee**: the Light, the twelve gates, the "very narrow gate" and "I didn't know who He was except that He was God" are verified in Burke, *Imagine the God of Heaven* (Tyndale 2023), ch. 1 (publisher's first-chapter PDF); the "two years" of searching and the pastor's "narrow gate" sermon are told in later chapters the session could not reach. Santosh's own book, *My Encounter with Jesus at Heaven's Gates*, was not reached either.
+
+**Research Question**:
+(1) In Arvind's video testimony, what are Jesus's words to him — is "I am the one you have been seeking" verbatim, and does he say Jesus came not to "destroy" but to "fulfill"? Is there an original upload or a written account (book, ministry page)? (2) What is the original source of Bibi's testimony (Iranian Muslim woman, heart attack, children converted; "I am he who is"; recognition of Jesus a year later), and are the quoted phrases verbatim? (3) In Burke 2023 (later chapters) or Acharjee's book, how long did Santosh search before identifying the figure, and was it a sermon on Matt 7:13–14 / John 10:9 that made the connection? Page numbers wanted for all three.
+
+**Status**: Open
+
+
 ---
 
 ## AGENT HANDOFF RECOMMENDATIONS

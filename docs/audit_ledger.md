@@ -37,7 +37,8 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > `07` ×1, `08` ×1. Weight toward the largest unaudited folders (`03`, `02`, `01`).
 >
 > **Standing defect classes**: Gemini bare footnote numerals in ~73 documents, and **stripped** markers (orphaned `word ,`
-> gaps with no numbers) in at least the `01`/`03` NDE–Christology family; Reddit/Scribd/Quora in ~100; `drive.google.com`
+> gaps with no numbers) in at least the `01`/`03` NDE–Christology family; the Dutch `Geciteerd werk` heading on Gemini
+> raw lists in 72 documents (rename it to `Works Cited` whenever a document is touched, propagation included); Reddit/Scribd/Quora in ~100; `drive.google.com`
 > in ~23; `scienceofcorrespondences.com` in 17; undergraduate bepress papers.
 >
 > **Propagation debt**: none from tonight (corpus greps for all three Being-of-Light phrases, "98%" with Pittman, "Greyson

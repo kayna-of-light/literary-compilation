@@ -208,14 +208,12 @@ The following tables summarize the structural evidence supporting the user's pro
 
 | Feature | Path of Affirmation (Love) | Path of Gnosis (Intellect) | | :--- | :--- | :--- | | **Core Faculty** | The Heart / Will. | The Intellect / Understanding. | | **View of Jesus** | Pure Identification / Unique Personality. | Split Identity (Jesus vs. Christ). | | **Mechanism** | Reception of Influx. | Dismantling / "Self-Glorification." | | **User's Verdict** | **"True Inner Conception."** | **"Conceptual Falsity."** | | **Evidence** | NDE testimonies of Unconditional Love. | Modern hybrid spiritualities (*Course in Miracles*, etc.). |
 
-#### **References**
+#### **Works Cited**
 
 Swedenborg, E. *Arcana Coelestia* (AC). §§ 97, 605, 607, 1118-1120. [References to internal respiration and the Most Ancient Church's mode of perception].
 
 Irene A. "Irene A NDE 2912." Near Death Experience Research Foundation. https://www.nderf.org/Experiences/1irene_a_nde.html.
 
 Sharon B. "Sharon B NDE 3670." Near Death Experience Research Foundation. https://www.nderf.org/Experiences/1sharon_b_nde.html.
-
-#### **Geciteerd werk**
 
 1\. [A Coherent Framework for Spiritual History: Weavin...](../00_Framework/A%20Coherent%20Framework%20for%20Spiritual%20History_%20Weaving%20the%20Divine%20Bricolage.md) 2\. [Echoes of an Ancient Word: A Scientific and Mythological Inquiry into the Caliber of a Lost Universal Knowledge](../06_Mythological_Studies/Echoes%20of%20an%20Ancient%20Word_%20A%20Scientific%20and%20Mythological%20Inquiry%20into%20the%20Caliber%20of%20a%20Lost%20Universal%20Knowledge.md) 3\. [The Divine Human in Ultimates: A Phenomenological and Theological Profile of the Actual Jesus of Love](../02_Swedenborgian_Theology/The%20Divine%20Human%20in%20Ultimates_%20A%20Phenomenological%20and%20Theological%20Profile%20of%20the%20Actual%20Jesus%20of%20Love.md) 4\. [Enhancing Spiritual History Framework](../00_Framework/Enhancing%20Spiritual%20History%20Framework.md) 5\. [A Critical History of Foundational Narratives - From Mesopotamian Myths to the Modern Age](../06_Mythological_Studies/A%20Critical%20History%20of%20Foundational%20Narratives_%20From%20Mesopotamian%20Myths%20to%20the%20Modern%20Age.md) 6\. [Enoch's Bulls, History's Echoes](../06_Mythological_Studies/Enoch's%20Bulls,%20History's%20Echoes._.md)

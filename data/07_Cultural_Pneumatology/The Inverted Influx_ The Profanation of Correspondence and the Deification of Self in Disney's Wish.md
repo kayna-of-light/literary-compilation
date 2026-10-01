@@ -1,5 +1,15 @@
 # **The Inverted Influx: The Profanation of Correspondence and the Deification of Self in Disney's *Wish***
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-10-01
+>
+> This document reflects **earlier understanding** on:
+> - **#22** [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — Calls the self "the central antagonist" and "the source of all evil"; table labels a rebellion-against-authority motif "Gnosticism"
+>
+> **Summary**: The self is the vessel that must form before it can receive, not the antagonist or the source of evil. What the narratives dramatize is self-sourcing — the self claiming what flows through it as its own. The "Gnosticism" label in Table § VII stands for modern self-sourcing, not the ancient texts.
+> **Established correction (library)**: The Human Who Showed the Way_ The Soul Whose Heart Belonged to the Lord; Reversing the Arrow_ 'Gnosticism' as the Downstream Literalization of Correspondential Composition
+> ---
+
 ## **I. Introduction: The Metaphysical Trajectory of the Disney Studio**
 
 The historiography of the Walt Disney Studio has traditionally been framed through the lenses of technological innovation, commercial expansion, and artistic evolution. However, a deeper, more rigorous analysis reveals that the studio’s output during its "Golden Age" was underpinned by a sophisticated metaphysical architecture. As outlined in the foundational document *The Invisible Influx*, the studio operated upon an "Active Substrate" of Swedenborgian thought—a specific theological framework derived from the writings of Emanuel Swedenborg (1688–1772).1 This substrate provided the studio with a "physics of the soul," enabling animators to solve the "Crisis of Ensoulment" by adhering to the Doctrine of Influx, where "inner force drives outer form".3 For nearly a century, this correspondence between spiritual causes and natural effects allowed Disney films to serve as secular parables of regeneration, where the natural world acted as a theater representing the spiritual state of its inhabitants.
@@ -27,6 +37,8 @@ In the Golden Age of Disney animation, this doctrine was secularized as the prin
 ### **2.2 Selfhood: The Danger of the Self**
 
 The central antagonist in Swedenborgian theology is not a devil with a pitchfork but the **self** — the human sense of selfhood, the vivid sensation that we live, think, and act from ourselves.
+
+> **[REFRAMING #22]**: The self (selfhood, *what is one's own*) is not the antagonist or the source of evil. It is the vessel that must form before it can receive. What is described here is **self-sourcing** — the self claiming what flows through it as its own — an orientation of the vessel, not the vessel itself. See: The Human Who Showed the Way.
 
 * **The Illusion:** The self is an illusion granted by God so that humans can have agency and reciprocate love. We *feel* like life is ours, but in reality, it is God’s life flowing through us.9  
 * **The Fall:** Evil arises when humans believe the illusion is the reality. When a person confirms that they are the source of their own life, wisdom, and power, The self becomes "nothing but evil".11 It becomes the "Love of Self," which seeks to dominate others and be worshipped as a god.13  
@@ -210,6 +222,8 @@ The studio has indeed served its purpose. It built a cathedral of correspondence
 | **Salvation** | **Regeneration.** Submission of The self to the Lord. | **Self-Actualization.** Reclaiming The self from the King. | **Narcissism:** Salvation is the unrestricted expression of the self. |
 
 *Wish* effectively closes the circle. The studio that began by animating the "Soul" as a gift from the Divine has ended by animating the "Ego" as the only divinity that matters. The "Active Substrate" remains, but it is now powering a machine designed to celebrate the very force—The self—that Swedenborg warned was the source of all evil.
+
+> **[REFRAMING #22]**: The self (selfhood, *what is one's own*) is not the antagonist or the source of evil. It is the vessel that must form before it can receive. What is described here is **self-sourcing** — the self claiming what flows through it as its own — an orientation of the vessel, not the vessel itself. See: The Human Who Showed the Way.
 
 #### **Works cited**
 

@@ -47,6 +47,8 @@ The Demiurge (Yaldabaoth/Saklas/Samael) says: "I am God and there is no other." 
 
 In correspondential reality, the human soul is a **receiver** of divine life flowing continuously from the Lord ("influx"). The vessel does not contain captured divinity — it receives flowing divinity. The distinction between "I receive" and "I AM" is absolute. The first leads to humility and regeneration (the vessel opens wider). The second leads to the self claiming divine status — which is, on Swedenborg's analysis, precisely the gnostic impulse itself.
 
+> **[REFRAMING #22]**: What is described here is self-sourcing. The term "gnostic impulse" is retired as a name for it, because it brands a diverse literature as one pathology. See: Reversing the Arrow.
+
 The Sethians claim a literal piece of the divine is **trapped** in each person. This is the self's own theology: "I AM divine. Something external has prevented me from realizing this. When I awaken to my own divinity, I am saved." This is not salvation. It is the self's final and most sophisticated self-justification.
 
 **Inversion 3: The Natural World**
@@ -230,6 +232,8 @@ When the correspondential key is applied to the Sethian corpus, thirteen primary
 Two Sethian texts — the **Second Treatise of the Great Seth** (VII,2) and the **Apocalypse of Peter** (VII,3) — present a docetic Christology where Jesus laughs while his physical shell is crucified. These texts do NOT resolve under correspondence — they represent the **anti-incarnational strand** of the Gnostic impulse, the refusal to accept that the divine could truly inhabit the natural degree.
 
 Under the correspondential framework, the incarnation is the central event: the Divine enters the natural degree fully, making the body the "soul in ultimates." Docetism — the claim that the divine only *appeared* to inhabit a body — is the Gnostic impulse's ultimate expression: the natural degree is too degraded for the divine to actually enter. This is the inversion of correspondence itself: the natural should express the spiritual; docetism says it cannot.
+
+> **[REFRAMING #22]**: Docetism is the anti-incarnational strand of two texts, not the "ultimate expression" of a single Gnostic impulse; the label generalizes from these texts to the whole literature. See: Reversing the Arrow.
 
 These texts are present in the archive not because the community endorsed them (docetism contradicts the incarnational premise of the community's entire tradition) but because they represent the furthest extension of the literalization error: when "divine life embedded in natural forms" becomes "divine spark trapped in evil matter," the logical conclusion is that the divine CANNOT have truly incarnated. The community would have recognized this as the endpoint of a trajectory they were combating — the same trajectory that begins with reading the fall narrative as a cosmological myth instead of a correspondential description.
 

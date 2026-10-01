@@ -1,13 +1,13 @@
 # Dancing with Fire: Marcion of Sinope and the Correspondential Key He Never Possessed
 
 > ---
-> **📋 Editorial Notes** | Last reviewed: 2026-04-11
+> **📋 Editorial Notes** | Last reviewed: 2026-10-01
 > 
 > This document reflects **earlier understanding** on:
-> - **#22** The Self and Selfhood — Treats selfhood as inherently evil in its unregenerate form
+> - **#22** [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — Treats selfhood as inherently evil in its unregenerate form; also relies on the "Gnostic Impulse" as one mechanic driving "all Gnostic systems"
 > 
 > **Summary**: This document correctly identifies self-sourcing mechanics in Marcion. However, the self is not "nothing but evil" — it is the vessel that must form before it can receive. Self-sourcing is the specific error, not selfhood itself.
-> **Established correction (library)**: *The Human Who Showed the Way*
+> **Established correction (library)**: *The Human Who Showed the Way*; Reversing the Arrow_ 'Gnosticism' as the Downstream Literalization of Correspondential Composition; The Living Library_ Correspondential Architecture Across the Nag Hammadi Collection
 > ---
 
 ## The Gnostic Impulse, the Pauline Vector, and the Self's Theology of Escape
@@ -80,6 +80,8 @@ Third, the companion thesis *Reversing the Arrow* establishes that "Gnosticism" 
 
 Fourth, the companion thesis *The Architecture of Autonomy* establishes that the Gnostic Impulse — the recurring structural mechanic that drives all Gnostic systems — is the direct operationalization of **selfhood**: the self-derived consciousness that claims to be its own source, that cannot tolerate a visible God who commands, and that gravitates toward readings that validate its autonomy. The self's theology requires a God who is abstract, unknowable, and makes no demands — a "God" that can be embraced without submitting. The "Alien God" of Marcion fits this profile precisely.
 
+> **[REFRAMING #22]**: "Gnostic Impulse" brands a diverse ancient literature as one pathology. The corrected understanding separates two things: **self-sourcing** — the self claiming what flows through it as its own, which occurs everywhere (in Paul, in institutional Christianity, in modern spirituality), not only in texts labelled Gnostic — and **literalization** — correspondential texts read without their key. Many texts called "Gnostic" (the Gospel of Philip, the Gospel of Thomas, the Gospel of Truth) are themselves correspondential compositions. See: Reversing the Arrow; The Living Library.
+
 Fifth, the companion thesis *Swedenborg's Key and the Proto-Lukan Hypothesis* establishes the **correspondential depth test**: Swedenborg's key works selectively across the Gospels, yielding full line-by-line correspondential depth on parabolic material and only doctrinal citation on narrative additions. The parables — including the Good Samaritan and the Prodigal Son — decode completely. The canonical narrative additions (birth stories, physical resurrection proofs) do not. This gradient maps precisely onto the compositional boundary between the proto-Lukan tradition and its canonical redaction, confirming that the parables were composed by people who possessed the correspondential key.
 
 These five established findings frame the question with a precision that no previous analysis of Marcion has possessed. The conventional assessment — that Marcion was a literalist heretic who missed the deeper meaning of scripture — is not wrong, but it is superficial. The correspondential framework reveals something more specific: Marcion occupied a particular position within the architecture of how correspondential material is received, transmitted, and lost. He received correspondential text (proto-Luke). He transmitted it faithfully. He read it without the correspondential key. And the theology he constructed from his reading bears the diagnostic signature of the Gnostic Impulse — the self's strategy for autonomy — at every point.
@@ -127,6 +129,8 @@ Two features of this analysis are critical for understanding Marcion:
 First, the self **cannot tolerate a visible God who rules**. The acknowledgment of an external, personal God who commands and judges requires humility — the self's death. The self therefore gravitates toward an "Unknown God" — abstract, invisible, internal, a "God" that can be embraced without submitting. This is why every Gnostic system, including Marcion's, prefers the remote, unknowable deity over the present, commanding one.
 
 Second, **Gnosis and Influx are absolutely incompatible epistemologies**. Influx says: "I am a vessel; I receive God." Gnosis says: "I am God; I had just forgotten." These are "clay and iron" — they cannot mix. One leads to humility and regeneration (the vessel opens wider). The other leads to the self claiming divine status — which is the Gnostic Impulse itself.
+
+> **[REFRAMING #22]**: "Gnosis says: I am God" describes self-sourcing, not the ancient texts as a body; the Gospel of Philip, for one, teaches reception by likeness and anointing. See: The Living Library.
 
 ### 2.4 The Correspondential Depth Test
 

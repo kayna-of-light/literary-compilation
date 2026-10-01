@@ -1,10 +1,11 @@
 # **The Resurrection of True Life: A Phenomenological Analysis of the Evolution of Divine Images, the Fall into Language, and the Incarnation of Love**
 
 > ---
-> **📋 Editorial Notes** | Last reviewed: 2026-01-27
+> **📋 Editorial Notes** | Last reviewed: 2026-10-01
 > 
 > This document reflects **earlier understanding** on:
 > - **#2** [Biological Determinism about Jesus](../00_Framework/Epistle%20%E2%80%94%20The%20Divine%20Marriage%20and%20the%20Expression%20of%20the%20Lord%20in%20Ultimates.md) — Section 4.1 uses "soul from the Father / body from the mother" framing; current position: Jesus was a human being whose ruling love was oriented toward the Divine, so the Lord flowed through him without obstruction. This is the path of regeneration any human can walk.
+> - **#22** [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — §5.1 and Table 4 call the modern hybrid systems the "Path of Gnosis"; corrected: what they show is self-sourcing, and the ancient "Gnostic" texts are a separate, largely correspondential literature (see Reversing the Arrow; The Living Library).
 > 
 > **Summary**: The "assumed human nature from the mother" language reflects 18th-century embryology. The self is not removed but oriented—Jesus's ruling love was always toward the Divine.
 > ---
@@ -143,6 +144,8 @@ The user states that "truth doesn't lie in the concepts but that all concepts th
 ### **5.1 The Path of Gnosis (The Persistence of Falsity)**
 
 One path continues the error of the Fall: the "Path of Gnosis" or "Salvation by Intellect." This path represents the "outer layer" trying to understand God through concepts alone. It manifests as "self-glorification," where the intellect dissects and dismantles the Divine Image.
+
+> **[REFRAMING #22]**: The "Path of Gnosis" label files modern systems (Theosophy, Urantia, the Ascended Masters, *A Course in Miracles*, the Law of One) under the name of an ancient literature. What these systems show is **self-sourcing** — the self claiming the divine as its own nature or status — and that is the correct name for this path. The ancient texts called "Gnostic" are a separate matter: many are correspondential compositions that were literalized downstream. See: Reversing the Arrow; The Living Library.
 
 * **Tactic:** It splits the identity (separating "Jesus" from "Christ"). It claims that "Christ" is an impersonal principle and "Jesus" was just a man.  
 * **Result:** It creates a "hybrid system" (like *A Course in Miracles* or *The Law of One*) that uses the language of love but delivers a message of self-glorification ("I am God").

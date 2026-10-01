@@ -1,13 +1,13 @@
 # **The Architecture of Hidden Divinity: A Comprehensive Profile of the Gnostic Impulse and Its Historical Mechanics**
 
 > ---
-> **📋 Editorial Notes** | Last reviewed: 2026-04-11
+> **📋 Editorial Notes** | Last reviewed: 2026-10-01
 > 
 > This document reflects **earlier understanding** on:
-> - **#22** The Self and the self — **CRITICAL**: Treats the self as inherently evil ("the Antagonist") and equates it with self-love
+> - **#22** The Self and the self — **CRITICAL**: Treats the self as inherently evil ("the Antagonist") and equates it with self-love; also isolates a single "Gnostic Impulse" spanning Late Antique texts and modern spirituality
 > 
 > **Summary**: the self is not "the Antagonist" — it is what is one's own, the vessel that must form before it can receive. It becomes the obstacle only when it claims what flows through it as its own possession (self-sourcing). Self-love is one possible orientation of the vessel. The observations about self-sourcing mechanics remain valid; the equation of selfhood with antagonism does not.
-> **Established correction (library)**: *Reversing the Arrow*; *The Human Who Showed the Way*
+> **Established correction (library)**: *Reversing the Arrow*; *The Living Library*; *The Human Who Showed the Way*
 > ---
 
 ## **Introduction: The Dual Currents of Western Spirituality**
@@ -15,6 +15,8 @@
 The history of Western religious thought is frequently constructed as a linear narrative of orthodox development, a monolithic stream of institutional consolidation that defines the spiritual landscape of the last two millennia. However, running parallel to this visible history—and often intersecting with it in moments of profound cultural tension—is a persistent, counter-structural current. This alternative tradition, while diverse in its myriad cultural expressions ranging from the dusty papyri of Late Antiquity to the digital forums of 21st-century spirituality, shares a singular, cohesive architectural logic. It is a logic that fundamentally reimagines the relationship between the human, the divine, and the material world. This report provides an exhaustive profile of this phenomenon, broadly categorized as "Gnosticism" and its subsequent historical iterations.
 
 The objective of this analysis is to isolate the "Gnostic Impulse" as a recurring mechanical system of thought.1 This system is defined not by the specific cultural trappings of any one era, but by a set of immutable structural characteristics: the rigorous depersonalization of the Divine into an abstract principle; the strategic bifurcation of the historical "human" Jesus from a cosmic "Christ" entity; the identification of material existence as a state of captivity orchestrated by a lower, often ignorant creator; and the pursuit of salvation through *gnosis*—a revelatory, intellectual self-realization of one's own innate divinity.1
+
+> **[REFRAMING #22]**: "Gnostic Impulse" brands a diverse ancient literature as one pathology. The corrected understanding separates two things: **self-sourcing** — the self claiming what flows through it as its own, which occurs everywhere (in Paul, in institutional Christianity, in modern spirituality), not only in texts labelled Gnostic — and **literalization** — correspondential texts read without their key. Many texts called "Gnostic" (the Gospel of Philip, the Gospel of Thomas, the Gospel of Truth) are themselves correspondential compositions. See: Reversing the Arrow; The Living Library.
 
 By synthesizing critical historical analyses, comparative Christologies, and socio-political frameworks, we can delineate the specific "mechanics" of this worldview. It contrasts the Gnostic trajectory—which seeks to dismantle the specific identification of the Divine with the historical—against the "Incarnational" trajectory, which seeks to affirm the union of the divine and the material.2 Through this lens, we observe that the struggle between these two currents is not merely a debate over ancient dogma, but a fundamental conflict over the nature of reality, the definition of the self, and the location of spiritual authority.
 
@@ -119,6 +121,8 @@ This creates a system of "salvation by intellect" that is classified as the **"I
 **Section IV: The Christology of Separation (Dismantling the Divine Human)**
 
 Perhaps the most distinct—and historically consistent—feature of the Gnostic profile is its treatment of Jesus Christ. Because of their commitment to radical dualism (matter is evil) and the depersonalization of the Divine, Gnostic systems cannot accept the orthodox doctrine of the Incarnation (that God became a literal, physical human being). To solve this, they employ a mechanism described as **"Splitting the Identity"**.2
+
+> **[REFRAMING #22]**: "Splitting the identity" describes modern self-sourcing systems and the heresiologists' picture of the ancient ones. The surviving Valentinian texts — the Gospel of Philip and the Gospel of Truth above all — are correspondential compositions; in Philip "Christ" is the anointed one who receives ("the father anointed the son, and the son anointed the apostles, and the apostles anointed us", *Gos. Phil.* 74.12–24). See: The Living Library.
 
 ### **4.1 The Tactic of Splitting: The Human Vessel and the Water Metaphor**
 

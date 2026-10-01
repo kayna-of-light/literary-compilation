@@ -1,5 +1,15 @@
 # **The Pneumatic Cinema: A Forensic Investigation into the Swedenborgian Transmission Vectors of the Walt Disney Story Department (1930–1948)**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-10-01
+>
+> This document reflects **earlier understanding** on:
+> - **#22** [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — Calls selfhood "the root of all evil"
+>
+> **Summary**: The self is the vessel that must form before it can receive, not the antagonist or the source of evil. What the narratives dramatize is self-sourcing — the self claiming what flows through it as its own.
+> **Established correction (library)**: The Human Who Showed the Way_ The Soul Whose Heart Belonged to the Lord
+> ---
+
 ## **I. Introduction: The Historiographical Lacuna and the Metaphysics of Movement**
 
 ### **1.1 The Crisis of the Materialist Narrative**
@@ -131,7 +141,9 @@ Sears’s influence extended beyond *Snow White*. He famously rejected the *Chan
 
 In Swedenborgian theology, the belief that one is the source of life or light (selfhood) is the root of all evil. A character who believes they cause the sun to rise is, in Swedenborgian terms, in a state of profanation.
 
-> **[Editorial Note]**: The self is selfhood — the vessel that must form before it can receive. It becomes the root of evil only when it *claims* what flows through it as its own (self-sourcing). The Chanticleer character illustrates this claiming perfectly — but the self itself is not evil; the directional error of self-sourcing is. See: *The Human Who Showed the Way*. Sears’s instinct to reject this character suggests an intuitive alignment with the ethic of humility and the acknowledgment of Influx (that life flows *from* the Lord, not *from* the self). His editorial hand consistently steered the studio away from ego-centric narratives toward narratives of submission and reception.
+> **[REFRAMING #22]**: The self is selfhood — the vessel that must form before it can receive. It becomes the root of evil only when it *claims* what flows through it as its own (self-sourcing). The Chanticleer character illustrates this claiming perfectly — but the self itself is not evil; the directional error of self-sourcing is. See: *The Human Who Showed the Way*.
+
+Sears’s instinct to reject this character suggests an intuitive alignment with the ethic of humility and the acknowledgment of Influx (that life flows *from* the Lord, not *from* the self). His editorial hand consistently steered the studio away from ego-centric narratives toward narratives of submission and reception.
 
 ## ---
 

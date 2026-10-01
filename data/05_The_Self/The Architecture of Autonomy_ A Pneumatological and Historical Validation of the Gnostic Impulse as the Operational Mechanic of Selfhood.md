@@ -1,14 +1,14 @@
 # **The Architecture of Autonomy: A Pneumatological and Historical Validation of the Gnostic Impulse as the Operational Mechanic of Selfhood**
 
 > ---
-> **📋 Editorial Notes** | Last reviewed: 2026-04-11
+> **📋 Editorial Notes** | Last reviewed: 2026-10-01
 > 
 > This document reflects **earlier understanding** on:
-> - **#22** The Self and Selfhood — **CRITICAL**: Defines the self as "inherently dead/evil" and equates it with self-love
+> - **#22** The Self and Selfhood — **CRITICAL**: Defines the self as "inherently dead/evil" and equates it with self-love; also validates a single "Gnostic Impulse" running from Valentinus to ACIM
 > 
 > **Summary**: the self is not inherently evil — it is the vessel (selfhood) that must form before it can receive. It becomes the obstacle only when it claims what flows through it as its own possession (self-sourcing). Self-love is one possible orientation of the vessel, not what the vessel IS. The observations about self-sourcing mechanics (spiritual theft, claiming divine attributes) remain valid.
 > - **#23** [Glorification as Unique Divine Process](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#23-glorification-as-unique-divine-process) — §2.1 cites Swedenborg’s glorification mechanism as the ground for refuting separationism. The mechanism has been corrected; the conclusion (real and permanent union) stands on different grounds.
-> **Established correction (library)**: *The Human Who Showed the Way*; The Bridge That Became the Path_ The Lord’s Operation Through the Vessel, and the Error of Making One Soul the Exception.md
+> **Established correction (library)**: *The Human Who Showed the Way*; Reversing the Arrow_ 'Gnosticism' as the Downstream Literalization of Correspondential Composition; The Living Library_ Correspondential Architecture Across the Nag Hammadi Collection; The Bridge That Became the Path_ The Lord’s Operation Through the Vessel, and the Error of Making One Soul the Exception.md
 > ---
 
 ## **Executive Summary: The Structural Consistency of Self-Deification**
@@ -18,6 +18,8 @@ The document *The Architecture of Hidden Divinity: A Comprehensive Profile of th
 Crucially, the *Architecture* hypothesis asserts that this theological machinery is the direct operationalization of a specific affective state: the "Ruling Love" (*Amor Regnans*) of the self, or what the 18th-century theologian Emanuel Swedenborg termed the the self. This report undertakes an exhaustive, expert-level validation of this thesis. By cross-referencing the claims of the *Architecture* document against the massive theological corpus of Swedenborg and the historical record of Gnostic, Theosophical, and New Age Christologies, we confirm the validity of the user's hypothesis.
 
 The analysis reveals that the "Gnostic Impulse" is not merely a history of ideas, but the "ultimate" form of the the self’s inherent drive for autonomy. Whether manifesting as the "Christ Aeon" of Valentinus, the "Sananda" of the Ashtar Command, or the "God-Self" of modern spirituality, the trajectory is immutable: it seeks to dismantle the "Divine Human"—the external, ruling, and visible God—to vacate the throne of the universe for the internal, autonomous Self. This report delineates the specific mechanics of this "spiritual theft," validating the *Architecture* document as a precise anatomical map of the "Antagonist Selfhood" in its intellectual form.
+
+> **[REFRAMING #22]**: "Gnostic Impulse" brands a diverse ancient literature as one pathology. The corrected understanding separates two things: **self-sourcing** — the self claiming what flows through it as its own, which occurs everywhere (in Paul, in institutional Christianity, in modern spirituality), not only in texts labelled Gnostic — and **literalization** — correspondential texts read without their key. Many texts called "Gnostic" (the Gospel of Philip, the Gospel of Thomas, the Gospel of Truth) are themselves correspondential compositions. See: Reversing the Arrow; The Living Library.
 
 ## ---
 
@@ -76,6 +78,8 @@ The *Architecture* document identifies the "Christology of Separation" as the pr
 Historical analysis confirms that the "Splitting" tactic is the foundational move of classical Gnosticism. The Valentinian school, led by Valentinus (c. 100–160 AD), developed a sophisticated Christology that explicitly separated the "Savior" (a divine Aeon from the Pleroma) from the "Jesus" (a psychic or material vessel constructed by the Demiurge).15
 
 The *Architecture* accurately describes the specific mechanics of this split.1 Valentinianism taught that the Christ Aeon descended upon the human Jesus at his baptism (often visualized as the dove) and withdrew prior to the crucifixion.10 This doctrine, known as separationism or docetism, served a specific theological utility: it preserved the "impassibility" of the Divine. If the Christ is pure spirit, he cannot suffer, bleed, or die. Therefore, the figure on the cross must be the human Jesus alone, or a psychic simulacrum.
+
+> **[REFRAMING #22]**: This account of Valentinian Christology comes from the heresiologists (Irenaeus, *Haer.* 1.7.2), hostile witnesses reading the system literally. The Valentinian texts themselves — the Gospel of Philip and the Gospel of Truth above all — are correspondential compositions. Philip teaches that truth "came in types and images", and its "Christ" is the anointed one who *receives*: "the father anointed the son, and the son anointed the apostles, and the apostles anointed us" (*Gos. Phil.* 74.12–24). That is reception, not the self-claiming of the modern systems. See: The Living Library; Reversing the Arrow.
 
 This mechanic effectively reduces Jesus to a temporary container or "microphone" for the Divine.1 It validates the *Architecture's* assertion that this mechanic "dismantles the Divine Human." If the Divine merely *visited* the human, then the human was never truly God. The Incarnation becomes a costume change rather than a permanent union (Hypostatic Union).
 

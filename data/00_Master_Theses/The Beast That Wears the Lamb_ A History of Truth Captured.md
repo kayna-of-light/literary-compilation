@@ -1,5 +1,15 @@
 # The Beast That Wears the Lamb: A History of Truth Captured
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-10-01
+>
+> This document reflects **earlier understanding** on:
+> - **#22** [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — §§ on the Pauline schools group the Valentinians with Marcionites and proto-orthodox as fragments of self-love "from Paul's seed"
+>
+> **Summary**: The thesis's pattern of appropriation and capture stands. What changes is the classification of the Valentinians: their surviving writings are correspondential compositions, and what fragmented was their reception (literalization), not their source.
+> **Established correction (library)**: Reversing the Arrow_ 'Gnosticism' as the Downstream Literalization of Correspondential Composition; The Living Library_ Correspondential Architecture Across the Nag Hammadi Collection
+> ---
+
 
 ## How the Same Pattern of Appropriation, Literalization, and Institutional Capture Has Shaped Every Age of Human History — and Why the Truth Survives Regardless
 
@@ -327,6 +337,8 @@ And the institution that produced the forgeries — that forged letters in the n
 
 The multiplication of groups that grew from Paul's seed — the Marcionites, the Valentinians, the Basilidians, the proto-orthodox, and dozens more — is itself the diagnostic. Genuine truth unites. Those who love the Lord and love the neighbor cohere naturally, because truth coheres. Self-love fragments, because each self arranges truth's outer form to match its own ruling love, and each self has different loves. When you see tens of thousands of denominations, each claiming to possess the truth, each different from the others — you are not seeing honest seekers who happened to diverge. You are seeing self-love in multiple forms, each wearing truth's clothing cut to its own measure.
 
+> **[REFRAMING #22]**: Grouping the Valentinians with the Marcionites and the proto-orthodox as fragments "from Paul's seed" treats a diverse literature as one product of self-love. The Valentinian writings that survive (the Gospel of Philip, the Gospel of Truth) are correspondential compositions with their own key; what fragmented was their reception, through literalization. See: The Living Library; Reversing the Arrow.
+
 But genuine truth did also arise in this landscape — because the Lord does not stop giving. Here and there, when someone genuinely searched, they found something real. And what they found stood in stark contrast to the fragmentation around it — because genuine truth coheres with reality in a way that self-love's arrangements never can. It stood out. It was different. And for a time it could even bloom — when people genuinely perceived it and gave room for it.
 
 But in a landscape dominated by self-love wearing truth's clothing, genuine truth is immediately vulnerable. It is easily captured by a false light — by someone who sees its power and appropriates it for their own purposes. It is suppressed by those who do not perceive it and cannot tolerate what they do not control. And those who follow it — those who genuinely search for it and find it — are suppressed too. They cannot "buy or sell" without the mark. They cannot participate in the marketplace of spiritual commerce that the beast controls. Not because what they perceive is wrong. Because what they perceive does not bear the mark.
@@ -384,6 +396,8 @@ As documented in §5.3, Paul's letters are not the innocent outer form of genuin
 But the letters also contain language that sounds like truth. That is what makes them so effective as clothing for the beast. Paul speaks of grace, of love, of the spirit, of freedom from the law. He uses the vocabulary of genuine spiritual perception — the distinction between external compliance and internal transformation, the experience of something arriving from beyond the self. These are real words. They describe real things. And it is precisely because they describe real things that they are so useful to self-love. The finest costume is not made of obvious falsity. The finest costume is made of truth's outer form — genuine words, genuine vocabulary, genuine spiritual concepts — arranged to serve "my gospel" rather than the Lord's truth.
 
 The communities that built on Paul's letters — the Valentinians, the Marcionites, the proto-orthodox, the dozens of groups that proliferated from the Pauline seed — each arranged his rhetoric to match their own ruling love. The Valentinian arranged it one way. The Marcionite another. The institutional faction a third. The multiplication itself is the diagnostic: genuine truth unites, because those who love the Lord cohere naturally. Self-love fragments, because each self arranges truth's outer form to match its own desires. When you see dozens of competing Pauline schools, you are seeing self-love in multiple forms — each wearing Paul's vocabulary, each cutting the costume to its own measure.
+
+> **[REFRAMING #22]**: As noted above, the surviving Valentinian writings (Philip, the Gospel of Truth) are correspondential compositions, not one more Pauline school arranged by self-love. See: The Living Library.
 
 And yet genuine truth also arose within this landscape — because the Lord does not stop giving, and here and there someone genuinely sought the Lord through whatever distorted light was available. But in a landscape where self-love controlled the outer forms, genuine perception was immediately vulnerable — captured, suppressed, or drowned in the noise of competing claims. The woman gives birth, and the dragon stands waiting.
 

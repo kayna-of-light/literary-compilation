@@ -1,11 +1,14 @@
 # **The Correction of the Archons: A Forensic Reconstruction of the Quranic Isa in Counter-Distinction to the Pauline Gnostic Construct**
 
 > ---
-> **📋 Editorial Notes** | Last reviewed: 2026-04-11
+> **📋 Editorial Notes** | Last reviewed: 2026-10-01
 > 
 > This document reflects **partial alignment** with:
 > - **#19** [The Aligned Human](../02_Swedenborgian_Theology/The%20Divine%20Human%20in%20Ultimates_%20A%20Phenomenological%20and%20Forensic%20Re-Evaluation%20of%20the%20Aligned%20Soul.md) — This document correctly identifies the Gnostic "splitting" error and shows how the Quran restores "Jesus of History." However, the framework's synthesis is more than restoration of the historical: the "Christ of Faith" and "Jesus of History" *interpenetrate*. The Aligned Human is not merely "Jesus the prophet" but a human filled with the Lord through orientation of ruling love.
 > 
+> This document reflects **earlier understanding** on:
+> - **#22** [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — §2.1 names Paul's theology the "Gnostic Impulse"; corrected: Paul's error is self-sourcing, and "Gnosticism" is not one pathology (see Reversing the Arrow).
+>
 > **Summary**: Valuable analysis of Gnostic error; the framework adds that Divine and Human interpenetrate rather than simply returning to pre-theological history.
 > **Established correction (library)**: *The Divine Human in Ultimates*
 > ---
@@ -29,6 +32,8 @@ To comprehend the corrective nature of the Quranic *Isa*, we must first establis
 ### **2.1 The Gnostic Substrate of Pauline Theology**
 
 Traditional history views Gnosticism as a second-century corruption of Christianity. However, the workspace documents, supported by critical scholarship (Bauer, Eisenman, and others cited in snippets), argue that the "Gnostic Impulse" was intrinsic to Paul’s own mission. The "Pauline Gnosis" is defined by three structural pillars that the Quran systematically dismantles.
+
+> **[REFRAMING #22]**: What this section diagnoses in Paul is **self-sourcing** — claiming exclusive pneumatic authority for his own revelation. Calling it the "Gnostic Impulse" imports the heresiologists' picture of "Gnosticism" as one pathology. The texts later grouped under that name are diverse, and many are correspondential compositions that the label misreads (the Gospel of Philip, the Gospel of Thomas). See: Reversing the Arrow; The Living Library.
 
 #### **2.1.1 Anti-Cosmic Dualism and the "God of This World"**
 

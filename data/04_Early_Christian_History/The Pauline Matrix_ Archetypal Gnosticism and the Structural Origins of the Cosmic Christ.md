@@ -1,5 +1,15 @@
 # **The Pauline Matrix: Archetypal Gnosticism and the Structural Origins of the Cosmic Christ**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-10-01
+>
+> This document reflects **earlier understanding** on:
+> - **#22** [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — Section I defines a single "Gnostic impulse" and makes Paul its archetype
+>
+> **Summary**: The analysis of Paul's epistemology of autonomy stands as an account of self-sourcing. "Gnosticism" is not one movement or impulse. Two phenomena are distinct: self-sourcing (the self claiming what flows through it, found everywhere) and literalization (correspondential texts read without their key). Many texts labelled "Gnostic" are correspondential compositions.
+> **Established correction (library)**: Reversing the Arrow_ 'Gnosticism' as the Downstream Literalization of Correspondential Composition; The Living Library_ Correspondential Architecture Across the Nag Hammadi Collection
+> ---
+
 
 ## **Abstract**
 
@@ -8,6 +18,8 @@ The history of early Christian origins has long been dominated by a heresiologic
 ## **Section I: The Epistemology of Autonomy – Revelation Over Tradition**
 
 The defining characteristic of the Gnostic impulse is the prioritization of direct, subjective revelation (*gnosis*) over received historical tradition, institutional authority, or empirical data.
+
+> **[REFRAMING #22]**: What this section diagnoses in Paul is **self-sourcing** — claiming exclusive pneumatic authority for his own revelation. Calling it the "Gnostic Impulse" imports the heresiologists' picture of "Gnosticism" as one pathology. The texts later grouped under that name are diverse, and many are correspondential compositions that the label misreads (the Gospel of Philip, the Gospel of Thomas). See: Reversing the Arrow; The Living Library.
 
 The Gnostic claim is that truth is not mediated through texts, priests, or historical succession, but is accessed vertically through an unmediated encounter with the divine that bypasses the structures of the material world. Paul establishes this epistemological framework explicitly, serving as the prototype for the "Gnostic Apostle" who derives authority solely from the pneumatic realm, thereby invalidating the historical authority of the Jerusalem pillars.
 

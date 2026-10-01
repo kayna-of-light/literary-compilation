@@ -1,5 +1,15 @@
 # **The Mirror and the Void: An Archival and Pneumatological Exegesis of the Rejected Adaptations of the Walt Disney Studio**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-10-01
+>
+> This document reflects **earlier understanding** on:
+> - **#22** [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — Calls selfhood "the root of all spiritual evil" / "the central antagonist"
+>
+> **Summary**: The self is the vessel that must form before it can receive, not the antagonist or the source of evil. What the narratives dramatize is self-sourcing — the self claiming what flows through it as its own.
+> **Established correction (library)**: The Human Who Showed the Way_ The Soul Whose Heart Belonged to the Lord
+> ---
+
 ## **I. Introduction: The Selection Pressure of the Animate Landscape**
 
 ### **1.1 The Historiographical Problem of Selection**
@@ -120,7 +130,7 @@ Why was *Chanticleer* rejected when *Bambi* and *Dumbo* (also animal stories) we
 
 In Swedenborgian theology, "Selfhood" is the selfhood—the false belief that life, intelligence, and power originate from oneself rather than flowing in from the Divine. It is the root of all spiritual evil. Chanticleer is the embodiment of Selfhood: he believes *he* causes the sun to rise. He believes he is the Cause, and the universe is the Effect.
 
-> **[Editorial Note]**: Selfhood IS selfhood — the vessel that must form before it can receive. The "false belief" described here is **self-sourcing** — a specific directional error the self can make when it claims what flows through it as its own. The self itself is not the error; claiming ownership is. See: *The Human Who Showed the Way*.
+> **[REFRAMING #22]**: Selfhood IS selfhood — the vessel that must form before it can receive. The "false belief" described here is **self-sourcing** — a specific directional error the self can make when it claims what flows through it as its own. The self itself is not the error; claiming ownership is. See: *The Human Who Showed the Way*.
 
 * **The Disney Hero:** Typically characterized by humility or a realization of dependency. Pinocchio needs the Blue Fairy; Dumbo needs the feather and Timothy; Arthur (*Sword in the Stone*) needs Merlin. They align themselves with the flow of Providence.  
 * **Chanticleer:** Believes he *is* Providence.

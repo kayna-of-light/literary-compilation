@@ -1,14 +1,14 @@
 # **A Comparative Analysis of Non-Religious Christologies: The Battle for the 'Lord in Ultimates'**
 
 > ---
-> **📋 Editorial Notes** | Last reviewed: 2026-06-14
+> **📋 Editorial Notes** | Last reviewed: 2026-10-01
 >
 > This document reflects **earlier understanding** on:
-> - **#22** [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — The original Path binary used Jesus-naming as its criterion: affirming Jesus = Path of Affirmation; not-Jesus = Path of Gnosis. The corrected structural distinction: the marker is whether the encounter produces reception from the Lord (love flowing outward) or self-appropriation. This structural error operates under any identification name, including Jesus.
+> - **#22** [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — The original Path binary used Jesus-naming as its criterion: affirming Jesus = Path of Affirmation; not-Jesus = Path of Gnosis. The corrected structural distinction: the marker is whether the encounter produces reception from the Lord (love flowing outward) or self-appropriation. This structural error operates under any identification name, including Jesus. The document also files the ancient texts (Valentinianism, the Gospel of Philip) with Theosophy, *A Course in Miracles* and the Law of One as one "Path of Gnosis"; corrected: the modern systems show self-sourcing, while the ancient texts are largely correspondential compositions, literalized downstream.
 > - **#24** [The Divine Human as Eternal Attribute](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#24-the-divine-human-as-eternal-attribute-lords-form-vs-vessel-expression) — The document treats Jesus-identification as "pure" while all other identification forms are adaptations or lesser. The corrected position: the Lord is the Divine Human from eternity (*DLW* §§11–13); the Incarnation expressed this in ultimates, it did not originate it. All identification forms are the receiver's cultural vocabulary for the same constant encounter. The NDE dataset used here is predominantly Western and Christian; outlier non-Christian Jesus-identifications do not override the majority pattern or the chi-square result (χ² = 365.14, p < 0.0001) confirming cultural mediation.
 >
-> **Summary**: The Affirmation/Self-Appropriation structural distinction is correct; the criterion (Jesus-naming) and the ontological privilege claim (Jesus-identification as "pure") are not. Both have been corrected in the body text.
-> **Established correction (library)**: The Bridge That Became the Path_ The Lord's Operation Through the Vessel, and the Error of Making One Soul the Exception
+> **Summary**: The Affirmation/Self-Appropriation structural distinction is correct; the criterion (Jesus-naming) and the ontological privilege claim (Jesus-identification as "pure") are not. Both have been corrected in the body text. The "Path of Gnosis" name and the use of Valentinianism and the Gospel of Philip as the blueprint for modern self-sourcing are not corrected in the body; inline notes mark them.
+> **Established correction (library)**: The Bridge That Became the Path_ The Lord's Operation Through the Vessel, and the Error of Making One Soul the Exception (#24); Reversing the Arrow_ 'Gnosticism' as the Downstream Literalization of Correspondential Composition; The Living Library_ Correspondential Architecture Across the Nag Hammadi Collection (#22)
 > ---
 
 ## **I. Introduction: The Phenomenological Battle for the Lord**
@@ -57,11 +57,15 @@ This NDE data reveals a "Dogma Paradox": the figure identified as Jesus delivers
 
 This section maps the frameworks that actively work to *dismantle* the "pure identification" of the "Lord in ultimates". This "Path of Gnosis" is defined by its *cognitive* nature. This path is "very inconsistent" and its *only* coherent feature is its *consistent strategy* of denial.
 
+> **[REFRAMING #22]**: The "Path of Gnosis" label files modern systems (Theosophy, Urantia, the Ascended Masters, *A Course in Miracles*, the Law of One) under the name of an ancient literature. What these systems show is **self-sourcing** — the self claiming the divine as its own nature or status — and that is the correct name for this path. The ancient texts called "Gnostic" are a separate matter: many are correspondential compositions that were literalized downstream. See: Reversing the Arrow; The Living Library.
+
 ### **A. Tactic 1: Splitting the Identity (The Gnostic Blueprint)**
 
 The primary tactic is the *separation* of the fallible human "Jesus" from the divine, impersonal "Christ" aeon or principle.
 
 * **Ancient Gnosticism:** The Valentinian Gnostic model states the divine "Savior" (the Christ aeon) descended upon the human Jesus at his baptism and *withdrew* from him before the crucifixion, leaving the human part to suffer alone (Irenaeus, *Haer.* 1.7.2). This shatters the "Divine Human" correspondence. Jesus is not the Lord, but the "saved savior" (Thomassen 2006, quoted in McCoy n.d.)—a *model* for others to achieve gnosis.  
+
+> **[REFRAMING #22]**: This account of Valentinian Christology comes from the heresiologists (Irenaeus, *Haer.* 1.7.2), hostile witnesses reading the system literally. The Valentinian texts themselves — the Gospel of Philip and the Gospel of Truth above all — are correspondential compositions. Philip teaches that truth "came in types and images", and its "Christ" is the anointed one who *receives*: "the father anointed the son, and the son anointed the apostles, and the apostles anointed us" (*Gos. Phil.* 74.12–24). That is reception, not the self-claiming of the modern systems. See: The Living Library; Reversing the Arrow.
 * **Theosophy:** This blueprint was modernized by Theosophy. Blavatsky stated that Jesus was a "philosopher and moral reformer" (Blavatsky 1877) but separated this man from the "Christos," the *impersonal* divine principle *indwelling all humans* (Blavatsky 1889). Later Theosophists taught that the "Christ" was a *separate entity* (the Lord Maitreya) who "occupied the body of" the adept Jesus (Leadbeater 1925).  
 * ***The Urantia Book***: This text performs the *exact same* Gnostic "split". It *dismantles* the "Divine Human" correspondence by "splitting the divine itself". It states that the "Eternal Son" is the *actual* second person of the Trinity, but that the man Jesus was the incarnation of "Michael of Nebadon". Crucially, it claims this "Michael" is *not* the "Eternal Son" but just *one of more than 700,000* "Creator Sons" (*Urantia Book* 21:1.4).
 
@@ -83,6 +87,8 @@ The systems that appear to be "hybrids" are, upon closer inspection, more sophis
 * **Gnostic Tactic:** It *uses* the *authority* of the "Path of Affirmation" by claiming to be dictated by Jesus himself (Center for A Course in Miracles n.d.).  
 * **Gnostic Message:** It uses this authority to deliver a *purely Gnostic* message: that the world is an "illusion" of "separation" and that "Christ" is not Jesus, but the *impersonal, shared identity* of the *entire* "Sonship" (all of creation) (*A Course in Miracles* T-2; Center for A Course in Miracles n.d.).  
 * **Analysis:** This is the *exact same* Gnostic "dismantling" tactic seen in the *Gospel of Philip* ("is no longer a Christian but is Christ"; *Gos. Phil.* 67.26–27, trans. Scopello and Meyer 2008) and in Joseph Campbell's New Age summary (the idea that "God was in Christ" is "true of *you and me as well*"; Campbell 1988, quoted in Groothuis 1990). The personal "Jesus" is used as a vehicle to teach that *we are all* the "Divine Human."
+
+> **[REFRAMING #22]**: The Gospel of Philip line does not belong beside Campbell and *A Course in Miracles*. In Philip's own usage "Christ" means the anointed one: "it is because of the chrism that 'the Christ' has his name. For the father anointed the son, and the son anointed the apostles, and the apostles anointed us" (*Gos. Phil.* 74.12–24). To become "a Christ" is to receive the anointing in full, handed down from the Father — reception, the opposite of discovering one was divine all along. Philip is a correspondential composition. See: The Living Library.
 
 ### **B. The Law of One (Ra Material)**
 

@@ -1,5 +1,15 @@
 # **The Divine Human in Ultimates: A Phenomenological and Forensic Re-Evaluation of the Aligned Soul**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-10-01
+>
+> This document reflects **earlier understanding** on:
+> - **#22** [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — Calls the Self "the central antagonist"
+>
+> **Summary**: The self is the vessel that must form before it can receive, not the antagonist or the source of evil. What the narratives dramatize is self-sourcing — the self claiming what flows through it as its own.
+> **Established correction (library)**: The Human Who Showed the Way_ The Soul Whose Heart Belonged to the Lord
+> ---
+
 ## **I. Introduction: The Reality of the Aligned Person**
 
 The figure of Jesus has historically been obscured by a forced dichotomy between the "Historical Jesus" (a secular reconstruction) and the "Christ of Faith" (a dogmatic construct). However, a rigorous synthesis of the "Divine Bricolage" framework, the "Jamesian" tradition, and the empirical phenomenology of Near-Death Experiences (NDEs) reveals a third, more profound reality: the **Aligned Human**.
@@ -44,7 +54,7 @@ This "biological determinism" dehumanizes Jesus, turning him into a "God-Man" hy
 
 The mechanism of his divinity was not biological origin, but the **removal of obstruction**. The central antagonist is the **Self** (Self-hood/Self-Love).6
 
-> **[Editorial Note]**: The self is selfhood — the vessel that must form before it can receive. It is not inherently antagonistic; it becomes the obstacle only when oriented toward self-love and claiming what flows through it as its own possession. "Central antagonist" here refers to the self *in its self-sourcing orientation*, not to selfhood as such.
+> **[REFRAMING #22]**: The self is selfhood — the vessel that must form before it can receive. It is not inherently antagonistic; it becomes the obstacle only when oriented toward self-love and claiming what flows through it as its own possession. "Central antagonist" here refers to the self *in its self-sourcing orientation*, not to selfhood as such.
 
 * **The Obstruction:** The *self* is the "love of self" that interprets Divine Influx as its own possession ("I am powerful," "I am wise"). This blocks the flow of the Lord.  
 * **The Alignment:** Jesus represents the rare, profound instance where a human soul completely silenced the *self*. He did not just *channel* the Lord; he became a transparency. Because there was no "self" blocking the light, the "Lord in Ultimates" could shine through him perfectly.

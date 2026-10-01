@@ -1,5 +1,15 @@
 # **The Imperial Gnosis: A Forensic Validation of the Displacement of Early Heterodoxies by the Roman Ecclesiastical Machine**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-10-01
+>
+> This document reflects **earlier understanding** on:
+> - **#22** [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — Part V characterizes the displaced Egyptian, Edessene and Asian Christianities as one "Gnostic Impulse"
+>
+> **Summary**: The displacement history stands. The displaced communities were diverse, and "Gnostic Impulse" brands them as one pathology; much of their literature is correspondential composition. "Gnosticism" is not one movement or impulse. Two phenomena are distinct: self-sourcing (the self claiming what flows through it, found everywhere) and literalization (correspondential texts read without their key). Many texts labelled "Gnostic" are correspondential compositions.
+> **Established correction (library)**: Reversing the Arrow_ 'Gnosticism' as the Downstream Literalization of Correspondential Composition; The Living Library_ Correspondential Architecture Across the Nag Hammadi Collection
+> ---
+
 ## **Executive Summary: The Architecture of Displacement**
 
 The history of early Christianity, as enshrined in the traditional ecclesiastical narratives of Eusebius and his successors, posits a linear and unbroken trajectory of "proto-orthodoxy"—a unified apostolic deposit of faith that expanded outward from Jerusalem, maintaining a cohesive theological core while battling peripheral and later corruptions labeled "heresies." This narrative frames the Gnostic, Marcionite, and other heterodox movements as deviant innovations that sought to pollute the pristine stream of apostolic truth. However, a rigorous forensic analysis of the historical, archaeological, and textual evidence—viewed through the lens of the "Bauer Thesis" and substantiated by the specific claims within the document *The Apostle of the Archons*—reveals a radically different historical reality.  
@@ -160,6 +170,8 @@ The clearest example of Rome "pushing out" an ancient Asian tradition is the **Q
 ## **Part V: The Theological DNA of the Displaced**
 
 The "Apostle of the Archons" document characterizes the theology of these displaced groups as the "Gnostic Impulse." This impulse is defined by three structural pillars that Rome sought to eradicate because they were fundamentally incompatible with the project of an imperial, universal church.
+
+> **[REFRAMING #22]**: "Gnostic Impulse" brands a diverse ancient literature as one pathology. The corrected understanding separates two things: **self-sourcing** — the self claiming what flows through it as its own, which occurs everywhere (in Paul, in institutional Christianity, in modern spirituality), not only in texts labelled Gnostic — and **literalization** — correspondential texts read without their key. Many texts called "Gnostic" (the Gospel of Philip, the Gospel of Thomas, the Gospel of Truth) are themselves correspondential compositions. See: Reversing the Arrow; The Living Library.
 
 ### **5.1 Anti-Cosmic Dualism vs. The Good Creation**
 

@@ -3,11 +3,12 @@
 # **A Coherent Framework for Spiritual History: Weaving the Divine Bricolage**
 
 > ---
-> **📋 Editorial Notes** | Last reviewed: 2026-01-27
+> **📋 Editorial Notes** | Last reviewed: 2026-10-01
 > 
 > This document reflects **earlier understanding** on:
 > - **#2** [Biological Determinism about Jesus](../00_Framework/Epistle%20%E2%80%94%20The%20Divine%20Marriage%20and%20the%20Expression%20of%20the%20Lord%20in%20Ultimates.md) — Section 5.1 uses "soul from the Father / body from the mother" framing; current position: Jesus was a human being whose ruling love was oriented toward the Divine, so the Lord flowed through him without obstruction. This is the path of regeneration any human can walk.
 > - **#26** [Paleolithic Geometric Signs: Bounded Inventory Is Not a Decoded Lexicon](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#26-paleolithic-geometric-signs-bounded-inventory-is-not-a-decoded-lexicon) — §2.2 treats an exact count of thirty-two as archaeologically intrinsic and derives numerical significance from it.
+> - **#22** [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — §5.2 names the modern systems (Theosophy, Urantia, Ascended Masters, ACIM) the "Path of Gnosis"; corrected: what they show is self-sourcing, and the ancient "Gnostic" texts are a separate, largely correspondential literature (see Reversing the Arrow; The Living Library).
 > 
 > **Summary**: The "assumed human nature from the mother" language reflects 18th-century embryology. The self is not removed but oriented—Jesus's ruling love was always toward the Divine.
 > - **#23** [Glorification as Unique Divine Process](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#23-glorification-as-unique-divine-process) — §5.1 frames glorification as the Lord’s unique cosmic process, categorically distinct from regeneration. The corrected view: the mechanics are identical to regeneration; what differs is completeness of reception.
@@ -200,6 +201,8 @@ This path is defined by the direct *reception* of the Divine Human. It is experi
 #### **The Path of Gnosis (The Path of Dismantling)**
 
 This path represents the resistance of the *self* (self-love). Its defining strategy is to *dismantle* the specific identity of the Divine Human to "establish ourselves as the prime suspects for gnosis".12 It employs three primary tactics:
+
+> **[REFRAMING #22]**: The "Path of Gnosis" label files modern systems (Theosophy, Urantia, the Ascended Masters, *A Course in Miracles*, the Law of One) under the name of an ancient literature. What these systems show is **self-sourcing** — the self claiming the divine as its own nature or status — and that is the correct name for this path. The ancient texts called "Gnostic" are a separate matter: many are correspondential compositions that were literalized downstream. See: Reversing the Arrow; The Living Library.
 
 1. **Splitting the Identity:** Separating the man "Jesus" from an impersonal "Christ."  
    * *Theosophy:* Claims Jesus was merely a vehicle for the "Lord Maitreya" or an impersonal "Christos" principle.12  

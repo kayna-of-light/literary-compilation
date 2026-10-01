@@ -1,14 +1,14 @@
 # **The Paradox of the Pneumatic Ego: A Forensic Analysis of Pauline Humility, Rhetorical Strategy, and the Theology of Selfhood**
 
 > ---
-> **📋 Editorial Notes** | Last reviewed: 2026-04-11
+> **📋 Editorial Notes** | Last reviewed: 2026-10-01
 >
 > This document reflects **earlier understanding** on:
 > - **#9** [Resurrection Narrative Evolution](../03_Biblical_Scholarship/The%20Anatomy%20of%20Ascension_%20A%20Critical-Historical%20and%20Phenomenological%20Reconstruction%20of%20the%20Resurrection%20Narrative%20from%20Pauline%20Pneumatology%20to%20the.md) — This analysis treats Luke's "broiled fish" scene as straightforward historical grounding for the "Actual Jesus," without flagging the textual layering and anti-Docetic polemic of the later Gospel strata.
-> - **#22** The Self and Selfhood — Treats selfhood as inherently "black" and evil
+> - **#22** [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — Treats selfhood as inherently "black" and evil; §2.2 names Paul's self-claiming the "Gnostic Impulse"
 >
 > **Summary**: The physical-proof motifs ("flesh and bones", eating fish, touching wounds) are best read as later materializing layers in the tradition. Additionally, selfhood is treated as inherently evil rather than as a vessel whose *orientation* determines obstruction.
-> **Established correction (library)**: The Anatomy of Ascension (for #9); *The Human Who Showed the Way* (for #22)
+> **Established correction (library)**: The Anatomy of Ascension (for #9); *The Human Who Showed the Way*; Reversing the Arrow (for #22)
 > ---
 
 ## **1\. Introduction: The Theological Crisis of the Self**
@@ -39,6 +39,8 @@ In this context, "selfhood" is defined as the state of the human will when it is
 ### **2.2 The Epistemology of Autonomy and the "Gnostic Impulse"**
 
 The diagnosis of selfhood-claiming is inextricably linked to what the research identifies as the "Gnostic Impulse".2 Paul’s foundational claim to authority is his "Epistemology of Autonomy"—the assertion in Galatians 1:11-12 that his gospel was "not from man," nor was he taught it, but it came through a direct "revelation of Jesus Christ."
+
+> **[REFRAMING #22]**: What this section diagnoses in Paul is **self-sourcing** — claiming exclusive pneumatic authority for his own revelation. Calling it the "Gnostic Impulse" imports the heresiologists' picture of "Gnosticism" as one pathology. The texts later grouped under that name are diverse, and many are correspondential compositions that the label misreads (the Gospel of Philip, the Gospel of Thomas). See: Reversing the Arrow; The Living Library.
 
 This claim is the structural epicenter of the selfhood diagnosis. By explicitly rejecting the "flesh and blood" testimony of the historical apostles (Peter and James), Paul anchors truth in the subjective, pneumatic experience of the individual.3
 

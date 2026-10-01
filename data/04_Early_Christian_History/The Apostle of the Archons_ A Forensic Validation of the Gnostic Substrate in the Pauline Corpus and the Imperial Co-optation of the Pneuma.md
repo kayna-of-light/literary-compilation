@@ -1,13 +1,13 @@
 # **The Apostle of the Archons: A Forensic Validation of the Gnostic Substrate in the Pauline Corpus and the Imperial Co-optation of the Pneuma**
 
 > ---
-> **📋 Editorial Notes** | Last reviewed: 2026-04-11
+> **📋 Editorial Notes** | Last reviewed: 2026-10-01
 > 
 > This document reflects **earlier understanding** on:
-> - **#22** The Self and Selfhood — Treats the self as inherently "black" and evil
+> - **#22** [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — Treats the self as inherently "black" and evil; also uses "Gnostic Impulse" as one category for Paul and the Sethian, Valentinian and Marcionite communities
 > 
-> **Summary**: This document correctly identifies Gnostic structural features in Pauline theology. However, the self is treated as inherently evil rather than as a vessel whose *orientation* determines whether it obstructs. The self is what is one's own — the condition for development, not the enemy.
-> **Established correction (library)**: *The Human Who Showed the Way*
+> **Summary**: This document correctly identifies Gnostic structural features in Pauline theology. However, the self is treated as inherently evil rather than as a vessel whose *orientation* determines whether it obstructs. The self is what is one's own — the condition for development, not the enemy. Paul's error is better named self-sourcing; the ancient communities lumped with him are diverse, and much of their literature is correspondential composition.
+> **Established correction (library)**: *The Human Who Showed the Way*; Reversing the Arrow_ 'Gnosticism' as the Downstream Literalization of Correspondential Composition; The Living Library_ Correspondential Architecture Across the Nag Hammadi Collection
 > ---
 
 ## **Executive Summary**
@@ -35,6 +35,8 @@ In this reconstructed historical landscape, Paul of Tarsus does not appear as th
 ### **1.2 The Definition of the Pauline Gnosis**
 
 The "Gnosticism" identified in Paul is defined by three specific theological operations, which the user's upload "The Architecture of Hidden Divinity" correctly identifies as the "Gnostic Impulse".6 This impulse is not merely a collection of myths about Aeons, but a specific "operational mechanic" of the spirit:
+
+> **[REFRAMING #22]**: What this section diagnoses in Paul is **self-sourcing** — claiming exclusive pneumatic authority for his own revelation. Calling it the "Gnostic Impulse" imports the heresiologists' picture of "Gnosticism" as one pathology. The texts later grouped under that name are diverse, and many are correspondential compositions that the label misreads (the Gospel of Philip, the Gospel of Thomas). See: Reversing the Arrow; The Living Library.
 
 1. **Anti-Cosmic Dualism:** A sharp ontological bifurcation between the realm of "Flesh" (*Sarx*), which is subject to sin, death, and the Law, and the realm of "Spirit" (*Pneuma*), which is the sphere of freedom and life. In Paul, the material world is not merely "fallen"; it is actively hostile, ruled by the "god of this world" (2 Cor 4:4).7 This mirrors the Swedenborgian concept of the *Selfhood* (self-hood) which is inherently "black" and separated from the Divine.6  
 2. **Esoteric Anthropology:** The classification of humanity into fixed spiritual categories based on their receptivity to the divine. Paul’s distinction between the *Pneumatikos* (Spiritual) and *Psychikos* (Soulish/Natural) man in 1 Corinthians 2:14 is the architectural blueprint for later Valentinian anthropology.9  
@@ -250,6 +252,8 @@ The church that won—the church of the Empire—did not destroy the Gnostic imp
 It took the radical, world-denying fire of Gnosticism and built a chimney around it called "The Church." By converting the untamable "inner Gnosis" into the manageable "Rule of Faith," and by transforming the "liberation from Archons" into "obedience to Bishops" (and eventually Emperors), the developing Orthodoxy created a hybrid religion. It was a Trojan Horse: it carried the Gnostic promise of escaping the material world, but it was pulled by the horses of Imperial power.
 
 The battle was indeed between different Gnostic movements. The "Losers" (Sethians, Valentinians, Marcionites) kept the pure, anarchic Gnostic content—the refusal to bow to the "god of this world." For this refusal, they were destroyed. The "Winners" (Pauline Orthodoxy) kept the Gnostic structure—the elitism, the mystery, the separation from the "natural man"—but they made a deal with the world they claimed to despise. They sanctified the state to ensure their own survival. Thus, Pauline Christianity is best understood not as the antithesis of Gnosticism, but as its **State-Approved variant**. It is the Gnostic impulse, tamed, collared, and put to work for the very Archons it once sought to overthrow.
+
+> **[REFRAMING #22]**: The Sethian, Valentinian and Marcionite communities did not share one "pure, anarchic Gnostic content". The Sethian and Valentinian texts are largely correspondential compositions, literalized downstream; Marcion read his texts at the natural level. Treating them as one movement is the error strain #22 corrects. See: Reversing the Arrow; The Literalized Fall; Dancing with Fire.
 
 ### **Table 1: The Gnostic Markers in Pauline Theology**
 

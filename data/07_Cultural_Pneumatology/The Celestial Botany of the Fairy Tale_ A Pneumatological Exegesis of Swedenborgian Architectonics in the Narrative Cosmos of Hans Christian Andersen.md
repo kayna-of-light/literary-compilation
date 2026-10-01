@@ -1,5 +1,15 @@
 # **The Celestial Botany of the Fairy Tale: A Pneumatological Exegesis of Swedenborgian Architectonics in the Narrative Cosmos of Hans Christian Andersen**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-10-01
+>
+> This document reflects **earlier understanding** on:
+> - **#22** [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — Calls the "Self" the source of all evil and "the Antagonist"
+>
+> **Summary**: The self is the vessel that must form before it can receive, not the antagonist or the source of evil. What the narratives dramatize is self-sourcing — the self claiming what flows through it as its own.
+> **Established correction (library)**: The Human Who Showed the Way_ The Soul Whose Heart Belonged to the Lord
+> ---
+
 ## **I. Introduction: The Cartography of the Invisible in the Danish Golden Age**
 
 The literary landscape of nineteenth-century Scandinavia was characterized by a profound and oscillating tension between the encroaching materialism of the industrial age, represented by the steam engine and the telegraph, and the lingering, luminous vapors of Romanticism, which sought the divine in the organic structure of the natural world. In Denmark, this tension crystallized in the era known as the "Golden Age" (*Den danske guldalder*), a period of extraordinary intellectual fertility roughly spanning the first half of the nineteenth century. Within this milieu, science, theology, and poetics were not disparately siloed disciplines but dialectical partners in a unified investigation of the True, the Good, and the Beautiful. At the epicenter of this cultural phenomenon stood Hans Christian Andersen (1805–1875), a writer often relegated by subsequent generations to the nursery, yet whose work constitutes a sophisticated theological anthropology and a rigorous engagement with the metaphysical problems of his time.
@@ -87,6 +97,8 @@ However, the Prince represents the **Natural Rational** man. He is attracted to 
 The turning point of the narrative—and its sharpest divergence from folklore—is the scene with the knife. Her sisters offer her a way back to the sea (the Natural degree) by killing the Prince. This is a temptation to regress, to choose self-preservation (the **Self** or Selfhood) over **Charity**.
 
 In Swedenborgian ethics, the "Self" is the source of all evil when separated from God; it is the love of self above others. By refusing to kill the Prince, even to save her own life, the mermaid performs a **moral act** contrary to her instinct for self-preservation. She sacrifices her Self. In Swedenborgian terms, she acts from **Charity** (neighbor-love). This act is the catalyst that opens the "internal spiritual man." She dies to the "Natural" world (dissolving into foam) but does not perish into nothingness because she has generated a spiritual substance through her choice.
+
+> **[REFRAMING #22]**: The self (selfhood, *what is one's own*) is not the antagonist or the source of evil. It is the vessel that must form before it can receive. What is described here is **self-sourcing** — the self claiming what flows through it as its own — an orientation of the vessel, not the vessel itself. See: The Human Who Showed the Way.
 
 ### **3.4 The Daughters of the Air: Spiritual Progression via Use**
 
@@ -239,6 +251,8 @@ The analysis demonstrates that:
 2. **The Soul is Evolutionary:** Andersen rejects the static soul of orthodoxy. Like Swedenborg, he views the soul as a dynamic vessel that must be formed, reformed, and regenerated through moral choice and active charity (The Mermaid, Inger).  
 3. **Discrete Degrees Define the Narrative Arc:** The movement in Andersen’s tales is vertical—from the mud/sea (Natural) to the air/earth (Spiritual) to the sun/stars (Celestial). This ascent requires a transformation of nature, not just a change of location.  
 4. **The Self is the Antagonist:** Whether it is the Shadow, the Snow Queen's mirror, or Inger's shoes, the villain in Andersen's cosmology is always the Selfhood separated from the Divine.
+
+> **[REFRAMING #22]**: The self (selfhood, *what is one's own*) is not the antagonist or the source of evil. It is the vessel that must form before it can receive. What is described here is **self-sourcing** — the self claiming what flows through it as its own — an orientation of the vessel, not the vessel itself. See: The Human Who Showed the Way.
 
 By integrating the "Scientific Theology" of Swedenborg with the folk tradition, Andersen created a new mythology for the modern age—one where the struggle for immortality is fought not with swords, but with the quiet, persistent labor of the heart.
 

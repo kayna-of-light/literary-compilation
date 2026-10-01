@@ -1,5 +1,15 @@
 # The Mirror and the Star: A Comparative Pneumatology of Disney's *Wish* and *Snow White* (2025)
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-10-01
+>
+> This document reflects **earlier understanding** on:
+> - **#22** [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — Calls the self "the central antagonist" in Swedenborgian theology
+>
+> **Summary**: The self is the vessel that must form before it can receive, not the antagonist or the source of evil. What the narratives dramatize is self-sourcing — the self claiming what flows through it as its own.
+> **Established correction (library)**: The Human Who Showed the Way_ The Soul Whose Heart Belonged to the Lord
+> ---
+
 ## I. Introduction: The Schism of Spiritual Physics in the Centennial Era
 
 The year 2023 marked the centennial of the Walt Disney Animation Studios, a cultural institution that has arguably served as the primary myth-maker for the Western world in the 20th and 21st centuries. Throughout its history, the studio's output has operated on a fundamental, almost metaphysical premise: that the internal world of emotion, intent, and character can be—and indeed must be—externalized into the visible world of form, movement, and environment. This premise, whether utilized intuitively by animators or consciously by storytellers, established a structural isomorphism with the theological system of Emanuel Swedenborg (1688–1772), specifically his **Doctrine of Correspondences**, which posits that natural forms are the "ultimate" effects of spiritual causes.
@@ -25,6 +35,8 @@ In the "Golden Age" of Disney animation (e.g., *Pinocchio*, *Snow White* 1937) a
 ### 2.2 Selfhood and the Problem of Self
 
 The central antagonist in Swedenborgian theology is the **self** — the vivid sensation that we live, think, and act from ourselves. When the self confirms itself as the source of life, it becomes the "Love of Self," which is the root of all evil and the essence of Hell.
+
+> **[REFRAMING #22]**: The self (selfhood, *what is one's own*) is not the antagonist or the source of evil. It is the vessel that must form before it can receive. What is described here is **self-sourcing** — the self claiming what flows through it as its own — an orientation of the vessel, not the vessel itself. See: The Human Who Showed the Way.
 
 the self operates as a closed loop. It constantly seeks confirmation of its own existence, drawing all things toward itself as center. It cannot receive influx from the Divine because it has positioned itself *as* the source. This creates a spiritual "black hole"—a vacuum that appears to have substance but is, in reality, empty of all life and truth.
 

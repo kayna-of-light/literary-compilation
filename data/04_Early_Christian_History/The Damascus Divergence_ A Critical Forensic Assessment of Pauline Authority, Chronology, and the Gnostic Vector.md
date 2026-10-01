@@ -1,5 +1,15 @@
 # **The Damascus Divergence: A Critical Forensic Assessment of Pauline Authority, Chronology, and the Gnostic Vector**
 
+> ---
+> **📋 Editorial Notes** | Last reviewed: 2026-10-01
+>
+> This document reflects **earlier understanding** on:
+> - **#22** [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — Chapter IV names Paul's theology the "Gnostic Impulse"
+>
+> **Summary**: The chronological and authority analysis stands. Paul's error is better named self-sourcing; "Gnosticism" is not one pathology. "Gnosticism" is not one movement or impulse. Two phenomena are distinct: self-sourcing (the self claiming what flows through it, found everywhere) and literalization (correspondential texts read without their key). Many texts labelled "Gnostic" are correspondential compositions.
+> **Established correction (library)**: Reversing the Arrow_ 'Gnosticism' as the Downstream Literalization of Correspondential Composition; The Living Library_ Correspondential Architecture Across the Nag Hammadi Collection
+> ---
+
 ## **Executive Abstract**
 
 The narrative of Paul of Tarsus—his violent persecution of the early Jesus movement, his cataclysmic vision on the road to Damascus, and his subsequent transformation into the "Apostle to the Gentiles"—constitutes the foundational myth of Gentile Christianity. Traditionally accepted as a historical pivot point, this sequence of events serves a singular, critical function: it provides the sole legitimating warrant for Paul’s apostolate, his radical theological innovation, and his supersession of the Jerusalem Church’s authority structures. However, a rigorous, non-theological examination of the primary sources—the undisputed Pauline epistles and the Lukan Acts of the Apostles—reveals profound fissures in the historical reliability of this narrative. When subjected to historical-critical, sociological, and psychological analysis, the "Damascus event" emerges less as a verifiable datum of history and more as a sophisticated rhetorical and literary construct designed to bypass the traditional, biological, and legal authority of the historical Jesus movement.
@@ -109,6 +119,8 @@ Under this reconstruction, Paul’s "conversion" was not a shift from Judaism to
 ## **Chapter IV: The Gnostic Vector: Anti-Historicism and the Cosmic Christ**
 
 The structural mechanics of Pauline theology, particularly regarding Christology and the Law, exhibit definitive features of what scholars identify as the "Gnostic Impulse".5 This impulse prioritizes pneumatic revelation over historical tradition, creating a theological system that is inherently hostile to the "flesh."
+
+> **[REFRAMING #22]**: What this section diagnoses in Paul is **self-sourcing** — claiming exclusive pneumatic authority for his own revelation. Calling it the "Gnostic Impulse" imports the heresiologists' picture of "Gnosticism" as one pathology. The texts later grouped under that name are diverse, and many are correspondential compositions that the label misreads (the Gospel of Philip, the Gospel of Thomas). See: Reversing the Arrow; The Living Library.
 
 ### **4.1 Rejection of "Flesh and Blood" as a Gnostic Epistemology**
 

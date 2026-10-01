@@ -1,11 +1,14 @@
 # **The Scandal of the Flesh: Re-Evaluating the Criterion of Embarrassment through the Lens of Jamesian Orthopraxy and the Rejection of Pauline Gnosticism**
 
 > ---
-> **📋 Editorial Notes** | Last reviewed: 2026-04-11
+> **📋 Editorial Notes** | Last reviewed: 2026-10-01
 > 
 > This document reflects **current understanding** on:
 > - **#19** [The Aligned Human](../02_Swedenborgian_Theology/The%20Divine%20Human%20in%20Ultimates_%20A%20Phenomenological%20and%20Forensic%20Re-Evaluation%20of%20the%20Aligned%20Soul.md) — This document's "Criterion of Temptation" and Jamesian orthopraxy align with the #19 synthesis: perfection through struggle, not static immunity. The "Jamesian Jesus" described here IS the "Aligned Human."
 > 
+> This document reflects **earlier understanding** on:
+> - **#22** [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — §3.1 names Paul's theology the "Gnostic Impulse"; corrected: Paul's error is self-sourcing, and "Gnosticism" is not one pathology (see Reversing the Arrow).
+>
 > **Summary**: This document correctly identifies the Pauline Gnostic error and proposes the Jamesian alternative, which is the framework's own position.
 > **Established correction (library)**: *The Divine Human in Ultimates*
 > ---
@@ -46,6 +49,8 @@ To validate the "Criterion of Temptation," we must dismantle the monolithic view
 
 The user’s query posits that our inherent interpretation of the Gospels is "reasoned from a point of Pauline Christianity." The provided research confirms this, identifying Paul not merely as an apostle, but as the "Apostle of the Archons"—a radical innovator whose theology introduced a Gnostic substrate into the Jesus movement.  
 \#\#\# 3.1 The Gnostic Substrate of Pauline Theology Standard ecclesiastical history views Gnosticism as a 2nd-century heresy. However, the "Bauer Thesis" and the forensic analysis of the Pauline corpus suggest that the "Gnostic Impulse" was foundational to Paul’s own mission. This impulse is defined by three structural pillars that create the conditions for "embarrassment" regarding the human Jesus.
+
+> **[REFRAMING #22]**: What this section diagnoses in Paul is **self-sourcing** — claiming exclusive pneumatic authority for his own revelation. Calling it the "Gnostic Impulse" imports the heresiologists' picture of "Gnosticism" as one pathology. The texts later grouped under that name are diverse, and many are correspondential compositions that the label misreads (the Gospel of Philip, the Gospel of Thomas). See: Reversing the Arrow; The Living Library.
 
 #### **3.1.1 Anti-Cosmic Dualism: The Prison of the Archons**
 

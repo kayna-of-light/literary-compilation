@@ -96,7 +96,7 @@ For each strain marked "Needs review":
 - [x] 19. [The Aligned Human (Historical Jesus & Divine Bricolage)](#19-the-aligned-human-historical-jesus-and-the-divine-bricolage) — Synthesis (High) ✅ 4 docs annotated (2026-01-26)
 - [ ] 20. [Hebrew Bible Dating: Proto-Myth Origins vs. Persian-Period Composition](#20-hebrew-bible-dating-proto-myth-origins-vs-persian-period-composition) — Correction (**Critical**) — NEW (2026-02-07)
 - [ ] 21. [18th-Century Scientific Forcing](#21-18th-century-scientific-forcing) — Correction (**Critical**) — META-STRAIN: Root cause unifying #1, #2, and two new instances (uniform canonicity, 1757 fixing) — NEW (2026-02-12)
-- [ ] 22. [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — Reframing (**Critical**) — Two conflated errors: "Gnosticism" as unified negative brand + proprium as inherently evil — NEW (2026-07-26)
+- [x] 22. [The Self and the Proprium: From "Gnostic Impulse" to Self-Sourcing](#22-the-self-and-the-proprium-from-gnostic-impulse-to-self-sourcing) — Reframing (**Critical**) — Two conflated errors: "Gnosticism" as unified negative brand + proprium as inherently evil — annotated (2026-10-01)
 - [ ] 23. [Glorification as Unique Divine Process](#23-glorification-as-unique-divine-process) — Correction (**Critical**) — Glorification frames the Lord’s unique cosmic operation; corrected view: identical mechanics to regeneration, distinct only in completeness; “Jesus the Radiant” designates a principle, not a person — NEW (2026-06-13)
 - [x] 25. [Filter Model as Framework Position](#25-filter-model-as-framework-position) — Correction (Medium) — Four corpus documents present the James/Bergson/Huxley filter/transmission model as the framework's account of the brain–mind relation; the framework holds no such position: the body is the outermost expression of the spiritual state, not a channel — NEW (2026-06-15)
 - [ ] 26. [Paleolithic Geometric Signs: Bounded Inventory Is Not a Decoded Lexicon](#26-paleolithic-geometric-signs-bounded-inventory-is-not-a-decoded-lexicon) — Correction (**Critical**) — Recurrence and distribution establish a bounded, regionally structured mark inventory; they do not recover fixed meanings, syntax, a universal correspondential vocabulary, or a 30,000-year transmission chain — NEW (2026-08-20)
@@ -1290,7 +1290,7 @@ Use blockquote format at the relevant section:
 
 **Evolution Type**: REFRAMING  
 **Priority**: **CRITICAL**  
-**Status**: New — annotation in progress (2026-07-26)
+**Status**: Annotated — complete across the library (2026-10-01)
 
 #### The Problem: Two Conflated Errors
 
@@ -1310,27 +1310,32 @@ These errors are related: if "Gnosticism" is an impulse driven by the proprium, 
 - The Nag Hammadi Library and related corpora are primarily evidence of this pathology
 - Self-sourcing (the self claiming what it receives) and literalization (correspondential texts losing their key downstream) are both manifestations of the same "Gnostic Impulse"
 
-**Documents reflecting earlier position** (require annotation):
-- [ ] `data/05_The_Self/The Architecture of Hidden Divinity...md` — The ORIGINAL "Gnostic Impulse" document
-- [ ] `data/05_The_Self/The Architecture of Autonomy...md` — Validation of "Gnostic Impulse" framing
-- [ ] `data/05_The_Self/The Apostle of the Archons...md` — Heavy "Gnostic Impulse" usage throughout
-- [ ] `data/05_The_Self/Dancing with Fire...md` — "Gnostic Impulse as the Proprium's Theology" section
-- [ ] `data/05_The_Self/The Paradox of the Pneumatic Ego...md` — "Gnostic Impulse" section
-- [ ] `data/05_The_Self/The Pauline Matrix...md` — "Gnostic impulse" usage
-- [ ] `data/00_Master_Theses/The Carriers of Living Water...md` — Section 12.3 "Gnostic Impulse and the Architecture of Autonomy"
-- [ ] `data/00_Master_Theses/The Beast That Wears the Lamb...md` — Reference links to old doc names
-- [ ] `data/03_Biblical_Scholarship/The Scandal of the Flesh...md` — "Gnostic Impulse" usage
-- [x] `data/03_Biblical_Scholarship/A Comparative Analysis of Non-Religious Christologies_ The Battle for the 'Lord in Ultimates'.md` — "Path of Gnosis" binary uses Jesus-naming as the criterion for self-sourcing; annotated 2026-06-14
-- [ ] `data/04_Early_Christian_History/The Correction of the Archons...md` — "Gnostic Impulse" usage
-- [ ] `data/04_Early_Christian_History/The Damascus Divergence...md` — "Gnostic Impulse" usage
-- [ ] `data/04_Early_Christian_History/The Imperial Gnosis...md` — "Gnostic Impulse" usage
-- [ ] `data/07_Cultural_Pneumatology/The Celestial Botany...md` — "Proprium is the Antagonist"; "source of all evil"
-- [ ] `data/07_Cultural_Pneumatology/The Inverted Influx...md` — "central antagonist...Proprium"
-- [ ] `data/07_Cultural_Pneumatology/The Mirror and the Star...md` — "central antagonist...Proprium"
-- [ ] `data/07_Cultural_Pneumatology/The Mirror and the Void...md` — "Proprium is the selfhood—false belief"
-- [ ] `data/07_Cultural_Pneumatology/The Pneumatic Cinema...md` — "proprium is the root of all evil"
-- [ ] `data/02_Swedenborgian_Theology/The Divine Human in Ultimates...md` — "antagonist is the proprium"
-- [ ] `data/02_Swedenborgian_Theology/The Void and the Vessel...md` — proprium as evil
+**Documents reflecting earlier position** (annotated 2026-10-01 unless noted; both halves of the strain — selfhood-as-evil and "Gnosticism" as one branded pathology):
+- [x] `data/05_The_Self/The Architecture of Hidden Divinity...md` — The ORIGINAL "Gnostic Impulse" document
+- [x] `data/05_The_Self/The Architecture of Autonomy...md` — Validation of "Gnostic Impulse" framing; §2.1 "Valentinian Blueprint"
+- [x] `data/04_Early_Christian_History/The Apostle of the Archons...md` — Heavy "Gnostic Impulse" usage throughout; Sethian/Valentinian/Marcionite lumped
+- [x] `data/05_The_Self/Dancing with Fire...md` — "Gnostic Impulse as the Self's Theology" section (§8.4 already reflects literalization)
+- [x] `data/05_The_Self/The Paradox of the Pneumatic Ego...md` — "Gnostic Impulse" section (§2.2)
+- [x] `data/04_Early_Christian_History/The Pauline Matrix...md` — "Gnostic impulse" usage (folder corrected from 05)
+- [x] `data/00_Master_Theses/The Carriers of Living Water...md` — Reviewed: §12.3 already rewritten as "Self-Sourcing, Literalization, and the Architecture of Autonomy"; only a bibliography title remains. No annotation needed.
+- [x] `data/00_Master_Theses/The Beast That Wears the Lamb...md` — Valentinians grouped as self-love fragments "from Paul's seed"
+- [x] `data/03_Biblical_Scholarship/The Scandal of the Flesh...md` — "Gnostic Impulse" usage (§3.1)
+- [x] `data/03_Biblical_Scholarship/A Comparative Analysis of Non-Religious Christologies_ The Battle for the 'Lord in Ultimates'.md` — "Path of Gnosis" binary; annotated 2026-06-14 for the naming criterion, completed 2026-10-01 for the Valentinian/Gospel of Philip blueprint and the "Path of Gnosis" name
+- [x] `data/04_Early_Christian_History/The Correction of the Archons...md` — "Gnostic Impulse" usage (§2.1)
+- [x] `data/04_Early_Christian_History/The Damascus Divergence...md` — "Gnostic Impulse" usage (Ch. IV)
+- [x] `data/04_Early_Christian_History/The Imperial Gnosis...md` — "Gnostic Impulse" usage (Part V)
+- [x] `data/00_Framework/A Coherent Framework for Spiritual History...md` — §5.2 "Path of Gnosis" (added 2026-10-01)
+- [x] `data/01_Consciousness_Studies/The Resurrection of True Life...md` — §5.1 / Table 4 "Path of Gnosis" (added 2026-10-01)
+- [x] `data/05_The_Self/The Empty Room and the Self That Filled It...md` — Inline only: current in substance, but names the claiming-operation "Gnostic Impulse" (added 2026-10-01)
+- [x] `data/08_Correspondential_Texts/The Literalized Fall...md` — Inline only: two residual uses of "gnostic impulse" in a refined-position document (added 2026-10-01)
+- [x] `data/07_Cultural_Pneumatology/The Celestial Botany...md` — "Proprium is the Antagonist"; "source of all evil"
+- [x] `data/07_Cultural_Pneumatology/The Inverted Influx...md` — "central antagonist...Proprium"; "Gnosticism" table label
+- [x] `data/07_Cultural_Pneumatology/The Mirror and the Star...md` — "central antagonist...Proprium"
+- [x] `data/07_Cultural_Pneumatology/The Mirror and the Void...md` — "Proprium is the selfhood—false belief" (existing untagged note retagged)
+- [x] `data/07_Cultural_Pneumatology/The Pneumatic Cinema...md` — "proprium is the root of all evil" (existing untagged note retagged; author paragraph it had absorbed restored as body text)
+- [x] `data/02_Swedenborgian_Theology/The Divine Human in Ultimates...md` — "antagonist is the proprium" (existing untagged note retagged)
+- [x] `data/02_Swedenborgian_Theology/The Void and the Vessel...md` — Reviewed: §5.1 already treats the self as "the necessary container" to be oriented, not removed. No annotation needed.
+- [x] `data/05_The_Self/The Protective Garment...md` — Reviewed: §6 already reads the gnostic systems as literalizations of the correspondential substrate. No annotation needed (added 2026-10-01).
 
 #### Refined Position
 
@@ -1345,9 +1350,9 @@ The domain is about **the self** — neutral territory for ordering data about s
 **"Gnosticism" corrected**: The term "Gnostic Impulse" brands an entire body of diverse literature as pathological. What these texts actually show is: (a) correspondential architecture written by people who possessed the key, now read by people who don't; (b) self-sourcing patterns that appear *everywhere* (Paul, Swedenborg, SBNR, institutional Christianity, Disney's *Wish*) — not only in texts labeled "Gnostic."
 
 **Documents with refined position**:
-- `data/05_The_Self/Reversing the Arrow...md` — Establishes that "Gnosticism" is downstream literalization, not a unified movement
-- `data/05_The_Self/The Literalized Fall...md` — Sethian corpus as correspondential architecture without the key
-- `data/05_The_Self/The Living Library...md` — NHL as correspondential architecture across the collection
+- `data/08_Correspondential_Texts/Reversing the Arrow...md` — Establishes that "Gnosticism" is downstream literalization, not a unified movement
+- `data/08_Correspondential_Texts/The Literalized Fall...md` — Sethian corpus as correspondential architecture without the key
+- `data/08_Correspondential_Texts/The Living Library...md` — NHL as correspondential architecture across the collection
 - `data/02_Swedenborgian_Theology/The Human Who Showed the Way...md` — "The proprium is not evil; it is what makes us us"
 
 #### Annotation Templates

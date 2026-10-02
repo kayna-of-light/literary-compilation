@@ -24,18 +24,18 @@ The evidence indicates that while specific physiological triggers can mimic isol
 
 ### **1.1 The Assumption of Neural Causation**
 
-Contemporary neuroscience operates largely on the premise of psychophysical identity or supervenience: the mind is what the brain *does*. Consequently, any deviation in conscious state must correlate with a deviation in brain state. When applied to the dying process, this axiom necessitates that the profound experiences reported by 10-20% of cardiac arrest survivors 1 must be the result of aberrant brain activity. This is the foundation of the Dying Brain Hypothesis.
+Contemporary neuroscience operates largely on the premise of psychophysical identity or supervenience: the mind is what the brain *does*. Consequently, any deviation in conscious state must correlate with a deviation in brain state. When applied to the dying process, this axiom necessitates that the profound experiences reported by 10-20% of cardiac arrest survivors (NYU Langone Health n.d.; van Lommel 2014) must be the result of aberrant brain activity. This is the foundation of the Dying Brain Hypothesis.
 
-Historically, this hypothesis has been treated as the null position. If a patient reports floating above their body, the burden of proof rests entirely on verifying the *objective reality* of that separation. If verification is imperfect, the default assumption reverts to "hallucination." However, this approach insulates the DBH from rigorous critique. It allows proponents to invoke a rotating array of potential causes—hypoxia in one case, DMT in another, false memory in a third—without requiring a cohesive, predictive model that accounts for the phenomenology as a whole.3
+Historically, this hypothesis has been treated as the null position. If a patient reports floating above their body, the burden of proof rests entirely on verifying the *objective reality* of that separation. If verification is imperfect, the default assumption reverts to "hallucination." However, this approach insulates the DBH from rigorous critique. It allows proponents to invoke a rotating array of potential causes—hypoxia in one case, DMT in another, false memory in a third—without requiring a cohesive, predictive model that accounts for the phenomenology as a whole (Mays and Mays 2017).
 
 ### **1.2 Defining the Explanatory Target**
 
 To validate the DBH, it is not enough to show that the brain *can* hallucinate. The hypothesis must explain the specific, recurrent features of the NDE, which differ qualitatively from standard delirium. These features, often termed the "core NDE," include:
 
-* **Hyper-Lucidity:** Mental clarity, speed, and logical structure exceeding normal waking states, occurring during physiological compromise.5  
-* **Veridical Perception:** The acquisition of accurate visual or auditory information from a vantage point outside the body.6  
-* **Empathetic Life Review:** A panoramic re-experiencing of one's life, characterized by feeling the emotions of others.7  
-* **Transcendental Consistency:** The cross-cultural stability of themes (light, tunnel, entities) despite varying expectations.8
+* **Hyper-Lucidity:** Mental clarity, speed, and logical structure exceeding normal waking states, occurring during physiological compromise (*Consciousness as a Selective Pressure*).  
+* **Veridical Perception:** The acquisition of accurate visual or auditory information from a vantage point outside the body (Fracasso and Friedman 2011).  
+* **Empathetic Life Review:** A panoramic re-experiencing of one's life, characterized by feeling the emotions of others (Zigarelli 2024).  
+* **Transcendental Consistency:** The cross-cultural stability of themes (light, tunnel, entities) despite varying expectations (Shushan 2024).
 
 ### **1.3 Methodology of Evaluation**
 
@@ -54,22 +54,22 @@ The DBH relies on a suite of physiological mechanisms triggered by the dying pro
 
 ### **2.1 Cerebral Anoxia and the "Confusion Paradox"**
 
-The most intuitive explanation for NDEs is oxygen starvation. As the heart stops, cerebral blood flow ceases (ischemia), leading to anoxia. The logic posits that the disinhibition of cortical networks results in hallucinations, and the specific architecture of the visual cortex (where the fovea has higher oxygenation resistance than the periphery) creates the "tunnel vision" effect.5
+The most intuitive explanation for NDEs is oxygen starvation. As the heart stops, cerebral blood flow ceases (ischemia), leading to anoxia. The logic posits that the disinhibition of cortical networks results in hallucinations, and the specific architecture of the visual cortex (where the fovea has higher oxygenation resistance than the periphery) creates the "tunnel vision" effect (*Consciousness as a Selective Pressure*).
 
 #### **2.1.1 The Clinical Profile of Hypoxia**
 
-The flaw in this model is that the clinical profile of hypoxia is well-characterized and distinct from the NDE. Hypoxia typically induces **confusional delirium**, cognitive slowing, motor incoordination, and agitation. It is a state of degradation, not enhancement. Pilot studies and mountaineering data confirm that hypoxic hallucinations are often fragmentary, paranoid, and illogical—akin to a "bad trip" or a fever dream.10
+The flaw in this model is that the clinical profile of hypoxia is well-characterized and distinct from the NDE. Hypoxia typically induces **confusional delirium**, cognitive slowing, motor incoordination, and agitation. It is a state of degradation, not enhancement (Egnor 2020). Pilot studies and mountaineering data confirm that hypoxic hallucinations are often fragmentary, paranoid, and illogical—akin to a "bad trip" or a fever dream.
 
 #### **2.1.2 The Paradox of Hyper-Lucidity**
 
-NDEs, conversely, are defined by "hyper-lucidity." Experiencers report that their thinking was "clearer than ever before," with accelerated processing and vivid sensory awareness. To attribute this state to a failing, oxygen-starved brain is to argue that a reduction in substrate (oxygen/glucose) leads to an enhancement of function (cognition). This "inverse" relationship contradicts the fundamental principles of metabolic biology.12
+NDEs, conversely, are defined by "hyper-lucidity." Experiencers report that their thinking was "clearer than ever before," with accelerated processing and vivid sensory awareness. To attribute this state to a failing, oxygen-starved brain is to argue that a reduction in substrate (oxygen/glucose) leads to an enhancement of function (cognition). This "inverse" relationship contradicts the fundamental principles of metabolic biology (Egnor 2020).
 
 #### **2.1.3 Empirical Contradictions**
 
 Prospective studies have directly tested the hypoxia hypothesis by measuring blood gas levels in cardiac arrest patients.
 
-* **Parnia et al. (2001):** Found that NDE experiencers actually had **higher** partial pressures of oxygen (pO2) than non-experiencers.13  
-* **Van Lommel et al. (2001):** Found no significant difference in medical parameters (duration of arrest, medication, blood gases) between those who reported NDEs and those who did not.14  
+* **Parnia et al. (2001):** Found that NDE experiencers actually had **higher** partial pressures of oxygen (pO2) than non-experiencers (Parnia et al. 2001; Potts 2012).  
+* **Van Lommel et al. (2001):** Found no significant difference in medical parameters (duration of arrest, medication, blood gases) between those who reported NDEs and those who did not (van Lommel et al. 2001; van Lommel 2014).  
 * **Conclusion:** If hypoxia were the primary driver, there should be a dose-dependent relationship (more hypoxia \= more NDEs). The absence of this correlation suggests that while anoxia is the *context* of the event, it is not the *cause* of the experience.
 
 ### **2.2 The "DMT Dump" and Neurochemical Models**
@@ -78,28 +78,28 @@ With the structural explanation of anoxia faltering, the DBH shifts to neurochem
 
 #### **2.2.1 The DMT Hypothesis**
 
-Dr. Rick Strassman popularized the idea that the pineal gland releases N,N-Dimethyltryptamine (DMT) at death, facilitating the transition of consciousness.15
+Dr. Rick Strassman popularized the idea that the pineal gland releases N,N-Dimethyltryptamine (DMT) at death, facilitating the transition of consciousness (Strassman 2001).
 
-* **Evidence Base:** Dean et al. (2019) detected DMT in the brains of dying rats, observing an increase in concentration following cardiac arrest.16  
+* **Evidence Base:** Dean et al. (2019) detected DMT in the brains of dying rats, observing an increase in concentration following cardiac arrest (Dean et al. 2019).  
 * **Critique:** The extrapolation to humans remains speculative. Crucially, the *quantity* of DMT required to produce a full breakthrough experience is significant. It is unproven that the tiny human pineal gland can synthesize and release such a massive bolus in the seconds before death.  
-* **Phenomenological Divergence:** A 2018 study compared the phenomenology of DMT trips with NDEs. While both scored high on "mystical experience" scales (feelings of unity, transcendence), the content differed markedly. DMT experiences are often characterized by "alien" geometries, "machine elves," and a sense of chaotic intrusion. NDEs are characterized by "familiar" encounters (deceased relatives), structured life reviews, and a sense of "returning home" or "peace." The thematic consistency of the NDE contrasts with the idiosyncratic volatility of the psychedelic trip.18
+* **Phenomenological Divergence:** A 2022 study compared the phenomenology of DMT trips with NDEs. While both scored high on "mystical experience" scales (feelings of unity, transcendence), the content differed markedly. DMT experiences are often characterized by "alien" geometries, "machine elves," and a sense of chaotic intrusion. NDEs are characterized by "familiar" encounters (deceased relatives), structured life reviews, and a sense of "returning home" or "peace." The thematic consistency of the NDE contrasts with the idiosyncratic volatility of the psychedelic trip (Michael 2022; Michael, Luke and Robinson 2023).
 
 #### **2.2.2 Ketamine and NMDA Blockade**
 
-Ketamine, a dissociative anesthetic, acts as an NMDA receptor antagonist. Some researchers propose that the brain releases a natural ketamine-like peptide (endopsychosin) to block excitotoxicity (glutamate floods) during ischemia, inadvertently causing the Out-of-Body Experience (OBE).11
+Ketamine, a dissociative anesthetic, acts as an NMDA receptor antagonist. Some researchers propose that the brain releases a natural ketamine-like peptide (endopsychosin) to block excitotoxicity (glutamate floods) during ischemia, inadvertently causing the Out-of-Body Experience (OBE) (Jansen 1997).
 
-* **Critique:** Ketamine users often report a "dissolution of self" or a "void" experience that mimics aspects of the NDE. However, ketamine experiences are frequently described as "weird," "plastic," or distinctly "drug-like." In contrast, NDErs almost universally insist on the "hyper-reality" of their experience, often distinguishing it sharply from drug experiences or dreams they have had in the past.10 The "quality of reality" (qualia) differs fundamentally, suggesting different mechanisms.
+* **Critique:** Ketamine users often report a "dissolution of self" or a "void" experience that mimics aspects of the NDE. However, ketamine experiences are frequently described as "weird," "plastic," or distinctly "drug-like." In contrast, NDErs almost universally insist on the "hyper-reality" of their experience, often distinguishing it sharply from drug experiences or dreams they have had in the past (Greyson 2007). The "quality of reality" (qualia) differs fundamentally, suggesting different mechanisms.
 
 ### **2.3 Temporal Lobe Transients and the "God Spot"**
 
-The temporal lobes, particularly the right Sylvian fissure and the temporoparietal junction (TPJ), are implicated in the sense of self-location and mystical feelings. Skeptics argue that NDEs are "limbic seizures" or "micro-seizures" in these regions.20
+The temporal lobes, particularly the right Sylvian fissure and the temporoparietal junction (TPJ), are implicated in the sense of self-location and mystical feelings. Skeptics argue that NDEs are "limbic seizures" or "micro-seizures" in these regions (Britton and Bootzin 2004).
 
 #### **2.3.1 Stimulation Studies**
 
 Research by Olaf Blanke demonstrated that electrical stimulation of the TPJ could induce "autoscopy"—the sensation of seeing a double or feeling a presence.
 
 * **Limitations:** The induced experiences were fragmented and illusory. Subjects felt their body position was distorted or saw a static "double," but they did not experience the coherent, stable, and mobile point of view reported in NDEs (e.g., floating at the ceiling, looking down with 360-degree vision).  
-* **Epilepsy Comparison:** Patients with Temporal Lobe Epilepsy (TLE) report "dreamy states," déjà vu, and sometimes religious auras. However, they rarely report the complex, sequential narrative of the NDE (separation \-\> tunnel \-\> light \-\> review \-\> return). Furthermore, TLE seizures are typically followed by post-ictal confusion and amnesia, whereas NDEs are remembered with vivid clarity for decades.22
+* **Epilepsy Comparison:** Patients with Temporal Lobe Epilepsy (TLE) report "dreamy states," déjà vu, and sometimes religious auras. However, they rarely report the complex, sequential narrative of the NDE (separation \-\> tunnel \-\> light \-\> review \-\> return). Furthermore, TLE seizures are typically followed by post-ictal confusion and amnesia, whereas NDEs are remembered with vivid clarity for decades (Greyson 2007).
 
 ### **Table 1: Comparative Phenomenology of NDEs vs. Proposed Physiological Explanations**
 
@@ -120,12 +120,12 @@ The most robust recent challenge to the non-local consciousness model comes from
 
 ### **3.1 The Borjigin Studies (2013 & 2023\)**
 
-* **2013 Rat Study:** Researchers induced cardiac arrest in nine rats and observed a transient surge of synchronized gamma oscillations (30-100 Hz) within the first 30 seconds post-arrest. This activity exceeded waking levels of connectivity.24  
-* **2023 Human Study:** The team analyzed EEG data from four comatose patients undergoing withdrawal of life support. Two of the four patients exhibited a surge in gamma power and connectivity, specifically in the temporo-parieto-occipital (TPO) junction—a "hot zone" for sensory integration.16
+* **2013 Rat Study:** Researchers induced cardiac arrest in nine rats and observed a transient surge of synchronized gamma oscillations (30-100 Hz) within the first 30 seconds post-arrest. This activity exceeded waking levels of connectivity (Borjigin et al. 2013; Greyson, Kelly and Dunseath 2013).  
+* **2023 Human Study:** The team analyzed EEG data from four comatose patients undergoing withdrawal of life support. Two of the four patients exhibited a surge in gamma power and connectivity, specifically in the temporo-parieto-occipital (TPO) junction—a "hot zone" for sensory integration (Xu et al. 2023).
 
 ### **3.2 The Interpretation: A Last Gasp of Consciousness?**
 
-The authors and materialist proponents argue that this surge represents the biological substrate of the NDE. The heightened connectivity in the TPO could theoretically support complex visual imagery and memory retrieval, providing a "scientific" explanation for the life review and the light.16
+The authors and materialist proponents argue that this surge represents the biological substrate of the NDE. The heightened connectivity in the TPO could theoretically support complex visual imagery and memory retrieval, providing a "scientific" explanation for the life review and the light (Xu et al. 2023).
 
 ### **3.3 The "Timing Problem" and Critical Limitations**
 
@@ -133,19 +133,19 @@ While groundbreaking, the gamma surge findings suffer from critical limitations 
 
 #### **3.3.1 The Duration Mismatch**
 
-The observed gamma surges were brief—lasting seconds to a few minutes immediately following the cessation of circulation.24 NDEs, however, are often described as prolonged, complex narratives.
+The observed gamma surges were brief—lasting seconds to a few minutes immediately following the cessation of circulation (Borjigin et al. 2013; Greyson, Kelly and Dunseath 2013). NDEs, however, are often described as prolonged, complex narratives.
 
-* **The Flatline Reality:** Many verified NDEs involve perceptions of events (e.g., resuscitation procedures) that occur **10, 20, or even 30 minutes** into the arrest, long after the initial gamma surge would have dissipated and the brain descended into isoelectric silence. If the gamma surge burns out in minute 2, it cannot explain a perception verified at minute 15\.11
+* **The Flatline Reality:** Many verified NDEs involve perceptions of events (e.g., resuscitation procedures) that occur **10, 20, or even 30 minutes** into the arrest, long after the initial gamma surge would have dissipated and the brain descended into isoelectric silence. If the gamma surge burns out in minute 2, it cannot explain a perception verified at minute 15\.
 
 #### **3.3.2 Lack of Subjective Correlation**
 
-In the 2023 human study, the patients **did not survive**. There is zero subjective data. We do not know if the patients with the gamma surge had an NDE, a seizure, a final moment of pain, or absolutely nothing. Correlating this electrical activity with the complex narrative of an NDE is an assumption, not a finding.9
+In the 2023 human study, the patients **did not survive**. There is zero subjective data. We do not know if the patients with the gamma surge had an NDE, a seizure, a final moment of pain, or absolutely nothing. Correlating this electrical activity with the complex narrative of an NDE is an assumption, not a finding (Xu et al. 2023; Michigan Medicine n.d.).
 
 * **Inconsistency:** The surge was only present in 50% (2 of 4\) of the patients. If this is the *mechanism* of the NDE, it implies NDEs are not universal. However, if it is proposed as the mechanism of *death*, its absence in half the subjects is problematic.
 
 #### **3.3.3 Activity vs. Content**
 
-The presence of high-frequency electrical activity does not explain the *content* of the experience. Gamma activity can also be a marker of excitotoxic cell death (the "wave of death") or seizure activity. To equate a burst of electrical noise in a dying network with the coherent, moral, and narrative complexity of a life review is a category error. It mistakes the presence of a "carrier wave" for the presence of a "broadcast".30
+The presence of high-frequency electrical activity does not explain the *content* of the experience. Gamma activity can also be a marker of excitotoxic cell death (the "wave of death") or seizure activity. To equate a burst of electrical noise in a dying network with the coherent, moral, and narrative complexity of a life review is a category error. It mistakes the presence of a "carrier wave" for the presence of a "broadcast" (Shaw 2024).
 
 ## ---
 
@@ -155,65 +155,65 @@ The Dying Brain Hypothesis faces its most severe test in the phenomenon of **Ver
 
 ### **4.1 The Case of Pam Reynolds: The "Standstill" Challenge**
 
-Often cited as the single most compelling case, Pam Reynolds underwent a "hypothermic cardiac arrest" (standstill operation) in 1991 for a basilar artery aneurysm.32
+Often cited as the single most compelling case, Pam Reynolds underwent a "hypothermic cardiac arrest" (standstill operation) in 1991 for a basilar artery aneurysm (Woerlee 2011).
 
 * **The Conditions:** Her body temperature was lowered to 60°F, her heart was stopped, her breathing ceased, and her blood was drained.  
-* **The Monitoring:** She had a documented **flat EEG** (cortical silence) and flat **Brainstem Auditory Evoked Potentials** (BAEPs). Her eyes were taped shut, and her ears were occluded with molded speakers emitting 100-decibel clicks to ensure auditory unresponsiveness.34  
-* **The Veridicality:** Despite these conditions, Reynolds reported leaving her body and observing the surgery. She accurately described the **Midas Rex pneumatic bone saw** (likening it to an electric toothbrush with a specific groove) and the container it came in. She also reported hearing a female voice say, "Her veins and arteries are very small," a comment confirmed by the medical record.33  
-* **The Skeptical Counter-Argument:** Skeptics like Gerald Woerlee argue that Reynolds experienced "anesthesia awareness" during the cooling phase (before full standstill) and reconstructed the visual scene from auditory cues (the sound of the drill).32  
+* **The Monitoring:** She had a documented **flat EEG** (cortical silence) and flat **Brainstem Auditory Evoked Potentials** (BAEPs). Her eyes were taped shut, and her ears were occluded with molded speakers emitting 100-decibel clicks to ensure auditory unresponsiveness (Woerlee 2011; Tart 2007).  
+* **The Veridicality:** Despite these conditions, Reynolds reported leaving her body and observing the surgery. She accurately described the **Midas Rex pneumatic bone saw** (likening it to an electric toothbrush with a specific groove) and the container it came in. She also reported hearing a female voice say, "Her veins and arteries are very small," a comment confirmed by the medical record (Wehrstein 2017).  
+* **The Skeptical Counter-Argument:** Skeptics like Gerald Woerlee argue that Reynolds experienced "anesthesia awareness" during the cooling phase (before full standstill) and reconstructed the visual scene from auditory cues (the sound of the drill) (Woerlee 2011).  
 * **The Rebuttal:** This explanation fails on multiple fronts:  
   1. **Visual Specificity:** The sound of a drill does not convey the *visual* shape of the instrument or its storage case. Reynolds described details she could not have heard.  
   2. **Auditory Blockade:** The 100dB clicks are deafening, designed to mask external sound. For Reynolds to hear a conversation over them would require a functioning cochlear/brainstem pathway, which the flat BAEPs explicitly ruled out.  
-  3. **Timeline:** Reynolds described the sequence of events (sawing, then the conversation) accurately. The conversation about the arteries occurred when she was deeply anesthetized, well past the point of any plausible "awareness".36
+  3. **Timeline:** Reynolds described the sequence of events (sawing, then the conversation) accurately. The conversation about the arteries occurred when she was deeply anesthetized, well past the point of any plausible "awareness" (Wehrstein 2017).
 
 ### **4.2 The "Dentures Man" (Patient B)**
 
 In this case from the Netherlands, a comatose, cyanotic cardiac arrest patient was brought into the ER. A nurse removed his dentures to intubate him and placed them in a specific drawer of a crash cart.
 
-* **The Verification:** A week later, upon regaining consciousness, the patient recognized the nurse and stated, "You know where my dentures are\! You put them in that cart, in the sliding drawer." He then described the resuscitation room and the people present from an overhead perspective.36  
-* **The Skeptical Counter-Argument:** Woerlee suggests the patient was semi-conscious, saw the nurse through slit eyes, or constructed the scene from sounds.37  
-* **The Rebuttal:** The patient was clinically dead (no heartbeat, no respiration) and deeply comatose (Glasgow Coma Scale 3, no pupillary reflex). "Seeing through slit eyes" is physiologically impossible in this state. Furthermore, placing dentures in a drawer does not generate a unique auditory signature that would allow a blind/comatose person to identify *which* specific drawer in *which* cart was used. The visual localization was precise and verified.36
+* **The Verification:** A week later, upon regaining consciousness, the patient recognized the nurse and stated, "You know where my dentures are\! You put them in that cart, in the sliding drawer." He then described the resuscitation room and the people present from an overhead perspective (Smit and Rivas 2010; Rivas 2021).  
+* **The Skeptical Counter-Argument:** Woerlee suggests the patient was semi-conscious, saw the nurse through slit eyes, or constructed the scene from sounds (Woerlee 2010).  
+* **The Rebuttal:** The patient was clinically dead (no heartbeat, no respiration) and deeply comatose (Glasgow Coma Scale 3, no pupillary reflex). "Seeing through slit eyes" is physiologically impossible in this state. Furthermore, placing dentures in a drawer does not generate a unique auditory signature that would allow a blind/comatose person to identify *which* specific drawer in *which* cart was used. The visual localization was precise and verified (Smit and Rivas 2010; Rivas 2021).
 
 ### **4.3 Al Sullivan and the "Flapping" Surgeon**
 
 Al Sullivan, under general anesthesia with eyes taped, reported seeing his surgeon, Dr. Takata, "flapping his elbows" like a bird during the operation.
 
 * **The Verification:** Dr. Takata confirmed this was a unique, idiosyncratic habit he used to keep his sterile gloved hands from touching his torso after scrubbing in.  
-* **The Significance:** This is a purely **visual** detail. Flapping elbows makes no sound. Sullivan could not have "heard" this behavior. The explanation of "anesthesia awareness" fails because his eyes were taped. This case strongly supports the "separation" hypothesis over the "reconstruction" hypothesis.38
+* **The Significance:** This is a purely **visual** detail. Flapping elbows makes no sound. Sullivan could not have "heard" this behavior. The explanation of "anesthesia awareness" fails because his eyes were taped. This case strongly supports the "separation" hypothesis over the "reconstruction" hypothesis (Rivas 2021).
 
 ### **4.4 The Accumulation of Anomalies**
 
-While skeptics can offer *ad hoc* explanations for individual cases (e.g., "lucky guess," "memory contamination"), the accumulation of such cases—where specific, unpredictable, and verifiable details are reported during states of documented unconsciousness—creates a statistical improbability for the dying brain hypothesis. As researchers Mays and Mays argue, the need for a different ad hoc hypothesis for every case (auditory leakage for one, lucky guess for another, fraud for a third) violates the principle of parsimony.4
+While skeptics can offer *ad hoc* explanations for individual cases (e.g., "lucky guess," "memory contamination"), the accumulation of such cases—where specific, unpredictable, and verifiable details are reported during states of documented unconsciousness—creates a statistical improbability for the dying brain hypothesis. As researchers Mays and Mays argue, the need for a different ad hoc hypothesis for every case (auditory leakage for one, lucky guess for another, fraud for a third) violates the principle of parsimony (Mays and Mays 2017).
 
 ## ---
 
 **5\. The AWARE Studies: Ambiguity and the Limits of Testing**
 
-The AWARE (AWAreness during REsuscitation) studies, led by Dr. Sam Parnia, represent the most ambitious attempt to move NDE research from anecdote to experimental science.40
+The AWARE (AWAreness during REsuscitation) studies, led by Dr. Sam Parnia, represent the most ambitious attempt to move NDE research from anecdote to experimental science (Parnia et al. 2014).
 
 ### **5.1 The Methodology: Testing Remote Viewing**
 
 The core innovation was the installation of **hidden visual targets** (images facing the ceiling) in resuscitation rooms. These targets were invisible from the ground but visible to a consciousness floating near the ceiling.
 
-* **Objective:** To differentiate between "visual reconstruction" (hallucination based on likely events) and "visual awareness" (seeing actual, unpredictable targets).41
+* **Objective:** To differentiate between "visual reconstruction" (hallucination based on likely events) and "visual awareness" (seeing actual, unpredictable targets) (NHS Health Research Authority n.d.).
 
 ### **5.2 The Results: A "Zero Hit" Reality**
 
 The results of AWARE I (2014) and AWARE II (2023) were mixed and widely debated.
 
-* **Visual Targets:** **Zero** patients explicitly identified a hidden image.42 Skeptics cite this as evidence that the OBE is hallucinatory.  
-* **The Denominator Problem:** The lack of hits must be contextualized by the massive logistical failure of the setup. In AWARE I, out of 2,060 arrests, only 140 survived to interview. Only 9 had NDEs. Of those 9, only **two** occurred in rooms with the shelves installed. Of those two, one was too ill to interview. Thus, the effective sample size for the "hidden target" test was **one** or **zero**.42 The "zero hits" result is statistically meaningless due to the lack of opportunity.
+* **Visual Targets:** **Zero** patients explicitly identified a hidden image (Parnia et al. 2014; Parnia et al. 2023). Skeptics cite this as evidence that the OBE is hallucinatory.  
+* **The Denominator Problem:** The lack of hits must be contextualized by the massive logistical failure of the setup. In AWARE I, out of 2,060 arrests, only 140 survived to interview. Only 9 had NDEs. Of those 9, only **two** reported awareness of their resuscitation, and neither arrest occurred in a room with the shelves installed. Of those two, one was too ill to interview. Thus, the effective sample size for the "hidden target" test was **zero** (Parnia et al. 2014; Wehrstein 2026). The "zero hits" result is statistically meaningless due to the lack of opportunity.
 
 ### **5.3 Validated Awareness without Targets**
 
 Despite the target failure, AWARE I produced a verified case of **auditory awareness**. A patient accurately described the automated voice prompts of the AED ("Shock advised") and the specific actions of the staff.
 
 * **Significance:** Parnia was able to time-stamp these events using the AED log. The patient's awareness persisted for **up to three minutes** after cardiac arrest.  
-* **Physiological Paradox:** Standard neuroscience dictates that the brain becomes isoelectric (flat) within 10-20 seconds of arrest. For a patient to maintain structured auditory attention and memory formation at the 3-minute mark implies consciousness persisted *without* functional cortical activity.40 This finding falsifies the "dying brain" assumption that consciousness ends immediately upon cortical silence.
+* **Physiological Paradox:** Standard neuroscience dictates that the brain becomes isoelectric (flat) within 10-20 seconds of arrest. For a patient to maintain structured auditory attention and memory formation at the 3-minute mark implies consciousness persisted *without* functional cortical activity (Parnia et al. 2014; Wehrstein 2026). This finding falsifies the "dying brain" assumption that consciousness ends immediately upon cortical silence.
 
 ### **5.4 Interpretation: Attention vs. Omniscience**
 
-The discrepancy between the "local" accuracy (describing the resuscitation) and the "remote" failure (missing the targets) suggests that NDE perception is **attention-driven**. The disembodied consciousness appears focused on the crisis—the body, the doctors, the emotional weight of death—rather than scanning the room for random pictures. The failure of the target test may reflect the psychology of the experiencer rather than the unreality of the experience.46
+The discrepancy between the "local" accuracy (describing the resuscitation) and the "remote" failure (missing the targets) suggests that NDE perception is **attention-driven**. The disembodied consciousness appears focused on the crisis—the body, the doctors, the emotional weight of death—rather than scanning the room for random pictures. The failure of the target test may reflect the psychology of the experiencer rather than the unreality of the experience (Holden 2007).
 
 ## ---
 
@@ -225,42 +225,42 @@ The dying brain hypothesis struggles profoundly to explain the content of the **
 
 In the panoramic life review, experiencers do not merely recall events; they **relive** them. Crucially, they often report experiencing the event from the **perspective of the other person**.
 
-* **Example:** If an NDEr had bullied a child in school, they do not just remember the act; they *feel* the humiliation and pain of the victim as if it were their own.5  
+* **Example:** If an NDEr had bullied a child in school, they do not just remember the act; they *feel* the humiliation and pain of the victim as if it were their own (Zigarelli 2024).  
 * **Implication:** This "empathetic resonance" implies a momentary dissolution of the self-other boundary. It suggests that consciousness during the NDE has access to information (the subjective interiority of another person) that was never encoded in the experiencer's own brain.
 
 ### **6.2 The Materialist Failure**
 
 * **Memory Storage:** Neuroscience posits that memories are stored ego-centrically (from my perspective). There is no mechanism for the brain to encode "how it felt to be the other person" at the time of the event.  
-* **Mirror Neurons:** Materialists might invoke "mirror neurons" (which fire when observing others) to explain empathy.47 However, mirror neurons are a perception-action coupling system active during *observation*. They do not explain the retrieval of a decades-old event re-experienced from a third-person emotional vantage point with high fidelity. The dying brain would have to run a perfect simulation of another person's mind based on decades-old data, a computational feat that seems impossible for a hypoxic, disintegrating organ.48  
+* **Mirror Neurons:** Materialists might invoke "mirror neurons" (which fire when observing others) to explain empathy (Agrillo and Agrillo 2012). However, mirror neurons are a perception-action coupling system active during *observation*. They do not explain the retrieval of a decades-old event re-experienced from a third-person emotional vantage point with high fidelity. The dying brain would have to run a perfect simulation of another person's mind based on decades-old data, a computational feat that seems impossible for a hypoxic, disintegrating organ.  
 * **Moral Coherence:** The life review consistently enforces a moral lesson: the primacy of love and connection. Hallucinations born of hypoxia or seizures are typically random, confusing, or paranoid. The consistent, ethically coherent nature of the life review contradicts the chaotic nature of brain disintegration.
 
 ### **6.3 Hyper-Reality and the "Real"**
 
-NDErs consistently describe the experience as "hyper-real"—more vivid, colorful, and meaningful than waking life. They liken returning to the body as "waking up into a dream" or "putting on a heavy diving suit".5
+NDErs consistently describe the experience as "hyper-real"—more vivid, colorful, and meaningful than waking life. They liken returning to the body as "waking up into a dream" or "putting on a heavy diving suit" (*Consciousness as a Selective Pressure*).
 
-* **The Physiologic Contradiction:** Hallucinations caused by pathology (fever, hypoxia, drugs) are typically described as fuzzy, unstable, or bizarre. The DBH predicts a *degradation* of perceptual quality (dimming, confusion) as the brain fails. The NDE presents an *enhancement* of perceptual quality. This inverse relationship—better consciousness with less brain—is the central paradox that materialism fails to resolve.12
+* **The Physiologic Contradiction:** Hallucinations caused by pathology (fever, hypoxia, drugs) are typically described as fuzzy, unstable, or bizarre. The DBH predicts a *degradation* of perceptual quality (dimming, confusion) as the brain fails. The NDE presents an *enhancement* of perceptual quality. This inverse relationship—better consciousness with less brain—is the central paradox that materialism fails to resolve (Egnor 2020).
 
 ## ---
 
 **7\. Terminal Lucidity: The Structural Challenge**
 
 The DBH rests on the "Structure-Function" dogma: specific brain structures are necessary for specific cognitive functions. If the structure is destroyed (e.g., by Alzheimer's), the function (memory/personality) should be irretrievably lost.  
-The phenomenon of Terminal Lucidity (or Paradoxical Lucidity) directly falsifies this strict correlation.49
+The phenomenon of Terminal Lucidity (or Paradoxical Lucidity) directly falsifies this strict correlation (Nahm et al. 2012).
 
 ### **7.1 The Phenomenon**
 
-Terminal Lucidity refers to the unexpected return of mental clarity, memory, and personality in patients with severe neurodegenerative disorders (Alzheimer's, meningitis, tumors) shortly before death. Patients who have been non-verbal, unrecognizing, or comatose for months suddenly "wake up," engage in meaningful conversation, recognize loved ones, and then die shortly thereafter.51
+Terminal Lucidity refers to the unexpected return of mental clarity, memory, and personality in patients with severe neurodegenerative disorders (Alzheimer's, meningitis, tumors) shortly before death. Patients who have been non-verbal, unrecognizing, or comatose for months suddenly "wake up," engage in meaningful conversation, recognize loved ones, and then die shortly thereafter (Peterson et al. 2022; Nahm et al. 2012).
 
 ### **7.2 Mechanism Failure**
 
 In late-stage Alzheimer's, the brain is physically atrophied. Neural networks responsible for memory and language are destroyed by plaques and tangles.
 
-* **Materialist Hypothesis:** Explanations include "neuroplasticity" or a "final surge" of neurotransmitters.52  
-* **Critique:** Neuroplasticity is a slow process of learning and growth; it cannot spontaneously reconstruct destroyed networks in minutes. A "surge" of electricity through a broken circuit does not fix the circuit. If the hardware of memory (hippocampus/cortex) is physically gone, no amount of "surging" should be able to retrieve those memories.54
+* **Materialist Hypothesis:** Explanations include "neuroplasticity" or a "final surge" of neurotransmitters (Short 2025).  
+* **Critique:** Neuroplasticity is a slow process of learning and growth; it cannot spontaneously reconstruct destroyed networks in minutes. A "surge" of electricity through a broken circuit does not fix the circuit. If the hardware of memory (hippocampus/cortex) is physically gone, no amount of "surging" should be able to retrieve those memories (Nahm et al. 2012).
 
 ### **7.3 The Transmission Hypothesis**
 
-Terminal Lucidity provides strong support for the **Transmission** or **Filter Hypothesis** (James, Bergson). In this model, the brain does not *produce* consciousness but *filters* it. Disease blocks the filter, causing dementia. At the moment of death, as the brain's hold loosens (or the "filter" breaks completely), the consciousness is released, allowing a momentary bypass of the damaged machinery before the final separation.5
+Terminal Lucidity provides strong support for the **Transmission** or **Filter Hypothesis** (James, Bergson). In this model, the brain does not *produce* consciousness but *filters* it. Disease blocks the filter, causing dementia. At the moment of death, as the brain's hold loosens (or the "filter" breaks completely), the consciousness is released, allowing a momentary bypass of the damaged machinery before the final separation (Arora 2025).
 
 > **[CORRECTION #25]**: The dying-brain refutation above is valid. The filter/transmission mechanism proposed here is not the framework's position. The body is the outermost expression of the spiritual state — not a valve or channel for a non-local mind. Terminal lucidity is a state-shift: an obscuring influence lifts, the body reorganizes, and the patient conveys by speech and recognition because the body genuinely functions in that window. See *The Surface That Withholds Nothing* (data/01_Consciousness_Studies/).
 
@@ -268,11 +268,11 @@ Terminal Lucidity provides strong support for the **Transmission** or **Filter H
 
 **8\. Shared Death Experiences: The "Control Group"**
 
-Perhaps the most potent evidence against the dying brain hypothesis comes from **Shared Death Experiences (SDEs)**.55
+Perhaps the most potent evidence against the dying brain hypothesis comes from **Shared Death Experiences (SDEs)** (*The Phenomenology of Consensual Reality in Extremis*).
 
 ### **8.1 The Phenomenon**
 
-In an SDE, a healthy person—typically a loved one or caregiver sitting at the bedside—reports sharing the NDE of the dying person. They may see the light, see the spirit leave the body, or feel themselves "lifted" out of their own body to accompany the dying person partway through the tunnel or into the other realm.56
+In an SDE, a healthy person—typically a loved one or caregiver sitting at the bedside—reports sharing the NDE of the dying person. They may see the light, see the spirit leave the body, or feel themselves "lifted" out of their own body to accompany the dying person partway through the tunnel or into the other realm (Peters 2022).
 
 ### **8.2 Falsifying the "Dying" Component**
 
@@ -280,13 +280,13 @@ The SDE bystander acts as a natural "control group."
 
 * **Physiology:** The bystander is **not** dying. They are not hypoxic. They have not been given drugs. Their brain is fully oxygenated and functioning normally.  
 * **Phenomenology:** Yet, they report the *exact same* phenomenology as the NDEr (OBE, light, tunnel, entities).  
-* **Implication:** If the same experience can occur in a healthy brain and a dying brain simultaneously, then the *cause* of the experience cannot be the unique physiology of dying (anoxia/gamma surge). The cause must be something shared between them—an objective event within a field of consciousness.56
+* **Implication:** If the same experience can occur in a healthy brain and a dying brain simultaneously, then the *cause* of the experience cannot be the unique physiology of dying (anoxia/gamma surge). The cause must be something shared between them—an objective event within a field of consciousness.
 
 ### **8.3 Skeptical Responses: Folie à Deux?**
 
-Skeptics dismiss SDEs as "folie à deux" (shared psychosis) or "grief hallucinations".59
+Skeptics dismiss SDEs as "folie à deux" (shared psychosis) or "grief hallucinations" (Rabeyron and Evrard 2012).
 
-* **Rebuttal:** Shared psychosis typically develops over a long period of isolation and involves paranoid delusions, not spontaneous transcendental visions. Furthermore, SDEs often contain **veridical elements**—the bystander sees a deceased relative of the dying person that they (the bystander) did not know, or sees the spirit leave at the exact moment of death before clinical signs are visible.61 The "contagion" theory fails to explain the simultaneity and specificity of the shared vision, especially when the bystander is not in a state of high grief or expectation.
+* **Rebuttal:** Shared psychosis typically develops over a long period of isolation and involves paranoid delusions, not spontaneous transcendental visions (Cipriani et al. 2018). Furthermore, SDEs often contain **veridical elements**—the bystander sees a deceased relative of the dying person that they (the bystander) did not know, or sees the spirit leave at the exact moment of death before clinical signs are visible. The "contagion" theory fails to explain the simultaneity and specificity of the shared vision, especially when the bystander is not in a state of high grief or expectation.
 
 ## ---
 
@@ -299,74 +299,69 @@ When the Dying Brain Hypothesis is subjected to the rigorous standards of falsif
 3. **Explanatory Gaps:** The hypothesis cannot explain **Veridical Perception** (information acquired without senses), the **Empathetic Life Review** (accessing the subjectivity of others), or **Terminal Lucidity** (function without structure).  
 4. **Methodological Failures:** The dismissal of veridical cases as "anecdotes" ignores the statistical improbability of recurrent accurate reporting during documented coma.
 
-The persistence of these anomalies suggests that the Dying Brain Hypothesis is an insufficient model. The data points toward a reality where consciousness is not merely a byproduct of neural computation but a fundamental, non-local phenomenon that interacts with the brain. As Dr. Sam Parnia and others have noted, the evidence suggests that the brain functions as a transceiver or filter for consciousness, rather than its generator.62
+The persistence of these anomalies suggests that the Dying Brain Hypothesis is an insufficient model. The data points toward a reality where consciousness is not merely a byproduct of neural computation but a fundamental, non-local phenomenon that interacts with the brain. As Dr. Sam Parnia and others have noted, the evidence suggests that the brain functions as a transceiver or filter for consciousness, rather than its generator (Arora 2025).
 
 > **[CORRECTION #25]**: "Transceiver or filter" is not the framework's position. The body is the outermost expression of the spiritual state, not an instrument that channels a separate mind. The correct framing: the brain does not produce mind, and it does not stand between mind and world as a channel; it is the mind at the natural degree. See *The Surface That Withholds Nothing* (data/01_Consciousness_Studies/).
 
 To continue to assert the Dying Brain Hypothesis as the *only* valid scientific explanation is to engage in a form of dogma that prioritizes theory over evidence. The scientific method demands that when a hypothesis is repeatedly falsified by the data (as in the case of veridical perception and SDEs), it must be revised or discarded. The study of NDEs stands at the threshold of a post-materialist paradigm, requiring a new science of consciousness that can accommodate the continuity of the self beyond the bounds of the biological machine.
 
-#### **Works cited**
+## **Works Cited**
 
-1. Consciousness, Awareness & Cognitive Experiences During Cardiac Arrest | NYU Langone Health, accessed on December 29, 2025, [https://med.nyu.edu/research/parnia-lab/consciousness/consciousness-awareness-cognitive-experiences-during-cardiac-arrest](https://med.nyu.edu/research/parnia-lab/consciousness/consciousness-awareness-cognitive-experiences-during-cardiac-arrest)  
-2. Awareness During Resuscitation \- II: A Multi-Center Study of Consciousness and Awareness in Cardiac Arrest | Request PDF \- ResearchGate, accessed on December 29, 2025, [https://www.researchgate.net/publication/367664568\_Awareness\_During\_Resuscitation\_-\_II\_A\_Multi-Center\_Study\_of\_Consciousness\_and\_Awareness\_in\_Cardiac\_Arrest](https://www.researchgate.net/publication/367664568_Awareness_During_Resuscitation_-_II_A_Multi-Center_Study_of_Consciousness_and_Awareness_in_Cardiac_Arrest)  
-3. Near-Death Experiences: A Critique of the Fischer and Mitchell-Yellin Physicalist Interpretation \- UNT Digital Library, accessed on December 29, 2025, [https://digital.library.unt.edu/ark:/67531/metadc1727983/](https://digital.library.unt.edu/ark:/67531/metadc1727983/)  
-4. (PDF) Near-Death Experiences: A Critique of the Fischer and Mitchell-Yellin Physicalist Interpretation with Response and Rejoinder \- ResearchGate, accessed on December 29, 2025, [https://www.researchgate.net/publication/329233248\_Near-Death\_Experiences\_A\_Critique\_of\_the\_Fischer\_and\_Mitchell-Yellin\_Physicalist\_Interpretation\_with\_Response\_and\_Rejoinder](https://www.researchgate.net/publication/329233248_Near-Death_Experiences_A_Critique_of_the_Fischer_and_Mitchell-Yellin_Physicalist_Interpretation_with_Response_and_Rejoinder)  
-5. Consciousness as a Selective Pressure: A Scientific and Philosophical Analysis of the Consciousness-Driven Evolution Hypothesis, [**Consciousness as a Selective Pressure: A Scientific and Philosophical Analysis of the Consciousness-Driven Evolution Hypothesis**](Consciousness%20as%20a%20Selective%20Pressure_%20A%20Scientific%20and%20Philosophical%20Analysis%20of%20the%20Consciousness-Driven%20Evolution%20Hypothesis.md)  
-6. Near-Death Experiences and the Possibility of Disembodied Consciousness: Challenges to Prevailing Neurobiological and Psychosocial Theories \- ResearchGate, accessed on December 29, 2025, [https://www.researchgate.net/publication/269526336\_Near-Death\_Experiences\_and\_the\_Possibility\_of\_Disembodied\_Consciousness\_Challenges\_to\_Prevailing\_Neurobiological\_and\_Psychosocial\_Theories](https://www.researchgate.net/publication/269526336_Near-Death_Experiences_and_the_Possibility_of_Disembodied_Consciousness_Challenges_to_Prevailing_Neurobiological_and_Psychosocial_Theories)  
-7. Empirical Validation of the Threefold Path Model: A Statistical Analysis of NDE Soul Origin Markers, [**Empirical Validation of the Threefold Path Model**](Empirical%20Validation%20of%20the%20Threefold%20Path%20Model_%20A%20Statistical%20Analysis%20of%20NDE%20Soul%20Origin%20Markers.md)  
-8. Full article: Diversity and similarity of near-death experiences across cultures and history: implications for the survival hypothesis, accessed on December 29, 2025, [https://www.tandfonline.com/doi/full/10.1080/09540261.2024.2402429](https://www.tandfonline.com/doi/full/10.1080/09540261.2024.2402429)  
-9. Evidence of conscious-like activity in the dying brain | Michigan Medicine, accessed on December 29, 2025, [https://www.michiganmedicine.org/health-lab/evidence-conscious-activity-dying-brain](https://www.michiganmedicine.org/health-lab/evidence-conscious-activity-dying-brain)  
-10. NDE Arguments : Survival Hypothesis vs Naturalistic Hypothesis : r/consciousness \- Reddit, accessed on December 29, 2025, [https://www.reddit.com/r/consciousness/comments/18tubl1/nde\_arguments\_survival\_hypothesis\_vs\_naturalistic/](https://www.reddit.com/r/consciousness/comments/18tubl1/nde_arguments_survival_hypothesis_vs_naturalistic/)  
-11. Consciousness in near-death experiences: Tanmoy Bhattacharyya, accessed on December 29, 2025, [https://advocatetanmoy.com/consciousness-in-near-death-experiences-tanmoy-bhattacharyya/](https://advocatetanmoy.com/consciousness-in-near-death-experiences-tanmoy-bhattacharyya/)  
-12. Neuroscience Can't Dismiss Near Death Experiences \- Mind Matters, accessed on December 29, 2025, [https://mindmatters.ai/2020/05/neuroscience-cant-dismiss-near-death-experiences/](https://mindmatters.ai/2020/05/neuroscience-cant-dismiss-near-death-experiences/)  
-13. Does N,N- Dimethyltryptamine (DMT) Adequately Explain Near- Death Experiences? \- UNT Digital Library, accessed on December 29, 2025, [https://digital.library.unt.edu/ark:/67531/metadc937961/m2/1/high\_res\_d/31-1\_4\_Potts.pdf](https://digital.library.unt.edu/ark:/67531/metadc937961/m2/1/high_res_d/31-1_4_Potts.pdf)  
-14. Getting Comfortable With Near-Death Experiences: Dutch Prospective Research on Near-Death Experiences During Cardiac Arrest \- PMC \- NIH, accessed on December 29, 2025, [https://pmc.ncbi.nlm.nih.gov/articles/PMC6179502/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6179502/)  
-15. Pineal Gland DMT: 4 FAQs Answered \- Healthline, accessed on December 29, 2025, [https://www.healthline.com/health/pineal-gland-dmt](https://www.healthline.com/health/pineal-gland-dmt)  
-16. Human brains show larger-than-life activity at moment of death \- Borjigin Lab, accessed on December 29, 2025, [https://borjigin.lab.medicine.umich.edu/news/2023-near-death-consciousness/human-brains-show-larger-than-life-activity-at-moment-of-death](https://borjigin.lab.medicine.umich.edu/news/2023-near-death-consciousness/human-brains-show-larger-than-life-activity-at-moment-of-death)  
-17. Why N,N-dimethyltryptamine matters: unique features and therapeutic potential beyond classical psychedelics \- Frontiers, accessed on December 29, 2025, [https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1485337/full](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1485337/full)  
-18. This is your brain on death: a comparative analysis of a near-death experience and subsequent 5-Methoxy-DMT experience \- NIH, accessed on December 29, 2025, [https://pmc.ncbi.nlm.nih.gov/articles/PMC10345338/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10345338/)  
-19. A Comparison of NN-DMT, Changa & 5-MeO-DMT and the Near-death Experience \- Greenwich Academic Literature Archive (GALA), accessed on December 29, 2025, [https://gala.gre.ac.uk/id/eprint/48699/1/Michael%2C%20Pascal%20-%20PhD%20Thesis%202022.pdf](https://gala.gre.ac.uk/id/eprint/48699/1/Michael%2C%20Pascal%20-%20PhD%20Thesis%202022.pdf)  
-20. Near-Death Experiences and the Temporal Lobe | Request PDF \- ResearchGate, accessed on December 29, 2025, [https://www.researchgate.net/publication/8656524\_Near-Death\_Experiences\_and\_the\_Temporal\_Lobe](https://www.researchgate.net/publication/8656524_Near-Death_Experiences_and_the_Temporal_Lobe)  
-21. A new challenge in temporal lobe phenomenology? Comments on “A neurobiological model for near-death experiences” \- ResearchGate, accessed on December 29, 2025, [https://www.researchgate.net/publication/227080795\_Near-death\_experiences\_A\_new\_challenge\_in\_temporal\_lobe\_phenomenology\_Comments\_on\_A\_neurobiological\_model\_for\_near-death\_experiences](https://www.researchgate.net/publication/227080795_Near-death_experiences_A_new_challenge_in_temporal_lobe_phenomenology_Comments_on_A_neurobiological_model_for_near-death_experiences)  
-22. Commentary on ''Psychophysiological and Cultural Correlates Undermining a Survivalist Interpretation of Near-Death Experiences, accessed on December 29, 2025, [https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2017/01/NDE52.pdf](https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2017/01/NDE52.pdf)  
-23. Similarities between near-death experiences and multiple personality disorder \- UNT Digital Library, accessed on December 29, 2025, [https://digital.library.unt.edu/ark:/67531/metadc799089/m2/1/high\_res\_d/vol11-no1-19.pdf](https://digital.library.unt.edu/ark:/67531/metadc799089/m2/1/high_res_d/vol11-no1-19.pdf)  
-24. Surge of neurophysiological activity in the dying brain, accessed on December 29, 2025, [https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2017/01/NDE71surge-PNAS.pdf](https://med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2017/01/NDE71surge-PNAS.pdf)  
-25. Surge of neurophysiological coherence and connectivity in the dying brain \- ResearchGate, accessed on December 29, 2025, [https://www.researchgate.net/publication/255790950\_Surge\_of\_neurophysiological\_coherence\_and\_connectivity\_in\_the\_dying\_brain](https://www.researchgate.net/publication/255790950_Surge_of_neurophysiological_coherence_and_connectivity_in_the_dying_brain)  
-26. Surge of gamma wave activity in brains of dying patients suggest that near-death experience is the product of the dying brain : r/science \- Reddit, accessed on December 29, 2025, [https://www.reddit.com/r/science/comments/1355urc/surge\_of\_gamma\_wave\_activity\_in\_brains\_of\_dying/](https://www.reddit.com/r/science/comments/1355urc/surge_of_gamma_wave_activity_in_brains_of_dying/)  
-27. Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain | Request PDF \- ResearchGate, accessed on December 29, 2025, [https://www.researchgate.net/publication/370443406\_Surge\_of\_neurophysiological\_coupling\_and\_connectivity\_of\_gamma\_oscillations\_in\_the\_dying\_human\_brain](https://www.researchgate.net/publication/370443406_Surge_of_neurophysiological_coupling_and_connectivity_of_gamma_oscillations_in_the_dying_human_brain)  
-28. Surge of neurophysiological coherence and connectivity in the dying brain \- PNAS, accessed on December 29, 2025, [https://www.pnas.org/doi/10.1073/pnas.1308285110](https://www.pnas.org/doi/10.1073/pnas.1308285110)  
-29. A Mysterious Surge of Brain Activity During Death Probes the Edges of Consciousness, accessed on December 29, 2025, [https://singularityhub.com/2023/05/09/a-surge-of-brain-activity-during-death-probes-the-edges-of-consciousness/](https://singularityhub.com/2023/05/09/a-surge-of-brain-activity-during-death-probes-the-edges-of-consciousness/)  
-30. The gamma-band activity model of the near-death experience: a critique and a reinterpretation. \- ResearchGate, accessed on December 29, 2025, [https://www.researchgate.net/publication/384130389\_The\_gamma-band\_activity\_model\_of\_the\_near-death\_experience\_a\_critique\_and\_a\_reinterpretation](https://www.researchgate.net/publication/384130389_The_gamma-band_activity_model_of_the_near-death_experience_a_critique_and_a_reinterpretation)  
-31. The gamma-band activity model of the near-death experience: a critique and a reinterpretation.. \- F1000Research, accessed on December 29, 2025, [https://f1000research.com/articles/13-674](https://f1000research.com/articles/13-674)  
-32. Could Pam Reynolds Hear? A New Investigation into the Possibility of Hearing During this Famous Near-Death Experience \- SciSpace, accessed on December 29, 2025, [https://scispace.com/pdf/could-pam-reynolds-hear-a-new-investigation-into-the-1pxnq7j1y7.pdf](https://scispace.com/pdf/could-pam-reynolds-hear-a-new-investigation-into-the-1pxnq7j1y7.pdf)  
-33. Response to "Could Pam Reynolds Hear?" \[\#2\] \- Page 59 \- UNT Digital Library, accessed on December 29, 2025, [https://digital.library.unt.edu/ark:/67531/metadc461722/m1/7/](https://digital.library.unt.edu/ark:/67531/metadc461722/m1/7/)  
-34. Challenge to the skeptics : r/consciousness \- Reddit, accessed on December 29, 2025, [https://www.reddit.com/r/consciousness/comments/1psypup/challenge\_to\_the\_skeptics/](https://www.reddit.com/r/consciousness/comments/1psypup/challenge_to_the_skeptics/)  
-35. Commentary on "Does Paranormal Perception Occur in Near-Death Experiences?" \- UNT Digital Library, accessed on December 29, 2025, [https://digital.library.unt.edu/ark:/67531/metadc799460/m2/1/high\_res\_d/vol25-no4-251.pdf](https://digital.library.unt.edu/ark:/67531/metadc799460/m2/1/high_res_d/vol25-no4-251.pdf)  
-36. (PDF) Rejoinder to “Response to 'Corroboration of the Dentures Anecdote Involving Veridical Perception in a Near-Death Experience'” \- ResearchGate, accessed on December 29, 2025, [https://www.researchgate.net/publication/228624273\_Rejoinder\_to\_Response\_to\_'Corroboration\_of\_the\_Dentures\_Anecdote\_Involving\_Veridical\_Perception\_in\_a\_Near-Death\_Experience'](https://www.researchgate.net/publication/228624273_Rejoinder_to_Response_to_'Corroboration_of_the_Dentures_Anecdote_Involving_Veridical_Perception_in_a_Near-Death_Experience')  
-37. Response to “Corroboration of the Dentures Anecdote Involving Veridical Perception in a Near-Death Experience” \- UNT Digital Library, accessed on December 29, 2025, [https://digital.library.unt.edu/ark:/67531/metadc461689/m2/1/high\_res\_d/28-4%20FINAL%20WOERLEE%20ART.pdf](https://digital.library.unt.edu/ark:/67531/metadc461689/m2/1/high_res_d/28-4%20FINAL%20WOERLEE%20ART.pdf)  
-38. (PDF) There is no death: Near-death experience evidence for survival after permanent bodily death (includes TOC) \- ResearchGate, accessed on December 29, 2025, [https://www.researchgate.net/publication/356587850\_There\_is\_no\_death\_Near-death\_experience\_evidence\_for\_survival\_after\_permanent\_bodily\_death\_includes\_TOC](https://www.researchgate.net/publication/356587850_There_is_no_death_Near-death_experience_evidence_for_survival_after_permanent_bodily_death_includes_TOC)  
-39. Near-Death Experiences: A Critique of the Fischer and Mitchell-Yellin Physicalist Interpretation \- ResearchGate, accessed on December 29, 2025, [https://www.researchgate.net/publication/347323422\_Near-Death\_Experiences\_A\_Critique\_of\_the\_Fischer\_and\_Mitchell-Yellin\_Physicalist\_Interpretation](https://www.researchgate.net/publication/347323422_Near-Death_Experiences_A_Critique_of_the_Fischer_and_Mitchell-Yellin_Physicalist_Interpretation)  
-40. AWARE—AWAreness during REsuscitation—A prospective study \- iFAC, accessed on December 29, 2025, [https://ifac.univ-nantes.fr/IMG/pdf/aware-awareness\_during\_resuscitation-a\_prospective\_study.pdf](https://ifac.univ-nantes.fr/IMG/pdf/aware-awareness_during_resuscitation-a_prospective_study.pdf)  
-41. AWARE II \- NHS Health Research Authority, accessed on December 29, 2025, [https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/aware-ii/](https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/aware-ii/)  
-42. (PDF) AWARE study initial results are published \-- Commentary \- ResearchGate, accessed on December 29, 2025, [https://www.researchgate.net/publication/276276172\_AWARE\_study\_initial\_results\_are\_published\_--\_Commentary](https://www.researchgate.net/publication/276276172_AWARE_study_initial_results_are_published_--_Commentary)  
-43. AWARE-II Near Death Experience Study \- NeuroLogica Blog, accessed on December 29, 2025, [https://theness.com/neurologicablog/aware-ii-near-death-experience-study/](https://theness.com/neurologicablog/aware-ii-near-death-experience-study/)  
-44. Patients Recall Death Experiences After Cardiac Arrest | NYU Langone News, accessed on December 29, 2025, [https://nyulangone.org/news/patients-recall-death-experiences-after-cardiac-arrest](https://nyulangone.org/news/patients-recall-death-experiences-after-cardiac-arrest)  
-45. Results of world's largest Near Death Experiences study published, accessed on December 29, 2025, [https://www.southampton.ac.uk/news/2014/10/07-worlds-largest-near-death-experiences-study.page](https://www.southampton.ac.uk/news/2014/10/07-worlds-largest-near-death-experiences-study.page)  
-46. More Things in Heaven and Earth: A Response to "Near-Death Experiences with Hallucinatory Features" \- UNT Digital Library, accessed on December 29, 2025, [https://digital.library.unt.edu/ark:/67531/metadc799193/m2/1/high\_res\_d/vol26-no1-33.pdf](https://digital.library.unt.edu/ark:/67531/metadc799193/m2/1/high_res_d/vol26-no1-33.pdf)  
-47. Near-Death Experiences as a Tool for Forming a Broader Comprehension of the Link between Consciousness and Social Perception: Commentary on Graziano and Kastner () \- PMC, accessed on December 29, 2025, [https://pmc.ncbi.nlm.nih.gov/articles/PMC3263429/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3263429/)  
-48. Near-Death Experiences and the Emerging Implications for Christian Theology, accessed on December 29, 2025, [https://christianscholars.com/near-death-experiences-and-the-emerging-implications-for-christian-theology/](https://christianscholars.com/near-death-experiences-and-the-emerging-implications-for-christian-theology/)  
-49. Terminal lucidity \- Wikipedia, accessed on December 29, 2025, [https://en.wikipedia.org/wiki/Terminal\_lucidity](https://en.wikipedia.org/wiki/Terminal_lucidity)  
-50. Paradoxical Lucidity: Moments to Treasure in Dying and Dementia, accessed on December 29, 2025, [https://inelda.org/paradoxical-lucidity-moments-to-treasure-in-dying-and-dementia/](https://inelda.org/paradoxical-lucidity-moments-to-treasure-in-dying-and-dementia/)  
-51. What is paradoxical lucidity? The answer begins with its definition \- PMC \- PubMed Central, accessed on December 29, 2025, [https://pmc.ncbi.nlm.nih.gov/articles/PMC8807788/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8807788/)  
-52. Is There Neuroscientific Evidence of Burst of Lucidity in Dying People? \- ResearchGate, accessed on December 29, 2025, [https://www.researchgate.net/publication/395738961\_Is\_There\_Neuroscientific\_Evidence\_of\_Burst\_of\_Lucidity\_in\_Dying\_People](https://www.researchgate.net/publication/395738961_Is_There_Neuroscientific_Evidence_of_Burst_of_Lucidity_in_Dying_People)  
-53. One Last Goodbye- Understanding Death Rally \- Peacefully, accessed on December 29, 2025, [https://peacefully.com/one-last-goodbye-understanding-death-rally/](https://peacefully.com/one-last-goodbye-understanding-death-rally/)  
-54. Terminal Lucidity in Alzheimer's Disease: Evidence for Preserved but Inaccessible Memory Engrams \- Zenodo, accessed on December 29, 2025, [https://zenodo.org/records/18012363](https://zenodo.org/records/18012363)  
-55. Group NDE Report Analysis, [Group NDE Report Analysis](The%20Phenomenology%20of%20Consensual%20Reality%20in%20Extremis_%20A%20Comparative%20Analysis%20of%20First-Hand%20Accounts%20of%20Group%20Near-Death%20Experiences.md)  
-56. The Mystery of Empathic and Shared Death Experiences \- Universal Life Church Monastery, accessed on December 29, 2025, [https://www.themonastery.org/blog/the-mystery-of-empathic-and-shared-death-experiences](https://www.themonastery.org/blog/the-mystery-of-empathic-and-shared-death-experiences)  
-57. William Peters | At Heaven's Door: What Shared Journeys to the Afterlife Teach About Dying Well and Living Better \- International End of Life Doula Association, accessed on December 29, 2025, [https://inelda.org/our-resources/media-of-the-month-at-heavens-door/](https://inelda.org/our-resources/media-of-the-month-at-heavens-door/)  
-58. Dying Well 'At Heaven's Door' \- The Santa Barbara Independent, accessed on December 29, 2025, [https://www.independent.com/2022/01/12/dying-well-at-heavens-door/](https://www.independent.com/2022/01/12/dying-well-at-heavens-door/)  
-59. Historical and Contemporary Perspectives on Occultism in the Freud-Ferenczi Correspondence | Cairn.info, accessed on December 29, 2025, [https://shs.cairn.info/revue-recherches-en-psychanalyse1-2012-1-page-98?lang=en](https://shs.cairn.info/revue-recherches-en-psychanalyse1-2012-1-page-98?lang=en)  
-60. A Contagious Disorder: Folie à Deux and Dementia \- PMC \- NIH, accessed on December 29, 2025, [https://pmc.ncbi.nlm.nih.gov/articles/PMC10852512/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10852512/)  
-61. What is the best alternative to the resurrection? : r/ChristianApologetics \- Reddit, accessed on December 29, 2025, [https://www.reddit.com/r/ChristianApologetics/comments/186q45j/what\_is\_the\_best\_alternative\_to\_the\_resurrection/](https://www.reddit.com/r/ChristianApologetics/comments/186q45j/what_is_the_best_alternative_to_the_resurrection/)  
-62. Consciousness | NYU Langone Health, accessed on December 29, 2025, [https://med.nyu.edu/research/parnia-lab/consciousness](https://med.nyu.edu/research/parnia-lab/consciousness)  
-63. The spiritual core of the hard problem: consciousness as foundational, not emergent \- NIH, accessed on December 29, 2025, [https://pmc.ncbi.nlm.nih.gov/articles/PMC12444660/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12444660/)
+**Scholarly Works:**
+
+1. Agrillo, Christian, and Davide Agrillo. "Near-Death Experiences as a Tool for Forming a Broader Comprehension of the Link between Consciousness and Social Perception: Commentary on Graziano and Kastner (2011)." *Frontiers in Psychology* 3 (2012): 6.
+2. Arora, Amira. "The Spiritual Core of the Hard Problem: Consciousness as Foundational, Not Emergent." *Frontiers in Psychology* 16 (2025): 1659944.
+3. Borjigin, Jimo, UnCheol Lee, Tiecheng Liu, Dinesh Pal, Sean Huff, Daniel Klarr, Jennifer Sloboda, Jason Hernandez, Michael M. Wang, and George A. Mashour. "Surge of Neurophysiological Coherence and Connectivity in the Dying Brain." *Proceedings of the National Academy of Sciences* 110, no. 35 (2013): 14432–14437.
+4. Britton, Willoughby B., and Richard R. Bootzin. "Near-Death Experiences and the Temporal Lobe." *Psychological Science* 15, no. 4 (2004): 254–258.
+5. Chaves, Cristiano, Rafael G. dos Santos, Serdar M. Dursun, Massimo Tusconi, Mauro Giovanni Carta, Elisa Brietzke, and Jaime E. C. Hallak. "Why N,N-Dimethyltryptamine Matters: Unique Features and Therapeutic Potential beyond Classical Psychedelics." *Frontiers in Psychiatry* 15 (2024): 1485337.
+6. Cipriani, Gabriele, Noha Abdel-Gawad, Sabrina Danti, and Mario Di Fiorino. "A Contagious Disorder: Folie à Deux and Dementia." *American Journal of Alzheimer's Disease & Other Dementias* 33, no. 7 (2018): 415–422.
+7. Dean, Jon G., Tiecheng Liu, Sean Huff, Ben Sheler, Steven A. Barker, Rick J. Strassman, Michael M. Wang, and Jimo Borjigin. "Biosynthesis and Extracellular Concentrations of N,N-Dimethyltryptamine (DMT) in Mammalian Brain." *Scientific Reports* 9 (2019).
+8. Fracasso, Cheryl, and Harris Friedman. "Near-Death Experiences and the Possibility of Disembodied Consciousness: Challenges to Prevailing Neurobiological and Psychosocial Theories." *NeuroQuantology* 9, no. 1 (2011).
+9. Greyson, Bruce. "Commentary on 'Psychophysiological and Cultural Correlates Undermining a Survivalist Interpretation of Near-Death Experiences.'" *Journal of Near-Death Studies* 26, no. 2 (2007): 127–145.
+10. Greyson, Bruce, Edward F. Kelly, and W. J. Ross Dunseath. "Surge of Neurophysiological Activity in the Dying Brain." Letter. *Proceedings of the National Academy of Sciences* 110, no. 47 (2013).
+11. Holden, Janice M. "More Things in Heaven and Earth: A Response to 'Near-Death Experiences with Hallucinatory Features.'" *Journal of Near-Death Studies* 26, no. 1 (2007): 33–42.
+12. Jansen, Karl L. R. "The Ketamine Model of the Near-Death Experience: A Central Role for the N-Methyl-D-Aspartate Receptor." *Journal of Near-Death Studies* 16, no. 1 (1997): 5–26.
+13. Mays, Robert G., and Suzanne B. Mays. "Near-Death Experiences: A Critique of the Fischer and Mitchell-Yellin Physicalist Interpretation." *Journal of Near-Death Studies* 36, no. 2 (2017): 69–99.
+14. Michael, Pascal. "A Comparison of NN-DMT, Changa & 5-MeO-DMT and the Near-Death Experience: Qualitative Analyses and Reviews of the Neuroscience." PhD thesis, University of Greenwich, 2022. https://gala.gre.ac.uk/id/eprint/48699/.
+15. Michael, Pascal, David Luke, and Oliver Robinson. "This Is Your Brain on Death: A Comparative Analysis of a Near-Death Experience and Subsequent 5-Methoxy-DMT Experience." *Frontiers in Psychology* 14 (2023): 1083361.
+16. Nahm, Michael, Bruce Greyson, Emily Williams Kelly, and Erlendur Haraldsson. "Terminal Lucidity: A Review and a Case Collection." *Archives of Gerontology and Geriatrics* 55, no. 1 (2012): 138–142.
+17. Neppe, Vernon M. "Near-Death Experiences: A New Challenge in Temporal Lobe Phenomenology? Comments on 'A Neurobiological Model for Near-Death Experiences.'" *Journal of Near-Death Studies* 7, no. 4 (1989): 243–248.
+18. Parnia, Sam, D. G. Waller, R. Yeates, and Peter Fenwick. "A Qualitative and Quantitative Study of the Incidence, Features and Aetiology of Near Death Experiences in Cardiac Arrest Survivors." *Resuscitation* 48, no. 2 (2001): 149–156.
+19. Parnia, Sam, et al. "AWARE—AWAreness during REsuscitation—A Prospective Study." *Resuscitation* 85, no. 12 (2014): 1799–1805.
+20. Parnia, Sam, Tara Keshavarz Shirazi, et al. "AWAreness during REsuscitation – II: A Multi-Center Study of Consciousness and Awareness in Cardiac Arrest." *Resuscitation* 191 (2023): 109903.
+21. Peters, William. *At Heaven's Door: What Shared Journeys to the Afterlife Teach About Dying Well and Living Better.* New York: Simon & Schuster, 2022.
+22. Peterson, Andrew, Justin Clapp, Emily A. Largent, Kristin Harkins, Shana D. Stites, and Jason Karlawish. "What Is Paradoxical Lucidity? The Answer Begins with Its Definition." *Alzheimer's & Dementia* 18, no. 3 (2022): 513–521.
+23. Potts, Michael. "Does N,N-Dimethyltryptamine (DMT) Adequately Explain Near-Death Experiences?" *Journal of Near-Death Studies* 31, no. 1 (2012): 3–23.
+24. Rabeyron, Thomas, and Renaud Evrard. "Historical and Contemporary Perspectives on Occultism in the Freud-Ferenczi Correspondence." *Recherches en psychanalyse* 13, no. 1 (2012): 98–111.
+25. Serdahely, William J. "Similarities between Near-Death Experiences and Multiple Personality Disorder." *Journal of Near-Death Studies* 11, no. 1 (1992): 19–38.
+26. Shaw, Nigel A. "The Gamma-Band Activity Model of the Near-Death Experience: A Critique and a Reinterpretation." *F1000Research* 13 (2024): 674.
+27. Short, Asgeir. "Is There Neuroscientific Evidence of Burst of Lucidity in Dying People?" *Science Insights* 47, no. 3 (2025): 1951–1954.
+28. Shushan, Gregory. "Diversity and Similarity of Near-Death Experiences across Cultures and History: Implications for the Survival Hypothesis." *International Review of Psychiatry* (2024).
+29. Smit, Rudolf H., and Titus Rivas. "Rejoinder to 'Response to "Corroboration of the Dentures Anecdote Involving Veridical Perception in a Near-Death Experience."'" *Journal of Near-Death Studies* 28, no. 4 (2010): 193–205.
+30. Strassman, Rick. *DMT: The Spirit Molecule.* Rochester, VT: Park Street Press, 2001.
+31. Tart, Charles T. "Commentary on 'Does Paranormal Perception Occur in Near-Death Experiences?'" *Journal of Near-Death Studies* 25, no. 4 (2007): 251–256.
+32. van Lommel, Pim. "Getting Comfortable With Near-Death Experiences: Dutch Prospective Research on Near-Death Experiences During Cardiac Arrest." *Missouri Medicine* 111, no. 2 (2014): 126–131.
+33. van Lommel, Pim, Ruud van Wees, Vincent Meyers, and Ingrid Elfferich. "Near-Death Experience in Survivors of Cardiac Arrest: A Prospective Study in the Netherlands." *The Lancet* 358, no. 9298 (2001): 2039–2045.
+34. Woerlee, Gerald M. "Response to 'Corroboration of the Dentures Anecdote Involving Veridical Perception in a Near-Death Experience.'" *Journal of Near-Death Studies* 28, no. 4 (2010): 181–191.
+35. Woerlee, Gerald M. "Could Pam Reynolds Hear? A New Investigation into the Possibility of Hearing During this Famous Near-Death Experience." *Journal of Near-Death Studies* 30, no. 1 (2011): 3–25.
+36. Xu, Gang, Temenuzhka Mihaylova, Duan Li, Fangyun Tian, Peter M. Farrehi, Jack M. Parent, George A. Mashour, Michael M. Wang, and Jimo Borjigin. "Surge of Neurophysiological Coupling and Connectivity of Gamma Oscillations in the Dying Human Brain." *Proceedings of the National Academy of Sciences* 120, no. 19 (2023): e2216268120.
+
+**Internal Library Documents:**
+
+37. [Consciousness as a Selective Pressure: A Scientific and Philosophical Analysis of the Consciousness-Driven Evolution Hypothesis](Consciousness%20as%20a%20Selective%20Pressure_%20A%20Scientific%20and%20Philosophical%20Analysis%20of%20the%20Consciousness-Driven%20Evolution%20Hypothesis.md). Sets out the dying-brain models and the lucidity paradox — hyper-lucid, "more real than real" experience against the confusion of hypoxia — that §§ 1–2 and 6.3 develop.
+38. [The Phenomenology of Consensual Reality in Extremis: A Comparative Analysis of First-Hand Accounts of Group Near-Death Experiences](The%20Phenomenology%20of%20Consensual%20Reality%20in%20Extremis_%20A%20Comparative%20Analysis%20of%20First-Hand%20Accounts%20of%20Group%20Near-Death%20Experiences.md). Defines the shared-death experience against the group NDE, the distinction § 8 relies on.
+
+**Web Sources:**
+
+39. Egnor, Michael. "Neuroscience Can't Dismiss Near Death Experiences." *Mind Matters*, 28 May 2020. https://mindmatters.ai/2020/05/neuroscience-cant-dismiss-near-death-experiences/.
+40. Fan, Shelly. "A Mysterious Surge of Brain Activity During Death Probes the Edges of Consciousness." *Singularity Hub*, 9 May 2023. https://singularityhub.com/2023/05/09/a-surge-of-brain-activity-during-death-probes-the-edges-of-consciousness/.
+41. Michigan Medicine. "Evidence of Conscious-Like Activity in the Dying Brain." *Michigan Medicine Health Lab*, n.d. https://www.michiganmedicine.org/health-lab/evidence-conscious-activity-dying-brain.
+42. NHS Health Research Authority. "AWARE II." Research summary, n.d. https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/aware-ii/.
+43. Novella, Steven. "AWARE-II Near Death Experience Study." *NeuroLogica Blog*, 7 November 2022. https://theness.com/neurologicablog/aware-ii-near-death-experience-study/.
+44. NYU Langone Health, Parnia Lab. "Consciousness, Awareness & Cognitive Experiences During Cardiac Arrest." n.d. https://med.nyu.edu/research/parnia-lab/consciousness/consciousness-awareness-cognitive-experiences-during-cardiac-arrest.
+45. NYU Langone News. "Patients Recall Death Experiences After Cardiac Arrest." 14 September 2023. https://nyulangone.org/news/patients-recall-death-experiences-after-cardiac-arrest.
+46. Rivas, Titus. "Near-Death Experiences – Paranormal Aspects." *Psi Encyclopedia*, Society for Psychical Research, 2021. https://psi-encyclopedia.spr.ac.uk/articles/near-death-experiences-paranormal-aspects/.
+47. University of Southampton. "Results of World's Largest Near Death Experiences Study Published." 7 October 2014. https://www.southampton.ac.uk/news/2014/10/07-worlds-largest-near-death-experiences-study.page.
+48. Wehrstein, KM. "Pam Reynolds (Near-Death Experience)." *Psi Encyclopedia*, Society for Psychical Research, 2017. https://psi-encyclopedia.spr.ac.uk/articles/pam-reynolds-near-death-experience/.
+49. Wehrstein, KM. "AWARE NDE Studies." *Psi Encyclopedia*, Society for Psychical Research, 2026. https://psi-encyclopedia.spr.ac.uk/articles/aware-nde-study/.
+50. Zigarelli, Michael. "Near-Death Experiences and the Emerging Implications for Christian Theology." *Christian Scholar's Review*, 3 March 2024. https://christianscholars.com/near-death-experiences-and-the-emerging-implications-for-christian-theology/.

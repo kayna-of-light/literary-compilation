@@ -12,19 +12,19 @@ To understand Jesus as a "true person," we must strip away the layers of "domest
 
 ### **2.1 The Socio-Economic Matrix: Jesus and the *Ebionim***
 
-The vulnerability of the historical Jesus was not merely existential; it was acutely material. The research identifies the "Jamesian Protograph" (Proto-Luke) as preserving the earliest stratum of the Jesus tradition, rooted in the community of the *Ebionim* ("The Poor").1 This community viewed poverty not just as a lack of money, but as a spiritual reliance on the Lord in the face of oppression.
+The vulnerability of the historical Jesus was not merely existential; it was acutely material. The research identifies the "Jamesian Protograph" (Proto-Luke) as preserving the earliest stratum of the Jesus tradition, rooted in the community of the *Ebionim* ("The Poor"; *The Jamesian Protograph*). This community viewed poverty not just as a lack of money, but as a spiritual reliance on the Lord in the face of oppression.
 
-First-century Galilee was a stratified world of "Honor and Shame." While Jesus may have had the skills of a *tekton* (artisan), he voluntarily aligned himself with the *ptochos*—the destitute who have nothing.3 This was a "Theology of Reversal." The "Rich Man" in his parables is condemned for his abundance in the face of another's lack. This marks Jesus as a man who embraced the vulnerability of homelessness ("The Son of Man has nowhere to lay his head") as a prerequisite for spiritual alignment, rejecting the safety net of the "System of Mammon."
+First-century Galilee was a stratified world of "Honor and Shame." While Jesus may have had the skills of a *tekton* (artisan), he voluntarily aligned himself with the *ptochos*—the destitute who have nothing (Mark 6:3; Luke 6:20). This was a "Theology of Reversal." The "Rich Man" in his parables is condemned for his abundance in the face of another's lack. This marks Jesus as a man who embraced the vulnerability of homelessness ("The Son of Man has nowhere to lay his head") as a prerequisite for spiritual alignment, rejecting the safety net of the "System of Mammon."
 
 ### **2.2 The Rejection of Biological Privilege**
 
-A critical component of the "Aligned Human" profile is the rejection of biological exceptionalism. The forensic reconstruction of the earliest traditions reveals a Christology that is fierce in its rejection of biological pedigree.1 In the primitive "Jamesian" narrative, there is no miraculous conception that exempts him from the human condition.
+A critical component of the "Aligned Human" profile is the rejection of biological exceptionalism. The forensic reconstruction of the earliest traditions reveals a Christology that is fierce in its rejection of biological pedigree (*The Jamesian Protograph*). In the primitive "Jamesian" narrative, there is no miraculous conception that exempts him from the human condition.
 
-Crucially, the reconstruction excises the phrase "Is this not Joseph's son?" from the Nazareth pericope.1 This is not to deny his humanity, but to deny the *authority* of the patriarchal claim. He is not defined by his lineage—neither by a human father nor by a "biological" divine father in the physicalist sense. He stands as a man defined solely by his alignment with the Spirit. This supports a view where the human vessel is filled by the Divine through *choice* and *combat*, rather than being biologically constructed as a "demigod" in the womb.
+Crucially, the reconstruction excises the phrase "Is this not Joseph's son?" from the Nazareth pericope (Luke 4:22; *The Jamesian Protograph*). This is not to deny his humanity, but to deny the *authority* of the patriarchal claim. He is not defined by his lineage—neither by a human father nor by a "biological" divine father in the physicalist sense. He stands as a man defined solely by his alignment with the Spirit. This supports a view where the human vessel is filled by the Divine through *choice* and *combat*, rather than being biologically constructed as a "demigod" in the womb.
 
 ### **2.3 The "Bedrock Facts" as Criteria of Temptation**
 
-The "vulnerability" of the Aligned Human is further verified by re-interpreting historical facts not as dogmatic proofs, but as **Criteria of Temptation** 4:
+The "vulnerability" of the Aligned Human is further verified by re-interpreting historical facts not as dogmatic proofs, but as **Criteria of Temptation** (*The Divine Bricolage* §6.3):
 
 * **The Baptism:** Jesus voluntarily submitted to John's baptism. This was the moment of **Initiation** where he accepted the "Assumed Human" nature—the collective "debris" of the fallen human psyche—to engage in spiritual combat. He could not redeem what he did not assume.  
 * **The Temple Disturbance:** This was the **Shattering of the Vessel**. Jesus recognized that the external structure of religion had become an obstruction to the Divine Influx. By overturning the tables, he stood alone, vulnerable and unprotected, against the weight of tradition and empire.  
@@ -36,13 +36,13 @@ While Emanuel Swedenborg correctly identified the *process* of "Glorification" (
 
 ### **3.1 The Rejection of Biological Determinism**
 
-Swedenborg argued that Jesus had a "soul from the Father" (Divine) and a "body from the mother" (Human), based on the biological theory of his time that the sire provides the soul and the dam provides the body.5 This view must be **harshly refuted**.
+Swedenborg argued that Jesus had a "soul from the Father" (Divine) and a "body from the mother" (Human), based on the biological theory of his time that the sire provides the soul and the dam provides the body (*Athanasian Creed* §46; *The Divine Bricolage* §6.1). This view must be **harshly refuted**.
 
 This "biological determinism" dehumanizes Jesus, turning him into a "God-Man" hybrid rather than a true human person. The "Aligned Human" view asserts that Jesus was a **complete human soul**. He was not the Lord *disguised* as a human; he was a human *filled* with the Lord. The difference is absolute. It means his struggles, his doubts, and his faith were real human experiences, not a divine pantomime.
 
 ### **3.2 The Self and the Obstruction**
 
-The mechanism of his divinity was not biological origin, but the **removal of obstruction**. The central antagonist is the **Self** (Self-hood/Self-Love).6
+The mechanism of his divinity was not biological origin, but the **removal of obstruction**. The central antagonist is the **Self** (Self-hood/Self-Love; *Epistle — The Divine Marriage*).
 
 > **[Editorial Note]**: The self is selfhood — the vessel that must form before it can receive. It is not inherently antagonistic; it becomes the obstacle only when oriented toward self-love and claiming what flows through it as its own possession. "Central antagonist" here refers to the self *in its self-sourcing orientation*, not to selfhood as such.
 
@@ -77,8 +77,8 @@ The rejection of the "Divine Self" is made explicit in his interaction with the 
 
 The struggle of the human soul is most visible in Gethsemane.
 
-* **The Human Struggle:** The "Jamesian" and "Proto-Luke" layers remove the "angel strengthening him," leaving a Jesus who must face the darkness with his own resolve.7 This is not a "Superman" needing a recharge; it is a vulnerable soul facing the terror of death and choosing to trust.  
-* **The Cry of Dereliction:** "My God, my God, why have you forsaken me?" (Mark 15:34). This confirms he was not "The Lord" in a mode of acting; he was a human soul experiencing **Exinanition** (Emptying).4 He felt the absence of the Divine. His victory was that he remained loyal ("My God") even when he felt abandoned.
+* **The Human Struggle:** The "Jamesian" and "Proto-Luke" layers remove the "angel strengthening him," leaving a Jesus who must face the darkness with his own resolve (*The Jamesian Protograph* §5.3; Metzger 1994). This is not a "Superman" needing a recharge; it is a vulnerable soul facing the terror of death and choosing to trust.  
+* **The Cry of Dereliction:** "My God, my God, why have you forsaken me?" (Mark 15:34). This confirms he was not "The Lord" in a mode of acting; he was a human soul experiencing **Exinanition** (Emptying; *True Christian Religion* §104). He felt the absence of the Divine. His victory was that he remained loyal ("My God") even when he felt abandoned.
 
 ## **V. The Phenomenology of the Being of Light: The Universal Lord and the Cultural Lens**
 
@@ -86,7 +86,7 @@ The user rightly distinguishes between the "Being of Light" as a universal reali
 
 ### **5.1 The Being IS the Lord (Universal Reality)**
 
-The "Being of Light" encountered in NDEs is **The Lord**—the source of unlimited Love and Truth.4 This Being is consistent across cultures in its nature (Personality), but variable in its appearance (Persona).
+The "Being of Light" encountered in NDEs is **The Lord**—the source of unlimited Love and Truth (*The Being of Light*). This Being is consistent across cultures in its nature (Personality), but variable in its appearance (Persona).
 
 * **The Nature:** The core experience is of a "Person" of absolute, non-judgmental love. This is the **Divine Human**—not a specific biological man, but the nature of God as accessible, relational, and infinitely loving.  
 * **The Identification:** While Western NDErs often say, "It was Jesus," this is an *interpretation* of the energy they encountered. They recognize the "Jesus quality" (radical love, acceptance) and apply the label that corresponds to that quality in their mind.
@@ -125,13 +125,21 @@ The "Being of Light" is the Lord. He meets us where we are, wearing the face we 
 | **Being of Light** | Exclusively the Glorified Jesus | **The Lord appearing in a form the soul can receive (Jesus, Amida, Light)** |
 | **Goal** | Worship of the Person | **Following the Path of Alignment (Theosis)** |
 
-#### **Works cited**
+## VI. Works Cited
 
-1. The Jamesian Protograph: A Forensic Reconstruction of Proto-Luke, [**The Jamesian Protograph: A Forensic Reconstruction of Proto-Luke**](../04_Early_Christian_History/The%20Jamesian%20Protograph_%20A%20Forensic%20Reconstruction%20of%20Proto-Luke.md)  
-2. Proto-Luke and Lukan Priority | LukanPriority.com, accessed on January 16, 2026, [https://lukanpriority.com/proto-luke/](https://lukanpriority.com/proto-luke/)  
-3. Jesus Was a Victim of Empire. Acknowledging This Should Transform Christianity. | Truthout, accessed on January 16, 2026, [https://truthout.org/articles/jesus-was-a-victim-of-empire-acknowledging-this-should-transform-christianity/](https://truthout.org/articles/jesus-was-a-victim-of-empire-acknowledging-this-should-transform-christianity/)  
-4. The Divine Human in Ultimates: A Phenomenological and Theological Profile of the Actual Jesus of Love, [**The Divine Human in Ultimates: A Phenomenological and Theological Profile of the Actual Jesus of Love**](The%20Divine%20Human%20in%20Ultimates_%20A%20Phenomenological%20and%20Theological%20Profile%20of%20the%20Actual%20Jesus%20of%20Love.md)  
-5. The Divine Bricolage: A Spiritual History of the Word from Influx to Incarnation, [**The Divine Bricolage: A Spiritual History of the Word from Influx to Incarnation**](../00_Framework/The%20Divine%20Bricolage_%20A%20Spiritual%20History%20of%20the%20Word%20from%20Influx%20to%20Incarnation.md)  
-6. Epistle — The Divine Marriage and the Expression of the Lord in Ultimates, [Epistle — The Divine Marriage and the Expression of the Lord in Ultimates](../00_Framework/Epistle%20%E2%80%94%20The%20Divine%20Marriage%20and%20the%20Expression%20of%20the%20Lord%20in%20Ultimates.md)  
-7. The Angel at Gethsemane | Keepapitchinin, the Mormon History blog, accessed on January 16, 2026, [https://keepapitchinin.org/2019/06/17/the-angel-at-gethsemane/](https://keepapitchinin.org/2019/06/17/the-angel-at-gethsemane/)  
-8. Luke 22:43–44 \- Wikipedia, accessed on January 16, 2026, [https://en.wikipedia.org/wiki/Luke\_22:43%E2%80%9344](https://en.wikipedia.org/wiki/Luke_22:43%E2%80%9344)
+**Primary Sources:**
+
+1. Swedenborg, Emanuel. *True Christian Religion*. Translated by John C. Ager. Standard Edition. 2 vols. West Chester, PA: Swedenborg Foundation, 2009.
+2. Swedenborg, Emanuel. *The Athanasian Creed* (*De Athanasii Symbolo*). Posthumous; first published in Latin, London, 1840. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009.
+3. Holmes, Michael W., ed. *The Greek New Testament: SBL Edition*. Atlanta: Society of Biblical Literature; Bellingham, WA: Logos Bible Software, 2010.
+
+**Scholarly Works:**
+
+4. Metzger, Bruce M. *A Textual Commentary on the Greek New Testament*. 2nd ed. Stuttgart: Deutsche Bibelgesellschaft, 1994.
+
+**Internal Library Documents:**
+
+5. [The Jamesian Protograph: A Forensic Reconstruction of Proto-Luke](../04_Early_Christian_History/The%20Jamesian%20Protograph_%20A%20Forensic%20Reconstruction%20of%20Proto-Luke.md). The *Ebionim* as the community behind the earliest stratum; the excision of "Is this not Joseph's son?" (Luke 4:22) and of the Gethsemane angel and bloody sweat (Luke 22:43–44, §5.3).
+6. [The Divine Bricolage: A Spiritual History of the Word from Influx to Incarnation](../00_Framework/The%20Divine%20Bricolage_%20A%20Spiritual%20History%20of%20the%20Word%20from%20Influx%20to%20Incarnation.md). The "soul from the Father / body from the mother" framing (§6.1) and the bedrock facts read as criteria of temptation (§6.3).
+7. [Epistle — The Divine Marriage and the Expression of the Lord in Ultimates](../00_Framework/Epistle%20%E2%80%94%20The%20Divine%20Marriage%20and%20the%20Expression%20of%20the%20Lord%20in%20Ultimates.md). The self as the obstruction that claims influx as its own.
+8. [The Being of Light: A Statistical Analysis of Near-Death Experience Phenomenology](../01_Consciousness_Studies/The%20Being%20of%20Light_%20A%20Statistical%20Analysis%20of%20Near-Death%20Experience%20Phenomenology.md). The Being of Light as the Divine Human, clothed in the forms of the experiencer's own vocabulary.

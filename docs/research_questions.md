@@ -2549,6 +2549,67 @@ What date range do Koester (*Introduction to the NT* vol. 2, Pastorals section),
 
 ---
 
+## Logged by the nightly source audit, 2026-10-01
+
+---
+
+### [NLM] *The Biological Error* §3.2 — Swedenborg's word for the Divine during the Lord's temptations ("quiesced" / "withdrew")
+
+**Priority**: MEDIUM
+**Related Document**: `data/02_Swedenborgian_Theology/The Biological Error and the Theological Rescue_ A Forensic Audit of the 'Swedenborgian Problem' and the Jamesian Correction.md` (§3.2, "The 'Switch' Problem"; also Table 1, "Mechanism of Temptation")
+
+**Context**: The document says "Swedenborg argues that the Divine Soul 'quiesced' or 'withdrew' during temptation to allow the human to suffer", and its next sentence builds on the word ("But if the Divine withdraws, who is fighting?"). Searched in the Standard Edition full text (*AC* vols 2, 3, 5, 6; *TCR*; *DLW*; *DP*; *HH*; *AR*; *AE* vols 4–5; *Athanasian Creed*; *Four Doctrines*): neither word is used of the Lord's Divine. What Swedenborg does say: in temptation "God seems to be absent" and "in the passion of the cross the Lord was left to himself" (*TCR* §126); the state of exinanition was "his state of humiliation before the Father" (*TCR* §104). *AC* §1581 uses "quiescence" of evil in the external man, not of the Divine. The citation now points to *TCR* §126 and the quoted words were left as they are, because they carry the argument.
+
+**Research Question**:
+Does Swedenborg anywhere (including *Spiritual Diary*, *AC* on Gen 32, *AE*, the posthumous *Lord*/*Athanasian Creed* notes) describe the Divine in the Lord as "quiescent", "withdrawn" or "removed" during temptation? If not, should §3.2 quote *TCR* §126 ("left to himself"; God "seems to be absent") instead?
+
+**Status**: Open
+
+---
+
+### [GDR] *The Biological Error* §2.3 — Swedenborg's position between epigenesis and preformation
+
+**Priority**: MEDIUM
+**Related Document**: `data/02_Swedenborgian_Theology/The Biological Error and the Theological Rescue_ A Forensic Audit of the 'Swedenborgian Problem' and the Jamesian Correction.md` (§2.3, item 3)
+
+**Context**: "Swedenborg favored a modified form of epigenesis but retained the 'preformationist' idea that the *essential man* (the soul) was fully present in the sperm." The only source cited was Alan W. H. Bates, "Retrogressive Development: Transcendental Anatomy and Teratology in Nineteenth-Century Britain," *Medicina nei Secoli* 26, no. 1 (2014): 197–222. Its full text mentions Swedenborg only for his influence on Goethe and on A. J. Davis, and says nothing about his embryology, so the citation was removed. Swedenborg's own *Generative Organs* (Wilkinson trans., 1852) §219 has "the first essence, which regarded as a substance is the soul, is derived from the father … and that all the rest is from the mother", and quotes Boerhaave on animalcules containing "the rudiments of the future human body"; neither settles "modified epigenesis". The words "epigenesis" and "preformation" do not occur in that translation.
+
+**Research Question**:
+Is there scholarship placing Swedenborg's embryology between epigenesis and preformation (e.g. in work on *Regnum Animale*, *De Generatione* or *Oeconomia Regni Animalis*, by Acton, Jonsson, Dunér or the Swedenborg Scientific Association)? Cite the passage, or confirm that the sentence needs a different source.
+
+**Status**: Open
+
+---
+
+### [GDR] *The Divine Human in Ultimates* §5.2 — the source for the Japanese NDE identifications (Amida, ancestors)
+
+**Priority**: MEDIUM
+**Related Document**: `data/02_Swedenborgian_Theology/The Divine Human in Ultimates_ A Phenomenological and Forensic Re-Evaluation of the Aligned Soul.md` (§5.2, "The Japanese Data")
+
+**Context**: The paragraph has no citation. It says Japanese experiencers "often encounter a 'Being of Light' or a 'Figure of Light'", rarely identify it as Jesus unless Christian, and "may identify it as **Amida Buddha**, a respected **Ancestor**, or simply a presence of 'Warmth and Light' without a name". The library's audited treatment of Japanese NDEs, *Pure Encounter or Cultural Construct* (`01`, §I), cites Ohkado and Greyson, "A Comparative Analysis of Japanese and Western NDEs," *Journal of Near-Death Studies* 32, no. 4 (2014): 187–198, for Japanese experiencers reporting an "ineffably euphoric" bright light that they do not interpret as a personal being, with no interaction with it. That describes the light without a name; it does not mention Amida or ancestors as identifications of the light. The corpus's position on variable naming (*The Being of Light*, `01`) is not in question here. The question is only which study the Japanese-specific claims come from.
+
+**Research Question**:
+Which published Japanese NDE studies or case collections (Ohkado; Ohkado and Greyson; Tachibana; Kellehear's cross-cultural reviews) report experiencers identifying the light or a figure in it as Amida Buddha or as an ancestor? Give the source and the frequency if reported, so §5.2 can cite it.
+
+**Status**: Open
+
+---
+
+### [NLM] The Latin of the limbus phrase — "(*purioribus naturae*)"
+
+**Priority**: LOW
+**Related Document**: `data/02_Swedenborgian_Theology/The Biological Error and the Theological Rescue_ A Forensic Audit of the 'Swedenborgian Problem' and the Jamesian Correction.md` (§2.4); also `data/02_Swedenborgian_Theology/The Selfhood of the Prophet_ A Forensic Analysis of 18th-Century Scientific Forcing in Swedenborg's Theological System.md` (§3.2)
+
+**Context**: Both documents gloss the limbus as drawn from "the finest things of nature" (*purioribus naturae*). The only occurrence of *limbus* is *TCR* §103, which Ager renders "a kind of border from the purest things of nature" and Chadwick "a sort of fringe (limbus) … composed of the purest natural substances". "Purest" suggests a superlative (*purissimis*), not the comparative *purioribus*; *DP* §220 has "the purer substances of nature", which may be where the comparative comes from. The Latin texts (newchristianbiblestudy.org, heavenlydoctrines.org) were behind a CAPTCHA from the session, so the gloss was left as it is.
+
+**Research Question**:
+What is the Latin of *Vera Christiana Religio* §103 for "a kind of border from the purest things of nature", and of *DP* §220 for "the purer substances of nature"? If §103 reads *ex purissimis naturae*, both documents' gloss should cite *DP* §220 or change to the superlative.
+
+**Status**: Open
+
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

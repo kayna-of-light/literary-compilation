@@ -2610,6 +2610,61 @@ What is the Latin of *Vera Christiana Religio* §103 for "a kind of border from 
 
 ---
 
+## Logged by the nightly source audit, 2026-10-02
+
+---
+
+### [GDR] *The Neurocentric Limit* §4.1 — when in the operation Pam Reynolds heard the "veins and arteries" comment
+
+**Priority**: MEDIUM
+**Related Document**: `data/01_Consciousness_Studies/The Neurocentric Limit_ A Comprehensive Re-Evaluation of the Dying Brain Hypothesis as an Explanatory Model for Near-Death Phenomena.md` (§4.1, rebuttals 2 and 3); also `data/00_Master_Theses/The Seed and the Sun_ A Statistical and Phenomenological Investigation into the Architecture of Consciousness, the Paths of the Soul, and the Dissolution of the Hard Problem.md` (§3, the Reynolds paragraph, same wording)
+
+**Context**: The case facts check out: 100 dB clicks through molded ear speakers (Woerlee 2011; Tart 2007), 60°F, the Midas Rex saw and its socket-wrench-like case, and the female surgeon's comment confirmed by Sabom from the surgical record (Sabom 1998, as summarised in Wehrstein, *Psi Encyclopedia*, 2017). The masking argument (sound blocked by molded speakers emitting 100 dB clicks) stands on Sabom and Tart. Two clauses go further than these sources. Rebuttal 2 says the flat BAEPs "explicitly ruled out" a functioning auditory pathway. Rebuttal 3 says the comment came "when she was deeply anesthetized, well past the point of any plausible awareness". Sabom, as Wehrstein reports him, places the comment at about the same time the saw started. Woerlee 2011 places both events before cooling, while the BAEPs were still being recorded as the anaesthetic-depth monitor. If that is right, the BAEPs were not yet flat when the comment was made. The audit made no edit, because narrowing an argument is the author's call (procedure § 3.6).
+
+**Research Question**:
+In Sabom's *Light and Death* (1998) and Spetzler's operative timeline, at what clock time were the saw used and the "veins and arteries" comment made, relative to the start of cooling (10:50) and the flattening of the EEG and BAEPs? Does any primary account place the comment during a period of flat BAEPs? If none does, the two clauses should be narrowed to the masking argument, which the sources support.
+
+**Status**: Open
+
+---
+
+### [GDR] *The Neurocentric Limit* — empirical clauses with no traceable source
+
+**Priority**: LOW
+**Related Document**: `data/01_Consciousness_Studies/The Neurocentric Limit_ A Comprehensive Re-Evaluation of the Dying Brain Hypothesis as an Explanatory Model for Near-Death Phenomena.md`
+
+**Context**: The original citations for these clauses were Reddit threads, a lawyer's blog (advocatetanmoy.com) or an internal document that does not contain them. None of the 63 listed sources holds them, and the citations were removed. The sentences are unchanged.
+(a) §3.3.1: "Many verified NDEs involve perceptions … 10, 20, or even 30 minutes into the arrest". The longest timed case in the sources is AWARE I's (up to three minutes; Parnia et al. 2014).
+(b) §2.1: the tunnel effect, attributed to the fovea having "higher oxygenation resistance than the periphery". This is probably a garbled form of the retinal/cortical disinhibition model (Blackmore).
+(c) §2.1.1: "Pilot studies and mountaineering data confirm that hypoxic hallucinations are often fragmentary, paranoid, and illogical". Whinnery's G-LOC centrifuge work is the obvious candidate, but what it reports needs checking against this wording.
+(d) §2.2.2: ketamine experiences described as "weird," "plastic," or distinctly "drug-like".
+(e) §6.3: returning to the body likened to "putting on a heavy diving suit". This should be findable as an experiencer's words in the NDERF corpus (`structured-data-analysis/data/nderf/`).
+(f) §8.3: SDE bystanders seeing a deceased relative they did not know, or seeing the spirit leave "before clinical signs are visible". Peters, *At Heaven's Door* (2022), or Moody, *Glimpses of Eternity* (2010), are the likely sources.
+
+**Research Question**:
+For each of (a)–(f), what published source (a study, or an experiencer's own account) supports the clause as worded? Where the best source says something narrower, what does it say?
+
+**Status**: Open
+
+---
+
+### [GDR] *The Neurocentric Limit* — three attributions the cited sources do not carry
+
+**Priority**: LOW
+**Related Document**: `data/01_Consciousness_Studies/The Neurocentric Limit_ A Comprehensive Re-Evaluation of the Dying Brain Hypothesis as an Explanatory Model for Near-Death Phenomena.md` (§2.1.3, §4.2, §9)
+
+**Context**:
+(1) §2.1.3 says van Lommel et al. (2001) found no difference in "duration of arrest, medication, blood gases". Van Lommel 2014 reports duration of arrest, duration of unconsciousness and medication. It does not mention blood gases, and the Lancet paper may not have measured them.
+(2) §4.2 quotes the dentures patient as "You know where my dentures are! You put them in that cart, in the sliding drawer." The nurse's later account (Rivas, *Psi Encyclopedia*, 2021) has "Hey! But you, you know where my dentures are!". The Lancet text has a longer sentence ("…put them onto that cart, it had all these bottles on it and there was this sliding drawer underneath…"), which the session could not read directly. The quoted words look like a compression of both.
+(3) §9: "As Dr. Sam Parnia and others have noted, the evidence suggests that the brain functions as a transceiver or filter". The cited NYU Parnia-lab page says nothing of the kind. The citation now points to Arora (2025), who does make the filter/receiver claim. Whether Parnia has said it anywhere is open. (The passage also carries the author's `[CORRECTION #25]` note on the filter framing, which the audit left alone.)
+
+**Research Question**:
+(1) Did van Lommel et al. 2001 (*Lancet* 358: 2039–2045) analyse blood gases? (2) What is the Lancet's verbatim wording of the dentures patient's statement? (3) Has Sam Parnia, in print or interview, described the brain as a "transceiver" or "filter" of consciousness?
+
+**Status**: Open
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

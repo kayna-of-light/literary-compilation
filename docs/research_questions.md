@@ -2610,6 +2610,46 @@ What is the Latin of *Vera Christiana Religio* §103 for "a kind of border from 
 
 ---
 
+### [GDR] *The Ontological Transition* — five attributions no reachable source states
+
+**Priority**: MEDIUM
+**Related Document**: `data/01_Consciousness_Studies/The Ontological Transition_ An Integrative Analysis of the Physiological, Phenomenological, and Spiritual Dynamics of the Dying Process.md` (§§1.1.1, 1.1.2, 1.2.2, 2.2.1, 2.2.2, 2.3.1, 3.4); item (a) also `data/01_Consciousness_Studies/The Surface That Withholds Nothing_ The Body as the Outermost Expression of the Spiritual State.md` (§ on terminal lucidity and its Works Cited entry 10)
+
+**Context**: Logged by the 2026-10-03 source audit, which traced all 47 raw entries and searched every quoted phrase in the full text of each reachable source. These five were left as written:
+
+| Claim | § | What was found |
+|---|---|---|
+| (a) Batthyány's image of terminal lucidity as "uncooking an egg" | 2.3.1 | In none of Teresi et al. 2023, Cleveland Clinic, Wikipedia, the SPR Psi Encyclopedia, Bering (*Scientific American*, 2017), or reviews of *Threshold* (2023). May be in *Threshold* itself or a talk. |
+| (b) ELDV patients "often stating, 'It felt more real than this'" | 2.2.2 | Kerr et al. 2014 report that "nearly all patients indicated that they felt real"; the quoted sentence is in no source read. |
+| (c) "88.1% of hospice patients report dreams or visions **of the deceased**" | 2.2.2 | Kerr et al. 2014's abstract: "Most participants reported experiencing at least one dream/vision"; the deceased were the most common content. *The ASCO Post* (2024) words it as "of a deceased relative or friend". The share of the 59 who saw the deceased needs the full text (Table 2). |
+| (d) Dynorphins "6 to 10 times more potent than morphine" | 1.1.2 | Only source: a nursing-exam blog (Ishmael, *Pass with PASS*, 2025), unreferenced. The original measurement behind the figure is not identified. |
+| (e) Minor clinical details: apnea "10 to 60 seconds"; forced feeding causing "aspiration pneumonia"; respiration shifting "from the brainstem's rhythmic center to a more primitive, chemical drive"; NDA metaphors "looking for my passport", "catching the train", "getting in line" | 1.1.1, 1.2.2, 2.2.1 | In none of the 30 hospice and clinical sources. "Packing a suitcase", "getting on a plane" and "going home" are attested (Hospice Foundation of America; HopeWest; Coastal Hospice); the original NDA vocabulary is Callanan & Kelley, *Final Gifts* (1992), not in the list. |
+
+The ">60% of SDEs occur remotely" figure (§3.4) is the same open item as *The Seed and the Sun* §3.6 (block below): the SCRI 2021 abstract names remote sensing as one of four modes and gives no percentage.
+
+**Research Question**:
+For each item, find the publication that states it (for (c), the Kerr et al. 2014 full text). Where none does, say what the nearest source reports so the sentence can be corrected to it.
+
+**Status**: Open
+
+---
+
+### [—] *The Ontological Transition* and *The Surface That Withholds Nothing* — two findings for the author (not edits of record)
+
+**Priority**: MEDIUM
+**Related Documents**: as above
+
+**Context**:
+1. **The "43%–84%" range was a misreading.** Nahm and Greyson (2009) found that 84% of terminal-lucidity cases occur within a week of death and 43% within the final day. The number has been corrected wherever it is stated (*Ontological Transition* §2.3.2, *Surface* ×3, *Seed and the Sun* §3). But *Surface*'s limitations paragraph argues from it: "the 43%–84% range is wide and drawn from small, heterogeneous samples". The premise is gone, and a token fix cannot repair the sentence. It needs the author's rewording.
+2. **Evidence standard (2026-10-03).** *Ontological Transition* rests several claims on one raw account, Malcolm Miller's IANDS narrative: dissociation (§2.1.1), the guide and tunnel (§3.2), the life review and self-judgment (§3.3), and the restored body (§4.2). Its SDE phenomena (§3.4) rest on a popular book, Moody and Perry 2023. Under the standard, the account should illustrate a finding the data establish, not carry it. The data study is SCRI 2021, already cited. For the life review and self-judgment, the corpus's own NDERF/IANDS analyses (*The Seed and the Sun*; the 36.5:1 loving-to-harsh judgment ratio) are the natural carriers.
+
+**Research Question**:
+Author's decision: reword *Surface*'s limitations sentence, and decide whether §§2.1, 3.2–3.4 and 4.2 of *Ontological Transition* should cite the aggregate data rather than the single account.
+
+**Status**: Open
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

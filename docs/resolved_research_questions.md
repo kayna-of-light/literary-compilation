@@ -1535,21 +1535,69 @@ The sub-question of which translation renders *LJ* §74 as "only slight hope" no
 
 ---
 
+### [GDR] *The Neurocentric Limit* §4.1 — when in the operation Pam Reynolds heard the "veins and arteries" comment
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-10-02
+**Date Resolved**: 2026-10-03
+**Priority**: MEDIUM
+**Related Documents**: `data/01_Consciousness_Studies/The Neurocentric Limit_ A Comprehensive Re-Evaluation of the Dying Brain Hypothesis as an Explanatory Model for Near-Death Phenomena.md` §4.1; `data/00_Master_Theses/The Seed and the Sun_ A Statistical and Phenomenological Investigation into the Architecture of Consciousness, the Paths of the Soul, and the Dissolution of the Hard Problem.md` §3 (the Reynolds paragraph)
+
+**Resolution Summary**: Sabom's account (*Light and Death*, 1998, pp. 41–42, quoted in Woerlee, *JNDS* 30.1, 2011, and summarised in Wehrstein, *Psi Encyclopedia*, 2017) gives the order: saw → femoral cannulation, with the female surgeon's comment about the right-leg vessels → bypass and cooling from 10:50 a.m. → EEG flat → brainstem shutdown. The comment was therefore made before the BAEPs went flat. At that point the BAEPs were still being recorded, because their purpose was to monitor her brainstem's response to the clicks. Three clauses were corrected in both documents. "To ensure auditory unresponsiveness" became "to monitor her brainstem's response to sound" (*Neurocentric Limit* only; *Seed and the Sun* already said this). Rebuttal 2 now rests on the masking argument the sources do make: molded speakers sealed her ear canals and delivered continuous 100 dB clicks (Tart, *JNDS* 25.4, 2007; Sabom via Wehrstein). Before, it claimed "the flat BAEPs explicitly ruled out" hearing. Rebuttal 3 now places the comment "under general anesthesia, during the femoral cannulation that preceded the cooling begun at 10:50 a.m." Before, it said "well past the point of any plausible awareness". Barbiturate burst-suppression began after the dura was opened (Han, O'Neill & Spetzler 2003, cited in Woerlee 2011), but its depth at the moment of the comment is not documented, so the corrected text does not claim it.
+
+---
+
+### [GDR] *The Neurocentric Limit* — empirical clauses with no traceable source
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-10-02
+**Date Resolved**: 2026-10-03
+**Priority**: LOW
+**Related Documents**: `data/01_Consciousness_Studies/The Neurocentric Limit_ A Comprehensive Re-Evaluation of the Dying Brain Hypothesis as an Explanatory Model for Near-Death Phenomena.md`; `data/00_Master_Theses/The Seed and the Sun_ A Statistical and Phenomenological Investigation into the Architecture of Consciousness, the Paths of the Soul, and the Dissolution of the Hard Problem.md` §§3.1–3.2
+
+**Resolution Summary**:
+(a) "10, 20, or even 30 minutes" is **supported** as written, and the text is unchanged. In the dentures case the patient "had been found about an hour before in a meadow" before the denture removal he later described (van Lommel et al., *Lancet* 358, 2001). Lloyd Rudy's patient described the surgeons in the doorway after "close to 20 minutes or more" of asystole, confirmed by the assistant surgeon Amado-Cattaneo. Richard Mansfield's patient described events from about 15 minutes after resuscitation stopped (Parnia 2006). Both are in Rivas, *Psi Encyclopedia*, 2021. Now cited (van Lommel et al. 2001; Rivas 2021).
+(b) Tunnel mechanism **corrected**. Whinnery (*JNDS* 15.4, 1997; ~1,000 G-LOC episodes) traces tunnel vision to the retina: the most distal retinal circulation fails first, so peripheral vision goes first and the central field last. It is not the visual cortex, and not "fovea… oxygenation resistance". Fixed in both documents.
+(c) Pilot data **corrected**. Whinnery 1997 reports that G-LOC "dreamlets" have the marks of ordinary dreaming ("illogical content and organization… difficulty in remembering") and that recovery brings "mild confusion and disorientation". He also reports that they are mostly "pleasurable… euphoric", not paranoid. Brugger et al. (1999; eight climbers above 8,500 m) report body-scheme illusions and pseudohallucinations, and nothing paranoid or illogical. The clause now states the pilot findings; the unsupported mountaineering claim and "paranoid… bad trip" are gone. Fixed in both documents.
+(d) Ketamine "weird," "plastic," "drug-like" **removed**. No source uses these words. The studies that compared ketamine with NDEs measured overlap: Corazza & Schifano (*Subst. Use Misuse* 45, 2010; 50 users scoring ≥7 on the Greyson scale) and Martial et al. (*Conscious. Cogn.* 69, 2019; ~15,000 drug reports vs 625 NDE narratives, ketamine most similar). The surrounding argument, that NDErs insist on hyper-reality (Greyson 2007), stands. Removed in both documents.
+(e) "Diving suit" **corrected to experiencers' words**. The image occurs once in NDERF, in Brian H.'s account (8554), but that is a spiritually transformative experience with no life-threatening event. The sentence about NDErs now quotes two clinical-death NDEs: Alice U. (NDERF 8871), "I had awoken in a dream", and Mike M. (NDERF 7617), "the equivalent of wearing six, wet overcoats".
+(f) SDE veridical examples **narrowed**. No readable source documents the two examples (a deceased relative the bystander did not know; the spirit leaving "before clinical signs are visible"), and the only support was a Reddit thread. The sentence now cites the content analysis of 164 SDEs by the Shared Crossing Research Initiative (*Am. J. Hosp. Palliat. Med.* 38.12, 2021), in which "remotely sensing a death" is one of the four modes.
+
+---
+
+### [GDR] *The Neurocentric Limit* — three attributions the cited sources do not carry
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-10-02
+**Date Resolved**: 2026-10-03
+**Priority**: LOW
+**Related Documents**: `data/01_Consciousness_Studies/The Neurocentric Limit_ A Comprehensive Re-Evaluation of the Dying Brain Hypothesis as an Explanatory Model for Near-Death Phenomena.md` §§2.1.3, 4.2, 9; `data/00_Master_Theses/The Seed and the Sun_ A Statistical and Phenomenological Investigation into the Architecture of Consciousness, the Paths of the Soul, and the Dissolution of the Hard Problem.md` §§3.1, 3.5
+
+**Resolution Summary**: The Lancet full text (van Lommel et al. 2001) was found as a 2013 web capture.
+(1) The factors compared were duration of cardiac arrest, duration of unconsciousness, intubation, electrophysiological stimulation and extra medication. **There were no blood gases.** "(duration of arrest, medication, blood gases)" became "(duration of arrest, duration of unconsciousness, medication)" in both documents.
+(2) The patient's words, verbatim: "Oh, that nurse knows where my dentures are … you took my dentures out of my mouth and put them onto that car, it had all these bottles on it and there was this sliding drawer underneath and there you put my teeth." He said this "after more than a week". Both documents now quote this and say "More than a week later"; *Neurocentric Limit* cites the Lancet.
+(3) Parnia has not said "transceiver or filter". His own position (*Medical Hypotheses* 69.4, 2007) is that cardiac-arrest studies raise "the possibility that human mind and consciousness may continue to function in the absence of brain function", and he lists "a separate undiscovered scientific entity" among the theories of consciousness. §9 now credits Parnia (2007) with that and credits the transceiver/filter view to "others" (Arora 2025). The author's `[CORRECTION #25]` note there, on the filter framing, still applies and was left untouched.
+
+---
+
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 32 |
+| **Total Resolved** | 35 |
 | **NDE Domain** | 10 |
 | **BIBL Domain** | 6 |
 | **SWED Domain** | 3 |
 | **CROSS Domain** | 1 |
 | **EARLY Domain** | 2 |
 | **GNOS Domain** | 1 |
-| **GDR Domain** | 8 |
+| **GDR Domain** | 11 |
 | **Critical Priority** | 3 |
 | **High Priority** | 15 |
-| **Medium Priority** | 10 |
-| **Low Priority** | 4 |
+| **Medium Priority** | 11 |
+| **Low Priority** | 6 |
 
-**Last Updated**: 2026-09-29
+**Last Updated**: 2026-10-03

@@ -58,7 +58,7 @@ The most intuitive explanation for NDEs is oxygen starvation. As the heart stops
 
 #### **2.1.1 The Clinical Profile of Hypoxia**
 
-The flaw in this model is that the clinical profile of hypoxia is well-characterized and distinct from the NDE. Hypoxia typically induces **confusional delirium**, cognitive slowing, motor incoordination, and agitation. It is a state of degradation, not enhancement (Egnor 2020). Pilot studies of acceleration-induced loss of consciousness find that the brief "dreamlets" of an ischemic brain carry the marks of ordinary dreaming—illogical content and difficulty in remembering—and that recovery brings confusion and disorientation (Whinnery 1997).
+The flaw in this model is that the clinical profile of hypoxia is well-characterized and distinct from the NDE. Hypoxia typically induces **confusional delirium**, cognitive slowing, motor incoordination, and agitation. It is a state of degradation, not enhancement (Egnor 2020). Pilot studies of acceleration-induced loss of consciousness find that the brief "dreamlets" of an ischemic brain carry the marks of ordinary dreaming—illogical content and difficulty in remembering—and that recovery brings confusion and disorientation; the dreamlets themselves are mostly pleasurable and can include floating and out-of-body sensations (Whinnery 1997).
 
 #### **2.1.2 The Paradox of Hyper-Lucidity**
 
@@ -82,13 +82,13 @@ Dr. Rick Strassman popularized the idea that the pineal gland releases N,N-Dimet
 
 * **Evidence Base:** Dean et al. (2019) detected DMT in the brains of dying rats, observing an increase in concentration following cardiac arrest (Dean et al. 2019).  
 * **Critique:** The extrapolation to humans remains speculative. Crucially, the *quantity* of DMT required to produce a full breakthrough experience is significant. It is unproven that the tiny human pineal gland can synthesize and release such a massive bolus in the seconds before death.  
-* **Phenomenological Divergence:** A 2022 study compared the phenomenology of DMT trips with NDEs. While both scored high on "mystical experience" scales (feelings of unity, transcendence), the content differed markedly. DMT experiences are often characterized by "alien" geometries, "machine elves," and a sense of chaotic intrusion. NDEs are characterized by "familiar" encounters (deceased relatives), structured life reviews, and a sense of "returning home" or "peace." The thematic consistency of the NDE contrasts with the idiosyncratic volatility of the psychedelic trip (Michael 2022; Michael, Luke and Robinson 2023).
+* **Phenomenological Divergence:** On the NDE Scale itself, volunteers given DMT scored like a matched group of NDErs on every item except "border or point of no return" (Timmermann et al. 2018); the divergence lies in the content. A 2022 study compared the phenomenology of DMT trips with NDEs. While both scored high on "mystical experience" scales (feelings of unity, transcendence), the content differed markedly. DMT experiences are often characterized by "alien" geometries, "machine elves," and a sense of chaotic intrusion. NDEs are characterized by "familiar" encounters (deceased relatives), structured life reviews, and a sense of "returning home" or "peace." The thematic consistency of the NDE contrasts with the idiosyncratic volatility of the psychedelic trip (Michael 2022; Michael, Luke and Robinson 2023).
 
 #### **2.2.2 Ketamine and NMDA Blockade**
 
 Ketamine, a dissociative anesthetic, acts as an NMDA receptor antagonist. Some researchers propose that the brain releases a natural ketamine-like peptide (endopsychosin) to block excitotoxicity (glutamate floods) during ischemia, inadvertently causing the Out-of-Body Experience (OBE) (Jansen 1997).
 
-* **Critique:** Ketamine users often report a "dissolution of self" or a "void" experience that mimics aspects of the NDE. In contrast, NDErs almost universally insist on the "hyper-reality" of their experience, often distinguishing it sharply from drug experiences or dreams they have had in the past (Greyson 2007). The "quality of reality" (qualia) differs fundamentally, suggesting different mechanisms.
+* **Critique:** Ketamine users often report a "dissolution of self" or a "void" experience that mimics aspects of the NDE; across some 15,000 written drug reports compared with 625 NDE narratives, ketamine reports were the closest in language to NDEs (Martial et al. 2019). In contrast, NDErs almost universally insist on the "hyper-reality" of their experience, often distinguishing it sharply from drug experiences or dreams they have had in the past (Greyson 2007). The "quality of reality" (qualia) differs fundamentally, suggesting different mechanisms.
 
 ### **2.3 Temporal Lobe Transients and the "God Spot"**
 
@@ -272,7 +272,7 @@ Perhaps the most potent evidence against the dying brain hypothesis comes from *
 
 ### **8.1 The Phenomenon**
 
-In an SDE, a healthy person—typically a loved one or caregiver sitting at the bedside—reports sharing the NDE of the dying person. They may see the light, see the spirit leave the body, or feel themselves "lifted" out of their own body to accompany the dying person partway through the tunnel or into the other realm (Peters 2022).
+In an SDE, a healthy person—typically a loved one or caregiver sitting at the bedside—reports sharing the NDE of the dying person. They may see the light, see the spirit leave the body, or feel themselves "lifted" out of their own body to accompany the dying person partway through the tunnel or into the other realm (Shared Crossing Research Initiative 2021).
 
 ### **8.2 Falsifying the "Dying" Component**
 
@@ -326,16 +326,16 @@ To continue to assert the Dying Brain Hypothesis as the *only* valid scientific 
 12. Greyson, Bruce, Edward F. Kelly, and W. J. Ross Dunseath. "Surge of Neurophysiological Activity in the Dying Brain." Letter. *Proceedings of the National Academy of Sciences* 110, no. 47 (2013).
 13. Holden, Janice M. "More Things in Heaven and Earth: A Response to 'Near-Death Experiences with Hallucinatory Features.'" *Journal of Near-Death Studies* 26, no. 1 (2007): 33–42.
 14. Jansen, Karl L. R. "The Ketamine Model of the Near-Death Experience: A Central Role for the N-Methyl-D-Aspartate Receptor." *Journal of Near-Death Studies* 16, no. 1 (1997): 5–26.
-15. Mays, Robert G., and Suzanne B. Mays. "Near-Death Experiences: A Critique of the Fischer and Mitchell-Yellin Physicalist Interpretation." *Journal of Near-Death Studies* 36, no. 2 (2017): 69–99.
-16. Michael, Pascal. "A Comparison of NN-DMT, Changa & 5-MeO-DMT and the Near-Death Experience: Qualitative Analyses and Reviews of the Neuroscience." PhD thesis, University of Greenwich, 2022. https://gala.gre.ac.uk/id/eprint/48699/.
-17. Michael, Pascal, David Luke, and Oliver Robinson. "This Is Your Brain on Death: A Comparative Analysis of a Near-Death Experience and Subsequent 5-Methoxy-DMT Experience." *Frontiers in Psychology* 14 (2023): 1083361.
-18. Nahm, Michael, Bruce Greyson, Emily Williams Kelly, and Erlendur Haraldsson. "Terminal Lucidity: A Review and a Case Collection." *Archives of Gerontology and Geriatrics* 55, no. 1 (2012): 138–142.
-19. Neppe, Vernon M. "Near-Death Experiences: A New Challenge in Temporal Lobe Phenomenology? Comments on 'A Neurobiological Model for Near-Death Experiences.'" *Journal of Near-Death Studies* 7, no. 4 (1989): 243–248.
-20. Parnia, Sam, D. G. Waller, R. Yeates, and Peter Fenwick. "A Qualitative and Quantitative Study of the Incidence, Features and Aetiology of Near Death Experiences in Cardiac Arrest Survivors." *Resuscitation* 48, no. 2 (2001): 149–156.
-21. Parnia, Sam. "Do Reports of Consciousness during Cardiac Arrest Hold the Key to Discovering the Nature of Consciousness?" *Medical Hypotheses* 69, no. 4 (2007): 933–937.
-22. Parnia, Sam, et al. "AWARE—AWAreness during REsuscitation—A Prospective Study." *Resuscitation* 85, no. 12 (2014): 1799–1805.
-23. Parnia, Sam, Tara Keshavarz Shirazi, et al. "AWAreness during REsuscitation – II: A Multi-Center Study of Consciousness and Awareness in Cardiac Arrest." *Resuscitation* 191 (2023): 109903.
-24. Peters, William. *At Heaven's Door: What Shared Journeys to the Afterlife Teach About Dying Well and Living Better.* New York: Simon & Schuster, 2022.
+15. Martial, Charlotte, Héléna Cassol, Vanessa Charland-Verville, Carla Pallavicini, Camila Sanz, Federico Zamberlan, Rocío Martínez Vivot, Fire Erowid, Earth Erowid, Steven Laureys, Bruce Greyson, and Enzo Tagliazucchi. "Neurochemical Models of Near-Death Experiences: A Large-Scale Study Based on the Semantic Similarity of Written Reports." *Consciousness and Cognition* 69 (2019): 52–69.
+16. Mays, Robert G., and Suzanne B. Mays. "Near-Death Experiences: A Critique of the Fischer and Mitchell-Yellin Physicalist Interpretation." *Journal of Near-Death Studies* 36, no. 2 (2017): 69–99.
+17. Michael, Pascal. "A Comparison of NN-DMT, Changa & 5-MeO-DMT and the Near-Death Experience: Qualitative Analyses and Reviews of the Neuroscience." PhD thesis, University of Greenwich, 2022. https://gala.gre.ac.uk/id/eprint/48699/.
+18. Michael, Pascal, David Luke, and Oliver Robinson. "This Is Your Brain on Death: A Comparative Analysis of a Near-Death Experience and Subsequent 5-Methoxy-DMT Experience." *Frontiers in Psychology* 14 (2023): 1083361.
+19. Nahm, Michael, Bruce Greyson, Emily Williams Kelly, and Erlendur Haraldsson. "Terminal Lucidity: A Review and a Case Collection." *Archives of Gerontology and Geriatrics* 55, no. 1 (2012): 138–142.
+20. Neppe, Vernon M. "Near-Death Experiences: A New Challenge in Temporal Lobe Phenomenology? Comments on 'A Neurobiological Model for Near-Death Experiences.'" *Journal of Near-Death Studies* 7, no. 4 (1989): 243–248.
+21. Parnia, Sam, D. G. Waller, R. Yeates, and Peter Fenwick. "A Qualitative and Quantitative Study of the Incidence, Features and Aetiology of Near Death Experiences in Cardiac Arrest Survivors." *Resuscitation* 48, no. 2 (2001): 149–156.
+22. Parnia, Sam. "Do Reports of Consciousness during Cardiac Arrest Hold the Key to Discovering the Nature of Consciousness?" *Medical Hypotheses* 69, no. 4 (2007): 933–937.
+23. Parnia, Sam, et al. "AWARE—AWAreness during REsuscitation—A Prospective Study." *Resuscitation* 85, no. 12 (2014): 1799–1805.
+24. Parnia, Sam, Tara Keshavarz Shirazi, et al. "AWAreness during REsuscitation – II: A Multi-Center Study of Consciousness and Awareness in Cardiac Arrest." *Resuscitation* 191 (2023): 109903.
 25. Peterson, Andrew, Justin Clapp, Emily A. Largent, Kristin Harkins, Shana D. Stites, and Jason Karlawish. "What Is Paradoxical Lucidity? The Answer Begins with Its Definition." *Alzheimer's & Dementia* 18, no. 3 (2022): 513–521.
 26. Potts, Michael. "Does N,N-Dimethyltryptamine (DMT) Adequately Explain Near-Death Experiences?" *Journal of Near-Death Studies* 31, no. 1 (2012): 3–23.
 27. Rabeyron, Thomas, and Renaud Evrard. "Historical and Contemporary Perspectives on Occultism in the Freud-Ferenczi Correspondence." *Recherches en psychanalyse* 13, no. 1 (2012): 98–111.
@@ -347,29 +347,30 @@ To continue to assert the Dying Brain Hypothesis as the *only* valid scientific 
 33. Smit, Rudolf H., and Titus Rivas. "Rejoinder to 'Response to "Corroboration of the Dentures Anecdote Involving Veridical Perception in a Near-Death Experience."'" *Journal of Near-Death Studies* 28, no. 4 (2010): 193–205.
 34. Strassman, Rick. *DMT: The Spirit Molecule.* Rochester, VT: Park Street Press, 2001.
 35. Tart, Charles T. "Commentary on 'Does Paranormal Perception Occur in Near-Death Experiences?'" *Journal of Near-Death Studies* 25, no. 4 (2007): 251–256.
-36. van Lommel, Pim. "Getting Comfortable With Near-Death Experiences: Dutch Prospective Research on Near-Death Experiences During Cardiac Arrest." *Missouri Medicine* 111, no. 2 (2014): 126–131.
-37. van Lommel, Pim, Ruud van Wees, Vincent Meyers, and Ingrid Elfferich. "Near-Death Experience in Survivors of Cardiac Arrest: A Prospective Study in the Netherlands." *The Lancet* 358, no. 9298 (2001): 2039–2045.
-38. Whinnery, James E. "Psychophysiologic Correlates of Unconsciousness and Near-Death Experiences." *Journal of Near-Death Studies* 15, no. 4 (1997): 231–258.
-39. Woerlee, Gerald M. "Response to 'Corroboration of the Dentures Anecdote Involving Veridical Perception in a Near-Death Experience.'" *Journal of Near-Death Studies* 28, no. 4 (2010): 181–191.
-40. Woerlee, Gerald M. "Could Pam Reynolds Hear? A New Investigation into the Possibility of Hearing During this Famous Near-Death Experience." *Journal of Near-Death Studies* 30, no. 1 (2011): 3–25.
-41. Xu, Gang, Temenuzhka Mihaylova, Duan Li, Fangyun Tian, Peter M. Farrehi, Jack M. Parent, George A. Mashour, Michael M. Wang, and Jimo Borjigin. "Surge of Neurophysiological Coupling and Connectivity of Gamma Oscillations in the Dying Human Brain." *Proceedings of the National Academy of Sciences* 120, no. 19 (2023): e2216268120.
+36. Timmermann, Christopher, Leor Roseman, Luke Williams, David Erritzoe, Charlotte Martial, Héléna Cassol, Steven Laureys, David Nutt, and Robin Carhart-Harris. "DMT Models the Near-Death Experience." *Frontiers in Psychology* 9 (2018): 1424.
+37. van Lommel, Pim. "Getting Comfortable With Near-Death Experiences: Dutch Prospective Research on Near-Death Experiences During Cardiac Arrest." *Missouri Medicine* 111, no. 2 (2014): 126–131.
+38. van Lommel, Pim, Ruud van Wees, Vincent Meyers, and Ingrid Elfferich. "Near-Death Experience in Survivors of Cardiac Arrest: A Prospective Study in the Netherlands." *The Lancet* 358, no. 9298 (2001): 2039–2045.
+39. Whinnery, James E. "Psychophysiologic Correlates of Unconsciousness and Near-Death Experiences." *Journal of Near-Death Studies* 15, no. 4 (1997): 231–258.
+40. Woerlee, Gerald M. "Response to 'Corroboration of the Dentures Anecdote Involving Veridical Perception in a Near-Death Experience.'" *Journal of Near-Death Studies* 28, no. 4 (2010): 181–191.
+41. Woerlee, Gerald M. "Could Pam Reynolds Hear? A New Investigation into the Possibility of Hearing During this Famous Near-Death Experience." *Journal of Near-Death Studies* 30, no. 1 (2011): 3–25.
+42. Xu, Gang, Temenuzhka Mihaylova, Duan Li, Fangyun Tian, Peter M. Farrehi, Jack M. Parent, George A. Mashour, Michael M. Wang, and Jimo Borjigin. "Surge of Neurophysiological Coupling and Connectivity of Gamma Oscillations in the Dying Human Brain." *Proceedings of the National Academy of Sciences* 120, no. 19 (2023): e2216268120.
 
 **Internal Library Documents:**
 
-42. [Consciousness as a Selective Pressure: A Scientific and Philosophical Analysis of the Consciousness-Driven Evolution Hypothesis](Consciousness%20as%20a%20Selective%20Pressure_%20A%20Scientific%20and%20Philosophical%20Analysis%20of%20the%20Consciousness-Driven%20Evolution%20Hypothesis.md). Sets out the dying-brain models and the lucidity paradox — hyper-lucid, "more real than real" experience against the confusion of hypoxia — that §§ 1–2 and 6.3 develop.
-43. [The Phenomenology of Consensual Reality in Extremis: A Comparative Analysis of First-Hand Accounts of Group Near-Death Experiences](The%20Phenomenology%20of%20Consensual%20Reality%20in%20Extremis_%20A%20Comparative%20Analysis%20of%20First-Hand%20Accounts%20of%20Group%20Near-Death%20Experiences.md). Defines the shared-death experience against the group NDE, the distinction § 8 relies on.
+43. [Consciousness as a Selective Pressure: A Scientific and Philosophical Analysis of the Consciousness-Driven Evolution Hypothesis](Consciousness%20as%20a%20Selective%20Pressure_%20A%20Scientific%20and%20Philosophical%20Analysis%20of%20the%20Consciousness-Driven%20Evolution%20Hypothesis.md). Sets out the dying-brain models and the lucidity paradox — hyper-lucid, "more real than real" experience against the confusion of hypoxia — that §§ 1–2 and 6.3 develop.
+44. [The Phenomenology of Consensual Reality in Extremis: A Comparative Analysis of First-Hand Accounts of Group Near-Death Experiences](The%20Phenomenology%20of%20Consensual%20Reality%20in%20Extremis_%20A%20Comparative%20Analysis%20of%20First-Hand%20Accounts%20of%20Group%20Near-Death%20Experiences.md). Defines the shared-death experience against the group NDE, the distinction § 8 relies on.
 
 **Web Sources:**
 
-44. Egnor, Michael. "Neuroscience Can't Dismiss Near Death Experiences." *Mind Matters*, 28 May 2020. https://mindmatters.ai/2020/05/neuroscience-cant-dismiss-near-death-experiences/.
-45. Fan, Shelly. "A Mysterious Surge of Brain Activity During Death Probes the Edges of Consciousness." *Singularity Hub*, 9 May 2023. https://singularityhub.com/2023/05/09/a-surge-of-brain-activity-during-death-probes-the-edges-of-consciousness/.
-46. Michigan Medicine. "Evidence of Conscious-Like Activity in the Dying Brain." *Michigan Medicine Health Lab*, n.d. https://www.michiganmedicine.org/health-lab/evidence-conscious-activity-dying-brain.
-47. NHS Health Research Authority. "AWARE II." Research summary, n.d. https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/aware-ii/.
-48. Novella, Steven. "AWARE-II Near Death Experience Study." *NeuroLogica Blog*, 7 November 2022. https://theness.com/neurologicablog/aware-ii-near-death-experience-study/.
-49. NYU Langone Health, Parnia Lab. "Consciousness, Awareness & Cognitive Experiences During Cardiac Arrest." n.d. https://med.nyu.edu/research/parnia-lab/consciousness/consciousness-awareness-cognitive-experiences-during-cardiac-arrest.
-50. NYU Langone News. "Patients Recall Death Experiences After Cardiac Arrest." 14 September 2023. https://nyulangone.org/news/patients-recall-death-experiences-after-cardiac-arrest.
-51. Rivas, Titus. "Near-Death Experiences – Paranormal Aspects." *Psi Encyclopedia*, Society for Psychical Research, 2021. https://psi-encyclopedia.spr.ac.uk/articles/near-death-experiences-paranormal-aspects/.
-52. University of Southampton. "Results of World's Largest Near Death Experiences Study Published." 7 October 2014. https://www.southampton.ac.uk/news/2014/10/07-worlds-largest-near-death-experiences-study.page.
-53. Wehrstein, KM. "Pam Reynolds (Near-Death Experience)." *Psi Encyclopedia*, Society for Psychical Research, 2017. https://psi-encyclopedia.spr.ac.uk/articles/pam-reynolds-near-death-experience/.
-54. Wehrstein, KM. "AWARE NDE Studies." *Psi Encyclopedia*, Society for Psychical Research, 2026. https://psi-encyclopedia.spr.ac.uk/articles/aware-nde-study/.
-55. Zigarelli, Michael. "Near-Death Experiences and the Emerging Implications for Christian Theology." *Christian Scholar's Review*, 3 March 2024. https://christianscholars.com/near-death-experiences-and-the-emerging-implications-for-christian-theology/.
+45. Egnor, Michael. "Neuroscience Can't Dismiss Near Death Experiences." *Mind Matters*, 28 May 2020. https://mindmatters.ai/2020/05/neuroscience-cant-dismiss-near-death-experiences/.
+46. Fan, Shelly. "A Mysterious Surge of Brain Activity During Death Probes the Edges of Consciousness." *Singularity Hub*, 9 May 2023. https://singularityhub.com/2023/05/09/a-surge-of-brain-activity-during-death-probes-the-edges-of-consciousness/.
+47. Michigan Medicine. "Evidence of Conscious-Like Activity in the Dying Brain." *Michigan Medicine Health Lab*, n.d. https://www.michiganmedicine.org/health-lab/evidence-conscious-activity-dying-brain.
+48. NHS Health Research Authority. "AWARE II." Research summary, n.d. https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/aware-ii/.
+49. Novella, Steven. "AWARE-II Near Death Experience Study." *NeuroLogica Blog*, 7 November 2022. https://theness.com/neurologicablog/aware-ii-near-death-experience-study/.
+50. NYU Langone Health, Parnia Lab. "Consciousness, Awareness & Cognitive Experiences During Cardiac Arrest." n.d. https://med.nyu.edu/research/parnia-lab/consciousness/consciousness-awareness-cognitive-experiences-during-cardiac-arrest.
+51. NYU Langone News. "Patients Recall Death Experiences After Cardiac Arrest." 14 September 2023. https://nyulangone.org/news/patients-recall-death-experiences-after-cardiac-arrest.
+52. Rivas, Titus. "Near-Death Experiences – Paranormal Aspects." *Psi Encyclopedia*, Society for Psychical Research, 2021. https://psi-encyclopedia.spr.ac.uk/articles/near-death-experiences-paranormal-aspects/.
+53. University of Southampton. "Results of World's Largest Near Death Experiences Study Published." 7 October 2014. https://www.southampton.ac.uk/news/2014/10/07-worlds-largest-near-death-experiences-study.page.
+54. Wehrstein, KM. "Pam Reynolds (Near-Death Experience)." *Psi Encyclopedia*, Society for Psychical Research, 2017. https://psi-encyclopedia.spr.ac.uk/articles/pam-reynolds-near-death-experience/.
+55. Wehrstein, KM. "AWARE NDE Studies." *Psi Encyclopedia*, Society for Psychical Research, 2026. https://psi-encyclopedia.spr.ac.uk/articles/aware-nde-study/.
+56. Zigarelli, Michael. "Near-Death Experiences and the Emerging Implications for Christian Theology." *Christian Scholar's Review*, 3 March 2024. https://christianscholars.com/near-death-experiences-and-the-emerging-implications-for-christian-theology/.

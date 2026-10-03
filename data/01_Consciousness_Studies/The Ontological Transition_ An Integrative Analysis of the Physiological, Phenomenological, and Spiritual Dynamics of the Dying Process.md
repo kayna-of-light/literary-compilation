@@ -133,7 +133,7 @@ The first stage of the actual death process, often occurring at the moment of ca
 
 * **Sensation:** This is described as a painless "un-docking." The individual may feel a vibration, a buzzing sound (the "auditory artifact" of separation), or a "pop". Miller describes the sensation as an "evaporation".  
 * **Autoscopy:** The consciousness relocates to a vantage point outside the body (often the ceiling). This **Observer Consciousness** retains full identity, memory, and personality. The "I" that observes the body is the same "I" that inhabited it, but now possesses enhanced sensory clarity (360-degree vision, telepathy).  
-* **Veridical Perception:** The reality of this state is supported by verified reports where patients accurately describe resuscitation efforts, medical instruments (e.g., the Midas Rex bone saw in the Pam Reynolds case), or conversations in distant rooms while clinically dead. This confirms that the dying process involves a *relocation* of consciousness, not an extinction.
+* **Veridical Perception:** The reality of this state is supported by verified reports where patients accurately describe resuscitation efforts, medical instruments (e.g., the Midas Rex bone saw in the Pam Reynolds case), or conversations in distant rooms while unconscious or clinically dead. This confirms that the dying process involves a *relocation* of consciousness, not an extinction.
 
 ### **3.2 The Tunnel and the Liminal Space**
 

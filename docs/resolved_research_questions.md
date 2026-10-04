@@ -1583,21 +1583,86 @@ The sub-question of which translation renders *LJ* §74 as "only slight hope" no
 
 ---
 
+### [GDR] *The Ontological Transition* — five attributions no reachable source states
+
+**Priority**: MEDIUM
+**Related Document**: `data/01_Consciousness_Studies/The Ontological Transition_ An Integrative Analysis of the Physiological, Phenomenological, and Spiritual Dynamics of the Dying Process.md` (§§1.1.1, 1.1.2, 1.2.2, 2.2.1, 2.2.2, 2.3.1, 3.4); item (a) also `data/01_Consciousness_Studies/The Surface That Withholds Nothing_ The Body as the Outermost Expression of the Spiritual State.md` (§ on terminal lucidity and its Works Cited entry 10)
+
+**Context**: Logged by the 2026-10-03 source audit, which traced all 47 raw entries and searched every quoted phrase in the full text of each reachable source. These five were left as written:
+
+| Claim | § | What was found |
+|---|---|---|
+| (a) Batthyány's image of terminal lucidity as "uncooking an egg" | 2.3.1 | In none of Teresi et al. 2023, Cleveland Clinic, Wikipedia, the SPR Psi Encyclopedia, Bering (*Scientific American*, 2017), or reviews of *Threshold* (2023). May be in *Threshold* itself or a talk. |
+| (b) ELDV patients "often stating, 'It felt more real than this'" | 2.2.2 | Kerr et al. 2014 report that "nearly all patients indicated that they felt real"; the quoted sentence is in no source read. |
+| (c) "88.1% of hospice patients report dreams or visions **of the deceased**" | 2.2.2 | Kerr et al. 2014's abstract: "Most participants reported experiencing at least one dream/vision"; the deceased were the most common content. *The ASCO Post* (2024) words it as "of a deceased relative or friend". The share of the 59 who saw the deceased needs the full text (Table 2). |
+| (d) Dynorphins "6 to 10 times more potent than morphine" | 1.1.2 | Only source: a nursing-exam blog (Ishmael, *Pass with PASS*, 2025), unreferenced. The original measurement behind the figure is not identified. |
+| (e) Minor clinical details: apnea "10 to 60 seconds"; forced feeding causing "aspiration pneumonia"; respiration shifting "from the brainstem's rhythmic center to a more primitive, chemical drive"; NDA metaphors "looking for my passport", "catching the train", "getting in line" | 1.1.1, 1.2.2, 2.2.1 | In none of the 30 hospice and clinical sources. "Packing a suitcase", "getting on a plane" and "going home" are attested (Hospice Foundation of America; HopeWest; Coastal Hospice); the original NDA vocabulary is Callanan & Kelley, *Final Gifts* (1992), not in the list. |
+
+The ">60% of SDEs occur remotely" figure (§3.4) is the same open item as *The Seed and the Sun* §3.6 (block below): the SCRI 2021 abstract names remote sensing as one of four modes and gives no percentage.
+
+**Research Question**:
+For each item, find the publication that states it (for (c), the Kerr et al. 2014 full text). Where none does, say what the nearest source reports so the sentence can be corrected to it.
+
+**Status**: ✅ RESOLVED
+
+**Date Added**: 2026-10-03
+**Date Resolved**: 2026-10-04
+
+**Resolution Summary** (author's instruction 2026-10-04: resolve, refine the thesis, be honest):
+(a) Found: Batthyány, "When the Mind Returns", *Psychology Today* (*Consciousness and Meaning at Life's End*), 29 Dec 2025: lucid episodes occur "without any detectable improvement" in the neurological condition, and undoing the degeneration "would be akin to uncooking a boiled egg". Quoted verbatim and cited in *Ontological Transition* §2.3.1; *Surface* entry 10 completed.
+(b) Not in any source. Replaced by Kerr et al. 2014's finding that nearly all patients "indicated that they felt real".
+(c) The full text was not reached. The sentence now states what the abstract and the IANDS fact sheet support: 88.1% reported at least one dream or vision, and deceased friends and relatives were the most common content. The untraced "imminent within days or hours" prognostic claim was replaced by Kerr's finding that comforting visions of the deceased became more prevalent as death approached. "Consistently comforting" was replaced by the cohort's 60% comforting and about 19% distressing (*ASCO Post* 2024).
+(d) No source was found for dynorphins "6–10× more potent than morphine", or for dynorphin release in the dying. The figure and the dynorphin claim were removed; the endorphin and opioid-peptide claim stays, as sourced (Kanjiani & Qasim 2023; *CURE* 2012). McCann et al. 1994 (*JAMA*; 32 patients: 63% never hungry, 34% only at first) now carries the "no distress" claim. Ellershaw et al. 1995 (82 patients: hydration unrelated to secretions, thirst or dry mouth) is stated beside the hospice observation about lung congestion, which it does not bear out.
+(e) Apnea is now "up to 30 or 40 seconds" (Victoria Hospice). The untraced brainstem→"chemical drive" mechanism was replaced by Victoria Hospice's description; "aspiration pneumonia" → "stomach pain" (Kanjiani & Qasim); the passport/train/line metaphors → the travel language the hospice sources record. The ">60% remote" figure is 64% in SCRI's data (Peters 2025); it is now cited in *Ontological Transition* §3.4 and *Seed and the Sun* §3.6.
+
+---
+
+### [—] *The Ontological Transition* and *The Surface That Withholds Nothing* — two findings for the author (not edits of record)
+
+**Priority**: MEDIUM
+**Related Documents**: as above
+
+**Context**:
+1. **The "43%–84%" range was a misreading.** Nahm and Greyson (2009) found that 84% of terminal-lucidity cases occur within a week of death and 43% within the final day. The number has been corrected wherever it is stated (*Ontological Transition* §2.3.2, *Surface* ×3, *Seed and the Sun* §3). But *Surface*'s limitations paragraph argues from it: "the 43%–84% range is wide and drawn from small, heterogeneous samples". The premise is gone, and a token fix cannot repair the sentence. It needs the author's rewording.
+2. **Evidence standard (2026-10-03).** *Ontological Transition* rests several claims on one raw account, Malcolm Miller's IANDS narrative: dissociation (§2.1.1), the guide and tunnel (§3.2), the life review and self-judgment (§3.3), and the restored body (§4.2). Its SDE phenomena (§3.4) rest on a popular book, Moody and Perry 2023. Under the standard, the account should illustrate a finding the data establish, not carry it. The data study is SCRI 2021, already cited. For the life review and self-judgment, the corpus's own NDERF/IANDS analyses (*The Seed and the Sun*; the 36.5:1 loving-to-harsh judgment ratio) are the natural carriers.
+
+**Research Question**:
+Author's decision: reword *Surface*'s limitations sentence, and decide whether §§2.1, 3.2–3.4 and 4.2 of *Ontological Transition* should cite the aggregate data rather than the single account.
+
+**Status**: ✅ RESOLVED
+
+**Date Added**: 2026-10-03
+**Date Resolved**: 2026-10-04
+
+**Resolution Summary** (author's instruction 2026-10-04):
+1. *Surface*'s limitations sentence now states the actual limit: the timing figures come from a survey of 49 published case reports, most recorded before 1849 (Nahm & Greyson 2009).
+2. *Ontological Transition* §§2.1, 3.1–3.4, 4.1–4.2 are now carried by the coded NDERF/IANDS dataset (`structured-data-analysis/projects/nde/structured/`, N = 6,753) and by SCRI's SDE data. Miller's account stays, as illustration only. Moody & Perry is removed. The data corrected several overstatements:
+   - The life review is in 17.5% of accounts, not "a central feature". It is empathic in 18.0% of reviews. Panoramic (457) and sequential (414) are about equally common.
+   - Judgment is loving 217 to harsh 6 (about 36:1). Where an evaluating presence is named, it is a being (340) more often than the self (95).
+   - A tunnel or void appears in 42.5% of accounts. Where its tone is described it is peaceful in 50.0% and frightening in 9.7%.
+   - At separation, peace is named in 44.1% and fear in 20.9%; vibration (1.9%) and "pop" (1.0%) are rare.
+   - Identity is clear in 85.9% of separation accounts.
+   - Being met by loved ones, beings or a Being of Light: 34.6%, not "almost universally".
+   - No physical limitations: 87.0% of the accounts that describe the body.
+   - Pre-separation "heaviness" is not coded in the dataset, and is now stated as attested in individual accounts only.
+
+---
+
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 35 |
+| **Total Resolved** | 37 |
 | **NDE Domain** | 10 |
 | **BIBL Domain** | 6 |
 | **SWED Domain** | 3 |
 | **CROSS Domain** | 1 |
 | **EARLY Domain** | 2 |
 | **GNOS Domain** | 1 |
-| **GDR Domain** | 11 |
+| **GDR Domain** | 12 |
 | **Critical Priority** | 3 |
 | **High Priority** | 15 |
-| **Medium Priority** | 11 |
+| **Medium Priority** | 13 |
 | **Low Priority** | 6 |
 
-**Last Updated**: 2026-10-03
+**Last Updated**: 2026-10-04

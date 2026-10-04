@@ -54,7 +54,7 @@ The primary markers for this stage are the Out-of-Body Experience (OBE), movemen
 
 #### **2.3.2 Theological Grounding**
 
-Swedenborgian theology explains this stage as a gentle, structured, and therapeutically managed process. It is not a chaotic ejection but a separation facilitated by attending angels to ensure the soul's entry into the next life is peaceful and buffered from trauma. This is corroborated by children's intermission memories, which, while vaguer, describe being "taken" by a guide or "shown the light" by a "heaven friend".
+Swedenborgian theology explains this stage as a gentle, structured, and therapeutically managed process. It is not a chaotic ejection but a separation facilitated by attending angels to ensure the soul's entry into the next life is peaceful and buffered from trauma. This is corroborated by children's intermission memories, which, while vaguer, describe being "directed by an elder or an old man dressed in white" to the place where the intermission is spent (Sharma and Tucker 2004).
 
 ### **2.4 Stage 2: Arrival and Orientation**
 
@@ -100,7 +100,7 @@ The NDE is not merely a sightseeing tour; it produces durable changes in the "se
 * **Increased Spirituality:** Reported in **35.0%** (2,361 cases).  
 * **Total Transformation:** The overall transformation rate is **47.0%**.
 
-Child intermission memories corroborate this stage, with children recalling being in groups that were "learning, like in school," and feeling prepared for a purpose. This aligns with the Swedenborgian principle that heaven is a state of eternal, active service, where each individual finds their deepest fulfillment in contributing to the common good.
+Child intermission memories corroborate this stage: their stable stage is marked by "living in a particular location or having a schedule or duties to which they must attend," and it ends in the choice of parents for the next life (Sharma and Tucker 2004). This aligns with the Swedenborgian principle that heaven is a state of eternal, active service, where each individual finds their deepest fulfillment in contributing to the common good.
 
 ## **Part III: Path II — The Restorative Incarnation**
 
@@ -233,4 +233,4 @@ This framework moves beyond the simplistic binary of "reincarnation vs. heaven" 
 
 #### **Geciteerd werk**
 
-1\. Empirical Validation of the Threefold Path Model: A Statistical Analysis of NDE Soul Origin Markers, [**Empirical Validation of the Threefold Path Model**](../01_Consciousness_Studies/Empirical%20Validation%20of%20the%20Threefold%20Path%20Model_%20A%20Statistical%20Analysis%20of%20NDE%20Soul%20Origin%20Markers.md) 2\. [The Threefold Path of the Soul: A Synthesized Cosmology of Life, Death, and Purpose](The%20Threefold%20Path%20of%20the%20Soul_%20A%20Synthesized%20Cosmology%20of%20Life,%20Death,%20and%20Purpose.md)
+1\. Empirical Validation of the Threefold Path Model: A Statistical Analysis of NDE Soul Origin Markers, [**Empirical Validation of the Threefold Path Model**](../01_Consciousness_Studies/Empirical%20Validation%20of%20the%20Threefold%20Path%20Model_%20A%20Statistical%20Analysis%20of%20NDE%20Soul%20Origin%20Markers.md) 2\. [The Threefold Path of the Soul: A Synthesized Cosmology of Life, Death, and Purpose](The%20Threefold%20Path%20of%20the%20Soul_%20A%20Synthesized%20Cosmology%20of%20Life,%20Death,%20and%20Purpose.md) 3\. Sharma, Poonam, and Jim B. Tucker. "Cases of the Reincarnation Type with Memories from the Intermission Between Lives." *Journal of Near-Death Studies* 23, no. 2 (2004): 101–118.

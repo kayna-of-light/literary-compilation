@@ -50,7 +50,7 @@ Emanuel Swedenborg’s theology offered a precise mechanism for this problem. Sw
 * **The Spiritual (Cause):** The realm of Will, Affection, and Thought.  
 * **The Natural (Effect):** The realm of Body, Action, and Form.
 
-The mechanism is explicit: Life flows from the Spiritual into the Natural. The body does not move itself; the spirit moves the body. Therefore, the shape of the body and its actions are "correspondences" of the spirit within. Swedenborg wrote in *Arcana Coelestia*: "Action is nothing but the will flowing forth... The body is the obedience".  
+The mechanism is explicit: Life flows from the Spiritual into the Natural. The body does not move itself; the spirit moves the body. Therefore, the shape of the body and its actions are "correspondences" of the spirit within. Swedenborg wrote in *Divine Providence* (§103): "The body’s activity in speech or deed is only an effect from the external and internal of man’s spirit, for the body is so much obedience".  
 For an animator facing the Crisis of Ensoulment, this is the Holy Grail. To make a drawing look alive, one must not draw the body moving; one must draw the affection (the spiritual cause) that results in the body moving. This alignment of artistic necessity with theological doctrine created a vacuum at the Disney Studio that pulled in Swedenborgian thinkers and methods. The studio began to actively seek out anyone who could teach this principle of "Inner Force driving Outer Form".
 
 ### **2.3 Don Graham and the Pedagogy of Forces**

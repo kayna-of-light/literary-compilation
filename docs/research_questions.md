@@ -2430,11 +2430,11 @@ Confirm or remove "2nd ed. 2020" — and if it is real, note whether the 2020 te
 **Context**:
 Narrowed 2026-09-24. Of the eight body attributions logged on 2026-09-22, six are now cited in the Works Cited after verification: Stevenson 1993 (*JSE* 7.4: 403–410); Matlock 2023 (*Explore* 19.2: 170–175 — 36 cases, 32 with birthmarks, 27 violent, exactly as § 6.3 states); Dean et al. 2019 (*Scientific Reports* 9: 9333 — the DMT paper, whose first author is Dean; the body's "Borjigin et al. (2019)" was corrected, Borjigin being senior author); Kerr et al. 2014 (*J Palliat Med* 17.3: 296–303); Moorjani 2012 (*Dying to Be Me*, Hay House — her first-person account of the tumour reduction); and the placebo meta-analysis. Tachibana needs no entry — the body names only Ohkado & Greyson's 22 interviews, which is already cited.
 
-Two remain, because no source was found that states the figure:
+One remains open (the Peters figure was resolved 2026-10-04):
 
 | Attribution in body | § | Status |
 |---|---|---|
-| William Peters / Shared Crossing Project: "over 60% of shared death experiences occur remotely" | 3.6 | The peer-reviewed SCRI paper (*Am J Hosp Palliat Care* 38.12 (2021): 1479–1487; 107 persons, 164 SDEs) names "remotely sensing a death" as one of four modes but its abstract gives no percentage. The figure may be in the full text or in Peters, *At Heaven's Door* (2022). |
+| William Peters / Shared Crossing Project: "over 60% of shared death experiences occur remotely" | 3.6 | **Resolved 2026-10-04**: 64% in SCRI's data, as Peters reports it ("Shared Death Experiences", *Death Is Not the End*, 7 Dec 2025); now cited in § 3.6. |
 | "Stevenson and Cook's cross-cultural analysis of 326 cases across eight cultures … (p < 0.01)" | 6.4 | The violent-death / shorter-intermission association is well attested (Stevenson's 616 cases from ten cultures, median 15 months), but no Stevenson–Cook publication with 326 cases and eight cultures was found. Needs the actual paper. |
 
 **Research Question**:

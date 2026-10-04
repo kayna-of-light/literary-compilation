@@ -2321,6 +2321,295 @@ Note that God/Religious figure look transposed (25.1↔30.7 against 30.7↔28.5)
 
 ---
 
+## Logged by the nightly source audit, 2026-09-22
+
+---
+
+### [NDE] The December 2025 entity-role variables no longer exist in the schema — a "re-run" is an analysis-design decision, not a recomputation
+
+**Priority**: HIGH — this determines what the two open questions above can and cannot be answered with
+**Related Documents**:
+- `data/01_Consciousness_Studies/NDE Statistical Analysis_ Entity Roles and Correspondential Patterns.md`
+- `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on Hypothesis-Testing with the Swedenborgian Framework.md` (§ 3.2.2)
+- `data/00_Master_Theses/The Seed and the Sun_ ... Dissolution of the Hard Problem.md` (§ 4.2)
+- `data/00_Framework/The Threefold Path of the Soul_ ...` (source of the N=6,739 figures)
+
+**Context**:
+Both documents in the 2026-09-22 audit batch were read in full, which was the blocker the previous run recorded. Reading them does not settle the "Told to Return" discrepancy, and it is now possible to say exactly why.
+
+The December 2025 entity-role cross-tabulation was computed from fields that the January 2026 re-extraction **removed**. `projects/nde/scripts/entity_role_analysis.py` reads `guidance_level`, `return_choice`, `communication_mode` and `religious_affiliation`. None of those keys appear in any of the 6,753 current structured records. The current schema has instead:
+
+| Retired field | Current replacement | Why this is not a rename |
+|---|---|---|
+| `guidance_level` (single categorical: `significant_guidance` / `comfort_or_reassurance` / …) | `guidance_received` (yes/no/not_mentioned) **plus** `guidance_types` (multi-select list, `comfort` one of six options) | Guidance and Comfort were **mutually exclusive** categories of one variable — which is why the published rows sum to 90–95%. They are now independent, and a single record can carry both. The two published columns cannot be reproduced as a partition. |
+| `return_choice` (single categorical) | `return_agency` / `return_willingness` / `return_reasons` (three fields) | "Told to return" has no single successor; it could map to `return_agency = external_being`, to `return_reasons` containing `not_your_time`, or to a combination. |
+| `religious_affiliation` | `religious_background` / `religious_belief_at_nde` | The old field did not distinguish background from belief at the time of the NDE. |
+
+**Research Question**:
+1. Decide, as an analysis-design choice, how Guidance / Comfort / Told-to-Return should be operationalised under the current schema — and record that choice, because it is not recoverable from the old figures.
+2. Re-run the cross-tabulation under that definition, and state plainly in whatever document carries the result that it is **a new measurement**, not a correction of the December 2025 one.
+3. Only then settle the two questions above (which published column is right; whether the 29.5% superlative in *The Seed and the Sun* holds).
+
+**Note for whoever picks this up**: a large majority of the NDE statistics in *The Seed and the Sun* were checked against the current 6,753 records during this audit and reproduce **exactly** — 11.8% / 40.9% light encounter, the 3.8:1 impersonal-to-personified ratio, 623 (9.2%) earthly-mission returns, 17.9% deceased relatives (14.9% named / 2.9% unnamed), 17.5% life review (10.6% brief / 6.9% extensive), judgment sources 1.4% / 2.3% / 3.0%, 49.4% reluctant on n=3,563, 70.1% not returning by own choice, the return-reason counts 1,459 / 1,164 / 711 / 623, identity continuity 64.8% / 1.4% / 0.6% / 33.2%, 84.7% Christian among those with identified religion, and every cell of Appendix C (which sums to 6,753 exactly). The staleness is **specific to the entity-role block and the figures inherited at N=6,739**, not general to the document.
+
+**Status**: Open
+
+---
+
+### [NDE] *The Epistemic Architecture* § 3.2.1 — the "2.6 times more likely" ratio and the 14.9% / 5.7% pair do not come from the same measurement
+
+**Priority**: MEDIUM
+**Related Document**: `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ ...md` § 3.2.1
+
+**Context**:
+The document states: "Christians are 2.6 times more likely to identify the Being as 'Jesus' than non-Christians (14.9% vs. 5.7%)." Traced to `structured-data-analysis` → `projects/nde/notebooks/archive/light_being_analysis.ipynb` (the December 2025 run). The notebook's own table reads:
+
+| Religion | N | God | Jesus | Religious Figure | Unknown Presence |
+|---|---|---|---|---|---|
+| not_mentioned | 4,437 | 6.1% | 4.1% | 2.1% | 20.1% |
+| christian | 1,192 | 11.8% | **14.9%** | 4.9% | 23.2% |
+| other | 652 | 7.8% | 3.8% | 5.5% | 26.1% |
+| atheist_agnostic | 296 | 4.7% | 4.7% | 2.0% | 23.0% |
+| spiritual_not_religious | 55 | 5.5% | 3.6% | 0.0% | 30.9% |
+
+So 14.9% is right for Christians naming Jesus. But the pooled non-Christian Jesus rate is 221/5,440 = **4.1%**, not 5.7%, giving a ratio of about **3.7×**. The notebook's own headline — "Christians are 2.6x more likely to identify **Christian figures**" — is computed over God **and** Jesus combined (26.8% vs 10.3% = 2.61×). The sentence as published attaches the God+Jesus ratio to Jesus alone, and pairs it with a percentage pair that reproduces 2.61 arithmetically (14.9/5.7) but that does not correspond to any row of the source table. No 5.7% non-Christian Jesus rate exists in the data.
+
+**No edit was made.** Restating this correctly means choosing which measure the argument wants, which is an authorial decision, and the underlying `religious_affiliation` field has since been retired (see the question above), so it cannot simply be recomputed.
+
+**This finding does not weaken the section's argument.** The paragraph's own point is that the cultural-mediation statistic "tells us about the experiencer's mental repertoire, not about the Being," and that the critical finding is the *constancy* of experiential properties. A ratio of 3.7× rather than 2.6× is a **larger** cultural-mediation effect — which the document concedes rather than relies on. The χ² = 365.14, the 51.9% "unknown presence" figure, and the 44.2% of Christians choosing "unknown presence" were all verified correct against the companion repo's Being of Light report.
+
+**Research Question**:
+Which measure should the sentence report — Christians vs. non-Christians on *Jesus* (14.9% vs 4.1%, ≈3.7×), or on *Christian figures* God+Jesus (26.8% vs 10.3%, ≈2.6×)? Restate accordingly, and check whether the same sentence has been carried into any other document.
+
+**Status**: Open
+
+---
+
+
+### [GDR] Swedenborg edition dates: is there a Dole translation from 1984 (*Heaven and Hell*) or 1988 (*Divine Love and Wisdom*)?
+
+**Priority**: LOW
+**Related Document**: `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ ...md`, Works Cited 1–2
+
+**Context**:
+The two Swedenborg entries name George F. Dole as translator with dates 1758/1984 (*HH*) and 1763/1988 (*DLW*). The original-publication dates are correct. The translation dates could not be confirmed: the Dole translations traceable through the Swedenborg Foundation are the New Century Edition *Heaven and Hell* (2000) and *Divine Love and Wisdom* (2003), and no 1984 or 1988 Dole printing surfaced.
+
+`docs/BIBLIOGRAPHY_STANDARDS.md` requires the entry to name the specific edition actually used, so this matters. **The dates were carried across unchanged in the Works Cited reformat** — a reformat does not change entry content, and guessing an edition the author may not have used would be worse than leaving the question open.
+
+**Research Question**:
+Which Dole edition was actually consulted? If it is the New Century Edition, the dates should read 2000 and 2003. If an earlier Swedenborg Foundation printing exists under those years, the entries are already right and this can be closed.
+
+**Status**: Open
+
+---
+
+### [GDR] Does a second edition (2020) of Gardner's *The Kephalaia of the Teacher* exist?
+
+**Priority**: LOW
+**Related Documents**:
+- `data/00_Master_Theses/The Seed and the Sun_ ...md`, Works Cited 5
+- `data/02_Swedenborgian_Theology/The Resolution of the Finite Mind_ ...md`, source list
+
+**Context**:
+Both documents cite "Leiden: Brill, 1995. **2nd ed. 2020.**" The 1995 first edition is confirmed (Nag Hammadi and Manichaean Studies 37, Brill, xli + 307, ISBN 90-04-10248-5). A 2020 second edition could not be confirmed — Brill's own catalogue pages returned 403, and other corpus documents cite the work without the 2020 clause.
+
+**No edit was made.** This corpus has already been burned once by retracting a Kephalaia detail on the strength of web-search absence (see `docs/research_questions/resolved/kephalaia_chapter_number_verification.md`), and absence of a search hit is not evidence of absence for a Brill reissue. The detail appears in at least two documents, which suggests a deliberate authorial claim rather than a slip.
+
+**Research Question**:
+Confirm or remove "2nd ed. 2020" — and if it is real, note whether the 2020 text differs in pagination or chapter numbering, since several documents cite Kephalaia chapters by number.
+
+**Status**: Open
+
+---
+
+### [GDR] *The Seed and the Sun* — inline scholarly attributions that are not in the Works Cited
+
+**Priority**: MEDIUM
+**Related Document**: `data/00_Master_Theses/The Seed and the Sun_ ...md`, §§ 3.6, 6.4
+
+**Context**:
+Narrowed 2026-09-24. Of the eight body attributions logged on 2026-09-22, six are now cited in the Works Cited after verification: Stevenson 1993 (*JSE* 7.4: 403–410); Matlock 2023 (*Explore* 19.2: 170–175 — 36 cases, 32 with birthmarks, 27 violent, exactly as § 6.3 states); Dean et al. 2019 (*Scientific Reports* 9: 9333 — the DMT paper, whose first author is Dean; the body's "Borjigin et al. (2019)" was corrected, Borjigin being senior author); Kerr et al. 2014 (*J Palliat Med* 17.3: 296–303); Moorjani 2012 (*Dying to Be Me*, Hay House — her first-person account of the tumour reduction); and the placebo meta-analysis. Tachibana needs no entry — the body names only Ohkado & Greyson's 22 interviews, which is already cited.
+
+One remains open (the Peters figure was resolved 2026-10-04):
+
+| Attribution in body | § | Status |
+|---|---|---|
+| William Peters / Shared Crossing Project: "over 60% of shared death experiences occur remotely" | 3.6 | **Resolved 2026-10-04**: 64% in SCRI's data, as Peters reports it ("Shared Death Experiences", *Death Is Not the End*, 7 Dec 2025); now cited in § 3.6. |
+| "Stevenson and Cook's cross-cultural analysis of 326 cases across eight cultures … (p < 0.01)" | 6.4 | The violent-death / shorter-intermission association is well attested (Stevenson's 616 cases from ten cultures, median 15 months), but no Stevenson–Cook publication with 326 cases and eight cultures was found. Needs the actual paper. |
+
+**Research Question**:
+Identify the publication behind each figure and cite it; if none states it, the figure needs correcting to what the found source reports.
+
+**Status**: Open
+---
+
+
+## Logged by the nightly source audit, 2026-09-23
+
+---
+
+### [GDR] *The Protective Garment* — two positions that its later rewrite, *The Empty Room*, has corrected
+
+**Priority**: MEDIUM — the author's call on whether the earlier document should be annotated, revised, or retired
+**Related Documents**:
+- `data/05_The_Self/The Protective Garment_ H.P. Blavatsky, Swedenborg's Ancient Word, and the Anatomy of a Counterfeit Correspondential Key.md` (§§1, 4, 11)
+- `data/05_The_Self/The Empty Room and the Self That Filled It_ H.P. Blavatsky, the Ancient Word, and the Inversion from Reception to Self-Deification.md` (§§2.5, 4, 17 — the later, fuller treatment)
+
+**Context**:
+The two documents share most of their text; *The Empty Room* is the later rewrite. The factual errors found in *The Protective Garment* on 2026-09-23 have been corrected in the document (the *Apocalypse of Adam* anachronism in §10, the Swedenborg and Henning citations, the Works Cited). What remains are two **positions** the later document revises, which are interpretive and so left for the author:
+
+1. **The key (§4).** *The Protective Garment* says "She had Swedenborg's announcement that a semantic dictionary exists; she did not have the dictionary." *The Empty Room* §4 reverses this: the *Arcana Coelestia* and *The White Horse* were in print and on her shelf, so "the semantic key to these four symbols was therefore not missing from her hands".
+2. **Swedenborg's position (§11).** *The Protective Garment* says every pre-twentieth-century inquirer shared her position, "including, in large part, Swedenborg himself". *The Empty Room* §17 limits that to the documentary path: on the semantic key "she and Swedenborg were *not* in the same position".
+
+One unresolved count as well: *The Protective Garment* §1 says the name-frequency count ran "across her eight major works", while §2.3 lists four works and *The Empty Room* §2.5 says "six works". Which is right depends on the notebook run behind the table, which is not in the repository.
+
+**Research Question**:
+Decide whether *The Protective Garment* should carry `[EVOLVED]` annotations pointing to *The Empty Room*, be revised to match it, or be retired as superseded; and settle the work count behind the frequency table.
+
+**Status**: Open
+
+---
+
+## Logged by the nightly source audit, 2026-09-24
+
+---
+
+
+### [GDR] *The River, Not the Chain* — smaller locator and translation points left for the author
+
+**Priority**: LOW
+**Related Document**: `data/06_Mythological_Studies/The River, Not the Chain_ The Great Chain of Being as a Reception Artifact.md`
+
+**Context** (all verified 2026-09-24; none edited, because each needs a choice of source or wording):
+1. **Hegel, §4.5.** "the very moving principle of the concept" is not in the cited Wallace *Encyclopaedia Logic* §§86–88 (Wallace §119 has "Contradiction is the very moving principle of the world"; the *Philosophy of Right* §31 has "the concept's moving principle"). "The truth is neither Being nor Nothing, but … Becoming" matches the *Science of Logic*, not Wallace §88 ("The truth of Being and of Nothing is accordingly the unity of the two: and this unity is Becoming"). "The life and soul of scientific progress" is Wallace §81, correct. The *Phenomenology* quotations mix Baillie ("the truth is the whole…", "essentially a result", "bacchanalian revel") with Miller ("not only as Substance, but equally as Subject"); Miller has now been added to the Works Cited.
+2. **Aristotle, §5.3.** "Nature passes so gradually from the inanimate to the animate that their continuity renders the boundary between them indistinguishable" is not the Revised Oxford wording of *History of Animals* VIII.1 ("Nature proceeds little by little from things lifeless to animal life…"). Which translation is being quoted?
+3. **Unnamed translations.** The Works Cited entries for Plato ("Standard translations") and the Zoroastrian corpus name no translator. The *Sophist* 249a wording matches Fowler (Loeb, 1921); the *Timaeus* wording mixes Jowett and Bury; the *Yasna* 30 line "They established Life and the Denial of Life" matches neither Mills (SBE 31) nor Moulton and was not identified; the *Bundahishn* line is West (SBE 5, 1.18), verbatim. Böhme, Eriugena, Plotinus (MacKenna — verbatim, edition unnamed), Steiner and Swedenborg entries also name no edition.
+4. **Proclus, "pregnant with forms", "a blast from itself".** Not found in Taylor's *Elements*, *Theology of Plato* or *Timaeus* commentary OCR texts (OCR may be the reason). The other Proclus phrases are verbatim Taylor.
+
+**Research Question**:
+Name the translation actually used for each of items 2–3, and choose whether to re-cite or reword item 1.
+
+**Status**: Open
+
+---
+
+## Logged by the nightly source audit, 2026-09-25
+
+---
+
+### [GDR] Retta Scott and the "Worcester dynasty" — the lineage is in no record
+
+**Priority**: HIGH
+**Related Documents**: `07_Cultural_Pneumatology/` — *The Carriers of the Invisible* §6.1 and table, *The Invisible Influx* §6.1 and table, *The Glass Church and the Magic Mirror* §4.3, *The Architect of the Invisible* §5.2, *The Animating Spirit_ A Cultural History* §6.2 and §9.1, *The Crisis of Ensoulment* §3 ; `00_Master_Theses/The River and the Vessel` l.464
+
+**Findings (2026-09-26)**: Retta Scott's 1946 marriage to Benjamin Worcester, a naval submarine officer, is sourced (Wikipedia citing Ghez, *They Drew as They Pleased*, 2016; D23). His descent from Rev. Thomas Worcester — the basis of the "Worcester dynasty" sections, described in several as "a critical genealogical discovery" — has no source in any document. The WikiTree profile *Cultural History* cites (Scott-22151) lists no spouse and no Worcester ancestry. The Worcester family genealogy (worcesterfamily.com, descendants of Rev. William Worcester) traces Thomas Worcester's line through his sons Benjamin (1824–1911, the Swedenborgian writer), Francis and John into the late twentieth century, and no descendant is Retta Scott's husband. The Swedenborgian Benjamin Worcester is Thomas's son, born 1824 — the probable source of the conflation. *The Mechanics of the Soul* has been corrected (the sentence now states only the sourced marriage).
+
+**Decision needed**: the same correction in the seven documents listed. In most it is not a phrase but a section built on the lineage.
+
+**Status**: Open — awaiting the author's go-ahead for the section rewrites
+
+---
+
+## Logged by the nightly source audit, 2026-09-27
+
+---
+
+
+### [NLM] *The Pastoral Epistles in Modern Scholarship* — the exact dates Koester, Perrin and Pervo give
+
+**Priority**: LOW
+**Related Document**: `data/03_Biblical_Scholarship/The Pastoral Epistles in Modern Scholarship_ A Critical Validation of Authorship and Dating Consensus.md` (§§5.2–5.3, Table 3)
+
+**Context**: Traced 2026-09-28. Settled and applied: Brown (*Introduction*, 1997, pp. 639, 654, 673 — "toward the end of the 1st century, or (less probably) early 2d century") and Schnelle (*Einleitung*, 8th ed., 2013, § 5.5.3 — "um 100 n. Chr.") fit the 80–100 row where the document places them; Kümmel (*Introduction*, 1966, p. 272 — "just after the turn of the second century") was in the wrong row and has been moved to 100–125. Koester, Perrin and Pervo are placed in the early-second-century camp; everything reachable is consistent with that (Perrin pp. 264–65 via Kirby's quotation: 211 of the words are second-century vocabulary; Pervo's Westar volume pairs the Pastorals with Polycarp under second-century themes), but no sentence giving their date range was reached. Searched: the author's Drive (only the library mirror); archive.org (all copies lending-only, including the 2000 Koester electronic resource; the BookReader search-inside endpoint refuses them); dokumen.pub / ebin.pub (no copies); Google Books API (rate-limited, 429).
+
+**Research Question**:
+What date range do Koester (*Introduction to the NT* vol. 2, Pastorals section), Perrin (*The New Testament: An Introduction*, 1974, pp. 264–65 and following) and Pervo (*The Making of Paul*, 2010; *The Pastorals and Polycarp*) give for 1–2 Timothy and Titus? If any falls outside 100–125, adjust Table 3.
+
+**Status**: Open (narrowed 2026-09-28)
+
+
+---
+
+## Logged by the nightly source audit, 2026-09-29
+
+---
+
+### [GDR] *Pure Encounter or Cultural Construct* — the wording of three video testimonies (Arvind, Bibi, Santosh)
+
+**Priority**: LOW
+**Related Document**: `data/01_Consciousness_Studies/Pure Encounter or Cultural Construct An Analysis of the Identification of Jesus in Near-Death Experiences.md` (§§ I.B–I.C)
+
+**Context**: Every other quotation in the document was checked against full text and corrected where needed (ledger, 2026-09-29). Three cases rest on spoken testimony the session could not read. **Arvind** (formerly Swami Aravindananda; the document had "Avind"): both videos it cited (`ccsQ_Nc7gmQ`, `XRqhICbMKq8`) now return "This video is unavailable"; the only copy found is a repost on the anonymous "Near-Death Experiences" channel (`O_ZKXcdHAwQ`), which YouTube serves only behind a sign-in wall, so "I am the one you have been seeking" and the "destroy"/"fulfill" wording are unverified. **Bibi**: the cited video (`45py-PvWHOw`, channel "Rooted In Christ", a repost channel) is behind the same wall; no text account was found by searching the quoted phrases ("I am he who is", "majestic white robe", "Imam Ali", "heart-crushing guilt"). **Santosh Acharjee**: the Light, the twelve gates, the "very narrow gate" and "I didn't know who He was except that He was God" are verified in Burke, *Imagine the God of Heaven* (Tyndale 2023), ch. 1 (publisher's first-chapter PDF); the "two years" of searching and the pastor's "narrow gate" sermon are told in later chapters the session could not reach. Santosh's own book, *My Encounter with Jesus at Heaven's Gates*, was not reached either.
+
+**Research Question**:
+(1) In Arvind's video testimony, what are Jesus's words to him — is "I am the one you have been seeking" verbatim, and does he say Jesus came not to "destroy" but to "fulfill"? Is there an original upload or a written account (book, ministry page)? (2) What is the original source of Bibi's testimony (Iranian Muslim woman, heart attack, children converted; "I am he who is"; recognition of Jesus a year later), and are the quoted phrases verbatim? (3) In Burke 2023 (later chapters) or Acharjee's book, how long did Santosh search before identifying the figure, and was it a sermon on Matt 7:13–14 / John 10:9 that made the connection? Page numbers wanted for all three.
+
+**Status**: Open
+
+
+---
+
+## Logged by the nightly source audit, 2026-10-01
+
+---
+
+### [NLM] *The Biological Error* §3.2 — Swedenborg's word for the Divine during the Lord's temptations ("quiesced" / "withdrew")
+
+**Priority**: MEDIUM
+**Related Document**: `data/02_Swedenborgian_Theology/The Biological Error and the Theological Rescue_ A Forensic Audit of the 'Swedenborgian Problem' and the Jamesian Correction.md` (§3.2, "The 'Switch' Problem"; also Table 1, "Mechanism of Temptation")
+
+**Context**: The document says "Swedenborg argues that the Divine Soul 'quiesced' or 'withdrew' during temptation to allow the human to suffer", and its next sentence builds on the word ("But if the Divine withdraws, who is fighting?"). Searched in the Standard Edition full text (*AC* vols 2, 3, 5, 6; *TCR*; *DLW*; *DP*; *HH*; *AR*; *AE* vols 4–5; *Athanasian Creed*; *Four Doctrines*): neither word is used of the Lord's Divine. What Swedenborg does say: in temptation "God seems to be absent" and "in the passion of the cross the Lord was left to himself" (*TCR* §126); the state of exinanition was "his state of humiliation before the Father" (*TCR* §104). *AC* §1581 uses "quiescence" of evil in the external man, not of the Divine. The citation now points to *TCR* §126 and the quoted words were left as they are, because they carry the argument.
+
+**Research Question**:
+Does Swedenborg anywhere (including *Spiritual Diary*, *AC* on Gen 32, *AE*, the posthumous *Lord*/*Athanasian Creed* notes) describe the Divine in the Lord as "quiescent", "withdrawn" or "removed" during temptation? If not, should §3.2 quote *TCR* §126 ("left to himself"; God "seems to be absent") instead?
+
+**Status**: Open
+
+---
+
+### [GDR] *The Biological Error* §2.3 — Swedenborg's position between epigenesis and preformation
+
+**Priority**: MEDIUM
+**Related Document**: `data/02_Swedenborgian_Theology/The Biological Error and the Theological Rescue_ A Forensic Audit of the 'Swedenborgian Problem' and the Jamesian Correction.md` (§2.3, item 3)
+
+**Context**: "Swedenborg favored a modified form of epigenesis but retained the 'preformationist' idea that the *essential man* (the soul) was fully present in the sperm." The only source cited was Alan W. H. Bates, "Retrogressive Development: Transcendental Anatomy and Teratology in Nineteenth-Century Britain," *Medicina nei Secoli* 26, no. 1 (2014): 197–222. Its full text mentions Swedenborg only for his influence on Goethe and on A. J. Davis, and says nothing about his embryology, so the citation was removed. Swedenborg's own *Generative Organs* (Wilkinson trans., 1852) §219 has "the first essence, which regarded as a substance is the soul, is derived from the father … and that all the rest is from the mother", and quotes Boerhaave on animalcules containing "the rudiments of the future human body"; neither settles "modified epigenesis". The words "epigenesis" and "preformation" do not occur in that translation.
+
+**Research Question**:
+Is there scholarship placing Swedenborg's embryology between epigenesis and preformation (e.g. in work on *Regnum Animale*, *De Generatione* or *Oeconomia Regni Animalis*, by Acton, Jonsson, Dunér or the Swedenborg Scientific Association)? Cite the passage, or confirm that the sentence needs a different source.
+
+**Status**: Open
+
+---
+
+### [GDR] *The Divine Human in Ultimates* §5.2 — the source for the Japanese NDE identifications (Amida, ancestors)
+
+**Priority**: MEDIUM
+**Related Document**: `data/02_Swedenborgian_Theology/The Divine Human in Ultimates_ A Phenomenological and Forensic Re-Evaluation of the Aligned Soul.md` (§5.2, "The Japanese Data")
+
+**Context**: The paragraph has no citation. It says Japanese experiencers "often encounter a 'Being of Light' or a 'Figure of Light'", rarely identify it as Jesus unless Christian, and "may identify it as **Amida Buddha**, a respected **Ancestor**, or simply a presence of 'Warmth and Light' without a name". The library's audited treatment of Japanese NDEs, *Pure Encounter or Cultural Construct* (`01`, §I), cites Ohkado and Greyson, "A Comparative Analysis of Japanese and Western NDEs," *Journal of Near-Death Studies* 32, no. 4 (2014): 187–198, for Japanese experiencers reporting an "ineffably euphoric" bright light that they do not interpret as a personal being, with no interaction with it. That describes the light without a name; it does not mention Amida or ancestors as identifications of the light. The corpus's position on variable naming (*The Being of Light*, `01`) is not in question here. The question is only which study the Japanese-specific claims come from.
+
+**Research Question**:
+Which published Japanese NDE studies or case collections (Ohkado; Ohkado and Greyson; Tachibana; Kellehear's cross-cultural reviews) report experiencers identifying the light or a figure in it as Amida Buddha or as an ancestor? Give the source and the frequency if reported, so §5.2 can cite it.
+
+**Status**: Open
+
+---
+
+### [NLM] The Latin of the limbus phrase — "(*purioribus naturae*)"
+
+**Priority**: LOW
+**Related Document**: `data/02_Swedenborgian_Theology/The Biological Error and the Theological Rescue_ A Forensic Audit of the 'Swedenborgian Problem' and the Jamesian Correction.md` (§2.4); also `data/02_Swedenborgian_Theology/The Selfhood of the Prophet_ A Forensic Analysis of 18th-Century Scientific Forcing in Swedenborg's Theological System.md` (§3.2)
+
+**Context**: Both documents gloss the limbus as drawn from "the finest things of nature" (*purioribus naturae*). The only occurrence of *limbus* is *TCR* §103, which Ager renders "a kind of border from the purest things of nature" and Chadwick "a sort of fringe (limbus) … composed of the purest natural substances". "Purest" suggests a superlative (*purissimis*), not the comparative *purioribus*; *DP* §220 has "the purer substances of nature", which may be where the comparative comes from. The Latin texts (newchristianbiblestudy.org, heavenlydoctrines.org) were behind a CAPTCHA from the session, so the gloss was left as it is.
+
+**Research Question**:
+What is the Latin of *Vera Christiana Religio* §103 for "a kind of border from the purest things of nature", and of *DP* §220 for "the purer substances of nature"? If §103 reads *ex purissimis naturae*, both documents' gloss should cite *DP* §220 or change to the superlative.
+
+**Status**: Open
+
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

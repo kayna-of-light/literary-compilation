@@ -459,9 +459,7 @@ The Walt Disney Studio provides the most extensively documented case of correspo
 
 Don Graham's "Action Analysis" classes (from 1932) taught animators to draw "forces" not "forms" — the drawing on the page was merely the container for the energy flowing through it. Walt Disney's 1935 memo codified the principle: "The mind is the pilot. We think of things before the body does them." This is the Doctrine of Influx rendered as animation physics: the spiritual (mind/mood) is the active cause; the natural (body/action) is the passive effect.
 
-Mary Blair, the color stylist responsible for the visual identity of *Cinderella*, *Alice in Wonderland*, and *Peter Pan*, was confirmed into the Swedenborgian Church at the Wayfarers Chapel on December 23, 1974 — documented in *The Messenger*, the Swedenborgian Church newsletter. Her art style — characterized by flatness, luminosity, and emotional color scripting of the environment — is a visual application of the Doctrine of Correspondences: the environment is not a static backdrop but a dynamic spiritual substance that changes to reflect the mood (spirit) of the scene.
-
-Retta Scott, the first woman to receive screen credit as an animator (for the hunting dogs in *Bambi*), married Benjamin Fessenden Worcester — a direct descendant of Reverend Thomas Worcester, the first pastor of the Boston Society of the New Jerusalem and a central figure in American Swedenborgianism.
+Mary Blair, the color stylist responsible for the visual identity of *Cinderella*, *Alice in Wonderland*, and *Peter Pan*, was confirmed into the Swedenborgian Church at the Wayfarers Chapel on December 23, 1973 — documented in *The Messenger*, the Swedenborgian Church newsletter. Her art style — characterized by flatness, luminosity, and emotional color scripting of the environment — is a visual application of the Doctrine of Correspondences: the environment is not a static backdrop but a dynamic spiritual substance that changes to reflect the mood (spirit) of the scene.
 
 The Wayfarers Chapel in Palos Verdes — designed by Lloyd Wright as a national memorial to Swedenborg, built 1949-1951 — functioned as the geographical nexus connecting these figures. Its glass-wall design is a literal architectural expression of the Doctrine of Correspondences, erasing the boundary between the natural (forest/ocean) and the spiritual (sanctuary/worship).
 
@@ -821,8 +819,8 @@ The river and the vessel.
 
 **Data Sources:**
 
-34. NDERF (Near Death Experience Research Foundation). Approximately 3,500 structured NDE accounts. Analyzed in the structured-data-analysis project (projects/nde/).
-35. IANDS (International Association for Near-Death Studies). Approximately 600 structured NDE accounts. Analyzed in the structured-data-analysis project (projects/nde/).
+34. NDERF (Near Death Experience Research Foundation). 5,660 structured NDE accounts. Analyzed in the structured-data-analysis project (projects/nde/).
+35. IANDS (International Association for Near-Death Studies). 1,093 structured NDE accounts. Analyzed in the structured-data-analysis project (projects/nde/).
 36. DOPS (Division of Perceptual Studies), University of Virginia. 2,500+ verified past-life memory cases with birthmark/wound correspondence data.
 37. MallWorld dream corpus. 2,678 crowd-sourced dream reports from r/themallworld. 47 statistical tests performed. Analyzed in the structured-data-analysis project (projects/mallworld/).
 38. Spontaneous remission corpus. 569 cases from PubMed Central and Radical Remission Project. Analyzed in the structured-data-analysis project (projects/remission/).

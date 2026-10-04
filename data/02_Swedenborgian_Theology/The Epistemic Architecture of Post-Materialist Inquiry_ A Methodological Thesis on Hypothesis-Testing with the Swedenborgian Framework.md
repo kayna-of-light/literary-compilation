@@ -43,11 +43,11 @@ The "hard problem" of consciousness, articulated by David Chalmers (1996), expos
 
 The data that mainstream consciousness science struggles to accommodate are not marginal curiosities but constitute a substantial body of evidence:
 
-**Near-Death Experiences (NDEs)**: Prospective hospital studies document cases of cardiac arrest patients reporting accurate perception of events occurring during flat-line EEG—when, according to the materialist paradigm, no conscious experience should be possible (van Lommel et al., 2001; Parnia et al., 2014). The AWARE study found that 2% of cardiac arrest survivors reported verified awareness during clinical death, a finding that materialist models cannot explain without ad hoc hypotheses about residual brain activity that the evidence does not support.
+**Near-Death Experiences (NDEs)**: Prospective hospital studies document cases of cardiac arrest patients reporting accurate perception of events occurring during flat-line EEG—when, according to the materialist paradigm, no conscious experience should be possible (van Lommel et al., 2001; Parnia et al., 2014). The AWARE study found that 2% of cardiac arrest survivors described awareness with explicit recall of actual events during their resuscitation, one of them objectively verified, a finding that materialist models cannot explain without ad hoc hypotheses about residual brain activity that the evidence does not support.
 
 **Past-Life Memory Cases**: The Division of Perceptual Studies (DOPS) at the University of Virginia has documented over 2,500 cases of children spontaneously reporting memories of previous lives, often with verified details about deceased individuals the children could not have known about through normal means (Stevenson, 1997; Tucker, 2021). In the 49 cases where a medical document — usually a postmortem report — could be obtained for a previous personality who died from violent trauma, birthmarks and birth defects corresponded to the fatal wounds in 43 of them (88%)—a correspondence that defies coincidence and lacks any materialist explanation.
 
-**Radical Remission**: Documented cases of spontaneous regression of advanced cancer—complete disappearance of Stage IV disease without adequate conventional treatment—occur at rates that exceed placebo by orders of magnitude. Meta-analyses show that placebo achieves less than 1% complete response in advanced solid tumors; radical remission cases thus represent a biological phenomenon that cannot be dismissed as expectation effects (Turner, 2014; O'Regan & Hirshberg, 1993).
+**Radical Remission**: Documented cases of spontaneous regression of advanced cancer—complete disappearance of Stage IV disease without adequate conventional treatment—occur at rates that exceed placebo by orders of magnitude. Meta-analyses show that placebo achieves less than 1% complete response in advanced solid tumors (Sachdev et al., 2023); radical remission cases thus represent a biological phenomenon that cannot be dismissed as expectation effects (Turner, 2014; O'Regan & Hirshberg, 1993).
 
 These data are not going away. They have been documented with increasing rigor over decades. The question is not whether they exist but how they should be interpreted—and this is where the epistemological crisis becomes acute.
 
@@ -233,7 +233,7 @@ The first strain establishes the empirical foundation: consciousness survives bo
 
 The structured analysis of 6,753 near-death experiences from two major databases (NDERF and IANDS) provides the primary empirical foundation. Each record was processed through structured extraction using contemporary large language models trained on the questionnaire schema, producing consistent categorical data amenable to statistical analysis.
 
-The NDE phenomenon itself constitutes evidence for consciousness survival. Prospective hospital studies document cases of cardiac arrest patients reporting accurate perception of events occurring during flat-line EEG—when, according to the materialist paradigm, no conscious experience should be possible (van Lommel et al., 2001; Parnia et al., 2014). The AWARE study found that 2% of cardiac arrest survivors reported verified awareness during clinical death. These are not retrospective reports of dreams; they are veridical perceptions that can be independently verified.
+The NDE phenomenon itself constitutes evidence for consciousness survival. Prospective hospital studies document cases of cardiac arrest patients reporting accurate perception of events occurring during flat-line EEG—when, according to the materialist paradigm, no conscious experience should be possible (van Lommel et al., 2001; Parnia et al., 2014). The AWARE study found that 2% of cardiac arrest survivors described awareness with explicit recall of actual events during their resuscitation, one of them objectively verified. These are not retrospective reports of dreams; they are veridical perceptions that can be independently verified.
 
 The statistical patterns within NDE reports provide additional evidential weight. As subsequent sections will demonstrate, the phenomenology shows systematic structure that random hallucination cannot explain: constant experiential properties across cultural variation, functional differentiation among encountered beings, consistent judgment character. These patterns emerge from the data; they are not imposed by the analytical framework.
 
@@ -721,7 +721,7 @@ A plausible explanation for this overgeneralization traces to the interconnected
 
 Beyond corrections, the framework has been **extended** where empirical data support new applications not explicitly present in Swedenborg's writings.
 
-**The Phenomenon**: Radical remission—spontaneous regression of advanced cancer in the absence of adequate conventional treatment—occurs with statistical regularity. This is not placebo effect; meta-analyses show that placebo achieves less than 1% complete response in advanced solid tumors. Radical remission cases represent a distinct biological phenomenon.
+**The Phenomenon**: Radical remission—spontaneous regression of advanced cancer in the absence of adequate conventional treatment—occurs with statistical regularity. This is not placebo effect; meta-analyses show that placebo achieves less than 1% complete response in advanced solid tumors (Sachdev et al., 2023). Radical remission cases represent a distinct biological phenomenon.
 
 **The Extension**: "Somatic influx" proposes that the body functions as the "soul in ultimates"—faithfully printing the state of the spirit. When spiritual transformation occurs (release of suppressed emotions, shift from fear to love, alignment of will with life), the physical correspondence (disease) loses its sustaining energy.
 
@@ -960,35 +960,28 @@ We do not have to understand why it works. We do not have to like the implicatio
 
 ---
 
-## References
+## Works Cited
 
-Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+**Primary Sources:**
 
-Feyerabend, P. (1975). *Against Method: Outline of an Anarchistic Theory of Knowledge*. NLB.
+1. Swedenborg, Emanuel. *Divine Love and Wisdom*. Translated by George F. Dole. Swedenborg Foundation, 1988. Originally published 1763.
+2. Swedenborg, Emanuel. *Heaven and Hell*. Translated by George F. Dole. Swedenborg Foundation, 1984. Originally published 1758.
 
-Kelly, L. (2016). *The Memory Code: The Secrets of Stonehenge, Easter Island and Other Ancient Monuments*. Pegasus Books.
+**Scholarly Works:**
 
-Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
-
-O'Regan, B., & Hirshberg, C. (1993). *Spontaneous Remission: An Annotated Bibliography*. Institute of Noetic Sciences.
-
-Parnia, S., et al. (2014). AWARE—AWAreness during REsuscitation—A prospective study. *Resuscitation*, 85(12), 1799-1805.
-
-Planck, M. (1949). *Scientific Autobiography and Other Papers*. Williams & Norgate.
-
-Stevenson, I. (1997). *Reincarnation and Biology: A Contribution to the Etiology of Birthmarks and Birth Defects*. Praeger.
-
-Swedenborg, E. (1758/1984). *Heaven and Hell* (G. F. Dole, Trans.). Swedenborg Foundation.
-
-Swedenborg, E. (1763/1988). *Divine Love and Wisdom* (G. F. Dole, Trans.). Swedenborg Foundation.
-
-Tucker, J. B. (2021). *Before: Children's Memories of Previous Lives*. St. Martin's Essentials.
-
-Turner, K. A. (2014). *Radical Remission: Surviving Cancer Against All Odds*. HarperOne.
-
-van Lommel, P., et al. (2001). Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands. *The Lancet*, 358(9298), 2039-2045.
-
-von Petzinger, G. (2016). *The First Signs: Unlocking the Mysteries of the World's Oldest Symbols*. Atria Books.
+3. Chalmers, David J. *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press, 1996.
+4. Feyerabend, Paul. *Against Method: Outline of an Anarchistic Theory of Knowledge*. NLB, 1975.
+5. Kelly, Lynne. *The Memory Code: The Secrets of Stonehenge, Easter Island and Other Ancient Monuments*. Pegasus Books, 2017.
+6. Kuhn, Thomas S. *The Structure of Scientific Revolutions*. University of Chicago Press, 1962.
+7. O'Regan, Brendan, and Caryle Hirshberg. *Spontaneous Remission: An Annotated Bibliography*. Institute of Noetic Sciences, 1993.
+8. Parnia, Sam, et al. "AWARE—AWAreness during REsuscitation—A prospective study." *Resuscitation* 85.12 (2014): 1799–1805.
+9. Planck, Max. *Scientific Autobiography and Other Papers*. Williams & Norgate, 1949.
+10. Sachdev, A., et al. "Objective Response Rate of Placebo in Randomized Controlled Trials of Anticancer Medicines." *eClinicalMedicine* 55 (2023): 101753.
+11. Stevenson, Ian. *Reincarnation and Biology: A Contribution to the Etiology of Birthmarks and Birth Defects*. Praeger, 1997.
+12. Tucker, Jim B. *Before: Children's Memories of Previous Lives*. St. Martin's Essentials, 2021.
+13. Turner, Kelly A. *Radical Remission: Surviving Cancer Against All Odds*. HarperOne, 2014.
+14. van Lommel, Pim, et al. "Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands." *The Lancet* 358.9298 (2001): 2039–2045.
+15. von Petzinger, Genevieve. *The First Signs: Unlocking the Mysteries of the World's Oldest Symbols*. Atria Books, 2016.
 
 ---
 
@@ -1010,8 +1003,8 @@ von Petzinger, G. (2016). *The First Signs: Unlocking the Mysteries of the World
 
 | Dataset | Source | N | Access |
 |---------|--------|---|--------|
-| NDERF | Near-Death Experience Research Foundation | ~3,500 | nderf.org |
-| IANDS | International Association for Near-Death Studies | ~600 | iands.org |
+| NDERF | Near-Death Experience Research Foundation | 5,660 | nderf.org |
+| IANDS | International Association for Near-Death Studies | 1,093 | iands.org |
 | DOPS | Division of Perceptual Studies, University of Virginia | 2,500+ | med.virginia.edu/perceptual-studies |
 | Radical Remission | Radical Remission Project | 1,500+ | radicalremission.com |
 
@@ -1048,7 +1041,7 @@ Analysis repository: https://github.com/kayna-of-light/structured-data-analysis
 - [x] Part VI: Why Not Other Frameworks
 - [x] Part VII: Research Integrity
 - [x] Part VIII: Conclusion
-- [x] References
+- [x] Works Cited
 - [x] Appendices
 
 **THESIS COMPLETE**

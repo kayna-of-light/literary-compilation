@@ -1438,21 +1438,231 @@ GDR produced a comprehensive forensic analysis now filed as `data/04_Early_Chris
 
 ---
 
+### [GDR] "Seek for it in China" credited to the wrong Swedenborg work
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-09-23
+**Date Resolved**: 2026-09-24
+**Priority**: MEDIUM
+**Related Documents**: `data/05_The_Self/The Empty Room and the Self That Filled It_ H.P. Blavatsky, the Ancient Word, and the Inversion from Reception to Self-Deification.md`; `data/05_The_Self/The Protective Garment_ H.P. Blavatsky, Swedenborg's Ancient Word, and the Anatomy of a Counterfeit Correspondential Key.md`
+
+**Resolution Summary**: Both documents credited Swedenborg's directive to seek the Ancient Word in China/Tartary to *Doctrine of the Sacred Scripture*. Its §§101–103 (Standard Edition, read in full) place the Ancient Word as lost on earth and preserved in heaven, and never mention Tartary or China. The directive is *Apocalypse Revealed* §11 (1766): "Seek for it in China, and peradventure you will find it there among the Tartars" (read verbatim from the Standard Edition); *TCR* §279 (1771) carries the Tartary sentence. Corrected in both documents: body now cites *Apocalypse Revealed* (§11, 1766); "reproduces this directive *verbatim*" → "reproduces this directive" and "quotes his own phrasing" → "quotes it as his own words" (Blavatsky's "peradventure you may find it in Great Tartary" is a close rendering, not verbatim); "published the Tartary doctrine in 1771" → "in 1766 and again in 1771" (twice) and Appendix C "(1771)" → "(1766–1771)"; *Apocalypse Revealed* §11 added to the Works Cited and the *Sacred Scripture* entry re-described to what §§101–103 contain. `02_Swedenborgian_Theology/The Resonant Cosmos` already cited *AR* 11 correctly; no other document carried the error.
+
+---
+
+### [GDR] Henning 1943 cited for Qumran; incomplete Le Coq and *Studies in Occultism* entries
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-09-23
+**Date Resolved**: 2026-09-24
+**Priority**: LOW
+**Related Documents**: `data/05_The_Self/The Empty Room and the Self That Filled It_ H.P. Blavatsky, the Ancient Word, and the Inversion from Reception to Self-Deification.md`; `data/05_The_Self/The Protective Garment_ H.P. Blavatsky, Swedenborg's Ancient Word, and the Anatomy of a Counterfeit Correspondential Key.md`
+
+**Resolution Summary**: Henning, "The Book of the Giants," *BSOAS* 11.1 (1943): 52–74, predates the Qumran discoveries and identifies the Turfan fragments only. Both documents now cite "(Milik, 1976; Henning, 1943)" for the attestation at both sites, with Milik, J. T., with Matthew Black, *The Books of Enoch: Aramaic Fragments of Qumrân Cave 4* (Oxford: Clarendon Press, 1976) added and Henning's entry re-described. The Le Coq entry, which named no publication, now cites *Buried Treasures of Chinese Turkestan*, trans. Anna Barwell (London: George Allen & Unwin, 1928); *Studies in Occultism* now cites the Point Loma edition (Aryan Theosophical Press, 1910); *The Key to Theosophy* imprint corrected to London: The Theosophical Publishing Company; New York: W. Q. Judge, 1889.
+
+---
+
+### [GDR] *The Empty Room* — Part numbering, and quotations credited to the wrong Blavatsky work
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-09-23
+**Date Resolved**: 2026-09-24
+**Priority**: LOW
+**Related Documents**: `data/05_The_Self/The Empty Room and the Self That Filled It_ H.P. Blavatsky, the Ancient Word, and the Inversion from Reception to Self-Deification.md`; `data/05_The_Self/The Protective Garment_ H.P. Blavatsky, Swedenborg's Ancient Word, and the Anatomy of a Counterfeit Correspondential Key.md`
+
+**Resolution Summary**: The Abstract and §19 assigned the key to "Part I"; the TOC and §1 place it in Part II. Both references corrected to Part II. The Works Cited descriptions now credit each quotation to the work it is in (verified against the full texts): *Isis Unveiled* — the Swedenborg/Tartary quotations, the Ophite and Sophia-Achamoth cosmogony, the readings of water, the flood and the serpent, "man must first create himself anew"; *The Secret Doctrine* — additionally "Man tends to become a God and then—God", "the animal of clay", the horse as "a Cycle", the *Pistis Sophia* as "a genuine Evangel of the Gnostics", Irenaeus "takes, as usual, the metaphor for reality"; *The Key to Theosophy* — "its own Saviour in each world and incarnation". Same correction in *The Protective Garment*, whose §10 *Apocalypse of Adam* anachronism was also corrected (NHC V surfaced in 1945; Blavatsky died in 1891). The remaining *Protective Garment* positions stay open in `research_questions.md`.
+
+---
+
+### [GDR] *The Epistemic Architecture* — the AWARE study reports 2% with explicit recall, and one objectively verified case
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-09-22
+**Date Resolved**: 2026-09-24
+**Priority**: MEDIUM
+**Related Documents**: `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on Hypothesis-Testing with the Swedenborgian Framework.md` §§ 1.1, 3.1.1
+
+**Resolution Summary**: Both sentences now report the study as it reads (Parnia et al., *Resuscitation* 85.12, 2014): 2% of survivors "described awareness with explicit recall of actual events during their resuscitation, one of them objectively verified." The following sentence ("veridical perceptions that can be independently verified") stands — explicit recall of actual events is veridical perception, and the verified case shows it can be checked. The optional second point (citing AWARE-II, 2023) is an authorial choice and was not acted on.
+
+---
+
+### [GDR] A citable meta-analysis for the "placebo achieves less than 1% complete response" claim
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-09-22
+**Date Resolved**: 2026-09-24
+**Priority**: LOW
+**Related Documents**: `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ ...md` §§ 1.1, 5.4; `data/00_Master_Theses/The Seed and the Sun_ ...md` § 8.4
+
+**Resolution Summary**: Sachdev, A., I. Sharpe, M. Bowman, C. M. Booth, and B. Gyawali, "Objective Response Rate of Placebo in Randomized Controlled Trials of Anticancer Medicines," *eClinicalMedicine* 55 (2023): 101753 (PMID 36444211; online Nov. 2022) — 45 phase-3 RCTs, 5,684 placebo patients with advanced solid tumours, pooled complete response 0% (95% CI 0–0%). Cited inline "(Sachdev et al., 2023)" at the claim in both documents and added to both Works Cited lists. The § 2.2 recurrence in *The Epistemic Architecture* ("<1% complete response") was left uncited — it restates the § 1.1 claim two sections later.
+
+---
+
+### [GDR] *The River, Not the Chain* — four phrases quoted as Lovejoy's are not in Lovejoy
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-09-24
+**Date Resolved**: 2026-09-25
+**Priority**: HIGH
+**Related Documents**: `data/06_Mythological_Studies/The River, Not the Chain_ The Great Chain of Being as a Reception Artifact.md`; `data/00_Master_Theses/The Downstream Refinery_ Western Civilization as Three Operations on One Ancient Stream.md`
+
+**Resolution Summary**: Confirmed absent from every Lovejoy work cited for them, in full text: *The Great Chain of Being* (1936), *The Revolt Against Dualism* (1930), "The Argument for Organic Evolution before *The Origin of Species*" (*Popular Science Monthly* 75, 1909), "Kant and Evolution" (*PSM* 77–78, 1910–11), and "Schopenhauer as an Evolutionist" (*Monist* 21, 1911). The NotebookLM notebook holding Lovejoy's works first assigned them to chapters and then, on being checked, agreed that none is verbatim. On the author's instruction the thesis was corrected so the argument rests on Lovejoy's actual words: the root of the chain is "an Immutability which required, and expressed itself in, Change" (*GCB* p. 50); "The static and permanently complete Chain of Being broke down largely from its own weight" (p. 245); the idea's history, "in so far as that idea presupposed such a complete rational intelligibility of the world — is the history of a failure" (p. 329); Lovejoy's fecundity is "the immeasurable and inexhaustible productive energy, the fecundity of an Absolute" (p. 67). The unit-idea objection ("strips or distorts its essential nature") is now credited to Lovejoy's critics, not to Lovejoy, without quotation marks. "A sort of Life stretched out to an immense span" is credited to Plotinus as Lovejoy quotes him (p. 63); "block-world" to William James's term as Lovejoy uses it; "on the facing pages" removed (the passages are ~260 pages apart). The same fix was carried into *The Downstream Refinery* §3.3.
+
+---
+
+### [NLM] *The Heart of the Matter*: four quotations found only in the source conversation
+
+**Target**: `[NLM]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-09-28
+**Date Resolved**: 2026-09-29
+**Priority**: MEDIUM
+**Related Documents**: `data/00_Framework/The Heart of the Matter_ A New Church Founded on Love.md` (§1.2); `data/02_Swedenborgian_Theology/Conversation relating the Fourth Church - The New Jerusalem.md`
+
+**Resolution Summary**: The NotebookLM notebook confirmed that none of the four phrases exists in Swedenborg, in the Standard Edition or in the Latin. They were the notebook's own paraphrases in the source conversation. Each nearest passage it offered was checked against the Foundation full text, and two of its locators were wrong: "charity and life is the essential" is *AC* §4926:4, not §5812, and "who will be in the Lord's new church, which is the new Jerusalem" is *AR* §933:2, not §903. §1.2 now quotes Swedenborg's own words:
+- faith alone "destroyed the Third Church" → "the church with the Reformed has been devastated" (*AE* §928; cf. §847:5). This also removes a numbering clash, since in the *AC*/*TCR* sequence the third church is the Israelitish.
+- "Church of Charity and Life" → a church "in which charity and life is the essential" (*AC* §4926).
+- faith is "to will and to put into practice what we believe" → faith "is not in man when it is only in his knowing and thinking, but when it is also in his willing and doing" (*AE* §250:9).
+- "live according to the commandments… and consequently possess truths from good" → "live according to the commandments of the Lord in the Word" (*AE* §894) and are "in truths from good" (*AE* §6), with *AR* §933 for their constituting the New Jerusalem.
+
+The sub-question of which translation renders *LJ* §74 as "only slight hope" no longer matters, because the document now quotes the Standard Edition verbatim.
+
+---
+
+### [GDR] *The Neurocentric Limit* §4.1 — when in the operation Pam Reynolds heard the "veins and arteries" comment
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-10-02
+**Date Resolved**: 2026-10-03
+**Priority**: MEDIUM
+**Related Documents**: `data/01_Consciousness_Studies/The Neurocentric Limit_ A Comprehensive Re-Evaluation of the Dying Brain Hypothesis as an Explanatory Model for Near-Death Phenomena.md` §4.1; `data/00_Master_Theses/The Seed and the Sun_ A Statistical and Phenomenological Investigation into the Architecture of Consciousness, the Paths of the Soul, and the Dissolution of the Hard Problem.md` §3 (the Reynolds paragraph)
+
+**Resolution Summary**: Sabom's account (*Light and Death*, 1998, pp. 41–42, quoted in Woerlee, *JNDS* 30.1, 2011, and summarised in Wehrstein, *Psi Encyclopedia*, 2017) gives the order: saw → femoral cannulation, with the female surgeon's comment about the right-leg vessels → bypass and cooling from 10:50 a.m. → EEG flat → brainstem shutdown. The comment was therefore made before the BAEPs went flat. At that point the BAEPs were still being recorded, because their purpose was to monitor her brainstem's response to the clicks. Three clauses were corrected in both documents. "To ensure auditory unresponsiveness" became "to monitor her brainstem's response to sound" (*Neurocentric Limit* only; *Seed and the Sun* already said this). Rebuttal 2 now rests on the masking argument the sources do make: molded speakers sealed her ear canals and delivered continuous 100 dB clicks (Tart, *JNDS* 25.4, 2007; Sabom via Wehrstein). Before, it claimed "the flat BAEPs explicitly ruled out" hearing. Rebuttal 3 now places the comment "under general anesthesia, during the femoral cannulation that preceded the cooling begun at 10:50 a.m." Before, it said "well past the point of any plausible awareness". Barbiturate burst-suppression began after the dura was opened (Han, O'Neill & Spetzler 2003, cited in Woerlee 2011), but its depth at the moment of the comment is not documented, so the corrected text does not claim it.
+
+---
+
+### [GDR] *The Neurocentric Limit* — empirical clauses with no traceable source
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-10-02
+**Date Resolved**: 2026-10-03
+**Priority**: LOW
+**Related Documents**: `data/01_Consciousness_Studies/The Neurocentric Limit_ A Comprehensive Re-Evaluation of the Dying Brain Hypothesis as an Explanatory Model for Near-Death Phenomena.md`; `data/00_Master_Theses/The Seed and the Sun_ A Statistical and Phenomenological Investigation into the Architecture of Consciousness, the Paths of the Soul, and the Dissolution of the Hard Problem.md` §§3.1–3.2
+
+**Resolution Summary**:
+(a) "10, 20, or even 30 minutes" is **supported** as written, and the text is unchanged. In the dentures case the patient "had been found about an hour before in a meadow" before the denture removal he later described (van Lommel et al., *Lancet* 358, 2001). Lloyd Rudy's patient described the surgeons in the doorway after "close to 20 minutes or more" of asystole, confirmed by the assistant surgeon Amado-Cattaneo. Richard Mansfield's patient described events from about 15 minutes after resuscitation stopped (Parnia 2006). Both are in Rivas, *Psi Encyclopedia*, 2021. Now cited (van Lommel et al. 2001; Rivas 2021).
+(b) Tunnel mechanism **corrected**. Whinnery (*JNDS* 15.4, 1997; ~1,000 G-LOC episodes) traces tunnel vision to the retina: the most distal retinal circulation fails first, so peripheral vision goes first and the central field last. It is not the visual cortex, and not "fovea… oxygenation resistance". Fixed in both documents.
+(c) Pilot data **corrected**. Whinnery 1997 reports that G-LOC "dreamlets" have the marks of ordinary dreaming ("illogical content and organization… difficulty in remembering") and that recovery brings "mild confusion and disorientation". He also reports that they are mostly "pleasurable… euphoric", not paranoid. Brugger et al. (1999; eight climbers above 8,500 m) report body-scheme illusions and pseudohallucinations, and nothing paranoid or illogical. The clause now states the pilot findings; the unsupported mountaineering claim and "paranoid… bad trip" are gone. Fixed in both documents.
+(d) Ketamine "weird," "plastic," "drug-like" **removed**. No source uses these words. The studies that compared ketamine with NDEs measured overlap: Corazza & Schifano (*Subst. Use Misuse* 45, 2010; 50 users scoring ≥7 on the Greyson scale) and Martial et al. (*Conscious. Cogn.* 69, 2019; ~15,000 drug reports vs 625 NDE narratives, ketamine most similar). The surrounding argument, that NDErs insist on hyper-reality (Greyson 2007), stands. Removed in both documents.
+(e) "Diving suit" **corrected to experiencers' words**. The image occurs once in NDERF, in Brian H.'s account (8554), but that is a spiritually transformative experience with no life-threatening event. The sentence about NDErs now quotes two clinical-death NDEs: Alice U. (NDERF 8871), "I had awoken in a dream", and Mike M. (NDERF 7617), "the equivalent of wearing six, wet overcoats".
+(f) SDE veridical examples **narrowed**. No readable source documents the two examples (a deceased relative the bystander did not know; the spirit leaving "before clinical signs are visible"), and the only support was a Reddit thread. The sentence now cites the content analysis of 164 SDEs by the Shared Crossing Research Initiative (*Am. J. Hosp. Palliat. Med.* 38.12, 2021), in which "remotely sensing a death" is one of the four modes.
+
+---
+
+### [GDR] *The Neurocentric Limit* — three attributions the cited sources do not carry
+
+**Target**: `[GDR]`
+**Status**: ✅ RESOLVED
+**Date Added**: 2026-10-02
+**Date Resolved**: 2026-10-03
+**Priority**: LOW
+**Related Documents**: `data/01_Consciousness_Studies/The Neurocentric Limit_ A Comprehensive Re-Evaluation of the Dying Brain Hypothesis as an Explanatory Model for Near-Death Phenomena.md` §§2.1.3, 4.2, 9; `data/00_Master_Theses/The Seed and the Sun_ A Statistical and Phenomenological Investigation into the Architecture of Consciousness, the Paths of the Soul, and the Dissolution of the Hard Problem.md` §§3.1, 3.5
+
+**Resolution Summary**: The Lancet full text (van Lommel et al. 2001) was found as a 2013 web capture.
+(1) The factors compared were duration of cardiac arrest, duration of unconsciousness, intubation, electrophysiological stimulation and extra medication. **There were no blood gases.** "(duration of arrest, medication, blood gases)" became "(duration of arrest, duration of unconsciousness, medication)" in both documents.
+(2) The patient's words, verbatim: "Oh, that nurse knows where my dentures are … you took my dentures out of my mouth and put them onto that car, it had all these bottles on it and there was this sliding drawer underneath and there you put my teeth." He said this "after more than a week". Both documents now quote this and say "More than a week later"; *Neurocentric Limit* cites the Lancet.
+(3) Parnia has not said "transceiver or filter". His own position (*Medical Hypotheses* 69.4, 2007) is that cardiac-arrest studies raise "the possibility that human mind and consciousness may continue to function in the absence of brain function", and he lists "a separate undiscovered scientific entity" among the theories of consciousness. §9 now credits Parnia (2007) with that and credits the transceiver/filter view to "others" (Arora 2025). The author's `[CORRECTION #25]` note there, on the filter framing, still applies and was left untouched.
+
+---
+
+### [GDR] *The Ontological Transition* — five attributions no reachable source states
+
+**Priority**: MEDIUM
+**Related Document**: `data/01_Consciousness_Studies/The Ontological Transition_ An Integrative Analysis of the Physiological, Phenomenological, and Spiritual Dynamics of the Dying Process.md` (§§1.1.1, 1.1.2, 1.2.2, 2.2.1, 2.2.2, 2.3.1, 3.4); item (a) also `data/01_Consciousness_Studies/The Surface That Withholds Nothing_ The Body as the Outermost Expression of the Spiritual State.md` (§ on terminal lucidity and its Works Cited entry 10)
+
+**Context**: Logged by the 2026-10-03 source audit, which traced all 47 raw entries and searched every quoted phrase in the full text of each reachable source. These five were left as written:
+
+| Claim | § | What was found |
+|---|---|---|
+| (a) Batthyány's image of terminal lucidity as "uncooking an egg" | 2.3.1 | In none of Teresi et al. 2023, Cleveland Clinic, Wikipedia, the SPR Psi Encyclopedia, Bering (*Scientific American*, 2017), or reviews of *Threshold* (2023). May be in *Threshold* itself or a talk. |
+| (b) ELDV patients "often stating, 'It felt more real than this'" | 2.2.2 | Kerr et al. 2014 report that "nearly all patients indicated that they felt real"; the quoted sentence is in no source read. |
+| (c) "88.1% of hospice patients report dreams or visions **of the deceased**" | 2.2.2 | Kerr et al. 2014's abstract: "Most participants reported experiencing at least one dream/vision"; the deceased were the most common content. *The ASCO Post* (2024) words it as "of a deceased relative or friend". The share of the 59 who saw the deceased needs the full text (Table 2). |
+| (d) Dynorphins "6 to 10 times more potent than morphine" | 1.1.2 | Only source: a nursing-exam blog (Ishmael, *Pass with PASS*, 2025), unreferenced. The original measurement behind the figure is not identified. |
+| (e) Minor clinical details: apnea "10 to 60 seconds"; forced feeding causing "aspiration pneumonia"; respiration shifting "from the brainstem's rhythmic center to a more primitive, chemical drive"; NDA metaphors "looking for my passport", "catching the train", "getting in line" | 1.1.1, 1.2.2, 2.2.1 | In none of the 30 hospice and clinical sources. "Packing a suitcase", "getting on a plane" and "going home" are attested (Hospice Foundation of America; HopeWest; Coastal Hospice); the original NDA vocabulary is Callanan & Kelley, *Final Gifts* (1992), not in the list. |
+
+The ">60% of SDEs occur remotely" figure (§3.4) is the same open item as *The Seed and the Sun* §3.6 (block below): the SCRI 2021 abstract names remote sensing as one of four modes and gives no percentage.
+
+**Research Question**:
+For each item, find the publication that states it (for (c), the Kerr et al. 2014 full text). Where none does, say what the nearest source reports so the sentence can be corrected to it.
+
+**Status**: ✅ RESOLVED
+
+**Date Added**: 2026-10-03
+**Date Resolved**: 2026-10-04
+
+**Resolution Summary** (author's instruction 2026-10-04: resolve, refine the thesis, be honest):
+(a) Found: Batthyány, "When the Mind Returns", *Psychology Today* (*Consciousness and Meaning at Life's End*), 29 Dec 2025: lucid episodes occur "without any detectable improvement" in the neurological condition, and undoing the degeneration "would be akin to uncooking a boiled egg". Quoted verbatim and cited in *Ontological Transition* §2.3.1; *Surface* entry 10 completed.
+(b) Not in any source. Replaced by Kerr et al. 2014's finding that nearly all patients "indicated that they felt real".
+(c) The full text was not reached. The sentence now states what the abstract and the IANDS fact sheet support: 88.1% reported at least one dream or vision, and deceased friends and relatives were the most common content. The untraced "imminent within days or hours" prognostic claim was replaced by Kerr's finding that comforting visions of the deceased became more prevalent as death approached. "Consistently comforting" was replaced by the cohort's 60% comforting and about 19% distressing (*ASCO Post* 2024).
+(d) No source was found for dynorphins "6–10× more potent than morphine", or for dynorphin release in the dying. The figure and the dynorphin claim were removed; the endorphin and opioid-peptide claim stays, as sourced (Kanjiani & Qasim 2023; *CURE* 2012). McCann et al. 1994 (*JAMA*; 32 patients: 63% never hungry, 34% only at first) now carries the "no distress" claim. Ellershaw et al. 1995 (82 patients: hydration unrelated to secretions, thirst or dry mouth) is stated beside the hospice observation about lung congestion, which it does not bear out.
+(e) Apnea is now "up to 30 or 40 seconds" (Victoria Hospice). The untraced brainstem→"chemical drive" mechanism was replaced by Victoria Hospice's description; "aspiration pneumonia" → "stomach pain" (Kanjiani & Qasim); the passport/train/line metaphors → the travel language the hospice sources record. The ">60% remote" figure is 64% in SCRI's data (Peters 2025); it is now cited in *Ontological Transition* §3.4 and *Seed and the Sun* §3.6.
+
+---
+
+### [—] *The Ontological Transition* and *The Surface That Withholds Nothing* — two findings for the author (not edits of record)
+
+**Priority**: MEDIUM
+**Related Documents**: as above
+
+**Context**:
+1. **The "43%–84%" range was a misreading.** Nahm and Greyson (2009) found that 84% of terminal-lucidity cases occur within a week of death and 43% within the final day. The number has been corrected wherever it is stated (*Ontological Transition* §2.3.2, *Surface* ×3, *Seed and the Sun* §3). But *Surface*'s limitations paragraph argues from it: "the 43%–84% range is wide and drawn from small, heterogeneous samples". The premise is gone, and a token fix cannot repair the sentence. It needs the author's rewording.
+2. **Evidence standard (2026-10-03).** *Ontological Transition* rests several claims on one raw account, Malcolm Miller's IANDS narrative: dissociation (§2.1.1), the guide and tunnel (§3.2), the life review and self-judgment (§3.3), and the restored body (§4.2). Its SDE phenomena (§3.4) rest on a popular book, Moody and Perry 2023. Under the standard, the account should illustrate a finding the data establish, not carry it. The data study is SCRI 2021, already cited. For the life review and self-judgment, the corpus's own NDERF/IANDS analyses (*The Seed and the Sun*; the 36.5:1 loving-to-harsh judgment ratio) are the natural carriers.
+
+**Research Question**:
+Author's decision: reword *Surface*'s limitations sentence, and decide whether §§2.1, 3.2–3.4 and 4.2 of *Ontological Transition* should cite the aggregate data rather than the single account.
+
+**Status**: ✅ RESOLVED
+
+**Date Added**: 2026-10-03
+**Date Resolved**: 2026-10-04
+
+**Resolution Summary** (author's instruction 2026-10-04):
+1. *Surface*'s limitations sentence now states the actual limit: the timing figures come from a survey of 49 published case reports, most recorded before 1849 (Nahm & Greyson 2009).
+2. *Ontological Transition* §§2.1, 3.1–3.4, 4.1–4.2 are now carried by the coded NDERF/IANDS dataset (`structured-data-analysis/projects/nde/structured/`, N = 6,753) and by SCRI's SDE data. Miller's account stays, as illustration only. Moody & Perry is removed. The data corrected several overstatements:
+   - The life review is in 17.5% of accounts, not "a central feature". It is empathic in 18.0% of reviews. Panoramic (457) and sequential (414) are about equally common.
+   - Judgment is loving 217 to harsh 6 (about 36:1). Where an evaluating presence is named, it is a being (340) more often than the self (95).
+   - A tunnel or void appears in 42.5% of accounts. Where its tone is described it is peaceful in 50.0% and frightening in 9.7%.
+   - At separation, peace is named in 44.1% and fear in 20.9%; vibration (1.9%) and "pop" (1.0%) are rare.
+   - Identity is clear in 85.9% of separation accounts.
+   - Being met by loved ones, beings or a Being of Light: 34.6%, not "almost universally".
+   - No physical limitations: 87.0% of the accounts that describe the body.
+   - Pre-separation "heaviness" is not coded in the dataset, and is now stated as attested in individual accounts only.
+
+---
+
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 25 |
+| **Total Resolved** | 37 |
 | **NDE Domain** | 10 |
 | **BIBL Domain** | 6 |
 | **SWED Domain** | 3 |
 | **CROSS Domain** | 1 |
 | **EARLY Domain** | 2 |
 | **GNOS Domain** | 1 |
-| **GDR Domain** | 2 |
+| **GDR Domain** | 12 |
 | **Critical Priority** | 3 |
-| **High Priority** | 14 |
-| **Medium Priority** | 7 |
-| **Low Priority** | 1 |
+| **High Priority** | 15 |
+| **Medium Priority** | 13 |
+| **Low Priority** | 6 |
 
-**Last Updated**: 2026-09-22
+**Last Updated**: 2026-10-04

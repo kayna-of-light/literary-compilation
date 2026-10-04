@@ -93,6 +93,41 @@ A URL is present but is not the citation — the author/organization and title c
 
 ---
 
+## In-text citations
+
+The Works Cited list is only half of the apparatus; the other half is how the body points into it. The house style is the one `.claude/skills/thesis-writing/SKILL.md` prescribes and the Master Theses use: **parenthetical citations in the running text**, Chicago author-date for scholarship and the work's own locator system for primary texts.
+
+| Source | In-text form | Example |
+|---|---|---|
+| Scholarly work, web source | `(Author Year)`, with page or section when it has been checked | (Harrison 1921) · (Kümmel 1966, 272) · (Schnelle 2013, §5.5.3) |
+| Two or three authors | joined by "and" | (Dibelius and Conzelmann 1972) |
+| Dated unpublished item — letter, memo, lecture transcript, recorded talk | author, day month year (distinguishes several items from one author and year) | (Disney, 23 December 1935) · (Graham, 21 June 1937) |
+| Undated web page or handout | `n.d.` | (Stanchfield n.d.) · (California Institute of the Arts, n.d.) |
+| A source known only through another's quotation | original, "quoted in" the work actually read; no page unless read | (Culhane 1986, quoted in Beiman 2014) |
+| Two authors with the same surname | initials on the one that needs distinguishing | (D. H. Graham 2005) |
+| Several sources for one statement | separated by semicolons, in one parenthesis | (Powell 2018; McLatchie 2021) |
+| Swedenborg | *Work* §N — abbreviation defined on first use | (*Arcana Coelestia* §9293) · (*AC* §10252:5–6) |
+| Ancient and patristic texts | author, abbreviated work, book.chapter.section | (Tertullian, *Marc.* 5.21) · (*1 Clem.* 5.7) |
+| Scripture | book chapter:verse | (1 Tim 6:20) |
+| Internal library document | short title in italics, section if useful | (*The Mountain and the Pillar* §3) |
+
+Rules:
+
+- **The parenthesis sits inside the sentence**, before its full stop or clause-ending comma. Where the sentence already ends in a parenthesis, merge them with a semicolon: `(writing 2 Tim; Powell 2018)`, not `(writing 2 Tim) (Powell 2018)`.
+- **Every citation resolves**: the author (or the ancient author / work) and the year must match exactly one Works Cited entry. Two works by the same author in the same year take `2025a`, `2025b` in both places.
+- **Locators only when verified.** A page, section or paragraph number goes in the citation only if it was read in the source. Otherwise cite author and year alone.
+- The Works Cited stays numbered and grouped by category (§ Structure). The numbers organise the list; the body does not refer to them.
+
+**Not the house style, and converted wherever found:**
+
+- **Bare numerals attached to punctuation** — `institutions.16, 22`, `mind.12`, `" 3`, `)7`. This is how Gemini Deep Research exports its footnotes into markdown, and it is not markdown at all: it renders as stray digits glued to the text, it is indistinguishable from a number that belongs to the sentence, and it breaks silently the moment the source list is rebuilt, reordered or merged.
+- **Superscripts** (¹²³, `<sup>`) and **bracketed numbers** `[12]` — the same problem in other clothing.
+- **Markdown footnotes** (`[^12]` with definitions at the end). Valid markdown, but not used in this corpus: the library is read in NotebookLM, which fragments documents into passages and does not carry a footnote definition across to the passage that cites it. An author-date citation travels with its sentence; a footnote number does not.
+
+Converting a document means replacing each marker with the author-date citation of the entry (or entries) it pointed to — after the source has been traced (`docs/NIGHTLY_SOURCE_AUDIT.md` § 3.3), so the citation names the work that actually supports the sentence, not the repost that stood in for it.
+
+---
+
 ## What does not belong in a Works Cited section
 
 ### No personal file links
@@ -103,7 +138,7 @@ Every citation in this corpus should be independently verifiable by someone who 
 
 - If it is a published work, cite the actual publication — publisher, edition, translator — under **Primary Sources** or **Scholarly Works**, exactly as `00_Master_Theses` already does for Swedenborg, Gardner, Pope, and the rest.
 - If it is genuinely part of this corpus's own material (an experience log, a research note that belongs in `data/`), it is an **Internal Library Document**, cited by relative link — not an external Drive link.
-- If neither applies — a private file with no public existence and no place in this corpus — it is not a citable source. Either the claim it supports needs a real source, or it should be marked `[TRACE NEEDED]` and logged to `docs/research_questions.md`. A private link that only the author can open is not a source; it is a citation of something the reader is being asked to trust without being able to check.
+- If neither applies — a private file with no public existence and no place in this corpus — it is not a citable source. The claim it supports needs a real source; if none exists, the claim is corrected or narrowed in the body (`docs/NIGHTLY_SOURCE_AUDIT.md` § 3.5), and only what genuinely cannot be settled goes to `docs/research_questions.md`. A private link that only the author can open is not a source; it is a citation of something the reader is being asked to trust without being able to check.
 
 This is not a special pass over the 35 documents that currently carry `drive.google.com` citations — the nightly source audit (`docs/NIGHTLY_SOURCE_AUDIT.md`) treats this as an ordinary correction of record and cleans them as it reaches them, using the routing above.
 
@@ -122,7 +157,7 @@ Two distinct problems hide under "not a citable source," and they route differen
 **Claim sources (Reddit posts, forum threads, Quora answers, comment sections).** These are not documents standing in for a real source; they are someone's unverified assertion, typically anonymous, with no editorial or institutional check on it. A citation here is not a formatting problem — it means **the claim itself was never actually verified**, only found stated somewhere. The forum post is never the fix:
 
 - If the claim is true and significant, it is independently checkable — find the real source that supports it (a scholarly work, a primary text, a dataset) and cite that instead. The Reddit thread disappears from the Works Cited entirely; it was never evidence, only a lead.
-- If a genuine, real attempt to independently verify the claim turns up nothing — no scholarly treatment, no primary-source support — the claim is **unverified content masquerading as a citation**, and the routing is the same as an uncheckable personal file above: mark `[TRACE NEEDED]` and log a research question, or remove the claim if it is not load-bearing to the document's argument. Never leave the Reddit link standing "because the claim seems plausible." Plausibility is not verification, and an anonymous forum post asserting something is not stronger evidence than no citation at all — it is weaker, because it dresses an unverified claim as if it were checked.
+- If a genuine, real attempt to independently verify the claim turns up nothing — no scholarly treatment, no primary-source support — the claim is **unverified content masquerading as a citation**, and the routing is the same as an uncheckable personal file above: correct or narrow the claim to what real sources support, or remove it if it is not load-bearing to the document's argument. Never leave the Reddit link standing "because the claim seems plausible." Plausibility is not verification, and an anonymous forum post asserting something is not stronger evidence than no citation at all — it is weaker, because it dresses an unverified claim as if it were checked.
 
 **What is not covered by this section**: an institutional or identifiably-authored web page — a university's own site (`rsc.byu.edu`), a named scholar's own page, an institutional repository (`deepblue.lib.umich.edu`, `epublications.marquette.edu`), a serious subject-specific project with named editorial oversight (`thetorah.com`) — is not an "aggregator" merely because it isn't a print publisher. These are legitimate **Web Sources** (§ Format above) when no better-categorized citation applies. The test is real authorship and some form of accountability for what's published, not the domain's appearance or whether it charges for access.
 
@@ -159,4 +194,4 @@ The concepts underneath the retired protocol remain sound and are restated here 
 
 - **Pursue the original.** If a document cites Swedenborg via a secondary source, cite Swedenborg directly with book and section.
 - **Verify Gemini references.** When Gemini Deep Research cites an internal document, check whether the claim actually originates from an external source — internal synthesis is valid but should not stand in front of the original evidence.
-- **Flag untraced claims.** Mark `[TRACE NEEDED]` (this one marker survives — it is a claim-level flag, not a source-type tag) when the original source cannot be found, and log it to `docs/research_questions.md`.
+- **Resolve untraced claims.** Find the original, or correct the claim to what the sources support. No marker is written into a `data/` document; only what genuinely cannot be settled is logged to `docs/research_questions.md` (`docs/NIGHTLY_SOURCE_AUDIT.md` § 5).

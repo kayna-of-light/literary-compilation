@@ -97,8 +97,6 @@ If Enoch represents the "scientific" adoption of astronomy, the **Book of Daniel
 
 ### **4.1 Daniel as *Rab-hartummin* and the Scribal Interface**
 
-> **[CRITICAL ANALYSIS #6]** NOTE: The original section title used *Rab-mag*, which is incorrect. The biblical text assigns Daniel the titles *Rab-signīn* (Chief Prefect, Dan 2:48) and *Rab-hartummin* (Chief of Magicians, Dan 4:9). The title *Rab-mag* appears only in Jeremiah 39:3, 39:13 for Nergal-sharezer. Greek translations rendered all such terms generically as *magoi*, causing later conflation.
-
 The biblical narrative places Daniel at the heart of the Babylonian and Persian administration. He is described as a master of the "learning and tongue of the Chaldeans" (Dan 1:4).
 
 * **The Office of *Rab-signīn*:** Daniel is appointed *Rab-signīn* (Chief Prefect) over the wise men of Babylon. This title is functionally equivalent to the Babylonian/Persian *Rab-mag* (Chief Magus) held by other officials. As the head of this class, Daniel would have had administrative oversight of the royal archives, including the *Damdat Nask* and the omen texts.  

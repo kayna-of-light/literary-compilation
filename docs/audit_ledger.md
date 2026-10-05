@@ -11,72 +11,71 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 
 **Replaced wholesale at the end of every run.** This block describes the present, not the history — history goes in the run log below. A run that leaves this stale has failed its successor.
 
-> **Status**: 19 documents audited (18 `corrected`, 1 `partial`). 231 remain. Nothing in flight. GitHub write
+> **Status**: 21 documents audited (20 `corrected`, 1 `partial`). 229 remain. Nothing in flight. GitHub write
 > access works; tonight's PR was opened against `dev`.
 >
-> **Tonight (2026-10-04, night run)**: `01/The Unfolding of the Seed`, `corrected`. All 28 raw entries traced; list
-> rebuilt as `## **Works Cited**` (13). The big find: the document's whole "children's intermission memories" strand —
-> "heaven friends", "learning, like in school", the grandfather who "brought me to earth" — came from **Sarah Hinze's LDS
-> pre-existence anecdote books** (via a 2021 Meridian Magazine post), presented as Stevenson/Tucker DOPS data. Rewritten
-> to what Sharma & Tucker 2004 actually measured (full text: DOPS REI31). Also: three blog/Foundation paraphrases quoted
-> as Swedenborg's words, HH §440 blended into §449, "two decades" (Swedenborg says twenty-seven years, *TC* §851), and
-> "Swedenborg is less specific about the mechanism" (HH §§462b–463 describe the memory review in detail). Propagated to
-> *Seed and the Sun* and both *Threefold Path* documents.
+> **Tonight (2026-10-05, night run)**: two `01` documents, both `corrected`. *Empirical Validation of the Threefold
+> Path Model*: every figure reproduces from the archived December 2025 notebooks; corrected against that source (death
+> memory 0 → 39, 20 of 23 typed violent; 5-indicator tier 9 → 3; ratio hierarchy; p-bounds; the non-existent "Ohkado
+> 2017"; dead CONSC-node IDs). The soul-path partition was **not** restated — one `[NDE]` question for the author.
+> *A Hybrid Model of Post-Mortem Existence*: 29 raw entries traced; Swedenborg passages located (HH §§249, 256; TCR
+> §§103, 851; DLW §257; AC §6212); "close to three-quarters solved" had no source and was narrowed. Propagated to *Seed
+> and the Sun* (Ohkado sentence, COPET attribution), *Mission-Based Returns* and *Sequential Structure* (5,660/1,093).
 >
 > **Take next (pick by coverage):**
-> 1. **`01`** (5 of ~34) is still the most under-covered folder. *The Surface That Withholds Nothing* (87 KB; cites
->    *Ontological Transition* as its terminal-lucidity anchor; its Batthyány entry is marked unverified) is a full night on
->    its own. *The Resurrection of True Life* has a dead *Profile* link. *A Hybrid Model of Post-Mortem Existence* (01) is
->    a sibling of tonight's document (seed-state + reincarnation; Wikipedia-led raw list) — diff it against *Unfolding*
->    first; the Hinze material may be in it under other words.
-> 2. **The Gnostic-Impulse family** (carried five nights): `05/The Architecture of Autonomy`, `05/The Architecture of
+> 1. **`01`** (7 of ~34). *The Surface That Withholds Nothing* (87 KB; terminal-lucidity anchor *Ontological
+>    Transition*; Batthyány entry unverified) is a night on its own. *The Methodological Visibility of the Non-Cyclic
+>    Soul* is now cited by two audited documents and carries the Ohkado/Rivas/COPET/VPE material — its raw list includes a
+>    researchmap Ohkado PDF and the UNT Rivas PDF (both already read: `ohkado.net/articles/ohkado_ikegawa_2014.pdf`,
+>    UNT `metadc948119`), so it is cheap to take next. *Mission-Based Returns* and *Sequential Structure* are short,
+>    current-schema reports whose numbers come straight from notebooks `02`/`03` — a fast pair. *The Resurrection of
+>    True Life* has a dead *Profile* link.
+> 2. **The Gnostic-Impulse family** (carried six nights): `05/The Architecture of Autonomy`, `05/The Architecture of
 >    Hidden Divinity`, `00_Framework/A Coherent Framework` § 5.2. Diff the two `05` documents first.
 > 3. **`02`** (3 of ~47): *The Divine Bricolage and the Incarnation of Truth* (dead *Profile* link; nine claims cited
->    to the wrong file elsewhere actually live here); *The Cognitive Archaeology of Revelation* (dead *Exodus* link).
+>    to the wrong file elsewhere live here; raw entry 27 is the StackExchange "prophet" page — the claim it stood for
+>    elsewhere is *AC* §6212); *The Cognitive Archaeology of Revelation* (dead *Exodus* link).
 > 4. **`03`**: *Cross-Domain Convergence*, *Geographic Confirmation Inventory*. Leave *Lexical Fossil Inventory* and
 >    *Stratigraphy of the Archaic* alone (closed-unmerged PR #3 branch `claude/nightly-audit-2026-09-21`).
-> 5. **The NDE statistics on the old 6,739 snapshot are cleared** (2026-10-05): *Threefold Path* ×2, *Entity Roles*, and
->    the entity-role block in *Epistemic Architecture*, *Seed and the Sun* and three more. Still stale-schema:
->    **`01/Empirical Validation of the Threefold Path Model`** uses the retired scalar return reason (443 earthly-mission
->    returns, 94.6%, other reasons 5.8–29.5%; current list field: 623, 94.2%, 29.8–60.1%) — take it next, restating from
->    notebook `03` and *Mission-Based Returns*. Outside this repo, `structured-data-analysis/CLAUDE.md` still gives the NDE
->    entity claim as "χ² = 41.13, p = 0.008" (a MallWorld statistic) — the author's file; tell the author, do not edit.
->    *Seed and the Sun*'s five Primary entries still name no edition or translator.
 >
-> Coverage so far: `00_Master_Theses` ×1, `00_Framework` ×1, `01` ×5, `02` ×3, `03` ×2, `04` ×2, `05` ×2, `06` ×1,
-> `07` ×1, `08` ×1. Weight toward the largest unaudited folders (`01`, `02`, `03`).
+> Coverage so far: `00_Master_Theses` ×1, `00_Framework` ×1, `01` ×7, `02` ×3, `03` ×2, `04` ×2, `05` ×2, `06` ×1,
+> `07` ×1, `08` ×1. `01` is no longer far behind in absolute terms but is the largest folder; weight toward `02` and
+> `03` next unless an `01` sibling is cheap.
 >
 > **Standing defect classes**: Gemini bare footnote numerals in ~70 documents, and **stripped** markers in the `01`/`03`
-> NDE family (rebuild by phrase search). **Popular anecdote collections standing in for research data** (new tonight:
-> Hinze for DOPS). **Commentator/Foundation paraphrases quoted as Swedenborg** (now three in two nights). Dead internal
-> links (7 documents, pattern register). Internal citations naming the wrong document. "A [year] study" naming the wrong
-> study. A range built from two different statistics. The Dutch `Geciteerd werk` heading on ~70 Gemini raw lists.
-> Reddit, Scribd, Quora in ~100 documents. `drive.google.com` in 20. `scienceofcorrespondences.com` in 17.
+> NDE family (rebuild by phrase search). Popular anecdote collections and interviews standing in for research data.
+> Commentator/Foundation paraphrases quoted as Swedenborg. Dead internal links (7 documents) and **dead knowledge-graph
+> IDs** (CONSC-/SWED-/MYTH-/CROSS-; new tonight, pattern register). Notebook-derived labels and filters that do not
+> match the records (new tonight: the 5,664/1,089 split; the enum-mismatch zero). The Dutch `Geciteerd werk` heading on
+> ~70 Gemini raw lists. Reddit, Scribd, Quora, StackExchange in ~100 documents. `drive.google.com` in 20.
 >
-> **Propagation debt**: the dead internal links in the 7 documents in the pattern register. *Seed and the Sun* § 7
-> (line ~479) says Ohkado's children recall "existing in a realm of light and guidance" — not checked against Ohkado's
-> papers (Ohkado & Ikegawa 2014, *JSE* 28(3); Ohkado's 2017 survey); check before reusing it.
-> Older: the dead Drive report cited by four `07` documents; the GCSU undergraduate paper (*The Apostle of the
-> Archons*, 04, entry 49).
+> **Propagation debt**: the dead internal links in the 7 documents in the pattern register. *Seed and the Sun* still
+> copies the December soul-path partition (§7.2, summary table ~line 899) — governed by tonight's `[NDE]` question, not
+> to be edited until the author decides. Older: the dead Drive report cited by four `07` documents; the GCSU
+> undergraduate paper (*The Apostle of the Archons*, 04, entry 49).
 >
-> **Dataset note — two "met by beings" measures, both correct, not interchangeable.** *Ontological Transition*'s 2,334
-> (34.6%) = arrival `greeting_types` ∋ `deceased_loved_ones` or `spiritual_beings`, OR `light_encounter ==
-> being_of_light`, OR `world_of_spirits.encounters.deceased_relatives` ∈ {named, unnamed} — exactly "met by deceased
-> loved ones, spiritual beings or a Being of Light" (the only field combination that yields 2,334; traced 2026-10-05).
-> *Unfolding of the Seed*'s 2,142 (31.7%) = arrival `greeting_types` ∋ `spiritual_beings`, `deceased_loved_ones` or
-> `unidentified_presence`, set against `solitary_arrival` 104 — the moment of arrival only. Deceased relatives anywhere =
-> 1,206 (17.9%). When reusing any of these, name the measure in the sentence.
+> **Dataset notes.** (1) Two "met by beings" measures, both correct, not interchangeable: *Ontological Transition*'s
+> 2,334 (34.6%) = arrival `greeting_types` ∋ `deceased_loved_ones` or `spiritual_beings`, OR `light_encounter ==
+> being_of_light`, OR `world_of_spirits.encounters.deceased_relatives` ∈ {named, unnamed}; *Unfolding of the Seed*'s
+> 2,142 (31.7%) = arrival `greeting_types` ∋ `spiritual_beings`, `deceased_loved_ones` or `unidentified_presence`.
+> Deceased relatives anywhere = 1,206 (17.9%). Name the measure in the sentence. (2) Source counts: NDERF 5,660, IANDS
+> 1,093 (each record's `dataset` field) — not notebook `03`'s 5,664/1,089. (3) Current prior-death memory: 36 (19
+> violent, 15 unspecified, 2 natural); past-life memory 297; mission commissioning by return agency: mutual 48.9%,
+> external being 38.6%, self 24.2%, involuntary 9.1%.
 >
-> **Awaiting external answers** (open): nothing new tonight. Older: the four 2026-10-01 questions (*TCR* §126
-> "quiesced"; epigenesis/preformation; the Japanese Amida NDE source; the *TCR* §103 Latin); Arvind/Bibi/Santosh
-> testimony wording; Koester/Perrin/Pervo Pastorals ranges; "Stevenson and Cook 326 cases"; the NDE entity-role schema
-> questions (three); the 2.6× Jesus ratio; Dole edition dates; Gardner "2nd ed. 2020"; the *Protective Garment*
-> annotation question; *The River* locator/translation question (LOW); the Worcester lineage in 7 `07` documents
-> (HIGH, author's go-ahead).
+> **Awaiting external answers** (open): tonight's `[NDE]` soul-path decision. Older: the four 2026-10-01 questions
+> (*TCR* §126 "quiesced"; epigenesis/preformation; the Japanese Amida NDE source; the *TCR* §103 Latin); Arvind/Bibi/
+> Santosh testimony wording; Koester/Perrin/Pervo Pastorals ranges; "Stevenson and Cook 326 cases"; the 2.6× Jesus
+> ratio; Dole edition dates; Gardner "2nd ed. 2020"; the *Protective Garment* annotation question; *The River*
+> locator/translation question (LOW); the Worcester lineage in 7 `07` documents (HIGH, author's go-ahead).
 >
 > **Findings handed to the author** (not this job's to edit): *The Selfhood of the Prophet* §3.3 blockquotes the
 > *Biological Error* paraphrase of *De Generatione* as Swedenborg's words. `proto-luke-reconstruction` ch. 20 note 17
 > lists א among the witnesses omitting Luke 22:43–44, but Sinaiticus' first hand includes the verses.
+> `structured-data-analysis/CLAUDE.md` gives the NDE entity claim as "χ² = 41.13, p = 0.008" (a MallWorld statistic).
+> *A Hybrid Model* §1.2 argues from the soul-from-the-father doctrine that *The Biological Error* corrects (strains
+> #2/#17) — an annotation question, not an error of record. Notebook `03`'s dataset-label bug (above) is in the data
+> repo; the library figures are fixed.
 >
 > **Still not done from the old backlog**: Kelly's *The Memory Code* for the "memory palace" clause in *The Epistemic
 > Architecture* § 3.3.
@@ -85,22 +84,23 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > - **No subagents** (procedure § 4.2). The workflow: curl every source once into the scratchpad (`r.jina.ai/<url>`
 >   for CAPTCHA/403 pages), extract to text (`pypdfium2` + `beautifulsoup4` in a venv), then run one phrase-search
 >   script over all of it. The coded-dataset counts take one Python pass over `projects/nde/structured/*.json`.
-> - **DOPS intermission research in full text**: Sharma & Tucker 2004 is at
->   `med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2015/11/REI31.pdf`. Early *Anabiosis*/JNDS
->   articles download from UNT's direct `high_res_d` PDF links (Rhodes 1982: `metadc1051993/m2/1/high_res_d/vol2-no1-15.pdf`).
+> - **Ohkado in full text**: `ohkado.net/articles/` serves his PDFs (`ohkado_ikegawa_2014.pdf`,
+>   `ohkado_2017_Japanese_CORT.pdf`, `ohkado_2015_JOPPPAH.pdf`); the SPR Psi Encyclopedia "Ohkado Masayuki" page has his
+>   full bibliography. Crossref does not index *JSE* before ~2019.
+> - **DOPS full text**: REI31 (Sharma & Tucker 2004), REI35 (Tucker 2007, *JSE* 21(3)) at
+>   `med.virginia.edu/perceptual-studies/wp-content/uploads/sites/360/2015/11/REI<n>.pdf`. Early *Anabiosis*/JNDS
+>   articles download from UNT's direct `high_res_d` PDF links.
 > - **IANDS accounts are in the corpus too**: `structured-data-analysis/data/iands/*.json`.
-> - **Swedenborg full texts**: the Foundation SE PDFs and the NCE portables (pattern register) extract cleanly; the NCE
->   *True Christianity* vol. 2 portable is `swedenborg.com/wp-content/uploads/2015/08/NCE_TrueChristianity2_portable.pdf`.
->   e-swedenborg.com serves older translations with a browser `User-Agent` + `Accept` header.
-> - **Walled scholarship**: Crossref for metadata, Europe PMC REST for abstracts and OA full text. Google Books API and
->   archive.org lending items are not usable from the session (quota 0; 403).
+> - **Swedenborg full texts**: the Foundation SE PDFs (all twelve *AC* volumes in parallel) and the NCE portables
+>   extract cleanly; e-swedenborg.com serves older translations with a browser `User-Agent` + `Accept` header.
+> - **Walled scholarship**: Crossref for metadata, Europe PMC REST for abstracts (PubMed itself returns a CAPTCHA to
+>   jina). Google Books API and archive.org lending items are not usable from the session.
 > - **Blocked from the session**: Reddit, Quora, web.archive.org, YouTube transcripts, tandfonline, ResearchGate, UNT
 >   item pages (not its PDFs), brucegreyson.com, PNAS, cairn.info, miraheze, erudit.org, keepapitchinin.org,
 >   newchristianbiblestudy.org, mypcnow.org and hospicebuddy.com.
 > - A scare-quoted phrase that no source contains, and that other library documents cite *from* the document under
 >   audit, is the author's own vocabulary. Leave it.
 > - Strains **#16** and **#26** remain open from 2026-08-20; this job does not touch that file. The highest is **#26**.
-> - The NDE entity-role block is stale at the **schema** level. Read the 2026-09-22 question before recomputing.
 ---
 
 ## How to read the tables
@@ -131,9 +131,9 @@ A document counts as audited only after a **complete** read and source pass — 
 | Metric | Count |
 |---|---|
 | Documents in `data/` | 250 |
-| Audited | 19 |
-| In flight | 2 |
-| Remaining | 231 |
+| Audited | 21 |
+| In flight | 0 |
+| Remaining | 229 |
 
 Refresh the total with `find data -name "*.md" | wc -l`.
 
@@ -143,8 +143,8 @@ Refresh the total with `find data -name "*.md" | wc -l`.
 
 | Date | Document | Why | Sources | Corrections | Propagated | Open | Outcome |
 |---|---|---|---|---|---|---|---|
-| 2026-10-05 | `01_Consciousness_Studies/Empirical Validation of the Threefold Path Model_ A Statistical Analysis of NDE Soul Origin Markers.md` | Handoff pick: last document on the retired scalar return-reason schema (443 / 94.6%); `01` is the least-covered folder | — | — | — | — | in-progress |
-| 2026-10-05 | `01_Consciousness_Studies/A Hybrid Model of Post-Mortem Existence_ Reconciling Swedenborg's Seed-State with Anomalous Evidence for Reincarnation.md` | Handoff pick: sibling of *The Unfolding of the Seed* (seed-state + reincarnation), Wikipedia-led raw list; check for the Hinze material | — | — | — | — | in-progress |
+| 2026-10-05 | `01_Consciousness_Studies/Empirical Validation of the Threefold Path Model_ A Statistical Analysis of NDE Soul Origin Markers.md` | Handoff pick: last document on the retired scalar return-reason schema (443 / 94.6%); `01` is the least-covered folder | **Every figure traced** to the saved outputs of `structured-data-analysis/projects/nde/notebooks/archive/volunteer_discriminant_analysis.ipynb` (partition, return reasons, volunteer language, trauma markers, cross-path table, χ²) and `archive/ohkado_pattern_analysis.ipynb` (Ohkado tiers, 2,125, 143 very strong) — all reproduce. 4 references: Ohkado 2017 "A Study of Cases with Memories of a Previous Lifetime Suggestive of Reincarnation in Japan" **does not exist** (Ohkado's 2017 *JSE* paper is "Same-Family Cases of the Reincarnation Type in Japan", 31(4)); the reverse-cases paper is Ohkado & Ikegawa 2014, *JSE* 28(3): 477–490 (full text, ohkado.net; "reverse cases" is their term). Stevenson 1974, Tucker 2005, van Lommel 2010 verified. CONSC-014/047/048/049/050 are knowledge-graph IDs with no file in the repo (only in `research_questions.md`) → replaced by the library documents that hold the content. "VPE" is *The Methodological Visibility of the Non-Cyclic Soul* §8.1's coinage for Rivas et al.'s veridical pre-existence memories (Rivas et al. 2015, *JNDS* 34(2): 84–107, read in full; the abbreviation is not Rivas's), not Ohkado's; "COPET" is that document's own §9 proposal ("Cases of the Pre-Existence Type"), not "Comprehensive Pre-Existence Typology" | F: death memory "0 / no cases of dying in a previous life" → 39 (violent 20, unspecified 16, natural 3; 38 also recall a past life; either 250, both 38) — the §2.3 filter tested `death_memory` for yes_explicit/implied, values the enum never takes, so the Restorative count rests on past-life memory alone (affects one record); 5-indicator tier 9 → 3 within the Ohkado group (table now sums to 2,125; 9 is the whole-dataset count, kept in Appendix B); "35 cases of explicit volunteer language" → 16 explicit + 19 implied; §5.2 hierarchy mislabelled (`volunteer_language` 74.9× → `incarnation_choice` 74.9×, `pre_birth_realm_description` 28.1×, `premortal` 11.0×, as elevation among volunteer-language cases); p-bounds 10⁻²⁷³/10⁻²⁸²/10⁻⁹⁵ → 10⁻²⁷²/10⁻²⁸¹/10⁻⁹⁴ (saved p = 2.80e-273, 1.04e-282, 1.05e-95) and abstract restated; "Volunteer Path (all conditions met)" → any of the first three, and no trauma markers (as coded); χ² 2,845.61 given its df = 15; Ohkado reverse cases defined and cited; VPE/COPET attributions corrected; references → `## Works Cited` (11) | `00_Master_Theses/The Seed and the Sun` §6.7 (COPET "as proposed by Ohkado" → as proposed in *Methodological Visibility*; the Ohkado sentence cited to Ohkado & Ikegawa 2014 and narrowed: "a realm of light and guidance" → sky, cloud or light — 13 of 21 children said cloud or sky, 3 light — with a counsellor-like god (14 of 21); this clears the handoff's propagation debt; Works Cited entry 15 inserted, 15–61 renumbered → 16–62); `01/Mission-Based Returns` (reference Ohkado 2017 31(2) 217–228 → Ohkado & Ikegawa 2014 28(3) 477–490; NDERF/IANDS 5,664/1,089 → 5,660/1,093); `01/Sequential Structure in Near-Death Experience` (5,664/1,089 → 5,660/1,093). The split was notebook `03`'s `'nderf' in source_file` test, which matches the four IANDS files whose names contain "wo**nderf**ul"; the records' own `dataset` field gives 5,660/1,093 | 1 `[NDE]`: restate, keep dated, or retire the soul-path partition (decision; the measures with current equivalents are listed in the question) | corrected |
+| 2026-10-05 | `01_Consciousness_Studies/A Hybrid Model of Post-Mortem Existence_ Reconciling Swedenborg's Seed-State with Anomalous Evidence for Reincarnation.md` | Handoff pick: sibling of *The Unfolding of the Seed* (seed-state + reincarnation), Wikipedia-led raw list; check for the Hinze material | **All 29 raw entries traced** (markers stripped; matched by phrase search). Not in the document: the Hinze/Meridian material — this sibling does not carry it. **Kept**: Tucker 2007 *JSE* 21(3) (DOPS REI35, full text — ages, >70% unnatural deaths, phobias, play, Haraldsson summaries); Pehlivanova, Cozzolino & Tucker 2024 (PMC11620898 — the "slightly elevated, but not pathological, dissociation and fantasy proneness" wording is its abstract's); Haraldsson 2003 (Europe PMC abstract: dissociation "not clinically relevant"); Rivas et al. 2015 (UNT PDF); DOPS research page (institutional); Swedenborg Foundation "Swedenborg and Reincarnation" (Foundation staff page; HH §256, DLW §257, the "seed-state" phrase); Dan Goodenough, "Why Not Reincarnation?" (swedenborgstudy.com; the identity-disruption argument). **Replaced by the original**: Wikipedia ×6 (Swedenborg, New Church, Cryptomnesia, Past life regression, Twenty Cases, UFO claims) → *TCR* §§103, 851, Spanos et al. 1991 *JPSP* 61(2) (Crossref), Stevenson 1974; light-en.org → Stevenson 1987; MindBodyGreen/Reader's Digest/EARS (Tucker interviews, anecdote list, aggregator) → Tucker 2007; ResearchGate → Tucker 2008 *Explore* 4(4) (Crossref); Christianity StackExchange → *AC* §6212:4–5 (SE vol. 8, full text: "the spirits had possession of their bodies"); Cunningham (Rivier) = an unpublished 2009 research proposal reviewing Spanos → Spanos 1991; YouTube *Ghost Inside My Child* → Ohkado & Ikegawa 2014 / Rivas 2015. **Removed** (support nothing in the body): Public Domain Review, swedenborg.org works list, Foundation theology/free-will pages, Spiritual Sunshine blog, *Our Life After Death* excerpt, French et al. 2008 (alien-contact psychology — not about the star-seed claim it sat beside). Star-seed profile → Steiger & Steiger 1981 via *Childhood Activation Experiences* | F: "in certain mental states … feel like their own … preexistence of souls and reincarnation" → HH §256 quoted (the ancients' belief that they would "return into their former life"; nothing about preexistence) plus HH §249 for "rarely granted"; "indivisible … psycho-physical unit" (TCR §103 calls the maternal body the soul's "clothing", laid aside at death) → narrowed to what §103 says; "close to three-quarters" of cases solved → no source (the phrase is Lyons 2013's, about the male share of violent deaths) → "in many of the cases" (Tucker 2007); onset "2 to 4" → "often at the age of 2 or 3" (Tucker 2007); 12 in-text citations added; Dutch `Geciteerd werk` raw line → `## Works Cited` (20). The prophets claim was right — *AC* §6212 says it — and now cites it | none (no other library document carries the body errors; `02/The Divine Bricolage and the Incarnation of Truth` lists the same StackExchange page as raw entry 27, cited by no sentence — for that document's own audit) | none. For the author (annotation territory, not edited): §1.2 builds on the soul-from-the-father doctrine that *The Biological Error* corrects (strain #2/#17) | corrected |
 | 2026-09-21 | `01_Consciousness_Studies/NDE Statistical Analysis_ Entity Roles and Correspondential Patterns.md` | Retired `[P]`/`[S]`/`[E]` type-code table still in use; cites cross-repo NDE/DOPS statistics checkable against `structured-data-analysis`; folder untouched on `main` so far | 4/4 checked (repo URL, Swedenborg *HH* §§87–115, NDERF/IANDS counts, dead output link) | 3F (repo org name; Swedenborg citation verified correct, no change; dead link flagged, not silently kept) — see 2026-09-22 row below: an original 1A (opened strain #27, annotated the document) was retracted as a misuse of the annotation system | 8 files (marconian→kayna-of-light repo-URL fix only, not audited) | 1 (re-run entity-role/guidance/return analysis against current schema) | corrected |
 | 2026-09-22 | `01_Consciousness_Studies/NDE Statistical Analysis_ Entity Roles and Correspondential Patterns.md` | Follow-up, not a new selection — user flagged that the 2026-09-21 pass had injected notes into a curated document | 0 (no new source checking; prior edits were reverted) | All injected prose reverted: the editorial header block, both `[CORRECTION #27]` inline notes, the dead-link narration in Raw Data Location (link restored, org-corrected), the "the correspondence doctrine chapter; §116 opens…" gloss on the Swedenborg entry, and the "at the time of this analysis (December 2025)" glosses on the NDERF/IANDS entries. Strain #27 deleted from `EVOLVING_CONCEPTUAL_STRAINS.md`. **What remains on this document is exactly: the `marconian`→`kayna-of-light` URL fix (4 occurrences) and the mandated Source Chain→Works Cited reformat with entry content carried over unchanged.** | 0 | 0 (the `[NDE]` research question stays open — logging it was right; editing the document over it was not) | corrected |
 | 2026-09-21 | `08_Correspondential_Texts/The Garment and What Wears It_ Dating the Correspondential Substrate Beneath the Manichaean Kephalaia.md` | Retired type-code notation both inline (dating table) and in Works Cited; dense multi-tier source chain (Theopompus/Plutarch, Old Avestan, Ebla archive) worth a careful trace; folder untouched on `main` so far | 9/9 primary sources + 12/12 internal-doc links checked | 0F (nothing confidently wrong enough to edit) + 2A ([CRITICAL ANALYSIS] notes, unresolved — Kephalaia Ch.38 and Ch.115 citations) + Works Cited restructured (type-code headers dropped, "Companion Theses" renamed to "Internal Library Documents") | 0 (finding is internal to this document; the two source documents it inherited the citations from — *The Ancient Word Recovered*, *Two Registers of One Perception* — were not read in full tonight, so no edit was propagated to them) | 1 (Kephalaia chapter-number verification — see `docs/research_questions/kephalaia_chapter_number_verification.md`) | corrected |
@@ -255,6 +255,11 @@ Add an entry when a problem looks like it will recur. Update the existing entry 
 | A statistic carried over from another dataset | A test statistic attached to a claim whose own analysis never reports it: "entity function differentiation (χ² = 41.13, p = 0.008)" for NDEs, where the NDE entity-role document has no χ² at all, and 41.13 with df = 22 is the MallWorld entity-type × vertical-level test. | Before re-using any headline χ², grep `structured-data-analysis` for the exact value (`grep -rn "41\.13"` over `*.ipynb`, `*.md`) and check the variables and df in the cell that prints it. If it belongs to another test, measure the claim's own test and replace it everywhere, including summary tables and abstracts. | NDE/MallWorld, 2026-10-05: *Epistemic Architecture*, *Seed and the Sun*, *Grammar of Stone*. |
 | A report's summary figure that its own table contradicts | "53% told to return" in the summary of the Dec 2025 volunteer-soul report; its table gives 275 of 773 (35.6%) told to return and 72 (9.3%) involuntary. Library documents copied the summary. | Cite a report's tables, never its executive summary; check every copied percentage against the table it summarises. | *Threefold Path … Exhaustive* § 4.2.1, 2026-10-05. |
 | `## **Works Cited**` (bold heading) | The house standard is `## Works Cited` (or numbered); a bold heading crept into several audited documents run to run. | Use the plain heading; grep `^## \*\*.*Works Cited` before closing a run. | Six documents, fixed 2026-10-05. |
+| A dataset split that a notebook derived by substring | NDE documents give NDERF/IANDS as 5,664/1,089; the records say 5,660/1,093. | Notebook `03` sets `dataset = 'nderf' if 'nderf' in source_file.lower()`, which matches four IANDS files named "…wo**nderf**ul…". Take source counts from each record's own `dataset` field (or the filename prefix), never from a notebook's derived label. Grep `5,664` / `1,089` in any new NDE document. | *Mission-Based Returns*, *Sequential Structure*, 2026-10-05. |
+| A "0" produced by a filter that tests values the field never takes | "Death memory (yes_explicit/implied): 0 — no cases reported dying in a previous life", while the same notebook's value counts show 20 violent, 16 unspecified, 3 natural. | Before accepting any zero (or any category count) from an analysis script, print the field's value counts and compare them with the values the filter tests. Report the real count; describe what the classification actually used, in the document's own methods voice. | *Empirical Validation of the Threefold Path Model* §3.4, 2026-10-05. |
+| Knowledge-graph node IDs used as citations | "(CONSC-014)", "the SOCS filter identified in CONSC-047", a "CONSC Node" table column, "Framework Sources: CONSC-014 …" in References. | The knowledge graph is not in the repo (the IDs survive only in `research_questions.md`). Replace each ID with the library document that holds the content (grep the concept: SOCS/COPET/reverse cases → *Methodological Visibility*; Threefold Path → `00_Framework/The Threefold Path … Synthesized Cosmology`). An ID that names a contribution the document itself proposes becomes a plain heading. | *Empirical Validation*, 2026-10-05. Grep `CONSC-\|SWED-\|MYTH-\|CROSS-` in `data/` before the next NDE/DOPS audit. |
+| December 2025 NDE reports: the archived notebooks are their source of truth | A `01` statistics document whose numbers do not match the current notebooks or the current records (scalar `return_reason`, `incarnation_choice` with `chose_both`, soul-path partition 4,182/1,901/421/197/52). | Its figures come from `projects/nde/notebooks/archive/*.ipynb` saved outputs — check them there first; errors of record are judged against that source. Restating on the January 2026 schema is the author's call when the measure itself was retired (the soul-path partition: notebook `03` and *Mission-Based Returns* replaced it with Volunteer Detection) — log it, list the current equivalents, do not re-run. | *Empirical Validation*, 2026-10-05 (question logged). |
+| A Swedenborg claim that looks like Gemini invention but is in the text | "Swedenborg described the prophets as having their bodies temporarily occupied by spirits" — cited only to Christianity StackExchange. | Search the SE full text before narrowing: *AC* §6212:4–5 says it ("the spirits had possession of their bodies"). All twelve *AC* SE PDFs download in parallel (`swedenborg_foundation_arcana_coelestia_01…12.pdf`) and extract in under a minute. | *A Hybrid Model*, 2026-10-05. |
 
 Candidates to watch for in early runs, from the corpus's history — confirm before treating any as established:
 
@@ -268,6 +273,14 @@ Candidates to watch for in early runs, from the corpus's history — confirm bef
 ## Run log
 
 Narrative per run — what the batch surfaced, and anything a later run should know that does not fit the tables. Newest first. Unlike the handoff block, this accumulates.
+
+### 2026-10-05 (night run): two `01` documents — the last old-schema statistics report, and the seed-state/reincarnation hybrid
+
+Precheck passed; no open PRs; batch claimed and pushed before reading. I took the handoff's two `01` picks: `01` is still the least-covered folder.
+
+*Empirical Validation of the Threefold Path Model* turned out to be a faithful write-up of two archived December 2025 notebooks. Every figure reproduces from their saved outputs, so the errors of record were the ones that are wrong even against that source. The best of them runs in the framework's favour: the document said no experiencer remembered dying in a previous life, but 39 did, and 20 of the 23 who said how described a violent death. The zero came from a filter testing values the field never takes. The rest were a table row taken from the wrong notebook, a ratio hierarchy shifted by one label, p-value bounds one order too strong, a reference that does not exist (Ohkado 2017), and knowledge-graph IDs that point at nothing in the repo. What I did not do is restate the soul-path partition on the January 2026 schema. The data repo's own current notebook says it does not classify soul paths, and *Mission-Based Returns* in the library replaced the partition with Volunteer Detection. Whether to restate, keep or retire it is the author's decision, so it is one `[NDE]` question, with the current equivalents listed. Tracing the Ohkado citation also settled the old *Seed and the Sun* debt: Ohkado & Ikegawa's children mostly remember sky or cloud, not light. A side find was the 5,664/1,089 split in two sibling reports, which is a notebook artefact (the word "wonderful" contains "nderf").
+
+*A Hybrid Model* does not carry the Hinze material. Its 29 raw entries were Wikipedia, StackExchange, a Reader's Digest list, a YouTube compilation and Tucker interviews. Behind them stood Tucker 2007, Pehlivanova et al. 2024, Haraldsson 2003, Spanos et al. 1991 and five Swedenborg passages. The one claim that looked like invention, prophets' bodies occupied by spirits, is Swedenborg's own (*AC* §6212). The one figure with no source, "close to three-quarters" of cases solved, turned out to be Lyons's phrase about something else, and it was narrowed. ~95 tool calls, no subagents.
 
 ### 2026-10-05 (follow-up): the entity-role questions fixed, not left open
 

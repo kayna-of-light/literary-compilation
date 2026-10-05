@@ -2494,6 +2494,28 @@ What is the Latin of *Vera Christiana Religio* §103 for "a kind of border from 
 
 ---
 
+## Logged by the nightly source audit, 2026-10-05
+
+---
+
+### [NDE] *Empirical Validation of the Threefold Path Model* — restate the soul-path partition on the current schema, or retire it as *Mission-Based Returns* did?
+
+**Priority**: MEDIUM (a decision, not a fact)
+**Related Documents**: `data/01_Consciousness_Studies/Empirical Validation of the Threefold Path Model_ A Statistical Analysis of NDE Soul Origin Markers.md` (§§3.1, 3.5–3.7, 4.1–4.3, 5.2 item 3, 5.3, 6, Appendices A–B); `data/00_Master_Theses/The Seed and the Sun …` §§6.7, 7.2 and the summary table (line ~899), which copy the partition.
+
+**Context**: Every figure in the document reproduces exactly from the saved outputs of `structured-data-analysis/projects/nde/notebooks/archive/volunteer_discriminant_analysis.ipynb` and `archive/ohkado_pattern_analysis.ipynb` — the December 2025 extraction (scalar `return_reason`, `incarnation_choice` with `chose_both`, scalar `home_identification`). The errors of record against that source were corrected (death memory 0 → 39; 5-indicator tier 9 → 3 within the Ohkado group; the mislabelled ratio hierarchy; p-value bounds). What remains is not an error of record but a choice:
+- The January 2026 schema split or list-converted every field the partition uses (`questionnaire_schema_changes_2026-01-06.md`). No current notebook computes a partition: notebook `03` says explicitly "What this is NOT: Soul path classification", and its library write-up, *Mission-Based Returns* §§1.3, 4.4, adopts binary Volunteer Detection (695, 10.3%) and says NDE data "can detect volunteer markers, not classify soul paths".
+- The measures that do have current equivalents (from notebook `03` / *Mission-Based Returns*): earthly-mission return 623 (9.2%), 94.2% commissioned vs 29.8–60.1% for other reasons; volunteer language 53 (22 explicit + 31 implied), ratios 35.8× / 22.3× / 10.6× / 3.5× / 2.3×; past-life memory 297 (4.4%); prior-death memory 36 (19 violent, 15 unspecified, 2 natural; direct field count); strong pre-birth awareness (3+ indicators) 47, 87.2% volunteer-detected.
+- Notebook `03`'s diagnostic shows the old "pre-birth awareness 31.5%" was carried mostly by `identity_pre_body` (35.0% of records) and spiritual-home identification; on its definition any pre-birth awareness is 7.6%. The document's "Ohkado pattern is prevalent (28–31%)" rests on that wider definition.
+- §4.2's "'Told to return' vs 'Chose to return' shows minimal discriminating power" has no measurement behind it in either archived notebook. On the current data mission commissioning varies by return agency: mutual 48.9%, external being 38.6%, self 24.2%, involuntary 9.1%, not mentioned 9.3% (direct count). Smaller than the return-reason contrast, but not minimal.
+
+**Research Question**:
+Should this document (a) stay as the dated December 2025 report it is, (b) be restated on the current extraction — which means re-running the partition with an explicit mapping of `chose_both`, list-valued `home_identifications` and `return_reasons` (new analysis), or (c) be rewritten to the Volunteer Detection method of *Mission-Based Returns*, with the Ohkado/Restorative/Hybrid categories retired? The same decision governs *The Seed and the Sun*'s copies (61.93 / 28.15 / 6.23 / 2.92 / 0.77%; "nine cases exhibited all five").
+
+**Status**: Open
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

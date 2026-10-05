@@ -119,7 +119,7 @@ The model begins with a **Passage** characterized by the continuity of identity 
 The power of this synthesized model lies in its ability to integrate the systematic theology of Emanuel Swedenborg with the raw, cross-cultural phenomenological data from modern Near-Death Experiences and children's spontaneous intermission memories. Swedenborg's framework provides the architectural "why"—the purpose behind the process, such as the revelation of the ruling love and the principle of eternal use. The empirical data from NDEs and children's memories provide the phenomenological "how"—the subjective experience of the tunnel, the empathetic Life Review, and the nature of the welcoming beings and the realms they inhabit. Each data stream validates and enriches the others, transforming what might be seen as a collection of disparate anecdotes into a structured, cross-validated, and deeply logical framework.  
 Ultimately, the combined evidence points not toward a simple, static "afterlife," but toward a sophisticated, logical, and loving process designed to facilitate the eternal unfolding of the potential contained within the earthly "seed-state." The journey is therapeutic, educational, and social, prioritizing a gentle transition, profound self-understanding, and integration into a community of purpose. This model reframes the fundamental human question from the fearful "What happens when we die?" to the infinitely more profound and hopeful inquiry: "For what purpose do we continue to live?"
 
-## **Works Cited**
+## Works Cited
 
 **Primary Sources:**
 

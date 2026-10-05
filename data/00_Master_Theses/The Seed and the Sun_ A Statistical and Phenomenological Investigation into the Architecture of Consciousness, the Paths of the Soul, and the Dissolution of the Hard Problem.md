@@ -926,78 +926,78 @@ The seed and the sun. The vessel and the source. The finite and the infinite. Th
 
 ## 13. Works Cited
 
-### Primary Sources
+**Primary Sources:**
 
-1. Swedenborg, Emanuel. *Arcana Coelestia* (AC). 12 vols. London, 1749–1756. Cited by section number.
-2. Swedenborg, Emanuel. *Heaven and Hell* (HH). London, 1758. Cited by section number.
-3. Swedenborg, Emanuel. *Divine Love and Wisdom* (DLW). Amsterdam, 1763. Cited by section number.
-4. Swedenborg, Emanuel. *True Christian Religion* (TCR). Amsterdam, 1771. Cited by section number.
-5. Gardner, Iain, trans. *The Kephalaia of the Teacher: The Edited Coptic Manichaean Texts in Translation with Commentary*. Leiden: Brill, 1995. 2nd ed. 2020.
+1. Gardner, Iain, trans. *The Kephalaia of the Teacher: The Edited Coptic Manichaean Texts in Translation with Commentary*. Leiden: Brill, 1995. 2nd ed. 2020.
+2. Swedenborg, Emanuel. *Arcana Coelestia* (AC). 12 vols. London, 1749–1756. Cited by section number.
+3. Swedenborg, Emanuel. *Heaven and Hell* (HH). London, 1758. Cited by section number.
+4. Swedenborg, Emanuel. *Divine Love and Wisdom* (DLW). Amsterdam, 1763. Cited by section number.
+5. Swedenborg, Emanuel. *True Christian Religion* (TCR). Amsterdam, 1771. Cited by section number.
 
-### Scholarly Works
+**Scholarly Works:**
 
-6. Chalmers, David J. *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press, 1996.
-7. Greyson, Bruce. *After: A Doctor Explores What Near-Death Experiences Reveal about Life and Beyond*. St. Martin's Essentials, 2021.
-8. Moody, Raymond A. *Life After Life*. Mockingbird Books, 1975.
-9. O'Regan, Brendan, and Caryle Hirshberg. *Spontaneous Remission: An Annotated Bibliography*. Institute of Noetic Sciences, 1993.
-10. Parnia, Sam, et al. "AWARE — AWAreness during REsuscitation — A prospective study." *Resuscitation* 85.12 (2014): 1799–1805.
-11. Ring, Kenneth. *Life at Death: A Scientific Investigation of the Near-Death Experience*. Coward, McCann & Geoghegan, 1980.
-12. Stevenson, Ian. *Reincarnation and Biology: A Contribution to the Etiology of Birthmarks and Birth Defects*. 2 vols. Praeger, 1997.
-13. Tucker, Jim B. *Before: Children's Memories of Previous Lives*. St. Martin's Essentials, 2021.
-14. Turner, Kelly A. *Radical Remission: Surviving Cancer Against All Odds*. HarperOne, 2014.
-15. van Lommel, Pim, et al. "Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands." *The Lancet* 358.9298 (2001): 2039–2045.
-16. van Lommel, Pim. *Consciousness Beyond Life: The Science of the Near-Death Experience*. HarperOne, 2010.
-17. Ohkado, Masayuki, and Bruce Greyson. "A comparative analysis of Japanese and Western NDEs." *Journal of Near-Death Studies* 32.4 (2014): 187–198.
-18. Borjigin, Jimo, et al. "Surge of neurophysiological coherence and connectivity in the dying brain." *Proceedings of the National Academy of Sciences* 110.35 (2013): 14432–14437.
-19. Stevenson, Ian. "Birthmarks and Birth Defects Corresponding to Wounds on Deceased Persons." *Journal of Scientific Exploration* 7.4 (1993): 403–410.
-20. Matlock, James G. "Congenital Physical Anomalies Associated with Deceased Persons in Reincarnation Cases with Intermissions of Less Than Nine Months." *Explore* 19.2 (2023): 170–175.
-21. Dean, J. G., et al. "Biosynthesis and Extracellular Concentrations of N,N-dimethyltryptamine (DMT) in Mammalian Brain." *Scientific Reports* 9 (2019): 9333.
-22. Kerr, Christopher W., et al. "End-of-Life Dreams and Visions: A Longitudinal Study of Hospice Patients' Experiences." *Journal of Palliative Medicine* 17.3 (2014): 296–303.
-23. Moorjani, Anita. *Dying to Be Me: My Journey from Cancer, to Near Death, to True Healing*. Hay House, 2012.
-24. Sachdev, A., et al. "Objective Response Rate of Placebo in Randomized Controlled Trials of Anticancer Medicines." *eClinicalMedicine* 55 (2023): 101753.
-25. Sharma, Poonam, and Jim B. Tucker. "Cases of the Reincarnation Type with Memories from the Intermission Between Lives." *Journal of Near-Death Studies* 23, no. 2 (2004): 101–118.
+6. Borjigin, Jimo, et al. "Surge of neurophysiological coherence and connectivity in the dying brain." *Proceedings of the National Academy of Sciences* 110.35 (2013): 14432–14437.
+7. Chalmers, David J. *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press, 1996.
+8. Dean, J. G., et al. "Biosynthesis and Extracellular Concentrations of N,N-dimethyltryptamine (DMT) in Mammalian Brain." *Scientific Reports* 9 (2019): 9333.
+9. Greyson, Bruce. *After: A Doctor Explores What Near-Death Experiences Reveal about Life and Beyond*. St. Martin's Essentials, 2021.
+10. Kerr, Christopher W., et al. "End-of-Life Dreams and Visions: A Longitudinal Study of Hospice Patients' Experiences." *Journal of Palliative Medicine* 17.3 (2014): 296–303.
+11. Matlock, James G. "Congenital Physical Anomalies Associated with Deceased Persons in Reincarnation Cases with Intermissions of Less Than Nine Months." *Explore* 19.2 (2023): 170–175.
+12. Moody, Raymond A. *Life After Life*. Mockingbird Books, 1975.
+13. Moorjani, Anita. *Dying to Be Me: My Journey from Cancer, to Near Death, to True Healing*. Hay House, 2012.
+14. O'Regan, Brendan, and Caryle Hirshberg. *Spontaneous Remission: An Annotated Bibliography*. Institute of Noetic Sciences, 1993.
+15. Ohkado, Masayuki, and Bruce Greyson. "A comparative analysis of Japanese and Western NDEs." *Journal of Near-Death Studies* 32.4 (2014): 187–198.
+16. Parnia, Sam, et al. "AWARE — AWAreness during REsuscitation — A prospective study." *Resuscitation* 85.12 (2014): 1799–1805.
+17. Ring, Kenneth. *Life at Death: A Scientific Investigation of the Near-Death Experience*. Coward, McCann & Geoghegan, 1980.
+18. Sachdev, A., et al. "Objective Response Rate of Placebo in Randomized Controlled Trials of Anticancer Medicines." *eClinicalMedicine* 55 (2023): 101753.
+19. Sharma, Poonam, and Jim B. Tucker. "Cases of the Reincarnation Type with Memories from the Intermission Between Lives." *Journal of Near-Death Studies* 23, no. 2 (2004): 101–118.
+20. Stevenson, Ian. "Birthmarks and Birth Defects Corresponding to Wounds on Deceased Persons." *Journal of Scientific Exploration* 7.4 (1993): 403–410.
+21. Stevenson, Ian. *Reincarnation and Biology: A Contribution to the Etiology of Birthmarks and Birth Defects*. 2 vols. Praeger, 1997.
+22. Tucker, Jim B. *Before: Children's Memories of Previous Lives*. St. Martin's Essentials, 2021.
+23. Turner, Kelly A. *Radical Remission: Surviving Cancer Against All Odds*. HarperOne, 2014.
+24. van Lommel, Pim, et al. "Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands." *The Lancet* 358.9298 (2001): 2039–2045.
+25. van Lommel, Pim. *Consciousness Beyond Life: The Science of the Near-Death Experience*. HarperOne, 2010.
 
-### Data Sources
+**Internal Library Documents:**
 
-26. Near-Death Experience Research Foundation (NDERF). N=5,660 structured records. https://nderf.org
-27. International Association for Near-Death Studies (IANDS). N=1,093 structured records. https://iands.org
-28. Division of Perceptual Studies, University of Virginia. 2,500+ investigated past-life memory cases. https://med.virginia.edu/perceptual-studies/
-29. Radical Remission Project. N=149 testimonial cases. https://radicalremission.com
-30. PubMed Central. N=350 clinical case reports. https://www.ncbi.nlm.nih.gov/pmc/
-31. Reddit r/TheMallWorld. N=2,678 structured dream narratives (through January 2026).
-32. Structured Data Analysis Repository. https://github.com/kayna-of-light/structured-data-analysis
+26. [A Substantial Profile of the Volunteer Soul Incarnation](../01_Consciousness_Studies/A%20Substantial%20Profile%20of%20the%20Volunteer%20Soul%20Incarnation_%20A%20Synthesized%20Analysis%20of%20Phenomenological%20and%20Psychological%20Data.md). Multi-layered profile with four-stage call narrative and integration challenges.
+27. [Consciousness as a Selective Pressure](../01_Consciousness_Studies/Consciousness%20as%20a%20Selective%20Pressure_%20A%20Scientific%20and%20Philosophical%20Analysis%20of%20the%20Consciousness-Driven%20Evolution%20Hypothesis.md). Proposes CDE hypothesis with game-theoretic and gene-culture coevolution models.
+28. [Correspondential Structure in Collective Dream Space](../01_Consciousness_Studies/Correspondential%20Structure%20in%20Collective%20Dream%20Space_%20A%20Statistical%20Analysis%20of%20Spatial-Affective%20Patterns%20in%20the%20MallWorld%20Corpus.md). Flagship MallWorld statistical report: 38/47 tests confirmed.
+29. [Direct Perception Through Discrete Degrees](../01_Consciousness_Studies/Direct%20Perception%20Through%20Discrete%20Degrees%20-%20Empirical%20Analysis%20of%20Perceptual%20Depth%20in%20Near-Death%20Experiences.md). Establishes culture-invariant perception depth gradient (KMO = 0.817).
+30. [Empirical Validation of the Threefold Path Model](../01_Consciousness_Studies/Empirical%20Validation%20of%20the%20Threefold%20Path%20Model_%20A%20Statistical%20Analysis%20of%20NDE%20Soul%20Origin%20Markers.md). Establishes population distribution: 6.23% Volunteer, 2.92% Restorative, 28.15% Ohkado.
+31. [Mission-Based Returns: Volunteer Soul Detection Analysis](../01_Consciousness_Studies/Mission-Based%20Returns_%20Volunteer%20Soul%20Detection%20Analysis.md). Establishes 94.2% discriminant validity for mission commissioning.
+32. [Psycho-Spiritual Transformation and Spontaneous Remission](../01_Consciousness_Studies/Psycho-Spiritual%20Transformation%20and%20Spontaneous%20Remission_%20A%20Statistical%20Analysis%20of%20569%20Cases.md). Establishes 85.5% temporal precedence of transformation over healing.
+33. [Sequential Structure in Near-Death Experience: Validating the Normative Path Model](../01_Consciousness_Studies/Sequential%20Structure%20in%20Near-Death%20Experience_%20Validating%20the%20Normative%20Path%20Model.md). Establishes four markers of the normative path: reluctance, deceased relatives, rare reincarnation indicators, identity preservation.
+34. [The Ancient Word Recovered](../00_Framework/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md). Computational extraction of pre-Manichaean correspondential substrate; 110-entry lexicon at 96% confidence.
+35. [The Architecture of Anomaly](../01_Consciousness_Studies/The%20Architecture%20of%20Anomaly_%20A%20Comprehensive%20Investigation%20into%20the%20Ontological,%20Biological,%20and%20Clinical%20Reality%20of%20Radical%20Remission%20and%20Somatic.md). Establishes three-tier remission taxonomy and biological mechanics.
+36. [The Being of Light: A Statistical Analysis of Near-Death Experience Phenomenology](../01_Consciousness_Studies/The%20Being%20of%20Light_%20A%20Statistical%20Analysis%20of%20Near-Death%20Experience%20Phenomenology.md). Establishes constant state/variable form with χ² = 365.14 across 6,753 NDE records.
+37. [The Divine Human in Ultimates](../02_Swedenborgian_Theology/The%20Divine%20Human%20in%20Ultimates_%20A%20Phenomenological%20and%20Forensic%20Re-Evaluation%20of%20the%20Aligned%20Soul.md). Corrects biological Christology; establishes transparency vs displacement.
+38. [The East-West NDE Dichotomy: Challenging Cultural Paradigms Through Empirical Analysis](../01_Consciousness_Studies/The%20East-West%20NDE%20Dichotomy_%20Challenging%20Cultural%20Paradigms%20Through%20Empirical%20Analysis.md). Dismantles the East-West dichotomy; establishes purposive economy with mission→BoL OR = 4.38.
+39. [The Empirical Architecture of Survival: A Critical Audit of the DOPS Database](../01_Consciousness_Studies/The%20Empirical%20Architecture%20of%20Survival_%20A%20Critical%20Statistical%20and%20Methodological%20Audit%20of%20the%20Division%20of%20Perceptual%20Studies%20%28DOPS%29%20Database.md). Audits DOPS methodology: 70% solution rate, Type A/B equivalence, SOCS.
+40. [The Epistemic Architecture of Post-Materialist Inquiry](../02_Swedenborgian_Theology/The%20Epistemic%20Architecture%20of%20Post-Materialist%20Inquiry_%20A%20Methodological%20Thesis%20on%20Hypothesis-Testing%20with%20the%20Swedenborgian%20Framework.md). Establishes the four-strain methodology with 11/11 confirmations.
+41. [The Master and His Emissary: A Neuro-Philosophical Inquiry](../01_Consciousness_Studies/The%20Master%20and%20His%20Emissary_%20A%20Neuro-Philosophical%20Inquiry%20into%20Choice,%20Integration,%20and%20the%20Architecture%20of%20Reality.md). Maps hemispheric architecture onto selfhood/influx dynamics.
+42. [The Methodological Visibility of the Non-Cyclic Soul](../01_Consciousness_Studies/The%20Methodological%20Visibility%20of%20the%20Non-Cyclic%20Soul_%20An%20Exhaustive%20Audit%20of%20Selection%20Artifacts%20in%20Reincarnation%20Research.md). Demonstrates SOCS as trauma filter; proposes COPET.
+43. [The Neurocentric Limit](../01_Consciousness_Studies/The%20Neurocentric%20Limit_%20A%20Comprehensive%20Re-Evaluation%20of%20the%20Dying%20Brain%20Hypothesis%20as%20an%20Explanatory%20Model%20for%20Near-Death%20Phenomena.md). Systematic refutation of the dying brain hypothesis.
+44. [The Ontological Transition](../01_Consciousness_Studies/The%20Ontological%20Transition_%20An%20Integrative%20Analysis%20of%20the%20Physiological,%20Phenomenological,%20and%20Spiritual%20Dynamics%20of%20the%20Dying%20Process.md). Maps the dying process as safe passage protocol.
+45. [The Resolution of the Finite Mind](../02_Swedenborgian_Theology/The%20Resolution%20of%20the%20Finite%20Mind_%20Celestial%20Perception,%20Numerical%20Architecture,%20and%20the%20Limit%20of%20Spiritual%20Analysis.md). Establishes four primes as irreducible dimensions of finite comprehension.
+46. [The Restorative Return](../01_Consciousness_Studies/The%20Restorative%20Return_%20An%20Empirical%20and%20Phenomenological%20Audit%20of%20the%20Unfinished%20Business%20Hypothesis%20in%20the%20DOPS%20Archive.md). Establishes the trauma-driven reincarnation model with six markers.
+47. [The Seed-State of the Concrete Spirit](../02_Swedenborgian_Theology/The%20Seed-State%20of%20the%20Concrete%20Spirit_%20A%20Radical%20Re-Evaluation%20of%20Swedenborgian%20Ontology%20and%20the%20Illusion%20of%20the%20Limbus.md). Corrects the Limbus as Cartesian artifact; establishes the fixed edge hypothesis.
+48. [The Somatic Influx](../01_Consciousness_Studies/The%20Somatic%20Influx_%20Spiritual%20Transformation%20as%20Causal%20Precursor%20to%20Spontaneous%20Remission.md). Establishes somatic influx framework with NDE, Lourdes, and Schilder data.
+49. [The Spiritual Topography of the Late Modern Soul](../01_Consciousness_Studies/The%20Spiritual%20Topography%20of%20the%20Late%20Modern%20Soul_%20A%20Phenomenological%20and%20Correspondential%20Analysis%20of%20the%20Mall%20World%20through%20the%20Lens%20of.md). Qualitative correspondential mapping of MallWorld features.
+50. [The Surface That Withholds Nothing: The Body as the Outermost Expression of the Spiritual State](../01_Consciousness_Studies/The%20Surface%20That%20Withholds%20Nothing_%20The%20Body%20as%20the%20Outermost%20Expression%20of%20the%20Spiritual%20State.md). Establishes the framework's position on the body–consciousness relation; rejects the filter model; demonstrates terminal lucidity as state-shift; unifies the three witnesses (birthmarks, remission, terminal lucidity) as one law.
+51. [The Threefold Path of the Soul: An Exhaustive Empirical and Cosmological Analysis](../00_Framework/The%20Threefold%20Path%20of%20the%20Soul_%20An%20Exhaustive%20Empirical%20and%20Cosmological%20Analysis%20of%20Post-Mortem%20Consciousness%20and%20Incarnational%20Dynamics.md). Establishes 88.5% normative, 11.5% exception paths.
+52. [The Void and the Vessel](../02_Swedenborgian_Theology/The%20Void%20and%20the%20Vessel_%20A%20Theological%20Critique%20of%20Passive%20Kenosis%20and%20the%20Empty%20House.md). Establishes active displacement vs passive kenosis.
 
-### Internal Library Documents
+**Data Sources:**
 
-33. [The Being of Light: A Statistical Analysis of Near-Death Experience Phenomenology](../01_Consciousness_Studies/The%20Being%20of%20Light_%20A%20Statistical%20Analysis%20of%20Near-Death%20Experience%20Phenomenology.md). Establishes constant state/variable form with χ² = 365.14 across 6,753 NDE records.
-34. [Sequential Structure in Near-Death Experience: Validating the Normative Path Model](../01_Consciousness_Studies/Sequential%20Structure%20in%20Near-Death%20Experience_%20Validating%20the%20Normative%20Path%20Model.md). Establishes four markers of the normative path: reluctance, deceased relatives, rare reincarnation indicators, identity preservation.
-35. [Mission-Based Returns: Volunteer Soul Detection Analysis](../01_Consciousness_Studies/Mission-Based%20Returns_%20Volunteer%20Soul%20Detection%20Analysis.md). Establishes 94.2% discriminant validity for mission commissioning.
-36. [Empirical Validation of the Threefold Path Model](../01_Consciousness_Studies/Empirical%20Validation%20of%20the%20Threefold%20Path%20Model_%20A%20Statistical%20Analysis%20of%20NDE%20Soul%20Origin%20Markers.md). Establishes population distribution: 6.23% Volunteer, 2.92% Restorative, 28.15% Ohkado.
-37. [The East-West NDE Dichotomy: Challenging Cultural Paradigms Through Empirical Analysis](../01_Consciousness_Studies/The%20East-West%20NDE%20Dichotomy_%20Challenging%20Cultural%20Paradigms%20Through%20Empirical%20Analysis.md). Dismantles the East-West dichotomy; establishes purposive economy with mission→BoL OR = 4.38.
-38. [Direct Perception Through Discrete Degrees](../01_Consciousness_Studies/Direct%20Perception%20Through%20Discrete%20Degrees%20-%20Empirical%20Analysis%20of%20Perceptual%20Depth%20in%20Near-Death%20Experiences.md). Establishes culture-invariant perception depth gradient (KMO = 0.817).
-39. [The Neurocentric Limit](../01_Consciousness_Studies/The%20Neurocentric%20Limit_%20A%20Comprehensive%20Re-Evaluation%20of%20the%20Dying%20Brain%20Hypothesis%20as%20an%20Explanatory%20Model%20for%20Near-Death%20Phenomena.md). Systematic refutation of the dying brain hypothesis.
-40. [The Ontological Transition](../01_Consciousness_Studies/The%20Ontological%20Transition_%20An%20Integrative%20Analysis%20of%20the%20Physiological,%20Phenomenological,%20and%20Spiritual%20Dynamics%20of%20the%20Dying%20Process.md). Maps the dying process as safe passage protocol.
-41. [The Empirical Architecture of Survival: A Critical Audit of the DOPS Database](../01_Consciousness_Studies/The%20Empirical%20Architecture%20of%20Survival_%20A%20Critical%20Statistical%20and%20Methodological%20Audit%20of%20the%20Division%20of%20Perceptual%20Studies%20%28DOPS%29%20Database.md). Audits DOPS methodology: 70% solution rate, Type A/B equivalence, SOCS.
-42. [The Restorative Return](../01_Consciousness_Studies/The%20Restorative%20Return_%20An%20Empirical%20and%20Phenomenological%20Audit%20of%20the%20Unfinished%20Business%20Hypothesis%20in%20the%20DOPS%20Archive.md). Establishes the trauma-driven reincarnation model with six markers.
-43. [The Methodological Visibility of the Non-Cyclic Soul](../01_Consciousness_Studies/The%20Methodological%20Visibility%20of%20the%20Non-Cyclic%20Soul_%20An%20Exhaustive%20Audit%20of%20Selection%20Artifacts%20in%20Reincarnation%20Research.md). Demonstrates SOCS as trauma filter; proposes COPET.
-44. [Psycho-Spiritual Transformation and Spontaneous Remission](../01_Consciousness_Studies/Psycho-Spiritual%20Transformation%20and%20Spontaneous%20Remission_%20A%20Statistical%20Analysis%20of%20569%20Cases.md). Establishes 85.5% temporal precedence of transformation over healing.
-45. [The Somatic Influx](../01_Consciousness_Studies/The%20Somatic%20Influx_%20Spiritual%20Transformation%20as%20Causal%20Precursor%20to%20Spontaneous%20Remission.md). Establishes somatic influx framework with NDE, Lourdes, and Schilder data.
-46. [The Architecture of Anomaly](../01_Consciousness_Studies/The%20Architecture%20of%20Anomaly_%20A%20Comprehensive%20Investigation%20into%20the%20Ontological,%20Biological,%20and%20Clinical%20Reality%20of%20Radical%20Remission%20and%20Somatic.md). Establishes three-tier remission taxonomy and biological mechanics.
-47. [Correspondential Structure in Collective Dream Space](../01_Consciousness_Studies/Correspondential%20Structure%20in%20Collective%20Dream%20Space_%20A%20Statistical%20Analysis%20of%20Spatial-Affective%20Patterns%20in%20the%20MallWorld%20Corpus.md). Flagship MallWorld statistical report: 38/47 tests confirmed.
-48. [The Spiritual Topography of the Late Modern Soul](../01_Consciousness_Studies/The%20Spiritual%20Topography%20of%20the%20Late%20Modern%20Soul_%20A%20Phenomenological%20and%20Correspondential%20Analysis%20of%20the%20Mall%20World%20through%20the%20Lens%20of.md). Qualitative correspondential mapping of MallWorld features.
-49. [The Threefold Path of the Soul: An Exhaustive Empirical and Cosmological Analysis](../00_Framework/The%20Threefold%20Path%20of%20the%20Soul_%20An%20Exhaustive%20Empirical%20and%20Cosmological%20Analysis%20of%20Post-Mortem%20Consciousness%20and%20Incarnational%20Dynamics.md). Establishes 88.5% normative, 11.5% exception paths.
-50. [The Epistemic Architecture of Post-Materialist Inquiry](../02_Swedenborgian_Theology/The%20Epistemic%20Architecture%20of%20Post-Materialist%20Inquiry_%20A%20Methodological%20Thesis%20on%20Hypothesis-Testing%20with%20the%20Swedenborgian%20Framework.md). Establishes the four-strain methodology with 11/11 confirmations.
-51. [The Seed-State of the Concrete Spirit](../02_Swedenborgian_Theology/The%20Seed-State%20of%20the%20Concrete%20Spirit_%20A%20Radical%20Re-Evaluation%20of%20Swedenborgian%20Ontology%20and%20the%20Illusion%20of%20the%20Limbus.md). Corrects the Limbus as Cartesian artifact; establishes the fixed edge hypothesis.
-52. [The Divine Human in Ultimates](../02_Swedenborgian_Theology/The%20Divine%20Human%20in%20Ultimates_%20A%20Phenomenological%20and%20Forensic%20Re-Evaluation%20of%20the%20Aligned%20Soul.md). Corrects biological Christology; establishes transparency vs displacement.
-53. [The Void and the Vessel](../02_Swedenborgian_Theology/The%20Void%20and%20the%20Vessel_%20A%20Theological%20Critique%20of%20Passive%20Kenosis%20and%20the%20Empty%20House.md). Establishes active displacement vs passive kenosis.
-54. [A Substantial Profile of the Volunteer Soul Incarnation](../01_Consciousness_Studies/A%20Substantial%20Profile%20of%20the%20Volunteer%20Soul%20Incarnation_%20A%20Synthesized%20Analysis%20of%20Phenomenological%20and%20Psychological%20Data.md). Multi-layered profile with four-stage call narrative and integration challenges.
-55. [Consciousness as a Selective Pressure](../01_Consciousness_Studies/Consciousness%20as%20a%20Selective%20Pressure_%20A%20Scientific%20and%20Philosophical%20Analysis%20of%20the%20Consciousness-Driven%20Evolution%20Hypothesis.md). Proposes CDE hypothesis with game-theoretic and gene-culture coevolution models.
-56. [The Master and His Emissary: A Neuro-Philosophical Inquiry](../01_Consciousness_Studies/The%20Master%20and%20His%20Emissary_%20A%20Neuro-Philosophical%20Inquiry%20into%20Choice,%20Integration,%20and%20the%20Architecture%20of%20Reality.md). Maps hemispheric architecture onto selfhood/influx dynamics.
-57. [The Resolution of the Finite Mind](../02_Swedenborgian_Theology/The%20Resolution%20of%20the%20Finite%20Mind_%20Celestial%20Perception,%20Numerical%20Architecture,%20and%20the%20Limit%20of%20Spiritual%20Analysis.md). Establishes four primes as irreducible dimensions of finite comprehension.
-58. [The Ancient Word Recovered](../00_Framework/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md). Computational extraction of pre-Manichaean correspondential substrate; 110-entry lexicon at 96% confidence.
-59. [The Surface That Withholds Nothing: The Body as the Outermost Expression of the Spiritual State](../01_Consciousness_Studies/The%20Surface%20That%20Withholds%20Nothing_%20The%20Body%20as%20the%20Outermost%20Expression%20of%20the%20Spiritual%20State.md). Establishes the framework's position on the body–consciousness relation; rejects the filter model; demonstrates terminal lucidity as state-shift; unifies the three witnesses (birthmarks, remission, terminal lucidity) as one law.
+53. Division of Perceptual Studies, University of Virginia. 2,500+ investigated past-life memory cases. https://med.virginia.edu/perceptual-studies/
+54. International Association for Near-Death Studies (IANDS). N=1,093 structured records. https://iands.org
+55. Near-Death Experience Research Foundation (NDERF). N=5,660 structured records. https://nderf.org
+56. PubMed Central. N=350 clinical case reports. https://www.ncbi.nlm.nih.gov/pmc/
+57. Radical Remission Project. N=149 testimonial cases. https://radicalremission.com
+58. Reddit r/TheMallWorld. N=2,678 structured dream narratives (through January 2026).
+59. Structured Data Analysis Repository. https://github.com/kayna-of-light/structured-data-analysis
 
-### Web Sources
+**Web Sources:**
 
-60. Peters, William. "Shared Death Experiences." *Death Is Not the End*, Shared Crossing Project, 7 December 2025. https://deathisnotend.com/shared-death-experiences/.
-61. Lyons, Sean. "The Science of Reincarnation." *Virginia Magazine* (University of Virginia), 21 November 2013. https://uvamagazine.org/articles/the_science_of_reincarnation.
+60. Lyons, Sean. "The Science of Reincarnation." *Virginia Magazine* (University of Virginia), 21 November 2013. https://uvamagazine.org/articles/the_science_of_reincarnation.
+61. Peters, William. "Shared Death Experiences." *Death Is Not the End*, Shared Crossing Project, 7 December 2025. https://deathisnotend.com/shared-death-experiences/.

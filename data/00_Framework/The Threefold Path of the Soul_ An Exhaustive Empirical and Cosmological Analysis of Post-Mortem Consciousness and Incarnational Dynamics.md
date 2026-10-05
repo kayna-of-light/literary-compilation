@@ -2,15 +2,15 @@
 
 ## **Executive Summary**
 
-The study of human consciousness at the threshold of death has historically been paralyzed by a false dichotomy. On one side, the materialist paradigm dismisses Near-Death Experiences (NDEs) as the hallucinatory firing of a dying brain, a view increasingly untenable in the face of veridical perceptions reported during clinical flatline. On the other side, spiritual interpretations often fracture into mutually exclusive camps: the linear, "one-life" trajectory of Western monotheism versus the cyclical, reincarnational models of Eastern traditions. This research report undertakes a rigorous, exhaustive analysis of a massive corpus of data to evaluate the viability of a cosmological framework that seeks to resolve this impasse: the "Threefold Path of the Soul."  
-This report synthesizes three primary data streams: the theological architecture of 18th-century scientist Emanuel Swedenborg, a massive contemporary dataset of 6,739 Near-Death Experiences (NDEs), and the anomalous data on childhood past-life memories from the Division of Perceptual Studies (DOPS). The central thesis validated by this analysis is that the soul’s trajectory is not a monolithic "one-size-fits-all" mechanic but is determined by the specific purpose of the incarnation.  
-The analysis confirms a "Both/And" cosmology where a linear progression is the **Normative Path** (88.5% of the sample), while cyclical journeys occur as purposeful exceptions. These exceptions are categorized into two distinct pathways: the **Restorative Incarnation**, driven by trauma and the need to complete a "seed-state," and the **Volunteer Soul Incarnation**, driven by a pre-incarnate covenant of service. This document details the phenomenology, statistical validation, and theoretical implications of each path, while also addressing the epistemological conflict regarding the identification of the "Being of Light."
+The study of human consciousness at the threshold of death has historically been paralyzed by a false dichotomy. On one side, the materialist paradigm dismisses Near-Death Experiences (NDEs) as the hallucinatory firing of a dying brain, a view increasingly untenable in the face of veridical perceptions reported during clinical flatline (*The Neurocentric Limit*). On the other side, spiritual interpretations often fracture into mutually exclusive camps: the linear, "one-life" trajectory of Western monotheism versus the cyclical, reincarnational models of Eastern traditions. This research report undertakes a rigorous, exhaustive analysis of a massive corpus of data to evaluate the viability of a cosmological framework that seeks to resolve this impasse: the "Threefold Path of the Soul."  
+This report synthesizes three primary data streams: the theological architecture of 18th-century scientist Emanuel Swedenborg, a massive contemporary dataset of 6,753 Near-Death Experiences (NDEs), and the anomalous data on childhood past-life memories from the Division of Perceptual Studies (DOPS). The central thesis validated by this analysis is that the soul’s trajectory is not a monolithic "one-size-fits-all" mechanic but is determined by the specific purpose of the incarnation.  
+The analysis confirms a "Both/And" cosmology where a linear progression is the **Normative Path** (89.7% of the sample show no volunteer markers; *Mission-Based Returns*), while cyclical journeys occur as purposeful exceptions. These exceptions are categorized into two distinct pathways: the **Restorative Incarnation**, driven by trauma and the need to complete a "seed-state," and the **Volunteer Soul Incarnation**, driven by a pre-incarnate covenant of service. This document details the phenomenology, statistical validation, and theoretical implications of each path, while also addressing the epistemological conflict regarding the identification of the "Being of Light."
 
 ## **Part I: The Metaphysical Crisis and the Methodology of Intellectual Bricolage**
 
 ### **1.1 The Stagnation of Singular Models**
 
-Contemporary consciousness research faces a profound crisis of interpretation. The accumulation of high-quality anomalous data—specifically NDEs and verified past-life memories in children—has created a dataset that contradicts the two dominant cultural paradigms. The materialist paradigm cannot account for the veridical perceptions reported during clinical brain death, such as the case of an individual in a deep coma accurately describing specific environmental details. However, replacing materialism with a singular spiritual model has proven equally problematic. Traditional religious paradigms struggle to reconcile the linear "heaven/hell" trajectory reported in standard NDEs with the cyclical "reincarnation" data found in the DOPS archives. The "Dispersed Archive" of human spiritual history offers conflicting answers: the Christian Heaven, the Eastern Reincarnation, or the secular Oblivion.
+Contemporary consciousness research faces a profound crisis of interpretation. The accumulation of high-quality anomalous data—specifically NDEs and verified past-life memories in children—has created a dataset that contradicts the two dominant cultural paradigms. The materialist paradigm cannot account for the veridical perceptions reported during clinical brain death, such as the case of an individual in a deep coma accurately describing specific environmental details (*The Neurocentric Limit*). However, replacing materialism with a singular spiritual model has proven equally problematic. Traditional religious paradigms struggle to reconcile the linear "heaven/hell" trajectory reported in standard NDEs with the cyclical "reincarnation" data found in the DOPS archives. The "Dispersed Archive" of human spiritual history offers conflicting answers: the Christian Heaven, the Eastern Reincarnation, or the secular Oblivion.
 
 ### **1.2 The Methodology of Intellectual Bricolage**
 
@@ -31,14 +31,14 @@ The foundational and most common pathway for the soul is a single, linear progre
 
 ### **2.1 Theoretical Framework: The Seed-State and Ruling Love**
 
-This framework posits that our life is not a probationary trial, which implies a simple pass/fail judgment, but rather a teleological unfolding. It is a protected, formative period in which the core orientation of our being—what Swedenborg termed the *amor regnans*, or "ruling love"—is established. The "seed-state" implies that the earthly life is necessary to form a distinct, individual identity (the "seed") that can then germinate and grow eternally in the spiritual ecosystem. Once this seed is formed, a return to the physical soil is neither necessary nor beneficial; the soul's trajectory is forward, into the "World of Spirits" and beyond.
+This framework posits that our life is not a probationary trial, which implies a simple pass/fail judgment, but rather a teleological unfolding. It is a protected, formative period in which the core orientation of our being—what Swedenborg termed the *amor regnans*, or "ruling love"—is established. The "seed-state" implies that the earthly life is necessary to form a distinct, individual identity (the "seed") that can then germinate and grow eternally in the spiritual ecosystem. Once this seed is formed, a return to the physical soil is neither necessary nor beneficial; the soul's trajectory is forward, into the "World of Spirits" and beyond (*Heaven and Hell* §§421–431).
 
 ### **2.2 Statistical Validation of the Normative Path**
 
-The Normative Path proposes a universal 4-stage journey through the afterlife. Empirical analysis of the dataset (N=6,739) comprehensively validates this model.
+The Normative Path proposes a universal 4-stage journey through the afterlife. Empirical analysis of the dataset (N=6,753) comprehensively validates this model (*Sequential Structure in Near-Death Experience*).
 
-* **Prevalence:** 88.5% of the sample (N=5,966) followed this linear trajectory.  
-* **Sequential Integrity:** The analysis looked at whether the stages follow the proposed order. The results confirmed that 40.0% of cases (2,698) explicitly followed the canonical sequence, with 0.0% of cases showing an unusual ordering that would contradict the model. This suggests the stages are not random hallucinations but a stable ontological protocol.
+* **Prevalence:** 89.7% of the sample (6,058 accounts) show none of the volunteer markers and follow this linear trajectory (*Mission-Based Returns*).  
+* **Sequential Integrity:** The analysis looked at whether the stages follow the proposed order. The canonical sequence is followed strictly or mostly in 35.0% of cases (2,361) and partially in 50.3% (3,396); 7.3% (494) depart from it radically (NDERF/IANDS, N = 6,753). In 85.3% of accounts the stages keep the canonical order wholly or in part. This suggests the stages are not random hallucinations but a stable ontological protocol.
 
 ### **2.3 Stage 1: The Passage (Physical to Spiritual)**
 
@@ -48,13 +48,13 @@ The transition from physical death to spiritual awakening is revealed by the dat
 
 The primary markers for this stage are the Out-of-Body Experience (OBE), movement through a tunnel, and a peaceful emotional tone.
 
-* **Out-of-Body Experience (OBE):** This is the phenomenological signature of consciousness withdrawing from the physical sensorium. The statistical validation confirmed an OBE rate of **55.0%** (3,706 cases). This high frequency establishes the continuity of the conscious self independent of the biological substrate.  
-* **The Tunnel:** Movement through a "Tunnel" toward a brilliant light is reported in **23.2%** (1,561 cases). This is understood as the mechanism of recalibration to a spiritual dimension.  
-* **Emotional Tone:** Contrary to the fear or trauma associated with dying, the transition is marked by a peaceful emotional tone in **47.4%** (3,195 cases).
+* **Out-of-Body Experience (OBE):** This is the phenomenological signature of consciousness withdrawing from the physical sensorium. About two-thirds of accounts describe separating from the body: **68.7%** (4,641 cases) (NDERF/IANDS, N = 6,753). This high frequency establishes the continuity of the conscious self independent of the biological substrate.  
+* **The Tunnel:** Movement through a "Tunnel" toward a brilliant light is reported in **23.7%** (1,602 cases), and passage through a void in a further 8.0% (538) (NDERF/IANDS, N = 6,753). This is understood as the mechanism of recalibration to a spiritual dimension.  
+* **Emotional Tone:** Contrary to the fear or trauma associated with dying, where the tone of the passage is described it is peaceful in **1,349** accounts and frightening in 255 (NDERF/IANDS, N = 6,753).
 
 #### **2.3.2 Theological Grounding**
 
-Swedenborgian theology explains this stage as a gentle, structured, and therapeutically managed process. It is not a chaotic ejection but a separation facilitated by attending angels to ensure the soul's entry into the next life is peaceful and buffered from trauma. This is corroborated by children's intermission memories, which, while vaguer, describe being "taken" by a guide or "shown the light" by a "heaven friend".
+Swedenborgian theology explains this stage as a gentle, structured, and therapeutically managed process. It is not a chaotic ejection but a separation facilitated by attending angels to ensure the soul's entry into the next life is peaceful and buffered from trauma (*Heaven and Hell* §§449–450). This is corroborated by children's intermission memories, which, while vaguer, describe being "directed by an elder or an old man dressed in white" to the place where the intermission is spent (Sharma and Tucker 2004).
 
 ### **2.4 Stage 2: Arrival and Orientation**
 
@@ -64,10 +64,10 @@ Upon completing the passage, the soul arrives in an intermediate realm. This is 
 
 This stage is characterized by encounters with spiritual beings, reunions with deceased loved ones, and a profound sense of familiarity.
 
-* **Encounters with Spiritual Beings:** Encounters with spiritual entities—a broad category encompassing deceased relatives, spirit guides, and the Being of Light—are nearly universal, with a **92.9%** occurrence rate (6,262 cases). This high prevalence indicates that the immediate post-mortem environment is fundamentally social and populated.  
-* **Reunion with Deceased Relatives:** The re-integration into a social matrix is a key component, with **21.1%** (1,423 cases) reporting reunions with deceased relatives who appear healthy and vibrant.  
-* **Sense of Belonging:** A profound sense of "home" or belonging was reported in **46.0%** (3,100 cases).  
-* **The Principle of Familiarity:** The environment is consistently described as "earthly-like" (gardens, landscapes). The framework explains this via the "Principle of Familiarity"—a provision of divine mercy where the initial environment is deliberately engineered to resemble the physical world to prevent "ontological shock". It serves as a psychological bridge, demonstrating that the primary purpose of arrival is not judgment, but social re-integration.
+* **Encounters with Spiritual Beings:** Encounters with spiritual entities—a broad category encompassing deceased relatives, spirit guides, and the Being of Light—occur in a majority of accounts, **56.0%** (3,779 cases): a Being of Light in 1,881 and other beings only in 1,898 (*The Being of Light: A Statistical Analysis*). This prevalence indicates that the immediate post-mortem environment is fundamentally social and populated.  
+* **Reunion with Deceased Relatives:** The re-integration into a social matrix is a key component, with **17.9%** (1,206 cases) reporting reunions with deceased relatives who appear healthy and vibrant (*Sequential Structure in Near-Death Experience*).  
+* **Sense of Belonging:** A profound sense of "home" or belonging was reported in **21.0%** (1,420 cases) (NDERF/IANDS, N = 6,753), and 17.2% (1,159) identify the spiritual realm as home (*Mission-Based Returns*).  
+* **The Principle of Familiarity:** The environment is consistently described as "earthly-like" (gardens, landscapes). The framework explains this via the "Principle of Familiarity"—a provision of divine mercy where the initial environment is deliberately engineered to resemble the physical world to prevent "ontological shock" (*Heaven and Hell* §§493–495). It serves as a psychological bridge, demonstrating that the primary purpose of arrival is not judgment, but social re-integration.
 
 ### **2.5 Stage 3: Self-Revelation (The Life Review)**
 
@@ -75,18 +75,18 @@ After orientation, the soul enters a profound stage of self-discovery. The "Life
 
 #### **2.5.1 The Mechanism of Self-Judgment**
 
-The Life Review occurred in **18.6%** of cases (1,253 total; 546 extensive, 707 brief). It is described as a panoramic, hyper-realistic, and, most importantly, *empathetic* reliving of one's entire life.
+The Life Review occurred in **17.5%** of cases (1,183 total; 465 extensive, 718 brief) (*Sequential Structure in Near-Death Experience*). It is described as a panoramic, hyper-realistic, and, most importantly, *empathetic* reliving of one's entire life.
 
-* **Empathetic Perspective:** A critical qualitative finding is the empathetic perspective, reported in **4.9%** of reviews, where the individual feels the direct emotional impact of their actions on others. This mechanism ensures that the review is objective and undeniable; the soul does not just view the action, it *becomes* the recipient of the action.
+* **Empathetic Perspective:** A critical qualitative finding is the empathetic perspective, reported in **18.0%** of reviews (213 of 1,183) (NDERF/IANDS, N = 6,753), where the individual feels the direct emotional impact of their actions on others. This mechanism ensures that the review is objective and undeniable; the soul does not just view the action, it *becomes* the recipient of the action.
 
 #### **2.5.2 Validation of the Non-Judgmental Model**
 
 The data strongly validates the theological claim that judgment is internal.
 
-* **No External Condemnation:** In **84.8%** of life reviews (1,063 cases), there was no external condemnation from the Being of Light.  
-* **Emotional Tone:** The predominant tone was love (336 cases), with shame or regret being minimal (98 cases).
+* **No External Condemnation:** Of the 1,183 life reviews, only 6 carry harsh or condemning judgment, while 217 are loving or gentle (NDERF/IANDS, N = 6,753). In reviews held in the presence of the Being of Light, loving judgment outnumbers harsh judgment 36.5 to 1 (*The Being of Light: A Statistical Analysis*).  
+* **The Experiencer's Own Feeling:** Coded separately from the judgment, the experiencer's own feeling is most often mixed (317 cases), with shame or regret (178) and love (168) close behind (NDERF/IANDS, N = 6,753): the review is searching, while the judgment within it is loving.
 
-This validates the Swedenborgian concept that the Life Review is a "divinely engineered psycho-spiritual technology" for **self-judgment from within**. The unconditional love of the Being acts as a catalyst for honest self-assessment. In this light, God condemns no one; rather, the soul, now in full possession of its own truth, freely gravitates to the eternal community (heavenly or hellish) that corresponds perfectly to the inner nature (ruling love) it has forged.
+This validates the Swedenborgian concept that the Life Review is a divinely engineered psycho-spiritual technology for **self-judgment from within** (*Heaven and Hell* §§499–511). The unconditional love of the Being acts as a catalyst for honest self-assessment. In this light, God condemns no one (*Heaven and Hell* §§545–550); rather, the soul, now in full possession of its own truth, freely gravitates to the eternal community (heavenly or hellish) that corresponds perfectly to the inner nature (ruling love) it has forged.
 
 ### **2.6 Stage 4: Integration and Growth**
 
@@ -96,11 +96,11 @@ The final stage of the Normative Path involves integration into a permanent spir
 
 The NDE is not merely a sightseeing tour; it produces durable changes in the "seed-state" that align with the concept of *usus* (use).
 
-* **Loss of Fear of Death:** Validated in **41.1%** of cases (2,772 cases).  
-* **Increased Spirituality:** Reported in **35.0%** (2,361 cases).  
-* **Total Transformation:** The overall transformation rate is **47.0%**.
+* **Loss of Fear of Death:** Of the 1,402 accounts that describe the fear of death after the NDE, **75.6%** (1,060) report none and a further 240 only minimal fear (NDERF/IANDS, N = 6,753).  
+* **Increased Spirituality:** Among Being of Light experiencers with before-and-after data (n=190), **84.2%** report increased spirituality (*The Being of Light: A Statistical Analysis*).  
+* **Total Transformation:** Of the 3,679 accounts that address it, **87.8%** (3,230) report a shift in values, 1,996 of them a major one (NDERF/IANDS, N = 6,753).
 
-Child intermission memories corroborate this stage, with children recalling being in groups that were "learning, like in school," and feeling prepared for a purpose. This aligns with the Swedenborgian principle that heaven is a state of eternal, active service, where each individual finds their deepest fulfillment in contributing to the common good.
+Child intermission memories corroborate this stage: their stable stage is marked by "living in a particular location or having a schedule or duties to which they must attend," and it ends in the choice of parents for the next life (Sharma and Tucker 2004). This aligns with the Swedenborgian principle that heaven is a state of eternal, active service (*Heaven and Hell* §§387–394), where each individual finds their deepest fulfillment in contributing to the common good.
 
 ## **Part III: Path II — The Restorative Incarnation**
 
@@ -108,7 +108,7 @@ While the Normative Path is linear, the anomalous data compels the recognition o
 
 ### **3.1 Methodological Filtering: The Doctrine of Spirit Influence**
 
-To validate this path, the research employs a crucial analytical filter: the **Doctrine of Spirit Influence**. Swedenborg rejected universal reincarnation, and this doctrine posits that living persons can, in certain receptive states (such as hypnosis), access the memories of discarnate spirits, mistaking them for their own.  
+To validate this path, the research employs a crucial analytical filter: the **Doctrine of Spirit Influence**. Swedenborg rejected universal reincarnation, and this doctrine posits that living persons can, in certain receptive states (such as hypnosis), access the memories of discarnate spirits, mistaking them for their own (*Heaven and Hell* §256; *A Hybrid Model of Post-Mortem Existence*).  
 This acts as a "first explanatory tier," filtering out the "noise" of weaker data, such as:
 
 * Historically inaccurate narratives produced during hypnotic past-life regression.  
@@ -122,19 +122,19 @@ The Restorative Path is not tested via NDE data (as NDEs reflect the *end* or *i
 
 #### **3.2.1 The Violent Death Correlation**
 
-The most significant anomaly in the DOPS dataset is the **Violent Death Correlation**. In **over 70%** of verified cases worldwide, the previous personality died by violent or premature means (murder, accident, combat). This statistical dominance suggests that the trauma of a sudden, *unresolved* death is the primary driver for this specific type of return. This refutes the notion of a universal "school of earth" for all souls; most souls complete their seed-state in one lifetime. Only those whose development is violently arrested require a return.
+The most significant anomaly in the DOPS dataset is the **Violent Death Correlation**. In **70%** of the cases, the previous personality died by unnatural means (murder, accident, combat) (Tucker 2008). This statistical dominance suggests that the trauma of a sudden, *unresolved* death is the primary driver for this specific type of return. This refutes the notion of a universal "school of earth" for all souls; most souls complete their seed-state in one lifetime. Only those whose development is violently arrested require a return.
 
 #### **3.2.2 The "Smoking Gun": Birthmarks and Defects**
 
 The strongest empirical evidence for the Restorative Path is the presence of physical correlates that bridge the gap between mental memory and biological formation.
 
 * **Prevalence:** In **309 of 895 cases (35%)**, children are born with birthmarks or birth defects attributed by the child or family to the previous life (Stevenson 1993).  
-* **Correspondence:** These marks correspond **precisely** to the fatal wounds sustained by the deceased person, verified by autopsy reports and medical records.  
-* **Implication:** This objective data is "exceptionally difficult for conventional models to dismiss" and provides empirical support for a "direct, non-genetic, informational transfer from a previous consciousness that is capable of influencing embryological development".
+* **Correspondence:** Where a medical document (usually a postmortem report) could be obtained, in 49 cases, it confirmed the correspondence between the wounds of the deceased person and the child's marks in 43 of them (88%) (Stevenson 1993).  
+* **Implication:** This objective data is exceptionally difficult for conventional models to dismiss, and provides empirical support for a "direct, non-genetic, informational transfer from a previous consciousness that is capable of influencing embryological development" (*Consciousness as a Selective Pressure*).
 
 #### **3.2.3 Behavioral Correlates**
 
-Behavioral data further supports the trauma hypothesis. Many children in these cases exhibit specific **phobias** directly related to the mode of death in the previous life (e.g., a fear of water in a child whose previous personality drowned). This path is thus interpreted as a compassionate, "self-correcting mechanism" within the cosmic system, ensuring that souls caught in destructive cycles are given an opportunity for healing and completion.
+Behavioral data further supports the trauma hypothesis. Many children in these cases exhibit specific **phobias** directly related to the mode of death in the previous life (e.g., a fear of water in a child whose previous personality drowned) (Tucker 2008). This path is thus interpreted as a compassionate, "self-correcting mechanism" within the cosmic system (*Consciousness as a Selective Pressure*), ensuring that souls caught in destructive cycles are given an opportunity for healing and completion.
 
 ## **Part IV: Path III — The Volunteer Soul Incarnation**
 
@@ -144,72 +144,70 @@ The third path is the Volunteer Soul Incarnation. Unlike the Restorative Path (d
 
 The NDE dataset provides robust statistical support for this distinct group.
 
-* **Prevalence:** Volunteer Souls comprise **11.5%** (N=773) of the total sample.  
-* **Distribution:** The distribution precisely validates the "Both/And" model: linear progression is the norm (88.5%), while mission-based return is the exception (11.5%).
+* **Prevalence:** Volunteer markers appear in **10.3%** (695) of the total sample (*Mission-Based Returns*).  
+* **Distribution:** The distribution precisely validates the "Both/And" model: linear progression is the norm (89.7%), while mission-based return is the exception (10.3%).
 
 ### **4.2 The "Sent Back" Phenomenon and Covenant**
 
 The defining characteristic of this path is the nature of the return. A critical test of pathway distinctiveness shows that return reasons differ systematically.
 
-* **Normative Path Returns:** These are driven by "Family Responsibility" (17.8%), "Not Your Time" (16.3%), or simply have no reason given.  
-* **Volunteer Path Returns:** These are driven by "Earthly Mission" (**100%** by definition) and "Family Responsibility" (**0.0%**).\[3, 3\]
+* **Return Reasons Overall:** Across the corpus, returns are attributed to "Not Your Time" (21.6%), "Family Responsibility" (17.2%), "Unfinished Business" (10.5%) and "Earthly Mission" (9.2%), and 55.8% give no reason (*Mission-Based Returns*).  
+* **Mission Returns:** Of those who return for an "Earthly Mission," **94.2%** report having been commissioned with it during the NDE, against 29.8–60.1% for every other return reason (χ² = 3,018.1, p < 0.0001) (*Mission-Based Returns*).
 
 #### **4.2.1 The Mandate**
 
 Volunteers are often explicitly mandated to return, suggesting a pre-existing agreement or covenant.
 
-* **Involuntary/Sent Back:** **53.4%** of volunteers were explicitly told they must return, often against their will ("You must go back, you have work to do").  
-* **The Covenant Pattern:** **6.3%** showed a specific "Covenant Pattern," where they were reluctant but agreed to return due to a reminder of a pre-incarnate promise.  
-* **Pre-Incarnate Activation:** The NDE functions as a "commissioning" moment—not assigning a new task, but **activating** a pre-existing agreement. This is corroborated by child intermission data where children recall "choosing parents" for a specific purpose.
+* **Sent Back:** Across the corpus, half of all returns are decided by another being (28.6%) or happen involuntarily (21.1%), often against the experiencer's will ("You must go back, you have work to do"); both who decided the return and how willing the experiencer was separate volunteer-detected accounts from the rest (χ² = 696.4 and 285.0, p < 0.0001) (*Mission-Based Returns*).  
+* **The Covenant Pattern:** **29.4%** of volunteer-detected accounts carry awareness of a pre-birth existence or choice, against 5.1% of the rest; of the 47 accounts with strong pre-birth awareness, 87.2% are volunteer-detected (*Mission-Based Returns*). Here the reluctant return is agreed to as the reminder of a pre-incarnate promise.  
+* **Pre-Incarnate Activation:** The NDE functions as a "commissioning" moment—not assigning a new task, but **activating** a pre-existing agreement. This is corroborated by child intermission data where children recall "choosing parents" for a specific purpose (Sharma and Tucker 2004).
 
 ### **4.3 Phenomenological Intensity: A Distinct Profile**
 
-A comparative analysis reveals that Volunteer Souls experience the afterlife with significantly higher intensity than the Normative population. They are phenomenologically distinct but demographically indistinguishable (spanning all ages and religions).  
+A comparative analysis reveals that Volunteer Souls experience the afterlife with significantly higher intensity than the Normative population (*Mission-Based Returns*). They are phenomenologically distinct but demographically indistinguishable (spanning all ages and religions) (NDE Analysis Project 2025).  
 **Table 1: Phenomenological Comparison (Volunteer vs. Normative)**
 
-| Feature | Normative Path | Volunteer Path | Difference | Significance |
+| Feature | Normative Path | Volunteer Path | Ratio | Significance |
 | :---- | :---- | :---- | :---- | :---- |
-| **OBE (Explicit)** | 53.7% | 65.3% | **\+11.7%** | p\<0.0001 |
-| **Being Encounter** | 92.9% | 99.5% | **\+6.6%** | Nearly Universal |
-| **Telepathic Comm.** | 37.3% | 58.6% | **\+21.3%** | High |
-| **Life Review** | 16.3% | 36.5% | **\+20.2%** | Doubled Frequency |
-| **No Fear of Death** | 38.5% | 61.7% | **\+23.2%** | High |
-| **More Spiritual** | 32.2% | 56.7% | **\+24.4%** | High |
+| **Mission Commissioned** | 13.8% | 92.7% | **6.7×** | χ² = 3,018.1, p\<0.0001 |
+| **Pre-Birth Awareness** | 5.1% | 29.4% | **5.7×** | χ² = 515.7, p\<0.0001 |
+| **Continuation Memory** | 3.3% | 14.0% | **4.2×** | χ² = 165.8, p\<0.0001 |
+| **Spiritual Realm as Home** | 14.4% | 41.4% | **2.9×** | — |
 
-*Data Source: \[3, 3\]*  
-This massive difference in intensity—particularly the doubling of Life Reviews and the high rate of telepathy—suggests that Volunteers receive more intensive preparation and "tutelage" during their transition to equip them for their difficult earthly mission.
+*Data source: Mission-Based Returns (NDERF/IANDS, N = 6,753).*  
+This massive difference in intensity—commissioning nearly seven times as often, pre-birth awareness nearly six times—suggests that Volunteers receive more intensive preparation and "tutelage" during their transition to equip them for their difficult earthly mission.
 
 ## **Part V: The Phenomenology of the Being of Light**
 
-Central to both the Normative and Volunteer paths is the encounter with the "Being of Light." This analysis of 3,189 Being of Light encounters (47.3% of total NDEs) validates the "Conceptual Framework Theory," which posits that this entity is an objective reality that transcends cultural projection.
+Central to both the Normative and Volunteer paths is the encounter with the "Being of Light." This analysis of 1,881 Being of Light encounters (27.9% of total NDEs) (*The Being of Light: A Statistical Analysis*) validates the "Conceptual Framework Theory," which posits that this entity is an objective reality that transcends cultural projection.
 
 ### **5.1 Objective Reality vs. Projection**
 
 The strongest evidence for the objective reality of the Being of Light is the **"Unknown Presence"** phenomenon.
 
-* **Data:** **61.8%** of experiencers identified the Being as an "unknown presence," while only 23.0% identified it as God and 11.2% as Jesus.  
+* **Data:** **51.9%** of experiencers identified the Being as an "unknown presence," while only 22.5% identified it as God and 18.9% as Jesus (*The Being of Light: A Statistical Analysis*).  
 * **Implication:** If the experience were a projection of cultural expectation, users would utilize available cultural labels (Jesus, Allah, etc.). The fact that the majority cannot label the Being despite having the vocabulary suggests an encounter with a transcendent reality that defies existing conceptual frameworks.  
-* **Theological Framework Compatibility:** Even among Christians, 38.3% identified the being as "unknown" rather than using available religious terms. This suggests that when the being's properties (loving, non-judgmental) contradict a fear-based theological framework, experiencers classify it as "unknown" rather than force-fitting it into an incorrect category.
+* **Theological Framework Compatibility:** Even among Christians, 44.2% identified the being as "unknown" rather than using available religious terms. This suggests that when the being's properties (loving, non-judgmental) contradict a fear-based theological framework, experiencers classify it as "unknown" rather than force-fitting it into an incorrect category.
 
 ### **5.2 Core Objective Properties**
 
-The analysis identifies specific, measurable properties of this entity that are consistent across demographics, further supporting its objective nature:
+The analysis identifies specific, measurable properties of this entity that are consistent across demographics, further supporting its objective nature (*The Being of Light: A Statistical Analysis*):
 
-1. **Singular Unified Consciousness:** 71.6% encounter the Being alone; it is experienced as ONE authoritative presence.  
-2. **Unconditional Love:** In 84.8% of life reviews, there is no external condemnation.  
-3. **Personal Personhood:** 79.4% report active communication, confirming the Being is a personal consciousness, not an impersonal force.  
-4. **Belief Correction:** 56.4% completely lose the fear of death. The "Expect Judgment, Find Love" pattern is consistent across religions, including among atheists, indicating an external reality correcting diverse expectations rather than a projection confirming them.
+1. **Singular Unified Consciousness:** 59.0% encounter the Being alone; it is experienced as ONE authoritative presence.  
+2. **Unconditional Love:** In reviews held in the Being's presence, loving judgment outnumbers harsh judgment 36.5 to 1.  
+3. **Personal Personhood:** 81.7% receive guidance from the Being, which communicates telepathically more often than other beings (34.8%), confirming the Being is a personal consciousness, not an impersonal force.  
+4. **Belief Correction:** 84.2% report increased spirituality, and 0.0% an increased fear of death. The "Expect Judgment, Find Love" pattern is consistent across religions, including among atheists, indicating an external reality correcting diverse expectations rather than a projection confirming them.
 
 ## **Part VI: Statistical Architecture and Synthesis**
 
-The credibility of the Threefold Path rests on the comprehensive statistical analysis of the 6,739 NDEs, which provides the empirical backbone for the entire cosmology.
+The credibility of the Threefold Path rests on the comprehensive statistical analysis of the 6,753 NDEs, which provides the empirical backbone for the entire cosmology.
 
 ### **6.1 Universal vs. Exceptional Phenomenology**
 
 Chi-square tests for independence reveal which features are universal (pathway-independent) and which are exceptional (pathway-dependent).
 
 * **Universal Features:** The Life Review, Being Encounter, and Transformation occur across *both* the Normative and Volunteer paths. This validates the core structure of the afterlife as stable and consistent.  
-* **Exceptional Features:** The "Earthly Mission" return reason and the "Sent Back" mandate are statistically distinct, appearing *only* in the Volunteer path. The return reason analysis showed a highly significant difference (p\<0.0001), with Volunteers reporting 100% mission-based returns and 0% family returns, confirming they are a distinct phenomenological group.
+* **Exceptional Features:** The "Earthly Mission" return reason and the "Sent Back" mandate are statistically distinct and concentrated in the Volunteer path. Mission returners report commissioning in 94.2% of cases (χ² = 3,018.1, p\<0.0001), and return agency separates volunteer-detected accounts from the rest (χ² = 696.4, p\<0.0001), confirming they are a distinct phenomenological group (*Mission-Based Returns*).
 
 ### **6.2 Resolution of the Linear vs. Cyclical Debate**
 
@@ -217,20 +215,44 @@ The synthesized data provides a definitive resolution to the metaphysical confli
 
 * **The Conflict:** Western models argue for a single life; Eastern models argue for universal reincarnation.  
 * **The Resolution:** The data supports a **"Both/And"** model.  
-  * **Linear Progression** is the **normative** path (88.5%). The soul uses the earthly life as a "seed-state" to form a ruling love, then progresses linearly.  
-  * **Cyclical Return** is a **purposeful exception** (11.5% Volunteer \+ Restorative). It occurs only for specific reasons: **Trauma** (Restorative) or **Service** (Volunteer).
+  * **Linear Progression** is the **normative** path (89.7%). The soul uses the earthly life as a "seed-state" to form a ruling love, then progresses linearly.  
+  * **Cyclical Return** is a **purposeful exception** (10.3% Volunteer \+ Restorative). It occurs only for specific reasons: **Trauma** (Restorative) or **Service** (Volunteer).
 
 ### **6.3 Conclusion**
 
-The empirical analysis of 6,739 Near-Death Experiences, combined with the anomaly data from DOPS and Swedenborgian theology, establishes the "Threefold Path of the Soul" as a robust and scientifically grounded cosmology.
+The empirical analysis of 6,753 Near-Death Experiences, combined with the anomaly data from DOPS and Swedenborgian theology, establishes the "Threefold Path of the Soul" as a robust and scientifically grounded cosmology.
 
-1. **The Normative Path (88.5%)** is comprehensively validated as a linear, 4-stage journey of self-revelation and integration, where judgment is an internal process of self-discovery facilitated by unconditional love.  
-2. **The Volunteer Path (11.5%)** is validated as a distinct, high-intensity profile defined by pre-incarnate covenants and mission-based returns, distinct from the normative population.  
+1. **The Normative Path (89.7%)** is comprehensively validated as a linear, 4-stage journey of self-revelation and integration, where judgment is an internal process of self-discovery facilitated by unconditional love.  
+2. **The Volunteer Path (10.3%)** is validated as a distinct, high-intensity profile defined by pre-incarnate covenants and mission-based returns, distinct from the normative population.  
 3. **The Restorative Path**, while not NDE-tested, is empirically grounded in the physical "smoking gun" of birthmarks and the violent death correlation found in the DOPS data, offering a merciful "second chance" for traumatized souls.
 
 This framework moves beyond the simplistic binary of "reincarnation vs. heaven" to reveal a dynamic, purposeful ecosystem of spiritual physics, where the trajectory of the soul is determined by the specific intent—growth, healing, or service—of the incarnation.  
-**Report Generated:** December 13, 2025 **Analysis Team:** NDE Statistical Analysis Project
+**Report Generated:** December 13, 2025 **Analysis Team:** NDE Analysis Project
 
-#### **Geciteerd werk**
+## Works Cited
 
-1\. Empirical Validation of the Threefold Path Model: A Statistical Analysis of NDE Soul Origin Markers, [**Empirical Validation of the Threefold Path Model**](../01_Consciousness_Studies/Empirical%20Validation%20of%20the%20Threefold%20Path%20Model_%20A%20Statistical%20Analysis%20of%20NDE%20Soul%20Origin%20Markers.md) 2\. [The Threefold Path of the Soul: A Synthesized Cosmology of Life, Death, and Purpose](The%20Threefold%20Path%20of%20the%20Soul_%20A%20Synthesized%20Cosmology%20of%20Life,%20Death,%20and%20Purpose.md)
+**Primary Sources:**
+
+1. Swedenborg, Emanuel. *Heaven and Hell*. Translated by George F. Dole. New Century Edition. West Chester, PA: Swedenborg Foundation, 2000. Cited by section number (§).
+
+**Scholarly Works:**
+
+2. Sharma, Poonam, and Jim B. Tucker. "Cases of the Reincarnation Type with Memories from the Intermission Between Lives." *Journal of Near-Death Studies* 23, no. 2 (2004): 101–118.
+3. Stevenson, Ian. "Birthmarks and Birth Defects Corresponding to Wounds on Deceased Persons." *Journal of Scientific Exploration* 7, no. 4 (1993): 403–410.
+4. Tucker, Jim B. "Children's Reports of Past-Life Memories: A Review." *Explore* 4, no. 4 (2008): 244–248.
+
+**Internal Library Documents:**
+
+5. [A Hybrid Model of Post-Mortem Existence: Reconciling Swedenborg's "Seed-State" with Anomalous Evidence for Reincarnation](../01_Consciousness_Studies/A%20Hybrid%20Model%20of%20Post-Mortem%20Existence_%20Reconciling%20Swedenborg%27s%20Seed-State%20with%20Anomalous%20Evidence%20for%20Reincarnation.md). Spirit Influence as the first explanatory tier of § 3.1.
+6. [Consciousness as a Selective Pressure: A Scientific and Philosophical Analysis of the Consciousness-Driven Evolution Hypothesis](../01_Consciousness_Studies/Consciousness%20as%20a%20Selective%20Pressure_%20A%20Scientific%20and%20Philosophical%20Analysis%20of%20the%20Consciousness-Driven%20Evolution%20Hypothesis.md). The birthmark data read as non-genetic informational transfer, and the Restorative Incarnation as a self-correcting mechanism (§§ 3.2.2–3.2.3).
+7. [Empirical Validation of the Threefold Path Model: A Statistical Analysis of NDE Soul Origin Markers](../01_Consciousness_Studies/Empirical%20Validation%20of%20the%20Threefold%20Path%20Model_%20A%20Statistical%20Analysis%20of%20NDE%20Soul%20Origin%20Markers.md). The analysis of soul-origin markers on the full 6,753-account dataset, which tests the same three paths with a different classifier.
+8. [Mission-Based Returns: Volunteer Soul Detection Analysis](../01_Consciousness_Studies/Mission-Based%20Returns_%20Volunteer%20Soul%20Detection%20Analysis.md). The volunteer markers, return reasons, return agency and the volunteer profile of Part IV and Table 1.
+9. [Sequential Structure in Near-Death Experience: Validating the Normative Path Model](../01_Consciousness_Studies/Sequential%20Structure%20in%20Near-Death%20Experience_%20Validating%20the%20Normative%20Path%20Model.md). The life-review, reunion and normative-path figures of Part II.
+10. [The Being of Light: A Statistical Analysis of Near-Death Experience Phenomenology](../01_Consciousness_Studies/The%20Being%20of%20Light_%20A%20Statistical%20Analysis%20of%20Near-Death%20Experience%20Phenomenology.md). The presence, identification, judgment, communication and transformation figures of Part V.
+11. [The Neurocentric Limit: A Comprehensive Re-Evaluation of the Dying Brain Hypothesis as an Explanatory Model for Near-Death Phenomena](../01_Consciousness_Studies/The%20Neurocentric%20Limit_%20A%20Comprehensive%20Re-Evaluation%20of%20the%20Dying%20Brain%20Hypothesis%20as%20an%20Explanatory%20Model%20for%20Near-Death%20Phenomena.md). The veridical perceptions during clinical flatline that the Executive Summary and § 1.1 set against the materialist reading.
+12. [The Threefold Path of the Soul: A Synthesized Cosmology of Life, Death, and Purpose](The%20Threefold%20Path%20of%20the%20Soul_%20A%20Synthesized%20Cosmology%20of%20Life,%20Death,%20and%20Purpose.md). The qualitative statement of the three-path cosmology that this report tests.
+
+**Data Sources:**
+
+13. NDE Analysis Project. 2025. *Volunteer Soul Profile: Comprehensive Empirical Analysis*. 13 December 2025. 6,739 NDERF/IANDS accounts coded with the earlier questionnaire. structured-data-analysis, projects/nde/reports/archive/volunteer-soul-profile-report-analysis_iands_and_nand_2025.md.
+14. NDERF (Near Death Experience Research Foundation) and IANDS (International Association for Near-Death Studies) archives. 6,753 accounts (NDERF 5,660; IANDS 1,093), each coded field by field with the NDEAnalysisResponse schema. Analyzed in the structured-data-analysis project (projects/nde/structured/).

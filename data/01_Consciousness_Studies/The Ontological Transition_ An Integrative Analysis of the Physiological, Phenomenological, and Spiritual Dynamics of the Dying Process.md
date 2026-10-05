@@ -196,7 +196,7 @@ Physiologically, the body deploys mechanisms like ketosis and endorphin release 
 The "death rattle" is not a sound of choking, but the audible sign of the soul releasing the water element and closing the gates of the physical senses. The "mottling" of the skin is not merely circulatory failure, but the withdrawal of the spirit from the periphery to the core. The "heaviness of mind" is the sensation of the anchor being lifted.  
 Ultimately, the research indicates that the dying are not leaving home, but *going* home. As articulated in the Swedenborgian framework and validated by thousands of NDE accounts, the transition is a "waking up" from the dream of matter into the reality of spirit, a process guided at every step by love, wisdom, and a profound respect for the individual soul. The evidence strongly suggests that we do not die alone, we do not die in pain, and we do not die into nothingness. We transition, guided and peaceful, into a state of greater life.
 
-## **Works Cited**
+## Works Cited
 
 **Primary Sources:**
 

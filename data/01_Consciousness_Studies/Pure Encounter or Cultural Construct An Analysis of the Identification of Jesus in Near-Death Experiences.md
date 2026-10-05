@@ -136,7 +136,7 @@ The analysis of testimonial, cross-cultural, and theological data provides a nua
 3. **Revised Thesis:** The encounter itself is pure and transcendent. The *label* the receiver applies reflects their own cultural and spiritual vocabulary. Both are real: the encounter, and the cultural mediation of its identification. The personality profile (unconditional love, non-judgment, total acceptance) is the Lord's constant self-expression as the Divine Human — present to each soul through the form most intimate to them. No single identification form is ontologically privileged; all are valid expressions of the same constant Lord.
 4. **Answering the "Supersedes Dogma" Clause:** The report's final and most significant conclusion is that this experience *absolutely* "supersedes religious dogma." The "Dogma Paradox" is the key finding. The raw *experience* of unconditional love is so powerful that it overrides the experiencer's prior dogmatic beliefs about judgment, hell, and exclusivity. The NDE-Jesus is not a product *of* dogma; it is an experience that *corrects* dogma.
 
-## **VII. Works Cited**
+## VII. Works Cited
 
 **Primary Sources:**
 

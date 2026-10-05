@@ -78,7 +78,7 @@ The model's foundation is the normative Swedenborgian path: a single earthly lif
 For the most compelling cases of spontaneous childhood recall, the model proposes two distinct paths of genuine, but exceptional, reincarnation. The first, the **Restorative Incarnation**, posits that a soul whose life is cut short by trauma may, as an act of divine mercy, be granted another opportunity to complete its foundational development. The second, the **Volunteer Soul Incarnation**, suggests that souls who have already completed their development may choose to return on a mission of service, a concept that strengthens Swedenborg's theology by providing a framework for understanding divinely "called" individuals like the prophets.  
 Ultimately, this hybrid model achieves a significant reconciliation. It does not force a binary choice between Swedenborg's detailed cosmology and the powerful evidence for reincarnation. Instead, it creates a more flexible and inclusive framework that honors the core truths of both perspectives. It provides a system for discerning different types of anomalous phenomena rather than treating them as a uniform whole. The model suggests that human identity is both precious, unique, and eternal, as Swedenborg insisted, while also being part of a larger, more complex cosmic story of development, mercy, and purposeful service. It reframes the fundamental question from the simplistic "Do we reincarnate?" to the far more profound inquiry: "What is the purpose and nature of this particular incarnation?"—a question that holds deep meaning regardless of which path a soul may be traveling.
 
-## **Works Cited**
+## Works Cited
 
 **Primary Sources:**
 

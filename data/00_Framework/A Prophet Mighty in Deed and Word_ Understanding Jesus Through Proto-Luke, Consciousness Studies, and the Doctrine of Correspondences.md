@@ -480,8 +480,8 @@ Proto-Luke records two "resurrections": the widow's son at Nain (Luke 7:11-17) a
 
 Near-death experience data from 6,753 structured records (NDERF + IANDS) show a consistent pattern in the return to physical life:
 
-- **70-73%** of higher-order beings encountered (God, religious figures, Being of Light) provide guidance — often including the directive to return.
-- **29.5%** of deceased relatives specifically function as gatekeepers, communicating "it's not your time" or "you must go back."
+- **78–81%** of the experiences with a higher-order being (God, Jesus, religious figures, angels) include guidance, and with a Being of Light 85.1% — often including the directive to return.
+- **52.9%** of the experiences with a deceased relative end with the experiencer sent back by a being, the highest rate of any being type: relatives function as gatekeepers, communicating "it's not your time" or "you must go back."
 - The return is typically unwilling. The experiencer does not want to leave.
 - A being perceived as having authority commissions the return — not by force, but by communication that the person's mission is incomplete, that dependents need them, that the time has not come.
 

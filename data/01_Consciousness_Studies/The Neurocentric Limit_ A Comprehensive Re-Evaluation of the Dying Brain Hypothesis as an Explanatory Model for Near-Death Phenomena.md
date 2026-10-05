@@ -305,7 +305,7 @@ The persistence of these anomalies suggests that the Dying Brain Hypothesis is a
 
 To continue to assert the Dying Brain Hypothesis as the *only* valid scientific explanation is to engage in a form of dogma that prioritizes theory over evidence. The scientific method demands that when a hypothesis is repeatedly falsified by the data (as in the case of veridical perception and SDEs), it must be revised or discarded. The study of NDEs stands at the threshold of a post-materialist paradigm, requiring a new science of consciousness that can accommodate the continuity of the self beyond the bounds of the biological machine.
 
-## **Works Cited**
+## Works Cited
 
 **Primary Sources:**
 

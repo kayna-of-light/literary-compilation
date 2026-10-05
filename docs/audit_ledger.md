@@ -55,10 +55,13 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > Older: the dead Drive report cited by four `07` documents; the GCSU undergraduate paper (*The Apostle of the
 > Archons*, 04, entry 49).
 >
-> **Dataset note**: "met by beings" is 34.6% (2,334) in *Ontological Transition* but tonight's reproducible measure is
-> arrival `greeting_types` ∈ {spiritual_beings, deceased_loved_ones, unidentified_presence} = 2,142 (31.7%), solitary
-> 104; deceased relatives anywhere (`world_of_spirits.encounters.deceased_relatives` named/unnamed) = 1,206 (17.9%). The
-> 2,334 could not be reproduced from any field combination tried; state the field when reusing either.
+> **Dataset note — two "met by beings" measures, both correct, not interchangeable.** *Ontological Transition*'s 2,334
+> (34.6%) = arrival `greeting_types` ∋ `deceased_loved_ones` or `spiritual_beings`, OR `light_encounter ==
+> being_of_light`, OR `world_of_spirits.encounters.deceased_relatives` ∈ {named, unnamed} — exactly "met by deceased
+> loved ones, spiritual beings or a Being of Light" (the only field combination that yields 2,334; traced 2026-10-05).
+> *Unfolding of the Seed*'s 2,142 (31.7%) = arrival `greeting_types` ∋ `spiritual_beings`, `deceased_loved_ones` or
+> `unidentified_presence`, set against `solitary_arrival` 104 — the moment of arrival only. Deceased relatives anywhere =
+> 1,206 (17.9%). When reusing any of these, name the measure in the sentence.
 >
 > **Awaiting external answers** (open): nothing new tonight. Older: the four 2026-10-01 questions (*TCR* §126
 > "quiesced"; epigenesis/preformation; the Japanese Amida NDE source; the *TCR* §103 Latin); Arvind/Bibi/Santosh
@@ -261,7 +264,7 @@ The night's finding is structural, not a citation slip. The document's third dat
 
 The Swedenborg passages were the second class: three quotations were blog or Foundation paraphrases, and §440 was blended into §449. A sentence saying Swedenborg "is less specific about the experiential mechanism" of self-revelation was false of record — HH §§462b–463 describe the memory review at length — and the correction strengthens the document's convergence argument rather than weakening it. The NDE prevalence words were tested on the coded dataset; as last night, the data confirm the character and correct the prevalence.
 
-No research questions were needed. One dataset discrepancy is recorded in the handoff (the 2,334 "met by beings" figure).
+No research questions were needed. One apparent dataset discrepancy was left open at the end of the run and reported as "none" — wrongly; the author flagged it. Traced the next day (2026-10-05): *Ontological Transition*'s 2,334 is the union of arrival greeting by deceased loved ones or spiritual beings, a Being of Light, and deceased relatives anywhere in the account — exactly what its sentence says. Not an error; a different measure from tonight's 2,142 (arrival only, including unidentified presence). Lesson: an unreproduced number is an open question until traced, never "none"; search field unions systematically (itertools over candidate indicators) before calling a figure irreproducible.
 
 ### 2026-10-04 (follow-up): the seven *Ontological Transition* items resolved, the thesis refined on the data
 

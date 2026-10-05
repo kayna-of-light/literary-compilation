@@ -2255,69 +2255,11 @@ A critical implication follows that has not yet been tested: **the canonical Gos
 
 ---
 
-### [NDE] Re-run entity-role, guidance-function, and return-facilitation analysis against the current (January 2026) schema
 
-**Target**: `[NDE]`
-**Status**: Open
-**Date Added**: 2026-09-21
-**Priority**: MEDIUM
-**Related Document**: `data/01_Consciousness_Studies/NDE Statistical Analysis_ Entity Roles and Correspondential Patterns.md`
 
-**Context**:
-`NDE Statistical Analysis_ Entity Roles and Correspondential Patterns.md` (December 2025) reports entity-role, guidance-function, return-facilitation, passage-type, and canonical-sequence statistics from a dataset snapshot (n=6,739) and script (`projects/nde/scripts/entity_role_analysis.py`) that `structured-data-analysis` has since superseded. The dataset was fully re-extracted in January 2026 (n=6,753, GPT-5.2) under a revised Pydantic questionnaire schema — the categorical fields the old script and this document's tables depend on (`guidance_level`, `communication_mode` singular, `return_choice`, `light_encounter` as a list) no longer exist in that form; the current equivalents are `guidance_received` (yes/no) + `guidance_types` (list), `communication_modes` (list), `return_agency`/`return_willingness`/`return_reasons`, and `light_encounter` (single value). `entity_role_analysis.py` was never updated for the new schema and reads from an `output/analysis/` directory that is not checked into the repository, so it cannot currently be run at all.
+### [NDE] Entity roles on the current schema — resolved 2026-10-05
 
-One overlapping scope is already covered by a validated current analysis: `data/01_Consciousness_Studies/The Being of Light_ A Statistical Analysis of Near-Death Experience Phenomenology.md` gives current being-identification and light-encounter figures (n=6,753, January 2026). It does not cover the broader entity-role questions this document addresses: functional differentiation of guidance and return facilitation by being type, passage-type-to-belonging convergence, canonical sequence adherence, and stage-element frequency.
-
-**Research Question**:
-1. Update (or rewrite) `structured-data-analysis/projects/nde/scripts/entity_role_analysis.py` to read the current schema's field names from `projects/nde/structured/*.json` (the checked-in extraction output), replacing the stale `output/analysis/` dependency.
-2. Define principled mappings from the current fields to the functional categories the December 2025 document used — in particular, whether `guidance_received`/`guidance_types` should collapse into a significant/comfort/none distinction (and how), and whether `return_agency` (self/external_being/mutual/involuntary) is the right proxy for "told to return" vs. "chose to return" vs. "involuntary," or whether `return_willingness` is more appropriate for some of the document's claims. This mapping is an analysis-design decision, not something the nightly audit should invent unilaterally.
-3. Re-run the being-identification, guidance-function, return-facilitation, passage-type-to-belonging, light-form-to-guidance, cultural-filter, canonical-sequence, and stage-element-frequency analyses against the current n=6,753 dataset.
-4. Update `NDE Statistical Analysis_ Entity Roles and Correspondential Patterns.md` (or write a superseding document, per corpus convention) with the current figures once the re-run above exists.
-
-**Propagation surface** (traced 2026-09-22 — the December 2025 entity-role figures are not confined to one document; whatever the re-run produces has to be carried into all of these):
-
-- `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry...md` § "Entity function differentiation" — reproduces the guidance/comfort cross-tabulation verbatim (God 73.4%/21.7%, Jesus 70.0%/24.3%, Religious Figure 69.3%/24.7%, Angels 67.6%/27.0%, Deceased Relative 60.0%/33.3%, Unknown Presence 54.5%/36.4%) plus a "Told to Return" column, and builds the anti-Jungian argument on it.
-- `data/00_Master_Theses/The Seed and the Sun...md` — cites "6,739 NDE records", the 70–73% / 60.0% / 54.5% guidance spread, 33.3% comfort, 29.5% gatekeeping, and χ² = 41.13, p = 0.008, in both the body and the framework-predictions summary table.
-- `data/00_Framework/A Prophet Mighty in Deed and Word...md` — cites the 29.5% deceased-relative gatekeeper figure.
-- `data/00_Framework/The Threefold Path of the Soul...md` — cites the 6,739 total.
-
-Two of these are `00_Framework`/`00_Master_Theses` documents, so this is the highest-leverage propagation surface in the corpus for this statistic set.
-
----
-
-### [NDE] Two traced discrepancies in the entity-role "told to return" figures across three documents
-
-**Target**: `[NDE]`
-**Status**: Open
-**Date Added**: 2026-09-22
-**Priority**: MEDIUM
-**Related Documents**:
-- `data/01_Consciousness_Studies/NDE Statistical Analysis_ Entity Roles and Correspondential Patterns.md` (§ I.D, "Return Choice by Being Type")
-- `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on Hypothesis-Testing with the Swedenborgian Framework.md` (§ "Entity function differentiation")
-- `data/00_Master_Theses/The Seed and the Sun_ A Statistical and Phenomenological Investigation into the Architecture of Consciousness, the Paths of the Soul, and the Dissolution of the Hard Problem.md`
-
-**Context**:
-Found while tracing where the December 2025 entity-role statistics travel. No edit was made to any of these documents — two of the three have not been read in full by the audit, and the December 2025 extraction run is not reproducible from what is committed to `structured-data-analysis`, so neither discrepancy can be settled from the repository as it stands.
-
-**Discrepancy 1 — the "Told to Return" column disagrees between two documents.** `The Epistemic Architecture` reproduces `NDE Statistical Analysis`'s guidance and comfort columns *exactly* (to the decimal, all six rows), which is strong evidence both derive from the same run. But its third column, "Told to Return", matches on only one row:
-
-| Being | `NDE Statistical Analysis` § I.D | `The Epistemic Architecture` |
-|---|---|---|
-| God | 25.1% | 30.7% |
-| Jesus | 28.5% | 29.0% |
-| Religious figure | 30.7% | 28.5% |
-| Angels | 22.2% | 25.8% |
-| Deceased relative | 29.5% | 29.5% |
-| Unknown presence | 19.2% | 18.7% |
-
-Note that God/Religious figure look transposed (25.1↔30.7 against 30.7↔28.5), which is consistent with a row misalignment when the table was carried over — but that is a hypothesis, not a finding. It is equally possible the two columns are different cuts of the return variable (e.g. one folding "reluctant return" in, or using a different denominator). **Which document is correct cannot be determined without the underlying run.**
-
-**Discrepancy 2 — a superlative contradicted by the table it derives from.** `The Seed and the Sun` states that deceased relatives' 29.5% "told to return" rate is "**the highest rate of any being category**." On `NDE Statistical Analysis`'s own table, religious figures (specified) are higher at 30.7%, making deceased relatives second. If `The Epistemic Architecture`'s column is the correct one instead, the superlative is still wrong (God 30.7% would be highest there). On either document's numbers the claim does not hold — though the *argument* it supports (relatives gatekeep more than higher beings do, proportionally to their guidance role) is unaffected either way, and both other documents make that narrower claim correctly.
-
-**Research Question**:
-1. From the re-run in the question above (or from any surviving record of the December 2025 run), establish the correct "told to return" rate by being type, and determine which of the two published columns is right — or whether they measure different things, in which case each document needs its column labelled for what it actually is.
-2. Confirm whether "highest rate of any being category" in `The Seed and the Sun` should read "the highest rate among non-religious-figure categories", "second only to religious figures", or simply be narrowed to the comparison the surrounding argument actually needs (relatives vs. higher beings). This is a one-clause correction once the figures are settled, but it sits in a `00_Master_Theses` document and should be the author's call, not an audit's.
-3. Whichever way it resolves, apply the result across the full propagation surface listed in the question above.
+**Status**: ✅ RESOLVED (moved to `docs/resolved_research_questions.md`, four questions: the entity-role re-run, the two "told to return" discrepancies, the retired-variables note, and the *Epistemic Architecture* § 3.2.1 Jesus ratio).
 
 ---
 
@@ -2325,65 +2267,7 @@ Note that God/Religious figure look transposed (25.1↔30.7 against 30.7↔28.5)
 
 ---
 
-### [NDE] The December 2025 entity-role variables no longer exist in the schema — a "re-run" is an analysis-design decision, not a recomputation
 
-**Priority**: HIGH — this determines what the two open questions above can and cannot be answered with
-**Related Documents**:
-- `data/01_Consciousness_Studies/NDE Statistical Analysis_ Entity Roles and Correspondential Patterns.md`
-- `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ A Methodological Thesis on Hypothesis-Testing with the Swedenborgian Framework.md` (§ 3.2.2)
-- `data/00_Master_Theses/The Seed and the Sun_ ... Dissolution of the Hard Problem.md` (§ 4.2)
-- `data/00_Framework/The Threefold Path of the Soul_ ...` (source of the N=6,739 figures)
-
-**Context**:
-Both documents in the 2026-09-22 audit batch were read in full, which was the blocker the previous run recorded. Reading them does not settle the "Told to Return" discrepancy, and it is now possible to say exactly why.
-
-The December 2025 entity-role cross-tabulation was computed from fields that the January 2026 re-extraction **removed**. `projects/nde/scripts/entity_role_analysis.py` reads `guidance_level`, `return_choice`, `communication_mode` and `religious_affiliation`. None of those keys appear in any of the 6,753 current structured records. The current schema has instead:
-
-| Retired field | Current replacement | Why this is not a rename |
-|---|---|---|
-| `guidance_level` (single categorical: `significant_guidance` / `comfort_or_reassurance` / …) | `guidance_received` (yes/no/not_mentioned) **plus** `guidance_types` (multi-select list, `comfort` one of six options) | Guidance and Comfort were **mutually exclusive** categories of one variable — which is why the published rows sum to 90–95%. They are now independent, and a single record can carry both. The two published columns cannot be reproduced as a partition. |
-| `return_choice` (single categorical) | `return_agency` / `return_willingness` / `return_reasons` (three fields) | "Told to return" has no single successor; it could map to `return_agency = external_being`, to `return_reasons` containing `not_your_time`, or to a combination. |
-| `religious_affiliation` | `religious_background` / `religious_belief_at_nde` | The old field did not distinguish background from belief at the time of the NDE. |
-
-**Research Question**:
-1. Decide, as an analysis-design choice, how Guidance / Comfort / Told-to-Return should be operationalised under the current schema — and record that choice, because it is not recoverable from the old figures.
-2. Re-run the cross-tabulation under that definition, and state plainly in whatever document carries the result that it is **a new measurement**, not a correction of the December 2025 one.
-3. Only then settle the two questions above (which published column is right; whether the 29.5% superlative in *The Seed and the Sun* holds).
-
-**Note for whoever picks this up**: a large majority of the NDE statistics in *The Seed and the Sun* were checked against the current 6,753 records during this audit and reproduce **exactly** — 11.8% / 40.9% light encounter, the 3.8:1 impersonal-to-personified ratio, 623 (9.2%) earthly-mission returns, 17.9% deceased relatives (14.9% named / 2.9% unnamed), 17.5% life review (10.6% brief / 6.9% extensive), judgment sources 1.4% / 2.3% / 3.0%, 49.4% reluctant on n=3,563, 70.1% not returning by own choice, the return-reason counts 1,459 / 1,164 / 711 / 623, identity continuity 64.8% / 1.4% / 0.6% / 33.2%, 84.7% Christian among those with identified religion, and every cell of Appendix C (which sums to 6,753 exactly). The staleness is **specific to the entity-role block and the figures inherited at N=6,739**, not general to the document.
-
-**Status**: Open
-
----
-
-### [NDE] *The Epistemic Architecture* § 3.2.1 — the "2.6 times more likely" ratio and the 14.9% / 5.7% pair do not come from the same measurement
-
-**Priority**: MEDIUM
-**Related Document**: `data/02_Swedenborgian_Theology/The Epistemic Architecture of Post-Materialist Inquiry_ ...md` § 3.2.1
-
-**Context**:
-The document states: "Christians are 2.6 times more likely to identify the Being as 'Jesus' than non-Christians (14.9% vs. 5.7%)." Traced to `structured-data-analysis` → `projects/nde/notebooks/archive/light_being_analysis.ipynb` (the December 2025 run). The notebook's own table reads:
-
-| Religion | N | God | Jesus | Religious Figure | Unknown Presence |
-|---|---|---|---|---|---|
-| not_mentioned | 4,437 | 6.1% | 4.1% | 2.1% | 20.1% |
-| christian | 1,192 | 11.8% | **14.9%** | 4.9% | 23.2% |
-| other | 652 | 7.8% | 3.8% | 5.5% | 26.1% |
-| atheist_agnostic | 296 | 4.7% | 4.7% | 2.0% | 23.0% |
-| spiritual_not_religious | 55 | 5.5% | 3.6% | 0.0% | 30.9% |
-
-So 14.9% is right for Christians naming Jesus. But the pooled non-Christian Jesus rate is 221/5,440 = **4.1%**, not 5.7%, giving a ratio of about **3.7×**. The notebook's own headline — "Christians are 2.6x more likely to identify **Christian figures**" — is computed over God **and** Jesus combined (26.8% vs 10.3% = 2.61×). The sentence as published attaches the God+Jesus ratio to Jesus alone, and pairs it with a percentage pair that reproduces 2.61 arithmetically (14.9/5.7) but that does not correspond to any row of the source table. No 5.7% non-Christian Jesus rate exists in the data.
-
-**No edit was made.** Restating this correctly means choosing which measure the argument wants, which is an authorial decision, and the underlying `religious_affiliation` field has since been retired (see the question above), so it cannot simply be recomputed.
-
-**This finding does not weaken the section's argument.** The paragraph's own point is that the cultural-mediation statistic "tells us about the experiencer's mental repertoire, not about the Being," and that the critical finding is the *constancy* of experiential properties. A ratio of 3.7× rather than 2.6× is a **larger** cultural-mediation effect — which the document concedes rather than relies on. The χ² = 365.14, the 51.9% "unknown presence" figure, and the 44.2% of Christians choosing "unknown presence" were all verified correct against the companion repo's Being of Light report.
-
-**Research Question**:
-Which measure should the sentence report — Christians vs. non-Christians on *Jesus* (14.9% vs 4.1%, ≈3.7×), or on *Christian figures* God+Jesus (26.8% vs 10.3%, ≈2.6×)? Restate accordingly, and check whether the same sentence has been carried into any other document.
-
-**Status**: Open
-
----
 
 
 ### [GDR] Swedenborg edition dates: is there a Dole translation from 1984 (*Heaven and Hell*) or 1988 (*Divine Love and Wisdom*)?

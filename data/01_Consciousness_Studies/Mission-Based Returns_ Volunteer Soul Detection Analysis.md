@@ -4,7 +4,7 @@
 
 Near-death experience research has documented a subset of experiencers who report returning for an "earthly mission" rather than for family obligations, timing, or personal choice. The Swedenborgian framework proposes that such mission-based returns represent a distinct phenomenological category—souls who incarnate for specific spiritual purposes. Whether this represents a genuine distinction or retrospective meaning-making remains untested.
 
-We analyzed 6,753 structured NDE records from NDERF (n=5,664) and IANDS (n=1,089) coded using GPT-5.2 for return reason, mission commission, volunteer language, pre-birth indicators, and multiple phenomenological features. A binary "Volunteer Detection" approach was employed rather than categorical soul path classification, recognizing the methodological limits of what NDE data can reveal about soul origins.
+We analyzed 6,753 structured NDE records from NDERF (n=5,660) and IANDS (n=1,093) coded using GPT-5.2 for return reason, mission commission, volunteer language, pre-birth indicators, and multiple phenomenological features. A binary "Volunteer Detection" approach was employed rather than categorical soul path classification, recognizing the methodological limits of what NDE data can reveal about soul origins.
 
 Volunteer markers were detected in 695 cases (10.3%). The "earthly mission" return reason achieved extraordinary discriminant validity: 94.2% of mission-returners reported explicit mission commissioning versus 29.8-60.1% in other return categories. Pre-birth indicators showed dramatic elevation in cases with volunteer language: incarnation choice 35.8 times higher, pre-birth realm description 22.3 times higher, premortal existence information 10.6 times higher. Chi-square tests confirmed highly significant associations across all key variables (p < 0.0001).
 
@@ -16,8 +16,8 @@ Mission-based returns represent a statistically distinct phenomenological catego
 
 | Item | Source | Access |
 |------|--------|--------|
-| NDERF Records (n=5,664) | Near-Death Experience Research Foundation | [nderf.org](https://nderf.org) |
-| IANDS Records (n=1,089) | International Association for Near-Death Studies | [iands.org](https://iands.org) |
+| NDERF Records (n=5,660) | Near-Death Experience Research Foundation | [nderf.org](https://nderf.org) |
+| IANDS Records (n=1,093) | International Association for Near-Death Studies | [iands.org](https://iands.org) |
 | Analysis Code | `03_volunteer_soul_profile.ipynb` | [Repository](https://github.com/kayna-of-light/structured-data-analysis/tree/main/projects/nde/notebooks/03_volunteer_soul_profile.ipynb) |
 | Structured Data | `structured/*.json` | [Repository](https://github.com/kayna-of-light/structured-data-analysis/tree/main/projects/nde/structured/) |
 | Extraction Model | GPT-5.2 via Azure OpenAI | Azure OpenAI Service |
@@ -60,7 +60,7 @@ This analysis tests whether mission-based return constitutes a coherent phenomen
 
 ### 2.1 Data Sources
 
-The analysis employed 6,753 records from two major NDE databases: 5,664 from the Near-Death Experience Research Foundation (NDERF) and 1,089 from the International Association for Near-Death Studies (IANDS). Both corpuses were selected because their questionnaires elicit detailed information about return circumstances, mission experiences, and pre-birth awareness that enables the specific analyses required.
+The analysis employed 6,753 records from two major NDE databases: 5,660 from the Near-Death Experience Research Foundation (NDERF) and 1,093 from the International Association for Near-Death Studies (IANDS). Both corpuses were selected because their questionnaires elicit detailed information about return circumstances, mission experiences, and pre-birth awareness that enables the specific analyses required.
 
 ### 2.2 Coding Scheme
 
@@ -198,7 +198,7 @@ Theoretically, the data are consistent with the Volunteer Soul hypothesis withou
 
 ### 4.7 Limitations
 
-Several limitations warrant acknowledgment. The analysis used two databases (NDERF n=5,664, IANDS n=1,089); replication with additional sources would strengthen confidence. Self-report bias may affect mission language—it is a meaningful narrative that experiencers might be motivated to adopt. The Western sample limits generalizability; non-Western concepts of mission and volunteering may differ significantly. AI extraction may introduce systematic biases in how volunteer-related content is coded. And binary detection misses gradations and mixed profiles that may exist in the experiencer population.
+Several limitations warrant acknowledgment. The analysis used two databases (NDERF n=5,660, IANDS n=1,093); replication with additional sources would strengthen confidence. Self-report bias may affect mission language—it is a meaningful narrative that experiencers might be motivated to adopt. The Western sample limits generalizability; non-Western concepts of mission and volunteering may differ significantly. AI extraction may introduce systematic biases in how volunteer-related content is coded. And binary detection misses gradations and mixed profiles that may exist in the experiencer population.
 
 ### 4.8 Future Directions
 
@@ -224,7 +224,7 @@ Atwater, P. M. H. (2007). *The Big Book of Near-Death Experiences*. Hampton Road
 
 Newton, M. (1994). *Journey of Souls: Case Studies of Life Between Lives*. Llewellyn Publications.
 
-Ohkado, M. (2017). Children with life-between-life memories. *Journal of Scientific Exploration*, 31(2), 217-228.
+Ohkado, M., & Ikegawa, A. (2014). Children with life-between-life memories. *Journal of Scientific Exploration*, 28(3), 477–490.
 
 Ring, K. (1998). *Lessons from the Light: What We Can Learn from the Near-Death Experience*. Perseus Books.
 
@@ -245,8 +245,8 @@ Ring, K. (1998). *Lessons from the Light: What We Can Learn from the Near-Death 
 | Metric | Value |
 |--------|-------|
 | Total NDEs analyzed | 6,753 |
-| NDERF records | 5,664 |
-| IANDS records | 1,089 |
+| NDERF records | 5,660 |
+| IANDS records | 1,093 |
 | Volunteer markers detected | 695 (10.3%) |
 | Mission commission rate (earthly mission) | 94.2% |
 | Pre-birth awareness rate | 7.6% |

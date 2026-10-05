@@ -4,7 +4,7 @@
 
 Near-death experiences are often described as following a characteristic sequence—passage through darkness or tunnel, arrival in a realm of light, encounter with beings, life review, and return decision. Whether this sequence reflects a genuine structural pattern or post-hoc narrative reconstruction remains debated. The Swedenborgian framework proposes a specific normative path: most souls continue to permanent spiritual existence, with reincarnation representing an exceptional rather than universal pattern.
 
-We analyzed 6,753 NDE records from NDERF (n=5,664) and IANDS (n=1,089) coded for return patterns, being encounters, life review characteristics, and transformation markers using GPT-5.2 structured extraction with a Pydantic schema containing 52 extracted features.
+We analyzed 6,753 NDE records from NDERF (n=5,660) and IANDS (n=1,093) coded for return patterns, being encounters, life review characteristics, and transformation markers using GPT-5.2 structured extraction with a Pydantic schema containing 52 extracted features.
 
 Among experiencers with willingness data, 49.4% were reluctant to return—suggesting the spiritual realm is genuinely preferable to earthly existence. Deceased relatives were encountered in 17.9% of cases, a finding with significant implications: if reincarnation were normative, these relatives would not be available for encounters. Reincarnation indicators proved rare across the corpus—past life memory 4.4%, intermission memory 1.0%, pre-incarnation covenant 1.3%—consistent with reincarnation as exception rather than rule. Life review occurred in 17.5% of cases with loving judgment vastly exceeding harsh judgment (15.9:1 ratio).
 
@@ -16,8 +16,8 @@ Four markers support the Normative Path Hypothesis: experiencer reluctance to le
 
 | Item | Source | Access |
 |------|--------|--------|
-| NDERF Records (n=5,664) | Near-Death Experience Research Foundation | [nderf.org](https://nderf.org) |
-| IANDS Records (n=1,089) | International Association for Near-Death Studies | [iands.org](https://iands.org) |
+| NDERF Records (n=5,660) | Near-Death Experience Research Foundation | [nderf.org](https://nderf.org) |
+| IANDS Records (n=1,093) | International Association for Near-Death Studies | [iands.org](https://iands.org) |
 | Analysis Code | `02_normative_path_validation.ipynb` | [Repository](https://github.com/kayna-of-light/structured-data-analysis/tree/main/projects/nde/notebooks/02_normative_path_validation.ipynb) |
 | Structured Data | `analysis/*.json` | [Repository](https://github.com/kayna-of-light/structured-data-analysis/tree/main/projects/nde/analysis/) (6,753 files) |
 | Extraction Model | GPT-5.2 via Azure OpenAI | Azure OpenAI Service |
@@ -52,7 +52,7 @@ This analysis tests whether NDE phenomenology supports continuation as the norma
 
 ### 2.1 Data Sources
 
-Records were collected from two major NDE archives: the Near-Death Experience Research Foundation (NDERF), contributing 5,664 records, and the International Association for Near-Death Studies (IANDS), contributing 1,089 records. The combined corpus of 6,753 records enables robust statistical analysis while spanning diverse experiencer demographics and NDE contexts.
+Records were collected from two major NDE archives: the Near-Death Experience Research Foundation (NDERF), contributing 5,660 records, and the International Association for Near-Death Studies (IANDS), contributing 1,093 records. The combined corpus of 6,753 records enables robust statistical analysis while spanning diverse experiencer demographics and NDE contexts.
 
 ### 2.2 Return Pattern Extraction
 
@@ -216,8 +216,8 @@ Swedenborg, E. (1758). *Heaven and Hell* (G. F. Dole, Trans.). Swedenborg Founda
 | Metric | Value |
 |--------|-------|
 | Total NDEs analyzed | 6,753 |
-| NDERF records | 5,664 |
-| IANDS records | 1,089 |
+| NDERF records | 5,660 |
+| IANDS records | 1,093 |
 | Return not by choice | 70.1% |
 | Reluctant to return | 49.4% |
 | Deceased relatives present | 17.9% |

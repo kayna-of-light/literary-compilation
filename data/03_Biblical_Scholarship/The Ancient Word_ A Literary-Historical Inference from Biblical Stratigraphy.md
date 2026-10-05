@@ -325,7 +325,7 @@ The question is no longer "Did an Ancient Word exist?" but "How much of it can w
 
 ---
 
-## **Works Cited**
+## Works Cited
 
 [^swedenborg-aw]: Swedenborg, Emanuel. *Arcana Coelestia* §§ 66, 2897, 10248. Swedenborg Foundation.
 

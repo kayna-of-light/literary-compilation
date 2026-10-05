@@ -119,7 +119,7 @@ This "Gnostic framework" is "very inconsistent". The data confirms it is a "corn
 This inconsistency is not a flaw in its system; it *is* the system. The "Path of Self-Appropriation" is a "Babel" of conflicting cosmologies whose *only* unifying, coherent feature is its *structure*: the self claiming what flows through it as its own possession, status, or elevation. This structure can operate under any name and produces cosmological multiplication in every case.  
 This framework also clarifies the NDE data itself. The overwhelmingly positive NDEs are not a *survey* of the general state of humanity, but are "biased towards the message"—a form of divine influx given to "guides of light" to "ignite change". The "hellish" NDEs, like Pittman's, are the *diagnosis* of the general state: a "correspondial vision" of a world dominated by the "97.5%" (Pittman 1983; Williams n.d.) who follow the *self* of "faith alone" and "actively cut off the divine".
 
-## **VII. Works Cited**
+## VII. Works Cited
 
 **Primary Sources:**
 

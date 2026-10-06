@@ -8,7 +8,7 @@
 
 ## Abstract
 
-This study presents the first large-scale empirical analysis of soul origin markers in near-death experience (NDE) accounts, testing the **Threefold Path Model** proposed in the framework's synthesized cosmology. Using AI-assisted structured extraction from 6,753 NDE narratives, we identify statistical patterns consistent with three distinct soul pathways: **Volunteer** (mission-oriented first incarnation), **Restorative** (cyclic return following trauma), and **Ohkado** (pre-birth awareness without trauma markers). The data strongly support a multi-path model of soul origins, with highly significant chi-square statistics (p < 10⁻²⁷³) distinguishing these populations across multiple independent variables.
+This study presents the first large-scale empirical analysis of soul origin markers in near-death experience (NDE) accounts, testing the **Threefold Path Model** proposed in the framework's synthesized cosmology. Using AI-assisted structured extraction from 6,753 NDE narratives, we identify statistical patterns consistent with three distinct soul pathways: **Volunteer** (mission-oriented first incarnation), **Restorative** (cyclic return following trauma), and **Ohkado** (pre-birth awareness without trauma markers). The data strongly support a multi-path model of soul origins, with highly significant chi-square statistics (p < 10⁻⁹⁴ for every variable tested, and p < 10⁻²⁷² for four of the five) distinguishing these populations across multiple independent variables.
 
 ---
 
@@ -16,13 +16,13 @@ This study presents the first large-scale empirical analysis of soul origin mark
 
 ### 1.1 Theoretical Background
 
-The framework's **Threefold Path of the Soul** model (CONSC-014) proposes that souls incarnate through distinct pathways:
+The framework's **Threefold Path of the Soul** model (*The Threefold Path of the Soul: A Synthesized Cosmology*) proposes that souls incarnate through distinct pathways:
 
 1. **Restorative Path**: Souls returning to physical incarnation following prior physical existence, typically marked by traumatic death memories, past-life recall, and intermission-period experiences.
 
 2. **Volunteer Path**: Souls incarnating for the first time with a pre-determined mission, characterized by explicit mission language, sense of earthly "assignment," and absence of cyclic reincarnation markers.
 
-3. **Ohkado Pattern**: Named after Japanese researcher Ohkado Masayuki's "reverse cases," souls demonstrating pre-birth realm awareness (premortal existence, incarnation choice, spiritual home identification) WITHOUT the trauma markers that characterize the Restorative path—suggesting potential first incarnations.
+3. **Ohkado Pattern**: Named after the "reverse cases" of Japanese researcher Ohkado Masayuki—children with life-between-life memories but no past-life memories (Ohkado and Ikegawa 2014)—souls demonstrating pre-birth realm awareness (premortal existence, incarnation choice, spiritual home identification) WITHOUT the trauma markers that characterize the Restorative path—suggesting potential first incarnations.
 
 ### 1.2 Research Questions
 
@@ -65,7 +65,7 @@ A comprehensive Pydantic schema was developed to capture the full dimensionality
 
 ### 2.3 Classification Criteria
 
-**Volunteer Path** (all conditions met):
+**Volunteer Path** (any of the first three conditions, and no trauma markers):
 - `volunteer_language` = yes_explicit OR implied, OR
 - `return_reason` = earthly_mission, OR
 - (`mission_commissioned` = yes_explicit/implied AND `incarnation_choice` = chose_mission/chose_both)
@@ -120,11 +120,11 @@ The **WHY** of return proved to be the most discriminating variable:
 
 **Critical Finding**: The `earthly_mission` return reason has a **94.6% mission commission rate** versus 5.8-29.5% for all other categories. This confirms the hypothesis that the **reason** for return, not the **mechanism** (told vs. chose), is the true discriminant.
 
-Chi-square test: χ² = 2,845.61, p < 10⁻³⁰⁰
+Chi-square test (return reason × mission commissioned): χ² = 2,845.61, df = 15, p < 10⁻³⁰⁰
 
 ### 3.3 Volunteer Language Analysis
 
-Explicit volunteer language ("I volunteered to come," "I chose this life") appeared in only **35 cases (0.52%)** of the total dataset. However, these cases showed dramatically elevated rates of pre-birth indicators:
+Volunteer language ("I volunteered to come," "I chose this life") appeared in only **35 cases (0.52%)** of the total dataset: 16 explicit and 19 implied. However, these cases showed dramatically elevated rates of pre-birth indicators:
 
 | Pre-Birth Indicator | Volunteer Language | Non-Volunteer | Ratio |
 |---------------------|-------------------|---------------|-------|
@@ -141,11 +141,11 @@ Restorative indicators (cyclic reincarnation markers) were rare:
 | Trauma Marker | Count | Percentage |
 |---------------|-------|------------|
 | Past Life Memory (yes_explicit/implied) | 249 | 3.7% |
-| Death Memory (yes_explicit/implied) | 0 | 0.0% |
-| Either marker | 249 | 3.7% |
-| Both markers | 0 | 0.0% |
+| Death Memory (prior death: violent 20, unspecified 16, natural 3) | 39 | 0.6% |
+| Either marker | 250 | 3.7% |
+| Both markers | 38 | 0.6% |
 
-**Note**: The death_memory extraction required memories of a *prior* death (before the NDE), not the NDE-triggering event itself. No cases explicitly reported memories of dying in a previous life.
+**Note**: The death_memory extraction required memories of a *prior* death (before the NDE), not the NDE-triggering event itself. Thirty-nine accounts carry such a memory; of the 23 that state how the earlier death came, 20 describe a violent one, and 38 of the 39 also recall a past life. The classification filter in §2.3 tested `death_memory` for yes_explicit/implied, values the field does not take, so the Restorative path as classified rests on past-life memory alone; the single death-memory account without past-life memory is the only record this affects.
 
 ### 3.5 Ohkado Pattern Deep Dive
 
@@ -157,11 +157,11 @@ The Ohkado pattern (pre-birth awareness without trauma) showed tiered intensity:
 | 2 indicators | 413 | 6.1% |
 | 3 indicators | 97 | 1.4% |
 | 4 indicators | 43 | 0.6% |
-| **5 indicators** | **9** | **0.13%** |
+| **5 indicators** | **3** | **0.04%** |
 
 **Total Ohkado candidates**: 2,125 (31.5% of dataset)
 
-The 9 "perfect" cases with all 5 pre-birth indicators represent the strongest empirical evidence for the Volunteer/first-incarnation hypothesis.
+Across the whole dataset, nine cases carry all five pre-birth indicators (Appendix B); three of them have no trauma markers and fall among the Ohkado candidates. These "perfect" cases represent the strongest empirical evidence for the Volunteer/first-incarnation hypothesis.
 
 ### 3.6 Statistical Validation
 
@@ -171,9 +171,9 @@ Chi-square tests for soul path × key variables:
 |----------|-----|---------|--------------|
 | return_reason | 6,586.5 | p < 10⁻³⁰⁰ | *** |
 | mission_commissioned | 2,621.3 | p < 10⁻³⁰⁰ | *** |
-| volunteer_language | 1,354.2 | p < 10⁻²⁸² | *** |
-| sense_of_belonging | 1,310.4 | p < 10⁻²⁷³ | *** |
-| comparative_reality | 482.7 | p < 10⁻⁹⁵ | *** |
+| volunteer_language | 1,354.2 | p < 10⁻²⁸¹ | *** |
+| sense_of_belonging | 1,310.4 | p < 10⁻²⁷² | *** |
+| comparative_reality | 482.7 | p < 10⁻⁹⁴ | *** |
 
 All key discriminant variables show highly significant associations with soul path classification.
 
@@ -197,7 +197,7 @@ The data provide strong empirical support for distinct soul pathways:
 
 2. **The Restorative Path is Rare but Distinct**: Only 197 cases (2.9%) show clear trauma markers (past-life memory) without volunteer indicators. This low rate may reflect:
    - Selection bias in NDE reporting (traumatic memories less likely to be shared)
-   - The SOCS filter identified in CONSC-047 (trauma-based DOPS cases overrepresent Restorative path)
+   - The Strength of Case Scale (SOCS) filter (*The Methodological Visibility of the Non-Cyclic Soul*: trauma-based DOPS cases overrepresent the Restorative path)
    - Genuine rarity of explicit past-life awareness in NDEs
 
 3. **The Ohkado Pattern is Prevalent**: 28.15% of NDErs show pre-birth awareness without cyclic trauma markers. This aligns with the framework's prediction that many souls may be on their first incarnation or have completed the Restorative cycle.
@@ -232,28 +232,28 @@ The 52 Hybrid cases (0.77%) showing both volunteer AND trauma markers present an
 
 ### 5.1 Correspondence to Framework Concepts
 
-| Empirical Category | Framework Concept | CONSC Node |
-|--------------------|-------------------|------------|
-| Volunteer Path | Volunteer Soul Hypothesis | CONSC-014 |
-| Restorative Path | Cyclic Return | CONSC-014 |
-| Ohkado Pattern | Ohkado Reverse Cases | CONSC-048 |
-| Trauma Markers | SOCS Selection Bias | CONSC-047 |
-| Return Reason Signal | - | NEW |
+| Empirical Category | Framework Concept | Source |
+|--------------------|-------------------|--------|
+| Volunteer Path | Volunteer Soul Hypothesis | *The Threefold Path of the Soul: A Synthesized Cosmology* |
+| Restorative Path | Cyclic Return | *The Threefold Path of the Soul: A Synthesized Cosmology* |
+| Ohkado Pattern | Ohkado Reverse Cases | Ohkado and Ikegawa 2014; *The Methodological Visibility of the Non-Cyclic Soul* §3.2 |
+| Trauma Markers | SOCS Selection Bias | *The Methodological Visibility of the Non-Cyclic Soul* |
+| Return Reason Signal | - | New (this analysis) |
 
 ### 5.2 New Framework Contributions
 
 This analysis contributes several refinements to the framework:
 
-1. **CONSC-051: Return Reason Discriminant**
+1. **Return Reason Discriminant**
    - The WHY of return (earthly_mission vs other) is the primary discriminant
    - The HOW of return (told vs chose) is noise
 
-2. **CONSC-052: Pre-Birth Indicator Hierarchy**
-   - `volunteer_language` is most predictive (74.9x ratio)
-   - `incarnation_choice` second (28.1x ratio)
+2. **Pre-Birth Indicator Hierarchy** (elevation among cases with `volunteer_language`)
+   - `incarnation_choice` is most elevated (74.9x ratio)
+   - `pre_birth_realm_description` second (28.1x ratio)
    - `premortal_existence_info` third (11.0x ratio)
 
-3. **CONSC-053: Population Distribution Estimate**
+3. **Population Distribution Estimate**
    - Volunteer: ~6%
    - Ohkado (potential first incarnation): ~28%
    - Restorative: ~3%
@@ -265,8 +265,8 @@ This analysis contributes several refinements to the framework:
 The finding that explicit trauma markers are rare (3.7%) while pre-birth awareness is common (31.5%) has implications for DOPS reincarnation research:
 
 - **SOCS Selection Bias Confirmed**: Case selection based on past-life *memory* (Stevenson/Tucker methodology) systematically filters FOR the Restorative path
-- **Ohkado Methodology Validated**: Searching for Veridical Pre-Birth statements (VPE) provides access to non-Restorative populations
-- **COPET Proposal Justified**: A Comprehensive Pre-Existence Typology would enable systematic study of all soul pathways
+- **Pre-Existence Methodology Validated**: Searching for life-between-life memories without past-life memories (Ohkado and Ikegawa 2014) and for veridical pre-existence memories (Rivas et al. 2015) provides access to non-Restorative populations
+- **COPET Proposal Justified**: A "Cases of the Pre-Existence Type" category independent of the reincarnation-type coding (*The Methodological Visibility of the Non-Cyclic Soul* §9) would enable systematic study of all soul pathways
 
 ---
 
@@ -316,10 +316,24 @@ These represent the strongest empirical examples of the Volunteer/first-incarnat
 
 ---
 
-## References
+## Works Cited
 
-- Ohkado, M. (2017). "A Study of Cases with Memories of a Previous Lifetime Suggestive of Reincarnation in Japan"
-- Stevenson, I. (1974). *Twenty Cases Suggestive of Reincarnation*
-- Tucker, J. (2005). *Life Before Life*
-- Van Lommel, P. (2010). *Consciousness Beyond Life*
-- Framework Sources: CONSC-014, CONSC-047, CONSC-048, CONSC-049, CONSC-050
+**Scholarly Works:**
+
+1. Ohkado, Masayuki, and Akira Ikegawa. "Children with Life-between-Life Memories." *Journal of Scientific Exploration* 28, no. 3 (2014): 477–490.
+2. Rivas, Titus, Elizabeth M. Carman, Neil J. Carman, and Anny Dirven. "Paranormal Aspects of Pre-Existence Memories in Young Children." *Journal of Near-Death Studies* 34, no. 2 (2015): 84–107. https://doi.org/10.17514/JNDS-2015-34-2-p84-107.
+3. Stevenson, Ian. *Twenty Cases Suggestive of Reincarnation*. 2nd ed., rev. and enl. Charlottesville: University Press of Virginia, 1974.
+4. Tucker, Jim B. *Life Before Life: A Scientific Investigation of Children's Memories of Previous Lives*. New York: St. Martin's Press, 2005.
+5. van Lommel, Pim. *Consciousness Beyond Life: The Science of the Near-Death Experience*. New York: HarperOne, 2010.
+
+**Internal Library Documents:**
+
+6. [Mission-Based Returns: Volunteer Soul Detection Analysis](Mission-Based%20Returns_%20Volunteer%20Soul%20Detection%20Analysis.md). The same return-reason, volunteer-language and pre-birth measures re-run on the January 2026 extraction schema.
+7. [The Methodological Visibility of the Non-Cyclic Soul: An Exhaustive Audit of Selection Artifacts in Reincarnation Research](The%20Methodological%20Visibility%20of%20the%20Non-Cyclic%20Soul_%20An%20Exhaustive%20Audit%20of%20Selection%20Artifacts%20in%20Reincarnation%20Research.md). The SOCS selection-bias argument, Ohkado's reverse cases in the DOPS context, and the COPET proposal.
+8. [The Threefold Path of the Soul: A Synthesized Cosmology of Life, Death, and Purpose](../00_Framework/The%20Threefold%20Path%20of%20the%20Soul_%20A%20Synthesized%20Cosmology%20of%20Life%2C%20Death%2C%20and%20Purpose.md). The Volunteer and Restorative paths this analysis tests.
+
+**Data Sources:**
+
+9. IANDS (International Association for Near-Death Studies). 1,093 NDE accounts. Analyzed in the structured-data-analysis project (projects/nde/).
+10. NDERF (Near Death Experience Research Foundation). 5,660 NDE accounts. Analyzed in the structured-data-analysis project (projects/nde/).
+11. structured-data-analysis, NDE project. Notebooks `archive/volunteer_discriminant_analysis.ipynb` (soul-path classification, return-reason, volunteer-language and trauma-marker analyses) and `archive/ohkado_pattern_analysis.ipynb` (Ohkado candidate tiers). https://github.com/kayna-of-light/structured-data-analysis/tree/main/projects/nde/notebooks/archive.

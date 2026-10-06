@@ -161,7 +161,7 @@ This thesis draws on:
 
 **Historical scholarship.** Walter Bauer's reconstruction of early Christian diversity. The New Marcionite Paradigm (Klinghardt, BeDuhn, Vinzent). Documentary evidence of Rome's displacement of native Christianities in Egypt, Edessa, and Asia Minor. The forensic identification of forged documents (the Pastoral Epistles, the Doctrine of Addai).
 
-**Empirical data.** Near-death experience phenomenology from 6,753 structured records, demonstrating that the experience of encountering a transcendent loving presence is constant across cultures — perceived in whatever light the experiencer carries, but structurally identical regardless.
+**Empirical data.** Near-death experience phenomenology from 6,751 structured records, demonstrating that the experience of encountering a transcendent loving presence is constant across cultures — perceived in whatever light the experiencer carries, but structurally identical regardless.
 
 **Cultural evidence.** The documented preservation of the pattern in fairy tales (Brothers Grimm, Hans Christian Andersen, Lewis Carroll) and the Walt Disney Studio — including the specific moment when the pattern was inverted.
 
@@ -609,7 +609,7 @@ The Lord does not leave truth without a witness. When the beast seizes the outer
 
 Hans Christian Andersen encoded discrete degree theology in nursery stories — the Little Mermaid ascending from sea (natural) through air (spiritual) toward stars (celestial) through moral choice and active charity. Lewis Carroll mapped the mechanism of appropriation as "nonsense" — the Mad Hatter locked in the hell of stasis, the Cheshire Cat as the intellect separated from the will, Alice navigating the degrees of the unregenerate mind. These writers did not necessarily know what they were carrying. But the Lord's truth flows through open vessels regardless of whether the vessel can name what flows through it.
 
-**In statistical patterns.** When 6,753 near-death experience accounts are analyzed structurally, the same pattern appears with statistical significance that rules out coincidence. A Being of overwhelming love is encountered — singular, personal, knowing, teaching, not condemning but illuminating. The experiential properties of this encounter are constant across every cultural background (χ² = 365.14, p < 0.0001). Christians, atheists, Hindus, Buddhists — every background reports the same functional encounter with the same qualities. The naming varies. The properties do not. The Lord appears to whoever is open, in whatever form the person can receive, and what the person encounters is always the same: love that knows, love that teaches, love that does not condemn but reveals.
+**In statistical patterns.** When 6,751 near-death experience accounts are analyzed structurally, the same pattern appears with statistical significance that rules out coincidence. A Being of overwhelming love is encountered — singular, personal, knowing, teaching, not condemning but illuminating. What this encounter does is constant across cultural backgrounds: the name given to it varies only weakly with religious background (Cramér's V = 0.11), and those who name it Jesus and those who leave it unnamed report the same guidance, teaching, communication and commissioning. Christians and atheists — every background large enough to test — report the same functional encounter with the same qualities. The naming varies. The properties do not. The Lord appears to whoever is open, in whatever form the person can receive, and what the person encounters is always the same: love that knows, love that teaches, love that does not condemn but reveals.
 
 The truth survived in the statistics because the Lord does not depend on institutions, doctrines, or texts to reach people. The Lord reaches directly — through the encounter itself, unmediated by any system, uncontrolled by any hierarchy, unavailable for appropriation because it happens in the most private space a human being possesses: the interior of their own dying.
 
@@ -757,6 +757,6 @@ The fire does not stop.
 
 **Data Sources:**
 
-30. NDERF (Near Death Experience Research Foundation). 5,660 structured records. Being of Light experiential properties constant across backgrounds: χ² = 365.14, p < 0.0001.
-31. IANDS (International Association for Near-Death Studies). 1,093 structured records.
+30. NDERF (Near Death Experience Research Foundation). 5,659 unique structured records. Being of Light: the name varies weakly with religious background (χ² = 15.04, df = 6, Cramér's V = 0.11); the function of the encounter does not vary with the name.
+31. IANDS (International Association for Near-Death Studies). 1,092 unique structured records.
 32. Division of Perceptual Studies (DOPS), University of Virginia. 2,500+ verified past-life memory cases.

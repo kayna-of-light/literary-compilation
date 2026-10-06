@@ -994,7 +994,7 @@ The implication is that whoever gathered these texts — the fourth-century Egyp
 
 ### 14.2 Constant State, Variable Form: One System, Many Genres
 
-The principle "constant state, variable form" — validated statistically in NDE research (χ² = 365.14, p < 0.0001, where the Being of Light shows constant experiential properties despite variable cultural naming) — operates throughout the library as its organizing principle.
+The principle "constant state, variable form" — validated statistically in NDE research (where the Being of Light shows a constant function despite variable cultural naming, and religious background shapes the name only weakly) — operates throughout the library as its organizing principle.
 
 The constant state is the correspondential system itself: the perception that natural forms express spiritual realities, organized in discrete degrees, flowing from the divine through spiritual causes into natural effects. The variable forms are the genres, theologies, and literary vehicles through which different communities express this perception:
 

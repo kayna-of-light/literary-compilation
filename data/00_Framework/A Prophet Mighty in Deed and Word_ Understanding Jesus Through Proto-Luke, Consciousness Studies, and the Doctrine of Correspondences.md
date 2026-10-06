@@ -478,11 +478,11 @@ Proto-Luke records two "resurrections": the widow's son at Nain (Luke 7:11-17) a
 
 ### 10.1 The NDE Return Pattern
 
-Near-death experience data from 6,753 structured records (NDERF + IANDS) show a consistent pattern in the return to physical life:
+Near-death experience data from 6,751 structured records (NDERF + IANDS) show a consistent pattern in the return to physical life:
 
-- **78–81%** of the experiences with a higher-order being (God, Jesus, religious figures, angels) include guidance, and with a Being of Light 85.1% — often including the directive to return.
-- **52.9%** of the experiences with a deceased relative end with the experiencer sent back by a being, the highest rate of any being type: relatives function as gatekeepers, communicating "it's not your time" or "you must go back."
-- The return is typically unwilling. The experiencer does not want to leave.
+- **72–73%** of the experiences in which the only beings met are divine or religious figures or angels include guidance, and 85.1% of those with a visual Being of Light — often including the directive to return.
+- **47–55%** of the experiences with any one kind of being end with the experiencer sent back — told it is not their time, held at a spoken limit, or returned by the being's decision. Every kind of being does this: deceased relatives (54.6%) as often as divine figures (51.7%), communicating "it's not your time" or "you must go back."
+- The return is typically unwilling. Where the experiencer's attitude is stated, half (49.4%) are reluctant, and where it is stated who decided the return, 70.1% did not return by their own choice. The experiencer does not want to leave.
 - A being perceived as having authority commissions the return — not by force, but by communication that the person's mission is incomplete, that dependents need them, that the time has not come.
 
 The pattern is: threshold → encounter with authoritative being → commission to return → unwilling re-entry into the body.

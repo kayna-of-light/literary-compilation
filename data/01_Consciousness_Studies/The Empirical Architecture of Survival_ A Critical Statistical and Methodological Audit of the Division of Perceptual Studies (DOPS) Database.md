@@ -26,7 +26,7 @@ However, this high solution rate must be contextualized by the cultural environm
 | **India** | 266 | 77% | 23% | 2.82 (High) |
 | **Lebanon** | 126 | 79% | 21% | 2.74 (High) |
 | **Sri Lanka** | 117 | 32% | 68% | \-7.17 (Low) |
-| **United States** | \~79 (Early Series) | Low (\<20%)\* | High (\>80%) | N/A |
+| **United States** | 79 (nontribal) | 16 (20%)\* | 63 (80%) | N/A |
 
 Data derived from.1 Note: The U.S. solution rate has improved in recent years with internet-aided research, but historically remains lower than Asian cases.
 
@@ -100,8 +100,8 @@ Of the 2,500+ cases, approximately **30% to 33%** remain "unsolved".7 It is vita
 
 How do researchers handle these failures? The DOPS methodology does not discard unsolved cases; rather, they are retained in the database and analyzed for phenomenological patterns. This comparative analysis is a critical check against selection bias.
 
-* **Phenomenological Consistency:** Research comparing solved and unsolved cases has found them to be remarkably similar in their core features. Both groups show the same average age of onset (2-4 years), the same age of fading (5-7 years), and the same high prevalence of violent death themes and specific phobias.4  
-* **Implication:** If solved cases were "real" reincarnation and unsolved cases were mere childhood fantasies, one would expect them to look different—perhaps fantasy cases would involve more famous lives, less violence, or different behavioral traits. The fact that they look identical suggests that unsolved cases are simply *verified cases that lack a paper trail*. The failure lies in the historical record, not necessarily the child's memory.4
+* **Phenomenological Consistency:** Research comparing solved and unsolved cases has found them to be remarkably similar in their core features. Both groups show the same average age of onset (about three years) and the same prevalence of phobias related to the mode of death, and violent death themes are even more prevalent among the unsolved cases; the groups differ in fading, the subjects of unsolved cases ceasing to speak of the previous life earlier (a mean of 70 months against 90).4  
+* **Implication:** If solved cases were "real" reincarnation and unsolved cases were mere childhood fantasies, one would expect them to look different—perhaps fantasy cases would involve more famous lives, less violence, or different behavioral traits. The fact that they look so alike suggests that unsolved cases are simply *verified cases that lack a paper trail*. The failure lies in the historical record, not necessarily the child's memory.4
 
 This approach turns the "file drawer" problem on its head. The "file drawer" at DOPS is not full of negative results that disprove the hypothesis; it is full of "noisy" signals that match the profile of the "clear" signals but lack the metadata (names/dates) to be confirmed.
 
@@ -158,7 +158,7 @@ Data synthesis from 1
 | **India** | 266 | 77% | 23% | High |
 | **Lebanon** | 126 | 79% | 21% | High (Druze) |
 | **Sri Lanka** | 117 | 32% | 68% | High (Buddhist) |
-| **USA/West** | Variable | \<20%\* | \>80% | Low/Mixed |
+| **USA/West** | 79 (nontribal) | 20%\* | 80% | Low/Mixed |
 | **Global Avg** | **\~2,500** | **\~70%** | **\~30%** | **N/A** |
 
 *\*Note: Western solution rates have risen in the internet age but remain historically lower than Asian cases due to lack of social networks to identify the PP.*

@@ -17,9 +17,9 @@
 
 **Background**: Contemporary consciousness studies confronts a methodological crisis: mainstream approaches filter anomalous data to preserve materialist axioms, while religious approaches filter data to confirm traditional doctrines. Both positions sacrifice accuracy for ideological coherence. A third way is required—one that treats theoretical frameworks as physics treats theories, selecting for explanatory power and predictive accuracy rather than ideological conformity.
 
-**Methods**: This thesis documents the systematic application of Emanuel Swedenborg's correspondential framework (1758) as a testable hypothesis, organized into four evidential strains: (1) Empirical Foundation—consciousness survival evidence from NDE and past-life memory research; (2) Being of Light—the purposeful economy of divine encounter; (3) Correspondence as Ontology—evidence that correspondence is a law of reality, not transmitted knowledge; (4) Textual Validation—demonstration that the correspondential method works across diverse sources. Data sources include near-death experience phenomenology (N=6,753 structured records from NDERF and IANDS), past-life memory research (DOPS corpus, 2,500+ verified cases), archaeological evidence spanning 30,000 years, and cross-cultural textual analysis. Statistical validation employed chi-square tests, discriminant analysis, machine learning classification, and cross-domain pattern triangulation.
+**Methods**: This thesis documents the systematic application of Emanuel Swedenborg's correspondential framework (1758) as a testable hypothesis, organized into four evidential strains: (1) Empirical Foundation—consciousness survival evidence from NDE and past-life memory research; (2) Being of Light—the purposeful economy of divine encounter; (3) Correspondence as Ontology—evidence that correspondence is a law of reality, not transmitted knowledge; (4) Textual Validation—demonstration that the correspondential method works across diverse sources. Data sources include near-death experience phenomenology (N=6,751 structured records from NDERF and IANDS), past-life memory research (DOPS corpus, 2,500+ verified cases), archaeological evidence spanning 30,000 years, and cross-cultural textual analysis. Statistical validation employed chi-square tests, discriminant analysis, machine learning classification, and cross-domain pattern triangulation.
 
-**Results**: All four strains achieve confirmation. **Strain One (Empirical Foundation)**: 70%+ violent death clustering in DOPS cases; 88% birthmark-wound correspondence. **Strain Two (Being of Light)**: constant experiential properties despite variable naming (χ² = 365.14, p < 0.0001); entity function differentiation (teaching χ² = 87.33, return facilitation χ² = 37.18, p < 0.0001); 94.2% mission discriminant validity; 36.5:1 loving vs. harsh judgment ratio. **Strain Three (Correspondence as Ontology)**: 30,000-year consistency of symbolic systems demonstrates fidelity of transmission chains extending back to when intuitive perception was operative; teleological bias as innate cognitive receiver mechanism; the evidence shows correspondence is ontological law (not invented by the Magi) AND was transmitted (not independently discovered). **Strain Four (Textual Validation)**: same symbols yield same meanings across Persian, Hebrew, and Greek traditions; Swedenborg's correspondential analysis predicted Documentary Hypothesis findings a century before Wellhausen. The cumulative weight of four independent strains, each drawing on multiple data sources, constitutes evidence.
+**Results**: All four strains achieve confirmation. **Strain One (Empirical Foundation)**: 70%+ violent death clustering in DOPS cases; 88% birthmark-wound correspondence. **Strain Two (Being of Light)**: constant function despite variable naming (religious background shapes the name weakly, Cramér's V = 0.11, while guidance, teaching, telepathy, belonging and mission do not differ by name); entity function differentiation (ten of eleven functions differ by being type; divine figures teach six times as often as deceased relatives, OR 6.27); mission returns and commissioning go together (positive predictive value 94.2%); harsh judgment rare (1.4–8.7% of rated life reviews, depending on the coder) and loving judgment the most common. **Strain Three (Correspondence as Ontology)**: 30,000-year consistency of symbolic systems demonstrates fidelity of transmission chains extending back to when intuitive perception was operative; teleological bias as innate cognitive receiver mechanism; the evidence shows correspondence is ontological law (not invented by the Magi) AND was transmitted (not independently discovered). **Strain Four (Textual Validation)**: same symbols yield same meanings across Persian, Hebrew, and Greek traditions; Swedenborg's correspondential analysis predicted Documentary Hypothesis findings a century before Wellhausen. The cumulative weight of four independent strains, each drawing on multiple data sources, constitutes evidence.
 
 **Conclusions**: A critical distinction emerges from the analysis: this methodology employs Swedenborg's **observational framework** (the Doctrine of Correspondences, influx, discrete degrees) while recognizing that his **interpretive overlay** (the Limbus, categorical dismissal of reincarnation, biological Christology) reflects 18th-century philosophical assumptions that subsequent inquiry has not supported. More fundamentally, the evidence supports a nuanced understanding of correspondence: it is **ontological law** (the Magi did not invent it), but **transmission still occurred**. In the Adamic/Golden Age, correspondence was intuitively perceived—language and culture carried it naturally. As ruling love shifted and language drifted, intuitive access declined, requiring explicit codification into transmissible knowledge. The 30,000-year consistency demonstrates fidelity of transmission chains extending back to when intuitive perception was operative—not independent discovery by zero-contact cultures. The Magi did not invent correspondence; they institutionally codified what earlier carriers (the *Bene Qedem*) had preserved. This is not wholesale acceptance of Swedenborgian theology; it is selective hypothesis-testing that treats his framework as science treats any theory—retaining what organizes data effectively, revising what does not.
 
@@ -117,7 +117,7 @@ These principles generate falsifiable predictions organized into four evidential
 
 1. **Consciousness survives bodily death, and the survival evidence should be statistically robust.** Near-death experiences should show patterns inconsistent with hallucination or cultural construction. Past-life memory cases should cluster around traumatic death (indicating exceptional return, not normal reincarnation) and show physical correlates (birthmarks) that defy materialist explanation. The statistical weight of this evidence should exceed what coincidence can explain.
 
-2. **The Being of Light should exhibit a purposeful economy that refutes psychological projection.** If experiencers encounter genuine spiritual reality rather than psychological projections, the Being of Light should show: (a) constant experiential properties despite variable cultural naming—the same wisdom, love, and transformative power whether labeled "Jesus," "Light," or "presence"; (b) functional differentiation among spiritual beings—higher beings guide, relatives comfort and gatekeep, not interchangeable manifestations; (c) revelatory rather than condemnatory judgment—self-knowledge through love, not punishment. This constellation of features constitutes a "purposeful economy" that projection cannot explain.
+2. **The Being of Light should exhibit a purposeful economy that refutes psychological projection.** If experiencers encounter genuine spiritual reality rather than psychological projections, the Being of Light should show: (a) constant experiential properties despite variable cultural naming—the same wisdom, love, and transformative power whether labeled "Jesus," "Light," or "presence"; (b) functional differentiation among spiritual beings—higher beings guide, relatives comfort, not interchangeable manifestations; (c) revelatory rather than condemnatory judgment—self-knowledge through love, not punishment. This constellation of features constitutes a "purposeful economy" that projection cannot explain.
 
 3. **Correspondence should operate as a law of reality, with transmission showing remarkable fidelity across deep time.** If correspondence is ontological—a structural feature of reality—then: (a) the Magi did not invent it; (b) it was originally perceived intuitively when language and culture aligned with spiritual reality; (c) as intuitive access declined through cultural/linguistic drift, explicit codification became necessary; (d) the 30,000-year consistency of symbolic systems (Paleolithic Europe, Neolithic Anatolia, Aboriginal Australia) should demonstrate fidelity of transmission chains extending back to when intuitive perception was operative, not independent discovery by zero-contact cultures.
 
@@ -139,7 +139,7 @@ The materialist response to these anomalies is typically dismissal: NDEs are "ha
 
 **Jungian Archetypal Psychology** explains symbol recurrence across cultures through the concept of the "collective unconscious"—a shared psychological substrate from which archetypal images emerge. This framework accounts for why the same symbols appear across cultures and why dreams often contain mythological imagery unknown to the dreamer's conscious mind.
 
-But Jungian psychology cannot explain why entities in NDEs show **functional differentiation**—higher beings teach (God 33.9% against relatives 14.0%), relatives direct and gatekeep (52.9% sent back)—rather than being interchangeable projections. If entities are projections of internal complexes, they should be phenomenologically interchangeable. The data show they are not. Nor can Jungian psychology explain why experiential properties remain constant (<10% difference) despite variable naming (χ² = 365.14)—if symbols are projections, their properties should vary with the projector's psychology.
+But Jungian psychology cannot explain why entities in NDEs show **functional differentiation**—higher beings teach (divine figures 23.0% against relatives 4.5%), relatives direct and comfort—rather than being interchangeable projections (*Functional Differentiation of Beings in Near-Death Experiences*). If entities are projections of internal complexes, they should be phenomenologically interchangeable. The data show they are not. Nor can Jungian psychology explain why functional properties remain constant despite variable naming—if symbols are projections, their properties should vary with the projector's psychology.
 
 The Jungian "projection hypothesis" creates anomalies the data do not support. Entities behave as the Swedenborgian framework predicts—differentiated by function—not as the Jungian framework predicts—interchangeable manifestations of the same psychic substrate.
 
@@ -151,7 +151,7 @@ The Swedenborgian framework explains what CSR cannot: the emergence of the "hear
 
 **Cultural Construction** theory explains vocabulary variation in religious experience—Christians describe experiences in Christian terms, Hindus in Hindu terms, secular experiencers in secular terms. This is uncontroversial and empirically supported.
 
-But cultural construction cannot explain why **experiential properties** remain virtually identical despite vocabulary variation. If culture constructs the experience (not just the label), then Christians naming "Jesus" and atheists naming "Light" should report different experiential properties. They do not. The differences are below 10% across all measured dimensions. Cultural construction explains the variation in labeling; it cannot explain the constancy of experience.
+But cultural construction cannot explain why **experiential properties** remain virtually identical despite vocabulary variation. If culture constructs the experience (not just the label), then Christians naming "Jesus" and Christians leaving the Being unnamed should report different functional properties. They do not: guidance, teaching, telepathy, belonging and mission commissioning do not differ between them (*The Being of Light*). The perceptual mode does differ — the "Jesus" encounters are more often a visual luminous figure, the unnamed ones more often an experience of unity — so the constancy lies in what the encounter does. Cultural construction explains the variation in labeling; it cannot explain the constancy of function.
 
 The Swedenborgian framework explains both: cultural construction operates on the **form** (naming, imagery, interpretation), while the underlying spiritual reality provides the **constant state** (the experiential properties of love, wisdom, transformation). This is precisely what "constant state, variable form" predicts.
 
@@ -231,11 +231,11 @@ The first strain establishes the empirical foundation: consciousness survives bo
 
 #### 3.1.1 Near-Death Experience Data Corpus
 
-The structured analysis of 6,753 near-death experiences from two major databases (NDERF and IANDS) provides the primary empirical foundation. Each record was processed through structured extraction using contemporary large language models trained on the questionnaire schema, producing consistent categorical data amenable to statistical analysis.
+The structured analysis of 6,751 near-death experiences from two major databases (NDERF and IANDS) provides the primary empirical foundation. Each record was processed through structured extraction using contemporary large language models trained on the questionnaire schema, producing consistent categorical data amenable to statistical analysis. A blind second coding of 100 random accounts agrees with the extraction at a median κ of 0.83 across fifteen fields (*Reliability of Near-Death Experience Narrative Coding*).
 
 The NDE phenomenon itself constitutes evidence for consciousness survival. Prospective hospital studies document cases of cardiac arrest patients reporting accurate perception of events occurring during flat-line EEG—when, according to the materialist paradigm, no conscious experience should be possible (van Lommel et al., 2001; Parnia et al., 2014). The AWARE study found that 2% of cardiac arrest survivors described awareness with explicit recall of actual events during their resuscitation, one of them objectively verified. These are not retrospective reports of dreams; they are veridical perceptions that can be independently verified.
 
-The statistical patterns within NDE reports provide additional evidential weight. As subsequent sections will demonstrate, the phenomenology shows systematic structure that random hallucination cannot explain: constant experiential properties across cultural variation, functional differentiation among encountered beings, consistent judgment character. These patterns emerge from the data; they are not imposed by the analytical framework.
+The statistical patterns within NDE reports provide additional evidential weight. As subsequent sections will demonstrate, the phenomenology shows systematic structure that random hallucination cannot explain: constant function across cultural variation, functional differentiation among encountered beings, consistent judgment character. These patterns emerge from the data; they are not imposed by the analytical framework.
 
 #### 3.1.2 Past-Life Memory Evidence (DOPS Data)
 
@@ -261,52 +261,51 @@ This pattern is inexplicable under materialist assumptions. There is no known me
 
 The second strain addresses the phenomenology of divine encounter in NDEs. If experiencers encounter genuine spiritual reality rather than psychological projections, the Being of Light should exhibit a "purposeful economy"—a constellation of features that projection theory cannot explain.
 
-#### 3.2.1 Constant State, Variable Form — **CONFIRMED** (χ² = 365.14, p < 0.0001)
+#### 3.2.1 Constant State, Variable Form — **CONFIRMED** (function constant; naming weakly cultural, V = 0.11)
 
 **Framework Prediction**: The underlying spiritual reality is constant; perceptual forms vary according to the receiver's mental repertoire. The same Being of Light should show constant experiential properties despite variable identification vocabulary.
 
 **Empirical Test**: Cross-tabulation of religious background against Being of Light identification, combined with comparison of experiential properties across identification categories.
 
-**Results**: The most striking finding is transcendence: **51.9% of all experiencers identified the Being as "unknown presence"**—a category that explicitly resists religious labeling. This majority response appears across all religious backgrounds, including 44.2% of Christians—experiencers whose tradition provides robust divine-encounter vocabulary yet who still report that the Being exceeded their available categories.
+**Results**: The most striking finding is transcendence: **51.9% of Being of Light encounters were coded first as an "unknown presence"** (50.6% as an unknown presence only), a category that resists religious labeling. "Unknown presence" is the extractor's code for a being the account does not name rather than a word the experiencers chose, and its boundary with "other" beings is the least reproducible code in the dataset (inter-coder κ = 0.44) (*Reliability of Near-Death Experience Narrative Coding*); what the figure records is that most of these encounters go unnamed. The pattern appears across religious backgrounds, including 44.2% of Christians' encounters (25.1% are coded as Jesus)—experiencers whose tradition provides robust divine-encounter vocabulary yet who still often leave the Being unnamed (*The Being of Light*).
 
-Religious background does predict identification vocabulary (χ² = 365.14, p < 0.0001): Christians are nearly three times as likely to identify the Being as "Jesus" as experiencers of other stated backgrounds (11.2% vs. 4.0%). But this statistic tells us about the experiencer's mental repertoire, not about the Being. The critical finding is what remains constant.
+Religious background does predict identification vocabulary, but weakly (χ² = 15.04, df = 6, p = 0.020, Cramér's V = 0.11, on a table that meets the test's assumptions; belief at the time of the NDE, V = 0.24) (*The Being of Light*). Christians are nearly three times as likely as experiencers of other stated backgrounds to name the Being "Jesus" (11.2% vs. 4.0% of all accounts) (*NDE Statistical Analysis: Entity Roles and Correspondential Patterns*). But this statistic tells us about the experiencer's mental repertoire, not about the Being. The critical finding is what remains constant.
 
-**Experiential properties remain virtually identical regardless of identification label**. Whether experiencers identified the Being as Jesus, God, Krishna, an angel, or simply "Light," they reported the same qualities: overwhelming love (no significant difference across categories), profound wisdom (no significant difference), transformative encounter (no significant difference), sense of unconditional acceptance (no significant difference). All measured differences in experiential properties were below 10%.
+**The functional properties of the encounter remain the same regardless of identification label**. Among Christians, those who met "Jesus" only (n = 102) and those who met an "unknown presence" only (n = 175) do not differ in guidance received (84.3% vs. 82.3%), teaching, telepathic communication, sense of belonging, or mission commissioning. The *mode* of the encounter does differ: the "Jesus" encounters are far more often coded as a visual luminous figure (+45.0 percentage points), and the unnamed ones more often involve unity (−19.6 points) (*The Being of Light*).
 
-A machine learning classifier was trained to predict religious identification from experiential properties. If experiential properties varied with cultural labeling (as cultural construction theory predicts), the classifier should achieve high accuracy. Instead, **the classifier performed BELOW baseline** (37.8% vs. 45.9% baseline)—meaning that knowing experiential properties provides no information about what identification label the experiencer will use. The vocabulary varies; the encounter does not.
+A cross-validated model predicting the name from religious background performs barely above chance (AUC 0.527; 0.602 using belief at the time of the NDE), and no better in accuracy than always predicting the most common name (*The Being of Light*). Knowing the experiencer's religion tells us little about what name they will give. The vocabulary varies; the function of the encounter does not.
 
-**Verdict**: The framework predicted this pattern in 1758. The Being of Light manifests constant spiritual reality that transcends cultural categories while speaking to each experiencer in forms they can receive. The vocabulary tells us about the experiencer; the experiential properties tell us about the Being. **HIT—Confirmed with statistical significance**.
+**Verdict**: The framework predicted this pattern in 1758. The Being of Light manifests constant spiritual reality that transcends cultural categories while speaking to each experiencer in forms they can receive. The vocabulary tells us about the experiencer; the functional properties tell us about the Being. Whether the perceptual mode should also stay constant was not specified in advance, and it does not. **HIT—Confirmed for the function of the encounter**.
 
-#### 3.2.2 Entity Function Differentiation — **CONFIRMED** (teaching χ² = 87.33; return facilitation χ² = 37.18; p < 0.0001)
+#### 3.2.2 Entity Function Differentiation — **CONFIRMED** (10 of 11 functions differ; teaching OR 6.27)
 
-**Framework Prediction**: Spiritual beings occupy differentiated functional roles, not interchangeable positions. Higher beings should provide more guidance; relatives should serve comfort and gatekeeping functions.
+**Framework Prediction**: Spiritual beings occupy differentiated functional roles, not interchangeable positions. Higher beings should provide more guidance and teaching; relatives should receive and comfort.
 
-**Empirical Test**: Cross-tabulation of being identification against functional outcomes (guidance received and its type, comfort, return facilitation) across 6,753 NDE records.
+**Empirical Test**: Guidance, communication and return are coded for the account as a whole, so a function can be attributed to a kind of being only in accounts that meet one kind of being. Five such groups (n = 2,634) are compared across eleven functions, with correction for multiple testing and adjustment for narrative length (*Functional Differentiation of Beings in Near-Death Experiences*).
 
 **Results**: The data reveal clear functional differentiation by being type:
 
-| Being Type | Any Guidance | Teaching | Life Guidance | Directional | Sent Back by a Being |
+| Being Type (only kind met) | Guidance Received | Teaching | Life Guidance | Directional | Sent Back (any return code) |
 |------------|--------------|----------|---------------|-------------|----------------------|
-| God | 78.8% | 33.9% | 44.1% | 36.3% | 45.3% |
-| Jesus | 81.0% | 28.1% | 44.9% | 47.6% | 47.6% |
-| Religious Figure | 77.8% | 29.1% | 41.8% | 50.6% | 46.2% |
-| Angels | 81.2% | 36.6% | 46.5% | 47.6% | 46.2% |
-| Deceased Relative | 81.1% | 14.0% | 35.6% | 54.0% | 52.9% |
-| Unknown Presence | 79.6% | 22.8% | 30.7% | 50.5% | 39.5% |
+| Divine or religious figure | 73.2% | 23.0% | 37.1% | 36.1% | 51.7% |
+| Unknown presence | 77.5% | 17.5% | 23.8% | 47.9% | 48.9% |
+| Angels | 72.3% | 20.5% | 33.0% | 41.1% | 47.3% |
+| Deceased relatives | 75.9% | 4.5% | 27.7% | 51.0% | 54.6% |
+| Other beings | 68.6% | 13.6% | 22.5% | 42.6% | 47.0% |
 
-Every kind of being guides at about the same rate (78–81%); what differs is the **kind** of guidance. Higher-order beings (angels, God, Jesus) **teach** and give **guidance for living**: God teaches more than twice as often as a deceased relative (33.9% vs. 14.0%; χ² = 87.33, df = 5, p < 0.0001), and life guidance separates the types as well (χ² = 30.51, p < 0.0001). Deceased relatives give **direction** more than any other being (54.0%; χ² = 55.26, p < 0.0001) and serve as **active gatekeepers**: in 52.9% of the experiences with a deceased relative the experiencer is sent back by a being, the highest rate of any type (χ² = 37.18, p < 0.0001). Comfort is the one function that does not separate the types (34.6–48.4%; χ² = 8.29, p = 0.14).
+Ten of the eleven functions differ across the types (Cramér's V 0.07–0.18), and the function profile separates divine from relative encounters better than narrative length alone (cross-validated AUC 0.673 vs. 0.555). Every kind of being guides at a similar rate; what differs is the **kind** of guidance. Divine figures **teach** six times as often as deceased relatives (23.0% vs. 4.5%; length-adjusted OR 6.27, 95% CI 3.94–9.98; χ² = 81.1 across the five types), communicate telepathically more often (OR 1.83) and commission missions more often (OR 1.62); they do not give more guidance overall (OR 0.81). Deceased relatives **orient and reassure**: where they guide, the guidance is mostly directional (67.3%) or comfort (43.8%), and rarely teaching (5.9%). Sending the experiencer back is shared by every type (47–55%); relatives are not distinguishable from divine figures here (OR 1.11, p = 0.42) (*Functional Differentiation of Beings in Near-Death Experiences*).
 
-This pattern is not what projection theory predicts. If entities were interchangeable projections of internal complexes (as Jungian psychology suggests), their functional profiles should not differ systematically by being type. The data show clear differentiation: higher beings teach, relatives direct and gatekeep. Entities behave as the Swedenborgian framework predicts—occupying differentiated functional roles in a spiritual ecosystem.
+This pattern is not what projection theory predicts. If entities were interchangeable projections of internal complexes (as Jungian psychology suggests), their functional profiles should not differ systematically by being type. The data show clear differentiation: higher beings teach, relatives direct and comfort. Entities behave as the Swedenborgian framework predicts—occupying differentiated functional roles in a spiritual ecosystem. Two narrower predictions do not hold: higher beings do not give more guidance overall, and relatives are not specific gatekeepers.
 
-**Verdict**: Entity function differentiation confirmed across being types. The pattern aligns with Swedenborgian cosmology where different orders of beings perform different functions. **HIT—Confirmed with statistical significance**.
+**Verdict**: Entity function differentiation confirmed across being types. The pattern aligns with Swedenborgian cosmology where different orders of beings perform different functions. **HIT—Confirmed with statistical significance** (more guidance overall and gatekeeping by relatives: **MISS**).
 
-#### 3.2.3 Mission Commission Discriminant Validity — **CONFIRMED** (94.2% accuracy)
+#### 3.2.3 Mission Commission Discriminant Validity — **CONFIRMED** (positive predictive value 94.2%)
 
 **Framework Prediction**: Some souls incarnate for pre-determined missions. These experiencers should show a coherent phenomenological profile: explicit mission commissioning during NDE, elevated pre-birth indicators, distinctive return patterns.
 
-**Empirical Test**: Discriminant analysis of mission-based return category against mission commissioning and associated variables.
+**Empirical Test**: Diagnostic agreement between the mission-based return category and mission commissioning, and comparison of mission-oriented accounts with the rest on features that play no part in defining them.
 
-**Results**: Among experiencers reporting "earthly mission" as their return reason, **94.2% also reported explicit or implied mission commissioning during their NDE**. This compares to 29.8–60.1% in the other return categories (unfinished business, not your time, family responsibility, other). The chi-square test is highly significant (χ² = 3,018.1, p < 0.0001).
+**Results**: Among experiencers reporting "earthly mission" as their return reason, **94.2% also reported explicit or implied mission commissioning during their NDE**. This compares to 29.8–60.1% in the other return categories (unfinished business, not your time, family responsibility, other). The 94.2% is a positive predictive value: the reverse does not hold, since most commissioned experiencers give another reason for returning (sensitivity 39.7%), and the overall agreement between the two codes is moderate (κ = 0.49) (*Mission-Based Returns*).
 
 Pre-birth indicators show dramatic elevation in mission-return cases:
 
@@ -317,36 +316,40 @@ Pre-birth indicators show dramatic elevation in mission-return cases:
 | Premortal Existence Information | 69.8% | 6.6% | 10.6:1 |
 | Home = Spiritual | 58.5% | 16.8% | 3.5:1 |
 
-These ratios are not statistical noise. The mission-based return category achieves **94.2% discriminant accuracy** for mission commissioning—near-perfect correspondence. Experiencers who report returning for a mission almost universally report having received that mission during their NDE. This is a genuine phenomenological category, not retrospective meaning-making.
+These ratios are not statistical noise, though they are partly definitional, since volunteering to incarnate entails a pre-birth existence and a choice. Features that play no part in the definition differ as well, after adjustment for narrative length (continuation memory, spiritual home, belonging, comparative reality; adjusted OR 2.0–3.3) (*Mission-Based Returns*). The mission-based return category shows **94.2% correspondence** with mission commissioning. Experiencers who report returning for a mission almost universally report having received that mission during their NDE. This is a genuine phenomenological category, not retrospective meaning-making.
 
-**Verdict**: Mission-based returns form a coherent phenomenological category with massive discriminant validity. The Volunteer Soul hypothesis generates accurate predictions. **HIT—Confirmed with 94.2% accuracy**.
+**Verdict**: Mission-based returns form a coherent phenomenological category. The Volunteer Soul hypothesis generates accurate predictions. **HIT—Confirmed (positive predictive value 94.2%, κ = 0.49)**.
 
-#### 3.2.4 Judgment Character — **CONFIRMED** (36.5:1 ratio)
+#### 3.2.4 Judgment Character — **CONFIRMED** (harsh evaluation rare; loving most common)
 
 **Framework Prediction**: The Divine functions as revelation (self-knowledge through love), not condemnation. Life review judgment should be loving rather than harsh.
 
 **Empirical Test**: Distribution of judgment character in life review experiences.
 
-**Results**: Among experiencers reporting life review with judgment component:
-- **Loving/Gentle Judgment**: 32.2%
-- **Harsh/Condemning Judgment**: 0.9%
-- **Ratio**: 36.5:1
+**Results**: Among Being of Light encounters with a rated life review (n = 242) (*The Being of Light*):
+- **Loving/Gentle Judgment**: 60.3%
+- **Neutral**: 16.9%
+- **Uncomfortable**: 21.1%
+- **Harsh/Condemning Judgment**: 1.7%
+- **Ratio**: 36.5:1 loving to harsh (95% CI 14–136), resting on four harsh cases; 2.65:1 loving to critical (uncomfortable or harsh)
+
+The line between "uncomfortable" and "harsh" is the least reproducible part of this coding. Across all 428 rated reviews, a blind second coder rates 8.7% harsh rather than 1.4%, which brings the loving-to-harsh ratio down to 6.4:1; loving remains the most common rating, and the loving-to-critical ratio stays at 1.7–1.8:1 under both coders (*Reliability of Near-Death Experience Narrative Coding*).
 
 The Being of Light functions overwhelmingly as **revealer, not punisher**. Experiencers report being shown the effects of their actions—feeling what others felt—but in a context of unconditional love and acceptance rather than condemnation. The judgment is educational, not punitive; revelatory, not retributive.
 
-This aligns precisely with Swedenborg's description of the spiritual world's judgment mechanism: truth reveals, love receives, the soul recognizes its own state. The 36.5:1 ratio between loving and harsh judgment indicates that the punitive model of divine judgment finds no support in NDE phenomenology.
+This aligns precisely with Swedenborg's description of the spiritual world's judgment mechanism: truth reveals, love receives, the soul recognizes its own state. The rarity of harsh judgment under either coding indicates that the punitive model of divine judgment finds no support in NDE phenomenology.
 
-**Verdict**: Judgment in NDE operates as the framework predicts—revelatory rather than condemnatory. **HIT—Confirmed with 36.5:1 ratio**.
+**Verdict**: Judgment in NDE operates as the framework predicts—revelatory rather than condemnatory. **HIT—Confirmed** (rarely condemning, predominantly loving; the exact ratio is coder-dependent).
 
 #### 3.2.5 The Purposeful Economy Argument
 
-The four preceding findings combine to establish what we term the "purposeful economy" of the Being of Light encounter. This constellation of features—constant experiential properties despite variable naming, functional differentiation among spiritual beings, coherent mission commissioning, and revelatory judgment—cannot be explained by projection theory.
+The four preceding findings combine to establish what we term the "purposeful economy" of the Being of Light encounter. This constellation of features—constant function despite variable naming, functional differentiation among spiritual beings, coherent mission commissioning, and revelatory judgment—cannot be explained by projection theory.
 
 If the Being of Light were a psychological projection, we would expect:
-- Experiential properties to vary with the projector's psychology (they do not—<10% variation across all labels; ML classifier below baseline)
+- Functional properties to vary with the projector's psychology (they do not—guidance, teaching, telepathy, belonging and mission are the same across labels; religion predicts the label barely above chance)
 - Entities to be interchangeable manifestations of the same complex (they are not—functional differentiation is clear)
-- Mission reports to show retrospective meaning-making patterns (they do not—94.2% discriminant accuracy)
-- Judgment character to reflect the experiencer's religious background (it does not—36.5:1 ratio is universal)
+- Mission reports to show retrospective meaning-making patterns (they do not—94.2% of mission returns also report the commissioning)
+- Judgment character to reflect the experiencer's religious background (it does not—Christians, whose tradition prepares them for judgment, rate 65.7% of evaluations loving and one harsh)
 
 The projection hypothesis predicts variability where the data show constancy, and predicts interchangeability where the data show differentiation. The Being of Light exhibits purposeful economy: a coherent structure with differentiated functions that operates consistently across experiencers regardless of their prior beliefs.
 
@@ -562,10 +565,10 @@ The same evidentiary structure operates here. The four strains constitute indepe
 - Birthmark-wound correspondence → **Confirmed** (88% accuracy)
 
 **Strain Two (Being of Light)**: Divine encounter exhibits purposeful economy.
-- Constant experiential properties despite variable naming → **Confirmed** (<10% variation; ML classifier below baseline)
-- Entity function differentiation → **Confirmed** (teaching χ² = 87.33; return facilitation χ² = 37.18)
-- Mission discriminant validity → **Confirmed** (94.2% accuracy)
-- Revelatory judgment character → **Confirmed** (36.5:1 ratio)
+- Constant function despite variable naming → **Confirmed** (naming weakly cultural, V = 0.11; function equal across names)
+- Entity function differentiation → **Confirmed** (10 of 11 functions; teaching OR 6.27); gatekeeping by relatives → **Not confirmed**
+- Mission returns as a category → **Confirmed** (positive predictive value 94.2%, κ = 0.49)
+- Revelatory judgment character → **Confirmed** (harsh 1.4–8.7% of rated reviews; loving most common)
 
 **Strain Three (Correspondence as Ontology + Transmission)**: Correspondence is a law of reality transmitted with fidelity.
 - 30,000-year consistency of Paleolithic symbolic systems → **Confirmed** (transmission fidelity)
@@ -607,7 +610,7 @@ The strength of cumulative evidence lies in its cross-domain character. The foll
 | Strain | Core Claim | Key Evidence | Significance |
 |--------|-----------|--------------|--------------|
 | **1. Empirical Foundation** | Consciousness survives death | NDE veridical perception; DOPS violent death clustering (70%+); birthmark correspondence (88%) | Establishes survival as empirical observation |
-| **2. Being of Light** | Divine encounter shows purposeful economy | Constant properties/variable naming (χ² = 365.14); functional differentiation (teaching χ² = 87.33); 36.5:1 judgment ratio; 94.2% mission accuracy | Refutes projection; confirms genuine encounter |
+| **2. Being of Light** | Divine encounter shows purposeful economy | Constant function/variable naming (V = 0.11); functional differentiation (teaching OR 6.27); harsh judgment rare; mission PPV 94.2% | Refutes projection; confirms genuine encounter |
 | **3. Correspondence as Ontology + Transmission** | Correspondence is ontological law AND was transmitted with fidelity | 30,000-year Paleolithic consistency; Göbekli Tepe ↔ Damdat Nask parallel; deep transmission chains predating population separation | Ontological reality transmitted faithfully from intuitive perception era |
 | **4. Textual Validation** | The method works across sources | Same symbols = same meanings; Persian-Hebrew-Greek structural parallel; Swedenborg predicted Documentary Hypothesis | Method validity confirmed |
 
@@ -711,7 +714,7 @@ This observation should not be dismissed as error. The phenomenon Swedenborg des
 
 2. **Restorative Incarnation** (framework extension): Souls whose earthly development was traumatically interrupted (violent death, premature death) may return to complete their developmental process. The 70%+ violent death rate in DOPS cases supports this hypothesis. The birthmark evidence indicates genuine soul-body continuity, not spirit influence.
 
-3. **Volunteer Incarnation** (framework extension): Souls who have completed their development may return with specific missions. The mission-based return category in NDE data shows 94.2% discriminant validity for mission commissioning.
+3. **Volunteer Incarnation** (framework extension): Souls who have completed their development may return with specific missions. In NDE data, 94.2% of mission-based returns also report being commissioned with the mission.
 
 This synthesis does not abandon Swedenborg's framework but integrates his valid observation while extending beyond his categorical generalization. Swedenborg appears correct that (a) the normative post-mortem path is linear rather than cyclical, and (b) spirit influence can produce convincing experiences that feel like past-life memories. However, the extension of this observation to dismiss all past-life evidence does not align with the strongest DOPS data, which involve physical correlates that spirit-memory transmission cannot explain.
 
@@ -756,7 +759,7 @@ The claim that the Swedenborgian framework explains consciousness data better th
 | Finding | Materialist Prediction | Actual Result | Anomaly |
 |---------|----------------------|---------------|---------|
 | NDE during cardiac arrest | No experience possible during flat-line EEG | Hyper-lucid experience with veridical perception | Complete failure |
-| Constant state/variable form | Experience should vary with neural substrate | Experiential properties constant (<10% variation) | Unexplained |
+| Constant state/variable form | Experience should vary with neural substrate | Function constant across names; name weakly cultural | Unexplained |
 | Birthmark correspondence | Impossible—no mechanism | 88% (43/49) in medically documented cases | Complete failure |
 | Radical remission | Should follow biological factors | Correlates with psycho-spiritual transformation | Unexplained |
 
@@ -777,7 +780,7 @@ The claim that the Swedenborgian framework explains consciousness data better th
 |---------|-------------------|---------------|---------|
 | Entity function differentiation | Entities should be interchangeable projections | Clear functional differentiation by being type | Contradicts projection hypothesis |
 | Constant state/variable form | Projection properties should vary with projector | Experiential properties constant regardless of identification | Unexplained |
-| Mission discriminant validity | Mission should reflect individual psychology | 94.2% coherence with mission commissioning—external pattern | Unexplained |
+| Mission discriminant validity | Mission should reflect individual psychology | 94.2% of mission returns report the commissioning—external pattern | Unexplained |
 | Birthmark correspondence | Symbols, not physical marks; no mechanism for body correspondence | 88% physical correspondence | Complete failure |
 
 **Assessment**: Jungian psychology explains symbol recurrence but cannot explain the functional differentiation of entities or the constancy of experiential properties across experiencers. The projection hypothesis predicts variation; the data show constancy. The framework creates anomalies the Swedenborgian framework resolves.
@@ -857,7 +860,7 @@ The framework is treated as **physics treats theories**: as a system of claims g
 
 Methodological clarity requires distinguishing different levels of claim:
 
-**Pattern-Fit (Empirical)**: Statistical associations and predictive performance. When we report that mission-based return achieves 94.2% discriminant validity, this is an empirical claim. It can be verified by examining the data. It does not depend on accepting any theoretical framework.
+**Pattern-Fit (Empirical)**: Statistical associations and predictive performance. When we report that 94.2% of mission-based returns also report the commissioning, this is an empirical claim. It can be verified by examining the data. It does not depend on accepting any theoretical framework.
 
 **Interpretation (Framework-Consistent)**: Readings of data that make sense within the Swedenborgian framework. When we interpret entity function differentiation as reflecting genuine spiritual cosmology (different orders of beings with different functions), this is framework-consistent interpretation. It goes beyond what the data strictly require but is consistent with them.
 
@@ -897,11 +900,11 @@ The goal is truth, not advocacy. The framework has earned serious consideration 
 
 This thesis has documented the systematic testing of the Swedenborgian correspondential framework against empirical data across five independent domains:
 
-**Near-Death Experience Phenomenology** (N=6,753):
-- Constant state/variable form: **Confirmed** (χ² = 365.14, p < 0.0001)
-- Entity function differentiation: **Confirmed** (teaching χ² = 87.33, return facilitation χ² = 37.18, p < 0.0001)
-- Mission discriminant validity: **Confirmed** (94.2% accuracy)
-- Revelatory judgment character: **Confirmed** (36.5:1 ratio)
+**Near-Death Experience Phenomenology** (N=6,751):
+- Constant state/variable form: **Confirmed** for function (naming χ² = 15.04, V = 0.11; function equal across names)
+- Entity function differentiation: **Confirmed** (10 of 11 functions; teaching OR 6.27); relatives as gatekeepers not confirmed
+- Mission returns as a category: **Confirmed** (positive predictive value 94.2%, κ = 0.49)
+- Revelatory judgment character: **Confirmed** (harsh 1.4–8.7% of rated reviews; loving most common)
 
 **Past-Life Memory Research** (DOPS, 2,500+ cases):
 - Violent death clustering: **Confirmed** (70%+)
@@ -983,6 +986,18 @@ We do not have to understand why it works. We do not have to like the implicatio
 14. van Lommel, Pim, et al. "Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands." *The Lancet* 358.9298 (2001): 2039–2045.
 15. von Petzinger, Genevieve. *The First Signs: Unlocking the Mysteries of the World's Oldest Symbols*. Atria Books, 2016.
 
+**Internal Library Documents:**
+
+16. [Functional Differentiation of Beings in Near-Death Experiences: Testing Role Specialisation](../01_Consciousness_Studies/Functional%20Differentiation%20of%20Beings%20in%20Near-Death%20Experiences_%20Testing%20Role%20Specialisation.md). Function by being type in five exclusive groups; teaching specialisation; sending back shared by all types.
+17. [Mission-Based Returns: Volunteer Soul Detection Analysis](../01_Consciousness_Studies/Mission-Based%20Returns_%20Volunteer%20Soul%20Detection%20Analysis.md). Earthly-mission returns and commissioning; the volunteer profile.
+18. [NDE Statistical Analysis: Entity Roles and Correspondential Patterns](../01_Consciousness_Studies/NDE%20Statistical%20Analysis_%20Entity%20Roles%20and%20Correspondential%20Patterns.md). Being identification by religious background.
+19. [Reliability of Near-Death Experience Narrative Coding: Independent Second Coding, Test–Retest and Duplicate Audit](../01_Consciousness_Studies/Reliability%20of%20Near-Death%20Experience%20Narrative%20Coding_%20Independent%20Second%20Coding%2C%20Test-Retest%20and%20Duplicate%20Audit.md). Blind second coding of the extraction; convention-dependent fields.
+20. [The Being of Light: A Statistical Analysis of Near-Death Experience Phenomenology](../01_Consciousness_Studies/The%20Being%20of%20Light_%20A%20Statistical%20Analysis%20of%20Near-Death%20Experience%20Phenomenology.md). Naming and function of the Being of Light; life-review judgment.
+
+**Data Sources:**
+
+21. NDERF (Near Death Experience Research Foundation) and IANDS (International Association for Near-Death Studies) archives. 6,751 unique accounts (NDERF 5,659; IANDS 1,092), each coded field by field with the NDEAnalysisResponse schema. Analyzed in the structured-data-analysis project (projects/nde/structured/).
+
 ---
 
 ## Appendices
@@ -991,12 +1006,11 @@ We do not have to understand why it works. We do not have to like the implicatio
 
 | Test | Domain | Variable | χ² | df | p-value |
 |------|--------|----------|-----|----|---------| 
-| Independence | NDE | Religious Background × Being Identification | 365.14 | — | < 0.0001 |
-| Independence | NDE | Being Type × Teaching | 87.33 | 5 | < 0.0001 |
-| Independence | NDE | Being Type × Sent Back | 37.18 | 5 | < 0.0001 |
-| Independence | NDE | Return Reason × Mission Commission | 3,018.1 | 15 | < 0.0001 |
-| Discriminant | NDE | Mission Return → Commission | — | — | 94.2% accuracy |
-| Distribution | NDE | Loving : Harsh Judgment | — | — | 36.5:1 ratio |
+| Independence | NDE | Religious Background × Being Identification (collapsed) | 15.04 | 6 | 0.020 |
+| Independence | NDE | Being Type × Teaching (five exclusive types) | 81.1 | 4 | < 0.0001 |
+| Logistic | NDE | Sent Back, relatives vs divine (length-adjusted OR 1.11) | — | — | 0.42 |
+| Diagnostic | NDE | Mission Return → Commission | — | — | PPV 94.2%, κ = 0.49 |
+| Distribution | NDE | Loving : Harsh Judgment (rated reviews) | — | — | 36.5:1 Light-Being reviews; 6.4:1 second coder |
 | Distribution | DOPS | Violent Death | — | — | 70%+ |
 | Correspondence | DOPS | Birthmark-Wound | — | — | 88% accuracy |
 
@@ -1015,10 +1029,10 @@ Analysis repository: https://github.com/kayna-of-light/structured-data-analysis
 
 | # | Prediction | Domain | Result | Evidence |
 |---|-----------|--------|--------|----------|
-| 1 | Constant state/variable form | NDE | ✅ HIT | χ² = 365.14; experiential properties <10% variation |
-| 2 | Entity function differentiation | NDE | ✅ HIT | teaching χ² = 87.33, return χ² = 37.18; higher beings teach, relatives direct and gatekeep |
-| 3 | Mission discriminant validity | NDE | ✅ HIT | 94.2% mission→commission correspondence |
-| 4 | Revelatory judgment | NDE | ✅ HIT | 36.5:1 loving vs. harsh |
+| 1 | Constant state/variable form | NDE | ✅ HIT | Naming weakly cultural (V = 0.11); function equal across names |
+| 2 | Entity function differentiation | NDE | ✅ HIT | 10/11 functions differ; teaching OR 6.27; relatives direct and comfort (gatekeeping ❌) |
+| 3 | Mission returns as a category | NDE | ✅ HIT | PPV 94.2% mission→commission, κ = 0.49 |
+| 4 | Revelatory judgment | NDE | ✅ HIT | Harsh 1.4–8.7% of rated reviews; loving most common |
 | 5 | Violent death clustering | DOPS | ✅ HIT | 70%+ violent/premature death |
 | 6 | Birthmark correspondence | DOPS | ✅ HIT | 88% (43/49) in medically documented cases |
 | 7 | Deep symbolic systems | Archaeology | ✅ HIT | 30,000-year Paleolithic consistency |

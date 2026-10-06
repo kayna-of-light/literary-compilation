@@ -216,7 +216,7 @@ The classification of "The Word" is not merely a matter of theological dogma; it
 
 The ancient scribes did not see their "bricolage" as editing; they saw it as the faithful preservation of the "Sacred Sparks" of influx. They constructed a textual "Mirror" that reflected the *Mēnōg* world into the *Gētīg* realm. Swedenborg’s achievement was to polish this mirror, removing the dust of centuries of literalism to reveal the "Ancient Mind" still beating within the text. In doing so, he showed that "The Word" is not just a book about God; it is a technology for reconnecting the fractured human mind with the order of the universe. To read "The Word" in this way is to step out of the abstract logic of the modern world and re-enter the "Forest of Symbols" where the ancient scribes walked with God.
 
-## **10\. Works Cited**
+## 10. Works Cited
 
 **Primary Sources:**
 

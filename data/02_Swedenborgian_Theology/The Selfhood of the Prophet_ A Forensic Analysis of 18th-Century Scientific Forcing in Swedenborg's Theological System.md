@@ -38,7 +38,7 @@
 
 ### 1.1 Background
 
-Emanuel Swedenborg's correspondential framework, articulated primarily in *Arcana Coelestia* (1749–1756), *Heaven and Hell* (1758), and *Divine Love and Wisdom* (1763), has demonstrated remarkable explanatory power when tested against modern empirical data. Across eleven independent predictions — ranging from NDE phenomenology (a constant function of the Being of Light encounter across variable cultural naming) to past-life memory research (88% birthmark accuracy in DOPS cases) to archaeological evidence (30,000-year symbolic consistency in Paleolithic cave systems) — the framework's central predictions have been confirmed, though not every narrower one: in the NDE data, deceased relatives are not specific gatekeepers, a fixed order of stages is not observed, and perception does not show the predicted three-level structure.
+Emanuel Swedenborg's correspondential framework, articulated primarily in *Arcana Coelestia* (1749–1756), *Heaven and Hell* (1758), and *Divine Love and Wisdom* (1763), has demonstrated remarkable explanatory power when tested against modern empirical data. Across eleven independent predictions — ranging from NDE phenomenology (a constant function of the Being of Light encounter across variable cultural naming) to past-life memory research (88% birthmark accuracy in DOPS cases) to archaeological evidence (30,000-year symbolic consistency in Paleolithic cave systems) — the framework's central predictions have been confirmed. Three narrower predictions once attributed to it were not observed in the NDE data — relatives as specific gatekeepers, a fixed order of stages, and separable per-degree levels of perception — but none of them is Swedenborg's own: relatives receive the newly arrived (*Heaven and Hell* §494), his sequence is of three states that some souls skip (§491), and every least thought contains all the degrees at once (*Divine Love and Wisdom* §§222–229).
 
 Yet the same framework contains a principle that predicts its own imperfection. The doctrine of influx holds that spiritual truth flows through human vessels, and the doctrine of the self holds that every vessel introduces distortions shaped by its deepest loves and commitments. If this principle is true, it must apply to Swedenborg himself. The framework cannot be validated on its own terms unless it also explains why some of its own claims are wrong.
 
@@ -520,7 +520,7 @@ Swedenborg, E. (1747–1765). *Spiritual Diary* (Experientia Spirituales). Unpub
 
 Swedenborg, E. (1749–1756). *Arcana Coelestia* (Secrets of Heaven). 12 vols.
 
-Swedenborg, E. (1758). *De Nova Hierosolyma et Ejus Doctrina Coelesti* (Heaven and Hell).
+Swedenborg, E. (1758). *De Coelo et Ejus Mirabilibus et de Inferno* (Heaven and Hell).
 
 Swedenborg, E. (1758). *De Ultimo Judicio* (The Last Judgment).
 

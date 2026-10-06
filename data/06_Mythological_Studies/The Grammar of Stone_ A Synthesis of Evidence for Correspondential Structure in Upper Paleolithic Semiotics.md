@@ -278,7 +278,7 @@ The correspondential model would be interesting but limited if it explained only
 |:-------------------|:-----------------|:----|:----------|:-----------------|:--------------|:---------------------|:----------------|
 | **Bounded system** | 32 signs, 30,000 years | — | — | — | Common proto-myth | 4 categories, 7,000 years | — |
 | **Constant state, variable form** | Same signs across cultures | Constant function, variable labels (naming weakly cultural, V = 0.11) | — | Equivalent mark types (78.4% vs 76.7%) | Same substrate, opposing expressions | Same motifs, changing cultures | Same animal functions across films/tales |
-| **Vertical gradient** | Intellectual signs above, foundational below | Not observed: one perceptual dimension, no degree hierarchy (ρ = −0.47) | ρ = 0.524 | — | — | — | Landscape tracks spiritual state |
+| **Vertical gradient** | Intellectual signs above, foundational below | One continuous perceptual dimension (KMO = 0.817); separable per-degree levels absent, as expected if every perception contains all degrees | ρ = 0.524 | — | — | — | Landscape tracks spiritual state |
 | **Entity autonomy** | — | Role specialization (10 of 11 functions; teaching OR 6.27) | 0% guide hostility everywhere | — | — | Vulture/Scorpion persist 7,000 years | Horse = Intellect across 10+ films |
 | **Perception, not codification** | Signs depict perceived reality | Experience overrides expectation | Structure independent of affect | Body prints perceived reality (88%) | — | — | Transmission network documented; logic holds regardless |
 

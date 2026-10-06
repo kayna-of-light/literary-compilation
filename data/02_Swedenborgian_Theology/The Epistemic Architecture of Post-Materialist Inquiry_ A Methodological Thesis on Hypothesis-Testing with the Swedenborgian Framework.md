@@ -295,9 +295,9 @@ A cross-validated model predicting the name from religious background performs b
 
 Ten of the eleven functions differ across the types (Cramér's V 0.07–0.18), and the function profile separates divine from relative encounters better than narrative length alone (cross-validated AUC 0.673 vs. 0.555). Every kind of being guides at a similar rate; what differs is the **kind** of guidance. Divine figures **teach** six times as often as deceased relatives (23.0% vs. 4.5%; length-adjusted OR 6.27, 95% CI 3.94–9.98; χ² = 81.1 across the five types), communicate telepathically more often (OR 1.83) and commission missions more often (OR 1.62); they do not give more guidance overall (OR 0.81). Deceased relatives **orient and reassure**: where they guide, the guidance is mostly directional (67.3%) or comfort (43.8%), and rarely teaching (5.9%). Sending the experiencer back is shared by every type (47–55%); relatives are not distinguishable from divine figures here (OR 1.11, p = 0.42) (*Functional Differentiation of Beings in Near-Death Experiences*).
 
-This pattern is not what projection theory predicts. If entities were interchangeable projections of internal complexes (as Jungian psychology suggests), their functional profiles should not differ systematically by being type. The data show clear differentiation: higher beings teach, relatives direct and comfort. Entities behave as the Swedenborgian framework predicts—occupying differentiated functional roles in a spiritual ecosystem. Two narrower predictions do not hold: higher beings do not give more guidance overall, and relatives are not specific gatekeepers.
+This pattern is not what projection theory predicts. If entities were interchangeable projections of internal complexes (as Jungian psychology suggests), their functional profiles should not differ systematically by being type. The data show clear differentiation: higher beings teach, relatives direct and comfort. Entities behave as the Swedenborgian framework predicts—occupying differentiated functional roles in a spiritual ecosystem. Higher beings do not give more guidance overall, which is a miss for the prediction as stated here. Relatives are not specific gatekeepers either, but that role was never Swedenborg's: in his account friends and relatives receive and accompany the newly arrived (*Heaven and Hell* §494).
 
-**Verdict**: Entity function differentiation confirmed across being types. The pattern aligns with Swedenborgian cosmology where different orders of beings perform different functions. **HIT—Confirmed with statistical significance** (more guidance overall and gatekeeping by relatives: **MISS**).
+**Verdict**: Entity function differentiation confirmed across being types. The pattern aligns with Swedenborgian cosmology where different orders of beings perform different functions. **HIT—Confirmed with statistical significance** (more guidance overall: **MISS**; gatekeeping by relatives: not observed, and not a prediction of the framework).
 
 #### 3.2.3 Mission Commission Discriminant Validity — **CONFIRMED** (positive predictive value 94.2%)
 
@@ -566,7 +566,7 @@ The same evidentiary structure operates here. The four strains constitute indepe
 
 **Strain Two (Being of Light)**: Divine encounter exhibits purposeful economy.
 - Constant function despite variable naming → **Confirmed** (naming weakly cultural, V = 0.11; function equal across names)
-- Entity function differentiation → **Confirmed** (10 of 11 functions; teaching OR 6.27); gatekeeping by relatives → **Not confirmed**
+- Entity function differentiation → **Confirmed** (10 of 11 functions; teaching OR 6.27); gatekeeping by relatives → not observed (not a prediction of the framework; *Heaven and Hell* §494)
 - Mission returns as a category → **Confirmed** (positive predictive value 94.2%, κ = 0.49)
 - Revelatory judgment character → **Confirmed** (harsh 1.4–8.7% of rated reviews; loving most common)
 
@@ -902,7 +902,7 @@ This thesis has documented the systematic testing of the Swedenborgian correspon
 
 **Near-Death Experience Phenomenology** (N=6,751):
 - Constant state/variable form: **Confirmed** for function (naming χ² = 15.04, V = 0.11; function equal across names)
-- Entity function differentiation: **Confirmed** (10 of 11 functions; teaching OR 6.27); relatives as gatekeepers not confirmed
+- Entity function differentiation: **Confirmed** (10 of 11 functions; teaching OR 6.27); relatives as gatekeepers not observed (not Swedenborg's prediction)
 - Mission returns as a category: **Confirmed** (positive predictive value 94.2%, κ = 0.49)
 - Revelatory judgment character: **Confirmed** (harsh 1.4–8.7% of rated reviews; loving most common)
 
@@ -1030,7 +1030,7 @@ Analysis repository: https://github.com/kayna-of-light/structured-data-analysis
 | # | Prediction | Domain | Result | Evidence |
 |---|-----------|--------|--------|----------|
 | 1 | Constant state/variable form | NDE | ✅ HIT | Naming weakly cultural (V = 0.11); function equal across names |
-| 2 | Entity function differentiation | NDE | ✅ HIT | 10/11 functions differ; teaching OR 6.27; relatives direct and comfort (gatekeeping ❌) |
+| 2 | Entity function differentiation | NDE | ✅ HIT | 10/11 functions differ; teaching OR 6.27; relatives direct and comfort (gatekeeping not observed; not Swedenborg's) |
 | 3 | Mission returns as a category | NDE | ✅ HIT | PPV 94.2% mission→commission, κ = 0.49 |
 | 4 | Revelatory judgment | NDE | ✅ HIT | Harsh 1.4–8.7% of rated reviews; loving most common |
 | 5 | Violent death clustering | DOPS | ✅ HIT | 70%+ violent/premature death |

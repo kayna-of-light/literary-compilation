@@ -1680,6 +1680,8 @@ Two of these are `00_Framework`/`00_Master_Theses` documents, so this is the hig
 
 **Resolution Summary** (author's instruction 2026-10-05: fix, do not leave open): re-measured on the current extraction (`structured-data-analysis/projects/nde/structured/`, N = 6,753) as a new measurement under these definitions — being type `passage.arrival.being_identifications` (each type once per account); guidance = `world_of_spirits.encounters.guidance_types` ∋ directional/informational/life_guidance/teaching; comfort = `guidance_types` ∋ comfort (not exclusive of guidance); sent back = `boundary_and_return.return_agency == external_being`; χ² on the 2,220 accounts naming exactly one of the six types. Results: guidance received 77.8–81.2% for every type (χ² = 5.83, p = 0.32); **teaching** God 33.9%, angels 36.6%, Jesus 28.1%, relatives 14.0% (χ² = 87.33, df = 5, p < 0.0001); **life guidance** χ² = 30.51; **directional** relatives highest 54.0% (χ² = 55.26); **comfort** 34.6–48.4% (χ² = 8.29, p = 0.14, not differentiated); **sent back** relatives 52.9% highest, unknown presence 39.5% lowest (χ² = 37.18, p < 0.0001). Also restated: being identifications, spiritual-being categories, guidance and communication distributions, return agency, passage type × belonging, light form × guidance, religious background × identification, stage elements, canonical sequence. **χ² = 41.13 (df = 22, p = 0.008) was the MallWorld entity-type × vertical-level test** (`projects/mallworld/notebooks/07_vertical_world_structure.ipynb`), carried onto the NDE claim; the NDE claim now carries its own tests. Documents changed: *NDE Statistical Analysis: Entity Roles* (§§ I–IV), *The Epistemic Architecture* (§§ abstract, 2.x, 3.2.2 table and text, summaries, Appendix A), *The Seed and the Sun* (abstract, §§ 1, 2, 4.2, 6, 8, 9, Appendices), *A Prophet Mighty in Deed and Word*, *The Grammar of Stone*, *The Bifurcated Inheritance*. Still carrying χ² = 41.13 for the NDE claim outside this repository: `structured-data-analysis/CLAUDE.md` (author's file).
 
+**Update (2026-10-06) — superseded by the structured-data-analysis audit.** The repository's own audit (`projects/nde/docs/STATISTICAL_AUDIT_2026-10.md`, § 9.1) tested this question in a new notebook, `07_entity_function_differentiation.ipynb`, with a better design: guidance, communication and return are recorded per account, so functions are attributed only in accounts with one kind of being (five exclusive groups, n = 2,634), tested with Holm correction and adjusted for narrative length. On that design the 2026-10-05 measurement's central sub-finding reverses: sending back is shared by every being type (47–55%), and relatives are not distinguishable from divine figures (length-adjusted OR 1.11, p = 0.42), so "relatives as gatekeepers" is a miss. Divine figures do not give more guidance overall (73.2% vs 75.9%, OR 0.81); what they do is teach (23.0% vs 4.5%, OR 6.27). The 2026-10-05 table counted an account under every type it named, which lets mixed accounts carry functions to beings that did not perform them. *Entity Roles* § I.D and every document carrying 52.9%, χ² = 87.33 or χ² = 37.18 were restated from notebook 07 and its report, now in the library as *Functional Differentiation of Beings in Near-Death Experiences* (ledger, 2026-10-06). The script above is kept as the record of what was measured on 2026-10-05; do not reuse its output.
+
 Script (run from the `structured-data-analysis` root):
 
 ```python
@@ -1754,6 +1756,8 @@ Note that God/Religious figure look transposed (25.1↔30.7 against 30.7↔28.5)
 
 **Resolution Summary**: Settled by the re-measurement above. Neither published December column can be reproduced (the `return_choice` field is retired), so both were replaced by the current measure, "sent back by a being" (`return_agency == external_being`): deceased relatives 52.9%, Jesus 47.6%, religious figure 46.2%, angels 46.2%, God 45.3%, unknown presence 39.5% (χ² = 37.18, p < 0.0001). On the current data *The Seed and the Sun*'s "the highest rate of any being category" for deceased relatives **is true** and stands.
 
+**Update (2026-10-06)**: superseded. On the exclusive-type analysis of notebook 07, relatives send the experiencer back no more often than divine figures (54.6% vs 51.7%, OR 1.11, p = 0.42), so *The Seed and the Sun*'s "highest rate of any being category" and the 52.9% / χ² = 37.18 figures were withdrawn across the library on 2026-10-06 (see the update to the re-run question above).
+
 ---
 
 ### [NDE] The December 2025 entity-role variables no longer exist in the schema — a "re-run" is an analysis-design decision, not a recomputation
@@ -1822,6 +1826,8 @@ Which measure should the sentence report — Christians vs. non-Christians on *J
 
 **Resolution Summary**: Restated on the current data with `religious_background`: Christians name Jesus in 11.2% of accounts (143 of 1,282), experiencers of other stated backgrounds in 4.0% (14 of 347) — nearly three times as often. *The Epistemic Architecture* § 3.2.1 now reads "nearly three times as likely … (11.2% vs. 4.0%)". The χ² = 365.14, 51.9% and 44.2% figures were already current.
 
+**Update (2026-10-06)**: the last sentence no longer holds. The structured-data-analysis audit withdrew χ² = 365.14 (69% of cells had expected counts below 5, and two Buddhists contributed 82% of the statistic); the valid association is χ²(6) = 15.04, p = 0.020, Cramér's V = 0.11. 51.9% holds as the first-listed label (50.6% unknown presence only), but the label is the coder's, not the experiencer's (κ 0.44). 44.2% (Christians, unknown presence) holds. The 11.2% vs 4.0% restatement stands. *The Epistemic Architecture* § 3.2.1 was restated on 2026-10-06.
+
 ---
 
 ## Statistics
@@ -1841,4 +1847,4 @@ Which measure should the sentence report — Christians vs. non-Christians on *J
 | **Medium Priority** | 16 |
 | **Low Priority** | 6 |
 
-**Last Updated**: 2026-10-05
+**Last Updated**: 2026-10-06

@@ -220,7 +220,7 @@ Belonging (explicit or implied) among the accounts that describe whether a sense
 | Not applicable | 230 | 3.4% |
 | Strict canonical | 3 | <0.1% |
 
-**Key Finding**: Only 3 accounts follow a strict canonical sequence. Among the 6,249 accounts whose order can be judged, 37.7% are mostly canonical, 54.3% partial and 7.9% radically different (*Sequential Structure in Near-Death Experience*). A fixed stage sequence is therefore not observed. The experience is **fluid and adaptive**, not rigidly programmed — consistent with an intelligent system responding to individual needs.
+**Key Finding**: Only 3 accounts follow a strict canonical sequence. Among the 6,249 accounts whose order can be judged, 37.7% are mostly canonical, 54.3% partial and 7.9% radically different (*Sequential Structure in Near-Death Experience*). A fixed stage sequence is therefore not observed. The canonical order is the extraction schema's, not Swedenborg's: his sequence is of three states in the world of spirits, which some people skip entirely (*Heaven and Hell* § 491). The experience is **fluid and adaptive**, not rigidly programmed — consistent with an intelligent system responding to individual needs.
 
 ---
 
@@ -265,7 +265,7 @@ This dataset cannot address whether DOPS methodology filters non-cyclic cases be
 
 **Primary Sources:**
 
-1. Swedenborg, Emanuel. *Heaven and Hell* (*De Coelo et Ejus Mirabilibus et de Inferno*). London: 1758. §§ 87–115 (correspondence doctrine foundation); § 494 (the newly arrived are recognized and welcomed by friends and relatives). Cited by section number (§).
+1. Swedenborg, Emanuel. *Heaven and Hell* (*De Coelo et Ejus Mirabilibus et de Inferno*). London: 1758. §§ 87–115 (correspondence doctrine foundation); § 491 (the three states in the world of spirits, which some skip); § 494 (the newly arrived are recognized and welcomed by friends and relatives). Cited by section number (§).
 
 **Internal Library Documents:**
 

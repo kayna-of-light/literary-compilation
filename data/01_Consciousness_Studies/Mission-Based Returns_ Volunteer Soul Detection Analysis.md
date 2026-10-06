@@ -203,7 +203,7 @@ Atwater, P. M. H. (2007). *The Big Book of Near-Death Experiences*. Hampton Road
 
 Newton, M. (1994). *Journey of Souls: Case Studies of Life Between Lives*. Llewellyn Publications.
 
-Ohkado, M. (2017). Children with life-between-life memories. *Journal of Scientific Exploration*, 31(2), 217–228.
+Ohkado, M., & Ikegawa, A. (2014). Children with life-between-life memories. *Journal of Scientific Exploration*, 28(3), 477–490.
 
 Ring, K. (1998). *Lessons from the Light: What We Can Learn from the Near-Death Experience*. Perseus Books.
 

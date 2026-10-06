@@ -194,7 +194,7 @@ The strongest evidence for the objective reality of the Being of Light is the **
 The analysis identifies specific, measurable properties of this entity that are consistent across demographics, further supporting its objective nature (*The Being of Light: A Statistical Analysis*):
 
 1. **Singular Unified Consciousness:** 59.0% encounter the Being alone; it is experienced as ONE authoritative presence.  
-2. **Unconditional Love:** In reviews held in the Being's presence, loving judgment outnumbers harsh judgment 36.5 to 1.  
+2. **Unconditional Love:** In reviews held in the Being's presence, loving judgment outnumbers harsh judgment 36.5 to 1 (four harsh cases; about 6 to 1 under a second coder), and when the Being itself evaluates, three evaluations in four are loving.  
 3. **Personal Personhood:** 81.7% receive guidance from the Being (74.9% with other beings), and the Being teaches twice as often as other beings (25.3% vs 12.6%) and communicates telepathically more often (48.2% vs 34.2%), confirming the Being is a personal consciousness, not an impersonal force.  
 4. **Belief Correction:** 89.2% report increased spirituality, and 0.9% an increased fear of death. The "Expect Judgment, Find Love" pattern is consistent across religions, including among atheists, indicating an external reality correcting diverse expectations rather than a projection confirming them. Contradicted expectations are, however, reported as often after encounters with other beings (57.2% vs 55.2%), so the correction is not specific to the Being of Light.
 

@@ -218,7 +218,7 @@ The "Case of the Reincarnation Type" (CORT) is a valid, robust, and scientifical
 
 The existence of "Reverse Cases" (intermission memories without past lives) documented by Ohkado and Rivas, and the distinct "Commissioning" profile in NDE literature, confirms that these non-cyclic phenomena exist. They are not methodologically invalid; they are simply methodologically incompatible with a system built to detect *return* rather than *arrival*. To fully map the trajectory of the human soul, science must look not only for the ghosts of who we *were* but for the evidence of *why we came*.
 
-## **11\. Works Cited**
+## 11. Works Cited
 
 **Scholarly Works:**
 

@@ -38,7 +38,7 @@
 
 ### 1.1 Background
 
-Emanuel Swedenborg's correspondential framework, articulated primarily in *Arcana Coelestia* (1749–1756), *Heaven and Hell* (1758), and *Divine Love and Wisdom* (1763), has demonstrated remarkable explanatory power when tested against modern empirical data. Across eleven independent predictions — ranging from NDE phenomenology (χ² = 365.14 for constant state/variable form) to past-life memory research (88% birthmark accuracy in DOPS cases) to archaeological evidence (30,000-year symbolic consistency in Paleolithic cave systems) — the framework has achieved a perfect confirmation record. No tested prediction has been refuted.
+Emanuel Swedenborg's correspondential framework, articulated primarily in *Arcana Coelestia* (1749–1756), *Heaven and Hell* (1758), and *Divine Love and Wisdom* (1763), has demonstrated remarkable explanatory power when tested against modern empirical data. Across eleven independent predictions — ranging from NDE phenomenology (a constant function of the Being of Light encounter across variable cultural naming) to past-life memory research (88% birthmark accuracy in DOPS cases) to archaeological evidence (30,000-year symbolic consistency in Paleolithic cave systems) — the framework's central predictions have been confirmed, though not every narrower one: in the NDE data, deceased relatives are not specific gatekeepers, a fixed order of stages is not observed, and perception does not show the predicted three-level structure.
 
 Yet the same framework contains a principle that predicts its own imperfection. The doctrine of influx holds that spiritual truth flows through human vessels, and the doctrine of the self holds that every vessel introduces distortions shaped by its deepest loves and commitments. If this principle is true, it must apply to Swedenborg himself. The framework cannot be validated on its own terms unless it also explains why some of its own claims are wrong.
 
@@ -84,7 +84,7 @@ Sources are classified by function:
 | **Primary scientific** | Swedenborg's pre-theological scientific works | *Oeconomia Regni Animalis*, *Regnum Animale*, *De Generatione* |
 | **Primary diary** | Swedenborg's unpublished personal records | *Spiritual Diary* (SE), *Journal of Dreams* |
 | **Framework analysis** | Library documents analyzing the pattern | 11 documents in `data/` (see Data Provenance) |
-| **Empirical validation** | Statistical analyses from consciousness research | NDE analyses (N = 6,753), DOPS data (N = 2,500+) |
+| **Empirical validation** | Statistical analyses from consciousness research | NDE analyses (N = 6,751), DOPS data (N = 2,500+) |
 
 ### 2.3 Evaluation Criteria
 
@@ -434,7 +434,7 @@ The table below summarizes what is retained and what is corrected:
 | Doctrine of Correspondences | **Retained** | Cross-cultural symbolic consistency; NDE phenomenology; textual validation |
 | Influx (consciousness received) | **Retained** | NDE during flat-line EEG; veridical perception during cardiac arrest |
 | Discrete degrees | **Retained** | NDE entity hierarchy; celestial/spiritual/natural stratification confirmed |
-| Constant state, variable form | **Retained** | χ² = 365.14; experiential properties <10% variation across naming |
+| Constant state, variable form | **Retained** | Name varies weakly with religious background (V = 0.11); function constant across names |
 | Ruling love | **Retained** | Predicts myth trajectory, NDE return patterns, cultural evolution |
 | Regeneration | **Retained** | NDE life review; post-NDE transformation data |
 | Spirit influence (as partial explanation) | **Retained** | Valid for regression, channeling, culturally stereotyped claims |
@@ -454,7 +454,7 @@ The corrections enable three extensions that Swedenborg's artifacts blocked:
 |-----------|-------|----------|
 | **Somatic influx** | Body as "soul in ultimates" — spiritual transformation produces physical effects | Kelly Turner (7/9 factors psycho-spiritual); timeline compression; DOPS birthmark data |
 | **Restorative incarnation** | Without the Limbus chain, exceptional return becomes theoretically permissible | DOPS: 70%+ violent death; 88% birthmark accuracy; age-limited presentation (2–4 onset, 6–7 fade) |
-| **Volunteer incarnation** | Mission-based souls returning with specific purposes | NDE data: 94.2% discriminant validity; 10–35× elevation in pre-birth indicators |
+| **Volunteer incarnation** | Mission-based souls returning with specific purposes | NDE data: 94.2% of mission returns report the commissioning (positive predictive value); 10–35× elevation in pre-birth indicators |
 
 These extensions are not violations of the framework — they are *predictions* that the framework generates once the Cartesian chain is removed. The framework, corrected, does more work than it did with the artifacts in place.
 

@@ -32,17 +32,17 @@ The core innovation of this hypothesis is the concept of "Economy." The NDE is n
 
 ### **2.3 The "Mission Signature": Statistical Validation**
 
-The strongest statistical validation of this hypothesis—derived from the internal analysis of 6,753 Western records—is the link between the "Earthly Mission" and the "Being of Light." The data reveals that individuals returning with a specific earthly mission have **4.4 times the odds** of encountering a personified Being of Light compared to those without a mission (Odds Ratio \= 4.38, p \< 10^-46).1
+The strongest statistical validation of this hypothesis—derived from the internal analysis of 6,751 predominantly Western records—is the link between the "Earthly Mission" and the "Being of Light." The data reveals that individuals returning with a specific earthly mission have **4.4 times the odds** of encountering a personified Being of Light compared to those without a mission (Odds Ratio \= 4.38, p \< 10^-46; 3.26 after adjustment for narrative length).1
 
 The following table illustrates the stark divergence in phenomenology based on purpose, rather than culture:
 
-| Purpose Scenario | Being of Light Prevalence | Impersonal Light Prevalence | Implications |
-| :---- | :---- | :---- | :---- |
-| **Mission Assigned** | **25.1%** | 9.5% | High functional need for dialogue activates the "Being" interface. |
-| **No Mission (Rest/Comfort)** | 9.5% | **40.9%** | Low functional need for dialogue results in "Ambient" interface. |
-| **Life Review (Teaching)** | **32.0%** | 19.1% | Pedagogical function activates the "Teacher" interface. |
+| Purpose Scenario | Being of Light Prevalence (scenario present) | Being of Light Prevalence (scenario absent) | Length-adjusted OR | Implications |
+| :---- | :---- | :---- | :---- | :---- |
+| **Mission Assigned** | **25.3%** | 8.0% | 2.88 | High functional need for dialogue activates the "Being" interface. |
+| **Earthly Mission as Return Reason** | **32.1%** | 9.7% | 3.26 | The mission to be carried back activates the "Being" interface. |
+| **Life Review (Teaching)** | **21.6%** | 9.7% | 1.89 | Pedagogical function activates the "Teacher" interface. |
 
-Table 1: The "Mission Signature" in Western NDE Data (n=6,753) demonstrating the functional activation of the Being of Light.1
+Table 1: The "Mission Signature" in NDE Data (n=6,751) demonstrating the functional activation of the Being of Light.1 Conversely, a life review occurs in 32.0% of Being of Light accounts, against 19.1% of brilliant-light accounts.
 
 This "Mission Signature" is a functional dependency. The Being of Light appears *because* there is a mission to deliver. If this hypothesis holds true, we should find that "impersonal" Eastern NDEs suddenly become "personal" when a mission is involved, and "personal" Western NDEs become "impersonal" when no mission is present. The following sections will critically analyze external data to test this prediction.
 
@@ -52,9 +52,9 @@ The "East-West Dichotomy" relies heavily on the stereotype that Westerners—spe
 
 ### **3.1 The Illusion of the Personal Being**
 
-Contrary to the popular narrative of "meeting Jesus," the "impersonal light" is actually the *dominant* form of the experience in the West. The analysis of the NDE Research Project's structured repository found that a personified "Being of Light" appears in only **11.8%** of Western NDEs.1 In contrast, encounters with "Impersonal/Brilliant Light"—the very feature claimed to be unique to the Japanese—were observed in **40.9%** of cases.1
+Contrary to the popular narrative of "meeting Jesus," the "impersonal light" is actually the *dominant* form of the experience in the West. The analysis of the NDE Research Project's structured repository found that a personified "Being of Light" appears in only **11.8%** of Western NDEs.1 In contrast, encounters with "Brilliant Light" without a being of light—the very feature claimed to be unique to the Japanese—were observed in **40.9%** of cases.1
 
-This represents a ratio of **3.8 to 1** in favor of the impersonal light. This finding is devastating to the cultural projection hypothesis. If Western culture (steeped in monotheistic personalism) dictated the experience, the vast majority should see a Person. Instead, nearly half see an "impersonal" radiance.
+This represents a ratio of **3.5 to 1** in favor of brilliant light over a coded Being of Light. The brilliant light is not impersonal in most of these accounts, however: 57.0% of them also identify beings and 56.9% report communication.1 This finding is devastating to the cultural projection hypothesis. If Western culture (steeped in monotheistic personalism) dictated the experience, the vast majority should see a Person. Instead, nearly half see an "impersonal" radiance.
 
 External data supports this. In accounts such as the "Void NDEs" documented by researchers like Barbara Rommer and P.M.H. Atwater, Westerners frequently report "formless realms" or "black voids" that are peaceful and pregnant with potential but devoid of entities.5 These experiences, often categorized as "Type 2" distressing NDEs in older typologies, are increasingly understood as "places of rest" or "gestation"—states of pure consciousness where the "I" dissolves.5 This aligns perfectly with the Purposive Economy: if the soul needs rest or deconstruction of the ego, a chatty "Being of Light" would be functionally intrusive. The "void" is the functional interface for deep rest.
 
@@ -196,7 +196,7 @@ The investigation into the "Being of Light" using the Purposive Economy Hypothes
 
 By critically analyzing the data, we found:
 
-1. **The West is Eastern:** The "Western" NDE is actually dominated by impersonal light (40.9%), nature settings, and ancestral encounters—features traditionally claimed as unique to Japan.  
+1. **The West is Eastern:** The "Western" NDE is actually dominated by brilliant light without a personified Being (40.9%), nature settings, and ancestral encounters—features traditionally claimed as unique to Japan.  
 2. **The East is Western:** When Japanese NDEs involve "Commissioning" or "Missions" (e.g., Suzuki, Iida), they manifest personified Beings and dialogues, indistinguishable from Western high-intensity cases.  
 3. **Purpose is the Driver:** The variable that determines whether one meets a "Being" or a "Light" is not *where* you are born, but *why* you are there. Missions and Life Reviews require Personhood; Comfort and Rest require Presence.
 

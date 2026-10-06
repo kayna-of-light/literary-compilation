@@ -2516,6 +2516,24 @@ Should this document (a) stay as the dated December 2025 report it is, (b) be re
 
 ---
 
+## Logged by the nightly source audit, 2026-10-06
+
+---
+
+### [GDR] *The Methodological Visibility of the Non-Cyclic Soul* §3.3 — do the *Cosmic Cradle* accounts describe a "first-time" entry?
+
+**Priority**: LOW
+**Related Documents**: `data/01_Consciousness_Studies/The Methodological Visibility of the Non-Cyclic Soul_ An Exhaustive Audit of Selection Artifacts in Reincarnation Research.md` §3.3
+
+**Context**: §3.3 said that many accounts in Elizabeth and Neil Carman, *Cosmic Cradle: Spiritual Dimensions of Life before Birth* (rev. ed., North Atlantic Books, 2013) "explicitly describe this as a *first-time* entry or a return after a vast, undefined eon, rather than a quick rotation from a recent death." The only full text the document cited was a pirated PDF on `virtualmmx.ddns.net` (502 from the session); Google Books and archive.org lending are not readable here. The publisher's description and table of contents (Penguin Random House page) confirm pre-birth memories of a luminous world, previewing the life with a "Divine Planner", and a chapter "Souls Waiting in the Wings for Birth", but say nothing about first-time entries. The sentence was narrowed to what is verified. Note the author's evidence standard (pattern register, 2026-10-03): a popular collection of accounts can illustrate but not carry a claim, so even if the book says this, it would support "the Carmans report …", not a prevalence.
+
+**Research Question**:
+In *Cosmic Cradle* (2013), do the authors or their informants describe pre-birth memories as a soul's *first* incarnation, or as a return after a long interval? If so, where (chapter/page), and in how many accounts?
+
+**Status**: Open
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

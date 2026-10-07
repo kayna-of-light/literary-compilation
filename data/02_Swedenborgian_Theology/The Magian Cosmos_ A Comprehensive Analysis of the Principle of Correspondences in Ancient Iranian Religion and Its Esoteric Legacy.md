@@ -182,7 +182,7 @@ The *Ghayat al-Hakim* (known in the West as the *Picatrix*) is the most famous g
 
 ## **7\. The Swedenborgian Reconstruction: A Theological Lens**
 
-The user's query references the "Principle of Correspondences" in a way that echoes the terminology of **Emanuel Swedenborg** (1688–1772). While Swedenborg wrote centuries after the Magi, his theological system provides the most explicit definition of this "science," which he claimed was the lost wisdom of the ancients (specifically the "Ancient Church," which he locates in the Near East).
+This inquiry references the "Principle of Correspondences" in a way that echoes the terminology of **Emanuel Swedenborg** (1688–1772). While Swedenborg wrote centuries after the Magi, his theological system provides the most explicit definition of this "science," which he claimed was the lost wisdom of the ancients (specifically the "Ancient Church," which he locates in the Near East).
 
 ### **7.1 Swedenborg's Definition**
 
@@ -203,7 +203,7 @@ While this is a later theological overlay, it accurately captures the *spirit* o
 
 ## **8\. Conclusion: The Legacy of the Resonant Universe**
 
-To answer the user's query: The Persian Magi did indeed define the world through a Principle of Correspondences. This was not a peripheral belief but the central pillar of their reality.
+To answer the question under examination: The Persian Magi did indeed define the world through a Principle of Correspondences. This was not a peripheral belief but the central pillar of their reality.
 
 1. **It was an Ontology:** The world is a single reality in two states (*mēnōg* and *gētīg*), where the material is the crystallization of the spiritual.  
 2. **It was a Sacred Ecology:** The physical elements (Fire, Water, Earth) are the bodies of Archangels (*Amesha Spentas*), demanding a strict legal code of purity to prevent cosmic pollution.  

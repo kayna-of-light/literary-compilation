@@ -166,7 +166,7 @@ DOPS researchers like Jim Tucker have focused heavily on American cases in recen
 
 ## **7\. Methodological Analysis: Is verification blinding us?**
 
-The user asks if these non-cyclic cases are "methodologically invisible." The answer is an emphatic yes, but this invisibility is a feature, not a bug, of the DOPS mandate.
+Are these non-cyclic cases "methodologically invisible"? The answer is an emphatic yes, but this invisibility is a feature, not a bug, of the DOPS mandate.
 
 ### **7.1 The Definition of "Evidence"**
 

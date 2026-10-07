@@ -145,7 +145,7 @@ In Proto-Luke, the women go to the tomb, find the body missing, are rebuked by a
 
 **5\. Theological Bias and the "Jamesian" Substrate**
 
-The user query specifically asks to "watch out for theological bias." The history of this text is a history of theological manipulation. By peeling back the layers, we reveal a struggle between two competing christologies: the **Spiritual Resurrection** (Jamesian/Marcionite) and the **Physical Resuscitation** (Orthodox/Anti-Docetic).
+This inquiry specifically asks to "watch out for theological bias." The history of this text is a history of theological manipulation. By peeling back the layers, we reveal a struggle between two competing christologies: the **Spiritual Resurrection** (Jamesian/Marcionite) and the **Physical Resuscitation** (Orthodox/Anti-Docetic).
 
 ### **5.1 The "Jamesian" Connection: Spiritual Exaltation**
 

@@ -23,7 +23,7 @@ The analysis indicates that Swedenborg functioned under the "methodological natu
 
 ### **1.2 The Misunderstanding of the "Physical State" of the Lord**
 
-The user’s query argues that Swedenborg "misunderstood the importance of the physical state of the Lord himself." The research supports this by highlighting Swedenborg’s struggle to reconcile the infinite Divine with the finite human within the constraints of his dualistic worldview.
+This inquiry argues that Swedenborg "misunderstood the importance of the physical state of the Lord himself." The research supports this by highlighting Swedenborg’s struggle to reconcile the infinite Divine with the finite human within the constraints of his dualistic worldview.
 
 Swedenborg posited that Jesus possessed a "maternal human" (from Mary) which was finite, material, and laden with hereditary evil, and a "paternal soul" (from Jehovah) which was Divine Life Itself.7 The process of **Glorification** was defined as the progressive "putting off" of the maternal human and the "putting on" of the Divine Human.14
 
@@ -43,7 +43,7 @@ If Swedenborg’s view was the "Science of Correspondences" (a static, vertical 
 
 ### **2.1 The Mechanism: Editorial Process as Divine Creation**
 
-The user argues that "not one bit of what Swedenborg deemed 'The Word' is not formed through this editorial process called Divine Bricolage." The research strongly supports this interpretation of scripture as a multi-layered, evolved artifact rather than a dictated monolith.2
+The thesis under examination argues that "not one bit of what Swedenborg deemed 'The Word' is not formed through this editorial process called Divine Bricolage." The research strongly supports this interpretation of scripture as a multi-layered, evolved artifact rather than a dictated monolith.2
 
 * **Mythic Bricolage (Genesis 1-11):** The "Consciousness-Driven Evolution (CDE) Model" demonstrates how Hebrew scribes acted as *bricoleurs*. They did not receive the Creation story in a vacuum. They took existing Mesopotamian myths (like the *Enuma Elish* and the *Epic of Gilgamesh*)—the "materials at hand"—and stripped them of their polytheistic violence.2  
   * *Trajectory B (Babylon):* Evolution toward power/violence (Tiamat the monster, war of gods, humanity as slaves).  
@@ -53,7 +53,7 @@ The user argues that "not one bit of what Swedenborg deemed 'The Word' is not fo
 
 ### **2.2 The "Jesus Profile" as the Ultimate Artifact**
 
-The user posits that the "actual Jesus... was just the initial beginning of a profile formed by divine Bricolage." This is a crucial distinction that resolves the tension between history and faith. The "Jesus we know today"—the theological figure of perfect Love—is the result of the Divine guiding the *editorial evolution* of the historical figure.2
+The thesis under examination posits that the "actual Jesus... was just the initial beginning of a profile formed by divine Bricolage." This is a crucial distinction that resolves the tension between history and faith. The "Jesus we know today"—the theological figure of perfect Love—is the result of the Divine guiding the *editorial evolution* of the historical figure.2
 
 * **The Biological Vessel (The Historical Jesus):** Secular scholarship (e.g., E.P. Sanders) reconstructs a "bedrock" historical Jesus: a Galilean apocalyptic prophet, baptized by John, who debated the Law, created a disturbance in the Temple, and was crucified for sedition.11 This figure is the "raw material" of the bricolage—the "grit and dust" of first-century Palestine.  
 * **The Editorial Process (The Evangelists):** The Evangelists were not mere stenographers; they were "receptive instruments of influx".11 They engaged in a creative reshaping of the raw material to prioritize the theological message over the historiographical data.
@@ -64,7 +64,7 @@ Research into the textual strata of the Gospel of Luke reveals a stark example o
 
 * **Proto-Luke (The Pneumatic Layer):** The earliest recoverable strata of the Lukan narrative describe a "pneumatic" or spiritual resurrection. The witnesses perceive a "spirit" (*pneuma*), and the narrative focuses on the intellectual enlightenment of the disciples' minds (*noun*) rather than the touching of a corpse.  
 * **The Canonical Edits (The Physicalist Layer):** Later "theological messaging" layers added physicalist details to combat the heresy of Docetism (which claimed Jesus was a phantom). Verses were added depicting Jesus eating broiled fish and asserting, "a spirit does not have flesh and bones as you see I have" (Luke 24:39).5  
-* **The Divergence:** As the user argues, this is a divergence from the strict historical or pneumatic reality to prioritize a theological message. The "falsity" of the literal detail (eating fish, physical levitation) became the necessary vessel for the "truth" of the spiritual reality (that the Lord had fully conquered and sanctified the natural degree). Swedenborg accepted these physical details as literal "correspondences" of the Divine Natural 11, but the Bricolage model reveals them as *editorial artifacts* constructed to defend the reality of the Incarnation against Gnostic dissolution.
+* **The Divergence:** As the thesis under examination argues, this is a divergence from the strict historical or pneumatic reality to prioritize a theological message. The "falsity" of the literal detail (eating fish, physical levitation) became the necessary vessel for the "truth" of the spiritual reality (that the Lord had fully conquered and sanctified the natural degree). Swedenborg accepted these physical details as literal "correspondences" of the Divine Natural 11, but the Bricolage model reveals them as *editorial artifacts* constructed to defend the reality of the Incarnation against Gnostic dissolution.
 
 ### **2.3 The Evolution of the God-Image: From Bull to Man**
 
@@ -76,7 +76,7 @@ The process of refining the "profile" of the Divine is exemplified in the **Anim
 
 ## **Part III: The Actual Jesus and the Empirical Verification of the "Being of Light"**
 
-The user argues that the "actual living Lord as to Divine Truth... is only fully expressed in Jesus." If the "Jesus of History" is the vessel, and the "Jesus of Theology" is the editorial construct, where is the *living* reality? The report locates this in the **Phenomenology of the Being of Light** observed in modern consciousness research.6
+The thesis under examination argues that the "actual living Lord as to Divine Truth... is only fully expressed in Jesus." If the "Jesus of History" is the vessel, and the "Jesus of Theology" is the editorial construct, where is the *living* reality? The report locates this in the **Phenomenology of the Being of Light** observed in modern consciousness research.6
 
 ### **3.1 Empirical Verification of the "Profile"**
 
@@ -88,13 +88,13 @@ Modern Near-Death Experience (NDE) research provides a unique "check" on the Bri
 
 ### **3.2 The Lord in Ultimates: A Phenomenological View**
 
-The "Being of Light" is not a historical reconstruction; He is a present spiritual reality. This aligns with the user's view that the "actual living Lord... has always lived".4 The Incarnation in Jesus was the moment this eternal Truth "crashed through" into the "ultimates" of history to create a permanent, accessible interface (the Divine Human).2
+The "Being of Light" is not a historical reconstruction; He is a present spiritual reality. This aligns with the view that the "actual living Lord... has always lived".4 The Incarnation in Jesus was the moment this eternal Truth "crashed through" into the "ultimates" of history to create a permanent, accessible interface (the Divine Human).2
 
 The "Bedrock Facts" of Jesus's life (Baptism, Crucifixion) are re-interpreted here as the "footprints" of this crashing through—the points of friction where the Divine Love conquered the resistance of the "self" (self-love) inherent in the human condition.11 The "Divine Natural" is not a special type of matter (as Swedenborg struggled to define); it is the **Resurrected Relationship**—the capacity for the Infinite to relate directly to the finite through the "Face" of Jesus.
 
 ## **Part IV: Universal Influx – The Prophets, The Sons of God, and Theosis**
 
-The final pillar of the user's query challenges the exclusivity of the Incarnation, arguing that "the Lord is fully able to express Himself in anyone He deems to," citing the prophets as "sons of god." This challenges Swedenborg's rigid distinction between the Lord and other human beings.
+The final pillar of the question under examination challenges the exclusivity of the Incarnation, arguing that "the Lord is fully able to express Himself in anyone He deems to," citing the prophets as "sons of god." This challenges Swedenborg's rigid distinction between the Lord and other human beings.
 
 ### **4.1 Deconstructing Swedenborg’s Distinction: Mediate vs. Immediate**
 
@@ -103,11 +103,11 @@ Swedenborg traditionally distinguishes between the prophets and Jesus on the bas
 * **Prophets (Mediate Influx):** According to Swedenborg, the prophets were "filled with the spirit" via an angel. They were essentially dictation machines; their own personalities were suppressed or utilized as passive instruments.11 They were "sons of God" in a representative sense, but their "soul" remained human and finite.26  
 * **Jesus (Immediate Influx):** Swedenborg argued that Jesus had no human father; his "soul" was the Divine Itself (Jehovah). This allowed for **Immediate Influx**—the Divine operating directly through the human without an angelic intermediary. This made Jesus unique in kind, not just degree.14
 
-### **4.2 The User’s Challenge: Universal Capacity for Theosis**
+### **4.2 The Challenge: Universal Capacity for Theosis**
 
-The user argues this distinction is artificial: "To assume that the Lord cannot fully express Himself through a human soul is to assume something that doesn't match the reality shown by the Lord Himself."
+The thesis under examination argues this distinction is artificial: "To assume that the Lord cannot fully express Himself through a human soul is to assume something that doesn't match the reality shown by the Lord Himself."
 
-The "Divine Bricolage" framework supports the user’s intuition through the concept of **Theosis** (Divine Union) and the restoration of the "Golden Age" cognitive state.4
+The "Divine Bricolage" framework supports the intuition under examination through the concept of **Theosis** (Divine Union) and the restoration of the "Golden Age" cognitive state.4
 
 * **Restoration of the Golden Age:** The purpose of the Incarnation was not to create a unique anomaly (Jesus) but to *restore* the state of the "Most Ancient Church," where humanity had "internal respiration" and direct contact with the Divine.2 If the "First Adam" (humanity before the Fall) had direct access to God, then the "Second Adam" (Jesus) restores that capacity to *all* humanity.  
 * **The "Path of Affirmation":** The "Being of Light" in NDEs validates that *all* souls are invited into this direct connection. The Lord expresses Himself in "anyone He deems to" in the sense that any human who undergoes "regeneration" (the removal of the self) becomes a "son of God".4  
@@ -123,7 +123,7 @@ The synthesis of these views leads to a nuanced conclusion. Jesus remains unique
 
 ## **Part V: Conclusion – The Resurrection of True Life**
 
-The synthesis of these findings vindicates the user's critique of Swedenborg and their proposal of Divine Bricolage.
+The synthesis of these findings vindicates the critique of Swedenborg and the proposal of Divine Bricolage.
 
 1. **Critique Upheld:** Swedenborg was indeed "led by certain assumptions relating the physical".1 His Enlightenment mechanism caused him to view the physical body too rigidly as a "dead container" or "machine," missing the dynamic, constructive role of biological and historical "debris" in the Incarnation. He saw the physical as a *limit* to be overcome, whereas the Bricolage model sees it as the *medium* of revelation.  
 2. **Bricolage Verified:** The "actual Jesus" is best understood as the result of **Divine Bricolage**. The Divine took the "raw material" of a first-century Jewish prophet (the biological profile) and guided the "editorial process" of the early church to construct the "Jesus of Faith" (the theological profile). This profile is not a "historical lie" but a **"Spiritual Super-Truth"**—a vessel perfectly shaped to hold the Divine Love.2 The divergence from strict history (e.g., the "Lukan Dissonance") was necessary to prioritize the theological reality of the Divine Human.  
@@ -172,7 +172,7 @@ Source: Analyzed from.19
 
 Source:.6
 
-| Feature | Swedenborgian Theory | NDE Empirical Data | Implication for User's Query |
+| Feature | Swedenborgian Theory | NDE Empirical Data | Implication for the Thesis |
 | :---- | :---- | :---- | :---- |
 | **The Light** | "Spiritual Sun" (Love/Wisdom). | "Being of Light" (Personal Entity). | Matches the "Actual Jesus" of Love. |
 | **Identity** | The Lord (Divine Human). | Identified as Jesus by \~60% (West). | Validates the "Jesus Profile" as the correct vessel. |
@@ -181,13 +181,13 @@ Source:.6
 
 #### **Works cited**
 
-1. Swedenborg's Biography: Struggles and Bias, [Swedenborg's Biography: Struggles and Bias](Swedenborg's%20Biography_%20Struggles%20and%20Bias.md)  
+1. The Unhidden Man: Emanuel Swedenborg's Inner World and the Forging of a Prophetic Vision, [The Unhidden Man: Emanuel Swedenborg's Inner World and the Forging of a Prophetic Vision](The%20Unhidden%20Man_%20Emanuel%20Swedenborg%27s%20Inner%20World%20and%20the%20Forging%20of%20a%20Prophetic%20Vision.md)  
 2. A Coherent Framework for Spiritual History: Weaving the Divine Bricolage, [A Coherent Framework for Spiritual History_ Weaving the Divine Bricolage](../00_Framework/A%20Coherent%20Framework%20for%20Spiritual%20History_%20Weaving%20the%20Divine%20Bricolage.md)  
-3. The Resurrection of True Life: A Phenomenological Analysis of the Evolution of Divine Images, the Fall into Language, and the Incarnation of Love, [The Resurrection of True Life_ A Phenomenological Analysis of the Evolution of Divine Images, the Fall into Language, and the Incarnation of Love](The%20Resurrection%20of%20True%20Life_%20A%20Phenomenological%20Analysis%20of%20the%20Evolution%20of%20Divine%20Images,%20the%20Fall%20into%20Language,%20and%20the%20Incarnation%20of%20Love.md)  
+3. The Resurrection of True Life: A Phenomenological Analysis of the Evolution of Divine Images, the Fall into Language, and the Incarnation of Love, [The Resurrection of True Life_ A Phenomenological Analysis of the Evolution of Divine Images, the Fall into Language, and the Incarnation of Love](../01_Consciousness_Studies/The%20Resurrection%20of%20True%20Life_%20A%20Phenomenological%20Analysis%20of%20the%20Evolution%20of%20Divine%20Images%2C%20the%20Fall%20into%20Language%2C%20and%20the%20Incarnation%20of%20Love.md)  
 4. THE GOSPEL (PROTO-LUKE): CHAPTER 22 (Greek; includes tomb), [https://drive.google.com/open?id=1up-3CTe6jNjZ7vPLoBGX2WBOenWvJz0S6Irb0ysf-r4](https://drive.google.com/open?id=1up-3CTe6jNjZ7vPLoBGX2WBOenWvJz0S6Irb0ysf-r4)  
-6. The Divine Human in Ultimates: A Phenomenological and Theological Profile of the Actual Jesus of Love, [**The Divine Human in Ultimates: A Phenomenological and Theological Profile of the Actual Jesus of Love**](The%20Divine%20Human%20in%20Ultimates_%20A%20Phenomenological%20and%20Theological%20Profile%20of%20the%20Actual%20Jesus%20of%20Love.md)  
+6. The Being of Light: A Statistical Analysis of Near-Death Experience Phenomenology, [The Being of Light: A Statistical Analysis of Near-Death Experience Phenomenology](../01_Consciousness_Studies/The%20Being%20of%20Light_%20A%20Statistical%20Analysis%20of%20Near-Death%20Experience%20Phenomenology.md)  
 7. Emanuel Swedenborg \- Mysticism, Theology, Writings | Britannica, accessed on December 28, 2025, [https://www.britannica.com/biography/Emanuel-Swedenborg/His-theology](https://www.britannica.com/biography/Emanuel-Swedenborg/His-theology)  
-8. Swedenborg's Divine Mission Activation, [Swedenborg's Divine Mission Activation](Swedenborg's%20Divine%20Mission%20Activation.md)  
+8. The Covenant of the Call: A Theological and Phenomenological Analysis of "Do what thou hast promised" in the Spiritual Crisis of Emanuel Swedenborg, [The Covenant of the Call: A Theological and Phenomenological Analysis of "Do what thou hast promised" in the Spiritual Crisis of Emanuel Swedenborg](The%20Covenant%20of%20the%20Call_%20A%20Theological%20and%20Phenomenological%20Analysis%20of%20Do%20what%20thou%20hast%20promised%20in%20the%20Spiritual%20Crisis%20of%20Emanuel%20Swedenborg.md)  
 9. The Rite of Swedenborg \- Robert Burns Lodge No. 59, accessed on December 28, 2025, [https://www.robertburns59.org/the-rite-of-swedenborg/](https://www.robertburns59.org/the-rite-of-swedenborg/)  
 10. Emanuel Swedenborg \- Wikipedia, accessed on December 28, 2025, [https://en.wikipedia.org/wiki/Emanuel\_Swedenborg](https://en.wikipedia.org/wiki/Emanuel_Swedenborg)  
 11. Swedenborgian Research Plan: Spiritual Depth, [Swedenborgian Research Plan_ Spiritual Depth](The%20Critic%20Transformed_%20A%20Swedenborgian%20Re-interpretation%20of%20the%20Historical-Critical%20Method%20and%20the%20Gospels.md)  

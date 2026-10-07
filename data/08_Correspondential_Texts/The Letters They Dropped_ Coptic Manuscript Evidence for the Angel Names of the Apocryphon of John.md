@@ -565,7 +565,7 @@ A glossary of native Coptic body-part terms and their correspondential significa
 
 ### Companion Theses (This Repository)
 
-- [The Unnamed Cartography: Validating Swedenborg's Body-Part Correspondences Against the 365-Angel List of the Apocryphon of John](The%20Unnamed%20Cartography_%20Validating%20Swedenborg%E2%80%99s%20Body-Part%20Correspondences%20Against%20the%20365-Angel%20List%20of%20the%20Apocryphon%20of%20John.md)
+- [The Unnamed Cartography: A Systematic Validation of Swedenborgian Body-Part Correspondences Against the 365-Angel List of the Apocryphon of John](The%20Unnamed%20Cartography_%20A%20Systematic%20Validation%20of%20Swedenborgian%20Body-Part%20Correspondences%20Against%20the%20365-Angel%20List%20of%20the%20Apocryphon%20of%20John.md)
 - [The Tongue Beneath the Translation: Coptic Vocabulary as Material Evidence for the Correspondential Substrate of the Nag Hammadi Library](The%20Tongue%20Beneath%20the%20Translation_%20Coptic%20Vocabulary%20as%20Material%20Evidence%20for%20the%20Correspondential%20Substrate%20of%20the%20Nag%20Hammadi%20Library.md)
-- [The Book of Zoroaster: The Apocryphon of John as Specimen of the Ancient Word](The%20Book%20of%20Zoroaster_%20The%20Apocryphon%20of%20John%20as%20Specimen%20of%20the%20Ancient%20Word.md)
-- [The Living Library: Reading the Nag Hammadi Texts in Correspondence](The%20Living%20Library_%20Reading%20the%20Nag%20Hammadi%20Texts%20in%20Correspondence.md)
+- [The Book of Zoroaster and the Children of the East: Material Evidence for the Ancient Word Transmission Hypothesis from the Nag Hammadi Apocryphon of John](The%20Book%20of%20Zoroaster%20and%20the%20Children%20of%20the%20East_%20Material%20Evidence%20for%20the%20Ancient%20Word%20Transmission%20Hypothesis%20from%20the%20Nag%20Hammadi%20Apocryphon%20of%20John.md)
+- [The Living Library: Correspondential Architecture Across the Nag Hammadi Collection](The%20Living%20Library_%20Correspondential%20Architecture%20Across%20the%20Nag%20Hammadi%20Collection.md)

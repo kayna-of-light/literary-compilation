@@ -4,7 +4,7 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-25
 > 
 > This document reflects **earlier understanding** on:
-> - **#20** [Hebrew Bible Dating](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-20-hebrew-bible-dating) — Document correctly identifies ANE parallels and proto-myth evolution, but repeatedly assumes Persian-period **composition** rather than **curation** of ancient material. The core Genesis narratives contain third-millennium linguistic fossils that predate Hebrew itself.
+> - **#20** [Hebrew Bible Dating](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-20-hebrew-bible-dating) — Document correctly identifies ANE parallels and proto-myth evolution, but repeatedly assumes Persian-period **composition** rather than **curation** of ancient material. The core Genesis narratives contain third-millennium linguistic fossils that predate Hebrew itself.
 > 
 > **Summary**: The linguistic dating method (EBH/LBH) used to assign late dates has been **falsified** by Young, Rezetko, and Ehrensvärd (2008). The pattern of shared motifs with Mesopotamia reflects common third-millennium sources, not exilic borrowing from Babylon.
 > **Established correction (library)**: "The Ancient Word: Philological Evidence for the Uruk-Ebla Origins of Genesis 1-11 and the Book of Job"; "The Paradigm That Cannot See: How Consensus Dating Obscures the Third-Millennium Origins of Hebrew Scripture"

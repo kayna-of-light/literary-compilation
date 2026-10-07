@@ -478,6 +478,5 @@ The present thesis treats these as *independent sources* rather than as premises
 
 - *The Divine Bricolage: A Spiritual History of the Word from Influx to Incarnation* (primary framework synthesis).
 - *A Coherent Framework for Spiritual History: Weaving the Divine Bricolage*.
-- *The Architecture of Regeneration* (on the temporal display of the whole in the spiritual process).
 - *The Divine Human in Ultimates* (on the indwelling as presence of the Divine Human).
 - Related source-material on the *Apocryphon of John* and the *Kephalaia* in the companion repositories *nag-hammadi-analysis* and *manichaean-analysis*.

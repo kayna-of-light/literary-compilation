@@ -230,34 +230,28 @@ The spiritual force of the *self*—the love of self over neighbor—manifests t
 
 ## **Part VI: The Architecture of Regeneration – A Case Study**
 
-History is the macro-regeneration of humanity; individual spiritual growth is the micro-history. The research material provides a detailed case study—"A Chronicle of Spiritual Awakenings"—which allows us to map the archetypal "Threefold Way" of regeneration onto a modern life.13
+History is the macro-regeneration of humanity; individual spiritual growth is the micro-history. The best-documented case of that micro-history in the framework's own lineage is Swedenborg's crisis of 1743–1744, recorded day by day in his private *Journal of Dreams* (March–October 1744) and never intended for publication. It allows the archetypal "Threefold Way" of regeneration to be mapped onto a single, dated life.13
 
 ### **6.1. Purification (Katharsis): The Dark Night**
 
 The first stage is **Purification**, the purging of the false self.
 
-* **The Mechanism:** This often involves a *vastation* or "Dark Night of the Soul." In the case study, the subject experienced a "10-year suppression of spiritual life." This silence was not a failure but a necessary dismantling of the *self* to prepare the "fertile ground for grace".13  
-* **Symbols:** The "Demon" or "Creature" in visions corresponds to **falsities from evil**, the personification of the self-hood that must be overcome.13
+* **The Mechanism:** This often involves a *vastation* or "Dark Night of the Soul." In the *Journal*, the temptations of spring 1744 attack precisely the selfhood that claims what it receives. Swedenborg records that his own understanding "mixed itself into" his reading of Scripture, that he was "continually in a state of combat with double thoughts which were fighting one another," and that he perceived himself "unworthy above others and the greatest of sinners," because the very depth of thought he had been granted was "the very fountain of the sin" when ascribed to himself (*Journal of Dreams* §§49, 74, 118).13  
+* **Symbols:** The temptation is not to vice but to self-ascription: to take as one's own "the good which had been done through me" and to glory in it (*Journal of Dreams* §§70–72). This is the selfhood as obstacle in its most refined form, the vessel claiming the influx.13
 
-### **6.2. Illumination (Theoria): The Divine Curriculum**
+### **6.2. Illumination (Theoria): The Divine Encounter**
 
-The second stage is **Illumination**, a "deluge" of spiritual insight.
+The second stage is **Illumination**, the breakthrough of the spiritual into consciousness.
 
-* **The Mechanism:** Following the void, the subject experienced a rapid series of visions in 2024\. This functioned as a "divine curriculum" to re-educate the mind.13  
-* **The Lexicon of Correspondences:**  
-  * **Jungle/Garden:** Corresponds to "scientifics" or knowledge.  
-  * **Mountain:** Corresponds to **Celestial Love** (Love to the Lord).  
-  * **City:** Corresponds to a **System of Doctrine**.  
-  * **Soldiers in Black Suits:** Corresponds to **Organized Falsities** attacking the truth.  
-  * **Train/Transport:** Corresponds to a **Transition of State** or spiritual progression.  
-  * **Stone Tablet:** Corresponds to the **Divine Law** inscribed on the heart.13
+* **The Mechanism:** On the night of 6–7 April 1744, at Delft, Swedenborg records "a very powerful tremor from the head to the feet, accompanied with a booming sound as if many winds had clashed against one another," which "prostrated me on my face," followed by a vision of Christ "face to face": "a countenance of a holy mien… and also smiling" (*Journal of Dreams* §§51–54).13  
+* **The Lexicon of Correspondences:** In the days that follow, the *Journal* begins reading its own dreams correspondentially. Swedenborg interprets gold reached by climbing as "what is good and pleasing to God," and the light that grows "more and more luminously red" as a sign that "the grace of God is written within it"; his father tying his cuffs signifies "that I am not of the Clergy" (*Journal of Dreams* §§58, 115–116).13 This interpretive habit later becomes the doctrine of correspondences itself.
 
 ### **6.3. Union (Theosis): The New Identity**
 
 The final stage is **Union**, the integration of the spiritual and natural.
 
-* **The Mechanism:** The subject integrates the disparate parts of their experience into a "narrative identity." This culminates in the "Commissioning," where a specific function or "Use" is revealed (e.g., "The Protector").  
-* **Symbol:** The "Woman (The Chained)" represents the **Anima** or the **Affection for Good**. Her liberation and integration signify the "Heavenly Marriage" within the soul.13
+* **The Mechanism:** The Delft encounter culminates in a commission. Christ asks whether Swedenborg has "a bill of health"; he answers, "Lord, Thou knowest better than I"; and receives the reply, "Well, then do," which he takes "to signify, 'Love me truly,' or 'Do what thou hast promised.'" He adds at once: "I found it was not in my own power" (*Journal of Dreams* §54). The specific function, or "Use," is revealed as a task to be carried out, not as a status to be possessed.13  
+* **Symbol:** The prayer that closes the episode states the union in its receptive form: Swedenborg prays "to receive the love which is the work of Jesus Christ and not my own" (*Journal of Dreams* §56). Love received as not one's own is the "Heavenly Marriage" within the soul, the vessel joined to what flows into it.13
 
 ---
 
@@ -327,5 +321,5 @@ The directive for future inquiry is clear. We must abandon the horizontal confli
 9. The Two Hearts of Creation: A Consciousness-Driven..., [**The Two Hearts of Creation: A Consciousness-Driven Evolution of Myth**](../06_Mythological_Studies/The%20Two%20Hearts%20of%20Creation_%20A%20Consciousness-Driven%20Evolution%20of%20Myth.md)  
 10. Consciousness as a Selective Pressure: A Scientific and Philosophical Analysis of the Consciousness-Driven Evolution Hypothesis, [**Consciousness as a Selective Pressure: A Scientific and Philosophical Analysis of the Consciousness-Driven Evolution Hypothesis**](../01_Consciousness_Studies/Consciousness%20as%20a%20Selective%20Pressure_%20A%20Scientific%20and%20Philosophical%20Analysis%20of%20the%20Consciousness-Driven%20Evolution%20Hypothesis.md)  
 12. A Comparative Analysis of Non-Religious Christolog..., [**A Comparative Analysis of Non-Religious Christologies: The Battle for the 'Lord in Ultimates'**](../03_Biblical_Scholarship/A%20Comparative%20Analysis%20of%20Non-Religious%20Christologies_%20The%20Battle%20for%20the%20'Lord%20in%20Ultimates'.md)  
-13. The Architecture of Regeneration: A Theological an..., [The Architecture of Regeneration_ A Theological an...](../02_Swedenborgian_Theology/The%20Architecture%20of%20Regeneration_%20A%20Theological%20and%20Phenomenological%20Analysis%20of%20a%20Modern%20Spiritual%20Journey.md)  
+13. Swedenborg, Emanuel. *Emanuel Swedenborg's Journal of Dreams and Spiritual Experiences in the Year Seventeen Hundred and Forty-Four*. Translated by C. Th. Odhner. Bryn Athyn, PA: Academy Book Room, 1918. See also [The Covenant of the Call: A Theological and Phenomenological Analysis of "Do what thou hast promised" in the Spiritual Crisis of Emanuel Swedenborg](../02_Swedenborgian_Theology/The%20Covenant%20of%20the%20Call_%20A%20Theological%20and%20Phenomenological%20Analysis%20of%20Do%20what%20thou%20hast%20promised%20in%20the%20Spiritual%20Crisis%20of%20Emanuel%20Swedenborg.md) and [The Unhidden Man: Emanuel Swedenborg's Inner World and the Forging of a Prophetic Vision](../02_Swedenborgian_Theology/The%20Unhidden%20Man_%20Emanuel%20Swedenborg's%20Inner%20World%20and%20the%20Forging%20of%20a%20Prophetic%20Vision.md).  
 14. Researching Near-Death Experiences, [Researching Near-Death Experiences](../01_Consciousness_Studies/A%20Phenomenological%20Framework%20of%20the%20Near-Death%20Experience_%20A%20Synthesis%20of%20First-Person%20Accounts.md)

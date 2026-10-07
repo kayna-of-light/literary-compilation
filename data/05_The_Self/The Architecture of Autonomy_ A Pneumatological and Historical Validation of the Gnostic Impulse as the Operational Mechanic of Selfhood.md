@@ -117,11 +117,11 @@ This validates the *Architecture's* claim that Gnostic salvation is "self-realiz
 
 ### **3.2 The Sociology of "Self-Spirituality" and Narcissism**
 
-The *Architecture* links the Gnostic Impulse to the modern "Spiritual But Not Religious" (SBNR) movement, framing it as a "textbook example" of the the self at work.1 Sociological research by Paul Heelas, Linda Woodhead, and others strongly supports this validation. They characterize the "New Age" and SBNR movements as a "Spiritual Revolution" defined by a "subjective turn" away from external authority (institutions, scriptures) toward inner experience.34
+The *Architecture* links the Gnostic Impulse to the modern "Spiritual But Not Religious" (SBNR) movement, framing it as the modern form of the same self-deifying anthropology.1 Sociological research by Paul Heelas, Linda Woodhead, and others strongly supports this validation. They characterize the "New Age" and SBNR movements as a "Spiritual Revolution" defined by a "subjective turn" away from external authority (institutions, scriptures) toward inner experience.34
 
 This phenomenon is termed **"Self-Spirituality."** As Heelas notes, "To experience the 'Self' itself is to experience 'inner spirituality'".35 The central tenet is that the "True Self" is divine. This perfectly mirrors the Gnostic doctrine of the "Divine Spark." The individual trusts their own intuitions and experiences as the final arbiter of truth, rejecting "mediated" religion.36
 
-The *Architecture's* explicit link between this dynamic and **narcissism** is also validated by the research.1 Critics and psychologists have noted that the focus on "self-realization" often collapses into "self-worship" or "spiritual narcissism".36 By sacralizing the self, the individual removes any external standard of judgment. As one study notes, "The divine self is the author of our life story," effectively making the ego the god of its own narrative.37
+Critics and psychologists have noted that the focus on "self-realization" often collapses into "self-worship" or "spiritual narcissism".36 By sacralizing the self, the individual removes any external standard of judgment. As one study notes, "The divine self is the author of our life story," effectively making the ego the god of its own narrative.37
 
 This creates the "closed loop of validation" described in the *Architecture*.1 If "I am God," then my desires, impulses, and truths are divine. This obliterates the Swedenborgian distinction between the "internal man" (which receives from the Lord) and the "external man" (which is driven by the the self). In the SBNR model, the the self is simply relabeled as the "Higher Self," allowing the individual to worship their own reflection without guilt.
 

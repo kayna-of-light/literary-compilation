@@ -668,12 +668,12 @@ The correspondential architecture of Revelation did not need Swedenborg to compl
 
 ### Internal Framework Documents
 
-- [Three Witnesses to One Architecture: The Seven-Fold Regeneration Cycle in the Kephalaia, Genesis, and the Song of Solomon](../06_Mythological_Studies/Three%20Witnesses%20to%20One%20Architecture_%20The%20Seven-Fold%20Regeneration%20Cycle%20in%20the%20Kephalaia,%20Genesis,%20and%20the%20Song%20of%20Solomon.md)
-- [A Garden Enclosed: The Song of Solomon as Correspondential Teaching on the Seven States of Regeneration](A%20Garden%20Enclosed_%20The%20Song%20of%20Solomon%20as%20Correspondential%20Teaching%20on%20the%20Seven%20States%20of%20Regeneration.md)
+- [Three Witnesses to One Architecture: Genesis 1–11 and the Correspondential Kephalaia](../06_Mythological_Studies/Three%20Witnesses%20to%20One%20Architecture_%20Genesis%201-11%20and%20the%20Correspondential%20Kephalaia.md)
+- [A Garden Enclosed: The Song of Solomon Read in Correspondence](A%20Garden%20Enclosed_%20The%20Song%20of%20Solomon%20Read%20in%20Correspondence.md)
 - [The Enochic Thread in the Johannine Corpus: Testing the Jamesian Origin Hypothesis](The%20Enochic%20Thread%20in%20the%20Johannine%20Corpus_%20Testing%20the%20Jamesian%20Origin%20Hypothesis.md)
-- [Asking the Skin That Wraps the Wolf: A Theological–Forensic Reading of the Pauline Persona](../02_Swedenborgian_Theology/Asking%20the%20Skin%20That%20Wraps%20the%20Wolf_%20A%20Theological%E2%80%93Forensic%20Reading%20of%20the%20Pauline%20Persona.md)
+- [Asking the Skin to Be the Heart: The Category Error of Physical Miracle Theology and the Architecture of Discrete Degrees](../02_Swedenborgian_Theology/Asking%20the%20Skin%20to%20Be%20the%20Heart_%20The%20Category%20Error%20of%20Physical%20Miracle%20Theology%20and%20the%20Architecture%20of%20Discrete%20Degrees.md)
 - [Reading Revelation 13 — Correspondential Notes](../../docs/revelations_13/READING_REVELATIONS_13_NOTES.md)
-- [Two Registers, One Architecture: The Song of Solomon and the Kephalaia Substrate as Dual Witnesses to the Seven States of Regeneration](../06_Mythological_Studies/Two%20Registers,%20One%20Architecture_%20The%20Song%20of%20Solomon%20and%20the%20Kephalaia%20Substrate%20as%20Dual%20Witnesses%20to%20the%20Seven%20States%20of%20Regeneration.md)
+- [Two Registers of One Perception: The Song of Solomon and the Regenerative Substrate of the Kephalaia](../06_Mythological_Studies/Two%20Registers%20of%20One%20Perception_%20The%20Song%20of%20Solomon%20and%20the%20Regenerative%20Substrate%20of%20the%20Kephalaia.md)
 
 ### Secondary Scholarship
 

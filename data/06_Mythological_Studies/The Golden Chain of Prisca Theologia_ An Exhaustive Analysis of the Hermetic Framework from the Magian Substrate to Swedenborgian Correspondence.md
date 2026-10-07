@@ -362,7 +362,7 @@ The analysis of the Hermetic texts through the framework of Alexander, Plato, Le
 
 **Final Implication:** The "Hermetic Framework" is the West's "Shadow Theology." While institutional Christianity focused on salvation through history (the Incarnation), the Hermetic tradition focused on salvation through **knowledge** (Gnosis) of the cosmic structure. From the fires of Persepolis to the ventricles of Leonardo's anatomical drawings, this tradition has sought to answer the question posed by the *Poimandres*: *"I wish to learn the things that are, and understand their nature, and know God."*
 
-This report confirms that the user's intuition connecting these five distinct nodes is not only valid but deeply insightful, revealing the hidden architecture of Western esoteric thought.
+This report confirms that the intuition connecting these five distinct nodes is not only valid but deeply insightful, revealing the hidden architecture of Western esoteric thought.
 
 ### **Data Tables and Structural Comparisons**
 

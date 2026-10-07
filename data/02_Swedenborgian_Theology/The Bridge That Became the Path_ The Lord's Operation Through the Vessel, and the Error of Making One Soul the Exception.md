@@ -548,7 +548,7 @@ The following table compares the glorification doctrine as formulated by Swedenb
 
 19. [The Divine Human in Ultimates: A Phenomenological and Forensic Re-Evaluation of the Aligned Soul](../02_Swedenborgian_Theology/The%20Divine%20Human%20in%20Ultimates_%20A%20Phenomenological%20and%20Forensic%20Re-Evaluation%20of%20the%20Aligned%20Soul.md). Jesus as the Aligned Human; Being of Light as Jesus (Christians), as Amida (Buddhists), as Light (secularists); the constant-state/variable-form structure.
 
-20. [The Ancient Word Recovered: Extracting the Correspondential Substrate of the Kephalaia](../08_Correspondential_Texts/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md). The extraction pipeline; 110 correspondence lexicon entries at 96% established/strong confidence; independent witness confirmation of the Ancient Word transmission hypothesis.
+20. [The Ancient Word Recovered: Extracting the Correspondential Substrate of the Kephalaia](../00_Framework/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md). The extraction pipeline; 110 correspondence lexicon entries at 96% established/strong confidence; independent witness confirmation of the Ancient Word transmission hypothesis.
 
 21. [Reading Revelations 13](../../docs/revelations_13/READING_REVELATIONS_13.md). Correspondential reading of Revelation 13; companion analysis of the beast-and-dragon pattern as the period of dominant paradigm authority described in the Revelation 12 narrative.
 

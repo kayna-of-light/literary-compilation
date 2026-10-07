@@ -1246,16 +1246,16 @@ Texts classified as "Rich" or "Extraordinary" account for 40% of unique texts (5
 
 ### Framework Documents
 
-- [The Architecture of Hidden Divinity_ A Comprehensive Profile of the Gnostic Impulse Across Two Millennia](The%20Architecture%20of%20Hidden%20Divinity_%20A%20Comprehensive%20Profile%20of%20the%20Gnostic%20Impulse%20Across%20Two%20Millennia.md)
-- [The Architecture of Autonomy_ The Soteriological Chasm Between Gnosis and Influx](The%20Architecture%20of%20Autonomy_%20The%20Soteriological%20Chasm%20Between%20Gnosis%20and%20Influx.md)
-- [The Apostle of the Archons_ A Gnostic Substrate in the Pauline Corpus](The%20Apostle%20of%20the%20Archons_%20A%20Gnostic%20Substrate%20in%20the%20Pauline%20Corpus.md)
-- [The Mistress Who Became a Sister_ Correspondential Composition in the Gospel of Mary and the Kephalaia of the Teacher](The%20Mistress%20Who%20Became%20a%20Sister_%20Correspondential%20Composition%20in%20the%20Gospel%20of%20Mary%20and%20the%20Kephalaia%20of%20the%20Teacher.md)
-- [Swedenborg's Ancient Word and Science](../02_Swedenborgian_Theology/Swedenborg%27s%20Ancient%20Word%20and%20Science.md)
-- [The Science of Correspondences_ Magi's Principle of Correspondences](../02_Swedenborgian_Theology/The%20Science%20of%20Correspondences_%20Magi%27s%20Principle%20of%20Correspondences.md)
-- [A Library of Biblical Correspondences_ Natural Objects and Their Spiritual Meanings](../02_Swedenborgian_Theology/A%20Library%20of%20Biblical%20Correspondences_%20Natural%20Objects%20and%20Their%20Spiritual%20Meanings.md)
+- [The Architecture of Hidden Divinity: A Comprehensive Profile of the Gnostic Impulse and Its Historical Mechanics](../05_The_Self/The%20Architecture%20of%20Hidden%20Divinity_%20A%20Comprehensive%20Profile%20of%20the%20Gnostic%20Impulse%20and%20Its%20Historical%20Mechanics.md)
+- [The Architecture of Autonomy: A Pneumatological and Historical Validation of the Gnostic Impulse as the Operational Mechanic of Selfhood](../05_The_Self/The%20Architecture%20of%20Autonomy_%20A%20Pneumatological%20and%20Historical%20Validation%20of%20the%20Gnostic%20Impulse%20as%20the%20Operational%20Mechanic%20of%20Selfhood.md)
+- [The Apostle of the Archons: A Forensic Validation of the Gnostic Substrate in the Pauline Corpus and the Imperial Co-optation of the Pneuma](../04_Early_Christian_History/The%20Apostle%20of%20the%20Archons_%20A%20Forensic%20Validation%20of%20the%20Gnostic%20Substrate%20in%20the%20Pauline%20Corpus%20and%20the%20Imperial%20Co-optation%20of%20the%20Pneuma.md)
+- [The Mistress Who Became a Sister: A Forensic Deconstruction of the Martha-Mary Pericope and the Recovery of Mariamene Marta](../04_Early_Christian_History/The%20Mistress%20Who%20Became%20a%20Sister_%20A%20Forensic%20Deconstruction%20of%20the%20Martha-Mary%20Pericope%20and%20the%20Recovery%20of%20Mariamene%20Marta.md)
+- [Echoes of an Ancient Word: A Scientific and Mythological Inquiry into the Caliber of a Lost Universal Knowledge](../02_Swedenborgian_Theology/Echoes%20of%20an%20Ancient%20Word_%20A%20Scientific%20and%20Mythological%20Inquiry%20into%20the%20Caliber%20of%20a%20Lost%20Universal%20Knowledge.md)
+- [The Magian Cosmos: A Comprehensive Analysis of the Principle of Correspondences in Ancient Iranian Religion and Its Esoteric Legacy](../02_Swedenborgian_Theology/The%20Magian%20Cosmos_%20A%20Comprehensive%20Analysis%20of%20the%20Principle%20of%20Correspondences%20in%20Ancient%20Iranian%20Religion%20and%20Its%20Esoteric%20Legacy.md)
+- [A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg](../02_Swedenborgian_Theology/A%20Library%20of%20Biblical%20Correspondences%20in%20Nature%20and%20Objects%20According%20to%20Emanuel%20Swedenborg.md)
 
 ### Consciousness Studies
 
-- [Being of Light — Statistical Analysis of NDE Phenomenology](../../structured-data-analysis/projects/nde/reports/) (structured-data-analysis repository)
-- [Validating Swedenborg's Correspondences](../01_Consciousness_Studies/Validating%20Swedenborg%27s%20Correspondences.md)
-- [Testing Swedenborg's Correspondences Empirically](../01_Consciousness_Studies/Testing%20Swedenborg%27s%20Correspondences%20Empirically.md)
+- [The Being of Light: A Statistical Analysis of Near-Death Experience Phenomenology](../01_Consciousness_Studies/The%20Being%20of%20Light_%20A%20Statistical%20Analysis%20of%20Near-Death%20Experience%20Phenomenology.md)
+- [The Hermeneutics of the Mundus Imaginalis: An Independent Methodological Validation of Swedenborgian Correspondences](../02_Swedenborgian_Theology/The%20Hermeneutics%20of%20the%20Mundus%20Imaginalis_%20An%20Independent%20Methodological%20Validation%20of%20Swedenborgian%20Correspondences.md)
+- [The Semiotics of the Spirit: An Empirical and Hermeneutic Validation of Swedenborg’s Doctrine of Correspondences Against the Canon of the New Church](../02_Swedenborgian_Theology/The%20Semiotics%20of%20the%20Spirit_%20An%20Empirical%20and%20Hermeneutic%20Validation%20of%20Swedenborg%E2%80%99s%20Doctrine%20of%20Correspondences%20Against%20the%20Canon%20of%20the%20New%20Church.md)

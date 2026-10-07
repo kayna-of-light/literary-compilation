@@ -605,10 +605,10 @@ The answer this thesis advances is that it is.
 
 ### Companion Theses in the Library
 
-5. [*The Tongue Beneath the Translation*](../08_Correspondential_Texts/The%20Tongue%20Beneath%20the%20Translation.md). The companion analysis of the Coptic vocabulary preserved in the substrate, including the lexical attestation of the five-faculty terminology.
-6. [*The Living Library*](../08_Correspondential_Texts/The%20Living%20Library.md). The systematic analysis of correspondential architecture across the Nag Hammadi corpus; the framing thesis of which the present demonstration is a companion case.
-7. [*The Unnamed Cartography*](../08_Correspondential_Texts/The%20Unnamed%20Cartography.md). The body-correspondence analysis of the *Apocryphon of John*, which sits beside the present thesis as another concrete demonstration of the architecture composed in a single text.
-8. [*The Architecture of the Sacred*](../06_Mythological_Studies/The%20Architecture%20of%20the%20Sacred.md). The longer treatment of the structural-numerological architecture identified across the Ancient Word corpus.
+5. [*The Tongue Beneath the Translation*](The%20Tongue%20Beneath%20the%20Translation_%20Coptic%20Vocabulary%20as%20Material%20Evidence%20for%20the%20Correspondential%20Substrate%20of%20the%20Nag%20Hammadi%20Library.md). The companion analysis of the Coptic vocabulary preserved in the substrate, including the lexical attestation of the five-faculty terminology.
+6. [*The Living Library*](The%20Living%20Library_%20Correspondential%20Architecture%20Across%20the%20Nag%20Hammadi%20Collection.md). The systematic analysis of correspondential architecture across the Nag Hammadi corpus; the framing thesis of which the present demonstration is a companion case.
+7. [*The Unnamed Cartography*](The%20Unnamed%20Cartography_%20A%20Systematic%20Validation%20of%20Swedenborgian%20Body-Part%20Correspondences%20Against%20the%20365-Angel%20List%20of%20the%20Apocryphon%20of%20John.md). The body-correspondence analysis of the *Apocryphon of John*, which sits beside the present thesis as another concrete demonstration of the architecture composed in a single text.
+8. [*The Architecture of the Sacred*](../06_Mythological_Studies/The%20Architecture%20of%20the%20Sacred_%20A%20Cognitive-Archaeological%20Analysis%20of%20Prime%20Number%20Evolution%20and%20Spiritual%20Correspondence.md). The longer treatment of the structural-numerological architecture identified across the Ancient Word corpus.
 
 ### Recognition Vocabulary
 

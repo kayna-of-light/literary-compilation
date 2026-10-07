@@ -92,7 +92,7 @@ This allies the Family of Jesus with the radical, anti-urban, anti-Hellenistic f
 
 **4\. The Sectarian Matrix: Zoroastrian Roots and Essene Links**
 
-The user query highlights a "specific notion" of ideology connected to the Second Temple period, involving Zoroastrian roots and Essene links. Scientific analysis of the ideological DNA of the early Jerusalem church confirms these connections, suggesting a syncretism that formed the backbone of their dualistic worldview.
+This inquiry highlights a "specific notion" of ideology connected to the Second Temple period, involving Zoroastrian roots and Essene links. Scientific analysis of the ideological DNA of the early Jerusalem church confirms these connections, suggesting a syncretism that formed the backbone of their dualistic worldview.
 
 ### **4.1 Zoroastrian Dualism and the "Two Spirits"**
 
@@ -106,7 +106,7 @@ The "ideology" of the family of Jesus was thus a radicalized Jewish dualism. The
 
 ### **4.2 The Essene Nexus: The Blueprint for the Church**
 
-The profile "highly suggests links with Essenes" \[User Query\]. The structural and theological parallels between the Jerusalem Church and the Qumran community (Essenes) are too numerous to be coincidental. They suggest that the family of Jesus may have emerged from, or been heavily influenced by, this sectarian milieu.
+The profile "highly suggests links with Essenes" . The structural and theological parallels between the Jerusalem Church and the Qumran community (Essenes) are too numerous to be coincidental. They suggest that the family of Jesus may have emerged from, or been heavily influenced by, this sectarian milieu.
 
 1. **The Name of the Group:** The Jerusalem community called itself "The Poor" (*Ebionim*). The Qumran scrolls also refer to their community as "The Poor" and "The Simple."  
 2. **Community of Goods:** The practice of the early church to sell property and hold all things in common (Acts 4\) is identical to the Essene rule described by Josephus and the *Community Rule* scroll. This was not a general Marxist ideal but a specific sectarian requirement for purity—separating their wealth from the "pollution" of the outside world.  
@@ -146,7 +146,7 @@ This narrative suggests that the split between James and Paul was not merely a "
 
 **6\. The Material Evidence: Necrolatry and the Talpiot Tomb**
 
-The user query necessitates a scientific rejection of the "bodily assumption" in favor of historical probability. If Jesus was a human male who died in Judea in the 30s CE, he was buried. The archaeological record provides a compelling profile of a family that lived, died, and was buried in Jerusalem, utilizing a family crypt that has likely been identified.
+This inquiry necessitates a scientific rejection of the "bodily assumption" in favor of historical probability. If Jesus was a human male who died in Judea in the 30s CE, he was buried. The archaeological record provides a compelling profile of a family that lived, died, and was buried in Jerusalem, utilizing a family crypt that has likely been identified.
 
 ### **6.1 The James Ossuary: The Epigraphic Anchor**
 

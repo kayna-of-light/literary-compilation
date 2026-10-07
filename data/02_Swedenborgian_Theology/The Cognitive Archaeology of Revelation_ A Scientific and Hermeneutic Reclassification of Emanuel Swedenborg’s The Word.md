@@ -36,7 +36,7 @@ Therefore, the "correspondential layout" is the textual preservation of the *Lis
 
 ### **2.3. The Scribe as "Bricoleur" of the Divine**
 
-The user’s query highlights the need to understand why ancient scribes did not view editing as distortion. Modern scholarship often views the "Redactor" (R) as an editor who clumsily stitched together contradictory sources (J, E, P, D). However, viewed through the "spiritual mirror" of the ancient mind, the Redactor was a "Bricoleur"—a craftsman who builds structures from available cultural debris.
+This inquiry highlights the need to understand why ancient scribes did not view editing as distortion. Modern scholarship often views the "Redactor" (R) as an editor who clumsily stitched together contradictory sources (J, E, P, D). However, viewed through the "spiritual mirror" of the ancient mind, the Redactor was a "Bricoleur"—a craftsman who builds structures from available cultural debris.
 
 In the *correspondential* worldview, a narrative fragment (e.g., a folk story about a flood, a list of tribal movements) was preserved not because it was "historically accurate" in the modern sense, but because it possessed "Resonance." The scribe perceived that a specific story contained a *mēnōg* truth. The process of editing was the process of "Influx" finding its "Vessel." The scribe felt a spiritual compulsion (influx) to unite the "J" source (Will/Love) with the "P" source (Intellect/Truth) because the spiritual reality of the "Grand Man" required both faculties to be represented in the text. Thus, the "evolution" of the text was the *gētīg* manifestation of the evolution of the revelation (*Revelation and Bricolage*).
 

@@ -4,7 +4,7 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-25
 > 
 > This document reflects **evolved understanding** on:
-> - **#20** [Hebrew Bible Dating](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-20-hebrew-bible-dating) — The proto-myth comparative analysis and "heart of unity" vs "heart of division" framework is CORRECT. However, the document's framing of *tehom* as a "polemic" against Tiamat assumes exilic encounter. The philological evidence shows shared third-millennium inheritance, not polemical counter-narrative.
+> - **#20** [Hebrew Bible Dating](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-20-hebrew-bible-dating) — The proto-myth comparative analysis and "heart of unity" vs "heart of division" framework is CORRECT. However, the document's framing of *tehom* as a "polemic" against Tiamat assumes exilic encounter. The philological evidence shows shared third-millennium inheritance, not polemical counter-narrative.
 > 
 > **Summary**: The *tehom*/Tiamat parallel reflects common Semitic inheritance (Eblaite cognates, 2400 BCE), not Persian-period polemic. The "taming of chaos" in Genesis may represent the ORIGINAL unified cosmology preserved through transmission.
 > **Established correction (library)**: "The Ancient Word: Philological Evidence for the Uruk-Ebla Origins of Genesis 1-11 and the Book of Job"; "The Paradigm That Cannot See"

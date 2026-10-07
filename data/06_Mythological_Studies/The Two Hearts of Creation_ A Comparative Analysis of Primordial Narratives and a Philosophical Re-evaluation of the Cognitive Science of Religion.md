@@ -4,7 +4,7 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-25
 > 
 > This document reflects **evolved understanding** on:
-> - **#20** [Hebrew Bible Dating](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-20-hebrew-bible-dating) — The proto-myth comparative analysis and "heart of unity" vs "heart of division" framework is CORRECT and represents the project's mature understanding. However, the document assumes these patterns result from Persian-period "demythologization" of Babylonian sources. The philological evidence shows shared third-millennium Mesopotamian inheritance, not exilic borrowing.
+> - **#20** [Hebrew Bible Dating](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-20-hebrew-bible-dating) — The proto-myth comparative analysis and "heart of unity" vs "heart of division" framework is CORRECT and represents the project's mature understanding. However, the document assumes these patterns result from Persian-period "demythologization" of Babylonian sources. The philological evidence shows shared third-millennium Mesopotamian inheritance, not exilic borrowing.
 > 
 > **Summary**: The *tehom*/Tiamat etymological parallel reflects common Semitic inheritance (Eblaite, 2400 BCE), not exilic encounter with *Enuma Elish*. The demythologized Genesis may represent the ORIGINAL unified vision preserved through transmission.
 > **Established correction (library)**: "The Ancient Word: Philological Evidence for the Uruk-Ebla Origins of Genesis 1-11 and the Book of Job"; "The Paradigm That Cannot See"

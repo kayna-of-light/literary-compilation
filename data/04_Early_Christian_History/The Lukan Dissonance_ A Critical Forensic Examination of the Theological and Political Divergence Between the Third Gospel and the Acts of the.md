@@ -208,7 +208,7 @@ Thus, the "Jamesian view for a Greek-Roman culture" in Luke and the "harmonized 
 
 1. Acts of the Apostles \- Wikipedia, accessed on December 21, 2025, [https://en.wikipedia.org/wiki/Acts\_of\_the\_Apostles](https://en.wikipedia.org/wiki/Acts_of_the_Apostles)  
 2. Gospel of Luke \- Wikipedia, accessed on December 21, 2025, [https://en.wikipedia.org/wiki/Gospel\_of\_Luke](https://en.wikipedia.org/wiki/Gospel_of_Luke)  
-3. Paul's Damascus Vision: Scholarly Critique, [Paul's Damascus Vision_ Scholarly Critique](Paul's%20Damascus%20Vision_%20Scholarly%20Critique.md)  
+3. The Damascus Divergence: A Critical Forensic Assessment of Pauline Authority, Chronology, and the Gnostic Vector, [The Damascus Divergence: A Critical Forensic Assessment of Pauline Authority, Chronology, and the Gnostic Vector](The%20Damascus%20Divergence_%20A%20Critical%20Forensic%20Assessment%20of%20Pauline%20Authority%2C%20Chronology%2C%20and%20the%20Gnostic%20Vector.md)  
 4. How are scholars who date the gospel used by Marcion as earlier than canonical Luke thinking about the Book of Acts? \- Reddit, accessed on December 21, 2025, [https://www.reddit.com/r/AcademicBiblical/comments/1i3l0xb/how\_are\_scholars\_who\_date\_the\_gospel\_used\_by/](https://www.reddit.com/r/AcademicBiblical/comments/1i3l0xb/how_are_scholars_who_date_the_gospel_used_by/)  
 5. Ebionites \- Wikipedia, accessed on December 21, 2025, [https://en.wikipedia.org/wiki/Ebionites](https://en.wikipedia.org/wiki/Ebionites)  
 6. Ebionites \- Search results provided by BiblicalTraining, accessed on December 21, 2025, [https://www.biblicaltraining.org/library/ebionites](https://www.biblicaltraining.org/library/ebionites)  

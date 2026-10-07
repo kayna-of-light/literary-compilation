@@ -68,7 +68,7 @@ While Proverbs represents the crystallization of the didactic *Mashal* tradition
 
 ### 3.1 Swedenborg's Distinction: "The Word" vs. "The Writings"
 
-Swedenborg's theological restructuring of the canon provides a unique heuristic for understanding the Job-Proverbs dichotomy. He distinguishes between books that constitute "The Word" (*Verbum*) and those that are merely "Writings" (*Hagiographa* or *Ketuvim*).
+Swedenborg's theological restructuring of the canon provides a unique heuristic for understanding the Job-Proverbs dichotomy. He distinguishes between books that constitute "The Word" (*Verbum*) and those that are merely "Writings": "The books of the Word are all those which have an internal sense; and those which have not an internal sense are not the Word" (*Arcana Coelestia* §10325).
 
 - **The Word:** Books dictated by "Immediate Inspiration" that possess a continuous, internal spiritual sense in every word and syllable. This internal sense describes the regeneration of man and the glorification of the Lord. The Pentateuch, the Prophets (Joshua–Kings, Isaiah–Malachi), the Psalms, the Gospels, and Revelation fall into this category.
 

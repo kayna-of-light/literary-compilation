@@ -122,7 +122,7 @@ The "Noah" figure represents the few survivors who had a latent capacity for ext
 
 ## **V. Techniques of Internal Respiration: Swedenborg’s Praxis**
 
-The user’s query explicitly requires the "techniques required." While Swedenborg never codified his methods into a "yoga sutra," a careful forensic analysis of the *Spiritual Diary*, *Journal of Dreams*, and *Arcana Coelestia* reveals the specific practices he employed to re-access the internal respiration of the Most Ancient Church. These techniques allowed him to exist in two worlds simultaneously, a state he emphasizes was "miraculous" and "formed by the Lord".
+This inquiry explicitly requires the "techniques required." While Swedenborg never codified his methods into a "yoga sutra," a careful forensic analysis of the *Spiritual Diary*, *Journal of Dreams*, and *Arcana Coelestia* reveals the specific practices he employed to re-access the internal respiration of the Most Ancient Church. These techniques allowed him to exist in two worlds simultaneously, a state he emphasizes was "miraculous" and "formed by the Lord".
 
 ### **5.1 Technique 1: Tacit Respiration (Hypoventilation)**
 

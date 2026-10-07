@@ -159,7 +159,7 @@ The scribes successfully preserved the internal history of the church—the shif
 
 ## **V. The Mechanism of Influx: Spiritual Instructions and the Scribe**
 
-The user’s query asks to evaluate the claim that these scribes received "spiritual instructions" to perform this correction. The research 18 supports this by linking the scribal process to **Spiritual Influx** and modern **NDE** data.
+This inquiry asks to evaluate the claim that these scribes received "spiritual instructions" to perform this correction. The research 18 supports this by linking the scribal process to **Spiritual Influx** and modern **NDE** data.
 
 ### **5.1 Consciousness-Driven Evolution (CDE) of Myths**
 

@@ -157,7 +157,7 @@ This is the most concentrated image in the entire vision. It describes a church 
 
 ## 6\. The Three Degrees: A Map of Spiritual Death
 
-The user's insight — that the numerical structure of 1-48, 1-53, 1-94 functions like the number 666, mapping a state across the three discrete degrees — unlocks the architectural logic of the entire vision.
+The insight — that the numerical structure of 1-48, 1-53, 1-94 functions like the number 666, mapping a state across the three discrete degrees — unlocks the architectural logic of the entire vision.
 
 ### 6\.1 The Celestial Level: "1"
 

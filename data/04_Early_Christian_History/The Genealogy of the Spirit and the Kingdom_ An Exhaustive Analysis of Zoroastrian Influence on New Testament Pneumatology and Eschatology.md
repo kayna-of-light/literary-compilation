@@ -27,7 +27,7 @@ Crucial to this discussion is the internal complexity of the Godhead in Zoroastr
 | **Haurvatat** | Wholeness | Perfection / Salvation | Eternal Life / Salvation |
 | **Ameretat** | Immortality | Deathlessness | Resurrection |
 
-The relevance of this heptad to the user's query is immediate. Two of these entities—*Asha Vahishta* and *Khshathra Vairya*—correspond directly to the concepts of the "Spirit of Truth" and the "Kingdom".
+The relevance of this heptad to the question under examination is immediate. Two of these entities—*Asha Vahishta* and *Khshathra Vairya*—correspond directly to the concepts of the "Spirit of Truth" and the "Kingdom".
 
 ### **1.2 The Doctrine of the Two Spirits**
 

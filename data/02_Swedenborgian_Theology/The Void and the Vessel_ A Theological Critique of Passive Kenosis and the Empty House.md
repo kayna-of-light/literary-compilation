@@ -37,7 +37,7 @@ In correspondence, numbers are qualitative, not merely quantitative. The number 
 
 #### **1.2.2 The Definition of Profanation: The Fatal Mixture**
 
-The user's intuition links the "empty house" to **profanation**, a connection explicitly confirmed by the research material. Profanation is distinct from simple sin. Simple sin is the commission of evil from ignorance, weakness, or heredity. Profanation is the *mixing* of the holy and the profane. It occurs when a person first acknowledges truth (sweeps the house) and perhaps even lives by it for a time, but then internally returns to their former evils (the unclean spirit returns).  
+The intuition under examination links the "empty house" to **profanation**, a connection explicitly confirmed by the research material. Profanation is distinct from simple sin. Simple sin is the commission of evil from ignorance, weakness, or heredity. Profanation is the *mixing* of the holy and the profane. It occurs when a person first acknowledges truth (sweeps the house) and perhaps even lives by it for a time, but then internally returns to their former evils (the unclean spirit returns). 
 This mixing fuses the image of heaven with the image of hell within the mind. Because these two opposing realities must be separated for a soul to exist in the afterlife (one cannot be in both heaven and hell simultaneously), the result of profanation is a "total vastation" or spiritual destruction that is "worse than the first" state of simple ignorance.
 
 * **The Mechanism of the Worse State:** Why is the last state worse? Because the "garnishing" (the knowledge of truth) is now used to serve the "seven spirits" (the deeper evils). The person uses their theological knowledge to rationalize, defend, and hide their corruption. They become a "whited sepulcher." The "Passive Kenosis" model creates the ideal conditions for profanation because it emphasizes the *removal* of the negative (sweeping) without ensuring the immediate and permanent *implanting* of the positive (Divine Love) which alone can hold the house against the return of the spirits.
@@ -68,7 +68,7 @@ The central argument is this: "Kenosis... insinuates that we have to empty ourse
 
 ## **Part III: The Mechanism of Active Displacement (Divine Hydrodynamics)**
 
-The user posits a corrective model: *"It is the Lord that drives out falsity through the good of love that flows in... Not by holding back, but by putting into action."* This section substantiates this "Active Displacement" model using the physics of Influx found in the research material.
+The thesis under examination posits a corrective model: *"It is the Lord that drives out falsity through the good of love that flows in... Not by holding back, but by putting into action."* This section substantiates this "Active Displacement" model using the physics of Influx found in the research material.
 
 ### **3.1 The Law of Influx: Nature Abhors a Vacuum**
 
@@ -83,7 +83,7 @@ The concept of "removal" in Swedenborgian thought is nuanced. Evils are not "cas
 
 ### **3.2 The Role of "Water" and "Washing"**
 
-The user states: *"It is what water means, the washing away of falsities by truths. And truths come from an active life..."* The research confirms this correspondence in high fidelity.
+The thesis under examination states: *"It is what water means, the washing away of falsities by truths. And truths come from an active life..."* The research confirms this correspondence in high fidelity.
 
 #### **3.2.1 Water as Truth in Action**
 
@@ -93,7 +93,7 @@ The user states: *"It is what water means, the washing away of falsities by trut
 
 ### **3.3 The "Active Life" as the Only Safe Container**
 
-The user argues that "In an active life the Lord can only flow in." This is the theological crux of the report.
+The thesis under examination argues that "In an active life the Lord can only flow in." This is the theological crux of the report.
 
 #### **3.3.1 Monasticism vs. Use**
 
@@ -108,13 +108,13 @@ In the analysis of the Crucifixion , the "hyssop" (a purgative herb) acts as an 
 
 ## **Part IV: The Danger of "Kenotic" Spiritual Practices**
 
-The research material allows for a critical assessment of modern spiritual practices that emphasize "emptying the mind" or "blank mind" meditation, validating the user's concern about "stopping to live."
+The research material allows for a critical assessment of modern spiritual practices that emphasize "emptying the mind" or "blank mind" meditation, validating the concern about "stopping to live."
 
 ### **4.1 The "Blank Mind" and Demonic Influx**
 
 The snippets discussing New Age and Eastern meditation techniques highlight a specific danger that parallels the "Empty House":
 
-* **Passive Potency:** While some mystic traditions value the "blank mind," the Swedenborgian perspective (and the user's argument) warns that a passive, empty mind creates a vacuum that attracts *any* spiritual influx, often from "enthusiastic spirits" or deceptive entities that mimic divinity.  
+* **Passive Potency:** While some mystic traditions value the "blank mind," the Swedenborgian perspective (and the argument under examination) warns that a passive, empty mind creates a vacuum that attracts *any* spiritual influx, often from "enthusiastic spirits" or deceptive entities that mimic divinity. 
 * **The Kundalini Warning:** Reports of "terrifying experiences" and "near death crises" associated with the indiscriminate awakening of energy in an "emptied" state corroborate the "seven spirits" warning. Without the structure of rational truth and the grounding of active charity, the "emptied" mind has no defense system. The "empty house" becomes a playground for spirits who seek a vessel.  
 * **Biblical Meditation vs. Emptying:** The report contrasts "New Age" emptying with "Biblical meditation," which is described as *filling* the mind with the Law of the Lord (Psalm 1). The Swedenborgian practice is one of "reflection on ends that are uses" , not the cessation of thought.
 
@@ -129,13 +129,13 @@ How, then, does one reconcile the "Kenosis" of Jesus (which was good) with the "
 
 ## **Part V: Second-Order Insights: The "Self" as the Barrier**
 
-The underlying theme connecting all these data points is the nature of the **Self** (Self-hood). The user's query implies a sophisticated understanding of this concept.
+The underlying theme connecting all these data points is the nature of the **Self** (Self-hood). This inquiry implies a sophisticated understanding of this concept.
 
 ### **5.1 The Self cannot be "Emptied," only "Subjugated"**
 
 Standard "Kenosis" theory often implies the ego can be annihilated. The research suggests this is impossible for humans. The *Self* is the necessary container of individual identity. If it were removed, the person would cease to exist or merge into an undifferentiated divine soup (which Swedenborg rejects).
 
-* **The User's Correction:** The user is right that "we don't empty ourselves." We cannot. We can only *orient* the Self. We turn the "self" from a master into a servant.  
+* **The Correction:** The thesis under examination is right that "we don't empty ourselves." We cannot. We can only *orient* the Self. We turn the "self" from a master into a servant. 
 * **The Role of Influx:** It is the *Influx* that holds the Self in check. The Lord "withholds" man from his own evil. If the Influx (Good of Love) were withdrawn, the person would instantly snap back into their Self (the Unclean Spirit returning). This proves the "Empty House" is a state where the person tries to maintain goodness *without* the continuous Influx of the Lord—an impossibility. The "swept" state is an attempt at *autonomous* goodness, which is the definition of self-righteousness (a deep evil).
 
 ### **5.2 The "Volunteer Soul" and the Active Commission**
@@ -147,7 +147,7 @@ The document *A Substantial Profile of the Volunteer Soul* reinforces the "Activ
 
 ## **Part VI: Conclusion and Synthesis**
 
-The user's argument is robust and supported by a deep reading of the provided theological archive. The concept of *Kenosis*, if interpreted as a "Passive Emptying" or a prerequisite state of vacancy before the Divine can enter, is indeed a trap that leads to the "Empty House" scenario of Matthew 12\.  
+The argument under examination is robust and supported by a deep reading of the provided theological archive. The concept of *Kenosis*, if interpreted as a "Passive Emptying" or a prerequisite state of vacancy before the Divine can enter, is indeed a trap that leads to the "Empty House" scenario of Matthew 12\. 
 **The Core Findings:**
 
 1. **The Vacuum is Fatal:** A spiritual vacuum is impossible. A mind swept of one evil must be immediately filled with a corresponding Good (Use), or the evil will return with greater force (Profanation).  
@@ -155,7 +155,7 @@ The user's argument is robust and supported by a deep reading of the provided th
 3. **Reframing Kenosis:** The valid form of Kenosis is **"Active Displacement."** It is the active shunning of evils *as sins* (an action of the will) which opens the door for the Lord to enter and displace the Self.  
 4. **The Christological Exception:** While Jesus's process of *Exinanition* was a necessary emptying to experience temptation as a human, human regeneration is not a replication of Jesus's ontological state but a *cooperation* with His Influx. We do not "empty" ourselves to become God; we "open" ourselves to be filled by Him.
 
-**Final Verdict:** The "Empty House" parable is the master-key. It serves as a divine warning that moral reformation (sweeping) without spiritual regeneration (filling with Love via active life) is the specific recipe for Profanation—the worst of all spiritual states. The user's insistence on an "Active Life of honest love" is theologically accurate and the necessary antidote to the "Kenosis Trap." The house must never be empty; it must be the busy, inhabited workshop of the Lord.
+**Final Verdict:** The "Empty House" parable is the master-key. It serves as a divine warning that moral reformation (sweeping) without spiritual regeneration (filling with Love via active life) is the specific recipe for Profanation—the worst of all spiritual states. The insistence under examination on an "Active Life of honest love" is theologically accurate and the necessary antidote to the "Kenosis Trap." The house must never be empty; it must be the busy, inhabited workshop of the Lord.
 
 | Concept | Passive Kenosis (The Trap) | Active Displacement (The Solution) |
 | :---- | :---- | :---- |

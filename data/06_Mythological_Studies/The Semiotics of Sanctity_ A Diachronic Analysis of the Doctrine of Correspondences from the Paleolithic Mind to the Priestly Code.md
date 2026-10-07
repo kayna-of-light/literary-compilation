@@ -46,7 +46,7 @@ This connection to metallurgy provides a vital clue to the "Science of Correspon
 
 ### **2.3 The Zooarchaeology of Exclusion: The Pig Taboo**
 
-The user’s query highlights the absence of pork bones in early Jewish settlements (c. 1200 BCE) as evidence of a pre-existing doctrine. A superficial reading might suggest a simple materialist cause: pigs are ecologically unsuited for nomads. However, to the ancient mind, material reality and spiritual truth were not separate spheres. The ecological unsuitability of the pig was not merely an inconvenience; it was a revelation of the animal's ontological nature.
+This inquiry highlights the absence of pork bones in early Jewish settlements (c. 1200 BCE) as evidence of a pre-existing doctrine. A superficial reading might suggest a simple materialist cause: pigs are ecologically unsuited for nomads. However, to the ancient mind, material reality and spiritual truth were not separate spheres. The ecological unsuitability of the pig was not merely an inconvenience; it was a revelation of the animal's ontological nature.
 
 Extensive zooarchaeological surveys of Iron Age I sites in the central hill country of Canaan (the heartland of early Israel) have revealed a striking pattern: an almost total absence of pig bones.1 At sites like Mount Ebal, Shiloh, and 'Izbet Sartah, pig remains constitute less than 1% of the faunal assemblage.1 This stands in sharp contrast to the coastal plain, settled by the Philistines (Sea Peoples) around the same time. At Philistine urban centers like Ekron and Ashdod, pig bones make up 10–20% of the assemblage.1
 
@@ -100,7 +100,7 @@ The "Science of Correspondences" thus appears to have a dual root: the pastoral 
 
 ## **V. Deep Time Origins: The Neolithic Revolution and the Birth of Symbols**
 
-To answer the user's question about how far back this doctrine stretches, we must look beyond the Bronze Age to the Neolithic Revolution (c. 10,000 BCE), the moment when humanity shifted from hunter-gatherer lifestyles to sedentary agriculture. This transition was not merely economic; it was a "Symbolic Revolution" that fundamentally altered human consciousness.
+To answer the question under examination about how far back this doctrine stretches, we must look beyond the Bronze Age to the Neolithic Revolution (c. 10,000 BCE), the moment when humanity shifted from hunter-gatherer lifestyles to sedentary agriculture. This transition was not merely economic; it was a "Symbolic Revolution" that fundamentally altered human consciousness.
 
 ### **5.1 Jacques Cauvin and the "Birth of the Gods"**
 

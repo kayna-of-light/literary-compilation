@@ -142,7 +142,7 @@ By giving the background "depth" and "mood," Disney allowed the characters to in
 
 ## **VI. Alternative Framings: How Historians Describe the "Soul"**
 
-The prompt asks if "Crisis of Ensoulment" is an accurate characterization or an interpretive overreach. A review of major historians confirms that while the specific term "Ensoulment" is unique to this report's framework, the *concept* is the central pillar of animation history.
+The question is whether "Crisis of Ensoulment" is an accurate characterization or an interpretive overreach. A review of major historians confirms that while the specific term "Ensoulment" is unique to this report's framework, the *concept* is the central pillar of animation history.
 
 ### **6.1 Michael Barrier: The "Emotional Dimension"**
 

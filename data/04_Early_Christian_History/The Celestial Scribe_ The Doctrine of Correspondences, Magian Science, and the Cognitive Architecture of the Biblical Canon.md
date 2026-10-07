@@ -39,7 +39,7 @@ The "Science of Correspondences" is the operational logic connecting these two s
 Historical evidence points to the existence of a vast, written corpus that codified this science. The *Damdat Nask*, a lost book of the Avesta, is described in later commentaries (like the *Bundahishn*) as containing an encyclopedic taxonomy of the cosmos. It reportedly classified all of creation—minerals, plants, animals, and stars—based on their spiritual correspondence.
 
 * **Taxonomy of Nature:** Animals were not classified by biological family but by spiritual alignment. "Beneficent" animals (e.g., dogs, roosters, hedgehogs) were physical crystallizations of virtues like vigilance and fidelity. "Noxious" creatures (*khrafstra*, e.g., snakes, frogs, scorpions) were materializations of the "Lie" (*Druj*) and chaotic thought.  
-* **Scientific Transmission:** While the original Avestan text was largely lost (traditionally attributed to Alexander the Great’s destruction of the Persepolis archives), the *content* of this science survived in the *Bundahishn* and, crucially, in the oral and written curriculum of the Magian priesthood. It was this curriculum that the Jewish exiles encountered in Babylon and Susa. The "scientific documents" mentioned in the user's query were real, tangible texts—lexical lists, omen series, and natural histories—that circulated in Aramaic translations within the imperial chancellery.
+* **Scientific Transmission:** While the original Avestan text was largely lost (traditionally attributed to Alexander the Great’s destruction of the Persepolis archives), the *content* of this science survived in the *Bundahishn* and, crucially, in the oral and written curriculum of the Magian priesthood. It was this curriculum that the Jewish exiles encountered in Babylon and Susa. The "scientific documents" mentioned in the question under examination were real, tangible texts—lexical lists, omen series, and natural histories—that circulated in Aramaic translations within the imperial chancellery.
 
 ### **2.3 The "Science of Lists" (*Listenwissenschaft*)**
 
@@ -113,7 +113,7 @@ The P source, dominant in Leviticus and the final framing of Genesis, represents
 
 ## **6\. The Enochian Revolution: The 364-Day Calendar as Divine Geometry**
 
-The most compelling evidence for the user’s hypothesis lies in the Enochian literature, particularly the *Astronomical Book* (1 Enoch 72-82). These texts, preserved at Qumran in Aramaic (4Q208–211), show a direct and undeniable dependence on Mesopotamian scientific documents, yet reframed within a rigorous theology of correspondence.
+The most compelling evidence for the hypothesis under examination lies in the Enochian literature, particularly the *Astronomical Book* (1 Enoch 72-82). These texts, preserved at Qumran in Aramaic (4Q208–211), show a direct and undeniable dependence on Mesopotamian scientific documents, yet reframed within a rigorous theology of correspondence.
 
 ### **6.1 The "Smoking Gun": The Linear Zigzag Function**
 
@@ -182,12 +182,12 @@ The publication of the *Zohar* in 13th-century Spain marks the full resurgence o
 
 ## **11\. Conclusion: The Scribe as Architect of the Universe**
 
-The extensive evidence assembled in this report overwhelmingly supports the user’s hypothesis. The Jewish scribes who compiled the Hebrew Bible, authored the Enochian literature, and preserved the Masoretic text were not merely recording history or preserving folklore. They were the inheritors and refiners of a vast, trans-cultural "Science of Correspondences."
+The extensive evidence assembled in this report overwhelmingly supports the hypothesis under examination. The Jewish scribes who compiled the Hebrew Bible, authored the Enochian literature, and preserved the Masoretic text were not merely recording history or preserving folklore. They were the inheritors and refiners of a vast, trans-cultural "Science of Correspondences."
 
 1. **Direct Channels Established:** The Babylonian Exile and the Persian period provided the direct channel for this transmission. Through figures like Daniel (*Rab-signīn*) and Ezra ("Scribe of the Law of Heaven"), the Jewish elite accessed the scientific archives of the East (*Enuma Anu Enlil*, *Damdat Nask*) and the linguistic tool of Imperial Aramaic.  
 2. **Enochian Coherence:** The Enochian literature proves that Jewish scribes adopted the mathematical and astronomical models of Mesopotamia but reframed them within a rigid, deterministic theology of order (the 364-day calendar) that prioritized spiritual symmetry over empirical observation.  
 3. **Biblical Compilation as Correspondence:** The redactors of the Torah (J and P) utilized this worldview to structure their narratives. They built the Tabernacle as a model of the universe, classified animals by their spiritual alignment, and interpreted history as a readout of the conflict between the Spirit of Truth and the Spirit of Error.  
-4. **A "Simple Way of Thought":** As the user intuited, this was "in their nature." For the ancient scribe, seeing the world as a correspondence was not an occult practice; it was the standard definition of literacy. To be literate was to be able to read the two books of God: the Book of Scripture and the Book of Nature.
+4. **A "Simple Way of Thought":** As the thesis under examination intuited, this was "in their nature." For the ancient scribe, seeing the world as a correspondence was not an occult practice; it was the standard definition of literacy. To be literate was to be able to read the two books of God: the Book of Scripture and the Book of Nature.
 
 The biblical text, therefore, is a document of "Divine Bricolage"—a deliberate synthesis where the raw materials of history and nature were arranged according to the laws of correspondence to create a vessel capable of holding the Infinite. The scribes wrote in this way because, to them, there was no other way to write the Truth. They did not just tell a story; they constructed a textual cosmos that mirrored the divine one, ensuring that "as above, so below."
 

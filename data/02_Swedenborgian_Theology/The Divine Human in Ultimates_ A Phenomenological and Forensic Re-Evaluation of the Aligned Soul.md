@@ -82,7 +82,7 @@ The struggle of the human soul is most visible in Gethsemane.
 
 ## **V. The Phenomenology of the Being of Light: The Universal Lord and the Cultural Lens**
 
-The user rightly distinguishes between the "Being of Light" as a universal reality and "Jesus" as a specific identification. The data supports a view where the Lord clothes Himself in the "vocabulary" of the experiencer.
+The thesis under examination distinguishes between the "Being of Light" as a universal reality and "Jesus" as a specific identification. The data supports a view where the Lord clothes Himself in the "vocabulary" of the experiencer.
 
 ### **5.1 The Being IS the Lord (Universal Reality)**
 

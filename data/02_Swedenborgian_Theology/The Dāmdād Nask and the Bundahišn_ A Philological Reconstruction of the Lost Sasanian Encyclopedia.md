@@ -2,9 +2,9 @@
 
 ## **I. Introduction: The Archival Rupture and the Problem of Reconstruction**
 
-The history of Zoroastrian literature is defined by a singular, catastrophic rupture: the fall of the Achaemenid Empire to Alexander of Macedon in 330 BCE. This event, characterized in Iranian historiography not as a conquest but as a devastation brought by the "Accursed" (*Guzastag*) Alexander, serves as the focal point for the user's inquiry regarding the *Dāmdād Nask*. The claim referenced as SWED-042 posits that the *Dāmdād Nask* was a "systematic correspondence encyclopedia" housed in the archives of Persepolis, the destruction of which necessitated a later, fragmentary reconstruction preserved in the *Bundahišn*. This report aims to provide an exhaustive, scholarly verification of these claims, utilizing the full breadth of academic Iranology, Middle Persian exegesis, and comparative philology.  
+The history of Zoroastrian literature is defined by a singular, catastrophic rupture: the fall of the Achaemenid Empire to Alexander of Macedon in 330 BCE. This event, characterized in Iranian historiography not as a conquest but as a devastation brought by the "Accursed" (*Guzastag*) Alexander, serves as the focal point for the question under examination regarding the *Dāmdād Nask*. The claim referenced as SWED-042 posits that the *Dāmdād Nask* was a "systematic correspondence encyclopedia" housed in the archives of Persepolis, the destruction of which necessitated a later, fragmentary reconstruction preserved in the *Bundahišn*. This report aims to provide an exhaustive, scholarly verification of these claims, utilizing the full breadth of academic Iranology, Middle Persian exegesis, and comparative philology. 
 To understand the relationship between the extant *Bundahišn* and the lost *Dāmdād Nask*, one must first navigate the complex transmission history of the Avestan canon. The Sasanian Avesta, codified centuries after Alexander, was an attempt to gather the scattered oral and written remains of the ancient religion. It was organized into twenty-one *Nasks* (volumes), dividing the holy knowledge into three spheres: the *Gāhānīg* (Gathic/Spiritual), the *Hada Mānsrīg* (Ritual/Mixed), and the *Dādīg* (Legal). The *Dāmdād Nask* occupied a critical position within this canon, traditionally placed in the *Hada Mānsrīg* division, though its content was fundamentally "scientific" and cosmological rather than purely liturgical.  
-The central thesis of this report is that the *Bundahišn* (literally "Primal Creation") is not merely a later compendium of myths but is, in fact, the surviving *Zand* (commentary/translation) of the *Dāmdād Nask*. By analyzing the structural homologies between the *Bundahišn* and the summaries of the *Dāmdād* preserved in the *Dēnkard* and *Zādspram*, we can verify that the "systematic correspondence" mentioned in the query refers to a sophisticated doctrine of Microcosm-Macrocosm identity—a theological physics that mapped the human body onto the sidereal universe. Furthermore, the persistence of these specific elements suggests that while the "Persepolis archetype" may have perished in the flames of 330 BCE, the intellectual substance of the *Dāmdād Nask* was successfully transmitted through the Sasanian era and into the Islamic period, providing a continuous, albeit fragmented, window into ancient Iranian thought.
+The central thesis of this report is that the *Bundahišn* (literally "Primal Creation") is not merely a later compendium of myths but is, in fact, the surviving *Zand* (commentary/translation) of the *Dāmdād Nask*. By analyzing the structural homologies between the *Bundahišn* and the summaries of the *Dāmdād* preserved in the *Dēnkard* and *Zādspram*, we can verify that the "systematic correspondence" mentioned in the question under examination refers to a sophisticated doctrine of Microcosm-Macrocosm identity—a theological physics that mapped the human body onto the sidereal universe. Furthermore, the persistence of these specific elements suggests that while the "Persepolis archetype" may have perished in the flames of 330 BCE, the intellectual substance of the *Dāmdād Nask* was successfully transmitted through the Sasanian era and into the Islamic period, providing a continuous, albeit fragmented, window into ancient Iranian thought.
 
 ### **1.1 The Alexander Mythos and the "Two Copies" Tradition**
 
@@ -75,7 +75,7 @@ The most compelling evidence for the reconstruction claim is the structural homo
 | **VII. History & Eschatology** | **GBd XXXIII-XXXVI:** Kayanian history, Resurrection (*Ristaxēz*). | Dēnkard Summary |
 
 *Table 1: Structural Concordance between the Lost Dāmdād Nask and the Greater Bundahišn.*  
-This concordance confirms that the *Bundahišn* is not a random collection of myths but a faithful condensation of the *Dāmdād Nask*. The "elements" requested by the user are, effectively, the entire structural skeleton of the *Bundahišn*.
+This concordance confirms that the *Bundahišn* is not a random collection of myths but a faithful condensation of the *Dāmdād Nask*. The "elements" in question are, effectively, the entire structural skeleton of the *Bundahišn*.
 
 ### **3.2 The shift from Myth to Science**
 
@@ -83,7 +83,7 @@ What distinguishes the *Bundahišn* (and by extension the *Dāmdād*) from other
 
 ## **IV. The Systematic Correspondence: Microcosm and Macrocosm**
 
-The user's query highlights the term "systematic correspondence encyclopedia." This is the most profound element of the *Dāmdād Nask* and requires detailed analysis. The concept of "Correspondence" (*hangōšīdag*) between the **Microcosm** (*Gēhān ī Kōd*, "The Small World," i.e., Man) and the **Macrocosm** (*Gēhān ī Wuzurg*, "The Great World," i.e., the Universe) is central to the text's physics.
+This inquiry highlights the term "systematic correspondence encyclopedia." This is the most profound element of the *Dāmdād Nask* and requires detailed analysis. The concept of "Correspondence" (*hangōšīdag*) between the **Microcosm** (*Gēhān ī Kōd*, "The Small World," i.e., Man) and the **Macrocosm** (*Gēhān ī Wuzurg*, "The Great World," i.e., the Universe) is central to the text's physics.
 
 ### **4.1 Chapter 28: The Anatomical Map**
 
@@ -114,7 +114,7 @@ The reconstruction of this aspect of the *Dāmdād* is further verified by exami
 
 ## **V. Biological and Embryological Systems**
 
-The "encyclopedic" nature of the *Dāmdād* extends into biology and medicine. The snippets provided point to a sophisticated system of taxonomy and embryology that aligns with the user's "systematic" description.
+The "encyclopedic" nature of the *Dāmdād* extends into biology and medicine. The snippets provided point to a sophisticated system of taxonomy and embryology that aligns with the "systematic" description.
 
 ### **5.1 The Taxonomy of the Sole-Created Ox**
 

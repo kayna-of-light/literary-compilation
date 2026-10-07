@@ -274,13 +274,13 @@ This rigorous stress test concludes that *1 Enoch*, specifically the portions an
 #### **Works cited**
 
 1. Enoch—the First Librarians \- Swedenborg Foundation, accessed on December 27, 2025, [https://swedenborg.com/enoch-the-first-librarians/](https://swedenborg.com/enoch-the-first-librarians/)  
-2. Testing Swedenborg's Correspondences Thoroughly  
+2. [The Semiotic Architecture of Revelation: An Empirical Validation of the Swedenborgian Canon Through Comparative Hermeneutics and Structural Isomorphism](The%20Semiotic%20Architecture%20of%20Revelation_%20An%20Empirical%20Validation%20of%20the%20Swedenborgian%20Canon%20Through%20Comparative%20Hermeneutics%20and%20Structural.md)  
 3. The Creation Of Heaven and Earth. \- Swedenborg Study, accessed on December 27, 2025, [http://www.swedenborgstudy.com/books/T.Plantz\_Testimony-of-Genesis/heaven.html](http://www.swedenborgstudy.com/books/T.Plantz_Testimony-of-Genesis/heaven.html)  
 4. Correspondence (theology) \- Wikipedia, accessed on December 27, 2025, [https://en.wikipedia.org/wiki/Correspondence\_(theology)](https://en.wikipedia.org/wiki/Correspondence_\(theology\))  
 5. A Compendium of the Theological Writings of Emanuel Swedenborg/10 Signification of Various Terms and Subjects in the Word \- Wikisource, the free online library, accessed on December 27, 2025, [https://en.wikisource.org/wiki/A\_Compendium\_of\_the\_Theological\_Writings\_of\_Emanuel\_Swedenborg/10\_Signification\_of\_Various\_Terms\_and\_Subjects\_in\_the\_Word](https://en.wikisource.org/wiki/A_Compendium_of_the_Theological_Writings_of_Emanuel_Swedenborg/10_Signification_of_Various_Terms_and_Subjects_in_the_Word)  
 6. The Principle of Corrospondence  
 7. The Book of Enoch (Ethiopian) by Anonymous \- Goodreads, accessed on December 28, 2025, [https://www.goodreads.com/book/show/616330](https://www.goodreads.com/book/show/616330)  
-8. Testing Swedenborg's Correspondences Empirically  
+8. [The Semiotics of the Spirit: An Empirical and Hermeneutic Validation of Swedenborg’s Doctrine of Correspondences Against the Canon of the New Church](The%20Semiotics%20of%20the%20Spirit_%20An%20Empirical%20and%20Hermeneutic%20Validation%20of%20Swedenborg%E2%80%99s%20Doctrine%20of%20Correspondences%20Against%20the%20Canon%20of%20the%20New%20Church.md)  
 9. GrandMan Search Program \- Bible Meanings, accessed on December 27, 2025, [http://www.biblemeanings.info/books/tcr/book.html](http://www.biblemeanings.info/books/tcr/book.html)  
 10. A Compendium of Swedenborg's Theological Writings, Samuel Warren (Revised): Table of Contents, accessed on December 28, 2025, [https://swedenborgdigitallibrary.org/comp/compendtc.htm](https://swedenborgdigitallibrary.org/comp/compendtc.htm)  
 11. The Book of Enoch, Section III, accessed on December 27, 2025, [https://www.ccel.org/c/charles/otpseudepig/enoch/ENOCH\_3.HTM](https://www.ccel.org/c/charles/otpseudepig/enoch/ENOCH_3.HTM)  
@@ -311,4 +311,4 @@ This rigorous stress test concludes that *1 Enoch*, specifically the portions an
 36. The Ram and Qumran: The Eschatological Character of the Ram in the Animal Apocalypse (1 En. 90:10–13) in \- Brill, accessed on December 28, 2025, [https://brill.com/display/book/edcoll/9789004358386/BP000015.xml](https://brill.com/display/book/edcoll/9789004358386/BP000015.xml)  
 37. 116875836-Zodiac-and-the-Salts-of-Salvation-George-W-Carey.pdf, accessed on December 28, 2025, [https://archive.org/download/ZodiacAndTheSaltsOfSalvationGeorgeWCarey/116875836-Zodiac-and-the-Salts-of-Salvation-George-W-Carey.pdf](https://archive.org/download/ZodiacAndTheSaltsOfSalvationGeorgeWCarey/116875836-Zodiac-and-the-Salts-of-Salvation-George-W-Carey.pdf)  
 38. Allreligionsareone | PDF | Sun | Stars \- Scribd, accessed on December 28, 2025, [https://www.scribd.com/document/376199784/allreligionsareone](https://www.scribd.com/document/376199784/allreligionsareone)  
-39. Validating Swedenborg's Correspondences
+39. [The Hermeneutics of the Mundus Imaginalis: An Independent Methodological Validation of Swedenborgian Correspondences](The%20Hermeneutics%20of%20the%20Mundus%20Imaginalis_%20An%20Independent%20Methodological%20Validation%20of%20Swedenborgian%20Correspondences.md)

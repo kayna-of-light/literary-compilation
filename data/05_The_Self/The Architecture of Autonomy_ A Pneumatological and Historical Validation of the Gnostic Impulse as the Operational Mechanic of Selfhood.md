@@ -7,7 +7,7 @@
 > - **#22** The Self and Selfhood — **CRITICAL**: Defines the self as "inherently dead/evil" and equates it with self-love
 > 
 > **Summary**: the self is not inherently evil — it is the vessel (selfhood) that must form before it can receive. It becomes the obstacle only when it claims what flows through it as its own possession (self-sourcing). Self-love is one possible orientation of the vessel, not what the vessel IS. The observations about self-sourcing mechanics (spiritual theft, claiming divine attributes) remain valid.
-> - **#23** [Glorification as Unique Divine Process](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#23-glorification-as-unique-divine-process) — §2.1 cites Swedenborg’s glorification mechanism as the ground for refuting separationism. The mechanism has been corrected; the conclusion (real and permanent union) stands on different grounds.
+> - **#23** [Glorification as Unique Divine Process](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#23-glorification-as-unique-divine-process) — §2.1 cites Swedenborg’s glorification mechanism as the ground for refuting separationism. The mechanism has been corrected; the conclusion (real and permanent union) stands on different grounds.
 > **Established correction (library)**: *The Human Who Showed the Way*; The Bridge That Became the Path_ The Lord’s Operation Through the Vessel, and the Error of Making One Soul the Exception.md
 > ---
 

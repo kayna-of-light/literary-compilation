@@ -10,7 +10,7 @@
 > - **#26** [Paleolithic Geometric Signs: Bounded Inventory Is Not a Decoded Lexicon](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#26-paleolithic-geometric-signs-bounded-inventory-is-not-a-decoded-lexicon) — §2.2 treats an exact count of thirty-two as archaeologically intrinsic and derives numerical significance from it.
 > 
 > **Summary**: The "assumed human nature from the mother" language reflects 18th-century embryology. The self is not removed but oriented—Jesus's ruling love was always toward the Divine.
-> - **#23** [Glorification as Unique Divine Process](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#23-glorification-as-unique-divine-process) — §5.1 frames glorification as the Lord’s unique cosmic process, categorically distinct from regeneration. The corrected view: the mechanics are identical to regeneration; what differs is completeness of reception.
+> - **#23** [Glorification as Unique Divine Process](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#23-glorification-as-unique-divine-process) — §5.1 frames glorification as the Lord’s unique cosmic process, categorically distinct from regeneration. The corrected view: the mechanics are identical to regeneration; what differs is completeness of reception.
 >
 > **Established correction (library)**: The Bridge That Became the Path_ The Lord’s Operation Through the Vessel, and the Error of Making One Soul the Exception.md
 > ---
@@ -230,7 +230,28 @@ The spiritual force of the *self*—the love of self over neighbor—manifests t
 
 ## **Part VI: The Architecture of Regeneration – A Case Study**
 
-[Removed: private material.]
+History is the macro-regeneration of humanity; individual spiritual growth is the micro-history. The best-documented case of that micro-history in the framework's own lineage is Swedenborg's crisis of 1743–1744, recorded day by day in his private *Journal of Dreams* (March–October 1744) and never intended for publication. It allows the archetypal "Threefold Way" of regeneration to be mapped onto a single, dated life.13
+
+### **6.1. Purification (Katharsis): The Dark Night**
+
+The first stage is **Purification**, the purging of the false self.
+
+* **The Mechanism:** This often involves a *vastation* or "Dark Night of the Soul." In the *Journal*, the temptations of spring 1744 attack precisely the selfhood that claims what it receives. Swedenborg records that his own understanding "mixed itself into" his reading of Scripture, that he was "continually in a state of combat with double thoughts which were fighting one another," and that he perceived himself "unworthy above others and the greatest of sinners," because the very depth of thought he had been granted was "the very fountain of the sin" when ascribed to himself (*Journal of Dreams* §§49, 74, 118).13  
+* **Symbols:** The temptation is not to vice but to self-ascription: to take as one's own "the good which had been done through me" and to glory in it (*Journal of Dreams* §§70–72). This is the selfhood as obstacle in its most refined form, the vessel claiming the influx.13
+
+### **6.2. Illumination (Theoria): The Divine Encounter**
+
+The second stage is **Illumination**, the breakthrough of the spiritual into consciousness.
+
+* **The Mechanism:** On the night of 6–7 April 1744, at Delft, Swedenborg records "a very powerful tremor from the head to the feet, accompanied with a booming sound as if many winds had clashed against one another," which "prostrated me on my face," followed by a vision of Christ "face to face": "a countenance of a holy mien… and also smiling" (*Journal of Dreams* §§51–54).13  
+* **The Lexicon of Correspondences:** In the days that follow, the *Journal* begins reading its own dreams correspondentially. Swedenborg interprets gold reached by climbing as "what is good and pleasing to God," and the light that grows "more and more luminously red" as a sign that "the grace of God is written within it"; his father tying his cuffs signifies "that I am not of the Clergy" (*Journal of Dreams* §§58, 115–116).13 This interpretive habit later becomes the doctrine of correspondences itself.
+
+### **6.3. Union (Theosis): The New Identity**
+
+The final stage is **Union**, the integration of the spiritual and natural.
+
+* **The Mechanism:** The Delft encounter culminates in a commission. Christ asks whether Swedenborg has "a bill of health"; he answers, "Lord, Thou knowest better than I"; and receives the reply, "Well, then do," which he takes "to signify, 'Love me truly,' or 'Do what thou hast promised.'" He adds at once: "I found it was not in my own power" (*Journal of Dreams* §54). The specific function, or "Use," is revealed as a task to be carried out, not as a status to be possessed.13  
+* **Symbol:** The prayer that closes the episode states the union in its receptive form: Swedenborg prays "to receive the love which is the work of Jesus Christ and not my own" (*Journal of Dreams* §56). Love received as not one's own is the "Heavenly Marriage" within the soul, the vessel joined to what flows into it.13
 
 ---
 
@@ -291,14 +312,14 @@ The directive for future inquiry is clear. We must abandon the horizontal confli
 #### **Works cited**
 
 1. A Coherent Framework for Spiritual History: Weavin...  
-2. Swedenborg's Symbolic Human Roles, [Swedenborg's Symbolic Human Roles](../02_Swedenborgian_Theology/Swedenborg's%20Symbolic%20Human%20Roles.md)  
+2. The Spiritual Correspondence of Human Roles in the Theology of Emanuel Swedenborg, [The Spiritual Correspondence of Human Roles in the Theology of Emanuel Swedenborg](../02_Swedenborgian_Theology/The%20Spiritual%20Correspondence%20of%20Human%20Roles%20in%20the%20Theology%20of%20Emanuel%20Swedenborg.md)  
 3. [A Critical History of Foundational Narratives - From Mesopotamian Myths to the Modern Age](../06_Mythological_Studies/A%20Critical%20History%20of%20Foundational%20Narratives_%20From%20Mesopotamian%20Myths%20to%20the%20Modern%20Age.md)  
-4. Swedenborg's Ancient Word and Science, [Swedenborg's Ancient Word and Science](../02_Swedenborgian_Theology/Swedenborg's%20Ancient%20Word%20and%20Science.md)  
+4. Echoes of an Ancient Word: A Scientific and Mythological Inquiry into the Caliber of a Lost Universal Knowledge, [Echoes of an Ancient Word: A Scientific and Mythological Inquiry into the Caliber of a Lost Universal Knowledge](../02_Swedenborgian_Theology/Echoes%20of%20an%20Ancient%20Word_%20A%20Scientific%20and%20Mythological%20Inquiry%20into%20the%20Caliber%20of%20a%20Lost%20Universal%20Knowledge.md)  
 6. Revelation and Bricolage: A Comparative Analysis o..., [**Revelation and Bricolage: A Comparative Analysis of Swedenborgian and Anthropological Models of the Exodus Narrative**](../06_Mythological_Studies/Revelation%20and%20Bricolage_%20A%20Comparative%20Analysis%20of%20Swedenborgian%20and%20Anthropological%20Models%20of%20the%20Exodus%20Narrative.md)  
-7. Echoes of an Ancient Word: A Scientific and Mythol..., [Echoes of an Ancient Word_ A Scientific and Mythological Inquiry into the Caliber of a Lost Universal Knowledge](../06_Mythological_Studies/Echoes%20of%20an%20Ancient%20Word_%20A%20Scientific%20and%20Mythological%20Inquiry%20into%20the%20Caliber%20of%20a%20Lost%20Universal%20Knowledge.md)  
-8. Swedenborg's Numerology and Ancient Structures, [Swedenborg's Numerology and Ancient Structures](../02_Swedenborgian_Theology/Swedenborg's%20Numerology%20and%20Ancient%20Structures.md)  
+7. Echoes of an Ancient Word_ A Scientific and Mythological Inquiry into the Caliber of a Lost Universal Knowledge, [Echoes of an Ancient Word_ A Scientific and Mythological Inquiry into the Caliber of a Lost Universal Knowledge](../02_Swedenborgian_Theology/Echoes%20of%20an%20Ancient%20Word_%20A%20Scientific%20and%20Mythological%20Inquiry%20into%20the%20Caliber%20of%20a%20Lost%20Universal%20Knowledge.md)  
+8. Structural Resonance or Cognitive Echo? A Comparative Analysis of Swedenborgian Numerology and Prehistoric Mnemonic Systems, [Structural Resonance or Cognitive Echo? A Comparative Analysis of Swedenborgian Numerology and Prehistoric Mnemonic Systems](../02_Swedenborgian_Theology/Structural%20Resonance%20or%20Cognitive%20Echo%20A%20Comparative%20Analysis%20of%20Swedenborgian%20Numerology%20and%20Prehistoric%20Mnemonic%20Systems.md)  
 9. The Two Hearts of Creation: A Consciousness-Driven..., [**The Two Hearts of Creation: A Consciousness-Driven Evolution of Myth**](../06_Mythological_Studies/The%20Two%20Hearts%20of%20Creation_%20A%20Consciousness-Driven%20Evolution%20of%20Myth.md)  
 10. Consciousness as a Selective Pressure: A Scientific and Philosophical Analysis of the Consciousness-Driven Evolution Hypothesis, [**Consciousness as a Selective Pressure: A Scientific and Philosophical Analysis of the Consciousness-Driven Evolution Hypothesis**](../01_Consciousness_Studies/Consciousness%20as%20a%20Selective%20Pressure_%20A%20Scientific%20and%20Philosophical%20Analysis%20of%20the%20Consciousness-Driven%20Evolution%20Hypothesis.md)  
 12. A Comparative Analysis of Non-Religious Christolog..., [**A Comparative Analysis of Non-Religious Christologies: The Battle for the 'Lord in Ultimates'**](../03_Biblical_Scholarship/A%20Comparative%20Analysis%20of%20Non-Religious%20Christologies_%20The%20Battle%20for%20the%20'Lord%20in%20Ultimates'.md)  
-13. [Removed: private material.]
+13. Swedenborg, Emanuel. *Emanuel Swedenborg's Journal of Dreams and Spiritual Experiences in the Year Seventeen Hundred and Forty-Four*. Translated by C. Th. Odhner. Bryn Athyn, PA: Academy Book Room, 1918. See also [The Covenant of the Call: A Theological and Phenomenological Analysis of "Do what thou hast promised" in the Spiritual Crisis of Emanuel Swedenborg](../02_Swedenborgian_Theology/The%20Covenant%20of%20the%20Call_%20A%20Theological%20and%20Phenomenological%20Analysis%20of%20Do%20what%20thou%20hast%20promised%20in%20the%20Spiritual%20Crisis%20of%20Emanuel%20Swedenborg.md) and [The Unhidden Man: Emanuel Swedenborg's Inner World and the Forging of a Prophetic Vision](../02_Swedenborgian_Theology/The%20Unhidden%20Man_%20Emanuel%20Swedenborg's%20Inner%20World%20and%20the%20Forging%20of%20a%20Prophetic%20Vision.md).  
 14. Researching Near-Death Experiences, [Researching Near-Death Experiences](../01_Consciousness_Studies/A%20Phenomenological%20Framework%20of%20the%20Near-Death%20Experience_%20A%20Synthesis%20of%20First-Person%20Accounts.md)

@@ -4,7 +4,7 @@
 > **📋 Editorial Notes** | Last reviewed: 2026-01-25
 > 
 > This document reflects **earlier understanding** on:
-> - **#20** [Hebrew Bible Dating](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-20-hebrew-bible-dating) — Document correctly identifies ANE parallels and bricolage methodology, but repeatedly frames Genesis as Persian-period "counter-propaganda" composed during the Exile. The philological evidence shows Genesis contains third-millennium linguistic fossils (Eblaite cognates, Sumerian loanwords) that predate the Iron Age.
+> - **#20** [Hebrew Bible Dating](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#strain-20-hebrew-bible-dating) — Document correctly identifies ANE parallels and bricolage methodology, but repeatedly frames Genesis as Persian-period "counter-propaganda" composed during the Exile. The philological evidence shows Genesis contains third-millennium linguistic fossils (Eblaite cognates, Sumerian loanwords) that predate the Iron Age.
 > 
 > **Summary**: The "mythic bricolage" analysis is valid, but the *tehom*/Tiamat etymology reflects shared third-millennium Semitic inheritance, not exilic borrowing. The demythologized cosmology may represent the ORIGINAL unified vision preserved through transmission, not Persian-period polemic. The linguistic dating method (EBH/LBH) used to assign the "P source" to the 7th-6th century has been **falsified** (Young, Rezetko, Ehrensvärd 2008).
 > **Established correction (library)**: "The Ancient Word: Philological Evidence for the Uruk-Ebla Origins of Genesis 1-11 and the Book of Job"; "The Paradigm That Cannot See"

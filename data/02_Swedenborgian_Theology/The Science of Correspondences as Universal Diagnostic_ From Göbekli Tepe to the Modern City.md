@@ -705,4 +705,4 @@ The framework works. The patterns emerge. The outer reveals the inner, always.
 
 12. Wengrow, D. (2014). *The Origins of Monsters: Image and Cognition in the First Age of Mechanical Reproduction*. Princeton University Press.
 
-13. [The Neolithic Transmission: Iconographic and Taxonomic Continuity from Göbekli Tepe to Early Dynastic Sumer](06_Mythological_Studies/The%20Neolithic%20Transmission_%20Iconographic%20and%20Taxonomic%20Continuity%20from%20Göbekli%20Tepe%20to%20Early%20Dynastic%20Sumer.md)
+13. [The Neolithic Transmission: Iconographic and Taxonomic Continuity from Göbekli Tepe to Early Dynastic Sumer](../06_Mythological_Studies/The%20Neolithic%20Transmission_%20Iconographic%20and%20Taxonomic%20Continuity%20from%20G%C3%B6bekli%20Tepe%20to%20Early%20Dynastic%20Sumer.md)

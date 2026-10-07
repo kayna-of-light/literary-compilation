@@ -16,7 +16,7 @@ This investigation proceeds in three phases:
 2. **The Mechanics of Temptation Stress Test:** A psychological and ontological analysis of the "Divine Soul" versus the "Finite Vessel" in the crucible of temptation.  
 3. **The Prophetic and Historical Validation:** A linguistic review of Isaiah 7:14 and a reconstruction of the "Jamesian Protograph" (Proto-Luke) to validate the "Physical Context."
 
-The ultimate objective is to render a verdict on theological consistency: Did Swedenborg’s bad science corrupt his good theology, and does the User’s "Jamesian Correction" fix the system?
+The ultimate objective is to render a verdict on theological consistency: Did Swedenborg’s bad science corrupt his good theology, and does the "Jamesian Correction" fix the system?
 
 ## ---
 
@@ -115,7 +115,7 @@ By removing the human father, Swedenborg creates a being that is structurally di
 * **The Missing Link:** Since Jesus had no human father, He lacked the "interior" hereditary evil that defines the core of the human condition (the deep-seated love of self). He possessed only the "exterior" hereditary evil of the mother.  
 * **The Consequence:** This makes Jesus a **"Biological Alien."** He did not possess the "plane of contact" necessary to engage the deepest hells, which reside in the interior paternal heredity. He fought only the "surface" evils.
 
-The User’s argument holds: The Virgin Birth creates a "loophole" where the Lord enters humanity without fully *being* human. He becomes a "visitor" rather than a "brother." This invalidates the mechanism of Glorification, which requires a total assumption of the finite state to conquer it.
+The argument under examination holds: The Virgin Birth creates a "loophole" where the Lord enters humanity without fully *being* human. He becomes a "visitor" rather than a "brother." This invalidates the mechanism of Glorification, which requires a total assumption of the finite state to conquer it.
 
 ### **3.4 The Jamesian Solution: Restoring the Finite Vessel**
 
@@ -151,11 +151,11 @@ Here we find the critical bifurcation between **Swedenborg the Seer** and **Swed
 * **The Seer:** In his spiritual exegesis (*Arcana Coelestia*, *Apocalypse Explained*), Swedenborg consistently argues that "Virgin" in the Word signifies "the affection of truth" or the "Church" (*Apocalypse Revealed* §620). It describes a *spiritual state* of receptivity, not a biological membrane.  
 * **The Scientist:** However, when discussing the Incarnation, Swedenborg abandons his own hermeneutic method. He reverts to the literal, Aristotelian necessity of the biological virginity to secure a "Divine Soul." He forces the "prophecy" to be a biological fact to satisfy his scientific requirement for a Paternal Soul.
 
-**The User’s Correction:** By applying Swedenborg’s own *internal sense* to the Gospel narrative, the "Virgin Birth" becomes a description of the Lord’s **spiritual genesis**. It signifies that the Divine Truth (the Son) was born from the "pure affection of truth" (Mary) without the intervention of the "selfhood" or self-intelligence (represented by the male principle/Joseph). The "Virginity" is the purity of the affection, not the absence of the sperm.
+**The Correction:** By applying Swedenborg’s own *internal sense* to the Gospel narrative, the "Virgin Birth" becomes a description of the Lord’s **spiritual genesis**. It signifies that the Divine Truth (the Son) was born from the "pure affection of truth" (Mary) without the intervention of the "selfhood" or self-intelligence (represented by the male principle/Joseph). The "Virginity" is the purity of the affection, not the absence of the sperm.
 
 ### **4.3 The Jamesian Protograph: The Original Narrative**
 
-The forensic reconstruction of the **Jamesian Protograph** (Proto-Luke) validates the User's "Physical Context".
+The forensic reconstruction of the **Jamesian Protograph** (Proto-Luke) validates the "Physical Context".
 
 * **Excision of Infancy Narratives:** The earliest layers of the Gospel tradition (as preserved in the Marcionite/Jamesian text) *do not contain* the Virgin Birth narrative. The text begins with Jesus "descending" (appearing) in Capernaum or at the Baptism.  
 * **Vertical Christology:** This tradition presents a "Vertical Christology" where Jesus is the Son of God by **Power** and **Spirit** (Romans 1:4), not by biological generation.  
@@ -167,7 +167,7 @@ The "Jamesian Jesus" strips away these editorial layers to reveal the "bedrock f
 
 **5\. The Jamesian Correction: Fixing the System**
 
-If the Aristotelian biology is discarded, how does the Swedenborgian system function? The User proposes the **Jamesian Correction** as the functional replacement.
+If the Aristotelian biology is discarded, how does the Swedenborgian system function? The thesis under examination proposes the **Jamesian Correction** as the functional replacement.
 
 ### **5.1 The "Volunteer Soul" Model vs. The Seed Concept**
 
@@ -196,7 +196,7 @@ The most profound implication of the Jamesian Correction is **Universalism**.
 
 **6\. Conclusion: The Verdict on Consistency**
 
-This forensic audit concludes that the user’s core argument is **theologically and scientifically sound**.
+This forensic audit concludes that the core argument under examination is **theologically and scientifically sound**.
 
 ### **6.1 Verdict on the "Aristotelian Soul"**
 

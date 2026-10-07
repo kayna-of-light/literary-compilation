@@ -5,7 +5,7 @@
 > 
 > This document reflects **earlier understanding** on:
 > - **#5** [Most Ancient Church](../02_Swedenborgian_Theology/A%20Validation%20Analysis%20of%20Claims%20Concerning%20the%20Most%20Ancient%20Church.md) — Table 7.1 equates "Paleolithic (40k-10k BCE)" with "Original Participation / Bicameral Mind," implying this is the Most Ancient Church period
-> - **#13** [Bicameral Mind Refutation](../06_Mythological_Studies/The%20Agency%20of%20the%20Ancients_%20A%20Comprehensive%20Red%20Team%20Audit%20of%20the%20Divine%20Bricolage%20Framework%20via%20Cognitive%20Archaeology,%20Evolutionary%20Physiology,%20and%20Neuro-Phenomenology.md) — §6.3 treats Jaynes’s bicameral mind as a straightforward parallel to Swedenborg’s "internal respiration"
+> - **#13** [The Agency of the Ancients: A Comprehensive Red Team Audit of the Divine Bricolage Framework via Cognitive Archaeology, Evolutionary Physiology, and Neuro-Phenomenology](The%20Agency%20of%20the%20Ancients_%20A%20Comprehensive%20Red%20Team%20Audit%20of%20the%20Divine%20Bricolage%20Framework%20via%20Cognitive%20Archaeology%2C%20Evolutionary%20Physiology%2C%20and.md) — §6.3 treats Jaynes’s bicameral mind as a straightforward parallel to Swedenborg’s "internal respiration"
 > 
 > **Summary**: Later analysis reframes the "Golden Age" (Most Ancient Church) as allegorical narrative for **multi-million-year hominin evolution**, not Upper Paleolithic (40,000-10,000 BCE). The Upper Paleolithic actually corresponds to the **Ancient Church** period *after* the Fall.  
 > ---
@@ -46,7 +46,7 @@ This connection to metallurgy provides a vital clue to the "Science of Correspon
 
 ### **2.3 The Zooarchaeology of Exclusion: The Pig Taboo**
 
-The user’s query highlights the absence of pork bones in early Jewish settlements (c. 1200 BCE) as evidence of a pre-existing doctrine. A superficial reading might suggest a simple materialist cause: pigs are ecologically unsuited for nomads. However, to the ancient mind, material reality and spiritual truth were not separate spheres. The ecological unsuitability of the pig was not merely an inconvenience; it was a revelation of the animal's ontological nature.
+This inquiry highlights the absence of pork bones in early Jewish settlements (c. 1200 BCE) as evidence of a pre-existing doctrine. A superficial reading might suggest a simple materialist cause: pigs are ecologically unsuited for nomads. However, to the ancient mind, material reality and spiritual truth were not separate spheres. The ecological unsuitability of the pig was not merely an inconvenience; it was a revelation of the animal's ontological nature.
 
 Extensive zooarchaeological surveys of Iron Age I sites in the central hill country of Canaan (the heartland of early Israel) have revealed a striking pattern: an almost total absence of pig bones.1 At sites like Mount Ebal, Shiloh, and 'Izbet Sartah, pig remains constitute less than 1% of the faunal assemblage.1 This stands in sharp contrast to the coastal plain, settled by the Philistines (Sea Peoples) around the same time. At Philistine urban centers like Ekron and Ashdod, pig bones make up 10–20% of the assemblage.1
 
@@ -100,7 +100,7 @@ The "Science of Correspondences" thus appears to have a dual root: the pastoral 
 
 ## **V. Deep Time Origins: The Neolithic Revolution and the Birth of Symbols**
 
-To answer the user's question about how far back this doctrine stretches, we must look beyond the Bronze Age to the Neolithic Revolution (c. 10,000 BCE), the moment when humanity shifted from hunter-gatherer lifestyles to sedentary agriculture. This transition was not merely economic; it was a "Symbolic Revolution" that fundamentally altered human consciousness.
+To answer the question under examination about how far back this doctrine stretches, we must look beyond the Bronze Age to the Neolithic Revolution (c. 10,000 BCE), the moment when humanity shifted from hunter-gatherer lifestyles to sedentary agriculture. This transition was not merely economic; it was a "Symbolic Revolution" that fundamentally altered human consciousness.
 
 ### **5.1 Jacques Cauvin and the "Birth of the Gods"**
 
@@ -195,7 +195,7 @@ Thus, Swedenborg's intuition was historically astute: there *was* a time of "int
 19. The Scribes of the Scrolls 1\. The different meanings of 'scribe' The textual and material evidence of the Dead Sea Scrolls b \- Lirias, accessed on January 11, 2026, [https://lirias.kuleuven.be/retrieve/277434](https://lirias.kuleuven.be/retrieve/277434)  
 20. Book of Enoch \- Wikipedia, accessed on January 11, 2026, [https://en.wikipedia.org/wiki/Book\_of\_Enoch](https://en.wikipedia.org/wiki/Book_of_Enoch)  
 21. Dating Blake's “Enoch” Lithograph Once Again | Robert N. Essick, accessed on January 11, 2026, [https://bq.blakearchive.org/22.2.essick](https://bq.blakearchive.org/22.2.essick)  
-22. Magi's Principle of Correspondences, [Magi's Principle of Correspondences](../02_Swedenborgian_Theology/Magi's%20Principle%20of%20Correspondences.md)  
+22. The Magian Cosmos: A Comprehensive Analysis of the Principle of Correspondences in Ancient Iranian Religion and Its Esoteric Legacy, [The Magian Cosmos: A Comprehensive Analysis of the Principle of Correspondences in Ancient Iranian Religion and Its Esoteric Legacy](../02_Swedenborgian_Theology/The%20Magian%20Cosmos_%20A%20Comprehensive%20Analysis%20of%20the%20Principle%20of%20Correspondences%20in%20Ancient%20Iranian%20Religion%20and%20Its%20Esoteric%20Legacy.md)  
 23. THE ORIGIN AND EVOLUTION OF THE SARAPH SYMBOL \- Repositorio Institucional UCA, accessed on January 11, 2026, [https://repositorio.uca.edu.ar/bitstream/123456789/6622/4/origin-evolution-saraph-symbol.pdf](https://repositorio.uca.edu.ar/bitstream/123456789/6622/4/origin-evolution-saraph-symbol.pdf)  
 24. The Birth of Gods in the Neolithic \- The Ideas of Jacques Cauvin \- Deconstructing Time, accessed on January 11, 2026, [https://deconstructingtime.blogspot.com/2017/12/birth-of-gods-in-neolithic-ideas-of-jacques-cauvin.html](https://deconstructingtime.blogspot.com/2017/12/birth-of-gods-in-neolithic-ideas-of-jacques-cauvin.html)  
 25. In 1977 the prehistory expert Jacques Cauvin, accessed on January 11, 2026, [https://tafahom.mara.gov.om/storage/al-tafahom/en/09/pdf/05.pdf](https://tafahom.mara.gov.om/storage/al-tafahom/en/09/pdf/05.pdf)  
@@ -203,7 +203,7 @@ Thus, Swedenborg's intuition was historically astute: there *was* a time of "int
 27. The God Table: A New Origins Theory of Religion and Civilization \- Scirp.org., accessed on January 11, 2026, [https://www.scirp.org/journal/paperinformation?paperid=120336](https://www.scirp.org/journal/paperinformation?paperid=120336)  
 28. Gobekli Tepe: Genesis of the Gods: The Temple of the Watchers and the Discovery of Eden | Blue Cypress Books, accessed on January 11, 2026, [https://bluecypressbooks.com/book/9781591431428](https://bluecypressbooks.com/book/9781591431428)  
 29. Göbekli Tepe, accessed on January 11, 2026, [https://avys.omu.edu.tr/storage/app/public/seden.dogan/129972/Gobekli\_Tepe\_Who\_Built\_It\_When\_and\_Why.pdf](https://avys.omu.edu.tr/storage/app/public/seden.dogan/129972/Gobekli_Tepe_Who_Built_It_When_and_Why.pdf)  
-30. [Echoes of an Ancient Word: A Scientific and Mythological Inquiry into the Caliber of a Lost Universal Knowledge](Echoes%20of%20an%20Ancient%20Word_%20A%20Scientific%20and%20Mythological%20Inquiry%20into%20the%20Caliber%20of%20a%20Lost%20Universal%20Knowledge.md)  
+30. [Echoes of an Ancient Word: A Scientific and Mythological Inquiry into the Caliber of a Lost Universal Knowledge](../02_Swedenborgian_Theology/Echoes%20of%20an%20Ancient%20Word_%20A%20Scientific%20and%20Mythological%20Inquiry%20into%20the%20Caliber%20of%20a%20Lost%20Universal%20Knowledge.md)  
 31. accessed on January 11, 2026, [https://traj.openlibhums.org/download/article/4344/supp\_file/719/](https://traj.openlibhums.org/download/article/4344/supp_file/719/)  
 32. Memory Craft \- rexresearch1, accessed on January 11, 2026, [https://rexresearch1.com/MemoryLibrary/Memory%20Craft%20Improve%20Your%20MemoryKelly.pdf](https://rexresearch1.com/MemoryLibrary/Memory%20Craft%20Improve%20Your%20MemoryKelly.pdf)  
 33. Place – Reader question: moving away from a memory space \- Lynne Kelly, accessed on January 11, 2026, [https://www.lynnekelly.com.au/?page\_id=1959](https://www.lynnekelly.com.au/?page_id=1959)  

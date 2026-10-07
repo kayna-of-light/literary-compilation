@@ -159,7 +159,7 @@ The scribes successfully preserved the internal history of the church—the shif
 
 ## **V. The Mechanism of Influx: Spiritual Instructions and the Scribe**
 
-The user’s query asks to evaluate the claim that these scribes received "spiritual instructions" to perform this correction. The research 18 supports this by linking the scribal process to **Spiritual Influx** and modern **NDE** data.
+This inquiry asks to evaluate the claim that these scribes received "spiritual instructions" to perform this correction. The research 18 supports this by linking the scribal process to **Spiritual Influx** and modern **NDE** data.
 
 ### **5.1 Consciousness-Driven Evolution (CDE) of Myths**
 
@@ -204,7 +204,7 @@ This synthesis was **"Deep"** because it permanently embedded the "Science of Co
 4. Enoch—the First Librarians \- Swedenborg Foundation, accessed on January 9, 2026, [https://swedenborg.com/enoch-the-first-librarians/](https://swedenborg.com/enoch-the-first-librarians/)  
 5. Ancient Church – Word Study \- New Church Society Sites, accessed on January 9, 2026, [https://societies.newchurch.org/wordstudy/spiritual-glossary/ancient-church/](https://societies.newchurch.org/wordstudy/spiritual-glossary/ancient-church/)  
 6. From Eden to Noah \- Swedenborg Study, accessed on January 9, 2026, [http://www.swedenborgstudy.com/books/J.Worcester\_Genesis-Exodus/noah.html](http://www.swedenborgstudy.com/books/J.Worcester_Genesis-Exodus/noah.html)  
-7. Validating Swedenborg's Correspondences, [Validating Swedenborg's Correspondences](../02_Swedenborgian_Theology/Validating%20Swedenborg's%20Correspondences.md)  
+7. The Hermeneutics of the Mundus Imaginalis: An Independent Methodological Validation of Swedenborgian Correspondences, [The Hermeneutics of the Mundus Imaginalis: An Independent Methodological Validation of Swedenborgian Correspondences](../02_Swedenborgian_Theology/The%20Hermeneutics%20of%20the%20Mundus%20Imaginalis_%20An%20Independent%20Methodological%20Validation%20of%20Swedenborgian%20Correspondences.md)  
 8. WSH Swedenborg a Modern Buddha.pdf \- Alfred University, accessed on January 9, 2026, [https://people.alfred.edu/\~hickey/Publications\_files/WSH%20Swedenborg%20a%20Modern%20Buddha.pdf](https://people.alfred.edu/~hickey/Publications_files/WSH%20Swedenborg%20a%20Modern%20Buddha.pdf)  
 9. The Bifurcated Gnosis: The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word, [data/04_Early_Christian_History/The Bifurcated Gnosis_ The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word.md](../04_Early_Christian_History/The%20Bifurcated%20Gnosis_%20The%20Bene%20Qedem,%20the%20Magian%20Institution,%20and%20the%20Isaac-Ishmael%20Dialectic%20in%20the%20Transmission%20of%20the%20Ancient%20Word.md)  
 10. Swedenborg: A Modern Buddha? \- Institute of Buddhist Studies, accessed on January 9, 2026, [http://www.shin-ibs.edu/documents/pwj3-10/09Hickey.pdf](http://www.shin-ibs.edu/documents/pwj3-10/09Hickey.pdf)  

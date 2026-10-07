@@ -18,7 +18,7 @@ The objective of this analysis is to isolate the "Gnostic Impulse" as a recurrin
 
 By synthesizing critical historical analyses, comparative Christologies, and socio-political frameworks, we can delineate the specific "mechanics" of this worldview. It contrasts the Gnostic trajectory—which seeks to dismantle the specific identification of the Divine with the historical—against the "Incarnational" trajectory, which seeks to affirm the union of the divine and the material.2 Through this lens, we observe that the struggle between these two currents is not merely a debate over ancient dogma, but a fundamental conflict over the nature of reality, the definition of the self, and the location of spiritual authority.
 
-Whether manifesting in the 2nd-century Valentinian schools that challenged the early Church Fathers, the 19th-century Theosophical salons that sought to synthesize science and mysticism, or the 21st-century "Spiritual But Not Religious" (SBNR) movements that prioritize self-actualization over community, the underlying mechanism remains strikingly consistent. It is a strategy of "self-glorification" cloaked in the language of enlightenment, a systematic dismantling of the external, personal God in favor of an internal, depersonalized, and self-actualized divinity.23
+Whether manifesting in the 2nd-century Valentinian schools that challenged the early Church Fathers, the 19th-century Theosophical salons that sought to synthesize science and mysticism, or the 21st-century "Spiritual But Not Religious" (SBNR) movements that prioritize self-actualization over community, the underlying mechanism remains strikingly consistent. It is a strategy of "self-glorification" cloaked in the language of enlightenment, a systematic dismantling of the external, personal God in favor of an internal, depersonalized, and self-actualized divinity.2
 
 ## ---
 
@@ -42,17 +42,19 @@ The profile of the Demiurge is central to the Gnostic mechanic of "Captivity." I
 
 Gnostic exegetes argued that a God who is jealous, wrathful, obsessed with legalistic obedience, and who declares, "I am the Lord, and there is no other," must be ignorant of the *Pleroma* above him. His declaration of supremacy is not truth, but a symptom of his blindness to the higher reality. He frames himself as the Creator and Father, but in the Gnostic view, he is the **Jailer**.1
 
-The function of the Demiurge is to keep humanity in a state of **ignorance**. By binding human spirits to the cycle of matter, time, and law, the Demiurge prevents them from realizing their true origin in the high spiritual realms. This creates a cosmology of **captivity**, where the antagonist is not a moral tempter who incites sin (like the traditional Satan), but the very creator of the ecosystem in which humanity lives. The laws of nature, the biological drives of the body, and especially the structures of religious orthodoxy and moral law are all viewed as mechanisms of this captivity.4
+The function of the Demiurge is to keep humanity in a state of **ignorance**. By binding human spirits to the cycle of matter, time, and law, the Demiurge prevents them from realizing their true origin in the high spiritual realms. This creates a cosmology of **captivity**, where the antagonist is not a moral tempter who incites sin (like the traditional Satan), but the very creator of the ecosystem in which humanity lives. The material body itself is the prison in which the spark is held.1
 
 ### **1.3 The Mechanics of Ignorance and the Archons**
 
 The captivity orchestrated by the Demiurge is maintained through a complex machinery of spiritual oppression. The Demiurge is often depicted as being served by a host of lesser powers known as **Archons** (Rulers). These beings correspond to the planetary spheres or cosmic forces that govern fate (*heimarmene*) and block the soul's ascent to the *Pleroma*.1
 
-In the ancient context, the Archons were the gatekeepers of the celestial spheres, demanding passwords and secret knowledge from ascending souls. In modern iterations of the Gnostic impulse, this mechanism of control is often psychologized or sociologized. The "Archons" become the forces of "social conditioning," "religious dogma," or the "Matrix" of cultural consensus reality.3
+In the ancient context, the Archons were the gatekeepers of the celestial spheres, demanding passwords and secret knowledge from ascending souls.
 
-The primary weapon of the Captor is **ignorance**. This mechanism can be understood as the "antagonist selfhood" (selfhood) seeking to "suffocate all else".4 By enforcing a reality where the material world is the only reality, or where the external law is the only path to God, the Captor keeps the "Divine Spark" asleep.
+The primary weapon of the Captor is **ignorance**. Swedenborg describes the same closure from inside the receiving vessel: in one whose interiors are turned toward self, "the Divine cannot flow in; for if it does flow in it is instantly submerged in thoughts of self" (*HH* §561).4 By enforcing a reality where the material world is the only reality, or where the external law is the only path to God, the Captor keeps the "Divine Spark" asleep.
 
-> **[REFRAMING #22]**: The term "antagonist selfhood" treats the self as inherently adversarial. the self is *what is one's own* — the vessel that must form before it can receive. It becomes the obstacle only when it claims what flows through it as its own possession (self-sourcing). The self is the condition for development, not the enemy. See: The Human Who Showed the Way The Captor requires **mediated truth**—institutions, priests, and external books—because direct, unmediated access to the Divine would shatter the illusion of his supremacy. Thus, the Gnostic narrative is fundamentally a story of a prisoner realizing they are in a cell, and that the warden (the god of this world) has lied to them about their crime and their sentence.4
+> **[REFRAMING #22]**: The term "antagonist selfhood" treats the self as inherently adversarial. the self is *what is one's own* — the vessel that must form before it can receive. It becomes the obstacle only when it claims what flows through it as its own possession (self-sourcing). The self is the condition for development, not the enemy. See: The Human Who Showed the Way.
+
+In the Gnostic narrative, the public and mediated authority of the churches belongs to the Captor's order, and private revelation is the way out of it; Irenaeus's "threefold cord" of scripture, rule of faith and succession was built precisely against "the Gnostic appeal to secret knowledge and private revelation".1 Thus, the Gnostic narrative is fundamentally a story of a prisoner realizing they are in a cell, and that the warden (the god of this world) has lied to them about their crime and their sentence.1
 
 ## ---
 
@@ -78,13 +80,13 @@ Because the core of the human is already divine, salvation is not a transaction 
 
 In Gnostic texts like the *Gospel of Thomas*, salvation is framed as a turning inward. Jesus says, "When you know yourselves, then you will be known, and you will understand that you are children of the living Father".1 This "knowing" is not meeting a stranger; it is remembering one's own forgotten identity.
 
-In modern "Spiritual But Not Religious" (SBNR) movements, this anthropology is secularized but mechanically identical. Sociological analysis identifies the core motive of SBNR as "being connected with my true self".3 The "True Self" is sacralized; it is viewed as the source of wisdom and authority. The life purpose of the modern Gnostic is to "realize" this authentic self, effectively operationalizing the doctrine of the Divine Spark without the mythological trappings of Aeons and Archons. This focus on "self-realization" is a form of the "intellectual selfhood"—a mechanism of self-glorification where the ego defines itself as God.3
+In the modern New Age and "Spiritual But Not Religious" (SBNR) milieu, this anthropology is secularized but mechanically identical. Its defining focus is "self-spirituality," in which "the individual's experience is the ultimate authority".1 The "True Self" is sacralized; it is viewed as the source of wisdom and authority. The lineage that runs from Theosophy through the "I AM" Activity into the popular New Age carries the divine-spark axiom forward ever more plainly, until in the popular New Age it is stated without any veil: *you are God; you create your reality; awaken to your own divinity*.3 The life purpose of the modern seeker is to "realize" this authentic self, effectively operationalizing the doctrine of the Divine Spark without the mythological trappings of Aeons and Archons.
 
-### **2.3 The "I Am God" Mechanic and Narcissism**
+### **2.3 The "I Am God" Mechanic and Self-Deification**
 
-The logical endpoint of the Divine Spark doctrine is the assertion "I am God." While often framed as a mystical liberation, critical analysis connects this mechanic to the concept of **the self** (Self-Love) or **Philautia**.3
+The logical endpoint of the Divine Spark doctrine is the assertion "I am God." While often framed as a mystical liberation, the framework names what this mechanic serves: **love of self**, which Swedenborg defines as "wishing well to oneself alone, and to others only for the sake of self" (*HH* §556).4
 
-The "intellectual selfhood" operates by "elevating themselves," "glorifying themselves," and "defining... them as being God Himself".23 By erasing the distinction between the Creator and the creature, the Gnostic impulse removes the need for humility, obedience, or gratitude toward an external Other. The Self becomes the arbiter of truth, the source of morality, and the goal of existence. This correlates with the "self-focused practice" and modern psychological concepts of **narcissism**, viewing the SBNR movement as a "textbook 21st-century example" of this dynamic.3 In this state, the individual is not liberated from the self, but locked within it, interpreting their own subjective impulses as divine revelation.
+Swedenborg traces where this love ends when nothing restrains it: it "longs to rule not only over the entire world but also over the entire heaven, and over the Divine himself" (*HH* §559).4 By erasing the distinction between the Creator and the creature, the Gnostic impulse removes the need for humility, obedience, or gratitude toward an external Other. The Self becomes the arbiter of truth, the source of morality, and the goal of existence. The movements that descend from Theosophy state this terminus with increasing explicitness, until in the popular New Age it is said without any veil: *you are God*.3 In this state, the individual is not liberated from the self, but locked within it, interpreting their own subjective impulses as divine revelation.
 
 ## ---
 
@@ -108,11 +110,11 @@ This emphasis on secret, internal knowledge necessitates a redefinition of truth
 
 The Gnostic impulse, conversely, located truth in the **private** and the **subjective**. Truth was found in the internal experience of the individual, bypassing external validation. This privatization is a strategic mechanism: it renders the individual autonomous from the community and its ethical constraints. By claiming a direct, private pipeline to the Divine, the Gnostic can dismiss the "mediated truth" of the institution as a tool of the Demiurge.1
 
-### **3.3 Salvation by Intellect (Intellectual Selfhood)**
+### **3.3 Salvation by Knowledge**
 
-The shift from "salvation by grace" to "salvation by gnosis" represents a shift to **"Salvation by Intellect"**.3 In this framework, the fundamental problem of humanity is not moral failure (sin) but cognitive failure (ignorance). Therefore, the solution is not a moral act (repentance) but an intellectual act (awakening).
+The shift from "salvation by grace" to "salvation by gnosis" represents a shift to **salvation by knowledge**: redemption comes "not … through faith in Christ's atoning death or by good works, but through *gnosis*".1 In this framework, the fundamental problem of humanity is not moral failure (sin) but cognitive failure (ignorance). Therefore, the solution is not a moral act (repentance) but an intellectual act (awakening).
 
-This creates a system of "salvation by intellect" that is classified as the **"Intellectual Form of Selfhood"**.4 It is a system of self-elevation where the "knower" is saved by their own mental capacity to grasp esoteric truths. This contrasts with the "Path of Influx," which is described as "kenotic" (self-emptying) and accessible to the simple and unlearned through charity.4 The Gnostic path is inherently aristocratic; it is for the "spiritual" few who can understand the deep things, not for the "psychic" many who rely on simple faith.
+It is a system of self-elevation where the "knower" is saved by their own mental capacity to grasp esoteric truths. Swedenborg's measure runs the other way: "all are received into heaven who have loved truth and good for the sake of truth and good," and "to love truth and good for the sake of truth and good is to will and do them"; those who have loved much are the wise and those who have loved little the simple (*HH* §350).4 The measure is love lived, not knowledge held. The Gnostic path is inherently aristocratic; it is for the "spiritual" few who can understand the deep things, not for the "psychic" many who rely on simple faith.
 
 ## ---
 
@@ -163,11 +165,11 @@ The research frames the "Antagonist" or "Selfhood" not merely as a single extern
 
 ### **5.1 The Path of Worldly Power (The Natural Hierarchy)**
 
-The first manifestation is driven by a **Love for the World**. When this love becomes the ruling principle, it naturally resolves into hierarchical structures where the most powerful rule over those of less power.
+The first manifestation is driven by the **love of the world**, which Swedenborg defines as "desiring to secure to himself, by any kind of artifice, the wealth of others"; it is manifold, including "a love of wealth for the sake of being exalted to honors" and "a love of honors and dignities with a view to the increase of wealth" (*HH* §565).4 Where it serves the love of self, whose rule Swedenborg sets in direct opposition to rule from love toward the neighbor (*HH* §564), it resolves into hierarchical structures where the most powerful rule over those of less power.
 
-* **Mechanism:** This path does not necessarily choose slavery; rather, it loves dominion. It seeks to control the environment and others, leading inevitably to **external coercion** and the building of rigid institutions.  
+* **Mechanism:** This path does not necessarily choose slavery; rather, it loves possession and the honors possession buys. Dominion enters where the love of self rules through it (*HH* §§559, 564). It seeks to control the environment and others, leading inevitably to **external coercion** and the building of rigid institutions.  
 * **The Result:** In this dynamic, **external power defines truth**. The "truth" is whatever the strongest power says it is. This creates a "slave-like hierarchy" where the individual looks outward for authority—to priests, kings, or laws—rather than inward to the Lord.  
-* **The Trap:** By prioritizing the external shell, this path naturally suppresses the internal spirit. It becomes the "Institutional Antagonist" that persecutes dissent not out of simple malice, but because dissent threatens the external order that this love holds dear.4
+* **The Trap:** By prioritizing the external shell, this path naturally suppresses the internal spirit. It becomes the "Institutional Antagonist" that persecutes dissent not out of simple malice, but because dissent threatens the external order that this love holds dear.
 
 ### **5.2 The Path of Self-Love (The Gnostic Impulse)**
 
@@ -175,7 +177,7 @@ The second manifestation is driven by a **Love for the Self**. When this love be
 
 * **Mechanism:** This path does not consciously choose pride as a vice; rather, it loves the self's own vision. It positions the individual as the center of the universe, leading inevitably to the conclusion that **"I am God"** or at least the arbiter of reality.  
 * **The Result:** In this dynamic, **the Self defines truth**. When we recognize ourselves as the ultimate power, we recognize our own vision of good as the only truth. This creates a spiritual aristocracy of the "knowing ones" who view their own subjective experience as superior to external revelation.  
-* **The Trap:** By turning the mirror inward, this path naturally severs the connection to any external Divine Being. It results in a "hall of mirrors" where the self is worshipped as the source, isolating the individual from the genuine good that flows from the Lord.4
+* **The Trap:** By turning the mirror inward, this path naturally severs the connection to any external Divine Being. It results in a "hall of mirrors" where the self is worshipped as the source, isolating the individual from the genuine good that flows from the Lord: the interiors are "turned toward themselves and the world, and thus are turned away from the Lord and from heaven" (*HH* §561).4
 
 ### **5.3 The Common Root and the Spiral**
 
@@ -199,11 +201,11 @@ A central tenet of modern Gnostic-like movements is the shift from a **Personal 
 
 This depersonalization serves a specific psychological function: it removes the possibility of **judgment**. An impersonal energy force does not have a moral will; it does not command; it merely *is*. One aligns with energy; one obeys a Person. By converting God into a principle, the Gnostic practitioner retains the feeling of connection ("I am spiritual") without the obligation of submission ("I obey"). This aligns with the strategy of "dismantling" the "Lord in Ultimates"—removing the concrete, ruling authority to clear the way for the self's autonomy.2
 
-### **6.2 Narcissism and the "God-Self"**
+### **6.2 Self-Deification and the "God-Self"**
 
-A direct link is drawn between the "intellectual selfhood" of modern Gnostic movements (SBNR) and **narcissism**.3 If the "True Self" is God, then every impulse, intuition, or desire of the self can be sacralized as a "divine movement."
+The modern descendants of the impulse join the "self-spirituality" in which the individual's experience is the final authority1 to the doctrine that the self is God.3 If the "True Self" is God, then every impulse, intuition, or desire of the self can be sacralized as a "divine movement."
 
-This creates a closed loop of validation. In the SBNR worldview, "sin" is reinterpreted as "forgetting how great you are." Repentance is reinterpreted as "remembering your divinity." This theology offers a powerful narcotic for the ego, validating the modern obsession with self-identity and self-expression as the highest spiritual goods. It effectively operationalizes the "antagonist selfhood" at a mass scale, creating a culture of "self-glorification" disguised as spiritual awakening.3
+This creates a closed loop of validation. In this worldview, sin becomes forgetting one's own divinity and repentance becomes remembering it; the imperative is to "awaken to your own divinity".3 This theology offers a powerful narcotic for the ego, validating the modern obsession with self-identity and self-expression as the highest spiritual goods. It effectively operationalizes self-sourcing at a mass scale, creating a culture of self-deification disguised as spiritual awakening.3
 
 ### **6.3 Social Fragmentation and the Loss of Shared Reality**
 
@@ -241,7 +243,7 @@ From the codices of Nag Hammadi to the channelings of the Ascended Masters and t
 
 | Feature | The Path of Worldly Power (Hierarchy) | The Path of Self-Love (Gnosis) | The Path of Affirmation (Influx) |
 | :---- | :---- | :---- | :---- |
-| **Ruling Love** | **Love of the World:** Dominion/Control. | **Love of the Self:** Self-Worship/Pride. | **Love of the Lord/Neighbor:** Charity/Use. |
+| **Ruling Love** | **Love of the World:** Possession/Honors, ruling where it serves love of self. | **Love of the Self:** Self-Worship/Pride. | **Love of the Lord/Neighbor:** Charity/Use. |
 | **Natural Result** | **External Hierarchy:** Power defines truth. | **Internal Mirror:** Self defines truth. | **Kingdom of Use:** Good defines truth. |
 | **View of Authority** | **Mediated:** Priests, kings, laws. | **Private:** The "God Within." | **Direct:** Divine Influx via the Word. |
 | **Direction** | **Downward Spiral:** Into the world/matter. | **Downward Spiral:** Into the ego. | **Upward Spiral:** Toward the Lord. |
@@ -250,6 +252,6 @@ From the codices of Nag Hammadi to the channelings of the Ascended Masters and t
 
 1. A Critical History of Foundational Narratives \- From Mesopotamian Myths to the Modern Age, [**A Critical History of Foundational Narratives: From Mesopotamian Myths to the Modern Age**](../06_Mythological_Studies/A%20Critical%20History%20of%20Foundational%20Narratives_%20From%20Mesopotamian%20Myths%20to%20the%20Modern%20Age.md)  
 2. A Comparative Analysis of Non-Religious Christolog..., [**A Comparative Analysis of Non-Religious Christologies: The Battle for the 'Lord in Ultimates'**](../03_Biblical_Scholarship/A%20Comparative%20Analysis%20of%20Non-Religious%20Christologies_%20The%20Battle%20for%20the%20'Lord%20in%20Ultimates'.md)  
-3. Selfhood and Influx: An Objective Analysis of a Hyp..., [**Selfhood and Influx: An Objective Analysis of a Hypothetical Conflict Model against 21st-Century Socio-Political and Scientific Data**](../01_Consciousness_Studies/Selfhood%20et%20Influx_%20An%20Objective%20Analysis%20of%20a%20Hypothetical%20Conflict%20Model%20against%2021st-Century%20Socio-Political%20and%20Scientific%20Data.md)  
-4. Enhancing Spiritual History Framework, [Enhancing Spiritual History Framework](../00_Framework/Enhancing%20Spiritual%20History%20Framework.md)  
+3. The Empty Room and the Self That Filled It: H.P. Blavatsky, the Ancient Word, and the Inversion from Reception to Self-Deification, [**The Empty Room and the Self That Filled It: H.P. Blavatsky, the Ancient Word, and the Inversion from Reception to Self-Deification**](The%20Empty%20Room%20and%20the%20Self%20That%20Filled%20It_%20H.P.%20Blavatsky,%20the%20Ancient%20Word,%20and%20the%20Inversion%20from%20Reception%20to%20Self-Deification.md)  
+4. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell*. Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. https://swedenborg.com/wp-content/uploads/2013/03/swedenborg_foundation_heaven_and_hell.pdf  
 6. From Shared Cosmos to Singular Creator: An Evolutionary Analysis of the Genesis Creation Narratives within the Ancient Near Eastern Cosmological Matrix, [From Shared Cosmos to Singular Creator: An Evolutionary Analysis of the Genesis Creation Narratives within the Ancient Near Eastern Cosmological Matrix](../06_Mythological_Studies/From%20Shared%20Cosmos%20to%20Singular%20Creator_%20An%20Evolutionary%20Analysis%20of%20the%20Genesis%20Creation%20Narratives%20within%20the%20Ancient%20Near%20Eastern%20Cosmological.md)

@@ -210,7 +210,7 @@ The application of the independent hermeneutic methodology confirms that Swedenb
 
 #### **Works cited**
 
-1. Validating Swedenborg's Correspondences  
+1. [The Hermeneutics of the Mundus Imaginalis: An Independent Methodological Validation of Swedenborgian Correspondences](The%20Hermeneutics%20of%20the%20Mundus%20Imaginalis_%20An%20Independent%20Methodological%20Validation%20of%20Swedenborgian%20Correspondences.md)  
 2. What writings are held as "biblical canon" by Swedenborgians?, accessed on December 27, 2025, [https://christianity.stackexchange.com/questions/43971/what-writings-are-held-as-biblical-canon-by-swedenborgians](https://christianity.stackexchange.com/questions/43971/what-writings-are-held-as-biblical-canon-by-swedenborgians)  
 3. accessed on December 27, 2025, [https://christianity.stackexchange.com/questions/43971/what-writings-are-held-as-biblical-canon-by-swedenborgians\#:\~:text=The%20books%20of%20the%20Word%20in%20the%20Old%20Testament%20are,%2C%20Nahum%2C%20Habakkuk%2C%20Zephaniah%2C](https://christianity.stackexchange.com/questions/43971/what-writings-are-held-as-biblical-canon-by-swedenborgians#:~:text=The%20books%20of%20the%20Word%20in%20the%20Old%20Testament%20are,%2C%20Nahum%2C%20Habakkuk%2C%20Zephaniah%2C)  
 4. Doctrine of Faith | Swedenborg Foundation, accessed on December 27, 2025, [https://swedenborg.com/wp-content/uploads/2013/03/swedenborg\_foundation\_faith-1.pdf](https://swedenborg.com/wp-content/uploads/2013/03/swedenborg_foundation_faith-1.pdf)  

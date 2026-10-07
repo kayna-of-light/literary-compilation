@@ -709,6 +709,3 @@ The following table maps the independent witnesses who converge on the pattern "
 21. [The River and the Vessel: Influx, Correspondence, and the Continuous Perception of Spiritual Reality Across All Ages](../00_Master_Theses/The%20River%20and%20the%20Vessel_%20Influx%2C%20Correspondence%2C%20and%20the%20Continuous%20Perception%20of%20Spiritual%20Reality%20Across%20All%20Ages.md). Plato's engagement with Zoroastrian material.
 22. [The Transmission of the Ancient Word](../00_Framework/The%20Transmission%20of%20the%20Ancient%20Word_%20A%20Thesis%20on%20the%20Science%20of%20Correspondences%20from%20Deep%20Antiquity%20to%20Modern%20Cultural%20Expression.md). Platonic myths decoding under the correspondential key.
 
-**Evidentiary dossier:**
-
-23. [Primary-Source Dossier: The Archival Rupture — Verbatim Witness Testimony on the Persepolis Archive](../../personal-space/notes/2026-06-09-archival-rupture-persepolis-source-dossier.md). Working note containing all verbatim quotations harvested from NotebookLM notebook `188d1aef-7be5-496e-a06a-f487b70b3d70` (41 sources, Greek-only query round of 2026-06-10).

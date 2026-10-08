@@ -37,7 +37,7 @@ Therefore, historically, Melchizedek appears as the sacral king of a city dedica
 
 Melchizedek is uniquely styled as the "Priest of God Most High" (*Kohen l'El Elyon*). In the Genesis narrative, Abram swears by "Yahweh, God Most High" (Gen 14:22), effectively equating the Canaanite deity of Melchizedek with his own monotheistic God. However, historically, *El* and *Elyon* were likely distinct figures in the earliest strata of Canaanite religion that eventually merged.
 
-* **El:** The head of the Canaanite pantheon, the "Father of Years," and the "Creator of Creatures" (*Qoneh Qanie*). He was depicted as a benevolent, bearded patriarch residing at the "source of the two rivers".  
+* **El:** The head of the Canaanite pantheon, the "Father of Years," and the "Creator of Creatures" (*bny bnwt*). He was depicted as a benevolent, bearded patriarch residing at the "source of the two rivers".  
 * **Elyon:** An epithet meaning "Most High." By the time of the patriarchal narratives, *El Elyon* functioned as a composite title for the supreme creator god, distinct from Baal, the storm god.
 
 The text describes Melchizedek blessing Abram with the formula: *"Blessed be Abram by God Most High, Creator \[or Possessor\] of heaven and earth"* (*Qoneh shamayim v'aretz*). This phrase is archaeologically attested; a similar title, *El qone aratz* ("El, creator of the earth"), appears in a Neo-Punic inscription at Leptis Magna and in a Hittite myth (*Elkunirsha*), confirming that Melchizedek’s liturgy reflects authentic second-millennium West Semitic theology.  

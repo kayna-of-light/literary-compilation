@@ -801,7 +801,7 @@ The convergence is systematic. Every major attribute of the Quranic Jesus can be
 
 The Pauline-Gnostic tradition viewed the material world as a prison ruled by hostile powers. Paul refers to "the god of this world" (2 Cor 4:4) as a blinding, hostile force. The Quran's response is devastatingly simple: "The similitude of Jesus before Allah is as that of Adam; He created him from dust, then said to him: 'Be.' And he was" (3:59). By paralleling Jesus with Adam, the Quran grounds him in the soil of the earth. He is a biological reality created by divine command, not a pre-existent Aeon descending into a material shell.
 
-Surah 5:75 emphasises: "The Messiah, son of Mary, was only a messenger... and his mother was a supporter of truth. They both used to eat food." The eating of food — the dependence on digestion, biological process, material sustenance — is the ultimate proof of his created, non-divine nature. To a Gnostic, a divine being engaging in digestion is impossible. To the Quran, these biological dependencies are what prove he is human.
+Surah 5:75 emphasises: "The Messiah, son of Mary, was not but a messenger; [other] messengers have passed on before him. And his mother was a supporter of truth. They both used to eat food." The eating of food — the dependence on digestion, biological process, material sustenance — is the ultimate proof of his created, non-divine nature. To a Gnostic, a divine being engaging in digestion is impossible. To the Quran, these biological dependencies are what prove he is human.
 
 ### 10.3 Against Antinomianism: The Restoration of Law
 

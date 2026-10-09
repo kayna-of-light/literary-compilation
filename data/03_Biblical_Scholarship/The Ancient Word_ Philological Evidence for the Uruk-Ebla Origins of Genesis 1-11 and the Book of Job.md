@@ -383,7 +383,7 @@ The evidence speaks to age; it does not speak to intention.
 
 11. Rendsburg, Gary A. "Ancient Hebrew Morphology." In *Morphologies of Asia and Africa*, edited by Alan S. Kaye, 85-105. Winona Lake: Eisenbrauns, 2007.
 
-12. Rendsburg, Gary A. "Eblaite and Some Northwest Semitic Lexical Links." Rutgers University Faculty Publications, 2002.
+12. Rendsburg, Gary A. "Eblaite and Some Northwest Semitic Lexical Links." In *Eblaitica: Essays on the Ebla Archives and Eblaite Language*, vol. 4, edited by Cyrus H. Gordon and Gary A. Rendsburg. Winona Lake, IN: Eisenbrauns, 2002.
 
 13. Sauer, James A. "The River Runs Dry: Creation Story Preserves Historical Memory." *Biblical Archaeology Review* 22, no. 4 (July/August 1996): 52-54, 57, 64.
 

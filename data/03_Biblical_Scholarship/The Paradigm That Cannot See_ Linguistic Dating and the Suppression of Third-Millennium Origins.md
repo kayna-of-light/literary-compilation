@@ -305,20 +305,18 @@ The truth is not determined by consensus. The truth shows itself because it is t
 
 1. El-Baz, Farouk. "A River in the Desert." *Discover* 14, no. 7 (1993): 32-39.
 
-2. Gordon, Cyrus H. "The Ebla Tablets and the Bible." *Biblical Archaeology Review* 4, no. 3 (1978): 2-16.
+2. Kuhn, Thomas S. *The Structure of Scientific Revolutions*. Chicago: University of Chicago Press, 1962.
 
-3. Kuhn, Thomas S. *The Structure of Scientific Revolutions*. Chicago: University of Chicago Press, 1962.
+3. Pettinato, Giovanni. *The Archives of Ebla: An Empire Inscribed in Clay*. Garden City, NY: Doubleday, 1981.
 
-4. Pettinato, Giovanni. *The Archives of Ebla: An Empire Inscribed in Clay*. Garden City, NY: Doubleday, 1981.
+4. Rendsburg, Gary A. "Eblaite and Some Northwest Semitic Lexical Links." In *Eblaitica: Essays on the Ebla Archives and Eblaite Language*, vol. 4, edited by Cyrus H. Gordon and Gary A. Rendsburg. Winona Lake, IN: Eisenbrauns, 2002.
 
-5. Rendsburg, Gary A. "Eblaite and Some Northwest Semitic Lexical Links." In *Eblaite Personal Names and Semitic Name-Giving*, edited by Alfonso Archi, 89-100. Rome: Missione Archeologica Italiana in Siria, 1988.
+5. Sauer, James A. "The River Runs Dry: Creation Story Preserves Historical Memory." *Biblical Archaeology Review* 22, no. 4 (1996): 52-54, 57, 64.
 
-6. Sauer, James A. "The River Runs Dry: Creation Story Preserves Historical Memory." *Biblical Archaeology Review* 22, no. 4 (1996): 52-54, 57, 64.
+6. Swedenborg, Emanuel. *Arcana Coelestia*. 12 vols. London: Swedenborg Society, 1749-1756.
 
-7. Swedenborg, Emanuel. *Arcana Coelestia*. 12 vols. London: Swedenborg Society, 1749-1756.
+7. Swedenborg, Emanuel. *True Christian Religion*. London: Swedenborg Society, 1771.
 
-8. Swedenborg, Emanuel. *True Christian Religion*. London: Swedenborg Society, 1771.
+8. Wiseman, P.J. *New Discoveries in Babylonia about Genesis*. London: Marshall, Morgan & Scott, 1936.
 
-9. Wiseman, P.J. *New Discoveries in Babylonia about Genesis*. London: Marshall, Morgan & Scott, 1936.
-
-10. Young, Ian, Robert Rezetko, and Martin Ehrensvärd. *Linguistic Dating of Biblical Texts*. 2 vols. London: Equinox, 2008.
+9. Young, Ian, Robert Rezetko, and Martin Ehrensvärd. *Linguistic Dating of Biblical Texts*. 2 vols. London: Equinox, 2008.

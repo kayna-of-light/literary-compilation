@@ -11,129 +11,111 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 
 **Replaced wholesale at the end of every run.** This block describes the present, not the history — history goes in the run log below. A run that leaves this stale has failed its successor.
 
-> **Status**: 26 documents audited (24 `corrected`, 2 `partial`). 226 remain of 252. Nothing in flight. GitHub write
-> access works. Latest branch `claude/nightly-audit-2026-10-07` (the 2026-10-08 night run; branch named by UTC date).
+> **Status**: 31 documents audited once PR #29 (branch `claude/nightly-audit-2026-10-08`, the *Two Hearts* family) and
+> this PR both merge (29 `corrected`, 2 `partial`); 221 remain of 252. Nothing in flight. GitHub write access works.
+> Latest branch `claude/nightly-audit-2026-10-09`. **Both PRs edit this ledger**: when merging the second, keep both
+> sets of rows, both run-log entries and both sets of register rows, and keep *this* handoff block (it already folds in
+> #29's).
 >
 > **Before anything else: `git fetch --unshallow origin`.** The session's clone is shallow; a history search on it
-> misses renames and deletions and produced a false "exists nowhere" finding on 2026-10-06.
+> misses renames and deletions.
 >
 > **Awaiting the author**: nothing new from this run.
 >
-> **Latest (2026-10-08, night run)**: the `02` canon pair *The Semiotic Architecture of Revelation* and *The Semiotics of
-> the Spirit*, both `corrected`. Their blog chains end in Swedenborg's letter to Beyer (Tafel 1877, Doc. 224) and *SE*
-> §§4412, 4824, 6062 (pattern register: "Swedenborg on the apostolic writings"). Number meanings he never gave (5, 8, 11)
-> replaced with his own (pattern register). *AE* §619 is his own exegesis of Samson's lion and honey; *AC* §588 is his
-> "anger according to the appearance" — both cited as the hits they are. One propagation (*Job vs. Proverbs*, `03`).
+> **Latest (2026-10-09, night run, `03`)**: *Job vs. Proverbs* and *The Scandal of the Flesh*, both `corrected`.
+> *Job vs. Proverbs* had a clean-looking Works Cited with four bad imprints (one article that cannot be found) and three
+> quotations that were paraphrases; its Swedenborg canon now rests on *AC* §§1756, 3540, 10325, *SS* §§20, 103 and
+> *TCR* §§201, 265–279. Propagated to *The Paradigm That Cannot See*, *The Ancient Word_ Philological Evidence* (`03`),
+> *The Correction of the Archons*, *The Damascus Divergence* (`04`) and *The Carriers of Living Water* (`00_MT`).
 >
 > **Carry into the next `00_Framework` audit**: *A Coherent Framework* §5.3 ("The Self in the 21st Century") is the
-> deleted *Proprium et Influx*'s political reading ("digital authoritarianism", "cancel culture", social fragmentation
-> as the self's niche) carried into the framework text. The author deleted that source for false and twisted claims;
-> re-source each sentence to an established library report or drop it, as was done for *Hidden Divinity* on 2026-10-07.
+> deleted *Proprium et Influx*'s political reading carried into the framework text. The author deleted that source for
+> false and twisted claims; re-source each sentence to an established library report or drop it, as was done for
+> *Hidden Divinity* on 2026-10-07.
 >
 > **Take next (pick by coverage):**
-> 1. **`01/The Empirical Architecture of Survival`** — the library's source for most DOPS statistics (cited by
->    *Methodological Visibility*, *Seed and the Sun*, *Restorative Return*, *Hybrid Model*…), its raw list stands in front
->    of papers now read (pattern register: DOPS full texts). Unverified there: "approximately 70% of the 2,500+ documented
->    cases have been solved" (only Cook's 856-case 67% is published), the Z-scores in its country table, "only 33 (1.3%)
->    have written records made before verification"; "799 cases … SOCS" is right (Tucker 2000). *The Restorative Return*
->    (`01`) is its sibling.
-> 2. **`06`** (1 audited) and **`03`** (2): weight here next. `03`: *Cross-Domain Convergence*, *Geographic Confirmation
->    Inventory*, *Job vs. Proverbs* (its §3 Swedenborg canon paragraph was touched tonight by propagation; the rest of its
->    Swedenborg claims — Job as an Ancient Church book, the *Moshalim* of Num 21:27 — are unchecked: *AC* §§2686, 3419,
->    9942; *TCR* §§264–266, 279 are what it cites). Leave *Lexical Fossil Inventory* and *Stratigraphy of the Archaic*
->    alone (closed-unmerged PR #3 branch `claude/nightly-audit-2026-09-21`).
-> 3. **`02`** (6 of ~47): *The Divine Bricolage and the Incarnation of Truth* (dead *Profile* link; StackExchange "prophet"
->    page → *AC* §6212).
-> 4. **The Gnostic-Impulse family** (carried eight nights): `05/The Architecture of Autonomy`, `05/The Architecture of
+> 1. **The `03` Ebla family**: *The Paradigm That Cannot See* (19 KB) and *The Ancient Word_ Philological Evidence for
+>    the Uruk-Ebla Origins* (32 KB) share tonight's Ebla bibliography; their Rendsburg entries are already fixed. The
+>    register row "Ebla / ANE wisdom comparisons" makes most entries a lookup. Their Swedenborg entries still carry the
+>    impossible "London: Swedenborg Society, 1749–1756" imprint (register row). *The Ancient Word* cites "Dahood, 'Ebla,
+>    Ugarit, and the Bible', in Pettinato 1981": the afterword is real; confirm its pages.
+> 2. **`06` creation-myth siblings** (from #29): *From Shared Cosmos to Singular Creator* (57 KB) and *A Critical
+>    History of Foundational Narratives* (117 KB) likely share the *Two Hearts* Gemini source set; diff first. #29's
+>    register row "ANE creation-myth comparisons" makes most entries a lookup.
+> 3. **`01/The Empirical Architecture of Survival`**: the library's source for most DOPS statistics. Unverified there:
+>    "approximately 70% of the 2,500+ documented cases have been solved" (only Cook's 856-case 67% is published), the
+>    Z-scores in its country table, "only 33 (1.3%) have written records made before verification". *The Restorative
+>    Return* (`01`) is its sibling.
+> 4. **`04` Quranic-Isa / Pauline family**: *The Correction of the Archons* and *The Apostle of the Archons* (the two
+>    sources of tonight's *Scandal of the Flesh*; isjesusalive.com still in *Correction* and *The Damascus Divergence*).
+> 5. **The Gnostic-Impulse family** (carried ten nights): `05/The Architecture of Autonomy`, `05/The Architecture of
 >    Hidden Divinity`, `00_Framework/A Coherent Framework` § 5.2. Diff the two `05` documents first.
-> 5. **`01` short pair**: *Mission-Based Returns* and *Sequential Structure* are mirrors of corrected SDA reports; numbers
->    trace to the audited notebooks — a fast pair if a night is short. *The Surface That Withholds Nothing* (87 KB) is a
->    night on its own.
 >
-> Coverage so far: `00_Master_Theses` ×1, `00_Framework` ×1, `01` ×8, `02` ×6, `03` ×2, `04` ×2, `05` ×2, `06` ×1,
-> `07` ×1, `08` ×1. Weight toward `03` and `06` next.
+> Coverage (with #29): `00_Master_Theses` ×1, `00_Framework` ×1, `01` ×8, `02` ×6, `03` ×4, `04` ×2, `05` ×2, `06` ×7,
+> `07` ×1, `08` ×1. Weight toward `07`, `08`, `04` and `02` next. Leave *Lexical Fossil Inventory* and *Stratigraphy of
+> the Archaic* (`03`) alone (closed-unmerged PR #3 branch); the former still carries the Gordon *BAR* 1978 and the
+> Rendsburg 1988 entries.
 >
-> **Standing defect classes**: Gemini bare footnote numerals in ~70 documents, and **stripped** markers in the `01`/`03`
-> NDE family and the `02` canon pair (done). Internal citations to library documents that do not hold the claim (dead
-> links: re-scan with the register's script before closing any audit; 0 tonight in the batch). Readings, coinages and
-> **number meanings** credited to Swedenborg that are not his (register). Popular anecdote collections standing in for
-> research data. Commentator paraphrases quoted as Swedenborg. Dead knowledge-graph IDs. The Dutch `Geciteerd werk`
-> heading on ~70 raw lists. Reddit, Scribd, Quora, StackExchange in ~100 documents; `biblehub.com/q/` AI pages (new).
-> `drive.google.com` in 20.
+> **Standing defect classes**: Gemini bare footnote numerals in ~70 documents, and **stripped** markers (gaps such as
+> `stages :`) in the `01`/`03` NDE family and in the Gemini reports generally. Prompt fragments ("the provided research",
+> "Your critique", "you identified"). **Plausible fabricated imprints in otherwise tidy Works Cited lists** (a tidy list
+> is not a checked list). Internal citations to library documents that do not hold the claim. Phrases credited to
+> Swedenborg that are not his ("pure significatives"). Scripture and Qur'an paraphrased inside quotation marks. The
+> Dutch `Geciteerd werk` heading on ~67 raw lists. Reddit, Scribd, Quora and StackExchange in ~100 documents;
+> `biblehub.com/q/` AI pages. `drive.google.com` in 20.
 >
-> **Propagation debt**: none from tonight. *Seed and the Sun* still copies the December soul-path partition (§7.2,
-> summary table ~line 899) — governed by the open `[NDE]` question. Older: the dead Drive report cited by four `07`
-> documents; the GCSU undergraduate paper (*The Apostle of the Archons*, 04, entry 49). *The Damascus Divergence* (`04`)
-> and *The Correction of the Archons* (`04`) cite isjesusalive.com (Erik Manning, apologetics blog); the first already
-> lists the Ehrman post it quotes — settle in their own audits.
+> **Propagation debt**: *Lexical Fossil Inventory* (`03`, out of reach, above). *Seed and the Sun* still copies the
+> December soul-path partition (§7.2, summary table ~line 899), governed by the open `[NDE]` question. Older: the dead
+> Drive report cited by four `07` documents; the GCSU undergraduate paper (*The Apostle of the Archons*, 04, entry 49);
+> isjesusalive.com in *The Damascus Divergence* and *The Correction of the Archons* (`04`).
 >
-> **Dataset notes.** (1) Two "met by beings" measures, both correct, not interchangeable: *Ontological Transition*'s
+> **Dataset notes.** (1) Two "met by beings" measures, both correct and not interchangeable: *Ontological Transition*'s
 > 2,334 (34.6%) and *Unfolding of the Seed*'s 2,142 (31.7%); deceased relatives anywhere = 1,206 (17.9%). Name the
-> measure in the sentence. (2) **N = 6,751: NDERF 5,659, IANDS 1,092** after removing two exact duplicates (SDA audit,
-> 2026-10-06); never notebook `03`'s 5,664/1,089. Before verifying any NDE figure, read the SDA `CLAUDE.md` § 6.3
-> withdrawn-figures table. (3) Current prior-death memory: 36 (19 violent, 15 unspecified, 2 natural); past-life memory
-> 297; mission commissioning by return agency: mutual 48.9%, external being 38.6%, self 24.2%, involuntary 9.1%.
+> measure in the sentence. (2) **N = 6,751: NDERF 5,659, IANDS 1,092**; never use notebook `03`'s 5,664/1,089. Read the SDA
+> `CLAUDE.md` § 6.3 withdrawn-figures table before verifying any NDE figure. (3) Current prior-death memory: 36 (19 violent,
+> 15 unspecified, 2 natural); past-life memory 297; mission commissioning by return agency: mutual 48.9%, external being
+> 38.6%, self 24.2%, involuntary 9.1%. (4) DOPS age of onset: the DOPS page says "usually between the ages of 2 and 5",
+> Tucker 2007 says onset at 2 or 3, and Cook et al. give a median of 37 months. "Two and four" (in four documents) is
+> defensible; do not "correct" it.
 >
-> **Awaiting external answers** (open): the `[GDR]` *Cosmic Cradle* "first-time entry" question (2026-10-06); the `[NDE]`
-> soul-path decision (2026-10-05); the four 2026-10-01 questions (*TCR* §126 "quiesced"; epigenesis/preformation; the
-> Japanese Amida NDE source; the *TCR* §103 Latin); Arvind/Bibi/Santosh testimony wording; Koester/Perrin/Pervo Pastorals
-> ranges; "Stevenson and Cook 326 cases"; Dole edition dates; Gardner "2nd ed. 2020"; the *Protective Garment* annotation
-> question; *The River* locator/translation question (LOW); the Worcester lineage in 7 `07` documents (HIGH, author's
-> go-ahead).
+> **Awaiting external answers** (open): the `[GDR]` Eblaite cognates in *Job vs. Proverbs* §5.1 (2026-10-09); the
+> `[GDR]` *Cosmic Cradle* "first-time entry" question (2026-10-06); the `[NDE]` soul-path decision (2026-10-05); the four
+> 2026-10-01 questions (*TCR* §126 "quiesced"; epigenesis/preformation; the Japanese Amida NDE source; the *TCR* §103
+> Latin); Arvind/Bibi/Santosh testimony wording; Koester/Perrin/Pervo Pastorals ranges; "Stevenson and Cook 326 cases";
+> Dole edition dates; Gardner "2nd ed. 2020"; the *Protective Garment* annotation question; *The River*
+> locator/translation question (LOW); the Worcester lineage in 7 `07` documents (HIGH, author's go-ahead).
 >
 > **Findings handed to the author** (not this job's to edit): `structured-data-analysis/docs/external/The Epistemic
-> Architecture…` and `projects/nde/docs/notebook_reanalysis_plan.md` still repeat withdrawn figures; *The Selfhood of
-> the Prophet* §3.3 blockquotes the *Biological Error* paraphrase of *De Generatione* as Swedenborg's words;
+> Architecture…` and `projects/nde/docs/notebook_reanalysis_plan.md` still repeat withdrawn figures. *The Selfhood of
+> the Prophet* §3.3 blockquotes the *Biological Error* paraphrase of *De Generatione* as Swedenborg's words.
 > `proto-luke-reconstruction` ch. 20 note 17 lists א among the witnesses omitting Luke 22:43–44 (Sinaiticus' first hand
-> includes them); *A Hybrid Model* §1.2 argues from the soul-from-the-father doctrine that *The Biological Error*
-> corrects (an annotation question). Raw source lists that name Drive-era titles in plain text (no link) still exist —
-> *The Divine Bricolage* line 172 had nine; resolve them with the rename history when each document is audited.
+> includes them). *A Hybrid Model* §1.2 argues from the soul-from-the-father doctrine that *The Biological Error*
+> corrects (an annotation question). Raw lists that name Drive-era titles in plain text still exist; resolve them with
+> the rename history when each document is audited.
 >
 > **Worth knowing**:
 > - **No subagents** (procedure § 4.2). The workflow: curl every source once into the scratchpad (`r.jina.ai/<url>`
->   for CAPTCHA/403 pages), extract to text (`pypdfium2` + `beautifulsoup4` in a venv), OCR scans with
->   `rapidocr-onnxruntime` (scale 2.5), then run one phrase-search script over all of it. For Swedenborg, download the
->   33 SE PDFs in parallel (`arcana_coelestia_01…12`, `apocalypse_explained_01…06`, `apocalypse_revealed_01/02`,
->   `true_christian_religion_01/02`, `four_doctrines`, `heaven_and_hell`, `white_horse`, `holy_scripture`, `faith-1`,
->   `new_jerusalem`, `divine_providence`, `divine_love_and_wisdom`, `last_judgment`, `scripture_confirmations`,
->   `word_of_the_lord_from_experience`); a `ProcessPoolExecutor` extraction takes ~10 seconds. Section numbers: take
->   the last `(?<![\d,–\-n])(\d{2,5}[a-z]?)\. (?=[A-Z“"\[‘])` before the hit in a 25,000-character window and eyeball
->   the last few candidates — running heads ("APOCALYPSE EXPLAINED 1999") and cross-references produce false ones.
-> - ***SE* (Buss)**: `e-swedenborg.com/writings/static/d9216/<n>.htm`, curl with a browser UA.
-> - **DOPS and Ohkado full texts**: pattern register ("DOPS reincarnation literature"); `ohkado.net/articles/`.
-> - **IANDS accounts are in the corpus too**: `structured-data-analysis/data/iands/*.json`.
-> - **Walled scholarship**: Crossref for metadata, Europe PMC REST for abstracts. Google Books API and archive.org
->   lending items are not usable from the session.
+>   for CAPTCHA/403 pages, **one at a time**), extract to text (`pypdfium2` + `beautifulsoup4` + `lxml` in a venv),
+>   then run one phrase-search script over all of it. Keep every `curl -o` path absolute.
+> - **Swedenborg full texts**: the SE PDFs (`swedenborg.com/wp-content/uploads/2013/03/swedenborg_foundation_<t>.pdf`)
+>   extract in seconds. Section numbers: take the last `(?<![\d,–\-n])(\d{2,5}[a-z]?)\. (?=[A-Z“"\[‘])` before the hit
+>   and eyeball it. *SE* (Buss): `e-swedenborg.com/writings/static/d9216/<n>.htm` needs a full browser UA **and**
+>   `Accept: text/html` (Mod_Security 406 otherwise); the same holds for earlychristianwritings.com.
+> - **ANE wisdom texts**: ETCSL (`etcsl.orinst.ox.ac.uk/section5/tr561.htm` Shuruppak, `tr524.htm` *Man and His God*;
+>   the `b5xx.htm` pages give each composition's print bibliography with pages); ANET 3rd ed. full text on archive.org
+>   (`ancient-near-eastern-texts-relating-to-the-old-testament`). Hebrew Bible: `openscriptures/morphhb` WLC XML on
+>   GitHub (Ketiv/Qere marked). Qur'an: `api.quran.com/api/v4/quran/translations/<20 Saheeh | 22 Yusuf Ali>?verse_key=`.
+> - **Walled scholarship**: Crossref for metadata (it lists each chapter of an edited volume with author and pages),
+>   KeiBi (`keibi.uni-tuebingen.de`, via jina) for Ebla/ANE article pages, PubMed E-utilities and Europe PMC for
+>   abstracts, the Open Library search API for book imprints (it reset the connection tonight; KeiBi worked instead).
 > - **Blocked from the session**: Reddit, Quora, web.archive.org, YouTube transcripts, tandfonline, ResearchGate, UNT
->   item pages (not its PDFs), brucegreyson.com, PNAS, cairn.info, miraheze, erudit.org, keepapitchinin.org,
->   newchristianbiblestudy.org, mypcnow.org, hospicebuddy.com, `virtualmmx.ddns.net` (502), Iranica's own HTML (use
->   jina), Pacific Scholarly Commons (use jina), StackExchange (Cloudflare), learn.ligonier.org (jina returns a tracker).
->   library.syracuse.edu pages come back empty to curl; jina reads them.
+>   item pages, brucegreyson.com, PNAS, cairn.info, miraheze, erudit.org, keepapitchinin.org, newchristianbiblestudy.org,
+>   mypcnow.org, hospicebuddy.com, `virtualmmx.ddns.net`, StackExchange, learn.ligonier.org, Britannica, the Met's essays,
+>   Medium, oxfordre, BYU ScholarsArchive, `cdli.ox.ac.uk` (jina timeout), `ueb.cnr.it`. archive.org lending items return
+>   no text.
 > - A scare-quoted phrase that no source contains, and that other library documents cite *from* the document under
 >   audit, is the author's own vocabulary. Leave it.
 > - Strains **#16** and **#26** remain open from 2026-08-20; this job does not touch that file. The highest is **#26**.
----
-
-## How to read the tables
-
-| Column | Meaning |
-|---|---|
-| **Date** | Run date (YYYY-MM-DD) |
-| **Document** | Path relative to `data/` |
-| **Why** | Why this document was chosen — a few words is enough |
-| **Sources** | Citations verified / total found |
-| **Corrections** | Fixed in place (F) — corrected citations, replaced or added sources, completed Works Cited entries, corrected facts, source-list rebuilds (procedure §§ 3.5–3.6). Nothing is annotated and no note about the audit is ever written into the document (§ 3.7). Anything that could not be settled goes in this column too, with what was searched (§ 5). |
-| **Propagated** | Files outside the batch that received the same correction |
-| **Open** | Research questions logged |
-| **Outcome** | `in-progress` · `clean` · `corrected` · `partial` · `blocked` · `released` |
-
-Batch selection is the run's own judgment (procedure § 2), so **Why** is not optional bookkeeping — it is what makes that judgment reviewable and correctable. A run that records what it chose but not why leaves the author nothing to steer by.
-
-Rows are append-only — a later correction to a row goes in a new row, never by editing history. The one exception is flipping `in-progress` to a final outcome at the end of the run that claimed it.
-
-A document counts as audited only after a **complete** read and source pass — and "complete" means the *entire* Works Cited list is brought into line with `docs/BIBLIOGRAPHY_STANDARDS.md`, not just the entries behind whichever claims got fact-checked that night, and every entry *traced* — who wrote it and what it rests on (procedure §§ 3.3, 3.6). A document with five verified claims and ten untouched Scribd/Reddit citations is `partial`, never `corrected`. Files touched solely by correction propagation appear in the **Propagated** column of the row that caused them; they are not audited and stay in the queue.
-
-**`in-progress` rows are claims.** A run writes them and pushes before auditing, so a session that dies leaves a visible trace instead of silently losing its work. A claim older than 48 hours with no open PR is a dead run: release those documents back to the queue with a `released` row and note the dead branch in the run log. Never resume someone else's claim — you cannot know how far it got.
 
 ---
 
@@ -142,9 +124,9 @@ A document counts as audited only after a **complete** read and source pass — 
 | Metric | Count |
 |---|---|
 | Documents in `data/` | 252 |
-| Audited | 26 |
+| Audited | 28 (31 once PR #29 merges) |
 | In flight | 0 |
-| Remaining | 226 |
+| Remaining | 224 (221 once PR #29 merges) |
 
 Refresh the total with `find data -name "*.md" | wc -l`.
 
@@ -210,6 +192,8 @@ Refresh the total with `find data -name "*.md" | wc -l`.
 | 2026-10-07 | `05_The_Self/The Architecture of Hidden Divinity_ A Comprehensive Profile of the Gnostic Impulse and Its Historical Mechanics.md` | Author's answer to the open question: the two deleted sources were removed because they held false or twisted claims; a valid claim will be established in another library report | Entries 3–4 replaced: *The Empty Room and the Self That Filled It* (audited 2026-09-23), *Heaven and Hell* (Ager, Standard Edition, §§350, 556, 559, 561, 564, 565); entry 1 (*A Critical History of Foundational Narratives*) re-read for the Gnostic, Irenaean and New Age claims it holds; entry 2 for "self-glorification" | Every sentence citing 3 or 4 checked. Re-sourced: New Age "self-spirituality" (entry 1); the self-deification lineage and "you are God" (*Empty Room* §14); love of self, its limit, and closure to influx (*HH* §§556, 559, 561); salvation by knowledge and the Irenaean "threefold cord" (entry 1); the simple and the wise (*HH* §350). Dropped as established nowhere: Archons as "social conditioning"/"Matrix"; SBNR "being connected with my true self"; *Philautia*; narcissism and the SBNR "textbook 21st-century example" (the deleted source's own phrase, presented as a finding); "Intellectual Form of Selfhood"; the "kenotic Path of Influx"; the "forgetting how great you are" quotations. Corrected: §5.1 gave the love of dominion to the love of the world; Swedenborg gives dominion to the love of self and defines love of the world as love of others' wealth and of honors (*HH* §§559, 564, 565) — text and Table 2 fixed. Headings 2.3, 3.3, 6.2 renamed to match | *The Architecture of Autonomy* §3.2: its two attributions to *Hidden Divinity* ("textbook example", the narcissism link) brought into line | Rest of the document (entries 1, 2, 6; markers 5 and 23 with no entry) not yet audited; *Autonomy*'s own narcissism sources (Wikipedia, a Scribd copy of Parsons, Goodreads) are its audit's | `partial` |
 | 2026-10-08 | `02_Swedenborgian_Theology/The Semiotic Architecture of Revelation_ An Empirical Validation of the Swedenborgian Canon Through Comparative Hermeneutics and Structural.md` | Handoff pick 2: `02` under-covered (4 of ~47); sibling of *Cognitive Archaeology* carrying its "*Hagiographa*" / inspiration framing (pattern register) | 39 raw entries (Dutch `Geciteerd werk`, one line), markers stripped. **Traced**: 1 Syracuse = G. W. Noyes ed., *John Humphrey Noyes: The Putney Community* (Oneida 1931), ch. 18, J. H. Noyes 1867 — a real critic of the canon ("attempts to cashier Paul and supersede him") → kept, Primary. 2 leewoof (Lee Woofenden, Swedenborgian minister's blog) quotes Swedenborg's 3rd letter to Beyer → cited from Tafel, *Documents* II.1 (1877), Doc. 224, pp. 240–241 (archive.org `documentsconcern21tafe` djvu, read). 23 Wikisource = Warren's 1875 *Compendium* → *AC* §10325 direct. 25 *Dicta Probantia*, 33 *De Verbo* (SF PDFs) — uncited, dropped. 5 newchurch Word Study, 6 Reddit, 7 W. L. Worcester *Language of Parable* (numbers), 10 biblemeanings.info (anonymous), 11/12 Bible Hub topical + biblestudy.org, 24/32 scienceofcorrespondences → the Swedenborg sections each claim rests on (SE PDFs, one regex pass). 8/9/19/21 biblehub.com/q (AI Q&A pages) dropped; 18/22 Bible Hub commentary pages → Barnes' Notes on 2 Chr 3:4 (named commentator; Web). 13 Answers in Genesis = Troy Lacey, 31 Mar 2015 (kept as an instance of the "permitted" harmonization); 14 Ligonier (bot-walled), 15 evangelicalarminians, 16 Judaism SE, 17 Quora, 20 thesimpleanswers, 26/30/35 Scribd, 27 Melanie Newton (unrelated), 28 Pope *Compendium* (unrelated), 29 Bernard *Oneness of God* (unrelated), 31 Christian Courier, 34 Everand, 36 Lutheran Forum, 37 Ironside, 38 Enduring Word, 39 Bible Hub Jachin — removed (support nothing, or the claim is the biblical text itself). 3/4 Christianity SE removed. | **F.** "*Hagiographa* / *Apostolic*" as Swedenborg's category → removed; "Immediate/Mediate Inspiration" de-quoted and sourced to *SE* §6062 + Beyer letter ("good books **of** the church", not "for"). Bears: *AE* §781 ("power from the natural sense or sense of the letter"), *TCR* §223, *AR* §573; 42 = blasphemy (*AR* §573) and full vastation, 6×7 (*AE* §633, *AR* §489). Numbering = to know quality and arrange (*AE* §386, *AR* §364). **Numbers corrected**: "5 = Remains", "8 = intensity of temptation", "11 = disjunction/disorder" are not Swedenborg's → five "somewhat" ×100 "much and all" (*AE* §548); eight/800 from two, "union … predicated of good" (*AE* §430), eighth day "any beginning whatever" (*AC* §2044); eleven "a state not yet full, and yet a receptive state" (*AE* §194). The argument stands on his values. Anger/temptation "according to the appearance" (*AC* §588) — a hit for §4.1. Temple = Divine Human (*AE* §220); porch = "the ultimate heaven" which "sustains the two higher heavens" (*AE* §219), not "the face" — §4.3 restated on it, conclusion intact. "Historical critics universally" (120-cubit porch) → commentators split: corruption (Alexandrian LXX + Arabic "twenty", Barnes) or hyperbole. **False claim removed**: "Swedenborg notes that in the Apostolic church these rituals were permitted as external representatives" (no text) → *AC* §9780 reads the anointing of the sick in Mark 6:13 through oil = good of charity. Luther "strawy epistles" → James "an epistle of straw" (*LW* 35, 1960). Psalms = Lord's temptations (*AE* §740). Hebrews' cloud trope → Homer *Il.* 4.274 (Perseus). Works Cited rebuilt (14). | `03/Job vs. Proverbs` (line 71: "Writings (*Hagiographa* or *Ketuvim*)" credited to Swedenborg → *AC* §10325's own sentence) | none | corrected |
 | 2026-10-08 | `02_Swedenborgian_Theology/The Semiotics of the Spirit_ An Empirical and Hermeneutic Validation of Swedenborg’s Doctrine of Correspondences Against the Canon of the New Church.md` | Same — the sibling; audited together | 47 entries, ~40 bare markers (all converted). **Traced**: 1 internal (*Hermeneutics of the Mundus Imaginalis*) kept — holds the symbol/allegory criteria and opposite sense. 4 *Doctrine of Faith* (SF PDF) kept, §§49–52 hold the Philistines. 30 *Holy Scripture* PDF kept as *Sacred Scripture* §§27–49. 17 leewoof / 19 swedenborgstudy hlo61 (Hugo Lj. Odhner, "The Apostolic Writings") → the Swedenborg they quote: *SE* §§4412, 4824, 6062 (e-swedenborg Buss, read) and the Beyer letter (Tafel 1877). 20 "The Bible" (no URL) = the library's *The Damascus Divergence* ch. IV ("The Gnostic Vector"). 21 isjesusalive (Erik Manning, apologetics blog) quotes Bart Ehrman → Ehrman's own post, 16 Jun 2016 (read, verbatim). 26 Schaff → *History of the Christian Church* I (Scribner 1910), ch. 5 — supports only "still shown" (the "Roman road" detail is not in it). 28 CEI Spiritist *Genesis* (Kardec) for "scales" → *AC* §6693, *AE* §654. 34 *New Church Life* 1903 (blocked) → *AR* §566. 2/3/18/38 StackExchange, 5 New Church Vineyard notes, 6 Bayley (newchristianbiblestudy, blocked), 7 NCV project, 8/12 W. L. Worcester, 9/45 biblemeanings, 10/11 scienceofcorrespondences, 13 Word Study, 14/47 SF recaps, 15 AE via NCBS, 16 BNL squarespace, 22 SF "Scholars" page, 23 Sower Notes, 24 *Dicta Probantia*, 25 Mental Symmetry, 27 OAPEN, 29 Bigelow, 31 swedenborgstudy odo80, 32 Wikipedia, 33 Kingslake *Inner Light*, 35 Noyes, 36 dokumen.pub, 37 esotericbosch, 39 Reddit, 40 Doane, 41 Gutenberg 31885, 42 Trobridge, 43 Word Study, 44 Scribd, 46 *Comte de Gabalis* — each claim re-pointed to the Swedenborg section, or the entry removed as supporting nothing. | **F.** "Lingua Divina / Lingua Ecclesiastica" (not Swedenborg's) → *Verbum* / "doctrinal writings" (Beyer letter). **Hit recorded in the text**: *AE* §619 is Swedenborg's own reading of Judges 14 — Samson a Nazirite representing "the Lord in respect to His ultimate natural", the young lion faith separated from charity, the bees and honey "the good of charity succeeds in its place"; the document's reading tracks it and now cites it. Milk "spiritual instruction" → "the delight of spiritual good" (*AE* §619). Acts 9:7/22:9 "literary exigency" (no source) → Ehrman's words. "Permitted … would have 'profaned' it" → *SE* §4824 verbatim ("lest those who are of the Church should work evil to the Word"). Paul "derived his gospel from his own internal revelations" → "took all things from himself" (*SE* §4824). "Epistles do not appear as radiant light" (no text found) → *AR* §566 (the Word in heaven, "a light … of ineffable brightness") + *SE* §4824 ("known in the other life"). "Acts 9:11-10" → 9:11, 10. Stray "# References / .1" removed. Works Cited rebuilt (13). | (shared with the row above) | none | corrected |
+| 2026-10-09 | `03_Biblical_Scholarship/Job vs. Proverbs_ The Theological Contest over Retribution Wisdom in the 3rd Millennium.md` | Handoff pick; `03` is the least-covered large folder (2 audited); its Swedenborg claims on Job and the *Moshalim* were flagged unchecked | **25 Works Cited entries + every quotation.** Swedenborg read in the SE PDFs (one regex pass): *AC* §10325 quotation verbatim; Job "a book of the ancient church" (*AC* §§1756, 3540, 9942; *SS* §20; *TCR* §201); *Moshalim* = "both proverbs and prophetic enunciations" (*SS* §103, *TCR* §265, *AC* §§2686, 2897); Ancient Word in Canaan/Syria/Mesopotamia…, still in Great Tartary (*TCR* §§266, 279). *AC* §3419 (cited) is Isaac re-digging the wells, not about Job; dropped. "Mediate inspiration" contrast → *SE* §6062 + Beyer letter (Tafel 1877, 240–241), as in the canon pair. Swedenborg names **no** book of Proverbs as mediate/"Writings" (searched AC/TCR/SS/AR full texts, Tafel *Documents* II, web): the fact is only that Proverbs is absent from *AC* §10325. Shuruppak against ETCSL c.5.6.1: suretyship line verbatim (19–20); "quarrel" and "married girl" lines were paraphrases → ETCSL wording (35, 33). *Man and His God* verbatim Kramer (ANET 3rd ed., archive.org full text). Amenemope "Guard yourself from robbing the poor…" matches no translation → Wilson's ANET wording. Ketiv/Qere at Job 9:30 and the hapax at 15:29 confirmed in the WLC (morphhb). Imprints: entry 5 "Dell, 'Job', 167–188, 2023" → **Will Kynes**, "Job", 162–183, eds Dell, Millar and Keefer, CUP **2022** (Crossref 10.1017/9781108673082.011); Mattingly → *The Bible in the Light of Cuneiform Literature: Scripture in Context III*, ANETS 8, **Mellen** 1990 (not "More Essays…", not Eisenbrauns; ETCSL bibliography); Rendsburg "Eblaite and Some Northwest Semitic Lexical Links" → ***Eblaitica* 4** (Eisenbrauns 2002; publisher TOC), not Archi's 1988 name-giving volume; Gordon "The Ebla Tablets and the Bible", *BAR* 4.3 (1978): **no such article found** (BAR's 1978 Ebla piece is Maloney's, 4.1; Gordon's Ebla papers date 1979–88) → replaced by Gordon, "*wm-* 'and' in Eblaite and Hebrew", *Eblaitica* 1 (1987) 29–30 (KeiBi), which carries the enclitic-*mem* claim, with Rendsburg, "Eblaite *ù-ma* and Hebrew *wm-*", ibid. 33–41. Alster 1974 series number dropped (sources disagree, 2 vs 10). Kitchen *TynBul* 28 (Crossref) and Kramer VTSup 3, 170–182 (ETCSL) confirmed; the other commentaries are standard imprints. | **F.** Uruk IV "≈15% lexical lists" → 703 of ~4,900 Uruk III texts (≈14%; Everson and Hawkins 2017, CDLI counts); Uruk IV lexical lists number about a dozen. §1.2 "Fara, Abu Salabikh and Ebla … lament-based wisdom side by side as early as 2600 BCE" → instructions by 2600–2500 (Fara, Abu Salabikh), the sufferer's lament by c. 2000 (Kramer); "two millennia" → "more than a millennium" (argument kept: the genres coexisted long before Israel). §3.1 "Proverbs is explicitly placed in this category" → it stands outside the Word, absent from *AC* §10325; "pure significatives" (not Swedenborg's phrase) → "full of correspondences" (*SS* §20, *TCR* §201) + *AC* §3540 verbatim. §3.2 "Ancient Word existed in the 3rd millennium in Great Tartary (Central Asia/Mesopotamia)" → Swedenborg's own geography (*TCR* §§266, 279), no date. *nì-gig* "Sumerian/Eblaite" → Sumerian (Hallo 1985, *JQR* 76.1). Von Rad 1955 cited for the *Onomasticon* reading of Job 38. In-text citations added throughout; Works Cited rebuilt into categories (33 entries). **Not settled** (left as written, § 5): the Eblaite *mw*, *ma-ni-lum* and *mšl* cognates; Dahood 1981 and Michel 1987 are print-only. | `03/The Paradigm That Cannot See` (Gordon *BAR* 1978 removed, Rendsburg → *Eblaitica* 4, list renumbered); `03/The Ancient Word_ Philological Evidence…` (Rendsburg "Rutgers University Faculty Publications, 2002" → *Eblaitica* 4). **Not touched**: `03/Lexical Fossil Inventory` carries both entries, but the handoff keeps it out of reach (closed-unmerged PR #3 branch). | 1 `[GDR]`: the Eblaite cognates of §5.1 | corrected |
+| 2026-10-09 | `03_Biblical_Scholarship/The Scandal of the Flesh_ Re-Evaluating the Criterion of Embarrassment through the Lens of Jamesian Orthopraxy and the Rejection of Pauline Gnosticism.md` | `03` weighting; raw Dutch `Geciteerd werk` list, never audited | 3 raw entries, all internal (*The Canonical Gospels*, *The Apostle of the Archons*, *The Correction of the Archons*; files exist); **6 stripped markers** (`diversity ,`, `Impulse" ,`, `corpus ,`, `Sanctification ,`, `trajectory ,`, `Alamin" ,`) matched to them by content. Every scripture and Qur'an quotation checked: Qur'an via the quran.com API (Saheeh International = 20, Yusuf Ali = 22); *Gos. Pet.* (M. R. James 1924) and Ignatius *Eph.* 18.2 (Lightfoot) on earlychristianwritings.com (browser UA needed). The Bauer thesis the document leans on is cited direct (Bauer 1971, ET). | **F.** Qur'an 5:75 "was only a messenger…" (no translation has it) → Saheeh International verbatim; 3:59 is Yusuf Ali verbatim (now credited). 2 Cor 5:16 "so no longer" → NKJV "thus no longer". "Royal Law of Liberty (James 2:8)" conflates two verses → "royal law" and "perfect law of liberty" (2:8; 1:25). "Firstborn of many brethren", put in James's mouth, is Paul (Rom 8:29) → cited as such; "the Jamesian community fought fiercely against the Docetists" (no source) → the view "stands against" Docetism. *Gos. Pet.* "My Power, My Power, why have you left me?" → "My power, my power, thou hast forsaken me" (5.19). "Syriac traditions … purify the waters" kept and given its earliest witness, Ignatius *Eph.* 18.2 ("baptized that by His passion He might cleanse water"). *Rabb al-Alamin* glossed correctly ("Lord of the Worlds", not "God is One"). "The provided scholarship / research materials / research provided" → the internal documents by name. Broken `\#\#\# 3.1` heading restored. Works Cited built (8 entries). Header block and `[SYNTHESIS #19]` note untouched (strain annotation, not this job's). | Qur'an 5:75 → `04/The Correction of the Archons` (§4.1, the origin of the misquote) and `00_Master_Theses/The Carriers of Living Water` (~line 804); 2 Cor 5:16 → `04/The Damascus Divergence` (line 121) | none | corrected |
 
 ---
 
@@ -302,12 +286,20 @@ Candidates to watch for in early runs, from the corpus's history — confirm bef
 - Statistics travel between documents by copying. A figure wrong in one place is likely wrong in several — always grep the number itself.
 - `EVOLVING_CONCEPTUAL_STRAINS.md` records that header-only annotations failed once already: NotebookLM fragments documents and does not carry context across sections. Every occurrence needs an adjacent inline note.
 - `WebFetch` summarizes a page through a small, fast model before returning it — for a long Swedenborg *Arcana Coelestia* section (some run for pages), a "this doesn't mention X" summary is weak evidence that X is genuinely absent, not strong evidence of a citation error. Treat a WebFetch "not found" on a long primary-source section as inconclusive, not as a finding, unless cross-checked a second way (a different host, a targeted search for the specific phrase, or — better — the section is short enough that a summary miss is implausible).
+| Plausible fabricated imprints in a tidy Works Cited | A Gemini-era list already in perfect Chicago form, so it looks audited, but entries attach a real title to the wrong volume, editor, publisher or year, or cite an article that cannot be found. Seen: Dell "Job" (the chapter is Kynes's), Mattingly in "Scripture in Context III: More Essays…, Eisenbrauns" (it is Mellen, *The Bible in the Light of Cuneiform Literature*), Rendsburg in Archi's 1988 name-giving volume (it is *Eblaitica* 4, 2002), Gordon *BAR* 4.3 (1978) (not found). | Check **every** entry, not only the ones a claim rests on: Crossref for chapters in edited volumes (it lists each chapter's author and pages), KeiBi for ANE/Ebla articles, publisher TOCs, ETCSL's per-composition bibliography pages. An entry that cannot be found is replaced by the real work that carries the claim, or removed if nothing rests on it. Grep the corpus for the same entry: these lists were copied between sibling documents. | `03/Job vs. Proverbs` → `03/The Paradigm That Cannot See`, `03/The Ancient Word_ Philological Evidence…`; `03/Lexical Fossil Inventory` not yet fixed. 2026-10-09. |
+| Ebla / ANE wisdom comparisons (Shuruppak, Amenemope, *Man and His God*, Eblaite cognates) | Paraphrased "quotations" of Shuruppak and Amenemope; Eblaite cognates for Job's hapaxes; "Sumerian/Eblaite" glosses; a lexical-list percentage assigned to Uruk IV. | Shuruppak: ETCSL c.5.6.1 by line (19–20 suretyship, 33 married woman, 35 quarrel). Amenemope: Wilson in ANET ("Guard thyself against robbing the oppressed / And against overbearing the disabled", ch. 2). *Man and His God*: Kramer, VTSup 3 (1955) 170–182, also ANET 589–591 ("Never has a sinless child been born to its mother, … a sinless workman has not existed from of old"). Uruk III corpus: 703 lexical of ~4,900 texts (Everson & Hawkins 2017, CDLI counts); Uruk IV lexical lists number about a dozen. *nì-gig* / *tôʿēbâ*: Hallo, *JQR* 76.1 (1985). *wm-* / *ù-ma*: Gordon (29–30) and Rendsburg (33–41) in *Eblaitica* 1 (1987). Mattingly 1990 and Kynes 2022 as above. The *mw* / *ma-ni-lum* / *mšl* Eblaite cognates trace to Dahood (Pettinato 1981 afterword) and Michel 1987, both print only: open `[GDR]` question. | `03/Job vs. Proverbs`, 2026-10-09; the `03` Ebla family. |
+| "London: Swedenborg Society, 1749–1756" for *Arcana Coelestia* (and "1771" *TCR*, "1763" *SS*) | A Works Cited entry pairing the Latin first-edition date with a translation publisher that did not exist until 1810: no real edition. | Cite the edition read: the Swedenborg Foundation Standard Edition (*AC* trans. Clowes, rev. Potts; *TCR* trans. Ager; *SS* in *Four Doctrines*, trans. Potts; West Chester, 2009). The house entries are in *The Semiotics of the Spirit* (`02`). Fix on audit; grep `Swedenborg Society, 1749` for the rest. | `03/Job vs. Proverbs` fixed 2026-10-09; still in `03/The Paradigm That Cannot See` and others. |
+| Scripture and Qur'an quoted from no translation | A verse in quotation marks that blends translations or paraphrases one ("was only a messenger…"; "know him so no longer"; "Royal Law of Liberty"), or one author's phrase put in another's mouth ("Firstborn of many brethren" as James's; it is Rom 8:29). | Check against the translation it is closest to and restore that wording verbatim, crediting it where the document mixes translations (Qur'an: Saheeh International / Yusuf Ali via the quran.com API). Grep the corpus for the same wording: these verses are copied between the Quranic-Isa and Pauline families. | `03/The Scandal of the Flesh` → `04/The Correction of the Archons`, `04/The Damascus Divergence`, `00_MT/The Carriers of Living Water`, 2026-10-09. |
 
 ---
 
 ## Run log
 
 Narrative per run — what the batch surfaced, and anything a later run should know that does not fit the tables. Newest first. Unlike the handoff block, this accumulates.
+
+### 2026-10-09 (night run): two `03` documents, *Job vs. Proverbs* and *The Scandal of the Flesh*
+
+Branch `claude/nightly-audit-2026-10-09`, cut from `origin/dev` while PR #29 (`claude/nightly-audit-2026-10-08`, the *Two Hearts* family) was still open; its three documents were excluded and its handoff folded into this one. No dead runs (the 2026-09-21 branch has no `in-progress` rows). Precheck passed. Chosen by state: `03` had two audited documents; *Job vs. Proverbs* was the handoff's named `03` pick, *The Scandal of the Flesh* a raw `Geciteerd werk` list. Both `corrected`; five files touched by propagation; one `[GDR]` question (Eblaite cognates). The night's lesson: *Job vs. Proverbs* had a Works Cited that already looked finished, and four of its 25 entries were wrong in the details, one of them an article that cannot be found. A tidy list is not a checked list.
 
 ### 2026-10-08 (night run): the `02` canon pair, *The Semiotic Architecture of Revelation* and *The Semiotics of the Spirit*
 

@@ -12,7 +12,7 @@ The intellectual history of the Ancient Near East is characterized by a tension 
 
 ### 1.1 The Scribal Mind and *Listenwissenschaft*
 
-The genesis of wisdom literature is inextricably linked to the invention of writing itself. In the Uruk IV period (c. 3350–3200 BCE), the first proto-cuneiform texts appeared. While the majority were administrative receipts, a significant minority (approximately 15%) were lexical lists. These lists were not mere dictionaries; they were the manifestation of a "listing science" or *Listenwissenschaft*.
+The genesis of wisdom literature is inextricably linked to the invention of writing itself. In the Uruk IV period (c. 3350–3200 BCE), the first proto-cuneiform texts appeared. While the majority were administrative receipts, a significant minority were lexical lists: of the nearly 4,900 texts of the succeeding Uruk III period, 703 (about 14%) are lexical (Everson and Hawkins 2017). These lists were not mere dictionaries; they were the manifestation of a "listing science" or *Listenwissenschaft*.
 
 The *Listenwissenschaft* represented the first intellectual attempt to impose order on chaos by naming and categorizing every element of the cosmos—from professions and officials (as in the *Lu A* list) to animals, plants, and stars. Ideally, this listing activity was believed to reflect the *me*—the divine ordinances or immutable truths that held the universe together. To know the list was to know the essence of the thing and, by extension, to possess wisdom.
 
@@ -20,9 +20,9 @@ This "encyclopedic" drive provides the conceptual DNA for the Book of Proverbs, 
 
 ### 1.2 The Coexistence of Genres in the 3rd Millennium
 
-A critical corrective to the evolutionary model of biblical criticism—which posits a linear development from simple folk sayings to complex theological dramas—is the evidence from the 3rd millennium that these genres coexisted. The archives of Fara (ancient Shuruppak), Abu Salabikh, and Ebla reveal that didactic instructions (the *Mashal* tradition) and speculative, lament-based wisdom (the precursor to the Joban tradition) flourished side-by-side as early as 2600 BCE.
+A critical corrective to the evolutionary model of biblical criticism—which posits a linear development from simple folk sayings to complex theological dramas—is the evidence from the 3rd millennium that these genres coexisted. The archives of Fara (ancient Shuruppak) and Abu Salabikh show didactic instructions (the *Mashal* tradition) already established by about 2600–2500 BCE (Alster 1974), and the Sumerian lament of the sufferer before his god (the precursor to the Joban tradition) is attested by the turn of the 2nd millennium (Kramer 1955).
 
-This coexistence suggests that the tension between "conventional wisdom" (retribution) and "skeptical wisdom" (suffering) is not a chronological development of the late Israelite period but a foundational dialectic of Semitic thought. The "contest" between Job and Proverbs is thus a late canonical expression of a debate that had been raging in the scribal schools of Syria-Mesopotamia for two millennia prior to the composition of the Hebrew Bible.
+This coexistence suggests that the tension between "conventional wisdom" (retribution) and "skeptical wisdom" (suffering) is not a chronological development of the late Israelite period but a foundational dialectic of Semitic thought. The "contest" between Job and Proverbs is thus a late canonical expression of a debate that had been raging in the scribal schools of Syria-Mesopotamia for more than a millennium prior to the composition of the Hebrew Bible.
 
 ---
 
@@ -32,18 +32,18 @@ The Book of Proverbs stands as the *par excellence* representative of the "Masha
 
 ### 2.1 The Instructions of Shuruppak: The Prototype
 
-Dated to approximately 2600 BCE (Early Dynastic IIIa period), *The Instructions of Shuruppak* is among the oldest known pieces of literature. The text is framed as the advice of Shuruppak, a pre-flood ruler, to his son Ziusudra (the Sumerian counterpart to Noah). This framing device is identical to the "My son, hear the instruction of thy father" formula found in Proverbs 1–9.
+Dated to approximately 2600 BCE (Early Dynastic IIIa period), *The Instructions of Shuruppak* is among the oldest known pieces of literature. The text is framed as the advice of Shuruppak, a pre-flood ruler, to his son Ziusudra (the Sumerian counterpart to Noah). This framing device is identical to the "My son, hear the instruction of thy father" formula found in Proverbs 1–9 (Prov 1:8; Alster 1974).
 
 The *Instructions* operate on a theology of retribution and social utility. They offer pragmatic advice on navigating the social hierarchy, avoiding conflict, and managing a household. The "good life" is attainable through adherence to community norms and the avoidance of disruptive behavior.
 
-**Table 1: Comparative Analysis of Shuruppak and Proverbs**
+**Table 1: Comparative Analysis of Shuruppak and Proverbs** (Shuruppak quoted from the ETCSL translation, Black et al. 1998–2006, by line)
 
 | Thematic Element | Instructions of Shuruppak (c. 2600 BCE) | Book of Proverbs |
 |------------------|----------------------------------------|------------------|
 | **Framing** | Father (Shuruppak) to Son (Ziusudra/Noah figure) | Father to "My Son" (Chapters 1–9) |
-| **Suretyship** | "You should not vouch for someone: that man will have a hold on you." | "He who is surety for a stranger will suffer for it." (Prov. 11:15) |
-| **Social Friction** | "Do not pick a quarrel; do not humiliate yourself." | "Do not contend with a man for no reason." (Prov. 3:30) |
-| **Sexual Ethics** | "Do not laugh with a girl who is married; the slander is strong." | Warnings against the "Strange Woman" / Adulteress (Prov. 5-7) |
+| **Suretyship** | "You should not vouch for someone: that man will have a hold on you." (ll. 19–20) | "He who is surety for a stranger will suffer for it." (Prov. 11:15) |
+| **Social Friction** | "You should not pick a quarrel; you should not disgrace yourself." (l. 35) | "Do not contend with a man for no reason." (Prov. 3:30) |
+| **Sexual Ethics** | "You should not play around with a married young woman: the slander could be serious." (l. 33) | Warnings against the "Strange Woman" / Adulteress (Prov. 5-7) |
 | **Theology** | Secular/Pragmatic; Retribution is social and immediate | Yahwistic; Retribution is divinely guaranteed ("Fear of the Lord") |
 
 ### 2.2 The Retribution Nexus: "Act-Consequence"
@@ -56,9 +56,9 @@ This tradition assumes that wisdom is the skill of discerning this hidden order.
 
 ### 2.3 The Amenemope Connection
 
-The connection between Proverbs and the ANE wisdom corpus extends beyond Shuruppak. The Egyptian *Instruction of Amenemope* (c. 1200 BCE) shows such striking verbal parallels to Proverbs 22:17–24:22 that direct literary dependence is widely accepted by scholars. For example, Amenemope's admonition, "Guard yourself from robbing the poor, from being violent to the weak," is mirrored in Proverbs 22:22: "Do not rob the poor because they are poor, or crush the afflicted at the gate."
+The connection between Proverbs and the ANE wisdom corpus extends beyond Shuruppak. The Egyptian *Instruction of Amenemope* (c. 1200 BCE) shows such striking verbal parallels to Proverbs 22:17–24:22 that direct literary dependence is widely accepted by scholars (Fox 2000; Clifford 1999). For example, Amenemope's admonition, "Guard thyself against robbing the oppressed / And against overbearing the disabled" (Wilson, in Pritchard 1969), is mirrored in Proverbs 22:22: "Do not rob the poor because they are poor, or crush the afflicted at the gate."
 
-However, the Shuruppak connection is more fundamental because it establishes the *genre* of the father-to-son instruction in the Semitic sphere a millennium before Amenemope. The shared vocabulary of "abomination" (*to'evah* in Hebrew, *nì-gig* in Sumerian/Eblaite) further cements this link, suggesting a continuous stream of tradition regarding "taboo" behaviors that offend the divine order.
+However, the Shuruppak connection is more fundamental because it establishes the *genre* of the father-to-son instruction in the Semitic sphere a millennium before Amenemope. The shared vocabulary of "abomination" (*to'evah* in Hebrew, *nì-gig* in Sumerian) further cements this link, suggesting a continuous stream of tradition regarding "taboo" behaviors that offend the divine order (Hallo 1985).
 
 ---
 
@@ -68,25 +68,25 @@ While Proverbs represents the crystallization of the didactic *Mashal* tradition
 
 ### 3.1 Swedenborg's Distinction: "The Word" vs. "The Writings"
 
-Swedenborg's theological restructuring of the canon provides a unique heuristic for understanding the Job-Proverbs dichotomy. He distinguishes between books that constitute "The Word" (*Verbum*) and those that are merely "Writings": "The books of the Word are all those which have an internal sense; and those which have not an internal sense are not the Word" (*Arcana Coelestia* §10325).
+Swedenborg's theological restructuring of the canon provides a unique heuristic for understanding the Job-Proverbs dichotomy. He distinguishes between books that constitute "The Word" (*Verbum*) and those that do not: "The books of the Word are all those which have an internal sense; and those which have not an internal sense are not the Word" (*Arcana Coelestia* §10325).
 
-- **The Word:** Books dictated by "Immediate Inspiration" that possess a continuous, internal spiritual sense in every word and syllable. This internal sense describes the regeneration of man and the glorification of the Lord. The Pentateuch, the Prophets (Joshua–Kings, Isaiah–Malachi), the Psalms, the Gospels, and Revelation fall into this category.
+- **The Word:** Books given by immediate inspiration, in which "every single word was dictated" to the writer (*Spiritual Experiences* [*SE*] §6062), and which possess a continuous, internal spiritual sense in every word. This internal sense describes the regeneration of man and the glorification of the Lord. The Pentateuch, the Prophets (Joshua–Kings, Isaiah–Malachi, Lamentations and Daniel included), the Psalms, the Gospels, and Revelation fall into this category (*AC* §10325).
 
-- **The Writings:** Books written by "Mediate Inspiration" (via the author's intellect) that contain dogmatic truth and are useful for the church but lack the continuous internal series. **Proverbs** is explicitly placed in this category.
+- **The Writings:** Books written by mediate inspiration, in which the writer "received an influx, according to those things which were with him, which is quite a different inspiration" (*SE* §6062). Of the apostolic letters Swedenborg wrote that they are "doctrinal writings", "not written in the style of the Word", and nevertheless "good books of the church" (letter to Beyer, 1766, in Tafel 1877, 240–241): they contain doctrinal truth useful to the church but lack the continuous internal series. **Proverbs** stands outside the Word with them: it is absent from the list of *AC* §10325, which names every book that belongs to it.
 
-- **The Book of Job:** Job occupies a unique, liminal space in Swedenborg's system. It is **not** part of the Israelite "Word" proper, but it is a book of the **"Ancient Church"** (the spiritual epoch preceding the Israelite/Jewish Church). It is written entirely in **correspondences** ("pure significatives"), but unlike the "Word," it does not treat solely of the Lord and His kingdom in a continuous series.
+- **The Book of Job:** Job occupies a unique, liminal space in Swedenborg's system. It is **not** part of the Israelite "Word" proper, but it is a book of the **"Ancient Church"** (the spiritual epoch preceding the Israelite/Jewish Church). It is "full of correspondences" (*Doctrine of the Sacred Scripture* §20; *True Christian Religion* [*TCR*] §201), but unlike the "Word," it does not treat solely of the Lord and His kingdom in a continuous series: "it has not an internal sense which treats solely of the Lord and of his kingdom; for this is the one thing that makes a book of the genuine Word" (*AC* §3540).
 
 ### 3.2 The "Ancient Word" and Prophetic Enunciations
 
-Swedenborg asserts that an "Ancient Word" existed in the 3rd millennium (and earlier) in Great Tartary (Central Asia/Mesopotamia) prior to the Israelite Word. He specifically links the "Enunciators" (Hebrew *Moshalim*) mentioned in Numbers 21:27 not to "proverb speakers" but to "Prophetic Enunciators" who possessed this Ancient Word.
+Swedenborg asserts that an "Ancient Word" existed prior to the Israelite Word, "especially in Asia"—among the peoples of Canaan, Syria, Mesopotamia, Arabia, Chaldea, Assyria and Egypt—and that it is still preserved among the nations of Great Tartary (*TCR* §§266, 279). He specifically links the "Enunciators" (Hebrew *Moshalim*) mentioned in Numbers 21:27 not to "proverb speakers" but to "Prophetic Enunciators" who possessed this Ancient Word: the word "means both proverbs and prophetic enunciations", and what Moses quotes from them "is not a proverb but a prophecy" (*TCR* §265; *Doctrine of the Sacred Scripture* §103; *AC* §§2686, 2897).
 
-The term *Mashal* in this archaic context does not mean a "maxim" or "aphorism" (as in Proverbs) but a "prophetic enunciation"—a spiritually potent, correspondential utterance. Swedenborg argues that the Book of Job is a survival of this mode of writing.
+The term *Mashal* in this archaic context does not mean a "maxim" or "aphorism" (as in Proverbs) but a "prophetic enunciation"—a spiritually potent, correspondential utterance. Swedenborg argues that the Book of Job is a survival of this mode of writing: the books of the Ancient Church were all written in significatives, and "such is the book of Job" (*AC* §1756; see also *AC* §9942).
 
 This distinction is profound. If Proverbs operates in the mode of the *Mashal* as "didactic comparison" (Logos), Job operates in the mode of the *Mashal* as "correspondential revelation" (Mythos). Job uses the "objects of the world" (whirlwinds, behemoths, sores) not as metaphors for moral instruction but as *correspondences* for spiritual states of temptation and vastation.
 
 ### 3.3 Job as a Book of the "Ancient Church"
 
-Swedenborg's classification of Job as a book of the "Ancient Church" aligns remarkably well with modern philological evidence anchoring Job in the 3rd millennium (or at least preserving that horizon). The book's setting in the patriarchal age, its lack of Mosaic legal references, and its use of archaic divine names (Shaddai, Eloah) all support the idea that it represents a pre-Mosaic wisdom tradition.
+Swedenborg's classification of Job as a book of the "Ancient Church" (*AC* §3540) aligns remarkably well with modern philological evidence anchoring Job in the 3rd millennium (or at least preserving that horizon). The book's setting in the patriarchal age, its lack of Mosaic legal references, and its use of archaic divine names (Shaddai, Eloah) all support the idea that it represents a pre-Mosaic wisdom tradition.
 
 In this framework, Job is not merely "wisdom literature" alongside Proverbs; it is a survivor of a lost theological epoch—the "Correspondential" tradition—which viewed the relationship between the natural and spiritual worlds as transparent and immediate, rather than mediated through the "laws" of retribution.
 
@@ -98,13 +98,13 @@ The contest between Job and Proverbs is most visible in their handling of the "S
 
 ### 4.1 "Man and His God": The Sumerian Job
 
-The text *Man and His God* (c. 2000 BCE) is often cited as the "Sumerian Job." In this poem, a nobleman suffers illness and social isolation and laments to his personal god. However, the theological resolution is fundamentally different from the biblical Job.
+The text *Man and His God* (c. 2000 BCE) is often cited as the "Sumerian Job" (Kramer 1955). In this poem, a nobleman suffers illness and social isolation and laments to his personal god. However, the theological resolution is fundamentally different from the biblical Job.
 
-In *Man and His God*, the sufferer admits: "Never has a sinless child been born to its mother... a sinless workman has not existed from of old." The protagonist accepts the premise of the *Mashal* tradition: if he is suffering, he *must* be guilty, even if the sin is unknown or unintentional. His plea is for mercy, not justice. He does not claim innocence; he claims ignorance of his specific offense.
+In *Man and His God*, the sufferer admits: "Never has a sinless child been born to its mother... a sinless workman has not existed from of old" (Kramer, in Pritchard 1969). The protagonist accepts the premise of the *Mashal* tradition: if he is suffering, he *must* be guilty, even if the sin is unknown or unintentional. His plea is for mercy, not justice. He does not claim innocence; he claims ignorance of his specific offense.
 
 ### 4.2 *Ludlul Bel Nemeqi*: The Babylonian Job
 
-Similarly, the Akkadian poem *Ludlul Bel Nemeqi* ("I Will Praise the Lord of Wisdom") features a sufferer, Shubshi-meshre-Shakkan, who is baffled by his misfortune despite his apparent piety. Yet, like the Sumerian protagonist, he ultimately acquiesces to the inscrutability of the gods and assumes that he must have inadvertently offended Marduk. The "solution" is the restoration of cultic favor through magic and prayer.
+Similarly, the Akkadian poem *Ludlul Bel Nemeqi* ("I Will Praise the Lord of Wisdom") features a sufferer, Shubshi-meshre-Shakkan, who is baffled by his misfortune despite his apparent piety. Yet, like the Sumerian protagonist, he ultimately acquiesces to the inscrutability of the gods and assumes that he must have inadvertently offended Marduk. The "solution" is the restoration of cultic favor through magic and prayer (Lambert 1960; Mattingly 1990).
 
 ### 4.3 The Biblical Job: The Radical Claim of Innocence
 
@@ -128,7 +128,7 @@ The Book of Job contains numerous *hapax legomena* (words occurring only once) a
 
 - **Possessions (*min'lam*):** In Job 15:29, the word *min'lam* appears. It is a hapax. Context suggests "wealth" or "possessions." Eblaite vocabularies list *ma-ni-lum* as a word for "property" (originally "cow" or "livestock"), confirming the Joban usage and pointing to a pastoral, pre-monarchic economic context.
 
-- **Enclitic *mem* (*wm-*):** Both Job and archaic Hebrew poetry use the enclitic *mem* for emphasis, a syntactic feature attested in Eblaite (*u-ma*, "and/indeed") but rare in standard Biblical Hebrew.
+- **Enclitic *mem* (*wm-*):** Both Job and archaic Hebrew poetry use the enclitic *mem* for emphasis, a syntactic feature attested in Eblaite (*u-ma*, "and/indeed") but rare in standard Biblical Hebrew (Gordon 1987; Rendsburg 1987).
 
 These fossils suggest that the author of Job was not an Aramaizing latecomer but a custodian of a deep Semitic linguistic heritage—possibly the "Ancient Word" tradition Swedenborg described.
 
@@ -138,9 +138,9 @@ While Proverbs is often dated to the monarchy (Solomon/Hezekiah), it too contain
 
 - **The Root *mšl*:** The very word for "proverb," *mashal*, has an Eblaite/Akkadian cognate *mšl* ("to equal," "to compare," "to rule").
 
-- **Linguistic Stability:** The "Instruction" genre (*Shuruppak*, *Ptahhotep*) shows remarkable stability over millennia. The "Type B" structure of Proverbs (Title, Prologue, Main Text) is found in 3rd-millennium texts, debunking the idea that "complex" forms must be late.
+- **Linguistic Stability:** The "Instruction" genre (*Shuruppak*, *Ptahhotep*) shows remarkable stability over millennia. The "Type B" structure of Proverbs (Title, Prologue, Main Text) is found in 3rd-millennium texts, debunking the idea that "complex" forms must be late (Kitchen 1977).
 
-- **Early Hebrew Poetry:** Studies by Young, Rezetko, and Ehrensvärd challenge the "Late Biblical Hebrew" dating method, arguing that many "late" forms appear in early inscriptions and that style, not just chronology, dictates linguistic choice.
+- **Early Hebrew Poetry:** Studies by Young, Rezetko, and Ehrensvärd challenge the "Late Biblical Hebrew" dating method, arguing that many "late" forms appear in early inscriptions and that style, not just chronology, dictates linguistic choice (Young, Rezetko, and Ehrensvärd 2008).
 
 **Table 2: Linguistic Fossils in Job and Proverbs**
 
@@ -192,7 +192,7 @@ The culmination of the contest is the Divine Speeches (Job 38–41). God appears
 
 God's speech takes the form of a list. "Where were you when I laid the foundation of the earth?" (Job 38:4). He enumerates the sea, the dawn, the snow, the rain, the lion, the raven, the wild goat, the wild donkey, the ostrich, the horse, the hawk, and the eagle.
 
-This is *Listenwissenschaft*. God is reciting an *Onomasticon*, a lexical list of the cosmos, similar to the Egyptian *Onomasticon of Amenemope* or the Sumerian lexical lists found at Ebla. However, there is a subversive twist.
+This is *Listenwissenschaft*. God is reciting an *Onomasticon*, a lexical list of the cosmos, similar to the Egyptian *Onomasticon of Amenemope* (von Rad 1955) or the Sumerian lexical lists found at Ebla (Pettinato 1981). However, there is a subversive twist.
 
 - **Scribal Lists:** Designed to categorize, tame, and control reality. Naming implies mastery.
 - **God's List:** Designed to demonstrate the *impossibility* of human mastery. The animals listed are wild, useless to humans, and untamable (the wild donkey, the ostrich).
@@ -221,52 +221,76 @@ In the end, the "fear of the Lord" is the beginning of wisdom, but Job teaches t
 
 ## Works Cited
 
-1. ["The Ancient Word: Philological Evidence for the Uruk-Ebla Origins of Genesis 1-11 and the Book of Job." Internal framework document, 2026.](The%20Ancient%20Word_%20Philological%20Evidence%20for%20the%20Uruk-Ebla%20Origins%20of%20Genesis%201-11%20and%20the%20Book%20of%20Job.md)
+**Primary Sources:**
 
-2. Alster, Bendt. *The Instructions of Shuruppak: A Sumerian Proverb Collection*. Mesopotamia: Copenhagen Studies in Assyriology 2. Copenhagen: Akademisk Forlag, 1974.
+1. Black, J. A., G. Cunningham, E. Robson, and G. Zólyomi, eds. "The Instructions of Shuruppag" (c.5.6.1). *The Electronic Text Corpus of Sumerian Literature*. Oxford: Faculty of Oriental Studies, University of Oxford, 1998–2006. https://etcsl.orinst.ox.ac.uk/section5/tr561.htm. Cited by line.
 
-3. Clifford, Richard J. *Proverbs: A Commentary*. Old Testament Library. Louisville: Westminster John Knox Press, 1999.
+2. Pritchard, James B., ed. *Ancient Near Eastern Texts Relating to the Old Testament*. 3rd ed. with Supplement. Princeton: Princeton University Press, 1969. Includes John A. Wilson's translation of *The Instruction of Amen-em-opet* and Samuel Noah Kramer's of *Man and His God*.
 
-4. Crenshaw, James L. *Old Testament Wisdom: An Introduction*. 3rd ed. Louisville: Westminster John Knox Press, 2010.
+3. Swedenborg, Emanuel. *Arcana Coelestia*. Translated by John Clowes, revised and edited by John Faulkner Potts. Standard Edition. 12 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
 
-5. Dell, Katharine J. "Job." In *The Cambridge Companion to Biblical Wisdom Literature*, edited by Katharine J. Dell, 167–188. Cambridge: Cambridge University Press, 2023.
+4. Swedenborg, Emanuel. *Doctrine of the Sacred Scripture*. In *The Four Doctrines*. Translated by John Faulkner Potts. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
 
-6. Fox, Michael V. *Proverbs 1–9: A New Translation with Introduction and Commentary*. Anchor Bible 18A. New York: Doubleday, 2000.
+5. Swedenborg, Emanuel. *Spiritual Experiences* (*The Spiritual Diary*). Translated by Buss. Academy of the New Church, e-swedenborg.com, 2000–2001. Cited by section number (§).
 
-7. Gordon, Cyrus H. "The Ebla Tablets and the Bible." *Biblical Archaeology Review* 4, no. 3 (1978): 2–16.
+6. Swedenborg, Emanuel. *True Christian Religion*. Translated by John C. Ager. Standard Edition. 2 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
 
-8. Hallo, William W., and K. Lawson Younger Jr., eds. *The Context of Scripture*. 3 vols. Leiden: Brill, 1997–2002.
+7. Tafel, R. L., ed. and trans. *Documents Concerning the Life and Character of Emanuel Swedenborg*. Vol. 2, pt. 1. London: Swedenborg Society, 1877. Document 224, Swedenborg's third letter to Gabriel Beyer (1766), 240–241.
 
-9. Kitchen, Kenneth A. "Proverbs and Wisdom Books of the Ancient Near East: The Factual History of a Literary Form." *Tyndale Bulletin* 28 (1977): 69–114.
+**Scholarly Works:**
 
-10. Kramer, Samuel Noah. "'Man and His God': A Sumerian Variation on the 'Job' Motif." In *Wisdom in Israel and in the Ancient Near East*, edited by M. Noth and D. Winton Thomas, 170–182. Supplements to Vetus Testamentum 3. Leiden: Brill, 1955.
+8. Alster, Bendt. *The Instructions of Šuruppak: A Sumerian Proverb Collection*. Mesopotamia: Copenhagen Studies in Assyriology. Copenhagen: Akademisk Forlag, 1974.
 
-11. Lambert, W. G. *Babylonian Wisdom Literature*. Oxford: Clarendon Press, 1960.
+9. Clifford, Richard J. *Proverbs: A Commentary*. Old Testament Library. Louisville: Westminster John Knox Press, 1999.
 
-12. Longman, Tremper III. *Job*. Baker Commentary on the Old Testament Wisdom and Psalms. Grand Rapids: Baker Academic, 2012.
+10. Crenshaw, James L. *Old Testament Wisdom: An Introduction*. 3rd ed. Louisville: Westminster John Knox Press, 2010.
 
-13. Mattingly, Gerald L. "The Pious Sufferer: Mesopotamia's Traditional Theodicy and Job's Counselors." In *Scripture in Context III: More Essays on the Comparative Method*, edited by William W. Hallo et al., 305–348. Winona Lake, IN: Eisenbrauns, 1990.
+11. Fox, Michael V. *Proverbs 1–9: A New Translation with Introduction and Commentary*. Anchor Bible 18A. New York: Doubleday, 2000.
 
-14. Murphy, Roland E. *Proverbs*. Word Biblical Commentary 22. Nashville: Thomas Nelson, 1998.
+12. Gordon, Cyrus H. "*wm-* 'and' in Eblaite and Hebrew." In *Eblaitica: Essays on the Ebla Archives and Eblaite Language*, vol. 1, edited by Cyrus H. Gordon and Gary A. Rendsburg, 29–30. Winona Lake, IN: Eisenbrauns, 1987.
 
-15. Newsom, Carol A. *The Book of Job: A Contest of Moral Imaginations*. Oxford: Oxford University Press, 2003.
+13. Hallo, William W. "Biblical Abominations and Sumerian Taboos." *The Jewish Quarterly Review* 76, no. 1 (1985). https://doi.org/10.2307/1454539.
 
-16. Pettinato, Giovanni. *The Archives of Ebla: An Empire Inscribed in Clay*. Garden City, NY: Doubleday, 1981.
+14. Hallo, William W., and K. Lawson Younger Jr., eds. *The Context of Scripture*. 3 vols. Leiden: Brill, 1997–2002.
 
-17. Rendsburg, Gary A. "Eblaite and Some Northwest Semitic Lexical Links." In *Eblaite Personal Names and Semitic Name-Giving*, edited by Alfonso Archi, 89–100. Rome: Missione Archeologica Italiana in Siria, 1988.
+15. Kitchen, Kenneth A. "Proverbs and Wisdom Books of the Ancient Near East: The Factual History of a Literary Form." *Tyndale Bulletin* 28 (1977): 69–114.
 
-18. Seow, C. L. *Job 1–21: Interpretation and Commentary*. Illuminations. Grand Rapids: Eerdmans, 2013.
+16. Kramer, Samuel Noah. "'Man and His God': A Sumerian Variation on the 'Job' Motif." In *Wisdom in Israel and in the Ancient Near East*, edited by M. Noth and D. Winton Thomas, 170–182. Supplements to Vetus Testamentum 3. Leiden: Brill, 1955.
 
-19. Snell, Daniel C. *Twice-Told Proverbs and the Composition of the Book of Proverbs*. Winona Lake, IN: Eisenbrauns, 1993.
+17. Kynes, Will. "Job." In *The Cambridge Companion to Biblical Wisdom Literature*, edited by Katharine J. Dell, Suzanna R. Millar, and Arthur Jan Keefer, 162–183. Cambridge: Cambridge University Press, 2022.
 
-20. Swedenborg, Emanuel. *Arcana Coelestia*. 12 vols. London: Swedenborg Society, 1749–1756. §§ 2686, 3419, 9942.
+18. Lambert, W. G. *Babylonian Wisdom Literature*. Oxford: Clarendon Press, 1960.
 
-21. Swedenborg, Emanuel. *Doctrine of the Sacred Scripture*. London: Swedenborg Society, 1763. §§ 13–21.
+19. Longman, Tremper, III. *Job*. Baker Commentary on the Old Testament Wisdom and Psalms. Grand Rapids: Baker Academic, 2012.
 
-22. Swedenborg, Emanuel. *True Christian Religion*. London: Swedenborg Society, 1771. §§ 264–266, 279.
+20. Mattingly, Gerald L. "The Pious Sufferer: Mesopotamia's Traditional Theodicy and Job's Counselors." In *The Bible in the Light of Cuneiform Literature: Scripture in Context III*, edited by William W. Hallo, Bruce William Jones, and Gerald L. Mattingly, 305–348. Ancient Near Eastern Texts and Studies 8. Lewiston, NY: Edwin Mellen Press, 1990.
 
-23. Van Selms, A. *Job: A Practical Commentary*. Text and Interpretation. Grand Rapids: Eerdmans, 1985.
+21. Murphy, Roland E. *Proverbs*. Word Biblical Commentary 22. Nashville: Thomas Nelson, 1998.
 
-24. Weeks, Stuart. *Early Israelite Wisdom*. Oxford Theological Monographs. Oxford: Clarendon Press, 1994.
+22. Newsom, Carol A. *The Book of Job: A Contest of Moral Imaginations*. Oxford: Oxford University Press, 2003.
 
-25. Young, Ian, Robert Rezetko, and Martin Ehrensvärd. *Linguistic Dating of Biblical Texts*. 2 vols. London: Equinox, 2008.
+23. Pettinato, Giovanni. *The Archives of Ebla: An Empire Inscribed in Clay*. Garden City, NY: Doubleday, 1981.
+
+24. Rendsburg, Gary A. "Eblaite *ù-ma* and Hebrew *wm-*." In *Eblaitica: Essays on the Ebla Archives and Eblaite Language*, vol. 1, edited by Cyrus H. Gordon and Gary A. Rendsburg, 33–41. Winona Lake, IN: Eisenbrauns, 1987.
+
+25. Rendsburg, Gary A. "Eblaite and Some Northwest Semitic Lexical Links." In *Eblaitica: Essays on the Ebla Archives and Eblaite Language*, vol. 4, edited by Cyrus H. Gordon and Gary A. Rendsburg. Winona Lake, IN: Eisenbrauns, 2002.
+
+26. Seow, C. L. *Job 1–21: Interpretation and Commentary*. Illuminations. Grand Rapids: Eerdmans, 2013.
+
+27. Snell, Daniel C. *Twice-Told Proverbs and the Composition of the Book of Proverbs*. Winona Lake, IN: Eisenbrauns, 1993.
+
+28. Van Selms, A. *Job: A Practical Commentary*. Text and Interpretation. Grand Rapids: Eerdmans, 1985.
+
+29. von Rad, Gerhard. "Hiob XXXVIII und die altägyptische Weisheit." In *Wisdom in Israel and in the Ancient Near East*, edited by M. Noth and D. Winton Thomas. Supplements to Vetus Testamentum 3. Leiden: Brill, 1955.
+
+30. Weeks, Stuart. *Early Israelite Wisdom*. Oxford Theological Monographs. Oxford: Clarendon Press, 1994.
+
+31. Young, Ian, Robert Rezetko, and Martin Ehrensvärd. *Linguistic Dating of Biblical Texts*. 2 vols. London: Equinox, 2008.
+
+**Internal Library Documents:**
+
+32. [The Ancient Word: Philological Evidence for the Uruk-Ebla Origins of Genesis 1-11 and the Book of Job](The%20Ancient%20Word_%20Philological%20Evidence%20for%20the%20Uruk-Ebla%20Origins%20of%20Genesis%201-11%20and%20the%20Book%20of%20Job.md). The Eblaite cognates for Job's *hapax legomena* (*mw*, *min'lam*) and the 3rd-millennium horizon on which §§ 1 and 5 build.
+
+**Web Sources:**
+
+33. Everson, Michael, and Laura F. Hawkins. "Proposal to Encode Proto-Cuneiform in the SMP of the UCS." Unicode Technical Committee document L2/17-157, 8 May 2017. https://www.unicode.org/L2/L2017/17157-n4797-proto-cuneiform.pdf. Genre counts of the Uruk III corpus drawn from the Cuneiform Digital Library Initiative.

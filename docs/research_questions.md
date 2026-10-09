@@ -2534,6 +2534,22 @@ In *Cosmic Cradle* (2013), do the authors or their informants describe pre-birth
 
 ---
 
+## Logged by the nightly source audit, 2026-10-09
+
+### [GDR] *Job vs. Proverbs* §5.1 — the Eblaite cognates for Job 9:30 *mw*, Job 15:29 *minlām* and the root *mšl*
+
+**Priority**: MEDIUM
+**Related Documents**: `data/03_Biblical_Scholarship/Job vs. Proverbs_ The Theological Contest over Retribution Wisdom in the 3rd Millennium.md` §5.1–5.2 and Table 2; `data/03_Biblical_Scholarship/The Ancient Word_ Philological Evidence for the Uruk-Ebla Origins of Genesis 1-11 and the Book of Job.md` §3.4 and its table
+
+**Context**: Both documents state that Eblaite writes "water" as *mw* (*mû*), matching the Ketiv במו at Job 9:30 (Qere במי — the Ketiv/Qere is confirmed in the Westminster Leningrad Codex); that Eblaite vocabularies list *ma-ni-lum* "property/livestock", matching the hapax מִנְלָם at Job 15:29; and that the root *mšl* is "attested in Eblaite administrative texts". The source behind them is the Dahood-era Ebla comparative work — M. Dahood's afterword "Ebla, Ugarit, and the Bible" in G. Pettinato, *The Archives of Ebla* (Doubleday 1981), and probably W. L. Michel, *Job in the Light of Northwest Semitic* I (Rome: Biblical Institute Press, 1987), whose index has Eblaite entries. Both are archive.org lending items or print-only; web searches for the specific forms with "Ebla" returned nothing. The enclitic *wm-* claim in the same section is sourced (Gordon 1987; Rendsburg 1987, *Eblaitica* 1) and needs nothing. The text was left as written.
+
+**Research Question**:
+Where did Dahood (1981 afterword, or his 1978 VTSup 29 "Ebla, Ugarit and the Old Testament") or Michel (1987) propose (a) Eblaite *mu/mw* "water" for Job 9:30, (b) Eblaite *ma-ni-lum* for Job 15:29 *minlām*, and (c) an Eblaite attestation of *mšl*? Give page references, and say whether later Eblaite lexicography (e.g., Krebernik, Fronzaroli, Archi; the Ebla Vocabulary edited by Pettinato in MEE 4) accepted or rejected each reading.
+
+**Status**: Open
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

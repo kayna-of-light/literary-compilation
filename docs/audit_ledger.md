@@ -25,8 +25,12 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > **Before calling any claim untraceable, read every real publication in the document's own original list**, including
 > those cited through Scribd or pirate links: the bad link is usually a real book, and the book is usually the claim's
 > source (Westbrook 1991 for *wayyāqom*, 2026-10-11). Never put `[TRACE NEEDED]` or any note into a `data/` document.
-> **Unreachable works stay, cited indirectly** through a work that was read (author's decision, 2026-10-11; procedure
-> § 3.3): Speiser 1955 via Harris 1968, Lehmann 1953 via Hoffner 1969, Rabinowitz 1958 via Westbrook 1991. The author has
+> **Do not edit `docs/NIGHTLY_SOURCE_AUDIT.md` unless the author asks** (author, 2026-10-11). Decisions and lessons go
+> in this ledger.
+>
+> **Unreachable works stay, cited indirectly** (author's decision, 2026-10-11), when the intermediary was read at the
+> cited page, the unreachable work's own record is confirmed, and the document claims no more than the intermediary
+> reports; otherwise the claim goes. Current cases: Speiser 1955 via Harris 1968, Lehmann 1953 via Hoffner 1969, Rabinowitz 1958 via Westbrook 1991. The author has
 > no *BASOR* access; do not ask again for those three.
 >
 > **Before anything else: `git fetch --unshallow origin`.** The session's clone is shallow.

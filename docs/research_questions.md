@@ -2534,22 +2534,6 @@ In *Cosmic Cradle* (2013), do the authors or their informants describe pre-birth
 
 ---
 
-## Logged by the nightly source audit, 2026-10-09
-
-### [GDR] *Job vs. Proverbs* §5.1 — the Eblaite cognates for Job 9:30 *mw*, Job 15:29 *minlām* and the root *mšl*
-
-**Priority**: MEDIUM
-**Related Documents**: `data/03_Biblical_Scholarship/Job vs. Proverbs_ The Theological Contest over Retribution Wisdom in the 3rd Millennium.md` §5.1–5.2 and Table 2; `data/03_Biblical_Scholarship/The Ancient Word_ Philological Evidence for the Uruk-Ebla Origins of Genesis 1-11 and the Book of Job.md` §3.4 and its table
-
-**Context**: Both documents state that Eblaite writes "water" as *mw* (*mû*), matching the Ketiv במו at Job 9:30 (Qere במי — the Ketiv/Qere is confirmed in the Westminster Leningrad Codex); that Eblaite vocabularies list *ma-ni-lum* "property/livestock", matching the hapax מִנְלָם at Job 15:29; and that the root *mšl* is "attested in Eblaite administrative texts". **No source for any of the three has been identified.** The documents give none, and web searches for the specific forms with "Ebla" returned nothing. What is established: Pettinato, *The Archives of Ebla* (Garden City, NY: Doubleday, 1981) carries an afterword by Mitchell Dahood, S.J. (KeiBi record KEI00068559: "With an Afterword by Mitchell Dahood, S.J."); its title and contents are unknown — the title "Ebla, Ugarit, and the Bible" comes only from the Gemini-written *Ancient Word* bibliography and is unverified. W. L. Michel, *Job in the Light of Northwest Semitic*, vol. 1, *Job 1:1–14:22* (Biblica et Orientalia; Rome, 1987) has an Eblaite word index (pp. 433–434, KeiBi KEI00044550) and could bear on Job 9:30 only; it does not reach Job 15:29. Both books are print-only or archive.org lending items. The enclitic *wm-* claim in the same section is sourced (Gordon 1987; Rendsburg 1987, *Eblaitica* 1) and needs nothing. The text was left as written.
-
-**Research Question**:
-Who first proposed (a) Eblaite *mu/mw* "water" for the Ketiv of Job 9:30, (b) Eblaite *ma-ni-lum* for Job 15:29 *minlām*, and (c) an Eblaite attestation of the root *mšl*? Give the publication and page for each. Check first Dahood's afterword in Pettinato 1981 (title unverified) and, for (a) only, Michel 1987 (Eblaite index pp. 433–434). Then say whether later Eblaite lexicography (e.g., Krebernik, Fronzaroli, Archi; the Ebla Vocabulary in MEE 4) accepted or rejected each reading.
-
-**Status**: Open
-
----
-
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

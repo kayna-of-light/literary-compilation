@@ -8,6 +8,24 @@ This document archives research questions that have been successfully investigat
 
 ## Resolution Archive
 
+### [GDR] *Job vs. Proverbs* §5.1 — the Eblaite cognates for Job 9:30 *mw*, Job 15:29 *minlām* and the root *mšl*
+
+**Target**: `[GDR]`
+**Priority**: MEDIUM
+**Logged**: 2026-10-09 (nightly source audit)
+**Status**: ✅ RESOLVED (2026-10-11)
+**Related Documents**: `data/03_Biblical_Scholarship/Job vs. Proverbs_ The Theological Contest over Retribution Wisdom in the 3rd Millennium.md` §5.1–5.2 and Table 2; `The Ancient Word_ Philological Evidence…`, `The Ancient Word_ A Literary-Historical Inference…`, `The Paradigm That Cannot See`, `The Stratigraphy of the Hebrew Bible` (all `03`)
+
+**Question**: Who first proposed (a) Eblaite *mu/mw* "water" for the Ketiv of Job 9:30, (b) Eblaite *ma-ni-lum* for Job 15:29 *minlām*, and (c) an Eblaite attestation of the root *mšl*?
+
+**Resolution** (read in full text: Pettinato 1981, the author's Drive copy):
+- (a) and (b): Mitchell Dahood, "Ebla, Ugarit, and the Bible," afterword in Giovanni Pettinato, *The Archives of Ebla: An Empire Inscribed in Clay* (Garden City, NY: Doubleday, 1981), 271–321, at 303–4. Job 9:30: "the Eblaite word for 'water' is *ma-wu* whose consonants are identical with biblical *mw*"; n. 57 adds that *ma-wu* is the Semitic equivalent of Sumerian "water" in a trilingual cuneiform fragment from Tel Aphek (A. F. Rainey, *Tel Aviv* 3 [1976]: 137–140) and that *mw* recurs with *šeleg* in Job 6:15–16. Job 15:29: "Sumerian *ab*, 'cow,' is rendered by *ma-ni-lum*, which apparently means 'property' or 'wealth,' and corresponds to biblical *mnlm*," derived from a root *nyl*, "to acquire." The vocabulary entries themselves (*a* = *ma-wu* "water"; *ab* = *ma-ni-lum* "cow, possession") are in Pettinato's list of Ebla bilingual-vocabulary examples, p. 242.
+- (c): no Eblaite attestation of *mšl* in Pettinato or Dahood (full-text search of the whole book), and none found on the web. The Akkadian cognate is *mašālu*, "to be similar, to be equal" (*CAD* M/1, 355), attested from Old Assyrian and Old Babylonian on; "to rule" is not among its senses. *Job vs. Proverbs* §5.2 and Table 2 were restated to the Akkadian cognate.
+- Corrections that followed: "Eblaite *mû*" → *ma-wu* in five `03` documents; "*mw* disappeared from the linguistic record by c. 2000 BCE" (*The Paradigm That Cannot See*) and "extinct by the second millennium" (*The Stratigraphy of the Hebrew Bible*) removed — the Tel Aphek trilingual and Job 6:15–16 contradict them. Dahood himself dates Job to "perhaps the eighth or seventh century B.C." and explains the forms by "the tenacity of linguistic terms" (p. 304); the documents' own dating argument is theirs, not Dahood's.
+- Leads named in the first version of this question that were wrong: a "Dahood 1978, 'Ebla, Ugarit and the Old Testament'" (the catalogue record under that title is C. H. Gordon, *Orient* 25 [1989]: 134–168); W. L. Michel, *Job in the Light of Northwest Semitic* I (1987) covers Job 1:1–14:22 only and was not needed.
+
+---
+
 ### [GDR] Job vs. Proverbs: The Theological Contest over Retribution Wisdom in the 3rd Millennium
 
 **Target**: `[GDR]`  
@@ -1834,17 +1852,17 @@ Which measure should the sentence report — Christians vs. non-Christians on *J
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 41 |
+| **Total Resolved** | 42 |
 | **NDE Domain** | 14 |
 | **BIBL Domain** | 6 |
 | **SWED Domain** | 3 |
 | **CROSS Domain** | 1 |
 | **EARLY Domain** | 2 |
 | **GNOS Domain** | 1 |
-| **GDR Domain** | 12 |
+| **GDR Domain** | 13 |
 | **Critical Priority** | 3 |
 | **High Priority** | 16 |
-| **Medium Priority** | 16 |
+| **Medium Priority** | 17 |
 | **Low Priority** | 6 |
 
-**Last Updated**: 2026-10-06
+**Last Updated**: 2026-10-11

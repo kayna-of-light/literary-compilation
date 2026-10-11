@@ -161,8 +161,8 @@ Manfred Lehmann proposed a parallel with **Hittite Law** from the second millenn
 
 Genesis 23:17 and 23:20 conclude with the statement that the field **"stood"** (*wayyāqom*) to Abraham.
 
-* **Legal Idiom:** *Qûm* with *lə-* ("to stand to someone") is the language of conveyance: the field and the cave "were made over to Abraham." The same idiom recurs in the redemption laws, where an unredeemed house in a walled city "shall stand in perpetuity to the one who bought it" (Lev 25:30), and a redeemed field "shall stand to him" (Lev 27:19).  
-* **Stratigraphy:** The proposal that this idiom calques a cuneiform conveyance formula current in the MBA/LBA has not been traced to a source [TRACE NEEDED].
+* **Legal Idiom:** Raymond Westbrook identifies *qûm* here as a technical legal term with the meaning "to pass" (of property), attested in this sense in only two other places in the Bible, both redemption laws: an unredeemed house in a walled city "shall stand in perpetuity to the one who bought it" (Lev 25:30), and a redeemed field "shall stand to him" (Lev 27:19) (Westbrook 1991, 53).  
+* **Stratigraphy:** Westbrook judges this legal terminology to be old. In Lev 25:30 the verb heads the clause *wəqām habbayit … laṣṣəmîtut laqqōneh ʾōtô lədōrōtāyw*, whose "in perpetuity to the buyer … throughout his generations" J. J. Rabinowitz matched with the formula *ṣamit adi dārîti* in the Akkadian land conveyances from Ugarit (Westbrook 1991, 53, citing Rabinowitz 1958). The purchase account in Genesis 23 follows the cuneiform formulas of sale elsewhere as well: "to give for silver" is the Akkadian expression for "to sell" (*ana kaspim nadānum*), and Abraham's "for the full price" (*bəkesep mālēʾ*, v. 9) recalls *ana šīmim gamrim* in Akkadian contracts of sale (Westbrook 1991, 25). The technical *qûm*, confined to this narrative and to two redemption laws, belongs to the same stratum of conveyancing language.
 
 ## **5\. Philological Fossils: Economic Vocabulary and Eblaite Cognates**
 
@@ -233,10 +233,12 @@ While these findings do not constitute "proof" of the Patriarchs' individual exi
 - Milgrom, Jacob. "Priestly Terminology and the Political and Social Structure of Pre-Monarchic Israel." In *Studies in Cultic Theology and Terminology*, 1–17. Leiden: Brill, 1983. First published in *Jewish Quarterly Review* 69 (1978).
 - Petschow, Herbert. "Die neubabylonische Zwiegesprächsurkunde und Genesis 23." *Journal of Cuneiform Studies* 19 (1965): 103–20.
 - Pettinato, Giovanni. *The Archives of Ebla: An Empire Inscribed in Clay*. With an afterword by Mitchell Dahood, S.J. Garden City, NY: Doubleday, 1981.
+- Rabinowitz, J. J. "A Biblical Parallel to a Legal Formula from Ugarit." *Vetus Testamentum* 8 (1958): 95. Cited after Westbrook 1991.
 - Rendsburg, Gary. "Late Biblical Hebrew and the Date of 'P'." *Journal of the Ancient Near Eastern Society* 12 (1980): 65–80.
 - Selman, M. J. "The Social Environment of the Patriarchs." *Tyndale Bulletin* 27 (1976): 114–36.
 - Speiser, E. A. "*ʾED* in the Story of Creation." *Bulletin of the American Schools of Oriental Research* 140 (1955): 9–11.
 - Tucker, Gene M. "The Legal Background of Genesis 23." *Journal of Biblical Literature* 85 (1966): 77–84.
+- Westbrook, Raymond. *Property and the Family in Biblical Law*. JSOT Supplement Series 113. Sheffield: JSOT Press, 1991.
 - Wiseman, P. J. *New Discoveries in Babylonia about Genesis*. London: Marshall, Morgan & Scott, 1936.
 
 ### Internal Library Documents

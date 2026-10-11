@@ -2534,6 +2534,24 @@ In *Cosmic Cradle* (2013), do the authors or their informants describe pre-birth
 
 ---
 
+## Logged by the nightly source audit, 2026-10-11
+
+---
+
+### [GDR] *Stratigraphy of the Archaic* §4.3 — is *wayyāqom* … *lə-* (Gen 23:17, 20) a calque of a cuneiform conveyance formula?
+
+**Priority**: LOW
+**Related Documents**: `data/03_Biblical_Scholarship/Stratigraphy of the Archaic_ A Philological and Archaeological Re-evaluation of Legal and Economic Realia in the Hebrew Bible.md` §4.3
+
+**Context**: The document said that "the field stood (*wayyāqom*) to Abraham" calques Akkadian *kānu* ("to stand/be firm"), that in Nuzi and Mari contracts property "stands" (*iz-za-az*) to the new owner, and that this use of *qûm* is "unique to this passage". Checked: the sources it cited were Bible Hub question pages. *CAD* K, *kânu* A, gives no conveyance sense of this kind, and *izzaz* belongs to *izuzzu* "to stand", not to *kânu*. The idiom is not unique: *qûm lə-* is used of property passing to its holder in Lev 25:30 and 27:19 (WLC). The calque claim is therefore marked `[TRACE NEEDED]`.
+
+**Research Question**:
+Is there a published comparison of Hebrew *qûm lə-* in Gen 23:17, 20 (and Lev 25:30; 27:19) with a cuneiform conveyance formula, for example Akkadian *izuzzu* or *kânu* in Old Babylonian, Mari, Nuzi or Ugarit sale documents? Who proposed it (author, work, page), and which formula and texts does it cite?
+
+**Status**: Open
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

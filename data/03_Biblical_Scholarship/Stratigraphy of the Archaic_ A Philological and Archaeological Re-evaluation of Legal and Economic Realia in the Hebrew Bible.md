@@ -193,9 +193,9 @@ The "Stratigraphy" document and associated research challenge the Wellhausenian 
 
 ### **6.1 Linguistic Dating**
 
-Research by Avi Hurvitz, Gary Rendsburg and Jacob Milgrom has argued that the language of P is distinct from the "Late Biblical Hebrew" (LBH) of the post-exilic books (Ezra, Nehemiah, Chronicles).
+Research by Avi Hurvitz and Gary Rendsburg has argued that the language of P is distinct from the "Late Biblical Hebrew" (LBH) of the post-exilic books (Ezra, Nehemiah, Chronicles).
 
-* **Terminology:** Hurvitz "compared nine different terms common in early Hebrew with their late Hebrew equivalents and in each instance showed that P uses the former" (Rendsburg 1980, 77). P's term for the assembly is *'edah*, which occurs 95 times in Leviticus and Numbers but only once in Ezra, Nehemiah, Chronicles, Esther and Daniel together (2 Chr 5:6), where the term is *qahal* (43 occurrences); occurrence counts are from the Westminster Leningrad Codex. Milgrom drew on P's institutional terms of this kind for a pre-monarchic setting (Milgrom 1983).  
+* **Terminology:** Hurvitz "compared nine different terms common in early Hebrew with their late Hebrew equivalents and in each instance showed that P uses the former" (Rendsburg 1980, 77). P's term for the assembly is *'edah*, which occurs 95 times in Leviticus and Numbers but only once in Ezra, Nehemiah, Chronicles, Esther and Daniel together (2 Chr 5:6), where the term is *qahal* (43 occurrences); occurrence counts are from the Westminster Leningrad Codex.  
 * **Loanwords:** The Persian borrowings characteristic of LBH (*ʾiggeret*, *ganzak*, *zan*, *parbar*, *tiršātāʾ* and others) occur nowhere in the Pentateuch, P included: "Were P composed in the Persian period—as is widely assumed—we would expect to find at least a few of the Persian borrowings so prevalent in Ezra–Nehemiah, Chronicles, and Daniel" (Rendsburg 1980, 80).
 
 ### **6.2 Economic Stratigraphy of P**
@@ -221,7 +221,7 @@ While these findings do not constitute "proof" of the Patriarchs' individual exi
 - Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament*. Oxford: Clarendon Press, 1906.
 - Dahood, Mitchell. 1981a. "Ebla, Ugarit, and the Bible." Afterword in Giovanni Pettinato, *The Archives of Ebla: An Empire Inscribed in Clay*, 271–321. Garden City, NY: Doubleday, 1981.
 - Dahood, Mitchell. 1981b. "Eblaite *i-du* and Hebrew *ʾēd*, 'Rain-Cloud'." *Catholic Biblical Quarterly* 43 (1981): 534–38.
-- Eichler, Barry L. *Indenture at Nuzi*. New Haven: Yale University Press, 1973. Cited after Kitchen 1995.
+- Eichler, Barry L. *Indenture at Nuzi: The Personal Tidennūtu Contract and Its Mesopotamian Analogues*. New Haven: Yale University Press, 1973. Cited after Kitchen 1995.
 - Gordon, Cyrus H. "Biblical Customs and the Nuzu Tablets." *Biblical Archaeologist* 3, no. 1 (1940): 1–12.
 - Greenberg, Moshe. "Another Look at Rachel's Theft of the Teraphim." *Journal of Biblical Literature* 81 (1962): 239–48.
 - Harris, R. Laird. "The Mist, the Canopy, and the Rivers of Eden." *Bulletin of the Evangelical Theological Society* 11 (1968): 177–79.
@@ -230,7 +230,6 @@ While these findings do not constitute "proof" of the Patriarchs' individual exi
 - Kitchen, Kenneth A. "The Patriarchal Age: Myth or History?" *Biblical Archaeology Review* 21, no. 2 (March/April 1995): 48–57, 88–94.
 - Lehmann, Manfred R. "Abraham's Purchase of Machpelah and Hittite Law." *Bulletin of the American Schools of Oriental Research* 129 (1953): 15–18.
 - Mendelsohn, Isaac. *Slavery in the Ancient Near East*. New York: Oxford University Press, 1949. Cited after Kitchen 1995.
-- Milgrom, Jacob. "Priestly Terminology and the Political and Social Structure of Pre-Monarchic Israel." In *Studies in Cultic Theology and Terminology*, 1–17. Leiden: Brill, 1983. First published in *Jewish Quarterly Review* 69 (1978).
 - Petschow, Herbert. "Die neubabylonische Zwiegesprächsurkunde und Genesis 23." *Journal of Cuneiform Studies* 19 (1965): 103–20.
 - Pettinato, Giovanni. *The Archives of Ebla: An Empire Inscribed in Clay*. With an afterword by Mitchell Dahood, S.J. Garden City, NY: Doubleday, 1981.
 - Rabinowitz, J. J. "A Biblical Parallel to a Legal Formula from Ugarit." *Vetus Testamentum* 8 (1958): 95. Cited after Westbrook 1991.

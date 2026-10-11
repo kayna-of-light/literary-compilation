@@ -21,12 +21,12 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > catalogue record (Crossref, KeiBi, Open Library, a publisher or library page). Search-engine summaries are not
 > records. Before calling a book "out of reach", search the author's Drive `Books` folders and download the PDF with
 > `curl -sSL "https://drive.usercontent.google.com/download?id=<id>&export=download&confirm=t"` (the connector caps at
-> 10 MB and truncates text). If it still cannot be read, ask the author. See procedure §§ 3.3, 4.1, 5.
+> 10 MB and truncates text). If it still cannot be read, ask the author.
 > **Before calling any claim untraceable, read every real publication in the document's own original list**, including
 > those cited through Scribd or pirate links: the bad link is usually a real book, and the book is usually the claim's
 > source (Westbrook 1991 for *wayyāqom*, 2026-10-11). Never put `[TRACE NEEDED]` or any note into a `data/` document.
-> **Do not edit `docs/NIGHTLY_SOURCE_AUDIT.md` unless the author asks** (author, 2026-10-11). Decisions and lessons go
-> in this ledger.
+> **Never edit `docs/NIGHTLY_SOURCE_AUDIT.md`** (author, 2026-10-11). Decisions, rules and lessons go in this ledger
+> only. The procedure edits made on 2026-10-11 without being asked were all reverted.
 >
 > **Unreachable works stay, cited indirectly** (author's decision, 2026-10-11), when the intermediary was read at the
 > cited page, the unreachable work's own record is confirmed, and the document claims no more than the intermediary
@@ -320,7 +320,7 @@ The author lifted the hold on the two `03` documents left from the closed PR #3 
 
 ### 2026-10-11 (follow-up): unchecked sources in the 2026-10-09 handoff, and the books that were in the author's Drive
 
-The author challenged the 2026-10-09 research question: its "Dahood" titles could not be found, and it listed a Job commentary that stops at chapter 14 for a question about Job 15. They were right. The question had been written from a Gemini bibliography and from search-engine summaries of catalogue pages, not from records: "Dahood 1978, 'Ebla, Ugarit and the Old Testament'" is a catalogue record for C. H. Gordon (*Orient* 25, 1989); the afterword title was copied unverified; Michel 1987 was listed with "probably". The run had also not looked in the author's Drive `Books` folders, where Pettinato 1981 and Veldhuis 2014 were waiting. With them the question resolved in an hour: Dahood's afterword (pp. 271–321) carries both Eblaite cognates at 303–4, and the third (*mšl* "in Eblaite administrative texts") has no source and was restated to the Akkadian cognate from *CAD* M/1. Every Works Cited entry in both 2026-10-09 documents was then checked against a record. The procedure now says, in § 3.3 and § 4.1, that an unchecked source is the highest alarm and that the Drive `Books` folders come before "out of reach".
+The author challenged the 2026-10-09 research question: its "Dahood" titles could not be found, and it listed a Job commentary that stops at chapter 14 for a question about Job 15. They were right. The question had been written from a Gemini bibliography and from search-engine summaries of catalogue pages, not from records: "Dahood 1978, 'Ebla, Ugarit and the Old Testament'" is a catalogue record for C. H. Gordon (*Orient* 25, 1989); the afterword title was copied unverified; Michel 1987 was listed with "probably". The run had also not looked in the author's Drive `Books` folders, where Pettinato 1981 and Veldhuis 2014 were waiting. With them the question resolved in an hour: Dahood's afterword (pp. 271–321) carries both Eblaite cognates at 303–4, and the third (*mšl* "in Eblaite administrative texts") has no source and was restated to the Akkadian cognate from *CAD* M/1. Every Works Cited entry in both 2026-10-09 documents was then checked against a record. The rule is kept in this ledger's handoff block (the procedure document itself is not edited).
 
 ### 2026-10-10 (night run): the `04` Quranic-Isa / Pauline pair, *The Correction of the Archons* and *The Apostle of the Archons*
 

@@ -114,7 +114,7 @@ The deepest linguistic stratum corresponds to the intellectual world of Early Br
 | *tehom* (תְּהוֹם) | Gen 1:2 | Eblaite *ti-a-ma-tum* | Common noun "ocean/abyss" at Ebla (2400 BCE), predating Babylonian mythological usage |
 | *mabbul* (מַבּוּל) | Gen 6–9, Ps 29:10 | Eblaite *ma-ba-lum*, Akkadian *bubbulu* | Technical term for catastrophic celestial flooding; extinct in post-exilic Hebrew |
 | *min'lam* | Job 15:29 | Eblaite *ma-ni-lum* | Economic term for "accumulated capital/herds"; unknown to Iron Age scribes |
-| *mw* | Job 9:30 | Eblaite *mû*, Ugaritic *mw* | Archaic form of "water"; replaced by *mayim* in Standard Biblical Hebrew |
+| *mw* | Job 9:30 | Eblaite *ma-wu*,[^dahood-ebla] Ugaritic *mw* | Archaic form of "water"; replaced by *mayim* in Standard Biblical Hebrew |
 
 **Finding**: These terms do not represent "Aramaisms" or late innovations. They are retentions from the Early Bronze Age Mesopotamian lexicon—vocabulary that was already archaic by the time of David and Solomon, and completely extinct by the Persian period.
 
@@ -336,6 +336,8 @@ The question is no longer "Did an Ancient Word exist?" but "How much of it can w
 [^tsumura]: Tsumura, David Toshio. *The Earth and the Waters in Genesis 1 and 2: A Linguistic Investigation*. Sheffield Academic Press, 1989.
 
 [^dahood]: Dahood, Mitchell. "Eblaite and Biblical Hebrew." *Catholic Biblical Quarterly* 44 (1982): 1–24.
+
+[^dahood-ebla]: Dahood, Mitchell. "Ebla, Ugarit, and the Bible." Afterword in Giovanni Pettinato, *The Archives of Ebla: An Empire Inscribed in Clay*, 271–321. Garden City, NY: Doubleday, 1981. Job 9:30 and 15:29 at 303–4 and n. 57; the Ebla vocabulary entries *a* = *ma-wu* and *ab* = *ma-ni-lum* in Pettinato, 242.
 
 [^kitchen]: Kitchen, Kenneth A. *On the Reliability of the Old Testament*. Eerdmans, 2003.
 

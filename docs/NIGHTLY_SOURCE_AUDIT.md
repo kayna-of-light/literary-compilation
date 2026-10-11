@@ -114,6 +114,8 @@ For each entry answer three questions and record the answers in the ledger: **wh
 
 **An unchecked source is the highest alarm the job has.** Never present a title, author, imprint, page or attribution you have not seen in a record or in the work itself — not in a document, not in the ledger, not in a research question, not in a notification. A search-engine or AI summary of a catalogue page is not the record: open the record. If a detail cannot be checked, say in plain words that it is unverified, and keep working on it until it is checked or shown false.
 
+**Indirect citation of an unreachable work (author's decision, 2026-10-11).** When a cited work cannot be read — not open access, not in the author's Drive `Books` folders, not available to the author (e.g. *BASOR* articles) — it may stay, cited through a trustworthy work that *was* read and that quotes or summarizes it: "(Speiser 1955, as summarized in Harris 1968, 177–78)", "(Lehmann 1953, 18, as quoted in Hoffner 1969, 33 n. 13)", "Cited after Westbrook 1991" in the entry. Conditions: the intermediary was read at the cited page; the unreachable work's own record (journal, volume, pages) is confirmed; the document claims no more than the intermediary reports. If no read work reports it, the claim goes — it is not paraphrased from a summary.
+
 | Entry is… | Do this |
 |---|---|
 | A published work (book, article, thesis, catalogue) | Verify author, title, imprint, year, pages (Crossref, publisher, catalogue, colophon). Cite it in full. Never guess an element — omit what you cannot verify. |

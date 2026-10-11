@@ -26,6 +26,20 @@ This document archives research questions that have been successfully investigat
 
 ---
 
+### [GDR] *Stratigraphy of the Archaic* §4.3 — is *qûm lə-* in Gen 23:17, 20 old conveyancing language?
+
+**Status**: ✅ RESOLVED (2026-10-11, same day as opened)
+
+**Question**: Who connects the "standing" of the field to Abraham (*wayyāqom*, Gen 23:17, 20) with cuneiform conveyance language, and on what evidence? The document's own version ("calque of Akkadian *kānu*; property 'stands' (*iz-za-az*) at Nuzi and Mari; unique to this passage") cited only Bible Hub pages, and *CAD* K does not support it.
+
+**Findings**:
+- Raymond Westbrook, *Property and the Family in Biblical Law* (JSOT Supplement Series 113; Sheffield: JSOT Press, 1991), 53: *qwm* "has here the technical, legal meaning of 'to pass' (of property). It is attested in this technical sense in only two other places in the Bible: in the narrative of the purchase of the cave of Machpelah, and … in Lev. 27.19." He calls the terminology of Lev 25:29–30 old: J. J. Rabinowitz, "A Biblical Parallel to a Legal Formula from Ugarit," *VT* 8 (1958): 95, matched *lṣmytt … ldrtyw* with *ṣamit adi dārîti* in the Akkadian conveyances from Ugarit.
+- Westbrook 1991, 25: in Genesis 23 itself, "to give for money" is the Akkadian *ana kaspim nadānum*, "to sell", and Abraham's *bksp mlʾ* (v. 9) recalls *ana šīmim gamrim* in Akkadian sale contracts.
+- The book was in the document's own original source list (entries 33, 63, 119, as a pirated PDF and a Scribd copy); the PDF at `ndl.ethernet.edu.et/bitstream/123456789/53736/1/14.pdf` is the full JSOT Press book. Page = PDF page − 1.
+- §4.3 rewritten from Westbrook. The *kānu* / *iz-za-az* and "unique to this passage" statements are gone; *qûm lə-* is placed in its three attestations and the Ugaritic conveyance parallel.
+
+---
+
 ### [GDR] Job vs. Proverbs: The Theological Contest over Retribution Wisdom in the 3rd Millennium
 
 **Target**: `[GDR]`  
@@ -1852,17 +1866,17 @@ Which measure should the sentence report — Christians vs. non-Christians on *J
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 42 |
+| **Total Resolved** | 43 |
 | **NDE Domain** | 14 |
 | **BIBL Domain** | 6 |
 | **SWED Domain** | 3 |
 | **CROSS Domain** | 1 |
 | **EARLY Domain** | 2 |
 | **GNOS Domain** | 1 |
-| **GDR Domain** | 13 |
+| **GDR Domain** | 14 |
 | **Critical Priority** | 3 |
 | **High Priority** | 16 |
 | **Medium Priority** | 17 |
-| **Low Priority** | 6 |
+| **Low Priority** | 7 |
 
 **Last Updated**: 2026-10-11

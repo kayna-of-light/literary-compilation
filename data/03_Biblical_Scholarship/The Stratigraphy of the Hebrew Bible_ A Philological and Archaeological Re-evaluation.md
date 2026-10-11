@@ -292,10 +292,10 @@ Job is notorious for its difficult vocabulary (*hapax legomena*). Eblaite studie
 * **The *qesitah* (Job 42:11):** Job is rewarded with a *qesitah* (a unit of currency). This unit appears elsewhere only in the Jacob narratives (Gen 33:19). It is unknown in the first millennium, where the *shekel* was the standard. The term's archaic status is widely accepted.[^qesitah]
 
 **Plausible but Debated:**
-* **The term *mw* (Job 9:30):** The MT reads *bemo-sheleg* ("with snow water"). Eblaite texts attest *mû* as the nominative form for "water," which was replaced by *mayim* in standard Hebrew.[^gordis-job] If this reading is correct, Job preserves a form extinct by the second millennium. However, some scholars parse *bemo* differently (as a poetic particle), so this cognate is debated.
+* **The term *mw* (Job 9:30):** The MT reads *bemo-sheleg* ("with snow water"). The Eblaite word for "water" is *ma-wu*, whose consonants are identical with biblical *mw*, and the same *ma-wu* glosses "water" in a trilingual cuneiform fragment from Tel Aphek;[^dahood-ebla] standard Hebrew replaced the form with *mayim*.[^gordis-job] If this reading is correct, Job preserves an archaic form. However, some scholars parse *bemo* differently (as a poetic particle), so this cognate is debated.
 
 **Proposed (Requires Further Verification):**
-* **The term *min'lam* (Job 15:29):** This hapax is difficult in standard Hebrew. The proposed correspondence to Eblaite *ma-ni-lum* (an economic term for "wealth") fits the context but is not universally accepted.
+* **The term *min'lam* (Job 15:29):** This hapax is difficult in standard Hebrew. The proposed correspondence to Eblaite *ma-ni-lum* ("cow, possession," glossing Sumerian *ab*, "cow," in an Ebla bilingual vocabulary)[^dahood-ebla] fits the context but is not universally accepted.
 
 > **Caveat:** Early Eblaite studies (Pettinato, 1970s-80s) overstated connections to the Bible; some claims were later retracted. Current scholarship is more cautious. The cognates listed here range from established to proposed, and the dating argument should be weighted accordingly.
 
@@ -563,6 +563,8 @@ Finally, a methodological note: the evidence presented in this document consists
 [^wellhausen]: Wellhausen, Julius. *Prolegomena to the History of Israel*. Trans. J. Sutherland Black and Allan Menzies. Edinburgh: Adam & Charles Black, 1885. [German original: *Prolegomena zur Geschichte Israels*, 1878.]
 
 [^ebla-pettinato]: Pettinato, Giovanni. *The Archives of Ebla: An Empire Inscribed in Clay*. Garden City, NY: Doubleday, 1981. See also: Pettinato, "The Royal Archives of Tell Mardikh-Ebla," *Biblical Archaeologist* 39 (1976): 44-52.
+
+[^dahood-ebla]: Dahood, Mitchell. "Ebla, Ugarit, and the Bible." Afterword in Giovanni Pettinato, *The Archives of Ebla: An Empire Inscribed in Clay*, 271–321. Garden City, NY: Doubleday, 1981. Job 9:30 and 15:29 at 303–4 and n. 57; the Ebla vocabulary entries *a* = *ma-wu* and *ab* = *ma-ni-lum* in Pettinato, 242.
 
 [^yre-2008]: Young, Ian, Robert Rezetko, and Martin Ehrensvärd. *Linguistic Dating of Biblical Texts*. 2 vols. London: Equinox, 2008. The definitive critique of the EBH/LBH distinction.
 

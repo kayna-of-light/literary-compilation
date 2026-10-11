@@ -132,7 +132,7 @@ The narrative of Sarah, Abraham, and Hagar (Genesis 16, 21\) is strictly governe
 
 In Genesis 31, Rachel steals her father Laban's household gods (*teraphim*). Nuzi inheritance texts clarify that possession of the household idols was not merely a religious act but a legal claim. The person holding the *teraphim* held the right to the **primary inheritance** of the estate.1
 
-* **Implication:** Rachel was securing the inheritance for her husband Jacob (or her son Joseph) against her brothers. Laban's frantic pursuit ("Why have you stolen my gods?") was a legal attempt to recover his title deeds, not just his religious icons.
+* **Implication:** On this reading, Rachel was securing the inheritance for her husband Jacob against her brothers, and Laban's frantic pursuit ("Why have you stolen my gods?") was a legal attempt to recover his title deeds, not just his religious icons. The reading needs its qualification: in the nine Nuzi texts where the gods pass with an inheritance, heirs who did not receive them still shared in the estate, and a claim depended on proper bequeathal rather than on possession of the images (M. J. Selman, "The Social Environment of the Patriarchs," *Tyndale Bulletin* 27 [1976]: 124; Moshe Greenberg, "Another Look at Rachel's Theft of the Teraphim," *JBL* 81 [1962]: 239–48).
 
 ### **3.3 The Covenant Code: Casuistic vs. Apodictic Law**
 

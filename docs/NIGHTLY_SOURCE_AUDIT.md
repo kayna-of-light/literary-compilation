@@ -112,8 +112,6 @@ The raw source list (often a numbered list of bare URLs, sometimes all on one li
 
 For each entry answer three questions and record the answers in the ledger: **who wrote it, with what standing, and what is it resting on?** Then cite what it rests on.
 
-**An unchecked source is the highest alarm the job has.** Never present a title, author, imprint, page or attribution you have not seen in a record or in the work itself — not in a document, not in the ledger, not in a research question, not in a notification. A search-engine or AI summary of a catalogue page is not the record: open the record. If a detail cannot be checked, say in plain words that it is unverified, and keep working on it until it is checked or shown false.
-
 | Entry is… | Do this |
 |---|---|
 | A published work (book, article, thesis, catalogue) | Verify author, title, imprint, year, pages (Crossref, publisher, catalogue, colophon). Cite it in full. Never guess an element — omit what you cannot verify. |
@@ -178,7 +176,7 @@ The editorial annotation system (`EDITORIAL_ANNOTATION_MANUAL.md`, `EVOLVING_CON
 - **Scanned typescripts and images**: the `Read` tool shows an image; for many pages, OCR with `rapidocr-onnxruntime` in the venv and search the text (OCR is lossy — search stems and variants, then read the hit on the image).
 - **Books**: Project Gutenberg and archive.org `_djvu.txt` for public-domain texts; archive.org lending items are not readable from the session. dokumen.pub pages carry a book's full text *and* its copyright page — use them to verify wording and edition, then cite the book, never the dokumen page.
 - **Metadata**: Crossref (`api.crossref.org/works/<doi>`), PubMed E-utilities, publisher pages, the WikiTree API (`api.wikitree.com/api.php?action=getProfile&key=…`), archive.org `advancedsearch` and `metadata` endpoints.
-- **The author's Drive** (Google Drive MCP tools): primary texts (Swedenborg, Kephalaia, Lovejoy…), the PDF mirror of the library, and **folders named `Books`** holding scholarly books the author has collected (search `title contains 'Books' and mimeType = 'application/vnd.google-apps.folder'`, then list each with `parentId = '<id>'`). Look there **before** calling a book out of reach. `read_file_content` returns only the first part of a long PDF and `download_file_content` stops at 10 MB; for the whole file, `curl -sSL -o f.pdf "https://drive.usercontent.google.com/download?id=<fileId>&export=download&confirm=t"` works when the author has made the file link-readable. If a needed book is not there, ask the author — it is their library. `search_files` with `title contains` or `fullText contains` settles whether a cited Drive file still exists.
+- **The author's Drive** (Google Drive MCP tools): primary texts (Swedenborg, Kephalaia, Lovejoy…) and the PDF mirror of the library. `search_files` with `title contains` or `fullText contains` settles whether a cited Drive file still exists.
 - Specific holdings and URL patterns that have already been found (Swedenborg Foundation PDFs for all twelve *Arcana* volumes, Hans Perk's Graham transcripts, Gutenberg IDs, …) are kept in the ledger's pattern register. Check it before searching from scratch.
 
 ### 4.2 No subagents; spend the budget carefully
@@ -216,7 +214,7 @@ Log one (in `docs/research_questions.md`, target tag `[NLM]`/`[GDR]`/`[NDE]`) on
 - the fix requires new analysis rather than correction (a statistic whose dataset schema has changed); or
 - the correction would change a conclusion the author holds and the evidence does not settle which way — a decision, not a fact.
 
-Before logging, ask: *could I settle this tonight with full text, OCR, an API, the author's Drive (including its `Books` folders), or a further search?* If yes, settle it. A question names only sources you have verified exist; a lead you have not verified is labelled as unverified in the question itself.
+Before logging, ask: *could I settle this tonight with full text, OCR, an API, the author's Drive, or a further search?* If yes, settle it.
 
 When a question is resolved, move it to `docs/resolved_research_questions.md` with the resolution and date.
 

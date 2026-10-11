@@ -12,7 +12,7 @@ The intellectual history of the Ancient Near East is characterized by a tension 
 
 ### 1.1 The Scribal Mind and *Listenwissenschaft*
 
-The genesis of wisdom literature is inextricably linked to the invention of writing itself. In the Uruk IV period (c. 3350–3200 BCE), the first proto-cuneiform texts appeared. While the majority were administrative receipts, a significant minority were lexical lists: of the nearly 4,900 texts of the succeeding Uruk III period, 703 (about 14%) are lexical (Everson and Hawkins 2017). These lists were not mere dictionaries; they were the manifestation of a "listing science" or *Listenwissenschaft*.
+The genesis of wisdom literature is inextricably linked to the invention of writing itself. In the Uruk IV period (c. 3350–3200 BCE), the first proto-cuneiform texts appeared. While the majority were administrative receipts, a significant minority were lexical lists: some 700 tablets and fragments with lists of signs or words, about 10% of the archaic corpus, with the list of professions *Lu A* already attested in the earliest, Uruk IV, phase (Veldhuis 2014, 29). These lists were not mere dictionaries; they were the manifestation of a "listing science" or *Listenwissenschaft*.
 
 The *Listenwissenschaft* represented the first intellectual attempt to impose order on chaos by naming and categorizing every element of the cosmos—from professions and officials (as in the *Lu A* list) to animals, plants, and stars. Ideally, this listing activity was believed to reflect the *me*—the divine ordinances or immutable truths that held the universe together. To know the list was to know the essence of the thing and, by extension, to possess wisdom.
 
@@ -124,9 +124,9 @@ The dating of Job and Proverbs is a battlefield of biblical scholarship. Convent
 
 The Book of Job contains numerous *hapax legomena* (words occurring only once) and peculiar forms that baffle translators. Eblaite offers a key to unlocking these "fossils."
 
-- **Water (*mw*):** In Job 9:30, the text reads *bemo-sheleg* ("with snow water?"). The word *mo* (*mw*) is strange; Hebrew for water is *mayim*. Masoretic scribes attempted to correct this to *mey*. However, Eblaite texts reveal that the archaic word for water was indeed *mw*. Job preserved a 3rd-millennium spelling that had been obsolete for centuries by the time of the exile.
+- **Water (*mw*):** In Job 9:30, the text reads *bemo-sheleg* ("with snow water?"). The word *mo* (*mw*) is strange; Hebrew for water is *mayim*. Masoretic scribes attempted to correct this to *mey*. However, the consonantal text proves sound: the Eblaite word for water is *ma-wu*, whose consonants are identical with biblical *mw*; the same *ma-wu* glosses Sumerian "water" in a trilingual cuneiform text from Tell Aphek, and *mw* stands beside *sheleg*, "snow," again in Job 6:15–16 (Dahood 1981, 303 and n. 57). Job preserved an archaic form that the Masoretic tradition no longer recognized.
 
-- **Possessions (*min'lam*):** In Job 15:29, the word *min'lam* appears. It is a hapax. Context suggests "wealth" or "possessions." Eblaite vocabularies list *ma-ni-lum* as a word for "property" (originally "cow" or "livestock"), confirming the Joban usage and pointing to a pastoral, pre-monarchic economic context.
+- **Possessions (*min'lam*):** In Job 15:29, the word *min'lam* appears. It is a hapax. Context suggests "wealth" or "possessions." In an Ebla bilingual vocabulary Sumerian *ab*, "cow," is rendered by *ma-ni-lum*, "cow, possession" (Pettinato 1981, 242), which corresponds to biblical *mnlm*, "his property," from a root *nyl*, "to acquire" (Dahood 1981, 303–4), confirming the Joban usage and pointing to a pastoral, pre-monarchic economic context.
 
 - **Enclitic *mem* (*wm-*):** Both Job and archaic Hebrew poetry use the enclitic *mem* for emphasis, a syntactic feature attested in Eblaite (*u-ma*, "and/indeed") but rare in standard Biblical Hebrew (Gordon 1987; Rendsburg 1987).
 
@@ -136,9 +136,9 @@ These fossils suggest that the author of Job was not an Aramaizing latecomer but
 
 While Proverbs is often dated to the monarchy (Solomon/Hezekiah), it too contains linguistic strata that reach back to the 3rd and 2nd millennia.
 
-- **The Root *mšl*:** The very word for "proverb," *mashal*, has an Eblaite/Akkadian cognate *mšl* ("to equal," "to compare," "to rule").
+- **The Root *mšl*:** The very word for "proverb," *mashal*, has an Akkadian cognate, *mašālu*, "to be similar, to be equal" (*CAD* M/1, 355).
 
-- **Linguistic Stability:** The "Instruction" genre (*Shuruppak*, *Ptahhotep*) shows remarkable stability over millennia. The "Type B" structure of Proverbs (Title, Prologue, Main Text) is found in 3rd-millennium texts, debunking the idea that "complex" forms must be late (Kitchen 1977).
+- **Linguistic Stability:** The "Instruction" genre (*Shuruppak*, *Ptahhotep*) shows remarkable stability over millennia. The "Type B" structure of Proverbs (Title, Prologue, Main Text) is found in 3rd-millennium texts, debunking the idea that "complex" forms must be late (Kitchen 1977, 73–75).
 
 - **Early Hebrew Poetry:** Studies by Young, Rezetko, and Ehrensvärd challenge the "Late Biblical Hebrew" dating method, arguing that many "late" forms appear in early inscriptions and that style, not just chronology, dictates linguistic choice (Young, Rezetko, and Ehrensvärd 2008).
 
@@ -146,10 +146,10 @@ While Proverbs is often dated to the monarchy (Solomon/Hezekiah), it too contain
 
 | Hebrew Term | Biblical Citation | Eblaite/Archaic Cognate | Significance |
 |-------------|-------------------|-------------------------|--------------|
-| **מו (*mw*)** | Job 9:30 | *mw* (water) | Archaic spelling preserved; predates standard *mayim* |
+| **מו (*mw*)** | Job 9:30 | *ma-wu* (water) | Archaic spelling preserved; predates standard *mayim* |
 | **מנלם (*min'lam*)** | Job 15:29 | *ma-ni-lum* (property/cow) | Eblaite economic term found only in Job |
 | **וּמ (*wm-*)** | Job/Proverbs (various) | *u-ma* (and/indeed) | Enclitic *mem* used for emphasis; archaic syntactic feature |
-| **משל (*mšl*)** | Proverbs 1:1 | *mšl* (to compare/rule) | Root attested in Eblaite administrative texts |
+| **משל (*mšl*)** | Proverbs 1:1 | Akkadian *mašālu* (to be similar, to be equal) | Root shared with Akkadian |
 
 The presence of these forms supports the hypothesis that Job and Proverbs are not merely post-exilic theological reflections but literary artifacts that carry the genetic markers of the Uruk-Ebla horizon.
 
@@ -223,7 +223,7 @@ In the end, the "fear of the Lord" is the beginning of wisdom, but Job teaches t
 
 **Primary Sources:**
 
-1. Black, J. A., G. Cunningham, E. Robson, and G. Zólyomi, eds. "The Instructions of Shuruppag" (c.5.6.1). *The Electronic Text Corpus of Sumerian Literature*. Oxford: Faculty of Oriental Studies, University of Oxford, 1998–2006. https://etcsl.orinst.ox.ac.uk/section5/tr561.htm. Cited by line.
+1. Black, J. A., G. Cunningham, J. Ebeling, E. Flückiger-Hawker, E. Robson, J. Taylor, and G. Zólyomi. "The Instructions of Shuruppag" (c.5.6.1). *The Electronic Text Corpus of Sumerian Literature*. Oxford, 1998–2006. https://etcsl.orinst.ox.ac.uk/section5/tr561.htm. Cited by line.
 
 2. Pritchard, James B., ed. *Ancient Near Eastern Texts Relating to the Old Testament*. 3rd ed. with Supplement. Princeton: Princeton University Press, 1969. Includes John A. Wilson's translation of *The Instruction of Amen-em-opet* and Samuel Noah Kramer's of *Man and His God*.
 
@@ -245,52 +245,54 @@ In the end, the "fear of the Lord" is the beginning of wisdom, but Job teaches t
 
 10. Crenshaw, James L. *Old Testament Wisdom: An Introduction*. 3rd ed. Louisville: Westminster John Knox Press, 2010.
 
-11. Fox, Michael V. *Proverbs 1–9: A New Translation with Introduction and Commentary*. Anchor Bible 18A. New York: Doubleday, 2000.
+11. Dahood, Mitchell. "Ebla, Ugarit, and the Bible." Afterword in Giovanni Pettinato, *The Archives of Ebla: An Empire Inscribed in Clay*, 271–321. Garden City, NY: Doubleday, 1981.
 
-12. Gordon, Cyrus H. "*wm-* 'and' in Eblaite and Hebrew." In *Eblaitica: Essays on the Ebla Archives and Eblaite Language*, vol. 1, edited by Cyrus H. Gordon and Gary A. Rendsburg, 29–30. Winona Lake, IN: Eisenbrauns, 1987.
+12. Fox, Michael V. *Proverbs 1–9: A New Translation with Introduction and Commentary*. Anchor Bible 18A. New York: Doubleday, 2000.
 
-13. Hallo, William W. "Biblical Abominations and Sumerian Taboos." *The Jewish Quarterly Review* 76, no. 1 (1985). https://doi.org/10.2307/1454539.
+13. Gordon, Cyrus H. "*wm-* 'and' in Eblaite and Hebrew." In *Eblaitica: Essays on the Ebla Archives and Eblaite Language*, vol. 1, edited by Cyrus H. Gordon and Gary A. Rendsburg, 29–30. Winona Lake, IN: Eisenbrauns, 1987.
 
-14. Hallo, William W., and K. Lawson Younger Jr., eds. *The Context of Scripture*. 3 vols. Leiden: Brill, 1997–2002.
+14. Hallo, William W. "Biblical Abominations and Sumerian Taboos." *The Jewish Quarterly Review* 76, no. 1 (1985). https://doi.org/10.2307/1454539.
 
-15. Kitchen, Kenneth A. "Proverbs and Wisdom Books of the Ancient Near East: The Factual History of a Literary Form." *Tyndale Bulletin* 28 (1977): 69–114.
+15. Hallo, William W., and K. Lawson Younger Jr., eds. *The Context of Scripture*. 3 vols. Leiden: Brill, 1997–2002.
 
-16. Kramer, Samuel Noah. "'Man and His God': A Sumerian Variation on the 'Job' Motif." In *Wisdom in Israel and in the Ancient Near East*, edited by M. Noth and D. Winton Thomas, 170–182. Supplements to Vetus Testamentum 3. Leiden: Brill, 1955.
+16. Kitchen, Kenneth A. "Proverbs and Wisdom Books of the Ancient Near East: The Factual History of a Literary Form." *Tyndale Bulletin* 28 (1977): 69–114.
 
-17. Kynes, Will. "Job." In *The Cambridge Companion to Biblical Wisdom Literature*, edited by Katharine J. Dell, Suzanna R. Millar, and Arthur Jan Keefer, 162–183. Cambridge: Cambridge University Press, 2022.
+17. Kramer, Samuel Noah. "'Man and His God': A Sumerian Variation on the 'Job' Motif." In *Wisdom in Israel and in the Ancient Near East*, edited by M. Noth and D. Winton Thomas, 170–182. Supplements to Vetus Testamentum 3. Leiden: Brill, 1955.
 
-18. Lambert, W. G. *Babylonian Wisdom Literature*. Oxford: Clarendon Press, 1960.
+18. Kynes, Will. "Job." In *The Cambridge Companion to Biblical Wisdom Literature*, edited by Katharine J. Dell, Suzanna R. Millar, and Arthur Jan Keefer, 162–183. Cambridge: Cambridge University Press, 2022.
 
-19. Longman, Tremper, III. *Job*. Baker Commentary on the Old Testament Wisdom and Psalms. Grand Rapids: Baker Academic, 2012.
+19. Lambert, W. G. *Babylonian Wisdom Literature*. Oxford: Clarendon Press, 1960.
 
-20. Mattingly, Gerald L. "The Pious Sufferer: Mesopotamia's Traditional Theodicy and Job's Counselors." In *The Bible in the Light of Cuneiform Literature: Scripture in Context III*, edited by William W. Hallo, Bruce William Jones, and Gerald L. Mattingly, 305–348. Ancient Near Eastern Texts and Studies 8. Lewiston, NY: Edwin Mellen Press, 1990.
+20. Longman, Tremper, III. *Job*. Baker Commentary on the Old Testament Wisdom and Psalms. Grand Rapids: Baker Academic, 2012.
 
-21. Murphy, Roland E. *Proverbs*. Word Biblical Commentary 22. Nashville: Thomas Nelson, 1998.
+21. Mattingly, Gerald L. "The Pious Sufferer: Mesopotamia's Traditional Theodicy and Job's Counselors." In *The Bible in the Light of Cuneiform Literature: Scripture in Context III*, edited by William W. Hallo, Bruce William Jones, and Gerald L. Mattingly, 305–348. Ancient Near Eastern Texts and Studies 8. Lewiston, NY: Edwin Mellen Press, 1990.
 
-22. Newsom, Carol A. *The Book of Job: A Contest of Moral Imaginations*. Oxford: Oxford University Press, 2003.
+22. Murphy, Roland E. *Proverbs*. Word Biblical Commentary 22. Nashville: Thomas Nelson, 1998.
 
-23. Pettinato, Giovanni. *The Archives of Ebla: An Empire Inscribed in Clay*. Garden City, NY: Doubleday, 1981.
+23. Newsom, Carol A. *The Book of Job: A Contest of Moral Imaginations*. Oxford: Oxford University Press, 2003.
 
-24. Rendsburg, Gary A. "Eblaite *ù-ma* and Hebrew *wm-*." In *Eblaitica: Essays on the Ebla Archives and Eblaite Language*, vol. 1, edited by Cyrus H. Gordon and Gary A. Rendsburg, 33–41. Winona Lake, IN: Eisenbrauns, 1987.
+24. Oppenheim, A. Leo, and Erica Reiner, eds. *The Assyrian Dictionary of the Oriental Institute of the University of Chicago*. Vol. 10, *M*, part 1. Chicago: Oriental Institute, 1977. Cited as *CAD* M/1.
 
-25. Rendsburg, Gary A. "Eblaite and Some Northwest Semitic Lexical Links." In *Eblaitica: Essays on the Ebla Archives and Eblaite Language*, vol. 4, edited by Cyrus H. Gordon and Gary A. Rendsburg. Winona Lake, IN: Eisenbrauns, 2002.
+25. Pettinato, Giovanni. *The Archives of Ebla: An Empire Inscribed in Clay*. With an afterword by Mitchell Dahood, S.J. Garden City, NY: Doubleday, 1981.
 
-26. Seow, C. L. *Job 1–21: Interpretation and Commentary*. Illuminations. Grand Rapids: Eerdmans, 2013.
+26. von Rad, Gerhard. "Hiob XXXVIII und die altägyptische Weisheit." In *Wisdom in Israel and in the Ancient Near East*, edited by M. Noth and D. Winton Thomas, 293–301. Supplements to Vetus Testamentum 3. Leiden: Brill, 1955.
 
-27. Snell, Daniel C. *Twice-Told Proverbs and the Composition of the Book of Proverbs*. Winona Lake, IN: Eisenbrauns, 1993.
+27. Rendsburg, Gary A. "Eblaite *ù-ma* and Hebrew *wm-*." In *Eblaitica: Essays on the Ebla Archives and Eblaite Language*, vol. 1, edited by Cyrus H. Gordon and Gary A. Rendsburg, 33–41. Winona Lake, IN: Eisenbrauns, 1987.
 
-28. Van Selms, A. *Job: A Practical Commentary*. Text and Interpretation. Grand Rapids: Eerdmans, 1985.
+28. Rendsburg, Gary A. "Eblaite and Some Northwest Semitic Lexical Links." In *Eblaitica: Essays on the Ebla Archives and Eblaite Language*, vol. 4, edited by Cyrus H. Gordon and Gary A. Rendsburg. Winona Lake, IN: Eisenbrauns, 2002.
 
-29. von Rad, Gerhard. "Hiob XXXVIII und die altägyptische Weisheit." In *Wisdom in Israel and in the Ancient Near East*, edited by M. Noth and D. Winton Thomas. Supplements to Vetus Testamentum 3. Leiden: Brill, 1955.
+29. Seow, C. L. *Job 1–21: Interpretation and Commentary*. Illuminations. Grand Rapids: Eerdmans, 2013.
 
-30. Weeks, Stuart. *Early Israelite Wisdom*. Oxford Theological Monographs. Oxford: Clarendon Press, 1994.
+30. Snell, Daniel C. *Twice-Told Proverbs and the Composition of the Book of Proverbs*. Winona Lake, IN: Eisenbrauns, 1993.
 
-31. Young, Ian, Robert Rezetko, and Martin Ehrensvärd. *Linguistic Dating of Biblical Texts*. 2 vols. London: Equinox, 2008.
+31. Van Selms, A. *Job: A Practical Commentary*. Text and Interpretation. Grand Rapids: Eerdmans, 1985.
+
+32. Veldhuis, Niek. *History of the Cuneiform Lexical Tradition*. Guides to the Mesopotamian Textual Record 6. Münster: Ugarit-Verlag, 2014.
+
+33. Weeks, Stuart. *Early Israelite Wisdom*. Oxford Theological Monographs. Oxford: Clarendon Press, 1994.
+
+34. Young, Ian, Robert Rezetko, and Martin Ehrensvärd. *Linguistic Dating of Biblical Texts*. 2 vols. London: Equinox, 2008.
 
 **Internal Library Documents:**
 
-32. [The Ancient Word: Philological Evidence for the Uruk-Ebla Origins of Genesis 1-11 and the Book of Job](The%20Ancient%20Word_%20Philological%20Evidence%20for%20the%20Uruk-Ebla%20Origins%20of%20Genesis%201-11%20and%20the%20Book%20of%20Job.md). The Eblaite cognates for Job's *hapax legomena* (*mw*, *min'lam*) and the 3rd-millennium horizon on which §§ 1 and 5 build.
-
-**Web Sources:**
-
-33. Everson, Michael, and Laura F. Hawkins. "Proposal to Encode Proto-Cuneiform in the SMP of the UCS." Unicode Technical Committee document L2/17-157, 8 May 2017. https://www.unicode.org/L2/L2017/17157-n4797-proto-cuneiform.pdf. Genre counts of the Uruk III corpus drawn from the Cuneiform Digital Library Initiative.
+35. [The Ancient Word: Philological Evidence for the Uruk-Ebla Origins of Genesis 1-11 and the Book of Job](The%20Ancient%20Word_%20Philological%20Evidence%20for%20the%20Uruk-Ebla%20Origins%20of%20Genesis%201-11%20and%20the%20Book%20of%20Job.md). The Eblaite cognates for Job's *hapax legomena* (*mw*, *min'lam*) and the 3rd-millennium horizon on which §§ 1 and 5 build.

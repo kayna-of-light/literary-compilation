@@ -20,14 +20,14 @@ The Egyptologist Kenneth Kitchen assembled a sequence of slave prices from ANE l
 
 The baseline for this economic trajectory is found in the documents of the Akkad Empire and the Third Dynasty of Ur (Ur III). During this epoch, the economy was highly centralized, and the silver value of labor was relatively low compared to later periods.
 
-* **Data Points:** Under the Akkad Empire "a decent slave fetched 10–15 silver shekels," and the price "dropped slightly to 10 shekels during the Third Dynasty of Ur" (Kitchen 1995, 51–52, citing Mendelsohn 1949, 117).  
+* **Data Points:** "The average price paid for a slave in the period of the Dynasty of Accad was from 10 to 15 shekels of silver," and under the Third Dynasty of Ur "the prices were approximately the same," with recorded extremes of 2 and 43 shekels (Mendelsohn 1949, 117); Kitchen puts the Ur III price at about 10 shekels (Kitchen 1995, 51–52).  
 * **Implication:** This period predates the traditional setting of the Patriarchal narratives. If the biblical text were preserving traditions from this earliest era, we would expect slave prices to hover around this 10-shekel mark.
 
 #### **2.1.2 The Middle Bronze Age (c. 2000–1700 B.C.E.): The Patriarchal Horizon**
 
 The early second millennium encompasses the Old Babylonian period, the rise of Amorite dynasties (such as Hammurabi's Babylon and Shamshi-Adad's Assyria), and the time traditionally associated with the Patriarchs (Abraham, Isaac, Jacob, Joseph). During this era, the price of slaves stabilized at a higher tier.
 
-* **The Laws of Hammurabi (c. 1750 B.C.E.):** Three sections fix the compensation owed for a slave who is killed—the distrained slave beaten to death (§116), the slave woman struck and killed (§214), and the slave gored by a known gorer (§252)—at **one-third mina** (Meek, in Pritchard 1969). Since the mina was composed of 60 shekels, one-third mina equals **20 shekels** of silver.  
+* **The Laws of Hammurabi (c. 1750 B.C.E.):** Three sections fix the compensation owed for a slave who is killed—the distrained slave beaten to death (§116), the slave woman struck and killed (§214), and the slave gored by a known gorer (§252)—at **one-third mina** (Meek, in Pritchard 1969). Since the mina was composed of 60 shekels, one-third mina equals **20 shekels** of silver. Isaac Mendelsohn reads these sections as the Code's estimate of "the mean value of a slave, male or female, as 20 shekels of silver, the same price as that of an ox," and notes that 20 shekels "is often given as a standard price for a hired slave who might run away from his employer or be killed in his service" (Mendelsohn 1949, 117).  
 * **The Mari Archives (19th–18th centuries B.C.E.):** Kitchen cites documents from Mari alongside the Laws of Hammurabi for a slave price of "about 20 shekels" in the early Babylonian period (Kitchen 1995, 51–52).  
 * **The Laws of Eshnunna (c. 1930 B.C.E.):** This earlier code sets the compensation for a slave gored by a known gorer, or bitten by a known vicious dog, at **15 shekels**—against two-thirds of a mina for a free man (§§54–57; Goetze, in Pritchard 1969).
 
@@ -37,14 +37,15 @@ The legal codes (normative values) and the economic documents (actual values) th
 
 By the middle of the second millennium, inflationary pressures—likely driven by the influx of precious metals and the internationalism of the Amarna Age—had driven the price of slaves higher.
 
-* **Nuzi and Ugarit (14th–13th Centuries B.C.E.):** "By the 14th and 13th centuries B.C., at Nuzi and Ugarit, the price crept up to 30 shekels and sometimes more" (Kitchen 1995, 51–52, citing Eichler 1973, 16–18).
+* **Nuzi (15th–14th Centuries B.C.E.):** "In Nuzi the average price for a male or female slave was 30 shekels of silver" (Mendelsohn 1949, 118). A royal decree set the price of an imported Lullian slave at 30 shekels, and the Nuzi slave-sale documents bear out that value (Eichler 1973, 16 and n. 35).  
+* **Ugarit (14th Century B.C.E.):** "The mean price for a slave in Ugarit … seems to have been 40 shekels of silver," and in Palestine 30 (Mendelsohn 1949, 118). Kitchen summarizes: "at Nuzi and Ugarit, the price crept up to 30 shekels and sometimes more" (Kitchen 1995, 51–52).
 
 #### **2.1.4 The Iron Age and Persian Period (First Millennium B.C.E.)**
 
 The first millennium saw a dramatic increase in silver supplies and a concurrent devaluation of silver relative to goods and labor, leading to significant nominal price inflation.
 
-* **Neo-Assyrian Period (8th–7th Centuries B.C.E.):** "Assyrian slave markets demanded 50 to 60 shekels for slaves" (Kitchen 1995, 51–52).  
-* **Persian Period (5th–4th Centuries B.C.E.):** Under the Achaemenid Empire—the era in which many minimalist scholars argue the Genesis narratives were composed—"soaring inflation pushed prices up to 90 and 120 shekels" (Kitchen 1995, 51–52).
+* **Neo-Assyrian Period (8th–7th Centuries B.C.E.):** "Assyrian slave markets demanded 50 to 60 shekels for slaves" (Kitchen 1995, 51–52); "the average price of a male slave in Late Assyria was 50 to 60 shekels and that of a female slave 40 shekels" (Mendelsohn 1949, 118).  
+* **Persian Period (5th–4th Centuries B.C.E.):** Under the Achaemenid Empire—the era in which many minimalist scholars argue the Genesis narratives were composed—"soaring inflation pushed prices up to 90 and 120 shekels" (Kitchen 1995, 51–52); Mendelsohn gives "90 to 120 for a male slave and 60 to 90 shekels for a female slave" (Mendelsohn 1949, 117).
 
 ### **2.2 Stratigraphic Alignment of Biblical Data**
 
@@ -56,7 +57,7 @@ When the specific economic data points preserved in the biblical text are overla
 | :---- | :---- | :---- | :---- | :---- |
 | **Akkad / Ur III** | c. 2300–2000 B.C.E. | 10–15 Shekels | *None* | N/A |
 | **Middle Bronze** | c. 2000–1700 B.C.E. | **20 Shekels** (Hammurabi, Mari) | **Genesis 37:28** (Joseph) | **20 Shekels** |
-| **Late Bronze** | 14th–13th c. B.C.E. | **30 Shekels** (Nuzi, Ugarit) | **Exodus 21:32** (Slave gored) | **30 Shekels** |
+| **Late Bronze** | 15th–13th c. B.C.E. | **30 Shekels** (Nuzi); **40** (Ugarit) | **Exodus 21:32** (Slave gored) | **30 Shekels** |
 | **Iron Age II** | 8th–7th c. B.C.E. | **50–60 Shekels** (Assyria) | **2 Kings 15:20** (Menahem) | **50 Shekels** |
 | **Persian Period** | 5th–4th c. B.C.E. | **90–120 Shekels** | *None* | N/A |
 
@@ -221,7 +222,7 @@ While these findings do not constitute "proof" of the Patriarchs' individual exi
 - Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament*. Oxford: Clarendon Press, 1906.
 - Dahood, Mitchell. 1981a. "Ebla, Ugarit, and the Bible." Afterword in Giovanni Pettinato, *The Archives of Ebla: An Empire Inscribed in Clay*, 271–321. Garden City, NY: Doubleday, 1981.
 - Dahood, Mitchell. 1981b. "Eblaite *i-du* and Hebrew *ʾēd*, 'Rain-Cloud'." *Catholic Biblical Quarterly* 43 (1981): 534–38.
-- Eichler, Barry L. *Indenture at Nuzi: The Personal Tidennūtu Contract and Its Mesopotamian Analogues*. New Haven: Yale University Press, 1973. Cited after Kitchen 1995.
+- Eichler, Barry L. *Indenture at Nuzi: The Personal Tidennūtu Contract and Its Mesopotamian Analogues*. Yale Near Eastern Researches 5. New Haven: Yale University Press, 1973.
 - Gordon, Cyrus H. "Biblical Customs and the Nuzu Tablets." *Biblical Archaeologist* 3, no. 1 (1940): 1–12.
 - Greenberg, Moshe. "Another Look at Rachel's Theft of the Teraphim." *Journal of Biblical Literature* 81 (1962): 239–48.
 - Harris, R. Laird. "The Mist, the Canopy, and the Rivers of Eden." *Bulletin of the Evangelical Theological Society* 11 (1968): 177–79.
@@ -229,7 +230,7 @@ While these findings do not constitute "proof" of the Patriarchs' individual exi
 - Hoffner, Harry A., Jr. "Some Contributions of Hittitology to Old Testament Study." *Tyndale Bulletin* 20 (1969): 27–55.
 - Kitchen, Kenneth A. "The Patriarchal Age: Myth or History?" *Biblical Archaeology Review* 21, no. 2 (March/April 1995): 48–57, 88–94.
 - Lehmann, Manfred R. "Abraham's Purchase of Machpelah and Hittite Law." *Bulletin of the American Schools of Oriental Research* 129 (1953): 15–18.
-- Mendelsohn, Isaac. *Slavery in the Ancient Near East*. New York: Oxford University Press, 1949. Cited after Kitchen 1995.
+- Mendelsohn, Isaac. *Slavery in the Ancient Near East*. New York: Oxford University Press, 1949.
 - Petschow, Herbert. "Die neubabylonische Zwiegesprächsurkunde und Genesis 23." *Journal of Cuneiform Studies* 19 (1965): 103–20.
 - Pettinato, Giovanni. *The Archives of Ebla: An Empire Inscribed in Clay*. With an afterword by Mitchell Dahood, S.J. Garden City, NY: Doubleday, 1981.
 - Rabinowitz, J. J. "A Biblical Parallel to a Legal Formula from Ugarit." *Vetus Testamentum* 8 (1958): 95. Cited after Westbrook 1991.

@@ -179,7 +179,7 @@ Both systems reject the "Law" (moral effort/obedience) as a means of salvation. 
 
 ### **5.2 The "Dark Chamber": Separation of Divine and Human**
 
-The Swedenborgian critique asserts that the separation of the Divine and Human natures is the "fundamental error" that destroys the church (*The Architecture of Autonomy*; *Apocalypse Revealed* §537). We have already validated that Paul’s Christology (Rom 1:3-4, Phil 2\) relies on this separation (Adoptionism/Kenosis).
+The Swedenborgian critique asserts that the separation of the Divine and Human natures—making "the Lord two"—destroys the church (*The Architecture of Autonomy*; *Apocalypse Revealed* §537). We have already validated that Paul’s Christology (Rom 1:3-4, Phil 2\) relies on this separation (Adoptionism/Kenosis).
 
 By positing a Christ who is "appointed" or "emptied," the Pauline tradition constructs a "Mediator" figure who stands *between* humanity and God (1 Tim 2:5), rather than a "Divine Human" who *is* God manifested. This theological gap allows for the interpolation of ecclesiastical hierarchy (the Church as the "Body" replacing the Divine Body) and political power (the Emperor as the earthly vice-gerent), serving the "Love of Dominion" (*Theological Forensic Analysis*). The Pauline "Christ" becomes a function of the institutional machinery, rather than the immediate presence of the Divine.
 

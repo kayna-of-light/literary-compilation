@@ -142,11 +142,11 @@ The Book of Job preserves additional lexical fossils that confirm its placement 
 
 #### 3.4.1 *Mw*: The Archaic Water
 
-In Standard Biblical Hebrew, "water" is *mayim* (מַיִם). However, Job 9:30 preserves a textual anomaly: "If I wash myself with snow water (*b'mô*)." Eblaite texts frequently write "water" as *mw* (vocalized *mû*), preserving an archaic nominative form. This connects the dialect of Job directly to the "Eblaite sphere."
+In Standard Biblical Hebrew, "water" is *mayim* (מַיִם). However, Job 9:30 preserves a textual anomaly: "If I wash myself with snow water (*b'mô*)." The Eblaite word for "water" is *ma-wu*, whose consonants are identical with biblical *mw*; the Masoretes, reading *mê*, no longer recognized the form (Dahood 1981, 303). This connects the dialect of Job directly to the "Eblaite sphere."
 
 #### 3.4.2 *Min'lam*: The Wealth of the Patriarchs
 
-In Job 15:29, Eliphaz describes the wicked: "He shall not be rich... neither shall his *min'lam* extend to the earth." The word *min'lam* (מִנְלָם) is a *hapax legomenon*. The Eblaite vocabulary lists contain *ma-ni-lum* (or *manilum*), equated with Sumerian terms for "wealth" or "property." Interpreting *min'lam* as "accumulated wealth" fits the parallelism perfectly and argues for the antiquity of the Joban tradition in the Syrian commercial centers of the Early Bronze Age.
+In Job 15:29, Eliphaz describes the wicked: "He shall not be rich... neither shall his *min'lam* extend to the earth." The word *min'lam* (מִנְלָם) is a *hapax legomenon*. An Ebla bilingual vocabulary renders Sumerian *ab*, "cow," by *ma-ni-lum*, "cow, possession" (Pettinato 1981, 242); Dahood derives biblical *mnlm* from a root *nyl*, "to acquire," and translates "his property" (Dahood 1981, 303–4). Interpreting *min'lam* as "accumulated wealth" fits the parallelism perfectly and argues for the antiquity of the Joban tradition in the Syrian commercial centers of the Early Bronze Age.
 
 ### 3.5 Summary: The Lexical Evidence
 
@@ -159,8 +159,8 @@ In Job 15:29, Eliphaz describes the wicked: "He shall not be rich... neither sha
 | *kopher* | Gen 6:14 | pitch | *kupru* | Bilingual pun (pitch/atonement) |
 | *tsohar* | Gen 6:16 | roof/light | related to *tsahar* | Hapax with archaic root |
 | *hagoroth* | Gen 3:7 | garments | *lú a-gu-ra* (tailor) | Eblaite professional vocabulary |
-| *mw* | Job 9:30 | water | *mû* | Archaic nominative form |
-| *min'lam* | Job 15:29 | wealth | *manilum* | 3rd-millennium commercial vocabulary |
+| *mw* | Job 9:30 | water | *ma-wu* | Archaic form of "water" |
+| *min'lam* | Job 15:29 | wealth | *ma-ni-lum* ("cow, possession") | 3rd-millennium commercial vocabulary |
 
 ---
 
@@ -363,7 +363,7 @@ The evidence speaks to age; it does not speak to intention.
 
 1. Archi, Alfonso. "Ebla and the Bible." In *The Oxford Encyclopedia of Archaeology in the Near East*, edited by Eric M. Meyers. Oxford: Oxford University Press, 1997.
 
-2. Dahood, Mitchell. "Ebla, Ugarit, and the Bible." In *The Archives of Ebla: An Empire Inscribed in Clay*, edited by Giovanni Pettinato. Garden City: Doubleday, 1981.
+2. Dahood, Mitchell. "Ebla, Ugarit, and the Bible." Afterword in Giovanni Pettinato, *The Archives of Ebla: An Empire Inscribed in Clay*, 271–321. Garden City, NY: Doubleday, 1981.
 
 3. El-Baz, Farouk. "A River in the Desert." *Discover*, July 1993.
 

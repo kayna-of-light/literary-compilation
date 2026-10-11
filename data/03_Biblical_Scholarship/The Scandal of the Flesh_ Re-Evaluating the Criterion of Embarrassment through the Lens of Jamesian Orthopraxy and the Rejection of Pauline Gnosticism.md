@@ -217,17 +217,17 @@ This is not the "weakness" of a failed god, but the "strength" of the Refiner’
 
 **Primary Sources:**
 
-1. Ali, Abdullah Yusuf, trans. *The Holy Qur'an: Text, Translation and Commentary*. 1934. Cited by sura and verse.
+1. Ali, Abdullah Yusuf, trans. *The Holy Qur-an: Text, Translation and Commentary*. 3rd ed. Lahore: Shaikh Muhammad Ashraf, 1938. Cited by sura and verse.
 
 2. James, M. R., trans. *The Apocryphal New Testament*. Oxford: Clarendon Press, 1924. *The Gospel of Peter*, cited by section.
 
 3. Lightfoot, J. B., and J. R. Harmer, trans. *The Apostolic Fathers*. London: Macmillan, 1891. Ignatius, *To the Ephesians*, cited by chapter and section.
 
-4. Saheeh International, trans. *The Qur'an: English Meanings*. Jeddah: Abul-Qasim Publishing House, 1997. Cited by sura and verse.
+4. Saheeh International, trans. *The Qur'an: Arabic Text with Corresponding English Meanings*. Jeddah: Abul-Qasim Publishing House, 1997. Cited by sura and verse.
 
 **Scholarly Works:**
 
-5. Bauer, Walter. *Orthodoxy and Heresy in Earliest Christianity*. Edited by Robert A. Kraft and Gerhard Krodel. Translated by the Philadelphia Seminar on Christian Origins. Philadelphia: Fortress Press, 1971. First published as *Rechtgläubigkeit und Ketzerei im ältesten Christentum* (Tübingen: Mohr, 1934).
+5. Bauer, Walter. *Orthodoxy and Heresy in Earliest Christianity*. Edited by Robert A. Kraft and Gerhard Krodel. Translated by a team from the Philadelphia Seminar on Christian Origins. Philadelphia: Fortress Press, 1971. First published as *Rechtgläubigkeit und Ketzerei im ältesten Christentum* (Tübingen: Mohr, 1934).
 
 **Internal Library Documents:**
 

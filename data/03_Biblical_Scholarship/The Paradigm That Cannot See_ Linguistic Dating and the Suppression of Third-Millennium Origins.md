@@ -28,8 +28,8 @@ Eblaite offers a different explanation: these words are **archaic Northwest Semi
 
 | Hebrew Term | Citation | Eblaite Cognate | Significance |
 |-------------|----------|-----------------|--------------|
-| **מו (*mw*)** | Job 9:30 | *mw* (water) | Standard Hebrew is *mayim*. The form *mw* is attested in Eblaite and disappeared from the linguistic record by c. 2000 BCE. Job preserves a word extinct for 1,500 years before the "Persian period." |
-| **מנלם (*min'lam*)** | Job 15:29 | *ma-ni-lum* (property, originally "cattle") | Eblaite economic term. Hapax in Hebrew. Points to pastoral, pre-monarchic context. |
+| **מו (*mw*)** | Job 9:30 | *ma-wu* (water) | Standard Hebrew is *mayim*. The Eblaite word for water, *ma-wu*, has the same consonants as *mw*; *ma-wu* still glosses "water" in a trilingual cuneiform fragment from Tel Aphek, and *mw* recurs in Job 6:15–16 (Dahood 1981, 303 and n. 57). Job preserves an archaic form that the Masoretic vocalization no longer recognized. |
+| **מנלם (*min'lam*)** | Job 15:29 | *ma-ni-lum* ("cow, possession"; Pettinato 1981, 242; Dahood 1981, 303–4) | Eblaite economic term. Hapax in Hebrew. Points to pastoral, pre-monarchic context. |
 | **אד (*ʾed*)** | Gen 2:6 | Sumerian *a.dé* (water channel) | Administrative/irrigation term, not poetic. Indicates Mesopotamian scribal vocabulary. |
 
 **The question scholars must answer**: How does a "Persian-period" author use vocabulary that had been extinct for 1,500 years?
@@ -303,15 +303,15 @@ The truth is not determined by consensus. The truth shows itself because it is t
 
 ## Works Cited
 
-1. El-Baz, Farouk. "A River in the Desert." *Discover* 14, no. 7 (1993): 32-39.
+1. Dahood, Mitchell. "Ebla, Ugarit, and the Bible." Afterword in Giovanni Pettinato, *The Archives of Ebla: An Empire Inscribed in Clay*, 271–321. Garden City, NY: Doubleday, 1981.
 
-2. Gordon, Cyrus H. "The Ebla Tablets and the Bible." *Biblical Archaeology Review* 4, no. 3 (1978): 2-16.
+2. El-Baz, Farouk. "A River in the Desert." *Discover* 14, no. 7 (1993): 32-39.
 
 3. Kuhn, Thomas S. *The Structure of Scientific Revolutions*. Chicago: University of Chicago Press, 1962.
 
 4. Pettinato, Giovanni. *The Archives of Ebla: An Empire Inscribed in Clay*. Garden City, NY: Doubleday, 1981.
 
-5. Rendsburg, Gary A. "Eblaite and Some Northwest Semitic Lexical Links." In *Eblaite Personal Names and Semitic Name-Giving*, edited by Alfonso Archi, 89-100. Rome: Missione Archeologica Italiana in Siria, 1988.
+5. Rendsburg, Gary A. "Eblaite and Some Northwest Semitic Lexical Links." In *Eblaitica: Essays on the Ebla Archives and Eblaite Language*, vol. 4, edited by Cyrus H. Gordon and Gary A. Rendsburg. Winona Lake, IN: Eisenbrauns, 2002.
 
 6. Sauer, James A. "The River Runs Dry: Creation Story Preserves Historical Memory." *Biblical Archaeology Review* 22, no. 4 (1996): 52-54, 57, 64.
 

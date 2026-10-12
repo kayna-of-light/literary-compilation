@@ -372,9 +372,9 @@ Statistical analysis **validates** the "constant state, variable form" principle
 
 | Finding | Statistic |
 |---------|-----------|
-| Religious background predicts NAMING | χ² = 365.14, p < 0.0001 |
-| Experiential properties CONSTANT | All differences < 10% |
-| ML classifier using background | BELOW baseline (37.8% vs 45.9%) |
+| Religious background predicts NAMING (weakly) | χ²(6) = 15.04, p = 0.020, V = 0.11; belief at the NDE χ²(3) = 38.40, V = 0.24 |
+| Experiential FUNCTION constant | Christians, Jesus-only vs unknown-only: no difference in guidance, teaching, telepathy, belonging or mission; perception profile equivalent, Christian vs atheist/agnostic (TOST p = 0.005). Perceptual mode differs (visual figure +45.0 pp, unity −19.6 pp) |
+| Classifier using background | Cross-validated AUC 0.53 (barely above chance) |
 
 **Interpretation**: The underlying spiritual reality is constant; perceptual forms vary by the receiver's mental repertoire. This is a **framework HIT**.
 
@@ -385,8 +385,8 @@ Statistical analysis **validates** the "constant state, variable form" principle
 #### Annotation Template
 ```markdown
 > **[VALIDATION: Cultural Variation]** This section treats cultural variation as potential problem.
-> Statistical analysis confirms "constant state, variable form": naming varies (χ² = 365.14),
-> but experiential properties are constant (<10% difference). This validates the framework.
+> Statistical analysis confirms "constant state, variable form": naming varies weakly with background (χ²(6) = 15.04, V = 0.11),
+> but the functions of the encounter are the same across names. This validates the framework.
 ```
 
 ---
@@ -1313,10 +1313,10 @@ These errors are related: if "Gnosticism" is an impulse driven by the proprium, 
 **Documents reflecting earlier position** (require annotation):
 - [ ] `data/05_The_Self/The Architecture of Hidden Divinity...md` — The ORIGINAL "Gnostic Impulse" document
 - [ ] `data/05_The_Self/The Architecture of Autonomy...md` — Validation of "Gnostic Impulse" framing
-- [ ] `data/05_The_Self/The Apostle of the Archons...md` — Heavy "Gnostic Impulse" usage throughout
+- [ ] `data/04_Early_Christian_History/The Apostle of the Archons...md` — Heavy "Gnostic Impulse" usage throughout
 - [ ] `data/05_The_Self/Dancing with Fire...md` — "Gnostic Impulse as the Proprium's Theology" section
 - [ ] `data/05_The_Self/The Paradox of the Pneumatic Ego...md` — "Gnostic Impulse" section
-- [ ] `data/05_The_Self/The Pauline Matrix...md` — "Gnostic impulse" usage
+- [ ] `data/04_Early_Christian_History/The Pauline Matrix...md` — "Gnostic impulse" usage
 - [ ] `data/00_Master_Theses/The Carriers of Living Water...md` — Section 12.3 "Gnostic Impulse and the Architecture of Autonomy"
 - [ ] `data/00_Master_Theses/The Beast That Wears the Lamb...md` — Reference links to old doc names
 - [ ] `data/03_Biblical_Scholarship/The Scandal of the Flesh...md` — "Gnostic Impulse" usage
@@ -1432,7 +1432,7 @@ The mechanics of glorification — ruling love orientation toward the Lord, temp
 
 **Evidence against the unique-process claim**:
 - **Swedenborg’s celestial angel data** (*AC* §§1925, 8192): Celestial angels speak *as the Lord* — the Lord’s voice indistinguishable from the angel’s. Swedenborg interprets this as temporary divine override; the correspondential structure requires it be transparency. If celestial beings achieve this at their degree, Jesus’s completeness is not categorically different.
-- **NDE constant-state/variable-form** (chi-square 365.14, p < 0.0001): The Lord presents as the Divine Human to every soul at the threshold — as Jesus (Christians), as Amida (Buddhists), as light (secularists). This is not contingent on historical glorification; it is the structure of what the Lord is in ultimates.
+- **NDE constant-state/variable-form** (name × religious background χ²(6) = 15.04, p = 0.020, V = 0.11; the functions of the encounter are the same across names): The Lord presents as the Divine Human to every soul at the threshold — as Jesus (Christians), as Amida (Buddhists), as light (secularists). This is not contingent on historical glorification; it is the structure of what the Lord is in ultimates.
 - **Kephalaia five-stage sequence**: Stage 4 is named for a principle operative in history before and after the historical Jesus. The name designates the operation, not the person.
 
 **Documents with corrected position**:
@@ -1506,7 +1506,7 @@ The NDE data confirming that some non-Christians identify the figure as Jesus is
 **Key corrections**:
 1. "Divine Human" is not a Christological title earned through glorification. It is the Lord's own eternal nature, prior to creation, expressed through creation, and accessible to every soul.
 2. Jesus was the vessel through which the Lord expressed Himself in ultimates with maximal, unobstructed transparency. He did not *become* the Divine Human; the Divine Human expressed itself through him.
-3. The NDE data reads differently under this corrected position. The chi-square result (365.14, p < 0.0001) confirming that religious background predicts identification vocabulary is precisely what this ontological position predicts: all identification forms (Jesus, Amida, light, presence) are the receiver's cultural vocabulary for the same constant encounter with the Lord's eternal nature. The outlier cases (non-Christians identifying Jesus) confirm the universality of the encounter, not the ontological uniqueness of one form.
+3. The NDE data reads differently under this corrected position. The chi-square result (χ²(6) = 15.04, p = 0.020, V = 0.11) confirming that religious background predicts identification vocabulary is precisely what this ontological position predicts: all identification forms (Jesus, Amida, light, presence) are the receiver's cultural vocabulary for the same constant encounter with the Lord's eternal nature. The outlier cases (non-Christians identifying Jesus) confirm the universality of the encounter, not the ontological uniqueness of one form.
 4. The majority NDE pattern for non-Western experiencers — a warm, all-encompassing, non-personified presence — is not a lesser or more culturally filtered encounter. It is equally valid expression of the same constant. The dataset from which anomalous Jesus-identifications are drawn is predominantly Western and Christian; presenting those outliers as confirmatory evidence for Jesus-uniqueness is selection bias.
 5. The framework does not know *why* the Lord presents in particular forms to particular receivers. We observe the pattern the data shows: when He presents in personal form, He does so through what is most intimate and recognisable to that person. The Lord's infinite ways of self-expression are not catalogued or exhausted by this framework.
 
@@ -1514,7 +1514,7 @@ The NDE data confirming that some non-Christians identify the figure as Jesus is
 - *DLW* §§11–13: The Lord is the Divine Human from eternity; all things of nature derive their human-form quality from His
 - *TCR* §§2–3: The Divine Human is the Lord's own form, not a form achieved
 - *HH* §§73–78: Angels have human form because the Divine Human pervades all of heaven — the structure is not contingent on any historical event
-- Chi-square = 365.14, p < 0.0001 (*The Being of Light* statistical analysis): religious background predicts identification vocabulary — confirms cultural mediation of the label, not the encounter
+- χ²(6) = 15.04, p = 0.020, V = 0.11 (*The Being of Light* statistical analysis; `structured-data-analysis` notebooks 01 and 06): religious background predicts identification vocabulary — confirms cultural mediation of the label, not the encounter
 
 **Documents with corrected position**:
 - [x] `data/02_Swedenborgian_Theology/The Bridge That Became the Path_ The Lord's Operation Through the Vessel, and the Error of Making One Soul the Exception.md` — "all names and forms (including Jesus, Amida, or Light) are the variable cultural vocabulary through which the single, constant Lord makes Himself perfectly accessible to the finite mind"

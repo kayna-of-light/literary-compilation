@@ -452,15 +452,15 @@ For an animator trained in Action Analysis, this creates a technical deadlock. T
 
 The "Mind is the Pilot" pedagogy requires that inner force drive outer form. In *Don Quixote*, the outer form actively refuses to be driven by the inner force. The landscape is **intractable**. This resistance makes the "animate landscape" impossible.
 
-The most revealing rejection occurred in the late 1990s. Paul and Gaëtan Brizzi produced "elaborate and immense storyboards" that "took the breath away of even the most jaded animators."² Executive Tom Schneider killed the project, citing precisely the structural issues: "episodic nature," difficulty creating "coherent dramatic narrative," and the team's "intense, dark, very adult" treatment that "frightened some of the suits."
+The most revealing rejection occurred in the late 1990s. Paul and Gaëtan Brizzi produced "elaborate and immense storyboards" that "took the breath away of even the most jaded animators."² Studio management killed the project, citing precisely the structural issues: "episodic nature," difficulty creating "coherent dramatic narrative," and the team's "intense, dark, very adult" treatment that "frightened some of the suits."
 
 ### 7.2 *Chanticleer* and the Delusional Self
 
-The abandoned project *Chanticleer*, based on Edmond Rostand's 1910 play, serves as a crucial test case. It features anthropomorphic animals—Disney's bread and butter—yet was rejected across three distinct eras (1930s, 1960s, 1980s).³
+The abandoned project *Chanticleer*, based on Edmond Rostand's 1910 play, serves as a crucial test case. It features anthropomorphic animals—Disney's bread and butter—yet was rejected across three distinct eras (1937–1941, 1960, 1981).³
 
-The story concerns a rooster who sincerely believes his crowing causes the sun to rise. It is a sophisticated satire of the artist's ego and the nature of belief. Walt Disney purchased the rights after *Snow White*'s success, but story men Ted Sears and Al Perkins returned with a grim prognosis: the material was "too highbrow" and they could not make the rooster a "sympathetic character." His vanity blocked audience connection.⁴
+The story concerns a rooster who sincerely believes his crowing causes the sun to rise. It is a sophisticated satire of the artist's ego and the nature of belief. Walt Disney considered it from 1937 and bought the rights in 1941, though story men Ted Sears and Al Perkins had questioned the purchase: the play was little known in America, the story would need extensive reworking, and Perkins condemned it as "highbrow."⁴
 
-The most significant attempt occurred in the early 1960s. Marc Davis and Ken Anderson—two of the Nine Old Men fresh from *101 Dalmatians*—spent months developing a new version, combining the Chanticleer story with Reynard the Fox folktales for conflict. They produced extensive concept art and pitched it as a "Broadway style musical."⁵ Walt's rejection was decisive: "You can't make a personality out of a chicken."⁶
+The most significant attempt occurred in the early 1960s. Marc Davis, one of the Nine Old Men, and Ken Anderson, both fresh from *101 Dalmatians*, spent a year developing a new version, combining the Chanticleer story with Reynard the Fox folktales for conflict. They produced extensive concept art and conceived it in the style of a big Broadway musical.⁵ Walt's own recorded objection was to the hero: "[you] don't feel like picking a rooster up and petting it." At the final presentation somebody in the room said, "You can't make a personality out of a chicken," and the business people walked out.⁶
 
 The pneumatological diagnosis is precise: *Chanticleer* fails because the protagonist embodies what Swedenborg called the **Self**—the false belief that life, intelligence, and power originate from oneself rather than flowing in from the Divine.⁷ Chanticleer believes *he* causes the sun to rise; he believes he is Cause and the universe is Effect.
 
@@ -509,9 +509,9 @@ The preceding sections have traced how the Disney environment accumulated Sweden
 
 The distinction between Core and Periphery was established by Walt Disney himself. Analysis of his involvement in productions during the 1950s and 1960s reveals a stark hierarchy of personal investment, exemplified by the contrast between *Sleeping Beauty* and *101 Dalmatians*.
 
-*Sleeping Beauty* (1959) was conceived as the studio's magnum opus—the ultimate expression of the animated fairy tale. Walt's involvement was obsessive. He personally championed the "moving illustration" aesthetic of Eyvind Earle, a style that was labor-intensive and expensive.¹ The film was in production for nearly a decade and cost $6 million—twice the budget of previous features.² Walt threw out entire sequences to improve the central romance, ensuring the narrative adhered to the high romantic ideal. The conflict is cosmic: Hell (Maleficent) versus Heaven (the Sword of Truth); the landscape is a moral agent. This was cathedral-building.
+*Sleeping Beauty* (1959) was conceived as the studio's magnum opus—the ultimate expression of the animated fairy tale. Its look was set by Eyvind Earle's lush, stylized widescreen backgrounds, a style so labor-intensive that it drove up the film's cost.¹ Planned for 1955 and released in January 1959, it cost $6 million—twice as much as the studio's three preceding features.² Walt held it to the standard of a painting in every frame, ensuring the narrative adhered to the high romantic ideal. The conflict is cosmic: Hell (Maleficent) versus Heaven (the Sword of Truth); the landscape is a moral agent. This was cathedral-building.
 
-When *Sleeping Beauty* underperformed financially, the studio pivoted to the Xerox process for *101 Dalmatians* (1961)—contemporary, secular (no magic, just a villainess with a car), and visually "sketchy." Walt *hated* the result. He told art director Ken Anderson that he had "sabotaged" the studio's style and that the "Disney magic" was gone.³ While *Dalmatians* was a financial savior, Walt viewed it as a compromise—commercial product necessary to pay the bills, not a representation of the studio's soul. He distanced himself from animation production in the 1960s, focusing on WED Enterprises (Imagineering), arguably because the animation department had drifted from the "High Church" style he valued.
+When *Sleeping Beauty* underperformed financially, the studio pivoted to the Xerox process for *101 Dalmatians* (1961)—contemporary, secular (no magic, just a villainess with a car), and visually "sketchy." Walt *hated* the result. Ken Anderson, who had shaped the film's look, remembered: "Walt hated the way I had done the film. Just hated it […] He took me off direction."³ While *Dalmatians* was a financial savior, Walt viewed it as a compromise—commercial product necessary to pay the bills, not a representation of the studio's soul. He distanced himself from animation production in the 1960s, focusing on WED Enterprises (Imagineering), arguably because the animation department had drifted from the "High Church" style he valued.
 
 This behavioral evidence establishes that Walt understood the distinction between Core and Periphery. He poured himself into the fairy tales; he delegated the comedies.
 
@@ -533,7 +533,7 @@ The visual branding of the Walt Disney Company maps this hierarchy. In 1985, the
 
 The symbol choice is significant. The company does not use Mickey Mouse, a filmstrip, or a pen as its theatrical logo. It uses the Castle—the residence of the Monarch, the site of the "High Church" narratives. This explicitly centers the fairy tale canon as the brand's identity.
 
-The theme parks reinforce this alignment. The central icon of every "Magic Kingdom" style park is a Fairy Tale Castle (*Cinderella* or *Sleeping Beauty*). There is no "101 Dalmatians Manor" or "Robin Hood's Tree" at the hub. The geographical centralization reflects the conceptual centralization: the fairy tales are the *axis mundi* of the Disney universe.
+The theme parks reinforce this alignment. The central icon of every "Magic Kingdom" style park is a Fairy Tale Castle. There is no "101 Dalmatians Manor" or "Robin Hood's Tree" at the hub. The geographical centralization reflects the conceptual centralization: the fairy tales are the *axis mundi* of the Disney universe.
 
 ### 8.4 *Wish* as Inverted Influx
 
@@ -545,9 +545,9 @@ By making the divine spark intrinsic to the biological self, the film collapses 
 
 ### 8.5 *Snow White* (2025) as Restoration
 
-The production of the live-action *Snow White* (2025) demonstrates the studio's capacity for self-correction. Initially, the production appeared poised to follow the *Wish* trajectory. Lead actress Rachel Zegler criticized the 1937 original, stating the new Snow White would not be "saved by the prince" or "dream about true love" but would be a "leader."¹⁰ This signaled movement toward the horizontal/secular/political.
+The production of the live-action *Snow White* (2025) demonstrates the studio's capacity for self-correction. Initially, the production appeared poised to follow the *Wish* trajectory. Lead actress Rachel Zegler criticized the 1937 original for its "big focus on her love story with a guy who literally stalks her," and said her Snow White would "be dreaming about becoming the leader she knows she can be."¹⁰ This signaled movement toward the horizontal/secular/political.
 
-Following the *Wish* failure, significant reshoots occurred.¹¹ Reports indicate a return to the 1937 framework: the Seven Dwarfs were reinstated as CGI characters, and the narrative arc was retooled to be less about "girlboss" leadership and more about preparation for a destiny—aligning with the Swedenborgian concept of Use rather than mere Power.¹²
+Following the *Wish* failure, significant reshoots occurred.¹¹ The production returned toward the 1937 framework: the Seven Dwarfs were reinstated as CGI characters, and Snow White's "Waiting on a Wish" frames her leadership as a desire for Use—aligning with the Swedenborgian concept of Use rather than mere Power.¹²
 
 This transition suggests that studio leadership recognized that you cannot secularize the Core without destroying it. The magic lies precisely in the vertical structure—the character reaching upward for help that descends from beyond the self.
 
@@ -555,7 +555,7 @@ This transition suggests that studio leadership recognized that you cannot secul
 
 The persistence of the Core is embedded in the studio's training infrastructure. The "Action Analysis" method, passed from Don Graham to the Nine Old Men to Walt Stanchfield to Glen Keane, maintained the capability to produce correspondential animation even during Dark Ages.¹³
 
-The application differed between Canon tiers. In secular films (*Aristocats*, *Robin Hood*), Action Analysis was used for *character acting*—making Prince John suck his thumb. It was psychological and behavioral. In fairy tales (*Beauty and the Beast*, *The Little Mermaid*), Action Analysis was applied to the *soul*. Glen Keane speaks of "drawing the soul of the Beast."¹⁴
+The application differed between Canon tiers. In secular films (*Aristocats*, *Robin Hood*), Action Analysis was used for *character acting*—making Prince John suck his thumb. It was psychological and behavioral. In fairy tales (*Beauty and the Beast*, *The Little Mermaid*), Action Analysis was applied to the *soul*. Glen Keane speaks of the Beast as a being who existed before he was drawn: "I have a strange belief that characters exist before I design them … I recognized him as if I'd always known him."¹⁴
 
 A secular Disney film animates *behavior*. A fairy tale Disney film animates *being*.
 
@@ -575,7 +575,7 @@ The evidence supports the following conclusions:
 
 2. **The American metaphysical milieu provided cultural saturation.** The Burned-Over District legacy, Theosophy, New Thought, and diffuse Swedenborgian influence had permeated American culture to the point where correspondential thinking was ambient rather than sectarian. Artists need not have read Swedenborg to think in Swedenborgian patterns; the culture supplied those patterns.
 
-3. **Action Analysis translated metaphysics into technique.** Don Graham's pedagogy—"draw the force, not the form"—operationalized Influx doctrine as animation method. This created a training filter that selected for correspondential capacity regardless of theological awareness.
+3. **Action Analysis translated metaphysics into technique.** Don Graham's pedagogy—"the artist is not drawing a form at all, but indicating a force"—operationalized Influx doctrine as animation method. This created a training filter that selected for correspondential capacity regardless of theological awareness.
 
 4. **Literary source material was pre-selected for compatibility.** The fairy tales of Grimm, Andersen, and Carroll—Disney's canonical sources—carried documented Swedenborgian transmission through Schelling, Ørsted, and MacDonald/Maurice. The studio gravitated toward this material because it was structurally compatible with the evolved animation method.
 

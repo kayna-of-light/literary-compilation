@@ -205,7 +205,7 @@ This path represents the resistance of the *self* (self-love). Its defining stra
    * *Theosophy:* Claims Jesus was merely a vehicle for the "Lord Maitreya" or an impersonal "Christos" principle.12  
    * *The Urantia Book:* Claims Jesus was "Michael of Nebadon," only one of 700,000 "Creator Sons," and explicitly *not* the Eternal Son.12  
 2. **Changing the Name:** Breaking the link to the "Lord in Ultimates" by renaming the figure.  
-   * *Ascended Masters:* Rebrands Jesus as "Sananda," a "Galactic Commander".12  
+   * *Ascended Masters:* Rebrands Jesus as "Sananda," the "Commander-in-Chief" of a flying saucer fleet.12  
    * *Billy Meier:* Claims the true prophet was "Jmmanuel," and the name Jesus is a fraud.12  
 3. **Sophisticated Gnosis:** Co-opting Christian language to deny the Incarnation.  
    * *A Course in Miracles:* Uses the voice of "Jesus" to teach that there is no separation and that "Christ" is the shared identity of all, effectively dissolving the unique Savior into a collective concept.12

@@ -63,7 +63,7 @@ The first and most prominent test case for the selfhood diagnosis is Paul's ubiq
 
 ### **3.1 Philological and Historical Context: The *Doulos* vs. *Diakonos***
 
-The Greek term *doulos* strictly means "slave," a person who is owned as property and lacks legal autonomy (Barnes 1848). This is distinct from *diakonos* (servant/minister), which implies a role of service that retains some agency. In the Roman context, slavery was often described as "social death"—a condition of absolute dishonor and vulnerability. By adopting this title, Paul appears to be engaging in radical self-negation.
+The Greek term *doulos* strictly means "slave," a person who is owned as property and lacks legal autonomy. This is distinct from *diakonos* (servant/minister), which implies a role of service that retains some agency. In the Roman context, slavery was often described as "social death"—a condition of absolute dishonor and vulnerability. By adopting this title, Paul appears to be engaging in radical self-negation.
 
 However, scholarship emphasizes that the status of a slave in antiquity was derivative of the master. This is the concept of the "Managerial Slave" (Martin 1990).
 
@@ -84,7 +84,7 @@ This rhetorical strategy effectively places Paul above human criticism. If he we
 How does this interact with the "selfhood" diagnosis? The framework argues that the self is characterized by the "love of dominion" (*Theological Forensic Analysis* §1). The *doulos* title, while linguistically humble, functions functionally as a tool of dominion.
 
 * **The mechanism:** By stripping himself of *personal* authority, Paul claims *absolute* authority. He creates a "diplomatic immunity" against the Jerusalem pillars. If Peter is a "free man" and Paul is a "slave of Christ," Paul can argue that his orders come from a higher source and cannot be countermanded by mere "flesh and blood" (*Damascus Divergence* §4.1).  
-* **Scholarship Verdict:** Rhetorical Strategy. Scholarship reads the *doulos* title as a claim to legitimate authority, not just an expression of piety: applied to "the officers that serve under a king," the word "is expressive of dignity and honor" (Barnes 1848), and slavery to a powerful master conferred status by association (Martin 1990).  
+* **Scholarship Verdict:** Rhetorical Strategy. Scholarship reads the *doulos* title as a claim to legitimate authority, not just an expression of piety: applied to "the officers that serve under a king," the word "is expressive of dignity and honour" (Barnes 1848), and slavery to a powerful master conferred status by association (Martin 1990).  
 * **Integration:** This confirms the framework’s suspicion. The humility is real in its vertical orientation (Paul likely genuinely felt subservient to his vision of Christ), but it is weaponized horizontally to establish a "self-derived" fiefdom where Paul is the sole interpreter of the Master’s will.
 
 ### **Table 1: Comparative Analysis of the "Slave" Title**
@@ -140,7 +140,7 @@ Paul’s opponents in Corinth boasted of "strength": rhetorical eloquence, lette
 Paul lists his "credentials": beatings, shipwrecks, sleeplessness, anxiety (2 Cor 11:23-28). He culminates with the story of his escape from Damascus in a basket—a humiliating image of a fugitive, contrasting with the Roman military award (*corona muralis*) for the first soldier *up* a wall (Gellius, *Noctes Atticae* 5.6.16).
 
 * **The Paradox of Power:** "When I am weak, then am I strong" (2 Cor 12:10). Paul argues that the weakness of the vessel proves the transcendent power of the treasure (2 Cor 4:7).  
-* **The Shechinah Glory:** Commentators note that the "power of Christ" resting on him (2 Cor 12:9) uses the verb *episkēnoō* ("to tabernacle"). Paul claims that his weakness makes him the site of the Divine Presence, like the Tent of Meeting: the verb pictures "the Shechinah or σκηνή, the glory which was the symbol of the Divine presence in the Holy of Holies, descending upon the faithful" (Bernard 1903).
+* **The Shechinah Glory:** Commentators note that the "power of Christ" resting on him (2 Cor 12:9) uses the verb *episkēnoō* ("to tabernacle"). Paul claims that his weakness makes him the site of the Divine Presence, like the Tent of Meeting: the verb pictures "the Shechinah or σκηνή, the glory which was the symbol of the Divine presence in the Holy of Holies, descending upon the faithful" (Bernard n.d., 112).
 
 ### **5.3 The Gnostic Connection: The "Thorn" and the "Third Heaven"**
 
@@ -260,7 +260,7 @@ The study reveals that the "Selfhood" diagnosis is a potent heuristic for decons
 **Scholarly Works:**
 
 4. Barnes, Albert. *Notes, Explanatory and Practical, on the Epistle to the Romans.* New York: Harper & Brothers, 1848.
-5. Bernard, J. H. "The Second Epistle of Paul to the Corinthians." In *The Expositor's Greek Testament*, edited by W. Robertson Nicoll, vol. 3. New York: Dodd, Mead and Company, 1903.
+5. Bernard, J. H. "The Second Epistle of Paul to the Corinthians." In *The Expositor's Greek Testament*, edited by W. Robertson Nicoll, vol. 3. New York: George H. Doran, n.d.
 6. Martin, Dale B. *Slavery as Salvation: The Metaphor of Slavery in Pauline Christianity.* New Haven: Yale University Press, 1990.
 
 **Internal Library Documents:**

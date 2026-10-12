@@ -93,7 +93,7 @@ Blavatsky’s distinction is a perfect modernization of the Gnostic split. She a
 
 This "Democratization of Divinity" is the key strategic goal of the self. As the *Architecture* argues (*Hidden Divinity* §4.1), by defining Christ as a principle rather than a person, Theosophy effectively states that "Christ" is not unique to Jesus. It is a potential inherent in everyone. Blavatsky writes, "Christ—the true esoteric Saviour—is no man, but the Divine Principle in every human being" (Blavatsky 1887–1888, quoted in Smoley 2023). This validates the *Architecture's* diagnosis: the Gnostic Impulse lowers Jesus to the status of a peer—an elder brother—to elevate the Self to the status of God.
 
-Later Theosophy gave the Christ a separate identity. Leadbeater taught that the World-Teacher, "the Christ, Who occupied the body of Jesus two thousand years ago," is a different being from "the disciple Jesus," now a Master in his own right (Leadbeater 1925); Alice Bailey identified the Christ with "the Lord Maitreya" and described his relation to individuals in history as one of "overshadowing" (Smoley 2023). This is a direct resurrection of the Valentinian heresy: two beings in one body, with the Divine using the human as a mouthpiece. It reinforces the *Selfhood's* refusal to accept that the *Human* can be *Divine*.
+Later Theosophy, particularly under Alice Bailey, introduced the "overshadowing" doctrine. Bailey taught that the Christ, "known also in the Orient as the Bodhisattva, and as the Lord Maitreya" (Bailey 1951, 43), "two thousand years ago overshadowed or worked through the Master Jesus" (Bailey 1948, 74), who is himself "an adept on the sixth ray" (Bailey 1951, 47). Leadbeater had put it more bluntly: the Christ "occupied the body of Jesus two thousand years ago" (Leadbeater 1925). This is a direct resurrection of the Valentinian heresy: two beings in one body, with the Divine using the human as a mouthpiece. It reinforces the *Selfhood's* refusal to accept that the *Human* can be *Divine*.
 
 ### **2.3 The "Cosmological Demotion": The Urantia Book and Ashtar Command**
 
@@ -117,11 +117,11 @@ This validates the *Architecture's* claim that Gnostic salvation is "self-realiz
 
 ### **3.2 The Sociology of "Self-Spirituality" and Narcissism**
 
-The *Architecture* links the Gnostic Impulse to the modern "Spiritual But Not Religious" (SBNR) movement, framing it as the modern form of the same self-deifying anthropology (*Hidden Divinity* §6.2). Sociological research by Paul Heelas, Linda Woodhead, and others strongly supports this validation. They characterize the "New Age" and SBNR movements as a "Spiritual Revolution" driven by the "massive subjective turn of modern culture" away from external authority (institutions, scriptures) toward inner experience (Heelas and Woodhead 2005, 2).
+The *Architecture* links the Gnostic Impulse to the modern "Spiritual But Not Religious" (SBNR) movement, framing it as the modern form of the same self-deifying anthropology (*Hidden Divinity* §6.2). Sociological research by Paul Heelas, Linda Woodhead, and others strongly supports this validation. They characterize the "New Age" and SBNR movements as a "Spiritual Revolution" driven by what Charles Taylor called "the massive subjective turn of modern culture" away from external authority (institutions, scriptures) toward inner experience (Heelas and Woodhead 2005, 2).
 
-This phenomenon is termed **"Self-Spirituality."** As Heelas notes, "To experience the 'Self' itself is to experience … 'inner spirituality'" (Heelas 1996, 19, quoted in Houtman and Aupers 2016). The central tenet is that the "True Self" is divine. This perfectly mirrors the Gnostic doctrine of the "Divine Spark"—the parallel the sociologists themselves draw, describing the belief that "in the deepest layers of the self the 'divine spark' – to borrow a term from ancient Gnosticism – is still smouldering" (Houtman and Aupers 2016). The individual trusts their own intuitions and experiences as the final arbiter of truth, rejecting "mediated" religion.
+This phenomenon is termed **"Self-Spirituality."** As Heelas notes, "To experience the 'Self' itself is to experience … 'inner spirituality'" (Heelas 1996, 19). The central tenet is that the "True Self" is divine. This perfectly mirrors the Gnostic doctrine of the "Divine Spark"—the parallel the sociologists themselves draw, describing the belief that "in the deepest layers of the self the 'divine spark' – to borrow a term from ancient Gnosticism – is still smouldering" (Houtman and Aupers 2008). The individual trusts their own intuitions and experiences as the final arbiter of truth, rejecting "mediated" religion.
 
-Transpersonal psychologists have a name for the danger in this focus on "self-realization": "spiritual narcissism," which they argue the movement must move beyond (Ferrer and Vickery 2018). By sacralizing the self, the individual removes any external standard of judgment. In Heelas's summary of the New Age, "the inner realm, and the inner realm alone, is held to serve as the source of authentic vitality, creativity, love, tranquillity, wisdom, power, authority" (Heelas 1996, 19, quoted in Houtman and Aupers 2016), effectively making the ego the god of its own narrative.
+Transpersonal psychologists have a name for the danger in this focus on "self-realization": "spiritual narcissism," "the misuse of spiritual practices, energies, or experiences to bolster self-centered ways of being" (Ferrer 2002), which they argue the movement must move beyond (Ferrer and Vickery 2018). By sacralizing the self, the individual removes any external standard of judgment. In Heelas's summary of the New Age, "the inner realm, and the inner realm alone, is held to serve as the source of authentic vitality, creativity, love, tranquillity, wisdom, power, authority" (Heelas 1996, 19), effectively making the ego the god of its own narrative.
 
 This creates the "closed loop of validation" described in the *Architecture* (*Hidden Divinity* §6.2). If "I am God," then my desires, impulses, and truths are divine. This obliterates the Swedenborgian distinction between the "internal man" (which receives from the Lord) and the "external man" (which is driven by the self). In the SBNR model, the self is simply relabeled as the "Higher Self," allowing the individual to worship their own reflection without guilt.
 
@@ -164,7 +164,7 @@ This validates the *Architecture's* analysis of the "Splitting" tactic (*Hidden 
 | :---- | :---- | :---- | :---- |
 | **Valentinianism** | Psychic/Material vessel; "Saved Savior." | Divine Aeon from Pleroma. | Christ descends at baptism, withdraws before the passion (Irenaeus, *Haer.* 1.7.2). |
 | **Theosophy** | "Philosopher and moral reformer"; Initiate/Master. | "Christos"; Impersonal Divine Principle. | Jesus realized the Principle; he is not the Principle (Blavatsky 1877; 1889). |
-| **Leadbeater and Bailey** | Disciple Jesus; Master of the Sixth Ray. | Lord Maitreya (World Teacher). | The Christ "occupied the body of Jesus"; two beings, one body (Leadbeater 1925; Smoley 2023). |
+| **Alice Bailey** | Disciple Jesus; Master of the Sixth Ray. | Lord Maitreya (World Teacher). | Maitreya "overshadowed" Jesus; two beings, one body (Bailey 1951, 43, 47; 1948, 74). |
 | **Urantia Book** | Incarnation of Michael (1 of 700k). | Eternal Son (2nd Person of Trinity). | Michael is *not* the Eternal Son; Jesus is a "Creator Son" (*Urantia Book* 21:0.3, 21:1.4). |
 | **A Course in Miracles** | "Elder brother"; Teacher; Illusion-buster. | Collective Sonship (All of us). | Jesus is just the first to wake up; we are all Christ (*ACIM*, Text, ch. 1). |
 | **Ashtar Command** | "Jesus-Sananda"; "Commander-in-Chief." | Cosmic Consciousness. | Renaming breaks the historical link; militarizes/technologizes the Savior (Tuella 1985). |
@@ -177,7 +177,7 @@ The *Architecture* document argues that the Gnostic Impulse leads to "Social Fra
 
 ### **5.1 The Collapse of Community (Babylon)**
 
-If truth is privatized—if "my gnosis" is the only valid authority—then there is no mechanism for shared reality. Swedenborg calls the self that would rule by means of religion "Babylon": "all who wish to have dominion by religion," over men's souls, "to the end that they may be worshiped as gods"—and its end is Babel's "confusion of lips" (*Last Judgment* §54; *Apocalypse Revealed* §753). The SBNR movement’s rejection of institutions in favor of "unmediated" experience leads to what sociologists call "expressive individualism" (Bellah et al. 1985, cited in Houtman and Aupers 2016).
+If truth is privatized—if "my gnosis" is the only valid authority—then there is no mechanism for shared reality. Swedenborg calls the self that would rule by means of religion "Babylon": "all who wish to have dominion by religion," over men's souls, "to the end that they may be worshiped as gods"—and its end is Babel's "confusion of lips" (*Last Judgment* §54; *Apocalypse Revealed* §753). The SBNR movement’s rejection of institutions in favor of "unmediated" experience leads to what sociologists call "religious individualism" or "Sheilaism," named after a woman who defined her faith as "Sheilaism. Just my own little voice" (Bellah et al. 1985, 221).
 
 This validates the *Architecture's* assertion that Gnosticism destroys the "body" of the community (*Hidden Divinity* §6.3). Without a shared "External Word" or a shared "Lord," there is no common ground. The result is a fragmentation into "niche" spiritualities, echo chambers, and the inability to form cohesive moral communities.
 
@@ -211,37 +211,40 @@ The report confirms that the "Incarnational" and "Gnostic" paths are indeed "Cla
 **Primary Sources:**
 
 1. *A Course in Miracles.* Combined volume, 3rd ed. Mill Valley, CA: Foundation for Inner Peace, 2007. Cited by chapter of the Text.
-2. Blavatsky, H. P. "The Esoteric Character of the Gospels." *Lucifer* 1 (1887–1888).
-3. Blavatsky, H. P. *Isis Unveiled: A Master-Key to the Mysteries of Ancient and Modern Science and Theology.* 2 vols. New York: J. W. Bouton, 1877.
-4. Blavatsky, H. P. *The Key to Theosophy.* London: Theosophical Publishing Company, 1889.
-5. *The Holy Bible.* King James Version.
-6. Irenaeus. *Against Heresies.* Translated by Alexander Roberts and William Rambaut. In *Ante-Nicene Fathers*, vol. 1, edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. Buffalo, NY: Christian Literature Publishing Co., 1885.
-7. Lambdin, Thomas O., trans. "The Gospel of Thomas (II,2)." In *The Nag Hammadi Library in English*, edited by James M. Robinson. 3rd rev. ed. San Francisco: HarperSanFrancisco, 1990.
-8. Leadbeater, C. W. *The Masters and the Path.* Chicago: Theosophical Press, 1925.
-9. Swedenborg, Emanuel. *Apocalypse Explained*. Translated by John C. Ager, revised by John Whitehead. Standard Edition. 6 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-10. Swedenborg, Emanuel. *Apocalypse Revealed*. Translated by John Whitehead. Standard Edition. 2 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-11. Swedenborg, Emanuel. *Arcana Coelestia*. Translated by John Clowes, revised and edited by John Faulkner Potts. Standard Edition. 12 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-12. Swedenborg, Emanuel. *Conversations with Angels*. In *Collected Minor Works*. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-13. Swedenborg, Emanuel. *Divine Love and Wisdom*. Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-14. Swedenborg, Emanuel. *Divine Providence*. Translated by William F. Wunsch. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-15. Swedenborg, Emanuel. *Doctrine of Life* and *Doctrine of the Lord*. In *The Four Doctrines*. Translated by John Faulkner Potts. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-16. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell*. Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-17. Swedenborg, Emanuel. *The Last Judgment*. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-18. Swedenborg, Emanuel. *Spiritual Experiences* (*The Spiritual Diary*). Translated by Buss. Academy of the New Church, e-swedenborg.com, 2000–2001. Cited by section number (§).
-19. Swedenborg, Emanuel. *True Christian Religion*. Translated by John C. Ager. Standard Edition. 2 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-20. Tuella, comp. *Ashtar: A Tribute.* Salt Lake City: Guardian Action Publications, 1985.
-21. *The Urantia Book.* Chicago: Urantia Foundation, 1955. Cited by paper, section and paragraph.
+2. Bailey, Alice A. *Initiation, Human and Solar.* New York: Lucis Trust, 1951. First published 1922.
+3. Bailey, Alice A. *The Reappearance of the Christ.* Index edition. New York: Lucis Publishing, 2018. First published 1948.
+4. Blavatsky, H. P. "The Esoteric Character of the Gospels." *Lucifer* 1 (1887–1888).
+5. Blavatsky, H. P. *Isis Unveiled: A Master-Key to the Mysteries of Ancient and Modern Science and Theology.* 2 vols. New York: J. W. Bouton, 1877.
+6. Blavatsky, H. P. *The Key to Theosophy.* London: Theosophical Publishing Company, 1889.
+7. *The Holy Bible.* King James Version.
+8. Irenaeus. *Against Heresies.* Translated by Alexander Roberts and William Rambaut. In *Ante-Nicene Fathers*, vol. 1, edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. Buffalo, NY: Christian Literature Publishing Co., 1885.
+9. Lambdin, Thomas O., trans. "The Gospel of Thomas (II,2)." In *The Nag Hammadi Library in English*, edited by James M. Robinson. 3rd rev. ed. San Francisco: HarperSanFrancisco, 1990.
+10. Leadbeater, C. W. *The Masters and the Path.* Chicago: Theosophical Press, 1925.
+11. Swedenborg, Emanuel. *Apocalypse Explained*. Translated by John C. Ager, revised by John Whitehead. Standard Edition. 6 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+12. Swedenborg, Emanuel. *Apocalypse Revealed*. Translated by John Whitehead. Standard Edition. 2 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+13. Swedenborg, Emanuel. *Arcana Coelestia*. Translated by John Clowes, revised and edited by John Faulkner Potts. Standard Edition. 12 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+14. Swedenborg, Emanuel. *Conversations with Angels*. In *Collected Minor Works*. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+15. Swedenborg, Emanuel. *Divine Love and Wisdom*. Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+16. Swedenborg, Emanuel. *Divine Providence*. Translated by William F. Wunsch. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+17. Swedenborg, Emanuel. *Doctrine of Life* and *Doctrine of the Lord*. In *The Four Doctrines*. Translated by John Faulkner Potts. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+18. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell*. Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+19. Swedenborg, Emanuel. *The Last Judgment*. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+20. Swedenborg, Emanuel. *Spiritual Experiences* (*The Spiritual Diary*). Translated by Buss. Academy of the New Church, e-swedenborg.com, 2000–2001. Cited by section number (§).
+21. Swedenborg, Emanuel. *True Christian Religion*. Translated by John C. Ager. Standard Edition. 2 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+22. Tuella, comp. *Ashtar: A Tribute.* Salt Lake City: Guardian Action Publications, 1985.
+23. *The Urantia Book.* Chicago: Urantia Foundation, 1955. Cited by paper, section and paragraph.
 
 **Scholarly Works:**
 
-22. Bellah, Robert N., Richard Madsen, William M. Sullivan, Ann Swidler, and Steven M. Tipton. *Habits of the Heart: Individualism and Commitment in American Life.* Berkeley: University of California Press, 1985.
-23. Ferrer, Jorge N., and William Z. Vickery. "Transpersonal Psychology and the Spiritual but Not Religious Movement: Beyond Spiritual Narcissism in a Postsecular Age." In *Being Spiritual but Not Religious: Past, Present, Future(s)*, edited by William B. Parsons, 219–235. London: Routledge, 2018.
-24. Heelas, Paul. *The New Age Movement: The Celebration of the Self and the Sacralization of Modernity.* Oxford: Blackwell, 1996.
-25. Heelas, Paul, and Linda Woodhead, with Benjamin Seel, Bronislaw Szerszynski, and Karin Tusting. *The Spiritual Revolution: Why Religion Is Giving Way to Spirituality.* Oxford: Blackwell, 2005.
-26. Houtman, Dick, and Stef Aupers. "The Spiritual Revolution and the New Age Gender Puzzle: The Sacralization of the Self in Late Modernity (1980–2000)." In *Women and Religion in the West: Challenging Secularization*, edited by Kristin Aune, Sonya Sharma, and Giselle Vincett, 111–130. London: Routledge, 2016.
-27. Smoley, Richard. "The Reappearance of the Christ." *Quest* 111, no. 3 (Summer 2023): 23–25.
+24. Bellah, Robert N., Richard Madsen, William M. Sullivan, Ann Swidler, and Steven M. Tipton. *Habits of the Heart: Individualism and Commitment in American Life.* Berkeley: University of California Press, 1985.
+25. Ferrer, Jorge N. *Revisioning Transpersonal Theory: A Participatory Vision of Human Spirituality.* Albany: State University of New York Press, 2002.
+26. Ferrer, Jorge N., and William Z. Vickery. "Transpersonal Psychology and the Spiritual but Not Religious Movement: Beyond Spiritual Narcissism in a Postsecular Age." In *Being Spiritual but Not Religious: Past, Present, Future(s)*, edited by William B. Parsons, 219–235. London: Routledge, 2018.
+27. Heelas, Paul. *The New Age Movement: The Celebration of the Self and the Sacralization of Modernity.* Oxford: Blackwell, 1996.
+28. Heelas, Paul, and Linda Woodhead, with Benjamin Seel, Bronislaw Szerszynski, and Karin Tusting. *The Spiritual Revolution: Why Religion Is Giving Way to Spirituality.* Oxford: Blackwell, 2005.
+29. Houtman, Dick, and Stef Aupers. "The Spiritual Revolution and the New Age Gender Puzzle: The Sacralization of the Self in Late Modernity (1980–2000)." In *Women and Religion in the West: Challenging Secularization*, edited by Kristin Aune, Sonya Sharma, and Giselle Vincett. Aldershot: Ashgate, 2008. Reissued London: Routledge, 2016, 111–130.
+30. Smoley, Richard. "The Reappearance of the Christ." *Quest* 111, no. 3 (Summer 2023): 23–25.
 
 **Internal Library Documents:**
 
-28. [A Comparative Analysis of Non-Religious Christologies: The Battle for the 'Lord in Ultimates'](../03_Biblical_Scholarship/A%20Comparative%20Analysis%20of%20Non-Religious%20Christologies_%20The%20Battle%20for%20the%20'Lord%20in%20Ultimates'.md). The Path of Gnosis and its tactics of splitting, renaming and demotion, with the *Urantia* and *A Course in Miracles* material this report validates.
-29. [The Architecture of Hidden Divinity: A Comprehensive Profile of the Gnostic Impulse and Its Historical Mechanics](The%20Architecture%20of%20Hidden%20Divinity_%20A%20Comprehensive%20Profile%20of%20the%20Gnostic%20Impulse%20and%20Its%20Historical%20Mechanics.md). The profile of the Gnostic Impulse whose theses this report tests section by section.
+31. [A Comparative Analysis of Non-Religious Christologies: The Battle for the 'Lord in Ultimates'](../03_Biblical_Scholarship/A%20Comparative%20Analysis%20of%20Non-Religious%20Christologies_%20The%20Battle%20for%20the%20'Lord%20in%20Ultimates'.md). The Path of Gnosis and its tactics of splitting, renaming and demotion, with the *Urantia* and *A Course in Miracles* material this report validates.
+32. [The Architecture of Hidden Divinity: A Comprehensive Profile of the Gnostic Impulse and Its Historical Mechanics](The%20Architecture%20of%20Hidden%20Divinity_%20A%20Comprehensive%20Profile%20of%20the%20Gnostic%20Impulse%20and%20Its%20Historical%20Mechanics.md). The profile of the Gnostic Impulse whose theses this report tests section by section.

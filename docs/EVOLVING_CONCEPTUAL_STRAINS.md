@@ -401,8 +401,8 @@ Statistical analysis **validates** the "constant state, variable form" principle
 Physicalist resurrection appearances (touching wounds, eating fish) treated as original apostolic experience.
 
 **Documents reflecting earlier position** (ANNOTATED 2026-01-26):
-- [x] `data/05_The_Self/The Paradox of the Pneumatic Ego.md`
-- [x] `data/02_Swedenborgian_Theology/The Divine Human in Ultimates_ A Phenomenological and Theological Profile of the Actual Jesus of Love.md`
+- [x] `data/05_The_Self/The Paradox of the Pneumatic Ego_ A Forensic Analysis of Pauline Humility, Rhetorical Strategy, and the Theology of Selfhood.md`
+- [x] `data/02_Swedenborgian_Theology/The Divine Human in Ultimates_ A Phenomenological and Forensic Re-Evaluation of the Aligned Soul.md`
 
 #### Critically Analyzed Position
 Recognition of **progressive materialization** in the textual tradition:
@@ -412,23 +412,32 @@ Recognition of **progressive materialization** in the textual tradition:
 | Paul (1 Cor 15) | ~55 CE | "Spiritual body" (σῶμα πνευματικόν) |
 | Mark | ~70 CE | Empty tomb, NO appearances |
 | Matthew | ~80 CE | Brief appearance, worship |
-| Luke | ~85 CE | Flesh and bones, eating (later additions) |
+| Luke | ~85 CE | Hands and feet shown (24:40, a Western non-interpolation); flesh and bones (24:39); eating fish (24:41–43) |
 | John | ~90-100 CE | Doubting Thomas, physical wounds |
 
-**Western Non-Interpolations**: Later additions identified by Westcott-Hort scholarship.
+**Western Non-Interpolations**: passages absent from Codex Bezae (D) and the Old Latin that Westcott and Hort judged to be later additions to every other text. Their list is Matt 27:49, Luke 22:19b–20, and Luke 24:3, 6, 12, 36, 40, 51, 52 (Westcott and Hort 1882, Introduction §§240, 383; Appendix, 71–72).
+
+**What the textual evidence supports for Luke 24:36–43**:
+- **24:40** ("he showed them his hands and his feet") is a Western non-interpolation: omitted by D, the Old Latin and the Old Syriac (NA28 apparatus, 290). Marcion's text of it is unattested (Roth 2015, 26, 78).
+- **24:39** ("flesh and bones") is in D, which reads "bones and flesh" (NA28, 290). It is not a Western non-interpolation. In Marcion's Gospel the verse read "a spirit has not bones, as you see me having" (Tertullian, *Marc.* 4.43.6–7; Epiphanius, *Pan.* 42.11.6, scholion 78), and "flesh and" may not have been present (Roth 2015, 345–46, 435; NA28 cites Marcion for the omission).
+- **24:41–43** (the request for food and the fish) is in every manuscript, including 𝔓75, ℵ, A, B and D (NA28, 290). Only "and of an honeycomb" in 24:42 is a later addition (Westcott and Hort 1882, Appendix, 72). Marcion's Gospel had the scene: Jesus "asked them for food, so as to show that he even had teeth" (Tertullian, *Marc.* 4.43.8), and he ate the fish (Eznik, *De deo* 407; Roth 2015, 268, 409, 436).
+
+So of the physical proofs only 24:40 has manuscript evidence of being added. Reading the eating as a later layer rests on redaction-critical argument (anti-Docetic motive), not on manuscripts or on Marcion's text.
+
+Sources: Westcott, B. F., and F. J. A. Hort. *The New Testament in the Original Greek.* Vol. 2, *Introduction and Appendix*. New York: Harper & Brothers, 1882. · *Novum Testamentum Graece.* 28th rev. ed. Stuttgart: Deutsche Bibelgesellschaft, 2012. · Roth, Dieter T. *The Text of Marcion's Gospel.* NTTSD 49. Leiden: Brill, 2015. · Tertullian, *Adversus Marcionem*, ed. and trans. Ernest Evans. Oxford: Oxford University Press, 1972.
 
 **Original experience**: The "Living One" (ὁ ζῶν)—spiritual appearance, not resuscitated corpse.
 
 **Documents with critical analysis**:
-- [x] `data/03_Biblical_Scholarship/Resurrection Narrative Evolution in New Testament.md`
-- [x] Documents on Western Non-Interpolations
+- [x] `data/03_Biblical_Scholarship/The Anatomy of Ascension_ A Critical-Historical and Phenomenological Reconstruction of the Resurrection Narrative from Pauline Pneumatology to the.md`
+- [x] `data/03_Biblical_Scholarship/What the Apparatus Cannot See_ Translation, Selection, and the Concretising Drift Beneath the Christological Text.md` (§3.4, the Western Non-Interpolations)
 
 #### Annotation Template
 ```markdown
 > **[CRITICAL ANALYSIS: Resurrection]** This section accepts physicalist appearances as original.
 > Textual analysis shows progressive materialization: Paul's "spiritual body" → 
-> Luke/John's flesh-and-bones. Western Non-Interpolations are later additions.
-> See "Resurrection Narrative Evolution in New Testament" for detailed analysis.
+> Luke/John's flesh-and-bones. Of Luke's physical proofs, only the showing of hands and feet (24:40)
+> is a Western Non-Interpolation. See *The Anatomy of Ascension* for detailed analysis.
 ```
 
 ---

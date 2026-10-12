@@ -2534,6 +2534,24 @@ In *Cosmic Cradle* (2013), do the authors or their informants describe pre-birth
 
 ---
 
+## Logged by the nightly source audit, 2026-10-12
+
+---
+
+### [NLM] *Wish* (2023) — is "We are our own origin story" a line in the film or in "I'm a Star"?
+
+**Priority**: MEDIUM
+**Related Documents**: `data/07_Cultural_Pneumatology/The Inverted Influx_ The Profanation of Correspondence and the Deification of Self in Disney's Wish.md` (where the lyric is quoted with "we're all shareholders"); quoted from it in *The Crown and the Comedy*, *The Glass Church and the Magic Mirror*, *The Mirror and the Star*, *The Animating Spirit: A Cultural History*, and two `00_Master_Theses` documents (*The River and the Vessel*, *The Beast That Wears the Lamb*)
+
+**Context**: Six library documents quote *Wish* as concluding "We are our own origin story," and *The Inverted Influx* gives it as a lyric of "I'm a Star" (Julia Michaels and Benjamin Rice). The 2026-10-12 audit could not reach the lyric or a transcript: Genius and the lyric wikis return 403, AZLyrics serves no text, and search summaries will not quote lyrics. The rest of the documents' reading of the song (stardust, "I'm a Star") is not in question; only whether these exact words are sung or spoken.
+
+**Research Question**:
+Does the song "I'm a Star" (or any dialogue in *Wish*, 2023) contain the words "We are our own origin story" and "When it comes to the universe, we're all shareholders"? If not, what are the closest actual words, so the six documents can quote them?
+
+**Status**: Open
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

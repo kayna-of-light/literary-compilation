@@ -4,7 +4,7 @@
 
 The historiography of the Walt Disney Studio is frequently reduced to a linear narrative of technological progression, moving from the synchronization of sound in *Steamboat Willie* to the multiplane camera of the Golden Age, the xerography of the Silver Age, and finally the digital revolution of the modern era. While valid, this technocratic lens obscures a more profound, structural tension that has defined the studio’s identity for a century: the oscillation between the **Sacred** (the correspondential fairy tale) and the **Secular** (the situational comedy).
 
-This report posits that the "Disney Identity" is not a monolith but a hierarchy. At the apex sits the **Fairy Tale Canon** (*Snow White and the Seven Dwarfs* [1937], *Cinderella*, *Sleeping Beauty*, *The Little Mermaid*, *Beauty and the Beast*, *Frozen*). These films serve as the studio's "High Church" liturgy, encoding the specific Swedenborgian metaphysics of "Inner Force driving Outer Form"—the "active substrate" identified in internal pneumatological audits.1 These narratives function as secular scriptures where the natural world acts as a moral mirror to the spiritual state of the protagonist, adhering to the Doctrine of Correspondences where spiritual causes precipitate natural effects.
+This report posits that the "Disney Identity" is not a monolith but a hierarchy. At the apex sits the **Fairy Tale Canon** (*Snow White and the Seven Dwarfs* [1937], *Cinderella*, *Sleeping Beauty*, *The Little Mermaid*, *Beauty and the Beast*, *Frozen*). These films serve as the studio's "High Church" liturgy, encoding the specific Swedenborgian metaphysics of "Inner Force driving Outer Form"—the "active substrate" identified in the library's studies of the studio (*The Invisible Influx*). These narratives function as secular scriptures where the natural world acts as a moral mirror to the spiritual state of the protagonist, adhering to the Doctrine of Correspondences where spiritual causes precipitate natural effects.
 
 Below this tier lies the **Secular Canon** (*Dumbo*, *101 Dalmatians*, *The Aristocats*, *Robin Hood*, *Zootopia*). These productions, while commercially successful and culturally beloved, operate on a fundamentally different ontological plane. They are "Low Church" entertainments—comedies of manners, picaresque adventures, or anthropomorphic sitcoms. They lack the "cosmic verticality" of the fairy tales; their environments are static backdrops rather than reactive spiritual barometers, and their conflicts are social or material rather than metaphysical or regenerative.
 
@@ -14,15 +14,15 @@ This dynamic is currently visible in the studio's centennial crisis. The critica
 
 ## **II. The Architecture of the Core: Defining the Swedenborgian Substrate**
 
-To distinguish the "Core" from the "Peripheral," we must first rigorously define the metaphysical architecture that underpins the Fairy Tale Canon. As detailed in the foundational document *The Animating Spirit* 1, the "Disney Style" of the Golden Age was a secularized application of Emanuel Swedenborg’s theology, specifically the **Doctrine of Influx**.
+To distinguish the "Core" from the "Peripheral," we must first rigorously define the metaphysical architecture that underpins the Fairy Tale Canon. As detailed in the foundational document *The Animating Spirit*, the "Disney Style" of the Golden Age was a secularized application of Emanuel Swedenborg’s theology, specifically the **Doctrine of Influx**.
 
 ### **2.1 The Physics of Ensoulment**
 
-Swedenborgian cosmology posits that the natural world is dead until animated by an influx from the spiritual world. "The body’s activity in speech or deed is only an effect from the external and internal of man’s spirit, for the body is so much obedience".2 In the context of animation, this was translated by Don Graham and Walt Disney into the principle of "Action Analysis": the animator must not draw the *motion* (the external form) but the *emotion* (the internal force) that drives it.
+Swedenborgian cosmology posits that the natural world is dead until animated by an influx from the spiritual world. "The body’s activity in speech or deed is only an effect from the external and internal of man’s spirit, for the body is so much obedience" (*Divine Providence* §103). In the context of animation, this was translated by Don Graham and Walt Disney into the principle of "Action Analysis": the animator must not draw the *motion* (the external form) but the *emotion* (the internal force) that drives it.
 
 In the **Fairy Tale Canon**, this principle extends beyond character animation to the environment itself. This is the **Animate Landscape**:
 
-* In *Snow White and the Seven Dwarfs* (1937), the forest is not a collection of trees; it is a manifestation of the Princess’s terror. The logs become crocodiles; the branches become grasping hands. The environment *corresponds* to her internal state.3  
+* In *Snow White and the Seven Dwarfs* (1937), the forest is not a collection of trees; it is a manifestation of the Princess’s terror. The logs become crocodiles; the branches become grasping hands. The environment *corresponds* to her internal state (*The Mirror and the Void* §2.3).  
 * In *Sleeping Beauty* (1959), the kingdom’s physical state (thorns vs. flowers) is directly causal to the presence of Maleficent (Self-Love) or the Fairies (Charity).  
 * In *Beauty and the Beast* (1991), the castle is a living organism that evolves from gothic gloom to rococo gold as the Beast’s soul regenerates.
 
@@ -42,50 +42,50 @@ The distinction between the Core and the Peripheral was established by Walt Disn
 
 ### **3.1 The Cathedral of Animation: *Sleeping Beauty* (1959)**
 
-*Sleeping Beauty* was conceived as the studio’s magnum opus, the ultimate expression of the animated fairy tale. Walt’s involvement was obsessive. He personally championed the "moving illustration" aesthetic of Eyvind Earle, a style that was incredibly labor-intensive and expensive.4
+*Sleeping Beauty* was conceived as the studio’s magnum opus, the ultimate expression of the animated fairy tale. Its look was set by Eyvind Earle's lush, detailed and stylized widescreen backgrounds, a style so labor-intensive that it drove up the film's cost (Walt Disney Family Museum 2022).
 
-* **The Investment**: The film was in production for nearly a decade (1951–1959) and cost $6 million—twice the budget of previous features.5  
-* **The Intent**: Walt demanded that the film be a "perfect" work of art, treating each frame as a painting. He famously threw out entire sequences by director Wilfred Jackson to improve the central romance, ensuring the narrative adhered to the high romantic/spiritual ideal.4  
+* **The Investment**: Planned for release in 1955, the film did not reach theaters until January 1959 (Barrier 1999), and it cost $6 million—twice as much as *Alice in Wonderland*, *Peter Pan* and *Lady and the Tramp* (Walt Disney Family Museum 2022).  
+* **The Intent**: Walt held the film to the standard of a painting in every frame, whatever the delay and expense, ensuring the narrative adhered to the high romantic/spiritual ideal.  
 * **The Substrate**: The film is deeply correspondential. The conflict is cosmic (Hell/Maleficent vs. Heaven/Sword of Truth). The landscape is a moral agent. This was Walt building a cathedral.
 
 ### **3.2 The Secular Revolt: *101 Dalmatians* (1961)**
 
-Following the financial disappointment of *Sleeping Beauty*, the studio faced a crisis. The solution was the Xerox process, pioneered by Ub Iwerks, which eliminated the hand-inking stage and allowed animators' rough pencil lines to be transferred directly to cels.6
+Following the financial disappointment of *Sleeping Beauty*—it grossed $5.3 million on its $6 million budget—the studio faced a crisis (Walt Disney Family Museum 2022). The solution was the Xerox process, developed by Ub Iwerks, which eliminated the hand-inking stage and allowed animators' drawings to be transferred directly to cels (Walt Disney Family Museum 2022).
 
-* **The Shift**: *101 Dalmatians* was the first feature to fully utilize this method. It was contemporary, secular (no magic, just a villainess with a car), and visually "sketchy".5  
-* **Walt’s Rejection**: Crucially, Walt Disney *hated* the artistic style of *101 Dalmatians*. He felt the xerox lines were "messy" and lacked the "fantasy" and refinement of the Disney signature.7 He famously told Ken Anderson (art director) that he had "sabotaged" the studio's style and that the "Disney magic" was gone.8  
-* **The Implications**: While *Dalmatians* was a financial savior (costing only $3.6 million and grossing heavily), Walt viewed it as a compromise—a necessary secular product to pay the bills, but not a representation of the studio’s soul. He distanced himself from animation production in the 60s, focusing on WED Enterprises (Imagineering), arguably because the animation department had moved away from the "High Church" style he valued.5
+* **The Shift**: *101 Dalmatians* was the first feature to fully utilize this method. It was contemporary, secular (no magic, just a villainess with a car), and visually "sketchy" (Walt Disney Family Museum 2022).  
+* **Walt’s Rejection**: Crucially, Walt Disney *hated* the artistic style of *101 Dalmatians*. To him the Xerox process destroyed the illusion of life that finely inked characters created; as Ken Anderson recalled, Walt "didn't like anything to show lines." Anderson, who had shaped the film's look, felt Walt's displeasure for years: "Walt hated the way I had done the film. Just hated it […] He took me off direction" (Walt Disney Family Museum 2022).  
+* **The Implications**: While *Dalmatians* was a financial savior (made on a relatively low budget, it grossed $14 million), Walt viewed it as a compromise—a necessary secular product to pay the bills, but not a representation of the studio’s soul (Walt Disney Family Museum 2022). He distanced himself from animation production in the 60s, focusing on WED Enterprises (Imagineering), arguably because the animation department had moved away from the "High Church" style he valued.
 
 ### **3.3 The Final Approval: *The Aristocats***
 
-*The Aristocats* (1970) further illustrates this drift. While it was the last project Walt officially approved before his death in 1966 9, his involvement was minimal compared to the fairy tales. He viewed it as a "situation comedy" with animals, akin to the *True-Life Adventures*, rather than a mythic narrative.10 Under Wolfgang Reitherman’s direction, the film became a "scrappy," low-budget affair, recycling animation from *Dalmatians* and *Jungle Book* to cut costs.11 The "soul" was replaced by "personality animation"—entertaining, but spiritually inert.
+*The Aristocats* (1970) further illustrates this drift. It was the last animated feature Walt put into development before his death in 1966, and the first made without his comprehensive involvement (Walt Disney Family Museum 2025). It began in 1961 among the animal stories Walt asked for in the vein of *Greyfriars Bobby*, *Perri* and the *True-Life Adventures*—a live-action television film rather than a mythic narrative—and when it became an animated feature in 1964 Walt's direction was that it "should follow the same tack as *Dalmatians*" (Walt Disney Family Museum 2025). Under Wolfgang Reitherman’s direction after Walt's death, the story was simplified and its characters pared down; Ollie Johnston recalled that "it wasn't a real cartoon story. It was a live-action story, full of live-action characters" (Walt Disney Family Museum 2025). The "soul" was replaced by "personality animation"—entertaining, but spiritually inert.
 
 **Conclusion for Section III**: Walt’s own behavior established the canon. He poured his soul into the fairy tales (*Snow White*, *Cinderella*, *Sleeping Beauty*) and treated the comedies (*Dalmatians*, *Aristocats*) as commercial necessities. The "Core Identity" was explicitly tied to the labor-intensive, spiritually resonant aesthetic of the fairy tale.
 
 ## **IV. The "Renaissance" Pattern: Revival as Return to Liturgy (1989–1999)**
 
-The "Disney Renaissance" (1989–1999) provides the strongest historical evidence for the "Fairy Tale as Core" hypothesis. Following the "Dark Age" of the 1970s and 80s—a period dominated by secular adventures (*The Rescuers*, *Fox and the Hound*, *The Great Mouse Detective*)—the studio was on the brink of liquidation or being sold off.12 The revival was not achieved by making better comedies; it was achieved by a deliberate, structural return to the Fairy Tale Musical.
+The "Disney Renaissance" (1989–1999) provides the strongest historical evidence for the "Fairy Tale as Core" hypothesis. Following the "Dark Age" of the 1970s and 80s—a period dominated by secular adventures (*The Rescuers*, *Fox and the Hound*, *The Great Mouse Detective*)—the studio was on the brink of liquidation or being sold off (Crow 2017). The revival was not achieved by making better comedies; it was achieved by a deliberate, structural return to the Fairy Tale Musical.
 
 ### **4.1 The Howard Ashman Intervention**
 
-The architect of this return was Howard Ashman. Ashman, a playwright and lyricist, understood that the Disney "magic" was structural, not just aesthetic. He imposed a Broadway musical structure onto the animation, re-introducing the "I Want" song—a secularized prayer where the protagonist articulates their internal ruling love to the cosmos.13
+The architect of this return was Howard Ashman. Ashman, a playwright and lyricist, understood that the Disney "magic" was structural, not just aesthetic. He imposed a Broadway musical structure onto the animation, re-introducing the "I Want" song (Crow 2017)—a secularized prayer where the protagonist articulates their internal ruling love to the cosmos.
 
-* **The Little Mermaid (1989)**: This was the first fairy tale adaptation in 30 years (since *Sleeping Beauty*). It explicitly restored the "Vertical" dimension: Ariel looks *up* to the surface (Heaven/Humanity) and sings "Part of Your World" (a prayer for elevation).13  
-* **The Execs vs. The Creatives**: Jeffrey Katzenberg, representing the secular/commercial instinct, famously tried to cut "Part of Your World," believing it would bore children.13 Glen Keane and the creative team fought to keep it, intuitively understanding that without this "prayer," the film had no spiritual engine. The triumph of the creatives preserved the Swedenborgian substrate (Inner Force driving Outer Form).
+* **The Little Mermaid (1989)**: This was the first fairy tale adaptation in 30 years (since *Sleeping Beauty*). It explicitly restored the "Vertical" dimension: Ariel looks *up* to the surface (Heaven/Humanity) and sings "Part of Your World" (a prayer for elevation).  
+* **The Execs vs. The Creatives**: Jeffrey Katzenberg, representing the secular/commercial instinct, famously tried to cut "Part of Your World": it was too slow, he argued, and it was losing the children (Animation Obsessive 2025). Howard Ashman and the creative team fought to keep it, intuitively understanding that without this "prayer," the film had no spiritual engine. The triumph of the creatives preserved the Swedenborgian substrate (Inner Force driving Outer Form).
 
 ### **4.2 Beauty and the Beast as High Mass**
 
 *Beauty and the Beast* (1991) solidified the Renaissance by doubling down on the "Sacred." It is a story of *Regeneration*—the transformation of a Beast (Natural Man/Selfhood) into a Prince (Spiritual Man) through Love (Charity).
 
-* **The Environment**: The castle serves as the externalized soul of the Beast. As he falls in love, the castle becomes lighter, warmer, and more "human." This is pure Swedenborgian correspondence.14  
+* **The Environment**: The castle serves as the externalized soul of the Beast. As he falls in love, the castle becomes lighter, warmer, and more "human." This is pure Swedenborgian correspondence (*The Diffracted Light*).  
 * **The Recognition**: This film became the first animated feature nominated for Best Picture, validating the "High Church" strategy. It proved that when Disney commits to the metaphysical weight of the fairy tale, it achieves cultural dominance that its comedies (*Oliver & Company*) can never reach.
 
 ### **4.3 The Secular Drift of the Late 90s/2000s**
 
 As the Renaissance waned, the studio drifted back toward secular comedies and action-adventures (*Hercules*, *Emperor’s New Groove*, *Atlantis*, *Treasure Planet*, *Home on the Range*).
 
-* **The Result**: A second "Dark Age." The films were competent but culturally ephemeral. They lacked the "heart" and "soul" identified by executives and audiences alike.15  
-* **The Revival (2010s)**: The studio only "found itself" again by returning to the fairy tale with *Tangled* (2010) and *Frozen* (2013). *Frozen*, in particular, re-engaged the "Animate Landscape" (snow/ice responding to Elsa’s emotion) and the "Sacred" themes of love and sacrifice, resulting in another massive cultural moment.14
+* **The Result**: A second "Dark Age." The films were competent but culturally ephemeral. They lacked the "heart" and "soul" identified by executives and audiences alike.  
+* **The Revival (2010s)**: The studio only "found itself" again by returning to the fairy tale with *Tangled* (2010) and *Frozen* (2013). *Frozen*, in particular, re-engaged the "Animate Landscape" (snow/ice responding to Elsa’s emotion) and the "Sacred" themes of love and sacrifice, resulting in another massive cultural moment (*The Diffracted Light*).
 
 **Pattern**: The studio breathes when it tells fairy tales; it holds its breath when it tells jokes.
 
@@ -95,15 +95,15 @@ The visual branding of the Walt Disney Company offers a semiotic map of its self
 
 ### **5.1 The 1985 Logo Adoption**
 
-Prior to 1985, Disney films opened with a simple title card: "Walt Disney Productions Presents." In 1985, coinciding with the release of *The Black Cauldron* (a failed attempt at high fantasy) and the arrival of Michael Eisner, the studio introduced the iconic **Castle Logo**.16
+Prior to 1985, Disney films opened with a simple title card: "Walt Disney Productions Presents." In 1985, with the release of *The Black Cauldron* (a failed attempt at high fantasy), the year after Michael Eisner's arrival, the studio introduced the iconic **Castle Logo** (Walker 2015; Crow 2017).
 
-* **The Symbol**: The logo features a white silhouette of a fairy-tale castle (a hybrid of Neuschwanstein, Cinderella Castle, and Sleeping Beauty Castle) with a shooting star arcing over it.16  
+* **The Symbol**: The logo features a white silhouette of a fairy-tale castle with a shooting star arcing over it (Walker 2015).  
 * **The Timing**: This occurred during the nadir of the animation department, just before the Renaissance. It was a declarative statement of identity. By centering the Castle (the ultimate symbol of the fairy tale), the new leadership (Eisner/Wells) was signaling a commitment to the "Core," even if the films hadn't caught up yet.  
 * **The Implication**: The company does not use Mickey Mouse, a filmstrip, or a pen as its theatrical logo. It uses the Castle—the residence of the Monarch, the site of the "High Church" narratives. This choice explicitly centers the fairy tale canon as the brand's identity, relegating Mickey and the secular comedies to the periphery of the corporate image.
 
 ### **5.2 Iconography of the Parks**
 
-This alignment is mirrored in the theme parks. The central icon of every "Magic Kingdom" style park is a Fairy Tale Castle (*Cinderella* or *Sleeping Beauty*). There is no "101 Dalmatians Manor" or "Robin Hood’s Tree" at the hub. The "Hub" (spiritual center) is always the Castle.17 This geographic centralization reinforces the idea that the fairy tales are the *axis mundi* of the Disney universe.
+This alignment is mirrored in the theme parks. The central icon of every "Magic Kingdom" style park is a Fairy Tale Castle; at Walt Disney World it is Cinderella Castle, "the crown jewel" of the resort (Miller 2021). There is no "101 Dalmatians Manor" or "Robin Hood’s Tree" at the hub. The "Hub" (spiritual center) is always the Castle. This geographic centralization reinforces the idea that the fairy tales are the *axis mundi* of the Disney universe.
 
 ## **VI. The Crisis of the Centennial: *Wish* (2023) as The Inverted Influx**
 
@@ -111,15 +111,15 @@ The release of *Wish* in 2023, marketed as the culmination of 100 years of Disne
 
 ### **6.1 The Hollow Cathedral**
 
-*Wish* was explicitly designed to celebrate the legacy. It is an origin story for the "Wishing Star." However, as detailed in *The Inverted Influx* 18, the film performs a **Theological Inversion** of the traditional Disney metaphysics.
+*Wish* was explicitly designed to celebrate the legacy. It is an origin story for the "Wishing Star." However, as detailed in *The Inverted Influx*, the film performs a **Theological Inversion** of the traditional Disney metaphysics.
 
-* **Internal vs. External**: In the classic canon (*Pinocchio*), the Wish is a prayer directed to an external Providence (The Blue Fairy/Star). The source of power is transcendent. In *Wish*, the film concludes that "We are our own origin story" and that the power comes from "stardust" within us.18  
+* **Internal vs. External**: In the classic canon (*Pinocchio*), the Wish is a prayer directed to an external Providence (The Blue Fairy/Star). The source of power is transcendent. In *Wish*, the film concludes that "We are our own origin story" and that the power comes from "stardust" within us (*The Inverted Influx*).  
 * **The Profanation**: By making the divine spark intrinsic to the biological self ("I'm a Star"), the film collapses the "Vertical" tension that drives the fairy tales. There is no need for regeneration or aid from above; there is only self-actualization.  
-* **The Consequences**: The film was a critical and commercial failure. Audiences and critics described it as "hollow," "soulless," and "AI-generated".15 It had the *aesthetic* of the Core (castles, stars, magic) but the *theology* of modern secular narcissism (Self-Worship). It failed because it tried to run "High Church" liturgy with "Low Church" theology.
+* **The Consequences**: The film was a critical and commercial failure, one of the studio's "misfires" of 2023 (Siegel 2024). Critics called it the studio "at their most soulless," a first draft spat out by "an AI system" (Jones 2023), and "a weird pastiche, with some pretty animation, but very little heart" (Nicolosi 2023). It had the *aesthetic* of the Core (castles, stars, magic) but the *theology* of modern secular narcissism (Self-Worship). It failed because it tried to run "High Church" liturgy with "Low Church" theology.
 
 ### **6.2 The Executive Response**
 
-The failure of *Wish* sent shockwaves through the studio. Executives like Jennifer Lee had championed the film as a tribute to the legacy.20 Its rejection by the public forced a reckoning. Bob Iger’s subsequent comments about needing to "entertain not message" and focusing on "quality over quantity" 21 can be read as an admission that the studio had lost its metaphysical moorings. The "message" (modern identity politics/self-empowerment) had suffocated the "magic" (correspondential storytelling).
+The failure of *Wish* sent shockwaves through the studio. Executives like Jennifer Lee, chief creative officer of Walt Disney Animation Studios, had championed the film as a tribute to the legacy (Walt Disney Company 2022). Its rejection by the public forced a reckoning. Bob Iger’s subsequent comments—"Creators lost sight of what their No. 1 objective needed to be. … We have to entertain first. It’s not about messages" (Siegel 2024)—can be read as an admission that the studio had lost its metaphysical moorings. The "message" (modern identity politics/self-empowerment) had suffocated the "magic" (correspondential storytelling).
 
 ## **VII. The Restoration: *Snow White* (2025) as Liturgical Correction**
 
@@ -127,15 +127,15 @@ The production of the live-action *Snow White*, slated for 2025, appears to be t
 
 ### **7.1 The Departure (2022-2023)**
 
-Initially, the production seemed poised to follow the *Wish* trajectory. Lead actress Rachel Zegler famously criticized the 1937 original, stating that the prince was a "stalker" and that the new Snow White would not be "saved by the prince" or "dream about true love," but would be a "leader".22 This rhetoric signaled a move toward the horizontal/secular/political and away from the vertical/romantic/mythic.
+Initially, the production seemed poised to follow the *Wish* trajectory. Lead actress Rachel Zegler famously criticized the 1937 original for its "big focus on her love story with a guy who literally stalks her," and said her Snow White would "be dreaming about becoming the leader she knows she can be" (Waxman 2025). This rhetoric signaled a move toward the horizontal/secular/political and away from the vertical/romantic/mythic.
 
 ### **7.2 The Course Correction (2024-2025)**
 
-Following the backlash and the failure of *Wish*, significant reshoots and narrative shifts occurred.23
+Following the backlash, the release was delayed by nearly a year, to March 2025, and after the failure of *Wish* a further round of reshoots took place in London (Ruimy 2024).
 
-* **Return to Correspondence**: Reports indicate a return to the 1937 framework. The "Bandits" (secular/political allies) were minimized or recontextualized, and the **Seven Dwarfs** (mythic/correspondential beings) were reinstated as CGI characters.24  
-* **The Resurrection of the Prince**: While the character is renamed "Jonathan" (meaning "God-given"), he functions structurally as the Prince—the "Truth" that allies with the "Good" (Snow White) to overthrow the "Evil" (Queen). The narrative arc of "Waiting on a Wish" was retooled to be less about "girlboss" leadership and more about "active preparation" for a destiny, aligning with the Swedenborgian concept of *Use* rather than just *Power*.25  
-* **The Mirror and the Void**: The analysis in *The Mirror and the Star* 25 suggests that the 2025 film elevates the Magic Mirror to a site of *Divine Judgment* and the Queen’s death to a *Spiritual Vastation* (being consumed by the Void), restoring the high theological stakes that *Wish* lacked.
+* **Return to Correspondence**: The production returned toward the 1937 framework. Disney's plan to replace the dwarfs with "magical creatures" was reversed after the backlash, and the **Seven Dwarfs** (mythic/correspondential beings) were reinstated as CGI characters (Ruimy 2024; Waxman 2025).  
+* **The Resurrection of the Prince**: While the prince is replaced by "Jonathan" (meaning "God-given"), an outlaw who steals from the Queen to feed the poor, he functions structurally as the Prince—the "Truth" that allies with the "Good" (Snow White) to overthrow the "Evil" (Queen). Snow White's "I Want" song, "Waiting on a Wish," frames her leadership as a desire for *Use* rather than just *Power* (*The Mirror and the Star*).  
+* **The Mirror and the Void**: The analysis in *The Mirror and the Star* suggests that the 2025 film elevates the Magic Mirror to a site of *Divine Judgment* and the Queen’s death to a *Spiritual Vastation* (being consumed by the Void), restoring the high theological stakes that *Wish* lacked.
 
 This transition from a "Modernized/Secularized" remake to a "Traditional/Mythic" restoration suggests that the studio leadership realized that you cannot secularize the Core without destroying it. To save the brand, they had to return to the "High Church."
 
@@ -145,17 +145,17 @@ The persistence of the "Swedenborgian Substrate" is not just a matter of executi
 
 ### **8.1 Action Analysis: The Seminary of Animation**
 
-The "Action Analysis" classes initiated by Don Graham in the 1930s were the seminary where the "religion" of Disney animation was taught.26 The core tenet—"The Mind is the Pilot"—is a direct application of Influx.
+The "Action Analysis" classes initiated by Don Graham in the 1930s were the seminary where the "religion" of Disney animation was taught. The core tenet—"the mind is the pilot," in Walt's memo to Graham (Disney, 23 December 1935)—is a direct application of Influx.
 
-* **Pedagogical Continuity**: This training did not disappear. It was passed down from the Nine Old Men (Eric Larson) to the new generation (Walt Stanchfield, Glen Keane) in the 1970s and 80s.27  
-* **Walt Stanchfield’s Lectures**: Stanchfield’s notes (compiled in *Drawn to Life*) explicitly use metaphysical language: "The Inner Force," "Gestural Symbolism," "Draw verbs, not nouns".29 This ensured that even during the "Dark Age" of secular films, the *capability* to produce correspondential animation was preserved in the workforce, ready to be reactivated for *The Little Mermaid*.
+* **Pedagogical Continuity**: This training did not disappear. In the 1970s and 80s it was passed down from the Nine Old Men to a new generation: Eric Larson led the studio's program for recruiting and mentoring young animators, and Glen Keane learned under Ollie Johnston (Walt Disney Family Museum 2020; Walt Disney Family Museum 2018).  
+* **Walt Stanchfield’s Lectures**: Stanchfield’s class handouts (compiled in *Drawn to Life*) explicitly use metaphysical language: "The Inner Force," "Draw Verbs, Not Nouns" (Animation Meat n.d.; Stanchfield n.d.). This ensured that even during the "Dark Age" of secular films, the *capability* to produce correspondential animation was preserved in the workforce, ready to be reactivated for *The Little Mermaid*.
 
 ### **8.2 Secular vs. Sacred Training**
 
 While the training was universal, its application differed.
 
 * **Secular Application**: In *Aristocats* or *Robin Hood*, "Action Analysis" was used for *character acting*—making Prince John thumb his ear or suck his thumb. It was psychological and behavioral.  
-* **Sacred Application**: In *Beauty and the Beast* or *The Little Mermaid*, "Action Analysis" was applied to the *soul*. Glen Keane speaks of "drawing the soul" of the Beast.30 The training allowed animators to externalize deep spiritual states (Ariel’s yearning, Beast’s despair) in a way that mere "acting" does not cover.  
+* **Sacred Application**: In *Beauty and the Beast* or *The Little Mermaid*, "Action Analysis" was applied to the *soul*. Glen Keane speaks of the Beast as a being who existed before he was drawn: "I have a strange belief that characters exist before I design them … Suddenly, Beast appeared, and I said, 'There he is, that's him!' I recognized him as if I'd always known him" (Walt Disney Family Museum 2018). The training allowed animators to externalize deep spiritual states (Ariel’s yearning, Beast’s despair) in a way that mere "acting" does not cover.  
 * **The Difference**: A secular Disney film animates *behavior*. A fairy tale Disney film animates *being*.
 
 ## **IX. Conclusion: The Swedenborgian Substrate IS the Disney Identity**
@@ -183,35 +183,41 @@ Disney is a company that sells "Magic." But this analysis reveals that "Magic," 
 
 The "Disney Difference" is the "Active Substrate." Without it, the studio is just another animation house. With it, it is the secular church of the 20th century.
 
-#### **Works cited**
+## X. Works Cited
 
-1. The Animating Spirit: A Genealogical and Pneumatological Exegesis of Swedenborgian Thought in the Walt Disney Studio, [https://drive.google.com/open?id=1q5lOPrXvBm58-FrnBy5jQkDlL-pyTtK-67JtqA-suUY](https://drive.google.com/open?id=1q5lOPrXvBm58-FrnBy5jQkDlL-pyTtK-67JtqA-suUY)  
-2. The Animating Spirit\_ A Genealogical and Pneumatological Exegesis of Swedenborgian Thought in the Walt Disney Studio.pdf, [https://drive.google.com/open?id=1B6yJ7b44A02tuRoHobK0e\_GmDa7ipiwY](https://drive.google.com/open?id=1B6yJ7b44A02tuRoHobK0e_GmDa7ipiwY)  
-3. The Mirror and the Void: An Archival and Pneumatological Exegesis of the Rejected Adaptations of the Walt Disney Studio, [**The Mirror and the Void: An Archival and Pneumatological Exegesis of the Rejected Adaptations of the Walt Disney Studio**](The%20Mirror%20and%20the%20Void_%20An%20Archival%20and%20Pneumatological%20Exegesis%20of%20the%20Rejected%20Adaptations%20of%20the%20Walt%20Disney%20Studio.md)  
-4. Reel Rumbles: Sleeping Beauty vs One Hundred and One Dalmatians \- flickchart: the blog, accessed on February 1, 2026, [https://www.flickchart.com/blog/reel-rumbles-sleeping-beauty-vs-one-hundred-and-one-dalmatians/](https://www.flickchart.com/blog/reel-rumbles-sleeping-beauty-vs-one-hundred-and-one-dalmatians/)  
-5. The Making and Impact of One Hundred and One Dalmatians, accessed on February 1, 2026, [https://www.waltdisney.org/blog/making-101-dalmatians](https://www.waltdisney.org/blog/making-101-dalmatians)  
-6. Puppies Everywhere\! How 'One Hundred and One Dalmatians' Saved Disney, accessed on February 1, 2026, [https://www.thevintagenews.com/2021/06/22/one-hundred-and-one-dalmatians/](https://www.thevintagenews.com/2021/06/22/one-hundred-and-one-dalmatians/)  
-7. TIL at the time of 101 Dalmations' production there was talk about closing Disney's animation department because of the wildly expensive an under-performing Sleeping Beauty. The production of Dalmations was cut in half because of a modified Xerox machine. : r/todayilearned \- Reddit, accessed on February 1, 2026, [https://www.reddit.com/r/todayilearned/comments/3m5fy3/til\_at\_the\_time\_of\_101\_dalmations\_production/](https://www.reddit.com/r/todayilearned/comments/3m5fy3/til_at_the_time_of_101_dalmations_production/)  
-8. Walt Disney Hated 101 Dalmatians\! \- YouTube, accessed on February 1, 2026, [https://www.youtube.com/watch?v=kpgSBYrxx5o](https://www.youtube.com/watch?v=kpgSBYrxx5o)  
-9. The Seeds of a Legacy: Walt Disney and The Aristocats, accessed on February 1, 2026, [https://www.waltdisney.org/blog/seeds-legacy-walt-disney-and-aristocats](https://www.waltdisney.org/blog/seeds-legacy-walt-disney-and-aristocats)  
-10. A Walt Disney Production: “The Aristocats” \- Film Knife \- WordPress.com, accessed on February 1, 2026, [https://filmknife.wordpress.com/2020/12/24/a-walt-disney-production-the-aristocats/](https://filmknife.wordpress.com/2020/12/24/a-walt-disney-production-the-aristocats/)  
-11. Wolfgang Reitherman \- Wikipedia, accessed on February 1, 2026, [https://en.wikipedia.org/wiki/Wolfgang\_Reitherman](https://en.wikipedia.org/wiki/Wolfgang_Reitherman)  
-12. The Disney Renaissance: The Rise & Fall of a Generational Touchstone | Den of Geek, accessed on February 1, 2026, [https://www.denofgeek.com/culture/the-disney-renaissance-the-rise-fall-of-a-generational-touchstone/](https://www.denofgeek.com/culture/the-disney-renaissance-the-rise-fall-of-a-generational-touchstone/)  
-13. Part of Your World \- Wikipedia, accessed on February 1, 2026, [https://en.wikipedia.org/wiki/Part\_of\_Your\_World](https://en.wikipedia.org/wiki/Part_of_Your_World)  
-14. The Diffracted Light\_ From Universal Correspondence to Cultural Metaphor in the Disney Studio.pdf, [**The Diffracted Light: From Universal Correspondence to Cultural Metaphor in the Disney Studio**](The%20Diffracted%20Light_%20From%20Universal%20Correspondence%20to%20Cultural%20Metaphor%20in%20the%20Disney%20Studio.md)  
-15. Screenwriting : My thoughts on Disney's Wish by Brian Smith \- Stage 32, accessed on February 1, 2026, [https://www.stage32.com/lounge/screenwriting/My-thoughts-on-Disneys-Wish](https://www.stage32.com/lounge/screenwriting/My-thoughts-on-Disneys-Wish)  
-16. Disney Logo Evolution: From 1923 to Today's Iconic Castle \- Looka, accessed on February 1, 2026, [https://looka.com/blog/disney-logo/](https://looka.com/blog/disney-logo/)  
-17. Cinderella Castle History: A Look Through the Years \- Disney Parks Blog, accessed on February 1, 2026, [https://disneyparksblog.com/wdw/walt-disney-world-memories-cinderella-castle-through-the-years/](https://disneyparksblog.com/wdw/walt-disney-world-memories-cinderella-castle-through-the-years/)  
-18. The Inverted Influx\_ The Profanation of Correspondence and the Deification of Self in Disney's Wish.pdf, [**The Inverted Influx: The Profanation of Correspondence and the Deification of Self in Disney's *Wish***](The%20Inverted%20Influx_%20The%20Profanation%20of%20Correspondence%20and%20the%20Deification%20of%20Self%20in%20Disney's%20Wish.md)  
-19. Wish (film) \- Wikipedia, accessed on February 1, 2026, [https://en.wikipedia.org/wiki/Wish\_(film)](https://en.wikipedia.org/wiki/Wish_\(film\))  
-20. New Details About Disney 100 Years of Wonder Revealed to Fans During D23 Expo, accessed on February 1, 2026, [https://thewaltdisneycompany.com/news/new-details-about-disney-100-years-of-wonder-revealed-to-fans-during-d23-expo/](https://thewaltdisneycompany.com/news/new-details-about-disney-100-years-of-wonder-revealed-to-fans-during-d23-expo/)  
-21. Disney CEO Bob Iger Says Their Mission Is to 'Entertain' Not Send 'Messaging' as Snow White Sales Compete for Worst-Performing Live-Action Disney Adaptation Ever \- Barchart.com, accessed on February 1, 2026, [https://www.barchart.com/story/news/31552489/disney-ceo-bob-iger-says-their-mission-is-to-entertain-not-send-messaging-as-snow-white-sales-compete-for-worst-performing-live-action-disney-adaptation-ever](https://www.barchart.com/story/news/31552489/disney-ceo-bob-iger-says-their-mission-is-to-entertain-not-send-messaging-as-snow-white-sales-compete-for-worst-performing-live-action-disney-adaptation-ever)  
-22. All the Controversies Surrounding Disney's Snow White Remake \- Time Magazine, accessed on February 1, 2026, [https://time.com/7267440/snow-white-disney-rachel-zegler-gal-gadot/](https://time.com/7267440/snow-white-disney-rachel-zegler-gal-gadot/)  
-23. Disney's 'Snow White' Undergoing More Reshoots \- World of Reel, accessed on February 1, 2026, [https://www.worldofreel.com/blog/2024/6/24/disneys-snow-white-undergoing-more-reshoots](https://www.worldofreel.com/blog/2024/6/24/disneys-snow-white-undergoing-more-reshoots)  
-24. Disney has almost completely rewritten its live-action Snow White film, with extensive reshoots. The movie has been delayed by a full year from March 22, 2024 to March 21, 2025\. Among the things that ended up on the cutting room floor are the “diverse” dwarves, replaced now with CGI dwarves. : r \- Reddit, accessed on February 1, 2026, [https://www.reddit.com/r/JordanPeterson/comments/17i0gj9/disney\_has\_almost\_completely\_rewritten\_its/](https://www.reddit.com/r/JordanPeterson/comments/17i0gj9/disney_has_almost_completely_rewritten_its/)  
-25. The Mirror and the Star\_ A Comparative Pneumatology of Disney's Wish and Snow White (2025).pdf, [The Mirror and the Star: A Comparative Pneumatology of Disney's *Wish* and *Snow White* (2025)](The%20Mirror%20and%20the%20Star_%20A%20Comparative%20Pneumatology%20of%20Disney's%20Wish%20and%20Snow%20White%20(2025).md)  
-26. Don Graham's Animation Force Analysis | PDF | Drawing \- Scribd, accessed on February 1, 2026, [https://www.scribd.com/document/141374426/Don-Graham-Notes-on-animation](https://www.scribd.com/document/141374426/Don-Graham-Notes-on-animation)  
-27. Walt Stanchfield | Disney Wiki \- Fandom, accessed on February 1, 2026, [https://disney.fandom.com/wiki/Walt\_Stanchfield](https://disney.fandom.com/wiki/Walt_Stanchfield)  
-28. On Being Mentored in the “Mouse House” by Eric Larson, One of Disney's Nine Old Men, accessed on February 1, 2026, [https://www.waltdisney.org/blog/eric-larson](https://www.waltdisney.org/blog/eric-larson)  
-29. Walt Stanchfield \- Animation Meat, accessed on February 1, 2026, [https://www.animationmeat.com/notes/waltstanchfield/waltstanchfield.html](https://www.animationmeat.com/notes/waltstanchfield/waltstanchfield.html)  
-30. Make Believe: The World of Glen Keane | The Walt Disney Family Museum, accessed on February 1, 2026, [https://www.waltdisney.org/blog/make-believe-world-glen-keane](https://www.waltdisney.org/blog/make-believe-world-glen-keane)
+**Primary Sources:**
+
+1. Disney, Walt. Inter-office communication to Don Graham, December 23, 1935. Reproduced in Shamus Culhane, *Talking Animals and Other People* (New York: Da Capo Press, 1998), 117–127, and in Walt Stanchfield, "The Disney Tradition," September 24, 1995, http://www.animationmeat.com/pdf/nineoldmen/MemoFromWalt.pdf.
+2. Stanchfield, Walt. *Gesture Drawing for Animation.* Edited by Leo Brodie. Compilation of Walt Disney Feature Animation class handouts. http://www.floobynooby.com/ICAN3211/Gesture_Drawing_for_Animation.pdf.
+3. Swedenborg, Emanuel. *Divine Providence* (*Angelic Wisdom concerning Divine Providence*). Translated by William F. Wunsch. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+
+**Scholarly Works:**
+
+4. Barrier, Michael. *Hollywood Cartoons: American Animation in Its Golden Age.* New York: Oxford University Press, 1999.
+
+**Internal Library Documents:**
+
+5. [The Animating Spirit: A Cultural History of Swedenborgian Thought at the Walt Disney Studio](The%20Animating%20Spirit_%20A%20Cultural%20History%20of%20Swedenborgian%20Thought%20at%20the%20Walt%20Disney%20Studio.md). The library's synthesis of the "Disney Style" as a secularized application of the Doctrine of Influx, from the 1935 memo and Action Analysis onward.
+6. [The Diffracted Light: From Universal Correspondence to Cultural Metaphor in the Disney Studio](The%20Diffracted%20Light_%20From%20Universal%20Correspondence%20to%20Cultural%20Metaphor%20in%20the%20Disney%20Studio.md). The correspondential reading of the castle in *Beauty and the Beast* and of the ice in *Frozen* as the protagonist's state made visible.
+7. [The Inverted Influx: The Profanation of Correspondence and the Deification of Self in Disney's *Wish*](The%20Inverted%20Influx_%20The%20Profanation%20of%20Correspondence%20and%20the%20Deification%20of%20Self%20in%20Disney's%20Wish.md). The analysis of *Wish* as an inversion of influx: the source of power moved from the star above to "stardust" within.
+8. [The Invisible Influx: The Structural and Historical Persistence of Swedenborgian Thought in the Walt Disney Studio](The%20Invisible%20Influx_%20The%20Structural%20and%20Historical%20Persistence%20of%20Swedenborgian%20Thought%20in%20the%20Walt%20Disney%20Studio.md). Source of the "active substrate" concept applied here to the Fairy Tale Canon.
+9. [The Mirror and the Star: A Comparative Pneumatology of Disney's *Wish* and *Snow White* (2025)](The%20Mirror%20and%20the%20Star_%20A%20Comparative%20Pneumatology%20of%20Disney's%20Wish%20and%20Snow%20White%20(2025).md). The reading of Jonathan, "Waiting on a Wish," the Magic Mirror and the Queen's end in the 2025 *Snow White*.
+10. [The Mirror and the Void: An Archival and Pneumatological Exegesis of the Rejected Adaptations of the Walt Disney Studio](The%20Mirror%20and%20the%20Void_%20An%20Archival%20and%20Pneumatological%20Exegesis%20of%20the%20Rejected%20Adaptations%20of%20the%20Walt%20Disney%20Studio.md). The "animate landscape" as the studio's selection criterion, with the *Snow White* forest as its model.
+
+**Web Sources:**
+
+11. Animation Meat. "Walt Stanchfield." Index of Walt Stanchfield's Disney class handouts. https://www.animationmeat.com/notes/waltstanchfield/waltstanchfield.html.
+12. Animation Obsessive Staff. "Going for Popcorn." *Animation Obsessive*, April 18, 2025. https://animationobsessive.substack.com/p/going-for-popcorn.
+13. Crow, David. "The Disney Renaissance: The Rise & Fall of a Generational Touchstone." *Den of Geek*, March 17, 2017. https://www.denofgeek.com/culture/the-disney-renaissance-the-rise-fall-of-a-generational-touchstone/.
+14. Jones, Rendy. "'Wish' Review: Disney's Centennial Celebratory Flick is the Studio at Their Most Soulless to Date." *Rendy Reviews*, November 22, 2023. https://www.rendyreviews.com/movie-reviews/wish-review.
+15. Miller, Steven. "Walt Disney World Memories: Cinderella Castle Through the Years." *Disney Parks Blog*, September 5, 2021. https://disneyparksblog.com/wdw/walt-disney-world-memories-cinderella-castle-through-the-years/.
+16. Nicolosi, Barbara. "Disney's 'Wish' Unfulfillment." *National Catholic Register*, December 5, 2023. https://ncregister.com/features/disney-s-wish-unfulfillment.
+17. Ruimy, Jordan. "Disney's 'Snow White' Undergoing More Reshoots." *World of Reel*, June 24, 2024. https://www.worldofreel.com/blog/2024/6/24/disneys-snow-white-undergoing-more-reshoots.
+18. Siegel, Tatiana. "Disney Got Its Groove Back With 'Moana 2,' but Troubled 'Snow White' Could Halt the Momentum." *Variety*, December 4, 2024. https://variety.com/2024/film/news/disney-success-moana-2-trouble-snow-white-looms-1236234842/.
+19. Walker, RV. "The Disney Logo: A Brief History of Its Evolution and Variations." *Nerdist*, March 28, 2015. https://nerdist.com/article/the-disney-logo-a-brief-history-of-its-evolution-and-variations/.
+20. The Walt Disney Company. "New Details About Disney 100 Years of Wonder Revealed to Fans During D23 Expo." September 12, 2022. https://thewaltdisneycompany.com/news/new-details-about-disney-100-years-of-wonder-revealed-to-fans-during-d23-expo/.
+21. The Walt Disney Family Museum. "Make Believe: The World of Glen Keane." March 7, 2018. https://www.waltdisney.org/blog/make-believe-world-glen-keane.
+22. The Walt Disney Family Museum. "On Being Mentored in the 'Mouse House' by Eric Larson, One of Disney's Nine Old Men." March 12, 2020. https://www.waltdisney.org/blog/eric-larson.
+23. The Walt Disney Family Museum. "The Making and Impact of *One Hundred and One Dalmatians*." March 21, 2022. https://www.waltdisney.org/blog/making-101-dalmatians.
+24. The Walt Disney Family Museum. "The Seeds of a Legacy: Walt Disney and *The Aristocats*." September 8, 2025. https://www.waltdisney.org/blog/seeds-legacy-walt-disney-and-aristocats.
+25. Waxman, Olivia B. "All the Controversies Surrounding Disney's *Snow White* Remake." *Time*, March 13, 2025. https://time.com/7267440/snow-white-disney-rachel-zegler-gal-gadot/.

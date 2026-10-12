@@ -1534,7 +1534,7 @@ The NDE data confirming that some non-Christians identify the figure as Jesus is
 **Header note** (for documents treating "Divine Human" as Christological title):
 
 ```markdown
-> **[CORRECTION #24]**: This document treats "Divine Human" as a Christological title — something the Lord became through, or that is uniquely identified with, Jesus. The corrected position (*DLW* §§11–13): the Lord is the Divine Human from eternity; the Incarnation expressed this eternal nature in ultimates, it did not originate it. All identification forms (Jesus, Amida, light, presence) are the receiver's cultural vocabulary for the same constant encounter. The NDE statistical data (χ² = 365.14, p < 0.0001) confirms cultural mediation of identification vocabulary — what varies is the name; what is constant is the encounter. See *The Bridge That Became the Path*.
+> **[CORRECTION #24]**: This document treats "Divine Human" as a Christological title — something the Lord became through, or that is uniquely identified with, Jesus. The corrected position (*DLW* §§11–13): the Lord is the Divine Human from eternity; the Incarnation expressed this eternal nature in ultimates, it did not originate it. All identification forms (Jesus, Amida, light, presence) are the receiver's cultural vocabulary for the same constant encounter. The NDE statistical data (χ²(6) = 15.04, p = 0.020, V = 0.11) confirms cultural mediation of identification vocabulary — what varies is the name; what is constant is the encounter. See *The Bridge That Became the Path*.
 ```
 
 ---

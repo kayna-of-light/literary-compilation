@@ -223,7 +223,7 @@ The **location** of cancer indicates which spiritual function is affected. Swede
 |--------------|-------------------------|--------|
 | Reproductive | Creative/generative faculty | AC §5050-5062 |
 | Digestive | Processing/assimilation of truth | AC §5173-5175 |
-| Blood/Lymphatic | Life force, truth circulation | AC §4227, DLW §423 |
+| Blood/Lymphatic | Life force, truth circulation | DLW §§380, 423 |
 | Respiratory | Faith/reception of truth | AC §3883-3896 |
 | Brain/Nervous | Understanding, perception | DLW §365-367 |
 | Heart | Will, love | DLW §378-381 |

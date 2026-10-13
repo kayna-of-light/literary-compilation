@@ -136,7 +136,7 @@ Parabolic material yields full element-by-element correspondential depth. The Go
 
 Narrative material — birth stories, physical resurrection proofs, post-70 CE siege details — yields only doctrinal citation. Swedenborg uses these passages to establish theological points but does not open them element-by-element. The gradient is not functional but **compositional**: the parables were composed by people who possessed the correspondential key; the narratives were composed by editors serving institutional-theological programs.
 
-This test maps precisely onto the compositional boundary between the proto-Lukan tradition and its canonical redaction. Proto-Lukan material (the parables, the Sermon on the Plain) decodes. Canonical additions (birth narratives, "flesh and bones," eating fish) do not. The correspondential depth test is therefore an independent validation tool for the Proto-Luke reconstruction — and a diagnostic tool for assessing what Marcion's canon contains and lacks.
+This test maps precisely onto the compositional boundary between the proto-Lukan tradition and its canonical redaction. Proto-Lukan material (the parables, the Sermon on the Plain) decodes. Narrative additions (birth narratives, the touching and the "flesh" of Luke 24:39) do not. Parables that Marcion's text lacked decode as well — the Good Samaritan and the Prodigal Son (§5.2 below) — so the test separates parable from narrative more sharply than it separates Marcion's text from the canonical one. The correspondential depth test is therefore an independent validation tool for the Proto-Luke reconstruction — and a diagnostic tool for assessing what Marcion's canon contains and lacks.
 
 ---
 
@@ -261,7 +261,7 @@ The *Evangelion* also preserves the core Markan narrative backbone (exorcisms, h
 
 ### 5.2 What Marcion's Gospel Lacks: The Regeneration Parables
 
-The absences are equally significant. Two parables that yield the deepest correspondential depth in Swedenborg's analysis — the **Good Samaritan** (Luke 10:25–37) and the **Prodigal Son** (Luke 15:11–32) — are unattested in the *Evangelion*. The **Temptation narrative** (Luke 4:1–13), the **Triumphal Entry** (Luke 19:28–44), and the **Parable of the Wicked Tenants** (Luke 20:9–18) are also absent.
+The absences are equally significant. Two parables that yield the deepest correspondential depth in Swedenborg's analysis — the **Good Samaritan** (Luke 10:29–37) and the **Prodigal Son** (Luke 15:11–32) — are not in the *Evangelion*: Epiphanius reports that it lacked "the whole parable of the two sons" (*Pan.* 42.11.6, sch. 42), and neither he nor Tertullian cites the Samaritan, both closing the lawyer's exchange at 10:28. The **Temptation narrative** (Luke 4:1–13), the **Triumphal Entry** (Luke 19:28–44), and the **Parable of the Wicked Tenants** (Luke 20:9–18) are also absent.
 
 Under the New Marcionite Paradigm, these absences may reflect the state of the text Marcion received — proto-Luke as it circulated in Gentile communities — rather than deliberate editorial removal. BeDuhn's "Myth of Marcion as Redactor" (2012) argues that no consistent editorial principle explains all the absences, and that many can be attributed to normal textual variation in early manuscripts. Klinghardt notes that 41–43% of Lukan Sondergut is absent from the *Evangelion* compared to only 12% of synoptic-parallel material — consistent with Luke having added this special material later, not Marcion having removed it.
 

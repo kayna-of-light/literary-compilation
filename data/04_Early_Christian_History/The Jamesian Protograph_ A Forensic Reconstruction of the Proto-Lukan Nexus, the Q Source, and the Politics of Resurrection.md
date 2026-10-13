@@ -6,7 +6,7 @@ The historical-critical investigation into the origins of the New Testament Gosp
 
 This report undertakes a rigorous feasibility study of an alternative, unified hypothesis: that the document scholars have reconstructed as "Q" was not a fragmented sayings list, but a coherent, pre-canonical gospel—a **Proto-Luke**—that served as the primary source for both Matthew and the canonical Luke. Furthermore, this investigation tests the radical proposition that this Proto-Luke was not a Pauline or Gentile creation, as tradition suggests, but a direct construct of the **Jamesian Jerusalem Church**, preserving the ethical rigor, poverty theology, and spiritual eschatology of the earliest Jewish followers of Jesus.1
 
-The proposed lineage—**Proto-Luke (Jamesian) \-\> Mark (Pauline Reaction) \-\> Matthew & Canonical Luke (Harmonization)**—integrates the cutting-edge textual criticism of scholars such as Matthias Klinghardt and Jason BeDuhn, who argue for the priority of the gospel used by Marcion of Sinope, with the socio-historical reconstruction of the "Ebionite" or Jamesian community.1 If this lineage holds, it necessitates a fundamental re-evaluation of the resurrection narratives. It implies that the earliest church, led by James the Just, adhered to a belief in **Spiritual Resurrection** (exaltation/enthronement) that was compatible with the continued existence of physical remains. Consequently, the explicit physical proofs found in the canonical Luke—the "flesh and bones" of Luke 24:39—must be viewed not as original historical memories, but as later orthodox interpolations designed to "materialize" the faith in opposition to Gnostic and Marcionite readings.1
+The proposed lineage—**Proto-Luke (Jamesian) \-\> Mark (Pauline Reaction) \-\> Matthew & Canonical Luke (Harmonization)**—integrates the cutting-edge textual criticism of scholars such as Matthias Klinghardt and Jason BeDuhn, who argue for the priority of the gospel used by Marcion of Sinope, with the socio-historical reconstruction of the "Ebionite" or Jamesian community.1 If this lineage holds, it necessitates a fundamental re-evaluation of the resurrection narratives. It implies that the earliest church, led by James the Just, adhered to a belief in **Spiritual Resurrection** (exaltation/enthronement) that was compatible with the continued existence of physical remains. Consequently, the explicit physical proofs found in the canonical Luke—the "touch me" and the "flesh" of Luke 24:39, which the Marcionite text lacks—must be viewed not as original historical memories, but as later orthodox interpolations designed to "materialize" the faith in opposition to Gnostic and Marcionite readings.1
 
 This report will demonstrate that Marcion, traditionally vilified as the arch-heretic who mutilated the Gospel, likely possessed the unedited version of this Jamesian Proto-Luke. His "heresy" was, in fact, the preservation of an earlier, spiritual Christology that the emerging "Great Church" sought to suppress and overwrite with a physicalist, institutional theology. By triangulating the literary evidence of the Synoptic Problem, the theological profile of the Jamesian "Poor," and the text-critical variances of the Marcionite Evangelion, we can reconstruct the contours of the "Jamesian Protograph"—the lost gospel of the Jerusalem Pillars.
 
@@ -52,7 +52,7 @@ Streeter’s hypothesis effectively identifies "Q" as the backbone of a narrativ
 
 The most significant breakthrough in recent years comes from the work of Matthias Klinghardt, Jason BeDuhn, and Markus Vinzent, who have revived and scientifically fortified the "Marcion Priority" hypothesis (Klinghardt, 2021).8
 
-Church Fathers like Tertullian claimed that Marcion "mutilated" Luke to create his Evangelion. However, computer-aided analysis of "editorial fatigue" suggests the opposite direction of dependence.1
+Church Fathers like Tertullian claimed that Marcion "mutilated" Luke to create his Evangelion. However, their analysis of "editorial fatigue" points to the opposite direction of dependence.1
 
 * **Editorial Fatigue:** When a writer copies a source, they often make small changes at the beginning of a passage but lapse back into the wording of the source as they get tired or distracted. Comparisons of Luke and Marcion show that Canonical Luke exhibits fatigue when diverging from Marcion’s text, implying that the canonical author was expanding Marcion’s shorter text, not the other way around.15  
 * **The "Missing" Birth Narrative:** Marcion’s Gospel lacked the first two chapters of Luke (Birth of John, Birth of Jesus). Critical scholarship increasingly views Luke 1-2 as a later addition—a "Pastoral" prologue added to anchor Jesus in Old Testament history and biology, countering the "alien" Jesus of the Proto-Gospel.1  
@@ -89,7 +89,7 @@ The material unique to Luke ("L"), which Streeter argued was part of Proto-Luke,
 
 * **The Rich Man and Lazarus (Luke 16:19-31):** This parable is the "smoking gun" of Ebionite theology. The rich man is damned not for idolatry or vice, but simply for living in luxury while Lazarus (a name etymologically linked to *Eliezer* and *Ebion*—"God helps" / "Poor") suffers. The parable reflects a rigid caste system of salvation based on economic reversal, characteristic of the Jamesian sect.19  
 * **Renunciation of Possessions:** The absolute demand in Luke 14:33—"So therefore, any one of you who does not renounce all that he has cannot be my disciple"—reflects the communalism of the Jerusalem church, where private property was abolished. This is far more radical than the tithing or almsgiving ethics found in later Pauline communities.19  
-* **Anti-Temple Polemic:** James was known as the "Opposition High Priest," engaging in a ritual protest against the Sadducean aristocracy.1 The Proto-Lukan material contains fierce critiques of the Temple elite (e.g., the Good Samaritan who shames the Priest and Levite).
+* **Anti-Temple Polemic:** James was known as the "Opposition High Priest," engaging in a ritual protest against the Sadducean aristocracy.1 The Proto-Lukan material contains fierce critiques of the Temple elite (e.g., the Good Samaritan who shames the Priest and Levite — L material that neither Marcionite witness cites: both close the exchange with the lawyer at 10:28; Tertullian, *Marc.* 4.25.14–18; Epiphanius, *Pan.* 42.11.6, sch. 23–24).
 
 ### **3.3 The Marcionite Paradox: Why Use a Jamesian Text?**
 
@@ -125,7 +125,7 @@ The theological content of Mark supports the view that it is a polemic *against*
 
 ### **4.3 Dating Mark Post-70 CE**
 
-While Proto-Luke (as preserved by Marcion) lacks the specific details of the 70 CE siege (see Section 6), Mark is clearly a war-time or post-war document.
+While Proto-Luke (as preserved by Marcion) lacks the lament over the city with its siege works (19:41–44; Epiphanius, *Pan.* 42.11.6, sch. 53) and the flight command of 21:21–22, although it keeps the armies of 21:20 (see Section 6), Mark is clearly a war-time or post-war document.
 
 * **The Abomination of Desolation:** Mark 13:14 warns of the "Abomination of Desolation standing where he ought not." This cryptic reference fits the chaos of the Zealot takeover of the Temple (66-70 CE) or the fear of a pagan statue. It reflects a specific historical crisis that Proto-Luke's generic warnings do not necessarily presuppose.1  
 * **The Empty Tomb Innovation:** As discussed below, Mark introduces the Empty Tomb, a feature absent in the earliest creedal layers (1 Cor 15). This suggests Mark is innovating a new physical/absence theology in response to the destruction of the community's center in Jerusalem.
@@ -156,8 +156,8 @@ Mark (c. 70-75 CE) breaks with the Jamesian/Pauline tradition by introducing the
 
 Canonical Luke (the 2nd-century editor of Proto-Luke) takes the final, polemical step into aggressive materiality. This redaction is best understood as a direct anti-heretical correction of the spiritual ambiguity Mark introduced, designed to "lock in" the physical reality of the resurrection for the emerging Great Church.
 
-* **Direct Contradiction: "Flesh and Bones":** In Luke 24:39, Jesus explicitly denies being a spirit: "Touch me and see; for a spirit does not have **flesh and bones** as you see that I have." This is a forensic refutation of the Docetic claim that Jesus was a phantom and a clear-cut contradiction of Paul’s formula ("flesh and blood cannot inherit").  
-* **Forensic Proof: Eating Fish:** Jesus eats broiled fish (Luke 24:41-43) in an act that serves no narrative purpose other than to establish his biological reality. This detail is a crucial anti-Docetic interpolation, asserting that the flesh itself was resurrected.  
+* **Direct Contradiction: "Flesh and Bones":** In Luke 24:39, Jesus explicitly denies being a spirit: "Touch me and see; for a spirit does not have **flesh and bones** as you see that I have." This is a forensic refutation of the Docetic claim that Jesus was a phantom and a clear-cut contradiction of Paul’s formula ("flesh and blood cannot inherit"). The Marcionite text had the verse without "touch me and see" and without "flesh": "see my hands and my feet, that it is I myself, for a spirit does not have bones as you see me having" (Tertullian, *Marc.* 4.43.6; Epiphanius, *Pan.* 42.11.6, sch. 78), which the Marcionites read as "as you see me *not* having" (Tertullian, *Marc.* 4.43.7). The editor's step was to add the touching and the flesh.  
+* **Forensic Proof: Eating Fish:** Jesus eats broiled fish (Luke 24:41-43) in an act that serves no narrative purpose other than to establish his biological reality. The request for food was already in the Marcionite text: Jesus asked for food "to show that he had teeth" (Tertullian, *Marc.* 4.43.8). The eating itself (24:42–43) is not cited by Tertullian or Epiphanius; Eznik of Kolb reports that the Marcionites justified their abstinence from fish by his eating fish after the resurrection (*De Deo* 407, as cited by Roth 2015).  
 * **The Anti-Marcionite Purpose:** By adding these material proofs to the Jamesian Proto-Gospel, the Orthodox editor successfully **co-opted the text’s authority** while framing the Jamesian/Markan spiritual resurrection as a heresy (Docetism) that needed to be suppressed.
 
 ## ---
@@ -170,15 +170,15 @@ A critical component of this theory is the dating of Proto-Luke/Q to the pre-70 
 
 The standard argument for dating Luke after 70 CE relies on Luke 21:20: "When you see Jerusalem surrounded by **armies**, then know that its desolation has come near."
 
-* **The Marcionite Variant:** Reconstructions of Marcion’s Evangelion indicate that his text may have lacked the specific "armies" reference or used a more generic "desolation" warning closer to Daniel.1  
+* **The Marcionite Text:** Marcion’s Evangelion had the "armies": Tertullian reads "cum coepisset vallari exercitibus Hierusalem" — when Jerusalem had begun to be surrounded by armies (*Marc.* 4.39.9). No witness gives it a "desolation" warning closer to Daniel. It lacked the lament over the city with its siege works (19:41–44; Epiphanius, *Pan.* 42.11.6, sch. 53) and the flight command of 21:21–22 (sch. 59).1  
 * **Vague vs. Specific:** If Proto-Luke contained a generic apocalyptic warning (as found in Q material like Luke 13:35 "Your house is forsaken"), it fits a pre-70 context of Zealot unrest and "wars and rumors of wars."  
-* **Canonical Redaction:** The specific detail of "armies" and "circumvallation" (Luke 19:43) in the canonical text is best explained as a post-70 CE update by the "Anti-Marcionite" editor to make the prophecy match the historical reality of the Roman siege under Titus. This confirms Proto-Luke was *pre-70* and Canonical Luke was *post-70*.1
+* **Canonical Redaction:** The specific detail of "circumvallation" (Luke 19:43) in the canonical text is best explained as a post-70 CE update by the "Anti-Marcionite" editor to make the prophecy match the historical reality of the Roman siege under Titus. The "armies" of 21:20, which the Marcionite text shares, do not separate the two strata, so the pre-70 date of Proto-Luke cannot rest on that verse.1
 
 ### **6.2 The "Flight to Pella" Oracle**
 
 Eusebius records that the Jerusalem Church fled to Pella (c. 66 CE) after being warned by an "oracle."
 
-* **Proto-Luke as the Oracle:** It is highly plausible that the Proto-Lukan/Q text *was* this oracle. The command in Luke 21:21 ("Then let those who are in Judea flee to the mountains") functions as the specific instruction that saved the Jamesian community.1 This necessitates the document's existence and authority within the Jamesian community *before* the destruction.
+* **Proto-Luke and the Oracle:** The command in Luke 21:21 ("Then let those who are in Judea flee to the mountains") would fit the specific instruction that saved the Jamesian community.1 But the Marcionite text does not have it: Epiphanius reports that it lacked "then those in Judea must flee to the mountains" and what follows, up to "that all that is written may be fulfilled" (*Pan.* 42.11.6, sch. 59). If the oracle was written, it is not preserved in the text Marcion had.
 
 ## ---
 
@@ -191,7 +191,7 @@ The forensic reconstruction yields a clear lineage that resolves the anomalies o
 * **Provenance:** Jerusalem / Palestine (Jamesian Community).  
 * **Content:** Narrative gospel with heavy sayings material (Q).  
 * **Theology:** Ebionite (poverty/reversal); Spiritual Resurrection; Anti-Temple establishment; Torah-observant ethics.  
-* **Status:** The "Oracle" that guides the flight to Pella. Preserved later by Marcion.
+* **Status:** Preserved later by Marcion (without the flight command of Luke 21:21–22).
 
 ### **Stage 2: The Pauline Reaction (Mark) \[c. 70-75 CE\]**
 
@@ -206,7 +206,7 @@ The forensic reconstruction yields a clear lineage that resolves the anomalies o
 * **Canonical Luke:** A 2nd-century "Anti-Marcionite" revision of Proto-Luke.  
   * Adds Birth Narrative (Anti-Docetic).  
   * Adds Physical Resurrection (Flesh & Bones).  
-  * Updates Apocalypse (Luke 21\) with 70 CE siege details.  
+  * Updates the Apocalypse with 70 CE siege details (the lament with its siege works, Luke 19:41–44) and adds the flight command (Luke 21:21–22).  
   * Writes Acts to domesticate Paul and James into a unified "Catholic" history.
 
 ## **8\. Conclusion: The Vindication of the Jamesian Q**
@@ -264,4 +264,7 @@ Klinghardt, M. (2021). *The Oldest Gospel and the Formation of the Canonical Gos
 39. James Tabor's Essay on Early Christianity's View of Resurrection: A Review, accessed on December 22, 2025, [https://drmsh.com/james-tabors-essay-early-christianitys-view-resurrection-review/](https://drmsh.com/james-tabors-essay-early-christianitys-view-resurrection-review/)  
 40. Why is There No Resurrection Appearance at the End of The Gospel According to Mark?, accessed on December 22, 2025, [https://theislandparson.com/2024/04/02/why-is-there-no-resurrection-appearance-at-the-end-of-the-gospel-according-to-mark/](https://theislandparson.com/2024/04/02/why-is-there-no-resurrection-appearance-at-the-end-of-the-gospel-according-to-mark/)  
 41. The “Strange” Ending of the Gospel of Mark and Why It Makes All the Difference \- Biblical Archaeology Society, accessed on December 22, 2025, [https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/the-strange-ending-of-the-gospel-of-mark-and-why-it-makes-all-the-difference/](https://www.biblicalarchaeology.org/daily/biblical-topics/new-testament/the-strange-ending-of-the-gospel-of-mark-and-why-it-makes-all-the-difference/)  
-42. JESUS & THE LAST DAYS (Part 4\) | The Abomination of Desolation \- THEOTIVITY, accessed on December 22, 2025, [https://www.theotivity.com/post/last-days-04/](https://www.theotivity.com/post/last-days-04/)
+42. JESUS & THE LAST DAYS (Part 4\) | The Abomination of Desolation \- THEOTIVITY, accessed on December 22, 2025, [https://www.theotivity.com/post/last-days-04/](https://www.theotivity.com/post/last-days-04/)  
+43. Tertullian. *Adversus Marcionem*. Edited and translated by Ernest Evans. 2 vols. Oxford: Clarendon Press, 1972.  
+44. Epiphanius. *Ancoratus und Panarion*. Vol. 2, *Panarion haer. 34–64*. Edited by Karl Holl. GCS 31. Leipzig: Hinrichs, 1922.  
+45. Roth, Dieter T. *The Text of Marcion's Gospel*. New Testament Tools, Studies and Documents 49. Leiden: Brill, 2015.

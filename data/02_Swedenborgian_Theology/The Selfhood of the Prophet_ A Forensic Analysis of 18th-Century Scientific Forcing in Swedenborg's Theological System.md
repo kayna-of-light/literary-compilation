@@ -275,7 +275,7 @@ When applied to the Gospel of Luke, Swedenborg's key produces a dramatic quality
 
 | Text Stratum | Correspondential Yield | Examples |
 |-------------|----------------------|----------|
-| **Parables and sayings** | Full correspondential depth — multi-layered spiritual meaning | Good Samaritan (*AE* §960), Prodigal Son, Sower |
+| **Parables and sayings** | Full correspondential depth — multi-layered spiritual meaning | Good Samaritan (*AE* §444), Prodigal Son (*AC* §9391), Sower |
 | **Narrative superstructure** | Doctrinal citation only — single-point theological references | Annunciation, Nativity, Ascension, Resurrection appearance |
 
 The parables yield what Swedenborg calls material that has been "seen and enacted" — experienced in the spiritual world and transcribed with full internal sense. The narrative framework yields only flat doctrinal citation — passages referenced for a single theological point without the multi-layered correspondential depth that characterizes the genuine internal sense.
@@ -581,7 +581,7 @@ CARTESIAN SUBSTANCE DUALISM (Root)
 | §103 | *True Christian Religion* | *TCR* | "The soul, which is from the father, is the man himself" |
 | §4317 | *Arcana Coelestia* | *AC* | Paternal heredity is "interior" and uneradicable |
 | §620 | *Apocalypse Revealed* | *AR* | "Virgin" signifies affection of truth |
-| §960 | *Apocalypse Explained* | *AE* | Good Samaritan correspondential exegesis |
+| §444 | *Apocalypse Explained* | *AE* | Good Samaritan correspondential exegesis |
 | §§83–172 | *Divine Love and Wisdom* | *DLW* | Natural sun is "dead"; nature in itself is dead |
 | §§2026–2033 | *Spiritual Diary* | *SE* | First 1748 vision: vastation, "what they signify I do not clearly know" |
 | §§2973–2978 | *Spiritual Diary* | *SE* | Second 1748 vision: numerical sequences 1-48, 1-53, 1-94 |

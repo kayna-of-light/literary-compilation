@@ -12,7 +12,7 @@ From the specific theological coding in *The Legend of Johnny Appleseed* (1948) 
 
 To argue that Swedenborgian thought is an "active substrate" rather than a passive influence requires a precise definition of terms. An active substrate in institutional culture is a foundational layer of philosophy or methodology that is continuously reinforced through training, hiring practices, and creative mandates. It is not merely a historical footnote; it is the operating system upon which the institution runs.
 
-In the case of Disney, the Swedenborgian substrate is defined by the **Doctrine of Influx** and the **Science of Correspondences**. These theological concepts, which posit that the natural world is a theater representing the spiritual world and that all physical action is the result of spiritual influx (will and understanding), became the technical manuals for American animation. When Walt Disney demanded that his artists "draw the force, not the form," he was demanding a shift from a materialist view of the world to a Swedenborgian one. The survival and evolution of this substrate, from the 1930s *Silly Symphonies* to the 2023 centennial film *Wish*, constitutes the central argument of this investigation.
+In the case of Disney, the Swedenborgian substrate is defined by the **Doctrine of Influx** and the **Science of Correspondences**. These theological concepts, which posit that the natural world is a theater representing the spiritual world and that all physical action is the result of spiritual influx (will and understanding), became the technical manuals for American animation. When Walt Disney's studio taught its artists, in Don Graham's words, that "the artist is not drawing a form at all, but indicating a force," it was demanding a shift from a materialist view of the world to a Swedenborgian one. The survival and evolution of this substrate, from the 1930s *Silly Symphonies* to the 2023 centennial film *Wish*, constitutes the central argument of this investigation.
 
 ## **II. The Theoretical Framework: From Mechanics to Metaphysics**
 
@@ -97,7 +97,7 @@ Before Graham, animation training focused on "Form"—how to draw a muscle, how 
 
 A famous memo from Walt Disney to Don Graham in 1935 explicitly articulates this philosophy:
 
-"The driving force behind the action is the mood, the personality, the attitude of the character – or all three. Therefore the mind is the pilot." 5
+"The driving force behind the action is the mood, the personality, the attitude of the character—or all three. Therefore, the mind is the pilot." 5
 
 This pedagogy is a secularized reinstatement of Swedenborg’s doctrine of Influx. It posits that the physical world (the drawing) is merely the "obedience" of the spiritual world (the character's intent). The animator does not manipulate the body; the animator manipulates the *will*, and the body follows.
 

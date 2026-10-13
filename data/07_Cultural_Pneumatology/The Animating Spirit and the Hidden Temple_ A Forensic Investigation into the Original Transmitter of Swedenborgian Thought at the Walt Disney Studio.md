@@ -64,7 +64,7 @@ In 1932, Walt Disney faced a "Crisis of Ensoulment." His characters moved (the r
 Don Graham’s solution was "Action Analysis." The core tenet of this pedagogy was: **"The Mind is the Pilot."**.13
 
 * **Swedenborg:** "The body’s activity in speech or deed is only an effect from the external and internal of man’s spirit, for the body is so much obedience." (*Divine Providence* §103)  
-* **Graham:** "Draw the force, not the form." "The drawing is a diagram of the force."
+* **Graham:** "The artist is not drawing a form at all, but indicating a force."
 
 Graham trained the animators to see the "invisible" cause before drawing the "visible" effect. This is a Swedenborgian-compatible logic of cause/force applied to graphite. By 1935, when production on *Snow White* ramped up, much of the studio had been trained in this way of seeing. This created a "receptive soil." The story men (Creedon, Sears, Smith) could propose narrative changes based on "internal states" (e.g., the Queen dying of her own fury) because the animators now had the tools to depict those states. Graham was an enabler of the transmission, creating a studio language that was structurally Swedenborgian in form, even if the label was absent.
 

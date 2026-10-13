@@ -539,7 +539,7 @@ The theme parks reinforce this alignment. The central icon of every "Magic Kingd
 
 The 2023 release of *Wish*—marketed as the culmination of 100 years of Disney storytelling—provides a critical case study in what happens when the studio invokes the Core without adhering to the Substrate.
 
-*Wish* was designed to celebrate the legacy. It is an origin story for the Wishing Star. However, the film performs a theological inversion of the traditional Disney metaphysics.⁸ In the classic canon (*Pinocchio*), the Wish is a prayer directed to external Providence (the Blue Fairy/Star). The power source is transcendent. In *Wish*, the song "I'm a Star" declares that "We are our own origin story" and that power comes from "stardust" within us.
+*Wish* was designed to celebrate the legacy. It is an origin story for the Wishing Star. However, the film performs a theological inversion of the traditional Disney metaphysics.⁸ In the classic canon (*Pinocchio*), the Wish is a prayer directed to external Providence (the Blue Fairy/Star). The power source is transcendent. In *Wish*, the film concludes that "We are our own origin story" and that power comes from "stardust" within us.
 
 By making the divine spark intrinsic to the biological self, the film collapses the vertical tension that drives the fairy tales. There is no need for regeneration or aid from above—only self-actualization. The film was a critical and commercial failure. Audiences described it as "hollow" and "soulless."⁹ It had the *aesthetic* of the Core (castles, stars, magic) but the *theology* of modern secular narcissism. It failed because it attempted to run "High Church" liturgy with "Low Church" theology.
 

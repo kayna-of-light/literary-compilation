@@ -1876,7 +1876,7 @@ Does the song "I'm a Star" (or any dialogue in *Wish*, 2023) contain the words "
 
 **Date Resolved**: 2026-10-13
 
-**Resolution Summary**: Both lines are sung in "I'm a Star" (Julia Michaels and Benjamin Rice): "When it comes to the universe, we're all shareholders" and "We are our own origin story" (twice). The text was checked in two independent transcriptions in the public LRCLIB lyrics database (`lrclib.net/api/get/8590888` and `/26509813`). All six quotations stand. Two documents said "the film concludes that" → corrected to "the song 'I'm a Star' declares that" (*The Crown and the Comedy*, *The Animating Spirit: A Cultural History*); it is a mid-film song, not the film's conclusion. The question should not have been logged: the lyrics were public, and the 2026-10-12 run stopped after four blocked sites.
+**Resolution Summary**: Both lines are sung in "I'm a Star" (Julia Michaels and Benjamin Rice): "When it comes to the universe, we're all shareholders" and "We are our own origin story" (twice). The text was checked in two independent transcriptions in the public LRCLIB lyrics database (`lrclib.net/api/get/8590888` and `/26509813`). All six quotations stand, and so does the sentence "the film concludes that 'We are our own origin story'": the song states in its own words the conclusion the film reaches. No document edit was needed. (An edit of 2026-10-13 that narrowed two documents to "the song 'I'm a Star' declares that" was reverted the same day at the author's instruction.) The question should not have been logged: the lyrics were public, and the 2026-10-12 run stopped after four blocked sites.
 
 ---
 

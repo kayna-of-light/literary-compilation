@@ -158,7 +158,7 @@ The production of the live-action *Snow White* has been a site of intense confli
 
 The character of **Jonathan** (played by Andrew Burnap) represents the central theological conflict of the remake.
 
-* **The Original Plan:** Early reports and interviews (Zegler) suggested the Prince was cut entirely, calling him a "stalker," and that Snow White would not dream of love but of being a "Leader".49 This "Girlboss" narrative is horizontally structured (political power) rather than vertically structured (spiritual love).  
+* **The Original Plan:** Early reports and interviews (Zegler) suggested the Prince was cut entirely—Zegler described the original as a love story "with a guy who literally stalks her"—and that Snow White would dream not of love but of "becoming the leader she knows she can be".49 This "Girlboss" narrative is horizontally structured (political power) rather than vertically structured (spiritual love).  
 * **The Reshoots:** Following the backlash and the failure of *Wish*, the studio engaged in massive reshoots in London (June 2024).51 Jonathan was retooled.  
 * **Theological Analysis:** The name "Jonathan" means **"God-given"** (Hebrew: *Yehonatan*). This suggests a subtle re-encoding: he is not a "Prince" by birth (political entitlement), but a "Gift" by Providence (spiritual grace). While described as a "Bandit" (Robin Hood type), his role has been expanded to provide the necessary "active" complement to Snow White's "passive" reception of grace, restoring the Swedenborgian balance of Will and Understanding.50
 

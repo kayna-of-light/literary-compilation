@@ -1862,11 +1862,29 @@ Which measure should the sentence report — Christians vs. non-Christians on *J
 
 ---
 
+### [NLM] *Wish* (2023) — is "We are our own origin story" a line in the film or in "I'm a Star"?
+
+**Priority**: MEDIUM
+**Related Documents**: `data/07_Cultural_Pneumatology/The Inverted Influx_ The Profanation of Correspondence and the Deification of Self in Disney's Wish.md` (where the lyric is quoted with "we're all shareholders"); quoted from it in *The Crown and the Comedy*, *The Glass Church and the Magic Mirror*, *The Mirror and the Star*, *The Animating Spirit: A Cultural History*, and two `00_Master_Theses` documents (*The River and the Vessel*, *The Beast That Wears the Lamb*)
+
+**Context**: Six library documents quote *Wish* as concluding "We are our own origin story," and *The Inverted Influx* gives it as a lyric of "I'm a Star" (Julia Michaels and Benjamin Rice). The 2026-10-12 audit could not reach the lyric or a transcript: Genius and the lyric wikis return 403, AZLyrics serves no text, and search summaries will not quote lyrics. The rest of the documents' reading of the song (stardust, "I'm a Star") is not in question; only whether these exact words are sung or spoken.
+
+**Research Question**:
+Does the song "I'm a Star" (or any dialogue in *Wish*, 2023) contain the words "We are our own origin story" and "When it comes to the universe, we're all shareholders"? If not, what are the closest actual words, so the six documents can quote them?
+
+**Status**: ✅ RESOLVED
+
+**Date Resolved**: 2026-10-13
+
+**Resolution Summary**: Both lines are sung in "I'm a Star" (Julia Michaels and Benjamin Rice): "When it comes to the universe, we're all shareholders" and "We are our own origin story" (twice). The text was checked in two independent transcriptions in the public LRCLIB lyrics database (`lrclib.net/api/get/8590888` and `/26509813`). All six quotations stand, and so does the sentence "the film concludes that 'We are our own origin story'": the song states in its own words the conclusion the film reaches. No document edit was needed. (An edit of 2026-10-13 that narrowed two documents to "the song 'I'm a Star' declares that" was reverted the same day at the author's instruction.) The question should not have been logged: the lyrics were public, and the 2026-10-12 run stopped after four blocked sites.
+
+---
+
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 43 |
+| **Total Resolved** | 44 |
 | **NDE Domain** | 14 |
 | **BIBL Domain** | 6 |
 | **SWED Domain** | 3 |
@@ -1876,7 +1894,7 @@ Which measure should the sentence report — Christians vs. non-Christians on *J
 | **GDR Domain** | 14 |
 | **Critical Priority** | 3 |
 | **High Priority** | 16 |
-| **Medium Priority** | 17 |
+| **Medium Priority** | 18 |
 | **Low Priority** | 7 |
 
-**Last Updated**: 2026-10-11
+**Last Updated**: 2026-10-13

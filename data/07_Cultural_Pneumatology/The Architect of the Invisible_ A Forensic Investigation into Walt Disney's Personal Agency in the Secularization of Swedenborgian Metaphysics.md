@@ -68,7 +68,7 @@ On December 23, 1935, Walt Disney sent an eight-page memo to Don Graham, the art
 
 Walt realized that to sustain a feature-length film (*Snow White*), his characters needed to appear to have souls. They needed to be self-motivated. In the memo, Walt dismantled the old style and demanded a new approach:
 
-"The driving force behind the action is the mood, the personality, the attitude of the character – or all three. Therefore the mind is the pilot. We think of things before the body does them." 9
+"The driving force behind the action is the mood, the personality, the attitude of the character—or all three. Therefore, the mind is the pilot. We think of things before the body does them." 9
 
 ### **3.2 The Socratic Origin vs. The Swedenborgian Application**
 
@@ -88,7 +88,7 @@ When Walt commanded his animators to realize that "the mind is the pilot," he wa
 
 The transmission of this concept was mediated by **Don Graham**. Graham, a central figure in the Chouinard Art Institute, was deeply embedded in the California art world of the 1930s, which was rife with Theosophical and Swedenborgian influences (via the "Thought-Form" theories of Besant and Leadbeater, and the abstract spiritualism of Kandinsky).15
 
-Graham’s "Action Analysis" classes, which Walt personally mandated, taught animators to "draw the force, not the form." This pedagogy is pure Swedenborgian correspondence: the physical form is merely the container for the spiritual force. By institutionalizing this "Mind is the Pilot" philosophy, Walt Disney effectively made the Disney Studio a seminary for Swedenborgian metaphysics, disguised as an art school. He did not just want better drawings; he wanted drawings that obeyed the laws of spiritual influx.
+Graham’s "Action Analysis" classes, which Walt personally mandated, taught animators that "the artist is not drawing a form at all, but indicating a force." This pedagogy is pure Swedenborgian correspondence: the physical form is merely the container for the spiritual force. By institutionalizing this "Mind is the Pilot" philosophy, Walt Disney effectively made the Disney Studio a seminary for Swedenborgian metaphysics, disguised as an art school. He did not just want better drawings; he wanted drawings that obeyed the laws of spiritual influx.
 
 ## ---
 

@@ -113,7 +113,7 @@ The release of *Wish* in 2023, marketed as the culmination of 100 years of Disne
 
 *Wish* was explicitly designed to celebrate the legacy. It is an origin story for the "Wishing Star." However, as detailed in *The Inverted Influx*, the film performs a **Theological Inversion** of the traditional Disney metaphysics.
 
-* **Internal vs. External**: In the classic canon (*Pinocchio*), the Wish is a prayer directed to an external Providence (The Blue Fairy/Star). The source of power is transcendent. In *Wish*, the film concludes that "We are our own origin story" and that the power comes from "stardust" within us (*The Inverted Influx*).  
+* **Internal vs. External**: In the classic canon (*Pinocchio*), the Wish is a prayer directed to an external Providence (The Blue Fairy/Star). The source of power is transcendent. In *Wish*, the song "I'm a Star" declares that "We are our own origin story" and that the power comes from "stardust" within us (*The Inverted Influx*).  
 * **The Profanation**: By making the divine spark intrinsic to the biological self ("I'm a Star"), the film collapses the "Vertical" tension that drives the fairy tales. There is no need for regeneration or aid from above; there is only self-actualization.  
 * **The Consequences**: The film was a critical and commercial failure, one of the studio's "misfires" of 2023 (Siegel 2024). Critics called it the studio "at their most soulless," a first draft spat out by "an AI system" (Jones 2023), and "a weird pastiche, with some pretty animation, but very little heart" (Nicolosi 2023). It had the *aesthetic* of the Core (castles, stars, magic) but the *theology* of modern secular narcissism (Self-Worship). It failed because it tried to run "High Church" liturgy with "Low Church" theology.
 

@@ -21,7 +21,8 @@
 | Apocryphon of John (NHC II,1) | Primary text | 2nd c. CE (composition); 4th c. CE (manuscript) | Robinson, *The Nag Hammadi Library*, 3rd rev. ed. (1990) |
 | Zostrianos (NHC VIII,1) | Primary text | 3rd c. CE | Robinson (1990); subscript: "Teachings of Zoroaster" |
 | Porphyry, *Vita Plotini* 16 | Primary text | 3rd c. CE | Standard edition |
-| Swedenborg, *Arcana Coelestia* | Primary text | 1749–1756 | Standard edition; esp. §§2896–2897, 1238 |
+| Swedenborg, *Arcana Coelestia* | Primary text | 1749–1756 | Standard Edition; esp. §§519, 1238, 1675, 2896–2897, 3249, 10252 |
+| Swedenborg, *True Christian Religion* | Primary text | 1771 | Standard Edition; §279 |
 | "The Bifurcated Gnosis" | Framework document | 2025–2026 | literary-compilation, 04_Early_Christian_History |
 | "The Transmission of the Ancient Word" | Framework document | 2025–2026 | literary-compilation, 00_Framework |
 | EVOLVING_CONCEPTUAL_STRAINS.md | Tracking document | 2025–2026 | literary-compilation, docs/ |
@@ -32,11 +33,11 @@
 
 ### 1.1 Background
 
-Swedenborg claimed that before the Hebrew Bible, a universal symbolic system existed — the "Ancient Word" (*Verbum Antiquissimum*) — written entirely in correspondences, not as a subject of discussion but as the medium of expression itself (AC §§2896–2897). This Word was carried by the *Bene Qedem* (בני קדם, "Children of the East"), whom Swedenborg locates geographically in "Great Tartary" — the vast Central Asian region where the Avestan, Vedic, and proto-Zoroastrian traditions converged. The *Bene Qedem* are described as possessing the "Science of Correspondences" as a living practice: they did not write *about* correspondences; they wrote *in* correspondences (AC §§1238, 2896–2897).
+Swedenborg claimed that before the Hebrew Bible, a universal symbolic system existed — the "Ancient Word" (*Verbum Antiquissimum*) — written entirely in correspondences, not as a subject of discussion but as the medium of expression itself (AC §§2896–2897). This Word was carried by the *Bene Qedem* (בני קדם, "Children of the East"), whom Swedenborg places in Aram or Syria, "where there was a remnant of the ancient church" (AC §§1675, 3249); the Ancient Word itself, he reports, is still preserved among the people of "Great Tartary" — the vast Central Asian region where the Avestan, Vedic, and proto-Zoroastrian traditions converged (TCR §279). The *Bene Qedem* are described as possessing the "Science of Correspondences" as a living practice — "the chief science among the Arabians, Ethiopians, and others in the East" (AC §10252): they did not write *about* correspondences; they wrote *in* correspondences (AC §§2896–2897).
 
-The *Bene Qedem* appear in the Hebrew Bible as the "wise men of the East" (1 Kings 4:30, Job 1:3, Genesis 29:1). They are associated with wisdom, naming, and the capacity to understand the spiritual significance of natural things. Balaam, who comes "from the east," speaks in correspondential oracles. The Magi of Matthew's Gospel, who journey from the East to recognize the incarnation through celestial signs, are their late descendants.
+The *Bene Qedem* appear in the Hebrew Bible as the people of the East, proverbial for their wisdom (1 Kings 4:30; Job 1:3; Genesis 29:1). They are associated with wisdom, naming, and the capacity to understand the spiritual significance of natural things. Balaam, who comes "from the mountains of the east" (Num 23:7), speaks in correspondential oracles (AC §1756). The Magi of Matthew's Gospel, who journey from the East to recognize the incarnation through celestial signs, are their late descendants.
 
-"The Bifurcated Gnosis" (§5) argued that "Zoroaster" is best understood not as a singular historical individual but as a **composite title** — the Avestan *Zarathushtrotema* ("The One Most Like Zarathustra"), which was the official title of the high priest in the Magian institution. The irreconcilable dating of Zoroaster's life (Greek sources place him 6,000 years before Plato; Avestan linguistics suggest 1000–600 BCE) is the signature of a composite figure — different high priests across millennia conflated into a single legendary founder.
+"The Bifurcated Gnosis" (§5) argued that "Zoroaster" is best understood not as a singular historical individual but as a **composite title** — the Avestan *Zarathushtrotema* ("The One Most Like Zarathustra"), which was the official title of the high priest in the Magian institution. The irreconcilable dating of Zoroaster's life (Greek sources place him 6,000 years before Plato, Parsee tradition in the sixth century BCE) is the signature of a composite figure — different high priests across millennia conflated into a single legendary founder (Pliny, *Nat.* 30.3, cited in Colpe 1981, 544).
 
 "The Transmission of the Ancient Word" identified the critical pattern: "This is the same pattern Swedenborg identifies for 'Enoch' and 'Noah' — community traditions named as individuals. 'Zoroaster' is another instance: a living tradition wearing the mask of a single name, stretching back into the same temporal and geographic zone as the *Bene Qedem*."
 
@@ -44,8 +45,8 @@ At the time these hypotheses were formulated, direct material evidence was limit
 
 ### 1.2 The Apocryphon of John as Test Case
 
-The ApJ's 365-angel body-creation passage (Robinson lines 103–121) offers a unique test case. It:
-- Contains a passage that the text itself attributes to "the book of Zoroaster" (line 115)
+The ApJ's 365-angel body-creation passage (NHC II 15,13–19,10) offers a unique test case. It:
+- Contains a passage that the text itself attributes to "the book of Zoroaster" (II 19,8–10)
 - Presents 365 named spiritual powers creating the human body, organized head-to-feet
 - Is preceded by seven "substance-souls" and followed by four elemental rulers and four passion-rulers
 - Uses angel names drawn from Greek, Hebrew, and Egyptian linguistic traditions simultaneously
@@ -73,7 +74,7 @@ The passage's literary form was analyzed against the characteristics of ancient 
 - **Hierarchical structure**: Does the list exhibit layers of organization (primary principles → specific entries → overseers → faculties)?
 - **Reference function**: Does the text treat the list as a reference work that could be *consulted*, not a story to be *read*?
 
-These features were compared against the literary characteristics attributed to the *Bene Qedem* by Swedenborg (AC §§2896–2897) and by modern scholarship on ancient Near Eastern onomastica.
+These features were compared against the literary characteristics attributed to the *Bene Qedem* by Swedenborg (AC §§2896–2897) and by modern scholarship on ancient Near Eastern onomastica (Cavigneaux 1980–1983).
 
 ### 2.2 Content Analysis
 
@@ -81,7 +82,7 @@ The correspondential content of each translatable angel name was systematically 
 
 ### 2.3 Attribution Analysis
 
-The text's citation of "the book of Zoroaster" (line 115) was analyzed for:
+The text's citation of "the book of Zoroaster" (II 19,8–10) was analyzed for:
 - **Pragmatic register**: What kind of speech act does the citation perform? (Invocation? Mythological reference? Library cross-reference?)
 - **Compatibility with the tradition-label hypothesis**: Is the citation consistent with "Zoroaster" naming a tradition or a library, rather than a single author?
 - **Cross-referencing with other NHL Zoroaster attributions**: How does the ApJ citation relate to the Zostrianos subscript ("Teachings of Zoroaster") and Porphyry's report that the Sethian community circulated texts under Zoroaster's name?
@@ -121,7 +122,7 @@ The same correspondential knowledge takes different literary forms depending on 
 
 This is "constant state, variable form" operating at the level of literary genre: the same knowledge, received through different cultural vessels, produces different genres while preserving identical content. The ApJ angel list is the *Bene Qedem* form of this knowledge — and recognizing the form is critical to recognizing the content.
 
-**This is why scholarship dismissed the list as gibberish.** The list is written in a literary mode that modern readers do not recognize. We expect narrative, argument, or mythology. What we find instead is a *dictionary* — an encyclopedic atlas compressed into name-form. Without the correspondential key, the list is opaque. With the key, it is transparent.
+**This is why scholarship has handled the list as a redactional excerpt rather than reading it** (Turner 2001, 139, 141). The list is written in a literary mode that modern readers do not recognize. We expect narrative, argument, or mythology. What we find instead is a *dictionary* — an encyclopedic atlas compressed into name-form. Without the correspondential key, the list is opaque. With the key, it is transparent.
 
 ### 3.2 Content: Correspondential Match
 
@@ -145,7 +146,7 @@ The *content* of the list is the Science of Correspondences that the *Bene Qedem
 
 ### 3.3 Attribution: "The Book of Zoroaster"
 
-The ApJ's citation at line 115 reads:
+The ApJ's citation at II 19,8–10 reads:
 
 > "Now there are other ones in charge over the remaining passions whom I did not mention to you. But if you wish to know them, it is written in the book of Zoroaster."
 
@@ -160,15 +161,15 @@ This implies:
 - The text was a **reference work** from which information could be looked up
 - The 365-angel body-correspondence system was understood as an **excerpt** from this larger reference, not the complete system
 
-**3.3.2 Three Independent NHL Witnesses**
+**3.3.2 Three Independent Witnesses**
 
-The Zoroaster attribution appears in three independent NHL contexts:
+The Zoroaster attribution appears in two Nag Hammadi texts and in Porphyry's account of the Gnostics in Plotinus's circle:
 
 | Text | Citation | Function |
 |------|----------|----------|
 | **Apocryphon of John** (II,1) | "the book of Zoroaster" | Library cross-reference — points to a companion text |
-| **Zostrianos** (VIII,1) subscript | "Teachings of Zoroaster" | Tradition label — identifies the intellectual heritage |
-| **Porphyry** (*Vita Plotini* 16) | Community "circulated texts under Zoroaster's name" | Practice description — identifies a publishing convention |
+| **Zostrianos** (VIII,1) subscript | "Teachings of Zoroaster" (VIII 132,6–9) | Tradition label — identifies the intellectual heritage |
+| **Porphyry** (*Vita Plotini* 16) | Plotinus's Gnostic opponents produced "apocalypses of Zoroaster and Zostrianos and Nicotheos and Allogenes and Messos" (trans. Turner 2001, 40) | Practice description — identifies a publishing convention |
 
 These three witnesses describe three aspects of the same phenomenon:
 - A **text** (the book)
@@ -179,11 +180,11 @@ This is consistent with "Zoroaster" functioning as a **tradition label** — the
 
 **3.3.3 The Composite Title Pattern**
 
-"The Bifurcated Gnosis" established that the Avestan *Zarathushtrotema* ("The One Most Like Zarathustra") was the official title of the Magian high priest. This means "Zoroaster" was already functioning as a **lineage title** within the Magian institution itself — a chain of holders, not a unique individual. The irreconcilable dating of Zoroaster (6,000 years before Plato according to Greek sources; 1000–600 BCE according to Avestan linguistics) is the signature of a composite figure: different *Zarathushtrotemas* across millennia conflated into one legendary founder.
+"The Bifurcated Gnosis" established that the Avestan *Zarathushtrotema* ("The One Most Like Zarathustra") was the official title of the Magian high priest. This means "Zoroaster" was already functioning as a **lineage title** within the Magian institution itself — a chain of holders, not a unique individual. The irreconcilable dating of Zoroaster (6,000 years before Plato according to Greek sources; the sixth century BCE according to Parsee tradition) is the signature of a composite figure: different *Zarathushtrotemas* across millennia conflated into one legendary founder.
 
 This is the same pattern identified for:
-- **"Enoch"** — not a single antediluvian patriarch but a codification tradition (the "Ancient Church's" practice of encoding knowledge)
-- **"Noah"** — not a single flood survivor but a transitional community (the "Ancient Church" surviving the decline into self-love)
+- **"Enoch"** — not a single antediluvian patriarch but a codification tradition (the "Ancient Church's" practice of encoding knowledge) (AC §519)
+- **"Noah"** — not a single flood survivor but a transitional community (the "Ancient Church" surviving the decline into self-love) (AC §1238)
 - **"Zoroaster"** — not a single prophet but a wisdom tradition (the *Bene Qedem*/Magian practice of correspondential science)
 
 ### 3.4 The Convergence
@@ -307,28 +308,31 @@ The 365-angel list is what the Ancient Word looks like when you actually find a 
 
 ---
 
-## References
+## Works Cited
 
-### Primary Sources
+**Primary Sources:**
 
-- Swedenborg, Emanuel. *Arcana Coelestia* [Heavenly Secrets]. 12 vols. 1749–1756. Esp. §§1238, 2896–2897.
-- Robinson, James M., ed. *The Nag Hammadi Library in English*. 3rd rev. ed. San Francisco: HarperSanFrancisco, 1990.
-- Porphyry. *Vita Plotini* [Life of Plotinus]. §16.
+1. Pliny the Elder. *Naturalis Historia*. Cited by book and section.
+2. Porphyry. *Vita Plotini* (*On the Life of Plotinus and the Order of His Books*). Cited by chapter.
+3. Robinson, James M., ed. *The Nag Hammadi Library in English*. 3rd rev. ed. San Francisco: HarperSanFrancisco, 1990. Cited by codex, page and line (NHC II 15,13–19,10 for the body-creation passage; VIII 132,6–9 for the Zostrianos subscript).
+4. Swedenborg, Emanuel. *Arcana Coelestia*. Translated by John Clowes, revised and edited by John Faulkner Potts. Standard Edition. 12 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+5. Swedenborg, Emanuel. *True Christian Religion*. Translated by John C. Ager. Standard Edition. 2 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
 
-### Secondary Sources
+**Scholarly Works:**
 
-- Kellens, Jean. "Zoroaster in the Avesta." In *Encyclopaedia Iranica*, online ed. 2009.
-- Stausberg, Michael. *Zarathustra and Zoroastrianism*. London: Equinox, 2008.
-- Cavigneaux, Antoine. "Lexical Lists." In *Reallexikon der Assyriologie*, vol. 6, 609–641. Berlin: de Gruyter, 1983.
+6. Cavigneaux, Antoine. "Lexikalische Listen." In *Reallexikon der Assyriologie und vorderasiatischen Archäologie*, vol. 6, 609–641. Berlin: de Gruyter, 1980–1983.
+7. Colpe, Carsten. "Sethian and Zoroastrian Ages of the World." In *The Rediscovery of Gnosticism*, vol. 2, *Sethian Gnosticism*, edited by Bentley Layton, 540–552. Studies in the History of Religions (Supplements to *Numen*). Leiden: Brill, 1981.
+8. Stausberg, Michael. *Zarathustra and Zoroastrianism*. Translated by Margret Preisler-Weller. London: Equinox, 2008.
+9. Turner, John D. *Sethian Gnosticism and the Platonic Tradition*. Bibliothèque copte de Nag Hammadi, Section « Études ». Québec: Les Presses de l'Université Laval; Louvain: Peeters, 2001.
 
-### Framework Documents
+**Internal Library Documents:**
 
-- "The Bifurcated Gnosis: The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word" — literary-compilation, data/04_Early_Christian_History/
-- "The Transmission of the Ancient Word: A Thesis" — literary-compilation, data/00_Framework/
-- EVOLVING_CONCEPTUAL_STRAINS.md, Strains #11 and #18 — literary-compilation, docs/
-- "The Unnamed Cartography" — companion thesis (systematic validation of correspondences)
+10. [The Bifurcated Gnosis: The Bene Qedem, the Magian Institution, and the Isaac-Ishmael Dialectic in the Transmission of the Ancient Word](../04_Early_Christian_History/The%20Bifurcated%20Gnosis_%20The%20Bene%20Qedem%2C%20the%20Magian%20Institution%2C%20and%20the%20Isaac-Ishmael%20Dialectic%20in%20the%20Transmission%20of%20the%20Ancient%20Word.md) — §5, the composite title *Zarathushtrotema* and the conflicting ancient datings of Zoroaster.
+11. [The Transmission of the Ancient Word: A Thesis on the Science of Correspondences from Deep Antiquity to Modern Cultural Expression](../00_Framework/The%20Transmission%20of%20the%20Ancient%20Word_%20A%20Thesis%20on%20the%20Science%20of%20Correspondences%20from%20Deep%20Antiquity%20to%20Modern%20Cultural%20Expression.md) — "Zoroaster" as one of the community traditions named as individuals.
+12. [The Unnamed Cartography: A Systematic Validation of Swedenborgian Body-Part Correspondences Against the 365-Angel List of the Apocryphon of John](The%20Unnamed%20Cartography_%20A%20Systematic%20Validation%20of%20Swedenborgian%20Body-Part%20Correspondences%20Against%20the%20365-Angel%20List%20of%20the%20Apocryphon%20of%20John.md) — the companion thesis whose name-by-name comparison supplies the content results of §§2.2 and 3.2.
+13. [Evolving Conceptual Strains in the Literary Compilation Corpus](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md), Strains #11 (correspondence as transmitted ontology) and #18 (the *Bene Qedem* as the original carriers, the Magi as later appropriators) — the framework positions drawn on in §4.5.
 
-### Project Sources
+**Data Sources:**
 
-- AJ_angel_name_translations.yaml — Complete etymological analysis, structured data file
-- Findings AJ-009, AJ-017, AJ-020, AJ-021, AJ-022 in II_1_apocryphon_john.yaml — Supporting findings chain
+14. kayna-of-light. "AJ_angel_name_translations.yaml." *nag-hammadi-analysis*, `findings/tractates/`. https://github.com/kayna-of-light/nag-hammadi-analysis/blob/main/findings/tractates/AJ_angel_name_translations.yaml — the complete etymological analysis of the angel names.
+15. kayna-of-light. "II_1_apocryphon_john.yaml." *nag-hammadi-analysis*, `findings/tractates/`. https://github.com/kayna-of-light/nag-hammadi-analysis/blob/main/findings/tractates/II_1_apocryphon_john.yaml — findings AJ-009, AJ-017, AJ-020, AJ-021 and AJ-022, the supporting chain for this thesis.

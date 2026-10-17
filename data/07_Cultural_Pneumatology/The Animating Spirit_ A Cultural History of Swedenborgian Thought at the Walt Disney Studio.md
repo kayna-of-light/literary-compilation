@@ -130,17 +130,17 @@ The animators' dissatisfaction with rubber hose aesthetics is explicitly documen
 
 Babbitt's language is precise. A "sausage" is dead matter; a character with "solidity and weight" and "joints" is a biological entity. The "waving of rope" is dismissed as insufficient because it lacks the structural integrity required for personality. Even Goofy—a character defined by clumsiness—must have an anatomical logic. Babbitt is not merely giving technical advice; he is demanding an ontological shift.
 
-Similarly, animators like Grim Natwick and Fred Moore articulated the need to move away from the "round circle school."³ Moore, who redesigned Mickey Mouse in 1938 to give him a pear-shaped body capable of "squash and stretch," explicitly moved away from the rigid circle design that restricted emotional expression.⁴ The circle was a geometric abstraction; the pear was a biological mass. The shift from circle to pear was the shift from symbol to body.
+Similarly, Ward Kimball said of Fred Moore that he "was the first one to escape from the mold of the rubber hose, round circle school."³ Moore, to whom the redesign of Mickey Mouse with a "more pear-shaped and pliant" body capable of squash and stretch "is credited more ... than anyone else," moved Mickey away from the circles whose shapes "stayed fairly rigid and 'hard'" and restricted emotional expression.⁴ The circle was a geometric abstraction; the pear was a biological mass. The shift from circle to pear was the shift from symbol to body.
 
-A specific technical symptom of "soullessness" was what animators referred to as "drifting." In early shorts, characters often appeared to float over the background rather than inhabit it. They lacked "weight." Weight, in animation, is the visual cue for gravity; gravity is the tether to reality. A character without weight has no physical presence—they are a ghost. Walt Disney's dissatisfaction with "drifting" was a dissatisfaction with the lack of *presence*.
+A specific technical symptom of "soullessness" was a kind of drifting. In early shorts, characters often appeared to float over the background rather than inhabit it. They lacked "weight." Dick Huemer, quoted by Neal Gabler, remembered the early animation as "almost like it was a flat design. Without any weight." Weight, in animation, is the visual cue for gravity; gravity is the tether to reality. A character without weight has no physical presence—they are a ghost. Walt Disney's dissatisfaction with this weightlessness was a dissatisfaction with the lack of *presence*.
 
 This technical issue was inextricably linked to a metaphysical one. In rubber hose animation, movement was often arbitrary. A hand reaching for a doorknob simply stretched toward it. In the new style Walt demanded, the hand had to *want* to reach the doorknob. The "force" of desire had to precede the "form" of the reach.
 
 ### 2.3 The Goddess of Spring Failure (1934)
 
-The crisis became acute with the production of *The Goddess of Spring* (1934), a *Silly Symphony* serving as a deliberate test run for *Snow White*. The film attempted to animate a realistic human female (Persephone) alongside a melodramatic villain (Pluto/Hades).
+The crisis became acute with the production of *The Goddess of Spring* (1934), a *Silly Symphony* made in the year *Snow White* went into preproduction. The film attempted to animate a realistic human female (Persephone) alongside a melodramatic villain (Pluto/Hades).
 
-The result was a widely acknowledged disaster within the studio.⁵ Animators trained in rubber hose principles attempted to draw a realistic woman but animated her with the "noodle arms" and rhythmic bouncing of a cartoon mouse. She appeared "rubbery" and "stiff" simultaneously—a grotesque uncanny valley where form was human but motion was mechanical.
+The result was a failure, and the studio knew it: Walt "was not pleased with the animation, feeling it was too rubbery and flexible," and Les Clark said of his own scenes, "it came off miserable, I thought."⁵ Animators trained in rubber hose principles attempted to draw a realistic woman but animated her with the flexible limbs and rhythmic bouncing of a cartoon mouse—a grotesque uncanny valley where form was human but motion was mechanical.
 
 Walt Disney's reaction to this failure was pivotal. He recognized that "realism" could not be achieved merely by changing character design (the *form*). You could draw a realistic woman, but if you animated her like a rubber hose character, she looked monstrous. The change had to come from the *inside*. The movement had to be driven by a different engine.
 
@@ -150,7 +150,7 @@ Walt Disney's reaction to this failure was pivotal. He recognized that "realism"
 
 The solution came not through better cameras or more expensive ink, but through pedagogy. Walt Disney hired Don Graham from the Chouinard Art Institute to retrain his entire staff. The pivotal document—what we might call the "constitution" of the Disney Golden Age—is the memorandum Walt sent to Graham on December 23, 1935:
 
-> "Many men do not realize what really makes things move—why they move—what the force behind the movement is... In most instances, the driving force behind the action is the mood, the personality, the attitude of the character—or all three. Therefore, the mind is the pilot. We think of things before the body does them."⁶
+> "Many men do not realize what really makes things move—why they move—what the force behind the movement is... in most instances, the driving force behind the action is the mood, the personality, the attitude of the character—or all three. Therefore, the mind is the pilot. We think of things before the body does them."⁶
 
 This phrase—**"The mind is the pilot"**—establishes a causal hierarchy that reverses the rubber hose method:
 
@@ -253,7 +253,7 @@ Don Graham was hired in 1932 from the Chouinard Art Institute—not as an animat
 
 The central tenet of Graham's pedagogy was the distinction between **Form** and **Force**. In surviving lecture notes from June 1937, Graham stated:
 
-> "The Line of Action is a visual explanation of what happens to form that has been acted upon by—FORCE."⁴
+> "In drawing lines representing a leg, a symbol for the force or thrust, is first drawn. The artist is not drawing a form at all, but indicating a force."⁴
 
 Graham critiqued the tendency to focus on "Form"—the literal shape of a muscle, the contour of a limb, the static pose. Drawing "forms" resulted in stiff, dead drawings because it prioritized the material shell over the energy moving it. Such a drawing might be anatomically correct but lacked the spark of life.
 

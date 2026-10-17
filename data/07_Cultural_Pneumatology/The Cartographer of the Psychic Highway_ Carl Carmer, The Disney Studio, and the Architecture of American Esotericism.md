@@ -103,7 +103,7 @@ Carmer receives screen credit as "Folklore Consultant" on *Melody Time*.1 This i
 
 ### **4.3 The "Extensive Research" Defense: The Adelquist-Murdoch Correspondence**
 
-The correspondence between Hal Adelquist (Disney Production Manager) and Florence Murdoch (Swedenborgian Archivist) is the key link.6 When Murdoch complained about the depiction of the Angel (specifically the coonskin cap), Adelquist replied that the studio had "researched the real life character extensively."
+The correspondence between Hal Adelquist (Disney Story Department Manager) and Florence Murdoch (librarian of the Cincinnati Church of the New Jerusalem) is the key link.6 When Murdoch complained about the depiction of the Angel (specifically the coonskin cap), Adelquist replied that the studio had researched the real Chapman extensively.
 
 Who conducted this research? The writers (Penner, Hibler) were story men, not historians. Carmer was the academic on the payroll. It is a near-certainty that Carmer provided the "extensive research" Adelquist cited. Carmer would have known:
 

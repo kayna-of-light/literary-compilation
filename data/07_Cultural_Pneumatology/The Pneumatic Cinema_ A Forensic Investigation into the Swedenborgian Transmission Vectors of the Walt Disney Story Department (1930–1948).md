@@ -147,7 +147,7 @@ This detail—Swedish immigrants in Iowa—becomes highly significant when conte
 
 The Jasper Colony was a pietistic, communal experiment that sought to live out the "New Jerusalem" in the wilderness. It was a tight-knit, distinct community. Given the relative rarity of Swedish communities in rural Iowa and the high correlation between Swedish immigrants and Swedenborgianism (the "New Church" being a Swedish export), the probability that Adelquist's father's family was connected to or deeply aware of the Lenox Township community is substantial—though direct proof of membership remains to be established.
 
-This ancestral link provides a plausible explanation for why Hal Adelquist—a man born in Utah and raised in Los Angeles—would possess the theological literacy to engage with Swedenborgian archivists in 1948\. He carried the "ancestral memory" of the Lenox Township faith.
+This ancestral link provides a plausible explanation for why Hal Adelquist—a man born in Utah and raised in Los Angeles—would possess the theological literacy to engage with a Swedenborgian church librarian in 1948\. He carried the "ancestral memory" of the Lenox Township faith.
 
 ### **6.2 The 1937 Witness: The Assistant Director**
 
@@ -163,9 +163,9 @@ In 1948, **Florence Murdoch**, the Librarian of the Cincinnati Church of the New
 
 Adelquist, now the Story Department Manager, replied with a defense that reveals deep, specific knowledge:
 
-"We trust that after you have viewed the picture you will agree that we have treated the angel with sincere respect... **\[we\] researched the real life character extensively.**" 33
+"We trust that after you have viewed the picture you will agree that we have treated the angel with sincere respect and endowed him with a certain dignity." 33
 
-This admission is critical. It is difficult to research John Chapman "extensively" without encountering his defining characteristic: his role as a missionary for the Church of the New Jerusalem. Chapman did not just plant trees; he distributed Swedenborg's *Heaven and Hell* across the frontier. Adelquist's letter strongly suggests that the studio *knew* Chapman was a Swedenborgian.
+The studio, he wrote, had **researched the real Chapman extensively**. This admission is critical. It is difficult to research John Chapman extensively without encountering his defining characteristic: his role as a missionary for the Church of the New Jerusalem. Chapman did not just plant trees; he distributed Swedenborg's *Heaven and Hell* across the frontier. Adelquist's letter strongly suggests that the studio *knew* Chapman was a Swedenborgian.
 
 Furthermore, the film retains the specific theological code of the "Blessings Three": **"Love, and Faith, and the Apple Tree"**.3 This triad corresponds perfectly to the Swedenborgian Trinity of Essentials:
 

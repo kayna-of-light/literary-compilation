@@ -12,7 +12,7 @@ This is a hypothesis claim about intentional transmission, not a settled histori
 
 ### **1.2 The Research Problem**
 
-Recent scholarship has identified a structural isomorphism between Swedenborg’s theology and the "Disney Style," particularly in the pedagogy of "Action Analysis" taught by Don Graham. Furthermore, archival evidence from 1948—specifically the correspondence between studio executive Hal Adelquist and Swedenborgian archivist Florence Murdoch—confirms that by the mid-century, key personnel were actively researching and encoding Swedenborgian theology.1
+Recent scholarship has identified a structural isomorphism between Swedenborg’s theology and the "Disney Style," particularly in the pedagogy of "Action Analysis" taught by Don Graham. Furthermore, archival evidence from 1948—specifically the correspondence between studio executive Hal Adelquist and Florence Murdoch, librarian of the Cincinnati Church of the New Jerusalem—confirms that by the mid-century, key personnel were actively researching and encoding Swedenborgian theology.1
 
 The central research problem of this investigation is retrospective: If the studio was consciously encoding Swedenborgian thought in 1948, who was the "Original Transmitter" during the foundational era of 1935–1937? Who introduced the specific narrative deviations in *Snow White*—the "Cloud Castle" and the "Awakening by Kiss"—that align so precisely with Swedenborgian eschatology?
 
@@ -119,7 +119,7 @@ Adelquist was born in **Salt Lake City, Utah**, to a father from a family of **S
 
 Ten years later, as Story Department Manager, Adelquist wrote the pivotal letter to **Florence Murdoch** of the Cincinnati Church of the New Jerusalem.1
 
-* **The Admission:** "We trust that after you have viewed the picture you will agree that we have treated the angel with sincere respect... researched the real life character extensively."  
+* **The Admission:** The studio, Adelquist wrote, had researched the real Chapman extensively: "We trust that after you have viewed the picture you will agree that we have treated the angel with sincere respect and endowed him with a certain dignity."  
 * **The Interpretation:** By admitting to "extensive research," Adelquist strongly suggests the studio knew John Chapman was a Swedenborgian missionary. He defended the "Pioneer Spirit" angel (a deceased human, not a separate species), which is compatible with Swedenborgian pneumatology.  
 * **The Conclusion:** Adelquist is a plausible bridge figure: present during *Snow White* (1937) and demonstrably involved in *Johnny Appleseed* (1948). His biography contributes weakly to plausibility; his role-positioning and correspondence are the stronger indicators.
 

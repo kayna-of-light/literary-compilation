@@ -105,7 +105,7 @@ This pedagogy is a secularized reinstatement of Swedenborg’s doctrine of Influ
 
 Research links Graham and the Chouinard Art Institute (where he taught) to the broader currents of "Theosophy" and "Metaphysics" prevalent in California art circles at the time. Theosophy, heavily indebted to Swedenborg (via Blavatsky and earlier mystics), preached that thoughts were "things" with shape and color (Thought-Forms).
 
-Graham’s classes, often described as "metaphysical" by students like Walt Stanchfield 6, trained Disney animators to see the material world as a shell for spiritual energies. This training primed the entire studio culture to accept stories where internal moral states dictated external physical reality. When an animator drew a storm cloud in *Fantasia* or *Bambi*, they weren't drawing water vapor; they were drawing "anger" or "menace." This is the definition of Correspondence. By institutionalizing this training, Disney built a studio that *thought* like Swedenborgians, even if they didn't pray like them.
+Graham’s classes, carried forward by Walt Stanchfield, who titled one of his own lectures "The Metaphysical Side" 6, trained Disney animators to see the material world as a shell for spiritual energies. This training primed the entire studio culture to accept stories where internal moral states dictated external physical reality. When an animator drew a storm cloud in *Fantasia* or *Bambi*, they weren't drawing water vapor; they were drawing "anger" or "menace." This is the definition of Correspondence. By institutionalizing this training, Disney built a studio that *thought* like Swedenborgians, even if they didn't pray like them.
 
 ### **5.3 The Legacy of Action Analysis: The Modern Curriculum**
 

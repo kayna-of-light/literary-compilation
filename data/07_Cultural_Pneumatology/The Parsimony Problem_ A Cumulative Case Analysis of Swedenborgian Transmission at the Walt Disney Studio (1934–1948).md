@@ -261,7 +261,7 @@ The cloud castle in *Snow White* is the single strongest piece of structural evi
 
 1. It does not appear in the Grimm source text.
 2. It does not appear in Perrault or any other known fairy-tale precedent, nor in the 1916 film, which Walt Disney most likely saw in Kansas City in 1917 and which ends indoors before a throne (*Snow White* 1916; Gabler 2006).
-3. The Disney Story Department *invented* it, and the production art shows the step being taken: the concept art for the final sequence sets the castle on an earthly crag, reached by a road and a bridge, while the storyboard for the last scene places a golden castle on clouds, radiating light (Snow White Museum, n.d.).
+3. The Disney Story Department *invented* it, and from the start: Richard Creedon's tentative outline of October 22, 1934, the first written form of the whole story, already ends as "we see the Prince and Snow White riding the white charger to a castle in the clouds" (Creedon, 22 October 1934). The production art shows the choice being held to: the concept art for the final sequence sets the castle on an earthly crag, reached by a road and a bridge, while the storyboard for the last scene places a golden castle on clouds, radiating light (Snow White Museum, n.d.).
 4. What they invented is immediately legible as Swedenborgian celestial ascent—the soul's journey to heaven, conjunction with the Divine Human.
 
 This is not pattern-fit. Pattern-fit occurs when an analyst observes existing material and claims it aligns with a theoretical framework. The cloud castle is *creation*: Disney made something that didn't exist before, and what they made happens to be theologically coherent under a Swedenborgian reading.
@@ -318,34 +318,35 @@ The question is no longer "did Swedenborgian transmission occur?" but "how did i
 
 **Primary Sources:**
 
-1. Disney, Walt. Inter-office communication to Don Graham, December 23, 1935. Reproduced in Shamus Culhane, *Talking Animals and Other People* (New York: Da Capo Press, 1998), 117–127, and in Walt Stanchfield, "The Disney Tradition," September 24, 1995, http://www.animationmeat.com/pdf/nineoldmen/MemoFromWalt.pdf.
-2. Graham, Don. "Animation of Forces vs. Animation of Forms as an Approach to Animation … Live Action Fall." Class on Action Analysis, Walt Disney Studio, June 21, 1937. Typescript transcript, collection of Hans Perk. Published at *A. Film L.A.*, March 2, 2009. http://afilmla.blogspot.com/2009/03/animating-forms-vs-forces-action.html.
-3. Grimm, Jacob, and Wilhelm Grimm. "Sneewittchen." In *Kinder- und Haus-Märchen*, 7th ed., 1:264–273. Göttingen: Dieterich, 1857.
-4. *Los Angeles Times*. Church notices for the Church of the New Jerusalem, 509 South Westmoreland Avenue. November 9, 1935; December 14, 1935; February 27, 1937; October 11, 1941.
-5. *The Messenger* (Swedenborgian Church). February 1974. https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf.
-6. *Snow White*. Directed by J. Searle Dawley. Adapted from the play by Winthrop Ames. Famous Players Film Company, 1916. Internet Archive. https://archive.org/details/silent-snow-white.
-7. Swedenborg, Emanuel. *Divine Love and Wisdom* (*Sapientia Angelica de Divino Amore et de Divina Sapientia*). Amsterdam, 1763.
-8. Swedenborg, Emanuel. *Heaven and Hell* (*De Coelo et ejus Mirabilibus, et de Inferno*). London, 1758.
+1. Creedon, Dick. "Snow White (tentative outline)." Walt Disney Productions, October 22, 1934. Typescript, 18 pp., Walt Disney Archives. Transcribed as "Snow White Tentative Outline of 10/22/1934," *Snow White Museum*. https://snowwhitemuseum.com/about-the-film/the-story/production-documents/snow-white-tentative-outline-of-10-22-1934/.
+2. Disney, Walt. Inter-office communication to Don Graham, December 23, 1935. Reproduced in Shamus Culhane, *Talking Animals and Other People* (New York: Da Capo Press, 1998), 117–127, and in Walt Stanchfield, "The Disney Tradition," September 24, 1995, http://www.animationmeat.com/pdf/nineoldmen/MemoFromWalt.pdf.
+3. Graham, Don. "Animation of Forces vs. Animation of Forms as an Approach to Animation … Live Action Fall." Class on Action Analysis, Walt Disney Studio, June 21, 1937. Typescript transcript, collection of Hans Perk. Published at *A. Film L.A.*, March 2, 2009. http://afilmla.blogspot.com/2009/03/animating-forms-vs-forces-action.html.
+4. Grimm, Jacob, and Wilhelm Grimm. "Sneewittchen." In *Kinder- und Haus-Märchen*, 7th ed., 1:264–273. Göttingen: Dieterich, 1857.
+5. *Los Angeles Times*. Church notices for the Church of the New Jerusalem, 509 South Westmoreland Avenue. November 9, 1935; December 14, 1935; February 27, 1937; October 11, 1941.
+6. *The Messenger* (Swedenborgian Church). February 1974. https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf.
+7. *Snow White*. Directed by J. Searle Dawley. Adapted from the play by Winthrop Ames. Famous Players Film Company, 1916. Internet Archive. https://archive.org/details/silent-snow-white.
+8. Swedenborg, Emanuel. *Divine Love and Wisdom* (*Sapientia Angelica de Divino Amore et de Divina Sapientia*). Amsterdam, 1763.
+9. Swedenborg, Emanuel. *Heaven and Hell* (*De Coelo et ejus Mirabilibus, et de Inferno*). London, 1758.
 
 **Scholarly Works:**
 
-9. Carmer, Carl. *Listen for a Lonesome Drum: A York State Chronicle.* New York: Farrar & Rinehart, 1936.
-10. Eagan, Daniel. *America's Film Legacy: The Authoritative Guide to the Landmark Movies in the National Film Registry.* New York: Continuum, 2010.
-11. Gabler, Neal. *Walt Disney: The Triumph of the American Imagination.* New York: Knopf, 2006.
-12. Karlstrom, Paul J., ed. *On the Edge of America: California Modernist Art, 1900–1950.* Berkeley: University of California Press, 1996.
+10. Carmer, Carl. *Listen for a Lonesome Drum: A York State Chronicle.* New York: Farrar & Rinehart, 1936.
+11. Eagan, Daniel. *America's Film Legacy: The Authoritative Guide to the Landmark Movies in the National Film Registry.* New York: Continuum, 2010.
+12. Gabler, Neal. *Walt Disney: The Triumph of the American Imagination.* New York: Knopf, 2006.
+13. Karlstrom, Paul J., ed. *On the Edge of America: California Modernist Art, 1900–1950.* Berkeley: University of California Press, 1996.
 
 **Internal Library Documents:**
 
-13. [The Apple and the Angel: An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's *The Legend of Johnny Appleseed*](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md). The studio's knowledge of Chapman's faith, the Murdoch–Adelquist correspondence, and the reading of the "Blessings Three" as the Swedenborgian triad.
-14. [The Glass Church and the Magic Mirror: A Pneumatological History of the Walt Disney Studio](The%20Glass%20Church%20and%20the%20Magic%20Mirror_%20A%20Pneumatological%20History%20of%20the%20Walt%20Disney%20Studio.md). Hal Adelquist's career and the Murdoch correspondence.
-15. [The Mechanics of the Soul: Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio](The%20Mechanics%20of%20the%20Soul_%20Don%20Graham,%20Action%20Analysis,%20and%20the%20Secularization%20of%20Swedenborgian%20Influx%20at%20the%20Walt%20Disney%20Studio.md). The 1935 memo, Graham's Action Analysis classes read as a secularized doctrine of influx, and the Chouinard milieu.
+14. [The Apple and the Angel: An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's *The Legend of Johnny Appleseed*](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md). The studio's knowledge of Chapman's faith, the Murdoch–Adelquist correspondence, and the reading of the "Blessings Three" as the Swedenborgian triad.
+15. [The Glass Church and the Magic Mirror: A Pneumatological History of the Walt Disney Studio](The%20Glass%20Church%20and%20the%20Magic%20Mirror_%20A%20Pneumatological%20History%20of%20the%20Walt%20Disney%20Studio.md). Hal Adelquist's career and the Murdoch correspondence.
+16. [The Mechanics of the Soul: Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio](The%20Mechanics%20of%20the%20Soul_%20Don%20Graham,%20Action%20Analysis,%20and%20the%20Secularization%20of%20Swedenborgian%20Influx%20at%20the%20Walt%20Disney%20Studio.md). The 1935 memo, Graham's Action Analysis classes read as a secularized doctrine of influx, and the Chouinard milieu.
 
 **Web Sources:**
 
-16. American Film Institute. "Melody Time (1948)." *AFI Catalog of Feature Films*, n.d. https://catalog.afi.com/Catalog/MovieDetails/25636.
-17. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
-18. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.
-19. Snow White Museum. "Sequence 16A – Snow White in Coffin – Back to Life – Away with Prince." *Snow White Museum*, n.d. https://snowwhitemuseum.com/images/production-art/sequence-16a-snow-white-in-coffin-back-to-life-away-with-prince/.
+17. American Film Institute. "Melody Time (1948)." *AFI Catalog of Feature Films*, n.d. https://catalog.afi.com/Catalog/MovieDetails/25636.
+18. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
+19. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.
+20. Snow White Museum. "Sequence 16A – Snow White in Coffin – Back to Life – Away with Prince." *Snow White Museum*, n.d. https://snowwhitemuseum.com/images/production-art/sequence-16a-snow-white-in-coffin-back-to-life-away-with-prince/.
 
 ---
 

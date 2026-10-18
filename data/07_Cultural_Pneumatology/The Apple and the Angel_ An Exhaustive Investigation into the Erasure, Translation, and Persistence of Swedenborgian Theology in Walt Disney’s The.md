@@ -97,7 +97,7 @@ This phrase, often repeated in the narration, is not merely a rhyme. It is a pre
 2. **Faith (Truth):** The Understanding / The knowledge of God.  
 3. **The Apple Tree (Works/Use):** The external manifestation of Love and Faith in the natural world.
 
-Swedenborg explicitly teaches that "Charity and Faith make one in Good Works". By adopting this triad, the filmmakers preserved the *structural* core of Chapman’s theology while stripping away the sectarian terminology.
+Swedenborg teaches that "charity and faith make one as good and truth do" (*Divine Providence* §82). By adopting this triad, the filmmakers preserved the *structural* core of Chapman’s theology while stripping away the sectarian terminology.
 
 ### **5.3 The Florence Murdoch Correspondence**
 

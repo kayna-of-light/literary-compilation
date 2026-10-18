@@ -47,9 +47,9 @@ In 1948, prior to the film's release, Murdoch saw promotional materials depictin
 
 The response from the studio was not a form letter. Hal Adelquist, the Story Department Manager and a key lieutenant to Walt, replied personally. His letter contains a crucial admission:
 
-"We trust that after you have viewed the picture you will agree that we have treated the angel with sincere respect... \[we\] researched the real life character extensively." 1
+"We trust that after you have viewed the picture you will agree that we have treated the angel with sincere respect and endowed him with a certain dignity." 1
 
-This phrase—"researched the real life character extensively"—is the pivot point. It is impossible to research John Chapman "extensively" without encountering his defining characteristic: his zeal for the New Church. Chapman did not just plant trees; he planted Swedenborgian societies. He tore pages out of *Heaven and Hell* and *True Christian Religion* to leave with settlers. He refused to prune trees because he believed (following Swedenborg) that cutting living things caused pain in the spiritual world. Adelquist’s defense proves the studio *knew* who Chapman was. They were not ignorant of his sectarian ties; they were managing them.
+He wrote that the studio had researched the real Chapman extensively, and that assurance is the pivot point. It is impossible to research John Chapman extensively without encountering his defining characteristic: his zeal for the New Church. Chapman did not just plant trees; he planted Swedenborgian societies. He tore pages out of *Heaven and Hell* and *True Christian Religion* to leave with settlers. He refused to prune trees because he believed (following Swedenborg) that cutting living things caused pain in the spiritual world. Adelquist’s defense proves the studio *knew* who Chapman was. They were not ignorant of his sectarian ties; they were managing them.
 
 ### **3.2 The "Blessings Three": A Theological Rosetta Stone**
 
@@ -63,7 +63,7 @@ To the lay audience, this is a catchy rhyme. To a Swedenborgian, this is a catec
 * **Faith** \= The Understanding (The Intellectual Form)  
 * **The Apple Tree** \= Works/Use (The Natural Manifestation)
 
-By selecting "Love, Faith, and the Apple Tree," the Disney songwriters (likely guided by consultants) preserved the structural core of Swedenborgian soteriology. They encoded the "Trinity of Essentials." Florence Murdoch herself recognized this code, writing back to the studio to praise the inclusion of the "Blessings Three" as a valid representation of Chapman's faith. This confirms that the transmission was not "indirect" or accidental; it was a negotiated, conscious act of translation.
+By selecting "Love, Faith, and the Apple Tree," the Disney songwriters (likely guided by consultants) preserved the structural core of Swedenborgian soteriology. They encoded the "Trinity of Essentials." Florence Murdoch herself recognized this code: her letter to the studio welcomed the inclusion of the "Blessings Three," which she presented as Johnny's own words. This confirms that the transmission was not "indirect" or accidental; it was a negotiated, conscious act of translation.
 
 ### **3.3 The "Pioneer Spirit" Angelology**
 

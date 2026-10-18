@@ -105,7 +105,9 @@ The definitive proof regarding the studio's awareness of Swedenborgianism lies i
 
 In 1948, prior to the film's release, Murdoch wrote to Walt Disney protesting the depiction of Johnny’s angel (specifically the coonskin cap), fearing it degraded Chapman’s spiritual dignity. Adelquist responded on behalf of the studio. His letter contained a critical admission:
 
-"We trust that after you have viewed the picture you will agree that we have treated the angel with sincere respect... \[we\] researched the real life character extensively." 7
+"We trust that after you have viewed the picture you will agree that we have treated the angel with sincere respect and endowed him with a certain dignity." 7
+
+The studio, he wrote, had researched the real Chapman extensively.
 
 **Insight:** It is impossible to research John Chapman "extensively" without encountering his defining characteristic: his missionary work for the Church of the New Jerusalem (Swedenborgianism). Chapman was not just a tree planter; he was a colporteur who distributed Swedenborg’s books (*Heaven and Hell*, *True Christian Religion*) across the frontier, tearing them into chapters to share with settlers. By admitting to extensive research, Adelquist confirmed that the studio **knew** Chapman was a Swedenborgian missionary. This was not a case of ignorance; it was a case of management.
 

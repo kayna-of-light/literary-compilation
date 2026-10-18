@@ -11,10 +11,10 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 
 **Replaced wholesale at the end of every run.** This block describes the present, not the history — history goes in the run log below. A run that leaves this stale has failed its successor.
 
-> **Status**: 46 documents audited once PR #39 (`claude/nightly-audit-2026-10-16`: *The Unhidden Man*, `02`;
-> *Revelation and Bricolage*, `06`) merges. 206 remain of 252. Nothing in flight. GitHub write access works. Other open
-> PRs on `dev`: #33 (strain #9), #35 (Proto-Luke/Marcion corrections in 17 documents, including *Carriers of Living
-> Water*) — exclude PR #35's documents from full audits until it merges.
+> **Status**: 47 documents audited once this run's PR (`claude/nightly-audit-2026-10-17`: *The Parsimony Problem*, `07`)
+> merges. 205 remain of 252. Nothing in flight. GitHub write access works. Other open PRs on `dev`: #33 (strain #9),
+> #35 (Proto-Luke/Marcion corrections in 17 documents, none in `07`) — exclude PR #35's documents from full audits until
+> it merges.
 >
 > **Standing rule from the author (2026-10-11): an unchecked source is the highest alarm.** Nothing goes into a
 > document, the ledger, a research question or a notification unless it was checked against the work itself or a
@@ -39,12 +39,9 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > `AJ_angel_name_translations.yaml` glosses Tebar "to break/bear" (Aramaic תבר is only "break", Jastrow) and finding
 > AJ-020 still carries the wrong loci listed in the register row "Claude-written `08` theses".
 >
-> **Latest (2026-10-15 night, 2026-10-16/17 with the author)**: *The Crisis of Ensoulment* is done (PR #38). On review
-> the author corrected two habits, and they are now standing rules (below). The Johnny Appleseed sentence was restored to
-> its trail (the Murdoch–Adelquist letters of 1948), and Blair's confirmation is stated as suggesting a long affinity.
-> At the author's request a **campaign over every Disney–Swedenborg document** began. Its working state is
-> [`disney_cumulative_case_map.md`](disney_cumulative_case_map.md): each evidence node is verified once, with a running
-> statement of where the case honestly points.
+> **The Disney–Swedenborg campaign is under way** (author's request on PR #38, 2026-10-16). Its working state is
+> [`disney_cumulative_case_map.md`](disney_cumulative_case_map.md): each evidence node verified once, with a running
+> statement of where the case honestly points. Read it before any `07` Disney audit and update it in the same commit.
 >
 > **Standing rules from the author (2026-10-16):**
 > - **The `07` Disney documents argue a cumulative case**: the studio carried Swedenborgian ideas to the public under
@@ -57,37 +54,37 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > - **Look before ruling on what a film or image shows.** Pull frames (`ffmpeg` is installed; archive.org holds the
 >   public-domain films) or production art (Snow White Museum) and view them with the Read tool. Synopses do not settle it.
 >
-> **Also (2026-10-16 night, PR #39)**: the third *Journal of Dreams* pair, `02/The Unhidden Man` and
-> `06/Revelation and Bricolage`, both `corrected` (picked before the campaign direction reached the ledger). Every
-> English *Journal* quotation was verbatim Odhner; the errors were around them (Swab's dog read as Swab, the palace
-> dream dated October for September, Latin §§120 and 172 quoted in an English no edition has, *HH* §95 "nervous
-> system", a §50 "failure" the journal does not record). Propagated into `02/The Divine Bricolage and the Incarnation
-> of Truth` (*HH* §95).
+> **Latest (2026-10-17 night)**: *The Parsimony Problem*, the hub, is `corrected`. Every node it rests on was checked
+> against the record; Grimm 1857, 509 S. Westmoreland, Adelquist's screen credit and the provenance rows are now
+> verified in the map. The case held and stated its independence honestly (Adelquist counted once). The spliced
+> Adelquist quotation ("sincere respect... [we] researched the real life character extensively") was corrected in all
+> nine documents carrying it, together with "Swedenborgian archivist", Murdoch "writing back", and Grimm's "neighboring
+> kingdom". Those propagation fixes are done; do not redo them at the documents' audits.
 >
 > **Take next: the Disney campaign, one or two documents a night** (author's direction, so this is not a thematic
-> drift). Read the map first and update it in the same commit as each audit.
-> 1. **`07/The Parsimony Problem`** (3.8k, the hub). Remove the Jasper inference, the "Worcester, B. (Family records)"
->    reference and the Walt Disney Archives / Wayfarers provenance it cannot support. Note that Adelquist sits in two
->    strands. Restate the cloud castle at its verified strength: the production art shows the change from an earthly
->    crag castle to a golden castle on clouds. No Works Cited heading; references are APA-like.
-> 2. **`07/The Pneumatic Cinema`** + **`07/The Animating Spirit and the Hidden Temple`**: the Adelquist/Jasper inference
->    (Utah vs Iowa conflict), Worcester residues, the 509 S. Westmoreland church.
-> 3. **`07/The Invisible Influx`** (§VI "The Worcester Connection"), **`07/The Carriers of the Invisible`** (Ponti,
->    Herhuth), **`07/The Architect of the Invisible`**, **`07/The Glass Church and the Magic Mirror`**: the personnel and
->    Wright/Sullivan strand.
-> 4. **`07/The Animating Spirit_ A Cultural History`** (13.7k): the synthesis, with about eighteen propagated fixes in an
->    unrebuilt superscript list. Most of it can be checked against the map once 1–3 are done. Its §V
->    Grimm/Andersen/Carroll claims are untraced. Its line 387 ("not a late-life conversion") overstates: the record
->    suggests affinity and does not prove it.
-> 5. **`07/Cartographer of the Psychic Highway`**, **`07/The Apple and the Angel`** (Dutch list; §5.3 trail verified
+> drift).
+> 1. **`07/The Pneumatic Cinema`** + **`07/The Animating Spirit and the Hidden Temple`**: the Adelquist/Jasper inference
+>    ("Lenox Township", "ancestral memory"; Utah vs Iowa conflict) is the section built on a false fact — rewrite it to
+>    Adelquist's two documented positions (map). Worcester residue in *Hidden Temple* §2.1. Creedon and the
+>    "Self-Destruction of Evil" (*Pneumatic* §3) is untraced. Use the 509 S. Westmoreland notices already found.
+> 2. **`07/The Invisible Influx`** (§VI "The Worcester Connection"), **`07/The Carriers of the Invisible`** (Ponti,
+>    Herhuth; Chapman "refused to prune trees … pain in the spiritual world" is untraced in both),
+>    **`07/The Architect of the Invisible`**, **`07/The Glass Church and the Magic Mirror`** (Adelquist "born in Utah to a
+>    family of Swedish immigrants"; tenure "roughly 1945–1953"): the personnel and Wright/Sullivan strand. Check the
+>    Lloyd Wright lead in the map (he designed for the 509 S. Westmoreland society).
+> 3. **`07/The Animating Spirit_ A Cultural History`** (13.7k): the synthesis; superscript list; §V Grimm/Andersen/Carroll
+>    untraced; line 387 ("not a late-life conversion") overstates; "Falls from cliff pursuing the dwarfs" (table, line
+>    65) and its provenance "Cincinnati church archives" need checking.
+> 4. **`07/Cartographer of the Psychic Highway`**, **`07/The Apple and the Angel`** (Dutch list; §5.3 trail verified
 >    via Fryeburg), **`07/The Diffracted Light`**, **`07/The Animating Spirit_ An Exhaustive Analysis`**,
 >    **`07/The Mirror and the Star`**, **`07/The Inverted Influx`**.
-> 6. The literary anchors: **`07/The Mirror of the Invisible`** (Grimm), **`07/The Celestial Botany`** (Andersen),
->    **`07/The Looking-Glass of Theology`** and **`07/The Ontology of the Riddle`** (Carroll).
+> 5. The literary anchors: **`07/The Mirror of the Invisible`** (Grimm — the 1857 text is now one curl away, register),
+>    **`07/The Celestial Botany`** (Andersen), **`07/The Looking-Glass of Theology`** and **`07/The Ontology of the
+>    Riddle`** (Carroll).
 >
-> Open nodes, to settle as the campaign reaches them: the Grimm 1857 details; the LA New Church at 509 S. Westmoreland;
-> Wright/Sullivan and Swedenborg; Adelquist's birth and family; where the Murdoch letters are held. The author was asked
-> whether they can reach the letters themselves (Johnny Appleseed Museum, Urbana; Walt Disney Archives).
+> Open nodes: where the Murdoch letters are held; where Carmer's papers are (the Syracuse and Empire ADC finding aids block
+> the session); Wright/Sullivan and Swedenborg; Adelquist's birth and family. The author was asked whether they can
+> reach the letters (Johnny Appleseed Museum, Urbana; Ohio History Connection; Walt Disney Archives).
 >
 > **Between campaign nights, or once it is done**, the earlier queue: `02/The Scientist and the Seer` (+ the two `06/Forging a Foundation` documents;
 > every Swedenborg locator is in the register row "Swedenborg on Genesis 1–11"); `08/The Letters They Dropped`, `08/The Literalized Fall`, `08/Reversing the Arrow`; finish
@@ -96,7 +93,8 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > siblings, `06` creation-myth siblings, `01/The Empirical Architecture of Survival`.
 >
 > Coverage: `00_Master_Theses` ×1, `00_Framework` ×1, `01` ×8, `02` ×9, `03` ×6, `04` ×4, `05` ×4 (+1 partial), `06` ×8,
-> `07` ×4, `08` ×3. Weight toward `00_Framework` and `08` next.
+> `07` ×5, `08` ×3. The campaign holds `07` by the author's direction; between campaign nights weight toward
+> `00_Framework` and `08`.
 >
 > **Carry into the next `00_Framework` audit**: *A Coherent Framework* §5.3 is the deleted *Proprium et Influx*'s
 > political reading; re-source each sentence to an established library report or drop it. Its §5.2 can be checked
@@ -142,6 +140,9 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 >   cumulative-case documents (*The Apple and the Angel*, *Cartographer of the Psychic Highway*, *The Parsimony Problem*,
 >   *A Cultural History*) carry the trails that Gemini compressed into one-line claims with wrong citation numbers. A
 >   wrong citation means the trail must be found, not that the claim is false (author, 2026-10-16; the Murdoch letters).
+> - **Watch for ellipsis splices** in quotations: a verbatim sentence cut at "…" with a source's paraphrase glued on
+>   (register). Full-text sources found for the campaign (Gabler, Grimm 1857, *LA Times*, museum images, remote ffmpeg)
+>   are in the register row of 2026-10-17.
 > - **No subagents** (procedure § 4.2). Curl every source once into the scratchpad, extract, one phrase-search script.
 > - **swedenborg.com returns 429** after two or three PDF downloads in a row; e-swedenborg.com (browser `User-Agent`)
 >   serves Potts *AC*, Dick *SS*, Buss *SE* by section (`writings/static/<code>/<n>.htm`; AC `d6943`, SS `d10409`,
@@ -171,9 +172,9 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 | Metric | Count |
 |---|---|
 | Documents in `data/` | 252 |
-| Audited | 46 |
+| Audited | 47 |
 | In flight | 0 |
-| Remaining | 206 |
+| Remaining | 205 |
 
 Refresh the total with `find data -name "*.md" | wc -l`.
 
@@ -265,6 +266,7 @@ Refresh the total with `find data -name "*.md" | wc -l`.
 | 2026-10-16/17 | Disney–Swedenborg campaign, first pass: `docs/disney_cumulative_case_map.md` (new) + `07/The Crisis of Ensoulment` (follow-ups) | Author's request on PR #38: treat every document on the subject, keeping the cumulative case in view | **Read**: *The Apple and the Angel* (full), *The Parsimony Problem* (full). **Verified**: Fryeburg page on Murdoch (letters of 1948; Adelquist's verbatim reply); Gabler (Adelquist "named the head assistant director"); *Scribe of Heaven* (Jasper Colony "German-speaking"); Wikipedia on Adelquist (Salt Lake City birth, uncited); the 1916 *Snow White* (archive.org `silent-snow-white`, last 4 minutes viewed: an indoor, earthly ending at the throne); Snow White Museum sequence 16A art (the crag-castle concepts versus the Scene 19 golden castle on clouds). **Graham "line of action"**: all 18 Perk-published classes OCR'd (about 321k characters), not found. | *Crisis*: Blair line reframed ("a late step that suggests a long affinity", citing *A Cultural History*). The map records: Adelquist–Jasper inference **not supported**; Worcester residues in 3 documents; the cloud castle **verified** and stronger than *Parsimony* states (a production change to a celestial ending); Adelquist counted in two "independent" strands. A morning note citing *Jack and the Beanstalk* as precedent was withdrawn after viewing the art. | — | Five open nodes (see the map) | map started; *Crisis* corrected |
 | 2026-10-16 | `02_Swedenborgian_Theology/The Unhidden Man_ Emanuel Swedenborg's Inner World and the Forging of a Prophetic Vision.md` | Handoff pick 0: third *Journal of Dreams* document; markers stripped to `\]` fragments; Dutch `Geciteerd werk` raw list (20 URLs: Wikipedia ×4, Britannica ×2, EBSCO, blogs) | 20 raw entries + ~40 stripped markers + 5 empty table cells. **Every quotation checked against Odhner 1918** (archive.org `emanuelswedenbor00swed` djvu): all English quotations verbatim, now cited by paragraph (§§14, 16, 18, 20, 24, 33, 38–41, 51–55, 82, 129, 134, 171, 243). **Traced**: Wikipedia → its footnote sources, each checked by Crossref (Gross 1997 *Neuroscientist* 3.2: 142–47, abstract names cortex and pituitary; Fodstad 2001 *SFN* 77: 20–24, abstract names Swedenborg's 1740 neuron anticipation; Baker 1983 *Phys. Teach.* 21.7: 441–46, nebular hypothesis); Pietism of Bishop Swedberg → Acton 1949 (read: "a pietist in the sense…"); Flamsteed/Halley/algebra/31 years → Swedenborg Society "About Swedenborg" (institution page, read); first Swedish scientific journal → Sigstedt 1952 ch. 7 (read); House of Nobles memorials → A. W. Acton, *New Philosophy* 45.1 (1942) (read); Sigstedt ch. 29 and Toksvig ch. 12 kept (real works, read). Removed: EBSCO Research Starters, Britannica ×2, Wikipedia ×4 (Age of Enlightenment, Pietism, Correspondence), Foundation blog posts ("Does God have an Ego?", "kinds of angels" recap, unreadable JS "Swedenborg's Life"), NewChurch Live blog, Kingslake *Inner Light* ch. 5, the UTD thesis, swedenborgsociety.wordpress (duplicate of the Society page), CHI Pietism PDF (general Pietism, nothing specific the body uses) — none was the sole support of a claim. | **F.** (1) Anders Swab "appears in a dream as a dog" → he is the dog's former master (§82); the dog "of Swab" carries the symbol. (2) Gable-end palace dream "October 29-30" → **September 29–30** (§243); "member of an immortal society because of" → a society resolved he become a member "as it were an immortal", the dream referring to the organic-forms work. (3) §172 quoted in English ("the love of what is holy… the love of wisdom") — Odhner leaves §§171–172 in Latin, and no English edition read has those words → the Latin given (*amorem sancti maxime ultimum*, *amorem sapientiae*), glossed outside quotation marks; it is the dream, not "the woman", that signifies. (4) §120 "teeth in her private parts, preventing entry" → *sicut dentes* in front; "preventing entry" is in no text; his own "I do not know what it signifies" restored. (5) Broman's dog squeezed "by the jaws" → by the jaws and by the nose (§41); "party (" → "party, (" verbatim. (6) "His own interpretation" of the wheel dream → "One of his own interpretations" (he gave two, §18). (7) *HH* §95: spiritual kingdom "like the lungs and the nervous system" → the lungs and the motor fibres through which they rule. (8) Swab's flaws "(pride, corruption)" → "(dominion, bribery)": pride is Swedenborg's own in §82; *SE* §§4835, 5042 (Bush/Buss vol. 4, Drive id in register) give dominion through doctrine and bribery; Charles XII and the love of dominion = *SE* §§4763–4764. (9) "diabolical urge" is Sigstedt's phrase (ch. 29), now credited. Table 1 entry column filled with paragraph numbers. List rebuilt as `## **Works Cited**` (11: 3 primary, 7 scholarly, 1 web). **Left alone**: the psychological reading of the journal (the document's argument; see run log); "night of March 24" (the entry is headed March 24–25 — the night of the 24th). | `02/The Divine Bricolage and the Incarnation of Truth` l.21 ("lungs and nervous system" → *HH* §95 wording) | 0 | corrected |
 | 2026-10-16 | `06_Mythological_Studies/Revelation and Bricolage_ A Comparative Analysis of Swedenborgian and Anthropological Models of the Exodus Narrative.md` | Handoff pick 0 pairing: Part I is the same Delft narrative; markers stripped entirely; Dutch `Geciteerd werk` raw list (15 URLs: Wikipedia ×3, eBay, Barnes & Noble, LCMS, scienceofcorrespondences, blogs) | 15 raw entries, no surviving markers. **Every *Journal of Dreams* quotation verbatim in Odhner** (§§49–54). **Every Swedenborg claim located in the text**: "made-up history" *AC* §1020 (SE vol. 1, Clowes rev. Potts); true historicals from Gen 12 *AC* §1403 (Potts, e-swedenborg) and §66; Adam = Most Ancient Church §478; first chapters "transcribed from it by Moses" *TCR* §279 (Ager SE) and first seven chapters extant, *SS* §103 (Potts SE, Foundation *Four Doctrines* PDF); "basis, the container, and the support" *SS* §27 (Potts SE, verbatim); Egypt §1462, Pharaoh §§6651, 7272, Israel §§6637, 6666; "forbidden to read writers on dogmatic and systematic theology" = letter to Beyer, Stockholm, February 1767, Tafel II.1 Doc. 234 pp. 260–61 (djvu text, read). "remains and debris of events" = Lévi-Strauss, *The Savage Mind* (1966) (archive.org full-text API: the phrase in ten works quoting him). Bricolage model → the two `06` *Forging a Foundation* documents (Thera, wind setdown, three centuries of Egyptian control — all present there). Removed: Encyclopedia.com, Wikipedia ×3, scienceofcorrespondences.com, eBay and Barnes & Noble listings, LCMS tract, NewChurch Live blog, Kingslake *Inner Light* (swedenborgstudy `sd.htm`), Toksvig ch. 16 (no sentence draws on it), Acton 1949 (only the Beyer quotation, now cited to the letter), Foundation "Where does Swedenborg fit" post, newchristianbiblestudy index | **F.** (1) §1.1 "this rational argument failed to bring spiritual peace" → "did not settle the matter, though he spent an hour or an hour and a half in such thoughts" — §50 has him smiling at the tempter and feeling "somewhat better"; the record shows no failure, only that the vision, not the argument, ended the doubt. (2) "He found himself asking:" → "He named the questions such an understanding asks" — §49 gives them as what "a person asks" when the philosopher's understanding takes part. (3) In-text citations added throughout (Journal §§49–54, *AC*, *TCR*, *SS*, Beyer, Lévi-Strauss, Burridge, the two internal documents). List rebuilt as `## **Works Cited**` (11). **Left alone**: the 2026-01-25 editorial header block (an annotation that flags nothing the audit corrected); "a man whose life had been a useful spiritual purpose dedicated to…" (garbled clause, author's wording, meaning unclear — not an error of record); the bricolage claims themselves (they rest on the two internal documents, not audited here). | 0 | 0 | corrected |
+| 2026-10-17 | `07_Cultural_Pneumatology/The Parsimony Problem_ A Cumulative Case Analysis of Swedenborgian Transmission at the Walt Disney Studio (1934–1948).md` | Handoff pick 1: the Disney campaign's hub (author's direction); APA-like 7-line References, no Works Cited | **All 7 references and every factual claim traced.** Fryeburg page read in full (Murdoch: church secretary and librarian, Cincinnati Church of the New Jerusalem; she wrote first, Adelquist answered a month later as "Story Department manager", she replied seven years later). 1935 memo: animationmeat PDF extracted ("what the force behind the movement is"; "the driving force behind the action is the mood …"). Gabler 2006 full text (archive.org upload of the Knopf edition, read, cited as the book): Adelquist "named the head assistant director early in February" 1937; Walt probably saw the 1916 film in Kansas City, Jan. 1917. Eagan 2010 and *Sight and Sound* (Aug. 1994) credit Adelquist as assistant director on *Snow White* (FTS). Grimm 1857 vol. 1 pp. 264–273 (de.wikisource transcriptions of the Dieterich edition). Snow White Museum seq. 16A images viewed (concept crag castle; Scene 19 storyboard golden castle on clouds). 1916 film last 4 min tiled with ffmpeg and viewed (throne-room ending). *LA Times* church notices 1935–49 for 509 S. Westmoreland (FTS). AFI 25636 (Carmer "Folklore consultant", *Melody Time*). Crosse 2014 re-read (Theosophy, not New Thought). "Trinity of Essentials" found as genuine 19th-c. New Church usage (FTS). **Removed**: Adelquist "Walt Disney Archives" (unverified holding → Fryeburg); Graham "lecture notes, Chouinard/CalArts Archives" (→ the 1937 Action Analysis class transcript, Perk); Blair "Wayfarers Chapel Archives" (→ *The Messenger* Feb 1974); "Worcester, B. (Family records)" (supports nothing; Worcester lineage not supported). | **F.** (1) §3.1: "Swedenborgian archivist" → church librarian; spliced pseudo-quotation "researched the real life character extensively" → reported in prose + verbatim "sincere respect and endowed him with a certain dignity"; "Murdoch's response confirmed" the Love–Wisdom–Use mapping → she welcomed the Blessings Three; the mapping cited to *The Apple and the Angel*. (2) §3.2: memo "instructed animators to draw 'the driving force'" → memo to Graham asking for a course, quoted verbatim; Graham's force-before-form sentence cited. (3) "200-year-old framework" ×3 → "nearly two centuries old". (4) §3.3: Arthur Adelquist/Jasper row removed, "marriage records" source removed, "familial ties" (§§1.1, 4.1) → direct ties; Critical Finding restated; Adelquist marked as shared with the documentary line (§3.3, §3.6, §4.6 limitation 3 replaced, Appendix A †) per the map's independence check. (5) §3.4 Grimm: "servant stumbles; coffin drops" → servants stumble over a shrub, the jolt dislodges the apple; "his castle" → his father's castle. (6) §3.5: 509 S. Westmoreland cited; "Theosophical and New Thought" → Theosophical (Karlstrom; Crosse). (7) §4.4: cloud castle at its verified strength — absent from the 1916 film; the production art shows the change from crag castle to golden castle on clouds. (8) §4.7: Jasper item removed; Carmer credit → *Melody Time* (AFI) + Carmer 1936; "(Syracuse or Alabama archives)" dropped. (9) Data Provenance rows corrected to the real records. (10) References → `## 6. Works Cited` (19: 8 primary, 4 scholarly, 3 internal, 4 web); 15 in-text citations. | 10 files, campaign documents only: the spliced Adelquist quotation replaced by the verbatim line + prose report in *Hidden Temple*, *Architect*, *Carriers*, *Glass Church*, *Invisible Influx*, *Pneumatic Cinema*; the bare phrase unquoted in *A Cultural History* (×4), *Apple and the Angel*, *Cartographer*; "Swedenborgian archivist" → church librarian in *Hidden Temple*, *Carriers*, *Cultural History*, *Diffracted Light*, *Cartographer* (also "Production Manager" → Story Department Manager), *Pneumatic Cinema* ("archivists"); Murdoch "writing back to praise" → her (first) letter welcomed the Blessings Three in *Carriers*, *Invisible Influx*; Grimm "neighboring kingdom" → the prince's father's castle in *A Cultural History* (×4). Not audited. | none (Carmer papers' repository and the letters' holding stay Open in the map, not blocking) | corrected |
 
 ---
 
@@ -387,11 +389,22 @@ Candidates to watch for in early runs, from the corpus's history — confirm bef
 | Graham class scans: OCR them, don't page through | A Graham/Action Analysis quotation needs checking against Hans Perk's typescript scans | `curl` `https://www.afilmla.com/blog/AAC-MMDDYY-NN.jpg` for NN = 01… until 404 (21 June 1937 has 17 pages), then `rapidocr-onnxruntime` in the venv over the folder — clean enough to phrase-search (OCR swaps e/o; search stems). | 2026-10-15. |
 | Chapman's Swedenborgianism: the primary source | Claims about Johnny Appleseed's faith or the studio's knowledge of it, cited to genealogy blogs or fan posts | Haley, "Johnny Appleseed: A Pioneer Hero," *Harper's New Monthly Magazine* 43, no. 258 (Nov. 1871): 830–836 — full text in archive.org `harpersnew43various_djvu.txt`: "a most earnest disciple of the faith taught by Emanuel Swedenborg"; the divided books; "news right fresh from heaven". AFI Catalog 25636 lists Carl Carmer as *Melody Time*'s folklore consultant and Mary Blair under color and styling. **The studio's correspondence is real**: Fryeburg New Church Assembly, "Florence Murdoch" (`fryeburg.org/florencemurdoch`; researched with the Ohio History Connection, the Johnny Appleseed Museum and the Center for Swedenborgian Studies). Murdoch, a Swedenborgian and the Cincinnati New Church's librarian, wrote to Walt in 1948 welcoming the "Blessings Three" ("love and faith and an apple tree") and objecting to the coonskin-capped angel. Hal Adelquist replied that the studio had researched the real character extensively: "we have treated the angel with sincere respect and endowed him with a certain dignity". *The Apple and the Angel* §5.3 carries this. The generic Bible in the film is packaging that let the story reach the public without friction. It is not evidence against the thesis and must never be written as a concession. Silverman, *The Core of Johnny Appleseed* (Swedenborg Foundation 2012, free PDF on swedenborg.com), notes that the film's angel calls the Bible "darn good readin'". | 2026-10-15; corrected 2026-10-16. |
 | Claims about what a film or artwork shows | A document (or an audit) states what a scene, ending or design looks like, or that something "has no precedent" | **View it.** Public-domain films: archive.org (`advancedsearch` with `mediatype:movies` and the year), then `ffmpeg -ss <start> -i f.mp4 -vf "fps=1/8,scale=480:-1"` and tile the frames (`tile=6x5`) and read the tile. Disney production art: the Snow White Museum (`snowwhitemuseum.com/images/production-art/sequence-…`) serves full-size scans (drop the `-WxH` suffix). Never rule from synopses or search summaries. | 2026-10-16 (the cloud castle: a verdict from text was wrong; the images settled it). |
+| Spliced quotation: verbatim line + paraphrase joined by an ellipsis | `"We trust … sincere respect... [we] researched the real life character extensively."` — a real sentence cut mid-way and a source's paraphrase of the same letter glued on inside one pair of quotation marks, often with a bracketed `[we]` to make it scan | Find the source's verbatim text. Quote only the verbatim part (completed to its end), and report the paraphrased part in prose as the source reports it. Then rewrite the follow-on sentence that calls "this phrase" the pivot so it refers to the reported claim. Grep the family for the bracketed splice. | Adelquist 1948 letter in 9 `07` Disney documents (fixed 2026-10-17) |
+| Provenance rows naming an archive nobody checked | A *Data Provenance* table or reference giving "Walt Disney Archives", "Wayfarers Chapel Archives", "Chouinard/CalArts Archives" as the holding of a document actually known from a published reproduction or a web page | Replace the holding with the record the corpus actually used (Fryeburg page; *The Messenger*; Perk's published transcripts; the animationmeat/Culhane reproduction). Never invent a repository; if the holding is unknown, say only where it was published. | *Parsimony* (2026-10-17); check *A Cultural History* ("Cincinnati church archives") |
+| Full-text sources found for the Disney campaign (2026-10-17) | — | Gabler 2006 full text: archive.org `neal-gabler-walt-disney-2006-knopf-libgen.li` (`…_djvu.txt` downloads; lending copies do not). Grimm 1857 KHM: de.wikisource `Seite:Kinder_und_Hausmärchen_(Grimm)_1857_I_<page>.jpg&action=raw` (Sneewittchen pp. 264–273). *LA Times* 1930s–40s church notices: FTS on `sim_los-angeles-times_*`. Snow White Museum page HTML lists every image (`wp-content/uploads/2025/03/sq16a….jpg`) under its gallery label (Concept drawings / Storyboard / Scene N). Remote film frames without downloading: `ffmpeg -ss <s> -i "https://archive.org/download/<id>/<file>.mp4" -t <n> -vf "fps=1/8,scale=320:-1,tile=6x5" -frames:v 1 out.jpg`. Empire ADC (`empireadc.org`) and Syracuse finding aids return 403 to curl and WebFetch. | Disney campaign |
 | Graham's Action Analysis classes: the full published set | A Graham quotation to check | Hans Perk's blog has 18 class posts (16, 23, 30 Jan; 5 Mar ×2; 12 Mar 1936; 22 Feb ×2; 21 Jun; 28 Jun ×2; 19 Jul ×3; 26 Jul ×2 1937; "Don Graham hosts Dave Hand" ×2). Get the list from the Blogger JSON feed (`afilmla.blogspot.com/feeds/posts/summary?alt=json&max-results=150&start-index=N`), take each post's image URLs (rewrite to `/s1600/`), OCR them with rapidocr, and grep. Whole-set OCR takes about 20 minutes, so run it in the background. | 2026-10-16. |
 
 ## Run log
 
 Narrative per run — what the batch surfaced, and anything a later run should know that does not fit the tables. Newest first. Unlike the handoff block, this accumulates.
+
+### 2026-10-17 (night run): *The Parsimony Problem*, the Disney campaign's hub
+
+Chosen from the handoff (campaign pick 1). Precheck passed; open PRs #33 and #35 touch no Disney document. The document is a Claude-written thesis with an APA-like seven-line list, so the work was in the claims, and most of them were the map's nodes. Every node it rests on was checked against the record itself tonight, including the ones the map had already verified (Fryeburg, the memo, the castle art, the 1916 ending), and four open nodes were closed: Grimm 1857, 509 S. Westmoreland, Adelquist's credit, and the provenance rows.
+
+The case came out where the map said it would, a little stronger in two places. Adelquist's *Snow White* role is a screen credit as well as Gabler's "head assistant director". The Los Angeles Swedenborgian church sat at 509 S. Westmoreland through the whole period. What went were things the case never needed: the Jasper inference, the Worcester reference, three archives nobody had checked, and a quotation that splices Fryeburg's paraphrase onto Adelquist's real sentence. That splice was in nine documents. Each now quotes the real sentence and reports the research claim in prose, so the argument built on it stands on what Adelquist actually wrote.
+
+**Lessons.** (1) An ellipsis inside a quotation can hide a join between two sources; check the text on both sides of every "…". (2) "Trinity of Essentials" looked like a Gemini coinage and is not one. It is 19th-century New Church usage, found in four sources by full-text search. Search before calling a term invented. (3) Gabler qualifies Walt's viewing of the 1916 film with "probably"; carry a source's qualification over exactly, neither dropping it nor adding one.
 
 ### 2026-10-16 (night run): the third *Journal of Dreams* pair, *The Unhidden Man* and *Revelation and Bricolage*
 

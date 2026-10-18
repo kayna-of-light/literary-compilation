@@ -73,7 +73,7 @@ This triad corresponds precisely to the Swedenborgian **Trinity of Essentials** 
 2. **Faith (Truth/Understanding):** The intellectual form.  
 3. **The Apple Tree (Use/Works):** The natural manifestation.
 
-Swedenborg explicitly taught that "Charity and Faith make one in Good Works." By using this specific triad, the songwriters (likely advised by consultants) encoded the core soteriology of the sect while removing the "cult" label that would have triggered the Hays Code or alienated mainstream Protestant audiences.12 Florence Murdoch herself recognized this code, writing back to express her satisfaction that the "Blessings Three" were included, confirming a successful theological transmission.8
+Swedenborg taught that "charity and faith make one as good and truth do" (*Divine Providence* §82). By using this specific triad, the songwriters (likely advised by consultants) encoded the core soteriology of the sect while removing the "cult" label that would have triggered the Hays Code or alienated mainstream Protestant audiences.12 Florence Murdoch herself recognized this code, writing back to express her satisfaction that the "Blessings Three" were included, confirming a successful theological transmission.8
 
 ### **3.4 Carl Carmer: The Cartographer of the Weird**
 

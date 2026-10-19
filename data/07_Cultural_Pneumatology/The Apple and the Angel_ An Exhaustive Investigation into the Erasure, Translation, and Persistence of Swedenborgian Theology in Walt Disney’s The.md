@@ -97,14 +97,14 @@ This phrase, often repeated in the narration, is not merely a rhyme. It is a pre
 2. **Faith (Truth):** The Understanding / The knowledge of God.  
 3. **The Apple Tree (Works/Use):** The external manifestation of Love and Faith in the natural world.
 
-Swedenborg explicitly teaches that "Charity and Faith make one in Good Works". By adopting this triad, the filmmakers preserved the *structural* core of Chapman’s theology while stripping away the sectarian terminology.
+Swedenborg teaches that "charity and faith make one as good and truth do" (*Divine Providence* §82). By adopting this triad, the filmmakers preserved the *structural* core of Chapman’s theology while stripping away the sectarian terminology.
 
 ### **5.3 The Florence Murdoch Correspondence**
 
 The most definitive proof that the studio navigated this issue consciously lies in the correspondence between Disney and **Florence Murdoch**. Murdoch was a devout Swedenborgian, librarian at the Cincinnati Church of the New Jerusalem, and custodian of a massive Johnny Appleseed archive.
 
 * **The Protest:** In 1948, Murdoch wrote to Walt Disney after seeing an ad depicting Johnny’s angel wearing a **coonskin cap**. She expressed concern that the studio was taking liberties with spiritual dignity. However, she explicitly **praised** the inclusion of the "Blessings Three" phrase, recognizing it as compatible with Chapman’s actual beliefs.  
-* **The Defense:** **Hal Adelquist**, Disney’s Story Department Manager, replied to Murdoch. He stated that the studio had **"researched the real life character extensively,"** confirming they were aware of the Swedenborgian connection. He defended the film as a "sermon on... brotherly love and unselfishness."  
+* **The Defense:** **Hal Adelquist**, Disney’s Story Department Manager, replied to Murdoch. He stated that the studio had **researched the real Chapman extensively**, confirming they were aware of the Swedenborgian connection. He defended the film as a "sermon on... brotherly love and unselfishness."  
 * **The Outcome:** This exchange proves the studio was not ignorant. They had done the research, likely via Carmer, and made deliberate choices to adapt the theology into a form that was respectful but chemically altered for mass consumption. Murdoch’s eventual acceptance of the film suggests that even the New Church saw the "Blessings Three" as a valid translation.
 
 ## **VI. Theological Forensics: Traces of Swedenborg in the Animation**

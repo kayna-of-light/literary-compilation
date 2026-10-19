@@ -159,7 +159,7 @@ The textual foundation of this thesis rests on a paradigm shift in Gospel source
 
 The traditional view — inherited from polemicists like Tertullian and Epiphanius, who were adversaries of Marcion writing to destroy his reputation — holds that Marcion "mutilated" a pre-existing Gospel of Luke by removing passages that contradicted his theology. The New Marcionite Paradigm demonstrates the reverse: canonical Luke is an expansion of a shorter text substantially identical to Marcion's *Evangelion*. The evidence is directional. Editorial fatigue analysis — the phenomenon where a copyist making changes to a source text lapses back into the source's wording as concentration wanes — consistently shows canonical Luke exhibiting fatigue when diverging from the Marcionite text, not the reverse. The additions always move in one direction: from shorter to longer, from more radical to more moderate, from Jamesian to proto-Orthodox.
 
-This convergence recovers what B. H. Streeter proposed in 1924 on entirely independent grounds: that a "Proto-Luke" existed before canonical Luke, composed of Q material and L (Lukan special source), forming a continuous narrative without Markan interpolation. When Streeter's source criticism, the Marcionite textual witness, and the Western Non-Interpolation manuscript tradition are read together, a consistent picture emerges: an earlier, shorter, theologically distinct Proto-Luke that lacked the birth narratives, the genealogy, the physical resurrection proofs, and the Pauline Eucharist — a text whose theology was Jamesian rather than Pauline.
+This convergence recovers what B. H. Streeter proposed in 1924 on entirely independent grounds: that a "Proto-Luke" existed before canonical Luke, composed of Q material and L (Lukan special source), forming a continuous narrative without Markan interpolation. When Streeter's source criticism, the Marcionite textual witness, and the Western Non-Interpolation manuscript tradition are read together, a consistent picture emerges: an earlier, shorter, theologically distinct Proto-Luke that lacked the birth narratives, the genealogy, and the touching and the "flesh" of the resurrection appearance — a text whose theology was Jamesian rather than Pauline.
 
 The epistemic standing of this reconstruction is documented in the companion thesis *No Original Exists*, which demonstrates that Proto-Luke possesses everything the hypothetical Q source possesses (literary coherence, source-critical derivation) *plus* an external control text (Marcion's *Evangelion*), *plus* manuscript support (Western Non-Interpolations), *plus* convergent patristic attestation from multiple hostile witnesses, *plus* predictive power. Yet Q — with zero manuscript witnesses, zero patristic attestation, and zero archaeological evidence — is treated as near-certain, while Proto-Luke is treated as speculative. The asymmetry has nothing to do with evidence and everything to do with what each hypothesis implies. Q threatens nothing. Proto-Luke says: the canonical text has been tampered with.
 
@@ -287,7 +287,7 @@ The DNA evidence from the Talpiot tomb confirms the spousal relationship. Mitoch
 
 The canonical Martha-Mary pericope (Luke 10:38-42) is an editorial construction. This is demonstrated through six independent lines of evidence, each identifying the same construction through a different disciplinary lens, detailed in the companion thesis *The Mistress Who Became a Sister*.
 
-**Text-critical evidence.** The pericope is absent from the Marcionite *Evangelion* as attested by Tertullian and Epiphanius. It is absent from the Proto-Luke reconstruction. It was not part of the earliest recoverable form of the Gospel. No pre-Origenian patristic witness quotes or alludes to the scene.
+**Text-critical evidence.** Neither witness to the Marcionite *Evangelion*, Tertullian or Epiphanius, mentions the pericope, and it is not part of the Proto-Luke reconstruction. It is not attested in the earliest recoverable form of the Gospel. No pre-Origenian patristic witness quotes or alludes to the scene.
 
 **Aramaic philological evidence.** The word *Mārthā* is not a name. It is the emphatic feminine of *Mar* — the standard East Aramaic honorific title attested forty-three times across the Manichaean corpus. Applied to a woman, it means "The Mistress." In an Aramaic source tradition, *Mariamene Marta* would be parsed as "Mariamene the Mistress" — a name followed by an appositive title. A Greek-speaking editor, encountering this construction, would face a genuine parsing ambiguity: the title looks like a second proper name.
 
@@ -445,9 +445,9 @@ Self-sourcing, as the *Architecture of Autonomy* demonstrates, is the directiona
 
 The editorial programme that suppressed the Jamesian tradition and installed the Pauline narrative as normative Christianity is concentrated in a single literary project: the creation of Luke-Acts as a unified two-volume work. Under the New Marcionite Paradigm, the editorial sequence is reversed from what scholarship assumed for 150 years. Marcion's *Evangelion* is not an abridgement of canonical Luke; canonical Luke is an expansion of a text substantially identical to Marcion's Gospel. The direction of change is addition, not subtraction.
 
-The earlier source is Proto-Luke — the Jamesian Protograph. Three independent lines of evidence converge on its recovery. Streeter's source criticism (1924) demonstrated that removing Markan material from Luke leaves a coherent continuous narrative — not fragments but a gospel. The Marcionite textual witness provides an external control text: a shorter Gospel attested by multiple hostile patristic witnesses (Tertullian, Epiphanius) that lacks the birth narratives, the genealogy, the Pauline Eucharist, and the physical resurrection proofs. The Western manuscript tradition (Codex Bezae, Old Latin) preserves shorter readings that align with the Marcionite witness in precisely the passages where theological motivation for expansion is strongest.
+The earlier source is Proto-Luke — the Jamesian Protograph. Three independent lines of evidence converge on its recovery. Streeter's source criticism (1924) demonstrated that removing Markan material from Luke leaves a coherent continuous narrative — not fragments but a gospel. The Marcionite textual witness provides an external control text: a shorter Gospel attested by multiple hostile patristic witnesses (Tertullian, Epiphanius) that lacks the birth narratives, the genealogy, the baptism and temptation, and the touching and the "flesh" of the resurrection appearance. The Western manuscript tradition (Codex Bezae, Old Latin) preserves shorter readings in the passages where theological motivation for expansion is strongest; the Marcionite witness agrees with it in some of them and not in others (it has the covenant cup of 22:20 and "He has been raised" at 24:6).
 
-Proto-Luke was a pre-70 CE document. The evidence for this dating is the *vaticinium ex eventu* test: canonical Luke 21:20 reads "When you see Jerusalem surrounded by armies" — a specific reference to the Roman siege that requires knowledge of the event. Mark 13:14 and the Marcionite witness use the vague Danielic phrase "abomination of desolation" — a cryptic apocalyptic warning suitable as a pre-70 oracle. The Eusebius tradition records that the Jerusalem Church fled to Pella after receiving a prophetic "oracle" — plausibly the Proto-Lukan text itself, whose generic apocalyptic warning allowed pre-emptive flight in a way that a specific reference to "armies" (written after the event) could not.
+The dating of Proto-Luke cannot rest on the *vaticinium ex eventu* test at Luke 21:20. Canonical Luke 21:20 reads "When you see Jerusalem surrounded by armies" — a specific reference to the Roman siege that requires knowledge of the event — and the Marcionite text reads the same: "cum coepisset vallari exercitibus Hierusalem" (Tertullian, *Marc.* 4.39.9). Mark 13:14 alone has the vague Danielic phrase "abomination of desolation." The Marcionite text lacks the lament over the city with its siege works (19:41–44; Epiphanius, *Pan.* 42.11.6, sch. 53) and the command "then those in Judea must flee to the mountains" with what follows (21:21–22; sch. 59). The Eusebius tradition records that the Jerusalem Church fled to Pella after receiving a prophetic "oracle"; the flight command that would fit that oracle is not in the Marcionite text.
 
 The theological profile of Proto-Luke matches the Jamesian community with precision documented in §3.4: absolute poverty theology, Spirit Christology, Torah observance, anti-Temple polemic, and the correspondential parabolic content that yields full line-by-line spiritual depth when read through the correspondential key. The canonical editor's task was to transform this Jamesian source into something compatible with the Pauline programme — and the specific insertions he performed are identifiable, datable, and theologically motivated.
 
@@ -457,9 +457,9 @@ The editorial interventions are identifiable, datable, and theologically motivat
 
 **The Birth Narratives (Luke 1-2).** These chapters do not exist in Marcion's *Evangelion*. Their vocabulary, style, and theology differ markedly from the rest of the Gospel — a sharp shift to a "Septuagintal" style heavily imitating the Old Testament, suggesting a later "prequel." Their purpose is to establish Davidic genealogy through biological lineage rather than prophetic commission. The Magnificat (1:46-55) may preserve genuine Jamesian material — its radical reversal theology ("He has filled the hungry with good things, and the rich he has sent away empty") is indistinguishable from the Epistle of James. But the editorial framework into which it is placed transforms a prophetic cry into a nativity pageant.
 
-**The Pauline Eucharist (Luke 22:19b-20).** The longer form of the Last Supper contains "This cup that is poured out for you is the new covenant in my blood" — absent from the Western text tradition (Codex Bezae and Old Latin). The shorter text contains no theology of blood atonement. The longer text imports Paul's Eucharistic formula from 1 Corinthians 11:24-25 directly into the mouth of Jesus. This is not a textual variant. It is Paul's interpretation of Jesus's death placed retroactively onto Jesus's own lips, using Jesus's own voice to authorise the theology of the man who replaced him.
+**The Pauline Eucharist (Luke 22:19b-20).** The longer form of the Last Supper contains "This cup that is poured out for you is the new covenant in my blood" — absent from the Western text tradition (Codex Bezae and Old Latin). The shorter text contains no theology of blood atonement. The Marcionite text was not the shorter text: it had the cup and the covenant "sealed with his blood" (Tertullian, *Marc.* 4.40.4; also 4.40.6). What no witness to it cites is the sacrificial clause, "poured out for you." The longer text imports Paul's Eucharistic formula from 1 Corinthians 11:24-25 directly into the mouth of Jesus. This is not a textual variant. It is Paul's interpretation of Jesus's death placed retroactively onto Jesus's own lips, using Jesus's own voice to authorise the theology of the man who replaced him.
 
-**The Physical Resurrection Proofs (Luke 24:36-43).** The Western Non-Interpolations demonstrate that Luke 24 was expanded with anti-Docetic material designed to prove the physicality of the resurrection. The shorter text — preserved in Codex Bezae and the Old Latin — narrates a resurrection appearance consistent with Spirit Christology: the Risen One appears, is recognised, blesses, and departs. The longer text adds: "Touch me and see; for a ghost does not have flesh and bones as you see that I have" (24:39) and then "Have you anything here to eat?" followed by the consumption of broiled fish (24:41-43). The resurrected Jesus eats fish to settle a theological argument. The "Living One" of the Jamesian tradition has been replaced by a figure who chews fish to prove he has a digestive system.
+**The Physical Resurrection Proofs (Luke 24:36-43).** Luke 24 was expanded with anti-Docetic material designed to prove the physicality of the resurrection. The Western text omits the greeting of 24:36b and the showing of the hands and feet (24:40). The Marcionite text had 24:39 in a shorter form: "see my hands and my feet, that it is I myself, for a spirit does not have bones as you see me having" (Tertullian, *Marc.* 4.43.6; Epiphanius, *Pan.* 42.11.6, sch. 78) — no "touch me and see," no "flesh." It also had the request for food, which Tertullian reads as meant "to show that he had teeth" (*Marc.* 4.43.8); the eating of the fish (24:42–43) is cited by neither witness. The canonical text adds: "Touch me and see; for a ghost does not have flesh and bones as you see that I have" (24:39). The resurrected Jesus eats fish to settle a theological argument. The "Living One" of the Jamesian tradition has been replaced by a figure who chews fish to prove he has a digestive system.
 
 **Peter's Visit to the Empty Tomb (Luke 24:12).** This verse — absent from Codex Bezae and Old Latin — duplicates John 20:3-10 almost verbatim. It was added to place Peter at the scene of the resurrection and to provide male apostolic verification for the women's testimony.
 
@@ -468,14 +468,14 @@ The editorial interventions are identifiable, datable, and theologically motivat
 | Passage | Content | Western Status | Theological Function |
 |---------|---------|----------------|---------------------|
 | Luke 1:5–2:52 | Birth narratives | Absent from Marcion | Davidic legitimation |
-| Luke 22:19b-20 | "New covenant in my blood" | Absent from D, Old Latin | Pauline atonement → Jesus's mouth |
+| Luke 22:19b-20 | "New covenant in my blood" | Absent from D, Old Latin (the Marcionite text has the cup and covenant) | Pauline atonement → Jesus's mouth |
 | Luke 24:12 | Peter runs to tomb | Absent from D | Petrine verification |
 | Luke 24:36b | "Peace be with you" | Western Non-Interpolation | Harmonisation with John 20:19 |
-| Luke 24:39-40 | "Flesh and bones"; hands and feet | Western Non-Interpolation | Anti-Docetic physical proof |
-| Luke 24:41-43 | Eating broiled fish | Part of anti-Docetic expansion | Digestive proof of physicality |
+| Luke 24:39-40 | "Touch me", "flesh"; hands and feet | 24:39 additions absent from Marcion; 24:40 Western Non-Interpolation | Anti-Docetic physical proof |
+| Luke 24:42-43 | Eating broiled fish | Not cited by the Marcionite witnesses (the request for food, 24:41, is attested) | Digestive proof of physicality |
 | Luke 24:51b-52 | Carried up into heaven; worshipped | Absent from D, א* | Physical ascension |
 
-Every single difference moves in the same direction: from sparse to elaborate, from communal to sacramental, from spiritual to physical, from Jamesian to proto-Orthodox.
+Every difference the witnesses attest moves in the same direction: from sparse to elaborate, from communal to sacramental, from spiritual to physical, from Jamesian to proto-Orthodox.
 
 ### 6.3 The Domestication of Paul in Acts
 
@@ -505,7 +505,7 @@ The term itself encodes the scandal. A "Western Non-Interpolation" is a passage 
 
 The key instances cluster in Luke 22-24 — precisely the sections where theological motivation for expansion is strongest. The Pauline Eucharist formula (22:19b-20), Peter's tomb visit (24:12), the "Peace be with you" greeting (24:36b), the display of hands and feet (24:40), and the bodily ascension (24:51b-52) are all absent from the Western witnesses and all serve the same editorial purpose: harmonisation with other Gospels, physical resurrection proofs, and enhancement of apostolic authority.
 
-The Marcionite evidence, unavailable to Westcott and Hort, strengthens the case. The passages identified as interpolations on manuscript grounds alone are also absent from the Marcionite tradition, providing external confirmation from an independent textual witness. The convergence of manuscript evidence, Marcionite attestation, theological motivation analysis, and internal literary analysis on the same set of passages constitutes the strongest forensic tool available for detecting the editorial programme.
+The Marcionite evidence, unavailable to Westcott and Hort, does not line up with this list. It has the covenant cup of 22:20 (Tertullian, *Marc.* 4.40.4) and "He has been raised" at 24:6 (Epiphanius, sch. 76), both omitted by the Western text; neither witness cites 24:12, 24:36b or 24:40; and neither cites anything after 24:47. Where the Marcionite text is shorter than the canonical one in Luke 24 — "touch me and see" and "flesh" at 24:39, "he is not here, but" at 24:6 — it is shorter in places the Western text is not. The two witnesses are independent evidence of expansion, but not of the same expansions.
 
 The NA28 reversed most of Westcott-Hort's decisions, including these passages in the printed text (though sometimes bracketed). But the reversal was not based on new manuscript evidence. It was based on a methodological policy — preference for the Alexandrian text-type over the Western — that is itself a scholarly judgment, not a settled fact. The manuscripts remember what the editors wanted them to forget.
 
@@ -519,7 +519,7 @@ Paul never mentions an empty tomb. Across seven authentic letters: no empty tomb
 
 If the Talpiot tomb is the family burial of Jesus of Nazareth — and the geochemical, statistical, and DNA evidence strongly supports this — then the Desposyni knew where the physical remains were. They preached his resurrection. This confirms the Jamesian view: the "resurrection" was the exaltation of Jesus to the right hand of God — a spiritual translation compatible with the continued existence of physical remains, exactly as Paul's seed-and-plant analogy requires.
 
-The Proto-Lukan tomb narrative — reconstructed from the convergence of the Western text, the Marcionite witness, and internal literary analysis — was shorter and theologically different from the canonical version. It lacked Peter's visit (24:12). It lacked the explicit proclamation "He is not here, but has been raised" (24:6a — a Western Non-Interpolation). It likely lacked the "flesh and bones" apology (24:39) and the fish-eating proof (24:41-43). In Proto-Luke, the empty tomb was a sign of absence — not presence. It produced confusion ("perplexity"), not faith. Faith was generated solely by the revelation of the Word (opening the Scriptures) and the Eucharist (breaking of bread) in the Emmaus story — the spiritual encounter, not the forensic evidence.
+The Proto-Lukan tomb narrative — reconstructed from the convergence of the Western text, the Marcionite witness, and internal literary analysis — was shorter and theologically different from the canonical version. It lacked Peter's visit (24:12; cited by neither Marcionite witness, and omitted by the Western text). It had the proclamation in its shortest form, "He has been raised," without "He is not here, but" (Epiphanius, sch. 76; the Western text omits the whole of 24:6a). It lacked the "touch me and see" and the "flesh" of 24:39, though it had the hands, the feet and the bones (Tertullian, *Marc.* 4.43.6; Epiphanius, sch. 78) and the request for food (*Marc.* 4.43.8). In Proto-Luke, the empty tomb was a sign of absence — not presence. It produced confusion ("perplexity"), not faith. Faith was generated solely by the revelation of the Word (opening the Scriptures) and the Eucharist (breaking of bread) in the Emmaus story — the spiritual encounter, not the forensic evidence.
 
 The canonical additions systematically "materialised" this narrative. The trajectory from Paul to Mark to Luke to John is a progressive concretisation:
 
@@ -700,7 +700,7 @@ Four witnesses. Different centuries, different languages, different religious tr
 
 ### 8.7 Swedenborg's Geographic Claim: "Great Tartary" and the Turfan Cave Libraries
 
-In 1771, Swedenborg wrote: "The Ancient Word is still preserved among the peoples who dwell in Great Tartary" (*True Christian Religion* §279). "Great Tartary" was the eighteenth-century European designation for Central Asia — the vast region stretching from the Ural Mountains to the Pacific.
+In 1771, Swedenborg wrote that the Ancient Word "is still preserved there among the people who dwell in Great Tartary" (*True Christian Religion* §279). "Great Tartary" was the eighteenth-century European designation for Central Asia — the vast region stretching from the Ural Mountains to the Pacific.
 
 This is precisely the region where Manichaean texts were preserved in cave libraries at Turfan (in the Xinjiang region of modern China). The Uyghur Khaganate adopted Manichaeism as its state religion in 762/763 CE, ensuring the institutional preservation of Manichaean manuscripts — including the Kephalaia tradition — in precisely the geographic region Swedenborg identified. The Manichaean Psalm Book — a liturgical collection whose correspondential content converges with descriptions in Swedenborg's own *Spiritual Diary* — was literally present in "Great Tartary" when Swedenborg made his claim.
 
@@ -750,7 +750,7 @@ The "mystical" sayings that scholarship classifies as late Gnostic accretions �
 
 The Apocryphon of John — preserved in four copies, the most-copied text in the library — contains a 365-angel body-creation passage followed by the explicit citation: "If you wish to know them, it is written in the book of Zoroaster." The text names its source. The body-creation system is not a Gnostic invention but a Gnostic inheritance, labelled with its provenance.
 
-Three independent Nag Hammadi witnesses confirm the Zoroastrian connection: the Apocryphon's citation, the title of Zostrianos (echoing "Zoroaster"), and Porphyry's independent testimony that Gnostic texts circulated under Zoroaster's name. The multilingual angel names in the body-creation passage — Greek, Hebrew, Egyptian — constitute a "Bene Qedem crossroads signature," reflecting the multicultural character of the carriers.
+Three independent witnesses confirm the Zoroastrian connection: the Apocryphon's citation, the title of Zostrianos (echoing "Zoroaster"), and Porphyry's independent testimony that Gnostic texts circulated under Zoroaster's name. The multilingual angel names in the body-creation passage — Greek, Hebrew, Egyptian — constitute a "Bene Qedem crossroads signature," reflecting the multicultural character of the carriers.
 
 The convergence with the Kephalaia's body-cosmos maps is striking. Two texts from different Gnostic traditions — one Sethian, one Manichaean — both preserve body-cosmos correspondence systems using the same structural logic. Both attribute this knowledge to an older source. The Apocryphon names that source explicitly: "the book of Zoroaster." The Kephalaia's naming overlays point to the same Iranian tradition. Two independent channels. One body of knowledge.
 
@@ -1015,11 +1015,11 @@ The water survived. It always does.
 |---------|--------------|-------------|---------------------|
 | Luke 1:5–2:52 | Birth narratives | Marcion | Davidic legitimation |
 | Luke 3:23-38 | Genealogy | Marcion | Universal lineage (Adam) |
-| Luke 22:19b-20 | "New covenant in my blood" | Codex Bezae, Old Latin | Pauline atonement |
+| Luke 22:19b-20 | "New covenant in my blood" | Codex Bezae, Old Latin (not Marcion) | Pauline atonement |
 | Luke 24:12 | Peter runs to tomb | Codex Bezae | Petrine verification |
 | Luke 24:36b | "Peace be with you" | Western Non-Interpolation | Harmonisation with John |
-| Luke 24:39-40 | "Flesh and bones" | Western Non-Interpolation | Anti-Docetic proof |
-| Luke 24:41-43 | Eating broiled fish | Anti-Docetic expansion | Digestive proof |
+| Luke 24:39 | "Touch me and see"; "flesh" | Marcion (Tertullian, Epiphanius) | Anti-Docetic proof |
+| Luke 24:42-43 | Eating broiled fish | Not cited by the Marcionite witnesses | Digestive proof |
 | Luke 24:51b-52 | Bodily ascension; worship | Codex Bezae, Sinaiticus* | Physical ascension |
 | Acts: Antioch incident | ERASED | Present in Galatians 2:11-14 | Maintains fiction of unity |
 | Acts: James's martyrdom | ERASED | Present in Josephus | Buries Jamesian legacy |
@@ -1051,61 +1051,63 @@ The water survived. It always does.
 9. Swedenborg, Emanuel. *True Christian Religion*. Amsterdam, 1771.
 10. Swedenborg, Emanuel. *Divine Love and Wisdom*. Amsterdam, 1763.
 11. The Quran. Trans. M. A. S. Abdel Haleem. Oxford University Press, 2004.
+12. Epiphanius. *Ancoratus und Panarion*. Vol. 2, *Panarion haer. 34–64*. Edited by Karl Holl. GCS 31. Leipzig: Hinrichs, 1922.
+13. Tertullian. *Adversus Marcionem*. Edited and translated by Ernest Evans. 2 vols. Oxford: Clarendon Press, 1972.
 
 ### Secondary Sources — Talpiot Tomb and James Ossuary
 
-12. Shimron, Aryeh, et al. "Geochemical Investigation of the James Ossuary Inscription and Its Relation to the Talpiot (Jesus Family) Tomb." *Open Journal of Geology* 10 (2020): 81-110.
-13. Feuerverger, Andrey. "Statistical Analysis of an Archaeological Find." *Annals of Applied Statistics* 2, no. 1 (2008): 3-54.
-14. Kilty, Kevin, and Mark Elliott. "Regarding the Talpiot Tomb Cluster: A Bayesian Outlook." In *The Tomb of Jesus and His Family?*, ed. James H. Charlesworth, 133-148. Grand Rapids: Eerdmans, 2013.
-15. Jacobovici, Simcha, and Charles Pellegrino. *The Jesus Family Tomb*. San Francisco: HarperSanFrancisco, 2007.
-16. Tabor, James D. *The Jesus Dynasty*. New York: Simon & Schuster, 2006.
-17. Kloner, Amos. "A Tomb with Inscribed Ossuaries in East Talpiyot, Jerusalem." *'Atiqot* 29 (1996): 15-22.
+14. Shimron, Aryeh, et al. "Geochemical Investigation of the James Ossuary Inscription and Its Relation to the Talpiot (Jesus Family) Tomb." *Open Journal of Geology* 10 (2020): 81-110.
+15. Feuerverger, Andrey. "Statistical Analysis of an Archaeological Find." *Annals of Applied Statistics* 2, no. 1 (2008): 3-54.
+16. Kilty, Kevin, and Mark Elliott. "Regarding the Talpiot Tomb Cluster: A Bayesian Outlook." In *The Tomb of Jesus and His Family?*, ed. James H. Charlesworth, 133-148. Grand Rapids: Eerdmans, 2013.
+17. Jacobovici, Simcha, and Charles Pellegrino. *The Jesus Family Tomb*. San Francisco: HarperSanFrancisco, 2007.
+18. Tabor, James D. *The Jesus Dynasty*. New York: Simon & Schuster, 2006.
+19. Kloner, Amos. "A Tomb with Inscribed Ossuaries in East Talpiyot, Jerusalem." *'Atiqot* 29 (1996): 15-22.
 
 ### Secondary Sources — Biblical Scholarship and Historical-Critical Method
 
-18. Klinghardt, Matthias. *The Oldest Gospel and the Formation of the Canonical Gospels*. 2 vols. Leuven: Peeters, 2021.
-19. BeDuhn, Jason. *The First New Testament: Marcion's Scriptural Canon*. Salem, OR: Polebridge, 2013.
-20. Vinzent, Markus. *Marcion and the Dating of the Synoptic Gospels*. Studia Patristica Supplements 2. Leuven: Peeters, 2014.
-21. Streeter, B. H. *The Four Gospels: A Study of Origins*. London: Macmillan, 1924.
-22. Westcott, Brooke Foss, and Fenton John Anthony Hort. *The New Testament in the Original Greek*. 2 vols. Cambridge: Macmillan, 1881.
-23. Bauer, Walter. *Orthodoxy and Heresy in Earliest Christianity*. Trans. Philadelphia Seminar on Christian Origins. Philadelphia: Fortress Press, 1971 [1934].
-24. Eisenman, Robert. *James the Brother of Jesus*. New York: Viking, 1997.
-25. Ehrman, Bart D. *The Orthodox Corruption of Scripture*. Oxford: Oxford University Press, 1993.
-26. Pagels, Elaine. *The Gnostic Paul*. Philadelphia: Fortress Press, 1975.
-27. DeConick, April D. *Recovering the Original Gospel of Thomas*. London: T&T Clark, 2005.
-28. Gathercole, Simon. *The Composition of the Gospel of Thomas*. Cambridge: Cambridge University Press, 2012.
-29. Pervo, Richard I. *Dating Acts: Between the Evangelists and the Apologists*. Polebridge, 2006.
-30. Charlesworth, James H., ed. *The Old Testament Pseudepigrapha*, vol. 1. New York: Doubleday, 1983.
+20. Klinghardt, Matthias. *The Oldest Gospel and the Formation of the Canonical Gospels*. 2 vols. Leuven: Peeters, 2021.
+21. BeDuhn, Jason. *The First New Testament: Marcion's Scriptural Canon*. Salem, OR: Polebridge, 2013.
+22. Vinzent, Markus. *Marcion and the Dating of the Synoptic Gospels*. Studia Patristica Supplements 2. Leuven: Peeters, 2014.
+23. Streeter, B. H. *The Four Gospels: A Study of Origins*. London: Macmillan, 1924.
+24. Westcott, Brooke Foss, and Fenton John Anthony Hort. *The New Testament in the Original Greek*. 2 vols. Cambridge: Macmillan, 1881.
+25. Bauer, Walter. *Orthodoxy and Heresy in Earliest Christianity*. Trans. Philadelphia Seminar on Christian Origins. Philadelphia: Fortress Press, 1971 [1934].
+26. Eisenman, Robert. *James the Brother of Jesus*. New York: Viking, 1997.
+27. Ehrman, Bart D. *The Orthodox Corruption of Scripture*. Oxford: Oxford University Press, 1993.
+28. Pagels, Elaine. *The Gnostic Paul*. Philadelphia: Fortress Press, 1975.
+29. DeConick, April D. *Recovering the Original Gospel of Thomas*. London: T&T Clark, 2005.
+30. Gathercole, Simon. *The Composition of the Gospel of Thomas*. Cambridge: Cambridge University Press, 2012.
+31. Pervo, Richard I. *Dating Acts: Between the Evangelists and the Apologists*. Polebridge, 2006.
+32. Charlesworth, James H., ed. *The Old Testament Pseudepigrapha*, vol. 1. New York: Doubleday, 1983.
 
 ### Secondary Sources — Manichaean and Zoroastrian Studies
 
-31. Boyce, Mary. *A History of Zoroastrianism*, vol. 1. Leiden: Brill, 1975.
-32. Henning, W. B. "The Book of the Giants." *Bulletin of the School of Oriental and African Studies* 11, no. 1 (1943): 52-74.
-33. Anklesaria, Behramgore T., trans. *The Bundahišn*. Bombay, 1908.
-34. Widengren, Geo. *Mani and Manichaeism*. Trans. Charles Kessler. London: Weidenfeld and Nicolson, 1965.
+33. Boyce, Mary. *A History of Zoroastrianism*, vol. 1. Leiden: Brill, 1975.
+34. Henning, W. B. "The Book of the Giants." *Bulletin of the School of Oriental and African Studies* 11, no. 1 (1943): 52-74.
+35. Anklesaria, Behramgore T., trans. *The Bundahišn*. Bombay, 1908.
+36. Widengren, Geo. *Mani and Manichaeism*. Trans. Charles Kessler. London: Weidenfeld and Nicolson, 1965.
 
 ### Secondary Sources — Nag Hammadi and Gnostic Studies
 
-35. Pagels, Elaine. *The Gnostic Gospels*. New York: Random House, 1979.
-36. Turner, John D. *Sethian Gnosticism and the Platonic Tradition*. Quebec: Les Presses de l'Université Laval, 2001.
-37. Pearson, Birger A. *Ancient Gnosticism*. Minneapolis: Fortress Press, 2007.
-38. Williams, Michael A. *Rethinking "Gnosticism"*. Princeton: Princeton University Press, 1996.
+37. Pagels, Elaine. *The Gnostic Gospels*. New York: Random House, 1979.
+38. Turner, John D. *Sethian Gnosticism and the Platonic Tradition*. Quebec: Les Presses de l'Université Laval, 2001.
+39. Pearson, Birger A. *Ancient Gnosticism*. Minneapolis: Fortress Press, 2007.
+40. Williams, Michael A. *Rethinking "Gnosticism"*. Princeton: Princeton University Press, 1996.
 
 ### Internal Library Documents
 
-39. [They Killed His Brother and Took His Name: A Forensic Reconstruction of the Suppression of the Jamesian Church and the Editorial Invention of Pauline Christianity](../04_Early_Christian_History/They%20Killed%20His%20Brother%20and%20Took%20His%20Name_%20A%20Forensic%20Reconstruction%20of%20the%20Suppression%20of%20the%20Jamesian%20Church%20and%20the%20Editorial%20Invention%20of%20Pauline%20Christianity.md). Master thesis on the editorial programme.
-40. [The Ancient Word Recovered: Extracting the Correspondential Substrate of the Kephalaia](../00_Framework/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md). Computational extraction of the pre-Manichaean substrate.
-41. [The Living Library: Correspondential Architecture Across the Nag Hammadi Collection](../08_Correspondential_Texts/The%20Living%20Library_%20Correspondential%20Architecture%20Across%20the%20Nag%20Hammadi%20Collection.md). Systematic correspondential analysis of all 45 NHL texts.
-42. [The Evidence They Will Not Touch: Twenty-Six Datapoints, Six Evidence Types, and the Methodological Disgrace of Historical Jesus Scholarship](../04_Early_Christian_History/The%20Evidence%20They%20Will%20Not%20Touch_%20Twenty-Six%20Datapoints%2C%20Six%20Evidence%20Types%2C%20and%20the%20Methodological%20Disgrace%20of%20Historical%20Jesus%20Scholarship.md). The complete evidential chain for the historical Jesus.
-43. [The Mistress Who Became a Sister: A Forensic Deconstruction of the Martha-Mary Pericope and the Recovery of Mariamene Marta](../04_Early_Christian_History/The%20Mistress%20Who%20Became%20a%20Sister_%20A%20Forensic%20Deconstruction%20of%20the%20Martha-Mary%20Pericope%20and%20the%20Recovery%20of%20Mariamene%20Marta.md). Six independent evidence lines for the one-person reading.
-44. [The Lost Son: The Yehuda bar Yeshua Ossuary and the Textual Traces of Jesus's Child](../04_Early_Christian_History/The%20Lost%20Son_%20Yehuda%20bar%20Yeshua%20and%20the%20Evidence%20for%20a%20Jesuine%20Lineage.md). The reclassification mechanism.
-45. [The Enochic Thread in the Johannine Corpus: Testing the Jamesian Origin Hypothesis](../03_Biblical_Scholarship/The%20Enochic%20Thread%20in%20the%20Johannine%20Corpus_%20Testing%20the%20Jamesian%20Origin%20Hypothesis.md). The Enochic substrate of the Fourth Gospel.
-46. [The Correction of the Archons: A Forensic Reconstruction of the Quranic Isa in Counter-Distinction to the Pauline Gnostic Construct](../04_Early_Christian_History/The%20Correction%20of%20the%20Archons_%20A%20Forensic%20Reconstruction%20of%20the%20Quranic%20Isa%20in%20Counter-Distinction%20to%20the%20Pauline%20Gnostic%20Construct.md). The Quranic Jesus as Jamesian restoration.
-47. [The Apostle of the Archons: A Forensic Validation of the Gnostic Substrate in the Pauline Corpus and the Imperial Co-optation of the Pneuma](../04_Early_Christian_History/The%20Apostle%20of%20the%20Archons_%20A%20Forensic%20Validation%20of%20the%20Gnostic%20Substrate%20in%20the%20Pauline%20Corpus%20and%20the%20Imperial%20Co-optation%20of%20the%20Pneuma.md). Paul's Gnostic roots.
-48. [The Architecture of Autonomy: The Gnostic Impulse as the Operational Mechanic of Selfhood](../05_The_Self/The%20Architecture%20of%20Autonomy_%20A%20Pneumatological%20and%20Historical%20Validation%20of%20the%20Gnostic%20Impulse%20as%20the%20Operational%20Mechanic%20of%20Selfhood.md). The self's drive for autonomy.
-49. [No Original Exists: The Universal Reconstruction of Biblical Texts and the Forensic Recovery of Proto-Luke](../03_Biblical_Scholarship/No%20Original%20Exists_%20The%20Universal%20Reconstruction%20of%20Biblical%20Texts%20and%20the%20Forensic%20Recovery%20of%20Proto-Luke.md). Epistemic parity of Proto-Luke and canonical reconstruction.
-50. [The Correspondential Architecture of the Four Gospels](../03_Biblical_Scholarship/The%20Correspondential%20Architecture%20of%20the%20Four%20Gospels_%20A%20Compositional%20Analysis%20Through%20the%20Lens%20of%20Ontological%20Correspondence.md). Correspondential diagnostic applied to all four Gospels.
-51. [A Prophet Mighty in Deed and Word: Understanding Jesus Through Proto-Luke, Consciousness Studies, and the Doctrine of Correspondences](../00_Framework/A%20Prophet%20Mighty%20in%20Deed%20and%20Word_%20Understanding%20Jesus%20Through%20Proto-Luke,%20Consciousness%20Studies,%20and%20the%20Doctrine%20of%20Correspondences.md). Jesus within expanded physics.
-52. [The Bulwark of the People: An Exhaustive Historical and Theological Profile of James the Brother of Jesus](../04_Early_Christian_History/The%20Bulwark%20of%20the%20People_%20An%20Exhaustive%20Historical%20and%20Theological%20Profile%20of%20James%20the%20Brother%20of%20Jesus.md). The comprehensive James profile.
-53. [The Imperial Gnosis: A Forensic Validation of the Displacement of Early Heterodoxies by the Roman Ecclesiastical Machine](../04_Early_Christian_History/The%20Imperial%20Gnosis_%20A%20Forensic%20Validation%20of%20the%20Displacement%20of%20Early%20Heterodoxies%20by%20the%20Roman%20Ecclesiastical%20Machine.md). How Rome pushed out native Christianity.
-54. [Truth Does Not Force Its Way: The Desposyni Between Perception and Providence](../04_Early_Christian_History/Truth%20Does%20Not%20Force%20Its%20Way_%20The%20Desposyni%20Between%20Perception%20and%20Providence.md). The three transmission channels and the behavioural signature.
+41. [They Killed His Brother and Took His Name: A Forensic Reconstruction of the Suppression of the Jamesian Church and the Editorial Invention of Pauline Christianity](../04_Early_Christian_History/They%20Killed%20His%20Brother%20and%20Took%20His%20Name_%20A%20Forensic%20Reconstruction%20of%20the%20Suppression%20of%20the%20Jamesian%20Church%20and%20the%20Editorial%20Invention%20of%20Pauline%20Christianity.md). Master thesis on the editorial programme.
+42. [The Ancient Word Recovered: Extracting the Correspondential Substrate of the Kephalaia](../00_Framework/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md). Computational extraction of the pre-Manichaean substrate.
+43. [The Living Library: Correspondential Architecture Across the Nag Hammadi Collection](../08_Correspondential_Texts/The%20Living%20Library_%20Correspondential%20Architecture%20Across%20the%20Nag%20Hammadi%20Collection.md). Systematic correspondential analysis of all 45 NHL texts.
+44. [The Evidence They Will Not Touch: Twenty-Six Datapoints, Six Evidence Types, and the Methodological Disgrace of Historical Jesus Scholarship](../04_Early_Christian_History/The%20Evidence%20They%20Will%20Not%20Touch_%20Twenty-Six%20Datapoints%2C%20Six%20Evidence%20Types%2C%20and%20the%20Methodological%20Disgrace%20of%20Historical%20Jesus%20Scholarship.md). The complete evidential chain for the historical Jesus.
+45. [The Mistress Who Became a Sister: A Forensic Deconstruction of the Martha-Mary Pericope and the Recovery of Mariamene Marta](../04_Early_Christian_History/The%20Mistress%20Who%20Became%20a%20Sister_%20A%20Forensic%20Deconstruction%20of%20the%20Martha-Mary%20Pericope%20and%20the%20Recovery%20of%20Mariamene%20Marta.md). Six independent evidence lines for the one-person reading.
+46. [The Lost Son: The Yehuda bar Yeshua Ossuary and the Textual Traces of Jesus's Child](../04_Early_Christian_History/The%20Lost%20Son_%20Yehuda%20bar%20Yeshua%20and%20the%20Evidence%20for%20a%20Jesuine%20Lineage.md). The reclassification mechanism.
+47. [The Enochic Thread in the Johannine Corpus: Testing the Jamesian Origin Hypothesis](../03_Biblical_Scholarship/The%20Enochic%20Thread%20in%20the%20Johannine%20Corpus_%20Testing%20the%20Jamesian%20Origin%20Hypothesis.md). The Enochic substrate of the Fourth Gospel.
+48. [The Correction of the Archons: A Forensic Reconstruction of the Quranic Isa in Counter-Distinction to the Pauline Gnostic Construct](../04_Early_Christian_History/The%20Correction%20of%20the%20Archons_%20A%20Forensic%20Reconstruction%20of%20the%20Quranic%20Isa%20in%20Counter-Distinction%20to%20the%20Pauline%20Gnostic%20Construct.md). The Quranic Jesus as Jamesian restoration.
+49. [The Apostle of the Archons: A Forensic Validation of the Gnostic Substrate in the Pauline Corpus and the Imperial Co-optation of the Pneuma](../04_Early_Christian_History/The%20Apostle%20of%20the%20Archons_%20A%20Forensic%20Validation%20of%20the%20Gnostic%20Substrate%20in%20the%20Pauline%20Corpus%20and%20the%20Imperial%20Co-optation%20of%20the%20Pneuma.md). Paul's Gnostic roots.
+50. [The Architecture of Autonomy: The Gnostic Impulse as the Operational Mechanic of Selfhood](../05_The_Self/The%20Architecture%20of%20Autonomy_%20A%20Pneumatological%20and%20Historical%20Validation%20of%20the%20Gnostic%20Impulse%20as%20the%20Operational%20Mechanic%20of%20Selfhood.md). The self's drive for autonomy.
+51. [No Original Exists: The Universal Reconstruction of Biblical Texts and the Forensic Recovery of Proto-Luke](../03_Biblical_Scholarship/No%20Original%20Exists_%20The%20Universal%20Reconstruction%20of%20Biblical%20Texts%20and%20the%20Forensic%20Recovery%20of%20Proto-Luke.md). Epistemic parity of Proto-Luke and canonical reconstruction.
+52. [The Correspondential Architecture of the Four Gospels](../03_Biblical_Scholarship/The%20Correspondential%20Architecture%20of%20the%20Four%20Gospels_%20A%20Compositional%20Analysis%20Through%20the%20Lens%20of%20Ontological%20Correspondence.md). Correspondential diagnostic applied to all four Gospels.
+53. [A Prophet Mighty in Deed and Word: Understanding Jesus Through Proto-Luke, Consciousness Studies, and the Doctrine of Correspondences](../00_Framework/A%20Prophet%20Mighty%20in%20Deed%20and%20Word_%20Understanding%20Jesus%20Through%20Proto-Luke,%20Consciousness%20Studies,%20and%20the%20Doctrine%20of%20Correspondences.md). Jesus within expanded physics.
+54. [The Bulwark of the People: An Exhaustive Historical and Theological Profile of James the Brother of Jesus](../04_Early_Christian_History/The%20Bulwark%20of%20the%20People_%20An%20Exhaustive%20Historical%20and%20Theological%20Profile%20of%20James%20the%20Brother%20of%20Jesus.md). The comprehensive James profile.
+55. [The Imperial Gnosis: A Forensic Validation of the Displacement of Early Heterodoxies by the Roman Ecclesiastical Machine](../04_Early_Christian_History/The%20Imperial%20Gnosis_%20A%20Forensic%20Validation%20of%20the%20Displacement%20of%20Early%20Heterodoxies%20by%20the%20Roman%20Ecclesiastical%20Machine.md). How Rome pushed out native Christianity.
+56. [Truth Does Not Force Its Way: The Desposyni Between Perception and Providence](../04_Early_Christian_History/Truth%20Does%20Not%20Force%20Its%20Way_%20The%20Desposyni%20Between%20Perception%20and%20Providence.md). The three transmission channels and the behavioural signature.

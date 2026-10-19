@@ -29,7 +29,7 @@
 
 ## 1. Introduction
 
-The idea that a primordial body of sacred knowledge once existed — universal in scope, symbolic in form, and transmitted across millennia before the advent of writing — recurs throughout the world's religious and philosophical traditions. The Vedic *ṛta*, the Egyptian *ma'at*, the Zoroastrian *asha*, and the Platonic doctrine of Forms all gesture toward a mode of knowing in which natural objects are not arbitrary signs but organic expressions of spiritual realities. Emanuel Swedenborg, writing in the eighteenth century, gave this tradition its most systematic formulation: the "Science of Correspondences," a body of knowledge in which every natural object corresponds to — and ontologically participates in — a specific spiritual reality, grounded not in convention but in the object's actual function. He claimed that this science was not his invention but a recovery: that it had been possessed by the "Most Ancient Church," transmitted through the "Children of the East" (*Bene Qedem*), codified in a now-lost "Ancient Word," and preserved in fragmentary form in "Great Tartary" — the vast region of Central Asia (*Arcana Coelestia* §§1238, 2896–2897; *True Christian Religion* §279).
+The idea that a primordial body of sacred knowledge once existed — universal in scope, symbolic in form, and transmitted across millennia before the advent of writing — recurs throughout the world's religious and philosophical traditions. The Vedic *ṛta*, the Egyptian *ma'at*, the Zoroastrian *asha*, and the Platonic doctrine of Forms all gesture toward a mode of knowing in which natural objects are not arbitrary signs but organic expressions of spiritual realities. Emanuel Swedenborg, writing in the eighteenth century, gave this tradition its most systematic formulation: the "Science of Correspondences," a body of knowledge in which every natural object corresponds to — and ontologically participates in — a specific spiritual reality, grounded not in convention but in the object's actual function. He claimed that this science was not his invention but a recovery: that it had been possessed by the "Most Ancient Church," transmitted through the "Children of the East" (*Bene Qedem*), codified in a now-lost "Ancient Word," and preserved in fragmentary form in "Great Tartary" — the vast region of Central Asia (*Arcana Coelestia* §§2896–2897, 3249, 10252; *True Christian Religion* §279).
 
 For two and a half centuries, these claims remained untestable. The Ancient Word, if it existed, had left no unambiguous archaeological witness. The traditions that might have carried it — Zoroastrian, Mandaean, Manichaean — were studied as independent religious systems, not as potential vessels of a shared correspondential inheritance. The fragments that survived — the *Wars of Jehovah* and the *Book of Jashar* cited in the Hebrew Bible, the Enochic tradition preserved at Qumran, the angel lists of the Nag Hammadi library — were read in isolation, not as pieces of a single shattered document.
 
@@ -59,8 +59,8 @@ Swedenborg further claimed that specific books cited in the Hebrew Bible are fra
 
 The carriers of this knowledge are identified as the *Bene Qedem* — the "Children of the East." Swedenborg writes:
 
-> "The ancients who were of the Lord's celestial church... are those who are called 'the sons of the east' (*filii orientis*), and their knowledge was the knowledge of correspondences and of representatives."
-> — *Arcana Coelestia* §1238
+> "They were in the science of correspondences and representations. In those times this was the chief science among the Arabians, Ethiopians, and others in the East; and therefore also in the Word by 'Arabia,' 'Ethiopia,' and 'the sons of the East,' in the internal sense, are meant those who are in the knowledges of heavenly things."
+> — *Arcana Coelestia* §10252
 
 These were not members of any single nation or religion but a trans-cultural sodality defined by their possession of the correspondential science. They wrote *in* correspondences — their texts do not explain the science but presuppose it, embedding spiritual teaching in natural imagery that can be read at both levels simultaneously (*Arcana Coelestia* §§2896–2897). The Magi who visited the infant Jesus are identified as the last institutional carriers of this tradition, their star-reading representing the Eastern stream of correspondential knowledge converging with the Western stream of covenantal revelation at Bethlehem.
 
@@ -68,7 +68,7 @@ These were not members of any single nation or religion but a trans-cultural sod
 
 Swedenborg locates the surviving Ancient Word in "Great Tartary" — the eighteenth-century European designation for Central Asia:
 
-> "The Ancient Word is still preserved among the peoples who dwell in Great Tartary."
+> "Of that ancient Word which existed in Asia before the Israelitish Word, I am permitted to state this new thing, namely, that it is still preserved there among the people who dwell in Great Tartary."
 > — *True Christian Religion* §279
 
 This claim, made in 1771, identifies a geographical region stretching from the Ural Mountains to the Pacific — precisely the territory where Manichaean texts were preserved in cave libraries at Turfan, where the Uyghur Khaganate adopted Manichaeism as state religion in 762/763 CE, and where the Avestan oral tradition survived longest among Zoroastrian communities. The specificity of this geographical claim — pointing to the exact region where the Manichaean and Zoroastrian textual traditions converged — is striking, given that Swedenborg had no access to the archaeological discoveries that would confirm it two centuries later.
@@ -149,11 +149,11 @@ The Book of Giants — an Enochic text used by Mani as scripture — provides th
 The Nag Hammadi library preserves what may be the most explicit surviving fragment of the Ancient Word. The Apocryphon of John contains a 365-angel body-creation passage — a systematic list mapping each body part to a spiritual entity — followed by the citation:
 
 > "If you wish to know them, it is written in the book of Zoroaster."
-> — Apocryphon of John, line 115
+> — Apocryphon of John, NHC II 19,8–10
 
 This is a direct self-citation. The text names its source: "the book of Zoroaster." The 365-angel list is not a Gnostic invention but a Gnostic inheritance, labelled with its provenance. Content analysis against the Swedenborgian correspondential system yields extraordinary results: 12 perfect matches (27.9%), 16 strong correspondences (37.2%), 11 consistent correspondences (25.6%), 3 partial correspondences (7.0%), 1 explainable deviation (2.3%), and zero contradictions (0.0%) — out of 43 total classifications. The probability of this convergence by chance is vanishingly small.
 
-Three independent Nag Hammadi witnesses confirm the Zoroastrian connection. The Apocryphon of John cites "the book of Zoroaster." The subscript to Zostrianos (whose title echoes "Zoroaster") identifies it as a revelation text. And Porphyry, writing independently, testifies that Gnostic texts circulated under Zoroaster's name. The multilingual angel names in the Apocryphon of John — Greek, Hebrew, Egyptian — constitute a "Bene Qedem crossroads signature," reflecting the multicultural character of the carriers.
+Three independent witnesses confirm the Zoroastrian connection. The Apocryphon of John cites "the book of Zoroaster." The subscript to Zostrianos (whose title echoes "Zoroaster") identifies it as a revelation text. And Porphyry, writing independently, testifies that Gnostic texts circulated under Zoroaster's name. The multilingual angel names in the Apocryphon of John — Greek, Hebrew, Egyptian — constitute a "Bene Qedem crossroads signature," reflecting the multicultural character of the carriers.
 
 ### 3.6 The Danielic–Aramaic Synthesis
 
@@ -602,7 +602,7 @@ The convergence is striking. Two texts from different Gnostic traditions — one
 
 ### 9.4 Witness Four: Swedenborg's Doctrine of Correspondences
 
-Emanuel Swedenborg (1688–1772) described a "Science of Correspondences" that he claimed was (a) the universal mode of knowledge in the most ancient civilizations, (b) preserved in the East — specifically among the peoples he called the *Children of the East* (*Bene Qedem*), located in "Great Tartary" (Central Asia) — and (c) the hermeneutical key to the internal sense of Scripture. He further claimed that this science taught, among other things: that every natural object corresponds organically to a spiritual reality (not by arbitrary assignment but by functional analogy); that reality is organised in discrete degrees (celestial, spiritual, natural); that the human form is the universal form of heaven (*Maximus Homo* — the Grand Human); that the same correspondence can mean its opposite depending on the spiritual state of the context (opposite sense); that evil is the inversion of good, not a separate substance; and that regeneration is a sequential process through discrete states.
+Emanuel Swedenborg (1688–1772) described a "Science of Correspondences" that he claimed was (a) the universal mode of knowledge in the most ancient civilizations, (b) preserved in the East — specifically among the peoples he called the *Children of the East* (*Bene Qedem*), whom he places in Aram or Syria (*Arcana Coelestia* §3249), and in "Great Tartary" (Central Asia), where he reports the Ancient Word still kept (*True Christian Religion* §279) — and (c) the hermeneutical key to the internal sense of Scripture. He further claimed that this science taught, among other things: that every natural object corresponds organically to a spiritual reality (not by arbitrary assignment but by functional analogy); that reality is organised in discrete degrees (celestial, spiritual, natural); that the human form is the universal form of heaven (*Maximus Homo* — the Grand Human); that the same correspondence can mean its opposite depending on the spiritual state of the context (opposite sense); that evil is the inversion of good, not a separate substance; and that regeneration is a sequential process through discrete states.
 
 These six predictions, formulated in the eighteenth century, are tested against the Kephalaia's substrate in the following table:
 

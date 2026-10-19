@@ -181,7 +181,7 @@ Once the narrative begins, the content is heavily dominated by what scholars cal
 
 ### **7.3 The Ending: A Spiritual Resurrection?**
 
-The ending of the Proto-Luke suggests a different Resurrection Christology than the canonical version. Textual evidence (including the "Western Non-Interpolations") suggests the original text lacked the anti-Docetic "flesh and bones" proofs (Luke 24:39) and the eating of fish. In the Proto-Gospel, the resurrection was likely depicted as a spiritual reality or a visionary appearance, aligning more with Paul's "spiritual body" (1 Cor 15\) than the later orthodox insistence on physical resuscitation.
+The ending of the Proto-Luke suggests a different Resurrection Christology than the canonical version. Textual evidence shows the original text lacked the anti-Docetic "touch me and see" and the "flesh" of "flesh and bones" (Luke 24:39): the Marcionite text read "a spirit does not have bones as you see me having" (Tertullian, *Marc.* 4.43.6; Epiphanius, *Pan.* 42.11.6, sch. 78), and the Western text omits the showing of the hands and feet (24:40). In the Proto-Gospel, the resurrection was likely depicted as a spiritual reality or a visionary appearance, aligning more with Paul's "spiritual body" (1 Cor 15\) than the later orthodox insistence on physical resuscitation.
 
 ## ---
 
@@ -244,4 +244,6 @@ Thus, the "Jamesian view for a Greek-Roman culture" in Luke and the "harmonized 
 36. Luke-Acts as form of history-writing (Luke-Acts Explained . . . Part 2\) \- Vridar, accessed on December 21, 2025, [https://vridar.org/2019/02/03/luke-acts-as-form-of-history-writing-luke-acts-explained-part-2/](https://vridar.org/2019/02/03/luke-acts-as-form-of-history-writing-luke-acts-explained-part-2/)  
 37. What are scholary opinions on why Acts end without resolving Paul's story? \- Reddit, accessed on December 21, 2025, [https://www.reddit.com/r/AcademicBiblical/comments/75btr9/what\_are\_scholary\_opinions\_on\_why\_acts\_end/](https://www.reddit.com/r/AcademicBiblical/comments/75btr9/what_are_scholary_opinions_on_why_acts_end/)  
 38. The Gospel of the Ebionites and the Gospel of Luke \- ResearchGate, accessed on December 21, 2025, [https://www.researchgate.net/publication/231915792\_The\_Gospel\_of\_the\_Ebionites\_and\_the\_Gospel\_of\_Luke](https://www.researchgate.net/publication/231915792_The_Gospel_of_the_Ebionites_and_the_Gospel_of_Luke)  
-39. Gospel of the Ebionites \- Wikipedia, accessed on December 21, 2025, [https://en.wikipedia.org/wiki/Gospel\_of\_the\_Ebionites](https://en.wikipedia.org/wiki/Gospel_of_the_Ebionites)
+39. Gospel of the Ebionites \- Wikipedia, accessed on December 21, 2025, [https://en.wikipedia.org/wiki/Gospel\_of\_the\_Ebionites](https://en.wikipedia.org/wiki/Gospel_of_the_Ebionites)  
+40. Tertullian. *Adversus Marcionem*. Edited and translated by Ernest Evans. 2 vols. Oxford: Clarendon Press, 1972.  
+41. Epiphanius. *Ancoratus und Panarion*. Vol. 2, *Panarion haer. 34–64*. Edited by Karl Holl. GCS 31. Leipzig: Hinrichs, 1922.

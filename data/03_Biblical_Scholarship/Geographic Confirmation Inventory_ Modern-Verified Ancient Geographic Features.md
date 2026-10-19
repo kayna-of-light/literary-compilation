@@ -192,7 +192,7 @@ Genesis 37:28 records that Joseph was sold to Ishmaelites/Midianites for "20 she
 * **Economic Trend:**  
   * **Akkadian Period (c. 2200 BCE):** 10–15 shekels.  
   * **Middle Bronze Age (c. 1800 BCE):** The Code of Hammurabi (§116, §214) and Mari archives standardize the price of a slave at **20 shekels**.  
-  * **Late Bronze Age (c. 1400 BCE):** Nuzi and Ugarit records show inflation to 30–40 shekels.  
+  * **Late Bronze Age (c. 1400 BCE):** Nuzi and Ugarit records show inflation to 30–40 shekels: an average of 30 at Nuzi and a mean of about 40 at Ugarit (Isaac Mendelsohn, *Slavery in the Ancient Near East* [New York: Oxford University Press, 1949], 118).  
   * **Iron Age (c. 800 BCE):** Assyrian records show prices of 50–60 shekels (cf. 2 Kings 15:20, where Menahem pays 50 shekels).  
   * **Persian Period (c. 400 BCE):** Prices reach 90–120 shekels.  
 * **Constraint:** If the Joseph story were an Iron Age or Persian Period fiction, the author would likely have cited the contemporary price (50–100 shekels). The preservation of the exact Middle Bronze Age price (20 shekels) strongly argues for a written tradition originating in that era.59

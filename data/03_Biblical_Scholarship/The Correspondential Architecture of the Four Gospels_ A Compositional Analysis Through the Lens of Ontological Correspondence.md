@@ -81,7 +81,7 @@ The number 153 receives only vague treatment — "fullness" or "all" — where p
 
 ## 3. Proto-Luke: The Journey as Regeneration
 
-The Proto-Luke reconstruction (Klinghardt, BeDuhn, Vinzent) recovers the Jamesian Protograph underlying the canonical Gospel of Luke. When the canonical additions are removed — the birth narrative (ch. 1-2), the genealogy (3:23-38), the physicalist resurrection appearances (24:39-43), and the Ascension (24:50-53) — what remains is a text with a startlingly coherent correspondential macro-structure.
+The Proto-Luke reconstruction (Klinghardt, BeDuhn, Vinzent) recovers the Jamesian Protograph underlying the canonical Gospel of Luke. When the canonical additions are removed — the birth narrative (ch. 1-2), the genealogy (3:23-38), the touching and the "flesh" of the resurrection appearance (24:39), and the Ascension (24:50-53) — what remains is a text with a startlingly coherent correspondential macro-structure.
 
 ### 3.1 The Journey: Galilee → Jerusalem
 
@@ -95,7 +95,7 @@ The content arranged along this journey is precisely what correspondential logic
 - Teaching in plain language — the external mind receiving instruction
 
 **On the journey (the transition):**
-- Parables of increasing interiority — the Good Samaritan (charity), the Prodigal Son (repentance), the Rich Man and Lazarus (the reversal of natural and spiritual values)
+- Parables of increasing interiority — the Friend at Midnight (asking), the Lost Sheep and the Lost Coin (the search for what is lost), the Rich Man and Lazarus (the reversal of natural and spiritual values). The Good Samaritan (charity) and the Prodigal Son (repentance) carry the same depth but are not in the Marcionite text: Epiphanius reports the Prodigal Son cut out (*Pan.* 42.11.6, sch. 42), and neither witness cites the Samaritan
 - Teachings about the cost of discipleship — the natural self must be subordinated
 - Progressive revelation of what awaits in Jerusalem
 
@@ -110,7 +110,7 @@ The journey IS the internal sense. The geography IS the correspondence. Proto-Lu
 
 ### 3.2 The Parabolic Engine
 
-Within this macro-structure, the parables function as the engine of the spiritual narrative. Each parable is composed in correspondences — every element decoding into a coherent spiritual sequence. The Good Samaritan, the Prodigal Son, the Sower, the Mustard Seed, the Lost Sheep, the Unjust Steward — these are not illustrations added to a narrative. They are the *substance* of the spiritual journey, expressing in natural imagery what is happening at each stage of the regeneration sequence.
+Within this macro-structure, the parables function as the engine of the spiritual narrative. Each parable is composed in correspondences — every element decoding into a coherent spiritual sequence. The Sower, the Mustard Seed, the Lost Sheep, the Unjust Steward, the Rich Man and Lazarus — these are not illustrations added to a narrative. They are the *substance* of the spiritual journey, expressing in natural imagery what is happening at each stage of the regeneration sequence.
 
 Correspondential analysis confirms that these parables are not merely "useful stories" that happen to carry spiritual meaning. They were composed by someone who perceived spiritual processes directly and expressed them in natural ultimates. This is the mark of correspondential literacy: the ability not merely to *repeat* correspondences but to *construct* coherent spiritual narratives in natural form.
 
@@ -122,8 +122,8 @@ The material added by the final Lukan editor — the same hand that composed Act
 |----------|:---:|---|
 | Birth narrative (1-2) | Selective symbol decoding — manger, swaddling clothes decode individually | Davidic legitimation and theological origin narrative |
 | Genealogy (3:23-38) | No correspondential content | Legal-institutional claim |
-| "Flesh and bones" (24:39) | Doctrinal citation — used to prove the Lord rose bodily | Anti-Docetic polemic |
-| Eating fish (24:42-43) | Fish/honeycomb decode individually but narrative is argumentative | Anti-Docetic polemic |
+| "Touch me and see" and "flesh" (24:39; the Marcionite text has the hands, feet and bones without them) | Doctrinal citation — used to prove the Lord rose bodily | Anti-Docetic polemic |
+| Eating fish (24:42-43; not cited by Tertullian or Epiphanius, while the request for food of 24:41 is in the Marcionite text) | Fish/honeycomb decode individually but narrative is argumentative | Anti-Docetic polemic |
 | Ascension (24:50-53) | Almost nothing | Transition to Acts 1 |
 
 The editor was competent at composing Greek narrative — Acts is well-written. But he did not possess the correspondential key. His additions sit *outside* the Galilee→Jerusalem regeneration structure — prepended (birth) and appended (physicalist resurrection, ascension) — leaving the Proto-Lukan core intact within.
@@ -354,7 +354,7 @@ Each Gospel was canonically "wrapped" — expanded with editorial material servi
 
 | Gospel | Core (Correspondential) | Wrapper (Editorial) |
 |--------|------------------------|---------------------|
-| Proto-Luke → Luke | Galilee→Jerusalem journey; parables | Birth narrative (1-2); genealogy (3:23-38); physicalist resurrection (24:39-43); Ascension (24:50-53) |
+| Proto-Luke → Luke | Galilee→Jerusalem journey; parables | Birth narrative (1-2); genealogy (3:23-38); "touch me" and "flesh" (24:39); Ascension (24:50-53) |
 | Signs source → John | Signs sequence; attached discourses | Anti-Jewish polemic; chapter 21 appendix; possible Johannine Comma |
 | Oral tradition → Mark | Parables (ch. 4); Transfiguration; healing pericopes | Messianic Secret; "immediately" framework; editorial connective tissue |
 | Oral tradition → Matthew | Five Discourse blocks; Sermon on the Mount | Torah-echo framework; birth narrative (1-2); fulfillment citations; Great Commission |

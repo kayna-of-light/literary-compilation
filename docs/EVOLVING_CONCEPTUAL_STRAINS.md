@@ -372,9 +372,9 @@ Statistical analysis **validates** the "constant state, variable form" principle
 
 | Finding | Statistic |
 |---------|-----------|
-| Religious background predicts NAMING | χ² = 365.14, p < 0.0001 |
-| Experiential properties CONSTANT | All differences < 10% |
-| ML classifier using background | BELOW baseline (37.8% vs 45.9%) |
+| Religious background predicts NAMING (weakly) | χ²(6) = 15.04, p = 0.020, V = 0.11; belief at the NDE χ²(3) = 38.40, V = 0.24 |
+| Experiential FUNCTION constant | Christians, Jesus-only vs unknown-only: no difference in guidance, teaching, telepathy, belonging or mission; perception profile equivalent, Christian vs atheist/agnostic (TOST p = 0.005). Perceptual mode differs (visual figure +45.0 pp, unity −19.6 pp) |
+| Classifier using background | Cross-validated AUC 0.53 (barely above chance) |
 
 **Interpretation**: The underlying spiritual reality is constant; perceptual forms vary by the receiver's mental repertoire. This is a **framework HIT**.
 
@@ -385,8 +385,8 @@ Statistical analysis **validates** the "constant state, variable form" principle
 #### Annotation Template
 ```markdown
 > **[VALIDATION: Cultural Variation]** This section treats cultural variation as potential problem.
-> Statistical analysis confirms "constant state, variable form": naming varies (χ² = 365.14),
-> but experiential properties are constant (<10% difference). This validates the framework.
+> Statistical analysis confirms "constant state, variable form": naming varies weakly with background (χ²(6) = 15.04, V = 0.11),
+> but the functions of the encounter are the same across names. This validates the framework.
 ```
 
 ---
@@ -401,8 +401,8 @@ Statistical analysis **validates** the "constant state, variable form" principle
 Physicalist resurrection appearances (touching wounds, eating fish) treated as original apostolic experience.
 
 **Documents reflecting earlier position** (ANNOTATED 2026-01-26):
-- [x] `data/05_The_Self/The Paradox of the Pneumatic Ego.md`
-- [x] `data/02_Swedenborgian_Theology/The Divine Human in Ultimates_ A Phenomenological and Theological Profile of the Actual Jesus of Love.md`
+- [x] `data/05_The_Self/The Paradox of the Pneumatic Ego_ A Forensic Analysis of Pauline Humility, Rhetorical Strategy, and the Theology of Selfhood.md`
+- [x] `data/02_Swedenborgian_Theology/The Divine Human in Ultimates_ A Phenomenological and Forensic Re-Evaluation of the Aligned Soul.md`
 
 #### Critically Analyzed Position
 Recognition of **progressive materialization** in the textual tradition:
@@ -412,23 +412,32 @@ Recognition of **progressive materialization** in the textual tradition:
 | Paul (1 Cor 15) | ~55 CE | "Spiritual body" (σῶμα πνευματικόν) |
 | Mark | ~70 CE | Empty tomb, NO appearances |
 | Matthew | ~80 CE | Brief appearance, worship |
-| Luke | ~85 CE | Flesh and bones, eating (later additions) |
+| Luke | ~85 CE | Hands and feet shown (24:40, a Western non-interpolation); flesh and bones (24:39); eating fish (24:41–43) |
 | John | ~90-100 CE | Doubting Thomas, physical wounds |
 
-**Western Non-Interpolations**: Later additions identified by Westcott-Hort scholarship.
+**Western Non-Interpolations**: passages absent from Codex Bezae (D) and the Old Latin that Westcott and Hort judged to be later additions to every other text. Their list is Matt 27:49, Luke 22:19b–20, and Luke 24:3, 6, 12, 36, 40, 51, 52 (Westcott and Hort 1882, Introduction §§240, 383; Appendix, 71–72).
+
+**What the textual evidence supports for Luke 24:36–43**:
+- **24:40** ("he showed them his hands and his feet") is a Western non-interpolation: omitted by D, the Old Latin and the Old Syriac (NA28 apparatus, 290). Marcion's text of it is unattested (Roth 2015, 26, 78).
+- **24:39** ("flesh and bones") is in D, which reads "bones and flesh" (NA28, 290). It is not a Western non-interpolation. In Marcion's Gospel the verse read "a spirit has not bones, as you see me having" (Tertullian, *Marc.* 4.43.6–7; Epiphanius, *Pan.* 42.11.6, scholion 78), and "flesh and" may not have been present (Roth 2015, 345–46, 435; NA28 cites Marcion for the omission).
+- **24:41–43** (the request for food and the fish) is in every manuscript, including 𝔓75, ℵ, A, B and D (NA28, 290). Only "and of an honeycomb" in 24:42 is a later addition (Westcott and Hort 1882, Appendix, 72). Marcion's Gospel had the scene: Jesus "asked them for food, so as to show that he even had teeth" (Tertullian, *Marc.* 4.43.8), and he ate the fish (Eznik, *De deo* 407; Roth 2015, 268, 409, 436).
+
+So of the physical proofs only 24:40 has manuscript evidence of being added. Reading the eating as a later layer rests on redaction-critical argument (anti-Docetic motive), not on manuscripts or on Marcion's text.
+
+Sources: Westcott, B. F., and F. J. A. Hort. *The New Testament in the Original Greek.* Vol. 2, *Introduction and Appendix*. New York: Harper & Brothers, 1882. · *Novum Testamentum Graece.* 28th rev. ed. Stuttgart: Deutsche Bibelgesellschaft, 2012. · Roth, Dieter T. *The Text of Marcion's Gospel.* NTTSD 49. Leiden: Brill, 2015. · Tertullian, *Adversus Marcionem*, ed. and trans. Ernest Evans. Oxford: Oxford University Press, 1972.
 
 **Original experience**: The "Living One" (ὁ ζῶν)—spiritual appearance, not resuscitated corpse.
 
 **Documents with critical analysis**:
-- [x] `data/03_Biblical_Scholarship/Resurrection Narrative Evolution in New Testament.md`
-- [x] Documents on Western Non-Interpolations
+- [x] `data/03_Biblical_Scholarship/The Anatomy of Ascension_ A Critical-Historical and Phenomenological Reconstruction of the Resurrection Narrative from Pauline Pneumatology to the.md`
+- [x] `data/03_Biblical_Scholarship/What the Apparatus Cannot See_ Translation, Selection, and the Concretising Drift Beneath the Christological Text.md` (§3.4, the Western Non-Interpolations)
 
 #### Annotation Template
 ```markdown
 > **[CRITICAL ANALYSIS: Resurrection]** This section accepts physicalist appearances as original.
 > Textual analysis shows progressive materialization: Paul's "spiritual body" → 
-> Luke/John's flesh-and-bones. Western Non-Interpolations are later additions.
-> See "Resurrection Narrative Evolution in New Testament" for detailed analysis.
+> Luke/John's flesh-and-bones. Of Luke's physical proofs, only the showing of hands and feet (24:40)
+> is a Western Non-Interpolation. See *The Anatomy of Ascension* for detailed analysis.
 ```
 
 ---
@@ -1313,10 +1322,10 @@ These errors are related: if "Gnosticism" is an impulse driven by the proprium, 
 **Documents reflecting earlier position** (require annotation):
 - [ ] `data/05_The_Self/The Architecture of Hidden Divinity...md` — The ORIGINAL "Gnostic Impulse" document
 - [ ] `data/05_The_Self/The Architecture of Autonomy...md` — Validation of "Gnostic Impulse" framing
-- [ ] `data/05_The_Self/The Apostle of the Archons...md` — Heavy "Gnostic Impulse" usage throughout
+- [ ] `data/04_Early_Christian_History/The Apostle of the Archons...md` — Heavy "Gnostic Impulse" usage throughout
 - [ ] `data/05_The_Self/Dancing with Fire...md` — "Gnostic Impulse as the Proprium's Theology" section
 - [ ] `data/05_The_Self/The Paradox of the Pneumatic Ego...md` — "Gnostic Impulse" section
-- [ ] `data/05_The_Self/The Pauline Matrix...md` — "Gnostic impulse" usage
+- [ ] `data/04_Early_Christian_History/The Pauline Matrix...md` — "Gnostic impulse" usage
 - [ ] `data/00_Master_Theses/The Carriers of Living Water...md` — Section 12.3 "Gnostic Impulse and the Architecture of Autonomy"
 - [ ] `data/00_Master_Theses/The Beast That Wears the Lamb...md` — Reference links to old doc names
 - [ ] `data/03_Biblical_Scholarship/The Scandal of the Flesh...md` — "Gnostic Impulse" usage
@@ -1432,7 +1441,7 @@ The mechanics of glorification — ruling love orientation toward the Lord, temp
 
 **Evidence against the unique-process claim**:
 - **Swedenborg’s celestial angel data** (*AC* §§1925, 8192): Celestial angels speak *as the Lord* — the Lord’s voice indistinguishable from the angel’s. Swedenborg interprets this as temporary divine override; the correspondential structure requires it be transparency. If celestial beings achieve this at their degree, Jesus’s completeness is not categorically different.
-- **NDE constant-state/variable-form** (chi-square 365.14, p < 0.0001): The Lord presents as the Divine Human to every soul at the threshold — as Jesus (Christians), as Amida (Buddhists), as light (secularists). This is not contingent on historical glorification; it is the structure of what the Lord is in ultimates.
+- **NDE constant-state/variable-form** (name × religious background χ²(6) = 15.04, p = 0.020, V = 0.11; the functions of the encounter are the same across names): The Lord presents as the Divine Human to every soul at the threshold — as Jesus (Christians), as Amida (Buddhists), as light (secularists). This is not contingent on historical glorification; it is the structure of what the Lord is in ultimates.
 - **Kephalaia five-stage sequence**: Stage 4 is named for a principle operative in history before and after the historical Jesus. The name designates the operation, not the person.
 
 **Documents with corrected position**:
@@ -1506,7 +1515,7 @@ The NDE data confirming that some non-Christians identify the figure as Jesus is
 **Key corrections**:
 1. "Divine Human" is not a Christological title earned through glorification. It is the Lord's own eternal nature, prior to creation, expressed through creation, and accessible to every soul.
 2. Jesus was the vessel through which the Lord expressed Himself in ultimates with maximal, unobstructed transparency. He did not *become* the Divine Human; the Divine Human expressed itself through him.
-3. The NDE data reads differently under this corrected position. The chi-square result (365.14, p < 0.0001) confirming that religious background predicts identification vocabulary is precisely what this ontological position predicts: all identification forms (Jesus, Amida, light, presence) are the receiver's cultural vocabulary for the same constant encounter with the Lord's eternal nature. The outlier cases (non-Christians identifying Jesus) confirm the universality of the encounter, not the ontological uniqueness of one form.
+3. The NDE data reads differently under this corrected position. The chi-square result (χ²(6) = 15.04, p = 0.020, V = 0.11) confirming that religious background predicts identification vocabulary is precisely what this ontological position predicts: all identification forms (Jesus, Amida, light, presence) are the receiver's cultural vocabulary for the same constant encounter with the Lord's eternal nature. The outlier cases (non-Christians identifying Jesus) confirm the universality of the encounter, not the ontological uniqueness of one form.
 4. The majority NDE pattern for non-Western experiencers — a warm, all-encompassing, non-personified presence — is not a lesser or more culturally filtered encounter. It is equally valid expression of the same constant. The dataset from which anomalous Jesus-identifications are drawn is predominantly Western and Christian; presenting those outliers as confirmatory evidence for Jesus-uniqueness is selection bias.
 5. The framework does not know *why* the Lord presents in particular forms to particular receivers. We observe the pattern the data shows: when He presents in personal form, He does so through what is most intimate and recognisable to that person. The Lord's infinite ways of self-expression are not catalogued or exhausted by this framework.
 
@@ -1514,7 +1523,7 @@ The NDE data confirming that some non-Christians identify the figure as Jesus is
 - *DLW* §§11–13: The Lord is the Divine Human from eternity; all things of nature derive their human-form quality from His
 - *TCR* §§2–3: The Divine Human is the Lord's own form, not a form achieved
 - *HH* §§73–78: Angels have human form because the Divine Human pervades all of heaven — the structure is not contingent on any historical event
-- Chi-square = 365.14, p < 0.0001 (*The Being of Light* statistical analysis): religious background predicts identification vocabulary — confirms cultural mediation of the label, not the encounter
+- χ²(6) = 15.04, p = 0.020, V = 0.11 (*The Being of Light* statistical analysis; `structured-data-analysis` notebooks 01 and 06): religious background predicts identification vocabulary — confirms cultural mediation of the label, not the encounter
 
 **Documents with corrected position**:
 - [x] `data/02_Swedenborgian_Theology/The Bridge That Became the Path_ The Lord's Operation Through the Vessel, and the Error of Making One Soul the Exception.md` — "all names and forms (including Jesus, Amida, or Light) are the variable cultural vocabulary through which the single, constant Lord makes Himself perfectly accessible to the finite mind"
@@ -1534,7 +1543,7 @@ The NDE data confirming that some non-Christians identify the figure as Jesus is
 **Header note** (for documents treating "Divine Human" as Christological title):
 
 ```markdown
-> **[CORRECTION #24]**: This document treats "Divine Human" as a Christological title — something the Lord became through, or that is uniquely identified with, Jesus. The corrected position (*DLW* §§11–13): the Lord is the Divine Human from eternity; the Incarnation expressed this eternal nature in ultimates, it did not originate it. All identification forms (Jesus, Amida, light, presence) are the receiver's cultural vocabulary for the same constant encounter. The NDE statistical data (χ² = 365.14, p < 0.0001) confirms cultural mediation of identification vocabulary — what varies is the name; what is constant is the encounter. See *The Bridge That Became the Path*.
+> **[CORRECTION #24]**: This document treats "Divine Human" as a Christological title — something the Lord became through, or that is uniquely identified with, Jesus. The corrected position (*DLW* §§11–13): the Lord is the Divine Human from eternity; the Incarnation expressed this eternal nature in ultimates, it did not originate it. All identification forms (Jesus, Amida, light, presence) are the receiver's cultural vocabulary for the same constant encounter. The NDE statistical data (χ²(6) = 15.04, p = 0.020, V = 0.11) confirms cultural mediation of identification vocabulary — what varies is the name; what is constant is the encounter. See *The Bridge That Became the Path*.
 ```
 
 ---

@@ -59,9 +59,9 @@ In 1948, prior to the release of *Melody Time*, Murdoch wrote to the studio prot
 
 Adelquist’s reply is a critical admission:
 
-"We trust that after you have viewed the picture you will agree that we have treated the angel with sincere respect... \[we\] researched the real life character extensively." 1
+"We trust that after you have viewed the picture you will agree that we have treated the angel with sincere respect and endowed him with a certain dignity." 1
 
-This statement is the pivot point. It is impossible to "extensively research" John Chapman without encountering his defining characteristic: his zeal for the New Church. Chapman did not merely plant trees; he distributed Swedenborg's *Heaven and Hell* and *True Christian Religion* across the frontier, tearing volumes into chapters to function as a lending library.12 Adelquist's defense demonstrates that the studio *knew* Chapman was a Swedenborgian missionary. The erasure of the specific sectarian label in the final film was therefore likely not an act of ignorance, but a strategy of encoding—though whether this was conscious theological strategy or merely commercial prudence remains an open question.
+The studio, Adelquist wrote, had researched the real Chapman extensively. This statement is the pivot point. It is impossible to research John Chapman extensively without encountering his defining characteristic: his zeal for the New Church. Chapman did not merely plant trees; he distributed Swedenborg's *Heaven and Hell* and *True Christian Religion* across the frontier, tearing volumes into chapters to function as a lending library.12 Adelquist's defense demonstrates that the studio *knew* Chapman was a Swedenborgian missionary. The erasure of the specific sectarian label in the final film was therefore likely not an act of ignorance, but a strategy of encoding—though whether this was conscious theological strategy or merely commercial prudence remains an open question.
 
 ### **3.3 The "Blessings Three" as Theological Code**
 
@@ -73,7 +73,7 @@ This triad corresponds precisely to the Swedenborgian **Trinity of Essentials** 
 2. **Faith (Truth/Understanding):** The intellectual form.  
 3. **The Apple Tree (Use/Works):** The natural manifestation.
 
-Swedenborg explicitly taught that "Charity and Faith make one in Good Works." By using this specific triad, the songwriters (likely advised by consultants) encoded the core soteriology of the sect while removing the "cult" label that would have triggered the Hays Code or alienated mainstream Protestant audiences.12 Florence Murdoch herself recognized this code, writing back to express her satisfaction that the "Blessings Three" were included, confirming a successful theological transmission.8
+Swedenborg taught that "charity and faith make one as good and truth do" (*Divine Providence* §82). By using this specific triad, the songwriters (likely advised by consultants) encoded the core soteriology of the sect while removing the "cult" label that would have triggered the Hays Code or alienated mainstream Protestant audiences.12 Florence Murdoch herself recognized this code, writing back to express her satisfaction that the "Blessings Three" were included, confirming a successful theological transmission.8
 
 ### **3.4 Carl Carmer: The Cartographer of the Weird**
 
@@ -158,7 +158,7 @@ The production of the live-action *Snow White* has been a site of intense confli
 
 The character of **Jonathan** (played by Andrew Burnap) represents the central theological conflict of the remake.
 
-* **The Original Plan:** Early reports and interviews (Zegler) suggested the Prince was cut entirely, calling him a "stalker," and that Snow White would not dream of love but of being a "Leader".49 This "Girlboss" narrative is horizontally structured (political power) rather than vertically structured (spiritual love).  
+* **The Original Plan:** Early reports and interviews (Zegler) suggested the Prince was cut entirely—Zegler described the original as a love story "with a guy who literally stalks her"—and that Snow White would dream not of love but of "becoming the leader she knows she can be".49 This "Girlboss" narrative is horizontally structured (political power) rather than vertically structured (spiritual love).  
 * **The Reshoots:** Following the backlash and the failure of *Wish*, the studio engaged in massive reshoots in London (June 2024).51 Jonathan was retooled.  
 * **Theological Analysis:** The name "Jonathan" means **"God-given"** (Hebrew: *Yehonatan*). This suggests a subtle re-encoding: he is not a "Prince" by birth (political entitlement), but a "Gift" by Providence (spiritual grace). While described as a "Bandit" (Robin Hood type), his role has been expanded to provide the necessary "active" complement to Snow White's "passive" reception of grace, restoring the Swedenborgian balance of Will and Understanding.50
 

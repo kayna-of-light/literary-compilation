@@ -5,7 +5,7 @@
 >
 > This document reflects **earlier understanding** on:
 > - **#8** [NDE Cultural Variation](../01_Consciousness_Studies/The%20Being%20of%20Light_%20A%20Statistical%20Analysis%20of%20Near-Death%20Experience%20Phenomenology.md) — This report argues against the cultural expectancy hypothesis primarily via qualitative studies and testimonial anomalies; later internal analysis provides large-scale statistical validation of "constant state, variable form."
-> - **#24** [The Divine Human as Eternal Attribute](../docs/EVOLVING_CONCEPTUAL_STRAINS.md#24-the-divine-human-as-eternal-attribute-lords-form-vs-vessel-expression) — The entire thesis rests on the Jesus identification being a "pure identification" while treating other forms as culturally constructed. The corrected position: the Lord is the Divine Human from eternity (*DLW* §§11–13); Jesus was the vessel through which this eternal nature expressed itself in ultimates, not the ontological source of it. All identification forms are the receiver's cultural vocabulary for the same constant encounter; religious background predicts identification vocabulary (χ² = 365.14, p < 0.0001).
+> - **#24** [The Divine Human as Eternal Attribute](../../docs/EVOLVING_CONCEPTUAL_STRAINS.md#24-the-divine-human-as-eternal-attribute-lords-form-vs-vessel-expression) — The entire thesis rests on the Jesus identification being a "pure identification" while treating other forms as culturally constructed. The corrected position: the Lord is the Divine Human from eternity (*DLW* §§11–13); Jesus was the vessel through which this eternal nature expressed itself in ultimates, not the ontological source of it. All identification forms are the receiver's cultural vocabulary for the same constant encounter; religious background predicts identification vocabulary, but weakly (χ² = 15.04, df = 6, p = 0.020, Cramér's V = 0.11).
 >
 > **Summary**: The encounter is real and constant; the identification label is culturally mediated. No single identification form is ontologically privileged. The Lord's self-expression as the Divine Human is His eternal nature, not a property derived from any historical individual.
 > **Established correction (library)**: The Bridge That Became the Path_ The Lord's Operation Through the Vessel, and the Error of Making One Soul the Exception
@@ -77,7 +77,7 @@ The strongest evidence for this hypothesis comes from cross-cultural NDE researc
 * **Thai NDEs:** Research on Thai NDEs shows different content, often featuring "Yamatoots" (messengers of death from Hinduism) (Murphy 2001, cited in Hashemi et al. 2023).  
 * **Other Variations:** Studies note that Twelver Shīʿīsm experiencers have reported seeing Shiite imams (Hashemi et al. 2023).
 
-> **[VALIDATION #8]**: This cross-cultural variation is best treated as *variable form*, not evidence that the encounter is culturally constructed. Large-scale structured analysis finds religious background predicts identification vocabulary (χ² = 365.14, p < 0.000001), yet the core phenomenology remains stable: experiencers naming “Jesus” and those naming “Unknown Presence” report virtually identical encounter characteristics (all differences <10%).
+> **[VALIDATION #8]**: This cross-cultural variation is best treated as *variable form*, not evidence that the encounter is culturally constructed. Large-scale structured analysis finds religious background predicts identification vocabulary only weakly (χ² = 15.04, df = 6, p = 0.020, Cramér's V = 0.11), yet the core function remains stable: Christians naming “Jesus” and those leaving the Being unnamed (“Unknown Presence”) do not differ in guidance, teaching, telepathic communication, belonging or commissioning, though the “Jesus” encounters are more often a visual luminous figure.
 
 ### **B. Rebuttal to the Expectancy Hypothesis**
 
@@ -136,7 +136,7 @@ The analysis of testimonial, cross-cultural, and theological data provides a nua
 3. **Revised Thesis:** The encounter itself is pure and transcendent. The *label* the receiver applies reflects their own cultural and spiritual vocabulary. Both are real: the encounter, and the cultural mediation of its identification. The personality profile (unconditional love, non-judgment, total acceptance) is the Lord's constant self-expression as the Divine Human — present to each soul through the form most intimate to them. No single identification form is ontologically privileged; all are valid expressions of the same constant Lord.
 4. **Answering the "Supersedes Dogma" Clause:** The report's final and most significant conclusion is that this experience *absolutely* "supersedes religious dogma." The "Dogma Paradox" is the key finding. The raw *experience* of unconditional love is so powerful that it overrides the experiencer's prior dogmatic beliefs about judgment, hell, and exclusivity. The NDE-Jesus is not a product *of* dogma; it is an experience that *corrects* dogma.
 
-## **VII. Works Cited**
+## VII. Works Cited
 
 **Primary Sources:**
 

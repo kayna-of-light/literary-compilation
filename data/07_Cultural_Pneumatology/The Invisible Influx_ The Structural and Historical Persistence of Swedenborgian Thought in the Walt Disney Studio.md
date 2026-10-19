@@ -12,7 +12,7 @@ From the specific theological coding in *The Legend of Johnny Appleseed* (1948) 
 
 To argue that Swedenborgian thought is an "active substrate" rather than a passive influence requires a precise definition of terms. An active substrate in institutional culture is a foundational layer of philosophy or methodology that is continuously reinforced through training, hiring practices, and creative mandates. It is not merely a historical footnote; it is the operating system upon which the institution runs.
 
-In the case of Disney, the Swedenborgian substrate is defined by the **Doctrine of Influx** and the **Science of Correspondences**. These theological concepts, which posit that the natural world is a theater representing the spiritual world and that all physical action is the result of spiritual influx (will and understanding), became the technical manuals for American animation. When Walt Disney demanded that his artists "draw the force, not the form," he was demanding a shift from a materialist view of the world to a Swedenborgian one. The survival and evolution of this substrate, from the 1930s *Silly Symphonies* to the 2023 centennial film *Wish*, constitutes the central argument of this investigation.
+In the case of Disney, the Swedenborgian substrate is defined by the **Doctrine of Influx** and the **Science of Correspondences**. These theological concepts, which posit that the natural world is a theater representing the spiritual world and that all physical action is the result of spiritual influx (will and understanding), became the technical manuals for American animation. When Walt Disney's studio taught its artists, in Don Graham's words, that "the artist is not drawing a form at all, but indicating a force," it was demanding a shift from a materialist view of the world to a Swedenborgian one. The survival and evolution of this substrate, from the 1930s *Silly Symphonies* to the 2023 centennial film *Wish*, constitutes the central argument of this investigation.
 
 ## **II. The Theoretical Framework: From Mechanics to Metaphysics**
 
@@ -47,9 +47,9 @@ In 1948, prior to the film's release, Murdoch saw promotional materials depictin
 
 The response from the studio was not a form letter. Hal Adelquist, the Story Department Manager and a key lieutenant to Walt, replied personally. His letter contains a crucial admission:
 
-"We trust that after you have viewed the picture you will agree that we have treated the angel with sincere respect... \[we\] researched the real life character extensively." 1
+"We trust that after you have viewed the picture you will agree that we have treated the angel with sincere respect and endowed him with a certain dignity." 1
 
-This phrase—"researched the real life character extensively"—is the pivot point. It is impossible to research John Chapman "extensively" without encountering his defining characteristic: his zeal for the New Church. Chapman did not just plant trees; he planted Swedenborgian societies. He tore pages out of *Heaven and Hell* and *True Christian Religion* to leave with settlers. He refused to prune trees because he believed (following Swedenborg) that cutting living things caused pain in the spiritual world. Adelquist’s defense proves the studio *knew* who Chapman was. They were not ignorant of his sectarian ties; they were managing them.
+He wrote that the studio had researched the real Chapman extensively, and that assurance is the pivot point. It is impossible to research John Chapman extensively without encountering his defining characteristic: his zeal for the New Church. Chapman did not just plant trees; he planted Swedenborgian societies. He tore pages out of *Heaven and Hell* and *True Christian Religion* to leave with settlers. He refused to prune trees because he believed (following Swedenborg) that cutting living things caused pain in the spiritual world. Adelquist’s defense proves the studio *knew* who Chapman was. They were not ignorant of his sectarian ties; they were managing them.
 
 ### **3.2 The "Blessings Three": A Theological Rosetta Stone**
 
@@ -63,7 +63,7 @@ To the lay audience, this is a catchy rhyme. To a Swedenborgian, this is a catec
 * **Faith** \= The Understanding (The Intellectual Form)  
 * **The Apple Tree** \= Works/Use (The Natural Manifestation)
 
-By selecting "Love, Faith, and the Apple Tree," the Disney songwriters (likely guided by consultants) preserved the structural core of Swedenborgian soteriology. They encoded the "Trinity of Essentials." Florence Murdoch herself recognized this code, writing back to the studio to praise the inclusion of the "Blessings Three" as a valid representation of Chapman's faith. This confirms that the transmission was not "indirect" or accidental; it was a negotiated, conscious act of translation.
+By selecting "Love, Faith, and the Apple Tree," the Disney songwriters (likely guided by consultants) preserved the structural core of Swedenborgian soteriology. They encoded the "Trinity of Essentials." Florence Murdoch herself recognized this code: her letter to the studio welcomed the inclusion of the "Blessings Three," which she presented as Johnny's own words. This confirms that the transmission was not "indirect" or accidental; it was a negotiated, conscious act of translation.
 
 ### **3.3 The "Pioneer Spirit" Angelology**
 
@@ -97,7 +97,7 @@ Before Graham, animation training focused on "Form"—how to draw a muscle, how 
 
 A famous memo from Walt Disney to Don Graham in 1935 explicitly articulates this philosophy:
 
-"The driving force behind the action is the mood, the personality, the attitude of the character – or all three. Therefore the mind is the pilot." 5
+"The driving force behind the action is the mood, the personality, the attitude of the character—or all three. Therefore, the mind is the pilot." 5
 
 This pedagogy is a secularized reinstatement of Swedenborg’s doctrine of Influx. It posits that the physical world (the drawing) is merely the "obedience" of the spiritual world (the character's intent). The animator does not manipulate the body; the animator manipulates the *will*, and the body follows.
 
@@ -105,7 +105,7 @@ This pedagogy is a secularized reinstatement of Swedenborg’s doctrine of Influ
 
 Research links Graham and the Chouinard Art Institute (where he taught) to the broader currents of "Theosophy" and "Metaphysics" prevalent in California art circles at the time. Theosophy, heavily indebted to Swedenborg (via Blavatsky and earlier mystics), preached that thoughts were "things" with shape and color (Thought-Forms).
 
-Graham’s classes, often described as "metaphysical" by students like Walt Stanchfield 6, trained Disney animators to see the material world as a shell for spiritual energies. This training primed the entire studio culture to accept stories where internal moral states dictated external physical reality. When an animator drew a storm cloud in *Fantasia* or *Bambi*, they weren't drawing water vapor; they were drawing "anger" or "menace." This is the definition of Correspondence. By institutionalizing this training, Disney built a studio that *thought* like Swedenborgians, even if they didn't pray like them.
+Graham’s classes, carried forward by Walt Stanchfield, who titled one of his own lectures "The Metaphysical Side" 6, trained Disney animators to see the material world as a shell for spiritual energies. This training primed the entire studio culture to accept stories where internal moral states dictated external physical reality. When an animator drew a storm cloud in *Fantasia* or *Bambi*, they weren't drawing water vapor; they were drawing "anger" or "menace." This is the definition of Correspondence. By institutionalizing this training, Disney built a studio that *thought* like Swedenborgians, even if they didn't pray like them.
 
 ### **5.3 The Legacy of Action Analysis: The Modern Curriculum**
 
@@ -223,7 +223,7 @@ This "Active Substrate" ensures that whenever a Disney artist tries to make a ch
 
 1. Disney's Swedenborgian Roots Inquiry, [The Carriers of the Invisible_ A Personnel History of Swedenborgian Thought in the Walt Disney Studio.md](The%20Carriers%20of%20the%20Invisible_%20A%20Personnel%20History%20of%20Swedenborgian%20Thought%20in%20the%20Walt%20Disney%20Studio.md)  
 2. Memo from Walt \- Animation Meat, accessed on January 29, 2026, [http://www.animationmeat.com/pdf/nineoldmen/MemoFromWalt.pdf](http://www.animationmeat.com/pdf/nineoldmen/MemoFromWalt.pdf)  
-3. Disney's Johnny Appleseed Swedenborgian Inquiry, [The Apple and the Angel_ An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's The Legend of Johnny Appleseed.md](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure,%20Translation,%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney's%20The%20Legend%20of%20Johnny%20Appleseed.md)  
+3. The Apple and the Angel_ An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's The Legend of Johnny Appleseed.md, [The Apple and the Angel_ An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's The Legend of Johnny Appleseed.md](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md)  
 4. Animation Area Courses \- NYU Tisch, accessed on January 29, 2026, [http://tisch.nyu.edu/film-tv/animation-area/animation-courses.html](http://tisch.nyu.edu/film-tv/animation-area/animation-courses.html)  
 5. How to Train an Animator \- Gurney Journey, accessed on January 29, 2026, [http://gurneyjourney.blogspot.com/2014/07/how-to-train-animator.html](http://gurneyjourney.blogspot.com/2014/07/how-to-train-animator.html)  
 6. Stanchfield, Walt. *Drawn to Life: 20 Golden Years of Disney Master Classes*. Vol. 1, *The Walt Stanchfield Lectures*. Edited by Don Hahn. 2nd ed. Boca Raton, FL: CRC Press, 2024.  

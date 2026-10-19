@@ -103,7 +103,7 @@ Carmer receives screen credit as "Folklore Consultant" on *Melody Time*.1 This i
 
 ### **4.3 The "Extensive Research" Defense: The Adelquist-Murdoch Correspondence**
 
-The correspondence between Hal Adelquist (Disney Production Manager) and Florence Murdoch (Swedenborgian Archivist) is the key link.6 When Murdoch complained about the depiction of the Angel (specifically the coonskin cap), Adelquist replied that the studio had "researched the real life character extensively."
+The correspondence between Hal Adelquist (Disney Story Department Manager) and Florence Murdoch (librarian of the Cincinnati Church of the New Jerusalem) is the key link.6 When Murdoch complained about the depiction of the Angel (specifically the coonskin cap), Adelquist replied that the studio had researched the real Chapman extensively.
 
 Who conducted this research? The writers (Penner, Hibler) were story men, not historians. Carmer was the academic on the payroll. It is a near-certainty that Carmer provided the "extensive research" Adelquist cited. Carmer would have known:
 
@@ -194,7 +194,7 @@ When the angel in Disney’s *Johnny Appleseed* appears not as a biblical seraph
 | **Non-Violence** | Johnny refuses to kill a worm/mosquito; befriends animals. | Carmer’s folklore work emphasized the "gentle hero" vs. the "brute hero" (like Mike Fink). | Reflects Swedenborgian view of animals as "affections" and the sanctity of life (Influx). |
 | **The Setting** | Romanticized frontier; nature as a spiritual theater. | Carmer’s *Rivers of America* work focused on the landscape as a generator of myth. | Matches the "Doctrine of Correspondences" (Natural world mirrors Spiritual world). |
 
-This report confirms that the user's premise is sound: Carl Carmer was indeed a specialist in American esoteric history, and his employment by Disney serves as substantial evidence for the "Active Seeking" of theological depth in the Golden Age of Animation.
+This report confirms that the premise under examination is sound: Carl Carmer was indeed a specialist in American esoteric history, and his employment by Disney serves as substantial evidence for the "Active Seeking" of theological depth in the Golden Age of Animation.
 
 #### **Works cited**
 

@@ -8,7 +8,7 @@ The "Crisis of Ensoulment" refers to the specific technical and philosophical im
 
 Walt Disney, envisioning a feature-length film that would require an audience to sustain emotional investment for eighty minutes, recognized that the "rubber hose" aesthetic could not support tragedy, empathy, or genuine suspense. A rubber hose character cannot effectively die, because they have no anatomy to injure; they cannot effectively despair, because their bodies are designed for infinite elasticity. To make *Snow White*, the studio had to solve the problem of "Ensoulment": how to create the illusion that a drawing is self-motivated, that it possesses a mind that directs the body.
 
-This report posits that the solution to this crisis was the institutionalization of a "secularized pneumatology"—a theory of animation where the **"Mind is the Pilot"**.1 By triangulating internal memos, the pedagogy of art instructor Don Graham, the oral histories of the "Nine Old Men," and the theological frameworks of Emanuel Swedenborg (specifically the Doctrine of Influx), this investigation demonstrates that the shift in Disney animation was not merely stylistic. It was a metaphysical restructuring of the animated universe, moving from a world of "forms" (shapes moving in space) to a world of "forces" (inner intentions driving outer expressions). This shift subsequently created a massive **selection pressure** on the stories the studio could tell, favoring the correspondential logic of Grimm and Andersen while systematically rejecting the ironic logic of Cervantes and Rostand.
+This report posits that the solution to this crisis was the institutionalization of a "secularized pneumatology"—a theory of animation where the **"Mind is the Pilot"** (Disney, 23 December 1935). By triangulating internal memos, the pedagogy of art instructor Don Graham, the oral histories of the "Nine Old Men," and the theological frameworks of Emanuel Swedenborg (specifically the Doctrine of Influx), this investigation demonstrates that the shift in Disney animation was not merely stylistic. It was a metaphysical restructuring of the animated universe, moving from a world of "forms" (shapes moving in space) to a world of "forces" (inner intentions driving outer expressions). This shift subsequently created a massive **selection pressure** on the stories the studio could tell, favoring the correspondential logic of Grimm and Andersen while systematically rejecting the ironic logic of Cervantes and Rostand.
 
 ## **II. The Ontology of the Rubber Hose: The Aesthetics of the Soulless (1928–1932)**
 
@@ -16,19 +16,19 @@ To understand the magnitude of the "Crisis," one must first rigorously define th
 
 ### **2.1 The "Musical" vs. The "Mechanical"**
 
-In the late 1920s and early 1930s, American animation was dominated by what historians have termed the "rhythmic" or "musical" mode. This is best exemplified by the work of Ub Iwerks, Disney's first chief animator. In films like *The Skeleton Dance* (1929) or *Steamboat Willie* (1928), the movement of the characters is entirely subjugated to the musical score.2 The skeletons dance not because they have a desire to dance, but because the xylophone track dictates that their bones must rattle in synchronization.
+In the late 1920s and early 1930s, American animation was dominated by what historians have termed the "rhythmic" or "musical" mode. This is best exemplified by the work of Ub Iwerks, Disney's first chief animator. In films like *The Skeleton Dance* (1929) or *Steamboat Willie* (1928), the movement of the characters is entirely subjugated to the musical score. The skeletons dance not because they have a desire to dance, but because the xylophone track dictates that their bones must rattle in synchronization.
 
-This subordination of character to music created a "mechanical" quality to the life on screen. As noted in historical analyses of the *Silly Symphonies*, Iwerks' work was "restricted by a sense of mechanical precision".2 The characters were essentially visual instruments. Their limbs—drawn as flexible tubes without elbows or knees—operated on a logic of fluid distortion. They could stretch, knot, and bounce.
+This subordination of character to music created a "mechanical" quality to the life on screen. As Michael Barrier observes, Iwerks animated "very rapidly in essentially mechanical patterns" (Barrier 1999). The characters were essentially visual instruments. Their limbs—drawn as flexible tubes without elbows or knees—operated on a logic of fluid distortion. They could stretch, knot, and bounce.
 
-While this style was highly effective for the "gag" structure of the short subject—where the pleasure comes from the visual surprise of the distortion—it created a barrier to empathy. A character whose head can pop off and reattach 3 exists in a universe without consequence. If there is no consequence, there is no drama. If there is no drama, there is no feature film.
+While this style was highly effective for the "gag" structure of the short subject—where the pleasure comes from the visual surprise of the distortion—it created a barrier to empathy. A character treated as "malleable, capable of elaborate transformation and exaggeration" (McGowan 2018) exists in a universe without consequence. If there is no consequence, there is no drama. If there is no drama, there is no feature film.
 
 ### **2.2 The "Drifting" Problem and the Lack of Weight**
 
-A specific technical symptom of this "soullessness" was what Walt Disney and his animators referred to as "drifting." In early shorts, characters often appeared to float over the background rather than inhabit it. They lacked "weight."
+A specific technical symptom of this "soullessness" was a kind of drifting. In early shorts, characters often appeared to float over the background rather than inhabit it. They lacked "weight." Dick Huemer remembered the early animation as done "from pose to pose without much thought": "It was almost like it was a flat design. Without any weight" (quoted in Gabler 2006).
 
-Weight, in animation, is the visual cue for gravity. Gravity is the tether to reality. A character that has no weight has no physical presence; they are a ghost. Walt Disney's dissatisfaction with this "drifting" was a dissatisfaction with the lack of *presence*. He realized that for an audience to believe that a character was in danger (e.g., Snow White running through the forest), the character had to feel heavy. They had to struggle against the earth.
+Weight, in animation, is the visual cue for gravity. Gravity is the tether to reality. A character that has no weight has no physical presence; they are a ghost. Walt Disney's dissatisfaction with this weightlessness was a dissatisfaction with the lack of *presence*. He realized that for an audience to believe that a character was in danger (e.g., Snow White running through the forest), the character had to feel heavy. They had to struggle against the earth.
 
-This technical issue of "weight" was inextricably linked to the metaphysical issue of "intent." In the rubber hose style, movement was often "arbitrary".4 A hand would reach for a doorknob by simply stretching towards it. In the new style Walt demanded, the hand had to *want* to reach the doorknob. The "force" of the desire had to precede the "form" of the reach.
+This technical issue of "weight" was inextricably linked to the metaphysical issue of "intent." In the rubber hose style, movement was often "arbitrary" (Barrier 1999). A hand would reach for a doorknob by simply stretching towards it. In the new style Walt demanded, the hand had to *want* to reach the doorknob. The "force" of the desire had to precede the "form" of the reach.
 
 ### **2.3 Documented Dissatisfaction: The "Sausage" Critique**
 
@@ -36,23 +36,23 @@ Did the animators explicitly discuss this? The archival record confirms they did
 
 The most famous articulation of this dissatisfaction comes from Art Babbitt, the animator responsible for developing Goofy. In his 1934 "Character Analysis of the Goof," Babbitt explicitly attacks the rubber hose aesthetic:
 
-"Never think of the Goof as a sausage with rubber hose attachments. Though he is very flexible and floppy, his body still has a solidity and weight. The looseness in his arms and legs should be achieved through a succession of breaks in the joints rather than through what seems like the waving of so much rope." 5
+"Never think of the Goof as a sausage with rubber hose attachments. Though he is very flexible and floppy, his body still has a solidity and weight. The looseness in his arms and legs should be achieved through a succession of breaks in the joints rather than through what seems like the waving of so much rope." (Babbitt 1934)
 
 This quote is a "smoking gun" for the Crisis of Ensoulment. Babbitt is not just giving technical advice; he is demanding an ontological shift. A "sausage" is dead matter; a character with "solidity and weight" and "joints" is a biological entity. Babbitt argues that even a character defined by clumsiness (Goofy) must have an anatomical logic. The "waving of rope" is dismissed as insufficient because it lacks the structural integrity required for personality.
 
-Similarly, animators like Grim Natwick and Fred Moore began to speak of the need to move away from the "round circle school".7 Moore, who redesigned Mickey Mouse in 1938 to give him a pear-shaped body capable of squash and stretch, explicitly moved away from the "rigid" circle design that restricted emotional expression.9 The circle was a geometric abstraction; the pear was a biological mass. The shift from circle to pear was the shift from symbol to body.
+Similarly, Ward Kimball said of Fred Moore that he "was the first one to escape from the mold of the rubber hose, round circle school" (Thomas and Johnston 1981). Moore, to whom the redesign of Mickey Mouse with a "more pear-shaped and pliant" body capable of squash and stretch "is credited more ... than anyone else," moved Mickey away from the circles whose shapes "stayed fairly rigid and 'hard'" and restricted emotional expression (Lerew 2020). The circle was a geometric abstraction; the pear was a biological mass. The shift from circle to pear was the shift from symbol to body.
 
 ### **2.4 The Failure of "The Goddess of Spring" (1934)**
 
-The crisis became acute with the production of the *Silly Symphony* titled *The Goddess of Spring* (1934). This film was a deliberate test run for *Snow White*, an attempt to animate a realistic human female (Persephone) alongside a melodramatic villain (Pluto/Hades).
+The crisis became acute with the production of the *Silly Symphony* titled *The Goddess of Spring* (1934). This film was an attempt, in the year *Snow White* went into preproduction (Beiman 2014), to animate a realistic human female (Persephone) alongside a melodramatic villain (Pluto/Hades).
 
-The result was a disaster, widely acknowledged within the studio.11 The animators, trained in rubber hose principles, tried to draw a realistic woman but animated her with the "noodle arms" and rhythmic bouncing of a cartoon mouse. She appeared to be "rubbery" and "stiff" simultaneously—a grotesque uncanny valley where the form was human but the motion was mechanical.
+The result was a failure, and the studio knew it. Walt "was not pleased with the animation, feeling it was too rubbery and flexible," and Les Clark, who had used his sister as a model, said "it came off miserable, I thought" (Thomas and Johnston 1981). The animators, trained in rubber hose principles, tried to draw a realistic woman but animated her with the flexible limbs and rhythmic bouncing of a cartoon mouse—a grotesque uncanny valley where the form was human but the motion was mechanical.
 
 Walt Disney's reaction to this failure was pivotal. He realized that "realism" could not be achieved merely by changing the character design (the *form*). You could draw a realistic woman, but if you animated her like a rubber hose, she looked like a monster. The change had to come from the *inside*. The movement had to be driven by a different engine. This failure proved that the "Crisis of Ensoulment" was not a problem of draftsmanship; it was a problem of *acting* and *causality*.
 
 ## **III. The Pedagogical Solution: "The Mind is the Pilot" (1935)**
 
-To solve the crisis, Walt Disney did not turn to better cameras or more expensive ink. He turned to pedagogy. He hired Don Graham, an instructor from the Chouinard Art Institute, to retrain his entire staff. This training program, and the internal memos that surrounded it, constitute the "theological" texts of the studio's new pneumatology.
+To solve the crisis, Walt Disney did not turn to better cameras or more expensive ink. He turned to pedagogy. He had brought Don Graham, an instructor from the Chouinard Art Institute, to teach at the studio in 1932, and in 1934, as *Snow White* went into preproduction, those classes were greatly expanded to retrain his staff (Beiman 2014). This training program, and the internal memos that surrounded it, constitute the "theological" texts of the studio's new pneumatology.
 
 ### **3.1 The "Mind is the Pilot" Memo (December 23, 1935\)**
 
@@ -60,57 +60,57 @@ The single most important document in this transition is the memorandum Walt Dis
 
 He writes to Graham regarding the training of the animators:
 
-"Many men do not realize what really makes things move — why they move — what the force behind the movement is... In most instances, the driving force behind the action is the mood, the personality, the attitude of the character — or all three. Therefore, the mind is the pilot. We think of things before the body does them." 1
+"Many men do not realize what really makes things move — why they move — what the force behind the movement is... in most instances, the driving force behind the action is the mood, the personality, the attitude of the character — or all three. Therefore, the mind is the pilot. We think of things before the body does them." (Disney, 23 December 1935)
 
 This phrase—**"The mind is the pilot"**—is the definition of Ensoulment. It establishes a causal hierarchy that reverses the rubber hose method.
 
 * **Rubber Hose:** The body moves (Effect) \-\> The audience interprets life.  
 * **Disney/Graham:** The mind thinks (Cause) \-\> The body moves (Effect).
 
-Walt continues in the memo to distinguish between "reflexes" (subconscious mind) and deliberate actions, showing a sophisticated understanding of human psychology.1 He demands that animators understand *why* a character moves. If a character jumps, is it out of fear? Joy? Surprise? The physical drawing of the jump must differ based on the *spiritual cause* of the jump.
+Walt continues in the memo to distinguish between "reflexes" (subconscious mind) and deliberate actions, showing a sophisticated understanding of human psychology (Disney, 23 December 1935). He demands that animators understand *why* a character moves. If a character jumps, is it out of fear? Joy? Surprise? The physical drawing of the jump must differ based on the *spiritual cause* of the jump.
 
 ### **3.2 Don Graham and "Action Analysis"**
 
-Don Graham operationalized this philosophy through his "Action Analysis" classes.15 The core tenet of Graham's teaching was the distinction between **"Form"** and **"Force."**
+Don Graham operationalized this philosophy through his "Action Analysis" classes (Beiman 2014). The core tenet of Graham's teaching was the distinction between **"Form"** and **"Force."**
 
-Graham taught that most animators were stuck animating "forms"—copying the shape of a leg or an arm. He urged them to animate "forces"—the invisible energy or tension that *resulted* in the shape of the leg.15
+Graham taught that most animators were stuck animating "forms"—copying the shape of a leg or an arm. He urged them to animate "forces"—the invisible energy or tension that *resulted* in the shape of the leg (Graham, 21 June 1937).
 
-"The line of action is a visual explanation of what happens to form that has been acted upon by force." 15
+"In drawing lines representing a leg, a symbol for the force or thrust, is first drawn. The artist is not drawing a form at all, but indicating a force." (Graham, 21 June 1937)
 
 This pedagogy required the animator to visualize the invisible. They had to see the "force" (the intent, the weight, the emotion) before they drew the "form." This is a secularized application of the Swedenborgian concept of **Influx**, where the Spiritual (Force) flows into and shapes the Natural (Form).
 
-Graham used live-action film clips (notably Chaplin and other silent comedians) to analyze *how* thought translated into movement. He taught animators to look for the "anticipation"—the moment the brain sends the signal to the muscle. This "anticipation" became one of the 12 Principles of Animation, but its origin is in the need to show the "mind piloting the body."
+Graham used live-action film clips (notably Chaplin and other silent comedians) to analyze *how* thought translated into movement (Culhane 1986, quoted in Beiman 2014). He taught animators to look for the "anticipation"—the moment the brain sends the signal to the muscle. This "anticipation" became one of the 12 Principles of Animation (Thomas and Johnston 1981), but its origin is in the need to show the "mind piloting the body."
 
 ### **3.3 The "Active Substrate" of Swedenborgian Thought**
 
-While it is debated whether Walt Disney was a practicing Swedenborgian, the "Cultural Pneumatology" documents 17 strongly suggest that the studio environment acted as a "Secular New Jerusalem" where these ideas were active.
+While it is debated whether Walt Disney was a practicing Swedenborgian, the library's personnel histories of the studio (*The Animating Spirit: A Cultural History*; *The Carriers of the Invisible*) strongly suggest that the studio environment acted as a "Secular New Jerusalem" where these ideas were active.
 
-* **Mary Blair**, the stylist for *Cinderella* and *Alice in Wonderland*, was a confirmed member of the Swedenborgian Church.17 Her art style, which prioritized color and mood over rigid perspective, aligns with the Swedenborgian idea that the "state of the soul" dictates the appearance of the world.  
-* **Carl Carmer**, hired as a folklore consultant for *Melody Time* (specifically the "Johnny Appleseed" segment), was an expert on the "Burned-Over District" and American esoteric sects.20 The studio explicitly acknowledged John Chapman's Swedenborgian faith in correspondence.22
+* **Mary Blair**, the stylist for *Cinderella* and *Alice in Wonderland*, was confirmed into the Swedenborgian Church at the Wayfarers' Chapel on 23 December 1973 (*The Messenger*, February 1974), a late step that suggests a long affinity (*The Animating Spirit: A Cultural History*). Her art style, which prioritized color and mood over rigid perspective, aligns with the Swedenborgian idea that the "state of the soul" dictates the appearance of the world.  
+* **Carl Carmer**, hired as folklore consultant for *Melody Time* (American Film Institute, n.d.), the film that carries the "Johnny Appleseed" segment, was an expert on the "Burned-Over District" and American esoteric sects (Carmer 1936). The segment's subject, John Chapman, was "a most earnest disciple of the faith taught by Emanuel Swedenborg" (Haley 1871), and the studio answered for its treatment of his spiritual world in correspondence. In 1948 Florence Murdoch, librarian of the Cincinnati Church of the New Jerusalem and keeper of one of the largest Johnny Appleseed collections, wrote to Walt Disney welcoming Johnny's "Blessings Three," "love and faith and an apple tree"; Hal Adelquist, manager of the Story Department, replied that the studio had researched the real Chapman extensively and had "treated the angel with sincere respect and endowed him with a certain dignity" (Fryeburg New Church Assembly, n.d.). The angel is a departed pioneer, and the heaven he leads Johnny into needs apple trees planted: Swedenborg's angels as former human beings, and his heaven of uses (*The Apple and the Angel*).
 
 These connections suggest that the "Crisis of Ensoulment" was solved by importing a specific "vocabulary of the invisible" that aligned with Swedenborgian metaphysics: that the physical world is a theater for spiritual causes.
 
 ## **IV. The Breakthrough: "Playful Pluto" and the Birth of Thought**
 
-If the "Mind is the Pilot" memo was the theory, the "Flypaper Sequence" in *Playful Pluto* (1934) was the proof of concept. Animated by Norm Ferguson, this sequence is universally cited by historians (Barrier, Thomas & Johnston, Canemaker) as the moment the "Crisis" was technically resolved.
+If the "Mind is the Pilot" memo was the theory, the "Flypaper Sequence" in *Playful Pluto* (1934) was the proof of concept. Animated by Norm Ferguson, this sequence is cited by historians and by the animators themselves (Barrier 1999; Thomas and Johnston 1981) as the moment the "Crisis" was technically resolved.
 
 ### **4.1 The Cognitive Gap**
 
-In the sequence, Pluto gets a piece of sticky flypaper attached to his nose. In a rubber hose cartoon, he would simply run around, stretch his nose, and engage in frenetic physical gags. Ferguson did something different. He had Pluto **stop**.
+In the sequence, Pluto accidentally sits on a sheet of sticky flypaper (Thomas and Johnston 1981). In a rubber hose cartoon, he would simply run around, stretch his nose, and engage in frenetic physical gags. Ferguson did something different. He had Pluto **stop**.
 
 Pluto pauses. He looks at the paper. He thinks. He tries to pull it off with a paw. It gets stuck to the paw. He pauses again. He assesses the new situation. He tries to bite it. It gets stuck to his mouth.
 
 Frank Thomas and Ollie Johnston describe this as a "milestone in personality animation" because:
 
-"It was the first time a character seemed to be thinking on the screen... his thoughts of what to try next are shared with the audience." 24
+"His reaction to his predicament and his thoughts of what to try next are shared with the audience. It was the first time a character seemed to be thinking on the screen." (Thomas and Johnston 1981)
 
 This "thinking" is the manifestation of the "Mind is the Pilot." The animation showed the **Cognitive Gap**—the time between the stimulus and the response where the *soul* processes the information. Ferguson didn't just animate a dog; he animated a dog's *problem-solving process*. He animated the *invisible* (the thought) through the *visible* (the eyes and subtle shifts in weight).
 
 ### **4.2 The "Sincerity" of the Character**
 
-This sequence introduced the concept of "Sincerity" to the studio lexicon. Sincerity meant that the character was not performing for the audience; they were existing in their own reality. Pluto was genuinely distressed by the flypaper. He wasn't trying to be funny; the situation was funny *because* his distress was sincere.26
+This sequence embodied what the studio called "Sincerity." Walt stated the demand as one of fact: "Our work must have a foundation of fact in order to have sincerity" (Thomas and Johnston 1981). Sincerity meant that the character was not performing for the audience; they were existing in their own reality. Pluto was genuinely distressed by the flypaper. He wasn't trying to be funny; the situation was funny *because* his distress was sincere. Walt, describing the dog he had in mind, put it plainly: "he was serious about it, y'know; he wasn't a goof ball—this was serious business to him" (Thomas and Johnston 1981).
 
-This "Sincerity" became the metric by which all subsequent animation was judged. It was the antidote to the "mechanical" nature of the earlier *Silly Symphonies*. As Glen Keane later summarized: "Don't animate drawings, animate feelings".27 This maxim, passed down from the "Nine Old Men," is the lingering echo of the 1930s crisis.
+This "Sincerity" became the metric by which all subsequent animation was judged. It was the antidote to the "mechanical" nature of the earlier *Silly Symphonies*. As Ollie Johnston told Glen Keane, who repeated it to the animators he later trained: "Don't animate drawings, animate feelings" (Bancroft 2020). This maxim, passed down from the "Nine Old Men," is the lingering echo of the 1930s crisis.
 
 ## **V. The Feature Film Challenge: Snow White and the "Thinking" Character**
 
@@ -121,44 +121,44 @@ The ultimate test of this new "pneumatology" was *Snow White and the Seven Dwarf
 The Dwarfs presented a unique challenge: they were physically similar (short, round, big noses). In the rubber hose era, they would have moved identically. To make them distinct, the animators had to apply "Action Analysis" to their personalities.
 
 * **Doc:** Pompous, flustered. His movement had to be leading with his chest (ego) but stumbling (incompetence).  
-* **Dopey:** Loose, puppy-like. His clothes were too big, emphasizing his lack of "form" and his fluid, chaotic "force".28  
+* **Dopey:** Loose, puppy-like. His clothes were too big, emphasizing his lack of "form" and his fluid, chaotic "force".  
 * **Grumpy:** Restricted, folded in. His movement was defined by *repression* (crossing arms, turning away).
 
-Walt Disney explicitly pushed for this differentiation in story meetings. He rejected sequences that were just "gags" (like the "bed building" sequence or the "soup eating" sequence) because they didn't advance the *personality* of the characters.30 He famously told the animators that the story had to be driven by the characters' *internal* reactions to the Queen and Snow White, not by external slapstick.
+Walt Disney explicitly pushed for this differentiation in story meetings. He cut sequences that were just "gags" (the "bed building" sequence and the "soup eating" sequence) because they slowed the movement of the story (Thomas and Johnston 1981; Barrier 1999). He realized that the main thrust of the story was the relationship between the jealous Queen and the unsuspecting Snow White, not external slapstick (Thomas and Johnston 1981).
 
 ### **5.2 The Problem of the Girl: Rotoscoping vs. Animating**
 
-Snow White herself represented the hardest ceiling. The "Goddess of Spring" fiasco proved that you couldn't just "cartoon" a girl. The studio utilized live-action reference (rotoscoping) for Snow White, filming dancer Marge Champion. However, the animators, led by Ham Luske and Grim Natwick, realized that tracing the rotoscope resulted in a "dead" look. It captured the *form* but killed the *force*.
+Snow White herself represented the hardest ceiling. The "Goddess of Spring" fiasco proved that you couldn't just "cartoon" a girl. The studio utilized live-action reference (rotoscoping) for Snow White, filming dancer Marge Champion (Thomas and Johnston 1981). However, the animators, led by Ham Luske and Grim Natwick, realized that tracing the rotoscope resulted in a look "so stiff and unnatural on the screen" (Thomas and Johnston 1981). It captured the *form* but killed the *force*.
 
-To solve this, they had to "caricature the realism".31 They had to take the live-action footage and *exaggerate* the intent while keeping the anatomical proportions. They had to inject the "soul" back into the tracing. This struggle—between the mechanical capture of reality and the artistic expression of truth—defined the production.
+To solve this, they had to reach the "caricature of realism" Walt wanted (Thomas and Johnston 1981). They had to take the live-action footage and *exaggerate* the intent while keeping the anatomical proportions. They had to inject the "soul" back into the tracing. This struggle—between the mechanical capture of reality and the artistic expression of truth—defined the production.
 
 ### **5.3 Technical Innovations as Pneumatological Tools**
 
 The technical innovations of this period—specifically the **Multiplane Camera** (tested in *The Old Mill*, 1937)—were not just visual tricks; they were tools for "Ensoulment."
 
-The Multiplane Camera allowed for depth and "atmosphere".32 In *The Old Mill*, the storm is not just a background; it is a *character*. The old mill itself groans and suffers. This is the **Pathetic Fallacy** in action: the environment reflects the mood. This aligned perfectly with the Swedenborgian concept of **Correspondence**: the natural world (the storm) corresponds to the spiritual state (turmoil).
+The Multiplane Camera allowed for depth and "atmosphere," and *The Old Mill* showed the studio's new "ability to portray mood on the screen" (Thomas and Johnston 1981). In *The Old Mill*, the storm is not just a background; it is a *character*. The old mill itself groans and suffers. This is the **Pathetic Fallacy** in action: the environment reflects the mood. This aligned perfectly with the Swedenborgian concept of **Correspondence**: the natural world (the storm) corresponds to the spiritual state (turmoil).
 
 By giving the background "depth" and "mood," Disney allowed the characters to inhabit a "living" world. Snow White running through the forest is terrified, and the trees *become* monsters. The environment manifests her internal terror. This creates a unified field of "soul" where the boundary between character and background dissolves.
 
 ## **VI. Alternative Framings: How Historians Describe the "Soul"**
 
-The prompt asks if "Crisis of Ensoulment" is an accurate characterization or an interpretive overreach. A review of major historians confirms that while the specific term "Ensoulment" is unique to this report's framework, the *concept* is the central pillar of animation history.
+The question is whether "Crisis of Ensoulment" is an accurate characterization or an interpretive overreach. A review of major historians confirms that while the specific term "Ensoulment" is unique to this report's framework, the *concept* is the central pillar of animation history.
 
 ### **6.1 Michael Barrier: The "Emotional Dimension"**
 
-In *The Animated Man* and *Hollywood Cartoons*, Michael Barrier describes the transition as a struggle to bring an "emotional dimension" to the medium.2 He notes that Disney and his animators were "struggling... to represent the mechanics of movement with increasing accuracy" *in service of* emotion. Barrier frames it as a move from "gags" to "personality."
+In *Hollywood Cartoons*, Michael Barrier locates the turn in the shorts of 1934. In the flypaper sequence "Pluto's state of mind is always visible, in his expressive face and body," and it was this, at a time "when other Disney animators were preoccupied with reproducing the mechanics of movement accurately," that made the sequence unusual; in *The Flying Mouse* (1934), "in a striking departure for a Disney cartoon—the mouse is expressive not for comic purposes, but to give the story an emotional dimension" (Barrier 1999). Barrier frames it as a move from gags to personality.
 
-### **6.2 Neal Gabler: "Psychological Depth"**
+### **6.2 Neal Gabler: "Psychological and Emotional Realism"**
 
-Neal Gabler, in *Walt Disney: The Triumph of the American Imagination*, contrasts the "surrealism" of the early shorts with the "realism" and "psychological depth" of the features.31 He argues that Walt wanted to "captivate the audience by making it all believable—by making it real." Gabler identifies the shift as the introduction of "interiority."
+Neal Gabler, in *Walt Disney: The Triumph of the American Imagination*, describes the "rubber hose" style as one that "forsook realism and its difficulties for ease of drawing," and writes that Walt "felt that the lack of realism compromised the psychological and emotional reality of the characters." The visual realism Walt encouraged "was actually a product of the psychological and emotional realism he demanded" (Gabler 2006). Gabler identifies the shift as the introduction of interiority.
 
 ### **6.3 Thomas & Johnston: "The Illusion of Life"**
 
-The animators themselves, in *The Illusion of Life*, use the most metaphysical language. They speak of creating the "illusion of life," of characters that "think" and "feel".35 They explicitly contrast this with the "rubber hose" school. Their terminology—"sincerity," "thinking," "feeling"—is entirely consistent with the "Ensoulment" thesis. They viewed their task as creating a *being*, not just a *drawing*.
+The animators themselves, in *The Illusion of Life*, use the most metaphysical language. They speak of creating the "illusion of life," of characters that "think" and "feel." Walt's aim, they write, was "to captivate the audience by making it all believable—by making it real," and they explicitly contrast this with the "rubber hose" school (Thomas and Johnston 1981). Their terminology—"sincerity," "thinking," "feeling"—is entirely consistent with the "Ensoulment" thesis. They viewed their task as creating a *being*, not just a *drawing*.
 
-### **6.4 Donald Crafton: "Embodied Intentionality"**
+### **6.4 Donald Crafton: "Embodied Performance"**
 
-Donald Crafton, in *Shadow of a Mouse*, uses the term "embodied intentionality".36 He argues that the shift was about creating characters with an "interior core of emotion".37 Crafton explicitly links this to the concept of "performance"—the animator as actor.
+Donald Crafton, in *Shadow of a Mouse*, calls this mode "embodied performance": "the philosophy and practice of creating imaginatively realized beings with individuality, depth, and internal complexity." He sets it against figurative performance, whose character "lacks an interior core of emotion or individual expressivity" (Crafton 2013). Crafton explicitly links this to the concept of "performance"—the animator as actor.
 
 **Synthesis:** The "Crisis of Ensoulment" is a highly accurate historiographical label for the convergence of these observations. It captures the *technical* problem (rubber hose physics), the *narrative* problem (lack of empathy), and the *philosophical* solution (Mind as Pilot).
 
@@ -169,7 +169,7 @@ The shift was not sudden. It was a gradual, painful shedding of the old skin, ma
 | Year | Phase | Key Films | Technical/Artistic Innovation | Status of "Ensoulment" |
 | :---- | :---- | :---- | :---- | :---- |
 | **1928-1931** | **The Mechanical Era** | *Steamboat Willie*, *Skeleton Dance* | Sound synchronization. "Rubber Hose" physics. | **Soulless.** Movement is dictated by music/external rhythm. |
-| **1932** | **The Awakening** | *Flowers and Trees* | Technicolor. Don Graham hired to teach "Action Analysis." | **Stirring.** Recognition that current methods are insufficient. |
+| **1932** | **The Awakening** | *Flowers and Trees* | Technicolor. Don Graham begins art classes at the studio. | **Stirring.** Recognition that current methods are insufficient. |
 | **1933** | **Personality Emerges** | *Three Little Pigs* | Character differentiation. Pigs look alike but move differently based on personality. | **Proto-Soul.** Characters have distinct "attitudes" but still stylized. |
 | **1934** | **The Cognitive Breakthrough** | *Playful Pluto* | The "Flypaper Sequence." Pluto "thinks" on screen. | **Mind as Pilot.** First visual evidence of the cognitive gap. |
 | **1934** | **The Realistic Failure** | *The Goddess of Spring* | Attempt at realistic human (Persephone). | **Failed Form.** Proves that copying reality without "force" leads to "stiffness." |
@@ -184,7 +184,7 @@ The "Crisis of Ensoulment" did not just change *how* Disney animated; it changed
 
 ### **8.1 The Rejection of Don Quixote: The Irony Gap**
 
-The studio attempted to adapt *Don Quixote* multiple times (1940, 1946, 1951\) but failed.38 Why? Because *Don Quixote* is built on **Irony**, which is the inverse of **Correspondence**.
+The studio attempted to adapt *Don Quixote* multiple times (1940, 1946, 1951\) but failed (Solomon 1995). Why? Because *Don Quixote* is built on **Irony**, which is the inverse of **Correspondence**.
 
 * **Disney/Swedenborg Logic:** The inner state (Fear) creates the outer reality (Monster Trees). The world *validates* the soul.  
 * **Quixote Logic:** The inner state (Heroism) is *refuted* by the outer reality (Windmills). The world *invalidates* the soul.
@@ -193,7 +193,7 @@ For an animator trained to "draw the force into the form," *Don Quixote* is a te
 
 ### **8.2 The Rejection of Chanticleer: The Delusional Self**
 
-Similarly, *Chanticleer* (the rooster who thinks he raises the sun) was rejected because he was "unsympathetic".40 In Swedenborgian terms, Chanticleer represents the **Self** (Self-Love)—the delusion that *we* are the source of life.
+Similarly, *Chanticleer* (the rooster who thinks he raises the sun) was rejected because its hero was unsympathetic: Walt's own objection was that "[you] don't feel like picking a rooster up and petting it" (Barrier 2007). In Swedenborgian terms, Chanticleer represents the **Self** (Self-Love)—the delusion that *we* are the source of life.
 
 * **Disney Hero:** Aligns with the "Influx" (Providence). Snow White waits for the Prince; Pinocchio listens to his Conscience.  
 * **Chanticleer:** Believes he *is* the Influx.
@@ -208,67 +208,48 @@ Conversely, the tales of the Brothers Grimm (*Snow White*) and Hans Christian An
 
 The investigation confirms that the "Crisis of Ensoulment" is a robust and accurate framework for understanding the transformation of the Walt Disney Studio in the 1930s.
 
-1. **Documented Dissatisfaction:** There is ample evidence (Babbitt, Moore, Disney) that the "rubber hose" style was explicitly rejected as "drifting," "sausage-like," and insufficient for feature storytelling.  
+1. **Documented Dissatisfaction:** There is ample evidence (Babbitt, Huemer, Kimball, Disney) that the "rubber hose" style was explicitly rejected as weightless, "a sausage with rubber hose attachments," and insufficient for feature storytelling.  
 2. **Explicit Language:** The studio used specific metaphysical language: "The mind is the pilot," "thinking characters," "sincerity," and "force vs. form."  
 3. **Timeline:** The transition was a five-year process (1932–1937) of pedagogical retraining, marked by the pivotal 1935 memo and the "Flypaper Sequence."  
 4. **Selection Pressure:** The need for "Ensoulment" dictated the studio's literary choices, favoring the correspondential universes of Grimm and Andersen over the ironic universes of Cervantes and Rostand.
 
 Ultimately, the "Disney Style" is not just a commercial brand; it is the result of a specific, desperate struggle to solve a metaphysical problem: how to make a drawing appear to have a soul. To do this, Walt Disney secularized the theology of Influx, institutionalized it through the pedagogy of Don Graham, and built an empire on the premise that if you draw the "force" correctly, the "form" will follow. The "Magic" of Disney is, technically speaking, the industrial application of the belief that the body is merely the obedience of the mind.
 
-**Citations used in this report:**.1
+## **X. Works Cited**
 
-#### **Works cited**
+**Primary Sources:**
 
-1. Memo from Walt \- Animation Meat, accessed on February 1, 2026, [http://www.animationmeat.com/pdf/nineoldmen/MemoFromWalt.pdf](http://www.animationmeat.com/pdf/nineoldmen/MemoFromWalt.pdf)  
-2. The Silly Symphonies – Part One (1929-31) \- Louis McEvoy, accessed on February 1, 2026, [https://louismcevoywrites.home.blog/2018/12/09/the-silly-symphonies-part-one-1929-31/](https://louismcevoywrites.home.blog/2018/12/09/the-silly-symphonies-part-one-1929-31/)  
-3. Monochrome Mickey: Modern Nostalgia Texts and the Animated Star Image David McGowan \--- This is an Accepted Manuscript of an art \- \- UAL Research Online, accessed on February 1, 2026, [https://ualresearchonline.arts.ac.uk/id/eprint/17862/3/Monochrome%20Mickey.pdf](https://ualresearchonline.arts.ac.uk/id/eprint/17862/3/Monochrome%20Mickey.pdf)  
-4. Hollywood Cartoons American Animation in Its Golden Age (Michael Barrier) \- Flip eBook Pages 51-100 | AnyFlip, accessed on February 1, 2026, [https://anyflip.com/sckew/sgto/basic/51-100](https://anyflip.com/sckew/sgto/basic/51-100)  
-5. Analysis of the Goof | Disney Wiki \- Fandom, accessed on February 1, 2026, [https://disney.fandom.com/wiki/Analysis\_of\_the\_Goof](https://disney.fandom.com/wiki/Analysis_of_the_Goof)  
-6. Splog » Articles on Animation \- Michael Sporn Animation, accessed on February 1, 2026, [http://www.michaelspornanimation.com/splog/?cat=25\&paged=7](http://www.michaelspornanimation.com/splog/?cat=25&paged=7)  
-7. The Making of Snow White 1937 : r/Essays \- Reddit, accessed on February 1, 2026, [https://www.reddit.com/r/Essays/comments/1nrpc9o/the\_making\_of\_snow\_white\_1937/](https://www.reddit.com/r/Essays/comments/1nrpc9o/the_making_of_snow_white_1937/)  
-8. 2011 – Page 2 \- 50mostinfluentialdisneyanimators, accessed on February 1, 2026, [https://50mostinfluentialdisneyanimators.wordpress.com/2011/page/2/](https://50mostinfluentialdisneyanimators.wordpress.com/2011/page/2/)  
-9. Artist and Author Jenny Lerew Talks Mickey Mouse and Animator Fred Moore, Part I, accessed on February 1, 2026, [https://www.waltdisney.org/blog/artist-and-author-jenny-lerew-talks-mickey-mouse-and-animator-fred-moore-part-i](https://www.waltdisney.org/blog/artist-and-author-jenny-lerew-talks-mickey-mouse-and-animator-fred-moore-part-i)  
-10. Disney Legend Fred Moore \- Cool Cat \- Disney Facts and Figment, accessed on February 1, 2026, [https://factsandfigment.com/fred-moore-disney-legend/](https://factsandfigment.com/fred-moore-disney-legend/)  
-11. Between the Seasons: Disney's Silly Symphony “The Goddess of Spring” and Depictions of Greek Mythology \- Nicholas Diak's Homepage, accessed on February 1, 2026, [https://nickdiak.com/2020/10/between-the-seasons-disneys-silly-symphony-the-goddess-of-spring-and-depictions-of-greek-mythology/](https://nickdiak.com/2020/10/between-the-seasons-disneys-silly-symphony-the-goddess-of-spring-and-depictions-of-greek-mythology/)  
-12. A Site Analyzing All Things Character Animation | 50mostinfluentialdisneyanimators | Page 4, accessed on February 1, 2026, [https://50mostinfluentialdisneyanimators.wordpress.com/author/50mostinfluentialdisneyanimators/page/4/](https://50mostinfluentialdisneyanimators.wordpress.com/author/50mostinfluentialdisneyanimators/page/4/)  
-13. How to Train an Animator \- Gurney Journey, accessed on February 1, 2026, [http://gurneyjourney.blogspot.com/2014/07/how-to-train-animator.html](http://gurneyjourney.blogspot.com/2014/07/how-to-train-animator.html)  
-14. Thomas, Frank, and Ollie Johnston. *The Illusion of Life: Disney Animation*. New York: Abbeville Press, 1981.  
-15. Don Graham's Animation Force Analysis | PDF | Drawing \- Scribd, accessed on February 1, 2026, [https://www.scribd.com/document/141374426/Don-Graham-Notes-on-animation](https://www.scribd.com/document/141374426/Don-Graham-Notes-on-animation)  
-16. Action Analysis: Acting for Animation \- ArtCenter College of Design, accessed on February 1, 2026, [https://www.artcenter.edu/connect/events/action-analysis-acting-for-animation.html](https://www.artcenter.edu/connect/events/action-analysis-acting-for-animation.html)  
-17. The Animating Spirit: A Genealogical and Pneumatological Exegesis of Swedenborgian Thought in the Walt Disney Studio, [https://drive.google.com/open?id=1q5lOPrXvBm58-FrnBy5jQkDlL-pyTtK-67JtqA-suUY](https://drive.google.com/open?id=1q5lOPrXvBm58-FrnBy5jQkDlL-pyTtK-67JtqA-suUY)  
-18. The Animating Spirit\_ A Genealogical and Pneumatological Exegesis of Swedenborgian Thought in the Walt Disney Studio.pdf, [https://drive.google.com/open?id=1B6yJ7b44A02tuRoHobK0e\_GmDa7ipiwY](https://drive.google.com/open?id=1B6yJ7b44A02tuRoHobK0e_GmDa7ipiwY)  
-19. THE MESSENGER \- The Swedenborgian Church of North America, accessed on February 1, 2026, [https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf](https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf)  
-20. Johnny Appleseed – 'The Legend of Johnny Appleseed' (Disney's “Melody Time” (1948)) \- The Autistic Animator's Desk, accessed on February 1, 2026, [https://theautisticanimatorsdesk.wordpress.com/2025/04/23/johnny-appleseed-the-legend-of-johnny-appleseed-disneys-melody-time-1948/](https://theautisticanimatorsdesk.wordpress.com/2025/04/23/johnny-appleseed-the-legend-of-johnny-appleseed-disneys-melody-time-1948/)  
-21. AFI|Catalog \- American Film Institute, accessed on February 1, 2026, [https://catalog.afi.com/Catalog/MovieDetails/25636](https://catalog.afi.com/Catalog/MovieDetails/25636)  
-22. Johnny Appleseed \- Braman's Wanderings, accessed on February 1, 2026, [https://bramanswanderings.com/2012/08/11/johnny-appleseed/](https://bramanswanderings.com/2012/08/11/johnny-appleseed/)  
-23. Pluto (Disney) \- Wikipedia, accessed on February 1, 2026, [https://en.wikipedia.org/wiki/Pluto\_(Disney)](https://en.wikipedia.org/wiki/Pluto_\(Disney\))  
-24. Playful Pluto is Released \- D23, accessed on February 1, 2026, [https://d23.com/this-day/playful-pluto-is-released-2/](https://d23.com/this-day/playful-pluto-is-released-2/)  
-25. Animator Glen Keane Talks 'Tangled' \- Fat Guys at the Movies, accessed on February 1, 2026, [https://www.fatguysatthemovies.com/animator-glen-keane-talks-tangled/](https://www.fatguysatthemovies.com/animator-glen-keane-talks-tangled/)  
-26. Sincerity: Things I Heard At Disney That I'll Never Forget \- The Wacom Community, accessed on February 1, 2026, [https://community.wacom.com/it-it/sincerity-things-i-heard-at-disney-that-ill-never-forget/](https://community.wacom.com/it-it/sincerity-things-i-heard-at-disney-that-ill-never-forget/)  
-27. Original Production Animation Cels of Snow White and Dopey from "Snow White and the Seven Dwarfs," 1937 \- Animation Collection, accessed on February 1, 2026, [http://greganimationart.blogspot.com/2020/04/original-production-animation-cels-of.html](http://greganimationart.blogspot.com/2020/04/original-production-animation-cels-of.html)  
-28. Character costume portrayal and the multilayered process of costume design in Snow White and the Seven Dwarfs (1937) \- ResearchGate, accessed on February 1, 2026, [https://www.researchgate.net/publication/348771453\_Character\_costume\_portrayal\_and\_the\_multilayered\_process\_of\_costume\_design\_in\_Snow\_White\_and\_the\_Seven\_Dwarfs\_1937](https://www.researchgate.net/publication/348771453_Character_costume_portrayal_and_the_multilayered_process_of_costume_design_in_Snow_White_and_the_Seven_Dwarfs_1937)  
-29. Snow White and the Seven Dwarfs | Disney Wiki \- Fandom, accessed on February 1, 2026, [https://disney.fandom.com/wiki/Snow\_White\_and\_the\_Seven\_Dwarfs](https://disney.fandom.com/wiki/Snow_White_and_the_Seven_Dwarfs)  
-30. Now is the envy of all of the dead: an introduction to Don Hertzfeldt, the animator \- OpenBU, accessed on February 1, 2026, [https://open.bu.edu/server/api/core/bitstreams/dca41b40-3d5d-4a8c-baac-048869c1def3/content](https://open.bu.edu/server/api/core/bitstreams/dca41b40-3d5d-4a8c-baac-048869c1def3/content)  
-31. This Member Gift Honors A Film that Was Ahead of its Time \- D23, accessed on February 1, 2026, [https://d23.com/this-member-gift-honors-a-film-that-was-ahead-of-its-time/](https://d23.com/this-member-gift-honors-a-film-that-was-ahead-of-its-time/)  
-32. Mickey's Early Progressions in Personality | animationconnection, accessed on February 1, 2026, [https://animationconnection.wordpress.com/2018/08/31/mickeys-early-progressions-in-personality/](https://animationconnection.wordpress.com/2018/08/31/mickeys-early-progressions-in-personality/)  
-33. HARLINE & WASHINGTON'S When You Wish Upon a Star \- Oxford Academic, accessed on February 1, 2026, [https://academic.oup.com/book/61625/book-pdf/65237924/isbn-9780197745717.pdf](https://academic.oup.com/book/61625/book-pdf/65237924/isbn-9780197745717.pdf)  
-34. Full text of "The Illusion Of Life Disney Animation" \- Internet Archive, accessed on February 1, 2026, [https://archive.org/stream/TheIllusionOfLifeDisneyAnimation/The%20Illusion%20of%20Life%20Disney%20Animation\_djvu.txt](https://archive.org/stream/TheIllusionOfLifeDisneyAnimation/The%20Illusion%20of%20Life%20Disney%20Animation_djvu.txt)  
-35. Eric Herhuth – The Animated Will: Intelligent Movement and Embodied Intentionality in Character Animation, accessed on February 1, 2026, [https://oldjournal.animationstudies.org/eric-herhuth-the-animated-will-intelligent-movement-and-embodied-intentionality-in-character-animation/](https://oldjournal.animationstudies.org/eric-herhuth-the-animated-will-intelligent-movement-and-embodied-intentionality-in-character-animation/)  
-36. Constituting “Self-hood” through Embodied and Figurative Performance in Animation | Stevie Suan, accessed on February 1, 2026, [https://steviesuan.com/wp-content/uploads/2022/05/Animes\_Actors\_Constituting\_Self-hood\_thr.pdf](https://steviesuan.com/wp-content/uploads/2022/05/Animes_Actors_Constituting_Self-hood_thr.pdf)  
-37. The Mirror and the Void: An Archival and Pneumatological Exegesis of the Rejected Adaptations of the Walt Disney Studio, [**The Mirror and the Void: An Archival and Pneumatological Exegesis of the Rejected Adaptations of the Walt Disney Studio**](The%20Mirror%20and%20the%20Void_%20An%20Archival%20and%20Pneumatological%20Exegesis%20of%20the%20Rejected%20Adaptations%20of%20the%20Walt%20Disney%20Studio.md)  
-38. The troubled history of Don Quixote on film \- BFI, accessed on February 1, 2026, [https://www.bfi.org.uk/features/don-quixote-cinema](https://www.bfi.org.uk/features/don-quixote-cinema)  
-39. The "Chanticleer" Saga \- Part 1 \- Jim Hill Media, accessed on February 1, 2026, [https://jimhillmedia.com/the-chanticleer-saga-part-1/](https://jimhillmedia.com/the-chanticleer-saga-part-1/)  
-40. “Reynard the Fox” in Animation | \- Cartoon Research, accessed on February 1, 2026, [https://cartoonresearch.com/index.php/reynard-the-fox-in-animation/](https://cartoonresearch.com/index.php/reynard-the-fox-in-animation/)  
-41. The Mechanics of the Soul: Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio, [**The Mechanics of the Soul: Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio**](The%20Mechanics%20of%20the%20Soul_%20Don%20Graham,%20Action%20Analysis,%20and%20the%20Secularization%20of%20Swedenborgian%20Influx%20at%20the%20Walt%20Disney%20Studio.md)  
-42. The Invisible Influx\_ The Structural and Historical Persistence of Swedenborgian Thought in the Walt Disney Studio.pdf, [**The Invisible Influx: The Structural and Historical Persistence of Swedenborgian Thought in the Walt Disney Studio**](The%20Invisible%20Influx_%20The%20Structural%20and%20Historical%20Persistence%20of%20Swedenborgian%20Thought%20in%20the%20Walt%20Disney%20Studio.md)  
-43. Animating Forms vs. Forces \--Action Analysis Class of June 21st, 1937 \- A. Film L.A., accessed on February 1, 2026, [http://afilmla.blogspot.com/2009/03/animating-forms-vs-forces-action.html](http://afilmla.blogspot.com/2009/03/animating-forms-vs-forces-action.html)  
-44. Animation: The Mechanics of Motion \- The Swiss Bay, accessed on February 1, 2026, [https://theswissbay.ch/pdf/Gentoomen%20Library/Animation/Animation\_Mechanics\_Motion.pdf](https://theswissbay.ch/pdf/Gentoomen%20Library/Animation/Animation_Mechanics_Motion.pdf)  
-45. Drawn to Life: 20 Golden Years of Disney Master Classes \- The Key Point, accessed on February 1, 2026, [https://thekeypoint.org/2025/10/12/drawn-to-life-20-golden-years-of-disney-master-classes/](https://thekeypoint.org/2025/10/12/drawn-to-life-20-golden-years-of-disney-master-classes/)  
-46. accessed on February 1, 2026, [https://www.cdm.l.depaul.edu/academics/pages/classinfo.aspx?action=download\&term=20203\&classNbr=30456\&fid=763725](https://www.cdm.l.depaul.edu/academics/pages/classinfo.aspx?action=download&term=20203&classNbr=30456&fid=763725)  
-47. Sincerity \- Temple of the Seven Golden Camels, accessed on February 1, 2026, [http://sevencamels.blogspot.com/2015/05/sincerity.html](http://sevencamels.blogspot.com/2015/05/sincerity.html)  
-48. Original Production Animation Drawing of Mickey Mouse and Pluto from "Playful Pluto," 1934 \- Animation Collection, accessed on February 1, 2026, [http://greganimationart.blogspot.com/2016/03/original-production-animation-drawing\_22.html](http://greganimationart.blogspot.com/2016/03/original-production-animation-drawing_22.html)  
-49. animationconnection, accessed on February 1, 2026, [https://animationconnection.wordpress.com/](https://animationconnection.wordpress.com/)  
-50. Quotations From Walt Disney's Television Introductions \- MousePlanet, accessed on February 1, 2026, [https://mouseplanet.com/quotations-from-walt-disneys-television-introductions/5631/](https://mouseplanet.com/quotations-from-walt-disneys-television-introductions/5631/)  
-51. Life Reproduced in Drawings: Realism in Animation \- sterow, accessed on February 1, 2026, [https://www.sterow.com/?p=797](https://www.sterow.com/?p=797)  
-52. 2014 \- Reflections on Walt Disney, accessed on February 1, 2026, [http://reflectionsonwalt.blogspot.com/2014/](http://reflectionsonwalt.blogspot.com/2014/)  
-53. Believable Agents: Building Interactive Personalities. \- DTIC, accessed on February 1, 2026, [https://apps.dtic.mil/sti/tr/pdf/ADA327862.pdf](https://apps.dtic.mil/sti/tr/pdf/ADA327862.pdf)
+1. Babbitt, Art. "Character Analysis of the Goof." Walt Disney Studio, June 1934. Reprinted as "Analysis of the Goof" in Frank Thomas and Ollie Johnston, *The Illusion of Life: Disney Animation*. New York: Abbeville Press, 1981.
+2. Culhane, Shamus. *Talking Animals and Other People.* New York: St. Martin's Press, 1986. Reprint, New York: Da Capo Press, 1998.
+3. Disney, Walt. Inter-office communication to Don Graham, December 23, 1935. Reproduced in Shamus Culhane, *Talking Animals and Other People* (New York: Da Capo Press, 1998), 117–127, and in Walt Stanchfield, "The Disney Tradition," September 24, 1995, http://www.animationmeat.com/pdf/nineoldmen/MemoFromWalt.pdf.
+4. Graham, Don. "Animation of Forces vs. Animation of Forms as an Approach to Animation … Live Action Fall." Class on Action Analysis, Walt Disney Studio, June 21, 1937. Typescript transcript, collection of Hans Perk. Published at *A. Film L.A.*, March 2, 2009. http://afilmla.blogspot.com/2009/03/animating-forms-vs-forces-action.html.
+5. Haley, W. D. "Johnny Appleseed: A Pioneer Hero." *Harper's New Monthly Magazine* 43, no. 258 (November 1871): 830–836.
+6. *The Messenger* (Swedenborgian Church). February 1974. https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf.
+
+**Scholarly Works:**
+
+7. Barrier, Michael. *The Animated Man: A Life of Walt Disney.* Berkeley: University of California Press, 2007.
+8. Barrier, Michael. *Hollywood Cartoons: American Animation in Its Golden Age.* New York: Oxford University Press, 1999.
+9. Beiman, Nancy. "The Animated Tramp: Charlie Chaplin's Influence on American Animation." Conference paper, Fondazione Cineteca di Bologna, 2014. http://fondazione.cinetecadibologna.it/files/festival/Sotto_le_stelle/2014/100charlot/atti/beiman.
+10. Carmer, Carl. *Listen for a Lonesome Drum: A York State Chronicle.* New York: Farrar & Rinehart, 1936.
+11. Crafton, Donald. *Shadow of a Mouse: Performance, Belief, and World-Making in Animation.* Berkeley: University of California Press, 2013.
+12. Gabler, Neal. *Walt Disney: The Triumph of the American Imagination.* New York: Knopf, 2006.
+13. McGowan, David. "Monochrome Mickey: Modern Nostalgia Texts and the Animated Star Image." *Journal of Popular Film and Television* 46, no. 4 (2018): 219–231. https://doi.org/10.1080/01956051.2018.1495610.
+14. Solomon, Charles. *The Disney That Never Was: The Stories and Art from Five Decades of Unproduced Animation.* New York: Hyperion, 1995.
+15. Thomas, Frank, and Ollie Johnston. *The Illusion of Life: Disney Animation.* New York: Abbeville Press, 1981.
+
+**Internal Library Documents:**
+
+16. [The Animating Spirit: A Cultural History of Swedenborgian Thought at the Walt Disney Studio](The%20Animating%20Spirit_%20A%20Cultural%20History%20of%20Swedenborgian%20Thought%20at%20the%20Walt%20Disney%20Studio.md). The personnel history of the studio's Swedenborgian connections, including Mary Blair and Carl Carmer.
+17. [The Apple and the Angel: An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's *The Legend of Johnny Appleseed*](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md). The studio's knowledge of Chapman's faith (Carmer, the Murdoch–Adelquist correspondence) and the Swedenborgian structure of the film: the angel as a departed human, heaven as a kingdom of uses, the "Blessings Three."
+18. [The Carriers of the Invisible: A Personnel History of Swedenborgian Thought in the Walt Disney Studio](The%20Carriers%20of%20the%20Invisible_%20A%20Personnel%20History%20of%20Swedenborgian%20Thought%20in%20the%20Walt%20Disney%20Studio.md). Biographical data on the studio personnel who carried Swedenborgian ideas.
+19. [The Invisible Influx: The Structural and Historical Persistence of Swedenborgian Thought in the Walt Disney Studio](The%20Invisible%20Influx_%20The%20Structural%20and%20Historical%20Persistence%20of%20Swedenborgian%20Thought%20in%20the%20Walt%20Disney%20Studio.md). The "Secularized Reinstatement" hypothesis and the "Active Substrate" on which § 3.3 draws.
+20. [The Mechanics of the Soul: Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio](The%20Mechanics%20of%20the%20Soul_%20Don%20Graham,%20Action%20Analysis,%20and%20the%20Secularization%20of%20Swedenborgian%20Influx%20at%20the%20Walt%20Disney%20Studio.md). The full text of the 1935 memo and Graham's Action Analysis lectures read as a secularized doctrine of influx.
+21. [The Mirror and the Void: An Archival and Pneumatological Exegesis of the Rejected Adaptations of the Walt Disney Studio](The%20Mirror%20and%20the%20Void_%20An%20Archival%20and%20Pneumatological%20Exegesis%20of%20the%20Rejected%20Adaptations%20of%20the%20Walt%20Disney%20Studio.md). The development histories of *Don Quixote* and *Chanticleer* behind § VIII.
+
+**Web Sources:**
+
+22. American Film Institute. "Melody Time (1948)." *AFI Catalog of Feature Films*, n.d. https://catalog.afi.com/Catalog/MovieDetails/25636.
+23. Bancroft, Tom. "Sincerity: Things I Heard At Disney That I'll Never Forget." *Wacom Community Blog*, August 11, 2020. https://community.wacom.com/en-us/sincerity-things-i-heard-at-disney-that-ill-never-forget/.
+24. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.
+25. Lerew, Jenny. "Artist and Author Jenny Lerew Talks Mickey Mouse and Animator Fred Moore, Part I." Interview. *The Walt Disney Family Museum* (blog), March 2, 2020. https://www.waltdisney.org/blog/artist-and-author-jenny-lerew-talks-mickey-mouse-and-animator-fred-moore-part-i.

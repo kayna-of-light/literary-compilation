@@ -72,7 +72,7 @@ We will now dissect Luke 24:1–12 verse by verse, analyzing the textual variant
 * **Textual Variant (Western Non-Interpolation):** The phrase **"of the Lord Jesus"** (*tou kyriou Iēsou*) is **omitted** by Codex Bezae (D) and the Old Latin manuscripts (a, b, d, e, ff², l, r¹).16  
   * **Implication:** The original text read simply: "they did not find the body."  
 * **Scientific Analysis:** The title "Lord Jesus" is exceptionally rare in the Gospels (used mostly in Acts). Its presence here in the Alexandrian text signals a later liturgical or high-Christological expansion.  
-* **Marcionite Witness:** Marcion generally used "Lord" or "Isoua," but the omission in the Western text suggests the primitive Proto-Luke lacked the theological title here. The simple statement of the missing body is the stark, historical core.  
+* **Marcionite Witness:** Tertullian attests the missing body ("corpore autem non invento," *Marc.* 4.43.2); neither Marcionite witness bears on the title. The omission in the Western text suggests the primitive Proto-Luke lacked the theological title here. The simple statement of the missing body is the stark, historical core.  
 * **Proto-Luke Probability:** High probability that Proto-Luke contained "they did not find the body," but **without** the title "Lord Jesus."
 
 ### **3.3 The Angelic Theophany (Luke 24:4–5)**
@@ -89,9 +89,10 @@ We will now dissect Luke 24:1–12 verse by verse, analyzing the textual variant
 
 * **Textual Variant (Western Non-Interpolation):** The crucial proclamation **"He is not here, but has been raised"** (*ouk estin hōde, alla ēgerthē*) is **omitted** by Codex Bezae (D) and the Old Latin manuscripts (a, b, d, e, ff², l, r¹).14  
   * **Significance:** Westcott and Hort argued that this phrase was inserted by later scribes to harmonize Luke with Mark 16:6 and Matthew 28:6.  
-* **Proto-Luke Reconstruction:** If the Western text preserves Proto-Luke, then **Proto-Luke did not contain the explicit announcement of the resurrection at the tomb.**  
-  * **The Original Reading:** The text would flow directly from the question to the reminder: *"Why do you seek the living among the dead? Remember how he told you..."*  
-  * **Theological Implication:** In Proto-Luke, the "empty tomb" is not interpreted immediately as "resurrection." It remains an ambiguous sign. The women are told not that "he is risen" (a completed fact), but to *remember* his words. The focus is on **anamnesis** (memory/teaching) rather than **kerygma** (proclamation). This creates a "quieter" narrative where faith must be recovered through memory, not forced by a missing body.
+* **Marcionite Witness:** Here the Marcionite text and the Western text part company. Epiphanius quotes the Marcionite verse in one run: *"Why do you seek the Living One among the dead? He has been raised (ēgerthē). Remember all that he spoke while he was still with you..."* (*Pan.* 42.11.6, sch. 76). Tertullian has the women return from the tomb "to announce the Lord's resurrection" (*Marc.* 4.43.2). The Marcionite text therefore had the announcement "He has been raised" and lacked "He is not here, but."  
+* **Proto-Luke Reconstruction:** **Proto-Luke contained the announcement of the resurrection at the tomb, in its shortest form.**  
+  * **The Original Reading:** *"Why do you seek the Living One among the dead? He has been raised. Remember all that he told you..."* — "all that" (*hosa*), not "how" (*hōs*), is the reading of both Marcionite witnesses (Tertullian, *Marc.* 4.43.5: "quae locutus sit"; Epiphanius, sch. 76), shared with Codex Bezae.  
+  * **Theological Implication:** In Proto-Luke the announcement turns on the state of the Living One, not on the place of the body: there is no "he is not here" pointing the women to the empty niche. They are told that he has been raised and sent to *remember* his words. The focus is on **anamnesis** (memory/teaching) as much as on **kerygma** (proclamation). This creates a "quieter" narrative where faith must be recovered through memory, not forced by a missing body.
 
 ### **3.5 The Galilee Redirection (Luke 24:6–8)**
 
@@ -100,7 +101,7 @@ We will now dissect Luke 24:1–12 verse by verse, analyzing the textual variant
 * **Markan Divergence:** Mark 16:7 commands the disciples to *go* to Galilee ("He is going before you to Galilee"). Luke 24:6 changes this to a memory *of* Galilee ("while he was still in Galilee").  
 * **Lukan Geography:** This alteration is fundamental to Luke’s theology, which centers the resurrection appearances and the beginning of the church exclusively in Jerusalem.  
 * **Proto-Luke:** This modification must belong to the earliest layer of the Lukan tradition (Proto-Luke) because the entire subsequent narrative (Emmaus, Jerusalem appearances) depends on the disciples *not* going to Galilee. If Marcion’s gospel is Proto-Luke, it contained this Jerusalem-centric focus.  
-* **Marcionite Witness:** BeDuhn and Roth affirm that Marcion’s text contained the instruction to "Remember what he spoke to you," though Marcion may have omitted the specific reference to "Galilee" or the "Son of Man" title depending on his specific text.17 However, the structure of "Remembering words" is Marcionite/Proto-Lukan.
+* **Marcionite Witness:** Both witnesses attest the instruction to "Remember what he spoke to you." Tertullian quotes it with Galilee and the Son of Man: "Rememoramini quae locutus sit vobis in Galilaea, dicens quod oportet tradi filium hominis et crucifigi et tertia die resurgere" (*Marc.* 4.43.5). Epiphanius has "while he was still with you" in place of "while he was still in Galilee," and keeps the Son of Man (sch. 76). The structure of "Remembering words" is Marcionite/Proto-Lukan.
 
 ### **3.6 The Peter Interpolation (Luke 24:12): The Verdict of the Evidence**
 
@@ -126,26 +127,26 @@ Based on the intersection of the Western Text (D/Old Latin) and the Marcionite r
 | :---- | :---- | :---- | :---- |
 | **24:1** | Women go to tomb with spices. | **Present** | Core narrative. |
 | **24:2** | Found stone rolled away. | **Present** | Core narrative. |
-| **24:3** | Did not find the body **of the Lord Jesus**. | Did not find the body. | "of the Lord Jesus" omitted (Western Non-Interpolation). |
+| **24:3** | Did not find the body **of the Lord Jesus**. | Did not find the body. | "of the Lord Jesus" omitted (Western Non-Interpolation); the missing body attested by Tertullian. |
 | **24:4** | Two men in dazzling apparel. | **Present** | Distinct Lukan feature (vs. Mark's one angel). |
 | **24:5** | "Why do you seek the living among the dead?" | **Present** | Attested in Marcion (Tertullian/Epiphanius). |
-| **24:6** | **"He is not here, but has been raised."** Remember how he told you... | **Absent.** "Remember how he told you..." | Resurrection proclamation omitted (Western Non-Interpolation). |
+| **24:6** | **"He is not here, but has been raised."** Remember how he told you... | "He has been raised. Remember all that he told you..." | "He is not here, but" absent (Epiphanius, sch. 76); the Western text omits the whole proclamation. |
 | **24:7** | Son of Man prophecy... | **Present** | Content of the memory. |
 | **24:8** | They remembered his words. | **Present** | Key Lukan theme: Faith via word/memory. |
 | **24:9** | Returned and told the eleven. | **Present** | Women as apostles to apostles. |
 | **24:10** | (List of names: Mary Mag, Joanna...) | **Present** (or simplified) | Names present in core tradition. |
 | **24:11** | Apostles considered it an idle tale. | **Present** | Disbelief is the final word on the tomb. |
-| **24:12** | **Peter runs to tomb, sees linen cloths.** | **ABSENT** | **Interpolation.** Omitted by Western text/Marcion. |
+| **24:12** | **Peter runs to tomb, sees linen cloths.** | **ABSENT** | **Interpolation.** Omitted by Western text; not cited by either Marcionite witness. |
 
 ### **Summary of Proto-Luke's Narrative Arc:**
 
-In Proto-Luke, the women go to the tomb, find the body missing, are rebuked by angels for seeking the Living One in a cemetery, are told to remember his teaching, and report this to the men. The men dismiss it as nonsense. **The scene ends in failure and ambiguity.** There is no "Peter to the rescue," no verification of linen cloths. The "Empty Tomb" fails to generate faith. Faith only arises in the next scene (Emmaus) through the **spiritual encounter** with the stranger.
+In Proto-Luke, the women go to the tomb, find the body missing, are rebuked by angels for seeking the Living One in a cemetery, are told that he has been raised and to remember his teaching, and report this to the men. The men dismiss it as nonsense. **The scene ends in failure and ambiguity.** There is no "Peter to the rescue," no verification of linen cloths. The "Empty Tomb" fails to generate faith. Faith only arises in the next scene (Emmaus) through the **spiritual encounter** with the stranger.
 
 ## ---
 
 **5\. Theological Bias and the "Jamesian" Substrate**
 
-The user query specifically asks to "watch out for theological bias." The history of this text is a history of theological manipulation. By peeling back the layers, we reveal a struggle between two competing christologies: the **Spiritual Resurrection** (Jamesian/Marcionite) and the **Physical Resuscitation** (Orthodox/Anti-Docetic).
+This inquiry specifically asks to "watch out for theological bias." The history of this text is a history of theological manipulation. By peeling back the layers, we reveal a struggle between two competing christologies: the **Spiritual Resurrection** (Jamesian/Marcionite) and the **Physical Resuscitation** (Orthodox/Anti-Docetic).
 
 ### **5.1 The "Jamesian" Connection: Spiritual Exaltation**
 
@@ -153,7 +154,7 @@ The document \[1\] posits that Proto-Luke was a "Jamesian Protograph," originati
 
 * **The Problem:** The Jamesian community (Ebionites) and Paul (1 Cor 15\) emphasized a **Spiritual Resurrection** (*soma pneumatikon*). Paul never mentions an empty tomb. The finding of the Talpiot ossuaries (inscribed "Jesus son of Joseph") suggests the earliest family members knew where the bones were and did not view this as contradictory to his exaltation to God's right hand.25  
 * **Proto-Luke’s Solution:** The Proto-Lukan narrative (as reconstructed above) is compatible with this view. The women find the *tomb* open and the *body* gone, but the angels ask, *"Why do you seek the living among the dead?"* This can be read not as "He has reanimated," but as "He is not in the realm of the dead; he is Exalted."  
-* **Ambiguity:** By omitting "He is not here, but has been raised" (v. 6a), Proto-Luke leaves the mechanics of the disappearance ambiguous. It functions like the translation of Elijah (2 Kings 2\) or the Assumption of Moses—a removal of the body to signal exaltation, not necessarily a resuscitation of flesh to walk around on earth.
+* **Ambiguity:** By announcing "He has been raised" without "He is not here" (v. 6a), Proto-Luke leaves the mechanics of the disappearance ambiguous. It functions like the translation of Elijah (2 Kings 2\) or the Assumption of Moses—a removal of the body to signal exaltation, not necessarily a resuscitation of flesh to walk around on earth.
 
 ### **5.2 The "Orthodox" Interpolations: Creating Physical Proof**
 
@@ -163,7 +164,8 @@ The later additions to Luke (Canonical Luke) are clearly designed to "harden" th
 2. **Inserting "Flesh and Bones" (v. 39):** Later in the chapter, Canonical Luke has Jesus say, *"Touch me and see; for a spirit does not have flesh and bones as you see that I have."*  
    * **Marcion’s Text:** Tertullian reports that Marcion’s text read: *"A spirit does not have bones \[flesh is omitted\], as you see I have."* Or even more radically: *"as you see I have \[not\]."*.27  
    * **Ignatius:** Ignatius (Smyrnaeans 3.2) quotes a version: *"I am not a bodiless demon."*  
-   * **Scientific Conclusion:** The "flesh and bones" and the "eating of fish" (Luke 24:41-43) are likely **Anti-Docetic interpolations** added to the Proto-Lukan core to force a physicalist interpretation that the original text did not demand.
+   * **Both Witnesses:** Tertullian quotes the Marcionite verse as "see my hands and feet, that it is I myself, for a spirit does not have bones as you see me having" (*Marc.* 4.43.6), and reports the Marcionite reading of it as "as you see me *not* having bones" (4.43.7); Epiphanius quotes the same words in Greek (sch. 78). Neither has "touch me and see."  
+   * **Scientific Conclusion:** The "touch me and see" and the "flesh" of 24:39 are likely **Anti-Docetic interpolations** added to the Proto-Lukan core to force a physicalist interpretation that the original text did not demand. The request for food (24:41) was already in the Proto-Lukan core: Tertullian says Jesus asked for food "to show that he had teeth" (*Marc.* 4.43.8). The eating of the fish (24:42–43) is not cited by Tertullian or Epiphanius.
 
 ### **5.3 Marcion as the Preserver**
 
@@ -199,9 +201,9 @@ Based on an honest and rigorous scientific analysis of the textual, patristic, a
 2. **Textual Nature:** The Proto-Lukan tomb narrative was **shorter** and **theologically different** from the canonical version.  
    * It **lacked Luke 24:12** (Peter’s visit).  
    * It **lacked** the title "Lord Jesus" (v. 3).  
-   * It **likely lacked** the explicit proclamation "He is not here, but has been raised" (v. 6a), focusing instead on the memory of Jesus' words.  
+   * It **lacked** "He is not here, but" (v. 6a): the announcement was the single word "He has been raised," followed by the call to remember all that Jesus had said (Epiphanius, sch. 76).  
 3. **Theological Function:** In Proto-Luke, the empty tomb was a sign of **absence**, not presence. It produced confusion ("perplexity"), not faith. Faith in Proto-Luke is generated solely by the **revelation of the Word** (opening the Scriptures) and the **Eucharist** (breaking of bread) in the Emmaus story, not by forensic evidence of a corpse's location.  
-4. **Historical Reconstruction:** The canonical Gospel of Luke represents a later, "orthodox" redaction of this Proto-Lukan material. The redactor added Peter’s verification (v. 12\) and the physical proofs (v. 39-43) to counter the very interpretation Marcion held—that the resurrection was the liberation of the Spirit from the flesh.
+4. **Historical Reconstruction:** The canonical Gospel of Luke represents a later, "orthodox" redaction of this Proto-Lukan material. The redactor added Peter’s verification (v. 12\), the empty place ("He is not here") and the touching and the flesh (v. 39) to counter the very interpretation Marcion held—that the resurrection was the liberation of the Spirit from the flesh.
 
 **Final Verdict:** The empty tomb was in Proto-Luke, but it was a "spiritual" empty tomb—a mystery of absence—that was later concretized into a "physical" empty tomb—a proof of resuscitation—by the emerging orthodox church.
 
@@ -234,4 +236,6 @@ Based on an honest and rigorous scientific analysis of the textual, patristic, a
 25. accessed on January 1, 1970, [Resurrection Narrative Evolution in New Testament](../03_Biblical_Scholarship/The%20Anatomy%20of%20Ascension_%20A%20Critical-Historical%20and%20Phenomenological%20Reconstruction%20of%20the%20Resurrection%20Narrative%20from%20Pauline%20Pneumatology%20to%20the.md)  
 26. accessed on January 1, 1970, [Forensic and Geochemical Investigation of the James Ossuary and the Talpiot Tomb](Forensic%20and%20Geochemical%20Investigation%20of%20the%20James%20Ossuary%20and%20the%20Talpiot%20Tomb_%20An%20Integrated%20Analysis%20of%20Provenance%2C%20Epigraphy%2C%20and%20Statistical.md)  
 27. THE GOSPEL (PROTO-LUKE): CHAPTER 22 (includes tomb), [https://drive.google.com/open?id=1L2lTw7dh\_GXml5QyKnyKmmFXcw9R1fa14F4eXJTJVnU](https://drive.google.com/open?id=1L2lTw7dh_GXml5QyKnyKmmFXcw9R1fa14F4eXJTJVnU)  
-28. Marcion and the gospel of Luke. \- Page 3 \- Biblical Criticism & History Forum, accessed on December 24, 2025, [https://earlywritings.com/forum/viewtopic.php?t=1742\&start=20](https://earlywritings.com/forum/viewtopic.php?t=1742&start=20)
+28. Marcion and the gospel of Luke. \- Page 3 \- Biblical Criticism & History Forum, accessed on December 24, 2025, [https://earlywritings.com/forum/viewtopic.php?t=1742\&start=20](https://earlywritings.com/forum/viewtopic.php?t=1742&start=20)  
+29. Epiphanius. *Ancoratus und Panarion*. Vol. 2, *Panarion haer. 34–64*. Edited by Karl Holl. GCS 31. Leipzig: Hinrichs, 1922.  
+30. Tertullian. *Adversus Marcionem*. Edited and translated by Ernest Evans. 2 vols. Oxford: Clarendon Press, 1972.

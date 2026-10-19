@@ -509,7 +509,7 @@ Five persists. That is what five IS.
 
 **Internal Library Documents:**
 
-10. [The Ancient Word Recovered: Extracting the Correspondential Substrate of the Kephalaia](../02_Swedenborgian_Theology/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md). Establishes the extraction pipeline and validates the Kephalaia substrate as a witness to the Ancient Word.
+10. [The Ancient Word Recovered: Extracting the Correspondential Substrate of the Kephalaia](../00_Framework/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md). Establishes the extraction pipeline and validates the Kephalaia substrate as a witness to the Ancient Word.
 
 **Scholarly Works:**
 

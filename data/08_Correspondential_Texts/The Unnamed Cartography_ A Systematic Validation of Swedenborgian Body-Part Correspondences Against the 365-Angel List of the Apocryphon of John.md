@@ -31,13 +31,13 @@
 
 ### 1.1 Background
 
-The Apocryphon of John (hereafter "ApJ") is one of the most important Sethian texts in the Nag Hammadi Library. It presents a cosmogonic narrative — the emanation from the Invisible Spirit, Sophia's error, the creation of Yaldabaoth, and the formation of the human body — within which is embedded a detailed body-creation passage (Robinson edition, lines 103–121). In this passage, 365 named angels each create a specific part of the human body, preceded by seven "substance-souls" that establish the primary bodily materials (bone, sinew, flesh, marrow, blood, skin, hair) and followed by four elemental rulers governing heat, cold, wetness, and dryness.
+The Apocryphon of John (hereafter "ApJ") is one of the most important Sethian texts in the Nag Hammadi Library. It presents a cosmogonic narrative — the emanation from the Invisible Spirit, Sophia's error, the creation of Yaldabaoth, and the formation of the human body — within which is embedded a detailed body-creation passage (NHC II 15,13–19,10). In this passage, 365 named angels each create a specific part of the human body, preceded by seven "substance-souls" that establish the primary bodily materials (bone, sinew, flesh, marrow, blood, skin, hair) and followed by four elemental rulers governing heat, cold, wetness, and dryness.
 
-Scholarship has largely dismissed the 365-angel list as "tedious magical enumeration" (Pearson 1981) or "secondary expansion" (Turner 2001). The names have been treated as opaque transliterations of no semantic content — nonsense syllables in angel-name dress.
+Scholarship has treated the 365-angel list chiefly as a redactional matter: the longer version of the Apocryphon (Codices II and IV) "differs from the shorter version (BG and NHC III) mainly by the addition of an excerpt from the 'Book of Zoroaster' on the creation of the psychic Adam" (Turner 2001, 139). The names have been treated as opaque transliterations of no semantic content — nonsense syllables in angel-name dress.
 
 Emanuel Swedenborg, working independently in 18th-century Sweden, documented a system of body-part correspondences across thousands of pages in *Arcana Coelestia* and related works. In his system, each organ, bone, and structure of the human body corresponds to a specific spiritual quality, and together they constitute the *Maximus Homo* (Grand Man) — the form of heaven in its entirety perceived as a single human being (HH §§59–102).
 
-These two systems have no documented transmission link. The ApJ was buried at Nag Hammadi around 367 CE and not discovered until 1945; Swedenborg worked between 1745 and 1772. The ApJ community had documented access to Zoroastrian source texts ("the book of Zoroaster," ApJ line 115); Swedenborg claimed access through direct spiritual perception.
+These two systems have no documented transmission link. The ApJ was buried at Nag Hammadi around 367 CE and not discovered until 1945; Swedenborg worked between 1745 and 1772. The ApJ community had documented access to Zoroastrian source texts ("the book of Zoroaster," ApJ II 19,8–10); Swedenborg claimed access through direct spiritual perception.
 
 ### 1.2 Theoretical Framework
 
@@ -78,7 +78,7 @@ Only names rated **strong** or **moderate** confidence were included in the vali
 
 For each etymologically decoded angel name, the corresponding body-part entry in Swedenborg's works was identified using section-level citations:
 
-- *Arcana Coelestia* (AC): The primary source for body-part correspondences, especially §§3021, 3301, 4277, 4410, 4932–4938, 5380–5386, 5552–5574
+- *Arcana Coelestia* (AC): The primary source for body-part correspondences, especially §§3021, 3301, 4277, 4410, 4932–4938, 5380–5386, 5552–5573
 - *Heaven and Hell* (HH): §§59–102 (Grand Man), §§141–153 (spiritual compass/directions)
 - *Divine Love and Wisdom* (DLW): §§83–88 (love and wisdom as heat and light), §§371–393 (will and understanding)
 - *Spiritual Diary* (SD): Supplementary observations on body-part correspondences
@@ -115,12 +115,12 @@ These are cases where the angel name encodes *exactly* what Swedenborg documents
 
 | Angel Name | Body Part | Name Meaning | Swedenborgian Correspondence | Reference |
 |------------|-----------|--------------|------------------------------|-----------|
-| **Amen** | Teeth | אמן = truth, firmness | Teeth = hardest, most external truths; what tests substance | AC §§5565–5574 |
+| **Amen** | Teeth | אמן = truth, firmness | Teeth = hardest, most external truths; what tests substance | AC §§4424, 5565, 9052 |
 | **Asterechme** | Right eye | ἀστήρ + ἔχω = star-holder | Right eye = affection of truth; receiving light | AC §4410 |
 | **Biblo** | Kidneys | βίβλος = book | Kidneys = searching faults, conscience-investigators | AC §§5380–5386 |
-| **Achiel** | Right knee | אחי-אל = brother of God | Knees = conjunction with the Divine; humiliation | AC §4277 |
-| **Tebar** | Right shoulder | תבר = to bear | Shoulders = power, bearing burden | AC §§4932–4937 |
-| **Kriman** | Hand nails | κρίμα = judgment | Nails = ultimate of ultimates; final expression | SD Vol. II |
+| **Achiel** | Right knee | אחי-אל = brother of God | Knees = conjunction of good and truth; humiliation | AC §§3915, 7596 |
+| **Tebar** | Left shoulder | תבר = to break | Shoulders = power, bearing burden | AC §§4932–4937 |
+| **Kriman** | Hand nails | κρίμα = judgment | Nails = those who "praise and blame without understanding, yet are not evil" | SD §6109 |
 | **Abenlenarchei** | Marrow | אבן + ἀρχή = stone of origin | Marrow = interior life-principle within rigid structures | AC §§5560–5564 |
 | **Phloxopha** | Heat / East | φλόξ + σοφία = flame-wisdom | East = Lord as Sun; love and wisdom united | DLW §§83–88; HH §§141–153 |
 | **Erimacho** | Dryness / North | ἔρημος + μάχη = desert-battle | North = obscurity of truth; struggle in darkness | HH §§141–153 |
@@ -143,10 +143,10 @@ These are cases where the angel name encodes *exactly* what Swedenborg documents
 | Gesole | Stomach | γᾶ + σωλήν = earth-channel | Stomach = processing earth-substance |
 | Bineborin | Arteries | βία + φέρω = force-carrier | Arteries = distributing life-force |
 | Eilo | Testicles | εἰλέω = compressed | Seed = concentrated potential |
-| Yeronumos | Right ear | ἱερός + νόμος = sacred law | Ears = obedience, hearkening (שמע) |
+| Yeronumos | Right ear | ἱερώνυμος = sacred name | Ears = obedience, hearkening (שמע) |
 | Arachethopi | Ribs | ἀράχνη + τόπος = web-place | Ribs = protective enclosure |
 | Oroorrothos | Cold / West | ὀρρωδέω = shrinking-back | West = declining love; withdrawal |
-| Athuro | Wet / South | Ḥwt-Ḥr = House of Light | South = truth in full light |
+| Athuro | Wet / South | Ḥwt-Ḥr = House of Horus (the light-principle) | South = truth in full light |
 | Pisandriaptes | Chest | πιστός + ἅπτω = faithful touching | Chest = spiritual kingdom; faith |
 | Archendekta | Senses | ἀρχή + δέκτης = chief receiver | Senses = reception faculty |
 | Atoimenpsephei | Breaths | ἀτμός + ψῆφος = breath-reckoner | Breath = understanding operating in every part |
@@ -180,10 +180,10 @@ The seven primary body-creation principles — the "substance-souls" that preced
 | Order | Quality | Substance | Swedenborgian Correspondence | Reference |
 |-------|---------|-----------|------------------------------|-----------|
 | 1 | Goodness | Bone | Structural support; the foundation | AC §§5560–5564 |
-| 2 | Foreknowledge | Sinew | Connection; social bonds | SD Vol. II |
-| 3 | Divinity | Flesh | Substance; the divine gift made tangible | AC §§5560–5564 |
+| 2 | Foreknowledge | Sinew | Connection; social bonds | SD §§983–985 |
+| 3 | Divinity | Flesh | Substance; the divine gift made tangible | AC §3813 |
 | 4 | Lordship | Marrow | Interior generative life within structure | AC §§5560–5564 |
-| 5 | Kingdom | Blood | Life-current; circulation; distribution | AC §4227; DLW §§379–380 |
+| 5 | Kingdom | Blood | Life-current; circulation; distribution | DLW §§379–380 |
 | 6 | Envy | Skin | External boundary; the self | AC §§5552–5559 |
 | 7 | Understanding | Hair | Ultimate of ultimates; outermost emanation | AC §3301 |
 
@@ -199,10 +199,10 @@ The four elemental rulers match Swedenborg's spiritual compass (HH §§141–153
 |---------|------------|--------------|-------------------------|-----------|
 | Heat | Phloxopha | φλόξ + σοφία = flame-wisdom | **East** = Lord as Sun, love and wisdom united | Perfect |
 | Cold | Oroorrothos | ὀρρωδέω = shrinking-back | **West** = declining love, distance from source | Perfect |
-| Wetness | Athuro | Ḥwt-Ḥr = House of Light | **South** = truth in full light | Perfect |
+| Wetness | Athuro | Ḥwt-Ḥr = House of Horus (the light-principle) | **South** = truth in full light | Perfect |
 | Dryness | Erimacho | ἔρημος + μάχη = desert-battle | **North** = obscurity of truth | Perfect |
 
-**Critical Finding**: Water = truth is the correspondential principle that makes the compass work. The South is *wet* because truth flows abundantly; the North is *dry* because truth is absent. This correspondence (water = truth) is consistent across the entire Swedenborgian system and is independently encoded in the ApJ's naming of the four elemental rulers. The angel of the wet South is named "House of Light" — truth at home, fully present — while the angel of the dry North is named "Desert-Battle" — truth absent, the seeker struggling in desolation.
+**Critical Finding**: Water = truth is the correspondential principle that makes the compass work. The South is *wet* because truth flows abundantly; the North is *dry* because truth is absent. This correspondence (water = truth) is consistent across the entire Swedenborgian system and is independently encoded in the ApJ's naming of the four elemental rulers. The angel of the wet South is named for the "House of Horus," the house where light dwells — truth at home, fully present — while the angel of the dry North is named "Desert-Battle" — truth absent, the seeker struggling in desolation.
 
 The "mother" of the four — Onorthochrasaei — "stands in their midst since she is illimitable, and she mixes with all of them. And she is truly matter." Matter is the center where all four spiritual directions converge. Every material thing participates in all four directions simultaneously. This is a spatial cosmology that Swedenborg maps identically 1,700 years later.
 
@@ -235,7 +235,7 @@ Every prediction of the null hypothesis fails. The distribution of matches is dr
 
 The evidential weight of this convergence depends on the independence of the two systems. If Swedenborg had access to the ApJ, the match would demonstrate borrowing, not independent attestation. The independence is established by:
 
-1. **The ApJ was buried**: The Nag Hammadi codices were sealed in a jar near Nag Hammadi, Egypt, around 367 CE and not discovered until December 1945. The first English translation appeared in 1977 (Robinson). Swedenborg died in 1772.
+1. **The ApJ was buried**: The Nag Hammadi codices were sealed in a jar near Nag Hammadi, Egypt, around 367 CE and not discovered until December 1945. The first complete English translation of the codices appeared in 1977 (Robinson). Swedenborg died in 1772.
 
 2. **Swedenborg's documented sources**: Swedenborg worked from the Hebrew Bible, the Greek New Testament, classical sources, and his own spiritual experiences. No Gnostic texts appear in his documented reading.
 
@@ -255,7 +255,7 @@ This analysis does not prove option 3. But it makes option 3 the most parsimonio
 
 ### 4.5 Limitations
 
-1. **Translation uncertainty**: Approximately 40% of angel names remain etymologically opaque or tentative. The validation is based only on names with strong or moderate confidence decomposition.
+1. **Translation uncertainty**: About a third of the angel names (30 of 84) remain etymologically tentative or opaque. The validation is based only on names with strong or moderate confidence decomposition.
 2. **Selection bias**: Only successful decompositions enter the comparison. If the opaque names were systematically contradictory, the picture would change. However, among the names that *can* be analyzed, the consistency is uniform.
 3. **Interpreter bias**: The etymological analysis was conducted with knowledge of the Swedenborgian system. An independent etymological analysis by scholars unfamiliar with Swedenborg would strengthen the finding. However, the etymological roots (e.g., φλόξ = flame, κρίμα = judgment, אמן = truth) are standard lexical entries, not interpretive constructions.
 4. **the ApJ text is itself multi-layered**: The body-creation passage may contain editorial additions from different periods. Some names may be later insertions or corruptions.
@@ -263,7 +263,7 @@ This analysis does not prove option 3. But it makes option 3 the most parsimonio
 ### 4.6 Future Directions
 
 1. Independent etymological verification by Coptic/Greek specialists unfamiliar with Swedenborg
-2. Extension to the remaining ~50 names rated "tentative" or "opaque" as linguistic resources improve
+2. Extension to the 30 names rated "tentative" or "opaque" as linguistic resources improve
 3. Cross-validation against other NHL texts containing body-part correspondences
 4. Comparison with the Zoroastrian *mēnōg/gētīg* body-correspondence system (if reconstructable from extant Pahlavi texts)
 
@@ -279,27 +279,29 @@ Two independent traditions — one ancient, one modern; one with access to Zoroa
 
 ---
 
-## References
+## Works Cited
 
-### Primary Sources
+**Primary Sources:**
 
-- Swedenborg, Emanuel. *Arcana Coelestia* [Heavenly Secrets]. 12 vols. 1749–1756.
-- Swedenborg, Emanuel. *De Caelo et Ejus Mirabilibus, et de Inferno* [Heaven and Hell]. 1758.
-- Swedenborg, Emanuel. *Sapientia Angelica de Divino Amore et de Divina Sapientia* [Divine Love and Wisdom]. 1763.
-- Swedenborg, Emanuel. *Diarium Spirituale* [Spiritual Diary]. Posthumous.
-- Robinson, James M., ed. *The Nag Hammadi Library in English*. 3rd rev. ed. San Francisco: HarperSanFrancisco, 1990.
+1. Robinson, James M., ed. *The Nag Hammadi Library in English*. 3rd rev. ed. San Francisco: HarperSanFrancisco, 1990. Cited by codex, page and line (NHC II 15,13–19,10 for the body-creation passage).
+2. Swedenborg, Emanuel. *Angelic Wisdom concerning Divine Love and Wisdom*. Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+3. Swedenborg, Emanuel. *Arcana Coelestia*. Translated by John Clowes, revised and edited by John Faulkner Potts. Standard Edition. 12 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+4. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell*. Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+5. Swedenborg, Emanuel. *The Spiritual Diary of Emanuel Swedenborg*. Translated by George Bush, John H. Smithson and James F. Buss. 5 vols. London: James Speirs, 1883–1902. Cited by entry number (§).
 
-### Secondary Sources
+**Scholarly Works:**
 
-- Pearson, Birger A. "The Figure of Seth in Gnostic Literature." In *The Rediscovery of Gnosticism*, vol. 2, ed. B. Layton, 472–504. Leiden: Brill, 1981.
-- Turner, John D. *Sethian Gnosticism and the Platonic Tradition*. Québec: Les Presses de l'Université Laval, 2001.
-- Liddell, Henry George, Robert Scott, and Henry Stuart Jones. *A Greek-English Lexicon*. 9th ed. Oxford: Clarendon Press, 1940.
-- Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament*. Oxford: Clarendon Press, 1906.
+6. Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament*. Oxford: Clarendon Press, 1906.
+7. Liddell, Henry George, Robert Scott, and Henry Stuart Jones. *A Greek-English Lexicon*. 9th ed. Oxford: Clarendon Press, 1940.
+8. Turner, John D. *Sethian Gnosticism and the Platonic Tradition*. Bibliothèque copte de Nag Hammadi, Section « Études ». Québec: Les Presses de l'Université Laval; Louvain: Peeters, 2001.
 
-### Project Sources
+**Internal Library Documents:**
 
-- AJ_angel_name_translations.yaml — Complete etymological analysis, structured data file
-- Findings AJ-017 through AJ-020 in II_1_apocryphon_john.yaml — Supporting findings chain
-- "The Grand Man: An Exhaustive Anatomical Atlas of the Divine Human" — Swedenborgian reference compilation
-- "The Universal Mirror: An Exhaustive Cartography of Natural Correspondences" — Swedenborgian reference compilation
-- "A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg" — Swedenborgian reference compilation
+9. [A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg](../02_Swedenborgian_Theology/A%20Library%20of%20Biblical%20Correspondences%20in%20Nature%20and%20Objects%20According%20to%20Emanuel%20Swedenborg.md) — a Swedenborgian reference compilation used to locate the body-part correspondences.
+10. [The Grand Man: An Exhaustive Anatomical Atlas of the Divine Human](../02_Swedenborgian_Theology/The%20Grand%20Man_%20An%20Exhaustive%20Anatomical%20Atlas%20of%20the%20Divine%20Human.md) — the anatomical atlas of the *Maximus Homo* against which the angel list is compared.
+11. [The Universal Mirror: An Exhaustive Cartography of Natural Correspondences in the Theology of Emanuel Swedenborg](../02_Swedenborgian_Theology/The%20Universal%20Mirror_%20An%20Exhaustive%20Cartography%20of%20Natural%20Correspondences%20in%20the%20Theology%20of%20Emanuel%20Swedenborg.md) — a Swedenborgian reference compilation of natural correspondences.
+
+**Data Sources:**
+
+12. kayna-of-light. "AJ_angel_name_translations.yaml." *nag-hammadi-analysis*, `findings/tractates/`. https://github.com/kayna-of-light/nag-hammadi-analysis/blob/main/findings/tractates/AJ_angel_name_translations.yaml — the complete etymological analysis of the angel names on which every table here rests.
+13. kayna-of-light. "II_1_apocryphon_john.yaml." *nag-hammadi-analysis*, `findings/tractates/`. https://github.com/kayna-of-light/nag-hammadi-analysis/blob/main/findings/tractates/II_1_apocryphon_john.yaml — findings AJ-017 through AJ-020, the supporting chain for this thesis.

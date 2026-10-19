@@ -68,7 +68,7 @@ The preparatory phase culminates in a "profound internal conflict" as the soul's
 
 This profound crisis is *not* resolved by the individual's own power. It is resolved by a "direct, and often overwhelming, theophany" or divine intervention. This event "shatters the old identity," resolves the crisis, and "activates the soul's mission".
 
-* **Archetypal Example (Swedenborg):** The "Delft Christophany," a "multi-sensory, psycho-physical event" where he was "prostrated" in "complete ontological surrender" and received the command, "Well, then do... Do what thou hast promised".  
+* **Archetypal Example (Swedenborg):** The "Delft Christophany," a "multi-sensory, psycho-physical event" where he was "prostrated" in "complete ontological surrender" and received the command, "Well, then do," which he took to signify "Do what thou hast promised".  
 * **Archetypal Example (Paul):** The "violent recalibration" on the Damascus road, a "forced revelatory intervention that shattered his worldview".  
 * **Archetypal Example (Isaiah):** The crisis is resolved by a direct theophany: a seraph touches his "unclean lips" with a burning coal from the altar, an act of "instrumental purification".
 
@@ -76,7 +76,7 @@ This profound crisis is *not* resolved by the individual's own power. It is reso
 
 The climax of the intervention is the individual's "sudden, profound understanding that their entire life path—the longing, the preparation, and the agonizing crisis—has been under meticulous divine guidance from the beginning". The call is thus revealed "not as a new directive, but as a dramatic awakening to a purpose that was always present".
 
-* **Archetypal Example (Swedenborg):** He immediately understood "Do what thou hast promised" as the activation of his "pre-incarnate covenant." This is confirmed by his later reflection: "the tenor of Divine Providence has ruled the acts of my life from my very youth".  
+* **Archetypal Example (Swedenborg):** Within weeks of the commission he perceived "that the spirit had been with me from my youth unto this end"; read through this profile, "Do what thou hast promised" is the activation of his "pre-incarnate covenant." His later reflection in *The Word Explained* confirms the realization: "the tenor of Divine Providence has ruled the acts of my life from my very youth".  
 * **Archetypal Example (Paul):** His later "Realization of Providence" that God had "separated me from my mother's womb and called me through His grace".
 
 This four-stage psychological model provides a new articulation for a universal human experience. Traditional theological analysis of prophetic call narratives identifies a 5-element structure: (1) a situation of distress, (2) the commissioning, (3) objections raised by the person, (4) assurance of God's help, and (5) a sign to confirm.  

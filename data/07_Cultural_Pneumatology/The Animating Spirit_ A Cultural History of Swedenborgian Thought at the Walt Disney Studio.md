@@ -6,7 +6,7 @@
 
 **Methods**: This study synthesizes archival evidence (internal memos, production documents, personnel records), historiographical sources (Barrier, Gabler, Thomas & Johnston), and documented transmission paths connecting Disney's source authors (Grimm, Andersen, Carroll) to Swedenborgian thought. Evidence is classified by type: documented (archival), structural (pattern match), and interpretive (inference).
 
-**Results**: The evidence supports conscious Swedenborgian encoding from the studio's founding. Critical analysis of *Snow White and the Seven Dwarfs* (1937) reveals systematic departures from the Grimm source that align precisely with Swedenborgian eschatology: the destination changed from a "neighboring kingdom" (horizontal) to a "golden castle in the clouds" (celestial ascent); the awakening changed from mechanical dislodging to the Prince's kiss (Truth awakening the soul); the Queen's death changed from external punishment to self-destruction (evil perishing by its own nature). These changes are too theologically precise to be accidental. The *Johnny Appleseed* correspondence (1948)—where Hal Adelquist admitted the studio "researched the real life character extensively"—confirms that by mid-century, key personnel consciously knew they were encoding Swedenborgian material. The precision of these encodings, the strategic hiring of specialists like Carl Carmer (Burned-Over District historian), and the 90-year persistence with active course-correction (*Wish* failure → *Snow White* 2025 restoration) indicate conscious gatekeeping from the beginning, not organic drift followed by recognition.
+**Results**: The evidence supports conscious Swedenborgian encoding from the studio's founding. Critical analysis of *Snow White and the Seven Dwarfs* (1937) reveals systematic departures from the Grimm source that align precisely with Swedenborgian eschatology: the destination changed from the prince's father's castle (horizontal) to a "golden castle in the clouds" (celestial ascent); the awakening changed from mechanical dislodging to the Prince's kiss (Truth awakening the soul); the Queen's death changed from external punishment to self-destruction (evil perishing by its own nature). These changes are too theologically precise to be accidental. The *Johnny Appleseed* correspondence (1948)—where Hal Adelquist admitted the studio had researched the real Chapman extensively—confirms that by mid-century, key personnel consciously knew they were encoding Swedenborgian material. The precision of these encodings, the strategic hiring of specialists like Carl Carmer (Burned-Over District historian), and the 90-year persistence with active course-correction (*Wish* failure → *Snow White* 2025 restoration) indicate conscious gatekeeping from the beginning, not organic drift followed by recognition.
 
 **Conclusions**: The Disney Studio's Swedenborgian alignment was not accidental convergence subsequently recognized—it was conscious encoding from the founding. *Snow White* (1937) demonstrates theological precision that cannot be explained by ambient cultural influence. The tradition has been maintained through coded preservation, mentorship succession, and institutional practice for 90 years. The central question is not *whether* conscious transmission occurred, but *who* the original transmitter was and how the succession has been maintained across generations.
 
@@ -54,14 +54,14 @@ The mechanism operates through four interconnected processes:
 
 **Evidence for Conscious Encoding from the Founding**
 
-The *Johnny Appleseed* correspondence (1948) was initially thought to mark the transition to conscious transmission. Hal Adelquist, Story Department Manager, told Swedenborgian archivist Florence Murdoch that the studio had "researched the real life character extensively."³ You cannot extensively research John Chapman without learning he was a Swedenborgian missionary. **They knew.**
+The *Johnny Appleseed* correspondence (1948) was initially thought to mark the transition to conscious transmission. Hal Adelquist, Story Department Manager, told Florence Murdoch, librarian of the Cincinnati Church of the New Jerusalem, that the studio had researched the real Chapman extensively.³ You cannot extensively research John Chapman without learning he was a Swedenborgian missionary. **They knew.**
 
 But *Snow White and the Seven Dwarfs* (1937) demonstrates that conscious encoding predates the Adelquist correspondence by a decade. The film's departures from Grimm are not artistic license—they are precise Swedenborgian eschatology:
 
 | Element | Grimm Original | Disney (1937) | Swedenborgian Correspondence |
 |---------|---------------|---------------|------------------------------|
 | Coffin release | Dislodged by stumbling servants | Prince's kiss | Truth awakens the soul from spiritual death |
-| Destination | Neighboring kingdom (horizontal) | Golden castle in clouds (vertical) | Ascent to celestial realm |
+| Destination | The prince's father's castle (horizontal) | Golden castle in clouds (vertical) | Ascent to celestial realm |
 | Villain's death | Forced to dance in red-hot iron shoes | Falls from cliff pursuing the dwarfs | Evil destroys itself by its own nature |
 | Snow White's state | "Enchanted sleep" | Explicit death/farewell to natural world | Death of natural selfhood preceding resurrection |
 
@@ -130,17 +130,17 @@ The animators' dissatisfaction with rubber hose aesthetics is explicitly documen
 
 Babbitt's language is precise. A "sausage" is dead matter; a character with "solidity and weight" and "joints" is a biological entity. The "waving of rope" is dismissed as insufficient because it lacks the structural integrity required for personality. Even Goofy—a character defined by clumsiness—must have an anatomical logic. Babbitt is not merely giving technical advice; he is demanding an ontological shift.
 
-Similarly, animators like Grim Natwick and Fred Moore articulated the need to move away from the "round circle school."³ Moore, who redesigned Mickey Mouse in 1938 to give him a pear-shaped body capable of "squash and stretch," explicitly moved away from the rigid circle design that restricted emotional expression.⁴ The circle was a geometric abstraction; the pear was a biological mass. The shift from circle to pear was the shift from symbol to body.
+Similarly, Ward Kimball said of Fred Moore that he "was the first one to escape from the mold of the rubber hose, round circle school."³ Moore, to whom the redesign of Mickey Mouse with a "more pear-shaped and pliant" body capable of squash and stretch "is credited more ... than anyone else," moved Mickey away from the circles whose shapes "stayed fairly rigid and 'hard'" and restricted emotional expression.⁴ The circle was a geometric abstraction; the pear was a biological mass. The shift from circle to pear was the shift from symbol to body.
 
-A specific technical symptom of "soullessness" was what animators referred to as "drifting." In early shorts, characters often appeared to float over the background rather than inhabit it. They lacked "weight." Weight, in animation, is the visual cue for gravity; gravity is the tether to reality. A character without weight has no physical presence—they are a ghost. Walt Disney's dissatisfaction with "drifting" was a dissatisfaction with the lack of *presence*.
+A specific technical symptom of "soullessness" was a kind of drifting. In early shorts, characters often appeared to float over the background rather than inhabit it. They lacked "weight." Dick Huemer, quoted by Neal Gabler, remembered the early animation as "almost like it was a flat design. Without any weight." Weight, in animation, is the visual cue for gravity; gravity is the tether to reality. A character without weight has no physical presence—they are a ghost. Walt Disney's dissatisfaction with this weightlessness was a dissatisfaction with the lack of *presence*.
 
 This technical issue was inextricably linked to a metaphysical one. In rubber hose animation, movement was often arbitrary. A hand reaching for a doorknob simply stretched toward it. In the new style Walt demanded, the hand had to *want* to reach the doorknob. The "force" of desire had to precede the "form" of the reach.
 
 ### 2.3 The Goddess of Spring Failure (1934)
 
-The crisis became acute with the production of *The Goddess of Spring* (1934), a *Silly Symphony* serving as a deliberate test run for *Snow White*. The film attempted to animate a realistic human female (Persephone) alongside a melodramatic villain (Pluto/Hades).
+The crisis became acute with the production of *The Goddess of Spring* (1934), a *Silly Symphony* made in the year *Snow White* went into preproduction. The film attempted to animate a realistic human female (Persephone) alongside a melodramatic villain (Pluto/Hades).
 
-The result was a widely acknowledged disaster within the studio.⁵ Animators trained in rubber hose principles attempted to draw a realistic woman but animated her with the "noodle arms" and rhythmic bouncing of a cartoon mouse. She appeared "rubbery" and "stiff" simultaneously—a grotesque uncanny valley where form was human but motion was mechanical.
+The result was a failure, and the studio knew it: Walt "was not pleased with the animation, feeling it was too rubbery and flexible," and Les Clark said of his own scenes, "it came off miserable, I thought."⁵ Animators trained in rubber hose principles attempted to draw a realistic woman but animated her with the flexible limbs and rhythmic bouncing of a cartoon mouse—a grotesque uncanny valley where form was human but motion was mechanical.
 
 Walt Disney's reaction to this failure was pivotal. He recognized that "realism" could not be achieved merely by changing character design (the *form*). You could draw a realistic woman, but if you animated her like a rubber hose character, she looked monstrous. The change had to come from the *inside*. The movement had to be driven by a different engine.
 
@@ -150,7 +150,7 @@ Walt Disney's reaction to this failure was pivotal. He recognized that "realism"
 
 The solution came not through better cameras or more expensive ink, but through pedagogy. Walt Disney hired Don Graham from the Chouinard Art Institute to retrain his entire staff. The pivotal document—what we might call the "constitution" of the Disney Golden Age—is the memorandum Walt sent to Graham on December 23, 1935:
 
-> "Many men do not realize what really makes things move—why they move—what the force behind the movement is... In most instances, the driving force behind the action is the mood, the personality, the attitude of the character—or all three. Therefore, the mind is the pilot. We think of things before the body does them."⁶
+> "Many men do not realize what really makes things move—why they move—what the force behind the movement is... in most instances, the driving force behind the action is the mood, the personality, the attitude of the character—or all three. Therefore, the mind is the pilot. We think of things before the body does them."⁶
 
 This phrase—**"The mind is the pilot"**—establishes a causal hierarchy that reverses the rubber hose method:
 
@@ -253,7 +253,7 @@ Don Graham was hired in 1932 from the Chouinard Art Institute—not as an animat
 
 The central tenet of Graham's pedagogy was the distinction between **Form** and **Force**. In surviving lecture notes from June 1937, Graham stated:
 
-> "The Line of Action is a visual explanation of what happens to form that has been acted upon by—FORCE."⁴
+> "In drawing lines representing a leg, a symbol for the force or thrust, is first drawn. The artist is not drawing a form at all, but indicating a force."⁴
 
 Graham critiqued the tendency to focus on "Form"—the literal shape of a muscle, the contour of a limb, the static pose. Drawing "forms" resulted in stiff, dead drawings because it prioritized the material shell over the energy moving it. Such a drawing might be anatomically correct but lacked the spark of life.
 
@@ -408,9 +408,9 @@ Lloyd Wright's Wayfarers Chapel (1951), in the community where Blair and other D
 
 The 1948 production of *The Legend of Johnny Appleseed* marked the moment when the studio's implicit Swedenborgian orientation became explicit—not to the general audience, but to those capable of recognition.
 
-The correspondence between the studio and Florence Murdoch, librarian of the Cincinnati Church of the New Jerusalem, demonstrates that Disney's creative team knew they were handling Swedenborgian material. When Murdoch saw promotional images depicting Johnny's "Guardian Angel" as a frontier spirit in a coonskin cap, she wrote to protest. Hal Adelquist, Story Department Manager and a key lieutenant to Walt, replied personally: "We trust that after you have viewed the picture you will agree that we have treated the angel with sincere respect... researched the real life character extensively."⁷
+The correspondence between the studio and Florence Murdoch, librarian of the Cincinnati Church of the New Jerusalem, demonstrates that Disney's creative team knew they were handling Swedenborgian material. When Murdoch saw promotional images depicting Johnny's "Guardian Angel" as a frontier spirit in a coonskin cap, she wrote to protest. Hal Adelquist, Story Department Manager and a key lieutenant to Walt, replied personally that the studio had researched the real Chapman extensively: "We trust that after you have viewed the picture you will agree that we have treated the angel with sincere respect and endowed him with a certain dignity."⁷
 
-The phrase "researched the real life character extensively" is the pivot point. It is impossible to research John Chapman extensively without encountering his defining characteristic: his zeal for the New Church. Chapman did not merely plant trees; he planted Swedenborgian societies across the frontier. He tore pages from *Heaven and Hell* and *True Christian Religion* to leave with settlers.
+That assurance of extensive research is the pivot point. It is impossible to research John Chapman extensively without encountering his defining characteristic: his zeal for the New Church. Chapman did not merely plant trees; he planted Swedenborgian societies across the frontier. He tore pages from *Heaven and Hell* and *True Christian Religion* to leave with settlers.
 
 The film's solution—encoding Chapman's theology while avoiding explicit sectarian content—demonstrates sophisticated theological translation. The theme song's "Blessings Three" (Love, Faith, and the Apple Tree) preserves the Swedenborgian structure of salvation (Charity, Faith, and Use) in a form accessible to mass audiences.⁸ Murdoch herself recognized the code, praising the film's preservation of Chapman's essential theology.
 
@@ -452,15 +452,15 @@ For an animator trained in Action Analysis, this creates a technical deadlock. T
 
 The "Mind is the Pilot" pedagogy requires that inner force drive outer form. In *Don Quixote*, the outer form actively refuses to be driven by the inner force. The landscape is **intractable**. This resistance makes the "animate landscape" impossible.
 
-The most revealing rejection occurred in the late 1990s. Paul and Gaëtan Brizzi produced "elaborate and immense storyboards" that "took the breath away of even the most jaded animators."² Executive Tom Schneider killed the project, citing precisely the structural issues: "episodic nature," difficulty creating "coherent dramatic narrative," and the team's "intense, dark, very adult" treatment that "frightened some of the suits."
+The most revealing rejection occurred in the late 1990s. Paul and Gaëtan Brizzi produced "elaborate and immense storyboards" that "took the breath away of even the most jaded animators."² Studio management killed the project, citing precisely the structural issues: "episodic nature," difficulty creating "coherent dramatic narrative," and the team's "intense, dark, very adult" treatment that "frightened some of the suits."
 
 ### 7.2 *Chanticleer* and the Delusional Self
 
-The abandoned project *Chanticleer*, based on Edmond Rostand's 1910 play, serves as a crucial test case. It features anthropomorphic animals—Disney's bread and butter—yet was rejected across three distinct eras (1930s, 1960s, 1980s).³
+The abandoned project *Chanticleer*, based on Edmond Rostand's 1910 play, serves as a crucial test case. It features anthropomorphic animals—Disney's bread and butter—yet was rejected across three distinct eras (1937–1941, 1960, 1981).³
 
-The story concerns a rooster who sincerely believes his crowing causes the sun to rise. It is a sophisticated satire of the artist's ego and the nature of belief. Walt Disney purchased the rights after *Snow White*'s success, but story men Ted Sears and Al Perkins returned with a grim prognosis: the material was "too highbrow" and they could not make the rooster a "sympathetic character." His vanity blocked audience connection.⁴
+The story concerns a rooster who sincerely believes his crowing causes the sun to rise. It is a sophisticated satire of the artist's ego and the nature of belief. Walt Disney considered it from 1937 and bought the rights in 1941, though story men Ted Sears and Al Perkins had questioned the purchase: the play was little known in America, the story would need extensive reworking, and Perkins condemned it as "highbrow."⁴
 
-The most significant attempt occurred in the early 1960s. Marc Davis and Ken Anderson—two of the Nine Old Men fresh from *101 Dalmatians*—spent months developing a new version, combining the Chanticleer story with Reynard the Fox folktales for conflict. They produced extensive concept art and pitched it as a "Broadway style musical."⁵ Walt's rejection was decisive: "You can't make a personality out of a chicken."⁶
+The most significant attempt occurred in the early 1960s. Marc Davis, one of the Nine Old Men, and Ken Anderson, both fresh from *101 Dalmatians*, spent a year developing a new version, combining the Chanticleer story with Reynard the Fox folktales for conflict. They produced extensive concept art and conceived it in the style of a big Broadway musical.⁵ Walt's own recorded objection was to the hero: "[you] don't feel like picking a rooster up and petting it." At the final presentation somebody in the room said, "You can't make a personality out of a chicken," and the business people walked out.⁶
 
 The pneumatological diagnosis is precise: *Chanticleer* fails because the protagonist embodies what Swedenborg called the **Self**—the false belief that life, intelligence, and power originate from oneself rather than flowing in from the Divine.⁷ Chanticleer believes *he* causes the sun to rise; he believes he is Cause and the universe is Effect.
 
@@ -509,9 +509,9 @@ The preceding sections have traced how the Disney environment accumulated Sweden
 
 The distinction between Core and Periphery was established by Walt Disney himself. Analysis of his involvement in productions during the 1950s and 1960s reveals a stark hierarchy of personal investment, exemplified by the contrast between *Sleeping Beauty* and *101 Dalmatians*.
 
-*Sleeping Beauty* (1959) was conceived as the studio's magnum opus—the ultimate expression of the animated fairy tale. Walt's involvement was obsessive. He personally championed the "moving illustration" aesthetic of Eyvind Earle, a style that was labor-intensive and expensive.¹ The film was in production for nearly a decade and cost $6 million—twice the budget of previous features.² Walt threw out entire sequences to improve the central romance, ensuring the narrative adhered to the high romantic ideal. The conflict is cosmic: Hell (Maleficent) versus Heaven (the Sword of Truth); the landscape is a moral agent. This was cathedral-building.
+*Sleeping Beauty* (1959) was conceived as the studio's magnum opus—the ultimate expression of the animated fairy tale. Its look was set by Eyvind Earle's lush, stylized widescreen backgrounds, a style so labor-intensive that it drove up the film's cost.¹ Planned for 1955 and released in January 1959, it cost $6 million—twice as much as the studio's three preceding features.² Walt held it to the standard of a painting in every frame, ensuring the narrative adhered to the high romantic ideal. The conflict is cosmic: Hell (Maleficent) versus Heaven (the Sword of Truth); the landscape is a moral agent. This was cathedral-building.
 
-When *Sleeping Beauty* underperformed financially, the studio pivoted to the Xerox process for *101 Dalmatians* (1961)—contemporary, secular (no magic, just a villainess with a car), and visually "sketchy." Walt *hated* the result. He told art director Ken Anderson that he had "sabotaged" the studio's style and that the "Disney magic" was gone.³ While *Dalmatians* was a financial savior, Walt viewed it as a compromise—commercial product necessary to pay the bills, not a representation of the studio's soul. He distanced himself from animation production in the 1960s, focusing on WED Enterprises (Imagineering), arguably because the animation department had drifted from the "High Church" style he valued.
+When *Sleeping Beauty* underperformed financially, the studio pivoted to the Xerox process for *101 Dalmatians* (1961)—contemporary, secular (no magic, just a villainess with a car), and visually "sketchy." Walt *hated* the result. Ken Anderson, who had shaped the film's look, remembered: "Walt hated the way I had done the film. Just hated it […] He took me off direction."³ While *Dalmatians* was a financial savior, Walt viewed it as a compromise—commercial product necessary to pay the bills, not a representation of the studio's soul. He distanced himself from animation production in the 1960s, focusing on WED Enterprises (Imagineering), arguably because the animation department had drifted from the "High Church" style he valued.
 
 This behavioral evidence establishes that Walt understood the distinction between Core and Periphery. He poured himself into the fairy tales; he delegated the comedies.
 
@@ -533,7 +533,7 @@ The visual branding of the Walt Disney Company maps this hierarchy. In 1985, the
 
 The symbol choice is significant. The company does not use Mickey Mouse, a filmstrip, or a pen as its theatrical logo. It uses the Castle—the residence of the Monarch, the site of the "High Church" narratives. This explicitly centers the fairy tale canon as the brand's identity.
 
-The theme parks reinforce this alignment. The central icon of every "Magic Kingdom" style park is a Fairy Tale Castle (*Cinderella* or *Sleeping Beauty*). There is no "101 Dalmatians Manor" or "Robin Hood's Tree" at the hub. The geographical centralization reflects the conceptual centralization: the fairy tales are the *axis mundi* of the Disney universe.
+The theme parks reinforce this alignment. The central icon of every "Magic Kingdom" style park is a Fairy Tale Castle. There is no "101 Dalmatians Manor" or "Robin Hood's Tree" at the hub. The geographical centralization reflects the conceptual centralization: the fairy tales are the *axis mundi* of the Disney universe.
 
 ### 8.4 *Wish* as Inverted Influx
 
@@ -545,9 +545,9 @@ By making the divine spark intrinsic to the biological self, the film collapses 
 
 ### 8.5 *Snow White* (2025) as Restoration
 
-The production of the live-action *Snow White* (2025) demonstrates the studio's capacity for self-correction. Initially, the production appeared poised to follow the *Wish* trajectory. Lead actress Rachel Zegler criticized the 1937 original, stating the new Snow White would not be "saved by the prince" or "dream about true love" but would be a "leader."¹⁰ This signaled movement toward the horizontal/secular/political.
+The production of the live-action *Snow White* (2025) demonstrates the studio's capacity for self-correction. Initially, the production appeared poised to follow the *Wish* trajectory. Lead actress Rachel Zegler criticized the 1937 original for its "big focus on her love story with a guy who literally stalks her," and said her Snow White would "be dreaming about becoming the leader she knows she can be."¹⁰ This signaled movement toward the horizontal/secular/political.
 
-Following the *Wish* failure, significant reshoots occurred.¹¹ Reports indicate a return to the 1937 framework: the Seven Dwarfs were reinstated as CGI characters, and the narrative arc was retooled to be less about "girlboss" leadership and more about preparation for a destiny—aligning with the Swedenborgian concept of Use rather than mere Power.¹²
+Following the *Wish* failure, significant reshoots occurred.¹¹ The production returned toward the 1937 framework: the Seven Dwarfs were reinstated as CGI characters, and Snow White's "Waiting on a Wish" frames her leadership as a desire for Use—aligning with the Swedenborgian concept of Use rather than mere Power.¹²
 
 This transition suggests that studio leadership recognized that you cannot secularize the Core without destroying it. The magic lies precisely in the vertical structure—the character reaching upward for help that descends from beyond the self.
 
@@ -555,7 +555,7 @@ This transition suggests that studio leadership recognized that you cannot secul
 
 The persistence of the Core is embedded in the studio's training infrastructure. The "Action Analysis" method, passed from Don Graham to the Nine Old Men to Walt Stanchfield to Glen Keane, maintained the capability to produce correspondential animation even during Dark Ages.¹³
 
-The application differed between Canon tiers. In secular films (*Aristocats*, *Robin Hood*), Action Analysis was used for *character acting*—making Prince John suck his thumb. It was psychological and behavioral. In fairy tales (*Beauty and the Beast*, *The Little Mermaid*), Action Analysis was applied to the *soul*. Glen Keane speaks of "drawing the soul of the Beast."¹⁴
+The application differed between Canon tiers. In secular films (*Aristocats*, *Robin Hood*), Action Analysis was used for *character acting*—making Prince John suck his thumb. It was psychological and behavioral. In fairy tales (*Beauty and the Beast*, *The Little Mermaid*), Action Analysis was applied to the *soul*. Glen Keane speaks of the Beast as a being who existed before he was drawn: "I have a strange belief that characters exist before I design them … I recognized him as if I'd always known him."¹⁴
 
 A secular Disney film animates *behavior*. A fairy tale Disney film animates *being*.
 
@@ -575,7 +575,7 @@ The evidence supports the following conclusions:
 
 2. **The American metaphysical milieu provided cultural saturation.** The Burned-Over District legacy, Theosophy, New Thought, and diffuse Swedenborgian influence had permeated American culture to the point where correspondential thinking was ambient rather than sectarian. Artists need not have read Swedenborg to think in Swedenborgian patterns; the culture supplied those patterns.
 
-3. **Action Analysis translated metaphysics into technique.** Don Graham's pedagogy—"draw the force, not the form"—operationalized Influx doctrine as animation method. This created a training filter that selected for correspondential capacity regardless of theological awareness.
+3. **Action Analysis translated metaphysics into technique.** Don Graham's pedagogy—"the artist is not drawing a form at all, but indicating a force"—operationalized Influx doctrine as animation method. This created a training filter that selected for correspondential capacity regardless of theological awareness.
 
 4. **Literary source material was pre-selected for compatibility.** The fairy tales of Grimm, Andersen, and Carroll—Disney's canonical sources—carried documented Swedenborgian transmission through Schelling, Ørsted, and MacDonald/Maurice. The studio gravitated toward this material because it was structurally compatible with the evolved animation method.
 
@@ -603,7 +603,7 @@ These mechanisms explain how Swedenborgian-compatible personnel concentrated at 
 
 Close analysis of *Snow White and the Seven Dwarfs* (1937) reveals systematic departures from the Grimm source that align precisely with Swedenborgian eschatology. These changes are not artistic license—they are theological revision:
 
-- **Destination**: Grimm's Snow White is carried to a "neighboring kingdom." Disney's Snow White ascends to a "golden castle in the clouds." This is the difference between horizontal restoration (earthly) and vertical transformation (celestial).
+- **Destination**: Grimm's Snow White is taken to the prince's father's castle. Disney's Snow White ascends to a "golden castle in the clouds." This is the difference between horizontal restoration (earthly) and vertical transformation (celestial).
 
 - **Awakening**: In Grimm, the coffin is dislodged by stumbling servants; the poisoned apple piece falls from Snow White's throat mechanically. Disney replaced this with the Prince's kiss—Truth awakening the soul through love.
 
@@ -623,7 +623,7 @@ Organic selection explains how Swedenborgian-compatible personnel concentrated a
 
 The cumulative evidence cannot be explained by organic selection alone:
 
-1. **The Johnny Appleseed correspondence**: Hal Adelquist's statement that the studio "researched the real life character extensively" is a smoking gun. You cannot extensively research John Chapman without learning he was a Swedenborgian missionary who distributed *Heaven and Hell* across the frontier. **They knew.**
+1. **The Johnny Appleseed correspondence**: Hal Adelquist's statement that the studio had researched the real Chapman extensively is a smoking gun. You cannot extensively research John Chapman without learning he was a Swedenborgian missionary who distributed *Heaven and Hell* across the frontier. **They knew.**
 
 2. **The precision of the encoding**: The angel depicted as a deceased human pioneer—not a winged seraph—precisely matches Swedenborgian pneumatology. The "Blessings Three" preserve the Swedenborgian structure of salvation (Love/Faith/Use). This is too precise for accident.
 
@@ -697,7 +697,7 @@ The "Disney Magic"—the quality that distinguishes Disney animation from mere c
 
 *Snow White and the Seven Dwarfs* (1937) demonstrates theological precision that cannot be explained by ambient cultural influence:
 
-- The destination was changed from Grimm's "neighboring kingdom" to a "golden castle in the clouds"—horizontal restoration became celestial ascent
+- The destination was changed from the castle of the prince's father in Grimm to a "golden castle in the clouds"—horizontal restoration became celestial ascent
 - The awakening was changed from mechanical coffin-dislodging to the Prince's kiss—Truth awakening the soul through love
 - The Queen's death was changed from external punishment (red-hot iron shoes) to self-destruction (falling from a cliff)—evil perishing by its own nature, not requiring divine vengeance
 - An explicit farewell scene was added—Snow White kissing each dwarf goodbye before ascending—marking the soul's departure from the natural plane

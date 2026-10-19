@@ -37,7 +37,7 @@ The question sounds simple. It has been asked billions of times across two mille
 
 This portrait is a construction. Not a lie — a *construction*, assembled from multiple editorial layers added over decades of transmission, each serving the theological needs of its community. The virgin birth comes from Matthew and Luke's infancy narratives (absent from Mark, absent from John's prologue, absent from Paul). The "I am" declarations come from the Gospel of John, written sixty to seventy years after the events. The physical resurrection body — flesh, bones, broiled fish — comes from the latest editorial layer of Luke, identified by Westcott and Hort as "Western Non-Interpolations" (passages absent from the earliest manuscript tradition). The ascension into the sky appears only in the longer ending of Luke, absent from the Western text.
 
-Strip these layers away and a different figure appears. Not smaller — *stranger*. More demanding. Less comfortable. A man who refused the title "good" ("Why do you call me good? No one is good except God alone"), who demanded literal economic liquidation ("Sell all that you have and distribute to the poor"), who redefined kinship by action rather than blood ("My mother and my brothers are those who hear the word of God and do it"), and who faced death with the expectation not of bodily return but of immediate spiritual transition ("Today you will be with me in Paradise"; "Father, into your hands I commend my spirit").
+Strip these layers away and a different figure appears. Not smaller — *stranger*. More demanding. Less comfortable. A man who refused the title "good" ("Why do you call me good? No one is good except one, God the Father"), who demanded literal economic liquidation ("Sell all that you have and give to the poor"), who redefined kinship by action rather than blood ("My mother and my brothers are those who hear the word of God and do it"), and who faced death with the expectation not of bodily return but of immediate spiritual transition ("Today you will be with me in Paradise"; "Father, into your hands I commend my spirit").
 
 This figure is preserved in the Proto-Luke reconstruction — the Jamesian Protograph underlying the canonical Gospel of Luke, recovered through the textual-critical work of Matthias Klinghardt, Jason BeDuhn, and Markus Vinzent. The reconstruction is not speculative. It is triangulated by three independent witnesses: Tertullian's polemical quotations (which inadvertently preserve shorter readings while arguing against them), Epiphanius's heresiological citations, and the Western manuscript tradition (Codex Bezae and allied witnesses) which consistently preserves shorter, more primitive readings.
 
@@ -57,7 +57,7 @@ The reliability of Proto-Luke rests not on a single argument but on three conver
 
 The standard model of Gospel transmission runs: historical event → oral tradition → written sources → canonical Gospel → manuscript copies → modern critical text. Each stage introduces editorial intervention, theological shaping, and potential distortion. The canonical Gospels sit at least three to four stages removed from the events they describe, and the earliest complete manuscripts (Codex Vaticanus, Codex Sinaiticus) date to the mid-fourth century — over three hundred years after Jesus.
 
-Proto-Luke shortens this chain. The Jamesian Protograph represents the written crystallization of the Jerusalem community's tradition — the community led by James the Just, Jesus's brother, who was a direct witness and whose authority is acknowledged even by Paul (Galatians 2:9). This tradition was transmitted within a community that had *living continuity* with the events. The Protograph was composed before the destruction of Jerusalem in 70 CE — a dating confirmed by the preservation of the Abomination of Desolation language (rather than Luke's "surrounded by armies," which is a *vaticinium ex eventu*, a "prophecy" written after the event).
+Proto-Luke shortens this chain. The Jamesian Protograph represents the written crystallization of the Jerusalem community's tradition — the community led by James the Just, Jesus's brother, who was a direct witness and whose authority is acknowledged even by Paul (Galatians 2:9). This tradition was transmitted within a community that had *living continuity* with the events. The Protograph was composed, on this reconstruction, before the destruction of Jerusalem in 70 CE. Luke 21:20 cannot confirm the date: the Marcionite text already reads "surrounded by armies" (Tertullian, *Marc.* 4.39.9), not the Danielic "abomination of desolation." What it lacks is the lament over the city with its siege works (19:41–44; Epiphanius, *Pan.* 42.11.6, sch. 53) and the command to flee Judea (21:21–22; sch. 59).
 
 Marcion's *Evangelion*, published around 140 CE, preserves this Protograph. Canonical Luke represents a later expansion of the same base text. The transmission chain for Proto-Luke therefore runs: historical event → Jerusalem community oral tradition → Jamesian Protograph (pre-70 CE) → Marcion's reception (~140 CE). For canonical Luke, it runs: Jamesian Protograph → Lukan redaction (post-70 CE, incorporating Mark and additional material) → Orthodox expansion (anti-Marcionite additions) → manuscript tradition. Every additional stage is an opportunity for theological reshaping. Proto-Luke has fewer stages.
 
@@ -67,17 +67,17 @@ Proto-Luke is not reconstructed from a single source. Three independent witnesse
 
 **Tertullian** (*Adversus Marcionem*, c. 207 CE). Writing to refute Marcion, Tertullian quotes extensively from Marcion's Gospel, often preserving readings that differ from canonical Luke. Crucially, Tertullian is a *hostile* witness — he has every reason to misrepresent Marcion's text in ways that make it easier to refute. Yet the readings he attributes to Marcion consistently show the shorter, more primitive form. A hostile witness inadvertently confirming the antiquity of the text he's attacking is among the strongest forms of textual evidence available.
 
-**Epiphanius** (*Panarion*, c. 375 CE). Writing his catalogue of heresies, Epiphanius independently cites Marcion's Gospel, preserving additional readings. His citations align with Tertullian's where they overlap, confirming that both are working from the same textual tradition. Key readings — such as "destroying the law and the prophets" as the charge against Jesus at trial, and variant wordings in the Eucharistic formula — are attested by both witnesses independently.
+**Epiphanius** (*Panarion*, c. 375 CE). Writing his catalogue of heresies, Epiphanius independently cites Marcion's Gospel, preserving additional readings. His citations align with Tertullian's where they overlap, confirming that both are working from the same textual tradition. Key readings — such as "destroying the law and the prophets" as the charge against Jesus at trial — are attested in more than one place (Epiphanius gives it in two scholia, *Pan.* 42.11.6, sch. 69–70).
 
-**The Western Manuscript Tradition.** Codex Bezae (D) and allied manuscripts (Old Latin, Old Syriac) consistently preserve shorter readings of Luke that align with what Tertullian and Epiphanius attribute to Marcion. The Western Non-Interpolations identified by Westcott and Hort — passages present in the Alexandrian tradition but absent from the Western — cluster precisely in the sections where theological motivation for expansion is strongest: the resurrection narratives, the Last Supper, the ascension. The Western text preserves an earlier layer that the Alexandrian text expanded.
+**The Western Manuscript Tradition.** Codex Bezae (D) and allied manuscripts (Old Latin, Old Syriac) preserve shorter readings of Luke, some of which align with what Tertullian and Epiphanius attribute to Marcion ("remember all that he told you," 24:6). The Western Non-Interpolations identified by Westcott and Hort — passages present in the Alexandrian tradition but absent from the Western — cluster precisely in the sections where theological motivation for expansion is strongest: the resurrection narratives, the Last Supper, the ascension. The Marcionite text does not follow them throughout: it has the covenant cup of 22:20 (Tertullian, *Marc.* 4.40.4) and "He has been raised" at 24:6 (Epiphanius, sch. 76), both of which the Western text omits.
 
-Three independent witnesses — one polemical, one heresiological, one manuscript-based — converge on the same shorter text. This is not hypothesis. This is triangulation.
+Three independent witnesses — one polemical, one heresiological, one manuscript-based — converge on a shorter text, and where the manuscript witness diverges from the other two, the patristic witnesses decide what the Marcionite text read. This is not hypothesis. This is triangulation.
 
 ### 2.3 The Direction of Redaction Is One-Way
 
 The decisive argument is directional. When we compare Proto-Luke to canonical Luke, the additions *always* go in one direction: from shorter to longer, from more radical to more moderate, from Jamesian to proto-Orthodox.
 
-No one can demonstrate a plausible scenario in which a redactor took canonical Luke and *removed* the infancy narratives, the genealogy, the physical resurrection appearances, the Emmaus road narrative, the ascension — and then produced a text that happens to align with the Western manuscript tradition and the independent citations of two patristic authors centuries apart. The removal hypothesis requires a single editor (Marcion) to have independently arrived at the exact same text that three witnesses confirm from different angles. The expansion hypothesis requires only what we know happened: successive communities adding material that served their theological needs.
+No one can demonstrate a plausible scenario in which a redactor took canonical Luke and *removed* the infancy narratives, the genealogy, the baptism and the temptation, the touching and the "flesh" of the resurrection appearance — and then produced a text that happens to align with the Western manuscript tradition and the independent citations of two patristic authors centuries apart. The removal hypothesis requires a single editor (Marcion) to have independently arrived at the exact same text that three witnesses confirm from different angles. The expansion hypothesis requires only what we know happened: successive communities adding material that served their theological needs.
 
 | Feature | Proto-Luke | Canonical Luke | Direction |
 |---------|------------|----------------|-----------|
@@ -85,15 +85,15 @@ No one can demonstrate a plausible scenario in which a redactor took canonical L
 | Genealogy | Absent | Present (Lk 3:23-38) | Addition |
 | Baptism narrative | Absent | Present (Lk 3:21-22) | Addition |
 | Temptation narrative | Absent | Present (Lk 4:1-13) | Addition |
-| "Surrounded by armies" (21:20) | "Abomination of Desolation" | Post-70 rewrite | Theological update |
-| Last Supper formula (22:19b-20) | Short text (communal meal) | Long text (Pauline atonement) | Theological expansion |
-| Bloody sweat (22:43-44) | Absent | Present | Addition (anti-Docetic) |
-| Peter runs to tomb (24:12) | Absent | Present | Addition (Petrine authority) |
-| Flesh and bones (24:39-40) | Absent | Present | Addition (anti-Docetic) |
-| Fish eating (24:42-43) | Absent | Present | Addition (anti-Docetic) |
-| Bodily ascension (24:51b) | "He parted from them" | "Was carried up into heaven" | Addition (physicalist) |
+| Flight to the mountains (21:21-22) | Absent | Present | Addition (fulfilment of scripture) |
+| Last Supper formula (22:20) | Cup and covenant "sealed with his blood" (Tertullian) | "Poured out for you" added | Theological expansion |
+| Bloody sweat (22:43-44) | Not cited for this text | Present | Addition (anti-Docetic) |
+| Peter runs to tomb (24:12) | Not cited (probably absent) | Present | Addition (Petrine authority) |
+| Flesh and bones (24:39) | "A spirit does not have bones"; no "touch me" | "Touch me"; "flesh and bones" | Addition (anti-Docetic) |
+| Fish eating (24:41-43) | Request for food attested; eating not cited | Present | Undetermined |
+| Bodily ascension (24:51b) | Not cited (no witness after 24:47) | "Was carried up into heaven" | Western omission (physicalist) |
 
-Every single difference moves in the same direction: from sparse to elaborate, from communal to sacramental, from spiritual to physical, from Jamesian to proto-Orthodox. This is the fingerprint of editorial expansion, not editorial reduction.
+Every difference the witnesses attest moves in the same direction: from sparse to elaborate, from communal to sacramental, from spiritual to physical, from Jamesian to proto-Orthodox. This is the fingerprint of editorial expansion, not editorial reduction.
 
 ---
 
@@ -105,17 +105,17 @@ Ask anyone — scholar, pastor, layperson, AI — "who was Jesus?" and observe w
 
 "He said 'I am the way, the truth, and the life.'" That's the Gospel of John, written sixty to seventy years after the events, in a radically different literary and theological register from the Synoptics. The Johannine Jesus speaks in extended philosophical discourses that bear no resemblance to the terse, parabolic, confrontational speech of the Synoptic Jesus. No serious scholar attributes these speeches to the historical figure.
 
-"He died for our sins." That's Pauline atonement theology, developed by someone who never met Jesus during his lifetime and who explicitly claims his gospel came "not from any human being" but through private revelation (Galatians 1:11-12). The atonement framework was imported into the Last Supper via the longer liturgical formula (Luke 22:19b-20), absent from the Western Short Text — which preserves the primitive communal meal without sacrificial interpretation.
+"He died for our sins." That's Pauline atonement theology, developed by someone who never met Jesus during his lifetime and who explicitly claims his gospel came "not from any human being" but through private revelation (Galatians 1:11-12). The atonement framework is carried into the Last Supper by the longer liturgical formula (Luke 22:19b-20), which the Western Short Text omits. The Marcionite text already had the cup and the covenant "sealed with his blood" (Tertullian, *Marc.* 4.40.4); its sacrificial clause, "poured out for you," is cited by no witness to that text.
 
-"He rose physically from the dead and appeared to the disciples." The physical resurrection appearances in Luke 24 — the flesh-and-bones declaration, the fish eating, the bodily ascension — are precisely the passages identified as Western Non-Interpolations. They are absent from the earliest manuscript stratum. They were added to combat Docetism (the claim that Jesus's body was an apparition). They are anti-heretical polemic inserted into the text, not primitive testimony.
+"He rose physically from the dead and appeared to the disciples." The physical resurrection appearances in Luke 24 — the flesh-and-bones declaration, the fish eating, the bodily ascension — are where the canonical text is most visibly expanded. The Marcionite text had the appearance without "touch me and see" and without "flesh" ("a spirit does not have bones as you see me having," Tertullian, *Marc.* 4.43.6; Epiphanius, sch. 78); the showing of the hands and feet (24:40) and the bodily ascension (24:51b) are Western Non-Interpolations. The touching and the flesh were added to combat Docetism (the claim that Jesus's body was an apparition). They are anti-heretical polemic inserted into the text, not primitive testimony.
 
 ### The Portrait Beneath the Additions
 
 Strip away the additions and what remains is not less. It is more demanding:
 
-**On identity.** "Why do you call me good? No one is good except God alone" (Luke 18:19). He refuses the attribution of goodness to himself. Not rhetorically. The statement is so uncomfortable that it qualifies as a criterion of embarrassment — no later Christian community would invent it.
+**On identity.** "Why do you call me good? No one is good except one, God the Father" (Luke 18:19). He refuses the attribution of goodness to himself. Not rhetorically. The statement is so uncomfortable that it qualifies as a criterion of embarrassment — no later Christian community would invent it.
 
-**On economics.** "Sell all that you have and distribute to the poor, and you will have treasure in the heavens" (Luke 18:22). Not a spiritual metaphor. Not "be generous." Literal liquidation. The Lazarus parable (Luke 16:19-31) is an Ebionite economic manifesto: the rich man is tormented not for specific sins but for *being rich while Lazarus was poor*. The reversal is automatic. This is not mainstream Christianity's Jesus. This is the Jesus of radical economic leveling.
+**On economics.** "Sell all that you have and give to the poor, and you will have treasure in heaven" (Luke 18:22). Not a spiritual metaphor. Not "be generous." Literal liquidation. The Lazarus parable (Luke 16:19-31) is an Ebionite economic manifesto: the rich man is tormented not for specific sins but for *being rich while Lazarus was poor*. The reversal is automatic. This is not mainstream Christianity's Jesus. This is the Jesus of radical economic leveling.
 
 **On family.** "My mother and my brothers are those who hear the word of God and do it" (Luke 8:21). Kinship redefined by action, not biology. This directly undermines the Davidic genealogies, which anchor Jesus's significance in *who he descended from*. Proto-Luke doesn't care about descent. It cares about doing.
 
@@ -178,7 +178,7 @@ Canonical Luke-Acts represents the Orthodox resolution — a literary project de
 **In the Gospel**, Luke takes Proto-Luke as the base and wraps it in harmonizing additions:
 - The infancy narrative (Luke 1-2) gives Jesus both Davidic ancestry *and* divine conception — satisfying both Jamesian lineage claims and proto-Orthodox theology.
 - The genealogy (Luke 3:23-38) traces Jesus to Adam (universalizing) rather than to Abraham (Matthean/Jewish).
-- The physical resurrection appearances (Luke 24:36-43) combat Docetism — an anti-heretical insertion.
+- The touching and the "flesh" of the resurrection appearance (Luke 24:39) combat Docetism — an anti-heretical insertion.
 - The bodily ascension (Luke 24:51b) creates a definitive end to Jesus's earthly presence, necessitating the institutional church to carry forward.
 
 **In Acts**, Luke subdues Paul. The wild apostle of Galatians — who opposed Peter "to his face," who claimed independent revelation, who boasted of his sufferings — becomes a cooperative team player in Acts. Paul goes to Jerusalem for approval. Paul agrees to circumcision. Paul is a good Roman citizen who appeals to Caesar. The historical Paul of the letters and the domesticated Paul of Acts are barely recognizable as the same person. This is Luke's project: make Paul safe for the institutional church.
@@ -216,7 +216,7 @@ This is the strongest forensic argument against the mutilation hypothesis. If Ma
 - **"The Law and the Prophets were until John"** — this acknowledges the dispensation of the Law. Marcion taught the Law was the Demiurge's instrument.
 - **The Temple cleansing** — Jesus engaging with the Jewish Temple as something worth purifying, not abandoning.
 - **"My words shall not pass away"** — language echoing the prophetic tradition Marcion rejected.
-- **The economic radicalism** — "sell all that you have and distribute to the poor" is rooted in Hebrew prophetic justice, not Marcionite anti-cosmism.
+- **The economic radicalism** — "sell all that you have and give to the poor" is rooted in Hebrew prophetic justice, not Marcionite anti-cosmism.
 
 A Marcionite composition would not look like this. It would be cleaner, more consistent with its own premises. What we see is a man who received a text and *kept it* — even where it made his own theology harder to maintain.
 
@@ -311,8 +311,8 @@ The Gnostic version is cosmic. The Pauline version is juridical. The mechanism i
 
 Against both strategies, the Proto-Luke Jesus is unsparing:
 
-- "Why do you call me good? No one is good except God alone." — *Don't externalize goodness onto me.*
-- "Sell all that you have and distribute to the poor." — *You do the work.*
+- "Why do you call me good? No one is good except one, God the Father." — *Don't externalize goodness onto me.*
+- "Sell all that you have and give to the poor." — *You do the work.*
 - "The kingdom of God is within you." — *The problem and the solution are inside.*
 - "Why do you not judge for yourselves what is right?" — *You have the capacity. Use it.*
 - "Not everyone who says Lord, Lord..." — *Passive faith is not enough.*
@@ -623,7 +623,7 @@ When you read Proto-Luke's radical economic demands against this background, the
 
 | Proto-Luke Teaching | Without Context | With Context |
 |---|---|---|
-| "Sell all that you have and distribute to the poor" | Extreme asceticism; cult demand | Stop holding wealth gained through a system of organized theft; return it to the people it was taken from |
+| "Sell all that you have and give to the poor" | Extreme asceticism; cult demand | Stop holding wealth gained through a system of organized theft; return it to the people it was taken from |
 | "Blessed are the poor" | Mystical glorification of poverty | The dispossessed peasantry — people who never had the option of accumulation — are closer to the right orientation than the collaborators who stole their land |
 | Debt parables (creditor forgiving debts) | Abstract moral teaching | The literal lived reality of foreclosure and debt slavery; the radical proposal that the *creditor* — not the debtor — must change |
 | Tax collector ministry (dining with Levi) | Shocking moral laxity | Engaging directly with the agents of the extraction system and demanding their transformation |
@@ -845,7 +845,7 @@ What emerges is not a diminished Jesus. It is a more coherent one.
 
 The Proto-Luke reconstruction, triangulated against Marcionite witnesses and Western manuscript traditions, recovers a figure who:
 
-- **Refuses divine titles**: "Why do you call me good? No one is good except God alone" — not modesty but precision. The mechanism works through him, not from him.
+- **Refuses divine titles**: "Why do you call me good? No one is good except one, God the Father" — not modesty but precision. The mechanism works through him, not from him.
 - **Teaches interior access**: "The kingdom of God is within you" — not approaching, not mediated, not exclusive. Present.
 - **Demonstrates a system**: Healings that follow the pattern of influx → faith → action in ultimates → completion. A pattern confirmed by spontaneous remission data two thousand years later.
 - **Operates within expanded physics**: Not violating natural law but operating at a level of reality that materialist frameworks cannot yet map — the same level that NDE data, past-life memory cases, and radical remission statistics point toward.

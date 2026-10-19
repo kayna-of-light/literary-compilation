@@ -68,7 +68,7 @@ On December 23, 1935, Walt Disney sent an eight-page memo to Don Graham, the art
 
 Walt realized that to sustain a feature-length film (*Snow White*), his characters needed to appear to have souls. They needed to be self-motivated. In the memo, Walt dismantled the old style and demanded a new approach:
 
-"The driving force behind the action is the mood, the personality, the attitude of the character – or all three. Therefore the mind is the pilot. We think of things before the body does them." 9
+"The driving force behind the action is the mood, the personality, the attitude of the character—or all three. Therefore, the mind is the pilot. We think of things before the body does them." 9
 
 ### **3.2 The Socratic Origin vs. The Swedenborgian Application**
 
@@ -88,7 +88,7 @@ When Walt commanded his animators to realize that "the mind is the pilot," he wa
 
 The transmission of this concept was mediated by **Don Graham**. Graham, a central figure in the Chouinard Art Institute, was deeply embedded in the California art world of the 1930s, which was rife with Theosophical and Swedenborgian influences (via the "Thought-Form" theories of Besant and Leadbeater, and the abstract spiritualism of Kandinsky).15
 
-Graham’s "Action Analysis" classes, which Walt personally mandated, taught animators to "draw the force, not the form." This pedagogy is pure Swedenborgian correspondence: the physical form is merely the container for the spiritual force. By institutionalizing this "Mind is the Pilot" philosophy, Walt Disney effectively made the Disney Studio a seminary for Swedenborgian metaphysics, disguised as an art school. He did not just want better drawings; he wanted drawings that obeyed the laws of spiritual influx.
+Graham’s "Action Analysis" classes, which Walt personally mandated, taught animators that "the artist is not drawing a form at all, but indicating a force." This pedagogy is pure Swedenborgian correspondence: the physical form is merely the container for the spiritual force. By institutionalizing this "Mind is the Pilot" philosophy, Walt Disney effectively made the Disney Studio a seminary for Swedenborgian metaphysics, disguised as an art school. He did not just want better drawings; he wanted drawings that obeyed the laws of spiritual influx.
 
 ## ---
 
@@ -105,7 +105,9 @@ The definitive proof regarding the studio's awareness of Swedenborgianism lies i
 
 In 1948, prior to the film's release, Murdoch wrote to Walt Disney protesting the depiction of Johnny’s angel (specifically the coonskin cap), fearing it degraded Chapman’s spiritual dignity. Adelquist responded on behalf of the studio. His letter contained a critical admission:
 
-"We trust that after you have viewed the picture you will agree that we have treated the angel with sincere respect... \[we\] researched the real life character extensively." 7
+"We trust that after you have viewed the picture you will agree that we have treated the angel with sincere respect and endowed him with a certain dignity." 7
+
+The studio, he wrote, had researched the real Chapman extensively.
 
 **Insight:** It is impossible to research John Chapman "extensively" without encountering his defining characteristic: his missionary work for the Church of the New Jerusalem (Swedenborgianism). Chapman was not just a tree planter; he was a colporteur who distributed Swedenborg’s books (*Heaven and Hell*, *True Christian Religion*) across the frontier, tearing them into chapters to share with settlers. By admitting to extensive research, Adelquist confirmed that the studio **knew** Chapman was a Swedenborgian missionary. This was not a case of ignorance; it was a case of management.
 
@@ -121,7 +123,7 @@ This lyric is a precise distillation of the **Swedenborgian Trinity of Essential
 2. **Faith (Truth/Understanding):** The intellectual form.  
 3. **The Apple Tree (Works/Use):** The natural manifestation.
 
-Swedenborg explicitly teaches that "Charity and Faith make one in Good Works." By selecting "Love, Faith, and the Apple Tree," the Disney songwriters (Walter Kent and Kim Gannon) preserved the *structure* of Swedenborgian soteriology while stripping away the sectarian label.7
+Swedenborg teaches that "charity and faith make one as good and truth do" (*Divine Providence* §82). By selecting "Love, Faith, and the Apple Tree," the Disney songwriters (Walter Kent and Kim Gannon) preserved the *structure* of Swedenborgian soteriology while stripping away the sectarian label.7
 
 Murdoch herself recognized this code. In her correspondence, she praised the inclusion of the "Blessings Three" as a valid representation of Chapman’s faith.8 This proves that the studio and the Swedenborgian community were engaged in a tacit agreement: the theology would remain, but the name "Swedenborg" would be erased. Walt Disney approved a script that functioned as a "Trojan Horse," delivering Swedenborgian ethics to a mass audience under the guise of folklore.
 

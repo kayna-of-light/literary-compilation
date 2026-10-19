@@ -212,7 +212,7 @@ A brother who spent decades in prayer in the Temple — who was called "the Just
 
 ### 5.2 The Parables and the Signs: One Perception, Two Idioms
 
-The parables in Proto-Luke (Good Samaritan, Prodigal Son, Sower) and the signs in John (water→wine, bread of life, Lazarus) do the same thing in different idioms. Both encode spiritual process in natural imagery. Both carry internal sense at all degrees simultaneously. Both constitute a progressive regeneration sequence.
+The parables in Proto-Luke (the Sower, the Lost Sheep, the Rich Man and Lazarus) and the signs in John (water→wine, bread of life, Lazarus) do the same thing in different idioms. Both encode spiritual process in natural imagery. Both carry internal sense at all degrees simultaneously. Both constitute a progressive regeneration sequence.
 
 If both rest on James's testimony, the difference in idiom is explained by the difference in audience and literary medium:
 

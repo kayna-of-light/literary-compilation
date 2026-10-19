@@ -26,11 +26,11 @@ Therefore, the First Rule of Reconstruction is the identification and excision o
 
 #### **2.2 The Marcionite Control: The Evangelion as Witness**
 
-The second pillar is the text preserved by Marcion of Sinope (c. 140 CE). The most significant breakthrough in recent years comes from the work of Matthias Klinghardt, Jason BeDuhn, and Markus Vinzent, who have revived and scientifically fortified the "Marcion Priority" hypothesis. Church Fathers like Tertullian claimed that Marcion "mutilated" Luke to create his *Evangelion*. However, computer-aided analysis of "editorial fatigue" suggests the opposite direction of dependence.1
+The second pillar is the text preserved by Marcion of Sinope (c. 140 CE). The most significant breakthrough in recent years comes from the work of Matthias Klinghardt, Jason BeDuhn, and Markus Vinzent, who have revived and scientifically fortified the "Marcion Priority" hypothesis. Church Fathers like Tertullian claimed that Marcion "mutilated" Luke to create his *Evangelion*. However, their analysis of "editorial fatigue" points to the opposite direction of dependence.1
 
 Editorial fatigue occurs when a writer copies a source and makes small changes at the beginning of a passage but lapses back into the wording of the source as they get tired or distracted. Comparisons of Luke and Marcion show that Canonical Luke exhibits fatigue when diverging from Marcion’s text, implying that the canonical author was expanding Marcion’s shorter text, not the other way around. Furthermore, Marcion’s Gospel lacked the first two chapters of Luke (Birth of John, Birth of Jesus). Critical scholarship increasingly views Luke 1-2 as a later addition—a "Pastoral" prologue added to anchor Jesus in Old Testament history and biology, countering the "alien" Jesus of the Proto-Gospel.8
 
-The *Evangelion* thus serves as the physical control for our reconstruction. It confirms that the earliest version of Luke lacked the Birth Narratives and the physical proofs of the resurrection, aligning perfectly with the proposed Jamesian theology. The reconstruction utilizes the Marcionite text not as a "heretical" aberration, but as a textual witness to the pre-canonical state of the Gospel.9
+The *Evangelion* thus serves as the physical control for our reconstruction. It confirms that the earliest version of Luke lacked the Birth Narratives, and that its resurrection appearance lacked "touch me and see" and "flesh" (24:39; Tertullian, *Marc.* 4.43.6; Epiphanius, *Pan.* 42.11.6, sch. 78), aligning with the proposed Jamesian theology. The reconstruction utilizes the Marcionite text not as a "heretical" aberration, but as a textual witness to the pre-canonical state of the Gospel.9
 
 #### **2.3 The Jamesian/Ebionite Theological Filter**
 
@@ -38,7 +38,7 @@ The third pillar is the theological profile of the Jerusalem Church, or the "Ebi
 
 This specific theology is the hallmark of the Q / Proto-Luke material, particularly in the sections that differ from Matthew. While Matthew spiritualizes the beatitudes ("Blessed are the poor *in spirit*"), Proto-Luke (and Q) preserves the raw, economic radicalism: "Blessed are you poor (*oi ptochoi*)... But woe to you who are rich (*tois plousiois*)." These "Woes to the Rich" (Luke 6:24-26) are unique to the Lukan/Proto-Lukan tradition and mirror the Epistle of James almost verbatim ("Come now, you rich, weep and howl for the miseries that are coming upon you" \- James 5:1).1
 
-Reconstruction Principle: Passages that reflect a high Christology of physical substance, pro-Roman sentiment, or the specific historical details of the 70 CE siege (armies vs. desolation) are to be flagged as later redactions. Passages emphasizing poverty, the Spirit, and the "Law of Liberty" constitute the authentic Jamesian core. This triangulation of literary structure (Streeter), textual evidence (Marcion), and theological profile (James) provides a robust methodology for recovering the lost gospel.
+Reconstruction Principle: Passages that reflect a high Christology of physical substance or pro-Roman sentiment are to be flagged as later redactions. Passages emphasizing poverty, the Spirit, and the "Law of Liberty" constitute the authentic Jamesian core. This triangulation of literary structure (Streeter), textual evidence (Marcion), and theological profile (James) provides a robust methodology for recovering the lost gospel.
 
 ### ---
 
@@ -146,30 +146,30 @@ The phrase hoi ptochoi (the poor) is absolute. The Matthean addition to pneumati
 
 #### **4.2 The Marcionite Lord's Prayer (Reconstructed Luke 11:2-4)**
 
-**Rationale:** The reconstruction of the Lord's Prayer is critical. Marcion's version, as attested by Tertullian and medieval manuscripts (minuscules 162, 700), contained a variant petition asking for the Holy Spirit rather than the Kingdom. This aligns with the pneumatic focus of the early community. The prayer also simplifies the request for bread and clarifies the temptation clause.18
+**Rationale:** The reconstruction of the Lord's Prayer is critical. Marcion's version, as attested by Tertullian, contained a petition asking for the Holy Spirit in place of "hallowed be thy name": Tertullian goes through the petitions in their order — Father, Holy Spirit, kingdom, bread, sins, temptation — and asks of each to whom it could be addressed (*Marc.* 4.26.3–5). The kingdom petition is kept. This aligns with the pneumatic focus of the early community. The prayer also asks for "thy bread", the Marcionites' wording as Origen quotes it (*Fragmenta in Lucam* 46; Rauer 1930, 254).18
 
 **Greek Text (Reconstructed):**
 
-Πάτερ, ἁγιασθήτω τὸ ὄνομά σου.  
-ἐλθέτω τὸ πνεῦμά σου τὸ ἅγιον ἐφ' ἡμᾶς καὶ καθαρισάτω ἡμᾶς.  
-τὸν ἄρτον ἡμῶν τὸν ἐπιούσιον δίδου ἡμῖν τὸ καθ' ἡμέραν·  
+Πάτερ, ἐλθέτω τὸ πνεῦμά σου τὸ ἅγιον·  
+ἐλθέτω ἡ βασιλεία σου·  
+τὸν ἄρτον σου τὸν ἐπιούσιον δίδου ἡμῖν τὸ καθ' ἡμέραν·  
 καὶ ἄφες ἡμῖν τὰς ἁμαρτίας ἡμῶν, καὶ γὰρ αὐτοὶ ἀφίομεν παντὶ ὀφείλοντι ἡμῖν·  
-καὶ μὴ ἄφες ἡμᾶς εἰσενεχθῆναι εἰς πειρασμόν.
+καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν.
 
 **English Translation:**
 
-Father, hallowed be thy name.  
-Let thy Holy Spirit come upon us and cleanse us.  
-Give us day by day our daily bread.  
+Father, let thy Holy Spirit come.  
+Thy kingdom come.  
+Give us day by day thy daily bread.  
 And forgive us our sins, for we ourselves forgive everyone who is indebted to us.  
-And do not let us be led into temptation.
+And lead us not into temptation.
 
 Textual Notes:  
-The reading elthetō to pneuma sou to hagion... ("Let thy Holy Spirit come...") is attested by Gregory of Nyssa and minuscules 162 and 700.18 This petition replaces the canonical "Thy Kingdom Come." Modern scholarship (Harnack, Roth) debates whether this was a Marcionite innovation or an original reading suppressed by later orthodoxy. Given the strong pneumatic emphasis of Proto-Luke (e.g., Jesus' first act is not baptism but Spirit-empowerment), this reading is retained as the likely original.19 The final petition uses mē aphes hēmas eisenechthēnai ("do not let us be led") rather than the active mē eisenenkēs ("lead us not"), a Marcionite distinction to avoid attributing the agency of temptation to the Good Father.4
+A longer form of the petition, elthetō to pneuma sou to hagion eph' hēmas kai katharisatō hēmas ("Let thy Holy Spirit come upon us and cleanse us"), is attested by Gregory of Nyssa and minuscules 162 and 700, where it replaces the canonical "Thy Kingdom Come."18 In the Marcionite text the Spirit petition stands in the first place instead, and the kingdom petition follows it; the words "upon us and cleanse us" are not attested for it. Modern scholarship (Harnack, Roth) debates whether this was a Marcionite innovation or an original reading suppressed by later orthodoxy. Given the strong pneumatic emphasis of Proto-Luke (e.g., Jesus' first act is not baptism but Spirit-empowerment), the Spirit petition is retained as the likely original.19 The final petition has long been read as mē aphes hēmas eisenechthēnai ("do not let us be led"), a Marcionite distinction to avoid attributing the agency of temptation to the Good Father.4 The reading rests on Tertullian's question "who will not let us be led into temptation?" (*Marc.* 4.26.4–5); but Tertullian turns every petition into a question, and he glosses the canonical petition the same way in his own commentary on the prayer: "ne nos inducas in temptationem, id est, ne nos patiaris induci" (*De oratione* 8.1). The active wording is therefore printed.
 
 #### **4.3 The Good Samaritan (Luke 10:25-37)**
 
-**Rationale:** This parable functions as a fierce anti-Temple polemic. The Priest and Levite—representatives of the Temple elite and the Sadducean aristocracy—fail to keep the Law of Love because of concerns over ritual purity (contact with a corpse). The Samaritan, an outsider and theological enemy, fulfills the "Royal Law" (James 2:8). This aligns with James the Just's known opposition to the high priestly caste.1
+**Rationale:** This parable functions as a fierce anti-Temple polemic. The Priest and Levite—representatives of the Temple elite and the Sadducean aristocracy—fail to keep the Law of Love because of concerns over ritual purity (contact with a corpse). The Samaritan, an outsider and theological enemy, fulfills the "Royal Law" (James 2:8). This aligns with James the Just's known opposition to the high priestly caste.1 The parable is L material and is not attested for the Marcionite text: both Tertullian (*Marc.* 4.25.14–18, then 4.26.1) and Epiphanius (*Pan.* 42.11.6, sch. 23–24) close the exchange with the lawyer at 10:28.
 
 **Greek Text:**
 
@@ -208,37 +208,36 @@ The name "Lazarus" (Eleazar) means "God helps." Some scholars suggest the rich m
 
 The reconstruction of the Passion Narrative is critical for dating the text and understanding the Christology of the Jamesian community.
 
-#### **5.1 The Abomination of Desolation (Reconstructed Luke 21:20)**
+#### **5.1 Jerusalem Surrounded by Armies (Luke 21:20)**
 
-**Rationale:** This verse serves as the chronometer of the reconstruction. Canonical Luke 21:20 reads "When you see Jerusalem surrounded by armies" (*kykloumenēn hypo stratopedōn*), a specific reference to the Roman siege of 70 CE. This specificity marks it as a *vaticinium ex eventu* (prophecy after the fact). However, Mark 13:14 and Matthew 24:15 refer to the "Abomination of Desolation" (*bdelygma tēs erēmōseōs*), a cryptic Danielic phrase. Proto-Luke/Marcion likely preserved this vague apocalyptic warning, which functioned as the "Oracle" mentioned by Eusebius that warned the Jerusalem Church to flee to Pella *before* the siege began. A specific prophecy of "armies" would be too late to act upon (once surrounded, one cannot flee), whereas a warning of "desolation" allows for pre-emptive flight.1
+**Rationale:** This verse serves as the chronometer of the reconstruction. Canonical Luke 21:20 reads "When you see Jerusalem surrounded by armies" (*kykloumenēn hypo stratopedōn*), a specific reference to the Roman siege of 70 CE. This specificity marks it as a *vaticinium ex eventu* (prophecy after the fact). Mark 13:14 and Matthew 24:15 refer instead to the "Abomination of Desolation" (*bdelygma tēs erēmōseōs*), a cryptic Danielic phrase. The Marcionite text does not have it. Tertullian reads the verse with the armies: "cum coepisset vallari exercitibus Hierusalem" — when Jerusalem had begun to be surrounded by armies (*Marc.* 4.39.9). What the Marcionite text lacked is the next two verses: Epiphanius reports that it did not have "then those in Judea must flee to the mountains" and what follows, up to "that all that is written may be fulfilled" (*Pan.* 42.11.6, sch. 59). The flight command that has been read as the "Oracle" mentioned by Eusebius, warning the Jerusalem Church to flee to Pella *before* the siege began, is therefore not part of the Marcionite text, and its "armies" belongs with canonical Luke's on the dating criterion.
 
-**Greek Text (Restored):**
+**Greek Text:**
 
-Ὅταν δὲ ἴδητε τὸ βδέλυγμα τῆς ἐρημώσεως ἑστὼς ὅπου οὐ δεῖ, τότε γνῶτε ὅτι ἤγγικεν ἡ ἐρήμωσις αὐτῆς. \[Composite based on Marcionite witness and Mark 13:14\]
+Ὅταν δὲ ἴδητε κυκλουμένην ὑπὸ στρατοπέδων Ἰερουσαλήμ, τότε γνῶτε ὅτι ἤγγικεν ἡ ἐρήμωσις αὐτῆς. \[Luke 21:20; 21:21–22 absent\]
 
 **English Translation:**
 
-*But when you see the abomination of desolation standing where it ought not, then know that its desolation has come near.*
+*But when you see Jerusalem surrounded by armies, then know that its desolation has come near.*
 
 #### **5.2 The Eucharist: The Western Non-Interpolation (Luke 22:19-20)**
 
-**Rationale:** The "Long Text" of the Last Supper includes the words of institution regarding the "new covenant in my blood," paralleling 1 Corinthians 11\. However, the "Western" textual witnesses (Codex Bezae D, Old Latin manuscripts) omit verses 19b–20. The "Short Text" ends with the bread and describes a meal of eschatological anticipation without the atonement theology of "blood poured out." This aligns with the Ebionite rejection of blood sacrifice and the Jamesian focus on the Kingdom meal rather than the Pauline theology of atonement.27
+**Rationale:** The "Long Text" of the Last Supper includes the words of institution regarding the "new covenant in my blood," paralleling 1 Corinthians 11\. However, the "Western" textual witnesses (Codex Bezae D, Old Latin manuscripts) omit verses 19b–20. The "Short Text" ends with the bread and describes a meal of eschatological anticipation without the atonement theology of "blood poured out." This would align with the Ebionite rejection of blood sacrifice and the Jamesian focus on the Kingdom meal rather than the Pauline theology of atonement.27 The Marcionite text, however, has the second cup. Tertullian: "in calicis mentione testamentum constituens sanguine suo obsignatum" — at the mention of the cup, establishing the covenant sealed with his blood (*Marc.* 4.40.4; also 4.40.6). His argument that Christ "should then have handed over bread for us" (*Marc.* 4.40.3) points to "given for you" in 19b.
 
-**Greek Text (Western Short Form):**
+**Greek Text:**
 
-καὶ λαβὼν ἄρτον εὐχαριστήσας ἔκλασεν καὶ ἔδωκεν αὐτοῖς λέγων· Τοῦτό ἐστιν τὸ σῶμά μου. \[Luke 22:19a\]  
-(Verses 19b and 20 are excised).
+καὶ λαβὼν ἄρτον εὐχαριστήσας ἔκλασεν καὶ ἔδωκεν αὐτοῖς λέγων· Τοῦτό ἐστιν τὸ σῶμά μου τὸ ὑπὲρ ὑμῶν διδόμενον· τοῦτο ποιεῖτε εἰς τὴν ἐμὴν ἀνάμνησιν. καὶ τὸ ποτήριον ὡσαύτως μετὰ τὸ δειπνῆσαι, λέγων· Τοῦτο τὸ ποτήριον ἡ καινὴ διαθήκη ἐν τῷ αἵματί μου, τὸ ὑπὲρ ὑμῶν ἐκχυννόμενον. \[Luke 22:19–20\]
 
 **English Translation:**
 
-*And he took bread, and when he had given thanks, he broke it and gave it to them, saying, "This is my body."*
+*And he took bread, and when he had given thanks, he broke it and gave it to them, saying, "This is my body, which is given for you. Do this in remembrance of me." And likewise the cup after they had eaten, saying, "This cup is the new covenant in my blood, which is poured out for you."*
 
 Textual Notes:  
-Westcott and Hort identified this as a "Western Non-Interpolation," arguing that the Western text preserved the original, shorter reading which was later interpolated from Paul's liturgy.27 The removal of the second cup (v. 20\) resolves the confusion of the "two cups" in the canonical text and presents a coherent Jewish fellowship meal.
+Westcott and Hort identified this as a "Western Non-Interpolation," arguing that the Western text preserved the original, shorter reading which was later interpolated from Paul's liturgy.27 The removal of the second cup (v. 20\) would resolve the confusion of the "two cups" in the canonical text. The Marcionite witness, which Westcott and Hort did not weigh, has the covenant cup of v. 20; the first cup (v. 17) is not cited by it. The Western omission belongs to the transmission of canonical Luke, not to the Marcionite text.
 
 #### **5.3 The Agony in the Garden (Luke 22:43-44)**
 
-**Rationale:** The verses describing the angel strengthening Jesus and his sweat becoming like drops of blood are absent in the earliest and best manuscripts (P75, Vaticanus, Alexandrinus) and in the Marcionite text.28 These verses were likely added to counter a "docetic" or un-suffering Christ, portraying a very human Jesus in physical distress. Proto-Luke presents a Jesus who faces death with stoic resolve or spiritual confidence, consistent with the "martyr" theology of the early church.
+**Rationale:** The verses describing the angel strengthening Jesus and his sweat becoming like drops of blood are absent in the earliest and best manuscripts (P75, Vaticanus, Alexandrinus) and are not cited by any witness to the Marcionite text.28 These verses were likely added to counter a "docetic" or un-suffering Christ, portraying a very human Jesus in physical distress. Proto-Luke presents a Jesus who faces death with stoic resolve or spiritual confidence, consistent with the "martyr" theology of the early church.
 
 **Action:** Verses 22:43-44 are **excised** completely from the reconstruction.
 
@@ -277,24 +276,24 @@ The final chapter contains the most significant theological alterations. Canonic
 
 #### **6.1 The Empty Tomb (Luke 24:12)**
 
-**Rationale:** Verse 12 ("Peter rose and ran to the tomb...") is a "Western Non-Interpolation," omitted by Codex Bezae and Marcion.32 It is widely considered a later addition harmonizing with John 20:3-10. Its removal leaves the women's report unverified by male apostles in the immediate context, preserving the ambiguity of the empty tomb in the earliest tradition.
+**Rationale:** Verse 12 ("Peter rose and ran to the tomb...") is a "Western Non-Interpolation," omitted by Codex Bezae, and not cited by either Marcionite witness, although both follow the chapter closely here (Tertullian, *Marc.* 4.43.2–3; Epiphanius, *Pan.* 42.11.6, sch. 76–77).32 It is widely considered a later addition harmonizing with John 20:3-10. Its removal leaves the women's report unverified by male apostles in the immediate context, preserving the ambiguity of the empty tomb in the earliest tradition.
 
 **Action:** Verse 24:12 is **excised**.
 
-#### **6.2 The Appearance: "A Spirit does not have flesh" (Luke 24:39)**
+#### **6.2 The Appearance: "A Spirit does not have bones" (Luke 24:39)**
 
-**Rationale:** Canonical Luke 24:39 reads: "See my hands and my feet, that it is I myself. Touch me and see, because a ghost does not have flesh and bones as you can see I have." Marcion's text read differently. Tertullian indicates that Marcion’s text (or his interpretation of it) asserted: "A spirit does not have flesh and bones \[as you see I do not have\]" or simply used the verse to prove Jesus was *spirit*.3 Critical scholarship (BeDuhn, Vinzent) suggests the entire "flesh and bones" apology is a later orthodox insertion designed to crush the Gnostic/Marcionite reading of a spiritual resurrection.1
+**Rationale:** Canonical Luke 24:39 reads: "See my hands and my feet, that it is I myself. Touch me and see, because a ghost does not have flesh and bones as you can see I have." Marcion's text read differently. Tertullian quotes it: "Videte manus meas et pedes, quia ego ipse sum, quoniam spiritus ossa non habet, sicut me videtis habere" — see my hands and feet, that it is I myself, for a spirit does not have bones as you see me having (*Marc.* 4.43.6). Epiphanius quotes the same words in Greek (*Pan.* 42.11.6, sch. 78). Both lack "touch me and see", and both have "bones" where canonical Luke has "flesh and bones". The Marcionites read the clause as "as you see me *not* having bones, like a spirit", and so used the verse to prove Jesus was *spirit* (Tertullian, *Marc.* 4.43.7).3
 
 **Reconstructed Reading:**
 
-ἴδετε τὰς χεῖράς μου καὶ τοὺς πόδας μου ὅτι ἐγώ εἰμι αὐτός· \[Omit: ψηλαφήσατέ με... σάρκα καὶ ὀστέα οὐκ ἔχει...\]
+ἴδετε τὰς χεῖράς μου καὶ τοὺς πόδας μου ὅτι ἐγώ εἰμι αὐτός· ὅτι πνεῦμα ὀστέα οὐκ ἔχει καθὼς ἐμὲ θεωρεῖτε ἔχοντα. \[Omit: ψηλαφήσατέ με καὶ ἴδετε; σάρκα καὶ\]
 
 **English Translation:**
 
-*See my hands and my feet, that it is I myself.* \[Omission of physical proof\].
+*See my hands and my feet, that it is I myself; for a spirit does not have bones as you see that I have.*
 
 Textual Notes:  
-The removal of the command to "touch me" and the reference to "flesh and bones" restores the text to a form compatible with a visionary experience of the Exalted Lord rather than the resuscitation of a corpse. The eating of the fish (24:41-43) is also suspect and likely a later insertion.1
+The absence of the command to "touch me" and of "flesh" gives a text compatible with a visionary experience of the Exalted Lord rather than the resuscitation of a corpse. The request for food (24:41) is in the Marcionite text: while they still did not believe, Jesus asked for food "to show that he had teeth" (Tertullian, *Marc.* 4.43.8). The eating of the fish (24:42–43) is not cited by Tertullian or Epiphanius; Eznik of Kolb reports that the Marcionites justified their abstinence from fish by his eating fish after the resurrection (*De Deo* 407, as cited by Roth 2015).1
 
 #### **6.3 The Ascension: Separation, Not Lift-off (Luke 24:51)**
 
@@ -323,16 +322,16 @@ The removal of the physical ascension harmonizes with the lack of such a descrip
 | **Nazareth** | 4:16–30 | Relocated | Placed after Capernaum; resolves narrative logic. |
 | **Sermon** | 6:20–49 | Retained | Keeps "Woes"; affirms Ebionite poverty. |
 | **Great Omission** | Mk 6:45–8:26 | Absent | Confirms independence from Mark. |
-| **Lord's Prayer** | 11:2–4 | Modified | "Spirit" replaces "Kingdom"; Marcionite priority. |
-| **Apocalypse** | 21:20 | Altered | "Desolation" replaces "Armies"; Pre-70 dating. |
-| **Last Supper** | 22:19b–20 | Excised | Removes Atonement theology; fellowship meal. |
+| **Lord's Prayer** | 11:2–4 | Modified | "Spirit" replaces "Hallowed be thy name"; Marcionite priority. |
+| **Apocalypse** | 21:21–22 | Excised | Flight to the mountains absent (Epiphanius, sch. 59); 21:20 keeps "Armies". |
+| **Last Supper** | 22:19b–20 | Retained | Attested by Tertullian (*Marc.* 4.40.3–4); the Western omission is not in the Marcionite text. |
 | **Gethsemane** | 22:43–44 | Excised | Removes "human weakness"; restores Martyr Christology. |
-| **Resurrection** | 24:12, 39–43 | Excised | Removes physical proofs; affirms Spiritual Resurrection. |
+| **Resurrection** | 24:12; 24:39 ("touch me", "flesh") | Excised | Removes the touching and the flesh; hands, feet, bones and the request for food remain. |
 | **Ascension** | 24:51b | Excised | Removes physical ascent; affirms separation. |
 
 ### **8\. Conclusion: The Rediscovered Gospel**
 
-The forensic reconstruction of Proto-Luke reveals a document strikingly different from the canonical Gospel. Stripped of the Birth Narratives, the physical proofs of resurrection, and the post-70 redactions, the "Jamesian Protograph" emerges as a rigorous, pneumatic, and ethically radical text. It is a gospel of the "Poor" (Ebionites), where salvation is defined by the reversal of economic fortune and the reception of the Spirit, not by Temple sacrifice or Davidic lineage. This text likely served as the common ancestor of both the Marcionite *Evangelion* and the canonical Luke, capturing the diverse theological currents of the pre-70 Jerusalem Church before they were smoothed over by the emerging orthodoxy of the second century.
+The forensic reconstruction of Proto-Luke reveals a document strikingly different from the canonical Gospel. Stripped of the Birth Narratives, the touching and the "flesh" of the resurrection appearance, and the flight oracle of 21:21–22, the "Jamesian Protograph" emerges as a rigorous, pneumatic, and ethically radical text. It is a gospel of the "Poor" (Ebionites), where salvation is defined by the reversal of economic fortune and the reception of the Spirit, not by Temple sacrifice or Davidic lineage. This text likely served as the common ancestor of both the Marcionite *Evangelion* and the canonical Luke, capturing the diverse theological currents of the pre-70 Jerusalem Church before they were smoothed over by the emerging orthodoxy of the second century.
 
 #### **Works cited**
 
@@ -371,4 +370,9 @@ The forensic reconstruction of Proto-Luke reveals a document strikingly differen
 33. The Resurrection in Luke: The 'Western' Text \- Next Step Bible Study, accessed on December 23, 2025, [https://nextstepbiblestudy.net/index.php/2020/04/15/the-resurrection-in-luke-the-western-text/](https://nextstepbiblestudy.net/index.php/2020/04/15/the-resurrection-in-luke-the-western-text/)  
 34. The Bethsaida section in Mark. \- Page 3 \- Biblical Criticism & History, accessed on December 23, 2025, [https://earlywritings.com/forum/viewtopic.php?t=2554\&start=20](https://earlywritings.com/forum/viewtopic.php?t=2554&start=20)  
 35. Luke 24:51 \- Greek Bible, accessed on December 23, 2025, [https://www.greekbible.com/luke/24/51](https://www.greekbible.com/luke/24/51)  
-36. What's Missing from Codex Sinaiticus, the Oldest New Testament? \- Biblical Archaeology Society, accessed on December 23, 2025, [https://www.biblicalarchaeology.org/daily/biblical-topics/bible-versions-and-translations/absent-from-codex-sinaiticus-oldest-new-testament/](https://www.biblicalarchaeology.org/daily/biblical-topics/bible-versions-and-translations/absent-from-codex-sinaiticus-oldest-new-testament/)
+36. What's Missing from Codex Sinaiticus, the Oldest New Testament? \- Biblical Archaeology Society, accessed on December 23, 2025, [https://www.biblicalarchaeology.org/daily/biblical-topics/bible-versions-and-translations/absent-from-codex-sinaiticus-oldest-new-testament/](https://www.biblicalarchaeology.org/daily/biblical-topics/bible-versions-and-translations/absent-from-codex-sinaiticus-oldest-new-testament/)  
+37. Tertullian. *Adversus Marcionem*. Edited and translated by Ernest Evans. 2 vols. Oxford: Clarendon Press, 1972.  
+38. Tertullian. *De oratione*. Latin text. The Tertullian Project. https://www.tertullian.org/latin/de_oratione.htm.  
+39. Epiphanius. *Ancoratus und Panarion*. Vol. 2, *Panarion haer. 34–64*. Edited by Karl Holl. GCS 31. Leipzig: Hinrichs, 1922.  
+40. Origen. *Die Homilien zu Lukas in der Übersetzung des Hieronymus und die griechischen Reste der Homilien und des Lukas-Kommentars*. Edited by Max Rauer. Origenes Werke 9. GCS 35. Leipzig: Hinrichs, 1930.  
+41. Roth, Dieter T. *The Text of Marcion's Gospel*. New Testament Tools, Studies and Documents 49. Leiden: Brill, 2015.

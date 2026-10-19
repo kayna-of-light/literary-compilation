@@ -700,7 +700,7 @@ Four witnesses. Different centuries, different languages, different religious tr
 
 ### 8.7 Swedenborg's Geographic Claim: "Great Tartary" and the Turfan Cave Libraries
 
-In 1771, Swedenborg wrote: "The Ancient Word is still preserved among the peoples who dwell in Great Tartary" (*True Christian Religion* §279). "Great Tartary" was the eighteenth-century European designation for Central Asia — the vast region stretching from the Ural Mountains to the Pacific.
+In 1771, Swedenborg wrote that the Ancient Word "is still preserved there among the people who dwell in Great Tartary" (*True Christian Religion* §279). "Great Tartary" was the eighteenth-century European designation for Central Asia — the vast region stretching from the Ural Mountains to the Pacific.
 
 This is precisely the region where Manichaean texts were preserved in cave libraries at Turfan (in the Xinjiang region of modern China). The Uyghur Khaganate adopted Manichaeism as its state religion in 762/763 CE, ensuring the institutional preservation of Manichaean manuscripts — including the Kephalaia tradition — in precisely the geographic region Swedenborg identified. The Manichaean Psalm Book — a liturgical collection whose correspondential content converges with descriptions in Swedenborg's own *Spiritual Diary* — was literally present in "Great Tartary" when Swedenborg made his claim.
 
@@ -750,7 +750,7 @@ The "mystical" sayings that scholarship classifies as late Gnostic accretions �
 
 The Apocryphon of John — preserved in four copies, the most-copied text in the library — contains a 365-angel body-creation passage followed by the explicit citation: "If you wish to know them, it is written in the book of Zoroaster." The text names its source. The body-creation system is not a Gnostic invention but a Gnostic inheritance, labelled with its provenance.
 
-Three independent Nag Hammadi witnesses confirm the Zoroastrian connection: the Apocryphon's citation, the title of Zostrianos (echoing "Zoroaster"), and Porphyry's independent testimony that Gnostic texts circulated under Zoroaster's name. The multilingual angel names in the body-creation passage — Greek, Hebrew, Egyptian — constitute a "Bene Qedem crossroads signature," reflecting the multicultural character of the carriers.
+Three independent witnesses confirm the Zoroastrian connection: the Apocryphon's citation, the title of Zostrianos (echoing "Zoroaster"), and Porphyry's independent testimony that Gnostic texts circulated under Zoroaster's name. The multilingual angel names in the body-creation passage — Greek, Hebrew, Egyptian — constitute a "Bene Qedem crossroads signature," reflecting the multicultural character of the carriers.
 
 The convergence with the Kephalaia's body-cosmos maps is striking. Two texts from different Gnostic traditions — one Sethian, one Manichaean — both preserve body-cosmos correspondence systems using the same structural logic. Both attribute this knowledge to an older source. The Apocryphon names that source explicitly: "the book of Zoroaster." The Kephalaia's naming overlays point to the same Iranian tradition. Two independent channels. One body of knowledge.
 

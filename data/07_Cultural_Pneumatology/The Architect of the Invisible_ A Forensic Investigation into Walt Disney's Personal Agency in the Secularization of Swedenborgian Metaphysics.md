@@ -52,7 +52,7 @@ However, during the production of *The Legend of Johnny Appleseed* (1948), Walt 
 
 This depiction aligns precisely with Swedenborg’s **Pneumatology** (doctrine of spirits). In *Heaven and Hell*, Swedenborg writes:
 
-"There is not a single angel in the universal heaven who was created such from the beginning... but all are from the human race."
+"in the entire heaven there is not a single angel who was created such from the beginning, nor in hell any devil who was created an angel of light and cast down; but that all, both in heaven and in hell, are from the human race" (*Heaven and Hell* §311).
 
 By depicting the angel as a "frontier spirit"—a man who lived, died, and continued to exist in a spiritual body with his personality intact—Disney rejected the "Sunday School" angelology in favor of a specifically Swedenborgian view of the afterlife. This was not a visual gag; it was a character choice defended by the studio in correspondence with the Swedenborgian church.7 Walt’s approval of this "human angel" suggests a personal alignment with the idea that the spiritual world is a continuation of the natural human experience, a core tenet of the New Church that separates it from mainstream orthodoxy.
 
@@ -113,7 +113,7 @@ The studio, he wrote, had researched the real Chapman extensively.
 
 ### **4.2 The "Blessings Three" Code**
 
-Knowing that the Hays Code and commercial viability prevented them from making an explicitly sectarian film, the studio engaged in a sophisticated act of theological encoding. The film’s theme song, "The Lord is Good to Me," contains the refrain:
+Knowing that commercial viability prevented them from making an explicitly sectarian film, the studio engaged in a sophisticated act of theological encoding. The film’s theme song, "The Lord is Good to Me," contains the refrain:
 
 "He left his blessings three: Love, and Faith, and the Apple Tree."
 
@@ -135,7 +135,7 @@ Walt Disney’s personal involvement is most visible in his hiring practices. He
 
 ### **5.1 Carl Carmer: The Historian of the "Burned-Over District"**
 
-Walt Disney personally hired **Carl Carmer** as the "Folklore Consultant" for *Melody Time* and *The Legend of Sleepy Hollow*.7 Carmer was not a generic children's writer; he was a serious academic historian of upstate New York, a region known as the **"Burned-Over District"** because it was swept by so many religious revivals (Mormonism, Spiritualism, Swedenborgianism) in the 19th century.15
+Walt Disney personally hired **Carl Carmer** as the "Folklore Consultant" for *Melody Time*.7 Carmer was not a generic children's writer; he was a serious academic historian of upstate New York, a region known as the **"Burned-Over District"** because it was swept by so many religious revivals (Mormonism, Spiritualism, Swedenborgianism) in the 19th century.15
 
 Carmer was an expert on American esoteric sects; his books covered the **Koreshan Unity** (a Hollow Earth cult based on Swedenborgian cosmology) and Mormon origins.15
 
@@ -146,7 +146,7 @@ Carmer was an expert on American esoteric sects; his books covered the **Koresha
 **Mary Blair** (née Robinson), the stylist who defined the look of *Cinderella*, *Alice in Wonderland*, and *Peter Pan*, provides the strongest link to institutional Swedenborgianism.
 
 * **Confirmation:** Mary Blair was confirmed into the Swedenborgian Church in 1973\.23  
-* **Location:** She lived in Palos Verdes, home of the **Wayfarers Chapel** (The Glass Church).  
+* **Location:** Her church was the **Wayfarers Chapel** (The Glass Church) in Palos Verdes, where she was confirmed and whose Board of Managers she joined in 1976 (General Convention 1976).  
 * **Architecture:** The Wayfarers Chapel was designed by **Lloyd Wright** (Frank Lloyd Wright’s son) as a National Memorial to Swedenborg.24 It is a masterpiece of "Organic Architecture," designed to blur the line between the indoors (spirit) and the outdoors (nature)—a physical manifestation of the Doctrine of Correspondences.
 
 **Insight:** Mary Blair’s art—characterized by flatness, emotional color, and a rejection of Renaissance perspective—is a visual application of Swedenborgian aesthetics (seeing the spiritual *in* the natural, rather than the natural as a separate solid). Her eventual confirmation suggests that her artistic vision at Disney was an expression of a lifelong spiritual affinity, one that Walt Disney championed and protected against more realistic/materialistic animators. Walt didn't just like her art; he liked her *vision*, which was fundamentally correspondential.
@@ -249,3 +249,5 @@ Walt Disney did not build a church; he built a studio. But in doing so, he creat
 26. In His Own Words: Frank Lloyd Wright on “Fantasia” | \- Cartoon Research, accessed on January 29, 2026, [https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/](https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/)  
 27. Books That Influenced Disney \- Mouse Planet, accessed on January 29, 2026, [https://www.mouseplanet.com/12803/Books\_That\_Influenced\_Disney](https://www.mouseplanet.com/12803/Books_That_Influenced_Disney)  
 28. Excerpt from The Science of Mind Collection | Penguin Random House Canada, accessed on January 29, 2026, [https://www.penguinrandomhouse.ca/books/354135/the-science-of-mind-collection-by-ernest-holmes/excerpt](https://www.penguinrandomhouse.ca/books/354135/the-science-of-mind-collection-by-ernest-holmes/excerpt)
+29. General Convention of the New Jerusalem in the United States of America. *Journal of the General Convention of the New Jerusalem*, 1976.  
+30. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).  

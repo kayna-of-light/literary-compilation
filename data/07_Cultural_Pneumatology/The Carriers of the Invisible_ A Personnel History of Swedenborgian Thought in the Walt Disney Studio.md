@@ -43,7 +43,7 @@ Adelquist’s defense proves the studio *knew* who Chapman was. They were not ig
 
 ### **3.2 The "Blessings Three": A Theological Rosetta Stone**
 
-The studio’s solution to the problem of depicting a sectarian missionary to a mass audience was a masterwork of theological encryption. Johnny sings "The Lord is Good to Me," and the closing song tells how across the frontier "you'll find he left his blessings three" (*The Legend of Johnny Appleseed* 1948):  
+The studio’s solution to the problem of depicting a sectarian missionary to a mass audience was a masterwork of theological encryption. Johnny sings "The Lord is Good to Me," and the closing song tells how across the frontier "you'll find he left his blessings three" (*The Legend of Johnny Appleseed* 1948), which Florence Murdoch's letter to the studio gives as  
 "love and faith and an apple tree" (Fryeburg New Church Assembly n.d.; Means 2011).  
 To the lay audience, this is a catchy rhyme. To a Swedenborgian, this is a catechism. Swedenborg rejected the "Faith Alone" (Sola Fide) doctrine of the Protestant Reformation. He argued that salvation required the union of **Charity** (Love/Will) and **Faith** (Truth/Understanding), which must then issue forth in **Good Works** (Uses).
 
@@ -51,7 +51,7 @@ To the lay audience, this is a catchy rhyme. To a Swedenborgian, this is a catec
 * **Faith** \= The Understanding (The Intellectual Form)  
 * **The Apple Tree** \= Works/Use (The Natural Manifestation)
 
-By selecting "love and faith and an apple tree," the Disney songwriters (likely guided by consultants) preserved the *structural core* of Swedenborgian soteriology. They encoded the "Trinity of Essentials." Florence Murdoch herself recognized this code: her letter to the studio welcomed the inclusion of the "Blessings Three," which she presented as Johnny's own words (Fryeburg New Church Assembly n.d.). This confirms that the transmission was not "indirect" or accidental; it was a negotiated, conscious act of translation.
+By selecting Love, Faith, and the Apple Tree, the Disney songwriters (likely guided by consultants) preserved the *structural core* of Swedenborgian soteriology. They encoded the "Trinity of Essentials." Florence Murdoch herself recognized this code: her letter to the studio welcomed the inclusion of the "Blessings Three," which she presented as Johnny's own words (Fryeburg New Church Assembly n.d.). This confirms that the transmission was not "indirect" or accidental; it was a negotiated, conscious act of translation.
 
 ### **3.3 The "Pioneer Spirit" Angelology**
 
@@ -149,7 +149,7 @@ Through the "Active Seeking" of consultants like Carl Carmer and the "Structural
 | **Don Graham** | Art Instructor | Pedagogy of "Forces vs. Forms" (*Action Analysis*). | Secularized "Influx" doctrine into technical training; taught animators to see "inner force" as the creator of "outer form." |
 | **Lloyd Wright** | Architect | Designer of **Wayfarers Chapel** (Swedenborg Memorial). | Created a physical/spiritual hub for the Disney creative community that validated "Organic/Correspondential" aesthetics. |
 | **Hal Adelquist** | Story Department Manager | Correspondence with Florence Murdoch; friend of Mary Blair. | Articulated the studio's "Active Seeking" of religious authenticity; defended the encoded theology of *Appleseed*. |
-| **"Blessings Three"** | Song Lyric (*Johnny Appleseed*) | "love and faith and an apple tree" | **Theological Code:** Encoded the Swedenborgian Trinity of Essentials (Love, Wisdom, Use) into mass-market entertainment. |
+| **"Blessings Three"** | Song Lyric (*Johnny Appleseed*) | Love, Faith, and the Apple Tree. | **Theological Code:** Encoded the Swedenborgian Trinity of Essentials (Love, Wisdom, Use) into mass-market entertainment. |
 
 ## X. Works Cited
 

@@ -65,7 +65,7 @@ The studio, Adelquist wrote, had painstakingly researched the Appleseed story, a
 
 ### **3.3 The "Blessings Three" as Theological Code**
 
-The film replaces Chapman’s specific Swedenborgian tracts with a "Generic Bible" visual (*The Apple and the Angel*). However, the script preserves the specific theological structure of Swedenborgianism through the song lyrics, specifically Johnny's "Blessings Three": "love and faith and an apple tree" (Fryeburg New Church Assembly n.d.; Means 2011).
+The film replaces Chapman’s specific Swedenborgian tracts with a "Generic Bible" visual (*The Apple and the Angel*). However, the script preserves the specific theological structure of Swedenborgianism through the song lyrics, specifically Johnny's "Blessings Three," which Florence Murdoch's letter to the studio gives as "love and faith and an apple tree" (Fryeburg New Church Assembly n.d.; Means 2011).
 
 This triad corresponds precisely to the Swedenborgian **Trinity of Essentials** for salvation:
 

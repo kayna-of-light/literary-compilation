@@ -4,11 +4,11 @@
 
 **Background**: Emanuel Swedenborg (1688–1772) applied his correspondential key to the canonical Gospels as unified divine texts, treating them as the Word of God in their entirety. He lacked access to modern textual criticism and assumed the attributed authors were the original writers — "simpletons" guided by the Spirit to produce texts with continuous internal sense.
 
-**Thesis**: Swedenborg's own exegetical performance reveals what he could not have known: a systematic quality gradient between parabolic material and historical-narrative material across all four Gospels. Parables receive full element-by-element correspondential decoding — and Swedenborg reports *witnessing them enacted* in the spiritual world. Historical narratives (birth accounts, crucifixion framing, resurrection appearances) receive only doctrinal citation or polemical use. This gradient maps precisely onto the compositional strata identified by modern source criticism: the parabolic material belongs to the oldest tradition layer (Proto-Luke, oral tradition), composed by people who possessed the correspondential key; the narrative framing was added by later editors serving institutional-theological programs — the same editorial hands that produced Acts and the birth narratives, texts Swedenborg himself excludes from the Word or treats as non-correspondential.
+**Thesis**: Swedenborg's own exegetical performance reveals what he could not have known: a systematic quality gradient between parabolic material and historical-narrative material across all four Gospels. Parables receive full element-by-element correspondential decoding — and Swedenborg reports *witnessing them enacted* in the spiritual world. Historical narratives (birth accounts, crucifixion framing, resurrection appearances) receive only doctrinal citation or polemical use. This gradient maps onto the compositional strata identified by modern source criticism: the parabolic material belongs to the oldest tradition layer (oral tradition, carried in Luke both by parables in the Marcionite text and by parables that entered after it), composed by people who possessed the correspondential key; the narrative framing was added by later editors serving institutional-theological programs — the same editorial hands that produced Acts and the birth narratives, texts Swedenborg himself excludes from the Word or treats as non-correspondential.
 
 **Method**: Comparative analysis of Swedenborg's treatment of specific Gospel passages (Luke, Matthew, Mark, John) using NotebookLM analysis of *Arcana Coelestia*, *Apocalypse Explained*, and the *Spiritual Diary*, triangulated with the Proto-Luke reconstruction (Klinghardt, BeDuhn, Vinzent) and standard source-critical findings.
 
-**Conclusion**: Swedenborg's key inadvertently confirms the Proto-Lukan hypothesis. His hermeneutic performance tracks a compositional boundary he could not have detected by the methods available to him. The key works — but it works *selectively*, and the selection maps onto source strata. This constitutes a new form of evidence for the antiquity and correspondential origin of the parabolic tradition, and a correction to Swedenborg's assumption of uniform canonicity.
+**Conclusion**: Swedenborg's key inadvertently confirms the distinction between the parabolic tradition and the editorial narrative. His hermeneutic performance tracks a compositional boundary he could not have detected by the methods available to him. In Luke that boundary is not the edge of the Marcionite text: the Prodigal Son, which the Marcionite text lacked, decodes as fully as the parables it had. The key works — but it works *selectively*, and the selection maps onto source strata. This constitutes a new form of evidence for the antiquity and correspondential origin of the parabolic tradition, and a correction to Swedenborg's assumption of uniform canonicity.
 
 **Keywords**: Swedenborg, correspondences, Proto-Luke, Jamesian Protograph, Gospel source criticism, parables, internal sense, Acts editor, textual criticism, hermeneutic quality gradient
 
@@ -36,14 +36,16 @@ The following analysis derives from direct examination of Swedenborg's treatment
 
 ### 2.1 Luke: The Clearest Case
 
-Luke provides the sharpest test because the Proto-Luke reconstruction (Klinghardt, BeDuhn, Vinzent) identifies specific verses as belonging to the Jamesian Protograph versus the final Lukan redaction. This allows precise prediction: Proto-Lukan material should yield correspondential depth; redactional material should not.
+Luke provides the sharpest test because the Proto-Luke reconstruction (Klinghardt, BeDuhn, Vinzent) identifies specific verses as belonging to the Jamesian Protograph versus the final Lukan redaction. This allows precise prediction: Proto-Lukan material should yield correspondential depth; redactional material should not. The test turns out to separate genre more sharply than layer.
 
-**Parabolic Material (Proto-Lukan Tradition)**
+**Parabolic Material**
 
 | Passage | Treatment | Depth |
 |---------|-----------|-------|
-| Good Samaritan (10:30-37) | Full line-by-line decoding (AE 960) | Every element mapped: Samaritan = those in charity; robbers = those who infuse falsities; oil = good of love; wine = truth of faith; beast = understanding; inn = place of instruction |
-| Prodigal Son (15:11-32) | Full element-by-element decoding | Every element mapped: prodigal = those who waste spiritual riches; best robe = primary truths; ring = conjunction of truth and good; shoes = conjunction in the natural; fatted calf = good of love and charity |
+| Good Samaritan (10:30-37) | Full line-by-line decoding (AE 444; also AE 376, 962) | Every element mapped: Samaritan = those in charity; robbers = those who infuse falsities; oil = good of love; wine = truth of faith; beast = understanding; inn = place of instruction |
+| Prodigal Son (15:11-32) | Full element-by-element decoding (AC 9391) | Every element mapped: prodigal = those who waste spiritual riches; best robe = primary truths; ring = conjunction of truth and good; shoes = conjunction in the natural; fatted calf = good of love and charity |
+
+Neither of these two parables is in the Marcionite text. Epiphanius reports that Marcion's gospel lacked "the whole parable of the two sons" (*Pan.* 42.11.6, sch. 42), and neither Tertullian nor Epiphanius cites the Samaritan: both close the exchange with the lawyer at 10:28. Parables that *are* in the Marcionite text decode in the same way — the Rich Man and Lazarus (AE 455) and the Lost Coin (AE 675). The parables decode whether or not they belong to the Marcionite text; what separates them from the narrative material is genre and composition, not the Marcionite boundary.
 
 **Narrative Material (Redactional Layer)**
 
@@ -51,7 +53,7 @@ Luke provides the sharpest test because the Proto-Luke reconstruction (Klinghard
 |---------|-----------|-------|
 | Annunciation (1:26-38) | Doctrinal proof only | No word-by-word reading; cited to establish the Lord's soul was divine, not from a human father |
 | Nativity (2:7-16) | Selective symbol decoding | Partial — manger (doctrine of truth), swaddling clothes (first truths), inn (no room = no doctrine left in the church). But not a continuous correspondential narrative |
-| Resurrection body (24:39-43) | Doctrine + specific items | Fish = truth of the natural sense; honeycomb = its pleasantness. But the *event* is used to prove the Lord rose with His whole body — doctrinally, not correspondentially |
+| Resurrection body (24:39-43) | Doctrine + specific items | Fish = truth of the natural sense; honeycomb = its pleasantness. But the *event* is used to prove the Lord rose with His whole body — doctrinally, not correspondentially. (The hands, feet and bones of 24:39 and the request for food of 24:41 are in the Marcionite text; "touch me" and "flesh" are not.) |
 | Ascension (24:50-53) | General reference | Almost nothing. No element-by-element decoding |
 
 The pattern is unmistakable. Swedenborg himself states the distinction without recognizing its cause: parables are "made-up histories" (AE 817) — free from the constraints of literal history — which is why they yield to full correspondential treatment. But this is his epicycle. The real explanation is that parables were *composed in correspondences* by people who knew the system, and the narrative material was composed by an editor who did not.
@@ -127,7 +129,7 @@ The strongest single piece of evidence for the compositional explanation is Swed
 Now consider: the same editorial hand that composed Acts also performed the final redaction of Luke. This is standard scholarship — the "Luke-Acts" unity is one of the most secure findings of New Testament criticism. The same person who wrote Acts added the material to Luke that Swedenborg can only cite doctrinally:
 
 - **Luke 1-2** (Infancy narratives) — written by the Acts editor to provide a Davidic genealogy and birth narrative connecting Jesus to the Old Testament
-- **Luke 24:39-43** (flesh and bones, eating fish) — written by the Acts editor as anti-Docetic polemic, establishing physical resurrection for continuity with Acts 1
+- **Luke 24:39-43** (flesh and bones, eating fish) — the "touch me and see" and the "flesh" written by the Acts editor as anti-Docetic polemic, establishing physical resurrection for continuity with Acts 1; the hands, feet and bones and the request for food were already in the Marcionite text (Tertullian, *Marc.* 4.43.6–8; Epiphanius, *Pan.* 42.11.6, sch. 78)
 - **Luke 24:50-53** (Ascension) — written by the Acts editor to set up Acts 1:9-11
 
 The Acts editor did not suddenly become correspondentially literate when editing someone else's text. He did what editors do: he added narrative material to serve his institutional program. That material is competent Greek narrative — exactly like Acts — but it doesn't carry internal sense. And Swedenborg's own exegetical performance confirms this: the material he can decode (parables) belongs to the Proto-Lukan tradition; the material he can only cite doctrinally was added by the hand whose independent composition he himself excludes from the Word.
@@ -209,7 +211,7 @@ The material that carries internal sense at all degrees:
 
 The material that does not:
 - **Birth narratives** (Matthew 1-2, Luke 1-2) — editorial additions by later hands
-- **Physicalist resurrection accounts** (Luke 24:39-43) — anti-Docetic polemic by the Acts editor
+- **Physicalist resurrection accounts** (Luke 24:39-43) — anti-Docetic polemic, sharpened by the Acts editor ("touch me and see", "flesh")
 - **The Johannine Prologue and "I Am" discourses** — Greek philosophical theology, not correspondential composition
 - **Passion narrative framing** — while the events may be historically grounded, the *narration* serves theological programs rather than carrying internal sense
 
@@ -217,7 +219,7 @@ The material that does not:
 
 This finding transforms the correspondential key from a purely theological instrument into a **compositional diagnostic tool**. Swedenborg's key can identify which Gospel strata were composed by people possessing the Science of Correspondences — and by elimination, which were not.
 
-This is a new form of evidence for the Proto-Lukan hypothesis. The textual-critical case for Proto-Luke rests on manuscript analysis, redaction criticism, and Marcionite witness reconstruction (Klinghardt, BeDuhn, Vinzent). The correspondential case is independent and converging: the same material that textual criticism identifies as the oldest layer is the same material that Swedenborg's key fully decodes — and that he literally *sees functioning* in the spiritual world.
+This is a new form of evidence for the Proto-Lukan hypothesis. The textual-critical case for Proto-Luke rests on manuscript analysis, redaction criticism, and Marcionite witness reconstruction (Klinghardt, BeDuhn, Vinzent). The correspondential case is independent and converging: the parabolic tradition that textual criticism places in the oldest layer is the material that Swedenborg's key fully decodes — and that he literally *sees functioning* in the spiritual world. In Luke the convergence is with the parable tradition rather than with the Marcionite text as such: parables that entered Luke after the Marcionite text, like the Prodigal Son, carry the same depth, which places their correspondential composition before the Lukan editor.
 
 Two independent methods, separated by three centuries, point to the same stratum. That is the mark of something real.
 

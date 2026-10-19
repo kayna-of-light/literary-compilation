@@ -123,7 +123,7 @@ This lyric is a precise distillation of the **Swedenborgian Trinity of Essential
 2. **Faith (Truth/Understanding):** The intellectual form.  
 3. **The Apple Tree (Works/Use):** The natural manifestation.
 
-Swedenborg explicitly teaches that "Charity and Faith make one in Good Works." By selecting "Love, Faith, and the Apple Tree," the Disney songwriters (Walter Kent and Kim Gannon) preserved the *structure* of Swedenborgian soteriology while stripping away the sectarian label.7
+Swedenborg teaches that "charity and faith make one as good and truth do" (*Divine Providence* §82). By selecting "Love, Faith, and the Apple Tree," the Disney songwriters (Walter Kent and Kim Gannon) preserved the *structure* of Swedenborgian soteriology while stripping away the sectarian label.7
 
 Murdoch herself recognized this code. In her correspondence, she praised the inclusion of the "Blessings Three" as a valid representation of Chapman’s faith.8 This proves that the studio and the Swedenborgian community were engaged in a tacit agreement: the theology would remain, but the name "Swedenborg" would be erased. Walt Disney approved a script that functioned as a "Trojan Horse," delivering Swedenborgian ethics to a mass audience under the guise of folklore.
 

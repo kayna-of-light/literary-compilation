@@ -390,9 +390,9 @@ The evidence of earlier alignment is circumstantial but compelling: Blair was th
 
 In 1934 Lee Blair painted Mary on a bluff over the Palos Verdes coast, where the Wayfarers Chapel—the "Glass Church" designed by Lloyd Wright (Frank Lloyd Wright's son) as a national memorial to Swedenborg—would later rise (Bawden-Davis 2016).⁴ Her aesthetic rejected Renaissance perspective (which emphasizes the material separation of objects) in favor of flatness and color (which emphasizes emotional and spiritual state). The chapel built in glass and redwood the worldview she had been painting for Disney for thirty years.
 
-**Carl Carmer (1893–1976)**: Credited as the "Folklore Consultant" on *Melody Time*. Carmer was not a writer of children's books; he was a serious historian of New York State's "Burned-Over District"—the region that birthed Mormonism and Spiritualism and where Swedenborgian enthusiasm flourished before it gave way to spiritualism (Cross 1950).⁵
+**Carl Carmer (1893–1976)**: Credited as the "Folklore Consultant" on *Melody Time*. Carmer was not only a writer of children's books; he was a serious historian of New York State's "Burned-Over District"—the region that birthed Mormonism and Spiritualism and where Swedenborgian enthusiasm flourished before it gave way to spiritualism (Cross 1950).⁵
 
-Carmer's bibliography reveals lifelong engagement with esoteric American religion: *Dark Trees to the Wind* (1949) includes the Koreshan Unity (a hollow-earth cult influenced by Swedenborgian cosmology); *The Farm Boy and the Angel* addresses Mormon origins in the same region. His presence during the development of *Johnny Appleseed* and *Ichabod Crane* provided direct transmission of the specific theological and historical context. When Walt Disney hired Carmer, he was hiring a specialist in American esoteric history—someone who could provide the "real stuff" that gave narrative weight.
+Carmer's bibliography reveals lifelong engagement with esoteric American religion: *Dark Trees to the Wind* (1949) includes the Koreshan Unity (a hollow-earth cult influenced by Swedenborgian cosmology); *The Farm Boy and the Angel* addresses Mormon origins in the same region. His presence during the development of *Melody Time* and its *Johnny Appleseed* segment provided direct transmission of the specific theological and historical context. When Walt Disney hired Carmer, he was hiring a specialist in American esoteric history—someone who could provide the "real stuff" that gave narrative weight.
 
 ### 6.3 The Self-Reinforcing Cycle
 
@@ -400,7 +400,7 @@ Once carriers achieved positions of authority, the selection process accelerated
 
 This explains the concentration of Swedenborgian carriers without requiring conspiracy. No evidence suggests Walt Disney read Swedenborg or consciously recruited Swedenborgians. The evidence suggests something more organic: he built a selection environment that filtered for correspondential vision, and that environment naturally accumulated individuals for whom correspondential thinking was native rather than adopted.
 
-The architectural environment reinforced this densification. Frank Lloyd Wright visited the Disney Studio in 1939, lecturing animators on "abstract" and "organic" design.⁶ Wright's mentor Louis Sullivan was a devotee of Swedenborg; Wright's architecture embodied the principle that "form follows function"—a direct parallel to "form follows spirit." His validation of animation as a medium for "organic truth" encouraged the studio to pursue the metaphysical styles of *Fantasia*.
+The architectural environment reinforced this densification. Frank Lloyd Wright visited the Disney Studio in 1939, lecturing animators on "abstract" and "organic" design.⁶ Wright's mentor Louis Sullivan took from Swedenborg the foundations of his ornament's ideological structure; Wright's architecture embodied the principle that "form follows function"—a direct parallel to "form follows spirit." His validation of animation as a medium for "organic truth" encouraged the studio to pursue the metaphysical styles of *Fantasia*.
 
 Lloyd Wright's Wayfarers Chapel (1951), on the Palos Verdes coast, provided a physical and spiritual hub for the Los Angeles creative class. The chapel was designed to merge nature and spirit—glass walls framed by redwoods, interior and exterior flowing without barrier. For the Disney creative class, it represented the "church of the artist": a faith that validated their desire to see the spiritual *in* the natural.
 
@@ -627,7 +627,7 @@ The cumulative evidence cannot be explained by organic selection alone:
 
 2. **The precision of the encoding**: The angel depicted as a deceased human pioneer—not a winged seraph—precisely matches Swedenborgian pneumatology. The "Blessings Three" preserve the Swedenborgian structure of salvation (Love/Faith/Use). This is too precise for accident.
 
-3. **The strategic personnel choices**: Carl Carmer was not a children's author—he was a historian of esoteric American religion, specifically the Burned-Over District where American Swedenborgianism flourished. His hiring as "Folklore Consultant" for *Johnny Appleseed* and *Ichabod Crane* suggests conscious selection of someone who knew the tradition explicitly.
+3. **The strategic personnel choices**: Carl Carmer was more than a children's author—he was a historian of esoteric American religion, specifically the Burned-Over District where American Swedenborgianism flourished. His hiring as "Folklore Consultant" for *Melody Time* and its *Johnny Appleseed* segment suggests conscious selection of someone who knew the tradition explicitly.
 
 4. **The 90-year persistence with course-correction**: Organic selection produces drift. What we observe is maintenance—consistent theological structure across generations, with active correction when deviation occurs (*Wish* failure → *Snow White* 2025 restoration). This indicates conscious gatekeeping.
 

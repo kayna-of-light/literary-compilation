@@ -67,6 +67,12 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > (Menocal 1981); Stanchfield's chapter titles real. **Never re-add a Blair confirmation, board seat or church
 > membership** without a record that names Lee Blair or the artist.
 >
+> **New strand (2026-10-20, map Strand 1, last rows)**: the *Johnny Appleseed* ending follows Atkinson's Swedenborgian
+> novel (1915/1943) and stages *HH* §§445, 449–452, 387, 176, 311 — verified from the film's audio, the 1949 album text
+> and Atkinson's full text. Bring it into *The Apple and the Angel*, *Parsimony* and *Cartographer* at their audits
+> (quote the film and Atkinson; the use of Atkinson stays labelled as inference). Ask the author whether they can
+> write to the Johnny Appleseed Museum, Urbana (the Murdoch letters; any studio research notes naming Atkinson).
+>
 > **Take next: the Disney campaign, one or two documents a night** (author's direction, so this is not a thematic
 > drift).
 > 1. **`07/The Invisible Influx`** (near-copy of *Carriers*; the shared paragraphs were corrected tonight, so its audit is
@@ -426,6 +432,12 @@ Candidates to watch for in early runs, from the corpus's history — confirm bef
 ## Run log
 
 Narrative per run — what the batch surfaced, and anything a later run should know that does not fit the tables. Newest first. Unlike the handoff block, this accumulates.
+
+### 2026-10-20 (exploration with the author): the *Johnny Appleseed* ending and its Swedenborgian source
+
+At the author's request ("there is something there… we are now missing it"), an open search after the Blair correction. Method: what the Swedenborgians and the studio themselves wrote, read in full where possible. Found and recorded in the case map (Strand 1): the Murdoch letters are in Urbana's Johnny Appleseed collection (2000 Chrysalis edition); Means's account of the exchange (Murdoch 26 May 1948, "strange conception"; Adelquist: Johnny believed "heavenly spirits walked among us"); the studio's own text "LOVE, FAITH and the APPLE TREE" (RCA Victor album, © Walt Disney Productions 1949; page image viewed). The largest find is in the film itself: its ending (sleep-death, the angel at waking, "your mortal husk", Johnny's surprise at having "passed away", heaven "short on apple trees") stages *HH* §§445, 449–452, 387, 176 and 311, and follows near-verbatim Eleanor Atkinson's explicitly Swedenborgian novel (1915, reissued 1943): "When his work on earth was done there would be orchards for his planting and nurturing in the Garden of God." Haley and Lindsay do not have it. Atkinson also wrote *Greyfriars Bobby*, filmed by Disney in 1961. The studio's use of her novel is inference from the text; Urbana and the Disney story files could confirm it. Dead ends: Helen Keller, the story and song credits, Lloyd Wright–Disney, the 1982 Foundation film.
+
+**Lesson.** When the personnel strand thins, read the films and their source books. A transmission through a text is a path that needs no church membership.
 
 ### 2026-10-20 (follow-up with the author): the Blair confirmation was a namesake's
 

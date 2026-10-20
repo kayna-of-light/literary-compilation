@@ -65,7 +65,7 @@ If the studio was "actively seeking" this knowledge, they needed a guide. That g
 
 ### **4.1 The Historian of the Occult**
 
-Carmer was not a writer of children's books; he was a serious academic and historian of New York State. This region, specifically upstate New York, was known in the 19th century as the "Burned-over District" because it was so frequently swept by the fires of religious revival. It was the birthplace of Mormonism and Spiritualism, and a seedbed of Swedenborgian enthusiasm, which there "yielded place to spiritualism" (Cross 1950).  
+Carmer was not only a writer of children's books; he was a serious academic and historian of New York State. This region, specifically upstate New York, was known in the 19th century as the "Burned-over District" because it was so frequently swept by the fires of religious revival. It was the birthplace of Mormonism and Spiritualism, and a seedbed of Swedenborgian enthusiasm, which there "yielded place to spiritualism" (Cross 1950).  
 Carmer’s bibliography reveals a lifelong obsession with these esoteric movements. His book *Dark Trees to the Wind* (1949) includes a chapter on the "Koreshan Unity," a hollow-earth cult deeply influenced by Swedenborgian cosmology; its founder, Cyrus Teed, wrote *Emanuel Swedenborg: His Mission*, which Carmer lists among his sources (Carmer 1949). Another work, *The Farm Boy and the Angel*, deals with Joseph Smith and the Mormon origins in the region (Carmer 1970). Carmer was an expert on how American frontier religion blended with mysticism.
 
 ### **4.2 The Direct Line of Transmission**
@@ -109,7 +109,7 @@ The physical environment of the Disney creative community reinforced this ethos.
 ### **7.1 Frank Lloyd Wright’s 1939 Visit**
 
 In 1939, **Frank Lloyd Wright** visited the Disney Studio. A transcript of his talk reveals that he screened a Russian animated film (*The Tale of the Czar Durandai*) and lectured the animators on "abstract" and "organic" design (Amidi 2006; Korkis 2022).  
-Wright, whose mentor Louis Sullivan found in Swedenborg the stylistic basis for his ornamental design (Menocal 1981), preached an architecture where "form follows function" (a direct parallel to "form follows spirit"). His validation of animation as a medium for "organic" truth encouraged the studio to pursue the more abstract, metaphysical styles seen in *Fantasia*.
+Wright, whose mentor Louis Sullivan took from Swedenborg the foundations of his ornament's ideological structure (Menocal 1981), preached an architecture where "form follows function" (a direct parallel to "form follows spirit"). His validation of animation as a medium for "organic" truth encouraged the studio to pursue the more abstract, metaphysical styles seen in *Fantasia*.
 
 ### **7.2 The Wayfarers Chapel as a Hub**
 

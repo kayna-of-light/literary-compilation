@@ -77,7 +77,7 @@ If the studio was "actively seeking" this knowledge, they needed a guide. That g
 
 ### **4.1 The Historian of the Occult**
 
-Carmer was not only a writer of children's books; he was a serious historian of New York State. This region, specifically upstate New York, was known in the 19th century as the "Burned-over District" because it was so frequently swept by the fires of religious revival. It was the birthplace of Mormonism and Spiritualism, and a seedbed of Swedenborgian enthusiasm, which there "yielded place to spiritualism" (Cross 1950).
+Carmer was not only a writer of children's books; he was a serious academic and historian of New York State. This region, specifically upstate New York, was known in the 19th century as the "Burned-over District" because it was so frequently swept by the fires of religious revival. It was the birthplace of Mormonism and Spiritualism, and a seedbed of Swedenborgian enthusiasm, which there "yielded place to spiritualism" (Cross 1950).
 
 Carmer’s bibliography reveals a lifelong obsession with these esoteric movements. His book *Dark Trees to the Wind* (1949) includes a chapter on the "Koreshan Unity," a hollow-earth cult deeply influenced by Swedenborgian cosmology; its founder, Cyrus Teed, wrote *Emanuel Swedenborg: His Mission*, which Carmer lists among his sources (Carmer 1949). Another work, *The Farm Boy and the Angel*, deals with Joseph Smith and the Mormon origins in the region (Carmer 1970). Carmer was an expert on how American frontier religion blended with mysticism.
 

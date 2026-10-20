@@ -116,10 +116,10 @@ Did Graham know he was teaching Swedenborg? Or was this a case of convergent evo
 
 Beyond general Theosophical influence, the studio contained specific personnel—"Carriers of the Invisible"—who had direct links to high-level Swedenborgian theology. These individuals acted as nodes in the network, reinforcing the "influx" philosophy.
 
-1. **Mary Blair (The Believer)**: Mary Blair, the stylist responsible for the color and look of *Cinderella*, *Alice in Wonderland*, and *Peter Pan*, was a confirmed member of the Swedenborgian Church. She was confirmed at the **Wayfarers Chapel** in Palos Verdes (*The Messenger*, February 1974). Her art style—characterized by flatness, emotional color, and a rejection of Renaissance perspective—is a visual application of the **Doctrine of Correspondences**. In her work, the color of the sky is not determined by meteorology but by the emotional (spiritual) state of the character. This is pure "Influx."  
+1. **Mary Blair (The Painter of Influx)**: Mary Blair, the stylist responsible for the color and look of *Cinderella*, *Alice in Wonderland*, and *Peter Pan*, was art supervisor of *Johnny Appleseed*, the studio's most explicitly Swedenborgian film, and by Hal Adelquist's own account his friend and "close working associate" for many years (Adelquist, 23 May 1966, reproduced in Amidi 2010). Her art style—characterized by flatness, emotional color, and a rejection of Renaissance perspective—is a visual application of the **Doctrine of Correspondences**. In her work, the color of the sky is not determined by meteorology but by the emotional (spiritual) state of the character. This is pure "Influx."  
 2. **Frank Lloyd Wright (The Validator)**: The famous architect visited the Disney Studio in 1939 and gave a lecture to the animators (Wright, 25 February 1939; Korkis 2022). Wright was deeply influenced by Swedenborg via his family and his mentor Louis Sullivan (whose "Form follows Function" is a secularized "Natural follows Spiritual"). Wright encouraged the animators to pursue "organic" art, validating their move away from strict realism toward a more "inner" truth.
 
-While there is no "smoking gun" document where Don Graham writes "I am a Swedenborgian," the accumulation of evidence—his pedagogy’s structural identity with Influx, the Theosophical context of Chouinard, and the presence of an active Swedenborgian (Blair) in the studio—supports the "Secularized Reinstatement" hypothesis. Graham was the pedagogue who translated the *physics* of Swedenborg into the *mechanics* of animation.
+While there is no "smoking gun" document where Don Graham writes "I am a Swedenborgian," the accumulation of evidence—his pedagogy’s structural identity with Influx, the Theosophical context of Chouinard, and the presence in the studio of an artist who painted correspondentially (Blair)—supports the "Secularized Reinstatement" hypothesis. Graham was the pedagogue who translated the *physics* of Swedenborg into the *mechanics* of animation.
 
 ## ---
 
@@ -166,15 +166,15 @@ This report confirms the "Mind is the Pilot" memo as a verified historical docum
 
 **Primary Sources:**
 
-1. Culhane, Shamus. *Talking Animals and Other People.* New York: St. Martin's Press, 1986. Reprint, New York: Da Capo Press, 1998.
-2. Disney, Walt. Inter-office communication to Don Graham, December 23, 1935. Reproduced in Shamus Culhane, *Talking Animals and Other People* (New York: Da Capo Press, 1998), 117–127, and in Walt Stanchfield, "The Disney Tradition," September 24, 1995, http://www.animationmeat.com/pdf/nineoldmen/MemoFromWalt.pdf.
-3. Graham, Don. "Animation of Forces vs. Animation of Forms as an Approach to Animation … Live Action Fall." Class on Action Analysis, Walt Disney Studio, June 21, 1937. Typescript transcript, collection of Hans Perk. Published at *A. Film L.A.*, March 2, 2009. http://afilmla.blogspot.com/2009/03/animating-forms-vs-forces-action.html.
-4. Graham, Don. "Introduction to Study of Action: Primary Actions" (Lecture I). Class on Action Analysis, Walt Disney Studio, February 22, 1937. Typescript transcript (Izzie Ellis copy, 20 pp.), collection of Hans Perk, published at *A. Film L.A.*: https://www.afilmla.com/blog/AAC-022237-01.jpg (pp. 1–20). Catalogued in DIX – Disney Index Project, https://www.dix-project.net/document/disney-class-on-action-analysis_1937-02-22_lecture-i-introduction-to-study-of-action.
-5. Graham, Don. "Drapery" (Part I). Class on Action Analysis, Walt Disney Studio, January 16, 1936. Transcript, collection of Hans Perk. Catalogued in DIX – Disney Index Project. https://www.dix-project.net/document/disney-class-on-action-analysis_1936-01-16_drapery.
-6. Graham, Donald W. *Composing Pictures: Still and Moving.* New York: Van Nostrand Reinhold, 1970. Reprint, Los Angeles: Silman-James Press, 2010.
-7. Kandinsky, Wassily. *Concerning the Spiritual in Art.* Translated by Michael T. H. Sadler. First published in English as *The Art of Spiritual Harmony*. London: Constable, 1914.
-8. Larson, Eric. *Eric Larson Notes.* Lecture handouts, Walt Disney Studio. Internet Archive. https://archive.org/details/Eric_Larson_Notes.
-9. *The Messenger* (Swedenborgian Church). February 1974. https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf.
+1. Adelquist, Hal. Letter to David Swift, May 23, 1966. Reproduced in Amid Amidi, "The Strange and Tragic Life of Hal Adelquist," *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.
+2. Culhane, Shamus. *Talking Animals and Other People.* New York: St. Martin's Press, 1986. Reprint, New York: Da Capo Press, 1998.
+3. Disney, Walt. Inter-office communication to Don Graham, December 23, 1935. Reproduced in Shamus Culhane, *Talking Animals and Other People* (New York: Da Capo Press, 1998), 117–127, and in Walt Stanchfield, "The Disney Tradition," September 24, 1995, http://www.animationmeat.com/pdf/nineoldmen/MemoFromWalt.pdf.
+4. Graham, Don. "Animation of Forces vs. Animation of Forms as an Approach to Animation … Live Action Fall." Class on Action Analysis, Walt Disney Studio, June 21, 1937. Typescript transcript, collection of Hans Perk. Published at *A. Film L.A.*, March 2, 2009. http://afilmla.blogspot.com/2009/03/animating-forms-vs-forces-action.html.
+5. Graham, Don. "Introduction to Study of Action: Primary Actions" (Lecture I). Class on Action Analysis, Walt Disney Studio, February 22, 1937. Typescript transcript (Izzie Ellis copy, 20 pp.), collection of Hans Perk, published at *A. Film L.A.*: https://www.afilmla.com/blog/AAC-022237-01.jpg (pp. 1–20). Catalogued in DIX – Disney Index Project, https://www.dix-project.net/document/disney-class-on-action-analysis_1937-02-22_lecture-i-introduction-to-study-of-action.
+6. Graham, Don. "Drapery" (Part I). Class on Action Analysis, Walt Disney Studio, January 16, 1936. Transcript, collection of Hans Perk. Catalogued in DIX – Disney Index Project. https://www.dix-project.net/document/disney-class-on-action-analysis_1936-01-16_drapery.
+7. Graham, Donald W. *Composing Pictures: Still and Moving.* New York: Van Nostrand Reinhold, 1970. Reprint, Los Angeles: Silman-James Press, 2010.
+8. Kandinsky, Wassily. *Concerning the Spiritual in Art.* Translated by Michael T. H. Sadler. First published in English as *The Art of Spiritual Harmony*. London: Constable, 1914.
+9. Larson, Eric. *Eric Larson Notes.* Lecture handouts, Walt Disney Studio. Internet Archive. https://archive.org/details/Eric_Larson_Notes.
 10. Plato. *Phaedrus.* Translated by Benjamin Jowett. Cited by Stephanus page.
 11. Stanchfield, Walt. *Drawn to Life: 20 Golden Years of Disney Master Classes.* Edited by Don Hahn. 2 vols. Burlington, MA: Focal Press, 2009. 2nd ed., Boca Raton, FL: CRC Press, 2024.
 12. Stanchfield, Walt. *Gesture Drawing for Animation.* Edited by Leo Brodie. Compilation of Walt Disney Feature Animation class handouts. http://www.floobynooby.com/ICAN3211/Gesture_Drawing_for_Animation.pdf.
@@ -196,18 +196,19 @@ This report confirms the "Mind is the Pilot" memo as a verified historical docum
 
 **Internal Library Documents:**
 
-25. [The Architect of the Invisible: A Forensic Investigation into Walt Disney’s Personal Agency in the Secularization of Swedenborgian Metaphysics](The%20Architect%20of%20the%20Invisible_%20A%20Forensic%20Investigation%20into%20Walt%20Disney's%20Personal%20Agency%20in%20the%20Secularization%20of%20Swedenborgian%20Metaphysics.md). Mary Blair's church membership and Frank Lloyd Wright's 1939 studio visit within the Swedenborgian network around Walt Disney.
+25. [The Architect of the Invisible: A Forensic Investigation into Walt Disney’s Personal Agency in the Secularization of Swedenborgian Metaphysics](The%20Architect%20of%20the%20Invisible_%20A%20Forensic%20Investigation%20into%20Walt%20Disney's%20Personal%20Agency%20in%20the%20Secularization%20of%20Swedenborgian%20Metaphysics.md). Mary Blair's place in the studio's Swedenborgian network and Frank Lloyd Wright's 1939 studio visit within the Swedenborgian network around Walt Disney.
 26. [The Carriers of the Invisible: A Personnel History of Swedenborgian Thought in the Walt Disney Studio](The%20Carriers%20of%20the%20Invisible_%20A%20Personnel%20History%20of%20Swedenborgian%20Thought%20in%20the%20Walt%20Disney%20Studio.md). Biographical data on Mary Blair and the "Carriers."
 27. [The Invisible Influx: The Structural and Historical Persistence of Swedenborgian Thought in the Walt Disney Studio](The%20Invisible%20Influx_%20The%20Structural%20and%20Historical%20Persistence%20of%20Swedenborgian%20Thought%20in%20the%20Walt%20Disney%20Studio.md). Source of the "Secularized Reinstatement" hypothesis and analysis of the "Active Substrate."
 
 **Web Sources:**
 
-28. ASIFA-Hollywood Animation Archive. "Graham, Don." *Cartoon Hall of Fame*, December 15, 2005. https://ahaachof.blogspot.com/2005/12/graham-don.html. Republished as "Biography: Don Graham," *AnimationResources.org*, https://animationresources.org/biography-don-graham/.
-29. California Institute of the Arts. "Chouinard Art Institute." https://calarts.edu/history/chouinard-art-institute.
-30. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
-31. D23. "Art School Formed at Disney Studio with Donald Graham Serving as Teacher." *This Day in Disney History*, November 15, 1932. https://d23.com/this-day/art-school-formed-at-disney-studio-with-donald-graham-serving-as-teacher/.
-32. Friedman, Jake. "Art Babbitt: A Class of His Own." *Animation World Network*, May 12, 2011. https://www.awn.com/animationworld/art-babbitt-class-his-own.
-33. Graham, Donald H. "Donald W. Graham." 2005. http://www.donaldwgraham.com/.
-34. Korkis, Jim. "In His Own Words: Frank Lloyd Wright on 'Fantasia.'" *Cartoon Research*, December 16, 2022. https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/.
-35. Los Angeles Conservancy. "Chouinard (L.A. New Times Western School)." https://www.laconservancy.org/learn/historic-places/chouinard-l-a-new-times-western-school/.
-36. The Walt Disney Family Museum. "Marc and Alice Davis: The Dynamic Duo of Disney." February 8, 2017. https://www.waltdisney.org/blog/marc-and-alice-davis.
+28. Amidi, Amid. "The Strange and Tragic Life of Hal Adelquist." *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.
+29. ASIFA-Hollywood Animation Archive. "Graham, Don." *Cartoon Hall of Fame*, December 15, 2005. https://ahaachof.blogspot.com/2005/12/graham-don.html. Republished as "Biography: Don Graham," *AnimationResources.org*, https://animationresources.org/biography-don-graham/.
+30. California Institute of the Arts. "Chouinard Art Institute." https://calarts.edu/history/chouinard-art-institute.
+31. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
+32. D23. "Art School Formed at Disney Studio with Donald Graham Serving as Teacher." *This Day in Disney History*, November 15, 1932. https://d23.com/this-day/art-school-formed-at-disney-studio-with-donald-graham-serving-as-teacher/.
+33. Friedman, Jake. "Art Babbitt: A Class of His Own." *Animation World Network*, May 12, 2011. https://www.awn.com/animationworld/art-babbitt-class-his-own.
+34. Graham, Donald H. "Donald W. Graham." 2005. http://www.donaldwgraham.com/.
+35. Korkis, Jim. "In His Own Words: Frank Lloyd Wright on 'Fantasia.'" *Cartoon Research*, December 16, 2022. https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/.
+36. Los Angeles Conservancy. "Chouinard (L.A. New Times Western School)." https://www.laconservancy.org/learn/historic-places/chouinard-l-a-new-times-western-school/.
+37. The Walt Disney Family Museum. "Marc and Alice Davis: The Dynamic Duo of Disney." February 8, 2017. https://www.waltdisney.org/blog/marc-and-alice-davis.

@@ -52,7 +52,7 @@ However, during the production of *The Legend of Johnny Appleseed* (1948), Walt 
 
 This depiction aligns precisely with Swedenborg’s **Pneumatology** (doctrine of spirits). In *Heaven and Hell*, Swedenborg writes:
 
-"There is not a single angel in the universal heaven who was created such from the beginning... but all are from the human race."
+"in the entire heaven there is not a single angel who was created such from the beginning, nor in hell any devil who was created an angel of light and cast down; but that all, both in heaven and in hell, are from the human race" (*Heaven and Hell* §311).
 
 By depicting the angel as a "frontier spirit"—a man who lived, died, and continued to exist in a spiritual body with his personality intact—Disney rejected the "Sunday School" angelology in favor of a specifically Swedenborgian view of the afterlife. This was not a visual gag; it was a character choice defended by the studio in correspondence with the Swedenborgian church.7 Walt’s approval of this "human angel" suggests a personal alignment with the idea that the spiritual world is a continuation of the natural human experience, a core tenet of the New Church that separates it from mainstream orthodoxy.
 
@@ -113,7 +113,7 @@ The studio, he wrote, had researched the real Chapman extensively.
 
 ### **4.2 The "Blessings Three" Code**
 
-Knowing that the Hays Code and commercial viability prevented them from making an explicitly sectarian film, the studio engaged in a sophisticated act of theological encoding. The film’s theme song, "The Lord is Good to Me," contains the refrain:
+Knowing that commercial viability prevented them from making an explicitly sectarian film, the studio engaged in a sophisticated act of theological encoding. The film’s theme song, "The Lord is Good to Me," contains the refrain:
 
 "He left his blessings three: Love, and Faith, and the Apple Tree."
 
@@ -135,7 +135,7 @@ Walt Disney’s personal involvement is most visible in his hiring practices. He
 
 ### **5.1 Carl Carmer: The Historian of the "Burned-Over District"**
 
-Walt Disney personally hired **Carl Carmer** as the "Folklore Consultant" for *Melody Time* and *The Legend of Sleepy Hollow*.7 Carmer was not a generic children's writer; he was a serious academic historian of upstate New York, a region known as the **"Burned-Over District"** because it was swept by so many religious revivals (Mormonism, Spiritualism, Swedenborgianism) in the 19th century.15
+Walt Disney personally hired **Carl Carmer** as the "Folklore Consultant" for *Melody Time*.7 Carmer was not a generic children's writer; he was a serious academic historian of upstate New York, a region known as the **"Burned-Over District"** because it was swept by so many religious revivals (Mormonism, Spiritualism, Swedenborgianism) in the 19th century.15
 
 Carmer was an expert on American esoteric sects; his books covered the **Koreshan Unity** (a Hollow Earth cult based on Swedenborgian cosmology) and Mormon origins.15
 
@@ -143,13 +143,13 @@ Carmer was an expert on American esoteric sects; his books covered the **Koresha
 
 ### **5.2 Mary Blair and the Wayfarers Chapel**
 
-**Mary Blair** (née Robinson), the stylist who defined the look of *Cinderella*, *Alice in Wonderland*, and *Peter Pan*, provides the strongest link to institutional Swedenborgianism.
+**Mary Blair** (née Robinson), the stylist who defined the look of *Cinderella*, *Alice in Wonderland*, and *Peter Pan*, provides the strongest link between the studio's look and its Swedenborgian material.
 
-* **Confirmation:** Mary Blair was confirmed into the Swedenborgian Church in 1973\.23  
-* **Location:** She lived in Palos Verdes, home of the **Wayfarers Chapel** (The Glass Church).  
+* **The *Appleseed* Film:** Blair was art supervisor of *Johnny Appleseed* (1948), and Hal Adelquist, who answered the Swedenborgian librarian Florence Murdoch about it, called her a friend and "close working associate for many years" (Adelquist, 23 May 1966, reproduced in Amidi 2010). The "Mrs. Mary Blair" confirmed at the Wayfarers Chapel in 1973 was a namesake, Mrs. William Blair of Torrance; the artist had moved to Soquel in 1970 (Canemaker 2014).23  
+* **Location:** In 1934 Lee Blair painted Mary on a Palos Verdes bluff (Bawden-Davis 2016), the coast of the later **Wayfarers Chapel** (The Glass Church).  
 * **Architecture:** The Wayfarers Chapel was designed by **Lloyd Wright** (Frank Lloyd Wright’s son) as a National Memorial to Swedenborg.24 It is a masterpiece of "Organic Architecture," designed to blur the line between the indoors (spirit) and the outdoors (nature)—a physical manifestation of the Doctrine of Correspondences.
 
-**Insight:** Mary Blair’s art—characterized by flatness, emotional color, and a rejection of Renaissance perspective—is a visual application of Swedenborgian aesthetics (seeing the spiritual *in* the natural, rather than the natural as a separate solid). Her eventual confirmation suggests that her artistic vision at Disney was an expression of a lifelong spiritual affinity, one that Walt Disney championed and protected against more realistic/materialistic animators. Walt didn't just like her art; he liked her *vision*, which was fundamentally correspondential.
+**Insight:** Mary Blair’s art—characterized by flatness, emotional color, and a rejection of Renaissance perspective—is a visual application of Swedenborgian aesthetics (seeing the spiritual *in* the natural, rather than the natural as a separate solid). Her artistic vision at Disney was an expression of a spiritual affinity that Walt Disney championed and protected against more realistic/materialistic animators. Walt didn't just like her art; he liked her *vision*, which was fundamentally correspondential.
 
 ## ---
 
@@ -169,7 +169,7 @@ Wright told them:
 
 ### **6.2 The Wayfarers Chapel as a Hub**
 
-Decades later, Lloyd Wright (Frank’s son) built the **Wayfarers Chapel** in Palos Verdes.25 This chapel became a spiritual and social hub for the creative class in Los Angeles, including Disney artists like Mary Blair. It stands as a physical testament to the entanglement of the Disney aesthetic (nature, light, organic form) and Swedenborgian theology. Walt’s artists were getting married in a Swedenborgian temple designed by the son of the man who told Walt he was the future of art. The circle was closed.
+Decades later, Lloyd Wright (Frank’s son) built the **Wayfarers Chapel** in Palos Verdes.25 This chapel became a spiritual and social hub for the creative class in Los Angeles. It stands as a physical testament to the entanglement of the Disney aesthetic (nature, light, organic form) and Swedenborgian theology. Hollywood was getting married in a Swedenborgian temple designed by the son of the man who told Walt he was the future of art. The circle was closed.
 
 ## ---
 
@@ -212,7 +212,7 @@ Walt Disney did not build a church; he built a studio. But in doing so, he creat
 | :---- | :---- | :---- | :---- |
 | **Hal Adelquist** | Murdoch Correspondence 7 | Admitted "extensive research" into Chapman's life. | Confirms studio knowledge of sectarian theology. |
 | **Carl Carmer** | Folklore Consultant 18 | Expert on "Burned-Over District" & esoteric sects. | Provided deep historical context for *Appleseed*. |
-| **Mary Blair** | Confirmed 1973 23 | Member of Wayfarers Chapel (New Church). | Defined "Golden Age" aesthetic (Influx/Color). |
+| **Mary Blair** | Art supervisor, *Johnny Appleseed* (1948) | Adelquist's close associate; painted the Swedenborgian film. | Defined "Golden Age" aesthetic (Influx/Color). |
 | **Walt Disney** | "Deeds Rather Than Words" 1 | Matches Doctrine of Life/Uses. | Established studio's moral/functional ethos. |
 | **Walt Disney** | "Mind is the Pilot" Memo 9 | Matches Doctrine of Influx (Cause/Effect). | Foundation of Disney Animation ("Illusion of Life"). |
 | **Frank Lloyd Wright** | 1939 Studio Visit 28 | Deeply influenced by Swedenborg (via Sullivan). | Validated abstract/organic animation (*Fantasia*). |
@@ -249,3 +249,7 @@ Walt Disney did not build a church; he built a studio. But in doing so, he creat
 26. In His Own Words: Frank Lloyd Wright on “Fantasia” | \- Cartoon Research, accessed on January 29, 2026, [https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/](https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/)  
 27. Books That Influenced Disney \- Mouse Planet, accessed on January 29, 2026, [https://www.mouseplanet.com/12803/Books\_That\_Influenced\_Disney](https://www.mouseplanet.com/12803/Books_That_Influenced_Disney)  
 28. Excerpt from The Science of Mind Collection | Penguin Random House Canada, accessed on January 29, 2026, [https://www.penguinrandomhouse.ca/books/354135/the-science-of-mind-collection-by-ernest-holmes/excerpt](https://www.penguinrandomhouse.ca/books/354135/the-science-of-mind-collection-by-ernest-holmes/excerpt)
+29. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).  
+30. Adelquist, Hal. Letter to David Swift, May 23, 1966. Reproduced in Amid Amidi, "The Strange and Tragic Life of Hal Adelquist," *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.  
+31. Bawden-Davis, Julie. "Hilbert Museum of California Art." *Old Towne Orange Plaza Review*, March 16, 2016. https://www.orangereview.com/public/article/51/hilbert-museum-of-california-art.  
+32. Canemaker, John. *The Art and Flair of Mary Blair: An Appreciation.* Updated ed. New York: Disney Editions, 2014.  

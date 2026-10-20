@@ -6,7 +6,7 @@ The cultural hegemony of the Walt Disney Studio, spanning nearly a century of gl
 
 This report investigates the hypothesis that the "Disney Magic"—the specific quality that distinguishes Disney animation from its competitors—is structurally isomorphic to the theology of Emanuel Swedenborg (1688–1772), specifically the Doctrine of Correspondences and the Doctrine of Influx. It posits that this alignment was not merely the result of ambient Romanticism but was actively cultivated, encoded, and maintained by a lineage of "conscious gatekeepers." These figures, ranging from department heads to art directors, possessed direct biographical and intellectual links to the Church of the New Jerusalem (Swedenborgianism) and its adjacent metaphysical movements.
 
-We identify the Palos Verdes peninsula in Southern California as a geographical locus of this spiritual transmission. Specifically, the **Wayfarers Chapel** (the "Glass Church"), designed by Lloyd Wright as a national memorial to Swedenborg, became the spiritual home of the studio's premier stylist. By tracing the documented ties of key personnel—Mary Blair's confirmation and service at the chapel, and her long friendship with Hal Adelquist, the studio's correspondent on *Johnny Appleseed*—we reveal a "Palos Verdes Nexus" in which the Disney aesthetic and the Swedenborgian church met.
+We identify the Palos Verdes peninsula in Southern California as a geographical locus of this spiritual transmission. Specifically, the **Wayfarers Chapel** (the "Glass Church"), designed by Lloyd Wright as a national memorial to Swedenborg, stands on the coast where Lee Blair painted the studio's future premier stylist in 1934, and its architect was the son of the Frank Lloyd Wright who lectured Disney's artists in 1939. By tracing the documented ties of key personnel—Mary Blair's long friendship with Hal Adelquist, the studio's correspondent on *Johnny Appleseed*, and the Wright family's link to the studio—we reveal a "Palos Verdes Nexus" in which the Disney aesthetic and the Swedenborgian church's architecture expressed the same correspondential vision.
 
 Finally, this report applies this pneumatological framework to the studio’s current centennial crisis. We argue that the narrative turbulence surrounding the *Snow White* (2025) production—including the dismissal of executives, the extensive reshoots, and the reintroduction of "magical" elements—represents a struggle to restore the studio's traditional theological structure following the failure of *Wish* (2023), a film that inadvertently inverted the studio's core metaphysical laws.
 
@@ -91,29 +91,29 @@ The spiritual hub of this community is the **Wayfarers Chapel**, designed by **L
 
 Its design—a glass sanctuary nestled in redwoods—is a literal architectural expression of the Doctrine of Correspondences, erasing the boundary between the "natural" (the forest/ocean) and the "spiritual" (the sanctuary/worship). Lloyd Wright found himself "in complete accord with the positive outlook of the Swedenborgian Church and its emphasis on harmony between God's natural world and the inner world of mind and spirit," and drew the "tree chapel" from an experience beneath the redwoods of northern California (Wayfarers Chapel n.d.), mirroring the Swedenborgian view that nature is the "ultimate" of the Divine.
 
-The chapel became a magnet for the creative class of Los Angeles. It hosted weddings for individuals connected to the entertainment industry, including **Jayne Mansfield** (1958), **Dennis Hopper** (1989), and **Brian Wilson** (Wayne n.d.). More significantly, it became the spiritual home of the studio's premier stylist.
+The chapel became a magnet for the creative class of Los Angeles. It hosted weddings for individuals connected to the entertainment industry, including **Jayne Mansfield** (1958), **Dennis Hopper** (1989), and **Brian Wilson** (Wayne n.d.). It also ties the Wayfarers Chapel to the studio through the Wright family: Lloyd Wright's father, Frank Lloyd Wright, had lectured Disney's artists on "organic" design in 1939 (Korkis 2022).
 
 ### **4.2 Mary Blair: The Visual Theologian**
 
 **Mary Blair** (née Robinson), the color stylist responsible for the look of *Cinderella*, *Alice in Wonderland*, and *Peter Pan*, is the most significant link in the Palos Verdes Nexus.
 
-* **The Confirmation:** *The Messenger* (the Swedenborgian Church newsletter) records that **"Mrs. Mary Blair was confirmed into the Swedenborgian Church on December 23rd at the Wayfarers' Chapel"** (*The Messenger*, February 1974). Two years later the denomination's Council approved the appointment of Mrs. Mary Blair as a new member of the chapel's Board of Managers, for a term running to 1980 (General Convention 1976).
 * **The Aesthetic:** Blair’s art style—characterized by flatness, luminosity, and the emotional color scripting of the environment—is a visual application of Swedenborgian "Influx." In her work, the environment is not a static backdrop but a dynamic spiritual substance that changes to reflect the mood (spirit) of the scene. Her bond with the Palos Verdes coast was early: in 1934 her husband Lee Blair painted her, in *Mary by the Sea*, standing on a bluff overlooking the peninsula when its hills held no houses (Bawden-Davis 2016; Ballard 2018).
+* **The Namesake at the Chapel:** The chapel's own records hold a different Mary Blair. "Mrs. Mary Blair was confirmed into the Swedenborgian Church on December 23rd at the Wayfarers' Chapel" (*The Messenger*, February 1974); she wrote that she had come to the chapel "a year ago, looking for spiritual guidance" and attended its Sunday services (M. Blair 1974), and she later served as secretary of its Board of Managers as Mrs. William Blair, of Torrance (General Convention 1976, 1978). The artist had moved with Lee from Great Neck to Soquel, in northern California, in 1970, and her funeral in 1978 was held at an Episcopal church in Capitola (Canemaker 2014).
 
 ### **4.3 The Community of Practice: Neighbors and Colleagues**
 
-Blair's church life did not stand apart from her studio life. Hal Adelquist, the Story Department manager who answered Florence Murdoch in 1948, wrote in 1966 that "Mary and I are friends and close working associates for many years, including the Disney daze...'Alice', 'Pan', 'Cindy' etc." (Adelquist, 23 May 1966, reproduced in Amidi 2010).
+Blair's studio friendships carried the *Johnny Appleseed* circle forward. Hal Adelquist, the Story Department manager who answered Florence Murdoch in 1948, wrote in 1966 that "Mary and I are friends and close working associates for many years, including the Disney daze...'Alice', 'Pan', 'Cindy' etc." (Adelquist, 23 May 1966, reproduced in Amidi 2010).
 
 **Table 2: The Palos Verdes Nexus – Documented Ties**
 
 | Figure | Role | Palos Verdes / Wayfarers Connection | Swedenborgian/Spiritual Link |
 | :---- | :---- | :---- | :---- |
-| **Mary Blair** | Art Supervisor/Stylist | Confirmed at Wayfarers Chapel (1973); Board of Managers (appointed 1976) | Confirmed Swedenborgian (*The Messenger*, February 1974) |
+| **Mary Blair** | Art Supervisor/Stylist | Painted by Lee Blair on the Palos Verdes cliffs (*Mary by the Sea*, 1934) | Art supervisor of *Johnny Appleseed* (1948); aesthetic of "Influx" |
 | **Lee Blair** | Artist (*Fantasia*, *Saludos Amigos*) | Painted *Mary by the Sea* (1934) on the Palos Verdes cliffs | Husband of Mary Blair |
 | **Hal Adelquist** | Story Department Manager | Friend and "close working associate" of Mary Blair (1966) | Answered the Swedenborgian librarian Florence Murdoch on *Johnny Appleseed* (1948) |
-| **Lloyd Wright** | Architect | Designed Wayfarers Chapel (1949–1951) | "In complete accord" with the Swedenborgian Church's outlook |
+| **Lloyd Wright** | Architect | Designed Wayfarers Chapel (1949–1951) | "In complete accord" with the Swedenborgian Church's outlook; son of Frank Lloyd Wright, who lectured the studio in 1939 |
 
-This concentration suggests a "community of practice" where the aesthetic and spiritual values of the Wayfarers Chapel (nature as spirit, organic architecture) permeated the lives of the studio's elite.
+This concentration suggests a "community of practice" where the aesthetic and spiritual values of the Wayfarers Chapel (nature as spirit, organic architecture) ran parallel to the values of the studio's elite.
 
 ## **V. The Carriers of the Flame: Transmission in the Post-Walt Era**
 
@@ -180,10 +180,10 @@ The evidence assembled supports the hypothesis that the Walt Disney Studio has f
 
 * **The Foundation:** Don Graham and Walt Disney codified principles compatible with the Doctrine of Influx ("The Mind is the Pilot") as the industrial physics of animation—though whether they knew the theological parallel is unknown.  
 * **The Confirmation (1948):** Hal Adelquist and Carl Carmer demonstrably engaged with Swedenborgian content in *Johnny Appleseed*, showing the studio knew Chapman's religious identity.  
-* **The Sanctuary (post-1949):** The Palos Verdes Nexus, centered on the **Wayfarers Chapel**, provided a documented spiritual and aesthetic home for key artists like Mary Blair.  
+* **The Sanctuary (post-1949):** The Palos Verdes Nexus, centered on the **Wayfarers Chapel**, gave the Swedenborgian church an architecture of the same correspondential vision that Mary Blair painted for the studio.  
 * **The Future:** The 2025 *Snow White* appears to represent a course correction after a period of deviation (*Wish*)—whether this is conscious theological return or intuitive aesthetic return is unclear.
 
-The "Gatekeepers" identified with varying degrees of certainty include Hal Adelquist (documented), Mary Blair (documented), Carl Carmer (documented expertise), and Walt Stanchfield (documented pedagogy). The question of who performed the *original* encoding in 1935-1937—before these figures achieved their positions of influence—remains open. They built a "Glass Church" out of celluloid and pixels, but someone laid the foundation before them. The current executives—Greenbaum, Platt, and Iger—are not theologians, but they are custodians of a machine that only works when it follows the specific laws of its original design. They have realized that when you break the Mirror, the Magic dies. The dismantling of the physical Wayfarers Chapel in 2024 due to landslides (Wayfarers Chapel n.d.) serves as a poignant, correspondential symbol for the studio's own precarious position: a spiritual foundation threatening to slide into the sea, requiring desperate measures to preserve the structure.
+The "Gatekeepers" identified with varying degrees of certainty include Hal Adelquist (documented), Mary Blair (documented aesthetic and *Appleseed* role), Carl Carmer (documented expertise), and Walt Stanchfield (documented pedagogy). The question of who performed the *original* encoding in 1935-1937—before these figures achieved their positions of influence—remains open. They built a "Glass Church" out of celluloid and pixels, but someone laid the foundation before them. The current executives—Greenbaum, Platt, and Iger—are not theologians, but they are custodians of a machine that only works when it follows the specific laws of its original design. They have realized that when you break the Mirror, the Magic dies. The dismantling of the physical Wayfarers Chapel in 2024 due to landslides (Wayfarers Chapel n.d.) serves as a poignant, correspondential symbol for the studio's own precarious position: a spiritual foundation threatening to slide into the sea, requiring desperate measures to preserve the structure.
 
 ## VIII. Works Cited
 
@@ -191,57 +191,61 @@ The "Gatekeepers" identified with varying degrees of certainty include Hal Adelq
 
 1. Adelquist, Hal. Letter to David Swift, May 23, 1966. Reproduced in Amid Amidi, "The Strange and Tragic Life of Hal Adelquist," *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.
 2. Adelquist, Hal. Letter to Florence Murdoch, June 23, 1948. Quoted in Fryeburg New Church Assembly, "Florence Murdoch," and in Howard Means, *Johnny Appleseed: The Man, the Myth, the American Story* (New York: Simon & Schuster, 2011).
-3. Disney, Walt. Inter-office communication to Don Graham, December 23, 1935. Reproduced in Shamus Culhane, *Talking Animals and Other People* (New York: Da Capo Press, 1998), 117–127, and in Walt Stanchfield, "The Disney Tradition," September 24, 1995, http://www.animationmeat.com/pdf/nineoldmen/MemoFromWalt.pdf.
-4. General Convention of the New Jerusalem in the United States of America. *Journal of the General Convention of the New Jerusalem*, 1976.
-5. Graham, Don. "Animation of Forces vs. Animation of Forms as an Approach to Animation … Live Action Fall." Class on Action Analysis, Walt Disney Studio, June 21, 1937. Typescript transcript, collection of Hans Perk. Published at *A. Film L.A.*, March 2, 2009. http://afilmla.blogspot.com/2009/03/animating-forms-vs-forces-action.html.
-6. Haley, W. D. "Johnny Appleseed: A Pioneer Hero." *Harper's New Monthly Magazine* 43, no. 258 (November 1871): 830–836.
-7. *The Messenger* (Swedenborgian Church). February 1974. https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf.
-8. Stanchfield, Walt. *Drawn to Life: 20 Golden Years of Disney Master Classes.* Edited by Don Hahn. 2 vols. Burlington, MA: Focal Press, 2009. 2nd ed., Boca Raton, FL: CRC Press, 2024.
-9. Stanchfield, Walt. *Gesture Drawing for Animation.* Edited by Leo Brodie. Compilation of Walt Disney Feature Animation class handouts, n.d. http://www.floobynooby.com/ICAN3211/Gesture_Drawing_for_Animation.pdf.
-10. Swedenborg, Emanuel. *Divine Providence* (*Angelic Wisdom concerning Divine Providence*). Translated by William F. Wunsch. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+3. Blair, Mary [Mrs. William Blair]. "Wayfarer's Point of View." *The Messenger* (Swedenborgian Church), June 1974, 102. https://swedenborg.org/wp-content/uploads/2023/01/1974-06-Messenger.pdf.
+4. Disney, Walt. Inter-office communication to Don Graham, December 23, 1935. Reproduced in Shamus Culhane, *Talking Animals and Other People* (New York: Da Capo Press, 1998), 117–127, and in Walt Stanchfield, "The Disney Tradition," September 24, 1995, http://www.animationmeat.com/pdf/nineoldmen/MemoFromWalt.pdf.
+5. General Convention of the New Jerusalem in the United States of America. *Journal of the General Convention of the New Jerusalem*, 1976.
+6. General Convention of the New Jerusalem in the United States of America. *Journal of the General Convention of Swedenborgian Churches*, June 28–July 2, 1978.
+7. Graham, Don. "Animation of Forces vs. Animation of Forms as an Approach to Animation … Live Action Fall." Class on Action Analysis, Walt Disney Studio, June 21, 1937. Typescript transcript, collection of Hans Perk. Published at *A. Film L.A.*, March 2, 2009. http://afilmla.blogspot.com/2009/03/animating-forms-vs-forces-action.html.
+8. Haley, W. D. "Johnny Appleseed: A Pioneer Hero." *Harper's New Monthly Magazine* 43, no. 258 (November 1871): 830–836.
+9. *The Messenger* (Swedenborgian Church). February 1974. https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf.
+10. Stanchfield, Walt. *Drawn to Life: 20 Golden Years of Disney Master Classes.* Edited by Don Hahn. 2 vols. Burlington, MA: Focal Press, 2009. 2nd ed., Boca Raton, FL: CRC Press, 2024.
+11. Stanchfield, Walt. *Gesture Drawing for Animation.* Edited by Leo Brodie. Compilation of Walt Disney Feature Animation class handouts, n.d. http://www.floobynooby.com/ICAN3211/Gesture_Drawing_for_Animation.pdf.
+12. Swedenborg, Emanuel. *Divine Providence* (*Angelic Wisdom concerning Divine Providence*). Translated by William F. Wunsch. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
 
 **Scholarly Works:**
 
-11. Albanese, Catherine L. *A Republic of Mind and Spirit: A Cultural History of American Metaphysical Religion.* New Haven: Yale University Press, 2007.
-12. Armstrong, Jennifer. *Why? Because We Still Like You: An Oral History of the Mickey Mouse Club.* New York: Grand Central Publishing, 2010.
-13. Besant, Annie, and C. W. Leadbeater. *Thought-Forms.* London: Theosophical Publishing House, 1901.
-14. Carmer, Carl. *Listen for a Lonesome Drum: A York State Chronicle.* New York: Farrar & Rinehart, 1936.
-15. Carmer, Carl. *Dark Trees to the Wind: A Cycle of York State Years.* New York: William Sloane Associates, 1949.
-16. Cross, Whitney R. *The Burned-over District: The Social and Intellectual History of Enthusiastic Religion in Western New York, 1800–1850.* Ithaca, NY: Cornell University Press, 1950.
-17. Gabler, Neal. *Walt Disney: The Triumph of the American Imagination.* New York: Knopf, 2006.
-18. Karlstrom, Paul J., ed. *On the Edge of America: California Modernist Art, 1900–1950.* Berkeley: University of California Press, 1996.
-19. Means, Howard. *Johnny Appleseed: The Man, the Myth, the American Story.* New York: Simon & Schuster, 2011.
+13. Albanese, Catherine L. *A Republic of Mind and Spirit: A Cultural History of American Metaphysical Religion.* New Haven: Yale University Press, 2007.
+14. Armstrong, Jennifer. *Why? Because We Still Like You: An Oral History of the Mickey Mouse Club.* New York: Grand Central Publishing, 2010.
+15. Besant, Annie, and C. W. Leadbeater. *Thought-Forms.* London: Theosophical Publishing House, 1901.
+16. Canemaker, John. *The Art and Flair of Mary Blair: An Appreciation.* Updated ed. New York: Disney Editions, 2014.
+17. Carmer, Carl. *Listen for a Lonesome Drum: A York State Chronicle.* New York: Farrar & Rinehart, 1936.
+18. Carmer, Carl. *Dark Trees to the Wind: A Cycle of York State Years.* New York: William Sloane Associates, 1949.
+19. Cross, Whitney R. *The Burned-over District: The Social and Intellectual History of Enthusiastic Religion in Western New York, 1800–1850.* Ithaca, NY: Cornell University Press, 1950.
+20. Gabler, Neal. *Walt Disney: The Triumph of the American Imagination.* New York: Knopf, 2006.
+21. Karlstrom, Paul J., ed. *On the Edge of America: California Modernist Art, 1900–1950.* Berkeley: University of California Press, 1996.
+22. Means, Howard. *Johnny Appleseed: The Man, the Myth, the American Story.* New York: Simon & Schuster, 2011.
 
 **Internal Library Documents:**
 
-20. [The Animating Spirit: A Cultural History of Swedenborgian Thought at the Walt Disney Studio](The%20Animating%20Spirit_%20A%20Cultural%20History%20of%20Swedenborgian%20Thought%20at%20the%20Walt%20Disney%20Studio.md). The synthesis of the studio's Swedenborgian lineage from which this history's personnel and *Snow White* threads are drawn.
-21. [The Apple and the Angel: An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's *The Legend of Johnny Appleseed*](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md). The film's generic Bible, its "Pioneer Spirit" angel and the translation of Chapman's faith for a mass audience.
-22. [The Architect of the Invisible: A Forensic Investigation into Walt Disney’s Personal Agency in the Secularization of Swedenborgian Metaphysics](The%20Architect%20of%20the%20Invisible_%20A%20Forensic%20Investigation%20into%20Walt%20Disney's%20Personal%20Agency%20in%20the%20Secularization%20of%20Swedenborgian%20Metaphysics.md). Walt's own agency in the memo and the Graham classes.
-23. [The Carriers of the Invisible: A Personnel History of Swedenborgian Thought in the Walt Disney Studio](The%20Carriers%20of%20the%20Invisible_%20A%20Personnel%20History%20of%20Swedenborgian%20Thought%20in%20the%20Walt%20Disney%20Studio.md). The companion personnel history of Graham, Carmer, Blair and the Wright connection.
-24. [The Cartographer of the Psychic Highway: Carl Carmer, The Disney Studio, and the Architecture of American Esotericism](The%20Cartographer%20of%20the%20Psychic%20Highway_%20Carl%20Carmer,%20The%20Disney%20Studio,%20and%20the%20Architecture%20of%20American%20Esotericism.md). Carmer's books on the Burned-Over District and his role as the studio's folklore consultant.
-25. [The Crown and the Comedy: The Fairy Tale Canon as the Pneumatological Core of the Walt Disney Studio](The%20Crown%20and%20the%20Comedy_%20The%20Fairy%20Tale%20Canon%20as%20the%20Pneumatological%20Core%20of%20the%20Walt%20Disney%20Studio.md). The vertical structure of the wish in *Pinocchio* and *Cinderella*, and its inversion in *Wish*.
-26. [The Mirror and the Star: A Comparative Pneumatology of Disney's *Wish* and *Snow White* (2025)](The%20Mirror%20and%20the%20Star_%20A%20Comparative%20Pneumatology%20of%20Disney's%20Wish%20and%20Snow%20White%20(2025).md). The reading of Jonathan as the active complement in the 2025 *Snow White*.
+23. [The Animating Spirit: A Cultural History of Swedenborgian Thought at the Walt Disney Studio](The%20Animating%20Spirit_%20A%20Cultural%20History%20of%20Swedenborgian%20Thought%20at%20the%20Walt%20Disney%20Studio.md). The synthesis of the studio's Swedenborgian lineage from which this history's personnel and *Snow White* threads are drawn.
+24. [The Apple and the Angel: An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's *The Legend of Johnny Appleseed*](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md). The film's generic Bible, its "Pioneer Spirit" angel and the translation of Chapman's faith for a mass audience.
+25. [The Architect of the Invisible: A Forensic Investigation into Walt Disney’s Personal Agency in the Secularization of Swedenborgian Metaphysics](The%20Architect%20of%20the%20Invisible_%20A%20Forensic%20Investigation%20into%20Walt%20Disney's%20Personal%20Agency%20in%20the%20Secularization%20of%20Swedenborgian%20Metaphysics.md). Walt's own agency in the memo and the Graham classes.
+26. [The Carriers of the Invisible: A Personnel History of Swedenborgian Thought in the Walt Disney Studio](The%20Carriers%20of%20the%20Invisible_%20A%20Personnel%20History%20of%20Swedenborgian%20Thought%20in%20the%20Walt%20Disney%20Studio.md). The companion personnel history of Graham, Carmer, Blair and the Wright connection.
+27. [The Cartographer of the Psychic Highway: Carl Carmer, The Disney Studio, and the Architecture of American Esotericism](The%20Cartographer%20of%20the%20Psychic%20Highway_%20Carl%20Carmer,%20The%20Disney%20Studio,%20and%20the%20Architecture%20of%20American%20Esotericism.md). Carmer's books on the Burned-Over District and his role as the studio's folklore consultant.
+28. [The Crown and the Comedy: The Fairy Tale Canon as the Pneumatological Core of the Walt Disney Studio](The%20Crown%20and%20the%20Comedy_%20The%20Fairy%20Tale%20Canon%20as%20the%20Pneumatological%20Core%20of%20the%20Walt%20Disney%20Studio.md). The vertical structure of the wish in *Pinocchio* and *Cinderella*, and its inversion in *Wish*.
+29. [The Mirror and the Star: A Comparative Pneumatology of Disney's *Wish* and *Snow White* (2025)](The%20Mirror%20and%20the%20Star_%20A%20Comparative%20Pneumatology%20of%20Disney's%20Wish%20and%20Snow%20White%20(2025).md). The reading of Jonathan as the active complement in the 2025 *Snow White*.
 
 **Web Sources:**
 
-27. American Film Institute. "Melody Time (1948)." *AFI Catalog of Feature Films*, n.d. https://catalog.afi.com/Catalog/MovieDetails/25636.
-28. Amidi, Amid. "The Strange and Tragic Life of Hal Adelquist." *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.
-29. Animation Obsessive Staff. "Going for Popcorn." *Animation Obsessive*, April 18, 2025. https://animationobsessive.substack.com/p/going-for-popcorn.
-30. Ballard, Mark. "Hilbert Museum of California Art." *Disney History 101*, October 5, 2018. https://www.disneyhistory101.com/new-blog-2/2018/9/8/hilbert-museum-of-california-art.
-31. Bawden-Davis, Julie. "Hilbert Museum of California Art." *Old Towne Orange Plaza Review*, March 16, 2016. https://www.orangereview.com/public/article/51/hilbert-museum-of-california-art.
-32. Cone, Justin. "Glen Keane: Duet." *Motionographer*, June 29, 2014. https://motionographer.com/2014/06/29/glean-keane-duet/.
-33. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
-34. D23. "Art School Formed at Disney Studio with Donald Graham Serving as Teacher." *This Day in Disney History*, November 15, 1932. https://d23.com/this-day/art-school-formed-at-disney-studio-with-donald-graham-serving-as-teacher/.
-35. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.
-36. Graham, Donald H. "Donald W. Graham." 2005. http://www.donaldwgraham.com/.
-37. Han, Angie. "'Snow White' Will Also Get the Live-Action Remake Treatment from Disney." */Film*, October 31, 2016. https://www.slashfilm.com/live-action-snow-white-remake/.
-38. McClintock, Pamela. "Box Office: How 'Snow White' Landed in Potential Bomb Territory." *The Hollywood Reporter*, March 25, 2025. https://www.hollywoodreporter.com/movies/movie-news/is-snow-white-box-office-bomb-1236170816/.
-39. Paluso, Marianne. "Once Upon a Time." *Christianity Today*, March 29, 2011. https://www.christianitytoday.com/ct/2011/marchweb-only/onceupon.html.
-40. Ruimy, Jordan. "Disney's 'Snow White' Undergoing More Reshoots." *World of Reel*, June 24, 2024. https://www.worldofreel.com/blog/2024/6/24/disneys-snow-white-undergoing-more-reshoots.
-41. Snow White Museum. "Hal Adelquist." *Snow White Museum*, n.d. https://snowwhitemuseum.com/about-the-film/main-titles/hal-adelquist/.
-42. Taylor, Drew. "Sean Bailey's Disney Legacy: Reanimation and Later, Exhaustion." *TheWrap*, March 6, 2024. https://www.thewrap.com/sean-bailey-disney-legacy/.
-43. Walt Disney Company. "Jared Bush Named Chief Creative Officer of Walt Disney Animation Studios." September 19, 2024. https://thewaltdisneycompany.com/news/jared-bush-walt-disney-animation-studios/.
-44. Waxman, Olivia B. "All the Controversies Surrounding Disney's *Snow White* Remake." *Time*, March 13, 2025. https://time.com/7267440/snow-white-disney-rachel-zegler-gal-gadot/.
-45. Wayfarers Chapel. "History." *Wayfarers Chapel*, n.d. https://www.wayfarerschapel.org/about/history/.
-46. Wayne, Gary. "Wayfarer's Chapel." *Seeing-Stars.com*, n.d. https://www.seeing-stars.com/Churches/Wayfarers.shtml.
-47. Zachary, Brandon. "Snow White Unnecessarily Included Two Versions of the Seven Dwarfs." *Screen Rant*, April 6, 2025. https://screenrant.com/snow-white-seven-dwarfs-group-two-versions-explainer/.
+30. American Film Institute. "Melody Time (1948)." *AFI Catalog of Feature Films*, n.d. https://catalog.afi.com/Catalog/MovieDetails/25636.
+31. Amidi, Amid. "The Strange and Tragic Life of Hal Adelquist." *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.
+32. Animation Obsessive Staff. "Going for Popcorn." *Animation Obsessive*, April 18, 2025. https://animationobsessive.substack.com/p/going-for-popcorn.
+33. Ballard, Mark. "Hilbert Museum of California Art." *Disney History 101*, October 5, 2018. https://www.disneyhistory101.com/new-blog-2/2018/9/8/hilbert-museum-of-california-art.
+34. Bawden-Davis, Julie. "Hilbert Museum of California Art." *Old Towne Orange Plaza Review*, March 16, 2016. https://www.orangereview.com/public/article/51/hilbert-museum-of-california-art.
+35. Cone, Justin. "Glen Keane: Duet." *Motionographer*, June 29, 2014. https://motionographer.com/2014/06/29/glean-keane-duet/.
+36. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
+37. D23. "Art School Formed at Disney Studio with Donald Graham Serving as Teacher." *This Day in Disney History*, November 15, 1932. https://d23.com/this-day/art-school-formed-at-disney-studio-with-donald-graham-serving-as-teacher/.
+38. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.
+39. Graham, Donald H. "Donald W. Graham." 2005. http://www.donaldwgraham.com/.
+40. Han, Angie. "'Snow White' Will Also Get the Live-Action Remake Treatment from Disney." */Film*, October 31, 2016. https://www.slashfilm.com/live-action-snow-white-remake/.
+41. McClintock, Pamela. "Box Office: How 'Snow White' Landed in Potential Bomb Territory." *The Hollywood Reporter*, March 25, 2025. https://www.hollywoodreporter.com/movies/movie-news/is-snow-white-box-office-bomb-1236170816/.
+42. Paluso, Marianne. "Once Upon a Time." *Christianity Today*, March 29, 2011. https://www.christianitytoday.com/ct/2011/marchweb-only/onceupon.html.
+43. Korkis, Jim. "In His Own Words: Frank Lloyd Wright on 'Fantasia.'" *Cartoon Research*, December 16, 2022. https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/.
+44. Ruimy, Jordan. "Disney's 'Snow White' Undergoing More Reshoots." *World of Reel*, June 24, 2024. https://www.worldofreel.com/blog/2024/6/24/disneys-snow-white-undergoing-more-reshoots.
+45. Snow White Museum. "Hal Adelquist." *Snow White Museum*, n.d. https://snowwhitemuseum.com/about-the-film/main-titles/hal-adelquist/.
+46. Taylor, Drew. "Sean Bailey's Disney Legacy: Reanimation and Later, Exhaustion." *TheWrap*, March 6, 2024. https://www.thewrap.com/sean-bailey-disney-legacy/.
+47. Walt Disney Company. "Jared Bush Named Chief Creative Officer of Walt Disney Animation Studios." September 19, 2024. https://thewaltdisneycompany.com/news/jared-bush-walt-disney-animation-studios/.
+48. Waxman, Olivia B. "All the Controversies Surrounding Disney's *Snow White* Remake." *Time*, March 13, 2025. https://time.com/7267440/snow-white-disney-rachel-zegler-gal-gadot/.
+49. Wayfarers Chapel. "History." *Wayfarers Chapel*, n.d. https://www.wayfarerschapel.org/about/history/.
+50. Wayne, Gary. "Wayfarer's Chapel." *Seeing-Stars.com*, n.d. https://www.seeing-stars.com/Churches/Wayfarers.shtml.
+51. Zachary, Brandon. "Snow White Unnecessarily Included Two Versions of the Seven Dwarfs." *Screen Rant*, April 6, 2025. https://screenrant.com/snow-white-seven-dwarfs-group-two-versions-explainer/.

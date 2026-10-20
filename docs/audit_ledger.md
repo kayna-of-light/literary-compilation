@@ -72,6 +72,9 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > and Atkinson's full text. Bring it into *The Apple and the Angel*, *Parsimony* and *Cartographer* at their audits
 > (quote the film and Atkinson; the use of Atkinson stays labelled as inference). Ask the author whether they can
 > write to the Johnny Appleseed Museum, Urbana (the Murdoch letters; any studio research notes naming Atkinson).
+> Also usable at those audits: Jackson's diary (Care 2016) for the story chronology, Perk 2010 ("Swedenborgian religious
+> views"), and the 1955 pressbook's unnamed Chapman grandniece (publicity; open). *Pinocchio*, *Fantasia* and the
+> *Whale* short were tested film against source and are **not** Swedenborg-specific — do not add them as strains.
 >
 > **Take next: the Disney campaign, one or two documents a night** (author's direction, so this is not a thematic
 > drift).
@@ -432,6 +435,12 @@ Candidates to watch for in early runs, from the corpus's history — confirm bef
 ## Run log
 
 Narrative per run — what the batch surfaced, and anything a later run should know that does not fit the tables. Newest first. Unlike the handoff block, this accumulates.
+
+### 2026-10-20 (exploration with the author, continued): other strains tested film against source
+
+The author asked for more strains, using the method that found *Appleseed*: compare what a film adds with what its source contains, then check the addition against Swedenborg's text. Recorded in the case map (Strand 1). Screens: 21 Gutenberg source books name neither Swedenborg nor the New Jerusalem; the Ames/White *Snow White* play (1912) lacks the kiss, the self-destruction and the cloud castle; the standard Disney histories (Barrier ×2, Gabler, Thomas and Johnston) never mention Swedenborg or Atkinson. *Appleseed*: Wilfred Jackson's diary (Care 2016) dates the story work (Sept 1946 onwards; new continuity Feb 1947; the angel's metred dialogue worked on with Walt) but names no source. Hans Perk, with the animation draft in hand, saw "Swedenborgian religious views" in the story (2010). A 1955 studio pressbook insert says a great-great-great-grandniece of Chapman came to the studio to relate family stories, and places Walt's maternal Call family in Huron County, Ohio, from 1825 (publicity; the grandniece unnamed). The Swedenborg Press published a centennial tribute in 1945, and three studios planned Appleseed films in February 1946 (timing only). Tested and not supported as Swedenborg-specific: *Pinocchio* (Collodi already has the arc; Disney's additions are general Christian moral vocabulary), *Fantasia*'s "Bald Mountain"/"Ave Maria" (the bell is in the score's programme), and "The Whale Who Wanted to Sing at the Met" (an animal in "whatever heaven", which *HH* §39 excludes). One diary entry was nearly misattributed: Hibler and Sears rewriting dialogue concerns *Cinderella*, not *Appleseed*.
+
+**Lesson.** A single diary sentence that appears between entries on one film can belong to another. Read the sentences around it before attaching it to a film. Among the films tested so far, *Appleseed* alone carries content that discriminates Swedenborg from general Christianity; the negatives make that contrast sharper rather than weaker.
 
 ### 2026-10-20 (exploration with the author): the *Johnny Appleseed* ending and its Swedenborgian source
 

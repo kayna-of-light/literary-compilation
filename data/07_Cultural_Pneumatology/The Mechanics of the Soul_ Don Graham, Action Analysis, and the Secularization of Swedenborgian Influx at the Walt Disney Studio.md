@@ -176,7 +176,7 @@ This report confirms the "Mind is the Pilot" memo as a verified historical docum
 8. Kandinsky, Wassily. *Concerning the Spiritual in Art.* Translated by Michael T. H. Sadler. First published in English as *The Art of Spiritual Harmony*. London: Constable, 1914.
 9. Larson, Eric. *Eric Larson Notes.* Lecture handouts, Walt Disney Studio. Internet Archive. https://archive.org/details/Eric_Larson_Notes.
 10. Plato. *Phaedrus.* Translated by Benjamin Jowett. Cited by Stephanus page.
-11. Stanchfield, Walt. *Drawn to Life: 20 Golden Years of Disney Master Classes.* Edited by Don Hahn. 2 vols. Burlington, MA: Focal Press, 2009. 2nd ed., Boca Raton, FL: CRC Press, 2024.
+11. Stanchfield, Walt. *Drawn to Life: 20 Golden Years of Disney Master Classes.* Edited by Don Hahn. 2 vols. Burlington, MA: Focal Press, 2009. 2nd ed., Boca Raton, FL: CRC Press, 2023–2024.
 12. Stanchfield, Walt. *Gesture Drawing for Animation.* Edited by Leo Brodie. Compilation of Walt Disney Feature Animation class handouts. http://www.floobynooby.com/ICAN3211/Gesture_Drawing_for_Animation.pdf.
 13. Swedenborg, Emanuel. *Divine Providence* (*Angelic Wisdom concerning Divine Providence*). Translated by William F. Wunsch. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
 14. Wright, Frank Lloyd. Talk to Disney artists, Hyperion studio, February 25, 1939. Transcript, papers of Dick Huemer. Published by Didier Ghez, *Disney History*, December 14, 2006. http://disneybooks.blogspot.com/2006/12/on-february-25-1939-at-old-hyperion.html.

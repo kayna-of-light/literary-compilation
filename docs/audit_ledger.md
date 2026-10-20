@@ -75,6 +75,10 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > Also usable at those audits: Jackson's diary (Care 2016) for the story chronology, Perk 2010 ("Swedenborgian religious
 > views"), and the 1955 pressbook's unnamed Chapman grandniece (publicity; open). *Pinocchio*, *Fantasia* and the
 > *Whale* short were tested film against source and are **not** Swedenborg-specific — do not add them as strains.
+> At the audit of *The Mirror and the Star*: its "visually citing" *Appleseed*/Blair claim and the "drifts of pure white
+> snow" quotation do not trace (map row "*Snow White* (2025)"; open [GDR] question). Atkinson's blossom-as-snow scenes
+> and the 1948 snow-to-blossom dissolve are verified (map, Atkinson rows) and may be used, the studio's use of Atkinson
+> still labelled inference.
 >
 > **Take next: the Disney campaign, one or two documents a night** (author's direction, so this is not a thematic
 > drift).
@@ -435,6 +439,12 @@ Candidates to watch for in early runs, from the corpus's history — confirm bef
 ## Run log
 
 Narrative per run — what the batch surfaced, and anything a later run should know that does not fit the tables. Newest first. Unlike the handoff block, this accumulates.
+
+### 2026-10-20 (exploration with the author, continued): the 2025 orchard and Atkinson's snowy drifts
+
+The author asked about the orchard in *Snow White* (2025). The film's own words echo the 1948 *Appleseed* lyrics (seed, sharing, "we reap what we sow", "golden sky"; Mirror: "beauty comes from deep within"), recorded in the case map. *The Mirror and the Star* §§4.4, 8.2 says Webb "visually cit[ed]" the *Appleseed*/Blair era and quotes "drifts of pure white snow in an apple orchard" from unnamed "production notes and reviews": nothing of this traces (cited reviews, Webb and crew interviews, Drive), and the published stills and 141 trailer frames show a golden, fruiting orchard with no snow or white blossom. Logged as a [GDR] question in `docs/research_questions.md`. The real "snowy drifts" are Atkinson's (1915): Johnny sleeps under the blossoming orchard and wakes "as if he thought he had died and gone to heaven"; the same orchard later holds Betty's grave under snow, with the trees' "next blooming beside the River of Life". The 1948 film, viewed frame by frame, draws the same equation: snow on the sapling rows dissolves into blossom (c. 11:43–11:56), and the death scene's blossom falls like snow and rises into drift-like clouds.
+
+**Lesson.** A quotation inside a generated report is not a source until it is found outside the report. Check it against the published images as well as the text.
 
 ### 2026-10-20 (exploration with the author, continued): the choices behind *The Lion King*
 

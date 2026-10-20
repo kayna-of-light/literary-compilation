@@ -42,7 +42,7 @@ Furthermore, the Los Angeles society was not an isolated outpost; it was connect
 
 The influence of this community extended geographically to the **Palos Verdes** peninsula, an area that would eventually host the **Wayfarers Chapel** (The Glass Church), designed by Lloyd Wright (son of Frank Lloyd Wright) as a National Memorial to Swedenborg (Wayfarers Chapel, n.d.). While the chapel itself was not completed until 1951, the "dream" of the chapel and the Swedenborgian community in Palos Verdes existed much earlier.
 
-Elizabeth Sewall Schellenberg, a Swedenborgian living in Palos Verdes in the late 1920s, conceived the idea of the chapel (Wayfarers Chapel, n.d.). Crucially, the chapel drew in key Disney artists. **Mary Blair**, the stylist responsible for the color and look of *Cinderella* and *Alice in Wonderland*, was confirmed into the Swedenborgian Church at the Wayfarers Chapel on December 23, 1973 (*The Messenger* 1974).
+Elizabeth Sewall Schellenberg, a Swedenborgian living in Palos Verdes in the late 1920s, conceived the idea of the chapel (Wayfarers Chapel, n.d.). The coast had drawn Disney artists before the chapel rose: in 1934 Lee Blair painted **Mary Blair**, later the stylist responsible for the color and look of *Cinderella* and *Alice in Wonderland*, standing on a Palos Verdes bluff (Bawden-Davis 2016).
 
 The "Palos Verdes Nexus" suggests that for at least one of the Disney creative elite, Swedenborgianism was not a fringe cult but the "church of the artist." It offered a theological framework that validated their work: if the natural world corresponds to the spiritual, then the artist’s job of creating "living" worlds is a priestly vocation. This nexus served as the "Sanctuary" where the studio's implicit theology could be practiced explicitly.
 
@@ -209,7 +209,7 @@ The investigation concludes that the transmission of Swedenborgian ideas into th
 
 **Phase I (1934–1937): Implicit Transmission.** This was driven by **Richard Creedon** and **Ted Sears**, utilizing the pedagogical tools of **Don Graham**. They likely did not view themselves as "Swedenborgian missionaries." rather, they were artists solving narrative problems. However, because they drew from a cultural reservoir saturated with Romantic, Transcendentalist, and Theosophical ideas (all downstream from Swedenborg), the solutions they found—Internal Causality, Conjunction—were structurally Swedenborgian.
 
-**Phase II (1940s): Explicit Stewardship.** This was driven by **Hal Adelquist**, in the decade when the Swedenborgians of Los Angeles laid the cornerstone of the Wayfarers Chapel (1949); Mary Blair's confirmation there in 1973 shows the same community reaching the studio's artists. By 1948, with *Johnny Appleseed*, the studio was no longer just accidentally aligning with these ideas; they were actively engaging with the source material and defending it in answer to Florence Murdoch. Adelquist, present at both ends, served as the bridge between the implicit intuition of the Golden Age and the explicit acknowledgement of the Silver Age.
+**Phase II (1940s): Explicit Stewardship.** This was driven by **Hal Adelquist**, in the decade when the Swedenborgians of Los Angeles laid the cornerstone of the Wayfarers Chapel (1949). By 1948, with *Johnny Appleseed*, the studio was no longer just accidentally aligning with these ideas; they were actively engaging with the source material and defending it in answer to Florence Murdoch. Adelquist, present at both ends, served as the bridge between the implicit intuition of the Golden Age and the explicit acknowledgement of the Silver Age.
 
 The "Disney Style," therefore, is the result of a specific theological lineage—from the "Garden of the Lord" in the Californian wilderness, through the "Action Analysis" of Chouinard, to the story meetings of Hyperion Avenue. It is the visual gospel of the New Church, encoded in celluloid, preaching that the visible world is nothing more than the obedience of the invisible spirit.
 
@@ -225,33 +225,33 @@ The "Disney Style," therefore, is the result of a specific theological lineage�
 6. Graham, Don. "Animation of Forces vs. Animation of Forms as an Approach to Animation … Live Action Fall." Class on Action Analysis, Walt Disney Studio, June 21, 1937. Typescript transcript, collection of Hans Perk. Published at *A. Film L.A.*, March 2, 2009. http://afilmla.blogspot.com/2009/03/animating-forms-vs-forces-action.html.
 7. Grimm, Jacob, and Wilhelm Grimm. "Sneewittchen." In *Kinder- und Haus-Märchen*, 7th ed., 1:264–273. Göttingen: Dieterich, 1857.
 8. *Los Angeles Times*. Church notices for the Church of the New Jerusalem, 509 South Westmoreland Avenue. November 9, 1935; December 14, 1935; February 27, 1937; October 11, 1941; March 21, 1942.
-9. *The Messenger* (Swedenborgian Church). February 1974. https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf.
-10. *The New-Church Messenger* 173, no. 9 (April 18, 1953). https://swedenborg.org/wp-content/uploads/2022/07/Messenger-v173no9_April18_1953.pdf.
-11. Roosevelt, Theodore. "John Muir: An Appreciation." *The Outlook* 109 (January 6, 1915): 27–28.
-12. Swedenborg, Emanuel. *Divine Providence* (*Angelic Wisdom concerning Divine Providence*). Translated by William F. Wunsch. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-13. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-14. Walt Disney Productions. "Suggestions and notes on Snow White." Story conference, October 9, 1934; minutes by Harry Bailey, dated October 11, 1934. Transcribed as "Story Conference of 10/09/1934," *Snow White Museum*. https://snowwhitemuseum.com/about-the-film/the-story/production-documents/story-conference-of-10-09-1934-suggestions-and-notes-on-snow-white/.
+9. *The New-Church Messenger* 173, no. 9 (April 18, 1953). https://swedenborg.org/wp-content/uploads/2022/07/Messenger-v173no9_April18_1953.pdf.
+10. Roosevelt, Theodore. "John Muir: An Appreciation." *The Outlook* 109 (January 6, 1915): 27–28.
+11. Swedenborg, Emanuel. *Divine Providence* (*Angelic Wisdom concerning Divine Providence*). Translated by William F. Wunsch. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+12. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+13. Walt Disney Productions. "Suggestions and notes on Snow White." Story conference, October 9, 1934; minutes by Harry Bailey, dated October 11, 1934. Transcribed as "Story Conference of 10/09/1934," *Snow White Museum*. https://snowwhitemuseum.com/about-the-film/the-story/production-documents/story-conference-of-10-09-1934-suggestions-and-notes-on-snow-white/.
 
 **Scholarly Works:**
 
-15. Armstrong, Jennifer. *Why? Because We Still Like You: An Oral History of the Mickey Mouse Club.* New York: Grand Central Publishing, 2010.
-16. Barrier, Michael. *The Animated Man: A Life of Walt Disney.* Berkeley: University of California Press, 2007.
-17. Barrier, Michael. *Hollywood Cartoons: American Animation in Its Golden Age.* New York: Oxford University Press, 1999.
-18. Gabler, Neal. *Walt Disney: The Triumph of the American Imagination.* New York: Knopf, 2006.
-19. Karlstrom, Paul J., ed. *On the Edge of America: California Modernist Art, 1900–1950.* Berkeley: University of California Press, 1996.
-20. Maley, Bridget, and Jody R. Stock. "Swedenborgian Church." National Historic Landmark Nomination. National Park Service, 2002. https://npgallery.nps.gov/NRHP/GetAsset/NHLS/04001154_text.
+14. Armstrong, Jennifer. *Why? Because We Still Like You: An Oral History of the Mickey Mouse Club.* New York: Grand Central Publishing, 2010.
+15. Barrier, Michael. *The Animated Man: A Life of Walt Disney.* Berkeley: University of California Press, 2007.
+16. Barrier, Michael. *Hollywood Cartoons: American Animation in Its Golden Age.* New York: Oxford University Press, 1999.
+17. Gabler, Neal. *Walt Disney: The Triumph of the American Imagination.* New York: Knopf, 2006.
+18. Karlstrom, Paul J., ed. *On the Edge of America: California Modernist Art, 1900–1950.* Berkeley: University of California Press, 1996.
+19. Maley, Bridget, and Jody R. Stock. "Swedenborgian Church." National Historic Landmark Nomination. National Park Service, 2002. https://npgallery.nps.gov/NRHP/GetAsset/NHLS/04001154_text.
 
 **Internal Library Documents:**
 
-21. [The Animating Spirit and the Hidden Temple: A Forensic Investigation into the Original Transmitter of Swedenborgian Thought at the Walt Disney Studio](The%20Animating%20Spirit%20and%20the%20Hidden%20Temple_%20A%20Forensic%20Investigation%20into%20the%20Original%20Transmitter%20of%20Swedenborgian%20Thought%20at%20the%20Walt%20Disney%20Studio.md). The companion investigation of the same candidates, with Webb Smith and Otto Englander added.
-22. [The Animating Spirit: A Cultural History of Swedenborgian Thought at the Walt Disney Studio](The%20Animating%20Spirit_%20A%20Cultural%20History%20of%20Swedenborgian%20Thought%20at%20the%20Walt%20Disney%20Studio.md). The wider cultural history in which these transmission vectors sit.
-23. [The Carriers of the Invisible: A Personnel History of Swedenborgian Thought in the Walt Disney Studio](The%20Carriers%20of%20the%20Invisible_%20A%20Personnel%20History%20of%20Swedenborgian%20Thought%20in%20the%20Walt%20Disney%20Studio.md). The personnel history of the studio's Swedenborgian connections.
-24. [The Glass Church and the Magic Mirror: A Pneumatological History of the Walt Disney Studio](The%20Glass%20Church%20and%20the%20Magic%20Mirror_%20A%20Pneumatological%20History%20of%20the%20Walt%20Disney%20Studio.md). Hal Adelquist's career and the Wayfarers Chapel in the studio's Swedenborgian network.
-25. [The Mechanics of the Soul: Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio](The%20Mechanics%20of%20the%20Soul_%20Don%20Graham,%20Action%20Analysis,%20and%20the%20Secularization%20of%20Swedenborgian%20Influx%20at%20the%20Walt%20Disney%20Studio.md). The 1935 memo, Graham's Action Analysis classes read as a secularized doctrine of influx, and Stanchfield's continuation of them.
-26. [The Parsimony Problem: A Cumulative Case Analysis of Swedenborgian Transmission at the Walt Disney Studio (1934–1948)](The%20Parsimony%20Problem_%20A%20Cumulative%20Case%20Analysis%20of%20Swedenborgian%20Transmission%20at%20the%20Walt%20Disney%20Studio%20(1934%E2%80%931948).md). The cumulative case into which Creedon's outline, the cloud castle and Adelquist's two positions enter as evidence.
+20. [The Animating Spirit and the Hidden Temple: A Forensic Investigation into the Original Transmitter of Swedenborgian Thought at the Walt Disney Studio](The%20Animating%20Spirit%20and%20the%20Hidden%20Temple_%20A%20Forensic%20Investigation%20into%20the%20Original%20Transmitter%20of%20Swedenborgian%20Thought%20at%20the%20Walt%20Disney%20Studio.md). The companion investigation of the same candidates, with Webb Smith and Otto Englander added.
+21. [The Animating Spirit: A Cultural History of Swedenborgian Thought at the Walt Disney Studio](The%20Animating%20Spirit_%20A%20Cultural%20History%20of%20Swedenborgian%20Thought%20at%20the%20Walt%20Disney%20Studio.md). The wider cultural history in which these transmission vectors sit.
+22. [The Carriers of the Invisible: A Personnel History of Swedenborgian Thought in the Walt Disney Studio](The%20Carriers%20of%20the%20Invisible_%20A%20Personnel%20History%20of%20Swedenborgian%20Thought%20in%20the%20Walt%20Disney%20Studio.md). The personnel history of the studio's Swedenborgian connections.
+23. [The Glass Church and the Magic Mirror: A Pneumatological History of the Walt Disney Studio](The%20Glass%20Church%20and%20the%20Magic%20Mirror_%20A%20Pneumatological%20History%20of%20the%20Walt%20Disney%20Studio.md). Hal Adelquist's career and the Wayfarers Chapel in the studio's Swedenborgian network.
+24. [The Mechanics of the Soul: Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio](The%20Mechanics%20of%20the%20Soul_%20Don%20Graham,%20Action%20Analysis,%20and%20the%20Secularization%20of%20Swedenborgian%20Influx%20at%20the%20Walt%20Disney%20Studio.md). The 1935 memo, Graham's Action Analysis classes read as a secularized doctrine of influx, and Stanchfield's continuation of them.
+25. [The Parsimony Problem: A Cumulative Case Analysis of Swedenborgian Transmission at the Walt Disney Studio (1934–1948)](The%20Parsimony%20Problem_%20A%20Cumulative%20Case%20Analysis%20of%20Swedenborgian%20Transmission%20at%20the%20Walt%20Disney%20Studio%20(1934%E2%80%931948).md). The cumulative case into which Creedon's outline, the cloud castle and Adelquist's two positions enter as evidence.
 
 **Web Sources:**
 
+26. Bawden-Davis, Julie. "Hilbert Museum of California Art." *Old Towne Orange Plaza Review*, March 16, 2016. https://www.orangereview.com/public/article/51/hilbert-museum-of-california-art.
 27. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
 28. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.
 29. PBS. "God in America: Timeline." *God in America*, n.d. https://www.pbs.org/godinamerica/timeline/.

@@ -7,7 +7,7 @@ However, recent forensic analysis of the production history of the 1948 film *Th
 This report responds to a critical and disruptive query: If the transmission of Swedenborgian thought in *Johnny Appleseed* was active, intentional, and theologically precise, how deep does this current run in the studio's foundation? Was this an isolated instance of historical diligence, or does it point to a "core ethos" that informed the Disney aesthetic and organizational culture from the ground up?  
 To answer this, we must look beyond the surface of the films to the "subtext of the personnel." We must examine the pedagogical philosophies that trained the animators, the architectural spaces that housed their creative communities, and the biographical lineages of the artists themselves. This investigation postulates that the "Disney Style"—the specific method of animating movement to create the "Illusion of Life"—is, in its structural mechanics, a secularized application of the theology of Emanuel Swedenborg (1688–1772).  
 Swedenborg’s "Doctrine of Correspondences" posits that every natural object is the physical manifestation of a spiritual cause; the "natural world" is a theater representing the "spiritual world." This report argues that Walt Disney, in his obsessive quest to solve the "Crisis of Ensoulment"—the technical problem of how to make a series of static drawings appear to have an inner life—actively sought out artists, teachers, and consultants who possessed a vocabulary for the invisible. He found this vocabulary in a network of individuals deeply connected to the Church of the New Jerusalem (Swedenborgianism) and its metaphysical offshoots.  
-From the "Action Analysis" classes of Don Graham, which taught animators to draw the "invisible force" rather than the "visible form," to the eventual conversion of the studio’s premier stylist (Mary Blair), the evidence suggests that the Disney Studio was not merely a factory for cartoons. It was a laboratory for the industrial application of Swedenborgian metaphysics. The "Magic" was not a marketing term; it was a method.
+From the "Action Analysis" classes of Don Graham, which taught animators to draw the "invisible force" rather than the "visible form," to the correspondential vision of the studio’s premier stylist (Mary Blair), the evidence suggests that the Disney Studio was not merely a factory for cartoons. It was a laboratory for the industrial application of Swedenborgian metaphysics. The "Magic" was not a marketing term; it was a method.
 
 ## **II. The Theoretical Framework: From Mechanics to Metaphysics**
 
@@ -92,15 +92,15 @@ Graham’s classes, whose heir Walt Stanchfield titled one of his own lectures "
 
 ## **VI. The Carriers: Mary Blair**
 
-The "core ethos" was further cemented by key personnel who had direct, familial, or religious ties to the Swedenborgian church. These were not low-level employees; they were the architects of the Disney style.
+The "core ethos" was further cemented by key personnel whose work and friendships tied them to the Swedenborgian current. These were not low-level employees; they were the architects of the Disney style.
 
-### **6.1 Mary Blair: The Confirmed Believer**
+### **6.1 Mary Blair: The Painter of Influx**
 
-**Mary Blair** (née Robinson) is the stylist responsible for the "Disney Look" of the 1950s (*Cinderella*, *Alice in Wonderland*, *Peter Pan*). While previous research noted her confirmation into the Swedenborgian Church in 1973 (*The Messenger*, February 1974), the timeline suggests this was the culmination of a lifelong affinity.
+**Mary Blair** (née Robinson) is the stylist responsible for the "Disney Look" of the 1950s (*Cinderella*, *Alice in Wonderland*, *Peter Pan*). The "Mrs. Mary Blair" whom the Swedenborgian Church confirmed at the Wayfarers Chapel in 1973 (*The Messenger*, February 1974) was a namesake: Mrs. William Blair of Torrance, a parishioner who later served as secretary of the chapel's Board of Managers (General Convention 1976, 1978). The artist had moved to Soquel, in northern California, in 1970, and her funeral in 1978 was held at an Episcopal church (Canemaker 2014). Her tie to the Swedenborgian current runs through her work and her colleagues.
 
 * **The *Appleseed* Nexus:** Blair was the Art Supervisor for *Johnny Appleseed* in 1948, credited for color and styling on *Melody Time* (American Film Institute n.d.). She worked directly on the film that Carmer advised on and Murdoch critiqued. Her visual design for the film—where the boundary between the natural and spiritual worlds is non-existent (clouds becoming apple blossoms, Johnny walking into the sky; *The Legend of Johnny Appleseed* 1948)—is pure "Influx." Adelquist himself counted her among his friends and "close working associates for many years, including the Disney daze...'Alice', 'Pan', 'Cindy' etc." (Adelquist, 23 May 1966, reproduced in Amidi 2010).  
-* **The Palos Verdes Community:** Blair's church was the **Wayfarers Chapel** in Palos Verdes, the "Glass Church" designed by Lloyd Wright (Frank Lloyd Wright's son) as a national memorial to Swedenborg (Wayfarers Chapel n.d.). In 1976 the denomination's Council appointed Mrs. Mary Blair to the chapel's Board of Managers (General Convention 1976).  
-* **Aesthetic Alignment:** Blair’s art rejects Renaissance perspective (which emphasizes the material separation of objects) in favor of flatness and color (which emphasizes emotional/spiritual state). Her conversion in 1973 at the Wayfarers Chapel was likely the formalization of the worldview she had been painting for Disney for thirty years.
+* **The Palos Verdes Coast:** In 1934 Lee Blair painted Mary standing on a bluff over the Palos Verdes peninsula (*Mary by the Sea*; Bawden-Davis 2016; Ballard 2018), the coast where the **Wayfarers Chapel**, the "Glass Church" designed by Lloyd Wright (Frank Lloyd Wright's son) as a national memorial to Swedenborg, would rise in 1949–1951 (Wayfarers Chapel n.d.).  
+* **Aesthetic Alignment:** Blair’s art rejects Renaissance perspective (which emphasizes the material separation of objects) in favor of flatness and color (which emphasizes emotional/spiritual state). The worldview she painted for Disney for thirty years is the one the Swedenborgian chapel built in glass and redwood.
 
 ## **VII. The Architecture of Spirit: The Wright Connection**
 
@@ -114,7 +114,7 @@ Wright, whose mentor Louis Sullivan found in Swedenborg the stylistic basis for 
 ### **7.2 The Wayfarers Chapel as a Hub**
 
 Decades later, Wright’s son **Lloyd Wright** built the **Wayfarers Chapel** (1951) in Palos Verdes, on the coast where Lee Blair had painted Mary in 1934 (Bawden-Davis 2016; Ballard 2018). The chapel was a Swedenborgian mission funded by the church (Wayfarers Chapel n.d.). Its design—glass and redwood—was a literal attempt to create a space where nature and spirit merged.  
-This chapel became a social and spiritual hub for the Los Angeles creative class. It hosted weddings for figures from the entertainment industry (Wayne n.d.) and served as a visible symbol of Swedenborgian aesthetics. The fact that Mary Blair was confirmed there suggests that for the Disney elite, Swedenborgianism was not a fringe cult but the "church of the artist"—a faith that validated their desire to see the spiritual *in* the natural.
+This chapel became a social and spiritual hub for the Los Angeles creative class. It hosted weddings for figures from the entertainment industry (Wayne n.d.) and served as a visible symbol of Swedenborgian aesthetics. Its architecture suggests that for the creative class of Los Angeles, Swedenborgianism was not a fringe cult but the "church of the artist"—a faith that validated their desire to see the spiritual *in* the natural.
 
 ## **VIII. Synthesis: The "Core Ethos" of the Studio**
 
@@ -145,7 +145,7 @@ Through the "Active Seeking" of consultants like Carl Carmer and the "Structural
 | Carrier/Vector | Role/Artifact | Swedenborgian Connection | Impact on Studio Ethos |
 | :---- | :---- | :---- | :---- |
 | **Carl Carmer** | Folklore Consultant (*Melody Time*) | Historian of "Burned-Over District"; expert on esoteric sects. | Ensured *Johnny Appleseed* retained New Church theology (Angelology, Charity); bridged history and folklore. |
-| **Mary Blair** | Art Supervisor / Stylist | **Confirmed Swedenborgian** (1973); Wayfarers Chapel Board of Managers (1976). | Visualized "Influx" (blurring spirit/nature) in studio style; defined the "Golden Age" look with correspondential aesthetics. |
+| **Mary Blair** | Art Supervisor / Stylist | Art supervisor of *Johnny Appleseed* (1948); friend of Adelquist. | Visualized "Influx" (blurring spirit/nature) in studio style; defined the "Golden Age" look with correspondential aesthetics. |
 | **Don Graham** | Art Instructor | Pedagogy of "Forces vs. Forms" (*Action Analysis*). | Secularized "Influx" doctrine into technical training; taught animators to see "inner force" as the creator of "outer form." |
 | **Lloyd Wright** | Architect | Designer of **Wayfarers Chapel** (Swedenborg Memorial). | Created a physical/spiritual hub for the Disney creative community that validated "Organic/Correspondential" aesthetics. |
 | **Hal Adelquist** | Story Department Manager | Correspondence with Florence Murdoch; friend of Mary Blair. | Articulated the studio's "Active Seeking" of religious authenticity; defended the encoded theology of *Appleseed*. |
@@ -159,39 +159,41 @@ Through the "Active Seeking" of consultants like Carl Carmer and the "Structural
 2. Adelquist, Hal. Letter to Florence Murdoch, June 23, 1948. Quoted in Fryeburg New Church Assembly, "Florence Murdoch," and in Howard Means, *Johnny Appleseed: The Man, the Myth, the American Story* (New York: Simon & Schuster, 2011).
 3. Disney, Walt. Inter-office communication to Don Graham, December 23, 1935. Reproduced in Shamus Culhane, *Talking Animals and Other People* (New York: Da Capo Press, 1998), 117–127, and in Walt Stanchfield, "The Disney Tradition," September 24, 1995, http://www.animationmeat.com/pdf/nineoldmen/MemoFromWalt.pdf.
 4. General Convention of the New Jerusalem in the United States of America. *Journal of the General Convention of the New Jerusalem*, 1976.
-5. Graham, Don. "Animation of Forces vs. Animation of Forms as an Approach to Animation … Live Action Fall." Class on Action Analysis, Walt Disney Studio, June 21, 1937. Typescript transcript, collection of Hans Perk. Published at *A. Film L.A.*, March 2, 2009. http://afilmla.blogspot.com/2009/03/animating-forms-vs-forces-action.html.
-6. Haley, W. D. "Johnny Appleseed: A Pioneer Hero." *Harper's New Monthly Magazine* 43, no. 258 (November 1871): 830–836.
-7. *The Legend of Johnny Appleseed.* Segment of *Melody Time.* Walt Disney Productions, 1948.
-8. *The Messenger* (Swedenborgian Church). February 1974. https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf.
-9. Stanchfield, Walt. *Gesture Drawing for Animation.* Edited by Leo Brodie. Compilation of Walt Disney Feature Animation class handouts, n.d. http://www.floobynooby.com/ICAN3211/Gesture_Drawing_for_Animation.pdf.
-10. Swedenborg, Emanuel. *Divine Providence* (*Angelic Wisdom concerning Divine Providence*). Translated by William F. Wunsch. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-11. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+5. General Convention of the New Jerusalem in the United States of America. *Journal of the General Convention of Swedenborgian Churches*, June 28–July 2, 1978.
+6. Graham, Don. "Animation of Forces vs. Animation of Forms as an Approach to Animation … Live Action Fall." Class on Action Analysis, Walt Disney Studio, June 21, 1937. Typescript transcript, collection of Hans Perk. Published at *A. Film L.A.*, March 2, 2009. http://afilmla.blogspot.com/2009/03/animating-forms-vs-forces-action.html.
+7. Haley, W. D. "Johnny Appleseed: A Pioneer Hero." *Harper's New Monthly Magazine* 43, no. 258 (November 1871): 830–836.
+8. *The Legend of Johnny Appleseed.* Segment of *Melody Time.* Walt Disney Productions, 1948.
+9. *The Messenger* (Swedenborgian Church). February 1974. https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf.
+10. Stanchfield, Walt. *Gesture Drawing for Animation.* Edited by Leo Brodie. Compilation of Walt Disney Feature Animation class handouts, n.d. http://www.floobynooby.com/ICAN3211/Gesture_Drawing_for_Animation.pdf.
+11. Swedenborg, Emanuel. *Divine Providence* (*Angelic Wisdom concerning Divine Providence*). Translated by William F. Wunsch. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+12. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
 
 **Scholarly Works:**
 
-12. Besant, Annie, and C. W. Leadbeater. *Thought-Forms.* London: Theosophical Publishing House, 1901.
-13. Carmer, Carl. *Dark Trees to the Wind: A Cycle of York State Years.* New York: William Sloane Associates, 1949.
-14. Carmer, Carl. *The Farm Boy and the Angel.* Garden City, NY: Doubleday, 1970.
-15. Cross, Whitney R. *The Burned-over District: The Social and Intellectual History of Enthusiastic Religion in Western New York, 1800–1850.* Ithaca, NY: Cornell University Press, 1950.
-16. Karlstrom, Paul J., ed. *On the Edge of America: California Modernist Art, 1900–1950.* Berkeley: University of California Press, 1996.
-17. Means, Howard. *Johnny Appleseed: The Man, the Myth, the American Story.* New York: Simon & Schuster, 2011.
-18. Menocal, Narciso G. *Architecture as Nature: The Transcendentalist Idea of Louis Sullivan.* Madison: University of Wisconsin Press, 1981.
+13. Besant, Annie, and C. W. Leadbeater. *Thought-Forms.* London: Theosophical Publishing House, 1901.
+14. Canemaker, John. *The Art and Flair of Mary Blair: An Appreciation.* Updated ed. New York: Disney Editions, 2014.
+15. Carmer, Carl. *Dark Trees to the Wind: A Cycle of York State Years.* New York: William Sloane Associates, 1949.
+16. Carmer, Carl. *The Farm Boy and the Angel.* Garden City, NY: Doubleday, 1970.
+17. Cross, Whitney R. *The Burned-over District: The Social and Intellectual History of Enthusiastic Religion in Western New York, 1800–1850.* Ithaca, NY: Cornell University Press, 1950.
+18. Karlstrom, Paul J., ed. *On the Edge of America: California Modernist Art, 1900–1950.* Berkeley: University of California Press, 1996.
+19. Means, Howard. *Johnny Appleseed: The Man, the Myth, the American Story.* New York: Simon & Schuster, 2011.
+20. Menocal, Narciso G. *Architecture as Nature: The Transcendentalist Idea of Louis Sullivan.* Madison: University of Wisconsin Press, 1981.
 
 **Internal Library Documents:**
 
-19. [The Apple and the Angel: An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's *The Legend of Johnny Appleseed*](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md). The library's study of the *Johnny Appleseed* short, the Murdoch correspondence and the Blessings Three, on which the case study in section III draws.
-20. [The Glass Church and the Magic Mirror: A Pneumatological History of the Walt Disney Studio](The%20Glass%20Church%20and%20the%20Magic%20Mirror_%20A%20Pneumatological%20History%20of%20the%20Walt%20Disney%20Studio.md). The companion history of Adelquist, Mary Blair and the Wayfarers Chapel.
+21. [The Apple and the Angel: An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's *The Legend of Johnny Appleseed*](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md). The library's study of the *Johnny Appleseed* short, the Murdoch correspondence and the Blessings Three, on which the case study in section III draws.
+22. [The Glass Church and the Magic Mirror: A Pneumatological History of the Walt Disney Studio](The%20Glass%20Church%20and%20the%20Magic%20Mirror_%20A%20Pneumatological%20History%20of%20the%20Walt%20Disney%20Studio.md). The companion history of Adelquist, Mary Blair and the Wayfarers Chapel.
 
 **Web Sources:**
 
-21. American Film Institute. "Melody Time (1948)." *AFI Catalog of Feature Films*, n.d. https://catalog.afi.com/Catalog/MovieDetails/25636.
-22. Amidi, Amid. "When Frank Lloyd Wright Met Disney." *Cartoon Brew*, December 14, 2006. https://www.cartoonbrew.com/old-brew/when-frank-lloyd-wright-met-disney-2397.html.
-23. Amidi, Amid. "The Strange and Tragic Life of Hal Adelquist." *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.
-24. Ballard, Mark. "Hilbert Museum of California Art." *Disney History 101*, October 5, 2018. https://www.disneyhistory101.com/new-blog-2/2018/9/8/hilbert-museum-of-california-art.
-25. Bawden-Davis, Julie. "Hilbert Museum of California Art." *Old Towne Orange Plaza Review*, March 16, 2016. https://www.orangereview.com/public/article/51/hilbert-museum-of-california-art.
-26. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
-27. D23. "Art School Formed at Disney Studio with Donald Graham Serving as Teacher." *This Day in Disney History*, November 15, 1932. https://d23.com/this-day/art-school-formed-at-disney-studio-with-donald-graham-serving-as-teacher/.
-28. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.
-29. Korkis, Jim. "In His Own Words: Frank Lloyd Wright on 'Fantasia.'" *Cartoon Research*, December 16, 2022. https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/.
-30. Wayfarers Chapel. "History." *Wayfarers Chapel*, n.d. https://www.wayfarerschapel.org/about/history/.
-31. Wayne, Gary. "Wayfarer's Chapel." *Seeing-Stars.com*, n.d. https://www.seeing-stars.com/Churches/Wayfarers.shtml.
+23. American Film Institute. "Melody Time (1948)." *AFI Catalog of Feature Films*, n.d. https://catalog.afi.com/Catalog/MovieDetails/25636.
+24. Amidi, Amid. "When Frank Lloyd Wright Met Disney." *Cartoon Brew*, December 14, 2006. https://www.cartoonbrew.com/old-brew/when-frank-lloyd-wright-met-disney-2397.html.
+25. Amidi, Amid. "The Strange and Tragic Life of Hal Adelquist." *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.
+26. Ballard, Mark. "Hilbert Museum of California Art." *Disney History 101*, October 5, 2018. https://www.disneyhistory101.com/new-blog-2/2018/9/8/hilbert-museum-of-california-art.
+27. Bawden-Davis, Julie. "Hilbert Museum of California Art." *Old Towne Orange Plaza Review*, March 16, 2016. https://www.orangereview.com/public/article/51/hilbert-museum-of-california-art.
+28. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
+29. D23. "Art School Formed at Disney Studio with Donald Graham Serving as Teacher." *This Day in Disney History*, November 15, 1932. https://d23.com/this-day/art-school-formed-at-disney-studio-with-donald-graham-serving-as-teacher/.
+30. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.
+31. Korkis, Jim. "In His Own Words: Frank Lloyd Wright on 'Fantasia.'" *Cartoon Research*, December 16, 2022. https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/.
+32. Wayfarers Chapel. "History." *Wayfarers Chapel*, n.d. https://www.wayfarerschapel.org/about/history/.
+33. Wayne, Gary. "Wayfarer's Chapel." *Seeing-Stars.com*, n.d. https://www.seeing-stars.com/Churches/Wayfarers.shtml.

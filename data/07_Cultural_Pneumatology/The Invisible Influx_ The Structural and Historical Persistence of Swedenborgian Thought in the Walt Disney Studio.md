@@ -119,13 +119,13 @@ Furthermore, the Disney Animation Research Library (ARL) maintains the "Don Grah
 
 The "core ethos" was further cemented by key personnel who had direct, familial, or religious ties to the Swedenborgian church. These were not low-level employees; they were the architects of the Disney style.
 
-### **6.1 Mary Blair: The Confirmed Believer**
+### **6.1 Mary Blair: The Painter of Influx**
 
-Mary Blair (née Robinson) is the stylist responsible for the "Disney Look" of the 1950s (*Cinderella, Alice in Wonderland, Peter Pan*). While previous research noted her confirmation into the Swedenborgian Church in 1973 1, the timeline suggests this was the culmination of a lifelong affinity.
+Mary Blair (née Robinson) is the stylist responsible for the "Disney Look" of the 1950s (*Cinderella, Alice in Wonderland, Peter Pan*). The "Mrs. Mary Blair" confirmed at the Wayfarers Chapel in 1973 was a namesake, Mrs. William Blair of Torrance; the artist had moved to Soquel in 1970 (Canemaker 2014). Her tie to the Swedenborgian current runs through her work and her colleagues.
 
 * **The Appleseed Nexus:** Blair was the Art Supervisor for *Johnny Appleseed* in 1948\. She worked directly on the film that Carmer advised on and Murdoch critiqued. Her visual design for the film—where the boundary between the natural and spiritual worlds is non-existent (clouds becoming apple blossoms, Johnny walking into the sky)—is pure "Influx."  
-* **The Palos Verdes Community:** Blair's church was the **Wayfarers Chapel** in Palos Verdes, the "Glass Church" designed by Lloyd Wright (Frank Lloyd Wright's son) as a national memorial to Swedenborg. In 1976 the denomination's Council appointed Mrs. Mary Blair to the chapel's Board of Managers (General Convention 1976).  
-* **Aesthetic Alignment:** Blair’s art rejects Renaissance perspective (which emphasizes the material separation of objects) in favor of flatness and color (which emphasizes emotional/spiritual state). Her conversion in 1973 at the Wayfarers Chapel was likely the formalization of the worldview she had been painting for Disney for thirty years.
+* **The Palos Verdes Coast:** In 1934 Lee Blair painted Mary on a Palos Verdes bluff (Bawden-Davis 2016), the coast where the **Wayfarers Chapel**, the "Glass Church" designed by Lloyd Wright (Frank Lloyd Wright's son) as a national memorial to Swedenborg, would rise.  
+* **Aesthetic Alignment:** Blair’s art rejects Renaissance perspective (which emphasizes the material separation of objects) in favor of flatness and color (which emphasizes emotional/spiritual state). The worldview she painted for Disney for thirty years is the one the Swedenborgian chapel built in glass and redwood.
 
 ### **6.2 Walt Stanchfield: The Bridge to the Renaissance**
 
@@ -198,7 +198,7 @@ The evidence leads to a definitive conclusion: Swedenborgian thought is not a pe
 
 1. **Intentionality:** The *Johnny Appleseed* correspondence proves the studio knowingly engaged with and encoded Swedenborgian theology.  
 2. **Pedagogy:** Don Graham’s "Action Analysis" and Walt Stanchfield's "Drawn to Life" lectures secularized the Doctrine of Influx ("Inner Force driving Outer Form"), turning a theological tenet into an industrial tool. This pedagogy was passed down to the leaders of the Disney Renaissance (Keane, Lasseter) and remains active in modern training programs.  
-3. **Lineage:** Key artists such as Mary Blair had direct ties to the Swedenborgian church, ensuring the "visual language" of the studio aligned with its "pedagogical language."  
+3. **Lineage:** Key artists such as Mary Blair worked at the center of the studio's Swedenborgian material, ensuring the "visual language" of the studio aligned with its "pedagogical language."  
 4. **Continuity:** The modern era continues this tradition through "Cultural Trusts" and narratives (*Frozen II*, *Encanto*, *Wish*) that explicitly dramatize the relationship between Spirit and Matter, often utilizing new technologies (AI) to better simulate "living" nature.
 
 Walt Disney did not build a church; he built a studio. But in doing so, he created a "Secular New Jerusalem"—a "Kingdom of Uses" where art was not for art's sake, but for the sake of evoking "Love and Faith" in the audience. He solved the Crisis of Ensoulment by adopting the physics of the spirit. In the Disney cosmos, as in Swedenborg’s, the natural world is nothing but the mirror of the human heart.
@@ -208,7 +208,7 @@ Walt Disney did not build a church; he built a studio. But in doing so, he creat
 | Carrier/Vector | Role/Artifact | Swedenborgian Connection | Impact on Studio Ethos |
 | :---- | :---- | :---- | :---- |
 | **Carl Carmer** | Folklore Consultant | Historian of "Burned-Over District"; expert on esoteric sects. | Ensured *Johnny Appleseed* retained New Church theology (Angelology, Charity). |
-| **Mary Blair** | Art Supervisor | Confirmed Swedenborgian (1973); Wayfarers Chapel Board of Managers (1976). | Visualized "Influx" (blurring spirit/nature); defined the "Golden Age" look. |
+| **Mary Blair** | Art Supervisor | Art supervisor of *Johnny Appleseed* (1948). | Visualized "Influx" (blurring spirit/nature); defined the "Golden Age" look. |
 | **Don Graham** | Art Instructor | Pedagogy of "Forces vs. Forms" (Action Analysis). | Secularized "Influx" doctrine into technical training. |
 | **Walt Stanchfield** | Instructor/Mentor | *Drawn to Life* lectures; Mentor to Renaissance animators. | Bridge between Golden Age and Modern Era; taught "Inner Force" drawing. |
 | **Hal Adelquist** | Story Department Manager | Correspondence with Florence Murdoch. | Articulated the studio's "Active Seeking" of religious authenticity. |
@@ -258,7 +258,8 @@ This "Active Substrate" ensures that whenever a Disney artist tries to make a ch
 35. Wish (film) \- Wikipedia, accessed on January 29, 2026, [https://en.wikipedia.org/wiki/Wish\_(film)](https://en.wikipedia.org/wiki/Wish_\(film\))
 36. Cross, Whitney R. *The Burned-over District: The Social and Intellectual History of Enthusiastic Religion in Western New York, 1800–1850.* Ithaca, NY: Cornell University Press, 1950.  
 37. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.  
-38. General Convention of the New Jerusalem in the United States of America. *Journal of the General Convention of the New Jerusalem*, 1976.  
-39. Haley, W. D. "Johnny Appleseed: A Pioneer Hero." *Harper's New Monthly Magazine* 43, no. 258 (November 1871): 830–836.  
-40. Means, Howard. *Johnny Appleseed: The Man, the Myth, the American Story.* New York: Simon & Schuster, 2011.  
-41. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).  
+38. Haley, W. D. "Johnny Appleseed: A Pioneer Hero." *Harper's New Monthly Magazine* 43, no. 258 (November 1871): 830–836.  
+39. Means, Howard. *Johnny Appleseed: The Man, the Myth, the American Story.* New York: Simon & Schuster, 2011.  
+40. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).  
+41. Bawden-Davis, Julie. "Hilbert Museum of California Art." *Old Towne Orange Plaza Review*, March 16, 2016. https://www.orangereview.com/public/article/51/hilbert-museum-of-california-art.  
+42. Canemaker, John. *The Art and Flair of Mary Blair: An Appreciation.* Updated ed. New York: Disney Editions, 2014.  

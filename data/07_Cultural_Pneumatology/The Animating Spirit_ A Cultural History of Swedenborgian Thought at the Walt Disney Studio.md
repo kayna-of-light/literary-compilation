@@ -384,11 +384,11 @@ The nine animators who became Disney's "Nine Old Men"—the core creative leader
 
 While the selection process did not require explicit Swedenborgian identity, it concentrated individuals with direct connections to the tradition. Three cases establish that Swedenborgian carriers achieved positions of creative authority within the studio:
 
-**Mary Blair (1911–1978)**: The stylist responsible for the "Disney Look" of the 1950s (*Cinderella*, *Alice in Wonderland*, *Peter Pan*). Her confirmation into the Swedenborgian Church at the Wayfarers Chapel in 1973 was the culmination of a lifelong affinity, not a late-life conversion.³
+**Mary Blair (1911–1978)**: The stylist responsible for the "Disney Look" of the 1950s (*Cinderella*, *Alice in Wonderland*, *Peter Pan*). Her place among the studio's Swedenborgian carriers rests on her work and her colleagues: Hal Adelquist, who answered Florence Murdoch in 1948, called her a friend and "close working associate for many years" (Adelquist, 23 May 1966, reproduced in Amidi 2010). The "Mrs. Mary Blair" confirmed at the Wayfarers Chapel in 1973 was a namesake, Mrs. William Blair of Torrance; the artist had moved to Soquel in 1970 (Canemaker 2014).³
 
 The evidence of earlier alignment is circumstantial but compelling: Blair was the Art Supervisor for *Johnny Appleseed* in 1948—the film that demonstrated the studio's capacity for theological precision. Her visual design for that film erases the boundary between natural and spiritual worlds: clouds become apple blossoms, Johnny walks into the sky without interruption. This is pure Influx rendered as visual art.
 
-Blair's church was the Wayfarers Chapel in Palos Verdes—the "Glass Church" designed by Lloyd Wright (Frank Lloyd Wright's son) as a national memorial to Swedenborg—and in 1976 the denomination's Council appointed her to its Board of Managers (General Convention 1976).⁴ Her aesthetic rejected Renaissance perspective (which emphasizes the material separation of objects) in favor of flatness and color (which emphasizes emotional and spiritual state). Her 1973 confirmation formalized the worldview she had been painting for Disney for thirty years.
+In 1934 Lee Blair painted Mary on a bluff over the Palos Verdes coast, where the Wayfarers Chapel—the "Glass Church" designed by Lloyd Wright (Frank Lloyd Wright's son) as a national memorial to Swedenborg—would later rise (Bawden-Davis 2016).⁴ Her aesthetic rejected Renaissance perspective (which emphasizes the material separation of objects) in favor of flatness and color (which emphasizes emotional and spiritual state). The chapel built in glass and redwood the worldview she had been painting for Disney for thirty years.
 
 **Carl Carmer (1893–1976)**: Credited as the "Folklore Consultant" on *Melody Time*. Carmer was not a writer of children's books; he was a serious historian of New York State's "Burned-Over District"—the region that birthed Mormonism and Spiritualism and where Swedenborgian enthusiasm flourished before it gave way to spiritualism (Cross 1950).⁵
 
@@ -402,7 +402,7 @@ This explains the concentration of Swedenborgian carriers without requiring cons
 
 The architectural environment reinforced this densification. Frank Lloyd Wright visited the Disney Studio in 1939, lecturing animators on "abstract" and "organic" design.⁶ Wright's mentor Louis Sullivan was a devotee of Swedenborg; Wright's architecture embodied the principle that "form follows function"—a direct parallel to "form follows spirit." His validation of animation as a medium for "organic truth" encouraged the studio to pursue the metaphysical styles of *Fantasia*.
 
-Lloyd Wright's Wayfarers Chapel (1951), in the community where Blair and other Disney artists lived, provided a physical and spiritual hub. The chapel was designed to merge nature and spirit—glass walls framed by redwoods, interior and exterior flowing without barrier. For the Disney creative class, it represented the "church of the artist": a faith that validated their desire to see the spiritual *in* the natural.
+Lloyd Wright's Wayfarers Chapel (1951), on the Palos Verdes coast, provided a physical and spiritual hub for the Los Angeles creative class. The chapel was designed to merge nature and spirit—glass walls framed by redwoods, interior and exterior flowing without barrier. For the Disney creative class, it represented the "church of the artist": a faith that validated their desire to see the spiritual *in* the natural.
 
 ### 6.4 *Johnny Appleseed* as Recognition
 
@@ -579,7 +579,7 @@ The evidence supports the following conclusions:
 
 4. **Literary source material was pre-selected for compatibility.** The fairy tales of Grimm, Andersen, and Carroll—Disney's canonical sources—carried documented Swedenborgian transmission through Schelling, Ørsted, and MacDonald/Maurice. The studio gravitated toward this material because it was structurally compatible with the evolved animation method.
 
-5. **Personnel with Swedenborgian connections achieved positions of authority.** Mary Blair (confirmed Swedenborgian), Carl Carmer (Burned-Over District historian), and others concentrated in the creative core through differential fit rather than conscious recruitment.
+5. **Personnel with Swedenborgian connections achieved positions of authority.** Mary Blair (art supervisor of *Johnny Appleseed*), Carl Carmer (Burned-Over District historian), and others concentrated in the creative core through differential fit rather than conscious recruitment.
 
 6. **Incompatible material was systematically rejected.** Stories structured on irony, satire, or indifferent environments—*Don Quixote*, *Chanticleer*, *The Odyssey*—failed repeatedly despite internal champions and commercial logic. The selection environment filtered against these because they could not be animated with the studio's evolved tools.
 
@@ -674,7 +674,7 @@ This explains what pure organic selection cannot:
 **The maintenance of the tradition (1948–present)**: The Adelquist-Murdoch correspondence confirms conscious awareness by 1948. Later candidates for gatekeeping include:
 - **Hal Adelquist** (Story Department Manager; handled Murdoch correspondence)
 - **Carl Carmer** (Burned-Over District historian; Folklore Consultant)
-- **Mary Blair** (confirmed Swedenborgian; art supervisor for *Johnny Appleseed*)
+- **Mary Blair** (art supervisor for *Johnny Appleseed*; Adelquist's close associate)
 - **Unknown figure(s)** in current leadership who recognized *Wish*'s failure and initiated *Snow White* 2025 correction
 
 Future archival research—particularly the *Snow White* story development records, the Los Angeles New Church community archives, and the Palos Verdes/Wayfarers Chapel community—may identify the original transmitter.
@@ -765,6 +765,8 @@ The tradition is not accidental. It was deliberate from the beginning. The found
 40. Swedenborg, Emanuel. *Divine Providence* (*Angelic Wisdom concerning Divine Providence*). Translated by William F. Wunsch. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
 41. Cross, Whitney R. *The Burned-over District: The Social and Intellectual History of Enthusiastic Religion in Western New York, 1800–1850.* Ithaca, NY: Cornell University Press, 1950.  
 42. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.  
-43. General Convention of the New Jerusalem in the United States of America. *Journal of the General Convention of the New Jerusalem*, 1976.  
-44. Haley, W. D. "Johnny Appleseed: A Pioneer Hero." *Harper's New Monthly Magazine* 43, no. 258 (November 1871): 830–836.  
-45. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).  
+43. Haley, W. D. "Johnny Appleseed: A Pioneer Hero." *Harper's New Monthly Magazine* 43, no. 258 (November 1871): 830–836.  
+44. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).  
+45. Adelquist, Hal. Letter to David Swift, May 23, 1966. Reproduced in Amid Amidi, "The Strange and Tragic Life of Hal Adelquist," *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.  
+46. Bawden-Davis, Julie. "Hilbert Museum of California Art." *Old Towne Orange Plaza Review*, March 16, 2016. https://www.orangereview.com/public/article/51/hilbert-museum-of-california-art.  
+47. Canemaker, John. *The Art and Flair of Mary Blair: An Appreciation.* Updated ed. New York: Disney Editions, 2014.  

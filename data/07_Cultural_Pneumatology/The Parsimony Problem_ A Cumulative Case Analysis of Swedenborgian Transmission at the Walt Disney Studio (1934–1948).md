@@ -23,7 +23,7 @@
 | Adelquist-Murdoch Correspondence (1948) | Fryeburg New Church Assembly, from research with the Ohio History Connection, the Johnny Appleseed Museum and the Center for Swedenborgian Studies | Referenced in *The Glass Church and the Magic Mirror* and *The Apple and the Angel* |
 | "Mind is the Pilot" Memo (December 23, 1935) | Walt Disney to Don Graham | Reproduced in Culhane, *Talking Animals and Other People*, and by Walt Stanchfield (1995); quoted in *The Mechanics of the Soul* |
 | Don Graham Action Analysis Classes (1936–1937) | Typescript transcripts, collection of Hans Perk, published at *A. Film L.A.* | Referenced in *The Mechanics of the Soul* |
-| Mary Blair Confirmation Record | *The Messenger* (Swedenborgian Church), February 1974 | Documented in *The Mechanics of the Soul* |
+| Adelquist to David Swift (May 23, 1966) | Letter reproduced in Amidi, *Cartoon Brew* (2010) | Adelquist on Mary Blair as friend and "close working associate" |
 | *Snow White* Production Records | Walt Disney Archives; Snow White Museum | Feature film credits, story meeting transcripts; concept art and storyboards for sequence 16A |
 | *Snow White* (1916) | Famous Players Film Company | Internet Archive |
 | Grimm Source Text | *Kinder- und Haus-Märchen* (1857) | Public domain |
@@ -39,7 +39,7 @@ Over the past decade, a detailed body of research has accumulated documenting st
 
 - That the studio consciously engaged with Swedenborgian material during the production of *The Legend of Johnny Appleseed* (1948), evidenced by correspondence between Story Department Manager Hal Adelquist and Florence Murdoch, librarian of the Cincinnati Church of the New Jerusalem.
 - That the studio's animation pedagogy—particularly the "action analysis" method developed by Don Graham—exhibits structural isomorphism with Swedenborg's Doctrine of Influx.
-- That key studio personnel maintained direct ties to Swedenborgian institutions (Mary Blair via confirmation at Wayfarers Chapel).
+- That the studio's personnel around the Swedenborgian material were closely tied (Mary Blair, art supervisor of *Johnny Appleseed*, was for many years a friend and close working associate of Hal Adelquist, the studio's 1948 correspondent).
 - That narrative innovations in *Snow White and the Seven Dwarfs* (1937)—particularly deviations from the Grimm source text—map systematically to Swedenborgian eschatological categories.
 
 Each of these findings has been evaluated independently, with verdicts ranging from "documented fact" (the 1948 correspondence) to "strong hypothesis" (the 1937 narrative encoding). However, this atomistic approach—assessing each evidence line in isolation—systematically undervalues what historians and forensic analysts recognize as the **cumulative weight** of converging independent evidence.
@@ -140,7 +140,7 @@ The "Cloud Castle" in *Snow White* represents creation evidence: it does not app
 
 ---
 
-### 3.3 Evidence Line 3: Biographical (1937–1974)
+### 3.3 Evidence Line 3: Biographical (1937–1966)
 
 **Source**: Production credits; studio histories; church records.
 
@@ -149,13 +149,13 @@ The "Cloud Castle" in *Snow White* represents creation evidence: it does not app
 | Person | Finding | Documentation |
 |--------|---------|---------------|
 | Hal Adelquist | Assistant Director on *Snow White* (1937), named head assistant director in February 1937; Story Department Manager and correspondent of Florence Murdoch (1948) | Production credits (Eagan 2010); Gabler 2006; archival correspondence (Fryeburg New Church Assembly, n.d.) |
-| Mary Blair | Confirmed into Swedenborgian Church at Wayfarers Chapel (1973) | Church records (*The Messenger*, February 1974) |
+| Mary Blair | Color and styling on *Melody Time* (1948), including *Johnny Appleseed*; friend and "close working associate for many years" of Adelquist | American Film Institute n.d.; Adelquist, 23 May 1966 (reproduced in Amidi 2010) |
 
-**Independence**: This evidence derives from production credits, studio histories and church records, not from narrative analysis or pedagogical materials. It shares one person with the documentary line: Adelquist, the 1948 correspondent, is also the bridge to *Snow White*, so his continuity counts once in the convergence, not twice (Appendix A). Blair's confirmation is independent of the other evidence lines.
+**Independence**: This evidence derives from production credits, studio histories and church records, not from narrative analysis or pedagogical materials. It shares one person with the documentary line: Adelquist, the 1948 correspondent, is also the bridge to *Snow White*, so his continuity counts once in the convergence, not twice (Appendix A). Blair's tie runs through the same film and the same man, so it reinforces that shared core rather than standing apart from it. The "Mrs. Mary Blair" whom the Swedenborgian Church confirmed at the Wayfarers Chapel in 1973 was a namesake, Mrs. William Blair of Torrance, later secretary of the chapel's Board of Managers (*The Messenger*, February 1974; M. Blair 1974; General Convention 1976, 1978); the artist had lived in Soquel since 1970 (Canemaker 2014).
 
-**What H0 Must Explain**: H0 must posit that the clustering of Swedenborgian-adjacent personnel at a single studio is coincidental—that Blair's confirmation and Adelquist's presence on both the 1937 and the 1948 productions are unrelated to the Swedenborgian patterns in the studio's output.
+**What H0 Must Explain**: H0 must posit that the clustering of Swedenborgian-adjacent personnel at a single studio is coincidental—that Adelquist's presence on both the 1937 and the 1948 productions, and his long collaboration with the stylist of *Johnny Appleseed*, are unrelated to the Swedenborgian patterns in the studio's output.
 
-**Critical Finding**: The biographical links are **documented facts**: Blair's confirmation is recorded by her church, and Adelquist's two positions by the film's credits and the 1948 correspondence. The clustering of multiple Swedenborgian-adjacent personnel at a single institution requires explanation.
+**Critical Finding**: The biographical links are **documented facts**: Adelquist's two positions by the film's credits and the 1948 correspondence, and his friendship with Blair by his own letter. The clustering of multiple Swedenborgian-adjacent personnel at a single institution requires explanation.
 
 ---
 
@@ -218,7 +218,7 @@ The "Cloud Castle" in *Snow White* represents creation evidence: it does not app
 
 1. **Documentary evidence** establishes that the studio consciously engaged with Swedenborgian material by 1948.
 2. **Pedagogical evidence** establishes that the studio's animation methodology (1935 onward) is structurally isomorphic to Swedenborgian causation theory.
-3. **Biographical evidence** establishes that studio personnel maintained direct ties to Swedenborgian institutions (Mary Blair), and that Hal Adelquist bridges the 1937 and 1948 productions.
+3. **Biographical evidence** establishes that the personnel around the Swedenborgian material were closely tied (Adelquist and Mary Blair), and that Hal Adelquist bridges the 1937 and 1948 productions.
 4. **Structural evidence** establishes that narrative innovations in *Snow White* (1937) systematically deviate from the source text toward Swedenborgian eschatological categories, including the *invention* of the cloud castle (no fairy-tale precedent).
 5. **Milieu evidence** establishes that the cultural context of 1930s Los Angeles made transmission plausible via multiple pathways.
 
@@ -276,7 +276,7 @@ Based on cumulative case analysis, the Swedenborgian transmission hypothesis hol
 |-------|--------|-------|
 | The studio consciously engaged Swedenborgian material by 1948 | **Fact** | Documentary evidence |
 | Animation pedagogy (1935+) is structurally isomorphic to Influx | **Fact** | Authenticated materials |
-| Key personnel had Swedenborgian ties | **Fact** | Biographical records |
+| Key personnel were tied to the Swedenborgian material | **Fact** | Biographical records |
 | *Snow White* (1937) was designed with Swedenborgian architecture | **Most parsimonious explanation** | Cumulative convergence |
 | Someone consciously transmitted the framework (1934–1937) | **Highly probable** | Bridge figure + structural evidence |
 
@@ -318,35 +318,41 @@ The question is no longer "did Swedenborgian transmission occur?" but "how did i
 
 **Primary Sources:**
 
-1. Creedon, Dick. "Snow White (tentative outline)." Walt Disney Productions, October 22, 1934. Typescript, 18 pp., Walt Disney Archives. Transcribed as "Snow White Tentative Outline of 10/22/1934," *Snow White Museum*. https://snowwhitemuseum.com/about-the-film/the-story/production-documents/snow-white-tentative-outline-of-10-22-1934/.
-2. Disney, Walt. Inter-office communication to Don Graham, December 23, 1935. Reproduced in Shamus Culhane, *Talking Animals and Other People* (New York: Da Capo Press, 1998), 117–127, and in Walt Stanchfield, "The Disney Tradition," September 24, 1995, http://www.animationmeat.com/pdf/nineoldmen/MemoFromWalt.pdf.
-3. Graham, Don. "Animation of Forces vs. Animation of Forms as an Approach to Animation … Live Action Fall." Class on Action Analysis, Walt Disney Studio, June 21, 1937. Typescript transcript, collection of Hans Perk. Published at *A. Film L.A.*, March 2, 2009. http://afilmla.blogspot.com/2009/03/animating-forms-vs-forces-action.html.
-4. Grimm, Jacob, and Wilhelm Grimm. "Sneewittchen." In *Kinder- und Haus-Märchen*, 7th ed., 1:264–273. Göttingen: Dieterich, 1857.
-5. *Los Angeles Times*. Church notices for the Church of the New Jerusalem, 509 South Westmoreland Avenue. November 9, 1935; December 14, 1935; February 27, 1937; October 11, 1941.
-6. *The Messenger* (Swedenborgian Church). February 1974. https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf.
-7. *Snow White*. Directed by J. Searle Dawley. Adapted from the play by Winthrop Ames. Famous Players Film Company, 1916. Internet Archive. https://archive.org/details/silent-snow-white.
-8. Swedenborg, Emanuel. *Divine Love and Wisdom* (*Sapientia Angelica de Divino Amore et de Divina Sapientia*). Amsterdam, 1763.
-9. Swedenborg, Emanuel. *Heaven and Hell* (*De Coelo et ejus Mirabilibus, et de Inferno*). London, 1758.
+1. Adelquist, Hal. Letter to David Swift, May 23, 1966. Reproduced in Amid Amidi, "The Strange and Tragic Life of Hal Adelquist," *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.
+2. Blair, Mary [Mrs. William Blair]. "Wayfarer's Point of View." *The Messenger* (Swedenborgian Church), June 1974, 102. https://swedenborg.org/wp-content/uploads/2023/01/1974-06-Messenger.pdf.
+3. Creedon, Dick. "Snow White (tentative outline)." Walt Disney Productions, October 22, 1934. Typescript, 18 pp., Walt Disney Archives. Transcribed as "Snow White Tentative Outline of 10/22/1934," *Snow White Museum*. https://snowwhitemuseum.com/about-the-film/the-story/production-documents/snow-white-tentative-outline-of-10-22-1934/.
+4. Disney, Walt. Inter-office communication to Don Graham, December 23, 1935. Reproduced in Shamus Culhane, *Talking Animals and Other People* (New York: Da Capo Press, 1998), 117–127, and in Walt Stanchfield, "The Disney Tradition," September 24, 1995, http://www.animationmeat.com/pdf/nineoldmen/MemoFromWalt.pdf.
+5. General Convention of the New Jerusalem in the United States of America. *Journal of the General Convention of Swedenborgian Churches*, June 28–July 2, 1978.
+6. General Convention of the New Jerusalem in the United States of America. *Journal of the General Convention of the New Jerusalem*, 1976.
+7. Graham, Don. "Animation of Forces vs. Animation of Forms as an Approach to Animation … Live Action Fall." Class on Action Analysis, Walt Disney Studio, June 21, 1937. Typescript transcript, collection of Hans Perk. Published at *A. Film L.A.*, March 2, 2009. http://afilmla.blogspot.com/2009/03/animating-forms-vs-forces-action.html.
+8. Grimm, Jacob, and Wilhelm Grimm. "Sneewittchen." In *Kinder- und Haus-Märchen*, 7th ed., 1:264–273. Göttingen: Dieterich, 1857.
+9. *Los Angeles Times*. Church notices for the Church of the New Jerusalem, 509 South Westmoreland Avenue. November 9, 1935; December 14, 1935; February 27, 1937; October 11, 1941.
+10. *The Messenger* (Swedenborgian Church). February 1974. https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf.
+11. *Snow White*. Directed by J. Searle Dawley. Adapted from the play by Winthrop Ames. Famous Players Film Company, 1916. Internet Archive. https://archive.org/details/silent-snow-white.
+12. Swedenborg, Emanuel. *Divine Love and Wisdom* (*Sapientia Angelica de Divino Amore et de Divina Sapientia*). Amsterdam, 1763.
+13. Swedenborg, Emanuel. *Heaven and Hell* (*De Coelo et ejus Mirabilibus, et de Inferno*). London, 1758.
 
 **Scholarly Works:**
 
-10. Carmer, Carl. *Listen for a Lonesome Drum: A York State Chronicle.* New York: Farrar & Rinehart, 1936.
-11. Eagan, Daniel. *America's Film Legacy: The Authoritative Guide to the Landmark Movies in the National Film Registry.* New York: Continuum, 2010.
-12. Gabler, Neal. *Walt Disney: The Triumph of the American Imagination.* New York: Knopf, 2006.
-13. Karlstrom, Paul J., ed. *On the Edge of America: California Modernist Art, 1900–1950.* Berkeley: University of California Press, 1996.
+14. Canemaker, John. *The Art and Flair of Mary Blair: An Appreciation.* Updated ed. New York: Disney Editions, 2014.
+15. Carmer, Carl. *Listen for a Lonesome Drum: A York State Chronicle.* New York: Farrar & Rinehart, 1936.
+16. Eagan, Daniel. *America's Film Legacy: The Authoritative Guide to the Landmark Movies in the National Film Registry.* New York: Continuum, 2010.
+17. Gabler, Neal. *Walt Disney: The Triumph of the American Imagination.* New York: Knopf, 2006.
+18. Karlstrom, Paul J., ed. *On the Edge of America: California Modernist Art, 1900–1950.* Berkeley: University of California Press, 1996.
 
 **Internal Library Documents:**
 
-14. [The Apple and the Angel: An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's *The Legend of Johnny Appleseed*](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md). The studio's knowledge of Chapman's faith, the Murdoch–Adelquist correspondence, and the reading of the "Blessings Three" as the Swedenborgian triad.
-15. [The Glass Church and the Magic Mirror: A Pneumatological History of the Walt Disney Studio](The%20Glass%20Church%20and%20the%20Magic%20Mirror_%20A%20Pneumatological%20History%20of%20the%20Walt%20Disney%20Studio.md). Hal Adelquist's career and the Murdoch correspondence.
-16. [The Mechanics of the Soul: Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio](The%20Mechanics%20of%20the%20Soul_%20Don%20Graham,%20Action%20Analysis,%20and%20the%20Secularization%20of%20Swedenborgian%20Influx%20at%20the%20Walt%20Disney%20Studio.md). The 1935 memo, Graham's Action Analysis classes read as a secularized doctrine of influx, and the Chouinard milieu.
+19. [The Apple and the Angel: An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's *The Legend of Johnny Appleseed*](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md). The studio's knowledge of Chapman's faith, the Murdoch–Adelquist correspondence, and the reading of the "Blessings Three" as the Swedenborgian triad.
+20. [The Glass Church and the Magic Mirror: A Pneumatological History of the Walt Disney Studio](The%20Glass%20Church%20and%20the%20Magic%20Mirror_%20A%20Pneumatological%20History%20of%20the%20Walt%20Disney%20Studio.md). Hal Adelquist's career and the Murdoch correspondence.
+21. [The Mechanics of the Soul: Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio](The%20Mechanics%20of%20the%20Soul_%20Don%20Graham,%20Action%20Analysis,%20and%20the%20Secularization%20of%20Swedenborgian%20Influx%20at%20the%20Walt%20Disney%20Studio.md). The 1935 memo, Graham's Action Analysis classes read as a secularized doctrine of influx, and the Chouinard milieu.
 
 **Web Sources:**
 
-17. American Film Institute. "Melody Time (1948)." *AFI Catalog of Feature Films*, n.d. https://catalog.afi.com/Catalog/MovieDetails/25636.
-18. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
-19. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.
-20. Snow White Museum. "Sequence 16A – Snow White in Coffin – Back to Life – Away with Prince." *Snow White Museum*, n.d. https://snowwhitemuseum.com/images/production-art/sequence-16a-snow-white-in-coffin-back-to-life-away-with-prince/.
+22. American Film Institute. "Melody Time (1948)." *AFI Catalog of Feature Films*, n.d. https://catalog.afi.com/Catalog/MovieDetails/25636.
+23. Amidi, Amid. "The Strange and Tragic Life of Hal Adelquist." *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.
+24. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
+25. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.
+26. Snow White Museum. "Sequence 16A – Snow White in Coffin – Back to Life – Away with Prince." *Snow White Museum*, n.d. https://snowwhitemuseum.com/images/production-art/sequence-16a-snow-white-in-coffin-back-to-life-away-with-prince/.
 
 ---
 
@@ -362,7 +368,7 @@ The question is no longer "did Swedenborgian transmission occur?" but "how did i
 
 *Partial overlap: Graham taught at Chouinard, which is part of the milieu evidence. However, the *content* of his pedagogy (Evidence Line 2) is independent of the *context* of the institution (Evidence Line 5).
 
-†Partial overlap: Hal Adelquist, the 1948 correspondent (Evidence Line 1), is also the biographical bridge to *Snow White* (Evidence Line 3). Mary Blair's confirmation is independent of the documentary line; Adelquist's continuity counts once in the convergence, not twice.
+†Partial overlap: Hal Adelquist, the 1948 correspondent (Evidence Line 1), is also the biographical bridge to *Snow White* (Evidence Line 3). Mary Blair's tie runs through the same man and film; Adelquist's continuity counts once in the convergence, not twice.
 
 ---
 

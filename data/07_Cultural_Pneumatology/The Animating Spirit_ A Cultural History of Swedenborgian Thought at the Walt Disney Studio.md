@@ -201,9 +201,9 @@ The implication is crucial: an artist trained in Los Angeles in the 1920s-30s, a
 
 The Los Angeles metaphysical milieu did not emerge from nothing. It was the westward migration of a religious current that originated in upstate New York's "Burned-Over District"—the region swept so frequently by revivals in the early nineteenth century that it acquired its incendiary nickname.
 
-Carl Carmer, whom Disney hired as "Folklore Consultant" for *Melody Time*, was the preeminent chronicler of this phenomenon. In *Listen for a Lonesome Drum* (1936), Carmer mapped what he called "The Psychic Highway"—the corridor from Albany to Buffalo that produced Mormonism, Spiritualism, the Shakers, and the American stronghold of Swedenborgianism.⁵
+Carl Carmer, whom Disney hired as "Folklore Consultant" for *Melody Time*, was the preeminent chronicler of this phenomenon. In *Listen for a Lonesome Drum* (1936), Carmer mapped what he called "The Psychic Highway"—the corridor from Albany to Buffalo that produced Mormonism, Spiritualism and the Shakers, and where Swedenborgian enthusiasm "yielded place to spiritualism" (Cross 1950).⁵
 
-John Chapman (Johnny Appleseed) emerged from this exact milieu. He carried Swedenborg's *Heaven and Hell* across the frontier, tearing out pages to leave with settlers. The Swedenborgian presence in the Burned-Over District was not peripheral; it was structural.
+John Chapman (Johnny Appleseed) emerged from this exact milieu. He carried Swedenborg's works across the frontier, dividing the volumes into pieces to leave with settlers (Haley 1871). The Swedenborgian presence in the Burned-Over District was not peripheral; it was structural.
 
 When Carmer was hired by Disney in the late 1940s, the studio gained access to an expert who understood the deep genealogy of American metaphysical thought. Carmer's *Dark Trees to the Wind* (1949) includes a chapter on the Koreshan Unity, a Swedenborgian offshoot practicing alchemy and teaching hollow-earth cosmology.⁶ His research into Swedenborgian-adjacent movements was ongoing during his Disney consultancy.
 
@@ -384,13 +384,13 @@ The nine animators who became Disney's "Nine Old Men"—the core creative leader
 
 While the selection process did not require explicit Swedenborgian identity, it concentrated individuals with direct connections to the tradition. Three cases establish that Swedenborgian carriers achieved positions of creative authority within the studio:
 
-**Mary Blair (1911–1978)**: The stylist responsible for the "Disney Look" of the 1950s (*Cinderella*, *Alice in Wonderland*, *Peter Pan*). Her confirmation into the Swedenborgian Church at the Wayfarers Chapel in 1973 was the culmination of a lifelong affinity, not a late-life conversion.³
+**Mary Blair (1911–1978)**: The stylist responsible for the "Disney Look" of the 1950s (*Cinderella*, *Alice in Wonderland*, *Peter Pan*). Her place among the studio's Swedenborgian carriers rests on her work and her colleagues: Hal Adelquist, who answered Florence Murdoch in 1948, called her a friend and "close working associate for many years" (Adelquist, 23 May 1966, reproduced in Amidi 2010). The "Mrs. Mary Blair" confirmed at the Wayfarers Chapel in 1973 was a namesake, Mrs. William Blair of Torrance; the artist had moved to Soquel in 1970 (Canemaker 2014).³
 
 The evidence of earlier alignment is circumstantial but compelling: Blair was the Art Supervisor for *Johnny Appleseed* in 1948—the film that demonstrated the studio's capacity for theological precision. Her visual design for that film erases the boundary between natural and spiritual worlds: clouds become apple blossoms, Johnny walks into the sky without interruption. This is pure Influx rendered as visual art.
 
-Blair lived in the artist colony of Palos Verdes, site of the Wayfarers Chapel—the "Glass Church" designed by Lloyd Wright (Frank Lloyd Wright's son) as a national memorial to Swedenborg.⁴ Her aesthetic rejected Renaissance perspective (which emphasizes the material separation of objects) in favor of flatness and color (which emphasizes emotional and spiritual state). Her 1973 confirmation formalized the worldview she had been painting for Disney for thirty years.
+In 1934 Lee Blair painted Mary on a bluff over the Palos Verdes coast, where the Wayfarers Chapel—the "Glass Church" designed by Lloyd Wright (Frank Lloyd Wright's son) as a national memorial to Swedenborg—would later rise (Bawden-Davis 2016).⁴ Her aesthetic rejected Renaissance perspective (which emphasizes the material separation of objects) in favor of flatness and color (which emphasizes emotional and spiritual state). The chapel built in glass and redwood the worldview she had been painting for Disney for thirty years.
 
-**Carl Carmer (1893–1976)**: Credited as the "Folklore Consultant" on *Melody Time* and *The Legend of Sleepy Hollow*. Carmer was not a writer of children's books; he was a serious historian of New York State's "Burned-Over District"—the region where Mormonism, Spiritualism, and the American Swedenborgian Church achieved their greatest strength.⁵
+**Carl Carmer (1893–1976)**: Credited as the "Folklore Consultant" on *Melody Time*. Carmer was not a writer of children's books; he was a serious historian of New York State's "Burned-Over District"—the region that birthed Mormonism and Spiritualism and where Swedenborgian enthusiasm flourished before it gave way to spiritualism (Cross 1950).⁵
 
 Carmer's bibliography reveals lifelong engagement with esoteric American religion: *Dark Trees to the Wind* (1949) includes the Koreshan Unity (a hollow-earth cult influenced by Swedenborgian cosmology); *The Farm Boy and the Angel* addresses Mormon origins in the same region. His presence during the development of *Johnny Appleseed* and *Ichabod Crane* provided direct transmission of the specific theological and historical context. When Walt Disney hired Carmer, he was hiring a specialist in American esoteric history—someone who could provide the "real stuff" that gave narrative weight.
 
@@ -402,7 +402,7 @@ This explains the concentration of Swedenborgian carriers without requiring cons
 
 The architectural environment reinforced this densification. Frank Lloyd Wright visited the Disney Studio in 1939, lecturing animators on "abstract" and "organic" design.⁶ Wright's mentor Louis Sullivan was a devotee of Swedenborg; Wright's architecture embodied the principle that "form follows function"—a direct parallel to "form follows spirit." His validation of animation as a medium for "organic truth" encouraged the studio to pursue the metaphysical styles of *Fantasia*.
 
-Lloyd Wright's Wayfarers Chapel (1951), in the community where Blair and other Disney artists lived, provided a physical and spiritual hub. The chapel was designed to merge nature and spirit—glass walls framed by redwoods, interior and exterior flowing without barrier. For the Disney creative class, it represented the "church of the artist": a faith that validated their desire to see the spiritual *in* the natural.
+Lloyd Wright's Wayfarers Chapel (1951), on the Palos Verdes coast, provided a physical and spiritual hub for the Los Angeles creative class. The chapel was designed to merge nature and spirit—glass walls framed by redwoods, interior and exterior flowing without barrier. For the Disney creative class, it represented the "church of the artist": a faith that validated their desire to see the spiritual *in* the natural.
 
 ### 6.4 *Johnny Appleseed* as Recognition
 
@@ -410,11 +410,11 @@ The 1948 production of *The Legend of Johnny Appleseed* marked the moment when t
 
 The correspondence between the studio and Florence Murdoch, librarian of the Cincinnati Church of the New Jerusalem, demonstrates that Disney's creative team knew they were handling Swedenborgian material. When Murdoch saw promotional images depicting Johnny's "Guardian Angel" as a frontier spirit in a coonskin cap, she wrote to protest. Hal Adelquist, Story Department Manager and a key lieutenant to Walt, replied personally that the studio had researched the real Chapman extensively: "We trust that after you have viewed the picture you will agree that we have treated the angel with sincere respect and endowed him with a certain dignity."⁷
 
-That assurance of extensive research is the pivot point. It is impossible to research John Chapman extensively without encountering his defining characteristic: his zeal for the New Church. Chapman did not merely plant trees; he planted Swedenborgian societies across the frontier. He tore pages from *Heaven and Hell* and *True Christian Religion* to leave with settlers.
+That assurance of extensive research is the pivot point. It is impossible to research John Chapman extensively without encountering his defining characteristic: his zeal for the New Church. Chapman did not merely plant trees; he planted Swedenborg's teaching across the frontier, dividing Swedenborg's books into pieces and leaving a portion at each log cabin (Haley 1871).
 
-The film's solution—encoding Chapman's theology while avoiding explicit sectarian content—demonstrates sophisticated theological translation. The theme song's "Blessings Three" (Love, Faith, and the Apple Tree) preserves the Swedenborgian structure of salvation (Charity, Faith, and Use) in a form accessible to mass audiences.⁸ Murdoch herself recognized the code, praising the film's preservation of Chapman's essential theology.
+The film's solution—encoding Chapman's theology while avoiding explicit sectarian content—demonstrates sophisticated theological translation. The theme song's "Blessings Three" (Love, Faith, and the Apple Tree; in Florence Murdoch's letter, "love and faith and an apple tree," Fryeburg New Church Assembly n.d.) preserves the Swedenborgian structure of salvation (Charity, Faith, and Use) in a form accessible to mass audiences.⁸ Murdoch herself recognized the code: she welcomed the Blessings Three as Johnny's own, and seven years later wrote that she admired the film's treatment of him (Fryeburg New Church Assembly n.d.).
 
-Most significantly, the angel was depicted as a deceased human pioneer—not a winged seraph. This aligns precisely with Swedenborg's pneumatology: "There is not a single angel in the universal heaven who was created such from the beginning... but all are from the human race."⁹ By depicting the angel as the spirit of a dead frontiersman, Disney rejected standard Christian iconography in favor of specific Swedenborgian doctrine.
+Most significantly, the angel was depicted as a deceased human pioneer—not a winged seraph. This aligns precisely with Swedenborg's pneumatology: "in the entire heaven there is not a single angel who was created such from the beginning, nor in hell any devil who was created an angel of light and cast down; but that all, both in heaven and in hell, are from the human race" (*Heaven and Hell* §311).⁹ By depicting the angel as the spirit of a dead frontiersman, Disney rejected standard Christian iconography in favor of specific Swedenborgian doctrine.
 
 *Johnny Appleseed* demonstrated that the studio could handle theological material with precision when it chose to. The carriers had concentrated to the point where such precision was possible.
 
@@ -579,7 +579,7 @@ The evidence supports the following conclusions:
 
 4. **Literary source material was pre-selected for compatibility.** The fairy tales of Grimm, Andersen, and Carroll—Disney's canonical sources—carried documented Swedenborgian transmission through Schelling, Ørsted, and MacDonald/Maurice. The studio gravitated toward this material because it was structurally compatible with the evolved animation method.
 
-5. **Personnel with Swedenborgian connections achieved positions of authority.** Mary Blair (confirmed Swedenborgian), Carl Carmer (Burned-Over District historian), and others concentrated in the creative core through differential fit rather than conscious recruitment.
+5. **Personnel with Swedenborgian connections achieved positions of authority.** Mary Blair (art supervisor of *Johnny Appleseed*), Carl Carmer (Burned-Over District historian), and others concentrated in the creative core through differential fit rather than conscious recruitment.
 
 6. **Incompatible material was systematically rejected.** Stories structured on irony, satire, or indifferent environments—*Don Quixote*, *Chanticleer*, *The Odyssey*—failed repeatedly despite internal champions and commercial logic. The selection environment filtered against these because they could not be animated with the studio's evolved tools.
 
@@ -674,7 +674,7 @@ This explains what pure organic selection cannot:
 **The maintenance of the tradition (1948–present)**: The Adelquist-Murdoch correspondence confirms conscious awareness by 1948. Later candidates for gatekeeping include:
 - **Hal Adelquist** (Story Department Manager; handled Murdoch correspondence)
 - **Carl Carmer** (Burned-Over District historian; Folklore Consultant)
-- **Mary Blair** (confirmed Swedenborgian; art supervisor for *Johnny Appleseed*)
+- **Mary Blair** (art supervisor for *Johnny Appleseed*; Adelquist's close associate)
 - **Unknown figure(s)** in current leadership who recognized *Wish*'s failure and initiated *Snow White* 2025 correction
 
 Future archival research—particularly the *Snow White* story development records, the Los Angeles New Church community archives, and the Palos Verdes/Wayfarers Chapel community—may identify the original transmitter.
@@ -763,4 +763,10 @@ The tradition is not accidental. It was deliberate from the beginning. The found
 37. [The Mirror and the Void: An Archival and Pneumatological Exegesis of the Rejected Adaptations of the Walt Disney Studio](The%20Mirror%20and%20the%20Void_%20An%20Archival%20and%20Pneumatological%20Exegesis%20of%20the%20Rejected%20Adaptations%20of%20the%20Walt%20Disney%20Studio.md)
 38. [The Mirror of the Invisible: Swedenborgian Natural Philosophy and the Romantic Folklore of the Brothers Grimm](The%20Mirror%20of%20the%20Invisible_%20Swedenborgian%20Natural%20Philosophy%20and%20the%20Romantic%20Folklore%20of%20the%20Brothers%20Grimm.md)
 40. Swedenborg, Emanuel. *Divine Providence* (*Angelic Wisdom concerning Divine Providence*). Translated by William F. Wunsch. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-
+41. Cross, Whitney R. *The Burned-over District: The Social and Intellectual History of Enthusiastic Religion in Western New York, 1800–1850.* Ithaca, NY: Cornell University Press, 1950.  
+42. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.  
+43. Haley, W. D. "Johnny Appleseed: A Pioneer Hero." *Harper's New Monthly Magazine* 43, no. 258 (November 1871): 830–836.  
+44. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).  
+45. Adelquist, Hal. Letter to David Swift, May 23, 1966. Reproduced in Amid Amidi, "The Strange and Tragic Life of Hal Adelquist," *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.  
+46. Bawden-Davis, Julie. "Hilbert Museum of California Art." *Old Towne Orange Plaza Review*, March 16, 2016. https://www.orangereview.com/public/article/51/hilbert-museum-of-california-art.  
+47. Canemaker, John. *The Art and Flair of Mary Blair: An Appreciation.* Updated ed. New York: Disney Editions, 2014.  

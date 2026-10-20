@@ -2534,6 +2534,21 @@ In *Cosmic Cradle* (2013), do the authors or their informants describe pre-birth
 
 ---
 
+## Logged during the Disney exploration with the author, 2026-10-20
+
+### [GDR] *Snow White* (2025) — did anyone on the production model the orchard scenes on *Johnny Appleseed* (1948) or Mary Blair?
+
+**Related Documents**: `data/07_Cultural_Pneumatology/The Mirror and the Star_ A Comparative Pneumatology of Disney's Wish and Snow White (2025).md` §4.4 and §8.2; `docs/disney_cumulative_case_map.md` (Strand 1, row "*Snow White* (2025): the orchard and the 1948 *Appleseed* words")
+
+**Context**: *The Mirror and the Star* says Marc Webb and the production design team were "visually citing" the *Appleseed* era, that "his visual direction of the orchard scenes — evoking Mary Blair's *Melody Time* aesthetic — proves" it, and quotes "drifts of pure white snow in an apple orchard" from unnamed "production notes and reviews". None of this was found (2026-10-20): not in the reviews the document cites (InBetweenDrafts, Rotoscopers, Catholic Standard, Reflections, Harvest, Snow White Museum), nor in Webb's Archives interview (Walt Disney Company, 21 Mar 2025), MickeyBlog, the Mandy Walker interview (*The Credits*), *Definition*, or the "Legacy" featurette coverage (AWN, GeekTyrant). What is documented: Walker took the 1937 film's palette and painterly backgrounds as her reference; Jonathan grew from a 1937 sketch of "the prince in the dungeon". The film's words do echo the 1948 lyrics (seed, sharing, "we reap what we sow", "golden sky"); the question is only whether that was directed. The nearest real image is Atkinson's 1915 novel: an orchard in blossom that "lay in snowy drifts and mounds in the moonlighted glade".
+
+**Research Question**:
+Is there any published statement — press kit/production notes, *The Art of Snow White*-type book, featurette, interview with Marc Webb, production designer Kave Quinn, cinematographer Mandy Walker, the VFX supervisors, Erin Cressida Wilson, Greta Gerwig, or Pasek and Paul — that the orchard scenes or the "Good Things Grow" opening were modelled on *Johnny Appleseed* (1948), *Melody Time*, or Mary Blair's work? If yes, quote it with date and speaker. If the phrase "drifts of pure white snow in an apple orchard" appears in any published source, identify it.
+
+**Status**: Open
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

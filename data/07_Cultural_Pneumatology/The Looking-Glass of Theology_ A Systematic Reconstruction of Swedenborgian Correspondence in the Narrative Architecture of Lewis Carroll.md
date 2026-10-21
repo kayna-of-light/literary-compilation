@@ -18,9 +18,9 @@ To assert that a conservative Oxford don systematically applied a heterodox theo
 
 ### **2.1 The Library of Charles Lutwidge Dodgson: Evidence of Intent**
 
-The most irrefutable evidence of an author’s intellectual diet is his library. A descriptive catalogue of the books owned by Lewis Carroll at the time of his death reveals a collection that far exceeds the standard curriculum of an Anglican clergyman. Among the volumes on mathematics, logic, and poetry, we find the seminal theological works of Emanuel Swedenborg: *Heaven and Hell*, *Angelic Wisdom Concerning the Divine Love and the Divine Wisdom*, and *Arcana Coelestia*.1
+The most irrefutable evidence of an author’s intellectual diet is his library. A descriptive catalogue of the books owned by Lewis Carroll at the time of his death reveals a collection that far exceeds the standard curriculum of an Anglican clergyman. Among the volumes on mathematics, logic, and poetry, Swedenborg appears through another's pen: Asa Mahan's *Modern Mysteries, Explained and Exposed*, whose fourth part treats the "Clairvoyant Revelations of Emmanuel Swedenborg."1
 
-These are not peripheral texts. *Heaven and Hell* is Swedenborg’s definitive guide to the structure of the afterlife, detailing the "World of Spirits" as an intermediate state where souls are stripped of their external masks—a direct blueprint for the "underground" world of Alice. *Divine Love and Wisdom* articulates the complex ontology of "Discrete Degrees" (End, Cause, and Effect) and the "Grand Man," concepts that are essential for decoding *Sylvie and Bruno*. The presence of *Arcana Coelestia*, a massive exegetical work on Genesis and Exodus, suggests an interest in the "internal sense" of sacred texts.2
+Mahan's title states his purpose: to explain and to expose. For the substance of Swedenborg's theology—the World of Spirits, the Discrete Degrees, the internal sense of Scripture—Carroll's route ran through his circle, above all George MacDonald.
 
 It is critical to note that in mid-Victorian England, possessing Swedenborg’s works was often a marker of the "Broad Church" or liberal intellectual, signalling a dissatisfaction with the rigid dogmas of eternal damnation and penal substitutionary atonement. For Carroll, a man plagued by scrupulosity and deep religious anxiety, Swedenborg offered a "rational mysticism"—a way to harmonize the scientific order of the universe with the reality of the spiritual world.
 
@@ -38,7 +38,7 @@ Another pillar of Carroll’s theological environment was Frederick Denison Maur
 
 This Maurician distinction is purely Swedenborgian. Swedenborg repeatedly asserts in *Heaven and Hell* that "Angels have no idea of time... but instead of time they have an idea of state".9 Karen Gardiner’s recent thesis on the influence of Maurice on Carroll argues convincingly that Carroll’s imaginative works contain "theology within the nonsense," specifically tackling the "question of the meaning of the word 'eternal'".8
 
-When the Mad Hatter declares that he has "quarreled with Time" and that it is now "always six o’clock," Carroll is not merely making a joke; he is dramatizing the Maurician/Swedenborgian definition of Hell as a state of "stasis" where spiritual progress is halted, and the soul is trapped in a perpetual "now" without the redemptive movement of regeneration.
+When the Mad Hatter says that he and Time "quarrelled last March" and that "It's always six o'clock now," Carroll is not merely making a joke; he is dramatizing the Maurician/Swedenborgian definition of Hell as a state of "stasis" where spiritual progress is halted, and the soul is trapped in a perpetual "now" without the redemptive movement of regeneration.
 
 ### **2.4 The Artistic Circle: Hughes, Wilkinson, and Visual Correspondence**
 
@@ -97,7 +97,7 @@ Crucially, the mushroom itself controls size. One side makes you taller (Spiritu
 
 ### **4.4 The Mad Tea Party: The Hell of Stasis**
 
-The **Mad Tea Party** serves as a diagram of the **Hell of the Intellect**. The Hatter has "quarreled with Time," and now "it is always six o'clock".13 In Swedenborg’s theology, Hell is not a place of punishment but a "state" of fixation. Evil spirits are locked in their "ruling love" and cannot progress; they repeat their states endlessly.21
+The **Mad Tea Party** serves as a diagram of the **Hell of the Intellect**. The Hatter and Time "quarrelled last March," and now "It's always six o'clock".13 In Swedenborg’s theology, Hell is not a place of punishment but a "state" of fixation. Evil spirits are locked in their "ruling love" and cannot progress; they repeat their states endlessly.21
 
 * **The Hatter:** Corresponds to the **Intellect** in a state of insanity (falsity). His riddle ("Why is a raven like a writing desk?") is a description of his own mind: "flat" (lacking vertical dimension) and "without a distinct meaning" (severed from spiritual cause).13  
 * **The March Hare:** Corresponds to the "Natural Will" driven by lust (madness of March/mating season).  
@@ -242,11 +242,11 @@ The evidence amassed from the biographical context, the explicit theoretical sta
 
 **Third-Order Insight:** The "Nonsense" genre itself is a theological strategy. By presenting the spiritual world as "nonsense" to the natural Alice, Carroll replicates the **epistemological gap** between the two degrees. He forces the reader to inhabit the "inverted" perspective of the unregenerate mind. The humor arises from the friction between the "Vertical" truth of Swedenborg and the "Horizontal" logic of the Victorian era.
 
-Carroll’s work is a "Looking-Glass" held up to the Victorian soul. It reflects the madness of a world that has "quarreled with Time" and lost the key to the Garden. By decoding the correspondence, we find that the "Raven" of dark materialism is indeed like the "Writing Desk" of dead theology—and that the only way out of the rabbit hole is to wake up.
+Carroll’s work is a "Looking-Glass" held up to the Victorian soul. It reflects the madness of a world that has quarrelled with Time and lost the key to the Garden. By decoding the correspondence, we find that the "Raven" of dark materialism is indeed like the "Writing Desk" of dead theology—and that the only way out of the rabbit hole is to wake up.
 
 #### **Works cited**
 
-1. THE NINETEENTH \- Museums and Collections, accessed on February 1, 2026, [https://collections.reading.ac.uk/special-collections/wp-content/uploads/sites/5/2020/01/Finzicatalogue\_small\_part2\_pdf.pdf](https://collections.reading.ac.uk/special-collections/wp-content/uploads/sites/5/2020/01/Finzicatalogue_small_part2_pdf.pdf)  
+1. Lovett, Charles C. *Lewis Carroll among His Books: A Descriptive Catalogue of the Private Library of Charles L. Dodgson.* Jefferson, NC: McFarland, 2005.
 2. This document does not meet the current format guidelines of the Graduate School at The University of Texas at Austin. It has been published for informational use only., accessed on February 1, 2026, [https://repositories.lib.utexas.edu/bitstreams/6fe367df-b9e3-405b-9b1f-72cea44f4d32/download](https://repositories.lib.utexas.edu/bitstreams/6fe367df-b9e3-405b-9b1f-72cea44f4d32/download)  
 3. Swedenborg | Cambridge Centre for the study of Western Esotericism, accessed on February 1, 2026, [https://ccwe.wordpress.com/tag/swedenborg/](https://ccwe.wordpress.com/tag/swedenborg/)  
 4. George MacDonald: The Fantasy Writer Who Shaped C.S. Lewis, J. R.R. Tolkien and Madeleine L'Engle \- Guideposts, accessed on February 1, 2026, [https://guideposts.org/angels-and-miracles/miracles/gods-grace/george-macdonald-the-fantasy-writer-who-shaped-cs-lewis-j-rr-tolkien/](https://guideposts.org/angels-and-miracles/miracles/gods-grace/george-macdonald-the-fantasy-writer-who-shaped-cs-lewis-j-rr-tolkien/)  

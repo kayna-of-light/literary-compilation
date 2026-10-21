@@ -52,7 +52,7 @@ In *Moana* (2016), the "darkness" or "black rot" spreading across the islands is
 
 ## **III. The Menagerie of the Mind: Animal Correspondences**
 
-Swedenborg asserts that "animals correspond to affections; the tame and useful animals to good affections, and the fierce and useless ones to evil affections". In Disney films, animals rarely appear as mere livestock; they are almost always "sidekicks" or "extensions" of the main character, externalizing their inner emotional reality. This externalization is not random; specific animals consistently perform roles that align with their Swedenborgian correspondences.
+Swedenborg asserts that "the animals of the earth correspond in general to affection, mild and useful animals to good affections, fierce and useless ones to evil affections" (*Heaven and Hell* §110). In Disney films, animals rarely appear as mere livestock; they are almost always "sidekicks" or "extensions" of the main character, externalizing their inner emotional reality. This externalization is not random; specific animals consistently perform roles that align with their Swedenborgian correspondences.
 
 ### **3.1 The Horse: The Intellectual Principle**
 

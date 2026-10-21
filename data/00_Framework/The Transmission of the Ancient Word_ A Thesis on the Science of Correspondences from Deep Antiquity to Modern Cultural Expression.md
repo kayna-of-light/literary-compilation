@@ -886,7 +886,7 @@ Hans Christian Andersen (1805-1875) represents a more direct transmission. Ander
 
 ### C. Lewis Carroll: The Correspondence of Nonsense
 
-Lewis Carroll (Charles Dodgson, 1832-1898) owned Swedenborg's major works: *Heaven and Hell*, *Divine Love and Wisdom*, and *Arcana Coelestia*.^[38] His close friendship with George MacDonald—a novelist whose fantasies are demonstrably Swedenborgian—provided interpretive mediation. Carroll was embedded in a circle that included Garth Wilkinson, Swedenborg's primary English translator.
+Lewis Carroll (Charles Dodgson, 1832-1898) owned Asa Mahan's *Modern Mysteries, Explained and Exposed*, whose fourth part treats the "Clairvoyant Revelations of Emmanuel Swedenborg."^[42] His close friendship with George MacDonald—a novelist whose fantasies are demonstrably Swedenborgian—provided interpretive mediation. Carroll was embedded in a circle that included Garth Wilkinson, Swedenborg's primary English translator.
 
 **The mechanism**: Carroll's "nonsense" is spiritual sense viewed through the distorting lens of the natural intellect. The "madness" of Wonderland is the experience of a natural consciousness encountering the World of Causes, where effect precedes cause (from the natural perspective).
 

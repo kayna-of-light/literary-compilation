@@ -90,7 +90,7 @@ In animation, visual economy is paramount. A book labeled "Arcana Coelestia" is 
 ### **5.2 "The Blessings Three": A Coded Creed?**
 
 While the book was generic, the script introduced a specific theological triad that served as a covert nod to Swedenborgianism. The lyrics of the film’s songs, written by **Kim Gannon** and **Walter Kent** , emphasize three things Johnny leaves behind:  
-*"Love, and Faith, and the Apple Tree."*  
+*"Love, Faith and the Apple Tree."*  
 This phrase, often repeated in the narration, is not merely a rhyme. It is a precise translation of the Swedenborgian **Trinity of Essentials**:
 
 1. **Love (Charity):** The Will / The desire to do good.  
@@ -115,7 +115,7 @@ If we look past the "generic Bible," does the film contain actual Swedenborgian 
 
 In standard Christian iconography of the 1940s, angels were distinct created beings, often depicted as cherubs or winged seraphim. Disney’s angel for Johnny is radically different.
 
-* **The Depiction:** He is a transparent, rugged pioneer, wearing a hat (the controversial coonskin cap) and smoking a pipe (in concept art, toned down in the film). He speaks in the vernacular and identifies himself as Johnny’s "private guardian angel."  
+* **The Depiction:** He is a transparent, rugged pioneer, wearing a hat (the controversial coonskin cap). He speaks in the vernacular and identifies himself as Johnny’s "private guardian angel."  
 * **Swedenborgian Alignment:** Swedenborg explicitly taught that **angels are not a separate species**, but are the spirits of deceased human beings who have lived in accordance with divine order. They retain their human form, personality, and idiosyncratic traits.  
 * **The Insight:** By depicting the angel as a "frontier spirit"—a man who lived and died and now guides Johnny—Disney provided a more accurate *Swedenborgian* depiction of an angel than a traditional "Biblical" angel would have been. This aligns with Carmer’s influence as a folklore expert.
 

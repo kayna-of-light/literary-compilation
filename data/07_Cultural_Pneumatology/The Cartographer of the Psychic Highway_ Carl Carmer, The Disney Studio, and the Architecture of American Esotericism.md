@@ -115,7 +115,7 @@ Carmer’s presence allows Adelquist to make that claim honestly. The studio *di
 
 ### **4.4 The "Blessings Three" Coding: A Theological Translation**
 
-The film’s central theological assertion is the song lyric: "The Lord is good to me... He left his blessings three: Love, and Faith, and the Apple Tree." As noted in the library documents 5, this is a code for the Swedenborgian Trinity of Essentials:
+The film’s central theological assertion is the closing song's line "you'll find he left his blessings three," which the studio's own text for the 1949 record album gives as "LOVE, FAITH and the APPLE TREE." As noted in the library documents 5, this is a code for the Swedenborgian Trinity of Essentials:
 
 * **Love** (The Will/Charity)  
 * **Faith** (The Understanding/Truth)  

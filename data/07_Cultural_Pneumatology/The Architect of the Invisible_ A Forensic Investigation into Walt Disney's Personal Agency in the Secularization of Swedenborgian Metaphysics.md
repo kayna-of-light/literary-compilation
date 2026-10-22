@@ -139,7 +139,7 @@ The studio hired **Carl Carmer** as the "Folklore Consultant" for *Melody Time* 
 
 Carmer was an expert on American esoteric sects; his books covered the **Koreshan Unity** (a Hollow Earth cult based on Swedenborgian cosmology), whose founder Cyrus Teed wrote *Emanuel Swedenborg: His Mission* (Carmer 1949), and Mormon origins (Carmer 1970).
 
-**Insight:** By hiring Carmer, Walt Disney was actively seeking deep, esoteric historical context. He wanted the "real stuff." Carmer would have been the primary source for the Swedenborgian details of Johnny Appleseed’s life. His presence ensures that the theological coding in the film was intentional. Walt didn't want a sanitized version of history; he wanted the *spiritual* history of America, and he hired the one man who knew where the bodies (and the tracts) were buried.
+**Insight:** By hiring Carmer, Walt Disney was actively seeking deep, esoteric historical context. He wanted the "real stuff." Carmer knew the tradition that names Chapman's faith: in his own retelling Johnny reads aloud "news fresh from heaven"—Haley's phrase—from "the Bible he carried inside the coffee sack" (Carmer 1937), the same dress the film would give that faith. His presence meant the studio had the Haley tradition at hand, and the studio defended its angel on the ground of Chapman's own belief that heavenly spirits walked among men (Means 2011). Walt didn't want a sanitized version of history; he wanted the *spiritual* history of America, and he hired the one man who knew where the bodies (and the tracts) were buried.
 
 ### **5.2 Mary Blair and the Wayfarers Chapel**
 
@@ -244,31 +244,32 @@ Walt Disney did not build a church; he built a studio. But in doing so, he creat
 17. Canemaker, John. *The Art and Flair of Mary Blair: An Appreciation.* Updated ed. New York: Disney Editions, 2014.
 18. Care, Ross. *Disney Legend Wilfred Jackson: A Life in Animation.* Theme Park Press, 2016.
 19. Carmer, Carl. *Dark Trees to the Wind: A Cycle of York State Years.* New York: William Sloane Associates, 1949.
-20. Carmer, Carl. *The Farm Boy and the Angel.* Garden City, NY: Doubleday, 1970.
-21. Cross, Whitney R. *The Burned-over District: The Social and Intellectual History of Enthusiastic Religion in Western New York, 1800–1850.* Ithaca, NY: Cornell University Press, 1950.
-22. Gadassik, Alla. "Assembling Movement: Scientific Motion Analysis and Studio Animation Practice." *Discourse* 37, no. 3 (2015): 269–297.
-23. Hearn, Michael Patrick, ed. *The Annotated Wizard of Oz.* By L. Frank Baum. Centennial ed. New York: W. W. Norton, 2000.
-24. Karlstrom, Paul J., ed. *On the Edge of America: California Modernist Art, 1900–1950.* Berkeley: University of California Press, 1996.
-25. Korkis, Jim. *The Vault of Walt: Unofficial, Unauthorized, Uncensored Disney Stories Never Told.* [United States]: Ayefour, 2010.
-26. Lawson, Valerie. *Mary Poppins, She Wrote: The Life of P. L. Travers.* New York: Simon & Schuster, 2006.
-27. Means, Howard. *Johnny Appleseed: The Man, the Myth, the American Story.* New York: Simon & Schuster, 2011.
-28. Menocal, Narciso G. *Architecture as Nature: The Transcendentalist Idea of Louis Sullivan.* Madison: University of Wisconsin Press, 1981.
-29. Twombly, Robert. *Louis Sullivan: His Life and Work.* New York: Viking, 1986.
+20. Carmer, Carl. *The Hurricane's Children: Tales from Your Neck o' the Woods.* New York: Farrar & Rinehart, 1937.
+21. Carmer, Carl. *The Farm Boy and the Angel.* Garden City, NY: Doubleday, 1970.
+22. Cross, Whitney R. *The Burned-over District: The Social and Intellectual History of Enthusiastic Religion in Western New York, 1800–1850.* Ithaca, NY: Cornell University Press, 1950.
+23. Gadassik, Alla. "Assembling Movement: Scientific Motion Analysis and Studio Animation Practice." *Discourse* 37, no. 3 (2015): 269–297.
+24. Hearn, Michael Patrick, ed. *The Annotated Wizard of Oz.* By L. Frank Baum. Centennial ed. New York: W. W. Norton, 2000.
+25. Karlstrom, Paul J., ed. *On the Edge of America: California Modernist Art, 1900–1950.* Berkeley: University of California Press, 1996.
+26. Korkis, Jim. *The Vault of Walt: Unofficial, Unauthorized, Uncensored Disney Stories Never Told.* [United States]: Ayefour, 2010.
+27. Lawson, Valerie. *Mary Poppins, She Wrote: The Life of P. L. Travers.* New York: Simon & Schuster, 2006.
+28. Means, Howard. *Johnny Appleseed: The Man, the Myth, the American Story.* New York: Simon & Schuster, 2011.
+29. Menocal, Narciso G. *Architecture as Nature: The Transcendentalist Idea of Louis Sullivan.* Madison: University of Wisconsin Press, 1981.
+30. Twombly, Robert. *Louis Sullivan: His Life and Work.* New York: Viking, 1986.
 
 **Internal Library Documents:**
 
-30. [The Apple and the Angel: An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's *The Legend of Johnny Appleseed*](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md). The library's study of the *Johnny Appleseed* short, the Murdoch correspondence and the Blessings Three, on which section IV draws.
-31. [The Carriers of the Invisible: A Personnel History of Swedenborgian Thought in the Walt Disney Studio](The%20Carriers%20of%20the%20Invisible_%20A%20Personnel%20History%20of%20Swedenborgian%20Thought%20in%20the%20Walt%20Disney%20Studio.md). The companion personnel history of Carmer, Graham, Blair and the Wright connection.
+31. [The Apple and the Angel: An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's *The Legend of Johnny Appleseed*](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md). The library's study of the *Johnny Appleseed* short, the Murdoch correspondence and the Blessings Three, on which section IV draws.
+32. [The Carriers of the Invisible: A Personnel History of Swedenborgian Thought in the Walt Disney Studio](The%20Carriers%20of%20the%20Invisible_%20A%20Personnel%20History%20of%20Swedenborgian%20Thought%20in%20the%20Walt%20Disney%20Studio.md). The companion personnel history of Carmer, Graham, Blair and the Wright connection.
 
 **Web Sources:**
 
-32. American Film Institute. "Melody Time (1948)." *AFI Catalog of Feature Films*, n.d. https://catalog.afi.com/Catalog/MovieDetails/25636.
-33. Amidi, Amid. "When Frank Lloyd Wright Met Disney." *Cartoon Brew*, December 14, 2006. https://www.cartoonbrew.com/old-brew/when-frank-lloyd-wright-met-disney-2397.html.
-34. Amidi, Amid. "The Strange and Tragic Life of Hal Adelquist." *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.
-35. Bawden-Davis, Julie. "Hilbert Museum of California Art." *Old Towne Orange Plaza Review*, March 16, 2016. https://www.orangereview.com/public/article/51/hilbert-museum-of-california-art.
-36. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
-37. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.
-38. Korkis, Jim. "Books That Influenced Disney." *MousePlanet*, November 12, 2020. https://www.mouseplanet.com/12803/Books_That_Influenced_Disney.
-39. Korkis, Jim. "In His Own Words: Frank Lloyd Wright on 'Fantasia.'" *Cartoon Research*, December 16, 2022. https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/.
-40. Wayfarers Chapel. "History." *Wayfarers Chapel*, n.d. https://www.wayfarerschapel.org/about/history/.
-41. Wayne, Gary. "Wayfarer's Chapel." *Seeing-Stars.com*, n.d. https://www.seeing-stars.com/Churches/Wayfarers.shtml.
+33. American Film Institute. "Melody Time (1948)." *AFI Catalog of Feature Films*, n.d. https://catalog.afi.com/Catalog/MovieDetails/25636.
+34. Amidi, Amid. "When Frank Lloyd Wright Met Disney." *Cartoon Brew*, December 14, 2006. https://www.cartoonbrew.com/old-brew/when-frank-lloyd-wright-met-disney-2397.html.
+35. Amidi, Amid. "The Strange and Tragic Life of Hal Adelquist." *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.
+36. Bawden-Davis, Julie. "Hilbert Museum of California Art." *Old Towne Orange Plaza Review*, March 16, 2016. https://www.orangereview.com/public/article/51/hilbert-museum-of-california-art.
+37. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
+38. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.
+39. Korkis, Jim. "Books That Influenced Disney." *MousePlanet*, November 12, 2020. https://www.mouseplanet.com/12803/Books_That_Influenced_Disney.
+40. Korkis, Jim. "In His Own Words: Frank Lloyd Wright on 'Fantasia.'" *Cartoon Research*, December 16, 2022. https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/.
+41. Wayfarers Chapel. "History." *Wayfarers Chapel*, n.d. https://www.wayfarerschapel.org/about/history/.
+42. Wayne, Gary. "Wayfarer's Chapel." *Seeing-Stars.com*, n.d. https://www.seeing-stars.com/Churches/Wayfarers.shtml.

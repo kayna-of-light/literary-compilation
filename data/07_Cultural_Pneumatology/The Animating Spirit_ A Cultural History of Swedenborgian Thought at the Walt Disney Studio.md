@@ -339,7 +339,7 @@ Andersen's tales provided Disney with material already structured for Action Ana
 
 ### 5.3 Lewis Carroll: MacDonald, Maurice, and the Swedenborgian Circle
 
-Lewis Carroll (Charles Dodgson) has been dismissed as a purveyor of "literary nonsense," yet the catalogue of his private library lists Asa Mahan's *Modern Mysteries, Explained and Exposed*, whose fourth part treats the "Clairvoyant Revelations of Emmanuel Swedenborg" (Lovett 2005).
+Lewis Carroll (Charles Dodgson) has been dismissed as a purveyor of "literary nonsense," yet the catalogue of his private library lists three books that brought Swedenborg to him: Emerson's *Representative Men*, with its essay on Swedenborg; Asa Mahan's *Modern Mysteries, Explained and Exposed*, whose fourth part treats the "Clairvoyant Revelations of Emmanuel Swedenborg"; and *The Human Body and its Connexion with Man* (1851) by James John Garth Wilkinson, "the editor of Swedenborg" in Emerson's phrase (Lovett 2005).
 
 Carroll's interpretation of Swedenborg was mediated through George MacDonald, who persuaded him to submit the *Alice* story to a publisher (Collingwood 1898). MacDonald's theology was saturated with Swedenborgianism: he "read widely in the classic literature of mysticism, including Swedenborg and Boehme," and the symbolism of *Phantastes* and *Lilith* has been traced to Blake's sources, "Boehme or Swedenborg" (Reis 1972). MacDonald believed in universal restoration—a view aligning with Swedenborg's emphasis on divine mercy rather than eternal punishment.
 

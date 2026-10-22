@@ -82,7 +82,7 @@ Though published later, this book confirms Carmer’s lifelong obsession with th
 
 ### **3.4 *America Sings* (1942): The Appleseed Text**
 
-Carmer’s anthology *America Sings: Stories and Songs of Our Country's Growing* 16 contains a specific chapter and song for Johnny Appleseed. This establishes a direct textual link between Carmer and the Chapman legend six years before the Disney film. While the snippets do not reproduce the full text of Carmer’s Appleseed story, the context of the book—connecting folk heroes to the "growing" of the country—aligns perfectly with the Disney film’s theme of the "pioneer spirit." This book likely served as the "pitch document" or the initial source material that brought Carmer to Disney's attention.
+Carmer’s anthology *America Sings: Stories and Songs of Our Country's Growing* 16 contains a specific chapter and song for Johnny Appleseed. This establishes a direct textual link between Carmer and the Chapman legend six years before the Disney film. The story had first appeared in *The Hurricane's Children* (1937). In it Johnny would "stretch himself out on the floor, take out the Bible he carried inside the coffee sack, and read aloud what he called 'news fresh from heaven'—the Sermon on the Mount" (Carmer 1937): Haley's phrase for Chapman's Swedenborgian readings, in the dress the Disney film would also give them. The context of the book—connecting folk heroes to the "growing" of the country—aligns perfectly with the Disney film’s theme of the "pioneer spirit." This book likely served as the "pitch document" or the initial source material that brought Carmer to Disney's attention.
 
 ## **IV. The Consultant’s Role: Carmer at the Disney Studio**
 
@@ -189,7 +189,7 @@ When the angel in Disney’s *Johnny Appleseed* appears not as a biblical seraph
 | Feature | Disney Depiction | Carmer’s Likely Influence/Knowledge | Swedenborgian Connection |
 | :---- | :---- | :---- | :---- |
 | **The Angel** | A "Pioneer Spirit" (ghost of a settler) rather than a winged seraph. | Carmer studied 19th-century Spiritualism (Fox Sisters) and Shaker spirit guides (*Lonesome Drum*). | Matches Swedenborg’s doctrine that all angels are deceased humans. |
-| **The Book** | Johnny carries "The Book" (Bible/Tracts) as his primary tool. | Carmer knew Chapman distributed Swedenborgian tracts (Heaven & Hell) as "Good News." | Represents the "Word" (Divine Truth) which Chapman prioritized over material comfort. |
+| **The Book** | Johnny carries "The Book" (Bible/Tracts) as his primary tool. | Carmer told the Haley tradition, in which Chapman reads settlers "news fresh from heaven"; his Johnny reads it from a Bible (Carmer 1937). | Represents the "Word" (Divine Truth) which Chapman prioritized over material comfort. |
 | **The "Blessings Three"** | "Love, Faith, and the Apple Tree" (Song Lyric). | Carmer understood the sect's emphasis on "Use" (Works) combined with Faith and Charity. | Encodes the Swedenborgian "Trinity of Essentials": Charity (Love), Faith (Truth), and Works (Use). |
 | **Non-Violence** | Johnny refuses to kill a worm/mosquito; befriends animals. | Carmer’s folklore work emphasized the "gentle hero" vs. the "brute hero" (like Mike Fink). | Reflects Swedenborgian view of animals as "affections" and the sanctity of life (Influx). |
 | **The Setting** | Romanticized frontier; nature as a spiritual theater. | Carmer’s *Rivers of America* work focused on the landscape as a generator of myth. | Matches the "Doctrine of Correspondences" (Natural world mirrors Spiritual world). |

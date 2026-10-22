@@ -85,7 +85,7 @@ Carmer’s bibliography reveals a lifelong obsession with these esoteric movemen
 
 Carmer’s presence at the studio during the development of *Melody Time* and its *Johnny Appleseed* segment provides the direct transmission link. He was the "carrier" who brought the specific historical and theological context of Chapman to the Disney story trust.
 
-When Walt Disney hired Carmer, he was not hiring a generic folklorist; he was hiring a specialist in American esoteric history. This supports the hypothesis of "Active Seeking." Walt wanted the "real stuff"—the deep, weird, spiritual history of America—because he knew it provided the narrative weight that simple gags could not. Carmer’s role ensures that the Swedenborgian elements in *Melody Time* were not accidental residue, but curated content.
+When Walt Disney hired Carmer, he was not hiring a generic folklorist; he was hiring a specialist in American esoteric history. This supports the hypothesis of "Active Seeking." Walt wanted the "real stuff"—the deep, weird, spiritual history of America—because he knew it provided the narrative weight that simple gags could not. Carmer had told the Chapman legend himself, from Haley's account: in *The Hurricane's Children* his Johnny reads aloud "news fresh from heaven" from "the Bible he carried inside the coffee sack" (Carmer 1937)—the phrase Haley gives a Swedenborgian, in the dress the film would give it.
 
 ## **V. The Pedagogue of Forces: Don Graham and the Secularization of Influx**
 
@@ -207,7 +207,7 @@ Walt Disney did not build a church; he built a studio. But in doing so, he creat
 
 | Carrier/Vector | Role/Artifact | Swedenborgian Connection | Impact on Studio Ethos |
 | :---- | :---- | :---- | :---- |
-| **Carl Carmer** | Folklore Consultant | Historian of "Burned-Over District"; expert on esoteric sects. | Ensured *Johnny Appleseed* retained New Church theology (Angelology, Charity). |
+| **Carl Carmer** | Folklore Consultant | Historian of "Burned-Over District"; expert on esoteric sects. | Told the Chapman legend from Haley's account (Carmer 1937). |
 | **Mary Blair** | Art Supervisor | Art supervisor of *Johnny Appleseed* (1948); friend of Adelquist. | Visualized "Influx" (blurring spirit/nature); defined the "Golden Age" look. |
 | **Don Graham** | Art Instructor | Pedagogy of "Forces vs. Forms" (Action Analysis). | Secularized "Influx" doctrine into technical training. |
 | **Walt Stanchfield** | Instructor/Mentor | *Drawn to Life* lectures; Mentor to Renaissance animators. | Bridge between Golden Age and Modern Era; taught "Inner Force" drawing. |
@@ -245,35 +245,36 @@ This "Active Substrate" ensures that whenever a Disney artist tries to make a ch
 17. Black, Cameron, Trent Correy, and Ben Fiske. "Frozen 2: Creating the Wind Spirit." In *SIGGRAPH '20 Talks*. New York: Association for Computing Machinery, 2020. https://doi.org/10.1145/3388767.3407346.
 18. Canemaker, John. *The Art and Flair of Mary Blair: An Appreciation.* Updated ed. New York: Disney Editions, 2014.
 19. Carmer, Carl. *Dark Trees to the Wind: A Cycle of York State Years.* New York: William Sloane Associates, 1949.
-20. Carmer, Carl. *The Farm Boy and the Angel.* Garden City, NY: Doubleday, 1970.
-21. Cross, Whitney R. *The Burned-over District: The Social and Intellectual History of Enthusiastic Religion in Western New York, 1800–1850.* Ithaca, NY: Cornell University Press, 1950.
-22. Gadassik, Alla. "Assembling Movement: Scientific Motion Analysis and Studio Animation Practice." *Discourse* 37, no. 3 (2015): 269–297.
-23. Grønn, Berit, and Britt W. Svenhard. "Magic Realism and the Feminine in *Encanto*: Genre and Narrative Mode as Paratext." *Tidskrift för litteraturvetenskap* 52, no. 4 (2022): 64–80. https://doi.org/10.54797/tfl.v52i4.11758.
-24. Julius, Jessica. *The Art of Frozen 2.* Foreword by Chris Buck, Jennifer Lee and Peter Del Vecho. San Francisco: Chronicle Books, 2019.
-25. Karlstrom, Paul J., ed. *On the Edge of America: California Modernist Art, 1900–1950.* Berkeley: University of California Press, 1996.
-26. Means, Howard. *Johnny Appleseed: The Man, the Myth, the American Story.* New York: Simon & Schuster, 2011.
-27. Stanchfield, Walt. *Drawn to Life: 20 Golden Years of Disney Master Classes.* Edited by Don Hahn. 2 vols. Burlington, MA: Focal Press, 2009. 2nd ed., Boca Raton, FL: CRC Press, 2023–2024.
+20. Carmer, Carl. *The Hurricane's Children: Tales from Your Neck o' the Woods.* New York: Farrar & Rinehart, 1937.
+21. Carmer, Carl. *The Farm Boy and the Angel.* Garden City, NY: Doubleday, 1970.
+22. Cross, Whitney R. *The Burned-over District: The Social and Intellectual History of Enthusiastic Religion in Western New York, 1800–1850.* Ithaca, NY: Cornell University Press, 1950.
+23. Gadassik, Alla. "Assembling Movement: Scientific Motion Analysis and Studio Animation Practice." *Discourse* 37, no. 3 (2015): 269–297.
+24. Grønn, Berit, and Britt W. Svenhard. "Magic Realism and the Feminine in *Encanto*: Genre and Narrative Mode as Paratext." *Tidskrift för litteraturvetenskap* 52, no. 4 (2022): 64–80. https://doi.org/10.54797/tfl.v52i4.11758.
+25. Julius, Jessica. *The Art of Frozen 2.* Foreword by Chris Buck, Jennifer Lee and Peter Del Vecho. San Francisco: Chronicle Books, 2019.
+26. Karlstrom, Paul J., ed. *On the Edge of America: California Modernist Art, 1900–1950.* Berkeley: University of California Press, 1996.
+27. Means, Howard. *Johnny Appleseed: The Man, the Myth, the American Story.* New York: Simon & Schuster, 2011.
+28. Stanchfield, Walt. *Drawn to Life: 20 Golden Years of Disney Master Classes.* Edited by Don Hahn. 2 vols. Burlington, MA: Focal Press, 2009. 2nd ed., Boca Raton, FL: CRC Press, 2023–2024.
 
 **Internal Library Documents:**
 
-28. [The Animating Spirit: An Exhaustive Analysis of Swedenborgian Correspondences in the Cinematic Universe of Walt Disney](The%20Animating%20Spirit_%20An%20Exhaustive%20Analysis%20of%20Swedenborgian%20Correspondences%20in%20the%20Cinematic%20Universe%20of%20Walt%20Disney.md). The library's correspondential readings of *The Lion King*, *Frozen*, *Frozen II* and *Tangled*, on which section VII draws.
-29. [The Apple and the Angel: An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's *The Legend of Johnny Appleseed*](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md). The library's study of the *Johnny Appleseed* short, the Murdoch correspondence and the Blessings Three, on which section III draws.
-30. [The Carriers of the Invisible: A Personnel History of Swedenborgian Thought in the Walt Disney Studio](The%20Carriers%20of%20the%20Invisible_%20A%20Personnel%20History%20of%20Swedenborgian%20Thought%20in%20the%20Walt%20Disney%20Studio.md). The companion personnel history, which carries sections II–V of this report in parallel and adds the Wright connection.
+29. [The Animating Spirit: An Exhaustive Analysis of Swedenborgian Correspondences in the Cinematic Universe of Walt Disney](The%20Animating%20Spirit_%20An%20Exhaustive%20Analysis%20of%20Swedenborgian%20Correspondences%20in%20the%20Cinematic%20Universe%20of%20Walt%20Disney.md). The library's correspondential readings of *The Lion King*, *Frozen*, *Frozen II* and *Tangled*, on which section VII draws.
+30. [The Apple and the Angel: An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's *The Legend of Johnny Appleseed*](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md). The library's study of the *Johnny Appleseed* short, the Murdoch correspondence and the Blessings Three, on which section III draws.
+31. [The Carriers of the Invisible: A Personnel History of Swedenborgian Thought in the Walt Disney Studio](The%20Carriers%20of%20the%20Invisible_%20A%20Personnel%20History%20of%20Swedenborgian%20Thought%20in%20the%20Walt%20Disney%20Studio.md). The companion personnel history, which carries sections II–V of this report in parallel and adds the Wright connection.
 
 **Web Sources:**
 
-31. American Film Institute. "Melody Time (1948)." *AFI Catalog of Feature Films*, n.d. https://catalog.afi.com/Catalog/MovieDetails/25636.
-32. Amidi, Amid. "The Strange and Tragic Life of Hal Adelquist." *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.
-33. Bawden-Davis, Julie. "Hilbert Museum of California Art." *Old Towne Orange Plaza Review*, March 16, 2016. https://www.orangereview.com/public/article/51/hilbert-museum-of-california-art.
-34. Canemaker, John. "New York University's Tisch School of the Arts Animation Program." *Animation World Magazine*, February 1999. https://www.awn.com/animationworld/new-york-universitys-tisch-school-arts-animation-program.
-35. Cone, Justin. "Glen Keane: Duet." *Motionographer*, June 29, 2014. https://motionographer.com/2014/06/29/glean-keane-duet/.
-36. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
-37. D23. "Art School Formed at Disney Studio with Donald Graham Serving as Teacher." *This Day in Disney History*, November 15, 1932. https://d23.com/this-day/art-school-formed-at-disney-studio-with-donald-graham-serving-as-teacher/.
-38. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.
-39. McGowan, Chris. "Authenticity Was Mission No. 1 for Capturing the Essence of *Encanto*." *VFX Voice*, March 22, 2022. https://vfxvoice.com/authenticity-was-mission-no-1-for-capturing-the-essence-of-encanto/.
-40. Noyer, Jérémie. "Beauty and the Beast: Glen Keane on Discovering the Beauty in the Beast." *Animated Views*, October 11, 2010. http://animatedviews.com/2010/beauty-and-the-beast-glen-keane-on-discovering-the-beauty-in-the-beast/.
-41. Robinson, Joanna. "How Pacific Islanders Helped Disney's *Moana* Find Its Way." *Vanity Fair*, November 16, 2016. https://www.vanityfair.com/hollywood/2016/11/moana-oceanic-trust-disney-controversy-pacific-islanders-polynesia.
-42. Sámi Parliament of Finland. "Unique Collaboration Gives Impacts to Sápmi." *Sámediggi*, September 30, 2019. https://samediggi.fi/en/news/unique-collaboration-gives-impacts-to-sapmi/.
-43. Swedenborg Society. "Influence on Literature." *Swedenborg Society*, n.d. https://www.swedenborg.org.uk/about-us/about-swedenborg/influence/.
-44. Wayfarers Chapel. "History." *Wayfarers Chapel*, n.d. https://www.wayfarerschapel.org/about/history/.
-45. Zamlout, Nicole. "1 Way Disney's *Wish* Could Have Been Improved (That Fans Came Up With)." *Screen Rant*, April 5, 2024. https://screenrant.com/disney-wish-movie-star-boy-design-romance-improve/.
+32. American Film Institute. "Melody Time (1948)." *AFI Catalog of Feature Films*, n.d. https://catalog.afi.com/Catalog/MovieDetails/25636.
+33. Amidi, Amid. "The Strange and Tragic Life of Hal Adelquist." *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.
+34. Bawden-Davis, Julie. "Hilbert Museum of California Art." *Old Towne Orange Plaza Review*, March 16, 2016. https://www.orangereview.com/public/article/51/hilbert-museum-of-california-art.
+35. Canemaker, John. "New York University's Tisch School of the Arts Animation Program." *Animation World Magazine*, February 1999. https://www.awn.com/animationworld/new-york-universitys-tisch-school-arts-animation-program.
+36. Cone, Justin. "Glen Keane: Duet." *Motionographer*, June 29, 2014. https://motionographer.com/2014/06/29/glean-keane-duet/.
+37. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
+38. D23. "Art School Formed at Disney Studio with Donald Graham Serving as Teacher." *This Day in Disney History*, November 15, 1932. https://d23.com/this-day/art-school-formed-at-disney-studio-with-donald-graham-serving-as-teacher/.
+39. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.
+40. McGowan, Chris. "Authenticity Was Mission No. 1 for Capturing the Essence of *Encanto*." *VFX Voice*, March 22, 2022. https://vfxvoice.com/authenticity-was-mission-no-1-for-capturing-the-essence-of-encanto/.
+41. Noyer, Jérémie. "Beauty and the Beast: Glen Keane on Discovering the Beauty in the Beast." *Animated Views*, October 11, 2010. http://animatedviews.com/2010/beauty-and-the-beast-glen-keane-on-discovering-the-beauty-in-the-beast/.
+42. Robinson, Joanna. "How Pacific Islanders Helped Disney's *Moana* Find Its Way." *Vanity Fair*, November 16, 2016. https://www.vanityfair.com/hollywood/2016/11/moana-oceanic-trust-disney-controversy-pacific-islanders-polynesia.
+43. Sámi Parliament of Finland. "Unique Collaboration Gives Impacts to Sápmi." *Sámediggi*, September 30, 2019. https://samediggi.fi/en/news/unique-collaboration-gives-impacts-to-sapmi/.
+44. Swedenborg Society. "Influence on Literature." *Swedenborg Society*, n.d. https://www.swedenborg.org.uk/about-us/about-swedenborg/influence/.
+45. Wayfarers Chapel. "History." *Wayfarers Chapel*, n.d. https://www.wayfarerschapel.org/about/history/.
+46. Zamlout, Nicole. "1 Way Disney's *Wish* Could Have Been Improved (That Fans Came Up With)." *Screen Rant*, April 5, 2024. https://screenrant.com/disney-wish-movie-star-boy-design-romance-improve/.

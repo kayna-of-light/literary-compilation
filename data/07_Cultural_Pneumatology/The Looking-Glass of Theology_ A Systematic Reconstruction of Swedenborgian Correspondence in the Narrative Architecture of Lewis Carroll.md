@@ -18,9 +18,9 @@ To assert that a conservative Oxford don systematically applied a heterodox theo
 
 ### **2.1 The Library of Charles Lutwidge Dodgson: Evidence of Intent**
 
-The most irrefutable evidence of an author’s intellectual diet is his library. A descriptive catalogue of the books owned by Lewis Carroll at the time of his death reveals a collection that far exceeds the standard curriculum of an Anglican clergyman. Among the volumes on mathematics, logic, and poetry, Swedenborg appears through another's pen: Asa Mahan's *Modern Mysteries, Explained and Exposed*, whose fourth part treats the "Clairvoyant Revelations of Emmanuel Swedenborg."1
+The most irrefutable evidence of an author’s intellectual diet is his library. A descriptive catalogue of the books owned by Lewis Carroll at the time of his death reveals a collection that far exceeds the standard curriculum of an Anglican clergyman. Among the volumes on mathematics, logic, and poetry, Swedenborg appears through other pens: Emerson's *Representative Men*, with its essay on Swedenborg; Asa Mahan's *Modern Mysteries, Explained and Exposed*, whose fourth part treats the "Clairvoyant Revelations of Emmanuel Swedenborg"; and *The Human Body and its Connexion with Man* (1851) by James John Garth Wilkinson, "the editor of Swedenborg" in Emerson's phrase.1
 
-Mahan's title states his purpose: to explain and to expose. For the substance of Swedenborg's theology—the World of Spirits, the Discrete Degrees, the internal sense of Scripture—Carroll's route ran through his circle, above all George MacDonald.
+Swedenborg's own works are not among them. For the substance of Swedenborg's theology—the World of Spirits, the Discrete Degrees, the internal sense of Scripture—Carroll's route ran through his circle, above all George MacDonald.
 
 It is critical to note that in mid-Victorian England, possessing Swedenborg’s works was often a marker of the "Broad Church" or liberal intellectual, signalling a dissatisfaction with the rigid dogmas of eternal damnation and penal substitutionary atonement. For Carroll, a man plagued by scrupulosity and deep religious anxiety, Swedenborg offered a "rational mysticism"—a way to harmonize the scientific order of the universe with the reality of the spiritual world.
 

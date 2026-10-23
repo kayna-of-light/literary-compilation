@@ -179,7 +179,7 @@ The confusion over the "Seven Bandits" vs. the "Seven Dwarfs" (Zachary 2025) ref
 The evidence assembled supports the hypothesis that the Walt Disney Studio has functioned, for much of its history, as a vehicle for Swedenborgian thought—whether through conscious transmission or cultural absorption. The pattern is consistent across multiple data points, though the mechanism of original transmission (1935-1937) remains undocumented.
 
 * **The Foundation:** Don Graham and Walt Disney codified principles compatible with the Doctrine of Influx ("The Mind is the Pilot") as the industrial physics of animation—though whether they knew the theological parallel is unknown.  
-* **The Confirmation (1948):** Hal Adelquist and Carl Carmer demonstrably engaged with Swedenborgian content in *Johnny Appleseed*, showing the studio knew Chapman's religious identity.  
+* **The Confirmation (1948):** Hal Adelquist demonstrably engaged with Swedenborgian content in *Johnny Appleseed*, and its folklore consultant, Carl Carmer, had told Chapman's story from Haley's account, showing the studio knew Chapman's religious identity.  
 * **The Sanctuary (post-1949):** The Palos Verdes Nexus, centered on the **Wayfarers Chapel**, gave the Swedenborgian church an architecture of the same correspondential vision that Mary Blair painted for the studio.  
 * **The Future:** The 2025 *Snow White* appears to represent a course correction after a period of deviation (*Wish*)—whether this is conscious theological return or intuitive aesthetic return is unclear.
 

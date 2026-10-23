@@ -28,7 +28,7 @@ The cornerstone of Swedenborg’s system is the concept of *Correspondence*. He 
 
 #### **The Zoology of Affection**
 
-In this system, living creatures are living symbols of the "Will." Swedenborg asserts, "Animals correspond to affections; the tame and useful animals to good affections, and the fierce and useless ones to evil affections".5 A sheep does not merely *symbolize* charity; the spiritual affection of charity *causes* the form of the sheep to exist. Thus, a "talking animal" in a story is simply an "affection" made articulate.
+In this system, living creatures are living symbols of the "Will." Swedenborg asserts that "the animals of the earth correspond in general to affection, mild and useful animals to good affections, fierce and useless ones to evil affections" (*Heaven and Hell* §110).5 A sheep does not merely *symbolize* charity; the spiritual affection of charity *causes* the form of the sheep to exist. Thus, a "talking animal" in a story is simply an "affection" made articulate.
 
 ### **2.2 The Schelling Connection: The Prism of Naturphilosophie**
 
@@ -44,7 +44,7 @@ Jacob and Wilhelm Grimm were not isolated scholars; they were active participant
 
 This circle was steeped in the mystical revival that looked to Jakob Böhme and Swedenborg as antidotes to Enlightenment materialism. Brentano, for instance, read Swedenborg and was deeply influenced by Christian mysticism.16 The Grimms shared the Romantic conviction that folk tales were the *Naturpoesie* (natural poetry) of the *Volk*—shattered fragments of an ancient, organic revelation that mirrored the workings of nature itself.17
 
-While the Grimms were ostensibly philologists, their worldview was shaped by the Schellingian idea that language and myth were organic growths of the human spirit, rooted in the natural world. They believed that "Christianity had preserved Germany's pagan past," absorbing the ancient nature-worship into a new moral framework—a syncretism that Swedenborg himself supported in his description of the "Ancient Church" which possessed the science of correspondences.19 Thus, when the Grimms collected tales of speaking trees and magical birds, they were preserving what they saw as the remnants of a primordial spiritual language—the very language of correspondence described by Swedenborg.
+While the Grimms were ostensibly philologists, their worldview was shaped by the Schellingian idea that language and myth were organic growths of the human spirit, rooted in the natural world. Wilhelm Grimm wrote, in his essay "Über das Wesen der Märchen" (1819), that common to all the tales are "the remnants of a belief reaching back to the oldest times, which expresses itself in a figurative grasp of supersensible things"—a view of ancient revelation surviving in figurative form that Swedenborg himself held in his description of the "Ancient Church" which possessed the science of correspondences.19 Thus, when the Grimms collected tales of speaking trees and magical birds, they were preserving what they saw as the remnants of a primordial spiritual language—the very language of correspondence described by Swedenborg.
 
 ## **III. Animate Landscapes: The Topography of the Soul**
 
@@ -72,7 +72,7 @@ Swedenborg posits that physical altitude corresponds to spiritual "degree." "Mou
 The landscape in Grimm tales often actively defends or imprisons based on the moral timing of the narrative.
 
 * **Sleeping Beauty / Briar Rose (KHM 50):** The princess is surrounded by a "hedge of thorns" that grows to conceal the castle completely.  
-  * *Swedenborgian Correspondence:* "Thorns and briars" are specific biblical correspondences for "falsities and lusts" that choke the church or the mind.25 In the tale, the hedge acts as a lethal barrier to the "false suitors"—princes who attempt to force their way in through self-intelligence or "faith alone" without the requisite state of love. They are entangled and destroyed by the falsities of the age.  
+  * *Swedenborgian Correspondence:* "Thorns," "briers," "brambles," and "thistles" "signify falsities of evil, from their stings" (*Apocalypse Revealed* §439), which choke the church or the mind.25 In the tale, the hedge acts as a lethal barrier to the "false suitors"—princes who attempt to force their way in through self-intelligence or "faith alone" without the requisite state of love. They are entangled and destroyed by the falsities of the age.  
   * *The Transformation:* When the "right" Prince arrives (representing the conjunction of Good and Truth), the thorns turn into flowers "of their own accord".21 This "miraculous" change of the landscape from thorns to flowers is a precise correspondence of the *transformation* of the mind during regeneration. When approached by genuine Love (the Prince), the "thorns" of the literal sense or natural mind blossom into the "flowers" of wisdom. The landscape reacts to the moral quality of the visitor.
 
 ### **3.4 Weather and Elements: The Response of the Heavens**

@@ -48,7 +48,7 @@ Crucially, the memo reveals Walt’s belief that "there is a scientific approach
 
 "I am convinced that there is a scientific approach to this business... showing the men ways of visualizing action in their minds, breaking the action so that the men are prepared in advance to begin animation of the action and know thoroughly what they are going to animate." (Disney, 23 December 1935; Gadassik 2015)
 
-Walt did not view this "mentalist" approach as mystical in a vague or diaphanous sense, but as a replicable technology of performance. By instructing Graham to teach animators how to "visualize action in their minds" before drawing, Walt was essentially mandating a training program in *imagination*—the ability to see the "spiritual" cause before rendering the "natural" effect. This aligns with the "active substrate" theory: the studio was building a mechanism to industrially reproduce "ensoulment." The "science" Walt refers to is the science of cause and effect applied to the psyche and the pencil.
+Walt did not view this "mentalist" approach as mystical in a vague or diaphanous sense, but as a replicable technology of performance. By instructing Graham to show the men "ways of visualizing action in their minds" before drawing, Walt was essentially mandating a training program in *imagination*—the ability to see the "spiritual" cause before rendering the "natural" effect. This aligns with the "active substrate" theory: the studio was building a mechanism to industrially reproduce "ensoulment." The "science" Walt refers to is the science of cause and effect applied to the psyche and the pencil.
 
 ## ---
 

@@ -21,7 +21,7 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > his York State chronicles are the fieldwork. Carmer is credited on *Melody Time* only; any "main consultant for the
 > films" (Scott 2015, on Stewart's blog) is wrong. "Unique and mystic quality" is his 1970 preface to *The Farm Boy and
 > the Angel*. *Dark Trees* ch. 14 is pp. 260–289 (settled). Carmer's papers: Fenimore Art Museum, Cooperstown; letters:
-> Syracuse (*Alabama Authors*). Koreshans are Swedenborg-*influenced* (Millner 2017), never a "Swedenborgian heresy".
+> Syracuse (*Alabama Authors*); Syracuse holds two unrelated letters, so only Fenimore remains. Koreshans are Swedenborg-*influenced* (Millner 2017), never a "Swedenborgian heresy".
 >
 > **Corrected 2026-10-22, check before relying on older wording anywhere**: Carl Carmer's own Appleseed tale
 > (*The Hurricane's Children*, 1937; reprinted in *America Sings*, 1942) gives Johnny "the Bible he carried inside the
@@ -150,8 +150,10 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > Open nodes: Erdman Penner's "Mennonite family" (Wikipedia cites the Mennonite Archival Image Database,
 > `archives.mhsc.ca`, Cloudflare-blocked; D23's Dave Smith gives only "a pioneer doctor" and "his French wife"; the
 > "Roman Catholic mother" has no record and is gone); where the Murdoch letters are held (Means 2011's notes to ch. 13 may name the holding — probe the FTS for
-> "Murdoch" + "Papers"/"Collection"); what Carmer's papers hold (Fenimore Art Museum, Cooperstown, and Syracuse; both
-> finding aids return 403 — whether any 1946–48 Disney correspondence survives is a question for the author to put to them); Wright's family and Swedenborg; Adelquist's ancestry (only an anonymous genealogy blog); Don Graham's birth
+> "Murdoch" + "Papers"/"Collection"); what Carmer's papers hold (Syracuse's folder is two 1935/1942 letters, nothing on Disney — read 2026-10-23; the
+> Fenimore Art Museum's Carl Carmer Collection, 1908–1976, bulk 1940–1970, is undigitized and its Empire ADC record is
+> behind a human check — whether any 1946–48 Disney correspondence survives is a question for the author to put to the
+> Fenimore Research Library); Wright's family and Swedenborg; Adelquist's ancestry (only an anonymous genealogy blog); Don Graham's birth
 > year (Wikipedia's 1903 cites a dead PDF). The author was asked whether they can reach the letters (Johnny Appleseed
 > Museum, Urbana; Ohio History Connection; Walt Disney Archives).
 >

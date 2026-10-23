@@ -71,7 +71,7 @@ Carmer’s bibliography reveals a lifelong obsession with these esoteric movemen
 ### **4.2 The Direct Line of Transmission**
 
 Carmer’s presence at the studio during the development of *Melody Time* and its *Johnny Appleseed* segment provides the direct transmission link. He was the "carrier" who brought the specific historical and theological context of Chapman to the Disney story trust.  
-When Walt Disney hired Carmer, he was not hiring a generic folklorist; he was hiring a specialist in American esoteric history. This supports the hypothesis of "Active Seeking." Walt wanted the "real stuff"—the deep, weird, spiritual history of America—because he knew it provided the narrative weight that simple gags could not. Carmer’s role ensures that the Swedenborgian elements in *Melody Time* were not accidental residue, but curated content.
+When Walt Disney hired Carmer, he was not hiring a generic folklorist; he was hiring a specialist in American esoteric history. This supports the hypothesis of "Active Seeking." Walt wanted the "real stuff"—the deep, weird, spiritual history of America—because he knew it provided the narrative weight that simple gags could not. Carmer had told the Chapman legend himself, from Haley's account: in *The Hurricane's Children* his Johnny reads aloud "news fresh from heaven" from "the Bible he carried inside the coffee sack" (Carmer 1937)—the phrase Haley gives a Swedenborgian, in the dress the film would give it.
 
 ## **V. The Pedagogue of Forces: Don Graham and the Secularization of Influx**
 
@@ -144,7 +144,7 @@ Through the "Active Seeking" of consultants like Carl Carmer and the "Structural
 
 | Carrier/Vector | Role/Artifact | Swedenborgian Connection | Impact on Studio Ethos |
 | :---- | :---- | :---- | :---- |
-| **Carl Carmer** | Folklore Consultant (*Melody Time*) | Historian of "Burned-Over District"; expert on esoteric sects. | Ensured *Johnny Appleseed* retained New Church theology (Angelology, Charity); bridged history and folklore. |
+| **Carl Carmer** | Folklore Consultant (*Melody Time*) | Historian of "Burned-Over District"; expert on esoteric sects. | Told the Chapman legend from Haley's account (Carmer 1937); bridged history and folklore. |
 | **Mary Blair** | Art Supervisor / Stylist | Art supervisor of *Johnny Appleseed* (1948); friend of Adelquist. | Visualized "Influx" (blurring spirit/nature) in studio style; defined the "Golden Age" look with correspondential aesthetics. |
 | **Don Graham** | Art Instructor | Pedagogy of "Forces vs. Forms" (*Action Analysis*). | Secularized "Influx" doctrine into technical training; taught animators to see "inner force" as the creator of "outer form." |
 | **Lloyd Wright** | Architect | Designer of **Wayfarers Chapel** (Swedenborg Memorial). | Created a physical/spiritual hub for the Disney creative community that validated "Organic/Correspondential" aesthetics. |
@@ -173,27 +173,28 @@ Through the "Active Seeking" of consultants like Carl Carmer and the "Structural
 13. Besant, Annie, and C. W. Leadbeater. *Thought-Forms.* London: Theosophical Publishing House, 1901.
 14. Canemaker, John. *The Art and Flair of Mary Blair: An Appreciation.* Updated ed. New York: Disney Editions, 2014.
 15. Carmer, Carl. *Dark Trees to the Wind: A Cycle of York State Years.* New York: William Sloane Associates, 1949.
-16. Carmer, Carl. *The Farm Boy and the Angel.* Garden City, NY: Doubleday, 1970.
-17. Cross, Whitney R. *The Burned-over District: The Social and Intellectual History of Enthusiastic Religion in Western New York, 1800–1850.* Ithaca, NY: Cornell University Press, 1950.
-18. Karlstrom, Paul J., ed. *On the Edge of America: California Modernist Art, 1900–1950.* Berkeley: University of California Press, 1996.
-19. Means, Howard. *Johnny Appleseed: The Man, the Myth, the American Story.* New York: Simon & Schuster, 2011.
-20. Menocal, Narciso G. *Architecture as Nature: The Transcendentalist Idea of Louis Sullivan.* Madison: University of Wisconsin Press, 1981.
+16. Carmer, Carl. *The Hurricane's Children: Tales from Your Neck o' the Woods.* New York: Farrar & Rinehart, 1937.
+17. Carmer, Carl. *The Farm Boy and the Angel.* Garden City, NY: Doubleday, 1970.
+18. Cross, Whitney R. *The Burned-over District: The Social and Intellectual History of Enthusiastic Religion in Western New York, 1800–1850.* Ithaca, NY: Cornell University Press, 1950.
+19. Karlstrom, Paul J., ed. *On the Edge of America: California Modernist Art, 1900–1950.* Berkeley: University of California Press, 1996.
+20. Means, Howard. *Johnny Appleseed: The Man, the Myth, the American Story.* New York: Simon & Schuster, 2011.
+21. Menocal, Narciso G. *Architecture as Nature: The Transcendentalist Idea of Louis Sullivan.* Madison: University of Wisconsin Press, 1981.
 
 **Internal Library Documents:**
 
-21. [The Apple and the Angel: An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's *The Legend of Johnny Appleseed*](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md). The library's study of the *Johnny Appleseed* short, the Murdoch correspondence and the Blessings Three, on which the case study in section III draws.
-22. [The Glass Church and the Magic Mirror: A Pneumatological History of the Walt Disney Studio](The%20Glass%20Church%20and%20the%20Magic%20Mirror_%20A%20Pneumatological%20History%20of%20the%20Walt%20Disney%20Studio.md). The companion history of Adelquist, Mary Blair and the Wayfarers Chapel.
+22. [The Apple and the Angel: An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's *The Legend of Johnny Appleseed*](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md). The library's study of the *Johnny Appleseed* short, the Murdoch correspondence and the Blessings Three, on which the case study in section III draws.
+23. [The Glass Church and the Magic Mirror: A Pneumatological History of the Walt Disney Studio](The%20Glass%20Church%20and%20the%20Magic%20Mirror_%20A%20Pneumatological%20History%20of%20the%20Walt%20Disney%20Studio.md). The companion history of Adelquist, Mary Blair and the Wayfarers Chapel.
 
 **Web Sources:**
 
-23. American Film Institute. "Melody Time (1948)." *AFI Catalog of Feature Films*, n.d. https://catalog.afi.com/Catalog/MovieDetails/25636.
-24. Amidi, Amid. "When Frank Lloyd Wright Met Disney." *Cartoon Brew*, December 14, 2006. https://www.cartoonbrew.com/old-brew/when-frank-lloyd-wright-met-disney-2397.html.
-25. Amidi, Amid. "The Strange and Tragic Life of Hal Adelquist." *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.
-26. Ballard, Mark. "Hilbert Museum of California Art." *Disney History 101*, October 5, 2018. https://www.disneyhistory101.com/new-blog-2/2018/9/8/hilbert-museum-of-california-art.
-27. Bawden-Davis, Julie. "Hilbert Museum of California Art." *Old Towne Orange Plaza Review*, March 16, 2016. https://www.orangereview.com/public/article/51/hilbert-museum-of-california-art.
-28. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
-29. D23. "Art School Formed at Disney Studio with Donald Graham Serving as Teacher." *This Day in Disney History*, November 15, 1932. https://d23.com/this-day/art-school-formed-at-disney-studio-with-donald-graham-serving-as-teacher/.
-30. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.
-31. Korkis, Jim. "In His Own Words: Frank Lloyd Wright on 'Fantasia.'" *Cartoon Research*, December 16, 2022. https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/.
-32. Wayfarers Chapel. "History." *Wayfarers Chapel*, n.d. https://www.wayfarerschapel.org/about/history/.
-33. Wayne, Gary. "Wayfarer's Chapel." *Seeing-Stars.com*, n.d. https://www.seeing-stars.com/Churches/Wayfarers.shtml.
+24. American Film Institute. "Melody Time (1948)." *AFI Catalog of Feature Films*, n.d. https://catalog.afi.com/Catalog/MovieDetails/25636.
+25. Amidi, Amid. "When Frank Lloyd Wright Met Disney." *Cartoon Brew*, December 14, 2006. https://www.cartoonbrew.com/old-brew/when-frank-lloyd-wright-met-disney-2397.html.
+26. Amidi, Amid. "The Strange and Tragic Life of Hal Adelquist." *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.
+27. Ballard, Mark. "Hilbert Museum of California Art." *Disney History 101*, October 5, 2018. https://www.disneyhistory101.com/new-blog-2/2018/9/8/hilbert-museum-of-california-art.
+28. Bawden-Davis, Julie. "Hilbert Museum of California Art." *Old Towne Orange Plaza Review*, March 16, 2016. https://www.orangereview.com/public/article/51/hilbert-museum-of-california-art.
+29. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
+30. D23. "Art School Formed at Disney Studio with Donald Graham Serving as Teacher." *This Day in Disney History*, November 15, 1932. https://d23.com/this-day/art-school-formed-at-disney-studio-with-donald-graham-serving-as-teacher/.
+31. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.
+32. Korkis, Jim. "In His Own Words: Frank Lloyd Wright on 'Fantasia.'" *Cartoon Research*, December 16, 2022. https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/.
+33. Wayfarers Chapel. "History." *Wayfarers Chapel*, n.d. https://www.wayfarerschapel.org/about/history/.
+34. Wayne, Gary. "Wayfarer's Chapel." *Seeing-Stars.com*, n.d. https://www.seeing-stars.com/Churches/Wayfarers.shtml.

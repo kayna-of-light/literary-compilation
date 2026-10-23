@@ -20,9 +20,9 @@
 
 The Walt Disney Studio's "Golden Age" animation (1937–1959) exhibits a distinctive metaphysical architecture. Characters move because internal intentions drive external forms. Environments respond to protagonists' emotional states—forests becoming menacing during terror, castles transforming as inhabitants regenerate. The physics of these animated worlds obey moral and emotional logic rather than Newtonian mechanics. This architecture is not incidental; it was deliberately constructed through pedagogical intervention, formalized in internal memos, and passed down through three generations of animators as the definitive "Disney Style."
 
-This architecture bears striking structural resemblance to the theological system of Emanuel Swedenborg (1688–1772), specifically his Doctrine of Influx. Swedenborg taught that the spiritual world is the realm of causes (will, affection, thought) and the natural world is the realm of effects (body, action, form). "The body’s activity in speech or deed is only an effect from the external and internal of man’s spirit, for the body is so much obedience."⁴⁰ The mechanism is explicit: life flows from the spiritual into the natural; the body does not move itself, the spirit moves the body.
+This architecture bears striking structural resemblance to the theological system of Emanuel Swedenborg (1688–1772), specifically his Doctrine of Influx. Swedenborg taught that the spiritual world is the realm of causes (will, affection, thought) and the natural world is the realm of effects (body, action, form). "The body’s activity in speech or deed is only an effect from the external and internal of man’s spirit, for the body is so much obedience" (*Divine Providence* §103). The mechanism is explicit: life flows from the spiritual into the natural; the body does not move itself, the spirit moves the body.
 
-When Walt Disney wrote to Don Graham in December 1935 that "the mind is the pilot. We think of things before the body does them,"² he articulated a principle functionally identical to Influx—yet we possess no archival evidence that Disney ever read Swedenborg, attended a New Church, or consciously drew on theological sources. The Graham pedagogy of "Action Analysis," which trained animators to draw "the force, not the form," is structurally isomorphic to Swedenborgian metaphysics—yet Graham's documented influences point to Chouinard Art Institute and the broader Los Angeles metaphysical milieu, not to specific theological texts.
+When Walt Disney wrote to Don Graham in December 1935 that "the mind is the pilot. We think of things before the body does them" (Disney, 23 December 1935), he articulated a principle functionally identical to Influx—yet we possess no archival evidence that Disney ever read Swedenborg, attended a New Church, or consciously drew on theological sources. The Graham pedagogy of "Action Analysis," which taught that the artist "is not drawing a form at all, but indicating a force" (Graham, 21 June 1937), is structurally isomorphic to Swedenborgian metaphysics—yet Graham's documented influences point to Chouinard Art Institute and the broader Los Angeles metaphysical milieu, not to specific theological texts.
 
 This creates an interpretive problem. Two inadequate models have dominated the historiography:
 
@@ -54,7 +54,7 @@ The mechanism operates through four interconnected processes:
 
 **Evidence for Conscious Encoding from the Founding**
 
-The *Johnny Appleseed* correspondence (1948) was initially thought to mark the transition to conscious transmission. Hal Adelquist, Story Department Manager, told Florence Murdoch, librarian of the Cincinnati Church of the New Jerusalem, that the studio had researched the real Chapman extensively.³ You cannot extensively research John Chapman without learning he was a Swedenborgian missionary. **They knew.**
+The *Johnny Appleseed* correspondence (1948) was initially thought to mark the transition to conscious transmission. Hal Adelquist, Story Department Manager, told Florence Murdoch, librarian of the Cincinnati Church of the New Jerusalem, that the studio had researched the real Chapman extensively (Fryeburg New Church Assembly n.d.; Means 2011). You cannot extensively research John Chapman without learning he was a Swedenborgian missionary. **They knew.**
 
 But *Snow White and the Seven Dwarfs* (1937) demonstrates that conscious encoding predates the Adelquist correspondence by a decade. The film's departures from Grimm are not artistic license—they are precise Swedenborgian eschatology:
 
@@ -63,14 +63,14 @@ But *Snow White and the Seven Dwarfs* (1937) demonstrates that conscious encodin
 | Coffin release | Dislodged by stumbling servants | Prince's kiss | Truth awakens the soul from spiritual death |
 | Destination | The prince's father's castle (horizontal) | Golden castle in clouds (vertical) | Ascent to celestial realm |
 | Villain's death | Forced to dance in red-hot iron shoes | Falls from cliff pursuing the dwarfs | Evil destroys itself by its own nature |
-| Snow White's state | "Enchanted sleep" | Explicit death/farewell to natural world | Death of natural selfhood preceding resurrection |
+| Snow White's state | Dead ("todt und blieb todt"), though she looks as if asleep | The "sleeping death," mourned as death; a farewell to the dwarfs | Death of natural selfhood preceding resurrection |
 
 The Snow White transformation sequence maps precisely to Swedenborg's post-mortem journey: Death (poisoned apple) → Vastation (glass coffin) → Awakening by Divine Truth (Prince's kiss) → Ascent to the Celestial Kingdom (golden castle in clouds) → Self-destruction of evil (Queen's fall). No one stumbles into this structure by accident.
 
 The Johnny Appleseed encoding confirmed a pattern that was already established:
 
-- The angel depicted as a deceased human pioneer—not a winged seraph—precisely matches Swedenborgian pneumatology ("There is not a single angel... who was created such from the beginning... but all are from the human race"⁴)
-- The "Blessings Three" (Love, Faith, Apple Tree) preserve the Swedenborgian structure of salvation (Charity, Faith, Use)
+- The angel depicted as a deceased human pioneer—not a winged seraph—precisely matches Swedenborgian pneumatology (*Heaven and Hell* §311: "in the entire heaven there is not a single angel who was created such from the beginning … but that all, both in heaven and in hell, are from the human race")
+- The "Blessings Three" (Love, Faith, and the Apple Tree; *Johnny Appleseed* 1949) preserve the Swedenborgian structure of salvation (Charity, Faith, Use)
 - The visual erasure of boundary between natural and spiritual worlds is pure Influx rendered as animation
 
 The encoding strategy—preserve the structure, erase the sectarian label—is too sophisticated for accident. You hide something you are *consciously doing* that you think audiences might reject as religious propaganda.
@@ -116,7 +116,7 @@ The goal is not to prove that Swedenborg "influenced" Disney in the conventional
 
 In the late 1920s and early 1930s, American animation was dominated by the "rubber hose" style. Characters like Felix the Cat, the early Mickey Mouse, and Oswald the Lucky Rabbit were constructed of loose, flexible tubes without elbows, knees, or anatomical constraints. They moved with fluid, rhythmic bounce dictated primarily by the musical score. In films like *The Skeleton Dance* (1929) or *Steamboat Willie* (1928), characters function as visual instruments—their limbs rattle, stretch, and contract in synchronization with the soundtrack rather than in response to internal motivation.
 
-This subordination of character to music created what historians have termed the "mechanical" quality of early animation.¹ The characters possessed motility without volition. They moved because the animator moved the pencil, because the beat dictated a rhythmic contraction—not because an internal will necessitated action. They were, in a specific technical sense, soulless.
+This subordination of character to music created a "mechanical" quality in early animation: Michael Barrier observes that Ub Iwerks animated "very rapidly in essentially mechanical patterns" (Barrier 1999). The characters possessed motility without volition. They moved because the animator moved the pencil, because the beat dictated a rhythmic contraction—not because an internal will necessitated action. They were, in a specific technical sense, soulless.
 
 While this aesthetic was highly effective for the "gag" structure of the short subject—where pleasure derives from visual surprise and rhythmic distortion—it created an insuperable barrier to sustained empathy. A character whose head can pop off and reattach exists in a universe without consequence. Without consequence, there is no drama. Without drama, there is no feature film.
 
@@ -126,21 +126,21 @@ Walt Disney, envisioning feature-length storytelling that would require audience
 
 The animators' dissatisfaction with rubber hose aesthetics is explicitly documented in the archival record. The most famous articulation comes from Art Babbitt's 1934 "Character Analysis of the Goof":
 
-> "Never think of the Goof as a sausage with rubber hose attachments. Though he is very flexible and floppy, his body still has a solidity and weight. The looseness in his arms and legs should be achieved through a succession of breaks in the joints rather than through what seems like the waving of so much rope."²
+> "Never think of the Goof as a sausage with rubber hose attachments. Though he is very flexible and floppy, his body still has a solidity and weight. The looseness in his arms and legs should be achieved through a succession of breaks in the joints rather than through what seems like the waving of so much rope." (Babbitt 1934)
 
 Babbitt's language is precise. A "sausage" is dead matter; a character with "solidity and weight" and "joints" is a biological entity. The "waving of rope" is dismissed as insufficient because it lacks the structural integrity required for personality. Even Goofy—a character defined by clumsiness—must have an anatomical logic. Babbitt is not merely giving technical advice; he is demanding an ontological shift.
 
-Similarly, Ward Kimball said of Fred Moore that he "was the first one to escape from the mold of the rubber hose, round circle school."³ Moore, to whom the redesign of Mickey Mouse with a "more pear-shaped and pliant" body capable of squash and stretch "is credited more ... than anyone else," moved Mickey away from the circles whose shapes "stayed fairly rigid and 'hard'" and restricted emotional expression.⁴ The circle was a geometric abstraction; the pear was a biological mass. The shift from circle to pear was the shift from symbol to body.
+Similarly, Ward Kimball said of Fred Moore that he "was the first one to escape from the mold of the rubber hose, round circle school" (Thomas and Johnston 1981). Moore, to whom the redesign of Mickey Mouse with a "more pear-shaped and pliant" body capable of squash and stretch "is credited more ... than anyone else," moved Mickey away from the circles whose shapes "stayed fairly rigid and 'hard'" and restricted emotional expression (Lerew 2020). The circle was a geometric abstraction; the pear was a biological mass. The shift from circle to pear was the shift from symbol to body.
 
-A specific technical symptom of "soullessness" was a kind of drifting. In early shorts, characters often appeared to float over the background rather than inhabit it. They lacked "weight." Dick Huemer, quoted by Neal Gabler, remembered the early animation as "almost like it was a flat design. Without any weight." Weight, in animation, is the visual cue for gravity; gravity is the tether to reality. A character without weight has no physical presence—they are a ghost. Walt Disney's dissatisfaction with this weightlessness was a dissatisfaction with the lack of *presence*.
+A specific technical symptom of "soullessness" was a kind of drifting. In early shorts, characters often appeared to float over the background rather than inhabit it. They lacked "weight." Dick Huemer remembered the early animation as "almost like it was a flat design. Without any weight" (quoted in Gabler 2006). Weight, in animation, is the visual cue for gravity; gravity is the tether to reality. A character without weight has no physical presence—they are a ghost. Walt Disney's dissatisfaction with this weightlessness was a dissatisfaction with the lack of *presence*.
 
 This technical issue was inextricably linked to a metaphysical one. In rubber hose animation, movement was often arbitrary. A hand reaching for a doorknob simply stretched toward it. In the new style Walt demanded, the hand had to *want* to reach the doorknob. The "force" of desire had to precede the "form" of the reach.
 
 ### 2.3 The Goddess of Spring Failure (1934)
 
-The crisis became acute with the production of *The Goddess of Spring* (1934), a *Silly Symphony* made in the year *Snow White* went into preproduction. The film attempted to animate a realistic human female (Persephone) alongside a melodramatic villain (Pluto/Hades).
+The crisis became acute with the production of *The Goddess of Spring* (1934), a *Silly Symphony* made in the year *Snow White* went into preproduction (Beiman 2014). The film attempted to animate a realistic human female (Persephone) alongside a melodramatic villain (Pluto/Hades).
 
-The result was a failure, and the studio knew it: Walt "was not pleased with the animation, feeling it was too rubbery and flexible," and Les Clark said of his own scenes, "it came off miserable, I thought."⁵ Animators trained in rubber hose principles attempted to draw a realistic woman but animated her with the flexible limbs and rhythmic bouncing of a cartoon mouse—a grotesque uncanny valley where form was human but motion was mechanical.
+The result was a failure, and the studio knew it: Walt "was not pleased with the animation, feeling it was too rubbery and flexible," and Les Clark said of his own scenes, "it came off miserable, I thought" (Thomas and Johnston 1981). Animators trained in rubber hose principles attempted to draw a realistic woman but animated her with the flexible limbs and rhythmic bouncing of a cartoon mouse—a grotesque uncanny valley where form was human but motion was mechanical.
 
 Walt Disney's reaction to this failure was pivotal. He recognized that "realism" could not be achieved merely by changing character design (the *form*). You could draw a realistic woman, but if you animated her like a rubber hose character, she looked monstrous. The change had to come from the *inside*. The movement had to be driven by a different engine.
 
@@ -150,7 +150,7 @@ Walt Disney's reaction to this failure was pivotal. He recognized that "realism"
 
 The solution came not through better cameras or more expensive ink, but through pedagogy. Walt Disney hired Don Graham from the Chouinard Art Institute to retrain his entire staff. The pivotal document—what we might call the "constitution" of the Disney Golden Age—is the memorandum Walt sent to Graham on December 23, 1935:
 
-> "Many men do not realize what really makes things move—why they move—what the force behind the movement is... in most instances, the driving force behind the action is the mood, the personality, the attitude of the character—or all three. Therefore, the mind is the pilot. We think of things before the body does them."⁶
+> "Many men do not realize what really makes things move—why they move—what the force behind the movement is... in most instances, the driving force behind the action is the mood, the personality, the attitude of the character—or all three. Therefore, the mind is the pilot. We think of things before the body does them." (Disney, 23 December 1935)
 
 This phrase—**"The mind is the pilot"**—establishes a causal hierarchy that reverses the rubber hose method:
 
@@ -174,7 +174,7 @@ The demand was set. The question was: where would the supply come from?
 
 To understand how the Disney Studio could develop a Swedenborgian-compatible culture without documented theological instruction, we must examine the cultural environment in which that culture emerged. The Los Angeles of the 1920s and 1930s was not merely a center of film production; it was one of the most concentrated sites of metaphysical activity in American history.
 
-Catherine Albanese, in *A Republic of Mind and Spirit*, documents the "metaphysical explosion" that made Southern California the capital of American alternative religion in the early twentieth century.¹ The region attracted an extraordinary density of movements sharing common features: belief that mind or spirit causally precedes matter, that invisible forces shape visible reality, and that consciousness can be trained to perceive and work with these forces.
+Catherine Albanese, in *A Republic of Mind and Spirit*, follows American metaphysical religion into Los Angeles in the early twentieth century: a New Thought "Fellowship" founded there by 1905, and Paramahansa Yogananda's Self-Realization Fellowship, founded in 1920 and headquartered there (Albanese 2007). The region attracted an extraordinary density of movements sharing common features: belief that mind or spirit causally precedes matter, that invisible forces shape visible reality, and that consciousness can be trained to perceive and work with these forces.
 
 These movements included:
 - **New Thought** (Religious Science, Divine Science, Unity) teaching that thoughts shape material conditions
@@ -183,17 +183,17 @@ These movements included:
 - **Spiritualist churches** maintaining that deceased humans communicate with the living
 - **The Vedanta Society** teaching Hindu metaphysics to Western audiences
 
-The Chouinard Art Institute, where Don Graham taught and from which Disney recruited, operated within this milieu. Walt Stanchfield, heir to Graham's pedagogy, titled one of his own lectures "The Metaphysical Side."² The language of "forces," "energies," and "thought-forms" was commonplace in Los Angeles art circles of the period.
+The Chouinard Art Institute, where Don Graham taught and from which Disney recruited, operated within this milieu. Walt Stanchfield, heir to Graham's pedagogy, titled one of his own lectures "The Metaphysical Side" (Stanchfield 2009). The language of "forces," "energies," and "thought-forms" was commonplace in Los Angeles art circles of the period.
 
 ### 3.2 Theosophy, New Thought, and Swedenborgian Diffusion
 
 The key to understanding this milieu is recognizing that Swedenborg's ideas had already diffused into it through multiple channels—without requiring anyone to identify as "Swedenborgian."
 
-Helena Blavatsky, founder of Theosophy, explicitly acknowledged Swedenborg as a precursor. She wrote that Swedenborg was "the great Swedish seer and prophet, who inspired such mystics as Ralph Waldo Emerson."³ Theosophy's core doctrine—that physical reality is the outermost shell of increasingly subtle spiritual planes—is structurally identical to Swedenborg's Doctrine of Degrees.
+Helena Blavatsky, founder of Theosophy, explicitly acknowledged Swedenborg as a precursor. She called him "the greatest among the modern seers" (Blavatsky 1877, vol. 2) and wrote: "His doctrine of correspondence, or Hermetic symbolism, is that of Pythagoras and of the kabalists—'as above, so below'" (Blavatsky 1877, 1:306). Theosophy's core doctrine—that physical reality is the outermost shell of increasingly subtle spiritual planes—is structurally identical to Swedenborg's Doctrine of Degrees.
 
-Annie Besant and Charles Leadbeater's *Thought-Forms* (1901), widely circulated in esoteric circles, taught that thoughts have shape and color in the astral plane. An artist absorbing this teaching learns to visualize the invisible before rendering the visible—precisely the skill Graham's pedagogy demanded.
+Annie Besant and Charles Leadbeater's *Thought-Forms* (Besant and Leadbeater 1901), widely circulated in esoteric circles, taught that thoughts have shape and color in the astral plane. An artist absorbing this teaching learns to visualize the invisible before rendering the visible—precisely the skill Graham's pedagogy demanded.
 
-New Thought, perhaps the most pervasive American metaphysical movement, similarly taught that "thoughts are things" and that consciousness shapes matter. New Thought's genealogy traces directly through Emerson and the Transcendentalists to Swedenborg. As Leigh Eric Schmidt documents in *Restless Souls*, Swedenborg was "the grandfather of New Thought."⁴
+New Thought, perhaps the most pervasive American metaphysical movement, similarly taught that "thoughts are things" and that consciousness shapes matter. New Thought's genealogy traces directly through Emerson and the Transcendentalists to Swedenborg. In Martin A. Larson's words, Swedenborg was "the grandfather of New Thought" (Larson 1985).
 
 The implication is crucial: an artist trained in Los Angeles in the 1920s-30s, absorbing the ambient metaphysics of the period, would have internalized Swedenborgian principles without ever encountering Swedenborg's name. The ideas had become atmospheric—part of the cultural water supply.
 
@@ -201,11 +201,11 @@ The implication is crucial: an artist trained in Los Angeles in the 1920s-30s, a
 
 The Los Angeles metaphysical milieu did not emerge from nothing. It was the westward migration of a religious current that originated in upstate New York's "Burned-Over District"—the region swept so frequently by revivals in the early nineteenth century that it acquired its incendiary nickname.
 
-Carl Carmer, whom Disney hired as "Folklore Consultant" for *Melody Time*, was the preeminent chronicler of this phenomenon. In *Listen for a Lonesome Drum* (1936), Carmer mapped what he called "The Psychic Highway"—the corridor from Albany to Buffalo that produced Mormonism, Spiritualism and the Shakers, and where Swedenborgian enthusiasm "yielded place to spiritualism" (Cross 1950).⁵
+Carl Carmer, whom Disney hired as "Folklore Consultant" for *Melody Time*, was the preeminent chronicler of this phenomenon. In *Listen for a Lonesome Drum* (1936), Carmer mapped what he called "a broad psychic highway, a thoroughfare of the occult," running "from east of Albany to west of Buffalo" (Carmer 1936)—the corridor that produced Mormonism, Spiritualism and the Shakers, and where Swedenborgian enthusiasm "yielded place to spiritualism" (Cross 1950).
 
 John Chapman (Johnny Appleseed) emerged from this exact milieu. He carried Swedenborg's works across the frontier, dividing the volumes into pieces to leave with settlers (Haley 1871). The Swedenborgian presence in the Burned-Over District was not peripheral; it was structural.
 
-When Carmer was hired by Disney in the late 1940s, the studio gained access to an expert who understood the deep genealogy of American metaphysical thought. Carmer's *Dark Trees to the Wind* (1949) includes a chapter on the Koreshan Unity, a Swedenborgian offshoot practicing alchemy and teaching hollow-earth cosmology.⁶ His research into Swedenborgian-adjacent movements was ongoing during his Disney consultancy.
+When Carmer was hired by Disney in the late 1940s, the studio gained access to an expert who understood the deep genealogy of American metaphysical thought. Carmer's *Dark Trees to the Wind* (1949) includes a chapter, "The Great Alchemist at Utica," on Cyrus Teed and his Koreshan Unity, the hollow-earth community whose founder wrote *Emanuel Swedenborg, His Mission* (Carmer 1949). His research into Swedenborgian-adjacent movements was ongoing during his Disney consultancy.
 
 The Los Angeles milieu and the Burned-Over District legacy thus converge: both represent stations on the diffusion path of Swedenborgian ideas into American culture. An artist drawing from the Los Angeles reservoir, a consultant drawing from Burned-Over District expertise, and source material (Grimm, Andersen) saturated with Romantic correspondentialism—all feeding into the same studio, all aligned with the same principles, all operating below the threshold of explicit theological instruction.
 
@@ -229,11 +229,11 @@ The absence of a documented "teaching moment" where someone explained Swedenborg
 
 ### 4.1 The "Mind is the Pilot" Memo (December 23, 1935)
 
-The pivotal document in the Disney Studio's philosophical codification is an inter-office memorandum from Walt Disney to Don Graham dated December 23, 1935. This memo, preserved in the Disney Archives and cited in authoritative histories including Thomas and Johnston's *The Illusion of Life*, establishes the studio's official position on the causation of animated movement.
+The pivotal document in the Disney Studio's philosophical codification is an inter-office memorandum from Walt Disney to Don Graham dated December 23, 1935. This memo, reproduced in Shamus Culhane's memoir (Culhane 1986) and cited in authoritative histories including Thomas and Johnston's *The Illusion of Life* (Thomas and Johnston 1981), establishes the studio's official position on the causation of animated movement.
 
 The crucial passage reads:
 
-> "In other words, in most instances, the driving force behind the action is the mood, the personality, the attitude of the character—or all three. Therefore, the mind is the pilot. We think of things before the body does them."¹
+> "In other words, in most instances, the driving force behind the action is the mood, the personality, the attitude of the character—or all three. Therefore, the mind is the pilot. We think of things before the body does them." (Disney, 23 December 1935)
 
 This is not merely practical advice on acting technique. It is an ontological claim about the nature of animated being. In the rubber hose era, the body was the pilot—the arm stretched because the visual gag required it, the leg cycled because the musical beat demanded it. The physical form was primary; the "mind" of the character was nonexistent or, at best, an afterthought.
 
@@ -241,29 +241,29 @@ Walt's directive reverses the polarity of causation. He posits a hierarchical re
 
 The memo further elaborates:
 
-> "We also do things on the spur of the moment by reaction to stimuli that are telegraphed to the mind by the nerves, etc. There are also things carried out by the subconscious mind—reflexes, actions that have become habit through repetition, instincts."²
+> "We also do things on the spur of the moment by reaction to stimuli that are telegraphed to the mind by the nerves, etc. There are also things carried out by the subconscious mind—reflexes, actions that have become habit through repetition, instincts." (Disney, 23 December 1935)
 
 This nuance shows sophisticated understanding of human psychology, distinguishing between conscious will and automated functions. While the "Pilot" (conscious will) sets the course, the "Machine" (the body/subconscious) has its own reflexes. This separation of "acting" (conscious intent) from "mechanics" (walking, breathing) would become foundational to Disney pedagogy.
 
-Crucially, Walt believed "there is a scientific approach to this business"—not mystical in a vague sense, but replicable as technology. He directed Graham to teach animators how to "visualize action in their minds" before drawing: essentially a training program in imagination, the ability to see the spiritual cause before rendering the natural effect.
+Crucially, Walt believed "there is a scientific approach to this business" (Disney, 23 December 1935; Gadassik 2015)—not mystical in a vague sense, but replicable as technology. He asked Graham to show the men "ways of visualizing action in their minds" before drawing: essentially a training program in imagination, the ability to see the spiritual cause before rendering the natural effect.
 
 ### 4.2 Graham's "Force vs. Form" Teaching
 
-Don Graham was hired in 1932 from the Chouinard Art Institute—not as an animator, but as an engineer turned fine artist.³ His background is significant. Unlike the "gag men" of the 1920s who learned by doing, Graham approached drawing with structural, analytical, and pedagogical rigor.
+Don Graham was hired in 1932 from the Chouinard Art Institute—not as an animator, but as an engineer turned fine artist (D23 1932; D. H. Graham 2005). His background is significant. Unlike the "gag men" of the 1920s who learned by doing, Graham approached drawing with structural, analytical, and pedagogical rigor.
 
-The central tenet of Graham's pedagogy was the distinction between **Form** and **Force**. In surviving lecture notes from June 1937, Graham stated:
+The central tenet of Graham's pedagogy was the distinction between **Form** and **Force**. In his class of 21 June 1937, Graham stated:
 
-> "In drawing lines representing a leg, a symbol for the force or thrust, is first drawn. The artist is not drawing a form at all, but indicating a force."⁴
+> "In drawing lines representing a leg, a symbol for the force or thrust, is first drawn. The artist is not drawing a form at all, but indicating a force." (Graham, 21 June 1937)
 
 Graham critiqued the tendency to focus on "Form"—the literal shape of a muscle, the contour of a limb, the static pose. Drawing "forms" resulted in stiff, dead drawings because it prioritized the material shell over the energy moving it. Such a drawing might be anatomically correct but lacked the spark of life.
 
 Graham taught that the animator must draw the **Force**—the invisible energy driving the visible form. He praised Bill Tytla (who animated Grumpy in *Snow White* and Chernabog in *Fantasia*) as the exemplar:
 
-> "The actual form is something which eventually is necessary but which is really a by-product of animation. The vital element is force."⁵
+> "The actual form is something which eventually is necessary but which is really a by-product of animation. The vital element is force." (Graham, 21 June 1937)
 
 This "Force" was not merely kinetic energy; it was psychic energy. Graham demanded that artists first identify the invisible intent and allow that intent to shape the visible body. The drawing was merely the "residue" of the force passing through the character.
 
-Graham's classes famously projected live-action films frame-by-frame—Chaplin and Buster Keaton comedies—not for rotoscoping (tracing), but for analysis. The goal was to deconstruct *why* Chaplin moved a certain way, looking for the "mental set" or "anticipation" that preceded physical movement.⁶ Students recall Graham stopping the film to show how Chaplin's fingers would "wriggle" in his pocket before extracting a key—a physical manifestation of the mental "pilot" initiating action.
+Graham's classes famously projected live-action films frame-by-frame—Chaplin and Buster Keaton comedies—not for rotoscoping (tracing), but for analysis. The goal was to deconstruct *why* Chaplin moved a certain way, looking for the "mental set" or "anticipation" that preceded physical movement. Shamus Culhane, who attended the classes, recalled Graham stopping the film to show how Chaplin's fingers would "wriggle" in his pocket before extracting a key—a physical manifestation of the mental "pilot" initiating action (Culhane 1986, quoted in Beiman 2014).
 
 ### 4.3 Structural Isomorphism with the Doctrine of Influx
 
@@ -275,7 +275,7 @@ The structural homology between Graham's pedagogy and Swedenborg's Doctrine of I
 | **The Natural (Effect)**: Body, Action, Form | **The Outer Form (Effect)**: The Drawing, the Character's Body |
 | **The Law**: Life flows down from Spiritual into Natural; the body does not move itself | **The Law**: Draw the Force, not the Form; the drawing results from intent acting on matter |
 
-Swedenborg wrote in *Divine Providence* (§103): "The body’s activity in speech or deed is only an effect from the external and internal of man’s spirit, for the body is so much obedience."⁴⁰
+Swedenborg wrote in *Divine Providence* (§103): "The body’s activity in speech or deed is only an effect from the external and internal of man’s spirit, for the body is so much obedience."
 
 Graham effectively trained animators to function as demiurges within this cosmology. To create a believable "Illusion of Life," they had to replicate the divine process of Influx: creating a spiritual cause (the idea/mood) and letting it flow into a natural effect (the drawing). If they started with the "natural" (drawing muscles first), the character looked dead because it lacked a spiritual cause.
 
@@ -293,9 +293,9 @@ This gap has two possible interpretations:
 
 The evidence supports the organic interpretation:
 
-1. **Theosophical Context**: Chouinard, like many art schools of the period, was permeable to Theosophical and metaphysical ideas.⁸ Theosophy incorporated vast amounts of Swedenborgian thought via Blavatsky. Graham, as a sophisticated art educator, would have absorbed these ideas without necessarily knowing their genealogy.
+1. **Theosophical Context**: Chouinard, like many art schools of the period, was permeable to Theosophical and metaphysical ideas (Karlstrom 1996; Crosse 2014). Theosophy incorporated vast amounts of Swedenborgian thought via Blavatsky. Graham, as a sophisticated art educator, would have absorbed these ideas without necessarily knowing their genealogy.
 
-2. **Student Testimony**: Walt Stanchfield, heir to Graham's pedagogy, titled one of his own lectures "The Metaphysical Side."⁹ The language of the classroom was spiritual, not merely anatomical—but the terminology was art-school metaphysics, not church theology.
+2. **Student Testimony**: Walt Stanchfield, heir to Graham's pedagogy, titled one of his own lectures "The Metaphysical Side" (Stanchfield 2009). The language of the classroom was spiritual, not merely anatomical—but the terminology was art-school metaphysics, not church theology.
 
 3. **Convergent Need**: The Crisis of Ensoulment created selection pressure for any pedagogy that could solve the problem. Graham's solution worked. It may have worked *because* it aligned with true principles (as the Swedenborgian framework proposes), but that alignment need not have been conscious.
 
@@ -307,31 +307,31 @@ The organic selection model does not require Graham to have known he was teachin
 
 ### 5.1 The Brothers Grimm: Schelling and Naturphilosophie
 
-The Brothers Grimm were not isolated folklore collectors but active participants in the Heidelberg Romantic circle—the intellectual vanguard of German *Naturphilosophie*.¹ This movement, led by Friedrich Schelling, rejected Enlightenment mechanism and proposed that "Nature is visible Spirit; Spirit is invisible Nature."²
+The Brothers Grimm were not isolated folklore collectors but active participants in Heidelberg Romanticism: close friends of Clemens Brentano and Achim von Arnim, they helped with the second and third volumes of the folk-song collection *Des Knaben Wunderhorn*, published in 1808 (Zipes 1987). Theirs was also the generation of German *Naturphilosophie*, the movement led by Friedrich Schelling, which rejected Enlightenment mechanism and proposed that "Nature is visible Spirit; Spirit is invisible Nature" (Schelling 1797).
 
-Schelling's engagement with Swedenborg was profound and documented. Through the Swabian pietist Friedrich Oetinger—who corresponded directly with Swedenborg—Schelling absorbed the Doctrine of Correspondences and integrated it into German Idealism.³ Friedemann Horn's study *Schelling and Swedenborg* details how Schelling adopted Swedenborg's concept of "spirit-corporeality" to underpin his own philosophy.
+Schelling's engagement with Swedenborg was profound and documented. The Swabian pietist Friedrich Christoph Oetinger corresponded directly with Swedenborg (Johnson 2002), and Schelling was "an avid reader of Böhme and Oetinger" (Magee 2001); through this line Schelling absorbed the Doctrine of Correspondences and integrated it into German Idealism. Friedemann Horn's study *Schelling and Swedenborg* traces Swedenborg's presence in Schelling's philosophy (Horn 1997).
 
-The Grimms shared the Romantic conviction that folk tales were *Naturpoesie*—shattered fragments of an ancient, organic revelation that mirrored the workings of nature itself. They believed that "Christianity had preserved Germany's pagan past," absorbing ancient nature-worship into a new moral framework—a syncretism that Swedenborg himself supported in describing the "Ancient Church" which possessed the science of correspondences.
+The Grimms shared the Romantic conviction that folk tales were *Naturpoesie*—shattered fragments of an ancient, organic revelation that mirrored the workings of nature itself. Wilhelm Grimm wrote that common to all the tales are "the remnants of a belief reaching back to the oldest times, which expresses itself in a figurative grasp of supersensible things" (W. Grimm 1819)—a view of ancient revelation surviving in figurative form that Swedenborg himself held in describing the "Ancient Church," which possessed the science of correspondences.
 
 The result: in Grimm's fairy tales, the landscape is never a passive backdrop. It is a "moral mirror" that reflects the internal state of the protagonist:
 
-- **The Forest**: In Swedenborgian correspondence, forests signify the "natural man"—dense, entangled, obscured from spiritual light.⁴ When Hansel and Gretel are abandoned in the "great forest," they enter the state of temptation.
-- **The Briar Hedge**: In *Sleeping Beauty*, the hedge of thorns corresponds to "falsities and lusts" that block the unregenerate.⁵ When the true Prince arrives, the thorns transform into flowers "of their own accord"—the landscape reacting to the moral quality of the visitor.
-- **Talking Animals**: Swedenborg taught that "Animals correspond to affections; the tame and useful animals to good affections, and the fierce and useless ones to evil affections."⁶ In *The Queen Bee*, the ants, ducks, and bees serve the protagonist because he protected them—his innocent will commanding the affections of nature.
+- **The Forest**: In Swedenborgian correspondence, "forests" signify "the memory-knowledge which is of the natural man" (*Arcana Coelestia* §10644)—dense, entangled, obscured from spiritual light. When Hansel and Gretel, who live "hard by a great forest," are abandoned in it, they enter the state of temptation (Grimm and Grimm 1884).
+- **The Briar Hedge**: In *Sleeping Beauty*, the hedge of thorns corresponds to the "falsities of evil" that block the unregenerate: "'Thorns,' 'briers,' 'brambles,' and 'thistles,' also signify falsities of evil, from their stings" (*Apocalypse Revealed* §439). When the true Prince arrives, the hedge is "nothing but large and beautiful flowers, which parted from each other of their own accord" (Grimm and Grimm 1884)—the landscape reacting to the moral quality of the visitor.
+- **Talking Animals**: Swedenborg taught that "the animals of the earth correspond in general to affection, mild and useful animals to good affections, fierce and useless ones to evil affections" (*Heaven and Hell* §110). In *The Queen Bee*, the ants, ducks, and bees serve the protagonist because he protected them—his innocent will commanding the affections of nature (Grimm and Grimm 1884).
 
-The transmission path is documented: Swedenborg → Oetinger → Schelling → Heidelberg Romantics → Grimm. When Disney adapted Grimm, the studio inherited stories already structured according to correspondential logic—stories where environments respond to internal states, where animals embody affections, where the physics of the universe are moral physics.
+The first links of the transmission path are documented (Swedenborg → Oetinger → Schelling), and the Grimms worked within the Romantic movement that Schelling's philosophy shaped. When Disney adapted Grimm, the studio inherited stories already structured according to correspondential logic—stories where environments respond to internal states, where animals embody affections, where the physics of the universe are moral physics.
 
 ### 5.2 Hans Christian Andersen: Ørsted and the Science of Spirit
 
-Hans Christian Andersen operated in the Danish Golden Age, where science, theology, and poetics were dialectical partners. His mentor and intellectual champion was Hans Christian Ørsted—the discoverer of electromagnetism—whose *The Spirit in Nature* (1850) argued that the laws of nature are thoughts of God and that the natural world manifests the divine mind.⁷
+Hans Christian Andersen operated in the Danish Golden Age, where science, theology, and poetics were dialectical partners. His mentor and intellectual champion was Hans Christian Ørsted—the discoverer of electromagnetism—whose *The Spirit in Nature* (1850), Andersen recalled, "became the subjects of many a talk between us"; Andersen came to hold that all is "kept and controlled by the great laws of nature, the laws of reason, laws that lie in God's might, wisdom, and goodness" (Andersen 1871).
 
 Ørsted's philosophy is structurally Swedenborgian: the natural world as "theater" representing the spiritual world. His influence on Andersen was profound, encouraging the view that science and spirit are compatible—a view mirroring Swedenborg's own trajectory from natural science to theology.
 
-Andersen also maintained lifelong correspondence with Bernhard Severin Ingemann, with whom he grappled explicitly with the "spiritual physics" that Swedenborg systematized—how the soul survives death, the nature of heavenly spheres, the continuity of consciousness.⁸
+Andersen's other lifelong friend was the poet Bernhard Severin Ingemann (Garff 2005), whom he set beside Ørsted: had the two "amiable men" known each other, he wrote, "they would certainly have felt their kinship of nature" (Andersen 1871).
 
 The result: Andersen's tales function as allegories of spiritual regeneration:
 
-- **The Little Mermaid**: A rigorous drama about acquiring a discrete spiritual degree—moving from the Natural (sea) to the Spiritual (air) through moral choice. The mermaid's refusal to kill the Prince, sacrificing her Self (self-love) for charity, opens the internal spiritual faculty.⁹
+- **The Little Mermaid**: A rigorous drama about acquiring a discrete spiritual degree—moving from the Natural (sea) to the Spiritual (air) through moral choice. The mermaid's refusal to kill the Prince, sacrificing her Self (self-love) for charity, opens the internal spiritual faculty (*The Celestial Botany of the Fairy Tale*).
 - **The Snow Queen**: A journey through vastation, where Gerda's innocent love (celestial degree) rescues Kay from the frozen rationalism of intellectual pride.
 - **The Ugly Duckling**: Metamorphosis from natural contempt to spiritual recognition—the swan within the duck, the celestial within the natural.
 
@@ -339,11 +339,11 @@ Andersen's tales provided Disney with material already structured for Action Ana
 
 ### 5.3 Lewis Carroll: MacDonald, Maurice, and the Swedenborgian Circle
 
-Lewis Carroll (Charles Dodgson) has been dismissed as a purveyor of "literary nonsense," yet his library contained Swedenborg's *Heaven and Hell*, *Divine Love and Wisdom*, and *Arcana Coelestia*.¹⁰ These are not peripheral texts; they are the core theological works articulating Discrete Degrees, the World of Spirits, and the Science of Correspondences.
+Lewis Carroll (Charles Dodgson) has been dismissed as a purveyor of "literary nonsense," yet the catalogue of his private library lists three books that brought Swedenborg to him: Emerson's *Representative Men*, with its essay on Swedenborg; Asa Mahan's *Modern Mysteries, Explained and Exposed*, whose fourth part treats the "Clairvoyant Revelations of Emmanuel Swedenborg"; and *The Human Body and its Connexion with Man* (1851) by James John Garth Wilkinson, "the editor of Swedenborg" in Emerson's phrase (Lovett 2005).
 
-Carroll's interpretation of Swedenborg was mediated through George MacDonald, whose children urged publication of *Alice's Adventures Underground*.¹¹ MacDonald's theology was saturated with Swedenborgianism; scholars document his incorporation of Swedenborgian structures into *Lilith* and *Phantastes*. MacDonald believed in universal restoration—a view aligning with Swedenborg's emphasis on divine mercy rather than eternal punishment.
+Carroll's interpretation of Swedenborg was mediated through George MacDonald, who persuaded him to submit the *Alice* story to a publisher (Collingwood 1898). MacDonald's theology was saturated with Swedenborgianism: he "read widely in the classic literature of mysticism, including Swedenborg and Boehme," and the symbolism of *Phantastes* and *Lilith* has been traced to Blake's sources, "Boehme or Swedenborg" (Reis 1972). MacDonald believed in universal restoration—a view aligning with Swedenborg's emphasis on divine mercy rather than eternal punishment.
 
-F.D. Maurice, another pillar of Carroll's intellectual environment, argued that the biblical word *aionios* (eternal) referred not to endless duration but to spiritual "state"—a purely Swedenborgian distinction.¹² When the Mad Hatter declares he has "quarreled with Time" and it is "always six o'clock," Carroll dramatizes the Maurician/Swedenborgian definition of Hell as spiritual stasis.
+F.D. Maurice, another pillar of Carroll's intellectual environment, argued that the biblical word *aionios* (eternal) referred not to endless duration but to spiritual "state"—a purely Swedenborgian distinction (Maurice 1853). When the Mad Hatter says that he and Time "quarrelled last March" and that "It's always six o'clock now" (Carroll 1865, ch. 7), Carroll dramatizes the Maurician/Swedenborgian definition of Hell as spiritual stasis.
 
 The "nonsense" of Wonderland, viewed through this lens, is "spiritual sense" perceived by the natural mind—truths that appear as riddles or paradoxes to consciousness trapped in the flat plane of natural causality. The Looking-Glass world inverts cause and effect because the spiritual realm (Cause) appears reversed to natural consciousness (Effect).
 
@@ -384,15 +384,15 @@ The nine animators who became Disney's "Nine Old Men"—the core creative leader
 
 While the selection process did not require explicit Swedenborgian identity, it concentrated individuals with direct connections to the tradition. Three cases establish that Swedenborgian carriers achieved positions of creative authority within the studio:
 
-**Mary Blair (1911–1978)**: The stylist responsible for the "Disney Look" of the 1950s (*Cinderella*, *Alice in Wonderland*, *Peter Pan*). Her place among the studio's Swedenborgian carriers rests on her work and her colleagues: Hal Adelquist, who answered Florence Murdoch in 1948, called her a friend and "close working associate for many years" (Adelquist, 23 May 1966, reproduced in Amidi 2010). The "Mrs. Mary Blair" confirmed at the Wayfarers Chapel in 1973 was a namesake, Mrs. William Blair of Torrance; the artist had moved to Soquel in 1970 (Canemaker 2014).³
+**Mary Blair (1911–1978)**: The stylist responsible for the "Disney Look" of the 1950s (*Cinderella*, *Alice in Wonderland*, *Peter Pan*). Her place among the studio's Swedenborgian carriers rests on her work and her colleagues: Hal Adelquist, who answered Florence Murdoch in 1948, called her a friend and "close working associate for many years" (Adelquist, 23 May 1966, reproduced in Amidi 2010). The "Mrs. Mary Blair" confirmed at the Wayfarers Chapel in 1973 was a namesake, Mrs. William Blair of Torrance; the artist had moved to Soquel in 1970 (*Messenger* 1974; Canemaker 2014).
 
-The evidence of earlier alignment is circumstantial but compelling: Blair was the Art Supervisor for *Johnny Appleseed* in 1948—the film that demonstrated the studio's capacity for theological precision. Her visual design for that film erases the boundary between natural and spiritual worlds: clouds become apple blossoms, Johnny walks into the sky without interruption. This is pure Influx rendered as visual art.
+The evidence of earlier alignment is circumstantial but compelling: Blair was the Art Supervisor for *Johnny Appleseed* in 1948 (American Film Institute n.d.)—the film that demonstrated the studio's capacity for theological precision. Her visual design for that film erases the boundary between natural and spiritual worlds: clouds become apple blossoms, Johnny walks into the sky without interruption. This is pure Influx rendered as visual art.
 
-In 1934 Lee Blair painted Mary on a bluff over the Palos Verdes coast, where the Wayfarers Chapel—the "Glass Church" designed by Lloyd Wright (Frank Lloyd Wright's son) as a national memorial to Swedenborg—would later rise (Bawden-Davis 2016).⁴ Her aesthetic rejected Renaissance perspective (which emphasizes the material separation of objects) in favor of flatness and color (which emphasizes emotional and spiritual state). The chapel built in glass and redwood the worldview she had been painting for Disney for thirty years.
+In 1934 Lee Blair painted Mary on a bluff over the Palos Verdes coast, where the Wayfarers Chapel—the "Glass Church" designed by Lloyd Wright (Frank Lloyd Wright's son) as a national memorial to Swedenborg—would later rise (Bawden-Davis 2016). Her aesthetic rejected Renaissance perspective (which emphasizes the material separation of objects) in favor of flatness and color (which emphasizes emotional and spiritual state). The chapel built in glass and redwood the worldview she had been painting for Disney since 1939 (Smith 1996).
 
-**Carl Carmer (1893–1976)**: Credited as the "Folklore Consultant" on *Melody Time*. Carmer was not only a writer of children's books; he was a serious historian of New York State's "Burned-Over District"—the region that birthed Mormonism and Spiritualism and where Swedenborgian enthusiasm flourished before it gave way to spiritualism (Cross 1950).⁵
+**Carl Carmer (1893–1976)**: Credited as the "Folklore Consultant" on *Melody Time* (American Film Institute n.d.). Carmer was not only a writer of children's books; he was a serious historian of New York State's "Burned-Over District"—the region that birthed Mormonism and Spiritualism and where Swedenborgian enthusiasm flourished before it gave way to spiritualism (Cross 1950).
 
-Carmer's bibliography reveals lifelong engagement with esoteric American religion: *Dark Trees to the Wind* (1949) includes the Koreshan Unity (a hollow-earth cult influenced by Swedenborgian cosmology); *The Farm Boy and the Angel* addresses Mormon origins in the same region. His presence during the development of *Melody Time* and its *Johnny Appleseed* segment provided direct transmission of the specific theological and historical context. When Walt Disney hired Carmer, he was hiring a specialist in American esoteric history—someone who could provide the "real stuff" that gave narrative weight.
+Carmer's bibliography reveals lifelong engagement with esoteric American religion: *Dark Trees to the Wind* (1949) includes the Koreshan Unity (a hollow-earth cult influenced by Swedenborgian cosmology; Carmer 1949); *The Farm Boy and the Angel* addresses Mormon origins in the same region (Carmer 1970). His presence during the development of *Melody Time* and its *Johnny Appleseed* segment provided direct transmission of the specific theological and historical context. When Walt Disney hired Carmer, he was hiring a specialist in American esoteric history—someone who could provide the "real stuff" that gave narrative weight.
 
 ### 6.3 The Self-Reinforcing Cycle
 
@@ -400,7 +400,7 @@ Once carriers achieved positions of authority, the selection process accelerated
 
 This explains the concentration of Swedenborgian carriers without requiring conspiracy. No evidence suggests Walt Disney read Swedenborg or consciously recruited Swedenborgians. The evidence suggests something more organic: he built a selection environment that filtered for correspondential vision, and that environment naturally accumulated individuals for whom correspondential thinking was native rather than adopted.
 
-The architectural environment reinforced this densification. Frank Lloyd Wright visited the Disney Studio in 1939, lecturing animators on "abstract" and "organic" design.⁶ Wright's mentor Louis Sullivan took from Swedenborg the foundations of his ornament's ideological structure; Wright's architecture embodied the principle that "form follows function"—a direct parallel to "form follows spirit." His validation of animation as a medium for "organic truth" encouraged the studio to pursue the metaphysical styles of *Fantasia*.
+The architectural environment reinforced this densification. Frank Lloyd Wright visited the Disney Studio in 1939, lecturing animators on "abstract" and "organic" design (Amidi 2006; Korkis 2022). Wright's mentor Louis Sullivan took from Swedenborg the foundations of his ornament's ideological structure (Menocal 1981), and Sullivan's own law, "form ever follows function" (Sullivan 1896), ran through Wright's architecture—a direct parallel to "form follows spirit." His validation of animation as a medium for "organic" truth likely encouraged the studio in the metaphysical styles of *Fantasia*, then in production.
 
 Lloyd Wright's Wayfarers Chapel (1951), on the Palos Verdes coast, provided a physical and spiritual hub for the Los Angeles creative class. The chapel was designed to merge nature and spirit—glass walls framed by redwoods, interior and exterior flowing without barrier. For the Disney creative class, it represented the "church of the artist": a faith that validated their desire to see the spiritual *in* the natural.
 
@@ -408,13 +408,13 @@ Lloyd Wright's Wayfarers Chapel (1951), on the Palos Verdes coast, provided a ph
 
 The 1948 production of *The Legend of Johnny Appleseed* marked the moment when the studio's implicit Swedenborgian orientation became explicit—not to the general audience, but to those capable of recognition.
 
-The correspondence between the studio and Florence Murdoch, librarian of the Cincinnati Church of the New Jerusalem, demonstrates that Disney's creative team knew they were handling Swedenborgian material. When Murdoch saw promotional images depicting Johnny's "Guardian Angel" as a frontier spirit in a coonskin cap, she wrote to protest. Hal Adelquist, Story Department Manager and a key lieutenant to Walt, replied personally that the studio had researched the real Chapman extensively: "We trust that after you have viewed the picture you will agree that we have treated the angel with sincere respect and endowed him with a certain dignity."⁷
+The correspondence between the studio and Florence Murdoch, librarian of the Cincinnati Church of the New Jerusalem, demonstrates that Disney's creative team knew they were handling Swedenborgian material. When Murdoch saw promotional images depicting Johnny's "Guardian Angel" as a frontier spirit in a coonskin cap, she wrote to protest. Hal Adelquist, Story Department Manager and a key lieutenant to Walt, replied personally that the studio had researched the real Chapman extensively: "We trust that after you have viewed the picture you will agree that we have treated the angel with sincere respect and endowed him with a certain dignity" (Fryeburg New Church Assembly n.d.; Means 2011).
 
 That assurance of extensive research is the pivot point. It is impossible to research John Chapman extensively without encountering his defining characteristic: his zeal for the New Church. Chapman did not merely plant trees; he planted Swedenborg's teaching across the frontier, dividing Swedenborg's books into pieces and leaving a portion at each log cabin (Haley 1871).
 
-The film's solution—encoding Chapman's theology while avoiding explicit sectarian content—demonstrates sophisticated theological translation. The theme song's "Blessings Three" (Love, Faith, and the Apple Tree; in Florence Murdoch's letter, "love and faith and an apple tree," Fryeburg New Church Assembly n.d.) preserves the Swedenborgian structure of salvation (Charity, Faith, and Use) in a form accessible to mass audiences.⁸ Murdoch herself recognized the code: she welcomed the Blessings Three as Johnny's own, and seven years later wrote that she admired the film's treatment of him (Fryeburg New Church Assembly n.d.).
+The film's solution—encoding Chapman's theology while avoiding explicit sectarian content—demonstrates sophisticated theological translation. The theme song's "Blessings Three" (Love, Faith, and the Apple Tree, *Johnny Appleseed* 1949; in Florence Murdoch's letter, "love and faith and an apple tree," Fryeburg New Church Assembly n.d.) preserves the Swedenborgian structure of salvation (Charity, Faith, and Use) in a form accessible to mass audiences. Murdoch herself recognized the code: she welcomed the Blessings Three as Johnny's own, and seven years later wrote that she admired the film's treatment of him (Fryeburg New Church Assembly n.d.).
 
-Most significantly, the angel was depicted as a deceased human pioneer—not a winged seraph. This aligns precisely with Swedenborg's pneumatology: "in the entire heaven there is not a single angel who was created such from the beginning, nor in hell any devil who was created an angel of light and cast down; but that all, both in heaven and in hell, are from the human race" (*Heaven and Hell* §311).⁹ By depicting the angel as the spirit of a dead frontiersman, Disney rejected standard Christian iconography in favor of specific Swedenborgian doctrine.
+Most significantly, the angel was depicted as a deceased human pioneer—not a winged seraph. This aligns precisely with Swedenborg's pneumatology: "in the entire heaven there is not a single angel who was created such from the beginning, nor in hell any devil who was created an angel of light and cast down; but that all, both in heaven and in hell, are from the human race" (*Heaven and Hell* §311). By depicting the angel as the spirit of a dead frontiersman, Disney rejected standard Christian iconography in favor of specific Swedenborgian doctrine.
 
 *Johnny Appleseed* demonstrated that the studio could handle theological material with precision when it chose to. The carriers had concentrated to the point where such precision was possible.
 
@@ -442,7 +442,7 @@ The organic selection model predicts specific rejection patterns: stories that m
 
 ### 7.1 *Don Quixote* and the Irony Gap
 
-Perhaps the most famous "ghost" in the Disney archives is Miguel de Cervantes' *Don Quixote*. The studio's fascination with the Man of La Mancha spanned six decades, with major development pushes in 1940, 1946, 1951, and the late 1990s.¹ Despite involvement from the studio's greatest talents—including the "Nine Old Men" and later the Brizzi brothers—the project was repeatedly shelved.
+Perhaps the most famous "ghost" in the Disney archives is Miguel de Cervantes' *Don Quixote*. The studio's fascination with the Man of La Mancha spanned nearly six decades, with major development pushes in 1940, 1946, 1951, and the late 1990s. Despite the involvement of the studio's greatest talents—among them, later, the Brizzi brothers—the project was repeatedly shelved (Solomon 1995; Hill 2014).
 
 The standard historical explanations (World War II finances, episodic structure, tonal difficulties) are accurate but incomplete. The creative teams repeatedly articulated a structural problem they could not resolve: they could not make the story *work* as a Disney film without destroying what made it *Don Quixote*.
 
@@ -452,29 +452,29 @@ For an animator trained in Action Analysis, this creates a technical deadlock. T
 
 The "Mind is the Pilot" pedagogy requires that inner force drive outer form. In *Don Quixote*, the outer form actively refuses to be driven by the inner force. The landscape is **intractable**. This resistance makes the "animate landscape" impossible.
 
-The most revealing rejection occurred in the late 1990s. Paul and Gaëtan Brizzi produced "elaborate and immense storyboards" that "took the breath away of even the most jaded animators."² Studio management killed the project, citing precisely the structural issues: "episodic nature," difficulty creating "coherent dramatic narrative," and the team's "intense, dark, very adult" treatment that "frightened some of the suits."
+The most revealing rejection occurred in the late 1990s. Paul and Gaëtan Brizzi produced "elaborate and immense storyboards" that "took the breath away of even the most jaded of animators" (Hill 2014; Hill 2025). Studio management killed the project. The structural issues were the ones every team had met: each was "tripped up by the episodic nature of Don Quixote's tale," since it was "hard to turn a series of amusing anecdotes into a coherent dramatic narrative," and the Brizzis' treatment—"Intense. Dark. Very adult."—"frightened some of the suits in the Team Disney building" (Hill 2025).
 
 ### 7.2 *Chanticleer* and the Delusional Self
 
-The abandoned project *Chanticleer*, based on Edmond Rostand's 1910 play, serves as a crucial test case. It features anthropomorphic animals—Disney's bread and butter—yet was rejected across three distinct eras (1937–1941, 1960, 1981).³
+The abandoned project *Chanticleer*, based on Edmond Rostand's 1910 play, serves as a crucial test case. It features anthropomorphic animals—Disney's bread and butter—yet was rejected across three distinct eras: 1937–1941, 1960 and 1981 (Korkis 2021).
 
-The story concerns a rooster who sincerely believes his crowing causes the sun to rise. It is a sophisticated satire of the artist's ego and the nature of belief. Walt Disney considered it from 1937 and bought the rights in 1941, though story men Ted Sears and Al Perkins had questioned the purchase: the play was little known in America, the story would need extensive reworking, and Perkins condemned it as "highbrow."⁴
+The story concerns a rooster who sincerely believes his crowing causes the sun to rise. It is a sophisticated satire of the artist's ego and the nature of belief. Walt Disney considered it from 1937 and bought the rights in 1941, though story men Ted Sears and Al Perkins had questioned the purchase: the play was little known in America, the story would need extensive reworking, and Perkins condemned it as "highbrow" (Solomon 1995; Korkis 2021).
 
-The most significant attempt occurred in the early 1960s. Marc Davis, one of the Nine Old Men, and Ken Anderson, both fresh from *101 Dalmatians*, spent a year developing a new version, combining the Chanticleer story with Reynard the Fox folktales for conflict. They produced extensive concept art and conceived it in the style of a big Broadway musical.⁵ Walt's own recorded objection was to the hero: "[you] don't feel like picking a rooster up and petting it." At the final presentation somebody in the room said, "You can't make a personality out of a chicken," and the business people walked out.⁶
+The most significant attempt occurred in the early 1960s. Marc Davis, one of the Nine Old Men, and Ken Anderson, both fresh from *101 Dalmatians*, spent a year developing a new version, combining the Chanticleer story with Reynard the Fox folktales for conflict. They produced extensive concept art and conceived it in the style of a big Broadway musical (Deja 2013; Korkis 2021). Walt's own recorded objection was to the hero: "[you] don't feel like picking a rooster up and petting it" (Barrier 2007). At the final presentation somebody in the room said, "You can't make a personality out of a chicken," and the business people walked out (Solomon 2014; Deja 2015; Korkis 2021).
 
-The pneumatological diagnosis is precise: *Chanticleer* fails because the protagonist embodies what Swedenborg called the **Self**—the false belief that life, intelligence, and power originate from oneself rather than flowing in from the Divine.⁷ Chanticleer believes *he* causes the sun to rise; he believes he is Cause and the universe is Effect.
+The pneumatological diagnosis is precise: *Chanticleer* fails because the protagonist embodies what Swedenborg called the **Self**—the false belief that life, intelligence, and power originate from oneself rather than flowing in from the Divine. Chanticleer believes *he* causes the sun to rise; he believes he is Cause and the universe is Effect.
 
 Compare this to Disney heroes who succeed: Pinocchio needs the Blue Fairy; Dumbo needs Timothy and the feather; Arthur needs Merlin. They align themselves with the flow of Providence. Chanticleer believes he *is* Providence.
 
 This delusion creates structural incompatibility. The Disney method requires drawing "inner force driving outer form." But *Chanticleer*'s plot requires revealing that the inner force (the rooster's ego) has *zero effect* on the outer form (the sun). The environment is **indifferent** to the protagonist's will. You cannot animate the correspondence between character and world when the story's central revelation is that no correspondence exists.
 
-When Don Bluth released *Rock-a-Doodle* (1991), his adaptation of the same material, the critical and commercial failure validated Walt's intuition. The story's structure resisted the tools.
+When Don Bluth released *Rock-a-Doodle* (1991), his adaptation of the same material, its commercial failure—it grossed $11.7 million in North America (Box Office Mojo n.d.)—validated Walt's intuition. The story's structure resisted the tools.
 
 ### 7.3 *The Odyssey* and the Neutral Landscape
 
-During the Disney Renaissance of the early 1990s, the studio briefly considered Homer's *Odyssey*. The pitch was quickly abandoned in favor of *Hercules*.⁸
+During the Disney Renaissance of the early 1990s, the studio considered Homer's *Odyssey*: pitched in early 1992, it was chosen for development alongside *Hercules* and announced that July, but it was later abandoned, and only *Hercules* survived (Thomas 1997; Los Angeles Daily News 1992).
 
-The documented reasons—length, complexity, episodic structure, lack of "central characters," failure to translate into "animation comedy"—again describe surface symptoms of a deeper structural problem. In *The Odyssey*, the environment is an **obstacle course** ordained by external forces (Poseidon's anger, the whims of the gods). The ocean does not storm because Odysseus is angry; it storms because Poseidon is angry *at* him.
+The documented reasons—the epic was "too long," it lacked "central characters" (Thomas 1997), and it "wouldn't translate well to cartoon comedy" (Stack 1997)—again describe surface symptoms of a deeper structural problem. In *The Odyssey*, the environment is an **obstacle course** ordained by external forces (Poseidon's anger, the whims of the gods). The ocean does not storm because Odysseus is angry; it storms because Poseidon is angry *at* him.
 
 This is the Classical Epic structure: the landscape represents forces *outside* the human (Fate, Nature, the Gods). Disney's "Action Analysis" method works best when the character's will can plausibly be shown to influence the frame. The ocean in *The Little Mermaid* (an accepted adaptation) is Ariel's *want*—the medium of her desire. The ocean in *The Odyssey* is Odysseus's *prison*.
 
@@ -509,19 +509,19 @@ The preceding sections have traced how the Disney environment accumulated Sweden
 
 The distinction between Core and Periphery was established by Walt Disney himself. Analysis of his involvement in productions during the 1950s and 1960s reveals a stark hierarchy of personal investment, exemplified by the contrast between *Sleeping Beauty* and *101 Dalmatians*.
 
-*Sleeping Beauty* (1959) was conceived as the studio's magnum opus—the ultimate expression of the animated fairy tale. Its look was set by Eyvind Earle's lush, stylized widescreen backgrounds, a style so labor-intensive that it drove up the film's cost.¹ Planned for 1955 and released in January 1959, it cost $6 million—twice as much as the studio's three preceding features.² Walt held it to the standard of a painting in every frame, ensuring the narrative adhered to the high romantic ideal. The conflict is cosmic: Hell (Maleficent) versus Heaven (the Sword of Truth); the landscape is a moral agent. This was cathedral-building.
+*Sleeping Beauty* (1959) was conceived as the studio's magnum opus—the ultimate expression of the animated fairy tale. Its look was set by Eyvind Earle's lush, stylized widescreen backgrounds, a style so labor-intensive that it drove up the film's cost (Walt Disney Family Museum 2022). Planned for 1955 and released in January 1959, it cost $6 million—twice as much as the studio's three preceding features (Barrier 1999; Walt Disney Family Museum 2022). Walt held it to the standard of a painting in every frame, ensuring the narrative adhered to the high romantic ideal. The conflict is cosmic: Hell (Maleficent) versus Heaven (the Sword of Truth); the landscape is a moral agent. This was cathedral-building.
 
-When *Sleeping Beauty* underperformed financially, the studio pivoted to the Xerox process for *101 Dalmatians* (1961)—contemporary, secular (no magic, just a villainess with a car), and visually "sketchy." Walt *hated* the result. Ken Anderson, who had shaped the film's look, remembered: "Walt hated the way I had done the film. Just hated it […] He took me off direction."³ While *Dalmatians* was a financial savior, Walt viewed it as a compromise—commercial product necessary to pay the bills, not a representation of the studio's soul. He distanced himself from animation production in the 1960s, focusing on WED Enterprises (Imagineering), arguably because the animation department had drifted from the "High Church" style he valued.
+When *Sleeping Beauty* underperformed financially, the studio pivoted to the Xerox process for *101 Dalmatians* (1961)—contemporary, secular (no magic, just a villainess with a car), and visually "sketchy." Walt *hated* the result. Ken Anderson, who had shaped the film's look, remembered: "Walt hated the way I had done the film. Just hated it […] He took me off direction" (Walt Disney Family Museum 2022). While *Dalmatians* was a financial savior, Walt viewed it as a compromise—commercial product necessary to pay the bills, not a representation of the studio's soul. He distanced himself from animation production in the 1960s, focusing on WED Enterprises (Imagineering), arguably because the animation department had drifted from the "High Church" style he valued.
 
 This behavioral evidence establishes that Walt understood the distinction between Core and Periphery. He poured himself into the fairy tales; he delegated the comedies.
 
 ### 8.2 The Renaissance Pattern
 
-The "Disney Renaissance" (1989–1999) provides the strongest historical evidence for the fairy tale as Core. Following the "Dark Age" of the 1970s and 1980s—dominated by secular adventures (*The Rescuers*, *The Fox and the Hound*, *The Great Mouse Detective*)—the studio was on the brink of liquidation.⁴ The revival was achieved not by making better comedies but by a deliberate return to the fairy tale musical.
+The "Disney Renaissance" (1989–1999) provides the strongest historical evidence for the fairy tale as Core. Following the "Dark Age" of the 1970s and 1980s—dominated by secular adventures (*The Rescuers*, *The Fox and the Hound*, *The Great Mouse Detective*)—the studio was on the brink of liquidation or being sold off (Crow 2017). The revival was achieved not by making better comedies but by a deliberate return to the fairy tale musical.
 
-Howard Ashman, the architect of this return, understood that Disney "magic" was structural, not merely aesthetic. He imposed Broadway musical structure onto animation, reintroducing the "I Want" song—a secularized prayer where the protagonist articulates their internal ruling love to the cosmos.⁵ *The Little Mermaid* (1989) was the first fairy tale adaptation in thirty years. It explicitly restored the vertical dimension: Ariel looks *up* to the surface and sings "Part of Your World" (prayer for elevation).
+Howard Ashman, the architect of this return, understood that Disney "magic" was structural, not merely aesthetic. He imposed Broadway musical structure onto animation, reintroducing the "I Want" song (Crow 2017)—a secularized prayer where the protagonist articulates their internal ruling love to the cosmos. *The Little Mermaid* (1989) was the first fairy tale adaptation in thirty years. It explicitly restored the vertical dimension: Ariel looks *up* to the surface and sings "Part of Your World" (prayer for elevation).
 
-*Beauty and the Beast* (1991) solidified the Renaissance by doubling down on the Core. The story is one of Regeneration: transformation of Beast (Natural Man) into Prince (Spiritual Man) through Love (Charity). The castle serves as the externalized soul of the Beast; as he falls in love, it becomes lighter and warmer. This is pure Swedenborgian correspondence.⁶ The film became the first animated feature nominated for Best Picture, validating the "High Church" strategy.
+*Beauty and the Beast* (1991) solidified the Renaissance by doubling down on the Core. The story is one of Regeneration: transformation of Beast (Natural Man) into Prince (Spiritual Man) through Love (Charity). The castle serves as the externalized soul of the Beast; as he falls in love, it becomes lighter and warmer. This is pure Swedenborgian correspondence (*The Diffracted Light*). The film became the first animated feature nominated for Best Picture, validating the "High Church" strategy.
 
 When the Renaissance waned and the studio drifted back toward secular comedies (*Hercules*, *Emperor's New Groove*, *Atlantis*, *Treasure Planet*), another Dark Age followed. The films were competent but culturally ephemeral—lacking "heart" and "soul." The studio revived itself again only by returning to the fairy tale with *Tangled* (2010) and *Frozen* (2013).
 
@@ -529,7 +529,7 @@ When the Renaissance waned and the studio drifted back toward secular comedies (
 
 ### 8.3 Brand Iconography: The Castle as Heart
 
-The visual branding of the Walt Disney Company maps this hierarchy. In 1985, the studio introduced the iconic Castle Logo—a white silhouette of a fairy-tale castle with a shooting star arcing over it.⁷ This occurred during the nadir of the animation department, just before the Renaissance.
+The visual branding of the Walt Disney Company maps this hierarchy. In 1985, the studio introduced the iconic Castle Logo—a white silhouette of a fairy-tale castle with a shooting star arcing over it (Walker 2015). This occurred during the nadir of the animation department, just before the Renaissance.
 
 The symbol choice is significant. The company does not use Mickey Mouse, a filmstrip, or a pen as its theatrical logo. It uses the Castle—the residence of the Monarch, the site of the "High Church" narratives. This explicitly centers the fairy tale canon as the brand's identity.
 
@@ -539,23 +539,23 @@ The theme parks reinforce this alignment. The central icon of every "Magic Kingd
 
 The 2023 release of *Wish*—marketed as the culmination of 100 years of Disney storytelling—provides a critical case study in what happens when the studio invokes the Core without adhering to the Substrate.
 
-*Wish* was designed to celebrate the legacy. It is an origin story for the Wishing Star. However, the film performs a theological inversion of the traditional Disney metaphysics.⁸ In the classic canon (*Pinocchio*), the Wish is a prayer directed to external Providence (the Blue Fairy/Star). The power source is transcendent. In *Wish*, the film concludes that "We are our own origin story" and that power comes from "stardust" within us.
+*Wish* was designed to celebrate the legacy. It is an origin story for the Wishing Star. However, the film performs a theological inversion of the traditional Disney metaphysics (*The Inverted Influx*). In the classic canon (*Pinocchio*), the Wish is a prayer directed to external Providence (the Blue Fairy/Star). The power source is transcendent. In *Wish*, the film concludes that "We are our own origin story" and that power comes from "stardust" within us.
 
-By making the divine spark intrinsic to the biological self, the film collapses the vertical tension that drives the fairy tales. There is no need for regeneration or aid from above—only self-actualization. The film was a critical and commercial failure. Audiences described it as "hollow" and "soulless."⁹ It had the *aesthetic* of the Core (castles, stars, magic) but the *theology* of modern secular narcissism. It failed because it attempted to run "High Church" liturgy with "Low Church" theology.
+By making the divine spark intrinsic to the biological self, the film collapses the vertical tension that drives the fairy tales. There is no need for regeneration or aid from above—only self-actualization. The film was a critical and commercial failure, one of the studio's "misfires" of 2023 (Siegel 2024). Critics called it the studio "at their most soulless" (Jones 2023) and "a weird pastiche, with some pretty animation, but very little heart" (Nicolosi 2023). It had the *aesthetic* of the Core (castles, stars, magic) but the *theology* of modern secular narcissism. It failed because it attempted to run "High Church" liturgy with "Low Church" theology.
 
 ### 8.5 *Snow White* (2025) as Restoration
 
-The production of the live-action *Snow White* (2025) demonstrates the studio's capacity for self-correction. Initially, the production appeared poised to follow the *Wish* trajectory. Lead actress Rachel Zegler criticized the 1937 original for its "big focus on her love story with a guy who literally stalks her," and said her Snow White would "be dreaming about becoming the leader she knows she can be."¹⁰ This signaled movement toward the horizontal/secular/political.
+The production of the live-action *Snow White* (2025) demonstrates the studio's capacity for self-correction. Initially, the production appeared poised to follow the *Wish* trajectory. Lead actress Rachel Zegler criticized the 1937 original for its "big focus on her love story with a guy who literally stalks her," and said her Snow White would "be dreaming about becoming the leader she knows she can be" (Waxman 2025). This signaled movement toward the horizontal/secular/political.
 
-Following the *Wish* failure, significant reshoots occurred.¹¹ The production returned toward the 1937 framework: the Seven Dwarfs were reinstated as CGI characters, and Snow White's "Waiting on a Wish" frames her leadership as a desire for Use—aligning with the Swedenborgian concept of Use rather than mere Power.¹²
+After the backlash the release was delayed by nearly a year, to March 2025, and after the failure of *Wish* a further round of reshoots took place in London (Ruimy 2024). The production returned toward the 1937 framework: Disney's plan to replace the dwarfs with "magical creatures" was reversed, and the Seven Dwarfs were reinstated as CGI characters (Ruimy 2024; Waxman 2025); Snow White's "Waiting on a Wish" frames her leadership as a desire for Use—aligning with the Swedenborgian concept of Use rather than mere Power (*The Mirror and the Star*).
 
 This transition suggests that studio leadership recognized that you cannot secularize the Core without destroying it. The magic lies precisely in the vertical structure—the character reaching upward for help that descends from beyond the self.
 
 ### 8.6 Pedagogical Continuity
 
-The persistence of the Core is embedded in the studio's training infrastructure. The "Action Analysis" method, passed from Don Graham to the Nine Old Men to Walt Stanchfield to Glen Keane, maintained the capability to produce correspondential animation even during Dark Ages.¹³
+The persistence of the Core is embedded in the studio's training infrastructure. The "Action Analysis" method, passed from Don Graham to the Nine Old Men to Walt Stanchfield to Glen Keane, maintained the capability to produce correspondential animation even during Dark Ages (Stanchfield 2009).
 
-The application differed between Canon tiers. In secular films (*Aristocats*, *Robin Hood*), Action Analysis was used for *character acting*—making Prince John suck his thumb. It was psychological and behavioral. In fairy tales (*Beauty and the Beast*, *The Little Mermaid*), Action Analysis was applied to the *soul*. Glen Keane speaks of the Beast as a being who existed before he was drawn: "I have a strange belief that characters exist before I design them … I recognized him as if I'd always known him."¹⁴
+The application differed between Canon tiers. In secular films (*Aristocats*, *Robin Hood*), Action Analysis was used for *character acting*—making Prince John suck his thumb. It was psychological and behavioral. In fairy tales (*Beauty and the Beast*, *The Little Mermaid*), Action Analysis was applied to the *soul*. Glen Keane speaks of the Beast as a being who existed before he was drawn: "I have a strange belief that characters exist before I design them … I recognized him as if I'd always known him" (Walt Disney Family Museum 2018).
 
 A secular Disney film animates *behavior*. A fairy tale Disney film animates *being*.
 
@@ -603,13 +603,13 @@ These mechanisms explain how Swedenborgian-compatible personnel concentrated at 
 
 Close analysis of *Snow White and the Seven Dwarfs* (1937) reveals systematic departures from the Grimm source that align precisely with Swedenborgian eschatology. These changes are not artistic license—they are theological revision:
 
-- **Destination**: Grimm's Snow White is taken to the prince's father's castle. Disney's Snow White ascends to a "golden castle in the clouds." This is the difference between horizontal restoration (earthly) and vertical transformation (celestial).
+- **Destination**: Grimm's Snow White is taken to the prince's father's castle (Grimm and Grimm 1857). Disney's Snow White ascends to a "golden castle in the clouds." This is the difference between horizontal restoration (earthly) and vertical transformation (celestial).
 
-- **Awakening**: In Grimm, the coffin is dislodged by stumbling servants; the poisoned apple piece falls from Snow White's throat mechanically. Disney replaced this with the Prince's kiss—Truth awakening the soul through love.
+- **Awakening**: In Grimm, the servants carrying the coffin stumble, and the jolt throws the poisoned apple piece from Snow White's throat (Grimm and Grimm 1857). Disney replaced this with the Prince's kiss—Truth awakening the soul through love.
 
 - **The Queen's death**: Grimm has the Queen punished externally—forced to dance in red-hot iron shoes until she dies. Disney has the Queen fall from a cliff while pursuing the dwarfs—evil destroying itself by its own nature, not requiring external punishment.
 
-- **The farewell scene**: Disney added an explicit farewell where Snow White kisses each dwarf goodbye before ascending with the Prince. This is not in Grimm. It marks the departure from the natural plane—the soul saying goodbye to the natural affections (dwarfs = the seven creative capacities of the natural mind) before entering the celestial realm.
+- **The farewell scene**: Disney added a farewell in which Snow White takes leave of the dwarfs before riding away with the Prince (Snow White Museum, n.d.). This is not in Grimm. It marks the departure from the natural plane—the soul saying goodbye to the natural affections (dwarfs = the seven creative capacities of the natural mind) before entering the celestial realm.
 
 This sequence maps to Swedenborg's post-mortem journey: Death → Vastation → Awakening by Divine Truth → Ascent to the Celestial Kingdom → Self-destruction of evil. No one stumbles into this structure through ambient cultural influence.
 
@@ -623,7 +623,7 @@ Organic selection explains how Swedenborgian-compatible personnel concentrated a
 
 The cumulative evidence cannot be explained by organic selection alone:
 
-1. **The Johnny Appleseed correspondence**: Hal Adelquist's statement that the studio had researched the real Chapman extensively is a smoking gun. You cannot extensively research John Chapman without learning he was a Swedenborgian missionary who distributed *Heaven and Hell* across the frontier. **They knew.**
+1. **The Johnny Appleseed correspondence**: Hal Adelquist's statement that the studio had researched the real Chapman extensively is a smoking gun. You cannot extensively research John Chapman without learning he was a Swedenborgian missionary who carried Swedenborg's books across the frontier, dividing them among the settlers (Haley 1871). **They knew.**
 
 2. **The precision of the encoding**: The angel depicted as a deceased human pioneer—not a winged seraph—precisely matches Swedenborgian pneumatology. The "Blessings Three" preserve the Swedenborgian structure of salvation (Love/Faith/Use). This is too precise for accident.
 
@@ -698,9 +698,9 @@ The "Disney Magic"—the quality that distinguishes Disney animation from mere c
 *Snow White and the Seven Dwarfs* (1937) demonstrates theological precision that cannot be explained by ambient cultural influence:
 
 - The destination was changed from the castle of the prince's father in Grimm to a "golden castle in the clouds"—horizontal restoration became celestial ascent
-- The awakening was changed from mechanical coffin-dislodging to the Prince's kiss—Truth awakening the soul through love
+- The awakening was changed from the mechanical jolt of the stumbling coffin-bearers to the Prince's kiss—Truth awakening the soul through love
 - The Queen's death was changed from external punishment (red-hot iron shoes) to self-destruction (falling from a cliff)—evil perishing by its own nature, not requiring divine vengeance
-- An explicit farewell scene was added—Snow White kissing each dwarf goodbye before ascending—marking the soul's departure from the natural plane
+- A farewell scene was added—Snow White taking leave of the dwarfs before riding away—marking the soul's departure from the natural plane
 
 This sequence is Swedenborgian eschatology: Death → Vastation → Awakening by Divine Truth → Ascent to the Celestial Kingdom → Self-destruction of evil. No one stumbles into this structure through the diffusion of ideas in the Los Angeles metaphysical milieu. Someone in 1935–1937 *knew* what they were encoding.
 
@@ -722,51 +722,107 @@ The "Disney Style" is not a brand; it is a theology held and transmitted by peop
 
 The tradition is not accidental. It was deliberate from the beginning. The founder awaits identification.
 
-#### **Works cited**
+## XI. Works Cited
 
-1. Swedenborg, Emanuel. *Arcana Coelestia*. London: 1749–1756.
-2. Swedenborg, Emanuel. *Divine Love and Wisdom*. Amsterdam: 1763.
-3. Swedenborg, Emanuel. *Heaven and Hell*. London: 1758.
-4. Swedenborg, Emanuel. *True Christian Religion*. Amsterdam: 1771.
-5. Disney, Walt. "Memo to Don Graham." December 23, 1935. Reproduced in Thomas and Johnston, *The Illusion of Life* (1981).
-6. Florence Murdoch correspondence. Cincinnati Church of the New Jerusalem archives.
-7. Hal Adelquist correspondence. Walt Disney Archives.
-8. Thomas, Frank, and Ollie Johnston. *The Illusion of Life: Disney Animation*. New York: Abbeville Press, 1981.
-9. Barrier, Michael. *The Animated Man: A Life of Walt Disney*. Berkeley: University of California Press, 2007.
-10. Horn, Friedemann. *Schelling and Swedenborg: Mysticism and German Idealism*. West Chester, PA: Swedenborg Foundation, 1954.
-11. Lovett, Charlie. *Lewis Carroll Among His Books: A Descriptive Catalogue*. Jefferson, NC: McFarland, 2005.
-12. Disney's decades-long quest to turn Don Quixote into a full-length animated feature - Jim Hill Media, accessed on February 1, 2026, [https://jimhillmedia.com/disneys-decades-long-quest-to-turn-don-quixote-into-a-full-length-animated-feature/](https://jimhillmedia.com/disneys-decades-long-quest-to-turn-don-quixote-into-a-full-length-animated-feature/)
-13. When Frank Lloyd Wright Met Disney - Cartoon Brew, accessed on February 1, 2026, [https://www.cartoonbrew.com/old-brew/when-frank-lloyd-wright-met-disney-2397.html](https://www.cartoonbrew.com/old-brew/when-frank-lloyd-wright-met-disney-2397.html)
-14. In His Own Words: Frank Lloyd Wright on *Fantasia* - Cartoon Research, accessed on February 1, 2026, [https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/](https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/)
-15. 18 Disney Movies That Were Never Made - Mental Floss, accessed on February 1, 2026, [https://www.mentalfloss.com/article/51142/18-disney-movies-were-never-made](https://www.mentalfloss.com/article/51142/18-disney-movies-were-never-made)
-16. The Making and Impact of One Hundred and One Dalmatians - Walt Disney Family Museum, accessed on February 1, 2026, [https://www.waltdisney.org/blog/making-101-dalmatians](https://www.waltdisney.org/blog/making-101-dalmatians)
-17. The Greatest Disney Animated Feature Never Made: Chanticleer - MousePlanet, accessed on February 1, 2026, [https://mouseplanet.com/the-greatest-disney-animated-feature-never-made-chanticleer/8031/](https://mouseplanet.com/the-greatest-disney-animated-feature-never-made-chanticleer/8031/)
-18. List of unproduced Disney animated projects - Wikipedia, accessed on February 1, 2026, [https://en.wikipedia.org/wiki/List_of_unproduced_Disney_animated_projects](https://en.wikipedia.org/wiki/List_of_unproduced_Disney_animated_projects)
-19. The Disney Renaissance: The Rise & Fall of a Generational Touchstone - Den of Geek, accessed on February 1, 2026, [https://www.denofgeek.com/culture/the-disney-renaissance-the-rise-fall-of-a-generational-touchstone/](https://www.denofgeek.com/culture/the-disney-renaissance-the-rise-fall-of-a-generational-touchstone/)
-20. Disney Logo Evolution: From 1923 to Today's Iconic Castle - Looka, accessed on February 1, 2026, [https://looka.com/blog/disney-logo/](https://looka.com/blog/disney-logo/)
-21. All the Controversies Surrounding Disney's Snow White Remake - Time Magazine, accessed on February 1, 2026, [https://time.com/7267440/snow-white-disney-rachel-zegler-gal-gadot/](https://time.com/7267440/snow-white-disney-rachel-zegler-gal-gadot/)
-22. THE MESSENGER (February 1974) - The Swedenborgian Church of North America, accessed on February 1, 2026, [https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf](https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf)
-23. Florence Murdoch - Fryeburg New Church Assembly, accessed on February 1, 2026, [https://fryeburg.org/florencemurdoch](https://fryeburg.org/florencemurdoch)
-24. Walt Stanchfield lecture notes - Animation Meat, accessed on February 1, 2026, [https://www.animationmeat.com/notes/waltstanchfield/waltstanchfield.html](https://www.animationmeat.com/notes/waltstanchfield/waltstanchfield.html)
-25. Make Believe: The World of Glen Keane - Walt Disney Family Museum, accessed on February 1, 2026, [https://www.waltdisney.org/blog/make-believe-world-glen-keane](https://www.waltdisney.org/blog/make-believe-world-glen-keane)
-26. [The Animating Spirit: An Exhaustive Analysis of Swedenborgian Correspondences in the Cinematic Universe of Walt Disney](The%20Animating%20Spirit_%20An%20Exhaustive%20Analysis%20of%20Swedenborgian%20Correspondences%20in%20the%20Cinematic%20Universe%20of%20Walt%20Disney.md)
-27. [The Apple and the Angel: An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's The Legend of Johnny Appleseed](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md)
-28. [The Carriers of the Invisible: A Personnel History of Swedenborgian Thought in the Walt Disney Studio](The%20Carriers%20of%20the%20Invisible_%20A%20Personnel%20History%20of%20Swedenborgian%20Thought%20in%20the%20Walt%20Disney%20Studio.md)
-29. [The Celestial Botany of the Fairy Tale: A Pneumatological Exegesis of Swedenborgian Architectonics in the Narrative Cosmos of Hans Christian Andersen](The%20Celestial%20Botany%20of%20the%20Fairy%20Tale_%20A%20Pneumatological%20Exegesis%20of%20Swedenborgian%20Architectonics%20in%20the%20Narrative%20Cosmos%20of%20Hans%20Christian%20Andersen.md)
-30. [The Crisis of Ensoulment: A Pneumatological and Historiographical Exegesis of the Disney Shift (1932–1937)](The%20Crisis%20of%20Ensoulment_%20A%20Pneumatological%20and%20Historiographical%20Exegesis%20of%20the%20Disney%20Shift%20%281932%E2%80%931937%29.md)
-31. [The Crown and the Comedy: The Fairy Tale Canon as the Pneumatological Core of the Walt Disney Studio](The%20Crown%20and%20the%20Comedy_%20The%20Fairy%20Tale%20Canon%20as%20the%20Pneumatological%20Core%20of%20the%20Walt%20Disney%20Studio.md)
-32. [The Diffracted Light: From Universal Correspondence to Cultural Metaphor in the Disney Studio](The%20Diffracted%20Light_%20From%20Universal%20Correspondence%20to%20Cultural%20Metaphor%20in%20the%20Disney%20Studio.md)
-33. [The Inverted Influx: The Profanation of Correspondence and the Deification of Self in Disney's Wish](The%20Inverted%20Influx_%20The%20Profanation%20of%20Correspondence%20and%20the%20Deification%20of%20Self%20in%20Disney's%20Wish.md)
-34. [The Looking-Glass of Theology: A Systematic Reconstruction of Swedenborgian Correspondence in the Narrative Architecture of Lewis Carroll](The%20Looking-Glass%20of%20Theology_%20A%20Systematic%20Reconstruction%20of%20Swedenborgian%20Correspondence%20in%20the%20Narrative%20Architecture%20of%20Lewis%20Carroll.md)
-35. [The Mechanics of the Soul: Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio](The%20Mechanics%20of%20the%20Soul_%20Don%20Graham,%20Action%20Analysis,%20and%20the%20Secularization%20of%20Swedenborgian%20Influx%20at%20the%20Walt%20Disney%20Studio.md)
-36. [The Mirror and the Star: A Comparative Pneumatology of Disney's Wish and Snow White (2025)](The%20Mirror%20and%20the%20Star_%20A%20Comparative%20Pneumatology%20of%20Disney's%20Wish%20and%20Snow%20White%20%282025%29.md)
-37. [The Mirror and the Void: An Archival and Pneumatological Exegesis of the Rejected Adaptations of the Walt Disney Studio](The%20Mirror%20and%20the%20Void_%20An%20Archival%20and%20Pneumatological%20Exegesis%20of%20the%20Rejected%20Adaptations%20of%20the%20Walt%20Disney%20Studio.md)
-38. [The Mirror of the Invisible: Swedenborgian Natural Philosophy and the Romantic Folklore of the Brothers Grimm](The%20Mirror%20of%20the%20Invisible_%20Swedenborgian%20Natural%20Philosophy%20and%20the%20Romantic%20Folklore%20of%20the%20Brothers%20Grimm.md)
-40. Swedenborg, Emanuel. *Divine Providence* (*Angelic Wisdom concerning Divine Providence*). Translated by William F. Wunsch. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-41. Cross, Whitney R. *The Burned-over District: The Social and Intellectual History of Enthusiastic Religion in Western New York, 1800–1850.* Ithaca, NY: Cornell University Press, 1950.  
-42. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.  
-43. Haley, W. D. "Johnny Appleseed: A Pioneer Hero." *Harper's New Monthly Magazine* 43, no. 258 (November 1871): 830–836.  
-44. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).  
-45. Adelquist, Hal. Letter to David Swift, May 23, 1966. Reproduced in Amid Amidi, "The Strange and Tragic Life of Hal Adelquist," *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.  
-46. Bawden-Davis, Julie. "Hilbert Museum of California Art." *Old Towne Orange Plaza Review*, March 16, 2016. https://www.orangereview.com/public/article/51/hilbert-museum-of-california-art.  
-47. Canemaker, John. *The Art and Flair of Mary Blair: An Appreciation.* Updated ed. New York: Disney Editions, 2014.  
+**Primary Sources:**
+
+1. Adelquist, Hal. Letter to David Swift, May 23, 1966. Reproduced in Amid Amidi, "The Strange and Tragic Life of Hal Adelquist," *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.
+2. Andersen, Hans Christian. *The Story of My Life.* New York: Hurd and Houghton, 1871.
+3. Babbitt, Art. "Character Analysis of the Goof." Walt Disney Studio, June 1934. Reprinted as "Analysis of the Goof" in Frank Thomas and Ollie Johnston, *The Illusion of Life: Disney Animation*. New York: Abbeville Press, 1981.
+4. Besant, Annie, and C. W. Leadbeater. *Thought-Forms.* London, 1901.
+5. Blavatsky, H. P. *Isis Unveiled: A Master-Key to the Mysteries of Ancient and Modern Science and Theology.* 2 vols. New York: J. W. Bouton, 1877.
+6. Carroll, Lewis. *Alice's Adventures in Wonderland.* London: Macmillan, 1865.
+7. Culhane, Shamus. *Talking Animals and Other People.* New York: St. Martin's Press, 1986. Reprint, New York: Da Capo Press, 1998.
+8. Disney, Walt. Inter-office communication to Don Graham, December 23, 1935. Reproduced in Shamus Culhane, *Talking Animals and Other People* (New York: Da Capo Press, 1998), 117–127, and in Walt Stanchfield, "The Disney Tradition," September 24, 1995, http://www.animationmeat.com/pdf/nineoldmen/MemoFromWalt.pdf.
+9. Graham, Don. "Animation of Forces vs. Animation of Forms as an Approach to Animation … Live Action Fall." Class on Action Analysis, Walt Disney Studio, June 21, 1937. Typescript transcript, collection of Hans Perk. Published at *A. Film L.A.*, March 2, 2009. http://afilmla.blogspot.com/2009/03/animating-forms-vs-forces-action.html.
+10. Grimm, Jacob, and Wilhelm Grimm. "Sneewittchen." In *Kinder- und Haus-Märchen*, 7th ed., 1:264–273. Göttingen: Dieterich, 1857.
+11. Grimm, Jacob, and Wilhelm Grimm. *Household Tales.* Translated by Margaret Hunt. 2 vols. London: George Bell and Sons, 1884.
+12. Grimm, Wilhelm. "Über das Wesen der Märchen." In *Kinder- und Haus-Märchen*, 2nd ed., vol. 1. Berlin: G. Reimer, 1819.
+13. Haley, W. D. "Johnny Appleseed: A Pioneer Hero." *Harper's New Monthly Magazine* 43, no. 258 (November 1871): 830–836.
+14. *Johnny Appleseed.* Dennis Day. Story adaptation by Winston Hibler. RCA Victor "Little Nipper" album Y-390. Text © Walt Disney Productions, 1949.
+15. Maurice, Frederick Denison. *Theological Essays.* Cambridge: Macmillan, 1853.
+16. *The Messenger* (Swedenborgian Church). February 1974. https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf.
+17. Schelling, F. W. J. *Ideen zu einer Philosophie der Natur.* Leipzig: Breitkopf und Härtel, 1797.
+18. Sullivan, Louis H. "The Tall Office Building Artistically Considered." *Lippincott's Monthly Magazine* 57 (March 1896): 403–409.
+19. Swedenborg, Emanuel. *Apocalypse Revealed*. Translated by John Whitehead. Standard Edition. 2 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+20. Swedenborg, Emanuel. *Arcana Coelestia*. Translated by John Clowes, revised and edited by John Faulkner Potts. Standard Edition. 12 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+21. Swedenborg, Emanuel. *Divine Providence* (*Angelic Wisdom concerning Divine Providence*). Translated by William F. Wunsch. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+22. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+
+**Scholarly Works:**
+
+23. Albanese, Catherine L. *A Republic of Mind and Spirit: A Cultural History of American Metaphysical Religion.* New Haven: Yale University Press, 2007.
+24. Barrier, Michael. *Hollywood Cartoons: American Animation in Its Golden Age.* New York: Oxford University Press, 1999.
+25. Barrier, Michael. *The Animated Man: A Life of Walt Disney.* Berkeley: University of California Press, 2007.
+26. Beiman, Nancy. "The Animated Tramp: Charlie Chaplin's Influence on American Animation." Conference paper, Fondazione Cineteca di Bologna, 2014. http://fondazione.cinetecadibologna.it/files/festival/Sotto_le_stelle/2014/100charlot/atti/beiman.
+27. Canemaker, John. *The Art and Flair of Mary Blair: An Appreciation.* Updated ed. New York: Disney Editions, 2014.
+28. Carmer, Carl. *Listen for a Lonesome Drum: A York State Chronicle.* New York: Farrar & Rinehart, 1936.
+29. Carmer, Carl. *Dark Trees to the Wind: A Cycle of York State Years.* New York: William Sloane Associates, 1949.
+30. Carmer, Carl. *The Farm Boy and the Angel.* Garden City, NY: Doubleday, 1970.
+31. Collingwood, Stuart Dodgson. *The Life and Letters of Lewis Carroll (Rev. C. L. Dodgson).* London: T. Fisher Unwin, 1898.
+32. Cross, Whitney R. *The Burned-over District: The Social and Intellectual History of Enthusiastic Religion in Western New York, 1800–1850.* Ithaca, NY: Cornell University Press, 1950.
+33. Deja, Andreas. *The Nine Old Men: Lessons, Techniques, and Inspiration from Disney's Great Animators.* New York: Routledge, 2015.
+34. Gabler, Neal. *Walt Disney: The Triumph of the American Imagination.* New York: Knopf, 2006.
+35. Gadassik, Alla. "Assembling Movement: Scientific Motion Analysis and Studio Animation Practice." *Discourse* 37, no. 3 (2015): 269–297.
+36. Garff, Joakim. *Søren Kierkegaard: A Biography.* Princeton: Princeton University Press, 2005.
+37. Horn, Friedemann. *Schelling and Swedenborg.* Translated by George F. Dole. West Chester, PA: Swedenborg Foundation, 1997.
+38. Johnson, Gregory R., ed. *Kant on Swedenborg: Dreams of a Spirit-Seer and Other Writings.* West Chester, PA: Swedenborg Foundation, 2002.
+39. Karlstrom, Paul J., ed. *On the Edge of America: California Modernist Art, 1900–1950.* Berkeley: University of California Press, 1996.
+40. Larson, Martin A. *New Thought, or, A Modern Religious Approach: The Philosophy of Health, Happiness, and Prosperity.* New York: Philosophical Library, 1985.
+41. Lovett, Charles C. *Lewis Carroll among His Books: A Descriptive Catalogue of the Private Library of Charles L. Dodgson.* Jefferson, NC: McFarland, 2005.
+42. Magee, Glenn Alexander. *Hegel and the Hermetic Tradition.* Ithaca, NY: Cornell University Press, 2001.
+43. Means, Howard. *Johnny Appleseed: The Man, the Myth, the American Story.* New York: Simon & Schuster, 2011.
+44. Menocal, Narciso G. *Architecture as Nature: The Transcendentalist Idea of Louis Sullivan.* Madison: University of Wisconsin Press, 1981.
+45. Reis, Richard H. *George MacDonald.* New York: Twayne, 1972.
+46. Smith, Dave. *Disney A to Z: The Official Encyclopedia.* New York: Hyperion, 1996.
+47. Solomon, Charles. *The Disney That Never Was: The Stories and Art from Five Decades of Unproduced Animation.* New York: Hyperion, 1995.
+48. Solomon, Charles. "Chanticleer." In *Marc Davis: Walt Disney's Renaissance Man.* New York: Disney Editions, 2014.
+49. Stanchfield, Walt. *Drawn to Life: 20 Golden Years of Disney Master Classes.* Edited by Don Hahn. 2 vols. Burlington, MA: Focal Press, 2009.
+50. Thomas, Bob. *Disney's Art of Animation: From Mickey Mouse to Hercules.* New York: Hyperion, 1997.
+51. Thomas, Frank, and Ollie Johnston. *The Illusion of Life: Disney Animation.* New York: Abbeville Press, 1981.
+52. Zipes, Jack, trans. *The Complete Fairy Tales of the Brothers Grimm.* Toronto and New York: Bantam, 1987.
+
+**Internal Library Documents:**
+
+53. [The Animating Spirit: An Exhaustive Analysis of Swedenborgian Correspondences in the Cinematic Universe of Walt Disney](The%20Animating%20Spirit_%20An%20Exhaustive%20Analysis%20of%20Swedenborgian%20Correspondences%20in%20the%20Cinematic%20Universe%20of%20Walt%20Disney.md). The film-by-film correspondential reading of the canon that § VIII summarizes.
+54. [The Apple and the Angel: An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's *The Legend of Johnny Appleseed*](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md). The library's study of *Johnny Appleseed*: the Murdoch–Adelquist correspondence, the angel as a departed human, and the "Blessings Three."
+55. [The Carriers of the Invisible: A Personnel History of Swedenborgian Thought in the Walt Disney Studio](The%20Carriers%20of%20the%20Invisible_%20A%20Personnel%20History%20of%20Swedenborgian%20Thought%20in%20the%20Walt%20Disney%20Studio.md). The personnel history behind § 6.2: Blair, Carmer and the Wright connection.
+56. [The Celestial Botany of the Fairy Tale: A Pneumatological Exegesis of Swedenborgian Architectonics in the Narrative Cosmos of Hans Christian Andersen](The%20Celestial%20Botany%20of%20the%20Fairy%20Tale_%20A%20Pneumatological%20Exegesis%20of%20Swedenborgian%20Architectonics%20in%20the%20Narrative%20Cosmos%20of%20Hans%20Christian%20Andersen.md). The correspondential reading of Andersen's tales summarized in § 5.2.
+57. [The Crisis of Ensoulment: A Pneumatological and Historiographical Exegesis of the Disney Shift (1932–1937)](The%20Crisis%20of%20Ensoulment_%20A%20Pneumatological%20and%20Historiographical%20Exegesis%20of%20the%20Disney%20Shift%20%281932%E2%80%931937%29.md). The full treatment of the rubber-hose ceiling and the studio's turn to interiority on which § II draws.
+58. [The Crown and the Comedy: The Fairy Tale Canon as the Pneumatological Core of the Walt Disney Studio](The%20Crown%20and%20the%20Comedy_%20The%20Fairy%20Tale%20Canon%20as%20the%20Pneumatological%20Core%20of%20the%20Walt%20Disney%20Studio.md). The canon hierarchy, the Renaissance pattern and the *Wish*/*Snow White* (2025) contrast developed in § VIII.
+59. [The Diffracted Light: From Universal Correspondence to Cultural Metaphor in the Disney Studio](The%20Diffracted%20Light_%20From%20Universal%20Correspondence%20to%20Cultural%20Metaphor%20in%20the%20Disney%20Studio.md). The correspondential reading of the castle in *Beauty and the Beast* as the Beast's state made visible.
+60. [The Inverted Influx: The Profanation of Correspondence and the Deification of Self in Disney's *Wish*](The%20Inverted%20Influx_%20The%20Profanation%20of%20Correspondence%20and%20the%20Deification%20of%20Self%20in%20Disney's%20Wish.md). The analysis of *Wish* as an inversion of influx, from the star above to "stardust" within.
+61. [The Looking-Glass of Theology: A Systematic Reconstruction of Swedenborgian Correspondence in the Narrative Architecture of Lewis Carroll](The%20Looking-Glass%20of%20Theology_%20A%20Systematic%20Reconstruction%20of%20Swedenborgian%20Correspondence%20in%20the%20Narrative%20Architecture%20of%20Lewis%20Carroll.md). The correspondential reading of Carroll summarized in § 5.3.
+62. [The Mechanics of the Soul: Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio](The%20Mechanics%20of%20the%20Soul_%20Don%20Graham,%20Action%20Analysis,%20and%20the%20Secularization%20of%20Swedenborgian%20Influx%20at%20the%20Walt%20Disney%20Studio.md). The full text of the 1935 memo and Graham's Action Analysis classes read as a secularized doctrine of influx (§ IV).
+63. [The Mirror and the Star: A Comparative Pneumatology of Disney's *Wish* and *Snow White* (2025)](The%20Mirror%20and%20the%20Star_%20A%20Comparative%20Pneumatology%20of%20Disney's%20Wish%20and%20Snow%20White%20%282025%29.md). The reading of "Waiting on a Wish" and the 2025 *Snow White* as a return to the vertical structure.
+64. [The Mirror and the Void: An Archival and Pneumatological Exegesis of the Rejected Adaptations of the Walt Disney Studio](The%20Mirror%20and%20the%20Void_%20An%20Archival%20and%20Pneumatological%20Exegesis%20of%20the%20Rejected%20Adaptations%20of%20the%20Walt%20Disney%20Studio.md). The development histories of *Don Quixote*, *Chanticleer*, *The Odyssey* and *Mort* behind § VII.
+65. [The Mirror of the Invisible: Swedenborgian Natural Philosophy and the Romantic Folklore of the Brothers Grimm](The%20Mirror%20of%20the%20Invisible_%20Swedenborgian%20Natural%20Philosophy%20and%20the%20Romantic%20Folklore%20of%20the%20Brothers%20Grimm.md). The correspondential reading of the Grimm tales summarized in § 5.1.
+
+**Web Sources:**
+
+66. American Film Institute. "Melody Time (1948)." *AFI Catalog of Feature Films*, n.d. https://catalog.afi.com/Catalog/MovieDetails/25636.
+67. Amidi, Amid. "When Frank Lloyd Wright Met Disney." *Cartoon Brew*, December 14, 2006. https://www.cartoonbrew.com/old-brew/when-frank-lloyd-wright-met-disney-2397.html.
+68. Bawden-Davis, Julie. "Hilbert Museum of California Art." *Old Towne Orange Plaza Review*, March 16, 2016. https://www.orangereview.com/public/article/51/hilbert-museum-of-california-art.
+69. Box Office Mojo. "Rock-A-Doodle (1991)." n.d. https://www.boxofficemojo.com/title/tt0102802/.
+70. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
+71. Crow, David. "The Disney Renaissance: The Rise & Fall of a Generational Touchstone." *Den of Geek*, March 17, 2017. https://www.denofgeek.com/culture/the-disney-renaissance-the-rise-fall-of-a-generational-touchstone/.
+72. D23. "Art School Formed at Disney Studio with Donald Graham Serving as Teacher." *This Day in Disney History*, November 15, 1932. https://d23.com/this-day/art-school-formed-at-disney-studio-with-donald-graham-serving-as-teacher/.
+73. Deja, Andreas. "Chanticleer, Rough and Final." *Deja View*, September 10, 2013. http://andreasdeja.blogspot.com/2013/09/chanticleer-rough-and-final.html.
+74. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.
+75. Graham, Donald H. "Donald W. Graham." 2005. http://www.donaldwgraham.com/.
+76. Hill, Jim. "Disney's Decades-Long Quest to Turn 'Don Quixote' into a Full-Length Animated Feature." *Jim Hill Media*, May 15, 2014. https://jimhillmedia.com/disneys-decades-long-quest-to-turn-don-quixote-into-a-full-length-animated-feature/.
+77. Hill, Jim. "The Best Disney Animation Film Never Made – 'Chanticleer.'" *Jim Hill Media*, June 2, 2025.
+78. Jones, Rendy. "'Wish' Review: Disney's Centennial Celebratory Flick is the Studio at Their Most Soulless to Date." *Rendy Reviews*, November 22, 2023. https://www.rendyreviews.com/movie-reviews/wish-review.
+79. Korkis, Jim. "The Greatest Disney Animated Feature Never Made: Chanticleer." *MousePlanet*, August 18, 2021. https://mouseplanet.com/the-greatest-disney-animated-feature-never-made-chanticleer/8031/.
+80. Korkis, Jim. "In His Own Words: Frank Lloyd Wright on 'Fantasia.'" *Cartoon Research*, December 16, 2022. https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/.
+81. Lerew, Jenny. "Artist and Author Jenny Lerew Talks Mickey Mouse and Animator Fred Moore, Part I." Interview. *The Walt Disney Family Museum* (blog), March 2, 2020. https://www.waltdisney.org/blog/artist-and-author-jenny-lerew-talks-mickey-mouse-and-animator-fred-moore-part-i.
+82. Los Angeles Daily News. "'Odyssey,' Sinbad, Pocahontas Getting Disney Treatment." *Chicago Tribune*, July 2, 1992. https://www.chicagotribune.com/news/ct-xpm-1992-07-02-9202290009-story.html.
+83. Nicolosi, Barbara. "Disney's 'Wish' Unfulfillment." *National Catholic Register*, December 5, 2023. https://ncregister.com/features/disney-s-wish-unfulfillment.
+84. Ruimy, Jordan. "Disney's 'Snow White' Undergoing More Reshoots." *World of Reel*, June 24, 2024. https://www.worldofreel.com/blog/2024/6/24/disneys-snow-white-undergoing-more-reshoots.
+85. Siegel, Tatiana. "Disney Got Its Groove Back With 'Moana 2,' but Troubled 'Snow White' Could Halt the Momentum." *Variety*, December 4, 2024. https://variety.com/2024/film/news/disney-success-moana-2-trouble-snow-white-looms-1236234842/.
+86. Snow White Museum. "The Story." *Snow White Museum*, n.d. https://snowwhitemuseum.com/about-the-film/the-story/.
+87. Stack, Peter. "Disney Muscles In on Greek Myth / 'Hercules' a Product of Research as Much as Drawing." *San Francisco Chronicle*, June 22, 1997. https://www.sfgate.com/entertainment/article/Disney-Muscles-In-on-Greek-Myth-Hercules-a-2821105.php.
+88. Walker, RV. "The Disney Logo: A Brief History of Its Evolution and Variations." *Nerdist*, March 28, 2015. https://nerdist.com/article/the-disney-logo-a-brief-history-of-its-evolution-and-variations/.
+89. The Walt Disney Family Museum. "Make Believe: The World of Glen Keane." March 7, 2018. https://www.waltdisney.org/blog/make-believe-world-glen-keane.
+90. The Walt Disney Family Museum. "The Making and Impact of *One Hundred and One Dalmatians*." March 21, 2022. https://www.waltdisney.org/blog/making-101-dalmatians.
+91. Waxman, Olivia B. "All the Controversies Surrounding Disney's *Snow White* Remake." *Time*, March 13, 2025. https://time.com/7267440/snow-white-disney-rachel-zegler-gal-gadot/.

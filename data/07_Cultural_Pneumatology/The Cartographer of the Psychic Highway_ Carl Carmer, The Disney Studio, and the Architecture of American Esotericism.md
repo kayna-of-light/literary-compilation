@@ -65,7 +65,7 @@ The book devotes chapters to the very groups that define the "Burned-Over" pheno
 
 ### **3.2 *Dark Trees to the Wind* (1949) and the Koreshan Connection**
 
-Published just a year after *Melody Time*, *Dark Trees to the Wind* provides the "smoking gun" regarding Carmer’s knowledge of Swedenborgian offshoots. The book contains a chapter titled "The Great Alchemist at Utica" (pp. 260–289).4
+Published just a year after *Melody Time*, *Dark Trees to the Wind* provides the "smoking gun" regarding Carmer’s knowledge of Swedenborg-influenced sects. The book contains a chapter titled "The Great Alchemist at Utica" (pp. 260–289).4
 
 #### **3.2.1 Cyrus Teed and the Hollow Earth**
 
@@ -133,7 +133,7 @@ To substantiate the breadth of his expertise, the following table and analysis h
 | **The Hurricane's Children** | 1937 | Folklore | Tall Tales, including Johnny Appleseed. | Source material for the "Tall Tale" tone of *Melody Time*. |
 | **The Hudson** | 1939 | Regional History | History of the Hudson Valley; Dutch folklore. | Primary source/expertise for *The Legend of Sleepy Hollow*. |
 | **America Sings** | 1942 | Anthology | Folk songs and stories, including Johnny Appleseed. | Direct precursor to *Melody Time* (musical folklore). |
-| **Dark Trees to the Wind** | 1949 | History/Folklore | Koreshan Unity (Swedenborgian offshoot), Cyrus Teed. | Proves active research into Swedenborgian sects during Disney consultancy. |
+| **Dark Trees to the Wind** | 1949 | History/Folklore | Koreshan Unity; Cyrus Teed, author of *Emanuel Swedenborg, His Mission*. | Proves active research into Swedenborgian sects during Disney consultancy. |
 | **The Farm Boy and the Angel** | 1970 | History | Joseph Smith and the Angel Moroni. | Confirms lifelong interest in "Angel" visitations in NY history. |
 
 ### **Analysis of Key Works**

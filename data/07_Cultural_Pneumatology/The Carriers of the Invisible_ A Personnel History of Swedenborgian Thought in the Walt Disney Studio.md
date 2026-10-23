@@ -100,7 +100,7 @@ The "core ethos" was further cemented by key personnel whose work and friendship
 
 * **The *Appleseed* Nexus:** Blair was the Art Supervisor for *Johnny Appleseed* in 1948, credited for color and styling on *Melody Time* (American Film Institute n.d.). She worked directly on the film that Carmer advised on and Murdoch critiqued. Her visual design for the film—where the boundary between the natural and spiritual worlds is non-existent (clouds becoming apple blossoms, Johnny walking into the sky; *The Legend of Johnny Appleseed* 1948)—is pure "Influx." Adelquist himself counted her among his friends and "close working associates for many years, including the Disney daze...'Alice', 'Pan', 'Cindy' etc." (Adelquist, 23 May 1966, reproduced in Amidi 2010).  
 * **The Palos Verdes Coast:** In 1934 Lee Blair painted Mary standing on a bluff over the Palos Verdes peninsula (*Mary by the Sea*; Bawden-Davis 2016; Ballard 2018), the coast where the **Wayfarers Chapel**, the "Glass Church" designed by Lloyd Wright (Frank Lloyd Wright's son) as a national memorial to Swedenborg, would rise in 1949–1951 (Wayfarers Chapel n.d.).  
-* **Aesthetic Alignment:** Blair’s art rejects Renaissance perspective (which emphasizes the material separation of objects) in favor of flatness and color (which emphasizes emotional/spiritual state). The worldview she painted for Disney for thirty years is the one the Swedenborgian chapel built in glass and redwood.
+* **Aesthetic Alignment:** Blair’s art rejects Renaissance perspective (which emphasizes the material separation of objects) in favor of flatness and color (which emphasizes emotional/spiritual state). The worldview she painted for Disney is the one the Swedenborgian chapel built in glass and redwood.
 
 ## **VII. The Architecture of Spirit: The Wright Connection**
 
@@ -109,7 +109,7 @@ The physical environment of the Disney creative community reinforced this ethos.
 ### **7.1 Frank Lloyd Wright’s 1939 Visit**
 
 In 1939, **Frank Lloyd Wright** visited the Disney Studio. A transcript of his talk reveals that he screened a Russian animated film (*The Tale of the Czar Durandai*) and lectured the animators on "abstract" and "organic" design (Amidi 2006; Korkis 2022).  
-Wright, whose mentor Louis Sullivan took from Swedenborg the foundations of his ornament's ideological structure (Menocal 1981), preached an architecture where "form follows function" (a direct parallel to "form follows spirit"). His validation of animation as a medium for "organic" truth encouraged the studio to pursue the more abstract, metaphysical styles seen in *Fantasia*.
+Wright, whose mentor Louis Sullivan took from Swedenborg the foundations of his ornament's ideological structure (Menocal 1981), carried forward his mentor's principle that form follows function (a direct parallel to "form follows spirit"). His validation of animation as a medium for "organic" truth likely encouraged the studio in the more abstract, metaphysical styles seen in *Fantasia*, then in production.
 
 ### **7.2 The Wayfarers Chapel as a Hub**
 

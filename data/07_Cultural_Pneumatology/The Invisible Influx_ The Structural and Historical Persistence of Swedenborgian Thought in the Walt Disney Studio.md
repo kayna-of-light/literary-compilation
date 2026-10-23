@@ -22,7 +22,7 @@ To understand why the Disney Studio would actively engage with a specific 18th-c
 
 In the 1920s, American animation was dominated by the "rubber hose" style. Characters like Felix the Cat or the early Mickey Mouse were constructed of loose, flexible tubes. They moved with a fluid, rhythmic bounce that was entertaining but fundamentally mechanical. They had no weight, no bone structure, and most importantly, no interiority. If a character moved, it was because the animator moved the pencil, not because the character had a thought or a feeling that caused the movement.
 
-Walt Disney realized by the early 1930s that this style had a distinct ceiling. He envisioned feature-length films that could sustain an audience's emotional investment for eighty minutes. To achieve this, his characters needed to appear to have a soul. They needed to seem self-motivated. This required a paradigm shift from "animating movement" to "animating intentions" (Disney, 23 December 1935).
+Walt Disney realized by the early 1930s that this style had a distinct ceiling. He envisioned feature-length films that could sustain an audience's emotional investment for eighty minutes. To achieve this, his characters needed to appear to have a soul. They needed to seem self-motivated. This required a paradigm shift from "animating movement" to "animating intentions": to what Walt's memo to Don Graham called "the force behind the movement" (Disney, 23 December 1935).
 
 ### **2.2 The Swedenborgian Solution: The Doctrine of Influx**
 

@@ -2,7 +2,7 @@
 
 ## **I. Introduction: The Epistemological Fracture and the Riddle of Existence**
 
-The enigmatic query posed by the Mad Hatter in Lewis Carroll's *Alice's Adventures in Wonderland*—"Why is a raven like a writing desk?"—has long been relegated to the realm of literary nonsense. The standard scholarly position holds that Carroll intended the riddle to have no answer, though this assumption deserves scrutiny (see Section IV.4). However, when interrogated through the rigorous metaphysical framework of the **Doctrine of Correspondences**, this riddle ceases to be a non-sequitur and reveals itself as a profound theological diagnostic. It serves as a precise analogical description of a specific spiritual state: the **Natural Unregenerate Mind**.
+The enigmatic query posed by the Mad Hatter in Lewis Carroll's *Alice's Adventures in Wonderland*—"Why is a raven like a writing desk?"—has long been relegated to the realm of literary nonsense. Carroll himself said that "the Riddle, as originally invented, had no answer at all", and that the answer he later offered was "merely an after-thought" (Carroll 1896; see Section 4.4). Read through the **Doctrine of Correspondences**, however, the riddle's two terms describe a single spiritual state: the **Natural Unregenerate Mind**. This study offers that as a reading of the riddle. It makes no claim about what Carroll meant by it, since his own words say he meant no answer.
 
 This report undertakes an exhaustive analysis of this riddle using the "Science of Correspondences," a worldview recovered and systematized by Emanuel Swedenborg and traced back to the "Magian Science" of the Ancient Near East.1 Within this ontology, the physical universe is not a closed system of material interactions but a "theatre representative" where every object—whether a bird of the air or an artifact of wood—functions as a "letter" in a divine alphabet, articulating invisible spiritual realities.1
 
@@ -78,13 +78,12 @@ The Raven (*Corvus corax*) acts as the correspondential inverse of the Eagle or 
 
 * **Blackness:** Its color corresponds to the absence of spiritual light (Truth). In the Swedenborgian spectrum, blackness signifies the **"darkness of the mind"** or the "obscurity of the natural mind".2  
 * **Carrion Diet:** The raven is a scavenger. It feeds on the dead. This corresponds to the **Natural Unregenerate Mind** feeding on "dead" scientifics, "corporeal lusts," and the "fallacies of the senses" (the carcasses of truth). The pig, another scavenger, was taboo for the Shasu nomads because it "ate death" 3; the raven functions similarly in the aviary realm.  
-* **The "Spy" of the Mind:** Swedenborg links the raven to "secret falsities" or "spying thoughts" that seek out the innocent to destroy them. This is the **rational faculty** turned against the **spiritual will**. It is the intellect used to rationalize evil—the "cunning" of the natural man.
 
-### **4.2 The Raven of Noah: The Unregenerate Scout**
+### **4.2 The Raven of Noah: Falsities in the Twilight**
 
-The correspondential function of the raven is most explicitly diagrammed in the narrative of Noah's Ark (Genesis 8), a text central to Swedenborg’s analysis of the "Ancient Church." The Flood represents a "suffocation" by falsities.2 The Ark represents the "container" of the Church (the regenerate state) floating on these waters. Noah first sends out a raven. It flies "to and fro" (Genesis 8:7) and does not return.
+The correspondential function of the raven is most explicitly given in the narrative of Noah's Ark (Genesis 8), a text central to Swedenborg's analysis of the "Ancient Church." Noah first sends out a raven, "and it went forth, going and returning, until the waters were dried up from off the earth" (Gen 8:7). Swedenborg reads the verse closely. The raven signifies falsities, and its "going and returning" signifies "that falsities still made disturbance" (*AC* §864). The state described is not that of a man lost in the flood but "the second state of the man who is to be regenerated, after temptation, when the truths of faith, like the first dawning of light, begin to appear", a state that "resembles the morning twilight, while somewhat of the obscurity of night still remains, as is here signified by a 'raven'" (*AC* §865). Birds signify things of the understanding, and in the opposite sense reasonings and falsities; "gross and dense falsities are described by owls and ravens; by owls because they live in the darkness of night, and by ravens, because they are of a black color" (*AC* §866). The falsities "fly about, going and returning", because a man in that state "can be only in the knowledge of the most general things, into which flow fantasies arising from corporeal, sensuous, and worldly things" (*AC* §867).
 
-The raven represents the **falsities of the natural mind**. It flies "to and fro" because it is at home in the desolation. It feeds on the floating carrion of the flood. It finds *no rest* because it belongs to the restless, "flat" expanse of the unregenerate waters. In contrast, the dove (spiritual truth) finds no rest and returns to the Ark. Here, the raven is the **avatar of the unregenerate mind**. It is the bird that thrives in the "vastation," the bird that exists in the "void."
+The raven of Noah is therefore not the unregenerate mind at home in its desolation. It is the falsity of the natural mind as it still troubles one who is being regenerated: thought that has not yet risen above "corporeal, sensuous, and worldly things", going out and coming back without finding ground. The reading that follows rests on that meaning. The raven of the riddle is natural-degree thinking: black because it is without the light of truth, restless because it has nothing higher to settle on, and not yet dissipated.
 
 ### **4.3 The "Flat" Note of the Raven**
 
@@ -93,57 +92,26 @@ In the Doctrine of Correspondences, **sound** corresponds to **affection going f
 The raven's call is a harsh, monotonic croak. It lacks the melodic richness of the songbird not because of mere biology, but because **the raven corresponds to the natural mind trapped in fallacies**. A mind that cannot elevate itself above the natural plane can only produce reasoning that "sounds flat"—natural-degree thinking mistaking itself for wisdom. The "flat notes" are not about musical pitch but about the **quality of reasoning**: what comes forth from the unregenerate mind is flat because the mind itself operates only on the flat, horizontal plane of natural causation.
 
 This is the **"Monotony of the Self"**—the "repetition of a void".5 The unregenerate mind has only one song: "I, I, I." Its reasoning sounds flat because its affections are flat—self-referential, unable to receive the influx that would give elevation and depth. Thus, the Raven is **like** the writing desk because it is the **animate embodiment** of the **flat, dead, natural mind**—not geometrically flat, but flat in the quality of what it produces.
-### **4.4 Carroll's "Fairly Appropriate" Evasion: A Critical Examination**
+### **4.4 What Carroll Said About the Riddle**
 
-The standard scholarly position holds that Carroll "eventually provided an answer" to the riddle. This is a misreading. In the Preface to the 1896 edition of *Alice's Adventures in Wonderland*, Carroll wrote:
+Carroll's only recorded statement about the riddle is a preface dated Christmas 1896 for a new printing of *Alice's Adventures in Wonderland*:
 
-> "Enquiries have been so often addressed to me, **as to whether any answer to the Hatter's Riddle can be imagined**, that I may as well put on record here **what seems to me to be a fairly appropriate answer**, viz: 'Because it can produce a few notes, tho' they are very flat; and it is nevar put with the wrong end in front!' This, however, is merely an after-thought; the Riddle, **as originally invented**, had no answer at all."
+> Enquiries have been so often addressed to me, as to whether any answer to the Hatter's Riddle can be imagined, that I may as well put on record here what seems to me to be a fairly appropriate answer, viz. "Because it can produce a few notes, though they are very flat; and it is nevar put with the wrong end in front!" This, however, is merely an after-thought: the Riddle, as originally invented, had no answer at all. (Carroll 1896)
 
-Note carefully: Carroll is not asked "What is the answer?" but "**Can an answer be imagined?**" His response is correspondingly precise: not *the answer* but "what seems to me to be a fairly appropriate answer" — that is, *what an appropriate answer would look like if one were to imagine one*. He describes a hypothetical, not discloses a solution. And he immediately clarifies: "the Riddle, as originally invented, had no answer at all."
+That is the whole of the record. It establishes three things: that the riddle had no answer when Carroll invented it; that three decades later he offered one, which he called "a fairly appropriate answer" and "merely an after-thought"; and that the reversed spelling "nevar", which reads "raven" backwards, is his. Edward Wakeling, who prints the preface, points out the reversal (Wakeling 1995); a 1927 Macmillan reprint prints "never", so later printings lost it. The record says nothing about a hidden meaning, for or against. The readings below are readings of the riddle and of Carroll's after-thought. They do not claim that Carroll intended them.
 
-**Carroll literally did not answer the riddle.** The scholarly consensus that he "eventually provided an answer" mistakes a description of a hypothetical for a disclosure of a solution.
+#### **4.4.1 "No Answer" as a Reading**
 
-#### **4.4.1 The Evasive Phrasing**
+Carroll's statement that the riddle "had no answer at all" can itself be read in correspondence. The natural mind sees the raven and the desk as different things, bird and furniture, animate and inanimate; on its own premises, which recognize only the natural, both are matter, and a question asking what hidden likeness joins them has nowhere to go. On this reading the riddle has no answer on the plane where it is asked. Its terms meet only above that plane, in the state of mind that both correspond to. The reading takes Carroll at his word: the riddle has no answer, and that is the point at which a correspondential reading begins.
 
-Two critical observations:
+#### **4.4.2 The Hatter as Correspondent**
 
-**First**, a distinction: Carroll says the riddle has no *answer*. He does NOT say it has no *meaning*. This is deflection, not denial. The question of the riddle's *meaning* is left entirely unaddressed.
+The riddle is asked by the Hatter, at a tea party where it is always six o'clock, because, as the Hatter explains, he quarrelled with Time and Time "won't do a thing I ask" (Carroll 1865, ch. 7). In Swedenborg's account time is the outward measure of changes of state: "instead of years and days there are changes of state" (*HH* §163). The Hatter's party is a state that has stopped changing, going round the table "as the things get used up" without advancing. Read in correspondence, the riddle comes out of that state. It is the kind of question a mind asks that turns in a circle without rising: unanswerable where it is asked, asked again, and left. The question and the questioner belong to one state.
 
-**Second**, the phrase "**as originally invented**" is evasive. "Invented" implies construction; "originally" implies a temporal qualifier. Why not simply say "the riddle has no answer"? The qualifier opens space for the possibility that the riddle, as it *functions*, operates differently than the process of its "invention."
+#### **4.4.3 The After-Thought Read in Correspondence**
 
-#### **4.4.2 The Performative Decoy**
+Carroll's after-thought can be read the same way, as a reading of a text he wrote and not as a key he hid. "Because it can produce a few notes, though they are very flat" describes what comes from the natural mind: thought that cannot rise above the plane of effects (§4.3). "It is nevar put with the wrong end in front" spells *raven* backwards, and a mind that puts the natural first and the spiritual second has things the wrong way round, reasoning from effects to causes and from the world to God. That is a reading of Carroll's words. It is offered because the words bear it, and it does not need Carroll to have meant it.
 
-The answer Carroll *does* construct is performatively consistent with the riddle's subject:
-
-- The "flat notes" answer encodes the correspondential truth: what proceeds from the natural mind (the raven) is flat in quality—natural-degree reasoning that cannot ascend. The surface reader hears a pun; the initiate recognizes the diagnosis.
-- The "nevar" clue (*raven* spelled backward) encodes the **backwards reasoning** of the natural mind: it puts the natural first and the spiritual—if acknowledged at all—second. The unregenerate mind reasons from effects to causes, from world to God, from self to truth. This is precisely **inverted**: the spiritual should precede the natural, but the raven-mind reverses the order.
-- The surface reader receives a surface answer; only those who recognize the quality behind the "flatness" will seek further.
-
-Carroll maintained publicly that there is no answer while handing the initiate the key (Inversion of reasoning) to unlock it.
-
-#### **4.4.3 "No Answer" as Ontological Truth**
-
-The statement "the riddle has no answer" may be literally true — not as a joke, but as a diagnostic of the Natural Unregenerate Mind.
-
-Consider: the Natural Mind sees the raven and the desk as distinct categories — bird versus furniture, animate versus inanimate. But within its own materialist framework, they ARE the same. Both are matter. Both are molecules. Both are mechanism.
-
-This creates a paradox. "Why is X like Y?" presupposes X and Y are different things that share a hidden similarity. But if X and Y are *actually* the same thing (both just matter), the question self-destructs. The riddle has no answer because **the question is based on a fallacy** — the assumption that there is only the natural, no spiritual. The unregenerate mind cannot solve the riddle of its own existence.
-
-Carroll's riddle functions as a spiritual diagnostic: if you find it unanswerable, you are trapped in the framework it describes. The solution is not to find an answer on the same plane, but to *ascend*.
-
-#### **4.4.4 The Hatter as Correspondent**
-
-Crucially, the riddle is not posed in a vacuum — it is asked by the **Mad Hatter**, who himself corresponds to the state the riddle describes. The Hatter exists in a perpetual loop: stuck at 6:00 PM, in an endless tea party, repeating the same rituals, asking the same questions, never progressing. His "madness" is not random insanity but the *specific* madness of the Natural Unregenerate Mind — the inability to move forward, to regenerate, to ascend.
-
-The riddle arises FROM that state. The Hatter asks "Why is a raven like a writing desk?" because **that is what the unregenerate mind does** — it generates questions it cannot answer, then loops back, asks again, never proceeds. The question and the questioner are one. The Hatter's madness IS the question. The question's unanswerability IS the madness.
-
-To solve the riddle is not to find an answer but to recognize that the very act of asking — without ascending to the spiritual cause — is the condition of being mad, flat, and trapped in the perpetual 6:00 PM of the Natural Mind. The riddle doesn't need an answer. It needs a reader who stops asking.
-
-#### **4.4.5 The Esoteric Concealment Hypothesis**
-
-Given Carroll's documented familiarity with symbolic logic, his mathematical precision, and the era's tradition of encoding heterodox ideas in children's literature (cf. the Swedenborgian transmission in Andersen and the Grimms), a compelling reading presents itself: Carroll constructed a precise theological puzzle, then described what an answer *would look like* while explicitly denying that any exists. The "nonsense" remained a rigorous map of the "Natural Unregenerate Mind" legible only to those who understand Correspondence.
-
-This is not a case of Carroll "eventually revealing" an answer. It is a case of Carroll *refusing* to answer while appearing to cooperate — a masterful evasion that has fooled scholars for over a century.
 ## ---
 
 **V. The Theology of the Writing Desk: The Inanimate Container**
@@ -177,7 +145,7 @@ We are now equipped to answer the Mad Hatter’s riddle with theological precisi
 
 ### **6.1 The Shared Attribute of "Flatness"**
 
-* **The Raven:** Represents the **Intellect confined** to the natural degree. Its "flat notes" 7 are not about musical pitch but about the **quality of reasoning**—what proceeds from a mind that cannot elevate itself is flat in its affection, lacking the richness and detail of spiritual thought. The raven's reasoning "sounds flat" because the mind producing it operates only on the natural plane. It flies "to and fro" over the waters of the Flood/Vastation, at home in desolation.  
+* **The Raven:** Represents the **Intellect confined** to the natural degree. Its "flat notes" (Carroll 1896) are not about musical pitch but about the **quality of reasoning**—what proceeds from a mind that cannot elevate itself is flat in its affection, lacking the richness and detail of spiritual thought. The raven's reasoning "sounds flat" because the mind producing it operates only on the natural plane. It goes "going and returning" over the waters of the Flood, the falsity that still disturbs the natural mind (*AC* §§864–867).  
 * **The Desk:** Represents the **Cognition confined** to Literalism. Its physical form provides a **horizontal surface** for writing—the externalized, mediated mode of cognition. The natural man sees only surfaces, effects, and containers, blind to the vertical causes. Both raven and desk are "flat" in different but convergent senses: the raven in what it produces (quality of affection), the desk in what it represents (the horizontal plane of the literal).
 
 ### **6.2 The Shared Attribute of "Lifelessness"**
@@ -194,7 +162,7 @@ Therefore, the Raven and the Writing Desk are the **Twin Totems of the Unregener
 
 ### **6.4 The Hatter's Confession**
 
-The riddle is not a joke; it is a confession. As established in Section 4.4.4, the Hatter's perpetual 6:00 PM stasis — "Time without Progress" — mirrors the Unregenerate Mind that cannot regenerate but only spins in the "flat" circles of its own madness. The Hatter asks, "Why is my mind (Raven) like my world (Desk)?" The answer is: **Because both are dead, flat, and waiting for a Life they cannot generate.**
+Read in correspondence, the riddle is a confession. As set out in Section 4.4.2, the Hatter's perpetual 6:00 PM stasis — "Time without Progress" — mirrors the Unregenerate Mind that cannot regenerate but only spins in the "flat" circles of its own madness. The Hatter asks, "Why is my mind (Raven) like my world (Desk)?" The answer is: **Because both are dead, flat, and waiting for a Life they cannot generate.**
 
 ## ---
 
@@ -212,7 +180,7 @@ The "Science of Correspondences" is deeply rooted in the Mesopotamian tradition 
 
 The report highlights the "Pig Taboo" among the Shasu as a rejection of "sedentary chaos" and "mud".3 The pig was "unclean" because it was a "flat-lander"—unable to migrate, stuck in the mud.
 
-* **Insight:** The Raven is the "Pig of the Air." It is unclean for the same reason: it feeds on death and signifies the "sedentary" nature of the mind stuck in falsity (the "to and fro" without return).  
+* **Insight:** The Raven is the "Pig of the Air." It is unclean for the same reason: it feeds on death and signifies the mind still unsettled by falsity (the "going and returning" of *AC* §§864–867).  
 * **Implication:** The "Writing Desk" is the "Pig of the Study." It is the sedentary, fixed, heavy object that traps the mind in the "mud" of literalism. The "nomadic" spirituality of the Shasu 3 rejects the Desk (fixed doctrine) just as it rejects the Pig (fixed livestock). It prefers the **Tent** (Tabernacle) and the **Oral Tradition** (Living Word)—containers that move and breathe.
 
 ### **7.3 The "Dead Sun" and the "Black Screen"**
@@ -240,11 +208,13 @@ The investigation concludes that the riddle "Why is a raven like a writing desk?
 | **Geometry** | **Flat Notes** (Monotony) | **Flat Surface** (Horizontal Plane) | **Flat Vision** (Horizontal Analogy/HCM) |
 | **Vitality** | **Scavenger** (Feeds on Death) | **Artifact** (Dead Wood/Container) | **Lifeless** (Dead Sun/Selfhood) |
 | **Function** | **Falsity** (Dark Thought) | **Literalism** (Dead Letter) | **Void** (Absence of Influx) |
-| **Motion** | **To and Fro** (Restless) | **Fixed** (Sedentary) | **Stasis** (Time without Progress) |
+| **Motion** | **Going and Returning** (Restless) | **Fixed** (Sedentary) | **Stasis** (Time without Progress) |
 
 In the "Magian Science" of the ancients, to name a thing was to know its essence. To solve this riddle is to name the state of the soul that is trapped in the mirror. The Raven is the **Thought** of that soul (Falsity); the Desk is the **World** of that soul (Dead Matter). They are alike because they are the two faces of the same ghost—the ghost of the man who has forgotten he is a spirit.
 
-#### **Works cited**
+## Works Cited
+
+**Internal Library Documents:**
 
 1. The Celestial Scribe\_ The Doctrine of Correspondences, Magian Science, and the Cognitive Architecture of the Biblical Canon.pdf, [**The Celestial Scribe: The Doctrine of Correspondences, Magian Science, and the Cognitive Architecture of the Biblical Canon**](../04_Early_Christian_History/The%20Celestial%20Scribe_%20The%20Doctrine%20of%20Correspondences,%20Magian%20Science,%20and%20the%20Cognitive%20Architecture%20of%20the%20Biblical%20Canon.md)  
 2. The Universal Mirror\_ An Exhaustive Cartography of Natural Correspondences in the Theology of Emanuel Swedenborg.pdf, [**The Universal Mirror: An Exhaustive Cartography of Natural Correspondences in the Theology of Emanuel Swedenborg**](../02_Swedenborgian_Theology/The%20Universal%20Mirror_%20An%20Exhaustive%20Cartography%20of%20Natural%20Correspondences%20in%20the%20Theology%20of%20Emanuel%20Swedenborg.md)  
@@ -252,4 +222,15 @@ In the "Magian Science" of the ancients, to name a thing was to know its essence
 4. The Semiotics of the Spirit\_ An Empirical and Hermeneutic Validation of Swedenborg’s Doctrine of Correspondences Against the Canon of the New Church.pdf, [**The Semiotics of the Spirit: An Empirical and Hermeneutic Validation of Swedenborg’s Doctrine of Correspondences Against the Canon of the New Church**](../02_Swedenborgian_Theology/The%20Semiotics%20of%20the%20Spirit_%20An%20Empirical%20and%20Hermeneutic%20Validation%20of%20Swedenborg’s%20Doctrine%20of%20Correspondences%20Against%20the%20Canon%20of%20the%20New%20Church.md)  
 5. Universal Science of Correspondences: A Spiritual and Historical Synthesis  
 6. The Mirror of the Invisible: Swedenborgian Natural Philosophy and the Romantic Folklore of the Brothers Grimm, [**The Mirror of the Invisible: Swedenborgian Natural Philosophy and the Romantic Folklore of the Brothers Grimm**](The%20Mirror%20of%20the%20Invisible_%20Swedenborgian%20Natural%20Philosophy%20and%20the%20Romantic%20Folklore%20of%20the%20Brothers%20Grimm.md)  
-7. Sightings \- Mirrors in Texts \- Brill, accessed on January 31, 2026, [https://brill.com/downloadpdf/display/title/27484.pdf](https://brill.com/downloadpdf/display/title/27484.pdf)
+7. [The Looking-Glass of Theology: A Systematic Reconstruction of Swedenborgian Correspondence in the Narrative Architecture of Lewis Carroll](The%20Looking-Glass%20of%20Theology_%20A%20Systematic%20Reconstruction%20of%20Swedenborgian%20Correspondence%20in%20the%20Narrative%20Architecture%20of%20Lewis%20Carroll.md). The companion study: Carroll's texts read in correspondence, and the record of how their content reached him.
+
+**Primary Sources:**
+
+8. Carroll, Lewis. *Alice's Adventures in Wonderland.* London: Macmillan, 1865. Cited by chapter as Carroll 1865.
+9. Carroll, Lewis. "Preface to the Eighty-Sixth Thousand of the 6/- Edition" (Christmas 1896). Printed in later Macmillan editions of *Alice's Adventures in Wonderland*. Cited as Carroll 1896.
+10. Swedenborg, Emanuel. *Arcana Coelestia.* Translated by John Clowes, revised by John Faulkner Potts. 12 vols. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number as *AC*.
+11. Swedenborg, Emanuel. *Heaven and Hell.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number as *HH*.
+
+**Scholarly Works:**
+
+12. Wakeling, Edward, ed. *Rediscovered Lewis Carroll Puzzles.* New York: Dover, 1995. Prints the 1896 preface and notes the "nevar" reversal.

@@ -125,7 +125,7 @@ Mary Blair (née Robinson) is the stylist responsible for the "Disney Look" of t
 
 * **The Appleseed Nexus:** Blair was the Art Supervisor for *Johnny Appleseed* in 1948, credited for color and styling on *Melody Time* (American Film Institute n.d.). She worked directly on the film that Carmer advised on and Murdoch critiqued. Her visual design for the film—where the boundary between the natural and spiritual worlds is non-existent (clouds becoming apple blossoms, Johnny walking into the sky; *The Legend of Johnny Appleseed* 1948)—is pure "Influx." Adelquist himself counted her among his friends and "close working associates for many years, including the Disney daze...'Alice', 'Pan', 'Cindy' etc." (Adelquist, 23 May 1966, reproduced in Amidi 2010).  
 * **The Palos Verdes Coast:** In 1934 Lee Blair painted Mary on a Palos Verdes bluff (Bawden-Davis 2016), the coast where the **Wayfarers Chapel**, the "Glass Church" designed by Lloyd Wright (Frank Lloyd Wright's son) as a national memorial to Swedenborg, would rise (Wayfarers Chapel n.d.).  
-* **Aesthetic Alignment:** Blair’s art rejects Renaissance perspective (which emphasizes the material separation of objects) in favor of flatness and color (which emphasizes emotional/spiritual state). The worldview she painted for Disney for thirty years is the one the Swedenborgian chapel built in glass and redwood.
+* **Aesthetic Alignment:** Blair’s art rejects Renaissance perspective (which emphasizes the material separation of objects) in favor of flatness and color (which emphasizes emotional/spiritual state). The worldview she painted for Disney is the one the Swedenborgian chapel built in glass and redwood.
 
 ### **6.2 Walt Stanchfield: The Bridge to the Renaissance**
 

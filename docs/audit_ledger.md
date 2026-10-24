@@ -179,7 +179,7 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > → *An Actor Prepares* recommended in Graham's class of 22 Feb 1937 → Delsarte taught by name in Stanchfield's
 > classes (*Drawn to Life* vol. 1, lecture 103, archive.org djvu). In *Diffracted Light* §2.3. Next: the *Theatre
 > Workshop* issues of 1936–37; Ruyter 1979/1999. Settled since: Delsarte's own *Oratory* never names Swedenborg (the
-> attribution is his American expositors'); **Volkonsky 1913 used Stebbins** (author's Drive scan, OCR'd: bibliography
+> attribution is his American expositors'); **Waille 2015 ¶62 rejects a Delsarte–Swedenborg filiation; the 2012 Swedenborg gloss was the translator's note — never read a translator's note as the author's claim; Volkonsky 1913 used Stebbins** (author's Drive scan, OCR'd: bibliography
 > pp. 203–204, tables "from Mrs. Stebbins's book", ch. V p. 49 "from Pythagoras to Swedenborg") — map row "The missing
 > middle". Tesseract with Russian installs in the session (`apt-get install tesseract-ocr tesseract-ocr-rus`). Stanchfield's "Leonardo" sentence "A gesture is a movement not of a body but of a soul" is
 > Chaliapin's (Moore 1976). Bring it

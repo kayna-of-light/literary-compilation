@@ -163,10 +163,13 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > 2026-10-24: "you still have some research to do")**: the middle of the chain, where Graham's method came from.
 > Found so far (map, Strand 2): Graham, 21 June 1937, "It *is* a philosophy … not really new, but adapted to Studio
 > uses" (no source named); Stanchfield's New Thought frame, whose Swedenborgian root via Warren Felt Evans is
-> documented (Judah 1967; Albanese 2007; Larson 1985). Next: OCR all of Perk's Graham transcripts (`AAC-MMDDYY-NN.jpg`)
-> and search "philosoph", "spirit", "soul", "Bergson", "Hambidge", "Chinese", "Leonardo"; trace Graham's own teacher
-> at Chouinard (F. Tolles Chamberlin is a lead, not yet checked); find *Composing Pictures* (1970) in the Drive
-> `Books` folders. Stanchfield's "Leonardo" sentence "A gesture is a movement not of a body but of a soul" is
+> documented (Judah 1967; Albanese 2007; Larson 1985). **Done 2026-10-24**: all 13 Perk transcript series (183 pp.)
+> OCR'd and searched — no Swedenborg, no named philosophy; found Graham 22 Feb 1937 ("the emotion and mood … come first,
+> the action comes second") and Tytla 28 June 1937 ("We can't be mystical … This is a business"), both now in
+> *Diffracted Light* §2.3 and the map. The feed's image URLs come from
+> `afilmla.blogspot.com/feeds/posts/default?alt=json&max-results=150&start-index=N`. The Chamberlin lead has no record
+> (dropped). Next: *Composing Pictures* (1970) in the Drive `Books` folders; Barrier 1999 cites an unpublished
+> 7 June 1937 lecture (WDA) — ask the author whether the Walt Disney Archives can be approached. Stanchfield's "Leonardo" sentence "A gesture is a movement not of a body but of a soul" is
 > Chaliapin's (Moore 1976). Bring it
 > into *Invisible Influx* §VIII and *Exhaustive Analysis* at their next touch; the three art books' archive.org ids
 > are in the map. Not yet read: *The Art of Tangled* (Kurtti 2010), *The Art of Wish* — neither found on archive.org.

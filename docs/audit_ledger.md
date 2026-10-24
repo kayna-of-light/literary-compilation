@@ -175,7 +175,11 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > of exactly that law into the arts is **Delsarte** ("To each spiritual function responds a function of the body"),
 > whose American textbook (Stebbins 1885/1901) names Swedenborg and calls the law "the cornerstone of all the important
 > systems of expression of to-day"; Crafton 2013 finds Delsarte templates in 1930s cartoon performance. The Disney
-> link is the next search (map, Strand 2, row "The missing middle"). Stanchfield's "Leonardo" sentence "A gesture is a movement not of a body but of a soul" is
+> link is now documented (2026-10-24, map row "The missing middle"): Delsarte → Volkonsky → Stanislavsky (Whyman 2008)
+> → *An Actor Prepares* recommended in Graham's class of 22 Feb 1937 → Delsarte taught by name in Stanchfield's
+> classes (*Drawn to Life* vol. 1, lecture 103, archive.org djvu). In *Diffracted Light* §2.3. Next: the *Theatre
+> Workshop* issues of 1936–37; Ruyter 1979/1999 and Delsarte's own *System of Oratory* on whether Delsarte himself
+> names Swedenborg. Stanchfield's "Leonardo" sentence "A gesture is a movement not of a body but of a soul" is
 > Chaliapin's (Moore 1976). Bring it
 > into *Invisible Influx* §VIII and *Exhaustive Analysis* at their next touch; the three art books' archive.org ids
 > are in the map. Not yet read: *The Art of Tangled* (Kurtti 2010), *The Art of Wish* — neither found on archive.org.

@@ -159,7 +159,15 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > they are trained in is the core of the science of correspondences Swedenborg rediscovered; that Swedenborgianism was
 > involved at the studio's beginning and most likely gave it its shape, character and magic; that the method's impulse
 > came from him; and that teaching it as craft rather than as a key of meanings is its strength. Never reduce this to
-> "independent convergence", and never inflate it to "the artists knew Swedenborg". Bring it
+> "independent convergence", and never inflate it to "the artists knew Swedenborg". **The open research (author,
+> 2026-10-24: "you still have some research to do")**: the middle of the chain, where Graham's method came from.
+> Found so far (map, Strand 2): Graham, 21 June 1937, "It *is* a philosophy … not really new, but adapted to Studio
+> uses" (no source named); Stanchfield's New Thought frame, whose Swedenborgian root via Warren Felt Evans is
+> documented (Judah 1967; Albanese 2007; Larson 1985). Next: OCR all of Perk's Graham transcripts (`AAC-MMDDYY-NN.jpg`)
+> and search "philosoph", "spirit", "soul", "Bergson", "Hambidge", "Chinese", "Leonardo"; trace Graham's own teacher
+> at Chouinard (F. Tolles Chamberlin is a lead, not yet checked); find *Composing Pictures* (1970) in the Drive
+> `Books` folders. Stanchfield's "Leonardo" sentence "A gesture is a movement not of a body but of a soul" is
+> Chaliapin's (Moore 1976). Bring it
 > into *Invisible Influx* §VIII and *Exhaustive Analysis* at their next touch; the three art books' archive.org ids
 > are in the map. Not yet read: *The Art of Tangled* (Kurtti 2010), *The Art of Wish* — neither found on archive.org.
 >

@@ -169,7 +169,13 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > *Diffracted Light* §2.3 and the map. The feed's image URLs come from
 > `afilmla.blogspot.com/feeds/posts/default?alt=json&max-results=150&start-index=N`. The Chamberlin lead has no record
 > (dropped). Next: *Composing Pictures* (1970) in the Drive `Books` folders; Barrier 1999 cites an unpublished
-> 7 June 1937 lecture (WDA) — ask the author whether the Walt Disney Archives can be approached. Stanchfield's "Leonardo" sentence "A gesture is a movement not of a body but of a soul" is
+> 7 June 1937 lecture (WDA) — ask the author whether the Walt Disney Archives can be approached.
+> **The missing middle (author, 2026-10-24)**: Graham's "emotion first, action second" is the acting layer, near
+> universal; what the art books show is a thing's inner function expressed in its outer form. The documented carrier
+> of exactly that law into the arts is **Delsarte** ("To each spiritual function responds a function of the body"),
+> whose American textbook (Stebbins 1885/1901) names Swedenborg and calls the law "the cornerstone of all the important
+> systems of expression of to-day"; Crafton 2013 finds Delsarte templates in 1930s cartoon performance. The Disney
+> link is the next search (map, Strand 2, row "The missing middle"). Stanchfield's "Leonardo" sentence "A gesture is a movement not of a body but of a soul" is
 > Chaliapin's (Moore 1976). Bring it
 > into *Invisible Influx* §VIII and *Exhaustive Analysis* at their next touch; the three art books' archive.org ids
 > are in the map. Not yet read: *The Art of Tangled* (Kurtti 2010), *The Art of Wish* — neither found on archive.org.

@@ -154,7 +154,12 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > what water does (Del Vecho); Gale seen only "by how it causes other things to react"; *Encanto*'s powers "dictated
 > by emotions and personality". The Cultural Trusts supplied outer forms and, in *Moana*, perceptions of living nature
 > the consultants themselves explained by Samson ("Sampson-like hair. His hair is his mana"); *Tangled* had put power
-> in the hair with no trust at all. *The Diffracted Light* was rewritten on this (map, Strand 2, last rows). Bring it
+> in the hair with no trust at all. *The Diffracted Light* was rewritten on this (map, Strand 2, last rows).
+> **The author's claim, exactly (2026-10-24)**: not that the modern filmmakers knew Swedenborg, but that the method
+> they are trained in is the core of the science of correspondences Swedenborg rediscovered; that Swedenborgianism was
+> involved at the studio's beginning and most likely gave it its shape, character and magic; that the method's impulse
+> came from him; and that teaching it as craft rather than as a key of meanings is its strength. Never reduce this to
+> "independent convergence", and never inflate it to "the artists knew Swedenborg". Bring it
 > into *Invisible Influx* §VIII and *Exhaustive Analysis* at their next touch; the three art books' archive.org ids
 > are in the map. Not yet read: *The Art of Tangled* (Kurtti 2010), *The Art of Wish* — neither found on archive.org.
 >

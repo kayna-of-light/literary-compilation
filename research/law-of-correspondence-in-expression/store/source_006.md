@@ -6,7 +6,7 @@
 
 ## Who Stebbins was
 
-The leading American Delsartean teacher, a pupil of Steele MacKaye (who studied with Delsarte in Paris). The book went through many editions and became the standard English textbook.
+Genevieve Stebbins (1857–after 1933) is, in Ruyter's account (store 008), the representative figure of the second phase of American Delsartism, which spread physical culture to the general public; she was a teacher, performer and writer. The book went through many editions and became the standard English textbook.
 
 ## The Swedenborgian layer (her own chapters)
 

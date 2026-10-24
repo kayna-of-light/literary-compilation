@@ -6,7 +6,9 @@
 
 ## Key findings
 
-- **Henrietta Hovey** (earlier Henrietta Russell, author of *Yawning*) learned Delsarte from Lewis B. Monroe and from Steele MacKaye.
+- **The first phase.** Steele MacKaye began work with Delsarte in Paris in October 1869 and left in July 1870. In Boston, Lewis B. Monroe (1825–79), founder and director of the Boston University School of Oratory, put the system into the school's curriculum and taught it himself (pp. 459–460).
+- **The second phase.** Genevieve Stebbins (1857–after 1933) is its representative figure (pp. 460–461).
+- **Henrietta Hovey** (1849–1918; earlier Henrietta Russell, author of *Yawning*, 1891) learned Delsarte in the 1870s in Monroe's classes at the Boston school and from MacKaye's lectures. Around 1878 she studied in Paris with Delsarte's son Gustave (pp. 463–464).
 - She later settled in **Los Angeles** and taught Delsartism there, including at the **Denishawn** school of Ruth St. Denis and Ted Shawn.
 - **Ted Shawn** took private lessons with her in 1915, 1916 and 1917. Shawn became the leading historian and advocate of Delsarte in American dance (*Every Little Movement*, 1954).
 - Ruyter traces Delsarte's broad influence on American physical culture, oratory and modern dance from the 1880s.

@@ -89,7 +89,7 @@ Swedenborg corresponds **Egypt** (*Mizraim*) to **Memory-Knowledge** or "Scienti
 A central Swedenborgian correspondence is **Horse \= Understanding/Intellect**.
 
 * **ANE Symbolism:** In the ANE, the horse was a technology of *elite movement* and war, not agriculture (which used oxen). It represents power, swiftness, and guidance.  
-* **Mythological Validation:** Swedenborg explicitly cites the Greek myth of **Pegasus** (a winged horse) striking the earth to create the fountain of Hippocrene (source of the Muses/Wisdom). He interprets this as: *Intellect* (Horse) elevated to *Spiritual* things (Wings) produces *Intelligence* (Fountain).  
+* **Mythological Validation:** Swedenborg explicitly cites the Greek myth of **Pegasus**, the winged horse who "with his hoof broke open a fountain, at which were nine virgins", by which the ancients described "the origin of intelligence and wisdom". He interprets this as: *Intellect* (Horse) elevated to *Spiritual* things (Wings) produces *Intelligence* (Fountain).  
 * **Biblical Consistency:** In Revelation 19, Christ returns on a "White Horse" and is called the "Word of God." If Christ is the Logos (Divine Truth), his vehicle must be the pure Understanding of Truth. The correspondence holds consistent across Greek and Hebrew contexts.
 
 ## **5\. The Perennial Stream: Pre-Swedenborgian Exegesis**

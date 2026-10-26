@@ -138,6 +138,8 @@ The "Cloud Castle" in *Snow White* represents creation evidence: it does not app
 
 **Critical Finding**: The pedagogical isomorphism is **documented fact** (the materials exist and say what they say). Whether it represents conscious transmission or parallel invention remains interpretive, but the structural correspondence is not in dispute.
 
+> **[EXTENSION]**: The pedagogical strand now has a documented route, not only a structure. Delsarte's "law of correspondence" ("To each spiritual function responds a function of the body") was taught in America through Swedenborg. Genevieve Stebbins's standard textbook quotes *Divine Love and Wisdom* §219 on will, forces and action, and defines correspondence in the words of the New Church writer Edward Madeley; Lewis B. Monroe called Delsarte "Swedenborg geometrized"; a handbook of 1896 teaches "the law of correspondence, which was discovered by Swedenborg" (Stebbins 1901, 109–114, 139; Northrop 1896, 10). Volkonsky built his Russian Delsarte manual on Stebbins (Volkonsky 1913, 203–204). Stanislavsky attended Volkonsky's courses and recommended his book (Autant-Mathieu 2012, 374), and his *An Actor Prepares* moves the actor by three inner motive forces, mind, will and feeling. Graham's class of 22 February 1937 recommended *An Actor Prepares* as "helpful reading along these lines" (Graham, 22 February 1937, 20), and in June Graham called the method "a philosophy … not really new, but adapted to Studio uses" (Graham, 21 June 1937). Delsarte himself did not draw on Swedenborg (Waille 2015, ¶62): the Swedenborgian part is the American expositors' reading, which set the law in Swedenborg's order and direction before it travelled. H0 therefore no longer faces a parallel invention "without any transmission pathway". The pathway is in the record, though it does not show that anyone at the studio knew its source. See *The Law of Correspondence in the Arts of Expression*, §§5–8.
+
 ---
 
 ### 3.3 Evidence Line 3: Biographical (1937–1966)
@@ -188,6 +190,7 @@ The "Cloud Castle" in *Snow White* represents creation evidence: it does not app
 
 - The Los Angeles New Church (Swedenborgian), the Church of the New Jerusalem, was active at 509 South Westmoreland Avenue throughout the 1930s–1940s (*Los Angeles Times*, November 9, 1935; October 11, 1941).
 - Chouinard Art Institute, where Don Graham taught, was permeable to Theosophical influences, a Swedenborgian-adjacent movement (Karlstrom 1996; Crosse 2014).
+- The Delsarte line that American teachers read through Swedenborg was taught in Los Angeles from 1915: Henrietta Hovey, a pupil of Lewis B. Monroe (who called Delsarte "Swedenborg geometrized"), lectured at the Denishawn school, and Ted Shawn took private lessons with her in 1915–17 (Ruyter 2012, 463–465). No link from Denishawn to the studio is known; this is opportunity, documented.
 - The broader "metaphysical reservoir" of 1930s Los Angeles included significant esoteric activity, creating conditions where Swedenborgian ideas could diffuse through cultural osmosis.
 
 **Independence**: This evidence derives from institutional and cultural histories, not from archival correspondence, pedagogical materials, biographical records, or narrative analysis. It is independent of other evidence lines.
@@ -298,7 +301,7 @@ The unified transmission hypothesis is not proven beyond reasonable doubt. But i
 
 2. **Carl Carmer papers**: Carmer served as "Folklore consultant" on *Melody Time* (1948), the feature that carried *Johnny Appleseed* (American Film Institute, n.d.), and was a documented expert on the Burned-Over District and American esoteric movements (Carmer 1936). His papers might reveal the depth of his briefing to the studio.
 
-3. **Don Graham biography**: Graham's personal papers and correspondence might clarify whether his pedagogical innovations were influenced by esoteric or metaphysical sources.
+3. **Don Graham biography**: Graham's personal papers and correspondence might clarify whether his pedagogical innovations were influenced by esoteric or metaphysical sources. The documented route through the expression tradition (Delsarte's American expositors, Volkonsky, Stanislavsky, *An Actor Prepares*) is set out in *The Law of Correspondence in the Arts of Expression*; Graham's unpublished classes in the Walt Disney Archives, his *Composing Pictures* (1970) and the issues of *Theatre Workshop* (1936–37) his class recommended remain unread.
 
 ---
 
@@ -324,35 +327,43 @@ The question is no longer "did Swedenborgian transmission occur?" but "how did i
 4. Disney, Walt. Inter-office communication to Don Graham, December 23, 1935. Reproduced in Shamus Culhane, *Talking Animals and Other People* (New York: Da Capo Press, 1998), 117–127, and in Walt Stanchfield, "The Disney Tradition," September 24, 1995, http://www.animationmeat.com/pdf/nineoldmen/MemoFromWalt.pdf.
 5. General Convention of the New Jerusalem in the United States of America. *Journal of the General Convention of Swedenborgian Churches*, June 28–July 2, 1978.
 6. General Convention of the New Jerusalem in the United States of America. *Journal of the General Convention of the New Jerusalem*, 1976.
-7. Graham, Don. "Animation of Forces vs. Animation of Forms as an Approach to Animation … Live Action Fall." Class on Action Analysis, Walt Disney Studio, June 21, 1937. Typescript transcript, collection of Hans Perk. Published at *A. Film L.A.*, March 2, 2009. http://afilmla.blogspot.com/2009/03/animating-forms-vs-forces-action.html.
-8. Grimm, Jacob, and Wilhelm Grimm. "Sneewittchen." In *Kinder- und Haus-Märchen*, 7th ed., 1:264–273. Göttingen: Dieterich, 1857.
-9. *Los Angeles Times*. Church notices for the Church of the New Jerusalem, 509 South Westmoreland Avenue. November 9, 1935; December 14, 1935; February 27, 1937; October 11, 1941.
-10. *The Messenger* (Swedenborgian Church). February 1974. https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf.
-11. *Snow White*. Directed by J. Searle Dawley. Adapted from the play by Winthrop Ames. Famous Players Film Company, 1916. Internet Archive. https://archive.org/details/silent-snow-white.
-12. Swedenborg, Emanuel. *Divine Love and Wisdom* (*Sapientia Angelica de Divino Amore et de Divina Sapientia*). Amsterdam, 1763.
-13. Swedenborg, Emanuel. *Heaven and Hell* (*De Coelo et ejus Mirabilibus, et de Inferno*). London, 1758.
+7. Graham, Don. "Introduction to Study of Action: Primary Actions" (Lecture I). Class on Action Analysis, Walt Disney Studio, February 22, 1937. Typescript transcript (20 pp.), collection of Hans Perk, published at *A. Film L.A.*: https://www.afilmla.com/blog/AAC-022237-01.jpg (pp. 1–20).
+8. Graham, Don. "Animation of Forces vs. Animation of Forms as an Approach to Animation … Live Action Fall." Class on Action Analysis, Walt Disney Studio, June 21, 1937. Typescript transcript, collection of Hans Perk. Published at *A. Film L.A.*, March 2, 2009. http://afilmla.blogspot.com/2009/03/animating-forms-vs-forces-action.html.
+9. Grimm, Jacob, and Wilhelm Grimm. "Sneewittchen." In *Kinder- und Haus-Märchen*, 7th ed., 1:264–273. Göttingen: Dieterich, 1857.
+10. *Los Angeles Times*. Church notices for the Church of the New Jerusalem, 509 South Westmoreland Avenue. November 9, 1935; December 14, 1935; February 27, 1937; October 11, 1941.
+11. Northrop, Henry Davenport, comp. and ed. *The Delsarte Method of Expression and Oratory.* Chicago: Monroe Book Company, 1896.
+12. *The Messenger* (Swedenborgian Church). February 1974. https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf.
+13. *Snow White*. Directed by J. Searle Dawley. Adapted from the play by Winthrop Ames. Famous Players Film Company, 1916. Internet Archive. https://archive.org/details/silent-snow-white.
+14. Stebbins, Genevieve. *Delsarte System of Expression.* 6th ed., revised and enlarged. New York: Edgar S. Werner, 1901.
+15. Swedenborg, Emanuel. *Divine Love and Wisdom* (*Sapientia Angelica de Divino Amore et de Divina Sapientia*). Amsterdam, 1763.
+16. Swedenborg, Emanuel. *Heaven and Hell* (*De Coelo et ejus Mirabilibus, et de Inferno*). London, 1758.
+17. Volkonsky, Sergei. *Vyrazitel'nyi chelovek: Stsenicheskoe vospitanie zhesta (po Del'sartu)* [The Expressive Man: The Stage Training of Gesture, after Delsarte]. St Petersburg: Izdanie "Apollona", 1913.
 
 **Scholarly Works:**
 
-14. Canemaker, John. *The Art and Flair of Mary Blair: An Appreciation.* Updated ed. New York: Disney Editions, 2014.
-15. Carmer, Carl. *Listen for a Lonesome Drum: A York State Chronicle.* New York: Farrar & Rinehart, 1936.
-16. Eagan, Daniel. *America's Film Legacy: The Authoritative Guide to the Landmark Movies in the National Film Registry.* New York: Continuum, 2010.
-17. Gabler, Neal. *Walt Disney: The Triumph of the American Imagination.* New York: Knopf, 2006.
-18. Karlstrom, Paul J., ed. *On the Edge of America: California Modernist Art, 1900–1950.* Berkeley: University of California Press, 1996.
+18. Autant-Mathieu, Marie-Christine. "As Interpretações do Sistema Delsarte no Teatro Russo e Soviético dos Anos 1910-1920." *Revista Brasileira de Estudos da Presença* 2, no. 2 (2012): 370–395. http://www.redalyc.org/articulo.oa?id=463545868005.
+19. Canemaker, John. *The Art and Flair of Mary Blair: An Appreciation.* Updated ed. New York: Disney Editions, 2014.
+20. Carmer, Carl. *Listen for a Lonesome Drum: A York State Chronicle.* New York: Farrar & Rinehart, 1936.
+21. Eagan, Daniel. *America's Film Legacy: The Authoritative Guide to the Landmark Movies in the National Film Registry.* New York: Continuum, 2010.
+22. Gabler, Neal. *Walt Disney: The Triumph of the American Imagination.* New York: Knopf, 2006.
+23. Karlstrom, Paul J., ed. *On the Edge of America: California Modernist Art, 1900–1950.* Berkeley: University of California Press, 1996.
+24. Ruyter, Nancy Lee Chalfa. "A Influência do Trabalho de Delsarte nos Estados Unidos a partir do Final do Século XIX." *Revista Brasileira de Estudos da Presença* 2, no. 2 (2012): 457–469. http://www.redalyc.org/articulo.oa?id=463545868009.
+25. Waille, Franck. "François Delsarte, un catholique atypique du XIXe siècle." *Chrétiens et sociétés* 22 (2015): 185–219. https://doi.org/10.4000/chretienssocietes.3903.
 
 **Internal Library Documents:**
 
-19. [The Apple and the Angel: An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's *The Legend of Johnny Appleseed*](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md). The studio's knowledge of Chapman's faith, the Murdoch–Adelquist correspondence, and the reading of the "Blessings Three" as the Swedenborgian triad.
-20. [The Glass Church and the Magic Mirror: A Pneumatological History of the Walt Disney Studio](The%20Glass%20Church%20and%20the%20Magic%20Mirror_%20A%20Pneumatological%20History%20of%20the%20Walt%20Disney%20Studio.md). Hal Adelquist's career and the Murdoch correspondence.
-21. [The Mechanics of the Soul: Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio](The%20Mechanics%20of%20the%20Soul_%20Don%20Graham,%20Action%20Analysis,%20and%20the%20Secularization%20of%20Swedenborgian%20Influx%20at%20the%20Walt%20Disney%20Studio.md). The 1935 memo, Graham's Action Analysis classes read as a secularized doctrine of influx, and the Chouinard milieu.
+26. [The Apple and the Angel: An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's *The Legend of Johnny Appleseed*](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md). The studio's knowledge of Chapman's faith, the Murdoch–Adelquist correspondence, and the reading of the "Blessings Three" as the Swedenborgian triad.
+27. [The Glass Church and the Magic Mirror: A Pneumatological History of the Walt Disney Studio](The%20Glass%20Church%20and%20the%20Magic%20Mirror_%20A%20Pneumatological%20History%20of%20the%20Walt%20Disney%20Studio.md). Hal Adelquist's career and the Murdoch correspondence.
+28. [The Law of Correspondence in the Arts of Expression: From Swedenborg through Delsarte's American Expositors to the Disney Studio](The%20Law%20of%20Correspondence%20in%20the%20Arts%20of%20Expression_%20From%20Swedenborg%20through%20Delsarte's%20American%20Expositors%20to%20the%20Disney%20Studio.md). The documented route of the studio's method through Delsarte's American expositors, Volkonsky and Stanislavsky into Graham's classes, which § 3.2 now cites.
+29. [The Mechanics of the Soul: Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio](The%20Mechanics%20of%20the%20Soul_%20Don%20Graham,%20Action%20Analysis,%20and%20the%20Secularization%20of%20Swedenborgian%20Influx%20at%20the%20Walt%20Disney%20Studio.md). The 1935 memo, Graham's Action Analysis classes read as a secularized doctrine of influx, and the Chouinard milieu.
 
 **Web Sources:**
 
-22. American Film Institute. "Melody Time (1948)." *AFI Catalog of Feature Films*, n.d. https://catalog.afi.com/Catalog/MovieDetails/25636.
-23. Amidi, Amid. "The Strange and Tragic Life of Hal Adelquist." *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.
-24. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
-25. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.
-26. Snow White Museum. "Sequence 16A – Snow White in Coffin – Back to Life – Away with Prince." *Snow White Museum*, n.d. https://snowwhitemuseum.com/images/production-art/sequence-16a-snow-white-in-coffin-back-to-life-away-with-prince/.
+30. American Film Institute. "Melody Time (1948)." *AFI Catalog of Feature Films*, n.d. https://catalog.afi.com/Catalog/MovieDetails/25636.
+31. Amidi, Amid. "The Strange and Tragic Life of Hal Adelquist." *Cartoon Brew*, August 15, 2010. https://www.cartoonbrew.com/disney/the-strange-and-tragic-life-of-hal-adelquist-26676.html.
+32. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
+33. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.
+34. Snow White Museum. "Sequence 16A – Snow White in Coffin – Back to Life – Away with Prince." *Snow White Museum*, n.d. https://snowwhitemuseum.com/images/production-art/sequence-16a-snow-white-in-coffin-back-to-life-away-with-prince/.
 
 ---
 

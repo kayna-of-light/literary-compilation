@@ -603,6 +603,26 @@ Candidates to watch for in early runs, from the corpus's history — confirm bef
 
 Narrative per run — what the batch surfaced, and anything a later run should know that does not fit the tables. Newest first. Unlike the handoff block, this accumulates.
 
+### 2026-10-26 (with the author): the Law of Correspondence thesis
+
+New thesis in `07`: *The Law of Correspondence in the Arts of Expression: From Swedenborg through Delsarte's American Expositors to the Disney Studio*. Research project: `research/law-of-correspondence-in-expression/` (20 source files, 3 syntheses). It works out the "missing middle" that *The Diffracted Light* §2.3 had carried in one paragraph.
+
+New findings beyond the 2026-10-24 case-map row:
+- **Autant-Mathieu 2012.** In the same *RBEP* issue as Waille and Ruyter, read in full. Volkonsky drew "essentially" on Stebbins and Giraudet. Stanislavsky attended seven of his courses, taking notes, and recommended *The Expressive Man* to his studio students (Stanislavsky, *Sobranie sočinenij* 3, 76–77). The MAT archives close the Volkonsky → Stanislavsky link.
+- **Volkonsky's sentence.** His "from Pythagoras to Swedenborg" (p. 49) follows the order of Stebbins's Trinity chapter (pp. 108–110), the chapter that quotes Swedenborg.
+- ***An Actor Prepares*, ch. 12, "Inner Motive Forces" (p. 229).** "Mind, will, and feelings", "a triumvirate". The comparison in *Mechanics of the Soul* §V with the "ruling love" was corrected inline.
+- **Northrop 1896, p. 10.** "Tradition affirms that he was much interested in, and studied Swedenborg." This is the American tradition that Waille 2015 ¶62 answers; reported, not relied on.
+- **Direction.** Graham's class of 22 February 1937 refused the reverse order when Hilberman proposed it (pp. 10–11). The studio's law is one-way, as in Swedenborg and the American layer; Delsarte's own law is two-way (Waille 2012, 312).
+- **Attribution.** In *Drawn to Life*, the passage joining Stanislavsky's "no inner experience without external physical expression" and the Leonardo line to the memo is quoted from **Eric Larson's** lecture notes, not Stanchfield's own words. Larson's source is most likely Moore, *The Stanislavski System* (1976, 16, where the second sentence is Chaliapin's).
+- **Stebbins holds both lines.** She traces Delsarte's philosophy to "the cabalism of the hermetic writers" (pp. 384–386) and reads it through Swedenborg (pp. 109–114, 139). The law formula is in Delsarte's Philotechnic address (Stebbins, Part I, pp. 21–68, at 67).
+
+Propagated, as inline [EXTENSION]/[CORRECTION] notes with Works Cited entries:
+- *The Parsimony Problem* §§3.2, 3.5, 4.7;
+- *The Mechanics of the Soul* §§3.2, 4.2, V;
+- *The Diffracted Light* §2.3 (lineage paragraph shortened to a summary, plus a note on the Theosophy paragraph);
+- *The Invisible Influx* §5.2;
+- *A Cultural History* §4.4.
+
 ### 2026-10-24 (nightly): *The Diffracted Light*
 
 Branch `claude/nightly-audit-2026-10-24` (Amsterdam date; the UTC date was still 2026-10-23, whose branch was merged and deleted), cut from `origin/dev` at #50. Precheck passed; no open PRs; no dead claims. Chosen as the handoff's pick 1. `corrected`; two files touched by propagation; no research question.

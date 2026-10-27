@@ -4,7 +4,7 @@
 
 The literary landscape of nineteenth-century Scandinavia was characterized by a profound and oscillating tension between the encroaching materialism of the industrial age, represented by the steam engine and the telegraph, and the lingering, luminous vapors of Romanticism, which sought the divine in the organic structure of the natural world. In Denmark, this tension crystallized in the era known as the "Golden Age" (*Den danske guldalder*), a period of extraordinary intellectual fertility roughly spanning the first half of the nineteenth century. Within this milieu, science, theology, and poetics were not disparately siloed disciplines but dialectical partners in a unified investigation of the True, the Good, and the Beautiful. At the epicenter of this cultural phenomenon stood Hans Christian Andersen (1805–1875), a writer often relegated by subsequent generations to the nursery, yet whose work constitutes a sophisticated theological anthropology and a rigorous engagement with the metaphysical problems of his time.
 
-Andersen’s fairy tales are not merely whimsical fictions or folk retellings; they are, upon rigorous inspection, allegorical topographies that map the traverse of the human soul through distinct planes of existence. They function as a "vernacular theology," translating complex soteriological and epistemological concepts into the grammar of the fantastic. Central to understanding the metaphysical depth of Andersen’s oeuvre is the shadow—or perhaps the illumination—of the Swedish scientist-turned-mystic Emanuel Swedenborg (1688–1772). Although Swedenborg died decades before Andersen’s birth, his comprehensive cosmology permeated the intellectual ether of Northern Europe, influencing figures as diverse as Balzac, Baudelaire, Blake, and Goethe.1
+Andersen’s fairy tales are not merely whimsical fictions or folk retellings; they are, upon rigorous inspection, allegorical topographies that map the traverse of the human soul through distinct planes of existence. They function as a "vernacular theology," translating complex soteriological and epistemological concepts into the grammar of the fantastic. Central to understanding the metaphysical depth of Andersen’s oeuvre is the shadow—or perhaps the illumination—of the Swedish scientist-turned-mystic Emanuel Swedenborg (1688–1772). Although Swedenborg died decades before Andersen’s birth, his comprehensive cosmology permeated the intellectual ether of Northern Europe, influencing figures as diverse as Balzac, Baudelaire, Blake, and Goethe (Swedenborg Society n.d.).
 
 While the extent of Andersen’s direct, dogmatic adherence to the Church of the New Jerusalem remains a subject of biographical nuance, the **structural isomorphism** between Swedenborg’s "Heavenly Doctrines" and Andersen’s narrative mechanics is undeniable and pervasive. Andersen’s stories operate within a universe governed by specific spiritual laws that mirror Swedenborg’s system: the correspondence between the natural and spiritual worlds, the distinct stratification of reality into discrete degrees, the specific distinction between the animal and human soul, and the dynamic, evolutionary potential of the spirit to transcend its biological origins through moral action.
 
@@ -16,15 +16,15 @@ To understand how Swedenborg’s esoteric theology infiltrated the popular fairy
 
 #### **1.1.1 Hans Christian Ørsted: The Spirit in Nature**
 
-The discoverer of electromagnetism, Hans Christian Ørsted (1777–1851), was Andersen’s close friend, mentor, and intellectual champion.3 Ørsted was not a materialist; he was a *Naturphilosopher* deeply influenced by the Romantics and the concept of a unified cosmos. His seminal work, *The Spirit in Nature* (*Aanden i Naturen*, 1850), argued that the laws of nature are the thoughts of God and that the natural world is a manifestation of the divine mind.3 This concept is fundamentally Swedenborgian, echoing the central tenet that the natural world is a "theater" representing the spiritual world. Ørsted’s influence on Andersen was profound, encouraging him to see science and spirit as compatible, a view that mirrors Swedenborg’s own trajectory from mineralogy and anatomy to theology.4 Andersen’s enthusiasm for technology (microscopes, steam engines) alongside his mysticism is a direct inheritance from Ørsted.
+The discoverer of electromagnetism, Hans Christian Ørsted (1777–1851), was Andersen’s close friend, mentor, and intellectual champion (Andersen 1871). Ørsted was not a materialist; he was a *Naturphilosopher* deeply influenced by the Romantics and the concept of a unified cosmos. His seminal work, *The Spirit in Nature* (*Aanden i Naturen*, 1850), set out "the great truths, that Natural and Divine operations are one, and that the laws of nature are Divine thoughts" (Ørsted 1852). This concept is fundamentally Swedenborgian, echoing the central tenet that the natural world is a "theater" representing the spiritual world. Ørsted’s influence on Andersen was profound, encouraging him to see science and spirit as compatible: two chapters of Andersen’s *In Sweden*, among them "Faith and Science," were called forth by Ørsted’s conversation and "by the conception of his 'Spirit in Nature,'" and "became the subjects of many a talk between us" (Andersen 1871). The view mirrors Swedenborg’s own trajectory from mineralogy and anatomy to theology (Toksvig 1948). Andersen’s enthusiasm for technology (microscopes, steam engines) alongside his mysticism is a direct inheritance from Ørsted.
 
 #### **1.1.2 Bernhard Severin Ingemann: The Metaphysics of the Soul**
 
-Bernhard Severin Ingemann (1789–1862), a poet and novelist, maintained a lifelong correspondence with Andersen. Ingemann was deeply engaged with questions of the soul’s immortality and the nature of the afterlife, themes that permeate his letters to Andersen.5 Their correspondence often grapples with the very "spiritual physics" that Swedenborg systematized—how the soul survives death, the nature of heavenly spheres, and the continuity of consciousness.6 Ingemann’s religious views were less orthodox than the state Lutheran church and more aligned with a mystical, progressive view of the soul’s development, providing a safe harbor for Andersen’s own heterodox explorations.
+Bernhard Severin Ingemann (1789–1862), a poet and novelist, was Andersen’s other lifelong friend and correspondent (Garff 2005), whom he set beside Ørsted: had the two "amiable men" known each other, "they would certainly have felt their kinship of nature" (Andersen 1871). The life of the soul after death was Ingemann’s late subject; his *Tankebreve fra en Afdød* (1855) is a poem written as thought-letters from one who has died. His last letter to Andersen, written after Ørsted’s death, carried a greeting from Ørsted himself through the humming telegraph wires—"So you see I have a greeting for you from H. C. Orsted"—and in it Andersen perceived "the communion and affectionate intercourse which there really was between these two souls" (Andersen 1871). This is the very "spiritual physics" that Swedenborg systematized: the continuity of consciousness, and the presence of the departed with the living.
 
 #### **1.1.3 The Cultural Ether of Romanticism**
 
-The broader Scandinavian literary scene was saturated with Swedenborgian elements. The works of Atterbom and the Swedish Romantics, with whom Andersen was familiar, carried these themes. Furthermore, the concept of the artist as a "seer" who perceives the spiritual reality behind natural forms was a staple of the era. Andersen’s specific genius lay in applying these high-philosophical concepts to the humble, animistic world of toys, plants, and animals, thereby actualizing Swedenborg’s doctrine that the Divine is present in the "least things" as well as the greatest.7
+The broader Scandinavian literary scene was saturated with Swedenborgian elements. The Swedish Romantics carried these themes: Atterbom, whom Andersen met at Uppsala as "the Skald of 'The Flowers'" (Andersen 1871), devoted a long study in the first volume of his *Svenska siare och skalder* to "Emanuel Swedenborgs lära om lif, kärlek och skönhet"—Swedenborg’s doctrine of life, love and beauty (Atterbom 1862, 35–210). Furthermore, the concept of the artist as a "seer" who perceives the spiritual reality behind natural forms was a staple of the era. Andersen’s specific genius lay in applying these high-philosophical concepts to the humble, animistic world of toys, plants, and animals, thereby actualizing Swedenborg’s doctrine that the Divine is present in the "least things" as well as the greatest (*Divine Love and Wisdom* §77).
 
 ## **II. The Architecture of Reality: Swedenborg’s Metaphysical System**
 
@@ -38,23 +38,23 @@ Swedenborg argues that reality is not a continuum of finer and grosser matter, b
 * **The Spiritual Degree:** The world of thought, intellect, and wisdom. This is the realm of causes. Here, truth and falsity are the primary realities.  
 * **The Celestial Degree:** The highest realm of pure love, will, and affection. This is the realm of ends (purposes).
 
-In this system, a being cannot move from a lower degree to a higher degree merely by "improving" or refining the lower substance. A stone does not become a plant by being polished; a beast does not become a human by being trained. Transition between degrees requires a fundamental transformation, an opening of a new internal faculty.7 This is the metaphysical hurdle that drives the plot of *The Little Mermaid*.
+In this system, a being cannot move from a lower degree to a higher degree merely by "improving" or refining the lower substance. A stone does not become a plant by being polished; a beast does not become a human by being trained. Transition between degrees requires a fundamental transformation, an opening of a new internal faculty (*Divine Love and Wisdom* §§184, 236). This is the metaphysical hurdle that drives the plot of *The Little Mermaid*.
 
 ### **2.2 The Animal Soul vs. The Human Soul**
 
 Swedenborg draws a sharp ontological line between animals and humans based on these degrees. This distinction is critical for understanding Andersen’s hierarchy of beings.
 
-* **The Animal Soul:** Animals are born into the full perfection of their nature. They possess "natural affections" (instincts) and a "natural soul." However, they lack the **Spiritual-Rational** degree. Their "ends" (purposes) are entirely terrestrial—survival, procreation, and physical comfort. Because they cannot elevate their understanding above their natural affections to contemplate the Divine, they do not possess immortality. Their life force (soul) dissipates or returns to the general spiritual reservoir upon death.7  
-* **The Human Soul:** Humans are born "viler than beasts" (tabula rasa) but possess two unique vessels: the **Will** (to receive Divine Love) and the **Understanding** (to receive Divine Wisdom). Crucially, humans have a **Rational** faculty that can be elevated above their natural instincts. They can think *about* their desires and choose to align them with God. This capacity for conjunction with the Divine grants the human soul immortality. The human soul is a "recipient organ" of life that persists after the death of the physical body, retaining the "ruling love" acquired during life.13
+* **The Animal Soul:** Animals are born into the full perfection of their nature, "into the knowledges proper to all their loves" (*True Christian Religion* §48). They possess "natural affections" (instincts) and a "natural soul." However, they lack the **Spiritual-Rational** degree: the inmost into which the Divine flows, and the rationality by which "man is distinguished from beasts" (*Heaven and Hell* §39; *Divine Love and Wisdom* §247). Their "ends" (purposes) are entirely terrestrial—survival, procreation, and physical comfort. Because they cannot elevate their understanding above their natural affections to contemplate the Divine, they do not possess immortality. Their spiritual part "dies with the body," for "whatever can be conjoined to the Divine cannot be dissipated, but whatever cannot be conjoined is dissipated" (*Heaven and Hell* §435).  
+* **The Human Soul:** Humans are born "in total ignorance" (*True Christian Religion* §48) but possess two unique vessels: the **Will** (to receive Divine Love) and the **Understanding** (to receive Divine Wisdom). Crucially, humans have a **Rational** faculty that can be elevated above their natural instincts. They can think *about* their desires and choose to align them with God. This capacity for conjunction with the Divine grants the human soul immortality. The human soul is "a recipient of life" (*Divine Love and Wisdom* §§4–6) that persists after the death of the physical body, retaining the "ruling love" acquired during life (*Heaven and Hell* §§39, 479–480).
 
 ### **2.3 The Science of Correspondences**
 
 This is the semantic logic of Swedenborg’s universe. Every natural object is the physical manifestation of a spiritual cause. The relationship is causal, not metaphorical.
 
-* **Water:** Corresponds to **Truth** (natural or spiritual).  
+* **Water:** Corresponds to **Truth** (natural or spiritual) (*Arcana Coelestia* §2702).  
 * **Heat/Fire:** Corresponds to **Love** (good or evil).  
-* **Light:** Corresponds to **Wisdom**.  
-* **Animals:** Correspond to specific **Affections**. A dog represents fidelity; a horse represents the understanding/intellect; a bird represents rational thought or spiritual ideas.8
+* **Light:** Corresponds to **Wisdom** (*Heaven and Hell* §§116–140).  
+* **Animals:** Correspond to specific **Affections**. A faithful dog is the guard (*Arcana Coelestia* §5051); a horse represents the understanding/intellect (*Arcana Coelestia* §2761); birds represent "rational and intellectual things" (*Arcana Coelestia* §40; *The Animating Spirit: An Exhaustive Analysis* §3).
 
 Andersen utilizes this "language of nature" not as mere poetic simile but as a functional plot mechanic. In his tales, when a character's internal spiritual state changes, their external form or environment shifts to correspond to that new state.
 
@@ -68,7 +68,7 @@ The story opens in the "deep sea," a realm of extraordinary beauty but limited o
 
 Andersen is explicit about this distinction, mirroring Swedenborg’s definition of the animal soul:
 
-"We have no immortal soul; we never have life again... Mortals, on the other hand, have a soul which lives forever after the body has turned to dust. It mounts up through the clear air to all the shining stars." 16
+"We have no immortal soul, no life hereafter. We are like the green seaweed - once cut down, it never grows again. Human beings, on the contrary, have a soul which lives forever, long after their bodies have turned to clay. It rises through thin air, up to the shining stars" (Andersen, "The Little Mermaid").
 
 The mermaid’s longing is dual: she desires the Prince (a specific love) and an immortal soul (an eternal state). The tragedy of her condition is that as a being of the "Natural degree," she cannot generate a soul from within. She requires a link to a higher degree.
 
@@ -76,9 +76,9 @@ The mermaid’s longing is dual: she desires the Prince (a specific love) and an
 
 The grandmother explains the mechanism for acquiring a soul:
 
-"Only if a mortal fell so much in love with you that you were dearer to him than a father and mother... only then would his soul float over into your body... He would give you a soul and still keep his own." 16
+"Not unless a human being loved you so much that you meant more to him than his father and mother. . . . then his soul would dwell in your body, and you would share in the happiness of mankind. He would give you a soul and yet keep his own" (Andersen, "The Little Mermaid").
 
-This plot device draws on the Romantic tradition of *Undine* by Friedrich de la Motte Fouqué, where a water spirit gains a soul through marriage. However, Swedenborg’s influence complicates this. In Swedenborgian theology, **Conjugial Love** (true marriage) is the union of **Love (Female)** and **Wisdom (Male)**, which forms a perfect spiritual whole. The mermaid seeks to become the "Love" (Will) to the Prince’s "Wisdom" (Intellect).
+This plot device draws on the Romantic tradition of *Undine* by Friedrich de la Motte Fouqué, where a water spirit gains a soul through marriage. However, Swedenborg’s influence complicates this. In Swedenborgian theology, **Conjugial Love** (true marriage) is the union of **Love (Female)** and **Wisdom (Male)**, which forms a perfect spiritual whole (*Conjugial Love* §33). The mermaid seeks to become the "Love" (Will) to the Prince’s "Wisdom" (Intellect).
 
 However, the Prince represents the **Natural Rational** man. He is attracted to the mermaid as a "foundling" or a pet (animal affection) but lacks the spiritual perception to recognize her true nature. He marries the Princess of the neighboring kingdom, whom he mistakenly believes saved him. The failure of the marriage signifies that the "Natural" cannot simply merge with the "Spiritual" through emotional attachment alone. The discrete degree cannot be bridged by proxy; the work of salvation must be internal.
 
@@ -92,7 +92,7 @@ In Swedenborgian ethics, the "Self" is the source of all evil when separated fro
 
 The ending of the tale, often criticized by modern scholars as tacked-on Christian moralizing, is the most purely Swedenborgian element of the text. The mermaid becomes a "Daughter of the Air."
 
-"You, poor little mermaid, have tried with your whole heart... Your suffering and your loyalty have raised you up into the realm of airy spirits, and now in the course of three hundred years you may earn by your good deeds a soul that will never die." 19
+"You, poor little mermaid, have tried with your whole heart to do this too. Your suffering and your loyalty have raised you up into the realm of airy spirits, and now in the course of three hundred years you may earn by your good deeds a soul that will never die" (Andersen, "The Little Mermaid").
 
 Here, Andersen maps the Swedenborgian cosmology precisely:
 
@@ -100,7 +100,7 @@ Here, Andersen maps the Swedenborgian cosmology precisely:
 2. **Air (Spiritual/Rational):** The Mermaid’s new state. Air is a "higher" element than water, corresponding to the spiritual degree.  
 3. **Stars/Heaven (Celestial):** The ultimate goal (Immortality).
 
-The mermaid is not granted a soul instantly; she must **earn** it through "good deeds." This reflects Swedenborg’s central doctrine that **Charity (Use)** is the essential medium of salvation. One cannot simply be "given" heaven; one must acquire the *nature* of heaven through active usefulness.21 The mermaid enters a state of **probation** or **vastation**—an intermediate spiritual state (World of Spirits) where she must purify her intentions through service to others (cooling fevers, spreading fragrances) before she can enter the presence of God.
+The mermaid is not granted a soul instantly; she must **earn** it through "good deeds." This reflects Swedenborg’s central doctrine that **Charity (Use)** is the essential medium of salvation. One cannot simply be "given" heaven; one must acquire the *nature* of heaven through active usefulness: "the Lord’s kingdom is a kingdom of uses" (*Heaven and Hell* §387), and heaven is not "an admission from mere favor" (*Heaven and Hell* §521). The mermaid enters a state of **probation** or **vastation**—an intermediate spiritual state (World of Spirits) where she must purify her intentions through service to others (bringing cool breezes to the hot countries, carrying "the scent of flowers through the air, bringing freshness and healing balm") before she can enter the presence of God.
 
 Table 1 illustrates the Swedenborgian progression evident in the narrative structure:
 
@@ -119,18 +119,18 @@ If *The Little Mermaid* explores the **Will** and the acquisition of a soul, *Th
 
 ### **4.1 The Mirror and the Distortion of Truth**
 
-The story begins with a demon (or troll) creating a mirror that shrinks the good and beautiful to nothingness while magnifying the bad and ugly. This mirror is a perfect correspondence for the **natural man’s intellect** when separated from Divine influx. Swedenborg writes extensively in *Divine Love and Wisdom* about how the "selfhood" distorts truth, turning it into falsity.12
+The story begins with a demon (or troll) creating a mirror that shrinks the good and beautiful to nothingness while magnifying the bad and ugly. This mirror is a perfect correspondence for the **natural man’s intellect** when separated from Divine influx. Swedenborg writes that when the will is in evil, "one’s own intelligence sees only falsity," and when it is confronted with truth "it either turns away from it or falsifies it" (*Divine Providence* §297).
 
 When the mirror shatters, a splinter enters Kai’s eye and another his heart.
 
-* **The Eye:** Corresponds to the **Understanding**. Kai begins to see the world as flawed, mechanical, and ugly. He mocks his grandmother (tradition/faith) and Gerda (innocence). He becomes obsessed with the "mathematical" precision of snowflakes, preferring their dead symmetry to the living beauty of roses. This is **Scientia** separated from **Sapientia**.  
-* **The Heart:** Corresponds to the **Will**. His heart becomes "a lump of ice." In Swedenborgian symbolism, **Ice** represents **Truth** bereft of **Heat (Love)**. It is hard, brittle, and cold. This is the state of "Faith Alone" (*sola fide*), a doctrine Swedenborg vehemently opposed as spiritually dead.
+* **The Eye:** Corresponds to the **Understanding**. Kai begins to see the world as flawed, mechanical, and ugly. He mocks his grandmother (tradition/faith) and Gerda (innocence). He becomes obsessed with the snowflakes under his magnifying glass, "much more interesting to look at than real flowers, for they are absolutely perfect," preferring their dead symmetry to the living beauty of roses. This is **Scientia** separated from **Sapientia**.  
+* **The Heart:** Corresponds to the **Will**. His heart becomes "a lump of ice." In Swedenborgian symbolism, **Ice** represents **Truth** bereft of **Heat (Love)**. It is hard, brittle, and cold. This is the state of "Faith Alone" (*sola fide*), a doctrine Swedenborg vehemently opposed as spiritually dead: faith separated from charity is "wintry light, which is light separate from heat," that "freezes the waters" (*True Christian Religion* §385), and those who know much of charity but do not live it, being "without spiritual heat, however much light they may possess," may be called "winters, frozen grounds, arctic climates, and even fields of snow and ice" (*True Christian Religion* §527).
 
 ### **4.2 The Snow Queen: The Avatar of the Frozen Rational**
 
-The Snow Queen acts as a personification of the **intellectual self** or the "False Rational." She abducts Kai to her palace in the frozen north (a correspondence for a spiritual state void of love). She promises him the whole world and a "new pair of skates" if he can solve the "Ice Puzzle of Reason" and form the word "Eternity."
+The Snow Queen acts as a personification of the **intellectual self** or the "False Rational." She abducts Kai to her palace in the frozen north (a correspondence for a spiritual state void of love). She promises him the whole world and a "new pair of skates" if he can solve "the game of ice-cold reason" and form the word "Eternity" (Andersen, "The Snow Queen").
 
-This is a profound critique of Enlightenment rationalism. Kai attempts to understand "Eternity" (a Divine concept) using only "ice" (cold facts/natural truths). Swedenborg posits that spiritual truths cannot be grasped by the natural rational mind alone; they require the light of heaven. Thus, Kai is trapped in a loop of futile computation, "blue with cold" but unaware of it because his feelings have been numbed.23 He is in a state of spiritual **vastation**.
+This is a profound critique of Enlightenment rationalism. Kai attempts to understand "Eternity" (a Divine concept) using only "ice" (cold facts/natural truths). Swedenborg posits that spiritual truths cannot be grasped by the natural rational mind alone; they require the light of heaven. Thus, Kai is trapped in a loop of futile computation, "blue, yes, almost black, with the cold. But he did not feel it" (Andersen, "The Snow Queen"), because his feelings have been numbed. He is in a state of spiritual **vastation**.
 
 ### **4.3 Gerda: The Affection for Truth**
 
@@ -140,11 +140,11 @@ Gerda represents the **Celestial** principle of **Love**, **Innocence**, or **Ch
 
 ### **4.4 The Thaw: Regeneration**
 
-The climax occurs when Gerda’s hot tears fall onto Kai’s chest, melting the ice in his heart and washing away the splinter in his eye.
+The climax occurs when Gerda’s hot tears fall onto Kai, melting the ice in his heart; then Kai himself weeps, and his own tears wash the splinter out of his eye.
 
-"The tears fell on his chest, and penetrated to his heart; they thawed the lump of ice, and consumed the little piece of glass." 25
+"Gerda shed hot tears, and when they fell upon him they went straight to his heart. They melted the lump of ice and burned away the splinter of glass in it. . . . Kay burst into tears. He cried so freely that the little piece of glass in his eye was washed right out" (Andersen, "The Snow Queen").
 
-This is the restoration of **Influx**. The heat of Love (Gerda) restores the fluidity of Truth (water/tears) and reconnects the Will and Understanding. Kai is saved not by solving the puzzle, but by weeping—by feeling. They return home to find they have grown up, yet remain children at heart—a direct reference to Swedenborg’s (and Christ’s) teaching that "innocence" is the prerequisite for heaven (the Celestial kingdom).
+This is the restoration of **Influx**. The heat of Love (Gerda) restores the fluidity of Truth (water/tears) and reconnects the Will and Understanding. Kai is saved not by solving the puzzle, but by weeping—by feeling. They return home to find the grandmother reading "Except ye become as little children, ye shall not enter into the Kingdom of Heaven," and they sit there "grown-up, but children still-children at heart" (Andersen, "The Snow Queen")—a direct reference to Swedenborg’s (and Christ’s) teaching that "innocence" is the prerequisite for heaven (the Celestial kingdom) (*Heaven and Hell* §§276–283).
 
 ## **V. The Shadow: The Theology of the Self and the External Man**
 
@@ -160,7 +160,7 @@ Swedenborg teaches that man is a vessel for life, not life itself. The "shadow" 
 
 The shadow claims to have seen everything in the house of Poetry, but it produces nothing. It blackmails the man, reverses their roles, and eventually executes the man. The shadow represents the **Hypocrite**—the entity that possesses the *form* of a man but lacks the *substance* (the soul/charity).
 
-In Swedenborg’s *Spiritual Diary*, he describes spirits who "put on" the memories and personas of others, believing themselves to be those people.7 Andersen’s Shadow is a "spirit of the world" that usurps the place of the "spirit of truth." The learned man, who writes about "the True, the Good, and the Beautiful" (the Swedenborgian triad), is ignored by the world, while the Shadow, who understands the darkness and secrets of men, is celebrated. This is a cynical depiction of a society in the grip of **vastation**, where the external form is worshiped, and the internal truth is martyred.26
+Swedenborg describes spirits who, coming to a man, "enter into his entire memory" and "believe that all things of his memory and thought are their own" (*Heaven and Hell* §292). Andersen’s Shadow is a "spirit of the world" that usurps the place of the "spirit of truth." The learned man, who writes about "the true, the good, and the beautiful" (Andersen, "The Shadow"), is ignored by the world, while the Shadow, who understands the darkness and secrets of men, is celebrated. This is a cynical depiction of a society in the grip of **vastation**, where the external form is worshiped, and the internal truth is martyred.
 
 ## **VI. The Girl Who Trod on the Loaf: Sin, Hell, and Verticality**
 
@@ -170,42 +170,42 @@ This tale serves as a companion piece to *The Little Mermaid*, mapping the *desc
 
 Inger, a vain girl, throws a loaf of bread (a gift for her parents) into the mud to save her shoes. She steps on the bread and sinks instantly into the "Marsh Woman’s Brewery."
 
-* **Bread:** In correspondences, Bread signifies **Celestial Good** (Divine Love/Charity).  
+* **Bread:** In correspondences, Bread signifies **Celestial Good** (Divine Love/Charity) (*Arcana Coelestia* §§276, 2165).  
 * **Mud/Marsh:** Corresponds to the **lowest Natural** degree, the realm of filth and falsity.
 
-By trampling on "Good" (the bread) to preserve her "Vanity" (shoes/appearance), Inger commits an act of **Profanation**. She inverts the spiritual order, placing the lowest above the highest. In Swedenborg’s theology, profanation is the mixing of good and evil, a state worse than simple ignorance.29
+By trampling on "Good" (the bread) to preserve her "Vanity" (shoes/appearance), Inger commits an act of **Profanation**. She inverts the spiritual order, placing the lowest above the highest. In Swedenborg’s theology, profanation is the mingling of holy things with profane (*Divine Providence* §§226–231), a state worse than simple ignorance, for one who has never acknowledged the truths of faith cannot profane them (*Arcana Coelestia* §1008).
 
 ### **6.2 The Petrified Soul in the Marsh Woman's Brewery**
 
 In the underworld (Hell), Inger becomes a statue. She is rigid, unable to move, with flies creeping over her eyes.
 
-"She was a statue of stone... stiff and unable to move... dreadfully hungry but could not break off any of the bread." 29
+"Worst of all was the dreadful hunger she felt. Could she stoop down and break off a bit of the bread on which she was standing? No, her back had stiffened, her arms and hands had stiffened, her whole body was like a statue of stone" (Andersen, "The Girl Who Trod on the Loaf").
 
-This corresponds to Swedenborg’s description of the infernal state: spirits in hell are often described as having their interiors ossified or being bound by their own ruling loves. They are "dead" because they have cut themselves off from the influx of Life (Love). The "Marsh Woman's Brewery" is a vivid depiction of a Swedenborgian hell, where the environment (smells, snakes, slime) is a direct projection of the internal state of the spirits inhabiting it.
+This corresponds to Swedenborg’s description of the infernal state: spirits in hell are bound by their own ruling loves. They are "dead" because they have cut themselves off from the influx of Life (Love). The "Marsh Woman's Brewery" is a vivid depiction of a Swedenborgian hell, where the environment (smells, snakes, slime) is a direct projection of the internal state of the spirits inhabiting it.
 
 ### **6.3 Intercession and Bird-Form: Active Repentance**
 
-Inger is eventually redeemed, but not through her own power. A bird (innocent thought) weeps for her. This external influx of pity begins to soften her stone heart. She eventually transforms into a small bird that must gather crumbs to replace the loaf she wasted.
+Inger is eventually redeemed, but not through her own power. An innocent little child weeps and prays for her; decades later the same soul, dying as "the thoughts and deeds of a lifetime pass in review," weeps for her again in heaven: "One of God's angels wept for her!" (Andersen, "The Girl Who Trod on the Loaf"). This external influx of pity begins to soften her stone heart. She eventually transforms into a small gray bird that gathers crumbs and gives them away to the other hungry birds, eating only a single crumb itself, until the crumbs it has given away equal the loaf she trod upon.
 
-This mirrors the Swedenborgian concept that **Repentance** must be active. One must "shun evils as sins" and perform uses. Inger cannot simply say "sorry"; she must labor (gather crumbs) to balance her spiritual ledger. Her ascent "straight into the sun" at the end is the return to the Divine Sun (the source of Love), marking the completion of her regeneration. This "bird state" is functionally identical to the "Daughter of the Air" state in *The Little Mermaid*—a probationary period of active charity.29
+This mirrors the Swedenborgian concept that **Repentance** must be active. One must "shun evils as sins" and perform uses. Inger cannot simply say "sorry"; she must labor (gathering crumbs for others) to balance her spiritual ledger. Her ascent "straight into the sun" at the end (Andersen, "The Girl Who Trod on the Loaf") is the return to the Divine Sun (the source of Love), marking the completion of her regeneration. This "bird state" is functionally identical to the "Daughter of the Air" state in *The Little Mermaid*—a probationary period of active charity.
 
 ## **VII. The Spirit in Nature: The Role of Science and Ørsted**
 
-The influence of Swedenborg on Andersen was mediated and reinforced by his relationship with H.C. Ørsted. Ørsted’s famous dictum, "The laws of nature are the thoughts of God," provided a scientific legitimacy to Swedenborg’s doctrine of correspondences.
+The influence of Swedenborg on Andersen was mediated and reinforced by his relationship with H.C. Ørsted. Ørsted’s dictum that "the laws of nature are Divine thoughts" (Ørsted 1852) provided a scientific legitimacy to Swedenborg’s doctrine of correspondences.
 
 For Ørsted, and by extension Andersen, the scientist and the poet were engaged in the same task: reading the "book of nature" to understand the "book of revelation." This is evident in Andersen’s travelogues and lesser-known tales like *The Bell*, *The Ice Maiden*, and *Ole the Tower Keeper*.
 
 ### **7.1 The Bell: The Unity of Truth**
 
-In *The Bell*, two paths lead to the great Bell (God): the path of the King (tradition/state) and the path of the Naturalist. They meet at the summit. Andersen validates both the religious and the scientific approach to the Divine, provided they are pursued with humility. The Bell’s sound unites the forest (nature) and the church (spirit), illustrating the Swedenborgian/Ørstedian belief in the fundamental unity of creation.30
+In *The Bell*, the townspeople hear a mysterious bell from the forest; the official who claims to have found its source explains it as an owl knocking its head against a hollow tree and writes "a little treatise" on it every year, and "no one was much the wiser for it." Two boys newly confirmed follow the sound by two paths—a king's son by the sunlit way, and a poor boy in wooden shoes by the thorny one. They meet at the summit above the sea at sunset, where "Nature was a vast, holy church," and hold each other by the hand "in the great tabernacle of Nature and Poetry, while above them sounded the invisible, holy bell" (Andersen, "The Bell"). Andersen validates both the high and the humble path to the Divine, provided they are pursued with humility. The Bell’s sound unites the forest (nature) and the church (spirit), illustrating the Swedenborgian/Ørstedian belief in the fundamental unity of creation.
 
 ### **7.2 The Ice Maiden: The Nature Spirit vs. The Soul**
 
-*The Ice Maiden* presents a darker view of nature. The Ice Maiden is a personification of the elemental forces (glaciers). She claims the protagonist, Rudy, because he belongs to nature. Unlike the Little Mermaid, the Ice Maiden has no desire for a soul; she represents the **unregenerate natural force** that seeks to reclaim its own. The conflict between Rudy (the human soul) and the Ice Maiden (the elemental force) highlights the danger of the "natural degree" when it seeks to swallow the spiritual.32
+*The Ice Maiden* presents a darker view of nature. The Ice Maiden is a personification of the elemental forces (glaciers). She claims the protagonist, Rudy, because he belongs to nature. Unlike the Little Mermaid, the Ice Maiden has no desire for a soul; she represents the **unregenerate natural force** that seeks to reclaim its own. The conflict between Rudy (the human soul) and the Ice Maiden (the elemental force) highlights the danger of the "natural degree" when it seeks to swallow the spiritual (Andersen, "The Ice Maiden").
 
 ### **7.3 Ole the Tower Keeper: The Spiritual Observer**
 
-In *Ole the Tower Keeper*, the protagonist looks down on the world from a church tower, observing the "degrees" of humanity. He describes "glasses" of different toasts, which contain various spirits—from health to the devil.34 This categorization of human states into distinct vessels or "degrees" reflects the Swedenborgian habit of classifying spirits and states of mind. Ole serves as the detached, Swedenborgian seer, analyzing the spiritual content of the chaotic city below.
+In *Ole the Tower Keeper*, the protagonist looks down on the world from a church tower, observing the "degrees" of humanity. He describes "glasses" of different toasts, which contain various spirits—from health to the devil: "When I count up the glasses I can tell the gradations of the different people" (Andersen, "Ole the Tower Keeper"). This categorization of human states into distinct vessels or "degrees" reflects the Swedenborgian habit of classifying spirits and states of mind. Ole serves as the detached, Swedenborgian seer, analyzing the spiritual content of the chaotic city below.
 
 ## **VIII. Coda: The Afterlife of Andersen's Cosmology in Popular Culture**
 
@@ -258,40 +258,39 @@ Restoring the Swedenborgian context reveals Andersen's true stature: a cartograp
 
 The evidence suggests that while Andersen may have worn the mask of the naive storyteller, his pen was dipped in the ink of the visionary. He did not just write fairy tales; he wrote *Arcana Coelestia* for the nursery.
 
-#### **Works cited**
+## **X. Works Cited**
 
-1. Writers Influenced by Swedenborg, accessed on January 28, 2026, [https://swedenborgsociety.wordpress.com/about/emanuel-swedenborg/writers-influenced-by-swedenborg/](https://swedenborgsociety.wordpress.com/about/emanuel-swedenborg/writers-influenced-by-swedenborg/)  
-2. Swedenborg's Cultural Influence, accessed on January 28, 2026, [https://swedenborg.com/emanuel-swedenborg/influence/](https://swedenborg.com/emanuel-swedenborg/influence/)  
-3. Art, Culture and Science does not exclude religion – Niels Bohr Institute \- University of Copenhagen \- Københavns Universitet, accessed on January 28, 2026, [https://nbi.ku.dk/english/www/hco/oersted/videnskab\_og\_kultur/](https://nbi.ku.dk/english/www/hco/oersted/videnskab_og_kultur/)  
-4. Emanuel Swedenborg: Scientist and Mystic, accessed on January 28, 2026, [https://swedenborg.com/wp-content/uploads/2015/03/SF\_Toksvig\_ScientistMystic.pdf](https://swedenborg.com/wp-content/uploads/2015/03/SF_Toksvig_ScientistMystic.pdf)  
-5. Holger Danske as Literary Danish Identity in the Work of H. C. Andersen and B. S. Ingemann, accessed on January 28, 2026, [https://andersen.sdu.dk/forskning/konference/tekst.html?id=10928](https://andersen.sdu.dk/forskning/konference/tekst.html?id=10928)  
-6. O. T., by Hans Christian Andersen \- Project Gutenberg, accessed on January 28, 2026, [https://www.gutenberg.org/files/7513/7513-h/7513-h.htm](https://www.gutenberg.org/files/7513/7513-h/7513-h.htm)  
-7. Emanuel Swedenborg \- The Spiritual Diary \- Vol I.pdf, [https://drive.google.com/open?id=1GuuT3zKK\_2sxk9gDBbw6070HPqt\_U-ui](https://drive.google.com/open?id=1GuuT3zKK_2sxk9gDBbw6070HPqt_U-ui)  
-8. The Animating Spirit\_ An Exhaustive Analysis of Swedenborgian Correspondences in the Cinematic Universe of Walt Disney.pdf, [**The Animating Spirit: An Exhaustive Analysis of Swedenborgian Correspondences in the Cinematic Universe of Walt Disney**](The%20Animating%20Spirit_%20An%20Exhaustive%20Analysis%20of%20Swedenborgian%20Correspondences%20in%20the%20Cinematic%20Universe%20of%20Walt%20Disney.md)  
-9. SOWA OPAC : Katalog Biblioteki Kraków, accessed on January 28, 2026, [https://www.krakow-biblioteka.sowa.pl/index.php?typ=repl\&plnk=q\_\_%2A\&fauthor=Swedenborg%2C%20Emanuel\&sort=byscore\&b=eJyLNtAzNtZRejRn9YNNPTc7nnS3PO5c-HTBjAcLlzzpWPWoY-WDTRNilJ43zH02fd7zhhUxpQZAACGVdJQeTln2YF3Xk0WtjxqbnndsfLKk4dmkOU8bdj2c0nxk6oPFHVeWPGyb8LBhz42mhzsan-1c8HjO-ofrGh83NIBNMASaEGFoYGFoZqQUCwD0TUsm\&lang=en\_GB](https://www.krakow-biblioteka.sowa.pl/index.php?typ=repl&plnk=q__*&fauthor=Swedenborg,+Emanuel&sort=byscore&b=eJyLNtAzNtZRejRn9YNNPTc7nnS3PO5c-HTBjAcLlzzpWPWoY-WDTRNilJ43zH02fd7zhhUxpQZAACGVdJQeTln2YF3Xk0WtjxqbnndsfLKk4dmkOU8bdj2c0nxk6oPFHVeWPGyb8LBhz42mhzsan-1c8HjO-ofrGh83NIBNMASaEGFoYGFoZqQUCwD0TUsm&lang=en_GB)  
-10. SPIRITUAL TEMPTATION 1948 \- New Christian Bible Study, accessed on January 28, 2026, [https://newchristianbiblestudy.org/bundles/ncbsw/on-deck/english/new-church-life/1948\_HTML.htm](https://newchristianbiblestudy.org/bundles/ncbsw/on-deck/english/new-church-life/1948_HTML.htm)  
-11. Don't animals have souls? \- Swedenborg Community Victoria, accessed on January 28, 2026, [https://swedenborgcommunityvictoria.net.au/2024/02/19/dont-animals-have-souls](https://swedenborgcommunityvictoria.net.au/2024/02/19/dont-animals-have-souls)  
-12. Will We See our Pets Again in Heaven? | Spiritual Insights for Everyday Life, accessed on January 28, 2026, [https://leewoof.org/2014/04/21/will-we-see-our-pets-again-in-heaven/](https://leewoof.org/2014/04/21/will-we-see-our-pets-again-in-heaven/)  
-13. Appendix I. The Various Usages of The Term "Soul" in The Writings of Emanuel Swedenborg, accessed on January 28, 2026, [http://www.swedenborgstudy.com/books/H.Lj.Odhner\_Human-Mind/app1.html](http://www.swedenborgstudy.com/books/H.Lj.Odhner_Human-Mind/app1.html)  
-14. A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg.pdf, [**A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg**](../02_Swedenborgian_Theology/A%20Library%20of%20Biblical%20Correspondences%20in%20Nature%20and%20Objects%20According%20to%20Emanuel%20Swedenborg.md)  
-15. Disney, Swedenborg, and Symbolic Patterns, [**The Animating Spirit: An Exhaustive Analysis of Swedenborgian Correspondences in the Cinematic Universe of Walt Disney**](The%20Animating%20Spirit_%20An%20Exhaustive%20Analysis%20of%20Swedenborgian%20Correspondences%20in%20the%20Cinematic%20Universe%20of%20Walt%20Disney.md)  
-16. What the Original "Little Mermaid" Teaches Us About the Gospel \- LDS Living, accessed on January 28, 2026, [https://www.ldsliving.com/what-the-original-little-mermaid-teaches-us-about-the-gospel/s/89816](https://www.ldsliving.com/what-the-original-little-mermaid-teaches-us-about-the-gospel/s/89816)  
-17. Hans Christian Andersen's The Little Mermaid and Salvation Through Love, accessed on January 28, 2026, [https://juvenileinstructor.org/hans-christian-andersens-the-little-mermaid-and-salvation-through-love/](https://juvenileinstructor.org/hans-christian-andersens-the-little-mermaid-and-salvation-through-love/)  
-18. Lessons to Learn from “The Little Mermaid” | by Mawadda Abuhamda \- Medium, accessed on January 28, 2026, [https://medium.com/@najmthaqib/little-mermaid-essay-b7d11a8f054b](https://medium.com/@najmthaqib/little-mermaid-essay-b7d11a8f054b)  
-19. March | 2017 \- The CuriousWorthy, accessed on January 28, 2026, [https://thecuriousworthy.com/2017/03/](https://thecuriousworthy.com/2017/03/)  
-20. Free to Love: H.C. Andersen's Little Mermaid | Mythic Mojo, accessed on January 28, 2026, [https://mythicmojo.com/free-to-love-h-c-andersens-little-mermaid/](https://mythicmojo.com/free-to-love-h-c-andersens-little-mermaid/)  
-21. Blessing of Work \- Swedenborg Study, accessed on January 28, 2026, [http://www.swedenborgstudy.com/articles/use/drs63.htm](http://www.swedenborgstudy.com/articles/use/drs63.htm)  
-22. Good Will and Good Actions \- Swedenborg Foundation, accessed on January 28, 2026, [https://swedenborg.com/wp-content/uploads/2015/08/OD\_TrueChristianityExcerpt.pdf](https://swedenborg.com/wp-content/uploads/2015/08/OD_TrueChristianityExcerpt.pdf)  
-23. Elena Anastasaki – The Trials and Tribulations of the revenants: Narrative Techniques and the Fragmented Hero in Mary Shelley and Théophile Gautier \- Connotations, accessed on January 28, 2026, [https://www.connotations.de/article/elena-anastasaki-the-trials-and-tribulations-of-the-revenants-narrative-techniques-and-the-fragmented-hero-in-mary-shelley-and-theophile-gautier/](https://www.connotations.de/article/elena-anastasaki-the-trials-and-tribulations-of-the-revenants-narrative-techniques-and-the-fragmented-hero-in-mary-shelley-and-theophile-gautier/)  
-24. The Autobiographical Element in Per Olov Enquist's Works \- AIR Unimi, accessed on January 28, 2026, [https://air.unimi.it/retrieve/dfa8b999-cdae-748b-e053-3a05fe0a3a96/phd\_unimi\_R10652.pdf](https://air.unimi.it/retrieve/dfa8b999-cdae-748b-e053-3a05fe0a3a96/phd_unimi_R10652.pdf)  
-25. Studies in comparative literature 5 \- Brill, accessed on January 28, 2026, [https://brill.com/downloadpdf/display/title/31000.pdf](https://brill.com/downloadpdf/display/title/31000.pdf)  
-26. Hans Christian Andersen : The Shadow \- H.C. Andersen-Centret, accessed on January 28, 2026, [https://andersen.sdu.dk/vaerk/hersholt/TheShadow\_e.html](https://andersen.sdu.dk/vaerk/hersholt/TheShadow_e.html)  
-27. Redeeming the Shadow of the Self: A Depth Psychological Cross-cultural Investigation of the Foreshadow Archetype \- ProQuest, accessed on January 28, 2026, [https://search.proquest.com/openview/a52fa8ba9f1b4ffe56c68453ac449f1b/1?pq-origsite=gscholar\&cbl=51922\&diss=y](https://search.proquest.com/openview/a52fa8ba9f1b4ffe56c68453ac449f1b/1?pq-origsite=gscholar&cbl=51922&diss=y)  
-28. The Works of Ralph Waldo Emerson, vol. 8 (Letters and Social Aims), accessed on January 28, 2026, [https://oll.libertyfund.org/titles/emerson-the-works-of-ralph-waldo-emerson-vol-8-letters-and-social-aims](https://oll.libertyfund.org/titles/emerson-the-works-of-ralph-waldo-emerson-vol-8-letters-and-social-aims)  
-29. Hans Christian Andersen : The Girl Who Trod on the Loaf, accessed on January 28, 2026, [https://andersen.sdu.dk/vaerk/hersholt/TheGirlWhoTrodOnTheLoaf\_e.html](https://andersen.sdu.dk/vaerk/hersholt/TheGirlWhoTrodOnTheLoaf_e.html)  
-30. church of the new jerusalem/swedenborg chapel \- 50 quincy street \- landmark designation study report \- Cambridge, MA, accessed on January 28, 2026, [https://www.cambridgema.gov/\~/media/Files/historicalcommission/pdf/Landmark\_reports/lm\_quincy\_50.pdf](https://www.cambridgema.gov/~/media/Files/historicalcommission/pdf/Landmark_reports/lm_quincy_50.pdf)  
-31. The Project Gutenberg eBook of Main Currents in Nineteenth Century Literature, Vol. II (of 6): The Romantic School in Germany, by Georg Brandes, accessed on January 28, 2026, [https://www.gutenberg.org/files/47781/47781-h/47781-h.htm](https://www.gutenberg.org/files/47781/47781-h/47781-h.htm)  
-32. The Project Gutenberg EBook of The Life and Genius of Nathaniel Hawthorne \- Public Library UK, accessed on January 28, 2026, [http://public-library.uk/pdfs/3/683.pdf](http://public-library.uk/pdfs/3/683.pdf)  
-33. Essays on the Greek Christian poets and the English poets, accessed on January 28, 2026, [https://archive.org/download/cu31924103991927/cu31924103991927.pdf](https://archive.org/download/cu31924103991927/cu31924103991927.pdf)  
-34. Ole the Tower-Keeper. By Hans Christian Andersen (1859), accessed on January 28, 2026, [https://www.hcandersen-homepage.dk/?page\_id=2435](https://www.hcandersen-homepage.dk/?page_id=2435)  
-35. Hans Christian Andersen : Ole, the Tower Keeper, accessed on January 28, 2026, [https://andersen.sdu.dk/vaerk/hersholt/OleTheTowerKeeper\_e.html](https://andersen.sdu.dk/vaerk/hersholt/OleTheTowerKeeper_e.html)
+**Primary Sources:**
+
+1. Andersen, Hans Christian. "The Bell" ("Klokken"). Translated by Jean Hersholt. Hans Christian Andersen Centre, University of Southern Denmark. https://andersen.sdu.dk/vaerk/hersholt/TheBell_e.html.
+2. Andersen, Hans Christian. "The Girl Who Trod on the Loaf" ("Pigen, som traadte paa Brødet"). Translated by Jean Hersholt. Hans Christian Andersen Centre, University of Southern Denmark. https://andersen.sdu.dk/vaerk/hersholt/TheGirlWhoTrodOnTheLoaf_e.html.
+3. Andersen, Hans Christian. "The Ice Maiden" ("Iisjomfruen"). Translated by Jean Hersholt. Hans Christian Andersen Centre, University of Southern Denmark. https://andersen.sdu.dk/vaerk/hersholt/TheIceMaiden_e.html.
+4. Andersen, Hans Christian. "The Little Mermaid" ("Den lille Havfrue"). Translated by Jean Hersholt. Hans Christian Andersen Centre, University of Southern Denmark. https://andersen.sdu.dk/vaerk/hersholt/TheLittleMermaid_e.html.
+5. Andersen, Hans Christian. "Ole the Tower Keeper" ("Taarnvægteren Ole"). Translated by Jean Hersholt. Hans Christian Andersen Centre, University of Southern Denmark. https://andersen.sdu.dk/vaerk/hersholt/OleTheTowerKeeper_e.html.
+6. Andersen, Hans Christian. "The Shadow" ("Skyggen"). Translated by Jean Hersholt. Hans Christian Andersen Centre, University of Southern Denmark. https://andersen.sdu.dk/vaerk/hersholt/TheShadow_e.html.
+7. Andersen, Hans Christian. "The Snow Queen" ("Sneedronningen"). Translated by Jean Hersholt. Hans Christian Andersen Centre, University of Southern Denmark. https://andersen.sdu.dk/vaerk/hersholt/TheSnowQueen_e.html.
+8. Andersen, Hans Christian. *The Story of My Life.* New York: Hurd and Houghton, 1871.
+9. Ingemann, Bernhard Severin. *Tankebreve fra en Afdød.* Copenhagen, 1855.
+10. Ørsted, Hans Christian. *The Soul in Nature, with Supplementary Contributions.* Translated by L. and J. B. Horner. London: H. G. Bohn, 1852.
+11. Swedenborg, Emanuel. *Arcana Coelestia*. Translated by John Clowes, revised and edited by John Faulkner Potts. Standard Edition. 12 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+12. Swedenborg, Emanuel. *Conjugial Love* (*The Delights of Wisdom Pertaining to Conjugial Love*). Translated by Samuel M. Warren, revised and edited by Louis H. Tafel. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+13. Swedenborg, Emanuel. *Divine Love and Wisdom.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+14. Swedenborg, Emanuel. *Divine Providence* (*Angelic Wisdom concerning Divine Providence*). Translated by William F. Wunsch. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+15. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+16. Swedenborg, Emanuel. *True Christian Religion*. Translated by John C. Ager. Standard Edition. 2 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+
+**Scholarly Works:**
+
+17. Atterbom, P. D. A. *Svenska siare och skalder, eller Grunddragen af svenska vitterhetens häfder intill och med Gustaf III:s tidehvarf.* Vol. 1. 2nd ed. Örebro: N. M. Lindh, 1862. "Emanuel Swedenborgs lära om lif, kärlek och skönhet," 35–210.
+18. Garff, Joakim. *Søren Kierkegaard: A Biography.* Princeton: Princeton University Press, 2005.
+19. Toksvig, Signe. *Emanuel Swedenborg: Scientist and Mystic*. New Haven: Yale University Press, 1948.
+
+**Internal Library Documents:**
+
+20. [A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg](../02_Swedenborgian_Theology/A%20Library%20of%20Biblical%20Correspondences%20in%20Nature%20and%20Objects%20According%20to%20Emanuel%20Swedenborg.md). The library's catalogue of Swedenborg's correspondences of natural objects, behind section 2.3.
+21. [The Animating Spirit: An Exhaustive Analysis of Swedenborgian Correspondences in the Cinematic Universe of Walt Disney](The%20Animating%20Spirit_%20An%20Exhaustive%20Analysis%20of%20Swedenborgian%20Correspondences%20in%20the%20Cinematic%20Universe%20of%20Walt%20Disney.md). The library's animal correspondences (dog, horse, birds) with their *Arcana* loci (§3), on which section 2.3 draws.
+22. [The Mirror and the Star: A Comparative Pneumatology of Disney's Wish and Snow White (2025)](The%20Mirror%20and%20the%20Star_%20A%20Comparative%20Pneumatology%20of%20Disney's%20Wish%20and%20Snow%20White%20%282025%29.md). The library's study of *Wish* as an inversion of vertical causality, summarized in section VIII.
+
+**Web Sources:**
+
+23. Swedenborg Society. "Influence on Literature." *Swedenborg Society*, n.d. https://www.swedenborg.org.uk/about-us/about-swedenborg/influence/.

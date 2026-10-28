@@ -1898,21 +1898,40 @@ Is there any published statement — press kit/production notes, *The Art of Sno
 
 ---
 
+### [GDR] *The Mirror of the Invisible* §2.3 — did the Brothers Grimm own Swedenborg, Jung-Stilling or Oetinger?
+
+**Related Documents**: `data/07_Cultural_Pneumatology/The Mirror of the Invisible_ Swedenborgian Natural Philosophy and the Romantic Folklore of the Brothers Grimm.md` §2.3
+
+**Priority**: LOW
+
+**Context**: The document now documents that both brothers read Jung-Stilling's *Theorie der Geister-Kunde* (1808) in 1809 — Jacob writes that he has finally obtained "den Stilling" (*Briefwechsel aus der Jugendzeit*, 1881, p. 84) — and that the book gives §§113–118 to Swedenborg. Whether they owned that book, or any work of Swedenborg's, Oetinger's, or Herder's *Adrastea* (1802, with its essay "Emanuel Swedenborg, der größte Geisterseher des achtzehnten Jahrhunderts"), would be settled by the printed catalogue of their library: Ludwig Denecke and Irmgard Teitge, *Die Bibliothek der Brüder Grimm: Annotiertes Verzeichnis des festgestellten Bestandes*, ed. Friedhilde Krause (Weimar: Böhlau / Stuttgart: Hirzel, 1989; reprint De Gruyter 2021). It is not on archive.org, not in the author's Drive, and the only online copy found is a pirated repost, which was not used.
+
+**Research Question**:
+Does Denecke and Teitge's catalogue of the Grimms' library list any work by Swedenborg, Jung-Stilling (especially *Theorie der Geister-Kunde*, 1808, or *Henrich Stillings Jugend*, 1777), Oetinger, or Herder's *Adrastea*? Give catalogue numbers and any annotations (provenance, markings).
+
+**Status**: ✅ RESOLVED
+
+**Date Resolved**: 2026-10-28
+
+**Resolution Summary**: Answered from the catalogue itself (Denecke and Teitge 1989, Weimar: Hermann Böhlaus Nachfolger; the author supplied a copy of the 2021 reprint). The brothers owned Jung-Stilling's *Theorie der Geister-Kunde* (Nürnberg: Raw 1808; no. 5280, accession 42.186, HU Berlin Pp 90050) and its *Apologie der Theorie der Geisterkunde* (Raw 1809; no. 5281, accession 42.222, Pp 90051), with C. F. B. Vischer's pamphlet against the *Theorie* (1809; no. 5282) and *Heinrich Stillings Alter* (Heidelberg 1817; no. 3111, Hessisches Staatsarchiv Marburg). *Henrich Stillings Jugend* (1777) is not recorded. None of these carries the catalogue's asterisks for handwritten marks. They also owned G. H. Schubert's *Die Symbolik des Traumes* (Bamberg 1814; no. 6524) and *Altes und Neues aus dem Gebiet der innren Seelenkunde* (1817–1824; no. 6523, "Früher Bes.-Verm.: Jacob Gr."). *Symbolik des Traumes* names Swedenborg four times (pp. 79, 81, 93–95, 122; pp. 93–95 quote *AC* §§7745–7750 on the spirits of Mars at length). The catalogue lists nothing by Swedenborg or Oetinger and no *Adrastea*; Herder is represented by parts of the Cotta *Sämmtliche Werke* (1805–1807), *Zerstreute Blätter*, *Über Bild, Dichtung und Fabel* and *Lieder der Liebe* (nos. 3114–3117), and by the Forster *Sakuntala* he prefaced (no. 4517). The editors note that losses cannot all be identified by title (p. 26), so absence is not proof of non-ownership. *The Mirror of the Invisible* §2.3 was updated with the holdings and the Schubert passages.
+
+---
+
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 45 |
+| **Total Resolved** | 46 |
 | **NDE Domain** | 14 |
 | **BIBL Domain** | 6 |
 | **SWED Domain** | 3 |
 | **CROSS Domain** | 1 |
 | **EARLY Domain** | 2 |
 | **GNOS Domain** | 1 |
-| **GDR Domain** | 15 |
+| **GDR Domain** | 16 |
 | **Critical Priority** | 3 |
 | **High Priority** | 16 |
 | **Medium Priority** | 19 |
-| **Low Priority** | 7 |
+| **Low Priority** | 8 |
 
-**Last Updated**: 2026-10-20
+**Last Updated**: 2026-10-28

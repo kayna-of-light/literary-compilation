@@ -1880,21 +1880,58 @@ Does the song "I'm a Star" (or any dialogue in *Wish*, 2023) contain the words "
 
 ---
 
+### [GDR] *Snow White* (2025) — did anyone on the production model the orchard scenes on *Johnny Appleseed* (1948) or Mary Blair?
+
+**Priority**: MEDIUM
+**Related Documents**: `data/07_Cultural_Pneumatology/The Mirror and the Star_ A Comparative Pneumatology of Disney's Wish and Snow White (2025).md` §4.4 and §8.2; `docs/disney_cumulative_case_map.md` (Strand 1, row "*Snow White* (2025): the orchard and the 1948 *Appleseed* words")
+
+**Context**: *The Mirror and the Star* says Marc Webb and the production design team were "visually citing" the *Appleseed* era, that "his visual direction of the orchard scenes — evoking Mary Blair's *Melody Time* aesthetic — proves" it, and quotes "drifts of pure white snow in an apple orchard" from unnamed "production notes and reviews". None of this was found (2026-10-20): not in the reviews the document cites (InBetweenDrafts, Rotoscopers, Catholic Standard, Reflections, Harvest, Snow White Museum), nor in Webb's Archives interview (Walt Disney Company, 21 Mar 2025), MickeyBlog, the Mandy Walker interview (*The Credits*), *Definition*, or the "Legacy" featurette coverage (AWN, GeekTyrant). What is documented: Walker took the 1937 film's palette and painterly backgrounds as her reference; Jonathan grew from a 1937 sketch of "the prince in the dungeon". The film's words do echo the 1948 lyrics (seed, sharing, "we reap what we sow", "golden sky"); the question is only whether that was directed. The nearest real image is Atkinson's 1915 novel: an orchard in blossom that "lay in snowy drifts and mounds in the moonlighted glade".
+
+**Research Question**:
+Is there any published statement — press kit/production notes, *The Art of Snow White*-type book, featurette, interview with Marc Webb, production designer Kave Quinn, cinematographer Mandy Walker, the VFX supervisors, Erin Cressida Wilson, Greta Gerwig, or Pasek and Paul — that the orchard scenes or the "Good Things Grow" opening were modelled on *Johnny Appleseed* (1948), *Melody Time*, or Mary Blair's work? If yes, quote it with date and speaker. If the phrase "drifts of pure white snow in an apple orchard" appears in any published source, identify it.
+
+**Status**: ✅ RESOLVED
+
+**Date Resolved**: 2026-10-20
+
+**Resolution Summary**: No. Disney's official production notes ("Disney's Snow White — Production Information", 22 pp., Disney press PDF on `lumiere-a.akamaihd.net`) say "the apple orchard" was a set on Pinewood Stage 2. The design sources they name are the 1937 film ("so many iconic elements from the animated film … the Evil Queen's mirror room and balcony … the dwarfs' cottage … the wishing well", Kave Quinn) and German and Swiss castles (Albrechtsburg, Chillon). They say nothing of *Johnny Appleseed*, *Melody Time*, Mary Blair, blossom or snow in the orchard. The published stills and 141 trailer and TV-spot frames show a golden, fruiting orchard. So the report's "production notes" quotation ("drifts of pure white snow in an apple orchard") and the claim that Webb was "visually citing" the *Appleseed* era are not supported, and should be removed or rewritten at the audit of *The Mirror and the Star*. The notes do record one deliberate land-follows-the-ruler choice: the castle gate "is always open when it's the Good Kingdom. Consequently, when the Evil Queen takes over, the gates come down, showing a marked difference in how she rules" (Quinn). The film's verbal echoes of the 1948 lyrics stand, and remain undocumented as a deliberate choice.
+
+---
+
+### [GDR] *The Mirror of the Invisible* §2.3 — did the Brothers Grimm own Swedenborg, Jung-Stilling or Oetinger?
+
+**Related Documents**: `data/07_Cultural_Pneumatology/The Mirror of the Invisible_ Swedenborgian Natural Philosophy and the Romantic Folklore of the Brothers Grimm.md` §2.3
+
+**Priority**: LOW
+
+**Context**: The document now documents that both brothers read Jung-Stilling's *Theorie der Geister-Kunde* (1808) in 1809 — Jacob writes that he has finally obtained "den Stilling" (*Briefwechsel aus der Jugendzeit*, 1881, p. 84) — and that the book gives §§113–118 to Swedenborg. Whether they owned that book, or any work of Swedenborg's, Oetinger's, or Herder's *Adrastea* (1802, with its essay "Emanuel Swedenborg, der größte Geisterseher des achtzehnten Jahrhunderts"), would be settled by the printed catalogue of their library: Ludwig Denecke and Irmgard Teitge, *Die Bibliothek der Brüder Grimm: Annotiertes Verzeichnis des festgestellten Bestandes*, ed. Friedhilde Krause (Weimar: Böhlau / Stuttgart: Hirzel, 1989; reprint De Gruyter 2021). It is not on archive.org, not in the author's Drive, and the only online copy found is a pirated repost, which was not used.
+
+**Research Question**:
+Does Denecke and Teitge's catalogue of the Grimms' library list any work by Swedenborg, Jung-Stilling (especially *Theorie der Geister-Kunde*, 1808, or *Henrich Stillings Jugend*, 1777), Oetinger, or Herder's *Adrastea*? Give catalogue numbers and any annotations (provenance, markings).
+
+**Status**: ✅ RESOLVED
+
+**Date Resolved**: 2026-10-28
+
+**Resolution Summary**: Answered from the catalogue itself (Denecke and Teitge 1989, Weimar: Hermann Böhlaus Nachfolger; the author supplied a copy of the 2021 reprint). The brothers owned Jung-Stilling's *Theorie der Geister-Kunde* (Nürnberg: Raw 1808; no. 5280, accession 42.186, HU Berlin Pp 90050) and its *Apologie der Theorie der Geisterkunde* (Raw 1809; no. 5281, accession 42.222, Pp 90051), with C. F. B. Vischer's pamphlet against the *Theorie* (1809; no. 5282) and *Heinrich Stillings Alter* (Heidelberg 1817; no. 3111, Hessisches Staatsarchiv Marburg). *Henrich Stillings Jugend* (1777) is not recorded. None of these carries the catalogue's asterisks for handwritten marks. They also owned G. H. Schubert's *Die Symbolik des Traumes* (Bamberg 1814; no. 6524) and *Altes und Neues aus dem Gebiet der innren Seelenkunde* (1817–1824; no. 6523, "Früher Bes.-Verm.: Jacob Gr."). *Symbolik des Traumes* names Swedenborg four times (pp. 79, 81, 93–95, 122; pp. 93–95 quote *AC* §§7745–7750 on the spirits of Mars at length). The catalogue lists nothing by Swedenborg or Oetinger and no *Adrastea*; Herder is represented by parts of the Cotta *Sämmtliche Werke* (1805–1807), *Zerstreute Blätter*, *Über Bild, Dichtung und Fabel* and *Lieder der Liebe* (nos. 3114–3117), and by the Forster *Sakuntala* he prefaced (no. 4517). The editors note that losses cannot all be identified by title (p. 26), so absence is not proof of non-ownership. *The Mirror of the Invisible* §2.3 was updated with the holdings and the Schubert passages.
+
+---
+
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 44 |
+| **Total Resolved** | 46 |
 | **NDE Domain** | 14 |
 | **BIBL Domain** | 6 |
 | **SWED Domain** | 3 |
 | **CROSS Domain** | 1 |
 | **EARLY Domain** | 2 |
 | **GNOS Domain** | 1 |
-| **GDR Domain** | 14 |
+| **GDR Domain** | 16 |
 | **Critical Priority** | 3 |
 | **High Priority** | 16 |
-| **Medium Priority** | 18 |
-| **Low Priority** | 7 |
+| **Medium Priority** | 19 |
+| **Low Priority** | 8 |
 
-**Last Updated**: 2026-10-13
+**Last Updated**: 2026-10-28

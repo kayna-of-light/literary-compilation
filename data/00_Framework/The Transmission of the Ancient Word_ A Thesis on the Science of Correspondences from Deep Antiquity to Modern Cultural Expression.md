@@ -866,9 +866,9 @@ Jacob and Wilhelm Grimm collected fairy tales in the early nineteenth century, e
 
 **What the tales exhibit**: The Grimm fairy tales operate according to "theological physics" that mirrors Swedenborg's system precisely:
 
-- **Animate landscapes** — Forests open and close, mountains reveal treasures, briar hedges defend or imprison based on the moral state of the character. This is the World of Spirits, where environment externalizes internal state.
+- **Animate landscapes** — Forests open and close, mountains reveal treasures, briar hedges defend or imprison based on the moral state of the character. This is the spiritual world as Swedenborg describes it, where environment externalizes internal state.
 - **Talking animals** — Not arbitrary magic but Swedenborg's "Zoology of Affection": animals are affections made visible and articulate. The ants in *The Queen Bee* represent industry; the ducks represent natural truths; the bees represent rational wisdom.
-- **Reactive environments** — When the right prince arrives in *Sleeping Beauty*, the thorns transform into flowers "of their own accord." The landscape responds to moral quality, exactly as Swedenborg describes the spiritual world.
+- **Reactive environments** — When the right prince arrives in *Sleeping Beauty* as the hundred years end, the thorns are flowers that part "of their own accord." The landscape responds to the fullness of the state and to the right prince, as Swedenborg describes the spiritual world.
 
 **The quality marker**: The Grimms preserved materials that function correspondentially, suggesting these tales carry genuine ancient content—perhaps fragments of the original system surviving in folk memory.
 
@@ -886,22 +886,20 @@ Hans Christian Andersen (1805-1875) represents a more direct transmission. Ander
 
 ### C. Lewis Carroll: The Correspondence of Nonsense
 
-Lewis Carroll (Charles Dodgson, 1832-1898) owned Swedenborg's major works: *Heaven and Hell*, *Divine Love and Wisdom*, and *Arcana Coelestia*.^[38] His close friendship with George MacDonald—a novelist whose fantasies are demonstrably Swedenborgian—provided interpretive mediation. Carroll was embedded in a circle that included Garth Wilkinson, Swedenborg's primary English translator.
+Lewis Carroll (Charles Dodgson, 1832-1898) owned Emerson's *Representative Men*, with its essay on Swedenborg; Asa Mahan's hostile *Modern Mysteries, Explained and Exposed*, whose fourth part treats the "Clairvoyant Revelations of Emmanuel Swedenborg"; and *The Human Body and its Connexion with Man* (1851) by James John Garth Wilkinson, "the editor of Swedenborg" in Emerson's phrase.^[42] No book of Swedenborg's own is recorded in his library, which is itself only partly catalogued, and he names Swedenborg nowhere in the writings that have been searched. His access was mediated. George MacDonald, the first reader of *Alice*, held the correspondence of inward and outward as his own conviction and named Swedenborg its "European master"; F. D. Maurice, with whom Carroll corresponded on the meaning of "eternal" in 1863, taught that eternity is a state and not a length of time, and Karen Gardiner has traced that teaching through all of Carroll's fiction.^[29] When Carroll himself named a source for the visionary states in *Sylvie and Bruno*, he named Sinnett's *Esoteric Buddhism*.
 
-**The mechanism**: Carroll's "nonsense" is spiritual sense viewed through the distorting lens of the natural intellect. The "madness" of Wonderland is the experience of a natural consciousness encountering the World of Causes, where effect precedes cause (from the natural perspective).
+**The mechanism**: Carroll's worlds follow the rules Swedenborg gives for the spiritual world, on three points that can be checked against the text. Time is the measure of state; place is state; judgement answers to a choice still being made.
 
-*Alice's Adventures in Wonderland* (1865) — Maps the descent into the Corporeal and Sensual degree of the mind:
-- Alice's size fluctuations correspond to Swedenborg's *vastation*—the stripping of external appearances
-- The Caterpillar on the mushroom (fungi = obscure knowledge) asks the ontological question: "Who are you?"
-- The Mad Tea Party is the Hell of the Intellect: time frozen at six o'clock, the trio rotating around the table without progress (change of place without change of heart)
-- The Cheshire Cat's grin without a body is Abstract Thought without Moral Substance—intellect separated from will
+*Alice's Adventures in Wonderland* (1865):
+- The Mad Tea Party is time stopped with a state that has stopped changing: the Hatter's quarrel with Time produces a perpetual six o'clock, and the party goes round the table without advancing. Swedenborg: "instead of years and days there are changes of state" (*Heaven and Hell* §163)
+- The garden behind the little door, which Alice can see but cannot enter until she has brought her own size into order, is the understanding of truth: "a 'garden' signifies intelligence" (*Arcana Coelestia* §§100, 305)
+- The Queen of Hearts' "Sentence first—verdict afterwards" is judgement detached from the act, the reverse of Swedenborg's rule that punishment in the other life is "only on account of the evils that he then does" (*Heaven and Hell* §509)
 
-*Through the Looking-Glass* (1871) — Explores the Rational/Intellectual degree:
-- The inversion mechanic (walking away to approach) mirrors Swedenborg's law that spiritual goals are reached indirectly, turning away from the self
-- The chessboard landscape represents states of the mind, Alice progressing from Pawn to Queen (conjunction of Will and Understanding)
-- The White Queen who screams before she pricks her finger lives in the World of Causes, where state precedes event
+*Through the Looking-Glass* (1871):
+- Alice reaches the Red Queen by walking away from her and runs hard to stay in one place: "change of place is nothing else than change of state", and the way is "lengthened and shortened in accordance with the desire" (*Heaven and Hell* §§192, 195)
+- The White Queen who screams, then bleeds, then pricks her finger, and the King's Messenger punished before his crime, show time running backwards so that suffering comes loose from its cause; Alice's answer, "I *had* done the things I was punished for", is the principle of Carroll's own essay on eternal punishment
 
-**The quality marker**: Carroll constructs coherent correspondential architecture across hundreds of pages. His "riddles" decode into systematic theology. This is not fragmentary preservation but complete systematic access.
+**The quality marker**: Carroll constructs coherent worlds whose rules are Swedenborg's rules for the world of spirits, across four books. His access came through MacDonald and Maurice, and through his own reasoning about eternity, not through Swedenborg's texts. He is a construction-level witness whose route was mediated, and his case shows the content arriving whole by that route.
 
 ### D. Walt Disney: Mass Cultural Transmission
 
@@ -930,7 +928,7 @@ The nineteenth and twentieth centuries thus exhibit a distinctive pattern:
 |--------|---------------------|-------------------|----------|
 | Brothers Grimm | Indirect (Romanticism) | Preservation | Tales decode correspondentially |
 | Hans Christian Andersen | Direct (Copenhagen circle) | Construction | New myths with Platonic precision |
-| Lewis Carroll | Direct (owned texts, MacDonald) | Construction | Coherent architecture across works |
+| Lewis Carroll | Mediated (MacDonald, Maurice); no documented access to Swedenborg's texts | Construction | Coherent architecture across works |
 | Walt Disney | Source material + personnel | Transmission | Mass distribution of correspondential content |
 
 This is not coincidental parallel. These figures either knew Swedenborg's system directly or worked with materials that carried it. The result is not fragmentary struggling but **systematic construction**—the signature of restored access.
@@ -1037,9 +1035,9 @@ Applying these markers across the historical record produces the following gradi
 
 *Quality markers*: Construction of new myths with Platonic precision; known access to Swedenborgian sources.
 
-**Lewis Carroll** — Direct access (owned texts) plus mediated transmission (MacDonald). Construction of coherent correspondential architecture across multiple works.
+**Lewis Carroll** — Mediated transmission (MacDonald, Maurice); his recorded library holds Swedenborg only at second hand. Construction of coherent correspondential architecture across multiple works.
 
-*Quality markers*: Library evidence of Swedenborg ownership; systematic construction ability.
+*Quality markers*: Documented friendships with MacDonald and Maurice; construction ability across four books.
 
 **Brothers Grimm** — Indirect transmission via Romanticism. Preservation of folk materials that exhibit correspondential structure.
 
@@ -1217,7 +1215,7 @@ The argument has been cumulative:
 
 2. **Access to this knowledge is not automatic** — unlike gravity, which operates whether or not we understand it, correspondence requires a **key** to read. That key must be either intuitively perceived (the lost faculty of deep antiquity) or transmitted (taught by those who possess it) or restored through direct spiritual instruction (the prophetic channel).
 
-3. **The historical pattern confirms this** — Complete access produces construction ability (Plato, Jesus, Swedenborg, Andersen, Carroll). Fragmentary access produces preservation without extension, inconsistent interpretation, and deviation from original logic (Neoplatonism, Hermeticism, Alchemy, Kabbalah, Gnosticism). The transition from complete to fragmentary correlates with a specific historical catastrophe (Persepolis 330 BCE), with Jesus representing the last documented practitioner before the full darkness.
+3. **The historical pattern confirms this** — Complete access produces construction ability (Plato, Jesus, Swedenborg, Andersen; and Carroll, whose access came through MacDonald and Maurice rather than through Swedenborg's texts). Fragmentary access produces preservation without extension, inconsistent interpretation, and deviation from original logic (Neoplatonism, Hermeticism, Alchemy, Kabbalah, Gnosticism). The transition from complete to fragmentary correlates with a specific historical catastrophe (Persepolis 330 BCE), with Jesus representing the last documented practitioner before the full darkness.
 
 4. **Swedenborg's restoration is historically anomalous** — After seventeen centuries of fragmentation, one figure demonstrates complete access. This is explicable only if a new channel opened that bypassed the broken tradition.
 
@@ -1295,7 +1293,7 @@ The key is available again. The question is whether we will use it.
 26. Nunn, Patrick D., and Nicholas J. Reid. "Aboriginal Memories of Inundation of the Australian Coast Dating from More than 7000 Years Ago." *Australian Geographer* 47, no. 1 (2016): 11–47.
 27. Zipes, Jack. *The Brothers Grimm: From Enchanted Forests to the Modern World*. New York: Palgrave Macmillan, 2002.
 28. Wullschläger, Jackie. *Hans Christian Andersen: The Life of a Storyteller*. Chicago: University of Chicago Press, 2002.
-29. Gardiner, Karen. "Theology within the Nonsense: Lewis Carroll and the Eschatology of State." PhD diss., University of Bristol, 2018.
+29. Gardiner, Karen. "A New Evaluation: The Theological Influence of F. D. Maurice on the Imaginative Works of Lewis Carroll." PhD thesis, University of Nottingham, 2023.
 30. [The Lithic Scripture: A Hermeneutic Reconstruction of the Ancient Word through the Doctrine of Correspondences and Paleolithic Iconography](../06_Mythological_Studies/The%20Lithic%20Scripture_%20A%20Hermeneutic%20Reconstruction%20of%20the%20Ancient%20Word%20through%20the%20Doctrine%20of%20Correspondences%20and%20Paleolithic%20Iconography.md)
 31. [The Magian Cosmos: A Comprehensive Analysis of the Principle of Correspondences in Ancient Iranian Religion and Its Esoteric Legacy](../02_Swedenborgian_Theology/The%20Magian%20Cosmos_%20A%20Comprehensive%20Analysis%20of%20the%20Principle%20of%20Correspondences%20in%20Ancient%20Iranian%20Religion%20and%20Its%20Esoteric%20Legacy.md)
 32. [The Archival Rupture: Alexander, Aristotle, and the Philosophical Purge of the Magian Encyclopedia](../06_Mythological_Studies/The%20Archival%20Rupture_%20Alexander%2C%20Aristotle%2C%20and%20the%20Philosophical%20Purge%20of%20the%20Magian%20Encyclopedia.md)

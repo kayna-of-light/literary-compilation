@@ -1,0 +1,12 @@
+# Source 005 — George MacDonald on Swedenborg, in his own books
+
+**Texts searched**: the 71 MacDonald titles on Project Gutenberg (author "MacDonald, George", 1824–1905), full text, 2026-10-23. Nine name Swedenborg.
+
+## The passages that matter
+- ***England's Antiphon*** (London: Macmillan, [1868]; Gutenberg 10375), on the mystical poets: "They use the largest figures for the largest spiritual ideas—*light* for *good*, *darkness* for *evil*. Such symbols are the true bodies of the true ideas. For this service mainly what we term *nature* was called into being, namely, to furnish forms for truths, for without form truth cannot be uttered. Having found their symbols, these writers next proceed to use them logically; and here begins the peculiar danger. When the logic leaves the poetry behind, it grows first presumptuous, then hard, then narrow and untrue to the original breadth of the symbol; the glory of the symbol vanishes; and the final result is a worship of the symbol, which has withered into an apple of Sodom. Witness some of the writings of the European master of the order—Swedenborg: the highest of them are rich in truth; the lowest are poverty-stricken indeed."
+- ***Malcolm*** (London: Henry S. King, 1875; Gutenberg 7127), of a character: "Without having read a word of Swedenborg, he was a believer in the absolute correspondence of the inward and outward".
+- ***Adela Cathcart*** (London: Hurst and Blackett, 1864; Gutenberg 8892), the narrator: "having many years ago formed the Swedenborgian resolution of never growing old" (cf. *HH* §414, source_011).
+- Passing references to "Swedenborg's hells" (*Alec Forbes*, *Robert Falconer*, *Adela Cathcart* vol. 2, *Malcolm*, *The Marquis of Lossie*); in *Unspoken Sermons* (third series) the Apocalypse's mysticism is "reminding one … of the mysticism of Swedenborg"; in *The Elect Lady* a character once took the hero for "a Swedenborgian".
+
+## Why it matters
+This is MacDonald, Carroll's closest literary friend, in his own words: he knew Swedenborg's writings, held that nature exists "to furnish forms for truths" (the correspondence idea, stated as his own), and named Swedenborg its "European master" — while warning that logic applied to symbols can harden into "a worship of the symbol". It establishes that the correspondential idea was present, articulated and associated with Swedenborg in Carroll's nearest circle. It does not show that Carroll took it up.

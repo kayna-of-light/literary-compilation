@@ -313,7 +313,7 @@ The Brothers Grimm were not isolated folklore collectors but active participants
 
 Schelling's engagement with Swedenborg was profound and documented. The Swabian pietist Friedrich Christoph Oetinger corresponded directly with Swedenborg (Johnson 2002), and Schelling was "an avid reader of Böhme and Oetinger" (Magee 2001); through this line Schelling absorbed the Doctrine of Correspondences and integrated it into German Idealism. Friedemann Horn's study *Schelling and Swedenborg* traces Swedenborg's presence in Schelling's philosophy (Horn 1997).
 
-The Grimms shared the Romantic conviction that folk tales were *Naturpoesie*—shattered fragments of an ancient, organic revelation that mirrored the workings of nature itself. Wilhelm Grimm wrote that common to all the tales are "the remnants of a belief reaching back to the oldest times, which expresses itself in a figurative grasp of supersensible things" (W. Grimm 1819)—a view of ancient revelation surviving in figurative form that Swedenborg himself held in describing the "Ancient Church," which possessed the science of correspondences.
+The Grimms shared the Romantic conviction that folk tales were *Naturpoesie*—shattered fragments of an ancient, organic revelation that mirrored the workings of nature itself. Wilhelm Grimm wrote in 1850 that common to all the tales are "the remnants of a belief reaching back to the oldest times, which expresses itself in a figurative grasp of supersensible things" (W. Grimm 1856, 409)—a view of ancient revelation surviving in figurative form that Swedenborg himself held in describing the "Ancient Church," which possessed the science of correspondences.
 
 The result: in Grimm's fairy tales, the landscape is never a passive backdrop. It is a "moral mirror" that reflects the internal state of the protagonist:
 
@@ -737,7 +737,7 @@ The tradition is not accidental. It was deliberate from the beginning. The found
 9. Graham, Don. "Animation of Forces vs. Animation of Forms as an Approach to Animation … Live Action Fall." Class on Action Analysis, Walt Disney Studio, June 21, 1937. Typescript transcript, collection of Hans Perk. Published at *A. Film L.A.*, March 2, 2009. http://afilmla.blogspot.com/2009/03/animating-forms-vs-forces-action.html.
 10. Grimm, Jacob, and Wilhelm Grimm. "Sneewittchen." In *Kinder- und Haus-Märchen*, 7th ed., 1:264–273. Göttingen: Dieterich, 1857.
 11. Grimm, Jacob, and Wilhelm Grimm. *Household Tales.* Translated by Margaret Hunt. 2 vols. London: George Bell and Sons, 1884.
-12. Grimm, Wilhelm. "Über das Wesen der Märchen." In *Kinder- und Haus-Märchen*, 2nd ed., vol. 1. Berlin: G. Reimer, 1819.
+12. Grimm, Wilhelm. Essay on the literature of the tales, first printed in vol. 1 of the 1850 edition. In *Kinder- und Hausmärchen gesammelt durch die Brüder Grimm*, vol. 3. Göttingen: Dieterich, 1856.
 13. Haley, W. D. "Johnny Appleseed: A Pioneer Hero." *Harper's New Monthly Magazine* 43, no. 258 (November 1871): 830–836.
 14. *Johnny Appleseed.* Dennis Day. Story adaptation by Winston Hibler. RCA Victor "Little Nipper" album Y-390. Text © Walt Disney Productions, 1949.
 15. Maurice, Frederick Denison. *Theological Essays.* Cambridge: Macmillan, 1853.

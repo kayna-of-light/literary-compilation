@@ -40,8 +40,9 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > *Die Ehenschmiede* (Hanser 1965, vol. 3, p. 533; first printed 1839 in the *Sämmtliche Werke* whose title page names
 > Wilhelm Grimm as editor — but Mallon: Wilhelm wrote only the preface, Bettina chose the texts, p. 806). Ironic, as is
 > *Landhausleben* (p. 300): never cite either as Arnim holding Swedenborg's doctrine. Schubert's *Altes und Neues* vol. 1
-> (1817) never names Swedenborg. Remaining lead: Herder's *Adrastea* essay (1802; psychological reading; not in the
-> Grimms' catalogue).
+> (1817) never names Swedenborg. §2.3 now states the two levels: the brothers' own reading (Stilling 1809, the
+> catalogue) is **documented**; the circle (Arnim, Görres, Schelling, Schubert, Herder's *Adrastea*; still no Brentano) is
+> **inferred** — keep that labelling at every touch. *Adrastea* lead closed by the author's decision: circle level only.
 >
 > **Corrected 2026-10-26 (second nightly), check before relying on older wording anywhere**: quote Andersen only from
 > Hersholt (`andersen.sdu.dk/vaerk/hersholt/<Title>_e.html`). In "The Girl Who Trod on the Loaf" a **child** weeps for

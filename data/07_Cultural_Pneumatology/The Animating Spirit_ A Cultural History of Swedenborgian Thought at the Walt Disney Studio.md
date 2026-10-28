@@ -318,7 +318,7 @@ The Grimms shared the Romantic conviction that folk tales were *Naturpoesie*—s
 The result: in Grimm's fairy tales, the landscape is never a passive backdrop. It is a "moral mirror" that reflects the internal state of the protagonist:
 
 - **The Forest**: In Swedenborgian correspondence, "forests" signify "the memory-knowledge which is of the natural man" (*Arcana Coelestia* §10644)—dense, entangled, obscured from spiritual light. When Hansel and Gretel, who live "hard by a great forest," are abandoned in it, they enter the state of temptation (Grimm and Grimm 1884).
-- **The Briar Hedge**: In *Sleeping Beauty*, the hedge of thorns corresponds to the "falsities of evil" that block the unregenerate: "'Thorns,' 'briers,' 'brambles,' and 'thistles,' also signify falsities of evil, from their stings" (*Apocalypse Revealed* §439). When the true Prince arrives at the appointed time, the hedge is "nothing but large and beautiful flowers, which parted from each other of their own accord" (Grimm and Grimm 1884), when "the hundred years had just passed"—the landscape answering the moral timing of the state, which cannot be forced.
+- **The Briar Hedge**: In *Sleeping Beauty*, the hedge of thorns corresponds to the "falsities of evil" that block the unregenerate: "'Thorns,' 'briers,' 'brambles,' and 'thistles,' also signify falsities of evil, from their stings" (*Apocalypse Revealed* §439). When the true Prince arrives at the appointed time, the hedge is "nothing but large and beautiful flowers, which parted from each other of their own accord" (Grimm and Grimm 1884), when "the hundred years had just passed"—the landscape answering the fullness of the time and the right visitor: the thorns give way, as the Grimms' own note puts it, "before the right king's son" (Grimm and Grimm 1822); it never yields to force.
 - **Talking Animals**: Swedenborg taught that "the animals of the earth correspond in general to affection, mild and useful animals to good affections, fierce and useless ones to evil affections" (*Heaven and Hell* §110). In *The Queen Bee*, the ants, ducks, and bees serve the protagonist because he protected them—his innocent will commanding the affections of nature (Grimm and Grimm 1884).
 
 The first links of the transmission path are documented (Swedenborg → Oetinger → Schelling), and the Grimms worked within the Romantic movement that Schelling's philosophy shaped. When Disney adapted Grimm, the studio inherited stories already structured according to correspondential logic—stories where environments respond to internal states, where animals embody affections, where the physics of the universe are moral physics.
@@ -737,95 +737,96 @@ The tradition is not accidental. It was deliberate from the beginning. The found
 9. Graham, Don. "Animation of Forces vs. Animation of Forms as an Approach to Animation … Live Action Fall." Class on Action Analysis, Walt Disney Studio, June 21, 1937. Typescript transcript, collection of Hans Perk. Published at *A. Film L.A.*, March 2, 2009. http://afilmla.blogspot.com/2009/03/animating-forms-vs-forces-action.html.
 10. Grimm, Jacob, and Wilhelm Grimm. "Sneewittchen." In *Kinder- und Haus-Märchen*, 7th ed., 1:264–273. Göttingen: Dieterich, 1857.
 11. Grimm, Jacob, and Wilhelm Grimm. *Household Tales.* Translated by Margaret Hunt. 2 vols. London: George Bell and Sons, 1884.
-12. Grimm, Wilhelm. Essay on the literature of the tales, first printed in vol. 1 of the 1850 edition. In *Kinder- und Hausmärchen gesammelt durch die Brüder Grimm*, vol. 3. Göttingen: Dieterich, 1856.
-13. Haley, W. D. "Johnny Appleseed: A Pioneer Hero." *Harper's New Monthly Magazine* 43, no. 258 (November 1871): 830–836.
-14. *Johnny Appleseed.* Dennis Day. Story adaptation by Winston Hibler. RCA Victor "Little Nipper" album Y-390. Text © Walt Disney Productions, 1949.
-15. Maurice, Frederick Denison. *Theological Essays.* Cambridge: Macmillan, 1853.
-16. *The Messenger* (Swedenborgian Church). February 1974. https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf.
-17. Schelling, F. W. J. *Ideen zu einer Philosophie der Natur.* Leipzig: Breitkopf und Härtel, 1797.
-18. Sullivan, Louis H. "The Tall Office Building Artistically Considered." *Lippincott's Monthly Magazine* 57 (March 1896): 403–409.
-19. Swedenborg, Emanuel. *Apocalypse Revealed*. Translated by John Whitehead. Standard Edition. 2 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-20. Swedenborg, Emanuel. *Arcana Coelestia*. Translated by John Clowes, revised and edited by John Faulkner Potts. Standard Edition. 12 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-21. Swedenborg, Emanuel. *Divine Providence* (*Angelic Wisdom concerning Divine Providence*). Translated by William F. Wunsch. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-22. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+12. Grimm, Jacob, and Wilhelm Grimm. *Kinder- und Haus-Märchen.* Vol. 3. Berlin: G. Reimer, 1822.
+13. Grimm, Wilhelm. Essay on the literature of the tales, first printed in vol. 1 of the 1850 edition. In *Kinder- und Hausmärchen gesammelt durch die Brüder Grimm*, vol. 3. Göttingen: Dieterich, 1856.
+14. Haley, W. D. "Johnny Appleseed: A Pioneer Hero." *Harper's New Monthly Magazine* 43, no. 258 (November 1871): 830–836.
+15. *Johnny Appleseed.* Dennis Day. Story adaptation by Winston Hibler. RCA Victor "Little Nipper" album Y-390. Text © Walt Disney Productions, 1949.
+16. Maurice, Frederick Denison. *Theological Essays.* Cambridge: Macmillan, 1853.
+17. *The Messenger* (Swedenborgian Church). February 1974. https://swedenborg.org/wp-content/uploads/2023/01/1974-02-Messenger.pdf.
+18. Schelling, F. W. J. *Ideen zu einer Philosophie der Natur.* Leipzig: Breitkopf und Härtel, 1797.
+19. Sullivan, Louis H. "The Tall Office Building Artistically Considered." *Lippincott's Monthly Magazine* 57 (March 1896): 403–409.
+20. Swedenborg, Emanuel. *Apocalypse Revealed*. Translated by John Whitehead. Standard Edition. 2 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+21. Swedenborg, Emanuel. *Arcana Coelestia*. Translated by John Clowes, revised and edited by John Faulkner Potts. Standard Edition. 12 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+22. Swedenborg, Emanuel. *Divine Providence* (*Angelic Wisdom concerning Divine Providence*). Translated by William F. Wunsch. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+23. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
 
 **Scholarly Works:**
 
-23. Albanese, Catherine L. *A Republic of Mind and Spirit: A Cultural History of American Metaphysical Religion.* New Haven: Yale University Press, 2007.
-24. Barrier, Michael. *Hollywood Cartoons: American Animation in Its Golden Age.* New York: Oxford University Press, 1999.
-25. Barrier, Michael. *The Animated Man: A Life of Walt Disney.* Berkeley: University of California Press, 2007.
-26. Beiman, Nancy. "The Animated Tramp: Charlie Chaplin's Influence on American Animation." Conference paper, Fondazione Cineteca di Bologna, 2014. http://fondazione.cinetecadibologna.it/files/festival/Sotto_le_stelle/2014/100charlot/atti/beiman.
-27. Canemaker, John. *The Art and Flair of Mary Blair: An Appreciation.* Updated ed. New York: Disney Editions, 2014.
-28. Carmer, Carl. *Listen for a Lonesome Drum: A York State Chronicle.* New York: Farrar & Rinehart, 1936.
-29. Carmer, Carl. *The Hurricane's Children: Tales from Your Neck o' the Woods.* New York: Farrar & Rinehart, 1937.
-30. Carmer, Carl. *Dark Trees to the Wind: A Cycle of York State Years.* New York: William Sloane Associates, 1949.
-31. Carmer, Carl. *The Farm Boy and the Angel.* Garden City, NY: Doubleday, 1970.
-32. Collingwood, Stuart Dodgson. *The Life and Letters of Lewis Carroll (Rev. C. L. Dodgson).* London: T. Fisher Unwin, 1898.
-33. Cross, Whitney R. *The Burned-over District: The Social and Intellectual History of Enthusiastic Religion in Western New York, 1800–1850.* Ithaca, NY: Cornell University Press, 1950.
-34. Deja, Andreas. *The Nine Old Men: Lessons, Techniques, and Inspiration from Disney's Great Animators.* New York: Routledge, 2015.
-35. Gabler, Neal. *Walt Disney: The Triumph of the American Imagination.* New York: Knopf, 2006.
-36. Gadassik, Alla. "Assembling Movement: Scientific Motion Analysis and Studio Animation Practice." *Discourse* 37, no. 3 (2015): 269–297.
-37. Gardiner, Karen. "A New Evaluation: The Theological Influence of F. D. Maurice on the Imaginative Works of Lewis Carroll." PhD thesis, University of Nottingham, 2023.
-38. Garff, Joakim. *Søren Kierkegaard: A Biography.* Princeton: Princeton University Press, 2005.
-39. Horn, Friedemann. *Schelling and Swedenborg.* Translated by George F. Dole. West Chester, PA: Swedenborg Foundation, 1997.
-40. Johnson, Gregory R., ed. *Kant on Swedenborg: Dreams of a Spirit-Seer and Other Writings.* West Chester, PA: Swedenborg Foundation, 2002.
-41. Karlstrom, Paul J., ed. *On the Edge of America: California Modernist Art, 1900–1950.* Berkeley: University of California Press, 1996.
-42. Larson, Martin A. *New Thought, or, A Modern Religious Approach: The Philosophy of Health, Happiness, and Prosperity.* New York: Philosophical Library, 1985.
-43. Lovett, Charles C. *Lewis Carroll among His Books: A Descriptive Catalogue of the Private Library of Charles L. Dodgson.* Jefferson, NC: McFarland, 2005.
-44. Magee, Glenn Alexander. *Hegel and the Hermetic Tradition.* Ithaca, NY: Cornell University Press, 2001.
-45. Means, Howard. *Johnny Appleseed: The Man, the Myth, the American Story.* New York: Simon & Schuster, 2011.
-46. Menocal, Narciso G. *Architecture as Nature: The Transcendentalist Idea of Louis Sullivan.* Madison: University of Wisconsin Press, 1981.
-47. Reis, Richard H. *George MacDonald.* New York: Twayne, 1972.
-48. Smith, Dave. *Disney A to Z: The Official Encyclopedia.* New York: Hyperion, 1996.
-49. Solomon, Charles. *The Disney That Never Was: The Stories and Art from Five Decades of Unproduced Animation.* New York: Hyperion, 1995.
-50. Solomon, Charles. "Chanticleer." In *Marc Davis: Walt Disney's Renaissance Man.* New York: Disney Editions, 2014.
-51. Stanchfield, Walt. *Drawn to Life: 20 Golden Years of Disney Master Classes.* Edited by Don Hahn. 2 vols. Burlington, MA: Focal Press, 2009.
-52. Thomas, Bob. *Disney's Art of Animation: From Mickey Mouse to Hercules.* New York: Hyperion, 1997.
-53. Thomas, Frank, and Ollie Johnston. *The Illusion of Life: Disney Animation.* New York: Abbeville Press, 1981.
-54. Zipes, Jack, trans. *The Complete Fairy Tales of the Brothers Grimm.* Toronto and New York: Bantam, 1987.
+24. Albanese, Catherine L. *A Republic of Mind and Spirit: A Cultural History of American Metaphysical Religion.* New Haven: Yale University Press, 2007.
+25. Barrier, Michael. *Hollywood Cartoons: American Animation in Its Golden Age.* New York: Oxford University Press, 1999.
+26. Barrier, Michael. *The Animated Man: A Life of Walt Disney.* Berkeley: University of California Press, 2007.
+27. Beiman, Nancy. "The Animated Tramp: Charlie Chaplin's Influence on American Animation." Conference paper, Fondazione Cineteca di Bologna, 2014. http://fondazione.cinetecadibologna.it/files/festival/Sotto_le_stelle/2014/100charlot/atti/beiman.
+28. Canemaker, John. *The Art and Flair of Mary Blair: An Appreciation.* Updated ed. New York: Disney Editions, 2014.
+29. Carmer, Carl. *Listen for a Lonesome Drum: A York State Chronicle.* New York: Farrar & Rinehart, 1936.
+30. Carmer, Carl. *The Hurricane's Children: Tales from Your Neck o' the Woods.* New York: Farrar & Rinehart, 1937.
+31. Carmer, Carl. *Dark Trees to the Wind: A Cycle of York State Years.* New York: William Sloane Associates, 1949.
+32. Carmer, Carl. *The Farm Boy and the Angel.* Garden City, NY: Doubleday, 1970.
+33. Collingwood, Stuart Dodgson. *The Life and Letters of Lewis Carroll (Rev. C. L. Dodgson).* London: T. Fisher Unwin, 1898.
+34. Cross, Whitney R. *The Burned-over District: The Social and Intellectual History of Enthusiastic Religion in Western New York, 1800–1850.* Ithaca, NY: Cornell University Press, 1950.
+35. Deja, Andreas. *The Nine Old Men: Lessons, Techniques, and Inspiration from Disney's Great Animators.* New York: Routledge, 2015.
+36. Gabler, Neal. *Walt Disney: The Triumph of the American Imagination.* New York: Knopf, 2006.
+37. Gadassik, Alla. "Assembling Movement: Scientific Motion Analysis and Studio Animation Practice." *Discourse* 37, no. 3 (2015): 269–297.
+38. Gardiner, Karen. "A New Evaluation: The Theological Influence of F. D. Maurice on the Imaginative Works of Lewis Carroll." PhD thesis, University of Nottingham, 2023.
+39. Garff, Joakim. *Søren Kierkegaard: A Biography.* Princeton: Princeton University Press, 2005.
+40. Horn, Friedemann. *Schelling and Swedenborg.* Translated by George F. Dole. West Chester, PA: Swedenborg Foundation, 1997.
+41. Johnson, Gregory R., ed. *Kant on Swedenborg: Dreams of a Spirit-Seer and Other Writings.* West Chester, PA: Swedenborg Foundation, 2002.
+42. Karlstrom, Paul J., ed. *On the Edge of America: California Modernist Art, 1900–1950.* Berkeley: University of California Press, 1996.
+43. Larson, Martin A. *New Thought, or, A Modern Religious Approach: The Philosophy of Health, Happiness, and Prosperity.* New York: Philosophical Library, 1985.
+44. Lovett, Charles C. *Lewis Carroll among His Books: A Descriptive Catalogue of the Private Library of Charles L. Dodgson.* Jefferson, NC: McFarland, 2005.
+45. Magee, Glenn Alexander. *Hegel and the Hermetic Tradition.* Ithaca, NY: Cornell University Press, 2001.
+46. Means, Howard. *Johnny Appleseed: The Man, the Myth, the American Story.* New York: Simon & Schuster, 2011.
+47. Menocal, Narciso G. *Architecture as Nature: The Transcendentalist Idea of Louis Sullivan.* Madison: University of Wisconsin Press, 1981.
+48. Reis, Richard H. *George MacDonald.* New York: Twayne, 1972.
+49. Smith, Dave. *Disney A to Z: The Official Encyclopedia.* New York: Hyperion, 1996.
+50. Solomon, Charles. *The Disney That Never Was: The Stories and Art from Five Decades of Unproduced Animation.* New York: Hyperion, 1995.
+51. Solomon, Charles. "Chanticleer." In *Marc Davis: Walt Disney's Renaissance Man.* New York: Disney Editions, 2014.
+52. Stanchfield, Walt. *Drawn to Life: 20 Golden Years of Disney Master Classes.* Edited by Don Hahn. 2 vols. Burlington, MA: Focal Press, 2009.
+53. Thomas, Bob. *Disney's Art of Animation: From Mickey Mouse to Hercules.* New York: Hyperion, 1997.
+54. Thomas, Frank, and Ollie Johnston. *The Illusion of Life: Disney Animation.* New York: Abbeville Press, 1981.
+55. Zipes, Jack, trans. *The Complete Fairy Tales of the Brothers Grimm.* Toronto and New York: Bantam, 1987.
 
 **Internal Library Documents:**
 
-55. [The Animating Spirit: An Exhaustive Analysis of Swedenborgian Correspondences in the Cinematic Universe of Walt Disney](The%20Animating%20Spirit_%20An%20Exhaustive%20Analysis%20of%20Swedenborgian%20Correspondences%20in%20the%20Cinematic%20Universe%20of%20Walt%20Disney.md). The film-by-film correspondential reading of the canon that § VIII summarizes.
-56. [The Apple and the Angel: An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's *The Legend of Johnny Appleseed*](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md). The library's study of *Johnny Appleseed*: the Murdoch–Adelquist correspondence, the angel as a departed human, and the "Blessings Three."
-57. [The Carriers of the Invisible: A Personnel History of Swedenborgian Thought in the Walt Disney Studio](The%20Carriers%20of%20the%20Invisible_%20A%20Personnel%20History%20of%20Swedenborgian%20Thought%20in%20the%20Walt%20Disney%20Studio.md). The personnel history behind § 6.2: Blair, Carmer and the Wright connection.
-58. [The Celestial Botany of the Fairy Tale: A Pneumatological Exegesis of Swedenborgian Architectonics in the Narrative Cosmos of Hans Christian Andersen](The%20Celestial%20Botany%20of%20the%20Fairy%20Tale_%20A%20Pneumatological%20Exegesis%20of%20Swedenborgian%20Architectonics%20in%20the%20Narrative%20Cosmos%20of%20Hans%20Christian%20Andersen.md). The correspondential reading of Andersen's tales summarized in § 5.2.
-59. [The Crisis of Ensoulment: A Pneumatological and Historiographical Exegesis of the Disney Shift (1932–1937)](The%20Crisis%20of%20Ensoulment_%20A%20Pneumatological%20and%20Historiographical%20Exegesis%20of%20the%20Disney%20Shift%20%281932%E2%80%931937%29.md). The full treatment of the rubber-hose ceiling and the studio's turn to interiority on which § II draws.
-60. [The Crown and the Comedy: The Fairy Tale Canon as the Pneumatological Core of the Walt Disney Studio](The%20Crown%20and%20the%20Comedy_%20The%20Fairy%20Tale%20Canon%20as%20the%20Pneumatological%20Core%20of%20the%20Walt%20Disney%20Studio.md). The canon hierarchy, the Renaissance pattern and the *Wish*/*Snow White* (2025) contrast developed in § VIII.
-61. [The Diffracted Light: From Universal Correspondence to Cultural Metaphor in the Disney Studio](The%20Diffracted%20Light_%20From%20Universal%20Correspondence%20to%20Cultural%20Metaphor%20in%20the%20Disney%20Studio.md). The correspondential reading of the castle in *Beauty and the Beast* as the Beast's state made visible.
-62. [The Inverted Influx: The Profanation of Correspondence and the Deification of Self in Disney's *Wish*](The%20Inverted%20Influx_%20The%20Profanation%20of%20Correspondence%20and%20the%20Deification%20of%20Self%20in%20Disney's%20Wish.md). The analysis of *Wish* as an inversion of influx, from the star above to "stardust" within.
-63. [The Law of Correspondence in the Arts of Expression: From Swedenborg through Delsarte's American Expositors to the Disney Studio](The%20Law%20of%20Correspondence%20in%20the%20Arts%20of%20Expression_%20From%20Swedenborg%20through%20Delsarte's%20American%20Expositors%20to%20the%20Disney%20Studio.md). The documented route of the Action Analysis method through Delsarte's American expositors, Volkonsky and Stanislavsky, which narrows the evidentiary gap of § 4.4.
-64. [The Looking-Glass of Theology: A Systematic Reconstruction of Swedenborgian Correspondence in the Narrative Architecture of Lewis Carroll](The%20Looking-Glass%20of%20Theology_%20A%20Systematic%20Reconstruction%20of%20Swedenborgian%20Correspondence%20in%20the%20Narrative%20Architecture%20of%20Lewis%20Carroll.md). The correspondential reading of Carroll summarized in § 5.3.
-65. [The Mechanics of the Soul: Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio](The%20Mechanics%20of%20the%20Soul_%20Don%20Graham,%20Action%20Analysis,%20and%20the%20Secularization%20of%20Swedenborgian%20Influx%20at%20the%20Walt%20Disney%20Studio.md). The full text of the 1935 memo and Graham's Action Analysis classes read as a secularized doctrine of influx (§ IV).
-66. [The Mirror and the Star: A Comparative Pneumatology of Disney's *Wish* and *Snow White* (2025)](The%20Mirror%20and%20the%20Star_%20A%20Comparative%20Pneumatology%20of%20Disney's%20Wish%20and%20Snow%20White%20%282025%29.md). The reading of "Waiting on a Wish" and the 2025 *Snow White* as a return to the vertical structure.
-67. [The Mirror and the Void: An Archival and Pneumatological Exegesis of the Rejected Adaptations of the Walt Disney Studio](The%20Mirror%20and%20the%20Void_%20An%20Archival%20and%20Pneumatological%20Exegesis%20of%20the%20Rejected%20Adaptations%20of%20the%20Walt%20Disney%20Studio.md). The development histories of *Don Quixote*, *Chanticleer*, *The Odyssey* and *Mort* behind § VII.
-68. [The Mirror of the Invisible: Swedenborgian Natural Philosophy and the Romantic Folklore of the Brothers Grimm](The%20Mirror%20of%20the%20Invisible_%20Swedenborgian%20Natural%20Philosophy%20and%20the%20Romantic%20Folklore%20of%20the%20Brothers%20Grimm.md). The correspondential reading of the Grimm tales summarized in § 5.1.
+56. [The Animating Spirit: An Exhaustive Analysis of Swedenborgian Correspondences in the Cinematic Universe of Walt Disney](The%20Animating%20Spirit_%20An%20Exhaustive%20Analysis%20of%20Swedenborgian%20Correspondences%20in%20the%20Cinematic%20Universe%20of%20Walt%20Disney.md). The film-by-film correspondential reading of the canon that § VIII summarizes.
+57. [The Apple and the Angel: An Exhaustive Investigation into the Erasure, Translation, and Persistence of Swedenborgian Theology in Walt Disney's *The Legend of Johnny Appleseed*](The%20Apple%20and%20the%20Angel_%20An%20Exhaustive%20Investigation%20into%20the%20Erasure%2C%20Translation%2C%20and%20Persistence%20of%20Swedenborgian%20Theology%20in%20Walt%20Disney%E2%80%99s%20The.md). The library's study of *Johnny Appleseed*: the Murdoch–Adelquist correspondence, the angel as a departed human, and the "Blessings Three."
+58. [The Carriers of the Invisible: A Personnel History of Swedenborgian Thought in the Walt Disney Studio](The%20Carriers%20of%20the%20Invisible_%20A%20Personnel%20History%20of%20Swedenborgian%20Thought%20in%20the%20Walt%20Disney%20Studio.md). The personnel history behind § 6.2: Blair, Carmer and the Wright connection.
+59. [The Celestial Botany of the Fairy Tale: A Pneumatological Exegesis of Swedenborgian Architectonics in the Narrative Cosmos of Hans Christian Andersen](The%20Celestial%20Botany%20of%20the%20Fairy%20Tale_%20A%20Pneumatological%20Exegesis%20of%20Swedenborgian%20Architectonics%20in%20the%20Narrative%20Cosmos%20of%20Hans%20Christian%20Andersen.md). The correspondential reading of Andersen's tales summarized in § 5.2.
+60. [The Crisis of Ensoulment: A Pneumatological and Historiographical Exegesis of the Disney Shift (1932–1937)](The%20Crisis%20of%20Ensoulment_%20A%20Pneumatological%20and%20Historiographical%20Exegesis%20of%20the%20Disney%20Shift%20%281932%E2%80%931937%29.md). The full treatment of the rubber-hose ceiling and the studio's turn to interiority on which § II draws.
+61. [The Crown and the Comedy: The Fairy Tale Canon as the Pneumatological Core of the Walt Disney Studio](The%20Crown%20and%20the%20Comedy_%20The%20Fairy%20Tale%20Canon%20as%20the%20Pneumatological%20Core%20of%20the%20Walt%20Disney%20Studio.md). The canon hierarchy, the Renaissance pattern and the *Wish*/*Snow White* (2025) contrast developed in § VIII.
+62. [The Diffracted Light: From Universal Correspondence to Cultural Metaphor in the Disney Studio](The%20Diffracted%20Light_%20From%20Universal%20Correspondence%20to%20Cultural%20Metaphor%20in%20the%20Disney%20Studio.md). The correspondential reading of the castle in *Beauty and the Beast* as the Beast's state made visible.
+63. [The Inverted Influx: The Profanation of Correspondence and the Deification of Self in Disney's *Wish*](The%20Inverted%20Influx_%20The%20Profanation%20of%20Correspondence%20and%20the%20Deification%20of%20Self%20in%20Disney's%20Wish.md). The analysis of *Wish* as an inversion of influx, from the star above to "stardust" within.
+64. [The Law of Correspondence in the Arts of Expression: From Swedenborg through Delsarte's American Expositors to the Disney Studio](The%20Law%20of%20Correspondence%20in%20the%20Arts%20of%20Expression_%20From%20Swedenborg%20through%20Delsarte's%20American%20Expositors%20to%20the%20Disney%20Studio.md). The documented route of the Action Analysis method through Delsarte's American expositors, Volkonsky and Stanislavsky, which narrows the evidentiary gap of § 4.4.
+65. [The Looking-Glass of Theology: A Systematic Reconstruction of Swedenborgian Correspondence in the Narrative Architecture of Lewis Carroll](The%20Looking-Glass%20of%20Theology_%20A%20Systematic%20Reconstruction%20of%20Swedenborgian%20Correspondence%20in%20the%20Narrative%20Architecture%20of%20Lewis%20Carroll.md). The correspondential reading of Carroll summarized in § 5.3.
+66. [The Mechanics of the Soul: Don Graham, Action Analysis, and the Secularization of Swedenborgian Influx at the Walt Disney Studio](The%20Mechanics%20of%20the%20Soul_%20Don%20Graham,%20Action%20Analysis,%20and%20the%20Secularization%20of%20Swedenborgian%20Influx%20at%20the%20Walt%20Disney%20Studio.md). The full text of the 1935 memo and Graham's Action Analysis classes read as a secularized doctrine of influx (§ IV).
+67. [The Mirror and the Star: A Comparative Pneumatology of Disney's *Wish* and *Snow White* (2025)](The%20Mirror%20and%20the%20Star_%20A%20Comparative%20Pneumatology%20of%20Disney's%20Wish%20and%20Snow%20White%20%282025%29.md). The reading of "Waiting on a Wish" and the 2025 *Snow White* as a return to the vertical structure.
+68. [The Mirror and the Void: An Archival and Pneumatological Exegesis of the Rejected Adaptations of the Walt Disney Studio](The%20Mirror%20and%20the%20Void_%20An%20Archival%20and%20Pneumatological%20Exegesis%20of%20the%20Rejected%20Adaptations%20of%20the%20Walt%20Disney%20Studio.md). The development histories of *Don Quixote*, *Chanticleer*, *The Odyssey* and *Mort* behind § VII.
+69. [The Mirror of the Invisible: Swedenborgian Natural Philosophy and the Romantic Folklore of the Brothers Grimm](The%20Mirror%20of%20the%20Invisible_%20Swedenborgian%20Natural%20Philosophy%20and%20the%20Romantic%20Folklore%20of%20the%20Brothers%20Grimm.md). The correspondential reading of the Grimm tales summarized in § 5.1.
 
 **Web Sources:**
 
-69. American Film Institute. "Melody Time (1948)." *AFI Catalog of Feature Films*, n.d. https://catalog.afi.com/Catalog/MovieDetails/25636.
-70. Amidi, Amid. "When Frank Lloyd Wright Met Disney." *Cartoon Brew*, December 14, 2006. https://www.cartoonbrew.com/old-brew/when-frank-lloyd-wright-met-disney-2397.html.
-71. Bawden-Davis, Julie. "Hilbert Museum of California Art." *Old Towne Orange Plaza Review*, March 16, 2016. https://www.orangereview.com/public/article/51/hilbert-museum-of-california-art.
-72. Box Office Mojo. "Rock-A-Doodle (1991)." n.d. https://www.boxofficemojo.com/title/tt0102802/.
-73. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
-74. Crow, David. "The Disney Renaissance: The Rise & Fall of a Generational Touchstone." *Den of Geek*, March 17, 2017. https://www.denofgeek.com/culture/the-disney-renaissance-the-rise-fall-of-a-generational-touchstone/.
-75. D23. "Art School Formed at Disney Studio with Donald Graham Serving as Teacher." *This Day in Disney History*, November 15, 1932. https://d23.com/this-day/art-school-formed-at-disney-studio-with-donald-graham-serving-as-teacher/.
-76. Deja, Andreas. "Chanticleer, Rough and Final." *Deja View*, September 10, 2013. http://andreasdeja.blogspot.com/2013/09/chanticleer-rough-and-final.html.
-77. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.
-78. Graham, Donald H. "Donald W. Graham." 2005. http://www.donaldwgraham.com/.
-79. Hill, Jim. "Disney's Decades-Long Quest to Turn 'Don Quixote' into a Full-Length Animated Feature." *Jim Hill Media*, May 15, 2014. https://jimhillmedia.com/disneys-decades-long-quest-to-turn-don-quixote-into-a-full-length-animated-feature/.
-80. Hill, Jim. "The Best Disney Animation Film Never Made – 'Chanticleer.'" *Jim Hill Media*, June 2, 2025.
-81. Jones, Rendy. "'Wish' Review: Disney's Centennial Celebratory Flick is the Studio at Their Most Soulless to Date." *Rendy Reviews*, November 22, 2023. https://www.rendyreviews.com/movie-reviews/wish-review.
-82. Korkis, Jim. "The Greatest Disney Animated Feature Never Made: Chanticleer." *MousePlanet*, August 18, 2021. https://mouseplanet.com/the-greatest-disney-animated-feature-never-made-chanticleer/8031/.
-83. Korkis, Jim. "In His Own Words: Frank Lloyd Wright on 'Fantasia.'" *Cartoon Research*, December 16, 2022. https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/.
-84. Lerew, Jenny. "Artist and Author Jenny Lerew Talks Mickey Mouse and Animator Fred Moore, Part I." Interview. *The Walt Disney Family Museum* (blog), March 2, 2020. https://www.waltdisney.org/blog/artist-and-author-jenny-lerew-talks-mickey-mouse-and-animator-fred-moore-part-i.
-85. Los Angeles Daily News. "'Odyssey,' Sinbad, Pocahontas Getting Disney Treatment." *Chicago Tribune*, July 2, 1992. https://www.chicagotribune.com/news/ct-xpm-1992-07-02-9202290009-story.html.
-86. Nicolosi, Barbara. "Disney's 'Wish' Unfulfillment." *National Catholic Register*, December 5, 2023. https://ncregister.com/features/disney-s-wish-unfulfillment.
-87. Ruimy, Jordan. "Disney's 'Snow White' Undergoing More Reshoots." *World of Reel*, June 24, 2024. https://www.worldofreel.com/blog/2024/6/24/disneys-snow-white-undergoing-more-reshoots.
-88. Siegel, Tatiana. "Disney Got Its Groove Back With 'Moana 2,' but Troubled 'Snow White' Could Halt the Momentum." *Variety*, December 4, 2024. https://variety.com/2024/film/news/disney-success-moana-2-trouble-snow-white-looms-1236234842/.
-89. Snow White Museum. "The Story." *Snow White Museum*, n.d. https://snowwhitemuseum.com/about-the-film/the-story/.
-90. Stack, Peter. "Disney Muscles In on Greek Myth / 'Hercules' a Product of Research as Much as Drawing." *San Francisco Chronicle*, June 22, 1997. https://www.sfgate.com/entertainment/article/Disney-Muscles-In-on-Greek-Myth-Hercules-a-2821105.php.
-91. Walker, RV. "The Disney Logo: A Brief History of Its Evolution and Variations." *Nerdist*, March 28, 2015. https://nerdist.com/article/the-disney-logo-a-brief-history-of-its-evolution-and-variations/.
-92. The Walt Disney Family Museum. "Make Believe: The World of Glen Keane." March 7, 2018. https://www.waltdisney.org/blog/make-believe-world-glen-keane.
-93. The Walt Disney Family Museum. "The Making and Impact of *One Hundred and One Dalmatians*." March 21, 2022. https://www.waltdisney.org/blog/making-101-dalmatians.
-94. Waxman, Olivia B. "All the Controversies Surrounding Disney's *Snow White* Remake." *Time*, March 13, 2025. https://time.com/7267440/snow-white-disney-rachel-zegler-gal-gadot/.
+70. American Film Institute. "Melody Time (1948)." *AFI Catalog of Feature Films*, n.d. https://catalog.afi.com/Catalog/MovieDetails/25636.
+71. Amidi, Amid. "When Frank Lloyd Wright Met Disney." *Cartoon Brew*, December 14, 2006. https://www.cartoonbrew.com/old-brew/when-frank-lloyd-wright-met-disney-2397.html.
+72. Bawden-Davis, Julie. "Hilbert Museum of California Art." *Old Towne Orange Plaza Review*, March 16, 2016. https://www.orangereview.com/public/article/51/hilbert-museum-of-california-art.
+73. Box Office Mojo. "Rock-A-Doodle (1991)." n.d. https://www.boxofficemojo.com/title/tt0102802/.
+74. Crosse, John. "The Schindlers and the Hollywood Art Association, 1921–1926." *Southern California Architectural History*, May 2014. https://socalarchhistory.blogspot.com/2014/05/the-schindlers-and-hollywood-art.html.
+75. Crow, David. "The Disney Renaissance: The Rise & Fall of a Generational Touchstone." *Den of Geek*, March 17, 2017. https://www.denofgeek.com/culture/the-disney-renaissance-the-rise-fall-of-a-generational-touchstone/.
+76. D23. "Art School Formed at Disney Studio with Donald Graham Serving as Teacher." *This Day in Disney History*, November 15, 1932. https://d23.com/this-day/art-school-formed-at-disney-studio-with-donald-graham-serving-as-teacher/.
+77. Deja, Andreas. "Chanticleer, Rough and Final." *Deja View*, September 10, 2013. http://andreasdeja.blogspot.com/2013/09/chanticleer-rough-and-final.html.
+78. Fryeburg New Church Assembly. "Florence Murdoch." *Fryeburg New Church Assembly*, n.d. https://fryeburg.org/florencemurdoch.
+79. Graham, Donald H. "Donald W. Graham." 2005. http://www.donaldwgraham.com/.
+80. Hill, Jim. "Disney's Decades-Long Quest to Turn 'Don Quixote' into a Full-Length Animated Feature." *Jim Hill Media*, May 15, 2014. https://jimhillmedia.com/disneys-decades-long-quest-to-turn-don-quixote-into-a-full-length-animated-feature/.
+81. Hill, Jim. "The Best Disney Animation Film Never Made – 'Chanticleer.'" *Jim Hill Media*, June 2, 2025.
+82. Jones, Rendy. "'Wish' Review: Disney's Centennial Celebratory Flick is the Studio at Their Most Soulless to Date." *Rendy Reviews*, November 22, 2023. https://www.rendyreviews.com/movie-reviews/wish-review.
+83. Korkis, Jim. "The Greatest Disney Animated Feature Never Made: Chanticleer." *MousePlanet*, August 18, 2021. https://mouseplanet.com/the-greatest-disney-animated-feature-never-made-chanticleer/8031/.
+84. Korkis, Jim. "In His Own Words: Frank Lloyd Wright on 'Fantasia.'" *Cartoon Research*, December 16, 2022. https://cartoonresearch.com/index.php/in-his-own-words-frank-lloyd-wright-on-fantasia/.
+85. Lerew, Jenny. "Artist and Author Jenny Lerew Talks Mickey Mouse and Animator Fred Moore, Part I." Interview. *The Walt Disney Family Museum* (blog), March 2, 2020. https://www.waltdisney.org/blog/artist-and-author-jenny-lerew-talks-mickey-mouse-and-animator-fred-moore-part-i.
+86. Los Angeles Daily News. "'Odyssey,' Sinbad, Pocahontas Getting Disney Treatment." *Chicago Tribune*, July 2, 1992. https://www.chicagotribune.com/news/ct-xpm-1992-07-02-9202290009-story.html.
+87. Nicolosi, Barbara. "Disney's 'Wish' Unfulfillment." *National Catholic Register*, December 5, 2023. https://ncregister.com/features/disney-s-wish-unfulfillment.
+88. Ruimy, Jordan. "Disney's 'Snow White' Undergoing More Reshoots." *World of Reel*, June 24, 2024. https://www.worldofreel.com/blog/2024/6/24/disneys-snow-white-undergoing-more-reshoots.
+89. Siegel, Tatiana. "Disney Got Its Groove Back With 'Moana 2,' but Troubled 'Snow White' Could Halt the Momentum." *Variety*, December 4, 2024. https://variety.com/2024/film/news/disney-success-moana-2-trouble-snow-white-looms-1236234842/.
+90. Snow White Museum. "The Story." *Snow White Museum*, n.d. https://snowwhitemuseum.com/about-the-film/the-story/.
+91. Stack, Peter. "Disney Muscles In on Greek Myth / 'Hercules' a Product of Research as Much as Drawing." *San Francisco Chronicle*, June 22, 1997. https://www.sfgate.com/entertainment/article/Disney-Muscles-In-on-Greek-Myth-Hercules-a-2821105.php.
+92. Walker, RV. "The Disney Logo: A Brief History of Its Evolution and Variations." *Nerdist*, March 28, 2015. https://nerdist.com/article/the-disney-logo-a-brief-history-of-its-evolution-and-variations/.
+93. The Walt Disney Family Museum. "Make Believe: The World of Glen Keane." March 7, 2018. https://www.waltdisney.org/blog/make-believe-world-glen-keane.
+94. The Walt Disney Family Museum. "The Making and Impact of *One Hundred and One Dalmatians*." March 21, 2022. https://www.waltdisney.org/blog/making-101-dalmatians.
+95. Waxman, Olivia B. "All the Controversies Surrounding Disney's *Snow White* Remake." *Time*, March 13, 2025. https://time.com/7267440/snow-white-disney-rachel-zegler-gal-gadot/.

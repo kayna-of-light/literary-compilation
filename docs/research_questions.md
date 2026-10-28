@@ -2534,6 +2534,21 @@ In *Cosmic Cradle* (2013), do the authors or their informants describe pre-birth
 
 ---
 
+## Logged by the nightly source audit, 2026-10-28
+
+### [GDR] *The Mirror of the Invisible* §2.3 — did the Brothers Grimm own Swedenborg, Jung-Stilling or Oetinger?
+
+**Related Documents**: `data/07_Cultural_Pneumatology/The Mirror of the Invisible_ Swedenborgian Natural Philosophy and the Romantic Folklore of the Brothers Grimm.md` §2.3
+
+**Context**: The document now documents that both brothers read Jung-Stilling's *Theorie der Geister-Kunde* (1808) in 1809 — Jacob writes that he has finally obtained "den Stilling" (*Briefwechsel aus der Jugendzeit*, 1881, p. 84) — and that the book gives §§113–118 to Swedenborg. Whether they owned that book, or any work of Swedenborg's, Oetinger's, or Herder's *Adrastea* (1802, with its essay "Emanuel Swedenborg, der größte Geisterseher des achtzehnten Jahrhunderts"), would be settled by the printed catalogue of their library: Ludwig Denecke and Irmgard Teitge, *Die Bibliothek der Brüder Grimm: Annotiertes Verzeichnis des festgestellten Bestandes*, ed. Friedhilde Krause (Weimar: Böhlau / Stuttgart: Hirzel, 1989; reprint De Gruyter 2021). It is not on archive.org, not in the author's Drive, and the only online copy found is a pirated repost, which was not used.
+
+**Research Question**:
+Does Denecke and Teitge's catalogue of the Grimms' library list any work by Swedenborg, Jung-Stilling (especially *Theorie der Geister-Kunde*, 1808, or *Henrich Stillings Jugend*, 1777), Oetinger, or Herder's *Adrastea*? Give catalogue numbers and any annotations (provenance, markings).
+
+**Status**: Open
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

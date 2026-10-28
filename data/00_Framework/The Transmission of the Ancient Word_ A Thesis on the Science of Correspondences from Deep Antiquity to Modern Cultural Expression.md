@@ -866,9 +866,9 @@ Jacob and Wilhelm Grimm collected fairy tales in the early nineteenth century, e
 
 **What the tales exhibit**: The Grimm fairy tales operate according to "theological physics" that mirrors Swedenborg's system precisely:
 
-- **Animate landscapes** — Forests open and close, mountains reveal treasures, briar hedges defend or imprison based on the moral state of the character. This is the World of Spirits, where environment externalizes internal state.
+- **Animate landscapes** — Forests open and close, mountains reveal treasures, briar hedges defend or imprison based on the moral state of the character. This is the spiritual world as Swedenborg describes it, where environment externalizes internal state.
 - **Talking animals** — Not arbitrary magic but Swedenborg's "Zoology of Affection": animals are affections made visible and articulate. The ants in *The Queen Bee* represent industry; the ducks represent natural truths; the bees represent rational wisdom.
-- **Reactive environments** — When the right prince arrives in *Sleeping Beauty*, the thorns transform into flowers "of their own accord." The landscape responds to moral quality, exactly as Swedenborg describes the spiritual world.
+- **Reactive environments** — When the right prince arrives in *Sleeping Beauty* as the hundred years end, the thorns are flowers that part "of their own accord." The landscape responds to the fullness of the state and to the right prince, as Swedenborg describes the spiritual world.
 
 **The quality marker**: The Grimms preserved materials that function correspondentially, suggesting these tales carry genuine ancient content—perhaps fragments of the original system surviving in folk memory.
 

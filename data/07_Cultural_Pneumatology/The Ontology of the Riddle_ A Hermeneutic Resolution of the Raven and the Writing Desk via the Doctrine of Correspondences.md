@@ -188,7 +188,7 @@ The "Science of Correspondences" is deeply rooted in the Mesopotamian tradition 
 Swedenborg’s description of the **Natural Sun** as "pure fire" and **"dead"** (*DLW* §157) offers a chilling parallel to modern technology.
 
 * **Insight:** The "Writing Desk" of the 21st century is the **Screen** (Computer/Phone). It is a "flat" surface that glows with "dead" light (pixels/fire).  
-* **Implication:** The modern "Raven" is the algorithm—the "spying thought" that flies through the digital void, feeding on the "carrion" of data. The riddle "Why is a raven like a writing desk?" is the prophetic riddle of the Information Age. Why is the Algorithm like the Screen? Because both are the **Natural Unregenerate Mind** externalized into a global machine—**flat**, **dead**, and **without life of its own**, yet simulating life through the electric galvanization of the "Natural Sun."
+* **Implication:** The modern "Raven" is the algorithm—the spying thought that flies through the digital void, feeding on the "carrion" of data. The riddle "Why is a raven like a writing desk?" is the prophetic riddle of the Information Age. Why is the Algorithm like the Screen? Because both are the **Natural Unregenerate Mind** externalized into a global machine—**flat**, **dead**, and **without life of its own**, yet simulating life through the electric galvanization of the "Natural Sun."
 
 ### **7.4 The Proto-Lukan Counter-Thesis: The Raven's Desk**
 

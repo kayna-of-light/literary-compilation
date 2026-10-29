@@ -24,7 +24,7 @@ In this paradigm, a physical object does not exist independently. It is the "cry
 
 ### **2.2 Vertical Causality and the Law of Influx**
 
-The mechanism driving correspondence is **Influx**. Swedenborg argues that the natural world is the "realm of effects" caused and sustained by the spiritual world: "nothing can subsist from itself, but only from that which is prior to itself, thus from a First, and if separated from that it would utterly perish and vanish" (*Heaven and Hell* [*HH*] §106). This establishes the primary attribute of all natural objects: **Dependency**. No natural object has "life of its own." Its "life" is entirely borrowed from the spiritual cause it containers.
+The mechanism driving correspondence is **Influx**. Swedenborg argues that the natural world is the "realm of effects" caused and sustained by the spiritual world: "nothing can subsist from itself, but only from that which is prior to itself, thus from a First, and if separated from that it would utterly perish and vanish" (*Heaven and Hell* [*HH*] §106). This establishes the primary attribute of all natural objects: **Dependency**. No natural object has "life of its own." Its "life" is entirely borrowed from the spiritual cause it contains.
 
 When that connection is acknowledged and ordered, the object is "alive" or "significative." When that connection is denied or disordered—as in the case of the **Natural Unregenerate Mind**—the object becomes "dead" or "flat," a mere shell disconnected from its source.
 
@@ -45,13 +45,13 @@ To solve the riddle, we must rigorously define the *tertiary* term: the **Natura
 The most fundamental characteristic of the natural world in Swedenborgian physics is that it is **dead**. Swedenborg explicitly describes the **Natural Sun**—the source of all physical energy—as "pure fire, consequently dead" (*Divine Love and Wisdom* [*DLW*] §157). Its function is merely to serve as a recipient of the living force of the spiritual sun, clothing what that force produces "with the matters that give them fixedness" (*DLW* §§157, 315). Consequently, the **Natural Mind**, which is formed from the materials and images of this dead world, is also **"without life of its own"**. It possesses no independent vitality.
 
 * **Genuine Life:** Life, in the proper sense, corresponds to **Love** and **Wisdom** flowing from the Divine.  
-* **Apparent Life:** The natural mind appears alive because it is animated by "lusts" (evil loves) or "scientifics" (facts), but without the connection to Divine Love, this activity is merely the galvanization of a corpse.
+* **Apparent Life:** The natural mind appears alive because it is animated by "lusts" (evil loves) or "scientifics" (facts), but without the connection to Divine Love this activity only appears to be life; it is movement imparted to what is dead.
 
-The "Natural Unregenerate Mind" is the mind that has confirmed itself in this state of death. It rejects the Influx of the Spiritual Sun and lives solely by the light of the "dead" Natural Sun (self-love and nature-worship). It is a "vessel" that refuses to be filled, remaining a **"dark valley"** (*The Universal Mirror* §3.3) or a **dry wilderness**. This is the mind that lacks spiritual "knowledge" (Hosea 4:6), resulting in a "flat" existence where the individual is "without life of their own" because they are submerged in group identity or material concerns.
+The "Natural Unregenerate Mind" is the mind that has confirmed itself in this state of death. It rejects the Influx of the Spiritual Sun and lives solely by the light of the "dead" Natural Sun (self-love and nature-worship). It is a "vessel" that refuses to be filled, remaining a **"dark valley"** (*The Universal Mirror* §3.3). This is the mind that lacks spiritual "knowledge" (Hosea 4:6), resulting in a "flat" existence, "without life of its own", because it is immersed in "corporeal, sensuous, and worldly things" (*AC* §867).
 
 ### **3.2 The Cartography of Flatness: Valleys and Plains**
 
-Topographically, the Natural Mind corresponds to **Valleys** and lowlands, for "a 'valley' signifies lower, or what is the same, exterior things" (*AC* §3417). Mountains correspond to **the good of love to the Lord** (High, Vertical, Near the Sun), while Hills correspond to **the good of mutual love** (*AC* §6435). Valleys and Plains correspond to the **Natural Mind** (Low, Flat, Receptive). A "regenerate" natural mind is a "fruitful valley"—flat, yes, but irrigated by the "rivers" of truth flowing from the mountains. However, the **Unregenerate Natural Mind** is a **"dark valley"** or a rocky plateau (*The Universal Mirror* §3.3). It is **flat** not in the sense of being level, but in the sense of being **depressed**, **horizontal**, and **cut off**. It is the "Earth" without the "Heavens."
+Topographically, the Natural Mind corresponds to **Valleys** and lowlands, for "a 'valley' signifies lower, or what is the same, exterior things" (*AC* §3417). Mountains correspond to **the good of love to the Lord** (High, Vertical, Near the Sun), while Hills correspond to **the good of mutual love** (*AC* §6435). Valleys and Plains correspond to the **Natural Mind** (Low, Flat, Receptive). A "regenerate" natural mind is a "fruitful valley"—flat, yes, but irrigated by the "rivers" of truth flowing from the mountains. However, the **Unregenerate Natural Mind** is a **"dark valley"**, "a natural mind devoid of spiritual light" (*The Universal Mirror* §3.3). It is **flat** not in the sense of being level, but in the sense of being **depressed**, **horizontal**, and **cut off**. It is the "Earth" without the "Heavens."
 
 This "flatness" is further elucidated in the description of the **"modern mind"** (Historical Critical Method) as "constitutionally blind" to the soul of the text (*The Critic Transformed* §3.1), seeing only the "flat" literal sense. It is a vision capable of analyzing the surface (the desk) but incapable of reading the message.
 
@@ -59,7 +59,7 @@ This "flatness" is further elucidated in the description of the **"modern mind"*
 
 The core of the Unregenerate Mind is the **Self** (Selfhood). The library's own reading of the self states that "falsity has no life of its own" and "borrows apparent existence from the truth it distorts". The trajectory of the Self—the self-centered will—is a trajectory toward **nothingness**. If one follows the Self to its completion, "what remains? Nothing." It is the "repetition of a void" (*Epistle — The Divine Marriage* §VI).
 
-This void is the habitat of the Raven, the bird of the wasteland, and the nature of the Desk, the inanimate object. Thus, the "Natural Unregenerate Mind" is defined by two primary ontological deficits:
+This void is the habitat of the Raven, the bird of the wasteland—"the owl also and the raven shall dwell in it" (Isa 34:11), where Swedenborg reads the land as "the habitation of mere falsities" (*AC* §866)—and the nature of the Desk, the inanimate object. Thus, the "Natural Unregenerate Mind" is defined by two primary ontological deficits:
 
 1. **Flatness:** A confinement to the horizontal/material plane.  
 2. **Lifelessness:** A lack of independent being; a reliance on borrowed or distorted energy (Selfhood).
@@ -135,7 +135,7 @@ The desk is defined by its **Flatness**. It provides a horizontal plane for the 
 
 The very existence of the "Writing Desk" is a testament to the **Unregenerate State**. According to Swedenborg, the men of the most ancient church "had internal respiration, and only tacit external respiration" (*AC* §607), and with it direct **Perception**. That state belongs to no datable archaeological period: it is the long span of hominin evolution before the Upper Paleolithic, in which the thorax freed by bipedalism gave internal respiration its physiological ground (*A Validation Analysis* §1; *The Bifurcated Inheritance* §II). They had no need for books or desks because "the world itself was the text" (*The Bifurcated Inheritance* §II). They lived in direct correspondence. The "Fall" was the loss of this direct perception: "When internal respiration ceased, external respiration gradually succeeded … and with external respiration a language of words" (*AC* §608). It was not the breakdown of a "bicameral" automatism. The sporadic, commanding "voices" that Jaynes took for the original state of the ancient mind are the wreckage of internal respiration after it broke, not its source (*The Agency of the Ancients* §6.3). The loss necessitated **Writing** and **Doctrine**—external, "dead" codes to preserve the fading wisdom. The symbolic explosion of the Upper Paleolithic marks that necessity, not the beginning of symbolic capacity: humans began to encode in paint, then in stone, and at last in written doctrine, because perception was failing (*The Bifurcated Inheritance* §II).
 
-The Writing Desk is the **prosthetic** of the fallen mind. It is the tool we use because we can no longer *hear* the voice of God in the wind. It is the symbol of the **mediated**, **externalized**, and **flat** mode of cognition that defines the "Ancient Church" (Silver Age) and the subsequent "Jewish Church" (*True Christian Religion* §762). Thus, the Writing Desk is **like** the Raven because it is the **inanimate embodiment** of the **flat, dead, externalized mind**.
+The Writing Desk is the **prosthetic** of the fallen mind. It is the tool we use because we can no longer *hear* the "still small voice" (1 Kgs 19:12). It is the symbol of the **mediated**, **externalized**, and **flat** mode of cognition that defines the "Ancient Church" (Silver Age) and the subsequent "Jewish Church" (*True Christian Religion* §762). Thus, the Writing Desk is **like** the Raven because it is the **inanimate embodiment** of the **flat, dead, externalized mind**.
 
 ## ---
 
@@ -158,11 +158,11 @@ We are now equipped to answer the Mad Hatter’s riddle with theological precisi
 Therefore, the Raven and the Writing Desk are the **Twin Totems of the Unregenerate State**.
 
 * The **Raven** is the **Active Void**: The mind *thinking* falsely.  
-* The **Desk** is the **Passive Void**: The mind *storing* dead facts. They are alike because they are both **fragments of the Gētīg severed from the Mēnōg**. They are the "Outer Dark" where the "Natural Sun" rules—a sun that is "pure fire" and **"dead"** (*DLW* §157).
+* The **Desk** is the **Passive Void**: The mind *storing* dead facts. They are alike because they are both **fragments of the Gētīg severed from the Mēnōg**. They are the "outer darkness" (Matt 8:12) where the "Natural Sun" rules—a sun that is "pure fire" and **"dead"** (*DLW* §157).
 
 ### **6.4 The Hatter's Confession**
 
-Read in correspondence, the riddle is a confession. As set out in Section 4.4.2, the Hatter's perpetual 6:00 PM stasis — "Time without Progress" — mirrors the Unregenerate Mind that cannot regenerate but only spins in the "flat" circles of its own madness. The Hatter asks, "Why is my mind (Raven) like my world (Desk)?" The answer is: **Because both are dead, flat, and waiting for a Life they cannot generate.**
+Read in correspondence, the riddle is a confession. As set out in Section 4.4.2, the Hatter's perpetual six o'clock, time that no longer marks any change of state, mirrors the Unregenerate Mind that cannot regenerate but only spins in the "flat" circles of its own madness. The Hatter asks, "Why is my mind (Raven) like my world (Desk)?" The answer is: **Because both are dead, flat, and waiting for a Life they cannot generate.**
 
 ## ---
 
@@ -172,23 +172,23 @@ Beyond the direct solution, this investigation yields deeper insights into the n
 
 ### **7.1 The "Science of Lists" and the Necessity of the Riddle**
 
-The "Science of Correspondences" is deeply rooted in the Mesopotamian tradition of *Listenwissenschaft* (The Science of Lists) (*The Celestial Scribe* §2.3). Scribes believed that by listing things (Raven, Desk, Lion, Stone), they could map the mind of God. The Riddle is the **inverse** of the List. The List separates; the Riddle connects.
+The "Science of Correspondences" is deeply rooted in the Mesopotamian tradition of *Listenwissenschaft* (The Science of Lists) (*The Celestial Scribe* §2.3). A scribe trained in the lists learned to see the particular—a bird, a star—as a pointer to the universal (*The Celestial Scribe* §2.3). The oldest of them, copied word for word from about 3200 to 1800 BCE, already keep the riddle's two terms apart: birds in one composition, trees and wooden objects in another (*The Temple and the Trench* §4.1). The Riddle is the **inverse** of the List. The List separates; the Riddle connects.
 
 * **Implication:** The Mad Hatter’s riddle represents the **collapse of Listenwissenschaft**. In the "Wonderland" of the unregenerate/dream mind, the orderly lists of the scribes break down. The Raven merges with the Desk. This suggests that without the "Vertical Influx" of Divine Order, the categories of the natural world dissolve into chaotic similarity. The "Unregenerate Mind" cannot distinguish between a bird and a table because it has lost the "Spiritual Light" that differentiates essences. To the man in the dark, everything is a shadow.
 
 ### **7.2 The "Pig Taboo" and the "Raven Taboo"**
 
-*The Semiotics of Sanctity* highlights the "Pig Taboo" among the Shasu as a rejection of "sedentary chaos" and the mud (*The Semiotics of Sanctity* §§2.3, VII). The pig was "unclean" because it was a flat-lander—unable to migrate, stuck in the mud.
+*The Semiotics of Sanctity* reads the Shasu avoidance of the pig as a rejection of "sedentary chaos": the pig could not migrate with a nomadic flock and was "of the earth," bound to the mud (*The Semiotics of Sanctity* §§2.3, VII). The law sets the raven beside it among the unclean (Lev 11:7, 15).
 
-* **Insight:** The Raven is the "Pig of the Air." It is unclean for the same reason: it feeds on death and signifies the mind still unsettled by falsity (the "going and returning" of *AC* §§864–867).  
-* **Implication:** The "Writing Desk" is the "Pig of the Study." It is the sedentary, fixed, heavy object that traps the mind in the "mud" of literalism. The "nomadic" spirituality of the Shasu rejects the Desk (fixed doctrine) just as it rejects the Pig (fixed livestock). It prefers the **Tent** (Tabernacle) and the **Oral Tradition** (Living Word)—containers that move and breathe.
+* **Insight:** The two are unclean from opposite sides. The pig is bound to the ground and cannot move; the raven moves without ever settling, "going and returning", the falsity that still unsettles the natural mind (*AC* §§864–867).  
+* **Implication:** The Writing Desk takes the pig's side: a fixed, heavy object that holds the mind to the letter. Against both, the nomadic carriers kept their sanctuary in a tent—the Midianites at Timna covered the stone temple with tent cloths (*The Semiotics of Sanctity* §4.1)—and their wisdom in oral tradition: containers that move and breathe.
 
-### **7.3 The "Dead Sun" and the "Black Screen"**
+### **7.3 The Dead Sun and the Screen**
 
-Swedenborg’s description of the **Natural Sun** as "pure fire" and **"dead"** (*DLW* §157) offers a chilling parallel to modern technology.
+Swedenborg calls the **Natural Sun** "pure fire, consequently dead", and with it "the light proceeding from it is dead" (*DLW* §§157–158). The riddle's two terms have present-day forms that stand in exactly that light.
 
-* **Insight:** The "Writing Desk" of the 21st century is the **Screen** (Computer/Phone). It is a "flat" surface that glows with "dead" light (pixels/fire).  
-* **Implication:** The modern "Raven" is the algorithm—the spying thought that flies through the digital void, feeding on the "carrion" of data. The riddle "Why is a raven like a writing desk?" is the prophetic riddle of the Information Age. Why is the Algorithm like the Screen? Because both are the **Natural Unregenerate Mind** externalized into a global machine—**flat**, **dead**, and **without life of its own**, yet simulating life through the electric galvanization of the "Natural Sun."
+* **The Screen:** The writing desk of the twenty-first century is the screen: a flat surface for letters, lit by natural light.  
+* **The Algorithm:** Its raven is the algorithm, which goes out over everything recorded and returns, feeding on data as the raven feeds on carrion. Swedenborg's raven goes "going and returning" because the mind it signifies "can be only in the knowledge of the most general things, into which flow fantasies arising from corporeal, sensuous, and worldly things" (*AC* §867). Asked of the information age, the riddle has the same answer: algorithm and screen are both the **Natural Unregenerate Mind** made external—**flat**, **without life of its own**, and lit only by a dead sun.
 
 ### **7.4 The Proto-Lukan Counter-Thesis: The Raven's Desk**
 
@@ -241,9 +241,10 @@ In the "Magian Science" of the ancients, to name a thing was to know its essence
 17. [The Mirror of the Invisible: Swedenborgian Natural Philosophy and the Romantic Folklore of the Brothers Grimm](The%20Mirror%20of%20the%20Invisible_%20Swedenborgian%20Natural%20Philosophy%20and%20the%20Romantic%20Folklore%20of%20the%20Brothers%20Grimm.md). The "zoology of affection": animals as affections in natural form, from *Heaven and Hell* §110.
 18. [The Semiotics of Sanctity: A Diachronic Analysis of the Doctrine of Correspondences from the Paleolithic Mind to the Priestly Code](../06_Mythological_Studies/The%20Semiotics%20of%20Sanctity_%20A%20Diachronic%20Analysis%20of%20the%20Doctrine%20of%20Correspondences%20from%20the%20Paleolithic%20Mind%20to%20the%20Priestly%20Code.md). The Shasu pig taboo, the Magian taxonomy of animals, and the scribal codification of the Iron Age used in Sections I, 4.1 and 7.2.
 19. [The Semiotics of the Spirit: An Empirical and Hermeneutic Validation of Swedenborg’s Doctrine of Correspondences Against the Canon of the New Church](../02_Swedenborgian_Theology/The%20Semiotics%20of%20the%20Spirit_%20An%20Empirical%20and%20Hermeneutic%20Validation%20of%20Swedenborg’s%20Doctrine%20of%20Correspondences%20Against%20the%20Canon%20of%20the%20New%20Church.md). The lion as the power of truth in natural form, the example of causal correspondence in Section 2.1.
-20. [The Universal Mirror: An Exhaustive Cartography of Natural Correspondences in the Theology of Emanuel Swedenborg](../02_Swedenborgian_Theology/The%20Universal%20Mirror_%20An%20Exhaustive%20Cartography%20of%20Natural%20Correspondences%20in%20the%20Theology%20of%20Emanuel%20Swedenborg.md). The topography of the natural mind (valleys, the dark valley) and the mineral correspondences of sand and dust.
-21. [A Validation Analysis of Claims Concerning the Most Ancient Church](../02_Swedenborgian_Theology/A%20Validation%20Analysis%20of%20Claims%20Concerning%20the%20Most%20Ancient%20Church.md). The most ancient church as an account of deep hominin origins, internal respiration grounded in the decoupling of breath from locomotion, and the Upper Paleolithic as the Ancient Church after the Fall (§§1–2).
+20. [The Temple and the Trench: The Scientific Infrastructure of the Ancient East](../06_Mythological_Studies/The%20Temple%20and%20the%20Trench_%20The%20Scientific%20Infrastructure%20of%20the%20Ancient%20East.md). The Early Dynastic lexical lists, after Veldhuis, with birds and wooden objects in separate compositions (§4.1).
+21. [The Universal Mirror: An Exhaustive Cartography of Natural Correspondences in the Theology of Emanuel Swedenborg](../02_Swedenborgian_Theology/The%20Universal%20Mirror_%20An%20Exhaustive%20Cartography%20of%20Natural%20Correspondences%20in%20the%20Theology%20of%20Emanuel%20Swedenborg.md). The topography of the natural mind (valleys, the dark valley) and the mineral correspondences of sand and dust.
+22. [A Validation Analysis of Claims Concerning the Most Ancient Church](../02_Swedenborgian_Theology/A%20Validation%20Analysis%20of%20Claims%20Concerning%20the%20Most%20Ancient%20Church.md). The most ancient church as an account of deep hominin origins, internal respiration grounded in the decoupling of breath from locomotion, and the Upper Paleolithic as the Ancient Church after the Fall (§§1–2).
 
 **Web Sources:**
 
-22. Proto-Luke Reconstruction. "The Gospel (Proto-Luke): The Jamesian Protograph," chapter 10. *proto-luke-reconstruction*, GitHub, n.d. https://github.com/kayna-of-light/proto-luke-reconstruction.
+23. Proto-Luke Reconstruction. "The Gospel (Proto-Luke): The Jamesian Protograph," chapter 10. *proto-luke-reconstruction*, GitHub, n.d. https://github.com/kayna-of-light/proto-luke-reconstruction.

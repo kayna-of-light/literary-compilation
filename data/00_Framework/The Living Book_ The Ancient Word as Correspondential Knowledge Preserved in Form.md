@@ -374,11 +374,11 @@ It was never lost. It just changes clothing.
 
 3\. Swedenborg, Emanuel. *True Christianity* §§ 264–267 (on the Ancient Word and the science of correspondences; § 265 \[3–4\] on Great Tartary). 2 Vols. Translated by Jonathan Rose. West Chester, PA: Swedenborg Foundation, 2006.
 
-4\. Swedenborg, Emanuel. *Arcana Coelestia* §§ 66–130 (on the correspondential meaning of Genesis 2–3), §§ 1404–1409 (on Egypt as *scientifics*), §§ 2686–2688 (on the Ancient Word, the Wars of Jehovah, the Enunciations, and the Book of Jasher), §§ 920–925 (on the decline of the Ancient Church).
+4\. Swedenborg, Emanuel. *Arcana Coelestia* §§ 73–313 (on the correspondential meaning of Genesis 2–3), §§ 1164–1165, 1462 (on Egypt as *scientifics*), § 2686 (on the Ancient Word, the Wars of Jehovah, and the Enunciations), §§ 920–925 (on the worship of the Ancient Church), § 1327 (on its decline).
 
-5\. Swedenborg, Emanuel. *Divine Love and Wisdom* §§ 83–85, 173–186 (on discrete degrees).
+5\. Swedenborg, Emanuel. *Divine Love and Wisdom* §§ 184–188 (on discrete degrees).
 
-6\. Swedenborg, Emanuel. *Heaven and Hell* §§ 87–102 (on the four quarters of heaven and their correspondences to cardinal directions), §§ 29–40 (on the Grand Man), §§ 141–153 (on space and distance in the spiritual world as states, not locations).
+6\. Swedenborg, Emanuel. *Heaven and Hell* §§ 141–153 (on the four quarters of heaven and their correspondences to cardinal directions), §§ 59–67 (on the Grand Man), §§ 191–199 (on space and distance in the spiritual world as states, not locations).
 
 7\. Turner, John D. *Sethian Gnosticism and the Platonic Tradition*. Bibliothèque copte de Nag Hammadi, Section "Études" 6. Québec: Les Presses de l'Université Laval; Louvain: Peeters, 2001.
 

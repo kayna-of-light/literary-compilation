@@ -62,7 +62,7 @@ This is the diagnostic signature of correspondential literacy. The community did
 
 ### 3.1 The Narrative Structure
 
-The Apocalypse of Adam (NHC V,5) stands apart from every other Sethian text in the Nag Hammadi Library. It contains no Christian content — no Jesus, no apostles, no cross, no resurrection, no Pauline theology. Turner and Pearson identify its deepest layer as pre-Christian or non-Christian. It is Adam's deathbed testament to his son Seth, recounting:
+The Apocalypse of Adam (NHC V,5) stands apart from every other Sethian text in the Nag Hammadi Library. It contains no explicit Christian content — no Jesus, no apostles, no cross, no resurrection, no Pauline theology (MacRae 1990). Hedrick sees no Christian influence in it and dates it before the Christianization of the Sethian movement; Turner finds its Christianization "hardly visible if it is present at all" (Turner 2001, 164, 218). It is Adam's deathbed testament to his son Seth, recounting:
 
 1. **The original state**: Adam and Eve possessed a glory greater than the creator god — they knew directly, without mediation, the reality from which their life came. They were "higher than the god who had created us." This is not rebel theology. This is the memory of direct reception — the celestial state in which consciousness receives influx without obstruction.
 
@@ -364,11 +364,11 @@ They did not know they were creating an archive that would survive 1,600 years o
 
 #### **Works cited**
 
-1\. Swedenborg, Emanuel. *Arcana Coelestia* §§ 66–130 (on the correspondential meaning of Genesis 2–3), §§ 1404–1409 (on Egypt as *scientifics*), §§ 2576–2588 (on the Ancient Word), §§ 920–925 (on the decline of the Ancient Church).
+1\. Swedenborg, Emanuel. *Arcana Coelestia* §§ 73–313 (on the correspondential meaning of Genesis 2–3), §§ 1164–1165, 1462 (on Egypt as *scientifics*), § 2686 (on the Ancient Word), §§ 920–925 (on the worship of the Ancient Church), § 1327 (on its decline).
 
-2\. Swedenborg, Emanuel. *Divine Love and Wisdom* §§ 83–85, 173–186 (on discrete degrees), §§ 1–3 (on love as the essence of life).
+2\. Swedenborg, Emanuel. *Divine Love and Wisdom* §§ 184–188 (on discrete degrees), §§ 1–3 (on love as the essence of life).
 
-3\. Swedenborg, Emanuel. *Heaven and Hell* §§ 87–102 (on the four quarters of heaven), §§ 29–40 (on the Grand Man).
+3\. Swedenborg, Emanuel. *Heaven and Hell* §§ 141–153 (on the four quarters of heaven), §§ 59–67 (on the Grand Man).
 
 4\. Turner, John D. *Sethian Gnosticism and the Platonic Tradition*. Bibliothèque copte de Nag Hammadi, Section "Études" 6. Québec: Les Presses de l'Université Laval; Louvain: Peeters, 2001.
 
@@ -407,3 +407,5 @@ They did not know they were creating an archive that would survive 1,600 years o
 21\. Kelly, Lynne. *The Memory Code: The Secrets of Stonehenge, Easter Island and Other Ancient Monuments*. New York: Pegasus Books, 2017.
 
 22\. Swedenborg, Emanuel. *True Christianity* §§ 264–267 (on the science of correspondences as a universal key).
+
+23\. MacRae, George W. "The Apocalypse of Adam (V,5): Introduction." In *The Nag Hammadi Library in English*, edited by James M. Robinson, 3rd rev. ed. San Francisco: HarperSanFrancisco, 1990.

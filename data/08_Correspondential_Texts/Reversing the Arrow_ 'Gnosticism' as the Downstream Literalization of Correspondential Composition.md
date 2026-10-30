@@ -12,7 +12,7 @@ The implication reframes an entire field of scholarship: "Gnosticism" is not a r
 
 ## 1. Why "Gnosticism" Fails as a Category
 
-The scholarly unease with "Gnosticism" is long-standing. Williams (1996) argued for "dismantling a dubious category," noting that the texts grouped under this label share no single defining feature. King (2003) demonstrated that the category was largely a construct of early heresiologists — Irenaeus, Hippolytus, Epiphanius — who needed a unified enemy to define orthodoxy against. Brakke (2010) proposed replacing the overarching category with specific school designations (Sethian, Valentinian, Thomassine). The Messina Colloquium definition (1966) pleased no one and was abandoned by most scholars within a generation.
+The scholarly unease with "Gnosticism" is long-standing. Williams (1996) argued for "dismantling a dubious category," noting that the texts grouped under this label share no single defining feature. King (2003) showed that "Gnosticism" is "a term invented in the early modern period to aid in defining the boundaries of normative Christianity," and that modern scholarship has carried into it the discourse of orthodoxy and heresy built by early polemicists such as Irenaeus and Tertullian. Brakke (2010), following Layton, gave up the overarching category and reserved "Gnostic" for one school — the self-designated Gnostics known to Irenaeus, whose myth survives in the texts scholars call Sethian. The definition proposed at the Messina Colloquium (1966), by King's assessment, "did not work any better in practice than in theory."
 
 These critiques are valid but incomplete. They identify the *typological* failure: the label does not map onto a coherent set of beliefs, practices, or communities. But they do not identify *why* the typology fails. The texts resist categorization because what scholars are observing is not a movement but a **process** — and the process operates differently at each stage, producing different outputs at each remove from the source.
 
@@ -38,7 +38,7 @@ A community that possesses the key to correspondences can read *through* the nat
 
 ### 2.2 The Composite Profile
 
-The Dynastic Archive thesis (companion document) establishes the community's pattern of engagement with other traditions as a **composite profile**: not the product of a tradition that is PART of these movements but the record of a community that STUDIED them from a position of independent authority. The Thomas sayings provide the wisdom base. The Sethian texts provide the cosmological architecture. The Valentinian material documents the most sophisticated recipient tradition. The Hermetic texts provide the Egyptian philosophical bridge. The Platonic fragment documents the Greek reception. Together, they form a systematic survey of how correspondential knowledge appears when received through different cultural vessels.
+[*The Dynastic Archive*](../04_Early_Christian_History/The%20Dynastic%20Archive_%20The%20Nag%20Hammadi%20Library%20as%20the%20Family%20Record%20of%20the%20Jesus%20Movement.md) (companion document) establishes the community's pattern of engagement with other traditions as a **composite profile**: not the product of a tradition that is PART of these movements but the record of a community that STUDIED them from a position of independent authority. The Thomas sayings provide the wisdom base. The Sethian texts provide the cosmological architecture. The Valentinian material documents the most sophisticated recipient tradition. The Hermetic texts provide the Egyptian philosophical bridge. The Platonic fragment documents the Greek reception. Together, they form a systematic survey of how correspondential knowledge appears when received through different cultural vessels.
 
 This is precisely what a community with the key would produce. Not a collection of texts it *believes*, but a collection of texts it *can read* — texts whose architecture resolves under correspondence even when their surface interpretation has been literalized.
 
@@ -62,32 +62,32 @@ This is the diagnostic signature of correspondential literacy. The community did
 
 ### 3.1 The Narrative Structure
 
-The Apocalypse of Adam (NHC V,5) stands apart from every other Sethian text in the Nag Hammadi Library. It contains no explicit Christian content — no Jesus, no apostles, no cross, no resurrection, no Pauline theology (MacRae 1990). Hedrick sees no Christian influence in it and dates it before the Christianization of the Sethian movement; Turner finds its Christianization "hardly visible if it is present at all" (Turner 2001, 164, 218). It is Adam's deathbed testament to his son Seth, recounting:
+The Apocalypse of Adam (NHC V,5) stands apart from every other Sethian text in the Nag Hammadi Library. It contains no explicit Christian content — no Jesus, no apostles, no cross, no resurrection, no Pauline theology (MacRae 1990). Hedrick sees no Christian influence in it and dates it before the Christianization of the Sethian movement; Turner finds its Christianization "hardly visible if it is present at all" (Turner 2001, 164, 218). It is Adam's testament to his son Seth, given "in the seven hundredth year," recounting:
 
-1. **The original state**: Adam and Eve possessed a glory greater than the creator god — they knew directly, without mediation, the reality from which their life came. They were "higher than the god who had created us." This is not rebel theology. This is the memory of direct reception — the celestial state in which consciousness receives influx without obstruction.
+1. **The original state**: Adam and Eve possessed a glory greater than the creator god — they knew directly, without mediation, the reality from which their life came. They were "higher than the god who had created us and the powers with him" (Apoc. Adam V 64,16–19). This is not rebel theology. This is the memory of direct reception — the celestial state in which consciousness receives influx without obstruction.
 
-2. **The fall**: "The glory in our hearts left us" — the direct perception departed. Adam and Eve were separated from each other and from the knowledge of the eternal God. They became servants of the creator god — the self assumed sovereignty. They were taught "dead things" — knowledge without life, form without content.
+2. **The fall**: "The glory in our heart(s) left us" — the direct perception departed. Adam and Eve were divided from each other, and "the eternal knowledge of the God of truth withdrew" from them. They served the creator god "in fear and slavery" — the self assumed sovereignty. "Since that time we learned about dead things, like men" — knowledge without life, form without content.
 
-3. **Three catastrophes**: The seed of Seth survives flood, fire, and cataclysm — the dispensational catastrophes that mark the progressive decline of the Ancient Church. Each time, the knowledge is preserved in a remnant and carried forward.
+3. **Two catastrophes and a third coming**: The seed of Seth survives the flood and the fire — the dispensational catastrophes that mark the progressive decline of the Ancient Church — and "for the third time, the illuminator of knowledge will pass by in great glory" (Apoc. Adam V 76,8–10). Each time, the knowledge is preserved in a remnant and carried forward.
 
-4. **The thirteen kingdoms**: Each kingdom gives an account of the Illuminator — and each account is wrong. The Illuminator is said to have come from a dragon, a cloud, two luminaries, various cosmic sources. Each kingdom perceives the phenomenon through its own filter and generates an explanation that fits its framework.
+4. **The thirteen kingdoms**: Each kingdom gives an account of the Illuminator — and each account is wrong. The Illuminator is said to have come from a great prophet, from a virgin womb, from a drop that dragons brought down to caves, from a cloud that enveloped a rock, from two illuminators. Each kingdom perceives the phenomenon through its own filter and generates an explanation that fits its framework.
 
 5. **"The generation without a king"**: A community that does not belong to any of the thirteen kingdoms — they perceive the Illuminator directly, without needing to explain him through borrowed categories. "The generation without a king" are those who have the key.
 
-6. **The knowledge inscribed on a high mountain**: The revealed knowledge is written and placed on a high mountain. "Mountain" in Swedenborg's correspondential system = the state of love, specifically Divine Love. The knowledge is preserved in love's keeping — not in an institution, a text, or a tradition, but in the quality of consciousness that can receive it. The mountain is not a location. It is a state.
+6. **The words kept on a high mountain**: The words of the God of the aeons "were not committed to the book, nor were they written"; "they will be on a high mountain, upon a rock of truth," named "The Words of Imperishability [and] Truth" (Apoc. Adam V 85,3–11). "Mountains" in Swedenborg's correspondential system signify the Lord and "celestial things … consequently love and charity" (*AC* §795). The knowledge is preserved in love's keeping — not in an institution, a text, or a tradition, but in the quality of consciousness that can receive it. The mountain is not a location. It is a state.
 
 ### 3.2 The Animal Apocalypse Parallel
 
-The literary strategy of the Apocalypse of Adam is not unique. It is the *same strategy* employed in the Animal Apocalypse (1 Enoch 85–90): a survey of human history encoded entirely through correspondential imagery, with the dramatis personae rendered as symbolic types whose function determines their identity.
+The literary strategy of the Apocalypse of Adam is not unique. It is the *same strategy* employed in the Animal Apocalypse (1 En. 85–90; Tiller 1993): a survey of human history encoded entirely through correspondential imagery, with the dramatis personae rendered as symbolic types whose function determines their identity.
 
 | Feature | Animal Apocalypse | Apocalypse of Adam |
 |:---|:---|:---|
-| **Frame** | Enoch's dream-vision recounted to Methuselah | Adam's deathbed testament to Seth |
+| **Frame** | Enoch's dream-vision recounted to Methuselah | Adam's testament to Seth in his seven hundredth year |
 | **Method** | Correspond each nation/patriarch to an animal type based on spiritual quality | Correspond each theological tradition to a "kingdom" based on its account of the Illuminator |
 | **Patriarchal era** | White bulls (celestial clarity) → red/black cattle (spiritual decline) | Adam/Eve's original glory → fall → servitude |
-| **Catastrophes** | Flood, Exodus, wilderness | Flood, fire, cataclysm |
+| **Catastrophes** | Flood, Exodus, wilderness | Flood, fire, then the Illuminator's third coming |
 | **Nations** | Wolves, lions, eagles (each corresponding to a quality of national character) | Thirteen kingdoms (each corresponding to a mode of perception) |
-| **Preservation** | A few white sheep survive among the wolves | The seed of Seth survives through the catastrophes |
+| **Preservation** | The sheep survive among the wolves and are led out | The seed of Seth survives through the catastrophes |
 | **Eschatological figure** | The white bull returns — the celestial state restored | The Illuminator comes — direct perception restored |
 
 The parallel is too specific to be coincidence or independent invention. This is the same literary tradition using the same compositional method — encoding spiritual history through correspondential imagery where every element functions as a correspondence, not an allegory. The strategy itself is diagnostic: only a tradition trained in reading and composing through correspondences would encode history this way.
@@ -117,7 +117,7 @@ The two texts are not merely parallel — they are complementary. The Animal Apo
 
 - **The beginning**: Where the Animal Apocalypse opens tersely with white bulls (Adam, Seth, the celestial state), the Apocalypse of Adam provides the full account: the original glory, the nature of direct perception, the mechanism of the fall (the glory leaving the heart), the servitude that followed.
 
-- **The middle**: Where the Animal Apocalypse devotes extensive imagery to the national history of Israel (the white sheep among wolves), the Apocalypse of Adam compresses this into three catastrophes — each dispensational crisis captured in a single passage rather than an extended narrative.
+- **The middle**: Where the Animal Apocalypse devotes extensive imagery to the national history of Israel (the sheep among the wolves), the Apocalypse of Adam compresses this into the flood and the fire — each dispensational crisis captured in a single passage rather than an extended narrative.
 
 - **The end**: Where the Animal Apocalypse concludes with the white bull returning (the celestial state restored), the Apocalypse of Adam provides the full perceptual survey — the thirteen kingdoms, each generating its own explanation of the Illuminator, followed by the generation that perceives directly.
 
@@ -131,18 +131,18 @@ Together, the two texts constitute a complete correspondential history of consci
 
 The thirteen kingdoms passage in the Apocalypse of Adam is the most underappreciated section of the entire Nag Hammadi corpus. Each kingdom offers an account of where the Illuminator came from and how he appeared. Each account is presented seriously, not mockingly — it is not a polemic against other traditions but a *diagnostic survey* of how different modes of perception generate different explanations of the same phenomenon.
 
-Kingdom 1: "He came from [a great cloud]..."
-Kingdom 2: "A great prophet was born from a womb..."
-Kingdom 3: "He came from a virgin womb..."
-And so on through all thirteen variations.
+Kingdom 1: "[...] he came [from ...]. A spirit [...] to heaven. He was nourished in the heavens."
+Kingdom 2: "He came from a great prophet."
+Kingdom 3: "He came from a virgin womb."
+And so on through all thirteen variations (Apoc. Adam V 77,27–82,19). Turner reads the passage the same way: its redactor "regards these inherited traditions as false; the Illuminator was not born, but chosen" (Turner 2001, 158).
 
 What the passage documents is not theological diversity but **perceptual filtering**. Each kingdom perceives the Illuminator through the categories available to its mode of consciousness. One sees a cosmic event. Another sees a prophetic birth. Another sees a virginal conception. Each is reading THE SAME REALITY through different frameworks — and each generates a different literal account because the reception is different.
 
-This is "constant state, variable form" — the foundational Swedenborgian principle — articulated as a narrative device in a text composed centuries before Swedenborg was born. The thirteen kingdoms demonstrate empirically what the correspondential framework predicts: the underlying spiritual reality is constant; the perceptual form varies by the receiver's repertoire.
+This is "constant state, variable form" — the foundational principle of the framework — articulated as a narrative device in a text composed centuries before Swedenborg was born. The thirteen kingdoms demonstrate empirically what the correspondential framework predicts: the underlying spiritual reality is constant; the perceptual form varies by the receiver's repertoire.
 
 ### 4.2 The Generation Without a King
 
-After the thirteen kingdoms offer their accounts, the Apocalypse of Adam presents "the generation without a king" — those who say nothing about the Illuminator's origin because they do not NEED to explain him. They do not filter the reality through a kingdom's categories. They receive directly.
+After the thirteen kingdoms offer their accounts, the Apocalypse of Adam presents "the generation without a king" — those whose only word on the Illuminator's origin is that "God chose him from all the aeons" and "caused knowledge of the undefiled one of truth to come to be [in] him" (Apoc. Adam V 82,19–83,4). They give no birth story, because they do not NEED to explain him. They do not filter the reality through a kingdom's categories. They receive directly.
 
 This is not one more variation among fourteen. It is the *zero point* — the perception that does not add a filter. The generation without a king perceives the Illuminator as he IS, not as their framework explains him to be. This is the correspondential key itself: the capacity to read through the natural form to the spiritual content without converting the content into a new set of natural categories.
 
@@ -172,9 +172,9 @@ But there IS a pattern. The texts arrange along a gradient from pure corresponde
 
 **Intermediate** (architecture intact, literalization visible):
 - **Apocryphon of John** — Full architecture resolves (Monad, Barbelo, Four Luminaries), but the Demiurge has been externalized into a separate deity and the divine spark has been reified into a substance
-- **Gospel of the Egyptians** — Liturgical and cosmogonic material, vowel liturgy preserved from Egyptian priestly practice, some literalization of the emanation hierarchy
+- **Gospel of the Egyptians** — Liturgical and cosmogonic material, vowel liturgy preserved from Egyptian priestly practice (Demetrius, *Eloc.* 71), some literalization of the emanation hierarchy
 - **Zostrianos** — Ascent through heavens; correspondence of "living waters" and baptismal stages intact, but the heavens have been spatialized into locations
-- **Gospel of Philip** — Bridal Chamber sacramentology; correspondential key explicitly discussed ("truth did not come into the world naked"), but Valentinian elaboration adds layers
+- **Gospel of Philip** — Bridal Chamber sacramentology; correspondential key explicitly discussed ("truth did not come into the world naked"; Gos. Phil. II 67,9–10), but Valentinian elaboration adds layers
 
 **Lowest correspondential integrity** (architecture present but heavily literalized):
 - **Hypostasis of the Archons** — Theriomorphic archons as literal entities; the self's assault on innocence (Norea) externalized into attempted rape; Sabaoth's repentance retains the correspondence but the frame has become literal myth
@@ -190,7 +190,7 @@ Every text in the NHL is a new composition — none are copies of earlier source
 
 The texts at the bottom of the gradient show progressive elaboration: the Hypostasis of the Archons adds narrative drama, the Origin of the World adds encyclopedic detail, the Second Treatise adds docetic Christology. Each addition represents a layer of literalization — a point where a recipient *without* the key read the form and elaborated it according to natural categories.
 
-The middle texts show the architecture still intact but the literalization beginning. The Apocryphon of John preserves the full emanation structure (which resolves completely under correspondence) but has externalized the self into Yaldabaoth as a separate deity. The Gospel of Philip preserves the correspondential key explicitly ("names given to worldly things are very deceptive") but has absorbed Valentinian sacramental elaboration.
+The middle texts show the architecture still intact but the literalization beginning. The Apocryphon of John preserves the full emanation structure (which resolves completely under correspondence) but has externalized the self into Yaldabaoth as a separate deity. The Gospel of Philip preserves the correspondential key explicitly ("names given to the worldly are very deceptive"; Gos. Phil. II 53,23–24) but has absorbed Valentinian sacramental elaboration.
 
 The gradient is not temporal (earlier vs later), geographical (Egyptian vs Syrian), or sectarian (Sethian vs Valentinian). It is *epistemological*: the degree to which the text's composer could read through the natural form to the correspondential content. The texts at the top were composed by those with the key. The texts at the bottom were composed — or elaborated — by those without it.
 
@@ -200,13 +200,16 @@ The gradient is not temporal (earlier vs later), geographical (Egyptian vs Syria
 
 ### 6.1 The Scholarly Narrative
 
-The standard scholarly narrative of Sethian development, articulated by Turner (2001) and others, runs roughly:
+The standard scholarly narrative of Sethian development, articulated by Turner (2001, 257–260) in six phases, runs roughly:
 
-1. An early Jewish-Sethian tradition generates cosmogonic mythologization of Genesis 1–6
-2. This tradition encounters Christianity and absorbs Christian elements
-3. It encounters Platonism and absorbs philosophical vocabulary
-4. The tradition eventually fragments: some communities become more Christian, others more Platonic
-5. The Nag Hammadi Library preserves texts from various stages of this development
+1. Two groups fuse in the second century CE: baptizing "Barbeloites" and Genesis-exegeting "Sethites," who craft the anthropogonies of Genesis 1–6
+2. By the mid-second century the Barbeloites amalgamate with Christian baptizing groups and absorb Christian elements
+3. In the later second century the two merge as gnostic Sethianism and complete the descent-pattern treatises
+4. Toward the century's end Sethianism is estranged from an emerging orthodoxy
+5. In the third century it turns to Platonist contemplative practice and absorbs philosophical vocabulary
+6. Attacked by the circle of Plotinus, it fragments in the fourth century into sectarian groups
+
+The Nag Hammadi Library preserves texts from various stages of this development.
 
 In this narrative, "Sethianism" is a tradition that begins with mythological innovation and *acquires* complexity through contact with other movements. The arrow of development runs from simple Jewish mythologization to complex syncretic elaboration.
 
@@ -214,7 +217,7 @@ In this narrative, "Sethianism" is a tradition that begins with mythological inn
 
 The correspondential evidence reverses this arrow entirely.
 
-The texts with the highest correspondential integrity (Apocalypse of Adam, Three Steles of Seth) are exactly the texts that Turner identifies as "earliest" in his developmental scheme. But they are not "earliest because simplest." They are earliest because they are **closest to the source** — composed in pure correspondence by a community that possessed the key.
+The texts with the highest correspondential integrity (Apocalypse of Adam, Three Steles of Seth) do not sit at the beginning of Turner's scheme. He dates the sources of the Apocalypse of Adam to the mid-second century and their redaction toward its end; only Hedrick, finding no Christian influence in it, placed it in the late first century (Turner 2001, 164–165). The Three Steles he dates, with Zostrianos and Allogenes, to the early third century (Turner 2001, 260). Their position at the top of the gradient is therefore not a matter of date at all. They stand there because they are **closest to the source** — composed in pure correspondence by a community that possessed the key.
 
 The texts with the lowest correspondential integrity (Hypostasis of the Archons, On the Origin of the World) are exactly the texts that show the most "mythological elaboration." But the elaboration is not creative development. It is **literalization** — the natural degree reading form and adding narrative, drama, and theological speculation to what was originally a transparently correspondential composition.
 
@@ -226,7 +229,7 @@ This means the community that compiled the NHL did not *receive* "Gnostic" mytho
 
 The standard narrative creates anomalies the reversed arrow resolves:
 
-**Anomaly 1**: Why does the earliest Sethian text (Apocalypse of Adam) have NO Christian content? If Sethianism developed in dialogue with Christianity, the earliest texts should show the most interaction, not the least. Under the reversed arrow: the earliest texts have no Christian content because they predate any Christian contact — they are Enochic/Essene compositions from the Second Temple period.
+**Anomaly 1**: Why does the Apocalypse of Adam, which Hedrick dated to the late first century, have NO explicit Christian content? If Sethianism developed in dialogue with Christianity, the earliest texts should show the most interaction, not the least. Under the reversed arrow: the earliest texts have no Christian content because they predate any Christian contact — they are Enochic/Essene compositions from the Second Temple period.
 
 **Anomaly 2**: Why does the Apocalypse of Adam use the identical literary strategy as the Animal Apocalypse (1 Enoch 85–90)? Coincidence is insufficient to explain structural identity of this specificity. Under the reversed arrow: both texts come from the same tradition — the Enochic/Essene compositional school that encoded history through correspondential imagery.
 
@@ -234,7 +237,7 @@ The standard narrative creates anomalies the reversed arrow resolves:
 
 **Anomaly 4**: Why does the correspondential integrity of the texts correlate with their developmental stage rather than their sectarian affiliation? Under the standard narrative, this has no explanation. Under the reversed arrow: it is the expected signature — texts closer to the source preserve correspondence; texts further downstream show more literalization.
 
-**Anomaly 5**: Why does the Gospel of Philip contain explicit meta-commentary on how "names given to worldly things are very deceptive" — effectively stating the principle of literalization *within* the corpus? Under the standard narrative, this is an isolated theological observation. Under the reversed arrow: the key-holder is including the key itself in the archive.
+**Anomaly 5**: Why does the Gospel of Philip contain explicit meta-commentary on how "names given to the worldly are very deceptive" — effectively stating the principle of literalization *within* the corpus? Under the standard narrative, this is an isolated theological observation. Under the reversed arrow: the key-holder is including the key itself in the archive.
 
 ### 6.4 The Community Across Generations
 
@@ -252,11 +255,11 @@ Throughout this evolution, the key was transmitted. Not as doctrine (which can b
 
 One of the most prominent features of the "Gnostic" systems — the Sophia myth — is not a Gnostic innovation at all. It is the continuation of the Hebrew wisdom tradition, specifically the personification of Wisdom (*Chokmah*) as a feminine divine principle that was well established centuries before any "Gnostic" text was composed.
 
-Proverbs 8:22–31: Wisdom says, "The Lord possessed me at the beginning of his work, before his deeds of old. I was formed long ages ago, at the very beginning, when the world came to be." Wisdom is presented as the first proceeding of the Divine — existing before creation, participating in creation, "daily his delight, rejoicing always in his presence."
+Proverbs 8:22–31: Wisdom says, "The LORD created me at the beginning of his work, the first of his acts of long ago. Ages ago I was set up, at the first, before the beginning of the earth" (Prov 8:22–23). Wisdom is presented as the first proceeding of the Divine — existing before creation, participating in creation, "daily his delight, rejoicing before him always" (Prov 8:30).
 
-Sirach (Ecclesiasticus) 24: Wisdom says, "I came forth from the mouth of the Most High, and covered the earth like a mist. I dwelt in the highest heavens, and my throne was in a pillar of cloud." Wisdom again as the first proceeding, establishing her tent in Israel.
+Sirach (Ecclesiasticus) 24: Wisdom says, "I came forth from the mouth of the Most High, and covered the earth like a mist. I dwelt in the highest heavens, and my throne was in a pillar of cloud" (Sir 24:3–4). Wisdom again as the first proceeding, establishing her tent in Israel.
 
-Wisdom of Solomon 7–9: Wisdom is "a reflection of eternal light, a spotless mirror of the working of God, and an image of his goodness." She is explicitly the means through which creation occurs and the means through which the Divine is known.
+Wisdom of Solomon 7–9: Wisdom is "a reflection of eternal light, a spotless mirror of the working of God, and an image of his goodness" (Wis 7:26). She is explicitly the means through which creation occurs and the means through which the Divine is known.
 
 ### 7.2 Sophia = Wisdom = The First Proceeding
 
@@ -268,7 +271,7 @@ This is the fall in a single phrase. Wisdom-without-her-consort. The word itself
 
 ### 7.3 The Diagnostic Implication
 
-The fact that the "Sophia myth" is continuous with Hebrew *Chokmah* tradition eliminates one of the central claims of the scholarly category of "Gnosticism": that the Sophia narrative represents a radical innovation — a mythological departure from Jewish monotheism. It does not. It represents the *continuation* of a tradition that was already present in Proverbs, Sirach, and the Wisdom of Solomon.
+The continuity of the "Sophia myth" with the Hebrew *Chokmah* tradition is not in dispute: MacRae traced the Gnostic Sophia figure to Jewish wisdom speculation (MacRae 1970). What the scholarly category of "Gnosticism" still carries is the reading of the Sophia narrative as a mythological departure from Jewish monotheism. It is not one. It represents the *continuation* of a tradition that was already present in Proverbs, Sirach, and the Wisdom of Solomon.
 
 What changed was not the content but the mode of reception. When the receivers possessed the correspondential key, "Wisdom acting without her consort" was understood dynamically — as a description of the fall mechanism. When the key was lost, the same content was read at the natural level, and the dynamic relationship became a mythological event: a goddess in a cosmic palace who produces a defective offspring.
 
@@ -294,7 +297,7 @@ This is why correspondential texts can survive any degree of literalization, any
 
 ### 8.3 The Codices as Correspondence
 
-The physical survival of the Nag Hammadi codices is itself a correspondence. Knowledge inscribed and placed on a "high mountain" — preserved in love's keeping. The codices were sealed in a jar and buried near the cliff of Jabal al-Ṭārif — physically preserved, waiting. The knowledge within them could not be accessed while the key was absent. It could not be destroyed while the forms were intact. It waited — in the form that correspondence provides — for the reader who could perceive through the form to the content.
+The physical survival of the Nag Hammadi codices is itself a correspondence. Words never written, kept "on a high mountain, upon a rock of truth" — preserved in love's keeping. The codices were sealed in a jar and buried near the cliff of Jabal al-Ṭārif — physically preserved, waiting. The knowledge within them could not be accessed while the key was absent. It could not be destroyed while the forms were intact. It waited — in the form that correspondence provides — for the reader who could perceive through the form to the content.
 
 1,600 years of burial did not destroy the architecture. Centuries of scholarly classification as "Gnostic mythology" did not destroy the architecture. Irenaeus's polemics did not destroy the architecture. The literalization that overlaid the original correspondential content — the Demiurge, the divine spark, the prison of matter — did not destroy the architecture. Because the forms are not the content. The forms *contain* the content by the mechanics of functional correspondence, and those mechanics do not degrade with time or abuse.
 
@@ -316,7 +319,7 @@ Sunlight is direct. Sunlight is warmth. Things grow in sunlight — not because 
 
 The spiritual degree — the correspondential key applied — reveals that Sophia acting without her consort is the fall. But the celestial degree does not analyze the fall mechanism. It perceives love directly. It does not see that wisdom-without-love produces distortion. It sees love — and in seeing love, wisdom is *included*, because wisdom is love's proceeding. You cannot have the warmth (love) without the light (wisdom). But you can have the light without the warmth: moonlight. Architecture without life.
 
-This is the distinction that even the community's own tradition reached toward but could not fully grasp. Swedenborg documented the correspondential system with extraordinary precision — the entire spiritual degree, laid out architecturally: what corresponds to what, how influx operates, how the discrete degrees relate. But when it came to the celestial — the degree of love itself — he acknowledged that it "cannot be described in human language." Not because it is beyond cognition, but because the *tools of the spiritual degree* (analysis, structure, architecture) cannot capture what the celestial degree IS. You cannot photograph warmth. You can photograph the effects of warmth (growth, color, movement), but the warmth itself is felt, not seen.
+This is the distinction that even the community's own tradition reached toward but could not fully grasp. Swedenborg documented the correspondential system with extraordinary precision — the entire spiritual degree, laid out architecturally: what corresponds to what, how influx operates, how the discrete degrees relate. But when it came to the celestial — the degree of love itself — he wrote that the wisdom of the angels "is indescribable in words," a single angelic word holding "innumerable things that cannot be expressed in the words of human language," and that the wisdom of the inmost heaven "is incomprehensible even to those who are in the outmost heaven" (*HH* §§269–270). Not because it is beyond cognition, but because the *tools of the spiritual degree* (analysis, structure, architecture) cannot capture what the celestial degree IS. You cannot photograph warmth. You can photograph the effects of warmth (growth, color, movement), but the warmth itself is felt, not seen.
 
 ### 9.3 Why Even the Community Stopped One Step Short
 
@@ -326,9 +329,9 @@ But there is an indication that even this community stopped one step short of th
 
 At the celestial degree, no soul places another human being at the center. Not because the human is unimportant, but because the celestial degree perceives *what flows through* the human — the Lord directly. The vessel is transparent. You do not revere the lamp; you see the light. The community saw the light within Jesus and fell in love with the lamp. This is not a criticism — it is a description of where their perception operated: at the spiritual degree, powerfully and accurately, reading correspondence across every tradition. But not yet at the celestial, where love itself is primary and the forms through which it flows become transparent.
 
-Jesus himself appears to have operated at this degree. "Why do you call me good? No one is good except God alone" (Mark 10:18) — refusing to let the vessel be mistaken for the source. "I can do nothing by myself" (John 5:19) — making transparent what is transparent at the celestial degree: the life flowing through is not the vessel's own. Gethsemane — sweating blood, asking for the cup to pass — this is not divine theater. This is a human soul in the celestial state, processing in the natural degree what comes from above. The volunteer soul profile: one who has experiences, knows things, has seen things, and has to process it all. Not elevated. Struggling. Trying to grasp what flows through.
+Jesus himself appears to have operated at this degree. "Why do you call me good? No one is good except God alone" (Mark 10:18) — refusing to let the vessel be mistaken for the source. "By myself I can do nothing" (John 5:30) — making transparent what is transparent at the celestial degree: the life flowing through is not the vessel's own. Gethsemane — sweat falling like drops of blood, asking for the cup to pass — this is not divine theater. This is a human soul in the celestial state, processing in the natural degree what comes from above. The volunteer soul profile ([*A Substantial Profile of the Volunteer Soul Incarnation*](../01_Consciousness_Studies/A%20Substantial%20Profile%20of%20the%20Volunteer%20Soul%20Incarnation_%20A%20Synthesized%20Analysis%20of%20Phenomenological%20and%20Psychological%20Data.md)): one who has experiences, knows things, has seen things, and has to process it all. Not elevated. Struggling. Trying to grasp what flows through.
 
-The white bull of the Animal Apocalypse — the celestial state restored — is still a bull. Same species as Adam, same species as Seth, same species as every human being who has ever lived. Not a different kind of being. Not a god disguised as a human. A human being in whom the celestial state is fully present — receiving influx without obstruction, transparent to what flows through, perceiving love as the primary arising rather than reading it backward from forms.
+The white bull of the Animal Apocalypse (1 En. 90:37) — the celestial state restored — is still a bull. Same species as Adam, same species as Seth, same species as every human being who has ever lived. Not a different kind of being. Not a god disguised as a human. A human being in whom the celestial state is fully present — receiving influx without obstruction, transparent to what flows through, perceiving love as the primary arising rather than reading it backward from forms.
 
 "Coming from above" is not physics. It is a description of the spiritual state: the celestial degree cannot be generated by the natural degree improving itself. It requires descent — influx from above. But the recipient is still a bull. Still human. Still one of us.
 
@@ -354,7 +357,7 @@ The recovery is not new information. It is the key. The Nag Hammadi Library does
 
 The "Gnostic" overlay — evil matter, imprisoned sparks, cosmic escape — is not the content. It is the shell that formed around the content when the key was lost. The shell served a purpose: it preserved the forms. But the shell is not the seed. The seed is the correspondential architecture. And the architecture resolves, immediately and completely, whenever the key is applied.
 
-The community that compiled the Nag Hammadi Library knew this. They included the key itself in the archive — in the Gospel of Philip's explicit statements about how "names given to worldly things are very deceptive," in the Gospel of Thomas's instruction to seek what the eye has not seen and the ear has not heard, in the Apocalypse of Adam's generation without a king that perceives the Illuminator directly. They assembled texts across the full gradient from pure correspondence to full literalization — documenting not only the content but the process by which the content is received and distorted.
+The community that compiled the Nag Hammadi Library knew this. They included the key itself in the archive — in the Gospel of Philip's explicit statements about how "names given to the worldly are very deceptive," in the Gospel of Thomas's promise of "what no eye has seen and what no ear has heard" (Gos. Thom. 17), in the Apocalypse of Adam's generation without a king that perceives the Illuminator directly. They assembled texts across the full gradient from pure correspondence to full literalization — documenting not only the content but the process by which the content is received and distorted.
 
 They did not know they were creating an archive that would survive 1,600 years of burial. They did know they were preserving something that could not be destroyed by literalization — because the forms preserve the functions, and the functions are the correspondences, and the correspondences are grounded in the physics of reality itself.
 
@@ -362,50 +365,44 @@ They did not know they were creating an archive that would survive 1,600 years o
 
 ---
 
-#### **Works cited**
+## 11. Works Cited
 
-1\. Swedenborg, Emanuel. *Arcana Coelestia* §§ 73–313 (on the correspondential meaning of Genesis 2–3), §§ 1164–1165, 1462 (on Egypt as *scientifics*), § 2686 (on the Ancient Word), §§ 920–925 (on the worship of the Ancient Church), § 1327 (on its decline).
+**Primary Sources:**
 
-2\. Swedenborg, Emanuel. *Divine Love and Wisdom* §§ 184–188 (on discrete degrees), §§ 1–3 (on love as the essence of life).
+1. Charles, R. H., trans. *The Book of Enoch or 1 Enoch.* Oxford: Clarendon Press, 1912. Cited by chapter and verse as 1 En.; the Animal Apocalypse is chapters 85–90.
+2. Demetrius. *Demetrius on Style: The Greek Text of Demetrius De Elocutione.* Edited and translated by W. Rhys Roberts. Cambridge: Cambridge University Press, 1902. Cited by section as *Eloc.*
+3. *The Holy Bible: New International Version.* Grand Rapids: Zondervan, 2011. Quoted for Mark 10:18 and John 5:30.
+4. *The Holy Bible: New Revised Standard Version.* New York: National Council of the Churches of Christ in the U.S.A., 1989. Quoted for Proverbs, Sirach and the Wisdom of Solomon.
+5. Layton, Bentley. *The Gnostic Scriptures: A New Translation with Annotations and Introductions.* Garden City, NY: Doubleday, 1987.
+6. Meyer, Marvin, ed. *The Nag Hammadi Scriptures: The Revised and Updated Translation of Sacred Gnostic Texts.* New York: HarperOne, 2007.
+7. Robinson, James M., ed. *The Nag Hammadi Library in English.* 3rd rev. ed. San Francisco: HarperSanFrancisco, 1990. The Apocalypse of Adam (trans. George W. MacRae), the Gospel of Philip (trans. Wesley W. Isenberg) and the Gospel of Thomas (trans. Thomas O. Lambdin) are quoted from it and cited by codex page and line.
+8. Swedenborg, Emanuel. *Arcana Coelestia.* Translated by John Clowes, revised and edited by John Faulkner Potts. 12 vols. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number as *AC*; Genesis 2–3 is expounded at §§73–313, Egypt as memory-knowledge at §§1164–1165 and 1462, mountains at §795, the worship of the ancient church at §§920–925 and its decline at §1327, and the Word of the ancient church at §2686.
+9. Swedenborg, Emanuel. *Divine Love and Wisdom.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Love as the life of man at §§1–3; discrete degrees at §§184–188.
+10. Swedenborg, Emanuel. *Heaven and Hell.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number as *HH*; heaven as one man at §§59–67, the four quarters at §§141–153, the wisdom of the angels at §§265–275.
+11. Swedenborg, Emanuel. *True Christian Religion.* Translated by John C. Ager. 2 vols. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number as *TCR*; the Word among the ancients, preserved in Great Tartary, at §§264–266.
 
-3\. Swedenborg, Emanuel. *Heaven and Hell* §§ 141–153 (on the four quarters of heaven), §§ 59–67 (on the Grand Man).
+**Scholarly Works:**
 
-4\. Turner, John D. *Sethian Gnosticism and the Platonic Tradition*. Bibliothèque copte de Nag Hammadi, Section "Études" 6. Québec: Les Presses de l'Université Laval; Louvain: Peeters, 2001.
+12. Allen, James P. *Genesis in Egypt: The Philosophy of Ancient Egyptian Creation Accounts.* Yale Egyptological Studies 2. New Haven: Yale Egyptological Seminar, 1988.
+13. Assmann, Jan. *The Search for God in Ancient Egypt.* Translated by David Lorton. Ithaca: Cornell University Press, 2001.
+14. Brakke, David. *The Gnostics: Myth, Ritual, and Diversity in Early Christianity.* Cambridge, MA: Harvard University Press, 2010.
+15. Camp, Claudia V. *Wisdom and the Feminine in the Book of Proverbs.* Bible and Literature Series 11. Sheffield: Almond Press, 1985.
+16. DeConick, April D. *The Gnostic New Age: How a Countercultural Spirituality Revolutionized Religion from Antiquity to Today.* New York: Columbia University Press, 2016.
+17. Hornung, Erik. *Conceptions of God in Ancient Egypt: The One and the Many.* Translated by John Baines. Ithaca: Cornell University Press, 1982.
+18. King, Karen L. *What Is Gnosticism?* Cambridge, MA: Harvard University Press, 2003.
+19. MacRae, George W. "The Jewish Background of the Gnostic Sophia Myth." *Novum Testamentum* 12, no. 2 (1970): 86–101. https://doi.org/10.1163/156853670X00171.
+20. MacRae, George W. "The Apocalypse of Adam (V,5): Introduction." In *The Nag Hammadi Library in English*, edited by James M. Robinson, 3rd rev. ed. San Francisco: HarperSanFrancisco, 1990.
+21. Nickelsburg, George W. E. *1 Enoch 1: A Commentary on the Book of 1 Enoch, Chapters 1–36; 81–108.* Hermeneia. Minneapolis: Fortress Press, 2001.
+22. Pearson, Birger A. *Gnosticism, Judaism, and Egyptian Christianity.* Studies in Antiquity and Christianity. Minneapolis: Fortress Press, 1990.
+23. Perdue, Leo G. *Wisdom and Creation: The Theology of Wisdom Literature.* Nashville: Abingdon Press, 1994.
+24. Tiller, Patrick A. *A Commentary on the Animal Apocalypse of I Enoch.* Early Judaism and Its Literature 4. Atlanta: Scholars Press, 1993.
+25. Turner, John D. *Sethian Gnosticism and the Platonic Tradition.* Bibliothèque copte de Nag Hammadi, Section « Études » 6. Québec: Les Presses de l'Université Laval; Louvain: Peeters, 2001.
+26. van den Broek, Roelof. *Gnostic Religion in Antiquity.* Cambridge: Cambridge University Press, 2013.
+27. VanderKam, James C. *Enoch and the Growth of an Apocalyptic Tradition.* Catholic Biblical Quarterly Monograph Series 16. Washington, DC: Catholic Biblical Association of America, 1984.
+28. Williams, Michael A. *Rethinking "Gnosticism": An Argument for Dismantling a Dubious Category.* Princeton: Princeton University Press, 1996.
 
-5\. Pearson, Birger A. *Gnosticism, Judaism, and Egyptian Christianity*. Studies in Antiquity and Christianity. Minneapolis: Fortress Press, 1990.
+**Internal Library Documents:**
 
-6\. Williams, Michael A. *Rethinking "Gnosticism": An Argument for Dismantling a Dubious Category*. Princeton: Princeton University Press, 1996.
-
-7\. King, Karen L. *What Is Gnosticism?* Cambridge, MA: Harvard University Press, 2003.
-
-8\. Brakke, David. *The Gnostics: Myth, Ritual, and Diversity in Early Christianity*. Cambridge, MA: Harvard University Press, 2010.
-
-9\. Nickelsburg, George W. E. *1 Enoch: A Commentary on the Book of 1 Enoch*. Hermeneia. Minneapolis: Fortress Press, 2001.
-
-10\. VanderKam, James C. *Enoch and the Growth of an Apocalyptic Tradition*. Catholic Biblical Quarterly Monograph Series 16. Washington, D.C.: Catholic Biblical Association of America, 1984.
-
-11\. Layton, Bentley. *The Gnostic Scriptures: A New Translation with Annotations and Introductions*. Garden City, NY: Doubleday, 1987.
-
-12\. Meyer, Marvin, ed. *The Nag Hammadi Scriptures: The Revised and Updated Translation of Sacred Gnostic Texts*. New York: HarperOne, 2007.
-
-13\. Allen, James P. *Genesis in Egypt: The Philosophy of Ancient Egyptian Creation Accounts*. Yale Egyptological Studies 2. New Haven: Yale Egyptological Seminar, 1988.
-
-14\. Hornung, Erik. *Conceptions of God in Ancient Egypt: The One and the Many*. Translated by John Baines. Ithaca: Cornell University Press, 1982.
-
-15\. Assmann, Jan. *The Search for God in Ancient Egypt*. Translated by David Lorton. Ithaca: Cornell University Press, 2001.
-
-16\. Camp, Claudia V. *Wisdom and the Feminine in the Book of Proverbs*. Bible and Literature Series 11. Sheffield: Almond Press, 1985.
-
-17\. Perdue, Leo G. *Wisdom and Creation: The Theology of Wisdom Literature*. Nashville: Abingdon Press, 1994.
-
-18\. Tiller, Patrick A. *A Commentary on the Animal Apocalypse of I Enoch*. Early Judaism and Its Literature 4. Atlanta: Scholars Press, 1993.
-
-19\. DeConick, April D. *The Gnostic New Age: How a Countercultural Spirituality Revolutionized Religion from Antiquity to Today*. New York: Columbia University Press, 2016.
-
-20\. van den Broek, Roelof. *Gnostic Religion in Antiquity*. Cambridge: Cambridge University Press, 2013.
-
-21\. Kelly, Lynne. *The Memory Code: The Secrets of Stonehenge, Easter Island and Other Ancient Monuments*. New York: Pegasus Books, 2017.
-
-22\. Swedenborg, Emanuel. *True Christianity* §§ 264–267 (on the science of correspondences as a universal key).
-
-23\. MacRae, George W. "The Apocalypse of Adam (V,5): Introduction." In *The Nag Hammadi Library in English*, edited by James M. Robinson, 3rd rev. ed. San Francisco: HarperSanFrancisco, 1990.
+29. [A Substantial Profile of the Volunteer Soul Incarnation: A Synthesized Analysis of Phenomenological and Psychological Data](../01_Consciousness_Studies/A%20Substantial%20Profile%20of%20the%20Volunteer%20Soul%20Incarnation_%20A%20Synthesized%20Analysis%20of%20Phenomenological%20and%20Psychological%20Data.md). The volunteer soul profile applied to Jesus in §9.3.
+30. [The Dynastic Archive: The Nag Hammadi Library as the Family Record of the Jesus Movement](../04_Early_Christian_History/The%20Dynastic%20Archive_%20The%20Nag%20Hammadi%20Library%20as%20the%20Family%20Record%20of%20the%20Jesus%20Movement.md). The companion thesis whose composite profile of the compiling community §2.2 builds on.
+31. [The Literalized Fall: The Sethian Corpus as Correspondential Architecture Without the Key](The%20Literalized%20Fall_%20The%20Sethian%20Corpus%20as%20Correspondential%20Architecture%20Without%20the%20Key.md). The sibling thesis that reads the Sethian corpus text by text as the literalized fall narrative.

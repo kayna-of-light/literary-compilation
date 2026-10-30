@@ -188,6 +188,12 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 >
 > **Before anything else: `git fetch --unshallow origin`.** The session's clone is shallow.
 >
+> **Standing rule from the author (2026-10-30): NDEs do not establish Jesus.** The library does not hold that NDE
+> data identify the Being of Light as Jesus, and its own NDE research shows the opposite: the encounter's function is
+> constant while the name tracks religious background only weakly (`structured-data-analysis` `CLAUDE.md` §6.1 row 1;
+> *Pure Encounter*). A document claiming that experiencers "identify the Being of Light as Jesus" across cultures is
+> making an error of record, not stating the frame — correct it to the data (model: *The Statue and the Stone* §5.5).
+>
 > **Standing rule from the author (2026-10-26)**: where a document explains the Disney correspondences by Jungian
 > archetypes, by animators' intuition or by independent rediscovery, rewrite it to the mapped record. The method was
 > **taught** (memo 1935, Graham 1937, Stanchfield's classes, the 1995 reissue) and has a documented route from Swedenborg

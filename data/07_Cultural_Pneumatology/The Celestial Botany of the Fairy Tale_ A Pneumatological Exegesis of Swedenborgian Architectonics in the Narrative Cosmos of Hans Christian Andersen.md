@@ -52,7 +52,7 @@ Swedenborg draws a sharp ontological line between animals and humans based on th
 This is the semantic logic of Swedenborg’s universe. Every natural object is the physical manifestation of a spiritual cause. The relationship is causal, not metaphorical.
 
 * **Water:** Corresponds to **Truth** (natural or spiritual) (*Arcana Coelestia* §2702).  
-* **Heat/Fire:** Corresponds to **Love** (good or evil).  
+* **Heat/Fire:** Corresponds to **Love** (good or evil) (*Heaven and Hell* §118; *Arcana Coelestia* §934).  
 * **Light:** Corresponds to **Wisdom** (*Heaven and Hell* §§116–140).  
 * **Animals:** Correspond to specific **Affections**. A faithful dog is the guard (*Arcana Coelestia* §5051); a horse represents the understanding/intellect (*Arcana Coelestia* §2761); birds represent "rational and intellectual things" (*Arcana Coelestia* §40; *The Animating Spirit: An Exhaustive Analysis* §3).
 

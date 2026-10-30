@@ -297,7 +297,7 @@ Two independent traditions — one ancient, one modern; one with access to Zoroa
 
 **Internal Library Documents:**
 
-9. [A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg](../02_Swedenborgian_Theology/A%20Library%20of%20Biblical%20Correspondences%20in%20Nature%20and%20Objects%20According%20to%20Emanuel%20Swedenborg.md) — a Swedenborgian reference compilation used to locate the body-part correspondences.
+9. [A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg](../02_Swedenborgian_Theology/A%20Library%20of%20Biblical%20Correspondences%20in%20Nature%20and%20Objects%20According%20to%20Emanuel%20Swedenborg.md) — a Swedenborgian reference compilation of natural correspondences: water as truth and fire as love, behind the four elemental angels.
 10. [The Grand Man: An Exhaustive Anatomical Atlas of the Divine Human](../02_Swedenborgian_Theology/The%20Grand%20Man_%20An%20Exhaustive%20Anatomical%20Atlas%20of%20the%20Divine%20Human.md) — the anatomical atlas of the *Maximus Homo* against which the angel list is compared.
 11. [The Universal Mirror: An Exhaustive Cartography of Natural Correspondences in the Theology of Emanuel Swedenborg](../02_Swedenborgian_Theology/The%20Universal%20Mirror_%20An%20Exhaustive%20Cartography%20of%20Natural%20Correspondences%20in%20the%20Theology%20of%20Emanuel%20Swedenborg.md) — a Swedenborgian reference compilation of natural correspondences.
 

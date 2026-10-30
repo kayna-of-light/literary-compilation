@@ -131,7 +131,7 @@ In Swedenborg’s physics, "altitude" corresponds to "degree of state." High pla
   * *Mechanism:* Mountains are elevated above the earth and are the first to catch the light of the sun. They correspond to the "highest" state of the mind which is nearest to the Lord.  
   * *The Seven Mountains (Rev 17):* In the opposite sense, these signify the **Profanation of Love**: the Divine goods of the Word upon which Babylon's religious persuasion is founded, "destroyed in time, and at length profaned" (*AR* §737). When the love of self (Babylon) exalts itself to the height of heaven, it becomes a profane mountain.  
 * **Hills:** Correspond to **Spiritual Love** (Charity toward the neighbor) (*AC* §6435). They are lower than mountains, corresponding to the "lesser" but still elevated good of charity.  
-* **Valleys:** Correspond to the **Natural Mind** or the "External Man"; a valley signifies "lower, or what is the same, exterior things" (*AC* §3417).  
+* **Valleys:** Correspond to the **lower, exterior things** of the mind, the natural or "External Man" as it lies beneath the interior: a valley signifies "lower, or what is the same, exterior things" (*AC* §3417).  
   * *Mechanism:* Valleys receive the runoff from the mountains. The natural mind is the vessel that receives the influx of good and truth from the internal spiritual mind. A "fruitful valley" is a natural mind rich in good works. A "dark valley" is a natural mind devoid of spiritual light.  
 * **Caves/Caverns:** Correspond to **Obscurity** and the **Sensual Mind**.  
   * *Context:* In the spiritual world, the entrances to the hells often appear as dark caves or clefts in the rock (*HH* §§584–585). This corresponds to the desire of evil spirits (and the sensual mind) to hide from the Divine Light and dwell in the darkness of their own falsities. To "hide in the caves" (Rev 6\) corresponds to the terror of the evil when the light of truth reveals their internal state, for they "were now in evils and in the falsities of evil" (*AR* §338).
@@ -142,9 +142,10 @@ If the earth is the will/good, then water is the understanding/truth. Water clea
 
 ### **4.1 Bodies of Water and Intelligence**
 
-* **The Ocean/Sea:** Corresponds to the **General Collection of Scientifics** (External Truths) and the **Literal Sense of the Word**.  
-  * *Mechanism:* The sea is the gathering place of all waters. It corresponds to the memory, which is the gathering place of all knowledge (*AC* §28). It is the boundary of the land (church).  
-  * *Opposite Sense:* **Hell.** The sea can represent a chaotic abyss of falsities and lusts. The "beast rising out of the sea" (Rev 13\) signifies "reasonings from the natural man, because the 'sea' out of which that beast came up signifies the natural of man" (*AE* §815).  
+* **The Ocean/Sea:** Corresponds to the **General Collection of Scientifics** (External Truths)—not the natural mind as a whole, but "the natural man in respect to its knowledge there" (*AE* §511): "the generals of truth … with man in the natural man, which truth is called knowledge (*scientificum*)" (*AE* §275). Where the Word is its subject, it is the Word in its natural sense (*AE* §355).
+  * *Mechanism:* The sea is the gathering place of all waters, and "seas" signify "a collection of knowledges" (*AC* §28; see §2702). It corresponds to the memory, which is the gathering place of all knowledge, and it lies at the outmost: the sea is "where truth is in its outmost" (*AE* §342), and in the spiritual world seas appear "about the outmost boundaries where spiritual societies or heaven itself ends" (*AE* §511). Its water is "knowledge in general," its waves "disputation and reasoning, which are maintained by knowledges" (*AE* §511). It is the boundary of the land (church).
+  * *State:* What the sea holds depends on the love that rules the man. When spiritual affection "flows in through the spiritual into the natural man, then the natural man is a spiritual-natural man"; when merely natural affection rules, "there is in the natural man no truth, but everything therein is knowledge not true, it is dead knowledge and false knowledge" (*AE* §511).
+  * *Opposite Sense:* **Hell.** When the natural is cut off from the spiritual, the sea is what remains—knowledge with nothing of life in it. It then "signifies damnation and hell, where all are in their own (proprium), because they are in the natural man separated from the spiritual" (*AE* §355), and the waters over the hells are "dense, black, and sometimes ruddy" (*AE* §511). The "beast coming up out of the sea" (Rev 13\) rises from it "because the 'sea' signifies the natural man separated from the spiritual" (*AE* §316); its reasonings are "reasonings from the natural man" (*AE* §815).  
 * **Rivers:** Correspond to **Intelligence** and the **Flow of Wisdom** (*AC* §108).  
   * *Mechanism:* A river flowing through a land corresponds to the influx of truth organizing and enlivening the mind.  
   * *River Euphrates:* Corresponds to **memory-knowledge**, "which is the ultimate or boundary" (*AC* §118); the reasoning mind is the Hiddekel. As the boundary of the land of Canaan (the spiritual church) it marks the extension of celestial things (*AC* §1866). Its waters, drunk "in the way of Assyria," denote **False Reasoning**—"falsities from reasonings" (*AC* §790).  
@@ -194,7 +195,7 @@ Swedenborg identifies a specific correspondence for the three primary agricultur
 
 * **Cedar (of Lebanon):** Corresponds to **Rational Truth** of a high order—"truth from good in the rational" (*AE* §175).  
   * *Context:* The cedar is tall, majestic, and enduring. It corresponds to the rational mind that organizes truths into a coherent, protective system. It represents the "intellectual" spiritual man.  
-* **Oak:** Corresponds to **Natural Perception**: perceptions "such as are human from memory-knowledges, and from the first rational things thence derived" (*AC* §2144; see §§1442–1443).
+* **Oak:** Corresponds to **Natural Perception**: perceptions "such as are human from memory-knowledges, and from the first rational things thence derived" (*AC* §2144); the trees of an oak grove are "exterior perceptions, or those of memory-knowledges, which belong to the external man" (*AC* §1443; see §1442).
   * *Context:* The oak is strong, knotty, and has low-hanging branches. It corresponds to the perception of the natural mind—strong and enduring, but grounded in the senses rather than high spiritual insight. When Deborah, Rebekah's nurse, is "buried … under the oak" (Gen 35:8), hereditary evil in the natural is expelled and "rejected forever" (*AC* §§4562–4563).  
 * **Trees in General:** Correspond to **Perceptions** and **Knowledges** (*AC* §103). The root is the knowledge embedded in the memory; the trunk is the disposition of the mind; the branches are the reach of reasoning; the leaves are the specific truths; the fruit is the good of life.
 
@@ -213,8 +214,8 @@ Swedenborg identifies a specific correspondence for the three primary agricultur
 
 * **The Garden (Eden):** Corresponds to **Intelligence and Wisdom**; a "garden" signifies intelligence, and "Eden" love (*AC* §100).  
   * *Meaning:* A garden is nature ordered by human (or Divine) intent. It corresponds to the mind cultivated by Divine Truths. "Eden" represents the wisdom of the Most Ancient Church where love and wisdom were perfectly united.  
-* **The Forest:** Corresponds to the **Natural Man** and its dense perceptions—"the memory-knowledge of the natural man" (*AC* §10644).  
-  * *Meaning:* A forest is wild and uncultivated. It represents the natural mind before regeneration—full of knowledge (trees) but disordered and potentially dark. "The beast of the forest" corresponds to the affections of the unregenerate natural man.
+* **The Forest:** Corresponds to the **intelligence of the natural man**, "which regarded in itself is knowledge serviceable to the intelligence of the spiritual man" (*AE* §638): "the memory-knowledge of the natural man" (*AC* §10644). The church is called "a 'forest' from knowledge, a 'garden' from intelligence, and a 'paradise' from wisdom," because trees signify perceptions and knowledges (*AC* §9011; see §103); the trees of the forest of Lebanon are "interior perceptions, or those of rational things" (*AC* §1443).
+  * *Meaning:* A forest is wild and uncultivated beside the garden: the natural mind's perception and knowledge, of use but not yet intelligence. When the church is laid waste, the vine and the fig tree are made a forest—"the sensual man who is in mere fallacies and in falsities therefrom" (*AE* §388). "The wild beast of the forest" signifies "the affection of knowledges" (*AE* §650).
 
 ## **6\. The Biosphere: The Zoological Kingdom**
 
@@ -240,7 +241,7 @@ Animals correspond to **Affections** (feelings/emotions). While plants represent
 * **The Lion:** Corresponds to the **Power of Truth** from good (*AC* §§6367, 6441).  
   * *Genuine Sense:* The "Lion of the Tribe of Judah." This represents the Lord in His omnipotence of Divine Truth fighting against the hells. The lion’s roar corresponds to the power of divine revelation.  
   * *Opposite Sense:* The **Power of Falsity**. The "roaring lion" seeking to devour corresponds to the lust of self-love destroying the truths of the church: "the evil of the love of self in its power" (*AC* §6367).  
-* **The Bear:** Corresponds to the **Natural Man** and the **Literal Sense of the Word**.  
+* **The Bear:** Corresponds to **truth in ultimates**: the **Literal Sense of the Word** as the natural man holds it.  
   * *Genuine Sense:* Power in the ultimate/literal sense; "bears" signify truth in ultimates (*AE* §66). The bear is strong and shaggy.
   * *Opposite Sense:* Those who read the Word only literally, without understanding its spirit. This leads to fallacies and "bear-like" clumsiness in spiritual matters. The bear's feet in Rev 13 signify a heresy "full of fallacies from the sense of the letter of the Word read but not understood" (*AR* §573).  
 * **The Wolf:** Corresponds to **Avarice** and the **Lust of Destroying Truths**: "one who seizes and scatters," "the avidity of seizing" (*AC* §6441).

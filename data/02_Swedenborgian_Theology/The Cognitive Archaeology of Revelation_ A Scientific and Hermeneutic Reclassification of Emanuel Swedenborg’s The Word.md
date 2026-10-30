@@ -164,7 +164,7 @@ The Bible concludes with the Apocalypse, a book that returns entirely to the mod
 
 * **The Rejection of Abstraction:** John of Patmos does not write a theological treatise on eschatology. He sees "Beasts," "Harlots," "Dragons," and "Cities."  
 * **The Magian Climax:** The imagery draws heavily on the Danielic tradition. The "Dragon" (in Zoroastrian thought Aži Dahāka, whom Angra Mainyu made as the mightiest *Druj*, the Lie (*Yasna* 9.8)) corresponds to "Faith Separated from Charity" (the intellectual pride that devours the church) (*AE* §815).  
-* **The New Jerusalem:** This is the ultimate *Listenwissenschaft* list—a city defined by measurements (12,000 furlongs) and a catalog of 12 precious stones (Exodus 28 redux). It confirms that the final state of the church is a return to the "Science of Correspondences"—a transparent perception of the Divine in the structure of reality (*A Library of Biblical Correspondences*).
+* **The New Jerusalem:** This is the ultimate *Listenwissenschaft* list—a city defined by measurements (12,000 furlongs) and a catalog of 12 precious stones (Exodus 28 redux). It confirms that the final state of the church is a return to the "Science of Correspondences"—a transparent perception of the Divine in the structure of reality: the foundations of precious stones are the doctrine "from the sense of the letter of the Word" made translucent by its spiritual sense (*AR* §915; *A Library of Biblical Correspondences*).
 
 ## **8\. The Exclusions: The Cognitive Shift from *Mythos* to *Logos***
 

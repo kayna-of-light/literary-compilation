@@ -6,7 +6,7 @@
 
 ## Abstract
 
-This thesis examines Emanuel Swedenborg's interpretation of Nebuchadnezzar's statue (Daniel 2:31-45) through a post-materialist framework that synthesizes historical-critical scholarship, correspondential hermeneutics, and empirical consciousness studies. The central argument proposes that the statue's four metals represent not discrete historical periods but continuous organic spiritual development—consciousness evolving through stages like physical maturation. By analyzing corpus variations across Swedenborg's writings (1749-1760), we demonstrate that his progressive refinement of the correspondence reflects guided revelation through a developing vessel rather than systematic error. The thesis further establishes that ancient prophecies (Saoshyant, Messiah) represent accurate perception of eternal truth—the Lord as He expresses through unobstructed humanity—rather than temporal prediction. This framework resolves apparent contradictions between Swedenborg's multiple interpretive angles while validating his methodological approach: the correspondence as hypothesis tested against empirical reality. The implications extend beyond biblical hermeneutics to fundamental questions about consciousness, prophecy, and the nature of spiritual truth grounding itself in ultimates.
+This thesis examines Emanuel Swedenborg's interpretation of Nebuchadnezzar's statue (Daniel 2:31-45) through a post-materialist framework that synthesizes historical-critical scholarship, correspondential hermeneutics, and empirical consciousness studies. The central argument proposes that the statue's four metals represent not discrete historical periods but continuous organic spiritual development—consciousness evolving through stages like physical maturation. By analyzing corpus variations across Swedenborg's writings (1749–1771), we demonstrate that his progressive refinement of the correspondence reflects guided revelation through a developing vessel rather than systematic error. The thesis further establishes that ancient prophecies (Saoshyant, Messiah) represent accurate perception of eternal truth—the Lord as He expresses through unobstructed humanity—rather than temporal prediction. This framework resolves apparent contradictions between Swedenborg's multiple interpretive angles while validating his methodological approach: the correspondence as hypothesis tested against empirical reality. The implications extend beyond biblical hermeneutics to fundamental questions about consciousness, prophecy, and the nature of spiritual truth grounding itself in ultimates.
 
 **Keywords:** Swedenborg, Daniel prophecy, correspondences, consciousness evolution, Divine Human, progressive revelation, spiritual development, post-materialism
 
@@ -16,9 +16,9 @@ This thesis examines Emanuel Swedenborg's interpretation of Nebuchadnezzar's sta
 
 ### 1.1 The Historical Text and Its Interpretive Challenges
 
-The second chapter of the Book of Daniel presents one of Scripture's most enigmatic images: King Nebuchadnezzar's dream of a colossal statue composed of descending metals—gold, silver, bronze, iron mixed with clay—destroyed by a stone "cut without hands" that grows into a mountain filling the earth (Daniel 2:31-45). Historical-critical scholarship, following John J. Collins' landmark commentary (1993), establishes the text's composition during the Maccabean crisis (167-164 BCE), positioning it within Second Temple apocalyptic literature. The traditional interpretation reads the statue as a succession of earthly kingdoms (Babylonian, Median, Persian, Greek) culminating in divine intervention.
+The second chapter of the Book of Daniel presents one of Scripture's most enigmatic images: King Nebuchadnezzar's dream of a colossal statue composed of descending metals—gold, silver, bronze, iron mixed with clay—destroyed by a stone "cut without hands" that grows into a mountain filling the earth (Daniel 2:31-45). Historical-critical scholarship, following John J. Collins' landmark commentary (1993), establishes the text's composition during the Maccabean crisis (167-164 BCE), positioning it within Second Temple apocalyptic literature. Historical-critical interpretation reads the statue as a succession of earthly kingdoms (Babylonian, Median, Persian, Greek) culminating in divine intervention.
 
-Emanuel Swedenborg (1688-1772), the Swedish polymath whose scientific career preceded his theological work, proposed an entirely different hermeneutic. In his massive *Arcana Coelestia* (1749-1756) and subsequent *Apocalypse Explained* (1759-1760), Swedenborg interprets the metals not as political empires but as spiritual states—specifically, the successive "churches" or collective spiritual orientations of humanity. Yet careful examination of his corpus reveals something unexpected: variations in how he maps the metals to historical periods and internal states. These variations, rather than undermining his method, reveal the progressive nature of revelation through a developing human vessel.
+Emanuel Swedenborg (1688-1772), the Swedish polymath whose scientific career preceded his theological work, proposed an entirely different hermeneutic. In his massive *Arcana Coelestia* (1749–1756) and the subsequent *Apocalypse Explained* (written c. 1757–1759, published posthumously 1785–1789), Swedenborg interprets the metals not as political empires but as spiritual states—specifically, the successive "churches" or collective spiritual orientations of humanity. Yet careful examination of his corpus reveals something unexpected: variations in how he maps the metals to historical periods and internal states. These variations, rather than undermining his method, reveal the progressive nature of revelation through a developing human vessel.
 
 ### 1.2 The Two-Tiered Hermeneutic Framework
 
@@ -34,13 +34,13 @@ Neither plane negates the other. The historical-critical method has "unintention
 
 ### 1.3 Thesis Statement and Argument Structure
 
-**Central Thesis**: Swedenborg's variations in mapping Daniel's statue across his corpus (1749-1760) demonstrate not interpretive inconsistency but **progressive revelation through a developing vessel**, revealing that the statue's discrete sections are pedagogical artifacts forcing sharp divisions onto what is actually **continuous organic spiritual development**—consciousness maturing through stages (Most Ancient = childhood, Ancient = maturation, Jewish = adolescence, Christian = late adolescence, New Church = adulthood) while prophecies across cultures (Saoshyant, Messiah) represent accurate **perception of eternal truth** (the Lord as He eternally expresses through unobstructed humanity) rather than temporal prediction, with Jesus demonstrating complete expression (zero obstruction) of what is universally true: the Lord continuously expressing through aligned souls.
+**Central Thesis**: Swedenborg's variations in mapping Daniel's statue across his corpus (1749–1771) demonstrate not interpretive inconsistency but **progressive revelation through a developing vessel**, revealing that the statue's discrete sections are pedagogical artifacts forcing sharp divisions onto what is actually **continuous organic spiritual development**—consciousness maturing through stages (Most Ancient = childhood, Ancient = maturation, Jewish = adolescence, Christian = late adolescence, New Church = adulthood) while prophecies across cultures (Saoshyant, Messiah) represent accurate **perception of eternal truth** (the Lord as He eternally expresses through unobstructed humanity) rather than temporal prediction, with Jesus demonstrating complete expression (zero obstruction) of what is universally true: the Lord continuously expressing through aligned souls.
 
 The argument proceeds through five movements:
 
 **Part II** establishes Swedenborg's multiple interpretive angles (descending degrees of mind vs. historical churches) as complementary frameworks, not contradictions, using the mountain climber analogy to show how biological and geographical descriptions map the same reality.
 
-**Part III** analyzes corpus variations chronologically (AC 3325 vs. AE 176 vs. AE 411), demonstrating that refinement follows Swedenborg's developing understanding rather than discovering errors—progressive influx through a prepared vessel.
+**Part III** analyzes corpus variations chronologically (AC 3021 vs. AE 176 vs. AE 411 and TCR 761), demonstrating that refinement follows Swedenborg's developing understanding rather than discovering errors—progressive influx through a prepared vessel.
 
 **Part IV** develops the developmental continuity thesis: the statue's discrete sections (gold, silver, bronze, iron-clay) are metaphorical scaffolding; spiritual reality is seamless growth from childhood innocence through adolescent displacement to mature recognition.
 
@@ -62,7 +62,7 @@ Swedenborg's primary interpretive framework maps the statue's metals to **succes
 - **Iron** = Natural truth (literal/external understanding, truth in ultimates but without internal good)
 - **Clay** = Falsity from self-intelligence (the self's distortion, doctrine falsified by self-love)
 
-This framework appears most explicitly in *Arcana Coelestia* §§ 1259, 1690, where Swedenborg explains: "Gold signifies celestial good, which is love to the Lord; silver, spiritual truth, which is faith in the Lord; brass or copper, natural good; iron, natural truth; clay, falsity" (AC 1259). The descending sequence represents the **progressive externalization** of human consciousness—the movement from internal perception to external reasoning, from living truth to dead doctrines.
+This framework appears most explicitly in *Arcana Coelestia* § 9406, where Swedenborg explains the statue state by state: "gold" is "celestial good, which is the good of love to the Lord"; "silver" is "spiritual good, which is the good of faith in the Lord and of charity toward the neighbor"; "brass" "denotes natural good"; "iron" "denotes natural truth"; and "the 'clay' denotes falsity which does not cohere with truth and good" (AC 9406; see AC 425). The descending sequence represents the **progressive externalization** of human consciousness—the movement from internal perception to external reasoning, from living truth to dead doctrines.
 
 Critically, this vertical mapping describes **universal spiritual states** accessible to any consciousness. It is not historically bound. A soul in the celestial state (gold) experiences direct influx regardless of historical period. The metals describe **how consciousness relates to divine influx**, not when it does so.
 
@@ -72,11 +72,11 @@ Simultaneously, Swedenborg maps the metals to **specific historical periods** he
 
 - **Most Ancient Church** (Gold): Prediluvian humanity with internal perception, allegorized as Adam/Garden
 - **Ancient Church** (Silver): Post-flood humanity with representative worship, allegorized as Noah
-- **Jewish Church** (Bronze): Israelite dispensation with external law grounding spiritual truth in ultimates  
+- **Jewish Church** (Bronze): Israelite dispensation with external law grounding spiritual truth in ultimates (the third church, "like evening, autumn, and the west," TCR 762)  
 - **Christian Church** (Iron-Clay): Fourth church from Pentecost to 1757 consummation, divided from inception
 - **New Church** (Stone): Not fifth metal but divine intervention ending external succession
 
-This horizontal mapping appears throughout the corpus but with revealing variations. *Arcana Coelestia* 3325 (1749-1756) groups legs and feet together as the "fourth state" mixing iron with clay. *Apocalypse Explained* 176 and 411 (1759-1760) distinguish legs (fourth) from feet (last state) while applying the imagery to both Jewish church (proximately) and Christian church (internally).
+This horizontal mapping appears throughout the corpus but with revealing variations. *Arcana Coelestia* 3021 (1749–1756) names no legs at all: the feet of iron and clay are the "fourth state." *Apocalypse Explained* 176 (c. 1757–1759) distinguishes legs (fourth state) from feet (last state); *Apocalypse Explained* 411 takes legs and feet together as the Israelitish and Jewish church; and *True Christian Religion* 761 (1771) applies the iron mixed with clay to the fourth, Christian church at its end.
 
 ### 2.3 The Mountain Climber Analogy: Resolving Apparent Contradiction
 
@@ -95,7 +95,7 @@ Similarly, Swedenborg's two frameworks are not contradictory but **complementary
 
 ### 2.4 The "Word is Universal" Principle
 
-This dual application is not ad hoc interpretation but follows Swedenborg's explicit hermeneutical principle: "The Word is universal...prophecies in the Word apply to the church in general" (AC 4690). A single prophetic image can apply to:
+This dual application is not ad hoc interpretation but follows Swedenborg's explicit hermeneutical principle: "the internal or spiritual sense of the Word is universal, and does not distinguish the tribes, as does the external or historic sense" (AC 4842). A single prophetic image can apply to:
 
 - Individual regeneration (one soul moving through states)
 - Church dispensations (collective humanity in historical sequence)  
@@ -116,37 +116,39 @@ This is not interpretive flexibility but recognition that **spiritual patterns t
 
 Examining Swedenborg's treatment of the statue across his corpus reveals a **chronological progression** that validates rather than undermines his method:
 
-#### 3.1.1 Arcana Coelestia 3325 (1749-1756): Initial Grouping
+#### 3.1.1 Arcana Coelestia 3021 (1749-1756): Initial Grouping
 
-The earliest treatment groups legs and feet together:
+The earliest treatment quotes the statue without its legs—"the feet were part iron and part clay"—and groups the iron and the clay as one state:
 
-> "The iron and clay in the feet signifies the fourth state of the church, when things of truth are mixed with things of self-intelligence and do not cleave together."
+> "By the 'feet which were iron and clay' is meant the fourth state, which was one of natural truth (which is 'iron,' n. 425, 426); and also of no coherence with good (which is 'clay')." (AC 3021)
 
 At this stage, Swedenborg recognizes:
 - Four distinct states (gold, silver, bronze, iron-clay composite)
-- The iron-clay mixing represents corruption
+- The iron-clay mixing represents corruption: "no coherence with good"
 - This mixing characterizes the "fourth state"
 
 But he doesn't yet distinguish legs (pure iron) from feet (iron-clay mixture). The corruption is visible but its structural location remains general.
 
-#### 3.1.2 Apocalypse Explained 176 (1759-1760): Structural Distinction
+#### 3.1.2 Apocalypse Explained 176 (c. 1757–1759): Structural Distinction
 
-Four years later, the analysis becomes more nuanced:
+In the *Apocalypse Explained*, begun some years later, the analysis becomes more nuanced:
 
-> "By 'the legs of iron' is signified the church as to the understanding of truth from the Word in the sense of the letter...By 'the feet part of iron and part of clay' is signified the ultimate of the church, where truth is mingled with falsity."
+> "By 'the legs which were of iron,' the fourth state of the church is meant, when natural good was no more, but truth only; but by 'the feet which were of iron and clay,' the last state of the church is meant when there are both truth and falsity, truth in the Word and falsity in doctrine." (AE 176)
 
 Now Swedenborg distinguishes:
-- **Legs** (iron) = Fourth church with strong external truth (Word in literal sense)
+- **Legs** (iron) = Fourth state with external truth alone: "truth only"
 - **Feet** (iron-clay) = Ultimate/final state where truth mixes with falsity
 - The progression: pure iron → mixed iron-clay
 
 This represents refined understanding of **internal structure**: not just "fourth state is mixed" but "fourth church begins pure in ultimates (iron legs) and ends mixed (iron-clay feet)."
 
-#### 3.1.3 Apocalypse Explained 411 (1759-1760): The Continuous Transition
+#### 3.1.3 Apocalypse Explained 411 (c. 1757–1759): The Continuous Transition
 
 In the same work, Swedenborg applies the fourth section to the Jewish church:
 
-> "That by 'the legs of iron and the feet part of iron and part of clay' the Jewish church and its quality is signified..."
+> "'The legs and the feet, which were part iron and part clay,' signify the Israelitish and Jewish church, which was an external church without any internal, and which therefore had no truth and good, but truth falsified which in itself is falsity, and good adulterated which in itself is evil." (AE 411)
+
+Twelve years later he applies the same iron mixed with clay to "the fourth kingdom, or the fourth church," at "the end of the Christian church" (TCR 761).
 
 Critically, this is not the Jewish church OR the Christian church. It is the **continuous progression**: the Jewish church moves from pure iron (legs) to iron-clay mixture (feet) at its end, and the Christian church **BEGINS** from this same iron-clay state.
 
@@ -164,18 +166,18 @@ Swedenborg's understanding of the transition receives profound confirmation in h
 **First Drink** (Matthew 27:34): Vinegar mixed with gall (or wine with myrrh)
 - The Lord **tastes but refuses** to drink
 - Signifies the **Jewish church** state: Divine truth entirely falsified and adulterated by falsities of evil
-- **Unacceptable to the Divine** (AE § 519, 410)
+- **Unacceptable to the Divine** (AE § 519)
 
 **Second Drink** (John 19:29-30): Plain vinegar on hyssop
 - The Lord **receives and drinks**
 - Signifies the **Christian church** state: truth mixed with falsities of ignorance among upright Gentiles
-- **Acceptable because falsity from ignorance** (unlike confirmed evil) can be purified (AE § 519, 483)
+- **Acceptable because falsity from ignorance** (unlike confirmed evil) can be purified (AE § 519)
 
-The Lord's cry "I thirst" signifies Divine longing for a new church that would acknowledge Him (AE § 483, 83). The sequence of drinks corresponds exactly to the iron-clay progression:
+The Lord's cry "I thirst" signifies Divine longing for a new church that would acknowledge Him (AE § 83, 386). The sequence of drinks corresponds exactly to the iron-clay progression:
 - Jewish church ends in truth so falsified (gall) it must be rejected
 - Christian church begins with truth mixed with ignorance (plain vinegar) that can be worked with
-- The hyssop signifies external means of purification (AE § 483, 519)
-- The "vinegar" state explicitly represents those who **separate faith from charity**—the iron-clay division (AE § 483)
+- The hyssop signifies external means of purification (AE § 386, 519)
+- The "vinegar" state explicitly represents those who **separate faith from charity**—the iron-clay division (AE § 386)
 
 This is not symbolic interpretation imposed on the text. This is **the correspondence written into the narrative itself**. The crucifixion moment captures the exact transition: Jewish dispensation ending, Christian beginning, both characterized by mixing that wouldn't cohere.
 
@@ -183,13 +185,13 @@ This is not symbolic interpretation imposed on the text. This is **the correspon
 
 Critically, reading the passages shows Swedenborg mapping **CONTINUOUS DEVELOPMENTAL PROGRESSION** onto **DISCRETE STATUE SECTIONS**. 
 
-The progression isn't discovering WHO the feet represent (recognizing dual application appears consistent from AC 4690's "Word is universal" principle). The progression is understanding HOW the correspondence operates:
+The progression isn't discovering WHO the feet represent (recognizing dual application appears consistent from AC 4842's principle that the spiritual sense "is universal"). The progression is understanding HOW the correspondence operates:
 
-**Stage 1** (AC 3325): Shown the mixing—corruption is visible  
+**Stage 1** (AC 3021): Shown the mixing—corruption is visible  
 **Stage 2** (AE 176): Shown structural distinction—legs vs. feet, beginning vs. end  
 **Stage 3** (AE 411): Shown universal pattern—applies to any church at consummation  
 
-This is precisely how divine influx works according to Swedenborg's own doctrine: "The Lord doesn't break someone's view but gradually guides into deeper truth" (Heaven and Hell §197). Truth unfolds **AS THE VESSEL DEVELOPS** to receive it. The corpus shows the **PROCESS of reception**—not error, not trial-and-error, but progressive revelation through a prepared and gradually opening human understanding.
+This is precisely how divine influx works according to Swedenborg's own doctrine: "The principles which a man imbibes from infancy the Lord never breaks, but bends" (AC 1255; see AC 25). Truth unfolds **AS THE VESSEL DEVELOPS** to receive it. The corpus shows the **PROCESS of reception**—not error, not trial-and-error, but progressive revelation through a prepared and gradually opening human understanding.
 
 ### 3.4 Chronology Validates the Pattern
 
@@ -197,9 +199,10 @@ The chronological sequence validates this interpretation:
 
 | Period | Work | Treatment | Development Stage |
 |--------|------|-----------|-------------------|
-| 1749-1756 | AC 3325 | Legs+feet = fourth state (mixed) | General recognition of corruption |
-| 1759-1760 | AE 176 | Legs (fourth) distinct from feet (last) | Structural refinement |
-| 1759-1760 | AE 411/483/519 | Legs = Jewish church → Feet = transition → Christian church begins from mixing | Continuous progression understood |
+| 1749-1756 | AC 3021 | Feet of iron and clay = fourth state (mixed) | General recognition of corruption |
+| c. 1757–1759 | AE 176 | Legs (fourth) distinct from feet (last) | Structural refinement |
+| c. 1757–1759 | AE 411/386/519 | Legs and feet = Israelitish and Jewish church → Christian church begins from mixing | Continuous progression understood |
+| 1771 | TCR 761 | Iron mixed with clay = the fourth (Christian) church at its end | Universal pattern applied |
 
 The Lord works through ultimates—which means working **through Swedenborg's developing consciousness**. Each "variation" represents a deeper layer revealed as his vessel could hold it. This is not interpretation forcing coherence onto incoherence. This is **observing the mechanism of revelation** operating exactly as the doctrine of influx predicts.
 
@@ -429,11 +432,11 @@ The timing isn't arbitrary. Consciousness developed sufficient capacity to perce
 
 ### 5.5 NDE Experiencers Access the Same Truth
 
-This mechanism explains why NDE experiencers across cultures **immediately identify the Being of Light as Jesus**—even atheists, Muslims, Hindus who had no prior Christian commitment:
+This mechanism explains why NDE experiencers across cultures **meet the same Being of Light**. What the being does is constant whatever it is called, while religious background predicts the name only weakly (χ² = 15.04, df = 6, p = 0.020, Cramér's V = 0.11); and some atheists, Muslims and Hindus with no prior Christian commitment name it Jesus (*Pure Encounter or Cultural Construct?*):
 
 They're accessing **the same eternal truth** ancient prophets perceived. They're perceiving upward to spiritual reality and recognizing: "This is what the Saoshyant archetype described. This is what the Messiah prophecies meant. This is the Lord as He eternally IS."
 
-Not cultural conditioning (atheists wouldn't be conditioned to recognize Jesus). Not brain hallucination (wouldn't converge across cultures with precision). **Direct perception** of the Lord expressing through unobstructed consciousness.
+Not cultural conditioning (the name tracks background only weakly, and the function not at all). Not brain hallucination (wouldn't converge across cultures with precision). **Direct perception** of the Lord expressing through unobstructed consciousness.
 
 Whether that consciousness is:
 - An ancient prophet perceiving truth spiritually
@@ -449,7 +452,7 @@ Whether that consciousness is:
 
 ### 6.1 The Statue as Necessary Mediation
 
-The statue must be destroyed. This is non-negotiable in the prophecy: "A stone was cut out, not by human hands, and it struck the statue on its feet of iron and clay and broke them in pieces...the whole statue was shattered and became like chaff from the summer threshing-floors, and the wind carried them away, and no place was found for them; but the stone grew into a great mountain filling the earth" (Daniel 2:34-35).
+The statue must be destroyed. This is non-negotiable in the prophecy: "a stone was cut out without hands, which smote the image upon his feet that were of iron and clay, and brake them to pieces. Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together, and became like the chaff of the summer threshingfloors; and the wind carried them away, that no place was found for them: and the stone that smote the image became a great mountain, and filled the whole earth" (Daniel 2:34-35).
 
 But what is being destroyed? And why?
 
@@ -475,7 +478,7 @@ The mixing never cohered because the fourth church was **designed as the last ex
 
 ### 6.2 The Harvest: Grain from Chaff
 
-When the stone strikes, the statue doesn't explode into rubble. It becomes **"like chaff from the summer threshing-floors."**
+When the stone strikes, the statue doesn't explode into rubble. It becomes **"like the chaff of the summer threshingfloors."**
 
 **Threshing separates grain from chaff.** The grain—what people genuinely received, the good and truth that entered their souls—is **preserved**. This is eternal. But the chaff—the external forms that delivered that good—remains empty once the grain is removed.
 
@@ -491,7 +494,7 @@ This is harvest, not catastrophe.
 
 ### 6.3 The Stone: Internal Perception Awakens
 
-**"A stone was cut out, not by human hands."**
+**"A stone was cut out without hands."**
 
 The stone is **internal perception**—direct reception of the Lord from within, not mediated through external forms. This is fundamentally different from the statue's indirect perception:
 
@@ -538,7 +541,7 @@ Jesus proved this **completely**. Zero obstruction = the Lord fully visible. The
 
 This is why the prophecies converged. They weren't perceiving "a special person coming." They were perceiving **the Lord as He expresses through unobstructed humanity**. When Jesus manifested zero obstruction, ancient seers recognized immediately: "This is what we saw. This is what the Saoshyant described. This is the Lord in ultimates."
 
-"**There is no image apart from the Lord.**" (Epistle on Divine Marriage)
+"**A soul through which the Lord flows without obstruction IS the Lord in ultimates.**" (Epistle on Divine Marriage)
 
 Jesus IS the Divine Human because the Lord fully expresses through him. Not two things (Jesus + divinity). **ONE**: the Lord in ultimates through unobstructed humanity.
 
@@ -568,7 +571,7 @@ This thesis has demonstrated six interlocking claims:
 
 1. **Swedenborg's multiple interpretive angles** (degrees of mind vs. historical churches) are complementary frameworks, not contradictions—the mountain climber analogy shows how biological and geographical descriptions map the same reality.
 
-2. **Corpus variations across 1749-1760** represent progressive revelation through a developing vessel, validated by chronological analysis showing refinement from general recognition (AC 3325) to structural distinction (AE 176) to universal pattern (AE 411).
+2. **Corpus variations across 1749–1771** represent progressive revelation through a developing vessel, validated by chronological analysis showing refinement from general recognition (AC 3021) to structural distinction (AE 176) to universal pattern (AE 411; TCR 761).
 
 3. **The statue's discrete sections are metaphorical scaffolding** forcing sharp divisions onto continuous organic spiritual development—consciousness maturing from childhood innocence through adolescent displacement to mature recognition, like physical growth corresponds to spiritual.
 
@@ -593,7 +596,7 @@ The thesis operates within a post-materialist framework where **physical IS spir
 The framework's validity emerges through **pattern convergence**:
 
 - Ancient prophecies across disconnected cultures describing identical messianic characteristics
-- NDE experiencers from diverse backgrounds identifying the same Being of Light as Jesus
+- NDE experiencers from diverse backgrounds meeting a Being of Light of the same function under different names
 - Historical-critical findings preparing the "body" for correspondential "soul"
 - Swedenborg's progressive refinement following chronological development predicted by influx doctrine
 - Developmental continuity resolving statue's discrete-section problem
@@ -624,73 +627,34 @@ Simple. Self-evident. Self-establishing.
 
 Truth.
 
----
-
-## Sources
-
-### Primary Texts
-
-**Swedenborg, Emanuel.** *Arcana Coelestia* [Secrets of Heaven]. 12 vols. 1749-1756. Trans. John F. Potts. New York: Swedenborg Foundation, 1905-1910. Sections cited: §§ 1259, 1690, 3325, 4690.
-
-**Swedenborg, Emanuel.** *Apocalypse Explained* [Revelation Explained]. 6 vols. 1759-1760 (posthumous publication 1785-1789). Trans. John Whitehead. New York: Swedenborg Foundation, 1911. Sections cited: §§ 83, 176, 410, 411, 483, 519.
-
-**Swedenborg, Emanuel.** *True Christian Religion* [The True Christian Religion]. 1771. Trans. John C. Ager. New York: Swedenborg Foundation, 1906. Section cited: § 760.
-
-**Swedenborg, Emanuel.** *Heaven and Hell*. 1758. Trans. George F. Dole. West Chester: Swedenborg Foundation, 2000. Section cited: § 197.
-
-**The Bible.** New Revised Standard Version. Daniel 2:31-45; Micah 5:2; Numbers 24:17; Matthew 2:1-12; John 10:30; Philippians 2:5-8.
-
-**The Avesta.** Yasna 43-51 (Gathas). Trans. L.H. Mills, in *Sacred Books of the East*, vol. 31, ed. F. Max Müller. Oxford: Clarendon Press, 1887.
-
-### Secondary Scholarship
-
-**Collins, John J.** *Daniel: A Commentary on the Book of Daniel*. Hermeneia Commentary Series. Minneapolis: Fortress Press, 1993.
-
-Analysis establishing Daniel 2's composition during Maccabean crisis (167-164 BCE) within apocalyptic literary tradition. Provides historical-critical foundation for natural-plane interpretation.
-
-**Charlesworth, James H., John J. Collins, and Anders Hultgård.** "Zoroastrian Influence on Judaism and Christianity." In *The Old Testament Pseudepigrapha and the New Testament: Expansions of the "Old Testament" and Legends, Wisdom, and Philosophical Literature, Prayers, Psalms and Odes, Fragments of Lost Judeo-Hellenistic Works*, ed. James H. Charlesworth. Garden City: Doubleday, 1983-1985.
-
-Scholarly consensus on "mediated synthesis"—Judaism adopting structural elements of Persian dualism while subordinating them to monotheism. Validates prophetic convergence analysis.
-
-**Boyce, Mary.** *Zoroastrians: Their Religious Beliefs and Practices*. London: Routledge, 1979.
-
-Comprehensive analysis of Zoroastrian theology including Saoshyant prophecy, demonstrating detailed messianic expectations predating Jewish contact.
-
-**van Lommel, Pim.** *Consciousness Beyond Life: The Science of the Near-Death Experience*. New York: HarperOne, 2010.
-
-Cardiologist's prospective study of 344 cardiac arrest survivors providing empirical foundation for NDE consistency and Being of Light identification patterns.
-
-**Tucker, Jim B.** *Before: Children's Memories of Previous Lives*. New York: St. Martin's Press, 2021.
-
-University of Virginia psychiatrist's analysis of 2,500+ past-life memory cases providing evidence for consciousness persistence. Relevant to volunteer soul hypothesis.
-
-### Framework Documents
-
-**"Epistle — The Divine Marriage and the Expression of the Lord in Ultimates."** In *Literary Compilation: Divine Bricolage Framework*, data/00_Framework/. January 2, 2026.
-
-Establishes ontological foundation: physical IS spiritual in ultimates; Lord expresses through unobstructed souls; receiving vs. claiming distinction; razor's edge between "Lord in me" and "I am the Lord."
-
-**"Conversation relating the Fourth Church - The New Jerusalem."** In *Literary Compilation: Divine Bricolage Framework*, data/02_Swedenborgian_Theology/. December 2025.
-
-Full dispensational analysis of four churches with detailed correspondence mappings. Source for iron-clay as Christian church characteristics from inception.
-
-**"A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg."** In *Literary Compilation: Divine Bricolage Framework*, data/02_Swedenborgian_Theology/. November 2025.
-
-Comprehensive correspondence catalog: Gold=celestial good/love to Lord; Silver=spiritual truth/charity; Bronze=natural good/moral justness; Iron=natural truth/literal Word; Clay=falsity/self-intelligence.
-
-**"Pure Encounter or Cultural Construct: The Jesus Identification in NDEs."** In *Literary Compilation: Divine Bricolage Framework*, data/01_Consciousness_Studies/. December 2025.
-
-Empirical analysis of Being of Light identification patterns across cultural backgrounds, providing evidence for perception vs. construction thesis.
-
-**"The Heart of the Matter: A New Church Founded on Love."** In *Literary Compilation: Divine Bricolage Framework*, data/00_Framework/. January 2026.
-
-Application of statue correspondence to Fourth Church emergence and New Jerusalem characteristics. Stone as ending externalization.
-
-### Methodological Note
-
-This thesis operates within the two-tiered hermeneutic framework established by Emanuel Swedenborg and articulated in the *Literary Compilation* project. The natural plane (historical-critical scholarship) and spiritual plane (correspondential interpretation) are treated as complementary levels of analysis rather than competing explanations. Citations from framework documents represent synthesis of Swedenborgian primary texts with contemporary consciousness research and biblical scholarship. All Swedenborg references have been verified against primary sources in the standard English translations by the Swedenborg Foundation.
+This thesis operates within the two-tiered hermeneutic framework established by Emanuel Swedenborg and articulated in the *Literary Compilation* project. The natural plane (historical-critical scholarship) and spiritual plane (correspondential interpretation) are treated as complementary levels of analysis rather than competing explanations. Citations from framework documents represent synthesis of Swedenborgian primary texts with contemporary consciousness research and biblical scholarship.
 
 ---
+
+## VIII. Works Cited
+
+**Primary Sources:**
+
+1. *The Avesta.* Yasna 43–51 (Gathas). Translated by L. H. Mills. In *Sacred Books of the East*, vol. 31, edited by F. Max Müller. Oxford: Clarendon Press, 1887.
+2. *The Holy Bible.* King James Version. Cited by book, chapter and verse; Daniel 2:31–45 is quoted from it.
+3. Swedenborg, Emanuel. *Apocalypse Explained.* Translated by John C. Ager, revised by John Whitehead. 6 vols. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Written c. 1757–1759; first published 1785–1789. Cited by section number as AE.
+4. Swedenborg, Emanuel. *Arcana Coelestia.* Translated by John Clowes, revised and edited by John Faulkner Potts. 12 vols. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. First published 1749–1756. Cited by section number as AC.
+5. Swedenborg, Emanuel. *True Christian Religion.* Translated by John C. Ager. 2 vols. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. First published 1771. Cited by section number as TCR.
+
+**Scholarly Works:**
+
+6. Boyce, Mary. *Zoroastrians: Their Religious Beliefs and Practices.* London: Routledge & Kegan Paul, 1979.
+7. Collins, John J. *Daniel: A Commentary on the Book of Daniel.* Hermeneia. Minneapolis: Fortress Press, 1993.
+8. Tucker, Jim B. *Before: Children's Memories of Previous Lives.* New York: St. Martin's Essentials, 2021.
+9. van Lommel, Pim. *Consciousness Beyond Life: The Science of the Near-Death Experience.* New York: HarperOne, 2010.
+
+**Internal Library Documents:**
+
+10. [A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg](A%20Library%20of%20Biblical%20Correspondences%20in%20Nature%20and%20Objects%20According%20to%20Emanuel%20Swedenborg.md). The correspondences of the metals, stone and clay, with their Swedenborg loci.
+11. [Conversation relating the Fourth Church - The New Jerusalem](Conversation%20relating%20the%20Fourth%20Church%20-%20The%20New%20Jerusalem.md). The four churches and the New Church after the Last Judgment of 1757, the source for the iron-clay as the Christian church's character from its inception.
+12. [Epistle — The Divine Marriage and the Expression of the Lord in Ultimates](../00_Framework/Epistle%20%E2%80%94%20The%20Divine%20Marriage%20and%20the%20Expression%20of%20the%20Lord%20in%20Ultimates.md). The Lord expressing through the unobstructed soul, and the distinction between receiving and claiming (§6.4).
+13. [The Heart of the Matter: A New Church Founded on Love](../00_Framework/The%20Heart%20of%20the%20Matter_%20A%20New%20Church%20Founded%20on%20Love.md). The statue applied to the fourth church and the New Jerusalem; the stone as the end of externalization.
+14. [Pure Encounter or Cultural Construct? An Analysis of the Identification of Jesus in Near-Death Experiences](../01_Consciousness_Studies/Pure%20Encounter%20or%20Cultural%20Construct%20An%20Analysis%20of%20the%20Identification%20of%20Jesus%20in%20Near-Death%20Experiences.md). The constant encounter and the culturally mediated name, with the statistics cited in §5.5.
 
 *Completed January 8, 2026*  
 *Word Count: 7,197*  

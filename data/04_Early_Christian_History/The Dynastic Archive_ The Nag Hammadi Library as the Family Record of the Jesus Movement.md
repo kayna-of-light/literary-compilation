@@ -453,7 +453,7 @@ The Nag Hammadi Library is the community's record of the war fought over their m
 
 16\. Lüdemann, Gerd. *Opposition to Paul in Jewish Christianity*. Minneapolis: Fortress Press, 1989.
 
-17\. Swedenborg, Emanuel. *Arcana Coelestia* §§ 1404–1409, 2576 (on correspondences and the Ancient Word).
+17\. Swedenborg, Emanuel. *Arcana Coelestia* § 1404, § 2686 (on representative history and the Ancient Word).
 
 18\. Thomassen, Einar. *The Spiritual Seed: The Church of the "Valentinians."* Nag Hammadi and Manichaean Studies 60. Leiden: Brill, 2006.
 

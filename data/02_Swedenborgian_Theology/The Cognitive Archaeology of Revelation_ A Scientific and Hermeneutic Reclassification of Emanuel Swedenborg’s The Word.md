@@ -14,7 +14,7 @@ To understand why certain books constitute "The Word" and others do not, we must
 
 ### **2.1. The Physics of Influx and the *Mēnōg/Gētīg* Ontology**
 
-Swedenborg’s fundamental axiom is "Influx": the spiritual world (the realm of causes) flows into the natural world (the realm of effects), sustaining it moment by moment. Without this influx, the natural object would cease to exist, just as speech ceases without the thought that generates it (*True Christian Religion* [*TCR*] §46; *The Universal Mirror*). This metaphysical stance mirrors precisely the ontology that dominated the intellectual landscape during the formation of the Hebrew Bible, particularly during the Exilic and Persian periods.
+Swedenborg’s fundamental axiom is "Influx": the spiritual world (the realm of causes) flows into the natural world (the realm of effects), sustaining it moment by moment. Without this influx, the natural object would cease to exist, for "preservation is perpetual creation, as subsistence is perpetual existence" (*True Christian Religion* [*TCR*] §46; *The Universal Mirror*). This metaphysical stance mirrors precisely the ontology that dominated the intellectual landscape during the formation of the Hebrew Bible, particularly during the Exilic and Persian periods.
 
 In the Iranian intellectual sphere, which exerted a massive influence on Jewish scribes from 539 BCE onward, reality was divided into two distinct but inseparable states:
 
@@ -243,7 +243,7 @@ The ancient scribes did not see their "bricolage" as editing; they saw it as the
 15. [The Scientist and the Seer: Reconciling Emanuel Swedenborg’s Critical Mind with the Historicity of Exodus](The%20Scientist%20and%20the%20Seer_%20Reconciling%20Emanuel%20Swedenborg%E2%80%99s%20Critical%20Mind%20with%20the%20Historicity%20of%20Exodus.md). Swedenborg's distinction between the made-up history of Genesis 1–11 and the real history that follows (§ 3.1).
 16. [The Semiotic Architecture of Revelation: An Empirical Validation of the Swedenborgian Canon Through Comparative Hermeneutics and Structural Isomorphism](The%20Semiotic%20Architecture%20of%20Revelation_%20An%20Empirical%20Validation%20of%20the%20Swedenborgian%20Canon%20Through%20Comparative%20Hermeneutics%20and%20Structural.md). The canon's two kinds of inspiration, Elisha and the bears, and the cloud of Hebrews 12:1 (§§ 1, 4.2, 8.1).
 17. [The Semiotics of the Spirit: An Empirical and Hermeneutic Validation of Swedenborg’s Doctrine of Correspondences Against the Canon of the New Church](The%20Semiotics%20of%20the%20Spirit_%20An%20Empirical%20and%20Hermeneutic%20Validation%20of%20Swedenborg%E2%80%99s%20Doctrine%20of%20Correspondences%20Against%20the%20Canon%20of%20the%20New%20Church.md). Samson's descent to Timnath and the Philistines, and the Street called Straight in Acts (§§ 4.1, 8.2).
-18. [The Universal Mirror: An Exhaustive Cartography of Natural Correspondences in the Theology of Emanuel Swedenborg](The%20Universal%20Mirror_%20An%20Exhaustive%20Cartography%20of%20Natural%20Correspondences%20in%20the%20Theology%20of%20Emanuel%20Swedenborg.md). Influx as the sustaining cause of the natural world (§ 2.1).
+18. [The Universal Mirror: An Exhaustive Cartography of Natural Correspondences in the Theology of Emanuel Swedenborg](The%20Universal%20Mirror_%20An%20Exhaustive%20Cartography%20of%20Natural%20Correspondences%20in%20the%20Theology%20of%20Emanuel%20Swedenborg.md). Influx as the sustaining cause of the natural world (§ 1).
 
 **Web Sources:**
 

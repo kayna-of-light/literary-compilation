@@ -193,6 +193,10 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > constant while the name tracks religious background only weakly (`structured-data-analysis` `CLAUDE.md` §6.1 row 1;
 > *Pure Encounter*). A document claiming that experiencers "identify the Being of Light as Jesus" across cultures is
 > making an error of record, not stating the frame — correct it to the data (model: *The Statue and the Stone* §5.5).
+> Checked 2026-10-30: no other document makes the claim. For their own audits: *The Divine Bricolage and the Incarnation
+> of Truth* (`02`) §III cites "18.9% … as Jesus" and "51.9% … Unknown Presence" (the 51.9% is withdrawn, SDA §6.3);
+> *The Bridge That Became the Path* (`02`) reads the 44.2% unknown-presence share among Christians as Christians who
+> "decline to identify it as Jesus" for a stated reason — the reason is not coded; check against SDA §§6.1–6.3.
 >
 > **Standing rule from the author (2026-10-26)**: where a document explains the Disney correspondences by Jungian
 > archetypes, by animators' intuition or by independent rediscovery, rewrite it to the mapped record. The method was

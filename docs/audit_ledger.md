@@ -26,6 +26,10 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 >   influences that true understanding is immediately clouded"). Read `nag-hammadi-analysis/output/coptic/<tractate>.md`
 >   (Linssen 2024; `### Folio N`, `**LINE**`; Grep fails on Coptic — use a Python pass), translate the passage yourself,
 >   cite codex page,line, and list Linssen 2024 as the primary text. Robinson may be listed as consulted, never quoted.
+>   **Every reference tool has an era and a provenance; validate it before leaning on it** (author, 2026-10-31: "carefulness
+>   is always required and validation like you did here is always necessary"). Check that a tool reproduces the work it
+>   claims to be, and ask what its evidence base was shaped by (a lexicon built from church texts, a translation's
+>   theology, a scheme's priority assumptions). Reach for a lexicon only where your own reading is genuinely in doubt.
 >   **When a rendering is in doubt, settle it in Crum** (author, 2026-10-31): `https://remnqymi.com/crum/` serves the whole
 >   dictionary as `crum.json` (29 MB; entries `MARCION` = spellings, `MEANING`, `WIKI` = Crum's full text) — download
 >   once, look up by spelling (register row "Coptic lexicon"). Checked 2026-10-31: ⲧⲱϣ "limit, determine, appoint"

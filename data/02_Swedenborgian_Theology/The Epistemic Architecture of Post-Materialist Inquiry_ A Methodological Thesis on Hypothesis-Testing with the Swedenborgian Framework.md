@@ -676,7 +676,7 @@ More fundamentally, the biological theory is simply wrong. Modern genetics shows
 
 **Evidence Supporting the Correction**:
 
-1. **Jesus's own statements**: "I can do nothing by myself" (John 5:19)—impossible if he possessed inherent omnipotence. "Why do you call me good? No one is good except God alone" (Mark 10:18)—refusing to appropriate divine attributes to his human vessel. "My God, my God, why have you forsaken me?" (Mark 15:34)—genuine spiritual desolation, not performance.
+1. **Jesus's own statements**: "By myself I can do nothing" (John 5:30)—impossible if he possessed inherent omnipotence. "Why do you call me good? No one is good except God alone" (Mark 10:18)—refusing to appropriate divine attributes to his human vessel. "My God, my God, why have you forsaken me?" (Mark 15:34)—genuine spiritual desolation, not performance.
 
 2. **The vulnerability of Gethsemane**: "Not my will, but yours be done" (Luke 22:42). If Jesus's soul was inherently Divine, there would be no distinction between his will and the Father's will. The prayer indicates genuine human will submitting to divine will—alignment, not identity.
 

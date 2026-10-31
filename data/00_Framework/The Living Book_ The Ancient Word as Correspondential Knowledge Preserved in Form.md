@@ -255,7 +255,7 @@ This does not diminish Swedenborg. It completes the picture. The key is not a pe
 
 ### 5.1 Every Receiver Generates Its Account
 
-The Apocalypse of Adam's thirteen kingdoms passage describes a universal principle: when the Illuminator appears (when spiritual reality presents itself for reception), each community generates an account through its own perceptual filter. One kingdom says "a cloud came upon the earth and enveloped a rock. He came from it." Another says "he came from a great prophet" (Apoc. Adam V 77,27–82,19). Each is sincere. Each perceives something real. None perceives the Illuminator as he IS — each perceives the Illuminator as their mode of reception configures him.
+The Apocalypse of Adam's thirteen kingdoms passage describes a universal principle: when the Illuminator appears (when spiritual reality presents itself for reception), each community generates an account through its own perceptual filter. One kingdom says "a cloud came upon the earth and surrounded a rock; he came forth from it" (Apoc. Adam V 80,21–25). Another says "he came from a great prophet" (V 78,6–8). Each is sincere. Each perceives something real. None perceives the Illuminator as he IS — each perceives the Illuminator as their mode of reception configures him.
 
 This principle applies to the reception of the Ancient Word itself:
 
@@ -276,7 +276,7 @@ Every kingdom receives something real and generates an account through its filte
 
 The Apocalypse of Adam concludes not with a fourteenth kingdom but with "the generation without a king." This is not a community without a ruling principle. It is a community whose ruling principle is rooted in the landscape — in the living reality — rather than organized into a construct.
 
-A kingdom abstracts truth into a system: ruling truth (the king), primary principles (the princes), derivative applications (the people), and the total interpretive structure they compose. The generation without a king has not performed this abstraction. Their truth lives where it grows — in the living reality of direct perception. Their only account of the Illuminator is that "God chose him from all the aeons" (Apoc. Adam V 82,19–83,4), because the Illuminator is present in the reality they perceive.
+A kingdom abstracts truth into a system: ruling truth (the king), primary principles (the princes), derivative applications (the people), and the total interpretive structure they compose. The generation without a king has not performed this abstraction. Their truth lives where it grows — in the living reality of direct perception. Their only account of the Illuminator is that "God chose him from all the aeons" (Apoc. Adam V 82,19–22), because the Illuminator is present in the reality they perceive.
 
 This is not a mythological community. It is a **mode of perception**. It can operate in any person, at any time, in any culture. It is the perception that reads THROUGH the natural forms — Egyptian, Sethian, Swedenborgian, modern — to the content that all the forms carry. It does not privilege one form over another. It does not claim that Genesis is "more original" than the Ogdoad, or that the Apocalypse of Adam is "more original" than the cave paintings. It perceives the same content in every form and recognizes the form as form.
 
@@ -297,7 +297,7 @@ In the context of the Ancient Word, the NHL is significant but must be understoo
 What makes the NHL uniquely valuable is not its antiquity but its **gradient**. The collection contains texts across the full spectrum of correspondential integrity:
 
 - **Pure correspondence**: Apocalypse of Adam, Three Steles of Seth — the knowledge in its most transparent form within the collection
-- **Correspondence with key visible**: Gospel of Philip ("names given to the worldly are very deceptive"), Gospel of Thomas ("the kingdom of the father is spread out upon the earth, and men do not see it")
+- **Correspondence with key visible**: Gospel of Philip ("the names given to the worldly carry a great wandering"), Gospel of Thomas ("the kingdom of the father is spread out upon the earth, and men do not see it")
 - **Architecture intact, literalization visible**: Apocryphon of John, Gospel of the Egyptians
 - **Fully literalized**: Hypostasis of the Archons, On the Origin of the World, Second Treatise of the Great Seth
 
@@ -307,7 +307,7 @@ This gradient is itself the evidence. The collection documents not only the know
 
 The most remarkable feature of the NHL is that it includes the key within itself. Not as a separate document labeled "The Key" — but embedded in texts that describe the principle:
 
-**Gospel of Philip**: "Names given to the worldly are very deceptive, for they divert our thoughts from what is correct to what is incorrect." This is a direct statement of the literalization principle — that natural-degree labels ("worldly names") obscure the spiritual content. The key is named.
+**Gospel of Philip**: "The names given to the worldly carry a great wandering, for they turn their heart away from what is established toward what is not established" (Gos. Phil. II 53,23–27). This is a direct statement of the literalization principle — that natural-degree labels ("worldly names") obscure the spiritual content. The key is named.
 
 **Gospel of Thomas, Saying 113**: "The Kingdom of the Father is spread out upon the earth, and men do not see it." This is the correspondential principle itself — spiritual reality IS present in natural forms, but perception at the natural degree alone does not see it.
 
@@ -319,7 +319,7 @@ The community sealed these texts together — the correspondential compositions 
 
 ### 6.3 The High Mountain
 
-The Apocalypse of Adam concludes with words that "were not committed to the book, nor were they written," kept "on a high mountain, upon a rock of truth" (Apoc. Adam V 85,3–11). In Swedenborg's correspondential system, "mountains" signify the Lord and "celestial things … consequently love and charity" (*AC* §795). The knowledge is preserved in love's keeping — not in an institution, not in a text, not in a tradition, but in the quality of consciousness that can receive it.
+The Apocalypse of Adam concludes with words that "were not put into the book, nor were they written," kept "upon a high mountain, upon a rock of truth" (Apoc. Adam V 85,3–11). In Swedenborg's correspondential system, "mountains" signify the Lord and "celestial things … consequently love and charity" (*AC* §795). The knowledge is preserved in love's keeping — not in an institution, not in a text, not in a tradition, but in the quality of consciousness that can receive it.
 
 The jar at Nag Hammadi sat at the base of a cliff for 1,600 years. Physically preserved. Spiritually dormant. The forms — the Coptic script, the leather bindings, the correspondential architecture — intact. The content — accessible only to the perception that can read through form to function.
 

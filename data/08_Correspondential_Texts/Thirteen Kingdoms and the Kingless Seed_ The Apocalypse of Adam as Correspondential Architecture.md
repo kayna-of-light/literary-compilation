@@ -570,7 +570,7 @@ Thirteen filters. One light. The light does not come through the filters. The li
 
 ### Primary Sources
 
-- **Apocalypse of Adam** (NHC V,5). Coptic text: transcription by M. Linssen, *The Coptic Gnostic Library: A Complete Edition of the Nag Hammadi Codices*, vol. 5 (Brill, 2024). English translation: G.W. MacRae and D.M. Parrott, in J.M. Robinson (ed.), *The Nag Hammadi Library in English*, 3rd rev. ed. (HarperSanFrancisco, 1990), 277–286.
+- **Apocalypse of Adam** (NHC V,5). Coptic text: transcription by M. A. T. Linssen, *Nag Hammadi Library Complete Transcription* (Thomas Miscellaneous, Part X, 2024). English translation: G.W. MacRae and D.M. Parrott, in J.M. Robinson (ed.), *The Nag Hammadi Library in English*, 3rd rev. ed. (HarperSanFrancisco, 1990), 277–286.
 - **Swedenborg, Emanuel**. *Arcana Coelestia* (1749–1756). *Heaven and Hell* (1758). *Divine Love and Wisdom* (1763).
 
 ### Companion Theses
@@ -587,6 +587,6 @@ Thirteen filters. One light. The light does not come through the filters. The li
 - Hedrick, Charles W. *The Apocalypse of Adam: A Literary and Source Analysis*. SBL Dissertation Series 46. Scholars Press, 1980.
 - Morard, Françoise. *L'Apocalypse d'Adam (NH V,5)*. Bibliothèque Copte de Nag Hammadi, Section "Textes" 15. Presses de l'Université Laval, 1985.
 - Robinson, James M., ed. *The Nag Hammadi Library in English*. 3rd rev. ed. HarperSanFrancisco, 1990.
-- Linssen, M. *The Coptic Gnostic Library: A Complete Edition of the Nag Hammadi Codices*. 5 vols. Brill, 2024.
+- Linssen, Martijn A. T. *Nag Hammadi Library Complete Transcription*. Thomas Miscellaneous, Part X. 2024. A Unicode transcription from Milan Konvička's *Marcion* digitization.
 - Pearson, Birger A. *Ancient Gnosticism: Traditions and Literature*. Fortress Press, 2007.
 - Turner, John D. *Sethian Gnosticism and the Platonic Tradition*. Bibliothèque Copte de Nag Hammadi, Section "Études" 6. Presses de l'Université Laval, 2001.

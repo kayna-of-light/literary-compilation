@@ -2557,6 +2557,19 @@ Leads to verify (from general knowledge, unchecked — none is to be cited until
 
 ---
 
+### [GDR] *From Planets to Constellations* — the post-1975 per-star profiles in the published channelled literature
+
+**Priority**: MEDIUM
+**Related Documents**: `data/02_Swedenborgian_Theology/From Planets to Constellations_ The Outward Migration of Otherworldly Spirits and the Epistemology of Variable Form.md` (§ Comparative Mapping)
+
+**Context**: The report pairs Swedenborg's planetary spirit qualities (Mars: celestial love; Mercury: love of knowledges; Jupiter: wisdom and guardianship; Saturn: interior reason) with qualities later attributed to Pleiadians, Arcturians, Sirians and Lyrans/Andromedans. Gemini sourced the later side only to 2020s commercial starseed websites, which were removed. The published channelled books exist (Marciniak, *Bringers of the Dawn*, 1992; Royal & Priest, *The Prism of Lyra*, 1989; Milanovich, *We, the Arcturians*, 1990) but were not read.
+
+**Research Question**: In the published channelled and starseed literature of 1975–2000, what qualities are attributed to beings from the Pleiades, Arcturus, Sirius and Lyra/Andromeda (with page references)? Do they match the four profiles the report draws from Swedenborg?
+
+**Status**: Open
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

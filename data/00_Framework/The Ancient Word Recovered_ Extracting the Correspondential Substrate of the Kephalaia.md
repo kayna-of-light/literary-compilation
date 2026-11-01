@@ -165,7 +165,7 @@ Mani (216–274 CE) is the critical bridge figure. Born into an Elcesaite (Jewis
 
 Mani's relationship to the Zoroastrian tradition is illuminated by a critical observation in the reconstruction of the Dāmdād Nask: "Mani felt the need to subvert this specific doctrine confirms that the Microcosm-Macrocosm model was the dominant 'scientific' paradigm of the Sasanian period, codified in the Dāmdād Nask" (Dāmdād Nask analysis, Section 4.3). Mani did not invent the body-universe correspondence system that pervades the Kephalaia. He inherited it from the living Zoroastrian tradition — and inverted its valence. Where the Zoroastrian system treats the material world as a fortress trapping evil (positive valence), Mani treats it as a prison trapping light (negative valence). The structure is identical; the orientation is reversed. This inversion is itself evidence: one does not subvert a system one has not inherited.
 
-The Uyghur Khaganate's adoption of Manichaeism as state religion in 762/763 CE completed the transmission into Central Asia. The Kingdom of Qocho preserved Manichaean texts in cave libraries at Turfan — in the heart of Swedenborg's "Great Tartary." The Manichaean Psalm Book — a liturgical collection converging with Swedenborg's *Spiritual Diary* Entry 6077, which describes spirits from "Lesser Tartary" possessing a "Divine Book" identified as "the Psalms of David" — was literally present in the region Swedenborg identified.
+The Uyghur Khaganate's adoption of Manichaeism as state religion in 762/763 CE completed the transmission into Central Asia. The Kingdom of Qocho preserved Manichaean texts in cave libraries at Turfan — in the heart of Swedenborg's "Great Tartary." Manichaean hymn-books — among them the *Mahrnāmag*, whose introduction names the Uyghur khagan (Müller 1912; Lieu 2024, 141–145) — were literally present in the region Swedenborg identified, converging with his *Spiritual Diary* Entry 6077, which describes spirits from "Tartary close to China — Lesser Tartary" possessing a "Divine Book" identified as "the Psalms of David."
 
 ### 3.8 The Bifurcated Inheritance: A Summary Model
 
@@ -717,6 +717,8 @@ The substrate speaks for itself. When the editorial frame is lifted, the teachin
 - Kelly, Lynne. *The Memory Code: The Traditional Aboriginal Memory Technique That Unlocks the Secrets of Stonehenge, Easter Island and Ancient Monuments the World Over.* Sydney: Allen & Unwin, 2016.
 - Klinghardt, Matthias. *The Oldest Gospel and the Formation of the Canonical Gospels.* 2 vols. Leuven: Peeters, 2020.
 - Lange, Christian. "Manichaeism in the Later Roman Empire and Medieval China: A Historical Survey." In *Comparative Studies of South Asia, Africa and the Middle East* 26, no. 2 (2006): 316–324.
+- Lieu, Samuel N. C., comp. and ed. *Manichaean Hymns and Prayers: Texts in Middle Iranian, Old Turkish and Chinese.* Anthologia Manichaica Orientalia 4. Database of Manichaean Texts. Cambridge: Ancient India and Iran Trust, 2024.
+- Müller, F. W. K. "Ein Doppelblatt aus einem manichäischen Hymnenbuch (Maḥrnâmag)." *Abhandlungen der Königlich Preussischen Akademie der Wissenschaften*, Phil.-hist. Klasse, 1912, no. 5. Berlin, 1912.
 - von Petzinger, Genevieve. *The First Signs: Unlocking the Mysteries of the World's Oldest Symbols.* New York: Atria Books, 2016.
 - West, M. L. *The East Face of Helicon: West Asiatic Elements in Greek Poetry and Myth.* Oxford: Clarendon Press, 1997.
 - Widengren, Geo. *Mani and Manichaeism.* Translated by Charles Kessler. London: Weidenfeld and Nicolson, 1965.

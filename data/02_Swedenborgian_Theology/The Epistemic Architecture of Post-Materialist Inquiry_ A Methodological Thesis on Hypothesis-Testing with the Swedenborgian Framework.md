@@ -528,7 +528,7 @@ Daniel interprets Nebuchadnezzar's dream (Daniel 2) using explicit correspondent
 
 **Demonstration: Qumran "Two Spirits" Doctrine**
 
-The **Community Rule** (1QS) from the Dead Sea Scrolls describes cosmic conflict between "Spirit of Truth" and "Spirit of Falsehood"—virtually identical to Zoroastrian Spenta Mainyu/Angra Mainyu dualism. This is not coincidence but documented transmission: Jewish scribes during the Babylonian Exile absorbed Persian correspondential categories and transmitted them to the Qumran community.
+The **Community Rule** (1QS) from the Dead Sea Scrolls describes cosmic conflict between "Spirit of Truth" and "Spirit of Falsehood"—virtually identical to Zoroastrian Spenta Mainyu/Angra Mainyu dualism. This is not coincidence but documented transmission: Jewish scribes in the Persian period (539–332 BCE) that followed the Exile absorbed Persian correspondential categories and transmitted them to the Qumran community.
 
 **Verdict**: The correspondential method produces consistent, illuminating readings across diverse texts. **HIT—Methodological validity confirmed**.
 

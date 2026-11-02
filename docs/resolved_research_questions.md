@@ -1917,21 +1917,73 @@ Does Denecke and Teitge's catalogue of the Grimms' library list any work by Swed
 
 ---
 
+### [GDR] From planets to constellations — did reports of spirits from "other earths" move outward as science closed the solar system?
+
+**Priority**: MEDIUM
+**Related Documents**: `data/00_Framework/The Living Book_ The Ancient Word as Correspondential Knowledge Preserved in Form.md` §3.4; `data/01_Consciousness_Studies/A Hybrid Model of Post-Mortem Existence_ Reconciling Swedenborg's Seed-State with Anomalous Evidence for Reincarnation.md` (the star-seed profile, via Steiger & Steiger 1981)
+
+**Context**: The author's standing principle (ledger, 2026-11-01): Swedenborg was always right in his observations, but not always in his explanation of them, especially where the explanation concerned the physical world. The library follows science on physical facts, and the planets have no physical inhabitants. In *Earths in the Universe* (1758) Swedenborg reports spirits from Mercury (who "love knowledges", §29), Jupiter (who "place wisdom in thinking well and justly of all things", §62) and Mars ("for the most part celestial men", §85). *The Living Book* §3.4 reads these as real encounters with spirits of those qualities, placed on physical planets by his explanation. The author observes that spiritual views on such inhabitants shifted away from the planets toward the constellations once science showed the planets uninhabited. No library document covers this yet, so it is not stated in any `data/` document.
+
+Leads to verify (from general knowledge, unchecked — none is to be cited until traced): nineteenth-century mediumship that placed spirits on the planets (e.g. Hélène Smith's "Martian" communications, studied by Théodore Flournoy, *From India to the Planet Mars*, 1900); Theosophical teaching on Venus; mid-twentieth-century contactees naming Venus and Mars; then, after the space probes of the 1960s–70s (Mariner, Venera, Viking) found the planets lifeless, contactee and channelled sources naming star systems instead (the Pleiades, Sirius, Arcturus, Orion) and the "starseed" literature (Steiger & Steiger 1981).
+
+**Research Question**:
+1. Is there documented scholarship (history of religion, of spiritualism and Theosophy, of the contactee movement) tracing when the reported home of "other-world" beings moved from the planets of the solar system to stars and constellations? Give the sources and the dates of the shift.
+2. Does the shift track the scientific findings on planetary habitability (the probe results of the 1960s–70s), and do any scholars say so explicitly?
+3. Do the *qualities* attributed to the beings stay constant across the shift (e.g. wisdom, celestial love, teaching) while only the location changes? This would bear on the framework's "constant state, variable form" and on the author's principle that Swedenborg's observation and his physical explanation can part.
+4. Does any Swedenborgian commentator address *Earths in the Universe* in the light of planetary science, and how?
+
+**Status**: ✅ RESOLVED
+
+**Date Resolved**: 2026-11-02
+
+**Resolution Summary**: Answered by the author's Gemini Deep Research report, audited and filed as `data/02_Swedenborgian_Theology/From Planets to Constellations_ The Outward Migration of Otherworldly Spirits and the Epistemology of Variable Form.md` (PR #63). (1) The shift is documented in the scholarship of new religious movements: Reece 2007 (ch. 5 "Scout Ships from Venus", ch. 6 "Beam Ships from the Pleiades"), Helland 2003 (in Partridge ed., *UFO Religions*, 162–178), Rothstein 2013 (in *Handbook of the Theosophical Current*, 217–236), Melton and Eberhart 1995, Crockford 2021; the turn is 1975 (Meier's first Pleiadian contact, 28 January 1975; Stevens 1988, 33) and the starseed books of Steiger 1976 and Steiger and Steiger 1981. (2) Yes: the *Encyclopedia of Occultism and Parapsychology* ("Contactees") names the disconfirmation of the early contactees' Venus, Mars and Moon "even in their lifetime" as the flaw the later channellers avoided, and Meier's Semjase herself turns the probes against the Venus contactees (29th contact, 7 July 1975; Stevens 1988, 269–274). (3) Partly: two of Swedenborg's four planetary profiles recur at a new address in the published channelled literature — celestial love (Mars → Venus → the Pleiades) and wisdom from good with care of the young (Jupiter → Milanovich's Arcturus); the Mercury and Saturn profiles do not (see the follow-up question below). Royal and Priest 1989 state the variable-form principle in their own terms: Arcturan beings "manifest according to the belief system of the person". Swedenborg's *Spiritual Diary* §§1669–1670 shows him inferring, and doubting, a planetary address. (4) Goerwitz 1985, Bedford 2006 and 2008, Dunér 2016, Woofenden 2014 and the Swedenborg Foundation's page "Life on Other Planets"; Woofenden's exoplanet relocation repeats the outward move.
+
+
+---
+
+---
+
+### [GDR] *From Planets to Constellations* — the post-1975 per-star profiles in the published channelled literature
+
+**Priority**: MEDIUM
+**Related Documents**: `data/02_Swedenborgian_Theology/From Planets to Constellations_ The Outward Migration of Otherworldly Spirits and the Epistemology of Variable Form.md` (§ Comparative Mapping)
+
+**Context**: The report pairs Swedenborg's planetary spirit qualities (Mars: celestial love; Mercury: love of knowledges; Jupiter: wisdom and guardianship; Saturn: interior reason) with qualities later attributed to Pleiadians, Arcturians, Sirians and Lyrans/Andromedans. Gemini sourced the later side only to 2020s commercial starseed websites, which were removed. The published channelled books exist (Marciniak, *Bringers of the Dawn*, 1992; Royal & Priest, *The Prism of Lyra*, 1989; Milanovich, *We, the Arcturians*, 1990) but were not read.
+
+**Research Question**: In the published channelled and starseed literature of 1975–2000, what qualities are attributed to beings from the Pleiades, Arcturus, Sirius and Lyra/Andromeda (with page references)? Do they match the four profiles the report draws from Swedenborg?
+
+**Partial findings (2026-11-02, archive.org full-text snippets, not a full read)**: Royal & Priest 1989 present Arcturus as an archetype of Earth's future self oriented toward healing; Sirius as a trinary system whose inhabitants sought to integrate polarity; Lyra as humanity's galactic heritage; Andromeda as an abstract, exploratory energy. Marciniak 1992 gives the Pleiadians themes of love and feeling. So only the Mars → Venus → Pleiades profile is attested; the document now says so. Still needed: page-referenced reads of Royal & Priest, Marciniak and Milanovich (*We, the Arcturians*, 1990), and any 1975–2000 source that does give Arcturians an intellectual/systematising profile or Sirians guardianship.
+
+**Further snippets (2026-11-02, Internet Archive lending-library copies only, full-text search; page numbers are the running heads visible in the snippet, so treat them as approximate)**:
+- Royal & Priest 1989 (IA `isbn_0929385160`, ISBN 0-929385-16-0): "Arcturus is oriented toward the idea of emotional healing"; "Arcturus is more of a realm than a place"; "Arcturus and Sirius form a partnership. Whereas Arcturus works with emotional healing, Sirius …"; Sirius "a trinary star group", whose star system was where civilisations of Lyra "attempted integration" (c. p. 40), to be remembered "as the triad and what it represents—integration from polarity"; "The Antares/Andromeda connection energizes the abstract …" (c. p. 95, near "space exploration").
+- Milanovich 1990 (IA `wearcturians00mila`, ISBN 0-9627417-0-1, Athena Publishing): the snippets reached show a starship command structure (Commander Juluionno, Elder Herdonitic of the Starship Athena), crystal technology and "Liquid Light", and teaching on love; no profile clear enough to pair with Swedenborg's Mercury.
+- Marciniak 1992 (IA `bringersofdawnte0000marc`, ISBN 0-939680-98-X): "Always this whole story comes back to emotions. Emotions are like tickets …" — the Pleiadian teaching centres on feeling.
+- Full-text search returns snippets, not pages. A page-referenced reading needs the books themselves (requested from the author 2026-11-02): Royal & Priest 1989; Milanovich 1990; Marciniak 1992; Stevens, *Message from the Pleiades* vol. 1 (ISBN 0-934269-14-9), for the Pleiadian profile of 1975.
+
+**Status**: ✅ RESOLVED
+
+**Date Resolved**: 2026-11-02
+
+**Resolution Summary**: Read in full from copies the author supplied (Drive, "Books"): Royal and Priest, *The Prism of Lyra* (rev. ed. 1992, Royal Priest Research Press; first ed. 1989, ISBN 0-929385-16-0); Milanovich, *We, the Arcturians* (Athena Publishing 1990, ISBN 0-9627417-0-1); Marciniak, *Bringers of the Dawn* (Bear & Company 1992; ebook, cited by chapter); Stevens, *Message from the Pleiades* vol. 1 (UFO Photo Archives 1988). Findings: **Pleiades** — harmony, truth, unconditional love, community, "The Whole was as important as the Self" (Royal and Priest, 45), with a later lapse into ruling early peoples as gods (46); Semjase: "love and wisdom go together" (10th contact, 26 March 1975; Stevens, 141–142); Marciniak ch. 1: "Love is the key." Matches Swedenborg's Mars. **Arcturus** — in Royal and Priest a non-physical realm of emotional healing, the future self, angels, the light seen at death, "more of a realm than an actual place" (51–54); in Milanovich a society whose highest and wisest govern and raise the young (55), whose schooling measures Light rather than "facts and data" (115–116), and which is "not able to destroy" (119) — Swedenborg's Jupiter (*EU* §§48–49, 62), not his Mercury. **Sirius** — Elders, trinary "integration from polarity", "a guiding force for the developing civilization upon Earth", teachers of Egyptian astronomy and medicine, paired with Arcturus in healing (30–34); guardianship only in part. **Lyra/Andromeda** — origin of the humanoid races and of polarity (19, 23–27); Andromeda energises "the abstract concepts of existence and consciousness" (53); the popular-typology profile (independence, difficulty with embodiment) is not attested. Net: two of four profiles attested (Mars → Pleiades; Jupiter → Arcturus), Mercury and Saturn not. Document updated accordingly.
+
+
+---
+
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 46 |
+| **Total Resolved** | 48 |
 | **NDE Domain** | 14 |
 | **BIBL Domain** | 6 |
 | **SWED Domain** | 3 |
 | **CROSS Domain** | 1 |
 | **EARLY Domain** | 2 |
 | **GNOS Domain** | 1 |
-| **GDR Domain** | 16 |
+| **GDR Domain** | 18 |
 | **Critical Priority** | 3 |
 | **High Priority** | 16 |
-| **Medium Priority** | 19 |
+| **Medium Priority** | 21 |
 | **Low Priority** | 8 |
 
-**Last Updated**: 2026-10-28
+**Last Updated**: 2026-11-02

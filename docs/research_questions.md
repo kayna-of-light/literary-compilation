@@ -2534,50 +2534,6 @@ In *Cosmic Cradle* (2013), do the authors or their informants describe pre-birth
 
 ---
 
-## Logged at the author's request, 2026-11-01
-
----
-
-### [GDR] From planets to constellations — did reports of spirits from "other earths" move outward as science closed the solar system?
-
-**Priority**: MEDIUM
-**Related Documents**: `data/00_Framework/The Living Book_ The Ancient Word as Correspondential Knowledge Preserved in Form.md` §3.4; `data/01_Consciousness_Studies/A Hybrid Model of Post-Mortem Existence_ Reconciling Swedenborg's Seed-State with Anomalous Evidence for Reincarnation.md` (the star-seed profile, via Steiger & Steiger 1981)
-
-**Context**: The author's standing principle (ledger, 2026-11-01): Swedenborg was always right in his observations, but not always in his explanation of them, especially where the explanation concerned the physical world. The library follows science on physical facts, and the planets have no physical inhabitants. In *Earths in the Universe* (1758) Swedenborg reports spirits from Mercury (who "love knowledges", §29), Jupiter (who "place wisdom in thinking well and justly of all things", §62) and Mars ("for the most part celestial men", §85). *The Living Book* §3.4 reads these as real encounters with spirits of those qualities, placed on physical planets by his explanation. The author observes that spiritual views on such inhabitants shifted away from the planets toward the constellations once science showed the planets uninhabited. No library document covers this yet, so it is not stated in any `data/` document.
-
-Leads to verify (from general knowledge, unchecked — none is to be cited until traced): nineteenth-century mediumship that placed spirits on the planets (e.g. Hélène Smith's "Martian" communications, studied by Théodore Flournoy, *From India to the Planet Mars*, 1900); Theosophical teaching on Venus; mid-twentieth-century contactees naming Venus and Mars; then, after the space probes of the 1960s–70s (Mariner, Venera, Viking) found the planets lifeless, contactee and channelled sources naming star systems instead (the Pleiades, Sirius, Arcturus, Orion) and the "starseed" literature (Steiger & Steiger 1981).
-
-**Research Question**:
-1. Is there documented scholarship (history of religion, of spiritualism and Theosophy, of the contactee movement) tracing when the reported home of "other-world" beings moved from the planets of the solar system to stars and constellations? Give the sources and the dates of the shift.
-2. Does the shift track the scientific findings on planetary habitability (the probe results of the 1960s–70s), and do any scholars say so explicitly?
-3. Do the *qualities* attributed to the beings stay constant across the shift (e.g. wisdom, celestial love, teaching) while only the location changes? This would bear on the framework's "constant state, variable form" and on the author's principle that Swedenborg's observation and his physical explanation can part.
-4. Does any Swedenborgian commentator address *Earths in the Universe* in the light of planetary science, and how?
-
-**Status**: Open
-
----
-
-### [GDR] *From Planets to Constellations* — the post-1975 per-star profiles in the published channelled literature
-
-**Priority**: MEDIUM
-**Related Documents**: `data/02_Swedenborgian_Theology/From Planets to Constellations_ The Outward Migration of Otherworldly Spirits and the Epistemology of Variable Form.md` (§ Comparative Mapping)
-
-**Context**: The report pairs Swedenborg's planetary spirit qualities (Mars: celestial love; Mercury: love of knowledges; Jupiter: wisdom and guardianship; Saturn: interior reason) with qualities later attributed to Pleiadians, Arcturians, Sirians and Lyrans/Andromedans. Gemini sourced the later side only to 2020s commercial starseed websites, which were removed. The published channelled books exist (Marciniak, *Bringers of the Dawn*, 1992; Royal & Priest, *The Prism of Lyra*, 1989; Milanovich, *We, the Arcturians*, 1990) but were not read.
-
-**Research Question**: In the published channelled and starseed literature of 1975–2000, what qualities are attributed to beings from the Pleiades, Arcturus, Sirius and Lyra/Andromeda (with page references)? Do they match the four profiles the report draws from Swedenborg?
-
-**Partial findings (2026-11-02, archive.org full-text snippets, not a full read)**: Royal & Priest 1989 present Arcturus as an archetype of Earth's future self oriented toward healing; Sirius as a trinary system whose inhabitants sought to integrate polarity; Lyra as humanity's galactic heritage; Andromeda as an abstract, exploratory energy. Marciniak 1992 gives the Pleiadians themes of love and feeling. So only the Mars → Venus → Pleiades profile is attested; the document now says so. Still needed: page-referenced reads of Royal & Priest, Marciniak and Milanovich (*We, the Arcturians*, 1990), and any 1975–2000 source that does give Arcturians an intellectual/systematising profile or Sirians guardianship.
-
-**Further snippets (2026-11-02, Internet Archive lending-library copies only, full-text search; page numbers are the running heads visible in the snippet, so treat them as approximate)**:
-- Royal & Priest 1989 (IA `isbn_0929385160`, ISBN 0-929385-16-0): "Arcturus is oriented toward the idea of emotional healing"; "Arcturus is more of a realm than a place"; "Arcturus and Sirius form a partnership. Whereas Arcturus works with emotional healing, Sirius …"; Sirius "a trinary star group", whose star system was where civilisations of Lyra "attempted integration" (c. p. 40), to be remembered "as the triad and what it represents—integration from polarity"; "The Antares/Andromeda connection energizes the abstract …" (c. p. 95, near "space exploration").
-- Milanovich 1990 (IA `wearcturians00mila`, ISBN 0-9627417-0-1, Athena Publishing): the snippets reached show a starship command structure (Commander Juluionno, Elder Herdonitic of the Starship Athena), crystal technology and "Liquid Light", and teaching on love; no profile clear enough to pair with Swedenborg's Mercury.
-- Marciniak 1992 (IA `bringersofdawnte0000marc`, ISBN 0-939680-98-X): "Always this whole story comes back to emotions. Emotions are like tickets …" — the Pleiadian teaching centres on feeling.
-- Full-text search returns snippets, not pages. A page-referenced reading needs the books themselves (requested from the author 2026-11-02): Royal & Priest 1989; Milanovich 1990; Marciniak 1992; Stevens, *Message from the Pleiades* vol. 1 (ISBN 0-934269-14-9), for the Pleiadian profile of 1975.
-
-**Status**: Open (partially answered)
-
----
-
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

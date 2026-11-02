@@ -159,12 +159,12 @@ Fourth, this is the pattern the library has documented throughout: Swedenborg wa
 17. Dunne, James A. "Mariner 10 Venus Encounter." *Science* 183 (1974): 1289–1291.
 18. Goerwitz, Richard L., III. "Extraterrestrial Life: A Study of the Intellectual Context of Emanuel Swedenborg's *Earths in the Universe*." *The New Philosophy* 88, nos. 1–2 (1985): 417–446, 477–485.
 19. Greer, John Michael. *The New Encyclopedia of the Occult.* St. Paul, MN: Llewellyn, 2003.
-20. Helland, Christopher. "From Extraterrestrials to Ultraterrestrials: The Evolution of the Concept of Ashtar." In *UFO Religions*, edited by Christopher Partridge. London: Routledge, 2003.
+20. Helland, Christopher. "From Extraterrestrials to Ultraterrestrials: The Evolution of the Concept of Ashtar." In *UFO Religions*, edited by Christopher Partridge, 162–178. London: Routledge, 2003.
 21. Lewis, James R., ed. *The Gods Have Landed: New Religions from Other Worlds.* Albany: State University of New York Press, 1995.
 22. Lewis, James R., ed. *The Encyclopedic Sourcebook of UFO Religions.* Amherst, NY: Prometheus Books, 2003.
 23. Melton, J. Gordon, and George M. Eberhart. "The Flying Saucer Contactee Movement, 1950–1994: A Bibliography." In *The Gods Have Landed: New Religions from Other Worlds*, edited by James R. Lewis. Albany: State University of New York Press, 1995.
 24. Reece, Gregory L. *UFO Religion: Inside Flying Saucer Cults and Culture.* London: I. B. Tauris, 2007. Part Two, chapters 5 ("Scout Ships from Venus") and 6 ("Beam Ships from the Pleiades").
-25. Rothstein, Mikael. "Mahatmas in Space: The Ufological Turn and Mythological Materiality of Post-World War II Theosophy." In *Handbook of the Theosophical Current*, edited by Olav Hammer and Mikael Rothstein. Leiden: Brill, 2013.
+25. Rothstein, Mikael. "Mahatmas in Space: The Ufological Turn and Mythological Materiality of Post-World War II Theosophy." In *Handbook of the Theosophical Current*, edited by Olav Hammer and Mikael Rothstein, 217–236. Leiden: Brill, 2013. https://doi.org/10.1163/9789004235977_013.
 
 **Internal Library Documents:**
 

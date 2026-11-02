@@ -2568,6 +2568,12 @@ Leads to verify (from general knowledge, unchecked — none is to be cited until
 
 **Partial findings (2026-11-02, archive.org full-text snippets, not a full read)**: Royal & Priest 1989 present Arcturus as an archetype of Earth's future self oriented toward healing; Sirius as a trinary system whose inhabitants sought to integrate polarity; Lyra as humanity's galactic heritage; Andromeda as an abstract, exploratory energy. Marciniak 1992 gives the Pleiadians themes of love and feeling. So only the Mars → Venus → Pleiades profile is attested; the document now says so. Still needed: page-referenced reads of Royal & Priest, Marciniak and Milanovich (*We, the Arcturians*, 1990), and any 1975–2000 source that does give Arcturians an intellectual/systematising profile or Sirians guardianship.
 
+**Further snippets (2026-11-02, Internet Archive lending-library copies only, full-text search; page numbers are the running heads visible in the snippet, so treat them as approximate)**:
+- Royal & Priest 1989 (IA `isbn_0929385160`, ISBN 0-929385-16-0): "Arcturus is oriented toward the idea of emotional healing"; "Arcturus is more of a realm than a place"; "Arcturus and Sirius form a partnership. Whereas Arcturus works with emotional healing, Sirius …"; Sirius "a trinary star group", whose star system was where civilisations of Lyra "attempted integration" (c. p. 40), to be remembered "as the triad and what it represents—integration from polarity"; "The Antares/Andromeda connection energizes the abstract …" (c. p. 95, near "space exploration").
+- Milanovich 1990 (IA `wearcturians00mila`, ISBN 0-9627417-0-1, Athena Publishing): the snippets reached show a starship command structure (Commander Juluionno, Elder Herdonitic of the Starship Athena), crystal technology and "Liquid Light", and teaching on love; no profile clear enough to pair with Swedenborg's Mercury.
+- Marciniak 1992 (IA `bringersofdawnte0000marc`, ISBN 0-939680-98-X): "Always this whole story comes back to emotions. Emotions are like tickets …" — the Pleiadian teaching centres on feeling.
+- Full-text search returns snippets, not pages. A page-referenced reading needs the books themselves (requested from the author 2026-11-02): Royal & Priest 1989; Milanovich 1990; Marciniak 1992; Stevens, *Message from the Pleiades* vol. 1 (ISBN 0-934269-14-9), for the Pleiadian profile of 1975.
+
 **Status**: Open (partially answered)
 
 ---

@@ -161,7 +161,7 @@ Fourth, this is the pattern the library has documented throughout: Swedenborg wa
 19. Greer, John Michael. *The New Encyclopedia of the Occult.* St. Paul, MN: Llewellyn, 2003.
 20. Helland, Christopher. "From Extraterrestrials to Ultraterrestrials: The Evolution of the Concept of Ashtar." In *UFO Religions*, edited by Christopher Partridge. London: Routledge, 2003.
 21. Lewis, James R., ed. *The Gods Have Landed: New Religions from Other Worlds.* Albany: State University of New York Press, 1995.
-22. Lewis, James R., ed. *Encyclopedic Sourcebook of UFO Religions.* Amherst, NY: Prometheus Books, 2003.
+22. Lewis, James R., ed. *The Encyclopedic Sourcebook of UFO Religions.* Amherst, NY: Prometheus Books, 2003.
 23. Melton, J. Gordon, and George M. Eberhart. "The Flying Saucer Contactee Movement, 1950–1994: A Bibliography." In *The Gods Have Landed: New Religions from Other Worlds*, edited by James R. Lewis. Albany: State University of New York Press, 1995.
 24. Reece, Gregory L. *UFO Religion: Inside Flying Saucer Cults and Culture.* London: I. B. Tauris, 2007. Part Two, chapters 5 ("Scout Ships from Venus") and 6 ("Beam Ships from the Pleiades").
 25. Rothstein, Mikael. "Mahatmas in Space: The Ufological Turn and Mythological Materiality of Post-World War II Theosophy." In *Handbook of the Theosophical Current*, edited by Olav Hammer and Mikael Rothstein. Leiden: Brill, 2013.

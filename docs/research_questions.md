@@ -2534,24 +2534,14 @@ In *Cosmic Cradle* (2013), do the authors or their informants describe pre-birth
 
 ---
 
-## Logged at the author's request, 2026-11-01
-
----
-
-### [GDR] From planets to constellations — did reports of spirits from "other earths" move outward as science closed the solar system?
+### [NDE] *From Planets to Constellations* §5 — do the qualities of the beings met in spontaneous NDEs match those of the channelled literature?
 
 **Priority**: MEDIUM
-**Related Documents**: `data/00_Framework/The Living Book_ The Ancient Word as Correspondential Knowledge Preserved in Form.md` §3.4; `data/01_Consciousness_Studies/A Hybrid Model of Post-Mortem Existence_ Reconciling Swedenborg's Seed-State with Anomalous Evidence for Reincarnation.md` (the star-seed profile, via Steiger & Steiger 1981)
+**Related Documents**: `data/02_Swedenborgian_Theology/From Planets to Constellations_ The Outward Migration of Otherworldly Spirits and the Epistemology of Variable Form.md` (§§2.4, 3, 5)
 
-**Context**: The author's standing principle (ledger, 2026-11-01): Swedenborg was always right in his observations, but not always in his explanation of them, especially where the explanation concerned the physical world. The library follows science on physical facts, and the planets have no physical inhabitants. In *Earths in the Universe* (1758) Swedenborg reports spirits from Mercury (who "love knowledges", §29), Jupiter (who "place wisdom in thinking well and justly of all things", §62) and Mars ("for the most part celestial men", §85). *The Living Book* §3.4 reads these as real encounters with spirits of those qualities, placed on physical planets by his explanation. The author observes that spiritual views on such inhabitants shifted away from the planets toward the constellations once science showed the planets uninhabited. No library document covers this yet, so it is not stated in any `data/` document.
+**Context**: The document separates two layers: the contact and channelled literature (forced, inherited, inflated) and unforced experience. A keyword search of the raw NDE narratives (`projects/nde/scripts/star_name_search.py`, structured-data-analysis) finds named stars in nine of 6,768 files, and the beings' star of origin, where present, usually acquired afterwards. The literature's echoes of Swedenborg's planetary qualities (Mars-like love and fellowship at the Pleiades; Jupiter-like wisdom and care of the young at Milanovich's Arcturus) could reflect recurring experience or inherited motif; the literature alone cannot tell which.
 
-Leads to verify (from general knowledge, unchecked — none is to be cited until traced): nineteenth-century mediumship that placed spirits on the planets (e.g. Hélène Smith's "Martian" communications, studied by Théodore Flournoy, *From India to the Planet Mars*, 1900); Theosophical teaching on Venus; mid-twentieth-century contactees naming Venus and Mars; then, after the space probes of the 1960s–70s (Mariner, Venera, Viking) found the planets lifeless, contactee and channelled sources naming star systems instead (the Pleiades, Sirius, Arcturus, Orion) and the "starseed" literature (Steiger & Steiger 1981).
-
-**Research Question**:
-1. Is there documented scholarship (history of religion, of spiritualism and Theosophy, of the contactee movement) tracing when the reported home of "other-world" beings moved from the planets of the solar system to stars and constellations? Give the sources and the dates of the shift.
-2. Does the shift track the scientific findings on planetary habitability (the probe results of the 1960s–70s), and do any scholars say so explicitly?
-3. Do the *qualities* attributed to the beings stay constant across the shift (e.g. wisdom, celestial love, teaching) while only the location changes? This would bear on the framework's "constant state, variable form" and on the author's principle that Swedenborg's observation and his physical explanation can part.
-4. Does any Swedenborgian commentator address *Earths in the Universe* in the light of planetary science, and how?
+**Research Question**: Pre-register a small set of being-qualities (e.g. love/fellowship without rule; teaching through wisdom rather than facts; care of the young; healing) from Swedenborg's planetary descriptions, code them in a random sample of spontaneous NDE encounters and in the channelled texts (Royal & Priest 1989/1992, Milanovich 1990, Marciniak 1992, Stevens 1988), and test whether the qualities co-occur in the same clusters in both. What would count as a miss: the clusters found in the channelled texts do not appear in spontaneous accounts.
 
 **Status**: Open
 

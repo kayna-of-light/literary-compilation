@@ -2534,6 +2534,19 @@ In *Cosmic Cradle* (2013), do the authors or their informants describe pre-birth
 
 ---
 
+### [NDE] *From Planets to Constellations* §5 — do the qualities of the beings met in spontaneous NDEs match those of the channelled literature?
+
+**Priority**: MEDIUM
+**Related Documents**: `data/02_Swedenborgian_Theology/From Planets to Constellations_ The Outward Migration of Otherworldly Spirits and the Epistemology of Variable Form.md` (§§2.4, 3, 5)
+
+**Context**: The document separates two layers: the contact and channelled literature (forced, inherited, inflated) and unforced experience. A keyword search of the raw NDE narratives (`projects/nde/scripts/star_name_search.py`, structured-data-analysis) finds named stars in nine of 6,768 files, and the beings' star of origin, where present, usually acquired afterwards. The literature's echoes of Swedenborg's planetary qualities (Mars-like love and fellowship at the Pleiades; Jupiter-like wisdom and care of the young at Milanovich's Arcturus) could reflect recurring experience or inherited motif; the literature alone cannot tell which.
+
+**Research Question**: Pre-register a small set of being-qualities (e.g. love/fellowship without rule; teaching through wisdom rather than facts; care of the young; healing) from Swedenborg's planetary descriptions, code them in a random sample of spontaneous NDE encounters and in the channelled texts (Royal & Priest 1989/1992, Milanovich 1990, Marciniak 1992, Stevens 1988), and test whether the qualities co-occur in the same clusters in both. What would count as a miss: the clusters found in the channelled texts do not appear in spontaneous accounts.
+
+**Status**: Open
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

@@ -2566,7 +2566,9 @@ Leads to verify (from general knowledge, unchecked — none is to be cited until
 
 **Research Question**: In the published channelled and starseed literature of 1975–2000, what qualities are attributed to beings from the Pleiades, Arcturus, Sirius and Lyra/Andromeda (with page references)? Do they match the four profiles the report draws from Swedenborg?
 
-**Status**: Open
+**Partial findings (2026-11-02, archive.org full-text snippets, not a full read)**: Royal & Priest 1989 present Arcturus as an archetype of Earth's future self oriented toward healing; Sirius as a trinary system whose inhabitants sought to integrate polarity; Lyra as humanity's galactic heritage; Andromeda as an abstract, exploratory energy. Marciniak 1992 gives the Pleiadians themes of love and feeling. So only the Mars → Venus → Pleiades profile is attested; the document now says so. Still needed: page-referenced reads of Royal & Priest, Marciniak and Milanovich (*We, the Arcturians*, 1990), and any 1975–2000 source that does give Arcturians an intellectual/systematising profile or Sirians guardianship.
+
+**Status**: Open (partially answered)
 
 ---
 

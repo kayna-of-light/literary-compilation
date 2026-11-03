@@ -85,7 +85,7 @@ This classification required observation and documentation. The *Bundahishn* lis
 
 ### **The Microcosm-Macrocosm Identity**
 
-Chapter 28 of the *Bundahishn*, derived from the *Dāmdād*, details the correspondence between the human body (*Microcosm*) and the universe (*Macrocosm*). The skull corresponds to the sky, the bones to mountains, the veins to rivers, and the hair to plants. This "theological physics" was the basis of Magian medicine. Healing the body required understanding its correspondence to the cosmic elements. Such a systematic mapping, preserved with high fidelity into the Islamic period, strongly suggests a written antecedent that codified these relationships.
+Chapter 28 of the *Bundahishn*, derived from the *Dāmdād*, details the correspondence between the human body (*Microcosm*) and the universe (*Macrocosm*). The skin corresponds to the sky, the bones to mountains, the veins to rivers, and the hair to plants. This "theological physics" was the basis of Magian medicine. Healing the body required understanding its correspondence to the cosmic elements. Such a systematic mapping, preserved with high fidelity into the Islamic period, strongly suggests a written antecedent that codified these relationships.
 
 ## **V. The Babylonian Interlocutors and the Necessity of Tables**
 
@@ -138,7 +138,7 @@ The *Bundahishn*, therefore, is the "fossil" of the *Dāmdād Nask*. Its structu
 | **Chap. 2, 5** | **Astronomy** | *Star-Gōwišnīh* | Precise zodiacal degrees; 180 apertures; planetary motions. |
 | **Chap. 14, 15** | **Zoology/Biology** | *Gospend/Khrafstra* | 5-fold taxonomy; Embryological heat/cold theories. |
 | **Chap. 16, 27** | **Botany** | *Urvar* | Classification of plants; Tree of All Seeds (Taxonomic hierarchy). |
-| **Chap. 28** | **Anatomy/Medicine** | *Microcosm* | Detailed mapping of body parts to cosmic elements (Skull=Sky). |
+| **Chap. 28** | **Anatomy/Medicine** | *Microcosm* | Detailed mapping of body parts to cosmic elements (Skin=Sky). |
 | **Chap. 31, 32** | **Geography** | *Keshvar* | List of 33 lands; Rivers; Mountains (Administrative geography). |
 
 The rigid cataloging in these chapters serves as a mnemonic index, summarizing the contents of the lost written encyclopedia. It is the "cliff notes" of the *Scientific Avesta*.

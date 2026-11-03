@@ -91,7 +91,7 @@ While the original Avestan text was lost, its content is preserved in the *Bunda
    The Dāmdād Nask explicitly detailed the correspondence between the human body and the cosmos. It taught that the human body is a "Small World" (Microcosm) and the universe is a "Great Man" (Macrocosm).  
    * **Bones \= Mountains**  
    * **Veins \= Rivers**  
-   * **Skull \= Sky**.11  
+   * **Skin \= Sky**.11  
    * *Swedenborgian Parallel:* This is the exact formulation of Swedenborg’s *Maximus Homo* doctrine, which states that "the whole heaven reflects a single man" and that there is a correspondence between the fabrics of the human body and the fabrics of the universe.12  
 3. The Science of Lists (Listenwissenschaft):  
    The document reflects the Mesopotamian tradition of Listenwissenschaft—the "Science of Lists." Knowledge was organized by exhaustive cataloging of stars, stones, and trees to map the divine order.2 This suggests the Dāmdād Nask was a "scientific document" in the truest sense of the Ancient Near East: a manual for reading the "Book of Nature."

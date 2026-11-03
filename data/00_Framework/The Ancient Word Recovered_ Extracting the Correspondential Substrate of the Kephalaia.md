@@ -619,7 +619,7 @@ These six predictions, formulated in the eighteenth century, are tested against 
 | Evil as inversion, not separate substance | "Evil as self-consuming disunity" (observation); evil constructed "after the likeness of a man" — not a separate form but a parasitic inversion | **Confirmed** |
 | Regeneration as sequential process through discrete states | Five-fold liberation sequence; progressive fall from consideration to mind; the necessity of descent through consciousness | **Confirmed** |
 
-All six predictions are confirmed by the extracted substrate. None are contradicted. The predictions were made 250 years before the data existed to test them — the Kephalaia was not edited or translated into a European language until Polotsky and Böhlig's German edition of 1940.
+All six predictions are confirmed by the extracted substrate. None are contradicted. The predictions were made nearly two centuries before the data existed to test them — the Kephalaia was not edited or translated into a European language until Polotsky and Böhlig's German edition of 1940.
 
 ### 9.5 The Convergence
 

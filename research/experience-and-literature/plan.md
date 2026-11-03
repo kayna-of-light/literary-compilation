@@ -20,15 +20,33 @@ Each question is answered only from published material.
 
 | # | Thread | Method | Status | Store |
 |---|---|---|---|---|
-| 1 | Library: self-deification and the counterfeit key (Blavatsky studies, `05_The_Self`) | Read in full | Open | context.md |
-| 2 | Library: literalization (*Reversing the Arrow*, `08`) | Read in full | Open | context.md |
-| 3 | Library: Swedenborg's own scientific forcing (*The Selfhood of the Prophet*, `02`) | Read in full | Open | context.md |
-| 4 | Library: NDE phenomenology and aftereffects (`01`) | Read in full | Open | context.md |
-| 5 | Swedenborg on stars (*AC* §§2495, 2849, 3448; *AR* §51; *EU*) | Primary text | Open | store |
-| 6 | Spontaneous OBE surveys (Green, Blackmore, Twemlow and Gabbard, Alvarado, Irwin) | Agent leads, then own reading | Open | store |
-| 7 | How channelled material is produced (Brown, Hastings, Klimo, Hanegraaff; cryptomnesia; Hodgson and Harrison) | Agent leads, then own reading | Open | store |
-| 8 | NDE aftereffects: humility, values, inflation (Ring, Noyes, Greyson, van Lommel; spiritual superiority) | Agent leads, then own reading | Open | store |
-| 9 | Verifiable leads from spontaneous experience (veridical NDE perception; Hilprecht's dream) versus checks of channelled claims | Agent leads, then own reading | Open | store |
+| 1 | Library: self-deification and the counterfeit key (Blavatsky studies, `05_The_Self`) | Read | Done | context.md |
+| 2 | Library: literalization (*Reversing the Arrow*, `08`) | Read | Done | context.md |
+| 3 | Library: Swedenborg's own scientific forcing (*The Selfhood of the Prophet*, `02`) | Read | Done | context.md |
+| 4 | Library: NDE phenomenology and aftereffects (`01`) | Read | Done | context.md |
+| 5 | Swedenborg on stars (*AC* §§2495, 2849, 3448; *AR* §51; *EU*) | Primary text | Done | 001, 002 |
+| 6 | Spontaneous OBE surveys (Green, Blackmore, Twemlow and Gabbard, Alvarado, Irwin) | Agent leads, then own reading | Done | see below |
+| 7 | How channelled material is produced (Brown, Hastings, Klimo, Hanegraaff; cryptomnesia; Hodgson and Harrison) | Agent leads, then own reading | Done | see below |
+| 8 | NDE aftereffects: humility, values, inflation (Ring, Noyes, Greyson, van Lommel; spiritual superiority) | Agent leads, then own reading | Done | see below |
+| 9 | Verifiable leads from spontaneous experience (veridical NDE perception; Hilprecht's dream) versus checks of channelled claims | Agent leads, then own reading | Done | see below |
+
+## Store index
+
+- 001 Swedenborg moves one group of spirits from Jupiter to a star system (*SD* §§1668–1673; *EU* §§148–151)
+- 002 Swedenborg on stars (*AC* §§1128, 2495, 2849, 3448, 4697; *AR* §51; *EU* §50)
+- 003 Newbold 1896 on Hilprecht's dream
+- 004 AWARE I and II hidden-target tests
+- 005 Yuill 1991: delayed disclosure, naming from reading
+- 006 Wahbeh & Butzer 2020: channelling as willful
+- 007 Vonk & Visser 2021: spiritual superiority
+- 008 Brown 1997, Hastings 1991, Hanegraaff 1996 on channelling
+- 009 NDE aftereffects (Greyson 1983, 2022; Groth-Marnat & Summers 1998; van Lommel 2001; Noyes 1980)
+- 010 Greyson 2007: accounts not embellished
+- 011 Checked predictions and borrowed content (Flournoy, Festinger, Hastings, Urantia)
+- 012 Complicating findings (Roxburgh & Roe, Peres, Rocha, Beischel & Schwartz, O'Keeffe & Wiseman)
+- 013 Alvarado 1997: spontaneous OBE content
+
+Synthesis: `synthesis/theme_001.md`.
 
 ## Rules for this project
 

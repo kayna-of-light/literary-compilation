@@ -310,7 +310,7 @@ This distinction matters because it resolves a chronological puzzle. The *Dāmd�
 
 ### C. The *Dāmdād Nask* and the Complete Codified System
 
-Zoroastrian historiography preserves memory of what was lost. The *Dēnkard* (Book 4) records that the Achaemenid kings possessed two archetypal copies of the Avesta and Zand, written in "liquid gold" on 12,000 ox-hides, deposited in the Dež ī Nibišt (Fortress of Archives) at Persepolis.^[13]
+Zoroastrian historiography preserves memory of what was lost. The *Dēnkard* (Book 4) records that Dārāy son of Dārāy ordered two written copies of the whole Avesta and Zand, "one in the treasury of Shapigan, and one in the fortress of written documents"; the *Ardā Wirāz Nāmag* (1.7) that the Avesta and Zand were written "upon prepared cow-skins, and with gold ink" and deposited in the archives at Stakhr.^[13]
 
 The *Dāmdād Nask* specifically dealt with creation—the classification of all phenomena according to the *mēnōg/gētīg* distinction. Every animal, plant, metal, and celestial body was mapped to its spiritual cause. This was the **complete codified system**—the institutional preservation of what the *Bene Qedem* had carried in lived form.
 

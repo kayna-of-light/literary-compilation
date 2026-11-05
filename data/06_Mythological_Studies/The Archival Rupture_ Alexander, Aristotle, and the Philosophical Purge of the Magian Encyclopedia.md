@@ -93,7 +93,7 @@ Once the "useful" information (the *utilissimus* part praised by Eudoxus) was ex
 
 ### **C. The Role of Hermippus and the Library**
 
-The hypothesis is further supported by the figure of Hermippus of Smyrna (3rd century BCE). Pliny records that Hermippus, a scholar at the Library of Alexandria, "explained the contents of two million verses composed by Zoroaster" and compiled an index of them.  
+The hypothesis is further supported by the figure of Hermippus of Smyrna (3rd century BCE). Pliny records that Hermippus, a scholar at the Library of Alexandria, "commented upon the two millions of verses left by Zoroaster, besides completing indexes to his several works".  
 Where did Hermippus get access to "two million verses" of Zoroaster in Alexandria, barely a century after Alexander? The answer, under this hypothesis, is that these were the very translations ordered by Alexander from the Persepolis archives. The Library of Alexandria became the new repository for the "sanitized" Magian science. The *Dāmdād Nask* did not vanish; it metamorphosed into the Greek scientific corpus, leaving the Persian priesthood with only the memory of the texts and the oral liturgy. Hermippus’s work represents the cataloging of the loot—the organization of the "foreign wisdom" into the Hellenistic canon.
 
 ## **V. Philosophical Motivation: Corruption vs. Purity**

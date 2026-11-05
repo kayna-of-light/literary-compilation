@@ -104,7 +104,7 @@ The bridge between this Magian encyclopedia and Plato is Alexander the Great. St
 
 ### **The "Two Copies" Tradition**
 
-The *Dēnkard* (Book 4\) and the *Book of Arda Viraf* assert that the Achaemenid kings preserved two archetypal copies of the Avesta and Zand (commentary), written in "liquid gold" on 12,000 ox-hides.
+The *Dēnkard* (Book 4\) asserts that the Achaemenid king Dārāy preserved two written copies of the Avesta and Zand (commentary), and the *Book of Arda Viraf* that they were written "upon prepared cow-skins, and with gold ink"; later Arabic and Persian tellings put the hides at twelve thousand.
 
 * **Copy 1:** Deposited in the *Dež ī Nibišt* (Fortress of Archives) at Istakhr (Persepolis).  
 * **Copy 2:** Deposited in the *Ganj ī Šāpīgān* (Royal Treasury).13
@@ -126,7 +126,7 @@ This "Translation Order" targeted specific genres of text. Alexander, tutored by
 
 ### **The Hermippus Connection**
 
-Where did these translations go? Historical evidence points to the Library of Alexandria. Pliny the Elder records that **Hermippus of Smyrna** (3rd century BCE), a scholar at the Library, "explained the contents of two million verses composed by Zoroaster" and compiled an index of them.16
+Where did these translations go? Historical evidence points to the Library of Alexandria. Pliny the Elder records that **Hermippus of Smyrna** (3rd century BCE), a scholar at the Library, "commented upon the two millions of verses left by Zoroaster, besides completing indexes to his several works".16
 
 * **Implication:** This confirms that a massive corpus of Zoroastrian literature existed in Greek in Alexandria. This corpus would have included the translated *Dāmdād Nask*.  
 * **Eudoxus and Plato:** Pliny also notes that **Eudoxus of Cnidus**, a direct pupil of Plato, declared Zoroaster to be the "most useful" of philosophers.17 **Hermodorus**, another student of Plato, explicitly discussed Magian dualism.18 This proves that the "Magian Science" was circulating in the Academy *before* and *during* the time of Alexander (via pre-conquest contact) and was solidified by the Alexandrian translations.

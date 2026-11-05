@@ -6,7 +6,7 @@ The destruction of Persepolis in the spring of 330 BCE by the forces of Alexande
 Central to this controversy is the persistence of a Zoroastrian hagiographic tradition which asserts that Alexander—vilified in Middle Persian texts as *Guzastag*, or "The Accursed"—did not merely burn a palace, but deliberately destroyed the sacred scriptures of the Zoroastrian faith, the *Avesta*. According to these accounts, the whole Avesta and Zand, "written upon prepared cow-skins, and with gold ink," lay in the archives at Stakhr and was burned by Alexander (AWN 1.7–8); later Arabic and Persian tellings put the hides at twelve thousand (al-Ṭabarī 1987, 72). This narrative posits Alexander not merely as a military adversary, but as a theological cataclysm, an agent of the Evil Spirit (*Angra Mainyu*) sent to obliterate the divine word of Ahura Mazda (AWN 1.3–4).  
 However, this tradition stands in stark tension with the silence of contemporary Hellenistic historiography and the findings of modern philology. Greek and Roman historians, while detailing the looting of the treasury and the drunken revelry that allegedly precipitated the fire, make no mention of a sacred library. Furthermore, the prevailing consensus among Iranologists and philologists suggests that the *Avesta* was, during the Achaemenid period, a fundamentally oral corpus, transmitted through the mnemonic rigors of the Magian priesthood rather than through written codices (Boyce 1979, 49; Kellens 1987).  
 This report seeks to adjudicate this dispute through a rigorous synthesis of Classical historiography, Sasanian religious literature, and the archaeological data derived from the ruins of Persepolis itself. By triangulating the literary silence of the West, the lamentations of the East, and the physical evidence of clay and ash, we aim to construct a neutral historiographical assessment of what was truly lost in 330 BCE. The inquiry is guided by the need to distinguish between the legendary expansions of a traumatized community and the historical realities of ancient record-keeping.  
-To understand the fate of the Achaemenid archives, one must navigate three distinct epistemological landscapes: the political narratives of the Greek conquerors, who sought to frame the destruction as either policy or accident; the theological narratives of the Zoroastrian priesthood, who sought to explain the fragmentation of their canon; and the material reality of the Persepolis Fortification Archive, which survived the fire precisely because of the nature of its medium.
+To understand the fate of the Achaemenid archives, one must navigate three distinct epistemological landscapes: the political narratives of the Greek conquerors, who sought to frame the destruction as either policy or accident; the theological narratives of the Zoroastrian priesthood, who sought to explain the fragmentation of their canon; and the material reality of the Persepolis Fortification Archive, which survived because its medium was clay, buried in the fortification wall, while what was written on hide perished.
 
 ## **2\. The Classical Historiography of the Sack: Vengeance, Policy, and Silence**
 
@@ -104,7 +104,7 @@ While the clay tablets survived, they provide undeniable evidence that they were
 
 ### **4.3 Reconciling Archaeology with the "Ox-Hide" Legend**
 
-The archaeological evidence creates a compelling convergence with the "12,000 ox-hides" legend.
+The archaeological evidence creates a compelling convergence with the legend of the gold-inked hides.
 
 * **Material Convergence:** The Zoroastrian tradition claims the texts were on hides. The tablets confirm that the Achaemenid administration employed scribes writing on parchment, and the Aršāma letters show high-level records written in Aramaic on skins.  
 * **Location Convergence:** The tradition places the texts in the "Fortress of Archives" and the "Treasury." Archaeology found the clay tablets (and the evidence of lost parchments) in the *Fortification* walls and the *Treasury* building.
@@ -163,13 +163,13 @@ It is essential to recognize that the surviving Avestan manuscripts all derive f
 
 * **The Second Loss:** The Sasanians *did* write down the Avesta in the 4th–6th centuries. This written Sasanian Avesta was massive (21 Nasks). The vast majority of *this* written canon was destroyed or lost during the Islamic conquest of Persia (7th century) and the subsequent centuries of marginalization. The library of the Sasanians was indeed dispersed, and the texts that survive today are almost entirely the liturgical manuals in constant daily use by the priests of Iran and of the Parsis in India (Boyce 1979, 165).
 
-**Historiographical Insight:** The Zoroastrian tradition likely *telescoped* these two traumas. The destruction wrought by the Arabs in the 7th century CE (who destroyed the Sasanian state and its written archives) was projected backward onto Alexander, the first "Alien Conqueror," creating a unified narrative of persecution.
+**Historiographical Insight:** The Zoroastrian tradition likely *telescoped* these two traumas. The narrative of Alexander's burning is older than the Arab conquest—the Letter of Tansar, set in Ardashir's reign, already has it (Boyce 1968, 37)—but the Pahlavi books that tell it most fully were redacted in the 9th and 10th centuries, after the Arabs had destroyed the Sasanian state and its written archives. The later loss was read back into the first "Alien Conqueror," creating a unified narrative of persecution.
 
 ## **7\. Dating the Avesta: What Existed in 330 BCE?**
 
 To understand the magnitude of the loss, we must delineate the stratification of the Avestan texts. What parts of the canon definitely existed (in oral form) when Alexander stood before Persepolis?
 
-### **7.1 The Old Avesta (c. 1500–1000 BCE)**
+### **7.1 The Old Avesta (Second Millennium BCE)**
 
 These are the most archaic texts, composed in a dialect close to Rigvedic Sanskrit; Boyce placed Zoroaster himself "some time between 1700 and 1500 B.C." (1979, 18). They were undoubtedly fixed and memorized centuries before Alexander.
 
@@ -199,7 +199,7 @@ Why did the Sasanians construct the specific narrative of the "Burned Book"? It 
 The burning of Persepolis in 330 BCE was a historical fact, confirmed by the charred ruins and the destruction horizon of the Treasury. However, the specific claim that Alexander the Great destroyed the *Avesta* is a complex amalgam of history, memory, and myth.  
 **Key Findings:**
 
-1. **No Written Avesta:** The scholarly consensus maintains that the *Avesta* was an oral corpus in the Achaemenid period. Therefore, Alexander did not burn a "Zoroastrian Bible" because no such physical object existed.  
+1. **No Written Avesta:** The scholarly consensus maintains that the *Avesta* was an oral corpus in the Achaemenid period. Therefore, Alexander did not burn a "Zoroastrian Bible": the canon lived in the priests, and at most a prestige copy (§ 5.2) could have perished with the archives.  
 2. **Destruction of Archives:** Alexander *did* burn the royal administrative archives of Persepolis. The tablets name scribes writing on parchment and hides sent to the treasury, and the Treasury's sealings once closed bundled goods and documents; of the parchment nothing survives. The Zoroastrian legend of the gold-inked hides likely preserves a historical memory of this administrative loss, conflated over time with religious loss.  
 3. **The Slaughter of the Living Books:** As Mary Boyce wrote, "the priests were the living books of the faith" (1979, 79), and the conquest killed many of them. The disruption of the oral transmission chain caused by the conquest was the true mechanism of the text's fragmentation.  
 4. **Historiographical Construction:** The narrative of the "Burned Book" was crystallized by the Sasanian priesthood to explain the gaps in their tradition and to legitimize the creation of a written canon in the face of rival scriptural religions.

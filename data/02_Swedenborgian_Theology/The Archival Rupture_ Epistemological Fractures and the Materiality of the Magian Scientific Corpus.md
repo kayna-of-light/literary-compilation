@@ -42,7 +42,7 @@ If the cognitive argument establishes the *necessity* of writing for the scienti
 
 ### **The Paradox of Preservation at Persepolis**
 
-The burning of Persepolis by Alexander the Great in 330 BCE created a paradox: the fire destroyed the empire's primary records while accidentally preserving its temporary ones.
+The burning of Persepolis by Alexander the Great in 330 BCE left a paradox: the empire's primary records, on hide, perished, while its temporary ones, on clay, survived—not because the fire preserved them, but because clay buried in the fortification outlasts what fire consumes.
 
 * **The Fortification Archive:** The Fortification archive survives as "about 20,000-25,000 tablets and fragments representing about 15,000-18,000 original documents," most of them Elamite (Jones and Stolper 2008, quoted in Garrison 2017, 30). They were essentially "scratch pads" or temporary receipts for rations, made of sun-dried clay, and the fire did not bake them: they "were not found in burned layers and thus were not baked" (Garrison 2017, 106 n. 150, after Henkelman 2008, 72). They survived buried in the fortification; what stood on hide and papyrus did not.  
 * **The "Ghosts" of the Parchment:** The Treasury yielded some 199 sealed clay labels, many of them bullae affixed to cords that bundled objects—"in some cases perhaps folded papyrus or parchment documents"—and many preserving the traces of the cords on their reverses (Garrison 2017, 75). These sealings are the "ghosts" of an incinerated archive.  
@@ -113,7 +113,7 @@ Pliny the Elder reports that Hermippus of Smyrna (3rd century BCE) "commented up
 
 ### **Eudemus of Rhodes and Magian Time**
 
-Eudemus of Rhodes (c. 370–300 BCE), a student of Aristotle, wrote a *History of Theology* in which he explicitly discusses the Magian doctrine of Space and Time. He cites the Magian belief that "Time" (*Zurvan*) or "Place" is the primordial unity from which the good god and the evil spirit separated: "some call everything that is intelligible and unified 'Place' (*topos*) and others call it 'Time' (*chronos*). From this either a good god and an evil lower spirit (*daimon*) have separated, or light and darkness" (Damascius, *De principiis* 125, trans. Harland). This abstract metaphysical discussion parallels the *Zurvanite* theology found in the *Bundahishn*. Eudemus's precise citation suggests he had access to a written theological treatise—a *Zand*—that expounded on the *Dāmdād Nask*’s cosmogony.
+Eudemus of Rhodes (c. 370–300 BCE), a student of Aristotle, wrote a *History of Theology* in which he explicitly discusses the Magian doctrine of Space and Time. He cites the Magian belief that "Time" (*Zurvan*) or "Place" is the primordial unity from which the good god and the evil spirit separated: "some call everything that is intelligible and unified 'Place' (*topos*) and others call it 'Time' (*chronos*). From this either a good god and an evil lower spirit (*daimon*) have separated, or light and darkness" (Damascius, *De principiis* 125, trans. Harland). This abstract metaphysical discussion parallels the *Zurvanite* theology found in the *Bundahishn*. Eudemus's report, which distinguishes two Magian schools on the first principle, suggests he had access to a written theological treatise—a *Zand*—that expounded on the *Dāmdād Nask*’s cosmogony.
 
 ## **VII. The Alexander Rupture: The Mechanics of Loss**
 

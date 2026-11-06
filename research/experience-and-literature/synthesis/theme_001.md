@@ -63,6 +63,6 @@ This synthesis tests the five points of `plan.md` against sources 001–013. Eac
 
 ## Library issues found along the way (for the author)
 
-- *The Empty Room* §16 uses a single first-person account as an "experiential falsification." This is the use of a researcher's own or an unsourced personal account that the author has asked to avoid. Flagged, not changed.
-- *The Empty Room* §14 states the Theosophy → channelling → starseed lineage without citation. Brown 1997 and Hanegraaff 1996 (source 008) could supply published support.
+- *The Empty Room* §16 uses a single first-person account as an "experiential falsification." This is the use of a researcher's own or an unsourced personal account that the author has asked to avoid. Fixed 2026-11-06: the account is removed and §16 is rebuilt on published aggregate data.
+- *The Empty Room* §14 states the Theosophy → channelling → starseed lineage without citation. Brown 1997 and Hanegraaff 1996 (source 008) could supply published support. Fixed 2026-11-06 with Melton 2001 ("Contactees"), Goodrick-Clarke 2008, Brown 1997, Hanegraaff 1996 and Crockford 2021.
 - *The Selfhood of the Prophet* lists four instances of anchoring. Source 001 documents a fifth, spatial, instance with the same shape.

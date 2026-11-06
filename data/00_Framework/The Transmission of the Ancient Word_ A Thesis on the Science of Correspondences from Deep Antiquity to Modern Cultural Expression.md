@@ -310,7 +310,7 @@ This distinction matters because it resolves a chronological puzzle. The *Dāmd�
 
 ### C. The *Dāmdād Nask* and the Complete Codified System
 
-Zoroastrian historiography preserves memory of what was lost. The *Dēnkard* (Book 4) records that the Achaemenid kings possessed two archetypal copies of the Avesta and Zand, written in "liquid gold" on 12,000 ox-hides, deposited in the Dež ī Nibišt (Fortress of Archives) at Persepolis.^[13]
+Zoroastrian historiography preserves memory of what was lost. The *Dēnkard* (Book 4) records that Dārāy son of Dārāy ordered two written copies of the whole Avesta and Zand, "one in the treasury of Shapigan, and one in the fortress of written documents"; the *Ardā Wirāz Nāmag* (1.7) that the Avesta and Zand were written "upon prepared cow-skins, and with gold ink" and deposited in the archives at Stakhr.^[13]
 
 The *Dāmdād Nask* specifically dealt with creation—the classification of all phenomena according to the *mēnōg/gētīg* distinction. Every animal, plant, metal, and celestial body was mapped to its spiritual cause. This was the **complete codified system**—the institutional preservation of what the *Bene Qedem* had carried in lived form.
 
@@ -407,9 +407,9 @@ This is a myth of **Profanation**—the specific Swedenborgian doctrine describi
 
 How did Plato possess this level of systematic access? The historical evidence points to specific transmission channels:^[22]
 
-**Eudoxus of Cnidus** (c. 390-337 BCE): Mathematician and astronomer who served as acting head of the Academy during Plato's Sicilian voyages. Pliny records that Eudoxus declared Zoroaster "the most useful of philosophers" and dated him 6,000 years before Plato—reflecting Zoroastrian cosmic chronology. Eudoxus traveled extensively and likely had direct contact with Magian teachings.
+**Eudoxus of Cnidus** (c. 390-337 BCE): Mathematician and astronomer who served as acting head of the Academy during Plato's Sicilian voyages. Pliny records that Eudoxus judged the Magian art "the most illustrious and the most beneficial" of all branches of philosophy and dated Zoroaster 6,000 years before the death of Plato (*Natural History* 30.2)—reflecting Zoroastrian cosmic chronology. Eudoxus traveled extensively and likely had direct contact with Magian teachings.
 
-**Hermodorus of Syracuse**: Direct disciple of Plato who wrote explicitly on the Magi, their dualism, and their cyclical history. He translated Oromasdes (Ahura Mazda) and Areimanius (Angra Mainyu) into Platonic register.
+**Hermodorus of Syracuse**: Direct disciple of Plato who wrote on the Magi—dating them from Zoroaster "5000 years before the fall of Troy" and glossing Zoroaster's name as "star-worshipper" (Diogenes Laertius 1.2, 1.8). Their two principles, Oromasdes (Ahura Mazda) and Arimanius (Angra Mainyu), are reported by Aristotle in *On Philosophy*, "confirmed by Hermippus …, Eudoxus …, and Theopompus" (Diogenes Laertius 1.8).
 
 **The Academy's "Persian Policy"**: The Academy maintained sustained interest in Persian thought. The late dialogues (*Timaeus*, *Laws*) show increasing "orientalization"—cosmological speculation that maps directly onto Zoroastrian frameworks.
 
@@ -440,9 +440,9 @@ When Alexander burned Persepolis, he destroyed the institutional repository of t
 
 ### B. The "Alexandrian Copying": Selective Preservation
 
-Zoroastrian historiography, preserved in the *Dēnkard* (Book 4) and the *Book of Arda Viraf*, asserts that Alexander did not simply burn everything. Before the destruction, he ordered selective translation:
+Zoroastrian historiography, preserved in the *Dēnkard* (Books 3 and 4) and the *Book of Arda Viraf*, asserts that Alexander did not simply burn everything. Before the destruction, he ordered selective translation:
 
-> "That which was in the fortress of documents came to be burnt; and that in the treasury... was translated by him even into the Greek language, as information which was connected [with the sciences]..."^[24]
+> "That which was in the fortress of documents came to be burnt; and that in the treasury... was translated by him even into the Greek language, as information which was connected with the ancients"^[24]
 
 Alexander, tutored by Aristotle and hungry for *epistēmē*, targeted the scientific encyclopedias—medicine, astronomy, geography, natural history. The *Dāmdād Nask*, dealing with the classification of all phenomena according to spiritual causes, would have been a prime target.
 
@@ -1317,3 +1317,4 @@ The key is available again. The question is whether we will use it.
 50. [The Pauline Matrix: Archetypal Gnosticism and the Structural Origins of the Cosmic Christ](../04_Early_Christian_History/The%20Pauline%20Matrix_%20Archetypal%20Gnosticism%20and%20the%20Structural%20Origins%20of%20the%20Cosmic%20Christ.md)
 51. [The Jamesian Protograph: A Forensic Reconstruction of the Proto-Lukan Nexus, the Q Source, and the Politics of Resurrection](../04_Early_Christian_History/The%20Jamesian%20Protograph_%20A%20Forensic%20Reconstruction%20of%20the%20Proto-Lukan%20Nexus,%20the%20Q%20Source,%20and%20the%20Politics%20of%20Resurrection.md)
 52. [The Genealogy of the Spirit and the Kingdom: An Exhaustive Analysis of Zoroastrian Influence on New Testament Pneumatology and Eschatology](../04_Early_Christian_History/The%20Genealogy%20of%20the%20Spirit%20and%20the%20Kingdom_%20An%20Exhaustive%20Analysis%20of%20Zoroastrian%20Influence%20on%20New%20Testament%20Pneumatology%20and%20Eschatology.md)
+53. Pliny the Elder. *The Natural History.* Translated by John Bostock and H. T. Riley. London: Henry G. Bohn, 1855–1857. Eudoxus and Hermippus on Zoroaster at 30.2.

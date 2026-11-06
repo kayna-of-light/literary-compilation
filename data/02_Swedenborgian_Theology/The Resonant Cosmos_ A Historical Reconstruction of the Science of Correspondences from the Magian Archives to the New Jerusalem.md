@@ -84,7 +84,7 @@ This hierarchical structure parallels Swedenborg's concept of the "Grand Man" or
 
 ### **The Alexander Catastrophe: The Burning of the Books**
 
-The rupture in this tradition is a central trauma in Zoroastrian history. The *Arda Viraf Namag* and the *Denkard* recount that "Alexander the Roman" (i.e., the Greek) destroyed the Avesta which was written with gold ink on 12,000 prepared cow-hides and deposited in the royal archives at Persepolis (the *Diz-i Nipisht*).15
+The rupture in this tradition is a central trauma in Zoroastrian history. The *Arda Viraf Namag* and the *Denkard* recount that "Alexander the Roman" (i.e., the Greek) destroyed the Avesta which was written "upon prepared cow-skins, and with gold ink" and deposited in the archives at Stakhr (the *Diz-i Nipisht*); later Arabic and Persian tellings put the hides at twelve thousand.15
 
 Crucially, the tradition specifies *what* was lost. While the liturgical texts (the Gathas and prayers) survived in the oral memory of the priests, the "scientific" Nasks—those dealing with medicine, astronomy, geography, and the nature of plants and animals—were largely destroyed or "dispersed".17 Some accounts suggest that Alexander ordered the translation of the scientific parts into Greek before destroying the originals, an intriguing explanation for the sudden flowering of Hellenistic science and the appearance of "Magian" concepts in Greek philosophy.
 

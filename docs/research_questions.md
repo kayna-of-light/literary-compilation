@@ -93,6 +93,23 @@ When identifying a gap or question during framework development:
 
 ---
 
+### [Author decision] Which Kephalaia pipeline run do *The Ancient Word Recovered*'s figures report?
+
+**Target**: author decision (no external tool can settle it)  
+**Status**: Open  
+**Date Added**: 2026-11-03  
+**Priority**: MEDIUM  
+**Related Document**: `data/00_Framework/The Ancient Word Recovered_ Extracting the Correspondential Substrate of the Kephalaia.md` (§§1, 5–11); the same figures recur in `08/The Garment and What Wears It` (110 entries, in its account of Stage 7), `04/Truth Does Not Force Its Way` (110-entry lexicon, 96%), `02/The Resolution of the Finite Mind` (96%, 110 entries).
+
+**Context**:
+The document reports a lexicon of 110 entries (66 established, 40 strong, 3 moderate, 1 tentative; categories 21/21/16/15/14/11/7/5), a corpus review of 22 findings (2 critical, 8 significant, 12 minor/observation), a structure of 13 parts, 52 chapters and 11 observations, 886 paragraphs, and paragraph references such as §544 (Saklas), §678–711, §830. It cites them to `manichaean-analysis/output/projects/kephalaia/` (`correspondence_lexicon.json`, `corpus_review.json`, `book_structure.json`). Those files — unchanged since the commit of 2026-05-15, a month before the document entered the library on 2026-06-15 — hold a different run: **100 entries** (56 established, 42 strong, 2 moderate; categories natural imagery 22, cosmological entity 16, cosmic element 15, structural term 13, quality/state 11, numerical 10, action/process 9, body/anatomy 4), **20 findings** (1 critical, 7 significant, 4 minor, 8 observation; no "Xradeshahr" in the critical finding), **12 parts, 44 chapters, 10 observations**. The typeset *The Ancient Word* v1.0 and v1.1 (`output/pdfs/`) say **934 paragraphs**, 12 parts, 44 chapters, and place Saklas at §592. The run the document describes is not preserved in the repository. The pipeline has nine stages (Stages 0–8, `scripts/projects/kephalaia/`); the document, which counted them both ways, now says "nine-stage" throughout, while its dependents' "eight-stage" counts Stages 1–8 after ingest (as *The Garment* spells out) and stands. No figure was changed.
+
+**Research Question**:
+1. Is the document's run (110 / 22 / 13 parts / 52 chapters / 886 paragraphs) preserved anywhere — the author's Drive, a local copy, an earlier `output/` state?
+2. If not: restate §§1, 5.3, 7, 8, 9.2, 10 and 11 (and the three dependents above) from the preserved run (100 / 20 / 12 / 44 / 934, with its own § references), or keep the document as the record of the earlier run and say which outputs it reports? Or move to the `kephalaia_v2` pipeline (from the Coptic)?
+
+---
+
 ### [GDR] Verify Kellehear Quote on Social Expectations vs Ineffability
 
 **Target**: `[GDR]`  

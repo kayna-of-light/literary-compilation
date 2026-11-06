@@ -2564,6 +2564,19 @@ In *Cosmic Cradle* (2013), do the authors or their informants describe pre-birth
 
 ---
 
+### [NLM] *The Unnamed Cartography* §3.4 — does the Agromauna score stand on the Coptic ⲁⲅⲣⲟⲙⲁⲩⲙⲁ?
+
+**Priority**: LOW
+**Related Documents**: `data/08_Correspondential_Texts/The Unnamed Cartography_ A Systematic Validation of Swedenborgian Body-Part Correspondences Against the 365-Angel List of the Apocryphon of John.md` (§3.4, "Agromauna | Heart | ἀγρός + μονή = field-dwelling", rated consistent); `data/08_Correspondential_Texts/The Letters They Dropped_ Coptic Manuscript Evidence for the Angel Names of the Apocryphon of John.md` (§6.4)
+
+**Context**: Robinson's English (Wisse) names the angel of the heart "Agromauna". Both witnesses of the long recension read ⲁⲅⲣⲟⲙⲁⲩⲙⲁ (Linssen: NHC II 16,20; IV 25,23), with ⲙ before the final vowel. The cartography's etymology ἀγρός + μονή needs the ν of μονή. Every other scored name checked on 2026-11-06 stands on the Coptic (the apparent extra letters of Asterechme, Thaspomocha and Achcha are the linker, which Codex IV writes apart).
+
+**Research Question**: Keep the "consistent" score with a note that the reading assumes ⲙ for ⲛ, re-derive the name from ⲁⲅⲣⲟⲙⲁⲩⲙⲁ, or drop it from the 43 (which changes the tallies: 11 consistent → 10, 43 → 42)? This is the author's decision; the facts are settled.
+
+**Status**: Open
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

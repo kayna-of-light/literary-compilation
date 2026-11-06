@@ -656,7 +656,7 @@ The following table maps the independent witnesses who converge on the pattern "
 | Eudoxus (via Pliny) | ~370 BCE | Aristotle/Lyceum | Magian wisdom "most useful" of philosophies; Zoroaster's antiquity | Friendly (Academy) |
 | Aristotle (*On Philosophy* fr.) | ~340 BCE | Eudoxus, Academy | Magi "more ancient than Egyptians"; two principles | Friendly (valuative) |
 | Colotes (anti-Platonist) | ~250 BCE | Plato's defenders | Myth of Er "lifted" from Zoroastrian *On Nature* | **Hostile** (attacking Plato) |
-| Hermodorus (via Diogenes) | ~350 BCE? | Independent | Magian chronology and dualism | Neutral |
+| Hermodorus (via Diogenes) | ~350 BCE? | Independent | Magian chronology; Zoroaster's name as "star-worshipper" | Neutral |
 | Dēnkard | ~9th c. CE | All Greek sources | Translate-then-burn: "into the Greek language" | **Victim** |
 | Book of Arda Viraf | ~3rd–9th c. CE | All Greek sources | Alexander "the accursed" burned the gold-inked archive | **Victim** |
 | Bundahišn 33.14 | ~9th c. CE | All Greek sources | "He sent it to Arūm, and burned the Avesta" | **Victim** |

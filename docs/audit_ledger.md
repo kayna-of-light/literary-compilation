@@ -566,7 +566,7 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 |---|---|
 | Documents in `data/` | 254 |
 | Audited | 75 |
-| In flight | 0 |
+| In flight | 1 |
 | Remaining | 179 |
 
 Refresh the total with `find data -name "*.md" | wc -l`.

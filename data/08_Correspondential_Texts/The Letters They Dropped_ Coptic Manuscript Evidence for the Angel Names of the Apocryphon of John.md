@@ -4,9 +4,9 @@
 
 ---
 
-> **Abstract.** A companion thesis to *The Unnamed Cartography* demonstrated that the 365 angel names in the Apocryphon of John's body-creation passage encode spiritual qualities that converge with Swedenborg's body-part correspondences across 43 translatable entries with zero contradictions. That analysis relied on Robinson's English transliterations of the angel names. This thesis returns to the Coptic manuscript itself — NHC II,1, Folios 15–19 — and performs a systematic comparison of every angel name as the scribe actually wrote it against Robinson's published transliterations. The results are striking. Robinson silently dropped terminal consonants from at least seven names, obscuring etymological roots that the Coptic preserves: most significantly, MNIARCHŌN (with terminal N confirming the ἀρχών root for "memory-ruler") and ASTERECHMĒN (with terminal N opening a star-plus-moon reading for the right eye). Four body-part laterality assignments are wrong in Robinson's edition: Tebar, Mniarcon, Barias, and Aroer are all assigned to the LEFT side in the Coptic (ⲛ̅ϭⲃⲟⲩⲣ), not the right — and all four corrections *improve* alignment with Swedenborg's assignment of will/love to the left and truth/understanding to the right. One angel name that Robinson collapsed into a single word ("Achcha") is actually two words in the Coptic: ACHCHAN (the angel) plus STAPHYLĒ (σταφυλή, "grape" — the Greek anatomical term for the uvula). Beyond the angel names, the Coptic body-part vocabulary itself carries correspondential content that English translations erase: ⲫⲏⲧ means both "heart" and "mind"; ⲛⲁⲧⲕⲁⲥ means "boneless" (the marrow defined by what it is not); the spine is called ⲛ̅ϫⲓⲥⲉ ⲙ̅ⲡⲥⲱⲙⲁ, "the heights of the body." The net effect of returning to the Coptic is unidirectional: every correction strengthens the correspondential mapping, none weakens it, and zero new contradictions emerge. The Coptic manuscript preserves a more complete and more correspondentially coherent text than the English translation that scholarship has used for fifty years.
+> **Abstract.** A companion thesis, *The Unnamed Cartography*, found that the angel names in the Apocryphon of John's body-creation passage encode spiritual qualities that converge with Swedenborg's body-part correspondences across 43 translatable entries with no contradictions. That analysis worked from the English of *The Nag Hammadi Library in English* (Wisse's translation in Robinson 1990). This thesis returns to the Coptic of NHC II,1 (pages 15–19) and of the parallel long recension in NHC IV,1, and compares every name and body-part label as the scribes wrote them against the English. The comparison clears the English of most of the faults one might suspect in it. Where a Codex II name ends in a letter the English lacks (ⲁⲥⲧⲉⲣⲉⲭⲙⲏⲛ, ⲑⲁⲥⲡⲟⲙⲟⲭⲁⲙ, ⲁⲭⲭⲁⲛ), Codex IV writes the same name without it and sets the letter apart as the linking particle before the body part (ⲁⲥⲧⲉⲣⲉⲭⲙⲏ ⲙ̅ⲡⲃⲁⲗ; ⲁⲭⲭⲁ ⲛ̅ⲥⲧⲁⲫⲩⲗⲏ); the English follows that division. Where Codex II places Tebar, Mniarchōn and Barias on the left, Codex IV places them on the right and gives the left to another angel, and the English prints both. The differences that remain are readings: ⲫⲛⲏⲙⲏ for "Phnene", ⲁⲅⲣⲟⲙⲁⲩⲙⲁ for "Agromauna", and the omega of ⲓⲉⲣⲱⲛⲩⲙⲟⲥ, which favours ἱερώνυμος, "sacred name", for the right ear. The Coptic also shows what the English cannot: that the uvula is named by the Greek medical word σταφυλή, "grape"; that the seventh power, understanding (ⲙⲛ̅ⲧⲣⲙ̅ⲛ̅ϩⲏⲧ, "being a person of heart"), is built on the word for the heart; and that the four chief demons govern the Stoic tetrad of passions, with fear given in a native Egyptian word. The net result is that the text on which *The Unnamed Cartography* rests is sound: the names, their assignments and the substance-soul sequence hold at the level of the manuscripts.
 
-> **Keywords.** Apocryphon of John, angel names, Coptic manuscript, NHC II,1, body-part correspondences, Swedenborg, transliteration, Robinson, terminal consonants, laterality, uvula, staphylē, Ancient Word, correspondences, Grand Man
+> **Keywords.** Apocryphon of John, angel names, Coptic manuscript, NHC II,1, NHC IV,1, body-part correspondences, Swedenborg, transliteration, Robinson, word division, laterality, uvula, staphylē, Ancient Word, correspondences, Grand Man
 
 ---
 
@@ -24,25 +24,26 @@
   - [3. The Seven Substance-Souls in Coptic](#3-the-seven-substance-souls-in-coptic)
     - [3.1 What the Coptic Preserves](#31-what-the-coptic-preserves)
     - [3.2 The Priority Sequence in Coptic](#32-the-priority-sequence-in-coptic)
-  - [4. Terminal Consonants: The Letters Robinson Dropped](#4-terminal-consonants-the-letters-robinson-dropped)
-    - [4.1 The Seven Dropped Letters](#41-the-seven-dropped-letters)
+  - [4. Terminal Letters: Name or Linker?](#4-terminal-letters-name-or-linker)
+    - [4.1 The Letters at the Edge of the Name](#41-the-letters-at-the-edge-of-the-name)
     - [4.2 Etymological Impact](#42-etymological-impact)
     - [4.3 The Pattern](#43-the-pattern)
-  - [5. Laterality Corrections: Left and Right in the Coptic](#5-laterality-corrections-left-and-right-in-the-coptic)
-    - [5.1 The Four Errors](#51-the-four-errors)
+  - [5. Laterality: Left and Right in Codices II and IV](#5-laterality-left-and-right-in-codices-ii-and-iv)
+    - [5.1 The Three Pairs](#51-the-three-pairs)
     - [5.2 Correspondential Impact](#52-correspondential-impact)
-    - [5.3 The Directional Pattern](#53-the-directional-pattern)
+    - [5.3 Aroer and the Second List](#53-aroer-and-the-second-list)
   - [6. Name Splits and Rereadings](#6-name-splits-and-rereadings)
-    - [6.1 Achcha → ACHCHAN + STAPHYLĒ](#61-achcha--achchan--staphylē)
+    - [6.1 Achcha and the Staphylē](#61-achcha-and-the-staphylē)
     - [6.2 Yeronumos → HIERŌNYMOS](#62-yeronumos--hierōnymos)
     - [6.3 Phnene → PHNĒMĒ](#63-phnene--phnēmē)
-    - [6.4 Beluai → BĒLYAI](#64-beluai--bēlyai)
+    - [6.4 Agromauna → AGROMAUMA](#64-agromauna--agromauma)
+    - [6.5 Beluai and BĒLYAI](#65-beluai-and-bēlyai)
   - [7. The Coptic Body Vocabulary](#7-the-coptic-body-vocabulary)
     - [7.1 Native Coptic Body Terms](#71-native-coptic-body-terms)
     - [7.2 Analysis](#72-analysis)
     - [7.3 The Native/Greek Distribution](#73-the-nativegreek-distribution)
-  - [8. The Spiritual Compass Confirmed](#8-the-spiritual-compass-confirmed)
-    - [8.1 The Four Elemental Rulers](#81-the-four-elemental-rulers)
+  - [8. The Rulers Over the Whole](#8-the-rulers-over-the-whole)
+    - [8.1 The Four Over All and the Four Elemental Rulers](#81-the-four-over-all-and-the-four-elemental-rulers)
     - [8.2 The Four Passion Rulers](#82-the-four-passion-rulers)
     - [8.3 The "Book of Zoroaster" Citation](#83-the-book-of-zoroaster-citation)
   - [9. Discussion](#9-discussion)
@@ -53,44 +54,40 @@
     - [9.5 Limitations and Lacunae](#95-limitations-and-lacunae)
   - [10. Conclusion: The Letters They Dropped](#10-conclusion-the-letters-they-dropped)
   - [Appendix A: Complete Coptic-to-Robinson Comparison Table](#appendix-a-complete-coptic-to-robinson-comparison-table)
-    - [A.1 Terminal Consonants](#a1-terminal-consonants)
-    - [A.2 Laterality Corrections](#a2-laterality-corrections)
-    - [A.3 Name Splits](#a3-name-splits)
+    - [A.1 Word Division at the End of the Name](#a1-word-division-at-the-end-of-the-name)
+    - [A.2 Laterality: Codex II and Codex IV](#a2-laterality-codex-ii-and-codex-iv)
+    - [A.3 The Uvula](#a3-the-uvula)
     - [A.4 Vowel/Consonant Rereadings](#a4-vowelconsonant-rereadings)
   - [Appendix B: Coptic Body-Part Glossary](#appendix-b-coptic-body-part-glossary)
     - [B.1 Native Coptic Terms](#b1-native-coptic-terms)
     - [B.2 Greek Loanwords](#b2-greek-loanwords)
   - [Works Cited](#works-cited)
-    - [Primary Sources](#primary-sources)
-    - [Swedenborgian Sources](#swedenborgian-sources)
-    - [Secondary Scholarship](#secondary-scholarship)
-    - [Companion Theses (This Repository)](#companion-theses-this-repository)
 
 ---
 
 ## 1. Introduction
 
-The Apocryphon of John (NHC II,1) contains one of the most extraordinary passages in ancient literature: a systematic list in which 365 named angels each create a specific part of the human body, preceded by seven "substance-souls" that establish the body's primary materials and followed by four elemental rulers, four passion rulers, and a direct citation of "the Book of Zoroaster" as the source of additional material. The passage spans Folios 15 through 19 of the Coptic manuscript — roughly five full pages of dense, continuous text in which every body part from the crown of the head to the nails of the feet is assigned to a named spiritual power.
+The Apocryphon of John (NHC II,1) contains one of the most extraordinary passages in ancient literature: a systematic list in which named angels each create a specific part of the human body, preceded by seven "substance-souls" that establish the body's primary materials and followed by the four set over the whole, the four rulers of heat, cold, dryness and wetness, the four chief demons of the passions, and a direct citation of "the book of Zoroaster" for the rulers the text does not name. The passage runs from II 15,13 to 19,10 — some five pages of dense text in which every part of the body from the crown of the head to the nails of the feet is assigned to a named power, 365 in all (II 19,2–3).
 
-A companion thesis, *The Unnamed Cartography*, subjected these angel names to systematic etymological analysis and compared the spiritual qualities encoded in each name against Emanuel Swedenborg's independently documented body-part correspondences. The results were decisive: of 43 translatable names, 28 were precise or strong matches, 11 were consistent, 3 were partial, 1 was an explainable inversion, and zero were contradictions. The seven substance-souls matched Swedenborg's substrate correspondences 7 for 7, including the ontological priority order of will over understanding. The four elemental rulers matched Swedenborg's spiritual compass 4 for 4. The null hypothesis — that the angel names are semantically arbitrary — was rejected.
+A companion thesis, *The Unnamed Cartography*, subjected these angel names to systematic etymological analysis and compared the spiritual qualities encoded in each name against Emanuel Swedenborg's independently documented body-part correspondences. Of 43 translatable names, 28 were perfect or strong matches, 11 were consistent, 3 were partial, 1 was an explainable inversion, and none was a contradiction. The seven substance-souls matched Swedenborg's substrate correspondences 7 for 7, including the ontological priority of will over understanding. The four elemental rulers matched Swedenborg's spiritual compass 4 for 4. The null hypothesis — that the angel names are semantically arbitrary — was rejected.
 
-That analysis, however, worked from James M. Robinson's English transliterations in *The Nag Hammadi Library in English* (3rd rev. ed., 1990). Robinson's team transliterated the angel names from the Coptic manuscript into Latin characters, standardized their spellings, and presented them within English translations of the surrounding text. This process, while indispensable for making the texts accessible to a wide readership, introduced a layer of editorial mediation between the manuscript and the reader. Letters were silently dropped. Body-part laterality assignments were occasionally incorrect. At least one angel name was mistakenly merged with its body-part label. These editorial decisions — small individually, significant cumulatively — have stood unchallenged for nearly fifty years because almost no one returns to the Coptic manuscript to check the angel names. Scholarship has treated the 365-angel list as "tedious enumeration" unworthy of close textual attention, and the transliterations have been accepted as given.
+That analysis worked from the English of *The Nag Hammadi Library in English* (Robinson 1990), where the Apocryphon is translated by Frederik Wisse. The translation gives the names in Latin letters and the body parts in English, and it prints the readings of Codex IV in parentheses wherever the two copies of the long recension differ. Any transliteration is an editorial layer between the manuscript and the reader: it decides where a name ends and the grammar begins, it renders vowels without their length, and it translates the body-part labels. Whether that layer has distorted the names on which the cartography rests can only be settled by returning to the Coptic.
 
-This thesis returns to the Coptic manuscript. Using the extracted Coptic text of NHC II,1 (Folios 15–19), it performs a systematic comparison of every angel name as the 4th-century scribe actually wrote it against Robinson's published transliteration. The comparison reveals four categories of discrepancy:
+This thesis returns to the Coptic manuscripts. Using the transcription of NHC II,1 pages 15–19 and of the parallel pages of NHC IV,1, it compares every angel name and body-part label as the scribes wrote them against the published English. The comparison asks four questions:
 
-1. **Terminal consonants dropped** (§4): At least seven angel names preserve final letters in the Coptic that Robinson's transliteration silently omits. Several of these terminal consonants are etymologically significant — they confirm root identifications, open new readings, and resolve previously tentative etymologies.
+1. **Terminal letters** (§4): where a Codex II name ends in a letter the English lacks, does the letter belong to the name or to the grammar that follows it?
 
-2. **Laterality corrections** (§5): Four body-part assignments are wrong in Robinson's edition. The Coptic manuscript explicitly marks each body part as right (ⲛ̅ⲟⲩⲛⲁⲙ) or left (ⲛ̅ϭⲃⲟⲩⲣ), and in four cases Robinson assigned the wrong side. All four corrections improve alignment with the Swedenborgian correspondential mapping.
+2. **Laterality** (§5): where the English and Codex II appear to disagree on right and left, what do the two codices say?
 
-3. **Name splits and rereadings** (§6): One angel name that Robinson presented as a single word is actually two words in the Coptic — an angel name plus a Greek anatomical term. Several other names yield revised etymologies when read with their Coptic vowels and consonants intact.
+3. **Name splits and rereadings** (§6): where does the English divide, merge or spell a name differently from the Coptic, and what follows for its etymology?
 
-4. **Coptic body vocabulary** (§7): The body-part terms themselves — the Coptic words that label what each angel creates — carry correspondential content that the English translation erases. The Coptic word for marrow means "boneless." The Coptic word for spine means "the heights of the body." The Coptic word for heart means both "heart" and "mind."
+4. **Coptic body vocabulary** (§7): what do the Coptic words for the body parts themselves say, by their roots and in Coptic usage, that the English labels cannot?
 
-Before presenting these findings, §3 examines what the Coptic reveals about the seven substance-souls that precede the angel list — the primary body-creation principles whose Coptic vocabulary enriches the correspondential reading already established. §8 then confirms the four elemental rulers (the spiritual compass) against the Coptic manuscript, verifying that the compass mapping holds at the manuscript level.
+Before these, §3 examines the seven substance-souls in Coptic; after them, §8 checks the rulers set over the whole against the manuscript.
 
-The net effect of this investigation is unidirectional. Every discrepancy between the Coptic manuscript and Robinson's English moves in one direction: toward stronger correspondential coherence. Terminal consonants that Robinson dropped confirm etymological roots. Laterality corrections place will-related qualities on the will side and truth-related qualities on the truth side. The Coptic body vocabulary itself encodes correspondential descriptions. Zero new contradictions emerge. The manuscript preserves a more complete text than the translation, and the more complete text is the more correspondentially coherent text. This is not what one would expect if the correspondential reading were being imposed from outside. If the framework were a projection onto the data, returning to a more accurate source text should introduce noise — mismatches, complications, anomalies. Instead it introduces signal.
+The net effect is a confirmation of the text rather than a correction of it. The English proves a careful guide to the Codex II names, with the Codex IV variants marked; the letters that seem to be missing from it are the linking particle, which Codex IV writes apart from the name; and the laterality that seems to be reversed is a difference between the two codices that the English already reports. The readings that do differ are few and are set out in §6. The Coptic adds what any translation must lose — the Greek medical word behind "uvula", the heart inside the word for understanding, the native word for fear — and it leaves the cartography's names and assignments standing.
 
-§9 (Discussion) reflects on what this pattern means for the correspondential hypothesis, for the status of the angel-name list in scholarship, and for the relationship between the English translations that scholarship has used for half a century and the Coptic manuscripts they claim to represent. §10 (Conclusion) states the thesis's central claim: the Coptic manuscript of the Apocryphon of John preserves a correspondential architecture that Robinson's translation partially obscured, and returning to the source text does not weaken but strengthens the independent attestation documented in *The Unnamed Cartography*.
+§9 (Discussion) reflects on what this means for the correspondential hypothesis and for the scholarship on the passage. §10 (Conclusion) states the thesis's central claim: the manuscripts confirm the text on which the convergence documented in *The Unnamed Cartography* rests.
 
 ---
 
@@ -100,28 +97,28 @@ The net effect of this investigation is unidirectional. Every discrepancy betwee
 
 The correspondential lens employed in this thesis is the same framework documented in *The Unnamed Cartography* and applied throughout *The Living Library*. Correspondence is the organic relationship between a natural object and the spiritual reality it expresses, grounded in the object's actual function rather than in arbitrary assignment. Light corresponds to wisdom because light enables the eye to distinguish forms — the function of the intellect. Fire corresponds to love because fire is the active principle that gives light existence, as love gives wisdom existence. These are not metaphors or allegories. Correspondence is ontological: the natural object IS the spiritual reality in ultimates.
 
-The specific correspondences relevant to this thesis are Swedenborg's body-part correspondences, documented primarily in *Arcana Coelestia* and *Heaven and Hell*, in which each organ and region of the human body corresponds to a specific spiritual function within the *Maximus Homo* (Grand Man). The heart corresponds to the will (love); the lungs correspond to the understanding (truth). The right side of the body corresponds to the good from which truth proceeds; the left side corresponds to the truth from which good proceeds. The head corresponds to the celestial (highest degree); the torso to the spiritual (middle degree); the limbs to the natural (lowest degree). These correspondences are systematic: they form an integrated anatomy in which the physical body is the spiritual form in its most determinate expression.
+The specific correspondences relevant to this thesis are Swedenborg's body-part correspondences, documented primarily in *Arcana Coelestia* and *Heaven and Hell*, in which each organ and region of the human body corresponds to a specific spiritual function within the *Maximus Homo* (Grand Man). The heart corresponds to the will and the lungs to the understanding: "The will is that to which corresponds the pulsation of the heart; and the understanding is that to which corresponds the respiration of the lungs" (*AC* §3888). The two sides of the body are distinguished in the same way: "those things which are on the right side of man correspond to the good from which are truths, and those which are on the left correspond to the truths through which is good … So it is in the brain, so in the face, and the organs of sense there, so in the breast, so in the loins, and so in the feet" (*AC* §10061); "those who are in good are on the Lord's right hand, and those who are in truth are on His left hand" (*AC* §4410). The right is the side of good and the will, the left the side of truth and the understanding. The heavens form the body in three degrees: "the highest or third heaven forms the head down to the neck; the middle or second heaven forms the breast down to the loins and knees; the lowest or first heaven forms the feet down to the soles, and also the arms down to the fingers" (*HH* §65). These correspondences are systematic: they form an integrated anatomy in which the physical body is the spiritual form in its most determinate expression.
 
 ### 2.2 The Coptic Textual Basis
 
-The primary text for this investigation is the Coptic manuscript of the Apocryphon of John as preserved in Nag Hammadi Codex II, Tractate 1 (NHC II,1). This is the "longer version" of the text, the most complete of the four surviving copies (the others being NHC III,1; NHC IV,1; and BG 8502,2). The manuscript is a 4th-century Coptic (Sahidic) copy of a Greek original, bound in a leather-covered codex and buried near Nag Hammadi, Egypt around 367 CE.
+The primary text for this investigation is the Coptic of the Apocryphon of John in Nag Hammadi Codex II, Tractate 1 (NHC II,1). Four copies survive: two of a longer recension (NHC II,1 and IV,1) and two of a shorter (NHC III,1 and BG 8502,2). Only the longer recension contains the body-creation list and its citation of the book of Zoroaster (Turner 2001, 139); Codex IV is therefore the one parallel witness, and it is consulted throughout. Codex II is a fourth-century Sahidic copy of a Greek original, bound in a leather cover and buried near Nag Hammadi after 348, the date of the latest documents in the cartonnage of the bindings, probably late in that century (Robinson 1990).
 
-The Coptic text used in this thesis was extracted from the diplomatic edition published as *The Coptic Gnostic Library: Nag Hammadi Codex II,2–7* (ed. Bentley Layton) using a PyMuPDF-based extraction pipeline. The extraction preserves the original line numbering and folio boundaries. The body-creation passage spans Folios 15 through 19, beginning with the creation of Adam's substance-souls and continuing through the 365-angel list, the four elemental rulers, and the four passion rulers.
+The Coptic is quoted from Martijn Linssen's Unicode transcription of the codices (Linssen 2024), read in the extraction kept in the companion repository `nag-hammadi-analysis` (`output/coptic/II_1_apocryphon_john.md`, `IV_1_apocryphon_john.md`). The transcription marks lacunae, restorations and the supralinear strokes. References are by codex, page and line: II 15,32 is Codex II, page 15, line 32. The four witnesses are set side by side in the synopsis of Waldstein and Wisse (1995).
 
-Because the angel names in the Coptic are written in supralinear strokes (overlines marking them as proper nouns or foreign words), they are visually distinct from the surrounding Sahidic text. This means that in most cases the Coptic manuscript clearly distinguishes where an angel name ends and where the body-part label begins — a distinction that Robinson's English sometimes obscures.
+The scribe of Codex II writes the angel names under a supralinear stroke, so that they stand out from the surrounding Sahidic. The same stroke also marks a syllabic consonant, among them the linking particle ⲛ̅ (assimilated to ⲙ̅ before ⲡ) that joins a name to the body part it creates. Where a name is followed directly by its linker, the scribe's stroke can run over both, and the eye cannot tell from the stroke alone where the name ends. That is the question §4 answers from Codex IV.
 
 ### 2.3 Transliteration Analysis
 
-The method employed in this thesis is straightforward: for every angel name in the body-creation passage, the Coptic characters as written by the scribe are compared letter by letter against Robinson's published English transliteration. The comparison isolates four types of discrepancy:
+The method employed in this thesis is straightforward: for every angel name in the body-creation passage, the Coptic characters as written by the scribe are compared letter by letter against the published English transliteration, and the Codex II form is compared against the Codex IV form where IV survives. The comparison isolates four types of discrepancy:
 
-1. **Terminal consonants**: Letters present at the end of the name in the Coptic but absent from Robinson's transliteration.
-2. **Vowel variation**: Differences in how Coptic vowels are rendered in Latin characters (e.g., ⲏ → e vs. ē).
-3. **Name boundaries**: Cases where Robinson's transliteration combines or divides differently than the Coptic marks.
-4. **Body-part assignment**: Cases where the anatomical label (including laterality: right/left) differs between manuscript and translation.
+1. **Terminal letters**: letters present at the end of the name in Codex II but absent from the English — and whether Codex IV assigns them to the name or to the linker.
+2. **Vowel variation**: differences in how Coptic vowels are rendered in Latin characters (the English does not mark length: ⲏ and ⲉ are both *e*, ⲱ and ⲟ both *o*).
+3. **Name boundaries**: cases where the English combines or divides differently than the Coptic marks.
+4. **Body-part assignment**: cases where the anatomical label, including right and left, differs between Codex II, Codex IV and the English.
 
-Each discrepancy is evaluated for etymological significance: does the Coptic form open, confirm, or change possible Greek, Hebrew, or Aramaic root identifications? And for correspondential significance: does the corrected form alter the alignment with Swedenborg's body-part correspondences?
+Each discrepancy is evaluated for etymological significance: does the Coptic form open, confirm, or close possible Greek, Hebrew, or Aramaic root identifications? And for correspondential significance: does the corrected form alter the alignment with Swedenborg's body-part correspondences?
 
-The comparison is necessarily limited by the condition of the manuscript. Several names fall in areas of physical damage (lacunae), and the PyMuPDF extraction, while faithful to the published diplomatic text, cannot recover what the copyist's pen never wrote or what four centuries underground destroyed. Where the manuscript is illegible, no comparison is attempted.
+The comparison is limited by the condition of the manuscripts. Several names fall in lacunae, especially in Codex IV. Where a manuscript is illegible, no comparison is attempted.
 
 ### 2.4 The Swedenborgian Comparison
 
@@ -132,250 +129,232 @@ The correspondential mapping follows the same protocol established in *The Unnam
 3. **Body-part correspondence**: The spiritual quality encoded in the name is compared against Swedenborg's correspondence for the assigned body part.
 4. **Verdict**: The comparison yields one of five results — *perfect match* (the name's spiritual quality IS Swedenborg's correspondence), *strong match* (clearly related), *consistent* (compatible but indirect), *partial* (some alignment, some tension), or *contradiction* (the name's spiritual quality opposes Swedenborg's correspondence).
 
-This thesis does not re-perform the full 43-name analysis. It takes the results of *The Unnamed Cartography* as baseline and asks a narrower question: when we correct Robinson's transliterations using the Coptic manuscript, do any of those baselines change? Do corrections strengthen or weaken the correspondential alignment? And do any new translatable names emerge from the corrected readings?
+This thesis does not re-perform the full 43-name analysis. It takes the results of *The Unnamed Cartography* as baseline and asks a narrower question: when the English is checked against the Coptic, do any of those baselines change? Do the manuscripts strengthen or weaken the correspondential alignment? And do any new translatable names emerge from the Coptic readings?
 
 ---
 
 ## 3. The Seven Substance-Souls in Coptic
 
-Before the 365 angels create the body's individual organs, seven "powers" (ⲛ̅ⲇⲩⲛⲁⲙⲓⲥ) create the primary substances of the body — the materials from which all organs will be formed. These are the substance-souls: each produces a "soul" (ⲯⲩⲭⲏ) of a specific body material. The Coptic is explicit and formulaic. Each entry follows the pattern: [ordinal number] + [power name] + ⲁⲥⲧⲁⲙⲓⲟ ⲛ̅ⲟⲩⲯⲩⲭⲏ + [material] — "[Nth], [power], created a soul of [material]."
+Before the angels create the body's individual organs, seven powers (ⲛ̅ⲇⲩⲛⲁⲙⲓⲥ) create the primary substances of the body — the materials from which all organs will be formed. These are the substance-souls: each produces a "soul" (ⲯⲩⲭⲏ) of a specific body material. The Coptic is explicit and formulaic. Each entry follows the pattern: [ordinal] + [power] + ⲁⲥⲧⲁⲙⲓⲟ ⲛ̅ⲟⲩⲯⲩⲭⲏ + [material] — "the [Nth], [power], created a soul of [material]."
 
-The seven, as they appear in the Coptic of NHC II,1, Folio 15, lines 14–23:
+The seven, as they appear in the Coptic of NHC II 15,13–23:
 
 | # | Power (Coptic) | Power (English) | Material (Coptic) | Material (English) | Swedenborg Correspondence |
 |---|---|---|---|---|---|
 | 1st | ⲧⲙ̅ⲛ̅ⲧ̅ⲭⲣⲏⲥⲧⲟⲥ | Goodness | ⲛ̅ⲕⲁⲥ | bone | Good (structural foundation of the will) |
 | 2nd | ⲧⲡⲣⲟⲛⲟⲓⲁ | Foreknowledge | ⲙ̅ⲙⲟⲩⲧ | sinew | Truth binding good to form |
 | 3rd | ⲧⲙ̅ⲛ̅ⲧ̅ⲛⲟⲩⲧⲉ | Divinity | ⲛ̅ⲥⲁⲣⲝ | flesh | Divine presence in ultimates |
-| 4th | ⲧⲙ̅ⲛ̅ⲧ̅ϫⲟⲉⲓⲥ | Lordship | ⲛ̅ⲁⲧⲕⲁⲥ | marrow ("boneless") | Inmost good within the structural frame |
+| 4th | ⲧⲙ̅ⲛ̅ⲧ̅ϫⲟⲉⲓⲥ | Lordship | ⲛ̅ⲁⲧⲕⲁⲥ | marrow | Inmost good within the structural frame |
 | 5th | ⲧⲙⲛ̅ⲧⲉⲣⲟ | Kingdom | ⲛ̅ⲥⲛⲟϥ | blood | Truth circulating through every part |
-| 6th | ⲡⲕⲱϩ | Zeal/Jealousy | ⲛ̅ϣⲁⲁⲣⲉ | hair | Outermost natural covering |
-| 7th | ⲧⲙ̅ⲛ̅ⲧ̅ⲣⲙⲛ̅ϩⲏⲧ | Understanding | ⲛ̅ϥⲟⲩϩⲉ | skin | Sensory boundary with the world |
+| 6th | ⲡⲕⲱϩ | Envy | ⲛ̅ϣⲁⲁⲣⲉ | skin | The threshold between the self and the world (*AC* §5553) |
+| 7th | ⲧⲙ̅ⲛ̅ⲧ̅ⲣⲙⲛ̅ϩⲏⲧ | Understanding | ⲛ̅ϥⲟⲩϩⲉ | hair | The natural, the outermost emanation (*AC* §3301) |
+
+The materials are ordinary Coptic words: ϣⲁⲁⲣ (plural ϣⲁⲁⲣⲉ) is "skin" and ϥⲱ (Akhmimic ϥⲟⲩⲉ) is "hair" (Crum 1939). The sixth power, envy, makes the skin; the seventh, understanding, makes the hair — as the English has it.
 
 ### 3.1 What the Coptic Preserves
 
 Several features of the Coptic are invisible in English translation:
 
-**ⲧⲙ̅ⲛ̅ⲧ̅ⲭⲣⲏⲥⲧⲟⲥ (Goodness).** This is the Coptic abstract-noun formation ⲧⲙⲛⲧ- ("the quality of being...") plus ⲭⲣⲏⲥⲧⲟⲥ (Greek χρηστός, "good, useful, kind"). The word is fundamentally about goodness-as-quality, not about moral judgment. That this is the FIRST power — creating bone, the structural foundation — matches Swedenborg's ontological priority: good (will) is prior to truth (understanding). The text does not merely list goodness first by convention. The Coptic word carries the sense of *kindness that structures* — precisely the function of bone in the correspondential anatomy.
+**ⲧⲙ̅ⲛ̅ⲧ̅ⲭⲣⲏⲥⲧⲟⲥ (Goodness).** The Coptic abstract-noun formation ⲙⲛⲧ- ("the quality of being …") with Greek χρηστός, "good, useful, kind". The word names goodness as a quality rather than as a verdict. That this is the FIRST power — creating bone, the structural foundation — matches Swedenborg's ontological priority: good (will) is prior to truth (understanding).
 
-**ⲛ̅ⲁⲧⲕⲁⲥ (marrow, "boneless").** This is the most philosophically revealing term. The Coptic ⲁⲧ- is a privative prefix ("without"), and ⲕⲁⲥ is "bone." Marrow is defined not by what it IS but by what it is NOT — it is that which is within bone but is not itself bone. The English "marrow" does not carry this negation. The Coptic names marrow as *the interior of the structural* — what lies within the framework, sustained by it, yet categorically different from it. In the correspondential anatomy, this is the inmost good that the structural good (bone) contains and protects. *The Unnamed Cartography* noted this match; the Coptic term makes the match explicit at the lexical level.
+**ⲛ̅ⲁⲧⲕⲁⲥ (marrow).** Codex II writes the Bohairic form of the word whose Sahidic form is ⲁⲗⲧⲕⲁⲥ (Crum 1939). It looks like the privative ⲁⲧ- ("without") with ⲕⲁⲥ ("bone"), and Coptic readers heard it so: a Coptic homily already explains the marrow as "the boneless place", an etymology Crum calls false. Černý derives the word from a verb "remove" and ⲧⲕⲁⲥ "pain" — "pain-remover", after the use of animal marrow as a remedy (Černý 1976, s.v. ⲁⲗⲧⲕⲁⲥ). The marrow is therefore not named in Coptic as "not-bone"; the reading of it as the interior that the bone contains rests on its place in the sequence and in the body — lordship (ⲙⲛⲧϫⲟⲉⲓⲥ) creating the substance that lives within the substance goodness created — as *The Unnamed Cartography* reads it.
 
-**ⲡⲕⲱϩ (Zeal/Jealousy).** Robinson translates this as "zeal." The Coptic ⲕⲱϩ means jealousy, zeal, or envy. It is a native Coptic word, not a Greek loanword — and this matters. Most of the other six powers are Greek loanwords (ⲡⲣⲟⲛⲟⲓⲁ, ⲙⲛⲧⲛⲟⲩⲧⲉ with a Greek-derived root structure). For the sixth power, the text shifts to native Coptic. The spiritual quality of zeal/jealousy — protective passion that guards what is its own — creates hair (ⲛ̅ϣⲁⲁⲣⲉ). Hair is the outermost, least vital body covering. In Swedenborg, hair corresponds to the outermost natural truth — the most external perception. That a passionate/protective quality creates the most external covering is correspondentially coherent: zeal guards the boundary.
+**ⲡⲕⲱϩ (Envy).** The English translates this as "envy." Coptic ⲕⲱϩ covers envy, zeal and jealousy (Crum 1939). It is a native Egyptian word, as are five of the seven powers: only ⲭⲣⲏⲥⲧⲟⲥ and ⲡⲣⲟⲛⲟⲓⲁ are Greek; ⲙⲛⲧⲛⲟⲩⲧⲉ, ⲙⲛⲧϫⲟⲉⲓⲥ, ⲙⲛⲧⲉⲣⲟ, ⲕⲱϩ and ⲙⲛⲧⲣⲙⲛϩⲏⲧ are Egyptian. Envy — the self measuring itself against others — creates the skin, the boundary between the self and what is outside it. In Swedenborg, the societies to which the skins correspond "are in the entrance to heaven, and to them is given a perception of the quality of the spirits who throng to the first threshold, whom they either reject or admit" (*AC* §5553). That the self-regarding quality creates the boundary of the self is correspondentially coherent.
 
-**ⲧⲙ̅ⲛ̅ⲧ̅ⲣⲙⲛ̅ϩⲏⲧ (Understanding).** The final term is the most structurally complex. It is ⲧⲙⲛⲧ- + ⲣⲙⲛ- + ϩⲏⲧ — literally "the quality of being a man/person of heart." The Coptic word for understanding is built FROM "heart." This is not accidental vocabulary. In a framework where the heart IS the will, understanding is literally heart-derived awareness — truth that flows from love, not truth imposed from outside. This seventh power creates skin (ⲛ̅ϥⲟⲩϩⲉ), the body's sensory interface with the world. Understanding-from-heart creates the boundary through which the organism perceives external reality. In Swedenborg, the skin corresponds to the sensory level of the mind — the outermost boundary of understanding, the point where interior truth meets the external world.
+**ⲧⲙ̅ⲛ̅ⲧ̅ⲣⲙⲛ̅ϩⲏⲧ (Understanding).** The final term is the most structurally complex. It is ⲙⲛⲧ- + ⲣⲙⲛ̅ϩⲏⲧ — the quality of being a ⲣⲙⲛ̅ϩⲏⲧ, a "person of heart", the ordinary Coptic word for a wise or prudent person. The Coptic word for understanding is built FROM "heart". In a framework where the heart IS the will (*AC* §3888), understanding is literally heart-derived awareness — truth that flows from love, not truth imposed from outside. This seventh power creates the hair, the outermost growth of the body. In Swedenborg, hair "signifies the natural; the reason is that hair is an excrescence in the outermost parts of man, just as is the natural also relatively to his rational and to the interior things thereof" (*AC* §3301). Understanding comes last and is expressed in the outermost.
 
 ### 3.2 The Priority Sequence in Coptic
 
-*The Unnamed Cartography* identified the sequence's ontological priority: will-related powers precede understanding-related powers, matching Swedenborg's fundamental axiom that will (love/good) is prior to understanding (truth/wisdom). The Coptic confirms this at the vocabulary level, not just the sequence level. The first power (ⲧⲙ̅ⲛ̅ⲧ̅ⲭⲣⲏⲥⲧⲟⲥ, goodness) and the seventh power (ⲧⲙ̅ⲛ̅ⲧ̅ⲣⲙⲛ̅ϩⲏⲧ, understanding) bookend the list. Both use the ⲧⲙⲛⲧ- abstract construction, but the seventh is DERIVED from the concept of heart — the organ that, in Swedenborg, IS the will. Understanding is the last substance because it emerges from what was first.
+*The Unnamed Cartography* identified the sequence's ontological priority: the first five substance-souls are qualities of love and will; the sixth is the self (envy, skin, the self-boundary); the seventh and last is understanding (hair, the outermost emanation). The Coptic confirms this at the vocabulary level, not just the sequence level. The first power (ⲧⲙ̅ⲛ̅ⲧ̅ⲭⲣⲏⲥⲧⲟⲥ, goodness) and the seventh (ⲧⲙ̅ⲛ̅ⲧ̅ⲣⲙⲛ̅ϩⲏⲧ, understanding) bookend the list. Both use the ⲙⲛⲧ- abstract construction, but the seventh is DERIVED from the heart — the organ that, in Swedenborg, IS the will. Understanding is the last substance because it emerges from what was first.
 
-The seven substance-souls thus form a complete ontological arc: from structural good (bone) through the interior (sinew, flesh, marrow) to the circulating (blood), the protective boundary (hair), and the perceptive boundary (skin). They move from inside to outside — from what is most interior and most foundational to what is most exterior and most exposed. This is the direction of influx: inside → outside, cause → effect, will → understanding → sensation.
+The seven substance-souls thus form a complete ontological arc: from structural good (bone) through the interior (sinew, flesh, marrow) to the circulating (blood), the boundary of the self (skin), and the outermost growth (hair). They move from inside to outside — from what is most interior and most foundational to what is most exterior and most exposed. This is the direction of influx: inside → outside, cause → effect, will → understanding → the natural.
 
 ---
 
-## 4. Terminal Consonants: The Letters Robinson Dropped
+## 4. Terminal Letters: Name or Linker?
 
-The most frequent discrepancy between the Coptic manuscript and Robinson's transliterations is the silent omission of terminal consonants. At least seven angel names end with a letter in the Coptic that Robinson's English does not reproduce. These are not textual variants or disputed readings — the letters are clearly present in the manuscript, written under the supralinear stroke that marks the angel name. They were dropped, apparently, to produce names that look more like recognizable words in English, or simply because the editorial process treated final consonants as expendable.
+In three places a Codex II name ends in a letter that the English does not reproduce. The question in each case is whether the letter belongs to the name or to the grammar after it. Codex IV answers it.
 
-They are not expendable. Several of these terminal letters are etymologically significant — they confirm root identifications, open new readings, and transform tentative assessments into strong ones.
+### 4.1 The Letters at the Edge of the Name
 
-### 4.1 The Seven Dropped Letters
+| English | Codex II | Codex IV | Body Part |
+|---|---|---|---|
+| Asterechme | ⲁⲥⲧⲉⲣⲉⲭⲙⲏⲛ ⲡⲃⲁⲗ ⲛ̅ⲟⲩⲛⲁⲙ (II 15,32–33) | ⲁⲥⲧⲉⲣⲉⲭⲙⲏ ⲙ̅ⲡⲃⲁⲗ ⲛ̅ⲟⲩⲛⲁⲙ (IV 24,26) | right eye |
+| Thaspomocha | ⲑⲁⲥⲡⲟⲙⲟⲭⲁⲙ ⲡⲃⲁⲗ ⲛ̅ϭⲃⲟⲩⲣ (II 15,33) | ⲑⲁⲥⲡⲟⲙⲟⲭⲁ ⲙ̅ⲡⲃⲁⲗ ⲛ̅ϭⲃⲟⲩⲣ (IV 24,27) | left eye |
+| Achcha | ⲁⲭⲭⲁⲛ ⲥⲧⲁⲫⲩⲗⲏ (II 16,3) | ⲁⲭⲭⲁ ⲛ̅ⲥⲧⲁⲫ[ⲩⲗⲏ] (IV 25,1) | uvula |
 
-| Robinson's Transliteration | Coptic Form | Dropped Letter | Body Part | Folio.Line |
-|---|---|---|---|---|
-| Asterechme | ⲁ̅ⲥ̅ⲧ̅ⲉ̅ⲣ̅ⲉ̅ⲭ̅ⲙ̅ⲏ̅ⲛ̅ | -N (ⲛ̅) | right eye | 15.32 |
-| Thaspomocha | ⲑⲁ̅ⲥ̅ⲡ̅ⲟ̅ⲙ̅ⲟ̅ⲭ̅ⲁ̅ⲙ̅ | -M (ⲙ̅) | left eye | 15.33 |
-| Mniarcon | ⲙⲛ̅ⲓ̅ⲁ̅ⲣ̅ⲭ̅ⲱ̅ⲛ̅ | -N (ⲛ̅) | left elbow | 16.6 |
-| Abitrion | ⲁⲃ̅ⲓ̅ⲧ̅ⲣ̅ⲓ̅ⲱ̅ⲛ̅ | -N (ⲛ̅) | right forearm | 16.7 |
-| Evanthen | ⲉ̅ⲩ̅ⲁ̅ⲛ̅ⲑ̅ⲏ̅ⲛ̅ | -N (ⲛ̅) | left forearm | 16.8 |
-| Basiliademe | ⲃⲁ̅ⲥ̅ⲓ̅ⲗ̅ⲓ̅ⲁ̅ⲇ̅ⲏ̅ⲙ̅ⲏ̅ | -Ē (ⲏ̅) | tonsils | 16.2 |
-| Blaomen | ⲃⲗⲁⲟⲙⲏⲛ | -N (ⲛ̅) | [damaged context] | — |
+In each case Codex IV writes the name without the letter and writes the letter as the linker before the body part: ⲙ̅ before ⲡ, ⲛ̅ before ⲥ. Codex II's scribe elsewhere in the list writes the same linker (ⲁⲕⲓⲱⲣⲉⲓⲙ ⲙ̅ⲡϣⲁ, "Akioreim the nose", II 15,35; ⲃⲁⲥⲓⲗⲓⲁⲇⲏⲙⲏ ⲙ̅ⲡⲁⲣⲓⲥⲑⲙⲓⲟⲛ, "Basiliademe the tonsils", II 16,2–3); in these three entries his stroke runs over name and linker together, and in the first he leaves the ⲛ̅ unassimilated. The English follows Codex IV's division.
 
-Six of the seven involve a dropped terminal N (ⲛ̅). One involves a dropped terminal M (ⲙ̅), and one a dropped terminal Ē (ⲏ̅). This is not random. The pattern suggests a systematic editorial tendency to remove Greek-style case endings, treating them as inflectional suffixes rather than as integral parts of the name. But the names are not Greek nouns being declined — they are angelic names from what the text itself calls "the Book of Zoroaster." Removing their terminal consonants is removing part of the name.
+The same uncertainty runs the other way. Codex II has ⲕⲣⲓⲙⲁ ⲛ̅ⲛ̅ⲉⲓⲉⲃⲉ (II 16,11) and ⲧⲩⲡⲏⲗⲟ ⲛⲧⲥⲏⲃⲉ (II 17,1), where Codex IV has ⲕⲣⲓⲙⲁⲛ ⲛ̅ⲉ[ⲓⲉⲓⲃ] (IV 25,12) and ⲧⲩⲡⲏⲗⲟⲛ [ⲧ]ⲥⲏϥⲉ (IV 26,12); the English gives "Kriman" and "Tupelon", the forms of Codex IV.
+
+The other names in the list end in the English as they end in the Coptic: "Mniarcon" (ⲙⲛⲓⲁⲣⲭⲱⲛ, II 16,6), "Abitrion" (ⲁⲃⲓⲧⲣⲓⲱⲛ, II 16,7), "Evanthen" (ⲉⲩⲁⲛⲑⲏⲛ, II 16,7–8), "Basiliademe" (ⲃⲁⲥⲓⲗⲓⲁⲇⲏⲙⲏ, II 16,2), "Blaomen" (ⲃⲗⲁⲟⲙⲏⲛ, II 18,17).
 
 ### 4.2 Etymological Impact
 
-**ASTERECHMĒN (right eye).** Robinson gives "Asterechme." The Coptic gives ⲁ̅ⲥ̅ⲧ̅ⲉ̅ⲣ̅ⲉ̅ⲭ̅ⲙ̅ⲏ̅ⲛ̅ — clearly ASTERECHMĒN with a terminal N. *The Unnamed Cartography* parsed this as aster- (star) + an uncertain second element, yielding a tentative reading of "star-related" for the right eye. The terminal N opens a decisive possibility: ASTER + ECHMĒN, where the second element connects to σελήνη (selēnē, moon) via Semitic intermediary, or more directly to a compound meaning "star-brightness." The right eye, in Swedenborg, corresponds to the understanding illuminated by good — intellectual light. A name meaning "star-light" or "star-brightness" for the right eye is a strong match: the eye that sees intellectual truth, named for the celestial body that represents truth in the natural degree.
+**Asterechme (right eye).** With the ⲛ̅ assigned to the linker, the name is ⲁⲥⲧⲉⲣⲉⲭⲙⲏ in both codices, and *The Unnamed Cartography*'s reading stands as it was made: ἀστήρ + ἔχω, "star-holder", a perfect match for the right eye, which in Swedenborg corresponds to "affections of truth, which are also of the understanding", the left eye to "truths which are of the understanding" (*AC* §4410).
 
-**MNIARCHŌN (left elbow).** Robinson gives "Mniarcon." The Coptic gives ⲙⲛ̅ⲓ̅ⲁ̅ⲣ̅ⲭ̅ⲱ̅ⲛ̅. The terminal N is not merely present — it transforms the etymology. Without the N, the name is opaque. With the N, the root ἀρχών (archōn, "ruler") is unmistakable: MNI-ARCHŌN, "memory-ruler" or "remembering ruler." *The Unnamed Cartography* already proposed this reading, but rated it moderate confidence because of the missing terminal letter. The Coptic promotes it to strong. The elbow is a joint of articulation — it enables the arm to bend, extend, and manipulate. In correspondential anatomy, joints correspond to functions that articulate or connect. A "memory-ruler" — a power that governs through remembering — for a joint of practical articulation is a coherent mapping: the capacity to remember how to use what the arm does. The laterality correction (this is the LEFT elbow, not the right — see §5) further strengthens the reading: memory is a will-side function (accumulated experience stored as disposition), and the left side is the will side.
+**Thaspomocha (left eye).** The name remains etymologically opaque in either form. Nothing turns on the ⲙ.
 
-**EUANTHĒN (left forearm).** Robinson gives "Evanthen." The Coptic gives ⲉ̅ⲩ̅ⲁ̅ⲛ̅ⲑ̅ⲏ̅ⲛ̅. The initial ⲉⲩ confirms the Greek eu- prefix ("well, good"), and the terminal N supports the adjectival form εὐανθής (euanthēs, "well-flowering, blooming"). *The Unnamed Cartography* proposed this reading tentatively. The Coptic confirms the eu- prefix and the full adjectival form, upgrading the confidence from tentative to moderate. A name meaning "well-flowering" for the forearm — the limb that reaches, extends, grasps — carries the correspondential sense of growth that reaches outward productively.
+**Mniarchōn (left elbow).** The English "Mniarcon" keeps the final N; the Coptic shows that the C is a chi (ⲭ), so that the spelling is that of ἀρχών, "ruler", with the prefix MNI- (perhaps from μνεία or μνῆσις, "memory"): "memory-ruler". Codex IV spells the name ⲙⲛⲓⲁⲭⲱⲣ (IV 25,5), without the rho before the chi and with a final rho, so that the ἀρχών reading rests on Codex II's spelling.
 
-**THASPOMOCHAM (left eye).** Robinson gives "Thaspomocha." The Coptic has ⲑⲁ̅ⲥ̅ⲡ̅ⲟ̅ⲙ̅ⲟ̅ⲭ̅ⲁ̅ⲙ̅, with a terminal M. The name remains etymologically opaque — neither the base "Thaspomocha" nor the fuller "Thaspomocham" yields a clear Greek, Hebrew, or Aramaic root. But the terminal M is recorded for completeness, as any additional letters could prove significant when future scholarship identifies the name's origin language.
-
-**ABITRIŌN (right forearm).** Robinson gives "Abitrion." The Coptic has ⲁⲃ̅ⲓ̅ⲧ̅ⲣ̅ⲓ̅ⲱ̅ⲛ̅, with a terminal N and a long Ō (ⲱ). The name remains largely opaque, though the ABI- prefix may relate to Hebrew אב (father) or Aramaic equivalents. The terminal N and the long vowel are preserved for future analysis.
-
-**BASILIADĒMĒ (tonsils).** Robinson gives "Basiliademe." The Coptic has ⲃⲁ̅ⲥ̅ⲓ̅ⲗ̅ⲓ̅ⲁ̅ⲇ̅ⲏ̅ⲙ̅ⲏ̅, with a terminal Ē (ⲏ̅). The root βασιλεία (basileia, "kingdom") is clear in both versions. The extended form BASILIADĒMĒ, with its full terminal vowel, might suggest a compound: basileia + dēmos (people), yielding "kingdom of the people" or "royal populace." The tonsils guard the entrance to the throat — they are the body's sentinels at the gateway of speech and sustenance. A "kingdom" that guards a passage is correspondentially apt.
-
-**BLAOMĒN.** Robinson gives "Blaomen." The Coptic preserves BLAOMĒN with a terminal N. The context is damaged, so the body-part assignment is uncertain. The name remains opaque but is recorded with its full Coptic form.
+**Euanthēn (left forearm).** The English "Evanthen" renders the Coptic ⲉⲩⲁⲛⲑⲏⲛ letter for letter; the Coptic ⲉⲩ shows the Greek εὐ-, "well, good", and the form fits the adjective εὐανθής, "well-flowering, blooming". A name meaning "well-flowering" for the forearm — the limb that reaches, extends, grasps — carries the sense of growth that reaches outward productively.
 
 ### 4.3 The Pattern
 
-The consistent picture is one of editorial normalization. Robinson's team appears to have treated the terminal consonants as Coptic scribal additions or Greek inflectional residue, and removed them to produce "cleaner" English transliterations. The result is names that are shorter, smoother, and more pronounceable for English readers — but less etymologically complete.
-
-In two cases (MNIARCHŌN and EUANTHĒN), the dropped letter is the single character that confirms the etymological root. Without the N, the etymology is uncertain. With the N, it is clear. These are not minor editorial choices. They are the difference between an opaque sequence of syllables and a translatable spiritual name.
+The consistent picture is one of word division, not of editorial loss. At the junction of a name and its body part, a final ⲛ or ⲙ may belong to either, and the two copies of the long recension sometimes divide differently. The English follows Codex IV where IV divides clearly, and in every case checked the division of Codex IV is the one that leaves the linker where Coptic grammar expects it. No etymology proposed in *The Unnamed Cartography* depended on a letter that the Coptic restores, and none is overturned by one.
 
 ---
 
-## 5. Laterality Corrections: Left and Right in the Coptic
+## 5. Laterality: Left and Right in Codices II and IV
 
-The Coptic manuscript marks body-part laterality with unambiguous vocabulary. Right is ⲛ̅ⲟⲩⲛⲁⲙ (from Egyptian *wnm*, "right hand/side"). Left is ⲛ̅ϭⲃⲟⲩⲣ (native Coptic for "left"). These terms appear dozens of times in the body-creation passage, immediately following each body-part noun, and they are never ambiguous: ⲧⲛⲁϩⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ is "the right shoulder"; ⲧⲛⲁϩⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ is "the left shoulder." The scribe records laterality consistently for every paired body part in the list.
+The Coptic marks body-part laterality with unambiguous vocabulary. Right is ⲛ̅ⲟⲩⲛⲁⲙ (from Egyptian *wnm*, "right hand/side"). Left is ⲛ̅ϭⲃⲟⲩⲣ. These terms appear dozens of times in the body-creation passage, immediately following each body-part noun: ⲧⲛⲁϩⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ is "the right shoulder"; ⲧⲛⲁϩⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ is "the left shoulder." The scribe records laterality consistently for paired body parts.
 
-Robinson's English transliterations record laterality as well — but in four cases, they record the wrong side. These are not ambiguous readings or manuscript damage. The Coptic is clear.
+### 5.1 The Three Pairs
 
-### 5.1 The Four Errors
+In three places Codex II has a single entry where Codex IV has a pair:
 
-| Angel Name | Robinson's Assignment | Coptic Assignment | Coptic Text | Folio.Line |
-|---|---|---|---|---|
-| Tebar (ⲧⲏ̅ⲃ̅ⲁ̅ⲣ̅) | right shoulder | **left** shoulder | ⲧⲛⲁϩⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ | 16.5–6 |
-| Mniarcon (ⲙⲛ̅ⲓ̅ⲁ̅ⲣ̅ⲭ̅ⲱ̅ⲛ̅) | right elbow | **left** elbow | ⲙ̅ⲡⲕⲉⲗⲉⲛⲕⲉϩ ⲛ̅ϭⲃⲟⲩⲣ | 16.6–7 |
-| Barias (ⲃⲁ̅ⲣ̅ⲓ̅ⲁ̅ⲥ̅) | right hip | **left** hip | ⲛ̅ⲧϯⲡⲉ ⲛ̅ϭⲃⲟⲩⲣ | 16.18 |
-| Aroer (ⲁⲣ̅ⲟ̅ⲏ̅ⲣ̅) | right shin | **left** shin | ⲧⲥⲏⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ | 17.24 |
+| Angel | Codex II | Codex IV |
+|---|---|---|
+| Tebar | ⲧⲏⲃⲁⲣ ⲛ̅ⲧⲛⲁϩⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ — **left** shoulder (II 16,5–6) | ⲧⲏⲃⲁⲣ ⲛ̅ⲧⲛ[ⲁϩⲃ]ⲉ ⲛ̅ⲟⲩⲛⲁⲙ — **right** shoulder; the left shoulder to a name lost in the lacuna (IV 25,4–5) |
+| Mniarchōn | ⲙⲛⲓⲁⲣⲭⲱⲛ ⲙ̅ⲡⲕⲉⲗⲉⲛⲕⲉϩ ⲛ̅ϭⲃⲟⲩⲣ — **left** elbow (II 16,6–7) | ⲙⲛⲓⲁⲭⲱⲣ [ⲙ̅ⲡⲕⲉⲗⲉⲛ]ⲕⲉϩ ⲛ̅ⲟⲩⲛ[ⲁⲙ] — **right** elbow; the left elbow to a name ending in ⲉ (IV 25,5–7) |
+| Barias | ⲃⲁⲣⲓⲁⲥ ⲛ̅ⲧϯⲡⲉ ⲛ̅ϭⲃⲟⲩⲣ — **left** hip (II 16,18) | ⲃⲁⲣⲓⲁⲥ ⲛ̅ⲧ[ϯⲡⲉ] ⲛ̅ⲟⲩⲛⲁⲙ — **right** hip; Phnouth the left hip (IV 25,19–20) |
 
-All four corrections move the assignment from right to left. All four are marked ⲛ̅ϭⲃⲟⲩⲣ in the Coptic. There is no ambiguity.
+The English prints Codex II's text and inserts Codex IV's pairs in parentheses: "Tebar (created) the (IV 25, 4–5: right shoulder; [___ (created) the]) left shoulder", and likewise for the elbow and the hip (Robinson 1990). In each case Codex II lacks the right-hand entry that Codex IV preserves, and its one angel stands where IV's left-hand angel stood.
 
 ### 5.2 Correspondential Impact
 
-In Swedenborg's correspondential anatomy, the right side of the body corresponds to good from which truth proceeds — the intellectual dimension illuminated by love. The left side corresponds to truth from which good proceeds — the will dimension, the volitional, the affective. This is not an arbitrary convention. It reflects the deeper principle that in the Grand Man, the two sides of every paired organ perform complementary but distinct spiritual functions, just as in the natural body the left and right hands have identical structure but differentiated roles.
+In Swedenborg's correspondential anatomy, the right side corresponds to "the good from which are truths" and the left to "the truths through which is good" (*AC* §10061). The question for each name is therefore which side the text assigns it, and the two codices answer differently.
 
-The laterality corrections do not merely fix an error of textual transmission. They alter the correspondential verdict for each name.
+**Tebar.** The name is the Aramaic root תבר, "to break" (Hebrew שבר) — the shoulder's power, for "in the Grand Man the hands, arms, and shoulders correspond to power" (*AC* §4933) and "the shoulder corresponds to all power" (*AC* §4937). *The Unnamed Cartography* rated it a perfect match for the shoulder. The match is in the part, not the side: shoulders on either side are power, and the name holds on either.
 
-**Tebar → left shoulder.** The name TEBAR is the Aramaic root תבר, "to break" (Hebrew שבר) — the shoulder's power, for "the shoulder corresponds to all power" (AC §4937). *The Unnamed Cartography* rated this a perfect match for the right shoulder — the side of practical reaching, grasping, action in the world. Reassigned to the LEFT shoulder, the match actually *improves*. The shoulder bears weight. Bearing is a will-function — it is the capacity to sustain, to carry burden. The left side is the will side. A name of power, assigned to the left shoulder, is a tighter fit than the same name on the right shoulder, because bearing weight is fundamentally an act of will, not of understanding.
+**Mniarchōn.** A "memory-ruler" at the elbow: the joint by which the arm bends to its work, governed by what has been learned. The reading does not depend on the side.
 
-**Mniarcon (MNIARCHŌN) → left elbow.** As analyzed in §4.2, the full Coptic form confirms the root ἀρχών (ruler) with the prefix MNI- (likely from μνῆσις, memory). A "memory-ruler" at the left elbow is a will-side placement: memory is accumulated experience stored as disposition, orientation, habitual response. This is closer to will (what you *do* without thinking because you've done it before) than to understanding (what you *know* explicitly). The left-side assignment places the memory-ruler on the side of lived experience rather than the side of conscious knowledge.
+**Barias.** The name relates to βάρος (*baros*, "weight, heaviness") or to Hebrew/Aramaic בריא (*bārîʾ*, "fat, healthy, strong"). The hip is a load-bearing joint — the junction between the torso and the lower limbs, the hinge on which walking depends. A name meaning "weight" or "strength" for the heavy joint is coherent on either side; *The Unnamed Cartography* rated it consistent for the hip without regard to side.
 
-**Barias → left hip.** The name BARIAS relates to Hebrew/Aramaic בריא (bārîʾ, "fat, healthy, strong") or to βάρος (baros, "weight, heaviness"). The hip is a load-bearing joint — the junction between the torso and the lower limbs, the hinge on which walking depends. Placed on the left (will) side, a name meaning "weight" or "strength" sits on the side of volitional power — the body's structural capacity to stand and walk driven by will, not intellect. The match is coherent: the heavy joint, named for heaviness, on the side of the will that carries the person through the world.
+The laterality evidence, then, does not carry a directional reading. What the manuscripts show is that the long recension once had both a right and a left entry at the shoulder, the elbow and the hip, that Codex IV keeps both, and that Codex II has lost the right-hand one in each case. The names' correspondences rest on the parts they create, and those are the same in both codices.
 
-**Aroer → left shin.** Aroer (ⲁⲣ̅ⲟ̅ⲏ̅ⲣ̅) shares its name with an ancient city in the Hebrew Bible (עֲרוֹעֵר, ʿArōʿēr, "ruins" or "bare/stripped"). The shin is the most exposed bone in the body — the tibia covered only by skin, vulnerable to impact. A name meaning "bare/stripped" for the most exposed bone is a perfect match in either laterality. Placed on the left (will) side, the exposed bone on the side of volitional action carries the sense of will made vulnerable — the place where determination meets the world's resistance without padding.
+### 5.3 Aroer and the Second List
 
-### 5.3 The Directional Pattern
-
-The significance of these four corrections goes beyond the individual names. All four move from right to left — from the understanding side to the will side. The names involved (bearing, memory-ruling, weight/strength, exposed/bare) all describe qualities more closely allied with will than with understanding. The Coptic manuscript places will-type qualities on the will side. Robinson's English placed them on the understanding side.
-
-The corrections are correspondentially coherent. They are not random noise; they move consistently in the direction that the framework predicts. If the text were a late compilation with arbitrary laterality assignments, we would expect corrections to move in both directions — some right-to-left, some left-to-right — with no correspondential pattern. Instead, all four corrections move in the same direction, and all four improve the framework alignment. This is a signal, not an accident.
+After the 365 angels, a second list names the powers "particularly active in the limbs" (II 17,8–29). Its order is the reverse of the first: the body part comes first, then the name (ⲧⲁⲡⲉ ⲙⲉⲛ ⲇⲓⲟⲗⲓⲙⲟⲇⲣⲁⲍⲁ, "the head, Diolimodraza", II 17,10). Read in that order, ⲧⲥⲏⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ ⲁⲣⲟⲏⲣ ⲧⲥⲏⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ ⲧⲱⲉⲭⲑⲁ (II 17,24–25) is "the right shin, Aroer; the left shin, Toechtha", as the English has it. Aroer (ⲁⲣⲟⲏⲣ) shares its name with an ancient city in the Hebrew Bible (עֲרוֹעֵר, ʿArōʿēr), whose name is commonly taken to mean "bare" or "stripped". The shin is the most exposed bone in the body — the tibia covered only by skin, vulnerable to impact. A name meaning "bare" for the most exposed bone fits the part in either laterality.
 
 ---
 
 ## 6. Name Splits and Rereadings
 
-Beyond terminal consonants and laterality, the Coptic manuscript reveals cases where Robinson's transliteration obscured the internal structure of a name — either by merging two words into one, or by rendering vowels and consonants in ways that close off etymological possibilities the Coptic keeps open.
+Beyond terminal letters and laterality, the Coptic shows a handful of places where the English renders the name or its label in a way that hides something the manuscript has.
 
-### 6.1 Achcha → ACHCHAN + STAPHYLĒ
+### 6.1 Achcha and the Staphylē
 
-The most significant structural correction is the splitting of "Achcha" into two words. Robinson presents "Achcha" as a single angel name assigned to "the uvula." The Coptic reads ⲁ̅ⲭ̅ⲭ̅ⲁ̅ⲛ̅ ⲥ̅ⲧ̅ⲁ̅ⲫ̅ⲩ̅ⲗ̅ⲏ̅ — two distinct words under supralinear strokes:
+The English reads "Achcha (created) the uvula." Codex II has ⲁⲭⲭⲁⲛ ⲥⲧⲁⲫⲩⲗⲏ (II 16,3), both words under the scribe's stroke; Codex IV has ⲁⲭⲭⲁ ⲛ̅ⲥⲧⲁⲫ[ⲩⲗⲏ] (IV 25,1):
 
-1. **ACHCHAN** (ⲁ̅ⲭ̅ⲭ̅ⲁ̅ⲛ̅) — the angel name, with a terminal N that Robinson dropped when he merged it with the following word
-2. **STAPHYLĒ** (ⲥ̅ⲧ̅ⲁ̅ⲫ̅ⲩ̅ⲗ̅ⲏ̅) — Greek σταφυλή, meaning "grape" or "bunch of grapes"
+1. **ACHCHA** — the angel name, with the linker ⲛ̅ that Codex IV writes before the body part
+2. **STAPHYLĒ** (ⲥⲧⲁⲫⲩⲗⲏ) — Greek σταφυλή, "grape" or "bunch of grapes"
 
-The anatomical term σταφυλή is the standard Greek medical term for the uvula — the small pendant structure at the back of the soft palate, named σταφυλή because it resembles a grape hanging from a vine. This is well-attested in ancient medical literature (Hippocrates, Galen). The text is not using an obscure word. It is using the technically correct Greek anatomical term for the body part, immediately after naming the angel who creates it.
+σταφυλή is the Greek medical term for the uvula — the small pendant structure at the back of the soft palate, named because it resembles a grape hanging from a vine. The text is not using an obscure word. It is using the technically correct Greek anatomical term for the body part, immediately after naming the angel who creates it.
 
-Robinson collapsed the angel name and the anatomical label into a single word, turning "ACHCHAN [who creates the] STAPHYLĒ" into "Achcha [who creates the] uvula." The result is an angel name truncated by one terminal letter, and an anatomical label replaced by its English translation — erasing the Greek term that the Coptic scribe carefully preserved.
-
-The correspondential significance is modest but real. The uvula (σταφυλή, "grape") is the hanging body at the threshold between mouth and throat — between what is chewed (processed by understanding) and what is swallowed (internalized into the will). In Swedenborg, the act of swallowing corresponds to the moment when external truth becomes interior good — when what is understood is accepted, willingly taken in. The uvula hangs at exactly this threshold. That the text names it by its appearance — a grape, a fruit — connects it to the spiritual sense of fruit: the produce of good, the outcome of a process of growth and ripening.
+"Uvula" is the right translation of σταφυλή, and the English divides name and label correctly. What the English cannot show is that the label is a Greek medical word kept in the Coptic — and that the scribe of Codex II wrote it under the same stroke as the name. The uvula hangs at the threshold between the mouth and the throat, and the text names it by its likeness to a fruit.
 
 ### 6.2 Yeronumos → HIERŌNYMOS
 
-Robinson gives "Yeronumos" for the angel of the right ear. The Coptic reads ⲓ̅ⲉ̅ⲣ̅ⲱ̅ⲛⲩ̅ⲙ̅ⲟ̅ⲥ̅ — and the ⲱ (omega) is decisive. *The Unnamed Cartography* noted two possible etymologies:
+The English gives "Yeronumos" for the angel of the right ear. The Coptic reads ⲓⲉⲣⲱⲛⲩⲙⲟⲥ (II 15,33–34) — and the ⲱ (omega) matters, since the English does not mark vowel length. Two etymologies are possible:
 
 - ἱερονόμος (hieronomos) — "sacred law" (ἱερός + νόμος)
 - ἱερώνυμος (hierōnymos) — "sacred name" (ἱερός + ὄνυμα/ὄνομα)
 
-The Coptic ⲱ (long O) in the second syllable confirms HIERŌNYMOS — "one with a sacred name" or "bearer of the sacred name." The right ear, in Swedenborg, corresponds to the reception of truth that proceeds from good — hearing as the intake of spiritual instruction. An angel named "Sacred Name" for the organ of hearing is a strong match: the ear receives naming, and this angel's name IS naming itself. *The Unnamed Cartography* already rated this a strong match; the Coptic vowel confirms the stronger of the two proposed etymologies.
+The Coptic ⲱ (long O) in the second syllable is the vowel of HIERŌNYMOS — "one with a sacred name" or "bearer of the sacred name." The right ear, in Swedenborg, signifies "perceptivity of truth from good" (*AC* §10061). An angel named "Sacred Name" for the organ of hearing is a strong match: the ear receives naming, and this angel's name IS naming itself. *The Unnamed Cartography* already read the name as ἱερώνυμος and rated it a strong match; the Coptic vowel supports that reading over the alternative.
 
 ### 6.3 Phnene → PHNĒMĒ
 
-Robinson gives "Phnene" for the angel of the left calf (ⲧⲕⲗ̅ⲗⲉ ⲛ̅ϭⲃⲟⲩⲣ). The Coptic reads ⲫⲛ̅ⲏ̅ⲙ̅ⲏ̅ — PHNĒMĒ, not PHNENE. The difference is significant: the middle consonant is M (ⲙ), not N (ⲛ). This opens a connection to Greek φήμη (phēmē, "oracle, prophetic utterance, rumor, report") that the N-form does not support.
+The English gives "Phnene" for the angel of the left ⲕⲗⲗⲉ (ⲧⲕⲗ̅ⲗⲉ ⲛ̅ϭⲃⲟⲩⲣ, II 17,2–3). The English translates ⲕⲗⲗⲉ "knee"; Crum's attestations place it lower, at the ankle (Sahidic ⲕⲉⲗⲉ renders ἀστράγαλος at Ezek 47:3, and a Shenoute passage ranks the ⲕⲗⲗⲉ below the knees and thighs; Crum 1939). Linssen reads the name ⲫⲛ̅ⲏⲙⲏ — PHNĒMĒ, with ⲙ, not ⲛ, as its third consonant. Codex IV omits the entry. A connection to Greek φήμη (*phēmē*, "oracle, prophetic utterance, report") has been suggested by the ⲙ; it would leave the ⲛ̅ after ⲫ unexplained, and it remains tentative.
 
-If the name is related to φήμη, the angel of the left calf carries the spiritual quality of "prophetic utterance" or "divine report" — truth communicated from above. The calf (lower leg) corresponds in Swedenborg to natural-degree support for the higher body's movements. An oracle-name at the level of natural support suggests truth that arrives from above to sustain natural action. This is a tentative reading — the Coptic form alone does not prove the φήμη connection — but it is a reading that Robinson's PHNENE completely forecloses.
+### 6.4 Agromauna → AGROMAUMA
 
-### 6.4 Beluai → BĒLYAI
+The English gives "Agromauna" for the angel of the heart. Both codices read ⲁⲅⲣⲟⲙⲁⲩⲙⲁ (II 16,20; IV 25,23), with ⲙ as the second-to-last letter. *The Unnamed Cartography*'s reading of the name as ἀγρός + μονή, "field-dwelling", rests on the English *n*.
 
-Robinson gives "Beluai" for the angel of the left hand. The Coptic reads ⲃⲏ̅ⲗ̅ⲩ̅ⲁ̅ⲓ̅ — BĒLYAI, with the long Ē (ⲏ) in the first syllable. This vowel opens a possible connection to בְּלִיַּעַל (Beliyaʿal / Belial), the Hebrew term for worthlessness, wickedness, or the personification of chaos. In later Jewish and Christian usage, Belial becomes a name for the adversary or the spirit of lawlessness (2 Corinthians 6:15).
+### 6.5 Beluai and BĒLYAI
 
-The left hand, in Swedenborg, corresponds to the truth-power of the will — the hand that enacts what the will decides. An angel named for destructive chaos assigned to the left hand could carry the "opposite sense" of correspondence: the power of will that, when it serves self-love rather than love of neighbor, becomes destructive agency. This is speculative — the Belial connection depends on accepting a Hebrew etymology for a name in a text with predominantly Greek nomenclature — but the Coptic's long Ē brings the connection closer than Robinson's short E does.
+The English gives "Beluai" for the angel of the left hand; the Coptic reads ⲃⲏⲗⲩⲁⲓ (II 16,9). The two are the same letters: the English renders ⲏ as *e* and ⲩ as *u* throughout. A connection to בְּלִיַּעַל (Beliyaʿal / Belial), the Hebrew term for worthlessness that becomes a name for the adversary (2 Cor 6:15), is possible on sound alone; nothing in the Coptic brings it closer than the English does.
 
 ---
 
 ## 7. The Coptic Body Vocabulary
 
-The angel names are only half of the body-creation passage. Each name is followed by an anatomical label — the body part that the named angel creates. These labels are a mix of Greek loanwords (ⲉⲛⲕⲉⲫⲁⲗⲟⲥ for brain, ⲕⲟⲓⲗⲓⲁ for belly, ⲁⲣⲧⲏⲣⲓⲁ for arteries) and native Coptic terms. The Greek loanwords are technical medical vocabulary, imported directly from the Hippocratic-Galenic tradition. The native Coptic terms are something else entirely: they describe body parts not by technical anatomy but by descriptive function — and those descriptions carry correspondential content that English translation erases.
+The angel names are only half of the body-creation passage. Each name is joined to an anatomical label — the body part that the named angel creates. These labels are a mix of Greek loanwords (ⲉⲛⲕⲉⲫⲁⲗⲟⲥ for brain, ⲕⲟⲓⲗⲓⲁ for belly, ⲁⲣⲧⲏⲣⲓⲁ for arteries) and native Egyptian words. The Greek loanwords are technical medical vocabulary, imported from the Hippocratic-Galenic tradition. The native words are the everyday Egyptian names of the body and its members. The companion study *The Tongue Beneath the Translation* reads the Coptic vocabulary of the whole library as evidence for its correspondential substrate; the body list is a test case for that method, and the roots of the words have to be taken from the lexica before a correspondential reading is built on them.
 
 ### 7.1 Native Coptic Body Terms
 
-| Coptic Term | Literal Meaning | English Translation | Correspondential Significance |
+| Coptic Term | Root and Usage | English Translation | Correspondential Significance |
 |---|---|---|---|
-| ⲫⲏⲧ | heart-mind | heart | Collapses the will/understanding distinction into a single organ |
-| ⲛⲁⲧⲕⲁⲥ | boneless | marrow | Defines the interior by negating the structure that contains it |
-| ⲛ̅ϫⲓⲥⲉ ⲙ̅ⲡⲥⲱⲙⲁ | heights of the body | spine | The vertical axis named as elevation — height = proximity to influx |
-| ⲧⲙⲉⲥⲧϩⲏⲧ | heart-region | chest | The region defined by what it contains (the heart) |
-| ⲡⲉⲕⲟⲩⲛϥ | navel | navel | Native Coptic term preserving Egyptian-Coptic body vocabulary |
-| ⲧϩⲛⲱϩⲉ | fear | fear (as a body passion) | Native Coptic for the emotion — not the Greek φόβος |
-| ⲕⲉⲗⲉⲛⲕⲉϩ | elbow | elbow | Native Coptic joint-name with no Greek equivalent |
+| ⲙ̅ⲫⲏⲧ (ⲡ- + ϩⲏⲧ) | "heart"; in Coptic usage also mind, understanding | heart | The organ of the will, whose word also names the mind |
+| ⲛ̅ⲁⲧⲕⲁⲥ (Sahidic ⲁⲗⲧⲕⲁⲥ) | "pain-remover" (Černý); heard in antiquity as "boneless" | marrow | The interior of the bone, created by lordship |
+| ⲛ̅ⲛ̅ϫⲓⲥⲉ ⲙ̅ⲡⲥⲱⲙⲁ | ϫⲓⲥⲉ "back; spine, vertebra" | spine of the body | The axis of the trunk |
+| ⲧⲙⲉⲥⲧϩⲏⲧ | "breast" (στῆθος); a compound in which ϩⲏⲧ is visible | chest | The region that holds the heart |
+| ⲛ̅ⲑⲟⲗⲡⲉ (ⲧ- + ϩⲟⲗⲡⲉ) | "navel" (ϩⲉⲗⲡⲉ) | navel | — |
+| ⲡⲁⲧϩⲛⲱϩⲉ | ϩⲛⲱϩⲉ "fear", an Akhmimic word (Sahidic ϩⲟⲧⲉ) | fear (as a passion) | Native Egyptian for the fourth Stoic passion |
+| ⲕⲉⲗⲉⲛⲕⲉϩ | "elbow" | elbow | Native Coptic joint-name |
 
 ### 7.2 Analysis
 
-**ⲫⲏⲧ (heart-mind).** This is the most philosophically significant term in the body vocabulary. ⲫⲏⲧ is native Coptic and means both "heart" and "mind" — not as a metaphorical extension but as a single semantic field. The Coptic language does not distinguish between the organ of the will and the seat of thought in the way that Greek (καρδία vs. νοῦς) and English (heart vs. mind) do. When the text says ⲁⲅⲣⲟⲙⲁⲩⲙⲁ ⲙ̅ⲫⲏⲧ — "Agromauma [creates] the heart" — the Coptic carries the sense "Agromauma [creates] the heart-mind." In Swedenborg, the heart corresponds to the will and the lungs correspond to the understanding, but the heart also *governs* the understanding through the circulation of blood (truth animated by good). The Coptic term preserves what English bifurcation loses: the unity of heart and mind, of will and understanding, in a single function.
+**ϩⲏⲧ (heart).** The heart is written ⲙ̅ⲫⲏⲧ in the entry ⲁⲅⲣⲟⲙⲁⲩⲙⲁ ⲙ̅ⲫⲏⲧ, "Agromauma (created) the heart" (II 16,20–21): the linker ⲙ̅, the article ⲡ- and ϩⲏⲧ, written together as ⲫⲏⲧ. The root of ϩⲏⲧ is Egyptian *ḥꜣty*, "heart"; in Coptic usage the word also names the mind and the understanding (Crum 1939; Černý 1976). The text itself shows the extension at work: its word for understanding, the seventh power, is ⲙⲛⲧⲣⲙⲛϩⲏⲧ, "being a person of heart" (§3.1). In Swedenborg, the heart corresponds to the will and the lungs to the understanding (*AC* §3888), and the influx of the will into the understanding runs from the one to the other. The Coptic word for the organ of the will is the root of the Coptic word for understanding.
 
-**ⲛⲁⲧⲕⲁⲥ (boneless = marrow).** Already discussed in §3.1, this term deserves emphasis here because of how it functions within the body vocabulary as a whole. The Greek loanwords (ⲁⲣⲧⲏⲣⲓⲁ, ⲥⲡⲗⲏⲛ, ⲏⲡⲁⲣ) name body parts positively — by what they are. The native Coptic term for marrow names it NEGATIVELY — by what it is not. This is a philosophical choice embedded in the language: the most interior body substance is the one that can only be described by its relationship to the structure that surrounds it. Bone is knowable in itself. Marrow is knowable only as "not-bone-within-bone."
+**ⲁⲧⲕⲁⲥ (marrow).** Discussed in §3.1: the word is "pain-remover" by its root, and "boneless" only by a folk etymology already current among Coptic readers. The correspondential reading of the marrow — the inmost good that the structural good contains — rests on the sequence and on anatomy, not on the word.
 
-In the correspondential anatomy, this carries precise meaning. Marrow, for Swedenborg, corresponds to the inmost good that bone (structural good) contains. Inmost good cannot be directly described from the natural level — it can only be pointed to through negation, as what lies within the structural and is not itself structural. The Coptic term performs this pointing: ⲁⲧ (without) + ⲕⲁⲥ (bone).
+**ⲛ̅ⲛ̅ϫⲓⲥⲉ ⲙ̅ⲡⲥⲱⲙⲁ (spine of the body).** The English translates this "the spine of the body", and the translation is exact. ϫⲓⲥⲉ, a feminine noun, is "back" and, in the plural and with "bone", "spine, vertebra" (Crum 1939); it is a different word from the verb ϫⲓⲥⲉ, "be high, exalt". The spine is the axis of the trunk, joining the head to the limbs — in Swedenborg's three degrees of the body, joining the celestial (head) through the spiritual (breast) to the natural (feet and arms) (*HH* §65).
 
-**ⲛ̅ϫⲓⲥⲉ ⲙ̅ⲡⲥⲱⲙⲁ (heights of the body = spine).** Robinson translates this as "spine" or "the back." The Coptic is more revealing. ϫⲓⲥⲉ means "height, elevation, that which is lifted up." The spine is not named as a column (Latin *spina*, thorn/backbone) but as "the heights of the body" — the vertical axis that elevates, that holds the body upright, that connects the head (celestial) to the feet (natural). In the correspondential anatomy, height corresponds to proximity to the source of influx. The spine, as "the heights of the body," is the axis along which influx descends from the celestial (head) through the spiritual (torso) to the natural (limbs). The Coptic names the spine by its correspondential function: it is the body's vertical channel of discrete degrees.
-
-**ⲧⲙⲉⲥⲧϩⲏⲧ (heart-region = chest).** The compound ⲙⲉⲥⲧ- + ϩⲏⲧ — "the place/region of the heart-mind" — defines the chest not as a barrel of ribs but as "the region that contains what thinks and wills." The chest is the heart's house. In Swedenborg, the thoracic cavity — containing both heart and lungs — corresponds to the region where will (heart) and understanding (lungs) operate together. The Coptic names the region by its interior occupant rather than by its external structure, preserving the inside → outside directionality of correspondence.
+**ⲧⲙⲉⲥⲧϩⲏⲧ (chest).** The word for the breast (Bohairic ⲙⲉⲥⲧⲉⲛϩⲏⲧ) carries ϩⲏⲧ inside it. The chest is the heart's house. In Swedenborg, the breast — containing both heart and lungs — is where will (heart) and understanding (lungs) operate together, and it is the province of the second heaven (*HH* §65).
 
 ### 7.3 The Native/Greek Distribution
 
-The distribution of native Coptic terms versus Greek loanwords is not random. The pattern is:
+The distribution of native Coptic terms and Greek loanwords follows a clear line:
 
-- **Greek loanwords** dominate for medical-technical organs: ⲉⲛⲕⲉⲫⲁⲗⲟⲥ (brain), ⲥⲧⲟⲙⲁⲭⲟⲥ (stomach), ⲏⲡⲁⲣ (liver), ⲥⲡⲗⲏⲛ (spleen), ⲁⲣⲧⲏⲣⲓⲁ (arteries), ⲁⲓⲇⲟⲓⲟⲛ (genitals), ⲩⲡⲟⲭⲟⲛⲣⲓⲟⲥ (flank), ⲛⲉⲩⲙⲟⲛⲓⲛ (lungs)
-- **Native Coptic** appears for body parts that carry deeper metaphorical or experiential weight: ⲫⲏⲧ (heart-mind), ⲛⲁⲧⲕⲁⲥ (boneless/marrow), ⲛ̅ϫⲓⲥⲉ ⲙ̅ⲡⲥⲱⲙⲁ (heights of the body/spine), ⲧⲙⲉⲥⲧϩⲏⲧ (heart-region/chest), ⲕⲉⲗⲉⲛⲕⲉϩ (elbow), ⲡⲉⲕⲟⲩⲛϥ (navel)
+- **Greek loanwords** name the internal organs and the technical anatomy: ⲉⲛⲕⲉⲫⲁⲗⲟⲥ (brain), ⲡⲁⲣⲓⲥⲑⲙⲓⲟⲛ (tonsils), ⲥⲧⲁⲫⲩⲗⲏ (uvula), ⲥⲫⲟⲛⲧⲩⲗⲟⲥ (vertebrae), ⲥⲧⲟⲙⲁⲭⲟⲥ (stomach), ⲛⲉⲩⲙⲟⲛⲓⲛ (lungs), ϩⲏⲡⲁⲣ (liver), ⲥⲡⲗⲏⲛ (spleen), ⲫⲗⲉⲯ (veins), ⲁⲣⲧⲏⲣⲓⲁ (arteries), ⲕⲟⲓⲗⲓⲁ (belly), ⲩⲡⲟⲭⲟⲛⲣⲓⲟⲥ (hypochondrium), ⲙⲏⲣⲟⲥ (thigh), ⲁⲓⲇⲟⲓⲟⲛ (genitals)
+- **Native Coptic** names the body and its members as anyone would name them: ⲁⲡⲉ (head), ⲃⲁⲗ (eye), ⲙⲁⲁϫⲉ (ear), ϣⲁ (nose), ⲥⲡⲟⲧⲟⲩ (lips), ⲟⲃϩⲉ (teeth), ⲛⲁϩⲃⲉ (shoulder), ⲕⲉⲗⲉⲛⲕⲉϩ (elbow), ϭⲓϫ (hand), ϭⲓⲃⲉ (breast), ⲥⲡⲓⲣ (ribs), ϯⲡⲉ (hip), ⲕⲁⲥ (bone), ⲁⲧⲕⲁⲥ (marrow), ϩⲏⲧ (heart), ⲙⲉϩⲧ (intestines), ϭⲗⲱⲧ (kidneys), ⲙⲟⲩⲧ (neck, sinews), ϫⲓⲥⲉ (spine), ⲥⲏⲃⲉ (shin), ⲟⲩⲣⲏⲧⲉ (foot)
 
-The text inherits Greek medical vocabulary for the technical apparatus but uses its own language for the parts that are hardest to talk about without implicit theology. The heart that IS the mind, the marrow that is defined by NOT being bone, the spine that is "the height" — these are descriptions that a correspondential framework would produce. They are not descriptions that Hippocratic anatomy would produce. The native Coptic terms are older than the medical Greek. They carry the residue of a vocabulary that described the body in terms of what each part *does spiritually*, not what each part looks like on a dissection table.
+The text inherits Greek medical vocabulary for what a physician names and keeps its own language for what everyone names. Within the native vocabulary, the heart is the one word that reaches past the body: it is also the mind, and it is the root of the word for understanding.
 
 ---
 
-## 8. The Spiritual Compass Confirmed
+## 8. The Rulers Over the Whole
 
-After the 365 angels assemble the body part by part, the text names the rulers set over the whole. *The Unnamed Cartography* identified two sets: four elemental rulers who govern "the whole arrangement" of the body (Folio 17, line 8) and four passion rulers who govern the four fundamental passions (Folio 18, lines 15–18). The Coptic manuscript confirms both sets.
+After the angels assemble the body part by part, the text names the powers set over the whole. The Coptic confirms each set as the English reports it.
 
-### 8.1 The Four Elemental Rulers
+### 8.1 The Four Over All and the Four Elemental Rulers
 
-| Ruler | Coptic Form | Element | Folio.Line |
+First, four are set over all the angels of the list: ⲛⲉⲛⲧⲁⲩⲧⲟϣⲟⲩ ⲇⲉ ⲉϩⲣⲁⲓ̈ ⲉϫⲛ̅ ⲛⲁⲓ̈ ⲧⲏⲣⲟⲩ ⲡⲉ ⲍⲁⲑⲱⲑ ⲁⲣⲙⲁⲥ ⲕⲁⲗⲓⲗⲁ ⲓ̈ⲁⲃⲏⲗ, "those appointed over all these are Zathoth, Armas, Kalila, Iabel" (II 17,7–8). Codex II writes the last two under one stroke; the trema on ⲓ̈ marks the start of a new word, and the English divides them as "Kalila, Jabel". The four recall the first four of the twelve authorities the chief archon begot earlier in the text — Athoth, Harmas, Kalila-Oumbri, Iabel (II 10,28–32). Codex IV gives "Sabaoth, Cain, Abel" here (IV 26,19–20, in Robinson 1990).
+
+Second, the four rulers of the qualities from which the demons of the body arise: "the origin of the demons which are in the whole body is determined to be four: heat, cold, wetness, and dryness. And the mother of all of them is matter" (II 18,2–6). Their rulers are named:
+
+| Ruler | Coptic Form | Quality | Locus |
 |---|---|---|---|
-| Zathoth | ⲍⲁ̅ⲑ̅ⲱ̅ⲑ̅ | (not specified; first named) | 17.8 |
-| Armas | ⲁ̅ⲣ̅ⲙ̅ⲁ̅ⲥ̅ | (not specified; second named) | 17.8 |
-| Kalila-Oumbri | ⲕ̅̅̅ⲁ̅ⲗ̅ⲓ̅ⲗ̅ⲁ̅ⲓ̅̅̈ⲁ̅ⲃ̅ⲏ̅ⲗ̅ | (not specified; third named) | 17.8 |
+| Phloxopha | ⲫⲗⲟⲝⲟⲫⲁ | heat (ⲡϩⲙⲟⲙ) | II 18,6–7 |
+| Oroorrothos | ⲟⲣⲟⲟⲣⲣⲟⲑⲟⲥ | cold (ⲡⲁⲣⲟϣ) | II 18,7–8 |
+| Erimacho | ⲉⲣⲓⲙⲁⲭⲱ | dryness (ⲡⲉⲧϣⲟⲩⲱⲟⲩ) | II 18,8–9 |
+| Athuro | ⲁⲑⲩⲣⲱ | wetness (ⲡⲱϭⲃⲉ) | II 18,9–10 |
 
-The Coptic text names these four rulers together in a formulaic statement: "those appointed over all these" (ⲛⲉⲛⲧⲁⲩⲧⲟϣⲟⲩ ⲇⲉ ⲉϩⲣⲁⲓ̈ ⲉϫⲛ̅ ⲛⲁⲓ̈ ⲧⲏⲣⲟⲩ). *The Unnamed Cartography* showed that the elemental governance structure — rulers set over the body's totality rather than individual parts — maps to Swedenborg's correspondential structure in which elements (fire, water, air, earth) correspond to the fundamental states of spiritual reality: celestial love (fire), natural truth (water), spiritual thought (air), and natural good in ultimates (earth).
-
-The Coptic confirms the names as given in Robinson. No terminal consonants were dropped. No laterality issues apply (these rulers govern the whole, not paired organs). The manuscript level preserves what the English reports.
+These are the four that *The Unnamed Cartography* maps onto Swedenborg's spiritual compass (*HH* §§141–153): heat to the east, cold to the west, wetness to the south, dryness to the north. The Coptic confirms the names as the English gives them. No laterality issues apply: these rulers govern the whole, not paired organs.
 
 ### 8.2 The Four Passion Rulers
 
-| Ruler | Coptic Form | Passion (Coptic) | Passion (English) | Folio.Line |
+| Ruler | Coptic Form | Passion (Coptic) | Passion (English) | Locus |
 |---|---|---|---|---|
-| Ephememphi | ⲉⲫⲉ̅ⲙ̅ⲉ̅ⲙ̅ⲫ̅ⲓ̅ | ⲧϩⲏⲇⲟⲛⲏ | pleasure | 18.15–16 |
-| Yoko | ⲓ̅̅̈ⲱ̅ⲕ̅̅̅ⲱ̅ | ⲧⲉⲡⲓⲑⲩⲙⲓⲁ | desire | 18.16 |
-| Nenentophni | ⲛⲉⲛⲉⲛⲧⲱⲫⲛⲓ | ⲧⲗⲩⲡⲏ | grief | 18.17 |
-| Blaomen | ⲃⲗ̅ⲁ̅ⲟ̅ⲙ̅ⲏ̅ⲛ̅ | ⲧϩⲛⲱϩⲉ | fear | 18.17–18 |
+| Ephememphi | ⲉⲫⲉⲙⲉⲙⲫⲓ | ⲧϩⲏⲇⲟⲛⲏ | pleasure | II 18,15–16 |
+| Yoko | ⲓ̈ⲱⲕⲱ | ⲉⲡⲓⲑⲩⲙⲉⲓⲁ | desire | II 18,16 |
+| Nenentophni | ⲛⲉⲛⲉⲛⲧⲱⲫⲛⲓ | ⲧⲗⲩⲡⲏ | grief | II 18,17 |
+| Blaomen | ⲃⲗⲁⲟⲙⲏⲛ | ⲧϩⲛⲱϩⲉ | fear | II 18,17–18 |
 
-The Coptic passion vocabulary is notable. Three of the four passions are named with Greek loanwords (ⲧϩⲏⲇⲟⲛⲏ = ἡδονή, pleasure; ⲧⲉⲡⲓⲑⲩⲙⲓⲁ = ἐπιθυμία, desire; ⲧⲗⲩⲡⲏ = λύπη, grief). But the fourth — fear — is given in native Coptic: ⲧϩⲛⲱϩⲉ. The Greek word for fear (φόβος, phobos) was available and widely used in Coptic texts. The scribe chose the native word instead.
-
-This pattern — three Greek, one native Coptic — mirrors what we saw in the substance-souls, where the sixth power (zeal/jealousy) used native ⲕⲱϩ instead of Greek ζῆλος. In both cases, the native Coptic word is chosen for a passion/quality that is deeply experiential rather than intellectually categorized. Pleasure, desire, and grief are Stoic philosophical categories imported from Greek moral psychology. Fear is something the body knows before any philosophy names it. The scribe's word choice preserves this distinction.
-
-The passion ruler BLAOMĒN — the ruler of fear — is also one of the seven names with dropped terminal consonants (see §4.1). Robinson gives "Blaomen"; the Coptic gives ⲃⲗ̅ⲁ̅ⲟ̅ⲙ̅ⲏ̅ⲛ̅, BLAOMĒN. That the ruler of fear carries a name whose terminal letter was silently removed is consistent with the broader pattern of editorial normalization.
+The four chief demons (ⲡϥⲧⲟⲟⲩ ⲛ̅ⲁⲣⲭⲏⲅⲟⲥ ⲛ̅ⲇⲁⲓⲙⲱⲛ, II 18,14–15) govern the four passions of Stoic moral psychology — pleasure, desire, grief and fear, ἡδονή, ἐπιθυμία, λύπη, φόβος (Diogenes Laertius 7.110–116). Three of the four are named with the Greek loanword. The fourth, fear, is given in an Egyptian word: ϩⲛⲱϩⲉ, the Akhmimic word for fear (Sahidic usually has ϩⲟⲧⲉ; Crum 1939). The Greek φόβος was available; the text chose the native word, as it chose native ⲕⲱϩ for the sixth substance-soul.
 
 ### 8.3 The "Book of Zoroaster" Citation
 
-Immediately following the passion rulers and their subsidiary passions, the text states:
+After the count of the angels — "together they are 365" (II 19,2–3) — the text adds that others are in charge over the remaining passions, whom it has not named:
 
 > ⲉϣⲡⲉ ⲕⲟⲩⲱϣⲉ ⲇⲉ ⲁⲙ̅ⲙⲉ ⲉⲣⲟⲟⲩ ϥⲥⲏϩ ϩⲣⲁⲓ̈ ϩⲙ̅ ⲡϫⲱⲱⲙⲉ ⲛ̅ⲍⲱⲣⲟⲁⲥⲧⲣⲟⲥ
 >
-> "If you wish to know them, it is written in the Book of Zoroaster."
+> "If you wish to know them, it is written in the book of Zoroaster." (II 19,8–10)
 
-The Coptic confirms the citation exactly as Robinson renders it. The word ⲡϫⲱⲱⲙⲉ (the book) and ⲛ̅ⲍⲱⲣⲟⲁⲥⲧⲣⲟⲥ (of Zoroaster) are unambiguous. The text refers the reader to an external written source — a book attributed to the founder of the Zoroastrian tradition — for additional material about the passions and their offspring.
+The Coptic confirms the citation exactly as the English renders it. The word ⲡϫⲱⲱⲙⲉ (the book) and ⲛ̅ⲍⲱⲣⲟⲁⲥⲧⲣⲟⲥ (of Zoroaster) are unambiguous. Codex IV carries the same citation (IV 29,16–18); the short recension (III and BG) lacks both the list and the citation. The text refers the reader to an external written source — a book attributed to the founder of the Zoroastrian tradition — for the rulers of the passions it has not named.
 
-This citation has been analyzed in the companion thesis *The Book of Zoroaster*. What the Coptic manuscript confirms is that the citation is not a later addition or editorial gloss: it sits within the body-creation passage, in the same hand, in the same formulaic style as the surrounding text. The "Book of Zoroaster" is presented as the source document for the passion system — the text from which the Apocryphon of John draws its information about the subsidiary passions that flow from pleasure, desire, grief, and fear. The angel names, the substance-souls, and the passion rulers all lead to this: a direct reference to the Ancient Word preserved under a different cultural name.
+This citation has been analyzed in the companion thesis *The Book of Zoroaster*. What the Coptic confirms is that the citation sits within the body-creation passage, in the same hand, in the same formulaic style as the surrounding text, in both witnesses of the long recension. The "book of Zoroaster" is presented as the source for the system of rulers over the body and its passions. The angel names, the substance-souls, and the rulers all lead to this: a direct reference to the Ancient Word preserved under a different cultural name.
 
 ---
 
@@ -383,145 +362,135 @@ This citation has been analyzed in the companion thesis *The Book of Zoroaster*.
 
 ### 9.1 What the Coptic Restores
 
-The systematic comparison yields a clear inventory. The Coptic manuscript of NHC II,1 restores to the body-creation passage:
+The systematic comparison yields a clear inventory. The Coptic of NHC II,1, read with NHC IV,1, gives the body-creation passage:
 
-- **Seven terminal consonants** that Robinson's transliterations dropped, two of which (MNIARCHŌN, EUANTHĒN) are etymologically decisive
-- **Four laterality corrections** that move will-type angel names from the understanding side to the will side, all in the same direction
-- **One name split** revealing ACHCHAN + STAPHYLĒ where Robinson saw "Achcha" + "uvula"
-- **Four rereading opportunities** where Coptic vowels and consonants confirm the stronger of competing etymologies (HIERŌNYMOS over hieronomos, EUANTHĒN with confirmed eu- prefix, PHNĒMĒ opening a φήμη connection, BĒLYAI opening a Belial connection)
-- **A body vocabulary** that describes organs by spiritual function rather than by anatomical structure: ⲫⲏⲧ (heart-mind), ⲛⲁⲧⲕⲁⲥ (boneless = marrow), ⲛ̅ϫⲓⲥⲉ ⲙ̅ⲡⲥⲱⲙⲁ (heights of the body = spine)
+- **Word division at the end of the name**: three Codex II names that seem to carry an extra final letter (ⲁⲥⲧⲉⲣⲉⲭⲙⲏⲛ, ⲑⲁⲥⲡⲟⲙⲟⲭⲁⲙ, ⲁⲭⲭⲁⲛ) are written by Codex IV with the letter as the linker; two that seem to lack one (ⲕⲣⲓⲙⲁ, ⲧⲩⲡⲏⲗⲟ) are written by IV with it
+- **Three laterality pairs** in which Codex IV keeps both a right and a left angel where Codex II keeps one
+- **Three readings** that differ from the English: the omega of ⲓⲉⲣⲱⲛⲩⲙⲟⲥ, which supports ἱερώνυμος; ⲫⲛⲏⲙⲏ for "Phnene"; ⲁⲅⲣⲟⲙⲁⲩⲙⲁ for "Agromauna"
+- **The Greek medical word σταφυλή**, "grape", behind the English "uvula"
+- **A body vocabulary** in which the heart is the root of the word for understanding
 
-These are not speculative reinterpretations. They are readings of the Coptic as written, compared against Robinson's English as published.
+These are readings of the Coptic as written, compared against the English as published.
 
 ### 9.2 What the English Obscured
 
-Robinson's translation team did not set out to obscure correspondential content. They set out to produce a readable English translation of difficult Coptic texts for a general scholarly audience — and at this they succeeded. *The Nag Hammadi Library in English* is one of the landmark achievements of 20th-century religious studies. The point is not that the translation is bad. The point is that every translation is a selection, and selection always loses something.
+The English translation of the Apocryphon did not set out to obscure correspondential content. It set out to produce a readable English translation of a difficult Coptic text for a general scholarly audience — and at this it succeeded. *The Nag Hammadi Library in English* is one of the landmark achievements of 20th-century religious studies, and on the angel list its care is visible: it marks the Codex IV variants, divides the names where Codex IV divides them, and translates the labels correctly. Every translation is still a selection, and what it loses here falls into three categories:
 
-What was lost, in the specific case of the 365-angel list, falls into three categories:
+1. **Vowel length.** The English renders ⲱ and ⲟ alike as *o*, ⲏ and ⲉ alike as *e*. The one place this matters is ⲓⲉⲣⲱⲛⲩⲙⲟⲥ, where the omega points to "sacred name".
 
-1. **Phonetic precision.** Dropping terminal consonants produced smoother English names at the cost of etymological completeness. Robinson's team likely considered these terminal letters to be scribal additions, Coptic case markers, or Greek inflectional residue. The decision to remove them was not arbitrary — it reflects a judgment about what belongs to the name and what belongs to the language. But the judgment was wrong in at least two cases where the terminal letter IS the name's etymological key.
+2. **The Greek inside the Coptic.** "Uvula" is the right word for σταφυλή, but only the Coptic shows that the text names the part by the physicians' word "grape".
 
-2. **Laterality.** Four left/right errors is a small percentage of the total paired assignments, but the errors are not random — they all move in the same direction. This suggests a systematic cause rather than four independent copying mistakes. The most likely explanation is that the transliteration was done from a working text that had already been partially processed, and that the processing introduced right/left inversions at certain points. Whatever the cause, the Coptic manuscript is unambiguous, and the corrections improve the correspondential alignment.
+3. **Body vocabulary semantics.** Translating ϩⲏⲧ as "heart" is correct. But it loses what Coptic usage keeps: the same word is the mind, and it is the root of the text's word for understanding.
 
-3. **Body vocabulary semantics.** Translating ⲛⲁⲧⲕⲁⲥ as "marrow" is correct. But it loses the philosophical content of the Coptic term. Translating ⲛ̅ϫⲓⲥⲉ ⲙ̅ⲡⲥⲱⲙⲁ as "spine" is correct. But it loses the spatial theology of "the heights of the body." Translating ⲫⲏⲧ as "heart" is correct. But it loses the unity of heart and mind that Coptic preserves. In each case, the English gives the anatomical referent without the correspondential resonance.
-
-These losses are invisible to readers who work only from the English. They become visible only when someone returns to the Coptic — which, for the 365-angel list, effectively no one does.
+These losses are invisible to readers who work only from the English. They become visible when someone returns to the Coptic.
 
 ### 9.3 Implications for the Correspondential Hypothesis
 
-The central observation of this thesis — that every correction moves toward stronger correspondential coherence — requires interpretation. There are three possible explanations:
+The central observation of this thesis is that the text on which *The Unnamed Cartography* rests survives the return to the manuscripts. That result matters in its own right. If the convergence between the angel names and Swedenborg's correspondences were an artifact of a translation — names smoothed, sides confused, words merged — the manuscripts would show it. They show instead that the English names are the scribes' names, divided as Codex IV divides them; that the body parts are the scribes' body parts; and that the substance-soul sequence, on which the cartography's structural finding rests, reads in Coptic exactly as in English, with the addition that the seventh power, understanding, is built on the word for the heart.
 
-**1. Coincidence.** The corrections happen to align with Swedenborg by chance. Against this: the laterality corrections are 4 for 4 in the same direction, and the terminal consonants resolve ambiguities in favor of stronger matches. To produce this pattern by chance, the probability is low — not astronomical, but low enough to warrant the other explanations.
+Three things follow:
 
-**2. Confirmation bias.** The researchers see what they want to see. Against this: the corrections are not interpretive choices. The Coptic either says ⲛ̅ϭⲃⲟⲩⲣ (left) or it doesn't. The terminal N is either there or it isn't. The word ⲥⲧⲁⲫⲩⲗⲏ is either a separate word or it isn't. These are textual facts, not hermeneutical judgments. The correspondential significance of the corrections can be debated, but the corrections themselves cannot.
+**1. The baseline holds.** No name scored in *The Unnamed Cartography* changes its body part in the Coptic, and no letter restored by the Coptic overturns an etymology it proposed. The one reading that rests on a letter the manuscripts do not have is Agromauna (§6.4), which both codices spell with ⲙ.
 
-**3. Signal.** The manuscript preserves a more complete form of a text that encodes correspondential information, and the correspondential framework identifies the information because the framework is correct. Returning to a more accurate text finds more signal because there is more signal to find.
+**2. The manuscripts add vocabulary, not noise.** What the Coptic adds — σταφυλή, ⲙⲛⲧⲣⲙⲛϩⲏⲧ, the native ϩⲛⲱϩⲉ beside three Greek passions — sharpens the picture of a text that names the body with care, in two languages, at the level of the individual word.
 
-This thesis reports the observation without insisting on explanation 3 as proven. What can be stated is that the data are consistent with explanation 3 and inconsistent with explanation 1 (given the directional consistency of the laterality corrections). Explanation 2 does not apply to the textual findings themselves, though it may apply to the correspondential interpretation of those findings.
+**3. Laterality is a textual question first.** Where the codices disagree on right and left, the disagreement arises where Codex II lacks the right-hand entry that Codex IV keeps (§5.1). The names' correspondences rest on the parts they create, which do not change.
 
 ### 9.4 Implications for Scholarship
 
-The 365-angel passage has been treated by Nag Hammadi scholarship as filler — "tedious enumeration." Michael Waldstein and Frederik Wisse, editors of the critical edition, pass through it without commentary. Karen King's *The Secret Revelation of John* discusses the passage's cosmological function but does not examine individual angel names or their etymologies. No published scholarship performs the kind of systematic etymological analysis that *The Unnamed Cartography* conducted or the manuscript-level comparison that this thesis presents.
+Scholarship has treated the 365-angel list chiefly as a redactional matter: the longer version of the Apocryphon "differs from the shorter version (BG and NHC III) mainly by the addition of an excerpt from the 'Book of Zoroaster' on the creation of the psychic Adam" (Turner 2001, 139). The text-critical work has been done — the four witnesses are set out in Waldstein and Wisse's synopsis (1995), and the English of the angel list reflects it. What has not been done is a reading of the names as names.
 
-This neglect has consequences. It means that Robinson's transliterations have gone unchecked for nearly fifty years. Errors that would have been caught immediately in the Gospels or the major tractates (Gospel of Thomas, Gospel of Philip) have stood uncorrected in the angel list because no one looked. The passage has been assumed to be without content worth examining closely — a catalog, a list, an exercise in cosmological exhaustion.
-
-The findings of this thesis and its companion suggest otherwise. The angel names are not arbitrary. They encode spiritual qualities. They are systematically assigned to body parts in ways that converge with an independently documented correspondential anatomy. And the Coptic manuscript preserves this encoding more completely than the English translation does. The scholarly neglect of the passage has been, in correspondential terms, a failure to read what the text is actually saying.
+*The Unnamed Cartography* undertook that reading, and this thesis has checked it against the manuscripts. The angel names are not arbitrary. They encode spiritual qualities. They are systematically assigned to body parts in ways that converge with an independently documented correspondential anatomy. And the manuscripts preserve that encoding as the English reports it, with a handful of readings and the Greek and Egyptian vocabulary that only the Coptic shows.
 
 ### 9.5 Limitations and Lacunae
 
-1. **Manuscript condition.** The NHC II,1 manuscript has physical damage (lacunae) that prevents comparison for some names. The findings presented here are limited to legible names.
+1. **Manuscript condition.** NHC II,1 and especially NHC IV,1 have lacunae that prevent comparison for some names. The findings presented here are limited to legible names.
 
-2. **Single manuscript.** This thesis compares against one version — the longer version in NHC II. The shorter versions (NHC III,1 and BG 8502,2) contain abbreviated angel lists that could provide parallel evidence, but they were not consulted for this study.
+2. **Two witnesses.** The body-creation list survives only in the long recension, NHC II,1 and NHC IV,1; the short recension (NHC III,1 and BG 8502,2) lacks it. Where Codex IV is lost, Codex II stands alone.
 
-3. **Etymological uncertainty.** Many angel names remain opaque. Even with corrected Coptic forms, the majority of the 365 names do not yield to Greek, Hebrew, or Aramaic etymology. The translatable names are a minority (43 of ~365). The correspondential analysis applies only where translation is possible.
+3. **Etymological uncertainty.** Many angel names remain opaque. Even with the Coptic forms, the majority of the 365 names do not yield to Greek, Hebrew, or Aramaic etymology. The translatable names are a minority (43 of 365). The correspondential analysis applies only where translation is possible.
 
-4. **Coptic as intermediary.** The Coptic manuscript is itself a translation of a Greek text, which may in turn translate or adapt material from Aramaic or other sources. Terminal consonants that appear in the Coptic may or may not have been present in the Greek Vorlage. The comparison identifies what the Coptic PRESERVES, not what the original CONTAINED.
+4. **Coptic as intermediary.** The Coptic manuscript is itself a translation of a Greek text, which may in turn translate or adapt material from Aramaic or other sources. The comparison identifies what the Coptic PRESERVES, not what the original CONTAINED.
 
-5. **Swedenborg as comparator.** The correspondential evaluation depends on accepting Swedenborg's body-part correspondences as a valid framework for comparison. For readers who do not accept this framework, the textual findings (terminal consonants, laterality corrections, name splits) stand independently as contributions to Coptic textual scholarship, but the correspondential interpretation does not apply.
+5. **Swedenborg as comparator.** The correspondential evaluation depends on accepting Swedenborg's body-part correspondences as a valid framework for comparison. For readers who do not accept this framework, the textual findings (word division, the laterality variants, the readings) stand independently as contributions to Coptic textual study, but the correspondential interpretation does not apply.
 
 ---
 
 ## 10. Conclusion: The Letters They Dropped
 
-The letters they dropped were small things. A terminal N here, a terminal M there. An angel's left shoulder marked as right. Two words read as one. The editorial choices that produced Robinson's English transliterations were reasonable by the standards of their time: smooth the names, standardize the spellings, translate the body parts, move on. The 365-angel list was not where anyone expected to find content worth scrutinizing.
+The letters they dropped were small things. A final ⲛ here, a final ⲙ there. An angel's shoulder on the left in one copy and on the right in another. A Greek word for a grape behind an English word for the uvula. The editorial choices that produced the English names were reasonable and, on inspection, sound: the letters dropped from the names were the linking particle, which the other copy of the text writes apart; the sides were reported as each codex gives them.
 
-But the letters were not redundant. The terminal N in MNIARCHŌN is the letter that confirms "memory-ruler" — and without it, the name is opaque. The terminal N in EUANTHĒN is the letter that confirms "well-flowering" — and without it, the etymology is uncertain. The word STAPHYLĒ, separated from the angel name ACHCHAN, is the Greek anatomical term for the uvula — "grape" — and without recognizing it as a separate word, the text appears to have an untranslatable angel name and a body-part label that the translator supplied. In each case, the Coptic preserves information that the English lost. In each case, the information strengthens the correspondential reading.
+What the letters carry is not a hidden correction but a confirmation. The names on which *The Unnamed Cartography* built its comparison are the names the scribes wrote. The body parts are the body parts they wrote. The sequence of the seven substance-souls — goodness, foreknowledge, divinity, lordship, kingdom, envy, understanding; bone, sinew, flesh, marrow, blood, skin, hair — reads in Coptic as in English, from the structural core to the outermost growth. And the Coptic adds what no translation could keep: that the last of the seven powers, understanding, is "being a person of heart", and that the heart is the organ the correspondential anatomy names as the will.
 
-The laterality corrections tell a sharper story. Four angel names move from right to left — from the understanding side to the will side — and all four carry will-type spiritual qualities: bearing, memory-ruling, weight, exposure. The corrections are not random. They are directionally consistent, and the direction is the one the correspondential framework predicts.
-
-The Coptic body vocabulary tells the deepest story. When the 4th-century scribe wrote ⲫⲏⲧ for the heart, he wrote a word that means both heart and mind — preserving in a single term what the correspondential framework teaches as the unity of will and understanding in the body's central organ. When he wrote ⲛⲁⲧⲕⲁⲥ for the marrow, he wrote "boneless" — defining the most interior substance by its relationship to the structure that contains it, which is precisely how marrow functions in the correspondential anatomy: the inmost good that structural good protects. When he wrote ⲛ̅ϫⲓⲥⲉ ⲙ̅ⲡⲥⲱⲙⲁ for the spine, he wrote "the heights of the body" — naming the vertical axis as elevation, as proximity to the source of influx. These are not translator's choices or editorial glosses. They are the native Coptic words for these body parts, and they describe the body in terms of what each part does spiritually, not what each part looks like on a dissection table.
-
-*The Unnamed Cartography* demonstrated that the angel names converge with Swedenborg's correspondences across 43 translatable entries with zero contradictions. This thesis demonstrates that when we return to the Coptic manuscript — closer to the source, closer to what the scribe actually wrote — the convergence does not weaken. It strengthens. Every correction moves in one direction: toward greater correspondential coherence. Zero corrections move in the opposite direction. The manuscript is more complete than the translation, and the more complete text is the more correspondentially coherent text.
-
-The letters they dropped were the letters that mattered. The Coptic preserves them. And what they preserve is evidence that the body-creation passage of the Apocryphon of John is not tedious enumeration, not cosmological filler, not ancient noise — but a correspondential anatomy, a map of the human form in which every angel name encodes the spiritual function of the body part it creates, written in a system that converges with Swedenborg's independently documented correspondences across 250 years, 10,000 kilometers, and every methodological boundary that separates an 18th-century Swedish visionary from a 2nd-century Egyptian text buried in a jar at the foot of a cliff.
+*The Unnamed Cartography* found that the angel names converge with Swedenborg's correspondences across 43 translatable entries with no contradictions. This thesis finds that when the comparison returns to the Coptic manuscripts — closer to the source, closer to what the scribes actually wrote — the convergence stands on the text as written. The body-creation passage of the Apocryphon of John is not tedious enumeration, not cosmological filler, not ancient noise, but a correspondential anatomy, a map of the human form in which the angel names encode the spiritual function of the body parts they create, in a system that converges with Swedenborg's independently documented correspondences across fourteen centuries, nearly four thousand kilometres, and every methodological boundary that separates an 18th-century Swedish seer from a text copied in fourth-century Egypt and buried at the foot of a cliff.
 
 ---
 
 ## Appendix A: Complete Coptic-to-Robinson Comparison Table
 
-The following table records every angel name where the Coptic manuscript differs from Robinson's transliteration. Names where Coptic and Robinson agree exactly are omitted.
+The following tables record every angel name where the Coptic differs from the English transliteration, or where the two codices differ. Names where Coptic and English agree are omitted.
 
-### A.1 Terminal Consonants
+### A.1 Word Division at the End of the Name
 
-| Robinson | Coptic | Dropped | Body Part | Side | Folio.Line | Etymology Impact |
-|---|---|---|---|---|---|---|
-| Asterechme | ASTERECHMĒN | -N | right eye | — | 15.32 | Opens star+moon/brightness reading |
-| Thaspomocha | THASPOMOCHAM | -M | left eye | — | 15.33 | Opaque; preserved for future analysis |
-| Mniarcon | MNIARCHŌN | -N | left elbow | left | 16.6 | Confirms ἀρχών (ruler); "memory-ruler" |
-| Abitrion | ABITRIŌN | -N | right forearm | right | 16.7 | Opaque; long Ō preserved |
-| Evanthen | EUANTHĒN | -N | left forearm | left | 16.8 | Confirms eu-; εὐανθής (well-flowering) |
-| Basiliademe | BASILIADĒMĒ | -Ē | tonsils | — | 16.2 | βασιλεία + δῆμος? (kingdom of people) |
-| Blaomen | BLAOMĒN | -N | [passion ruler: fear] | — | 18.17 | Opaque; full form preserved |
-
-### A.2 Laterality Corrections
-
-| Angel Name | Robinson | Coptic | Body Part | Coptic Marker | Folio.Line |
-|---|---|---|---|---|---|
-| Tebar | right shoulder | **left** shoulder | ⲧⲛⲁϩⲃⲉ | ⲛ̅ϭⲃⲟⲩⲣ | 16.5–6 |
-| Mniarcon | right elbow | **left** elbow | ⲕⲉⲗⲉⲛⲕⲉϩ | ⲛ̅ϭⲃⲟⲩⲣ | 16.6–7 |
-| Barias | right hip | **left** hip | ⲧϯⲡⲉ | ⲛ̅ϭⲃⲟⲩⲣ | 16.18 |
-| Aroer | right shin | **left** shin | ⲧⲥⲏⲃⲉ | ⲛ̅ϭⲃⲟⲩⲣ | 17.24 |
-
-### A.3 Name Splits
-
-| Robinson | Coptic | Analysis | Body Part | Folio.Line |
+| English | Codex II | Codex IV | Body Part | Note |
 |---|---|---|---|---|
-| Achcha | ACHCHAN + STAPHYLĒ | Angel name + Greek anatomical term (σταφυλή = grape = uvula) | uvula (staphylē) | 16.3 |
+| Asterechme | ⲁⲥⲧⲉⲣⲉⲭⲙⲏⲛ ⲡⲃⲁⲗ (II 15,32) | ⲁⲥⲧⲉⲣⲉⲭⲙⲏ ⲙ̅ⲡⲃⲁⲗ (IV 24,26) | right eye | II's ⲛ̅ is the linker |
+| Thaspomocha | ⲑⲁⲥⲡⲟⲙⲟⲭⲁⲙ ⲡⲃⲁⲗ (II 15,33) | ⲑⲁⲥⲡⲟⲙⲟⲭⲁ ⲙ̅ⲡⲃⲁⲗ (IV 24,27) | left eye | II's ⲙ̅ is the linker |
+| Achcha | ⲁⲭⲭⲁⲛ ⲥⲧⲁⲫⲩⲗⲏ (II 16,3) | ⲁⲭⲭⲁ ⲛ̅ⲥⲧⲁⲫ[ⲩⲗⲏ] (IV 25,1) | uvula | II's ⲛ̅ is the linker |
+| Kriman | ⲕⲣⲓⲙⲁ ⲛ̅ⲛ̅ⲉⲓⲉⲃⲉ (II 16,11) | ⲕⲣⲓⲙⲁⲛ ⲛ̅ⲉ[ⲓⲉⲓⲃ] (IV 25,12) | nails of the hands | English follows IV |
+| Tupelon | ⲧⲩⲡⲏⲗⲟ ⲛⲧⲥⲏⲃⲉ (II 17,1) | ⲧⲩⲡⲏⲗⲟⲛ [ⲧ]ⲥⲏϥⲉ (IV 26,12) | left shin | English follows IV |
+| Areche | ⲁⲣⲉⲭ ⲛ̅ⲧⲕⲟⲓⲗⲓⲁ (II 16,14–15) | ⲁⲣⲉⲭⲏ ⲛ̅ⲧⲕⲟⲓⲗⲓⲁ (IV 25,16) | belly | English follows IV |
+
+### A.2 Laterality: Codex II and Codex IV
+
+| Angel Name | Codex II | Codex IV | English | Locus |
+|---|---|---|---|---|
+| Tebar | left shoulder | right shoulder (left to a lost name) | II, with IV in parentheses | II 16,5–6; IV 25,4–5 |
+| Mniarchōn (IV Mniachōr) | left elbow | right elbow (left to a name ending in ⲉ) | II, with IV in parentheses | II 16,6–7; IV 25,5–7 |
+| Barias | left hip | right hip (Phnouth left hip) | II, with IV in parentheses | II 16,18; IV 25,19–20 |
+| Aroer | right shin (second list, part before name) | — | right shin-bone | II 17,24 |
+
+### A.3 The Uvula
+
+| English | Coptic | Analysis | Body Part | Locus |
+|---|---|---|---|---|
+| Achcha … uvula | ⲁⲭⲭⲁ(ⲛ) ⲥⲧⲁⲫⲩⲗⲏ | Angel name + Greek anatomical term (σταφυλή = grape = uvula) | uvula | II 16,3; IV 25,1 |
 
 ### A.4 Vowel/Consonant Rereadings
 
-| Robinson | Coptic | Key Difference | Etymology Impact | Folio.Line |
+| English | Coptic | Key Difference | Etymology Impact | Locus |
 |---|---|---|---|---|
-| Yeronumos | HIERŌNYMOS | ⲱ (omega) in second syllable | Confirms ἱερώνυμος (sacred name) over ἱερονόμος (sacred law) | 15.33–34 |
-| Phnene | PHNĒMĒ | M (ⲙ) not N (ⲛ) | Opens φήμη (oracle) connection | 17.2 |
-| Beluai | BĒLYAI | ⲏ (long Ē) in first syllable | Opens Belial (בְּלִיַּעַל) connection | 16.9 |
+| Yeronumos | ⲓⲉⲣⲱⲛⲩⲙⲟⲥ | ⲱ (omega) in second syllable | Supports ἱερώνυμος (sacred name) over ἱερονόμος (sacred law) | II 15,33–34 |
+| Phnene | ⲫⲛⲏⲙⲏ | ⲙ, not ⲛ, as third consonant | A link to φήμη (oracle) tentative | II 17,2 |
+| Agromauna | ⲁⲅⲣⲟⲙⲁⲩⲙⲁ | ⲙ, not ⲛ, before the final vowel | The reading ἀγρός + μονή rests on the English *n* | II 16,20; IV 25,23 |
 
 ---
 
 ## Appendix B: Coptic Body-Part Glossary
 
-A glossary of native Coptic body-part terms and their correspondential significance, as they appear in the body-creation passage (Folios 15–19).
+A glossary of the Coptic body-part terms discussed in this thesis, as they appear in the body-creation passage (II 15,13–19,10). Meanings follow Crum (1939); roots, where given, Černý (1976).
 
 ### B.1 Native Coptic Terms
 
-| Coptic | Transliteration | Literal Meaning | English Equivalent | Correspondential Note |
+| Coptic | Transliteration | Meaning | English Equivalent | Correspondential Note |
 |---|---|---|---|---|
-| ⲫⲏⲧ | phēt | heart-mind | heart | Unity of will and understanding in one organ |
-| ⲛ̅ⲕⲁⲥ | nkas | bone | bone | Simple anatomical term |
-| ⲙ̅ⲙⲟⲩⲧ | mmout | sinew/tendon | sinew | That which binds and connects |
-| ⲛⲁⲧⲕⲁⲥ | natkas | boneless | marrow | Interior defined by negation of its container |
-| ⲛ̅ⲥⲛⲟϥ | nsnof | blood | blood | Circulating medium |
-| ⲛ̅ϣⲁⲁⲣⲉ | nšaare | hair | hair | Outermost natural covering |
-| ⲛ̅ϥⲟⲩϩⲉ | nfouhe | skin | skin | Sensory boundary |
-| ⲕⲉⲗⲉⲛⲕⲉϩ | kelenkeh | elbow | elbow | Native joint-name; no Greek equivalent used |
-| ⲡⲉⲕⲟⲩⲛϥ | pekounf | navel | navel | Native term preserving Egyptian body vocabulary |
-| ⲧϩⲛⲱϩⲉ | thnōhe | fear | fear | Native Coptic, chosen over available Greek φόβος |
-| ⲛ̅ϫⲓⲥⲉ ⲙ̅ⲡⲥⲱⲙⲁ | njise mpsōma | heights of the body | spine | Vertical axis named as elevation |
-| ⲧⲙⲉⲥⲧϩⲏⲧ | tmesthēt | heart-region | chest | Region defined by its contents |
-| ⲧⲛⲁϩⲃⲉ | tnahbe | shoulder | shoulder | — |
-| ⲧϯⲡⲉ | ttipe | hip | hip | — |
-| ⲧⲥⲏⲃⲉ | tsēbe | shin | shin | — |
-| ⲧⲕⲗ̅ⲗⲉ | tklle | calf | calf | — |
+| ϩⲏⲧ (ⲙ̅ⲫⲏⲧ) | hēt | heart; in usage also mind | heart | Root of ⲙⲛⲧⲣⲙⲛϩⲏⲧ, "understanding" |
+| ⲕⲁⲥ (ⲛ̅ⲕⲁⲥ) | kas | bone | bone | Created by goodness |
+| ⲙⲟⲩⲧ (ⲙ̅ⲙⲟⲩⲧ) | mout | sinew; neck | sinew | That which binds and connects |
+| ⲁⲧⲕⲁⲥ (S ⲁⲗⲧⲕⲁⲥ) | atkas | marrow; root "pain-remover" | marrow | Created by lordship within the bone |
+| ⲥⲛⲟϥ | snof | blood | blood | Circulating medium |
+| ϣⲁⲁⲣ (pl. ϣⲁⲁⲣⲉ) | šaar | skin | skin | Created by envy; the threshold |
+| ϥⲱ (ϥⲟⲩϩⲉ) | fō | hair | hair | Created by understanding; the outermost |
+| ⲕⲉⲗⲉⲛⲕⲉϩ | kelenkeh | elbow | elbow | Native joint-name |
+| ϩⲟⲗⲡⲉ (ⲛ̅ⲑⲟⲗⲡⲉ) | holpe | navel | navel | — |
+| ⲕⲟⲩⲛ⸗ (ⲡⲉⲕⲟⲩⲛϥ) | koun- | bosom | womb (English) | — |
+| ϩⲛⲱϩⲉ | hnōhe | fear (Akhmimic) | fear | Native Egyptian beside three Greek passions |
+| ϫⲓⲥⲉ (ⲛ̅ⲛ̅ϫⲓⲥⲉ ⲙ̅ⲡⲥⲱⲙⲁ) | jise | back; spine, vertebra | spine | The axis of the trunk |
+| ⲙⲉⲥⲧϩⲏⲧ | mesthēt | breast | chest | Carries ϩⲏⲧ in its form |
+| ⲛⲁϩⲃⲉ | nahbe | shoulder | shoulder | Power (*AC* §4937) |
+| ϯⲡⲉ | tipe | hip, loins | hip | — |
+| ⲥⲏⲃⲉ | sēbe | shin | shin | — |
+| ⲕⲗⲗⲉ | klle | ankle (Crum's attestations) | knee (English) | — |
 
 ### B.2 Greek Loanwords
 
@@ -530,42 +499,40 @@ A glossary of native Coptic body-part terms and their correspondential significa
 | ⲉⲛⲕⲉⲫⲁⲗⲟⲥ | ἐγκέφαλος | brain | Technical medical term |
 | ⲕⲟⲓⲗⲓⲁ | κοιλία | belly/abdomen | — |
 | ⲥⲧⲟⲙⲁⲭⲟⲥ | στόμαχος | stomach | — |
-| ⲏⲡⲁⲣ | ἧπαρ | liver | — |
+| ϩⲏⲡⲁⲣ | ἧπαρ | liver | — |
 | ⲥⲡⲗⲏⲛ | σπλήν | spleen | — |
 | ⲛⲉⲩⲙⲟⲛⲓⲛ | πνεύμων | lung | — |
+| ⲫⲗⲉⲯ | φλέψ | vein | — |
 | ⲁⲣⲧⲏⲣⲓⲁ | ἀρτηρία | artery | — |
 | ⲙⲏⲣⲟⲥ | μηρός | thigh | — |
 | ⲁⲓⲇⲟⲓⲟⲛ | αἰδοῖον | genitals | — |
 | ⲡⲁⲣⲓⲥⲑⲙⲓⲟⲛ | παρίσθμιον | tonsils | — |
 | ⲥⲫⲟⲛⲧⲩⲗⲟⲥ | σφόνδυλος | vertebra | — |
 | ⲩⲡⲟⲭⲟⲛⲣⲓⲟⲥ | ὑποχόνδριον | flank/hypochondrium | — |
-| ⲥⲧⲁⲫⲩⲗⲏ | σταφυλή | grape (= uvula) | Medical term; the angel name is ACHCHAN |
+| ⲥⲧⲁⲫⲩⲗⲏ | σταφυλή | grape (= uvula) | Medical term; the angel name is ACHCHA |
 
 ---
 
 ## Works Cited
 
-### Primary Sources
+**Primary Sources:**
 
-- Linssen, M. *Nag Hammadi Library Complete Transcription*. 2024. Coptic source texts (NHC II,1 Folios 15–19).
-- Robinson, James M., ed. *The Nag Hammadi Library in English*. 3rd rev. ed. San Francisco: HarperSanFrancisco, 1990.
-- Layton, Bentley, ed. *Nag Hammadi Codex II,2–7: Together with XIII,2*, Brit. Lib. Or.4926(1), and P.Oxy. 1, 654, 655. Nag Hammadi Studies 20. Leiden: Brill, 1989.
-- Waldstein, Michael, and Frederik Wisse, eds. *The Apocryphon of John: Synopsis of Nag Hammadi Codices II,1; III,1; and IV,1 with BG 8502,2*. Nag Hammadi and Manichaean Studies 33. Leiden: Brill, 1995.
+1. Diogenes Laertius. *Lives of Eminent Philosophers.* Translated by R. D. Hicks. 2 vols. Loeb Classical Library 184–185. Cambridge, MA: Harvard University Press, 1925. The Stoic doctrine of the four passions at 7.110–116.
+2. Linssen, Martijn A. T. *Nag Hammadi Library Complete Transcription.* Thomas Miscellaneous, Part X. 2024. A Unicode transcription of all the codices; the Coptic of the Apocryphon of John (II,1 and IV,1) is quoted from it, in the extraction kept in the companion repository `nag-hammadi-analysis`.
+3. Swedenborg, Emanuel. *Arcana Coelestia.* Translated by John Clowes, revised and edited by John Faulkner Potts. 12 vols. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number as *AC*; heart and lungs at §3888, the eyes at §4410, arms and shoulders at §§4933, 4937, the right and left sides and the right ear at §10061, hair at §3301, the skin at §5553.
+4. Swedenborg, Emanuel. *Heaven and Hell.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number as *HH*; the three heavens in the form of the body at §65, the quarters at §§141–153.
 
-### Swedenborgian Sources
+**Scholarly Works:**
 
-- Swedenborg, Emanuel. *Arcana Coelestia* [Heavenly Secrets]. 12 vols. 1749–1756. References by section number (AC §).
-- Swedenborg, Emanuel. *Heaven and Hell* [De Caelo et Inferno]. 1758. References by section number (HH §).
-- Swedenborg, Emanuel. *Divine Love and Wisdom* [De Divino Amore et Divina Sapientia]. 1763. References by section number (DLW §).
-- Swedenborg, Emanuel. *Spiritual Diary* [Diarium Spirituale]. Posthumous. References by entry number (SD §).
+5. Černý, Jaroslav. *Coptic Etymological Dictionary.* Cambridge: Cambridge University Press, 1976.
+6. Crum, Walter E. *A Coptic Dictionary.* Oxford: Clarendon Press, 1939.
+7. Robinson, James M., ed. *The Nag Hammadi Library in English.* 3rd rev. ed. San Francisco: HarperSanFrancisco, 1990. The Apocryphon of John introduced and translated by Frederik Wisse, with the Codex IV variants in parentheses; the dating of the codices in the general introduction.
+8. Turner, John D. *Sethian Gnosticism and the Platonic Tradition.* Bibliothèque copte de Nag Hammadi, Section « Études » 6. Québec: Les Presses de l'Université Laval; Louvain: Peeters, 2001.
+9. Waldstein, Michael, and Frederik Wisse, eds. *The Apocryphon of John: Synopsis of Nag Hammadi Codices II,1; III,1; and IV,1 with BG 8502,2.* Nag Hammadi and Manichaean Studies 33. Leiden: E. J. Brill, 1995.
 
-### Secondary Scholarship
+**Internal Library Documents:**
 
-- King, Karen L. *The Secret Revelation of John*. Cambridge, MA: Harvard University Press, 2006.
-
-### Companion Theses (This Repository)
-
-- [The Unnamed Cartography: A Systematic Validation of Swedenborgian Body-Part Correspondences Against the 365-Angel List of the Apocryphon of John](The%20Unnamed%20Cartography_%20A%20Systematic%20Validation%20of%20Swedenborgian%20Body-Part%20Correspondences%20Against%20the%20365-Angel%20List%20of%20the%20Apocryphon%20of%20John.md)
-- [The Tongue Beneath the Translation: Coptic Vocabulary as Material Evidence for the Correspondential Substrate of the Nag Hammadi Library](The%20Tongue%20Beneath%20the%20Translation_%20Coptic%20Vocabulary%20as%20Material%20Evidence%20for%20the%20Correspondential%20Substrate%20of%20the%20Nag%20Hammadi%20Library.md)
-- [The Book of Zoroaster and the Children of the East: Material Evidence for the Ancient Word Transmission Hypothesis from the Nag Hammadi Apocryphon of John](The%20Book%20of%20Zoroaster%20and%20the%20Children%20of%20the%20East_%20Material%20Evidence%20for%20the%20Ancient%20Word%20Transmission%20Hypothesis%20from%20the%20Nag%20Hammadi%20Apocryphon%20of%20John.md)
-- [The Living Library: Correspondential Architecture Across the Nag Hammadi Collection](The%20Living%20Library_%20Correspondential%20Architecture%20Across%20the%20Nag%20Hammadi%20Collection.md)
+10. [The Book of Zoroaster and the Children of the East: Material Evidence for the Ancient Word Transmission Hypothesis from the Nag Hammadi Apocryphon of John](The%20Book%20of%20Zoroaster%20and%20the%20Children%20of%20the%20East_%20Material%20Evidence%20for%20the%20Ancient%20Word%20Transmission%20Hypothesis%20from%20the%20Nag%20Hammadi%20Apocryphon%20of%20John.md). The analysis of the citation of the book of Zoroaster (§8.3).
+11. [The Living Library: Correspondential Architecture Across the Nag Hammadi Collection](The%20Living%20Library_%20Correspondential%20Architecture%20Across%20the%20Nag%20Hammadi%20Collection.md). The correspondential lens as applied across the collection (§2.1).
+12. [The Tongue Beneath the Translation: Coptic Vocabulary as Material Evidence for the Correspondential Substrate of the Nag Hammadi Library](The%20Tongue%20Beneath%20the%20Translation_%20Coptic%20Vocabulary%20as%20Material%20Evidence%20for%20the%20Correspondential%20Substrate%20of%20the%20Nag%20Hammadi%20Library.md). The companion study of the library's Coptic vocabulary (§7).
+13. [The Unnamed Cartography: A Systematic Validation of Swedenborgian Body-Part Correspondences Against the 365-Angel List of the Apocryphon of John](The%20Unnamed%20Cartography_%20A%20Systematic%20Validation%20of%20Swedenborgian%20Body-Part%20Correspondences%20Against%20the%20365-Angel%20List%20of%20the%20Apocryphon%20of%20John.md). The 43-name comparison, the substance-soul sequence and the spiritual compass taken as baseline throughout.

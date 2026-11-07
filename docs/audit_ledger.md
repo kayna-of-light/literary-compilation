@@ -16,8 +16,9 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > §3.8, and the open work is the research file `docs/research_questions/apj_angel_list_coptic_reading.md` (rows of
 > 2026-11-06 and 2026-11-07). Never recreate the thesis or cite it. PRs #64, #65 and #68 are merged. 75 documents are
 > audited of 253 (`find data -name "*.md" | wc
-> -l`). GitHub write access works. One research question opened tonight (the *Unnamed Cartography* Agromauna score — the
-> author's decision). Name the nightly branch for the Amsterdam date. swedenborg.com served four SE PDFs on 2026-10-30 with 4 s
+> -l`). GitHub write access works. Open research: the Agromauna reading (facsimile needed) and the Coptic-first reading of the angel list (file
+> above). **Nothing is waiting on an author decision from this batch**: a fact is corrected, not put to the author
+> (procedure § 4.4); only what the session cannot read stays open. Name the nightly branch for the Amsterdam date. swedenborg.com served four SE PDFs on 2026-10-30 with 4 s
 > pauses and no 429 (`swedenborg_foundation_<title>[_0N].pdf`; *AE* 01–06, *AC* 01–12, *AR* 01–02, *TCR* 01–02); if it
 > 429s, take them from the author's Drive (register row "Swedenborg full text when swedenborg.com returns 429").
 > e-swedenborg (`d6943/<n>.htm` for *AC*, `d5399/<n>.htm` for *HH*, browser UA) served every section tonight without a
@@ -535,8 +536,8 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > state in each document what the date rests on (rule "A date is a claim to be tested"). *The Living Book* already
 > carries "after 348, probably late fourth century" (2026-11-01).
 >
-> **Awaiting external answers** (open): the 2026-11-06 author decision on *Unnamed Cartography*'s Agromauna score (both
-> codices read ⲁⲅⲣⲟⲙⲁⲩⲙⲁ; the etymology ἀγρός + μονή needs ν); the 2026-11-03 author decision on which Kephalaia pipeline run *The Ancient Word Recovered* reports (110/22/13/52/886 vs the preserved 100/20/12/44/934); the `[GDR]` *Cosmic Cradle* question
+> **Awaiting external answers** (open): the Agromauna reading — Linssen ⲁⲅⲣⲟⲙⲁⲩⲙⲁ, Wisse "Agromauna" — to be read in the
+> facsimiles (II 16,20; IV 25,23); the answer fixes *Unnamed Cartography* §§3.4, 3.8 either way; the 2026-11-03 author decision on which Kephalaia pipeline run *The Ancient Word Recovered* reports (110/22/13/52/886 vs the preserved 100/20/12/44/934); the `[GDR]` *Cosmic Cradle* question
 > (2026-10-06); the `[NDE]` soul-path decision (2026-10-05); the four 2026-10-01 questions; Arvind/Bibi/Santosh
 > testimony wording; Koester/Perrin/Pervo Pastorals ranges; "Stevenson and Cook 326 cases"; Dole edition dates;
 > Gardner "2nd ed. 2020"; the *Protective Garment* annotation question; *The River* locator question (LOW); the

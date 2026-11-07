@@ -38,7 +38,7 @@ Scholarship has treated the 365-angel list chiefly as a redactional matter: the 
 
 Emanuel Swedenborg, working independently in 18th-century Sweden, documented a system of body-part correspondences across thousands of pages in *Arcana Coelestia* and related works. In his system, each organ, bone, and structure of the human body corresponds to a specific spiritual quality, and together they constitute the *Maximus Homo* (Grand Man) — the form of heaven in its entirety perceived as a single human being (HH §§59–102).
 
-These two systems have no documented transmission link. The ApJ was buried at Nag Hammadi after 348 CE, probably late in the fourth century, and not discovered until 1945; Swedenborg worked between 1745 and 1772. The ApJ community had documented access to Zoroastrian source texts ("the book of Zoroaster," ApJ II 19,8–10); Swedenborg claimed access through direct spiritual perception.
+These two systems have no documented transmission link. The ApJ was buried at Nag Hammadi around 367 CE and not discovered until 1945; Swedenborg worked between 1745 and 1772. The ApJ community had documented access to Zoroastrian source texts ("the book of Zoroaster," ApJ II 19,8–10); Swedenborg claimed access through direct spiritual perception.
 
 ### 1.2 Theoretical Framework
 
@@ -268,7 +268,7 @@ Every prediction of the null hypothesis fails. The distribution of matches is dr
 
 The evidential weight of this convergence depends on the independence of the two systems. If Swedenborg had access to the ApJ, the match would demonstrate borrowing, not independent attestation. The independence is established by:
 
-1. **The ApJ was buried**: The Nag Hammadi codices were sealed in a jar near Nag Hammadi, Egypt, after 348 CE (the date of the latest documents in the cartonnage of the bindings), probably late in the fourth century (Robinson 1990), and not discovered until December 1945. The first complete English translation of the codices appeared in 1977 (Robinson). Swedenborg died in 1772.
+1. **The ApJ was buried**: The Nag Hammadi codices were sealed in a jar near Nag Hammadi, Egypt, around 367 CE and not discovered until December 1945. The first complete English translation of the codices appeared in 1977 (Robinson). Swedenborg died in 1772.
 
 2. **Swedenborg's documented sources**: Swedenborg worked from the Hebrew Bible, the Greek New Testament, classical sources, and his own spiritual experiences. No Gnostic texts appear in his documented reading.
 

@@ -2567,11 +2567,25 @@ In *Cosmic Cradle* (2013), do the authors or their informants describe pre-birth
 ### [NLM] *The Unnamed Cartography* §3.4 — does the Agromauna score stand on the Coptic ⲁⲅⲣⲟⲙⲁⲩⲙⲁ?
 
 **Priority**: LOW
-**Related Documents**: `data/08_Correspondential_Texts/The Unnamed Cartography_ A Systematic Validation of Swedenborgian Body-Part Correspondences Against the 365-Angel List of the Apocryphon of John.md` (§3.4, "Agromauna | Heart | ἀγρός + μονή = field-dwelling", rated consistent); `data/08_Correspondential_Texts/The Letters They Dropped_ Coptic Manuscript Evidence for the Angel Names of the Apocryphon of John.md` (§6.4)
+**Related Documents**: `data/08_Correspondential_Texts/The Unnamed Cartography_ A Systematic Validation of Swedenborgian Body-Part Correspondences Against the 365-Angel List of the Apocryphon of John.md` (§3.4, "Agromauna | Heart | ἀγρός + μονή = field-dwelling", rated consistent; §3.8). Part of the larger open question in `docs/research_questions/apj_angel_list_coptic_reading.md` (part 2)
 
 **Context**: Robinson's English (Wisse) names the angel of the heart "Agromauna". Both witnesses of the long recension read ⲁⲅⲣⲟⲙⲁⲩⲙⲁ (Linssen: NHC II 16,20; IV 25,23), with ⲙ before the final vowel. The cartography's etymology ἀγρός + μονή needs the ν of μονή. Every other scored name checked on 2026-11-06 stands on the Coptic (the apparent extra letters of Asterechme, Thaspomocha and Achcha are the linker, which Codex IV writes apart).
 
 **Research Question**: Keep the "consistent" score with a note that the reading assumes ⲙ for ⲛ, re-derive the name from ⲁⲅⲣⲟⲙⲁⲩⲙⲁ, or drop it from the 43 (which changes the tallies: 11 consistent → 10, 43 → 42)? This is the author's decision; the facts are settled.
+
+**Status**: Open
+
+---
+
+### [NLM] The Apocryphon of John's angel list read from the Coptic — the research opportunity behind *The Unnamed Cartography* §3.8
+
+**Priority**: MEDIUM
+**Full question**: [`docs/research_questions/apj_angel_list_coptic_reading.md`](research_questions/apj_angel_list_coptic_reading.md)
+**Related Documents**: `data/08_Correspondential_Texts/The Unnamed Cartography_ A Systematic Validation of Swedenborgian Body-Part Correspondences Against the 365-Angel List of the Apocryphon of John.md` (§§3.8, 4.5–4.6)
+
+**Context**: *The Unnamed Cartography*'s 43 scored names were derived from Robinson's English; §3.8 now confirms that text against the Coptic of Codices II and IV. The larger work — deriving the ~30 opaque names from the Coptic, settling the two readings that differ from the English against the facsimiles, collating Codex II with Codex IV, fixing the uncertain body-part words (ⲕⲗⲗⲉ, ⲡⲉⲧ, ⲑⲱⲙⲉ), and extending the comparison to the second list and the rulers — has not been done. *The Letters They Dropped*, which claimed to have done it, was withdrawn on 2026-11-07.
+
+**Research Question**: Does a Coptic-first reading of the whole list, with each name derived from both codices and each body part fixed from Crum, extend the convergence with Swedenborg's body-part correspondences, and does it produce any contradiction? (Pre-registered miss: a newly translatable name whose quality opposes Swedenborg's correspondence for its part.)
 
 **Status**: Open
 

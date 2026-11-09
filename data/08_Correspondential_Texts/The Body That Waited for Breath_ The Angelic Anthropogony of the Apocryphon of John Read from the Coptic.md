@@ -4,7 +4,7 @@
 
 ---
 
-> **Abstract.** The long recension of the Apocryphon of John (NHC II,1 and IV,1) describes the making of the human body by 365 angels, then says that the finished body lay motionless "for a long time" until the Mother's power was breathed into it. This thesis reads the whole passage (II 15,1–20,9; IV 24–29) from the Coptic of both codices. It settles every body word from Crum's and Černý's dictionaries, grades every name by how confidently it can be read, and compares the result with Swedenborg's doctrine of the Grand Man. The passage is a sequence of distinct operations, each marked by its own grammar: seven powers make the substances, seventy-two angels make the members, seven authorities oversee them, thirty more operate the members, and rulers are set over the faculties, the four qualities of matter and the four Stoic passions. Each codex restores what the other's copyist lost, and together they give exactly seventy-two makers; the ghost angel "Zathoth" is the numeral seven before Athoth. Twenty-nine of the 130 surviving names can be read with confidence. Wherever a name can be read, it suits its member: judgment for the nails, breaking for the shoulder, the book for the kidneys, the Eye for the imagination. No readable name contradicts its member. One word, ⲕⲱϩ, "jealousy", runs through four levels of the story: the archon's boast, the skin of the body, a passion within it, and the makers' answer to the living man. The completed but lifeless body is a narrative statement of Swedenborg's law that angels, spirits and men "are only recipients of life" (*AC* §3742). The passage is a correspondence map of the human form that distinguishes the vessel from the life that flows into it, and it agrees with an account its author could not have known.
+> **Abstract.** The long recension of the Apocryphon of John (NHC II,1 and IV,1) describes the making of the human body by 365 angels, then says that the finished body lay motionless "for a long time" until the Mother's power was breathed into it. This thesis reads the whole passage (II 15,1–20,9; IV 24–29) from the Coptic of both codices. It settles the body words from the Coptic dictionaries, grades every name, and compares the result with Swedenborg's doctrine of the Grand Man. The passage is a sequence of distinct operations, each marked by its own grammar: seven powers make the substances, seventy-two angels make the members, seven authorities oversee them, thirty more operate the members, and rulers are set over the faculties, the four qualities of matter and the four Stoic passions. Each codex restores what the other's copyist lost, and together they give exactly seventy-two makers, the decans of the Egyptian year doubled, as Quack showed; the ghost angel "Zathoth" is the numeral seven before Athoth. Forty of the 130 surviving names can be read with confidence. Many are Egyptian decan and god names; where a name is a word, it suits its member: judgment for the nails, breaking for the shoulder, the Eye for the imagination. No readable name contradicts its member. One word, ⲕⲱϩ, "jealousy", runs through four levels of the story: the archon's boast, the skin of the body, a passion within it, and the makers' answer to the living man. The completed but lifeless body is a narrative statement of Swedenborg's law that angels, spirits and men "are only recipients of life" (*AC* §3742). The passage is a correspondence map of the human form that distinguishes the vessel from the life that flows into it, and it agrees with an account its author could not have known.
 
 > **Keywords.** Apocryphon of John, anthropogony, angel names, melothesia, Coptic, NHC II,1, NHC IV,1, Grand Man, Swedenborg, correspondences, influx, substance-souls, Stoic passions, Book of Zoroaster, Ancient Word
 
@@ -64,9 +64,9 @@ That check confirmed what had already been scored. It did not do the larger work
 
 The new question is therefore not whether forty-two names agree with Swedenborg, but what the passage is as a whole. Read from the Coptic, the answer is clearer than the English allows. The passage is not one list but a sequence of distinct operations, each marked in the Coptic by its own grammar. The seven powers make substances (ⲁⲥⲧⲁⲙⲓⲟ ⲛ̅ⲟⲩⲯⲩⲭⲏ ⲛ̅-, "she created a soul of …"). The first company makes members (ⲁϥⲧⲁⲙⲓⲟ, "he created", then the name with its object). The second company does not make anything: its members are "those who are active part by part in the members" (ⲛⲉⲧⲉⲛⲉⲣⲅⲉⲓ ⲇⲉ ⲕⲁⲧⲁ ⲙⲉⲣⲟⲥ ϩⲣⲁⲓ̈ ϩⲛ̅ ⲛ̅ⲙⲉⲗⲟⲥ, II 17,8–9), and their list reverses the order, the part first and the name after it. Above these stand rulers of the faculties of the soul, of the qualities of matter and of the passions. Substance, structure, operation, governance, faculty, quality and passion follow one another in the order in which a body is built, made to move, given perception, and bound to matter. And at the end the whole edifice is inert. Nothing the archons built could move until a breath they did not own entered it.
 
-The central finding has three parts. The first is textual. The two manuscripts, read together, recover the archetype of the first list exactly: Codex II has sixty-nine names, having lost the right-hand angel at the shoulder, elbow and hip; Codex IV has the right-hand angels but has lost the left ankle and the right foot; the union of the two is seventy-two, twice the thirty-six decans. The number of overseers is recovered the same way: Codex II writes ⲡⲉ ⲍ ⲁⲑⲱⲑ, "they are 7: Athoth …" (II 17,8), and names four; Codex IV names all seven, the seven authorities of the chief archon (IV 26,17–20). The ghost angel "Zathoth" is the numeral seven and the name Athoth.
+The central finding has three parts. The first is textual. The two manuscripts, read together, recover the archetype of the first list exactly, as Joachim Quack showed in 1995: Codex II has sixty-nine names, having lost one entry at each of the shoulder, elbow and loins; Codex IV has those entries but has lost the left ankle and the right foot; the union of the two is seventy-two, the thirty-six Egyptian decans doubled. The number of overseers is recovered the same way: Codex II writes ⲡⲉ ⲍ ⲁⲑⲱⲑ, "they are 7: Athoth …" (II 17,8), and names four; Codex IV names all seven, the seven authorities of the chief archon (IV 26,17–20). The ghost angel "Zathoth" is the numeral seven and the name Athoth.
 
-The second part is lexical. Where the Coptic body words are settled from the lexica, several English labels move, and some of the reports' readings with them. The sixth power, envy, makes the skin and the seventh, understanding, the hair (ϣⲁⲁⲣⲉ, ϥⲟⲩϩⲉ; Codex IV ⲃⲟⲩϩⲉ). The marrow is ⲁⲗⲧⲕⲁⲥ, "pain-remover" by its root, not "boneless". The word for understanding is built on the word for the heart. The faculty that the text sets over imagination is named ⲟⲩⲙⲙⲁⲁ, which is Greek ὄμμα, "eye", and Swedenborg states that the eye is "the source of man's imagination" (*Arcana Coelestia* §4408). The mother of the four qualities is said in the text to "mix with them all" (ⲥⲧⲏϩ ⲛⲙ̅ⲙⲁⲩ ⲧⲏⲣⲟⲩ, II 18,12–13), and her name, ⲟⲛⲟⲣⲑⲟⲭⲣⲁⲥ in Codex IV, carries the Greek κρᾶσις, "mixture". The four chief demons govern exactly the four passions of Stoic moral psychology, and both scribes name fear with a native Egyptian word where they name the other three in Greek.
+The second part is lexical. Many of the names are Egyptian: more than twenty of the seventy-two makers bear the names of decans, the star-gods of the Egyptian sky, and others the names of Egyptian gods (Quack 1995). Where the Coptic body words are settled from the lexica, several English labels move, and some of the reports' readings with them. The sixth power, envy, makes the skin and the seventh, understanding, the hair (ϣⲁⲁⲣⲉ, ϥⲟⲩϩⲉ; Codex IV ⲃⲟⲩϩⲉ). The marrow is ⲁⲗⲧⲕⲁⲥ, "pain-remover" by its root, not "boneless". The word for understanding is built on the word for the heart. The faculty that the text sets over imagination is named ⲟⲩⲙⲙⲁⲁ, which is Greek ὄμμα, "eye", and Swedenborg states that the eye is "the source of man's imagination" (*Arcana Coelestia* §4408). The mother of the four qualities is said in the text to "mix with them all" (ⲥⲧⲏϩ ⲛⲙ̅ⲙⲁⲩ ⲧⲏⲣⲟⲩ, II 18,12–13), and her name, ⲟⲛⲟⲣⲑⲟⲭⲣⲁⲥ in Codex IV, carries the Greek κρᾶσις, "mixture". The four chief demons govern exactly the four passions of Stoic moral psychology, and both scribes name fear with a native Egyptian word where they name the other three in Greek.
 
 The third part is correspondential. Read degree by degree, the passage builds the body in the order Swedenborg describes for the Grand Man: the human form is first the form of heaven (*Heaven and Hell* §59), its members are provinces each with its own function (*AC* §§3883ff., 4039ff., 4403ff., 4622ff., 4652ff., 4791ff., 4931ff., 5050ff., 5171ff., 5377ff., 5552ff.), and its life is not its own: "there is one only life, which is from the Lord alone, and … angels, spirits, and men are only recipients of life" (*AC* §3742). The Apocryphon states the same in narrative: the archons can build every member and set a ruler over every function, and the result does not move. The body that the 365 made waited for breath.
 
@@ -86,7 +86,7 @@ Applied to a list of body parts, the method has a specific discipline. The funct
 
 ### 2.2 The Coptic Text: Two Witnesses of the Long Recension
 
-The Apocryphon of John survives in four copies: two of a long recension (NHC II,1 and IV,1) and two of a short recension (NHC III,1 and the Berlin Codex, BG 8502,2). Only the long recension contains the body-creation passage and its citation of the book of Zoroaster; the longer version "differs from the shorter version (BG and NHC III) mainly by the addition of an excerpt from the 'Book of Zoroaster' on the creation of the psychic Adam" (Turner 2001, 139). The passage therefore has two witnesses, and both are read here.
+The Apocryphon of John survives in four copies: two of a long recension (NHC II,1 and IV,1) and two of a short recension (NHC III,1 and the Berlin Codex, BG 8502,2). Only the long recension contains the angel lists and the citation of the book of Zoroaster (the seven substance-souls stand also in the short recension, BG 43,6–44,7; Quack 1995, 98); the longer version "differs from the shorter version (BG and NHC III) mainly by the addition of an excerpt from the 'Book of Zoroaster' on the creation of the psychic Adam" (Turner 2001, 139). The passage therefore has two witnesses, and both are read here.
 
 The Coptic is read in Martijn Linssen's Unicode transcription of the codices (Linssen 2024), in the extraction kept in the companion repository `nag-hammadi-analysis`. References are by codex, page and line: II 16,20 is Codex II, page 16, line 20. The passage occupies II 14,13–19,33, and its Codex IV parallel IV 23–30, with the lists at IV 24,1–29,18. Codex IV is badly damaged; where its text is a modern restoration (square brackets in the transcription) it is not used as evidence. The four witnesses are set side by side in the synopsis of Waldstein and Wisse (1995); the English of the long recension is Frederik Wisse's translation in Robinson's edition (Robinson 1990), which prints Codex II and gives Codex IV's variants in parentheses. The English is consulted as a translation; the readings are the Coptic's.
 
@@ -105,7 +105,7 @@ The third is that etymologies are graded. The names are a polyglot nomenclature,
 | Grade | Criterion | Examples |
 |---|---|---|
 | **A — transparent** | The Coptic letters spell a known word without emendation, or the text itself glosses the name | ⲁⲙⲏⲛ (*ʾāmēn*); ⲕⲣⲓⲙⲁ (κρίμα); ⲥⲧⲁⲫⲩⲗⲏ (σταφυλή); ⲙⲏⲛⲓⲅⲅ- (μήνιγγ-); ⲟⲩⲙⲙⲁⲁ (ὄμμα); ⲫⲗⲟⲝ- (φλόξ); ⲁⲑⲩⲣⲱ (Ἀθύρ, Hathor); ⲙⲓⲭⲁⲏⲗ; ⲓⲁⲕⲟⲩⲓⲃ |
-| **B — probable** | A known word or name is visible in the spelling with a minimal assumption | ⲭⲛⲟⲩⲙ- (Khnum); ⲫⲑⲁ- (Ptah); ⲑⲁⲃⲓⲛⲱⲑ (*tabnît*, "pattern"); ⲓⲉⲣⲱⲛⲩⲙⲟⲥ (ἱερώνυμος) |
+| **B — probable** | A known word or name is visible in the spelling with a minimal assumption | ⲭⲛⲟⲩⲙ- (the decan Chnoumis); ⲫⲑⲁ- (Ptah); ⲁⲣⲟⲏⲣ (Haroeris); ⲑⲁⲃⲓⲛⲱⲑ (*tabnît*, "pattern"); ⲓⲉⲣⲱⲛⲩⲙⲟⲥ (ἱερώνυμος) |
 | **C — possible** | A reading requires a compound, an emendation, or a sound change; it is offered, not relied on | most remaining names |
 
 Only grades A and B carry the argument. Grade C readings are recorded where the library's earlier work or the two reports proposed them, and they are labelled as such. A correspondence built on a grade C reading is not counted as a convergence.
@@ -219,7 +219,9 @@ Codex IV has its own leap of the same kind. Where Codex II reads:
 
 Codex IV passes directly from "the right ankle" to Boabel, "its toes" (ⲛ̅ⲧⲕⲗ̅]ⲗ[ⲉ] ⲛ̅ⲟ[ⲩ]ⲛⲁⲙ˙ ⲃⲟⲁⲃⲉⲗ ⲛ̅[ⲛⲉⲥⲧⲏⲃⲉ], IV 26,13–14): its scribe's eye has leapt from the first ⲛ̅ⲟⲩⲛⲁⲙ to the second, losing Phnēmē and Phiouthrom. Elsewhere, wherever both codices survive, they agree in the names and their order, apart from spellings (§14).
 
-Each manuscript, then, is a witness to what the other has lost. Codex II preserves the two entries Codex IV dropped; Codex IV preserves the three Codex II dropped. Together they give sixty-nine and three: **seventy-two** makers of the members. The number is not stated in the text, and it is recovered here only by adding the two witnesses together; but it is exact, and it is not an accident of counting. Seventy-two is twice the thirty-six decans of the Egyptian sky, and Joachim Quack's study of the passage, published under the title "Decans and the Deification of the Limbs: Ancient Egyptian Traditions in the Apocryphon of John", traced exactly these two Egyptian traditions behind it (Quack 1995). The number fits that inheritance: in the Apocryphon, the members of the body are made by as many powers as there are five-day halves of the decans in the circle of the year.
+Each manuscript, then, is a witness to what the other has lost. Codex II preserves the two entries Codex IV dropped; Codex IV preserves the three Codex II dropped. Together they give sixty-nine and three: **seventy-two** makers of the members. The number is not stated in the text, and it is recovered only by adding the two witnesses together; but it is exact. The reconstruction is Quack's: he counted sixty-nine in Codex II, three more supplied by Codex IV, and two dropped by Codex IV at IV 26,13, exactly as above (Quack 1995, 98, 110). Giversen had already proposed seventy-two from inconsistencies in Codex II alone, before Codex IV was known; Tardieu counted seventy, and Layton seventy-three by restoring a left-hand entry at II 16,29 (Quack 1995, 98 n. 8). Quack also explained the number. Seventy-two cannot be separated from its half, the thirty-six decans of the Egyptian sky, the star-groups about ten degrees apart by whose risings the Egyptians told the hours of the night through the year. In the Hellenistic astrological work called the Salmeschiniaka, of which a papyrus fragment survives, the thirty-six decans are joined by the thirty-six pentads, the rulers of each five degrees, to make seventy-two figures, and these, as in the Apocryphon, are assigned to members of the body; Iamblichus and Proclus also know the Egyptian division of the heavens into thirty-six and seventy-two (Quack 1995, 101). The alternative is that the decan series was simply run twice, once for each side of the body. Either way the seventy-two makers of the members are the decans of the year.
+
+The decans also explain why the makers are assigned to members at all. Egyptian religious texts from the Pyramid Texts onward identify the members of the body one by one with gods — "my face is that of a falcon … my teeth are those of Sopdu" — in a genre Egyptologists call the deification of the members (*Gliedervergottung*), used both to protect the living body and to place the dead among the gods; and some of its oldest examples already tie the members to the stars (Quack 1995, 104–110). From the Hellenistic period the two traditions were fused, and each decan was given rule over a particular member, whose sickness or healing it could cause. Celsus reports the doctrine as Egyptian: "the body of man has been distributed among thirty-six daemons or gods of the air … one is charged with one part, another with another", and he gives their Egyptian names, among them Chnoumen and Chnachoumen (Origen, *Contra Celsum* 8.58, quoted in Quack 1995, 111–112). The Apocryphon's list stands in that tradition. Quack also observed that the order of the members follows Egyptian systematics, as Nagel had suggested (Quack 1995, 104).
 
 ### 5.3 The Head and Its Senses
 
@@ -227,10 +229,10 @@ The first twelve makers build the head and its senses, from the skull inward and
 
 | # | Angel (Coptic) | Member (Coptic) | Grade | Reading of the name |
 |---|---|---|---|---|
-| 1 | ⲉⲧⲉⲣⲁⲫⲁⲱⲡⲉ ⲁⲃⲣⲱⲛ (IV punctuates between the two words) | ϫⲱϥ, his head | C | Possibly two names; ⲉⲧⲉ ⲣⲁⲫⲁⲱ ⲡⲉ, "who is Raphao", has been proposed |
+| 1 | ⲉⲧⲉⲣⲁⲫⲁⲱⲡⲉ ⲁⲃⲣⲱⲛ (IV punctuates between the two words) | ϫⲱϥ, his head | C | Possibly two names; the month-name Paophi, and a decan or a magical ἀβρα- name, have been proposed (Quack 1995, 114) |
 | 2 | ⲙⲏⲛⲓⲅⲅⲉⲥⲥⲧⲣⲱⲏⲑ | ⲡⲉⲛⲕⲉⲫⲁⲗⲟⲥ, the brain (ἐγκέφαλος) | A (first element) | ⲙⲏⲛⲓⲅⲅ- = μήνιγγ-, "the meninges", the membranes of the brain |
-| 3 | ⲁⲥⲧⲉⲣⲉⲭⲙⲏ | ⲡⲃⲁⲗ ⲛ̅ⲟⲩⲛⲁⲙ, the right eye | A (first element) | ⲁⲥⲧⲉⲣ- = ἀστήρ, "star"; ἀστήρ + ἔχω, "star-holder" (*The Unnamed Cartography*) |
-| 4 | ⲑⲁⲥⲡⲟⲙⲟⲭⲁ | ⲡⲃⲁⲗ ⲛ̅ϭⲃⲟⲩⲣ, the left eye | C | Opaque |
+| 3 | ⲁⲥⲧⲉⲣⲉⲭⲙⲏ | ⲡⲃⲁⲗ ⲛ̅ⲟⲩⲛⲁⲙ, the right eye | A (first element) | ⲁⲥⲧⲉⲣ- = ἀστήρ, "star"; the second element is the decan *knm.w* (Firmicus *chenem*; Quack 1995, 114–115) |
+| 4 | ⲑⲁⲥⲡⲟⲙⲟⲭⲁ | ⲡⲃⲁⲗ ⲛ̅ϭⲃⲟⲩⲣ, the left eye | C | With emendation, the decan *ṯms n ḫntt* (Hephaestion Θοσολκ; Quack 1995, 115) |
 | 5 | ⲓⲉⲣⲱⲛⲩⲙⲟⲥ | ⲡⲙⲁⲁϫⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right ear | B | ἱερώνυμος, "of sacred name"; the omega favours it over ἱερονόμος |
 | 6 | ⲃⲓⲥⲥⲟⲩⲙ | ⲡⲙⲁⲁϫⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left ear | C | Opaque; Hebrew *bōśem*, "spice", has been proposed |
 | 7 | ⲁⲕⲓⲱⲣⲉⲓⲙ | ⲡϣⲁ, the nose | C | Opaque |
@@ -238,7 +240,7 @@ The first twelve makers build the head and its senses, from the skull inward and
 | 9 | ⲁⲙⲏⲛ | ⲛⲟⲃϩⲉ, the teeth | A | Hebrew *ʾāmēn*, "firm, true" |
 | 10 | ⲓⲃⲓⲕⲁⲛ | ⲛⲁϫϩⲉ, the molars (Crum: μύλη) | C | Opaque |
 | 11 | ⲃⲁⲥⲓⲗⲓⲁⲇⲏⲙⲏ | ⲡⲁⲣⲓⲥⲑⲙⲓⲟⲛ, the tonsils (παρίσθμιον) | A (first element) | ⲃⲁⲥⲓⲗ- = βασιλ-, "royal, kingly" |
-| 12 | ⲁⲭⲭⲁ | ⲥⲧⲁⲫⲩⲗⲏ, the uvula (σταφυλή, "grape") | C | Opaque; the body part is the Greek medical word |
+| 12 | ⲁⲭⲭⲁ | ⲥⲧⲁⲫⲩⲗⲏ, the uvula (σταφυλή, "grape") | B | The decan *ḫ.wi*, Firmicus *Acha* (Quack 1995, 115) |
 
 Of twelve names, five can be read at grade A or B, and each of the five says something about its member. The teeth are made by Amen, the Hebrew word for what is firm and sure. Swedenborg's teeth are "the exterior intellectual, and therefore natural truth", and "the teeth have this signification … because they grind like a mill" (*AC* §9052): the hardest parts of the body, which test what enters by breaking it, correspond to truth at its firmest and most external. The brain is made by a name that begins with the Greek word for its membranes, μήνιγγες, the integuments that Swedenborg describes when he begins his account of the brain with what is seen "when the brain is denuded of the skull and the integuments that encompass it" (*AC* §4040). The right eye is made by a name that begins with the Greek word for a star; Swedenborg's chapter on the eye is a chapter "concerning correspondence with the eye and with light" (*AC* §4403), and of the two eyes he says that "the right eye [corresponds] to affections of truth, which are also of the understanding … for those who are in good are on the Lord's right hand" (*AC* §4410). The right ear is made by "the one of sacred name"; Swedenborg's ear corresponds to obedience — "the spirits who correspond to the hearing … are those who are in simple obedience" (*AC* §4653) — and the right ear in particular to "perceptivity of truth from good" (*AC* §10061). The tonsils, the guards at the narrows (παρίσθμιον, "beside the isthmus") between the mouth and the throat, are made by a name that begins with the Greek word for what is royal.
 
@@ -262,17 +264,17 @@ From the neck the list descends through the throat and the spine to the shoulder
 | # | Angel (Coptic) | Member (Coptic) | Grade | Reading of the name |
 |---|---|---|---|---|
 | 13 | ⲁⲇⲁⲃⲁⲛ | ⲡⲙⲟⲩⲧ, the neck | C | Opaque; Semitic *dbq*, "cleave, join", has been proposed |
-| 14 | ⲭⲁⲁⲙⲁⲛ | ⲡⲥⲫⲟⲛⲧⲩⲗⲟⲥ, the vertebrae (σφόνδυλος) | C | Opaque; "pillar" has been proposed |
-| 15 | ⲇⲉⲁⲣⲭⲱ | ⲧϣⲟⲩⲱⲃⲉ, the throat | C | Possibly containing ἀρχ-, "rule, beginning" |
-| 16–17 | ⲧⲏⲃⲁⲣ; [lost in both] | ⲧⲛⲁϩⲃⲉ, the shoulders | B | Aramaic *tbr*, "to break" |
+| 14 | ⲭⲁⲁⲙⲁⲛ | ⲡⲥⲫⲟⲛⲧⲩⲗⲟⲥ, the vertebrae (σφόνδυλος) | C | With emendation, part of the decan *ḥry-ib rmn* (Quack 1995, 115); "pillar" has also been proposed |
+| 15 | ⲇⲉⲁⲣⲭⲱ | ⲧϣⲟⲩⲱⲃⲉ, the throat | C | With emendation, the decan *tpy-ꜥ ꜥkw*; ἀρχ- has also been proposed (Quack 1995, 115) |
+| 16–17 | ⲧⲏⲃⲁⲣ; [lost in both] | ⲧⲛⲁϩⲃⲉ, the shoulders | B | Aramaic *tbr*, "to break"; Quack compares the decan forms *tepis*, τεβιου (Quack 1995, 115) |
 | 18–19 | ⲙⲛⲓⲁⲣⲭⲱⲛ (IV ⲙⲛⲓⲁⲭⲱⲣ); […]ⲉ (IV) | ⲡⲕⲉⲗⲉⲛⲕⲉϩ, the elbows (Crum: ἀγκών) | B (II spelling) | II's ⲁⲣⲭⲱⲛ = ἄρχων, "ruler"; μνεία, "memory", for the first element is possible |
 | 20 | ⲁⲃⲓⲧⲣⲓⲱⲛ | ⲑⲱⲙⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right forearm-hollow | C | Opaque |
-| 21 | ⲉⲩⲁⲛⲑⲏⲛ | ⲑⲱⲙⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left forearm-hollow | B | εὐανθής, "well-flowering" |
-| 22 | ⲕⲣⲩⲥ | ⲧϭⲓϫ ⲛ̅ⲟⲩⲛⲁⲙ, the right hand | C | Greek χρυσός, "gold", has been proposed, but the name is written with ⲕ, not ⲭ |
+| 21 | ⲉⲩⲁⲛⲑⲏⲛ | ⲑⲱⲙⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left forearm-hollow | B | εὐανθής, "well-flowering"; Quack compares the decan ευαμμα (Quack 1995, 115) |
+| 22 | ⲕⲣⲩⲥ | ⲧϭⲓϫ ⲛ̅ⲟⲩⲛⲁⲙ, the right hand | C | χρυσός, "gold", has been proposed, but the name is written with ⲕ; Quack compares ρυαξ, the first decan in the *Testament of Solomon* (Quack 1995, 115) |
 | 23 | ⲃⲏⲗⲩⲁⲓ | ⲧϭⲓϫ ⲛ̅ϭⲃⲟⲩⲣ, the left hand | C | Belial has been proposed, on sound alone |
 | 24 | ⲧⲣⲏⲛⲉⲩ | ⲛ̅ⲧⲏⲃⲉ ⲛ̅ⲧϭⲓϫ ⲛ̅ⲟⲩⲛⲁⲙ, the fingers of the right hand | C | Opaque |
-| 25 | ⲃⲁⲗⲃⲏⲗ | ⲛ̅ⲧⲏⲃⲉ ⲛ̅ⲧϭⲓϫ ⲛ̅ϭⲃⲟⲩⲣ, the fingers of the left hand | C | Aramaic *balbēl*, "to mix, confound", has been proposed |
-| 26 | ⲕⲣⲓⲙⲁ (IV ⲕⲣⲓⲙⲁⲛ) | ⲛ̅ⲉⲓⲉⲃⲉ ⲛ̅ⲛ̅ϭⲓϫ, the nails of the hands | A | κρίμα, "judgment" |
+| 25 | ⲃⲁⲗⲃⲏⲗ | ⲛ̅ⲧⲏⲃⲉ ⲛ̅ⲧϭⲓϫ ⲛ̅ϭⲃⲟⲩⲣ, the fingers of the left hand | B | The decan βελβελ of the *Testament of Solomon*, also a magical name (Quack 1995, 115) |
+| 26 | ⲕⲣⲓⲙⲁ (IV ⲕⲣⲓⲙⲁⲛ) | ⲛ̅ⲉⲓⲉⲃⲉ ⲛ̅ⲛ̅ϭⲓϫ, the nails of the hands | B | κρίμα, "judgment", as Codex II spells it; Quack, reading IV's ⲕⲣⲓⲙⲁⲛ, compares the decan forms *Craumonis*, *Churman* (Quack 1995, 115) |
 
 One member word moves when it is read in Crum. The member between the elbow and the hand, ⲑⲱⲙⲉ (ⲧ- + ϩⲱⲙⲉ), is translated "underarm" in Wisse's English. Crum's ϩⲱⲙⲉ is "palm, hollow of hand", rendering θέναρ and δράξ, and in one passage πῆχυς, the forearm and cubit (Crum). Its place in the sequence, after the elbow and before the hand, fits the forearm and the hollow of the hand better than the armpit. The names Abitriōn and Euanthēn are made for the forearms, not the underarms.
 
@@ -298,37 +300,37 @@ The list now turns to the trunk: first its outer walls — breasts, chest-joints
 
 | # | Angel (Coptic) | Member (Coptic) | Grade | Reading of the name |
 |---|---|---|---|---|
-| 27 | ⲁⲥⲧⲣⲱⲯ | ⲧϭⲓⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ (IV ⲧⲕⲓⲃⲉ), the right breast | B (first element) | ⲁⲥⲧⲣ- = ἀστρ-, "star"; with ὤψ, "face", "star-faced" has been proposed |
+| 27 | ⲁⲥⲧⲣⲱⲯ | ⲧϭⲓⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ (IV ⲧⲕⲓⲃⲉ), the right breast | B (first element) | ⲁⲥⲧⲣ- = ἀστρ-, "star"; resembles the decan variant *Astiro* in Firmicus (Quack 1995, 116) |
 | 28 | ⲃⲁⲣⲣⲱⲫ | ⲧϭⲓⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left breast | C | Opaque |
 | 29 | ⲃⲁⲟⲩⲙ | ⲡϫⲱ ⲛ̅ⲟⲩⲛⲁⲙ (IV ⲡϫⲟ), the right ϫⲱ | C | Opaque; the member is uncertain (Robinson "shoulder joint") |
 | 30 | ⲁⲣⲁⲣⲓⲙ | ⲡϫⲱ ⲛ̅ϭⲃⲟⲩⲣ, the left ϫⲱ | C | Opaque |
 | 31 | ⲁⲣⲉⲭ (IV ⲁⲣⲉⲭⲏ) | ⲧⲕⲟⲓⲗⲓⲁ, the belly (κοιλία) | C | ἀρχή has been proposed |
-| 32 | ⲫⲑⲁⲩⲏ | ⲑⲟⲗⲡⲉ (ⲧ- + ϩⲟⲗⲡⲉ), the navel | B (first element) | ⲫⲑⲁ- = Φθα-, Ptah |
-| 33 | ⲥⲏⲛⲁⲫⲓⲙ (IV ⲥⲏⲛⲁⲫⲑⲓ) | ⲡⲩⲡⲟⲭⲟⲛⲇⲣⲓⲟⲥ, the hypochondrium (ὑποχόνδριον) | C | Opaque; II's ending resembles the Hebrew plural, IV's the name of Ptah |
+| 32 | ⲫⲑⲁⲩⲏ | ⲑⲟⲗⲡⲉ (ⲧ- + ϩⲟⲗⲡⲉ), the navel | B | *Ptḥ wr*, "Ptah the great" (Quack 1995, 116) |
+| 33 | ⲥⲏⲛⲁⲫⲓⲙ (IV ⲥⲏⲛⲁⲫⲑⲓ) | ⲡⲩⲡⲟⲭⲟⲛⲇⲣⲓⲟⲥ, the hypochondrium (ὑποχόνδριον) | C | A badly corrupted form of the decan *sbšsn*, *seneptois* (Quack 1995, 116) |
 | 34 | ⲁⲣⲁⲭⲉⲑⲱⲡⲓ | ⲡⲥⲡⲓⲣ ⲛ̅ⲟⲩⲛⲁⲙ, the right ribs | C | Opaque |
 | 35 | ⲍⲁⲃⲉⲇⲱ (IV ⲁⲃⲉⲇⲱ) | ⲡⲥⲡⲓⲣ ⲛ̅ϭⲃⲟⲩⲣ, the left ribs | C | Opaque |
-| 36–37 | ⲃⲁⲣⲓⲁⲥ; ⲫⲛⲟⲩⲑ (IV) | ϯⲡⲉ, the loins (Crum: ὀσφύς) | C | βάρος, "weight", has been proposed for Barias |
+| 36–37 | ⲃⲁⲣⲓⲁⲥ; ⲫⲛⲟⲩⲑ (IV) | ϯⲡⲉ, the loins (Crum: ὀσφύς) | C; B | βάρος, "weight", has been proposed for Barias; Phnouth is *pꜣ nṯr*, Coptic ⲡⲛⲟⲩⲧⲉ, "the god" (Quack 1995, 116) |
 | 38 | ⲁⲃⲏⲛⲗⲉⲛⲁⲣⲭⲉⲓ | ⲁⲧⲕⲁⲥ, the marrow | C | Possibly containing ἀρχ- |
-| 39 | ⲭⲛⲟⲩⲙⲉⲛⲓⲛⲟⲣⲓⲛ | ⲕⲉⲉⲥ, the bones | B (first element) | ⲭⲛⲟⲩⲙ- = Khnum, the Egyptian creator-god |
-| 40 | ⲅⲏⲥⲟⲗⲉ (IV ⲥⲏⲥⲟⲗⲉ) | ⲡⲥⲧⲟⲙⲁⲭⲟⲥ, the stomach (στόμαχος) | C | Opaque |
+| 39 | ⲭⲛⲟⲩⲙⲉⲛⲓⲛⲟⲣⲓⲛ | ⲕⲉⲉⲥ, the bones | B (first element) | ⲭⲛⲟⲩⲙ- = the decan *knm.t*, Greek Χνουμις, well known from magical gems (Quack 1995, 116) |
+| 40 | ⲅⲏⲥⲟⲗⲉ (IV ⲥⲏⲥⲟⲗⲉ) | ⲡⲥⲧⲟⲙⲁⲭⲟⲥ, the stomach (στόμαχος) | C | From IV's spelling, the decan *sꜣ sꜣḥ*, σισιεμε (Quack 1995, 116) |
 | 41 | ⲁⲅⲣⲟⲙⲁⲩⲙⲁ (both codices) | ⲙ̅ⲫⲏⲧ (ⲡ- + ϩⲏⲧ), the heart | C | Opaque; misprinted "Agromauna" in Robinson 1990 (1981 printing: "Agromauma") |
 | 42 | ⲃⲁⲛⲱ | ⲡⲛⲉⲩⲙⲟⲛⲓⲛ (πνεύμων), the lungs | C | Opaque |
 | 43 | ⲥⲱⲥⲧⲣⲁⲡⲁⲗ | ϩⲏⲡⲁⲣ (ἧπαρ), the liver | C | Opaque |
 | 44 | ⲁⲛⲏⲥⲓⲙⲁⲗⲁⲣ | ⲥⲡⲗⲏⲛ (σπλήν), the spleen | C | Opaque |
-| 45 | ⲑⲱⲡⲓⲑⲣⲱ | ⲙⲉϩⲧ, the intestines | C | Opaque |
-| 46 | ⲃⲓⲃⲗⲱ | ϭⲗⲁⲧⲉ, the kidneys | B | βίβλος, "book" |
+| 45 | ⲑⲱⲡⲓⲑⲣⲱ | ⲙⲉϩⲧ, the intestines | C | Two decan names run together, *tpy-ꜥ* and ⲉⲣⲱ (Quack 1995, 116) |
+| 46 | ⲃⲓⲃⲗⲱ | ϭⲗⲁⲧⲉ, the kidneys | B | βίβλος, "book"; Quack emends to ⲃⲓⲃⲓⲱ, the magical βιβιου, "soul of souls" (Quack 1995, 116) |
 | 47 | ⲣⲟⲉⲣⲱⲣ | ⲙⲙⲟⲩⲧ, the sinews | C | Opaque |
 | 48 | ⲧⲁⲫⲣⲉⲱ | ⲛ̅ϫⲓⲥⲉ ⲙ̅ⲡⲥⲱⲙⲁ, the spine ("back") of the body | C | τάφρος, "channel", has been proposed |
-| 49 | ⲓⲡⲟⲩⲥⲡⲟⲃⲱⲃⲁ | ⲫⲗⲉⲯ (φλέψ), the veins | C | Opaque |
+| 49 | ⲓⲡⲟⲩⲥⲡⲟⲃⲱⲃⲁ | ⲫⲗⲉⲯ (φλέψ), the veins | C | Possibly the decan *ip-ꜥ.s* (Quack 1995, 117) |
 | 50 | ⲃⲓⲛⲉⲃⲟⲣⲓⲛ | ⲁⲣⲧⲏⲣⲓⲁ (ἀρτηρία), the arteries | C | Opaque |
-| 51 | ⲁⲧⲟⲓⲙⲉⲛⲯⲏⲫⲉⲓ | "theirs are the breaths (ⲛⲓϥⲉ) which are in all the members" | C | Opaque |
+| 51 | ⲁⲧⲟⲓⲙⲉⲛⲯⲏⲫⲉⲓ | "theirs are the breaths (ⲛⲓϥⲉ) which are in all the members" | C | The second element *pꜣ šfy*, "the divine child" (Quack 1995, 117) |
 | 52 | ⲏⲛⲑⲟⲗⲗⲉⲓⲁ | ⲧⲥⲁⲣⲝ ⲧⲏⲣⲥ, all the flesh | C | Opaque |
 
 Three body words move when read in the lexica. The spine of the body is ⲛ̅ϫⲓⲥⲉ ⲙ̅ⲡⲥⲱⲙⲁ, and ϫⲓⲥⲉ here is the feminine noun "back", which with "bone" means "spine, vertebra" (Crum), not the verb ϫⲓⲥⲉ, "be high"; the English "spine" is exact. The navel is ⲑⲟⲗⲡⲉ, the article with ϩⲟⲗⲡⲉ, a form of ϩⲉⲗⲡⲉ, "navel" (ὀμφαλός; Crum). And the loins are ϯⲡⲉ, which Crum glosses ὀσφύς, "loins", rather than "hip". The member ϫⲱ (IV ϫⲟ), which Wisse's English renders "shoulder joint", remains uncertain.
 
 At the heart of the trunk, the text's grammar of the substances returns in its vocabulary. The heart is ⲫⲏⲧ (II 16,21), the same ϩⲏⲧ from which the seventh power took its name (§4), and the chest in the second list is ⲧⲙⲉⲥⲧϩⲏⲧ (II 17,16), the breast, whose Bohairic form ⲙⲉⲥⲧⲉⲛϩⲏⲧ shows the heart inside it (Crum). The breaths of the members (ⲛ̅ⲛⲓϥⲉ ⲉⲧϩⲛ̅ ⲙ̅ⲙⲉⲗⲟⲥ ⲧⲏⲣⲟⲩ, II 16,27) are given an angel of their own, after the arteries and before "all the flesh". In Swedenborg's account the two kingdoms of the body are those of the heart and the lungs: "the will is that to which corresponds the pulsation of the heart; and the understanding is that to which corresponds the respiration of the lungs" (*AC* §3888), and the life of the body is the joint motion of the two. The text sets heart and lungs side by side (ⲁⲅⲣⲟⲙⲁⲩⲙⲁ, ⲃⲁⲛⲱ, II 16,20–21), and then gives the breath that the lungs send through every member a keeper of its own.
 
-The readable names of the trunk are few, and they are not idle. The kidneys are made by ⲃⲓⲃⲗⲱ, "book". Swedenborg's kidneys are the province of those who examine and chastise: "by the justness of the cause, which they inquire into before chastising, they communicate with heaven" (*AC* §5384), and the kidneys are the first of a series of secretions "from the kidneys down to the bladder" (*AC* §5380). The kidneys that sift the blood and inquire into causes are made by the Book. The bones are made by a name that begins with Khnum, the Egyptian creator-god who forms the body, and whose name stands at the head of the substance from which the frame is built. The navel is made by a name that begins with Ptah, the creator-god of Memphis, at the place where the body was first joined to its source.
+The readable names of the trunk are few, and they are not idle. The kidneys are made by ⲃⲓⲃⲗⲱ, "book". Swedenborg's kidneys are the province of those who examine and chastise: "by the justness of the cause, which they inquire into before chastising, they communicate with heaven" (*AC* §5384), and the kidneys are the first of a series of secretions "from the kidneys down to the bladder" (*AC* §5380). The kidneys that sift the blood and inquire into causes are made by the Book — if the name is read as it stands; Quack, emending one letter, reads instead the magical βιβιου, "soul of souls". The bones are made by a name that begins with Chnoumis, the decan best known from the magical gems of late antiquity, and the navel by "Ptah the great", the creator-god of Memphis, at the place where the body was first joined to its source (Quack 1995, 116). Neither of these is a word for the member's function; they are the names of the powers that, in Egyptian tradition, held the members.
 
 The left kidney carries the one name in the list that the library has already discussed as an inversion. At the place where Codex II has "Pserem the kidneys of the right foot", the next entry is ⲁⲥⲁⲕⲗⲁⲥ ⲧϭⲗⲱⲧ ⲛ̅ϭⲃⲟⲩⲣ, "Asaklas the left kidney" (II 16,32–33): a name that contains Saklas, "the fool", which the Apocryphon itself gives as the second name of the chief archon (ⲡⲙⲉϩⲥⲛⲁⲩ ⲡⲉ ⲥⲁⲕⲗⲁⲥ, II 11,17). *The Unnamed Cartography* (§3.5) read it as naming the kidney by what the kidney acts upon: the organ that examines and expels is given the name of the folly it expels.
 
@@ -352,23 +354,23 @@ The last twenty makers build the members of generation, the thighs, and the legs
 | # | Angel (Coptic) | Member (Coptic) | Grade | Reading of the name |
 |---|---|---|---|---|
 | 53 | ⲃⲉⲇⲟⲩⲕ | ⲡⲧⲉⲧⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right ⲧⲉⲧⲉ (Robinson "buttock (?)") | C | Opaque |
-| 54 | ⲁⲣⲁⲃⲏⲉⲓ | ⲡⲃⲁϩ ⲛ̅ϭⲃⲟⲩⲣ, the left ⲃⲁϩ (Crum: "penis (?)", glossed βουβών) | C | Opaque |
+| 54 | ⲁⲣⲁⲃⲏⲉⲓ | ⲡⲃⲁϩ ⲛ̅ϭⲃⲟⲩⲣ, the left ⲃⲁϩ (Crum: "penis (?)", glossed βουβών) | B | The decan *ḥry-ib wiꜣ*, Firmicus *eregbuo*, Celsus ερεβιου (Quack 1995, 117) |
 | 55 | ⲉⲓⲗⲱ | ⲛ̅ⲁⲧⲣ[ⲉⲩⲉ] (partly restored; IV ⲛ̅ⲇⲓⲇⲩⲙⲟⲥ), the testicles | C | Opaque; the member is named in IV by the Greek δίδυμοι, "twins" |
 | 56 | ⲥⲱⲣⲙⲁ (IV ⲥⲟ{ⲣ}ⲙⲁ, the ⲣ struck out) | ⲛ̅ⲉⲇⲩⲟⲛ (αἰδοῖον), the genitals | B (IV) | IV's corrected ⲥⲟⲙⲁ = σῶμα, "body" |
-| 57 | ⲅⲟⲣⲙⲁⲕⲁⲓⲟⲭⲗⲁⲃⲁⲣ | ⲡⲙⲏⲣⲟⲥ ⲛ̅ⲟⲩⲛⲁⲙ, the right thigh (μηρός) | C | Possibly two names joined by καί |
-| 58 | ⲛⲉⲃⲣⲓⲑ | ⲡⲙⲏⲣⲟⲥ ⲛ̅ϭⲃⲟⲩⲣ, the left thigh | C | Opaque |
-| 59 | ⲯⲏⲣⲏⲙ | ⲛ̅ϭⲗⲁⲧⲉ ⲛ̅ⲧⲟⲩⲣⲏⲧⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the ϭⲗⲁⲧⲉ of the right leg | C | Opaque; the member is uncertain |
+| 57 | ⲅⲟⲣⲙⲁⲕⲁⲓⲟⲭⲗⲁⲃⲁⲣ | ⲡⲙⲏⲣⲟⲥ ⲛ̅ⲟⲩⲛⲁⲙ, the right thigh (μηρός) | C | Possibly two names joined by καί, the second perhaps a decan (Quack 1995, 117) |
+| 58 | ⲛⲉⲃⲣⲓⲑ | ⲡⲙⲏⲣⲟⲥ ⲛ̅ϭⲃⲟⲩⲣ, the left thigh | C | Perhaps *nb rḏw*, "lord of the efflux" (Quack 1995, 117) |
+| 59 | ⲯⲏⲣⲏⲙ | ⲛ̅ϭⲗⲁⲧⲉ ⲛ̅ⲧⲟⲩⲣⲏⲧⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the ϭⲗⲁⲧⲉ of the right leg | B | The decan *psermes* of the Latin Hermetic list (Quack 1995, 117); the member is uncertain |
 | 60 | ⲁⲥⲁⲕⲗⲁⲥ | ⲧϭⲗⲱⲧ ⲛ̅ϭⲃⲟⲩⲣ, the left kidney | A | Contains ⲥⲁⲕⲗⲁⲥ, Saklas, "fool", the chief archon's second name (II 11,17) |
-| 61 | ⲟⲣⲙⲁⲱⲑ (IV ⲓ̈ⲟⲣⲙⲁⲱⲑ) | ⲡⲉⲧ ⲛ̅ⲟⲩⲛⲁⲙ, the right knee | C | Opaque |
+| 61 | ⲟⲣⲙⲁⲱⲑ (IV ⲓ̈ⲟⲣⲙⲁⲱⲑ) | ⲡⲉⲧ ⲛ̅ⲟⲩⲛⲁⲙ, the right knee | B | *Ḥr.w mꜣꜥ-ḫrw*, "Horus the justified", magical αρμιωθ (Quack 1995, 117–118) |
 | 62 | ⲏⲙⲏⲛⲩⲛ | ⲡⲉⲧ ⲛ̅ϭⲃⲟⲩⲣ, the left knee | C | Opaque |
 | 63 | ⲕⲛⲩⲝ | ⲧⲥⲏⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ (IV ⲧⲥⲏϥⲉ), the right shin | C | Opaque |
 | 64 | ⲧⲩⲡⲏⲗⲟ (IV ⲧⲩⲡⲏⲗⲟⲛ) | ⲧⲥⲏⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left shin | C | Opaque |
 | 65 | ⲁⲭⲓⲏⲗ | ⲧⲕⲗ̅ⲗⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right ankle | B | Theophoric in -ēl; Hebrew *ʾăḥî-ʾēl*, "brother of God", has been proposed |
-| 66 | ⲫⲛⲏⲙⲏ (II only) | ⲧⲕⲗ̅ⲗⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left ankle | C | Opaque; misprinted "Phnene" in Robinson 1990 (1981 printing: "Phneme") |
+| 66 | ⲫⲛⲏⲙⲏ (II only) | ⲧⲕⲗ̅ⲗⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left ankle | C | Perhaps "the dwarf", a title of the sun-god (Quack 1995, 118); misprinted "Phnene" in Robinson 1990 |
 | 67 | ⲫⲓⲟⲩⲑⲣⲟⲙ (II only) | ⲧⲟⲩⲣⲏⲧⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right foot | C | Opaque |
 | 68 | ⲃⲟⲁⲃⲉⲗ | ⲛⲉⲥⲧⲏⲃⲉ, its toes | C | Possibly theophoric |
 | 69 | ⲧⲣⲁⲭⲟⲩⲛ (IV ⲧⲣⲁⲭⲟⲩ) | ⲧⲟⲩⲣⲏⲧⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left foot | B | τραχύς, "rough" |
-| 70 | ⲫⲓⲕⲛⲁ | ⲛⲉⲥⲧⲏⲃⲉ, its toes | C | Opaque |
+| 70 | ⲫⲓⲕⲛⲁ | ⲛⲉⲥⲧⲏⲃⲉ, its toes | C | Perhaps a corruption of the magical φνκρω (Quack 1995, 118) |
 | 71 | ⲙⲓⲁⲙⲁⲓ | ⲛ̅ⲉⲓⲉⲓⲃ ⲛ̅ⲛⲟⲩⲣⲏⲧⲉ, the nails of the feet | C | Opaque |
 | 72 | ⲗⲁⲃⲏⲣⲛⲓⲟⲩⲙ | (no member named) | C | Opaque |
 
@@ -390,7 +392,7 @@ The feet close the list. The left foot is made by ⲧⲣⲁⲭⲟⲩⲛ, the Gre
 
 ### 5.7 What the First List Shows
 
-Of the seventy-two makers, fifteen names can be read at grade A or B. Fourteen of them say something about the member they make, and the fifteenth, Saklas at the left kidney, names what that member acts upon:
+Of the seventy-two makers, twenty-three names can be read at grade A or B. They fall into two kinds. Fourteen are words: thirteen say something about the member they make, and the fourteenth, Saklas at the left kidney, names what that member acts upon. Nine are names of powers: eight Egyptian decans and gods, the powers that in Egyptian tradition ruled the members (Quack 1995, 114–119), and one Hebrew angelic name in -ēl:
 
 | Member | Name | Grade | What the name says | What the member does, in Swedenborg |
 |---|---|---|---|---|
@@ -402,19 +404,27 @@ Of the seventy-two makers, fifteen names can be read at grade A or B. Fourteen o
 | Shoulder | ⲧⲏⲃⲁⲣ | B | break | all power (*AC* §§4933, 4937) |
 | Elbow | -ⲁⲣⲭⲱⲛ (II) | B | ruler | power of the arm (*AC* §4933) |
 | Left forearm | ⲉⲩⲁⲛⲑⲏⲛ | B | well-flowering | — |
-| Nails of the hands | ⲕⲣⲓⲙⲁ | A | judgment | praise and blame without understanding (*SD* §6109) |
+| Nails of the hands | ⲕⲣⲓⲙⲁ | B | judgment (II spelling) | praise and blame without understanding (*SD* §6109) |
 | Right breast | ⲁⲥⲧⲣ- | B | star | — |
-| Navel | ⲫⲑⲁ- | B | Ptah, the creator | — |
-| Bones | ⲭⲛⲟⲩⲙ- | B | Khnum, the creator | the frame of support (*AC* §5560) |
+| Navel | ⲫⲑⲁⲩⲏ | B | Ptah the great | (a ruling power, not a function) |
+| Bones | ⲭⲛⲟⲩⲙ- | B | the decan Chnoumis | (a ruling power, not a function) |
 | Kidneys | ⲃⲓⲃⲗⲱ | B | book | examination, inquiry into causes (*AC* §5384) |
 | Left kidney | ⲁⲥⲁⲕⲗⲁⲥ | A | Saklas, "fool" | what the kidney expels (*AC* §5380; *The Unnamed Cartography* §3.5) |
+| Genitals | ⲥⲟⲙⲁ (IV, corrected) | B | body | the passing on of the body (*AC* §§5059–5060) |
 | Left foot | ⲧⲣⲁⲭⲟⲩⲛ | B | rough | the natural (*AC* §4938) |
+| Uvula | ⲁⲭⲭⲁ | B | the decan Acha | (a ruling power) |
+| Fingers, left | ⲃⲁⲗⲃⲏⲗ | B | the decan Belbel | (a ruling power) |
+| Left loins (IV) | ⲫⲛⲟⲩⲑ | B | "the god" | (a ruling power) |
+| Left ⲃⲁϩ | ⲁⲣⲁⲃⲏⲉⲓ | B | the decan Erebiou | (a ruling power) |
+| ϭⲗⲁⲧⲉ of the right leg | ⲯⲏⲣⲏⲙ | B | the decan Psermes | (a ruling power) |
+| Right knee | ⲟⲣⲙⲁⲱⲑ | B | Horus the justified | (a ruling power) |
+| Right ankle | ⲁⲭⲓⲏⲗ | B | a name in -ēl | (an angelic name) |
 
-The pattern is the one *The Unnamed Cartography* found in the English, now confirmed in the Coptic and on a stricter standard. Where a name can be read, it is apt to its member: the teeth are the firm, the nails are judgment, the shoulder breaks, the kidneys are the book, the brain is named by its membranes, the bones and the navel by the gods who form the body. No readable name contradicts its member. And the names that are apt to their members in a way Swedenborg would recognise are apt in his terms: the teeth as the firmest and most external truth, the nails as judgment at the outermost, the shoulder as power, the kidneys as examination.
+The pattern of the word-names is the one *The Unnamed Cartography* found in the English, now confirmed in the Coptic and on a stricter standard. Where a name is a word, it is apt to its member: the teeth are the firm, the nails are judgment, the shoulder breaks, the kidneys are the book, the brain is named by its membranes. No readable name contradicts its member. Four of the word-names have an alternative reading as decan names, which Quack proposed: Tebar, Euanthen, Kriman (in Codex IV's spelling) and, with an emendation, Biblo. Where the alternative is right, the name is the name of a ruling star rather than a word for the function, and the convergence is lost for that name; it does not become a contradiction, since a decan says nothing about a member's use. And the names that are apt to their members in a way Swedenborg would recognise are apt in his terms: the teeth as the firmest and most external truth, the nails as judgment at the outermost, the shoulder as power, the kidneys as examination.
 
-Three things the English could not show are now plain. First, the list is a list of seventy-two, recovered by the two witnesses together, in the order of the body from the crown to the toenails, with the inner frame and the viscera taken together where the trunk is reached, and with the leg in its anatomical order once the knee and the ankle are read correctly. Second, the list names its members in two languages, and the line between them is the line between the physician and the ordinary speaker: the organs of the head and the viscera are named in the Greek of the medical schools (ἐγκέφαλος, παρίσθμιον, σταφυλή, σφόνδυλος, κοιλία, ὑποχόνδριον, στόμαχος, πνεύμων, ἧπαρ, σπλήν, φλέψ, ἀρτηρία, μηρός, αἰδοῖον, and in Codex IV δίδυμοι), while the head, the eyes, ears, nose, lips, teeth, neck, throat, shoulders, elbows, hands, fingers, nails, breasts, ribs, loins, bones, heart, intestines, kidneys, sinews, knees, shins, ankles, feet and toes are named in Egyptian. Third, the names themselves are polyglot in the same way: Hebrew (Amen), Aramaic (Tebar, Saklas), Greek (κρίμα, εὐανθής, βίβλος, τραχύς, μήνιγγ-, ἀστήρ, ἄρχων, βασιλ-) and Egyptian (Khnum, Ptah).
+Three things the English could not show are now plain. First, the list is a list of seventy-two, recovered by the two witnesses together, in the order of the body from the crown to the toenails, with the inner frame and the viscera taken together where the trunk is reached, and with the leg in its anatomical order once the knee and the ankle are read correctly. Second, the list names its members in two languages, and the line between them is the line between the physician and the ordinary speaker: the organs of the head and the viscera are named in the Greek of the medical schools (ἐγκέφαλος, παρίσθμιον, σταφυλή, σφόνδυλος, κοιλία, ὑποχόνδριον, στόμαχος, πνεύμων, ἧπαρ, σπλήν, φλέψ, ἀρτηρία, μηρός, αἰδοῖον, and in Codex IV δίδυμοι), while the head, the eyes, ears, nose, lips, teeth, neck, throat, shoulders, elbows, hands, fingers, nails, breasts, ribs, loins, bones, heart, intestines, kidneys, sinews, knees, shins, ankles, feet and toes are named in Egyptian. Third, the names themselves are polyglot in the same way: Hebrew (Amen), Aramaic (Tebar, Saklas), Greek (κρίμα, εὐανθής, βίβλος, τραχύς, μήνιγγ-, ἀστήρ, ἄρχων, βασιλ-) and Egyptian — and the Egyptian names are the largest group. Quack identified more than twenty of the seventy-two as decan names, more or less distorted, and others as gods (Ptah the great, Horus the justified, "the god"); in the first list they outnumber the certainly Greek and Semitic names. They are scattered without regard to the decans' order in the sky, and their forms stand closer to the decan lists of Firmicus Maternus, the Hermetic tradition and the *Testament of Solomon* than to the older forms in Hephaestion, so that the source drew them from a Greek astrological tradition rather than directly from Egyptian (Quack 1995, 119–120).
 
-The text does not choose its languages at random. A list that names the brain by its Greek anatomy and its maker by the Greek for its membranes, the bones in Egyptian and their maker by the Egyptian god who shapes bodies, the teeth in Egyptian and their maker by the Hebrew word for what is firm, is the work of authors who knew the body in all three traditions and named each member's maker in whichever tradition said most about it.
+The text does not choose its languages at random. A list that names the brain by its Greek anatomy and its maker by the Greek for its membranes, the teeth in Egyptian and their maker by the Hebrew word for what is firm, and sets the decans of the Egyptian sky over the rest, is the work of authors who knew the body in all three traditions. The decan names say who rules each member; the word-names say what the member is for. The list carries both.
 
 ---
 
@@ -463,7 +473,7 @@ The thirty are confined to the members that move: no brain, heart, lungs, liver,
 | 1 | ⲧⲁⲡⲉ, the head | ⲇⲓⲟⲗⲓⲙⲟⲇⲣⲁⲍⲁ | C | Opaque |
 | 2 | ⲡⲙⲟⲩⲧ, the neck | ⲓⲁⲙⲙⲉⲁⲝ | C | Opaque |
 | 3 | ⲧⲛⲁϩⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right shoulder | ⲓⲁⲕⲟⲩⲓⲃ | A | Jacob |
-| 4 | ⲧⲛⲁϩⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left shoulder | ⲟⲩⲉⲣⲧⲱⲛ | C | Opaque |
+| 4 | ⲧⲛⲁϩⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left shoulder | ⲟⲩⲉⲣⲧⲱⲛ | B | *wr-tꜣ*, "great one of the earth", magical ουερτω (Quack 1995, 118) |
 | 5 | ⲧϭⲓϫ ⲛ̅ⲟⲩⲛⲁⲙ, the right hand | ⲟⲩⲇⲓⲇⲓ (IV ⲟⲩⲇⲉⲓⲇⲓ) | C | Hebrew *yādîd*, "beloved", has been proposed |
 | 6 | ⲧϭⲓϫ ⲛ̅ϭⲃⲟⲩⲣ, the left hand | ⲁⲣⲃⲁⲟ | C | Aramaic *ʾarbaʿ*, "four", has been proposed |
 | 7 | the fingers of the right hand | ⲗⲁⲙⲡⲛⲱ | C | Possibly λάμπω, "shine" |
@@ -479,23 +489,23 @@ The thirty are confined to the members that move: no brain, heart, lungs, liver,
 | 17 | ⲡⲉⲕⲟⲩⲛϥ, his bosom (Crum: ⲕⲟⲩⲛ⸗, κόλπος) | ⲥⲁⲃⲁⲗⲱ | C | Semitic *sbl*, "to carry", has been proposed |
 | 18 | ⲡⲙⲏⲣⲟⲥ ⲛ̅ⲟⲩⲛⲁⲙ, the right thigh | ⲭⲁⲣⲭⲁⲣⲃ | C | Opaque |
 | 19 | ⲡⲙⲏⲣⲟⲥ ⲛ̅ϭⲃⲟⲩⲣ, the left thigh | ⲭⲑⲁⲱⲛ (IV ⲭⲑⲁⲱ) | B | χθών, "earth" |
-| 20 | ⲛ̅ⲁⲓⲇⲟⲓⲟⲛ ⲧⲏⲣⲟⲩ, all the genitals | ⲃⲁⲑⲓⲛⲱⲑ (IV ⲑⲁⲃⲓⲛⲱⲑ) | B (IV) | Hebrew *tabnît*, "pattern, form" |
-| 21 | ⲡⲡⲉⲧ ⲛ̅ⲟⲩⲛⲁⲙ, the right knee | ⲭⲟⲩⲝ | C | Opaque |
+| 20 | ⲛ̅ⲁⲓⲇⲟⲓⲟⲛ ⲧⲏⲣⲟⲩ, all the genitals | ⲃⲁⲑⲓⲛⲱⲑ (IV ⲑⲁⲃⲓⲛⲱⲑ) | B (IV) | Hebrew *tabnît*, "pattern, form"; Quack, emending II, reads "soul of Thoth" or "soul of darkness" (Quack 1995, 118) |
+| 21 | ⲡⲡⲉⲧ ⲛ̅ⲟⲩⲛⲁⲙ, the right knee | ⲭⲟⲩⲝ | B | *Kk.w*, the primordial god of darkness, magical χουχ (Quack 1995, 118) |
 | 22 | ⲡⲡⲉⲧ ⲛ̅ϭⲃⲟⲩⲣ, the left knee | ⲭⲁⲣⲭⲁ | C | Hebrew *kāraʿ*, "to bow the knee", has been proposed |
-| 23 | ⲧⲥⲏⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right shin | ⲁⲣⲟⲏⲣ | B | Aroer, a biblical place-name |
+| 23 | ⲧⲥⲏⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right shin | ⲁⲣⲟⲏⲣ | B | *Ḥr.w wr*, Haroeris, "Horus the elder", magical αρουηρ (Quack 1995, 118) |
 | 24 | ⲧⲥⲏⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left shin | ⲧⲱⲉⲭⲑⲁ | C | Opaque |
 | 25 | ⲧⲕⲗ̅ⲗⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right ankle | ⲁⲱⲗ | C | Opaque |
 | 26 | ⲧⲕⲗ̅ⲗⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left ankle | ⲭⲁⲣⲁⲛⲏⲣ | C | Opaque |
 | 27 | ⲧⲟⲩⲣⲏⲧⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right foot | ⲃⲁⲥⲧⲁⲛ | C | Possibly βαστάζω, "to bear" |
-| 28 | ⲛⲉⲥⲧⲏⲏⲃⲉ, its toes | ⲁⲣⲭⲉⲛⲧⲉⲭⲑⲁ | C | Possibly containing ἀρχ- |
-| 29 | ⲧⲟⲩⲣⲏⲧⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left foot | ⲙⲁⲣⲉⲫⲛⲟⲩⲛⲑ | C | Opaque |
+| 28 | ⲛⲉⲥⲧⲏⲏⲃⲉ, its toes | ⲁⲣⲭⲉⲛⲧⲉⲭⲑⲁ | B | *Ḥr.w ḫnty-ḫty*, Horus of Athribis, magical αρχεντεχθα (Quack 1995, 118–119) |
+| 29 | ⲧⲟⲩⲣⲏⲧⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left foot | ⲙⲁⲣⲉⲫⲛⲟⲩⲛⲑ | C | Second element *pꜣ nṯr*, "the god" (Quack 1995, 119) |
 | 30 | ⲛⲉⲥⲧⲏⲏⲃⲉ, its toes | ⲁⲃⲣⲁⲛⲁ | C | Opaque |
 
-Thirty, exactly, in Codex II, and Codex IV's surviving portions agree.
+Thirty, exactly, in Codex II, and Codex IV's surviving portions agree. The number is not the decans' thirty-six. Quack connects it with another astrological list, the thirty bright stars of the Greek astrological manuscripts (Pseudo-Ptolemy, the Anonymous of 379), and takes the seven set over them (§8) to be, again, the planets: a second system of star-rulers set beside the first (Quack 1995, 103). Several of the thirty bear Egyptian divine names: "great one of the earth", the primordial darkness, Horus the elder, Horus of Athribis (Quack 1995, 118–119).
 
 Two of the member words of this list belong to the corrections already made. The chest (ⲧⲙⲉⲥⲧϩⲏⲧ) is the breast as a whole, distinct from the two breasts (ϭⲓⲃⲉ) that precede it. The member Wisse's English renders "womb", ⲡⲉⲕⲟⲩⲛϥ, is ⲕⲟⲩⲛ⸗ with the possessive "his": Crum's "bosom", rendering κόλπος, the bosom or lap in which a child or a beloved is held (the word is used of Abraham's bosom and of the beloved disciple at John 13:23). The power over it is ⲥⲁⲃⲁⲗⲱ, in which a Semitic root "to carry" has been proposed; the proposal is attractive, since the bosom is where things are carried, but it is not more than a proposal.
 
-The readable names of the second list are few, and one stands out. The right shoulder is moved by ⲓⲁⲕⲟⲩⲓⲃ, Jacob, the patriarch who wrestled until daybreak (Gen 32:24–28). The shoulder, as in the first list, is the seat of "all power" (*AC* §4937), and Swedenborg says of the hands, arms and shoulders that their power is "by the truth of faith from good … because they attribute all power to Him, and none to themselves" (*AC* §4932). In the first list the shoulder was made by the root "to break"; in the second it is moved by the man who strove and prevailed. The left ribs are held by ⲥⲩⲛⲟⲅⲭⲟⲩⲧⲁ, in which the Greek συνοχή, "holding together, containment", is visible: the ribs that hold the chest together. The left thigh is moved by ⲭⲑⲁⲱⲛ, the Greek χθών, "earth", and Swedenborg's lowest members are the natural (*AC* §4938). The genitals are moved, in Codex IV's spelling, by ⲑⲁⲃⲓⲛⲱⲑ, which is the Hebrew *tabnît*, "pattern, model, form" — the word for the pattern of the tabernacle shown to Moses (Exod 25:9) — where Codex II has the same letters transposed (ⲃⲁⲑⲓⲛⲱⲑ). The members that pass on the human form are moved by the Pattern.
+The readable word-names of the second list are few, and one stands out. The right shoulder is moved by ⲓⲁⲕⲟⲩⲓⲃ, Jacob, the patriarch who wrestled until daybreak (Gen 32:24–28). The shoulder, as in the first list, is the seat of "all power" (*AC* §4937), and Swedenborg says of the hands, arms and shoulders that their power is "by the truth of faith from good … because they attribute all power to Him, and none to themselves" (*AC* §4932). In the first list the shoulder was made by the root "to break"; in the second it is moved by the man who strove and prevailed. The left ribs are held by ⲥⲩⲛⲟⲅⲭⲟⲩⲧⲁ, in which the Greek συνοχή, "holding together, containment", is visible: the ribs that hold the chest together. The left thigh is moved by ⲭⲑⲁⲱⲛ, the Greek χθών, "earth", and Swedenborg's lowest members are the natural (*AC* §4938). The genitals are moved, in Codex IV's spelling, by ⲑⲁⲃⲓⲛⲱⲑ, which is the Hebrew *tabnît*, "pattern, model, form" — the word for the pattern of the tabernacle shown to Moses (Exod 25:9) — where Codex II has the same letters transposed (ⲃⲁⲑⲓⲛⲱⲑ). The members that pass on the human form are moved by the Pattern.
 
 **Correspondential key:**
 
@@ -527,7 +537,7 @@ Then the text turns from the body to the soul:
 
 Five faculties are named, and four of them in Greek: αἴσθησις, the senses or perception; ἀνάληψις, reception or taking up; φαντασία, imagination; and ὁρμή, impulse. The fourth, ϫⲱⲛϥ, is a Coptic word that Wisse renders "composition", and which the text has already used of the joining of the members (II 15,27). The sequence uses the vocabulary of Greek philosophical psychology, in which a presentation (φαντασία) received through the senses issues in impulse (ὁρμή); the Apocryphon sets reception between perception and imagination, and composition between imagination and impulse. The order is the passage of an impression from the senses inward and its return outward as action.
 
-The ruler of the imagination is the clearest of the five. Both codices write ⲟⲩⲙⲙⲁⲁ, with the double ⲙ, and the name is the Greek ὄμμα, "eye". The faculty that forms images is ruled by the Eye. Swedenborg makes exactly this derivation in his chapter on the eye: "the objects of the world, all of which derive something from the light of the sun, enter through the eye, and bestow themselves in the memory, and this evidently under a like visual figure, for whatever is produced therefrom is seen inwardly. This is the source of man's imagination" (*AC* §4408). The ruler of the senses, ⲁⲣⲭⲉⲛⲇⲉⲕⲧⲁ, carries the Greek ἀρχ-, "chief", and perhaps δέκτης, "receiver" (*The Unnamed Cartography* reads "chief receiver"); the senses are the first receivers of the soul. The other three names are opaque.
+The ruler of the imagination is the clearest of the five. Both codices write ⲟⲩⲙⲙⲁⲁ, with the double ⲙ, and the name is the Greek ὄμμα, "eye". The faculty that forms images is ruled by the Eye. Swedenborg makes exactly this derivation in his chapter on the eye: "the objects of the world, all of which derive something from the light of the sun, enter through the eye, and bestow themselves in the memory, and this evidently under a like visual figure, for whatever is produced therefrom is seen inwardly. This is the source of man's imagination" (*AC* §4408). The ruler of the senses, ⲁⲣⲭⲉⲛⲇⲉⲕⲧⲁ, looks Greek, ἀρχ- with δέκτης, "chief receiver", as *The Unnamed Cartography* read it; but it is a form of the same Egyptian name as ⲁⲣⲭⲉⲛⲧⲉⲭⲑⲁ, the power over the toes in the second list: Horus Khentikheti, the god of Athribis, whose name appears in the magical papyri as αρχεντεχθα (Quack 1995, 118–119). The resemblance to the Greek is accidental, and the reading "chief receiver" is withdrawn. The other three names are opaque.
 
 The five belong to the psychic body, not to God, and the narrative will show it: they are the faculties the archons can build. Swedenborg's account of the sensuous is the same in its place: the "external sensuous, or sensuous of the body" is subordinate either to the intellectual part or to the will part of the internal man (*AC* §§5077–5078, 5094), and is in itself the lowest of the faculties. Perception, reception, image, composition and impulse, ruled from above, are the natural mind's whole equipment for receiving the world and acting in it. Nothing in the list provides for receiving what is above the world. That is the lack the narrative exposes in §11.
 
@@ -535,7 +545,7 @@ The five belong to the psychic body, not to God, and the narrative will show it:
 
 | Faculty | Ruler | Correspondence | Swedenborg |
 |---|---|---|---|
-| The senses (ⲁⲓⲥⲑⲏⲥⲓⲥ) | ⲁⲣⲭⲉⲛⲇⲉⲕⲧⲁ ("chief receiver") | The external sensuous, first receiver of impressions | *AC* §§5077–5078 |
+| The senses (ⲁⲓⲥⲑⲏⲥⲓⲥ) | ⲁⲣⲭⲉⲛⲇⲉⲕⲧⲁ (Horus Khentikheti) | The external sensuous, first receiver of impressions | *AC* §§5077–5078 |
 | Reception (ⲁⲛⲁⲗⲏⲙⲯⲓⲥ) | ⲇⲉⲓⲑⲁⲣⲃⲁⲑⲁⲥ | The taking-up of what is perceived into memory | *AC* §4408 |
 | Imagination (ⲫⲁⲛⲧⲁⲥⲓⲁ) | ⲟⲩⲙⲙⲁⲁ, ὄμμα, "Eye" | The inward sight of what the eye received: "the source of man's imagination" | *AC* §4408 |
 | Composition (ϫⲱⲛϥ) | ⲁⲁⲭⲓⲁⲣⲁⲙ | The joining of images into thought | — |
@@ -560,7 +570,7 @@ Four rulers follow, each "the one who is lord over" a quality (ⲡⲉⲧⲟ ⲇ�
 
 The four qualities are the four of Greek physics and medicine, the hot, the cold, the wet and the dry, from whose mixture bodies and their temperaments were said to arise. The Coptic says that the source of the demons "is determined" (ⲥⲉⲧⲏϣ, from ⲧⲱϣ, "to limit, determine, set bounds") to be four, and that their mother is "without limit" (ⲛ̅ⲁⲧⲧⲟϣⲥ̅, the privative of the same verb). The four are bounded; the matter from which they come is unbounded; and she "mixes with them all". Her name, in Codex IV ⲟⲛⲟⲣⲑⲟⲭⲣⲁⲥ (IV 28,6), carries the Greek κρᾶσις, "mixture", the very word for the blending of qualities in a body: the text tells us what she does and her name says it. The rest of the name is less certain; ὀρθο-, "right, straight", is visible, and a privative reading, "un-right mixture", was proposed in one of the reports prepared for this study, but the Coptic spelling does not settle it.
 
-Two of the four rulers' names are transparent. The ruler of heat is ⲫⲗⲟⲝⲟⲫⲁ, beginning with φλόξ, "flame". The ruler of wetness is ⲁⲑⲩⲣⲱ, which is Ἀθύρ, the Greek form of Hathor, the Egyptian goddess whose month in the Egyptian calendar fell in the season of the Nile's flood. The other two are less certain: ⲉⲣⲓⲙⲁⲭⲱ, ruler of the dry, may contain ἐρημ-, "desert", and ⲟⲣⲟⲟⲣⲣⲟⲑⲟⲥ, ruler of the cold, could be read with ὀρρωδέω, "shrink back in fear". Both are grade C and carry no weight in what follows.
+Two of the four rulers' names are transparent. The ruler of heat is ⲫⲗⲟⲝⲟⲫⲁ, beginning with φλόξ, "flame". The ruler of wetness is ⲁⲑⲩⲣⲱ, which is Ἀθύρ, the Greek form of Hathor — Quack reads *Ḥw.t-Ḥr.w ꜥꜣ.t*, "Hathor the great" (Quack 1995, 119) — the Egyptian goddess whose month in the Egyptian calendar fell in the season of the Nile's flood. The other two are less certain: ⲉⲣⲓⲙⲁⲭⲱ, ruler of the dry, may contain ἐρημ-, "desert", and ⲟⲣⲟⲟⲣⲣⲟⲑⲟⲥ, ruler of the cold, could be read with ὀρρωδέω, "shrink back in fear". Both are grade C and carry no weight in what follows.
 
 *The Unnamed Cartography* (§3.7) mapped the four onto Swedenborg's spiritual compass, in which the quarters of heaven are states of love and wisdom (*HH* §§141–153): heat to the east, where the Lord appears as a sun and love is warmest; cold to the west, where love is obscure; wetness to the south, where truth is in full light; dryness to the north, where it is obscure. The Coptic confirms the names on which that mapping rests. It adds what the English could not: that the four are said to be bounded and their mother unbounded, and that she is named by the mixing she performs. In Swedenborg's terms the qualities are the forms in which love and wisdom are received at the lowest degree, and matter is the receptacle that takes every form and has none of its own. The text names the receptacle "the mother", and says that the demons in the whole body are nourished by her.
 
@@ -586,7 +596,7 @@ The text now names what the matter nourishes:
 >
 > "The four chief demons are: Ephememphi who belongs to pleasure, Yoko who belongs to desire, Nenentophni who belongs to grief, Blaomen who belongs to fear. And the mother of them all is Aesthesis-Ouch-Epi-Ptoe." (II 18,14–19, Robinson)
 
-Pleasure (ἡδονή), desire (ἐπιθυμία), grief (λύπη) and fear are the four primary passions of Stoic ethics, which Diogenes Laertius gives in the same four (ἐπιθυμία, φόβος, λύπη, ἡδονή; *Lives* 7.110). The Apocryphon takes three of them in Greek. The fourth, fear, it names in Coptic: in Codex II the Akhmimic-coloured ϩⲛⲱϩⲉ (18,18; again as ⲛⲱϩⲉ at 18,30), in Codex IV the Sahidic ϩⲟⲧⲉ in its form ⲑⲣ̅ⲧⲉ (IV 29,1). Both copyists, working independently, kept fear in the native language while leaving its three companions in Greek. Nothing in the doctrine requires it, and it may be no more than the habit of each dialect; but it means that in both codices the passion that sends the body back from what is above it is the one passion named in the body's own speech.
+The demon of pleasure, ⲉⲫⲉⲙⲉⲙⲫⲓ, is probably Nefertem of Memphis (*Nfr-tm Mn-nfr*), with one letter restored: the young god of the lotus and its fragrance, the son of Ptah and Sakhmet in the triad of Memphis (Quack 1995, 119). The other three names are opaque. Pleasure (ἡδονή), desire (ἐπιθυμία), grief (λύπη) and fear are the four primary passions of Stoic ethics, which Diogenes Laertius gives in the same four (ἐπιθυμία, φόβος, λύπη, ἡδονή; *Lives* 7.110). The Apocryphon takes three of them in Greek. The fourth, fear, it names in Coptic: in Codex II the Akhmimic-coloured ϩⲛⲱϩⲉ (18,18; again as ⲛⲱϩⲉ at 18,30), in Codex IV the Sahidic ϩⲟⲧⲉ in its form ⲑⲣ̅ⲧⲉ (IV 29,1). Both copyists, working independently, kept fear in the native language while leaving its three companions in Greek. Nothing in the doctrine requires it, and it may be no more than the habit of each dialect; but it means that in both codices the passion that sends the body back from what is above it is the one passion named in the body's own speech.
 
 The mother of the four is **Aesthesis**, Perception or Sense: ⲉⲥⲑⲏⲛⲥⲓⲥ in Codex II, the Greek αἴσθησις with an intrusive nasal, followed by the phrase ⲟⲩⲭ ⲉⲡⲓⲡⲧⲟⲏ. Read as Greek, οὐχ ἐπὶ πτοῇ is "not at excitement" or "not upon fluttering"; Robinson prints it as a name, and the text itself uses it as one when it returns to it a few lines later with the numeral seven: "for it exists with the 7 senses, Ouchepiptoe" (ⲉⲥϣⲟⲟⲡ ⲅⲁⲣ ⲙⲛ̅ ⲧⲉⲥⲑⲏⲥⲓⲥ ⲍⲟⲩⲭⲉⲡⲓⲡⲧⲟⲏ, II 19,1–2, with the numeral ⲍ written as the first letter of the name, as with Zathoth in §6). The sense of the Greek, if it is meant to be heard, is that Perception is the mother of the passions while not herself being moved. That accords with Swedenborg's account of the sensuous. The five bodily senses "constitute all the life of the body", so that "the very bodily part of man is nothing else than a receptacle of sensations" (*AC* §5077); the senses serve the intellectual part and the will part of the internal man (*AC* §§5077–5078); and what is evil is not the senses themselves but "the views or thoughts, and also the affections and desires, from them" (*AC* §5094). Perception is the mother of the passions without being a passion. The faculty list in §8 ended with impulse; the demons' list begins with what perception is moved to.
 
@@ -636,7 +646,7 @@ The number is written out in Coptic words, ϣⲙ̅ⲧϣⲉ ("three hundred") ⲥ
 >
 > "Now there are other ones in charge over the remaining passions whom I did not mention to you. But if you wish to know them, it is written in the book of Zoroaster." (II 19,6–10, Robinson)
 
-Codex IV has the same sentence at IV 29,16–18, though there the title is almost wholly lost: the edition restores [ϩⲙ̅ ⲡϫⲱⲙⲉ ⲛ̅ⲍⲱⲣⲟ]ⲁⲥⲧ[ⲣⲟⲥ], of which only ⲁⲥⲧ survives. The restoration is controlled by Codex II, so the second codex confirms that a book was cited at this point and is consistent with its being Zoroaster's, without independently attesting the name. The catalogue is presented as an excerpt. Its author claims to have taken a selection from a longer book, attributed to Zoroaster, in which the full complement of 365 was named; and it marks the point at which the excerpt stops. *The Book of Zoroaster* (in this library) has treated the identity of that book and the question of what a Zoroastrian anatomy might have contained. The present study adds two things that the Coptic shows. The first is that the excerpt is internally ordered: it does not break off at random but completes each of its systems, the substances, the members from head to toenails, the overseers, the organs, the faculties, the qualities and the passions, and stops where "the remaining passions" would have begun. The second is that the excerpt's order is the order of the made body from its innermost substance to its outermost reaction, so that what was left out lies at the very end, in the passions, where an anatomy of the fallen body would have the most to say and the least to teach. Whatever the book of Zoroaster was, the Apocryphon took from it the architecture and left the swarm.
+Codex IV has the same sentence at IV 29,16–18, though there the title is almost wholly lost: the edition restores [ϩⲙ̅ ⲡϫⲱⲙⲉ ⲛ̅ⲍⲱⲣⲟ]ⲁⲥⲧ[ⲣⲟⲥ], of which only ⲁⲥⲧ survives. The restoration is controlled by Codex II, so the second codex confirms that a book was cited at this point and is consistent with its being Zoroaster's, without independently attesting the name. The catalogue is presented as an excerpt. Its author claims to have taken a selection from a longer book, attributed to Zoroaster, in which the full complement of 365 was named; and it marks the point at which the excerpt stops. *The Book of Zoroaster* (in this library) has treated the identity of that book and the question of what a Zoroastrian anatomy might have contained. The present study adds two things that the Coptic shows. The first is that the excerpt is internally ordered: it does not break off at random but completes each of its systems, the substances, the members from head to toenails, the overseers, the organs, the faculties, the qualities and the passions, and stops where "the remaining passions" would have begun. The second is that the excerpt's order is the order of the made body from its innermost substance to its outermost reaction, so that what was left out lies at the very end, in the passions, where an anatomy of the fallen body would have the most to say and the least to teach. Whatever the book of Zoroaster was, the Apocryphon took from it the architecture and left the swarm. Quack's proposal for what it was deserves a place here. Late antiquity knew a number of astrological works under Zoroaster's name, which show no specifically Persian doctrine and were probably written in Egypt or Syria. One of them, excerpted by Cosmas of Jerusalem in the eighth century and traced to "Zarathrustes", sets an eternal god at the head of the world, seven gods under him who are the planets, and then thirty-six gods who are the decans, from whom everything else came forth — the same architecture as the Apocryphon, though without its Egyptian names. Cumont attributed that text to Teucer of Babylon, an astrological writer who transmitted much Egyptian material; Quack places the Apocryphon's source in that circle, as a Greek astrological treatise written in Egypt, while stressing that the attribution cannot be proved (Quack 1995, 120–121). He adds an observation that bears on §10: in astrology the heavenly powers are not benevolent but capricious and jealous, so that the Apocryphon's negative valuation of the makers was already latent in its source (Quack 1995, 122).
 
 Then the narrative turns:
 
@@ -694,7 +704,7 @@ The passage is short. In Codex II it fills a little more than four pages, from t
 
 The compression is most visible in what the Coptic does with single words. The verb that separates the two companies, "created" (ⲁϥⲧⲁⲙⲓⲟ) against "are active in" (ⲛⲉⲧⲉⲛⲉⲣⲅⲉⲓ), divides the body's formation from its operation (§§5.1, 7). The privative that separates the qualities from their mother, ⲧⲏϣ against ⲁⲧⲧⲟϣⲥ, divides bounded from unbounded (§9). The negative that is lifted at the end, ⲁⲧⲕⲓⲙ to ⲁϥⲕⲓⲙ, divides the made body from the living one (§11). And one noun, ⲕⲱϩ, is placed at four points in the narrative — in the archon's boast, in the substance of the skin, among the passions of grief, and in the makers' response to the living man — so that a single state is traced through four degrees without the text once stepping back to say so (§10). The same economy governs the word for understanding: ⲙⲛ̅ⲧⲣⲙⲛ̅ϩⲏⲧ is the seventh power and makes only the hair (II 15,22–23), and it is the quality in which the living man surpasses his makers (II 20,3–5). The understanding the archons could give was outermost; the understanding the breath gave was greater than theirs.
 
-The names compress in the same way. A name that can be read at all tends to name the member's function in a word: the firm for the teeth, judgment for the nails, breaking for the shoulder, the book for the kidneys, the eye for the imagination, flame for heat, mixture for the mother of the qualities, perception for the mother of the passions. The text does not explain these names, and it did not need to. A reader who knew Greek, Hebrew and Egyptian would hear them; a reader who did not would hear only the music of angelic names, and would lose nothing of the narrative. This is how a correspondential text behaves when it is copied by those who no longer hold its key: the exterior is intact and the interior is still present in it, in the very letters, for whoever can read them.
+The names compress in the same way. Most of those that can be read are the names of Egyptian decans and gods, which say who rules a member (Quack 1995). The rest are words, and a word-name tends to name the member's function: the firm for the teeth, judgment for the nails, breaking for the shoulder, the book for the kidneys, the eye for the imagination, flame for heat, mixture for the mother of the qualities, perception for the mother of the passions. The text does not explain these names, and it did not need to. A reader who knew Greek, Hebrew and Egyptian would hear them; a reader who did not would hear only the music of angelic names, and would lose nothing of the narrative. This is how a correspondential text behaves when it is copied by those who no longer hold its key: the exterior is intact and the interior is still present in it, in the very letters, for whoever can read them.
 
 Finally, the passage compresses its source. It says that it has left out the rulers "over the remaining passions", and it refers the reader to the book of Zoroaster (II 19,6–10). What survives is therefore, by its own account, an excerpt, and the order of its omissions is itself evidence: the systems are complete, and only the swarm of particular passions is cut. A fuller anatomy existed or was claimed to exist. The Apocryphon kept from it what it needed to make one point — that the body is completely made and still not alive — and left the rest.
 
@@ -714,7 +724,7 @@ Swedenborg expands the Apocryphon in one further respect, by contrast. The Apocr
 
 The framework holds that the correspondences between the human form and the spiritual order are not inventions of any one writer but features of reality, and that texts written in correspondence preserve them whether or not their later readers can see them. That hypothesis makes a specific prediction about this passage: if the angel catalogue is a correspondence map, then where its names can be read they should be apt to their members in the way the doctrine of the Grand Man describes, and nowhere should a readable name contradict its member's function. The prediction can fail. A readable name that put the faculty of judgment in the feet, or the creator of form in the excretory organs, or that put the right-hand angels systematically on the left, would count against it.
 
-The Coptic reading tests the prediction on a stricter basis than *The Unnamed Cartography* could. It settles the body parts from the lexica before any comparison is made, it removes the readings that depended on wrong word division, it restores the sides from the second codex, and it counts only grades A and B. On that basis twenty-nine names can be read (§14.6). Of the fifteen in the first list, fourteen are apt to their members and one, Saklas at the left kidney, names what the kidney rejects (§5.7). None contradicts its member. The apparent contradictions of side that the English showed are copying errors, each explained by the eye's leap from one occurrence of a word to the next (§5.2). The result is a hit for the prediction, on a smaller and better-founded set of names than before, and it is reported as one.
+The Coptic reading tests the prediction on a stricter basis than *The Unnamed Cartography* could. It settles the body parts from the lexica before any comparison is made, it removes the readings that depended on wrong word division, it restores the sides from the second codex, and it counts only grades A and B. On that basis forty names can be read (§14.6). They are of two kinds. Some are words; of the fourteen word-names in the first list, thirteen are apt to their members and one, Saklas at the left kidney, names what the kidney rejects (§5.7). The others are the names of ruling powers, most of them Egyptian decans and gods, which say who governs a member, not what it does (§5.7; Quack 1995). None of either kind contradicts its member. Four of the word-names (Tebar, Euanthen, Kriman, Biblo) have an alternative reading as decan names; if all four alternatives were right, nine apt word-names would remain in the first list, and no contradiction would be added. The apparent contradictions of side that the English showed are copying errors, each explained by the eye's leap from one occurrence of a word to the next (§5.2). The result is a hit for the prediction, on a smaller and better-founded set of names than before, and it is reported as one.
 
 The passage bears on three further claims of the framework. First, it supports the reading of the Apocryphon's persons as states, as *The Living Library* (§6) reads Yaldabaoth across the collection: the self personified, a structural constant rather than a character. The jealousy of the archon is not a feature of his character that the narrative mentions once; it is a single state that the text places in his boast, in the skin of the body his authorities make, among the passions that grief breeds, and in the response of the makers to the living man (§10). That is how the corpus behaves when its figures are read as the states they express, and it is what the proprium does in Swedenborg's account: it receives, claims what it receives, and resents what it cannot claim. Second, the passage supports the doctrine of influx as the framework's central structural claim. A text that builds a complete body and declares it lifeless, and then gives life through a breath its giver does not understand, is a narrative statement of the difference between the vessel and what flows into it. Third, the passage bears on the Ancient Word. It cites a book of Zoroaster as the source of a fuller anatomy (II 19,8–10), and its own names draw on Egyptian, Greek and Semitic traditions together (§5.7). *The Book of Zoroaster and the Children of the East* has argued that the citation attests a pre-literary correspondential system transmitted across those traditions. The Coptic reading cannot confirm that the book existed as cited; it shows that the excerpt is ordered as a whole and that its readable names are apt across three languages, which is what an excerpt from such a system would look like.
 
@@ -722,11 +732,13 @@ What the passage does not show is also clear. It does not show that its authors 
 
 ### 12.4 The Problem of the Opaque Names
 
-Of the one hundred and thirty names that survive, twenty-nine can be read at grade A or B. The rest, about a hundred, cannot be read with confidence, and some cannot be read at all. This is the passage's chief problem, and it needs to be stated plainly rather than solved by conjecture.
+Of the one hundred and thirty names that survive, forty can be read at grade A or B. The rest, about ninety, cannot be read with confidence, and some cannot be read at all. A large part of the problem has been solved, and the solution changes how the remainder should be approached.
 
-Several causes can be named, and they are not exclusive. The names have passed through at least one change of language and script, from a Greek exemplar, and in some cases from Egyptian or Semitic behind the Greek, into Coptic letters copied by scribes who did not know what the names meant. Codices II and IV, which agree closely in order, differ in a number of spellings (ⲅⲏⲥⲟⲗⲉ and ⲥⲏⲥⲟⲗⲉ; ⲃⲁⲑⲓⲛⲱⲑ and ⲑⲁⲃⲓⲛⲱⲑ; ⲥⲏⲛⲁⲫⲓⲙ and ⲥⲏⲛⲁⲫⲑⲓ), so that the names were already unstable before the fourth century. Some names may be compounds of two names run together under one stroke, as the first maker's name appears to be (§5.3). Some may belong to the repertoire of names of power found in the ritual texts of late antique Egypt, which were valued for their sound and foreignness as much as for any meaning; Piwowarczyk's lexicon of the spiritual powers of the Nag Hammadi codices sets them against exactly that evidence (Piwowarczyk 2021). And some may be Egyptian names of decans and of the gods of the members, the two traditions Quack identified behind the passage (Quack 1995). A name of that kind would be opaque in Greek and Hebrew and transparent only to someone who knew the Egyptian lists.
+Quack's study showed that the names are not, for the most part, Greek or Semitic words at all. In the first list, the seventy-two makers, more than twenty can be recognised as the names of Egyptian decans in the distorted forms that the Greek astrological tradition gave them, and others as Egyptian gods: Ptah the great, Horus the justified, "the god". In the second list and among the rulers the decan names cease, but Egyptian divine names continue: "great one of the earth", the primordial darkness, Horus the elder, Horus of Athribis, Hathor the great, Nefertem of Memphis (Quack 1995, 114–119). Many of the same names circulated in the magical papyri, where Egyptian names of power were valued for their sound and their potency rather than understood; Piwowarczyk's lexicon sets the spiritual powers of the Nag Hammadi codices systematically against that ritual evidence (Piwowarczyk 2021). Several of Quack's identifications require emendation, and he grants that; but, as he notes, the decan names are distorted far more than his emendations assume in the other lists where they can be followed, and he expected further names to prove Egyptian rather than to find better non-Egyptian etymologies (Quack 1995, 119).
 
-The method of this study does not allow any of these possibilities to be turned into evidence for the framework. A grade C name is recorded with the readings that have been proposed for it, including those in the two reports prepared for this study and in *The Unnamed Cartography*; it is not counted. The argument of §12.3 rests on the twenty-nine names that can be read, and would stand if every opaque name proved to be a meaningless sequence of sounds. It would be strengthened if any substantial number of them could be read and proved apt, and it would be weakened if they could be read and proved inapt. Two kinds of work could decide it: a comparison of the opaque names with the Egyptian decan lists and member-deification texts that Quack's study collects; and a comparison with the ritual-power attestations collected by Piwowarczyk. Until that work is done the opaque names are what they appear to be: names whose meaning the text no longer carries on its surface.
+This has two consequences for the argument. The first is that an opaque name is most likely an Egyptian power-name whose form has decayed, not a word whose meaning is hidden. It says who rules the member in the Egyptian scheme of decans and gods, and that is a statement about governance, not about function. The method therefore does not count it either way. The second is that the list carries two kinds of naming together. The decan names come from an astrological melothesia, a scheme in which each star-power holds a member; the word-names — the firm for the teeth, judgment for the nails, breaking for the shoulder, the meninges for the brain, the book for the kidneys — say what each member is for. The convergence with Swedenborg rests on the second kind, and it survives on a smaller base than *The Unnamed Cartography* supposed. The first kind is itself a doctrine of the body as governed member by member from the heavens, which is the structure of the Grand Man seen from the side of the powers that rule rather than the life that flows.
+
+What remains open is narrower than before: the opaque names that are neither recognisable decans nor words. A comparison of them with the full decan lists collected by Gundel, which Quack used, and with the ritual-power attestations in Piwowarczyk's lexicon, is the work that could decide them.
 
 ### 12.5 Limitations and Lacunae
 
@@ -738,7 +750,7 @@ Codex IV is badly damaged. Its readings are used only where its letters survive,
 
 Three body words remain uncertain after the lexica have been consulted: ϫⲱ (IV ϫⲟ), which Robinson's English renders "shoulder joint" but which the list places among the members of the trunk; ⲧⲉⲧⲉ, rendered "buttock (?)"; and ϭⲗⲁⲧⲉ ⲛ̅ⲧⲟⲩⲣⲏⲧⲉ, literally "the kidneys of the foot", at entry fifty-nine. The member of entry fifty-four, ⲃⲁϩ, is given by Crum as "penis (?)" and glossed βουβών, "groin"; its place among the members of generation is secure, its exact sense is not. None of these is used as evidence.
 
-Three scholarly works that bear directly on the passage were not read in full for this study. Quack's article on the Egyptian decans and the deification of the members behind the Apocryphon (Quack 1995) is cited from its bibliographic record; the copy online could not be retrieved. Piwowarczyk's lexicon (Piwowarczyk 2021) is cited from its catalogue record. Van den Broek's study of the creation of Adam's psychic body (van den Broek 1981) was not consulted. Specific identifications attributed to these works in the two reports prepared for this study have not been used. The thesis's claims about the Egyptian background of the number seventy-two rest on Quack's title and on the arithmetic of the decans, not on his argument.
+Quack's article (Quack 1995) has been read in full, and his identifications are reported in the tables with his page references; this study has not checked them against the decan lists he used (Gundel's tables, Hephaestion, Firmicus Maternus, the *Testament of Solomon*), and several of them depend on emendations. Piwowarczyk's lexicon (Piwowarczyk 2021) has been read only in its introduction and first entries; its entries on the names of this passage have not been consulted. Van den Broek's study of the creation of Adam's psychic body (van den Broek 1981) was not available. Identifications attributed to these works in the two reports prepared for this study, where they could not be found in Quack's article, have not been used.
 
 The two reports themselves contained readings, line references and Swedenborg citations that could not be verified against the manuscripts or the sources: body parts and names that do not occur in either codex, Coptic words not in the text, Swedenborg sections that do not say what was attributed to them, and etymologies that require emendations. All such material has been excluded; what remains in the thesis has been checked against the Coptic, the lexica or Swedenborg's text as cited.
 
@@ -748,9 +760,9 @@ Finally, the count. The text says there are 365 angels and names one hundred and
 
 ## 13. Conclusion: The Body That Waited for Breath
 
-Read from the Coptic, the angelic anthropogony of the Apocryphon of John is not a list of names but a sequence of operations, each marked by its own grammar, in the order in which a body is built and brought to life. Seven powers make its substances, from bone inward and outward to skin and hair, the sixth being envy and the seventh understanding (§4). Seventy-two makers build its members from the crown to the toenails; Codex II preserves sixty-nine of them and Codex IV supplies the three that Codex II's scribe lost, while Codex II supplies the two that Codex IV's scribe lost, so that each witness restores the other (§5). Seven authorities of the chief archon stand over the makers, and the ghost angel "Zathoth" is the numeral seven before the name Athoth (§6). Thirty more are made not to create the members but to be active in them, and the list says so by reversing its word order (§7). Seven stand over the movers, two of them bearing the names of archangels; five rule the faculties by which an impression becomes an action, and the ruler of the imagination is the Eye (§8). Four rule the bounded qualities of heat, cold, dryness and wetness, and their mother is unbounded matter, who "mixes with them all" and is named by the mixing (§9). Four demons rule the four primary passions, and their mother is Perception; the passions are said to be "like useful things and evil things", and the discernment that judges them sits at the head of the material soul and no higher (§10). The angels number 365; the rest are referred to the book of Zoroaster; and the whole product lies inert "for a long time", until the Mother's power, breathed in by an archon who does not know what he holds, makes it move, grow strong and shine (§11).
+Read from the Coptic, the angelic anthropogony of the Apocryphon of John is not a list of names but a sequence of operations, each marked by its own grammar, in the order in which a body is built and brought to life. Seven powers make its substances, from bone inward and outward to skin and hair, the sixth being envy and the seventh understanding (§4). Seventy-two makers build its members from the crown to the toenails, the decans of the Egyptian year; Codex II preserves sixty-nine of them and Codex IV supplies the three that Codex II's scribe lost, while Codex II supplies the two that Codex IV's scribe lost, so that each witness restores the other (§5; Quack 1995). Seven authorities of the chief archon stand over the makers, and the ghost angel "Zathoth" is the numeral seven before the name Athoth (§6). Thirty more are made not to create the members but to be active in them, and the list says so by reversing its word order (§7). Seven stand over the movers, two of them bearing the names of archangels; five rule the faculties by which an impression becomes an action, and the ruler of the imagination is the Eye (§8). Four rule the bounded qualities of heat, cold, dryness and wetness, and their mother is unbounded matter, who "mixes with them all" and is named by the mixing (§9). Four demons rule the four primary passions, and their mother is Perception; the passions are said to be "like useful things and evil things", and the discernment that judges them sits at the head of the material soul and no higher (§10). The angels number 365; the rest are referred to the book of Zoroaster; and the whole product lies inert "for a long time", until the Mother's power, breathed in by an archon who does not know what he holds, makes it move, grow strong and shine (§11).
 
-Where the names can be read, they are apt. Twenty-nine of the one hundred and thirty surviving names can be read at grades A and B. In the first list the teeth are made by the firm, the nails by judgment, the shoulder by breaking, the kidneys by the book, the brain by its membranes, the right eye by a star, the right ear by the one of sacred name, the bones and the navel by the Egyptian gods who form the body; and the one inversion, Saklas at the left kidney, names what the kidney expels (§5.7). In the second list the right shoulder is moved by Jacob, the left thigh by the earth, the generative members by the pattern (§7). No readable name contradicts its member's function. The body words, settled from Crum and Černý, correct the English in several places — the marrow as "pain-remover", the knee and the ankle where the English has leg and knee, the forearm where it has the underarm, the bosom where it has the womb — and each correction leaves the sequence of the body more exact than before.
+Where the names can be read, they say one of two things. Forty of the one hundred and thirty surviving names can be read at grades A and B. Many are the names of Egyptian decans and gods, the star-powers that in Egyptian and Hellenistic astrology ruled the members one by one, as Quack showed: the body in the Apocryphon is made by the seventy-two decans of the year and governed by the planets. The others are words, and the words are apt. In the first list the teeth are made by the firm, the nails by judgment, the shoulder by breaking, the kidneys by the book, the brain by its membranes, the right eye by a star, the right ear by the one of sacred name; and the one inversion, Saklas at the left kidney, names what the kidney expels (§5.7). In the second list the right shoulder is moved by Jacob, the left thigh by the earth, the generative members by the pattern (§7). No readable name contradicts its member's function. The body words, settled from Crum and Černý, correct the English in several places — the marrow as "pain-remover", the knee and the ankle where the English has leg and knee, the forearm where it has the underarm, the bosom where it has the womb — and each correction leaves the sequence of the body more exact than before.
 
 Where the passage is set beside Swedenborg's Grand Man, the two describe the same form. Both run from the head through the breast to the feet, as Swedenborg distributes the three heavens over the body (*HH* §65); both set the more universal over the less universal (*AC* §4625); both find in the members the functions the names express. And both state that the form, however complete, does not live of itself: "there is one only life, which is from the Lord alone, and … angels, spirits, and men are only recipients of life" (*AC* §3742). The Apocryphon tells it from the side of the vessels. Its makers are recipients who think they are sources. They build every receptacle and find that nothing they have built can move; and when life enters it from beyond them, the jealousy that was the archon's boast, and the skin of the body, and a passion of grief, becomes their answer to the living man.
 
@@ -762,7 +774,7 @@ The body was made in every part. It waited. Then it breathed.
 
 ## 14. Appendix: The Complete Catalogue
 
-The tables below give every power, angel, ruler, quality and passion of the passage in the order of the text, from the Coptic of Codex II with the variants of Codex IV. Body parts are given as settled from Crum and Černý (§§2.3, 5). The grade is that of the reading of the name (§2.3): A transparent, B probable, C possible or opaque. Only grades A and B are counted as evidence in this study.
+The tables below give every power, angel, ruler, quality and passion of the passage in the order of the text, from the Coptic of Codex II with the variants of Codex IV. Body parts are given as settled from Crum and Černý (§§2.3, 5). The grade is that of the reading of the name (§2.3): A transparent, B probable, C possible or opaque. Only grades A and B are counted as evidence in this study. Egyptian identifications are from Quack (1995).
 
 ### 14.1 The Seven Substance-Souls (II 15,13–23; IV 24,2–14)
 
@@ -782,10 +794,10 @@ Codex II has sixty-nine names: it lacks the left shoulder, left elbow and left l
 
 | # | Angel (II; IV variant) | Member | Grade | Reading |
 |---|---|---|---|---|
-| 1 | ⲉⲧⲉⲣⲁⲫⲁⲱⲡⲉ ⲁⲃⲣⲱⲛ (IV punctuates between the two words) | ϫⲱϥ, his head | C | Possibly two names; ⲉⲧⲉ ⲣⲁⲫⲁⲱ ⲡⲉ, "who is Raphao", has been proposed |
+| 1 | ⲉⲧⲉⲣⲁⲫⲁⲱⲡⲉ ⲁⲃⲣⲱⲛ (IV punctuates between the two words) | ϫⲱϥ, his head | C | Possibly two names; the month-name Paophi, and a decan or a magical ἀβρα- name, have been proposed (Quack 1995, 114) |
 | 2 | ⲙⲏⲛⲓⲅⲅⲉⲥⲥⲧⲣⲱⲏⲑ | ⲡⲉⲛⲕⲉⲫⲁⲗⲟⲥ, the brain (ἐγκέφαλος) | A | ⲙⲏⲛⲓⲅⲅ- = μήνιγγ-, "the meninges", the membranes of the brain |
-| 3 | ⲁⲥⲧⲉⲣⲉⲭⲙⲏ | ⲡⲃⲁⲗ ⲛ̅ⲟⲩⲛⲁⲙ, the right eye | A | ⲁⲥⲧⲉⲣ- = ἀστήρ, "star"; ἀστήρ + ἔχω, "star-holder" (*The Unnamed Cartography*) |
-| 4 | ⲑⲁⲥⲡⲟⲙⲟⲭⲁ | ⲡⲃⲁⲗ ⲛ̅ϭⲃⲟⲩⲣ, the left eye | C | Opaque |
+| 3 | ⲁⲥⲧⲉⲣⲉⲭⲙⲏ | ⲡⲃⲁⲗ ⲛ̅ⲟⲩⲛⲁⲙ, the right eye | A | ⲁⲥⲧⲉⲣ- = ἀστήρ, "star"; the second element is the decan *knm.w* (Firmicus *chenem*; Quack 1995, 114–115) |
+| 4 | ⲑⲁⲥⲡⲟⲙⲟⲭⲁ | ⲡⲃⲁⲗ ⲛ̅ϭⲃⲟⲩⲣ, the left eye | C | With emendation, the decan *ṯms n ḫntt* (Hephaestion Θοσολκ; Quack 1995, 115) |
 | 5 | ⲓⲉⲣⲱⲛⲩⲙⲟⲥ | ⲡⲙⲁⲁϫⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right ear | B | ἱερώνυμος, "of sacred name"; the omega favours it over ἱερονόμος |
 | 6 | ⲃⲓⲥⲥⲟⲩⲙ | ⲡⲙⲁⲁϫⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left ear | C | Opaque; Hebrew *bōśem*, "spice", has been proposed |
 | 7 | ⲁⲕⲓⲱⲣⲉⲓⲙ | ⲡϣⲁ, the nose | C | Opaque |
@@ -793,62 +805,62 @@ Codex II has sixty-nine names: it lacks the left shoulder, left elbow and left l
 | 9 | ⲁⲙⲏⲛ | ⲛⲟⲃϩⲉ, the teeth | A | Hebrew *ʾāmēn*, "firm, true" |
 | 10 | ⲓⲃⲓⲕⲁⲛ | ⲛⲁϫϩⲉ, the molars (Crum: μύλη) | C | Opaque |
 | 11 | ⲃⲁⲥⲓⲗⲓⲁⲇⲏⲙⲏ | ⲡⲁⲣⲓⲥⲑⲙⲓⲟⲛ, the tonsils (παρίσθμιον) | A | ⲃⲁⲥⲓⲗ- = βασιλ-, "royal, kingly" |
-| 12 | ⲁⲭⲭⲁ | ⲥⲧⲁⲫⲩⲗⲏ, the uvula (σταφυλή, "grape") | C | Opaque; the body part is the Greek medical word |
+| 12 | ⲁⲭⲭⲁ | ⲥⲧⲁⲫⲩⲗⲏ, the uvula (σταφυλή, "grape") | B | The decan *ḫ.wi*, Firmicus *Acha* (Quack 1995, 115) |
 | 13 | ⲁⲇⲁⲃⲁⲛ | ⲡⲙⲟⲩⲧ, the neck | C | Opaque; Semitic *dbq*, "cleave, join", has been proposed |
-| 14 | ⲭⲁⲁⲙⲁⲛ | ⲡⲥⲫⲟⲛⲧⲩⲗⲟⲥ, the vertebrae (σφόνδυλος) | C | Opaque; "pillar" has been proposed |
-| 15 | ⲇⲉⲁⲣⲭⲱ | ⲧϣⲟⲩⲱⲃⲉ, the throat | C | Possibly containing ἀρχ-, "rule, beginning" |
-| 16–17 | ⲧⲏⲃⲁⲣ; [lost in both] | ⲧⲛⲁϩⲃⲉ, the shoulders | B | Aramaic *tbr*, "to break" |
+| 14 | ⲭⲁⲁⲙⲁⲛ | ⲡⲥⲫⲟⲛⲧⲩⲗⲟⲥ, the vertebrae (σφόνδυλος) | C | With emendation, part of the decan *ḥry-ib rmn* (Quack 1995, 115); "pillar" has also been proposed |
+| 15 | ⲇⲉⲁⲣⲭⲱ | ⲧϣⲟⲩⲱⲃⲉ, the throat | C | With emendation, the decan *tpy-ꜥ ꜥkw*; ἀρχ- has also been proposed (Quack 1995, 115) |
+| 16–17 | ⲧⲏⲃⲁⲣ; [lost in both] | ⲧⲛⲁϩⲃⲉ, the shoulders | B | Aramaic *tbr*, "to break"; Quack compares the decan forms *tepis*, τεβιου (Quack 1995, 115) |
 | 18–19 | ⲙⲛⲓⲁⲣⲭⲱⲛ (IV ⲙⲛⲓⲁⲭⲱⲣ); […]ⲉ (IV) | ⲡⲕⲉⲗⲉⲛⲕⲉϩ, the elbows (Crum: ἀγκών) | B | II's ⲁⲣⲭⲱⲛ = ἄρχων, "ruler"; μνεία, "memory", for the first element is possible |
 | 20 | ⲁⲃⲓⲧⲣⲓⲱⲛ | ⲑⲱⲙⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right forearm-hollow | C | Opaque |
-| 21 | ⲉⲩⲁⲛⲑⲏⲛ | ⲑⲱⲙⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left forearm-hollow | B | εὐανθής, "well-flowering" |
-| 22 | ⲕⲣⲩⲥ | ⲧϭⲓϫ ⲛ̅ⲟⲩⲛⲁⲙ, the right hand | C | Greek χρυσός, "gold", has been proposed, but the name is written with ⲕ, not ⲭ |
+| 21 | ⲉⲩⲁⲛⲑⲏⲛ | ⲑⲱⲙⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left forearm-hollow | B | εὐανθής, "well-flowering"; Quack compares the decan ευαμμα (Quack 1995, 115) |
+| 22 | ⲕⲣⲩⲥ | ⲧϭⲓϫ ⲛ̅ⲟⲩⲛⲁⲙ, the right hand | C | χρυσός, "gold", has been proposed, but the name is written with ⲕ; Quack compares ρυαξ, the first decan in the *Testament of Solomon* (Quack 1995, 115) |
 | 23 | ⲃⲏⲗⲩⲁⲓ | ⲧϭⲓϫ ⲛ̅ϭⲃⲟⲩⲣ, the left hand | C | Belial has been proposed, on sound alone |
 | 24 | ⲧⲣⲏⲛⲉⲩ | ⲛ̅ⲧⲏⲃⲉ ⲛ̅ⲧϭⲓϫ ⲛ̅ⲟⲩⲛⲁⲙ, the fingers of the right hand | C | Opaque |
-| 25 | ⲃⲁⲗⲃⲏⲗ | ⲛ̅ⲧⲏⲃⲉ ⲛ̅ⲧϭⲓϫ ⲛ̅ϭⲃⲟⲩⲣ, the fingers of the left hand | C | Aramaic *balbēl*, "to mix, confound", has been proposed |
-| 26 | ⲕⲣⲓⲙⲁ (IV ⲕⲣⲓⲙⲁⲛ) | ⲛ̅ⲉⲓⲉⲃⲉ ⲛ̅ⲛ̅ϭⲓϫ, the nails of the hands | A | κρίμα, "judgment" |
-| 27 | ⲁⲥⲧⲣⲱⲯ | ⲧϭⲓⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ (IV ⲧⲕⲓⲃⲉ), the right breast | B | ⲁⲥⲧⲣ- = ἀστρ-, "star"; with ὤψ, "face", "star-faced" has been proposed |
+| 25 | ⲃⲁⲗⲃⲏⲗ | ⲛ̅ⲧⲏⲃⲉ ⲛ̅ⲧϭⲓϫ ⲛ̅ϭⲃⲟⲩⲣ, the fingers of the left hand | B | The decan βελβελ of the *Testament of Solomon*, also a magical name (Quack 1995, 115) |
+| 26 | ⲕⲣⲓⲙⲁ (IV ⲕⲣⲓⲙⲁⲛ) | ⲛ̅ⲉⲓⲉⲃⲉ ⲛ̅ⲛ̅ϭⲓϫ, the nails of the hands | B | κρίμα, "judgment", as Codex II spells it; Quack, reading IV's ⲕⲣⲓⲙⲁⲛ, compares the decan forms *Craumonis*, *Churman* (Quack 1995, 115) |
+| 27 | ⲁⲥⲧⲣⲱⲯ | ⲧϭⲓⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ (IV ⲧⲕⲓⲃⲉ), the right breast | B | ⲁⲥⲧⲣ- = ἀστρ-, "star"; resembles the decan variant *Astiro* in Firmicus (Quack 1995, 116) |
 | 28 | ⲃⲁⲣⲣⲱⲫ | ⲧϭⲓⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left breast | C | Opaque |
 | 29 | ⲃⲁⲟⲩⲙ | ⲡϫⲱ ⲛ̅ⲟⲩⲛⲁⲙ (IV ⲡϫⲟ), the right ϫⲱ | C | Opaque; the member is uncertain (Robinson "shoulder joint") |
 | 30 | ⲁⲣⲁⲣⲓⲙ | ⲡϫⲱ ⲛ̅ϭⲃⲟⲩⲣ, the left ϫⲱ | C | Opaque |
 | 31 | ⲁⲣⲉⲭ (IV ⲁⲣⲉⲭⲏ) | ⲧⲕⲟⲓⲗⲓⲁ, the belly (κοιλία) | C | ἀρχή has been proposed |
-| 32 | ⲫⲑⲁⲩⲏ | ⲑⲟⲗⲡⲉ (ⲧ- + ϩⲟⲗⲡⲉ), the navel | B | ⲫⲑⲁ- = Φθα-, Ptah |
-| 33 | ⲥⲏⲛⲁⲫⲓⲙ (IV ⲥⲏⲛⲁⲫⲑⲓ) | ⲡⲩⲡⲟⲭⲟⲛⲇⲣⲓⲟⲥ, the hypochondrium (ὑποχόνδριον) | C | Opaque; II's ending resembles the Hebrew plural, IV's the name of Ptah |
+| 32 | ⲫⲑⲁⲩⲏ | ⲑⲟⲗⲡⲉ (ⲧ- + ϩⲟⲗⲡⲉ), the navel | B | *Ptḥ wr*, "Ptah the great" (Quack 1995, 116) |
+| 33 | ⲥⲏⲛⲁⲫⲓⲙ (IV ⲥⲏⲛⲁⲫⲑⲓ) | ⲡⲩⲡⲟⲭⲟⲛⲇⲣⲓⲟⲥ, the hypochondrium (ὑποχόνδριον) | C | A badly corrupted form of the decan *sbšsn*, *seneptois* (Quack 1995, 116) |
 | 34 | ⲁⲣⲁⲭⲉⲑⲱⲡⲓ | ⲡⲥⲡⲓⲣ ⲛ̅ⲟⲩⲛⲁⲙ, the right ribs | C | Opaque |
 | 35 | ⲍⲁⲃⲉⲇⲱ (IV ⲁⲃⲉⲇⲱ) | ⲡⲥⲡⲓⲣ ⲛ̅ϭⲃⲟⲩⲣ, the left ribs | C | Opaque |
-| 36–37 | ⲃⲁⲣⲓⲁⲥ; ⲫⲛⲟⲩⲑ (IV) | ϯⲡⲉ, the loins (Crum: ὀσφύς) | C | βάρος, "weight", has been proposed for Barias |
+| 36–37 | ⲃⲁⲣⲓⲁⲥ; ⲫⲛⲟⲩⲑ (IV) | ϯⲡⲉ, the loins (Crum: ὀσφύς) | C; B | βάρος, "weight", has been proposed for Barias; Phnouth is *pꜣ nṯr*, Coptic ⲡⲛⲟⲩⲧⲉ, "the god" (Quack 1995, 116) |
 | 38 | ⲁⲃⲏⲛⲗⲉⲛⲁⲣⲭⲉⲓ | ⲁⲧⲕⲁⲥ, the marrow | C | Possibly containing ἀρχ- |
-| 39 | ⲭⲛⲟⲩⲙⲉⲛⲓⲛⲟⲣⲓⲛ | ⲕⲉⲉⲥ, the bones | B | ⲭⲛⲟⲩⲙ- = Khnum, the Egyptian creator-god |
-| 40 | ⲅⲏⲥⲟⲗⲉ (IV ⲥⲏⲥⲟⲗⲉ) | ⲡⲥⲧⲟⲙⲁⲭⲟⲥ, the stomach (στόμαχος) | C | Opaque |
+| 39 | ⲭⲛⲟⲩⲙⲉⲛⲓⲛⲟⲣⲓⲛ | ⲕⲉⲉⲥ, the bones | B | ⲭⲛⲟⲩⲙ- = the decan *knm.t*, Greek Χνουμις, well known from magical gems (Quack 1995, 116) |
+| 40 | ⲅⲏⲥⲟⲗⲉ (IV ⲥⲏⲥⲟⲗⲉ) | ⲡⲥⲧⲟⲙⲁⲭⲟⲥ, the stomach (στόμαχος) | C | From IV's spelling, the decan *sꜣ sꜣḥ*, σισιεμε (Quack 1995, 116) |
 | 41 | ⲁⲅⲣⲟⲙⲁⲩⲙⲁ (both codices) | ⲙ̅ⲫⲏⲧ (ⲡ- + ϩⲏⲧ), the heart | C | Opaque; misprinted "Agromauna" in Robinson 1990 (1981 printing: "Agromauma") |
 | 42 | ⲃⲁⲛⲱ | ⲡⲛⲉⲩⲙⲟⲛⲓⲛ (πνεύμων), the lungs | C | Opaque |
 | 43 | ⲥⲱⲥⲧⲣⲁⲡⲁⲗ | ϩⲏⲡⲁⲣ (ἧπαρ), the liver | C | Opaque |
 | 44 | ⲁⲛⲏⲥⲓⲙⲁⲗⲁⲣ | ⲥⲡⲗⲏⲛ (σπλήν), the spleen | C | Opaque |
-| 45 | ⲑⲱⲡⲓⲑⲣⲱ | ⲙⲉϩⲧ, the intestines | C | Opaque |
-| 46 | ⲃⲓⲃⲗⲱ | ϭⲗⲁⲧⲉ, the kidneys | B | βίβλος, "book" |
+| 45 | ⲑⲱⲡⲓⲑⲣⲱ | ⲙⲉϩⲧ, the intestines | C | Two decan names run together, *tpy-ꜥ* and ⲉⲣⲱ (Quack 1995, 116) |
+| 46 | ⲃⲓⲃⲗⲱ | ϭⲗⲁⲧⲉ, the kidneys | B | βίβλος, "book"; Quack emends to ⲃⲓⲃⲓⲱ, the magical βιβιου, "soul of souls" (Quack 1995, 116) |
 | 47 | ⲣⲟⲉⲣⲱⲣ | ⲙⲙⲟⲩⲧ, the sinews | C | Opaque |
 | 48 | ⲧⲁⲫⲣⲉⲱ | ⲛ̅ϫⲓⲥⲉ ⲙ̅ⲡⲥⲱⲙⲁ, the spine ("back") of the body | C | τάφρος, "channel", has been proposed |
-| 49 | ⲓⲡⲟⲩⲥⲡⲟⲃⲱⲃⲁ | ⲫⲗⲉⲯ (φλέψ), the veins | C | Opaque |
+| 49 | ⲓⲡⲟⲩⲥⲡⲟⲃⲱⲃⲁ | ⲫⲗⲉⲯ (φλέψ), the veins | C | Possibly the decan *ip-ꜥ.s* (Quack 1995, 117) |
 | 50 | ⲃⲓⲛⲉⲃⲟⲣⲓⲛ | ⲁⲣⲧⲏⲣⲓⲁ (ἀρτηρία), the arteries | C | Opaque |
-| 51 | ⲁⲧⲟⲓⲙⲉⲛⲯⲏⲫⲉⲓ | "theirs are the breaths (ⲛⲓϥⲉ) which are in all the members" | C | Opaque |
+| 51 | ⲁⲧⲟⲓⲙⲉⲛⲯⲏⲫⲉⲓ | "theirs are the breaths (ⲛⲓϥⲉ) which are in all the members" | C | The second element *pꜣ šfy*, "the divine child" (Quack 1995, 117) |
 | 52 | ⲏⲛⲑⲟⲗⲗⲉⲓⲁ | ⲧⲥⲁⲣⲝ ⲧⲏⲣⲥ, all the flesh | C | Opaque |
 | 53 | ⲃⲉⲇⲟⲩⲕ | ⲡⲧⲉⲧⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right ⲧⲉⲧⲉ (Robinson "buttock (?)") | C | Opaque |
-| 54 | ⲁⲣⲁⲃⲏⲉⲓ | ⲡⲃⲁϩ ⲛ̅ϭⲃⲟⲩⲣ, the left ⲃⲁϩ (Crum: "penis (?)", glossed βουβών) | C | Opaque |
+| 54 | ⲁⲣⲁⲃⲏⲉⲓ | ⲡⲃⲁϩ ⲛ̅ϭⲃⲟⲩⲣ, the left ⲃⲁϩ (Crum: "penis (?)", glossed βουβών) | B | The decan *ḥry-ib wiꜣ*, Firmicus *eregbuo*, Celsus ερεβιου (Quack 1995, 117) |
 | 55 | ⲉⲓⲗⲱ | ⲛ̅ⲁⲧⲣ[ⲉⲩⲉ] (partly restored; IV ⲛ̅ⲇⲓⲇⲩⲙⲟⲥ), the testicles | C | Opaque; the member is named in IV by the Greek δίδυμοι, "twins" |
 | 56 | ⲥⲱⲣⲙⲁ (IV ⲥⲟ{ⲣ}ⲙⲁ, the ⲣ struck out) | ⲛ̅ⲉⲇⲩⲟⲛ (αἰδοῖον), the genitals | B | IV's corrected ⲥⲟⲙⲁ = σῶμα, "body" |
-| 57 | ⲅⲟⲣⲙⲁⲕⲁⲓⲟⲭⲗⲁⲃⲁⲣ | ⲡⲙⲏⲣⲟⲥ ⲛ̅ⲟⲩⲛⲁⲙ, the right thigh (μηρός) | C | Possibly two names joined by καί |
-| 58 | ⲛⲉⲃⲣⲓⲑ | ⲡⲙⲏⲣⲟⲥ ⲛ̅ϭⲃⲟⲩⲣ, the left thigh | C | Opaque |
-| 59 | ⲯⲏⲣⲏⲙ | ⲛ̅ϭⲗⲁⲧⲉ ⲛ̅ⲧⲟⲩⲣⲏⲧⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the ϭⲗⲁⲧⲉ of the right leg | C | Opaque; the member is uncertain |
+| 57 | ⲅⲟⲣⲙⲁⲕⲁⲓⲟⲭⲗⲁⲃⲁⲣ | ⲡⲙⲏⲣⲟⲥ ⲛ̅ⲟⲩⲛⲁⲙ, the right thigh (μηρός) | C | Possibly two names joined by καί, the second perhaps a decan (Quack 1995, 117) |
+| 58 | ⲛⲉⲃⲣⲓⲑ | ⲡⲙⲏⲣⲟⲥ ⲛ̅ϭⲃⲟⲩⲣ, the left thigh | C | Perhaps *nb rḏw*, "lord of the efflux" (Quack 1995, 117) |
+| 59 | ⲯⲏⲣⲏⲙ | ⲛ̅ϭⲗⲁⲧⲉ ⲛ̅ⲧⲟⲩⲣⲏⲧⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the ϭⲗⲁⲧⲉ of the right leg | B | The decan *psermes* of the Latin Hermetic list (Quack 1995, 117); the member is uncertain |
 | 60 | ⲁⲥⲁⲕⲗⲁⲥ | ⲧϭⲗⲱⲧ ⲛ̅ϭⲃⲟⲩⲣ, the left kidney | A | Contains ⲥⲁⲕⲗⲁⲥ, Saklas, "fool", the chief archon's second name (II 11,17) |
-| 61 | ⲟⲣⲙⲁⲱⲑ (IV ⲓ̈ⲟⲣⲙⲁⲱⲑ) | ⲡⲉⲧ ⲛ̅ⲟⲩⲛⲁⲙ, the right knee | C | Opaque |
+| 61 | ⲟⲣⲙⲁⲱⲑ (IV ⲓ̈ⲟⲣⲙⲁⲱⲑ) | ⲡⲉⲧ ⲛ̅ⲟⲩⲛⲁⲙ, the right knee | B | *Ḥr.w mꜣꜥ-ḫrw*, "Horus the justified", magical αρμιωθ (Quack 1995, 117–118) |
 | 62 | ⲏⲙⲏⲛⲩⲛ | ⲡⲉⲧ ⲛ̅ϭⲃⲟⲩⲣ, the left knee | C | Opaque |
 | 63 | ⲕⲛⲩⲝ | ⲧⲥⲏⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ (IV ⲧⲥⲏϥⲉ), the right shin | C | Opaque |
 | 64 | ⲧⲩⲡⲏⲗⲟ (IV ⲧⲩⲡⲏⲗⲟⲛ) | ⲧⲥⲏⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left shin | C | Opaque |
 | 65 | ⲁⲭⲓⲏⲗ | ⲧⲕⲗ̅ⲗⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right ankle | B | Theophoric in -ēl; Hebrew *ʾăḥî-ʾēl*, "brother of God", has been proposed |
-| 66 | ⲫⲛⲏⲙⲏ (II only) | ⲧⲕⲗ̅ⲗⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left ankle | C | Opaque; misprinted "Phnene" in Robinson 1990 (1981 printing: "Phneme") |
+| 66 | ⲫⲛⲏⲙⲏ (II only) | ⲧⲕⲗ̅ⲗⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left ankle | C | Perhaps "the dwarf", a title of the sun-god (Quack 1995, 118); misprinted "Phnene" in Robinson 1990 |
 | 67 | ⲫⲓⲟⲩⲑⲣⲟⲙ (II only) | ⲧⲟⲩⲣⲏⲧⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right foot | C | Opaque |
 | 68 | ⲃⲟⲁⲃⲉⲗ | ⲛⲉⲥⲧⲏⲃⲉ, its toes | C | Possibly theophoric |
 | 69 | ⲧⲣⲁⲭⲟⲩⲛ (IV ⲧⲣⲁⲭⲟⲩ) | ⲧⲟⲩⲣⲏⲧⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left foot | B | τραχύς, "rough" |
-| 70 | ⲫⲓⲕⲛⲁ | ⲛⲉⲥⲧⲏⲃⲉ, its toes | C | Opaque |
+| 70 | ⲫⲓⲕⲛⲁ | ⲛⲉⲥⲧⲏⲃⲉ, its toes | C | Perhaps a corruption of the magical φνκρω (Quack 1995, 118) |
 | 71 | ⲙⲓⲁⲙⲁⲓ | ⲛ̅ⲉⲓⲉⲓⲃ ⲛ̅ⲛⲟⲩⲣⲏⲧⲉ, the nails of the feet | C | Opaque |
 | 72 | ⲗⲁⲃⲏⲣⲛⲓⲟⲩⲙ | (no member named) | C | Opaque |
 
@@ -871,7 +883,7 @@ Codex II has sixty-nine names: it lacks the left shoulder, left elbow and left l
 | 1 | ⲧⲁⲡⲉ, the head | ⲇⲓⲟⲗⲓⲙⲟⲇⲣⲁⲍⲁ | C | Opaque |
 | 2 | ⲡⲙⲟⲩⲧ, the neck | ⲓⲁⲙⲙⲉⲁⲝ | C | Opaque |
 | 3 | ⲧⲛⲁϩⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right shoulder | ⲓⲁⲕⲟⲩⲓⲃ | A | Jacob |
-| 4 | ⲧⲛⲁϩⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left shoulder | ⲟⲩⲉⲣⲧⲱⲛ | C | Opaque |
+| 4 | ⲧⲛⲁϩⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left shoulder | ⲟⲩⲉⲣⲧⲱⲛ | B | *wr-tꜣ*, "great one of the earth", magical ουερτω (Quack 1995, 118) |
 | 5 | ⲧϭⲓϫ ⲛ̅ⲟⲩⲛⲁⲙ, the right hand | ⲟⲩⲇⲓⲇⲓ (IV ⲟⲩⲇⲉⲓⲇⲓ) | C | Hebrew *yādîd*, "beloved", has been proposed |
 | 6 | ⲧϭⲓϫ ⲛ̅ϭⲃⲟⲩⲣ, the left hand | ⲁⲣⲃⲁⲟ | C | Aramaic *ʾarbaʿ*, "four", has been proposed |
 | 7 | the fingers of the right hand | ⲗⲁⲙⲡⲛⲱ | C | Possibly λάμπω, "shine" |
@@ -887,16 +899,16 @@ Codex II has sixty-nine names: it lacks the left shoulder, left elbow and left l
 | 17 | ⲡⲉⲕⲟⲩⲛϥ, his bosom (Crum: ⲕⲟⲩⲛ⸗, κόλπος) | ⲥⲁⲃⲁⲗⲱ | C | Semitic *sbl*, "to carry", has been proposed |
 | 18 | ⲡⲙⲏⲣⲟⲥ ⲛ̅ⲟⲩⲛⲁⲙ, the right thigh | ⲭⲁⲣⲭⲁⲣⲃ | C | Opaque |
 | 19 | ⲡⲙⲏⲣⲟⲥ ⲛ̅ϭⲃⲟⲩⲣ, the left thigh | ⲭⲑⲁⲱⲛ (IV ⲭⲑⲁⲱ) | B | χθών, "earth" |
-| 20 | ⲛ̅ⲁⲓⲇⲟⲓⲟⲛ ⲧⲏⲣⲟⲩ, all the genitals | ⲃⲁⲑⲓⲛⲱⲑ (IV ⲑⲁⲃⲓⲛⲱⲑ) | B | Hebrew *tabnît*, "pattern, form" |
-| 21 | ⲡⲡⲉⲧ ⲛ̅ⲟⲩⲛⲁⲙ, the right knee | ⲭⲟⲩⲝ | C | Opaque |
+| 20 | ⲛ̅ⲁⲓⲇⲟⲓⲟⲛ ⲧⲏⲣⲟⲩ, all the genitals | ⲃⲁⲑⲓⲛⲱⲑ (IV ⲑⲁⲃⲓⲛⲱⲑ) | B | Hebrew *tabnît*, "pattern, form"; Quack, emending II, reads "soul of Thoth" or "soul of darkness" (Quack 1995, 118) |
+| 21 | ⲡⲡⲉⲧ ⲛ̅ⲟⲩⲛⲁⲙ, the right knee | ⲭⲟⲩⲝ | B | *Kk.w*, the primordial god of darkness, magical χουχ (Quack 1995, 118) |
 | 22 | ⲡⲡⲉⲧ ⲛ̅ϭⲃⲟⲩⲣ, the left knee | ⲭⲁⲣⲭⲁ | C | Hebrew *kāraʿ*, "to bow the knee", has been proposed |
-| 23 | ⲧⲥⲏⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right shin | ⲁⲣⲟⲏⲣ | B | Aroer, a biblical place-name |
+| 23 | ⲧⲥⲏⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right shin | ⲁⲣⲟⲏⲣ | B | *Ḥr.w wr*, Haroeris, "Horus the elder", magical αρουηρ (Quack 1995, 118) |
 | 24 | ⲧⲥⲏⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left shin | ⲧⲱⲉⲭⲑⲁ | C | Opaque |
 | 25 | ⲧⲕⲗ̅ⲗⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right ankle | ⲁⲱⲗ | C | Opaque |
 | 26 | ⲧⲕⲗ̅ⲗⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left ankle | ⲭⲁⲣⲁⲛⲏⲣ | C | Opaque |
 | 27 | ⲧⲟⲩⲣⲏⲧⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right foot | ⲃⲁⲥⲧⲁⲛ | C | Possibly βαστάζω, "to bear" |
-| 28 | ⲛⲉⲥⲧⲏⲏⲃⲉ, its toes | ⲁⲣⲭⲉⲛⲧⲉⲭⲑⲁ | C | Possibly containing ἀρχ- |
-| 29 | ⲧⲟⲩⲣⲏⲧⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left foot | ⲙⲁⲣⲉⲫⲛⲟⲩⲛⲑ | C | Opaque |
+| 28 | ⲛⲉⲥⲧⲏⲏⲃⲉ, its toes | ⲁⲣⲭⲉⲛⲧⲉⲭⲑⲁ | B | *Ḥr.w ḫnty-ḫty*, Horus of Athribis, magical αρχεντεχθα (Quack 1995, 118–119) |
+| 29 | ⲧⲟⲩⲣⲏⲧⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left foot | ⲙⲁⲣⲉⲫⲛⲟⲩⲛⲑ | C | Second element *pꜣ nṯr*, "the god" (Quack 1995, 119) |
 | 30 | ⲛⲉⲥⲧⲏⲏⲃⲉ, its toes | ⲁⲃⲣⲁⲛⲁ | C | Opaque |
 
 ### 14.5 The Rulers of Faculty, Quality and Passion (II 17,29–19,2; IV 27,13–29,6)
@@ -910,7 +922,7 @@ Codex II has sixty-nine names: it lacks the left shoulder, left elbow and left l
 | | 5 | ⲁⲁⲣⲙⲟⲩⲣⲓⲁⲙ | C | ἁρμός, "joint", has been proposed |
 | | 6 | ⲣⲓⲭⲣⲁⲙ | C | Opaque |
 | | 7 | ⲁⲙⲓⲱⲣⲯ | C | Opaque |
-| Five over the faculties | the senses (ⲁⲓⲥⲑⲏⲥⲓⲥ) | ⲁⲣⲭⲉⲛⲇⲉⲕⲧⲁ | B | ἀρχ- + δέκτης, "chief receiver" |
+| Five over the faculties | the senses (ⲁⲓⲥⲑⲏⲥⲓⲥ) | ⲁⲣⲭⲉⲛⲇⲉⲕⲧⲁ | B | Horus Khentikheti of Athribis, magical αρχεντεχθα (not "chief receiver") |
 | | reception (ⲁⲛⲁⲗⲏⲙⲯⲓⲥ) | ⲇⲉⲓⲑⲁⲣⲃⲁⲑⲁⲥ | C | Opaque |
 | | imagination (ⲫⲁⲛⲧⲁⲥⲓⲁ) | ⲟⲩⲙⲙⲁⲁ | A | ὄμμα, "eye" |
 | | composition (ϫⲱⲛϥ) | ⲁⲁⲭⲓⲁⲣⲁⲙ | C | Opaque |
@@ -918,9 +930,9 @@ Codex II has sixty-nine names: it lacks the left shoulder, left elbow and left l
 | Four over the qualities | heat (ϩⲙⲙⲉ) | ⲫⲗⲟⲝⲟⲫⲁ | A (first element) | φλόξ, "flame" |
 | | cold (ⲁⲣⲟϣ) | ⲟⲣⲟⲟⲣⲣⲟⲑⲟⲥ | C | ὀρρωδέω, "shrink in fear", possible |
 | | dryness (ϣⲟⲟⲩⲉ) | ⲉⲣⲓⲙⲁⲭⲱ | C | ἐρημ-, "desert", possible |
-| | wetness (ϩⲟϭⲃⲉⲥ) | ⲁⲑⲩⲣⲱ | A | Ἀθύρ, Hathor |
+| | wetness (ϩⲟϭⲃⲉⲥ) | ⲁⲑⲩⲣⲱ | A | Ἀθύρ, Hathor the great |
 | Mother of the qualities | "without limit … mixes with them all" | ⲟⲛⲟⲣⲑⲟⲭⲣⲁⲥⲁⲉⲓ (IV ⲟⲛⲟⲣⲑⲟⲭⲣⲁⲥ) | B (element) | κρᾶσις, "mixture", glossed by the text's ⲥⲧⲏϩ, "she mixes" |
-| Four chief demons | pleasure (ἡδονή) | ⲉⲫⲉⲙⲉⲙⲫⲓ | C | Opaque |
+| Four chief demons | pleasure (ἡδονή) | ⲉⲫⲉⲙⲉⲙⲫⲓ | C | With one letter restored, Nefertem of Memphis |
 | | desire (ἐπιθυμία) | ⲓ̈ⲱⲕⲱ | C | Opaque |
 | | grief (λύπη) | ⲛⲉⲛⲉⲛⲧⲱⲫⲛⲓ | C | Opaque |
 | | fear (II ϩⲛⲱϩⲉ; IV ϩⲟⲧⲉ) | ⲃⲗⲁⲟⲙⲏⲛ | C | Opaque |
@@ -932,14 +944,14 @@ Codex II has sixty-nine names: it lacks the left shoulder, left elbow and left l
 | Group | Positions | Names surviving in II or IV | Grade A or B |
 |---|---|---|---|
 | Substance-souls | 7 | 7 powers (abstract nouns, not names) | — |
-| First list (makers) | 72 | 70 | 15 |
+| First list (makers) | 72 | 70 | 23 |
 | Seven over the makers | 7 | 7 | — (known authorities) |
-| Second list (movers) | 30 | 30 | 5 |
+| Second list (movers) | 30 | 30 | 8 |
 | Seven over the movers | 7 | 7 | 3 |
 | Five over the faculties | 5 | 5 | 2 |
 | Four over the qualities, and their mother | 5 | 5 | 3 |
 | Four demons, their mother, and Anaro | 6 | 6 | 1 |
-| **Total of named offices** | **132** | **130** | **29** |
+| **Total of named offices** | **132** | **130** | **40** |
 
 The text gives the total as 365 (II 19,2–3; II 11,23–25) and refers the remainder to "the book of Zoroaster" (II 19,8–10).
 
@@ -968,7 +980,7 @@ The text gives the total as 365 (II 19,2–3; II 11,23–25) and refers the rema
 14. Quack, Joachim Friedrich. "Dekane und Gliedervergottung: Altägyptische Traditionen im Apokryphon Johannis." *Jahrbuch für Antike und Christentum* 38 (1995): 97–122.
 15. Schenke, Hans-Martin, Hans-Gebhard Bethge, and Ursula Ulrike Kaiser, eds. *Nag Hammadi Deutsch: Studienausgabe.* Berlin: De Gruyter, 2013.
 16. Turner, John D. *Sethian Gnosticism and the Platonic Tradition.* Bibliothèque copte de Nag Hammadi, Section « Études » 6. Québec: Les Presses de l'Université Laval; Louvain: Peeters, 2001.
-17. van den Broek, Roelof. "The Creation of Adam's Psychic Body in the Apocryphon of John." In *Studies in Gnosticism and Hellenistic Religions Presented to Gilles Quispel on the Occasion of His 65th Birthday*, edited by R. van den Broek and M. J. Vermaseren, 38ff. Études préliminaires aux religions orientales dans l'Empire romain 91. Leiden: E. J. Brill, 1981.
+17. van den Broek, Roelof. "The Creation of Adam's Psychic Body in the Apocryphon of John." In *Studies in Gnosticism and Hellenistic Religions Presented to Gilles Quispel on the Occasion of His 65th Birthday*, edited by R. van den Broek and M. J. Vermaseren, 38–57. Études préliminaires aux religions orientales dans l'Empire romain 91. Leiden: E. J. Brill, 1981.
 18. Waldstein, Michael, and Frederik Wisse, eds. *The Apocryphon of John: Synopsis of Nag Hammadi Codices II,1; III,1; and IV,1 with BG 8502,2.* Nag Hammadi and Manichaean Studies 33. Leiden: E. J. Brill, 1995.
 
 **Internal Library Documents**

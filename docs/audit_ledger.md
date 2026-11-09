@@ -1001,7 +1001,14 @@ the facsimile volumes on archive.org are lending-only and the Claremont photogra
 settled against the other editions by full-text search: Robinson's own 1981 printing of Wisse's translation, Meyer 1984,
 Layton 1987 and *Nag Hammadi Deutsch* 2013 all read "Agromauma" and "Phneme"; only the 1988/1990 revision prints
 "Agromauna"/"Phnene". *Unnamed Cartography* §3.4 row and §3.8 corrected (inline `[CORRECTION]`; the ἀγρός + μονή reading is
-withdrawn); thesis §12.5 and the research files updated; the Agromauna question moved to the resolved file.
+withdrawn); thesis §12.5 and the research files updated; the Agromauna question moved to the resolved file. Then the author supplied Quack 1995 and Piwowarczyk 2021 in Drive `Books` (van den Broek 1981 unavailable; the
+reports' claims attributed to it were never used). Quack read in full: his 72-reconstruction is the same as the thesis's and is now credited
+to him; more than 20 makers are Egyptian decan names, others Egyptian gods. Thesis re-graded with his readings (Achcha, Balbel, Phnouth,
+Arabeei, Psērēm, Ormaoth, Ouertōn, Choux, Haroeris, Archentechtha now B; Chnoum- is the decan Chnoumis, not Khnum; Aroēr is Haroeris, not
+the place; Archendekta is Horus Khentikheti, not "chief receiver"); totals 40 of 130 A/B; §§1, 2.2, 5, 7–11, 12.3–12.5, 13, 14 and
+abstract revised. *Unnamed Cartography* gets an inline `[CRITICAL ANALYSIS]` note on five scored names (tallies unchanged: Quack's are
+proposals). Piwowarczyk: the Drive connector returns only the front matter and first 30 lexicon pages, and the PDF is too large to
+download; the full entries are still to read.
 
 ### 2026-11-07 (in session, at the author's request): the thesis folded into *The Unnamed Cartography*
 

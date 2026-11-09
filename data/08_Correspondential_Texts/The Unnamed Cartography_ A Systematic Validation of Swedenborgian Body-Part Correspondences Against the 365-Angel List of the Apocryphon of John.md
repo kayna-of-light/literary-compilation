@@ -223,6 +223,8 @@ Elsewhere the English renders the Coptic letter for letter, without marking vowe
 
 > **[CORRECTION]**: The reading of the heart's angel in §3.4 as ἀγρός + μονή, "field-dwelling", rests on the misprinted *n* and does not stand. The name is ⲁⲅⲣⲟⲙⲁⲩⲙⲁ, Agromauma, and is opaque; it has been removed from §3.4 and moved to the opaque names, and the tallies read 42 scored names and 10 consistent matches. No other scored name changes; the full Coptic reading of the list is *The Body That Waited for Breath* (this folder).
 
+> **[CRITICAL ANALYSIS]**: Quack (1995) identified many of the angel names as Egyptian decan and god names. That bears on five scored names here. Archendekta, scored as ἀρχή + δέκτης, "chief receiver", is the magical αρχεντεχθα, Horus Khentikheti of Athribis, and the Greek reading should not be relied on. Ephememphi, scored as ἐφήμερος, is with one letter restored Nefertem of Memphis. Tebar, Kriman (in Codex IV's spelling ⲕⲣⲓⲙⲁⲛ) and Biblo (emended to ⲃⲓⲃⲓⲱ) have decan readings beside the ones scored above. None of these becomes a contradiction, since a decan name says nothing about a member's function, but each scored match that rests on the Greek reading is only as secure as that reading. The names are re-graded with Quack's readings in *The Body That Waited for Breath* (§§5, 8, 10, 14), and Quack is added to the Works Cited.
+
 **The body parts are the scribes' body parts.** The seven substance-souls read in Coptic as in §3.6: ⲡⲕⲱϩ, envy, creates ⲛ̅ϣⲁⲁⲣⲉ, the skin; ⲧⲙⲛ̅ⲧⲣⲙⲛ̅ϩⲏⲧ, understanding, creates ⲛ̅ϥⲟⲩϩⲉ, the hair (II 15,20–23; Crum 1939). The elemental rulers of §3.7 are those of the Coptic: Phloxopha over heat, Oroorrothos over cold, Erimacho over dryness, Athuro over wetness (II 18,5–10).
 
 **Right and left differ between the manuscripts, not between the manuscript and the translation.** In three places Codex II has one angel where Codex IV has a right–left pair:
@@ -336,17 +338,18 @@ Two independent traditions — one ancient, one modern; one with access to Zoroa
 12. Layton, Bentley. *The Gnostic Scriptures: A New Translation with Annotations and Introductions.* Garden City, NY: Doubleday, 1987.
 13. Liddell, Henry George, Robert Scott, and Henry Stuart Jones. *A Greek-English Lexicon*. 9th ed. Oxford: Clarendon Press, 1940.
 14. Meyer, Marvin W. *The Secret Teachings of Jesus: Four Gnostic Gospels.* New York: Random House, 1984.
-15. Schenke, Hans-Martin, Hans-Gebhard Bethge, and Ursula Ulrike Kaiser, eds. *Nag Hammadi Deutsch: Studienausgabe.* Berlin: De Gruyter, 2013.
-16. Turner, John D. *Sethian Gnosticism and the Platonic Tradition*. Bibliothèque copte de Nag Hammadi, Section « Études ». Québec: Les Presses de l'Université Laval; Louvain: Peeters, 2001.
-17. Waldstein, Michael, and Frederik Wisse, eds. *The Apocryphon of John: Synopsis of Nag Hammadi Codices II,1; III,1; and IV,1 with BG 8502,2.* Nag Hammadi and Manichaean Studies 33. Leiden: E. J. Brill, 1995.
+15. Quack, Joachim Friedrich. "Dekane und Gliedervergottung: Altägyptische Traditionen im Apokryphon Johannis." *Jahrbuch für Antike und Christentum* 38 (1995): 97–122.
+16. Schenke, Hans-Martin, Hans-Gebhard Bethge, and Ursula Ulrike Kaiser, eds. *Nag Hammadi Deutsch: Studienausgabe.* Berlin: De Gruyter, 2013.
+17. Turner, John D. *Sethian Gnosticism and the Platonic Tradition*. Bibliothèque copte de Nag Hammadi, Section « Études ». Québec: Les Presses de l'Université Laval; Louvain: Peeters, 2001.
+18. Waldstein, Michael, and Frederik Wisse, eds. *The Apocryphon of John: Synopsis of Nag Hammadi Codices II,1; III,1; and IV,1 with BG 8502,2.* Nag Hammadi and Manichaean Studies 33. Leiden: E. J. Brill, 1995.
 
 **Internal Library Documents:**
 
-18. [A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg](../02_Swedenborgian_Theology/A%20Library%20of%20Biblical%20Correspondences%20in%20Nature%20and%20Objects%20According%20to%20Emanuel%20Swedenborg.md) — a Swedenborgian reference compilation of natural correspondences: water as truth and fire as love, behind the four elemental angels.
-19. [The Grand Man: An Exhaustive Anatomical Atlas of the Divine Human](../02_Swedenborgian_Theology/The%20Grand%20Man_%20An%20Exhaustive%20Anatomical%20Atlas%20of%20the%20Divine%20Human.md) — the anatomical atlas of the *Maximus Homo* against which the angel list is compared.
-20. [The Universal Mirror: An Exhaustive Cartography of Natural Correspondences in the Theology of Emanuel Swedenborg](../02_Swedenborgian_Theology/The%20Universal%20Mirror_%20An%20Exhaustive%20Cartography%20of%20Natural%20Correspondences%20in%20the%20Theology%20of%20Emanuel%20Swedenborg.md) — a Swedenborgian reference compilation of natural correspondences.
+19. [A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg](../02_Swedenborgian_Theology/A%20Library%20of%20Biblical%20Correspondences%20in%20Nature%20and%20Objects%20According%20to%20Emanuel%20Swedenborg.md) — a Swedenborgian reference compilation of natural correspondences: water as truth and fire as love, behind the four elemental angels.
+20. [The Grand Man: An Exhaustive Anatomical Atlas of the Divine Human](../02_Swedenborgian_Theology/The%20Grand%20Man_%20An%20Exhaustive%20Anatomical%20Atlas%20of%20the%20Divine%20Human.md) — the anatomical atlas of the *Maximus Homo* against which the angel list is compared.
+21. [The Universal Mirror: An Exhaustive Cartography of Natural Correspondences in the Theology of Emanuel Swedenborg](../02_Swedenborgian_Theology/The%20Universal%20Mirror_%20An%20Exhaustive%20Cartography%20of%20Natural%20Correspondences%20in%20the%20Theology%20of%20Emanuel%20Swedenborg.md) — a Swedenborgian reference compilation of natural correspondences.
 
 **Data Sources:**
 
-21. kayna-of-light. "AJ_angel_name_translations.yaml." *nag-hammadi-analysis*, `findings/tractates/`. https://github.com/kayna-of-light/nag-hammadi-analysis/blob/main/findings/tractates/AJ_angel_name_translations.yaml — the complete etymological analysis of the angel names on which every table here rests.
-22. kayna-of-light. "II_1_apocryphon_john.yaml." *nag-hammadi-analysis*, `findings/tractates/`. https://github.com/kayna-of-light/nag-hammadi-analysis/blob/main/findings/tractates/II_1_apocryphon_john.yaml — findings AJ-017 through AJ-020, the supporting chain for this thesis.
+22. kayna-of-light. "AJ_angel_name_translations.yaml." *nag-hammadi-analysis*, `findings/tractates/`. https://github.com/kayna-of-light/nag-hammadi-analysis/blob/main/findings/tractates/AJ_angel_name_translations.yaml — the complete etymological analysis of the angel names on which every table here rests.
+23. kayna-of-light. "II_1_apocryphon_john.yaml." *nag-hammadi-analysis*, `findings/tractates/`. https://github.com/kayna-of-light/nag-hammadi-analysis/blob/main/findings/tractates/II_1_apocryphon_john.yaml — findings AJ-017 through AJ-020, the supporting chain for this thesis.

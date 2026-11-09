@@ -1008,7 +1008,11 @@ Arabeei, Psērēm, Ormaoth, Ouertōn, Choux, Haroeris, Archentechtha now B; Chno
 the place; Archendekta is Horus Khentikheti, not "chief receiver"); totals 40 of 130 A/B; §§1, 2.2, 5, 7–11, 12.3–12.5, 13, 14 and
 abstract revised. *Unnamed Cartography* gets an inline `[CRITICAL ANALYSIS]` note on five scored names (tallies unchanged: Quack's are
 proposals). Piwowarczyk: the Drive connector returns only the front matter and first 30 lexicon pages, and the PDF is too large to
-download; the full entries are still to read.
+download; the full entries are still to read. Then the author supplied the gnosis.study link and the full PDF (412 pp.) was read for every
+entry of the passage: Piwowarczyk accepts the Egyptian gods but rates many of Quack's decan equations tentative. Achcha, Psērēm and Arabeei went
+back to C; Arbao went up to B ("fourfold Iao"); Chnoum- restored as "Khnum, or the decan Chnoumis"; the ⲍ at II 19,1 is given both readings
+(numeral, or the magical ζουχ of ζουχε πιπτοη); αἴσθησις οὐχ ἐπὶ πτοῇ as the Stoic rule; the lists treated as a later Coptic-stage stratum
+(Piwowarczyk xxxi). Totals 38 of 130 A/B.
 
 ### 2026-11-07 (in session, at the author's request): the thesis folded into *The Unnamed Cartography*
 

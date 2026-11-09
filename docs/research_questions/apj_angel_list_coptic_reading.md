@@ -1,7 +1,7 @@
 # Research Question: A Coptic-First Reading of the Apocryphon of John's Angel List
 
 > **Target System**: [NLM] / in-session (Coptic sources on disk) — see "Resources" below
-> **Status**: Partly resolved (2026-11-09) — parts 1, 3, 4 and 5 are answered in the thesis below; part 2 (the facsimile readings) remains open
+> **Status**: Partly resolved (2026-11-09) — parts 2–5 answered; part 1 answered for the names that can be read, the grade-C names remain open
 > **Created**: 2026-11-07
 > **Priority**: Medium
 > **Domain**: Correspondential Texts / Coptic philology / Swedenborgian body-part correspondences
@@ -10,7 +10,7 @@
 
 ## Why this is open
 
-*The Unnamed Cartography* (`data/08_Correspondential_Texts/`) compared 43 angel names of the body-creation passage (NHC II 15,13–19,10) with Swedenborg's body-part correspondences and found no contradictions. Its etymologies were derived from the English transliterations in Robinson 1990 (Wisse's translation). Its §3.8 now checks that text against the Coptic of both manuscripts (Linssen 2024) and finds it sound: the names are the scribes' names, the body parts and substance-souls are the same, and right–left differences are between Codex II and Codex IV, not errors of the translation.
+*The Unnamed Cartography* (`data/08_Correspondential_Texts/`) compared 43 angel names (42 after the Agromauna correction of 2026-11-09) of the body-creation passage (NHC II 15,13–19,10) with Swedenborg's body-part correspondences and found no contradictions. Its etymologies were derived from the English transliterations in Robinson 1990 (Wisse's translation). Its §3.8 now checks that text against the Coptic of both manuscripts (Linssen 2024) and finds it sound: the names are the scribes' names, the body parts and substance-souls are the same, and right–left differences are between Codex II and Codex IV, not errors of the translation.
 
 That check confirms what was already scored. It does not do the larger work it opens up: **reading the list from the Coptic outward**, which is the author's standing rule for NHL work (ledger, 2026-10-31: quote and translate from the Coptic, never from Robinson's English). A separate thesis (*The Letters They Dropped*, withdrawn 2026-11-07) claimed to have done this but had read Robinson's Codex IV parentheses as errors and the linking particle as dropped letters; nothing of it survives except what is now in §3.8.
 
@@ -23,7 +23,9 @@ That check confirms what was already scored. It does not do the larger work it o
 - **Part 4 (body words)**: settled (§§4, 5.4–5.6, 7). Three remain uncertain and are not used: ϫⲱ, ⲧⲉⲧⲉ, ϭⲗⲁⲧⲉ ⲛ̅ⲧⲟⲩⲣⲏⲧⲉ.
 - **Part 5 (second list and rulers)**: read and compared (§§7–10).
 
-**Still open**: part 2 (ⲫⲛⲏⲙⲏ, ⲁⲅⲣⲟⲙⲁⲩⲙⲁ against the facsimile), and the grade-C names.
+- **Part 2 (the two readings)**: settled. ⲫⲛⲏⲙⲏ and ⲁⲅⲣⲟⲙⲁⲩⲙⲁ are what the manuscripts read; "Phnene" and "Agromauna" are misprints of Robinson 1988/1990. The 1981 printing of the same translation, Meyer 1984, Layton 1987 and *Nag Hammadi Deutsch* 2013 all read Phneme/Agromauma (archive.org full-text search). *Unnamed Cartography* §3.4/§3.8 corrected.
+
+**Still open**: the grade-C names (thesis §12.4).
 
 ## The research opportunity — five parts
 

@@ -6,7 +6,7 @@
 
 **Methods**: The angel names in the Apocryphon of John were subjected to systematic etymological analysis, decomposing each name into Greek, Hebrew, Aramaic, and Egyptian roots using standard lexical resources. The spiritual quality encoded in each name was then compared against Swedenborg's specific documented correspondence for the same body part, using section-level citations from his major works. The comparison was performed for all names where confident etymological decomposition was possible (~43 entries), the seven "substance-souls" (primary body-creation principles), and the four elemental rulers.
 
-**Results**: Of 43 independently translatable angel names, 12 constitute **perfect matches** (the name encodes exactly what Swedenborg teaches for that body part), 16 are **strong matches** (the quality clearly aligns), 11 are **consistent** (same direction, compatible), 3 are **partial** (some aspects align), and 1 is **inverted but explainable** (the name identifies the target of the organ's function, not the organ itself). **Zero contradictions** were found. All seven substance-souls match Swedenborg's documented correspondences, including the ontological priority order (will before understanding). All four elemental rulers match Swedenborg's spiritual compass exactly (East = love/heat, West = declining love/cold, South = truth abundant/wet, North = truth absent/dry).
+**Results**: Of 42 independently translatable angel names, 12 constitute **perfect matches** (the name encodes exactly what Swedenborg teaches for that body part), 16 are **strong matches** (the quality clearly aligns), 10 are **consistent** (same direction, compatible), 3 are **partial** (some aspects align), and 1 is **inverted but explainable** (the name identifies the target of the organ's function, not the organ itself). **Zero contradictions** were found. All seven substance-souls match Swedenborg's documented correspondences, including the ontological priority order (will before understanding). All four elemental rulers match Swedenborg's spiritual compass exactly (East = love/heat, West = declining love/cold, South = truth abundant/wet, North = truth absent/dry).
 
 **Conclusions**: The convergence of two independent correspondential systems — one from a 2nd-century Egyptian-Jewish community with documented access to Zoroastrian sources, the other from an 18th-century Swedish visionary claiming direct spiritual perception — constitutes the strongest available evidence for the objective reality of the correspondential structure. The match is not isolated or partial: it is systematic across body parts, substrate principles, and spatial orientation. Both systems map the same structure. Neither system could have borrowed from the other. This is independent attestation.
 
@@ -100,15 +100,15 @@ Match quality was classified:
 
 | Match Quality | Count | Percentage |
 |---------------|-------|------------|
-| Perfect | 12 | 27.9% |
-| Strong | 16 | 37.2% |
-| Consistent | 11 | 25.6% |
-| Partial | 3 | 7.0% |
-| Inverted (Explainable) | 1 | 2.3% |
+| Perfect | 12 | 28.6% |
+| Strong | 16 | 38.1% |
+| Consistent | 10 | 23.8% |
+| Partial | 3 | 7.1% |
+| Inverted (Explainable) | 1 | 2.4% |
 | **Contradiction** | **0** | **0.0%** |
-| **Total** | **43** | **100%** |
+| **Total** | **42** | **100%** |
 
-**Critical Finding**: Of 43 independently translatable angel names, **zero contradictions** were found. Under the null hypothesis (random assignment), contradictions would be expected in roughly one-third to one-half of cases. The observed distribution — 28 precise-or-strong matches (65.1%), 11 consistent (25.6%), 3 partial (7.0%), 1 explainable inversion (2.3%), and 0 contradictions (0.0%) — is incompatible with random assignment.
+**Critical Finding**: Of 42 independently translatable angel names, **zero contradictions** were found. Under the null hypothesis (random assignment), contradictions would be expected in roughly one-third to one-half of cases. The observed distribution — 28 precise-or-strong matches (66.7%), 10 consistent (23.8%), 3 partial (7.1%), 1 explainable inversion (2.4%), and 0 contradictions (0.0%) — is incompatible with random assignment.
 
 ### 3.2 Perfect Matches (12)
 
@@ -152,7 +152,7 @@ These are cases where the angel name encodes *exactly* what Swedenborg documents
 | Archendekta | Senses | ἀρχή + δέκτης = chief receiver | Senses = reception faculty |
 | Atoimenpsephei | Breaths | ἀτμός + ψῆφος = breath-reckoner | Breath = understanding operating in every part |
 
-### 3.4 Consistent Matches (11)
+### 3.4 Consistent Matches (10)
 
 | Angel Name | Body Part | Name Meaning | Direction |
 |------------|-----------|--------------|-----------|
@@ -160,7 +160,6 @@ These are cases where the angel name encodes *exactly* what Swedenborg documents
 | Banen-Ephroum | Lips | בנן + אפרים = builder of fruit | Lips = forming doctrine (fruitful speech) |
 | Chaaman | Vertebrae | חמן = pillar | Spine = structural support |
 | Dearcho | Throat | δι- + ἀρχή = dual-rule | Neck = communication between head and body |
-| Agromauna | Heart | ἀγρός + μονή = field-dwelling | Heart = center of love; the dwelling |
 | Taphreo | Spine | τάφρος + ῥέω = flowing trench | Spine = central channel |
 | Barias | Hip | βάρος = weight | Hips = weight-bearing; foundational |
 | Trachoun | Left foot | τραχύς = rough | Feet = natural contact with the ground |
@@ -220,7 +219,9 @@ The comparison above reads the angel names and body parts from the English of *T
 | Achcha | ⲁⲭⲭⲁⲛ ⲥⲧⲁⲫⲩⲗⲏ (II 16,3) | ⲁⲭⲭⲁ ⲛ̅ⲥⲧⲁⲫ[ⲩⲗⲏ] (IV 25,1) | uvula |
 | Kriman | ⲕⲣⲓⲙⲁ ⲛ̅ⲛ̅ⲉⲓⲉⲃⲉ (II 16,11) | ⲕⲣⲓⲙⲁⲛ ⲛ̅ⲉ[ⲓⲉⲓⲃ] (IV 25,12) | nails of the hands |
 
-Elsewhere the English renders the Coptic letter for letter, without marking vowel length (ⲏ and ⲉ are both *e*, ⲱ and ⲟ both *o*). Two names read differently in Linssen's transcription: the angel of the left knee is ⲫⲛⲏⲙⲏ (II 17,2), the English "Phnene", and the angel of the heart is ⲁⲅⲣⲟⲙⲁⲩⲙⲁ in both codices (II 16,20; IV 25,23), the English "Agromauna". The second matters here: the reading of Agromauna in §3.4 as ἀγρός + μονή rests on the English *n*. No other scored name changes.
+Elsewhere the English renders the Coptic letter for letter, without marking vowel length (ⲏ and ⲉ are both *e*, ⲱ and ⲟ both *o*). Two names are misprinted in the revised English edition (Robinson 1990): the angel of the left knee is ⲫⲛⲏⲙⲏ (II 17,2), printed "Phnene", and the angel of the heart is ⲁⲅⲣⲟⲙⲁⲩⲙⲁ in both codices (II 16,20; IV 25,23), printed "Agromauna". The earlier printing of the same translation reads "Phneme" and "Agromauma" (Robinson 1981), as do the independent translations of Meyer (1984), Layton (1987) and *Nag Hammadi Deutsch* (Schenke, Bethge and Kaiser 2013). The second matters here.
+
+> **[CORRECTION]**: The reading of the heart's angel in §3.4 as ἀγρός + μονή, "field-dwelling", rests on the misprinted *n* and does not stand. The name is ⲁⲅⲣⲟⲙⲁⲩⲙⲁ, Agromauma, and is opaque; it has been removed from §3.4 and moved to the opaque names, and the tallies read 42 scored names and 10 consistent matches. No other scored name changes; the full Coptic reading of the list is *The Body That Waited for Breath* (this folder).
 
 **The body parts are the scribes' body parts.** The seven substance-souls read in Coptic as in §3.6: ⲡⲕⲱϩ, envy, creates ⲛ̅ϣⲁⲁⲣⲉ, the skin; ⲧⲙⲛ̅ⲧⲣⲙⲛ̅ϩⲏⲧ, understanding, creates ⲛ̅ϥⲟⲩϩⲉ, the hair (II 15,20–23; Crum 1939). The elemental rulers of §3.7 are those of the Coptic: Phloxopha over heat, Oroorrothos over cold, Erimacho over dryness, Athuro over wetness (II 18,5–10).
 
@@ -236,7 +237,7 @@ The English prints Codex II and gives Codex IV's pairs in parentheses. None of t
 
 **What the Coptic adds.** The omega of ⲓⲉⲣⲱⲛⲩⲙⲟⲥ (II 15,33–34) is the vowel of ἱερώνυμος, "sacred name", the reading in §3.3, rather than ἱερονόμος, "sacred law"; the right ear signifies "perceptivity of truth from good" (*AC* §10061). The uvula is named by the Greek medical word σταφυλή, "grape", which the English renders "uvula". The seventh power, understanding, is ⲙⲛ̅ⲧⲣⲙⲛ̅ϩⲏⲧ, "being a person of heart", built on ϩⲏⲧ, "heart" (Crum 1939; Černý 1976) — the organ to which the will corresponds (*AC* §3888) — so that understanding, last in the sequence, is named from the organ of the will, which the sequence puts first (§3.6). And the four chief demons over the passions (II 18,14–18) govern the four passions of Stoic moral psychology, pleasure, desire, grief and fear (Diogenes Laertius 7.110), three named with the Greek word and fear with the native ϩⲛⲱϩⲉ.
 
-**Finding**: The text on which this comparison rests is sound. The names, their body parts, the substance-soul sequence and the elemental rulers stand in the Coptic of both manuscripts as in the English; the one scored name that rests on a letter the manuscripts do not have is Agromauna.
+**Finding**: The text on which this comparison rests is sound. The names, their body parts, the substance-soul sequence and the elemental rulers stand in the Coptic of both manuscripts as in the English; the one scored name that rests on a letter the manuscripts do not have is Agromauna, a misprint of the 1990 edition.
 
 ---
 
@@ -245,14 +246,14 @@ The English prints Codex II and gives Codex IV's pairs in parentheses. None of t
 ### 4.1 Summary of Findings
 
 The systematic comparison yields:
-- **28 precise-or-strong matches** (65.1%) with specific Swedenborgian section references
-- **11 consistent matches** (25.6%) in the right direction
-- **3 partial** (7.0%)
-- **1 explainable inversion** (2.3%)
+- **28 precise-or-strong matches** (66.7%) with specific Swedenborgian section references
+- **10 consistent matches** (23.8%) in the right direction
+- **3 partial** (7.1%)
+- **1 explainable inversion** (2.4%)
 - **0 contradictions** (0.0%)
 - **Sevenfold substance-souls**: 7/7 match, including derivation order
 - **Spiritual compass**: 4/4 exact match
-- **Manuscript check**: names, body parts, substance-souls and rulers confirmed in the Coptic of Codices II and IV (§3.8); one scored name (Agromauna) rests on a letter the manuscripts do not have
+- **Manuscript check**: names, body parts, substance-souls and rulers confirmed in the Coptic of Codices II and IV (§3.8); one scored name (Agromauna) rests on a misprint of the 1990 edition and does not stand
 
 ### 4.2 Against the Null Hypothesis
 
@@ -280,7 +281,7 @@ The evidential weight of this convergence depends on the independence of the two
 
 If two independent observers of the same claimed reality — one a 2nd-century Egyptian-Jewish community with access to Zoroastrian reference texts, the other an 18th-century Swedish scientist claiming direct spiritual perception — produce the same map with zero contradictions across dozens of data points, three explanations are available:
 
-1. **Coincidence**: Rejected by the distribution (0 contradictions out of 43 comparisons is not compatible with chance alignment)
+1. **Coincidence**: Rejected by the distribution (0 contradictions out of 42 comparisons is not compatible with chance alignment)
 2. **Common cultural inheritance**: Possible for some elements but cannot explain the precision across all categories (body parts, substrate principles, compass directions, derivation order)
 3. **Independent observation of the same objective structure**: The correspondential structure is real. Both observers mapped it correctly from different vantage points across different centuries.
 
@@ -288,7 +289,7 @@ This analysis does not prove option 3. But it makes option 3 the most parsimonio
 
 ### 4.5 Limitations
 
-1. **Translation uncertainty**: About a third of the angel names (30 of 84) remain etymologically tentative or opaque. The validation is based only on names with strong or moderate confidence decomposition.
+1. **Translation uncertainty**: About a third of the angel names (31 of 84) remain etymologically tentative or opaque. The validation is based only on names with strong or moderate confidence decomposition.
 2. **Selection bias**: Only successful decompositions enter the comparison. If the opaque names were systematically contradictory, the picture would change. However, among the names that *can* be analyzed, the consistency is uniform.
 3. **Interpreter bias**: The etymological analysis was conducted with knowledge of the Swedenborgian system. An independent etymological analysis by scholars unfamiliar with Swedenborg would strengthen the finding. However, the etymological roots (e.g., φλόξ = flame, κρίμα = judgment, אמן = truth) are standard lexical entries, not interpretive constructions.
 4. **the ApJ text is itself multi-layered**: The body-creation passage may contain editorial additions from different periods. Some names may be later insertions or corruptions. The two manuscripts already differ in places (§3.8): Codex II lacks three right-hand entries that Codex IV keeps, and Codex IV is lost in many lacunae.
@@ -297,8 +298,8 @@ This analysis does not prove option 3. But it makes option 3 the most parsimonio
 ### 4.6 Future Directions
 
 1. Independent etymological verification by Coptic/Greek specialists unfamiliar with Swedenborg
-2. A Coptic-first reading of the whole list: the 30 tentative or opaque names derived afresh from the Coptic of both codices rather than from the English, the readings that differ from the English (ⲫⲛⲏⲙⲏ, ⲁⲅⲣⲟⲙⲁⲩⲙⲁ) checked against the facsimiles, and the right–left pairs Codex II lacks set against Codex IV (§3.8)
-3. Extension to the 30 names rated "tentative" or "opaque" as linguistic resources improve
+2. A Coptic-first reading of the whole list: the 31 tentative or opaque names derived afresh from the Coptic of both codices rather than from the English, the two misprinted names (ⲫⲛⲏⲙⲏ, ⲁⲅⲣⲟⲙⲁⲩⲙⲁ) now settled in §3.8, and the right–left pairs Codex II lacks set against Codex IV (§3.8)
+3. Extension to the 31 names rated "tentative" or "opaque" as linguistic resources improve
 4. Cross-validation against other NHL texts containing body-part correspondences
 5. Comparison with the Zoroastrian *mēnōg/gētīg* body-correspondence system (if reconstructable from extant Pahlavi texts)
 
@@ -321,27 +322,31 @@ Two independent traditions — one ancient, one modern; one with access to Zoroa
 1. Diogenes Laertius. *Lives of Eminent Philosophers.* Translated by R. D. Hicks. 2 vols. Loeb Classical Library 184–185. Cambridge, MA: Harvard University Press, 1925. The Stoic doctrine of the four passions at 7.110.
 2. Linssen, Martijn A. T. *Nag Hammadi Library Complete Transcription.* Thomas Miscellaneous, Part X. 2024. A Unicode transcription of all the codices; the Coptic of the Apocryphon of John (II,1 and IV,1) checked in §3.8 is quoted from it, in the extraction kept in the companion repository `nag-hammadi-analysis`.
 3. Robinson, James M., ed. *The Nag Hammadi Library in English*. 3rd rev. ed. San Francisco: HarperSanFrancisco, 1990. The Apocryphon of John translated by Frederik Wisse, with the Codex IV variants in parentheses; cited by codex, page and line (NHC II 15,13–19,10 for the body-creation passage).
-4. Swedenborg, Emanuel. *Angelic Wisdom concerning Divine Love and Wisdom*. Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-5. Swedenborg, Emanuel. *Arcana Coelestia*. Translated by John Clowes, revised and edited by John Faulkner Potts. Standard Edition. 12 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-6. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell*. Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-7. Swedenborg, Emanuel. *The Spiritual Diary of Emanuel Swedenborg*. Translated by George Bush, John H. Smithson and James F. Buss. 5 vols. London: James Speirs, 1883–1902. Cited by entry number (§).
+4. Robinson, James M., ed. *The Nag Hammadi Library in English.* San Francisco: Harper & Row, 1981. The earlier printing of the same Wisse translation of the Apocryphon of John, which reads "Agromauma" and "Phneme" where the revised edition of 1990 prints "Agromauna" and "Phnene".
+5. Swedenborg, Emanuel. *Angelic Wisdom concerning Divine Love and Wisdom*. Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+6. Swedenborg, Emanuel. *Arcana Coelestia*. Translated by John Clowes, revised and edited by John Faulkner Potts. Standard Edition. 12 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+7. Swedenborg, Emanuel. *Heaven and Its Wonders and Hell*. Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+8. Swedenborg, Emanuel. *The Spiritual Diary of Emanuel Swedenborg*. Translated by George Bush, John H. Smithson and James F. Buss. 5 vols. London: James Speirs, 1883–1902. Cited by entry number (§).
 
 **Scholarly Works:**
 
-8. Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament*. Oxford: Clarendon Press, 1906.
-9. Černý, Jaroslav. *Coptic Etymological Dictionary.* Cambridge: Cambridge University Press, 1976.
-10. Crum, Walter E. *A Coptic Dictionary.* Oxford: Clarendon Press, 1939.
-11. Liddell, Henry George, Robert Scott, and Henry Stuart Jones. *A Greek-English Lexicon*. 9th ed. Oxford: Clarendon Press, 1940.
-12. Turner, John D. *Sethian Gnosticism and the Platonic Tradition*. Bibliothèque copte de Nag Hammadi, Section « Études ». Québec: Les Presses de l'Université Laval; Louvain: Peeters, 2001.
-13. Waldstein, Michael, and Frederik Wisse, eds. *The Apocryphon of John: Synopsis of Nag Hammadi Codices II,1; III,1; and IV,1 with BG 8502,2.* Nag Hammadi and Manichaean Studies 33. Leiden: E. J. Brill, 1995.
+9. Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament*. Oxford: Clarendon Press, 1906.
+10. Černý, Jaroslav. *Coptic Etymological Dictionary.* Cambridge: Cambridge University Press, 1976.
+11. Crum, Walter E. *A Coptic Dictionary.* Oxford: Clarendon Press, 1939.
+12. Layton, Bentley. *The Gnostic Scriptures: A New Translation with Annotations and Introductions.* Garden City, NY: Doubleday, 1987.
+13. Liddell, Henry George, Robert Scott, and Henry Stuart Jones. *A Greek-English Lexicon*. 9th ed. Oxford: Clarendon Press, 1940.
+14. Meyer, Marvin W. *The Secret Teachings of Jesus: Four Gnostic Gospels.* New York: Random House, 1984.
+15. Schenke, Hans-Martin, Hans-Gebhard Bethge, and Ursula Ulrike Kaiser, eds. *Nag Hammadi Deutsch: Studienausgabe.* Berlin: De Gruyter, 2013.
+16. Turner, John D. *Sethian Gnosticism and the Platonic Tradition*. Bibliothèque copte de Nag Hammadi, Section « Études ». Québec: Les Presses de l'Université Laval; Louvain: Peeters, 2001.
+17. Waldstein, Michael, and Frederik Wisse, eds. *The Apocryphon of John: Synopsis of Nag Hammadi Codices II,1; III,1; and IV,1 with BG 8502,2.* Nag Hammadi and Manichaean Studies 33. Leiden: E. J. Brill, 1995.
 
 **Internal Library Documents:**
 
-14. [A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg](../02_Swedenborgian_Theology/A%20Library%20of%20Biblical%20Correspondences%20in%20Nature%20and%20Objects%20According%20to%20Emanuel%20Swedenborg.md) — a Swedenborgian reference compilation of natural correspondences: water as truth and fire as love, behind the four elemental angels.
-15. [The Grand Man: An Exhaustive Anatomical Atlas of the Divine Human](../02_Swedenborgian_Theology/The%20Grand%20Man_%20An%20Exhaustive%20Anatomical%20Atlas%20of%20the%20Divine%20Human.md) — the anatomical atlas of the *Maximus Homo* against which the angel list is compared.
-16. [The Universal Mirror: An Exhaustive Cartography of Natural Correspondences in the Theology of Emanuel Swedenborg](../02_Swedenborgian_Theology/The%20Universal%20Mirror_%20An%20Exhaustive%20Cartography%20of%20Natural%20Correspondences%20in%20the%20Theology%20of%20Emanuel%20Swedenborg.md) — a Swedenborgian reference compilation of natural correspondences.
+18. [A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg](../02_Swedenborgian_Theology/A%20Library%20of%20Biblical%20Correspondences%20in%20Nature%20and%20Objects%20According%20to%20Emanuel%20Swedenborg.md) — a Swedenborgian reference compilation of natural correspondences: water as truth and fire as love, behind the four elemental angels.
+19. [The Grand Man: An Exhaustive Anatomical Atlas of the Divine Human](../02_Swedenborgian_Theology/The%20Grand%20Man_%20An%20Exhaustive%20Anatomical%20Atlas%20of%20the%20Divine%20Human.md) — the anatomical atlas of the *Maximus Homo* against which the angel list is compared.
+20. [The Universal Mirror: An Exhaustive Cartography of Natural Correspondences in the Theology of Emanuel Swedenborg](../02_Swedenborgian_Theology/The%20Universal%20Mirror_%20An%20Exhaustive%20Cartography%20of%20Natural%20Correspondences%20in%20the%20Theology%20of%20Emanuel%20Swedenborg.md) — a Swedenborgian reference compilation of natural correspondences.
 
 **Data Sources:**
 
-17. kayna-of-light. "AJ_angel_name_translations.yaml." *nag-hammadi-analysis*, `findings/tractates/`. https://github.com/kayna-of-light/nag-hammadi-analysis/blob/main/findings/tractates/AJ_angel_name_translations.yaml — the complete etymological analysis of the angel names on which every table here rests.
-18. kayna-of-light. "II_1_apocryphon_john.yaml." *nag-hammadi-analysis*, `findings/tractates/`. https://github.com/kayna-of-light/nag-hammadi-analysis/blob/main/findings/tractates/II_1_apocryphon_john.yaml — findings AJ-017 through AJ-020, the supporting chain for this thesis.
+21. kayna-of-light. "AJ_angel_name_translations.yaml." *nag-hammadi-analysis*, `findings/tractates/`. https://github.com/kayna-of-light/nag-hammadi-analysis/blob/main/findings/tractates/AJ_angel_name_translations.yaml — the complete etymological analysis of the angel names on which every table here rests.
+22. kayna-of-light. "II_1_apocryphon_john.yaml." *nag-hammadi-analysis*, `findings/tractates/`. https://github.com/kayna-of-light/nag-hammadi-analysis/blob/main/findings/tractates/II_1_apocryphon_john.yaml — findings AJ-017 through AJ-020, the supporting chain for this thesis.

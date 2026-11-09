@@ -16,8 +16,8 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > §3.8, and the open work is the research file `docs/research_questions/apj_angel_list_coptic_reading.md` (rows of
 > 2026-11-06 and 2026-11-07). Never recreate the thesis or cite it. PRs #64, #65 and #68 are merged. 75 documents are
 > audited of 253 (`find data -name "*.md" | wc
-> -l`). GitHub write access works. Open research: the Agromauna and Phnēmē readings (facsimile needed) and the grade-C angel names (file
-> above; parts 1, 3–5 answered 2026-11-09 by *The Body That Waited for Breath*, `08`, PR against `dev`). **Nothing is waiting on an author decision from this batch**: a fact is corrected, not put to the author
+> -l`). GitHub write access works. Open research: the grade-C angel names (file
+> above; the rest answered 2026-11-09 by *The Body That Waited for Breath*, `08`, PR #71 against `dev`; Agromauna/Phnēmē settled as 1990 misprints). **Nothing is waiting on an author decision from this batch**: a fact is corrected, not put to the author
 > (procedure § 4.4); only what the session cannot read stays open. Name the nightly branch for the Amsterdam date. swedenborg.com served four SE PDFs on 2026-10-30 with 4 s
 > pauses and no 429 (`swedenborg_foundation_<title>[_0N].pdf`; *AE* 01–06, *AC* 01–12, *AR* 01–02, *TCR* 01–02); if it
 > 429s, take them from the author's Drive (register row "Swedenborg full text when swedenborg.com returns 429").
@@ -996,7 +996,12 @@ say what was attributed; the "Wisse typographical substitution"; grade-C etymolo
 Belial, ἀν-ορθο-κρασία). New findings from the Coptic: Codex IV's citation of Zoroaster is a restoration (only ⲁⲥⲧ
 survives, IV 29,18); ⲕⲱϩ runs through II 13,8–13, 15,21, 18,21, 19,34; ⲙⲛ̅ⲧⲣⲙⲛ̅ϩⲏⲧ links the hair-soul (15,22) to the living
 man's understanding (20,3–5); ⲁⲧⲕⲓⲙ → ⲁϥⲕⲓⲙ (19,14 → 19,32). Research file updated (parts 1, 3–5 answered; part 2 open).
-Drive sync not run (needs the author's approval).
+Drive sync not run (needs the author's approval). Follow-up the same day (author: "you should check the manuscripts then"):
+the facsimile volumes on archive.org are lending-only and the Claremont photographs did not load, so the two readings were
+settled against the other editions by full-text search: Robinson's own 1981 printing of Wisse's translation, Meyer 1984,
+Layton 1987 and *Nag Hammadi Deutsch* 2013 all read "Agromauma" and "Phneme"; only the 1988/1990 revision prints
+"Agromauna"/"Phnene". *Unnamed Cartography* §3.4 row and §3.8 corrected (inline `[CORRECTION]`; the ἀγρός + μονή reading is
+withdrawn); thesis §12.5 and the research files updated; the Agromauna question moved to the resolved file.
 
 ### 2026-11-07 (in session, at the author's request): the thesis folded into *The Unnamed Cartography*
 

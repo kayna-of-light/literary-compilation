@@ -16,8 +16,8 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > §3.8, and the open work is the research file `docs/research_questions/apj_angel_list_coptic_reading.md` (rows of
 > 2026-11-06 and 2026-11-07). Never recreate the thesis or cite it. PRs #64, #65 and #68 are merged. 75 documents are
 > audited of 253 (`find data -name "*.md" | wc
-> -l`). GitHub write access works. Open research: the Agromauna reading (facsimile needed) and the Coptic-first reading of the angel list (file
-> above). **Nothing is waiting on an author decision from this batch**: a fact is corrected, not put to the author
+> -l`). GitHub write access works. Open research: the Agromauna and Phnēmē readings (facsimile needed) and the grade-C angel names (file
+> above; parts 1, 3–5 answered 2026-11-09 by *The Body That Waited for Breath*, `08`, PR against `dev`). **Nothing is waiting on an author decision from this batch**: a fact is corrected, not put to the author
 > (procedure § 4.4); only what the session cannot read stays open. Name the nightly branch for the Amsterdam date. swedenborg.com served four SE PDFs on 2026-10-30 with 4 s
 > pauses and no 429 (`swedenborg_foundation_<title>[_0N].pdf`; *AE* 01–06, *AC* 01–12, *AR* 01–02, *TCR* 01–02); if it
 > 429s, take them from the author's Drive (register row "Swedenborg full text when swedenborg.com returns 429").
@@ -979,6 +979,24 @@ Candidates to watch for in early runs, from the corpus's history — confirm bef
 ## Run log
 
 Narrative per run — what the batch surfaced, and anything a later run should know that does not fit the tables. Newest first. Unlike the handoff block, this accumulates.
+
+### 2026-11-09 (in session, at the author's request): new thesis from two GDR reports on the angel catalogue
+
+The author added two Gemini Deep Research reports on the Apocryphon's angelic anthropogony to Drive and asked for one
+thesis combining them, read from the Coptic. Written: `08/The Body That Waited for Breath_ The Angelic Anthropogony of
+the Apocryphon of John Read from the Coptic.md`. Every reading was checked against Linssen's Coptic of both codices,
+Crum, Černý and Swedenborg (e-swedenborg Potts text). **Kept from the reports**: the Stoic tetrad; ὄμμα for Oummaa
+(tied to *AC* §4408); κρᾶσις in Onorthochrasaei; Phloxopha/φλόξ, Athuro/Hathor; the body-word corrections already in the
+research file. **Excluded as not in the text or not verifiable**: Report 2's kidney, shin and left-shin angels
+(Michineu/Machaouel, Kaniaron/Mniarkon, Touera) and the nouns ⲧⲙⲛⲧⲉⲃϣⲁ, ⲧⲙⲛⲧⲥⲩⲛⲉⲥⲓⲥ; ⲉⲛⲑⲟⲗⲗⲏⲗ and "ⲥⲁⲣⲝ ⲛⲓⲙ" (text:
+ⲏⲛⲑⲟⲗⲗⲉⲓⲁ ⲛ̅ⲧⲥⲁⲣⲝ ⲧⲏⲣⲥ); IV "ⲭⲁⲣⲙⲁⲛ" (IV: ⲭⲁⲁⲙ[ⲁⲛ]); a line "17,36"; ⲥⲩⲛⲑⲉⲥⲓⲥ for the composition faculty (text:
+ϫⲱⲛϥ); Anaro "over the 365"; Crum page numbers; quotations of Piwowarczyk's entries and Quack's specific
+reconstructions (neither read; cited from catalogue records only); a DDGLC lemma; about twenty *AC*/*DLW*/*HH* loci that do not
+say what was attributed; the "Wisse typographical substitution"; grade-C etymologies used as evidence (Krys "gold",
+Belial, ἀν-ορθο-κρασία). New findings from the Coptic: Codex IV's citation of Zoroaster is a restoration (only ⲁⲥⲧ
+survives, IV 29,18); ⲕⲱϩ runs through II 13,8–13, 15,21, 18,21, 19,34; ⲙⲛ̅ⲧⲣⲙⲛ̅ϩⲏⲧ links the hair-soul (15,22) to the living
+man's understanding (20,3–5); ⲁⲧⲕⲓⲙ → ⲁϥⲕⲓⲙ (19,14 → 19,32). Research file updated (parts 1, 3–5 answered; part 2 open).
+Drive sync not run (needs the author's approval).
 
 ### 2026-11-07 (in session, at the author's request): the thesis folded into *The Unnamed Cartography*
 

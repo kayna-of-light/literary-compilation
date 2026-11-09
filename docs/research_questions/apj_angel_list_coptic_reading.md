@@ -1,7 +1,7 @@
 # Research Question: A Coptic-First Reading of the Apocryphon of John's Angel List
 
 > **Target System**: [NLM] / in-session (Coptic sources on disk) — see "Resources" below
-> **Status**: Open
+> **Status**: Partly resolved (2026-11-09) — parts 1, 3, 4 and 5 are answered in the thesis below; part 2 (the facsimile readings) remains open
 > **Created**: 2026-11-07
 > **Priority**: Medium
 > **Domain**: Correspondential Texts / Coptic philology / Swedenborgian body-part correspondences
@@ -13,6 +13,17 @@
 *The Unnamed Cartography* (`data/08_Correspondential_Texts/`) compared 43 angel names of the body-creation passage (NHC II 15,13–19,10) with Swedenborg's body-part correspondences and found no contradictions. Its etymologies were derived from the English transliterations in Robinson 1990 (Wisse's translation). Its §3.8 now checks that text against the Coptic of both manuscripts (Linssen 2024) and finds it sound: the names are the scribes' names, the body parts and substance-souls are the same, and right–left differences are between Codex II and Codex IV, not errors of the translation.
 
 That check confirms what was already scored. It does not do the larger work it opens up: **reading the list from the Coptic outward**, which is the author's standing rule for NHL work (ledger, 2026-10-31: quote and translate from the Coptic, never from Robinson's English). A separate thesis (*The Letters They Dropped*, withdrawn 2026-11-07) claimed to have done this but had read Robinson's Codex IV parentheses as errors and the linking particle as dropped letters; nothing of it survives except what is now in §3.8.
+
+## Answered so far (2026-11-09)
+
+*The Body That Waited for Breath: The Angelic Anthropogony of the Apocryphon of John Read from the Coptic* (`data/08_Correspondential_Texts/`) reads the whole passage (II 15,1–20,9; IV 24–29) from the Coptic of both codices, drawing on two Gemini Deep Research reports after checking each claim against the manuscripts, Crum, Černý and Swedenborg's text.
+
+- **Part 1 (opaque names)**: every name graded A/B/C (thesis §2.3, §14). 29 of 130 surviving names read at A/B; none contradicts its member. The ~100 grade-C names stay unread; the work that could decide them is in thesis §12.4 (Quack 1995 and Piwowarczyk 2021 not yet read in full).
+- **Part 3 (II against IV)**: collated (§5.2, §14.2). II lost three left-hand entries by homoeoteleuton, IV lost Phnēmē and Phiouthrom the same way; union = 72. "Zathoth" = numeral ⲍ + Athoth; IV names all seven overseers (IV 26,17–20). No paired right/left name shows the *AC* §10061 distinction at grade A/B.
+- **Part 4 (body words)**: settled (§§4, 5.4–5.6, 7). Three remain uncertain and are not used: ϫⲱ, ⲧⲉⲧⲉ, ϭⲗⲁⲧⲉ ⲛ̅ⲧⲟⲩⲣⲏⲧⲉ.
+- **Part 5 (second list and rulers)**: read and compared (§§7–10).
+
+**Still open**: part 2 (ⲫⲛⲏⲙⲏ, ⲁⲅⲣⲟⲙⲁⲩⲙⲁ against the facsimile), and the grade-C names.
 
 ## The research opportunity — five parts
 

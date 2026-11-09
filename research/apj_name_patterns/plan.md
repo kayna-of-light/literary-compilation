@@ -16,7 +16,7 @@ The model is Ventris's grid for Linear B: record systematically which signs occu
 ## Data
 
 - **Names**: the Coptic spellings of both codices, from the Linssen transcription in `nag-hammadi-analysis` (II 15,29–19,2; IV 24,22–29,6), as set out in the thesis's appendix (§14). Codex II is primary; Codex IV variants are used in a robustness run.
-- **Members**: as coded in `meaning_table.md` (52 members, 13 forces). Members whose identity is uncertain are left out (ϫⲱ, ⲧⲉⲧⲉ, ϭⲗⲁⲧⲉ ⲛ̅ⲧⲟⲩⲣⲏⲧⲉ), as are lost names.
+- **Members**: as coded in `meaning_table.md` (52 members, 13 forces), by degree (successive and simultaneous order), polarity and use. No member is coded as "good" or "truth": the body as a whole is the union of good and truth in which good rules (*AC* §§3887, 4931), and that relation enters only through degree and polarity (revised 2026-11-09 at the author's correction). Members whose identity is uncertain are left out (ϫⲱ, ⲧⲉⲧⲉ, ϭⲗⲁⲧⲉ ⲛ̅ⲧⲟⲩⲣⲏⲧⲉ), as are lost names.
 - **Expected sample**: about 64 names in the first list and 28 in the second attached to coded members, plus about 17 force-names as a secondary set.
 
 ## Features of the names (no assumptions)
@@ -27,9 +27,9 @@ Each name is described by every letter it contains, every sequence of two and th
 
 **Test 0. Same member, same sound?** (needs no coding at all) About twenty-five members are named in both lists (left out: ϫⲱ, and the left shoulder, whose maker's name is lost), the maker in the first and the mover in the second. Is the maker's name more similar in sound to the mover's name of the *same* member than to the movers of other members? Similarity: shared letter sequences (Jaccard on bigrams and trigrams). Significance: permutation of the second-list names, 10,000 times. The same test for right/left partners: are the two names of a pair more alike than random pairs?
 
-**Test 1. Shared meaning, shared sound?** (the matrix) For every pair of names, compute a sound similarity (as above) and a meaning similarity (overlap of components, region and side from the meaning table). A Mantel test asks whether the two matrices are correlated across all pairs: whether names of members that mean similar things sound similar. This is one global test, with no rule assumed.
+**Test 1. Shared meaning, shared sound?** (the matrix) For every pair of names, compute a sound similarity (as above) and a meaning similarity from the meaning table: same degree, same layer, overlap of use, and polarity. Because the degrees are discrete (*DLW* §§184, 238), degree is treated as a category, never as a scale. A Mantel test asks whether the two matrices are correlated across all pairs: whether names of members that mean similar things sound similar. This is one global test, with no rule assumed. Three contrasts follow directly from the structure and are tested separately: the right and left names of each pair (does something mark the side in which good leads?); the heart-side and lung-side names; and the names of the three degrees.
 
-**Test 2. The grid** (discovery) For every candidate piece × every component, count how often the piece occurs in names whose member carries the component, against what chance gives. Significance by permutation of names over members; false-discovery control (Benjamini–Hochberg) across the grid. Pieces that survive are candidate carriers of a meaning.
+**Test 2. The grid** (discovery) For every candidate piece × every coded value (each degree, each layer, each polarity, each use), count how often the piece occurs in names whose member carries the component, against what chance gives. Significance by permutation of names over members; false-discovery control (Benjamini–Hochberg) across the grid. Pieces that survive are candidate carriers of a meaning.
 
 **Test 3. Does it hold elsewhere?** (validation) Any rule found in the first list must predict the components of the second-list names, which were not used to find it. A rule that does not carry over is not reported as a finding. As a third check, the rule is applied to the forces, whose meanings are coded separately.
 
@@ -56,7 +56,7 @@ The sample is small. Only a strong regularity, of the kind a deliberate naming s
 | Step | Status |
 |---|---|
 | Swedenborg's Grand Man chapters collected (`store/source_001.md`) | Done |
-| Meaning table drafted (`meaning_table.md`) | Done; **awaiting the author's review** |
+| Meaning table drafted (`meaning_table.md`) | Second draft (degrees and polarity in place of good/truth labels); **awaiting the author's review** |
 | Name data assembled from the thesis appendix | Not started |
 | Tests 0–3 (notebook) | Not started |
 | Synthesis | Not started |

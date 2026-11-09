@@ -1015,7 +1015,8 @@ back to C; Arbao went up to B ("fourfold Iao"); Chnoum- restored as "Khnum, or t
 (Piwowarczyk xxxi). Totals 38 of 130 A/B. Then (author: "what is holding you back on those 90 names?") the remaining names were compared with every
 form in Gundel 1936 pp. 77–81 (open on archive.org, read from page images): seven resemblances added as C proposals of this study; ~80
 names have no decan match and no ritual attestation, so §12.4 now states the reading ends there with published sources. Gundel added to
-Works Cited.
+Works Cited. Then (author: "do you mean you cannot read the coptic?") all unread names were tested against Crum (whole and segmented): none is a
+Coptic word except ⲁⲣⲁⲣⲓⲙ = Bohairic "saltwort" (likely coincidence); ⲃⲁⲣⲃⲁⲣ is near ⲃⲉⲣⲃⲉⲣ "boil". Recorded as C.
 
 ### 2026-11-07 (in session, at the author's request): the thesis folded into *The Unnamed Cartography*
 

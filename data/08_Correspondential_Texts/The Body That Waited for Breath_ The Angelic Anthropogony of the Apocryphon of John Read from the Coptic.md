@@ -303,7 +303,7 @@ The list now turns to the trunk: first its outer walls — breasts, chest-joints
 | 27 | ⲁⲥⲧⲣⲱⲯ | ⲧϭⲓⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ (IV ⲧⲕⲓⲃⲉ), the right breast | B (first element) | ⲁⲥⲧⲣ- = ἀστρ-, "star"; resembles the decan variant *Astiro* in Firmicus (Quack 1995, 116) |
 | 28 | ⲃⲁⲣⲣⲱⲫ | ⲧϭⲓⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left breast | C | Opaque |
 | 29 | ⲃⲁⲟⲩⲙ | ⲡϫⲱ ⲛ̅ⲟⲩⲛⲁⲙ (IV ⲡϫⲟ), the right ϫⲱ | C | Opaque; the member is uncertain (Robinson "shoulder joint") |
-| 30 | ⲁⲣⲁⲣⲓⲙ | ⲡϫⲱ ⲛ̅ϭⲃⲟⲩⲣ, the left ϫⲱ | C | Opaque |
+| 30 | ⲁⲣⲁⲣⲓⲙ | ⲡϫⲱ ⲛ̅ϭⲃⲟⲩⲣ, the left ϫⲱ | C | Letter for letter the Bohairic ⲁⲣⲁⲣⲓⲙ (Sahidic ⲁⲣⲓⲙ), "saltwort", ἅλιμον at Job 30:4 (Crum); probably a coincidence |
 | 31 | ⲁⲣⲉⲭ (IV ⲁⲣⲉⲭⲏ) | ⲧⲕⲟⲓⲗⲓⲁ, the belly (κοιλία) | C | ἀρχή has been proposed |
 | 32 | ⲫⲑⲁⲩⲏ | ⲑⲟⲗⲡⲉ (ⲧ- + ϩⲟⲗⲡⲉ), the navel | B | *Ptḥ wr*, "Ptah the great" (Quack 1995, 116) |
 | 33 | ⲥⲏⲛⲁⲫⲓⲙ (IV ⲥⲏⲛⲁⲫⲑⲓ) | ⲡⲩⲡⲟⲭⲟⲛⲇⲣⲓⲟⲥ, the hypochondrium (ὑποχόνδριον) | C | A badly corrupted form of the decan *sbšsn*, *seneptois* (Quack 1995, 116) |
@@ -475,7 +475,7 @@ The thirty are confined to the members that move: no brain, heart, lungs, liver,
 | 6 | ⲧϭⲓϫ ⲛ̅ϭⲃⲟⲩⲣ, the left hand | ⲁⲣⲃⲁⲟ | B | The magical name Ἀρβαω, contracted from Ἀρβαθιαω, Hebrew "fourfold Iao" (Piwowarczyk 2021, s.v.) |
 | 7 | the fingers of the right hand | ⲗⲁⲙⲡⲛⲱ | C | Possibly λάμπω, "shine"; compare the twenty-fourth decan Ἀμπάναν / *Iampanax* (Gundel 1936, 80), Λ and Ι being easily confused in majuscule; proposed in this study |
 | 8 | the fingers of the left hand | ⲗⲏⲉⲕⲁⲫⲁⲣ | C | Opaque |
-| 9 | ⲧϭⲓⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right breast | ⲃⲁⲣⲃⲁⲣ | C | Opaque |
+| 9 | ⲧϭⲓⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right breast | ⲃⲁⲣⲃⲁⲣ | C | A common magical name (Piwowarczyk 2021, s.v.); near the Coptic ⲃⲉⲣⲃⲉⲣ, ⲃⲁⲣⲃⲉⲣ-, "boil" (ζεῖν; Crum), which Merkelbach and Totti connected with it |
 | 10 | ⲧϭⲓⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left breast | ⲓⲙⲁⲏ | C | Aramaic *ʾimmā*, "mother", has been proposed |
 | 11 | ⲧⲙⲉⲥⲧϩⲏⲧ, the breast (στῆθος; Crum) | ⲡⲓⲥⲁⲛⲇⲣⲁⲡⲧⲏⲥ | C | Possibly a Greek compound |
 | 12 | ⲡϫⲱ ⲛ̅ⲟⲩⲛⲁⲙ, the right ϫⲱ | ⲕⲟⲁⲇⲏ | C | Opaque |
@@ -735,7 +735,7 @@ Quack's study showed that the names are not, for the most part, Greek or Semitic
 
 This has two consequences for the argument. The first is that an opaque name is most likely an Egyptian power-name whose form has decayed, not a word whose meaning is hidden. It says who rules the member in the Egyptian scheme of decans and gods, and that is a statement about governance, not about function. The method therefore does not count it either way. The second is that the list carries two kinds of naming together. The decan names come from an astrological melothesia, a scheme in which each star-power holds a member; the word-names — the firm for the teeth, judgment for the nails, breaking for the shoulder, the meninges for the brain, the book for the kidneys — say what each member is for. The convergence with Swedenborg rests on the second kind, and it survives on a smaller base than *The Unnamed Cartography* supposed. The first kind is itself a doctrine of the body as governed member by member from the heavens, which is the structure of the Grand Man seen from the side of the powers that rule rather than the life that flows.
 
-For this study every remaining name was compared with all the forms in Gundel's synoptic tables of the decan names — the Egyptian lists, Hephaestion, the London magical papyri, Firmicus Maternus and his variants, the Vatican Latin list, Kamateros, the Greek and Latin Hermetic lists, the *Testament of Solomon* and the Anonymus of 379 (Gundel 1936, 77–80) — first by a mechanical comparison of letters and consonant skeletons, then by eye. Most apparent matches were the coincidences that short names produce. Seven resemblances survived: ⲣⲓⲁⲣⲁⲙⲛⲁⲭⲱ, the ruler of impulse, with the decan Ρεμεναχ and with the Ῥαμανωρ and Ῥειανωρ whom Celsus names among the decans of the limbs; ⲁⲥⲙⲉⲛⲉⲇⲁⲥ, one of the seven over the movers, with the Latin Hermetic *Zamendres*; ⲗⲁⲙⲡⲛⲱ with Ἀμπάναν, *Iampanax*; ⲁⲛⲏⲥⲓⲙⲁⲗⲁⲣ with Ἀνεσιούμ; ⲟⲩⲇⲓⲇⲓ with οὐδισίτ; ⲁⲣⲟⲩⲫ with *Arfa*, *Amarph*; and the reduplicated ⲭⲁⲣⲭⲁ and ⲭⲁⲣⲭⲁⲣⲃ with Χαρχαμ (§14). None is an exact form, and all remain grade C. They make it somewhat more likely that the decan tradition reaches beyond the first list into the second and among the rulers, as Quack expected. For the remaining names — about eighty — there is no match in any decan list, and Piwowarczyk records no attestation in the texts of ritual power. With the sources now published, that is where their reading ends: they are not unread for want of searching, but unattested. A new papyrus or gem bearing one of them is the only thing that could move them.
+For this study every remaining name was compared with all the forms in Gundel's synoptic tables of the decan names — the Egyptian lists, Hephaestion, the London magical papyri, Firmicus Maternus and his variants, the Vatican Latin list, Kamateros, the Greek and Latin Hermetic lists, the *Testament of Solomon* and the Anonymus of 379 (Gundel 1936, 77–80) — first by a mechanical comparison of letters and consonant skeletons, then by eye. Most apparent matches were the coincidences that short names produce. Seven resemblances survived: ⲣⲓⲁⲣⲁⲙⲛⲁⲭⲱ, the ruler of impulse, with the decan Ρεμεναχ and with the Ῥαμανωρ and Ῥειανωρ whom Celsus names among the decans of the limbs; ⲁⲥⲙⲉⲛⲉⲇⲁⲥ, one of the seven over the movers, with the Latin Hermetic *Zamendres*; ⲗⲁⲙⲡⲛⲱ with Ἀμπάναν, *Iampanax*; ⲁⲛⲏⲥⲓⲙⲁⲗⲁⲣ with Ἀνεσιούμ; ⲟⲩⲇⲓⲇⲓ with οὐδισίτ; ⲁⲣⲟⲩⲫ with *Arfa*, *Amarph*; and the reduplicated ⲭⲁⲣⲭⲁ and ⲭⲁⲣⲭⲁⲣⲃ with Χαρχαμ (§14). None is an exact form, and all remain grade C. They make it somewhat more likely that the decan tradition reaches beyond the first list into the second and among the rulers, as Quack expected. Every remaining name was also tested against the forms in Crum's *Coptic Dictionary*, whole and divided into possible Coptic words with and without the article. None is a Coptic word except ⲁⲣⲁⲣⲓⲙ, which coincides with the Bohairic word for saltwort, and none is a Coptic compound except by divisions too short to mean anything; ⲃⲁⲣⲃⲁⲣ comes near the verb "boil". The names are written in Coptic letters but are not Coptic words, which is what Quack's and Piwowarczyk's evidence leads one to expect. For the remaining names — about eighty — there is no match in any decan list, and Piwowarczyk records no attestation in the texts of ritual power. With the sources now published, that is where their reading ends: they are not unread for want of searching, but unattested. A new papyrus or gem bearing one of them is the only thing that could move them.
 
 ### 12.5 Limitations and Lacunae
 
@@ -818,7 +818,7 @@ Codex II has sixty-nine names: it lacks the left shoulder, left elbow and left l
 | 27 | ⲁⲥⲧⲣⲱⲯ | ⲧϭⲓⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ (IV ⲧⲕⲓⲃⲉ), the right breast | B | ⲁⲥⲧⲣ- = ἀστρ-, "star"; resembles the decan variant *Astiro* in Firmicus (Quack 1995, 116) |
 | 28 | ⲃⲁⲣⲣⲱⲫ | ⲧϭⲓⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left breast | C | Opaque |
 | 29 | ⲃⲁⲟⲩⲙ | ⲡϫⲱ ⲛ̅ⲟⲩⲛⲁⲙ (IV ⲡϫⲟ), the right ϫⲱ | C | Opaque; the member is uncertain (Robinson "shoulder joint") |
-| 30 | ⲁⲣⲁⲣⲓⲙ | ⲡϫⲱ ⲛ̅ϭⲃⲟⲩⲣ, the left ϫⲱ | C | Opaque |
+| 30 | ⲁⲣⲁⲣⲓⲙ | ⲡϫⲱ ⲛ̅ϭⲃⲟⲩⲣ, the left ϫⲱ | C | Letter for letter the Bohairic ⲁⲣⲁⲣⲓⲙ (Sahidic ⲁⲣⲓⲙ), "saltwort", ἅλιμον at Job 30:4 (Crum); probably a coincidence |
 | 31 | ⲁⲣⲉⲭ (IV ⲁⲣⲉⲭⲏ) | ⲧⲕⲟⲓⲗⲓⲁ, the belly (κοιλία) | C | ἀρχή has been proposed |
 | 32 | ⲫⲑⲁⲩⲏ | ⲑⲟⲗⲡⲉ (ⲧ- + ϩⲟⲗⲡⲉ), the navel | B | *Ptḥ wr*, "Ptah the great" (Quack 1995, 116) |
 | 33 | ⲥⲏⲛⲁⲫⲓⲙ (IV ⲥⲏⲛⲁⲫⲑⲓ) | ⲡⲩⲡⲟⲭⲟⲛⲇⲣⲓⲟⲥ, the hypochondrium (ὑποχόνδριον) | C | A badly corrupted form of the decan *sbšsn*, *seneptois* (Quack 1995, 116) |
@@ -885,7 +885,7 @@ Codex II has sixty-nine names: it lacks the left shoulder, left elbow and left l
 | 6 | ⲧϭⲓϫ ⲛ̅ϭⲃⲟⲩⲣ, the left hand | ⲁⲣⲃⲁⲟ | B | The magical name Ἀρβαω, contracted from Ἀρβαθιαω, Hebrew "fourfold Iao" (Piwowarczyk 2021, s.v.) |
 | 7 | the fingers of the right hand | ⲗⲁⲙⲡⲛⲱ | C | Possibly λάμπω, "shine"; compare the twenty-fourth decan Ἀμπάναν / *Iampanax* (Gundel 1936, 80), Λ and Ι being easily confused in majuscule; proposed in this study |
 | 8 | the fingers of the left hand | ⲗⲏⲉⲕⲁⲫⲁⲣ | C | Opaque |
-| 9 | ⲧϭⲓⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right breast | ⲃⲁⲣⲃⲁⲣ | C | Opaque |
+| 9 | ⲧϭⲓⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right breast | ⲃⲁⲣⲃⲁⲣ | C | A common magical name (Piwowarczyk 2021, s.v.); near the Coptic ⲃⲉⲣⲃⲉⲣ, ⲃⲁⲣⲃⲉⲣ-, "boil" (ζεῖν; Crum), which Merkelbach and Totti connected with it |
 | 10 | ⲧϭⲓⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left breast | ⲓⲙⲁⲏ | C | Aramaic *ʾimmā*, "mother", has been proposed |
 | 11 | ⲧⲙⲉⲥⲧϩⲏⲧ, the breast (στῆθος; Crum) | ⲡⲓⲥⲁⲛⲇⲣⲁⲡⲧⲏⲥ | C | Possibly a Greek compound |
 | 12 | ⲡϫⲱ ⲛ̅ⲟⲩⲛⲁⲙ, the right ϫⲱ | ⲕⲟⲁⲇⲏ | C | Opaque |

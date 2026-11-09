@@ -316,7 +316,7 @@ The list now turns to the trunk: first its outer walls — breasts, chest-joints
 | 41 | ⲁⲅⲣⲟⲙⲁⲩⲙⲁ (both codices) | ⲙ̅ⲫⲏⲧ (ⲡ- + ϩⲏⲧ), the heart | C | Opaque; misprinted "Agromauna" in Robinson 1990 (1981 printing: "Agromauma") |
 | 42 | ⲃⲁⲛⲱ | ⲡⲛⲉⲩⲙⲟⲛⲓⲛ (πνεύμων), the lungs | C | Opaque |
 | 43 | ⲥⲱⲥⲧⲣⲁⲡⲁⲗ | ϩⲏⲡⲁⲣ (ἧπαρ), the liver | C | Opaque |
-| 44 | ⲁⲛⲏⲥⲓⲙⲁⲗⲁⲣ | ⲥⲡⲗⲏⲛ (σπλήν), the spleen | C | Opaque |
+| 44 | ⲁⲛⲏⲥⲓⲙⲁⲗⲁⲣ | ⲥⲡⲗⲏⲛ (σπλήν), the spleen | C | Compare the sixth decan Ἀνεσιούμ in the Anonymus of 379, Cod. Pal. *Atesiuma* (Gundel 1936, 80); proposed in this study |
 | 45 | ⲑⲱⲡⲓⲑⲣⲱ | ⲙⲉϩⲧ, the intestines | C | Two decan names run together, *tpy-ꜥ* and ⲉⲣⲱ (Quack 1995, 116) |
 | 46 | ⲃⲓⲃⲗⲱ | ϭⲗⲁⲧⲉ, the kidneys | B | βίβλος, "book"; Quack emends to ⲃⲓⲃⲓⲱ, the magical βιβιου, "soul of souls" (Quack 1995, 116) |
 | 47 | ⲣⲟⲉⲣⲱⲣ | ⲙⲙⲟⲩⲧ, the sinews | C | Opaque |
@@ -471,9 +471,9 @@ The thirty are confined to the members that move: no brain, heart, lungs, liver,
 | 2 | ⲡⲙⲟⲩⲧ, the neck | ⲓⲁⲙⲙⲉⲁⲝ | C | Opaque |
 | 3 | ⲧⲛⲁϩⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right shoulder | ⲓⲁⲕⲟⲩⲓⲃ | A | Jacob |
 | 4 | ⲧⲛⲁϩⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left shoulder | ⲟⲩⲉⲣⲧⲱⲛ | B | *wr-tꜣ*, "great one of the earth", magical ουερτω (Quack 1995, 118) |
-| 5 | ⲧϭⲓϫ ⲛ̅ⲟⲩⲛⲁⲙ, the right hand | ⲟⲩⲇⲓⲇⲓ (IV ⲟⲩⲇⲉⲓⲇⲓ) | C | Hebrew *yādîd*, "beloved", has been proposed |
+| 5 | ⲧϭⲓϫ ⲛ̅ⲟⲩⲛⲁⲙ, the right hand | ⲟⲩⲇⲓⲇⲓ (IV ⲟⲩⲇⲉⲓⲇⲓ) | C | Hebrew *yādîd*, "beloved", has been proposed; compare the Hermetic variant οὐδισίτ of the eleventh decan (Gundel 1936, 79), proposed in this study |
 | 6 | ⲧϭⲓϫ ⲛ̅ϭⲃⲟⲩⲣ, the left hand | ⲁⲣⲃⲁⲟ | B | The magical name Ἀρβαω, contracted from Ἀρβαθιαω, Hebrew "fourfold Iao" (Piwowarczyk 2021, s.v.) |
-| 7 | the fingers of the right hand | ⲗⲁⲙⲡⲛⲱ | C | Possibly λάμπω, "shine" |
+| 7 | the fingers of the right hand | ⲗⲁⲙⲡⲛⲱ | C | Possibly λάμπω, "shine"; compare the twenty-fourth decan Ἀμπάναν / *Iampanax* (Gundel 1936, 80), Λ and Ι being easily confused in majuscule; proposed in this study |
 | 8 | the fingers of the left hand | ⲗⲏⲉⲕⲁⲫⲁⲣ | C | Opaque |
 | 9 | ⲧϭⲓⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right breast | ⲃⲁⲣⲃⲁⲣ | C | Opaque |
 | 10 | ⲧϭⲓⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left breast | ⲓⲙⲁⲏ | C | Aramaic *ʾimmā*, "mother", has been proposed |
@@ -482,13 +482,13 @@ The thirty are confined to the members that move: no brain, heart, lungs, liver,
 | 13 | ⲡϫⲱ ⲛ̅ϭⲃⲟⲩⲣ, the left ϫⲱ | ⲟⲇⲉⲱⲣ | C | Opaque |
 | 14 | ⲥⲡⲓⲣ ⲛ̅ⲟⲩⲛⲁⲙ, the right ribs | ⲁⲥⲫⲓⲝⲓⲝ (IV ⲁⲥⲫⲓⲝⲝⲓⲝ) | C | Opaque |
 | 15 | ⲡⲥⲡⲓⲣ ⲛ̅ϭⲃⲟⲩⲣ, the left ribs | ⲥⲩⲛⲟⲅⲭⲟⲩⲧⲁ (IV ⲥⲟⲩⲛⲟⲅⲭⲟⲩⲧⲁ) | B | συνοχή, "holding together" |
-| 16 | ⲧⲕⲟⲓⲗⲓⲁ, the belly | ⲁⲣⲟⲩⲫ | C | Opaque |
+| 16 | ⲧⲕⲟⲓⲗⲓⲁ, the belly | ⲁⲣⲟⲩⲫ | C | Compare the sixth decan *Arfa*, *Amarph*, *Aharph* (Gundel 1936, 78); proposed in this study |
 | 17 | ⲡⲉⲕⲟⲩⲛϥ, his bosom (Crum: ⲕⲟⲩⲛ⸗, κόλπος) | ⲥⲁⲃⲁⲗⲱ | C | Semitic *sbl*, "to carry", has been proposed |
-| 18 | ⲡⲙⲏⲣⲟⲥ ⲛ̅ⲟⲩⲛⲁⲙ, the right thigh | ⲭⲁⲣⲭⲁⲣⲃ | C | Opaque |
+| 18 | ⲡⲙⲏⲣⲟⲥ ⲛ̅ⲟⲩⲛⲁⲙ, the right thigh | ⲭⲁⲣⲭⲁⲣⲃ | C | A reduplicated name like ⲭⲁⲣⲭⲁ; compare the decan forms Χαρχαμ, Χαρχνουμις (Gundel 1936, 77, 80) |
 | 19 | ⲡⲙⲏⲣⲟⲥ ⲛ̅ϭⲃⲟⲩⲣ, the left thigh | ⲭⲑⲁⲱⲛ (IV ⲭⲑⲁⲱ) | B | χθών, "earth" |
 | 20 | ⲛ̅ⲁⲓⲇⲟⲓⲟⲛ ⲧⲏⲣⲟⲩ, all the genitals | ⲃⲁⲑⲓⲛⲱⲑ (IV ⲑⲁⲃⲓⲛⲱⲑ) | B (IV) | Hebrew *tabnît*, "pattern, form"; Quack, emending II, reads "soul of Thoth" or "soul of darkness" (Quack 1995, 118) |
 | 21 | ⲡⲡⲉⲧ ⲛ̅ⲟⲩⲛⲁⲙ, the right knee | ⲭⲟⲩⲝ | B | *Kk.w*, the primordial god of darkness, magical χουχ (Quack 1995, 118) |
-| 22 | ⲡⲡⲉⲧ ⲛ̅ϭⲃⲟⲩⲣ, the left knee | ⲭⲁⲣⲭⲁ | C | Hebrew *kāraʿ*, "to bow the knee", has been proposed |
+| 22 | ⲡⲡⲉⲧ ⲛ̅ϭⲃⲟⲩⲣ, the left knee | ⲭⲁⲣⲭⲁ | C | A magical name attested in the papyri, a reduplication typical of the *voces*; Gundel notes the decan forms Χαρχαμ, Χαρχνουμις (Piwowarczyk 2021, s.v.; Gundel 1936, 77, 80); Hebrew *kāraʿ* has also been proposed |
 | 23 | ⲧⲥⲏⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right shin | ⲁⲣⲟⲏⲣ | B | *Ḥr.w wr*, Haroeris, "Horus the elder", magical αρουηρ (Quack 1995, 118) |
 | 24 | ⲧⲥⲏⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left shin | ⲧⲱⲉⲭⲑⲁ | C | Opaque |
 | 25 | ⲧⲕⲗ̅ⲗⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right ankle | ⲁⲱⲗ | C | Opaque |
@@ -735,7 +735,7 @@ Quack's study showed that the names are not, for the most part, Greek or Semitic
 
 This has two consequences for the argument. The first is that an opaque name is most likely an Egyptian power-name whose form has decayed, not a word whose meaning is hidden. It says who rules the member in the Egyptian scheme of decans and gods, and that is a statement about governance, not about function. The method therefore does not count it either way. The second is that the list carries two kinds of naming together. The decan names come from an astrological melothesia, a scheme in which each star-power holds a member; the word-names — the firm for the teeth, judgment for the nails, breaking for the shoulder, the meninges for the brain, the book for the kidneys — say what each member is for. The convergence with Swedenborg rests on the second kind, and it survives on a smaller base than *The Unnamed Cartography* supposed. The first kind is itself a doctrine of the body as governed member by member from the heavens, which is the structure of the Grand Man seen from the side of the powers that rule rather than the life that flows.
 
-What remains open is narrower than before: the opaque names that are neither recognisable decans nor words. A comparison of them with the full decan lists collected by Gundel, which Quack used, is the work that could decide them; Piwowarczyk's lexicon records the ritual-power attestations that exist for each, and for most of the remaining names there are none.
+For this study every remaining name was compared with all the forms in Gundel's synoptic tables of the decan names — the Egyptian lists, Hephaestion, the London magical papyri, Firmicus Maternus and his variants, the Vatican Latin list, Kamateros, the Greek and Latin Hermetic lists, the *Testament of Solomon* and the Anonymus of 379 (Gundel 1936, 77–80) — first by a mechanical comparison of letters and consonant skeletons, then by eye. Most apparent matches were the coincidences that short names produce. Seven resemblances survived: ⲣⲓⲁⲣⲁⲙⲛⲁⲭⲱ, the ruler of impulse, with the decan Ρεμεναχ and with the Ῥαμανωρ and Ῥειανωρ whom Celsus names among the decans of the limbs; ⲁⲥⲙⲉⲛⲉⲇⲁⲥ, one of the seven over the movers, with the Latin Hermetic *Zamendres*; ⲗⲁⲙⲡⲛⲱ with Ἀμπάναν, *Iampanax*; ⲁⲛⲏⲥⲓⲙⲁⲗⲁⲣ with Ἀνεσιούμ; ⲟⲩⲇⲓⲇⲓ with οὐδισίτ; ⲁⲣⲟⲩⲫ with *Arfa*, *Amarph*; and the reduplicated ⲭⲁⲣⲭⲁ and ⲭⲁⲣⲭⲁⲣⲃ with Χαρχαμ (§14). None is an exact form, and all remain grade C. They make it somewhat more likely that the decan tradition reaches beyond the first list into the second and among the rulers, as Quack expected. For the remaining names — about eighty — there is no match in any decan list, and Piwowarczyk records no attestation in the texts of ritual power. With the sources now published, that is where their reading ends: they are not unread for want of searching, but unattested. A new papyrus or gem bearing one of them is the only thing that could move them.
 
 ### 12.5 Limitations and Lacunae
 
@@ -831,7 +831,7 @@ Codex II has sixty-nine names: it lacks the left shoulder, left elbow and left l
 | 41 | ⲁⲅⲣⲟⲙⲁⲩⲙⲁ (both codices) | ⲙ̅ⲫⲏⲧ (ⲡ- + ϩⲏⲧ), the heart | C | Opaque; misprinted "Agromauna" in Robinson 1990 (1981 printing: "Agromauma") |
 | 42 | ⲃⲁⲛⲱ | ⲡⲛⲉⲩⲙⲟⲛⲓⲛ (πνεύμων), the lungs | C | Opaque |
 | 43 | ⲥⲱⲥⲧⲣⲁⲡⲁⲗ | ϩⲏⲡⲁⲣ (ἧπαρ), the liver | C | Opaque |
-| 44 | ⲁⲛⲏⲥⲓⲙⲁⲗⲁⲣ | ⲥⲡⲗⲏⲛ (σπλήν), the spleen | C | Opaque |
+| 44 | ⲁⲛⲏⲥⲓⲙⲁⲗⲁⲣ | ⲥⲡⲗⲏⲛ (σπλήν), the spleen | C | Compare the sixth decan Ἀνεσιούμ in the Anonymus of 379, Cod. Pal. *Atesiuma* (Gundel 1936, 80); proposed in this study |
 | 45 | ⲑⲱⲡⲓⲑⲣⲱ | ⲙⲉϩⲧ, the intestines | C | Two decan names run together, *tpy-ꜥ* and ⲉⲣⲱ (Quack 1995, 116) |
 | 46 | ⲃⲓⲃⲗⲱ | ϭⲗⲁⲧⲉ, the kidneys | B | βίβλος, "book"; Quack emends to ⲃⲓⲃⲓⲱ, the magical βιβιου, "soul of souls" (Quack 1995, 116) |
 | 47 | ⲣⲟⲉⲣⲱⲣ | ⲙⲙⲟⲩⲧ, the sinews | C | Opaque |
@@ -881,9 +881,9 @@ Codex II has sixty-nine names: it lacks the left shoulder, left elbow and left l
 | 2 | ⲡⲙⲟⲩⲧ, the neck | ⲓⲁⲙⲙⲉⲁⲝ | C | Opaque |
 | 3 | ⲧⲛⲁϩⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right shoulder | ⲓⲁⲕⲟⲩⲓⲃ | A | Jacob |
 | 4 | ⲧⲛⲁϩⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left shoulder | ⲟⲩⲉⲣⲧⲱⲛ | B | *wr-tꜣ*, "great one of the earth", magical ουερτω (Quack 1995, 118) |
-| 5 | ⲧϭⲓϫ ⲛ̅ⲟⲩⲛⲁⲙ, the right hand | ⲟⲩⲇⲓⲇⲓ (IV ⲟⲩⲇⲉⲓⲇⲓ) | C | Hebrew *yādîd*, "beloved", has been proposed |
+| 5 | ⲧϭⲓϫ ⲛ̅ⲟⲩⲛⲁⲙ, the right hand | ⲟⲩⲇⲓⲇⲓ (IV ⲟⲩⲇⲉⲓⲇⲓ) | C | Hebrew *yādîd*, "beloved", has been proposed; compare the Hermetic variant οὐδισίτ of the eleventh decan (Gundel 1936, 79), proposed in this study |
 | 6 | ⲧϭⲓϫ ⲛ̅ϭⲃⲟⲩⲣ, the left hand | ⲁⲣⲃⲁⲟ | B | The magical name Ἀρβαω, contracted from Ἀρβαθιαω, Hebrew "fourfold Iao" (Piwowarczyk 2021, s.v.) |
-| 7 | the fingers of the right hand | ⲗⲁⲙⲡⲛⲱ | C | Possibly λάμπω, "shine" |
+| 7 | the fingers of the right hand | ⲗⲁⲙⲡⲛⲱ | C | Possibly λάμπω, "shine"; compare the twenty-fourth decan Ἀμπάναν / *Iampanax* (Gundel 1936, 80), Λ and Ι being easily confused in majuscule; proposed in this study |
 | 8 | the fingers of the left hand | ⲗⲏⲉⲕⲁⲫⲁⲣ | C | Opaque |
 | 9 | ⲧϭⲓⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right breast | ⲃⲁⲣⲃⲁⲣ | C | Opaque |
 | 10 | ⲧϭⲓⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left breast | ⲓⲙⲁⲏ | C | Aramaic *ʾimmā*, "mother", has been proposed |
@@ -892,13 +892,13 @@ Codex II has sixty-nine names: it lacks the left shoulder, left elbow and left l
 | 13 | ⲡϫⲱ ⲛ̅ϭⲃⲟⲩⲣ, the left ϫⲱ | ⲟⲇⲉⲱⲣ | C | Opaque |
 | 14 | ⲥⲡⲓⲣ ⲛ̅ⲟⲩⲛⲁⲙ, the right ribs | ⲁⲥⲫⲓⲝⲓⲝ (IV ⲁⲥⲫⲓⲝⲝⲓⲝ) | C | Opaque |
 | 15 | ⲡⲥⲡⲓⲣ ⲛ̅ϭⲃⲟⲩⲣ, the left ribs | ⲥⲩⲛⲟⲅⲭⲟⲩⲧⲁ (IV ⲥⲟⲩⲛⲟⲅⲭⲟⲩⲧⲁ) | B | συνοχή, "holding together" |
-| 16 | ⲧⲕⲟⲓⲗⲓⲁ, the belly | ⲁⲣⲟⲩⲫ | C | Opaque |
+| 16 | ⲧⲕⲟⲓⲗⲓⲁ, the belly | ⲁⲣⲟⲩⲫ | C | Compare the sixth decan *Arfa*, *Amarph*, *Aharph* (Gundel 1936, 78); proposed in this study |
 | 17 | ⲡⲉⲕⲟⲩⲛϥ, his bosom (Crum: ⲕⲟⲩⲛ⸗, κόλπος) | ⲥⲁⲃⲁⲗⲱ | C | Semitic *sbl*, "to carry", has been proposed |
-| 18 | ⲡⲙⲏⲣⲟⲥ ⲛ̅ⲟⲩⲛⲁⲙ, the right thigh | ⲭⲁⲣⲭⲁⲣⲃ | C | Opaque |
+| 18 | ⲡⲙⲏⲣⲟⲥ ⲛ̅ⲟⲩⲛⲁⲙ, the right thigh | ⲭⲁⲣⲭⲁⲣⲃ | C | A reduplicated name like ⲭⲁⲣⲭⲁ; compare the decan forms Χαρχαμ, Χαρχνουμις (Gundel 1936, 77, 80) |
 | 19 | ⲡⲙⲏⲣⲟⲥ ⲛ̅ϭⲃⲟⲩⲣ, the left thigh | ⲭⲑⲁⲱⲛ (IV ⲭⲑⲁⲱ) | B | χθών, "earth" |
 | 20 | ⲛ̅ⲁⲓⲇⲟⲓⲟⲛ ⲧⲏⲣⲟⲩ, all the genitals | ⲃⲁⲑⲓⲛⲱⲑ (IV ⲑⲁⲃⲓⲛⲱⲑ) | B | Hebrew *tabnît*, "pattern, form"; Quack, emending II, reads "soul of Thoth" or "soul of darkness" (Quack 1995, 118) |
 | 21 | ⲡⲡⲉⲧ ⲛ̅ⲟⲩⲛⲁⲙ, the right knee | ⲭⲟⲩⲝ | B | *Kk.w*, the primordial god of darkness, magical χουχ (Quack 1995, 118) |
-| 22 | ⲡⲡⲉⲧ ⲛ̅ϭⲃⲟⲩⲣ, the left knee | ⲭⲁⲣⲭⲁ | C | Hebrew *kāraʿ*, "to bow the knee", has been proposed |
+| 22 | ⲡⲡⲉⲧ ⲛ̅ϭⲃⲟⲩⲣ, the left knee | ⲭⲁⲣⲭⲁ | C | A magical name attested in the papyri, a reduplication typical of the *voces*; Gundel notes the decan forms Χαρχαμ, Χαρχνουμις (Piwowarczyk 2021, s.v.; Gundel 1936, 77, 80); Hebrew *kāraʿ* has also been proposed |
 | 23 | ⲧⲥⲏⲃⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right shin | ⲁⲣⲟⲏⲣ | B | *Ḥr.w wr*, Haroeris, "Horus the elder", magical αρουηρ (Quack 1995, 118) |
 | 24 | ⲧⲥⲏⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ, the left shin | ⲧⲱⲉⲭⲑⲁ | C | Opaque |
 | 25 | ⲧⲕⲗ̅ⲗⲉ ⲛ̅ⲟⲩⲛⲁⲙ, the right ankle | ⲁⲱⲗ | C | Opaque |
@@ -914,7 +914,7 @@ Codex II has sixty-nine names: it lacks the left shoulder, left elbow and left l
 |---|---|---|---|---|
 | Seven over the thirty | 1 | ⲙⲓⲭⲁⲏⲗ | A | Michael, "Who is like God?" |
 | | 2 | ⲟⲩⲣⲓⲏⲗ | A | Ouriel, "God is my light" |
-| | 3 | ⲁⲥⲙⲉⲛⲉⲇⲁⲥ | C | ἄσμενος, "glad", has been proposed |
+| | 3 | ⲁⲥⲙⲉⲛⲉⲇⲁⲥ | C | ἄσμενος, "glad", has been proposed; compare the Latin Hermetic sixteenth decan *Zamendres* (Gundel 1936, 80), proposed in this study |
 | | 4 | ⲥⲁⲫⲁⲥⲁⲧⲟⲏⲗ | B (ending) | Theophoric in -ēl |
 | | 5 | ⲁⲁⲣⲙⲟⲩⲣⲓⲁⲙ | C | ἁρμός, "joint", has been proposed |
 | | 6 | ⲣⲓⲭⲣⲁⲙ | C | Opaque |
@@ -923,7 +923,7 @@ Codex II has sixty-nine names: it lacks the left shoulder, left elbow and left l
 | | reception (ⲁⲛⲁⲗⲏⲙⲯⲓⲥ) | ⲇⲉⲓⲑⲁⲣⲃⲁⲑⲁⲥ | C | Opaque |
 | | imagination (ⲫⲁⲛⲧⲁⲥⲓⲁ) | ⲟⲩⲙⲙⲁⲁ | A | ὄμμα, "eye" |
 | | composition (ϫⲱⲛϥ) | ⲁⲁⲭⲓⲁⲣⲁⲙ | C | Opaque |
-| | the whole impulse (ϩⲟⲣⲙⲏ) | ⲣⲓⲁⲣⲁⲙⲛⲁⲭⲱ | C | Opaque |
+| | the whole impulse (ϩⲟⲣⲙⲏ) | ⲣⲓⲁⲣⲁⲙⲛⲁⲭⲱ | C | Compare the twelfth decan Ρεμεναχ (London papyri) and Celsus' limb-decans Ῥαμανωρ, Ῥειανωρ (Gundel 1936, 77; Quack 1995, 112); proposed in this study |
 | Four over the qualities | heat (ϩⲙⲙⲉ) | ⲫⲗⲟⲝⲟⲫⲁ | A (first element) | φλόξ, "flame" |
 | | cold (ⲁⲣⲟϣ) | ⲟⲣⲟⲟⲣⲣⲟⲑⲟⲥ | C | ὀρρωδέω, "shrink in fear", possible |
 | | dryness (ϣⲟⲟⲩⲉ) | ⲉⲣⲓⲙⲁⲭⲱ | C | ἐρημ-, "desert", possible |
@@ -972,22 +972,23 @@ The text gives the total as 365 (II 19,2–3; II 11,23–25) and refers the rema
 9. Crum, Walter E. *A Coptic Dictionary.* Oxford: Clarendon Press, 1939.
 10. Layton, Bentley. *The Gnostic Scriptures: A New Translation with Annotations and Introductions.* Garden City, NY: Doubleday, 1987.
 11. Černý, Jaroslav. *Coptic Etymological Dictionary.* Cambridge: Cambridge University Press, 1976.
-12. Meyer, Marvin W. *The Secret Teachings of Jesus: Four Gnostic Gospels.* New York: Random House, 1984.
-13. Piwowarczyk, Przemysław. *Lexicon of Spiritual Powers in the Nag Hammadi "Library" in the Light of the Texts of Ritual Power.* Filologia Klasyczna. Katowice: Wydawnictwo Uniwersytetu Śląskiego, 2021.
-14. Quack, Joachim Friedrich. "Dekane und Gliedervergottung: Altägyptische Traditionen im Apokryphon Johannis." *Jahrbuch für Antike und Christentum* 38 (1995): 97–122.
-15. Schenke, Hans-Martin, Hans-Gebhard Bethge, and Ursula Ulrike Kaiser, eds. *Nag Hammadi Deutsch: Studienausgabe.* Berlin: De Gruyter, 2013.
-16. Turner, John D. *Sethian Gnosticism and the Platonic Tradition.* Bibliothèque copte de Nag Hammadi, Section « Études » 6. Québec: Les Presses de l'Université Laval; Louvain: Peeters, 2001.
-17. van den Broek, Roelof. "The Creation of Adam's Psychic Body in the Apocryphon of John." In *Studies in Gnosticism and Hellenistic Religions Presented to Gilles Quispel on the Occasion of His 65th Birthday*, edited by R. van den Broek and M. J. Vermaseren, 38–57. Études préliminaires aux religions orientales dans l'Empire romain 91. Leiden: E. J. Brill, 1981.
-18. Waldstein, Michael, and Frederik Wisse, eds. *The Apocryphon of John: Synopsis of Nag Hammadi Codices II,1; III,1; and IV,1 with BG 8502,2.* Nag Hammadi and Manichaean Studies 33. Leiden: E. J. Brill, 1995.
+12. Gundel, Wilhelm. *Dekane und Dekansternbilder: Ein Beitrag zur Geschichte der Sternbilder der Kulturvölker.* Studien der Bibliothek Warburg 19. Glückstadt and Hamburg, 1936. The synoptic tables of the decan names at pp. 77–81.
+13. Meyer, Marvin W. *The Secret Teachings of Jesus: Four Gnostic Gospels.* New York: Random House, 1984.
+14. Piwowarczyk, Przemysław. *Lexicon of Spiritual Powers in the Nag Hammadi "Library" in the Light of the Texts of Ritual Power.* Filologia Klasyczna. Katowice: Wydawnictwo Uniwersytetu Śląskiego, 2021.
+15. Quack, Joachim Friedrich. "Dekane und Gliedervergottung: Altägyptische Traditionen im Apokryphon Johannis." *Jahrbuch für Antike und Christentum* 38 (1995): 97–122.
+16. Schenke, Hans-Martin, Hans-Gebhard Bethge, and Ursula Ulrike Kaiser, eds. *Nag Hammadi Deutsch: Studienausgabe.* Berlin: De Gruyter, 2013.
+17. Turner, John D. *Sethian Gnosticism and the Platonic Tradition.* Bibliothèque copte de Nag Hammadi, Section « Études » 6. Québec: Les Presses de l'Université Laval; Louvain: Peeters, 2001.
+18. van den Broek, Roelof. "The Creation of Adam's Psychic Body in the Apocryphon of John." In *Studies in Gnosticism and Hellenistic Religions Presented to Gilles Quispel on the Occasion of His 65th Birthday*, edited by R. van den Broek and M. J. Vermaseren, 38–57. Études préliminaires aux religions orientales dans l'Empire romain 91. Leiden: E. J. Brill, 1981.
+19. Waldstein, Michael, and Frederik Wisse, eds. *The Apocryphon of John: Synopsis of Nag Hammadi Codices II,1; III,1; and IV,1 with BG 8502,2.* Nag Hammadi and Manichaean Studies 33. Leiden: E. J. Brill, 1995.
 
 **Internal Library Documents**
 
-19. [The Unnamed Cartography: A Systematic Validation of Swedenborgian Body-Part Correspondences Against the 365-Angel List of the Apocryphon of John](The%20Unnamed%20Cartography_%20A%20Systematic%20Validation%20of%20Swedenborgian%20Body-Part%20Correspondences%20Against%20the%20365-Angel%20List%20of%20the%20Apocryphon%20of%20John.md). The first validation of the angel list against Swedenborg's body-part correspondences, with the manuscript check of both codices at §3.8.
-20. [The Book of Zoroaster and the Children of the East: Material Evidence for the Ancient Word Transmission Hypothesis from the Nag Hammadi Apocryphon of John](The%20Book%20of%20Zoroaster%20and%20the%20Children%20of%20the%20East_%20Material%20Evidence%20for%20the%20Ancient%20Word%20Transmission%20Hypothesis%20from%20the%20Nag%20Hammadi%20Apocryphon%20of%20John.md). The citation of the book of Zoroaster read as evidence for the Ancient Word transmission.
-21. [The Tongue Beneath the Translation: Coptic Vocabulary as Material Evidence for the Correspondential Substrate of the Nag Hammadi Library](The%20Tongue%20Beneath%20the%20Translation_%20Coptic%20Vocabulary%20as%20Material%20Evidence%20for%20the%20Correspondential%20Substrate%20of%20the%20Nag%20Hammadi%20Library.md). The method of reading the Nag Hammadi texts from their Coptic vocabulary rather than their English.
-22. [The Living Library: Correspondential Architecture Across the Nag Hammadi Collection](The%20Living%20Library_%20Correspondential%20Architecture%20Across%20the%20Nag%20Hammadi%20Collection.md). The correspondential architecture of the whole collection within which the Apocryphon's anthropogony stands.
-23. [The Grand Man: An Exhaustive Anatomical Atlas of the Divine Human](../02_Swedenborgian_Theology/The%20Grand%20Man_%20An%20Exhaustive%20Anatomical%20Atlas%20of%20the%20Divine%20Human.md). Swedenborg's correspondences of the members of the body, assembled organ by organ.
+20. [The Unnamed Cartography: A Systematic Validation of Swedenborgian Body-Part Correspondences Against the 365-Angel List of the Apocryphon of John](The%20Unnamed%20Cartography_%20A%20Systematic%20Validation%20of%20Swedenborgian%20Body-Part%20Correspondences%20Against%20the%20365-Angel%20List%20of%20the%20Apocryphon%20of%20John.md). The first validation of the angel list against Swedenborg's body-part correspondences, with the manuscript check of both codices at §3.8.
+21. [The Book of Zoroaster and the Children of the East: Material Evidence for the Ancient Word Transmission Hypothesis from the Nag Hammadi Apocryphon of John](The%20Book%20of%20Zoroaster%20and%20the%20Children%20of%20the%20East_%20Material%20Evidence%20for%20the%20Ancient%20Word%20Transmission%20Hypothesis%20from%20the%20Nag%20Hammadi%20Apocryphon%20of%20John.md). The citation of the book of Zoroaster read as evidence for the Ancient Word transmission.
+22. [The Tongue Beneath the Translation: Coptic Vocabulary as Material Evidence for the Correspondential Substrate of the Nag Hammadi Library](The%20Tongue%20Beneath%20the%20Translation_%20Coptic%20Vocabulary%20as%20Material%20Evidence%20for%20the%20Correspondential%20Substrate%20of%20the%20Nag%20Hammadi%20Library.md). The method of reading the Nag Hammadi texts from their Coptic vocabulary rather than their English.
+23. [The Living Library: Correspondential Architecture Across the Nag Hammadi Collection](The%20Living%20Library_%20Correspondential%20Architecture%20Across%20the%20Nag%20Hammadi%20Collection.md). The correspondential architecture of the whole collection within which the Apocryphon's anthropogony stands.
+24. [The Grand Man: An Exhaustive Anatomical Atlas of the Divine Human](../02_Swedenborgian_Theology/The%20Grand%20Man_%20An%20Exhaustive%20Anatomical%20Atlas%20of%20the%20Divine%20Human.md). Swedenborg's correspondences of the members of the body, assembled organ by organ.
 
 **Data Sources**
 
-24. `docs/research_questions/apj_angel_list_coptic_reading.md` (literary-compilation). The standing research question on the Coptic reading of the angel list.
+25. `docs/research_questions/apj_angel_list_coptic_reading.md` (literary-compilation). The standing research question on the Coptic reading of the angel list.

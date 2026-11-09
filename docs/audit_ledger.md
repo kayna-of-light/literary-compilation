@@ -1012,7 +1012,10 @@ download; the full entries are still to read. Then the author supplied the gnosi
 entry of the passage: Piwowarczyk accepts the Egyptian gods but rates many of Quack's decan equations tentative. Achcha, Psērēm and Arabeei went
 back to C; Arbao went up to B ("fourfold Iao"); Chnoum- restored as "Khnum, or the decan Chnoumis"; the ⲍ at II 19,1 is given both readings
 (numeral, or the magical ζουχ of ζουχε πιπτοη); αἴσθησις οὐχ ἐπὶ πτοῇ as the Stoic rule; the lists treated as a later Coptic-stage stratum
-(Piwowarczyk xxxi). Totals 38 of 130 A/B.
+(Piwowarczyk xxxi). Totals 38 of 130 A/B. Then (author: "what is holding you back on those 90 names?") the remaining names were compared with every
+form in Gundel 1936 pp. 77–81 (open on archive.org, read from page images): seven resemblances added as C proposals of this study; ~80
+names have no decan match and no ritual attestation, so §12.4 now states the reading ends there with published sources. Gundel added to
+Works Cited.
 
 ### 2026-11-07 (in session, at the author's request): the thesis folded into *The Unnamed Cartography*
 

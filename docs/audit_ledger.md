@@ -17,7 +17,7 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > 2026-11-06 and 2026-11-07). Never recreate the thesis or cite it. PRs #64, #65 and #68 are merged. 75 documents are
 > audited of 253 (`find data -name "*.md" | wc
 > -l`). GitHub write access works. Open research: the grade-C angel names (file
-> above; the rest answered 2026-11-09 by *The Body That Waited for Breath*, `08`, PR #71 against `dev`; Agromauna/Phnēmē settled as 1990 misprints; the name-pattern study `research/apj_name_patterns/` ran 2026-11-10 and is a miss: no sound–meaning code is detectable in the names). **Nothing is waiting on an author decision from this batch**: a fact is corrected, not put to the author
+> above; the rest answered 2026-11-09 by *The Body That Waited for Breath*, `08`, PR #71 against `dev`; Agromauna/Phnēmē settled as 1990 misprints; the name-pattern study `research/apj_name_patterns/` ran 2026-11-10 and is a miss twice over: neither the letters nor the origin of a name follows its member's meaning). **Nothing is waiting on an author decision from this batch**: a fact is corrected, not put to the author
 > (procedure § 4.4); only what the session cannot read stays open. Name the nightly branch for the Amsterdam date. swedenborg.com served four SE PDFs on 2026-10-30 with 4 s
 > pauses and no 429 (`swedenborg_foundation_<title>[_0N].pdf`; *AE* 01–06, *AC* 01–12, *AR* 01–02, *TCR* 01–02); if it
 > 429s, take them from the author's Drive (register row "Swedenborg full text when swedenborg.com returns 429").
@@ -1021,7 +1021,10 @@ project, `research/apj_name_patterns/`, coded every member and force by function
 role; frozen 2026-11-10 before names were attached) and tested whether related meanings carry related letter sequences. Result 2026-11-10
 (`synthesis/001_first_run.md`): a **miss** by the registered criteria. Same member across lists p = 0.070, Mantel r = 0.016 (p = 0.20),
 no grid cell survives, nothing replicates in the second list. One unvalidated lead: ⲣ marks the right-hand name in the first list (8 pairs
-to 0), reversed in the second (3 to 6). Not a `data/` change.
+to 0), reversed in the second (3 to 6). Then (author: test the origin of the names instead) Part 2 tested the tradition of each name
+(Egyptian, Greek, Semitic, from the published readings) against the same meanings, with one prediction from the text (Egyptian names on
+natural-degree members, *AC* §§4967, 5276, 4938): also a **miss** (strict 4 of 9 vs 28 of 84, p = 0.45; reversed under the broad
+coding); origin is unrelated to degree, side and role (`synthesis/002_origin.md`). Not a `data/` change.
 
 ### 2026-11-07 (in session, at the author's request): the thesis folded into *The Unnamed Cartography*
 

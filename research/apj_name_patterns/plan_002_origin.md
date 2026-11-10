@@ -54,6 +54,10 @@ Statistic: χ² on the contingency table, used only as a distance. p by permutat
 - **An origin is someone's identification, not a certainty.** A grade-B Egyptian name is Quack's or Piwowarczyk's equation.
 - **What a result means.** A hit on O1 supports the author's hypothesis at this one point. An association in O2–O4 that survives Holm under both null models is a pattern to explain, not a confirmed prediction. A null result is reported as such.
 
+## Status
+
+**Run 2026-11-10: Miss.** O1: Egyptian names on natural members 4 of 9 against 28 of 84 others (strict; p = 0.45 within lists, 0.48 in blocks; 6 of 9 were needed), and reversed under the broad coding (6 of 27 against 26 of 66). O2–O4: no association (p 0.25–0.94); Holm-adjusted p = 1 throughout. See `synthesis/002_origin.md`.
+
 ## Outputs
 
 - `analysis/build_origin.py` → `analysis/origin.csv`

@@ -63,7 +63,7 @@ The sample is small. Only a strong regularity, of the kind a deliberate naming s
 
 **Outcome (2026-11-10): Miss** by the criteria above. Tests 0 and 1 are at chance after every control (Test 0a p = 0.070; Mantel r = 0.016, p = 0.20; partial r = 0.012, p = 0.26). No grid cell survives correction, and no first-list lead holds in the second list. The one regularity to pass a familywise threshold within its own family is ⲣ in right-side names of the first list (8 pairs to 0; familywise p = 0.018). It reverses in the second list (3 to 6) and is reported as not validated.
 
-**Part 2** (2026-11-10, at the author's suggestion): whether the *origin* of a name (Egyptian, Greek, Semitic) goes with the meaning of its member. Plan: `plan_002_origin.md`.
+**Part 2** (2026-11-10, at the author's suggestion): whether the *origin* of a name (Egyptian, Greek, Semitic) goes with the meaning of its member. Plan: `plan_002_origin.md`. **Outcome: Miss** — origin is spread across the body without regard to degree, side or role (`synthesis/002_origin.md`).
 
 ## Outputs
 

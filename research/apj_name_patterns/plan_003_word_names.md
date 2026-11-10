@@ -40,8 +40,12 @@ The score is the number of glosses placed on their own member. Two pairs of memb
 - **Exclusion.** A matcher whose SOURCE line or reasons name the Apocryphon of John, the Nag Hammadi texts, or any of the angel names is excluded and replaced by the next spare prompt of its version (3, then 4). If no two blind matchers are obtained, the test is reported as failed.
 - **Scoring.** The number of the fourteen target questions answered with the true member. Under the null, each answer is a 1-in-4 guess, so the sum over a version's two matchers is Binomial(28, 1/4), with expected value 7. **Hit**: Holm-adjusted p < 0.05 in both versions. **Partial**: in one. **Miss**: in neither. Also reported: the result without the meninges question.
 
+## Status
+
+**Run 2026-11-10: the test failed** under the amendment's rule. Every round-2 matcher named the source, so version A used both spares without a blind matcher, and the version-B spares were not run because the outcome was fixed. The aptness of the word-names is untested against chance. See `synthesis/003_word_names.md`.
+
 ## Outputs
 
-- `analysis/word_match.py`, `analysis/word_match/` (prompts, keys, responses)
-- `analysis/results_word_match.json`
+- `analysis/word_match.py`, `analysis/word_match2.py`, `analysis/word_match/` (prompts, keys, all responses, marked)
+- `analysis/results_word_match_r2_excluded.json` (counts of the excluded matchers, for the record; no test result exists)
 - `synthesis/003_word_names.md`

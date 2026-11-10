@@ -65,7 +65,7 @@ The sample is small. Only a strong regularity, of the kind a deliberate naming s
 
 **Part 2** (2026-11-10, at the author's suggestion): whether the *origin* of a name (Egyptian, Greek, Semitic) goes with the meaning of its member. Plan: `plan_002_origin.md`. **Outcome: Miss** — origin is spread across the body without regard to degree, side or role (`synthesis/002_origin.md`).
 
-**Part 3** (2026-11-10): whether blind matchers recover the pairs of the readable word-names and their members. Plan: `plan_003_word_names.md`.
+**Part 3** (2026-11-10): whether blind matchers recover the pairs of the readable word-names and their members. Plan: `plan_003_word_names.md`. **Outcome: the test failed** — the language-model matchers all recognised the Apocryphon, so no blind matchers could be obtained (`synthesis/003_word_names.md`).
 
 ## Outputs
 

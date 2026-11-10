@@ -17,7 +17,7 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > 2026-11-06 and 2026-11-07). Never recreate the thesis or cite it. PRs #64, #65 and #68 are merged. 75 documents are
 > audited of 253 (`find data -name "*.md" | wc
 > -l`). GitHub write access works. Open research: the grade-C angel names (file
-> above; the rest answered 2026-11-09 by *The Body That Waited for Breath*, `08`, PR #71 against `dev`; Agromauna/Phnēmē settled as 1990 misprints). **Nothing is waiting on an author decision from this batch**: a fact is corrected, not put to the author
+> above; the rest answered 2026-11-09 by *The Body That Waited for Breath*, `08`, PR #71 against `dev`; Agromauna/Phnēmē settled as 1990 misprints; the name-pattern study `research/apj_name_patterns/` ran 2026-11-10 and is a miss: no sound–meaning code is detectable in the names). **Nothing is waiting on an author decision from this batch**: a fact is corrected, not put to the author
 > (procedure § 4.4); only what the session cannot read stays open. Name the nightly branch for the Amsterdam date. swedenborg.com served four SE PDFs on 2026-10-30 with 4 s
 > pauses and no 429 (`swedenborg_foundation_<title>[_0N].pdf`; *AE* 01–06, *AC* 01–12, *AR* 01–02, *TCR* 01–02); if it
 > 429s, take them from the author's Drive (register row "Swedenborg full text when swedenborg.com returns 429").
@@ -1016,7 +1016,12 @@ back to C; Arbao went up to B ("fourfold Iao"); Chnoum- restored as "Khnum, or t
 form in Gundel 1936 pp. 77–81 (open on archive.org, read from page images): seven resemblances added as C proposals of this study; ~80
 names have no decan match and no ritual attestation, so §12.4 now states the reading ends there with published sources. Gundel added to
 Works Cited. Then (author: "do you mean you cannot read the coptic?") all unread names were tested against Crum (whole and segmented): none is a
-Coptic word except ⲁⲣⲁⲣⲓⲙ = Bohairic "saltwort" (likely coincidence); ⲃⲁⲣⲃⲁⲣ is near ⲃⲉⲣⲃⲉⲣ "boil". Recorded as C.
+Coptic word except ⲁⲣⲁⲣⲓⲙ = Bohairic "saltwort" (likely coincidence); ⲃⲁⲣⲃⲁⲣ is near ⲃⲉⲣⲃⲉⲣ "boil". Recorded as C. Then (author: the names identify spiritual communities; find the rules without preassigning sounds) a research
+project, `research/apj_name_patterns/`, coded every member and force by function as Swedenborg derives it (degree, layer, polarity, use,
+role; frozen 2026-11-10 before names were attached) and tested whether related meanings carry related letter sequences. Result 2026-11-10
+(`synthesis/001_first_run.md`): a **miss** by the registered criteria. Same member across lists p = 0.070, Mantel r = 0.016 (p = 0.20),
+no grid cell survives, nothing replicates in the second list. One unvalidated lead: ⲣ marks the right-hand name in the first list (8 pairs
+to 0), reversed in the second (3 to 6). Not a `data/` change.
 
 ### 2026-11-07 (in session, at the author's request): the thesis folded into *The Unnamed Cartography*
 

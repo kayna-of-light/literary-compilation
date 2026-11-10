@@ -56,13 +56,17 @@ The sample is small. Only a strong regularity, of the kind a deliberate naming s
 | Step | Status |
 |---|---|
 | Swedenborg's Grand Man chapters collected (`store/source_001.md`) | Done |
-| Meaning table drafted (`meaning_table.md`) | Second draft (degrees and polarity in place of good/truth labels); **awaiting the author's review** |
-| Name data assembled from the thesis appendix | Not started |
-| Tests 0–3 (notebook) | Not started |
-| Synthesis | Not started |
+| Meaning table (`meaning_table.md`) | **Frozen 2026-11-10** before any name was attached (§5 of the table); commit `61323ec` |
+| Name data assembled from the thesis appendix | Done: `analysis/build_names.py` → `analysis/names.csv` (109 names) |
+| Tests 0–3 | Run 2026-11-10: `analysis/analysis.py` → `analysis/results.json`; plan items it omitted (length covariate, neighbourhood permutations, the three contrasts) in `analysis/supplement.py` → `analysis/results_supplement.json` |
+| Synthesis | `synthesis/001_first_run.md` |
+
+**Outcome (2026-11-10): Miss** by the criteria above. Tests 0 and 1 are at chance after every control (Test 0a p = 0.070; Mantel r = 0.016, p = 0.20; partial r = 0.012, p = 0.26). No grid cell survives correction, and no first-list lead holds in the second list. The one regularity to pass a familywise threshold within its own family is ⲣ in right-side names of the first list (8 pairs to 0; familywise p = 0.018). It reverses in the second list (3 to 6) and is reported as not validated.
 
 ## Outputs
 
 - `meaning_table.md` — the coded structure
 - `store/source_001.md` — Swedenborg's Grand Man chapters as read for the table
 - `context.md` — what the library already establishes about the names
+- `analysis/` — the scripts, the name data and the results
+- `synthesis/001_first_run.md` — the result

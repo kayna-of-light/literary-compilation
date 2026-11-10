@@ -1,6 +1,6 @@
 # Meaning table: the members and forces of the Apocryphon's anthropogony, coded from Swedenborg
 
-**Status**: Second draft for the author's review (2026-11-09), revised after the author's correction that the first draft flattened the discrete degrees. Nothing is computed until this table is approved. It is the only place where assumptions enter the study.
+**Status**: Frozen 2026-11-10, before any name was attached (§5). The second draft (2026-11-09) was revised after the author's correction that the first draft flattened the discrete degrees, and its open points were settled by function. It is the only place where assumptions enter the study.
 
 **Rule of construction.** Every member and force named in the angel lists of the Apocryphon of John (NHC II 15,13–19,2; IV 24–29) receives its spiritual counterpart in one of two ways:
 

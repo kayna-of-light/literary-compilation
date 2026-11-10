@@ -25,6 +25,8 @@ That check confirms what was already scored. It does not do the larger work it o
 
 - **Part 2 (the two readings)**: settled. ⲫⲛⲏⲙⲏ and ⲁⲅⲣⲟⲙⲁⲩⲙⲁ are what the manuscripts read; "Phnene" and "Agromauna" are misprints of Robinson 1988/1990. The 1981 printing of the same translation, Meyer 1984, Layton 1987 and *Nag Hammadi Deutsch* 2013 all read Phneme/Agromauma (archive.org full-text search). *Unnamed Cartography* §3.4/§3.8 corrected.
 
+- **The grade-C names as a code (2026-11-10)**: at the author's request, `research/apj_name_patterns/` tested whether the names carry their members' meanings (coded by function, frozen before the names were attached) in shared letter sequences. A miss: nothing beyond chance, nothing that holds in both lists (`research/apj_name_patterns/synthesis/001_first_run.md`). The unread names cannot be read from their letters. A new source would be needed.
+
 **Still open**: the grade-C names (thesis §12.4).
 
 ## The research opportunity — five parts

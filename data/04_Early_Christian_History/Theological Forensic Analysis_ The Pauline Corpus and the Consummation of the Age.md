@@ -54,7 +54,7 @@ This spiritual datum illuminates the textual insistence in Paul’s letters on h
 
 The conflict with the apostolic college drove Paul, according to the Diary, into diverse and dangerous associations. Entry 4561m notes that Paul "associated himself, on several occasions, with evil spirits and devils, in order that he might make for himself an altogether infernal heaven" (*SD* §4561m). This "heaven" refers to a society of spirits organized around a specific leader or doctrine.
 
-Paul’s theological system, by loosening the bonds of the law and emphasizing forensic grace, provided a rallying point for spirits who desired salvation without the purification of the will. This aligns with the description of "Babel" in the Diary, where "Babel is ruling by means of the doctrine of the Church and explaining those things \[of doctrine\] in favour of ruling over others" (*SD* §§4839–4840). Paul’s rejection of the "interiors of the Word" allowed him to construct a spiritual fiefdom where his authority was paramount, mirroring the "faith alone" multitudes who were vastated at the Last Judgment (*SD* §§5228, 5351).
+Paul’s theological system, by loosening the bonds of the law and emphasizing forensic grace, provided a rallying point for spirits who desired salvation without the purification of the will. This aligns with the description of "Babel" in the Diary, where "Babel is ruling by means of the doctrine of the Church and explaining those things \[of doctrine\] in favour of ruling over others" (*SD* §§4839–4840). Paul’s rejection of the "interiors of the Word" allowed him to construct a spiritual fiefdom where his authority was paramount, mirroring the "faith alone" cities described in entries 4699 and 4926, the second of which, its inhabitants having "revelled in the lust of governing," "began to sink, and at length even into the depth, with that city and its inhabitants" (*SD* §4926).
 
 ## **4\. Soteriological Divergence: The 'Dragon' of Faith Alone**
 
@@ -86,7 +86,7 @@ Luther’s placement "under the soles of both feet" (*SD* §5106) corresponds to
 
 The Moravians are highlighted as the ultimate expression of the "Faith Alone" error. Entry 4791 notes that they "believe that good work, and a life of good in general, effect nothing, but only faith in the truth, and love to the Lord as a man," and "explain away all those places in the New Testament where good works are treated of" (*SD* §4791).
 
-This leads to a practical antinomianism: they believe they may "deceive others outside their congregation, commit whoredom although they are married," because they "are in the Lord" (*SD* §4791). Entry 4816 records their blasphemous assertion that "where the Lord spoke concerning love, and doing good," then "the Lord spoke insanely, being in evil like themselves" (*SD* §4816). This rejection of the Lord’s teaching in favor of a soteriological formula derived from Paul demonstrates the total inversion of order: the servant (Paul) is made judge over the Master (Jesus).
+This leads to a practical antinomianism where adultery and deceit are tolerated because the believer is "in the Lord" via faith: they believe they may "deceive others outside their congregation, commit whoredom although they are married, and similar things" (*SD* §4791). In a dream that continues the account of them, two of them declare themselves robbers and demand a hundred ducats (*SD* §4813). Entry 4816 records their blasphemous assertion that "where the Lord spoke concerning love, and doing good," then "the Lord spoke insanely, being in evil like themselves" (*SD* §4816). This rejection of the Lord’s teaching in favor of a soteriological formula derived from Paul demonstrates the total inversion of order: the servant (Paul) is made judge over the Master (Jesus).
 
 ### **Table 2: Soteriological Models**
 
@@ -95,7 +95,7 @@ This leads to a practical antinomianism: they believe they may "deceive others o
 | **Justification** | Forensic imputation of Christ's merit | Impartation of good via regeneration | \[4626m\] |
 | **Role of Works** | Fruits/Evidence (not saving) | Essential container of spiritual life | \[4639m\], \[4791\] |
 | **Definition of Faith** | Confidence/Trust in Merit | Form of Charity/Will | \[4785\], \[4626m\] |
-| **Spiritual Outcome** | Vastation/Loss of Truth | Conjunction with Heaven | \[5228\], \[5351\], \[5389\] |
+| **Spiritual Outcome** | Vastation/Loss of Truth | Conjunction with Heaven | \[4926\], \[5228\], \[5351\], \[5389\] |
 
 ## **5\. Christology: The Divine Human and the Correction of Subordinationism**
 
@@ -107,9 +107,9 @@ The *Spiritual Diary* asserts that the "Divine Human" is the fundamental theolog
 
 Swedenborg argues that the Lord’s Human is not a separate nature (as in Chalcedonian orthodoxy influenced by Paul) but is the visible manifestation of the Father. Entry 4847 explains: "The Divine Itself, which is the first essence... the second essence is Man born... and the third essence... is Man proceeding" (*SD* §4847). This Trinitarian Monotheism rejects the idea of three persons or two distinct natures that can be separated. The Lord *is* the Father made visible.
 
-### **5.2 The Council and the "Dark Chamber"**
+### **5.2 Nicaea, the Two Natures and the "Dark Chamber"**
 
-The separation of the Divine and Human natures, a theological development reliant on Pauline distinctions, is attributed in the *Spiritual Diary* to a conspiracy for power. Entry 4551 describes a "dark chamber" where a council convened to distinguish between the Lord's Divine and Human. The motivation was political: "if they had acknowledged the Lord as one with the Father... the papal throne would not subsist" (*SD* §4551).
+The separation of the Divine and Human natures, a theological development reliant on Pauline distinctions, is attributed in the *Spiritual Diary* to a conspiracy for power. Entry 4551 describes a "dark chamber" where a council convened to distinguish between the Lord's Divine and Human. The motivation was political: "if they had acknowledged the Lord as one with the Father... the papal throne would not subsist" (*SD* §4551). The published account of the same encounter gives the decree itself: those "who had the greatest influence in the council ... came together in a dark room and there concluded that both a Divine and a human nature should be attributed to the Lord; chiefly for the reason that otherwise the papal sway could not be maintained" (*Arcana Coelestia* §4738). Swedenborg does not name the council. The decree he describes is the definition of Chalcedon (451), which confessed Christ "in two natures ... the peculiar property of each nature being preserved," and at which the Tome of Leo, bishop of Rome, was read and received (Council of Chalcedon, *Definition of Faith*). Nicaea he charges with the step before it: to answer Arius, "the Nicene Council, for the purpose of maintaining the divinity of the Lord, fabricated a son of God born from eternity" (*True Christian Religion* §94), and from Nicaea comes "the doctrine of three Divine persons from eternity" (*TCR* §136:3). Nicaea divided the persons, the council of the dark chamber divided the natures; on Swedenborg's account both separated what the Divine Human unites.
 
 By separating the Human (which they could claim to represent via the Vicar) from the Divine, the hierarchy usurped the Lord’s power. Paul’s language of mediation provided the textual cover for this separation. The Diary contrasts this with the faith of the "simple good" and the "Africans" (*SD* §§4775, 5516), who readily accept the idea that God appeared as a Man and that the Lord is that One God, without the confusing metaphysics of hypostatic unions and distinct persons.
 
@@ -125,7 +125,7 @@ The *Spiritual Diary* describes the Last Judgment (1757) as a spiritual event ex
 
 Entry 4699 describes the spiritual geography of the "Faith Alone" believers. They inhabit a city situated "forward, to the right, in the plane of the sole of the foot" (*SD* §4699). This location indicates a state that is sensual and external. The inhabitants are "those who have believed that faith alone saves," some of whom "have lived a good life," together with simple ones and, apart from these, evil ones, "many of whom were robbers"; the good dwell among the evil "in order that the city may be preserved" (*SD* §4699).
 
-When the Last Judgment occurred, "an immense number of those called Protestants, and who proclaimed the doctrine of faith alone and yet had no life of faith" were brought forth, explored as to their faith and scattered (*SD* §5351). Entry 5228 specifies that those cast out from the rocks and mountains were "those of the Christian religion who are in faith alone, and have thought nothing about life" (*SD* §5228). This destruction is the empirical proof in the spiritual world that the theological structure built on the Pauline Epistles (as interpreted by the Reformers) is structurally unsound and cannot withstand the influx of Divine Truth.
+Such cities do not stand. Of one, built on a rock, where "those who are in faith alone, separated from charity" lived, Swedenborg writes that "that rock began to sink, and at length even into the depth, with that city and its inhabitants," and that "the same thing occurs in other places where they do not live the life of faith" (*SD* §4926). When the Last Judgment occurred, "an immense number of those called Protestants, and who proclaimed the doctrine of faith alone and yet had no life of faith" were brought forth, explored as to their faith and scattered (*SD* §5351). Entry 5228 specifies that those cast out from the rocks and mountains were "those of the Christian religion who are in faith alone, and have thought nothing about life" (*SD* §5228). This destruction is the empirical proof in the spiritual world that the theological structure built on the Pauline Epistles (as interpreted by the Reformers) is structurally unsound and cannot withstand the influx of Divine Truth.
 
 ### **6.2 The Preservation of the "First Resurrection"**
 
@@ -153,7 +153,7 @@ The *Spiritual Diary* thus serves as a corrective revelation, intending to resto
 | :---- | :---- | :---- | :---- |
 | **Paul** | Brought down; limited authority | Self-derived inspiration; pride | \[4561m\], \[4631m\] |
 | **Luther** | Hell of contentions (under soles) | Defense of Faith Alone; hypocrisy | \[5103\]–\[5106\] |
-| **Moravians** | Separate region; under the sole of the foot | Denial of Lord's Divinity; Antinomianism | \[4785\], \[4791\], \[4816\] |
+| **Moravians** | Separate region; under the sole of the foot | Denial of Lord's Divinity; Antinomianism | \[4785\], \[4791\], \[4813\], \[4816\] |
 | **The "Dragon"** | Cast down from heaven | Torturing literal sense to kill internal sense | \[4760\], \[5089\] |
 | **Simple Good** | Raised into heaven | Charity; ignorance of false dogma | \[5389\], \[5390\] |
 | **Africans** | High receptivity; celestial genius | Interior thought; acknowledgment of God-Man | \[5516\], \[5518\] |
@@ -163,6 +163,9 @@ The *Spiritual Diary* thus serves as a corrective revelation, intending to resto
 **Primary Sources:**
 
 1. *The Holy Bible*. Authorized King James Version. Cited by book, chapter and verse.
-2. Swedenborg, Emanuel. *Apocalypse Revealed*. Translated by John Whitehead. Standard Edition. 2 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-3. Swedenborg, Emanuel. *The Spiritual Diary of Emanuel Swedenborg*. Vol. 4, Nos. 4545–5659, including the portion known as the "Smaller Diary." Translated by George Bush and James F. Buss; revised and edited by James F. Buss. London: James Speirs, 1889. Cited as *SD* by number (§); "m" marks the numbers of the Smaller Diary (*Diarium Minus*).
-4. Swedenborg, Emanuel. *The Spiritual Diary of Emanuel Swedenborg*. Vol. 5, Nos. 5660 to the End, and Index. Translated by James F. Buss. London: James Speirs, 1902. Cited as *SD* by number (§).
+2. Council of Chalcedon. *Definition of Faith* and *The Tome of Leo*. Translated by Henry R. Percival. In *The Seven Ecumenical Councils*, Nicene and Post-Nicene Fathers, 2nd ser., vol. 14, edited by Philip Schaff and Henry Wace. Buffalo, NY: Christian Literature Publishing Co., 1900.
+3. Swedenborg, Emanuel. *Apocalypse Revealed*. Translated by John Whitehead. Standard Edition. 2 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+4. Swedenborg, Emanuel. *Arcana Coelestia*. Vol. 6, Nos. 4229–4953. Translated by John Clowes; revised and edited by John Faulkner Potts. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+5. Swedenborg, Emanuel. *True Christian Religion*. Vol. 1, Nos. 1–462. Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited as *TCR* by section number (§).
+6. Swedenborg, Emanuel. *The Spiritual Diary of Emanuel Swedenborg*. Vol. 4, Nos. 4545–5659, including the portion known as the "Smaller Diary." Translated by George Bush and James F. Buss; revised and edited by James F. Buss. London: James Speirs, 1889. Cited as *SD* by number (§); "m" marks the numbers of the Smaller Diary (*Diarium Minus*).
+7. Swedenborg, Emanuel. *The Spiritual Diary of Emanuel Swedenborg*. Vol. 5, Nos. 5660 to the End, and Index. Translated by James F. Buss. London: James Speirs, 1902. Cited as *SD* by number (§).

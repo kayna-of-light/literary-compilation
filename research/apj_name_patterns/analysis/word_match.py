@@ -109,9 +109,10 @@ def score_assign(items, assign):
 
 def parse(text, key, items, task):
     """Map 'G<n> -> <letter>' lines of one task back to item indices."""
-    part = re.split(r'(?im)^\s*\**\s*task\s*2', text)
-    seg = part[0] if task == 1 else (part[1] if len(part) > 1 else '')
-    pairs = re.findall(r'G(\d+)\s*[-–=]+>\s*([A-Z])\b', seg)
+    # answers come in order: the first len(L1) lines are Task 1, the rest Task 2
+    # (a "Task 2" heading is not required; matchers did not always write one)
+    allpairs = re.findall(r'G(\d+)\s*[-–=]+>\s*([A-Z])\b', text)
+    pairs = allpairs[:len(L1)] if task == 1 else allpairs[len(L1):]
     g, m = key['gloss_order'], key['member_order']
     assign = [None] * len(items)
     for gn, letter in pairs:

@@ -28,6 +28,18 @@ The score is the number of glosses placed on their own member. Two pairs of memb
 - **The version-B descriptions were written by a coder who knew the names** (`meaning_table.md` §5). They are short and functional, and they are the frozen text.
 - **The matchers are language models**, not people, and judge aptness as a broadly educated reader would. That is the standard the claim "apt to its member" sets.
 
+## Amendment (2026-11-10): round 1 failed its blindness condition; round 2
+
+**Round 1** (the design above) did not give blind matchers. One matcher in version A cited the angel names in their English spellings (Kriman, Biblo, Tebar, Yeronumos …) and placed all fourteen correctly. Both matchers in version B said they recognised the glosses as the Apocryphon of John list. Only the other version-A matcher shows no sign of recall, and it placed 3 of 14 (a single random pairing reaches 3 or more with p ≈ 0.14). The responses are kept in `analysis/word_match/` and marked. None of round 1 is scored as the test. The cause is the set: fourteen glosses seen together identify the source to a model that has read it.
+
+**Round 2** removes the set cue. It is decided because of the failure of blindness, before any round-2 response, and it is registered here with its prompts:
+
+- **Questions.** Each of the fourteen glosses is its own question. It offers four members: the true member and three drawn at random from all 51 coded members (without sides; the uncertain ⲃⲁϩ is left out). Members that would duplicate the answer are excluded as distractors (head for the brain, molars for the teeth, uvula for the tonsils, toenails and fingers for the nails, testicles and loins for the genitals, toes and ankle for the foot, hands for the forearm; for the two "star" questions, the other star member and the chest and bosom). The fourteen target questions are mixed at random with 28 decoy questions on ordinary words (anchor, salt, lamp …), which are not scored.
+- **Versions.** A: members named only. B: each member with its natural function and spiritual counterpart, from the frozen table without source notes. The "book" and "fool" questions both have the kidneys as their answer.
+- **Matchers.** Two per version, each with its own random distractors and order (`analysis/word_match2.py prompts`, seed 20261110 + offset; prompts `r2_prompt_A1–A4`, `r2_prompt_B1–B4`). Each ends with a SOURCE line naming any text the words recalled.
+- **Exclusion.** A matcher whose SOURCE line or reasons name the Apocryphon of John, the Nag Hammadi texts, or any of the angel names is excluded and replaced by the next spare prompt of its version (3, then 4). If no two blind matchers are obtained, the test is reported as failed.
+- **Scoring.** The number of the fourteen target questions answered with the true member. Under the null, each answer is a 1-in-4 guess, so the sum over a version's two matchers is Binomial(28, 1/4), with expected value 7. **Hit**: Holm-adjusted p < 0.05 in both versions. **Partial**: in one. **Miss**: in neither. Also reported: the result without the meninges question.
+
 ## Outputs
 
 - `analysis/word_match.py`, `analysis/word_match/` (prompts, keys, responses)

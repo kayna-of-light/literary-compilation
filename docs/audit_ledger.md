@@ -626,7 +626,7 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 |---|---|
 | Documents in `data/` | 253 |
 | Audited | 79 |
-| In flight | 0 |
+| In flight | 1 |
 | Remaining | 174 |
 
 Refresh the total with `find data -name "*.md" | wc -l`.
@@ -798,6 +798,7 @@ Refresh the total with `find data -name "*.md" | wc -l`.
 | 2026-11-10 (nightly) | `06_Mythological_Studies/Forging a Foundation_ An Anthropological Analysis of the Exodus Narrative as Mythic Bricolage.md` | Handoff pick 1 (sibling, copy-paste family with the above); raw one-line list (30 entries) | **30/30 entries traced; 23 in the rebuilt list.** Same Thera / wind-setdown / oral-tradition / LBA paragraphs as its sibling — same sources. Lévi-Strauss: "remains and debris of events", "heterogeneous repertoire", "odds and ends" all in *The Savage Mind* (1966; archive.org FTS `savagemind0000levi`, Wiseman's *Cambridge Companion*). Halbwachs 1992 (Coser ed., Chicago; entry 6 was its press page). Johnson 2012 (*Paragraph* 35.3, Crossref). "Center of narrative gravity" = Dennett's phrase for the self (entry 4, a T&F article title), not a source for this thesis — quote marks dropped. Removed: Wikipedia ×5, ResearchGate ×3, Merriam-Webster ×2, Collins, Fiveable, NCSE, APU, Visible Body, Milwaukee Public Museum, DergiPark, DTS Voice, Retrospect, Lafayette student blog, contradictionsinthebible, ACSA, Fordham squarespace, tandfonline, Cambridge chapter page, bibleinterp 2016 | **F.** As its sibling (1)–(8), plus "pumice geochemically traceable" → as sibling; three stripped-marker gaps in the Conclusion (`"bricolage" ,`) converted to (Lévi-Strauss 1966), (Halbwachs 1992) | — | none | corrected |
 | 2026-11-10 (nightly) | Propagation of the three rows above (2 documents, **not audited**) | Grep: `four to five times more powerful`, `80 cubic`, `totally beyond the horizon`, `wall on their right`, `little, if any, historical relevance`, `system thinker`, `oral-aural`, `narrative gravity`, `Krakatoa`, `Tulloch`, `Mazama`, `made-up history`, `colossal soul` | — | `02/Echoes of an Ancient Word`: "system thinker", "definite connection", "seat of the soul" scare quotes; the historicity-as-premise sentence narrowed to representation (*AC* §§1403, 1540); Kingslake's "little, if any" + "Genesis 1-11 fragments" → *TCR* §279, *AC* §§1020, 66; "oral-aural" quote marks. `06/Forging a Nation in Memory`: Krakatoa ratio → Karstens 2023 volume; date cited to Manning 2022; Tulloch verbatim; Exod 14:22 ESV; Drews & Han, Karstens, Manning appended to its raw list as entries 24–26. Checked and left: *Revelation and Bricolage* §I and *A Coherent Framework* l. 60 ("Genesis 1–11 … made-up history" — sound paraphrase) | — | none | propagated |
 | 2026-11-10 (nightly) | `00_Framework/The Ancient Word Recovered…` claim on `claude/nightly-audit-2026-11-01` | Dead run: the branch holds only its claim commit (2026-11-01), no PR, >48 h old | — | — | — | — | released (the document was audited on 2026-11-03 anyway) |
+| 2026-11-12 (nightly) | `08_Correspondential_Texts/The Grand Man, Written_ A Walking Demonstration.md` | Handoff pick (`08` weighting; register row "Claude-written `08` theses"); not touched by open PR #71 | — | — | — | — | in-progress |
 ---
 
 ## Pattern register

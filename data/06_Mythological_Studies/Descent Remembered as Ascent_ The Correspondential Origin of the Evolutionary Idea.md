@@ -365,12 +365,12 @@ Three caveats govern the reading of the table. First, the *Kephalaia* and Zoroas
 3. Bruno, Giordano. *De l'infinito universo et mondi*. 1584.
 4. Darwin, Charles. *On the Origin of Species by Means of Natural Selection*. London: John Murray, 1859. Fifth edition, 1869, for the adopted phrase "survival of the fittest."
 5. Darwin, Charles. Letter to Alfred Russel Wallace, 27 March 1869. Darwin Correspondence Project, DCP-LETT-6684. https://www.darwinproject.ac.uk/letter/DCP-LETT-6684.xml.
-6. Diogenes Laertius. *Lives of Eminent Philosophers*. Translated by R. D. Hicks. 2 vols. Loeb Classical Library. Cambridge, MA: Harvard University Press, 1925. Cited by book and section.
+6. Diogenes Laertius. *Lives of Eminent Philosophers*. Translated by R. D. Hicks. 2 vols. Loeb Classical Library. London: Heinemann, 1925. Cited by book and section.
 7. Funk, Wolf-Peter, ed. *Kephalaia*. Vol. 1, second half, fascicles 13/14. Manichäische Handschriften der Staatlichen Museen Berlin 1.2. Stuttgart: W. Kohlhammer, 1999.
 8. Gardner, Iain, trans. *The Kephalaia of the Teacher: The Edited Coptic Manichaean Texts in Translation with Commentary*. Nag Hammadi and Manichaean Studies 37. Leiden: Brill, 1995. Cited by page and line of the Coptic as *Keph.*; the introduction and commentary by page of the book.
 9. Oken, Lorenz. *Lehrbuch der Naturphilosophie*. 3 vols. Jena: Frommann, 1809–1811.
 10. Owen, Richard. *On the Archetype and Homologies of the Vertebrate Skeleton*. London: John van Voorst, 1848.
-11. Plato. *Timaeus*. In *Timaeus, Critias, Cleitophon, Menexenus, Epistles*, translated by R. G. Bury. Loeb Classical Library 234. Cambridge, MA: Harvard University Press, 1929. The *Republic* (509b; Book X, the Myth of Er), *Phaedrus* and *Symposium* are cited by Stephanus page.
+11. Plato. *Timaeus*. In *Timaeus, Critias, Cleitophon, Menexenus, Epistles*, translated by R. G. Bury. Loeb Classical Library 234. London: Heinemann, 1929. The *Republic* (509b; Book X, the Myth of Er), *Phaedrus* and *Symposium* are cited by Stephanus page.
 12. Pliny the Elder. *The Natural History*. Translated by John Bostock and H. T. Riley. London: Henry G. Bohn, 1855–1857. Cited by book and chapter.
 13. Plotinus. *Enneads*. Cited by ennead and treatise.
 14. Plutarch. *De Iside et Osiride*. Cited by section.

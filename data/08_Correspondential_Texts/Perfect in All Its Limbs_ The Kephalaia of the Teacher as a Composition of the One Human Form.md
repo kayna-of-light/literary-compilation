@@ -69,7 +69,7 @@ Read in this way, the answer to the question is plain, and it is in Gardner's wo
 - **The soul in its flesh.** Sin "bound the mind in bone; the thought in sinew; the insight in vein; the counsel in flesh; the consideration in ski[n]" (95.17–19): the highest faculty in the innermost tissue and the lowest in the outermost. The Light Mind releases those members and will "construct a new man of them," with "five great living members" (96.25–30).
 - **The Perfect Man.** The Pillar of Glory is "the Perfect Man; the one who bears up under all things" (35.10–12). The First Man is "the head" whose sons are "the limbs [of] his soul," and his head "is placed on the body of the Pill[ar of Gl]ory in the heights of the universe" (84.21–30).
 - **The end.** At the end the counsel "will gather to it its own soul, and sc[ul]pt it in the Last Sta[t]ue." It gathers "the life and the li[gh]t that are in all things" and builds them "upon its body. The time when this Last Statue will be perfect in all its limbs, then it can become free and ascend" (54.14–21). The souls that would not be gathered weep because "their limbs have been severed" and they are "separated from the Last Statue" (149.29–150.4).
-- **The names.** The many names under which all this is taught "are a single [power] since the beginning." Stripped of their names, they "will gather together [and] make a single form, and a single name, unaltered and unchangeable for ever" (178.13–23).
+- **The names.** The many names under which all this is taught "are a single [ ... ] since the beginning." Stripped of their names, they "will gather together [and] make a single form, and a single name, unaltered and unchangeable for ever" (178.13–23).
 
 Gardner reads the text without the correspondential framework, and he describes the same thing in his own vocabulary. "In Manichaeism," he writes, "what is true in the macrocosmos is also true for the microcosmos." "All the divine is ultimately one, so that the diversification represents levels of descent," and relationships between spiritual levels "will be an exact image of that relationship all the way back up the scale through the gods to the Father" (p. xxvi). He identifies the Perfect Man as "the representation of the church as the body of Jesus in its ascent to the Father" (p. xxxii). He describes the Last Statue as the gathered soul rising as "a divinity that in essence recapitulates the descent into the abyss of the First Man" (p. xxxiii). In his commentary on chapter 31 he states the whole schema in a few sentences: the First Man is "the head upon which the soul depends for its life"; the gathered soul is "his trunk"; "This trunk is the Pillar of Glory which reunites with the First Man at its head. At the end of time it is the Last Statue" (p. 86).
 
@@ -910,7 +910,76 @@ This is the body the Father's limbs went out to rescue (§3), the body the Pilla
 
 ## 10. Many Names, One Form
 
-[TO BE WRITTEN]
+The bodies traced in §§3–9 carry many names: the Father, the five fathers, the First Man and his sons, the Living Spirit and his sons, the Ambassador, the Pillar of Glory, the Light Mind, the new man, the Last Statue. A reader could take them for a crowd. Two consecutive chapters near the middle of the codex say how the crowd is to be understood, and both answer in terms of one form.
+
+Chapter 71, "Concerning the Gathering in of the [E]lements," gives the order in which everything will be gathered at the end:
+
+> In what way shall [the] elements be gathered in, from one to another? The [lig]ht shall be gathered in [to] the fire, and the fire itself gathered [in to the water, and the wa]ter gathered in to the wind, and the [win]d gathered to the air, and the air gathered to the answer, [an]d the answer gathered to the summons. Also, the summons [to the] purified Mind, which is the intellectual. The intellectual to [the P]illar of Glory, [the Pillar of Glory to the First M]an, the Man to the Ambassador, the Ambassador [to] the aeons of greatness. They are gathered in like this; but, [they] will be gathered on one occasion only, and go up a[b]ove to the place of rest for ever and ever. (K. 175.29–176.8)
+
+The chain has three movements:
+
+- **The elements.** The five elements are gathered "from one to another": light into fire, fire into water, water into wind, wind into air.
+- **The faculties of response.** Air is gathered into the answer, the answer into the summons, the summons into the purified Mind.
+- **The persons.** The Mind is gathered into the Pillar, the Pillar into the First Man, the First Man into the Ambassador, the Ambassador into the aeons.
+
+Each thing is taken up into what contains it, until the whole is in the aeons of greatness. The chain is told as a sequence, but the last sentence corrects the sequence: "they will be gathered on one occasion only." What was described step by step happens all at once. The successive order of the ascent resolves, at the end, into a single act, as a column resolves into a body (§8).
+
+Gardner reads the chapter as "the eschatological path taken by each soul: to answer the summons of salvation, to become one with the Light Mind, to ascend up the Pillar to the moon (the First Man), then to the sun (the Ambassador), and thus to the aeons" (p. 185). The path of the one soul and the gathering of the whole are the same path.
+
+Chapter 72 takes the names themselves as its subject. A disciple has heard the Teacher use many names for what seems to be one thing: "great garments," "rags," "worn and torn apart," "images and... tattered clothes," "light element," "Cro[ss] of Light," "couns[el] of life," "the soul that is slain." He asks: "What are all these names? Look, they are written and sealed, according to memory, by a multitude of scriptures... What are they? Or how have they changed with all these names and become set in altered forms?" (176.15–29).
+
+The Teacher answers name by name. Each name is a state of one power, defined by where it is and what is happening to it:
+
+| Name | What the Teacher says it is (K. 177.2–178.12) |
+|---|---|
+| "Great garment" | "the five intellectuals that [make per]fect the body of the Pillar of Glory, the Perfect Man"; purified by the Ambassador's coming |
+| "Rags" | "the devoured enlightening power," "compounded and entangled in [the bo]dy of the universe" in the rulers of the firmaments and in the earths below |
+| "Great worn and torn apart garments" | "this entangled living power," "reaped, cut, and devoured," "overpowered by the five worlds of the flesh" |
+| "Images and the great tattered clothes" | "the three great garments of the wind, the fire, and the water," which "the Living Spirit cloaked upon his body" and with which "he set in order things in the universe" |
+| "Elements" | "this [pow]er that remains in all things below," which "rises up [in] the wombs of all the earths, gathering together" |
+| "[Light] Cross" | "this bound 'light power'" spread "upon the earth, in the dry and the moist" |
+| "Counsel of life" | "the summons and the [obed]ience. It moves in all these powers that we have named. It awakens them, gives them ease, and drives them to their movement" |
+| "The soul [that is s]lain" | "this power of fruit, vegetables and seeds," threshed, plucked and cut down |
+
+Then the Teacher states what all of them are:
+
+> For all these names [ ... ] are a single [ ... ] since the beginning, it [ ... ] as it enlightens; but they separated into all these parts in this first contest. They became set in all these altered forms, and these many names. Of course, if now all these var[iet]ies are laid bare, and stripped of all these appearances, [and] parted from all these names; they will gather together [and] make a single form, and a single name, unaltered and unchangeable for ever in the land of their first essence, from which they were sent forth against the enemy. (K. 178.13–23)
+
+The noun after "a single" is lost in a lacuna, and this thesis does not supply it. The rest of the sentence is preserved, and it says enough. The many names are "parts" of one thing that "separated" at the beginning. They are "altered forms" and "appearances." Laid bare and "parted from all these names," they "will gather together [and] make a single form, and a single name."
+
+Gardner's summary is that Mani "emphasises that they will all return to a single form and a single name at the final victory" (p. 186). [*The Garment and What Wears It*](The%20Garment%20and%20What%20Wears%20It_%20Dating%20the%20Correspondential%20Substrate%20Beneath%20the%20Manichaean%20Kephalaia.md) read this chapter as the text's testimony to its own stratification, with names laid over a prior unity. The present thesis adds what that unity looks like.
+
+Every name in the chapter is a garment, and the chapter's first answer says what the garments are for. The "great garment" is "the five intellectuals that [make per]fect the body of the Pillar of Glory, the Perfect Man." The garments of wind, fire and water are "cloaked upon [the Living Spirit's] body." The power was "the armour (or the five sons) that the First Man had assumed at his descent," as Gardner notes (pp. 185–186). The garments are worn by a body. When the names are stripped, what remains is "a single form": not an abstraction or a substance, but the one body the garments clothed.
+
+Chapter 63 has already given the rule for such unities. The Father and his love are "a single living body," and the Mind and the church are "a single body" (156.3–11). Chapter 39 has given the end: the Father will "perfect their stature" and set "each power [i]n its aeon, in its dwelling-place" (103.20–22). Chapter 16 has given its shape: the Statue "perfect in all its limbs" (54.19–20).
+
+Chapter 72 adds that every name the book has used names a part of that form, in one of its states. The great garment is the form being perfected; the rags and the slain soul are the form devoured and scattered; the counsel of life is the form's own movement, which "awakens" its scattered parts. The single form at the end is the form the names were always parts of.
+
+**Spiritual reading.** The doctrine of chapter 72 is Swedenborg's doctrine of the one and the many in the Greatest Man, stated from the side of language. Heaven is innumerable societies and angels, each with its own quality, yet it "reflects a single man," and the angels in it "act as a one" (*Heaven and Hell* §§59, 64). The reason is that "the goods of all are from a single love, that is, from a single origin" (§72). In the human body "many and numberless things" are felt "as one," "because all these are in such a form that not one can be lacking," a form "recipient of life from God-Man" (*Divine Love and Wisdom* §22). Swedenborg draws the conclusion for the Divine itself: in God-Man "infinite things are one distinctly" (§22).
+
+The *Kephalaia*'s many names are the one life received in many states. In the opening contest the life entered the natural degree and was received there in every condition: perfected in the regenerate, entangled in the firmaments, devoured by the flesh, spread through the dry and the moist, ripening in fruit and seed. Each condition received its own name, and the names were "written and sealed... by a multitude of scriptures." This is accommodation. The same reality is given the form in which each place and each people could receive it.
+
+Laid bare, the many are one form, because the life that took all these forms was one life from one source, and its form is the form of its source. The "single name" that remains is the single quality of that life. "In the land of their first essence" the many return to what they were "since the beginning."
+
+The chain of chapter 71 is the inward path by which this return happens. Each lower thing is gathered into the one that contains it: the elements into the response, the response into the Mind, the Mind into the body, the body into its head, the head into the source. It is the simultaneous order of *Divine Love and Wisdom* §205 seen as a movement, the outermost gathered into the inmost.
+
+The chain's last word, "on one occasion only," says that the gathering is not finally a sequence of events. It is the coming together of a form that was already one in its source. That is why the end of the book is not a list but a statue: "a single form, and a single name, unaltered and unchangeable for ever."
+
+**Correspondential key:**
+
+| Natural object | Correspondence |
+|---|---|
+| The elements gathered "from one to another" | The outermost gathered successively into the inner |
+| The answer, the summons and the purified Mind | The faculties of response by which the natural is raised into the spiritual |
+| The Pillar, the First Man, the Ambassador, the aeons | The body, its head, and the source from which the head lives |
+| "Gathered on one occasion only" | Successive order resolved into simultaneous order: the form complete at once (*DLW* §205) |
+| The many names, "written and sealed... by a multitude of scriptures" | The one life received in many states and accommodated to many receivers |
+| "Great garment" perfecting the body of the Perfect Man | The faculties purified and clothing the regenerate form |
+| "Rags," "worn and torn apart garments," "the soul that is slain" | The same life entangled, devoured and scattered in the natural |
+| The three garments on the Living Spirit's body | The natural degrees (wind, fire, water) worn by the ordering power |
+| "Counsel of life," which "awakens" the powers | The inmost movement of the form, rousing its scattered parts |
+| "A single form, and a single name" | The one body of heaven and its one quality, "from a single love" (*HH* §§59, 72; *DLW* §22) |
+| "The land of their first essence" | Return to the source from which the form came |
 
 ---
 

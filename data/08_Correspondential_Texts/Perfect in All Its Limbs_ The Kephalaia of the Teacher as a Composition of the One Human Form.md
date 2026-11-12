@@ -670,7 +670,90 @@ Adam, finally, is the Greatest Man in least form. "The seal of the entire univer
 
 ## 7. The Soul in the Little Body: Binding, Release and the New Man
 
-[TO BE WRITTEN]
+The question that opens chapter 38 is about the individual, and once Mani has described the great body he answers it in the small one. The disciple's question had already used the body's language. The Light Mind, he said, "enters withi[n the body of] the flesh and binds the ol[d ma]n with his five counsels, he [set]s his five [couns]els upon him in the five limbs [of his] body" (89.26–29). How, he asks, can one who is "a great God, unchanging and im[m]easurable... come and appear in the smallness of the bo[dy]?" (89.32–33).
+
+Mani's answer comes in three movements. The first explains how the soul came to be bound in the body. The second explains how the Light Mind releases it and builds a new man. The third explains how the new man can be lost again, limb by limb. Each movement is told in the five members.
+
+**The binding.** "Sin took this body... It took its [bod]y [from the five b]odies of darkness. (Sin) constructed the body. Yet, its [sou]l i[t] took from the five shining gods" (95.13–16). Then comes the sentence on which the whole account turns:
+
+> [(Sin) bou]nd (the soul) in the five members of the body. It bound the mind in bone; the thought in sinew; the insight in vein; the counsel in flesh; the consideration in ski[n]. (K. 95.16–19)
+
+Sin then overlays the soul's faculties with its own, faculty upon faculty: "its mind upon the mind of the soul; [its] thought upon the thought of the soul; its insight upon the insight [of] the [s]oul; its counsel upon the counsel of the soul; its consider[atio]n upon the consideration of the soul" (95.20–23). Sin's "five [an]gels and authorities" lead the soul "to all the sins of lust, to the [wor]ship of idols, to erroneous opinions" (95.23–28). And the soul "assumed error and forgetfulness. It forgot its essence and its race and its kindred; kn[o]wing not the door of the place to pray to him" (96.2–5).
+
+The order of the binding is the centre of the passage. [*The Resolution of the Finite Mind*](../02_Swedenborgian_Theology/The%20Resolution%20of%20the%20Finite%20Mind_%20Celestial%20Perception%2C%20Numerical%20Architecture%2C%20and%20the%20Limit%20of%20Spiritual%20Analysis.md) first drew attention to it (§5.4). The five faculties are listed from the highest to the lowest, mind to consideration. The five tissues are listed from the innermost to the outermost: bone, which lies deepest and bears the frame; sinew, which binds bone to bone; vein, which carries the blood through the flesh; flesh; and skin, the surface. The highest faculty is bound in the innermost tissue and the lowest in the outermost. What was a ladder in the two trees of §4, consideration at the bottom and mind at the top, is here a solid body, mind at the core and consideration at the surface.
+
+This is Swedenborg's distinction between the two orders of the degrees, applied to the body. In successive order the degrees stand "like a column divided into three stories"; in simultaneous order "the highest things of successive order... are in the inmost, the lower things are in the middle, and the lowest in the circumference," as "in a solid body" (*Divine Love and Wisdom* §205). The *Kephalaia* gives its five faculties both arrangements, the ladder in chapter 2 and the body in chapter 38, and the second is the first turned inward.
+
+**The release.** The Light Mind comes, "finds the soul," and undoes the binding member by member, in the same order. Each member of the soul is released and the matching member of sin is bound in its place:
+
+> He shall loosen the m[ind of the soul and relea]se it from the bone. He shall release the th[ought of the soul] from the sinew; and s[o] bind the thought [of the sin in] the sinew. He shall release the insight of the soul from the vei[n]; and so bind the insight of the sin in the vein. [He sh]all loosen the counsel of the soul, and release it from the flesh; and so bind the counsel of the sin in the flesh. He shall release the consideration of the soul from the skin; and bin[d] the consideration of the sin in the skin. This is how he shall release the members of the soul, and make them free from the five members of sin. Conversely, these five members of sin, which were loose; he shall bind them. (K. 96.13–25)
+
+The release does not leave the soul bodiless. It is followed at once by a construction:
+
+> He shall set right the members of the soul; form and purify them, and construct a new man of them, a child [o]f righteousness. [And] when [he] fashions and const[r]ucts and purifies the new man; then he shall bring forth five great living members out from the five great memb[ers]. And he places them in the members of the new man. He shall place his m[ind], which is love, in the mind of the new man. Also, the th[oug]ht, which is faith, he shall pl[ace in] the thought [of the] new [man]... His insight, which [is perfection, he shall place] in the insight of the new man. His counsel, which [is] patience, he shall place in his counsel. Also, [w]isdom, which is his consideration, in the consideration of the new man. (K. 96.25–97.3)
+
+Gardner comments that "this 'new man', a concept ultimately to be derived from Paul, will now display the five virtues of love, faith, perfection, patience and wisdom" (p. xxxi). The new man is not a disembodied soul. He is a man with five members, and each member is the Light Mind's own faculty placed in the matching faculty of the person. The result is a body governed from within: "the new man reigns [b]y his love, by hi[s] faith, by his perfection, [b]y his [p]atience, and by his wisdom. Yet, his king [ ... the] Light [Min]d, he w[ho is] king over the totality" (97.19–22).
+
+**The loss.** The third movement is the most remarkable, because it shows the same body coming apart. Sin can "mount up with its foolishness; and it disturbs the consideration, and it clouds the wisdom and the understanding of the person" (97.26–28). If the person does not accept the correction of his brethren, sin climbs from member to member, inward:
+
+- **from consideration to counsel.** "Sin [shall] mount up again, another time, from the consideration to the counsel. It takes his patience f[rom him]" (98.3–5).
+- **into the will.** It "clothe[s] him with lust and vanity and pride" (98.17–18).
+- **to thought.** It mounts "to his thought," and "causes his f[ai]th and his truth to le[a]ve him" (98.23–26).
+- **to mind.** It rises "and assume[s] his mind; and disturb[s] his mind, which formerly was calm. It shall disrupt his love... It shall take from his heart love of the church, and fill it full of hatred" (99.2–6).
+
+The order of the loss is the order of the binding read from the outside in. Sin takes the outermost member first and the innermost last, as Resolution observed. What the text says about the person at each stage is about a member leaving a body:
+
+> He separates from his teacher and his brethren. [He sh]all always [w]ant to go in and to come out alone. He shall want to eat and to drink alone, a solitary man. [He sh]all always want to walk alone. Indeed, this is the [si]gn that the familiarity of his brethren does not act on him. (K. 98.18–22)
+
+At the end "that person shall [himse]lf become a vessel of loss, and he separates fr[om] the church... The Mind, who was in him, sh[a]ll disperse from him and go to the apos[t]le who sent him... He becomes an earthly man" (99.10–17). A member who wants to eat, drink and walk alone has ceased to be a member. The text's sign of the fall is not a doctrinal error but separation from the body.
+
+**The three images.** Chapter 114 adds the vertical dimension to the same person. "Thr[ee] images occur in the elect person":
+
+- "the [s]piritual image, which is the new man, which the Light Mind shall form in him; and it goes [i]n to him and dwells in him";
+- "the rem[n]ant and remainder of the new man, which is the p[sy]chic image that is bound in the flesh, as the old man";
+- "the [corp]oreal image [that is] added to them all" (269.18–25).
+
+The living soul that enters the elect rises through the three images. It "divest[s] itself of the body, which is not its own, in the corporeal." It divests itself "of the souls that are not its own" in the psychic, namely "anger and desire and... foolishness and envy and strife." In the spiritual image it is "joined with [lo]ng-sufferingness, the perfection of faith and love that reigns over them all" (270.13–21). There a light virgin "scu[lpt]s it and adorns it with the new man [wi]t[hi]n. It is sealed with all the limbs of this light vir[gin] who is present and dwells in the new man. So, this is [h]ow this living limb shall be [puri]fied and live" (270.4–9).
+
+Two verbs in this passage matter for §9: the new man is "sculpted," and the purified soul is "this living limb." Gardner's summary calls the light virgin here "the manifestation of the soul in all her chastity and power" (p. 275).
+
+**Accommodation.** One more passage of chapter 38 answers the disciple's question about how a great god fits into a small body, and it does so with the body's own logic. The guardians of the universe, "while they are great, [y]et have they contorted themselves... they have become small, to the measure of the task [th]at is apportioned to each o[n]e [of t]hem. Again, this too is like [the] Mind, himse[lf] a great one, and exalted; but he is bent over and [has] become small, to this little worthless [bo]dy" (99.25–29).
+
+Once accommodated, the Mind does in the body what the guardians do in the universe. "Behold the mightiness and the activity of the Light Mind: how vast he is over all the watch-districts of the body!" (100.1–2). The elect one, "as he stands on the earth," may be found "[r]ising up in his heart and ascending to the Father," or descending "in his insight and his consideration" to the land of darkness; "his heart shall run and touch everything" (100.8–14). But the Mind can be seen only by one who can see him: "Whoever has an open and percept[ive] eye, [he can] appear to him" (100.16–17).
+
+**Spiritual reading.** These passages are the *Kephalaia*'s doctrine of regeneration, and they are written entirely in the body.
+
+The binding of the five faculties into the five tissues is the human mind incarnated in the order of degrees. The inmost of the mind, which receives love, is lodged in the inmost frame of the body, and the outermost of the mind, which meets the world, is lodged in its surface. Swedenborg's account of the tissues agrees in an unexpected detail. The bones and the skin correspond to societies of "little spiritual life," "just as there is little life in the bones as compared with the soft parts which they enclose" (*Arcana Coelestia* §5560). The highest faculty therefore lies bound in the tissue of least life. That is exactly what "binding" means: the inmost held in the most fixed, the living soul in the bone. Release is not escape from the body but the reversal of that condition, so that the bone and the skin become the ordered ultimates of a living interior instead of its prison. Swedenborg describes the result for the outermost tissue. In the regenerate, the skins appear as "a beautiful weaving of spirals wonderfully intertwined," and in the deceitful, as "knottings together of mere serpents" (§5559).
+
+The overlay of sin's five members on the soul's five is the proprium in its opposite sense. It is not a second nature added from nowhere. It is a counterfeit of each faculty laid over the true one: a mind of sin over the mind, a thought of sin over the thought. The regenerating work does not destroy the faculties of sin but binds them. It loosens the soul's members and fastens the counterfeit in the place the soul has left. This is the framework's account of the selfhood: a vessel which, while it claims what flows through it, binds the life it holds, and which, when it is brought into order, becomes the ultimate in which that life stands.
+
+The new man is the regenerate person as a body. Its five members are love, faith, perfection, patience and wisdom, set in mind, thought, insight, counsel and consideration, and its king is the Light Mind. This is what Swedenborg calls a man "in exact proportion to what [he has] from" the Lord (*Arcana Coelestia* §4219). The new man is a man because each of his members has received the Mind's corresponding member, and he reigns because the Mind reigns in him. A new man of five members with the Mind as king is an angel "in least form," "a recipient... a heaven, and an angel" (*Heaven and Hell* §73).
+
+The fall is the reverse, and the text describes it as Swedenborg describes the separation of the heterogeneous. Sin enters at the outermost faculty and works inward until it reaches love. At every stage the person withdraws from the body of the church: he wants to eat alone, to walk alone, to go in and out alone. This is the love of self as a member's desire to be a whole by itself. Swedenborg's rule for the Greatest Man is that "those who do not perform uses for the common good are cast out of heaven as something heterogeneous" (*Heaven and Hell* §64), and that whoever wills good to others "not for the sake of the common good but for the sake of self" does not perform use (§64). The *Kephalaia*'s separated member becomes "an earthly man," "a vessel of loss," and the Mind that was in him returns to the one who sent it.
+
+The three images of chapter 114 are the discrete degrees of the one person: the corporeal, the psychic and the spiritual. The soul ascends through them by putting off at each level what is "not its own." What it puts off in the psychic image is anger, desire, envy and strife: the loves of self in their natural forms. What it is joined with in the spiritual image is long-suffering, "the perfection of faith and love that reigns over them all."
+
+The accommodation of the great Mind to "this little worthless body" is the Divine's way with every receiver. The Divine makes itself small "to the measure of the task," as the guardians do in the universe. Swedenborg's "everyone is as it were the center of all, for he is the center of influxes from all through the heavenly form" (*Arcana Coelestia* §3633) is the same thought from the other side. The whole can be present in the least because the least has the form of the whole.
+
+**Correspondential key:**
+
+| Natural object | Correspondence |
+|---|---|
+| The soul's five faculties bound in bone, sinew, vein, flesh, skin | The mind's degrees lodged in the body in simultaneous order, inmost faculty in inmost tissue (*DLW* §205) |
+| Bone (mind) | The inmost frame: the most fixed tissue holding the highest faculty; least life (*AC* §5560) |
+| Skin (consideration) | The outermost surface where the mind meets the world; beautifully woven in the regenerate, knotted serpents in the deceitful (*AC* §5559) |
+| Sin's five powers laid over the soul's five | The proprium as counterfeit of each faculty |
+| Forgetting "its essence and its race and its kindred" | The natural mind claiming as its own what it received, and forgetting the source |
+| The Light Mind loosening each member and binding sin's in its place | Regeneration: the true faculties freed, the counterfeit brought into subjection |
+| The new man with five living members: love, faith, perfection, patience, wisdom | The regenerate person as a body; an angel in least form (*HH* §73; *AC* §4219) |
+| The Light Mind as king of the new man | The Lord reigning in the regenerate from within |
+| Sin mounting from consideration to mind | Regression from the outermost to the inmost, ending in the loss of love |
+| Wanting to eat, drink and walk alone | A member's will to be a whole by itself; the love of self as separation from the body (*HH* §64) |
+| "A vessel of loss... an earthly man" | The member cast out as heterogeneous (*HH* §§64, 68) |
+| Corporeal, psychic and spiritual images | The discrete degrees of the one person |
+| The light virgin sculpting the new man and sealing it "with all the limbs" | The completion of the regenerate form; the first of the language of the Last Statue (see §9) |
+| "This living limb" | The purified soul as a member of the whole |
+| The great Mind bent small "to this little worthless body" | Accommodation: the Divine present in the least by the form of the whole (*AC* §3633) |
 
 ---
 

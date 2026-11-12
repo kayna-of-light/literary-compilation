@@ -1290,7 +1290,31 @@ A third difference is of scope. Swedenborg's Greatest Man is heaven, and the *Ke
 
 ## 14. Conclusion: Perfect in All Its Limbs
 
-[TO BE WRITTEN]
+This thesis asked whether the *Kephalaia of the Teacher* is composed as one human form. It answered from Gardner's translation, citing preserved text, and testing each register against Swedenborg's description of the Greatest Man. The answer is yes, in every register the text describes.
+
+**The Father** is a body. He "ex[ists and is] established in his five light limbs" of mind, thought, insight, counsel and consideration, and in "twelve light limbs that are his twelve wisdoms." The powers that go out from him come "from the five limbs." He and his love "are a single living body... because he has given himself for every thing." At every level of the system a father lives "established" in his greatness, as a life in its body. This is God as Man, from whose Divine Human, in Swedenborg's words, "heaven as a whole and in part reflects man."
+
+**The two trees** of the Gospel parable are two bodies with the same five limbs. The good tree is a ladder by which the souls rise from the church to the Father. The bad tree has the same faculties turned to death, transmigration, gehenna and "the lump, the last bond." Gardner calls it "an exact negative." This is the human mind turned toward its source or toward itself.
+
+**The King of Darkness** is the same form inverted. He has five shapes from five worlds that do not resemble one another, a body "sculpted" by "the thought of death," no interior and no life but "the bile of anger." His members reign today in human tyranny and idolatry, and he can fall in upon himself "like a great iron ball." This is Swedenborg's hell "in one complex," "a single devil," the monster at the gate whose parts do not answer to a single head.
+
+**The universe** was built "after the likeness of a man," with ribs as firmaments, navel as zodiac and heart as mankind. Five guardians, each a faculty, keep its watch-districts. In it "the small body corresponds to the macro-cosmos." The elect who master face, heart, desire, appetite and feet resemble those guardians, member for member, by use rather than by position. Adam bears "the seal of the entire universe." This is the doctrine that the ancients, Swedenborg wrote, derived "from the knowledge of correspondences."
+
+**The soul** is bound into the little body in Swedenborg's simultaneous order: mind in bone, thought in sinew, insight in vein, counsel in flesh, consideration in skin. The Light Mind looses those members and "construct[s] a new man of them" with five living members — love, faith, perfection, patience and wisdom — and reigns in him as king. The new man is lost again from the outside in, until the member wants "to walk alone," "becomes an earthly man," and is separated from the body of the church.
+
+**The Pillar of Glory, the Perfect Man**, is one figure under two names. It is a column that "bore up under the [en]tire universe" and carries the light upward to the ships and the aeons. It is also a man, the "great Mind" placed in the universe, its body perfected by the five intellectuals, with the First Man's head "placed on the body of the Pill[ar of Gl]ory in the heights." Swedenborg describes the degrees as a column in successive order and as a solid body in simultaneous order. The *Kephalaia* gives one figure both descriptions, and the body is the church gathering under its head.
+
+**The Last Statue** is the end of history and the completion of that body. The counsel of life, mixed into the world "in silence" like butter in milk, gathers its own soul and "sc[ul]pt[s] it in the Last Sta[t]ue." It gathers "the life and the li[gh]t that are in all things" and "builds [them] upon its body." It "sweeps out and casts from it the polluti[on] that is foreign to it." It rises only when it "will be perfect in all its limbs." Those who are not gathered weep because "their limbs have been severed," and they go where "they desired it an[d] loved it." This is Swedenborg's society taking shape "by degrees in a human form... and at last clearly as a man," casting out the heterogeneous.
+
+**The names** under which all this is taught are, in chapter 72, garments over one thing. Stripped of "all these appearances," they "will gather together [and] make a single form, and a single name, unaltered and unchangeable for ever."
+
+**The numbers** confirm the finding where they are read as the text reads them best. Five is everywhere the faculty, the same five at every register. Twelve is the whole of a greatness, spread "three by three" to the four quarters. Where the text multiplies — five within each of five, three in each of four — it describes the whole present in each part, the mark of the most perfect form. Where it adds to make a twelve or a fifty, Gardner finds it "artificial," "forced" and "convoluted," and the thesis builds nothing on those sums. When the Father is unveiled, the text says, "they will not count that season amongst them; nor the number of the days, nor the hours."
+
+The central claim of the thesis can therefore be stated with full force. The human form is the constant of the *Kephalaia*. The Father, the cosmos, Adam, the individual, the church and the end are one body at different magnitudes, ordered from within outward and by use, completed by gathering and purged of what is foreign to it. The adversary is that body inverted. Gardner describes the same structure in his own terms: "what is true in the macrocosmos is also true for the microcosmos"; "this trunk is the Pillar of Glory which reunites with the First Man at its head. At the end of time it is the Last Statue." And it is the Greatest Man as Emanuel Swedenborg described it between 1749 and 1763: heaven as a single man, the same in its greatest and its least parts, from the Divine Human, with hell as a single devil.
+
+Swedenborg also wrote that the ancients knew man as a microcosm "from the knowledge of correspondences, in which the most ancient people were." He wrote this more than a century and a half before a cache of Manichaean books, apparently from a wooden chest in a ruined house, came to light at Medinet Madi. The book this thesis has read from that find teaches exactly that knowledge, in exactly that form. Its Father has limbs, its universe has a heart, its soul has bones, and its last word is a statue of a man.
+
+The names are many. The limbs are many. The body is one, and at the end it is perfect in all its limbs.
 
 ---
 

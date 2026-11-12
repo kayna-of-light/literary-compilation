@@ -62,7 +62,7 @@ The library's typeset edition of the substrate, *The Ancient Word* (version 1.1)
 Read in this way, the answer to the question is plain, and it is in Gardner's words. The bodies appear in this order:
 
 - **The Father.** The Father of Greatness "ex[ists and is] established in his five light limbs," which are "mind, thought, insight, counsel and [consideration]" (K. 64.20–23). The five fathers who go out against the darkness came "from the five limbs [of the Father]" (76.15–25). Love and the Father "are a single living body, the Father [a]nd his love" (156.3–4).
-- **The two trees.** The good tree of the Gospel parable has five limbs, from consideration, which is the holy church, to mind, which is the Father (20.12–20), and the soul climbs to the Father through them (20.21–31). The bad tree has the same five limbs (21.28–30). Gardner calls it "an exact negative" of the good (p. 22).
+- **The two trees.** The good tree of the Gospel parable has five limbs, from consideration, which is the holy church, to mind, which is the Father (20.12–20), and the soul climbs to the Father through them (20.21–31). The bad tree has the same five limbs (21.28–30). Gardner calls it "an exact negative" of the good (p. 23).
 - **The adversary.** The King of Darkness has "five shapes on him," on head, hands and feet, shoulders, belly and tail, each from one of his five worlds (30.33–31.2; 77.27–78.3).
 - **The universe.** The enemy constructed the universe "after the likeness of a man": "His ribs are all the firmament[s]. His navel [is the] sphere of the stars and the signs of the zodiac," and "His heart is mankind" (90.20–91.1). Mani says outright that "this whole universe, above and below, [re]flects the pattern of the hum[an] body," so that "the small body corresponds to the macro-cosmos" (169.28–170.2; 170.16–19).
 - **Adam.** Adam bears "the seal of the entire universe" (157.25–26).
@@ -299,19 +299,251 @@ The *Kephalaia* sometimes does sum, and §11 shows that those are exactly the pl
 
 ## 3. The Body of the Father: Five Limbs and One Living Body
 
-[TO BE WRITTEN]
+The *Kephalaia* nowhere describes the Father of Greatness as an abstraction. When Mani is asked how the Father "is established and determined," the answer is anatomical. Chapter 21 opens:
+
+> Hear [this lesson t]hat I will recount to you. Very great is [land of] light in the presence of they who will hear and know it, due to the first Father of Greatness. How he ex[ists and is] established in his five light limbs, which are [ ... the store]houses that have neither limit nor measure to the[m ... ] mind, thought, insight, counsel and [consideration ... ] his twelve light limbs that are his twelve wisdoms. Now, there are five great light lim[bs] in each one [ ... ] (K. 64.17–26)
+
+The papyrus is broken at the edges of the passage, but its structure survives. The Father "exists" and "is established" in limbs: five of them, named as the five intellectual qualities, and twelve of them, named as twelve wisdoms. "Five great light lim[bs]" are found "in each one." The list of five ends in a lacuna at "consideration," but nothing hangs on the restoration. The same five qualities, in the same order and with the same last term, are preserved elsewhere in the codex: in the binding of the soul (95.17–19), in the limbs the First Man sent forth (85.1–2), and in the five virtues of the new man (96.30–97.3).
+
+Gardner's comment on the chapter is exact: "The kingdom of light is a manifestation of the Father himself, which he pervades by his qualities or limbs" (p. 67). In his introduction he puts it more strongly: the realm of light "indeed is an extension of himself," and the Father "resides in five intellectuals or limbs: mind, thought, insight, counsel and consideration" (p. xxvi).
+
+What the chapter goes on to say confirms that a living body is meant and not a list of attributes. From the Father "five grea[t] springs of praise gush for[th]" (64.26–27). Three survive in legible form: "his light that enlig[htens]," which "gushed forth from him and pour[ed]" into the aeons (64.29–30); "the perfume of the [ ... ]," which "pervades all the aeons of greatness" (64.31–32); and "his living voice" (64.33). Light, perfume and voice are what a living body sends out and what another body receives through eye, nostril and ear. The fourth and fifth springs are too broken to read, and the thesis builds nothing on them. Of the fifth only a fragment survives, but it uses the language of the Last Statue: it "was sculpted in them... se[a]led in the[m]" (65.4–5).
+
+A single short chapter then says where the saving powers come from. Chapter 25, "[Concerning the Advent of Five Fathers from the Five Limbs of the Father]," reads in full:
+
+> Once again the apostle speaks concerning [the advent of five fathers fro]m the Father, one after another. [He] speaks t[hu]s: [The Ambas]sador [came] from his mind; the Beloved of the Lights [from his thought]; the Mother of Life from his insight; [Jesus] the Beloved from his counsel; the Virgin of Lig[ht f]rom his consideration. So in this way were summone[d these five] fathers. These five advents came from the five limbs [of the Father]. One came from another and was manifested in its season. (K. 76.17–25)
+
+The powers that go out from the Father into the work of salvation are not separate gods summoned from elsewhere. They are the Father's own limbs going out. Each comes from one faculty of his body, and they come "one after another," "one... from another," each "in its season." The successive order of the outgoing — one season after another — is the unfolding of an order that already exists simultaneously in the Father's body as limbs.
+
+This is the first appearance in the text of the pattern traced in §2.3: what is a sequence in time is a body in the whole.
+
+A third chapter shows that the relation of the Father to his realm is repeated at every level of the system. In Chapter 20, "The Chapter of the Name of the Fathers," Mani explains why several divine figures may be called "father." The reason is the same each time. Each father has a "greatness" in which "he lives" and "is established":
+
+- **the Father of Greatness:** "His greatn[ess is the gr]eat earth where he lives, he being established [i]n it" (63.30–31);
+- **the Third Ambassador:** his greatness is "the light ship of living fire" (63.35–64.1);
+- **Jesus the Splendour:** his greatness is "the ship of living waters where he lives" (64.2–3);
+- **the Pillar of Glory:** its greatness is "the five gods of ho[ly ... ] which [li]ve and are established in them" (64.5–7);
+- **the Light Mind:** "His gre[atness] is the [holy] church; becaus[e] he lives [and is established i]n it" (64.8–10).
+
+Several of these clauses are partly restored, but the formula — a father, his greatness, his living and being established in it — survives in each. Gardner's summary is that the name "can also properly be used of the derived gods in their own realms of greatness" (p. 67).
+
+Read structurally, the chapter says that the system is made of one relation repeated at different magnitudes. In each case there is one who dwells and the dwelling in which he lives and is established: a life and its body. The Father and his land, the Ambassador and his ship, the Pillar and its five gods, the Light Mind and the church each stand in that relation. This is Swedenborg's "generals are like the parts, and parts are like the generals" (*Heaven and Hell* §62), stated as a rule of naming.
+
+Chapter 63, "Concerning Love," turns the relation into an identity:
+
+> [Lo]ve is the Father of Greatness, who dwells in his glorious land. The entirety of the divine has been revealed [there]in! These two are a single living body, the Father [a]nd his love; because he has given himself for every thing, as he exists in his aeons. Indeed, due to this, they called the Father, the Lord of the totality, "love." For he gave the victory to his aeons and his limbs. (K. 156.1–7)
+
+The chapter then applies the same formula one level down:
+
+> [These] two, the Mind and the church, a single body is also their likeness; because, again, the apostle too shall gi[ve] his [own] self for his church... Likewise, too, the beginning of ri[ght]eousness is made of love for the church, according both to body and to spirit. While in the body, in the church here; so in the spirit, in the heights above. (K. 156.10–19)
+
+Three points in this passage carry the argument:
+
+- **The ground of the unity.** The Father and his love are not two beings in alliance. They are "a single living body," and what makes them one body is the Father's giving of himself: "he has given himself for every thing." The body of the Father is constituted by self-giving, and his limbs are where the giving goes.
+- **The repetition at every level.** The relation repeats exactly at the level of the church. "The Mind and the church, a single body is also their likeness," and again the ground is self-giving: the apostle "shall give his own self for his church," as the Gospel saying about laying down one's life for one's friends confirms (156.14–16, Gardner noting John 15:13).
+- **Body and spirit as two degrees.** The one body exists "according both to body and to spirit," below "in the church here" and above "in the heights." These are not two bodies. They are the same body in two degrees.
+
+Two further passages complete the picture of the Father as the head and inmost of a body. In Chapter 60 the corporeal body is used to explain the visible and the hidden in the divine: "Just as [the] corporeal body has limbs that are hidden, so it also has others that are visi[b]le... So it is also with this entire greatness, as we resemble it" (151.9–14). The Father is the body's hidden governor: "Now, thus the directive of the bo[dy] that lives within, hidden in the storehouses inside the body and unseen. So it i[s] also how the Father, the God o[f] truth, exists; as he too is hidden in his kingdom" (151.17–21). Gardner's summary calls this "the analogy of the corporeal body" and glosses the Father as "the directive faculty... of the body, hidden in his own kingdom" (p. 158).
+
+Chapter 39 ends the history of salvation in the Father's own measure. On the third great day "the Father will unveil over them his [image]," receives them "in to his hidden treasur[y]," "gives [ ... ] his soul," and will "perfect their stature in sa[m]e measure as his first aeons. And he sets each power [i]n its aeon, in its dwelling-place" (103.10–22). The end of the story is a body brought to the stature of its source, with every member in its own place.
+
+**Spiritual reading.** The correspondential reading of these chapters states plainly what the text shows in pieces: the Father of Greatness is God as Man. Swedenborg's "In all the heavens there is no other idea of God than that He is a Man" (*Divine Love and Wisdom* §11) is the doctrine that Chapter 21 presents as anatomy.
+
+The five limbs are the Divine love and wisdom in the radial order in which a mind receives them, from the inmost (mind) to the outermost (consideration). The twelve limbs that are twelve wisdoms are the same Divine considered as love and faith across the degrees in one complex (*Arcana Coelestia* §577). The two sets are not rival inventories to be reconciled (§11). They are two ways in which one body is perceived.
+
+The land of light, which Gardner calls "an extension of himself," is heaven made by the Divine. "It is from the Lord's Divine Human that heaven as a whole and in part reflects man" (*Heaven and Hell* §78). That is why the Father "exists" and "is established" in his limbs: the limbs are not his possessions but his presence.
+
+The saying that the Father and his love "are a single living body... because he has given himself for every thing" is the correspondential centre of the chapter. Love is the Divine's own being, and love gives itself. The body of heaven exists because the Divine has given itself into receivers, which is influx. Its limbs are the places where that giving is received. The same law holds one degree down: the Mind and the church are one body because the one who leads the church gives himself for it. Swedenborg puts the same relation as head and body: "The body spiritual is the church; its head is God-Man" (*Divine Love and Wisdom* §24).
+
+The five fathers who come "from the five limbs" are the Divine proceeding. In the text's order the powers go out one after another; in the Father they are already present at once as members. This is successive order unfolding from simultaneous order. The Divine does not acquire powers in the course of salvation. It sends out what it already is.
+
+The chapter on the names of the fathers makes the pattern a rule. At every magnitude a life dwells in a greatness and is established in it, and at every magnitude that relation is a human one. The end the text anticipates — the Father unveiling his image and perfecting the stature of every power in its own dwelling-place — is the Greatest Man complete.
+
+**Correspondential key:**
+
+| Natural object | Correspondence |
+|---|---|
+| The Father of Greatness established in limbs | God as Man; the Divine Human (*DLW* §11; *HH* §78) |
+| The five light limbs (mind to consideration) | The Divine love and wisdom in the radial order of a faculty, inmost to outermost |
+| The twelve light limbs, twelve wisdoms | The same Divine as love and faith across the degrees in one complex (*AC* §577) |
+| The land of light, "an extension of himself" | Heaven, made by the Divine of the Lord |
+| The springs of light, perfume and voice | The Divine going out as wisdom, perception and speech, received by the members that correspond to them |
+| "A single living body, the Father and his love" | Love as the Divine's own being; the whole as one life |
+| "He has given himself for every thing" | Influx: the Divine giving itself into receivers |
+| The five fathers coming from the five limbs, "one after another" | The Divine proceeding: successive order unfolding what is simultaneous in the source |
+| A father and the "greatness" in which he lives | A life and its body; the same relation at every magnitude (*HH* §62) |
+| The Mind and the church, "a single body" | The Lord as head and the church as body (*DLW* §24) |
+| The directive hidden inside the body | The inmost, from which the whole is governed unseen |
+| The Father perfecting their stature "in same measure as his first aeons" | The Greatest Man completed; each society in its province |
 
 ---
 
 ## 4. The Two Trees: The Ladder of the Limbs and Its Exact Negative
 
-[TO BE WRITTEN]
+The first teaching chapter of the *Kephalaia* is an exposition of a Gospel parable: "The good tree shall give [good fr]ui[t]; also [the] bad [tr]ee shall give b[ad] fruit... [One kn]ows [each tree by] its fruits" (K. 17.5–9; Gardner notes Luke 6:43–44). Gardner observes that the parable had already served Marcion as "a proof-text for dualism," and that "from [Marcion] it must be traced to Mani" (p. 22).
+
+Mani begins by rejecting the sects' readings of the two trees, which compare them with plants growing "on this composite earth" (17.16–20; 17.33–35). Then he gives his own reading, and it is anatomical. The trees have limbs. The same text later says, from the other direction, that "the body is like the earth, wh[ile these] limbs als[o ... ] of it are like the trees" (281.6–8). In chapter 2 the trees are bodies.
+
+The good tree is introduced as a body clothed in the soul's own substance. It is "the intellectuals that are cloaked upon its body," and "the light elements that are mingled, being compounded in the totality" (20.1–3). Its fruit is "glorious Jesus the Splendour, the father [of] all [the apo]st[l]es," and "the taste of the fruits of the [good] tree [is the] holy [c]hurch" (20.4–6). Then its limbs are named:
+
+> [ ... ] it has five limbs. [They are consideration, counsel, insight, thought, mind. I]ts consideration is the ho[ly] church. [Its counsel] is [the Pil]lar of Glory, the Perfe[ct] Man. [Its insight is the Fir]st Man who dwells in the ship of [living] wat[ers]. Its thought is the Third Ambassador [who dwells in] the ship of living fire, that shines in [ ... A]lso, the min[d] is the Father who dwells in great[ness, who is perfe]ct in [the] aeons of light. (K. 20.11–20)
+
+The list at the head of the passage is restored, and so are two of the five equations. But the preserved words give the series without doubt: consideration, then "[the Pil]lar of Glory, the Perfe[ct] Man," then the First Man in a ship, then the Third Ambassador in the ship of living fire, then "the min[d]," which "is the Father."
+
+The passage that follows removes any remaining doubt about the order, because it shows the souls climbing the limbs one by one:
+
+> It is consideration that shall [ ... ] they shall be raised up [ ... ] is counsel; [they sh]all be raised up to insight, which is the First Man [who d]wells in the ship of the night; fr[om] insight they shall ris[e u]p to thought, which is the Ambassador who dwells in [the sh]ip of the day. And he too, great glor[ious] thought, [shall bring] them in to mind; which is the Father, the Go[d] of truth, the great Mind of all the [ae]ons of glory. (K. 20.24–31)
+
+The good tree, then, is a ladder of five limbs, and each limb is two things at once. Each is a faculty of the soul: consideration, counsel, insight, thought, mind. Each is also a station of the cosmos through which the purified light passes: the church, the Pillar, the ship of the night, the ship of the day, the Father.
+
+The soul's ascent through its own faculties and its ascent through the heavens are one movement described twice. Gardner sees this and values it highly: "The limbs of the good tree are the five intellectual qualities through which the soul ascends to the Father and the aeons of glory (20.21–31). This equation of the internal mental process of salvation with the eschatological journey through the heavens indicates a living spirituality in Mani's teaching that is often missed by commentators" (p. 22).
+
+In the terms of §2.3 this is the successive order of the degrees: "a column divided into... stories, through which ascent and descent are made" (*Divine Love and Wisdom* §205). The second rung of that column is the figure the text calls "the Pillar of Glory, the Perfect Man." Section 8 shows that the same figure is both the column of the ascent and a man.
+
+Then Mani names the bad tree:
+
+> [ ... The] bad [tree] has five limbs. Th[ey are consid]eration, counsel, insight, thought, [mind]. [It]s c[onsideration is] the law of de[at]h from which the sect[s] take instruction. I[t]s counsel is [t]ransmigration [ ... ] in typ[e after type]. Also, its insight is the furnaces of [fire ... ge]henna; which is full of [s]moke. Thought [ ... ve]ssel. Its mind is the [ ... ] the lump, the last b[o]nd, the [ ... ], they that Satan ca[st away]. (K. 21.28–36)
+
+The bad tree has the same five limbs as the good, with the same names. It is not a different kind of body; it is the same body with every limb turned the other way:
+
+| Limb | In the good tree | In the bad tree |
+|---|---|---|
+| Consideration | the holy church | the law of death from which the sects take instruction |
+| Counsel | the Pillar of Glory, the Perfect Man | transmigration in type after type |
+| Insight | the First Man in the ship of living waters | the furnaces of fire, gehenna, full of smoke |
+| Thought | the Third Ambassador in the ship of living fire | [lost] … vessel |
+| Mind | the Father, the great Mind of all the aeons | the lump, the last bond |
+
+The movement through the limbs is also turned round. On the good tree the souls "shall be raised up"; on the bad tree they "are swall]owed i[n] to the lump, and they are bound," and they "will arrive at that place; and they have no repentance therein" (22.15–20). Gardner's summary is again exact: "As an exact negative of this the evil tree is also made up of five intellectual qualities. However, in this case the mental process is directed towards sin and darkness; and the corresponding eschatological journey takes this soul to the ultimate death where it is compounded with the final 'lump' beyond all hope of redemption" (p. 23).
+
+The chapter closes with the sentence Gardner calls "an important semi-creedal assertion of belief in absolute dualism (22.35–23.13)" (p. 23):
+
+> Blessed is [every one ... ] these [t]wo trees, and separates them on[e] from [an]other. He understands that they did not arise out of one another, nor did [th]ey come from one another. They did not come from one! The person who can separate them out may go up to the aeon of light... but whoever will not separate out [ ... ] from [o]ne another, he falls to the land [of darkness]. (K. 22.35–23.9)
+
+This sentence is taken up in full in §13.4. Here only the structural fact matters. The same chapter that denies the two trees a common origin also gives them the same anatomy, limb for limb, and Gardner, without any correspondential interest, calls the result "an exact negative." Whatever the text says about origins, it says about form that there is one form, held in two opposite orientations.
+
+**Spiritual reading.** On the correspondential reading the two trees are the human mind in its two possible orientations. Each tree has the five faculties that every human mind has, from the outermost (consideration) to the inmost (mind), so each is the human form.
+
+The good tree is the mind turned toward the Lord, and in it the faculties are a way up. What is received in the outermost faculty is raised through the inner ones to its source. This is regeneration seen as ascent: the natural mind (consideration, the church in which the catechumens' alms are "purified") opening into the spiritual and then into the celestial. Swedenborg's angels "look to Him as the Only One, the source of all things" (*Heaven and Hell* §64). The good tree's top limb is "the Father, the God of truth, the great Mind of all the aeons."
+
+The bad tree is the same mind turned toward itself. In it each faculty is filled with its opposite:
+
+- **consideration** becomes a law of death, instruction that kills;
+- **counsel** becomes the endless round of re-embodiment, the will turning from form to form without rising;
+- **insight** becomes the furnace and the smoke, fire in its opposite sense, the burning of self-love that blinds instead of giving light;
+- **mind**, the inmost, becomes "the lump, the last bond," the ruling love of self binding everything beneath it into one mass.
+
+These are what Swedenborg describes as the forms of hell: "forms of the love of self and the love of the world," "diametrically opposite" to the loves of heaven (*Heaven and Hell* §554).
+
+The fruit of each tree is its state made visible. The good tree's fruit is the Splendour and its taste is the church; the bad tree's taste is "these evil people, the sects... bound in law after law" (21.19–22). One knows the tree by its fruit because the fruit is the tree in ultimates.
+
+The beatitude on the one who "separates them" names the decisive act of the regenerating mind. It must distinguish what belongs to the Lord from what belongs to self, and refuse to let the second pass for the first. Swedenborg makes the same distinction in his own terms: "none but good uses were created by the Lord," and "evil uses arose out of hell" (*Divine Love and Wisdom* §336). Good does not grow into evil, and evil does not grow into good. "They did not arise out of one another." The one who sees this "may go up." The one who confuses them falls.
+
+**Correspondential key:**
+
+| Natural object | Correspondence |
+|---|---|
+| A tree with five limbs | The human mind in its five faculties, from consideration (outermost) to mind (inmost) |
+| The good tree | The mind turned toward the Lord; regeneration as ascent |
+| The limbs as a ladder of ascent | The degrees in successive order (*DLW* §205) |
+| Consideration = the holy church | The natural mind receiving and purifying; the church as the outermost receiver |
+| Counsel = the Pillar of Glory, the Perfect Man | The column of ascent; the body of the regenerate (see §8) |
+| Insight = the First Man in the ship of the night | Interior understanding in the natural light (the moon) |
+| Thought = the Ambassador in the ship of the day | Spiritual understanding in the light of the sun |
+| Mind = the Father | The inmost, the Lord as the source of the mind's life |
+| The fruit (the Splendour) and its taste (the church) | The state of the tree made visible in ultimates |
+| The bad tree with the same five limbs | The same mind turned toward self; the opposite sense of every faculty |
+| The law of death | Instruction that kills: truth falsified into a rule against life |
+| Transmigration in type after type | The will circling in natural forms without ascent |
+| The furnaces of fire, gehenna, smoke | Fire in its opposite sense: the burning of self-love that darkens |
+| The lump, the last bond | The ruling love of self binding the whole into one mass |
+| Separating the two trees | Discrimination of good from evil; the judgement of the regenerating mind (*DLW* §336) |
 
 ---
 
 ## 5. The Anti-Body: The King of Darkness and the Monster at the Gate
 
-[TO BE WRITTEN]
+If the human form governs the composition, the adversary should be a body as well, and a body of a particular kind: the same form, turned against itself. The *Kephalaia* gives the King of Darkness two full descriptions, in chapters 6 and 27. Gardner judges the chapter 6 account "highly schematic." He says it shows "a certain attention to what can be termed the psychosymbolism of evil," with "a stamp that is unmistakably Mani's" (p. 34).
+
+The opening of chapter 6 sets out the realm from which the King comes, and it is a realm of fives that do not match:
+
+> Five s[to]rehouses have arisen since the beginning in the land of darkne[ss! The] fiv[e] elements poured out of them. Also, from the five e[le]ments were fashioned the five trees! Again, from the five tre[es] were fashioned the five genera of creatures in each world, male and female. And the five worlds thems[el]ves [ha]ve five kings therein, and five spiri[ts, five] bodies, five [tastes]; in each world, they n[ot] resembling [one another]! (K. 30.17–24)
+
+Then the King himself:
+
+> Now, regar[ding the King] of Darkness, there are five shapes on him! His head [is lion-faced; his] hands and feet are demo[n- and devil]-faced; [his] shoulders are eagle-faced; while h[is] belly [is dragon-faced]; his tail is fish-faced. These five shapes, the marks of his [fi]v[e] worlds, exist on the King of the realms of Darkness! (K. 30.33–31.2)
+
+Several of the animal names in chapter 6 are restored. Chapter 27 repeats the description with its reasons, and between the two chapters each shape is preserved at least once:
+
+> Now, f[ive forms] exist in his body, corresponding to (the archetype) [of the five] creations that exist in the five [wo]rlds of darkness. Indeed, his head is lion-faced, wh[ich] came about from [the] world of fire. His wings and his [shoulders] are eagle-faced, after the likeness of the children of the wind. [His hands] and [h]is feet are daemons, after the likeness [of the children] of the [w]orld of smoke. His belly is [dragon]-faced, [after the likeness of the] world of darkness. His tail [is the] form of the fish, which belongs to [the world of the ch]ildren of water. (K. 77.27–78.1)
+
+Where a chapter is broken, the other supplies the word. The kings of the separate worlds confirm each shape in preserved text. The King of Fire "is lion-faced, the fore[mo]st of all the beasts" (33.9–10); the King of Wind "is eagle-face" (33.17); the King of Water "is fish-face" (33.25); the King of Darkness "is a dragon" (33.33). In chapter 27 the King "shall crawl on his [bell]y like the children of dark[ness]" (78.9–10). Gardner's note on "corresponding to (the archetype)" gives the literal sense as "[the appearance] of the seal" (p. 79 n. 32).
+
+The point that matters for the argument is not that the King has a body. It is the kind of body he has. Every member of it comes from a different world. Its head is a lion, its shoulders are an eagle, its hands and feet are demons, its belly is a dragon and its tail is a fish. Chapter 6 states the principle in a single clause: the five worlds and their kings, spirits, bodies and tastes exist "in each world, they not resembling one another" (30.24). The King is a body whose parts do not resemble one another or the whole. He is an assembly of incompatible forms, held together by force.
+
+The rest of the two chapters develops this body as the inverse of a living one:
+
+- **What it is made of.** It is made of the five "other properties": "his darkness... his putridity... his ugliness... his bitterness, his own soul... his burning" (31.3–7).
+- **Who shaped it.** It did not grow; it was made from outside. "Matter, who is the though[t] of death," is "the o]ne w[ho] sculpted him from the nature of the land of darkness" (31.9–11), and so he is "h[ar]der than every [ir]on, copper and steel and [lea]d" (31.12–13).
+- **What it can see.** It has no access to interiors. The King knows the speech of his worlds, but "their heart is not manifested to him. He k[n]ows not their mind nor their thought... Rather, he only knows and apprehends what is before his eyes" (32.10–13); "he knows not what is far from him" (32.26–27).
+- **What its life is.** It has no life of its own: "There is no life [in him] whatsoever, but his 'life' is the bile of [anger] that is app[arent] on his face" (78.31–33).
+- **What its members do.** Its members do not hold together as members. "When it pleases him to move, he spreads all his limbs out and walks. When it comes to mind, he with[draws] his limbs and takes them in, and is rolled (?) to his companions; and he falls to the ground like a grape and a great iron ball!" (32.14–19).
+
+The last image is exact. A living body keeps its members in their places. The King's body can draw its members in until it is a single mass, a ball of iron. This is what the bad tree's inmost limb already named: "the lump, the last bond" (21.34–35).
+
+Finally, the anti-body is not located only at the beginning of time. Its members are present now, in human life:
+
+- the spirit of the King of Smoke "reigns today in the principalities and authorities of the earth... humiliating mankind with tyranny" (33.5–8);
+- the spirit of the King of Fire reigns "in the greater ones and the leaders," and "is found in these sects that worship [fi]re" (33.13–16);
+- the spirit of Wind is "idolat[ry]" in "every temple" (33.21–24);
+- the spirit of Water "reigns today in the sects of error; these that [d]ip the baptism of the waters" (33.29–31);
+- the spirit of Darkness "speaks till today in the soothsayers" (34.2–3).
+
+Mani ends the chapter by turning to his own: "Concerning this I tell you, my [bret]hren and my limbs, the perfect faithful, the holy elect... Put behind you the service of their five bodies. Live not in them" (34.6–11). In chapter 27 the warning is personal: "do not [lay upon] yourselves... the shapes of this ruler... Hold yourselves secure from his midst and [h]is wicked teachings that dwell in your body" (79.2–6).
+
+Two bodies compete for the same persons as their members. The elect are the apostle's "limbs." They are warned not to live as limbs of the five dark bodies, whose shapes can be "laid upon" a person and whose teachings "dwell in your body."
+
+**Spiritual reading.** Swedenborg never saw the form of hell as a whole. He was told that "as the entire heaven in one complex reflects a single man... so the entire hell in one complex reflects a single devil" (*Heaven and Hell* §553). He was also told that there is no single devil apart from the inhabitants of hell: "by 'the devil' and 'Satan' there hell is meant," and "everyone of them is a devil in accord with his opposition to the Divine while he lived in the world" (§544). The King of Darkness answers to both statements.
+
+As the description of chapters 6 and 27, he is the whole of hell in one form. As the spirits that reign "today" in tyrants, in leaders, in idolatry and in soothsaying, and as shapes that a person may "lay upon" himself, he is made of human beings in their opposition. His members are those who serve "their five bodies." His body exists in so far as people live in it.
+
+The form of that body is the precise inversion of the Greatest Man. In heaven "generals are like the parts, and parts are like the generals" (*Heaven and Hell* §62), because all are "from a single love" (§72). The King is a body whose parts "do not resemble one another," because each comes from its own world and its own appetite. This is the monster of *Divine Love and Wisdom* §24: a body whose parts take their direction from several heads instead of one, "thus not as a man, but as a monster." It is also the monster that appears at the gates of the hells, which "represents in a general way the form of those within" (*Heaven and Hell* §553).
+
+The animals are correspondences, and in this context they are in their opposite sense:
+
+- **The lion** at the head is ruling power as domination, "the fore[mo]st of all the beasts."
+- **The eagle** at the shoulders is the soaring of the intellect in its opposite sense, reasoning that flies over truth and seizes it.
+- **The demon** at hands and feet is the active and the walking life in the service of falsity.
+- **The dragon** at the belly is the appetite that receives and digests, in the sensual mind that crawls.
+- **The fish** at the tail is the lowest natural, the merely factual, in its cold and sliding form.
+
+Each part is the use of a human member perverted, and the body as a whole has no use but itself.
+
+The other features of the anti-body are what Swedenborg reports of hell's inhabitants:
+
+- **Their faces.** Faces "hideous, and void of life like those of corpses," and speech "like the speech of anger or of hatred or of revenge" (*Heaven and Hell* §553). The King has no life but "the bile of anger" on his face.
+- **Their loves.** These forms are "all forms of the love of self and the love of the world" (§554).
+- **Their sight.** A love of self knows only what is before its eyes. It cannot see into another's heart, because it has no interiors open to receive another's life, and so the King "knows not their mind nor their thought."
+- **Their making.** The love of self is not a growth from within but a hardening imposed from outside. The King is "sculpted" by "the thought of death," just as, at the other end of the book, the Last Statue sculpts itself from the life it gathers (§9).
+- **Their collapse.** In the end the love of self draws every member into itself until nothing remains but a mass. The King "withdraws his limbs" and falls "like a great iron ball," and the bad tree's inmost limb is "the lump, the last bond."
+
+**Correspondential key:**
+
+| Natural object | Correspondence |
+|---|---|
+| The King of Darkness as one body | Hell in its whole complex as "a single devil" (*HH* §553) |
+| The spirits of the kings reigning "today" in persons and institutions | Every inhabitant of hell a devil according to his opposition (*HH* §544) |
+| Five shapes from five worlds, "not resembling one another" | The parts unlike the whole: the monster, the inverse of the Greatest Man (*HH* §62; *DLW* §24) |
+| The lion-faced head | Ruling power as domination (opposite sense) |
+| The eagle-faced shoulders and wings | Reasoning that soars over truth to seize it (opposite sense) |
+| Demon hands and feet | Action and conduct in the service of falsity |
+| The dragon belly | Sensual appetite; the mind that crawls |
+| The fish tail | The lowest natural, cold and sliding (opposite sense) |
+| Sculpted by Matter, "the thought of death"; hard as iron | The love of self as a hardening imposed from without |
+| Knows only what is before his eyes; the heart hidden from him | A mind without open interiors |
+| No life but "the bile of anger" on his face | Faces void of life; speech of anger (*HH* §553) |
+| Spreading and withdrawing the limbs; falling like an iron ball | The love of self contracting every member into one mass; the lump |
+| "My brethren and my limbs" warned not to live in the five bodies | Human beings as members of heaven or hell according to their life |
 
 ---
 

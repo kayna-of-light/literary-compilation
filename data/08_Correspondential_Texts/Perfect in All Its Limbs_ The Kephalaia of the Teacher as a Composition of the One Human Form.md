@@ -549,7 +549,122 @@ The other features of the anti-body are what Swedenborg reports of hell's inhabi
 
 ## 6. The Universe Built After the Likeness of a Man
 
-[TO BE WRITTEN]
+Three chapters of the *Kephalaia* describe the visible universe as a human body, each from a different direction:
+
+- **Chapter 38** begins from the universe and finds a man in it.
+- **Chapter 70** begins from the human body and finds the universe in it.
+- **Chapter 64** finds both in Adam, on whom "the seal of the entire universe is stamped."
+
+A short fourth chapter, 60, uses the body to say which parts of the divine are seen and which are hidden. Gardner's chapter notes leave no doubt about the theme. Chapter 38 "demonstrates the correlation between the macrocosmos and the microcosmos of the human body" (p. 93); in it "the universe is constructed in the form of a human" (p. 94). Of chapter 70 he writes that "the basic theme here is the correspondence between the micro- and macro-cosmos" (p. 179).
+
+**Chapter 38: the universe as a man.** A disciple asks how the Light Mind, a great and immeasurable god, can "come and appear in the smallness of the bo[dy]" (89.32–33). Mani answers by describing the great body first:
+
+> All the error, when the en[e]my of the lights constructed it, he constructed after the likeness of a man. The head of the universe is the beginning of the garments. [H]is neck is the nape of the garm[ents]. His stomach [is the] five unfolded ones (?), which a[re ... ] of the garm[e]nts. His ribs are all the firmament[s]. His navel [is the] sphere of the stars and the signs of the zodiac. And, also, [the par]ts [that] come from his navel to his hip are [ ... ] that come from the sphere t[o the corne]rs of the four worlds. His loins are the th[ree eart]hs that are below [ ... u]pon the head of the Porter... His heart is mankind. His liver is the four-footed animals. His lung is the race of birds that [fly in] the air. His spleen is the race of fish that swim in the waters. His kidneys are the world of reptiles that creep [up]on the earth. His outer skin is the wall that [ ... which] surrounds the piercing and the great fire... His veins [ ... ] all [the spri]ngs and wells. (K. 90.20–91.11)
+
+The description runs from head to feet and then from heart to skin. The outer frame of the body is the frame of the cosmos: head, neck, ribs, navel, hips, loins, shins and feet laid along the heavens, the firmaments, the zodiac, the four worlds and the earths. The inner organs are the living things that fill the frame. The heart is mankind, and the liver, lung, spleen and kidneys are the four other kinds of animal life: beasts, birds, fish and reptiles.
+
+Mani then names what keeps this body alive and in order: "F[iv]e g[od]s are fastened in him. [ ... ] they are his soul and his life" (91.15–16). Five "sleepless guardians" stand watch in it (91.18), each identified with one of the five faculties:
+
+- the Keeper of Splendour, "the mind" (91.20; "set firm in the great mind," 92.12–13);
+- the King of Honour, "who is the thought" (92.24–25);
+- the Adamant of Light, "who is the insight" (91.25);
+- the King of Glory, "who is the coun[sel ... ] patience" (91.27–28), "the great counsel" (93.9–10);
+- the Porter, "who is the consideration" (91.31).
+
+At the centre of the whole the Ambassador "placed in them the great Mind; who is the Pillar of Glory, the Perfect Man" (92.5–6). Gardner's summary is that "the five sons of the Living Spirit are the intellectual qualities, who act as sleepless guardians, each firmly established in its place," and that "the Pillar of Glory, the Perfect Man, is the Mind in the universe" (p. 94).
+
+Mani then turns from the great body to the small one:
+
+> So also is this body! A mighty power lives here, even if it is small in its stature. Nevertheless, s[in] dwells within, and the old man who is lodged in it... until the Lig[ht] Mind finds how to humble this body, and drive it [according to] his pleasure. Just so, in the w[atch-]districts of his great outer brothers, they who are masters in the zone. In them, in the great body: the earthquake and treachery happened from time to time. So, also, is the watch-district of the Mind, which is the body of the flesh. (K. 94.17–26)
+
+The comparison holds both ways. The universe is "the great body," the individual is "this body," and the Light Mind keeps watch in the small body as the guardians keep watch in the great one.
+
+The preceding short chapter, 37, has already given the principle of construction. The Living Spirit "suspended the zones on their zones," hanging "the five powers of darkness on the five shining men, the sons of the M[a]n," while "the entire edifice is suspended from" the five sons of the Living Spirit (89.4–11). The universe is a series of layers each hung from the one within it.
+
+**Chapter 70: the body as a universe.** Chapter 70 begins from the other end, and its title states its thesis: "Concerning the Body: It was constructed after the Pattern of the Universe." Mani's opening sentence states the principle in both directions:
+
+> This whole universe, above and below, [re]flects the pattern of the hum[an] body; [as the formation of this body of flesh ac]cords to the pattern of the universe. Its head is like the first-fruits of the five garments. And, from its neck down to the site of its heart, it resembles the pattern of the ten firmaments. And again, the heart accords to the wheel of the rotating sphere. And, from its heart down to its intestines (?), is like this atmosphere that extends from the sphere down to the earth... And also, from its intestines (?) down to its loins is like the three earths. And also, its shinbones to the pattern of the space in which the Porter stands. Its footsoles to the great earth upon which the Porter is stood... Its liver to the vessel of fire. Its flesh to the vessel of darkness. Its blood to the vessel of water. Now, this is how the small body corresponds to the macro-cosmos in its firmaments, in its orderings, in its mountains, its walls and its vessels. (K. 169.28–170.20)
+
+The first clause, "This whole universe, above and below, [re]flects the pattern of the hum[an] body," is preserved apart from two letters. The closing summary, "this is how the small body corresponds to the macro-cosmos," is preserved entire.
+
+The chapter then does what chapter 38 did, but in the regenerate person. The universe has "five great camps," each kept by one of the five sons of the Living Spirit (170.21–171.11). "This is also the case with this body that the e[le]ct wear. There are another five camp[s] there, and the Light Mind is watching over them, and the new man who is with him" (171.29–172.4). Each camp in the person is a member brought under order, and each such mastery "resembles" one guardian:
+
+> The elect person who will control and subdue the configuration of his face, which is above his body, and guide it towards the good; he resembles the mystery of the Keeper of Splendour... Whoever will become master [over] his heart and subdue it; he is the sign of the great King of Honour... Whoever will become master to his genitals and subdue his lust; he is the mystery of the Adamant of Light, the one who subdues Matter. Whoever will subdue the stomach and become master to the fire that is in him, and also purify the nourishment that comes in to him; he resembles the likeness of the King of Glory, the one who turns the wheels, sending the life above. Whoever will become master over the ruling-power that is beneath in his feet, and bind it with the chain of peace; he is like the Porter. (K. 172.4–20)
+
+Then two further correspondences close the series. "The teaching of wisdom, which circulates in that body," is "to the likeness of the Virgin of Light, who goes up and comes down." "Love and joy, faith and truth, in which the person should l[iv]e," are "to the likeness of these two light ships. For, the living s[o]ul should go up in them" (172.20–29).
+
+**The order is by use, not by position.** Taken together, chapters 38 and 70 give the same five at three registers: a guardian of the cosmos, a faculty of the mind and a member of the regenerate body. Each is drawn from the preserved statements of the two chapters:
+
+| Guardian (son of the Living Spirit) | Faculty (ch. 38) | His watch in the universe (ch. 70) | Member mastered in the elect (ch. 70) |
+|---|---|---|---|
+| Keeper of Splendour | mind | the battlement of all the works; the three heavens | the face, "above his body" |
+| King of Honour | thought | the seven firmaments | the heart |
+| Adamant of Light | insight | from the firmament down to the earth; the sphere and atmosphere | the genitals and lust; "subdues Matter" |
+| King of Glory | counsel, patience | the three wheels of wind, water and fire; the three earths | the stomach, its fire and its nourishment; "sending the life above" |
+| Porter | consideration, wisdom | the great earth and its four fastenings | the feet, bound "with the chain of peace" |
+
+The order of the members in the last column is not anatomical. In the body the stomach lies above the genitals, but the text sets the genitals third and the stomach fourth. It does so because it assigns each member by what it does. The Adamant "subdues Matter," so he answers to the mastery of lust. The King of Glory "turns the wheels, sending the life above," so he answers to the stomach that purifies "the nourishment that comes in to him." What the five have in common is their use, not their position in space.
+
+**Chapter 64: Adam.** Between the great body and the small stands the first human being. Chapter 64 explains that "three great things that are distinct were reveal[ed] in Ad[am] the first human" (157.3–4):
+
+- "The image of the exalted one was placed upon him," for his makers "sealed him after the shining form of the image that had been displayed to them above" (157.7–9).
+- He "was shaped in his structure" by light, so that "the formation of his soul fits over the correct distribution of the elements" (157.12–18).
+- "The teachings and counsels and the seal of all the powers above and below" were "gathered" and "sealed" in him. "(Adam) and his consort Eve became a dwelling and home for the signs of the zodiac and the stars; and the months, the days and the years. For the seal of the entire universe is stamped upon Adam" (157.20–26).
+
+The rulers who formed him intended to use the seal against the light. Among their seven purposes, Adam was to be "a seal-ring and a new impression, so [that] all births who will be begotten might be brought forth after his s[eal]" (158.12–14). Adam is the macrocosm in the form of a single man, and the form passes to everyone born of him.
+
+**Chapter 60: the hidden and the visible.** The short chapter 60 uses the same body for a different purpose. "J[u]st as [the] corporeal body has limbs that are hidden, so it also has others that are visi[b]le... So it is also with this entire greatness, as we resemble it" (151.9–14). The members of the divine body are then assigned:
+
+- the Father is "the directive of the bo[dy] that lives within, hidden in the storehouses inside the body and unseen" (151.17–21);
+- the sun and moon are its "two eyes that are visible and seen, and are even the body's source of illumination" (151.22–27);
+- the living soul is the part of the body that "can be grasped and mastered" and "receive blows and wounds" (151.28–152.1);
+- Jesus the Splendour is the tongue, "that speaks, proclaims, reprimands and reveals about everything happening in this body," who "manifests and reveals about everything, both the external and the internal" (152.1–10).
+
+**Spiritual reading.** These chapters state the doctrine Swedenborg attributed to the ancients: "By the ancients man was called a microcosm, from his representing the macrocosm," and they knew it "from the knowledge of correspondences" (*Divine Love and Wisdom* §319). The *Kephalaia* does not merely compare the universe to a body. Its claim is that the universe "reflects the pattern of the human body" and that the human body "accords to the pattern of the universe." That is the claim of correspondence, which says that the two are one form at two magnitudes, and it is what Swedenborg means when he writes that "all things of the created universe, viewed in reference to uses, represent man in an image" (§319, heading).
+
+The text even agrees with Swedenborg about the key to the image. Swedenborg says that the image "is not seen when these things are viewed in their forms, it is seen only when they are viewed in respect to uses" (§322). The *Kephalaia* assigns the members of the regenerate body to the guardians by use, against their position, and the image holds because it is read by use.
+
+Chapter 38's claim that the enemy "constructed" the error "after the likeness of a man" needs careful reading. In Mani's mythology the mixed world is made from the bodies of conquered demons, and the light is held in it as in a prison. The structural point is that even the work of the enemy is a man. The text knows no other form in which a world could be built. Swedenborg makes the same observation about hell, which is the inverse of the human form and yet, "among themselves," appears "as men" (*Heaven and Hell* §553).
+
+The form is the Lord's. Opposition can only bend it, not replace it. The universe of the *Kephalaia* is therefore the human form in the state the text calls mixture: the natural degree, in which the life of the spiritual is present but bound. Its "soul and life" are the five sons of the First Man, and it is held in order by five guardians who are the faculties of a mind.
+
+In the language of the framework this is the natural mind in which the spiritual is present but not yet free. Its faculties stand as watchmen at their posts, and in its watch-districts "the earthquake and treachery happened from time to time." Swedenborg's account of the natural is the same in kind. The natural is the outermost of the simultaneous order, the circumference within which the higher degrees are present (*Divine Love and Wisdom* §205), and it is where the work of regeneration is done.
+
+That is why chapter 70 can treat the mastery of each bodily member as the likeness of a cosmic guardian. To govern the face, the heart, desire, appetite and gait is to bring the outermost of the human form into order under its inmost, which is what the guardians do for the universe.
+
+The single correspondences agree with Swedenborg's account of the provinces:
+
+- The head of the universe is "the beginning of the garments," and the head of the body is "the first-fruits of the five garments": the inmost and highest, as the head is the third heaven in the Greatest Man (*Heaven and Hell* §65).
+- The heart is mankind in the great body and "the wheel of the rotating sphere" in the small. In both, it is the centre about which the life of the whole turns.
+- The stomach, which "purif[ies] the nourishment," answers to Swedenborg's societies of "various purifications of good and truth" (§96).
+- The feet, standing on the great earth, are the lowest good on which the whole rests (§96).
+- Jesus the Splendour as the tongue "that... reveals about everything... both the external and the internal" is Swedenborg's province of the mouth and tongue, "the ability to converse from understanding and perception" (§96).
+- The Father as the hidden "directive" inside the body is the inmost from which the whole lives unseen.
+
+Adam, finally, is the Greatest Man in least form. "The seal of the entire universe is stamped upon Adam" is the *Kephalaia*'s way of saying what Swedenborg says of every angel: "As heaven is a man in largest form, and a society of heaven in a less form, so is an angel in least" (*Heaven and Hell* §73). Adam bears "the image of the exalted one" because the human form is the image of the Divine. Those who formed him wanted to rule "through him" because whoever holds the human form holds the key to the whole. On the correspondential reading, the rulers' seven purposes (158.1–23) are the love of self's attempt to make the human form its own instrument. The good "induce him to life because of their image and shape placed upon him" (157.28–29). The form is theirs before it is anyone else's.
+
+**Correspondential key:**
+
+| Natural object | Correspondence |
+|---|---|
+| The universe "after the likeness of a man" | The created universe, viewed by uses, representing man in an image (*DLW* §319) |
+| The human body "after the pattern of the universe" | Man as microcosm, from the knowledge of correspondences (*DLW* §319) |
+| The head as "the beginning" or "first-fruits of the garments" | The inmost and highest; the third heaven (*HH* §65) |
+| The heart as mankind; as the rotating sphere | The centre about which the life of the whole turns |
+| Liver, lung, spleen, kidneys as beasts, birds, fish, reptiles | The organs of the natural life as the kinds of natural affection |
+| The skin as the wall | The outermost that contains and defends |
+| The veins as springs and wells | The channels by which life is carried through the body |
+| The five sons of the First Man as the "soul and life" of the universe | The spiritual present in the natural degree, bound but alive |
+| The five sleepless guardians, each a faculty | The faculties of the mind keeping order in the natural |
+| "So also is this body!": the Light Mind in the small body | The inmost of the regenerate keeping watch in the natural person |
+| Mastery of face, heart, genitals, stomach, feet | Regeneration in ultimates: the members of the natural man ordered by their uses |
+| The stomach purifying nourishment, "sending the life above" | Purification of good and truth received (*HH* §96) |
+| The two light ships as love, joy, faith and truth | The two loves by which the soul rises: good and truth |
+| The Father as the hidden directive | The inmost governing unseen |
+| The two eyes as the sun and moon | The visible light of wisdom and of faith |
+| The tongue as Jesus the Splendour | The power to reveal, external and internal (*HH* §96) |
+| Adam sealed with the whole universe | The Greatest Man in least form (*HH* §73) |
+| "A seal-ring and a new impression" for all births | The human form passing to all who are born |
 
 ---
 

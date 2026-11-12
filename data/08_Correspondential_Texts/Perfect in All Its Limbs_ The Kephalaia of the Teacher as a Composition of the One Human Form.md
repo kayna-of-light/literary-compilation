@@ -985,7 +985,80 @@ The chain's last word, "on one occasion only," says that the gathering is not fi
 
 ## 11. What the Numbers Say: Five, Twelve and the Sums the Text Calls Forced
 
-[TO BE WRITTEN]
+The *Kephalaia* counts on almost every page. Its chapter titles promise four days and four nights, five storehouses, fourteen vehicles, twelve judges, eighteen thrones and fifty lord's days. Section 2.4 fixed the reading these numbers receive in this thesis: a number names a quality of one whole; a composite number is read by its prime factors; nothing is read as a total of smaller sets. This section applies that reading to the two numbers that dominate the body, five and twelve. It also looks at what the text itself does when it tries to relate them. The finding is that the text uses numbers in two different ways, and that Gardner's own judgement separates them cleanly.
+
+**Five is the faculty.** Wherever the *Kephalaia* speaks of the limbs of a body, there are five of them, and they are the same five. The table gathers the registers traced in §§3–8:
+
+| Register | The five | Locus |
+|---|---|---|
+| The Father | "his five light limbs": mind, thought, insight, counsel, [consideration] | 64.20–23 |
+| The five fathers | from the Father's mind, thought, insight, counsel, consideration | 76.20–24 |
+| The good tree | consideration (church), counsel (Pillar), insight (First Man), thought (Ambassador), mind (Father) | 20.11–31 |
+| The bad tree | consideration, counsel, insight, thought, [mind], each in its opposite | 21.28–36 |
+| The King of Darkness | five shapes from five worlds | 30.33–31.2; 77.27–78.3 |
+| The guardians of the universe | mind, thought, insight, counsel, consideration | 91.19–31; 92.12–93.10 |
+| The members of the elect | face, heart, genitals, stomach, feet | 172.4–20 |
+| The soul in the flesh | mind in bone, thought in sinew, insight in vein, counsel in flesh, consideration in skin | 95.16–19 |
+| The new man | love, faith, perfection, patience, wisdom in mind, thought, insight, counsel, consideration | 96.29–97.3 |
+| The First Man's soul | "the mind, thought, insight, counsel and c[on]sideration" | 85.1–2 |
+
+The five is never a count of five separate things that happen to be grouped. It is one body's faculty in its radial order, from the inmost to the outermost. The same names recur at every register because the same form recurs. [*The Resolution of the Finite Mind*](../02_Swedenborgian_Theology/The%20Resolution%20of%20the%20Finite%20Mind_%20Celestial%20Perception%2C%20Numerical%20Architecture%2C%20and%20the%20Limit%20of%20Spiritual%20Analysis.md) drew this meaning of five from these chapters (§§5.3–5.4), and the survey here confirms it at every register in which the text gives a body.
+
+**Twelve is the whole.** Where the *Kephalaia* names a twelve directly, it names the whole of a greatness:
+
+- **the Father's "twelve light limbs that are his twelve wisdoms"** (64.24–25);
+- **the Father's twelve "great rich Gods of great[ness]," which "he spread out to the four climes, three b[y] three before his face"** (25.15–19);
+- **the Ambassador's "twelv[e v]irgins"** (25.20–22);
+- **Jesus the Splendour's "twelve wisdoms"** (25.31–33);
+- **the twelve judges, who "came from the great Judge"** (81.7–9).
+
+In each case the twelve is the full complement of what belongs to one figure, the whole of his greatness in its articulation. That is what Swedenborg says twelve means: "the things of love and the derivative faith in one complex" (*Arcana Coelestia* §577); "wherever it occurs in the Word, [it] signifies all" (§3272).
+
+The way the text spreads the Father's twelve is exact. It is not an assembly of twelve units but a whole arranged "to the four climes, three b[y] three": four quarters, each holding three. Read by its prime factors, twelve is two-by-two (the four quarters) and three (the three in each). The bilateral and the vertical cross to articulate one greatness. The text draws this as a figure, not a sum.
+
+**Where the text adds, Gardner finds it forced.** There are a few places where the *Kephalaia* does not name a twelve but tries to make one, by adding sets the system already has. Each time, Gardner, who has no interest in a correspondential reading of number, judges the result strained.
+
+- **The third day.** In chapter 4 every one of the four great days must have twelve hours. For the first, second and fourth days the twelve are given directly: the Father's twelve gods, the Ambassador's twelve virgins, Jesus's twelve wisdoms. For the third day, the Pillar of Glory, the text builds the twelve by addition: "Its twelve hours are the five sons [of the F]irst Man; the five sons of the Living Sp[ir]it... together with the summons and the obedience, which are counted to their ten brethren. These are the twelve light hours of the th[ird da]y" (25.25–30). Gardner comments: "The schematic elaboration of days and hours is somewhat artificial... The purpose seems to be to enable Mani to link together a number of details around the theme of 'twelve'" (p. 29). Of the nights, whose twelve hours are again assembled from fives (26.3–17), he says they "appear mostly artificial, since Manichaean doctrine regarding the land of darkness and the worlds of flesh is dominated by pentads" (p. 29).
+- **The five greatnesses.** In chapter 16 the text says that the four greatnesses that came from the Father "were appointed to ten parts, and established in total twelve" (49.17–19). It reaches the twelve by counting the five sons of the First Man and the five of the Living Spirit, and then "another two [ad]ded to them who are the summons and [the obedien]ce. They are the father and the mother" (49.32–50.3). Gardner calls this "an undoubtedly forced calculation" (p. 54).
+- **The fifty days.** In chapter 109 the fifty fasts of the catechumens are derived from twenty-five limbs doubled. The fifty of the elect are derived from forty days in the desert, seven in the house of Simon the leper and three in the tomb (262.24–264.14). Gardner: "He engages in some rather convoluted calculations to reach these totals" (p. 268).
+
+Gardner names the underlying difficulty in his note on the Father's limbs: the texts "have difficulty reconciling the sets of five and twelve that structure Mani's system" (p. 67). The sums are the text's attempt at a reconciliation. It shows that the pentads and the twelves are one by adding pentads until a twelve comes out. The attempt strains exactly as Gardner says, because it treats a whole as a total.
+
+On the reading of §2.4 there is nothing to reconcile. Five is the faculty of the body and twelve is the body as a complex whole. The same body has both qualities, as a person has both five senses and a whole life, and neither has to be built out of the other.
+
+This thesis therefore makes no structural claim that depends on these sums:
+
+- It does not claim that the *Kephalaia* is built on a plan of five plus five plus two.
+- It does not claim that the hours of the third day disclose an architecture.
+- It does not claim that the fifty days encode a design.
+
+It reports the sums, reports Gardner's judgement of them, and observes that the body traced in §§3–10 does not need them. They are the natural-degree rendering of a whole, assembled by a mind that perceives through counting: the spiritual mind's distinctions written down as arithmetic.
+
+**Where the text multiplies, it describes the form.** The *Kephalaia* has a second, quite different way of handling number. It speaks not of adding sets but of a set within each member of another:
+
+- the Father has his five light limbs, "and... there are five great light lim[bs] in each one" (64.25–26), the clause breaking off before it says in each of what;
+- "In each one of these five garments that the [First] Man summonsed there are five powers" (262.25–26), which the text calls "twenty-five limbs" (263.3);
+- the Father's twelve are spread "three b[y] three" in each of the four climes (25.18–19).
+
+These are not totals. They describe one form repeated within its own members. The limb has the form of the body, five within each of five. The quarter has the form of the whole greatness, the degrees in each direction.
+
+This is the property Swedenborg identifies as the mark of the most perfect form. "Generals are like the parts, and parts are like the generals" (*Heaven and Hell* §62), and "there is a likeness of the whole in the part and of the part in the whole" (§73). Twenty-five is five seen within five: the faculty at a finer resolution, carrying the same meaning, as the framework's rule for powers of a prime requires (*Resolution* §7.2). Where the text uses number in this way it is not straining. It is describing the self-similarity of the human form, and this is the only numerical structure this thesis claims: the whole present in each part, not the whole assembled from parts.
+
+**At the end, counting stops.** The *Kephalaia* itself says what becomes of number when the body is complete. On the third great day, when the Father has perfected the stature of all his powers and set "each power [i]n its aeon, in its dwelling-place," the text adds: "From then on they will not count that season amongst them; nor the number of the days, nor the hours, generation after generation, for [e]ver and ever. The Father will not be hidden from them, from [this] tim[e] on" (103.25–29). When the Father is no longer hidden, the days and hours are no longer counted. Number belongs to the time of mixture, to the mind that perceives the whole through distinction. When the whole is seen, it is not counted.
+
+Swedenborg says the same of the angels of the inmost heaven: seven "in the internal sense partakes not at all of the idea of number. For they who are in the internal sense, as angels and angelic spirits are, do not even know what number is" (*Arcana Coelestia* §716). [*The Resolution of the Finite Mind*](../02_Swedenborgian_Theology/The%20Resolution%20of%20the%20Finite%20Mind_%20Celestial%20Perception%2C%20Numerical%20Architecture%2C%20and%20the%20Limit%20of%20Spiritual%20Analysis.md) calls this the return to one: the primes are scaffolding, "necessary during construction, removed when the building stands" (§7.3). The *Kephalaia*'s building is a statue, and when it stands the counting ends.
+
+**Correspondential key:**
+
+| Natural object | Correspondence |
+|---|---|
+| Five limbs at every register | The radial faculty of one body, inmost to outermost (*Resolution* §§5.3–5.4) |
+| Twelve light limbs, twelve wisdoms, twelve gods, twelve virgins, twelve judges | The whole of a greatness: love and faith in one complex; all (*AC* §§577, 3272) |
+| Twelve spread "to the four climes, three by three" | One whole articulated by the bilateral (four quarters) and the vertical (three degrees) |
+| Twelve assembled from five, five and two; fifty from forty, seven and three | The natural degree's rendering of a whole as a total: the forced sum |
+| "Five great light limbs in each one"; "five powers" in each of five garments | The whole present in each part; self-similarity of the human form (*HH* §§62, 73) |
+| Twenty-five limbs | The faculty seen within the faculty: five at a finer resolution |
+| Days and hours no longer counted when the Father is unveiled | Number belonging to the spiritual mind's perception through distinction, ceasing when the whole is seen (*AC* §716; *Resolution* §7.3) |
 
 ---
 

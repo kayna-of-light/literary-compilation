@@ -826,7 +826,85 @@ Finally, the Perfect Man is not yet complete. Its body is "perfected" by the fiv
 
 ## 9. The Last Statue: The Body Perfect in All Its Limbs
 
-[TO BE WRITTEN]
+The *Kephalaia* ends its history of the world with a body. Gardner's index lists "the Last Statue" fifteen times across the codex and "the Statue" nine times more. One of the first and two of the second rest only on restoration (Gardner, index, s.v.). The figure appears whenever the text reaches the end of a series. It also marks the end of time in the chapter on the three seasons, in the chapter on the three days and the two deaths, in the chapter on the elements that weep, and in the chapter on the sun's setting.
+
+The Coptic uses the Greek loanword *andrias*, the ordinary word for a statue of a human figure. Gardner's summary of the doctrine in his introduction is that "this soul will gather up and rise as the Last Statue, a divinity that in essence recapitulates the descent into the abyss of the First Man" (p. xxxiii). His comment on chapter 31 places it at the end of the line traced in §8: the gathered soul is the First Man's "trunk," "this trunk is the Pillar of Glory which reunites with the First Man at its head. At the end of time it is the Last Statue" (p. 86).
+
+The fullest description is in chapter 16, where the counsel of life is the fifth of the five powers that "went forth against the Darkness":
+
+> T[hen the summons and the obed]ience, the great counsel that came [to] the el[emen]ts, which are set in conjunction. It [mixed w]ith them, i[t was es]tablished [i]n silence. It bears u[p ... ] un[til the end t]ime when it can arise and stand f[ir]m in the g[reat] fire. It will gather to it its own soul, and sc[ul]pt it in the Last Sta[t]ue. You will a[l]so find it sweeps out and casts from it the polluti[on] that is foreign to it. However, the life and the li[gh]t that are in all things it gathers in to it, and builds upon its body. The time when this Last Statue will be perfect in all its limbs, then it can become free and ascend from that great struggle thr[ough] the Living Spirit its father, the one who comes and brings a [ ... l]imb. He brings it up from within this gathering(?), the melting do[wn] and destruction of all things. (K. 54.9–24)
+
+Every verb in this passage describes the forming of a body:
+
+- **gathering.** It "will gather to it its own soul"; it gathers in "the life and the li[gh]t that are in all things."
+- **sculpting.** It will "sc[ul]pt it in the Last Sta[t]ue."
+- **building.** It "builds upon its body."
+- **expelling.** It "sweeps out and casts from it the polluti[on] that is foreign to it."
+- **completing.** Only "the time when this Last Statue will be perfect in all its limbs" is the time when "it can become free and ascend."
+
+The father who brings it up comes bearing "a [ ... l]imb." The completion of the body is the condition of the ascent, not a consequence of it.
+
+Mani follows the description with a simile, and the simile explains how a body can be gathered out of everything without being everything:
+
+> Now, th[is co]unsel, tha[t] summons <and> obedience, resembles thus cooled butter. If a pers[o]n will take an[d se]t it in hot milk, it melts [dow]n and soak[s] in with this hot milk. It m[elts] in another [time i]n silence and quiet to the mids[t ... ] yet also, of the power and the taste of this m[ilk ... ] is drawn to (the butter), and (the milk) sets and becomes [cold ... this mi]lk it shall clarify and discard. However, the oil and the grease and the "beauty" of the [m]ilk it shall gather in to it. Again, this too is what the advent of that thought is like; the counsel of life, which is the summons and [o]bedience that came to the el[e]ments. This is the one that at the end c[an a]rise and stand firm, and will gather [i]n to it all [the] lives, a[nd] the light that has [remai]ned behind [in] everything. It can bui[ld] them upon [it]s body, it will [gath]er them in to it [ ... ] in its im[ag]e for ever and ever. (K. 54.24–55.11)
+
+The butter dissolves into the milk "in silence and quiet." As the milk cools, the butter draws to itself what is of its own kind, "the oil and the grease and the 'beauty' of the [m]ilk," and lets the rest go. The counsel does the same with the world. It is mixed into everything without noise, and at the end it draws to itself every life and every light of its own kind and builds them "upon [it]s body... in its im[ag]e for ever."
+
+The same doctrine recurs through the book, always in the same terms:
+
+- **the remnant.** In the chapter on the five things, "the fift[h] is the way that the Last Statue will be sculpted [from] the remnant of all th[in]gs. The light separates [ou]t to its place, and goes up and rules in its kingdom" (75.24–26). In the chapter on the three days, "the remainder left behind there can build and add to that Last Statue" (104.3–5).
+- **the judge.** The twelfth judge is "the great counsel," which "makes a separation between the good and the evil ones. At the end also it can gather itself together and sculpt its own self in the Last Statue" (81.1–6).
+- **sunset.** In the chapter on the Ambassador, sunset is a sign of the end, "for, when all the light will be purified and redeemed i[n] the universe at the last, the collector of all things, the Last Statue, will gather in and sculpt itself. It is the last hour of the day, the time when the Last Statue will go up to the aeo[n of] light" (165.5–11).
+- **the span of history.** History as a whole is measured by the Statue. It runs "from the coming down of the Fi[rst Man] till the going up of the Last Statue" (71.15–16), and the three seasons run "to the season when the Statue will ascend an[d] the entire light... will be puri[fied]" (55.20–23).
+
+What is not gathered is severed. In chapter 59 the elements, "the sons of the First Man," weep four times, and the fourth weeping, at the end, is the worst. It is for the souls "whose limbs have been severed":
+
+> [The f]ourth time when they will weep is when the [S]tatue will be taken up on the last day, and they will weep [for] the souls of the liars and blasphemers... because their limbs have been severed [ ... ] of the darkness. And also [th]ose souls, when the Statue will go [up and th]ey are left alo[n]e, they will weep in that they will rema[in] b[eh]ind in affliction for ever. For they wi[ll be cut off] and separated from the Last Statue... They go i[n to] this [darkne]ss and are bound with the darkness; just as they desired it an[d] loved it, and placed [t]heir treasure with it. At that very moment, when the Last Statue rises u[p], the[y wi]ll weep. And then they will scream out loud because they will be severed from the company of this great Statue. (K. 149.29–150.11)
+
+The same loss is the "second death" of chapter 39. Sinful souls are "stripped of the shining light," "separated from the living air, from which they receive [livin]g bre[ath]," and "separated and swept away from this Last Statue" (104.6–12). Gardner puts the theology plainly: "Some of the divine itself can never be redeemed" (p. 156).
+
+Read as a whole, the Last Statue doctrine says:
+
+- The end of history is a single human figure.
+- It is built from everything living that has been gathered out of the world.
+- It is sculpted by the same counsel that was mixed into the world at the beginning.
+- It is completed limb by limb, and it rises only when it is "perfect in all its limbs."
+- It casts out what is "foreign to it."
+- Those souls not built into it are "severed" from it as limbs are severed from a body. They go where "they desired... and loved... and placed their treasure."
+
+This is the body the Father's limbs went out to rescue (§3), the body the Pillar carried through the time of mixture (§8), and the body each new man was a member of (§7). It is now complete.
+
+[*The Ancient Word Recovered*](../00_Framework/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md) named the Last Statue the culminating concept of the substrate, a completed cosmic-human body built from gathered and purified substance (§8.3, Finding 19). The chapters read here confirm that judgement in Gardner's text. The confirmation does not depend on any restored reading, since "perfect in all its limbs," "builds upon its body," "sculpt its own self in the Last Statue," and "severed from the company of this great Statue" all stand in preserved text.
+
+**Spiritual reading.** The Last Statue is the Greatest Man completed: heaven as a single man, formed from all who have received life and have become what they received. Every feature the text gives it is a feature Swedenborg gives to heaven's human form.
+
+*It is one body formed from many.* Heaven "in its whole complex reflects a single man" (*Heaven and Hell* §59). The Statue is built from "the life and the light that are in all things."
+
+*It is formed gradually and completes itself.* Swedenborg watched a society take the human form: "at first like a single indistinct body, then by degrees in a human form, but still indistinctly, and at last clearly as a man" (§68). The Statue is "sculpted" through the whole time of mixture and rises only when it is "perfect in all its limbs." The *Kephalaia*'s verb for this is sculpting, and its noun is a statue of a man. In Swedenborg's telling the inmost of a person "conspires" toward the human form from the very beginning: "the primitive of man... endeavors toward the formation of the whole man in the ovum and the womb" (*Arcana Coelestia* §3633). The counsel of life, mixed silently into the world at the start like butter into milk, is the inmost of the whole conspiring toward its form. The Statue is what the counsel was always becoming.
+
+*It gathers what is of its own kind and lets the rest go.* The simile of the butter is exact on this point. The butter takes "the oil and the grease and the 'beauty'" and discards the rest. Swedenborg's societies are "conjoined according to uses in a like form," and "those who do not perform uses for the common good are cast out of heaven as something heterogeneous" (*Heaven and Hell* §64). In the society he watched forming, "those that were in that man and made up the man were such as were in the good of that society; the others who were not in the man and did not make up the man were hypocrites; these were cast out" (§68). The Statue "sweeps out and casts from it the pollution that is foreign to it." "Foreign" is the *Kephalaia*'s word for Swedenborg's "heterogeneous."
+
+*Those who are severed go where they loved.* The text insists that the lost go into the darkness "just as they desired it and loved it, and placed their treasure with it." This is Swedenborg's doctrine that the two loves of self and the world "constitute the hells" as love to the Lord and the neighbour constitute the heavens (*Heaven and Hell* §554). The severing is not an external sentence carried out on unwilling members. A member severed from the body is one whose love was elsewhere. The weeping of the elements for them is the grief of the whole for the parts that would not be parts, which the text calls the worst of all its weepings.
+
+*It is the Divine's own image completed.* The counsel builds the gathered lives "upon its body... in its image for ever and ever," and Gardner reads the Statue as recapitulating "the descent... of the First Man." The body that rises is the image of the head that descended. Swedenborg's "it is from the Lord's Divine Human that heaven as a whole and in part reflects man" (*Heaven and Hell* §78) is the same claim: the completed heaven has the human form because its source is the Divine Human, and its completion is the restoration of that image in what was received. On the third great day the Father will "perfect their stature in sa[m]e measure as his first aeons" (103.20–21).
+
+**Correspondential key:**
+
+| Natural object | Correspondence |
+|---|---|
+| The Last Statue (Greek *andrias*, a human figure) | The Greatest Man completed: heaven as one man (*HH* §59) |
+| Sculpted and built "upon its body" from the life and light in all things | Heaven formed from all who receive life |
+| "Perfect in all its limbs," then free to ascend | Completion of the human form as the condition of the end (*HH* §68) |
+| The counsel of life mixed "in silence" into the elements | The inmost conspiring toward the human form from the beginning (*AC* §3633) |
+| Cooled butter melting into hot milk | The good mixing invisibly into the whole of the natural |
+| Gathering "the oil and the grease and the 'beauty'" of the milk | Drawing to itself what is homogeneous; conjunction according to like uses (*HH* §64) |
+| Sweeping out "the pollution that is foreign to it" | Casting out the heterogeneous (*HH* §§64, 68) |
+| The remnant of all things built into it | What remains good and true gathered into the whole |
+| "The collector of all things" at "the last hour of the day" | The consummation: the gathering complete |
+| Souls whose "limbs have been severed," "separated from the Last Statue" | Those whose loves are of self and the world, which constitute hell (*HH* §554) |
+| Going into the darkness "just as they desired it and loved it" | The evil going where their ruling love belongs |
+| The elements weeping for the severed | The grief of the whole for parts that would not be parts |
+| The Statue recapitulating the First Man's descent; built "in its image" | The completed heaven as the image of the Divine Human (*HH* §78) |
 
 ---
 

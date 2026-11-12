@@ -1121,23 +1121,170 @@ This is the Greatest Man as Swedenborg described it, with the divergences noted.
 
 ### 13.1 What the Kephalaia Preserves
 
-[TO BE WRITTEN]
+The first thing the *Kephalaia* preserves is the human form as a way of composing, not as one doctrine among others. Swedenborg states the Greatest Man as a doctrine, in a chapter of *Heaven and Hell* and in interchapters of the *Arcana*. The *Kephalaia* nowhere states it in a single place, yet the form governs every subject the book takes up. Asked about the Father, the text gives limbs. Asked about a parable, it gives two bodies. Asked about the adversary, it gives a monster with five shapes. Asked about the universe, it gives a man from head to feet. Asked how a god fits into a person, it binds the faculties into the tissues. Asked about the end, it gives a statue. A body is the form the text's thinking takes when it thinks about anything.
+
+The second thing it preserves is the five as faculty, consistently named. Swedenborg's doctrine of degrees is threefold, and Scripture, as [*The Resolution of the Finite Mind*](../02_Swedenborgian_Theology/The%20Resolution%20of%20the%20Finite%20Mind_%20Celestial%20Perception%2C%20Numerical%20Architecture%2C%20and%20the%20Limit%20of%20Spiritual%20Analysis.md) showed, leaves the meaning of five open (§5.2). The *Kephalaia* gives five a fixed content: mind, thought, insight, counsel and consideration, always in that radial order. It holds that content steady across ten registers, from the Father to the new man (§11). Where Swedenborg tells us that the degrees stand within one another in the body, the *Kephalaia* tells us which faculty stands in which tissue.
+
+The third thing is both orders of the degrees, kept distinct and joined in one figure. The ladder of the good tree and the solid body of chapter 38 are the same five faculties arranged successively and simultaneously. The Pillar of Glory, the Perfect Man, is a single figure with a name for each arrangement. Swedenborg describes both orders and the relation between them in *Divine Love and Wisdom* §205. The *Kephalaia* writes the relation into its titles.
+
+The fourth is the dynamics of the body. Swedenborg gives the form of heaven and describes, in one vivid scene, a society taking that form and casting out its hypocrites (*Heaven and Hell* §68). The *Kephalaia* gives much more on how a body is made and unmade:
+
+- the binding of the soul into the flesh, member by member;
+- its release by the Light Mind, member by member;
+- the reconstruction as a new man with five living members and a king;
+- the loss of that new man from the outside in, until the member wants to eat, drink and walk alone;
+- the gathering of all living things into the Statue, the casting out of what is foreign, the severing of limbs;
+- the weeping of the whole for the parts that would not be parts.
+
+None of this is in conflict with Swedenborg; much of it is more detailed than anything he wrote.
+
+The fifth is the anatomy of the anti-body. Swedenborg was not shown the form of hell as a whole, and he says so (*Heaven and Hell* §553). The *Kephalaia* describes it twice, and its description has the features Swedenborg's principles predict:
+
+- **dissimilar parts.** Each member comes from a different world.
+- **no interiors.** "Their heart is not manifested to him."
+- **no life of its own.** Its only life is "the bile of anger."
+- **made from outside.** It is sculpted by "the thought of death."
+- **a lump.** It tends to collapse into a single mass.
+
+It also places the members of that body in the present: in tyranny, in idolatry, in soothsaying, and in whoever lets its shapes be "laid upon" him.
+
+The sixth is the principle of microcosm and macrocosm, stated as a principle: "This whole universe, above and below, [re]flects the pattern of the hum[an] body"; "this is how the small body corresponds to the macro-cosmos" (169.28–170.17). Swedenborg wrote that the ancients called man a microcosm "from truth which they derived from the knowledge of correspondences" (*Divine Love and Wisdom* §319). The *Kephalaia* is a text in which that truth is still taught as the ancients taught it. It is taught, moreover, as Gardner noticed, with an "equation of the internal mental process of salvation with the eschatological journey through the heavens" that "indicates a living spirituality... that is often missed by commentators" (p. 22).
 
 ### 13.2 What Swedenborg Supplies
 
-[TO BE WRITTEN]
+What Swedenborg supplies is the reason for the form. The *Kephalaia* shows the human form everywhere but does not say why everything should have it. Its own answer, where it gives one, is mythological: the enemy built the world after the likeness of a man, the rulers sealed Adam after the image displayed to them above. Swedenborg's answer is ontological. "In all the heavens there is no other idea of God than that He is a Man," and "from this fact that God is a Man, all angels and all spirits, in their complete form, are men. This results from the form of heaven, which is like itself in its greatest and in its least parts" (*Divine Love and Wisdom* §11). The human form is everywhere because it is the form of the Divine love and wisdom. Whatever receives that love and wisdom receives them in that form.
+
+This is why the *Kephalaia*'s Father is a body, why the realm of light is "an extension of himself," and why each father lives in a greatness that is his body. It is also why the same form can be found in the universe, in Adam and in the regenerate person: each receives the same life and takes the form of what it receives.
+
+Swedenborg supplies, second, the principle that makes the self-similarity intelligible. The parts of heaven are like the whole "because in the heavens the goods of all are from a single love, that is, from a single origin" (*Heaven and Hell* §72). The *Kephalaia* shows the self-similarity — five within each of five, three in each of four quarters, a father and his greatness at every level — without naming its cause. Swedenborg's single love is the cause. A text whose every register repeats the same form is a text that knows, whether or not it says so, that every register lives from one source.
+
+Third, he supplies the key that makes the correspondences readable: use. "The image itself is not seen when these things are viewed in their forms, it is seen only when they are viewed in respect to uses" (*Divine Love and Wisdom* §322). Read by use, the *Kephalaia*'s assignments are exact:
+
+- the genitals answer to the guardian who "subdues Matter";
+- the stomach answers to the one who "turns the wheels, sending the life above";
+- the tongue is the one who "reveals about everything";
+- the bones hold the mind, and the skin holds the consideration.
+
+Read by position, some of them look arbitrary, which is why commentary that reads them as an anatomy chart finds the text confused.
+
+Fourth, he supplies the reason the adversary has the same form. Hell is made of human beings, "everyone of them... a devil in accord with his opposition to the Divine" (*Heaven and Hell* §544), and its forms "were all forms of the love of self and the love of the world" (§554). Evil has no form of its own to give. It can only take the human form and turn every member against its use. That is what the *Kephalaia*'s bad tree and its King are: the five faculties turned the other way, and five members from five worlds, each a human use perverted.
+
+Fifth, he supplies the account of number that dissolves the text's one persistent strain. The *Kephalaia* tries to reconcile its fives and its twelves by addition, and Gardner rightly finds the results forced. Swedenborg's rule, that numbers in the internal sense signify things and not quantities and that the angels "do not even know what number is" (*Arcana Coelestia* §716), shows why the strain arises. Two qualities of one body were being treated as two counts to be made equal. The *Kephalaia* itself knows that counting ends when the Father is unveiled (103.25–29). Swedenborg's doctrine explains why it must.
+
+Finally, Swedenborg supplies an independent witness. He derived the Greatest Man from his own experience and published it between 1749 and 1763. He could not have known the *Kephalaia*. Where his account and the text agree in detail — in the two orders of the degrees, in the completion that casts out the heterogeneous, in hell as one inverted form — the agreement is between two derivations that share no literary channel. It is not between a source and its copy.
 
 ### 13.3 Implications for the Ancient Word Hypothesis
 
-[TO BE WRITTEN]
+The Ancient Word hypothesis, as the library develops it, holds that a body of knowledge written in correspondences existed before the Hebrew scriptures. It holds that this knowledge was carried by the *Bene Qedem*, and that it survives in part in the substrate of the *Kephalaia*. [*The Ancient Word Recovered*](../00_Framework/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md) argued for the third claim. [*The Garment and What Wears It*](The%20Garment%20and%20What%20Wears%20It_%20Dating%20the%20Correspondential%20Substrate%20Beneath%20the%20Manichaean%20Kephalaia.md) argued that the architecture the substrate carries is older than Mani.
+
+The present thesis adds a specific test of the hypothesis, drawn from Swedenborg himself. He did not only say that an Ancient Word existed. He said what its people knew: that "man was called a microcosm, from his representing the macrocosm," and that the ancients knew this "from the knowledge of correspondences, in which the most ancient people were" (*Divine Love and Wisdom* §319).
+
+If the *Kephalaia* substrate is a remnant of that knowledge, the human form should govern it, and it should govern it in Swedenborg's sense rather than as a loose analogy. The previous sections show that it does. This is a prediction that could have failed. A text can describe a cosmos without a body. A text can mention body imagery without ordering it by use, or without giving the adversary the inverted form. The *Kephalaia* does none of these.
+
+Three further observations bear on the hypothesis.
+
+**First, the form is not the property of one layer.** It governs chapters the library's stratigraphy treats as substrate, such as the body–universe correspondence of chapters 38 and 70. It also governs material Gardner attributes directly to Mani: the pentads of darkness, whose "stamp... is unmistakably Mani's" (p. 34). And it governs passages whose vocabulary is openly Pauline, such as "the new man" (p. xxxi) and "the Perfect Man," which Gardner glosses with Ephesians 4:12–13 (p. xxxii).
+
+A form that runs through all three layers cannot be credited to the wording of any one of them. The names belong to their layers; the form belongs to all of them. *The Garment and What Wears It* took its title from chapter 72's image of names as garments. The present finding is that what wears the garments is a body.
+
+**Second, the Pauline names are evidence for the form, not against its antiquity.** It might be objected that "the new man" and "the Perfect Man" are Pauline, and that the body structure of the *Kephalaia* is therefore borrowed from Paul. But the Ephesians passage Gardner cites is itself a statement of the same form: a body "fitly joined together" that "maketh increase... unto the measure of the stature" under its head (Ephesians 4:13–16). Paul did not invent the human form of the church; he is one more witness to it.
+
+The *Kephalaia* goes beyond Paul in the respects that matter to this thesis:
+
+- the faculties are named and ordered;
+- the cosmos is the same body;
+- the adversary is the inverse body;
+- the completed body is gathered from all living things.
+
+The overlap with Paul shows that the form was available to more than one writer of the period. It does not show that Paul was the source.
+
+**Third, the form is independently attested on the Iranian side.** [*The Dāmdād Nask and the Bundahišn*](../02_Swedenborgian_Theology/The%20D%C4%81md%C4%81d%20Nask%20and%20the%20Bundahi%C5%A1n_%20A%20Philological%20Reconstruction%20of%20the%20Lost%20Sasanian%20Encyclopedia.md) reconstructs a Zoroastrian doctrine of the "small world" and the "great world." It maps the human body onto the universe in *Bundahišn* chapter 28, and it notes that Mani gave the same correspondence a negative valuation (§§IV, 4.3). [*The Book of Zoroaster and the Children of the East*](The%20Book%20of%20Zoroaster%20and%20the%20Children%20of%20the%20East_%20Material%20Evidence%20for%20the%20Ancient%20Word%20Transmission%20Hypothesis%20from%20the%20Nag%20Hammadi%20Apocryphon%20of%20John.md) and [*The Unnamed Cartography*](The%20Unnamed%20Cartography_%20A%20Systematic%20Validation%20of%20Swedenborgian%20Body-Part%20Correspondences%20Against%20the%20365-Angel%20List%20of%20the%20Apocryphon%20of%20John.md) study a body-creation list in the Sethian Apocryphon of John that the text itself attributes to "the book of Zoroaster."
+
+The *Kephalaia*, the *Bundahišn* and the Apocryphon belong to different communities. They agree that the human body and the universe are one form, and two of them point to a Persian source. The present thesis has not re-read the Iranian material and rests nothing on its details. It notes only that the human form it finds in the *Kephalaia* is not isolated.
+
+The Ancient Word hypothesis gains from this thesis one thing it did not have before: a demonstration, in the text and in Gardner's words, that the substrate has the shape Swedenborg said the ancient knowledge had. The hypothesis is not proved by this. A body of knowledge can have the right shape and still have a history other than the one the hypothesis proposes. But the prediction was specific, it was made in 1763, the text was unavailable to its maker, and the prediction holds.
 
 ### 13.4 The Problem of the Two Roots: "They Did Not Come from One"
 
-[TO BE WRITTEN]
+The strongest objection to reading the *Kephalaia* as a single human form comes from the text itself. At the end of its first teaching chapter it says of the two trees: "He understands that they did not arise out of one another, nor did [th]ey come from one another. They did not come from one!" (23.2–3). Gardner calls this "an important semi-creedal assertion of belief in absolute dualism" (p. 23). His introduction is explicit about what the dualism is: "the dualism is not the hellenistic one of spirit and matter, but of two essences, even substances. The divine life is visible, has spatial and quantifiable elements; and evil matter is the active principle of lust" (p. xxvi). Manichaeism called itself the religion of "the two principles and the three times" (p. 59). This is the historical-critical reading of the text, and it is accurate at its level. This thesis does not dispute it.
+
+What the thesis disputes is that the creed settles the question of form. Three observations show how the two readings stand together.
+
+**First, the text's own denial is narrower than co-eternity.** What the sentence denies is that the trees "arose out of one another" or "came from one another": that good produced evil, or evil good. It also denies that both "came from one." The first denial is Swedenborg's doctrine too: "none but good uses were created by the Lord," and "evil uses arose out of hell" (*Divine Love and Wisdom* §336). He warns specifically against believing that good and evil uses "are together from creation" (§339).
+
+On this point the creed and the framework agree. The evil tree did not grow out of the good one, and the good does not bear bad fruit. Where they part is on the further claim that darkness has its own root, uncreated and co-eternal. Swedenborg's account has no second root. Hell is made of human beings, "from the human race" (*Heaven and Hell* §544), and its forms are the forms of the love of self and the world (§554).
+
+**Second, the text's anatomy says something its creed does not.** If darkness were a second substance with a nature of its own, nothing would require it to have the human form. Yet the *Kephalaia* gives darkness no form of its own. Every form it gives darkness is the human one inverted:
+
+- The bad tree has "five limbs" with the same names as the good tree's, each filled with its opposite (21.28–36).
+- The King of Darkness has a body of five members (30.33–31.2).
+- That body was "sculpted" by "the thought of death" (31.9–11).
+- It has no life in it "whatsoever" but "the bile of [anger]" (78.31–33).
+- Its members are taken from the five creatures of five worlds that do not resemble one another (30.24).
+- Its spirits reign in human tyrants, human idolatries and human soothsayers (33.5–34.3).
+- Its shapes can be "laid upon" a person by that person (79.2–3).
+- Its final state is "the lump, the last bond" (21.34–35).
+
+This is the anatomy of a privation, not of a substance. It is the human form with its interiors closed, its members turned from their uses, its life replaced by anger, and its tendency toward collapse into a mass. Gardner's own phrase for the bad tree, "an exact negative" (p. 23), names the relation. A negative has no image of its own; it is the image with every value reversed.
+
+**Third, the two readings stand on different planes, and both stand.** At the natural plane the *Kephalaia* teaches two principles. The doctrine shapes its myth, its ethics and its practice, and it is what made Manichaeism a distinct religion. At the plane of correspondence the same text describes one form and its opposite: a human body turned toward its source, and the same body turned toward itself.
+
+The library has already read the descent model of the *Kephalaia* in this way. [*Descent Remembered as Ascent*](../06_Mythological_Studies/Descent%20Remembered%20as%20Ascent_%20The%20Correspondential%20Origin%20of%20the%20Evolutionary%20Idea.md) argued that with the correspondential key "the two trees are not two substances but one rational faculty in two orientations" (§6). The anatomy assembled in §§4–5 of this thesis is the textual basis for that reading.
+
+The *Kephalaia*'s creed does not refute the reading. The creed belongs to the frame. The anatomy belongs to the form the frame is written in. A Manichaean reader would take the beatitude on separating the two trees as the recognition of two eternal natures. A correspondential reader takes it as the discrimination of what is from the Lord from what is from self. The text supports both readings, at different levels, and the second does not cancel the first.
+
+One divergence remains and should be stated plainly. Chapter 38 says that the enemy built the universe "after the likeness of a man" (90.20–22). Chapter 64 says that the rulers formed Adam to use him (157.32–158.23). In both cases the *Kephalaia* attributes the human form of the natural world to the work of darkness, imitating an image it saw above. Swedenborg attributes it to the Divine, whose uses "represent man in an image" because "God is a Man" (*Divine Love and Wisdom* §319).
+
+This is a real difference of valuation. [*The Dāmdād Nask and the Bundahišn*](../02_Swedenborgian_Theology/The%20D%C4%81md%C4%81d%20Nask%20and%20the%20Bundahi%C5%A1n_%20A%20Philological%20Reconstruction%20of%20the%20Lost%20Sasanian%20Encyclopedia.md) has noted the same inversion in Mani's handling of the Iranian microcosm (§4.3). It does not touch the structural finding. Even in Mani's account, darkness can build only in the human form, because it has no other form to build in. The rulers made Adam "after the shining form of the image that had been displayed to them above" (157.8–9). Their work is a copy, and what it copies is the form this thesis has traced.
 
 ### 13.5 Limitations and Lacunae
 
-[TO BE WRITTEN]
+**Dependence on one translation.** The argument rests on Gardner's English. The thesis has not checked the key terms against the Coptic. The library's own transcription is not yet reliable enough for that, and the printed Coptic of Polotsky and Böhlig was not consulted here. Gardner's index confirms that "the Last Statue," "the Statue," "the Perfect Man" and "the Pillar of Glory" render fixed Coptic expressions, and that the Statue is the Greek loan *andrias*. But word-level questions remain open:
+
+- the range of the Coptic word Gardner renders "limb" and "member";
+- whether "construct," "build" and "sculpt" render one verb or several;
+- the force of "perfect" in "perfect in all its limbs."
+
+A study of the Coptic vocabulary of the body, once a sound transcription exists, would test the finding at a level this thesis could not reach.
+
+**Lacunae.** Several passages used here are damaged, and the thesis has tried to say where:
+
+- **The noun at 178.13.** The noun that "all these names" are "a single [ ... ]" of is lost. The thesis does not supply it.
+- **The Father's limbs.** The clause "five great light lim[bs] in each one" (64.25–26) breaks off before saying in each of what.
+- **The springs.** The fourth and fifth springs of the Father's praise are illegible (64.34–65.5).
+- **The new man's twelve members.** These stand at a lacuna (97.7) and are not used.
+- **Restored identifications of the Pillar.** At 24.22, 25.23 and 176.4 the identification is restored. The thesis relies instead on the preserved parallels at 35.10, 37.3, 92.6, 155.11 and 177.4.
+- **The King's head.** The lion-faced head is restored in chapter 6 and preserved in chapter 27.
+
+None of the thesis's arguments turns on a restored word. But the overall picture is drawn from a damaged codex, and passages now lost may have said more, or something different.
+
+**Selection.** The thesis reads the chapters in which bodies appear. It does not claim that every one of the 122 chapters is about a body. Many are about fasting, alms, the sun's benefits, the apostles, the sects or the conduct of the elect.
+
+The claim is narrower and stronger: every *register* the text describes — the divine, the cosmic, the human, the ecclesial, the eschatological, the infernal — is given the human form when the text describes it. A chapter that takes up a register without a body would count against the claim. None has been found, but the survey of the codex was not exhaustive.
+
+**Composition and redaction.** Gardner notes that the *Kephalaia* is a compendium. Chapter 70 "appears to be redacted from a number of separate sources or Manichaean lessons" (p. 179). The larger part of chapter 16 "is in effect a separate and unrelated kephalaion" (p. 54). The thesis's "composition" means the body of teaching as compiled, not the plan of a single author. That the human form governs material from different sources and lessons strengthens the finding that it is the form of the teaching. It also means the finding does not establish a single compositional intention.
+
+**Stratigraphy not re-run.** The thesis does not assign each body passage to the substrate, to Mani's frame or to the community's frame. It notes that the form appears in material of all three kinds: substrate chapters, pentads Gardner calls Mani's, and openly Pauline names. It argues from this that the form is not the property of one layer. Which elements of the body vocabulary are older than Mani is left to [*The Ancient Word Recovered*](../00_Framework/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md) and [*The Garment and What Wears It*](The%20Garment%20and%20What%20Wears%20It_%20Dating%20the%20Correspondential%20Substrate%20Beneath%20the%20Manichaean%20Kephalaia.md).
+
+**The readings of persons.** The structural finding — that the text gives every register a human form — can be checked by anyone. The spiritual readings that accompany it depend on the framework:
+
+- the First Man as the Divine Human in descent;
+- the Pillar as the church in formation;
+- the King of Darkness as hell in one form;
+- the Last Statue as the Greatest Man completed.
+
+These readings are consistent with the text's own functions for these figures, and with Swedenborg. They are interpretations of those functions, not reports of them.
+
+**The comparison with Swedenborg.** Swedenborg is used as a vocabulary of recognition, and two divergences are reported in §12:
+
+- the fivefold watch-districts of the *Kephalaia* against the threefold provinces of *Heaven and Hell* §65;
+- the attribution of the natural world's human form to the enemy rather than to the Divine.
+
+A third difference is of scope. Swedenborg's Greatest Man is heaven, and the *Kephalaia*'s human form extends to a cosmos that it regards as a prison. A full comparison would also bring in Swedenborg's long series on the individual provinces of the Grand Man in the *Arcana*, which this thesis cites only at its opening (§3624) and in a few places on the bones and skin (§§5552–5560).
+
+**Numbers.** The reading of number as quality is the framework's, set out in [*The Resolution of the Finite Mind*](../02_Swedenborgian_Theology/The%20Resolution%20of%20the%20Finite%20Mind_%20Celestial%20Perception%2C%20Numerical%20Architecture%2C%20and%20the%20Limit%20of%20Spiritual%20Analysis.md) and grounded in Swedenborg. Gardner's judgements that the text's sums are "artificial," "forced" and "convoluted" are cited as independent indications that the sums are not where the text's coherence lies. They are not proof of the framework's reading. A reader who rejects the framework's account of number will still find the body in the text. Such a reader will simply not have an explanation for why the sums strain.
+
+**Iranian material not re-read.** The thesis mentions the *Bundahišn* microcosm and the body-creation list of the Apocryphon of John through the library's companion studies, without re-reading the primary sources. The library's edition replaces "the Pillar of Glory, the Perfect Man" with "Hearkening" and "the Last Statue" with "the Final Body," on Iranian grounds set out in its translation notes. This thesis has not verified the Middle Persian or Parthian names behind those substitutions. It takes no position on them beyond noting that the body titles Gardner prints are the ones the argument reads.
 
 ---
 

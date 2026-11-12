@@ -759,7 +759,68 @@ The accommodation of the great Mind to "this little worthless body" is the Divin
 
 ## 8. The Perfect Man: Column and Body, Trunk and Head
 
-[TO BE WRITTEN]
+One figure in the *Kephalaia* has two names, and the text almost never uses one without the other. Gardner's index lists the passages in which "the Pillar of Glory" occurs and those in which "the Perfect Man" occurs. In six passages the two titles stand together as one designation: "the Pillar of Glory, the Perfect Man" (20.15; 35.10; 37.3; 92.6; 155.11; 177.4). In a seventh the Pillar is restored beside a preserved "Perfect Man" (24.22–23). The text treats the column and the man as one thing. This section asks what each name contributes, and why the text will not let them part.
+
+**The column.** As a pillar, the figure bears weight and carries souls upward. Its titles make both functions explicit:
+
+- "the one who bears up under all things; the great Pillar of blessing; the great porter, who is greater than all the porters" (35.10–13);
+- "the first rock," which "bore up under the [en]tire uni[verse], and became first of all the weight-carriers in [it]s powers. In its firmness it has been set upright, and has made fast every[t]hing above and below" (155.10–16);
+- "helper of the Keeper of Splendour. It bore up under all [burden]s" (93.21–22).
+
+Its other function is passage. In chapter 2 it is the second limb of the good tree, the counsel through which the souls rise from the church toward the ships and the Father (20.14–15; 20.24–25). In chapter 71, on "the Gathering in of the [E]lements," it is a station in the chain of ascent: "the summons [to the] purified Mind, which is the intellectual. The intellectual to [the P]illar of Glory, [the Pillar of Glory to the First M]an, the Man to the Ambassador, the Ambassador [to] the aeons of greatness" (176.2–6).
+
+Gardner summarises the doctrine in his introduction. The freed light "ascends up the Pillar of Glory, the great porter of souls, to the moon" (p. xxxii). In his notes he describes the light elements as they "finally ascend perfected from the Pillar to the moon and thence to the sun" (p. 41), and the soul's path as "to ascend up the Pillar to the moon (the First Man), then to the sun (the Ambassador), and thus to the aeons" (p. 185).
+
+**The man.** As a man, the same figure has a body, a mind and a head:
+
+- In the universe of chapter 38 it is the Mind: "The Ambassador placed in them the great Mind; who is the Pillar of Glory, the Perfect Man" (92.5–6).
+- In chapter 72 it has a body perfected by the faculties: "The garments that are named 'great garment' are the five intellectuals that [make per]fect the body of the Pillar of Glory, the Perfect Man" (177.2–4).
+- Chapter 74 places a fire "on the body of the Perfect Man" (181.10–11).
+- In the elements, "the happiness is [the Pillar of Glory], the Perfect Man" (24.21–23).
+- Called "father," its "greatness" is "the five gods" in which it lives (64.5–7).
+- It is the place where Jesus became visible: among the vehicles he boarded, "the third is the Pillar of Glory, the Perfect Man, since he shone forth there. He came below, he appeared in the world" (37.3–4).
+
+It has a head, and the head is the First Man. Chapter 31, "Concerning the Summons, in which Limb of the Soul it descended to the First Man," gives the anatomy plainly:
+
+> After the fashion of this fleshly body: as the root of all the lim[bs] hang upon the head, so that should one of the person's limbs be cut off, while the head exists he has hope for [ ... ] but if his head should be cut off, the entir[e] body [w]ill d[ie] and he is lost. This is also the case for the Firs[t] Ma[n]. He is the head, while his sons attach to it the l[i]mbs [of] his soul. Or, conversely, like the l[i]ving air, on [w]hich all flesh entirely lives as it breathes... His head is placed on the body of the Pill[ar of Gl]ory in the heights of the universe. (K. 84.21–30)
+
+"Pill[ar of Gl]ory" stands at a line-break with both ends preserved, and the restoration is certain. The chapter continues with the First Man's five faculties, "the mind, thought, insight, counsel and c[on]sideration that he produced and sent forth from hi[m to] do his will," which, entwined among the rebels, are "like the limbs of its body" (85.1–5). Then the gathering is described as a building: "The Man him[s]elf... gathered his soul i[n ... ] he built it in its place like this to[w]er... shaped it and beautified it skillfully... They were gathered in. They came, [s]et firm onc[e] more, in the image of their father" (85.11–18).
+
+The chapter begins by citing a scripture "about the Man that he spread himself through the [ ... ] aeon as to a wooden house" (84.12–13). Gardner's commentary draws the whole picture into four sentences. "The First Man is the head upon which the soul depends for its life." "The Man gathers in the soul, and builds it up, so that as his trunk it eschatologically ascends back to the land of light." "This trunk is the Pillar of Glory which reunites with the First Man at its head." "At the end of time it is the Last Statue" (p. 86).
+
+The two titles are therefore exact. As a pillar the figure is the column of ascent, set upright from earth to heaven, bearing the universe and carrying the souls up through its stories to the ships. As a man it is a body under a head, perfected by five faculties, with the First Man's head set upon it in the heights. Gardner, reading historically, gives the Pauline source of the second title: "It is the Perfect Man (see Ephesians 4:12–13), the representation of the church as the body of Jesus in its ascent to the Father" (p. xxxii). The Ephesians passage speaks of the building up of "the body of Christ: till we all come... unto a perfect man, unto the measure of the stature of the fulness of Christ." It continues that the church is to "grow up into him in all things, which is the head... from whom the whole body fitly joined together and compacted by that which every joint supplieth... maketh increase of the body" (Ephesians 4:12–16).
+
+**One figure in two orders.** The reason the text does not separate the two names is given most clearly by Swedenborg's account of the two orders of the degrees. In successive order the degrees "may be compared to a column divided into three stories, through which ascent and descent are made. In the upper rooms are things most perfect and most beautiful; in the middle rooms, things less perfect... in the lowest, things still less perfect." Simultaneous order "has another appearance": the degrees are as "if in a solid body composed of these three degrees: in the middle or center are the finest parts, round about this are parts less fine, and in the extremes which constitute the circumference are the parts composed of these" (*Divine Love and Wisdom* §205). It is, he says, "like the column mentioned just above subsiding into a plane, the highest part of which forms the innermost of the plane" (§205).
+
+The *Kephalaia*'s Pillar is the column: "set upright," it carries the light from the earth through the moon and the sun to the aeons. Its Perfect Man is the solid body: the great Mind at its centre, the five intellectuals perfecting it, the head upon it. The text gives one figure both of Swedenborg's descriptions and calls it by both names. The column is the regenerating soul's path seen in time, stage above stage. The man is the same reality seen whole, with every stage present at once as a member.
+
+This is the distinction the framework draws between seven as a sequence and seven as a regenerated body (§2.4), and the text draws it in a title.
+
+**Spiritual reading.** The Pillar of Glory, the Perfect Man, is the body of the regenerate. The framework would say: the church in heaven and on earth, gathering under its head. The First Man, who descended into the darkness, was overcome and was raised, is read in the library's companion theses as the Divine Human in its descent and combat. Here he is the head, and the Pillar is the body that hangs from him.
+
+This is Swedenborg's order exactly: "The body spiritual is the church; its head is God-Man... the one God is the head, and the church is the body, which acts under the command of the head, and not from itself" (*Divine Love and Wisdom* §24). The First Man's head is "placed on the body... in the heights of the universe," as "the highest or third heaven forms the head" of the Greatest Man (*Heaven and Hell* §65). The limbs live from the head. A limb may be lost and the person survive, but if the head is cut off "the entir[e] body [w]ill d[ie]." This is the *Kephalaia*'s form of the doctrine that "the Lord alone is Man," and that the members are men "in exact proportion to what they have from Him" (*Arcana Coelestia* §4219).
+
+That the Pillar "bore up under the [en]tire universe" and "made fast every[t]hing above and below" is the doctrine that the world subsists from heaven. "It is from this correspondence that man has permanent existence, for from heaven alone does man have permanent existence" (*Heaven and Hell* §94). The Greatest Man does not float above the world. It is the form by which the world is held in being, as a person's body is held together by its life.
+
+That the Pillar is "the great porter of souls" says that the same form is the way by which the purified life of the world returns to its source. The great Mind placed at the centre of the universe (92.5–6) is the presence of the Divine Human in the natural degree: the Mind in the world, as the Light Mind is the Mind in the person.
+
+Finally, the Perfect Man is not yet complete. Its body is "perfected" by the five intellectuals as they are purified (177.2–4), and the gathered soul is "built... like this tower," "set firm once more, in the image of their father" (85.11–18). In the time of mixture the Pillar is the Greatest Man in formation. Swedenborg saw such a formation in a single society, "at first like a single indistinct body, then by degrees in a human form, but still indistinctly, and at last clearly as a man" (*Heaven and Hell* §68). What the Pillar becomes at the end is the subject of the next section.
+
+**Correspondential key:**
+
+| Natural object | Correspondence |
+|---|---|
+| The Pillar of Glory, set upright from earth to heaven | The degrees in successive order: the column of ascent and descent (*DLW* §205) |
+| The Perfect Man | The same degrees in simultaneous order: the body of the regenerate, the Greatest Man in formation (*DLW* §205) |
+| "Bears up under all things"; "made fast every[t]hing above and below" | The world subsisting from heaven (*HH* §94) |
+| The great porter of souls | The way by which purified life returns to its source |
+| The great Mind placed in the universe | The Divine Human present in the natural degree |
+| The five intellectuals that perfect its body | The faculties of the regenerate, purified and set in order |
+| The First Man as head; the limbs hanging from it | The Lord as head of the church, from whom the body lives (*DLW* §24; *HH* §65) |
+| A limb cut off survives; the head cut off, the body dies | The members live from the head, not the head from the members (*AC* §4219) |
+| The head "in the heights of the universe" | The inmost and highest; the third heaven as the head of the Greatest Man (*HH* §65) |
+| Jesus shining forth in the Pillar; "he appeared in the world" | The Divine made visible through the body of the regenerate |
+| The soul built "like this tower," "set firm... in the image of their father" | The gradual formation of heaven into the human form (*HH* §68) |
 
 ---
 

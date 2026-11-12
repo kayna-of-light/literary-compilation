@@ -4,9 +4,9 @@
 
 ---
 
-> **Abstract.** [TO BE WRITTEN]
+> **Abstract.** This thesis asks whether the *Kephalaia of the Teacher*, the Coptic Manichaean compendium of the fourth to fifth century, is composed as one human form: whether the human body is not merely an image in the text but the form of everything the text describes. It reads the *Kephalaia* in Iain Gardner's translation (1995), cites only preserved text for each argument, and uses Swedenborg's account of the Greatest Man (1749–1763) as its vocabulary of recognition. The answer is yes, at every register. The Father is "established in his five light limbs," and he and his love are "a single living body." The two trees are bodies with the same five limbs, the bad tree "an exact negative" of the good. The King of Darkness is that body inverted, its parts "not resembling one another." The universe was built "after the likeness of a man," and "the small body corresponds to the macro-cosmos." The soul's faculties are bound into the body from the inside out, mind in bone and consideration in skin, and are rebuilt as a "new man." The Pillar of Glory is both a column of ascent and "the Perfect Man," with the First Man's head upon it. History ends in the Last Statue, gathered and sculpted until "perfect in all its limbs," while what is "foreign to it" is cast out. Two features match Swedenborg in detail: the two orders of the degrees, column and solid body, and a completion that casts out the heterogeneous. The text's sums of five and twelve, which Gardner calls "forced," are read as the strain of describing a whole as a total. The form Swedenborg said the ancients knew "from the knowledge of correspondences" governs a text he could not have read.
 
-> **Keywords.** [TO BE WRITTEN]
+> **Keywords.** Kephalaia of the Teacher, Greatest Man, Grand Man, Maximus Homo, Divine Human, Last Statue, Perfect Man, Pillar of Glory, new man, microcosm and macrocosm, discrete degrees, simultaneous order, King of Darkness, Manichaeism, correspondences, Ancient Word
 
 ---
 
@@ -178,7 +178,7 @@ Gardner's round brackets mark his own explanatory additions, and his angle brack
 The library also holds its own working versions of the text. This thesis does not use them as evidence, for two reasons:
 
 - **The Coptic transcription.** The library's Coptic transcription of the codex is still being corrected against the manuscript, and its readings are not yet reliable enough to quote.
-- **The typeset edition.** The typeset *Ancient Word* (version 1.1) is built on Gardner's English, but it restores lacunae "by the same correspondences that organize the text itself" (preface, p. 5). It also rearranges the chapters by a structure discovered in the extracted substrate, and it replaces the Manichaean names with Persian ones. A restoration made from the correspondential architecture cannot be evidence for that architecture, as [*The Garment and What Wears It*](The%20Garment%20and%20What%20Wears%20It_%20Dating%20the%20Correspondential%20Substrate%20Beneath%20the%20Manichaean%20Kephalaia.md) already argued in setting its circularity guard (§2.4).
+- **The typeset edition.** The typeset *Ancient Word* (version 1.1) is built on Gardner's English, but it fills lacunae by what it calls "the same correspondences that organize the text itself" (preface, p. 5). It also rearranges the chapters by a structure discovered in the extracted substrate, and it replaces the Manichaean names with Persian ones. A restoration made from the correspondential architecture cannot be evidence for that architecture, as [*The Garment and What Wears It*](The%20Garment%20and%20What%20Wears%20It_%20Dating%20the%20Correspondential%20Substrate%20Beneath%20the%20Manichaean%20Kephalaia.md) already argued in setting its circularity guard (§2.4).
 
 The edition is therefore used here only to let its readers find their place. Section 15.2 gives a concordance of Gardner's names with the edition's names. Readers of the edition should note in particular that "the Pillar of Glory, the Perfect Man" appears there as "Hearkening" and "the Last Statue" as "the Final Body". Neither renaming bears on the argument, which reads the titles Gardner prints.
 
@@ -198,19 +198,19 @@ Swedenborg is used in this thesis as a vocabulary of recognition, not as a stand
 
 The test is for the state, never for the name. Swedenborg has no figure called the Pillar of Glory, and the *Kephalaia* has no phrase "the Greatest Man". What can be compared is what each text says a whole is, how its parts are ordered, and how it comes to completion.
 
-The account is gathered in *Heaven and Hell* §§59–102 and in the series on the Grand Man that runs through the interchapters of *Arcana Coelestia* from §3624. It can be set out in seven propositions, each with its own section reference.
+The account is gathered in *Heaven and Hell* §§59–102 and in the series on the Grand Man that runs through the interchapters of *Arcana Coelestia* from §3624. The library's [*The Grand Man: An Exhaustive Anatomical Atlas of the Divine Human*](../02_Swedenborgian_Theology/The%20Grand%20Man_%20An%20Exhaustive%20Anatomical%20Atlas%20of%20the%20Divine%20Human.md) surveys its provinces organ by organ. This thesis cites Swedenborg's own sections. The account can be set out in seven propositions, each with its own section reference.
 
 **First, heaven as a whole is one man.** "That heaven in its whole complex reflects a single man is an arcanum hitherto unknown in the world, but fully recognized in the heavens," and the angels therefore "call heaven the Greatest Man and the Divine Man" (*Heaven and Hell* §59). The arcanum is old: "the universal heaven is so formed as to correspond to the Lord, to His Divine Human; and... man is so formed as to correspond to heaven in regard to each and all things in him, and through heaven to the Lord" (*Arcana Coelestia* §3624).
 
 **Second, the form is the same at every magnitude.** "In the most perfect form generals are like the parts, and parts are like the generals, with simply such a difference as there is between like things of greater or less magnitude" (*Heaven and Hell* §62). Each society of heaven is therefore a man (§68), and so is each angel: "As heaven is a man in largest form, and a society of heaven in a less form, so is an angel in least" (§73). The likeness holds "because in the heavens the goods of all are from a single love, that is, from a single origin" (§72).
 
-**Third, the members are uses, and a whole is one life.** "So many different things in man act as a one, because there is no least thing in him that does not do something for the general welfare and perform some use" (*Heaven and Hell* §64). The societies of heaven are arranged "as the members, organs, and viscera are in man" (§94), and the inflow of heaven "is into the functions and uses of the bodily members" (§96). *Divine Love and Wisdom* draws the consequence for the felt unity of a person: "man feels them all as one... because all these are in such a form that not one can be lacking" (§22).
+**Third, the members are uses, and a whole is one life.** "So many different things in man act as a one, because there is no least thing in him that does not do something for the general welfare and perform some use" (*Heaven and Hell* §64). The societies of heaven are arranged "as the members, organs, and viscera are in man" (§94), and the inflow of heaven "is into the functions and uses of the bodily members" (§96). *Divine Love and Wisdom* draws the consequence for the felt unity of a person: "man feels them all as one," and "the reason is that all these are in such a form that not one can be lacking" (§22).
 
 **Fourth, the form is from the Divine Human, and the Divine is its head.** "It is from the Lord's Divine Human that heaven as a whole and in part reflects man" (*Heaven and Hell* §78). In all the heavens there is "no other idea of God than that He is a Man" (*Divine Love and Wisdom* §11). "Because God is a Man, the whole angelic heaven in the aggregate resembles a single man, and is divided into regions and provinces according to the members, viscera, and organs of man" (§288). For the church, Swedenborg uses the image of head and body. "The body spiritual is the church; its head is God-Man"; a church that thought of several gods "would appear as one body with several heads; thus not as a man, but as a monster" (§24). And the human being is human only by reception: "the Lord alone is Man, and an angel and a spirit, and also a man on earth, are men in exact proportion to what they have from Him" (*Arcana Coelestia* §4219).
 
 **Fifth, the degrees of the form are ordered by height in the whole and by depth in the body.** In general, "the highest or third heaven forms the head down to the neck; the middle or second heaven forms the breast down to the loins and knees; the lowest or first heaven forms the feet down to the soles, and also the arms down to the fingers" (*Heaven and Hell* §65).
 
-The same degrees also have a second arrangement. In successive order they stand "like a column divided into three stories, through which ascent and descent are made"; in simultaneous order the column subsides, and "the highest things of successive order... are in the inmost, the lower things are in the middle, and the lowest in the circumference," as "in a solid body" (*Divine Love and Wisdom* §205).
+The same degrees also have a second arrangement. In successive order they "may be compared to a column divided into three stories, through which ascent and descent are made"; in simultaneous order the column subsides, and "the highest things of successive order... are in the inmost, the lower things are in the middle, and the lowest in the circumference," as "in a solid body" (*Divine Love and Wisdom* §205).
 
 Within the body, the parts with least life lie at the frame and at the surface. The societies to which the bones, cartilages and skins correspond "have little spiritual life in them, just as there is little life in the bones as compared with the soft parts which they enclose" (*Arcana Coelestia* §5560; see §5552). Yet the skins of a regenerate man appear "a beautiful weaving of spirals wonderfully intertwined," and those of the deceitful appear "like knottings together of mere serpents" (§5559).
 
@@ -380,7 +380,7 @@ The chapter on the names of the fathers makes the pattern a rule. At every magni
 
 ## 4. The Two Trees: The Ladder of the Limbs and Its Exact Negative
 
-The first teaching chapter of the *Kephalaia* is an exposition of a Gospel parable: "The good tree shall give [good fr]ui[t]; also [the] bad [tr]ee shall give b[ad] fruit... [One kn]ows [each tree by] its fruits" (K. 17.5–9; Gardner notes Luke 6:43–44). Gardner observes that the parable had already served Marcion as "a proof-text for dualism," and that "from [Marcion] it must be traced to Mani" (p. 22).
+The first teaching chapter of the *Kephalaia* is an exposition of a Gospel parable: "The good tree shall give [good fr]ui[t]; also [the] bad [tr]ee shall give b[ad] fruit... [One kn]ows [each tree by] its fruits" (K. 17.5–9; Gardner notes Luke 6:43–44). Gardner observes that the parable had already served Marcion as "a proof-text for dualism," and that from Marcion's exegesis "it must be traced to Mani" (p. 22).
 
 Mani begins by rejecting the sects' readings of the two trees, which compare them with plants growing "on this composite earth" (17.16–20; 17.33–35). Then he gives his own reading, and it is anatomical. The trees have limbs. The same text later says, from the other direction, that "the body is like the earth, wh[ile these] limbs als[o ... ] of it are like the trees" (281.6–8). In chapter 2 the trees are bodies.
 
@@ -479,7 +479,7 @@ Several of the animal names in chapter 6 are restored. Chapter 27 repeats the de
 
 Where a chapter is broken, the other supplies the word. The kings of the separate worlds confirm each shape in preserved text. The King of Fire "is lion-faced, the fore[mo]st of all the beasts" (33.9–10); the King of Wind "is eagle-face" (33.17); the King of Water "is fish-face" (33.25); the King of Darkness "is a dragon" (33.33). In chapter 27 the King "shall crawl on his [bell]y like the children of dark[ness]" (78.9–10). Gardner's note on "corresponding to (the archetype)" gives the literal sense as "[the appearance] of the seal" (p. 79 n. 32).
 
-The point that matters for the argument is not that the King has a body. It is the kind of body he has. Every member of it comes from a different world. Its head is a lion, its shoulders are an eagle, its hands and feet are demons, its belly is a dragon and its tail is a fish. Chapter 6 states the principle in a single clause: the five worlds and their kings, spirits, bodies and tastes exist "in each world, they not resembling one another" (30.24). The King is a body whose parts do not resemble one another or the whole. He is an assembly of incompatible forms, held together by force.
+The point that matters for the argument is not that the King has a body. It is the kind of body he has. Every member of it comes from a different world. Its head is a lion, its shoulders are an eagle, its hands and feet are demons, its belly is a dragon and its tail is a fish. Chapter 6 states the principle in a single clause: the five worlds and their kings, spirits, bodies and tastes exist "in each world, they n[ot] resembling [one another]" (30.24). The King is a body whose parts do not resemble one another or the whole. He is an assembly of incompatible forms, held together by force.
 
 The rest of the two chapters develops this body as the inverse of a living one:
 
@@ -507,7 +507,7 @@ Two bodies compete for the same persons as their members. The elect are the apos
 
 As the description of chapters 6 and 27, he is the whole of hell in one form. As the spirits that reign "today" in tyrants, in leaders, in idolatry and in soothsaying, and as shapes that a person may "lay upon" himself, he is made of human beings in their opposition. His members are those who serve "their five bodies." His body exists in so far as people live in it.
 
-The form of that body is the precise inversion of the Greatest Man. In heaven "generals are like the parts, and parts are like the generals" (*Heaven and Hell* §62), because all are "from a single love" (§72). The King is a body whose parts "do not resemble one another," because each comes from its own world and its own appetite. This is the monster of *Divine Love and Wisdom* §24: a body whose parts take their direction from several heads instead of one, "thus not as a man, but as a monster." It is also the monster that appears at the gates of the hells, which "represents in a general way the form of those within" (*Heaven and Hell* §553).
+The form of that body is the precise inversion of the Greatest Man. In heaven "generals are like the parts, and parts are like the generals" (*Heaven and Hell* §62), because all are "from a single love" (§72). The King is a body whose parts are "n[ot] resembling [one another]," because each comes from its own world and its own appetite. This is the monster of *Divine Love and Wisdom* §24: a body whose parts take their direction from several heads instead of one, "thus not as a man, but as a monster." It is also the monster that appears at the gates of the hells, which "represents in a general way the form of those within" (*Heaven and Hell* §553).
 
 The animals are correspondences, and in this context they are in their opposite sense:
 
@@ -525,7 +525,7 @@ The other features of the anti-body are what Swedenborg reports of hell's inhabi
 - **Their loves.** These forms are "all forms of the love of self and the love of the world" (§554).
 - **Their sight.** A love of self knows only what is before its eyes. It cannot see into another's heart, because it has no interiors open to receive another's life, and so the King "knows not their mind nor their thought."
 - **Their making.** The love of self is not a growth from within but a hardening imposed from outside. The King is "sculpted" by "the thought of death," just as, at the other end of the book, the Last Statue sculpts itself from the life it gathers (§9).
-- **Their collapse.** In the end the love of self draws every member into itself until nothing remains but a mass. The King "withdraws his limbs" and falls "like a great iron ball," and the bad tree's inmost limb is "the lump, the last bond."
+- **Their collapse.** In the end the love of self draws every member into itself until nothing remains but a mass. The King "withdraws his limbs" and falls "like a grape and a great iron ball," and the bad tree's inmost limb is "the lump, the last bond."
 
 **Correspondential key:**
 
@@ -575,7 +575,7 @@ At the centre of the whole the Ambassador "placed in them the great Mind; who is
 
 Mani then turns from the great body to the small one:
 
-> So also is this body! A mighty power lives here, even if it is small in its stature. Nevertheless, s[in] dwells within, and the old man who is lodged in it... until the Lig[ht] Mind finds how to humble this body, and drive it [according to] his pleasure. Just so, in the w[atch-]districts of his great outer brothers, they who are masters in the zone. In them, in the great body: the earthquake and treachery happened from time to time. So, also, is the watch-district of the Mind, which is the body of the flesh. (K. 94.17–26)
+> So also is this body! A mighty power lives here, even if it is small in its stature. Nevertheless, sin dwells within, and the old man who is lodged in it... until the Light Mind finds how to humble this body, and drive it [according to] his pleasure. Just so, in the w[atch-]districts of his great outer brothers, they who are masters in the zone. In them, in the great body: the earthquake and treachery happened from time to time. So, also, is the watch-district of the Mind, which is the body of the flesh. (K. 94.17–26)
 
 The comparison holds both ways. The universe is "the great body," the individual is "this body," and the Light Mind keeps watch in the small body as the guardians keep watch in the great one.
 
@@ -636,7 +636,7 @@ The single correspondences agree with Swedenborg's account of the provinces:
 
 - The head of the universe is "the beginning of the garments," and the head of the body is "the first-fruits of the five garments": the inmost and highest, as the head is the third heaven in the Greatest Man (*Heaven and Hell* §65).
 - The heart is mankind in the great body and "the wheel of the rotating sphere" in the small. In both, it is the centre about which the life of the whole turns.
-- The stomach, which "purif[ies] the nourishment," answers to Swedenborg's societies of "various purifications of good and truth" (§96).
+- The stomach, whose master will "purify the nourishment that comes in to him," answers to Swedenborg's societies of "various purifications of good and truth" (§96).
 - The feet, standing on the great earth, are the lowest good on which the whole rests (§96).
 - Jesus the Splendour as the tongue "that... reveals about everything... both the external and the internal" is Swedenborg's province of the mouth and tongue, "the ability to converse from understanding and perception" (§96).
 - The Father as the hidden "directive" inside the body is the inmost from which the whole lives unseen.
@@ -649,7 +649,7 @@ Adam, finally, is the Greatest Man in least form. "The seal of the entire univer
 |---|---|
 | The universe "after the likeness of a man" | The created universe, viewed by uses, representing man in an image (*DLW* §319) |
 | The human body "after the pattern of the universe" | Man as microcosm, from the knowledge of correspondences (*DLW* §319) |
-| The head as "the beginning" or "first-fruits of the garments" | The inmost and highest; the third heaven (*HH* §65) |
+| The head as "the beginning of the garments" or "the first-fruits of the five garments" | The inmost and highest; the third heaven (*HH* §65) |
 | The heart as mankind; as the rotating sphere | The centre about which the life of the whole turns |
 | Liver, lung, spleen, kidneys as beasts, birds, fish, reptiles | The organs of the natural life as the kinds of natural affection |
 | The skin as the wall | The outermost that contains and defends |
@@ -682,11 +682,11 @@ Sin then overlays the soul's faculties with its own, faculty upon faculty: "its 
 
 The order of the binding is the centre of the passage. [*The Resolution of the Finite Mind*](../02_Swedenborgian_Theology/The%20Resolution%20of%20the%20Finite%20Mind_%20Celestial%20Perception%2C%20Numerical%20Architecture%2C%20and%20the%20Limit%20of%20Spiritual%20Analysis.md) first drew attention to it (§5.4). The five faculties are listed from the highest to the lowest, mind to consideration. The five tissues are listed from the innermost to the outermost: bone, which lies deepest and bears the frame; sinew, which binds bone to bone; vein, which carries the blood through the flesh; flesh; and skin, the surface. The highest faculty is bound in the innermost tissue and the lowest in the outermost. What was a ladder in the two trees of §4, consideration at the bottom and mind at the top, is here a solid body, mind at the core and consideration at the surface.
 
-This is Swedenborg's distinction between the two orders of the degrees, applied to the body. In successive order the degrees stand "like a column divided into three stories"; in simultaneous order "the highest things of successive order... are in the inmost, the lower things are in the middle, and the lowest in the circumference," as "in a solid body" (*Divine Love and Wisdom* §205). The *Kephalaia* gives its five faculties both arrangements, the ladder in chapter 2 and the body in chapter 38, and the second is the first turned inward.
+This is Swedenborg's distinction between the two orders of the degrees, applied to the body. In successive order the degrees "may be compared to a column divided into three stories"; in simultaneous order "the highest things of successive order... are in the inmost, the lower things are in the middle, and the lowest in the circumference," as "in a solid body" (*Divine Love and Wisdom* §205). The *Kephalaia* gives its five faculties both arrangements, the ladder in chapter 2 and the body in chapter 38, and the second is the first turned inward.
 
 **The release.** The Light Mind comes, "finds the soul," and undoes the binding member by member, in the same order. Each member of the soul is released and the matching member of sin is bound in its place:
 
-> He shall loosen the m[ind of the soul and relea]se it from the bone. He shall release the th[ought of the soul] from the sinew; and s[o] bind the thought [of the sin in] the sinew. He shall release the insight of the soul from the vei[n]; and so bind the insight of the sin in the vein. [He sh]all loosen the counsel of the soul, and release it from the flesh; and so bind the counsel of the sin in the flesh. He shall release the consideration of the soul from the skin; and bin[d] the consideration of the sin in the skin. This is how he shall release the members of the soul, and make them free from the five members of sin. Conversely, these five members of sin, which were loose; he shall bind them. (K. 96.13–25)
+> He shall loosen the m[ind of the soul and release] it from the bone. He shall release the th[ought of the soul] from the sinew; and s[o] bind the thought [of the sin in] the sinew. He shall release the insight of the soul from the vei[n]; and so bind the insight of the sin in the vein. [He sh]all loosen the counsel of the soul, and release it from the flesh; and so bind the counsel of the sin in the flesh. He shall release the consideration of the soul from the skin; and bin[d] the consideration of the sin in the skin. This is how he shall release the members of the soul, and make them free from the five members of sin. Conversely, these five members of sin, which were loose; he shall bind them. (K. 96.13–25)
 
 The release does not leave the soul bodiless. It is followed at once by a construction:
 
@@ -696,10 +696,10 @@ Gardner comments that "this 'new man', a concept ultimately to be derived from P
 
 **The loss.** The third movement is the most remarkable, because it shows the same body coming apart. Sin can "mount up with its foolishness; and it disturbs the consideration, and it clouds the wisdom and the understanding of the person" (97.26–28). If the person does not accept the correction of his brethren, sin climbs from member to member, inward:
 
-- **from consideration to counsel.** "Sin [shall] mount up again, another time, from the consideration to the counsel. It takes his patience f[rom him]" (98.3–5).
-- **into the will.** It "clothe[s] him with lust and vanity and pride" (98.17–18).
+- **from consideration to counsel.** "Then shall sin mount up again, another time, from the consideration to the counsel. It takes his patience f[rom him]" (98.3–5).
+- **into the will.** Sin rises again "and clothe him with lust and vanity and pride" (98.17–18).
 - **to thought.** It mounts "to his thought," and "causes his f[ai]th and his truth to le[a]ve him" (98.23–26).
-- **to mind.** It rises "and assume[s] his mind; and disturb[s] his mind, which formerly was calm. It shall disrupt his love... It shall take from his heart love of the church, and fill it full of hatred" (99.2–6).
+- **to mind.** Sin "shall rise up and assume his mind; and disturb his mind, which formerly was calm. It shall disrupt his love... It shall take from his heart love of the church, and fill it full of hatred" (99.2–6).
 
 The order of the loss is the order of the binding read from the outside in. Sin takes the outermost member first and the innermost last, as Resolution observed. What the text says about the person at each stage is about a member leaving a body:
 
@@ -713,7 +713,7 @@ At the end "that person shall [himse]lf become a vessel of loss, and he separate
 - "the rem[n]ant and remainder of the new man, which is the p[sy]chic image that is bound in the flesh, as the old man";
 - "the [corp]oreal image [that is] added to them all" (269.18–25).
 
-The living soul that enters the elect rises through the three images. It "divest[s] itself of the body, which is not its own, in the corporeal." It divests itself "of the souls that are not its own" in the psychic, namely "anger and desire and... foolishness and envy and strife." In the spiritual image it is "joined with [lo]ng-sufferingness, the perfection of faith and love that reigns over them all" (270.13–21). There a light virgin "scu[lpt]s it and adorns it with the new man [wi]t[hi]n. It is sealed with all the limbs of this light vir[gin] who is present and dwells in the new man. So, this is [h]ow this living limb shall be [puri]fied and live" (270.4–9).
+The living soul that enters the elect rises through the three images. It "shall divest itself of the body, which is not its own, in the corporeal." It divests itself "of the souls that are not its own" in the psychic, namely "anger and desire and... foolishness and envy and strife." In the spiritual image it is "joined with [lo]ng-sufferingness, the perfection of faith and love that reigns over them all" (270.13–21). There a light virgin "scu[lpt]s it and adorns it with the new man [wi]t[hi]n. It is sealed with all the limbs of this light vir[gin] who is present and dwells in the new man. So, this is [h]ow this living limb shall be [puri]fied and live" (270.4–9).
 
 Two verbs in this passage matter for §9: the new man is "sculpted," and the purified soul is "this living limb." Gardner's summary calls the light virgin here "the manifestation of the soul in all her chastity and power" (p. 275).
 
@@ -727,7 +727,7 @@ The binding of the five faculties into the five tissues is the human mind incarn
 
 The overlay of sin's five members on the soul's five is the proprium in its opposite sense. It is not a second nature added from nowhere. It is a counterfeit of each faculty laid over the true one: a mind of sin over the mind, a thought of sin over the thought. The regenerating work does not destroy the faculties of sin but binds them. It loosens the soul's members and fastens the counterfeit in the place the soul has left. This is the framework's account of the selfhood: a vessel which, while it claims what flows through it, binds the life it holds, and which, when it is brought into order, becomes the ultimate in which that life stands.
 
-The new man is the regenerate person as a body. Its five members are love, faith, perfection, patience and wisdom, set in mind, thought, insight, counsel and consideration, and its king is the Light Mind. This is what Swedenborg calls a man "in exact proportion to what [he has] from" the Lord (*Arcana Coelestia* §4219). The new man is a man because each of his members has received the Mind's corresponding member, and he reigns because the Mind reigns in him. A new man of five members with the Mind as king is an angel "in least form," "a recipient... a heaven, and an angel" (*Heaven and Hell* §73).
+The new man is the regenerate person as a body. Its five members are love, faith, perfection, patience and wisdom, set in mind, thought, insight, counsel and consideration, and its king is the Light Mind. This is what Swedenborg calls a man "in exact proportion to what they have from Him" (*Arcana Coelestia* §4219). The new man is a man because each of his members has received the Mind's corresponding member, and he reigns because the Mind reigns in him. A new man of five members with the Mind as king is an angel "in least form," "a recipient... a heaven, and an angel" (*Heaven and Hell* §73).
 
 The fall is the reverse, and the text describes it as Swedenborg describes the separation of the heterogeneous. Sin enters at the outermost faculty and works inward until it reaches love. At every stage the person withdraws from the body of the church: he wants to eat alone, to walk alone, to go in and out alone. This is the love of self as a member's desire to be a whole by itself. Swedenborg's rule for the Greatest Man is that "those who do not perform uses for the common good are cast out of heaven as something heterogeneous" (*Heaven and Hell* §64), and that whoever wills good to others "not for the sake of the common good but for the sake of self" does not perform use (§64). The *Kephalaia*'s separated member becomes "an earthly man," "a vessel of loss," and the Mind that was in him returns to the one who sent it.
 
@@ -857,7 +857,7 @@ The same doctrine recurs through the book, always in the same terms:
 - **sunset.** In the chapter on the Ambassador, sunset is a sign of the end, "for, when all the light will be purified and redeemed i[n] the universe at the last, the collector of all things, the Last Statue, will gather in and sculpt itself. It is the last hour of the day, the time when the Last Statue will go up to the aeo[n of] light" (165.5–11).
 - **the span of history.** History as a whole is measured by the Statue. It runs "from the coming down of the Fi[rst Man] till the going up of the Last Statue" (71.15–16), and the three seasons run "to the season when the Statue will ascend an[d] the entire light... will be puri[fied]" (55.20–23).
 
-What is not gathered is severed. In chapter 59 the elements, "the sons of the First Man," weep four times, and the fourth weeping, at the end, is the worst. It is for the souls "whose limbs have been severed":
+What is not gathered is severed. In chapter 59 the elements, "the sons of the First Man," weep four times, and the fourth weeping, at the end, is the worst. It is for the souls of whom the text says that "their limbs have been severed":
 
 > [The f]ourth time when they will weep is when the [S]tatue will be taken up on the last day, and they will weep [for] the souls of the liars and blasphemers... because their limbs have been severed [ ... ] of the darkness. And also [th]ose souls, when the Statue will go [up and th]ey are left alo[n]e, they will weep in that they will rema[in] b[eh]ind in affliction for ever. For they wi[ll be cut off] and separated from the Last Statue... They go i[n to] this [darkne]ss and are bound with the darkness; just as they desired it an[d] loved it, and placed [t]heir treasure with it. At that very moment, when the Last Statue rises u[p], the[y wi]ll weep. And then they will scream out loud because they will be severed from the company of this great Statue. (K. 149.29–150.11)
 
@@ -949,13 +949,13 @@ The noun after "a single" is lost in a lacuna, and this thesis does not supply i
 
 Gardner's summary is that Mani "emphasises that they will all return to a single form and a single name at the final victory" (p. 186). [*The Garment and What Wears It*](The%20Garment%20and%20What%20Wears%20It_%20Dating%20the%20Correspondential%20Substrate%20Beneath%20the%20Manichaean%20Kephalaia.md) read this chapter as the text's testimony to its own stratification, with names laid over a prior unity. The present thesis adds what that unity looks like.
 
-Every name in the chapter is a garment, and the chapter's first answer says what the garments are for. The "great garment" is "the five intellectuals that [make per]fect the body of the Pillar of Glory, the Perfect Man." The garments of wind, fire and water are "cloaked upon [the Living Spirit's] body." The power was "the armour (or the five sons) that the First Man had assumed at his descent," as Gardner notes (pp. 185–186). The garments are worn by a body. When the names are stripped, what remains is "a single form": not an abstraction or a substance, but the one body the garments clothed.
+Every name in the chapter is a garment, and the chapter's first answer says what the garments are for. The "great garment" is "the five intellectuals that [make per]fect the body of the Pillar of Glory, the Perfect Man." The garments of wind, fire and water are those "the Living Spirit cloaked upon his body." The power was "the armour (or the five sons) that the First Man had assumed at his descent," as Gardner notes (pp. 185–186). The garments are worn by a body. When the names are stripped, what remains is "a single form": not an abstraction or a substance, but the one body the garments clothed.
 
 Chapter 63 has already given the rule for such unities. The Father and his love are "a single living body," and the Mind and the church are "a single body" (156.3–11). Chapter 39 has given the end: the Father will "perfect their stature" and set "each power [i]n its aeon, in its dwelling-place" (103.20–22). Chapter 16 has given its shape: the Statue "perfect in all its limbs" (54.19–20).
 
 Chapter 72 adds that every name the book has used names a part of that form, in one of its states. The great garment is the form being perfected; the rags and the slain soul are the form devoured and scattered; the counsel of life is the form's own movement, which "awakens" its scattered parts. The single form at the end is the form the names were always parts of.
 
-**Spiritual reading.** The doctrine of chapter 72 is Swedenborg's doctrine of the one and the many in the Greatest Man, stated from the side of language. Heaven is innumerable societies and angels, each with its own quality, yet it "reflects a single man," and the angels in it "act as a one" (*Heaven and Hell* §§59, 64). The reason is that "the goods of all are from a single love, that is, from a single origin" (§72). In the human body "many and numberless things" are felt "as one," "because all these are in such a form that not one can be lacking," a form "recipient of life from God-Man" (*Divine Love and Wisdom* §22). Swedenborg draws the conclusion for the Divine itself: in God-Man "infinite things are one distinctly" (§22).
+**Spiritual reading.** The doctrine of chapter 72 is Swedenborg's doctrine of the one and the many in the Greatest Man, stated from the side of language. Heaven is innumerable societies and angels, each with its own quality, yet it "reflects a single man," and the angels in it "act as a one" (*Heaven and Hell* §§59, 64). The reason is that "the goods of all are from a single love, that is, from a single origin" (§72). In the human body "many and numberless things" are felt "as one," because "all these are in such a form that not one can be lacking," a form "recipient of life from God-Man" (*Divine Love and Wisdom* §22). Swedenborg draws the conclusion for the Divine itself: in God-Man "infinite things are one distinctly" (§22).
 
 The *Kephalaia*'s many names are the one life received in many states. In the opening contest the life entered the natural degree and was received there in every condition: perfected in the regenerate, entangled in the firmaments, devoured by the flesh, spread through the dry and the moist, ripening in fruit and seed. Each condition received its own name, and the names were "written and sealed... by a multitude of scriptures." This is accommodation. The same reality is given the form in which each place and each people could receive it.
 
@@ -1012,7 +1012,7 @@ The five is never a count of five separate things that happen to be grouped. It 
 - **Jesus the Splendour's "twelve wisdoms"** (25.31–33);
 - **the twelve judges, who "came from the great Judge"** (81.7–9).
 
-In each case the twelve is the full complement of what belongs to one figure, the whole of his greatness in its articulation. That is what Swedenborg says twelve means: "the things of love and the derivative faith in one complex" (*Arcana Coelestia* §577); "wherever it occurs in the Word, [it] signifies all" (§3272).
+In each case the twelve is the full complement of what belongs to one figure, the whole of his greatness in its articulation. That is what Swedenborg says twelve means: "the things of love and the derivative faith in one complex" (*Arcana Coelestia* §577); "this number, wherever it occurs in the Word, signifies all" (§3272).
 
 The way the text spreads the Father's twelve is exact. It is not an assembly of twelve units but a whole arranged "to the four climes, three b[y] three": four quarters, each holding three. Read by its prime factors, twelve is two-by-two (the four quarters) and three (the three in each). The bilateral and the vertical cross to articulate one greatness. The text draws this as a figure, not a sum.
 
@@ -1078,7 +1078,7 @@ The text does none of these things. The table sets the propositions beside what 
 |---|---|---|---|
 | **1. The whole is one man.** "Heaven in its whole complex reflects a single man... the Greatest Man and the Divine Man" (*HH* §59) | The Father "established in his five light limbs" and "twelve light limbs" (64.20–25); "a single living body, the Father and his love" (156.3–4); the Last Statue "perfect in all its limbs" (54.19–20) | "The kingdom of light is a manifestation of the Father himself, which he pervades by his qualities or limbs" (p. 67) | §§3, 9 |
 | **2. The same form at every magnitude.** "Generals are like the parts, and parts are like the generals" (*HH* §62); heaven, society, angel (§73) | The universe "after the likeness of a man" (90.20–22); "the small body corresponds to the macro-cosmos" (170.16–17); "So also is this body!" (94.17); Adam bearing "the seal of the entire universe" (157.25–26); a father and his "greatness" at every level (63.19–64.10); "five great light limbs in each one" (64.25–26) | "What is true in the macrocosmos is also true for the microcosmos"; relationships "an exact image... all the way back up the scale" (p. xxvi) | §§3, 6, 11 |
-| **3. Members are uses; the whole is one life.** "No least thing in him that does not... perform some use" (*HH* §64); inflow "into the functions and uses of the bodily members" (§96) | The elect's members assigned to the guardians by function, not position (172.4–20); the stomach "purif[ies] the nourishment... sending the life above"; the names of ch. 72 each defined by what the power does (177.2–178.12) | Ch. 70: "the structure of the human body and its organs accords to that of the universe" (p. 179) | §§6, 10 |
+| **3. Members are uses; the whole is one life.** "No least thing in him that does not... perform some use" (*HH* §64); inflow "into the functions and uses of the bodily members" (§96) | The elect's members assigned to the guardians by function, not position (172.4–20); the master of the stomach will "purify the nourishment that comes in to him," like the King of Glory "sending the life above"; the names of ch. 72 each defined by what the power does (177.2–178.12) | Ch. 70: "the structure of the human body and its organs accords to that of the universe" (p. 179) | §§6, 10 |
 | **4. From the Divine Human; the Divine as head.** "It is from the Lord's Divine Human that heaven... reflects man" (*HH* §78); "the body spiritual is the church; its head is God-Man" (*DLW* §24) | The five fathers "from the five limbs [of the Father]" (76.24); the First Man "the head," his head "placed on the body of the Pill[ar of Gl]ory" (84.21–30); the Light Mind as "king" of the new man (97.21–22) | "The First Man is the head upon which the soul depends for its life... This trunk is the Pillar of Glory" (p. 86) | §§3, 7, 8 |
 | **5. Degrees ordered by height in the whole and depth in the body.** Column of three stories in successive order; "solid body" with the highest inmost in simultaneous order (*DLW* §205) | The good tree as a ladder, consideration to mind (20.11–31); the soul bound inside out, "mind in bone... consideration in ski[n]" (95.17–19); one figure named both "Pillar" and "Perfect Man" (20.15; 35.10; 37.3; 92.6; 155.11; 177.4) | "The limbs of the good tree are the five intellectual qualities through which the soul ascends to the Father" (p. 22) | §§4, 7, 8 |
 | **6. Completion by gathering; the heterogeneous cast out.** "At first like a single indistinct body, then by degrees in a human form... at last clearly as a man" (*HH* §68); those without use "cast out... as something heterogeneous" (§64) | The counsel "will gather to it its own soul, and sc[ul]pt it in the Last Sta[t]ue... sweeps out and casts from it the polluti[on] that is foreign to it... builds upon its body" (54.14–19); souls "separated from the Last Statue" (150.3–4); the separating member who wants "to walk alone" (98.18–22) | "This soul will gather up and rise as the Last Statue" (p. xxxiii); "Some of the divine itself can never be redeemed" (p. 156) | §§7, 9 |
@@ -1187,7 +1187,7 @@ Three further observations bear on the hypothesis.
 
 A form that runs through all three layers cannot be credited to the wording of any one of them. The names belong to their layers; the form belongs to all of them. *The Garment and What Wears It* took its title from chapter 72's image of names as garments. The present finding is that what wears the garments is a body.
 
-**Second, the Pauline names are evidence for the form, not against its antiquity.** It might be objected that "the new man" and "the Perfect Man" are Pauline, and that the body structure of the *Kephalaia* is therefore borrowed from Paul. But the Ephesians passage Gardner cites is itself a statement of the same form: a body "fitly joined together" that "maketh increase... unto the measure of the stature" under its head (Ephesians 4:13–16). Paul did not invent the human form of the church; he is one more witness to it.
+**Second, the Pauline names are evidence for the form, not against its antiquity.** It might be objected that "the new man" and "the Perfect Man" are Pauline, and that the body structure of the *Kephalaia* is therefore borrowed from Paul. But the Ephesians passage Gardner cites is itself a statement of the same form: a body "fitly joined together" that "maketh increase of the body," growing "unto the measure of the stature of the fulness of Christ" under its head (Ephesians 4:13–16). Paul did not invent the human form of the church; he is one more witness to it.
 
 The *Kephalaia* goes beyond Paul in the respects that matter to this thesis:
 
@@ -1210,7 +1210,7 @@ The strongest objection to reading the *Kephalaia* as a single human form comes 
 
 What the thesis disputes is that the creed settles the question of form. Three observations show how the two readings stand together.
 
-**First, the text's own denial is narrower than co-eternity.** What the sentence denies is that the trees "arose out of one another" or "came from one another": that good produced evil, or evil good. It also denies that both "came from one." The first denial is Swedenborg's doctrine too: "none but good uses were created by the Lord," and "evil uses arose out of hell" (*Divine Love and Wisdom* §336). He warns specifically against believing that good and evil uses "are together from creation" (§339).
+**First, the text's own denial is narrower than co-eternity.** What the sentence denies is that the trees "arise out of one another" or "come from one another": that good produced evil, or evil good. It also denies that both "come from one." The first denial is Swedenborg's doctrine too: "none but good uses were created by the Lord," and "evil uses arose out of hell" (*Divine Love and Wisdom* §336). He warns specifically against believing that good and evil uses "are together from creation" (§339).
 
 On this point the creed and the framework agree. The evil tree did not grow out of the good one, and the good does not bear bad fruit. Where they part is on the further claim that darkness has its own root, uncreated and co-eternal. Swedenborg's account has no second root. Hell is made of human beings, "from the human race" (*Heaven and Hell* §544), and its forms are the forms of the love of self and the world (§554).
 
@@ -1296,15 +1296,15 @@ This thesis asked whether the *Kephalaia of the Teacher* is composed as one huma
 
 **The two trees** of the Gospel parable are two bodies with the same five limbs. The good tree is a ladder by which the souls rise from the church to the Father. The bad tree has the same faculties turned to death, transmigration, gehenna and "the lump, the last bond." Gardner calls it "an exact negative." This is the human mind turned toward its source or toward itself.
 
-**The King of Darkness** is the same form inverted. He has five shapes from five worlds that do not resemble one another, a body "sculpted" by "the thought of death," no interior and no life but "the bile of anger." His members reign today in human tyranny and idolatry, and he can fall in upon himself "like a great iron ball." This is Swedenborg's hell "in one complex," "a single devil," the monster at the gate whose parts do not answer to a single head.
+**The King of Darkness** is the same form inverted. He has five shapes from five worlds that do not resemble one another, a body "sculpted" by "the thought of death," no interior and no life but "the bile of anger." His members reign today in human tyranny and idolatry, and he can fall in upon himself "like a grape and a great iron ball." This is Swedenborg's hell "in one complex," "a single devil," the monster at the gate whose parts do not answer to a single head.
 
 **The universe** was built "after the likeness of a man," with ribs as firmaments, navel as zodiac and heart as mankind. Five guardians, each a faculty, keep its watch-districts. In it "the small body corresponds to the macro-cosmos." The elect who master face, heart, desire, appetite and feet resemble those guardians, member for member, by use rather than by position. Adam bears "the seal of the entire universe." This is the doctrine that the ancients, Swedenborg wrote, derived "from the knowledge of correspondences."
 
-**The soul** is bound into the little body in Swedenborg's simultaneous order: mind in bone, thought in sinew, insight in vein, counsel in flesh, consideration in skin. The Light Mind looses those members and "construct[s] a new man of them" with five living members — love, faith, perfection, patience and wisdom — and reigns in him as king. The new man is lost again from the outside in, until the member wants "to walk alone," "becomes an earthly man," and is separated from the body of the church.
+**The soul** is bound into the little body in Swedenborg's simultaneous order: mind in bone, thought in sinew, insight in vein, counsel in flesh, consideration in skin. The Light Mind looses those members and will "construct a new man of them," with five living members — love, faith, perfection, patience and wisdom — and reigns in him as king. The new man is lost again from the outside in, until the member wants "to walk alone," "becomes an earthly man," and is separated from the body of the church.
 
 **The Pillar of Glory, the Perfect Man**, is one figure under two names. It is a column that "bore up under the [en]tire universe" and carries the light upward to the ships and the aeons. It is also a man, the "great Mind" placed in the universe, its body perfected by the five intellectuals, with the First Man's head "placed on the body of the Pill[ar of Gl]ory in the heights." Swedenborg describes the degrees as a column in successive order and as a solid body in simultaneous order. The *Kephalaia* gives one figure both descriptions, and the body is the church gathering under its head.
 
-**The Last Statue** is the end of history and the completion of that body. The counsel of life, mixed into the world "in silence" like butter in milk, gathers its own soul and "sc[ul]pt[s] it in the Last Sta[t]ue." It gathers "the life and the li[gh]t that are in all things" and "builds [them] upon its body." It "sweeps out and casts from it the polluti[on] that is foreign to it." It rises only when it "will be perfect in all its limbs." Those who are not gathered weep because "their limbs have been severed," and they go where "they desired it an[d] loved it." This is Swedenborg's society taking shape "by degrees in a human form... and at last clearly as a man," casting out the heterogeneous.
+**The Last Statue** is the end of history and the completion of that body. The counsel of life, mixed into the world "in silence" like butter in milk, will "gather to it its own soul, and sc[ul]pt it in the Last Sta[t]ue." It gathers "the life and the li[gh]t that are in all things" and "builds upon its body." It "sweeps out and casts from it the polluti[on] that is foreign to it." It rises only when it "will be perfect in all its limbs." Those who are not gathered weep because "their limbs have been severed," and they go where "they desired it an[d] loved it." This is Swedenborg's society taking shape "by degrees in a human form... and at last clearly as a man," casting out the heterogeneous.
 
 **The names** under which all this is taught are, in chapter 72, garments over one thing. Stripped of "all these appearances," they "will gather together [and] make a single form, and a single name, unaltered and unchangeable for ever."
 
@@ -1322,18 +1322,163 @@ The names are many. The limbs are many. The body is one, and at the end it is pe
 
 ### 15.1 The Mapping Table
 
-[TO BE WRITTEN]
+The table gathers every register traced in the thesis. For each it gives the *Kephalaia* locus (Gardner's translation, by Coptic page and line), the argument-bearing words as preserved, Gardner's own description where he gives one, and the corresponding feature of Swedenborg's Greatest Man.
+
+| Register | *Kephalaia* (ch.; K.) | Preserved wording | Gardner | Greatest Man (Swedenborg) | § |
+|---|---|---|---|---|---|
+| The Father's body | ch. 21; 64.20–26 | "established in his five light limbs"; "his twelve light limbs that are his twelve wisdoms"; "five great light lim[bs] in each one" | realm "a manifestation of the Father himself, which he pervades by his... limbs" (p. 67) | God as Man; heaven from the Divine Human (*DLW* §11; *HH* §78) | 3 |
+| The Father's outgoing | ch. 25; 76.20–25 | "These five advents came from the five limbs [of the Father]. One came from another" | — | The Divine proceeding; successive from simultaneous (*DLW* §205) | 3 |
+| Father and greatness at every level | ch. 20; 63.19–64.10 | each father "lives" and is "established" in his greatness | the name used "of the derived gods in their own realms of greatness" (p. 67) | Parts like generals (*HH* §62) | 3 |
+| The Father and his love | ch. 63; 156.1–7 | "a single living body, the Father [a]nd his love; because he has given himself for every thing" | — | One life; love as the Divine's being; influx | 3 |
+| The Mind and the church | ch. 63; 156.10–19 | "the Mind and the church, a single body"; "both to body and to spirit" | — | Church as body, God-Man as head (*DLW* §24) | 3 |
+| The Father as hidden directive | ch. 60; 151.17–21 | "the directive of the body that lives within, hidden... So it is also how the Father... exists" | "the directive faculty... hidden in his own kingdom" (p. 158) | The inmost governing unseen | 3, 6 |
+| The completed stature | ch. 39; 103.10–22 | "perfect their stature in sa[m]e measure as his first aeons... each power [i]n its aeon" | — | The Greatest Man complete | 3, 9 |
+| The good tree | ch. 2; 20.11–31 | five limbs, consideration (church) to mind (Father); "they shall be raised up" | soul ascends through the five qualities; "a living spirituality" (p. 22) | Degrees in successive order; regeneration as ascent (*DLW* §205) | 4 |
+| The bad tree | ch. 2; 21.28–22.20 | "[The] bad [tree] has five limbs"; law of death, transmigration, gehenna, "the lump, the last bond" | "an exact negative" (p. 23) | The same mind turned to self; forms of self-love (*HH* §554) | 4 |
+| Separating the trees | ch. 2; 22.35–23.9 | "they did not arise out of one another... The person who can separate them out may go up" | "semi-creedal assertion of... absolute dualism" (p. 23) | Evil not from the Lord (*DLW* §§336, 339) | 4, 13.4 |
+| The King of Darkness | chs. 6, 27; 30.33–31.2; 77.27–78.3 | "five shapes on him"; lion-faced head (77.29), eagle shoulders, demon feet, dragon (33.33), fish tail | "psychosymbolism of evil" (p. 34) | Hell as a single devil; the monster (*HH* §553; *DLW* §24) | 5 |
+| Parts unlike the whole | ch. 6; 30.24 | "in each world, they n[ot] resembling [one another]" | — | Inverse of "parts are like the generals" (*HH* §62) | 5 |
+| The anti-body's life and making | chs. 6, 27; 31.9–13; 78.31–33 | "sculpted him from the nature of the land of darkness"; "no life... but... the bile of [anger]" | — | Faces void of life; speech of anger (*HH* §553) | 5 |
+| The anti-body contracting | ch. 6; 32.14–19 | "he with[draws] his limbs... falls to the ground like... a great iron ball" | — | Self-love drawing all into one mass | 5 |
+| The anti-body's members today | ch. 6; 33.5–34.11 | spirits reigning "today" in tyrants, fire-worship, idolatry, baptists, soothsayers; "Live not in them" | — | Every one in hell a devil by his opposition (*HH* §544) | 5 |
+| The universe as a man | ch. 38; 90.20–91.18 | "constructed after the likeness of a man"; ribs, navel, heart = mankind; "F[iv]e g[od]s... his soul and his life" | "the universe is constructed in the form of a human" (p. 94) | The universe representing man by uses (*DLW* §319) | 6 |
+| The guardians as faculties | ch. 38; 91.19–93.10 | Keeper of Splendour "the mind"; King of Honour "the thought"; Adamant "the insight"; King of Glory "the great counsel"; Porter "the consideration" | "the five sons of the Living Spirit are the intellectual qualities" (p. 94) | Faculties ordering the natural | 6 |
+| The body as the universe | ch. 70; 169.28–170.20 | "This whole universe... [re]flects the pattern of the hum[an] body"; "the small body corresponds to the macro-cosmos" | "the correspondence between the micro- and macro-cosmos" (p. 179) | Man as microcosm (*DLW* §319) | 6 |
+| The elect's members | ch. 70; 171.29–172.29 | face, heart, genitals, stomach, feet resembling the five guardians; "another five camps... the Light Mind... and the new man" | — | Members by use (*HH* §96; *DLW* §322) | 6 |
+| Adam | ch. 64; 157.3–158.14 | "the seal of the entire universe is stamped upon Adam"; "a seal-ring and a new impression" | — | Heaven in least form (*HH* §73) | 6 |
+| The body's visible and hidden members | ch. 60; 151.9–152.10 | Father = directive; sun and moon = eyes; living soul = the body struck; Jesus = tongue | "the analogy of the corporeal body" (p. 158) | Provinces of the eyes and tongue (*HH* §96) | 6 |
+| The soul bound in the body | ch. 38; 95.16–19 | "It bound the mind in bone; the thought in sinew; the insight in vein; the counsel in flesh; the consideration in ski[n]" | "The five intellectual qualities were bound in the body" (p. 94) | Degrees in simultaneous order (*DLW* §205); bones and skin of least life (*AC* §5560) | 7 |
+| Release and the new man | ch. 38; 96.13–97.22 | "construct a new man of them"; mind = love, thought = faith, insight = [perfection], counsel = patience, consideration = wisdom; Light Mind as king | new man "ultimately to be derived from Paul" (p. xxxi) | Angel in least form; man from what he has from the Lord (*HH* §73; *AC* §4219) | 7 |
+| The member's fall | ch. 38; 97.26–99.17 | sin mounting consideration → counsel → thought → mind; "he shall want to eat and to drink alone"; "an earthly man" | — | The heterogeneous cast out (*HH* §§64, 68) | 7 |
+| Three images | ch. 114; 269.18–270.24 | corporeal, psychic, spiritual; the new man "sealed with all the limbs"; "this living limb" | the light virgin as "the manifestation of the soul" (p. 275) | Discrete degrees of one person | 7 |
+| Accommodation | ch. 38; 99.25–29 | the Mind "bent over and [has] become small, to this little worthless [bo]dy" | — | The whole present in the least (*AC* §3633) | 7 |
+| The Pillar as column | chs. 7, 62, 71; 35.10–13; 155.10–16; 176.2–6 | "bears up under all things"; "the great porter"; "bore up under the [en]tire uni[verse]"; station of ascent | "the great porter of souls" (p. xxxii); "ascend up the Pillar to the moon" (p. 185) | Column of successive degrees (*DLW* §205); world subsisting from heaven (*HH* §94) | 8 |
+| The Pillar as man | chs. 38, 72, 74; 92.5–6; 177.2–4; 181.10–11 | "the great Mind; who is the Pillar of Glory, the Perfect Man"; "the five intellectuals that [make per]fect the body of the Pillar of Glory, the Perfect Man" | "the representation of the church as the body of Jesus" (p. xxxii) | Solid body of simultaneous degrees (*DLW* §205); church as body | 8 |
+| The First Man as head | ch. 31; 84.21–85.18 | "as the root of all the lim[bs] hang upon the head... He is the head... His head is placed on the body of the Pill[ar of Gl]ory" | "This trunk is the Pillar of Glory which reunites with the First Man at its head" (p. 86) | God-Man as head (*DLW* §24); third heaven as head (*HH* §65) | 8 |
+| The Last Statue | ch. 16; 54.9–24 | "sc[ul]pt it in the Last Sta[t]ue"; "builds upon its body"; "perfect in all its limbs"; "casts from it the polluti[on] that is foreign to it" | "this soul will gather up and rise as the Last Statue" (p. xxxiii) | Society formed "by degrees in a human form" (*HH* §68) | 9 |
+| The butter in the milk | ch. 16; 54.24–55.11 | "gather in to it... the oil and the grease and the 'beauty'"; "bui[ld] them upon [it]s body... in its im[ag]e for ever" | — | Conjunction by like uses (*HH* §64); the inmost conspiring to the form (*AC* §3633) | 9 |
+| Severance | chs. 39, 59; 104.6–12; 149.29–150.11 | "their limbs have been severed"; "separated from the Last Statue"; "just as they desired it an[d] loved it" | "Some of the divine itself can never be redeemed" (p. 156) | The loves of self and the world constituting hell (*HH* §554) | 9 |
+| The gathering | ch. 71; 175.29–176.8 | elements → answer → summons → Mind → Pillar → First Man → Ambassador → aeons; "on one occasion only" | "the eschatological path taken by each soul" (p. 185) | Successive resolved into simultaneous (*DLW* §205) | 10 |
+| Many names, one form | ch. 72; 177.2–178.23 | "a single form, and a single name, unaltered and unchangeable for ever" | "they will all return to a single form and a single name" (p. 186) | One body from a single love (*HH* §§59, 72; *DLW* §22) | 10 |
+| Number at the end | ch. 39; 103.25–29 | "they will not count that season... nor the number of the days, nor the hours" | — | Angels "do not even know what number is" (*AC* §716) | 11 |
 
 ### 15.2 Name Concordance: Gardner and the Library's Edition
 
-[TO BE WRITTEN]
+The library's typeset edition, *The Ancient Word* (version 1.1), prints Gardner's English with the Manichaean names replaced by Persian ones, following the substitution list in its translation notes (pp. 5–6). It also rearranges the text by a structure discovered in the extracted substrate and numbers it by paragraph, so Gardner's page and line references cannot be used in it directly. The concordance lets a reader of the edition find the figures discussed here. The right-hand column reports the edition's own stated basis; this thesis has not verified it (§13.5).
+
+| Gardner's name (used in this thesis) | Name in *The Ancient Word* v1.1 | Edition's stated basis |
+|---|---|---|
+| Father of Greatness | Boundless Time | Zurvan Akarana |
+| First Man | Lord Wisdom | Ohrmazd / Ahura Mazdā |
+| Mother of Life | the Bounteous Spirit | Spenta Mainyu |
+| Living Spirit / Father of Life | the Lord of Covenants | Mihryazd (Mithra) |
+| Third Ambassador | the Envoy | Narisaf (Naryosanha) |
+| Jesus the Splendour | the Kingdom of Wisdom | Xradeshahr |
+| Jesus the Youth | the Living Word | functional title |
+| Light Mind | Good Mind | Vohu Manah |
+| **Pillar of Glory / Perfect Man** | **Hearkening** | Srāosha |
+| Virgin of Light | the Maiden | Kanyāg |
+| Beloved of the Lights | King of Radiance | Roshan-shāh |
+| Great Builder | the Dawn | Bām-yazd |
+| Keeper of Splendour | Master of Wisdom | Xradbed |
+| King of Honour | Lord of the Settled Lands | Visbed |
+| Adamant of Light | Life-Champion | Zandbed |
+| King of Glory | Lord of the Mind | Manbed |
+| the Porter | the Guardian Spirit | Fravashi |
+| Great Judge / Judge of Truth | Justice | Rashnu |
+| Light Form | the Vision | Dāenā |
+| **Last Statue** | **the Final Body** | Tan-ī Pasēn |
+| King of Darkness | Evil Spirit | Angra Mainyu |
+| Matter | Greed | Āz |
+| Cross of Light | the Bound Radiance | functional rendering |
+| the elect | the purified ones | functional rendering |
+| the church / holy church | the living assembly | functional rendering |
+
+Two of these substitutions bear on the argument and are set in bold. The edition's "Hearkening" replaces both halves of the double title "the Pillar of Glory, the Perfect Man." A reader of the edition will therefore not see that the column and the man are one figure (§8). The edition's "the Final Body" keeps the body in the Last Statue's name but drops the statue. That is the human figure the Greek *andrias* names, and the one the text's verb "sculpt," which the edition keeps, presupposes (§9). Neither substitution changes what the underlying text says. Both are reasons this thesis reads Gardner's names.
 
 ### 15.3 Loci of the Body Vocabulary in the Kephalaia
 
-[TO BE WRITTEN]
+The first part of the table reproduces the entries of Gardner's index for the four titles in which the body is named. Loci in parentheses are those Gardner marks as resting on restoration. The second part lists the further passages this thesis reads as descriptions of a body. It is the thesis's own list, not Gardner's.
+
+**From Gardner's index:**
+
+| Title | Loci (K. page.line) |
+|---|---|
+| Last Statue | 29.4; 54.15, 19; 62.20; 71.16; 75.24; 81.6; (86.12); 102.34; 104.5, 12; 150.4, 9; 165.8, 10 |
+| Statue | 55.21; 56.28; 57.17, 26; (63.6); (71.8); 149.30; 150.1, 11 |
+| Perfect Man | 20.15; 24.23; 35.10; 37.3; 75.8; 92.6; 155.11; 177.4; 181.11 |
+| Pillar of Glory | (19.35); 20.15; (24.22); (25.23); 35.10; 37.3; (44.5); 46.32; 49.27; 64.5; 72.35; 84.29; 92.6; 93.21; 155.11; 176.4; 177.4 |
+| new man | 96.22–97.7, 19; 172.3; 215.4; 240.4; 249.19; 257.28; 269.19, 22; 270.1, 5, 7, 22 |
+
+The "new man" loci at 215.4, 240.4, 249.19 and 257.28, and the "Pillar of Glory" loci at 46.32 and 72.35, were not read for this thesis. They are listed so that a later study can test the finding against them.
+
+**Further body passages read in this thesis:**
+
+| Subject | Chapter | Loci (K.) |
+|---|---|---|
+| The Father's five and twelve limbs; the springs | 21 | 64.17–65.5 |
+| A father and his greatness | 20 | 63.19–64.10 |
+| The five fathers from the five limbs | 25 | 76.17–25 |
+| The Father and his love, one living body; the Mind and the church | 63 | 156.1–19 |
+| The third great day; the stature perfected; counting ends | 39 | 103.10–29 |
+| The good tree and its ladder | 2 | 20.1–31 |
+| The bad tree | 2 | 21.28–22.20 |
+| "They did not come from one" | 2 | 22.35–23.9 |
+| The realm of darkness; the King's five shapes; his making; his limbs | 6 | 30.17–32.30 |
+| The five kings and their spirits today; "my brethren and my limbs" | 6 | 33.2–34.12 |
+| The five forms of the ruler; no life but anger; "do not lay upon yourselves" | 27 | 77.25–79.7 |
+| The zones hung on zones | 37 | 89.1–17 |
+| The universe after the likeness of a man; the guardians | 38 | 89.25–93.22 |
+| "So also is this body!" | 38 | 94.17–26 |
+| The soul bound; sin's overlay; release; the new man | 38 | 95.13–97.26 |
+| The fall of the member; accommodation; the Mind in the body | 38 | 97.26–100.17 |
+| The First Man as head; the soul as tower | 31 | 84.10–85.18 |
+| The Pillar among the Ambassador's powers | 7 | 35.8–13 |
+| The Pillar as vehicle | 8 | 37.2–4 |
+| The four days and their twelves | 4 | 25.12–26.27 |
+| The five greatnesses and the twelve parts | 16 | 49.14–50.5 |
+| The counsel and the Last Statue; the butter in the milk | 16 | 54.9–55.11 |
+| The twelve judges; the twelfth sculpting the Statue | 28 | 80.29–81.9 |
+| The visible and hidden members of the divine body | 60 | 151.9–152.10 |
+| The three rocks | 62 | 155.6–29 |
+| Adam sealed with the universe; the rulers' purposes | 64 | 157.3–158.23 |
+| The collector of all things at the last hour | 66 | 165.2–15 |
+| The body after the pattern of the universe; the five camps of the elect | 70 | 169.28–172.29 |
+| The gathering of the elements | 71 | 175.29–176.8 |
+| The garments and the single form | 72 | 176.14–178.23 |
+| The fire on the body of the Perfect Man | 74 | 181.9–11 |
+| The fourth weeping; the severed limbs | 59 | 149.29–150.23 |
+| The twenty-five limbs and the fifty days | 109 | 262.24–264.14 |
+| The three images; "this living limb" | 114 | 269.18–270.24 |
+| The body like the earth, its limbs like trees | 116 | 281.6–8 |
 
 ---
 
 ## 16. Works Cited
 
-[TO BE WRITTEN]
+**Primary Sources:**
+
+1. Böhlig, Alexander, ed. *Kephalaia.* Vol. 1, second half (pp. 244–291). Manichäische Handschriften der Staatlichen Museen Berlin 1.2. Stuttgart: W. Kohlhammer, 1966.
+2. Gardner, Iain, trans. *The Kephalaia of the Teacher: The Edited Coptic Manichaean Texts in Translation with Commentary.* Nag Hammadi and Manichaean Studies 37. Leiden: Brill, 1995. Cited by page and line of the Coptic as K.; the introduction, chapter commentaries, notes and index by page of the book.
+3. *The Holy Bible.* Authorized (King James) Version. Luke 6:43–44 and John 15:13 as identified in Gardner's notes; Ephesians 4:12–16.
+4. Polotsky, H. J., and A. Böhlig, eds. and trans. *Kephalaia.* Vol. 1, first half (fascicles 1–10). Manichäische Handschriften der Staatlichen Museen Berlin 1. Stuttgart: W. Kohlhammer, 1940.
+5. Swedenborg, Emanuel. *Arcana Coelestia.* Translated by John Clowes, revised and edited by John Faulkner Potts. 12 vols. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number as *AC*. Seven as holy and the seventh day as the celestial man at §395; ten as remains at §576; twelve as the things of love and faith in one complex at §577; seven and the absence of number in the internal sense at §716; the eighth day at §2044; twelve as all at §3272; the correspondence of all man's organs with the Grand Man at §3624; the inmost conspiring to the human form at §3633; the Lord alone as Man at §4219; skin, hair and bones at §§5552, 5559–5560.
+6. Swedenborg, Emanuel. *Divine Love and Wisdom.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number as *DLW*. God as very Man at §11; many things felt as one at §22; the church as body with God-Man as head, and the monster of several heads, at §24; successive and simultaneous order at §§205–206; heaven divided into provinces because God is a Man at §288; man as microcosm from the knowledge of correspondences at §319; the image seen in respect of uses at §322; evil uses not created by the Lord at §§336, 339.
+7. Swedenborg, Emanuel. *Heaven and Hell.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number as *HH*. Heaven as a single man at §59; generals and parts at §62; use and the casting out of the heterogeneous at §64; the three heavens as head, breast and feet at §65; a society forming into a man at §68; a single love at §72; every angel in complete human form, and multiplied numbers, at §73; the Divine Human as the source of heaven's human form at §78; correspondence with the members at §§94, 96; the devil as hell at §544; hell as a single devil and the monster at the gate at §553; the loves of self and the world at §554.
+
+**Internal Library Documents:**
+
+8. [The Ancient Word Recovered: Extracting the Correspondential Substrate of the Kephalaia](../00_Framework/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md). The separation of the *Kephalaia*'s correspondential substrate from Mani's frame and the community's frame, and the Last Statue as the substrate's culminating concept (§8.3, Finding 19).
+9. [The Book of Zoroaster and the Children of the East: Material Evidence for the Ancient Word Transmission Hypothesis from the Nag Hammadi Apocryphon of John](The%20Book%20of%20Zoroaster%20and%20the%20Children%20of%20the%20East_%20Material%20Evidence%20for%20the%20Ancient%20Word%20Transmission%20Hypothesis%20from%20the%20Nag%20Hammadi%20Apocryphon%20of%20John.md). The body-creation list of the Apocryphon of John and its attribution to "the book of Zoroaster."
+10. [The Dāmdād Nask and the Bundahišn: A Philological Reconstruction of the Lost Sasanian Encyclopedia](../02_Swedenborgian_Theology/The%20D%C4%81md%C4%81d%20Nask%20and%20the%20Bundahi%C5%A1n_%20A%20Philological%20Reconstruction%20of%20the%20Lost%20Sasanian%20Encyclopedia.md). The Zoroastrian microcosm–macrocosm doctrine of *Bundahišn* chapter 28 and Mani's negative valuation of it (§§IV, 4.3).
+11. [Descent Remembered as Ascent: The Correspondential Origin of the Evolutionary Idea](../06_Mythological_Studies/Descent%20Remembered%20as%20Ascent_%20The%20Correspondential%20Origin%20of%20the%20Evolutionary%20Idea.md). The *Kephalaia*'s two trees read as one faculty in two orientations (§6).
+12. [The Garment and What Wears It: Dating the Correspondential Substrate Beneath the Manichaean Kephalaia](The%20Garment%20and%20What%20Wears%20It_%20Dating%20the%20Correspondential%20Substrate%20Beneath%20the%20Manichaean%20Kephalaia.md). The dating of the architecture the substrate carries, the circularity guard on restored text (§2.4), and chapter 72 read as the text's testimony to its own stratification.
+13. [The Grand Man: An Exhaustive Anatomical Atlas of the Divine Human](../02_Swedenborgian_Theology/The%20Grand%20Man_%20An%20Exhaustive%20Anatomical%20Atlas%20of%20the%20Divine%20Human.md). The library's survey of the provinces of Swedenborg's Grand Man, organ by organ.
+14. [The Resolution of the Finite Mind: Celestial Perception, Numerical Architecture, and the Limit of Spiritual Analysis](../02_Swedenborgian_Theology/The%20Resolution%20of%20the%20Finite%20Mind_%20Celestial%20Perception%2C%20Numerical%20Architecture%2C%20and%20the%20Limit%20of%20Spiritual%20Analysis.md). Numbers as properties of the perceiving mind; five as the radial faculty and its binding from bone to skin (§§5.3–5.4); composite numbers read by prime factors (§7.2); the return to one (§7.3).
+15. [Three Witnesses to One Architecture: Genesis 1–11 and the Correspondential Kephalaia](../06_Mythological_Studies/Three%20Witnesses%20to%20One%20Architecture_%20Genesis%201-11%20and%20the%20Correspondential%20Kephalaia.md). The structural comparison of the *Kephalaia* substrate with the primeval history of Genesis.
+16. [Two Registers of One Perception: The Song of Solomon and the Regenerative Substrate of the Kephalaia](../06_Mythological_Studies/Two%20Registers%20of%20One%20Perception_%20The%20Song%20of%20Solomon%20and%20the%20Regenerative%20Substrate%20of%20the%20Kephalaia.md). The regenerative architecture of the *Kephalaia* set beside the Song of Songs.
+17. [The Unnamed Cartography: A Systematic Validation of Swedenborgian Body-Part Correspondences Against the 365-Angel List of the Apocryphon of John](The%20Unnamed%20Cartography_%20A%20Systematic%20Validation%20of%20Swedenborgian%20Body-Part%20Correspondences%20Against%20the%20365-Angel%20List%20of%20the%20Apocryphon%20of%20John.md). Swedenborg's body-part correspondences tested against the angel list of the Apocryphon of John.
+
+**Data Sources:**
+
+18. manichaean-analysis project (kayna-of-light/manichaean-analysis). The digitised text of Gardner's translation, commentary and index (`output/texts/Kephalaia_of_the_Teacher.md`), from which the passages quoted here were read and their page and line numbers checked. Also the typeset *The Ancient Word: Recovered from the Kephalaia of the Teacher*, version 1.1, translated edition (`output/pdfs/The_Ancient_Word_v1.1.pdf`), used only for the name concordance of §15.2.

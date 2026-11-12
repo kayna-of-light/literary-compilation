@@ -390,7 +390,7 @@ The *Republic* concludes with an explicit afterlife narrative—a near-death acc
 | **The Choice of Lives** | Souls selecting their next incarnation | **Ruling Love** freely chosen determines eternal state |
 | **The River Lethe** | Waters of forgetfulness before rebirth | Immersion in natural/sensory knowledge that obliterates spiritual memory |
 
-The structural parallel with Zoroastrian eschatology (Chinvat Bridge, the journey through planetary governors, the judgment based on deeds) was noted in antiquity. The Epicurean Colotes directly accused Plato of plagiarizing the Myth of Er from a Zoroastrian text.^[20] Under the transmission thesis, this is not plagiarism but shared inheritance—Plato encoding the same tradition the Zoroastrian texts preserve.
+The structural parallel with Zoroastrian eschatology (Chinvat Bridge, the journey through planetary governors, the judgment based on deeds) was noted in antiquity. The Epicurean Colotes was among those who named Zoroaster, not Er, as the father of the Myth of Er, and gave out its text with Zoroaster's name standing in it (Proclus, *In Remp.* 2.109.7–12). Under the transmission thesis, this is not borrowing but shared inheritance—Plato encoding the same tradition the Zoroastrian texts preserve.
 
 ### E. The Ring of Gyges Decoded (*Republic* 359d-360b)
 
@@ -1318,3 +1318,4 @@ The key is available again. The question is whether we will use it.
 51. [The Jamesian Protograph: A Forensic Reconstruction of the Proto-Lukan Nexus, the Q Source, and the Politics of Resurrection](../04_Early_Christian_History/The%20Jamesian%20Protograph_%20A%20Forensic%20Reconstruction%20of%20the%20Proto-Lukan%20Nexus,%20the%20Q%20Source,%20and%20the%20Politics%20of%20Resurrection.md)
 52. [The Genealogy of the Spirit and the Kingdom: An Exhaustive Analysis of Zoroastrian Influence on New Testament Pneumatology and Eschatology](../04_Early_Christian_History/The%20Genealogy%20of%20the%20Spirit%20and%20the%20Kingdom_%20An%20Exhaustive%20Analysis%20of%20Zoroastrian%20Influence%20on%20New%20Testament%20Pneumatology%20and%20Eschatology.md)
 53. Pliny the Elder. *The Natural History.* Translated by John Bostock and H. T. Riley. London: Henry G. Bohn, 1855–1857. Eudoxus and Hermippus on Zoroaster at 30.2.
+54. Proclus. *Procli Diadochi in Platonis Rem publicam commentarii*. Edited by Wilhelm Kroll. 2 vols. Leipzig: Teubner, 1899–1901. Colotes and others on Zoroaster as the father of the Myth of Er at 2.109.7–12.

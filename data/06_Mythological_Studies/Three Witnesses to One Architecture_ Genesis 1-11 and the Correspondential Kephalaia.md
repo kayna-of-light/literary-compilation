@@ -4,7 +4,7 @@
 
 ---
 
-> **Abstract.** This thesis demonstrates that the primeval history of Genesis 1–11 and the correspondential substrate extracted from the Kephalaia of the Teacher present the same spiritual narrative — not as independent witnesses to a common ancestor, but as the full form and its Hebrew compression. The extracted substrate is the Ancient Word itself: the complete correspondential teaching that Swedenborg claimed survived in "Great Tartary" and that the companion thesis (*The Ancient Word Recovered*) has argued was preserved in the Kephalaia's Layer 1 substrate. Genesis 1–11 is the Hebrew condensation of this teaching into approximately 400 verses. Genesis 1:1–2, universally treated as cosmological prologue, is shown to describe the identical starting condition that opens both Kephalaia Chapter 32 (the Seven Works of the Living Spirit) and Chapter 65 (the Seven Works of Divine Wisdom and the Seven Evils of Falsity): the self possesses no light of its own; it is the Lord who descends upon the darkness to enlighten and regenerate it. From this shared origin, the parallel unfolds through eleven chapters of Genesis and approximately thirty chapters of the substrate, covering the seven days of creation (Genesis 1), the celestial architecture of the garden (Genesis 2), the fall into self-intelligence and its consequences (Genesis 3), the division of the will against itself (Genesis 4–5), the catastrophic inundation of falsity and the preservation of a remnant (Genesis 6–9), and the scattering through self-derived intelligence (Genesis 10–11). Where Genesis narrates a single trajectory from void to Babel, the substrate teaches the same content bilaterally, always presenting both the light and dark dimensions that Genesis acknowledges structurally (evening and morning, *tohu wa-bohu*) but does not elaborate. Where Genesis employs the compressed, imagistic language characteristic of the Hebrew scriptures as a whole, the substrate preserves the uncompressed teaching in a didactic register that expounds the spiritual mechanics underlying each image. The structural identity is exact: not approximate, not suggestive, but point-for-point correspondence across every major episode of the primeval history. The conclusion is that we are not looking at two traditions that happen to resemble each other. We are looking at the Ancient Word and one of its national compressions.
+> **Abstract.** This thesis demonstrates that the primeval history of Genesis 1–11 and the correspondential substrate extracted from the Kephalaia of the Teacher present the same spiritual narrative — not as independent witnesses to a common ancestor, but as the full form and its Hebrew compression. The extracted substrate is the Ancient Word itself: the complete correspondential teaching that Swedenborg claimed survived in "Great Tartary" and that the companion thesis (*The Ancient Word Recovered*) has argued was preserved in the Kephalaia's Layer 1 substrate. Genesis 1–11 is the Hebrew condensation of this teaching into 299 verses. Genesis 1:1–2, universally treated as cosmological prologue, is shown to describe the identical starting condition that opens both Kephalaia Chapter 32 (the Seven Works of the Living Spirit) and Chapter 65 (the Seven Works of Divine Wisdom and the Seven Evils of Falsity): the self possesses no light of its own; it is the Lord who descends upon the darkness to enlighten and regenerate it. From this shared origin, the parallel unfolds through eleven chapters of Genesis and nineteen chapters of the substrate, covering the seven days of creation (Genesis 1), the celestial architecture of the garden (Genesis 2), the fall into self-intelligence and its consequences (Genesis 3), the division of the will against itself (Genesis 4–5), the catastrophic inundation of falsity and the preservation of a remnant (Genesis 6–9), and the scattering through self-derived intelligence (Genesis 10–11). Where Genesis narrates a single trajectory from void to Babel, the substrate teaches the same content bilaterally, always presenting both the light and dark dimensions that Genesis acknowledges structurally (evening and morning, *tohu wa-bohu*) but does not elaborate. Where Genesis employs the compressed, imagistic language characteristic of the Hebrew scriptures as a whole, the substrate preserves the uncompressed teaching in a didactic register that expounds the spiritual mechanics underlying each image. The structural identity is exact: not approximate, not suggestive, but point-for-point correspondence across every major episode of the primeval history. The conclusion is that we are not looking at two traditions that happen to resemble each other. We are looking at the Ancient Word and one of its national compressions.
 
 > **Keywords.** Genesis, Kephalaia, Ancient Word, correspondences, Swedenborg, primeval history, regeneration, spiritual architecture, creation narrative, seven days, discrete degrees, Arcana Coelestia
 
@@ -73,7 +73,7 @@ In the companion thesis *The Ancient Word Recovered: Extracting the Corresponden
 
 This thesis asks a different question: **Does the recovered substrate contain the same spiritual narrative as Genesis 1–11?**
 
-The question is generated by Swedenborg's own claim. He taught that Genesis chapters 1 through 11 are not historical narrative but *historia facta* — "made-up history" written *in* correspondences, not *about* correspondences (*Arcana Coelestia* §§66, 1020). The primeval history, on this reading, is a correspondential composition that encodes the entire spiritual biography of the regenerating human being: from the primordial state of spiritual darkness (Genesis 1:1–2), through the seven progressive states of illumination (the seven days), into the celestial architecture of the fully regenerated mind (the garden of Eden), followed by the fall into self-intelligence (the serpent and the fruit), the progressive decline of spiritual perception across generations (the genealogies), the catastrophic inundation of falsity and preservation of a remnant (the flood), and the final dissolution through self-derived reasoning (Babel). If the extracted substrate *is* the Ancient Word, and if Genesis 1–11 is the Hebrew condensation of that Word, then the substrate should contain the full uncompressed form of every spiritual architecture that Genesis encodes in compressed imagery.
+The question is generated by Swedenborg's own claim. He taught that Genesis from its first chapter to the mention of Eber in the eleventh is not historical narrative but *historia facta* — "made-up history" written *in* correspondences, not *about* correspondences (*Arcana Coelestia* §§66, 1020, 1403). The primeval history, on this reading, is a correspondential composition that encodes the entire spiritual biography of the regenerating human being: from the primordial state of spiritual darkness (Genesis 1:1–2), through the seven progressive states of illumination (the seven days), into the celestial architecture of the fully regenerated mind (the garden of Eden), followed by the fall into self-intelligence (the serpent and the fruit), the progressive decline of spiritual perception across generations (the genealogies), the catastrophic inundation of falsity and preservation of a remnant (the flood), and the final dissolution through self-derived reasoning (Babel). If the extracted substrate *is* the Ancient Word, and if Genesis 1–11 is the Hebrew condensation of that Word, then the substrate should contain the full uncompressed form of every spiritual architecture that Genesis encodes in compressed imagery.
 
 That is precisely what we find. And the convergence is not approximate. It is exact.
 
@@ -81,11 +81,11 @@ Chapter 32 of the Kephalaia presents "The Seven Works of the Living Spirit" — 
 
 The parallel extends through the entire primeval history. Genesis 2's garden — its two trees, four rivers, five named elements, the formation of the human faculties, the celestial marriage of understanding and will — unfolds across approximately six Kephalaia chapters (2, 4, 56, 57, 64, 98), each treating one structural element that Genesis compresses into a few verses. Genesis 3's fall — the serpent's reasoning, the appropriation of the divine image, the garments of skin, the expulsion — maps onto Chapters 55 (the self copying the divine form), 23 (the intermingling of wisdom with falsity), 30 (the three coverings of external truth), and 94 (the corruption of the four faculties). Genesis 4–11's arc of decline — fratricide, genealogical diminishment, flood, and Babel — finds its Kephalaia counterpart in Chapters 100 (the anatomy of the self), 57 (the progressive contraction of spiritual generations), 39 and 42–43 (destruction and purification), and 61 and 86 (the towering falsities and interior confusion).
 
-What Genesis narrates in approximately 400 verses, the extracted substrate unfolds across thousands of paragraphs. The relationship between them is not that of two independent traditions that happen to converge on similar themes. It is the relationship between a complete teaching and its national condensation. The substrate — stripped of its later Manichaean and hagiographic overlays — presents the full correspondential architecture: every spiritual process named, every faculty enumerated, every bilateral dimension (light and dark, operative and experiential) explicitly taught. Genesis compresses this entire architecture into the dense, imagistic language characteristic of the Hebrew scriptures: mythopoeic, moving by image rather than exposition, embedding in single verses what the substrate unfolds across entire chapters. Genesis is not a separate witness to a lost original. Genesis is the Hebrew mode of the same teaching that the substrate preserves in its full, uncompressed form.
+What Genesis narrates in 299 verses, the extracted substrate unfolds across thousands of paragraphs. The relationship between them is not that of two independent traditions that happen to converge on similar themes. It is the relationship between a complete teaching and its national condensation. The substrate — stripped of its later Manichaean and hagiographic overlays — presents the full correspondential architecture: every spiritual process named, every faculty enumerated, every bilateral dimension (light and dark, operative and experiential) explicitly taught. Genesis compresses this entire architecture into the dense, imagistic language characteristic of the Hebrew scriptures: mythopoeic, moving by image rather than exposition, embedding in single verses what the substrate unfolds across entire chapters. Genesis is not a separate witness to a lost original. Genesis is the Hebrew mode of the same teaching that the substrate preserves in its full, uncompressed form.
 
 This is a bold claim, and it must be stated plainly: **the correspondential substrate extracted from the Kephalaia is the Ancient Word.** Not a derivative of it, not a parallel tradition that also draws from it, but the teaching itself — the body of correspondential knowledge that Swedenborg identified, that he located in "Great Tartary," and that Genesis 1–11 condenses into the compressed register of Hebrew sacred narrative. The structural identity demonstrated in this thesis is the evidence. Every major episode of the primeval history — creation, garden, fall, fratricide, genealogical decline, flood, covenant, Babel — finds its exact structural counterpart in the substrate, with the same elements in the same sequence governed by the same internal logic. Minor variations exist, as they must across millennia of transmission. But the architecture is not approximately similar. It is the same architecture.
 
-The significance of this finding extends beyond textual criticism. It constitutes direct evidence for three claims simultaneously: (1) that Genesis 1–11 is correspondential composition — a Hebrew condensation of a pre-existing body of correspondential teaching, not historical narrative; (2) that the extracted substrate is that body of teaching in its full form; and (3) that Swedenborg was correct in claiming that the Ancient Word survived in Central Asia. The three witnesses — Genesis, Kephalaia Chapter 32, and Kephalaia Chapter 65, joined by the approximately thirty supporting chapters — do not triangulate toward a hypothetical lost original. They triangulate toward the substrate itself.
+The significance of this finding extends beyond textual criticism. It constitutes direct evidence for three claims simultaneously: (1) that Genesis 1–11 is correspondential composition — a Hebrew condensation of a pre-existing body of correspondential teaching, not historical narrative; (2) that the extracted substrate is that body of teaching in its full form; and (3) that Swedenborg was correct in claiming that the Ancient Word survived in Central Asia. The three witnesses — Genesis, Kephalaia Chapter 32, and Kephalaia Chapter 65, joined by the seventeen supporting chapters — do not triangulate toward a hypothetical lost original. They triangulate toward the substrate itself.
 
 The thesis is organized as follows. Section 2 establishes the methodological framework. Section 3 examines the primordial state of Genesis 1:1–2 as the common starting condition of both Kephalaia creation texts. Section 4 presents the day-by-day parallel between Genesis 1 and Chapters 32 and 65. Section 5 maps the celestial architecture of Genesis 2 across Chapters 2, 4, 56, 57, 64, and 98. Section 6 traces the fall of Genesis 3 through Chapters 55, 23, 30, and 94. Section 7 follows the division and decline of Genesis 4–5 through Chapters 100 and 57. Section 8 examines the flood of Genesis 6–9 through Chapters 39, 42–43, and 59. Section 9 maps Babel from Genesis 10–11 through Chapters 61, 86, and 100. Section 10 discusses the nature of the compression principle, the bilateral character of the Kephalaia teaching, the Hebrew literary mode, and the limitations of the analysis. Section 11 concludes with an assessment of the evidential weight.
 
@@ -101,19 +101,19 @@ This requires a specific kind of reading. Correspondence is not allegory. In all
 
 ### 2.2 Swedenborg's Reading of Genesis 1–11
 
-The spiritual sense of Genesis 1–11 as presented in the *Arcana Coelestia* (§§1–1328) provides the interpretive framework for the Genesis side of the comparison. Swedenborg's reading is not metaphorical overlay but structural analysis: each element of the text corresponds to a specific spiritual reality, and the sequence of elements traces a specific spiritual process. The key structural claims are:
+The spiritual sense of Genesis 1–11 as presented in the *Arcana Coelestia* (§§1–1375) provides the interpretive framework for the Genesis side of the comparison. Swedenborg's reading is not metaphorical overlay but structural analysis: each element of the text corresponds to a specific spiritual reality, and the sequence of elements traces a specific spiritual process. The key structural claims are:
 
-- **Genesis 1:1–2**: The unregenerate state of the human being — spiritual darkness, void, the absence of all light of truth and warmth of good. The "Spirit of God hovering over the waters" is the Lord's mercy, which is present even in this state of darkness, before any work of regeneration has begun.
+- **Genesis 1:1–2**: The unregenerate state of the human being — spiritual darkness, void, the absence of all light of truth and warmth of good. The "Spirit of God … hovering over the face of the waters" is the Lord's mercy, which is present even in this state of darkness, before any work of regeneration has begun.
 - **Genesis 1:3–2:3 (the seven days)**: Seven successive states of regeneration, from the first glimmering of light in the understanding (Day 1) through the full restoration of the celestial human who lives from love (Day 7).
 - **Genesis 2:4–25 (the garden)**: The celestial human in fullness — the "Most Ancient Church" — with its two foundational perceptions (the two trees), its fourfold differentiation of wisdom (the four rivers), its complete faculty structure, and its celestial marriage of understanding and will.
-- **Genesis 3 (the fall)**: The descent into self-intelligence — reasoning from the sensory level (the serpent) about truth that should be perceived directly from love, leading to the appropriation of the divine image as one's own, the covering of spiritual nakedness with external truths (garments of skin), and expulsion from the direct perception of good and truth.
+- **Genesis 3 (the fall)**: The descent into self-intelligence — reasoning from the sensory level (the serpent) about truth that should be perceived directly from love, leading to the appropriation of the divine image as one's own, the clothing of spiritual nakedness with spiritual and natural good (the coat of skin), and expulsion from the direct perception of good and truth.
 - **Genesis 4–5 (Cain and Abel, genealogies)**: The separation of faith from charity (Cain killing Abel), the progressive decline of spiritual perception across generations, the emergence of derivative churches built on remnants of earlier perception.
 - **Genesis 6–9 (the flood)**: The complete inundation of the interior mind by falsity and evil, the preservation of a remnant (Noah and the ark), and the establishment of a new spiritual dispensation built on obedience to external truth rather than direct internal perception.
 - **Genesis 10–11 (nations and Babel)**: The diversification of external worship forms (the "nations") and the final collapse of the ancient correspondential speech into self-derived reasoning (the tower) and mutual incomprehension (the confusion of tongues).
 
 ### 2.3 The Kephalaia Substrate: What Was Extracted
 
-The Kephalaia side of the comparison uses the Layer 1 correspondential substrate extracted by the eight-stage computational pipeline described in the companion thesis. This substrate has been stripped of Mani's Pauline–Marcionite theological framing (Layer 2) and the community's hagiographic apparatus (Layer 3), leaving the pre-Manichaean correspondential teaching in a form that speaks in the register of discrete degrees, internal states, and correspondent natural imagery. The spiritual readings — the translated substrate texts — are the primary data for this comparison.
+The Kephalaia side of the comparison uses the Layer 1 correspondential substrate extracted by the eight-stage computational pipeline described in the companion thesis. This substrate has been stripped of Mani's Pauline–Marcionite theological framing (Layer 2) and the community's hagiographic apparatus (Layer 3), leaving the pre-Manichaean correspondential teaching in a form that speaks in the register of discrete degrees, internal states, and correspondent natural imagery. The spiritual readings — the translated substrate texts — are the primary data for this comparison. Chapters are cited by the manuscript's own numbering, as in Gardner's translation (Gardner 1995), and paragraphs (¶) by the numbering of the spiritual readings; the chapter titles given are those of the spiritual readings, which name each chapter by its spiritual content (Gardner's Chapter 65, for instance, is "Concerning the Sun"). Where the manuscript is broken, the quotations show the lacuna as "[ … ]" and keep the edition's own restorations in square brackets; no reconstruction of a lacuna is quoted.
 
 It is essential to understand what "structural identity" means in this context. Two texts exhibit structural identity when:
 
@@ -143,10 +143,10 @@ This compression principle will be demonstrated throughout the thesis. At every 
 
 > בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ׃ וְהָאָרֶץ הָיְתָה תֹהוּ וָבֹהוּ וְחֹשֶׁךְ עַל־פְּנֵי תְהוֹם וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל־פְּנֵי הַמָּיִם׃
 >
-> "In the beginning God created the heavens and the earth. And the earth was formless and void, and darkness was upon the face of the deep, and the Spirit of God was hovering over the face of the waters."
+> "In the beginning, God created the heavens and the earth. The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters."
 > — Genesis 1:1–2
 
-These two verses contain the most elemental spiritual statement either text makes. Swedenborg reads them as follows: "the heavens and the earth" denote the internal and external human being; "formless and void" (*tohu wa-bohu*) describes the unregenerate state before any light of truth or warmth of good has been received; "darkness upon the face of the deep" names the total absence of spiritual perception in the natural mind; and "the Spirit of God hovering over the waters" is the Lord's mercy, present even in the void, sustaining the possibility of regeneration before any actual work has begun (*Arcana Coelestia* §§16–19).
+These two verses contain the most elemental spiritual statement either text makes. Swedenborg reads them as follows: "the heavens and the earth" denote the internal and external human being; "without form and void" (*tohu wa-bohu*) describes the unregenerate state before any light of truth or warmth of good has been received; "darkness was over the face of the deep" names the total absence of spiritual perception in the natural mind; and "the Spirit of God was hovering over the face of the waters" is the Lord's mercy, present even in the void, sustaining the possibility of regeneration before any actual work has begun (*Arcana Coelestia* §§16–19).
 
 The critical teaching is contained in the spatial relationship: the darkness is *below*; the Spirit is *above*, hovering over the surface. The self — "the earth" — possesses nothing of light, nothing of life, nothing of spiritual substance. All illumination, all regeneration, all spiritual life descends *upon* the self from above. The self is pure receptacle. The darkness is not something that will be *fought*; it is the starting condition that will be *illuminated* — but the light comes from outside the self, not from within it.
 
@@ -170,7 +170,7 @@ The first evil is:
 
 > "Falsity, with which it fills the entire interior life; because when Divine Truth withdraws from the mind and gathers to itself its particular truths, at that instant the shadow of the state of ignorance spreads over the whole of the interior life. The understanding of the soul fills with obscurity. People neither perceive nor apprehend with their intellectual sight, because of the falsity from evil which fills the whole of the mind." (¶14)
 
-This is *tohu wa-bohu* as a living experience. The "formless and void" of Genesis 1:2 is the same state as the "shadow of the state of ignorance" that "spreads over the whole of the interior life." The "darkness upon the face of the deep" is the same as "the understanding of the soul fills with obscurity." Where Genesis names the condition in two words — *tohu wa-bohu* — the Kephalaia unfolds what it feels like from the inside: the experience of having no light of one's own, of the entire interior life filling with the shadow of ignorance.
+This is *tohu wa-bohu* as a living experience. The "without form and void" of Genesis 1:2 is the same state as the "shadow of the state of ignorance" that "spreads over the whole of the interior life." The "darkness … over the face of the deep" is the same as "the understanding of the soul fills with obscurity." Where Genesis names the condition in two words — *tohu wa-bohu* — the Kephalaia unfolds what it feels like from the inside: the experience of having no light of one's own, of the entire interior life filling with the shadow of ignorance.
 
 And then the light side responds:
 
@@ -204,7 +204,7 @@ Chapter 32, "The Seven Works of the Living Spirit," describes seven complete ope
 
 **The First Work:** "It raised up the celestial state of innocence out of the combat of spiritual temptation, as a precious interior truth of faith is drawn up out of the overwhelming mass of merely natural knowledge and falsity" (¶2). — This is the extraction of the first light from the darkness. The celestial principle, submerged in the natural mind's confusion, is drawn upward. Genesis 1:3–5 (Day 1): "Let there be light" — the first separation of light from darkness.
 
-**The Second Work:** "It laid open and exposed the self-love that had turned against divine order, and rendered it powerless throughout every external form and state of the natural mind" (¶3). — The active principle of evil is identified and restrained. Genesis 1:6–8 (Day 2): The separation of the waters above from the waters below — the distinction between interior truths and exterior natural knowledge. Swedenborg notes that Day 2 alone lacks the formula "and God saw that it was good," because this day involves the painful recognition of the separation between what is the Lord's and what is the self's (*AC* §24).
+**The Second Work:** "[It laid open and exposed the self-love that had turned against divine order, and rendered it powerless] throughout every external form and state of the natural mind" (¶3). — The active principle of evil is identified and restrained. Genesis 1:6–8 (Day 2): The separation of the waters above from the waters below — the distinction between interior truths and exterior natural knowledge. Day 2 alone lacks the formula "and God saw that it was good," because this day involves the painful recognition of the separation between what is the Lord's and what is the self's — the day on which, for Swedenborg, a distinction is first made between the internal man and the external (*AC* §24).
 
 **The Third Work:** "It subjugated, confined, and penetrated the inmost root-principles of spiritual death — evil and falsity in their very essences — so that they could no longer operate freely" (¶4). — The deepest evils are rendered inoperative, creating space for new growth. Genesis 1:9–13 (Day 3): Dry land appears and vegetation springs forth — the natural mind becomes capable of producing genuine goods for the first time.
 
@@ -214,7 +214,7 @@ Chapter 32, "The Seven Works of the Living Spirit," describes seven complete ope
 
 **The Sixth Work:** "It arose and sent forth a multitude of spiritual agencies and many truths vivified by good, so that they would guard and complete the boundary of that spiritual order on every side" (¶7). — The regenerate structure is guarded and completed. Genesis 1:24–31 (Day 6): The earth brings forth living creatures and humanity is created in the image of God — the natural mind produces living affections, and the human being is reconstituted in the divine likeness.
 
-**The Seventh Work:** "At the time when the Divine Emissary manifested the beauty of the celestial human form, the Divine Power ordained many governing goods and ministering truths" (¶8). — The completed celestial form is secured against relapse. Genesis 2:1–3 (Day 7): God rests — the regeneration is complete; the celestial state of rest and peace prevails.
+**The Seventh Work:** "At the time when the Divine Emissary manifested the beauty of the celestial human form, the Divine Power proceeding from love and wisdom ordained many governing goods and ministering truths" (¶8). — The completed celestial form is secured against relapse. Genesis 2:1–3 (Day 7): God rests — the regeneration is complete; the celestial state of rest and peace prevails.
 
 The progression is identical in both: rescue from submersion → identification of evil → subjugation of evil → formation of permanent interior vessels → activation of the full faculty system → completion and guarding of the regenerate form → final rest in celestial perfection.
 
@@ -222,7 +222,7 @@ The progression is identical in both: rescue from submersion → identification 
 
 Chapter 65 opens the same seven-stage sequence from the inside — what the mind *experiences* during each stage of illumination. The seven goods of Divine Wisdom and the seven evils of Falsity are not a second narrative running parallel to Chapter 32; they are the same narrative perceived from the receiving end.
 
-**The First Good:** "Its wisdom, which it pours into the understanding. It opens the intellectual sight of all who are in the human state. They perceive the path of life as they walk by its guidance. It removes the ignorance of the state of spiritual darkness, which had closed their understanding with its falsity" (¶5). — The mind's experience of Day 1: perception opens. The first evil correspondingly: "Falsity, with which it fills the entire interior life; the understanding of the soul fills with obscurity" (¶14) — the evening that precedes the morning.
+**The First Good:** "Its wisdom, which it pours into the understanding. It opens the intellectual sight of all who are in the human state. They perceive the path of life as they walk by its guidance. It removes the ignorance of the state of spiritual darkness, which had closed their understanding with its falsity" (¶5). — The mind's experience of Day 1: perception opens. The first evil correspondingly: "falsity, with which it fills the entire interior life … The understanding of the soul fills with obscurity" (¶14) — the evening that precedes the morning.
 
 **The Second Good:** "When Divine Truth enters the mind, by its coming it brings heavenly tranquility and peace to the whole of the interior life. By its coming it also removes from them all the anxiety and dread with which their will was filled during the entire state of darkness" (¶6). — The mind's experience of Day 2: the storm of anxiety settles. But the second evil reveals why Day 2 lacks "and God saw that it was good": "When its obscurity looms forth, its anxiety and its trembling take hold of all who are in the human state" (¶15). The separation of waters above from waters below is experienced as dread and anxiety — the moment when the self recognizes how profound the darkness actually is.
 
@@ -230,7 +230,7 @@ Chapter 65 opens the same seven-stage sequence from the inside — what the mind
 
 **The Fourth Good:** "It nourishes, and gives power, interior perception of good, and perception of truth, to all perceptions and their works, and to all natural knowledges and every form of understanding, and to the first openings of spiritual thought, and to the most general natural truths, which exist upon the whole of the natural mind" (¶8). — The mind's experience of Day 4: every faculty is nourished and empowered. This is the hinge — the transformation from merely receiving light to being *nourished* by it. The fourth evil: "The heaviness of spiritual torpor lays upon them, and they fall into unconsciousness; they become insensible and stupefied, and they are like those who are spiritually dead" (¶17). Where the fourth good gives power to every perception, the fourth evil renders them insensible — spiritual death in the place where spiritual life should take root.
 
-**The Fifth Good:** "The evil lusts that creep in the lowest parts of the mind, and the predatory selfish affections that are filled with malice — they flee into concealment within their hidden interiors" (¶9). — The mind's experience of Day 5: evil is driven into hiding. Where the fifth work of Chapter 32 calls forth the five faculties, the experiential side reveals what happens simultaneously: evil retreats before the activated faculties. The fifth evil: "Its deformity; the spiritual form of the soul is hidden in the obscurity. The beauty and the form of the celestial and the spiritual — the masculine understanding and the feminine will — are not displayed to one another" (¶18). The beauty of the spiritual form is hidden — the conjugial union of understanding and will collapses.
+**The Fifth Good:** "The evil lusts that creep in the lowest parts of the mind, and the predatory selfish affections that are filled with malice — they flee into concealment within their hidden interiors" (¶9). — The mind's experience of Day 5: evil is driven into hiding. Where the fifth work of Chapter 32 calls forth the five faculties, the experiential side reveals what happens simultaneously: evil retreats before the activated faculties. The fifth evil: "Its deformity; again, when the state of falsity descends, the spiritual form of the soul is hidden in the obscurity and the ugliness of that state. The beauty and the form of the celestial and the spiritual — the masculine understanding and the feminine will — are not displayed to one another" (¶18). The beauty of the spiritual form is hidden — the conjugial union of understanding and will collapses.
 
 **The Sixth Good:** "Its truth dissolves the persuasions of falsity employed by every agent of evil" (¶10). — The mind's experience of Day 6: every false persuasion is dissolved. The sixth evil presents the full horror of its opposite: "Evil states of life come forth to do wickedness: the profaners of good, and the thieves of truth, and those who corrupt truth with falsity. The predatory evil affections come forth, and all the lusts that creep in the lowest parts of the mind" (¶19). Where Day 6 brings forth the image of God, the sixth evil brings forth the full menagerie of infernal affections.
 
@@ -253,7 +253,7 @@ One of the most striking features of the convergence is the role of the fourth p
 
 - **Chapter 32, Fourth Work:** "It formed the celestial and spiritual vessels that carry divine wisdom and truth through all the successive states of the mind" (¶5). The first three works clear, expose, and subjugate; the fourth work *builds*. The transition is from destructive/purgative operation to constructive/formative operation.
 - **Chapter 65, Fourth Good:** "It nourishes, and gives power, interior perception of good, and perception of truth, to all perceptions and their works" (¶8). The first three goods open perception, bring peace, and awaken consciousness; the fourth good *nourishes and empowers*. The transition is from receptive experience to active empowerment.
-- **Genesis 1, Day 4:** The sun, moon, and stars are placed in the firmament. Swedenborg notes that Days 1–3 work upon the external or natural mind, while Days 4–6 work upon the internal or spiritual mind (*AC* §30). The fourth day marks the transition from external to internal — from the dim light of natural cognition to the full illumination of spiritual perception. The luminaries of Day 4 are *permanent* — unlike the wandering light of Day 1, these are fixed in the firmament and govern the cycles of time.
+- **Genesis 1, Day 4:** The sun, moon, and stars are placed in the firmament. In Swedenborg's fourth state love and faith are first kindled in the internal man and are called the two luminaries; before it the man discoursed piously and brought forth goods, but "not from faith and charity" (*AC* §§10, 30). The fourth day marks the transition from external to internal — from the dim light of natural cognition to the full illumination of spiritual perception. The luminaries of Day 4 are *permanent* — unlike the wandering light of Day 1, these are fixed in the firmament and govern the cycles of time.
 
 That all three witnesses independently place the structural hinge at the fourth position is significant. A seven-fold structure can be divided many ways: 3+4, 2+5, 1+6. That all three divide at the same point — three preparatory stages followed by four stages of interior development — indicates that the division is not arbitrary but reflects the architecture of the teaching itself. The fourth position is the hinge because regeneration itself has a hinge: the transition from external reformation (correcting behavior, acquiring knowledge, subjugating evil) to internal regeneration (forming new interior vessels, activating spiritual faculties, being reconstituted in the divine image). Three works prepare the ground; the fourth begins the building. Three goods receive the light; the fourth is nourished by it. Three days illuminate the external mind; the fourth establishes permanent interior illumination.
 
@@ -277,21 +277,21 @@ Genesis 2 shifts register. Where Genesis 1 narrated the progressive stages of re
 
 ### 5.1 The Two Trees: Chapter 2
 
-> "And out of the ground the Lord God made to grow every tree that is pleasant to the sight and good for food, the tree of life also in the midst of the garden, and the tree of the knowledge of good and evil." — Genesis 2:9
+> "And out of the ground the LORD God made to spring up every tree that is pleasant to the sight and good for food. The tree of life was in the midst of the garden, and the tree of the knowledge of good and evil." — Genesis 2:9
 
-Swedenborg identifies the two trees as the two fundamental perceptions available to the human being: the tree of life is the perception that proceeds from love and charity (the celestial perception), while the tree of knowledge is the perception that proceeds from faith and understanding (the spiritual-rational perception). The celestial human "in the midst of the garden" perceives truth directly from love; the tree of knowledge represents the alternative — reasoning about truth from the understanding rather than perceiving it from the will (*AC* §§100–105).
+For Swedenborg a tree signifies perception: the tree of life ("the tree of lives") is "love and the faith thence derived", and the tree of knowledge is "faith derived from what is sensuous, that is, from mere memory-knowledge" (*AC* §102); "in the midst of the garden" is in the will of the internal man (§105). The celestial human perceives truth directly from love; the tree of knowledge represents the alternative — reasoning about truth from the senses and from memory-knowledge rather than perceiving it from the will.
 
-Kephalaia Chapter 2, "The Two Trees" (titled in the substrate "The Two Perceptions"), presents the same binary with extraordinary precision:
+Kephalaia Chapter 2 (in Gardner, "concerning the Parable of the Tree"; "The Two Trees" in the spiritual reading) presents the same binary with extraordinary precision. Of the perception rooted in divine wisdom it says:
 
-> "The perception rooted in divine wisdom... possesses five distinct faculties of spiritual life: the outermost reception, the sustaining guidance, the interior seeing, the active understanding, and the inmost willing." (¶15)
+> "This perception possesses five distinct faculties of spiritual life. [They are the outermost reception, the sustaining guidance, the interior seeing, the active understanding, and the inmost willing.]" (¶15)
 
 > "The perception rooted in self-intelligence has five faculties. They are reception, guidance, seeing, understanding, and willing — but inverted." (¶22)
 
-The two perceptions are structurally identical — both possess the same five faculties — but qualitatively opposite. The perception rooted in wisdom ascends through five degrees from communion of charity to the Divine Itself. The perception rooted in self-intelligence descends through five degrees from the rule of spiritual death to "the ultimate mass of consolidated evil, the final bondage, from which there is no turning back" (¶22). And the chapter's teaching culminates in the imperative that governs the entire garden narrative:
+The two perceptions are structurally identical — both possess the same five faculties — but qualitatively opposite. The perception rooted in wisdom ascends through five degrees from communion of charity to the Divine Itself. The perception rooted in self-intelligence descends through five degrees from the rule of spiritual death to "the [ … ] ultimate mass of consolidated evil, the final bondage", a state within which "there is no turning back" (¶22). And the chapter's teaching culminates in the imperative that governs the entire garden narrative:
 
 > "One understands that these two perceptions did not arise out of one another, nor did they proceed from one another. They did not come from a single origin! The person who can distinguish and separate them may ascend into the heavenly state of wisdom." (¶25)
 
-> "Whoever will not distinguish the one from the other falls into the state of falsity from evil until he arrives at the final state from which there is no return." (¶26)
+> "… whoever will not distinguish [ … ] the one from the other falls into the state of falsity from evil [ … ] until he arrives at the [ … ] final state from which there is no return." (¶26)
 
 This is the correspondential content of the two trees *as a commandment*. Genesis embeds it as a divine prohibition — "Of the tree of the knowledge of good and evil you shall not eat" (Genesis 2:17). The Kephalaia unfolds it as an epistemological imperative: to distinguish the perception rooted in wisdom from the perception rooted in self-intelligence is itself the act of remaining in the garden; to fail in this discrimination is itself the fall. The content is identical; the mode of expression is different.
 
@@ -299,7 +299,7 @@ This is the correspondential content of the two trees *as a commandment*. Genesi
 
 > "A river flowed out of Eden to water the garden, and there it divided and became four rivers." — Genesis 2:10
 
-This is one of the most structurally precise parallels in the entire corpus. Genesis describes a single source that divides into four streams, each progressively more external: Pishon (encompassing a land of gold), Gihon (encompassing a land of spices), Tigris (flowing east of Assyria), and Euphrates (the most external). Swedenborg reads these as four degrees of wisdom proceeding from one source: celestial (love itself), spiritual (wisdom from love), rational (truth from wisdom), and natural-sensory (knowledge from truth) (*AC* §§107–121).
+This is one of the most structurally precise parallels in the entire corpus. Genesis describes a single source that divides into four streams, each progressively more external: Pishon (encompassing a land of gold), Gihon (encompassing a land of spices), Tigris (flowing east of Assyria), and Euphrates (the most external). Swedenborg reads the river as wisdom from love, parted into four: Pishon is the intelligence of the faith that is from love, Gihon the knowledge of all things of good and truth, Hiddekel (the Tigris) reason, and Phrath (the Euphrates) memory-knowledge — the order in which, from the Lord, wisdom proceeds through intelligence and reason until the knowledges of the memory are vivified (*AC* §§107, 110, 116, 118, 121).
 
 Kephalaia Chapter 4, "The Four Great States of Illumination and the Four Great States of Obscurity," presents the identical architecture:
 
@@ -311,13 +311,13 @@ The progression is identical to the four rivers: one source, four states proceed
 
 But the Kephalaia goes further — it presents the bilateral counterpart that Genesis does not elaborate. Where Genesis simply names four rivers, Chapter 4 also presents the four states of obscurity:
 
-> "The first state of obscurity is the realm of falsity from evil... The second state of obscurity is the self, the fashioner of dead forms... The third state of obscurity is the five corporeal realms dominated by natural evil... The fourth state of obscurity is the ruling principle of evil in the natural mind." (¶8–14)
+> "The first state of obscurity is the realm of falsity from evil... The second state of obscurity is the proprium, the fashioner of dead forms... The thir[d state of obscurity is the five] corporeal realms dominated by natural evil... The fourth state of obscurity is the ruling principle of evil in the natural mind." (¶8–14)
 
 The four rivers have their dark counterpart — four degrees of spiritual obscurity proceeding from one another just as the four illuminations do. Genesis does not narrate this dark side in the garden account; it reserves it for the serpent's speech in Chapter 3. But the Kephalaia presents both dimensions simultaneously as part of the same teaching structure.
 
 ### 5.3 The Five Faculties and Three Distinctions: Chapters 56 and 64
 
-> "Then the Lord God formed man of dust from the ground, and breathed into his nostrils the breath of life; and man became a living being." — Genesis 2:7
+> "… then the LORD God formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature." — Genesis 2:7
 
 The formation of the human being — from external material ("dust") into a living soul ("the breath of life") — compresses a vast faculty-architecture that the Kephalaia unfolds across multiple chapters.
 
@@ -325,7 +325,7 @@ Chapter 64, "The Three Distinctions of the Earliest Humanity," names the three q
 
 > "The first: The likeness of the Divine itself was received into the inmost will... Because of this, the representative form of that earliest humanity was found to surpass in beauty every other organized receptacle of life." (¶3)
 
-> "The second: That earliest humanity was organized in its interior arrangement through the wisdom proceeding from the firstborn emanations of divine good and divine truth — the five discrete faculties of spiritual perception." (¶4)
+> "The second: That earliest humanity was organized in its interior arrangement through the wisdom proceeding from the firstborn emanations of divine good and [ … ] divine truth — the five discrete faculties of spiritual perception." (¶4)
 
 > "The third comprises all doctrines, all interior guidance, and the representative correspondences of every spiritual force... The correspondence of the entire spiritual world is inscribed upon that earliest humanity." (¶5)
 
@@ -335,9 +335,9 @@ Chapter 56 adds the mechanism: how the faculties were formed, how the self attem
 
 ### 5.4 The Most Ancient Church: Chapter 57
 
-> "And the man and his wife were both naked, and were not ashamed." — Genesis 2:25
+> "And the man and his wife were both naked and were not ashamed." — Genesis 2:25
 
-Swedenborg identifies the earliest humans described in Genesis 2 as the "Most Ancient Church" — a spiritual state characterized by direct internal perception of good and truth, without the need for external doctrine or rational mediation (*AC* §§124–140). This is the state of "nakedness without shame": the transparency of the will and understanding to one another, with no external covering needed because there is nothing to conceal.
+Swedenborg identifies the earliest humans described in Genesis 2 as the "Most Ancient Church" — a spiritual state characterized by direct internal perception of good and truth, without the need for external doctrine or rational mediation (*AC* §104). Their being "naked, and not ashamed" is innocence (§§163, 165): the transparency of the will and understanding to one another, with no external covering needed because there is nothing to conceal.
 
 Chapter 57 provides the Kephalaia substrate's portrait of this same primordial humanity:
 
@@ -351,13 +351,13 @@ And it describes the consequences of this contraction:
 
 > "The duration of spiritual life among people has contracted to almost nothing. Their states of illumination have diminished. Their interior states have grown fewer." (¶7)
 
-This is the same trajectory that Genesis traces through the genealogies of Chapters 4–5 and the pre-flood narrative: a primordial humanity of vast spiritual capacity, progressively diminishing across generations until "every inclination of the thoughts of the human heart was only evil continually" (Genesis 6:5). Chapter 57 provides the systematic framework for what Genesis narrates through lifespans and genealogical lists. The "900-year" lifespans of the patriarchs are the Hebrew compression of Chapter 57's teaching that the earliest spiritual generations possessed abundant and enduring states of interior life.
+This is the same trajectory that Genesis traces through the genealogies of Chapters 4–5 and the pre-flood narrative: a primordial humanity of vast spiritual capacity, progressively diminishing across generations until "every intention of the thoughts of his heart was only evil continually" (Genesis 6:5). Chapter 57 provides the systematic framework for what Genesis narrates through lifespans and genealogical lists. The "900-year" lifespans of the patriarchs are the Hebrew compression of Chapter 57's teaching that the earliest spiritual generations possessed abundant and enduring states of interior life.
 
 ### 5.5 Masculine Understanding and Feminine Will: Chapter 65, ¶18
 
-> "Therefore a man leaves his father and his mother and cleaves to his wife, and they become one flesh." — Genesis 2:24
+> "Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh." — Genesis 2:24
 
-The celestial marriage — the union of understanding and will, truth and good, the intellectual and the volitional — is the culminating element of the garden architecture. Swedenborg identifies this "one flesh" as the state of the celestial human in whom love and wisdom are not separate faculties but a single living principle (*AC* §§155–161).
+The celestial marriage — the union of understanding and will, truth and good, the intellectual and the volitional — is the culminating element of the garden architecture. Swedenborg finds the heavenly marriage in the inmost contents of the passage (*AC* §155), and reads "one flesh" as the internal man present in the external, the two "there together" (§160).
 
 In a passage of extraordinary specificity, Chapter 65 names this union using the identical terms:
 
@@ -367,15 +367,15 @@ This is a negative description — what happens when the union is disrupted — 
 
 ### 5.6 Pristine Innocence: Chapter 98
 
-> "And the man and his wife were both naked, and were not ashamed." — Genesis 2:25
+> "And the man and his wife were both naked and were not ashamed." — Genesis 2:25
 
 Chapter 98, "On the Virginal and the Continent," provides the Kephalaia's teaching on the character of pristine spiritual innocence — the state that Genesis describes as nakedness without shame:
 
-> "What is called 'pristine' belongs to the mystery of the infinite degrees of Divine order. It is called 'pristine' by virtue of all the wisdom that never underwent spiritual death, nor descended into the conflict that falsity wages against good." (¶3)
+> "What is called 'pristine' belongs to the mystery of the infinite degrees of Divine order. It is called 'pristine' by virtue of all the wisdom that never [underwent] spiritual death, nor descended into the conflict that falsity wages against good." (¶3)
 
-> "However, what is called 'restored' pertains to the mystery of the wisdom that descended and became intermingled with falsity. It was defiled in corporeal and sensory states and yet ascended again toward its celestial origin." (¶4)
+> "However, what is called 'restored' pertains to the mystery of the wisdom that descended and became intermingled with falsity. It was defiled in corporeal and sensory states [ … ] and yet ascended again toward its celestial origin." (¶4)
 
-The distinction between "pristine" (*virginal*) and "restored" (*continent*) wisdom maps precisely onto the distinction between the pre-fall innocence of Genesis 2:25 and the post-fall state of those who have been regenerated through struggle. The pristine state never knew shame because it never descended into conflict. The restored state has tasted self-love and concupiscence "but afterward was cleansed from these and became a holy state of good" (¶6).
+The distinction between "pristine" (*virginal*) and "restored" (*continent*) wisdom maps precisely onto the distinction between the pre-fall innocence of Genesis 2:25 and the post-fall state of those who have been regenerated through struggle. The pristine state never knew shame because it never descended into conflict. The restored state has tasted self-love and concupiscence "but afterward it was cleansed from these and [became a] holy state of good" (¶6).
 
 Genesis compresses this entire teaching into a single verse. The Kephalaia unfolds it into a systematic distinction between two kinds of innocence — one that precedes conflict and one that is won through it — corresponding to the innocence of the celestial church (Genesis 2) and the innocence of the spiritual church that follows the flood (Genesis 9 onward).
 
@@ -389,7 +389,7 @@ Genesis 3 narrates the single most consequential event in the primeval history: 
 
 ### 6.1 The Image and Its Imitations: Chapter 55
 
-> "Now the serpent was more crafty than any other beast of the field that the Lord God had made." — Genesis 3:1
+> "Now the serpent was more crafty than any other beast of the field that the LORD God had made." — Genesis 3:1
 
 The serpent is the sensory mind — the lowest level of cognition — reasoning about spiritual things that are above its competence (*AC* §§194–197). Its "craftiness" is not evil per se; it is the application of sensory logic to matters of internal perception. The fall begins not with malice but with *reasoning* — the self-derived faculties beginning to examine what should be received directly from love.
 
@@ -397,27 +397,27 @@ Chapter 55, "The Image and Its Imitations," provides the Kephalaia substrate's f
 
 > "The self-derived faculties and the ruling powers of the natural mind perceived the form of the Divine Human, and they fashioned their own will and understanding after its likeness — which are the voluntary and the intellectual of the merely natural self." (¶1)
 
-> "They reflected upon themselves and perceived that they had no form or being like the Divine Human in anything they had produced. They impressed the form of the Divine Human upon their will, within their interior life. Afterward they constructed an external likeness; they formed the voluntary and intellectual faculties of the natural self." (¶3)
+> "They reflected upon themselves and perceived that [they] had no [form or being] like the Divine Human in anything they had produced. They impressed the form of the Divine Human upon their will, within their interior life. Afterward they constructed an external likeness; they formed the voluntary and intellectual faculties of the natural self." (¶3)
 
-> "And so they copied it as an imitation; but they have not copied it in truth! Rather, just as a reflection in a distorted mirror is made to resemble the original, for it came from the appearance of the original but it is not like the original in genuine reality." (¶3)
+> "And so they copied it as an imitation; but they have not copied it in truth! Rather, just as [ … ] is made to resemble the original, for it came [ … ] but it is not like the original in genuine reality." (¶3)
 
-This is the anatomy of the fall as a *mechanism*. The serpent's question in Genesis — "Did God really say?" — is the natural mind *reflecting upon itself* and discovering that it lacks the divine form. The eating of the fruit is the act of *copying* the divine image into the natural mind's own faculties — forming a will and understanding that look like the divine pattern but are fashioned from self-intelligence rather than received from the Lord. The Kephalaia is extraordinarily precise: the copy is not bad because it is structurally different from the original; it is bad because it is *self-generated* rather than divinely given. The mirror image resembles the face, but it has no life of its own.
+This is the anatomy of the fall as a *mechanism*. The serpent's question in Genesis — "Did God actually say … ?" — is the natural mind *reflecting upon itself* and discovering that it lacks the divine form. The eating of the fruit is the act of *copying* the divine image into the natural mind's own faculties — forming a will and understanding that look like the divine pattern but are fashioned from self-intelligence rather than received from the Lord. The Kephalaia is extraordinarily precise: the copy is not bad because it is structurally different from the original; it is bad because it is *self-generated* rather than divinely given. The copy is made to resemble the original, but it is not like the original in genuine reality.
 
 And then the chapter provides the crucial spiritual dynamic — the *motivation* for the fall:
 
-> "The proceeding Divine Truth... did not come so that it might reveal its form to the self-derived faculties of the natural mind. Rather, it came and manifested itself throughout the natural plane because of the entrapped divine life and the proceeding truth within, which is bound within every state of the natural mind, so that it might enable that divine life to live and be restored." (¶2)
+> "Regarding Divine Truth proceeding — when it came forth manifesting the form of the Divine Human, it did not come so that it might reveal its form to the self-derived faculties of the natural mind. Rather, it came and manifested itself throughout the natural plane because of the entrapped divine life and the proceeding truth within, which is [ … ] every [ … ], so that it might enable that divine life to live [ … ], and bring about its liberation." (¶2)
 
-The Divine displayed its form in order to *liberate* the divine life entrapped in the natural mind, not to give the natural mind a pattern to copy. But the natural mind, perceiving the divine form, "lusted after it" (¶3) and fashioned its own version. This is the precise mechanism behind Genesis 3:6 — "the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise." The three inducements (appetite, aesthetic delight, desire for wisdom) are the natural mind's three modes of lusting after the divine form: through the will (good for food), through the affections (a delight to the eyes), and through the understanding (desired to make one wise).
+The Divine displayed its form in order to *liberate* the divine life entrapped in the natural mind, not to give the natural mind a pattern to copy. But the natural mind, perceiving the divine form, "lusted after its image" (¶3) and fashioned its own version. This is the precise mechanism behind Genesis 3:6 — "the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise." The three inducements (appetite, aesthetic delight, desire for wisdom) are the natural mind's three modes of lusting after the divine form: through the will (good for food), through the affections (a delight to the eyes), and through the understanding (desired to make one wise).
 
 ### 6.2 The Two Principles and the Descent into Temptation: Chapter 23
 
-> "In the sweat of your face you shall eat bread, till you return to the ground, for out of it you were taken; for you are dust, and to dust you shall return." — Genesis 3:19
+> "By the sweat of your face you shall eat bread, till you return to the ground, for out of it you were taken; for you are dust, and to dust you shall return." — Genesis 3:19
 
 Genesis 3's expulsion narrative — the curses, the toil, the return to dust — describes the consequences of the intermingling of wisdom with falsity. The garden state, in which truth was perceived directly from love, gives way to a state where truth must be labored for through the sweat of rational effort.
 
 Chapter 23, "The Two Principles and the Descent into Temptation," provides the cosmic backstory that Genesis compresses into a curse:
 
-> "From that time, when divine wisdom was intermingled with the realm of falsity, and spiritual life with spiritual death, wisdom became enmeshed with falsity, life entangled in the midst of death." (¶5)
+> "From that time, when divine wisdom was intermingled with [the realm of] falsity, and spiritual life with spiritual death, wisdom [became] enmeshed with falsity, [ … ] life entangled in the midst of death." (¶5)
 
 The moment evil "stirred itself from within its own nature and rose up in assault against divine wisdom" (¶4) is the spiritual event that Genesis narrates as the serpent's approach. And the consequence — wisdom enmeshed with falsity, life entangled with death — is the condition that Genesis describes as the expulsion from Eden. The human being is not *removed* to a different location; the human being's internal state *changes* so that what was immediate becomes mediated, what was transparent becomes opaque, what was received from love must now be labored for through understanding.
 
@@ -425,17 +425,17 @@ The chapter's description of how evil escalated — generating five fundamental 
 
 ### 6.3 The Garments of Skin: Chapter 30
 
-> "And the Lord God made for Adam and for his wife garments of skins, and clothed them." — Genesis 3:21
+> "And the LORD God made for Adam and for his wife garments of skins and clothed them." — Genesis 3:21
 
-Swedenborg reads the garments of skin as the *external truths* that the Lord provides to clothe the spiritual nakedness of the fallen human being. Having lost the transparency of celestial perception, the human is given a protective covering of natural-rational understanding — truth apprehended from the outside rather than perceived from within (*AC* §§216–218).
+Swedenborg reads the "coat of skin" as spiritual and natural good, with which the Lord clothed those who had lost their innocence: celestial good, being inmost, is not clothed, but celestial-spiritual good is first clothed, and then natural good (*AC* §§294–297). Having lost the transparency of celestial perception, the human is given a protective covering at a more external degree — apprehended from the outside rather than perceived from within.
 
 Chapter 30, "The Three Coverings of External Truth," provides the systematic content that Genesis compresses into a single verse:
 
-> "When the living Divine influx descended from the Lord, it bore with it three coverings of external truth: the truth of rational understanding, the truth of love's activity, and the truth of natural knowledge. The Divine appropriated these coverings from the celestial origin; it clothed itself within them, within those three external truths, so that the Divine might operate through successive degrees." (¶1)
+> "When the living Divine influx descended from the Lord, it bore with it three coverings of external truth: the truth of rational understanding, the truth of love's activity, and the truth of natural knowledge. The Divine appropriated these coverings from [ … ] the celestial origin; it [ … ] clothed itself within them, within those three external truths, [ … ] so that the Divine might operate through successive degrees." (¶1)
 
 Three coverings, not one: rational understanding, active love, and natural knowledge. These are the successive layers of external truth through which the Divine operates in the post-fall state. The single "garment of skin" in Genesis compresses three degrees of covering into one image. And the Kephalaia adds the dynamic that Genesis merely implies — that these coverings are temporary:
 
-> "When the Divine purpose was accomplished, its goods of use and the interior reality was laid bare — it divested itself of these external coverings before those who live in the good of charity." (¶1)
+> "Thereafter, [ … ] when the Divine purpose was accomplished, its goods of use [ … ] and the [ … ] interior reality was laid bare — it divested itself of these external coverings before those who live in the good of charity." (¶1)
 
 The garments are not permanent. They are provided for the period of exile — the post-fall dispensation in which truth must come through external mediation — and will be removed when the regenerated human can once again perceive truth directly. This is the Kephalaia's unfolded version of the entire biblical arc from clothing to unclothing, from the garments of Genesis 3 to the white robes of Revelation 7.
 
@@ -445,13 +445,13 @@ Genesis 3 does not merely describe the fall as an event; it describes the *corru
 
 Chapter 94, "The Purification of the Four Fundamental Faculties," presents this corruption systematically:
 
-> "The four fundamental faculties of the spiritual mind — love, wisdom, truth, and perception — are what is undergoing regeneration. From their origin in the Divine they are holy, alive with spiritual life, and illuminating with heavenly light. However, when they entered into the first spiritual combat of temptation, the corruption of evil was intermingled with them." (¶2)
+> "The four fundamental faculties of the spiritual mind — love, wisdom, truth, and perception — [are what is] undergoing regeneration. From their origin in the Divine they are holy, alive with spiritual life, and illuminating with heavenly light. However, when they entered into [ … ] the first spiritual combat of temptation, the corruption of evil was [intermingled] with them." (¶2)
 
 The chapter then traces the specific corruption that each faculty generates when it falls:
 
 > "The corruption that love turned to self-love disgorges and deposits in the natural mind is the profaned life-force of perverted vitality. The emanation of that perverted vitality is the burning of wrath. The emanation of wrath is the disordered flowing states of the unregenerate mind." (¶3)
 
-> "The corruption that wisdom in its fallen state disgorges is the selfhood. The emanation of the self is spiritual obscurity and darkness of understanding. The emanation of that spiritual obscurity is hardened resistance against all divine influx — obstinacy of will." (¶5)
+> "The corruption that wisdom in its fallen state disgorges is the selfhood — the proprium. The emanation of the proprium is spiritual obscurity and darkness of understanding. [The] emanation of that spiritual obscurity is hardened resistance against all divine influx — obstinacy of will." (¶5)
 
 Four faculties, each generating three emanations of corruption — twelve corruptions in total. The Genesis curses compress this twelve-fold system into four narrative images: the serpent (corrupted perception), the pain of women (corrupted love), the toil of men (corrupted wisdom/truth), and death (corrupted will). The Kephalaia unfolds the mechanics; Genesis narrates the images. The content is the same.
 
@@ -465,17 +465,17 @@ The Kephalaia substrate provides the mechanism for both movements.
 
 ### 7.1 The Dragon of the Self: Chapter 100
 
-> "And Cain rose up against his brother Abel, and killed him." — Genesis 4:8
+> "Cain rose up against his brother Abel and killed him." — Genesis 4:8
 
-Swedenborg reads Cain as faith separated from love, and Abel as love itself (*AC* §§340–367). The murder is not an event on the natural plane but a spiritual catastrophe: the moment when the post-fall human church decided to make faith (intellectual understanding of truth) the primary principle and subordinated love to it. This separation is the spiritual "mark of Cain" — the condition of a church that possesses truth without the love that gives truth its life.
+Swedenborg reads Cain as faith separated from love, and Abel as charity (*AC* §§340–342, 367). The murder is not an event on the natural plane but a spiritual catastrophe: the moment when the post-fall human church decided to make faith (intellectual understanding of truth) the primary principle and subordinated love to it. This separation is the spiritual "mark of Cain" — the condition of a church that possesses truth without the love that gives truth its life.
 
-Chapter 100, "The Dragon of the self," provides the anatomical portrait of how this separation operates within the individual:
+Chapter 100, "The Dragon of the Proprium" (in Gardner, "Concerning the Dragon with Fourteen Heads"), provides the anatomical portrait of how this separation operates within the individual:
 
-> "There exists a ruling falsity of the selfhood possessing fourteen powers of dominion, and it is gathered inward and concealed within a hidden interior state furnished with five containing forms in the natural mind where it takes refuge." (¶1)
+> "There exists a ruling falsity of the selfhood possessing fourteen powers of dominion, and it is gathered inward and [ … ] concealed within a hidden interior state furnished with five containing forms in the natural mind where it takes refuge." (¶1)
 
 Fourteen powers of dominion: seven faculties of natural perception in the interior rational mind and seven corresponding faculties in the exterior sensory mind. These are the cognitive apparatus of the self — the full set of faculties through which self-derived intelligence exercises its rule over the whole person:
 
-> "The seven natural faculties of perception belonging to the external mind are: the two of intellectual apprehension, by which one discerns; the two of obedience and reception, by which one perceives what is communicated; the two of interior discernment, by which one detects what is spiritually agreeable or repugnant; also the faculty of discrimination, by which one selects, receiving there the various qualities of delight and aversion that arise in every form of experience." (¶4)
+> "The seven natural faculties of perception belonging to the external mind are: the two of intellectual apprehension, by which one discerns; the two of obedience and reception, by which one perceives what is communicated; the two of interior discernment, by which one detects what is spiritually agreeable or repugnant; also the faculty of discrimination [ … ], by which one selects, receiving there the various qualities of delight and aversion that arise in every form of experience." (¶4)
 
 And five concealed recesses from which the self operates:
 
@@ -491,7 +491,7 @@ What Genesis compresses into a genealogy of Cain's descendants — Enoch, Irad, 
 
 The declining lifespans in Genesis 5 — from Adam's 930 years to the lifetimes preceding the flood — are understood by Swedenborg as representing not biological longevity but the diminishing spiritual capacity of successive dispensations within the Most Ancient Church (*AC* §§460–536). Each "generation" is a distinct spiritual state, and the numerical decline tracks the loss of celestial perception through cumulative reliance on self-derived understanding.
 
-Chapter 57, "The Five Governing Degrees of Spiritual History," provides explicit structural confirmation of this reading. The chapter opens with the question that Genesis 5 implicitly addresses:
+Chapter 57 (in Gardner, "Concerning the Generation of Adam") provides explicit structural confirmation of this reading. The chapter opens with the question that Genesis 5 implicitly addresses:
 
 > "Concerning the Most Ancient Church, the first spiritual state of humanity. When it was constituted inwardly, how was its spiritual character formed? ... Does a distinction exist between how that primordial perception of good and truth came into being and how regeneration proceeds now?" (¶1)
 
@@ -505,7 +505,7 @@ Chapter 57 is explicit about the mechanism of decline:
 
 > "In the beginning of the spiritual generations, the powers that governed the complete celestial states held sway. Therefore, because of this, the spiritual offspring brought forth in their generations and under their life: their states of interior life were found to be the greatest. They attained enduring spiritual life in the era of the Most Ancient Church." (¶4)
 
-> "After they ceased to reign — namely the governing principles that ruled the complete celestial states — the powers that govern the states of spiritual change themselves took dominion. As the states of spiritual change are lesser than the complete celestial states, so again the spiritual offspring who were brought forth under them are also diminished." (¶5)
+> "After they ceased to reign — namely the governing principles that ruled the complete celestial states — the powers that govern the states of spiritual change themselves took dominion. As the states of spiritual change are lesser than the complete celestial states, so again [this diminishment] is also the case with the spiritual offspring who were brought forth under them." (¶5)
 
 Each successive governing principle is *lesser* than the one before it. Not because God withdraws, but because the human vessel's capacity to receive diminishes. The lifespans are not arbitrary numbers — they encode the duration of each dispensation's governing principle. And the final state — "momentary perception" — is the condition just before the flood: the Most Ancient Church reduced to the thinnest possible thread of contact with the Divine, a momentary flash where once there had been sustained celestial communion.
 
@@ -521,7 +521,7 @@ Four Kephalaia chapters unfold the mechanics of this dissolution.
 
 ### 8.1 The Three Great States and Two Spiritual Deaths: Chapter 39
 
-> "The Lord saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually." — Genesis 6:5
+> "The LORD saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually." — Genesis 6:5
 
 Chapter 39, "The Three Great States and the Two Spiritual Deaths," provides the macro-historical architecture within which the flood must be situated:
 
@@ -533,7 +533,7 @@ The first state is the original descent of the celestial principle — the Divin
 
 The "first spiritual death" is the intermingling of evil with the five perceptive faculties:
 
-> "The first spiritual death is the condition in which falsity from evil commingled with the five perceptive faculties of the celestial principle." (¶6)
+> "[The first spiritual death] is the condition in which falsity from evil commingled with the five perceptive faculties of the celestial principle." (¶6)
 
 This is the flood. The celestial faculties — the five modes of perception described in Chapter 56 — are overwhelmed by the falsities of self-love. The flood waters are this commingling: every faculty of celestial perception saturated by falsity until "every intention of the thoughts of his heart was only evil continually." The ark is the Divine preservation of the celestial principle *through* this saturation, not around it.
 
@@ -543,7 +543,7 @@ The second state is the regenerated dwelling in renewed external forms:
 
 This is the Noachian covenant — the post-flood dispensation where truth is no longer perceived directly from love but received through doctrinal understanding. And the third state is the final unveiling:
 
-> "The great third state is the time when the Divine itself will unveil over them its own likeness in fullness beyond comprehension and raises them up into itself and receives them into the inmost hidden treasury of the Divine memory." (¶9)
+> "The great third state [is the time] when the Divine itself will unveil over them its own likeness [ … ] and raises them up [ … ] and receives them into the inmost hidden treasury of the Divine memory." (¶9)
 
 Genesis 6–9 compresses all three states into a single narrative of destruction, preservation, and covenant. Chapter 39 unfolds the architecture.
 
@@ -551,11 +551,11 @@ Genesis 6–9 compresses all three states into a single narrative of destruction
 
 > "Make yourself an ark of gopher wood. Make rooms in the ark, and cover it inside and out with pitch." — Genesis 6:14
 
-Chapter 42, "The Three Containing Forms and the Twelve Works of Purification," describes the mechanics of how falsity is expelled from the interior mind — the process that the ark narrative symbolizes. The three containing forms — "falsified truth, falsity itself, and infernal desire" (¶1) — are the three categories of evil that must be removed for regeneration to proceed.
+Chapter 42, "The Three Containing Forms and the Twelve Works of Purification," describes the mechanics of how falsity is expelled from the interior mind — the process that the ark narrative symbolizes. The three containing forms — "of falsified truth, of falsity itself, and of infernal desire" (¶1) — are the three categories of evil that must be removed for regeneration to proceed.
 
 The method of their removal is remarkable in its precision:
 
-> "They are like the form of a mind that has fallen into deep corruption of understanding. Other distortions and disorders dwell within it, and even bitter hostility and hidden evils pervade its interior will. It is restored to spiritual health by Divine Wisdom, who administers one truth to be received inwardly that causes the corruption to break forth through the higher faculties, and administers another truth to be received that causes the disorder to be expelled through the lower natural mind, and administers yet another truth that heals the distortions gently and without disturbance." (¶3)
+> "They are like the form of a mind that has fallen into deep corruption of understanding. Other distortions and disorders dwell within it, and even bitter hostility and hidden evils pervade its interior will. It is restored to spiritual health by Divine Wisdom, who administers one truth to be received inwardly that causes the corruption to break forth through the higher faculties, and administers another truth to be received that causes the disorder to be expelled through the lower natural mind, and administers yet another truth that heals the distortions [ … ] gently and without disturbance." (¶3)
 
 Three truths applied to three forms of evil — a medical model of spiritual purification that operates through *successive degrees*. And then the chapter provides the systematic anatomy of the ark itself:
 
@@ -625,7 +625,7 @@ The Kephalaia substrate provides the mechanism for the tower's construction, the
 
 ### 9.1 The Towering Falsities: Chapter 61
 
-> "Come, let us build ourselves a city, and a tower with its top in the heavens, and let us make a name for ourselves." — Genesis 11:4
+> "Come, let us build ourselves a city and a tower with its top in the heavens, and let us make a name for ourselves." — Genesis 11:4
 
 The tower is self-intelligence elevated into the realm of spiritual truths — the natural mind constructing a system that reaches toward the celestial from below rather than receiving influx from above. Its bricks are falsities cemented together by self-love. Its "top in the heavens" is the claim to heights that can only be reached through reception, not construction.
 
@@ -637,13 +637,13 @@ The chapter describes ruling evils of incomprehensible magnitude that absorbed a
 
 > "In the state when the Celestial Principle of Good clothed itself with the fundamental goods and truths, and stood firm against the primal enmity that had arisen within falsity from evil, it confronted those great and dominant ruling evils. They are beyond all comprehension, exceeding in magnitude and reach any degree the mind can reckon." (¶6)
 
-> "There were seven streams of truth flowing into the reception of each one of them, yet they could not be brought to satiation within a single interior, to their fullness — because in turn the descent of truth into their interior was consumed by the burning of self-love and its concupiscence." (¶7)
+> "There were seven streams of truth flowing into the reception of each one of them, yet they could not [ … ] be brought to satiation within a single interior, to their fullness — because in turn the descent of truth into their interior was consumed by the burning of self-love and its concupiscence." (¶7)
 
 Seven streams of truth consumed by the burning of self-love — this is the mechanism of Babel. The tower is not built from nothing; it is built from *absorbed truths* that have been reorganized around self-love. The Babylonians possessed genuine spiritual knowledge (the "seven streams"); their catastrophe was the appropriation of that knowledge for self-glorification. The tower "with its top in the heavens" is the result: a structure assembled from real truths but oriented toward self-love rather than divine reception.
 
 And then the devastating assessment:
 
-> "Such is the magnitude of the spiritual combat, since it has produced these monstrous persuasions from evil, the towering falsities of self-intelligence. Behold, they are entangled, restrained by divine order, and held fast in every region of the mind." (¶9)
+> "Such is the magnitude of the spiritual combat, since it has [ … ] these monstrous persuasions from evil, the towering falsities of self-intelligence. Behold, they are entangled, restrained by divine order, and [ … ] held fast in every region of the mind." (¶9)
 
 "The towering falsities of self-intelligence" — the phrase could serve as a one-line summary of Genesis 11:1–9.
 
@@ -659,11 +659,11 @@ Chapter 86 describes how this confusion operates within the individual:
 
 This is the pre-Babel state: no confusion of understanding. Then temptation enters:
 
-> "Yet when temptation arises and the person is thrown into spiritual combat, this disturbance enters into the interior life in successive degrees — first through hereditary evil inclinations and adverse tendencies from birth, which revolve upon the person and agitate and disturb through concupiscence and hostility toward truth and spiritual desolation and anguish." (¶7)
+> "Yet when temptation arises and the person is thrown into spiritual combat, this disturbance enters into the interior life in [ … ] successive degrees — first through hereditary evil inclinations and adverse tendencies from birth, which [ … ] revolve upon the person and agitate and disturb through concupiscence and hostility toward truth and spiritual desolation and anguish." (¶7)
 
 And the most insidious mechanism — confusion that enters through goods and truths that have been externally appropriated but carry hidden falsity:
 
-> "There are times when the influx from the spiritual societies is at rest and in order for the person, and it comes to pass that a harmful element enters the interior life through the goods and truths that have been appropriated from external life. ... Then conflict and confusion and hostility to good increase within, and concupiscence multiplies together with desolation and anguish — because the goods of the will that were appropriated and the truths of the understanding that were received are full of admixtures of evil and falsity." (¶8)
+> "Again, there are times when the influx from the spiritual societies is at rest and in order for the person, and it comes to pass that [ … ] a harmful element enters the interior life through the goods and truths that have been appropriated from external life. ... Then conflict and confusion and hostility to good increase within, and concupiscence multiplies together with desolation and anguish — because the goods of the will that were appropriated and the truths of the understanding that were received are full of admixtures of evil and falsity." (¶8)
 
 This is the subtle content of Babel. The confusion does not come from outside; it comes from within — through truths that appear genuine but contain hidden admixtures of self-love. This is why the tower builders say "let us make a name for *ourselves*." The truths they possess are genuine ("one language and the same words"), but their *purpose* has been corrupted. And once purpose is corrupted, the same words cease to mean the same things — "they may not understand one another's speech."
 
@@ -715,7 +715,7 @@ What Genesis embeds in structural markers — evening/morning, two trees, two br
 
 The Hebrew literary mode of Genesis 1–11 can now be understood not as a distinct genre but as a compression technique applied to the Ancient Word. The characteristic features of the primeval history — its dense imagery, its genealogical frameworks, its minimal narrative, its tendency to encode complex spiritual architectures in single verses — are the features of a text that has been compressed from a full didactic original into imagistic narrative.
 
-This explains why the primeval history feels different from the rest of Genesis. Genesis 12 onward narrates the Abraham cycle, which Swedenborg identifies as the beginning of historical narrative interwoven with correspondential content (*AC* §1401). But Genesis 1–11 is pure *historia facta* — correspondential composition throughout, from first verse to last. The Hebrew writers (or, more precisely, the Mosaic redactors who shaped the Pentateuch) did not compose Genesis 1–11 by inventing myths. They condensed the Ancient Word — the full correspondential teaching preserved in the substrate — into the literary mode suited to their new medium: the written Torah.
+This explains why the primeval history feels different from the rest of Genesis. Genesis 12 onward narrates the Abraham cycle, which Swedenborg identifies as the beginning of historical narrative interwoven with correspondential content (*AC* §1401). But Genesis 1–11 is pure *historia facta* — correspondential composition throughout, from the first verse to the mention of Eber (*AC* §§1020, 1403). The Hebrew writers (or, more precisely, the Mosaic redactors who shaped the Pentateuch) did not compose Genesis 1–11 by inventing myths. They condensed the Ancient Word — the full correspondential teaching preserved in the substrate — into the literary mode suited to their new medium: the written Torah.
 
 This is why the text works on multiple levels simultaneously. As natural narrative, Genesis 1–11 tells a coherent story from creation to dispersion. As correspondential composition, every element encodes a specific spiritual reality. As national condensation, it preserves the Ancient Word in a form that can survive the loss of the correspondential science — because the images carry the teaching even when the science that reads them is forgotten. The substrate is the teacher's manual. Genesis is the student's text.
 
@@ -747,7 +747,7 @@ This claim does not rest on a single parallel or a handful of suggestive resonan
 
 Three witnesses testify to one architecture. Chapter 32 gives the operative dimension — what the Lord does. Chapter 65 gives the experiential dimension — what the mind receives. Genesis fuses both dimensions into seven days bounded by evening and morning. But the architecture — the skeleton of elements, their sequence, and their causal relationships — is one. It was always one.
 
-Swedenborg wrote in 1749 that Genesis 1–11 was composed in correspondences, and that the science of correspondences was "the chief science among the ancients, especially among the people of the East" (*AC* §1756). He located the Ancient Word in "Great Tartary" — the vast interior of Central Asia. He said it contained the same spiritual content as the Word of the Lord, expressed in the full correspondential register. He could not have known that the Kephalaia of the Teacher, discovered in 1931 at Medinet Madi in Egypt, would preserve a pre-Manichaean correspondential substrate that confirms his claims point by point.
+Swedenborg wrote in 1749 that Genesis 1–11 was composed in correspondences (*AC* §66), and in 1758 that to the ancient people "the knowledge of correspondences was the chief of knowledges", a knowledge that "flourished among the Eastern nations and in Egypt" (*Heaven and Hell* §87). He located the Ancient Word in "Great Tartary" — the vast interior of Central Asia. He said it contained the same spiritual content as the Word of the Lord, expressed in the full correspondential register. He could not have known that the Kephalaia of the Teacher, which came to light at Medinet Madi in Egypt in 1929 (Gardner 1995), would preserve a pre-Manichaean correspondential substrate that confirms his claims point by point.
 
 But that is what the data shows. The substrate teaches what Swedenborg said it would teach. It teaches it in the register he described — systematic, didactic, bilateral. It covers exactly the spiritual ground that Genesis covers — and it unfolds every image that Genesis compresses. The structural identity is not a matter of interpretation. It is a matter of observation: anyone who sets the texts side by side, reads them in the correspondential register, and compares their architecture will see what this thesis documents.
 
@@ -769,13 +769,13 @@ Three witnesses. One architecture. The Ancient Word.
 | 1:20–23 (Day 5) | Living creatures of sea and air: animated faculties | Ch 32 ¶6 (Fifth Work); Ch 65 ¶9, ¶18 (Fifth Good/Evil) | Five faculties distributed; evil driven into hiding vs. beauty of spiritual form hidden |
 | 1:24–31 (Day 6) | Land animals and humanity in God's image | Ch 32 ¶7 (Sixth Work); Ch 65 ¶10, ¶19 (Sixth Good/Evil) | Regenerate structure guarded; false persuasions dissolved vs. profaners and thieves emerge |
 | 2:1–3 (Day 7) | Sabbath rest: celestial perfection | Ch 32 ¶8 (Seventh Work); Ch 65 ¶11, ¶20 (Seventh Good/Evil) | Celestial form secured; glory revealed vs. face of evil itself revealed |
-| 2:9 (Two Trees) | Tree of Life (love/perception) and Tree of Knowledge (faith/reasoning) | Ch 2 ¶15, ¶22, ¶25–26 | Five faculties of wisdom vs. five inverted faculties of self-intelligence |
-| 2:10–14 (Four Rivers) | Four degrees of wisdom proceeding from one another | Ch 4 ¶1–5 | Four great illuminations proceeding from each other; four corresponding obscurities |
+| 2:9 (Two Trees) | Tree of life (love and the faith from it) and tree of knowledge (faith from the sensuous) | Ch 2 ¶15, ¶22, ¶25–26 | Five faculties of wisdom vs. five inverted faculties of self-intelligence |
+| 2:10–14 (Four Rivers) | Wisdom from love parted into intelligence, knowledge, reason and memory-knowledge | Ch 4 ¶1–5 | Four great illuminations proceeding from each other; four corresponding obscurities |
 | 2:7–25 (Garden) | Faculty structure, three distinctions, celestial marriage | Ch 56, 64 (faculties); Ch 57 (Most Ancient Church); Ch 65 ¶18 (masculine/feminine) | Five faculties, three distinctions, five governing degrees, gendered faculty language |
 | 2:25 (Naked, not ashamed) | Pristine innocence of the celestial human | Ch 98 ¶3–4, ¶6 | Pristine wisdom vs. restored wisdom; original purity before mixture |
 | 3:1–6 (Serpent, fruit) | Sensory reasoning about spiritual truths; appropriation of divine image | Ch 55 ¶1–3 | Self-derived faculties copying the divine form as distorted imitation |
 | 3:7–19 (Curses, expulsion) | Intermingling of wisdom with falsity; consequences of self-intelligence | Ch 23 ¶4–9 | Wisdom enmeshed with falsity; five fundamental evils erupting |
-| 3:21 (Garments of skin) | External truths clothing spiritual nakedness | Ch 30 ¶1 | Three coverings of external truth: rational, active, natural |
+| 3:21 (Garments of skin) | Spiritual and natural good clothing those who have lost their innocence | Ch 30 ¶1 | Three coverings of external truth: rational, active, natural |
 | 3:16–19 (Faculty corruption) | Corrupted faculties: serpent, childbearing, toil, death | Ch 94 ¶2–5 | Four faculties corrupted, each generating three emanations = 12 corruptions |
 | 4:1–16 (Cain and Abel) | Faith separated from love; murder of charity | Ch 100 ¶1–6 | Dragon of the self: 14 powers of self-intelligence, 5 concealed recesses |
 | 5:1–32 (Genealogies) | Declining spiritual dispensations; diminishing perception | Ch 57 ¶1–6 | Five governing degrees: complete celestial → spiritual change → natural illumination → particular influx → momentary perception |
@@ -790,13 +790,19 @@ Three witnesses. One architecture. The Ancient Word.
 
 ## 13. Works Cited
 
-1. Swedenborg, Emanuel. *Arcana Coelestia* (Heavenly Secrets). 12 vols. London: 1749–1756. Cited by section number (§).
-2. Swedenborg, Emanuel. *Spiritual Diary* (*Experientiae Spirituales*). Posthumous. Cited by entry number.
-3. Gardner, Iain. *The Kephalaia of the Teacher: The Edited Coptic Manichaean Texts in Translation with Commentary.* Nag Hammadi and Manichaean Studies 37. Leiden: Brill, 1995.
-4. Funk, Wolf-Peter. *Kephalaia I: Zweite Hälfte.* Stuttgart: Kohlhammer, 1999.
-5. Klimkeit, Hans-Joachim. *Gnosis on the Silk Road: Gnostic Texts from Central Asia.* San Francisco: HarperSanFrancisco, 1993.
-6. Reeves, John C. *Prolegomena to a History of Islamicate Manichaeism.* Sheffield: Equinox, 2011.
-7. Genesis 1–11. Hebrew text: *Biblia Hebraica Stuttgartensia* (BHS). English translation: ESV unless otherwise noted.
-8. [The Ancient Word Recovered: Extracting the Correspondential Substrate of the Kephalaia](../00_Framework/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md). Companion thesis describing the eight-stage computational pipeline for extracting the pre-Manichaean Layer 1 substrate.
-9. [The Divine Bricolage: A Spiritual History of the Word from Influx to Incarnation](../00_Framework/The%20Divine%20Bricolage_%20A%20Spiritual%20History%20of%20the%20Word%20from%20Influx%20to%20Incarnation.md). Framework synthesis document.
-10. [The Two Hearts of Creation: A Consciousness-Driven Evolution of Myth](The%20Two%20Hearts%20of%20Creation_%20A%20Consciousness-Driven%20Evolution%20of%20Myth.md). Companion analysis of mythic divergence through ruling love.
+**Primary Sources:**
+
+1. *Biblia Hebraica Stuttgartensia.* Edited by Karl Elliger and Wilhelm Rudolph. 5th ed. Stuttgart: Deutsche Bibelgesellschaft, 1997. The Hebrew of Genesis 1:1–2 in §3.1.
+2. Gardner, Iain, trans. *The Kephalaia of the Teacher: The Edited Coptic Manichaean Texts in Translation with Commentary.* Nag Hammadi and Manichaean Studies 37. Leiden: Brill, 1995. The manuscript's chapter numbering and titles; the Medinet Madi find (Introduction).
+3. *The Holy Bible, English Standard Version.* Wheaton, IL: Crossway, 2001. Genesis is quoted from this translation throughout.
+4. Polotsky, H. J., and A. Böhlig, eds. and trans. *Kephalaia.* Vol. 1, first half (fascicles 1–10). Manichäische Handschriften der Staatlichen Museen Berlin 1. Stuttgart: W. Kohlhammer, 1940. The Coptic edition that Gardner translates, with its restorations of the lacunae.
+5. Swedenborg, Emanuel. *Arcana Coelestia.* Translated by John Clowes, revised and edited by John Faulkner Potts. 12 vols. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number as *AC*: the fourth state at §10; Genesis 1:1–2 at §§16–19; evening and morning at §22; the expanse at §24; the luminaries at §30; the four styles of the Word at §66; the trees at §§102, 105; perception in the Most Ancient Church at §104; the rivers at §§107–121; the heavenly marriage and "one flesh" at §§155, 160; nakedness as innocence at §§163, 165; the serpent at §§194–197; the coat of skin at §§294–297; Cain and Abel at §§340–342, 367; Genesis 5 at §§460–536; the flood at §§554–842; "made-up history" at §§1020, 1403; Genesis 10 at §§1130–1263; true history from Genesis 12 at §1401.
+6. Swedenborg, Emanuel. *Heaven and Hell.* Translated by John C. Ager. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. The knowledge of correspondences as "the chief of knowledges" of the ancient people at §87.
+
+**Internal Library Documents:**
+
+7. [The Ancient Word Recovered: Extracting the Correspondential Substrate of the Kephalaia](../00_Framework/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md). The companion thesis: the three layers of the Kephalaia and the computational pipeline that produced the spiritual readings quoted here.
+
+**Data Sources:**
+
+8. manichaean-analysis project (kayna-of-light/manichaean-analysis), Kephalaia extraction pipeline, spiritual readings of the core chapters: `output/projects/kephalaia/restored/chapters/ch_NNN.json` (field `spiritual_reading`), cited by chapter and paragraph (¶).

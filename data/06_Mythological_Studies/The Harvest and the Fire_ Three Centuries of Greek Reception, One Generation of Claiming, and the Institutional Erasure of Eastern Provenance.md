@@ -655,7 +655,7 @@ The following table maps the independent witnesses who converge on the pattern "
 | Herodotus | ~440 BCE | All subsequent | Phoenician origin of writing; Egyptian origin of geometry, gods, rites; Babylonian time-measurement | Neutral (ethnographer) |
 | Eudoxus (via Pliny) | ~370 BCE | Aristotle/Lyceum | Magian wisdom "most useful" of philosophies; Zoroaster's antiquity | Friendly (Academy) |
 | Aristotle (*On Philosophy* fr.) | ~340 BCE | Eudoxus, Academy | Magi "more ancient than Egyptians"; two principles | Friendly (valuative) |
-| Colotes (anti-Platonist) | ~250 BCE | Plato's defenders | Myth of Er "lifted" from Zoroastrian *On Nature* | **Hostile** (attacking Plato) |
+| Colotes (anti-Platonist) | ~250 BCE | Plato's defenders | Zoroaster, not Er, the father of the Myth of Er (Proclus, *In Remp.* 2.109.7–12) | **Hostile** (attacking Plato) |
 | Hermodorus (via Diogenes) | ~350 BCE? | Independent | Magian chronology; Zoroaster's name as "star-worshipper" | Neutral |
 | Dēnkard | ~9th c. CE | All Greek sources | Translate-then-burn: "into the Greek language" | **Victim** |
 | Book of Arda Viraf | ~3rd–9th c. CE | All Greek sources | Alexander "the accursed" burned the gold-inked archive | **Victim** |
@@ -680,35 +680,36 @@ The following table maps the independent witnesses who converge on the pattern "
 4. Herodotus. *The Histories*. Trans. G. C. Macaulay. Project Gutenberg ebooks 2707 (Books I–IV), 2456 (Books V–IX).
 5. Plutarch. *Lives* (Life of Alexander). Trans. Langhorne. Archive.org: `plutarchslivesr00langgoog`.
 6. Plutarch. *Moralia* (*On the Fortune of Alexander*). Project Gutenberg ebook 23639.
-7. Quintus Curtius Rufus. *History of Alexander*. 1714 Digby trans. Archive.org: `quintuscurtiushi00curt`.
-8. Strabo. *Geography*. Trans. H. L. Jones (Loeb Classical Library). Archive.org: vols. 5 (`geographyofstrab05strauoft`), 6 (`geographyofstrab06strauoft`), 7 (`geographyofstrab07strauoft`).
-9. Theophrastus. *Enquiry into Plants*. Trans. Sir Arthur Hort (Loeb Classical Library), Introduction. Archive.org: `enquiryintoplant01theouoft`.
-10. Xenophon. *Cyropaedia*. Trans. H. G. Dakyns. Project Gutenberg ebook 2085.
+7. Proclus. *Procli Diadochi in Platonis Rem publicam commentarii*. Edited by Wilhelm Kroll. 2 vols. Leipzig: Teubner, 1899–1901. Colotes and others on Zoroaster as the father of the Myth of Er at 2.109.7–12.
+8. Quintus Curtius Rufus. *History of Alexander*. 1714 Digby trans. Archive.org: `quintuscurtiushi00curt`.
+9. Strabo. *Geography*. Trans. H. L. Jones (Loeb Classical Library). Archive.org: vols. 5 (`geographyofstrab05strauoft`), 6 (`geographyofstrab06strauoft`), 7 (`geographyofstrab07strauoft`).
+10. Theophrastus. *Enquiry into Plants*. Trans. Sir Arthur Hort (Loeb Classical Library), Introduction. Archive.org: `enquiryintoplant01theouoft`.
+11. Xenophon. *Cyropaedia*. Trans. H. G. Dakyns. Project Gutenberg ebook 2085.
 
 **Primary sources (Zoroastrian):**
 
-11. *Book of Arda Viraf*. Eds. Haug & West. Archive.org: `bookofardaviraf00haug`.
-12. *Dēnkard* / *Pahlavi Texts* (Sacred Books of the East). Trans. E. W. West. SBE vol. 37. Archive.org: `pahlavitexts04westuoft`.
-13. *Bundahišn*. Trans. E. W. West. In *Pahlavi Texts* (SBE).
+12. *Book of Arda Viraf*. Eds. Haug & West. Archive.org: `bookofardaviraf00haug`.
+13. *Dēnkard* / *Pahlavi Texts* (Sacred Books of the East). Trans. E. W. West. SBE vol. 37. Archive.org: `pahlavitexts04westuoft`.
+14. *Bundahišn*. Trans. E. W. West. In *Pahlavi Texts* (SBE).
 
 **Aristotle's works and fragments:**
 
-14. Aristotle. *Works of Aristotle* vol. 12 (*Select Fragments*). Ed. W. D. Ross. Archive.org: `worksofar12arisrich`.
+15. Aristotle. *Works of Aristotle* vol. 12 (*Select Fragments*). Ed. W. D. Ross. Archive.org: `worksofar12arisrich`.
 
 **Secondary/scholarly:**
 
-15. Pliny the Elder. *Natural History* 30.3 (Eudoxus on Zoroaster). Referenced via Diogenes Laertius and standard classical compendia.
-16. Justin. *Epitome of Pompeius Trogus*. Trans. J. S. Watson. Archive.org: `justincorneliusn00watsuoft`.
+16. Pliny the Elder. *Natural History* 30.3 (Eudoxus on Zoroaster). Referenced via Diogenes Laertius and standard classical compendia.
+17. Justin. *Epitome of Pompeius Trogus*. Trans. J. S. Watson. Archive.org: `justincorneliusn00watsuoft`.
 
-17. Garrison, Mark B. *The Ritual Landscape at Persepolis: Glyptic Imagery from the Persepolis Fortification and Treasury Archives.* Studies in Ancient Oriental Civilization 72. Chicago: Oriental Institute of the University of Chicago, 2017. Archive.org: `saoc-72.-the-ritual-landscape-at-persepolis`.
-18. Hallock, Richard T. *Persepolis Fortification Tablets.* Oriental Institute Publications 92. Chicago: University of Chicago Press, 1969. Archive.org: `oip92`.
+18. Garrison, Mark B. *The Ritual Landscape at Persepolis: Glyptic Imagery from the Persepolis Fortification and Treasury Archives.* Studies in Ancient Oriental Civilization 72. Chicago: Oriental Institute of the University of Chicago, 2017. Archive.org: `saoc-72.-the-ritual-landscape-at-persepolis`.
+19. Hallock, Richard T. *Persepolis Fortification Tablets.* Oriental Institute Publications 92. Chicago: University of Chicago Press, 1969. Archive.org: `oip92`.
 
 **Internal library documents:**
 
-19. [The Archival Rupture: Alexander, Aristotle, and the Philosophical Purge of the Magian Encyclopedia](The%20Archival%20Rupture_%20Alexander%2C%20Aristotle%2C%20and%20the%20Philosophical%20Purge%20of%20the%20Magian%20Encyclopedia.md). The companion thesis treating the Dāmdād Nask and the epistemological fracture.
-20. [The Archival Rupture: Epistemological Fractures and the Materiality of the Magian Scientific Corpus](../02_Swedenborgian_Theology/The%20Archival%20Rupture_%20Epistemological%20Fractures%20and%20the%20Materiality%20of%20the%20Magian%20Scientific%20Corpus.md). The materiality and survival-bias analysis.
-21. [The Conflagration of Persepolis and the Echoes of the Avesta](../02_Swedenborgian_Theology/The%20Conflagration%20of%20Persepolis%20and%20the%20Echoes%20of%20the%20Avesta_%20A%20Historiographical%20and%20Archaeological%20Inquiry.md). The evidentiary-standard document and survival-bias correction.
-22. [Descent Remembered as Ascent: The Correspondential Origin of the Evolutionary Idea](Descent%20Remembered%20as%20Ascent_%20The%20Correspondential%20Origin%20of%20the%20Evolutionary%20Idea.md). The multiple-independent-attestation standard (§2).
-23. [The River and the Vessel: Influx, Correspondence, and the Continuous Perception of Spiritual Reality Across All Ages](../00_Master_Theses/The%20River%20and%20the%20Vessel_%20Influx%2C%20Correspondence%2C%20and%20the%20Continuous%20Perception%20of%20Spiritual%20Reality%20Across%20All%20Ages.md). Plato's engagement with Zoroastrian material.
-24. [The Transmission of the Ancient Word](../00_Framework/The%20Transmission%20of%20the%20Ancient%20Word_%20A%20Thesis%20on%20the%20Science%20of%20Correspondences%20from%20Deep%20Antiquity%20to%20Modern%20Cultural%20Expression.md). Platonic myths decoding under the correspondential key.
+20. [The Archival Rupture: Alexander, Aristotle, and the Philosophical Purge of the Magian Encyclopedia](The%20Archival%20Rupture_%20Alexander%2C%20Aristotle%2C%20and%20the%20Philosophical%20Purge%20of%20the%20Magian%20Encyclopedia.md). The companion thesis treating the Dāmdād Nask and the epistemological fracture.
+21. [The Archival Rupture: Epistemological Fractures and the Materiality of the Magian Scientific Corpus](../02_Swedenborgian_Theology/The%20Archival%20Rupture_%20Epistemological%20Fractures%20and%20the%20Materiality%20of%20the%20Magian%20Scientific%20Corpus.md). The materiality and survival-bias analysis.
+22. [The Conflagration of Persepolis and the Echoes of the Avesta](../02_Swedenborgian_Theology/The%20Conflagration%20of%20Persepolis%20and%20the%20Echoes%20of%20the%20Avesta_%20A%20Historiographical%20and%20Archaeological%20Inquiry.md). The evidentiary-standard document and survival-bias correction.
+23. [Descent Remembered as Ascent: The Correspondential Origin of the Evolutionary Idea](Descent%20Remembered%20as%20Ascent_%20The%20Correspondential%20Origin%20of%20the%20Evolutionary%20Idea.md). The multiple-independent-attestation standard (§2).
+24. [The River and the Vessel: Influx, Correspondence, and the Continuous Perception of Spiritual Reality Across All Ages](../00_Master_Theses/The%20River%20and%20the%20Vessel_%20Influx%2C%20Correspondence%2C%20and%20the%20Continuous%20Perception%20of%20Spiritual%20Reality%20Across%20All%20Ages.md). Plato's engagement with Zoroastrian material.
+25. [The Transmission of the Ancient Word](../00_Framework/The%20Transmission%20of%20the%20Ancient%20Word_%20A%20Thesis%20on%20the%20Science%20of%20Correspondences%20from%20Deep%20Antiquity%20to%20Modern%20Cultural%20Expression.md). Platonic myths decoding under the correspondential key.
 

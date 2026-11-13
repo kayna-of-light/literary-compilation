@@ -1,10 +1,10 @@
 # Perfect in All Its Limbs: The Kephalaia of the Teacher as a Composition of the One Human Form
 
-## The Father's Limbs, the Mixed Man, the Perfect Man and the Last Statue Read in Gardner's Translation
+## The Father's Limbs, the Mixed Man, the Perfect Man and the Last Statue Read in Gardner's Translation, Corrected to the Coptic
 
 ---
 
-> **Abstract.** This thesis asks whether the *Kephalaia of the Teacher*, the Coptic Manichaean compendium of the fourth to fifth century, is composed as one human form: whether the human body is not merely an image in the text but the form of everything the text describes. It reads the *Kephalaia* in Iain Gardner's translation (1995), cites only preserved text for each argument, and uses Swedenborg's account of the Greatest Man (1749–1763) as its vocabulary of recognition. The answer is yes, at every register. The Father is "established in his five light limbs," and he and his love are "a single living body." The two trees are bodies with the same five limbs, the bad tree "an exact negative" of the good. The King of Darkness is that body inverted, its parts "not resembling one another." The universe was built "after the likeness of a man," and "the small body corresponds to the macro-cosmos." The soul's faculties are bound into the body from the inside out, mind in bone and consideration in skin, and are rebuilt as a "new man." The Pillar of Glory is both a column of ascent and "the Perfect Man," with the First Man's head upon it. History ends in the Last Statue, gathered and sculpted until "perfect in all its limbs," while what is "foreign to it" is cast out. Two features match Swedenborg in detail: the two orders of the degrees, column and solid body, and a completion that casts out the heterogeneous. Five, the faculty, and three, the degrees, run through each other as qualities of one body. The sums Gardner calls "forced" are the strain of describing a whole as a total. The form Swedenborg said the ancients knew "from the knowledge of correspondences" governs a text he could not have read.
+> **Abstract.** This thesis asks whether the *Kephalaia of the Teacher*, the Coptic Manichaean compendium of the fourth to fifth century, is composed as one human form: whether the human body is not merely an image in the text but the form of everything the text describes. It reads the *Kephalaia* in Iain Gardner's translation (1995), with the four corrections toward the Coptic made in the library's edition, *The Ancient Word* (version 1.1), cites only preserved text for each argument, and uses Swedenborg's account of the Greatest Man (1749–1763) as its vocabulary of recognition. The answer is yes, at every register. The Father is "established in his five light limbs," and he and his love are "a single living body." The two trees are bodies with the same five limbs, the bad tree "an exact negative" of the good. The King of Darkness is that body inverted, its parts "not resembling one another." The universe was built "after the likeness of a man," and "the small body corresponds to the macro-cosmos." The soul's faculties are bound into the body from the inside out, mind in bone and consideration in skin, and are rebuilt as a "new man." The Pillar of Glory is both a column of ascent and "the Perfect Man," with the First Man's head upon it. History ends in the Last Statue, gathered and sculpted until "perfect in all its limbs," while what is "foreign to it" is cast out. Two features match Swedenborg in detail: the two orders of the degrees, column and solid body, and a completion that casts out the heterogeneous. Five, the faculty, and three, the degrees, run through each other as qualities of one body. The sums Gardner calls "forced" are the strain of describing a whole as a total. The form Swedenborg said the ancients knew "from the knowledge of correspondences" governs a text he could not have read.
 
 > **Keywords.** Kephalaia of the Teacher, Greatest Man, Grand Man, Maximus Homo, Divine Human, Last Statue, Perfect Man, Pillar of Glory, new man, microcosm and macrocosm, discrete degrees, simultaneous order, King of Darkness, Manichaeism, correspondences, Ancient Word
 
@@ -57,16 +57,16 @@ The companion theses take the *Kephalaia* substrate to be a surviving body of th
 
 The question has to be answered from the text, and the text has to be reliable. This thesis reads the *Kephalaia* in Iain Gardner's English translation of the Berlin edition (Leiden: Brill, 1995). It cites the text by page and line of the Coptic as "K.", and Gardner's introduction and chapter commentaries by the page of his book. It rests no argument on the library's reconstructed Coptic readings. It treats Gardner's square brackets as the line between what the papyrus preserves and what an editor has supplied.
 
-The library's typeset edition of the substrate, *The Ancient Word* (version 1.1), prints Gardner's English with the Manichaean names replaced by Persian ones. It is used here only as a concordance (§15.2), because two of the names it replaces are the names in which the body is spoken of: "the Perfect Man" becomes "Hearkening" and "the Last Statue" becomes "the Final Body".
+The library's typeset edition of the substrate, *The Ancient Word* (version 1.1), corrects four of Gardner's recurring renderings where they diverge from the Coptic, and every quotation here carries those corrections (§2.2). The edition's Persian names are not used; §15.2 gives them as a concordance.
 
 Read in this way, the answer to the question is plain, and it is in Gardner's words. The bodies appear in this order:
 
-- **The Father.** The Father of Greatness "ex[ists and is] established in his five light limbs," which are "mind, thought, insight, counsel and [consideration]" (K. 64.20–23). The five fathers who go out against the darkness came "from the five limbs [of the Father]" (76.15–25). Love and the Father "are a single living body, the Father [a]nd his love" (156.3–4).
+- **The Father.** The Father of Greatness "ex[ists and is] established in his five light limbs," which are "mind, thought, teaching, counsel and [consideration]" (K. 64.20–23). The five fathers who go out against the darkness came "from the five limbs [of the Father]" (76.15–25). Love and the Father "are a single living body, the Father [a]nd his love" (156.3–4).
 - **The two trees.** The good tree of the Gospel parable has five limbs, from consideration, which is the holy church, to mind, which is the Father (20.12–20), and the soul climbs to the Father through them (20.21–31). The bad tree has the same five limbs (21.28–30). Gardner calls it "an exact negative" of the good (p. 23).
 - **The adversary.** The King of Darkness has "five shapes on him," on head, hands and feet, shoulders, belly and tail, each from one of his five worlds (30.33–31.2; 77.27–78.3).
 - **The universe.** The enemy constructed the universe "after the likeness of a man": "His ribs are all the firmament[s]. His navel [is the] sphere of the stars and the signs of the zodiac," and "His heart is mankind" (90.20–91.1). Mani says outright that "this whole universe, above and below, [re]flects the pattern of the hum[an] body," so that "the small body corresponds to the macro-cosmos" (169.28–170.2; 170.16–19).
 - **Adam.** Adam bears "the seal of the entire universe" (157.25–26).
-- **The soul in its flesh.** Sin "bound the mind in bone; the thought in sinew; the insight in vein; the counsel in flesh; the consideration in ski[n]" (95.17–19): the highest faculty in the innermost tissue and the lowest in the outermost. The Light Mind releases those members and will "construct a new man of them," with "five great living members" (96.25–30).
+- **The soul in its flesh.** Sin "bound the mind in bone; the thought in sinew; the teaching in vein; the counsel in flesh; the consideration in ski[n]" (95.17–19): the highest faculty in the innermost tissue and the lowest in the outermost. The Light Mind releases those members and will "construct a new man of them," with "five great living members" (96.25–30).
 - **The Perfect Man.** The Pillar of Glory is "the Perfect Man; the one who bears up under all things" (35.10–12). The First Man is "the head" whose sons are "the limbs [of] his soul," and his head "is placed on the body of the Pill[ar of Gl]ory in the heights of the universe" (84.21–30).
 - **The end.** At the end the counsel "will gather to it its own soul, and sc[ul]pt it in the Last Sta[t]ue." It gathers "the life and the li[gh]t that are in all things" and builds them "upon its body. The time when this Last Statue will be perfect in all its limbs, then it can become free and ascend" (54.14–21). The souls that would not be gathered weep because "their limbs have been severed" and they are "separated from the Last Statue" (149.29–150.4).
 - **The names.** The many names under which all this is taught "are a single [ ... ] since the beginning." Stripped of their names, they "will gather together [and] make a single form, and a single name, unaltered and unchangeable for ever" (178.13–23).
@@ -175,12 +175,12 @@ Where a word the argument needs is restored, the thesis says so and looks for a 
 
 Gardner's round brackets mark his own explanatory additions, and his angle brackets mark words added to the primary text. Both are treated as his, not as the papyrus's.
 
-The library also holds its own working versions of the text. This thesis does not use them as evidence, for two reasons:
+The library also holds its own working versions of the text, and they are used as follows:
 
 - **The Coptic transcription.** The library's Coptic transcription of the codex is still being corrected against the manuscript, and its readings are not yet reliable enough to quote.
-- **The typeset edition.** The typeset *Ancient Word* (version 1.1) is built on Gardner's English, but it fills lacunae by what it calls "the same correspondences that organize the text itself" (preface, p. 5). It also rearranges the chapters by a structure discovered in the extracted substrate, and it replaces the Manichaean names with Persian ones. A restoration made from the correspondential architecture cannot be evidence for that architecture, as [*The Garment and What Wears It*](The%20Garment%20and%20What%20Wears%20It_%20Dating%20the%20Correspondential%20Substrate%20Beneath%20the%20Manichaean%20Kephalaia.md) already argued in setting its circularity guard (§2.4).
+- **The typeset edition.** *The Ancient Word* (version 1.1) is built on Gardner's English and corrects four of his recurring renderings where the Coptic is unambiguous and his English loses a distinction the scribes made (preface, pp. 4–5). ⲧⲥⲃⲱ, the third of the five faculties, is "teaching," not "insight": the scribes wrote the native word for instruction and not the Greek loan φρόνησις. ⲡⲡⲣⲓ̈ⲉ, from a root meaning to shine forth, is "Radiance," not "Splendour," so Gardner's "Jesus the Splendour" is "Jesus the Radiance." ⲡⲉⲓⲛⲉ is "likeness" throughout, where Gardner varies between "image," "form," "shape" and "resemblance"; the Greek loan εἰκών keeps "image." The causative ⲧⲟⲩⲱ, "cause to stand up," is "raise," where Gardner varies between "release," "free," "save" and "bring up"; ⲃⲱⲗ ⲁⲃⲁⲗ keeps "release." Every quotation in this thesis is Gardner's text with these four corrections applied wherever the edition applies them to the same passage. Gardner's names and his brackets are kept: the edition's Persian names make a point about the substrate, not a text to build on.
 
-The edition is therefore used here to let its readers find their place. It is used once more, in §11, for its summary of chapter 3, where its reading agrees with Gardner's text. Section 15.2 gives a concordance of Gardner's names with the edition's names. Readers of the edition should note in particular that "the Pillar of Glory, the Perfect Man" appears there as "Hearkening" and "the Last Statue" as "the Final Body". Neither renaming bears on the argument, which reads the titles Gardner prints.
+The edition is also used, in §11, for its summary of chapter 3. Section 15.2 gives a concordance of the names used here with the edition's names, so that its readers can find their place: "the Pillar of Glory, the Perfect Man" appears there as "Hearkening, Hearkening," and "the Last Statue" as "the Final Body."
 
 One further matter belongs to method rather than to the text. The library's stratigraphy divides the *Kephalaia* into three layers:
 
@@ -264,7 +264,7 @@ Swedenborg's rule is that numbers in a text written in correspondence signify th
 - **five:** the radial order of a faculty from its centre to its surface;
 - **seven:** the arc of regeneration (§§4.4, 7.1).
 
-The study found the meaning of five in the *Kephalaia*, where Scripture leaves it open. Five there is the number of faculty. It is the five intellectual qualities of mind, thought, insight, counsel and consideration, ordered from innermost to outermost and bound into bone, sinew, vein, flesh and skin (§§5.3–5.4).
+The study found the meaning of five in the *Kephalaia*, where Scripture leaves it open. Five there is the number of faculty. It is the five intellectual qualities of mind, thought, teaching, counsel and consideration, ordered from innermost to outermost and bound into bone, sinew, vein, flesh and skin (§§5.3–5.4).
 
 Two consequences of this account govern the present thesis.
 
@@ -303,17 +303,17 @@ The *Kephalaia* sometimes does sum, and §11 shows that those are exactly the pl
 
 The *Kephalaia* nowhere describes the Father of Greatness as an abstraction. When Mani is asked how the Father "is established and determined," the answer is anatomical. Chapter 21 opens:
 
-> Hear [this lesson t]hat I will recount to you. Very great is [land of] light in the presence of they who will hear and know it, due to the first Father of Greatness. How he ex[ists and is] established in his five light limbs, which are [ ... the store]houses that have neither limit nor measure to the[m ... ] mind, thought, insight, counsel and [consideration ... ] his twelve light limbs that are his twelve wisdoms. Now, there are five great light lim[bs] in each one [ ... ] (K. 64.17–26)
+> Hear [this lesson t]hat I will recount to you. Very great is [land of] light in the presence of they who will hear and know it, due to the first Father of Greatness. How he ex[ists and is] established in his five light limbs, which are [ ... the store]houses that have neither limit nor measure to the[m ... ] mind, thought, teaching, counsel and [consideration ... ] his twelve light limbs that are his twelve wisdoms. Now, there are five great light lim[bs] in each one [ ... ] (K. 64.17–26)
 
 The papyrus is broken at the edges of the passage, but its structure survives. The Father "exists" and "is established" in limbs: five of them, named as the five intellectual qualities, and twelve of them, named as twelve wisdoms. "Five great light lim[bs]" are found "in each one." The list of five ends in a lacuna at "consideration," but nothing hangs on the restoration. The same five qualities, in the same order and with the same last term, are preserved elsewhere in the codex: in the binding of the soul (95.17–19), in the limbs the First Man sent forth (85.1–2), and in the five virtues of the new man (96.30–97.3).
 
-Gardner's comment on the chapter is exact: "The kingdom of light is a manifestation of the Father himself, which he pervades by his qualities or limbs" (p. 67). In his introduction he puts it more strongly: the realm of light "indeed is an extension of himself," and the Father "resides in five intellectuals or limbs: mind, thought, insight, counsel and consideration" (p. xxvi).
+Gardner's comment on the chapter is exact: "The kingdom of light is a manifestation of the Father himself, which he pervades by his qualities or limbs" (p. 67). In his introduction he puts it more strongly: the realm of light "indeed is an extension of himself," and the Father "resides in five intellectuals or limbs: mind, thought, teaching, counsel and consideration" (p. xxvi).
 
 What the chapter goes on to say confirms that a living body is meant and not a list of attributes. From the Father "five grea[t] springs of praise gush for[th]" (64.26–27). Three survive in legible form: "his light that enlig[htens]," which "gushed forth from him and pour[ed]" into the aeons (64.29–30); "the perfume of the [ ... ]," which "pervades all the aeons of greatness" (64.31–32); and "his living voice" (64.33). Light, perfume and voice are what a living body sends out and what another body receives through eye, nostril and ear. The fourth and fifth springs are too broken to read, and the thesis builds nothing on them. Of the fifth only a fragment survives, but it uses the language of the Last Statue: it "was sculpted in them... se[a]led in the[m]" (65.4–5).
 
 A single short chapter then says where the saving powers come from. Chapter 25, "[Concerning the Advent of Five Fathers from the Five Limbs of the Father]," reads in full:
 
-> Once again the apostle speaks concerning [the advent of five fathers fro]m the Father, one after another. [He] speaks t[hu]s: [The Ambas]sador [came] from his mind; the Beloved of the Lights [from his thought]; the Mother of Life from his insight; [Jesus] the Beloved from his counsel; the Virgin of Lig[ht f]rom his consideration. So in this way were summone[d these five] fathers. These five advents came from the five limbs [of the Father]. One came from another and was manifested in its season. (K. 76.17–25)
+> Once again the apostle speaks concerning [the advent of five fathers fro]m the Father, one after another. [He] speaks t[hu]s: [The Ambas]sador [came] from his mind; the Beloved of the Lights [from his thought]; the Mother of Life from his teaching; [Jesus] the Beloved from his counsel; the Virgin of Lig[ht f]rom his consideration. So in this way were summone[d these five] fathers. These five advents came from the five limbs [of the Father]. One came from another and was manifested in its season. (K. 76.17–25)
 
 The powers that go out from the Father into the work of salvation are not separate gods summoned from elsewhere. They are the Father's own limbs going out. Each comes from one faculty of his body, and they come "one after another," "one... from another," each "in its season." The successive order of the outgoing — one season after another — is the unfolding of an order that already exists simultaneously in the Father's body as limbs.
 
@@ -323,7 +323,7 @@ A third chapter shows that the relation of the Father to his realm is repeated a
 
 - **the Father of Greatness:** "His greatn[ess is the gr]eat earth where he lives, he being established [i]n it" (63.30–31);
 - **the Third Ambassador:** his greatness is "the light ship of living fire" (63.35–64.1);
-- **Jesus the Splendour:** his greatness is "the ship of living waters where he lives" (64.2–3);
+- **Jesus the Radiance:** his greatness is "the ship of living waters where he lives" (64.2–3);
 - **the Pillar of Glory:** its greatness is "the five gods of ho[ly ... ] which [li]ve and are established in them" (64.5–7);
 - **the Light Mind:** "His gre[atness] is the [holy] church; becaus[e] he lives [and is established i]n it" (64.8–10).
 
@@ -347,7 +347,7 @@ Three points in this passage carry the argument:
 
 Two further passages complete the picture of the Father as the head and inmost of a body. In Chapter 60 the corporeal body is used to explain the visible and the hidden in the divine: "Just as [the] corporeal body has limbs that are hidden, so it also has others that are visi[b]le... So it is also with this entire greatness, as we resemble it" (151.9–14). The Father is the body's hidden governor: "Now, thus the directive of the bo[dy] that lives within, hidden in the storehouses inside the body and unseen. So it i[s] also how the Father, the God o[f] truth, exists; as he too is hidden in his kingdom" (151.17–21). Gardner's summary calls this "the analogy of the corporeal body" and glosses the Father as "the directive faculty... of the body, hidden in his own kingdom" (p. 158).
 
-Chapter 39 ends the history of salvation in the Father's own measure. On the third great day "the Father will unveil over them his [image]," receives them "in to his hidden treasur[y]," "gives [ ... ] his soul," and will "perfect their stature in sa[m]e measure as his first aeons. And he sets each power [i]n its aeon, in its dwelling-place" (103.10–22). The end of the story is a body brought to the stature of its source, with every member in its own place.
+Chapter 39 ends the history of salvation in the Father's own measure. On the third great day "the Father will unveil over them his [likeness]," receives them "in to his hidden treasur[y]," "gives [ ... ] his soul," and will "perfect their stature in sa[m]e measure as his first aeons. And he sets each power [i]n its aeon, in its dwelling-place" (103.10–22). The end of the story is a body brought to the stature of its source, with every member in its own place.
 
 **Spiritual reading.** The correspondential reading of these chapters states plainly what the text shows in pieces: the Father of Greatness is God as Man. Swedenborg's "In all the heavens there is no other idea of God than that He is a Man" (*Divine Love and Wisdom* §11) is the doctrine that Chapter 21 presents as anatomy.
 
@@ -386,17 +386,17 @@ The first teaching chapter of the *Kephalaia* is an exposition of a Gospel parab
 
 Mani begins by rejecting the sects' readings of the two trees, which compare them with plants growing "on this composite earth" (17.16–20; 17.33–35). Then he gives his own reading, and it is anatomical. The trees have limbs. The same text later says, from the other direction, that "the body is like the earth, wh[ile these] limbs als[o ... ] of it are like the trees" (281.6–8). In chapter 2 the trees are bodies.
 
-The good tree is introduced as a body clothed in the soul's own substance. It is "the intellectuals that are cloaked upon its body," and "the light elements that are mingled, being compounded in the totality" (20.1–3). Its fruit is "glorious Jesus the Splendour, the father [of] all [the apo]st[l]es," and "the taste of the fruits of the [good] tree [is the] holy [c]hurch" (20.4–6). Then its limbs are named:
+The good tree is introduced as a body clothed in the soul's own substance. It is "the intellectuals that are cloaked upon its body," and "the light elements that are mingled, being compounded in the totality" (20.1–3). Its fruit is "glorious Jesus the Radiance, the father [of] all [the apo]st[l]es," and "the taste of the fruits of the [good] tree [is the] holy [c]hurch" (20.4–6). Then its limbs are named:
 
-> [ ... ] it has five limbs. [They are consideration, counsel, insight, thought, mind. I]ts consideration is the ho[ly] church. [Its counsel] is [the Pil]lar of Glory, the Perfe[ct] Man. [Its insight is the Fir]st Man who dwells in the ship of [living] wat[ers]. Its thought is the Third Ambassador [who dwells in] the ship of living fire, that shines in [ ... A]lso, the min[d] is the Father who dwells in great[ness, who is perfe]ct in [the] aeons of light. (K. 20.11–20)
+> [ ... ] it has five limbs. [They are consideration, counsel, teaching, thought, mind. I]ts consideration is the ho[ly] church. [Its counsel] is [the Pil]lar of Glory, the Perfe[ct] Man. [Its teaching is the Fir]st Man who dwells in the ship of [living] wat[ers]. Its thought is the Third Ambassador [who dwells in] the ship of living fire, that shines in [ ... A]lso, the min[d] is the Father who dwells in great[ness, who is perfe]ct in [the] aeons of light. (K. 20.11–20)
 
 The list at the head of the passage is restored, and so are two of the five equations. But the preserved words give the series without doubt: consideration, then "[the Pil]lar of Glory, the Perfe[ct] Man," then the First Man in a ship, then the Third Ambassador in the ship of living fire, then "the min[d]," which "is the Father."
 
 The passage that follows removes any remaining doubt about the order, because it shows the souls climbing the limbs one by one:
 
-> It is consideration that shall [ ... ] they shall be raised up [ ... ] is counsel; [they sh]all be raised up to insight, which is the First Man [who d]wells in the ship of the night; fr[om] insight they shall ris[e u]p to thought, which is the Ambassador who dwells in [the sh]ip of the day. And he too, great glor[ious] thought, [shall bring] them in to mind; which is the Father, the Go[d] of truth, the great Mind of all the [ae]ons of glory. (K. 20.24–31)
+> It is consideration that shall [ ... ] they shall be raised up [ ... ] is counsel; [they sh]all be raised up to teaching, which is the First Man [who d]wells in the ship of the night; fr[om] teaching they shall ris[e u]p to thought, which is the Ambassador who dwells in [the sh]ip of the day. And he too, great glor[ious] thought, [shall bring] them in to mind; which is the Father, the Go[d] of truth, the great Mind of all the [ae]ons of glory. (K. 20.24–31)
 
-The good tree, then, is a ladder of five limbs, and each limb is two things at once. Each is a faculty of the soul: consideration, counsel, insight, thought, mind. Each is also a station of the cosmos through which the purified light passes: the church, the Pillar, the ship of the night, the ship of the day, the Father.
+The good tree, then, is a ladder of five limbs, and each limb is two things at once. Each is a faculty of the soul: consideration, counsel, teaching, thought, mind. Each is also a station of the cosmos through which the purified light passes: the church, the Pillar, the ship of the night, the ship of the day, the Father.
 
 The soul's ascent through its own faculties and its ascent through the heavens are one movement described twice. Gardner sees this and values it highly: "The limbs of the good tree are the five intellectual qualities through which the soul ascends to the Father and the aeons of glory (20.21–31). This equation of the internal mental process of salvation with the eschatological journey through the heavens indicates a living spirituality in Mani's teaching that is often missed by commentators" (p. 22).
 
@@ -404,7 +404,7 @@ In the terms of §2.3 this is the successive order of the degrees: "a column div
 
 Then Mani names the bad tree:
 
-> [ ... The] bad [tree] has five limbs. Th[ey are consid]eration, counsel, insight, thought, [mind]. [It]s c[onsideration is] the law of de[at]h from which the sect[s] take instruction. I[t]s counsel is [t]ransmigration [ ... ] in typ[e after type]. Also, its insight is the furnaces of [fire ... ge]henna; which is full of [s]moke. Thought [ ... ve]ssel. Its mind is the [ ... ] the lump, the last b[o]nd, the [ ... ], they that Satan ca[st away]. (K. 21.28–36)
+> [ ... The] bad [tree] has five limbs. Th[ey are consid]eration, counsel, teaching, thought, [mind]. [It]s c[onsideration is] the law of de[at]h from which the sect[s] take instruction. I[t]s counsel is [t]ransmigration [ ... ] in typ[e after type]. Also, its teaching is the furnaces of [fire ... ge]henna; which is full of [s]moke. Thought [ ... ve]ssel. Its mind is the [ ... ] the lump, the last b[o]nd, the [ ... ], they that Satan ca[st away]. (K. 21.28–36)
 
 The bad tree has the same five limbs as the good, with the same names. It is not a different kind of body; it is the same body with every limb turned the other way:
 
@@ -432,12 +432,12 @@ The bad tree is the same mind turned toward itself. In it each faculty is filled
 
 - **consideration** becomes a law of death, instruction that kills;
 - **counsel** becomes the endless round of re-embodiment, the will turning from form to form without rising;
-- **insight** becomes the furnace and the smoke, fire in its opposite sense, the burning of self-love that blinds instead of giving light;
+- **teaching** becomes the furnace and the smoke, fire in its opposite sense, the burning of self-love that blinds instead of giving light;
 - **mind**, the inmost, becomes "the lump, the last bond," the ruling love of self binding everything beneath it into one mass.
 
 These are what Swedenborg describes as the forms of hell: "forms of the love of self and the love of the world," "diametrically opposite" to the loves of heaven (*Heaven and Hell* §554).
 
-The fruit of each tree is its state made visible. The good tree's fruit is the Splendour and its taste is the church; the bad tree's taste is "these evil people, the sects... bound in law after law" (21.19–22). One knows the tree by its fruit because the fruit is the tree in ultimates.
+The fruit of each tree is its state made visible. The good tree's fruit is the Radiance and its taste is the church; the bad tree's taste is "these evil people, the sects... bound in law after law" (21.19–22). One knows the tree by its fruit because the fruit is the tree in ultimates.
 
 The beatitude on the one who "separates them" names the decisive act of the regenerating mind. It must distinguish what belongs to the Lord from what belongs to self, and refuse to let the second pass for the first. Swedenborg makes the same distinction in his own terms: "none but good uses were created by the Lord," and "evil uses arose out of hell" (*Divine Love and Wisdom* §336). Good does not grow into evil, and evil does not grow into good. "They did not arise out of one another." The one who sees this "may go up." The one who confuses them falls.
 
@@ -453,7 +453,7 @@ The beatitude on the one who "separates them" names the decisive act of the rege
 | Insight = the First Man in the ship of the night | Interior understanding in the natural light (the moon) |
 | Thought = the Ambassador in the ship of the day | Spiritual understanding in the light of the sun |
 | Mind = the Father | The inmost, the Lord as the source of the mind's life |
-| The fruit (the Splendour) and its taste (the church) | The state of the tree made visible in ultimates |
+| The fruit (the Radiance) and its taste (the church) | The state of the tree made visible in ultimates |
 | The bad tree with the same five limbs | The same mind turned toward self; the opposite sense of every faculty |
 | The law of death | Instruction that kills: truth falsified into a rule against life |
 | Transmigration in type after type | The will circling in natural forms without ascent |
@@ -569,7 +569,7 @@ Mani then names what keeps this body alive and in order: "F[iv]e g[od]s are fast
 
 - the Keeper of Splendour, "the mind" (91.20; "set firm in the great mind," 92.12–13);
 - the King of Honour, "who is the thought" (92.24–25);
-- the Adamant of Light, "who is the insight" (91.25);
+- the Adamant of Light, "who is the teaching" (91.25);
 - the King of Glory, "who is the coun[sel ... ] patience" (91.27–28), "the great counsel" (93.9–10);
 - the Porter, "who is the consideration" (91.31).
 
@@ -601,7 +601,7 @@ Then two further correspondences close the series. "The teaching of wisdom, whic
 |---|---|---|---|
 | Keeper of Splendour | mind | the battlement of all the works; the three heavens | the face, "above his body" |
 | King of Honour | thought | the seven firmaments | the heart |
-| Adamant of Light | insight | from the firmament down to the earth; the sphere and atmosphere | the genitals and lust; "subdues Matter" |
+| Adamant of Light | teaching | from the firmament down to the earth; the sphere and atmosphere | the genitals and lust; "subdues Matter" |
 | King of Glory | counsel, patience | the three wheels of wind, water and fire; the three earths | the stomach, its fire and its nourishment; "sending the life above" |
 | Porter | consideration, wisdom | the great earth and its four fastenings | the feet, bound "with the chain of peace" |
 
@@ -620,7 +620,7 @@ The rulers who formed him intended to use the seal against the light. Among thei
 - the Father is "the directive of the bo[dy] that lives within, hidden in the storehouses inside the body and unseen" (151.17–21);
 - the sun and moon are its "two eyes that are visible and seen, and are even the body's source of illumination" (151.22–27);
 - the living soul is the part of the body that "can be grasped and mastered" and "receive blows and wounds" (151.28–152.1);
-- Jesus the Splendour is the tongue, "that speaks, proclaims, reprimands and reveals about everything happening in this body," who "manifests and reveals about everything, both the external and the internal" (152.1–10).
+- Jesus the Radiance is the tongue, "that speaks, proclaims, reprimands and reveals about everything happening in this body," who "manifests and reveals about everything, both the external and the internal" (152.1–10).
 
 **Spiritual reading.** These chapters state the doctrine Swedenborg attributed to the ancients: "By the ancients man was called a microcosm, from his representing the macrocosm," and they knew it "from the knowledge of correspondences" (*Divine Love and Wisdom* §319). The *Kephalaia* does not merely compare the universe to a body. Its claim is that the universe "reflects the pattern of the human body" and that the human body "accords to the pattern of the universe." That is the claim of correspondence, which says that the two are one form at two magnitudes, and it is what Swedenborg means when he writes that "all things of the created universe, viewed in reference to uses, represent man in an image" (§319, heading).
 
@@ -644,10 +644,10 @@ The single correspondences agree with Swedenborg's account of the provinces:
 - The heart is mankind in the great body and "the wheel of the rotating sphere" in the small. In both, it is the centre about which the life of the whole turns.
 - The stomach, whose master will "purify the nourishment that comes in to him," answers to Swedenborg's societies of "various purifications of good and truth" (§96).
 - The feet, standing on the great earth, are the lowest good on which the whole rests (§96).
-- Jesus the Splendour as the tongue "that... reveals about everything... both the external and the internal" is Swedenborg's province of the mouth and tongue, "the ability to converse from understanding and perception" (§96).
+- Jesus the Radiance as the tongue "that... reveals about everything... both the external and the internal" is Swedenborg's province of the mouth and tongue, "the ability to converse from understanding and perception" (§96).
 - The Father as the hidden "directive" inside the body is the inmost from which the whole lives unseen.
 
-Adam, finally, is the Greatest Man in least form. "The seal of the entire universe is stamped upon Adam" is the *Kephalaia*'s way of saying what Swedenborg says of every angel: "As heaven is a man in largest form, and a society of heaven in a less form, so is an angel in least" (*Heaven and Hell* §73). Adam bears "the image of the exalted one" because the human form is the image of the Divine. Those who formed him wanted to rule "through him" because whoever holds the human form holds the key to the whole. On the correspondential reading, the rulers' seven purposes (158.1–23) are the love of self's attempt to make the human form its own instrument. The good "induce him to life because of their image and shape placed upon him" (157.28–29). The form is theirs before it is anyone else's.
+Adam, finally, is the Greatest Man in least form. "The seal of the entire universe is stamped upon Adam" is the *Kephalaia*'s way of saying what Swedenborg says of every angel: "As heaven is a man in largest form, and a society of heaven in a less form, so is an angel in least" (*Heaven and Hell* §73). Adam bears "the image of the exalted one" because the human form is the image of the Divine. Those who formed him wanted to rule "through him" because whoever holds the human form holds the key to the whole. On the correspondential reading, the rulers' seven purposes (158.1–23) are the love of self's attempt to make the human form its own instrument. The good "induce him to life because of their likeness and shape placed upon him" (157.28–29). The form is theirs before it is anyone else's.
 
 **Correspondential key:**
 
@@ -668,7 +668,7 @@ Adam, finally, is the Greatest Man in least form. "The seal of the entire univer
 | The two light ships as love, joy, faith and truth | The two loves by which the soul rises: good and truth |
 | The Father as the hidden directive | The inmost governing unseen |
 | The two eyes as the sun and moon | The visible light of wisdom and of faith |
-| The tongue as Jesus the Splendour | The power to reveal, external and internal (*HH* §96) |
+| The tongue as Jesus the Radiance | The power to reveal, external and internal (*HH* §96) |
 | Adam sealed with the whole universe | The Greatest Man in least form (*HH* §73) |
 | "A seal-ring and a new impression" for all births | The human form passing to all who are born |
 
@@ -682,9 +682,9 @@ Mani's answer comes in three movements. The first explains how the soul came to 
 
 **The binding.** "Sin took this body... It took its [bod]y [from the five b]odies of darkness. (Sin) constructed the body. Yet, its [sou]l i[t] took from the five shining gods" (95.13–16). Then comes the sentence on which the whole account turns:
 
-> [(Sin) bou]nd (the soul) in the five members of the body. It bound the mind in bone; the thought in sinew; the insight in vein; the counsel in flesh; the consideration in ski[n]. (K. 95.16–19)
+> [(Sin) bou]nd (the soul) in the five members of the body. It bound the mind in bone; the thought in sinew; the teaching in vein; the counsel in flesh; the consideration in ski[n]. (K. 95.16–19)
 
-Sin then overlays the soul's faculties with its own, faculty upon faculty: "its mind upon the mind of the soul; [its] thought upon the thought of the soul; its insight upon the insight [of] the [s]oul; its counsel upon the counsel of the soul; its consider[atio]n upon the consideration of the soul" (95.20–23). Sin's "five [an]gels and authorities" lead the soul "to all the sins of lust, to the [wor]ship of idols, to erroneous opinions" (95.23–28). And the soul "assumed error and forgetfulness. It forgot its essence and its race and its kindred; kn[o]wing not the door of the place to pray to him" (96.2–5).
+Sin then overlays the soul's faculties with its own, faculty upon faculty: "its mind upon the mind of the soul; [its] thought upon the thought of the soul; its teaching upon the teaching [of] the [s]oul; its counsel upon the counsel of the soul; its consider[atio]n upon the consideration of the soul" (95.20–23). Sin's "five [an]gels and authorities" lead the soul "to all the sins of lust, to the [wor]ship of idols, to erroneous opinions" (95.23–28). And the soul "assumed error and forgetfulness. It forgot its essence and its race and its kindred; kn[o]wing not the door of the place to pray to him" (96.2–5).
 
 The order of the binding is the centre of the passage. [*The Resolution of the Finite Mind*](../02_Swedenborgian_Theology/The%20Resolution%20of%20the%20Finite%20Mind_%20Celestial%20Perception%2C%20Numerical%20Architecture%2C%20and%20the%20Limit%20of%20Spiritual%20Analysis.md) first drew attention to it (§5.4). The five faculties are listed from the highest to the lowest, mind to consideration. The five tissues are listed from the innermost to the outermost: bone, which lies deepest and bears the frame; sinew, which binds bone to bone; vein, which carries the blood through the flesh; flesh; and skin, the surface. The highest faculty is bound in the innermost tissue and the lowest in the outermost. What was a ladder in the two trees of §4, consideration at the bottom and mind at the top, is here a solid body, mind at the core and consideration at the surface.
 
@@ -692,11 +692,11 @@ This is Swedenborg's distinction between the two orders of the degrees, applied 
 
 **The release.** The Light Mind comes, "finds the soul," and undoes the binding member by member, in the same order. Each member of the soul is released and the matching member of sin is bound in its place:
 
-> He shall loosen the m[ind of the soul and release] it from the bone. He shall release the th[ought of the soul] from the sinew; and s[o] bind the thought [of the sin in] the sinew. He shall release the insight of the soul from the vei[n]; and so bind the insight of the sin in the vein. [He sh]all loosen the counsel of the soul, and release it from the flesh; and so bind the counsel of the sin in the flesh. He shall release the consideration of the soul from the skin; and bin[d] the consideration of the sin in the skin. This is how he shall release the members of the soul, and make them free from the five members of sin. Conversely, these five members of sin, which were loose; he shall bind them. (K. 96.13–25)
+> He shall loosen the m[ind of the soul and release] it from the bone. He shall release the th[ought of the soul] from the sinew; and s[o] bind the thought [of the sin in] the sinew. He shall release the teaching of the soul from the vei[n]; and so bind the teaching of the sin in the vein. [He sh]all loosen the counsel of the soul, and release it from the flesh; and so bind the counsel of the sin in the flesh. He shall release the consideration of the soul from the skin; and bin[d] the consideration of the sin in the skin. This is how he shall release the members of the soul, and make them free from the five members of sin. Conversely, these five members of sin, which were loose; he shall bind them. (K. 96.13–25)
 
 The release does not leave the soul bodiless. It is followed at once by a construction:
 
-> He shall set right the members of the soul; form and purify them, and construct a new man of them, a child [o]f righteousness. [And] when [he] fashions and const[r]ucts and purifies the new man; then he shall bring forth five great living members out from the five great memb[ers]. And he places them in the members of the new man. He shall place his m[ind], which is love, in the mind of the new man. Also, the th[oug]ht, which is faith, he shall pl[ace in] the thought [of the] new [man]... His insight, which [is perfection, he shall place] in the insight of the new man. His counsel, which [is] patience, he shall place in his counsel. Also, [w]isdom, which is his consideration, in the consideration of the new man. (K. 96.25–97.3)
+> He shall set right the members of the soul; form and purify them, and construct a new man of them, a child [o]f righteousness. [And] when [he] fashions and const[r]ucts and purifies the new man; then he shall bring forth five great living members out from the five great memb[ers]. And he places them in the members of the new man. He shall place his m[ind], which is love, in the mind of the new man. Also, the th[oug]ht, which is faith, he shall pl[ace in] the thought [of the] new [man]... His teaching, which [is perfection, he shall place] in the teaching of the new man. His counsel, which [is] patience, he shall place in his counsel. Also, [w]isdom, which is his consideration, in the consideration of the new man. (K. 96.25–97.3)
 
 Gardner comments that "this 'new man', a concept ultimately to be derived from Paul, will now display the five virtues of love, faith, perfection, patience and wisdom" (p. xxxi). The new man is not a disembodied soul. He is a man with five members, and each member is the Light Mind's own faculty placed in the matching faculty of the person. The result is a body governed from within: "the new man reigns [b]y his love, by hi[s] faith, by his perfection, [b]y his [p]atience, and by his wisdom. Yet, his king [ ... the] Light [Min]d, he w[ho is] king over the totality" (97.19–22).
 
@@ -725,7 +725,7 @@ Two verbs in this passage matter for §9: the new man is "sculpted," and the pur
 
 **Accommodation.** One more passage of chapter 38 answers the disciple's question about how a great god fits into a small body, and it does so with the body's own logic. The guardians of the universe, "while they are great, [y]et have they contorted themselves... they have become small, to the measure of the task [th]at is apportioned to each o[n]e [of t]hem. Again, this too is like [the] Mind, himse[lf] a great one, and exalted; but he is bent over and [has] become small, to this little worthless [bo]dy" (99.25–29).
 
-Once accommodated, the Mind does in the body what the guardians do in the universe. "Behold the mightiness and the activity of the Light Mind: how vast he is over all the watch-districts of the body!" (100.1–2). The elect one, "as he stands on the earth," may be found "[r]ising up in his heart and ascending to the Father," or descending "in his insight and his consideration" to the land of darkness; "his heart shall run and touch everything" (100.8–14). But the Mind can be seen only by one who can see him: "Whoever has an open and percept[ive] eye, [he can] appear to him" (100.16–17).
+Once accommodated, the Mind does in the body what the guardians do in the universe. "Behold the mightiness and the activity of the Light Mind: how vast he is over all the watch-districts of the body!" (100.1–2). The elect one, "as he stands on the earth," may be found "[r]ising up in his heart and ascending to the Father," or descending "in his teaching and his consideration" to the land of darkness; "his heart shall run and touch everything" (100.8–14). But the Mind can be seen only by one who can see him: "Whoever has an open and percept[ive] eye, [he can] appear to him" (100.16–17).
 
 **Spiritual reading.** These passages are the *Kephalaia*'s doctrine of regeneration, and they are written entirely in the body.
 
@@ -733,7 +733,7 @@ The binding of the five faculties into the five tissues is the human mind incarn
 
 The overlay of sin's five members on the soul's five is the proprium in its opposite sense. It is not a second nature added from nowhere. It is a counterfeit of each faculty laid over the true one: a mind of sin over the mind, a thought of sin over the thought. The regenerating work does not destroy the faculties of sin but binds them. It loosens the soul's members and fastens the counterfeit in the place the soul has left. This is the framework's account of the selfhood: a vessel which, while it claims what flows through it, binds the life it holds, and which, when it is brought into order, becomes the ultimate in which that life stands.
 
-The new man is the regenerate person as a body. Its five members are love, faith, perfection, patience and wisdom, set in mind, thought, insight, counsel and consideration, and its king is the Light Mind. This is what Swedenborg calls a man "in exact proportion to what they have from Him" (*Arcana Coelestia* §4219). The new man is a man because each of his members has received the Mind's corresponding member, and he reigns because the Mind reigns in him. A new man of five members with the Mind as king is an angel "in least form," "a recipient... a heaven, and an angel" (*Heaven and Hell* §73).
+The new man is the regenerate person as a body. Its five members are love, faith, perfection, patience and wisdom, set in mind, thought, teaching, counsel and consideration, and its king is the Light Mind. This is what Swedenborg calls a man "in exact proportion to what they have from Him" (*Arcana Coelestia* §4219). The new man is a man because each of his members has received the Mind's corresponding member, and he reigns because the Mind reigns in him. A new man of five members with the Mind as king is an angel "in least form," "a recipient... a heaven, and an angel" (*Heaven and Hell* §73).
 
 The fall is the reverse, and the text describes it as Swedenborg describes the separation of the heterogeneous. Sin enters at the outermost faculty and works inward until it reaches love. At every stage the person withdraws from the body of the church: he wants to eat alone, to walk alone, to go in and out alone. This is the love of self as a member's desire to be a whole by itself. Swedenborg's rule for the Greatest Man is that "those who do not perform uses for the common good are cast out of heaven as something heterogeneous" (*Heaven and Hell* §64), and that whoever wills good to others "not for the sake of the common good but for the sake of self" does not perform use (§64). The *Kephalaia*'s separated member becomes "an earthly man," "a vessel of loss," and the Mind that was in him returns to the one who sent it.
 
@@ -790,7 +790,7 @@ It has a head, and the head is the First Man. Chapter 31, "Concerning the Summon
 
 > After the fashion of this fleshly body: as the root of all the lim[bs] hang upon the head, so that should one of the person's limbs be cut off, while the head exists he has hope for [ ... ] but if his head should be cut off, the entir[e] body [w]ill d[ie] and he is lost. This is also the case for the Firs[t] Ma[n]. He is the head, while his sons attach to it the l[i]mbs [of] his soul. Or, conversely, like the l[i]ving air, on [w]hich all flesh entirely lives as it breathes... His head is placed on the body of the Pill[ar of Gl]ory in the heights of the universe. (K. 84.21–30)
 
-"Pill[ar of Gl]ory" stands at a line-break with both ends preserved, and the restoration is certain. The chapter continues with the First Man's five faculties, "the mind, thought, insight, counsel and c[on]sideration that he produced and sent forth from hi[m to] do his will," which, entwined among the rebels, are "like the limbs of its body" (85.1–5). Then the gathering is described as a building: "The Man him[s]elf... gathered his soul i[n ... ] he built it in its place like this to[w]er... shaped it and beautified it skillfully... They were gathered in. They came, [s]et firm onc[e] more, in the image of their father" (85.11–18).
+"Pill[ar of Gl]ory" stands at a line-break with both ends preserved, and the restoration is certain. The chapter continues with the First Man's five faculties, "the mind, thought, teaching, counsel and c[on]sideration that he produced and sent forth from hi[m to] do his will," which, entwined among the rebels, are "like the limbs of its body" (85.1–5). Then the gathering is described as a building: "The Man him[s]elf... gathered his soul i[n ... ] he built it in its place like this to[w]er... shaped it and beautified it skillfully... They were gathered in. They came, [s]et firm onc[e] more, in the image of their father" (85.11–18).
 
 The chapter begins by citing a scripture "about the Man that he spread himself through the [ ... ] aeon as to a wooden house" (84.12–13). Gardner's commentary draws the whole picture into four sentences. "The First Man is the head upon which the soul depends for its life." "The Man gathers in the soul, and builds it up, so that as his trunk it eschatologically ascends back to the land of light." "This trunk is the Pillar of Glory which reunites with the First Man at its head." "At the end of time it is the Last Statue" (p. 86).
 
@@ -838,7 +838,7 @@ The Coptic uses the Greek loanword *andrias*, the ordinary word for a statue of 
 
 The fullest description is in chapter 16, where the counsel of life is the fifth of the five powers that "went forth against the Darkness":
 
-> T[hen the summons and the obed]ience, the great counsel that came [to] the el[emen]ts, which are set in conjunction. It [mixed w]ith them, i[t was es]tablished [i]n silence. It bears u[p ... ] un[til the end t]ime when it can arise and stand f[ir]m in the g[reat] fire. It will gather to it its own soul, and sc[ul]pt it in the Last Sta[t]ue. You will a[l]so find it sweeps out and casts from it the polluti[on] that is foreign to it. However, the life and the li[gh]t that are in all things it gathers in to it, and builds upon its body. The time when this Last Statue will be perfect in all its limbs, then it can become free and ascend from that great struggle thr[ough] the Living Spirit its father, the one who comes and brings a [ ... l]imb. He brings it up from within this gathering(?), the melting do[wn] and destruction of all things. (K. 54.9–24)
+> T[hen the summons and the obed]ience, the great counsel that came [to] the el[emen]ts, which are set in conjunction. It [mixed w]ith them, i[t was es]tablished [i]n silence. It bears u[p ... ] un[til the end t]ime when it can arise and stand f[ir]m in the g[reat] fire. It will gather to it its own soul, and sc[ul]pt it in the Last Sta[t]ue. You will a[l]so find it sweeps out and casts from it the polluti[on] that is foreign to it. However, the life and the li[gh]t that are in all things it gathers in to it, and builds upon its body. The time when this Last Statue will be perfect in all its limbs, then it can become free and ascend from that great struggle thr[ough] the Living Spirit its father, the one who comes and brings a [ ... l]imb. He raises it up from within this gathering(?), the melting do[wn] and destruction of all things. (K. 54.9–24)
 
 Every verb in this passage describes the forming of a body:
 
@@ -852,9 +852,9 @@ The father who brings it up comes bearing "a [ ... l]imb." The completion of the
 
 Mani follows the description with a simile, and the simile explains how a body can be gathered out of everything without being everything:
 
-> Now, th[is co]unsel, tha[t] summons <and> obedience, resembles thus cooled butter. If a pers[o]n will take an[d se]t it in hot milk, it melts [dow]n and soak[s] in with this hot milk. It m[elts] in another [time i]n silence and quiet to the mids[t ... ] yet also, of the power and the taste of this m[ilk ... ] is drawn to (the butter), and (the milk) sets and becomes [cold ... this mi]lk it shall clarify and discard. However, the oil and the grease and the "beauty" of the [m]ilk it shall gather in to it. Again, this too is what the advent of that thought is like; the counsel of life, which is the summons and [o]bedience that came to the el[e]ments. This is the one that at the end c[an a]rise and stand firm, and will gather [i]n to it all [the] lives, a[nd] the light that has [remai]ned behind [in] everything. It can bui[ld] them upon [it]s body, it will [gath]er them in to it [ ... ] in its im[ag]e for ever and ever. (K. 54.24–55.11)
+> Now, th[is co]unsel, tha[t] summons <and> obedience, resembles thus cooled butter. If a pers[o]n will take an[d se]t it in hot milk, it melts [dow]n and soak[s] in with this hot milk. It m[elts] in another [time i]n silence and quiet to the mids[t ... ] yet also, of the power and the taste of this m[ilk ... ] is drawn to (the butter), and (the milk) sets and becomes [cold ... this mi]lk it shall clarify and discard. However, the oil and the grease and the "beauty" of the [m]ilk it shall gather in to it. Again, this too is what the advent of that thought is like; the counsel of life, which is the summons and [o]bedience that came to the el[e]ments. This is the one that at the end c[an a]rise and stand firm, and will gather [i]n to it all [the] lives, a[nd] the light that has [remai]ned behind [in] everything. It can bui[ld] them upon [it]s body, it will [gath]er them in to it [ ... ] in its likeness for ever and ever. (K. 54.24–55.11)
 
-The butter dissolves into the milk "in silence and quiet." As the milk cools, the butter draws to itself what is of its own kind, "the oil and the grease and the 'beauty' of the [m]ilk," and lets the rest go. The counsel does the same with the world. It is mixed into everything without noise, and at the end it draws to itself every life and every light of its own kind and builds them "upon [it]s body... in its im[ag]e for ever."
+The butter dissolves into the milk "in silence and quiet." As the milk cools, the butter draws to itself what is of its own kind, "the oil and the grease and the 'beauty' of the [m]ilk," and lets the rest go. The counsel does the same with the world. It is mixed into everything without noise, and at the end it draws to itself every life and every light of its own kind and builds them "upon [it]s body... in its likeness for ever."
 
 The same doctrine recurs through the book, always in the same terms:
 
@@ -892,7 +892,7 @@ This is the body the Father's limbs went out to rescue (§3), the body the Pilla
 
 *Those who are severed go where they loved.* The text insists that the lost go into the darkness "just as they desired it and loved it, and placed their treasure with it." This is Swedenborg's doctrine that the two loves of self and the world "constitute the hells" as love to the Lord and the neighbour constitute the heavens (*Heaven and Hell* §554). The severing is not an external sentence carried out on unwilling members. A member severed from the body is one whose love was elsewhere. The weeping of the elements for them is the grief of the whole for the parts that would not be parts, which the text calls the worst of all its weepings.
 
-*It is the Divine's own image completed.* The counsel builds the gathered lives "upon its body... in its image for ever and ever," and Gardner reads the Statue as recapitulating "the descent... of the First Man." The body that rises is the image of the head that descended. Swedenborg's "it is from the Lord's Divine Human that heaven as a whole and in part reflects man" (*Heaven and Hell* §78) is the same claim: the completed heaven has the human form because its source is the Divine Human, and its completion is the restoration of that image in what was received. On the third great day the Father will "perfect their stature in sa[m]e measure as his first aeons" (103.20–21).
+*It is the Divine's own image completed.* The counsel builds the gathered lives "upon its body... in its likeness for ever and ever," and Gardner reads the Statue as recapitulating "the descent... of the First Man." The body that rises is the image of the head that descended. Swedenborg's "it is from the Lord's Divine Human that heaven as a whole and in part reflects man" (*Heaven and Hell* §78) is the same claim: the completed heaven has the human form because its source is the Divine Human, and its completion is the restoration of that image in what was received. On the third great day the Father will "perfect their stature in sa[m]e measure as his first aeons" (103.20–21).
 
 **Correspondential key:**
 
@@ -910,7 +910,7 @@ This is the body the Father's limbs went out to rescue (§3), the body the Pilla
 | Souls whose "limbs have been severed," "separated from the Last Statue" | Those whose loves are of self and the world, which constitute hell (*HH* §554) |
 | Going into the darkness "just as they desired it and loved it" | The evil going where their ruling love belongs |
 | The elements weeping for the severed | The grief of the whole for parts that would not be parts |
-| The Statue recapitulating the First Man's descent; built "in its image" | The completed heaven as the image of the Divine Human (*HH* §78) |
+| The Statue recapitulating the First Man's descent; built "in its likeness" | The completed heaven as the image of the Divine Human (*HH* §78) |
 
 ---
 
@@ -997,16 +997,16 @@ The *Kephalaia* counts on almost every page. Its chapter titles promise four day
 
 | Register | The five | Locus |
 |---|---|---|
-| The Father | "his five light limbs": mind, thought, insight, counsel, [consideration] | 64.20–23 |
-| The five fathers | from the Father's mind, thought, insight, counsel, consideration | 76.20–24 |
-| The good tree | consideration (church), counsel (Pillar), insight (First Man), thought (Ambassador), mind (Father) | 20.11–31 |
-| The bad tree | consideration, counsel, insight, thought, [mind], each in its opposite | 21.28–36 |
+| The Father | "his five light limbs": mind, thought, teaching, counsel, [consideration] | 64.20–23 |
+| The five fathers | from the Father's mind, thought, teaching, counsel, consideration | 76.20–24 |
+| The good tree | consideration (church), counsel (Pillar), teaching (First Man), thought (Ambassador), mind (Father) | 20.11–31 |
+| The bad tree | consideration, counsel, teaching, thought, [mind], each in its opposite | 21.28–36 |
 | The King of Darkness | five shapes from five worlds | 30.33–31.2; 77.27–78.3 |
-| The guardians of the universe | mind, thought, insight, counsel, consideration | 91.19–31; 92.12–93.10 |
+| The guardians of the universe | mind, thought, teaching, counsel, consideration | 91.19–31; 92.12–93.10 |
 | The members of the elect | face, heart, genitals, stomach, feet | 172.4–20 |
-| The soul in the flesh | mind in bone, thought in sinew, insight in vein, counsel in flesh, consideration in skin | 95.16–19 |
-| The new man | love, faith, perfection, patience, wisdom in mind, thought, insight, counsel, consideration | 96.29–97.3 |
-| The First Man's soul | "the mind, thought, insight, counsel and c[on]sideration" | 85.1–2 |
+| The soul in the flesh | mind in bone, thought in sinew, teaching in vein, counsel in flesh, consideration in skin | 95.16–19 |
+| The new man | love, faith, perfection, patience, wisdom in mind, thought, teaching, counsel, consideration | 96.29–97.3 |
+| The First Man's soul | "the mind, thought, teaching, counsel and c[on]sideration" | 85.1–2 |
 
 The five is never a count of five separate things that happen to be grouped. It is one body's faculty in its radial order, from the inmost to the outermost. The same names recur at every register because the same form recurs. [*The Resolution of the Finite Mind*](../02_Swedenborgian_Theology/The%20Resolution%20of%20the%20Finite%20Mind_%20Celestial%20Perception%2C%20Numerical%20Architecture%2C%20and%20the%20Limit%20of%20Spiritual%20Analysis.md) drew this meaning of five from these chapters (§§5.3–5.4), and the survey here confirms it at every register in which the text gives a body.
 
@@ -1015,7 +1015,7 @@ The five is never a count of five separate things that happen to be grouped. It 
 - **the Father's "twelve light limbs that are his twelve wisdoms"** (64.24–25);
 - **the Father's twelve "great rich Gods of great[ness]," which "he spread out to the four climes, three b[y] three before his face"** (25.15–19);
 - **the Ambassador's "twelv[e v]irgins"** (25.20–22);
-- **Jesus the Splendour's "twelve wisdoms"** (25.31–33);
+- **Jesus the Radiance's "twelve wisdoms"** (25.31–33);
 - **the twelve judges, who "came from the great Judge"** (81.7–9).
 
 In each case the twelve is the full complement of what belongs to one figure, the whole of his greatness in its articulation. That is what Swedenborg says twelve means: "the things of love and the derivative faith in one complex" (*Arcana Coelestia* §577); "this number, wherever it occurs in the Word, signifies all" (§3272).
@@ -1043,7 +1043,7 @@ The same interlocking appears wherever the text gives a body:
 
 This is Swedenborg's doctrine of degrees, not a departure from it. The three degrees are love, wisdom and use, "like first end, middle end which is called cause, and last end which is called effect" (*Divine Love and Wisdom* §230). In chapter 3 they appear as happiness, wisdom and power. They are in everything, greatest and least: "there can be nothing so minute as not to have in it degrees of both kinds" (§223).
 
-Five is a second structural quality of the same whole: the radial order of a faculty, which the text expresses in five aspects, mind, thought, insight, counsel and consideration. Two is a third: good and truth, which Swedenborg gives as two expressions of one quality.
+Five is a second structural quality of the same whole: the radial order of a faculty, which the text expresses in five aspects, mind, thought, teaching, counsel and consideration. Two is a third: good and truth, which Swedenborg gives as two expressions of one quality.
 
 None of these is a count of separate parts, and none competes with another. They are the dimensions in which the spiritual mind perceives one living form. Swedenborg names the three exactly and leaves five vague, giving it only as "much" or "some," as [*The Resolution of the Finite Mind*](../02_Swedenborgian_Theology/The%20Resolution%20of%20the%20Finite%20Mind_%20Celestial%20Perception%2C%20Numerical%20Architecture%2C%20and%20the%20Limit%20of%20Spiritual%20Analysis.md) showed (§§5.2, 5.5). The *Kephalaia* names the five exactly and shows the three running through it. Read together, they describe one body.
 
@@ -1141,7 +1141,7 @@ Three and five are two structural qualities of one body, as good and truth are t
 
 The form is shown from above and reproduced below, and the copy lives only with the life the light puts into it. This is Swedenborg's own physics of life: the Lord alone is life, and every form is a recipient of it (*Divine Love and Wisdom* §4). Read literally, the text says that darkness built the world. Read at the level of its own anatomy, it says what Swedenborg says.
 
-**The central finding** can now be stated without qualification. The *Kephalaia of the Teacher*, read in Gardner's translation, presents everything it describes in one human form. It does so at every scale: the Father, the realm of light, the two trees, the universe, Adam, the individual soul, the regenerate person, the church, the Pillar and the end. It presents the adversary as that form inverted. It orders the form's members from within outward and by use. It ends with the form completed by gathering and purged of what is foreign to it.
+**The central finding** can now be stated without qualification. The *Kephalaia of the Teacher*, read in Gardner's translation corrected to the Coptic, presents everything it describes in one human form. It does so at every scale: the Father, the realm of light, the two trees, the universe, Adam, the individual soul, the regenerate person, the church, the Pillar and the end. It presents the adversary as that form inverted. It orders the form's members from within outward and by use. It ends with the form completed by gathering and purged of what is foreign to it.
 
 This is the Greatest Man as Swedenborg described it. The text was unknown in Europe until 1933, when the Medinet Madi find was announced, and it was published in 1940. Swedenborg described the Greatest Man between 1749 and 1763.
 
@@ -1168,7 +1168,7 @@ This is the Greatest Man as Swedenborg described it. The text was unknown in Eur
 
 The first thing the *Kephalaia* preserves is the human form as a way of composing, not as one doctrine among others. Swedenborg states the Greatest Man as a doctrine, in a chapter of *Heaven and Hell* and in interchapters of the *Arcana*. The *Kephalaia* nowhere states it in a single place, yet the form governs every subject the book takes up. Asked about the Father, the text gives limbs. Asked about a parable, it gives two bodies. Asked about the adversary, it gives a monster with five shapes. Asked about the universe, it gives a man from head to feet. Asked how a god fits into a person, it binds the faculties into the tissues. Asked about the end, it gives a statue. A body is the form the text's thinking takes when it thinks about anything.
 
-The second thing it preserves is the five as faculty, consistently named. Swedenborg's doctrine of degrees is threefold, and Scripture, as [*The Resolution of the Finite Mind*](../02_Swedenborgian_Theology/The%20Resolution%20of%20the%20Finite%20Mind_%20Celestial%20Perception%2C%20Numerical%20Architecture%2C%20and%20the%20Limit%20of%20Spiritual%20Analysis.md) showed, leaves the meaning of five open (§5.2). The *Kephalaia* gives five a fixed content: mind, thought, insight, counsel and consideration, always in that radial order. It holds that content steady across ten registers, from the Father to the new man (§11). Where Swedenborg tells us that the degrees stand within one another in the body, the *Kephalaia* tells us which faculty stands in which tissue. It does not set this five against Swedenborg's three. It runs the three through the five: happiness, wisdom and power at each of five levels, and three heavens, three wheels and three earths within the five watches (§11). Swedenborg is exact about the three and vague about the five; the text is exact about both and shows how they interlock.
+The second thing it preserves is the five as faculty, consistently named. Swedenborg's doctrine of degrees is threefold, and Scripture, as [*The Resolution of the Finite Mind*](../02_Swedenborgian_Theology/The%20Resolution%20of%20the%20Finite%20Mind_%20Celestial%20Perception%2C%20Numerical%20Architecture%2C%20and%20the%20Limit%20of%20Spiritual%20Analysis.md) showed, leaves the meaning of five open (§5.2). The *Kephalaia* gives five a fixed content: mind, thought, teaching, counsel and consideration, always in that radial order. It holds that content steady across ten registers, from the Father to the new man (§11). Where Swedenborg tells us that the degrees stand within one another in the body, the *Kephalaia* tells us which faculty stands in which tissue. It does not set this five against Swedenborg's three. It runs the three through the five: happiness, wisdom and power at each of five levels, and three heavens, three wheels and three earths within the five watches (§11). Swedenborg is exact about the three and vague about the five; the text is exact about both and shows how they interlock.
 
 The third thing is both orders of the degrees, kept distinct and joined in one figure. The ladder of the good tree and the solid body of chapter 38 are the same five faculties arranged successively and simultaneously. The Pillar of Glory, the Perfect Man, is a single figure with a name for each arrangement. Swedenborg describes both orders and the relation between them in *Divine Love and Wisdom* §205. The *Kephalaia* writes the relation into its titles.
 
@@ -1292,7 +1292,7 @@ The darkness can reproduce what the light displays, but it cannot make it, and i
 
 ### 13.5 Limitations and Lacunae
 
-**Dependence on one translation.** The argument rests on Gardner's English. The thesis has not checked the key terms against the Coptic. The library's own transcription is not yet reliable enough for that, and the printed Coptic of Polotsky and Böhlig was not consulted here. Gardner's index confirms that "the Last Statue," "the Statue," "the Perfect Man" and "the Pillar of Glory" render fixed Coptic expressions, and that the Statue is the Greek loan *andrias*. But word-level questions remain open:
+**Dependence on one translation.** The argument rests on Gardner's English, corrected in the four renderings the library's edition checks against the Coptic (§2.2). Beyond those four, the thesis has not checked the key terms against the Coptic. The library's own transcription is not yet reliable enough for that, and the printed Coptic of Polotsky and Böhlig was not consulted here. Gardner's index confirms that "the Last Statue," "the Statue," "the Perfect Man" and "the Pillar of Glory" render fixed Coptic expressions, and that the Statue is the Greek loan *andrias*. But word-level questions remain open:
 
 - the range of the Coptic word Gardner renders "limb" and "member";
 - whether "construct," "build" and "sculpt" render one verb or several;
@@ -1340,9 +1340,9 @@ Swedenborg's Greatest Man is heaven. The *Kephalaia* applies the form as fully t
 
 ## 14. Conclusion: Perfect in All Its Limbs
 
-This thesis asked whether the *Kephalaia of the Teacher* is composed as one human form. It answered from Gardner's translation, citing preserved text, and testing each register against Swedenborg's description of the Greatest Man. The answer is yes, in every register the text describes.
+This thesis asked whether the *Kephalaia of the Teacher* is composed as one human form. It answered from Gardner's translation with the edition's four corrections to the Coptic, citing preserved text, and testing each register against Swedenborg's description of the Greatest Man. The answer is yes, in every register the text describes.
 
-**The Father** is a body. He "ex[ists and is] established in his five light limbs" of mind, thought, insight, counsel and consideration, and in "twelve light limbs that are his twelve wisdoms." The powers that go out from him come "from the five limbs." He and his love "are a single living body... because he has given himself for every thing." At every level of the system a father lives "established" in his greatness, as a life in its body. This is God as Man, from whose Divine Human, in Swedenborg's words, "heaven as a whole and in part reflects man."
+**The Father** is a body. He "ex[ists and is] established in his five light limbs" of mind, thought, teaching, counsel and consideration, and in "twelve light limbs that are his twelve wisdoms." The powers that go out from him come "from the five limbs." He and his love "are a single living body... because he has given himself for every thing." At every level of the system a father lives "established" in his greatness, as a life in its body. This is God as Man, from whose Divine Human, in Swedenborg's words, "heaven as a whole and in part reflects man."
 
 **The two trees** of the Gospel parable are two bodies with the same five limbs. The good tree is a ladder by which the souls rise from the church to the Father. The bad tree has the same faculties turned to death, transmigration, gehenna and "the lump, the last bond." Gardner calls it "an exact negative." This is the human mind turned toward its source or toward itself.
 
@@ -1350,7 +1350,7 @@ This thesis asked whether the *Kephalaia of the Teacher* is composed as one huma
 
 **The universe** was built "after the likeness of a man," with ribs as firmaments, navel as zodiac and heart as mankind. Five guardians, each a faculty, keep its watch-districts. In it "the small body corresponds to the macro-cosmos." The elect who master face, heart, desire, appetite and feet resemble those guardians, member for member, by use rather than by position. Adam bears "the seal of the entire universe." This is the doctrine that the ancients, Swedenborg wrote, derived "from the knowledge of correspondences."
 
-**The soul** is bound into the little body in Swedenborg's simultaneous order: mind in bone, thought in sinew, insight in vein, counsel in flesh, consideration in skin. The Light Mind looses those members and will "construct a new man of them," with five living members — love, faith, perfection, patience and wisdom — and reigns in him as king. The new man is lost again from the outside in, until the member wants "to walk alone," "becomes an earthly man," and is separated from the body of the church.
+**The soul** is bound into the little body in Swedenborg's simultaneous order: mind in bone, thought in sinew, teaching in vein, counsel in flesh, consideration in skin. The Light Mind looses those members and will "construct a new man of them," with five living members — love, faith, perfection, patience and wisdom — and reigns in him as king. The new man is lost again from the outside in, until the member wants "to walk alone," "becomes an earthly man," and is separated from the body of the church.
 
 **The Pillar of Glory, the Perfect Man**, is one figure under two names. It is a column that "bore up under the [en]tire universe" and carries the light upward to the ships and the aeons. It is also a man, the "great Mind" placed in the universe, its body perfected by the five intellectuals, with the First Man's head "placed on the body of the Pill[ar of Gl]ory in the heights." Swedenborg describes the degrees as a column in successive order and as a solid body in simultaneous order. The *Kephalaia* gives one figure both descriptions, and the body is the church gathering under its head.
 
@@ -1372,7 +1372,7 @@ The names are many. The limbs are many. The body is one, and at the end it is pe
 
 ### 15.1 The Mapping Table
 
-The table gathers every register traced in the thesis. For each it gives the *Kephalaia* locus (Gardner's translation, by Coptic page and line), the argument-bearing words as preserved, Gardner's own description where he gives one, and the corresponding feature of Swedenborg's Greatest Man.
+The table gathers every register traced in the thesis. For each it gives the *Kephalaia* locus (Gardner's translation as corrected in §2.2, by Coptic page and line), the argument-bearing words as preserved, Gardner's own description where he gives one, and the corresponding feature of Swedenborg's Greatest Man.
 
 | Register | *Kephalaia* (ch.; K.) | Preserved wording | Gardner | Greatest Man (Swedenborg) | § |
 |---|---|---|---|---|---|
@@ -1393,13 +1393,13 @@ The table gathers every register traced in the thesis. For each it gives the *Ke
 | The anti-body contracting | ch. 6; 32.14–19 | "he with[draws] his limbs... falls to the ground like... a great iron ball" | — | Self-love drawing all into one mass | 5 |
 | The anti-body's members today | ch. 6; 33.5–34.11 | spirits reigning "today" in tyrants, fire-worship, idolatry, baptists, soothsayers; "Live not in them" | — | Every one in hell a devil by his opposition (*HH* §544) | 5 |
 | The universe as a man | ch. 38; 90.20–91.18 | "constructed after the likeness of a man"; ribs, navel, heart = mankind; "F[iv]e g[od]s... his soul and his life" | "the universe is constructed in the form of a human" (p. 94) | The universe representing man by uses (*DLW* §319) | 6 |
-| The guardians as faculties | ch. 38; 91.19–93.10 | Keeper of Splendour "the mind"; King of Honour "the thought"; Adamant "the insight"; King of Glory "the great counsel"; Porter "the consideration" | "the five sons of the Living Spirit are the intellectual qualities" (p. 94) | Faculties ordering the natural | 6 |
+| The guardians as faculties | ch. 38; 91.19–93.10 | Keeper of Splendour "the mind"; King of Honour "the thought"; Adamant "the teaching"; King of Glory "the great counsel"; Porter "the consideration" | "the five sons of the Living Spirit are the intellectual qualities" (p. 94) | Faculties ordering the natural | 6 |
 | The body as the universe | ch. 70; 169.28–170.20 | "This whole universe... [re]flects the pattern of the hum[an] body"; "the small body corresponds to the macro-cosmos" | "the correspondence between the micro- and macro-cosmos" (p. 179) | Man as microcosm (*DLW* §319) | 6 |
 | The elect's members | ch. 70; 171.29–172.29 | face, heart, genitals, stomach, feet resembling the five guardians; "another five camps... the Light Mind... and the new man" | — | Members by use (*HH* §96; *DLW* §322) | 6 |
 | Adam | ch. 64; 157.3–158.14 | "the seal of the entire universe is stamped upon Adam"; "a seal-ring and a new impression" | — | Heaven in least form (*HH* §73) | 6 |
 | The body's visible and hidden members | ch. 60; 151.9–152.10 | Father = directive; sun and moon = eyes; living soul = the body struck; Jesus = tongue | "the analogy of the corporeal body" (p. 158) | Provinces of the eyes and tongue (*HH* §96) | 6 |
-| The soul bound in the body | ch. 38; 95.16–19 | "It bound the mind in bone; the thought in sinew; the insight in vein; the counsel in flesh; the consideration in ski[n]" | "The five intellectual qualities were bound in the body" (p. 94) | Degrees in simultaneous order (*DLW* §205); bones and skin of least life (*AC* §5560) | 7 |
-| Release and the new man | ch. 38; 96.13–97.22 | "construct a new man of them"; mind = love, thought = faith, insight = [perfection], counsel = patience, consideration = wisdom; Light Mind as king | new man "ultimately to be derived from Paul" (p. xxxi) | Angel in least form; man from what he has from the Lord (*HH* §73; *AC* §4219) | 7 |
+| The soul bound in the body | ch. 38; 95.16–19 | "It bound the mind in bone; the thought in sinew; the teaching in vein; the counsel in flesh; the consideration in ski[n]" | "The five intellectual qualities were bound in the body" (p. 94) | Degrees in simultaneous order (*DLW* §205); bones and skin of least life (*AC* §5560) | 7 |
+| Release and the new man | ch. 38; 96.13–97.22 | "construct a new man of them"; mind = love, thought = faith, teaching = [perfection], counsel = patience, consideration = wisdom; Light Mind as king | new man "ultimately to be derived from Paul" (p. xxxi) | Angel in least form; man from what he has from the Lord (*HH* §73; *AC* §4219) | 7 |
 | The member's fall | ch. 38; 97.26–99.17 | sin mounting consideration → counsel → thought → mind; "he shall want to eat and to drink alone"; "an earthly man" | — | The heterogeneous cast out (*HH* §§64, 68) | 7 |
 | Three images | ch. 114; 269.18–270.24 | corporeal, psychic, spiritual; the new man "sealed with all the limbs"; "this living limb" | the light virgin as "the manifestation of the soul" (p. 275) | Discrete degrees of one person | 7 |
 | Accommodation | ch. 38; 99.25–29 | the Mind "bent over and [has] become small, to this little worthless [bo]dy" | — | The whole present in the least (*AC* §3633) | 7 |
@@ -1407,7 +1407,7 @@ The table gathers every register traced in the thesis. For each it gives the *Ke
 | The Pillar as man | chs. 38, 72, 74; 92.5–6; 177.2–4; 181.10–11 | "the great Mind; who is the Pillar of Glory, the Perfect Man"; "the five intellectuals that [make per]fect the body of the Pillar of Glory, the Perfect Man" | "the representation of the church as the body of Jesus" (p. xxxii) | Solid body of simultaneous degrees (*DLW* §205); church as body | 8 |
 | The First Man as head | ch. 31; 84.21–85.18 | "as the root of all the lim[bs] hang upon the head... He is the head... His head is placed on the body of the Pill[ar of Gl]ory" | "This trunk is the Pillar of Glory which reunites with the First Man at its head" (p. 86) | God-Man as head (*DLW* §24); third heaven as head (*HH* §65) | 8 |
 | The Last Statue | ch. 16; 54.9–24 | "sc[ul]pt it in the Last Sta[t]ue"; "builds upon its body"; "perfect in all its limbs"; "casts from it the polluti[on] that is foreign to it" | "this soul will gather up and rise as the Last Statue" (p. xxxiii) | Society formed "by degrees in a human form" (*HH* §68) | 9 |
-| The butter in the milk | ch. 16; 54.24–55.11 | "gather in to it... the oil and the grease and the 'beauty'"; "bui[ld] them upon [it]s body... in its im[ag]e for ever" | — | Conjunction by like uses (*HH* §64); the inmost conspiring to the form (*AC* §3633) | 9 |
+| The butter in the milk | ch. 16; 54.24–55.11 | "gather in to it... the oil and the grease and the 'beauty'"; "bui[ld] them upon [it]s body... in its likeness for ever" | — | Conjunction by like uses (*HH* §64); the inmost conspiring to the form (*AC* §3633) | 9 |
 | Severance | chs. 39, 59; 104.6–12; 149.29–150.11 | "their limbs have been severed"; "separated from the Last Statue"; "just as they desired it an[d] loved it" | "Some of the divine itself can never be redeemed" (p. 156) | The loves of self and the world constituting hell (*HH* §554) | 9 |
 | The gathering | ch. 71; 175.29–176.8 | elements → answer → summons → Mind → Pillar → First Man → Ambassador → aeons; "on one occasion only" | "the eschatological path taken by each soul" (p. 185) | Successive resolved into simultaneous (*DLW* §205) | 10 |
 | Many names, one form | ch. 72; 177.2–178.23 | "a single form, and a single name, unaltered and unchangeable for ever" | "they will all return to a single form and a single name" (p. 186) | One body from a single love (*HH* §§59, 72; *DLW* §22) | 10 |
@@ -1415,16 +1415,16 @@ The table gathers every register traced in the thesis. For each it gives the *Ke
 
 ### 15.2 Name Concordance: Gardner and the Library's Edition
 
-The library's typeset edition, *The Ancient Word* (version 1.1), prints Gardner's English with the Manichaean names replaced by Persian ones, following the substitution list in its translation notes (pp. 5–6). It also rearranges the text by a structure discovered in the extracted substrate and numbers it by paragraph, so Gardner's page and line references cannot be used in it directly. The concordance lets a reader of the edition find the figures discussed here. The right-hand column reports the edition's own stated basis; this thesis has not verified it (§13.5).
+The library's typeset edition, *The Ancient Word* (version 1.1), prints Gardner's English, corrected in four renderings (§2.2), with the Manichaean names replaced by Persian ones, following the substitution list in its translation notes (pp. 5–6). It also rearranges the text by a structure discovered in the extracted substrate and numbers it by paragraph, so Gardner's page and line references cannot be used in it directly. The concordance lets a reader of the edition find the figures discussed here. The right-hand column reports the edition's own stated basis; this thesis has not verified it (§13.5).
 
-| Gardner's name (used in this thesis) | Name in *The Ancient Word* v1.1 | Edition's stated basis |
+| Name used in this thesis (Gardner's, corrected) | Name in *The Ancient Word* v1.1 | Edition's stated basis |
 |---|---|---|
 | Father of Greatness | Boundless Time | Zurvan Akarana |
 | First Man | Lord Wisdom | Ohrmazd / Ahura Mazdā |
 | Mother of Life | the Bounteous Spirit | Spenta Mainyu |
 | Living Spirit / Father of Life | the Lord of Covenants | Mihryazd (Mithra) |
 | Third Ambassador | the Envoy | Narisaf (Naryosanha) |
-| Jesus the Splendour | the Kingdom of Wisdom | Xradeshahr |
+| Jesus the Radiance | the Kingdom of Wisdom | Xradeshahr |
 | Jesus the Youth | the Living Word | functional title |
 | Light Mind | Good Mind | Vohu Manah |
 | **Pillar of Glory / Perfect Man** | **Hearkening** | Srāosha |
@@ -1445,7 +1445,7 @@ The library's typeset edition, *The Ancient Word* (version 1.1), prints Gardner'
 | the elect | the purified ones | functional rendering |
 | the church / holy church | the living assembly | functional rendering |
 
-Two of these substitutions bear on the argument and are set in bold. The edition's "Hearkening" replaces both halves of the double title "the Pillar of Glory, the Perfect Man." A reader of the edition will therefore not see that the column and the man are one figure (§8). The edition's "the Final Body" keeps the body in the Last Statue's name but drops the statue. That is the human figure the Greek *andrias* names, and the one the text's verb "sculpt," which the edition keeps, presupposes (§9). Neither substitution changes what the underlying text says. Both are reasons this thesis reads Gardner's names.
+Two of these substitutions are set in bold because the argument turns on the names they replace: "Hearkening," doubled where Gardner prints the double title, stands for "the Pillar of Glory, the Perfect Man" (§8), and "the Final Body" for the Last Statue, the human figure the Greek *andrias* names and the text's verb "sculpt" presupposes (§9). This thesis keeps the Manichaean names so that each title can be read as the text prints it.
 
 ### 15.3 Loci of the Body Vocabulary in the Kephalaia
 
@@ -1533,4 +1533,4 @@ The "new man" loci at 215.4, 240.4, 249.19 and 257.28, and the "Pillar of Glory"
 
 **Data Sources:**
 
-18. manichaean-analysis project (kayna-of-light/manichaean-analysis). The digitised text of Gardner's translation, commentary and index (`output/texts/Kephalaia_of_the_Teacher.md`), from which the passages quoted here were read and their page and line numbers checked. Also the typeset *The Ancient Word: Recovered from the Kephalaia of the Teacher*, version 1.1, translated edition (`output/pdfs/The_Ancient_Word_v1.1.pdf`), used for the name concordance of §15.2 and, in §11, for its summary of chapter 3 (p. 13).
+18. manichaean-analysis project (kayna-of-light/manichaean-analysis). The digitised text of Gardner's translation, commentary and index (`output/texts/Kephalaia_of_the_Teacher.md`), from which the passages quoted here were read and their page and line numbers checked. Also the typeset *The Ancient Word: Recovered from the Kephalaia of the Teacher*, version 1.1, translated edition (`output/pdfs/The_Ancient_Word_v1.1.pdf`), used for the four translation corrections applied to every quotation (§2.2), for the name concordance of §15.2 and, in §11, for its summary of chapter 3 (p. 13).

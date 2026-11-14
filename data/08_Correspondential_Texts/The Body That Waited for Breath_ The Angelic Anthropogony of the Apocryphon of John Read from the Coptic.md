@@ -1011,4 +1011,5 @@ The text gives the total as 365 (II 19,2–3; II 11,23–25) and refers the rema
 **Data Sources**
 
 25. `docs/research_questions/apj_angel_list_coptic_reading.md` (literary-compilation). The standing research question on the Coptic reading of the angel list.
-26. `research/apj_name_patterns/` (literary-compilation). The coding of fifty-two members and thirteen forces by function (`meaning_table.md`), the 109 names attached to them, and the three registered tests of §2.5 (letters, origin, blind matching of the word-names), with their plans, scripts, matcher responses and results.
+26. `research/apj_name_patterns/` (nag-hammadi-analysis). The coding of fifty-two members and thirteen forces by function (`meaning_table.md`), the 109 names attached to them, and the three registered tests of §2.5 (letters, origin, blind matching of the word-names), with their plans, scripts, matcher responses and results.
+27. `findings/tractates/AJ_angel_catalogue.yaml` (nag-hammadi-analysis). The catalogue of §14 as data: every named office with its Coptic, member, grade and reading, generated from this appendix.

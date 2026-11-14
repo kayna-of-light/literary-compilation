@@ -1196,7 +1196,10 @@ names offered as options, and one from the project context), so no blind matcher
 thesis's reading (`synthesis/003_word_names.md`). At the author's request all three tests are written into *The Body That Waited for
 Breath* where they belong: new §2.5 (method), §5.7 (origin, the ⲣ side lead, the failed blind test), §12.3 (limits of the hit), §12.4
 (letters and origin), §12.5, §13, abstract, introduction; Data Sources item 26. A valid word-name test needs human readers who do not
-know the text, with options from a general anatomical vocabulary.
+know the text, with options from a general anatomical vocabulary. On 2026-11-14 (author: the research belongs in the NHL repository) the whole
+study moved to `nag-hammadi-analysis/research/apj_name_patterns/`, with a generated graded catalogue
+(`findings/tractates/AJ_angel_catalogue.yaml`), a status block on `AJ_angel_name_translations.yaml` and findings AJ-040–049
+in `II_1_apocryphon_john.yaml` (nag-hammadi-analysis PR #2); PR #71 merged `dev` (ledger and resolved-question conflicts).
 
 ### 2026-11-09 (nightly): *Theological Forensic Analysis* and the rest of *The Architecture of Hidden Divinity*
 

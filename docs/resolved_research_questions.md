@@ -1969,11 +1969,31 @@ Leads to verify (from general knowledge, unchecked — none is to be cited until
 
 ---
 
+## Resolved 2026-11-14 (nightly source audit, author decision)
+
+---
+
+### [NLM] *Three Witnesses* and *Two Registers*: should the Kephalaia side be re-based on Gardner corrected to the Coptic?
+
+**Priority**: MEDIUM
+**Related Documents**: `data/06_Mythological_Studies/Three Witnesses to One Architecture_ Genesis 1-11 and the Correspondential Kephalaia.md`; `data/06_Mythological_Studies/Two Registers of One Perception_ The Song of Solomon and the Regenerative Substrate of the Kephalaia.md`; summarised in `data/00_Master_Theses/The River and the Vessel…` §§5.2–5.3
+
+**Context**: Both theses quote the Kephalaia almost entirely from the v1 pipeline's *spiritual readings* (`manichaean-analysis/output/projects/kephalaia/restored/chapters/ch_NNN.json`, field `spiritual_reading`) — Claude's correspondential translation of Gardner — and compare those readings with Swedenborg's reading of Genesis and with the Song. The audit of 2026-11-14 made every quotation verbatim to its stated source, showed every lacuna as "[ … ]", kept the edition's own brackets, removed every pipeline fill, and states the convention in each document's §2.3. It did not change the basis. The standard the author set on 2026-11-13 ("quote Gardner's translation, but corrected where it diverges too much from the Coptic") was set for *Perfect in All Its Limbs* and *Descent Remembered*, where the text was quoted as text; here the readings are the argument's declared data ("the spiritual readings … are the primary data for this comparison").
+
+**Decision needed**: (a) keep the spiritual readings as the declared data, as now; (b) quote Gardner (with v1.1's four corrections) for each passage and give the spiritual reading beside it as reading — roughly 70 passages in the two theses; or (c) rewrite in session, as *The Grand Man, Written* was replaced by *Perfect in All Its Limbs*. Either (b) or (c) changes the evidential surface of two theses, so it is the author's call.
+
+**Status**: ✅ RESOLVED (2026-11-14)
+
+**Resolution**: The author decided (2026-11-14, "Yes absolutely"): re-base on Gardner corrected to the Coptic. Done the same day on the open PR #77: every Kephalaia passage in both theses now leads with Gardner's text (K. page.line, his lacunae and brackets, v1.1's four corrections), with its spiritual reading kept beside it as reading ("In correspondence"); the method statement in each §2.3 says so. Propagated to *River and the Vessel* §5.
+
+---
+
+
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 48 |
+| **Total Resolved** | 49 |
 | **NDE Domain** | 14 |
 | **BIBL Domain** | 6 |
 | **SWED Domain** | 3 |
@@ -1983,7 +2003,7 @@ Leads to verify (from general knowledge, unchecked — none is to be cited until
 | **GDR Domain** | 18 |
 | **Critical Priority** | 3 |
 | **High Priority** | 16 |
-| **Medium Priority** | 21 |
+| **Medium Priority** | 22 |
 | **Low Priority** | 8 |
 
-**Last Updated**: 2026-11-02
+**Last Updated**: 2026-11-14

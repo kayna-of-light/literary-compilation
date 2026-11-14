@@ -59,7 +59,7 @@
     - [9.1 What the Song Compresses](#91-what-the-song-compresses)
     - [9.2 What the Kephalaia Expands](#92-what-the-kephalaia-expands)
     - [9.3 Implications for the Ancient Word Hypothesis](#93-implications-for-the-ancient-word-hypothesis)
-    - [9.4 The Compiler Problem: Why Two-Thirds of the Song Is Not Ancient Word](#94-the-compiler-problem-why-two-thirds-of-the-song-is-not-ancient-word)
+    - [9.4 The Compiler Problem: Why Most of the Song Is Not Ancient Word](#94-the-compiler-problem-why-most-of-the-song-is-not-ancient-word)
     - [9.5 Limitations and Lacunae](#95-limitations-and-lacunae)
   - [10. Conclusion: Two Registers, One Perception](#10-conclusion-two-registers-one-perception)
   - [11. Appendix: State-by-State Mapping Table](#11-appendix-state-by-state-mapping-table)
@@ -76,9 +76,9 @@ This thesis poses a different question. The Genesis–Kephalaia parallel concern
 
 The Song of Solomon is the test case.
 
-Swedenborg stated plainly that the Song of Solomon does not possess a continuous internal sense and is therefore not part of the Word (*Athanasian Creed* §§3–4; *Sacred Scripture* §§18–19). Its author, he observed, borrowed correspondential imagery from the Ancient Word and assembled it into a literary composition that reads mysteriously but lacks the coherent spiritual narrative that characterizes genuine scripture. This judgment has been widely misunderstood. It is not a dismissal of the Song. It is a diagnosis: the Song is a compilation — and compilations preserve fragments of their sources. If Swedenborg is right that the Song's imagery was borrowed from the Ancient Word, then somewhere within it, beneath the compiler's catalogues and editorial padding, the Ancient Word should still be visible.
+Swedenborg stated plainly that the Song of Solomon "has not the internal sense" and is therefore not among the books of the Word (*AC* §§3942, 10325). It "was written in the ancient style," he observed, "and is full of significatives collected from the books of the Ancient Church" (*AC* §3942) — imagery from the Ancient Word assembled into a literary composition that reads mysteriously but lacks the coherent spiritual narrative that characterizes genuine scripture. This judgment has been widely misunderstood. It is not a dismissal of the Song. It is a diagnosis: the Song is a compilation — and compilations preserve fragments of their sources. If Swedenborg is right that the Song's imagery was collected from the books of the Ancient Church, then somewhere within it, beneath the compiler's catalogues and editorial padding, the Ancient Word should still be visible.
 
-We put this to the test. When the Song is stripped of its compiled material — the body-description catalogues, the court poetry of "Solomon's palanquin" and "Pharaoh's chariots," the recycled fragments and editorial bridges — approximately 42 of its 117 verses survive as continuous correspondential narrative. These 42 verses form seven distinct passages, and they narrate a single, coherent regeneration cycle:
+We put this to the test. When the Song is stripped of its compiled material — the body-description catalogues, the court poetry of "Solomon's palanquin" and "Pharaoh's chariots," the recycled fragments and editorial bridges — 32 of its 117 verses survive as continuous correspondential narrative. These 32 verses form seven distinct passages, and they narrate a single, coherent regeneration cycle:
 
 1. **First Awakening** (2:10–15): The end of vastation; spiritual desolation (winter) passes, and the first truths of good appear.
 2. **Seeking by Night** (3:1–5): The will awakens in darkness and searches through doctrine for the Lord, finding Him only beyond doctrine, in love itself.
@@ -126,7 +126,7 @@ This third criterion — continuous causal sequence — is the decisive methodol
 
 ### 2.2 The Stripping of the Song: Identifying Continuous Internal Sense
 
-Swedenborg's observation that the Song of Solomon lacks continuous internal sense is usually taken to mean that the Song has no spiritual content. This is not what he said. He said the Song does not possess internal sense *as a whole* — it is not continuous. The distinction is critical. It means the Song is a compilation: a text that contains fragments of genuine correspondential material embedded in material that is not correspondential. The task is to identify which is which.
+Swedenborg's observation that the Song of Solomon "has not the internal sense" is usually taken to mean that the Song has no spiritual content. This is not what he said. In the same breath he said that it "is full of significatives collected from the books of the Ancient Church" (*AC* §3942) — the Song does not possess internal sense *as a whole*; it is not continuous. The distinction is critical. It means the Song is a compilation: a text that contains fragments of genuine correspondential material embedded in material that is not correspondential. The task is to identify which is which.
 
 The stripping process employed three criteria to distinguish Ancient Word material from compiled material:
 
@@ -136,7 +136,7 @@ The stripping process employed three criteria to distinguish Ancient Word materi
 
 **Criterion 3: Logic of removal.** When the catalogues, register-breaking fragments, and editorial bridges are removed, the remaining passages must form a coherent cycle — they must read as a complete narrative without gaps or logical discontinuities. If the stripped text does not cohere, the stripping has been done incorrectly. The fact that the seven stripped passages *do* form a coherent seven-state cycle — and that this cycle maps precisely to the Kephalaia's regeneration narrative — constitutes independent validation of the stripping methodology.
 
-The result: of the Song's 117 verses, approximately 42 preserve continuous correspondential narrative. The remaining 75 verses consist of three catalogues of body-description (4:1–11; 5:10–16; 7:1–9), two botanical inventories (4:13–14), fragments from court poetry and military register (1:9; 3:6–11; 6:4–12), editorial bridges and repeated formulas (5:9; 6:1–3; 8:5; 8:13–14), a separate wisdom parable (8:8–10), and opening material that builds toward but does not itself achieve continuous movement (1:2–8; 1:10–17; 2:1–9).
+The result: of the Song's 117 verses, 32 preserve continuous correspondential narrative. The remaining 85 verses include three catalogues of body-description (4:1–11; 5:10–16; 7:1–9), two botanical inventories (4:13–14), fragments from court poetry and military register (1:9; 3:6–11; 6:4–12), editorial bridges and repeated formulas (5:9; 6:1–3; 8:5; 8:13–14), a separate wisdom parable (8:8–10), and opening material that builds toward but does not itself achieve continuous movement (1:2–8; 1:10–17; 2:1–9).
 
 ### 2.3 The Kephalaia Substrate
 
@@ -145,9 +145,11 @@ The Kephalaia comparison uses the Layer 1 correspondential substrate extracted b
 For the present comparison, the primary Kephalaia text is Chapter 115, "The Three Entreaties" — a narrative in which the Sphere of Divine Life (Mother of Life) raises three successive petitions to the Divine Origin, receiving in answer three successive divine powers that descend to rescue the captive Celestial Will (First Man) and liberate the interiors of the human spirit. Supporting chapters are drawn from the same extracted corpus:
 
 - **Chapter 55**, "The Teaching on the Image and Its Imitations" — the parable of the Free Woman hidden in a sealed chamber, beautiful beyond measure, who comes forth reluctantly for her beloved.
-- **Chapter 31**, "On the Limbs of the Living Soul" — the passage in which the kiss is identified as the conjunction of good with truth.
+- **Chapter 31** (in Gardner, "Concerning the Summons, in which Limb of the Soul it descended to the First Man") — the passage in which the kiss is identified as the conjunction of good with truth.
 - **Chapter 114**, "The Three Degrees of Regeneration" — the daily micro-cycle of purification through three degrees (spiritual, rational, sensual), performed by the "virgin of light."
-- **Chapter 122**, "On Affirmation and Confirmation" — the mutual seeking passage: "The First Man sought and found his redeemer. And also the Mother of Life and the Father of the living sought and found this runner."
+- **Chapter 122**, "On Affirmation and Confirmation" — the mutual seeking passage: "The Firs[t] Man sought and found his redeemer. [An]d [also] the Mother of Life and the Father of the living sought [ … ] this runner" (K. 291.10–13).
+
+The text of the Kephalaia is quoted from Gardner's translation (Gardner 1995), corrected where it diverges from the Coptic as *The Ancient Word* v1.1 corrects it — "teaching" for "insight" (ⲧⲥⲃⲱ), "Radiance" for "Splendour" (ⲡⲡⲣⲓ̈ⲉ), "likeness" for "image" where the Coptic is ⲡⲉⲓⲛⲉ — and cited by page and line of the Coptic (K.). Gardner's lacunae and the edition's brackets are kept; no reconstruction of a lacuna is quoted. Beside the text stands its spiritual reading, the pipeline's correspondential translation, cited by paragraph (¶). Chapters are cited by the manuscript's own numbering; the chapter titles given are those of the spiritual readings unless Gardner's is named.
 
 ### 2.4 Two Registers, Two Churches
 
@@ -171,12 +173,12 @@ The survival of this architecture across millennia, across the unbridged gap bet
 
 ## 3. The Song Stripped: Seven States of Regeneration
 
-What follows is the Song of Solomon stripped of its compiled material. The passages are presented in their biblical order, which is also their spiritual order — each state follows causally from the preceding one. For each passage, the biblical text is given first, followed by its correspondential reading. The complete removal table — documenting what was stripped and why — appears in the companion document *The Song of Solomon — The Ancient Word Remains*.
+What follows is the Song of Solomon stripped of its compiled material. The passages are presented in their biblical order, which is also their spiritual order — each state follows causally from the preceding one. For each passage, the biblical text is given first, followed by its correspondential reading. The verse-by-verse classification — documenting what was stripped and why — appears in the companion thesis *A Garden Enclosed: The Song of Solomon Read in Correspondence*. The Song is quoted from the King James Version.
 
 ### 3.1 First Awakening (2:10–15)
 
 > Rise up, my love, my fair one, and come away.
-> For the winter is past, the rain is over and gone;
+> For, lo, the winter is past, the rain is over and gone;
 > the flowers appear on the earth;
 > the time of the singing of birds is come,
 > and the voice of the turtle is heard in our land;
@@ -247,7 +249,7 @@ What follows is the Song of Solomon stripped of its compiled material. The passa
 
 ### 3.3 The Sealed Garden Opened (4:12, 15–16; 5:1)
 
-> A garden enclosed is my sister, my spouse;
+> A garden inclosed is my sister, my spouse;
 > a spring shut up, a fountain sealed.
 >
 > A fountain of gardens, a well of living waters,
@@ -345,7 +347,7 @@ What follows is the Song of Solomon stripped of its compiled material. The passa
 > and at our gates are all manner of pleasant fruits,
 > new and old, which I have laid up for thee, O my beloved.
 
-**Spiritual reading.** After conjunction and the alternation of states, the soul and the Lord survey what has been cultivated. The field is the church in its breadth; the villages are doctrinal goods in the natural degree. The vineyards are the spiritual goods of the church — the soul inspects whether truth is growing into good (vine flourishing), whether spiritual good is forming (tender grape appearing), whether the goods of the church are assembling and producing (pomegranates budding). Conjugial love manifests in the natural degree (mandrakes). At the gates — where goods enter the soul — all manner of goods are present, both new (from regeneration) and old (hereditary good reformed and purified). These are presented to the Lord: "I have laid them up for thee."
+**Spiritual reading.** After conjunction and the alternation of states, the soul and the Lord survey what has been cultivated. The field is the church in its breadth; the villages are doctrinal goods in the natural degree. The vineyards are the spiritual goods of the church — the soul inspects whether truth is growing into good (vine flourishing), whether spiritual good is forming (tender grape appearing), whether the goods of the church are assembling and producing (pomegranates budding). Conjugial love manifests in the natural degree (mandrakes). At the gates — where goods enter the soul — all manner of goods are present, both new (from regeneration) and old (hereditary good reformed and purified). These are presented to the Lord: "which I have laid up for thee."
 
 **Correspondential key:**
 
@@ -458,7 +460,7 @@ The logical necessity: conjunction must precede withdrawal, and withdrawal must 
 
 After the wound of withdrawal, the text makes a temporal leap. When the soul next appears, it is not seeking — it is surveying. "Come, my beloved, let us go forth into the field; let us lodge in the villages. Let us get up early to the vineyards." Something has changed between State 4 and State 5 that the text does not narrate explicitly: the withdrawal was endured, the deeper longing bore fruit, and conjunction has been quietly re-established on a deeper basis.
 
-State 5 is the fruit of that deeper conjunction. The soul and the Lord together inspect what has grown: whether truth has matured into good (vine flourishing), whether spiritual good is forming (tender grape), whether the goods of the church are assembling (pomegranates budding). This is not the first contact of State 2 or the dramatic opening of State 3. This is quiet cultivation, reviewed together. The mandrakes give their smell — conjugial love manifests in the natural degree. At the gates, all manner of good is present, both new and old. The soul presents what it has cultivated: "I have laid them up for thee, O my beloved."
+State 5 is the fruit of that deeper conjunction. The soul and the Lord together inspect what has grown: whether truth has matured into good (vine flourishing), whether spiritual good is forming (tender grape), whether the goods of the church are assembling (pomegranates budding). This is not the first contact of State 2 or the dramatic opening of State 3. This is quiet cultivation, reviewed together. The mandrakes give their smell — conjugial love manifests in the natural degree. At the gates, all manner of good is present, both new and old. The soul presents what it has cultivated: "which I have laid up for thee, O my beloved."
 
 The logical necessity: withdrawal must precede inspection. The soul cannot survey what has grown until growth has occurred, and growth occurs through the deepening that withdrawal produces.
 
@@ -500,15 +502,15 @@ This is a complete regeneration cycle. Its beginning (vastation), its process (s
 
 ### 5.1 Chapter 115: The Three Entreaties
 
-Chapter 115 of the Kephalaia, titled "The Three Entreaties" in the Coptic, narrates a sequential drama in which divine powers petition the Infinite Divine Origin on behalf of a captive celestial good, and receive in three successive acts the divine powers needed to rescue, restore, and permanently establish it. In its reconstructed form, the narrative begins with the Sphere of Divine Life (Mother of Life) ascending in supplication to the Divine Origin — the Father of Greatness — on behalf of the Celestial Will (First Man), which has descended into temptation-states and become captive in the deepest hells.
+Chapter 115 of the Kephalaia — "The Three Entreaties" in the spiritual reading; in Gardner, "The Catechumen asks the Apostle: Will Rest come about for Someone who has come out of the Body, if the Saints pray [over] and make an Alms-offering [for him]?" — narrates a sequential drama in which divine powers petition the Infinite Divine Origin on behalf of a captive celestial good, and receive in three successive acts the divine powers needed to rescue, restore, and permanently establish it. In its reconstructed form, the narrative begins with the Sphere of Divine Life (Mother of Life) ascending in supplication to the Divine Origin — the Father of Greatness — on behalf of the Celestial Will (First Man), which has descended into temptation-states and become captive in the deepest hells.
 
 The narrative follows three petition-and-response cycles:
 
-**The First Entreaty (¶¶8–14).** The Sphere of Divine Life petitions the Divine Origin on behalf of the Celestial Will, which "had come forth and thrown himself down" and "became distant from the Mother of Life." The Will has "separated from her and gave himself; in great affliction" — it has entered "war on earth with the destruction and the grief and the weakness; in the worlds of Darkness; in the abysses made of fear; in the midst of the demons' ditch." In the spiritual reading: the celestial good has descended into temptation-states, become remote from the divine, and stands "like a king surrounded on every side by assailing evils and falsities." The Divine Origin grants the entreaty: "the great power of reformation and restoration — the Living Strength, the bringer of heavenly peace." This power descends "to the outermost boundary where the spiritual order meets the infernal," raises the Celestial Will "out of that combat and struggle," and establishes it "in right order, within rest and blessedness."
+**The First Entreaty (¶¶8–14).** The Sphere of Divine Life petitions the Divine Origin on behalf of the Celestial Will, which "had come forth and thrown himself dow[n]" and "[became] distant from the Mother of Life." The Will "separated from her and g[ave him]self; in great affliction" — it has joined "war on [earth with] the destruction and the grief and the weakness; in the worlds [of dark]ness; in the abysses made of fear; in the midst of the demons' d[i]t[ch]" (K. 272.4–10). "Indeed, h[e is l]ike a king standing in the mids[t of] h[is] enemies" (K. 272.11–12) — in the spiritual reading, the celestial good "as a sovereign principle standing surrounded on every side by assailing evils and falsities" (¶10). The Father grants the entreaty: "the great [power], the Living Spirit, the giver of ease" (K. 272.19–20), in the reading "the great divine power of reformation and restoration — the Living Strength, the bringer of heavenly peace" (¶11). The Mother of Life and the Living Spirit "came with gr[ea]t power to the [bo]rders of the territory. They brought the First Man up fro[m] that war and struggle, wherein he is se[t]" (K. 272.20–23); "He se[t him] right with rest and joy" (K. 273.5–6) — in the reading, raised "out of that combat and struggle" and established "in right order, within rest and blessedness" (¶¶11, 14).
 
-**The Second Entreaty (¶¶17–22).** The first rescue is accomplished, but something remains captive. Five divine powers now stand united and raise a second petition: that the Divine would "bestow the governing power, the ruling principle, a guide over all the structures of heavenly order they had established." The request is not for more rescue but for deeper penetration: a power "that might come forth and purify the interiors of the human spirit which are held in states of suffering and temptation." The Divine Origin summons a Third Mediating Power of Divine Truth, which "came from the power of his greatness." This power "perceived the whole of the interior human spirit — how it is bound by persuasions of falsity, held immovable in chains of evil." In mercy, "it disclosed its path of descent, before the lowest infernal states dug down to the uttermost depth, in order to liberate the interiors of the human spirit." It accomplished the liberation: "He redeemed it from all the fleshes of death wherein it is pained. He gave it ease. He set it right in the place of rest and joy."
+**The Second Entreaty (¶¶17–22).** The first rescue is accomplished, but something remains captive. Five divine powers now stand united and raise a second petition: that the Father "might give them the power [ ... ] the leader, a guide to all the things [of] activity that they had constructed. That he might come and purify [the] living [so]ul that is set in affliction" (K. 273.25–28). The request is not for more rescue but for deeper penetration — in the reading, "that this power might come forth and purify the interiors of the human spirit which are held in states of suffering and temptation" (¶18). The Divine Origin summons a Third Mediating Power of Divine Truth, which "came from the power of his [g]reatness" (K. 273.34–274.1). "He saw the entire [soul], how it is entangled [in a] chain and set fast" (K. 274.1–2); in the reading, "how it is bound by persuasions of falsity, held immovable in chains of evil" (¶19). In mercy, "[s]o, he revealed his way, before this underworld that is dug deep down, [to f]ree the living soul" (K. 274.7–9). It accomplished the liberation: "He redeemed it from all the fleshes of death wherein it is pained. He gave it ease. H[e] set it right in the place of rest and joy" (K. 274.9–11).
 
-**The Third Entreaty (¶¶25–27).** The most fragmentary section, but the structure is clear even through the lacunae. A third petition is raised. The Divine "made manifest its own likeness" — but "withdrew its likeness from" the forces of darkness. Freedom is given: "they were freed." Voices rise from bondage toward the divine. And the conclusion: "He dwells with the living ones and rests for ever." The First Man "was freed from the affliction and he gave him the hope of life."
+**The Third Entreaty (¶¶25–27).** The most fragmentary section, but the structure is clear even through the lacunae. A third petition is raised. He "display[ed] his likeness [ ... ]" — but "he hid his likeness from the [ ... ]" (K. 274.32–33). Freedom is given: "they were fr[ee]d." Through the lacunae "their voice" and "prayer" can still be read. And the conclusion: "with the living ones and [ … fo]r ever"; of the First Man, "he gave him the hope [ … ]" (K. 275.9–276.3).
 
 The translator's note at the end of the spiritual reading summarizes what the text itself makes plain:
 
@@ -526,17 +528,17 @@ When the seven states identified in the Song are laid against the narrative of C
 | **4. Deeper Captivity Discovered** | Lord withdraws; soul wounded; veil stripped; sick of love | First Man is rescued, but the interiors of the human spirit remain captive in chains of evil |
 | **5. Deeper Descent** | *(Implicit: the gap between States 4 and 5 — the deeper work)* | Third Mediating Power descends to the uttermost depth; penetrates where the first rescue could not reach |
 | **6. Rest / Restoration** | Garden inspected; growth confirmed; goods presented | Spirit brought heavenly peace; established in right order; set in the place of rest and joy |
-| **7. Permanence** | Seal on heart and arm; love declared unquenchable | "He dwells with the living ones and rests for ever"; hope of eternal life granted |
+| **7. Permanence** | Seal on heart and arm; love declared unquenchable | "with the living ones and [ … fo]r ever"; "he gave him the hope [ … ]" |
 
 Several features of this mapping deserve attention.
 
-**The pivot at State 4.** In both texts, the drama does not end when first conjunction is achieved. Both texts insist that the first rescue is insufficient — that something deeper remains captive. In the Song, this is expressed as withdrawal: the Lord departs after entering the garden, and the soul is wounded by the same truths that formerly guided it. In the Kephalaia, this is expressed as discovery: the first rescue frees the Celestial Will, but the five now-united powers perceive that the *interiors of the human spirit* remain bound by "persuasions of falsity, held immovable in chains of evil." The insight is identical: initial conjunction reveals deeper bondage. What looked like rescue turns out to be the exposure of a captivity that could not be seen until the first layer was addressed.
+**The pivot at State 4.** In both texts, the drama does not end when first conjunction is achieved. Both texts insist that the first rescue is insufficient — that something deeper remains captive. In the Song, this is expressed as withdrawal: the Lord departs after entering the garden, and the soul is wounded by the same truths that formerly guided it. In the Kephalaia, this is expressed as discovery: the first rescue frees the Celestial Will, but the five now-united powers perceive that the *interiors of the human spirit* remain "entangled [in a] chain and set fast" (K. 274.1–2). The insight is identical: initial conjunction reveals deeper bondage. What looked like rescue turns out to be the exposure of a captivity that could not be seen until the first layer was addressed.
 
-**The nature of the second descent.** In the Song, the second descent is the soul's own experience: stripped, wounded, sick of love. The text narrates what it feels like from *inside* the deeper process. In the Kephalaia, the second descent is narrated from outside: the Mediating Truth perceives the bondage, descends in mercy, liberates the spirit from "every form of the self and selfhood that belongs to spiritual death." Same event, different vantage: the Song perceives it as woundedness; the Kephalaia perceives it as the Lord's descending action. Bronze Church perceives the experience. Silver Church perceives the mechanism.
+**The nature of the second descent.** In the Song, the second descent is the soul's own experience: stripped, wounded, sick of love. The text narrates what it feels like from *inside* the deeper process. In the Kephalaia, the second descent is narrated from outside: the Mediating Truth perceives the bondage, descends in mercy, redeems the living soul "from all the fleshes of death wherein it is pained" (K. 274.9–10) — in the reading, "from every form of the self and selfhood that belongs to spiritual death" (¶20). Same event, different vantage: the Song perceives it as woundedness; the Kephalaia perceives it as the Lord's descending action. Bronze Church perceives the experience. Silver Church perceives the mechanism.
 
 **The implicit and the explicit.** The Song does not narrate the deeper work directly — there is a gap between the wounding of 5:2–8 and the peaceful inspection of 7:10b–13. Something happened; the text does not say what. The Kephalaia does say what: the Third Mediating Power descended to the uttermost depth, liberated the interiors, and established peace. The Song compresses this into silence — the reader who has the internal sense knows that between wound and garden, the Lord worked in the depths. The Kephalaia unfolds what the Song leaves implicit.
 
-**Permanence.** Both texts end with the same note. The Song declares that love is strong as death and unquenchable by any waters. The Kephalaia states that the restoring power "has itself entered into eternal repose, conjoined with him for ever" and that the First Man "received the hope of life." Both describe a state that is irreversible: not a moment of peak experience but a permanent condition established by the entire process.
+**Permanence.** Both texts end with the same note. The Song declares that love is strong as death and unquenchable by any waters. The Kephalaia states, at the close of the first rescue, that the Living Spirit "has himself become rested, [wi]th him for ever" (K. 273.6–7; in the reading, "entered into eternal repose, conjoined with it forever," ¶14), and the broken close of the third entreaty returns to the same note: "[ … fo]r ever"; "He received the hope [ … ]" (K. 276.1, 13). Both describe a state that is irreversible: not a moment of peak experience but a permanent condition established by the entire process.
 
 The mapping is not approximate. It is not suggestive. Seven states, the same sequence, the same causal logic, the same pivot at State 4, the same movement from initial conjunction through deeper captivity to permanent restoration. In two registers that share not a single word.
 
@@ -548,19 +550,19 @@ The seven-state mapping of Section 5 establishes the macro-structural identity b
 
 ### 6.1 The Sealed Chamber and the Hidden Beloved: Chapter 55
 
-Chapter 55, "The Teaching on the Image and Its Imitations," contains a parable that reads like a correspondential twin of the Song's sealed garden passage. In its spiritual reading:
+Chapter 55, "The Teaching on the Image and Its Imitations," contains a parable that reads like a correspondential twin of the Song's sealed garden passage. In Gardner's text:
 
-> *As a noble, celestial affection of truth dwells within her interior states of wisdom — hidden in the sealed inner chamber of her own being — a spiritual beauty so rare that it is spoken of throughout all the heavens, yet no one of the exterior or natural world has ever witnessed her spiritual form. For her interior dwelling is concealed from all external approach; there is no way to reach her through the natural mind alone.*
->
-> *And she also comes forth but reluctantly, with great modesty, from her interior concealment; for she cannot reveal herself to any who approach from external states alone. She reveals her innermost truth and her spiritual beauty because of her beloved — the divine good within.*
+> As a great, fre[e] woman [ ... ] within her [ ... ] rich in wealth [ ... ] po[ss]essions; she is also beautiful in her beauty, and is virtuous in her modesty. She walks in a free and reputable position. The fame of her beauty has spread in every c[i]ty. … Behold h[er] chamber [ ... ] one who is mad, because [of] the nobles and the great ones. Al[so], they lust for her beautiful face. They did not [ ... ] her, because she is hidden in her palace [ ... ]. … This free woman shall [ ... ] leave the cha[mber] behind her and come to the street [ ... ] and she reveals her [face and her beauty ... ] because of her beloved broth[er]. This woman, on whom no man ever looked, nor did they ever see her fa[ce], as she neither desires nor rejoices [ ... ] leave her chamber behind her … (K. 134.14–135.4)
+
+The spiritual reading renders her as "a noble, celestial affection of truth" (¶5) who reveals "her innermost truth and her spiritual beauty [ … ], but only due to the constraint of love and grief [about] her beloved" (¶6).
 
 The parallel to the Song's sealed garden (4:12–16) is precise:
 
-| Song (4:12, 15–16; 5:1) | Kephalaia Ch. 55 (¶5–6) |
+| Song (4:12, 15–16; 5:1) | Kephalaia Ch. 55 (K. 134.14–135.4) |
 |---|---|
-| "A garden enclosed is my sister, my spouse; a spring shut up, a fountain sealed" | "her interior dwelling is concealed from all external approach; there is no way to reach her through the natural mind alone" |
-| The garden cannot flow outward; streams from Lebanon are present but sealed | The celestial affection of truth is spoken of throughout the heavens, but "no one of the exterior or natural world has ever witnessed her spiritual form" |
-| "Let my beloved come into his garden" — the invitation to enter | "She reveals her innermost truth and her spiritual beauty because of her beloved — the divine good within" |
+| "A garden inclosed is my sister, my spouse; a spring shut up, a fountain sealed" | "They did not [ ... ] her, because she is hidden in her palace" |
+| The garden cannot flow outward; streams from Lebanon are present but sealed | "The fame of her beauty has spread in every c[i]ty," yet she is the woman "on whom no man ever looked" |
+| "Let my beloved come into his garden" — the invitation to enter | "she reveals her [face and her beauty ... ] because of her beloved broth[er]" |
 | The beloved enters and conjuncts: "I am come into my garden" | She comes forth "because of her beloved" — revealing is conjunction |
 
 The Song narrates this as intimacy between lover and beloved. The Kephalaia narrates it as the architectonics of interior truth concealed from external approach. Same event. Different register. The sealed chamber is the sealed garden. The Free Woman who comes forth reluctantly is the spring that cannot yet flow. The beloved who draws her out is the beloved who enters the garden. Bronze Church perceives the desire; Silver Church perceives the structure.
@@ -569,29 +571,35 @@ The Song narrates this as intimacy between lover and beloved. The Kephalaia narr
 
 Chapter 31, "On the Limbs of the Living Soul," preserves a passage in which the restoration of the Primordial Divine Human is narrated through the language of the body. The spiritual reading of ¶7 states:
 
-> *And when those faculties had been sent forth, at that very moment He was found in conjunction with Divine Truth, and He arose, seeking and imploring for the Divine power from above. The Divine Good gave Him peace and the conjunction of good with truth — He communicated to Him the joyful perception of the restored Divine Human.*
+> *And when those faculties had been sent forth, at that very moment He was found in conjunction with Divine Truth, and He arose, seeking and imploring for the Divine power from above. [ … ] The Divine Good gave Him peace and the conjunction [ … ] of good with truth — He communicated to Him the joyful perception [ … ] of the restored Divine Human.*
 
-The reconstruction note for this passage identifies the key word explicitly: "The word is 'kiss' (ki+ss) and the spiritual reading identifies it as 'the conjunction of good with truth'; in Manichaean texts the 'kiss of love' is attested as the sign of conjunction between the Father and the redeemed Man."
+The word that the spiritual reading renders "the conjunction [ … ] of good with truth" stands in Gardner's text as the edition restores it from its first letters: "[ ... he] gave him peace and a ki[ss ... ]" (K. 85.9).
 
 The kiss corresponds to the conjunction of good with truth. This is not interpretation; it is the same exact correspondence that operates in the Song:
 
 | Song (8:1) | Kephalaia Ch. 31 (¶7) |
 |---|---|
-| "When I should find thee without, I would kiss thee; yea, I should not be despised" | "He was found in conjunction with Divine Truth ... the conjunction of good with truth" |
+| "When I should find thee without, I would kiss thee; yea, I should not be despised" | "He was found in conjunction with Divine Truth ... the conjunction [ … ] of good with truth"; Gardner: "a ki[ss ... ]" (K. 85.9) |
 | Kiss = conjunction openly expressed | Kiss = conjunction of good with truth |
-| Without shame: "I should not be despised" | With joyful perception: "the joyful perception of the restored Divine Human" |
+| Without shame: "I should not be despised" | With joyful perception: "the joyful perception [ … ] of the restored Divine Human" |
 
-The Song's kiss is the Bronze Church experiencing conjunction as intimacy. The Kephalaia's kiss is the Silver Church naming the same event as "the conjunction of good with truth." Both use the same natural object (kiss) for the same correspondence. The agreement is not interpretive. It is structural.
+The Song's kiss is the Bronze Church experiencing conjunction as intimacy. The Kephalaia's kiss is the Silver Church naming the same event as "the conjunction [ … ] of good with truth." Both use the same natural object (kiss) for the same correspondence. The agreement is not interpretive. It is structural.
 
 ### 6.3 The Three Degrees of Daily Purification: Chapter 114
 
-Chapter 114, "The Three Degrees of Regeneration," narrates the daily micro-cycle of spiritual purification through three discrete degrees — sensual, rational, and spiritual — guided by the "virgin of light." Its spiritual reading describes:
+Chapter 114, "The Three Degrees of Regeneration," narrates the daily micro-cycle of spiritual purification through three discrete degrees — sensual, rational, and spiritual — guided by the light virgin. Gardner's text:
 
-> *Three degrees of interior purification, occurring daily: from the sensual through the rational to the spiritual plane. Each degree refines, separates, and elevates the spiritual life.*
+> Thr[ee] images occur in the elect person. (K. 269.17–18)
+>
+> The living soul shall be clea[n]sed entirely every [d]ay and traverse these three [im]a[ges]. (K. 270.10–12)
+>
+> *In correspondence:* *Three degrees of interior life exist within the person undergoing regeneration* (¶2); *the living interior will is cleansed entirely each day and traverses these three degrees* (¶8).
 
-The virgin of light who accomplishes this work is described in terms that resonate with the Song's regeneration cycle:
+The light virgin who accomplishes this work is described in terms that resonate with the Song's regeneration cycle. Then "sh[all] a [light] vir[gin come and] reveal [the] spiritual image … which [is] the n[ew m]an. T[h]at virgin acts as a guide" (K. 269.34–270.2), and the chapter closes on her:
 
-> *She is the first origin, but she is also the final end. She guides the elevation through each degree, she forms and adorns the new man.*
+> It is the virgin of light who robes the new man and who shall be cal[l]ed 'the hour of life'. S[he] is the f[irst], but s[h]e is also the last. (K. 270.21–24)
+>
+> *In correspondence:* *That pure affection serves as a guide. She goes before, and the living element is elevated toward the celestial degrees above, and received into this interior spiritual degree. And she [forms] it and adorns it with the regenerated will and understanding within.* (¶7)
 
 This is the same dynamic as the Song's seven-state cycle, contracted to a daily process. The macro-cycle of the Song — from vastation through conjunction through withdrawal through permanence — is the same process that the Kephalaia describes as occurring on a daily micro-scale through three degrees. The Song narrates the process across its full temporal arc. Chapter 114 narrates the same process as it recurs within each day.
 
@@ -599,13 +607,13 @@ The structural principle is identical: purification through discrete degrees, me
 
 ### 6.4 Mutual Seeking and Mutual Finding: Chapter 122
 
-Chapter 122, "On Affirmation and Confirmation," presents a principle that underlies the entire Song but is never stated explicitly in it. The reconstructed text of ¶3 reads:
+Chapter 122, "On Affirmation and Confirmation," presents a principle that underlies the entire Song but is never stated explicitly in it. Gardner's text reads:
 
-> *The First Man sought and found his redeemer. And also the Mother of Life and the Father of the living sought [and found] this runner, who came forth from them, who is the First Man; but the summons and the obedience became the portals for them.*
+> The Firs[t] Man sought and found his redeemer. [An]d [also] the Mother of Life and the Father of the living sought [ ... ] this runner, who came forth from them, who is the First Man; but the summons and the obedience became the portals for them. (K. 291.10–15)
 
 The spiritual reading expands:
 
-> *The primordial will in its captivity sought and found the liberating truth that could restore it. And likewise the generating divine truth and the originating divine love sought this active proceeding principle that had gone forth from them — which is the primordial celestial will itself.*
+> *The primordial will in its captivity sought and found the liberating truth that could restore it. And likewise the generating divine truth and the originating divine love sought [ … ] this active proceeding principle that had gone forth from them — which is the primordial celestial will itself.* (¶3)
 
 Mutual seeking. The soul seeks the Lord, and the Lord seeks the soul. This is the structural dynamic that underlies every movement of the Song's regeneration cycle:
 
@@ -616,7 +624,7 @@ Mutual seeking. The soul seeks the Lord, and the Lord seeks the soul. This is th
 - In States 5 and 6, soul and Lord survey together: "Come, my beloved, let us go forth..."
 - In State 7, the sealing is mutual: "Set me as a seal upon *thine* heart."
 
-The Song never states the principle of mutual seeking explicitly. It enacts it. Every passage involves both the soul reaching toward the Lord and the Lord reaching toward the soul. The Kephalaia states the principle directly: "The First Man sought and found his redeemer. And also the Mother of Life and the Father of the living sought and found this runner." The Bronze Church lives the principle; the Silver Church names it.
+The Song never states the principle of mutual seeking explicitly. It enacts it. Every passage involves both the soul reaching toward the Lord and the Lord reaching toward the soul. The Kephalaia states the principle directly: "The Firs[t] Man sought and found his redeemer. [An]d [also] the Mother of Life and the Father of the living sought [ ... ] this runner." The Bronze Church lives the principle; the Silver Church names it.
 
 ---
 
@@ -668,7 +676,7 @@ The table below maps the key correspondential objects through both registers:
 | Conjunction of good and truth | Kiss; beloved entering garden; eating pleasant fruits | Kiss = conjunction of good with truth; conjunction of Divine Good and Truth |
 | Alternation of states | Beloved withdraws; soul wounded; watchmen strike | First rescue accomplished; deeper captivity discovered; interiors still bound |
 | Mutual seeking | Soul seeks by night; Lord calls to arise | First Man sought his redeemer; Mother of Life sought the First Man |
-| Permanence of conjunction | Seal on heart and arm; love unquenchable | "He rests for ever"; eternal repose; hope of life |
+| Permanence of conjunction | Seal on heart and arm; love unquenchable | "He has himself become rested, [wi]th him for ever"; "[ … fo]r ever"; "he gave him the hope [ … ]" |
 | Purification through degrees | Seeking through streets → beyond watchmen → mother's house | Three degrees: sensual → rational → spiritual; virgin of light guiding |
 
 In every case, the spiritual reality is the same. The perceptual mode determines the vocabulary. The architecture is preserved because the architecture is real.
@@ -695,7 +703,7 @@ The Song–Kephalaia parallel provides specific evidence for this claim. Conside
 
 2. **The sealed garden and the sealed chamber would not independently describe the same spiritual state.** If "sealed enclosure = interior mind inaccessible from without" is a cultural convention, the convention must have been shared — but the two traditions share no vocabulary, no motifs, no literary contact. If it is an ontological correspondence — if an enclosed space naturally corresponds to an interior state because enclosure IS interiority in the natural degree — then independent discovery is expected.
 
-3. **The kiss would not independently correspond to conjunction of good and truth.** The Song's kiss is erotic intimacy. The Kephalaia's kiss is a technical term: "the kiss of love, the sign of conjunction between the Father and the redeemed Man." Two entirely different cultural treatments of the same natural act, both mapping it to the same spiritual reality. Convention cannot explain this. Ontological correspondence can.
+3. **The kiss would not independently correspond to conjunction of good and truth.** The Song's kiss is erotic intimacy. The Kephalaia's kiss is given to the First Man at his restoration: "[ ... he] gave him peace and a ki[ss ... ]" (K. 85.9), which the spiritual reading renders "the conjunction [ … ] of good with truth." Two entirely different cultural treatments of the same natural act, both mapping it to the same spiritual reality. Convention cannot explain this. Ontological correspondence can.
 
 4. **The pivot at State 4 would not appear in both texts.** Both the Song and the Kephalaia insist that initial conjunction reveals deeper captivity — that the first rescue is insufficient and a deeper descent is required. This is a highly specific structural claim about the regeneration process. If it is a cultural convention, it must have been transmitted. If it is an ontological truth about how regeneration actually works, independent discovery is expected.
 
@@ -723,7 +731,7 @@ The Silver and Bronze Church lines are two perceptual streams from one source. T
 
 What we have in the Song and the Kephalaia is not two distant relatives of a common ancestor. We have two living expressions of the same perceptual act, distorted only by the surface vocabulary that each cultural vessel imposed on what it received. Stripping both texts to their correspondential substrate — the Song to its seven continuous passages, the Kephalaia to its Layer 1 teaching — reveals the same geometry beneath radically different surfaces.
 
-This convergence is powerful evidence for Swedenborg's claim that the Ancient Word survived in "Great Tartary" (Central Asia). The Kephalaia substrate is Iranian in its cultural register; the manuscripts were preserved in Egypt and at Turfan (Chinese Turkestan) — precisely the region Swedenborg identified. The Song is Hebrew in its cultural register; the correspondential fragments it preserves belong to the Bronze Church line that produced the earliest layers of Israelite religious thought. The two lines converge not because they ever met but because they were always looking at the same thing.
+This convergence is powerful evidence for Swedenborg's claim that the Ancient Word survived in "Great Tartary" (Central Asia). The Kephalaia substrate is Iranian in its cultural register; the Kephalaia was preserved in Egypt, and Manichaean libraries survived at Turfan (Chinese Turkestan) — precisely the region Swedenborg identified. The Song is Hebrew in its cultural register; the correspondential fragments it preserves belong to the Bronze Church line that produced the earliest layers of Israelite religious thought. The two lines converge not because they ever met but because they were always looking at the same thing.
 
 Both lines ultimately find their integration in the Jesus movement — which Swedenborg identifies as the establishment of a spiritual church rooted in natural good of use. The Silver Church perceived truth. The Bronze Church perceived good. The spiritual church receives both: truth that serves good, and good that grounds truth, in the natural degree — in actual lives, actual use, actual love of the neighbor. The regeneration cycle that both traditions perceive independently is the cycle that the Lord Himself accomplished: incarnation, teaching, temptation, glorification, withdrawal, return at a deeper level, and the permanent establishment of the Divine Human in ultimates.
 
@@ -739,11 +747,11 @@ The companion thesis demonstrated that Genesis 1–11 compresses the full didact
 
 Genesis compresses the *macro-architecture*: the biography of spiritual history across dispensations, from primordial darkness through celestial life and subsequent decline. The Song compresses the *micro-architecture*: the biography of the individual soul's regeneration, the interior experience of the beloved seeking and being sought. Both compressions are genuine — neither is deficient. But they address different degrees of the same teaching.
 
-What the Song compresses is striking in its economy. The entire oscillation of presence and absence — which Chapter 115 unfolds across three successive cosmic descents, each involving distinct divine powers, entreaties, and structural transformations — the Song captures in eight verses (5:2–8). The sealed garden that opens to receive the beloved — which Chapter 55 presents as a cosmic drama of the Free Woman hidden in an unassailable chamber, brought forth only for her beloved — the Song renders in four verses (4:12, 15–16; 5:1). The permanent sealing of love — which the Kephalaia achieves through the elaborate cosmological sequence of the Third Messenger entering eternal repose — the Song accomplishes in two verses (8:6–7) of such concentrated force that they have become among the most quoted passages in world literature.
+What the Song compresses is striking in its economy. The entire oscillation of presence and absence — which Chapter 115 unfolds across three successive cosmic descents, each involving distinct divine powers, entreaties, and structural transformations — the Song captures in seven verses (5:2–8). The sealed garden that opens to receive the beloved — which Chapter 55 presents as a cosmic drama of the Free Woman hidden in an unassailable chamber, brought forth only for her beloved — the Song renders in four verses (4:12, 15–16; 5:1). The permanent sealing of love — which the Kephalaia states of the restoring power that "has itself entered into eternal repose, conjoined with it forever" (¶14) — the Song accomplishes in two verses (8:6–7) of such concentrated force that they have become among the most quoted passages in world literature.
 
 The compression is not loss. The Song's economy is a function of its register. The Bronze Church perceived through good — through direct affective experience of spiritual reality. When you experience something directly, you do not need a cosmic apparatus to describe it. You say: *I sought him but found him not.* That is the experience of alternation. You say: *Set me as a seal upon thine heart.* That is the experience of permanence. The experience itself is the knowledge.
 
-The Kephalaia substrate, perceiving through truth, must unfold the architecture that the Song's perceivers experienced as immediate reality. The Silver Church needs to *see* the structure — which faculties are involved, which powers descend, what sequence operates, what cosmic dimensions are engaged. This is not inferior; it is the truth-register of the same perception. But it requires elaboration where the good-register requires only compression. This is why the Song is 42 verses and the Kephalaia substrate is hundreds of paragraphs: they are covering the same ground from opposite perceptual orientations.
+The Kephalaia substrate, perceiving through truth, must unfold the architecture that the Song's perceivers experienced as immediate reality. The Silver Church needs to *see* the structure — which faculties are involved, which powers descend, what sequence operates, what cosmic dimensions are engaged. This is not inferior; it is the truth-register of the same perception. But it requires elaboration where the good-register requires only compression. This is why the Song is 32 verses and the Kephalaia substrate is hundreds of paragraphs: they are covering the same ground from opposite perceptual orientations.
 
 ### 9.2 What the Kephalaia Expands
 
@@ -751,9 +759,9 @@ If the Song compresses, the Kephalaia expands — and the expansion reveals dime
 
 First, the Kephalaia makes *explicit* the bilateral structure. Chapter 115 does not merely narrate rescue; it narrates from what the soul is rescued — the specific forms of captivity, the precise mechanism by which the Celestial Will became entangled. The Song's passage on alternation (5:2–8) narrates the withdrawal and the seeking, but does not elaborate the structural reason for the withdrawal. The Kephalaia fills this gap: the deeper captivity discovered after the first rescue is the captivity of the *interior* faculties — what the companion thesis identified as the difference between rescuing the external natural mind and reaching the spiritual faculties that remain bound. The Song perceives this as absence; the Kephalaia maps it as structure.
 
-Second, the Kephalaia expands the *faculty analysis*. When the Song says "His left hand is under my head, and his right hand doth embrace me" (8:3), it encodes in a single image what the substrate unfolds as a systematic correspondence: good supporting understanding, truth encompassing will. The image is complete — but only for a perceiver who already knows what it means. The Kephalaia provides the key that the Song presupposes.
+Second, the Kephalaia expands the *faculty analysis*. When the Song says "His left hand should be under my head, and his right hand should embrace me" (8:3), it encodes in a single image what the substrate unfolds as a systematic correspondence: good supporting understanding, truth encompassing will. The image is complete — but only for a perceiver who already knows what it means. The Kephalaia provides the key that the Song presupposes.
 
-Third, the Kephalaia expands the *cosmic dimension*. The Song's sealed garden (4:12) is a single image of the interior mind at the natural degree, sealed against premature opening. Chapter 55 reveals what this sealed state means in the architecture of reality: the celestial affection (Free Woman) hidden within an unassailable chamber, whose beauty is such that the whole world would be in awe if it were perceived. This is the same correspondence — the same spiritual reality — but the Kephalaia unfolds the architecture that the Song's image compresses into a single verse.
+Third, the Kephalaia expands the *cosmic dimension*. The Song's sealed garden (4:12) is a single image of the interior mind at the natural degree, sealed against premature opening. Chapter 55 reveals what this sealed state means in the architecture of reality: the celestial affection (Free Woman) hidden in her palace, whose beauty is famed "in every c[i]ty" though "no man ever looked" on her. This is the same correspondence — the same spiritual reality — but the Kephalaia unfolds the architecture that the Song's image compresses into a single verse.
 
 The relationship between the Song and the Kephalaia is thus not that of a summary to its full text, or a fragment to its original. It is the relationship between two modes of the same perception: the good-mode that experiences directly and the truth-mode that observes structurally. Together they constitute a binocular view of one reality. Each is complete in its own register. Each reveals what the other encodes.
 
@@ -763,15 +771,15 @@ The evidence of this thesis strengthens Swedenborg's Ancient Word hypothesis in 
 
 **First: the micro-architecture is confirmed.** The companion thesis established the macro-architecture — the biography of spiritual history. This thesis establishes the micro-architecture — the biography of the individual soul. These are two distinct levels of the Ancient Word's content, and both are now independently confirmed across two transmission lines. The Ancient Word was not merely a cosmogonic narrative. It was a complete spiritual science, teaching both the history of churches and the interior process of regeneration.
 
-**Second: Swedenborg's judgment about the Song is vindicated.** Swedenborg said the Song of Solomon was not part of the Word because it lacked continuous internal sense, but that its compiler had borrowed correspondential imagery from the Ancient Word. Both claims are confirmed. The Song as a whole does not possess continuous internal sense — two-thirds of it is compiled material without coherent spiritual thread. But the one-third that survives stripping preserves seven passages of continuous correspondential narrative that narrate the same cycle found independently in the Kephalaia substrate. The compiler did borrow from the Ancient Word. Swedenborg, writing in the eighteenth century without access to any of this material, diagnosed the Song accurately.
+**Second: Swedenborg's judgment about the Song is vindicated.** Swedenborg said the Song of Solomon was not part of the Word because it "has not the internal sense," but that it was "full of significatives collected from the books of the Ancient Church" (*AC* §3942). Both claims are confirmed. The Song as a whole does not possess continuous internal sense — nearly three-quarters of it is compiled material without coherent spiritual thread. But the quarter that survives stripping preserves seven passages of continuous correspondential narrative that narrate the same cycle found independently in the Kephalaia substrate. The compiler did borrow from the Ancient Word. Swedenborg, writing in the eighteenth century without access to any of this material, diagnosed the Song accurately.
 
 **Third: the two-register model maps onto the two church-types.** Swedenborg described the Most Ancient Church as perceiving correspondences directly, the Ancient Church (Silver) as perceiving through truth, and the Hebrew Church (Bronze) as perceiving through natural good. The Song and the Kephalaia map precisely onto the Silver/Bronze distinction: the intimate register belongs to good-perception; the cosmological register belongs to truth-perception. This is not a post hoc categorization — it follows from the distinctive character of each text. The Song *feels* like good-perception because it is. The Kephalaia *reads* like truth-perception because it is. The two-church framework that Swedenborg proposed to explain the diversification of the Ancient Word is the same framework needed to explain why two structurally identical texts look so different on the surface.
 
 The combined weight of the two theses — macro-architecture (Genesis/Kephalaia) and micro-architecture (Song/Kephalaia) — constitutes substantial evidence that the Ancient Word existed, that it contained both cosmological and intimate registers of the same spiritual science, and that it survived in recognizable form across multiple independent transmission lines.
 
-### 9.4 The Compiler Problem: Why Two-Thirds of the Song Is Not Ancient Word
+### 9.4 The Compiler Problem: Why Most of the Song Is Not Ancient Word
 
-The stripping procedure removed approximately 75 of the Song's 117 verses. This requires explanation. If the Song preserves Ancient Word material, why is most of it *not* Ancient Word?
+The stripping procedure removed 85 of the Song's 117 verses. This requires explanation. If the Song preserves Ancient Word material, why is most of it *not* Ancient Word?
 
 The answer lies in the compiler's method and purpose. The Song as we have it is a literary anthology — what Swedenborg recognized as a compilation rather than a continuous composition. The compiler (or compilers; the text may have accumulated layers) assembled correspondential fragments into a literary whole by adding:
 
@@ -783,7 +791,7 @@ The answer lies in the compiler's method and purpose. The Song as we have it is 
 
 The compiler's method is recognizable as *literary bricolage* — the assembly of a new work from existing fragments — and it operates by a principle that makes the stripping feasible: the compiler's additions lack the *causal movement* that characterizes the Ancient Word passages. In the seven stripped passages, each state *causes* the next: vastation leads to seeking, seeking leads to finding, finding leads to conjunction, conjunction leads to withdrawal, withdrawal deepens seeking, deepened seeking produces growth, growth receives permanence. In the compiled material, objects are *listed* rather than connected. This is the diagnostic criterion: correspondential narrative moves; correspondential display is static.
 
-The two-thirds that is not Ancient Word is therefore not meaningless. It preserves individual correspondences and provides a literary context for the fragments it transmits. But it does not preserve the *narrative structure* of the Ancient Word — the cycle of states that constitutes the micro-architecture of regeneration. Only the stripped passages preserve that.
+The part that is not Ancient Word is therefore not meaningless. It preserves individual correspondences and provides a literary context for the fragments it transmits. But it does not preserve the *narrative structure* of the Ancient Word — the cycle of states that constitutes the micro-architecture of regeneration. Only the stripped passages preserve that.
 
 ### 9.5 Limitations and Lacunae
 
@@ -807,9 +815,9 @@ These limitations are genuine. They do not, however, overcome the central findin
 
 The evidence is in. Seven passages of the Song of Solomon, surviving the removal of catalogues, court poetry, and editorial bridging, narrate a single regeneration cycle — from the first awakening out of vastation through seeking in darkness, conjunction in the sealed garden, the alternation of presence and absence, inspection of spiritual growth, fullness of reception, and the permanent sealing of divine love. This cycle, read in its correspondential sense, is structurally identical to the regeneration narrative preserved in Chapter 115 of the Kephalaia, where the same seven states unfold through the cosmological vocabulary of the Iranian tradition. The identity holds at every level: the same sequence, the same causal logic, the same turning point (the discovery that first rescue does not reach the deepest captivity), the same resolution (permanence achieved through a depth of descent that the first approach could not reach).
 
-And there is no surface resemblance whatsoever. The Song speaks of beds and gardens, foxes and myrrh, the voice of the turtle and the fragrance of pomegranates. The Kephalaia speaks of the Sphere of Divine Life, the Celestial Will thrown down into the borders of darkness, the Living Spirit extending his hand, the Third Messenger entering eternal repose. Not a single word is shared. The cultural registers — intimate Hebrew and scientific Iranian — are as different as two human languages can be. Yet the architecture beneath both is one.
+And there is no surface resemblance whatsoever. The Song speaks of beds and gardens, foxes and myrrh, the voice of the turtle and the fragrance of pomegranates. The Kephalaia speaks of the Sphere of Divine Life, the Celestial Will thrown down into the borders of darkness, the Living Spirit grasping the First Man and taking him in, the Third Messenger descending to the uttermost depth. Not a single word is shared. The cultural registers — intimate Hebrew and scientific Iranian — are as different as two human languages can be. Yet the architecture beneath both is one.
 
-The supporting witnesses confirm the identity at the level of individual correspondences. Chapter 55 presents the same sealed-chamber dynamics as Song 4:12. Chapter 31 presents the same kiss-as-conjunction as Song 8:1. Chapter 114 presents the same triadic micro-structure of daily purification as the Song's macro-cycle. Chapter 122 presents the same mutual seeking — "The First Man sought and found his redeemer; and also the Mother of Life sought and found this runner" — as Song 3:1–4 and 5:2–8. Each witness is independent. Together they constitute cross-validation of the structural identity across multiple Kephalaia chapters, not just one.
+The supporting witnesses confirm the identity at the level of individual correspondences. Chapter 55 presents the same sealed-chamber dynamics as Song 4:12. Chapter 31 presents the same kiss-as-conjunction as Song 8:1. Chapter 114 presents the same triadic micro-structure of daily purification as the Song's macro-cycle. Chapter 122 presents the same mutual seeking — "The Firs[t] Man sought and found his redeemer. [An]d [also] the Mother of Life and the Father of the living sought [ ... ] this runner" — as Song 3:1–4 and 5:2–8. Each witness is independent. Together they constitute cross-validation of the structural identity across multiple Kephalaia chapters, not just one.
 
 The companion thesis demonstrated this identity at the macro-scale: the biography of spiritual history (Genesis 1–11 and the substrate). This thesis demonstrates it at the micro-scale: the biography of the individual soul (the Song and the substrate). Two levels of the same teaching. Two scales of the same science. Both confirmed across two independent transmission lines.
 
@@ -827,41 +835,45 @@ Two registers. One perception. The Ancient Word.
 
 | State | Song Passage | Song Content (Natural) | Song Content (Spiritual) | Kephalaia Ch. 115 | Kephalaia Content (Spiritual) |
 |-------|-------------|----------------------|------------------------|--------------------|-------------------------------|
-| **1. Vastation / Awakening** | 2:10–15 | Winter past, flowers appear, turtledove's voice, fig tree, vineyard in bloom | End of spiritual desolation; first truths of good emerge; natural good begins to form | ¶¶8–12: Celestial Will has thrown itself down, become remote, entered devastation | The human spirit has descended into temptation-states and become entangled with falsity at the deepest level |
-| **2. Seeking in Darkness** | 3:1–5 | By night on bed, seeking through streets and squares, found by watchmen | The will awakens and searches through doctrine (streets), found by those who guard truth (watchmen), but passes beyond them to find the Lord Himself | ¶¶12–14: Sphere of Life petitions, glorifies, implores the Divine Origin on behalf of the trapped Will | The church's intercessory function: perceiving the soul's captivity and raising entreaty to the source of all rescue |
-| **3. Conjunction** | 4:12, 15–16; 5:1 | Sealed garden, fountain, well of living waters; north wind and south wind blow; beloved comes to garden and eats | Interior mind opens; living truths flow; the Lord enters and receives what the soul has cultivated | ¶¶14–17: Living Spirit descends, extends hand, grasps First Man; first rescue accomplished | The first divine power reaches the external natural mind and draws it out of captivity into initial freedom |
-| **4. Alternation / Withdrawal** | 5:2–8 | Beloved knocks, bride hesitates, opens too late; he has gone; she seeks again and is wounded by the watchmen | The Lord gives presence then withdraws; the soul's delay (self resistance) results in loss of perception; renewed seeking brings suffering | ¶¶17–20: First Man rescued, but interiors remain captive; deeper captivity discovered; a second entreaty raised | External rescue is complete but the interior spiritual faculties remain bound in falsity — the structural pivot revealing that first approach cannot reach the deepest need |
-| **5. Deepened Seeking / Growth** | 7:10b–13 | Going to the field, lodging in villages, early to vineyards, inspecting vine and pomegranate | The soul and Lord survey spiritual growth: the church in its breadth (field), doctrinal good (villages), spiritual good forming (vine, pomegranate, mandrake) | ¶¶20–23: Third Messenger descends to the uttermost depth; reaches what the first rescue could not | A deeper truth penetrates to the spiritual faculties that remained captive — the rescue that the first approach could not accomplish |
-| **6. Fullness of Reception** | 8:1–4 | Brother from mother's breast; kiss without shame; mother's house; spiced wine; left hand under head, right hand embracing | The Lord received as one sharing the same good; conjunction openly expressed; the church becomes the place of instruction; good supports understanding, truth encompasses will | ¶¶23–25: The spirit is brought heavenly peace and established in right order; rest of the whole faculty | Full spiritual restoration: every faculty established in its proper correspondence, the entire interior brought to peace and right arrangement |
-| **7. Permanence** | 8:6–7 | Seal on heart, seal on arm; love strong as death; coals of fire; waters cannot quench; floods cannot drown | Good imprinted permanently on the will; truth imprinted on the power to act; divine love declared unconquerable by any falsity or evil; love cannot be purchased or exchanged | ¶¶25–27: The restoring power has itself entered into eternal repose, conjoined forever with what it rescued | The divine truth that accomplished the final rescue does not withdraw but enters permanent conjunction — the work is sealed, the repose is eternal, the union irreversible |
+| **1. Vastation / Awakening** | 2:10–15 | Winter past, flowers appear, turtledove's voice, fig tree, vineyard in bloom | End of spiritual desolation; first truths of good emerge; natural good begins to form | ¶¶9–10, 12: Celestial Will has thrown itself down, become remote, entered devastation | The human spirit has descended into temptation-states and become entangled with falsity at the deepest level |
+| **2. Seeking in Darkness** | 3:1–5 | By night on bed, seeking through streets and squares, found by watchmen | The will awakens and searches through doctrine (streets), found by those who guard truth (watchmen), but passes beyond them to find the Lord Himself | ¶¶8, 10: Sphere of Life petitions, glorifies, implores the Divine Origin on behalf of the trapped Will | The church's intercessory function: perceiving the soul's captivity and raising entreaty to the source of all rescue |
+| **3. Conjunction** | 4:12, 15–16; 5:1 | Sealed garden, fountain, well of living waters; north wind and south wind blow; beloved comes to garden and eats | Interior mind opens; living truths flow; the Lord enters and receives what the soul has cultivated | ¶¶11–14: Living Spirit descends, grasps First Man and takes him in; first rescue accomplished | The first divine power reaches the external natural mind and draws it out of captivity into initial freedom |
+| **4. Alternation / Withdrawal** | 5:2–8 | Beloved knocks, bride hesitates, opens too late; he has gone; she seeks again and is wounded by the watchmen | The Lord gives presence then withdraws; the soul's delay (self resistance) results in loss of perception; renewed seeking brings suffering | ¶¶17–19: First Man rescued, but interiors remain captive; deeper captivity discovered; a second entreaty raised | External rescue is complete but the interior spiritual faculties remain bound in falsity — the structural pivot revealing that first approach cannot reach the deepest need |
+| **5. Deepened Seeking / Growth** | 7:10b–13 | Going to the field, lodging in villages, early to vineyards, inspecting vine and pomegranate | The soul and Lord survey spiritual growth: the church in its breadth (field), doctrinal good (villages), spiritual good forming (vine, pomegranate, mandrake) | ¶¶19–20: Third Messenger descends to the uttermost depth; reaches what the first rescue could not | A deeper truth penetrates to the spiritual faculties that remained captive — the rescue that the first approach could not accomplish |
+| **6. Fullness of Reception** | 8:1–4 | Brother from mother's breast; kiss without shame; mother's house; spiced wine; left hand under head, right hand embracing | The Lord received as one sharing the same good; conjunction openly expressed; the church becomes the place of instruction; good supports understanding, truth encompasses will | ¶¶20, 22: The spirit is brought heavenly peace and established in right order; rest of the whole faculty | Full spiritual restoration: every faculty established in its proper correspondence, the entire interior brought to peace and right arrangement |
+| **7. Permanence** | 8:6–7 | Seal on heart, seal on arm; love strong as death; coals of fire; waters cannot quench; floods cannot drown | Good imprinted permanently on the will; truth imprinted on the power to act; divine love declared unconquerable by any falsity or evil; love cannot be purchased or exchanged | ¶14: The restoring power has itself entered into eternal repose, conjoined forever with what it rescued; the third entreaty closes "[ … fo]r ever" (¶¶26–27; K. 276.1) | The divine truth that accomplished the final rescue does not withdraw but enters permanent conjunction — the work is sealed, the repose is eternal, the union irreversible |
 
 ### Supporting Correspondence Table
 
 | Spiritual Reality | Song Image | Song Reference | Kephalaia Image | Kephalaia Chapter |
 |---|---|---|---|---|
-| Interior mind sealed at the natural degree | Sealed garden, locked fountain | 4:12 | Free Woman hidden in unassailable chamber | Ch. 55 ¶5–6 |
-| Celestial affection hidden, brought forth for the beloved | Bride comes to garden | 4:16–5:1 | Beautiful woman comes forth; the whole world in awe | Ch. 55 ¶6 |
-| Conjunction of good with truth at the most interior contact | Kiss without shame; brother from mother | 8:1 | "The Father established the Kiss of Love upon him" | Ch. 31 ¶8 |
+| Interior mind sealed at the natural degree | Sealed garden, locked fountain | 4:12 | Free Woman hidden in her palace | Ch. 55 ¶5 |
+| Celestial affection hidden, brought forth for the beloved | Bride comes to garden | 4:16–5:1 | The free woman leaves her chamber and reveals her face because of her beloved; everyone views her | Ch. 55 ¶6 |
+| Conjunction of good with truth at the most interior contact | Kiss without shame; brother from mother | 8:1 | "[ ... he] gave him peace and a ki[ss ... ]" (K. 85.9) | Ch. 31 ¶7 |
 | Three degrees of purification (daily micro-cycle recapitulating the macro-cycle) | Night → seeking → finding (3:1–5 compressed) | 3:1–5 | Three degrees of daily purification; virgin of light as origin and end | Ch. 114 |
-| Mutual seeking: the soul seeks the Lord AND the Lord seeks the soul | Bride seeks beloved (3:1; 5:6); beloved comes to garden (5:1) | 3:1–5; 5:1–8 | "The First Man sought and found his redeemer. And also the Mother of Life sought and found this runner" | Ch. 122 |
-| Withdrawal deepens genuine reception | Beloved withdraws; bride wounded in seeking | 5:2–8 | Second entreaty required; deeper captivity discovered after first rescue | Ch. 115 ¶¶17–20 |
-| Permanence of divine love as ontological fact | Love strong as death; waters cannot quench | 8:6–7 | Third Messenger enters eternal repose, conjoined forever | Ch. 115 ¶¶25–27 |
+| Mutual seeking: the soul seeks the Lord AND the Lord seeks the soul | Bride seeks beloved (3:1; 5:6); beloved comes to garden (5:1) | 3:1–5; 5:1–8 | "The Firs[t] Man sought and found his redeemer. [An]d [also] the Mother of Life and the Father of the living sought [ ... ] this runner" | Ch. 122 |
+| Withdrawal deepens genuine reception | Beloved withdraws; bride wounded in seeking | 5:2–8 | Second entreaty required; deeper captivity discovered after first rescue | Ch. 115 ¶¶17–19 |
+| Permanence of divine love as ontological fact | Love strong as death; waters cannot quench | 8:6–7 | "He has himself become rested, [wi]th him for ever"; "[ … fo]r ever" | Ch. 115, K. 273.6–7, 276.1 |
 
 ---
 
 ## 12. Works Cited
 
-1. Swedenborg, Emanuel. *Arcana Coelestia* (Heavenly Secrets). 12 vols. London: 1749–1756. Cited by section number (§).
-2. Swedenborg, Emanuel. *The Doctrine of Sacred Scripture.* Amsterdam: 1763. Cited by section number (§).
-3. Swedenborg, Emanuel. *Brief Exposition of the Doctrine of the New Church.* Amsterdam: 1769. (The *Athanasian Creed* references.)
-4. Swedenborg, Emanuel. *Spiritual Diary* (*Experientiae Spirituales*). Posthumous. Cited by entry number.
-5. Gardner, Iain. *The Kephalaia of the Teacher: The Edited Coptic Manichaean Texts in Translation with Commentary.* Nag Hammadi and Manichaean Studies 37. Leiden: Brill, 1995.
-6. Funk, Wolf-Peter. *Kephalaia I: Zweite Hälfte.* Stuttgart: Kohlhammer, 1999.
-7. Klimkeit, Hans-Joachim. *Gnosis on the Silk Road: Gnostic Texts from Central Asia.* San Francisco: HarperSanFrancisco, 1993.
-8. Song of Solomon. Hebrew text: *Biblia Hebraica Stuttgartensia* (BHS). English translation: KJV unless otherwise noted.
-9. [The Ancient Word Recovered: Extracting the Correspondential Substrate of the Kephalaia](../00_Framework/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md). Companion thesis describing the eight-stage computational pipeline for extracting the pre-Manichaean Layer 1 substrate.
-10. [Three Witnesses to One Architecture: Genesis 1–11 and the Correspondential Kephalaia](Three%20Witnesses%20to%20One%20Architecture_%20Genesis%201-11%20and%20the%20Correspondential%20Kephalaia.md). Companion thesis establishing the macro-architectural identity between Genesis 1–11 and the Kephalaia substrate.
-11. Pope, Marvin H. *Song of Songs: A New Translation with Introduction and Commentary.* Anchor Bible 7C. Garden City, NY: Doubleday, 1977.
-12. Longman, Tremper III. *Song of Songs.* New International Commentary on the Old Testament. Grand Rapids: Eerdmans, 2001.
-13. Murphy, Roland E. *The Song of Songs.* Hermeneia. Minneapolis: Fortress Press, 1990.
+**Primary Sources:**
 
+1. Gardner, Iain, trans. *The Kephalaia of the Teacher: The Edited Coptic Manichaean Texts in Translation with Commentary.* Nag Hammadi and Manichaean Studies 37. Leiden: Brill, 1995. Cited by page and line of the Coptic as K.; the chapter numbering and titles.
+2. *The Holy Bible, King James Version.* 1611. The Song of Solomon is quoted from this translation.
+3. Polotsky, H. J., and A. Böhlig, eds. and trans. *Kephalaia.* Vol. 1, first half (fascicles 1–10). Manichäische Handschriften der Staatlichen Museen Berlin 1. Stuttgart: W. Kohlhammer, 1940. The Coptic edition that Gardner translates, with its restorations of the lacunae.
+4. Böhlig, Alexander, ed. *Kephalaia.* Vol. 1, second half, fascicles 11–12 (pp. 244–291). Stuttgart: W. Kohlhammer, 1966. The edition of Chapters 114, 115 and 122.
+5. Swedenborg, Emanuel. *Arcana Coelestia.* Translated by John Clowes, revised and edited by John Faulkner Potts. 12 vols. Standard Edition. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number as *AC*: the Song of Solomon at §3942; the books of the Word at §10325.
+
+**Internal Library Documents:**
+
+6. [A Garden Enclosed: The Song of Solomon Read in Correspondence](../03_Biblical_Scholarship/A%20Garden%20Enclosed_%20The%20Song%20of%20Solomon%20Read%20in%20Correspondence.md). The companion reading of the whole Song, with the verse-by-verse classification behind the stripping.
+7. [The Ancient Word Recovered: Extracting the Correspondential Substrate of the Kephalaia](../00_Framework/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md). The three layers of the Kephalaia and the computational pipeline that produced the spiritual readings quoted here.
+8. [Three Witnesses to One Architecture: Genesis 1–11 and the Correspondential Kephalaia](Three%20Witnesses%20to%20One%20Architecture_%20Genesis%201-11%20and%20the%20Correspondential%20Kephalaia.md). The companion thesis on the macro-architecture, Genesis 1–11 and the Kephalaia substrate.
+
+**Data Sources:**
+
+9. manichaean-analysis project (kayna-of-light/manichaean-analysis), Kephalaia extraction pipeline, spiritual readings of the core chapters: `output/projects/kephalaia/restored/chapters/ch_NNN.json` (field `spiritual_reading`), cited by chapter and paragraph (¶).
+10. manichaean-analysis project (kayna-of-light/manichaean-analysis), *The Ancient Word: Recovered from the Kephalaia of the Teacher*, Version 1.1 (`output/pdfs/The_Ancient_Word_v1.1.pdf`), pp. 4–5: the four corrections of Gardner's translation to the Coptic applied in the quotations.

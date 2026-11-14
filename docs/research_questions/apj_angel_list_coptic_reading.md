@@ -1,7 +1,7 @@
 # Research Question: A Coptic-First Reading of the Apocryphon of John's Angel List
 
 > **Target System**: [NLM] / in-session (Coptic sources on disk) — see "Resources" below
-> **Status**: Open
+> **Status**: Partly resolved (2026-11-09) — parts 2–5 answered; part 1 answered for the names that can be read, the grade-C names remain open
 > **Created**: 2026-11-07
 > **Priority**: Medium
 > **Domain**: Correspondential Texts / Coptic philology / Swedenborgian body-part correspondences
@@ -10,9 +10,24 @@
 
 ## Why this is open
 
-*The Unnamed Cartography* (`data/08_Correspondential_Texts/`) compared 43 angel names of the body-creation passage (NHC II 15,13–19,10) with Swedenborg's body-part correspondences and found no contradictions. Its etymologies were derived from the English transliterations in Robinson 1990 (Wisse's translation). Its §3.8 now checks that text against the Coptic of both manuscripts (Linssen 2024) and finds it sound: the names are the scribes' names, the body parts and substance-souls are the same, and right–left differences are between Codex II and Codex IV, not errors of the translation.
+*The Unnamed Cartography* (`data/08_Correspondential_Texts/`) compared 43 angel names (42 after the Agromauna correction of 2026-11-09) of the body-creation passage (NHC II 15,13–19,10) with Swedenborg's body-part correspondences and found no contradictions. Its etymologies were derived from the English transliterations in Robinson 1990 (Wisse's translation). Its §3.8 now checks that text against the Coptic of both manuscripts (Linssen 2024) and finds it sound: the names are the scribes' names, the body parts and substance-souls are the same, and right–left differences are between Codex II and Codex IV, not errors of the translation.
 
 That check confirms what was already scored. It does not do the larger work it opens up: **reading the list from the Coptic outward**, which is the author's standing rule for NHL work (ledger, 2026-10-31: quote and translate from the Coptic, never from Robinson's English). A separate thesis (*The Letters They Dropped*, withdrawn 2026-11-07) claimed to have done this but had read Robinson's Codex IV parentheses as errors and the linking particle as dropped letters; nothing of it survives except what is now in §3.8.
+
+## Answered so far (2026-11-09)
+
+*The Body That Waited for Breath: The Angelic Anthropogony of the Apocryphon of John Read from the Coptic* (`data/08_Correspondential_Texts/`) reads the whole passage (II 15,1–20,9; IV 24–29) from the Coptic of both codices, drawing on two Gemini Deep Research reports after checking each claim against the manuscripts, Crum, Černý and Swedenborg's text.
+
+- **Part 1 (opaque names)**: every name graded A/B/C (thesis §2.3, §14). After reading Quack 1995 (author's Drive, Books): 38 of 130 surviving names read at A/B after weighing Quack's equations against Piwowarczyk 2021 (full PDF read; author's link), many of them Egyptian decan and god names; the word-names are apt and none contradicts its member. "Chief receiver" (Archendekta) withdrawn: Horus Khentikheti. Quack had already reconstructed the 72 from both codices (1995, 98, 110). Grade-C names compared (2026-11-09) with every form in Gundel 1936 pp. 77–81 (archive.org, open): seven resemblances recorded as C (Riaramnacho~Ρεμεναχ/Celsus Ῥαμανωρ; Asmenedas~Zamendres; Lampnō~Ἀμπάναν; Anesimalar~Ἀνεσιούμ; Oudidi~οὐδισίτ; Arouph~Arfa; Kharkha/Kharkharb~Χαρχαμ). The other ~80 have no decan match and no ritual attestation (Piwowarczyk): unattested with the published sources. Effectively closed unless a new papyrus or gem attests one.
+- **Part 3 (II against IV)**: collated (§5.2, §14.2). II lost three left-hand entries by homoeoteleuton, IV lost Phnēmē and Phiouthrom the same way; union = 72. "Zathoth" = numeral ⲍ + Athoth; IV names all seven overseers (IV 26,17–20). No paired right/left name shows the *AC* §10061 distinction at grade A/B.
+- **Part 4 (body words)**: settled (§§4, 5.4–5.6, 7). Three remain uncertain and are not used: ϫⲱ, ⲧⲉⲧⲉ, ϭⲗⲁⲧⲉ ⲛ̅ⲧⲟⲩⲣⲏⲧⲉ.
+- **Part 5 (second list and rulers)**: read and compared (§§7–10).
+
+- **Part 2 (the two readings)**: settled. ⲫⲛⲏⲙⲏ and ⲁⲅⲣⲟⲙⲁⲩⲙⲁ are what the manuscripts read; "Phnene" and "Agromauna" are misprints of Robinson 1988/1990. The 1981 printing of the same translation, Meyer 1984, Layton 1987 and *Nag Hammadi Deutsch* 2013 all read Phneme/Agromauma (archive.org full-text search). *Unnamed Cartography* §3.4/§3.8 corrected.
+
+- **The grade-C names as a code (2026-11-10)**: at the author's request, `nag-hammadi-analysis/research/apj_name_patterns/` tested whether the names carry their members' meanings (coded by function, frozen before the names were attached) in shared letter sequences. A miss: nothing beyond chance, nothing that holds in both lists (`nag-hammadi-analysis/research/apj_name_patterns/synthesis/001_first_run.md`). The unread names cannot be read from their letters. Part 2 (same day) tested the origin of the names (Egyptian, Greek, Semitic) against the same meanings: also a miss (`nag-hammadi-analysis/research/apj_name_patterns/synthesis/002_origin.md`). Part 3, a blind matching test of the word-names, could not be carried out: the language-model matchers all recognised the Apocryphon (`nag-hammadi-analysis/research/apj_name_patterns/synthesis/003_word_names.md`). A repeat with human readers who do not know the text is the open step; otherwise a new source would be needed.
+
+**Still open**: the grade-C names (thesis §12.4).
 
 ## The research opportunity — five parts
 

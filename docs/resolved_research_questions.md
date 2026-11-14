@@ -1969,6 +1969,23 @@ Leads to verify (from general knowledge, unchecked — none is to be cited until
 
 ---
 
+### [NLM] *The Unnamed Cartography* §3.4 — Agromauna or Agromauma: which does the manuscript read?
+
+**Priority**: LOW
+**Related Documents**: `data/08_Correspondential_Texts/The Unnamed Cartography_ A Systematic Validation of Swedenborgian Body-Part Correspondences Against the 365-Angel List of the Apocryphon of John.md` (§3.4, "Agromauna | Heart | ἀγρός + μονή = field-dwelling", rated consistent; §3.8). Part of the larger open question in `docs/research_questions/apj_angel_list_coptic_reading.md` (part 2)
+
+**Context**: Robinson's English (Wisse) names the angel of the heart "Agromauna". Linssen's transcription reads ⲁⲅⲣⲟⲙⲁⲩⲙⲁ in both witnesses of the long recension (NHC II 16,20; IV 25,23), with ⲙ before the final vowel. Two editors read the same letters differently; the transcription available in the session cannot say which is right. The cartography's etymology ἀγρός + μονή needs the ν of μονή. Every other scored name checked on 2026-11-06 stands on the Coptic (the apparent extra letters of Asterechme, Thaspomocha and Achcha are the linker, which Codex IV writes apart).
+
+**Research Question**: Read II 16,20 and IV 25,23 in the photographic facsimiles (*The Facsimile Edition of the Nag Hammadi Codices*, Codices II and IV) or in Waldstein–Wisse 1995. The answer fixes the document, with no decision left: if the manuscripts have ⲛ, the score stands and §3.8 is corrected; if ⲙ, the etymology ἀγρός + μονή falls, and the name is re-derived from ⲁⲅⲣⲟⲙⲁⲩⲙⲁ or moved to the opaque names (tallies 11 consistent → 10, 43 → 42). Check the author's Drive `Books` folders and archive.org first.
+
+**Status**: ✅ RESOLVED
+
+**Date Resolved**: 2026-11-09
+
+**Resolution Summary**: The manuscripts read ⲁⲅⲣⲟⲙⲁⲩⲙⲁ (and ⲫⲛⲏⲙⲏ at II 17,2). "Agromauna" and "Phnene" are misprints of the revised edition (Robinson 1988/1990). The 1981 printing of the same Wisse translation reads "Agromauma" and "Phneme" (IA `naghammadilibrar00jame`), as do Meyer, *The Secret Teachings of Jesus* (1984; IA `secretteachingso00meye`), Layton, *The Gnostic Scriptures* (1987; IA `gnosticscripture0000unse`) and *Nag Hammadi Deutsch* (2013; IA `naghammadideutsc0000unse`), all checked by archive.org full-text search. The facsimiles themselves (IA `facsimileedition0002unse`, Codex II) are lending-only and were not opened. *The Unnamed Cartography* §3.4/§3.8 corrected: the ἀγρός + μονή reading does not stand.
+
+---
+
 ## Resolved 2026-11-14 (nightly source audit, author decision)
 
 ---
@@ -1993,17 +2010,17 @@ Leads to verify (from general knowledge, unchecked — none is to be cited until
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 49 |
+| **Total Resolved** | 50 |
 | **NDE Domain** | 14 |
 | **BIBL Domain** | 6 |
 | **SWED Domain** | 3 |
 | **CROSS Domain** | 1 |
 | **EARLY Domain** | 2 |
-| **GNOS Domain** | 1 |
+| **GNOS Domain** | 2 |
 | **GDR Domain** | 18 |
 | **Critical Priority** | 3 |
 | **High Priority** | 16 |
 | **Medium Priority** | 22 |
-| **Low Priority** | 8 |
+| **Low Priority** | 9 |
 
 **Last Updated**: 2026-11-14

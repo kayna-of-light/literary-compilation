@@ -33,7 +33,9 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 > but it is not to build a thesis on" (author, 2026-11-13). "V2" means the work-in-progress **Coptic digitisation**
 > (`kephalaia_v2`, `The_Ancient_Word_v2.pdf`) — never quote it. Never move a corrected reading back to Gardner.
 > The Coptic editions are in the author's Drive: Polotsky & Böhlig, Lief. 1–10 (id `1nI28j2mFDfKx7VGjNZX4tGiiGXWn0mwW`;
-> also the Schmidt-series scan `1FfniSXkwPbtpGmwgSIkc-_GSi2pIe3uq`) and Lief. 11–12 (`1hsZ3Jie-_MEb1LsqSBRQDRsPWPEZTKDk`). Open research: the Agromauna reading (facsimile needed) and the Coptic-first reading of the angel list. Name the nightly branch for the Amsterdam date (the run starts after
+> also the Schmidt-series scan `1FfniSXkwPbtpGmwgSIkc-_GSi2pIe3uq`) and Lief. 11–12 (`1hsZ3Jie-_MEb1LsqSBRQDRsPWPEZTKDk`). Open research (PR #71, *The Body That Waited for Breath*): Agromauna/Phnēmē are settled as 1990 misprints; the grade-C angel
+> names stay unread (`docs/research_questions/apj_angel_list_coptic_reading.md`); the name-pattern tests live in
+> `nag-hammadi-analysis/research/apj_name_patterns/` (letters and origin: misses; blind word-name test: failed, needs human readers). Name the nightly branch for the Amsterdam date (the run starts after
 > midnight CET; `TZ=Europe/Amsterdam date +%F`). swedenborg.com returned **429 on the first request** on 2026-11-12: go
 > straight to Gutenberg (Ager *HH* 17368, *DLW* 16627, *DP* 18507), e-swedenborg (`d6943/<n>.htm` for *AC*, `d5399/<n>.htm`
 > for *HH*, `d10409/<n>.htm` for *SS*, browser UA; served ~110 sections without a reset on 2026-11-14) or the author's
@@ -1143,6 +1145,61 @@ Branch `claude/nightly-audit-2026-11-10`, cut from `origin/dev`. Precheck passed
 ### 2026-11-10 (follow-up at the author's request): what the night had cut without reading
 
 The author objected that claims were replaced "simply on the reason that you simply not read" the evidence, and asked for a better look at Nicaea. Every narrowing of 2026-11-09 was reopened. Most of them reversed: Mary Magdalene and Judas are in their texts (Gos. Mary read from the Coptic in Till 1955), the sinking faith-alone cities are *SD* §4926, the Moravians' adultery is in §4791 and their robbery in §4813, ACIM says what the document said it says, and Swedenborg does charge Nicaea — with the persons, while the unnamed council of the dark room decreed the natures (Chalcedon). The lesson is in the pattern register: a wrong locus means the claim's evidence has to be found, not that the claim is gone.
+
+### 2026-11-09 (in session, at the author's request): new thesis from two GDR reports on the angel catalogue
+
+The author added two Gemini Deep Research reports on the Apocryphon's angelic anthropogony to Drive and asked for one
+thesis combining them, read from the Coptic. Written: `08/The Body That Waited for Breath_ The Angelic Anthropogony of
+the Apocryphon of John Read from the Coptic.md`. Every reading was checked against Linssen's Coptic of both codices,
+Crum, Černý and Swedenborg (e-swedenborg Potts text). **Kept from the reports**: the Stoic tetrad; ὄμμα for Oummaa
+(tied to *AC* §4408); κρᾶσις in Onorthochrasaei; Phloxopha/φλόξ, Athuro/Hathor; the body-word corrections already in the
+research file. **Excluded as not in the text or not verifiable**: Report 2's kidney, shin and left-shin angels
+(Michineu/Machaouel, Kaniaron/Mniarkon, Touera) and the nouns ⲧⲙⲛⲧⲉⲃϣⲁ, ⲧⲙⲛⲧⲥⲩⲛⲉⲥⲓⲥ; ⲉⲛⲑⲟⲗⲗⲏⲗ and "ⲥⲁⲣⲝ ⲛⲓⲙ" (text:
+ⲏⲛⲑⲟⲗⲗⲉⲓⲁ ⲛ̅ⲧⲥⲁⲣⲝ ⲧⲏⲣⲥ); IV "ⲭⲁⲣⲙⲁⲛ" (IV: ⲭⲁⲁⲙ[ⲁⲛ]); a line "17,36"; ⲥⲩⲛⲑⲉⲥⲓⲥ for the composition faculty (text:
+ϫⲱⲛϥ); Anaro "over the 365"; Crum page numbers; quotations of Piwowarczyk's entries and Quack's specific
+reconstructions (neither read; cited from catalogue records only); a DDGLC lemma; about twenty *AC*/*DLW*/*HH* loci that do not
+say what was attributed; the "Wisse typographical substitution"; grade-C etymologies used as evidence (Krys "gold",
+Belial, ἀν-ορθο-κρασία). New findings from the Coptic: Codex IV's citation of Zoroaster is a restoration (only ⲁⲥⲧ
+survives, IV 29,18); ⲕⲱϩ runs through II 13,8–13, 15,21, 18,21, 19,34; ⲙⲛ̅ⲧⲣⲙⲛ̅ϩⲏⲧ links the hair-soul (15,22) to the living
+man's understanding (20,3–5); ⲁⲧⲕⲓⲙ → ⲁϥⲕⲓⲙ (19,14 → 19,32). Research file updated (parts 1, 3–5 answered; part 2 open).
+Drive sync not run (needs the author's approval). Follow-up the same day (author: "you should check the manuscripts then"):
+the facsimile volumes on archive.org are lending-only and the Claremont photographs did not load, so the two readings were
+settled against the other editions by full-text search: Robinson's own 1981 printing of Wisse's translation, Meyer 1984,
+Layton 1987 and *Nag Hammadi Deutsch* 2013 all read "Agromauma" and "Phneme"; only the 1988/1990 revision prints
+"Agromauna"/"Phnene". *Unnamed Cartography* §3.4 row and §3.8 corrected (inline `[CORRECTION]`; the ἀγρός + μονή reading is
+withdrawn); thesis §12.5 and the research files updated; the Agromauna question moved to the resolved file. Then the author supplied Quack 1995 and Piwowarczyk 2021 in Drive `Books` (van den Broek 1981 unavailable; the
+reports' claims attributed to it were never used). Quack read in full: his 72-reconstruction is the same as the thesis's and is now credited
+to him; more than 20 makers are Egyptian decan names, others Egyptian gods. Thesis re-graded with his readings (Achcha, Balbel, Phnouth,
+Arabeei, Psērēm, Ormaoth, Ouertōn, Choux, Haroeris, Archentechtha now B; Chnoum- is the decan Chnoumis, not Khnum; Aroēr is Haroeris, not
+the place; Archendekta is Horus Khentikheti, not "chief receiver"); totals 40 of 130 A/B; §§1, 2.2, 5, 7–11, 12.3–12.5, 13, 14 and
+abstract revised. *Unnamed Cartography* gets an inline `[CRITICAL ANALYSIS]` note on five scored names (tallies unchanged: Quack's are
+proposals). Piwowarczyk: the Drive connector returns only the front matter and first 30 lexicon pages, and the PDF is too large to
+download; the full entries are still to read. Then the author supplied the gnosis.study link and the full PDF (412 pp.) was read for every
+entry of the passage: Piwowarczyk accepts the Egyptian gods but rates many of Quack's decan equations tentative. Achcha, Psērēm and Arabeei went
+back to C; Arbao went up to B ("fourfold Iao"); Chnoum- restored as "Khnum, or the decan Chnoumis"; the ⲍ at II 19,1 is given both readings
+(numeral, or the magical ζουχ of ζουχε πιπτοη); αἴσθησις οὐχ ἐπὶ πτοῇ as the Stoic rule; the lists treated as a later Coptic-stage stratum
+(Piwowarczyk xxxi). Totals 38 of 130 A/B. Then (author: "what is holding you back on those 90 names?") the remaining names were compared with every
+form in Gundel 1936 pp. 77–81 (open on archive.org, read from page images): seven resemblances added as C proposals of this study; ~80
+names have no decan match and no ritual attestation, so §12.4 now states the reading ends there with published sources. Gundel added to
+Works Cited. Then (author: "do you mean you cannot read the coptic?") all unread names were tested against Crum (whole and segmented): none is a
+Coptic word except ⲁⲣⲁⲣⲓⲙ = Bohairic "saltwort" (likely coincidence); ⲃⲁⲣⲃⲁⲣ is near ⲃⲉⲣⲃⲉⲣ "boil". Recorded as C. Then (author: the names identify spiritual communities; find the rules without preassigning sounds) a research
+project, `research/apj_name_patterns/`, coded every member and force by function as Swedenborg derives it (degree, layer, polarity, use,
+role; frozen 2026-11-10 before names were attached) and tested whether related meanings carry related letter sequences. Result 2026-11-10
+(`synthesis/001_first_run.md`): a **miss** by the registered criteria. Same member across lists p = 0.070, Mantel r = 0.016 (p = 0.20),
+no grid cell survives, nothing replicates in the second list. One unvalidated lead: ⲣ marks the right-hand name in the first list (8 pairs
+to 0), reversed in the second (3 to 6). Then (author: test the origin of the names instead) Part 2 tested the tradition of each name
+(Egyptian, Greek, Semitic, from the published readings) against the same meanings, with one prediction from the text (Egyptian names on
+natural-degree members, *AC* §§4967, 5276, 4938): also a **miss** (strict 4 of 9 vs 28 of 84, p = 0.45; reversed under the broad
+coding); origin is unrelated to degree, side and role (`synthesis/002_origin.md`). Part 3, a blind matching test of the fourteen
+word-names, **failed**: every language-model matcher recognised the Apocryphon (from the glosses together, then from the text's own member
+names offered as options, and one from the project context), so no blind matcher was obtained; the aptness of the word-names stays the
+thesis's reading (`synthesis/003_word_names.md`). At the author's request all three tests are written into *The Body That Waited for
+Breath* where they belong: new §2.5 (method), §5.7 (origin, the ⲣ side lead, the failed blind test), §12.3 (limits of the hit), §12.4
+(letters and origin), §12.5, §13, abstract, introduction; Data Sources item 26. A valid word-name test needs human readers who do not
+know the text, with options from a general anatomical vocabulary. On 2026-11-14 (author: the research belongs in the NHL repository) the whole
+study moved to `nag-hammadi-analysis/research/apj_name_patterns/`, with a generated graded catalogue
+(`findings/tractates/AJ_angel_catalogue.yaml`), a status block on `AJ_angel_name_translations.yaml` and findings AJ-040–049
+in `II_1_apocryphon_john.yaml` (nag-hammadi-analysis PR #2); PR #71 merged `dev` (ledger and resolved-question conflicts).
 
 ### 2026-11-09 (nightly): *Theological Forensic Analysis* and the rest of *The Architecture of Hidden Divinity*
 

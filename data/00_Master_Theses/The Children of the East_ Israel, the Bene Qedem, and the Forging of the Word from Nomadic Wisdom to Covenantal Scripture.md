@@ -591,7 +591,7 @@ The Exodus is the **master correspondence** of the Hebrew Bible — the single n
 | Narrative Element | Correspondential Content |
 |:---|:---|
 | **Egypt** | The natural, worldly mind in a state of spiritual bondage — enslaved to sensory reasoning |
-| **Pharaoh** | The ruling love of self (the self) that enslaves the mind |
+| **Pharaoh** | Memory-knowledge separated from and opposed to the truths of the church — falsity — that strives to subjugate them (*AC* §§6651, 6666) |
 | **The Israelites** | The spiritual truths and affections within the person, held in bondage |
 | **Moses** | The divine law (truth) that confronts the self and demands release |
 | **The plagues** | The progressive dismantling of the self's resistance — each plague = one defense broken |

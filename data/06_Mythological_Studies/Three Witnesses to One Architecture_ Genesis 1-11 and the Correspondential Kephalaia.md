@@ -311,7 +311,7 @@ The progression is identical to the four rivers: one source, four states proceed
 
 But the Kephalaia goes further — it presents the bilateral counterpart that Genesis does not elaborate. Where Genesis simply names four rivers, Chapter 4 also presents the four states of obscurity:
 
-> "The first state of obscurity is the realm of falsity from evil... The second state of obscurity is the proprium, the fashioner of dead forms... The thir[d state of obscurity is the five] corporeal realms dominated by natural evil... The fourth state of obscurity is the ruling principle of evil in the natural mind." (¶8–14)
+> "The first state of obscurity is the realm of falsity from evil... The second state of obscurity is the self, the fashioner of dead forms... The thir[d state of obscurity is the five] corporeal realms dominated by natural evil... The fourth state of obscurity is the ruling principle of evil in the natural mind." (¶8–14)
 
 The four rivers have their dark counterpart — four degrees of spiritual obscurity proceeding from one another just as the four illuminations do. Genesis does not narrate this dark side in the garden account; it reserves it for the serpent's speech in Chapter 3. But the Kephalaia presents both dimensions simultaneously as part of the same teaching structure.
 
@@ -451,7 +451,7 @@ The chapter then traces the specific corruption that each faculty generates when
 
 > "The corruption that love turned to self-love disgorges and deposits in the natural mind is the profaned life-force of perverted vitality. The emanation of that perverted vitality is the burning of wrath. The emanation of wrath is the disordered flowing states of the unregenerate mind." (¶3)
 
-> "The corruption that wisdom in its fallen state disgorges is the selfhood — the proprium. The emanation of the proprium is spiritual obscurity and darkness of understanding. [The] emanation of that spiritual obscurity is hardened resistance against all divine influx — obstinacy of will." (¶5)
+> "The corruption that wisdom in its fallen state disgorges is the selfhood. The emanation of the self is spiritual obscurity and darkness of understanding. [The] emanation of that spiritual obscurity is hardened resistance against all divine influx — obstinacy of will." (¶5)
 
 Four faculties, each generating three emanations of corruption — twelve corruptions in total. The Genesis curses compress this twelve-fold system into four narrative images: the serpent (corrupted perception), the pain of women (corrupted love), the toil of men (corrupted wisdom/truth), and death (corrupted will). The Kephalaia unfolds the mechanics; Genesis narrates the images. The content is the same.
 
@@ -469,7 +469,7 @@ The Kephalaia substrate provides the mechanism for both movements.
 
 Swedenborg reads Cain as faith separated from love, and Abel as charity (*AC* §§340–342, 367). The murder is not an event on the natural plane but a spiritual catastrophe: the moment when the post-fall human church decided to make faith (intellectual understanding of truth) the primary principle and subordinated love to it. This separation is the spiritual "mark of Cain" — the condition of a church that possesses truth without the love that gives truth its life.
 
-Chapter 100, "The Dragon of the Proprium" (in Gardner, "Concerning the Dragon with Fourteen Heads"), provides the anatomical portrait of how this separation operates within the individual:
+Chapter 100, "The Dragon of the Self" (in Gardner, "Concerning the Dragon with Fourteen Heads"), provides the anatomical portrait of how this separation operates within the individual:
 
 > "There exists a ruling falsity of the selfhood possessing fourteen powers of dominion, and it is gathered inward and [ … ] concealed within a hidden interior state furnished with five containing forms in the natural mind where it takes refuge." (¶1)
 

@@ -4,7 +4,7 @@
 
 ---
 
-> **Abstract.** This thesis presents a complete correspondential reading of the Song of Solomon — every verse analyzed, every image decoded, every passage classified as continuous Ancient Word narrative, compiled correspondential catalogue, court poetry, or editorial bridge. The central finding is that the Song, when stripped of its compiler's additions, preserves seven passages of unbroken correspondential narrative that describe a single regeneration cycle: from the end of vastation through seeking in darkness, conjunction in the sealed garden, the withdrawal that deepens longing, the inspection of spiritual growth, the completion of conjunction, and the permanent sealing of divine love. These seven passages — 32 of the Song's 117 verses — constitute Ancient Word material, written in the intimate register of the Bronze Church (perception through good). The remaining 85 verses are the compiler's contribution: three body-description catalogues that display correspondential vocabulary without connecting it into narrative, fragments of court poetry from a Solomonic literary milieu, and editorial bridges that stitch the compilation together. The compiled material is not without value — the catalogues reveal that the compiler possessed a genuine correspondential lexicon, drawing on symbolic vocabulary whose meanings he could list but whose grammar he could no longer speak. The thesis further demonstrates that Swedenborg's much-misunderstood judgment — that the Song "does not possess a continuous internal sense" — is not a dismissal but a precise diagnosis, confirmed by the analysis, and that it provides the key that four centuries of competing interpretive schools have been unable to find. The Song of Solomon is a garden enclosed: the Ancient Word sealed within a compiler's text, waiting for the correspondential key to open it.
+> **Abstract.** This thesis presents a complete correspondential reading of the Song of Solomon — every verse analyzed, every image decoded, every passage classified as continuous Ancient Word narrative, compiled correspondential catalogue, court poetry, or editorial bridge. The central finding is that the Song, when stripped of its compiler's additions, preserves seven passages of unbroken correspondential narrative that describe a single regeneration cycle: from the end of vastation through seeking in darkness, conjunction in the sealed garden, the withdrawal that deepens longing, the inspection of spiritual growth, the completion of conjunction, and the permanent sealing of divine love. These seven passages — 32 of the Song's 117 verses — constitute Ancient Word material, written in the intimate register of the Bronze Church (perception through good). The remaining 85 verses are the compiler's contribution: three body-description catalogues that display correspondential vocabulary without connecting it into narrative, fragments of court poetry from a Solomonic literary milieu, and editorial bridges that stitch the compilation together. The compiled material is not without value — the catalogues reveal that the compiler possessed a genuine correspondential lexicon, drawing on symbolic vocabulary whose meanings he could list but whose grammar he could no longer speak. The thesis further demonstrates that Swedenborg's much-misunderstood judgment — that the Song "has not the internal sense," because it "does not contain within it heavenly and Divine things in a series, as do the holy books" — is not a dismissal but a precise diagnosis, confirmed by the analysis, and that it provides the key that four centuries of competing interpretive schools have been unable to find. The Song of Solomon is a garden enclosed: the Ancient Word sealed within a compiler's text, waiting for the correspondential key to open it.
 
 > **Keywords.** Song of Solomon, Song of Songs, correspondences, Ancient Word, regeneration, compilation, Bronze Church, Swedenborg, canonical anomaly, correspondential vocabulary, spiritual reading, discrete degrees
 
@@ -126,7 +126,7 @@ The boundary between categories B and C is occasionally blurred — certain pass
 
 ## 3. Swedenborg's Diagnosis: What He Said and What He Did Not Say
 
-Emanuel Swedenborg's judgment on the Song of Solomon appears in two key passages of the *Arcana Coelestia*: §10325 and §3942. The diagnosis is precise, and its precision has been widely misunderstood — both by Swedenborgians who treat it as a blanket dismissal and by critics who never read past the headline.
+Emanuel Swedenborg's judgment on the Song of Solomon appears in the *Arcana Coelestia* at §3942, read against his list of the books of the Word at §10325 and two shorter remarks at §§1756 and 9942. The diagnosis is precise, and its precision has been widely misunderstood — both by Swedenborgians who treat it as a blanket dismissal and by critics who never read past the headline.
 
 ### 3.1 The Explicit Judgment
 
@@ -136,29 +136,23 @@ This is the judgment that later Swedenborgian tradition condensed into the formu
 
 ### 3.2 What the Diagnosis Does Not Say
 
-Swedenborg does not say the Song of Solomon contains no spiritual content. He does not say its language is empty of correspondential meaning. He does not say its imagery is secular love poetry with no connection to spiritual realities. What he says is that the Song *as a whole composition* does not sustain a continuous internal sense — that the composition, taken beginning to end, does not narrate a spiritual biography in the way that the internal sense of Genesis narrates creation, fall, and regeneration across its continuous chapters.
+Swedenborg does not say the Song of Solomon contains no spiritual content. He does not say its language is empty of correspondential meaning. He does not say its imagery is secular love poetry with no connection to spiritual realities. What he says is that the book "does not contain within it heavenly and Divine things in a series, as do the holy books" (*AC* §9942:5) — that the Song *as a whole composition* does not sustain a continuous internal sense, that the composition, taken beginning to end, does not narrate a spiritual biography in the way that the internal sense of Genesis narrates creation, fall, and regeneration across its continuous chapters.
 
 The difference between "this text has no continuous internal sense as a whole" and "this text has no spiritual content at all" is the difference between saying "this building has no structural integrity" and "these bricks are made of mud." The bricks may be excellent. The building may not stand. The Song's individual correspondences may be genuine — and Swedenborg's own practice confirms that they are — while the overall composition fails to sustain the causal narrative that constitutes continuous internal sense.
 
 ### 3.3 Swedenborg's Own Practice
 
-The evidence that Swedenborg recognized genuine correspondential content within the Song is found throughout his own writings. In the *Arcana Coelestia*, he repeatedly cites Song of Solomon verses when illustrating specific correspondences:
+The evidence that Swedenborg recognized genuine correspondential content within the Song is in the one passage of the *Arcana Coelestia* that quotes it. Explaining the dudaim that Reuben found in the field (Gen 30:14), he establishes their meaning from the Song itself — "there I will give thee my loves [dudim]; the dudaim have given forth a scent" (Song 7:12–13) — and reads the dudaim as "the things that belong to conjugial love" (*AC* §3942). The verses he quotes belong to the fifth of the Ancient Word passages below (§4.5). He then characterizes the book as a whole: it "was written in the ancient style, and is full of significatives collected from the books of the ancient church, and of many things which in the ancient church signified celestial and spiritual love, and especially conjugial love"; and "as within it there have been collected together such things as are significative of celestial and of conjugial love, it appears as if it possessed a certain mystic meaning" (*AC* §3942:2). Elsewhere he places it beside Job among the books written in the ancient style: "Such is the book of Job; and, in imitation of those books, such is Solomon's Song of Songs" (*AC* §1756:2); "In imitation of these books, because derived from them, the Song of Songs was written by Solomon" (*AC* §9942:5).
 
-- **"A garden enclosed"** (4:12) appears in discussions of the interior rational mind as a cultivated space receiving influx (*AC* §§1588, 3220)
-- **"Flowing streams from Lebanon"** (4:15) illustrates truths flowing from the celestial degree into the natural (*AC* §6435)
-- **"The voice of the turtledove"** (2:12) exemplifies the perception of good in the natural man (*AC* §3219)
-- **"Lilies"** and **"roses"** from the Song appear as correspondences for truths of the interior natural (*AC* §9553)
-- **"Myrrh and frankincense"** (4:6) illustrate the good of faith in the external and internal man (*AC* §10177)
-
-In each case, Swedenborg treats the correspondential image as genuine — as a real correspondence, grounded in function. He does not treat it as arbitrary metaphor or literary convention. He treats it exactly as he treats a correspondence found in Genesis or Isaiah: a natural image expressing a spiritual reality through organic, functional relationship.
+Swedenborg treats the Song's images as genuine — as significatives, grounded in what the ancient church knew of correspondence. He does not treat them as arbitrary metaphor or literary convention. He reads the dudaim exactly as he reads a correspondence found in Genesis or Isaiah: a natural image expressing a spiritual reality through organic, functional relationship.
 
 This practice reveals Swedenborg's actual position: the Song of Solomon contains genuine correspondential vocabulary inherited from the Ancient Word tradition. Its individual images are valid correspondences. What it does not possess is the architectural coherence — the continuous causal movement from state to state — that would make it, as a whole, part of the Word.
 
 ### 3.4 The Ancient Word Connection
 
-Swedenborg's writings on the Ancient Word provide the theoretical context for this judgment. In *Arcana Coelestia* §§2897, 3419, and 4279–80, he describes a pre-Mosaic scripture — the "Ancient Word" — that existed among the earliest post-diluvian people. This Word was written entirely in correspondences by perceivers who experienced spiritual realities directly and expressed them through the intimate, bodily register of the natural world. The Ancient Word was not an intellectual product but a perceptual record: its authors *saw* what they wrote, in the way that celestial angels see correspondences directly.
+Swedenborg's writings on the Ancient Word provide the theoretical context for this judgment. In *Arcana Coelestia* §§2896–2897 he describes a pre-Mosaic scripture — the "Ancient Word" — that existed in the Ancient Church after the flood. Its representatives and significatives came from the most ancient people before the flood, who "were in the perception of good and truth as the angels are," so that "all the things which they saw and apprehended by any of the senses were to them representative and significative of the celestial and spiritual things which are in the Lord's kingdom" (*AC* §2896). The man of the Ancient Church that wrote them down "knew but did not perceive what the representatives and significatives involved" (*AC* §2897). The Ancient Word was not, at its origin, an intellectual product but a perceptual record: those who first saw its images *saw* what they meant, in the way that the angels see correspondences directly.
 
-Swedenborg states that fragments of the Ancient Word survive in later texts. The opening chapters of Genesis are one such survival (*AC* §66). The book of Job is another possible repository. And the correspondential vocabulary that pervades the Song of Solomon — gardens, spices, fountains, vineyards, doves, mountains, cedars, flowing streams — is, on this reading, a third: fragments of a genuinely ancient correspondential language, preserved by transmission but no longer controlled by the perception that produced them.
+Swedenborg states that fragments of the Ancient Word survive in later texts. The opening chapters of Genesis are one such survival (*AC* §66). The book of Job is another: "a book of the ancient church" (*AC* §9942:5). And the correspondential vocabulary that pervades the Song of Solomon — gardens, spices, fountains, vineyards, doves, mountains, cedars, flowing streams — is, on this reading, a third: fragments of a genuinely ancient correspondential language, preserved by transmission but no longer controlled by the perception that produced them.
 
 The implication is clear. The Song's *compiler* — whoever assembled the text into its present form — had access to Ancient Word material. He recognized its beauty. He may even have recognized, dimly, its spiritual significance. But he no longer possessed the perceptual capacity that produced it. He could collect the words but not regenerate the grammar. He could display the vocabulary but not compose the sentences. The result is the Song of Solomon: a text with genuine Ancient Word fragments embedded in a compiled literary matrix.
 
@@ -168,7 +162,7 @@ Swedenborg's judgment, properly understood, does not merely describe the Song's 
 
 This is exactly what the stripping analysis reveals. Of the Song's 117 verses, 32 form seven passages of continuous correspondential narrative — passages in which spiritual states unfold in causal sequence, in which rearrangement destroys the spiritual sense, in which the three-fold correspondential test is satisfied throughout. The remaining 85 verses consist of catalogued correspondences without movement, court poetry celebrating Solomon and his bride, editorial bridges managing transitions between fragments, and independent sayings with no narrative context.
 
-Swedenborg's 1763 diagnosis predicted a textual structure that could not be verified until the tools of correspondential analysis were systematically applied to the Song 260 years later. The prediction is confirmed.
+Swedenborg's diagnosis in the *Arcana Coelestia* (1749–1756) predicted a textual structure that could not be verified until the tools of correspondential analysis were systematically applied to the Song some 270 years later. The prediction is confirmed.
 
 ---
 
@@ -181,7 +175,7 @@ The seven passages are presented in their biblical order, which is also their sp
 ### 4.1 First Awakening: The End of Vastation (2:10–15)
 
 > Rise up, my love, my fair one, and come away.
-> For the winter is past, the rain is over and gone;
+> For, lo, the winter is past, the rain is over and gone;
 > the flowers appear on the earth;
 > the time of the singing of birds is come,
 > and the voice of the turtle is heard in our land;
@@ -243,7 +237,7 @@ The little foxes that spoil the vines are sensual falsities — the lowest, most
 
 **Spiritual reading.** The second state reverses the direction of the first. In State 1, the beloved called and the soul listened. In State 2, the soul actively seeks. It seeks on the bed by night — in the will's own darkness, without illumination from the understanding. The bed is the will in its resting state; night is spiritual obscurity; the combination describes a soul moved by love but lacking truth. This is why seeking fails: the will alone, without the understanding's light, cannot find what it loves.
 
-The soul rises and searches through the doctrinal structures of the natural man — the city, the streets, the broad ways. These are the external church's apparatus: organized truths, systematic theology, congregational life. The watchmen who patrol the city are truths of doctrine in their protective function — they guard the structures but cannot themselves provide conjunction. The soul asks the watchmen, "Have you seen him whom my soul loves?" — the poignant question of a soul that has outgrown doctrinal instruction but does not yet know what comes next.
+The soul rises and searches through the doctrinal structures of the natural man — the city, the streets, the broad ways. These are the external church's apparatus: organized truths, systematic theology, congregational life. The watchmen who patrol the city are truths of doctrine in their protective function — they guard the structures but cannot themselves provide conjunction. The soul asks the watchmen, "Saw ye him whom my soul loveth?" — the poignant question of a soul that has outgrown doctrinal instruction but does not yet know what comes next.
 
 The finding is abrupt: "It was but a little that I passed from them, but I found him." Beyond doctrine, just past the watchmen, the Lord is present. The finding is not through intellectual effort but through love's own persistence. And the soul does not merely find — it *holds*: "I held him, and would not let him go." This is not casual contact but desperate conjunction, the grip of a soul that has searched in darkness and will not release what it has found.
 
@@ -266,7 +260,7 @@ The adjuration to the daughters of Jerusalem (affections of the external church)
 
 ### 4.3 The Sealed Garden Opened (4:12, 15–16; 5:1)
 
-> A garden enclosed is my sister, my spouse;
+> A garden inclosed is my sister, my spouse;
 > a spring shut up, a fountain sealed.
 >
 > A fountain of gardens, a well of living waters,
@@ -387,7 +381,7 @@ The soul and the Lord now survey together what has been cultivated. The field is
 
 The inspection is specific. Has the vine flourished? — truth growing into good. Has the tender grape appeared? — spiritual good forming from truth. Have the pomegranates budded forth? — the goods of the church assembling, the collected fruits of regeneration beginning to ripen. The soul is not asking abstract questions. It is walking through its own interior landscape with the Lord, checking what has grown.
 
-The mandrakes give their smell — conjugial love manifests in the natural degree. At the gates — the places where goods enter the soul from without and flow outward from within — all manner of pleasant fruits are present: new goods from regeneration and old goods (hereditary good reformed and purified) alike. The soul presents these to the Lord: "I have laid them up for thee, O my beloved." The goods are not claimed as the soul's own possession. They are presented.
+The mandrakes give their smell — conjugial love manifests in the natural degree. At the gates — the places where goods enter the soul from without and flow outward from within — all manner of pleasant fruits are present: new goods from regeneration and old goods (hereditary good reformed and purified) alike. The soul presents these to the Lord: "which I have laid up for thee, O my beloved." The goods are not claimed as the soul's own possession. They are presented.
 
 **Correspondential key:**
 
@@ -427,7 +421,7 @@ The wish — "O that thou wert as my brother" — is the soul's desire for the L
 
 The mother's house returns: the church, the source of spiritual generation. But now it is a place of instruction — "who would instruct me" — not merely a destination for captured treasure. The soul offers the Lord what it has cultivated: spiced wine (truth of doctrine enriched with the good of life) and the juice of its pomegranate (the specific goods produced by this soul's church, offered back to their source). What was received in State 3 is now returned, transformed by cultivation.
 
-The left hand under the head is good supporting the understanding — the will sustaining the intellect. The right hand embracing is truth encompassing the will — truth that holds the will in its rightful orientation. The complete integration of divine good and truth with the human faculties of will and understanding is described in a single image of bodily rest.
+The left hand under the head is truth supporting the understanding — the truths through which good comes. The right hand embracing is good encompassing the whole — the good from which truths proceed (*AC* §10061). The complete integration of divine good and truth with the human faculties of will and understanding is described in a single image of bodily rest.
 
 The adjuration closes the cycle for the third and final time: do not force what must arise from love's own timing.
 
@@ -440,8 +434,8 @@ The adjuration closes the cycle for the third and final time: do not force what 
 | Mother's house | The church as place of instruction |
 | Spiced wine | Truth of doctrine enriched with good |
 | Juice of pomegranate | Goods produced by the church, offered back |
-| Left hand under head | Good supporting the understanding |
-| Right hand embracing | Truth encompassing the will |
+| Left hand under head | Truth supporting the understanding |
+| Right hand embracing | Good encompassing the whole |
 
 ### 4.7 The Seal and the Flame (8:6–7)
 
@@ -496,7 +490,7 @@ The 85 verses that do not form part of the seven Ancient Word passages are not w
 
 The three body-description catalogues are the most revealing material in the Song for understanding the compiler's position. Each catalogue lists body parts from head to foot (4:1–11 and 5:10–16) or foot to head (7:1–9a), assigning to each a natural comparison. The comparisons are extraordinarily specific: eyes compared to doves, hair to a flock of goats descending from Gilead, teeth to shorn sheep coming up from the washing, temples to a piece of pomegranate, neck to the tower of David hung with shields, breasts to twin fawns of a gazelle feeding among lilies.
 
-These comparisons make no aesthetic sense. No poet writing love poetry would compare a woman's hair to goats descending a mountain, her teeth to newly shorn sheep, or her neck to a military tower hung with shields. The images are neither flattering nor erotic nor beautiful in any conventional literary sense. Attempts to explain them as "ancient Near Eastern beauty standards" or "pastoral charm" are strained — they are strained because the images were never meant as aesthetic description. They are correspondential vocabulary.
+These comparisons make no aesthetic sense. No poet writing love poetry would compare a woman's hair to goats descending a mountain, her teeth to newly shorn sheep, or her neck to a military tower hung with shields. The images are neither flattering nor erotic nor beautiful in any conventional literary sense. Attempts to explain them as ancient Near Eastern beauty standards or as pastoral charm are strained — they are strained because the images were never meant as aesthetic description. They are correspondential vocabulary.
 
 Consider each major item in the first catalogue (4:1–11) as correspondence:
 
@@ -534,7 +528,7 @@ The court material introduces a register entirely foreign to the Ancient Word pa
 
 This is royal processional poetry. The sixty warriors with swords, the military preparedness, the silver and gold construction, the public summons to the daughters of Zion — none of this connects to the intimate, interior register of the Ancient Word passages. The palanquin passage celebrates Solomon's political-religious significance. It may contain individual correspondential images (wood of Lebanon, pillars of silver, gold, purple), but the overall movement is public display, not spiritual narrative. The compiler included it because it mentioned Solomon and because it contained a nuptial reference; he did not recognize that its register was incompatible with the passages surrounding it.
 
-**Song 6:4–12** — The most disordered section in the Song. It opens with a comparison to Tirzah and Jerusalem (political capitals), declares the beloved "terrible as an army with banners" (military metaphor), recycles 4:1–2 almost verbatim (hair as goats, teeth as sheep), introduces Solomon's harem as context ("sixty queens, eighty concubines, virgins without number"), and collapses at verse 12 into a textual corruption so severe that no translator or commentator has produced a coherent reading. The section is a patchwork: political comparison, military imagery, recycled catalogue material, harem context, and textual ruin. Nothing moves. The compiler assembled fragments from multiple sources and could not make them cohere.
+**Song 6:4–12** — The most disordered section in the Song. It opens with a comparison to Tirzah and Jerusalem (political capitals), declares the beloved "terrible as an army with banners" (military metaphor), recycles 4:1–2 almost verbatim (hair as goats, teeth as sheep), introduces Solomon's harem as context ("threescore queens, and fourscore concubines, and virgins without number"), and collapses at verse 12 into a textual crux on which translators and commentators have reached no agreed reading. The section is a patchwork: political comparison, military imagery, recycled catalogue material, harem context, and textual ruin. Nothing moves. The compiler assembled fragments from multiple sources and could not make them cohere.
 
 The court material's primary function in the Song is to give the text a Solomonic framing. By inserting royal processional poetry and harem references, the compiler anchored the text in a specific historical-literary context — the court of Solomon — that his audience would recognize as prestigious and authoritative. This framing has nothing to do with the spiritual content of the Ancient Word passages. It is literary packaging.
 
@@ -558,7 +552,7 @@ But the sequence does not sustain. By 1:5, the speaker has shifted to a court se
 
 **The vineyard saying (8:11–12).** "Solomon had a vineyard at Baal-hamon; he let out the vineyard unto keepers; every one for the fruit thereof was to bring a thousand pieces of silver. My vineyard, which is mine, is before me: thou, O Solomon, must have a thousand, and those that keep the fruit thereof two hundred." This is a self-contained wisdom parable about the institutional versus the interior church: Solomon's vineyard (the external church) is farmed out to hired keepers, while the speaker's vineyard (the interior church) is cultivated directly. It is a significant saying — possibly correspondential, possibly from the same tradition that produced the Ancient Word passages — but it is disconnected from the surrounding text and cannot be integrated into the seven-state narrative.
 
-**The conventional closing (8:13–14).** The Song ends with a brief dialogue: "Thou that dwellest in the gardens, the companions hearken to thy voice: cause me to hear it. Make haste, my beloved, and be thou like to a roe or a young hart upon the mountains of spices." This is a conventional literary close — a final wish, a call for haste, an echo of earlier imagery. It has no narrative movement and adds nothing to the spiritual architecture. The compiler needed an ending; this is what he supplied.
+**The conventional closing (8:13–14).** The Song ends with a brief dialogue: "Thou that dwellest in the gardens, the companions hearken to thy voice: cause me to hear it. Make haste, my beloved, and be thou like to a roe or to a young hart upon the mountains of spices." This is a conventional literary close — a final wish, a call for haste, an echo of earlier imagery. It has no narrative movement and adds nothing to the spiritual architecture. The compiler needed an ending; this is what he supplied.
 
 ---
 
@@ -591,7 +585,7 @@ When the three catalogues are assembled together, they cover the entire human fo
 
 This is not a poet's decorative vocabulary. It is a systematic correspondence map of the human form. The coverage is comprehensive — from the head (celestial good) to the feet (the natural degree), from the hair (outermost natural) to the belly (innermost will). Every major anatomical feature receives a correspondential assignment. The system has internal consistency: features associated with the head correspond to the highest spiritual faculties; features associated with the extremities correspond to the most external and ultimate; features associated with the torso correspond to the will and its interiors.
 
-This system closely parallels the "365 angels" body-correspondence passage in the *Apocryphon of John* (NHL II,1), where each body part is assigned to a specific archon or power — a correspondential map of the human form expressing the same principle: the body IS the spiritual reality in its ultimate, most external form. The Nag Hammadi text and the Song's catalogues are independent witnesses to the same correspondential tradition: the doctrine of the Divine Human, in which the human form is the form of heaven and each organ corresponds to a function of the Grand Man.
+This system closely parallels the "365 angels" body-correspondence passage in the *Apocryphon of John* (NHL II,1; *The Unnamed Cartography*), where each body part is assigned to a specific archon or power — a correspondential map of the human form expressing the same principle: the body IS the spiritual reality in its ultimate, most external form. The Nag Hammadi text and the Song's catalogues are independent witnesses to the same correspondential tradition: the doctrine of the Divine Human, in which the human form is the form of heaven and each organ corresponds to a function of the Grand Man.
 
 ### 6.2 Vocabulary Without Grammar
 
@@ -599,7 +593,7 @@ The catalogues demonstrate that the compiler possessed this vocabulary in its en
 
 But knowing the vocabulary is not the same as knowing the grammar. The grammar of correspondential narrative is causal sequence: states producing states, each spiritual condition flowing necessarily into the next. The seven Ancient Word passages speak this grammar — vastation produces awakening, which produces seeking, which produces conjunction, which produces withdrawal, which produces deepened longing, which produces permanent sealing. Each state is causally necessary to the next; removing or rearranging any one destroys the logic.
 
-The catalogues speak the vocabulary without the grammar. "Eyes as doves, hair as goats, teeth as shorn sheep, lips as scarlet, neck as a tower" — these are correspondences listed, not correspondences narrated. The sequence is anatomical (head to foot), not spiritual (state to state). Rearranging the items changes nothing about the spiritual content: listing the breasts before the eyes, or the neck before the teeth, neither adds nor subtracts meaning. This is the test of display versus narrative, and the catalogues fail it definitively.
+The catalogues speak the vocabulary without the grammar. Eyes as doves, hair as goats, teeth as shorn sheep, lips as scarlet, neck as a tower — these are correspondences listed, not correspondences narrated. The sequence is anatomical (head to foot), not spiritual (state to state). Rearranging the items changes nothing about the spiritual content: listing the breasts before the eyes, or the neck before the teeth, neither adds nor subtracts meaning. This is the test of display versus narrative, and the catalogues fail it definitively.
 
 What this tells us about the compiler is precise: he was a *keeper* of correspondential knowledge, not a *perceiver* of correspondential reality. He possessed the tradition's vocabulary through transmission — through written or oral inheritance — but he did not possess the perception that generated the vocabulary. The original perceivers saw that eyes and doves shared the same spiritual function; the compiler *knew* that they were paired. The difference between seeing a correspondence and knowing it had been stated is the difference between the Ancient Word's authors and its compiler.
 
@@ -666,29 +660,29 @@ The Song of Solomon has generated more interpretive diversity than any other boo
 
 ### 8.1 The Rabbinic-Allegorical Tradition
 
-The earliest sustained interpretation of the Song comes from rabbinic Judaism. Rabbi Akiva (c. 50–135 CE) famously declared that "the whole world is not worth the day on which the Song of Songs was given to Israel. For all the Writings are holy, but the Song of Songs is the holy of holies" (*Mishnah Yadayim* 3:5). For Akiva, the Song narrated the love between God and Israel — a corporate, covenantal allegory in which the beloved is God and the bride is the nation.
+The earliest sustained interpretation of the Song comes from rabbinic Judaism. Rabbi Akiva (c. 50–135 CE) famously declared that "all the ages are not worth the day on which the Song of Songs was given to Israel; for all the Writings are holy, but the Song of Songs is the Holy of Holies" (*m. Yadayim* 3:5; Danby 1933). For Akiva, the Song narrated the love between God and Israel — a corporate, covenantal allegory in which the beloved is God and the bride is the nation.
 
-Rabbinic tradition read the Song's episodes as historical allegory: the Exodus, the giving of Torah at Sinai, the wilderness wandering, the building of the Temple, the exile and eventual restoration. The *Targum* to the Song (dated variously to the 7th–9th centuries CE but reflecting earlier traditions) provides an elaborate historical-allegorical commentary: the opening verses refer to the Exodus; the sealed garden is the tent of meeting; the watchmen are the prophets; the vineyard is the nation of Israel.
+Rabbinic tradition read the Song's episodes as historical allegory: the Exodus, the giving of Torah at Sinai, the wilderness wandering, the building of the Temple, the exile and eventual restoration. The *Targum* to the Song (dated variously to the 7th–9th centuries CE but reflecting earlier traditions) provides an elaborate historical-allegorical commentary: the winter that is past is the slavery in Egypt (*Tg. Song* 2:11); the garden inclosed is Israel's chaste wives, likened to the Garden of Eden that none but the righteous may enter (*Tg. Song* 4:12); the watchmen are Moses, Aaron and the Levites who keep watch around the Tent of Meeting (*Tg. Song* 3:3); the vineyard is the people of Israel (*Tg. Song* 8:11).
 
 **What this tradition grasps correctly:** The Song has an interior meaning that is not reducible to its literal surface. The relationship described is between the divine and the human. The imagery is not secular erotic poetry. These are all true.
 
-**Where this tradition fails:** Allegory is arbitrary. There is no functional relationship between the imagery and the historical events it is said to represent. Why should "the winter is past" mean "the Exodus happened"? Why should "the sealed garden" mean "the tent of meeting"? The connections depend on the interpreter's associative facility, not on the intrinsic nature of the images. Different rabbis produced different allegorical mappings, and no criterion existed for choosing between them. Allegory requires a codebook; correspondence is grounded in the function of the natural object itself. The rabbinic tradition sensed the interior meaning but could not read it, because it lacked the key: the doctrine of correspondences.
+**Where this tradition fails:** Allegory is arbitrary. There is no functional relationship between the imagery and the historical events it is said to represent. Why should "the winter is past" mean the end of slavery in Egypt? Why should "a garden inclosed" mean Israel's chaste wives? The connections depend on the interpreter's associative facility, not on the intrinsic nature of the images. Different rabbis produced different allegorical mappings, and no criterion existed for choosing between them. Allegory requires a codebook; correspondence is grounded in the function of the natural object itself. The rabbinic tradition sensed the interior meaning but could not read it, because it lacked the key: the doctrine of correspondences.
 
 ### 8.2 The Christian-Typological Tradition
 
 The Church Fathers adopted and transformed the rabbinic reading. Origen of Alexandria (c. 185–254 CE) produced the first systematic Christian commentary on the Song, reading it as the love between Christ and the Church — or, in his more developed reading, between the Divine Word and the individual soul. Origen's commentary is remarkable for its spiritual depth: he recognized that the Song described stages of the soul's ascent toward God, that the imagery expressed interior states, and that the narrative was sequential — earlier passages described earlier stages of the spiritual life.
 
-Bernard of Clairvaux (1090–1153) produced eighty-six sermons on the Song, making it the central text of medieval mystical theology. Bernard read the kiss (1:2) as the soul's reception of the Holy Spirit, the sealed garden as the contemplative life, and the wound of 5:2–8 as the *vulneratio amoris* — the wound of divine love that transforms. His reading of the withdrawal motif was especially perceptive: he recognized that the Lord's departure after conjunction was spiritually purposeful, not accidental.
+Bernard of Clairvaux (1090–1153) produced eighty-six sermons on the Song, making it the central text of medieval mystical theology; they reach only the opening of its third chapter (3:1). Bernard read the kiss (1:2) as the Holy Spirit (Sermon 8), and on "Return, my beloved" (2:17) he described how the Bridegroom comes to the soul and goes from it (Sermon 74). His reading of the withdrawal motif was especially perceptive: he recognized that the Bridegroom's absence after his presence was spiritually purposeful, not accidental — he delays "in order that her desire may increase" (Sermon 86, on 3:1; Bernard 1920).
 
 **What this tradition grasps correctly:** The Song describes the soul's relationship with the Divine. The narrative is sequential — stages proceed in order. The withdrawal (State 4) is spiritually meaningful. The intimacy is real, not allegorical shorthand for political covenant. The Christian mystical tradition came closer than any other pre-Swedenborgian school to reading correspondential narrative.
 
-**Where this tradition fails:** Like the rabbinic tradition, the Christian reading ultimately depends on typological assignment rather than functional correspondence. Christ is "the bridegroom" because theology declares it, not because the text's imagery functionally generates the identification. The soul is "the bride" by doctrinal designation, not by correspondential necessity. When the text says "thy hair is as a flock of goats from Gilead," the typological tradition has nothing to say — it cannot connect the specific image to a specific spiritual reality. It can read the broad narrative (soul seeks God, finds, loses, seeks again) but not the detailed imagery. The correspondences are invisible to it.
+**Where this tradition fails:** Like the rabbinic tradition, the Christian reading ultimately depends on typological assignment rather than functional correspondence. Christ is "the bridegroom" because theology declares it, not because the text's imagery functionally generates the identification. The soul is "the bride" by doctrinal designation, not by correspondential necessity. When the text says "thy hair is as a flock of goats, that appear from mount Gilead," the typological tradition has nothing to say — it cannot connect the specific image to a specific spiritual reality. It can read the broad narrative (soul seeks God, finds, loses, seeks again) but not the detailed imagery. The correspondences are invisible to it.
 
 ### 8.3 The Modern Literal-Erotic Reading
 
-The Enlightenment produced a radical break. Historical-critical scholarship rejected the allegorical tradition entirely and read the Song as what its surface appeared to be: ancient Near Eastern love poetry. J.G. Herder (1778) first proposed that the Song was simply a collection of love songs, and this reading became dominant in 19th- and 20th-century scholarship. The Song celebrates human sexual love. Its imagery is erotic. Its purpose is aesthetic.
+The Enlightenment produced a radical break. Historical-critical scholarship rejected the allegorical tradition entirely and read the Song as what its surface appeared to be: ancient Near Eastern love poetry. J. G. Herder first proposed that the Song was simply a collection of love songs (Herder 1778), and this reading became dominant in 19th- and 20th-century scholarship. The Song celebrates human sexual love. Its imagery is erotic. Its purpose is aesthetic.
 
-More recent scholarship has refined this reading. Marvin Pope's *Anchor Bible Commentary* (1977) provided an exhaustive comparison of the Song's imagery with Mesopotamian, Egyptian, and Ugaritic love poetry, arguing that the Song belongs to a pan-Near Eastern tradition of erotic verse. Ariel and Chana Bloch's translation (1995) presented the Song as a masterpiece of love poetry, its imagery vivid and sensual and requiring no allegorical superstructure.
+More recent scholarship has refined this reading. Marvin Pope's *Anchor Bible Commentary* (1977) provided an exhaustive comparison of the Song's imagery with Mesopotamian, Egyptian, and Ugaritic love poetry, arguing that the Song belongs to a pan-Near Eastern tradition of erotic verse (Pope 1977). Ariel and Chana Bloch's translation presented the Song as a masterpiece of love poetry, its imagery vivid and sensual and requiring no allegorical superstructure (Bloch and Bloch 1995).
 
 **What this tradition grasps correctly:** The literal surface of the Song is genuinely intimate. The imagery describes bodies, desire, longing, and union in language that is physically specific. The text is not a coded message in which "kiss" secretly means "prayer" and "garden" secretly means "temple." The correspondential reading agrees with this entirely: correspondence is not allegory. The natural sense is real. The garden IS a garden, perceived at the natural degree. It is *also* the interior mind, perceived at the spiritual degree. The literal reading is correct about the natural sense; it simply does not see the spiritual sense that the natural sense expresses.
 
@@ -696,9 +690,9 @@ More recent scholarship has refined this reading. Marvin Pope's *Anchor Bible Co
 
 ### 8.4 The Cultic and Dramatic Hypotheses
 
-Two additional approaches deserve mention. T.J. Meek (1924) and S.N. Kramer (1969) proposed that the Song preserves fragments of a Mesopotamian sacred marriage liturgy — the *hieros gamos* between Tammuz/Dumuzi and Ishtar/Inanna. On this reading, the Song's imagery derives from the cultic enactment of the divine marriage, and its seasonal references (winter past, spring arrived, garden opened) reflect the agricultural cycle associated with the Tammuz cult.
+Two additional approaches deserve mention. T. J. Meek and S. N. Kramer proposed that the Song preserves fragments of a Mesopotamian sacred marriage liturgy — the *hieros gamos* between Tammuz/Dumuzi and Ishtar/Inanna. On this reading, the Song's imagery derives from the cultic enactment of the divine marriage, and its seasonal references (winter past, spring arrived, garden opened) reflect the agricultural cycle associated with the Tammuz cult (Meek 1922; Kramer 1969).
 
-Separately, J.G. Ewald (1826) and others proposed a dramatic reading: the Song is a play with three characters (Solomon, the Shulamite, and a shepherd lover), in which the girl's loyalty to the shepherd lover resists Solomon's advances. This reading attempts to explain the Song's alternation between male and female voices and its dramatic reversals.
+Separately, Heinrich Ewald and others proposed a dramatic reading: the Song is a play with three characters (Solomon, the Shulamite, and a shepherd lover), in which the girl's loyalty to the shepherd lover resists Solomon's advances. This reading attempts to explain the Song's alternation between male and female voices and its dramatic reversals (Ewald 1826).
 
 **What these traditions grasp correctly:** The cultic hypothesis correctly recognizes that the Song's imagery has ancient Near Eastern precedent and that its seasonal references connect to deeper patterns of death and rebirth. The dramatic hypothesis correctly senses that the Song contains a narrative arc with dramatic shifts. Both see something real.
 
@@ -715,7 +709,7 @@ The interpretive history of the Song of Solomon is a history of partial grasping
 | Modern literal-erotic | The surface is genuinely intimate; the natural sense is real | The spiritual sense; the anomalous imagery; the compiled structure |
 | Cultic/dramatic | Ancient Near Eastern precedent; narrative arc with dramatic shifts | The linear (not cyclical) trajectory; the non-dramatic compiled material |
 
-Every school fails at the same point: the specific imagery. No school can explain why hair is compared to goats, teeth to shorn sheep, eyes to doves by rivers, the neck to a military tower. The allegorical tradition assigns arbitrary meanings. The typological tradition ignores the details. The literal tradition calls them "pastoral charm." The cultic tradition cites parallels without explaining function.
+Every school fails at the same point: the specific imagery. No school can explain why hair is compared to goats, teeth to shorn sheep, eyes to doves by rivers, the neck to a military tower. The allegorical tradition assigns arbitrary meanings. The typological tradition ignores the details. The literal tradition reads them as pastoral charm. The cultic tradition cites parallels without explaining function.
 
 The correspondential reading succeeds precisely where every other tradition fails — at the level of specific imagery. It explains *why* eyes are doves (same spiritual function: sight from good), *why* teeth are shorn sheep (same spiritual function: truths of the natural man, purified and ordered), *why* the neck is a tower (same spiritual function: the connection between interior and exterior, fortified). It explains these correspondences not by arbitrary assignment but by functional analysis: the natural object IS the spiritual reality in its outermost form. This is why the correspondential reading can do what no other reading can: it can read the body catalogues, it can distinguish continuous narrative from compiled display, and it can map the seven-state cycle as a causally necessary regeneration sequence.
 
@@ -741,7 +735,7 @@ The Song survived because the Ancient Word material within it is *alive* — it 
 
 The seven Ancient Word passages are written in what the companion thesis ("Two Registers of One Perception") calls the *Bronze Church register*: the register of will-centered perception. The Bronze Church, in the Swedenborgian framework, is the third of the Ancient Churches — later than the celestial Most Ancient Church and later than the spiritual Ancient Church, but still within the period when correspondence was perceived rather than merely known.
 
-The Bronze Church perceived spiritual realities through the will — through love, desire, longing, and bodily sensation. Unlike the celestial church, which perceived through direct influx into the understanding, and unlike the spiritual church, which perceived through doctrinal truth illuminated from within, the Bronze Church perceived through the body's affections. Its register is intimate, physical, and erotic — not because it was less spiritual than earlier registers but because it perceived spiritual realities through a different faculty.
+The Bronze Church perceived spiritual realities through the will — through love, desire, longing, and bodily sensation. Unlike the celestial church, in which the Lord sowed goods in the will itself so that from love it perceived truth (*AC* §895), and unlike the spiritual church, which perceived through doctrinal truth illuminated from within, the Bronze Church perceived through the body's affections. Its register is intimate, physical, and erotic — not because it was less spiritual than earlier registers but because it perceived spiritual realities through a different faculty.
 
 This explains the Song's distinctive voice. The Song of Solomon does not sound like Genesis or the Psalms or Isaiah — not because it is less spiritual but because it perceives spiritual realities through the body rather than through the intellect. When the Song describes the Lord entering the garden and eating honeycomb with honey and drinking wine with milk, it is describing conjunction at every degree — but describing it as the will *feels* it, not as the understanding *thinks* it. When the Song describes the soul being wounded by watchmen and lying sick of love, it is describing the alternation of states — but describing it as it is *suffered* in the will, not as it is *understood* in the intellect.
 
@@ -761,7 +755,7 @@ The compiler was, in this sense, both the Song's savior and its obscurer. Withou
 
 The Song of Solomon provides a specific kind of evidence for the Ancient Word hypothesis that other texts do not: evidence of the *transition* from perception to memory.
 
-The Ancient Word, as Swedenborg describes it, was written by perceivers — people who saw spiritual realities directly and expressed them through corresponding natural images. When the Ancient Church declined, perception was lost. What remained was knowledge — inherited vocabularies, transmitted systems of correspondence, traditional associations between natural objects and spiritual realities. The transition from perception to knowledge is the transition from the Ancient Word to its literary afterlife.
+The Ancient Word, as Swedenborg describes it, drew its images from perceivers — the most ancient people, who saw spiritual realities directly and expressed them through corresponding natural images (*AC* §2896). As that perception withdrew, what remained was knowledge: the man of the Ancient Church "knew but did not perceive what the representatives and significatives involved" (*AC* §2897) — inherited vocabularies, transmitted systems of correspondence, traditional associations between natural objects and spiritual realities. The transition from perception to knowledge is the transition from the Ancient Word to its literary afterlife.
 
 The Song captures this transition in a single text. The seven Ancient Word passages are products of perception: continuous correspondential narrative, states flowing in causal sequence, the three-fold test fully satisfied. The body catalogues are products of knowledge: valid correspondences arranged without narrative direction, the vocabulary preserved, the grammar lost. The compiler's editorial work is the product of neither perception nor knowledge but literary craft — the effort to make an impressive text from materials whose significance was dimly felt but no longer understood.
 
@@ -795,7 +789,7 @@ This thesis has demonstrated three findings.
 
 **Second:** The remaining 85 verses are the work of a compiler who possessed genuine correspondential vocabulary — a comprehensive body-correspondence system covering every major anatomical feature — but could not compose with it. The catalogues display valid correspondences without narrative movement. The court poetry introduces a foreign register. The editorial bridges manage transitions between fragments. The compiler preserved the Ancient Word fragments in the correct sequence but buried them in material that makes their narrative structure almost invisible.
 
-**Third:** Swedenborg's 1763 diagnosis — that the Song lacks continuous internal sense as a whole but contains correspondential imagery — predicted the Song's internal structure 260 years before the present analysis confirmed it. The Song lacks continuous internal sense as a whole because the compiler's additions interrupt the Ancient Word narrative. It contains correspondential imagery because the Ancient Word fragments and the correspondential body catalogues preserve genuine correspondences. The diagnosis is exact.
+**Third:** Swedenborg's diagnosis in the *Arcana Coelestia* — that the Song lacks continuous internal sense as a whole but contains correspondential imagery — predicted the Song's internal structure some 270 years before the present analysis confirmed it. The Song lacks continuous internal sense as a whole because the compiler's additions interrupt the Ancient Word narrative. It contains correspondential imagery because the Ancient Word fragments and the correspondential body catalogues preserve genuine correspondences. The diagnosis is exact.
 
 The four major interpretive traditions reviewed in §8 — rabbinic-allegorical, Christian-typological, modern literal-erotic, and cultic/dramatic — each grasped one dimension of the Song. The rabbis sensed the divine-human relationship. The Christian mystics perceived the sequential stages of spiritual ascent. The modern scholars correctly identified the intimacy of the natural sense. The cultic scholars recognized ancient Near Eastern precedent. None could read the specific imagery — why goats, why sheep, why doves, why towers — because none possessed the correspondential key. The key does not replace these readings. It completes them.
 
@@ -817,7 +811,7 @@ The following table classifies every verse of the Song of Solomon into one of th
 |---|---|---|
 | 1:1 | C | Superscription ("The Song of Songs, which is Solomon's") |
 | 1:2–3 | C | Threshold material; valid correspondences building toward Ancient Word register |
-| 1:4 | C | Court setting ("The king has brought me into his chambers") |
+| 1:4 | C | Court setting ("the king hath brought me into his chambers") |
 | 1:5–6 | C | Court apology ("I am black but comely"); social context |
 | 1:7–8 | C | Pastoral dialogue; feeding flocks at noon |
 | 1:9 | C | Foreign fragment ("horses in Pharaoh's chariots") |
@@ -847,7 +841,7 @@ The following table classifies every verse of the Song of Solomon into one of th
 | 6:4–7 | C | Court comparison (Tirzah, Jerusalem, army with banners) with recycled catalogue (4:1–2) |
 | 6:8–9 | C | Harem context (sixty queens, eighty concubines) |
 | 6:10 | C | Editorial ("Who is she that looketh forth as the morning...") |
-| 6:11–12 | C | Textual corruption (v. 12 universally recognized as unintelligible) |
+| 6:11–12 | C | Textual corruption (v. 12 a notorious crux) |
 | 6:13 | C | Shulamite dance reference; editorial |
 | 7:1–5 | B | Third body catalogue, feet to head (sandals, thigh jewels, goblet navel, wheat belly, fawn breasts, ivory neck, fishpool eyes, Lebanon nose, Carmel head) |
 | 7:6–9a | B | Continued catalogue with palm tree comparison |
@@ -866,15 +860,25 @@ The following table classifies every verse of the Song of Solomon into one of th
 
 ## 13. Works Cited
 
-- Bloch, Ariel, and Chana Bloch, trans. *The Song of Songs: A New Translation*. New York: Random House, 1995.
-- Budde, Karl. "Das Hohelied." In *Die fünf Megillot*, Kurzer Hand-Commentar zum Alten Testament. Freiburg: Mohr, 1898.
-- Ewald, Heinrich. *Das Hohelied Salomos*. Göttingen: Dieterich, 1826.
-- Herder, Johann Gottfried. *Lieder der Liebe: Die ältesten und schönsten aus dem Morgenlande*. Leipzig, 1778.
-- Kramer, Samuel Noah. *The Sacred Marriage Rite: Aspects of Faith, Myth, and Ritual in Ancient Sumer*. Bloomington: Indiana University Press, 1969.
-- Lombaard, Christo. "The Song in Song of Songs: A Theological Perspective." *Journal for Semitics* 20, no. 2 (2011): 518–29.
-- Meek, Theophile. "Canticles and the Tammuz Cult." *American Journal of Semitic Languages and Literatures* 39 (1922): 1–14.
-- Pope, Marvin. *Song of Songs: A New Translation with Introduction and Commentary*. Anchor Bible 7C. New York: Doubleday, 1977.
-- Robinson, James M., ed. *The Nag Hammadi Library in English*. 3rd rev. ed. San Francisco: HarperSanFrancisco, 1990.
-- Swedenborg, Emanuel. *Arcana Coelestia* [Heavenly Secrets]. 12 vols. 1749–1756. Standard Edition references by section number.
-- Swedenborg, Emanuel. *The Doctrine of the Sacred Scripture*. 1763. Standard Edition references by section number.
-- Swedenborg, Emanuel. *Divine Love and Wisdom*. 1763. Standard Edition references by section number.
+**Primary Sources:**
+
+1. Bernard of Clairvaux. *St. Bernard's Sermons on the Canticle of Canticles.* Translated from the original Latin by a priest of Mount Melleray. 2 vols. Dublin: Browne and Nolan, 1920. Cited by sermon number.
+2. *The Holy Bible, King James Version.* 1611. The Song of Solomon is quoted from this translation.
+3. *The Mishnah.* Translated by Herbert Danby. Oxford: Oxford University Press, 1933.
+4. Swedenborg, Emanuel. *Arcana Coelestia*. Translated by John Clowes, revised and edited by John Faulkner Potts. Standard Edition. 12 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+5. *The Aramaic Targum to Song of Songs.* Translated by Jay C. Treat. *Sefaria*. https://www.sefaria.org/Aramaic_Targum_to_Song_of_Songs. Cited as *Tg. Song* by chapter and verse.
+
+**Scholarly Works:**
+
+6. Bloch, Ariel, and Chana Bloch, trans. *The Song of Songs: A New Translation*. New York: Random House, 1995.
+7. Budde, Karl. "Das Hohelied." In *Die fünf Megillot*. Kurzer Hand-Commentar zum Alten Testament. Freiburg: Mohr, 1898.
+8. Ewald, Heinrich. *Das Hohelied Salomo's*. Göttingen, 1826.
+9. Herder, Johann Gottfried. *Lieder der Liebe: Die ältesten und schönsten aus dem Morgenlande*. Leipzig, 1778.
+10. Kramer, Samuel Noah. *The Sacred Marriage Rite: Aspects of Faith, Myth, and Ritual in Ancient Sumer*. Bloomington: Indiana University Press, 1969.
+11. Meek, Theophile James. "Canticles and the Tammuz Cult." *American Journal of Semitic Languages and Literatures* 39, no. 1 (1922): 1–14. https://doi.org/10.1086/369963.
+12. Pope, Marvin H. *Song of Songs: A New Translation with Introduction and Commentary*. Anchor Bible 7C. Garden City, NY: Doubleday, 1977.
+
+**Internal Library Documents:**
+
+13. [Two Registers of One Perception: The Song of Solomon and the Regenerative Substrate of the Kephalaia](../06_Mythological_Studies/Two%20Registers%20of%20One%20Perception_%20The%20Song%20of%20Solomon%20and%20the%20Regenerative%20Substrate%20of%20the%20Kephalaia.md). The companion thesis: the stripped Song compared with the Kephalaia substrate, and the Bronze and Silver Church registers this thesis builds on.
+14. [The Unnamed Cartography: A Systematic Validation of Swedenborgian Body-Part Correspondences Against the 365-Angel List of the Apocryphon of John](../08_Correspondential_Texts/The%20Unnamed%20Cartography_%20A%20Systematic%20Validation%20of%20Swedenborgian%20Body-Part%20Correspondences%20Against%20the%20365-Angel%20List%20of%20the%20Apocryphon%20of%20John.md). The Apocryphon's body-correspondence list, read from the Coptic, against which the Song's catalogues are compared in §6.1.

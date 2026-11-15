@@ -11,6 +11,12 @@ Each nightly run starts as a fresh session with no memory of the last one. This 
 
 **Replaced wholesale at the end of every run.** This block describes the present, not the history — history goes in the run log below. A run that leaves this stale has failed its successor.
 
+> **Standing rule from the author (2026-11-15), binding on every run**: the `data/` documents are AI-generated (Gemini
+> Deep Research and earlier sessions), **not the author's words**. A wrong correspondence, quotation or fact in them is an
+> error of record — correct it and report it as done. **Never ask the author whether a generated document's error "was meant
+> as their own reading"**, and never put a settled correction to them as a decision (procedure § 4.4). The 2026-11-15 run did
+> this with Pharaoh (*AC* §§6651, 6666) and the author rejected it outright.
+>
 > **Status** (2026-11-15, nightly): tonight's PR (branch `claude/nightly-audit-2026-11-15`, against `dev`) audits *The
 > Divine Bricolage: A Spiritual History of the Word* (`00_Framework`) and propagates into *The Children of the East* and *The
 > Downstream Refinery* (`00_Master_Theses`), *The Celestial Synthesis* (`04`) and *Chief Messengers* (`06`); it is **not

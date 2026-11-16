@@ -33,7 +33,7 @@ To validate the hypothesis, we must first operationalize the term "Vastation" wi
 "Vastation" refers to the final phase of this decoupling, a crisis point where the internal, intuitive perception of truth is lost, and the mind is threatened by "falsities" or chaos.4
 
 * **The Golden Age (Aurignacian):** Corresponds to a state of "Celestial" integrity. Perception is internal, fluid, and unmediated. There is no need for external doctrine or rigid boundaries because truth is perceived directly. Consequently, art from this period (e.g., Chauvet) is fluid, naturalistic, and lacks the rigid codification of complex geometric enclosures.3  
-* **The Iron Age (Magdalenian):** Corresponds to the state of "Vastation." The internal connection is severed. To survive, the mind must construct external "containers" to hold truth and "nets" to order reality. This necessitates the creation of **Doctrine**—a fixed, externalized system of truth.3
+* **The Iron Age (Magdalenian):** Corresponds to the state of "Vastation." "After the golden age there commenced the iron age; for then as there was no longer any correspondence, heaven was closed" (*Arcana Coelestia* §2995). The internal connection is severed. To survive, the mind must construct external "containers" to hold truth and "nets" to order reality. This necessitates the creation of **Doctrine**—a fixed, externalized system of truth.3
 
 ### **2.2 The Semiotic Predictions**
 
@@ -219,3 +219,4 @@ To survive this crisis, the Magdalenian mind constructed a "Lithic Scripture" of
 22. The function of graphic signs in prehistoric societies \- Creap, accessed on February 8, 2026, [http://www.creap.fr/pdfs/Sauvet\_et\_al-QI2017.pdf](http://www.creap.fr/pdfs/Sauvet_et_al-QI2017.pdf)  
 23. Large scale and regional demographic responses to climatic ..., accessed on February 8, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC11964466/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11964466/)  
 24. von Petzinger, G. (2009). *Making the Abstract Concrete: The Place of Geometric Signs in French Upper Paleolithic Parietal Art* (MA thesis). University of Victoria. Comprehensive catalog of abstract sign types, frequencies, and distributions.
+25. Swedenborg, Emanuel. *Arcana Coelestia*. Translated by John Clowes, revised and edited by John Faulkner Potts. Standard Edition. 12 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).

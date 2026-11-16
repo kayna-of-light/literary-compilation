@@ -107,20 +107,20 @@ Swedenborg explicitly links the hierarchy of metals to the spiritual history of 
 
 * **Core Correspondence:** **Spiritual Truth**; the Truth derived from Good (*AC* §§425, 1551).  
 * **Properties:** Silver is white and reflective, corresponding to the nature of truth which reflects the light of Divine Wisdom.  
-* **Context:** The "Silver Age" (Ancient Church) was a state where direct perception of love was lost, and humanity began to be led by conscience and the precepts of faith (Truth).  
+* **Context:** The "Silver Age" (Ancient Church) was the time of "the ancients after them who lived in truths from that good" (*AE* §176), a church "in which the good of charity towards the neighbor, and truth from that good, reigned" (*AE* §411). Direct perception of love was lost, and humanity was led by conscience and the precepts of faith (Truth).  
 * **Opposite Sense:** **Falsity** that appears like truth, "for they who are in falsity think that falsity is truth" (*AC* §1551). Spiritual counterfeiting.
 
 #### **3.2.3 Copper/Brass (The Natural-Celestial Degree)**
 
-* **Core Correspondence:** **Natural Good**; the Good of Charity and external kindness (*AC* §425).  
+* **Core Correspondence:** **Natural Good** (*AC* §425); "the good of the external or natural man" (*AE* §176).  
 * **Properties:** A base metal, reddish in color (linking it to fire/love), used for tools and vessels. It corresponds to the "neighborly love" of the natural man—kindness, morality, and good works that are external but genuine.  
-* **Context:** The "Copper Age" corresponds to a state of natural goodness and simple obedience.
+* **Context:** The "Copper Age" was the time of the posterity of the ancients "who were in external or natural good" (*AE* §176), a church "which may be called spiritual-natural" (*AE* §411); *True Christian Religion* names the third church the Israelitish (§§760, 762).
 
 #### **3.2.4 Iron (The Natural-Spiritual Degree)**
 
-* **Core Correspondence:** **Natural Truth**; Truth in its ultimate form; Scientific or Literal Truth (*AC* §425).  
+* **Core Correspondence:** **Natural Truth**, "that is, rational truth" (*AC* §425); truth in its ultimate form.  
 * **Properties:** Hard, rigid, brittle, used for weapons and strong structures. It corresponds to the strict adherence to rules, laws, and facts without the softening influence of high charity.  
-* **Context:** The "Iron Age" is the lowest state of the church, where spiritual perception is lost, and only the hard, literal truth remains. The "legs of iron" in Daniel represent a church that stands on mere doctrine and authority.  
+* **Context:** The "Iron Age" was the time of "the posterity of these who were in natural truth alone without good. Natural truth is truth in the memory, not in the life" (*AE* §176); its people "lived not in the affection of truth, but in obedience to truth" (*AC* §4326). Swedenborg does not place it consistently: the legs and feet of Daniel's statue are "the Israelitish and Jewish church, which was an external church without any internal" in *AE* §411, while in *TCR* §§760, 762 the iron age is the fourth church, the Christian.  
 * **Opposite Sense:** **Hard Falsity**: iron signifies "truth in ultimates, and likewise falsity there, and at the same time what is hard" (*AE* §557). The "rod of iron" with which the nations are ruled signifies the power of literal truth, "truths from the literal sense of the Word, and at the same time … rational things from natural light" (*AR* §148).
 
 ### **3.3 Topography: The Moral Elevation**

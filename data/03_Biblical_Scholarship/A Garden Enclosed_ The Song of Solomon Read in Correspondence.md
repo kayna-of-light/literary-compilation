@@ -733,7 +733,7 @@ The Song survived because the Ancient Word material within it is *alive* — it 
 
 ### 10.1 The Song as Bronze Church Perception
 
-The seven Ancient Word passages are written in what the companion thesis ("Two Registers of One Perception") calls the *Bronze Church register*: the register of will-centered perception. The Bronze Church is Swedenborg's copper age, the third after the golden and the silver: its people were "principled in" natural good, kept the precepts "handed down to us from the primeval or most ancient people," and "perceived" the truth of those precepts by living them — and in their sanctuary stood "the Word that was given to the inhabitants of Asia before the Israelitish Word" (*Conjugial Love* §77).
+The seven Ancient Word passages are written in what the companion thesis ("Two Registers of One Perception") calls the *Bronze Church register*: the register of will-centered perception. The Bronze Church is Swedenborg's copper age, the third after the golden and the silver: "the Copper Age from their posterity who were in external or natural good" (*Apocalypse Explained* §176). He places it in more than one way. In *Apocalypse Explained* it is "the church that succeeded the ancient spiritual church and which may be called spiritual-natural," in which "the good of faith and the truth from that good reigned" (§411). In *True Christian Religion* the third church is the Israelitish, which "began with the promulgation of the Decalogue upon Mount Sinai" (§§760, 762), and whose worship was performed by representatives, "but still it was not known what they signified" (*AC* §10355:4). In *Conjugial Love* the copper age is an Asiatic people "principled in" natural good, who kept the precepts "handed down to us from the primeval or most ancient people" and "perceived" their truth by living them — and in whose sanctuary stood "the Word that was given to the inhabitants of Asia before the Israelitish Word" (§77). The Song stands where these accounts meet: Hebrew in its letter, and "full of significatives collected from the books of the ancient church" (*AC* §3942:2).
 
 The Bronze Church perceived spiritual realities through the will — through love, desire, longing, and bodily sensation. Unlike the celestial church, in which the Lord sowed goods in the will itself so that from love it perceived truth (*AC* §895), and unlike the silver age, whose "chief pursuit … was the truths whereby we had intelligence" and which "studied correspondences" (*Conjugial Love* §76), the Bronze Church perceived through the body's affections. Its register is intimate, physical, and erotic — not because it was less spiritual than earlier registers but because it perceived spiritual realities through a different faculty.
 
@@ -866,20 +866,22 @@ The following table classifies every verse of the Song of Solomon into one of th
 2. *The Holy Bible, King James Version.* 1611. The Song of Solomon is quoted from this translation.
 3. *The Mishnah.* Translated by Herbert Danby. Oxford: Oxford University Press, 1933.
 4. Swedenborg, Emanuel. *Arcana Coelestia*. Translated by John Clowes, revised and edited by John Faulkner Potts. Standard Edition. 12 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
-5. Swedenborg, Emanuel. *The Delights of Wisdom Pertaining to Conjugial Love.* English translation, 1850 (1892 printing). Project Gutenberg eBook 11248. https://www.gutenberg.org/ebooks/11248. Cited as *Conjugial Love* by section number (§).
-6. *The Aramaic Targum to Song of Songs.* Translated by Jay C. Treat. *Sefaria*. https://www.sefaria.org/Aramaic_Targum_to_Song_of_Songs. Cited as *Tg. Song* by chapter and verse.
+5. Swedenborg, Emanuel. *Apocalypse Explained*. Translated by John C. Ager, revised by John Whitehead. Standard Edition. 6 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+6. Swedenborg, Emanuel. *The Delights of Wisdom Pertaining to Conjugial Love.* English translation, 1850 (1892 printing). Project Gutenberg eBook 11248. https://www.gutenberg.org/ebooks/11248. Cited as *Conjugial Love* by section number (§).
+7. Swedenborg, Emanuel. *True Christian Religion*. Translated by John C. Ager. Standard Edition. 2 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+8. *The Aramaic Targum to Song of Songs.* Translated by Jay C. Treat. *Sefaria*. https://www.sefaria.org/Aramaic_Targum_to_Song_of_Songs. Cited as *Tg. Song* by chapter and verse.
 
 **Scholarly Works:**
 
-7. Bloch, Ariel, and Chana Bloch, trans. *The Song of Songs: A New Translation*. New York: Random House, 1995.
-8. Budde, Karl. "Das Hohelied." In *Die fünf Megillot*. Kurzer Hand-Commentar zum Alten Testament. Freiburg: Mohr, 1898.
-9. Ewald, Heinrich. *Das Hohelied Salomo's*. Göttingen, 1826.
-10. Herder, Johann Gottfried. *Lieder der Liebe: Die ältesten und schönsten aus dem Morgenlande*. Leipzig, 1778.
-11. Kramer, Samuel Noah. *The Sacred Marriage Rite: Aspects of Faith, Myth, and Ritual in Ancient Sumer*. Bloomington: Indiana University Press, 1969.
-12. Meek, Theophile James. "Canticles and the Tammuz Cult." *American Journal of Semitic Languages and Literatures* 39, no. 1 (1922): 1–14. https://doi.org/10.1086/369963.
-13. Pope, Marvin H. *Song of Songs: A New Translation with Introduction and Commentary*. Anchor Bible 7C. Garden City, NY: Doubleday, 1977.
+9. Bloch, Ariel, and Chana Bloch, trans. *The Song of Songs: A New Translation*. New York: Random House, 1995.
+10. Budde, Karl. "Das Hohelied." In *Die fünf Megillot*. Kurzer Hand-Commentar zum Alten Testament. Freiburg: Mohr, 1898.
+11. Ewald, Heinrich. *Das Hohelied Salomo's*. Göttingen, 1826.
+12. Herder, Johann Gottfried. *Lieder der Liebe: Die ältesten und schönsten aus dem Morgenlande*. Leipzig, 1778.
+13. Kramer, Samuel Noah. *The Sacred Marriage Rite: Aspects of Faith, Myth, and Ritual in Ancient Sumer*. Bloomington: Indiana University Press, 1969.
+14. Meek, Theophile James. "Canticles and the Tammuz Cult." *American Journal of Semitic Languages and Literatures* 39, no. 1 (1922): 1–14. https://doi.org/10.1086/369963.
+15. Pope, Marvin H. *Song of Songs: A New Translation with Introduction and Commentary*. Anchor Bible 7C. Garden City, NY: Doubleday, 1977.
 
 **Internal Library Documents:**
 
-14. [Two Registers of One Perception: The Song of Solomon and the Regenerative Substrate of the Kephalaia](../06_Mythological_Studies/Two%20Registers%20of%20One%20Perception_%20The%20Song%20of%20Solomon%20and%20the%20Regenerative%20Substrate%20of%20the%20Kephalaia.md). The companion thesis: the stripped Song compared with the Kephalaia substrate, and the Bronze and Silver Church registers this thesis builds on.
-15. [The Unnamed Cartography: A Systematic Validation of Swedenborgian Body-Part Correspondences Against the 365-Angel List of the Apocryphon of John](../08_Correspondential_Texts/The%20Unnamed%20Cartography_%20A%20Systematic%20Validation%20of%20Swedenborgian%20Body-Part%20Correspondences%20Against%20the%20365-Angel%20List%20of%20the%20Apocryphon%20of%20John.md). The Apocryphon's body-correspondence list, read from the Coptic, against which the Song's catalogues are compared in §6.1.
+16. [Two Registers of One Perception: The Song of Solomon and the Regenerative Substrate of the Kephalaia](../06_Mythological_Studies/Two%20Registers%20of%20One%20Perception_%20The%20Song%20of%20Solomon%20and%20the%20Regenerative%20Substrate%20of%20the%20Kephalaia.md). The companion thesis: the stripped Song compared with the Kephalaia substrate, and the Bronze and Silver Church registers this thesis builds on.
+17. [The Unnamed Cartography: A Systematic Validation of Swedenborgian Body-Part Correspondences Against the 365-Angel List of the Apocryphon of John](../08_Correspondential_Texts/The%20Unnamed%20Cartography_%20A%20Systematic%20Validation%20of%20Swedenborgian%20Body-Part%20Correspondences%20Against%20the%20365-Angel%20List%20of%20the%20Apocryphon%20of%20John.md). The Apocryphon's body-correspondence list, read from the Coptic, against which the Song's catalogues are compared in §6.1.

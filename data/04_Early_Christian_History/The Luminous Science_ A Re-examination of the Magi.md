@@ -64,9 +64,9 @@ The "star" that guided the Magi was the ultimate physical correspondence. Schola
 * **A Star:** In the highest sense, a star corresponds to the knowledge of goodness and truth that leads to the Lord.  
 * **Jupiter:** The "King" planet, corresponding to the principle of celestial love and kingship.  
 * **Saturn:** The planet corresponding to the Jewish people and their religious tradition.  
-* **Pisces:** The constellation corresponding to the "House of the Hebrews".
+* **Pisces:** The constellation that Jewish astrologers tied to the fortunes of Israel (Brown 2020).
 
-The conjunction was a divine message in the universal language of correspondences, stating that a King (Jupiter) of the Jews (Saturn), who embodied the highest truth, was born in their land (Pisces). The Magi's journey "from the east" was also a correspondence. The east, being the direction of the sunrise, corresponds to a state of love and goodness (*Heaven and Hell* §150). Their travel westward was a spiritual progression from a state of knowing about the Lord to a state of being present with Him.
+The conjunction was a divine message in the universal language of correspondences, stating that a King (Jupiter) of the Jews (Saturn), who embodied the highest truth, was born under the sign tied to Israel's fate (Pisces). The Magi's journey "from the east" was also a correspondence. The east, being the direction of the sunrise, corresponds to a state of love and goodness (*Heaven and Hell* §150). Their travel westward was a spiritual progression from a state of knowing about the Lord to a state of being present with Him.
 
 #### **The Gifts: A Complete Theological Acknowledgement**
 

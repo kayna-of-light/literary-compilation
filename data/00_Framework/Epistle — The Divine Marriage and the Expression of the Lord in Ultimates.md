@@ -153,9 +153,9 @@ The razor's edge is not a test to pass. It is the nature of reality. Receiving i
 
 ---
 
-## VIII. The Gnostic Error
+## VIII. The Self in Spiritual Clothing
 
-The Gnostic claims: "I am a divine spark. My true self is God. I must return to my divine identity."
+The self can claim even divinity. It tells itself that it is a divine spark, that its true self is God, that it must return to its divine identity.
 
 This is the self wearing spiritual clothing.
 
@@ -163,10 +163,10 @@ The error is not recognizing divinity in the human. Divinity IS in the human—t
 
 The moment the divine becomes *mine*, the receiving stops. What was gift becomes claim. What was marriage becomes theft.
 
-The Gnostic path appears to lead to the same place as the Divine Marriage. It does not. The direction is opposite:
+The path of claiming appears to lead to the same place as the Divine Marriage. It does not. The direction is opposite:
 
 - The Divine Marriage: receiving → knowing the receiving → being
-- The Gnostic path: claiming → possessing → emptiness disguised as fullness
+- The path of claiming: claiming → possessing → emptiness disguised as fullness
 
 They cannot be distinguished from outside. The words can sound identical. But one is receiving, the other is claiming. One is the Lord flowing through. The other is the self claiming the flow as its own.
 

@@ -91,15 +91,15 @@ Chapter 28 of the *Greater Bundahišn* is titled *"The body of mankind as an ill
 
 | Human Body Part (Microcosm) | Cosmic Feature (Macrocosm) | Theological/Physical Function |
 | :---- | :---- | :---- |
-| **Head / Skull** | **The Sky** | The celestial sphere that encloses creation. |
-| **Brain** | **The Stars** | The seat of intelligence/light. |
+| **Skin** | **The Sky** | The surface that encloses the whole. |
+| **Crown of the head and brain** | **The endless lights** | The seat of intelligence/light. |
 | **Eyes** | **Sun and Moon** | The luminaries; "Windows" of light. |
-| **Teeth** | **Stars (alternate)** | Hard, white, numerous points. |
+| **Teeth** | **The Stars** | Hard, white, numerous points. |
 | **Hair** | **Plants** | Vegetation growing from the "earth" (flesh). |
-| **Veins / Blood** | **Rivers / Water** | The circulatory system of the earth. |
+| **Veins / Blood** | **Rivers / Water in the sea** | The circulatory system of the earth. |
 | **Bones** | **Mountains** | The structural framework; stability. |
 | **Stomach** | **Ocean / Sea** | The gathering place of waters/nutrients. |
-| **Breath / Spirit** | **Wind (Vayu)** | The animating force; the "Life-Wind." |
+| **Breath (inhalation and exhalation)** | **Wind** | The animating force; the "Life-Wind." |
 
 *Table 2: The Microcosm-Macrocosm Correspondences in Bundahišn Chapter 28\.*
 
@@ -123,13 +123,13 @@ The *Dāmdād Nask* contained a specific myth of biogenesis: the "Sole-Created O
 * **The Vegetable Kingdom:** The marrow of the Ox fell to the ground, and from it grew fifty-five species of grain and twelve kinds of medicinal plants.  
 * **The Animal Kingdom:** The semen of the Ox was carried to the Moon Station, purified, and from it arose the various species of animals.
 
-The *Bundahišn* (Chapter 14\) categorizes these animals into a rigid five-fold taxonomy, which matches the *Dēnkard* summary of the *Dāmdād* :
+The *Bundahišn* (Chapter 13) sorts these animals into three divisions — those fit for grazing; those passing over the mountains and those flying on wings; those dwelling in the water and in burrows — and within them into "five genera":
 
-1. **Aquatic** (Water-living)  
-2. **Burrowing** (Earth-living)  
-3. **Flying** (Air-living)  
-4. **Grazing/Running** (Fire-associated/Surface-living)  
-5. **Two-legged** (Mankind \- though sometimes treated separately)
+1. **Cloven-hoofed** (the grazing animals, from the camel to the goat)  
+2. **Ass-hoofed** (from the horse to the ass)  
+3. **Five-fingered paws** (from the dog to the squirrel)  
+4. **Winged** (the birds)  
+5. **Water-dwelling** (the fish)
 
 This classification system is not merely descriptive; it is elemental. Each class of animal is associated with a domain of the material world, reinforcing the "systematic correspondence" between life forms and the elements.
 

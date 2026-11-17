@@ -136,8 +136,8 @@ Mary Blair's style, characterized by "flatness" and "color as emotion," is a vis
 
 The film's use of color adheres to the "Correspondence of Colors":
 
-* **Snow White:** Primary colors (Blue/Red/Yellow). Blue corresponds to Truth, Red to Love/Charity, Yellow/Gold to Goodness. She is the integrated soul.
-* **The Queen:** Purple, Black, and Cold tones. Purple corresponds to the "Love of Dominion" (royal power abused). Black corresponds to falsity and the void.
+* **Snow White:** Primary colors (Blue/Red/Yellow). Blue corresponds to Truth, Red to Love/Charity, Yellow/Gold to Goodness (*Arcana Coelestia* §§113, 3300, 9466). She is the integrated soul.
+* **The Queen:** Purple, Black, and Cold tones. Purple corresponds to celestial good (*Arcana Coelestia* §9467); worn by Babylon it is that good held "from without and not from within," on which "they found their majesty, dignity, and authority" (*Apocalypse Revealed* §725)—royal power abused. Black corresponds to falsity and the void.
 * **The Orchard:** Described in reviews as having a specific, almost "fake" or "video game cutscene" quality (Winkler 2025). While intended as a criticism, this "unreality" aligns with Blair's rejection of realism in favor of "emotional truth." The orchard is a spiritual memory, not a geographical location.
 
 ---

@@ -19,12 +19,12 @@ To understand *why* the Magi narrative exists, one must first understand the tex
 
 ### **2.1 The Jamesian Protograph and the "Alien" Christ**
 
-Critical scholarship and forensic analysis of early Christian witnesses, particularly the *Evangelion* of Marcion (c. 140 CE), suggest that the document underlying both canonical Luke and Matthew—often designated as "Q" but more accurately identified in this context as **Proto-Luke** or the **Jamesian Protograph**—lacked any account of Jesus's birth.  
+Critical scholarship and forensic analysis of early Christian witnesses, particularly the *Evangelion* of Marcion (c. 140 CE), suggest that the document underlying both canonical Luke and Matthew—often designated as "Q" but more accurately identified in this context as **Proto-Luke** or the **Jamesian Protograph**—lacked any account of Jesus's birth (*The Jamesian Protograph* §3.1).  
 The stratigraphy of this Proto-Gospel reveals a distinct theological profile that differs radically from the canonical versions we possess today.
 
 #### **The Incipit Shift and Narrative Entry**
 
-The original text of Proto-Luke began not with a genealogy or a birth in Bethlehem, but with the political dating formula found in Luke 3:1 ("In the fifteenth year of the reign of Tiberius Caesar..."). This was followed immediately by Jesus's descent (Greek: *katēlthen*) to Capernaum (Luke 4:31). This structural reality is critical. In the earliest narrative layer, Jesus appears on the scene as a fully formed adult, a pneumatic agent of God who enters history from "above" (Capernaum/Heaven) rather than from "below" (birth/lineage).
+The original text of Proto-Luke began not with a genealogy or a birth in Bethlehem, but with the political dating formula found in Luke 3:1 ("In the fifteenth year of the reign of Tiberius Caesar..."). This was followed immediately by Jesus's descent (Greek: *katēlthen*) to Capernaum (Luke 4:31; Tertullian, *Marc.* 4.7.1). This structural reality is critical. In the earliest narrative layer, Jesus appears on the scene as a fully formed adult, a pneumatic agent of God who enters history from "above" (Capernaum/Heaven) rather than from "below" (birth/lineage).
 
 #### **Pneumatic vs. Biological Christology**
 
@@ -33,8 +33,8 @@ This presented a theological vulnerability. Without a birth narrative, the "Jesu
 
 ### **2.2 The Marcionite Witness and the "Mutilation" Debate**
 
-The figure of Marcion of Sinope (c. 85–160 CE) is central to the forensic reconstruction of Proto-Luke. Marcion was the first to establish a fixed canon of Christian scripture, which included a single gospel (the *Evangelion*) and ten Pauline epistles. The Church Fathers, notably Tertullian and Epiphanius, attacked Marcion for "mutilating" the Gospel of Luke to remove the Jewish elements, including the birth narrative.  
-However, modern forensic analysis—supported by the documents provided—suggests the reverse may be true: **Marcion’s gospel preserved the older, unedited Proto-Luke**, while the canonical versions were expanded ("interpolated") to counter him.
+The figure of Marcion of Sinope (c. 85–160 CE) is central to the forensic reconstruction of Proto-Luke. Marcion was the first to establish a fixed canon of Christian scripture, which included a single gospel (the *Evangelion*) and ten Pauline epistles. The Church Fathers, notably Tertullian and Epiphanius, attacked Marcion for "mutilating" the Gospel of Luke to remove the Jewish elements, including the birth narrative (Irenaeus, *Haer.* 1.27.2).  
+However, modern forensic analysis—supported by the library's documents (*The Jamesian Protograph*)—suggests the reverse may be true: **Marcion’s gospel preserved the older, unedited Proto-Luke**, while the canonical versions were expanded ("interpolated") to counter him.
 
 * **The Argument from Omission:** If Marcion had purely theological motives for cutting the text, he left behind many passages that contradicted his theology (e.g., references to the "God of Abraham"). This suggests he was not cutting a text, but possessing a shorter, earlier version.  
 * **The "Pastoral" Addition:** The infancy narratives (Luke 1-2 and Matthew 1-2) are identified as later **"Pastoral" additions**. They function to "materialize" the faith. Against the Docetic tendencies (which denied Jesus's physical reality) and the Marcionite separation of Law and Gospel, the infancy narratives insist on a physical birth, physical danger (Herod), and physical relocation (Egypt).
@@ -53,7 +53,7 @@ The Magi narrative, therefore, functions as a "Judaizing Corrective." It uses Ge
 ### **2.4 Linguistic Evidence of Interpolation**
 
 The forensic reconstruction is further supported by linguistic analysis. In the Gospel of Luke, scholars have noted a sharp shift in style. The prologue (Luke 1:1-4) is written in sophisticated, classical Greek. However, the infancy narrative that follows (Luke 1:5–2:52) switches abruptly to a "Septuagintal" style—a Greek that heavily mimics Hebrew sentence structures and vocabulary. This style then disappears at Chapter 3, where the standard Koiné Greek of the gospel resumes.  
-This stylistic discontinuity suggests that Chapters 1-2 were a **"prequel"** added to the main narrative body. The author (or a later redactor) composed these chapters in a deliberately archaic, "biblical" style to make them sound like the Old Testament, thereby reinforcing the argument for continuity and ancient prophecy. In Matthew, a similar phenomenon occurs with the "Formula Citations" ("All this took place to fulfill..."), which are editorial insertions designed to stitch the new narrative onto the old scriptures.
+This stylistic discontinuity suggests that Chapters 1-2 were a **"prequel"** added to the main narrative body. The author (or a later redactor) composed these chapters in a deliberately archaic, "biblical" style to make them sound like the Old Testament, thereby reinforcing the argument for continuity and ancient prophecy. In Matthew, a similar phenomenon occurs with the "Formula Citations" ("All this took place to fulfill..."; Matt 1:22), which are editorial insertions designed to stitch the new narrative onto the old scriptures.
 
 ## **3\. The Intellectual Architecture: The "Science of Correspondences" as Literary Device**
 
@@ -72,18 +72,15 @@ The author of Matthew writes *as* a Magus. He assumes this "Science of Correspon
 
 The "notions... in relation to Jupiter" refer to the triple conjunction of Jupiter and Saturn in Pisces in 7 BCE. This event is the most plausible *raw material* for the star narrative, but the thesis under examination is correct to view the claim that this *caused* the visit as "misleading."
 
-* **The Astronomic Facts:** In 7 BCE, Jupiter (the King planet) met Saturn (the planet of the Jews/Syria) three times in the constellation of Pisces (associated with the "End of the Age" or the "House of the Hebrews").  
-* **The Interpretive Grid:** Under the "Science of Correspondences":  
-  * **Jupiter** \= King.  
-  * **Saturn** \= The West / Judea.  
-  * **Pisces** \= The New Beginning.  
-  * **Synthesis:** "A King is born in Judea to inaugurate the New Age."
+* **The Astronomic Facts:** In 7 BCE, Jupiter and Saturn met three times in the constellation of Pisces (Betz 2023).  
+* **What the Grid Cannot Carry:** The planet-by-planet reading built on the event (Jupiter = King, Saturn = Judea, Pisces = the Hebrews or the new age) rests on associations no source places with first-century Magi: Saturn was tied to the Jews by Roman observers through the Sabbath, Saturn's day (Tacitus, *Hist.* 5.4), and Pisces to Israel's fortunes only in medieval Jewish astrology, where a conjunction there portended calamity (Brown 2020). A code of that kind is not correspondence; it is what the science of correspondences became when "the good of life ceased" and "it was turned into magic" (*Arcana Coelestia* §10252:6).  
+* **The Correspondence:** In Swedenborg's reading of Matthew 2, they "knew from their prophetic writings, which were of the ancient church," that the Lord was to come into the world and that a star would then appear to them, as Balaam, "one of the sons of the east," had prophesied (Num 24:17); and "a 'star' signifies the knowledges of internal good and truth, which are from the Lord" (*Arcana Coelestia* §9293:3). The sign in the heavens and the birth on earth were linked because both expressed one spiritual event, the knowledges of good and truth leading to the Lord at His coming into the world, not because one encoded the other.
 
-However, the text of Matthew describes a star that behaves in physically impossible ways: it "went before them" and "stood over where the child was" (Matt 2:9). A planetary conjunction does not beam a spotlight onto a specific house. This betrays the genre. It is a **literary star**, guided by the "Science of Correspondences" to make a theological point: that the cosmos itself aligned to declare the glory of the incarnation. The author likely *retrojected* the significance of the 7 BCE conjunction (which would have been remembered as a sign of the "Golden Age") to frame Jesus's birth, enhancing it with miraculous behavior to ensure the reader understood this was divine guidance, not just luck.
+However, the text of Matthew describes a star that behaves in physically impossible ways: it "went before them until it came to rest over the place where the child was" (Matt 2:9). A planetary conjunction does not beam a spotlight onto a specific house. This betrays the genre. It is a **literary star**, guided by the "Science of Correspondences" to make a theological point: that the cosmos itself aligned to declare the glory of the incarnation. The author likely *retrojected* the significance of the 7 BCE conjunction to frame Jesus's birth, enhancing it with miraculous behavior to ensure the reader understood this was divine guidance, not just luck.
 
 ### **3.3 Daniel and the "Rab-signīn" Bridge**
 
-To make the Magi's interest in a Jewish king plausible within the narrative, the author employs the figure of Daniel. In the court tales (Daniel 1-6), Daniel is appointed *Rab-signīn* (Chief Prefect) over the wise men.
+To make the Magi's interest in a Jewish king plausible within the narrative, the author employs the figure of Daniel. In the court tales (Daniel 1-6), Daniel is appointed *Rab-signīn* (Chief Prefect) over the wise men (Dan 2:48).
 
 * **The Literary Lineage:** This creates a specific lineage. The Magi are not random pagan sorcerers stumbling upon Jesus; they are the spiritual descendants of Daniel. The narrative implies they possess the prophecies of Daniel (specifically the "Seventy Weeks" and the "Son of Man").  
 * **The Apologetic Clamp:** This connects the "wisdom of the East" directly to the Hebrew prophets. It ensures that the Gentile revelation (the Star) remains subordinate to, or at least harmonious with, the Jewish revelation (Daniel/Micah). The Magi represent the "Science of Correspondences" submitting to the "Word of God".
@@ -95,18 +92,18 @@ While the *motive* for the story was theological (correcting Proto-Luke) and the
 ### **4.1 The Shadow of the Parthian Empire**
 
 In the first century, the Roman Empire faced only one true peer competitor: the Parthian Empire to the east. To the original audience, "Magi" did not mean "wise men" in a generic sense. It referred specifically to the **Zoroastrian priesthood** of the Parthian Empire.  
-The Magi formed one of the two houses of the Parthian **Megistanes** (Supreme Council). They were **King-Makers**, constitutionally empowered to elect and crown the Arsacid monarch. In the context of the Roman-Parthian wars, a delegation of Parthian King-Makers arriving in Roman Judea (a border province) asking for the "King of the Jews" was an act of high treason and geopolitical aggression. It implied that Rome's client king (Herod) was illegitimate and that the rival superpower was vetting a replacement.
+With the wise men, the Magi formed one of the two groups of the Council of the Parthians, and the kings were appointed from the royal kinsmen by its members (Strabo, *Geog.* 11.9.3). They were **King-Makers**, constitutionally empowered to choose the Arsacid monarch. In the context of the Roman-Parthian wars, a delegation of Parthian King-Makers arriving in Roman Judea (a border province) asking for the "King of the Jews" was an act of high treason and geopolitical aggression. It implied that Rome's client king (Herod) was illegitimate and that the rival superpower was vetting a replacement.
 
 ### **4.2 The Historical Template: Tiridates I and Nero (66 CE)**
 
 The most likely historical seed for the Magi narrative is the visit of **King Tiridates I of Armenia** to Rome in 66 CE—an event that occurred just prior to the composition of the Gospel of Matthew. This event was the "media spectacle" of the century and would have been deeply embedded in the cultural memory of the Near East.
 
-* **The Event:** Tiridates, the brother of the Parthian King Vologases I, was a practicing Magus. After a peace treaty, he traveled to Rome with a massive entourage of Magi to receive his crown from the Emperor Nero.  
-* **The Spectacle:** The visit was lavish and public. Tiridates knelt before Nero and worshipped him, famously declaring, "I have come to you, my god, to worship you as I do Mithras".  
+* **The Event:** Tiridates, the brother of the Parthian King Vologases I, was a practicing Magus. After a peace treaty, he traveled to Rome with a massive entourage, other Magi among them, to receive his crown from the Emperor Nero (Pliny, *NH* 30.16–17).  
+* **The Spectacle:** The visit was lavish and public. Tiridates knelt before Nero and worshipped him, famously declaring, "I have come to thee, my god, to worship thee as I do Mithras" (Cassius Dio 63.5.2).  
 * **The Structural Parallel:** The similarities to Matthew 2 are undeniable:  
   * **Magian Delegation:** Both involve a high-status delegation of Magi traveling West.  
   * **Worship of a Sovereign:** Both involve the Magi paying homage (*proskynesis*) to a supreme ruler.  
-  * **Alternative Route:** Tiridates returned home by a different route, just as Matthew’s Magi do.
+  * **Alternative Route:** Tiridates returned home by a different route, sailing from Brundisium rather than retracing his way through Illyricum (Cassius Dio 63), just as Matthew’s Magi do.
 
 ### **4.3 Matthew’s Subversive Mimesis**
 
@@ -123,29 +120,29 @@ If Tiridates provided the *frame* and Correspondences provided the *logic*, the 
 
 ### **5.1 The Balaam Nexus (Numbers 24:17)**
 
-The core scriptural generator for the story is the prophecy of **Balaam** in Numbers 24:17: *"A star shall rise out of Jacob, and a scepter shall spring out of Israel."*
+The core scriptural generator for the story is the prophecy of **Balaam** in Numbers 24:17: *"A star shall come out of Jacob, and a scepter shall rise out of Israel."*
 
-* **The Speaker:** This prophecy was spoken by **Balaam**, a Gentile "seer" from "the mountains of the East" (Num 23:7). In Jewish tradition (Philo, Josephus), he was often identified as a **Magus**.  
+* **The Speaker:** This prophecy was spoken by **Balaam**, a Gentile "seer" from "the eastern mountains" (Num 23:7). In Jewish tradition Philo calls him a ***magos*** (Philo, *Mos.* 1.276), and later Targumic and midrashic traditions tie him to the magicians of Egypt (Barber 2020).  
 * **The Construction:** Matthew transforms the *author* of the prophecy (Balaam/Magi) into the *witnesses* of its fulfillment. The Magi are "New Balaams," coming from the East not to curse Israel (as Balaam was hired to do) but to bless the true King. This redeems the Gentile wisdom tradition.
 
 ### **5.2 The Moses Typology and the Anti-Pharaoh**
 
-The flight to Egypt and the Massacre of the Innocents (Matthew 2:16) are clearly modeled on the infancy of Moses (Exodus 1-2).
+The flight to Egypt and the Massacre of the Innocents (Matthew 2:16) are clearly modeled on the infancy of Moses (Exodus 1-2; Viljoen 2025).
 
 * **Herod as Pharaoh:** Herod’s slaughter of the boys mirrors Pharaoh’s decree (Exodus 1:16).  
-* **Jesus as Moses:** Jesus is the "New Moses" who escapes the tyrant, goes down to Egypt, and returns to lead the people. "Out of Egypt I called my Son" (Matt 2:15 / Hosea 11:1).  
+* **Jesus as Moses:** Jesus is the "New Moses" who escapes the tyrant, goes down to Egypt, and returns to lead the people. "Out of Egypt I called my son" (Matt 2:15 / Hosea 11:1).  
 * **Forensic Insight:** This typology is crucial for the "Judaizing" corrective against Proto-Luke. Proto-Luke's Jesus appears from nowhere; Matthew's Jesus recapitulates the foundational history of Israel, proving he is the *continuation* of the story, not an *alien* interruption.
 
 ### **5.3 The Symbolic Coronation: Psalm 72 and Isaiah 60**
 
-The gifts—Gold, Frankincense, and Myrrh—are widely recognized as midrashic elements drawn from Psalm 72 ("The kings of Tarshish and the Isles shall offer gifts") and Isaiah 60 ("They shall bring gold and frankincense").
+The gifts—Gold, Frankincense, and Myrrh—are widely recognized as midrashic elements drawn from Psalm 72 ("May the kings of Tarshish and of the coastlands render him tribute," Ps 72:10) and Isaiah 60 ("They shall bring gold and frankincense," Isa 60:6) (Paul 2021).
 
 * **The Fulfillment:** These texts describe the *Gentile nations* bringing tribute to Zion in the messianic age. By having the Magi present these specific gifts, Matthew is asserting that the **Eschaton** (the End Times) has begun.  
-* **The Passion Motif:** The inclusion of **Myrrh** (not present in Isaiah 60\) is a specific Matthean modification. In the "Science of Correspondences," Myrrh (used for embalming) corresponds to natural goodness and sacrificial death. It introduces the passion motif at the cradle—a theological nuance unlikely to be a raw historical accident.
+* **The Passion Motif:** The inclusion of **Myrrh** (not present in Isaiah 60\) is a specific Matthean modification. In the science of correspondences, Myrrh corresponds to good in the natural, external degree (*Arcana Coelestia* §9293:3); used for embalming, it introduces the passion motif at the cradle—a theological nuance unlikely to be a raw historical accident.
 
 ## **6\. Synthesis and Conclusion: The Most Likely Occurrence**
 
-The task is to resolve this struggle and to show what is most likely to have occurred. Based on the rigorous inquiry into the textual, historical, and intellectual evidence, we can reconstruct the formation of the narrative as follows.
+What remains is to resolve this struggle and to show what is most likely to have occurred. Based on the rigorous inquiry into the textual, historical, and intellectual evidence, we can reconstruct the formation of the narrative as follows.
 
 ### **6.1 The Likely Sequence of Events**
 
@@ -156,7 +153,7 @@ The task is to resolve this struggle and to show what is most likely to have occ
 5. **The Composition (The Bricolage):**  
    * The author adopts the **Tiridates** model: "Kings from the East worship the Ruler."  
    * He inverts the object: They worship Jesus, not Nero.  
-   * He employs the **Science of Correspondences** (Jupiter/Saturn 7 BCE memories or astronomical tables) to provide the "Star" mechanism.  
+   * He employs the **Science of Correspondences**—Balaam's star (Num 24:17), the knowledges of good and truth that lead to the Lord—to provide the "Star" mechanism.  
    * He integrates the **Balaam** and **Moses** traditions to anchor the story in Torah.  
    * He uses the **Danielic** bridge (Daniel's *Rab-signīn* role as Chief Prefect over the wise men) to authorize the Magi's presence.
 
@@ -170,7 +167,7 @@ The "struggle" between history and myth is resolved by recognizing the genre: **
 
 | Element | Historical Raw Material | Theological/Literary Function | Source/Influence |
 | :---- | :---- | :---- | :---- |
-| **The Magi** | Parthian *Megistanes* / Tiridates I (66 CE) | Witnesses from the "East" to validate the Jewish King; Subversion of Roman Imperial Cult. | Roman History / Nero's Court |
+| **The Magi** | Parthian council of wise men and Magi / Tiridates I (66 CE) | Witnesses from the "East" to validate the Jewish King; Subversion of Roman Imperial Cult. | Roman History / Nero's Court |
 | **The Star** | Jupiter-Saturn Conjunction (7 BCE) | *Angelus Interpres*; The "Science of Correspondences" linking Heaven (*Mēnōg*) and Earth (*Gētīg*). | Zoroastrian Astronomy / Num 24:17 |
 | **The Gifts** | Eastern Trade Goods (Spices/Gold) | Symbolic Creed: King (Gold), God (Incense), Victim (Myrrh). | Isaiah 60 / Psalm 72 |
 | **Herod/Massacre** | Herod's actual brutality / Dynastic paranoia | "New Pharaoh"; Typological link to Moses (Exodus 1-2); "Judaizing" corrective to Alien Christ. | Exodus / Midrash |
@@ -178,6 +175,39 @@ The "struggle" between history and myth is resolved by recognizing the genre: **
 
 This report confirms the intuition under examination: the narrative is a pervasive and masterful construct, synthesized from the available cultural bedrock to serve the urgent needs of the nascent Church. The most likely occurrence is the **composition of the text itself** as a response to the "Alien Christ," utilizing the geopolitical imagery of the day to assert the supreme sovereignty of Jesus.
 
-#### **Geciteerd werk**
+## Works Cited
 
-1\. [The Cycle of Celestial Knowledge: A Re-examination of the Magi](The%20Cycle%20of%20Celestial%20Knowledge_%20A%20Re-examination%20of%20the%20Magi.md) 2\. [The Science of Correspondences: A Scholarly Analysis of the Magi from the Era of Daniel to the Nativity](../02_Swedenborgian_Theology/The%20Science%20of%20Correspondences_%20A%20Scholarly%20Analysis%20of%20the%20Magi%20from%20the%20Era%20of%20Daniel%20to%20the%20Nativity.md) 3\. [The Luminous Science: A Re-examination of the Magi](The%20Luminous%20Science_%20A%20Re-examination%20of%20the%20Magi.md) 4\. Tiridates I of Armenia \- Eranshahr, https://www.eranshahr.com/shahs/tiridates-of-armenia 5\. The Magi \- Dave Allens blog, https://davesblogs.home.blog/2021/12/10/the-magi/ 6\. Commentary on Matthew 2:1-12 \- Biblical Scholarship \- WordPress.com, https://biblicalscholarship.wordpress.com/2020/03/27/commentary-on-matthew-21-12/ 7\. The Forensic Reconstruction of Proto-Luke: A Comprehensive Guide to Recovering the Jamesian Protograph and the Marcionite Evangelion, https://drive.google.com/open?id=1gvijydXnEUUz5zDAS10mFKNJd6s-Nk-cdm0nMoSLX8k 8\. Was the Entire New Testament Forged in the Second Century? \- Richard Carrier, https://www.richardcarrier.info/archives/27161 9\. The Case Against Luke 1-2 \- Jesus Tweezers, https://jesustweezers.home.blog/2019/01/18/the-case-against-luke-1-2/ 10\. [Magi Narrative: Theological Construct Analysis](The%20Celestial%20Synthesis_%20An%20Analysis%20of%20the%20Magi%20Narrative%20as%20a%20Theological%20Construct%20in%20the%20Gospel%20of%20Matthew.md) 11\. [Tracing Ancient Correspondence Knowledge](../02_Swedenborgian_Theology/The%20Resonant%20Cosmos_%20A%20Historical%20Reconstruction%20of%20the%20Science%20of%20Correspondences%20from%20the%20Magian%20Archives%20to%20the%20New%20Jerusalem.md) 12\. [The Divine Bricolage: A Spiritual History of the Word from Influx to Incarnation](../00_Framework/The%20Divine%20Bricolage_%20A%20Spiritual%20History%20of%20the%20Word%20from%20Influx%20to%20Incarnation.md) 13\. [Persian Roots of Early Christianity](The%20Persian%20Architecture%20of%20a%20New%20Faith_%20Tracing%20the%20Historical%20and%20Theological%20Foundations%20of%20Christianity%20from%20the%20Achaemenid%20Empire%20to%20Roman%20Judea.md) 14\. The Star of Bethlehem: Can science explain what it really was? \- Astronomy Magazine, https://www.astronomy.com/science/the-star-of-bethlehem-can-science-explain-what-it-was/ 15\. Star of Bethlehem \- Wikipedia, https://en.wikipedia.org/wiki/Star\_of\_Bethlehem 16\. [Daniel: Historicity and Cultural Synthesis](../03_Biblical_Scholarship/The%20Danielic%20Synthesis_%20A%20Critical%20Historiographical%20and%20Theological%20Analysis%20of%20the%20Babylonian%20Court%20Narratives%20and%20the%20Persian%20Acculturation%20of.md) 17\. Who were the Magi? \- Catholic Straight Answers, https://catholicstraightanswers.com/who-were-the-magi/ 18\. Herod, Parthia, and Roman Foreign Policy \- Ad Fontes Journal, https://adfontesjournal.com/andrew-koperski/herod-parthia-and-roman-foreign-policy/ 19\. The three wise men (the three Magi), https://www.antiquitatem.com/en/wise-men-tiridates-nero-wizard-epiphany/ 20\. The Birth Narratives of Jesus in the New Testament – Part 2 | Calling Christians, https://callingchristians.com/2019/12/15/the-birth-narratives-of-jesus-in-the-new-testament-part-2/ 21\. Balaam, the Magi, Matthew, and Philo: The Problem of Using Rabbinic Sources, https://thesacredpage.com/2020/05/29/balaam-and-the-magi/ 22\. were the magi that visited jesus at his birth zoroastrians ? : r/AcademicBiblical \- Reddit, https://www.reddit.com/r/AcademicBiblical/comments/1606h1f/were\_the\_magi\_that\_visited\_jesus\_at\_his\_birth/ 23\. Intertextuality and Moses imagery in Matthew's infancy narrative | Viljoen, https://hts.org.za/index.php/hts/article/view/10693/28420 24\. Is Jesus a "Second Moses?" | Catholic Answers Magazine, https://www.catholic.com/magazine/online-edition/is-jesus-a-second-moses 25\. Parallels between Exodus and Matthew? : r/Catholicism \- Reddit, https://www.reddit.com/r/Catholicism/comments/1304twr/parallels\_between\_exodus\_and\_matthew/ 26\. Myth and history in the Epiphany of Matthew 2 | Psephizo, https://www.psephizo.com/biblical-studies/myth-and-history-in-the-epiphany-of-matthew-2/ 27\. The Magi and their Gifts \- Integrated Catholic Life, https://integratedcatholiclife.org/2018/01/dambrosio-scripture-reflection-magi-and-their-gifts/
+**Primary Sources:**
+
+1. Cassius Dio. *Roman History*. Translated by Earnest Cary. Vol. 8. Loeb Classical Library. Cambridge, MA: Harvard University Press, 1925. Cited for 63.5.2 and the Epitome of Book 63.
+2. *The Holy Bible, English Standard Version*. Wheaton, IL: Crossway, 2001. Cited for all scripture quotations.
+3. Irenaeus. *Against Heresies*. In *The Ante-Nicene Fathers*, vol. 1, edited by Alexander Roberts and James Donaldson. Buffalo, NY: Christian Literature Publishing, 1885. Cited for 1.27.2.
+4. Philo. *On the Life of Moses*. Cited for 1.276.
+5. Pliny the Elder. *The Natural History*. Translated by John Bostock and H. T. Riley. London: Taylor and Francis, 1855. Cited for 30.16–17.
+6. Strabo. *The Geography of Strabo*. Translated by Horace Leonard Jones. Vol. 5. Loeb Classical Library. Cambridge, MA: Harvard University Press, 1928. Cited for 11.9.3.
+7. Swedenborg, Emanuel. *Arcana Coelestia*. Translated by John Clowes, revised and edited by John Faulkner Potts. Standard Edition. 12 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
+8. Tacitus. *The Histories*. Cited for 5.4.
+9. Tertullian. *Against Marcion*. Translated by Peter Holmes. In *The Ante-Nicene Fathers*, vol. 3, edited by Alexander Roberts and James Donaldson. Buffalo, NY: Christian Literature Publishing, 1885. Cited for 4.7.1.
+
+**Scholarly Works:**
+
+10. Viljoen, Francois. "Intertextuality and Moses Imagery in Matthew's Infancy Narrative." *HTS Teologiese Studies / Theological Studies* 81, no. 1 (2025): a10693. https://doi.org/10.4102/hts.v81i1.10693.
+
+**Internal Library Documents:**
+
+11. [The Celestial Synthesis: An Analysis of the Magi Narrative as a Theological Construct in the Gospel of Matthew](The%20Celestial%20Synthesis_%20An%20Analysis%20of%20the%20Magi%20Narrative%20as%20a%20Theological%20Construct%20in%20the%20Gospel%20of%20Matthew.md). The sibling report: Matthew's fulfillment method, the Magi as Parthian king-makers, the Saoshyant, and the gifts.
+12. [The Cycle of Celestial Knowledge: A Re-examination of the Magi](The%20Cycle%20of%20Celestial%20Knowledge_%20A%20Re-examination%20of%20the%20Magi.md). The Magian priesthood and its practices.
+13. [The Danielic Synthesis: A Critical Historiographical and Theological Analysis of the Babylonian Court Narratives and the Persian Acculturation of Second Temple Judaism](../03_Biblical_Scholarship/The%20Danielic%20Synthesis_%20A%20Critical%20Historiographical%20and%20Theological%20Analysis%20of%20the%20Babylonian%20Court%20Narratives%20and%20the%20Persian%20Acculturation%20of.md). Daniel as chief over the wise men of Babylon, the bridge used in §3.3.
+14. [The Divine Bricolage: A Spiritual History of the Word from Influx to Incarnation](../00_Framework/The%20Divine%20Bricolage_%20A%20Spiritual%20History%20of%20the%20Word%20from%20Influx%20to%20Incarnation.md). The framework's account of scriptural bricolage.
+15. [The Jamesian Protograph: A Forensic Reconstruction of Proto-Luke](The%20Jamesian%20Protograph_%20A%20Forensic%20Reconstruction%20of%20Proto-Luke.md). The reconstruction of Proto-Luke behind §2: the Luke 3:1 + 4:31 incipit and the absence of the birth narratives.
+16. [The Luminous Science: A Re-examination of the Magi](The%20Luminous%20Science_%20A%20Re-examination%20of%20the%20Magi.md). The Magi, the 7 BCE conjunction and the gifts read in correspondence.
+17. [The Persian Architecture of a New Faith: Tracing the Historical and Theological Foundations of Christianity from the Achaemenid Empire to Roman Judea](The%20Persian%20Architecture%20of%20a%20New%20Faith_%20Tracing%20the%20Historical%20and%20Theological%20Foundations%20of%20Christianity%20from%20the%20Achaemenid%20Empire%20to%20Roman%20Judea.md). The synthesis of Persian and Jewish thought behind §4.
+18. [The Resonant Cosmos: A Historical Reconstruction of the Science of Correspondences from the Magian Archives to the New Jerusalem](../02_Swedenborgian_Theology/The%20Resonant%20Cosmos_%20A%20Historical%20Reconstruction%20of%20the%20Science%20of%20Correspondences%20from%20the%20Magian%20Archives%20to%20the%20New%20Jerusalem.md). The science of correspondences from the Magi to Swedenborg.
+19. [The Science of Correspondences: A Scholarly Analysis of the Magi from the Era of Daniel to the Nativity](../02_Swedenborgian_Theology/The%20Science%20of%20Correspondences_%20A%20Scholarly%20Analysis%20of%20the%20Magi%20from%20the%20Era%20of%20Daniel%20to%20the%20Nativity.md). The mēnōg/gētīg worldview behind §3.1.
+
+**Web Sources:**
+
+20. Barber, Michael Patrick. "Balaam, the Magi, Matthew, and Philo: The Problem of Using Rabbinic Sources." *The Sacred Page*, May 29, 2020. https://thesacredpage.com/2020/05/29/balaam-and-the-magi/.
+21. Betz, Eric. "The Star of Bethlehem: Can Science Explain What It Really Was?" *Astronomy*, December 24, 2023. https://www.astronomy.com/science/the-star-of-bethlehem-can-science-explain-what-it-was/.
+22. Brown, Jeremy. "The Conjunction of Saturn and Jupiter in Medieval Jewish Thought." *Tradition Online*, December 15, 2020. https://traditiononline.org/the-conjunction-of-saturn-and-jupiter-in-medieval-jewish-thought/.
+23. Paul, Ian. "Myth and History in the Epiphany of Matthew 2." *Psephizo*, December 29, 2021. https://www.psephizo.com/biblical-studies/myth-and-history-in-the-epiphany-of-matthew-2/.

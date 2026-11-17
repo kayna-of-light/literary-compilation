@@ -1033,7 +1033,7 @@ The cross-reference matrix reveals three findings:
 
 Layton, Bentley, ed. *Nag Hammadi Codex II,2–7, Together with XIII,2*, Brit. Lib. Or. 4926(1), and P. Oxy. 1, 654, 655. 2 vols. Nag Hammadi Studies 20–21. Leiden: Brill, 1989.
 
-Linssen, Robert, ed. *The Nag Hammadi Library (Coptic Source Texts)*. PDF compilation of Sahidic Coptic transcriptions of the Nag Hammadi codices.
+Linssen, Martijn A. T. *Nag Hammadi Library Complete Transcription*. Thomas Miscellaneous, Part X. 2024. A Unicode transcription of all the codices from Milan Konvička's *Marcion* digitization.
 
 Robinson, James M., ed. *The Nag Hammadi Library in English*. 3rd rev. ed. San Francisco: HarperSanFrancisco, 1990.
 

@@ -93,6 +93,23 @@ When identifying a gap or question during framework development:
 
 ---
 
+### [Author decision] Which Kephalaia pipeline run do *The Ancient Word Recovered*'s figures report?
+
+**Target**: author decision (no external tool can settle it)  
+**Status**: Open  
+**Date Added**: 2026-11-03  
+**Priority**: MEDIUM  
+**Related Document**: `data/00_Framework/The Ancient Word Recovered_ Extracting the Correspondential Substrate of the Kephalaia.md` (§§1, 5–11); the same figures recur in `08/The Garment and What Wears It` (110 entries, in its account of Stage 7), `04/Truth Does Not Force Its Way` (110-entry lexicon, 96%), `02/The Resolution of the Finite Mind` (96%, 110 entries).
+
+**Context**:
+The document reports a lexicon of 110 entries (66 established, 40 strong, 3 moderate, 1 tentative; categories 21/21/16/15/14/11/7/5), a corpus review of 22 findings (2 critical, 8 significant, 12 minor/observation), a structure of 13 parts, 52 chapters and 11 observations, 886 paragraphs, and paragraph references such as §544 (Saklas), §678–711, §830. It cites them to `manichaean-analysis/output/projects/kephalaia/` (`correspondence_lexicon.json`, `corpus_review.json`, `book_structure.json`). Those files — unchanged since the commit of 2026-05-15, a month before the document entered the library on 2026-06-15 — hold a different run: **100 entries** (56 established, 42 strong, 2 moderate; categories natural imagery 22, cosmological entity 16, cosmic element 15, structural term 13, quality/state 11, numerical 10, action/process 9, body/anatomy 4), **20 findings** (1 critical, 7 significant, 4 minor, 8 observation; no "Xradeshahr" in the critical finding), **12 parts, 44 chapters, 10 observations**. The typeset *The Ancient Word* v1.0 and v1.1 (`output/pdfs/`) say **934 paragraphs**, 12 parts, 44 chapters, and place Saklas at §592. The run the document describes is not preserved in the repository. The pipeline has nine stages (Stages 0–8, `scripts/projects/kephalaia/`); the document, which counted them both ways, now says "nine-stage" throughout, while its dependents' "eight-stage" counts Stages 1–8 after ingest (as *The Garment* spells out) and stands. No figure was changed.
+
+**Research Question**:
+1. Is the document's run (110 / 22 / 13 parts / 52 chapters / 886 paragraphs) preserved anywhere — the author's Drive, a local copy, an earlier `output/` state?
+2. If not: restate §§1, 5.3, 7, 8, 9.2, 10 and 11 (and the three dependents above) from the preserved run (100 / 20 / 12 / 44 / 934, with its own § references), or keep the document as the record of the earlier run and say which outputs it reports? Or move to the `kephalaia_v2` pipeline (from the Coptic)?
+
+---
+
 ### [GDR] Verify Kellehear Quote on Social Expectations vs Ineffability
 
 **Target**: `[GDR]`  
@@ -2531,6 +2548,33 @@ Should this document (a) stay as the dated December 2025 report it is, (b) be re
 In *Cosmic Cradle* (2013), do the authors or their informants describe pre-birth memories as a soul's *first* incarnation, or as a return after a long interval? If so, where (chapter/page), and in how many accounts?
 
 **Status**: Open
+
+---
+
+### [NDE] *From Planets to Constellations* §5 — do the qualities of the beings met in spontaneous NDEs match those of the channelled literature?
+
+**Priority**: MEDIUM
+**Related Documents**: `data/02_Swedenborgian_Theology/From Planets to Constellations_ The Outward Migration of Otherworldly Spirits and the Epistemology of Variable Form.md` (§§2.4, 3, 5)
+
+**Context**: The document separates two layers: the contact and channelled literature (forced, inherited, inflated) and unforced experience. A keyword search of the raw NDE narratives (`projects/nde/scripts/star_name_search.py`, structured-data-analysis) finds named stars in nine of 6,768 files, and the beings' star of origin, where present, usually acquired afterwards. The literature's echoes of Swedenborg's planetary qualities (Mars-like love and fellowship at the Pleiades; Jupiter-like wisdom and care of the young at Milanovich's Arcturus) could reflect recurring experience or inherited motif; the literature alone cannot tell which.
+
+**Research Question**: Pre-register a small set of being-qualities (e.g. love/fellowship without rule; teaching through wisdom rather than facts; care of the young; healing) from Swedenborg's planetary descriptions, code them in a random sample of spontaneous NDE encounters and in the channelled texts (Royal & Priest 1989/1992, Milanovich 1990, Marciniak 1992, Stevens 1988), and test whether the qualities co-occur in the same clusters in both. What would count as a miss: the clusters found in the channelled texts do not appear in spontaneous accounts.
+
+**Status**: Open
+
+---
+
+### [NLM] The Apocryphon of John's angel list read from the Coptic — the research opportunity behind *The Unnamed Cartography* §3.8
+
+**Priority**: MEDIUM
+**Full question**: [`docs/research_questions/apj_angel_list_coptic_reading.md`](research_questions/apj_angel_list_coptic_reading.md)
+**Related Documents**: `data/08_Correspondential_Texts/The Unnamed Cartography_ A Systematic Validation of Swedenborgian Body-Part Correspondences Against the 365-Angel List of the Apocryphon of John.md` (§§3.8, 4.5–4.6)
+
+**Context**: *The Unnamed Cartography*'s 43 scored names (42 after the Agromauna correction) were derived from Robinson's English; §3.8 now confirms that text against the Coptic of Codices II and IV. The larger work — deriving the ~30 opaque names from the Coptic, settling the two readings that differ from the English against the facsimiles, collating Codex II with Codex IV, fixing the uncertain body-part words (ⲕⲗⲗⲉ, ⲡⲉⲧ, ⲑⲱⲙⲉ), and extending the comparison to the second list and the rulers — has not been done. *The Letters They Dropped*, which claimed to have done it, was withdrawn on 2026-11-07.
+
+**Research Question**: Does a Coptic-first reading of the whole list, with each name derived from both codices and each body part fixed from Crum, extend the convergence with Swedenborg's body-part correspondences, and does it produce any contradiction? (Pre-registered miss: a newly translatable name whose quality opposes Swedenborg's correspondence for its part.)
+
+**Status**: Partly resolved (2026-11-09) — see the full question file; the two misprinted names are settled, the grade-C names remain open
 
 ---
 

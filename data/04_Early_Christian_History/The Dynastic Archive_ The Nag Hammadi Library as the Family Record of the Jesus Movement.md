@@ -29,7 +29,7 @@ The collection contains:
 - **Alexandrian Christian wisdom** (Teachings of Silvanus) — arguably compatible with mainstream Clementine Christianity
 - **Jamesian authority traditions** (First and Second Apocalypse of James, Apocryphon of James) — rooted in Jewish-Christian Torah observance
 
-Scholars have increasingly acknowledged this problem. Michael A. Williams argued in *Rethinking "Gnosticism"* (1996) that the category should be dismantled entirely as a "dubious category" that obscures rather than illuminates. Karen L. King demonstrated that "Gnosticism" as a unified religion was a construct of ancient heresiologists (Irenaeus, Hippolytus, Epiphanius) adopted uncritically by modern scholars. Hugo Lundhaug and Lance Jenott, in *The Monastic Origins of the Nag Hammadi Codices* (2015), showed that the texts' functional coherence lies not in shared doctrine but in shared *concerns* — the origin of the soul, the overcoming of the passions, and the ascent to the divine — themes that resonate with monastic spirituality regardless of the mythological framework used to express them.
+Scholars have increasingly acknowledged this problem. Michael A. Williams argued in *Rethinking "Gnosticism"* (1996) that the category should be dismantled entirely as a "dubious category" that obscures rather than illuminates. Karen L. King demonstrated that "Gnosticism" is "a term invented in the early modern period to aid in defining the boundaries of normative Christianity," into which modern scholars carried the discourse of orthodoxy and heresy built by early polemicists such as Irenaeus and Tertullian. Hugo Lundhaug and Lance Jenott, in *The Monastic Origins of the Nag Hammadi Codices* (2015), showed that the texts' functional coherence lies not in shared doctrine but in shared *concerns* — the origin of the soul, the overcoming of the passions, and the ascent to the divine — themes that resonate with monastic spirituality regardless of the mythological framework used to express them.
 
 If the collection is not unified by Gnostic doctrine, what *does* unify it? The answer requires looking at a different axis entirely: not what the texts teach, but who they claim speaks.
 
@@ -453,7 +453,7 @@ The Nag Hammadi Library is the community's record of the war fought over their m
 
 16\. Lüdemann, Gerd. *Opposition to Paul in Jewish Christianity*. Minneapolis: Fortress Press, 1989.
 
-17\. Swedenborg, Emanuel. *Arcana Coelestia* §§ 1404–1409, 2576 (on correspondences and the Ancient Word).
+17\. Swedenborg, Emanuel. *Arcana Coelestia* § 1404, § 2686 (on representative history and the Ancient Word).
 
 18\. Thomassen, Einar. *The Spiritual Seed: The Church of the "Valentinians."* Nag Hammadi and Manichaean Studies 60. Leiden: Brill, 2006.
 

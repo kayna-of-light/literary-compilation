@@ -212,9 +212,9 @@ This is not a concession to human weakness but a statement about ontological str
 
 The text continues with a theory of naming that is itself correspondential:
 
-> "Names given to the worldly are very deceptive, for they divert our thoughts from what is correct to what is incorrect. Thus one who hears the word 'God' does not perceive what is correct, but perceives what is incorrect. So also with 'the Father' and 'the Son' and 'the Holy Spirit' and 'life' and 'light' and 'resurrection' and 'the Church' and all the rest."
+> "The names given to the worldly carry a great wandering, for they turn their heart away from what is established toward what is not established. And whoever hears 'God' does not perceive what is established, but has perceived what is not established. So too with 'the Father' and 'the Son' and 'the Holy Spirit' and 'life' and 'light' and 'resurrection' and 'the church' and all the others: they do not perceive what is established, but perceive what is not established" (Gos. Phil. II 53,23–34).
 
-This is a critique of natural-minded reading. The names — God, Father, Son — have been received at the natural level and filled with natural content. The word "God" evokes an image that is "incorrect" not because the word is wrong but because the receiver projects natural concepts (a powerful being, a judge, a king) onto a spiritual reality that exceeds all natural categories. The correspondential reader must learn to receive the name without filling it with natural content — to let the spiritual reality determine the meaning rather than allowing the natural mind to determine it.
+This is a critique of natural-minded reading. The names — God, Father, Son — have been received at the natural level and filled with natural content. The word "God" evokes what is "not established" not because the word is wrong but because the receiver projects natural concepts (a powerful being, a judge, a king) onto a spiritual reality that exceeds all natural categories. The correspondential reader must learn to receive the name without filling it with natural content — to let the spiritual reality determine the meaning rather than allowing the natural mind to determine it.
 
 Philip's farming correspondence provides a systematic example:
 

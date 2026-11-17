@@ -240,7 +240,7 @@ The mechanism is not special parentage but **absence of obstruction**:
 > "A soul through which the Lord flows without obstruction IS the Lord in ultimates. Not because such a soul has achieved something. Not because it has aligned itself through effort. But because the Lord flows through all, and where obstruction is absent, what expresses is the Lord."
 
 Gospel evidence supports this reading:
-- "I can do nothing by myself" (John 5:19) — impossible with inherent omnipotence
+- "By myself I can do nothing" (John 5:30) — impossible with inherent omnipotence
 - "Why do you call me good? No one is good except God alone" (Mark 10:18) — refusing to appropriate divine attributes
 - "My God, my God, why have you forsaken me?" (Mark 15:34) — genuine spiritual desolation, not performance
 - "Not my will, but yours be done" (Luke 22:42) — genuine human will submitting to divine will; if his soul were inherently Divine, no distinction between wills would exist

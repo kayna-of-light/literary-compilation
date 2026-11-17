@@ -203,7 +203,7 @@ This path represents the resistance of the *self* (self-love). Its defining stra
 
 1. **Splitting the Identity:** Separating the man "Jesus" from an impersonal "Christ."  
    * *Theosophy:* Claims Jesus was merely a vehicle for the "Lord Maitreya" or an impersonal "Christos" principle.12  
-   * *The Urantia Book:* Claims Jesus was "Michael of Nebadon," only one of 700,000 "Creator Sons," and explicitly *not* the Eternal Son.12  
+   * *The Urantia Book:* Claims Jesus was "Michael of Nebadon," one of "more than seven hundred thousand" "Creator Sons," and explicitly *not* the Eternal Son.12  
 2. **Changing the Name:** Breaking the link to the "Lord in Ultimates" by renaming the figure.  
    * *Ascended Masters:* Rebrands Jesus as "Sananda," the "Commander-in-Chief" of a flying saucer fleet.12  
    * *Billy Meier:* Claims the true prophet was "Jmmanuel," and the name Jesus is a fraud.12  

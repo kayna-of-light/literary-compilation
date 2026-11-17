@@ -455,7 +455,7 @@ Two is the celestial degree — the direct perception of love and wisdom, the fu
 
 Three is the spiritual degree — the perception of what is above and what is below, the three levels through which everything that exists is received and transformed. In the positive sense, 3 stands for truth. In the opposite sense, 3 stands for falsity.
 
-Five is the rational degree — the five faculties of the human mind (consideration, counsel, insight, thought, mind) that together form the rational principle. And seven is the natural degree — the full creation of the human soul, all three spaces filled with goods and truths in their relative form, in which the Lord rests.
+Five is the rational degree — the five faculties of the human mind (consideration, counsel, teaching, thought, mind) that together form the rational principle. And seven is the natural degree — the full creation of the human soul, all three spaces filled with goods and truths in their relative form, in which the Lord rests.
 
 The number six hundred and sixty-six is not a single quantity. It is a description of a state of being, and every component contributes to the quality.
 

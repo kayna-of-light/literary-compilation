@@ -2578,6 +2578,18 @@ In *Cosmic Cradle* (2013), do the authors or their informants describe pre-birth
 
 ---
 
+### [GDR] *Dancing with Fire* §5.2 — where does "41–43% of Lukan Sondergut absent, 12% of synoptic-parallel material" come from?
+
+**Related Documents**: `data/05_The_Self/Dancing with Fire_ Marcion of Sinope and the Correspondential Key He Never Possessed.md` (§5.2)
+
+**Context**: §5.2 states: "Klinghardt notes that 41–43% of Lukan Sondergut is absent from the *Evangelion* compared to only 12% of synoptic-parallel material." No library document, and nothing in `proto-luke-reconstruction`, carries these figures. The direction of the finding (Lukan single tradition disproportionately absent from Marcion's text, double and triple tradition disproportionately present) is reported for statistical analyses by John Knox (*Marcion and the New Testament*, 1942), Joseph Tyson (*Marcion and Luke-Acts*, 2006) and Daniel A. Smith ("Marcion's Gospel and the Synoptics: Proposals and Problems," in *Gospels and Gospel Traditions in the Second Century*, BZNW 235, De Gruyter 2018, 129–174), not named for Klinghardt. Knox is an archive.org lending item (not readable from the session); Klinghardt 2015/2021 and Smith 2018 are print/paywalled. Searched 2026-11-18: web search for the figures, library and proto-luke grep, Wikipedia's source list.
+
+**Research Question**: Which work gives these percentages (Klinghardt 2015 vol. 1, his 2008 *NovT* article "The Marcionite Gospel and the Synoptic Problem", Knox 1942 ch. on the Gospel, Tyson 2006, or Smith 2018), with page, and are the figures 41–43% and 12% as stated? If the source is not Klinghardt, the sentence's attribution changes to the real author.
+
+**Status**: Open
+
+---
+
 ## AGENT HANDOFF RECOMMENDATIONS
 
 ### @source-tracer

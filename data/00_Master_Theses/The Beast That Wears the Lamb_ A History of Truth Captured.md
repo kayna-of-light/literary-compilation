@@ -731,9 +731,9 @@ The fire does not stop.
 
 8. Bauer, Walter. *Orthodoxy and Heresy in Earliest Christianity.* Trans. Philadelphia Seminar. Fortress Press, 1971. [Originally 1934.]
 9. BeDuhn, Jason David. *The First New Testament: Marcion's Scriptural Canon.* Polebridge Press, 2013.
-10. Klinghardt, Matthias. *Das alteste Evangelium.* 2 vols. Francke Verlag, 2015/2021.
+10. Klinghardt, Matthias. *Das älteste Evangelium und die Entstehung der kanonischen Evangelien.* 2 vols. Texte und Arbeiten zum neutestamentlichen Zeitalter 60. Tübingen: Francke, 2015. English: *The Oldest Gospel and the Formation of the Canonical Gospels.* 2 vols. Biblical Tools and Studies 41. Leuven: Peeters, 2021.
 11. Pagels, Elaine. *The Gnostic Paul: Gnostic Exegesis of the Pauline Letters.* Fortress Press, 1975.
-12. Harnack, Adolf von. *Marcion: Das Evangelium vom Fremden Gott.* Leipzig, 1920. English: Labyrinth Press, 1990.
+12. Harnack, Adolf von. *Marcion: Das Evangelium vom fremden Gott.* Leipzig: J. C. Hinrichs, 1921; 2nd ed. 1924. English: *Marcion: The Gospel of the Alien God.* Translated by John E. Steely and Lyle D. Bierma. Durham, NC: Labyrinth Press, 1990.
 13. Williams, Michael A. *Rethinking "Gnosticism."* Princeton University Press, 1996.
 14. King, Karen L. *What Is Gnosticism?* Harvard University Press, 2003.
 15. Charles, R. H. *A Critical and Exegetical Commentary on the Revelation of St. John.* 2 vols. T&T Clark, 1920.

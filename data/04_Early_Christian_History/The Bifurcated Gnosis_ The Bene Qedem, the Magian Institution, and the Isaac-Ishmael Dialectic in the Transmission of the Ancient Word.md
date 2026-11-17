@@ -81,7 +81,7 @@ This is "Astrological Determinism." The Magi, utilizing the *Enuma Anu Enlil* (i
 
 ### **4.3 The Political Function: The King-Makers**
 
-The institutionalization of this wisdom granted the Magi immense political power. In the Parthian Empire, the Magi formed one house of the *Megistanes* (Supreme Council) and were constitutionally empowered as "King-Makers".19 Their "science" of reading celestial omens was not a private religious practice but a matter of state security. They vetted the legitimacy of monarchs based on their *Khvarenah* (Divine Glory), determined by their alignment with the cosmic correspondences of *Asha*.19
+The institutionalization of this wisdom granted the Magi immense political power. In the Parthian Empire, the Magi, with the wise men, formed one of the two groups of the Council of the Parthians, "from both of which groups the kings were appointed" (Strabo, *Geog.* 11.9.3), and were constitutionally empowered as "King-Makers".19 Their "science" of reading celestial omens was not a private religious practice but a matter of state security. They vetted the legitimacy of monarchs based on their *Khvarenah* (Divine Glory), determined by their alignment with the cosmic correspondences of *Asha*.19
 
 Thus, the fluid, nature-based wisdom of the *Bene Qedem*—which Job used to question God—was appropriated by the Magi to **legitimize** earthly power structures. The "Wise Men from the East" were not merely philosophers; they were political architects whose "science" dictated the rise and fall of kings.
 

@@ -58,7 +58,7 @@ Swedenborg's primary interpretive framework maps the statue's metals to **succes
 
 - **Gold** = Celestial good (love to the Lord, innocence, internal respiration, direct perception of spiritual causes)
 - **Silver** = Spiritual truth (charity toward neighbor, conscience, faith illuminated by charity)
-- **Bronze** = Natural good (moral rectitude, external justice, obedience to law without internal alignment)
+- **Bronze** = Natural good ("the good of the external or natural man," AE 176: moral rectitude, external justice)
 - **Iron** = Natural truth (literal/external understanding, truth in ultimates but without internal good)
 - **Clay** = Falsity from self-intelligence (the self's distortion, doctrine falsified by self-love)
 
@@ -651,7 +651,7 @@ This thesis operates within the two-tiered hermeneutic framework established by 
 **Internal Library Documents:**
 
 10. [A Library of Biblical Correspondences in Nature and Objects According to Emanuel Swedenborg](A%20Library%20of%20Biblical%20Correspondences%20in%20Nature%20and%20Objects%20According%20to%20Emanuel%20Swedenborg.md). The correspondences of the metals, stone and clay, with their Swedenborg loci.
-11. [Conversation relating the Fourth Church - The New Jerusalem](Conversation%20relating%20the%20Fourth%20Church%20-%20The%20New%20Jerusalem.md). The four churches and the New Church after the Last Judgment of 1757, the source for the iron-clay as the Christian church's character from its inception.
+11. [Conversation relating the Fifth Church - The New Jerusalem](Conversation%20relating%20the%20Fifth%20Church%20-%20The%20New%20Jerusalem.md). The four churches and the New Church after the Last Judgment of 1757, the source for the iron-clay as the Christian church's character from its inception.
 12. [Epistle — The Divine Marriage and the Expression of the Lord in Ultimates](../00_Framework/Epistle%20%E2%80%94%20The%20Divine%20Marriage%20and%20the%20Expression%20of%20the%20Lord%20in%20Ultimates.md). The Lord expressing through the unobstructed soul, and the distinction between receiving and claiming (§6.4).
 13. [The Heart of the Matter: A New Church Founded on Love](../00_Framework/The%20Heart%20of%20the%20Matter_%20A%20New%20Church%20Founded%20on%20Love.md). The statue applied to the fourth church and the New Jerusalem; the stone as the end of externalization.
 14. [Pure Encounter or Cultural Construct? An Analysis of the Identification of Jesus in Near-Death Experiences](../01_Consciousness_Studies/Pure%20Encounter%20or%20Cultural%20Construct%20An%20Analysis%20of%20the%20Identification%20of%20Jesus%20in%20Near-Death%20Experiences.md). The constant encounter and the culturally mediated name, with the statistics cited in §5.5.

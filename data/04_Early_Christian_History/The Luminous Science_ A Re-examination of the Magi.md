@@ -59,14 +59,11 @@ The events described in the Gospel of Matthew represent the perfect alignment of
 
 #### **The Celestial Sign: A Divine Message in the Heavens**
 
-The "star" that guided the Magi was the ultimate physical correspondence. Scholarly astronomical analysis points to a rare triple conjunction of Jupiter and Saturn in the constellation of Pisces in 7 BCE as the likely historical event. Within the Science of Correspondences, this was not an omen to be interpreted but a divine sentence to be read:
+The "star" that guided the Magi was the ultimate physical correspondence. Astronomers point to a rare triple conjunction of Jupiter and Saturn in the constellation of Pisces in 7 BCE as a possible natural occasion (Betz 2023). The Magi did not need to decode planets. Among some in the east there remained the knowledge of the ancients, "which consisted in understanding and seeing heavenly and Divine things in those which are in the world"; they "knew from their prophetic writings, which were of the ancient church," that the Lord was to come into the world and that a star would then appear to them, as Balaam, "one of the sons of the east," had prophesied (Num 24:17); and "a 'star' signifies the knowledges of internal good and truth, which are from the Lord" (*Arcana Coelestia* §9293:3).
 
-* **A Star:** In the highest sense, a star corresponds to the knowledge of goodness and truth that leads to the Lord.  
-* **Jupiter:** The "King" planet, corresponding to the principle of celestial love and kingship.  
-* **Saturn:** The planet corresponding to the Jewish people and their religious tradition.  
-* **Pisces:** The constellation that Jewish astrologers tied to the fortunes of Israel (Brown 2020).
+* **A Star:** In the highest sense, a star corresponds to the knowledge of goodness and truth that leads to the Lord.
 
-The conjunction was a divine message in the universal language of correspondences, stating that a King (Jupiter) of the Jews (Saturn), who embodied the highest truth, was born under the sign tied to Israel's fate (Pisces). The Magi's journey "from the east" was also a correspondence. The east, being the direction of the sunrise, corresponds to a state of love and goodness (*Heaven and Hell* §150). Their travel westward was a spiritual progression from a state of knowing about the Lord to a state of being present with Him.
+The sign in the heavens and the birth on earth were linked because both expressed one spiritual event, the knowledges of good and truth leading to the Lord at His coming into the world, not because one encoded the other. The star went before them and came to rest over the place where the child was (Matt 2:9), as the knowledges it corresponds to lead to the Lord. The Magi's journey "from the east" was also a correspondence. The east, being the direction of the sunrise, corresponds to a state of love and goodness (*Heaven and Hell* §150). Their travel westward was a spiritual progression from a state of knowing about the Lord to a state of being present with Him.
 
 #### **The Gifts: A Complete Theological Acknowledgement**
 

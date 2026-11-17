@@ -72,14 +72,11 @@ The author of Matthew writes *as* a Magus. He assumes this "Science of Correspon
 
 The "notions... in relation to Jupiter" refer to the triple conjunction of Jupiter and Saturn in Pisces in 7 BCE. This event is the most plausible *raw material* for the star narrative, but the thesis under examination is correct to view the claim that this *caused* the visit as "misleading."
 
-* **The Astronomic Facts:** In 7 BCE, Jupiter (the King planet) met Saturn (linked with the Jews through the Sabbath, Saturn's day; Tacitus, *Hist.* 5.4) three times in the constellation of Pisces (Betz 2023), a sign that medieval Jewish astrologers tied to the fortunes of Israel (Brown 2020).  
-* **The Interpretive Grid:** Under the "Science of Correspondences":  
-  * **Jupiter** \= King.  
-  * **Saturn** \= The West / Judea.  
-  * **Pisces** \= The New Beginning.  
-  * **Synthesis:** "A King is born in Judea to inaugurate the New Age."
+* **The Astronomic Facts:** In 7 BCE, Jupiter and Saturn met three times in the constellation of Pisces (Betz 2023).  
+* **What the Grid Cannot Carry:** The planet-by-planet reading built on the event (Jupiter = King, Saturn = Judea, Pisces = the Hebrews or the new age) rests on associations no source places with first-century Magi: Saturn was tied to the Jews by Roman observers through the Sabbath, Saturn's day (Tacitus, *Hist.* 5.4), and Pisces to Israel's fortunes only in medieval Jewish astrology, where a conjunction there portended calamity (Brown 2020). A code of that kind is not correspondence; it is what the science of correspondences became when "the good of life ceased" and "it was turned into magic" (*Arcana Coelestia* §10252:6).  
+* **The Correspondence:** In Swedenborg's reading of Matthew 2, they "knew from their prophetic writings, which were of the ancient church," that the Lord was to come into the world and that a star would then appear to them, as Balaam, "one of the sons of the east," had prophesied (Num 24:17); and "a 'star' signifies the knowledges of internal good and truth, which are from the Lord" (*Arcana Coelestia* §9293:3). The sign in the heavens and the birth on earth were linked because both expressed one spiritual event, the knowledges of good and truth leading to the Lord at His coming into the world, not because one encoded the other.
 
-However, the text of Matthew describes a star that behaves in physically impossible ways: it "went before them until it came to rest over the place where the child was" (Matt 2:9). A planetary conjunction does not beam a spotlight onto a specific house. This betrays the genre. It is a **literary star**, guided by the "Science of Correspondences" to make a theological point: that the cosmos itself aligned to declare the glory of the incarnation. The author likely *retrojected* the significance of the 7 BCE conjunction (which would have been remembered as a sign of the "Golden Age") to frame Jesus's birth, enhancing it with miraculous behavior to ensure the reader understood this was divine guidance, not just luck.
+However, the text of Matthew describes a star that behaves in physically impossible ways: it "went before them until it came to rest over the place where the child was" (Matt 2:9). A planetary conjunction does not beam a spotlight onto a specific house. This betrays the genre. It is a **literary star**, guided by the "Science of Correspondences" to make a theological point: that the cosmos itself aligned to declare the glory of the incarnation. The author likely *retrojected* the significance of the 7 BCE conjunction to frame Jesus's birth, enhancing it with miraculous behavior to ensure the reader understood this was divine guidance, not just luck.
 
 ### **3.3 Daniel and the "Rab-signīn" Bridge**
 
@@ -156,7 +153,7 @@ What remains is to resolve this struggle and to show what is most likely to have
 5. **The Composition (The Bricolage):**  
    * The author adopts the **Tiridates** model: "Kings from the East worship the Ruler."  
    * He inverts the object: They worship Jesus, not Nero.  
-   * He employs the **Science of Correspondences** (Jupiter/Saturn 7 BCE memories or astronomical tables) to provide the "Star" mechanism.  
+   * He employs the **Science of Correspondences**—Balaam's star (Num 24:17), the knowledges of good and truth that lead to the Lord—to provide the "Star" mechanism.  
    * He integrates the **Balaam** and **Moses** traditions to anchor the story in Torah.  
    * He uses the **Danielic** bridge (Daniel's *Rab-signīn* role as Chief Prefect over the wise men) to authorize the Magi's presence.
 

@@ -2,7 +2,7 @@
 
 ## **Part I: The "Suffocation" and the Promise of a New Morning**
 
-This exploration delves into the theological entity known as the "Fourth Church," or the New Jerusalem (*Conversation relating the Fourth Church*). Its existence is a direct spiritual answer to the "suffocation" and "darkness" characteristic of a consummated age.
+This exploration delves into the theological entity known as the fifth church, or the New Jerusalem — the church that "must follow these four" (*True Christian Religion* §786; *Conversation relating the Fifth Church*). Its existence is a direct spiritual answer to the "suffocation" and "darkness" characteristic of a consummated age.
 
 This New Church is not just a new institution, but a new era of spiritual life. Its establishment was made possible only by the "consummation," or the definitive end, of the former Christian Church (*Last Judgment* §46; *True Christian Religion* §§753–757). That preceding church had reached a terminal state described as "evening and nighttime"—a spiritual condition where the "longing for good," genuine faith, and true, loving charity had been lost (*Arcana Coelestia* §9207; *Apocalypse Revealed* §151).
 
@@ -12,7 +12,7 @@ The great turning point was a spiritual event, not a physical one, called the La
 
 This metaphysical event—the Last Judgment of 1757—is what *makes the New Church possible*. It restored spiritual equilibrium and, most importantly, reopened a full and direct communication between heaven and earth, allowing the "light" to shine through again (*Last Judgment* §45; *Apocalypse Revealed* §877).
 
-This leads to a simple, beautiful re-understanding of "the coming of the Lord." This "coming" is not a physical return, but the *revelation of the internal sense of the Word* (*True Christian Religion* §776; *Apocalypse Explained* §36). It is the "light" of new understanding. The internal meaning of Revelation, which had been hidden, is now revealed specifically to assist in the establishment of this New Church (*Apocalypse Revealed* §877). Because this revelation of the internal sense *is* the very means by which the New Church exists, the "coming of the Lord" is understood to have already taken place (*Conversation relating the Fourth Church*).
+This leads to a simple, beautiful re-understanding of "the coming of the Lord." This "coming" is not a physical return, but the *revelation of the internal sense of the Word* (*True Christian Religion* §776; *Apocalypse Explained* §36). It is the "light" of new understanding. The internal meaning of Revelation, which had been hidden, is now revealed specifically to assist in the establishment of this New Church (*Apocalypse Revealed* §877). Because this revelation of the internal sense *is* the very means by which the New Church exists, the "coming of the Lord" is understood to have already taken place (*Conversation relating the Fifth Church*).
 
 This New Church is not established instantly. It begins "at first be among a few, and... successively increase among many" (*Apocalypse Revealed* §547). This gradual process is necessary because the false ideas of the former church—the "thorns" that cause the "suffocation"—must first be seen, understood, and removed (*Apocalypse Revealed* §547).
 
@@ -37,7 +37,7 @@ To understand this "suffocation," the book of Daniel provides a prophetic vision
 
 ### **Section 2.1: The Statue: The Story of a Heart's Decline**
 
-The vision of the statue (Daniel 2\) describes the "successive states of the church" (*Apocalypse Explained* §176). Crucially, the sources emphasize that all previous churches are "intrinsically linked to each other" because the statue is described as "a man" (*Conversation relating the Fourth Church*). This represents a single, continuous spiritual body, whose life (its "longing") diminishes as it descends from the head to the feet. This progression maps the church's spiritual "life" as it moves from its inmost "longing" (love) down to its most external, lifeless state (empty ritual) (*Apocalypse Explained* §176).
+The vision of the statue (Daniel 2\) describes the "successive states of the church" (*Apocalypse Explained* §176). Crucially, the sources emphasize that all previous churches are "intrinsically linked to each other" because the statue is described as "a man" (*Conversation relating the Fifth Church*). This represents a single, continuous spiritual body, whose life (its "longing") diminishes as it descends from the head to the feet. This progression maps the church's spiritual "life" as it moves from its inmost "longing" (love) down to its most external, lifeless state (empty ritual) (*Apocalypse Explained* §176).
 
 This spiritual degradation is detailed through the correspondence of the four materials of the statue (*Apocalypse Explained* §§176, 411):
 
@@ -48,7 +48,7 @@ This spiritual degradation is detailed through the correspondence of the four ma
   * **Iron (Iron):** This corresponds to natural truth, specifically the truth of the Word in its literal sense (*Apocalypse Explained* §§176, 411).  
   * **Clay (Clay):** This corresponds to falsity, specifically **"falsity from self-intelligence"** (*Apocalypse Explained* §177).
 
-The final state of the Christian Church is this "suffocating" mixture of iron and clay. It *had* the Word (the "iron"), but it destroyed its life by mixing it with the "clay" of human "self-intelligence." This "falsity from self-intelligence" *is* the "faith alone" doctrine and the "pride" that confirms it (*Conversation relating the Fourth Church*). It is what takes the living truths of the Word and *perverts* them, creating "truth in the Word and falsity in doctrine" (*Apocalypse Explained* §176)—a world of external knowledge devoid of internal love.
+The final state of the Christian Church is this "suffocating" mixture of iron and clay. It *had* the Word (the "iron"), but it destroyed its life by mixing it with the "clay" of human "self-intelligence." This "falsity from self-intelligence" *is* the "faith alone" doctrine and the "pride" that confirms it (*Conversation relating the Fifth Church*). It is what takes the living truths of the Word and *perverts* them, creating "truth in the Word and falsity in doctrine" (*Apocalypse Explained* §176)—a world of external knowledge devoid of internal love.
 
 This entire progression, from the "gold" of pure love to the "clay" of proud, loveless "self-intelligence," illustrates the complete decay of the church's spiritual heart (*Apocalypse Explained* §176).
 
@@ -67,9 +67,9 @@ Into this scene of total spiritual "suffocation," a new element is introduced: t
 
 The "stone" signifies the Lord, specifically the Lord "by means of Divine truth" (*Apocalypse Explained* §176). The Lord is called the "stone of Israel," and the stone is explicitly identified as the "Divine truth upon which heaven and the church are founded." This stone, therefore, signifies the Lord in His Divine Human, the source of all Divine truth (*Apocalypse Explained* §§176, 411, 417).
 
-Crucially, the stone is *not* just the next part of the statue. The statue represents the *human reception* of the Divine, which is fallible and decays over time (*Conversation relating the Fourth Church*). The stone, "cut out of the rock" (not made by human hands), represents **pure Divine Truth itself**, revealed directly by the Lord (*Apocalypse Explained* §411). Its appearance signifies the end of churches based on human "self-intelligence" (the statue), and the beginning of a church based on the *internal truth itself* (the stone).
+Crucially, the stone is *not* just the next part of the statue. The statue represents the *human reception* of the Divine, which is fallible and decays over time (*Conversation relating the Fifth Church*). The stone, "cut out of the rock" (not made by human hands), represents **pure Divine Truth itself**, revealed directly by the Lord (*Apocalypse Explained* §411). Its appearance signifies the end of churches based on human "self-intelligence" (the statue), and the beginning of a church based on the *internal truth itself* (the stone).
 
-The action of the stone—"smiting and shattering the image"—is a direct symbolic representation of the Last Judgment (*Apocalypse Explained* §176). The "shattering" is the *breaking* of the "falsified external notions" and "dire persuasions of falsity" that constituted the former church (*Conversation relating the Fourth Church*). It is the "true inner truth of the Word" (the stone) shattering "all external notions" (the statue) (*Conversation relating the Fourth Church*). This judgment is necessary because all the ideas linked to the previous churches are, in themselves, "fallible" and lead to an "incorrect interpretation of actual truth" when their internal life—their "longing"—is lost (*Conversation relating the Fourth Church*).
+The action of the stone—"smiting and shattering the image"—is a direct symbolic representation of the Last Judgment (*Apocalypse Explained* §176). The "shattering" is the *breaking* of the "falsified external notions" and "dire persuasions of falsity" that constituted the former church (*Conversation relating the Fifth Church*). It is the "true inner truth of the Word" (the stone) shattering "all external notions" (the statue) (*Conversation relating the Fifth Church*). This judgment is necessary because all the ideas linked to the previous churches are, in themselves, "fallible" and lead to an "incorrect interpretation of actual truth" when their internal life—their "longing"—is lost (*Conversation relating the Fifth Church*).
 
 This reveals a profound, unified spiritual event, described by three different symbolic expressions:
 
@@ -78,7 +78,7 @@ This reveals a profound, unified spiritual event, described by three different s
 3. **The Last Judgment** (The "shattering" of the old, false, "clay" structures; *Apocalypse Explained* §176) which *enables*  
 4. **The New Jerusalem** (The "great rock" that forms a new, permanent foundation).
 
-The stone "rolling," signifying a "gradual revealment," aligns with the gradual establishment of the New Church (*Conversation relating the Fourth Church*; *Apocalypse Revealed* §547). Its final state, becoming a "great rock" that "filled the whole earth," signifies that the Lord, by means of this revealed Divine truth, is to rule over a new, universal, and enduring heaven and church (*Apocalypse Explained* §411). This New Church is thus "not bounded to the flow of churches as before but standing on its own grounded in the full truth of the Lord" (*Conversation relating the Fourth Church*).
+The stone "rolling," signifying a "gradual revealment," aligns with the gradual establishment of the New Church (*Conversation relating the Fifth Church*; *Apocalypse Revealed* §547). Its final state, becoming a "great rock" that "filled the whole earth," signifies that the Lord, by means of this revealed Divine truth, is to rule over a new, universal, and enduring heaven and church (*Apocalypse Explained* §411). This New Church is thus "not bounded to the flow of churches as before but standing on its own grounded in the full truth of the Lord" (*Conversation relating the Fifth Church*).
 
 ## **Part III: The "Open" Heart vs. The "Closed" Heart**
 
@@ -90,10 +90,10 @@ This framework answers this, not with "scholarly" language, but with a deep, spi
 
 The documents state that the angels have "slender hope of the men of the Christian church" but "much of some nation far distant from the Christian world" (*Last Judgment* §74). This leads to the statement that the New Church is established with the "Gentiles" (*Arcana Coelestia* §2986).
 
-This is where the "simple" truth is so important. This is *not* about a physical location or a non-Christian religion. "Gentiles" or "nations" is a *spiritual term* for an *internal state of the heart* (*Conversation relating the Fourth Church*).
+This is where the "simple" truth is so important. This is *not* about a physical location or a non-Christian religion. "Gentiles" or "nations" is a *spiritual term* for an *internal state of the heart* (*Conversation relating the Fifth Church*).
 
 * "Nations" (or Gentiles) means "those who are in the **good of love**... and in an abstract sense goods." They are "all who are in the **good of life**, and believe in the Lord" (*Apocalypse Explained* §1020; *Apocalypse Revealed* §920).  
-* They are "people of all religions" who possess an **"affection for truth, but who are not in truths yet"** (*Conversation relating the Fourth Church*). This is the very "deep profound longing" that defines this internal state.
+* They are "people of all religions" who possess an **"affection for truth, but who are not in truths yet"** (*Conversation relating the Fifth Church*). This is the very "deep profound longing" that defines this internal state.
 
 The *reason* the New Church is established with those in this "Gentile" state is the key. They are receptive because "they have **no principles of falsity contrary to the truths of faith**, for they are ignorant of these truths" (*Arcana Coelestia* §2986).
 
@@ -105,14 +105,14 @@ This redefines the "church" itself. The Lord’s church is universal: it "is eve
 
 ### **Section 3.2: The "Closed" Heart (The "Learned")**
 
-In stark contrast to the "open" heart stands the "learned" class of the former Christian church. This is the "everyone around me" of a consummated age. This group is defined by the very "knowledge" that makes them, paradoxically, *incapable* of receiving new truths (*Conversation relating the Fourth Church*).
+In stark contrast to the "open" heart stands the "learned" class of the former Christian church. This is the "everyone around me" of a consummated age. This group is defined by the very "knowledge" that makes them, paradoxically, *incapable* of receiving new truths (*Conversation relating the Fifth Church*).
 
-This is the state of **"scholarly blindness"** (*Conversation relating the Fourth Church*).
+This is the state of **"scholarly blindness"** (*Conversation relating the Fifth Church*).
 
-* Those in the former church "perceive themselves as being rich with knowledge and truth" (*Conversation relating the Fourth Church*).  
+* Those in the former church "perceive themselves as being rich with knowledge and truth" (*Conversation relating the Fifth Church*).  
 * They are in the "pride of **self-intelligence** (*selfhood*) and **love of self**," a state in which they "**close the deeper levels of their minds**" and their "intellectual faculty" is "**covered up and blotted out** by the evils of one's own love" (*Apocalypse Explained* §§454, 998; *Heaven and Hell* §464).  
 * This is the "how" of the "suffocation." Having developed only their "skill in argumentation"—"an ability to prove anything one pleases"—their intellect is no longer a tool for *perceiving* truth but a *weapon* for *defending* their pre-existing false principles. They "see false things rather than true ones" (*Heaven and Hell* §464).  
-* They are the "rich" for whom it is impossible to pass through the "eye of the needle," because they "reject everything that strips them of this knowledge" (*Conversation relating the Fourth Church*). Many of the learned who deny the Divine are "atheists at heart" and "more insane in spiritual things, than the simple" (*Arcana Coelestia* §9394; *New Jerusalem and Its Heavenly Doctrine* §51).
+* They are the "rich" for whom it is impossible to pass through the "eye of the needle," because they "reject everything that strips them of this knowledge" (*Conversation relating the Fifth Church*). Many of the learned who deny the Divine are "atheists at heart" and "more insane in spiritual things, than the simple" (*Arcana Coelestia* §9394; *New Jerusalem and Its Heavenly Doctrine* §51).
 
 This intellectual pride is *inseparable* from the "faith alone" doctrine. That doctrine *is* the "self-intelligence" of the "clay" in its theological form. It allows an individual to *believe* they are "rich and increased in goods" (an intellectual act) while remaining spiritually "wretched and miserable and poor and blind and naked" (a life without love) (Rev 3:17; *Apocalypse Revealed* §206).
 
@@ -150,7 +150,7 @@ At the moment of its end, the church is entrusted *by the Lord Himself* to the "
 
 ## **Part V: Conclusion: The Restoration of Love**
 
-The "Fourth Church" is not a new building, but a *new spiritual paradigm* for humanity (*True Christian Religion* §784).
+The fifth church is not a new building, but a *new spiritual paradigm* for humanity (*True Christian Religion* §784).
 
 This paradigm was initiated by a definitive, causal event: the Last Judgment, executed in the spiritual world in 1757 (*Last Judgment* §45). This judgment was the *shattering* (prefigured by the "stone" of Daniel's prophecy; *Apocalypse Explained* §176) of the "external notions" and "dire persuasions of falsity" that had defined the "suffocated" Christian Church (the "statue" of iron and clay).
 
@@ -158,9 +158,9 @@ The New Church is defined by its shift from an *external* church, based on the *
 
 Its "two essentials"—the acknowledgment of the Lord and a life of love (*Apocalypse Revealed* §494)—are the spiritual and practical *antidote* to the "faith alone" doctrine that consummated the prior age. All the core symbols of the New Church, including "Mount Zion" (love), "Jerusalem" (doctrine from love), the "144,000" (the conjunction of truth and good) (*Apocalypse Revealed* §612), and the entrusting of the "church" (Mary) to "charity" (John) (*Apocalypse Explained* §9), reinforce this new, inseparable conjunction.
 
-Finally, the establishment of this church is gradual ("at first be among a few"; *Apocalypse Revealed* §547) and its reception is determined by the *state of the heart*, not external affiliations. It is rejected by the "learned" who are in the "pride of self-intelligence" and "scholarly blindness"—a "closed" state created and defended by the "faith alone" doctrine (*Conversation relating the Fourth Church*).
+Finally, the establishment of this church is gradual ("at first be among a few"; *Apocalypse Revealed* §547) and its reception is determined by the *state of the heart*, not external affiliations. It is rejected by the "learned" who are in the "pride of self-intelligence" and "scholarly blindness"—a "closed" state created and defended by the "faith alone" doctrine (*Conversation relating the Fifth Church*).
 
-It is, and always will be, received by the "Gentiles" or "nations"—a *universal internal state* signifying all those "in the good of love" and "good of life," "people of all religions" (*Conversation relating the Fourth Church*) whose internals are "open" (*Arcana Coelestia* §9256) and who have always had that simple, profound, and "intrinsic feeling": a "longing for good" that is now, finally, "breaking free."
+It is, and always will be, received by the "Gentiles" or "nations"—a *universal internal state* signifying all those "in the good of love" and "good of life," "people of all religions" (*Conversation relating the Fifth Church*) whose internals are "open" (*Arcana Coelestia* §9256) and who have always had that simple, profound, and "intrinsic feeling": a "longing for good" that is now, finally, "breaking free."
 
 ## Works Cited
 
@@ -176,4 +176,4 @@ It is, and always will be, received by the "Gentiles" or "nations"—a *universa
 
 **Internal Library Documents:**
 
-8. [Conversation relating the Fourth Church - The New Jerusalem](../02_Swedenborgian_Theology/Conversation%20relating%20the%20Fourth%20Church%20-%20The%20New%20Jerusalem.md). The source conversation from which this document was written: the reading of Daniel's statue as one linked body, the stone as the shattering of external notions, and the "Gentiles" as an internal state rather than a location.
+8. [Conversation relating the Fifth Church - The New Jerusalem](../02_Swedenborgian_Theology/Conversation%20relating%20the%20Fifth%20Church%20-%20The%20New%20Jerusalem.md). The source conversation from which this document was written: the reading of Daniel's statue as one linked body, the stone as the shattering of external notions, and the "Gentiles" as an internal state rather than a location.

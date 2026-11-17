@@ -18,7 +18,7 @@ The framework posits that human consciousness has devolved through specific phas
 
 * **The Golden Age (Most Ancient Church):** Characterized by "Perception." This was an intuitive, synthetic faculty where the individual possessed "internal respiration" and direct contact with the spiritual world. In this state, there was no separation between the Will and the Understanding. To see a natural object (e.g., a mountain) was to instantly perceive its spiritual cause (Celestial Good).2  
 * **The Epistemological Fracture (The Fall):** This event, visualized at Göbekli Tepe, marked the separation of the Will and the Understanding. The "internal way" was closed to prevent the corruption of the spirit by the selfhood (*selfhood*).  
-* **The Silver/Iron Ages (The Magian/Scribal Phase):** Truth could no longer be perceived directly. It had to be learned via "Doctrine" and "Science" (*Listenwissenschaft*). The direct perception of correspondence became the "Science of Correspondences"—a codified system of lists and laws used to map the Divine Mind.3
+* **The Silver Age (The Magian/Scribal Phase):** Truth could no longer be perceived directly. It had to be learned via "Doctrine" and "Science" (*Listenwissenschaft*). The direct perception of correspondence became the "Science of Correspondences"—a codified system of lists and laws used to map the Divine Mind.3
 
 ### **1.2 Leonardo and the Florentine Transmission**
 

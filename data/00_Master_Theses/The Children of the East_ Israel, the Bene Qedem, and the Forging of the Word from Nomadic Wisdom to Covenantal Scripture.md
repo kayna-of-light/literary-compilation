@@ -814,7 +814,7 @@ From desert to scripture. From perception to law. From the Children of the East 
 10. Von Petzinger, Genevieve. *The First Signs: Unlocking the Mysteries of the World's Oldest Symbols*. New York: Atria Books, 2016.
 11. Kelly, Lynne. *The Memory Code: The Secrets of Stonehenge, Easter Island and Other Ancient Monuments*. New York: Pegasus Books, 2017.
 12. El-Baz, Farouk. "A River in the Desert." *Discover* 14 (1993): 32–38. [Pishon paleo-river satellite imaging]
-13. Harnack, Adolf von. *Marcion: Das Evangelium vom Fremden Gott*. Leipzig, 1920.
+13. Harnack, Adolf von. *Marcion: Das Evangelium vom fremden Gott*. Leipzig: J. C. Hinrichs, 1921.
 14. Lévi-Strauss, Claude. *The Savage Mind*. Chicago: University of Chicago Press, 1966. [On bricolage]
 15. Halbwachs, Maurice. *On Collective Memory*. Chicago: University of Chicago Press, 1992.
 16. Douglas, Mary. *Purity and Danger: An Analysis of Concepts of Pollution and Taboo*. London: Routledge, 1966.

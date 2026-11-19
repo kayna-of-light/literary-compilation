@@ -308,7 +308,7 @@ Ancient cultures separated by geography and centuries produced remarkably simila
 **Zoroastrianism** (c. 1000 BCE):
 - Saoshyant ("one who brings benefit")—archetype of pure love and truth
 - Virgin birth from Zoroaster's preserved seed
-- Preceding celestial sign
+- Celestial sign (the sun standing still thirty days when he is thirty)
 - Defeats Angra Mainyu (cosmic evil)
 - Brings Frashokereti (world renovation)
 

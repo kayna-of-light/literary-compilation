@@ -41,7 +41,7 @@ This is the era of the biblical kings, from David and Solomon to the destruction
 This period covers the return from exile and the Maccabean revolt.
 
 * **What to look for:** Maps of the Persian imperial province system and the successor kingdoms of Alexander the Great.  
-* **Scientific Perspective:** Archaeology and Persian administrative documents confirm that "Judah" was a small province within the Persian Empire known as **Yehud Medinata**. Later, during the Hellenistic period, the region was caught in the conflict between the Ptolemaic (Egyptian-based) and Seleucid (Syrian-based) empires.  
+* **Scientific Perspective:** Archaeology and Persian administrative documents confirm that "Judah" was a small province within the Persian Empire known as **Yehud Medinta**. Later, during the Hellenistic period, the region was caught in the conflict between the Ptolemaic (Egyptian-based) and Seleucid (Syrian-based) empires.  
 * **Representative Map:** Two maps are key here:  
   1. The Persian province of **Yehud**, showing its small size relative to its neighbors like Samaria.  
   2. The **Hasmonean Kingdom** under rulers like Alexander Jannaeus (c. 100 BCE), showing its dramatic expansion based on historical sources like Josephus and archaeological evidence of fortifications.

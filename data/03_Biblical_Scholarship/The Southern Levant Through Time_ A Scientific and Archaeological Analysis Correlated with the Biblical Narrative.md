@@ -215,7 +215,7 @@ This era details the political fortunes of Judea following the Babylonian Exile.
 
 ### **Yehud Medinata: Life as a Persian Province**
 
-Following the conquest of Babylon by Cyrus the Great in 539 BCE, the Achaemenid Persian Empire reconstituted the former kingdom of Judah as a small province. Known in official Aramaic as *Yehud Medinata* (the province of Judah), it was a subdivision within the larger satrapy of "Beyond-the-River" (Eber-Nari).  
+Following the conquest of Babylon by Cyrus the Great in 539 BCE, the Achaemenid Persian Empire reconstituted the former kingdom of Judah as a small province. Known in official Aramaic as *Yehud Medinta* (the province of Judah), it was a subdivision within the larger satrapy of "Beyond-the-River" (Eber-Nari).  
 Archaeology confirms the modest scale of the province. Persian-period Jerusalem was a small city, with an estimated population of only about 1,500 people, and the bulk of the population lived in small, unwalled villages. The material culture reflects a struggling, primarily agricultural society. Administrative evidence, however, points to a degree of local autonomy under a Persian-appointed governor. This includes a large number of pottery jars stamped with the name "Yehud" and the emergence of a local mint striking small silver coins. This archaeological picture of a small, dependent province struggling to rebuild provides the direct historical context for the biblical books of Ezra and Nehemiah, which describe the return from exile and the rebuilding of the Temple and the walls of Jerusalem under Persian imperial authority.
 
 ### **Caught in the Middle: The Ptolemaic-Seleucid Conflict**

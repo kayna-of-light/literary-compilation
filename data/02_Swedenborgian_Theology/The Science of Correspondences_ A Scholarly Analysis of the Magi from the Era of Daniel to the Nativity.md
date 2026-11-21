@@ -74,7 +74,7 @@ The most critical features of the Saoshyant prophecy include:
 
 1. **A Miraculous Virgin Birth:** The Saoshyant was to be born of a maiden who had "not associated with men". This virgin mother, given the symbolic name Eredat-fedhri ("Victorious Helper"), would conceive the savior in a miraculous fashion.  
 2. **Conception from the Seed of Zoroaster:** The prophecy holds that the seed of the prophet Zoroaster himself was miraculously preserved in the waters of a sacred lake, identified as Lake Kansaoya. The virgin would become pregnant by bathing in this lake, thus making the Saoshyant a direct physical descendant of the original prophet, a detail that underscores the profound Zoroastrian respect for lineage.  
-3. **A Preceding Celestial Sign:** The arrival of the Saoshyant would be heralded by a great cosmic sign in the heavens. One text describes the sun standing still in the sky for thirty days when the savior reaches the age of thirty, announcing his identity to the world. This established a clear link between a unique celestial event and the appearance of the savior.  
+3. **A Celestial Sign:** The arrival of the Saoshyant would be marked by a great cosmic sign in the heavens. One text describes the sun standing still in the sky for thirty days when the savior reaches the age of thirty, announcing his identity to the world. This established a clear link between a unique celestial event and the appearance of the savior.  
 4. **The Final Mission:** Upon reaching maturity, the Saoshyant would lead humanity in the final battle against the forces of Angra Mainyu. His victory would initiate the *Frashokereti*, which includes the resurrection of the dead, the final judgment, and the purification of the world, resulting in a renewed, immortal, and perfected existence free from evil.
 
 This detailed prophetic framework was not an article of passive faith for the Magi; it was the central research question of their sacred science. It functioned as a testable hypothesis, providing a set of predictable, observable phenomena—a celestial sign, a virgin birth—that corresponded to a specific, world-altering outcome. The Magi were, in effect, a priestly research institute, systematically scanning the cosmic and terrestrial data for centuries, awaiting the moment when the prophesied correspondences would manifest. The appearance of an unprecedented star was not merely an omen; it was the specific data point that signaled the potential confirmation of their most sacred hypothesis and the imminent arrival of the world's redeemer.
@@ -101,7 +101,7 @@ The table below juxtaposes the core attributes of the Zoroastrian Saoshyant and 
 | **Title/Meaning** | "He who will bring benefit" | "Anointed One" |
 | **Origin of Birth** | Miraculous/Virgin Conception | Prophesied of a "young woman" (*almah*), later interpreted as virgin (Isaiah 7:14) |
 | **Lineage** | Seed of Zoroaster | Line of David |
-| **Preceding Sign** | Celestial event/Cosmic Sign | A Star from Jacob (Numbers 24:17) |
+| **Celestial Sign** | The sun stands still in the zenith thirty days when he is thirty | A star out of Jacob (Numbers 24:17) |
 | **Mission** | Lead final battle against evil, raise the dead | Restore Israel, defeat enemies, establish justice |
 | **Ultimate Outcome** | *Frashokereti* (World Renovation) | Messianic Age of universal peace |
 

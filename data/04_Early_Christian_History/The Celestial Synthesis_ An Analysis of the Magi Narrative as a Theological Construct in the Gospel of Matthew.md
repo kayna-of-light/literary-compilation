@@ -73,7 +73,7 @@ The following table:
 | **Title/Meaning** | "He who will bring benefit" | "Anointed One" (Messiah); "Son of Man" |
 | **Origin of Birth** | Miraculous/Virgin Conception | Prophesied of a "young woman" (*almah*), interpreted as virgin (Isaiah 7:14) |
 | **Lineage** | Seed of Zoroaster | Line of David |
-| **Preceding Sign** | Celestial event/Cosmic Sign | A Star from Jacob (Numbers 24:17) |
+| **Celestial Sign** | The sun stands still in the zenith thirty days when he is thirty (Dk 7.10.19) | A star out of Jacob (Numbers 24:17) |
 | **Mission** | Lead final battle against evil, raise the dead | Restore Israel, defeat enemies, establish justice, judge the world |
 | **Ultimate Outcome** | *Frashokereti* (World Renovation) | Messianic Age of universal peace |
 

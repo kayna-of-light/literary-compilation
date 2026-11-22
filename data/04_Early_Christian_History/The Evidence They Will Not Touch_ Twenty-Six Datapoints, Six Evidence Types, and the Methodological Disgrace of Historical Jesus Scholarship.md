@@ -205,7 +205,7 @@ Tier 3 contains seven datapoints derived from witnesses who had no motivation to
 
 **Datapoint I: Jesus was crucified under Pontius Pilate.**
 
-This is attested by Tacitus (*Annals* 15.44), who despised Christians and had no reason to confirm their foundational claim. Tacitus writes: "Christus, the founder of the name, was put to death by Pontius Pilatus, procurator of Judaea, in the reign of Tiberius." Tacitus was a Roman senator with access to official records. He was not doing Christian apologetics; he was explaining the origin of a sect he considered a "pernicious superstition." This is hostile testimony confirming the crucifixion under a named Roman official. It is corroborated by Josephus (*Antiquities* 18.63–64, even in the minimally reconstructed form that strips the Christian interpolations) and by the universal testimony of the early tradition.
+This is attested by Tacitus (*Annals* 15.44), who despised Christians and had no reason to confirm their foundational claim. Tacitus writes: "Christus, the founder of the name, had undergone the death penalty in the reign of Tiberius, by sentence of the procurator Pontius Pilatus." Tacitus was a Roman senator with access to official records. He was not doing Christian apologetics; he was explaining the origin of a sect he considered a "pernicious superstition." This is hostile testimony confirming the crucifixion under a named Roman official. It is corroborated by Josephus (*Antiquities* 18.63–64, even in the minimally reconstructed form that strips the Christian interpolations) and by the universal testimony of the early tradition.
 
 **Datapoint J: James led the Jerusalem community after Jesus.**
 
@@ -213,7 +213,7 @@ This is attested by Josephus (*Antiquities* 20.200), who identifies "the brother
 
 **Datapoint K: James was executed by the High Priest Ananus in 62 CE.**
 
-Josephus reports this in *Antiquities* 20.200–203: Ananus "assembled the Sanhedrin of judges and brought before them the brother of Jesus, who was called Christ, whose name was James, and some others; and when he had formed an accusation against them as breakers of the law, he delivered them to be stoned." The most fair-minded citizens protested, and Ananus was deposed within three months. This is a detailed historical report from a non-Christian source, embedded in a political narrative about Roman procuratorial succession. Its historicity is virtually unchallenged in mainstream scholarship.
+Josephus reports this in *Antiquities* 20.200–203: Ananus "assembled the sanhedrim of judges, and brought before them the brother of Jesus, who was called Christ, whose name was James, and some others, [or, some of his companions]; and when he had formed an accusation against them as breakers of the law, he delivered them to be stoned." The most fair-minded citizens protested, and Ananus was deposed within three months. This is a detailed historical report from a non-Christian source, embedded in a political narrative about Roman procuratorial succession. Its historicity is virtually unchallenged in mainstream scholarship.
 
 **Datapoint L: Jude's grandsons were brought before Domitian (c. 95 CE) and released.**
 
@@ -741,6 +741,7 @@ The evidence is patient. It will wait for a discipline brave enough to look at i
 - Eusebius of Caesarea. *Historia Ecclesiastica* (*Church History*). Trans. G. A. Williamson. Penguin Classics, 1989.
 - Josephus, Flavius. *Jewish Antiquities*. Trans. Louis H. Feldman. Loeb Classical Library. Cambridge, MA: Harvard University Press, 1965.
 - Josephus, Flavius. *The Jewish War*. Trans. G. A. Williamson. Penguin Classics, 1981.
+- Josephus, Flavius. *The Works of Flavius Josephus*. Trans. William Whiston. London, 1737. (*Antiquities* 20.200.)
 - Novum Testamentum Graece (NTG 27/28). Nestle-Aland, eds. Stuttgart: Deutsche Bibelgesellschaft.
 - Robinson, James M., ed. *The Nag Hammadi Library in English*. 3rd rev. ed. San Francisco: HarperSanFrancisco, 1990.
 - Swedenborg, Emanuel. *Arcana Coelestia* (Secrets of Heaven). 12 vols. 1749–1756.

@@ -2006,21 +2006,38 @@ Leads to verify (from general knowledge, unchecked — none is to be cited until
 ---
 
 
+## Resolved 2026-11-18 (nightly source audit, author follow-up)
+
+---
+
+### [GDR] *Dancing with Fire* §5.2 — where does "41–43% of Lukan Sondergut absent, 12% of synoptic-parallel material" come from?
+
+**Priority**: MEDIUM
+**Related Documents**: `data/05_The_Self/Dancing with Fire_ Marcion of Sinope and the Correspondential Key He Never Possessed.md` (§5.2)
+
+**Context**: §5.2 credited the figures to Klinghardt. Logged on 2026-11-18 as out of reach; the author answered that this is tracing the night should have done itself.
+
+**Status**: ✅ RESOLVED (2026-11-18)
+
+**Resolution**: The figures are **Joseph B. Tyson's**, not Klinghardt's: "About 12 percent of Lukan material with synoptic parallels is probably absent from Marcion's Gospel. But 41-43 percent of Lukan Sondergut material is omitted" (Tyson, *Marcion and Luke-Acts: A Defining Struggle*, Columbia: University of South Carolina Press, 2006, 87; tables p. 87, counted from Harnack's reconstruction). Tyson then recounts on Luke 3–23 only: "still about 12 percent for material with synoptic parallels" and "only about 22 percent for material peculiar to Luke" (same page range). Read in Dieter T. Roth, "Towards a New Reconstruction of the Text of Marcion's Gospel" (PhD diss., University of Edinburgh, 2009; open access, era.ed.ac.uk), pp. 29–30 with nn. 154–158, which quotes Tyson verbatim and gives his pages. Knox's earlier figures (Knox 1942, 108: 39 per cent of Luke's peculiar verses missing against 10 per cent of paralleled verses) are the same argument on the same reconstruction. §5.2 now credits Tyson with both figures; Tyson 2006 and Roth 2009 added to its Works Cited. Found with one extended search and the thesis PDF — it was reachable on the night.
+
+---
+
 ## Statistics
 
 | Category | Count |
 |----------|-------|
-| **Total Resolved** | 50 |
+| **Total Resolved** | 51 |
 | **NDE Domain** | 14 |
 | **BIBL Domain** | 6 |
 | **SWED Domain** | 3 |
 | **CROSS Domain** | 1 |
 | **EARLY Domain** | 2 |
 | **GNOS Domain** | 2 |
-| **GDR Domain** | 18 |
+| **GDR Domain** | 19 |
 | **Critical Priority** | 3 |
 | **High Priority** | 16 |
-| **Medium Priority** | 22 |
+| **Medium Priority** | 23 |
 | **Low Priority** | 9 |
 
-**Last Updated**: 2026-11-14
+**Last Updated**: 2026-11-18

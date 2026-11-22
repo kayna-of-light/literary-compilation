@@ -512,7 +512,7 @@ The terminology differs; the structure is identical. This structural convergence
 
 **Demonstration: 1 Enoch's Astronomical Book**
 
-The Astronomical Book of 1 Enoch uses a **linear zigzag function** from Babylonian *MUL.APIN* to calculate daylight hours. The ratio of longest/shortest day (2:1) is accurate for **Babylon (32°N latitude)**, not Jerusalem. This reveals that Jewish scribes literally copied Persian/Babylonian mathematical data—documentary evidence of the transmission chain.
+The Astronomical Book of 1 Enoch uses a **linear zigzag function** from Babylonian *MUL.APIN* to calculate daylight hours. The ratio of longest/shortest day (2:1) is the schematic value of the **Babylonian** tradition, not an observation made in Jerusalem (it is not accurate at Babylon either, where the longest day is about one and a half times the shortest). This reveals that Jewish scribes literally copied Persian/Babylonian mathematical data—documentary evidence of the transmission chain.
 
 But more significantly, the 364-day calendar maintains perfect 52×7 structure despite being astronomically imprecise (the solar year is ~365.25 days). The scribes chose **correspondential integrity** (7-based structure preserving Sabbath symbolism) over empirical accuracy. This demonstrates correspondential reasoning in operation.
 

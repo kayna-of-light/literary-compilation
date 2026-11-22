@@ -122,18 +122,22 @@ In a later section of the *Antiquities*, Josephus describes the actions of the h
 "\[Ananus\] assembled the sanhedrim of judges, and brought before them the brother of Jesus, who was called Christ, whose name was James, and some others, \[or, some of his companions\]; and when he had formed an accusation against them as breakers of the law, he delivered them to be stoned" (Josephus, *Ant.* 20.200, trans. Whiston).  
 This second, briefer passage is considered authentic by an overwhelming majority of scholars. Its value lies in its incidental nature. Josephus's focus is not on James or Jesus, but on the illegal actions of the high priest Ananus, which led to his deposition. The reference to "Jesus who was called Christ" is purely explanatory, provided for an audience that might not know who James was. This neutral, matter-of-fact tone argues strongly against it being a later Christian insertion. Furthermore, the very existence of this accepted passage provides strong circumstantial evidence for an authentic core in the *Testimonium*. For Josephus's explanation to his Roman audience to make sense, he must have previously introduced who this "Jesus" was. The *Testimonium* in Book 18 is the logical and only candidate for that prior introduction, suggesting that a passage about Jesus did exist there, even if it was later altered (Meier 1991; Mason 2003).
 
-| Analysis of the *Testimonium Flavianum* |
-| :---- |
-| **Part A: The Scholarly Debate** |
-| **Position on Authenticity** |
-| **Complete Forgery** |
-| **Partial Authenticity (Consensus)** |
-| **Complete Authenticity (Minority)** |
-| **Part B: Reconstructions of the Original Text** |
-| **Version** |
-| **Extant Greek Version** |
-| **Arabic Version (via Pines)** |
-| **Minimalist Scholarly Reconstruction** |
+**Analysis of the *Testimonium Flavianum*. Part A: Positions on authenticity** (after Meier 1991, 59–60)
+
+| Position | Claim | Standing in scholarship |
+| :---- | :---- | :---- |
+| **Complete interpolation** | The entire account about Jesus is a Christian interpolation; Josephus did not mention Jesus at this point in the *Antiquities*. | Has "its respectable defenders but does not seem to be the majority view." |
+| **Heavy Christian rewriting** | Some mention of Jesus stood here, perhaps a pejorative one, and a Christian scribe substituted his own positive account; the original wording is lost, though traces of it may remain. | Within the range where "most recent opinions move." |
+| **Authentic core with insertions** | The text is basically what Josephus wrote; the two or three insertions by a Christian scribe are easily isolated from the clearly non-Christian core. | Within the same range (together, the second and third positions are where most scholars stand); held by Jewish, Protestant and Catholic scholars alike, among them Paul Winter, Louis H. Feldman, James H. Charlesworth and Meier himself. |
+| **Complete authenticity** | The *Testimonium* is entirely by Josephus. | "With a few exceptions, this last position has been given up today by the scholarly community." |
+
+**Part B: The text in its main forms**
+
+| Version | What it contains | Source |
+| :---- | :---- | :---- |
+| **Extant Greek text** | The full passage, including "He was the Messiah" and the appearance "on the third day … restored to life." | *Ant.* 18.63–64, trans. Feldman (quoted above). |
+| **Arabic version** | A neutral account in which Jesus' disciples "reported that he had appeared to them three days after his crucifixion" and he "was perhaps the Messiah." | Agapius of Hierapolis, 10th century, trans. Pines 1971 (quoted above). |
+| **Core without the insertions** | "At this time there appeared Jesus, a wise man. For he was a doer of startling deeds, a teacher of people who receive the truth with pleasure. And he gained a following both among many Jews and among many of Greek origin. And when Pilate, because of an accusation made by the leading men among us, condemned him to the cross, those who had loved him previously did not cease to do so. And up until this very day the tribe of Christians (named after him) has not died out." | Meier 1991, 61. |
 
 ### **Cornelius Tacitus: The Roman Historian**
 

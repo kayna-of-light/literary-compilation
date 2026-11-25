@@ -3,7 +3,7 @@
 
 ---
 
-> **Abstract.** The Nag Hammadi Library — 45 texts from at least ten distinct traditions, buried in Upper Egypt in the late fourth or early fifth century and discovered in 1945 — has been read primarily as a Gnostic collection illuminating the diversity of early Christianity. This study applies the Swedenborgian doctrine of correspondences systematically to the entire library, demonstrating that the texts share a coherent system of spiritual perception that transcends their theological differences. Six texts explicitly announce their own correspondential structure (Thomas, Philip, Testimony of Truth, Apocryphon of James, Treatise on the Resurrection, Apocalypse of Paul). The same natural-to-spiritual correspondences — light as wisdom, fire as love in both positive and negative senses, water as truth at the natural degree, garments as external truths, seeds as interior truths — appear with functional consistency across Sethian, Valentinian, Thomasine, Hermetic, and non-Gnostic wisdom traditions. Critically, the Teachings of Silvanus — a non-Gnostic Christian wisdom text — states that "every thing that is visible is a type of what is hidden" and demonstrates that the system is independent of Gnostic cosmology. Of 45 texts analyzed, four are correspondentially extraordinary, fourteen are rich, and seventeen moderate: 35 of the 45, about 78%, contain identifiable correspondential material. The distribution pattern — correlated with tradition and self-referential hermeneutics rather than text length — is consistent with a genuine perceptual capacity accessed to different degrees by different communities. The study proposes that the library is best understood not as a Gnostic collection but as a correspondential archive: a fourth-century snapshot of a mode of consciousness that was still active enough to produce literature but already contracting enough that the texts had to explain, rather than simply employ, the perception that animated them.
+> **Abstract.** The Nag Hammadi Library — 45 texts from at least ten distinct traditions, buried in Upper Egypt in the late fourth or early fifth century and discovered in 1945 — has been read primarily as a Gnostic collection illuminating the diversity of early Christianity. This study applies the Swedenborgian doctrine of correspondences systematically to the entire library, demonstrating that the texts share a coherent system of spiritual perception that transcends their theological differences. Nineteen texts tell their reader that what is said or seen carries a hidden sense, and six state it as a method of reading (Thomas, Philip, Testimony of Truth, Apocryphon of James, Treatise on the Resurrection, Apocalypse of Paul). The same natural-to-spiritual correspondences — light as wisdom, fire as love in both positive and negative senses, water as truth at the natural degree, garments as external truths, seeds as interior truths — appear with functional consistency across Sethian, Valentinian, Thomasine, Hermetic, and non-Gnostic wisdom traditions. Critically, the Teachings of Silvanus — a non-Gnostic Christian wisdom text — states that "every thing that is visible is a type of what is hidden" and demonstrates that the system is independent of Gnostic cosmology. Scored against four stated criteria, seven of the 45 texts are correspondentially extraordinary, nineteen are rich, and thirteen moderate: 39 of the 45, about 87%, contain identifiable correspondential material. The distribution — which tracks text length, but turns on explicit statements in the texts themselves that length does not supply — is consistent with a genuine perceptual capacity accessed to different degrees by different communities. The study proposes that the library is best understood not as a Gnostic collection but as a correspondential archive: a fourth-century snapshot of a mode of consciousness that was still active enough to produce literature but already contracting enough that the texts had to explain, rather than simply employ, the perception that animated them.
 
 > **Keywords.** Nag Hammadi Library, correspondence, discrete degrees, Swedenborgian theology, Gnostic texts, Ancient Word, spiritual sense, selfhood, self-knowledge, influx, Gospel of Thomas, Gospel of Philip, Apocryphon of John, correspondential architecture
 
@@ -24,7 +24,7 @@
   - [3.4 Apocryphon of James: "In Parables… and You Did Not Understand"](#34-apocryphon-of-james-in-parables-and-you-did-not-understand)
   - [3.5 Treatise on the Resurrection: "These Are the Symbols and the Likenesses"](#35-treatise-on-the-resurrection-these-are-the-symbols-and-the-likenesses)
   - [3.6 Apocalypse of Paul: "The Hidden Things in Those That Are Visible"](#36-apocalypse-of-paul-the-hidden-things-in-those-that-are-visible)
-- [4. Four Masters, One Teaching: The Extraordinary Tractates](#4-four-masters-one-teaching-the-extraordinary-tractates)
+- [4. Four Masters, One Teaching: Thomas, Philip, John, and Truth](#4-four-masters-one-teaching-thomas-philip-john-and-truth)
   - [4.1 Gospel of Thomas: Correspondence Announced](#41-gospel-of-thomas-correspondence-announced)
   - [4.2 Gospel of Philip: Correspondence Theorized](#42-gospel-of-philip-correspondence-theorized)
   - [4.3 Apocryphon of John: Correspondence Mapped](#43-apocryphon-of-john-correspondence-mapped)
@@ -116,7 +116,7 @@ What follows is a systematic reading of all forty-five texts in the Nag Hammadi 
 
 This reading was not imposed on the texts. It was demanded by them. The question is not whether Swedenborg's framework "applies" to the Nag Hammadi Library. The question is what happens when the framework the texts themselves announce is consistently applied — and the answer, across forty-five texts and thirteen codices, is that patterns emerge that remain invisible under any other interpretive lens: a consistent vocabulary of natural images expressing spiritual realities; a systemic architecture of discrete degrees; a personification of the self as cosmic antagonist; a principle of self-knowledge as the universal salvific mechanism; and a numerical consistency (four lights, seven archons, twelve aeons, seventy-two powers) that links texts with no demonstrable literary dependence.
 
-The thesis proceeds as follows. Section 2 establishes the methodological framework, distinguishing correspondence from allegory, metaphor, symbolism, and Jungian archetype, and defining the criteria by which correspondential content is identified and classified. Section 3 examines the six texts that explicitly announce their own correspondential method. Section 4 provides extended analysis of the four "extraordinary" tractates — Thomas, Philip, the Apocryphon of John, and the Gospel of Truth — as four distinct modes of compositional correspondence. Sections 5 through 11 trace specific correspondential principles across the library: discrete degrees, the self, natural objects, self-knowledge, regeneration, antithetical correspondence, and numerical architecture. Section 12 presents the critical argument that non-Gnostic texts in the library use the identical correspondential vocabulary, proving the system predates and transcends the Gnostic tradition. Section 13 addresses the marginal and fragmentary texts that resist or cannot sustain the reading. Section 14 discusses what the cumulative evidence implies for scholarship, for the Ancient Word hypothesis, and for the nature of the library itself. Section 15 concludes. The appendix provides a complete tractate-by-tractate inventory of correspondential content.
+The thesis proceeds as follows. Section 2 establishes the methodological framework, distinguishing correspondence from allegory, metaphor, symbolism, and Jungian archetype, and defining the criteria by which correspondential content is identified and classified. Section 3 examines the six texts that explicitly announce their own correspondential method. Section 4 provides extended analysis of four of the seven "extraordinary" tractates — Thomas, Philip, the Apocryphon of John, and the Gospel of Truth — as four distinct modes of compositional correspondence; the other three (Eugnostos with the Sophia of Jesus Christ, the Valentinian Exposition, and the Teachings of Silvanus) are treated in §§11.3, 5.6, and 12.1. Sections 5 through 11 trace specific correspondential principles across the library: discrete degrees, the self, natural objects, self-knowledge, regeneration, antithetical correspondence, and numerical architecture. Section 12 presents the critical argument that non-Gnostic texts in the library use the identical correspondential vocabulary, proving the system predates and transcends the Gnostic tradition. Section 13 addresses the marginal and fragmentary texts that resist or cannot sustain the reading. Section 14 discusses what the cumulative evidence implies for scholarship, for the Ancient Word hypothesis, and for the nature of the library itself. Section 15 concludes. The appendix provides a complete tractate-by-tractate inventory of correspondential content.
 
 ---
 
@@ -170,19 +170,30 @@ This thesis identifies correspondential content using four criteria applied with
 
 A text is classified as correspondentially significant when it meets at least two of these criteria. A text is classified as extraordinary when it meets all four.
 
+Each criterion is applied as a test that a passage in the text either passes or does not, so that every classification can be checked against the Coptic:
+
+- **Criterion 1** is met when the text tells its hearer that what is said or seen carries a hidden sense — that sayings have an interpretation, that teaching came in parables, that the visible holds the hidden, or that a scriptural image is meant "spiritually." A correction of scripture counts only when it gives the image an inner sense (the Apocryphon of John's "not as Moses wrote … but in his perceptions," II 22,21–25), not when it corrects a fact. The translation of a name ("the interpretation of which is …") does not count, nor does an account of the lower world being copied from the higher when it is told as cosmogony rather than offered to the hearer as a key.
+- **Criterion 2** is met when the text itself states at least two identifications of a natural image with a spiritual referent ("X is Y," "X, that is, Y," "the interpretation of X is Y").
+- **Criterion 3** is met when at least one image recurs within the text with the same referent and agrees with its use in another tractate.
+- **Criterion 4** is met when the text, or a major section of it, is ordered by an architecture — levels, a numbered series, or fixed functions assigned to a set of beings — that recurs in an independent tractate.
+
+Criterion 3 is passed by nearly every text long enough to repeat an image; criteria 1, 2, and 4 are the ones that separate the classes. The criteria met by each text, with the deciding passages, are recorded in the appendix (§16).
+
 ### 2.4 Classification Schema: Extraordinary, Rich, Moderate, Sparse, Resistant
 
 Based on the four criteria and on a close reading of all forty-five texts, the following classification has been applied:
 
 | Classification | Criteria Met | Description | Texts |
 |---|---|---|---|
-| **Extraordinary** | All four | Saturated with correspondential content; self-announcing; systematic; structurally coherent | Gospel of Thomas, Gospel of Philip, Apocryphon of John, Gospel of Truth |
-| **Rich** | Three or more | Deep correspondential patterns throughout; may not self-announce but operates consistently within the system | Trimorphic Protennoia, Exegesis on the Soul, Thunder Perfect Mind, Hypostasis of the Archons, On the Origin of the World, Authoritative Teaching, Dialogue of the Savior, Zostrianos, Tripartite Tractate, Teachings of Silvanus, Apocalypse of Adam, Allogenes, Valentinian Exposition, Eugnostos/Sophia of Jesus Christ |
-| **Moderate** | Two | Significant correspondential content within portions of the text, mixed with non-correspondential material | Second Treatise of the Great Seth, Testimony of Truth, Paraphrase of Shem, Gospel of the Egyptians, Apocryphon of James, Apocalypse of Peter, Treatise on Resurrection, Book of Thomas the Contender, Discourse on the Eighth and Ninth, Three Steles of Seth, Marsanes, First Apocalypse of James, Second Apocalypse of James, Concept of Our Great Power, Interpretation of Knowledge, Letter of Peter to Philip, Melchizedek |
-| **Sparse** | One | Occasional correspondential vocabulary or isolated instances within predominantly non-correspondential material | Prayer of the Apostle Paul, Thought of Norea, Prayer of Thanksgiving, Apocalypse of Paul, Asclepius 21–29, Acts of Peter and the Twelve Apostles, Sentences of Sextus, Plato's Republic, Act of Peter |
+| **Extraordinary** | All four | Saturated with correspondential content; self-announcing; systematic; structurally coherent | Gospel of Thomas, Gospel of Philip, Apocryphon of John, Gospel of Truth, Eugnostos/Sophia of Jesus Christ, Valentinian Exposition, Teachings of Silvanus |
+| **Rich** | Three | Deep correspondential patterns throughout; meets three of the four tests | Apocryphon of James, Treatise on the Resurrection, Tripartite Tractate, Hypostasis of the Archons, On the Origin of the World, Exegesis on the Soul, Book of Thomas the Contender, Gospel of the Egyptians, Dialogue of the Savior, First Apocalypse of James, Acts of Peter and the Twelve Apostles, Thunder Perfect Mind, Asclepius 21–29, Paraphrase of Shem, Apocalypse of Peter, Zostrianos, Testimony of Truth, Allogenes, Trimorphic Protennoia |
+| **Moderate** | Two | Significant correspondential content within portions of the text, mixed with non-correspondential material | Apocalypse of Paul, Second Apocalypse of James, Apocalypse of Adam, Authoritative Teaching, Concept of Our Great Power, Discourse on the Eighth and Ninth, Second Treatise of the Great Seth, Three Steles of Seth, Letter of Peter to Philip, Melchizedek, Marsanes, Interpretation of Knowledge, Sentences of Sextus |
+| **Sparse** | One or none | Occasional correspondential vocabulary or isolated instances within predominantly non-correspondential material | Prayer of the Apostle Paul, Plato's Republic, Prayer of Thanksgiving, Thought of Norea |
 | **Fragmentary** | Cannot assess | Too damaged to evaluate | Hypsiphrone, Fragments (XII,3) |
 
-This classification is necessarily approximate. Some of the "sparse" texts (notably the Acts of Peter and the Twelve Apostles, with its systematic predator correspondence, and the Sentences of Sextus, with its "body as garment of soul" teaching) contain individual passages of extraordinary correspondential density within texts that are otherwise not operating in this mode. The classification reflects the overall texture of the text, not the peak intensity of any single passage.
+The two Berlin Codex writings that have no copy at Nag Hammadi are scored on the same tests but not counted among the 45: the Gospel of Mary is moderate (criteria 2 and 4), the Act of Peter sparse (none).
+
+The classification counts criteria met; it does not weigh how densely a text meets them. Several texts are rated lower than their best passages would suggest — the Apocalypse of Adam's thirteen kingdoms (§9.4) are one of the library's most elaborate structures, but the text glosses almost none of its own images and so meets only criteria 3 and 4. Conversely, the Acts of Peter and the Twelve Apostles is short and plain in texture, but its Lord tells Peter outright that the story was a parable and gives its sense (VI 10,22–30), which places it among the rich texts.
 
 ---
 
@@ -285,7 +296,9 @@ This is the same structure described in the First Apocalypse of James, where the
 
 ---
 
-## 4. Four Masters, One Teaching: The Extraordinary Tractates
+## 4. Four Masters, One Teaching: Thomas, Philip, John, and Truth
+
+Seven texts meet all four criteria (§2.4). Four of them — Thomas, Philip, the Apocryphon of John, and the Gospel of Truth — are read here as four distinct modes of compositional correspondence. The other three are treated where their distinctive structure belongs: Eugnostos with the Sophia of Jesus Christ under numerical architecture (§11.3), the Valentinian Exposition under discrete degrees (§5.6), and the Teachings of Silvanus among the non-Gnostic texts (§12.1).
 
 ### 4.1 Gospel of Thomas: Correspondence Announced
 
@@ -965,9 +978,9 @@ This is the difference between a text that IS correspondence and a text that CAN
 
 The presence of marginal, fragmentary, and ambiguous texts in this analysis is methodologically essential. A framework that claimed every text in the library as correspondential would be unfalsifiable — it would explain everything and therefore predict nothing. The honest acknowledgment that some texts are too damaged to read, others provide no clear signal of correspondential intent, and still others resist the reading entirely, is what gives the positive findings their evidential weight.
 
-The distribution matters: of 45 texts in the library, four are correspondentially extraordinary, fourteen are rich, seventeen show moderate correspondential content, eight are sparse, and two are too fragmentary to assess. This is not a uniform distribution. It is exactly what we would expect if correspondential perception were a genuine capacity that different authors possessed to different degrees and different texts preserved to different extents.
+The distribution matters: of 45 texts in the library, seven are correspondentially extraordinary, nineteen are rich, thirteen show moderate correspondential content, four are sparse, and two are too fragmentary to assess. This is not a uniform distribution. It is exactly what we would expect if correspondential perception were a genuine capacity that different authors possessed to different degrees and different texts preserved to different extents.
 
-If correspondential composition were a modern scholarly projection — an artifact of our reading rather than a property of the texts — we would expect it to appear uniformly across all texts (any narrative can be allegorized) or to correlate with text length (more text = more chance to find patterns). It does neither. It correlates with **tradition** (Thomas and Sethian texts are richest), with **genre** (cosmological and wisdom texts richer than narrative), and with **explicit self-reference** (texts that announce their own interiority are consistently the richest). These correlations are predictions of the correspondential hypothesis, not predictions of the projection hypothesis.
+The classification does track text length. Measured in Coptic letters of Linssen's transcription, the number of criteria a text meets rises with its length across the 43 texts that can be scored (Spearman ρ = 0.67), and the relation holds, more weakly, when the shortest texts are set aside. Part of this is in the tests themselves: a two-page prayer has no room to repeat an image (criterion 3) or to build an architecture (criterion 4). Length therefore cannot be dismissed as an explanation of the distribution. What length does not explain is the deciding evidence: criteria 1 and 2 are met only by sentences in which a text states its own hidden sense or glosses its own images, and such sentences are present or absent independently of how long the text is. Texts of the same length divide on them — the Acts of Peter and the Twelve Apostles and the Authoritative Teaching are almost exactly the same length, and only the first has its Lord declare that the story was a parable (VI 10,22–30). Among traditions, the Thomasine and Valentinian texts are the richest (Thomas, Philip, the Gospel of Truth, and the Valentinian Exposition are all extraordinary), while the Sethian texts range from extraordinary (the Apocryphon of John) to sparse (the Thought of Norea). That self-announcing texts are the richest is partly built into the classification, since self-announcement is one of the four criteria.
 
 ---
 
@@ -979,7 +992,7 @@ The Nag Hammadi Library, buried in Upper Egypt some time after 348 — probably 
 
 The evidence supporting this reframing is cumulative:
 
-1. **Explicit self-announcement**: At least six texts explicitly declare that they contain a hidden interior sense (Thomas, Philip, Testimony of Truth, Apocryphon of James, Treatise on the Resurrection, Apocalypse of Paul). No other ancient collection has this density of self-referential hermeneutical instruction.
+1. **Explicit self-announcement**: Nineteen texts tell their reader that what is said or seen carries a hidden sense (criterion 1, §2.3), and six of them state it as a method of reading (Thomas, Philip, Testimony of Truth, Apocryphon of James, Treatise on the Resurrection, Apocalypse of Paul). No other ancient collection has this density of self-referential hermeneutical instruction.
 
 2. **Cross-traditional consistency**: The same correspondences (light = wisdom, fire = love in both senses, water = truth, garments = external truths, seeds = interior truths) appear in Sethian, Valentinian, Thomasine, Hermetic, and non-Gnostic wisdom texts without variation. Literary influence cannot explain this range.
 
@@ -987,7 +1000,7 @@ The evidence supporting this reframing is cumulative:
 
 4. **Non-Gnostic presence**: Silvanus, Sextus, Plato, Asclepius, Acts of Peter and the Twelve, and the Prayer of Thanksgiving contain correspondential content without Gnostic cosmology. The system is not a product of Gnostic theology. It is a mode of perception that Gnostic theology (like every other theology in the library) employs.
 
-5. **Distribution pattern**: Correspondential richness correlates with tradition and genre, not with text length or random variation. This is a prediction of the correspondence hypothesis, not of the projection hypothesis.
+5. **Distribution pattern**: Correspondential richness tracks text length (§13.3), but the criteria that decide it — a text stating its own hidden sense or glossing its own images — are present or absent in texts of the same length, and they cluster by tradition: the Thomasine and Valentinian texts are the richest.
 
 The implication is that whoever gathered and buried these texts in late antique Egypt recognized something that modern scholarship has not: these texts share a mode of perception that transcends their theological differences. They did not bury a sectarian library. They buried an archive of a way of reading reality.
 
@@ -1039,7 +1052,7 @@ This study has significant limitations that must be acknowledged:
 
 3. **Selection bias**: The library itself is a selection — its late antique owners chose which texts to preserve. The correspondential content of these texts may not represent the full range of correspondential perception in the ancient world. We are analyzing what survived, not what existed.
 
-4. **Interpretive circularity**: The correspondential lens, rigorously applied, can generate readings from almost any sufficiently rich text. The mitigation against this circularity is the criterion of explicit self-announcement: texts that declare their own interiority are weighted more heavily than texts where interiority is only inferred. But this criterion may still be too generous.
+4. **Interpretive circularity**: The correspondential lens, rigorously applied, can generate readings from almost any sufficiently rich text. The mitigation against this circularity is the criterion of explicit self-announcement: texts that declare their own interiority are weighted more heavily than texts where interiority is only inferred. But this criterion may still be too generous. Of the four criteria, the third (functional consistency) is met by almost every text long enough to repeat an image, so the classification rests in practice on the other three.
 
 5. **Single-reader limitation**: This study represents the reading of one analyst. The correspondential readings of specific passages are offered as demonstrations, not as the only possible readings. Independent verification by scholars trained in both Nag Hammadi studies and correspondential reading would strengthen the findings significantly.
 
@@ -1061,7 +1074,7 @@ This study has demonstrated that the Nag Hammadi Library, when read through the 
 
 4. **The regeneration cycle**: Descent, degradation, recognition, calling, response, purification, union — narrated as mythology in the Apocryphon of John, as soul-allegory in the Exegesis on the Soul, as ethical instruction in Silvanus, as parable in Thomas. The cycle is the same because regeneration IS one process, perceived from different positions.
 
-5. **Self-referential hermeneutics**: The texts that are richest correspondentially are precisely those that announce their own interiority. The system includes its own key. The key is taped to the box.
+5. **Self-referential hermeneutics**: All seven texts that meet every criterion announce their own interiority, and twelve more do so as well. The system includes its own key. The key is taped to the box.
 
 The library is alive — not metaphorically, but in the correspondential sense. A living thing is a form that receives influx and transmits it outward through its structure. A dead thing is a form from which influx has departed. These texts still transmit. The correspondential content is still accessible. The "types and images" still yield their interiors when read with the perception they were written to address.
 
@@ -1075,145 +1088,145 @@ Thomas told us what to look for. We looked. It was there.
 
 ## 16. Appendix: Complete Tractate-by-Tractate Correspondential Inventory
 
-The following inventory classifies all 45 texts in the Nag Hammadi Library (plus Berlin Codex supplements) by correspondential richness, with key correspondential features noted for each.
+The following inventory classifies all 45 texts in the Nag Hammadi Library (plus Berlin Codex supplements) by correspondential richness. The "Criteria" column lists which of the four tests of §2.3 each text meets; where a rating turns on a single passage, that passage is quoted from the Coptic with its codex page and line.
 
 ### Codex I (Jung Codex)
 
-| # | Tractate | Classification | Key Correspondential Features |
-|---|----------|---------------|-------------------------------|
-| I,1 | Prayer of the Apostle Paul | Sparse | Brief prayer; "psychic God" vs "pneumatic" suggests degree awareness |
-| I,2 | Apocryphon of James | Moderate | Parables as interior containers; fullness/emptiness paradox; "plainly" vs "in parables" distinction |
-| I,3 | Gospel of Truth | Extraordinary | Fog of ignorance; living book/cross as publication; dream passage enacts awakening; text performs what it describes |
-| I,4 | Treatise on the Resurrection | Moderate | "Symbols and likenesses" explicit; beams/sun correspondence; realized eschatology; resurrection as perception shift |
-| I,5 | Tripartite Tractate | Rich | Names as "a trace of him, according to the power of each one of those who glorify him"; the prophets' one vision, altered by its hearers; Logos replaces Sophia |
+| # | Tractate | Classification | Criteria (§2.3) | Key Correspondential Features |
+|---|----------|---------------|----------|-------------------------------|
+| I,1 | Prayer of the Apostle Paul | Sparse | – | Brief prayer; "psychic God" vs "pneumatic" suggests degree awareness |
+| I,2 | Apocryphon of James | Rich | 1 2 3 | "When you come to know what the head is, and that prophecy issues from the head, understand what 'its head was taken off' means" (I 6,35–7,1); "At first I spoke with you in parables, and you did not understand" (7,1–6); parables as interior containers; fullness/emptiness paradox; "plainly" vs "in parables" distinction |
+| I,3 | Gospel of Truth | Extraordinary | 1 2 3 4 | Its letters are "not letters lacking their sound, that one might read them and think of something empty," but "letters of the truth which they alone speak who know them" (I 23,2–11); fog of ignorance; living book/cross as publication; dream passage enacts awakening; text performs what it describes |
+| I,4 | Treatise on the Resurrection | Rich | 1 2 3 | "These are the symbols and the likenesses of the resurrection" (I 49,6–9); "setting, that is, our death in this life" (45,28–39); beams/sun correspondence; realized eschatology; resurrection as perception shift |
+| I,5 | Tripartite Tractate | Rich | 2 3 4 | Names as "a trace of him, according to the power of each one of those who glorify him"; the prophets' one vision, altered by its hearers; Logos replaces Sophia |
 
 ### Codex II
 
-| # | Tractate | Classification | Key Correspondential Features |
-|---|----------|---------------|-------------------------------|
-| II,1 | Apocryphon of John | Extraordinary | Monad apophasis; four lights with aeon triads; Sophia falls alone; 365-angel body map; seven substance-souls; cites "Book of Zoroaster" |
-| II,2 | Gospel of Thomas | Extraordinary | Saying 1 = key; light/fire/lion/garment/seed vocabulary; kingdom inside-outside; Sayings 77, 113 |
-| II,3 | Gospel of Philip | Extraordinary | "Types and images" doctrine; name deception; faith-hope-love-knowledge elements; farming correspondence; bridal chamber = Holy of Holies |
-| II,4 | Hypostasis of the Archons | Rich | Yaldabaoth declaration; spiritual woman in serpent; esoteric Genesis; Norea as paradigm of refusal |
-| II,5 | On the Origin of the World | Rich | Elaborated Genesis; Sabaoth's repentance; Eve's aretalogy; massive cosmogony as degree map |
-| II,6 | Exegesis on the Soul | Rich | Complete regeneration cycle; prostitution/marriage/womb/seed/washing imagery; quotes Homer and prophets as parallel registers |
-| II,7 | Book of Thomas the Contender | Moderate | "He who has not known himself has known nothing"; fire of passions; darkness correspondence; dialogue form |
+| # | Tractate | Classification | Criteria (§2.3) | Key Correspondential Features |
+|---|----------|---------------|----------|-------------------------------|
+| II,1 | Apocryphon of John | Extraordinary | 1 2 3 4 | "Not as Moses wrote … 'he made him sleep', but in his perceptions" (II 22,21–25); monad apophasis; four lights with aeon triads; Sophia falls alone; 365-angel body map; seven substance-souls; cites "Book of Zoroaster" |
+| II,2 | Gospel of Thomas | Extraordinary | 1 2 3 4 | Saying 1 = key; light/fire/lion/garment/seed vocabulary; kingdom inside-outside; Sayings 77, 113 |
+| II,3 | Gospel of Philip | Extraordinary | 1 2 3 4 | "Types and images" doctrine; name deception; faith-hope-love-knowledge elements; farming correspondence; bridal chamber = Holy of Holies |
+| II,4 | Hypostasis of the Archons | Rich | 2 3 4 | Yaldabaoth declaration; spiritual woman in serpent; esoteric Genesis; Norea as paradigm of refusal |
+| II,5 | On the Origin of the World | Rich | 2 3 4 | Elaborated Genesis; Sabaoth's repentance; Eve's aretalogy; massive cosmogony as degree map |
+| II,6 | Exegesis on the Soul | Rich | 1 2 3 | "Concerning the prostitution of the soul the Holy Spirit prophesies in many places" (II 129,5–7) and Paul "speaks spiritually" (131,8–9); complete regeneration cycle; prostitution/marriage/womb/seed/washing imagery; quotes Homer and prophets as parallel registers |
+| II,7 | Book of Thomas the Contender | Rich | 1 2 3 | "If the things that are manifest to you are hidden from you, how can you hear about the things that are not manifest?" (II 138,27–30); "He who has not known himself has known nothing"; fire of passions; darkness correspondence; dialogue form |
 
 ### Codex III
 
-| # | Tractate | Classification | Key Correspondential Features |
-|---|----------|---------------|-------------------------------|
-| III,1 | Apocryphon of John (parallel) | Extraordinary | Short recension of II,1; some archon names differ; same structural system |
-| III,2 | Gospel of the Egyptians | Moderate | Seth liturgical tradition; four lights; Great Invisible Spirit; baptismal hymns; scribal colophon as protective seal |
-| III,3 | Eugnostos the Blessed | Rich | Philosophical cosmology; emanation structure; months and days of the year "as a type" of the twelve and the three hundred sixty powers; transformed into SoJC framework |
-| III,4 | Sophia of Jesus Christ | Rich | Eugnostos reworked as revelation dialogue; twelve disciples + seven women; instructional frame overlays philosophical base |
-| III,5 | Dialogue of the Savior | Rich | "What is the beginning of the path?" — "Love and goodness"; Mary speaks "as a woman who had understood the All"; dialogue form |
+| # | Tractate | Classification | Criteria (§2.3) | Key Correspondential Features |
+|---|----------|---------------|----------|-------------------------------|
+| III,1 | Apocryphon of John (parallel) | Extraordinary | 1 2 3 4 | Short recension of II,1; some archon names differ; same structural system |
+| III,2 | Gospel of the Egyptians | Rich | 2 3 4 | "The world which is the likeness of the night" (III 51,5; 59,20); four lights with assigned qualities; Seth liturgical tradition; four lights; Great Invisible Spirit; baptismal hymns; scribal colophon as protective seal |
+| III,3 | Eugnostos the Blessed | Extraordinary | 1 2 3 4 | "Let him go from what is hidden to the end of what is manifest, and this Thought will teach him how faith in the things not manifest was found in what is manifest" (III 74,12–20); philosophical cosmology; emanation structure; months and days of the year "as a type" of the twelve and the three hundred sixty powers; transformed into SoJC framework |
+| III,4 | Sophia of Jesus Christ | Extraordinary | 1 2 3 4 | Eugnostos reworked as revelation dialogue; twelve disciples + seven women; instructional frame overlays philosophical base |
+| III,5 | Dialogue of the Savior | Rich | 1 2 3 | "All things exist … like the signs upon [...]" (III 129,16–19, lacunose); "the lamp of the body is the mind" (125,18–19); Matthew's gloss on "pray where there is no woman" (144,17–21); "What is the beginning of the path?" — "Love and goodness"; Mary speaks "as a woman who had understood the All"; dialogue form |
 
 ### Codex IV
 
-| # | Tractate | Classification | Key Correspondential Features |
-|---|----------|---------------|-------------------------------|
-| IV,1 | Apocryphon of John (parallel) | Extraordinary | Long recension parallel to II,1 |
-| IV,2 | Gospel of the Egyptians (parallel) | Moderate | Parallel to III,2 |
+| # | Tractate | Classification | Criteria (§2.3) | Key Correspondential Features |
+|---|----------|---------------|----------|-------------------------------|
+| IV,1 | Apocryphon of John (parallel) | Extraordinary | 1 2 3 4 | Long recension parallel to II,1 |
+| IV,2 | Gospel of the Egyptians (parallel) | Rich | 2 3 4 | Parallel to III,2 |
 
 ### Codex V
 
-| # | Tractate | Classification | Key Correspondential Features |
-|---|----------|---------------|-------------------------------|
-| V,1 | Eugnostos the Blessed (parallel) | Rich | Parallel to III,3 |
-| V,2 | Apocalypse of Paul | Sparse | Ten heavens as progressive degrees; old man at seventh heaven = the self; "hidden things in those that are visible"; soul judgment scene |
-| V,3 | First Apocalypse of James | Moderate | James as paradigm of overcoming archons; answers to the toll collectors; "Jerusalem which kills the prophets" |
-| V,4 | Second Apocalypse of James | Moderate | Three aretalogies at martyrdom; James as transparent vessel; garment imagery |
-| V,5 | Apocalypse of Adam | Rich | Thirteen kingdoms as catalogue of misreadings; generation without a king; "words on a high mountain"; baptismal knowledge preserved "not in the book" |
+| # | Tractate | Classification | Criteria (§2.3) | Key Correspondential Features |
+|---|----------|---------------|----------|-------------------------------|
+| V,1 | Eugnostos the Blessed (parallel) | Extraordinary | 1 2 3 4 | Parallel to III,3 |
+| V,2 | Apocalypse of Paul | Moderate | 1 4 | Ten heavens as progressive degrees; old man at seventh heaven = the self; "hidden things in those that are visible"; soul judgment scene |
+| V,3 | First Apocalypse of James | Rich | 2 3 4 | "This people existed as a type of the archons" (V 31,23–24); the toll collectors "a type of the twelve disciples" (36,1–4, lacunose); seventy-two heavens; James as paradigm of overcoming archons; answers to the toll collectors; "Jerusalem which kills the prophets" |
+| V,4 | Second Apocalypse of James | Moderate | 1 3 | "Look at the one who speaks, and seek the one who keeps silent" (V 59,17–21); three aretalogies at martyrdom; James as transparent vessel; garment imagery |
+| V,5 | Apocalypse of Adam | Moderate | 3 4 | The thirteen kingdoms and the kingless generation are an ordered series, but the text glosses almost none of its images; thirteen kingdoms as catalogue of misreadings; generation without a king; "words on a high mountain"; baptismal knowledge preserved "not in the book" |
 
 ### Codex VI
 
-| # | Tractate | Classification | Key Correspondential Features |
-|---|----------|---------------|-------------------------------|
-| VI,1 | Acts of Peter and the Twelve | Sparse | Pearl merchant = Lord; poor/rich distinction; road with wolves/lions/robbers; systematic predator correspondence |
-| VI,2 | Thunder, Perfect Mind | Rich | Antithetical structure as pure opposite sense; "I am the first and the last"; structure IS the teaching |
-| VI,3 | Authoritative Teaching | Rich | Soul-allegory like Exegesis; food in opposite sense (the adversary's bait, the foods that lead to life, the word given as food); dealers in bodies; running up into her treasure-house |
-| VI,4 | Concept of Our Great Power | Moderate | Three ages (flesh/psychic/pneumatic) as degree history; fire of self-destruction; "holy garments" |
-| VI,5 | Plato's Republic (excerpt) | Sparse | Republic 588A–589B: the soul as many-headed beast, lion and man under one human likeness; included by collectors for perceived consonance |
-| VI,6 | Discourse on the Eighth and Ninth | Moderate | Mind as celestial plectrum; eighth/ninth as supra-natural degrees; turquoise steles as permanent inscription; "I am Mind and I see another Mind" |
-| VI,7 | Prayer of Thanksgiving | Sparse | "Mind, word, knowledge" triplet = Voice/Speech/Word in Hermetic register; brief but structurally precise |
-| VI,8 | Asclepius 21–29 | Sparse | Egypt as "the image of heaven"; inner man created after God's image; weeping prophecy; gods departing temples as influx ceasing |
+| # | Tractate | Classification | Criteria (§2.3) | Key Correspondential Features |
+|---|----------|---------------|----------|-------------------------------|
+| VI,1 | Acts of Peter and the Twelve | Rich | 1 2 3 | "O Peter, it was necessary for you to understand the parable that I told you … my name … surpasses all wealth, and the wisdom of God surpasses gold" (VI 10,22–30); "the physicians of souls heal the heart" (11,15–19); pearl merchant = Lord; poor/rich distinction; road with wolves/lions/robbers; systematic predator correspondence |
+| VI,2 | Thunder, Perfect Mind | Rich | 1 2 3 | "What is inside you is what is outside you … what you see of your outside you see of your inside; it is manifest, and it is your garment" (VI 20,18–25); antithetical structure as pure opposite sense; "I am the first and the last"; structure IS the teaching |
+| VI,3 | Authoritative Teaching | Moderate | 2 3 | Soul-allegory like Exegesis; food in opposite sense (the adversary's bait, the foods that lead to life, the word given as food); dealers in bodies; running up into her treasure-house |
+| VI,4 | Concept of Our Great Power | Moderate | 3 4 | Three ages (flesh/psychic/pneumatic) as degree history; fire of self-destruction; "holy garments" |
+| VI,5 | Plato's Republic (excerpt) | Sparse | 3 | Republic 588A–589B: the soul as many-headed beast, lion and man under one human likeness; included by collectors for perceived consonance |
+| VI,6 | Discourse on the Eighth and Ninth | Moderate | 3 4 | Mind as celestial plectrum; eighth/ninth as supra-natural degrees; turquoise steles as permanent inscription; "I am Mind and I see another Mind" |
+| VI,7 | Prayer of Thanksgiving | Sparse | – | "Mind, word, knowledge" triplet = Voice/Speech/Word in Hermetic register; brief but structurally precise |
+| VI,8 | Asclepius 21–29 | Rich | 1 2 3 | "If you wish to see the working of this mystery, and the wonderful image of the intercourse" (VI 65,15–19); egypt as "the image of heaven"; inner man created after God's image; weeping prophecy; gods departing temples as influx ceasing |
 
 ### Codex VII
 
-| # | Tractate | Classification | Key Correspondential Features |
-|---|----------|---------------|-------------------------------|
-| VII,1 | Paraphrase of Shem | Moderate | Unique cosmology (three roots: Light, Spirit, Darkness); Nature as hostile womb; fire/water reversed; distinctive but correspondential |
-| VII,2 | Second Treatise of the Great Seth | Moderate | "The Man of Greatness" descending; Yaldabaoth laughed at; the cross as cosmic event; plan of the Father |
-| VII,3 | Apocalypse of Peter | Moderate | Living Jesus vs crucified body; "they praise the men of the propagation of falsehood"; intellectual Savior on tree of light |
-| VII,4 | Teachings of Silvanus | Rich | Image (εἰκών) revealing the true likeness (ⲉⲓⲛⲉ ⲙ̅ⲙⲉ); "Knock on yourself as on a door"; "every thing that is visible is a type of what is hidden"; soul as temple/tomb; NOT Gnostic |
-| VII,5 | Three Steles of Seth | Moderate | "We are a shadow of yours, as you are a shadow of the one who first pre-exists" = degree chain; Autogenes/Protophanes/Kalyptos ascent; liturgical use; prayers to be performed |
+| # | Tractate | Classification | Criteria (§2.3) | Key Correspondential Features |
+|---|----------|---------------|----------|-------------------------------|
+| VII,1 | Paraphrase of Shem | Rich | 2 3 4 | Unique cosmology (three roots: Light, Spirit, Darkness); Nature as hostile womb; fire/water reversed; distinctive but correspondential |
+| VII,2 | Second Treatise of the Great Seth | Moderate | 2 3 | "The Man of Greatness" descending; Yaldabaoth laughed at; the cross as cosmic event; plan of the Father |
+| VII,3 | Apocalypse of Peter | Rich | 1 2 3 | "Hear the things which they are saying to you in a mystery, and keep them" (VII 73,14–17); "He whom you saw on the tree, glad and laughing, this is the living Jesus" (81,15–18); living Jesus vs crucified body; "they praise the men of the propagation of falsehood"; intellectual Savior on tree of light |
+| VII,4 | Teachings of Silvanus | Extraordinary | 1 2 3 4 | Threefold human: "you came from three races" — the body from the earth, the soul from the thought of the Divine, the mind "according to the image of God" (VII 92,15–25); image (εἰκών) revealing the true likeness (ⲉⲓⲛⲉ ⲙ̅ⲙⲉ); "Knock on yourself as on a door"; "every thing that is visible is a type of what is hidden"; soul as temple/tomb; NOT Gnostic |
+| VII,5 | Three Steles of Seth | Moderate | 3 4 | "We are a shadow of yours, as you are a shadow of the one who first pre-exists" = degree chain; Autogenes/Protophanes/Kalyptos ascent; liturgical use; prayers to be performed |
 
 ### Codex VIII
 
-| # | Tractate | Classification | Key Correspondential Features |
-|---|----------|---------------|-------------------------------|
-| VIII,1 | Zostrianos | Rich | 13+ levels of ascent; four lights with consistent assignments; baptisms as transformative crossings; phenomenological description of degree transition |
-| VIII,2 | Letter of Peter to Philip | Moderate | "Archons fighting against the inner man"; "image in place of image"; Jesus as Stranger; light/darkness combat |
+| # | Tractate | Classification | Criteria (§2.3) | Key Correspondential Features |
+|---|----------|---------------|----------|-------------------------------|
+| VIII,1 | Zostrianos | Rich | 2 3 4 | 13+ levels of ascent; four lights with consistent assignments; baptisms as transformative crossings; phenomenological description of degree transition |
+| VIII,2 | Letter of Peter to Philip | Moderate | 3 4 | "Archons fighting against the inner man"; "image in place of image"; Jesus as Stranger; light/darkness combat |
 
 ### Codex IX
 
-| # | Tractate | Classification | Key Correspondential Features |
-|---|----------|---------------|-------------------------------|
-| IX,1 | Melchizedek | Moderate | Anti-docetic stance; Melchizedek as paradigm of heavenly priesthood; the four lights; fragmentary; limited correspondential signaling |
-| IX,2 | Thought of Norea | Sparse | Brief hymn; Norea and the four holy helpers; extends Hypostasis of the Archons; too brief for systematic analysis |
-| IX,3 | Testimony of Truth | Moderate | Jordan=body, water=desire, John=archon of the womb; serpent=true instructor; anti-baptismal polemic; explicitly reverses natural correspondences |
+| # | Tractate | Classification | Criteria (§2.3) | Key Correspondential Features |
+|---|----------|---------------|----------|-------------------------------|
+| IX,1 | Melchizedek | Moderate | 2 4 | Anti-docetic stance; Melchizedek as paradigm of heavenly priesthood; the four lights; fragmentary; limited correspondential signaling |
+| IX,2 | Thought of Norea | Sparse | 4 | Brief hymn; Norea and the four holy helpers; extends Hypostasis of the Archons; too brief for systematic analysis |
+| IX,3 | Testimony of Truth | Rich | 1 2 3 | "What is this mystery? … Why then do you err and do not seek after these mysteries which were prefigured for our sake?" (IX 45,11–22); Jordan=body, water=desire, John=archon of the womb; serpent=true instructor; anti-baptismal polemic; explicitly reverses natural correspondences |
 
 ### Codex X
 
-| # | Tractate | Classification | Key Correspondential Features |
-|---|----------|---------------|-------------------------------|
-| X,1 | Marsanes | Moderate | Thirteen seals enumerated; letter-mysticism; cosmological hierarchy; badly damaged; degree structure visible in surviving sections |
+| # | Tractate | Classification | Criteria (§2.3) | Key Correspondential Features |
+|---|----------|---------------|----------|-------------------------------|
+| X,1 | Marsanes | Moderate | 2 4 | Thirteen seals enumerated; letter-mysticism; cosmological hierarchy; badly damaged; degree structure visible in surviving sections |
 
 ### Codex XI
 
-| # | Tractate | Classification | Key Correspondential Features |
-|---|----------|---------------|-------------------------------|
-| XI,1 | Interpretation of Knowledge | Moderate | Root/fruit/leaf as spiritual degree; church as body members; different gifts as different modes of reception; "envy from the ruler" |
-| XI,2 | Valentinian Exposition | Rich | Baptismal liturgy with systematic correspondences; world→Jordan, blindness→sight, carnal→spiritual, servitude→sonship; limit/cross function |
-| XI,3 | Allogenes | Rich | Apophatic ascent; "not-being and non-existent" beyond categories; triple-powered one; silent knowing not through mental representations |
-| XI,4 | Hypsiphrone | Fragmentary | Water imagery; fount; descent; too damaged for analysis |
+| # | Tractate | Classification | Criteria (§2.3) | Key Correspondential Features |
+|---|----------|---------------|----------|-------------------------------|
+| XI,1 | Interpretation of Knowledge | Moderate | 2 3 | Root/fruit/leaf as spiritual degree; church as body members; different gifts as different modes of reception; "envy from the ruler" |
+| XI,2 | Valentinian Exposition | Extraordinary | 1 2 3 4 | "The interpretation of John is the Aeon; the interpretation of … the Jordan is the descent which is the ascent" (On Baptism A, XI 41,31–38); Tetrad, Decad, Dodecad and the 360 of the year; baptismal liturgy with systematic correspondences; world→Jordan, blindness→sight, carnal→spiritual, servitude→sonship; limit/cross function |
+| XI,3 | Allogenes | Rich | 2 3 4 | Apophatic ascent; "not-being and non-existent" beyond categories; triple-powered one; silent knowing not through mental representations |
+| XI,4 | Hypsiphrone | Fragmentary | — | Water imagery; fount; descent; too damaged for analysis |
 
 ### Codex XII
 
-| # | Tractate | Classification | Key Correspondential Features |
-|---|----------|---------------|-------------------------------|
-| XII,1 | Sentences of Sextus | Sparse | "Understand who God is, and understand who it is that thinks within you"; body as garment of the soul; ethical maxims with correspondential precision; NOT Gnostic |
-| XII,2 | Gospel of Truth (fragments) | — | Fragments of I,3 |
-| XII,3 | Fragments | Fragmentary | Traces of light/truth vocabulary; too damaged for analysis |
+| # | Tractate | Classification | Criteria (§2.3) | Key Correspondential Features |
+|---|----------|---------------|----------|-------------------------------|
+| XII,1 | Sentences of Sextus | Moderate | 2 3 | "Understand who God is, and understand who it is that thinks within you"; body as garment of the soul; ethical maxims with correspondential precision; NOT Gnostic |
+| XII,2 | Gospel of Truth (fragments) | — | — | Fragments of I,3 |
+| XII,3 | Fragments | Fragmentary | — | Traces of light/truth vocabulary; too damaged for analysis |
 
 ### Codex XIII
 
-| # | Tractate | Classification | Key Correspondential Features |
-|---|----------|---------------|-------------------------------|
-| XIII,1 | Trimorphic Protennoia | Rich | Three descents as Voice/Speech/Word = celestial/spiritual/natural; "I put on Jesus"; Five Seals as full initiation; three registers one reality |
+| # | Tractate | Classification | Criteria (§2.3) | Key Correspondential Features |
+|---|----------|---------------|----------|-------------------------------|
+| XIII,1 | Trimorphic Protennoia | Rich | 2 3 4 | Three descents as Voice/Speech/Word = celestial/spiritual/natural; "I put on Jesus"; Five Seals as full initiation; three registers one reality |
 
 ### Berlin Codex (BG 8502)
 
-| # | Tractate | Classification | Key Correspondential Features |
-|---|----------|---------------|-------------------------------|
-| BG,1 | Gospel of Mary | Moderate | Seven powers overcome in ascent; "For where the mind is, there is the treasure" (BG 10,15–16); Desire/Ignorance/Wrath as spiritual obstacles; Mary as paradigm of perception |
-| BG,2 | Apocryphon of John (parallel) | Extraordinary | Short recension parallel |
-| BG,3 | Sophia of Jesus Christ (parallel) | Rich | Parallel to III,4 |
-| BG,4 | Act of Peter | Sparse | Healing narrative; possible correspondential content but no self-announcement |
+| # | Tractate | Classification | Criteria (§2.3) | Key Correspondential Features |
+|---|----------|---------------|----------|-------------------------------|
+| BG,1 | Gospel of Mary | Moderate | 2 4 | Seven powers overcome in ascent; "For where the mind is, there is the treasure" (BG 10,15–16); Desire/Ignorance/Wrath as spiritual obstacles; Mary as paradigm of perception |
+| BG,2 | Apocryphon of John (parallel) | Extraordinary | 1 2 3 4 | Short recension parallel |
+| BG,3 | Sophia of Jesus Christ (parallel) | Extraordinary | 1 2 3 4 | Parallel to III,4 |
+| BG,4 | Act of Peter | Sparse | – | Healing narrative; possible correspondential content but no self-announcement |
 
 ### Summary Statistics
 
 | Classification | Count | Percentage |
 |---------------|-------|------------|
-| Extraordinary | 4 | 9% |
-| Rich | 14 | 31% |
-| Moderate | 17 | 38% |
-| Sparse | 8 | 18% |
+| Extraordinary | 7 | 16% |
+| Rich | 19 | 42% |
+| Moderate | 13 | 29% |
+| Sparse | 4 | 9% |
 | Fragmentary | 2 | 4% |
 | **Total** | **45** | **100%** |
 
-The counts are of the 45 unique texts classified in §2.4 (Eugnostos and the Sophia of Jesus Christ counted once); parallel copies and the Berlin Codex are listed with their texts above but not counted. Texts classified as "Rich" or "Extraordinary" account for 40% of unique texts (18 of 45). When moderate texts — which contain identifiable correspondential content without systematic structure — are included, 35 of 45, approximately 78% of the library, contain demonstrable correspondential material.
+The counts are of the 45 unique texts classified in §2.4 (Eugnostos and the Sophia of Jesus Christ counted once); parallel copies and the Berlin Codex are listed with their texts above but not counted. Texts classified as "Rich" or "Extraordinary" account for 58% of unique texts (26 of 45). When moderate texts — which meet two of the four criteria — are included, 39 of 45, approximately 87% of the library, contain demonstrable correspondential material.
 
 ---
 

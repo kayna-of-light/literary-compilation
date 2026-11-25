@@ -60,7 +60,7 @@
   - [8.6 Four Independent Witnesses: Bundahišn, Kephalaia, Apocryphon of John, Swedenborg](#86-four-independent-witnesses-bundahišn-kephalaia-apocryphon-of-john-swedenborg)
   - [8.7 Swedenborg's Geographic Claim: "Great Tartary" and the Turfan Cave Libraries](#87-swedenborgs-geographic-claim-great-tartary-and-the-turfan-cave-libraries)
 - [9. The Egyptian Deposit: The Nag Hammadi Library as Correspondential Archive](#9-the-egyptian-deposit-the-nag-hammadi-library-as-correspondential-archive)
-  - [9.1 The Burial of 367 CE: Athanasius's Order and the Monks' Response](#91-the-burial-of-367-ce-athanasiuss-order-and-the-monks-response)
+  - [9.1 The Burial: Athanasius's Letter and the Monks' Response](#91-the-burial-athanasiuss-letter-and-the-monks-response)
   - [9.2 Six Texts That Announce Their Own Correspondential Method](#92-six-texts-that-announce-their-own-correspondential-method)
   - [9.3 The Gospel of Thomas: Independent Witness to the Jamesian Tradition](#93-the-gospel-of-thomas-independent-witness-to-the-jamesian-tradition)
   - [9.4 The Apocryphon of John and "The Book of Zoroaster"](#94-the-apocryphon-of-john-and-the-book-of-zoroaster)
@@ -119,7 +119,7 @@ The **first channel** is the Johannine literary tradition — the Fourth Gospel,
 
 The **second channel** is the Eastern transmission — the path that runs from the Desposyni through the Elcesaite communities of Babylonia to Mani (216–274 CE) and the Kephalaia. Mani was born into an Elcesaite (Jewish-Christian baptismal) community at the crossroads of Zoroastrian, Christian, and Buddhist traditions. The Book of Giants — an Enochic text found at both Qumran and Turfan — provides physical proof of the transmission chain across the Silk Road. When the Manichaean editorial frame is stripped from the Kephalaia through computational extraction, the pre-Manichaean substrate reveals systematic five-fold degree architectures, body-universe correspondence maps, opposite-sense structures, and the summons-and-obedience doctrine — all structurally identical to the Zoroastrian Dāmdād Nask preserved in the Bundahišn and to Swedenborg's doctrine of correspondences, yet produced independently of both. Four witnesses — separated by centuries, continents, and religious traditions — describe the same body of knowledge. Swedenborg located this knowledge in "Great Tartary" (Central Asia) in 1771 — precisely where Manichaean texts were preserved in cave libraries at Turfan.
 
-The **third channel** is the Egyptian deposit — the Nag Hammadi Library, forty-five texts from at least ten distinct traditions, buried circa 367 CE in response to Athanasius's destruction order and discovered in 1945. Six texts explicitly announce their own correspondential method. The same natural-to-spiritual correspondences — light as wisdom, fire as love in both senses, water as truth at the natural degree, garments as external truths, seeds as interior truths — appear with functional consistency across Sethian, Valentinian, Thomasine, Hermetic, and non-Gnostic wisdom traditions. The Apocryphon of John's body-creation passage cites "the book of Zoroaster" as its source. The Teachings of Silvanus — a non-Gnostic Christian wisdom text — explicitly uses the word "correspondence." The system predates and transcends Gnosticism. The library is not a Gnostic collection. It is a correspondential archive — a fourth-century snapshot of a mode of consciousness that was still active enough to produce literature but already contracting enough that the texts had to explain, rather than simply employ, the perception that animated them.
+The **third channel** is the Egyptian deposit — the Nag Hammadi Library, forty-five texts from at least ten distinct traditions, buried some time after 348, probably around 400, and discovered in 1945. Six texts explicitly announce their own correspondential method. The same natural-to-spiritual correspondences — light as wisdom, fire as love in both senses, water as truth at the natural degree, garments as external truths, seeds as interior truths — appear with functional consistency across Sethian, Valentinian, Thomasine, Hermetic, and non-Gnostic wisdom traditions. The Apocryphon of John's body-creation passage cites "the book of Zoroaster" as its source. The Teachings of Silvanus — a non-Gnostic Christian wisdom text — explicitly uses the word "correspondence." The system predates and transcends Gnosticism. The library is not a Gnostic collection. It is a correspondential archive — a fourth-century snapshot of a mode of consciousness that was still active enough to produce literature but already contracting enough that the texts had to explain, rather than simply employ, the perception that animated them.
 
 And beyond these three channels, a fourth witness preserved what the editorial programme destroyed from a direction no one expected. The Quran's portrait of Jesus — *Isa ibn Maryam* — is not a seventh-century Islamic reinterpretation. It is the Jamesian Jesus, independently preserved through transmission channels that bypassed the Pauline editorial programme, arriving in the Arabian Peninsula through Jewish-Christian communities the imperial church had failed to eliminate. The Quranic Jesus is a mortal prophet, not a divine being. He confirms the Torah. He teaches through works. The *Hawariyun* — the inner circle — are "the white-clad ones," linguistically connected to the Nazirite community of James, not to the Twelve of the canonical tradition. The Quran systematically corrects every Pauline deviation: it affirms the goodness of matter against anti-cosmic dualism, restores the Law against antinomianism, humanizes Jesus against the Gnostic Christ, and denies vicarious atonement by denying the crucifixion as a saving event. The editorial programme reached Luke. It reached Acts. It reached the canon. It did not reach the Quran.
 
@@ -710,11 +710,11 @@ Swedenborg had no access to the archaeological discoveries that would confirm hi
 
 ## 9. The Egyptian Deposit: The Nag Hammadi Library as Correspondential Archive
 
-### 9.1 The Burial of 367 CE: Athanasius's Order and the Monks' Response
+### 9.1 The Burial: Athanasius's Letter and the Monks' Response
 
-In 367 CE, Athanasius of Alexandria issued his Festal Letter — the earliest surviving document listing exactly the twenty-seven books of the present New Testament — accompanied by an order to purge all non-canonical texts from the churches and monasteries under his jurisdiction. This was not a scholarly recommendation. It was an episcopal decree backed by imperial authority.
+In 367 CE, Athanasius of Alexandria issued his Festal Letter — the earliest surviving document listing exactly the twenty-seven books of the present New Testament — condemning the apocryphal books as "an invention of heretics" (Athanasius, *Ep. fest.* 39.7). This was not a scholarly recommendation. Theodore, head of the Pachomian monasteries, had the letter translated into Coptic and "deposited it in the monastery to serve them as a rule" (Robinson 1990).
 
-Near the Egyptian town of Nag Hammadi, monks — likely of the Pachomian community — responded by sealing forty-five texts into an earthenware jar and burying it near the cliffs of the Jabal al-Tarif. The burial was an act of preservation, not disposal. The texts were carefully bound in leather codices, organized by codex, and sealed against the elements. Someone valued these texts enough to save them from destruction — and understood that the destruction was coming.
+Near the Egyptian town of Nag Hammadi, someone — perhaps monks of the Pachomian community — sealed the codices into an earthenware jar and buried it near the cliffs of the Jabal al-Tarif, some time after 348 and probably around 400 (Robinson 1990; Lundhaug and Bull 2023). No record ties the burial to the letter; the connection has been drawn since Jean Doresse (Lundhaug and Bull 2023, 5). The burial was an act of preservation, not disposal. The texts were carefully bound in leather codices, organized by codex, and sealed against the elements. Someone valued these texts enough to keep them from the fate the letter's condemnation pointed to.
 
 The jar was discovered in December 1945, yielding thirteen leather-bound papyrus codices containing texts from at least ten distinct religious traditions: Sethian Gnosticism, Valentinian theology, Hermeticism, Platonism, Thomasine Christianity, and non-sectarian wisdom. The theological diversity is extraordinary. Sethian and Valentinian cosmologies are mutually inconsistent. Hermetic texts share vocabulary with Gnostic texts but not theology. The non-sectarian wisdom texts (Silvanus, Sextus) contain nothing specifically Gnostic. What unifies the collection is not theology but a shared mode of perception — the correspondential system that operates across all traditions in the library.
 
@@ -766,7 +766,7 @@ This is the self — what is one's own — personified as cosmological principle
 
 The Teachings of Silvanus (NHC VII,4) is the single most important text for the thesis that the correspondential system is not a Gnostic invention. Silvanus contains no demiurge, no Sophia, no divine spark, no archons, no cosmic fall. It is a Christian wisdom text in the tradition of Jewish *hokmah* literature — closer to Proverbs than to the Apocryphon of John.
 
-And yet Silvanus explicitly uses the word "correspondence": "This image reveals the true likeness in correspondence to that which is revealed." It teaches discrete degrees: "Do not let God dwell in thought alone. He dwells in the heart." It treats the body as correspondent to the soul: the soul can be a temple (when turned toward God) or a tomb (when turned toward itself). And its central instruction — "Knock on yourself as upon a door and walk upon yourself as on a straight road" — is the correspondential method applied to self-knowledge.
+And yet Silvanus states the relation between image and likeness in so many words: "For this image (εἰκών) reveals the true likeness (ⲡⲓⲛⲉ ⲙ̅ⲙⲉ) according to what is revealed" (Silv. VII 100,27–30) — the Greek loanword names the outer image, the native Egyptian word the true likeness it discloses. It places worship in the heart: "piety is that which comes from the heart" (VII 108,35–109,2). It treats the body as correspondent to the soul: the soul can be a temple (when turned toward God) or a tomb (when turned toward itself) — "You were a temple, but you have made yourself a tomb" (VII 106,9–11). And its central instruction — "Knock on yourself as on a door, and walk within yourself as on a straight road" (VII 106,30–33) — is the correspondential method applied to self-knowledge.
 
 If correspondential vocabulary appeared only in Gnostic texts, one could argue it is a Gnostic invention. Silvanus proves it is not. It is a mode of perception that different traditions access because it describes the structure of reality, not because it was invented by a particular community.
 
@@ -774,7 +774,7 @@ If correspondential vocabulary appeared only in Gnostic texts, one could argue i
 
 The correspondential content of the library distributes across every tradition it contains: Sethian cosmogony, Valentinian theology, Thomasine sayings, Hermetic philosophy, apostolic narrative, non-Gnostic wisdom, poetic aretalogy, esoteric Genesis, liturgical prayer. No single tradition could have produced this distribution. The only explanation that accounts for it is that correspondential perception is a mode of consciousness that different traditions access to different degrees — and that the library, by accident of burial and discovery, preserved a cross-section of that access from the centuries when it was still active.
 
-Of 45 texts in the library, four are correspondentially extraordinary (Thomas, Philip, Apocryphon of John, Gospel of Truth), fourteen are rich, approximately twelve show moderate content, eight are sparse, and the remainder are fragmentary. This distribution correlates with tradition and self-referential hermeneutics rather than with text length — exactly what the correspondential hypothesis predicts and the "scholarly projection" hypothesis does not.
+Scored against four stated criteria, seven of the 45 texts in the library are correspondentially extraordinary (Thomas, Philip, the Apocryphon of John, the Gospel of Truth, Eugnostos with the Sophia of Jesus Christ, the Valentinian Exposition, and the Teachings of Silvanus), nineteen are rich, thirteen moderate, four sparse, and two too fragmentary to assess — 39 of 45, about 87%, carry identifiable correspondential content. The distribution tracks text length, but what decides it is explicit: nineteen texts tell their reader that what is said or seen carries a hidden sense, a statement that is present or absent in texts of the same length.
 
 The Nag Hammadi Library is a correspondential archive — a fourth-century snapshot of a mode of consciousness that was still active enough to produce literature but already contracting enough that the texts had to explain, rather than simply employ, the perception that animated them. The monks who buried the jar understood that what they were preserving was not a sectarian theology but a way of reading reality. The destruction order came. The perception went underground. The jar waited.
 
@@ -1006,7 +1006,7 @@ The water survived. It always does.
 |---------|--------|-----------|----------|---------------|
 | **Johannine** | Jamesian community, Jerusalem | Beloved Disciple (James) → Johannine community | Fourth Gospel, Epistles, Revelation | Enochic substrate; Two Spirits doctrine; Signs sequence |
 | **Eastern** | Desposyni → Elcesaites → Mani | Jewish-Christian communities in Babylonia | Kephalaia; Turfan manuscripts | Book of Giants at Qumran AND Turfan |
-| **Egyptian** | Multiple communities, Egypt | Correspondential archive buried 367 CE | Nag Hammadi Library (45 texts) | Physical codices discovered 1945 |
+| **Egyptian** | Multiple communities, Egypt | Correspondential archive buried c. 400 CE | Nag Hammadi Library (45 texts) | Physical codices discovered 1945 |
 | **Quranic** | Jewish-Christian communities, Arabia | Independent transmission bypassing canonical bottleneck | Quran (Isa ibn Maryam) | Systematic convergence with Jamesian profile |
 
 ### C. The Editorial Programme — Comprehensive Mapping
@@ -1039,75 +1039,78 @@ The water survived. It always does.
 ## 15. Works Cited
 
 ### Primary Sources
+1. Linssen, Martijn A. T. *Nag Hammadi Library Complete Transcription.* Thomas Miscellaneous, Part X. 2024. The Coptic of the Teachings of Silvanus (§9.6) is quoted from it, in translation, by codex page and line.
+2. Athanasius. *Festal Letter* 39. Translated by R. Payne-Smith. In *Nicene and Post-Nicene Fathers*, Second Series, vol. 4, edited by Philip Schaff and Henry Wace. New York: Christian Literature Company, 1892. The Greek portion; the apocrypha as "an invention of heretics" at §7.
 
-1. Eusebius of Caesarea. *Historia Ecclesiastica* (*Church History*). Trans. G. A. Williamson. Penguin Classics, 1989. Key passages: 3.19-20 (Domitian interrogation), 3.11 (Symeon succession), 2.23 (James the Just).
-2. Josephus, Flavius. *Antiquities of the Jews*, Book 20. Trans. William Whiston. Key passage: 20.9.1 (execution of James).
-3. Tacitus, Cornelius. *Annals*, Book 15. Trans. J. Jackson. Loeb Classical Library. Key passage: 15.44 (crucifixion under Pilate).
-4. Novum Testamentum Graece (NA28). Ed. E. Nestle, B. Aland, et al. 28th rev. ed. Deutsche Bibelgesellschaft, 2012.
-5. Robinson, James M., ed. *The Nag Hammadi Library in English*. 3rd rev. ed. San Francisco: HarperSanFrancisco, 1990.
-6. Gardner, Iain. *The Kephalaia of the Teacher: The Edited Coptic Manichaean Texts in Translation with Commentary*. Nag Hammadi and Manichaean Studies 37. Leiden: Brill, 1995.
-7. Cameron, Ron, and Arthur J. Dewey. *The Cologne Mani Codex: "Concerning the Origin of His Body."* Missoula, MT: Scholars Press, 1979.
-8. Swedenborg, Emanuel. *Arcana Coelestia*. 12 vols. London, 1749-1756.
-9. Swedenborg, Emanuel. *True Christian Religion*. Amsterdam, 1771.
-10. Swedenborg, Emanuel. *Divine Love and Wisdom*. Amsterdam, 1763.
-11. The Quran. Trans. M. A. S. Abdel Haleem. Oxford University Press, 2004.
-12. Epiphanius. *Ancoratus und Panarion*. Vol. 2, *Panarion haer. 34–64*. Edited by Karl Holl. GCS 31. Leipzig: Hinrichs, 1922.
-13. Tertullian. *Adversus Marcionem*. Edited and translated by Ernest Evans. 2 vols. Oxford: Clarendon Press, 1972.
+3. Eusebius of Caesarea. *Historia Ecclesiastica* (*Church History*). Trans. G. A. Williamson. Penguin Classics, 1989. Key passages: 3.19-20 (Domitian interrogation), 3.11 (Symeon succession), 2.23 (James the Just).
+4. Josephus, Flavius. *Antiquities of the Jews*, Book 20. Trans. William Whiston. Key passage: 20.9.1 (execution of James).
+5. Tacitus, Cornelius. *Annals*, Book 15. Trans. J. Jackson. Loeb Classical Library. Key passage: 15.44 (crucifixion under Pilate).
+6. Novum Testamentum Graece (NA28). Ed. E. Nestle, B. Aland, et al. 28th rev. ed. Deutsche Bibelgesellschaft, 2012.
+7. Robinson, James M., ed. *The Nag Hammadi Library in English*. 3rd rev. ed. San Francisco: HarperSanFrancisco, 1990.
+8. Gardner, Iain. *The Kephalaia of the Teacher: The Edited Coptic Manichaean Texts in Translation with Commentary*. Nag Hammadi and Manichaean Studies 37. Leiden: Brill, 1995.
+9. Cameron, Ron, and Arthur J. Dewey. *The Cologne Mani Codex: "Concerning the Origin of His Body."* Missoula, MT: Scholars Press, 1979.
+10. Swedenborg, Emanuel. *Arcana Coelestia*. 12 vols. London, 1749-1756.
+11. Swedenborg, Emanuel. *True Christian Religion*. Amsterdam, 1771.
+12. Swedenborg, Emanuel. *Divine Love and Wisdom*. Amsterdam, 1763.
+13. The Quran. Trans. M. A. S. Abdel Haleem. Oxford University Press, 2004.
+14. Epiphanius. *Ancoratus und Panarion*. Vol. 2, *Panarion haer. 34–64*. Edited by Karl Holl. GCS 31. Leipzig: Hinrichs, 1922.
+15. Tertullian. *Adversus Marcionem*. Edited and translated by Ernest Evans. 2 vols. Oxford: Clarendon Press, 1972.
 
 ### Secondary Sources — Talpiot Tomb and James Ossuary
 
-14. Shimron, Aryeh, et al. "Geochemical Investigation of the James Ossuary Inscription and Its Relation to the Talpiot (Jesus Family) Tomb." *Open Journal of Geology* 10 (2020): 81-110.
-15. Feuerverger, Andrey. "Statistical Analysis of an Archaeological Find." *Annals of Applied Statistics* 2, no. 1 (2008): 3-54.
-16. Kilty, Kevin, and Mark Elliott. "Regarding the Talpiot Tomb Cluster: A Bayesian Outlook." In *The Tomb of Jesus and His Family?*, ed. James H. Charlesworth, 133-148. Grand Rapids: Eerdmans, 2013.
-17. Jacobovici, Simcha, and Charles Pellegrino. *The Jesus Family Tomb*. San Francisco: HarperSanFrancisco, 2007.
-18. Tabor, James D. *The Jesus Dynasty*. New York: Simon & Schuster, 2006.
-19. Kloner, Amos. "A Tomb with Inscribed Ossuaries in East Talpiyot, Jerusalem." *'Atiqot* 29 (1996): 15-22.
+16. Shimron, Aryeh, et al. "Geochemical Investigation of the James Ossuary Inscription and Its Relation to the Talpiot (Jesus Family) Tomb." *Open Journal of Geology* 10 (2020): 81-110.
+17. Feuerverger, Andrey. "Statistical Analysis of an Archaeological Find." *Annals of Applied Statistics* 2, no. 1 (2008): 3-54.
+18. Kilty, Kevin, and Mark Elliott. "Regarding the Talpiot Tomb Cluster: A Bayesian Outlook." In *The Tomb of Jesus and His Family?*, ed. James H. Charlesworth, 133-148. Grand Rapids: Eerdmans, 2013.
+19. Jacobovici, Simcha, and Charles Pellegrino. *The Jesus Family Tomb*. San Francisco: HarperSanFrancisco, 2007.
+20. Tabor, James D. *The Jesus Dynasty*. New York: Simon & Schuster, 2006.
+21. Kloner, Amos. "A Tomb with Inscribed Ossuaries in East Talpiyot, Jerusalem." *'Atiqot* 29 (1996): 15-22.
 
 ### Secondary Sources — Biblical Scholarship and Historical-Critical Method
 
-20. Klinghardt, Matthias. *The Oldest Gospel and the Formation of the Canonical Gospels*. 2 vols. Leuven: Peeters, 2021.
-21. BeDuhn, Jason. *The First New Testament: Marcion's Scriptural Canon*. Salem, OR: Polebridge, 2013.
-22. Vinzent, Markus. *Marcion and the Dating of the Synoptic Gospels*. Studia Patristica Supplements 2. Leuven: Peeters, 2014.
-23. Streeter, B. H. *The Four Gospels: A Study of Origins*. London: Macmillan, 1924.
-24. Westcott, Brooke Foss, and Fenton John Anthony Hort. *The New Testament in the Original Greek*. 2 vols. Cambridge: Macmillan, 1881.
-25. Bauer, Walter. *Orthodoxy and Heresy in Earliest Christianity*. Trans. Philadelphia Seminar on Christian Origins. Philadelphia: Fortress Press, 1971 [1934].
-26. Eisenman, Robert. *James the Brother of Jesus*. New York: Viking, 1997.
-27. Ehrman, Bart D. *The Orthodox Corruption of Scripture*. Oxford: Oxford University Press, 1993.
-28. Pagels, Elaine. *The Gnostic Paul*. Philadelphia: Fortress Press, 1975.
-29. DeConick, April D. *Recovering the Original Gospel of Thomas*. London: T&T Clark, 2005.
-30. Gathercole, Simon. *The Composition of the Gospel of Thomas*. Cambridge: Cambridge University Press, 2012.
-31. Pervo, Richard I. *Dating Acts: Between the Evangelists and the Apologists*. Polebridge, 2006.
-32. Charlesworth, James H., ed. *The Old Testament Pseudepigrapha*, vol. 1. New York: Doubleday, 1983.
+22. Klinghardt, Matthias. *The Oldest Gospel and the Formation of the Canonical Gospels*. 2 vols. Leuven: Peeters, 2021.
+23. BeDuhn, Jason. *The First New Testament: Marcion's Scriptural Canon*. Salem, OR: Polebridge, 2013.
+24. Vinzent, Markus. *Marcion and the Dating of the Synoptic Gospels*. Studia Patristica Supplements 2. Leuven: Peeters, 2014.
+25. Streeter, B. H. *The Four Gospels: A Study of Origins*. London: Macmillan, 1924.
+26. Westcott, Brooke Foss, and Fenton John Anthony Hort. *The New Testament in the Original Greek*. 2 vols. Cambridge: Macmillan, 1881.
+27. Bauer, Walter. *Orthodoxy and Heresy in Earliest Christianity*. Trans. Philadelphia Seminar on Christian Origins. Philadelphia: Fortress Press, 1971 [1934].
+28. Eisenman, Robert. *James the Brother of Jesus*. New York: Viking, 1997.
+29. Ehrman, Bart D. *The Orthodox Corruption of Scripture*. Oxford: Oxford University Press, 1993.
+30. Pagels, Elaine. *The Gnostic Paul*. Philadelphia: Fortress Press, 1975.
+31. DeConick, April D. *Recovering the Original Gospel of Thomas*. London: T&T Clark, 2005.
+32. Gathercole, Simon. *The Composition of the Gospel of Thomas*. Cambridge: Cambridge University Press, 2012.
+33. Pervo, Richard I. *Dating Acts: Between the Evangelists and the Apologists*. Polebridge, 2006.
+34. Charlesworth, James H., ed. *The Old Testament Pseudepigrapha*, vol. 1. New York: Doubleday, 1983.
 
 ### Secondary Sources — Manichaean and Zoroastrian Studies
 
-33. Boyce, Mary. *A History of Zoroastrianism*, vol. 1. Leiden: Brill, 1975.
-34. Henning, W. B. "The Book of the Giants." *Bulletin of the School of Oriental and African Studies* 11, no. 1 (1943): 52-74.
-35. Anklesaria, Behramgore Tehmuras, trans. *Zand-Ākāsīh: Iranian or Greater Bundahišn.* Bombay: Rahnumae Mazdayasnan Sabha, 1956.
-36. Widengren, Geo. *Mani and Manichaeism*. Trans. Charles Kessler. London: Weidenfeld and Nicolson, 1965.
+35. Boyce, Mary. *A History of Zoroastrianism*, vol. 1. Leiden: Brill, 1975.
+36. Henning, W. B. "The Book of the Giants." *Bulletin of the School of Oriental and African Studies* 11, no. 1 (1943): 52-74.
+37. Anklesaria, Behramgore Tehmuras, trans. *Zand-Ākāsīh: Iranian or Greater Bundahišn.* Bombay: Rahnumae Mazdayasnan Sabha, 1956.
+38. Widengren, Geo. *Mani and Manichaeism*. Trans. Charles Kessler. London: Weidenfeld and Nicolson, 1965.
 
 ### Secondary Sources — Nag Hammadi and Gnostic Studies
+39. Lundhaug, Hugo, and Christian H. Bull, eds. *The Nag Hammadi Codices as Monastic Books.* Studien und Texte zu Antike und Christentum 134. Tübingen: Mohr Siebeck, 2023. Open access. The cartonnage of Codex VII (latest date 348) as the production terminus, production from the mid-fourth to the early fifth century (Falkenberg, 88 n.; Linjamaa, 228), and the history of the 367 link since Doresse (Lundhaug and Bull, 5).
 
-37. Pagels, Elaine. *The Gnostic Gospels*. New York: Random House, 1979.
-38. Turner, John D. *Sethian Gnosticism and the Platonic Tradition*. Quebec: Les Presses de l'Université Laval, 2001.
-39. Pearson, Birger A. *Ancient Gnosticism*. Minneapolis: Fortress Press, 2007.
-40. Williams, Michael A. *Rethinking "Gnosticism"*. Princeton: Princeton University Press, 1996.
+40. Pagels, Elaine. *The Gnostic Gospels*. New York: Random House, 1979.
+41. Turner, John D. *Sethian Gnosticism and the Platonic Tradition*. Quebec: Les Presses de l'Université Laval, 2001.
+42. Pearson, Birger A. *Ancient Gnosticism*. Minneapolis: Fortress Press, 2007.
+43. Williams, Michael A. *Rethinking "Gnosticism"*. Princeton: Princeton University Press, 1996.
 
 ### Internal Library Documents
 
-41. [They Killed His Brother and Took His Name: A Forensic Reconstruction of the Suppression of the Jamesian Church and the Editorial Invention of Pauline Christianity](../04_Early_Christian_History/They%20Killed%20His%20Brother%20and%20Took%20His%20Name_%20A%20Forensic%20Reconstruction%20of%20the%20Suppression%20of%20the%20Jamesian%20Church%20and%20the%20Editorial%20Invention%20of%20Pauline%20Christianity.md). Master thesis on the editorial programme.
-42. [The Ancient Word Recovered: Extracting the Correspondential Substrate of the Kephalaia](../00_Framework/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md). Computational extraction of the pre-Manichaean substrate.
-43. [The Living Library: Correspondential Architecture Across the Nag Hammadi Collection](../08_Correspondential_Texts/The%20Living%20Library_%20Correspondential%20Architecture%20Across%20the%20Nag%20Hammadi%20Collection.md). Systematic correspondential analysis of all 45 NHL texts.
-44. [The Evidence They Will Not Touch: Twenty-Six Datapoints, Six Evidence Types, and the Methodological Disgrace of Historical Jesus Scholarship](../04_Early_Christian_History/The%20Evidence%20They%20Will%20Not%20Touch_%20Twenty-Six%20Datapoints%2C%20Six%20Evidence%20Types%2C%20and%20the%20Methodological%20Disgrace%20of%20Historical%20Jesus%20Scholarship.md). The complete evidential chain for the historical Jesus.
-45. [The Mistress Who Became a Sister: A Forensic Deconstruction of the Martha-Mary Pericope and the Recovery of Mariamene Marta](../04_Early_Christian_History/The%20Mistress%20Who%20Became%20a%20Sister_%20A%20Forensic%20Deconstruction%20of%20the%20Martha-Mary%20Pericope%20and%20the%20Recovery%20of%20Mariamene%20Marta.md). Six independent evidence lines for the one-person reading.
-46. [The Lost Son: The Yehuda bar Yeshua Ossuary and the Textual Traces of Jesus's Child](../04_Early_Christian_History/The%20Lost%20Son_%20Yehuda%20bar%20Yeshua%20and%20the%20Evidence%20for%20a%20Jesuine%20Lineage.md). The reclassification mechanism.
-47. [The Enochic Thread in the Johannine Corpus: Testing the Jamesian Origin Hypothesis](../03_Biblical_Scholarship/The%20Enochic%20Thread%20in%20the%20Johannine%20Corpus_%20Testing%20the%20Jamesian%20Origin%20Hypothesis.md). The Enochic substrate of the Fourth Gospel.
-48. [The Correction of the Archons: A Forensic Reconstruction of the Quranic Isa in Counter-Distinction to the Pauline Gnostic Construct](../04_Early_Christian_History/The%20Correction%20of%20the%20Archons_%20A%20Forensic%20Reconstruction%20of%20the%20Quranic%20Isa%20in%20Counter-Distinction%20to%20the%20Pauline%20Gnostic%20Construct.md). The Quranic Jesus as Jamesian restoration.
-49. [The Apostle of the Archons: A Forensic Validation of the Gnostic Substrate in the Pauline Corpus and the Imperial Co-optation of the Pneuma](../04_Early_Christian_History/The%20Apostle%20of%20the%20Archons_%20A%20Forensic%20Validation%20of%20the%20Gnostic%20Substrate%20in%20the%20Pauline%20Corpus%20and%20the%20Imperial%20Co-optation%20of%20the%20Pneuma.md). Paul's Gnostic roots.
-50. [The Architecture of Autonomy: The Gnostic Impulse as the Operational Mechanic of Selfhood](../05_The_Self/The%20Architecture%20of%20Autonomy_%20A%20Pneumatological%20and%20Historical%20Validation%20of%20the%20Gnostic%20Impulse%20as%20the%20Operational%20Mechanic%20of%20Selfhood.md). The self's drive for autonomy.
-51. [No Original Exists: The Universal Reconstruction of Biblical Texts and the Forensic Recovery of Proto-Luke](../03_Biblical_Scholarship/No%20Original%20Exists_%20The%20Universal%20Reconstruction%20of%20Biblical%20Texts%20and%20the%20Forensic%20Recovery%20of%20Proto-Luke.md). Epistemic parity of Proto-Luke and canonical reconstruction.
-52. [The Correspondential Architecture of the Four Gospels](../03_Biblical_Scholarship/The%20Correspondential%20Architecture%20of%20the%20Four%20Gospels_%20A%20Compositional%20Analysis%20Through%20the%20Lens%20of%20Ontological%20Correspondence.md). Correspondential diagnostic applied to all four Gospels.
-53. [A Prophet Mighty in Deed and Word: Understanding Jesus Through Proto-Luke, Consciousness Studies, and the Doctrine of Correspondences](../00_Framework/A%20Prophet%20Mighty%20in%20Deed%20and%20Word_%20Understanding%20Jesus%20Through%20Proto-Luke,%20Consciousness%20Studies,%20and%20the%20Doctrine%20of%20Correspondences.md). Jesus within expanded physics.
-54. [The Bulwark of the People: An Exhaustive Historical and Theological Profile of James the Brother of Jesus](../04_Early_Christian_History/The%20Bulwark%20of%20the%20People_%20An%20Exhaustive%20Historical%20and%20Theological%20Profile%20of%20James%20the%20Brother%20of%20Jesus.md). The comprehensive James profile.
-55. [The Imperial Gnosis: A Forensic Validation of the Displacement of Early Heterodoxies by the Roman Ecclesiastical Machine](../04_Early_Christian_History/The%20Imperial%20Gnosis_%20A%20Forensic%20Validation%20of%20the%20Displacement%20of%20Early%20Heterodoxies%20by%20the%20Roman%20Ecclesiastical%20Machine.md). How Rome pushed out native Christianity.
-56. [Truth Does Not Force Its Way: The Desposyni Between Perception and Providence](../04_Early_Christian_History/Truth%20Does%20Not%20Force%20Its%20Way_%20The%20Desposyni%20Between%20Perception%20and%20Providence.md). The three transmission channels and the behavioural signature.
+44. [They Killed His Brother and Took His Name: A Forensic Reconstruction of the Suppression of the Jamesian Church and the Editorial Invention of Pauline Christianity](../04_Early_Christian_History/They%20Killed%20His%20Brother%20and%20Took%20His%20Name_%20A%20Forensic%20Reconstruction%20of%20the%20Suppression%20of%20the%20Jamesian%20Church%20and%20the%20Editorial%20Invention%20of%20Pauline%20Christianity.md). Master thesis on the editorial programme.
+45. [The Ancient Word Recovered: Extracting the Correspondential Substrate of the Kephalaia](../00_Framework/The%20Ancient%20Word%20Recovered_%20Extracting%20the%20Correspondential%20Substrate%20of%20the%20Kephalaia.md). Computational extraction of the pre-Manichaean substrate.
+46. [The Living Library: Correspondential Architecture Across the Nag Hammadi Collection](../08_Correspondential_Texts/The%20Living%20Library_%20Correspondential%20Architecture%20Across%20the%20Nag%20Hammadi%20Collection.md). Systematic correspondential analysis of all 45 NHL texts.
+47. [The Evidence They Will Not Touch: Twenty-Six Datapoints, Six Evidence Types, and the Methodological Disgrace of Historical Jesus Scholarship](../04_Early_Christian_History/The%20Evidence%20They%20Will%20Not%20Touch_%20Twenty-Six%20Datapoints%2C%20Six%20Evidence%20Types%2C%20and%20the%20Methodological%20Disgrace%20of%20Historical%20Jesus%20Scholarship.md). The complete evidential chain for the historical Jesus.
+48. [The Mistress Who Became a Sister: A Forensic Deconstruction of the Martha-Mary Pericope and the Recovery of Mariamene Marta](../04_Early_Christian_History/The%20Mistress%20Who%20Became%20a%20Sister_%20A%20Forensic%20Deconstruction%20of%20the%20Martha-Mary%20Pericope%20and%20the%20Recovery%20of%20Mariamene%20Marta.md). Six independent evidence lines for the one-person reading.
+49. [The Lost Son: The Yehuda bar Yeshua Ossuary and the Textual Traces of Jesus's Child](../04_Early_Christian_History/The%20Lost%20Son_%20Yehuda%20bar%20Yeshua%20and%20the%20Evidence%20for%20a%20Jesuine%20Lineage.md). The reclassification mechanism.
+50. [The Enochic Thread in the Johannine Corpus: Testing the Jamesian Origin Hypothesis](../03_Biblical_Scholarship/The%20Enochic%20Thread%20in%20the%20Johannine%20Corpus_%20Testing%20the%20Jamesian%20Origin%20Hypothesis.md). The Enochic substrate of the Fourth Gospel.
+51. [The Correction of the Archons: A Forensic Reconstruction of the Quranic Isa in Counter-Distinction to the Pauline Gnostic Construct](../04_Early_Christian_History/The%20Correction%20of%20the%20Archons_%20A%20Forensic%20Reconstruction%20of%20the%20Quranic%20Isa%20in%20Counter-Distinction%20to%20the%20Pauline%20Gnostic%20Construct.md). The Quranic Jesus as Jamesian restoration.
+52. [The Apostle of the Archons: A Forensic Validation of the Gnostic Substrate in the Pauline Corpus and the Imperial Co-optation of the Pneuma](../04_Early_Christian_History/The%20Apostle%20of%20the%20Archons_%20A%20Forensic%20Validation%20of%20the%20Gnostic%20Substrate%20in%20the%20Pauline%20Corpus%20and%20the%20Imperial%20Co-optation%20of%20the%20Pneuma.md). Paul's Gnostic roots.
+53. [The Architecture of Autonomy: The Gnostic Impulse as the Operational Mechanic of Selfhood](../05_The_Self/The%20Architecture%20of%20Autonomy_%20A%20Pneumatological%20and%20Historical%20Validation%20of%20the%20Gnostic%20Impulse%20as%20the%20Operational%20Mechanic%20of%20Selfhood.md). The self's drive for autonomy.
+54. [No Original Exists: The Universal Reconstruction of Biblical Texts and the Forensic Recovery of Proto-Luke](../03_Biblical_Scholarship/No%20Original%20Exists_%20The%20Universal%20Reconstruction%20of%20Biblical%20Texts%20and%20the%20Forensic%20Recovery%20of%20Proto-Luke.md). Epistemic parity of Proto-Luke and canonical reconstruction.
+55. [The Correspondential Architecture of the Four Gospels](../03_Biblical_Scholarship/The%20Correspondential%20Architecture%20of%20the%20Four%20Gospels_%20A%20Compositional%20Analysis%20Through%20the%20Lens%20of%20Ontological%20Correspondence.md). Correspondential diagnostic applied to all four Gospels.
+56. [A Prophet Mighty in Deed and Word: Understanding Jesus Through Proto-Luke, Consciousness Studies, and the Doctrine of Correspondences](../00_Framework/A%20Prophet%20Mighty%20in%20Deed%20and%20Word_%20Understanding%20Jesus%20Through%20Proto-Luke,%20Consciousness%20Studies,%20and%20the%20Doctrine%20of%20Correspondences.md). Jesus within expanded physics.
+57. [The Bulwark of the People: An Exhaustive Historical and Theological Profile of James the Brother of Jesus](../04_Early_Christian_History/The%20Bulwark%20of%20the%20People_%20An%20Exhaustive%20Historical%20and%20Theological%20Profile%20of%20James%20the%20Brother%20of%20Jesus.md). The comprehensive James profile.
+58. [The Imperial Gnosis: A Forensic Validation of the Displacement of Early Heterodoxies by the Roman Ecclesiastical Machine](../04_Early_Christian_History/The%20Imperial%20Gnosis_%20A%20Forensic%20Validation%20of%20the%20Displacement%20of%20Early%20Heterodoxies%20by%20the%20Roman%20Ecclesiastical%20Machine.md). How Rome pushed out native Christianity.
+59. [Truth Does Not Force Its Way: The Desposyni Between Perception and Providence](../04_Early_Christian_History/Truth%20Does%20Not%20Force%20Its%20Way_%20The%20Desposyni%20Between%20Perception%20and%20Providence.md). The three transmission channels and the behavioural signature.

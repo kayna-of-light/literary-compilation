@@ -313,7 +313,7 @@ The process is precise: truth arrives in the world and takes form (texts, parabl
 
 Contained: the textual corpus that the Constantinian settlement locked into a closed canon — four gospels, the Pauline and deutero-Pauline letters, Acts, the Catholic Epistles, Revelation — read as physical history, governed by institutional authority, literalized into dogma. The living water sealed in a stone cistern.
 
-What escaped: the Nag Hammadi library, buried in a sealed jar in Upper Egypt around 367 CE — the approximate date of Athanasius's Festal Letter defining the canon — and recovered in 1945. The Manichaean corpus, driven to Turfan and Medinet Madi, preserving the Kephalaia's two-tree teaching and the systematic correspondential architecture of the *Psalms*. The Pseudo-Clementine *Recognitions* and *Homilies*, preserving fragments of Jamesian practice and theology within a novelistic frame. The oral traditions of the surviving Jewish-Christian communities, never fully extinguished in the Transjordan and Syria.
+What escaped: the Nag Hammadi library, buried in a sealed jar in Upper Egypt some time after 348, probably around 400 (Robinson 1990), and recovered in 1945. The Manichaean corpus, driven to Turfan and Medinet Madi, preserving the Kephalaia's two-tree teaching and the systematic correspondential architecture of the *Psalms*. The Pseudo-Clementine *Recognitions* and *Homilies*, preserving fragments of Jamesian practice and theology within a novelistic frame. The oral traditions of the surviving Jewish-Christian communities, never fully extinguished in the Transjordan and Syria.
 
 The textual record is the product of the containment operation. What survived in the canon survived *because* it was compatible with the operation's requirements. What escaped survived *despite* the operation — by being physically buried, geographically displaced to the empire's edge, or embedded in literary frames that obscured the content from institutional monitors. The recovery of the escaped material — Nag Hammadi in 1945, the Dead Sea Scrolls in 1947, the Turfan fragments across the twentieth century — is what makes the present reading possible. Without the escaped material, the containment would be invisible: all that would remain is the contained, and the contained reads as the totality.
 
@@ -471,38 +471,39 @@ Total evidential corpus: ~154,000 words across 9 primary documents.
 ## Works Cited
 
 **Primary sources:**
+1. Robinson, James M., ed. *The Nag Hammadi Library in English.* 3rd rev. ed. San Francisco: HarperSanFrancisco, 1990. Its introduction: the cartonnage dates 341, 346 and 348, burial "around 400", and Theodore's handling of the Festal Letter of 367.
 
-1. Aristotle. *Metaphysics*. Cited by Bekker numbering. Key passages: Λ.8 (1074b1–14), XIV (1091b10).
-2. Aristotle. *Nicomachean Ethics*. Key passages: IV (great-souled man), IX (self-love), X (contemplation).
-3. Aristotle. *Politics*. Key passage: Book I (natural slavery).
-4. Aristotle. *De Caelo*. Key passages: I (270b19), II (292a7).
-5. Diogenes Laertius. *Lives of the Eminent Philosophers*. Trans. C. D. Yonge. Project Gutenberg ebook 57342.
-6. Herodotus. *The Histories*. Trans. G. C. Macaulay. Project Gutenberg ebooks 2707, 2456.
-7. Strabo. *Geography*. Trans. H. L. Jones (Loeb Classical Library). Archive.org.
-8. Plutarch. *Moralia* (*On the Fortune of Alexander*). Project Gutenberg ebook 23639.
-9. Pliny the Elder. *Natural History* 30.3.
-10. Josephus. *Antiquities of the Jews*. Key passage: 20.197–203 (execution of James).
-11. *Dēnkard*. Trans. E. W. West. Sacred Books of the East, Vol. 37.
-12. *Book of Arda Viraf*. Eds. Haug & West.
-13. *Bundahišn*. Trans. E. W. West. Sacred Books of the East.
-14. R. Campbell Thompson. *The Reports of the Magicians and Astrologers of Nineveh and Babylon*. 2 vols. London: Luzac and Co., 1900.
+2. Aristotle. *Metaphysics*. Cited by Bekker numbering. Key passages: Λ.8 (1074b1–14), XIV (1091b10).
+3. Aristotle. *Nicomachean Ethics*. Key passages: IV (great-souled man), IX (self-love), X (contemplation).
+4. Aristotle. *Politics*. Key passage: Book I (natural slavery).
+5. Aristotle. *De Caelo*. Key passages: I (270b19), II (292a7).
+6. Diogenes Laertius. *Lives of the Eminent Philosophers*. Trans. C. D. Yonge. Project Gutenberg ebook 57342.
+7. Herodotus. *The Histories*. Trans. G. C. Macaulay. Project Gutenberg ebooks 2707, 2456.
+8. Strabo. *Geography*. Trans. H. L. Jones (Loeb Classical Library). Archive.org.
+9. Plutarch. *Moralia* (*On the Fortune of Alexander*). Project Gutenberg ebook 23639.
+10. Pliny the Elder. *Natural History* 30.3.
+11. Josephus. *Antiquities of the Jews*. Key passage: 20.197–203 (execution of James).
+12. *Dēnkard*. Trans. E. W. West. Sacred Books of the East, Vol. 37.
+13. *Book of Arda Viraf*. Eds. Haug & West.
+14. *Bundahišn*. Trans. E. W. West. Sacred Books of the East.
+15. R. Campbell Thompson. *The Reports of the Magicians and Astrologers of Nineveh and Babylon*. 2 vols. London: Luzac and Co., 1900.
 
 **Secondary sources:**
 
-15. Shields, Christopher. "Aristotle." *Stanford Encyclopedia of Philosophy* (2020).
-16. Lovejoy, Arthur O. *The Great Chain of Being*. Cambridge: Harvard University Press, 1936.
-17. Bauer, Walter. *Rechtgläubigkeit und Ketzerei im ältesten Christentum*. Tübingen, 1934.
-18. Veldhuis, Niek. *History of the Cuneiform Lexical Tradition*. Münster: Ugarit-Verlag, 2014.
-19. Matthiae, Paolo. *Ebla: An Empire Rediscovered*. London: Hodder and Stoughton, 1980.
-20. Sachs, Abraham J., and Hermann Hunger. *Astronomical Diaries and Related Texts from Babylonia*. Vienna, 1988–2006.
+16. Shields, Christopher. "Aristotle." *Stanford Encyclopedia of Philosophy* (2020).
+17. Lovejoy, Arthur O. *The Great Chain of Being*. Cambridge: Harvard University Press, 1936.
+18. Bauer, Walter. *Rechtgläubigkeit und Ketzerei im ältesten Christentum*. Tübingen, 1934.
+19. Veldhuis, Niek. *History of the Cuneiform Lexical Tradition*. Münster: Ugarit-Verlag, 2014.
+20. Matthiae, Paolo. *Ebla: An Empire Rediscovered*. London: Hodder and Stoughton, 1980.
+21. Sachs, Abraham J., and Hermann Hunger. *Astronomical Diaries and Related Texts from Babylonia*. Vienna, 1988–2006.
 
 **Framework documents:**
 
-21. [The Harvest and the Fire](../06_Mythological_Studies/The%20Harvest%20and%20the%20Fire_%20Three%20Centuries%20of%20Greek%20Reception%2C%20One%20Generation%20of%20Claiming%2C%20and%20the%20Institutional%20Erasure%20of%20Eastern%20Provenance.md). The four-act arc of Greek intellectual appropriation.
-22. [The River, Not the Chain](../06_Mythological_Studies/The%20River%2C%20Not%20the%20Chain_%20The%20Great%20Chain%20of%20Being%20as%20a%20Reception%20Artifact.md). The motion-primary character of the tradition; the static chain as reception artifact.
-23. [The Temple and the Trench](../06_Mythological_Studies/The%20Temple%20and%20the%20Trench_%20The%20Scientific%20Infrastructure%20of%20the%20Ancient%20East.md). The institutional infrastructure of the Eastern scientific culture.
-24. [The Philosopher](../06_Mythological_Studies/The%20Philosopher_%20Aristotle%27s%20Self-Portrait%20in%20the%20Mirror%20of%20His%20Predecessors.md). The ruling love of self-sufficiency at Aristotle's summit.
-25. [The Children of the East](The%20Children%20of%20the%20East_%20Israel%2C%20the%20Bene%20Qedem%2C%20and%20the%20Forging%20of%20the%20Word%20from%20Nomadic%20Wisdom%20to%20Covenantal%20Scripture.md). The Bene Qedem as carriers; the forging of the Word.
-26. [They Killed His Brother and Took His Name](../04_Early_Christian_History/They%20Killed%20His%20Brother%20and%20Took%20His%20Name_%20A%20Forensic%20Reconstruction%20of%20the%20Suppression%20of%20the%20Jamesian%20Church%20and%20the%20Editorial%20Invention%20of%20Pauline%20Christianity.md). The suppression of the family church.
-27. [Rome's Gravity](../04_Early_Christian_History/Rome%27s%20Gravity_%20The%20Imperial%20Substrate%20of%20the%20Jesus%20Movement%27s%20Textual%20History.md). The two-step imperial settlement; the Differentiation Principle.
-28. [The Beast That Wears the Lamb](The%20Beast%20That%20Wears%20the%20Lamb_%20A%20History%20of%20Truth%20Captured.md). The mechanism of institutional capture; selfhood seizing truth's form.
+22. [The Harvest and the Fire](../06_Mythological_Studies/The%20Harvest%20and%20the%20Fire_%20Three%20Centuries%20of%20Greek%20Reception%2C%20One%20Generation%20of%20Claiming%2C%20and%20the%20Institutional%20Erasure%20of%20Eastern%20Provenance.md). The four-act arc of Greek intellectual appropriation.
+23. [The River, Not the Chain](../06_Mythological_Studies/The%20River%2C%20Not%20the%20Chain_%20The%20Great%20Chain%20of%20Being%20as%20a%20Reception%20Artifact.md). The motion-primary character of the tradition; the static chain as reception artifact.
+24. [The Temple and the Trench](../06_Mythological_Studies/The%20Temple%20and%20the%20Trench_%20The%20Scientific%20Infrastructure%20of%20the%20Ancient%20East.md). The institutional infrastructure of the Eastern scientific culture.
+25. [The Philosopher](../06_Mythological_Studies/The%20Philosopher_%20Aristotle%27s%20Self-Portrait%20in%20the%20Mirror%20of%20His%20Predecessors.md). The ruling love of self-sufficiency at Aristotle's summit.
+26. [The Children of the East](The%20Children%20of%20the%20East_%20Israel%2C%20the%20Bene%20Qedem%2C%20and%20the%20Forging%20of%20the%20Word%20from%20Nomadic%20Wisdom%20to%20Covenantal%20Scripture.md). The Bene Qedem as carriers; the forging of the Word.
+27. [They Killed His Brother and Took His Name](../04_Early_Christian_History/They%20Killed%20His%20Brother%20and%20Took%20His%20Name_%20A%20Forensic%20Reconstruction%20of%20the%20Suppression%20of%20the%20Jamesian%20Church%20and%20the%20Editorial%20Invention%20of%20Pauline%20Christianity.md). The suppression of the family church.
+28. [Rome's Gravity](../04_Early_Christian_History/Rome%27s%20Gravity_%20The%20Imperial%20Substrate%20of%20the%20Jesus%20Movement%27s%20Textual%20History.md). The two-step imperial settlement; the Differentiation Principle.
+29. [The Beast That Wears the Lamb](The%20Beast%20That%20Wears%20the%20Lamb_%20A%20History%20of%20Truth%20Captured.md). The mechanism of institutional capture; selfhood seizing truth's form.

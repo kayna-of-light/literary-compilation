@@ -125,7 +125,7 @@ The Nag Hammadi texts display the opposite pattern:
 
 The pattern: the texts that survived independently are the **non-sectarian** ones — generic philosophical or ethical works that any educated person might copy regardless of theological affiliation. The texts that survived *only* here are the specifically Christian texts that carried Jamesian authority claims, Magdalene traditions, anti-Pauline polemic, and alternative christologies.
 
-This distribution is not accidental. These texts did not fail to survive because nobody was interested in them. They failed to survive because they were being **actively eliminated** by the institutional church that won the canonization battle. Athanasius's 39th Festal Letter (367 CE) explicitly ordered the destruction of "apocryphal" writings. The heresiologists (Irenaeus, Hippolytus, Epiphanius) knew these texts existed and campaigned specifically against them. The reason we don't have the Gospel of Philip from other manuscript traditions is not that nobody cared about it. It is that the institutional church systematically destroyed every copy it could reach.
+This distribution is not accidental. These texts did not fail to survive because nobody was interested in them. They failed to survive because they were being **actively eliminated** by the institutional church that won the canonization battle. Athanasius's 39th Festal Letter (367 CE) condemned the "apocryphal" writings as "an invention of heretics" (Athanasius, *Ep. fest.* 39.7). The heresiologists (Irenaeus, Hippolytus, Epiphanius) knew these texts existed and campaigned specifically against them. The reason we don't have the Gospel of Philip from other manuscript traditions is not that nobody cared about it. It is that the institutional church systematically destroyed every copy it could reach.
 
 The Nag Hammadi collection preserved what was being erased. The question is: **who would have had both the access and the motivation to assemble and preserve this specific set of documents?**
 
@@ -470,3 +470,4 @@ The Nag Hammadi Library is the community's record of the war fought over their m
 24\. Layton, Bentley. *The Gnostic Scriptures: A New Translation with Annotations and Introductions*. Garden City, NY: Doubleday, 1987.
 
 25\. Turner, John D. *Sethian Gnosticism and the Platonic Tradition*. Bibliothèque copte de Nag Hammadi, Section "Études" 6. Québec: Les Presses de l'Université Laval; Louvain: Peeters, 2001.
+26\. Athanasius. *Festal Letter* 39. Translated by R. Payne-Smith. In *Nicene and Post-Nicene Fathers*, Second Series, vol. 4, edited by Philip Schaff and Henry Wace. New York: Christian Literature Company, 1892. The Greek portion; the apocrypha as "an invention of heretics" at §7.

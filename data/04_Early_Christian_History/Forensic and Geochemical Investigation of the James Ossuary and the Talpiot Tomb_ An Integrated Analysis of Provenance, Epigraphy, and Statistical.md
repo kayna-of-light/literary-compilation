@@ -203,7 +203,7 @@ Kevin Kilty and Mark Elliott performed a rigorous Bayesian analysis of the clust
 
 * **Scenario A (Without James):** The probability of the Talpiot Tomb being the Jesus family tomb was calculated at \~47% (assuming *Yoseh* is rare).  
 * **Scenario B (With James):** When the James Ossuary is added to the cluster (as supported by the geochemical evidence), the posterior probability jumps to **\>92%**.  
-* **Feuerverger's Calculation:** An earlier study by Andrey Feuerverger (University of Toronto) estimated the odds at 1 in 600 *in favor* of the identification. While criticized for its assumptions about Mariamne, the core finding—that such a cluster is statistically anomalous—holds true when the rare *Yoseh* and *James* are factored in.
+* **Feuerverger's Calculation:** An earlier study by Andrey Feuerverger (University of Toronto) estimated the odds at 600 to 1 *in favor* of the identification. While criticized for its assumptions about Mariamne, the core finding—that such a cluster is statistically anomalous—holds true when the rare *Yoseh* and *James* are factored in.
 
 **Table 2: Statistical Probability Estimates**
 

@@ -2,7 +2,7 @@
 
 ## 1. Introduction: The Talpiot Evidence
 
-The discovery of a rock-cut tomb in the East Talpiot neighborhood of Jerusalem in 1980 (IAA Permit No. 938) has precipitated one of the most significant debates in biblical archaeology. Within this burial chamber, archaeologists recovered ten limestone ossuaries — bone boxes used for secondary burial during the Second Temple period (c. 20 BCE – 70 CE). Six bore inscriptions, forming an onomastic cluster that corresponds with remarkable precision to the family of Jesus of Nazareth. Among these inscriptions, one has been largely ignored by scholarship: *Yehuda bar Yeshua* — "Judah, son of Jesus."
+The discovery of a rock-cut tomb in the East Talpiot neighborhood of Jerusalem in 1980 (excavation licence no. 938) has precipitated one of the most significant debates in biblical archaeology. Within this burial chamber, archaeologists recovered ten limestone ossuaries — bone boxes used for secondary burial during the Second Temple period (c. 20 BCE – 70 CE). Six bore inscriptions (Feuerverger 2008, § 2), forming an onomastic cluster that corresponds with remarkable precision to the family of Jesus of Nazareth. Among these inscriptions, one has been largely ignored by scholarship: *Yehuda bar Yeshua* — "Judah, son of Jesus."
 
 The existence of an ossuary ascribed to a "son of Jesus" implies that the historical Jesus was married — likely to the individual identified in the tomb as *Mariamene* — and that he fathered a child. This is not a sensational claim but a straightforward reading of the archaeological evidence. If the Talpiot tomb belongs to the Jesus family (and the statistical, geochemical, and onomastic evidence strongly supports this), then the *Yehuda* ossuary contains the remains of his son.
 
@@ -28,28 +28,28 @@ The identification of the tomb relies on the statistical improbability of a rand
 | Ossuary Inscription | Translation | New Testament/Historical Correlate |
 | :---- | :---- | :---- |
 | *Yeshua bar Yehosef* | Jesus, son of Joseph | Jesus of Nazareth |
-| *Maria* | Mary | Mary, Mother of Jesus (Latinized form) |
+| *Marya* | Mary | Mary, Mother of Jesus (Hebrew-script form of the Latin *Maria*) |
 | *Yose* | Joses | Brother of Jesus (Mark 6:3) |
 | *Mariamene e Mara* | Mariamne the Master/Mistress | Mary Magdalene (Acts of Philip) |
 | *Matya* | Matthew | Family member (possibly Joses' line) |
 | *Yehuda bar Yeshua* | Judah, son of Jesus | **The Lost Son** |
 
-Critics have argued that these names were ubiquitous in Second Temple Judea. While individual names like "Jesus" and "Mary" were indeed common, the specific *cluster* is statistically anomalous. Bayesian analysis conducted by statisticians Kevin Kilty and Mark Elliott demonstrates that the probability of this specific combination belonging to a family other than that of Jesus of Nazareth is exceptionally low.
+Critics have argued that these names were ubiquitous in Second Temple Judea. While individual names like "Jesus" and "Mary" were indeed common, the specific *cluster* is statistically anomalous. The statistician Andrey Feuerverger found that a cluster as surprising as Talpiot's arises under random naming about once in 1,821,000 tombs, and that the chance of one arising anywhere among the roughly 1,100 tombs of first-century Jerusalem is at most 1 in 1,655 (Feuerverger 2008). A Bayesian analysis by Kevin Kilty, an engineer, and Mark Elliott, editor of *Bible and Interpretation*, begins from a prior of one in a thousand — one tomb among the likely tombs of the area — and finds that the inscriptions alone raise the probability that Talpiot is the Jesus family's tomb to 47% when *Yose* is taken as the rare name it is (Kilty and Elliott 2007; 2011).
 
 Two rare identifiers act as "locking mechanisms":
 
-1. **The *Yose* Diminutive:** The Gospel of Mark (6:3) identifies Jesus's brother as *Joses* (Greek: *Iōsēs*). In the Hebrew/Aramaic of the period, the standard form was *Yosef* or the diminutive *Yosi*. The form *Yose* (ending in a distinct *He*) found on the ossuary is exceedingly rare, appearing in only a handful of instances across hundreds of known ossuaries. Its presence in a tomb with a "Jesus son of Joseph" provides a powerful correlation to the specific textual tradition of Mark.2  
-2. **The *Mariamene* Connection:** The inscription *Mariamene e Mara* is unique. *Mariamene* is a rare Greek diminutive of Miriam. The apocryphal *Acts of Philip* specifically identifies Mary Magdalene as "Mariamene." The addition of *Mara* (Aramaic for "The Master" or "Mistress") indicates a woman of high status or apostolic authority. Mitochondrial DNA testing conducted on the remains from the *Yeshua* and *Mariamene* ossuaries confirmed they were not maternally related. In a small, patrilineal family tomb, a woman unrelated by blood to the patriarch is almost certainly a wife.2
+1. **The *Yose* Diminutive:** The Gospel of Mark (6:3) identifies Jesus's brother as *Joses* (Greek: *Iōsēs*). In the Hebrew/Aramaic of the period, the standard form was *Yosef*; the diminutive *Yosi* is attested only in the Mishnah. The form *Yose* (ending in a distinct *He*) found on the ossuary is exceedingly rare: among 2,826 names recorded for the period it occurs only three times in Hebrew, and on only one of the 650-odd inscribed ossuaries of Judea — this one (Kilty and Elliott 2012; Tabor 2018). Its presence in a tomb with a "Jesus son of Joseph" provides a powerful correlation to the specific textual tradition of Mark.  
+2. **The *Mariamene* Connection:** The inscription *Mariamene e Mara* is unique. *Mariamene* is a rare Greek diminutive of Miriam. The apocryphal *Acts of Philip* gives the name *Mariamne* to the apostle's sister, a figure François Bovon identifies as Mary Magdalene (Bovon 2002). The addition of *Mara* (Aramaic for "The Master" or "Mistress") indicates a woman of high status or apostolic authority. Mitochondrial DNA testing conducted on the remains from the *Yeshua* and *Mariamene* ossuaries confirmed they were not maternally related (Jacobovici and Pellegrino 2007; Tabor 2018). In a small, patrilineal family tomb, a woman unrelated by blood to the patriarch is almost certainly a wife.
 
-In the context of this cluster, the presence of *Yehuda bar Yeshua* cannot be dismissed as a random occurrence. If the tomb belongs to Jesus of Nazareth, then the *Yehuda* ossuary contains the remains of his son. The Bayesian models often apply a "penalty" for this name because there is no canonical record of a son. However, as the Kilty/Elliott analysis shows, the strength of the other matches (James, Yose, Mariamene) overrides this penalty, resulting in a posterior probability of identification exceeding 99% when the geochemical link to the James Ossuary is included.2
+In the context of this cluster, the presence of *Yehuda bar Yeshua* cannot be dismissed as a random occurrence. If the tomb belongs to Jesus of Nazareth, then the *Yehuda* ossuary contains the remains of his son. Critics argue that the name should count against the identification as a "penalty", because there is no canonical record of a son (Mark Goodacre, quoted in Kilty and Elliott 2012). Kilty and Elliott reject the argument: the Gospels are silent on Jesus's marital status, and silence cannot overturn the cluster. Their calculation treats *Yehuda* as a name whose relationship to the others is unknown, and the matches it does count (Jesus son of Joseph, *Yose*, Mary) carry the result: 47% on the inscriptions alone, rising to 92% when the James Ossuary is included (Kilty and Elliott 2007; 2011; 2012). If the James Ossuary did come from the tomb, they conclude, "scholars will have to face the question of who is Judah, son of Jesus" (Kilty and Elliott 2011).
 
 ### 2.2 The James Ossuary Link
 
-The identification is further bolstered by the connection to the unprovenanced "James Ossuary" (*Ya'akov bar Yosef akhui diYeshua*). Geochemical analysis of the patina (the bio-chemical crust formed on stone over centuries) found inside the James Ossuary matches the unique chemical signature of the Talpiot tomb's soil and ossuaries. This "geochemical fingerprint" suggests the James Ossuary was removed from the Talpiot tomb before the official excavation, placing the "Brother of Jesus" and the "Son of Jesus" in the same family plot.
+The identification is further bolstered by the connection to the unprovenanced "James Ossuary" (*Ya'akov bar Yosef akhui diYeshua*). Geochemical analysis of the sediment that accumulated over the centuries inside the James Ossuary matches the distinctive chemistry of the soils flushed into the Talpiot tomb and its ossuaries, and differs from that of ossuaries from some 25 other tombs in the Jerusalem area; the investigators' conclusion is that "the James ossuary is likely a member of the Talpiot group" (Shimron et al. 2020). This "geochemical fingerprint" suggests the James Ossuary was removed from the Talpiot tomb before the official excavation, placing the "Brother of Jesus" and the "Son of Jesus" in the same family plot.
 
 ### 2.3 The Son in Jewish Burial Context
 
-The existence of *Yehuda bar Yeshua* aligns with Jewish burial customs of the period. Secondary burial in ossuaries was reserved for the immediate family. If Jesus died c. 30 CE, and the tomb was in use until 70 CE, a son born around 25-30 CE would have been in his 30s or 40s at the time of death, though some ossuaries suggest child burials. The *Yehuda* ossuary is of standard size, implying an adolescent or adult.
+The existence of *Yehuda bar Yeshua* aligns with Jewish burial customs of the period. Secondary burial in ossuaries was reserved for the immediate family. If Jesus died c. 30 CE, and the tomb was in use until 70 CE, a son born around 25-30 CE would have been in his 30s or 40s at the time of death, though some ossuaries suggest child burials. The *Yehuda* ossuary (55 × 23 × 27 cm) is of standard size, implying an adolescent or adult (Feuerverger 2008, § 2).
 
 The interment of the son with the father follows normal Jewish practice for a family tomb. There is nothing unusual about this arrangement — it is what any family would do. The silence of the canonical texts regarding this son is the anomaly that requires explanation, not the burial itself.
 
@@ -57,7 +57,7 @@ The interment of the son with the father follows normal Jewish practice for a fa
 
 ## 3. "Judas not Iscariot": Textual Traces in the Johannine Tradition
 
-If a son named Judah existed, he would not be entirely absent from the collective memory of the early church. We should expect to find him present but obscured — folded into other categories as institutional pressures reshaped the tradition. The Gospel of John, which preserves the testimony of the Beloved Disciple (identified as James the Just, the brother of Jesus), provides a specific candidate: the figure identified as "Judas (not Iscariot)."
+If a son named Judah existed, he would not be entirely absent from the collective memory of the early church. We should expect to find him present but obscured — folded into other categories as institutional pressures reshaped the tradition. The Gospel of John, which preserves the testimony of the Beloved Disciple (identified as James the Just, the brother of Jesus; *The Beloved Disciple and the Jamesian Tradition*), provides a specific candidate: the figure identified as "Judas (not Iscariot)."
 
 ### 3.1 The Johannine Context
 
@@ -96,7 +96,7 @@ The canonical Epistle of Jude presents a philological puzzle. The author identif
 
 "Jude, a servant of Jesus Christ and brother of James" (*Ioudas Iēsou Christou doulos adelphos de Iakōbou*).
 
-Beyond the self-identification anomaly (see below), the epistle has a striking feature: it is the only New Testament book to explicitly quote 1 Enoch as prophetic scripture. In Jude 14-15, the author writes: *"Enoch, the seventh from Adam, prophesied about these people..."* — citing 1 Enoch 1:9 verbatim and treating the Enochic tradition as genuine prophecy, not merely literature. If the author is Yehuda bar Yeshua, this tells us something about the family's scriptural orientation: Jesus's own son regarded the Enochic corpus as authoritative. This is consistent with the broader evidence that the Jesuine family operated within Second Temple Jewish apocalyptic tradition rather than the emerging Gentile church, and it aligns with the Enochic literature's preservation of correspondential knowledge from what Swedenborg identified as the Ancient Word.
+Beyond the self-identification anomaly (see below), the epistle has a striking feature: it is the only New Testament book to explicitly quote 1 Enoch as prophetic scripture. In Jude 14-15, the author writes: *"It was also about these that Enoch, the seventh from Adam, prophesied"* — quoting 1 Enoch 1:9 and treating the Enochic tradition as genuine prophecy, not merely literature. If the author is Yehuda bar Yeshua, this tells us something about the family's scriptural orientation: Jesus's own son regarded the Enochic corpus as authoritative. This is consistent with the broader evidence that the Jesuine family operated within Second Temple Jewish apocalyptic tradition rather than the emerging Gentile church, and it aligns with the Enochic literature's preservation of correspondential knowledge from what Swedenborg identified as the Ancient Word (*True Christian Religion* §279).
 
 ### 4.1 The Self-Identification Anomaly
 
@@ -112,7 +112,7 @@ But if Jude was the brother of James, he was also the brother of Jesus (Mark 6:3
 Luke and Acts list an apostle named *Ἰούδαν Ἰακώβου* (Luke 6:16; Acts 1:13). The Greek is elliptical: "Judas [of] James."
 
 - **Greek standard:** The genitive (possessive) following a personal name denotes sonship unless context dictates otherwise. Compare *Σίμων Ἰωάννου* (John 21:15) — "Simon [son] of John." No translator renders this "Simon, brother of John." The natural reading of *Ἰούδαν Ἰακώβου* is therefore "Judas, son of James."
-- **Translation override:** Most English versions (KJV, NIV, NRSV) supply the word ἀδελφός ("brother"), which is **not in the Greek text**, solely to harmonize with Jude 1:1 and Mark 6:3. This is a theological choice, not a linguistic one.
+- **Translation override:** The King James and Douay-Rheims versions supply the word ἀδελφός ("brother"), which is **not in the Greek text**, solely to harmonize with Jude 1:1 and Mark 6:3. This is a theological choice, not a linguistic one. Modern translations (RSV, NIV, NRSV, ESV) render the Greek as it stands: "Judas son of James".
 
 This gives us three designations for what may be one figure:
 
@@ -159,23 +159,23 @@ The final line of evidence concerns the *Desposyni* ("those belonging to the Mas
 
 ### 6.1 The Domitian Incident (c. 95 CE)
 
-Hegesippus records that Emperor Domitian, fearing messianic claimants, ordered the arrest of members of the "House of David." The **grandsons of Jude**, "said to be the brother of the Saviour according to the flesh," were brought before him.
+Hegesippus records that Emperor Domitian, who "feared the coming of Christ as Herod also had feared it," had commanded that the descendants of David be slain. The **grandsons of Jude**, "said to have been a brother of the Saviour according to the flesh," were brought before him (Eusebius, *Hist. eccl.* 3.19–20).
 
-- **The Interrogation:** Domitian asked if they were of David's line; they confirmed. He asked about their property. They showed their **calloused hands** and stated they possessed only **39 plethra** (approximately 9-10 acres) of land, valued at **9,000 denarii**, which they farmed themselves.
-- **The Kingdom:** When asked about Christ's kingdom, they replied it was **not *kosmikos* (of this world) but heavenly and angelic**, to appear at the end of the age.
-- **The Verdict:** Domitian dismissed them and ceased the persecution.
+- **The Interrogation:** Domitian asked if they were of David's line; they confirmed. He asked about their property. They showed their **calloused hands** and stated they possessed only **39 plethra** (about nine acres) of land, valued at **9,000 denarii**, which they farmed themselves.
+- **The Kingdom:** When asked about Christ's kingdom, they replied it was **not *kosmikos* (of this world) nor earthly, but heavenly and angelic**, to appear at the end of the age.
+- **The Verdict:** Domitian dismissed them and ceased the persecution (Eusebius, *Hist. eccl.* 3.20).
 
 The scene is definitive. These men were not playing a survival game. They were telling the truth. Their kingdom was heavenly. Their hands were calloused. They were exactly what they appeared to be: farmers who understood that the reality their grandfather announced operates at a different degree than the one Domitian governed.
 
 ### 6.2 Grandsons of Whom?
 
-Hegesippus identifies them as grandsons of *Jude, the brother of the Lord*. But if the reclassification hypothesis holds — if "Jude the brother" was originally "Judah the son" — then these men are the **direct grandsons of Jesus**.
+Hegesippus identifies them as grandsons of *Jude, the brother of the Lord*. But if the reclassification hypothesis holds — if "Jude the brother" was originally "Judah the son" — then these men are **direct descendants of Jesus** — his great-grandsons.
 
 Several observations support this:
 
 1. **Imperial attention:** Why would the Emperor of Rome personally interrogate two peasant farmers if they were merely the great-nephews of a crucified provincial figure? Collateral relatives of dead rebels were not typically hunted sixty years later. Direct descendants are a different matter.
-2. **Chronological fit:** If Jesus was born c. 4 BCE and his son Judah was born c. 25-30 CE, Judah's sons would be born c. 45-55 CE. By 95 CE (Domitian), they would be in their 40s or 50s — the right age for the scene Hegesippus describes.
-3. **The kingdom answer:** "Not of this world but heavenly and angelic" — this is not a political deflection. This is the same understanding expressed throughout the Johannine tradition. The family consistently understood the Kingdom as spiritual reality, not political ambition.
+2. **Chronological fit:** If Jesus was born c. 4 BCE and his son Judah was born c. 25-30 CE, Judah's sons would be born c. 45-55 CE and his grandsons c. 65-75 CE. By 95 CE (Domitian), they would be men in their 20s or 30s, working their own land — a scene Hegesippus describes without giving their ages.
+3. **The kingdom answer:** "Not a temporal nor an earthly kingdom, but a heavenly and angelic one" (Eusebius, *Hist. eccl.* 3.20) — this is not a political deflection. This is the same understanding expressed throughout the Johannine tradition. The family consistently understood the Kingdom as spiritual reality, not political ambition.
 
 ### 6.3 The Land
 
@@ -198,7 +198,7 @@ The integration of the Talpiot evidence with the textual anomalies reveals a coh
 - John includes "Judas not Iscariot" at the table but defines him only negatively.
 - The Epistle of Jude identifies through James, not through Jesus.
 
-**The patristic completion (2nd–4th century):** Jerome reclassifies all "brothers" as "cousins." The Desposyni are marginalized. The family tomb is sealed and forgotten. The son becomes invisible — not through deliberate erasure but through the accumulated weight of institutional preference.
+**The patristic completion (2nd–4th century):** Jerome reclassifies all "brothers" as "cousins" (Jerome, *Helv.*). The Desposyni are marginalized. The family tomb is sealed and forgotten. The son becomes invisible — not through deliberate erasure but through the accumulated weight of institutional preference.
 
 ---
 
@@ -208,7 +208,7 @@ The hypothesis that Jesus had a son named Judah rests on the convergence of inde
 
 The figure was not "erased" through conspiracy. He became invisible through the natural pressure of institutional theology: as celibacy, the Virgin Birth, and Perpetual Virginity developed, a married Jesus with a son became impossible to acknowledge. The son was folded into the brother category. The brother was folded into the cousin category. The family became collateral. The direct line became invisible.
 
-What remains is an ossuary that says *Yehuda bar Yeshua*, a Greek text that says *Ἰούδαν Ἰακώβου* ("son of James" by standard grammar), an epistle writer who identifies through his uncle rather than his father, and grandsons who stood before an emperor and said: "His kingdom is not of this world but heavenly and angelic."
+What remains is an ossuary that says *Yehuda bar Yeshua*, a Greek text that says *Ἰούδαν Ἰακώβου* ("son of James" by standard grammar), an epistle writer who identifies through his uncle rather than his father, and grandsons who stood before an emperor and said that his kingdom was "not a temporal nor an earthly kingdom, but a heavenly and angelic one."
 
 They were telling the truth. They always were.
 
@@ -221,7 +221,7 @@ They were telling the truth. They always were.
 | Ossuary Inscription | Translation | Frequency in Period | Relationship | Statistical Weight |
 | :---- | :---- | :---- | :---- | :---- |
 | *Yeshua bar Yehosef* | Jesus son of Joseph | High | Patriarch | Anchor |
-| *Maria* | Mary | Very High | Mother | Neutral |
+| *Marya* | Mary | Very High | Mother | Neutral |
 | *Mariamene e Mara* | Mariamne the Mistress | Unique | Wife (mtDNA confirmed non-maternal) | **Very High** |
 | *Yose* | Joses | Very Rare | Brother (Mark 6:3) | **Extremely High** (locking mechanism) |
 | *Yehuda bar Yeshua* | Judah son of Jesus | Low (as son of Jesus) | Son | Penalty (canonical) / Match (archaeological) |
@@ -235,8 +235,8 @@ They were telling the truth. They always were.
 | **Johannine tradition** | "Judas not Iscariot" | John 14:22 | Distinguished from traitor; relationship unstated |
 | **Lukan tradition** | *Ἰούδαν Ἰακώβου* | Luke 6:16 / Acts 1:13 | "Judas [son] of James" (genitive = sonship) |
 | **Epistolary** | "Brother of James" | Jude 1:1 | Identifies through uncle, not father |
-| **Synoptic lists** | *Thaddeus* / *Lebbaeus* | Matt 10:3 | Alternative names avoid "Judas" entirely |
-| **Patristic** | Cousin (*Anepsios*) | Jerome | Removes biological link to Jesus |
+| **Synoptic lists** | *Thaddeus* / *Lebbaeus* | Matt 10:3; Mark 3:18 | Alternative names avoid "Judas" entirely |
+| **Patristic** | Cousin | Jerome, *Against Helvidius* | Removes biological link to Jesus |
 
 #### **Table 3: The Reclassification of the Mark 6:3 List**
 
@@ -249,32 +249,52 @@ They were telling the truth. They always were.
 
 ---
 
-#### **Works cited**
+## Works Cited
 
-1\. Eusebius of Caesarea. *Ecclesiastical History*. c. 325 CE. Key passages: 3.19-20 (Jude's grandsons before Domitian), 3.11 (Simeon son of Clopas as successor), 3.32 (martyrdom of Simeon).
+**Primary Sources:**
 
-2\. Hegesippus. *Hypomnemata* (Memoirs). c. 170 CE. Preserved in Eusebius, *HE* 3.19-20. The Desposyni grandsons, their land, calloused hands, and testimony about the heavenly kingdom.
+1\. Bible. Quotations follow the English Standard Version (Wheaton, IL: Crossway, 2001).
 
-3\. Jacobovici, Simcha, and Charles Pellegrino. *The Jesus Family Tomb: The Discovery, the Investigation, and the Evidence That Could Change History*. HarperSanFrancisco, 2007.
+2\. Eusebius. *The Church History*. Translated by Arthur Cushman McGiffert. Nicene and Post-Nicene Fathers, 2nd ser., vol. 1. New York: Christian Literature, 1890. (Simeon son of Clopas as James's successor, 3.11; Domitian and the descendants of David, 3.19; Hegesippus on the grandsons of Jude, 3.20; the martyrdom of Simeon, 3.32.)
 
-4\. Kilty, Kevin, and Mark Elliott. "Regarding the Talpiot Tomb Cluster." Statistical analysis of the onomastic cluster probability.
+3\. Hegesippus. *Hypomnemata* (Memoirs). c. 170 CE. Fragments preserved in Eusebius, *Church History* 3.20 and 3.32.
 
-5\. Tabor, James D. *The Jesus Dynasty: The Hidden History of Jesus, His Royal Family, and the Birth of Christianity*. Simon & Schuster, 2006.
+4\. Holmes, Michael W., ed. *The Greek New Testament: SBL Edition*. Atlanta: Society of Biblical Literature; Bellingham, WA: Logos Bible Software, 2010.
 
-6\. Tabor, James D. "The Top Twenty Fictions Related to the Talpiot 'Jesus Family' Tomb." Blog post, [https://jamestabor.com/the-top-twenty-fictions-related-to-the-talpiot-jesus-family-tomb/](https://jamestabor.com/the-top-twenty-fictions-related-to-the-talpiot-jesus-family-tomb/)
+5\. Jerome. *Against Helvidius: The Perpetual Virginity of Blessed Mary*. Translated by W. H. Fremantle. Nicene and Post-Nicene Fathers, 2nd ser., vol. 6. New York: Christian Literature, 1893.
 
-7\. Culpepper, R. Alan. *Anatomy of the Fourth Gospel: A Study in Literary Design*. Fortress Press, 1983 (repr. 2009).
+6\. Nickelsburg, George W. E., and James C. VanderKam, trans. *1 Enoch: A New Translation*. Minneapolis: Fortress, 2004.
 
-8\. Bovon, François. "Mary Magdalene in the Acts of Philip." In *Which Mary? The Marys of Early Christian Tradition*, ed. F. Stanley Jones. SBL Symposium Series, 2002.
+7\. Swedenborg, Emanuel. *True Christian Religion*. Translated by John C. Ager. Standard Edition. 2 vols. West Chester, PA: Swedenborg Foundation, 2009. Cited by section number (§).
 
-9\. "Desposyni according to the Church Fathers." Wikisource, [https://en.wikisource.org/wiki/Desposyni_according_to_the_Church_Fathers](https://en.wikisource.org/wiki/Desposyni_according_to_the_Church_Fathers)
+**Scholarly Works:**
 
-**Primary texts cited:**
+8\. Bovon, François. "Mary Magdalene in the *Acts of Philip*." In *Which Mary? The Marys of Early Christian Tradition*, edited by F. Stanley Jones, 75–89. SBL Symposium Series 19. Atlanta: Society of Biblical Literature, 2002.
 
-- *Mark* 6:3, 14:51-52
-- *Luke* 6:16
-- *John* 13:24, 14:22, 18:15, 19:26, 21:15
-- *Acts* 1:13
-- *Jude* 1:1, 14-15
-- *1 Enoch* 1:9
-- *Matthew* 10:3
+9\. Culpepper, R. Alan. *Anatomy of the Fourth Gospel: A Study in Literary Design*. Philadelphia: Fortress, 1983.
+
+10\. Feuerverger, Andrey. "Statistical Analysis of an Archeological Find." *Annals of Applied Statistics* 2, no. 1 (2008): 3–54. https://doi.org/10.1214/08-AOAS99.
+
+11\. Jacobovici, Simcha, and Charles Pellegrino. *The Jesus Family Tomb: The Discovery, the Investigation, and the Evidence That Could Change History*. San Francisco: HarperSanFrancisco, 2007.
+
+12\. Kilty, Kevin, and Mark Elliott. "Probability, Statistics, and the Talpiot Tomb." *Bible and Interpretation*, June 2007. https://bibleinterp.arizona.edu/articles/probability-statistics-and-talpiot-tomb.
+
+13\. Kilty, Kevin, and Mark Elliott. "The James Ossuary in Talpiot." *Bible and Interpretation*, May 2011. https://bibleinterp.arizona.edu/articles/kilell358029.
+
+14\. Kilty, Kevin, and Mark Elliott. "On Yoseh, Yosi, Joseph, and Judas son of Jesus in Talpiot." *Bible and Interpretation*, April 2012. https://bibleinterp.arizona.edu/articles/kil368024.
+
+15\. Shimron, Aryeh E., Mina Shirav, Kevin T. Kilty, Ludwik Halicz, Rolf B. Pedersen, and Harald Furnes. "The Geochemistry of Intrusive Sediment Sampled from the 1st Century CE Inscribed Ossuaries of James and the Talpiot Tomb, Jerusalem." *Archaeological Discovery* 8, no. 1 (2020): 92–115. https://doi.org/10.4236/ad.2020.81006.
+
+16\. Tabor, James D. *The Jesus Dynasty: The Hidden History of Jesus, His Royal Family, and the Birth of Christianity*. New York: Simon & Schuster, 2006.
+
+**Internal Library Documents:**
+
+17\. [The Beloved Disciple and the Jamesian Tradition: Recovering the Witness Behind the Fourth Gospel](The%20Beloved%20Disciple%20and%20the%20Jamesian%20Tradition_%20Recovering%20the%20Witness%20Behind%20the%20Fourth%20Gospel.md). The case for James the Just as the Beloved Disciple, on which § 3 builds.
+
+18\. [Forensic and Geochemical Investigation of the James Ossuary and the Talpiot Tomb: An Integrated Analysis of Provenance, Epigraphy, and Statistical Probability](Forensic%20and%20Geochemical%20Investigation%20of%20the%20James%20Ossuary%20and%20the%20Talpiot%20Tomb_%20An%20Integrated%20Analysis%20of%20Provenance%2C%20Epigraphy%2C%20and%20Statistical.md). The library's full treatment of the Talpiot evidence summarized in § 2.
+
+19\. [The Tower and the Tomb: An Exhaustive Forensic, Philological, and Archaeological Reconstruction of the Historical Mariamene](The%20Tower%20and%20the%20Tomb_%20An%20Exhaustive%20Forensic%2C%20Philological%2C%20and%20Archaeological%20Reconstruction%20of%20the%20Historical%20Mariamene.md). The *Mariamene e Mara* inscription and its identification with Mary Magdalene.
+
+**Web Sources:**
+
+20\. Tabor, James D. "The Top Twenty Fictions Related to the Talpiot 'Jesus Family' Tomb." *TaborBlog*, February 17, 2018. https://jamestabor.com/the-top-twenty-fictions-related-to-the-talpiot-jesus-family-tomb/.

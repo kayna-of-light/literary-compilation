@@ -283,7 +283,7 @@ They were telling the truth. They always were.
 
 14\. Kilty, Kevin, and Mark Elliott. "On Yoseh, Yosi, Joseph, and Judas son of Jesus in Talpiot." *Bible and Interpretation*, April 2012. https://bibleinterp.arizona.edu/articles/kil368024.
 
-15\. Shimron, Aryeh E., Mina Shirav, Kevin T. Kilty, Ludwik Halicz, Rolf B. Pedersen, and Harald Furnes. "The Geochemistry of Intrusive Sediment Sampled from the 1st Century CE Inscribed Ossuaries of James and the Talpiot Tomb, Jerusalem." *Archaeological Discovery* 8, no. 1 (2020): 92–115. https://doi.org/10.4236/ad.2020.81006.
+15\. Shimron, Aryeh E., Moshe Shirav, Kevin T. Kilty, Ludwik Halicz, Rolf B. Pedersen, and Harald Furnes. "The Geochemistry of Intrusive Sediment Sampled from the 1st Century CE Inscribed Ossuaries of James and the Talpiot Tomb, Jerusalem." *Archaeological Discovery* 8, no. 1 (2020): 92–115. https://doi.org/10.4236/ad.2020.81006.
 
 16\. Tabor, James D. *The Jesus Dynasty: The Hidden History of Jesus, His Royal Family, and the Birth of Christianity*. New York: Simon & Schuster, 2006.
 

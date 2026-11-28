@@ -323,7 +323,7 @@ The Talpiot tomb, discovered in 1980 during construction at Armon HaNatziv in Ea
 
 **Geochemistry (Shimron 2020).** Dr. Aryeh Shimron of the Geological Survey of Israel employed ICP-AES/MS and SEM-EDS to analyze intrusive sediment in the James Ossuary against three reference groups: the nine Talpiot ossuaries, fourteen random Jerusalem tombs, and an ossuary from Talpiot Tomb B (sixty meters away). The James Ossuary matched the Talpiot ossuaries on every measured parameter: Pale Rendzina soil matrix, elevated Chromium (>100 ppm), elevated Nickel (>100 ppm), and matching Si/Al/Mg/Fe ratios. The random Jerusalem controls showed predominantly Terra Rossa soil with negligible Cr/Ni. Talpiot Tomb B — sixty meters away — did not match. The fingerprint is tomb-specific, not regional. The Cr/Ni anomaly derives from the Hatrurim Formation, deposited during the earthquake of 363 CE that flooded the tomb with local soil. Every ossuary present during that event absorbed this unique signature. The James Ossuary was present in that chamber. This has never been scientifically refuted.
 
-**Statistics (Feuerverger 2007; Kilty and Elliott).** Andrey Feuerverger, professor of statistics at the University of Toronto, calculated the probability of the Talpiot name cluster matching the New Testament family by chance at approximately 1 in 600 — a 99.83% probability in favor of identification. This calculation was performed without the James Ossuary. When the James Ossuary is added (as the geochemical evidence warrants), the Bayesian posterior probability rises to >92–99% (Kilty and Elliott). The mathematics have never been refuted. Feuerverger subsequently softened his language under professional pressure, but not his mathematics. The 1 in 600 stands.
+**Statistics (Feuerverger 2008; Kilty and Elliott).** Andrey Feuerverger, professor of statistics at the University of Toronto, calculated the probability of a name cluster as surprising as Talpiot's arising by chance among the tombs of first-century Jerusalem at no more than 1 in 1,655, and the odds in favor of the identification at 1,657 to 1 — a 99.94% probability in favor of identification. This calculation was performed without the James Ossuary. When the James Ossuary is added (as the geochemical evidence warrants), the Bayesian posterior probability rises to >92–99% (Kilty and Elliott). The mathematics have never been refuted. Feuerverger subsequently softened his language under professional pressure, but not his mathematics. The 1 in 1,655 stands.
 
 **DNA (Matheson, Paleo-DNA Laboratory, Lakehead University).** Mitochondrial DNA from the *Yeshua* and *Mariamene* ossuaries confirmed these individuals were not maternally related. In a family tomb, unrelated males and females of the same generation are standardly assumed to be spouses.
 
@@ -337,7 +337,7 @@ The Talpiot tomb, discovered in 1980 during construction at Armon HaNatziv in Ea
 | Lead isotope ratios | Match Sepphoris/Nazareth water, not Jerusalem | Published, never refuted |
 | Patina analysis | <5% elemental variability with Talpiot ossuaries | Published, never refuted |
 | Mitochondrial DNA | "Jesus" and "Mariamene" not maternally related (= spousal) | Published, never refuted |
-| Onomastic statistics | 1 in 600 without James (Feuerverger); >92–99% with James (Kilty & Elliott) | Peer-reviewed, never mathematically refuted |
+| Onomastic statistics | 1 in 1,655 without James (Feuerverger); >92–99% with James (Kilty & Elliott) | Peer-reviewed, never mathematically refuted |
 | Forgery trial | Full acquittal, all charges, after 8-year trial | Adjudicated, 2012 |
 | 1976 photograph | FBI-authenticated; ossuary in Golan's possession before 1980 excavation | Authenticated |
 
@@ -1058,8 +1058,8 @@ The water survived. It always does.
 
 ### Secondary Sources — Talpiot Tomb and James Ossuary
 
-16. Shimron, Aryeh, et al. "Geochemical Investigation of the James Ossuary Inscription and Its Relation to the Talpiot (Jesus Family) Tomb." *Open Journal of Geology* 10 (2020): 81-110.
-17. Feuerverger, Andrey. "Statistical Analysis of an Archaeological Find." *Annals of Applied Statistics* 2, no. 1 (2008): 3-54.
+16. Shimron, Aryeh E., Moshe Shirav, Kevin T. Kilty, Ludwik Halicz, Rolf B. Pedersen, and Harald Furnes. "The Geochemistry of Intrusive Sediment Sampled from the 1st Century CE Inscribed Ossuaries of James and the Talpiot Tomb, Jerusalem." *Archaeological Discovery* 8, no. 1 (2020): 92–115.
+17. Feuerverger, Andrey. "Statistical Analysis of an Archeological Find." *Annals of Applied Statistics* 2, no. 1 (2008): 3-54.
 18. Kilty, Kevin, and Mark Elliott. "Regarding the Talpiot Tomb Cluster: A Bayesian Outlook." In *The Tomb of Jesus and His Family?*, ed. James H. Charlesworth, 133-148. Grand Rapids: Eerdmans, 2013.
 19. Jacobovici, Simcha, and Charles Pellegrino. *The Jesus Family Tomb*. San Francisco: HarperSanFrancisco, 2007.
 20. Tabor, James D. *The Jesus Dynasty*. New York: Simon & Schuster, 2006.

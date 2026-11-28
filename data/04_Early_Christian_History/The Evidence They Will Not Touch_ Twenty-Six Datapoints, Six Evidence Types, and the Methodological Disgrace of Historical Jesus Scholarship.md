@@ -271,7 +271,7 @@ Tier 5 contains four datapoints that achieve their full evidential weight only i
 
 Andrey Feuerverger, a professor of statistics at the University of Toronto, published a peer-reviewed analysis in 2008 calculating that the probability of a name cluster as surprising as Talpiot's arising by chance among the roughly 1,100 tombs of first-century Jerusalem is no more than 1 in 1,655 — and, if the family's own tomb would be expected to show such a cluster, odds of 1,657 to 1, or 99.94%, in favor of the identification. (The 2007 film *The Lost Tomb of Jesus* had reported his preliminary computation as 600 to 1.) This calculation was performed *without* the James Ossuary, using conservative assumptions about name frequencies. The mathematical analysis has never been refuted. Feuerverger subsequently softened his *language* under professional pressure — he issued a clarification saying "I have not claimed to establish that the Talpiot Tomb is the family tomb of the historical Jesus" — but this is a *verbal* qualification, not a *mathematical* one. The numbers remain what they are. They were peer-reviewed. They were published. They have never been mathematically challenged by any competent statistician.
 
-When the James Ossuary is added — as the geochemical evidence demonstrates it should be — the Bayesian analysis by Kilty and Elliott yields posterior probabilities of >92–99%. The convergence of the onomastic statistics with the geochemical provenance creates a evidential lock: the names match with extreme improbability, and the physical science demonstrates that the objects were in the same room. Independent evidence types, converging on the same conclusion.
+When the James Ossuary is added — as the geochemical evidence demonstrates it should be — the Bayesian analysis by Kilty and Elliott yields a posterior probability of 92%. The convergence of the onomastic statistics with the geochemical provenance creates a evidential lock: the names match with extreme improbability, and the physical science demonstrates that the objects were in the same room. Independent evidence types, converging on the same conclusion.
 
 **Datapoint X: The Essene-Enochic tradition existed and was institutionally organized.**
 
@@ -450,7 +450,7 @@ The analysis was conservative. Feuerverger used name frequencies from Tal Ilan's
 
 This calculation was performed *without* the James Ossuary. It did not include the geochemical evidence linking the James Ossuary to the tomb. It did not include the rare form *Yoseh* as a weighted forensic marker (though Feuerverger noted its rarity). It was, in other words, the most conservative possible analysis — and it still yielded 99.94%.
 
-When Kilty and Elliott performed a Bayesian analysis incorporating the James Ossuary (as the geochemical evidence demonstrates is warranted), the posterior probability rose to >92–99% depending on the priors.
+When Kilty and Elliott performed a Bayesian analysis incorporating the James Ossuary (as the geochemical evidence demonstrates is warranted), the posterior probability rose to 92% (32% if *Yoseh* is treated as a mere variant of Joseph).
 
 Feuerverger's paper was peer-reviewed. It was published. It employed standard statistical methodology. The mathematics have never been challenged. No statistician has published a refutation demonstrating an error in the calculations. No rival analysis using the same data and sound methodology has produced a materially different result.
 
@@ -496,7 +496,7 @@ The James Ossuary closes the argument because it connects the Talpiot onomastic 
 
 Without the James Ossuary, the Talpiot cluster is: Jesus son of Joseph, Mary, Joses (rare form *Yoseh*), Mariamne, Judah son of Jesus, and Matthew. Feuerverger's calculation on this cluster alone yielded 1 in 1,655 — already overwhelming.
 
-With the James Ossuary, the cluster becomes: Jesus son of Joseph, Mary, Joses, Mariamne, Judah son of Jesus, Matthew, *and* James son of Joseph brother of Jesus. The Bayesian posterior probability rises to >92–99% (Kilty and Elliott). The geochemical evidence provides the physical basis for including the James Ossuary: Shimron's Cr/Ni fingerprint demonstrates that it was in the same tomb. The archaeological evidence provides the mechanism: the James Ossuary was looted from the tomb's accessible vestibule before the 1980 excavation, as demonstrated by its heavy weathering pattern (consistent with exposure in the anteroom rather than burial under earthquake fill) and by the 1976 photograph authenticated by FBI expert Gerald Richard showing the ossuary in Golan's apartment four years before the official discovery of the tomb.
+With the James Ossuary, the cluster becomes: Jesus son of Joseph, Mary, Joses, Mariamne, Judah son of Jesus, Matthew, *and* James son of Joseph brother of Jesus. The Bayesian posterior probability rises to 92% (Kilty and Elliott). The geochemical evidence provides the physical basis for including the James Ossuary: Shimron's Cr/Ni fingerprint demonstrates that it was in the same tomb. The archaeological evidence provides the mechanism: the James Ossuary was looted from the tomb's accessible vestibule before the 1980 excavation, as demonstrated by its heavy weathering pattern (consistent with exposure in the anteroom rather than burial under earthquake fill) and by the 1976 photograph authenticated by FBI expert Gerald Richard showing the ossuary in Golan's apartment four years before the official discovery of the tomb.
 
 The epigraphic detail seals the identification. In Second Temple ossuary inscriptions, the mention of a brother is extremely rare — appearing on approximately 1–2% of all inscribed ossuaries. A brother was mentioned only when that brother was either the executor of the estate or a figure of prominent public recognition. The inscription "James, son of Joseph, *brother of Jesus*" makes sense only if Jesus was sufficiently prominent in the community to serve as an identifier for James. In a tomb that already contains *Yeshua bar Yehosef*, the inscription is not a later Christian forgery — it is a contemporary familial label: *this James, the one whose brother Jesus is also in this tomb*.
 
@@ -508,7 +508,7 @@ The combined evidence forms a forensic lock:
 | **Lead isotope ratios** | Matches Sepphoris/Nazareth water, not Jerusalem | Published, never refuted |
 | **Patina analysis** | <5% elemental variability with Talpiot ossuaries | Published, never refuted |
 | **Mitochondrial DNA** | "Jesus" and "Mariamene" not maternally related (= spousal) | Published, never refuted |
-| **Onomastic statistics** | 1 in 1,655 without James (Feuerverger); >92–99% with James (Kilty & Elliott) | Peer-reviewed, never mathematically refuted |
+| **Onomastic statistics** | 1 in 1,655 without James (Feuerverger); 92% with James (Kilty & Elliott) | Peer-reviewed, never mathematically refuted |
 | **Forgery trial** | Full acquittal, all charges, after 8-year trial | Adjudicated, 2012 |
 | **1976 photograph** | FBI-authenticated; ossuary in Golan's possession before 1980 excavation | Authenticated, forgery trial |
 | **Archaeological reconciliation** | Early looting hypothesis explains heavy weathering on James Ossuary | Published, internally consistent |
@@ -752,7 +752,7 @@ The evidence is patient. It will wait for a discipline brave enough to look at i
 
 - Feuerverger, Andrey. "Statistical Analysis of an Archeological Find." *Annals of Applied Statistics* 2, no. 1 (2008): 3–54.
 - Jacobovici, Simcha, and Charles Pellegrino. *The Jesus Family Tomb: The Discovery, the Investigation, and the Evidence That Could Change History*. San Francisco: HarperSanFrancisco, 2007.
-- Kilty, Kevin, and Mark Elliott. "Regarding the Talpiot Tomb Cluster: A Bayesian Outlook." In *The Tomb of Jesus and His Family? Exploring Ancient Jewish Tombs Near Jerusalem's Walls*, ed. James H. Charlesworth, 133–148. Grand Rapids: Eerdmans, 2013.
+- Kilty, Kevin, and Mark Elliott. "The James Ossuary in Talpiot." *Bible and Interpretation*, May 2011. https://bibleinterp.arizona.edu/articles/kilell358029.
 - Kloner, Amos. "A Tomb with Inscribed Ossuaries in East Talpiyot, Jerusalem." *'Atiqot* 29 (1996): 15–22.
 - Matheson, Carney. DNA Analysis Report. Paleo-DNA Laboratory, Lakehead University. In Jacobovici and Pellegrino (2007).
 - Rosenfeld, Amnon, and Shimon Ilani. "Geochemical Comparison of the James Ossuary and Talpiot Tomb Ossuaries." In *James, Brother of Jesus*, ed. Hershel Shanks and Ben Witherington III, updated edition. Washington, DC: Biblical Archaeology Society, 2003.

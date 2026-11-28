@@ -195,7 +195,7 @@ The ossuary inscribed *Mariamene e Mara* is written in Greek. The interpretation
 The ossuary inscribed *Yehuda bar Yeshua* (Judah son of Jesus) presents the most significant theological challenge to the identification, as there is no canonical record of Jesus having a son.
 
 * **Scientific Stance:** Operating without theological bias, the existence of a son is biologically possible. Historical silence does not constitute evidence of absence, especially given the persecution of Jesus' family (the *Desposyni*) recorded by Hegesippus and Eusebius.  
-* **Statistical Modeling:** In Bayesian terms, the presence of an "unmatched" name like Judah acts as a penalty to the probability. However, Kilty and Elliott's analysis demonstrates that the strength of the positive matches (Jesus, Joseph, Mary, Yoseh, James) outweighs this penalty. The posterior probability remains high even with Judah included.
+* **Statistical Modeling:** Critics argue that an "unmatched" name like Judah should act as a penalty to the probability. Kilty and Elliott reject the argument, since the Gospels are silent on Jesus's marital status; their calculation treats Judah as a name of unknown relationship, and the positive matches (Jesus son of Joseph, Mary, Yoseh, James) carry the result. The posterior probability remains high with Judah in the tomb.
 
 ### **4.6 Bayesian Probability Results**
 
@@ -210,7 +210,7 @@ Kevin Kilty and Mark Elliott performed a rigorous Bayesian analysis of the clust
 | Statistical Model | Key Assumptions | Probability (Likelihood) |
 | :---- | :---- | :---- |
 | **Feuerverger (2007)** | Mariamne \= Magdalene; Yoseh \= Rare | **\~99.8% (1 in 600\)** |
-| **Kilty & Elliott (Bayesian)** | Yoseh \= Rare; James Ossuary Included | **\>92% \- 99%** |
+| **Kilty & Elliott (Bayesian)** | Yoseh \= Rare; James Ossuary Included | **92%** |
 | **Conservative Estimate** | Yoseh \= Common; James Excluded | **\~3% \- 15%** |
 | **Forensic Integrated** | Yoseh \= Rare; James Included via Soil Match | **\>99%** |
 
